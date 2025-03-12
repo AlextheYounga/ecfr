@@ -4,13 +4,13 @@
 
 (1) For the cost of planting seedlings or cuttings, to replace lost trees, bushes, or vines, the lesser of:
 
-(i) 65 percent of the actual cost of the practice, or
+(i) 65 percent of the actual cost of the practice for eligible producers, or 75 percent of the actual cost of the practice for an eligible producer who is a beginning or veteran farmer or rancher, or
 
 (ii) The amount calculated using rates established by the Deputy Administrator for the practice.
 
 (2) For the cost of pruning, removal, and other costs incurred for salvaging damaged trees, bushes, or vines, or in the case of mortality, to prepare the land to replant trees, bushes, or vines, the lesser of:
 
-(i) 50 percent of the actual cost of the practice, or
+(i) 50 percent of the actual cost of the practice for eligible producers, or 75 percent of the actual cost of the practice for an eligible producer who is a beginning or veteran farmer or rancher, or
 
 (ii) The amount calculated using rates established by the Deputy Administrator for the practice.
 
@@ -48,6 +48,6 @@
 
 (i) If a practice, such as site preparation, is needed to both replant and rehabilitate trees, bushes, or vines, the producer must document the expenses attributable to replanting versus rehabilitation. The county committee will determine whether the documentation of expenses detailing the amounts attributable to replanting versus rehabilitation is acceptable. In the event that the county committee determines the documentation does not include acceptable detail of cost allocation, the county committee will pro-rate payment based on physical inspection of the loss, damage, replanting, and rehabilitation.
 
-(j) The cumulative total quantity of acres planted to trees, bushes, or vines for which a producer may receive payment under this part for losses that occurred on or after October 1, 2011, can not exceed 1,000 acres per program year.
+(j) The cumulative total quantity of acres planted to trees, bushes, or vines for which a producer may receive payment under this part for losses that cannot exceed 1,000 acres per program year.
 
-[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49472, Oct. 2, 2018]
+[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49472, Oct. 2, 2018; 85 FR 10968, Feb. 26, 2020]

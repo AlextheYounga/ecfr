@@ -92,7 +92,7 @@ This section applies to the following types of entities: Except as provided in t
 
 (iii) Any person to the extent that such person has a claim for property or funds which by contract, agreement or understanding, or by operation of law, is part of the capital of the broker or dealer or is subordinated to the claims of creditors of the broker or dealer, for or with whom a broker or dealer has effected a securities transaction in a particular month, which month must be either the month preceding the balance sheet date or the month following the balance sheet date in which the statement is sent.
 
-(iv) The term “customer” also includes any person for whom the broker or dealer holds securities for safekeeping or as collateral or for whom the broker or dealer carries a free credit balance in the month in which customers are determined for purposes of this paragraph (c).
+(iv)\>The term “customer” also includes any person for whom the broker or dealer holds securities for safekeeping or as collateral or for whom the broker or dealer carries a free credit balance in the month in which customers are determined for purposes of this paragraph (c).
 
 (5) *Exemption from sending certain financial information to customers.* A broker or dealer is not required to send to its customers the statements prescribed by paragraphs (c)(2) and (c)(3) of this section if the following conditions are met:
 

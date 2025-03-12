@@ -4,9 +4,9 @@
 
 (1) During the 60 days prior to the beginning date of a qualifying drought or fire, own, cash or share lease, or be a contract grower of covered livestock.
 
-(2) Provide pastureland or grazing land for covered livestock, including cash-leased pastureland or grazing land, that is:
+(2) As of the date of the qualifying drought or fire provide pastureland or grazing land for covered livestock, including cash-leased pastureland or grazing land, that is:
 
-(i) Physically located in a county affected by a qualifying drought during the normal grazing period for the county, or
+(i) Physically located in a county affected by a qualifying drought during the normal grazing period for the specific forage crop acreage in the county, or
 
 (ii) Rangeland managed by a Federal agency for which the otherwise eligible livestock producer is prohibited by the Federal agency from grazing the normal permitted livestock due to a qualifying fire.
 
@@ -18,4 +18,4 @@
 
 (e) If a contract grower is an eligible livestock producer for covered livestock, the owner of that livestock is not eligible for payment.
 
-[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49467, Oct. 2, 2018]
+[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49467, Oct. 2, 2018; 85 FR 10965, Feb. 26, 2020]

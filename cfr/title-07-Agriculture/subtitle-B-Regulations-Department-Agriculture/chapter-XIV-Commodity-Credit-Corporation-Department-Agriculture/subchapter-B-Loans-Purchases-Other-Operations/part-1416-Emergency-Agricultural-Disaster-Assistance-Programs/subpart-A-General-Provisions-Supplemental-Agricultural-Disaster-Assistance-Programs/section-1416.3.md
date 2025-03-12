@@ -8,8 +8,10 @@
 
 (2) Resident alien; for purposes of this part, resident alien means “lawful alien”;
 
-(3) Partnership of citizens of the United States; or
+(3) Partnership of citizens of the United States;
 
-(4) Corporation, limited liability company, or other organizational structure organized under State law.
+(4) Corporation, limited liability company, or other organizational structure organized under State law; or
 
-[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49463, Oct. 2, 2018]
+(5) Indian Tribe or Tribal organization, as defined in section 4(b) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).
+
+[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49463, Oct. 2, 2018; 85 FR 10963, Feb. 26, 2020]

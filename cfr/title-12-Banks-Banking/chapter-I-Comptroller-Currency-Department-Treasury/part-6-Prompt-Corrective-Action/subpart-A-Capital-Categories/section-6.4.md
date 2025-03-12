@@ -1,26 +1,20 @@
 ##### § 6.4 Capital measures and capital categories. #####
 
-(a) *Capital measures* - (1) *Capital measures applicable before January 1, 2015.* On or before December 31, 2014, for purposes of section 38 and this part, the relevant capital measures for all national banks and Federal savings associations are:
-
-(i) Total Risk-Based Capital Measure: the total risk-based capital ratio;
-
-(ii) Tier 1 Risk-Based Capital Measure: the tier 1 risk-based capital ratio; and
-
-(iii) Leverage Measure: the leverage ratio.
-
-(2) *Capital measures applicable on and after January 1, 2015.* On January 1, 2015 and thereafter, for purposes of section 38 and this part, the relevant capital measures are:
+(a) *Capital measures.* (1) For purposes of section 38 of the FDI Act and this part, the relevant capital measures shall be:
 
 (i) Total Risk-Based Capital Measure: the total risk-based capital ratio;
 
 (ii) Tier 1 Risk-Based Capital Measure: the tier 1 risk-based capital ratio;
 
-(iii) Common Equity Tier 1 Capital Measure: the common equity tier 1 risk-based capital ratio; and
+(iii) Common Equity Tier 1 Capital Measure: The common equity tier 1 risk-based capital ratio;
 
 (iv) The Leverage Measure:
 
 (A) The leverage ratio; and
 
-(B) With respect to an advanced approaches national bank or advanced approaches Federal savings association, on January 1, 2018, and thereafter, the supplementary leverage ratio.
+(B) With respect to an advanced approaches national bank or advanced approaches Federal savings association, on January 1, 2018, and thereafter, the supplementary leverage ratio; and
+
+(2) For a qualifying community banking organization (as defined in § 3.12 of this chapter), that has elected to use the community bank leverage ratio framework (as defined in § 3.12 of this chapter), the leverage ratio calculated in accordance with § 3.12(b) of this chapter is used to determine the well capitalized capital category under paragraph (b)(1)(i) (A) through (D) of this section.
 
 (b) *Capital categories.* For purposes of section 38 of the FDI Act and this part, a national bank or Federal savings association shall be deemed to be:
 
@@ -122,4 +116,4 @@
 
 (2) *Unsafe or unsound practice.* The OCC has determined, after notice and opportunity for hearing pursuant to subpart M of part 19 of this chapter with respect to national banks and § 165.8 of this chapter with respect to Federal savings associations, that in the most recent examination of the national bank or Federal savings association, the national bank or Federal savings association received, and has not corrected a less-than-satisfactory rating for any of the categories of asset quality, management, earnings, or liquidity.
 
-[78 FR 62275, Oct. 11, 2013, as amended at 79 FR 24539, May 1, 2014; 84 FR 61794, Nov. 13, 2019]
+[78 FR 62275, Oct. 11, 2013, as amended at 79 FR 24539, May 1, 2014; 84 FR 61794, Nov. 13, 2019; 85 FR 10968, Feb. 26, 2020]

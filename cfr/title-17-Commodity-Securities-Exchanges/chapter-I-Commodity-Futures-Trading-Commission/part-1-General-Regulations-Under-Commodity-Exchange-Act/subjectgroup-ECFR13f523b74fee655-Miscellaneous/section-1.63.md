@@ -1,10 +1,8 @@
 ##### § 1.63 Service on self-regulatory organization governing boards or committees by persons with disciplinary histories. #####
 
-Link to an amendment published at 85 FR 4850, Jan. 27, 2020.
-
 (a) *Definitions.* For purposes of this section:
 
-(1) *Self-regulatory organization* means a “self-regulatory organization” as defined in § 1.3, and includes a “clearing organization” as defined in § 1.3, except as defined in paragraph (b)(6) of this section.
+(1) *Self-regulatory organization* means a “self-regulatory organization,” as defined in § 1.3, except as defined in paragraph (b)(6) of this section.
 
 (2) *Disciplinary committee* means any person or committee of persons, or any subcommittee thereof, that is authorized by a self-regulatory organization to issue disciplinary charges, to conduct disciplinary proceedings, to settle disciplinary charges, to impose disciplinary sanctions or to hear appeals thereof.
 
@@ -64,4 +62,4 @@ Link to an amendment published at 85 FR 4850, Jan. 27, 2020.
 
 (f) Whenever a self-regulatory organization finds by final decision that a person has committed a disciplinary offense and such finding makes such person ineligible to serve on that self-regulatory organization's disciplinary committees, arbitration panels, oversight panels or governing board, the self-regulatory organization shall inform the Commission of that finding and the length of the ineligibility in any notice it is required to provide to the Commission pursuant to either section 17(h)(1) of the Act or Commission regulation 9.11.
 
-[55 FR 7890, Mar. 6, 1990, as amended at 58 FR 37653, July 13, 1993; 64 FR 23, Jan. 4, 1999; 77 FR 66331, Nov. 2, 2012; 83 FR 7995, Feb. 23, 2018]
+[55 FR 7890, Mar. 6, 1990, as amended at 58 FR 37653, July 13, 1993; 64 FR 23, Jan. 4, 1999; 77 FR 66331, Nov. 2, 2012; 83 FR 7995, Feb. 23, 2018; 85 FR 4850, Jan. 27, 2020]

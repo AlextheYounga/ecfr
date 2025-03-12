@@ -10,7 +10,7 @@
 
 (4) The additional cost incurred for transporting livestock feed to eligible livestock due to an eligible adverse weather or eligible loss condition, as specified in § 1416.103(d)(4);
 
-(b) Payments for losses resulting from the additional cost of transporting water to eligible livestock due to an eligible drought for no more 150 days during the program year, as specified in § 1416.103(d)(5) calculated based on a national payment rate, as determined in § 1416.109, multiplied by the lesser of either:
+(b) Payments for losses resulting from the additional cost of transporting water to eligible livestock due to an eligible adverse weather, eligible loss condition, or eligible drought for no more 150 days during the program year, as specified in § 1416.103(d)(5) calculated based on a national payment rate, as determined in § 1416.109, multiplied by the lesser of either:
 
 (1) The total value of the cost to transport water to eligible livestock for 150 days, based on the daily water requirements for the eligible livestock, or
 
@@ -34,11 +34,11 @@
 
 (e) The national average price per gallon to transport water to be used in the calculation for paragraphs (c)(3) and (d)(2) of this section is $0.04, or such other price determined by the Deputy Administrator.
 
-(f) Payments for an eligible livestock producer, for livestock losses resulting from the additional cost associated with gathering livestock to treat for cattle tick fever will be calculated for the actual number of livestock involved in each treatment. Total payments are equal to the sum of the following for each treatment:
+(f) Payments for an eligible livestock producer, for livestock losses resulting from the additional cost associated with gathering livestock to treat or inspect for cattle tick fever will be calculated for the actual number of livestock involved in each treatment or inspection. Total payments are equal to the sum of the following for each treatment or inspection:
 
 (1) The national payment rate, as determined in § 1416.109, times
 
-(2) The number of eligible livestock treated by APHIS for cattle tick fever, times
+(2) The number of eligible livestock treated or inspected by APHIS for cattle tick fever, times
 
 (3) The average cost to gather livestock, per head, as established by the Deputy Administrator.
 
@@ -112,20 +112,6 @@
 
 (ii) Paragraph (l) of this section, for losses due to wildfires on non-Federal lands.
 
-(n) Payments for an eligible livestock producer for eligible livestock death losses will be based on the applicable national payment rate, as determined in § 1416.109, multiplied by the result in paragraph (n)(1) of this section.
+(n) Payments calculated in this section are subject to the adjustments and limits provided for in this part.
 
-(1) Payments will be calculated by multiplying:
-
-(i) The livestock payment rate for each livestock category, times
-
-(ii) The number of eligible livestock that died in each category as a result of an eligible loss condition in excess of normal mortality, as determined in paragraph (n)(2) of this section;
-
-(2) Normal mortality for each livestock category as determined by FSA on a statewide basis using local data sources including, but not limited to, State livestock organizations and the Cooperative Extension Service for the State.
-
-(3) The livestock payment rates to be used in the calculation for paragraph (n)(1) of this section for eligible livestock owners and eligible livestock contract growers are:
-
-(i) A livestock payment rate for eligible livestock owners that is based on the average fair market value of the applicable livestock as computed using nationwide prices for the previous program year unless some other price is approved by the Deputy Administrator.
-
-(ii) A livestock payment rate for eligible livestock contract growers that is based on the relevant average income loss sustained by the contract grower, with respect to the dead livestock.
-
-(o) Payments calculated in this section are subject to the adjustments and limits provided for in this part.
+[79 FR 21097, Apr. 14, 2014, as amended at 85 FR 10965, Feb, 26, 2020]

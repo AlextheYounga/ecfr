@@ -38,7 +38,7 @@ The following definitions apply to this subpart and to the administration of ELA
 
 *Contract* means, with respect to contracts for the handling of livestock, a written agreement between a livestock owner and another individual or entity setting the specific terms, conditions, and obligations of the parties involved regarding the production of livestock or livestock products.
 
-*Eligible adverse weather* means, as determined by the Deputy Administrator, an extreme and abnormal damaging weather event that is not expected to occur during the loss period, which results in eligible losses. The eligible adverse weather would have resulted in agricultural losses not covered by other programs in this part for which the Deputy Administrator determines financial assistance should be provided to producers. Adverse weather may include, but is not limited to, blizzard, winter storms, and wildfires. Specific eligible adverse weather may vary based on the type of loss. Identification of eligible adverse weather will include locations (National, State, or county-level) and start and end dates.
+*Eligible adverse weather* means, as determined by the Deputy Administrator, an extreme and abnormal damaging weather event that is not expected to occur during the loss period, which results in eligible losses. The eligible adverse weather would have resulted in agricultural losses not covered by other programs in this part for which the Deputy Administrator determines financial assistance should be provided to producers. Adverse weather may include, but is not limited to, blizzard, eligible winter storms, and wildfires. Specific eligible adverse weather may vary based on the type of loss. Identification of eligible adverse weather will include locations (National, State, or county-level) and start and end dates.
 
 *Eligible drought* means that any area of the county has been rated by the U.S. Drought Monitor as having a D3 (extreme drought) intensity:
 
@@ -50,9 +50,9 @@ The following definitions apply to this subpart and to the administration of ELA
 
 *Eligible loss condition* means a condition that would have resulted in agricultural losses not covered by other programs in this part for which the Deputy Administrator determines financial assistance needs to be provided to producers. Specific eligible loss conditions include, but are not limited to, disease (including cattle tick fever), insect infestation, and colony collapse disorder. Identification of eligible loss conditions will include locations (National, State, or county-level) and start and end dates.
 
-*Eligible winter storm* means a storm that lasts for at least three consecutive days and is accompanied by high winds, freezing rain or sleet, heavy snowfall, and extremely cold temperatures.
+*Eligible winter storm* means an event that is so severe as to directly cause loss and lasts in duration for at least 3 consecutive days and includes a combination of high winds, freezing rain or sleet, heavy snowfall, and extremely cold temperatures. The wind, precipitation, and extremely cold temperatures must occur during the consecutive 3-day period, with wind and extremely cold temperatures occurring in each of the 3 days.
 
-*Equine animal* means a domesticated horse, mule, or donkey.
+*Equine animal* means a weaned domesticated horse, mule, or donkey.
 
 *Ewe* means a female sheep.
 
@@ -64,9 +64,10 @@ The following definitions apply to this subpart and to the administration of ELA
 
 *Game or sport fish* means fish pursued for sport by recreational anglers; provided, however, that only game or sport fish produced in a controlled environment can generate claims under ELAP.
 
-*Goat* means a domesticated, ruminant mammal of the genus Capra, including Angora goats. Goats are further delineated into categories by sex (bucks and nannies) and age (kids).
+*Goat* means a weaned domesticated, ruminant mammal of the genus Capra, including Angora goats.
 
-*Grazing animals* mean those species of livestock that, from a nutritional and physiological perspective, satisfy more than 50 percent of their net energy requirement through the consumption of growing forage grasses and legumes. Species of livestock for which more than 50 percent of their net energy requirements are not recommended to be met from consumption of forage grasses and legumes, such as poultry and swine, are excluded regardless of whether those species are grazing or are present on grazing land or pastureland.
+*Grazing animals* mean those species of weaned livestock that, from a nutritional and physiological perspective, satisfy more than 50 percent of their net energy requirement through the consumption of growing forage grasses and legumes. Species of livestock for which more than 50 percent of their net energy requirements are not recommended to be met from consumption of forage grasses and legumes, such as poultry and swine, are excluded regardless of whether those species are grazing or are present on grazing land or pastureland.
+Unweaned livestock are not grazing animals regardless of whether those unweaned livestock are present on grazing land or pastureland.
 
 *Grazing loss* means the value, as calculated in § 1416.110(g) or (m), of eligible grazing lost due to an eligible adverse weather or eligible loss condition based on the number of days that the eligible livestock were not able to graze the eligible grazing land during the normal grazing period.
 
@@ -74,38 +75,36 @@ The following definitions apply to this subpart and to the administration of ELA
 
 *Lamb* means a sheep less than 1 year old.
 
-*Livestock owner* means one having legal ownership of the livestock for which benefits are being requested on the day of the eligible adverse weather or eligible loss condition.
+*Livestock owner* means one having legal ownership of the livestock for which benefits are being requested during the 60 calendar days before the eligible adverse weather or eligible loss condition.
 
 *Nanny* means a female goat.
 
 *Newborn livestock* means livestock that are within 10 calendar days of the date of birth.
 
-*Non-adult beef cattle* means a beef breed bovine animal that does not meet the definition of adult beef cow or bull. Non-adult beef cattle are further delineated by weight categories of either less than 400 pounds or 400 pounds or more on or before the beginning date of the eligible adverse weather or eligible loss condition that caused death. For a loss other than death, means a bovine animal less than 2 years old that that weighed 500 pounds or more on or before the beginning date of the eligible adverse weather or eligible loss condition.
+*Non-adult beef cattle* means a weaned beef breed bovine animal that on or before the beginning date of the eligible adverse weather or eligible loss condition does not meet the definition of adult beef cow or bull.
 
-*Non-adult beefalo* means a hybrid of beef and bison that does not meet the definition of adult beefalo cow or bull. Non-adult beefalo are further delineated by weight categories of either less than 400 pounds or 400 pounds or more on or before the beginning date of the eligible adverse weather or eligible loss condition that caused death. For a loss other than death, means an animal of those breeds that is less than 2 years old that weighed 500 pounds or more on or before the beginning date of the eligible adverse weather or eligible loss condition.
+*Non-adult beefalo* means a weaned hybrid of beef and bison that on or before the beginning date of the eligible adverse weather or eligible loss condition does not meet the definition of adult beefalo cow or bull.
 
-*Non-adult buffalo or bison* means an animal of those breeds that does not meet the definition of adult buffalo or adult bison cow or bull. Non-adult buffalo or bison are further delineated by weight categories of either less than 400 pounds or 400 pounds or more on or before the beginning date of the eligible adverse weather or eligible loss condition that caused death. For a loss other than death, means an animal of those breeds that is less than 2 years old that weighed 500 pounds or more on or before the beginning date of the eligible adverse weather or eligible loss condition.
+*Non-adult buffalo or bison* means a weaned animal of those breeds that on or before the beginning date of the eligible adverse weather or loss condition does not meet the definition of adult buffalo or adult bison cow or bull.
 
-*Non-adult dairy cattle* means a bovine dairy breed animal used for the purpose of providing milk for human consumption that does not meet the definition of adult dairy cow or bull. Non-adult dairy cattle are further delineated by weight categories of either less than 400 pounds or 400 pounds or more on or before the beginning date of the eligible adverse weather or eligible loss condition that caused death. For a loss other than death, means a bovine dairy breed animal used for the purpose of providing milk for human consumption that is less than 2 years old that weighed 500 pounds or more on or before the beginning date of the eligible adverse weather or eligible loss condition.
+*Non-adult dairy cattle* means a weaned bovine animal of a breed used for the purpose of providing milk for human consumption that on or before the beginning date of the eligible adverse weather or eligible loss condition does not meet the definition of adult dairy cow or bull.
 
 *Normal grazing period* means, as determined by FSA, with respect to a specific type of grazing land or pastureland in the county, the period during the calendar year when grazing animals receive daily nutrients and satisfy net energy requirements without supplemental feed.
 
-*Normal mortality* means the numerical amount, computed by a percentage of expected livestock, honeybee colony and farm-raised fish deaths, by category, that normally occur during a program year for a producer, as established for the area by the FSA State Committee for livestock and farm-raised fish, and as established nationwide by the Deputy Administrator for honeybee colonies.
+*Normal mortality* means the numerical amount, computed by a percentage of expected honeybee colony and farm-raised fish deaths, by category, that normally occur during a program year for a producer, as established for the area by the FSA State Committee for farm-raised fish, and as established nationwide by the Deputy Administrator for honeybee colonies.
 
-*Poultry* means domesticated chickens, turkeys, ducks, and geese. Poultry are further delineated into categories by sex, age, and purpose of production as determined by FSA.
-
-*Program year* means from October 1 through September 30 of the fiscal year in which the loss occurred.
+*Program year* means for 2019 from October 1, 2018, through December 31, 2019; for 2020 and subsequent years, the program year is the same as the calendar year, January 1 through December 31.
 
 *Ram* means a male sheep.
 
 *Reliable record* means any non-verifiable record available that reasonably supports the eligible loss, as determined acceptable by the COC.
 
-*Sheep* means a domesticated, ruminant mammal of the genus Ovis. Sheep are further defined by sex (rams and ewes) and age (lambs) for purposes of dividing into categories for loss calculations.
-
-*Swine* means a domesticated omnivorous pig, hog, or boar. Swine for purposes of dividing into categories for loss calculations are further delineated into categories by sex and weight as determined by FSA.
+*Sheep* means a weaned domesticated, ruminant mammal of the genus Ovis.
 
 *U.S. Drought Monitor* is a system for classifying drought severity according to a range of abnormally dry to exceptional drought. It is a collaborative effort between Federal and academic partners, produced on a weekly basis, to synthesize multiple indices, outlooks, and drought impacts on a map and in narrative form. This synthesis of indices is reported by the National Drought Mitigation Center at *http://droughtmonitor.unl.edu.* Should an eligible area not be covered by the U.S. Drought Monitor, the Deputy Administrator, in consultation with appropriate weather-related agencies and experts, will establish procedures for rating drought intensity using the same range of categories as the U.S. Drought Monitor and use this information in place of the missing data for eligibility purposes.
 
-*Verifiable record* means a document provided by the producer that can be verified by the County Committee (COC) through an independent source and is used to substantiate the claimed loss.
+*Unweaned livestock* means an animal not weaned from mother's milk or milk replacement to other nourishment. For ELAP purposes, unweaned livestock does not include turkeys, ducks, chickens, and geese.
 
-[79 FR 21097, Apr. 14, 2014, as amended at 79 FR 57721, Sept. 26, 2014; 79 FR 74571, Dec. 15, 2014; 83 FR 49464, Oct. 2, 2018]
+*Verifiable record* means a document provided by the producer that can be verified by the County Committee (COC) through an independent source.
+
+[79 FR 21097, Apr. 14, 2014, as amended at 79 FR 57721, Sept. 26, 2014; 79 FR 74571, Dec. 15, 2014; 83 FR 49464, Oct. 2, 2018; 85 FR 10963, Feb. 26, 2020]

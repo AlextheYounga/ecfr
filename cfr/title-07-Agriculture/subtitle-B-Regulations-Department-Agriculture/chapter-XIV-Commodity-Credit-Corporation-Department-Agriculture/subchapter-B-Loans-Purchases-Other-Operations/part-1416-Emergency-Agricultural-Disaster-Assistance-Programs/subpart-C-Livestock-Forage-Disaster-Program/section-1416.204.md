@@ -32,7 +32,7 @@
 
 (4) Been livestock produced or maintained for commercial use or be livestock that is produced and maintained for producing livestock products for commercial use, such as milk from dairy, as part of the contract grower's or livestock owner's farming operation on the beginning date of the qualifying drought or fire;
 
-(5) Not have been produced and maintained for reasons other than commercial use as part of a farming operation. Such excluded uses include, but are not limited to, any uses of wild free roaming animals or use of the animals for recreational purposes, such as pleasure, roping, hunting, pets, or for show; and
+(5) Not have been produced and maintained for reasons other than commercial use as part of a farming operation. Such excluded uses include, but are not limited to, consumption by the owner, lessee, or contract grower, any uses of wild free roaming animals or use of the animals for recreational purposes, such as pleasure, roping, hunting, pets, or for show; and
 
 (6) Not have been livestock that were or would have been in a feedlot, on the beginning date of the qualifying drought or fire, as a part of the normal business operation of the eligible livestock producer, as determined by the Secretary.
 
@@ -86,11 +86,11 @@
 
 (6) Swine;
 
-(7) All beef and dairy cattle, beefalo, buffalo and bison that weighed less than 500 pounds on the beginning date of the qualifying drought or fire;
+(7) Unweaned livestock or animals not meeting the definition of a grazing animal;
 
 (8) Any wild free roaming livestock, including horses and deer; and
 
-(9) Livestock produced or maintained for reasons other than commercial use as part of a farming operation, including, but not limited to, livestock produced or maintained for recreational purposes, such as:
+(9) Livestock produced or maintained for reasons other than commercial use, including, but not limited to, livestock produced or maintained for any of the following or recreational purposes, such as:
 
 (i) Roping,
 
@@ -104,4 +104,4 @@
 
 (vi) Consumption by owner.
 
-[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49467, Oct. 2, 2018]
+[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49467, Oct. 2, 2018; 85 FR 10965, Feb. 26, 2020]

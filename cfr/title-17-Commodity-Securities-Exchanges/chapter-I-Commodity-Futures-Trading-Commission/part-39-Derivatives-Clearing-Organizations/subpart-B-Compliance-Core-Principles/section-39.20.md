@@ -1,8 +1,6 @@
 ##### § 39.20 Recordkeeping. #####
 
-Link to an amendment published at 85 FR 4860, Jan. 27, 2020.
-
-(a) *Requirement to maintain information.* Each derivatives clearing organization shall maintain records of all activities related to its business as a derivatives clearing organization. Such records shall include, but are not limited to, records of:
+(a) *Requirement to maintain information.* A derivatives clearing organization shall maintain records of all activities related to its business as a derivatives clearing organization. Such records shall include, but are not limited to, records of:
 
 (1) All cleared transactions, including swaps;
 
@@ -14,6 +12,8 @@ Link to an amendment published at 85 FR 4860, Jan. 27, 2020.
 
 (5) Any data or documentation required by the Commission or by the derivatives clearing organization to be submitted to the derivatives clearing organization by its clearing members, or by any other person in connection with the derivatives clearing organization's clearing and settlement activities.
 
-(b) *Form and manner of maintaining information* - (1) *General.* The records required to be maintained by this chapter shall be maintained in accordance with the provisions of § 1.31 of this chapter, for a period of not less than 5 years, except as provided in paragraph (b)(2) of this section.
+(b) *Form and manner of maintaining information*—(1) *General.* The records required to be maintained by this chapter shall be maintained in accordance with the provisions of § 1.31 of this chapter, for a period of not less than 5 years, except as provided in paragraph (b)(2) of this section.
 
-(2) *Exception for swap data.* Each derivatives clearing organization that clears swaps must maintain swap data in accordance with the requirements of part 45 of this chapter.
+(2) *Exception for swap data.* A derivatives clearing organization that clears swaps must maintain swap data in accordance with the requirements of part 45 of this chapter.
+
+[76 FR 69430, Nov. 8, 2011, as amended at 85 FR 4860, Jan. 27, 2020]

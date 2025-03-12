@@ -1,20 +1,14 @@
 ##### § 622.190 Quotas. #####
 
-Link to an amendment published at 85 FR 4594, Jan. 27, 2020.
-
 See § 622.8 for general provisions regarding quota applicability and closure and reopening procedures. This section provides quotas and specific quota closure restrictions for South Atlantic snapper-grouper.
 
 (a) *South Atlantic snapper-grouper, excluding wreckfish.* The quotas apply to persons who are not subject to the bag limits. (See § 622.11 for applicability of the bag limits.) The quotas are in gutted weight, that is eviscerated but otherwise whole, except for the quotas in paragraphs (a)(4) through (7) of this section which are in both gutted weight and round weight.
 
-(1) *Snowy grouper* - (i) For the 2015 fishing year - 115,451 lb (52,368 kg), gutted weight; 136,233 lb (61,794 kg), round weight.
+(1) *Snowy grouper* - (i) For the period January 1 through June 30 each year - 107,754 lb (48,876 kg).
 
-(ii) For the 2016 fishing year - 125,760 lb (57,044 kg), gutted weight; 148,397 lb (67,312 kg), round weight.
+(ii) For the period July 1 through December 31 each year - 46,181 lb (20,947 kg).
 
-(iii) For the 2017 fishing year - 135,380 lb (61,407 kg), gutted weight; 159,749 lb (72,461 kg), round weight.
-
-(iv) For the 2018 fishing year - 144,315 lb (65,460 kg), gutted weight; 170,291 lb (77,243 kg), round weight.
-
-(v) For the 2019 and subsequent fishing years - 153,935 lb (69,824 kg), gutted weight; 181,644 lb (82,392 kg), round weight.
+(iii) Any unused portion of the quota specified in paragraph (a)(1)(i) of this section will be added to the quota specified in paragraph (a)(1)(ii) of this section. Any unused portion of the quota specified in paragraph (a)(1)(ii) of this section, including any addition of quota specified in paragraph (a)(1)(i) of this section that was unused, will become void and will not be added to any subsequent quota.
 
 (2) *Golden tilefish.* (i) *Commercial sector (hook-and-line and longline components combined)* - 331,740 lb (150,475 kg).
 
@@ -22,7 +16,11 @@ See § 622.8 for general provisions regarding quota applicability and closure an
 
 (iii) *Longline component* - 248,805 lb (112,856 kg).
 
-(3) *Greater amberjack* - 769,388 lb (348,989 kg).
+(3) *Greater amberjack* - (i) For the period March 1 through August 31 each year - 461,633 lb (209,393 kg).
+
+(ii) For the period September 1 through the end of February each year - 307,755 lb (139,595 kg).
+
+(iii) Any unused portion of the quota specified in paragraph (a)(3)(i) of this section will be added to the quota specified in paragraph (a)(3)(ii) of this section. Any unused portion of the quota specified in paragraph (a)(3)(ii) of this section, including any addition of quota specified in paragraph (a)(3)(i) of this section that was unused, will become void and will not be added to any subsequent quota.
 
 (4) *Vermilion snapper.* (i) For the period January through June each year.
 
@@ -56,7 +54,11 @@ See § 622.8 for general provisions regarding quota applicability and closure an
 
 (iii) For the 2021 fishing year and subsequent fishing years - 234,314 lb (106,283 kg), gutted weight; 276,490 lb (125,414 kg), round weight.
 
-(6) *Red porgy* - 157,692 lb (71,528 kg), gutted weight; 164,000 lb (74,389 kg), round weight.
+(6) *Red porgy* - (i) For the period January 1 through April 30 each year - 47,308 lb (21,458 kg), gutted weight; 49,200 lb (22,317 kg), round weight.
+
+(ii) For the period May 1 through December 31 each year - 110,384 lb (50,069 kg), gutted weight; 114,800 lb (52,072 kg), round weight.
+
+(iii) Any unused portion of the quota specified in paragraph (a)(6)(i) of this section will be added to the quota specified in paragraph (a)(6)(ii) of this section. Any unused portion of the quota specified in paragraph (a)(6)(ii) of this section, including any addition of quota specified in paragraph (a)(6)(i) of this section that was unused, will become void and will not be added to any subsequent quota.
 
 (7) *Gag* - (i) For the 2015 fishing year - 295,459 lb (134,018 kg), gutted weight; 348,642 lb (158,141 kg), round weight.
 
@@ -96,4 +98,4 @@ See § 622.8 for general provisions regarding quota applicability and closure an
 
 (2) [Reserved]
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 23863 Apr. 23, 2013; 78 FR 47579, Aug. 6, 2013; 78 FR 49195, Aug. 13, 2013]; 78 FR 58253, Sept. 23, 2013; 79 FR 66322, Nov. 7, 2014; 80 FR 30953, June 1, 2015; 80 FR 43038, July 21, 2015; 80 FR 48278, Aug. 12, 2015; 81 FR 3738, Jan. 22, 2016; 83 FR 62512, Dec. 4, 2018; 83 FR 14024, Apr. 9, 2019]
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 23863 Apr. 23, 2013; 78 FR 47579, Aug. 6, 2013; 78 FR 49195, Aug. 13, 2013]; 78 FR 58253, Sept. 23, 2013; 79 FR 66322, Nov. 7, 2014; 80 FR 30953, June 1, 2015; 80 FR 43038, July 21, 2015; 80 FR 48278, Aug. 12, 2015; 81 FR 3738, Jan. 22, 2016; 83 FR 62512, Dec. 4, 2018; 83 FR 14024, Apr. 9, 2019; 85 FR 4594, Jan. 27, 2020]

@@ -1,7 +1,5 @@
 ##### § 1.20 Futures customer funds to be segregated and separately accounted for. #####
 
-Link to an amendment published at 85 FR 4850, Jan. 27, 2020.
-
 (a) *General.* A futures commission merchant must separately account for all futures customer funds and segregate such funds as belonging to its futures customers. A futures commission merchant shall deposit futures customer funds under an account name that clearly identifies them as futures customer funds and shows that such funds are segregated as required by sections 4d(a) and 4d(b) of the Act and by this part. A futures commission merchant must at all times maintain in the separate account or accounts money, securities and property in an amount at least sufficient in the aggregate to cover its total obligations to all futures customers as computed under paragraph (i) of this section. The futures commission merchant must perform appropriate due diligence as required by § 1.11 on any and all locations of futures customer funds, as specified in paragraph (b) of this section, to ensure that the location in which the futures commission merchant has deposited such funds is a financially sound entity.
 
 (b) *Location of futures customer funds.* A futures commission merchant may deposit futures customer funds, subject to the risk management policies and procedures of the futures commission merchant required by § 1.11, with the following depositories:
@@ -14,7 +12,7 @@ Link to an amendment published at 85 FR 4850, Jan. 27, 2020.
 
 (c) *Limitation on the holding of futures customer funds outside of the United States.* A futures commission merchant may hold futures customer funds with a depository outside of the United States only in accordance with § 1.49.
 
-(d) *Written acknowledgment from depositories.* (1) A futures commission merchant must obtain a written acknowledgment from each bank, trust company, derivatives clearing organization, or futures commission merchant prior to or contemporaneously with the opening of an account by the futures commission merchant with such depositories; *provided, however,* that a written acknowledgment need not be obtained from a derivatives clearing organization that has adopted and submitted to the Commission rules that provide for the segregation of futures customer funds in accordance with all relevant provisions of the Act and the rules and orders promulgated thereunder.
+(d) *Written acknowledgment from depositories.*(1) A futures commission merchant must obtain a written acknowledgment from each bank, trust company, derivatives clearing organization, or futures commission merchant prior to or contemporaneously with the opening of an account by the futures commission merchant with such depositories; *provided, however,* that a written acknowledgment need not be obtained from a derivatives clearing organization that has adopted and submitted to the Commission rules that provide for the segregation of futures customer funds in accordance with all relevant provisions of the Act and the rules in this chapter, and orders promulgated thereunder, and in such cases, the requirements set forth in paragraphs (d)(3) through (6) of this section shall not apply to the futures commission merchant.
 
 (2) The written acknowledgment must be in the form as set out in appendix A to this part.
 
@@ -28,9 +26,9 @@ Link to an amendment published at 85 FR 4850, Jan. 27, 2020.
 
 (6) A futures commission merchant shall deposit futures customer funds only with a depository that agrees to reply promptly and directly to any request from the director of the Division of Swap Dealer and Intermediary Oversight or the director of the Division of Clearing and Risk, or any successor divisions, or such directors' designees, or an appropriate officer, agent or employee of the futures commission merchant's designated self-regulatory organization for confirmation of account balances or provision of any other information regarding or related to an account. The written acknowledgment must contain the futures commission merchant's authorization to the depository to reply promptly and directly as required by this paragraph without further notice to or consent from the futures commission merchant.
 
-(7) The futures commission merchant shall promptly file a copy of the written acknowledgment with the Commission in the format and manner specified by the Commission no later than three business days after the opening of the account or the execution of a new written acknowledgment for an existing account, as applicable.
+(7) Where a written acknowledgment is required, the futures commission merchant shall promptly file a copy of the written acknowledgment with the Commission in the format and manner specified by the Commission no later than three business days after the opening of the account or the execution of a new written acknowledgment for an existing account, as applicable.
 
-(8) A futures commission merchant shall obtain a new written acknowledgment within 120 days of any changes in the following:
+(8) Where a written acknowledgment is required, a futures commission merchant shall obtain a new written acknowledgment within 120 days of any changes in the following:
 
 (i) The name or business address of the futures commission merchant;
 
@@ -52,7 +50,7 @@ Link to an amendment published at 85 FR 4850, Jan. 27, 2020.
 
 (3) No person, including any derivatives clearing organization or any depository, that has received futures customer funds for deposit in a segregated account, as provided in this section, may hold, dispose of, or use any such funds as belonging to any person other than the futures customers of the futures commission merchant which deposited such funds.
 
-(g) *Derivatives clearing organizations* - (1) *General.* All futures customer funds received by a derivatives clearing organization from a member to purchase, margin, guarantee, secure or settle the trades, contracts or commodity options of the clearing member's futures customers and all money accruing to such futures customers as the result of trades, contracts or commodity options so carried shall be separately accounted for and segregated as belonging to such futures customers, and a derivatives clearing organization shall not hold, use or dispose of such futures customer funds except as belonging to such futures customers. A derivatives clearing organization shall deposit futures customer funds under an account name that clearly identifies them as futures customer funds and shows that such funds are segregated as required by sections 4d(a) and 4d(b) of the Act and by this part.
+(g) *Derivatives clearing organizations*—(1) *General.* All futures customer funds received by a derivatives clearing organization from a member to purchase, margin, guarantee, secure or settle the trades, contracts or commodity options of the clearing member's futures customers and all money accruing to such futures customers as the result of trades, contracts or commodity options so carried shall be separately accounted for and segregated as belonging to such futures customers, and a derivatives clearing organization shall not hold, use or dispose of such futures customer funds except as belonging to such futures customers. A derivatives clearing organization shall deposit futures customer funds under an account name that clearly identifies them as futures customer funds and shows that such funds are segregated as required by sections 4d(a) and 4d(b) of the Act and by this part.
 
 (2) *Location of futures customer funds.* A derivatives clearing organization may deposit futures customer funds with a bank or trust company, which may include a Federal Reserve Bank with respect to deposits of a derivatives clearing organization that is designated by the Financial Stability Oversight Council to be systemically important.
 
@@ -104,7 +102,7 @@ Link to an amendment published at 85 FR 4850, Jan. 27, 2020.
 
 (4) The futures commission merchant must maintain in segregation an amount equal to the sum of any credit balances that the futures customers of the futures commission merchant have in their accounts. This balance may not be reduced by any debit balances that the futures customers of the futures commission merchants have in their accounts.
 
-Appendix A to § 1.20 - Futures Commission Merchant Acknowledgment Letter for CFTC Regulation 1.20 Customer Segregated Account[Date][Name and Address of Bank, Trust Company, Derivatives Clearing Organization or Futures Commission Merchant]
+Appendix A to § 1.20—Futures Commission Merchant Acknowledgment Letter for CFTC Regulation 1.20 Customer Segregated Account[Date][Name and Address of Bank, Trust Company, Derivatives Clearing Organization or Futures Commission Merchant]
 
 We refer to the Segregated Account(s) which [Name of Futures Commission Merchant] (“we” or “our”) have opened or will open with [Name of Bank, Trust Company, Derivatives Clearing Organization or Futures Commission Merchant] (“you” or “your”) entitled:
 
@@ -136,7 +134,7 @@ This letter agreement shall be governed by and construed in accordance with the 
 
 Please acknowledge that you agree to abide by the requirements and conditions set forth above by signing and returning to us the enclosed copy of this letter agreement, and that you further agree to provide a copy of this fully executed letter agreement directly to the CFTC (via electronic means in a format and manner determined by the CFTC) and to [Name of DSRO], acting in its capacity as our DSRO. We hereby authorize and direct you to provide such copies without further notice to or consent from us, no later than three business days after opening the Account(s) or revising this letter agreement, as applicable.
 
-[Name of Futures Commission Merchant]By:Print Name:Title:ACKNOWLEDGED AND AGREED:[Name of Bank, Trust Company, Derivatives Clearing Organization or Futures Commission Merchant]By:Print Name:Title:Contact Information: [Insert phone number and email address]DATE:Appendix B to § 1.20 - Derivatives Clearing Organization Acknowledgment Letter for CFTC Regulation 1.20 Customer Segregated Account[Date][Name and Address of Bank or Trust Company]
+[Name of Futures Commission Merchant]By:Print Name:Title:ACKNOWLEDGED AND AGREED:[Name of Bank, Trust Company, Derivatives Clearing Organization or Futures Commission Merchant]By:Print Name:Title:Contact Information: [Insert phone number and email address]DATE:Appendix B to § 1.20—Derivatives Clearing Organization Acknowledgment Letter for CFTC Regulation 1.20 Customer Segregated Account[Date][Name and Address of Bank or Trust Company]
 
 We refer to the Segregated Account(s) which [Name of Derivatives Clearing Organization] (“we” or “our”) have opened or will open with [Name of Bank or Trust Company] (“you” or “your”) entitled:
 
@@ -166,4 +164,4 @@ This letter agreement shall be governed by and construed in accordance with the 
 
 Please acknowledge that you agree to abide by the requirements and conditions set forth above by signing and returning to us the enclosed copy of this letter agreement, and that you further agree to provide a copy of this fully executed letter agreement directly to the CFTC (via electronic means in a format and manner determined by the CFTC). We hereby authorize and direct you to provide such copy without further notice to or consent from us, no later than three business days after opening the Account(s) or revising this letter agreement, as applicable.
 
-[Name of Derivatives Clearing Organization]By:Print Name:Title:ACKNOWLEDGED AND AGREED:[Name of Bank or Trust Company]By:Print Name:Title:Contact Information: [Insert phone number and email address]DATE:[78 FR 68627, Nov. 14, 2013, as amended at 79 FR 26832, May 12, 2014; 81 FR 53267, Aug. 12, 2016]
+[Name of Derivatives Clearing Organization]By:Print Name:Title:ACKNOWLEDGED AND AGREED:[Name of Bank or Trust Company]By:Print Name:Title:Contact Information: [Insert phone number and email address]DATE:[78 FR 68627, Nov. 14, 2013, as amended at 79 FR 26832, May 12, 2014; 81 FR 53267, Aug. 12, 2016; 85 FR 4850, Jan. 27, 2020]

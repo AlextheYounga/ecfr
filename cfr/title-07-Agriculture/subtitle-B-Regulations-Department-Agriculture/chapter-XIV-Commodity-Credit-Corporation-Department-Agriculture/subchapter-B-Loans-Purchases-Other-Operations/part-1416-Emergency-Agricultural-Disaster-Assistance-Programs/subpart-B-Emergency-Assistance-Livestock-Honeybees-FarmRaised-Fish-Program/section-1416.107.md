@@ -1,13 +1,13 @@
 ##### § 1416.107 Notice of loss and application period. #####
 
-(a) Notices of loss and applications for payment that had been filed under the regulations in effect at the time of filing and which had been issued an administrative decision for either a 2017 or 2018 program year loss are not eligible for consideration under paragraphs (b) and (c) of this section, unless the decision was based only on failure to submit the notice of loss or application for payment by the prior applicable deadline.
+(a) In addition to submitting an application for payment by the deadline in paragraph (b) of this section, the participant that suffered eligible livestock, honeybee, or farm-raised fish losses that create or could create a claim for benefits must:
 
-(b) In addition to submitting an application for payment at the appropriate time, the participant that suffered eligible livestock, honeybee, or farm-raised fish losses that create or could create a claim for benefits must:
+(1) For losses other than honeybees, provide a notice of loss to FSA within 30 calendar days of when the loss of livestock is first apparent;
 
-(1) For losses in the 2017 and subsequent program years, provide a notice of loss to FSA by the later of 30 calendar days of when the loss of livestock is first apparent or December 3, 2018;
+(2) For honeybee losses, provide a notice of loss together with documentation required by § 1416.103 to FSA within 15 calendar days of when the loss is first apparent;
 
-(2) Submit the notice of loss required in paragraph (b) of this section to the administrative FSA county office, unless additional options are otherwise provided for by the Deputy Administrator.
+(3) Submit the notice of loss required in this paragraph to the FSA county office.
 
-(c) In addition to the notices of loss required in paragraph (b) of this section, a participant must also submit a completed application for payment by the later of November 1 following the program year for which benefits are being requested or December 3, 2018.
+(b) In addition to the notices of loss required in paragraph (a) of this section, a participant seeking payment must also submit a completed application for payment by 30 calendar days after the end of the applicable program year.
 
-[83 FR 49466, Oct. 2, 2018]
+[85 FR 10965, Feb. 26, 2020]

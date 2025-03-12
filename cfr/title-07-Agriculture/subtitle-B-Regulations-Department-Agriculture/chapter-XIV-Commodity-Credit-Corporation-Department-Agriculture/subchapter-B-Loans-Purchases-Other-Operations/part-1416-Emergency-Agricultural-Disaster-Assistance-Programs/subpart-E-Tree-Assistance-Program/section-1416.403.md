@@ -21,5 +21,6 @@
 (f) The Deputy Administrator will determine the types of trees, bushes, and vines that are eligible.
 
 (g) A stand that did not suffer a qualifying mortality loss as specified in paragraph (a) of this section is not eligible for payment.
+The qualifying mortality loss will be determined based on the eligible trees, bushes, or vines that reached mortality, which means that the tree, bush, or vine died, above and below ground, as a result of an eligible natural disaster event. If an eligible tree, bush, or vine is damaged to such an extent that it is not commercially viable, now or at any time in the future, the tree, bush, or vine can be considered dead in determining if the requisite qualifying mortality loss threshold in paragraph (a) of this section is reached.
 
-[83 FR 49471, Oct. 2, 2018]
+[83 FR 49471, Oct. 2, 2018, as amended at 85 FR 10968, Feb. 26, 2020]

@@ -1,6 +1,6 @@
 ##### § 622.191 Commercial trip limits. #####
 
-Link to an amendment published at 85 FR 4594, Jan. 27, 2020.Link to an amendment published at 85 FR 6827, Feb. 6, 2020.
+Link to an amendment published at 85 FR 6827, Feb. 6, 2020.
 
 Commercial trip limits are limits on the amount of the applicable species that may be possessed on board or landed, purchased, or sold from a vessel per day. A person who fishes in the EEZ may not combine a trip limit specified in this section with any trip or possession limit applicable to state waters. A species subject to a trip limit specified in this section taken in the EEZ may not be transferred at sea, regardless of where such transfer takes place, and such species may not be transferred in the EEZ. Commercial trip limits apply as follows (all weights are round or eviscerated weights unless specified otherwise):
 
@@ -16,19 +16,19 @@ Commercial trip limits are limits on the amount of the applicable species that m
 
 (3) *Snowy grouper.* Until the quota specified in § 622.190(a)(1) is reached - 200 lb (91 kg), gutted weight; 236 lb (107 kg), round weight. See § 622.190(c)(1) for the limitations regarding snowy grouper after the fishing year quota is reached.
 
-(4) *Red porgy.* (i) From May 1 through December 31 - 120 fish.
+(4) *Red porgy.* The following commercial trip limits apply until the applicable commercial quota specified in § 622.190(a)(6) is reached. See § 622.190(c)(1) for the limitations regarding red porgy after the applicable commercial quota is reached.
 
-(ii) From January 1 through April 30, the seasonal harvest limit specified in § 622.184(c) applies.
+(i) From January 1 through April 30 - 60 fish.
 
-(iii) See § 622.190(c)(1) for the limitations regarding red porgy after the fishing year quota is reached.
+(ii) From May 1 through December 31 - 120 fish.
 
-(5) *Greater amberjack.* Until the quota specified in § 622.190(a)(3) is reached, 1,200 lb (544 kg). See § 622.190(c)(1) for the limitations regarding greater amberjack after the quota is reached.
+(5) *Greater amberjack.* The following commercial trip limits apply until the applicable commercial quota specified in § 622.190(a)(3) is reached. See § 622.190(c)(1) for the limitations regarding greater amberjack after the applicable commercial quota is reached.
 
-(6) *Vermilion snapper.* (i) Until 75 percent of either quota specified in § 622.190(a)(4)(i) or (ii) is reached or projected to be reached, 1,000 lb (454 kg), gutted weight; 1,110 lb (503 kg), round weight.
+(i) From March 1 through August 31 - 1,200 lb (544 kg).
 
-(ii) After 75 percent of either quota specified in § 622.190(a)(4)(i) or (ii) is reached or projected to be reached, 500 lb (227 kg), gutted weight; 555 lb (252 kg), round weight. When the conditions in this paragraph (a)(6)(ii) have been reached, the Assistant Administrator will implement this trip limit change by filing a notification with the Office of the Federal Register.
+(ii) From September 1 through the end of February - 1,000 lb (454 kg).
 
-(iii) See § 622.190(c)(1) for the limitations regarding vermilion snapper after either quota specified in § 622.190(a)(4)(i) or (ii) is reached or projected to be reached.
+(6) *Vermilion snapper.* Until the applicable commercial quota specified in § 622.190(a)(4) is reached - 1,000 lb (454 kg), gutted weight. See § 622.190(c)(1) for the limitations regarding vermilion snapper after the applicable commercial quota is reached.
 
 (7) *Gag.* (i) Until 75 percent of the quota specified in § 622.190(a)(7) is reached - 1,000 lb (454 kg), gutted weight, 1,180 lb (535 kg), round weight.
 
@@ -46,7 +46,11 @@ Commercial trip limits are limits on the amount of the applicable species that m
 
 (9) *Red snapper.* Until the commercial ACL specified in § 622.193(y)(1) is reached, 75 lb (34 kg), gutted weight.
 
-(10) *Blueline tilefish.* Until the ACL specified in § 622.193(z)(1)(i) is reached or projected to be reached, 300 lb (136 kg), gutted weight; 336 lb (152 kg), round weight. See § 622.193(z)(1)(i) for the limitations regarding blueline tilefish after the commercial ACL is reached.
+(10) *Blueline tilefish.* The following commercial trip limits apply until the commercial ACL specified in § 622.193(z)(1)(i) is reached. See § 622.193(z)(1)(i) for the limitations regarding blueline tilefish after the commercial ACL is reached.
+
+(i) From January 1 through April 30 - 100 lb (45 kg), gutted weight; 106 lb (48 kg), round weight.
+
+(ii) From May 1 through December 31 - 300 lb (136 kg), gutted weight; 318 lb (144 kg), round weight.
 
 (11) *Gray triggerfish.* Until the applicable quota specified in either § 622.190(a)(8)(i) or (ii) is reached, 1,000 lb (454 kg), round weight. See § 622.190(c)(1) for the limitations regarding gray triggerfish after either quota specified in § 622.190(a)(8)(i) or (ii) is reached or projected to be reached.
 
@@ -62,6 +66,8 @@ Commercial trip limits are limits on the amount of the applicable species that m
 
 (ii) From April 1 through June 30 - 5 fish per person per day or 5 fish per person per trip, whichever is more restrictive.
 
+(14) *Other jacks complex (lesser amberjack, almaco jack, and banded rudderfish).* Until the commercial ACL specified in § 622.193(l)(1)(i) is reached - 500 lb (227 kg), gutted weight; 520 lb (236 kg), round weight. See § 622.193(l)(1)(i) for the limitations regarding the other jacks complex after the commercial ACL is reached.
+
 (b) When a vessel fishes for hogfish on a trip in the Gulf EEZ south of 25°09′ N. lat. off the west coast of Florida, the vessel trip limit specified in paragraph (a)(12)(ii) of this section applies, provided persons aboard are not subject to the bag limit. See § 622.11(a) and § 622.187(a) for applicability of the bag limit.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 23863 Apr. 23, 2013; 78 FR 44465, July 24, 2013; 78 FR 47579, Aug. 6, 2013; 79 FR 66322, Nov. 7, 2014; 80 FR 16587, Mar. 30, 2015; 80 FR 30953, June 1, 2015; 80 FR 43038, July 21, 2015; 81 FR 32253, May 23, 2016; 81 FR 45248, July 13, 2016; 82 FR 11157, Feb. 21, 2017; 82 FR 34594, July 25, 2017; 83 FR 1309, Jan. 11, 2018; 83 FR 35435, July 26, 2018]
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 23863 Apr. 23, 2013; 78 FR 44465, July 24, 2013; 78 FR 47579, Aug. 6, 2013; 79 FR 66322, Nov. 7, 2014; 80 FR 16587, Mar. 30, 2015; 80 FR 30953, June 1, 2015; 80 FR 43038, July 21, 2015; 81 FR 32253, May 23, 2016; 81 FR 45248, July 13, 2016; 82 FR 11157, Feb. 21, 2017; 82 FR 34594, July 25, 2017; 83 FR 1309, Jan. 11, 2018; 83 FR 35435, July 26, 2018; 85 FR 4594, Jan. 27, 2020]

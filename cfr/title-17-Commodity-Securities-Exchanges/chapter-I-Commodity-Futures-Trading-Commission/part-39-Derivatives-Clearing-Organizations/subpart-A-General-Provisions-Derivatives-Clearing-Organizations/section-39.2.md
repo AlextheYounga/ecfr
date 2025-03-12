@@ -1,7 +1,5 @@
 ##### § 39.2 Definitions. #####
 
-Link to an amendment published at 85 FR 4850, Jan. 27, 2020.
-
 For the purposes of this part:
 
 *Activity with a more complex risk profile* includes:
@@ -12,15 +10,19 @@ For the purposes of this part:
 
 *Back test* means a test that compares a derivatives clearing organization's initial margin requirements with historical price changes to determine the extent of actual margin coverage.
 
-*Customer* means a person trading in any commodity named in the definition of commodity in section 1a(9) of the Act or in § 1.3 of this chapter, or in any swap as defined in section 1a(47) of the Act or in § 1.3 of this chapter; *Provided, however,* an owner or holder of a house account as defined in this section shall not be deemed to be a customer within the meaning of section 4d of the Act, the regulations that implement sections 4d and 4f of the Act and § 1.35 of this chapter, and such an owner or holder of such a house account shall otherwise be deemed to be a customer within the meaning of the Act and §§ 1.37 and 1.46 of this chapter and all other sections of these rules, regulations, and orders which do not implement sections 4d and 4f of the Act.
+*Business day* means the intraday period of time starting at the business hour of 8:15 a.m. and ending at the business hour of 4:45 p.m., on all days except Saturdays, Sundays, and any holiday on which a derivatives clearing organization and its domestic financial markets are closed, including a Federal holiday in the United States, as established under 5 U.S.C. 6103.
 
-*Customer account* or *customer origin* means a clearing member account held on behalf of customers, as that term is defined in this section, and which is subject to section 4d(a) or section 4d(f) of the Act.
+*Customer account or customer origin* means “customer account” as defined in § 1.3 of this chapter.
 
 *Depository institution* has the meaning set forth in section 19(b)(1)(A) of the Federal Reserve Act (12 U.S.C. 461(b)(1)(A)).
 
-*House account* or *house origin* means a clearing member account which is not subject to section 4d(a) or 4d(f) of the Act.
+*Enterprise risk management* means an enterprise-wide strategic business process intended to identify potential events that may affect the enterprise and to manage the probability or impact of those events on the enterprise as a whole, such that the overall risk remains within the enterprise's risk appetite and provides reasonable assurance that the derivatives clearing organization can continue to achieve its objectives.
 
-*Key personnel* means derivatives clearing organization personnel who play a significant role in the operations of the derivatives clearing organization, the provision of clearing and settlement services, risk management, or oversight of compliance with the Act and Commission regulations and orders. Key personnel include, but are not limited to, those persons who are or perform the functions of any of the following: chief executive officer; president; chief compliance officer; chief operating officer; chief risk officer; chief financial officer; chief technology officer; and emergency contacts or persons who are responsible for business continuity or disaster recovery planning or program execution.
+*Fully collateralized position* means a contract cleared by a derivatives clearing organization that requires the derivatives clearing organization to hold, at all times, funds in the form of the required payment sufficient to cover the maximum possible loss that a party or counterparty could incur upon liquidation or expiration of the contract.
+
+*House account or house origin* means a clearing member account which is not subject to section 4d(a) or 4d(f) of the Act.
+
+*Key personnel* means derivatives clearing organization personnel who play a significant role in the operations of the derivatives clearing organization, the provision of clearing and settlement services, risk management, or oversight of compliance with the Act and Commission regulations in this chapter, and orders promulgated thereunder. Key personnel include, but are not limited to, those persons who are or perform the functions of any of the following: Chief executive officer; president; chief compliance officer; chief operating officer; chief risk officer; chief financial officer; chief technology officer; chief information security officer; and emergency contacts or persons who are responsible for business continuity or disaster recovery planning or program execution.
 
 *Stress test* means a test that compares the impact of potential extreme price moves, changes in option volatility, and/or changes in other inputs that affect the value of a position, to the financial resources of a derivatives clearing organization, clearing member, or large trader, to determine the adequacy of the financial resources of such entities.
 
@@ -34,8 +36,8 @@ For the purposes of this part:
 
 *Systemically important derivatives clearing organization* means a financial market utility that is a derivatives clearing organization registered under section 5b of the Act, which is currently designated by the Financial Stability Oversight Council to be systemically important and for which the Commission acts as the Supervisory Agency pursuant to 12 U.S.C. 5462(8).
 
+*Trust company* means a trust company that is a member of the Federal Reserve System, under section 1 of the Federal Reserve Act (12 U.S.C. 221), but that does not meet the definition of depository institution as set out in this section.
+
 *U.S. branch or agency of a foreign banking organization* means the U.S. branch or agency of a foreign banking organization as defined in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).
 
-*Trust company* means a trust company that is a member of the Federal Reserve System, under section 1 of the Federal Reserve Act (12 U.S.C. 221), but that does not meet the definition of depository institution.
-
-[78 FR 72514, Dec. 2, 2013, as amended at 83 FR 7996, Feb. 23, 2018]
+[85 FR 4850, Jan. 27, 2020]

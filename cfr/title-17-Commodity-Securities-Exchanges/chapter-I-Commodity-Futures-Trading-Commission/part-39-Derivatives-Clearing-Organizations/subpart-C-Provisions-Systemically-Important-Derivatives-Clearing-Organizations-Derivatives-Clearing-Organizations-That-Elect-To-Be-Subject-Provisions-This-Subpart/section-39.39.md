@@ -1,12 +1,10 @@
 ##### § 39.39 Recovery and wind-down for systemically important derivatives clearing organizations and subpart C derivatives clearing organizations. #####
 
-Link to an amendment published at 85 FR 4862, Jan. 27, 2020.
-
 (a) *Definitions.* For purposes of this section:
 
 (1) *General business risk* means any potential impairment of a systemically important derivatives clearing organization's or subpart C derivatives clearing organization's financial position, as a business concern, as a consequence of a decline in its revenues or an increase in its expenses, such that expenses exceed revenues and result in a loss that the derivatives clearing organization must charge against capital.
 
-(2) *Wind-down* means the actions of a systemically important derivatives clearing organization or subpart C derivatives clearing organization to effect the permanent cessation or sale or transfer or one or more services.
+(2) *Wind-down* means the actions of a systemically important derivatives clearing organization or subpart C derivatives clearing organization to effect the permanent cessation or sale or transfer of one or more services.
 
 (3) *Recovery* means the actions of a systemically important derivatives clearing organization or subpart C derivatives clearing organization, consistent with its rules, procedures, and other *ex*-*ante* contractual arrangements, to address any uncovered credit loss, liquidity shortfall, capital inadequacy, or business, operational or other structural weakness, including the replenishment of any depleted pre-funded financial resources and liquidity arrangements, as necessary to maintain the systemically important derivatives clearing organization's or subpart C derivatives clearing organization's viability as a going concern.
 
@@ -33,3 +31,5 @@ Link to an amendment published at 85 FR 4862, Jan. 27, 2020.
 (e) *Plan for raising additional financial resources.* All systemically important derivatives clearing organizations and subpart C derivatives clearing organizations shall maintain viable plans for raising additional financial resources, including, where appropriate, capital, in a scenario in which the systemically important derivatives clearing organization or subpart C derivatives clearing organization is unable, or virtually unable, to comply with any financial resources requirements set forth in this part. This plan shall be approved by the board of directors and be updated regularly.
 
 (f) The Commission may, upon request, grant an entity, which has been designated as a systemically important derivatives clearing organization or that has elected to become subject to subpart C, up to one year to comply with any provision of this section or of § 39.35.
+
+[76 FR 69430, Nov. 8, 2011, as amended at 85 FR 4862, Jan. 27, 2020]

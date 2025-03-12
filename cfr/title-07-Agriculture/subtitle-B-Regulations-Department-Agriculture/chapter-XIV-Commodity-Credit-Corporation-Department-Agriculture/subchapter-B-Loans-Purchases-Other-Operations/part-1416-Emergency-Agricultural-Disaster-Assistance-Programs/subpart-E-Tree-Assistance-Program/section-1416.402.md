@@ -6,6 +6,8 @@ The following definitions apply to this subpart. The definitions in parts 718 of
 
 *Commercial use* means used in the operation of a business activity engaged in as a means of livelihood for profit by the eligible producer.
 
+*Commercially viable* means an eligible tree, bush, or vine, though damaged, that can rejuvenate and return to an acceptable level of commercial production at some time with rehabilitation and without replanting. A commercially viable tree, bush, or vine, regardless of the extent of damage or years of reduced production, is always excluded and never included as part of mortality under § 1416.403.
+
 *County office* means the FSA or U.S. Department of Agriculture (USDA) Service Center that is responsible for servicing the farm on which the trees, bushes, or vines are located.
 
 *Cutting* means a piece of a vine which was planted in the ground to propagate a new vine for the commercial production of fruit, such as grapes, kiwi fruit, passion fruit, or similar fruit.
@@ -18,7 +20,7 @@ The following definitions apply to this subpart. The definitions in parts 718 of
 
 *Lost* means, with respect to the extent of damage to a tree or other plant, that the plant is destroyed or the damage is such that it would, as determined by FSA, be more cost effective to replace the tree or other plant than to leave it in its deteriorated, low-producing state.
 
-*Natural disaster* means plant disease, insect infestation, drought, fire, freeze, flood, earthquake, lightning, or other natural occurrence of such magnitude or severity so as to be considered disastrous, as determined by the Deputy Administrator.
+*Natural disaster* means plant disease, insect infestation, drought, fire, freeze, flood, earthquake, lightning, or other natural occurrence. Each of these types of disasters must be extreme, abnormal, and damaging as well as of significant magnitude or severity, as determined by the Deputy Administrator.
 
 *Normal damage* means the percentage, as established for the area by the FSA State Committee, of trees, bushes, or vines in the stand that would normally be damaged during a calendar year for a producer.
 
@@ -32,4 +34,4 @@ The following definitions apply to this subpart. The definitions in parts 718 of
 
 *Vine* means a perennial plant grown under normal conditions from which an annual fruit crop is produced for commercial market for human consumption, such as grape, kiwi, or passion fruit, and that has a flexible stem supported by climbing, twining, or creeping along a surface. Perennials that are normally propagated as annuals such as tomato plants, biennials such as the plants that produce strawberries, and annuals such as pumpkins, squash, cucumbers, watermelon, and other melons, are excluded from the term vine in this subpart.
 
-[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49471, Oct. 2, 2018]
+[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49471, Oct. 2, 2018; 85 FR 10968, Feb. 26, 2020]

@@ -1,7 +1,5 @@
 ##### § 140.94 Delegation of authority to the Director of the Division of Swap Dealer and Intermediary Oversight and the Director of the Division of Clearing and Risk. #####
 
-Link to an amendment published at 85 FR 4900, Jan. 27, 2020.
-
 (a) The Commission hereby delegates, until such time as the Commission orders otherwise, the following functions to the Director of the Division of Swap Dealer and Intermediary Oversight and to such members of the Commission's staff acting under his or her direction as he or she may designate from time to time:
 
 (1) All functions reserved to the Commission in § 5.7 of this chapter;
@@ -18,7 +16,7 @@ Link to an amendment published at 85 FR 4900, Jan. 27, 2020.
 
 (c) The Commission hereby delegates, until such time as the Commission orders otherwise, the following function to the Director of the Division of Clearing and Risk and to such members of the Commission's staff acting under his or her direction as he or she may designate from time to time:
 
-(1) All functions reserved to the Commission in §§ 39.3(a)(1), (a)(2), (a)(3), 39.3(b)(1), and 39.3(f)(4) of this chapter;
+(1) The authority to review applications for registration as a derivatives clearing organization filed with the Commission under § 39.3(a)(1) of this chapter, to determine that an application is materially complete pursuant to § 39.3(a)(2) of this chapter, to request additional information in support of an application pursuant to § 39.3(a)(3) of this chapter, to extend the review period for an application pursuant to § 39.3(a)(6) of this chapter, to stay the running of the 180-day review period if an application is incomplete pursuant to § 39.3(b)(1) of this chapter, to review requests for amendments to orders of registration filed with the Commission under § 39.3(d)(1) of this chapter, to request additional information in support of a request for an amendment to an order of registration pursuant to § 39.3(d)(2) of this chapter, and to request additional information in support of a rule submission pursuant to § 39.3(g)(3) of this chapter;
 
 (2) All functions reserved to the Commission in § 39.4(a) of this chapter;
 
@@ -26,19 +24,19 @@ Link to an amendment published at 85 FR 4900, Jan. 27, 2020.
 
 (4) All functions reserved to the Commission in § 39.10(c)(4)(iv) of this chapter;
 
-(5) All functions reserved to the Commission in § 39.11(b)(1)(vi), (b)(2)(ii), (c)(1), (c)(2), (f)(1), and (f)(4) of this chapter;
+(5) All functions reserved to the Commission in § 39.11(b)(1)(v), (b)(2)(ii), (c)(1) and (3), and (f)(1), and (2) of this chapter;
 
-(6) All functions reserved to the Commission in § 39.12(a)(5)(i)(B) of this chapter;
+(6) All functions reserved to the Commission in § 39.12(a)(5)(iii) of this chapter;
 
-(7) All functions reserved to the Commission in § 39.13(g)(8)(ii), (h)(1)(i)(C), (h)(1)(ii), (h)(3)(i), (h)(3)(ii), and (h)(5)(i)(A) of this chapter;
+(7) All functions reserved to the Commission in § 39.13(g)(8)(ii), (h)(1)(i)(C), (h)(1)(ii), (h)(3)(i) and (ii), and (h)(5)(i)(C) of this chapter;
 
-(8) The authority to request additional information in support of a rule submission under § 39.15(b)(2)(iii)(A) of this chapter and in support of a petition pursuant to section 4d of the Act under § 39.15(b)(2)(iii)(B) of this chapter;
+(8) The authority to request additional information in support of a rule submission under §§ 39.13(i)(2) and 39.15(b)(2)(iii) of this chapter;
 
-(9) All functions reserved to the Commission in § 39.19(c)(3)(iv), (c)(5)(i), (c)(5)(ii), and (c)(5)(iii) of this chapter;
+(9) All functions reserved to the Commission in § 39.19(c)(2), (c)(3)(iv), and (c)(5) of this chapter;
 
-(10) All functions reserved to the Commission in § 39.20(a)(5); and
+(10) All functions reserved to the Commission in § 39.20(a)(5) of this chapter;
 
-(11) All functions reserved to the Commission in § 39.21(d) of this chapter.
+(11) All functions reserved to the Commission in § 39.21(c) of this chapter;
 
 (12) All functions reserved to the Commission in § 39.31 of this chapter; and
 
@@ -48,4 +46,4 @@ Link to an amendment published at 85 FR 4900, Jan. 27, 2020.
 
 (e) Nothing in this section may prohibit the Commission, at its election, from exercising the authority delegated to the Director of the Division of Swap Dealers and Intermediary Oversight under paragraph (a) or to the Director of the Division of Clearing and Risk under paragraph (c) of this section.
 
-[78 FR 22420, Apr. 16, 2013, as amended at 78 FR 72514, Dec. 2, 2013]
+[78 FR 22420, Apr. 16, 2013, as amended at 78 FR 72514, Dec. 2, 2013; 85 FR 4900, Jan. 27, 2020]

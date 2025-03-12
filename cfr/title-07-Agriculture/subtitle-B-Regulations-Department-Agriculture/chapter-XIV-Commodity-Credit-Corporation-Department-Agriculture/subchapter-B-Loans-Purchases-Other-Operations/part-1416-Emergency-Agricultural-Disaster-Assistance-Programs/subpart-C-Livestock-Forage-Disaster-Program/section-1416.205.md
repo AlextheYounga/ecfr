@@ -16,7 +16,8 @@
 
 (1) The grazing loss due to drought on land used for haying or grazing under the Conservation Reserve Program established under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831-3835a), or
 
-(2) The grazing loss occurs on irrigated land, unless the irrigated land has not been irrigated in the program year for which benefits are being requested due to lack of water that is beyond the participant's control.
+(2) The grazing loss occurs on irrigated land, unless the irrigated land has not been irrigated in the program year for which benefits are being requested due to the lack of surface water
+as a result of a qualifying eligible drought condition.
 
 (c) A grazing loss due to fire qualifies for LFP only if:
 
@@ -24,4 +25,4 @@
 
 (2) The eligible livestock producer is prohibited by the Federal agency from grazing the normal permitted livestock on the managed rangeland due to a fire.
 
-[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49467, Oct. 2, 2018]
+[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49467, Oct. 2, 2018; 85 FR 10966, Feb. 26, 2020]

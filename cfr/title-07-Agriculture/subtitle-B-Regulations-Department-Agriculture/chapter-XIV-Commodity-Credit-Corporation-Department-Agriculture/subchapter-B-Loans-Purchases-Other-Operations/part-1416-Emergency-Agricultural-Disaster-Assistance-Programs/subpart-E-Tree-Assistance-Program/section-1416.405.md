@@ -1,12 +1,10 @@
 ##### § 1416.405 Application. #####
 
-(a) Applications for payment that had been filed under the regulations in effect at the time of filing and which were issued an administrative decision for either a 2017 or 2018 program year loss are not eligible for consideration under paragraph (b) of this section, unless the decision was based only on failure to submit the application for payment by the prior applicable deadline,
+(a) To apply for TAP, a producer that suffered eligible tree, bush, or vine losses must provide an application for payment and supporting documentation to FSA or within 90 calendar days of the disaster event or date when the loss of trees, bushes, or vines is apparent to the producer.
 
-(b) To apply for TAP, a producer that suffered eligible tree, bush, or vine losses that occurred during the 2017 and subsequent calendar years must provide an application for payment and supporting documentation to FSA by the later of December 3, 2018 or within 90 calendar days of the disaster event or date when the loss of trees, bushes, or vines is apparent to the producer.
+(b) The producer must submit the application for payment within the time specified in paragraph (a) of this section to the FSA administrative county office that maintains the producer's farm records for the agricultural operation.
 
-(c) The producer must submit the application for payment within the time specified in paragraph (a) of this section to the FSA administrative county office that maintains the producer's farm records for the agricultural operation.
-
-(d) A complete application includes all of the following:
+(c) A complete application includes all of the following:
 
 (1) A completed application form provided by FSA;
 
@@ -18,7 +16,7 @@
 
 (5) A farm operating plan, if a current farm operating plan is not already on file in the FSA county office.
 
-(e) Before requests for payment will be approved, the county committee:
+(d) Before requests for payment will be approved, the county committee:
 
 (1) Must make an eligibility determination based on a complete application for assistance;
 
@@ -28,4 +26,4 @@
 
 (4) Must verify actual costs to complete the practices, as documented by the producer.
 
-[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49472, Oct. 2, 2018]
+[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49472, Oct. 2, 2018; 85 FR 10968, Feb. 26, 2020]

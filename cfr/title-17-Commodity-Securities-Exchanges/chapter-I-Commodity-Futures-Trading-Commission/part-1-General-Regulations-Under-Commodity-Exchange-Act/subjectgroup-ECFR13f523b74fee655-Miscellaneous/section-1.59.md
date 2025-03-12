@@ -1,10 +1,8 @@
 ##### § 1.59 Activities of self-regulatory organization employees, governing board members, committee members, and consultants. #####
 
-Link to an amendment published at 85 FR 4850, Jan. 27, 2020.
-
 (a) *Definitions.* For purposes of this section:
 
-(1) *Self-regulatory organization* means “self-regulatory organization,” as defined in § 1.3, and includes the term “clearing organization,” as defined in § 1.3.
+(1) *Self-regulatory organization* means a “self-regulatory organization,” as defined in § 1.3.
 
 (2) *Governing board member* means a member, or functional equivalent thereof, of the board of governors of a self-regulatory organization.
 
@@ -62,7 +60,7 @@ Link to an amendment published at 85 FR 4850, Jan. 27, 2020.
 
 (ii) Trading by an employee under circumstances enumerated by the self-regulatory organization in rules which the self-regulatory organization determines are not contrary to the purposes of this regulation, the Commodity Exchange Act, the public interest, or just and equitable principles of trade.
 
-(c) *Governing board members, committee members, and consultants; Registered futures association rules.* Each registered futures association must maintain in effect rules which have been submitted to the Commission pursuant to section 17(j) of the Act which provide that no governing board member, committee member, or consultant shall use or disclose - for any purpose other than the performance of official duties as a governing board member, committee member, or consultant - material, non-public information obtained as a result of the performance of such person's official duties.
+(c) *Governing board members, committee members, and consultants; Registered futures association rules.* Each registered futures association must maintain in effect rules which have been submitted to the Commission pursuant to section 17(j) of the Act which provide that no governing board member, committee member, or consultant shall use or disclose—for any purpose other than the performance of official duties as a governing board member, committee member, or consultant—material, non-public information obtained as a result of the performance of such person's official duties.
 
 (d) *Prohibited conduct.* (1) No employee, governing board member, committee member, or consultant shall:
 
@@ -72,4 +70,4 @@ Link to an amendment published at 85 FR 4850, Jan. 27, 2020.
 
 (2) No person shall trade for such person's own account, or for or on behalf of any other account, in any commodity interest, on the basis of any material, non-public information that such person knows was obtained in violation of paragraph (d)(1) of this section from an employee, governing board member, committee member, or consultant.
 
-[58 FR 54973, Oct. 25, 1993, as amended at 65 FR 47847, Aug. 4, 2000; 77 FR 66330, Nov. 2, 2012; 83 FR 7995, Feb. 23, 2018]
+[58 FR 54973, Oct. 25, 1993, as amended at 65 FR 47847, Aug. 4, 2000; 77 FR 66330, Nov. 2, 2012; 83 FR 7995, Feb. 23, 2018; 85 FR 4850, Jan. 27, 2020]

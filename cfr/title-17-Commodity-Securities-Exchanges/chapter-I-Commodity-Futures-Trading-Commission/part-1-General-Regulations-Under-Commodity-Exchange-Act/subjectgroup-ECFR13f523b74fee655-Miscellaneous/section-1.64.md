@@ -1,10 +1,8 @@
 ##### § 1.64 Composition of various self-regulatory organization governing boards and major disciplinary committees. #####
 
-Link to an amendment published at 85 FR 4850, Jan. 27, 2020.
-
 (a) *Definitions.* For purposes of this section:
 
-(1) *Self-regulatory organization* means “self-regulatory organization” as defined in § 1.3, not including a “clearing organization” as defined in § 1.3.
+(1) *Self-regulatory organization* means “self-regulatory organization,” as defined in § 1.3.
 
 (2) *Major disciplinary committee* means a committee of persons who are authorized by a self-regulatory organization to conduct disciplinary hearings, to settle disciplinary charges, to impose disciplinary sanctions or to hear appeals thereof in cases involving any violation of the rules of the self-regulatory organization except those which:
 
@@ -88,4 +86,4 @@ Link to an amendment published at 85 FR 4850, Jan. 27, 2020.
 
 (d) Each self-regulatory organization must submit to the Commission within thirty days after each governing board election a list of the governing board's members, the membership interests they represent and how the composition of the governing board otherwise meets the requirements of § 1.64(b) and the self-regulatory organization's implementing standards and procedures.
 
-[58 FR 37654, July 13, 1993; 59 FR 5082, Feb. 3, 1994, as amended at 83 FR 7995, Feb. 23, 2018]
+[58 FR 37654, July 13, 1993; 59 FR 5082, Feb. 3, 1994, as amended at 83 FR 7995, Feb. 23, 2018; 85 FR 4850, Jan. 27, 2020]

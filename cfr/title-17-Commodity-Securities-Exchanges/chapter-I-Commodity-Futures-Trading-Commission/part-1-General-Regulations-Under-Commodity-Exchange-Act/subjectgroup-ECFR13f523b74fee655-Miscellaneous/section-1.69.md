@@ -1,7 +1,5 @@
 ##### § 1.69 Voting by interested members of self-regulatory organization governing boards and various committees. #####
 
-Link to an amendment published at 85 FR 4850, Jan. 27, 2020.
-
 (a) *Definitions.* For purposes of this section:
 
 (1) *Disciplinary committee* means any person or committee of persons, or any subcommittee thereof, that is authorized by a self-regulatory organization to issue disciplinary charges, to conduct disciplinary proceedings, to settle disciplinary charges, to impose disciplinary sanctions, or to hear appeals thereof in cases involving any violation of the rules of the self-regulatory organization except those cases where the person or committee is authorized summarily to impose minor penalties for violating rules regarding decorum, attire, the timely submission of accurate records for clearing or verifying each day's transactions or other similar activities.
@@ -16,7 +14,7 @@ Link to an amendment published at 85 FR 4850, Jan. 27, 2020.
 
 (6) *Named party in interest* means a person or entity that is identified by name as a subject of any matter being considered by a governing board, disciplinary committee, or oversight panel.
 
-(7) *Self-regulatory organization* means a “self-regulatory organization” as defined in § 1.3 and includes a “clearing organization” as defined in § 1.3, but excludes registered futures associations for the purposes of paragraph (b)(2) of this section.
+(7) *Self-regulatory organization* means a “self-regulatory organization,” as defined in § 1.3, but excludes registered futures associations for the purposes of paragraph (b)(2) of this section.
 
 (8) *Significant action* includes any of the following types of self-regulatory organization actions or rule changes that can be implemented without the Commission's prior approval:
 
@@ -26,7 +24,7 @@ Link to an amendment published at 85 FR 4850, Jan. 27, 2020.
 
 (b) *Self-regulatory organization rules.* Each self-regulatory organization shall maintain in effect rules that have been submitted to the Commission pursuant to Section 5a(a)(12)(A) of the Act and § 1.41 or, in the case of a registered futures association, pursuant to Section 17(j) of the Act, to address the avoidance of conflicts of interest in the execution of its self-regulatory functions. Such rules must provide for the following:
 
-(1) *Relationship with named party in interest -* (i) *Nature of relationship.* A member of a self-regulatory organization's governing board, disciplinary committee or oversight panel must abstain from such body's deliberations and voting on any matter involving a named party in interest where such member:
+(1) *Relationship with named party in interest—*(i) *Nature of relationship.* A member of a self-regulatory organization's governing board, disciplinary committee or oversight panel must abstain from such body's deliberations and voting on any matter involving a named party in interest where such member:
 
 (A) Is a named party in interest;
 
@@ -46,7 +44,7 @@ Link to an amendment published at 85 FR 4850, Jan. 27, 2020.
 
 (B) Any other source of information that is held by and reasonably available to the self-regulatory organization.
 
-(2) *Financial interest in a significant action -* (i) *Nature of interest.* A member of a self-regulatory organization's governing board, disciplinary committee or oversight panel must abstain from such body's deliberations and voting on any significant action if the member knowingly has a direct and substantial financial interest in the result of the vote based upon either exchange or non-exchange positions that could reasonably be expected to be affected by the action.
+(2) *Financial interest in a significant action—*(i) *Nature of interest.* A member of a self-regulatory organization's governing board, disciplinary committee or oversight panel must abstain from such body's deliberations and voting on any significant action if the member knowingly has a direct and substantial financial interest in the result of the vote based upon either exchange or non-exchange positions that could reasonably be expected to be affected by the action.
 
 (ii) *Disclosure of interest.* Prior to the consideration of any significant action, each member of a self-regulatory organization governing board, disciplinary committee or oversight panel must disclose to the appropriate self-regulatory organization staff the position information referred to in paragraph (b)(2)(iii) of this section that is known to him or her. This requirement does not apply to members who choose to abstain from deliberations and voting on the subject significant action.
 
@@ -88,4 +86,4 @@ Link to an amendment published at 85 FR 4850, Jan. 27, 2020.
 
 (iii) Information on the position information that was reviewed for each member.
 
-[64 FR 23, Jan. 4, 1999; 64 FR 3340, Jan. 21, 1999, as amended at 83 FR 7995, Feb. 23, 2018]
+[64 FR 23, Jan. 4, 1999; 64 FR 3340, Jan. 21, 1999, as amended at 83 FR 7995, Feb. 23, 2018; 85 FR 4850, Jan. 27, 2020]

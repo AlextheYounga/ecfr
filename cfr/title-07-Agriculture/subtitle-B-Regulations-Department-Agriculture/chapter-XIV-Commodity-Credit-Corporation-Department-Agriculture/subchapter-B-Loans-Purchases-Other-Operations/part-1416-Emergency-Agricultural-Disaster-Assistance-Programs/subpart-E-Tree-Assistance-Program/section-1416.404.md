@@ -4,7 +4,7 @@
 
 (1) Have planted, or be considered to have planted (by purchase prior to the loss of existing stock planted for commercial purposes) trees, bushes, or vines for commercial purposes, or have a production history, for commercial purposes, of planted or existing trees, bushes, or vines;
 
-(2) Have suffered eligible losses of eligible trees, bushes, or vines occurring on or after October 1, 2011, as a result of a natural disaster or related condition;
+(2) Have suffered eligible losses of eligible trees, bushes, or vines, as a result of a natural disaster or related condition;
 
 (3) Have continuously owned the stand from the time of the disaster until the time that the TAP application is submitted.
 
@@ -20,4 +20,4 @@
 
 (d) Federal, State, and local governments and agencies and political subdivisions thereof are not eligible for payment under this subpart.
 
-[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49472, Oct. 2, 2018]
+[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49472, Oct. 2, 2018; 85 FR 10968, Feb. 26, 2020]
