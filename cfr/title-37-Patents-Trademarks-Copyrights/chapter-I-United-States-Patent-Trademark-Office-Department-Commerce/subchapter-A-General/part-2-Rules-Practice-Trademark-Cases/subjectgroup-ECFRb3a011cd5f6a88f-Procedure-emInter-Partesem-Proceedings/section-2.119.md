@@ -9,7 +9,6 @@
 (2) By leaving a copy at the usual place of business of the person served, with someone in the person's employment;
 
 (3) When the person served has no usual place of business, by leaving a copy at the person's residence, with some person of suitable age and discretion who resides there;
-\\
 
 (4) Transmission by the Priority Mail Express® Post Office to Addressee service of the United States Postal Service or by first-class mail, which may also be certified or registered;
 

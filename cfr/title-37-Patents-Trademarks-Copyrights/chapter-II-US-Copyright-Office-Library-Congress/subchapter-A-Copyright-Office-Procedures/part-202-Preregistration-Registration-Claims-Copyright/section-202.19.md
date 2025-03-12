@@ -1,5 +1,7 @@
 ##### § 202.19 Deposit of published copies or phonorecords for the Library of Congress. #####
 
+Link to an amendment published at 83 FR 61550, November 30, 2018.
+
 (a) *General.* This section prescribes rules pertaining to the deposit of copies and phonorecords of published works for the Library of Congress under section 407 of title 17 of the United States Code. The provisions of this section are not applicable to the deposit of copies and phonorecords for purposes of copyright registration under section 408 of title 17, except as expressly adopted in § 202.20.
 
 (b) *Definitions.* For the purposes of this section:

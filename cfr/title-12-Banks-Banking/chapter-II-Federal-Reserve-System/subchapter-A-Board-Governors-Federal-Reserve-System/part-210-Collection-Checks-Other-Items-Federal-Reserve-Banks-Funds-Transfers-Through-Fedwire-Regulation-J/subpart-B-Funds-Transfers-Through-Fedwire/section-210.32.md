@@ -1,5 +1,7 @@
 ##### § 210.32 Federal Reserve Bank liability; payment of interest. #####
 
+Link to an amendment published at 83 FR 61517, Nov. 30, 2018.
+
 (a) *Damages.* In connection with its handling of a payment order under this subpart, a Federal Reserve Bank shall not be liable to a sender, receiving bank, beneficiary, or other Federal Reserve Bank, governed by this subpart, for any damages other than those payable under Article 4A. A Federal Reserve Bank shall not agree to be liable to a sender, receiving bank, beneficiary, or other Federal Reserve Bank for consequential damages under section 4A-305(d) of Article 4A.
 
 (b) *Payment of interest.* (1) A Federal Reserve Bank shall satisfy its obligation, or that of another Federal Reserve Bank, to pay compensation in the form of interest under article 4A by paying compensation in the form of interest to its sender, its receiving bank, its beneficiary, or another party to the funds transfer that is entitled to such payment, in an amount that is calculated in accordance with section 4A-506 of article 4A.

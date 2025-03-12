@@ -1,5 +1,7 @@
 ##### § 210.4 Sending items to Reserve Banks. #####
 
+Link to an amendment published at 83 FR 61518, Nov. 30, 2018.
+
 (a) *Sending of items.* A sender, other than a Reserve Bank, may send any item to any Reserve Bank, whether or not the item is payable within the Reserve Bank's District, unless the sender's administrative Reserve Bank directs the sender to send the item to a specific Reserve Bank.
 
 (b) *Handling of items.* (1) The following parties, in the following order, are deemed to have handled an item that is sent to a Reserve Bank for collection:

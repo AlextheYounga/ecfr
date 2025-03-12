@@ -1,5 +1,7 @@
 ##### § 210.5 Sender's agreement; recovery by Reserve Bank. #####
 
+Link to an amendment published at 83 FR 61518, Nov. 30, 2018.
+
 (a) *Sender's agreement.* The warranties, authorizations, and agreements made pursuant to this paragraph may not be disclaimed and are made whether or not the item bears an indorsement of the sender. By sending an item to a Reserve Bank, the sender does all of the following.
 
 (1) *Authorization to handle item.* The sender authorizes the sender's administrative Reserve Bank and any other Reserve Bank or collecting bank to which the item is sent to handle the item (and authorizes any Reserve Bank that handles settlement for the item to make accounting entries), subject to this subpart and to the Reserve Banks' operating circulars, and warrants its authority to give this authorization.

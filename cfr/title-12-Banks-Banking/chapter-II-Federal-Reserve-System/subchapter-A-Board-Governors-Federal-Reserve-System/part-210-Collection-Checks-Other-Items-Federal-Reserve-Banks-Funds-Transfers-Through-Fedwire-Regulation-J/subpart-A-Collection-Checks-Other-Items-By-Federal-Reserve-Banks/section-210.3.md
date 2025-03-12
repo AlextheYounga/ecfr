@@ -1,5 +1,7 @@
 ##### § 210.3 General provisions. #####
 
+Link to an amendment published at 83 FR 61518, Nov. 30, 2018.
+
 (a) *General.* Each Reserve Bank shall receive and handle items in accordance with this subpart, and shall issue operating circulars governing the details of its handling of items and other matters deemed appropriate by the Reserve Bank. The circulars may, among other things, classify cash items and noncash items, require separate sorts and letters, provide different closing times for the receipt of different classes or types of items, provide for instructions by an administrative Reserve Bank to other Reserve Banks, set forth terms of services, and establish procedures for adjustments on a Reserve Bank's books, including amounts, waiver of expenses, and payment of compensation.
 
 (b) *Binding effect.* This subpart, together with subparts C and D of part 229 and the operating circulars of the Reserve Banks, are binding on all parties interested in an item handled by any Reserve Bank.

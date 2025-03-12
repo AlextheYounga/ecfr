@@ -1,5 +1,7 @@
 ##### § 210.7 Presenting items for payment. #####
 
+Link to an amendment published at 83 FR 61520, Nov. 30, 2018.
+
 (a) *Presenting or sending.* As provided under State law or as otherwise permitted by this section: (1) a Reserve Bank or a subsequent collecting bank may present an item for payment or send the item for presentment and payment; and
 
 (2) A Reserve Bank may send an item to a subsequent collecting bank with authority to present it for payment or to send it for presentment and payment.

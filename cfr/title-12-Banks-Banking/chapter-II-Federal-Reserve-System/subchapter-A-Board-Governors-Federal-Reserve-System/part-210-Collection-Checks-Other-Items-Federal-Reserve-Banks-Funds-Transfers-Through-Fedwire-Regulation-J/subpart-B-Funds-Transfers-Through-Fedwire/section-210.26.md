@@ -1,5 +1,7 @@
 ##### § 210.26 Definitions. #####
 
+Link to an amendment published at 83 FR 61517, Nov. 30, 2018.Link to an amendment published at 83 FR 61522, Nov. 30, 2018.
+
 As used in this subpart, the following definitions apply:
 
 (a) *Article 4A* means article 4A of the Uniform Commercial Code as set forth in appendix B of this subpart.

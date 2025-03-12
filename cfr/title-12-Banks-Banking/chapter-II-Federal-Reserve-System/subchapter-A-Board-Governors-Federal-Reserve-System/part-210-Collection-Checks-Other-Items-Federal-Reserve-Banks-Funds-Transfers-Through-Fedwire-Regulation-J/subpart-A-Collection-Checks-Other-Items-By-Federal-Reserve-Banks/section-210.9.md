@@ -1,5 +1,7 @@
 ##### § 210.9 Settlement and payment. #####
 
+Link to an amendment published at 83 FR 61520, Nov. 30, 2018.
+
 (a) *Settlement through Administrative Reserve Bank.* A paying bank shall settle for an item under this subpart with its Administrative Reserve Bank, whether or not the paying bank received the item from that Reserve Bank. A paying bank's settlement with its Administrative Reserve Bank is deemed to be settlement with the Reserve Bank from which the paying bank received the item. A paying bank may settle for an item using any account on a Reserve Bank's books by agreement with its Administrative Reserve Bank, any other Reserve Bank holding the settlement account, and the account-holder. The paying bank remains responsible for settlement if the Reserve Bank holding the settlement account does not, for any reason, obtain settlement in that account.
 
 (b) *Cash items* - (1) *Settlement obligation.* On the day a paying bank receives2 a cash item from a Reserve Bank, it shall settle for the item such that the proceeds of the settlement are available to its Administrative Reserve Bank by the close of Fedwire on that day, or it shall return the item by the later of the close of its banking day or the close of Fedwire. If the paying bank fails to settle for or return a cash item in accordance with this paragraph (b)(1), it is accountable for the amount of the item as of the close of its banking day or the close of Fedwire on the day it receives the item, whichever is earlier.

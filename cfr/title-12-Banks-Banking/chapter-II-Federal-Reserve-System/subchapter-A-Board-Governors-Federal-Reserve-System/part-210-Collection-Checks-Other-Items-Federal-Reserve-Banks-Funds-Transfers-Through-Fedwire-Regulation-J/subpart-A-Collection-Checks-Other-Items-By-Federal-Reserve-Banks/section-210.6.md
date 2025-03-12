@@ -1,5 +1,7 @@
 ##### § 210.6 Status, warranties, and liability of Reserve Bank. #####
 
+Link to an amendment published at 83 FR 61519, Nov. 30, 2018.
+
 (a)(1) *Status.* A Reserve Bank that handles an item shall act as agent or subagent of the owner with respect to the item. This agency terminates when a Reserve Bank receives final payment for the item in actually and finally collected funds, a Reserve Bank makes the proceeds available for use by the sender, and the time for commencing all actions against the Reserve Bank has expired.
 
 (2) *Limitations on Reserve Bank liability.* A Reserve Bank shall not have or assume any liability with respect to an item or its proceeds except -
