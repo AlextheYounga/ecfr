@@ -1,5 +1,7 @@
 ##### § 520.905d Fenbendazole powder. #####
 
+Link to an amendment published at 83 FR 48945, Sept. 28, 2018.
+
 (a) *Specifications.* (1) Each 2-ounce packet contains 2.27 grams (4 percent) of fenbendazole plus other inert ingredients.
 
 (2) Each 4-ounce packet contains 1.7 grams (1.5 percent) of fenbendazole plus other inert ingredients.

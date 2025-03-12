@@ -4,7 +4,7 @@
 
 (b) *Sponsors.* See sponsors in § 510.600(c) of this chapter for use as in paragraph (e) of this section.
 
-(1) See Nos. 000061, 000859, 055529, 057561, and 061623 for use as in paragraph (e) of this section.
+(1) See Nos. 000061, 000859, 016592, 055529, and 061623 for use as in paragraph (e) of this section.
 
 (2) See No. 054771 for use as in paragraph (e)(1) of this section.
 
@@ -32,4 +32,4 @@
 
 (iii) *Limitations.* Swine must not be slaughtered for human consumption within 12 days of last treatment.
 
-[42 FR 39103, Aug. 2, 1977, as amended at 52 FR 7832, Mar. 13, 1987; 60 FR 54942, Oct. 27, 1995; 62 FR 22888, Apr. 28, 1997; 63 FR 38749, July 20, 1998; 67 FR 9400, Mar. 1, 2002; 68 FR 70701, Dec. 19, 2003; 69 FR 53618, Sept. 2, 2004; 69 FR 60308, Oct. 8, 2004; 70 FR 48868, Aug. 22, 2005; 70 FR 70998, Nov. 25, 2005; 71 FR 15564, Mar. 29, 2006; 71 FR 16222, Mar. 31, 2006; 73 FR 2809, Jan. 16, 2008; 73 FR 28037, May 15, 2008; 74 FR 6994, Feb. 12, 2009; 74 FR 34236, July 15, 2009; 75 FR 13225, Mar. 19, 2010; 75 FR 76260, Dec. 8, 2010; 79 FR 16189, Mar. 25, 2014; 82 FR 43484, Sept. 18, 2017]
+[42 FR 39103, Aug. 2, 1977, as amended at 52 FR 7832, Mar. 13, 1987; 60 FR 54942, Oct. 27, 1995; 62 FR 22888, Apr. 28, 1997; 63 FR 38749, July 20, 1998; 67 FR 9400, Mar. 1, 2002; 68 FR 70701, Dec. 19, 2003; 69 FR 53618, Sept. 2, 2004; 69 FR 60308, Oct. 8, 2004; 70 FR 48868, Aug. 22, 2005; 70 FR 70998, Nov. 25, 2005; 71 FR 15564, Mar. 29, 2006; 71 FR 16222, Mar. 31, 2006; 73 FR 2809, Jan. 16, 2008; 73 FR 28037, May 15, 2008; 74 FR 6994, Feb. 12, 2009; 74 FR 34236, July 15, 2009; 75 FR 13225, Mar. 19, 2010; 75 FR 76260, Dec. 8, 2010; 79 FR 16189, Mar. 25, 2014; 82 FR 43484, Sept. 18, 2017; 83 FR 48946, Sept. 28, 2018]

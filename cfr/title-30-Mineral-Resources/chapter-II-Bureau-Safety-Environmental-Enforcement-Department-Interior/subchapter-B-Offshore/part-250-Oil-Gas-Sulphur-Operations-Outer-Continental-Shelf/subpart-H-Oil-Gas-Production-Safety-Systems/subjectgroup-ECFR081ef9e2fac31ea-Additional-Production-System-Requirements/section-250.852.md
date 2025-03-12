@@ -1,5 +1,7 @@
 ##### § 250.852 Flowlines/Headers. #####
 
+Link to an amendment published at 83 FR 49259, Sept. 28, 2018.
+
 (a) You must:
 
 (1) Equip flowlines from wells with both PSH and PSL sensors. You must locate these sensors in accordance with section A.1 of API RP 14C (incorporated by reference as specified in § 250.198).

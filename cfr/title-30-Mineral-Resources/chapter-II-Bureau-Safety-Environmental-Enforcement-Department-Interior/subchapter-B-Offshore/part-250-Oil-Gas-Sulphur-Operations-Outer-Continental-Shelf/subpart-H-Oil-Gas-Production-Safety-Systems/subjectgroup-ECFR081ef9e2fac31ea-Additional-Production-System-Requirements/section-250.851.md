@@ -1,5 +1,7 @@
 ##### § 250.851 Pressure vessels (including heat exchangers) and fired vessels. #####
 
+Link to an amendment published at 83 FR 49259, Sept. 28, 2018.
+
 (a) Pressure vessels (including heat exchangers) and fired vessels supporting production operations must meet the requirements in the following table:
 
 |                                                                                                                Item name                                                                                                                 |                                                                                                                                                                                                                                                                                                                                     Applicable codes and requirements                                                                                                                                                                                                                                                                                                                                      |

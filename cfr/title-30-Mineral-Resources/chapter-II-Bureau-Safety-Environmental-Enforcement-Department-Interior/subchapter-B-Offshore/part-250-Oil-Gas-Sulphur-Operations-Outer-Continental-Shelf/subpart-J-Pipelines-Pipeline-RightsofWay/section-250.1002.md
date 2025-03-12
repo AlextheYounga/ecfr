@@ -1,5 +1,7 @@
 ##### § 250.1002 Design requirements for DOI pipelines. #####
 
+Link to an amendment published at 83 FR 49263, Sept. 28, 2018.
+
 (a) The internal design pressure for steel pipe shall be determined in accordance with the following formula:
 
 ![](/graphics/er18oc11.000.gif)

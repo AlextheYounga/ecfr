@@ -10,10 +10,12 @@
 
 (4) Drivers applying for a removal of a restriction in accordance with § 383.135(b)(7).
 
-(b) Drivers who hold a valid Class A or Class B CDL, or a passenger (P), school bus (S), or hazardous materials (H) endorsement, issued before February 7, 2020, are not required to comply with this subpart pertaining to that CDL or endorsement.
+(b) Drivers issued a Class A CDL, Class B CDL, or a passenger (P), school bus (S), or hazardous materials (H) endorsement before February 7, 2020, are not required to comply with this subpart pertaining to that CDL or endorsement.
 
 (c)(1) Individuals who obtain a CLP before February 7, 2020, are not required to comply with this subpart if they obtain a CDL before the CLP or renewed CLP expires.
 
 (2) Individuals who obtain a CLP on or after February 7, 2020, are required to comply with this subpart.
 
 (3) Except for individuals seeking the H endorsement, individuals must complete the theory and BTW (range and public road) portions of entry-level driver training within one year of completing the first portion.
+
+[81 FR 88790, Dec. 8, 2016, as amended at 83 FR 48725, Sept. 27, 2018]

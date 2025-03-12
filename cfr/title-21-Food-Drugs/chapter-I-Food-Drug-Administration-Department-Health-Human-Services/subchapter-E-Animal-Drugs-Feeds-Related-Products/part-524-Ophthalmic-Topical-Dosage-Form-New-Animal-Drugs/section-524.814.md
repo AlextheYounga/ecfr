@@ -2,7 +2,7 @@
 
 (a) *Specifications.* Each milliliter (mL) contains 5 milligrams (mg) of eprinomectin.
 
-(b) *Sponsor.* See No. 050604 in § 510.600(c) of this chapter.
+(b) *Sponsors.* See Nos. 050604 and 055529 in § 510.600(c) of this chapter.
 
 (c) *Related tolerances.* See § 556.227 of this chapter.
 
@@ -14,4 +14,4 @@
 
 (3) *Limitations.* A withdrawal period has not been established for preruminating calves. Do not use in calves to be processed for veal.
 
-[76 FR 72619, Nov. 25, 2011]
+[76 FR 72619, Nov. 25, 2011, as amended at 83 FR 48946, Sept. 28, 2018]

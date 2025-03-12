@@ -1,5 +1,7 @@
 ##### § 250.842 Approval of safety systems design and installation features. #####
 
+Link to an amendment published at 83 FR 49257, Sept. 28, 2018.
+
 (a) Before you install or modify a production safety system, you must submit a production safety system application to the District Manager for approval. The application must include the information prescribed in the following table:
 
 |                                                                                                You must submit:                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                      Details and/or additional requirements:                                                                                                                                                                                                                                                                                                                                                                                                                                                       |

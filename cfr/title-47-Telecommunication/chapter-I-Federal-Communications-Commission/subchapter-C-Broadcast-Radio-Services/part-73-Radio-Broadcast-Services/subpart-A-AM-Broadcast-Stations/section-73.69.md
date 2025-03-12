@@ -20,4 +20,4 @@
 
 (e) The antenna monitor must be calibrated according to the manufacturer's instructions as often as necessary to ensure its proper operation.
 
-(Secs. 4, 5, 303, 48 Stat., as amended, 1066, 1068, as amended, 1082, as amended; 47 U.S.C. 154, 303. Interpret or apply secs. 301, 303, 307, 48 Stat. 1081, 1082, as amended, 1083, as amended, 47 U.S.C. 301, 303, 307)[38 FR 1918, Jan. 19, 1973]Editorial Note:For Federal Register citations affecting § 73.69, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[38 FR 1918, Jan. 19, 1973]Editorial Note:For Federal Register citations affecting § 73.69, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

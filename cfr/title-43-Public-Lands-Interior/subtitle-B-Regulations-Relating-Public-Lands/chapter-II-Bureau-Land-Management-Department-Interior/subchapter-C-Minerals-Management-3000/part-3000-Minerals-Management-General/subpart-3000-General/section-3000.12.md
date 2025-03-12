@@ -1,5 +1,7 @@
 ##### § 3000.12 What is the fee schedule for fixed fees? #####
 
+Link to an amendment published at 83 FR 48960, Sept. 28, 2018.
+
 (a) The table in this section shows the fixed fees that you must pay to the BLM for the services listed for Fiscal Year 2017. These fees are nonrefundable and must be included with documents you file under this chapter. Fees will be adjusted annually according to the change in the Implicit Price Deflator for Gross Domestic Product (IPD-GDP) by way of publication of a final rule in the Federal Register and will subsequently be posted on the BLM Web site (*http://www.blm.gov*) before October 1 each year. Revised fees are effective each year on October 1.
 
 FY 2017 Processing and Filing Fee Table

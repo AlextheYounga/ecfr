@@ -1,16 +1,18 @@
 ##### § 558.205 Dichlorvos. #####
 
-(a) *Approvals.* Type A medicated articles: 3.1 and 9.6 percent to 054628 in § 510.600(c) of this chapter.
+(a) *Specifications.* Type A medicated articles containing 3.1 or 9.6 percent dichlorvos.
 
-(b) *Special considerations.* (1) Dichlorvos is to be included in meal or mash or mixed with feed in crumble form only after the crumble feed has been manufactured. Do not mix in feeds to be pelleted nor with pelleted feed. Do not soak the feed or administer as wet mash. Feed must be dry when administered. Do not use in animals other than swine. Do not allow fowl access to feed containing this preparation or to feces from treated animals.
+(b) *Sponsor.* See No. 069043 in § 510.600(c) of this chapter.
+
+(c) *Special considerations.* (1) Dichlorvos is to be included in meal or mash or mixed with feed in crumble form only after the crumble feed has been manufactured. Do not mix in feeds to be pelleted nor with pelleted feed. Do not soak the feed or administer as wet mash. Feed must be dry when administered. Do not use in animals other than swine. Do not allow fowl access to feed containing this preparation or to feces from treated animals.
 
 (2) Dichlorvos is a cholinesterase inhibitor. Do not use this product in animals simultaneously or within a few days before or after treatment with or exposure to cholinesterase-inhibiting drugs, pesticides, or chemicals. If human or animal poisoning should occur, immediately consult a physician or a veterinarian. Atropine is antidotal.
 
 (3) Labeling for Type A articles and Type B feeds must include a statement that containers or materials used in packaging such Type A articles and Type B feeds are not to be reused and all such packaging materials must be destroyed after the product has been used.
 
-(c) *Related tolerances.* See § 556.180 of this chapter.
+(d) *Related tolerances.* See § 556.180 of this chapter.
 
-(d) *Conditions of use.* It is used in feed for swine as follows:
+(e) *Conditions of use.* It is used in feed for swine as follows:
 
 (1) *Amount per ton.* Dichlorvos, 348 grams (0.0384 percent).
 
@@ -30,4 +32,4 @@
 
 (ii) *Limitations.* For pregnant swine; mix into a gestation feed to provide 1,000 milligrams per head daily during last 30 days of gestation.
 
-[40 FR 13959, Mar. 27, 1975, as amended at 40 FR 50258, Oct. 29, 1975; 48 FR 46515, Oct. 13, 1983; 51 FR 7397, Mar. 3, 1986; 51 FR 28547, Aug. 8, 1986; 52 FR 2684, Jan. 26, 1987; 62 FR 35077, June 30, 1997; 78 FR 21060, Apr. 9, 2013]
+[40 FR 13959, Mar. 27, 1975, as amended at 40 FR 50258, Oct. 29, 1975; 48 FR 46515, Oct. 13, 1983; 51 FR 7397, Mar. 3, 1986; 51 FR 28547, Aug. 8, 1986; 52 FR 2684, Jan. 26, 1987; 62 FR 35077, June 30, 1997; 78 FR 21060, Apr. 9, 2013; 83 FR 48947, Sept. 28, 2018]

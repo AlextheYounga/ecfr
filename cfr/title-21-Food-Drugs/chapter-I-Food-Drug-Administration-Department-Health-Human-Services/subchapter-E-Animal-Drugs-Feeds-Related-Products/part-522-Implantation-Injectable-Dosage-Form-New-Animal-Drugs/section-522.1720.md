@@ -10,7 +10,7 @@
 
 (2) Nos. 000061, 000859, 054771, and 061623 for use of product described in paragraph (a)(2) as in paragraph (c) of this section.
 
-(3) Nos. 054628 and 058005 for use of product described in paragraph (a)(2) as in paragraph (c)(2) of this section.
+(3) Nos. 058005 and 069043 for use of product described in paragraph (a)(2) as in paragraph (c)(2) of this section.
 
 (c) *Conditions of use* - (1) *Dogs* - (i) *Amount.* Administer by intravenous injection 10 mg per pound of body weight daily in three divided doses, not to exceed 800 mg daily regardless of weight. Limit intravenous administration to 2 successive days. Oral medication may follow.
 
@@ -24,4 +24,4 @@
 
 (iii) *Limitations.* Do not use in horses intended for human consumption. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[79 FR 16193, Mar. 25, 2014]
+[79 FR 16193, Mar. 25, 2014, as amended at 83 FR 48946, Sept. 28, 2018]

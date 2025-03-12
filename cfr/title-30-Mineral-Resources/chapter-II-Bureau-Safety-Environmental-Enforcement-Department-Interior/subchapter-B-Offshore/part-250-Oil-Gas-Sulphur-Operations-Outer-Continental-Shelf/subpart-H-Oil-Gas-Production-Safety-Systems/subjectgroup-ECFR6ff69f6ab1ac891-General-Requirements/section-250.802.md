@@ -1,5 +1,7 @@
 ##### § 250.802 Requirements for SPPE. #####
 
+Link to an amendment published at 83 FR 49256, Sept. 28, 2018.
+
 (a) All SSVs, BSDVs, and USVs and their actuators must meet all of the specifications contained in ANSI/API Spec. 6A and API Spec. 6AV1 (both incorporated by reference as specified in § 250.198).
 
 (b) All SSSVs and their actuators must meet all of the specifications and recommended practices of ANSI/API Spec. 14A and ANSI/API RP 14B, including all annexes (both incorporated by reference as specified in § 250.198). Subsurface-controlled SSSVs are not allowed on subsea wells.

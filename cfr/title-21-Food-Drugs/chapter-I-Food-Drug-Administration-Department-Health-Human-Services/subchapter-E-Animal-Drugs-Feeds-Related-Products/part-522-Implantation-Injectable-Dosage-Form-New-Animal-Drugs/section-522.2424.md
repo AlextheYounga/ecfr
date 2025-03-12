@@ -2,9 +2,9 @@
 
 (a) *Specifications.* The drug is a sterile powder. It is reconstituted with sterile distilled water, water for injection, or sodium chloride injection, to a desired concentration of 0.5 to 4 percent sodium thiamylal.
 
-(b) *Sponsors.* See Nos. 054628 and 054771 in § 510.600(c) of this chapter.
+(b) *Sponsors.* See Nos. 054771 and 069043 in § 510.600(c) of this chapter.
 
-(c) *Conditions of use* - (1) *Amount.* Administer by intravenous injection to effect. The average single dose is:
+(c) *Conditions of use*—(1) *Amount.* Administer by intravenous injection to effect. The average single dose is:
 
 (i) *Dogs and cats:* 8 milligrams (mg) per pound of body weight (when used with a preanesthetic, generally one-half the normal dose).
 
@@ -18,4 +18,4 @@
 
 (3) *Limitations.* Do not use in horses intended for human consumption. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[79 FR 16196, Mar. 25, 2014]
+[79 FR 16196, Mar. 25, 2014, as amended at 83 FR 48946, Sept. 28, 2018]

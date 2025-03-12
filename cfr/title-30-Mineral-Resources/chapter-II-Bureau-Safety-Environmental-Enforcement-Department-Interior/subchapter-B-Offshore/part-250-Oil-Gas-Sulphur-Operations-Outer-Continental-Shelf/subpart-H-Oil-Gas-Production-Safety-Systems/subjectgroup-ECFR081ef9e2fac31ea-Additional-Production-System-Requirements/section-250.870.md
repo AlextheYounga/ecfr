@@ -1,5 +1,7 @@
 ##### § 250.870 Time delays on pressure safety low (PSL) sensors. #####
 
+Link to an amendment published at 83 FR 49259, Sept. 28, 2018.
+
 (a) You may apply any or all of the industry standard Class B, Class C, or Class B/C logic to all applicable PSL sensors installed on process equipment, as long as the time delay does not exceed 45 seconds. Use of a PSL sensor with a time delay greater than 45 seconds requires BSEE approval in accordance with § 250.141. You must document on your field test records any use of a PSL sensor with a time delay greater than 45 seconds. For purposes of this section, PSL sensors are categorized as follows:
 
 (1) Class B safety devices have logic that allows for the PSL sensors to be bypassed for a fixed time period (typically less than 15 seconds, but not more than 45 seconds). Examples include sensors used in conjunction with the design of pump and compressor panels such as PSL sensors, lubricator no-flows, and high-water jacket temperature shutdowns.

@@ -1,5 +1,7 @@
 ##### § 250.874 Subsea water injection systems. #####
 
+Link to an amendment published at 83 FR 49262, Sept. 28, 2018.
+
 If you choose to install a subsea water injection system, your system must comply with your approved DWOP, which must meet the following minimum requirements:
 
 (a) Adhere to the water injection requirements described in API RP 14C (incorporated by reference as specified in § 250.198) for the water injection equipment located on the platform. In accordance with § 250.830, either a surface-controlled SSSV or a water injection valve (WIV) that is self-activated and not controlled by emergency shut-down (ESD) or sensor activation must be installed in a subsea water injection well.

@@ -2,7 +2,7 @@
 
 (a)(1) *Specifications.* The drug contains 50 milligrams of oxytetracycline hydrochloride in each milliliter of sterile solution.
 
-(2) *Sponsor.* See No. 054628 in § 510.600(c) of this chapter.
+(2) *Sponsor.* See No. 069043 in § 510.600(c) of this chapter.
 
 (3) *Conditions of use.* (i) The drug is intended for use in beef cattle, beef calves, nonlactating dairy cattle, and dairy calves for treatment of disease conditions caused by one or more of the following oxytetracycline sensitive pathogens listed as follows: pneumonia and shipping fever complex (*Pasteurella spp.; Hemophilis spp.; Klebsiella spp.* ), bacterial enteritis (scours) (*E. coli*), foot-rot (*Spherophorus necrophorus*), diphtheria (*Spherophorus necrophorus*), wooden tongue (*Actinobacillus lignieresi*), leptospirosis (*Leptospira pomona*), and wound infections; acute metritis; traumatic injury (caused by a variety of bacterial organisms (such as streptococcal and staphylococcal organisms).)
 
@@ -14,7 +14,7 @@
 
 (b)(1) *Specifications.* Each milliliter of sterile solution contains 50 or 100 milligrams of oxytetracycline (as oxytetracycline hydrochloride).
 
-(2) *Sponsor.* See 054628 in § 510.600(c) of this chapter.
+(2) *Sponsor.* See 069043 in § 510.600(c) of this chapter.
 
 (3) *Conditions of use* - (i) *Beef cattle and nonlactating dairy cattle* - (*a*) *Amount.* Three to 5 milligrams of oxytetracycline per pound of body weight per day; 5 milligrams per pound of body weight per day for the treatment of anaplasmosis, severe foot-rot, and severe cases of other indicated diseases.
 
@@ -92,7 +92,7 @@
 
 (g)(1) *Specifications.* Each milliliter of sterile solution contains 100 milligrams of oxytetracycline as oxytetracycline hydrochloride.
 
-(2) *Sponsor.* See No. 054628 in § 510.600(c) of this chapter.
+(2) *Sponsor.* See No. 069043 in § 510.600(c) of this chapter.
 
 (3) *Conditions of use.* The drug is used for the treatment of diseases due to oxytetracycline-susceptible organisms as follows:
 
@@ -110,7 +110,7 @@
 
 (h)(1) *Specifications.* Each milliliter of sterile solution contains 50 or 100 milligrams of oxytetracycline hydrochloride.
 
-(2) *Sponsors.* See No. 054628 in § 510.600(c) of this chapter for use of 50 and 100 milligrams per milliliter solution; and Nos. 016592 and 055529 in § 510.600(c) for use of 100 milligrams per milliliter solution.
+(2) *Sponsors.* See No. 069043 in § 510.600(c) of this chapter for use of 50 and 100 milligrams per milliliter solution; and Nos. 016592 and 055529 in § 510.600(c) for use of 100 milligrams per milliliter solution.
 
 (3) *Conditions of use* - (i) *Amount.* The drug is used in beef cattle, beef calves, nonlactating dairy cattle, and dairy calves as follows: 3 to 5 milligrams of oxytetracycline hydrochloride per pound of body weight per day; 5 milligrams per pound of body weight per day for treatment of severe forms of the indicated diseases.
 

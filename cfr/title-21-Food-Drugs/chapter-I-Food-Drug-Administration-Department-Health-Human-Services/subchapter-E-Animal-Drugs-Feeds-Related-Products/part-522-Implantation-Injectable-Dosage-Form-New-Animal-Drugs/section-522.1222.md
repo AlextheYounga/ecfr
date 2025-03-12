@@ -2,7 +2,7 @@
 
 (a) *Specifications.* Each milliliter contains ketamine hydrochloride equivalent to 100 milligrams (mg) ketamine base activity.
 
-(b) *Sponsors.* See Nos. 000859, 026637, 054628, 054771, 059399, and 063286 in § 510.600(c) of this chapter.
+(b) *Sponsors.* See Nos. 000859, 026637, 054771, 059399, 063286, and 069043 in § 510.600(c) of this chapter.
 
 (c) *Special considerations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
@@ -14,4 +14,4 @@
 
 (ii) *Indications for use.* For restraint.
 
-[67 FR 17283, Apr. 10, 2002, as amended at 73 FR 8192, Feb. 13, 2008. Redesignated at 79 FR 16191, Mar. 25, 2014, as amended at 80 FR 13229, Mar. 13, 2015]
+[67 FR 17283, Apr. 10, 2002, as amended at 73 FR 8192, Feb. 13, 2008. Redesignated at 79 FR 16191, Mar. 25, 2014, as amended at 80 FR 13229, Mar. 13, 2015; 83 FR 48946, Sept.. 28, 2018]

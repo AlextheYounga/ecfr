@@ -1,5 +1,7 @@
 ##### § 250.814 Design, installation, and operation of SSSVs - dry trees. #####
 
+Link to an amendment published at 83 FR 49257, Sept. 28, 2018.
+
 You must design, install, and operate (including repair, maintain, and test) an SSSV to ensure its reliable operation.
 
 (a) You must install the SSSV at a depth at least 100 feet below the mudline within 2 days after production is established. When warranted by conditions such as permafrost, unstable bottom conditions, hydrate formation, or paraffin problems, the District Manager may approve an alternate setting depth on a case-by-case basis.

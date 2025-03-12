@@ -1,5 +1,7 @@
 ##### § 558.185 Coumaphos. #####
 
+Link to an amendment published at 83 FR 48947, Sept. 28, 2018.
+
 (a) *Specifications.* Type A medicated articles containing 1.12, 2.0, 11.2, or 50 percent coumaphos.
 
 (b) *Approvals.* See sponsors in § 510.600(c) of this chapter for use as in paragraph (e) of this section.

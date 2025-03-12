@@ -1,5 +1,7 @@
 ##### § 250.800 General. #####
 
+Link to an amendment published at 83 FR 49256, Sept. 28, 2018.
+
 (a) You must design, install, use, maintain, and test production safety equipment in a manner to ensure the safety and protection of the human, marine, and coastal environments. For production safety systems operated in subfreezing climates, you must use equipment and procedures that account for floating ice, icing, and other extreme environmental conditions that may occur in the area. You must not commence production until BSEE approves your production safety system application and you have requested a preproduction inspection.
 
 (b) For all new production systems on fixed leg platforms, you must comply with API RP 14J (incorporated by reference as specified in § 250.198);

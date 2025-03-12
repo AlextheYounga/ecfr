@@ -56,7 +56,6 @@
 |                              IMPAX Laboratories, Inc., 30831 Huntwood Ave., Hayward, CA 94544                              |     000115      |
 |                                     Intervet, Inc., 2 Giralda Farms, Madison, NJ 07940                                     |     000061      |
 |                            Ivaoes Animal Health, 4300 SW 73rd Ave., suite 110, Miami, FL 33155                             |     086064      |
-|                            JBS United Animal Health II LLC, 322 S. Main St., Sheridan, IN 46069                            |     051233      |
 |                             Jurox Pty. Ltd., 85 Gardiner St., Rutherford, NSW 2320, Australia                              |     049480      |
 |                         Kinetic Technologies, LLC, 961 Beasley St., suite 270, Lexington, KY 40509                         |     051031      |
 |                                  LFB USA, Inc., 175 Crossing Blvd., Framingham, MA 01702                                   |     086047      |
@@ -99,6 +98,7 @@
 |                           Taro Pharmaceuticals U.S.A., Inc., 3 Skyline Dr., Hawthorne, NY 10532                            |     051672      |
 |                                   Therio, Inc., 8801 Anderson Ave., Manhattan, KS 66503                                    |     052923      |
 |                             Thorn Bioscience LLC, 1044 East Chestnut St., Louisville, KY 40204                             |     051330      |
+|                                    United-AH II LLC, 322 S Main St., Sheridan, IN 46069                                    |     051233      |
 |                              VetDC, Inc., 320 E. Vine Dr., suite 218, Fort Collins, CO 80524                               |     086072      |
 |                        Vétoquinol N.-A., Inc., 2000 chemin Georges, Lavaltrie (PQ), Canada, J5T 3S5                        |     059320      |
 |                             Vétoquinol USA, Inc., 4250 N. Sylvania Ave., Fort Worth, TX 76137                              |     017030      |
@@ -151,7 +151,7 @@
 |     051031      |                     Kinetic Technologies, LLC, 961 Beasley St., suite 270, Lexington, KY 40509.                      |
 |     051072      |                     Aurora Pharmaceutical, LLC, 1196 Highway 3 South, Northfield, MN 55057-3009.                     |
 |     051079      |                      Mylan Institutional, Inc., 12720 Dairy Ashford Rd., Sugar Land, TX 77478.                       |
-|     051233      |                        JBS United Animal Health II LLC, 322 S. Main St., Sheridan, IN 46069.                         |
+|     051233      |                                United-AH II LLC, 322 S Main St., Sheridan, IN 46069.                                 |
 |     051267      |                            Cooperative Research Farms, Box 69, Charlotteville, NY 12036.                             |
 |     051311      |                              Virbac AH, Inc., 3200 Meacham Blvd., Ft. Worth, TX 76137.                               |
 |     051330      |                         Thorn Bioscience LLC, 1044 East Chestnut St., Louisville, KY 40204.                          |

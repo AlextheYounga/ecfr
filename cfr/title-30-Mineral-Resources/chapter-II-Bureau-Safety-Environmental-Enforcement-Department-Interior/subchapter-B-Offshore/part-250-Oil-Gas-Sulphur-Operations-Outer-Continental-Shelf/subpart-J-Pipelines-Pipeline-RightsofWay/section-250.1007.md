@@ -1,5 +1,7 @@
 ##### § 250.1007 What to include in applications. #####
 
+Link to an amendment published at 83 FR 49263, Sept. 28, 2018.
+
 (a) Applications to install a lease term pipeline or for a pipeline right-of-way grant must be submitted in quadruplicate to the Regional Supervisor. Right-of-way grant applications must include an identification of the operator of the pipeline. Each application must include the following:
 
 (1) Plat(s) drawn to a scale specified by the Regional Supervisor showing major features and other pertinent data including area, lease, and block designations; water depths; route; length in Federal waters; width of right-of-way, if applicable; connecting facilities; size; product(s) to be transported with anticipated gravity or density; burial depth; direction of flow; X-Y coordinates of key points; and the location of other pipelines that will be connected to or crossed by the proposed pipeline(s). The initial and terminal points of the pipeline and any continuation into State jurisdiction shall be accurately located even if the pipeline is to have an onshore terminal point. A plat(s) submitted for a pipeline right-of-way shall bear a signed certificate upon its face by the engineer who made the map that certifies that the right-of-way is accurately represented upon the map and that the design characteristics of the associated pipeline are in accordance with applicable regulations.

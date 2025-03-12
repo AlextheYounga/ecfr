@@ -2,7 +2,7 @@
 
 (a) *Specifications.* Each tablet/bolus contains 25, 250, or 500 milligrams (mg) chlortetracycline hydrochloride.
 
-(b) *Sponsor.* See Nos. 016592 and 054628 in § 510.600(c) of this chapter.
+(b) *Sponsor.* See Nos. 016592 and 069043 in § 510.600(c) of this chapter.
 
 (c) *Related tolerances.* See § 556.150 of this chapter.
 
@@ -24,4 +24,4 @@
 
 (ii) *Limitations.* Administer directly by mouth or crush and dissolve in water for drenching; if no improvement is noted after 3 days of treatment, consult a veterinarian; do not use for more than 5 days; do not administer within 24 hours of slaughter.
 
-[57 FR 37325, Aug. 18, 1992, as amended at 67 FR 78355, Dec. 24, 2002. Redesignated and amended at 76 FR 49649, Aug. 11, 2011; 78 FR 21059, Apr. 9, 2013; 81 FR 17607, Mar. 30, 2016]
+[57 FR 37325, Aug. 18, 1992, as amended at 67 FR 78355, Dec. 24, 2002. Redesignated and amended at 76 FR 49649, Aug. 11, 2011; 78 FR 21059, Apr. 9, 2013; 81 FR 17607, Mar. 30, 2016; 83 FR 48944, Sept. 28, 2018]

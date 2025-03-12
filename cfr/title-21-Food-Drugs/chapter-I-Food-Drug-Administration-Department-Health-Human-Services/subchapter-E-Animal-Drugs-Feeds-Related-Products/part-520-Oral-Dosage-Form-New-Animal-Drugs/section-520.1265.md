@@ -10,7 +10,7 @@
 
 (1) No. 054771 for use of product described in paragraph (a)(1) of this section.
 
-(2) Nos. 057561, 061623, and 066104 for use of product described in paragraph (a)(2) of this section.
+(2) Nos. 016592, 061623, and 066104 for use of product described in paragraph (a)(2) of this section.
 
 (c) *Tolerances.* See §§ 556.360 and 556.600 of this chapter.
 
@@ -20,4 +20,4 @@
 
 (3) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[69 FR 13220, Mar. 22, 2004, as amended at 70 FR 40881, July 15, 2005; 71 FR 71038, Dec. 8, 2006; 77 FR 56770, Sept. 14, 2012; 78 FR 28823, May 20, 2014; 81 FR 94989, Dec. 27, 2016]
+[69 FR 13220, Mar. 22, 2004, as amended at 70 FR 40881, July 15, 2005; 71 FR 71038, Dec. 8, 2006; 77 FR 56770, Sept. 14, 2012; 78 FR 28823, May 20, 2014; 81 FR 94989, Dec. 27, 2016; 83 FR 48945, Sept. 28, 2018]

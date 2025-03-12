@@ -2,7 +2,7 @@
 
 (a) Except as provided in subpart G of this part, each motor carrier shall make the following investigations and inquiries with respect to each driver it employs, other than a person who has been a regularly employed driver of the motor carrier for a continuous period which began before January 1, 1971:
 
-(1) An inquiry to each State where the driver held or holds a motor vehicle operator's license or permit during the preceding 3 years to obtain that driver's motor vehicle record.
+(1) An inquiry, within 30 days of the date the driver's employment begins, to each State where the driver held or holds a motor vehicle operator's license or permit during the preceding 3 years to obtain that driver's motor vehicle record.
 
 (2) An investigation of the driver's safety performance history with Department of Transportation regulated employers during the preceding three years.
 
@@ -134,4 +134,4 @@
 
 (4) In the event of a conflict between the medical certification information provided electronically by FMCSA and a paper copy of the medical examiner's certificate, the medical certification information provided electronically by FMCSA shall control.
 
-(Approved by the Office of Management and Budget under control number 2126-0004)[35 FR 6460, Apr. 22, 1970, as amended at 35 FR 17420, Nov. 13, 1970; 69 FR 16720, Mar. 30, 2004; 72 FR 55703, Oct. 1, 2007; 73 FR 73126, Dec. 1, 2008; 75 FR 28502, May 21, 2010; 76 FR 70663, Nov. 15, 2011; 77 FR 24130, Apr. 20, 2012; 79 FR 2379, Jan. 14, 2014; 80 FR 22812, Apr. 23, 2015; 80 FR 35578, June 22, 2015; 80 FR 59074, Oct. 1, 2015; 81 FR 87730, Dec. 5, 2016; 83 FR 28782, June 21, 2018]
+(Approved by the Office of Management and Budget under control number 2126-0004)[35 FR 6460, Apr. 22, 1970, as amended at 35 FR 17420, Nov. 13, 1970; 69 FR 16720, Mar. 30, 2004; 72 FR 55703, Oct. 1, 2007; 73 FR 73126, Dec. 1, 2008; 75 FR 28502, May 21, 2010; 76 FR 70663, Nov. 15, 2011; 77 FR 24130, Apr. 20, 2012; 79 FR 2379, Jan. 14, 2014; 80 FR 22812, Apr. 23, 2015; 80 FR 35578, June 22, 2015; 80 FR 59074, Oct. 1, 2015; 81 FR 87730, Dec. 5, 2016; 83 FR 28782, June 21, 2018; 83 FR 48726, Sept. 27, 2018]

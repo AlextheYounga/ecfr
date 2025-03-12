@@ -1,5 +1,7 @@
 ##### § 524.900 Famphur. #####
 
+Link to an amendment published at 83 FR 48946, Sept. 28, 2018.
+
 (a) *Specifications.* The drug is in liquid form containing 13.2 percent famphur.
 
 (b) *Sponsor.* See Nos. 000061 and 051311 in § 510.600(c) of this chapter.

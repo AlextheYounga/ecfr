@@ -1,5 +1,7 @@
 ##### § 520.580 Dichlorophene and toluene. #####
 
+Link to an amendment published at 83 FR 48944, Sept. 28, 2018.
+
 (a) *Specifications.* Each capsule contains 50 milligrams (mg) of dichlorophene and 60 mg of toluene, or multiples thereof.
 
 (b) *Sponsors.* See sponsors in § 510.600(c) of this chapter for use as in paragraph (c) of this section:

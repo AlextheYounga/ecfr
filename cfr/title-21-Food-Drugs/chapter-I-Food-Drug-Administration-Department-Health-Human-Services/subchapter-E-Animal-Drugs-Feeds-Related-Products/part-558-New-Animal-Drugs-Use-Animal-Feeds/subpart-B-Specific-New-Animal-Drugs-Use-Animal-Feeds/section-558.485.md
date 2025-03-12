@@ -1,5 +1,7 @@
 ##### § 558.485 Pyrantel. #####
 
+Link to an amendment published at 83 FR 48948, Sept. 28, 2018.
+
 (a) *Specifications.* Type A medicated articles containing 9.6, 19.2, 48, or 80 grams per pound pyrantel tartrate.
 
 (b) *Approvals.* See sponsors in § 510.600(c) of this chapter for uses as in paragraph (e) of this section:

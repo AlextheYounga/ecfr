@@ -2,7 +2,7 @@
 
 Certifications and copies of public records and documents on file with the Federal Motor Carrier Safety Administration (FMCSA) will be furnished on the following basis, pursuant to USDOT Freedom of Information Act regulations at 49 CFR part 7:
 
-(a) Certificate of the Director, Office of Management and Information Services, as to the authenticity of documents, $12;
+(a) Certificate of the Director, Office of Management Information and Services, as to the authenticity of documents, $12;
 
 (b) Service involved in locating records to be certified and determining their authenticity, including clerical and administrative work, at the rate of $21 per hour;
 
@@ -12,7 +12,7 @@ Certifications and copies of public records and documents on file with the Feder
 
 (1) A fee of $50 per hour for professional staff time will be charged when it is required to fulfill a request for electronic data.
 
-(2) The fee for computer searches will be set at the current rate for computer service. Information on those charges can be obtained from the Office of Information Technology (MC-RI).
+(2) The fee for computer searches will be set at the current rate for computer service. Information on those charges can be obtained from the Office of Management Information and Services (MC-MM).
 
 (3) Printing will be charged at the rate of $.10 per page of computer-generated output with a minimum charge of $1. There will also be a charge for the media provided (*e.g.,* CD ROMs) based on the Agency's costs for such media.
 
@@ -22,4 +22,4 @@ Certifications and copies of public records and documents on file with the Feder
 
 (2) Any representative of a motor carrier, motor private carrier, broker, or freight forwarder (as each is defined in 49 U.S.C. 13102) for the access to or retrieval of the information related to such entity from the Unified Carrier Registration System for the individual use of such entity.
 
-Effective Date Note:At 82 FR 5297, Jan. 17, 2017, § 360.1 was suspended, effective Jan. 14, 2017.
+[80 FR 63702, Oct. 21, 2015, as amended at 83 FR 48725, Sept. 27, 2018]Effective Date Note:At 82 FR 5297, Jan. 17, 2017, § 360.1 was suspended, effective Jan. 14, 2017.

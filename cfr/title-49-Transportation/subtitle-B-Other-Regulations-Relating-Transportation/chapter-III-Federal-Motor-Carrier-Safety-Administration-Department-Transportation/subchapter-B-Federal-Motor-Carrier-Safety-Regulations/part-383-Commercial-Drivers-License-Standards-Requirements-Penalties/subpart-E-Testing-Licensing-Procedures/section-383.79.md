@@ -1,5 +1,7 @@
 ##### § 383.79 Skills testing of out-of-State students; Knowledge and skills testing of military personnel. #####
 
+Link to an amendment published at 83 FR 48976, Sept. 28, 2018.
+
 (a) *CDL applicants trained out-of-State* - (1) *State that administers the skills test.* A State may administer its skills test, in accordance with subparts F, G, and H of this part, to a person who has taken training in that State and is to be licensed in another United States jurisdiction (*i.e.,* his or her State of domicile). Such test results must be transmitted electronically directly from the testing State to the licensing State in an efficient and secure manner.
 
 (2) *The State of domicile.* The State of domicile of a CDL applicant must accept the results of a skills test administered to the applicant by any other State, in accordance with subparts F, G, and H of this part, in fulfillment of the applicant's testing requirements under § 383.71, and the State's test administration requirements under § 383.73.

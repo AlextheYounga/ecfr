@@ -18,7 +18,7 @@ As used in this part, the following words and terms are construed to mean:
 
 *ELD record* means a record of duty status, recorded on an ELD, that reflects the data elements that an ELD must capture.
 
-*Farm supplies for agricultural purposes* means products directly related to the growing or harvesting of agricultural commodities during the planting and harvesting seasons within each State, as determined by the State, and livestock feed *at any time of the year.*
+*Farm supplies for agricultural purposes* means products directly related to the growing or harvesting of agricultural commodities during the planting and harvesting seasons within each State, as determined by the State, and livestock feed at any time of the year.
 
 *Ground water well drilling rig* means any vehicle, machine, tractor, trailer, semi-trailer, or specialized mobile equipment propelled or drawn by mechanical power and used on highways to transport water well field operating equipment, including water well drilling and pump service rigs equipped to access ground water.
 
@@ -64,8 +64,7 @@ As used in this part, the following words and terms are construed to mean:
 
 *Supporting document* means a document, in any medium, generated or received by a motor carrier in the normal course of business as described in § 395.11 that can be used, as produced or with additional identifying information, by the motor carrier and enforcement officials to verify the accuracy of a driver's record of duty status.
 
-*Transportation of construction material and equipment* means the transportation of construction and pavement materials, construction equipment, and construction maintenance vehicles, by a driver to or from an active construction site (a construction site between mobilization of equipment and materials to the site to the final completion of the construction project) within a 75 air mile radius of the normal work reporting location of the driver, except that a State, upon notice to the Administrator, may establish a different air mile radius limitation for purposes of this definition if such limitation is between 50 and 75 air miles and applies only to
-movements that take place entirely within the State. This paragraph does not apply to the transportation of material found by the Secretary to be hazardous under 49 U.S.C. 5103 in a quantity requiring placarding under regulations issued to carry out such section.
+*Transportation of construction material and equipment* means the transportation of construction and pavement materials, construction equipment, and construction maintenance vehicles, by a driver to or from an active construction site (a construction site between mobilization of equipment and materials to the site to the final completion of the construction project) within a 75 air mile radius of the normal work reporting location of the driver, except that a State, upon notice to the Administrator, may establish a different air mile radius limitation for purposes of this definition if such limitation is between 50 and 75 air miles and applies only to movements that take place entirely within the State. This paragraph does not apply to the transportation of material found by the Secretary to be hazardous under 49 U.S.C. 5103 in a quantity requiring placarding under regulations issued to carry out such section.
 
 *Twenty-four-hour period* means any 24-consecutive-hour period beginning at the time designated by the motor carrier for the terminal from which the driver is normally dispatched.
 
@@ -77,4 +76,4 @@ movements that take place entirely within the State. This paragraph does not app
 
 (3) Except for any occasional emergency use, operated primarily within the service area of a utility's subscribers or consumers, without regard to whether the vehicle is owned, leased, or rented by the utility.
 
-[57 FR 33648, July 30, 1992, as amended at 59 FR 7515, Feb. 15, 1994; 59 FR 60324, Nov. 23, 1994; 60 FR 38748, July 28, 1995; 61 FR 14679, Apr. 3, 1996; 63 FR 33279, June 18, 1998; 72 FR 36790, July 5, 2007; 75 FR 17245, Apr. 5, 2010; 76 FR 25590, May 5, 2011; 76 FR 81187, Dec. 27, 2011; 77 FR 28451, May 14, 2012; 80 FR 78383, Dec. 16, 2015; 81 FR 47721, July 22, 2016]
+[57 FR 33648, July 30, 1992, as amended at 59 FR 7515, Feb. 15, 1994; 59 FR 60324, Nov. 23, 1994; 60 FR 38748, July 28, 1995; 61 FR 14679, Apr. 3, 1996; 63 FR 33279, June 18, 1998; 72 FR 36790, July 5, 2007; 75 FR 17245, Apr. 5, 2010; 76 FR 25590, May 5, 2011; 76 FR 81187, Dec. 27, 2011; 77 FR 28451, May 14, 2012; 80 FR 78383, Dec. 16, 2015; 81 FR 47721, July 22, 2016; 83 FR 48726, Sept. 27, 2018]

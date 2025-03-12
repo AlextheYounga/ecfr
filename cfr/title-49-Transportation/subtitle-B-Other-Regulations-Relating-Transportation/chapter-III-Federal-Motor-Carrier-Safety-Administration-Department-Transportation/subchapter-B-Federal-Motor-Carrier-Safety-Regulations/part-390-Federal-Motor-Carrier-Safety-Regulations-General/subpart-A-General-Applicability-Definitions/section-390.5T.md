@@ -197,11 +197,7 @@ either -
 
 *Lessor,* as used in subpart F of this part, means the motor carrier granting the use of a passenger-carrying commercial motor vehicle, with or without a driver, to another motor carrier. The term lessor includes a motor carrier granting the use of a passenger-carrying commercial motor vehicle to another motor carrier under an interchange or other agreement, with or without a driver, whether or not compensation for such use is specified. For a definition of lessor in the context of property-carrying vehicles, see § 376.2 of this subchapter.
 
-*Medical examiner* means the following:
-
-(1) For medical examinations conducted before May 21, 2014, a person who is licensed, certified, and/or registered, in accordance with applicable State laws and regulations, to perform physical examinations. The term includes but is not limited to, doctors of medicine, doctors of osteopathy, physician assistants, advanced practice nurses, and doctors of chiropractic.
-
-(2) For medical examinations conducted on and after May 21, 2014, an individual certified by FMCSA and listed on the National Registry of Certified Medical Examiners in accordance with subpart D of this part.
+*Medical examiner* means an individual certified by FMCSA and listed on the National Registry of Certified Medical Examiners in accordance with subpart D of this part.
 
 *Medical variance* means a driver has received one of the following from FMCSA that allows the driver to be issued a medical certificate:
 
@@ -307,4 +303,4 @@ either -
 
 *Written or in writing* means printed, handwritten, or typewritten either on paper or other tangible medium, or by any method of electronic documentation that meets the requirements of 49 CFR 390.32.
 
-[82 FR 5311, Jan. 17, 2017, as amended at 83 FR 16226, Apr. 16, 2018; 83 FR 22878, May 17, 2018; 83 FR 24228, May 25, 2018; 83 FR 26860, June 11, 2018]
+[82 FR 5311, Jan. 17, 2017, as amended at 83 FR 16226, Apr. 16, 2018; 83 FR 22878, May 17, 2018; 83 FR 24228, May 25, 2018; 83 FR 26860, June 11, 2018; 83 FR 48726, Sept. 27, 2018]

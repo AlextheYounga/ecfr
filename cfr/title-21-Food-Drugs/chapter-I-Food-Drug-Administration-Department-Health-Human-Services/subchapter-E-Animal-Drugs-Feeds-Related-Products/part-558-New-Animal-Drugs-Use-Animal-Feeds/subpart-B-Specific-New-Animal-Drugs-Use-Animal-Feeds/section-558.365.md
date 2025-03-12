@@ -1,5 +1,7 @@
 ##### § 558.365 Nequinate. #####
 
+Link to an amendment published at 83 FR 48948, Sept. 28, 2018.
+
 (a) *Approvals.* Type A medicated articles: 4 percent to No. 051311 in § 510.600(c) of this chapter.
 
 (b) *Related tolerances.* See § 556.440 of this chapter.

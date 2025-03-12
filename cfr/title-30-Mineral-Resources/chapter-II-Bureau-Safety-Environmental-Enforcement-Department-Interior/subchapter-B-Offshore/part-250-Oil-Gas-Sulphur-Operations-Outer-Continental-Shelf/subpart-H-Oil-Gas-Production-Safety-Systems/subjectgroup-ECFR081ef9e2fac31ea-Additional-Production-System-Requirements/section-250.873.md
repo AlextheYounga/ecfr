@@ -1,5 +1,7 @@
 ##### § 250.873 Subsea gas lift requirements. #####
 
+Link to an amendment published at 83 FR 49260, Sept. 28, 2018.
+
 If you choose to install a subsea gas lift system, you must design your system as approved in your DWOP or as follows:
 
 (a) Design the gas lift supply pipeline in accordance with API RP 14C (incorporated by reference as specified in § 250.198) for the gas lift supply system located on the platform.

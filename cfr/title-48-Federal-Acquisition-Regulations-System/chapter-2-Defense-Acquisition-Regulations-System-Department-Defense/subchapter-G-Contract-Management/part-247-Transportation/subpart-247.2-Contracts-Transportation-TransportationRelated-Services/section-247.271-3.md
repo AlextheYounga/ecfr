@@ -32,8 +32,6 @@ When acquiring services for the preparation of personal property for movement or
 
 (m) The clause at 252.247-7019, Drayage.
 
-(n) The clause at 252.247-7020, Additional Services.
+(n) The clauses at FAR 52.247-8, Estimated Weight or Quantities Not Guaranteed, and FAR 52.247-13, Accessorial Services - Moving Contracts.
 
-(o) The clauses at FAR 52.247-8, Estimated Weight or Quantities Not Guaranteed, and FAR 52.247-13, Accessorial Services - Moving Contracts.
-
-[56 FR 36466, July 31, 1991, as amended at 65 FR 50145, Aug. 17, 2000. Redesignated and amended at 75 FR 51417, Aug. 20, 2010; 78 FR 38235, June 26, 2013; 79 FR 22037, Apr. 21, 2014; 83 FR 30588, June 29, 2018]
+[56 FR 36466, July 31, 1991, as amended at 65 FR 50145, Aug. 17, 2000. Redesignated and amended at 75 FR 51417, Aug. 20, 2010; 78 FR 38235, June 26, 2013; 79 FR 22037, Apr. 21, 2014; 83 FR 30588, June 29, 2018; 83 FR 49179, Sept. 28, 2018]

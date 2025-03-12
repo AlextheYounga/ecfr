@@ -1,5 +1,7 @@
 ##### § 383.77 Substitute for driving skills tests for drivers with military CMV experience. #####
 
+Link to an amendment published at 83 FR 48975, Sept. 28, 2018.
+
 At the discretion of a State, the driving skills test as specified in § 383.113 may be waived for a CMV driver with military CMV experience who is currently licensed at the time of his/her application for a CDL, and substituted with an applicant's driving record in combination with certain driving experience. The State shall impose conditions and limitations to restrict the applicants from whom a State may accept alternative requirements for the skills test described in § 383.113. Such conditions must require at least the following:
 
 (a) An applicant must certify that, during the two-year period immediately prior to applying for a CDL, he/she:

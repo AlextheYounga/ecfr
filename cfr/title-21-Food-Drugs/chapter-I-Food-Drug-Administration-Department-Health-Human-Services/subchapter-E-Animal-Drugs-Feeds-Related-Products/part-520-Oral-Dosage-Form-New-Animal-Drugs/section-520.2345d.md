@@ -10,7 +10,7 @@
 
 (3) Nos. 016592 and 054771: 25, 102.4, and 324 grams per pound as in paragraph (d) of this section.
 
-(4) Nos. 054925, 057561, 061623, and 076475: 324 grams per pound as in paragraph (d) of this section.
+(4) Nos. 016592, 054925, 061623, and 076475: 324 grams per pound as in paragraph (d) of this section.
 
 (5) No. 016592: 25 grams per pound as in paragraphs (d)(1) and (d)(2) of this section.
 
@@ -42,4 +42,4 @@
 
 (iii) *Limitations.* Administer for 7 to 14 days; do not slaughter for food within 4 days of treatment; not for use in turkeys producing eggs for human consumption; prepare a fresh solution daily; use as the sole source of tetracycline. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[59 FR 17693, Apr. 14, 1994, as amended at 59 FR 19133, Apr. 22, 1994; 62 FR 5319, Feb. 5, 1997; 62 FR 35076, June 30, 1997; 62 FR 46668, Sept. 4, 1997; 62 FR 55160, Oct. 23, 1997; 64 FR 37673, July 13, 1999; 67 FR 78355, Dec. 24, 2002; 70 FR 16934, Apr. 4, 2005; 70 FR 67353, Nov. 7, 2005; 71 FR 13542, Mar. 16, 2006; 75 FR 10166, Mar. 5, 2010; 75 FR 12981, Mar. 18, 2010; 76 FR 17338, Mar. 29, 2011; 77 FR 20988, Apr. 9, 2012; 78 FR 21060, Apr. 9, 2013; 79 FR 28831, May 20, 2014; 81 FR 17607, Mar. 30, 2016; 81 FR 22523, Apr. 18, 2016; 81 FR 94990, Dec. 27, 2016]
+[59 FR 17693, Apr. 14, 1994, as amended at 59 FR 19133, Apr. 22, 1994; 62 FR 5319, Feb. 5, 1997; 62 FR 35076, June 30, 1997; 62 FR 46668, Sept. 4, 1997; 62 FR 55160, Oct. 23, 1997; 64 FR 37673, July 13, 1999; 67 FR 78355, Dec. 24, 2002; 70 FR 16934, Apr. 4, 2005; 70 FR 67353, Nov. 7, 2005; 71 FR 13542, Mar. 16, 2006; 75 FR 10166, Mar. 5, 2010; 75 FR 12981, Mar. 18, 2010; 76 FR 17338, Mar. 29, 2011; 77 FR 20988, Apr. 9, 2012; 78 FR 21060, Apr. 9, 2013; 79 FR 28831, May 20, 2014; 81 FR 17607, Mar. 30, 2016; 81 FR 22523, Apr. 18, 2016; 81 FR 94990, Dec. 27, 2016; 83 FR 48946, Sept. 28, 2018]

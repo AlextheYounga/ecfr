@@ -14,6 +14,6 @@
 
 (ii) Each State or Indian tribe may also publish this information in its official register of State or tribal regulations.
 
-(c) A State or Tribally-designated route is effective only after it is published in the Federal Register in FMCSA's Hazardous Materials Route Registry.
+(c) A State or Tribally-designated route is effective only after it is published in the National Hazardous Materials Route Registry on FMCSA's website at *https://www.fmcsa.dot.gov/regulations/hazardous-materials/national-hazardous-materials-route-registry*.
 
-[79 FR 59457, Oct. 2, 2014, as amended at 81 FR 68358, Oct. 4, 2016; 83 FR 22881, May 17, 2018]
+[79 FR 59457, Oct. 2, 2014, as amended at 81 FR 68358, Oct. 4, 2016; 83 FR 22881, May 17, 2018; 83 FR 48726, Sept. 27, 2018]

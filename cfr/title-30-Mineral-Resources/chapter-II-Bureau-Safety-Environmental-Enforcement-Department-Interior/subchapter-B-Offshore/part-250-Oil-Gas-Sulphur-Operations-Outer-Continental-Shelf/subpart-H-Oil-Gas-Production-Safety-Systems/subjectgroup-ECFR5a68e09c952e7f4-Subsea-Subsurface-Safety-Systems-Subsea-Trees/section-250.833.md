@@ -1,5 +1,7 @@
 ##### § 250.833 Specification for underwater safety valves (USVs). #####
 
+Link to an amendment published at 83 FR 49257, Sept. 28, 2018.
+
 All USVs, including those designated as primary or secondary, and any alternate isolation valve (AIV) that acts as a USV, if applicable, and their actuators, must conform to the requirements specified in §§ 250.801 through 250.803. A production master or wing valve may qualify as a USV under API Spec. 6A and API Spec. 6AV1 (both incorporated by reference as specified in § 250.198).
 
 (a) Primary USV (USV1). You must install and designate one USV on a subsea tree as the USV1. The USV1 must be located upstream of the choke valve. As provided in paragraph (b) of this section, you must inform BSEE if the primary USV designation changes.

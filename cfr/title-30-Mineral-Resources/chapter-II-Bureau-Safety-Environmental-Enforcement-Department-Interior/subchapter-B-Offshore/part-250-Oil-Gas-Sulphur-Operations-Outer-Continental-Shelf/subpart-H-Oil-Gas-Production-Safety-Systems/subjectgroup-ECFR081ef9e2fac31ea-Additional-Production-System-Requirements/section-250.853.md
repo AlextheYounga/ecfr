@@ -1,5 +1,7 @@
 ##### § 250.853 Safety sensors. #####
 
+Link to an amendment published at 83 FR 49259, Sept. 28, 2018.
+
 You must ensure that:
 
 (a) All shutdown devices, valves, and pressure sensors function in a manual reset mode;

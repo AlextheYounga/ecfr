@@ -1,6 +1,6 @@
 ##### 252.216-7004 Award Fee Reduction or Denial for Jeopardizing the Health or Safety of Government Personnel. #####
 
-As prescribed in 216.406 use the following clause:
+As prescribed in 216.406(e) use the following clause:
 
 Award Fee Reduction or Denial for Jeopardizing the Health or Safety of Government Personnel (SEP 2011)
 
@@ -36,4 +36,4 @@ Award Fee Reduction or Denial for Jeopardizing the Health or Safety of Governmen
 
 (b) If, in the performance of this contract, the Contractor's or its subcontractor's actions cause serious bodily injury or death of civilian or military Government personnel, the Government may reduce or deny the award fee for the period in which the covered incident occurred, including the recovery of all or part of any award fees paid for any previous period during which the covered incident occurred.
 
-(End of clause)[ 76 FR 57677, Sept. 16, 2011]
+(End of clause)[ 76 FR 57677, Sept. 16, 2011, as amended at 83 FR 49181, Sept. 28, 2018]

@@ -4,7 +4,7 @@
 
 (b) *Sponsors.* See sponsors in § 510.600(c) of this chapter.
 
-(1) See Nos. 054628, 054925, 058005, 059051, and 061623 for use on dogs, cats, or horses.
+(1) See Nos. 054925, 058005, 059051, 061623, and 069043 for use on dogs, cats, or horses.
 
 (2) See No. 017135 for use on dogs and horses.
 

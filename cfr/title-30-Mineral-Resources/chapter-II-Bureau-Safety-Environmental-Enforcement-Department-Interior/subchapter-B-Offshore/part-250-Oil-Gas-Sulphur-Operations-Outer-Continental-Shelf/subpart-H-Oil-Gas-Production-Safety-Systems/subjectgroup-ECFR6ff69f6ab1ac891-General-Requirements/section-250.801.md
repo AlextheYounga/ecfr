@@ -1,5 +1,7 @@
 ##### § 250.801 Safety and pollution prevention equipment (SPPE) certification. #####
 
+Link to an amendment published at 83 FR 49256, Sept. 28, 2018.
+
 (a) *SPPE equipment.* In wells located on the OCS, you must install only safety and pollution prevention equipment (SPPE) considered certified under paragraph (b) of this section or accepted under paragraph (c) of this section. BSEE considers the following equipment to be types of SPPE:
 
 (1) Surface safety valves (SSV) and actuators, including those installed on injection wells capable of natural flow;

@@ -1,5 +1,7 @@
 ##### § 250.803 What SPPE failure reporting procedures must I follow? #####
 
+Link to an amendment published at 83 FR 49256, Sept. 28, 2018.
+
 (a) You must follow the failure reporting requirements contained in section 10.20.7.4 of API Spec. 6A for SSVs, BSDVs, and USVs and section 7.10 of API Spec. 14A and Annex F of API RP 14B for SSSVs (all incorporated by reference in § 250.198). You must provide a written notice of equipment failure to the Chief, Office of Offshore Regulatory Programs or to the Chief's designee and to the manufacturer of such equipment within 30 days after the discovery and identification of the failure. A failure is any condition that prevents the equipment from meeting the functional specification or purpose.
 
 (b) You must ensure that an investigation and a failure analysis are performed within 120 days of the failure to determine the cause of the failure. If the investigation and analyses are performed by an entity other than the manufacturer, you must ensure that manufacturer and the Chief, Office of Offshore Regulatory Programs or the Chief's designee receives a copy of the analysis report. You must also ensure that the results of the investigation and any corrective action are documented in the analysis report.

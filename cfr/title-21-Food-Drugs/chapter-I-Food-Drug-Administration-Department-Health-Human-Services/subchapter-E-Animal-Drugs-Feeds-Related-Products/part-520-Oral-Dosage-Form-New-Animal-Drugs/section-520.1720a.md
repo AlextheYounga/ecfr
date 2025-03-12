@@ -6,7 +6,7 @@
 
 (1) No. 000061 for use of 100- or 400-mg or 1-g tablets, or 2- or 4-g boluses, in dogs and horses.
 
-(2) Nos. 054628 and 069043 for use of 100- or 200-mg or 1-g tablets in dogs and horses.
+(2) No. 069043 for use of 100- or 200-mg or 1-g tablets in dogs and horses.
 
 (3) Nos. 054771 and 061623 for use of 100-mg or 1-g tablets in dogs and horses.
 
@@ -28,4 +28,4 @@
 
 (iii) *Limitations.* Do not use in horses intended for human consumption. Federal law prohibits the use of this drug in female dairy cattle 20 months of age or older. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[73 FR 8192, Feb. 13, 2008, as amended at 74 FR 1146, Jan. 12, 2009; 76 FR 11331, Mar. 2, 2011; 76 FR 17777, Mar. 31, 2011; 78 FR 21060, Apr. 9, 2013; 78 FR 28826, May 20, 2014; 81 FR 17607, Mar. 30, 2016]
+[73 FR 8192, Feb. 13, 2008, as amended at 74 FR 1146, Jan. 12, 2009; 76 FR 11331, Mar. 2, 2011; 76 FR 17777, Mar. 31, 2011; 78 FR 21060, Apr. 9, 2013; 78 FR 28826, May 20, 2014; 81 FR 17607, Mar. 30, 2016; 83 FR 48946, Sept. 28, 2018]

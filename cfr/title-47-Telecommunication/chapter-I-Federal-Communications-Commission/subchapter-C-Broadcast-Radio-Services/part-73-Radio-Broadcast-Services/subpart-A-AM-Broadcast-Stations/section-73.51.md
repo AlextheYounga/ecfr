@@ -50,14 +50,13 @@ Where:Antenna input power = Ep × Ip × *F*Ep = DC input voltage of final radio 
 
 (ii) The value determined by reference to the following table:
 
-|Factor(F)|Method of modulation|Maximum rated carrier power|Class of amplifier|
-|---------|--------------------|---------------------------|------------------|
-|  0.70   |       Plate        |       1 kW or less        |                  |
-|   .80   |       Plate        |      2.5 kW and over      |                  |
-|   .35   |     Low level      |     0.25 kW and over      |        B         |
-|   .65   |     Low level      |     0.25 kW and over      |  BC<sup>1</sup>  |
-|   .35   |        Grid        |     0.25 kW and over      |                  |
+|                                            Factor(F)                                             |Method of modulation|Maximum rated carrier power|Class of amplifier|
+|--------------------------------------------------------------------------------------------------|--------------------|---------------------------|------------------|
+|                                               0.70                                               |       Plate        |       1 kW or less        |                  |
+|                                               .80                                                |       Plate        |      2.5 kW and over      |                  |
+|                                               .35                                                |     Low level      |     0.25 kW and over      |        B         |
+|                                               .65                                                |     Low level      |     0.25 kW and over      |  BC<sup>1</sup>  |
+|                                               .35                                                |        Grid        |     0.25 kW and over      |                  |
+|<sup>1</sup> All linear amplifier operation where efficiency approaches that of class C operation.|                    |                           |                  |
 
-<sup>1</sup> All linear amplifier operation where efficiency approaches that of class C operation.
-
-(Secs. 4, 5, 303, 48 Stat., as amended, 1066, as amended, 1068, 1082, as amended; 47 U.S.C. 154, 155, 303. Interpret or apply secs. 301, 303, 307, 48 Stat. 1081, 1082, as amended, 47 U.S.C. 301, 303, 307)[37 FR 7516, Apr. 15, 1972, as amended at 42 FR 36827, July 18, 1977; 42 FR 61863, Dec. 7, 1977; 44 FR 36036, June 20, 1979; 47 FR 28387, June 30, 1982; 48 FR 38477, Aug. 24, 1983; 48 FR 44805, Sept. 30, 1983; 49 FR 3999, Feb. 1, 1984; 49 FR 4210, Feb. 3, 1984; 49 FR 49850, Dec. 24, 1984; 50 FR 24521, June 11, 1985; 52 FR 10570, Apr. 2, 1987]
+[37 FR 7516, Apr. 15, 1972, as amended at 42 FR 36827, July 18, 1977; 42 FR 61863, Dec. 7, 1977; 44 FR 36036, June 20, 1979; 47 FR 28387, June 30, 1982; 48 FR 38477, Aug. 24, 1983; 48 FR 44805, Sept. 30, 1983; 49 FR 3999, Feb. 1, 1984; 49 FR 4210, Feb. 3, 1984; 49 FR 49850, Dec. 24, 1984; 50 FR 24521, June 11, 1985; 52 FR 10570, Apr. 2, 1987; 83 FR 48963, Sept. 28, 2018]

@@ -1,5 +1,7 @@
 ##### § 522.1182 Iron injection. #####
 
+Link to an amendment published at 83 FR 48946, Sept. 28, 2018.
+
 (a) *Specifications.* See § 510.440 of this chapter. Each milliliter (mL) of solution contains the equivalent of:
 
 (1) 100 milligrams (mg) of elemental iron derived from:

@@ -1,10 +1,13 @@
 ##### § 520.2380a Thiabendazole top dressing and mineral protein block. #####
 
+Link to an amendment published at 83 FR 48946, Sept. 28, 2018.
+
 (a) *Specifications.* Conforms to N.F. XII.
 
 (b) *Sponsors.* See sponsors in § 510.600(c) of this chapter for use as in paragraph (d) of this section.
 
-(1) No. 051311 for use as in paragraph (d)(1)(i) of this section.
+(1)
+No. 051311 for use as in paragraph (d)(1)(i) of this section.
 
 (2) No. 050604 for use as in paragraph (d)(1)(ii) of this section.
 
@@ -14,7 +17,7 @@
 
 (d) *Conditions of use.* It is used as follows:
 
-(1) *Horses* - (i) *Route of administration.* In feed, as a top dressing.
+(1) *Horses* - (i)*Route of administration.* In feed, as a top dressing.
 
 (*a*) *Amount.* 2 grams per 100 pounds of body weight.
 

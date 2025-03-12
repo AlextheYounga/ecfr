@@ -1,5 +1,7 @@
 ##### § 250.880 Production safety system testing. #####
 
+Link to an amendment published at 83 FR 49262, Sept. 28, 2018.
+
 (a) *Notification.* You must:
 
 (1) Notify the District Manager at least 72 hours before commencing production, so that BSEE may conduct a preproduction inspection of the integrated safety system.

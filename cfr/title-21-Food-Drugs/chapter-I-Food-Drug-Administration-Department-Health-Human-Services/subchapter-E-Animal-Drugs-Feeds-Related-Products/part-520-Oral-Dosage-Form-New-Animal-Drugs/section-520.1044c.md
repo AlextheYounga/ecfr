@@ -10,7 +10,7 @@
 
 (1) No. 000061 for products described in paragraph (a)(1) of this section.
 
-(2) Nos. 057561 and 061623 for product described in paragraph (a)(2) of this section.
+(2) Nos. 016592 and 061623 for product described in paragraph (a)(2) of this section.
 
 (c) *Related tolerances.* See § 556.300 of this chapter.
 
@@ -24,4 +24,4 @@
 
 (3) *Limitations.* Withdrawal period: 10 days. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[77 FR 4226, Jan. 27, 2012, as amended at 81 FR 94989, Dec. 27, 2016]
+[77 FR 4226, Jan. 27, 2012, as amended at 81 FR 94989, Dec. 27, 2016; 83 FR 48945, Sept. 28, 2018]

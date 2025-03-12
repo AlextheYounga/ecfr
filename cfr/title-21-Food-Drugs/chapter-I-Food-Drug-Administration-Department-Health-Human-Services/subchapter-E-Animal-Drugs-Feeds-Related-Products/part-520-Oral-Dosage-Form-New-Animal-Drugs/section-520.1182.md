@@ -1,5 +1,7 @@
 ##### § 520.1182 Iron dextran suspension. #####
 
+Link to an amendment published at 83 FR 48945, Sept. 28, 2018.
+
 (a) *Specifications.* Each milliliter (mL) of suspension contains 55.56 milligrams (mg) iron as ferric hydroxide in complex with a low molecular weight dextran.
 
 (b) *Sponsor.* See No. 051311 in § 510.600(c) of this chapter.

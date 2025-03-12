@@ -1,5 +1,7 @@
 ##### § 250.821 Emergency action and safety system shutdown - dry trees. #####
 
+Link to an amendment published at 83 FR 49257, Sept. 28, 2018.
+
 (a) In the event of an emergency, such as an impending National Weather Service-named tropical storm or hurricane:
 
 (1) Any well not yet equipped with a subsurface safety device and that is capable of natural flow must have the subsurface safety device properly installed as soon as possible, with due consideration being given to personnel safety.

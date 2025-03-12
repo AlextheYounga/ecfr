@@ -2,9 +2,9 @@
 
 (a) *Specifications.* Each tablet contains 10, 50, 100, or 200 milligrams (mg) dithiazanine iodide.
 
-(b) *Sponsor.* See No. 054628 in § 510.600(c) of this chapter.
+(b) *Sponsor.* See No. 069043 in § 510.600(c) of this chapter.
 
-(c) *Conditions of use in dogs* - (1) *Indications for use and amount.* Administer orally immediately after feeding as follows:
+(c) *Conditions of use in dogs*—(1) *Indications for use and amount.* Administer orally immediately after feeding as follows:
 
 (i) For large roundworms (*Toxocara canis, Toxascaris leonina*): 10 mg per pound (/lb) of body weight for 3 to 5 days;
 
@@ -16,4 +16,4 @@
 
 (2) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[79 FR 28820, May 20, 2014]
+[79 FR 28820, May 20, 2014, as amended at 83 FR 48945, Sept. 28, 2018]

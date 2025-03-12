@@ -1,5 +1,7 @@
 ##### § 125.11 What definitions are important in the Service-Disabled Veteran-Owned (SDVO) Small Business Concern (SBC) Program? #####
 
+Link to an amendment published at 83 FR 48912, September 28, 2018.
+
 (a) *Contracting Officer* has the meaning given such term in section 27(f)(5) of the Office of Federal Procurement Policy Act (41 U.S.C. 423(f)(5)).
 
 (b) *Interested Party* means the contracting activity's contracting officer, SBA, any concern that submits an offer for a specific sole source or set-aside SDVO contract or order (including Multiple Award Contracts), or any concern that submitted an offer in full and open competition and its opportunity for award will be affected by a reserve of an award given to a SDVO SBC.

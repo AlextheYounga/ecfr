@@ -12,7 +12,7 @@ Words or phrases used in this part are defined in §§ 386.2 and 390.5 of this s
 
 *Commerce* means:
 
-(1) Any trade, traffic or transportation within the jurisdiction of the United States between a place in a State and a place outside of such State, including a place outside of the United States; and
+(1) Any trade, traffic or transportation within the jurisdiction of the United States between a place in a State and a place outside of such State, including a place outside of the United States; or
 
 (2) Trade, traffic, and transportation in the United States which affects any trade, traffic, and transportation described in paragraph (1) of this definition.
 
@@ -110,4 +110,4 @@ Words or phrases used in this part are defined in §§ 386.2 and 390.5 of this s
 
 *Violation rate for random alcohol testing* means the number of 0.04 and above random alcohol confirmation test results conducted under this part plus the number of refusals of random alcohol tests required by this part, divided by the total number of random alcohol screening tests (including refusals) conducted under this part.
 
-[66 FR 43103, Aug. 17, 2001, as amended at 68 FR 75458, Dec. 31, 2003; 77 FR 59825, Oct. 1, 2012; 81 FR 87724, Dec. 5, 2016]
+[66 FR 43103, Aug. 17, 2001, as amended at 68 FR 75458, Dec. 31, 2003; 77 FR 59825, Oct. 1, 2012; 81 FR 87724, Dec. 5, 2016; 83 FR 48726, Sept. 27, 2018]
