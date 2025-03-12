@@ -78,7 +78,7 @@
 
 (vi) Requirements and procedures for direction, control and the maintenance of communications with regard to the movement and coordination of PSCs and PSC personnel, including specifying interoperability requirements. These include coordinating with the COM, as necessary, private security operations outside secure bases and U.S. diplomatic properties to include movement control procedures for all contractors, including PSC personnel.
 
-(b) *Subordinate guidance and procedures.* A sub unified commander or JFC, in consultation with the Chief of Mission, will issue guidance and procedures implementing the standing combatant command publications specified in paragraph (a) of this section, consistent with the situation and operating environment.
+(b) *Subordinate guidance and procedures.* A sub unified commander or JFC, in consultation with the COM, will issue guidance and procedures implementing the standing CCDR publications specified in paragraph (a) of this section, consistent with the situation and operating environment.
 
 (c) *Consultation and coordination.* The COM and the CCDR with geographic AOR/sub unified commander or JFC shall make every effort to consult and coordinate responses to common threats and common concerns related to oversight of the conduct of U.S.G.-funded PSCs and their personnel.
 

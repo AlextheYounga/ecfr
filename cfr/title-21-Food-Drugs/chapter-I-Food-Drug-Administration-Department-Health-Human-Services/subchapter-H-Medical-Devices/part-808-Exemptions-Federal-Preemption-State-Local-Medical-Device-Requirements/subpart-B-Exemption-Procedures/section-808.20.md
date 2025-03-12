@@ -14,9 +14,9 @@
 
 (4) Identification of which (or both) of the following bases is relied upon for seeking an exemption from preemption:
 
-(i) The requirement is more stringent than a requirement applicable to a device under the act. If the State or political subdivision relies upon this basis for exemption from preemption, the application shall include information, data, or material showing how and why the requirement of the State or political subdivision is more stringent than requirements under the act.
+(i) The requirement is more stringent than a requirement applicable to a device under the Federal Food, Drug, and Cosmetic Act. If the State or political subdivision relies upon this basis for exemption from preemption, the application shall include information, data, or material showing how and why the requirement of the State or political subdivision is more stringent than requirements under the Federal Food, Drug, and Cosmetic Act.
 
-(ii) The requirement is required by compelling local conditions, and compliance with the requirement would not cause the device to be in violation of any applicable requirement under the act. If the State or political subdivision relies upon this basis for exemption from preemption, the application shall include information, data, or material showing why compliance with the requirement of the State or political subdivision would not cause a device to be in violation of any applicable requirement under the act and why the requirement is required by compelling local conditions. The application shall also explain in detail the compelling local conditions that justify the requirement.
+(ii) The requirement is required by compelling local conditions, and compliance with the requirement would not cause the device to be in violation of any applicable requirement under the Federal Food, Drug, and Cosmetic Act. If the State or political subdivision relies upon this basis for exemption from preemption, the application shall include information, data, or material showing why compliance with the requirement of the State or political subdivision would not cause a device to be in violation of any applicable requirement under the Federal Food, Drug, and Cosmetic Act and why the requirement is required by compelling local conditions. The application shall also explain in detail the compelling local conditions that justify the requirement.
 
 (5) The title of the chief administrative or legal officers of that State or local agency that has primary responsibility for administration of the requirement.
 
@@ -28,4 +28,4 @@
 
 (d) If litigation regarding applicability of the requirement is pending, the State or political subdivision may so indicate in its application and request expedited action on such application.
 
-[43 FR 18665, May 2, 1978; 43 FR 22010, May 23, 1978, as amended at 49 FR 3646, Jan. 30, 1984; 59 FR 14365, Mar. 28, 1994]
+[43 FR 18665, May 2, 1978; 43 FR 22010, May 23, 1978, as amended at 49 FR 3646, Jan. 30, 1984; 59 FR 14365, Mar. 28, 1994; 87 FR 50761, Aug. 17, 2022]

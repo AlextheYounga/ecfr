@@ -1,15 +1,9 @@
 ##### § 808.55 California. #####
 
-Link to an amendment published at 87 FR 50762, Aug. 17, 2022.
+The following California medical device requirements are preempted under section 521(a) of the Federal Food, Drug, and Cosmetic Act, and FDA has denied them exemption from preemption:
 
-(a) The following California medical device requirements are enforceable notwithstanding section 521 of the act because the Food and Drug Administration exempted them from preemption under section 521(b) of the act: Business and Professions Code sections 3365 and 3365.6.
+(a) *Medical devices; general provisions.* Sherman Food, Drug, and Cosmetic Law, Division 21 of the California Health and Safety Code, sections 26207, 26607, 26614, 26615, 26618, 26631, 26640, and 26441, to the extent that they apply to devices; and
 
-(b) The following California medical device requirements are preempted by section 521 of the act, and FDA has denied them an exemption from preemption:
+(b) *Ophthalmic devices; quality standards.* California Business and Professions Code, section 2541.3 to the extent that it requires adoption of the American National Standards Institute standards Z-80.1 and Z-80.2.
 
-(1) Sherman Food, Drug, and Cosmetic Law (Division 21 of the California Health and Safety Code), sections 26207, 26607, 26614, 26615, 26618, 26631, 26640, and 26641, to the extent that they apply to devices.
-
-(2) Sherman Food, Drug, and Cosmetic Law, section 26463(m) to the extent that it applies to hearing aids.
-
-(3) Business and Professions Code section 2541.3, to the extent that it requires adoption of American National Standards Institute standards Z-80.1 and Z-80.2.
-
-[45 FR 67324, Oct. 10, 1980]
+[87 FR 50762, Aug. 17, 2022]

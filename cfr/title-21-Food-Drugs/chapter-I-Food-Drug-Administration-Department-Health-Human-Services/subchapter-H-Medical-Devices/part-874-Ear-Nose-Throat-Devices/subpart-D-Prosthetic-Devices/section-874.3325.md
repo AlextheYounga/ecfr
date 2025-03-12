@@ -1,8 +1,6 @@
 ##### § 874.3325 Self-fitting air-conduction hearing aid. #####
 
-Link to an amendment published at 87 FR 50762, Aug. 17, 2022.
-
-(a) *Identification.* A self-fitting air-conduction hearing aid is a wearable sound amplifying device that is intended to compensate for impaired hearing and incorporates technology, including software, that allows users to program their hearing aids. This technology integrates user input with a self-fitting strategy and enables users to independently derive and customize their hearing aid fitting and settings.
+(a) *Identification.* A self-fitting air-conduction hearing aid is a wearable sound amplifying device that is intended to compensate for impaired hearing and incorporates technology, including software, that allows users to program their hearing aids. This technology integrates user input with a self-fitting strategy and enables users to independently derive and customize their hearing aid fitting and settings. A self-fitting air-conduction hearing aid is subject to the requirements in § 800.30 or § 801.422 of this chapter, as applicable.
 
 (b) *Classification.* Class II (special controls). The special controls for this device are:
 
@@ -16,26 +14,10 @@ Link to an amendment published at 87 FR 50762, Aug. 17, 2022.
 
 (5) If the device incorporates wireless technology:
 
-(i) Performance testing must validate safety of exposure to non-ionizing radiation;
+(i) Performance testing must validate safety of exposure to non-ionizing radiation; and
 
-(ii) Performance data must validate wireless technology functions; and
-
-(iii) Labeling must specify instructions, warnings, and information relating to wireless technology and human exposure to non-ionizing radiation.
+(ii) Performance data must validate wireless technology functions.
 
 (6) Usability testing must demonstrate that users can correctly use the device as intended under anticipated conditions of use.
 
-(7) Patient labeling must include the following:
-
-(i) Information on how a patient can self-identify as a candidate for the device;
-
-(ii) Information about when to seek professional help;
-
-(iii) A warning about using hearing protection in loud environments;
-
-(iv) A warning about staying alert to sounds around the user of the device;
-
-(v) Technical information about the device, including information about EMC; and
-
-(vi) Information on how to correctly use and maintain the device.
-
-[84 FR 57612, Oct. 28, 2019]
+[84 FR 57612, Oct. 28, 2019, as amended at 87 FR 50762, Aug. 17, 2022]

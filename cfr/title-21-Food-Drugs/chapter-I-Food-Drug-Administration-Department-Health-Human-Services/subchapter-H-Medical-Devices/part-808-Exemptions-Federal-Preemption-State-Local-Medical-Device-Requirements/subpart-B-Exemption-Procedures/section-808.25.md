@@ -16,10 +16,12 @@
 
 (2) The Commissioner may issue a regulation granting or conditionally granting an application for an exemption from preemption for any requirement if the Commissioner makes either of the following findings:
 
-(i) The requirement is more stringent than a requirement applicable to the device under the act;
+(i) The requirement is more stringent than a requirement applicable to the device under the Federal Food, Drug, and Cosmetic Act;
 
-(ii) The requirement is required by compelling local conditions, and compliance with the requirement would not cause the device to be in violation of any requirement applicable to the device under the act.
+(ii) The requirement is required by compelling local conditions, and compliance with the requirement would not cause the device to be in violation of any requirement applicable to the device under the Federal Food, Drug, and Cosmetic Act.
 
 (3) The Commissioner may not grant an application for an exemption from preemption for any requirement with respect to a device if the Commissioner determines that the granting of an exemption would not be in the best interest of public health, taking into account the potential burden on interstate commerce.
 
 (h) An advisory opinion pursuant to § 808.5 or a regulation pursuant to paragraph (g) of this section constitutes final agency action.
+
+[43 FR 18665, May 2, 1978, as amended at 87 FR 50761, Aug. 17, 2022]

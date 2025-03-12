@@ -1,11 +1,7 @@
-##### § 874.3300 Hearing Aid. #####
+##### § 874.3300 Air-conduction hearing aid. #####
 
-Link to an amendment published at 87 FR 50762, Aug. 17, 2022.
+(a) *Identification.* An air-conduction hearing aid is a wearable sound-amplifying device intended to compensate for impaired hearing that conducts sound to the ear through the air. An air-conduction hearing aid is subject to the requirements in § 800.30 or § 801.422 of this chapter, as applicable. The air-conduction hearing aid generic type excludes the group hearing aid or group auditory trainer, master hearing aid, and the tinnitus masker, regulated under §§ 874.3320, 874.3330, and 874.3400, respectively.
 
-(a) *Identification.* A hearing aid is wearable sound-amplifying device that is intended to compensate for impaired hearing. This generic type of device includes the air-conduction hearing aid and the bone-conduction hearing aid, but excludes the group hearing aid or group auditory trainer (§ 874.3320), master hearing aid (§ 874.3330), and tinnitus masker (§ 874.3400).
+(b) *Classification.* Class I (general controls). This device is exempt from premarket notification procedures in subpart E of part 807 of this chapter, subject to the limitations in § 874.9.
 
-(b) *Classification.* (1) Class I (general controls) for the air-conduction hearing aid. The air-conduction hearing aid is exempt from the premarket notification procedures in subpart E of part 807 of this chapter subject to § 874.9.
-
-(2) Class II for the bone-conduction hearing aid.
-
-[51 FR 40389, Nov. 6, 1986, as amended at 65 FR 2316, Jan. 14, 2000]
+[87 FR 50762, Aug. 17, 2022]
