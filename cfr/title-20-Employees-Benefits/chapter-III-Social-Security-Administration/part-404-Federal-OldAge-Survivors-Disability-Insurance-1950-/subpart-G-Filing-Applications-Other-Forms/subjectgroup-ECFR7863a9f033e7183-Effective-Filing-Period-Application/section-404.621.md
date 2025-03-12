@@ -16,7 +16,7 @@ Example:You will attain full retirement age in March 2003. If you apply for old-
 
 (b) *Filing for lump-sum death payment.* An application for a lump-sum death payment must be filed within 2 years after the death of the person on whose earnings record the claim is filed. There are two exceptions to the 2-year filing requirement:
 
-(1) If there is a good cause for failure to file within the 2-year period, we will consider your application as though it were filed within the 2-year period. Good cause does not exist if you were informed of the need to file an application within the 2-year period and you neglected to do so or did not desire to make a claim. Good cause will be found to exist if you did not file within the time limit due to -
+(1) If there is a good cause for failure to file within the 2-year period, we will consider your application as though it were filed within the 2-year period. Good cause does not exist if you were informed of the need to file an application within the 2-year period and you neglected to do so or did not desire to make a claim. Good cause will be found to exist if you did not file within the time limit due to—
 
 (i) Circumstances beyond your control, such as extended illness, mental or physical incapacity, or a language barrier;
 
@@ -28,10 +28,8 @@ Example:You will attain full retirement age in March 2003. If you apply for old-
 
 (2) The Soldiers' and Sailors' Civil Relief Act of 1940 provides for extending the filing time.
 
-(c) *Filing for special age 72 payments.* An application for special age 72 payments is not effective as a claim for benefits for any month before you actually file.
+(c) *Filing for a period of disability.* You must file an application for a period of disability while you are disabled or no later than 12 months after the month in which your period of disability ended. If you were unable to apply within the 12-month time period because of a physical or mental condition, you may apply not more than 36 months after your disability ended. The general rule we use to decide whether your failure to file was due to a physical or mental condition is stated in § 404.322.
 
-(d) *Filing for a period of disability.* You must file an application for a period of disability while you are disabled or no later than 12 months after the month in which your period of disability ended. If you were unable to apply within the 12-month time period because of a physical or mental condition, you may apply not more than 36 months after your disability ended. The general rule we use to decide whether your failure to file was due to a physical or mental condition is stated in § 404.322.
+(d) *Filing after death of person eligible for disability benefits or period of disability.* If you file for disability benefits or a period of disability for another person who died before filing an application and you would qualify under § 404.503(b) to receive any benefits due the deceased, you must file an application no later than the end of the third month following the month in which the disabled person died.
 
-(e) *Filing after death of person eligible for disability benefits or period of disability.* If you file for disability benefits or a period of disability for another person who died before filing an application and you would qualify under § 404.503(b) to receive any benefits due the deceased, you must file an application no later than the end of the third month following the month in which the disabled person died.
-
-[68 FR 4711, Jan. 30, 2003]
+[68 FR 4711, Jan. 30, 2003, as amended at 83 FR 21709, May 10, 2018]

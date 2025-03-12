@@ -10,8 +10,8 @@ This subpart describes how we determine the highest monthly benefit amount you o
 
 (d) *Family maximum.* Sections 404.403 through 404.406 explain that there is a maximum amount payable on each insured person's earnings record. If you are entitled to benefits as the insured's dependent or survivor, your benefits may be reduced to keep total benefits payable to the insured's family within these limits.
 
-(e) *Government pension offset.* If you are entitled to wife's, husband's, widow's, widower's, mother's or father's benefits and receive a Government pension for work that was not covered under social security, your monthly benefits may be reduced because of that pension. Special age 72 payments may also be reduced because of a Government pension. For more information about this, see § 404.408a which covers reductions for Government pensions and § 404.384(c) which covers special age 72 payments.
+(e) *Government pension offset.* If you are entitled to wife's, husband's, widow's, widower's, mother's, or father's benefits and receive a Government pension for work that was not covered under Social Security, your monthly benefits may be reduced because of that pension. For more information about this, see § 404.408a, which covers reductions for Government pensions.
 
 (f) *Rounding.* After all other deductions or reductions, we reduce any monthly benefit that is not a multiple of $1 to the next lower multiple of $1.
 
-[68 FR 4702, Jan. 30, 2003]
+[68 FR 4702, Jan. 30, 2003, as amended at 83 FR 21708, May 10, 2018]

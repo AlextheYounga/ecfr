@@ -12,7 +12,7 @@
 
 (c) *Miscellaneous.* (1) *Certify,* when used in connection with the duty imposed on the Commissioner by section 205(i) of the act, means that action taken by the Administration in the form of a written statement addressed to the Managing Trustee, setting forth the name and address of the person to whom payment of a benefit or lump sum, or any part thereof, is to be made, the amount to be paid, and the time at which payment should be made.
 
-(2) *Benefit* means an old-age insurance benefit, disability insurance benefit, wife's insurance benefit, husband's insurance benefit, child's insurance benefit, widow's insurance benefit, widower's insurance benefit, mother's insurance benefit, father's insurance benefit, parent's insurance benefit, or special payment at age 72 under title II of the Act. (Lump sums, which are death payments under title II of the Act, are excluded from the term *benefit* as defined in this part to permit greater clarity in the regulations.)
+(2) *Benefit* means an old-age insurance benefit, disability insurance benefit, wife's insurance benefit, husband's insurance benefit, child's insurance benefit, widow's insurance benefit, widower's insurance benefit, mother's insurance benefit, father's insurance benefit, or parent's insurance benefit under Title II of the Act. (Lump sums, which are death payments under title II of the Act, are excluded from the term benefit as defined in this part to permit greater clarity in the regulations.)
 
 (3) *Lump sum* means a lump-sum death payment under title II of the act or any person's share of such a payment.
 
@@ -50,4 +50,4 @@
 
 (8) The terms defined in sections 209, 210, and 211 of the act shall have the meanings therein assigned to them.
 
-[26 FR 7055, Aug. 5, 1961; 26 FR 7760, Aug. 19, 1961, as amended at 28 FR 1037, Feb. 2, 1963; 28 FR 14492, Dec. 31, 1963; 29 FR 15509, Nov. 19, 1964; 41 FR 32886, Aug. 6, 1976; 51 FR 11718, Apr. 7, 1986; 61 FR 41330, Aug. 8, 1996; 62 FR 38450, July 18, 1997; 69 FR 51555, Aug. 20, 2004; 79 FR 33684, June 12, 2014]
+[26 FR 7055, Aug. 5, 1961; 26 FR 7760, Aug. 19, 1961, as amended at 28 FR 1037, Feb. 2, 1963; 28 FR 14492, Dec. 31, 1963; 29 FR 15509, Nov. 19, 1964; 41 FR 32886, Aug. 6, 1976; 51 FR 11718, Apr. 7, 1986; 61 FR 41330, Aug. 8, 1996; 62 FR 38450, July 18, 1997; 69 FR 51555, Aug. 20, 2004; 79 FR 33684, June 12, 2014; 83 FR 21708, May 10, 2018]

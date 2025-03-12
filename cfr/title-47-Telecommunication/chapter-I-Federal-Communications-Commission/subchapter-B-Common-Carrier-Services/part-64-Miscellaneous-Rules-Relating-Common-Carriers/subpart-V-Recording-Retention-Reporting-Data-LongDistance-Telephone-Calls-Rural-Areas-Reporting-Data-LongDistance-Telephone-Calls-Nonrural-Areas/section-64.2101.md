@@ -1,5 +1,7 @@
 ##### § 64.2101 Definitions. #####
 
+Link to an amendment published at 83 FR 21737, May 10, 2018.
+
 For purposes of this subpart, the following definitions will apply:
 
 *Affiliate.* The term “affiliate” has the same meaning as in 47 U.S.C. 153(2).

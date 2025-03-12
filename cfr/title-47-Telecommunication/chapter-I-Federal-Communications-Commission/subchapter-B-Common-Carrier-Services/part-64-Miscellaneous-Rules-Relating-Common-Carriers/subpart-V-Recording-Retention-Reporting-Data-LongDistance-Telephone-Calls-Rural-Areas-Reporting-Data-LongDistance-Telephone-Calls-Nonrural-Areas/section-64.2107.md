@@ -1,5 +1,7 @@
 ##### § 64.2107 Reduced retention and reporting requirements for qualifying providers under the Safe Harbor. #####
 
+Link to an amendment published at 83 FR 21737, May 10, 2018.
+
 (a)(1) A covered provider may reduce its retention and reporting obligations under this subpart if it files one of the following certifications, signed by an officer or director of the covered provider regarding the accuracy and completeness of the information provided, in WC Docket No. 13-39 on any of the four quarterly filing dates established in § 64.2105 and annually thereafter.
 
 I \_\_\_ (name), \_\_\_ (title), an officer of \_\_\_ (entity), certify that\_\_\_ (entity) uses no intermediate providers;

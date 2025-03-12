@@ -1,5 +1,7 @@
 ##### § 64.2105 Reporting requirements. #####
 
+Link to an amendment published at 83 FR 21737, May 10, 2018.
+
 (a) Except as described in § 64.2107, each covered provider shall submit a certified report to the Commission in electronic form on the following quarterly schedule: February 1 (reflecting monthly data from October through December), May 1 (reflecting monthly data from January through March), August 1 (reflecting monthly data from April through June), and November 1 (reflecting monthly data from July through September). An officer or director of each covered provider must certify to the accuracy of each report.
 
 (b) The information contained in the certified report shall include the following information about subscriber lines for which the covered provider makes the initial long-distance call path choice, reported separately for each month in that quarter:

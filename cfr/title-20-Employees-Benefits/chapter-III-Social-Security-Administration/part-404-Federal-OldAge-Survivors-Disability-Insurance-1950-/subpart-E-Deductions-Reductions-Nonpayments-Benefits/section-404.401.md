@@ -1,6 +1,6 @@
 ##### § 404.401 Deduction, reduction, and nonpayment of monthly benefits or lump-sum death payments. #####
 
-Under certain conditions, the amount of a monthly insurance benefit (see §§ 404.380 through 404.384 of this part for provisions concerning special payments at age 72) or the lump-sum death payment as calculated under the pertinent provisions of sections 202 and 203 of the Act (including reduction for age under section 202(q) of a monthly benefit) must be increased or decreased to determine the amount to be actually paid to a beneficiary. Increases in the amount of a monthly benefit or lump-sum death payment are based upon recomputation and recalculations of the primary insurance amount (see subpart C of this part). A decrease in the amount of a monthly benefit or lump-sum death payment is required in the following instances:
+Under certain conditions, the amount of a monthly insurance benefit or the lump-sum death payment as calculated under the pertinent provisions of sections 202 and 203 of the Act (including reduction for age under section 202(q) of a monthly benefit) must be increased or decreased to determine the amount to be actually paid to a beneficiary. Increases in the amount of a monthly benefit or lump-sum death payment are based upon recomputation and recalculations of the primary insurance amount (see subpart C of this part). A decrease in the amount of a monthly benefit or lump-sum death payment is required in the following instances:
 
 (a) *Reductions.* A reduction of a person's monthly benefit is required where:
 
@@ -46,4 +46,4 @@ Under certain conditions, the amount of a monthly insurance benefit (see §§ 40
 
 (f) *Suspensions.* Suspension of monthly benefits may be required pursuant to section 203(h)(3) of the Act (the Social Security Administration has information indicating that work deductions may reasonably be expected for the year), or pursuant to section 225 of the Act (the Social Security Administration has information indicating a beneficiary is no longer disabled).
 
-[40 FR 30813, July 23, 1975, as amended at 48 FR 37016, Aug. 16, 1983; 56 FR 41789, Aug. 23, 1991; 65 FR 16813, Mar. 30, 2000; 66 FR 38906, July 26, 2001; 68 FR 40122, July 7, 2003; 69 FR 25955, May 10, 2004; 81 FR 19033, Apr. 4, 2016]
+[40 FR 30813, July 23, 1975, as amended at 48 FR 37016, Aug. 16, 1983; 56 FR 41789, Aug. 23, 1991; 65 FR 16813, Mar. 30, 2000; 66 FR 38906, July 26, 2001; 68 FR 40122, July 7, 2003; 69 FR 25955, May 10, 2004; 81 FR 19033, Apr. 4, 2016; 83 FR 21708, May 10, 2018]

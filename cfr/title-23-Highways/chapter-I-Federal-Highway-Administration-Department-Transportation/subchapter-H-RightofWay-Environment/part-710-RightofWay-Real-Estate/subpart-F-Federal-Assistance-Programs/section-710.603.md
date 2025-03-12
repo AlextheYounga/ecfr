@@ -1,5 +1,7 @@
 ##### § 710.603 Direct Federal acquisition. #####
 
+Link to an amendment published at 83 FR 21710, May 10, 2018.
+
 (a) The provisions of this paragraph may not be applied to any real property that is owned by the United States and is needed in connection with a project for the construction, reconstruction, or improvement of any section of the Interstate System or for a Defense Access Road project under 23 U.S.C. 210, if the SDOT is unable to acquire the required ROW or is unable to obtain possession with sufficient promptness. If the landowner tenders a right-of-entry or other right of possession document required by State law any time before FHWA makes a determination that the SDOT is unable to acquire the ROW with sufficient promptness, the SDOT is legally obligated to accept such tender and FHWA may not proceed with Federal acquisition. To enable FHWA to make the necessary findings and to proceed with the acquisition of the ROW, the SDOT's written application for Federal acquisition must include the following:
 
 (1) Justification for the Federal acquisition of the lands or interests in lands;

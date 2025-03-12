@@ -4,7 +4,7 @@
 
 (b) *How many QCs you need to be fully insured.* (1) You need at least 6 QCs but not more than 40 QCs to be fully insured. A person who died before 1951 with at least 6 QCs is fully insured.
 
-(2) You are fully insured for old-age insurance benefits if you have one QC (whenever acquired) for each calendar year elapsing after 1950 or, if later, after the year in which you became age 21, and before the year you reach retirement age, that is, before -
+(2) You are fully insured for old-age insurance benefits if you have one QC (whenever acquired) for each calendar year elapsing after 1950 or, if later, after the year in which you became age 21, and before the year you reach retirement age, that is, before—
 
 (i) The year you become age 62, if you are a woman;
 
@@ -22,13 +22,13 @@
 
 (c) *How a period of disability affects the number of QCs you need.* In determining the number of elapsed years under paragraph (b) of this section, we do not count as an elapsed year any year which is wholly or partly in a period of disability we established for you. For example, if we established a period of disability for you from December 5, 1975 through January 31, 1977, the three years, 1975, 1976 and 1977, would not be counted as elapsed years.
 
-(d) *How we credit QCs for fully insured status based on your total wages before 1951* - (1) *General.* For purposes of paragraph (b) of this section, we may use the following rules in crediting QCs based on your wages before 1951 instead of the rule in § 404.141(b)(1).
+(d) *How we credit QCs for fully insured status based on your total wages before 1951*—(1) *General.* For purposes of paragraph (b) of this section, we may use the following rules in crediting QCs based on your wages before 1951 instead of the rule in § 404.141(b)(1).
 
 (i) We may consider you to have one QC for each $400 of your total wages before 1951, as defined in paragraph (d)(2) of this section, if you have at least 7 elapsed years as determined under paragraph (b)(2) or (b)(3) of this section; and the number of QCs determined under this paragraph plus the number of QCs credited to you for periods after 1950 make you fully insured.
 
-(ii) If you file an application in June 1992 or later and you are not entitled to a benefit under § 404.380 or section 227 of the Act in the month the application is made, we may consider you to have at least one QC before 1951 if you have $400 or more total wages before 1951, as defined in paragraph (d)(2) of this section, provided that the number of QCs credited to you under this paragraph plus the number of QCs credited to you for periods after 1950 make you fully insured.
+(ii) If you file an application in June 1992 or later and you are not entitled to a benefit under section 227 of the Act in the month the application is made, we may consider you to have at least one QC before 1951 if you have $400 or more total wages before 1951, as defined in paragraph (d)(2) of this section, provided that the number of QCs credited to you under this paragraph plus the number of QCs credited to you for periods after 1950 make you fully insured.
 
-(2) *What are total wages before 1951.* For purposes of paragraph (d)(1) of this section, your total wages before 1951 include -
+(2) *What are total wages before 1951.* For purposes of paragraph (d)(1) of this section, your total wages before 1951 include—
 
 (i) Remuneration credited to you before 1951 on the records of the Secretary;
 
@@ -40,4 +40,4 @@
 
 (e) *When your fully insured status begins.* You are fully insured as of the first day of the calendar quarter in which you acquire the last needed QC (see § 404.145).
 
-[45 FR 25384, Apr. 15, 1980, as amended at 50 FR 36573, Sept. 9, 1985; 57 FR 23156, June 2, 1992]
+[45 FR 25384, Apr. 15, 1980, as amended at 50 FR 36573, Sept. 9, 1985; 57 FR 23156, June 2, 1992; 83 FR 21708, May 10, 2018]

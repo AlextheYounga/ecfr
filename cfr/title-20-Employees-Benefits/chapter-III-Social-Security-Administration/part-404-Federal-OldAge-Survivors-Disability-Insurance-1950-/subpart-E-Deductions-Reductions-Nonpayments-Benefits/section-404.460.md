@@ -1,6 +1,6 @@
 ##### § 404.460 Nonpayment of monthly benefits to aliens outside the United States. #####
 
-(a) *Nonpayment of monthly benefits to aliens outside the United States more than 6 months.* Except as described in paragraph (b) and subject to the limitations in paragraph (c) of this section after December 1956 no monthly benefit may be paid to any individual who is not a citizen or national of the United States, for any month after the sixth consecutive calendar month during all of which he is outside the United States, and before the first calendar month for all of which he is in the United States after such absence. (See § 404.380 regarding special payments at age 72.)
+(a) *Nonpayment of monthly benefits to aliens outside the United States more than 6 months.* Except as described in paragraph (b) and subject to the limitations in paragraph (c) of this section after December 1956 no monthly benefit may be paid to any individual who is not a citizen or national of the United States, for any month after the sixth consecutive calendar month during all of which he is outside the United States, and before the first calendar month for all of which he is in the United States after such absence.
 
 (1) For nonpayment of benefits under this section, it is necessary that the beneficiary be an alien, and while an alien, be outside the United States for more than six full consecutive calendar months. In determining whether, at the time of a beneficiary's initial entitlement to benefits, he or she has been outside the United States for a period exceeding six full consecutive calendar months, not more than the six calendar months immediately preceding the month of initial entitlement may be considered. For the purposes of this section, *outside the United States* means outside the territorial boundaries of the 50 States, the District of Columbia, Puerto Rico, the Virgin Islands of the United States, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
@@ -52,9 +52,9 @@ R's second 6-month period of absence begins March 1, 1968. Since this period beg
 
 (iv) Individuals who are citizens of the United States but not citizens of the foreign country and who qualify for such benefits are permitted to receive benefits without restriction or qualification, at their full rate, or the actuarial equivalent thereof, while outside of the foreign country and without regard to the duration of their absence therefrom.
 
-(c) *Nonpayment of monthly benefits to aliens residing in certain countries* - (1) *Benefits for months after June 1968.* Notwithstanding the provisions of paragraphs (a) and (b) of this section, we cannot pay monthly benefits for any month after June 1968 to anyone not a citizen or national of the United States for any month while residing in a country to which payments are being withheld by the Treasury Department pursuant to Vol. II, 31 U.S.C. 3329.
+(c) *Nonpayment of monthly benefits to aliens residing in certain countries*—(1) *Benefits for months after June 1968.* Notwithstanding the provisions of paragraphs (a) and (b) of this section, we cannot pay monthly benefits for any month after June 1968 to anyone not a citizen or national of the United States for any month while residing in a country to which payments are being withheld by the Treasury Department pursuant to Vol. II, 31 U.S.C. 3329.
 
-(2) *Benefits for months before July 1968.* If a person who is not a United States citizen or national is entitled to receive benefits under title II of the Social Security Act, and was residing in a country where the Treasury Department withheld benefits on June 30, 1968 pursuant to Vol. II, 31 U.S.C. 3329, benefits cannot be paid. However, if the Treasury Department subsequently removes that restriction, a person who is not a United States citizen or national may be able to be paid benefits to which they were entitled for months prior to July 1968. Benefits cannot be paid, -
+(2) *Benefits for months before July 1968.* If a person who is not a United States citizen or national is entitled to receive benefits under title II of the Social Security Act, and was residing in a country where the Treasury Department withheld benefits on June 30, 1968 pursuant to Vol. II, 31 U.S.C. 3329, benefits cannot be paid. However, if the Treasury Department subsequently removes that restriction, a person who is not a United States citizen or national may be able to be paid benefits to which they were entitled for months prior to July 1968. Benefits cannot be paid,—
 
 (i) To any person other than such individual, or, if such individual dies before such benefits can be paid, to any person other than an individual who was entitled for the month in which the deceased individual died (with the application of section 202(j)(1) of the Social Security Act) to a monthly benefit under title II of such Act on the basis of the same wages and self-employment income as such deceased individual; or
 
@@ -64,13 +64,13 @@ R's second 6-month period of absence begins March 1, 1968. Since this period beg
 
 (d) *Nonpayment of monthly benefits to certain aliens entitled to benefits on a worker's earnings record.* An individual who after December 31, 1984 becomes eligible for benefits on the earnings record of a worker for the first time, is an alien, has been outside the United States for more than 6 consecutive months, and is qualified to receive a monthly benefit by reason of the provisions of paragraphs (b)(2), (b)(3), (b)(5), or (b)(7) of this section, must also meet a U.S. residence requirement described in this section to receive benefits:
 
-(1) An alien entitled to benefits as a child of a living or deceased worker -
+(1) An alien entitled to benefits as a child of a living or deceased worker—
 
 (i) Must have resided in the U.S. for 5 or more years as the child of the parent on whose earnings record entitlement is based; or
 
 (ii) The parent on whose earnings record the child is entitled and the other parent, if any, must each have either resided in the United States for 5 or more years or died while residing in the U.S.
 
-(2) An alien who meets the requirements for child's benefits based on paragraph (d)(1) of this section above, whose status as a child is based on an adoptive relationship with the living or deceased worker, must also -
+(2) An alien who meets the requirements for child's benefits based on paragraph (d)(1) of this section above, whose status as a child is based on an adoptive relationship with the living or deceased worker, must also—
 
 (i) Have been adopted within the United States by the worker on whose earnings record the child's entitlement is based; and
 
@@ -96,4 +96,4 @@ R's second 6-month period of absence begins March 1, 1968. Since this period beg
 
 (7) The provisions described in paragraph (d) of this section shall not apply if the beneficiary is a citizen or resident of a country with which the United States has a totalization agreement in force, except to the extent provided by that agreement.
 
-[32 FR 19159, Dec. 20, 1967, as amended at 34 FR 13366, Aug. 19, 1969; 52 FR 8249, Mar. 17, 1987; 52 FR 26145, July 13, 1987; 60 FR 17445, Apr. 6, 1995; 62 FR 38450, July 18, 1997; 69 FR 51555, Aug. 20, 2004; 74 FR 48856, Sept. 25, 2009]
+[32 FR 19159, Dec. 20, 1967, as amended at 34 FR 13366, Aug. 19, 1969; 52 FR 8249, Mar. 17, 1987; 52 FR 26145, July 13, 1987; 60 FR 17445, Apr. 6, 1995; 62 FR 38450, July 18, 1997; 69 FR 51555, Aug. 20, 2004; 74 FR 48856, Sept. 25, 2009; 83 FR 21709, May 10, 2018]

@@ -17,4 +17,3 @@
 (f) Any payment under this section either to indemnify an SSA employee or to settle a personal damage claim shall be contingent upon the availability of appropriated funds.
 
 [62 FR 39935, July 25, 1997]
-Jan. 19, 2018
