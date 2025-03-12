@@ -1,6 +1,6 @@
 ##### § 12.10 Service. #####
 
-(a) *General requirements* - (1) *When service is required; number of copies.* When one party serves another with documents under these rules, a copy must be served on all other parties as well as filed with the Proceedings Clerk. Similarly, when a person files a document with the Office of Proceedings, the person must serve a copy of the document on all other parties. This rule does not apply to a complaint filed pursuant to § 12.13 of these rules, which shall only be filed with the Commission.
+(a) *General requirements*—(1) *When service is required; number of copies.* When one party serves another with documents under these rules, a copy must be served on all other parties as well as filed with the Proceedings Clerk. Similarly, when a person files a document with the Office of Proceedings, the person must serve a copy of the document on all other parties. This rule does not apply to a complaint filed pursuant to § 12.13 of these rules, which shall only be filed with the Commission.
 
 (2) *How service is made.* Service shall be made by:
 
@@ -28,8 +28,8 @@
 
 (iv) Recites the manner of service.
 
-(b) *Service of orders and decisions.* A copy of all notices, rulings, opinions, and orders of the Proceedings Clerk, the Director of the Office of Proceedings, a Judgment Officer, an Administrative Law Judge, the General Counsel or any employee under the General Counsel's supervision as the General Counsel may designate, or the Commission shall be served by the Proceedings Clerk on each of the parties. The Commission, in its discretion and with due consideration for the convenience of the parties, may serve the aforementioned documents to the parties by electronic means.
+(b) *Service of orders and decisions.* A copy of all notices, rulings, opinions, and orders of the Proceedings Clerk, the Director of the Office of Proceedings, an Administrative Judge, an Administrative Law Judge, the General Counsel or any employee under the General Counsel's supervision as the General Counsel may designate, or the Commission shall be served by the Proceedings Clerk on each of the parties. The Commission, in its discretion and with due consideration for the convenience of the parties, may serve the aforementioned documents to the parties by electronic means.
 
-(c) *Designation of person to receive service.* The first page of the first document filed in a proceeding by a party or participant shall include the contact information of a person authorized to receive service on their behalf. Thereafter, service of documents shall be made upon the person authorized unless service on the party himself is ordered by a Judgment Officer, an Administrative Law Judge or the Commission, or unless no person authorized to receive service can be found, or unless the person authorized to receive service is changed by the party upon due notice to all other parties.
+(c) *Designation of person to receive service.* The first page of the first document filed in a proceeding by a party or participant shall include the contact information of a person authorized to receive service on their behalf. Thereafter, service of documents shall be made upon the person authorized unless service on the party is ordered by an Administrative Judge, an Administrative Law Judge or the Commission, or unless no person authorized to receive service can be found, or unless the person authorized to receive service is changed by the party upon due notice to all other parties.
 
-[78 FR 12936, Feb. 26, 2013]
+[78 FR 12936, Feb. 26, 2013, as amended at 86 FR 64352, Nov. 18, 2021]

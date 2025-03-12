@@ -4,7 +4,7 @@ Interlocutory review by the Commission of a ruling on a motion by an Administrat
 
 (a) *When interlocutory appeal may be taken.* An interlocutory appeal may be permitted, in the discretion of the Commission, under the following circumstances:
 
-(1) The appeal is from a ruling pursuant to § 12.102, § 12.202, or § 12.305 refusing to grant a motion to disqualify a Judgment Officer or Administrative Law Judge;
+(1) The appeal is from a ruling pursuant to § 12.102, § 12.202, or § 12.305 refusing to grant a motion to disqualify an Administrative Judge or Administrative Law Judge;
 
 (2) The appeal is from a ruling pursuant to § 12.9 suspending an attorney from participation in a reparation proceeding;
 
@@ -32,6 +32,8 @@ Within seven (7) days after service of the application for interlocutory review,
 
 (c) *Standard for review.* In the absence of extraordinary circumstances, the Commission will not review a ruling of an Administrative Law Judge prior to the Commission's consideration of the proceeding pursuant to subpart F of these rules. A Commission denial of an application for interlocutory review shall be without prejudice to the applying party's right to raise any argument made in the application as an issue in an appeal taken pursuant to subpart F of these rules.
 
-(d) *Proceedings not stayed.* The filing of an application for interlocutory review and a grant of review shall not stay proceedings before an Administrative Law Judge (or a Judgment Officer, if applicable) unless that official or the Commission shall so order. The Commission will not consider a motion for a stay unless the motion shall have first been made to the Administrative Law Judge (or, if applicable, the Judgment Officer) and denied.
+(d) *Proceedings not stayed.* The filing of an application for interlocutory review and a grant of review shall not stay proceedings before an Administrative Law Judge (or an Administrative Judge, if applicable) unless that official or the Commission shall so order. The Commission will not consider a motion for a stay unless the motion shall have first been made to the Administrative Law Judge (or, if applicable, the Administrative Judge) and denied.
 
-(e) *Interlocutory review by the Commission on its own motion.* Nothing in this rule should be construed as restricting the Commission from acting on its own motion to review on an interlocutory basis any ruling of an Administrative Law Judge, Proceedings Officer or a Judgment Officer in any proceeding commenced pursuant to § 12.26 of these rules.
+(e) *Interlocutory review by the Commission on its own motion.* Nothing in this section should be construed as restricting the Commission from acting on its own motion to review on an interlocutory basis any ruling of an Administrative Law Judge, Proceedings Officer or an Administrative Judge in any proceeding commenced pursuant to § 12.26.
+
+[49 FR 6621, Feb. 22, 1984, as amended at 86 FR 64359, Nov. 18, 2021]

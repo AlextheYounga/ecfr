@@ -1,6 +1,6 @@
-##### § 12.101 Functions and responsibilities of the Judgment Officer. #####
+##### § 12.101 Functions and responsibilities of the Administrative Judge. #####
 
-The Judgment Officer shall be responsible for the fair and orderly conduct of the proceeding and shall have the authority:
+The Administrative Judge shall be responsible for the fair and orderly conduct of the proceeding and shall have the authority:
 
 (a) To rule upon discovery-related motions, and to take such action pursuant to § 12.35 as is appropriate if a party fails to comply with a discovery order;
 
@@ -16,4 +16,4 @@ The Judgment Officer shall be responsible for the fair and orderly conduct of th
 
 (g) Issue such orders as are necessary and appropriate to effectuate the orderly conduct of the proceeding.
 
-[49 FR 6621, Feb. 22, 1984; 49 FR 15070, Apr. 17, 1984, as amended at 78 FR 12937, Feb. 26, 2013]
+[49 FR 6621, Feb. 22, 1984; 49 FR 15070, Apr. 17, 1984, as amended at 78 FR 12937, Feb. 26, 2013; 86 FR 64356, Nov. 18, 2021]

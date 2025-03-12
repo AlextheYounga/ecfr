@@ -1,14 +1,14 @@
-##### § 12.201 Functions and responsibilities of the Judgment Officer. #####
+##### § 12.201 Functions and responsibilities of the Administrative Judge. #####
 
-The Judgment Officer shall be responsible for the fair and orderly conduct of the proceeding and shall have the authority:
+The Administrative Judge shall be responsible for the fair and orderly conduct of the proceeding and shall have the authority—
 
-(a) In his discretion, to conduct pre-decision conferences in accordance with § 12.206 of these rules;
+(a) In the Administrative Judge's discretion, to conduct pre-decision conferences in accordance with § 12.206;
 
 (b) To rule upon all discovery-related motions, and to take such action pursuant to § 12.35 as is appropriate if a party fails to comply with a discovery order;
 
 (c) To issue orders for the production of documents and tangible things and orders for written testimony, as provided in § 12.34 of these rules;
 
-(d) To take such action as is appropriate under § 12.35 of these rules, if a party fails to comply with an order issued by the Judgment Officer pursuant to § 12.34;
+(d) To take such action as is appropriate under § 12.35, if a party fails to comply with an order issued by the Administrative Judge pursuant to § 12.34;
 
 (e) To rule on all motions permitted pursuant to § 12.205;
 
@@ -22,4 +22,4 @@ The Judgment Officer shall be responsible for the fair and orderly conduct of th
 
 (j) To issue such orders as are necessary and appropriate to effectuate the orderly conduct of the proceeding.
 
-[49 FR 6621, Feb. 22, 1984; 49 FR 15070, Apr. 17, 1984, as amended at 59 FR 9637, Mar. 1, 1994]
+[49 FR 6621, Feb. 22, 1984; 49 FR 15070, Apr. 17, 1984, as amended at 59 FR 9637, Mar. 1, 1994; 86 FR 64356, Nov. 18, 2021]

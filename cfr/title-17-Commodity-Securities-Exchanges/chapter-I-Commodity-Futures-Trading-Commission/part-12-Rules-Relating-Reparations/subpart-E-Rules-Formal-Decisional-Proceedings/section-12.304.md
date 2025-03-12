@@ -1,6 +1,6 @@
 ##### § 12.304 Functions and responsibilities of the Administrative Law Judge. #####
 
-Once he has been assigned the case, the Administrative Law Judge shall be responsible for the fair and orderly conduct of a formal decisional proceeding and shall have the authority:
+Once an Administrative Law Judge has been assigned the case, the Administrative Law Judge shall be responsible for the fair and orderly conduct of a formal decisional proceeding and shall have the authority:
 
 (a) To issue such orders as are described in § 12.34 of these rules;
 
@@ -10,7 +10,7 @@ Once he has been assigned the case, the Administrative Law Judge shall be respon
 
 (d) [Reserved]
 
-(e) In his discretion, to conduct pre-decision conferences, for the purposes prescribed in § 12.303, at any time after a proceeding has commenced pursuant to § 12.26(c);
+(e) In the Administrative Law Judge's discretion, to conduct pre-decision conferences, for the purposes prescribed in § 12.303, at any time after a proceeding has commenced pursuant to § 12.26(c);
 
 (f) To issue pre-hearing orders as required by § 12.312(a);
 
@@ -28,4 +28,4 @@ Once he has been assigned the case, the Administrative Law Judge shall be respon
 
 (m) To issue such orders, and take any other actions as are required to give effect to these rules.
 
-[49 FR 6621, Feb. 22, 1984; 49 FR 15070, Apr. 17, 1984; 49 FR 17750, Apr. 25, 1984, as amended at 57 FR 20637, May 14, 1992]
+[49 FR 6621, Feb. 22, 1984; 49 FR 15070, Apr. 17, 1984; 49 FR 17750, Apr. 25, 1984, as amended at 57 FR 20637, May 14, 1992; 86 FR 64358, Nov. 18, 2021]

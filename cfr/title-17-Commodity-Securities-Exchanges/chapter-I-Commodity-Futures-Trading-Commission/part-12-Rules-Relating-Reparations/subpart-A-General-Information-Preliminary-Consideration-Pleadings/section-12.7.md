@@ -16,7 +16,7 @@
 
 (2) Promptly give written notice of such communication and responses thereto to all parties to the proceedings to which the communication or responses relate.
 
-(c) *Sanctions.* (1) Upon receipt of an *ex parte* communication knowingly made or knowingly caused to be made by a party in violation of the prohibition contained in paragraph (a)(1) of this section, the Commission, Administrative Law Judge, or Judgment Officer may, to the extent consistent with the interests of justice and the policy of the Act, require the party to show cause why his claim or interest in the proceeding should not be dismissed, denied, disregarded, or otherwise adversely affected on account of such violation.
+(c) *Sanctions.* (1) Upon receipt of an *ex parte* communication knowingly made or knowingly caused to be made by a party in violation of the prohibition contained in paragraph (a)(1) of this section, the Commission, Administrative Law Judge, or an Administrative Judge may, to the extent consistent with the interests of justice and the policy of the Act, require the parties to show cause why their claims or interest in the proceeding should not be dismissed, denied, disregarded, or otherwise adversely affected on account of such violation.
 
 (2) Any attorney or accountant who knowingly makes or knowingly causes to be made, or who knowingly solicits or knowingly causes the solicitation of, an *ex parte* communication which violates the prohibitions contained in paragraph (a) of this section may be deemed to have engaged in unprofessional conduct of the type proscribed by 17 CFR 14.8(c).
 
@@ -30,4 +30,4 @@
 
 (2) The prohibitions of this section shall remain in effect until a final order has been entered in the proceeding which is no longer subject to review by the Commission or to appellate review by a court.
 
-[49 FR 6621, Feb. 22, 1984, as amended at 59 FR 9636, Mar. 1, 1994]
+[49 FR 6621, Feb. 22, 1984, as amended at 59 FR 9636, Mar. 1, 1994; 86 FR 64352, Nov. 18, 2021]

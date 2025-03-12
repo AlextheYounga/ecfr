@@ -28,7 +28,7 @@
 
 (ix) A filing fee in the amount prescribed by § 12.25 of these rules shall be submitted with the complaint at the time of its filing.
 
-(2) *Subscription and verification of the complaint.* Each complaint shall be signed personally by an individual complainant or by a duly authorized officer or agent of a complainant who is not a natural person. His signature shall be given under oath or affirmation under penalty of law attesting either that he knows the facts set forth in the complaint to be true, or that he believes the facts set forth to be true, in which event the information upon which he formed that belief shall be set forth with particularity.
+(2) *Subscription and verification of the complaint.* Each complaint shall be signed personally by an individual complainant or by a duly authorized officer or agent of a complainant who is not a natural person. Complainant's signature shall be given under oath or affirmation under penalty of law attesting either that complainant knows the facts set forth in the complaint to be true, or believes the facts set forth to be true, in which event the information upon which complainant formed that belief shall be set forth with particularity.
 
 (3) *Time and place of filing of complaint.* A complaint shall be filed by delivering a copy thereof, in proper form, to the Commission at its principal offices in Washington, DC, addressed to the Office of Proceedings, attention of the Proceedings Clerk. The complaint may be filed in person, during normal business hours, or by certified mail, or registered mail with return receipt requested. If filing is by mail, it shall be addressed to the Proceedings Clerk, Office of Proceedings, Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW., Washington, DC 20581. The complaint shall not be served on any person or party named therein. Upon the filing of the complaint and the appropriate filing fee, the Proceedings Clerk shall assign a docket number to the matter and shall maintain the official docket.
 
@@ -42,4 +42,4 @@
 
 (iii) When mailed from a foreign country, a nonresident's complaint shall be deemed filed on the date that it is received in proper form by the Commission's Proceedings Clerk, not on the date of mailing from the country of origin.
 
-[49 FR 6621, Feb. 22, 1984; 49 FR 15070, Apr. 17, 1984, as amended at 51 FR 35507, Oct. 6, 1986; 59 FR 9636, Mar. 1, 1994; 60 FR 49335, Sept. 25, 1995]
+[49 FR 6621, Feb. 22, 1984; 49 FR 15070, Apr. 17, 1984, as amended at 51 FR 35507, Oct. 6, 1986; 59 FR 9636, Mar. 1, 1994; 60 FR 49335, Sept. 25, 1995; 86 FR 64353, Nov. 18, 2021]

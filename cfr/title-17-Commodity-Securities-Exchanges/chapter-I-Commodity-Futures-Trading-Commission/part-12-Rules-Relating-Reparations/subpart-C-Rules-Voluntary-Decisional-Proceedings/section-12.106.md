@@ -1,6 +1,6 @@
 ##### § 12.106 Final decision and order. #####
 
-(a) *When a final decision is required.* After all submissions of proof have been received, the Judgment Officer shall make the final decision. Upon its issuance, the final decision shall forthwith be filed with the Proceedings Clerk, and immediately served on the parties. The Proceedings Clerk shall also serve a notice, to accompany the final decision, of the effect of a failure by a party ordered to pay a reparation award to file the documents required by § 12.407(c) of these rules.
+(a) *When a final decision is required.* After all submissions of proof have been received, the Administrative Judge shall make the final decision. Upon its issuance, the final decision shall forthwith be filed with the Proceedings Clerk, and immediately served on the parties. The Proceedings Clerk shall also serve a notice, to accompany the final decision, of the effect of a failure by a party ordered to pay a reparation award to file the documents required by § 12.407(c).
 
 (b) *Content of final decision.* The final decision shall contain:
 
@@ -18,4 +18,4 @@ A conclusion made pursuant to paragraph (b)(1) of this section shall not be deem
 
 (e) *Effective date of final decision.* A final decision and order shall become effective thirty (30) days after service, unless the Commission pursuant to § 12.403 takes review of the decision on its own motion on or before the thirtieth day. Any reparation award ordered in a final decision pursuant to this rule shall be satisfied in full within forty-five (45) days after service thereof, unless the Commission pursuant to § 12.403(b) stays the duty of satisfaction. Any party who fails timely to satisfy such an award is subject to the automatic suspension provisions of § 12.407(c).
 
-[49 FR 6621, Feb. 22, 1984, as amended at 59 FR 9637, Mar. 1, 1994; 73 FR 70275, Nov. 20, 2008]
+[49 FR 6621, Feb. 22, 1984, as amended at 59 FR 9637, Mar. 1, 1994; 73 FR 70275, Nov. 20, 2008; 86 FR 64356, Nov. 18, 2021]

@@ -1,10 +1,10 @@
 ##### § 12.210 Initial decision. #####
 
-(a) *In general.* Proposed findings of fact and conclusions of law briefs shall not be allowed. As soon as practicable after all submissions of proof have been received, the Judgment Officer shall make the initial decision, which he shall forthwith file with the Proceedings Clerk. Upon filing of an initial decision, the Proceedings Clerk shall immediately serve upon the parties a copy of the initial decision and a notification of the effect of a party's failure timely to appeal the initial decision to the Commission, as provided in paragraphs (d) and (e) of this section, as well as the effect of a failure by a party who has been ordered to pay a reparation award timely to file the documents required by § 12.407(c).
+(a) *In general.* Proposed findings of fact and conclusions of law briefs shall not be allowed. As soon as practicable after all submissions of proof have been received, the Administrative Judge shall make the initial decision, which will be filed forthwith with the Proceedings Clerk. Upon filing of an initial decision, the Proceedings Clerk shall immediately serve upon the parties a copy of the initial decision and a notification of the effect of a party's failure timely to appeal the initial decision to the Commission, as provided in paragraphs (d) and (e) of this section, as well as the effect of a failure by a party who has been ordered to pay a reparation award timely to file the documents required by § 12.407(c).
 
-(b) *Content of initial decision.* In the initial decision in a summary decisional proceeding, the Judgment Officer shall:
+(b) *Content of initial decision.* In the initial decision in a summary decisional proceeding, the Administrative Judge shall:
 
-(1) Include a brief statement of his findings as to the facts, with references to those portions of the record which support his findings;
+(1) Include a brief statement of the findings as to the facts, with reference to those portions of the record which support those findings;
 
 (2) Make a determination whether or not the respondent has violated any provision of the Commodity Exchange Act, or rule, regulation or order thereunder;
 
@@ -14,7 +14,7 @@
 
 (5) Include an order directing either the respondent or the complainant, depending upon whose liability is greater, to pay an amount based on the difference in the amounts determined pursuant to paragraph (b)(4) of this section, on or before a date fixed in the order.
 
-(c) *Costs; prejudgment interest.* The Judgment Officer may, in the initial decision, award costs (including the costs of instituting the proceeding, and if appropriate, reasonable attorneys' fees) and, if warranted as a matter of law under the circumstances of the particular case, prejudgment interest to the party in whose favor a judgment is entered.
+(c) *Costs; prejudgment interest.* The Administrative Judge may, in the initial decision, award costs (including the costs of instituting the proceeding, and if appropriate, reasonable attorneys' fees) and, if warranted as a matter of law under the circumstances of the particular case, prejudgment interest to the party in whose favor a judgment is entered.
 
 (d) *Effect of initial decision.* The initial decision shall become the final decision and order of the Commission thirty (30) days after service thereof, except:
 
@@ -24,4 +24,4 @@
 
 (e) *Effect of failure to file and perfect an appeal to the Commission.* Unless the Commission takes review on its own motion, the timely filing and perfection of an appeal to the Commission of the initial decision is mandatory as a prerequisite to appellate judicial review of a final decision and order entered pursuant to these rules.
 
-[49 FR 6621, Feb. 22, 1984, as amended at 59 FR 9638, Mar. 1, 1994]
+[49 FR 6621, Feb. 22, 1984, as amended at 59 FR 9638, Mar. 1, 1994; 86 FR 64358, Nov. 18, 2021]

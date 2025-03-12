@@ -1,6 +1,6 @@
 ##### § 12.35 Consequences of a party's failure to comply with a discovery order. #####
 
-If a party fails to comply with an order compelling discovery, or an order issued pursuant to § 12.34, the official assigned to render the decision in the case may, upon motion by a party or on his own motion, take such action in regard thereto as is just, including but not limited to the following:
+If a party fails to comply with an order compelling discovery, or an order issued pursuant to § 12.34, the official assigned to render the decision in the case may, upon motion by a party or on the official's own motion, take such action in regard thereto as is just, including but not limited to the following:
 
 (a) Infer that the documents or things not produced would have been adverse to the party;
 
@@ -13,3 +13,5 @@ If a party fails to comply with an order compelling discovery, or an order issue
 (e) Dismiss the entire proceeding with prejudice to matters alleged in the complaint, but without prejudice to counterclaims; and
 
 (f) Issue a default order and render a decision against the party, whose rights shall thereafter be determined by §§ 12.22 and 12.23 of these rules.
+
+[49 FR 6621, Feb. 22, 1984, as amended at 86 FR 64356, Nov. 18, 2021]
