@@ -70,4 +70,4 @@
 
 (2) The management and daily business operations of which are controlled by one or more veterans. All of the provisions of subpart B of this part apply for purposes of determining ownership and control.
 
-[83 FR 48912, Sept. 28, 2018, as amended at 86 FR 10733, Feb. 23, 2020]
+[83 FR 48912, Sept. 28, 2018, as amended at 86 FR 10733, Feb. 23, 2021]

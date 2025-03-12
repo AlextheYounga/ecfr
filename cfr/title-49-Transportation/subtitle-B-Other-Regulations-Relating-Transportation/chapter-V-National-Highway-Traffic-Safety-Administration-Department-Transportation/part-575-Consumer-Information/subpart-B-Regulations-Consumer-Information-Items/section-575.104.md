@@ -1,7 +1,5 @@
 ##### § 575.104 Uniform tire quality grading standards. #####
 
-Link to an amendment published at 87 FR 34811, June 8, 2022.
-
 (a) *Scope.* This section requires motor vehicle and tire manufacturers and tire brand name owners to provide information indicating the relative performance of passenger car tires in the areas of treadwear, traction, and temperature resistance.
 
 (b) *Purpose.* The purpose of this section is to aid the consumer in making an informed choice in the purchase of passenger car tires.
@@ -20,7 +18,7 @@ Link to an amendment published at 87 FR 34811, June 8, 2022.
 
 Tire design is the combination of general structural characteristics, materials, and tread pattern, but does include cosmetic, identifying or other minor variations among tires.
 
-(d) *Requirements* - (1) *Information.* (i) Each manufacturer of tires, or in the case of tires marketed under a brand name, each brand name owner, shall provide grading information for each tire of which he is the manufacturer or brand name owner in the manner set forth in paragraphs (d)(1)(i) (A) and (B) of this section. The grades for each tire shall be only those specified in paragraph (d)(2) of this section. Each tire shall be able to achieve the level of performance represented by each grade with which it is labeled. An individual tire need not, however, meet further requirements after having been subjected to the test for any one grade.
+(d) *Requirements*—(1) *Information.* (i) Each manufacturer of tires, or in the case of tires marketed under a brand name, each brand name owner, shall provide grading information for each tire of which he is the manufacturer or brand name owner in the manner set forth in paragraphs (d)(1)(i) (A) and (B) of this section. The grades for each tire shall be only those specified in paragraph (d)(2) of this section. Each tire shall be able to achieve the level of performance represented by each grade with which it is labeled. An individual tire need not, however, meet further requirements after having been subjected to the test for any one grade.
 
 (A) Except for a tire of a new tire line, manufactured within the first six months of production of the tire line, each tire shall be graded with the words, letters, symbols, and figures specified in paragraph (d)(2) of this section, permanently molded into or onto the tire sidewall between the tire's maximum section width and shoulder in accordance with one of the methods described in Figure 1. For purposes of this paragraph, new tire line shall mean a group of tires differing substantially in construction, materials, or design from those previously sold by the manufacturer or brand name owner of the tires. As used in this paragraph, the term “construction” refers to the internal structure of the tire (e.g., cord angles, number and placement of breakers), “materials” refers to the substances used in manufacture of the tire (e.g., belt fiber, rubber compound), and “design” refers to properties or conditions imposed by the tire mold (e.g., aspect ratio, tread pattern).
 
@@ -38,7 +36,7 @@ Treadwear 200 Traction AA Temperature A
 
 (iv) In the case of information required in accordance with § 575.6(a) to be furnished to the first purchaser of a new motor vehicle, each manufacturer of motor vehicles shall, as part of the required information, list all possible grades for traction and temperature resistance and restate verbatim the explanation for each performance area specified in Figure 2 to this section. The information need not be in the format of Figure 2 to this section, but it must contain a statement referring the reader to the tire sidewall for the specific tire grades for the tires with which the vehicle is equipped.
 
-(2) *Performance* - (i) *Treadwear.* Each tire shall be graded for treadwear performance with the word “TREADWEAR” followed by a number of two or three digits representing the tire's grade for treadwear, expressed as a percentage of the NHTSA nominal treadwear value, when tested in accordance with the conditions and procedures specified in paragraph (e) of this section. Treadwear grades shall be expressed in multiples of 20 (for example, 80, 120, 160).
+(2) *Performance*—(i) *Treadwear.* Each tire shall be graded for treadwear performance with the word “TREADWEAR” followed by a number of two or three digits representing the tire's grade for treadwear, expressed as a percentage of the NHTSA nominal treadwear value, when tested in accordance with the conditions and procedures specified in paragraph (e) of this section. Treadwear grades shall be expressed in multiples of 20 (for example, 80, 120, 160).
 
 (ii) *Traction.* Each tire shall be graded for traction performance with the word “TRACTION,” followed by the symbols AA, A, B, or C, when the tire is tested in accordance with the conditions and procedures specified in paragraph (f) of this section.
 
@@ -74,7 +72,7 @@ Treadwear 200 Traction AA Temperature A
 
 (C) The tire may be graded A only if it successfully completes the 575 rpm test stage specified in paragraph (g)(9) of this section.
 
-(e) *Treadwear grading conditions and procedures* - (1) *Conditions.* (i) Tire treadwear performance is evaluated on a specific roadway course approximately 400 miles in length, which is established by the NHTSA both for its own compliance testing and for that of regulated persons. The course is designed to produce treadwear rates that are generally representative of those encountered by tires in public use. The course and driving procedures are described in appendix A of this section.
+(e) *Treadwear grading conditions and procedures*—(1) *Conditions.* (i) Tire treadwear performance is evaluated on a specific roadway course approximately 400 miles in length, which is established by the NHTSA both for its own compliance testing and for that of regulated persons. The course is designed to produce treadwear rates that are generally representative of those encountered by tires in public use. The course and driving procedures are described in appendix A of this section.
 
 (ii) Treadwear grades are evaluated by first measuring the performance of a candidate tire on the government test course, and then correcting the projected mileages obtained to account for environmental variations on the basis of the performance of the course monitoring tires run in the same convoy.
 
@@ -150,7 +148,7 @@ The ASTM F2493 standard reference test tire is the course monitoring tire (CMT).
 
 Round off the percentage to the nearest lower 20-point increment.
 
-(f) *Traction grading conditions and procedures* - (1) *Conditions.* (i) Tire traction performance is evaluated on skid pads that are established, and whose severity is monitored, by the NHTSA both for its compliance testing and for that of regulated persons. The test pavements are asphalt and concrete surfaces constructed in accordance with the specifications for pads “C” and “A” in the “Manual for the Construction and Maintenance of Skid Surfaces,” National Technical Information Service No. DOT-HS-800-814. The surfaces have locked wheel traction coefficients when evaluated in accordance with paragraphs (f)(2)(i) through (f)(2)(vii) of this section of 0.50 ±0.10 for the asphalt and 0.35 ±0.10 for the concrete. The location of the skid pads is described in appendix B to this section.
+(f) *Traction grading conditions and procedures*—(1) *Conditions.* (i) Tire traction performance is evaluated on skid pads that are established, and whose severity is monitored, by the NHTSA both for its compliance testing and for that of regulated persons. The test pavements are asphalt and concrete surfaces constructed in accordance with the specifications for pads “C” and “A” in the “Manual for the Construction and Maintenance of Skid Surfaces,” National Technical Information Service No. DOT-HS-800-814. The surfaces have locked wheel traction coefficients when evaluated in accordance with paragraphs (f)(2)(i) through (f)(2)(vii) of this section of 0.50 ±0.10 for the asphalt and 0.35 ±0.10 for the concrete. The location of the skid pads is described in appendix B to this section.
 
 (ii) The standard tire is the tire specified in ASTM E 501 (incorporated by reference, *see* § 575.3).
 
@@ -214,10 +212,6 @@ Round off the percentage to the nearest lower 20-point increment.
 
 (9) Reapply the load and without interruption or readjustment of inflation pressure, rotate the test wheel at 375 rpm for 30 minutes, and then at successively higher rates in 25 rpm increments, each for 30 minutes, until the tire has run at 575 rpm for 30 minutes, or to failure, whichever occurs first.
 
-Table I - Test Inflation Pressures
-
-[Maximum permissible inflation pressure for the following test]
-
 |        Test type         |Tires other than CT tires|CT tires|   |   |   |   |   |   |   |   |   |   |   |
 |--------------------------|-------------------------|--------|---|---|---|---|---|---|---|---|---|---|---|
 |           psi            |           kPa           |  kPa   |   |   |   |   |   |   |   |   |   |   |   |
@@ -235,26 +229,22 @@ Table I - Test Inflation Pressures
 
 (5) Round the product determined in paragraph (h)(4) (the calculated load) to the nearest multiple of ten pounds or, if metric units are used, 5 kilograms. For example, 903 pounds would be rounded to 900 and 533 kilograms would be rounded to 535. This figure is the test load.
 
-Table 2
-
-|Maximum inflation pressure|Multiplier to be used for treadwear testing|Multiplier to be used for traction testing|
-|--------------------------|-------------------------------------------|------------------------------------------|
-|Tires other than CT tires |                                           |                                          |
-|          32 psi          |                   .851                    |                   .851                   |
-|          36 psi          |                   .870                    |                   .797                   |
-|          40 psi          |                   .883                    |                   .753                   |
-|         240 kPa          |                   .866                    |                   .866                   |
-|         280 kPa          |                   .887                    |                   .804                   |
-|         300 kPa          |                   .866                    |                   .866                   |
-|         340 kPa          |                   .887                    |                   .804                   |
-|         350 kPa          |                   .866                    |                   .866                   |
-|         CT tires         |                                           |                                          |
-|         290 kPa          |                   .866                    |                   .866                   |
-|         330 kPa          |                   .887                    |                   .804                   |
-|         305 kPa          |                   .866                    |                   .866                   |
-|         390 kPa          |                   .887                    |                   .804                   |
-
-Table 2A
+| Maximum inflation pressure  |Multiplier to be used for treadwear testing|Multiplier to be used for traction testing|
+|-----------------------------|-------------------------------------------|------------------------------------------|
+|**Tires other than CT tires**|                                           |                                          |
+|           32 psi            |                   .851                    |                   .851                   |
+|           36 psi            |                   .870                    |                   .797                   |
+|           40 psi            |                   .883                    |                   .753                   |
+|           240 kPa           |                   .866                    |                   .866                   |
+|           280 kPa           |                   .887                    |                   .804                   |
+|           300 kPa           |                   .866                    |                   .866                   |
+|           340 kPa           |                   .887                    |                   .804                   |
+|           350 kPa           |                   .866                    |                   .866                   |
+|        **CT tires**         |                                           |                                          |
+|           290 kPa           |                   .866                    |                   .866                   |
+|           330 kPa           |                   .887                    |                   .804                   |
+|           305 kPa           |                   .866                    |                   .866                   |
+|           390 kPa           |                   .887                    |                   .804                   |
 
 |Tire size designation|Temp resistance|Traction|Treadwear|   |   |    |    |
 |---------------------|---------------|--------|---------|---|---|----|----|
@@ -280,7 +270,7 @@ Table 2A
 
 (i)-(l) [Reserved]
 
-![](/graphics/ec01au91.196.gif)Figure 2 - [Part I] - DOT QUALITY GRADESTREADWEARTRACTION AA A B CTEMPERATURE A B C
+![](/graphics/ec01au91.196.gif)Figure 2—[Part I]—DOT QUALITY GRADESTREADWEARTRACTION AA A B CTEMPERATURE A B C
 
 (Part II) All Passenger Car Tires Must Conform to Federal Safety Requirements in Addition to These Grades
 
@@ -296,7 +286,7 @@ Temperature
 
 The temperature grades are A (the highest), B, and C, representing the tire's resistance to the generation of heat and its ability to dissipate heat when tested under controlled conditions on a specified indoor laboratory test wheel. Sustained high temperature can cause the material of the tire to degenerate and reduce tire life, and excessive temperature can lead to sudden tire failure. The grade C corresponds to a level of performance which all passenger car tires must meet under the Federal Motor Safety Standard No. 109. Grades B and A represent higher levels of performance on the laboratory test wheel than the minimum required by law. Warning: The temperature grade for this tire is established for a tire that is properly inflated and not overloaded. Excessive speed, underinflation, or excessive loading, either separately or in combination, can cause heat buildup and possible tire failure.
 
-Appendix A - Treadwear Test Course and Driving Procedures
+Appendix A—Treadwear Test Course and Driving Procedures
 
 *Introduction.* The test course consists of three loops of a total of 400 miles in the geographical vicinity of Goodfellow AFB, San Angelo, Tex.
 
@@ -340,7 +330,7 @@ Sign LegendHighway Intersection 1000 (or 2000) FeetSTOP AHEADJunction XXXDirecti
 
 3. Come to a complete stop at the STOP sign or behind any vehicle already stopped.
 
-![](/graphics/ec01au91.190.gif)![](/graphics/ec01au91.191.gif)Appendix B - Traction Skid Pads
+![](/graphics/ec01au91.190.gif)![](/graphics/ec01au91.191.gif)Appendix B—Traction Skid Pads
 
 Two skid pads have been laid on an unused runway and taxi strip on Goodfellow AFB. Their location is shown in Figure 4.
 
@@ -350,7 +340,7 @@ The concrete pad is 600 ft. × 48 ft. and is on the taxi strip. The approaches t
 
 A two lane asphalt road has been built to connect the runway and taxi strip. The road is parallel to the northeast-southwest runway at a distance of 100 ft. The curves have super-elevation to permit safe exit from the runway at operating speeds.
 
-![](/graphics/ec01au91.192.gif)Appendix C - Method of Least Squares
+![](/graphics/ec01au91.192.gif)Appendix C—Method of Least Squares
 
 The method of least squares is a method of calculation by which it is possible to obtain a reliable estimate of a true physical relationship from a set of data which involve random error. The method may be used to establish a regression line that minimizes the sum of the squares of the deviations of the measured data points from the line. The regression line is consequently described as the line of “best fit” to the data points. It is described in terms of its slope and its “y” intercept.
 
@@ -366,7 +356,7 @@ The absolute value of the slope of the regression line is an expression of the m
 
 The “*y*” intercept of the regression line (a) in mils is calculated by the following formula:
 
-![](/graphics/ec01au91.195.gif)Appendix D - User Fees
+![](/graphics/ec01au91.195.gif)Appendix D—User Fees
 
 1. *Use of Government Traction Skid Pads:* A fee of $125 will be assessed for each hour, or fraction thereof, that the traction skid pads at Goodfellow Air Force Base, San Angelo, Texas are used. This fee is based upon the market price of the use of the traction skid pads.
 
