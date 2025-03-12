@@ -1,7 +1,5 @@
 ##### § 195.3 What documents are incorporated by reference partly or wholly in this part? #####
 
-Link to an amendment published at 82 FR 7998, Jan. 23, 2017.
-
 (a) This part prescribes standards, or portions thereof, incorporated by reference into this part with the approval of the Director of the Federal Register in 5 U.S.C. 552(a) and 1 CFR part 51. The materials listed in this section have the full force of law. To enforce any edition other than that specified in this section, PHMSA must publish a notice of change in the Federal Register.
 
 (1) *Availability of standards incorporated by reference.* All of the materials incorporated by reference are available for inspection from several sources, including the following:
@@ -58,11 +56,13 @@ Link to an amendment published at 82 FR 7998, Jan. 23, 2017.
 
 (22) API Standard 2510, “Design and Construction of LPG Installations,” 8th edition, 2001, (API Std 2510), IBR approved for §§ 195.132(b), 195.205(b), 195.264 (b), (e); 195.307 (e), 195.428 (c); and 195.432 (c).
 
+(23) API Standard 1163, “In-Line Inspection Systems Qualification” Second edition, April 2013, (API Std 1163), IBR approved for § 195.591.
+
 (c) ASME International (ASME), Two Park Avenue, New York, NY 10016, 800-843-2763 (U.S/Canada), Web site: *http://www.asme.org/.*
 
 (1) ASME/ANSI B16.9-2007, “Factory-Made Wrought Buttwelding Fittings,” December 7, 2007, (ASME/ANSI B16.9), IBR approved for § 195.118(a).
 
-(2) ASME/ANSI B31G-1991 (Reaffirmed 2004), “Manual for Determining the Remaining Strength of Corroded Pipelines,” 2004, (ASME/ANSI B31G), IBR approved for §§ 195.452(h); and 195.587.
+(2) ASME/ANSI B31G-1991 (Reaffirmed 2004), “Manual for Determining the Remaining Strength of Corroded Pipelines,” 2004, (ASME/ANSI B31G), IBR approved for §§ 195.452(h); 195.587; and 195.588(c).
 
 (3) ASME/ANSI B31.4-2006, “Pipeline Transportation Systems for Liquid Hydrocarbons and Other Liquids” October 20, 2006, (ASME/ANSI B31.4), IBR approved for §§ 195.110(a); 195.452(h).
 
@@ -74,7 +74,13 @@ Link to an amendment published at 82 FR 7998, Jan. 23, 2017.
 
 (7) ASME Boiler & Pressure Vessel Code, Section IX: “Qualification Standard for Welding and Brazing Procedures, Welders, Brazers, and Welding and Brazing Operators,” 2007 edition, July 1, 2007, (ASME BPVC, Section IX), IBR approved for § 195.222(a).
 
-(d) American Society for Testing and Materials (ASTM), 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 119428, phone: 610-832-9585, Web site: *http://www.astm.org/.*
+(d) American Society for Nondestructive Testing, P.O. Box 28518, 1711 Arlingate Lane, Columbus, OH 43228. *https://asnt.org.*
+
+(1) ANSI/ASNT ILI-PQ-2005(2010), “In-line Inspection Personnel Qualification and Certification” reapproved October 11, 2010, (ANSI/ASNT ILI-PQ), IBR approved for § 195.591.
+
+(2) [Reserved]
+
+(e) American Society for Testing and Materials (ASTM), 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 119428, phone: 610-832-9585, Web site: *http://www.astm.org/.*
 
 (1) ASTM A53/A53M-10, “Standard Specification for Pipe, Steel, Black and Hot-Dipped, Zinc-Coated, Welded and Seamless,” approved October 1, 2010, (ASTM A53/A53M), IBR approved for § 195.106(e).
 
@@ -90,28 +96,32 @@ Link to an amendment published at 82 FR 7998, Jan. 23, 2017.
 
 (7) ASTM A691/A691M-09, “Standard Specification for Carbon and Alloy Steel Pipe, Electric-Fusion-Welded for High-Pressure Service at High Temperatures,” approved October 1, 2009, (ASTM A691), IBR approved for § 195.106(e).
 
-(e) Manufacturers Standardization Society of the Valve and Fittings Industry, Inc. (MSS), 127 Park St. NE., Vienna, VA 22180, phone: 703-281-6613, Web site: *http://www.mss-hq.org/*.
+(f) Manufacturers Standardization Society of the Valve and Fittings Industry, Inc. (MSS), 127 Park St. NE., Vienna, VA 22180, phone: 703-281-6613, Web site: *http://www.mss-hq.org/*.
 
 (1) MSS SP-75-2008 Standard Practice, “Specification for High-Test, Wrought, Butt-Welding Fittings,” 2008 edition, (MSS SP 75), IBR approved for § 195.118(a).
 
 (2) [Reserved]
 
-(f) NACE International (NACE), 1440 South Creek Drive, Houston, TX 77084, phone: 281-228-6223 or 800-797-6223, Web site: *http://www.nace.org/Publications/.*
+(g) NACE International (NACE), 1440 South Creek Drive, Houston, TX 77084, phone: 281-228-6223 or 800-797-6223, Web site: *http://www.nace.org/Publications/.*
 
 (1) NACE SP0169-2007, Standard Practice, “Control of External Corrosion on Underground or Submerged Metallic Piping Systems” reaffirmed March 15, 2007, (NACE SP0169), IBR approved for §§ 195.571 and 195.573(a).
 
 (2) ANSI/NACE SP0502-2010, Standard Practice, “Pipeline External Corrosion Direct Assessment Methodology,” June 24, 2010, (NACE SP0502), IBR approved for § 195.588(b).
 
-(g) National Fire Protection Association (NFPA), 1 Batterymarch Park, Quincy, MA 02169, phone: 617-984-7275, Web site: *http://www.nfpa.org/.*
+(3) NACE SP0102-2010, “Standard Practice, Inline Inspection of Pipelines” revised March 13, 2010, (NACE SP0102), IBR approved for § 195.591.
+
+(4) NACE SP0204-2008, “Standard Practice, Stress Corrosion Cracking (SSC) Direct Assessment Methodology” reaffirmed September 18, 2008, (NACE SP0204), IBR approved for § 195.588(c).
+
+(h) National Fire Protection Association (NFPA), 1 Batterymarch Park, Quincy, MA 02169, phone: 617-984-7275, Web site: *http://www.nfpa.org/.*
 
 (1) NFPA-30 (2012), “Flammable and Combustible Liquids Code,” including Errata 30-12-1 (9/27/11), and Errata 30-12-2 (11/14/11), 2012 edition, copyright 2011, (NFPA-30), IBR approved for § 195.264(b).
 
 (2) [Reserved]
 
-(h) Pipeline Research Council International, Inc. (PRCI), c/o Technical Toolboxes, 3801 Kirby Drive, Suite 520, P.O. Box 980550, Houston, TX 77098, phone: 713-630-0505, toll free: 866-866-6766, Web site: *http://www.ttoolboxes.com/.*
+(i) Pipeline Research Council International, Inc. (PRCI), c/o Technical Toolboxes, 3801 Kirby Drive, Suite 520, P.O. Box 980550, Houston, TX 77098, phone: 713-630-0505, toll free: 866-866-6766, Web site: *http://www.ttoolboxes.com/.*
 
-(1) AGA Pipeline Research Committee, Project PR-3-805 “A Modified Criterion for Evaluating the Remaining Strength of Corroded Pipe,” December 22, 1989, (PR-3-805 (RSTRING)). IBR approved for §§ 195.452(h); 195.587.
+(1) AGA Pipeline Research Committee, Project PR-3-805 “A Modified Criterion for Evaluating the Remaining Strength of Corroded Pipe,” December 22, 1989, (PR-3-805 (RSTRING)). IBR approved for §§ 195.452(h); 195.587; and 195.588(c).
 
 (2) [Reserved]
 
-[Amdt. 195-99, 80 FR 184, Jan. 5, 2015]
+[Amdt. 195-99, 80 FR 184, Jan. 5, 2015, as amended by Amdt. 195-101, 82 FR 7998, Jan. 23, 2017]

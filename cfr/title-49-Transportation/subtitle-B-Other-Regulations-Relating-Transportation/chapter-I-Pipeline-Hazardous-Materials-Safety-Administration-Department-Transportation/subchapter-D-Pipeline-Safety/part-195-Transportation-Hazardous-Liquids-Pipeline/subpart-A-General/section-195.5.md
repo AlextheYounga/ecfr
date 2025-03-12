@@ -1,10 +1,8 @@
 ##### § 195.5 Conversion to service subject to this part. #####
 
-Link to an amendment published at 82 FR 7999, Jan. 23, 2017.
-
 (a) A steel pipeline previously used in service not subject to this part qualifies for use under this part if the operator prepares and follows a written procedure to accomplish the following:
 
-(1) The design, construction, operation, and maintenance history of the pipeline must be reviewed and, where sufficient historical records are not available, appropriate tests must be performed to determine if the pipeline is in satisfactory condition for safe operation. If one or more of the variables necessary to verify the design pressure under § 195.106 or to perform the testing under paragraph (a)(4) of this section is unknown, the design pressure may be verified and the maximum operating pressure determined by -
+(1) The design, construction, operation, and maintenance history of the pipeline must be reviewed and, where sufficient historical records are not available, appropriate tests must be performed to determine if the pipeline is in satisfactory condition for safe operation. If one or more of the variables necessary to verify the design pressure under § 195.106 or to perform the testing under paragraph (a)(4) of this section is unknown, the design pressure may be verified and the maximum operating pressure determined by—
 
 (i) Testing the pipeline in accordance with ASME/ANSI B31.8 (incorporated by reference, *see* § 195.3), Appendix N, to produce a stress equal to the yield strength; and
 
@@ -20,4 +18,6 @@ Link to an amendment published at 82 FR 7999, Jan. 23, 2017.
 
 (c) Each operator must keep for the life of the pipeline a record of the investigations, tests, repairs, replacements, and alterations made under the requirements of paragraph (a) of this section.
 
-[Amdt. 195-22, 46 FR 38360, July 27, 1981, as amended by Amdt. 195-52, 59 FR 33396, June 28, 1994; Amdt. 195-173, 66 FR 67004, Dec. 27, 2001; Amdt. 195-99, 80 FR 184, Jan. 5, 2015]
+(d) An operator converting a pipeline from service not previously covered by this part must notify PHMSA 60 days before the conversion occurs as required by § 195.64.
+
+[Amdt. 195-22, 46 FR 38360, July 27, 1981, as amended by Amdt. 195-52, 59 FR 33396, June 28, 1994; Amdt. 195-173, 66 FR 67004, Dec. 27, 2001; Amdt. 195-99, 80 FR 184, Jan. 5, 2015; Amdt. 195-101, 82 FR 7999, Jan. 23, 2017]

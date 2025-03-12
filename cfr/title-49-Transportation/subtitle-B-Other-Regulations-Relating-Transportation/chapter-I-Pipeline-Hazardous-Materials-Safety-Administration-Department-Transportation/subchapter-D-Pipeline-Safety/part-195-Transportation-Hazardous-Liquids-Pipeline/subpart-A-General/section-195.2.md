@@ -1,7 +1,5 @@
 ##### § 195.2 Definitions. #####
 
-Link to an amendment published at 82 FR 7998, Jan. 23, 2017.
-
 As used in this part -
 
 *Abandoned* means permanently removed from service.
@@ -19,6 +17,8 @@ As used in this part -
 *Component* means any part of a pipeline which may be subjected to pump pressure including, but not limited to, pipe, valves, elbows, tees, flanges, and closures.
 
 *Computation Pipeline Monitoring (CPM)* means a software-based monitoring tool that alerts the pipeline dispatcher of a possible pipeline operating anomaly that may be indicative of a commodity release.
+
+*Confirmed Discovery* means when it can be reasonably determined, based on information available to the operator at the time a reportable event has occurred, even if only based on a preliminary evaluation.
 
 *Control room* means an operations center staffed by personnel charged with the responsibility for remotely monitoring and controlling a pipeline facility.
 
@@ -39,6 +39,10 @@ As used in this part -
 *Hazardous liquid* means petroleum, petroleum products, anhydrous ammonia, or ethanol.
 
 *Highly volatile liquid* or *HVL* means a hazardous liquid which will form a vapor cloud when released to the atmosphere and which has a vapor pressure exceeding 276 kPa (40 psia) at 37.8 °C (100 °F).
+
+*In-Line Inspection (ILI)* means the inspection of a pipeline from the interior of the pipe using an in-line inspection tool. Also called *intelligent* or *smart pigging.*
+
+*In-Line Inspection Tool* or *Instrumented Internal Inspection Device* means a device or vehicle that uses a non-destructive testing technique to inspect the pipeline from the inside. Also known as *intelligent* or *smart pig.*
 
 *In-plant piping system* means piping that is located on the grounds of a plant and used to transfer hazardous liquid or carbon dioxide between plant facilities or between plant facilities and a pipeline or other mode of transportation, not including any device and associated piping that are necessary to control pressure in the pipeline under § 195.406(b).
 
@@ -76,6 +80,8 @@ As used in this part -
 
 *Rural area* means outside the limits of any incorporated or unincorpated city, town, village, or any other designated residential or commercial area such as a subdivision, a business or shopping center, or community development.
 
+*Significant Stress Corrosion Cracking* means a stress corrosion cracking (SCC) cluster in which the deepest crack, in a series of interacting cracks, is greater than 10% of the wall thickness and the total interacting length of the cracks is equal to or greater than 75% of the critical length of a 50% through-wall flaw that would fail at a stress level of 110% of SMYS.
+
 *Specified minimum yield strength* means the minimum yield strength, expressed in p.s.i. (kPa) gage, prescribed by the specification under which the material is purchased from the manufacturer.
 
 *Stress level* means the level of tangential or hoop stress, usually expressed as a percentage of specified minimum yield strength.
@@ -92,4 +98,4 @@ As used in this part -
 
 *Welding operator* means a person who operates machine or automatic welding equipment.
 
-[Amdt. 195-22, 46 FR 38360, July 27, 1981; 47 FR 32721, July 29, 1982, as amended by Amdt. 195-33, 50 FR 15898, Apr. 23, 1985; 50 FR 38660, Sept. 24, 1985; Amdt. 195-36, 51 FR 15007, Apr. 22, 1986; Amdt. 195-45, 56 FR 26925, June 12, 1991; Amdt. 195-47, 56 FR 63771, Dec. 5, 1991; Amdt. 195-50, 59 FR 17281, Apr. 12, 1994; Amdt. 195-52, 59 FR 33395, 33396, June 28, 1994; Amdt. 195-53, 59 FR 35471, July 12, 1994; Amdt. 195-59, 62 FR 61695, Nov. 19, 1997; Amdt. 195-62, 63 FR 36376, July 6, 1998; Amdt. 195-63, 63 FR 37506, July 13, 1998; Amdt. 195-69, 65 FR 54444, Sept. 8, 2000; Amdt. 195-71, 65 FR 80544, Dec. 21, 2000; 68 FR 11749, Mar. 12, 2003; Amdt. 195-81, 69 FR 32896, June 14, 2004; Amdt. 195-82, 69 FR 48406, Aug. 10, 2004; 70 FR 11140, Mar. 8, 2005; Amdt. 195-93, 74 FR 63328, Dec. 3, 2009; ; Amdt. 195-100, 80 FR 12779, Mar. 11, 2015]
+[Amdt. 195-22, 46 FR 38360, July 27, 1981; 47 FR 32721, July 29, 1982, as amended by Amdt. 195-33, 50 FR 15898, Apr. 23, 1985; 50 FR 38660, Sept. 24, 1985; Amdt. 195-36, 51 FR 15007, Apr. 22, 1986; Amdt. 195-45, 56 FR 26925, June 12, 1991; Amdt. 195-47, 56 FR 63771, Dec. 5, 1991; Amdt. 195-50, 59 FR 17281, Apr. 12, 1994; Amdt. 195-52, 59 FR 33395, 33396, June 28, 1994; Amdt. 195-53, 59 FR 35471, July 12, 1994; Amdt. 195-59, 62 FR 61695, Nov. 19, 1997; Amdt. 195-62, 63 FR 36376, July 6, 1998; Amdt. 195-63, 63 FR 37506, July 13, 1998; Amdt. 195-69, 65 FR 54444, Sept. 8, 2000; Amdt. 195-71, 65 FR 80544, Dec. 21, 2000; 68 FR 11749, Mar. 12, 2003; Amdt. 195-81, 69 FR 32896, June 14, 2004; Amdt. 195-82, 69 FR 48406, Aug. 10, 2004; 70 FR 11140, Mar. 8, 2005; Amdt. 195-93, 74 FR 63328, Dec. 3, 2009; ; Amdt. 195-100, 80 FR 12779, Mar. 11, 2015; Amdt. 195-101, 82 FR 7998, Feb. 23, 2017]

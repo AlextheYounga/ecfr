@@ -1,7 +1,5 @@
 ##### § 195.452 Pipeline integrity management in high consequence areas. #####
 
-Link to an amendment published at 82 FR 7999, Jan. 23, 2017.
-
 (a) *Which pipelines are covered by this section?* This section applies to each hazardous liquid pipeline and carbon dioxide pipeline that could affect a high consequence area, including any pipeline located in a high consequence area unless the operator effectively demonstrates by risk assessment that the pipeline could not affect the area. (Appendix C of this part provides guidance on determining if a pipeline could affect a high consequence area.) Covered pipelines are categorized as follows:
 
 (1) Category 1 includes pipelines existing on May 29, 2001, that were owned or operated by an operator who owned or operated a total of 500 or more miles of pipeline subject to this part.
@@ -9,6 +7,8 @@ Link to an amendment published at 82 FR 7999, Jan. 23, 2017.
 (2) Category 2 includes pipelines existing on May 29, 2001, that were owned or operated by an operator who owned or operated less than 500 miles of pipeline subject to this part.
 
 (3) Category 3 includes pipelines constructed or converted after May 29, 2001.
+
+(4) Low stress pipelines as specified in § 195.12.
 
 (b) *What program and practices must operators use to manage pipeline integrity?* Each operator of a pipeline covered by this section must:
 
@@ -48,7 +48,7 @@ Link to an amendment published at 82 FR 7999, Jan. 23, 2017.
 
 (i) The methods selected to assess the integrity of the line pipe. An operator must assess the integrity of the line pipe by any of the following methods. The methods an operator selects to assess low frequency electric resistance welded pipe or lap welded pipe susceptible to longitudinal seam failure must be capable of assessing seam integrity and of detecting corrosion and deformation anomalies.
 
-(A) Internal inspection tool or tools capable of detecting corrosion and deformation anomalies including dents, gouges and grooves;
+(A) In-Line Inspection tool or tools capable of detecting corrosion and deformation anomalies, including dents, gouges, and grooves. For pipeline segments that are susceptible to cracks (pipe body and weld seams), an operator must use an in-line inspection tool or tools capable of detecting crack anomalies. When performing an assessment using an In-Line Inspection Tool, an operator must comply with § 195.591;
 
 (B) Pressure test conducted in accordance with subpart E of this part;
 
@@ -219,7 +219,7 @@ Link to an amendment published at 82 FR 7999, Jan. 23, 2017.
 
 (5) *Assessment methods.* An operator must assess the integrity of the line pipe by any of the following methods. The methods an operator selects to assess low frequency electric resistance welded pipe or lap welded pipe susceptible to longitudinal seam failure must be capable of assessing seam integrity and of detecting corrosion and deformation anomalies.
 
-(i) Internal inspection tool or tools capable of detecting corrosion and deformation anomalies including dents, gouges and grooves;
+(i) In-Line Inspection tool or tools capable of detecting corrosion and deformation anomalies, including dents, gouges, and grooves. For pipeline segments that are susceptible to cracks (pipe body and weld seams), an operator must use an in-line inspection tool or tools capable of detecting crack anomalies. When performing an assessment using an In-Line Inspection tool, an operator must comply with § 195.591;
 
 (ii) Pressure test conducted in accordance with subpart E of this part;
 
@@ -243,4 +243,4 @@ Link to an amendment published at 82 FR 7999, Jan. 23, 2017.
 
 (2) Sending the notification by mail to ATTN: Information Resources Manager, DOT/PHMSA/OPS, East Building, 2nd Floor, E22-321, 1200 New Jersey Ave SE., Washington, DC 20590.
 
-[Amdt. 195-70, 65 FR 75406, Dec. 1, 2000, as amended by Amdt. 195-74, 67 FR 1660, 1661, Jan. 14, 2002; Amdt. 195-76, 67 FR 2143, Jan. 16, 2002; 67 FR 46911, July 17, 2002; 70 FR 11140, Mar. 8, 2005; Amdt. 195-85, 70 FR 61576, Oct. 25, 2005; Amdt. 195-87, 72 FR 39017, July 17, 2007; 73 FR 16571, Mar. 28, 2008; 73 FR 31646, June 3, 2008; Amdt. 195-94, 75 FR 48607, Aug. 11, 2010; Amdt. 195-99, 80 FR 188, Jan. 5, 2015; Amdt. 195-100, 80 FR 12781, Mar. 11, 2015]
+[Amdt. 195-70, 65 FR 75406, Dec. 1, 2000, as amended by Amdt. 195-74, 67 FR 1660, 1661, Jan. 14, 2002; Amdt. 195-76, 67 FR 2143, Jan. 16, 2002; 67 FR 46911, July 17, 2002; 70 FR 11140, Mar. 8, 2005; Amdt. 195-85, 70 FR 61576, Oct. 25, 2005; Amdt. 195-87, 72 FR 39017, July 17, 2007; 73 FR 16571, Mar. 28, 2008; 73 FR 31646, June 3, 2008; Amdt. 195-94, 75 FR 48607, Aug. 11, 2010; Amdt. 195-99, 80 FR 188, Jan. 5, 2015; Amdt. 195-100, 80 FR 12781, Mar. 11, 2015; Amdt. 195-101, 82 FR 7999, Jan. 23, 2017]

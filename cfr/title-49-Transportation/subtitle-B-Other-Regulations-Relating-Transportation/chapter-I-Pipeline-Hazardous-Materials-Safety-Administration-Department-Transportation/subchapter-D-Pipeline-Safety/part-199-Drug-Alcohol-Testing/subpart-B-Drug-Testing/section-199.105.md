@@ -1,12 +1,12 @@
 ##### § 199.105 Drug tests required. #####
 
-Link to an amendment published at 82 FR 8001, Jan. 23, 2017.
-
 Each operator shall conduct the following drug tests for the presence of a prohibited drug:
 
 (a) *Pre-employment testing.* No operator may hire or contract for the use of any person as an employee unless that person passes a drug test or is covered by an anti-drug program that conforms to the requirements of this part.
 
-(b) *Post-accident testing.* As soon as possible but no later than 32 hours after an accident, an operator shall drug test each employee whose performance either contributed to the accident or cannot be completely discounted as a contributing factor to the accident. An operator may decide not to test under this paragraph but such a decision must be based on the best information available immediately after the accident that the employee's performance could not have contributed to the accident or that, because of the time between that performance and the accident, it is not likely that a drug test would reveal whether the performance was affected by drug use.
+(b) *Post-accident testing.* (1) As soon as possible but no later than 32 hours after an accident, an operator must drug test each surviving covered employee whose performance of a covered function either contributed to the accident or cannot be completely discounted as a contributing factor to the accident. An operator may decide not to test under this paragraph but such a decision must be based on specific information that the covered employee's performance had no role in the cause(s) or severity of the accident.
+
+(2) If a test required by this section is not administered within the 32 hours following the accident, the operator must prepare and maintain its decision stating the reasons why the test was not promptly administered. If a test required by paragraph (b)(1) of this section is not administered within 32 hours following the accident, the operator must cease attempts to administer a drug test and must state in the record the reasons for not administering the test.
 
 (c) *Random testing.* (1) Except as provided in paragraphs (c)(2) through (4) of this section, the minimum annual percentage rate for random drug testing shall be 50 percent of covered employees.
 
@@ -24,7 +24,7 @@ Each operator shall conduct the following drug tests for the presence of a prohi
 
 (8) If a given covered employee is subject to random drug testing under the drug testing rules of more than one DOT agency for the same operator, the employee shall be subject to random drug testing at the percentage rate established for the calendar year by the DOT agency regulating more than 50 percent of the employee's function.
 
-(9) If an operator is required to conduct random drug testing under the drug testing rules of more than one DOT agency, the operator may -
+(9) If an operator is required to conduct random drug testing under the drug testing rules of more than one DOT agency, the operator may—
 
 (i) Establish separate pools for random selection, with each pool containing the covered employees who are subject to testing at the same required rate; or
 
@@ -36,4 +36,4 @@ Each operator shall conduct the following drug tests for the presence of a prohi
 
 (f) *Follow-up testing.* A covered employee who refuses to take or has a positive drug test shall be subject to unannounced follow-up drug tests administered by the operator following the covered employee's return to duty. The number and frequency of such follow-up testing shall be determined by a substance abuse professional, but shall consist of at least six tests in the first 12 months following the covered employee's return to duty. In addition, follow-up testing may include testing for alcohol as directed by the substance abuse professional, to be performed in accordance with 49 CFR part 40. Follow-up testing shall not exceed 60 months from the date of the covered employee's return to duty. The substance abuse professional may terminate the requirement for follow-up testing at any time after the first six tests have been administered, if the substance abuse professional determines that such testing is no longer necessary.
 
-[53 FR 47096, Nov. 21, 1988, as amended by Amdt. 199-2, 54 FR 51850, Dec. 18, 1989; 59 FR 62227, Dec. 2, 1994; Amdt. 199-15, 63 FR 13000, Mar. 17, 1998; Amdt. 199-15, 63 FR 36863, July 8, 1998. Redesignated and amended by Amdt. 199-19, 66 FR 47118, Sept. 11, 2001]
+[53 FR 47096, Nov. 21, 1988, as amended by Amdt. 199-2, 54 FR 51850, Dec. 18, 1989; 59 FR 62227, Dec. 2, 1994; Amdt. 199-15, 63 FR 13000, Mar. 17, 1998; Amdt. 199-15, 63 FR 36863, July 8, 1998. Redesignated and amended by Amdt. 199-19, 66 FR 47118, Sept. 11, 2001; Amdt. 199-27, 82 FR 8001, Jan. 23, 2017]

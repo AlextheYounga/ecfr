@@ -1,10 +1,8 @@
 ##### § 199.225 Alcohol tests required. #####
 
-Link to an amendment published at 82 FR 8001, Jan. 23, 2017.
+Each operator must conduct the following types of alcohol tests for the presence of alcohol:
 
-Each operator shall conduct the following types of alcohol tests for the presence of alcohol:
-
-(a) *Post-accident.* (1) As soon as practicable following an accident, each operator shall test each surviving covered employee for alcohol if that employee's performance of a covered function either contributed to the accident or cannot be completely discounted as a contributing factor to the accident. The decision not to administer a test under this section shall be based on the operator's determination, using the best available information at the time of the determination, that the covered employee's performance could not have contributed to the accident.
+(a) *Post-accident.* (1) As soon as practicable following an accident, each operator must test each surviving covered employee for alcohol if that employee's performance of a covered function either contributed to the accident or cannot be completely discounted as a contributing factor to the accident. The decision not to administer a test under this section must be based on specific information that the covered employee's performance had no role in the cause(s) or severity of the accident.
 
 (2)(i) If a test required by this section is not administered within 2 hours following the accident, the operator shall prepare and maintain on file a record stating the reasons the test was not promptly administered. If a test required by paragraph (a) is not administered within 8 hours following the accident, the operator shall cease attempts to administer an alcohol test and shall state in the record the reasons for not administering the test.
 
@@ -38,4 +36,4 @@ Each operator shall conduct the following types of alcohol tests for the presenc
 
 (e) *Retesting of covered employees with an alcohol concentration of 0.02 or greater but less than 0.04.* Each operator shall retest a covered employee to ensure compliance with the provisions of § 199.237, if an operator chooses to permit the employee to perform a covered function within 8 hours following the administration of an alcohol test indicating an alcohol concentration of 0.02 or greater but less than 0.04.
 
-[Amdt. 199-9, 59 FR 7430, Feb. 15, 1994, as amended at 59 FR 62239, 62246, Dec. 2, 1994; Amdt. 199-19, 66 FR 47119, Sept. 11, 2001; 70 FR 11140, March 8, 2005]
+[Amdt. 199-9, 59 FR 7430, Feb. 15, 1994, as amended at 59 FR 62239, 62246, Dec. 2, 1994; Redesignated by Amdt. 199-19, 66 FR 47119, Sept. 11, 2001; 70 FR 11140, March 8, 2005; Amdt. 199-27, 82 FR 8001, Jan. 23, 2017]

@@ -1,7 +1,5 @@
 ##### § 192.631 Control room management. #####
 
-Link to an amendment published at 82 FR 7997, Jan. 23, 2017.
-
 (a) *General.* (1) This section applies to each operator of a pipeline facility with a controller working in a control room who monitors and controls all or part of a pipeline facility through a SCADA system. Each operator must have and follow written control room management procedures that implement the requirements of this section, except that for each control room where an operator's activities are limited to either or both of:
 
 (i) Distribution with less than 250,000 services, or
@@ -16,9 +14,11 @@ Link to an amendment published at 82 FR 7997, Jan. 23, 2017.
 
 (2) A controller's role when an abnormal operating condition is detected, even if the controller is not the first to detect the condition, including the controller's responsibility to take specific actions and to communicate with others;
 
-(3) A controller's role during an emergency, even if the controller is not the first to detect the emergency, including the controller's responsibility to take specific actions and to communicate with others; and
+(3) A controller's role during an emergency, even if the controller is not the first to detect the emergency, including the controller's responsibility to take specific actions and to communicate with others;
 
-(4) A method of recording controller shift-changes and any hand-over of responsibility between controllers.
+(4) A method of recording controller shift-changes and any hand-over of responsibility between controllers; and
+
+(5) The roles, responsibilities and qualifications of others with the authority to direct or supersede the specific technical actions of a controller.
 
 (c) *Provide adequate information.* Each operator must provide its controllers with the information, tools, processes and procedures necessary for the controllers to carry out the roles and responsibilities the operator has defined by performing each of the following:
 
@@ -90,9 +90,11 @@ Link to an amendment published at 82 FR 7997, Jan. 23, 2017.
 
 (3) Training controllers on their responsibilities for communication under the operator's emergency response procedures;
 
-(4) Training that will provide a controller a working knowledge of the pipeline system, especially during the development of abnormal operating conditions; and
+(4) Training that will provide a controller a working knowledge of the pipeline system, especially during the development of abnormal operating conditions;
 
-(5) For pipeline operating setups that are periodically, but infrequently used, providing an opportunity for controllers to review relevant procedures in advance of their application.
+(5) For pipeline operating setups that are periodically, but infrequently used, providing an opportunity for controllers to review relevant procedures in advance of their application; and
+
+(6) Control room team training and exercises that include both controllers and other individuals, defined by the operator, who would reasonably be expected to operationally collaborate with controllers (control room personnel) during normal, abnormal or emergency situations. Operators must comply with the team training requirements under this paragraph by no later than January 23, 2018.
 
 (i) *Compliance validation.* Upon request, operators must submit their procedures to PHMSA or, in the case of an intrastate pipeline facility regulated by a State, to the appropriate State agency.
 
@@ -102,4 +104,4 @@ Link to an amendment published at 82 FR 7997, Jan. 23, 2017.
 
 (2) Documentation to demonstrate that any deviation from the procedures required by this section was necessary for the safe operation of a pipeline facility.
 
-[Amdt. 192-112, 74 FR 63327, Dec. 3, 2009, as amended at 75 FR 5537, Feb. 3, 2010; 76 FR 35135, June 16, 2011]
+[Amdt. 192-112, 74 FR 63327, Dec. 3, 2009, as amended at 75 FR 5537, Feb. 3, 2010; 76 FR 35135, June 16, 2011; Amdt. 192-123, 82 FR 7997, Jan. 23, 2017]

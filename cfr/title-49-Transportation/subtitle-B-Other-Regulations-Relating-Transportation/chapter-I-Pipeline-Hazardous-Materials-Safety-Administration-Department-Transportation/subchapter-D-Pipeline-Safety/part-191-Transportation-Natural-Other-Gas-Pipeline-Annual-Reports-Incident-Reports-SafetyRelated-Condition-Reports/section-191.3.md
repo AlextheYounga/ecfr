@@ -1,10 +1,10 @@
 ##### § 191.3 Definitions. #####
 
-Link to an amendment published at 82 FR 7997, Jan. 23, 2017.
-
 As used in this part and the PHMSA Forms referenced in this part -
 
 *Administrator* means the Administrator, Pipeline and Hazardous Materials Safety Administration or his or her delegate
+
+*Confirmed Discovery* means when it can be reasonably determined, based on information available to the operator at the time a reportable event has occurred, even if only based on a preliminary evaluation.
 
 *Gas* means natural gas, flammable gas, or gas which is toxic or corrosive;
 
@@ -44,4 +44,4 @@ As used in this part and the PHMSA Forms referenced in this part -
 
 *Underground natural gas storage facility* means an underground natural gas storage facility as defined in § 192.3 of this chapter.
 
-[35 FR 320, Jan. 8, 1970, as amended by Amdt. 191-5, 49 FR 18960, May 3, 1984; Amdt. 191-10, 61 FR 18516, Apr. 26, 1996; Amdt. 191-12, 62 FR 61695, Nov. 19, 1997; 68 FR 11749, Mar. 12, 2003; 70 FR 11139, Mar. 8, 2005; 75 FR 72905, Nov. 26, 2010; Amdt. 191-24, 81 FR 91871, Dec. 19, 2016]
+[35 FR 320, Jan. 8, 1970, as amended by Amdt. 191-5, 49 FR 18960, May 3, 1984; Amdt. 191-10, 61 FR 18516, Apr. 26, 1996; Amdt. 191-12, 62 FR 61695, Nov. 19, 1997; 68 FR 11749, Mar. 12, 2003; 70 FR 11139, Mar. 8, 2005; 75 FR 72905, Nov. 26, 2010; Amdt. 191-24, 81 FR 91871, Dec. 19, 2016; Amdt. 191-25, 82 FR 7997, Jan. 23, 2017]

@@ -1,8 +1,6 @@
 ##### § 195.52 Immediate notice of certain accidents. #####
 
-Link to an amendment published at 82 FR 7999, Jan. 23, 2017.
-
-(a) Notice requirements. At the earliest practicable moment following discovery of a release of the hazardous liquid or carbon dioxide transported resulting in an event described in § 195.50, the operator of the system must give notice, in accordance with paragraph (b) of this section, of any failure that:
+(a) *Notice requirements.* At the earliest practicable moment following discovery, of a release of the hazardous liquid or carbon dioxide transported resulting in an event described in § 195.50, but no later than one hour after confirmed discovery, the operator of the system must give notice, in accordance with paragraph (b) of this section of any failure that:
 
 (1) Caused a death or a personal injury requiring hospitalization;
 
@@ -32,6 +30,6 @@ Link to an amendment published at 82 FR 7999, Jan. 23, 2017.
 
 (c) Calculation. A pipeline operator must have a written procedure to calculate and provide a reasonable initial estimate of the amount of released product.
 
-(d) New information. An operator must provide an additional telephonic report to the NRC if significant new information becomes available during the emergency response phase of a reported event at the earliest practicable moment after such additional information becomes known.
+(d) *New information.* Within 48 hours after the confirmed discovery of an accident, to the extent practicable, an operator must revise or confirm its initial telephonic notice required in paragraph (b) of this section with a revised estimate of the amount of product released, location of the failure, time of the failure, a revised estimate of the number of fatalities and injuries, and all other significant facts that are known by the operator that are relevant to the cause of the accident or extent of the damages. If there are no changes or revisions to the initial report, the operator must confirm the estimates in its initial report.
 
-[75 FR 72907, Nov. 26, 2010]
+[75 FR 72907, Nov. 26, 2010, as amended by Amdt. 195-101, 82 FR 7999, Jan. 23, 2017]

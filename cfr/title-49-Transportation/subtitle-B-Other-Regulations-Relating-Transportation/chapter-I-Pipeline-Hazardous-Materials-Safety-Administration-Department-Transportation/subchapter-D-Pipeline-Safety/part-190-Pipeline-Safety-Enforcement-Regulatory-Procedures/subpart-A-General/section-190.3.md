@@ -1,7 +1,5 @@
 ##### § 190.3 Definitions. #####
 
-Link to an amendment published at 82 FR 7995, Jan. 23, 2017.
-
 As used in this part:
 
 *Administrator* means the Administrator, Pipeline and Hazardous Materials Safety Administration or his or her delegate.
@@ -17,6 +15,8 @@ As used in this part:
 *Hearing* means an informal conference or a proceeding for oral presentation. Unless otherwise specifically prescribed in this part, the use of “hearing” is not intended to require a hearing on the record in accordance with section 554 of title 5, U.S.C.
 
 *Imminent hazard* means the existence of a condition relating to a gas or hazardous liquid pipeline facility that presents a substantial likelihood that death, serious illness, severe personal injury, or a substantial endangerment to health, property, or the environment may occur before the reasonably foreseeable completion date of a formal administrative proceeding begun to lessen the risk of such death, illness, injury or endangerment.
+
+*New and novel technologies* means any products, designs, materials, testing, construction, inspection, or operational procedures that are not addressed in 49 CFR parts 192, 193, or 195, due to technology or design advances and innovation for new construction. Technologies that are addressed in consensus standards that are incorporated by reference into parts 192, 193, and 195 are not “new or novel technologies.”
 
 *OPS* means the Office of Pipeline Safety, which is part of the Pipeline and Hazardous Materials Safety Administration, U.S. Department of Transportation.
 
@@ -34,4 +34,4 @@ As used in this part:
 
 *State* means a State of the United States, the District of Columbia and the Commonwealth of Puerto Rico.
 
-[Amdt. 190-6, 61 FR 18513, Apr. 26, 1996, as amended at 68 FR 11749, Mar. 12, 2003; 70 FR 11137, Mar. 8, 2005; Amdt. 190-15, 74 FR 62505, Nov. 30, 2009; Amdt. 190-16, 78 FR 58908, Sept. 25, 2013; Amdt. 190-18, 81 FR 70985, Oct. 14, 2016]
+[Amdt. 190-6, 61 FR 18513, Apr. 26, 1996, as amended at 68 FR 11749, Mar. 12, 2003; 70 FR 11137, Mar. 8, 2005; Amdt. 190-15, 74 FR 62505, Nov. 30, 2009; Amdt. 190-16, 78 FR 58908, Sept. 25, 2013; Amdt. 190-18, 81 FR 70985, Oct. 14, 2016; Amdt. 190-19, 82 FR 7995, Jan. 23, 2017]

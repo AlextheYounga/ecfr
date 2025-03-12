@@ -1,7 +1,5 @@
 ##### § 199.227 Retention of records. #####
 
-Link to an amendment published at 82 FR 8001, Jan. 23, 2017.
-
 (a) *General requirement.* Each operator shall maintain records of its alcohol misuse prevention program as provided in this section. The records shall be maintained in a secure location with controlled access.
 
 (b) *Period of retention.* Each operator shall maintain the records in accordance with the following schedule:
@@ -11,6 +9,8 @@ Link to an amendment published at 82 FR 8001, Jan. 23, 2017.
 (2) *Two years.* Records related to the collection process (except calibration of evidential breath testing devices), and training shall be maintained for a minimum of two years.
 
 (3) *One year.* Records of all test results below 0.02 (as defined in 49 CFR part 40) shall be maintained for a minimum of one year.
+
+(4) *Three years.* Records of decisions not to administer post-accident employee alcohol tests must be kept for a minimum of three years.
 
 (c) *Types of records.* The following specific records shall be maintained:
 
@@ -55,3 +55,5 @@ Link to an amendment published at 82 FR 8001, Jan. 23, 2017.
 (iii) Documentation of training provided to supervisors for the purpose of qualifying the supervisors to make a determination concerning the need for alcohol testing based on reasonable suspicion.
 
 (iv) Certification that any training conducted under this subpart complies with the requirements for such training.
+
+[Amdt. 199-9, 59 FR 7430, Feb. 15, 1994, unless otherwise noted. Redesignated by Amdt. 199-19, 66 FR 47118, Sept. 11, 2001, as amended by Amdt. 199-27, 82 FR 8001, Jan. 23, 2017]

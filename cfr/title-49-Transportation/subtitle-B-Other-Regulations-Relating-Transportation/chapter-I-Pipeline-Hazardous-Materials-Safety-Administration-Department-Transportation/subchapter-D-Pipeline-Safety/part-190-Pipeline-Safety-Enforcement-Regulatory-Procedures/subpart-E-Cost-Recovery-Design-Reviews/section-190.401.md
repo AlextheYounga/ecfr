@@ -1,0 +1,3 @@
+##### § 190.401 Scope. #####
+
+If PHMSA conducts a facility design and/or construction safety review or inspection in connection with a proposal to construct, expand, or operate a gas, hazardous liquid or carbon dioxide pipeline facility, or a liquefied natural gas facility that meets the applicability requirements in § 190.403, PHMSA may require the applicant proposing the project to pay the costs incurred by PHMSA relating to such review, including the cost of design and construction safety reviews or inspections.
