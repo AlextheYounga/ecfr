@@ -1,5 +1,7 @@
 ##### 1852.216-72 Award term. #####
 
+Link to an amendment published at 88 FR 47808, July 25, 2023.
+
 As prescribed in 1816.406-70(g), insert the following clause:
 
 Award Term (AUG 2017)

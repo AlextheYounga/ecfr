@@ -1,6 +1,6 @@
 ##### § 894.401 How do I pay premiums? #####
 
-(a) *Employees* pay premiums through payroll allotments.
+(a) *Employees* and employees of the United States Postal Service pay premiums through payroll allotments.
 
 (b) *Annuitants* and survivor *annuitants* pay premiums through annuity allotments.
 
@@ -18,4 +18,4 @@
 
 (ii) Direct premium payments.
 
-[73 FR 50184, Aug. 26, 2008, as amended at 83 FR 58179, Nov. 19, 2018]
+[73 FR 50184, Aug. 26, 2008, as amended at 83 FR 58179, Nov. 19, 2018; 88 FR 47747, July 25, 2023]

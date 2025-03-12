@@ -1,6 +1,6 @@
 ##### § 430.32 Energy and water conservation standards and their compliance dates. #####
 
-Link to an amendment published at 88 FR 21814, Apr. 11, 2023.Link to an amendment published at 88 FR 34362, May 26, 2023.Link to an amendment published at 88 FR 34704, May 30, 2023.Link to an amendment published at 88 FR 39959, June 20, 2023.
+Link to an amendment published at 88 FR 21814, Apr. 11, 2023.Link to an amendment published at 88 FR 34704, May 30, 2023.Link to an amendment published at 88 FR 39959, June 20, 2023.
 
 The energy and water (in the case of faucets, showerheads, water closets, and urinals) conservation standards for the covered product classes are:
 
@@ -83,28 +83,59 @@ AV = Total adjusted volume, expressed in ft<sup>3</sup>, as determined in append
 
 av = Total adjusted volume, expressed in Liters.
 
-(b) *Room air conditioners.*
+(b) *Room air conditioners.* (1) The following standards remain in effect from June 1, 2014, until May 26, 2026:
 
-|                                Product class                                |Energy efficiency ratio, effective from Oct. 1, 2000 to  <br/>May 31, 2014|Combined energy  <br/>efficiency ratio,  <br/>effective as of  <br/>June 1, 2014|
-|-----------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-|  1. Without reverse cycle, with louvered sides, and less than 6,000 Btu/h   |                                   9.7                                    |                                      11.0                                      |
-|   2. Without reverse cycle, with louvered sides, and 6,000 to 7,999 Btu/h   |                                   9.7                                    |                                      11.0                                      |
-|  3. Without reverse cycle, with louvered sides, and 8,000 to 13,999 Btu/h   |                                   9.8                                    |                                      10.9                                      |
-|  4. Without reverse cycle, with louvered sides, and 14,000 to 19,999 Btu/h  |                                   9.7                                    |                                      10.7                                      |
-| 5a. Without reverse cycle, with louvered sides, and 20,000 to 27,999 Btu/h  |                                   8.5                                    |                                      9.4                                       |
-|  5b. Without reverse cycle, with louvered sides, and 28,000 Btu/h or more   |                                   8.5                                    |                                      9.0                                       |
-| 6. Without reverse cycle, without louvered sides, and less than 6,000 Btu/h |                                   9.0                                    |                                      10.0                                      |
-| 7. Without reverse cycle, without louvered sides, and 6,000 to 7,999 Btu/h  |                                   9.0                                    |                                      10.0                                      |
-|8a. Without reverse cycle, without louvered sides, and 8,000 to 10,999 Btu/h |                                   8.5                                    |                                      9.6                                       |
-|8b. Without reverse cycle, without louvered sides, and 11,000 to 13,999 Btu/h|                                   8.5                                    |                                      9.5                                       |
-|9. Without reverse cycle, without louvered sides, and 14,000 to 19,999 Btu/h |                                   8.5                                    |                                      9.3                                       |
-| 10. Without reverse cycle, without louvered sides, and 20,000 Btu/h or more |                                   8.5                                    |                                      9.4                                       |
-|   11. With reverse cycle, with louvered sides, and less than 20,000 Btu/h   |                                   9.0                                    |                                      9.8                                       |
-| 12. With reverse cycle, without louvered sides, and less than 14,000 Btu/h  |                                   8.5                                    |                                      9.3                                       |
-|    13. With reverse cycle, with louvered sides, and 20,000 Btu/h or more    |                                   8.5                                    |                                      9.3                                       |
-|  14. With reverse cycle, without louvered sides, and 14,000 Btu/h or more   |                                   8.0                                    |                                      8.7                                       |
-|                              15. Casement-Only                              |                                   8.7                                    |                                      9.5                                       |
-|                             16. Casement-Slider                             |                                   9.5                                    |                                      10.4                                      |
+Table 3 to Paragraph (b)
+
+|                                                   Equipment class                                                    |Combined energy  <br/>efficiency ratio|
+|----------------------------------------------------------------------------------------------------------------------|--------------------------------------|
+|1. Without reverse cycle, with louvered sides, and with a certified cooling capacity<sup>1</sup> less than 6,000 Btu/h|                 11.0                 |
+|     2. Without reverse cycle, with louvered sides and with a certified cooling capacity of 6,000 to 7,999 Btu/h      |                 11.0                 |
+|     3. Without reverse cycle, with louvered sides and with a certified cooling capacity of 8,000 to 13,999 Btu/h     |                 10.9                 |
+|    4. Without reverse cycle, with louvered sides and with a certified cooling capacity of 14,000 to 19,999 Btu/h     |                 10.7                 |
+| 5a. Without reverse cycle, with louvered sides and with a certified cooling capacity of 20,000 Btu/h to 27,999 Btu/h |                 9.4                  |
+|     5b. Without reverse cycle, with louvered sides and with a certified cooling capacity of 28,000 Btu/h or more     |                 9.0                  |
+|    6. Without reverse cycle, without louvered sides, and with a certified cooling capacity less than 6,000 Btu/h     |                 10.0                 |
+|    7. Without reverse cycle, without louvered sides and with a certified cooling capacity of 6,000 to 7,999 Btu/h    |                 10.0                 |
+|   8a. Without reverse cycle, without louvered sides and with a certified cooling capacity of 8,000 to 10,999 Btu/h   |                 9.6                  |
+|  8b. Without reverse cycle, without louvered sides and with a certified cooling capacity of 11,000 to 13,999 Btu/h   |                 9.5                  |
+|   9. Without reverse cycle, without louvered sides and with a certified cooling capacity of 14,000 to 19,999 Btu/h   |                 9.3                  |
+|   10. Without reverse cycle, without louvered sides and with a certified cooling capacity of 20,000 Btu/h or more    |                 9.4                  |
+|      11. With reverse cycle, with louvered sides, and with a certified cooling capacity less than 20,000 Btu/h       |                 9.8                  |
+|     12. With reverse cycle, without louvered sides, and with a certified cooling capacity less than 14,000 Btu/h     |                 9.3                  |
+|      13. With reverse cycle, with louvered sides, and with a certified cooling capacity of 20,000 Btu/h or more      |                 9.3                  |
+|    14. With reverse cycle, without louvered sides, and with a certified cooling capacity of 14,000 Btu/h or more     |                 8.7                  |
+|                                                  15. Casement-Only                                                   |                 9.5                  |
+|                                                 16. Casement-Slider                                                  |                 10.4                 |
+
+<sup>1</sup> The certified cooling capacity is determined by the manufacturer in accordance with 10 CFR 429.15(a)(3).
+
+(2) The following standards apply to products manufactured starting May 26, 2026:
+
+Table 4 to Paragraph (b)(2)
+
+|                                                   Equipment class                                                    |Combined energy  <br/>efficiency ratio|
+|----------------------------------------------------------------------------------------------------------------------|--------------------------------------|
+|1. Without reverse cycle, with louvered sides, and with a certified cooling capacity<sup>1</sup> less than 6,000 Btu/h|                 13.1                 |
+|     2. Without reverse cycle, with louvered sides and with a certified cooling capacity of 6,000 to 7,900 Btu/h      |                 13.7                 |
+|     3. Without reverse cycle, with louvered sides and with a certified cooling capacity of 8,000 to 13,900 Btu/h     |                 16.0                 |
+|    4. Without reverse cycle, with louvered sides and with a certified cooling capacity of 14,000 to 19,900 Btu/h     |                 16.0                 |
+| 5a. Without reverse cycle, with louvered sides and with a certified cooling capacity of 20,000 Btu/h to 27,900 Btu/h |                 13.8                 |
+|     5b. Without reverse cycle, with louvered sides and with a certified cooling capacity of 28,000 Btu/h or more     |                 13.2                 |
+|    6. Without reverse cycle, without louvered sides, and with a certified cooling capacity less than 6,000 Btu/h     |                 12.8                 |
+|    7. Without reverse cycle, without louvered sides and with a certified cooling capacity of 6,000 to 7,900 Btu/h    |                 12.8                 |
+|   8a. Without reverse cycle, without louvered sides and with a certified cooling capacity of 8,000 to 10,900 Btu/h   |                 14.1                 |
+|  8b. Without reverse cycle, without louvered sides and with a certified cooling capacity of 11,000 to 13,900 Btu/h   |                 13.9                 |
+|   9. Without reverse cycle, without louvered sides and with a certified cooling capacity of 14,000 to 19,900 Btu/h   |                 13.7                 |
+|   10. Without reverse cycle, without louvered sides and with a certified cooling capacity of 20,000 Btu/h or more    |                 13.8                 |
+|      11. With reverse cycle, with louvered sides, and with a certified cooling capacity less than 20,000 Btu/h       |                 14.4                 |
+|     12. With reverse cycle, without louvered sides, and with a certified cooling capacity less than 14,000 Btu/h     |                 13.7                 |
+|      13. With reverse cycle, with louvered sides, and with a certified cooling capacity of 20,000 Btu/h or more      |                 13.7                 |
+|    14. With reverse cycle, without louvered sides, and with a certified cooling capacity of 14,000 Btu/h or more     |                 12.8                 |
+|                                                  15. Casement-Only                                                   |                 13.9                 |
+|                                                 16. Casement-Slider                                                  |                 15.3                 |
+
+<sup>1</sup> The certified cooling capacity is determined by the manufacturer in accordance with 10 CFR 429.15(a)(3).
 
 (c) *Central air conditioners and heat pumps.* The energy conservation standards defined in terms of the heating seasonal performance factor are based on Region IV, the minimum standardized design heating requirement, and the provisions of 10 CFR 429.16.
 

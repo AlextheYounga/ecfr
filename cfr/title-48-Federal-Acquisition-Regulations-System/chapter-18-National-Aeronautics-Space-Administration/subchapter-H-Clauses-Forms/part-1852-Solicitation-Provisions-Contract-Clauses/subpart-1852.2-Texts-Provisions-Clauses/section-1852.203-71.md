@@ -1,5 +1,7 @@
 ##### 1852.203-71 Requirement to inform employees of whistleblower rights. #####
 
+Link to an amendment published at 88 FR 47808, July 25, 2023.
+
 As prescribed in 1803.970, use the following clause:
 
 Requirement to Inform Employees of Whistleblower Rights (AUG 2014)

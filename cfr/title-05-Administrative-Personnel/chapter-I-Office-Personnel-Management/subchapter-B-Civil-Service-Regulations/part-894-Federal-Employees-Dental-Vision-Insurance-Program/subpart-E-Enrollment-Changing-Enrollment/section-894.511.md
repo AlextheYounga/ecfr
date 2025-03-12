@@ -8,6 +8,6 @@
 
 (3) Loss of eligibility of a previously enrolled *child* or *TEI child.*
 
-(b) You are an *employee, annuitant* or *compensationer* and your spouse deploys to active military service.
+(b) You are an *enrollee* and your spouse deploys to active military service.
 
-[83 FR 58180, Nov. 19, 2018]
+[83 FR 58180, Nov. 19, 2018, as amended at 88 FR 47748, July 25, 2023]

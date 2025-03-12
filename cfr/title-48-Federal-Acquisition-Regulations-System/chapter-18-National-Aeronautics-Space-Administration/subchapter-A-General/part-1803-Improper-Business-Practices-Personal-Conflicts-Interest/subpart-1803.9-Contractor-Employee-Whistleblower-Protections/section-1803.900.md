@@ -1,5 +1,7 @@
 ##### 1803.900 Scope of subpart. #####
 
+Link to an amendment published at 88 FR 47807, July 25, 2023.
+
 This subpart applies to NASA instead of FAR subpart 3.9.
 
 (a) This subpart implements 10 U.S.C. 2409 as amended by section 846 of the National Defense Authorization Act for Fiscal Year 2008 (Pub. L. 110-181), section 842 of the National Defense Authorization Act for Fiscal Year 2009 (Pub. L. 110-417), and section 827 of the National Defense Authorization Act for Fiscal Year 2013 (Pub. L. 112-239).

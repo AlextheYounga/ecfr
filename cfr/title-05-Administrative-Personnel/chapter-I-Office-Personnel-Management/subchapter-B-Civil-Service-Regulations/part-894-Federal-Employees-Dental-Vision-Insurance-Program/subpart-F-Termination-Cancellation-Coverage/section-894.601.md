@@ -1,8 +1,8 @@
 ##### § 894.601 When does my FEDVIP coverage stop? #####
 
-(a) If you no longer meet the definition of an eligible *employee* or *annuitant,* or *TEI,* your FEDVIP coverage stops at the end of the pay period in which you were last eligible.
+(a) If you no longer meet the definition of an eligible *employee* as set forth in § 894.101 or *annuitant,* or *TEI,* your FEDVIP coverage stops at the end of the pay period in which you were last eligible.
 
-(b) If you go into a period of nonpay or insufficient pay (or insufficient uniformed services pay or uniformed services retirement pay) and you do not make direct premium payments, your FEDVIP coverage stops at the end of the pay period for which your agency, retirement system, *OWCP,* uniformed services or uniformed services retirement system last deducted your premium payment. *Exception:* If you are an enrollee who is furloughed or excepted from furlough and working without pay during a lapse in appropriations, your FEDVIP coverage will not stop, and your enrollment may not be cancelled as a result of nonpayment of premiums or other periodic charges due. Pursuant to the National Defense Authorization Act for Fiscal Year 2020, Public Law 116-92, such continuation of coverage during a lapse in appropriations applies to any dental or vision contract under 5 U.S.C. chapters 89A and 89B entered into before, on, or after December 20, 2019.
+(b) If you go into a period of nonpay or insufficient pay (or insufficient uniformed services pay or uniformed services retirement pay) and you do not make direct premium payments, your FEDVIP coverage stops at the end of the pay period for which your agency, retirement system, *OWCP,* uniformed services or uniformed services retirement system last deducted your premium payment. *Exception:* If you are an *enrollee* who is furloughed or excepted from furlough and working without pay during a lapse in appropriations, your FEDVIP coverage will not stop, and your enrollment may not be cancelled as a result of nonpayment of premiums or other periodic charges due. Pursuant to the National Defense Authorization Act for Fiscal Year 2020, Public Law 116-92, such continuation of coverage during a lapse in appropriations applies to any dental or vision contract under 5 U.S.C. chapters 89A and 89B entered into before, on, or after December 20, 2019.
 
 (c) If you are making direct premium payments or payments by automatic bank withdrawal, and you stop making the payments, your FEDVIP coverage stops at the end of the pay period for which you last made a payment.
 
@@ -16,4 +16,6 @@
 
 (h) If your status as a uniformed services member on active duty discontinues and you become a uniformed services retiree, the FEDVIP vision plan enrollment of your *TEI family members* terminates and coverage for your *TEI family members* will stop at the end of the pay period for which the last premium payment was made. As the *sponsor* who is an *enrollee,* you would have to enroll yourself and reenroll all *TEI family members.* As *sponsor,* you must notify your *family members* of changes in your eligibility and enrollment status changes. *See* § 894.815.
 
-[73 FR 50184, Aug. 26, 2008, as amended at 83 FR 58180, Nov. 19, 2018; 86 FR 17274, Apr. 2, 2021]
+(i) If you are an *enrollee* or *sponsor* and cancel your enrollment pursuant to § 894.602(c), your cancellation will become effective at the end of the pay period that you submit your request.
+
+[73 FR 50184, Aug. 26, 2008, as amended at 83 FR 58180, Nov. 19, 2018; 86 FR 17274, Apr. 2, 2021; 88 FR 47748-47749, July 25, 2023]

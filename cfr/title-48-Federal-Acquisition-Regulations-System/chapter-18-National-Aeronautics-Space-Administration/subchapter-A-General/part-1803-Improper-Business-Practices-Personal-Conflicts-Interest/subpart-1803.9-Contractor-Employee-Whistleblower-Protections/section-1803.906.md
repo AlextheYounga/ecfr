@@ -1,5 +1,7 @@
 ##### 1803.906 Remedies. #####
 
+Link to an amendment published at 88 FR 47808, July 25, 2023.
+
 (a) Not later than 30 days after receiving a NASA Inspector General report in accordance with 1803.905, the head of the Agency shall determine whether sufficient basis exists to conclude that the contractor has subjected the complainant to a reprisal as prohibited by 1803.903 and shall either issue an order denying relief or shall take one or more of the following actions:
 
 (1) Order the contractor to take affirmative action to abate the reprisal.

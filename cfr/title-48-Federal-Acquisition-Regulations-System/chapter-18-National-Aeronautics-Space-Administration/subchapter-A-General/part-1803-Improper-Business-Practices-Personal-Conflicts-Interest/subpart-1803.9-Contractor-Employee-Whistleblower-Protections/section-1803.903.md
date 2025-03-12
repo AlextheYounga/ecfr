@@ -1,5 +1,7 @@
 ##### 1803.903 Policy. #####
 
+Link to an amendment published at 88 FR 47807, July 25, 2023.
+
 (a) *Policy.* 10 U.S.C. 2409 prohibits contractors or subcontractors from discharging, demoting, or otherwise discriminating against an employee as a reprisal for disclosing, to any of the entities listed at paragraph (b) of this section, information that the employee reasonably believes is evidence of gross mismanagement of a NASA contract, a gross waste of NASA funds, an abuse of authority relating to a NASA contract, a substantial and specific danger to public health or safety, or a violation of law, rule, or regulation related to a NASA contract (including the competition for or negotiation of a contract). Such reprisal is prohibited even if it is undertaken at the request of an executive branch official, unless the request takes the form of a non-discretionary directive and is within the authority of the executive branch official making the request.
 
 (b) Entities to whom disclosure may be made:

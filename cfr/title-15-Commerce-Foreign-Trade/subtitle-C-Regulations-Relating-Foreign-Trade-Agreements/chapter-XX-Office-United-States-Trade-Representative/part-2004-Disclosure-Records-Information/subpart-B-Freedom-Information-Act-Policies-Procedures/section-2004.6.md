@@ -12,12 +12,10 @@
 
 (2) *When will we grant expedited processing?* We will process requests and appeals on an expedited basis if we determine that:
 
-(i) Failure to obtain the records on an expedited basis could reasonably be expected to pose an imminent threat to the life or physical safety of an individual;
+(i) Failure to obtain the records on an expedited basis could reasonably be expected to pose an imminent threat to the life or physical safety of an individual; or
 
-(ii) With respect to a request made by a person primarily engaged in disseminating information, there is an urgency to inform the public about the specific government activity that is the subject of the request or appeal that extends beyond the public's right to know about government activity generally;
-
-(iii) An individual will suffer the loss of substantial due process rights; or
-
-(iv) the subject is of widespread and exceptional media interest and the information sought involves possible questions about the government's integrity that affect public confidence.
+(ii) With respect to a request made by a person primarily engaged in disseminating information, there is an urgency to inform the public about a specific actual or alleged Federal Government activity that is the subject of the request or appeal that extends beyond the public's right to know about government activity generally.
 
 (3) *When will we respond to your request for expedited processing?* We will notify you within ten calendar days of the receipt of a request for expedited processing of our decision whether to grant or deny expedited processing. If we grant your request, we will give your request or appeal priority, place it in the processing track for expedited requests, and process it as soon as practicable. If we deny your request, we will process any appeal of that decision expeditiously.
+
+[81 FR 90717, Dec. 15, 2016, as amended at 88 FR 47772, July 25, 2023]

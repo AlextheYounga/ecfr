@@ -1,6 +1,6 @@
 ##### § 894.101 Definitions. #####
 
-This part is written as if the reader were an applicant or enrollee. Accordingly, the terms “you,” “your,” etc., refer, as appropriate, to the applicant or enrollee.
+This part is written as if the reader were an applicant or *enrollee*. Accordingly, the terms “you,” “your,” etc., refer, as appropriate, to the applicant or *enrollee*.
 
 *Acquiring an eligible child* means one of the following:
 
@@ -10,17 +10,17 @@ This part is written as if the reader were an applicant or enrollee. Accordingly
 
 (3) Acquisition of a foster child as described in § 890.101(a)(8) of this chapter;
 
-(4) Acquisition of a stepchild who lives with the enrollee in a regular parent-child relationship;
+(4) Acquisition of a stepchild who lives with the *enrollee* in a regular parent-child relationship;
 
 (5) Establishment of a recognized natural child;
 
-(6) Residence change of the enrollee's stepchild or recognized natural child who moves in with the enrollee; and
+(6) Residence change of the *enrollee's* stepchild or recognized natural child who moves in with the *enrollee*; and
 
 (7) An otherwise eligible child becoming unmarried due to divorce or annulment of marriage, or death.
 
 *Administrator* means the entity with which the Office of Personnel Management contracts to manage the enrollment and premium payment process for the Federal Employees Dental and Vision Insurance Program (FEDVIP).
 
-*Annuitant* means an individual defined at 5 U.S.C. 8901(3). Generally, the term means a former employee who is entitled to an immediate annuity or a disability annuity under a retirement system established for employees. The term also generally includes those receiving a survivor annuity due to the death of a Federal employee or annuitant (survivor annuitants) and those receiving compensation from the Office of Workers' Compensation Programs (compensationers). The term does not include former employees who retire with a deferred annuity under 5 U.S.C. 8413, or former spouses of annuitants.
+*Annuitant* means an individual defined at 5 U.S.C. 8901(3). Generally, the term means a former *employee* or *employee* of the United States Postal Service who is entitled to an immediate annuity or a disability annuity under a retirement system established for *employees.* The term also generally includes those receiving a survivor annuity due to the death of an *employee* or *employee* of the United States Postal Service or annuitant (survivor annuitants) and those receiving compensation from the Office of Workers' Compensation Programs (compensationers). The term does not include former *employees* who retire with a deferred annuity under 5 U.S.C. 8413, or former spouses of annuitants.
 
 *Carrier* means a company with which the Office of Personnel Management contracts to provide dental and/or vision benefits.
 
@@ -32,7 +32,7 @@ This part is written as if the reader were an applicant or enrollee. Accordingly
 
 (ii) An adopted child;
 
-(iii) A stepchild or foster child who lives with the enrollee in a regular parent-child relationship; or
+(iii) A stepchild or foster child who lives with the *enrollee* in a regular parent-child relationship; or
 
 (iv) A recognized natural child.
 
@@ -46,17 +46,17 @@ This part is written as if the reader were an applicant or enrollee. Accordingly
 
 *Compensationer* means an individual who is receiving compensation and who the Department of Labor determines is unable to return to duty.
 
-*Covered position* means a position in which an employee is not excluded from FEDVIP eligibility by law or regulation.
+*Covered position* means a position in which an *employee* is not excluded from FEDVIP eligibility by law or regulation.
 
 *Days* means calendar days.
 
-*Dependent* means an unmarried child who is living with or receiving regular and substantial support from the enrollee.
+*Dependent* means an unmarried child who is living with or receiving regular and substantial support from the *enrollee*.
 
-*Employee* means an individual defined in 5 U.S.C. 8901. For the purposes of this subpart, the term employee additionally means an employee of the United States Postal Service and an employee of the District of Columbia courts.
+*Employee* means an individual defined in 5 U.S.C. 8901. For the purposes of this subpart, the term *employee* additionally means an employee of the United States Postal Service and an *employee* of the District of Columbia courts.
 
-*Enrollee* means the individual in whose name the FEDVIP enrollment is carried. There is one FEDVIP enrollment for each *enrollee* in a dental plan, and/or in a vision plan and that enrollment may include *family members* who may be covered by the enrollment. The term *enrollee* includes individuals eligible to enroll based upon a status described at subpart C of this part, who enroll and are covered. With respect to the Federal workforce, *enrollee* generally means an *employee* or *annuitant.* With respect to *a TEI, enrollee* generally means the *sponsor* who is a *TEI* with respect to a FEDVIP plan; but if the *sponsor* is not a *TEI,* or for FEDVIP dental benefits if the *sponsor* defined at 894.804 is not enrolled and meets a condition at § 894.309(a)(3)(iii), then *enrollee* means the *TEI certifying family member.* A *TEI former spouse* may be an *enrollee* only for a self-only FEDVIP vision plan. An *enrollee* may enroll and elect a FEDVIP dental and/or vision plan, option, and *type of enrollment,* except as provided at § 894.309.
+*Enrollee* means the individual in whose name the FEDVIP enrollment is carried. There is one FEDVIP enrollment for each *enrollee* in a dental plan, and/or in a vision plan and that enrollment may include *family members* who may be covered by the enrollment. The term *enrollee* includes individuals eligible to enroll based upon a status described at subpart C of this part, who enroll and are covered. With respect to the Federal workforce, an *enrollee* generally means an *employee* or *annuitant.* With respect to the United States Postal Service, an *enrollee* generally means an *employee* or *annuitant* of the United States Postal Service. With respect to a *TEI,* an *enrollee* generally means the *sponsor* who is a *TEI* with respect to a FEDVIP plan; but if the *sponsor* is not a *TEI,* or for FEDVIP dental benefits if the *sponsor* defined at § 894.804 is not enrolled and meets a condition at § 894.309(a)(3)(iii), then enrollee means the *TEI certifying family member.* A *TEI former spouse* may be an enrollee only for a self-only FEDVIP vision plan. An *enrollee* may enroll and elect a FEDVIP dental and/or vision plan, option, and type of enrollment, except as provided at § 894.309.
 
-*Enrollment reconsideration* means the Administrator's review of its initial enrollment decision to determine if it followed the law and regulations correctly in making the initial decision concerning FEDVIP eligibility.
+*Enrollment reconsideration* means the *Administrator's* review of its initial enrollment decision to determine if it followed the law and regulations correctly in making the initial decision concerning FEDVIP eligibility.
 
 *Family member* means a spouse (including a spouse under a valid common law marriage) and/or unmarried dependent child(ren) under age 22 or beyond age 22, if incapable of self-support because of mental or physical disability which existed before reaching age 22, as defined at 5 U.S.C. 8901(5). With respect to a *TEI,* the term *family member* means a *TEI family member.*
 
@@ -64,21 +64,17 @@ This part is written as if the reader were an applicant or enrollee. Accordingly
 
 *OWCP* means the Office of Workers' Compensation Programs, U.S. Department of Labor.
 
-*Premium conversion* means the payment of FEDVIP premiums using pre-tax dollars. See § 892.102 of this chapter for a discussion of how premium conversion works.
+*Premium conversion* means the payment of FEDVIP premiums by an *employee* or United States Postal Service employee using pre-tax dollars. See § 892.102 of this chapter for a discussion of how *premium conversion* works.
 
 *QLE* means a qualifying life event.
 
-*Recognized natural child* means a biological child born outside of marriage. A recognized natural child is an eligible family member if the child lives with the enrollee or receives financial support from the enrollee.
+*Recognized natural child* means a biological child born outside of marriage. A recognized natural child is an eligible family member if the child lives with the *enrollee* or receives financial support from the *enrollee*.
 
-*Regular parent-child relationship* means that the enrollee is exercising parental authority, responsibility, and control over the child; is caring for, supporting the child; and is making the decisions about the child's education and medical care.
+*Regular parent-child relationship* means that the *enrollee* is exercising parental authority, responsibility, and control over the child; is caring for, supporting the child; and is making the decisions about the child's education and medical care.
 
 *Sponsor* generally means the individual who is eligible for medical or dental benefits under 10 U.S.C. chapter 55 based on his or her direct affiliation with the uniformed services (including members of the National Guard and Reserves), in accordance with § 894.804.
 
-*Stepchild* means:
-
-(1) Except as provided in paragraph (2) of this definition, the *child* of an *enrollee'*s spouse or domestic partner and shall continue to refer to such *child* after the *enrollee's* divorce from the spouse, termination of the domestic partnership, or death of the spouse or domestic partner, so long as the *child* continues to live with the *enrollee* in a regular parent-child relationship.
-
-(2) Your spouse's child born within or outside marriage or his or her adopted child. The child of your spouse shall continue to be considered your stepchild after your divorce from your spouse or the death of your spouse so long as the child continues to live with you in a regular parent-child relationship.
+*Stepchild* means your spouse's child born within or outside marriage or their adopted child. The child of your spouse shall continue to be considered your stepchild after your divorce from your spouse or the death of your spouse so long as the child continues to live with you in a regular parent-child relationship.
 
 *TEI* means *TRICARE-eligible individual for FEDVIP dental benefits (TEI-D)* or a *TRICARE-eligible individual for FEDVIP vision benefits (TEI-V).*
 
@@ -104,4 +100,4 @@ This part is written as if the reader were an applicant or enrollee. Accordingly
 
 (3) Self and family.
 
-[73 FR 50184, Aug. 26, 2008, as amended at 78 FR 64879, Oct. 30, 2013; 81 FR 86906, Dec. 2, 2016; 83 FR 32193, July 12, 2018; 83 FR 58177, Nov. 19, 2018; 84 FR 1599, Feb. 5, 2019; 84 FR 26544, June 7, 2019]
+[73 FR 50184, Aug. 26, 2008, as amended at 78 FR 64879, Oct. 30, 2013; 81 FR 86906, Dec. 2, 2016; 83 FR 32193, July 12, 2018; 83 FR 58177, Nov. 19, 2018; 84 FR 1599, Feb. 5, 2019; 84 FR 26544, June 7, 2019; 88 FR 47745, 47749, July 25, 2023]
