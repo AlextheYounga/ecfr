@@ -1,10 +1,6 @@
 ##### § 803.33 If I am a user facility, what must I include when I submit an annual report? #####
 
-(a) You must submit to us an annual report on Form FDA 3419. You must submit an annual report by January 1, of each year. You may obtain this form from the following sources:
-
-(1) On the Internet at: *http://www.fda.gov/downloads/AboutFDA/ReportsManualsForms/Forms/UCM080796.pdf* or
-
-(2) Division of International and Consumer Education, Center for Devices and Radiological Health, Food and Drug Administration, 10903 New Hampshire Ave., Bldg. 66, Rm. 4621, Silver Spring, MD 20993-0002, by email: *DICE@fda.hhs.gov,* FAX: 301-847-8149, or telephone: 800-638-2041.
+(a) You must submit to us an annual report on Form FDA 3419. You must submit an annual report by January 1, of each year. You may obtain this form on the internet at: *https://www.fda.gov/media/72292/download.*
 
 (b) You must clearly identify your annual report as such. You must submit your annual report to FDA, CDRH, Medical Device Reporting, P.O. Box 3002, Rockville, MD 20847-3002. Your annual report must include:
 
@@ -38,4 +34,4 @@
 
 (d) If you did not submit any medical device reports to manufacturers or us during the time period, you do not need to submit an annual report.
 
-[79 FR 8846, Feb. 14, 2014, as amended at 80 FR 10587, Feb. 27, 2015]
+[79 FR 8846, Feb. 14, 2014, as amended at 80 FR 10587, Feb. 27, 2015; 85 FR 18442, Apr. 2, 2020]

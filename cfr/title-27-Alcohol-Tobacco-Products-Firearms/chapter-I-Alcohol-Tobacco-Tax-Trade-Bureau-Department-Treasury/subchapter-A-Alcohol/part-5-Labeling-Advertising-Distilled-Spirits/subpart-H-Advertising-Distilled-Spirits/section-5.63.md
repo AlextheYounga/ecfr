@@ -1,5 +1,7 @@
 ##### § 5.63 Mandatory statements. #####
 
+Link to an amendment published at 85 FR 18725, Apr. 2, 2020.
+
 (a) *Responsible advertiser.* The advertisement shall state the name and address of the permittee responsible for its publication or broadcast. Street number and name may be omitted in the address.
 
 (b) *Class and type.* The advertisement shall contain a conspicuous statement of the class to which the product belongs and the type thereof corresponding with the statement of class and type which is required to appear on the label of the product.

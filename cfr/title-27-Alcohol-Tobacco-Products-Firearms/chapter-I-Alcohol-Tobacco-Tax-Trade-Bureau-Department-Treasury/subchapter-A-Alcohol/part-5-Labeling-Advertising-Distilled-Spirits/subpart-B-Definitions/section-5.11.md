@@ -1,5 +1,7 @@
 ##### § 5.11 Meaning of terms. #####
 
+Link to an amendment published at 85 FR 18723, Apr. 2, 2020.
+
 When used in this part and in forms prescribed under this part, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof, terms shall have the meaning ascribed in this section. Any other term defined in the Federal Alcohol Administration Act and used in this part shall have the same meaning assigned to it by such Act.
 
 *Act.* The Federal Alcohol Administration Act.

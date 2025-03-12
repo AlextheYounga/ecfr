@@ -1,5 +1,7 @@
 ##### § 5.40 Statements of age and percentage. #####
 
+Link to an amendment published at 85 FR 18723, Apr. 2, 2020.
+
 (a) *Statements of age and percentage for whisky.* In the case of straight whisky bottled in conformity with the bottled in bond labeling requirements and of domestic or foreign whisky, whether or not mixed or blended, all of which is 4 years old or more, statements of age and percentage are optional. As to all other whiskies there shall be stated the following:
 
 (1) In the case of whisky, whether or not mixed or blended but containing no neutral spirits, the age of the youngest whisky. The age statement shall read substantially as follows: “\_\_\_ years old.”

@@ -38,7 +38,7 @@
 
 (e) *What are the standard conditions for this permit?* In addition to the general permit conditions set forth in part 13 of this chapter, rehabilitation permits are subject to the following conditions:
 
-(1) *Facilities.* You must conduct the activities authorized by this permit in appropriate facilities that are approved and identified on the face of your permit. In evaluating whether caging dimensions are adequate, the Service will use as a guideline the standards developed by the National Wildlife Rehabilitators Association and the International Wildlife Rehabilitation Council (*Minimum Standards for Wildlife Rehabilitation, 2000*).1/\> The Regional Migratory Bird Permit Office will authorize variation from the standards where doing so is reasonable and necessary to accommodate a particular rehabilitator's circumstances, unless a determination is made that such variation will jeopardize migratory birds. However, except as provided by paragraph (f)(2)(i) of this section, all facilities must adhere to the following criteria:
+(1) *Facilities.* You must conduct the activities authorized by this permit in appropriate facilities that are approved and identified on the face of your permit. In evaluating whether caging dimensions are adequate, the Service will use as a guideline the standards developed by the National Wildlife Rehabilitators Association and the International Wildlife Rehabilitation Council (*Minimum Standards for Wildlife Rehabilitation, 2000*).1 The Regional Migratory Bird Permit Office will authorize variation from the standards where doing so is reasonable and necessary to accommodate a particular rehabilitator's circumstances, unless a determination is made that such variation will jeopardize migratory birds. However, except as provided by paragraph (f)(2)(i) of this section, all facilities must adhere to the following criteria:
 
 1 Copies may be obtained by contacting either the National Wildlife Rehabilitators Association: 14 North 7th Avenue, St. Cloud MN 56303-4766, *http://www.nwawildlife.org/default.asp;* or the International Wildlife Rehabilitation Council: 829 Bancroft Way, Berkeley, CA 94710, *http://www.iwrc-online.org.*
 
@@ -124,7 +124,7 @@
 
 (iii) You must notify your issuing Migratory Bird Permit Office of any migratory birds in your possession within 24 hours of removing such birds from the area.
 
-(2) *Conditions specific to oil and hazardous waste spills* - (i) *Facilities.* Facilities used at the scene of oil or hazardous waste spills may be temporary and/or mobile, and may provide less space and protection from noise and disturbance than facilities authorized under paragraph (e)(1) of this section. Such facilities should conform as closely as possible with the facility specifications contained in the Service policy titled *Best Practices for Migratory Bird Care During Oil Spill Response.*2/\>
+(2) *Conditions specific to oil and hazardous waste spills* - (i) *Facilities.* Facilities used at the scene of oil or hazardous waste spills may be temporary and/or mobile, and may provide less space and protection from noise and disturbance than facilities authorized under paragraph (e)(1) of this section. Such facilities should conform as closely as possible with the facility specifications contained in the Service policy titled *Best Practices for Migratory Bird Care During Oil Spill Response.*2
 
 2 You can obtain copies of this document by writing to the Division of Environmental Review at the address provided at 50 CFR 2.1(b).
 

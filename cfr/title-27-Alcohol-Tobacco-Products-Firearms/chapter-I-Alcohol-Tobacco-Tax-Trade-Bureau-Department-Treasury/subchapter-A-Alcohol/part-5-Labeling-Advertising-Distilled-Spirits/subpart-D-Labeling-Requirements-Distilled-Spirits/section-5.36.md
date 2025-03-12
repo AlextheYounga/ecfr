@@ -1,5 +1,7 @@
 ##### § 5.36 Name and address. #####
 
+Link to an amendment published at 85 FR 18723, Apr. 2, 2020.
+
 (a) *“Bottled by”.* (1) On labels of domestic distilled spirits there shall be stated the phrase “bottled by”, “packed by”, or “filled by”, immediately followed by the name (or trade name) of the bottler and the place where such distilled spirits are bottled. If the bottler is the actual bona fide operator of more than one distilled spirits plant engaged in bottling operations, there may, in addition, be stated immediately following the name (or trade name) of such bottler the addresses of such other plants.
 
 (2) Where distilled spirits are bottled by or for the distiller thereof, there may be stated, in lieu of the phrase “bottled by”, “packed by”, or “filled by”, followed by the bottler's name (or trade name) and address, the phrase “distilled by”, followed by the name, or the trade name under which the particular spirits were distilled, or (except in the case of distilled spirits labeled as bottled in bond) any trade name shown on the distiller's permit (covering the premises where the particular spirits were distilled), and the address (or addresses) of the distiller.

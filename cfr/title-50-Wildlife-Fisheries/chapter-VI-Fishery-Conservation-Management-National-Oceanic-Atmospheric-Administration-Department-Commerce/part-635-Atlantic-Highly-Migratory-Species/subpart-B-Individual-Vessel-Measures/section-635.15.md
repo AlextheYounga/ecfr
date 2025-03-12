@@ -58,7 +58,7 @@
 
 (3) *Conditions and restrictions of leased IBQ allocation* - (i) *Subleasing.* In a fishing year, an IBQ allocation may be leased numerous times following the process specified in paragraph (c)(2) of this section.
 
-(ii) *History of leased IBQ allocation use.* The fishing history associated with the catch of bluefin tuna will be associated with the vessel that caught the bluefin tuna regardless of how the vessel acquired the IBQ allocation (*e.g.,* through initial allocation or lease), for the purpose of calculation of the performance metrics described under § 635.14(b), or other relevant restrictions based upon bluefin catch.
+(ii) *History of leased IBQ allocation use.* The fishing history associated with the catch of bluefin tuna will be associated with the vessel that caught the bluefin tuna, regardless of how the vessel acquired the IBQ allocation (*e.g.,* through initial allocation or lease), for the purpose of any relevant restrictions based upon bluefin tuna catch.
 
 (iii) *Duration of IBQ allocation lease.* IBQ allocations expire at the end of each calendar year. Thus, an IBQ lessee may only use the leased IBQ allocation during the fishing year in which the IBQ allocation is applicable.
 
@@ -102,4 +102,4 @@
 
 (iv) *Supporting documentation for IAD or appeal.* NMFS will consider official NMFS logbook records or weighout slips for landings between January 1, 2006, through December 31, 2012, that were submitted to NMFS prior to March 2, 2013 (60 days after the cutoff date for eligible landings) and verifiable sales slips, receipts from registered dealers, state landings records, and permit records as supporting documentation for a request or appeal under paragraph (k)(4) of this section. NMFS will count only those designated species landings that were landed legally when the owner had a valid permit. No other proof of catch history or species interactions will be considered, except for NMFS logbook records, observer data, or other NMFS data. NMFS permit records will be the sole basis for determining permit transfers. Copies of documents may be submitted, provided they are of equal legibility and quality as the originals, and such copies shall have the same force and effect as if they were originals. NMFS may request the originals at a later date. NMFS may refer any submitted materials that are of questionable authenticity to the NMFS Office of Enforcement for investigation.
 
-[79 FR 71591, Dec. 2, 2014, as amended at 81 FR 95909, Dec. 29, 2016; 82 FR 61497, Dec. 28, 2017; 83 FR 33154, July 17, 2018]
+[79 FR 71591, Dec. 2, 2014, as amended at 81 FR 95909, Dec. 29, 2016; 82 FR 61497, Dec. 28, 2017; 83 FR 33154, July 17, 2018; 85 FR 18841, Apr. 2, 2020]

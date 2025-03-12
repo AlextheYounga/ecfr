@@ -18,7 +18,7 @@
 
 (3) Manufacturers and assemblers of equipment used for mammography may apply for alternatives to the standards of § 900.12(b) and (e).
 
-(c) *Applications for approval of an alternative standard.* An application for approval of an alternative standard or for an amendment or extension of the alternative standard shall be submitted in an original and two copies to the Food and Drug Administration, Center for Devices and Radiological Health, Director, Division of Mammography Quality and Radiation Programs, 10903 New Hampshire Ave., Bldg. 66, rm. 4521, Silver Spring, MD 20993-0002. The application for approval of an alternative standard shall include the following information:
+(c) *Applications for approval of an alternative standard.* An application for approval of an alternative standard or for an amendment or extension of the alternative standard shall be submitted in an original and two copies to the Food and Drug Administration, Center for Devices and Radiological Health, Director, Division of Mammography Quality Standards, 10903 New Hampshire Ave., Bldg. 66, Rm. 3621, Silver Spring, MD 20993-0002. The application for approval of an alternative standard shall include the following information:
 
 (1) Identification of the original standard for which the alternative standard is being proposed and an explanation of why the applicant is proposing the alternative;
 
@@ -56,4 +56,4 @@
 
 (g) *Withdrawal of approval of alternative requirements.* FDA shall amend or withdraw approval of an alternative standard whenever the agency determines that this action is necessary to protect the human health or otherwise is justified by § 900.12. Such action will become effective on the date specified in the written notice of the action sent to the applicant, except that it will become effective immediately upon notification of the applicant when FDA determines that such action is necessary to prevent an imminent health hazard.
 
-[62 FR 55976, Oct. 28, 1997; 62 FR 60614, Nov. 10, 1997, as amended at 75 FR 20916, Apr. 22, 2010]
+[62 FR 55976, Oct. 28, 1997; 62 FR 60614, Nov. 10, 1997, as amended at 75 FR 20916, Apr. 22, 2010; 85 FR 18444, Apr. 2, 2020]

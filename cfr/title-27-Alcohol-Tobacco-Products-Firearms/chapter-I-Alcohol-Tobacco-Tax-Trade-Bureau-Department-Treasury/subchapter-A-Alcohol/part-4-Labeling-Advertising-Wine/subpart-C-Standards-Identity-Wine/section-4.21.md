@@ -1,5 +1,7 @@
 ##### § 4.21 The standards of identity. #####
 
+Link to an amendment published at 85 FR 18721, Apr. 2, 2020.
+
 Standards of identity for the several classes and types of wine set forth in this part shall be as follows:
 
 (a) *Class 1; grape wine* - (1) *Grape wine* is wine produced by the normal alcoholic fermentation of the juice of sound, ripe grapes (including restored or unrestored pure condensed grape must), with or without the addition, after fermentation, of pure condensed grape must, and with or without added grape brandy or alcohol, but without other addition or abstraction except as may occur in cellar treatment: *Provided,* That the product may be ameliorated before, during or after fermentation by either of the following methods:

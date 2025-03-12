@@ -1,6 +1,6 @@
 ##### § 830.110 Application for accreditation as an issuing agency. #####
 
-(a) *Application for initial accreditation.* (1) An applicant seeking initial FDA accreditation as an issuing agency shall notify FDA of its desire to be accredited by sending a notification by email to: *GUDIDSupport@fda.hhs.gov,* or by correspondence to: UDI Regulatory Policy Support, Center for Devices and Radiological Health, Food and Drug Administration, 10903 New Hampshire Ave., Bldg. 66, Rm. 3303, Silver Spring, MD 20993-0002.
+(a) *Application for initial accreditation.* (1) An applicant seeking initial FDA accreditation as an issuing agency shall notify FDA of its desire to be accredited by sending a notification by email to: *GUDIDSupport@fda.hhs.gov,* or by correspondence to: UDI Regulatory Policy Support, Center for Devices and Radiological Health, Food and Drug Administration, 10903 New Hampshire Ave., Bldg. 32, Rm. 3293, Silver Spring, MD 20993-0002.
 
 (2) FDA will provide the applicant with additional information to aid in submission of an application for approval as an issuing agency, together with an email address for submission of an application.
 
@@ -56,4 +56,4 @@
 
 (f) *Term of accreditation.* The initial term of accreditation for an issuing agency shall be for a period of 3 years. An issuing agency's term of accreditation may be periodically renewed for a period of 7 years.
 
-[78 FR 55825, Sept. 24, 2013, as amended at 81 FR 11429, Mar. 4, 2016]
+[78 FR 58825, Sept. 24, 2013, as amended at 81 FR 11429, Mar. 4, 2016; 85 FR 18443, Apr. 2, 2020]

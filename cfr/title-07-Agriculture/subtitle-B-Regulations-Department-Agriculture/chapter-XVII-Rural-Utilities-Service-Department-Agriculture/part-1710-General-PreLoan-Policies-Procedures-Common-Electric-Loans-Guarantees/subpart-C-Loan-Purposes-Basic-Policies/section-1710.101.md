@@ -4,7 +4,9 @@
 
 (1) The retail electric service needs of rural areas, or
 
-(2) The power supply needs of distribution borrowers under the terms of power supply arrangements satisfactory to RUS.
+(2) The power supply needs of distribution borrowers under the terms of power supply arrangement satisfactory to RUS, or
+
+(3) Eligible purposes under the Rural Energy Savings Program, including energy efficiency, renewable energy, energy storage or energy conservation measures and related services, improvements, investments, financing or relending.
 
 (b) In making loans, RUS gives preference to states, territories, and subdivisions and agencies thereof; municipalities; people's utility districts; and cooperative, nonprofit, or limited-dividend associations. RUS does not make direct loans to individual consumers.
 
@@ -24,4 +26,4 @@
 
 (g) Former borrowers that have prepaid all, or portions of outstanding insured and direct loans in accordance with RUS regulations must comply with the provisions of 7 CFR part 1786 before being considered eligible to borrow additional funds from RUS.
 
-[58 FR 66264, Dec. 20, 1993, as amended at 78 FR 73365, Dec. 5, 2013]
+[58 FR 66264, Dec. 20, 1993, as amended at 78 FR 73365, Dec. 5, 2013; 85 FR 18418, Apr. 2, 2020]

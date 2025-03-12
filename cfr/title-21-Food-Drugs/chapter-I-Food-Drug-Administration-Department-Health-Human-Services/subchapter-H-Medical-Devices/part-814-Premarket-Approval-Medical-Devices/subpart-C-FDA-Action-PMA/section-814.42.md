@@ -10,7 +10,7 @@
 
 (1) Resubmit the PMA with additional information necessary to comply with the requirements of section 515(c)(1) (A)-(G) of the act and § 814.20. A resubmitted PMA shall include the PMA reference number of the original submission. If the resubmitted PMA is accepted for filing, the date of filing is the date FDA receives the resubmission;
 
-(2) Request in writing within 10 working days of the date of receipt of the notice refusing to file the PMA, an informal conference with the Director of the Office of Device Evaluation to review FDA's decision not to file the PMA. FDA will hold the informal conference within 10 working days of its receipt of the request and will render its decision on filing within 5 working days after the informal conference. If, after the informal conference, FDA accepts the PMA for filing, the date of filing will be the date of the decision to accept the PMA for filing. If FDA does not reverse its decision not to file the PMA, the applicant may request reconsideration of the decision from the Director of the Center for Devices and Radiological Health, the Director of the Center for Biologics Evaluation and Research, or the Director of the Center for Drug Evaluation and Research, as applicable. The Director's decision will constitute final administrative action for the purpose of judicial review.
+(2) Request in writing within 10 working days of the date of receipt of the notice refusing to file the PMA, an informal conference with the Director of the associated Office of Health Technology to review FDA's decision not to file the PMA. FDA will hold the informal conference within 10 working days of its receipt of the request and will render its decision on filing within 5 working days after the informal conference. If, after the informal conference, FDA accepts the PMA for filing, the date of filing will be the date of the decision to accept the PMA for filing. If FDA does not reverse its decision not to file the PMA, the applicant may request reconsideration of the decision from the Director of the Office of Product Evaluation and Quality, the Director of the Center for Biologics Evaluation and Research, or the Director of the Center for Drug Evaluation and Research, as applicable. The Director's decision will constitute final administrative action for the purpose of judicial review.
 
 (e) FDA may refuse to file a PMA if any of the following applies:
 
@@ -24,4 +24,4 @@
 
 (5) The PMA is not accompanied by a statement of either certification or disclosure as required by part 54 of this chapter.
 
-[51 FR 26364, July 22, 1986, as amended at 63 FR 5254, Feb. 2, 1998; 73 FR 49942, Aug. 25, 2008]
+[51 FR 26364, July 22, 1986, as amended at 63 FR 5254, Feb. 2, 1998; 73 FR 49942, Aug. 25, 2008; 85 FR 18442, Apr. 2, 2020]

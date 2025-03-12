@@ -1,5 +1,7 @@
 ##### § 5.22 The standards of identity. #####
 
+Link to an amendment published at 85 FR 18723, Apr. 2, 2020.
+
 Standards of identity for the several classes and types of distilled spirits set forth in this section shall be as follows (see also § 5.35, class and type):
 
 (a) *Class 1; neutral spirits or alcohol.* “Neutral spirits” or “alcohol” are distilled spirits produced from any material at or above 190° proof, and, if bottled, bottled at not less than 80° proof.
@@ -112,7 +114,7 @@ Standards of identity for the several classes and types of distilled spirits set
 
 (2) Only such geographical names for distilled spirits as the appropriate TTB officer finds have by usage and common knowledge lost their geographical significance to such extent that they have become generic shall be deemed to have become generic. Examples at London dry gin, Geneva (Hollands) gin.
 
-(3) Geographical names that are not names for distinctive types of distilled spirits, and that have not become generic, shall not be applied to distilled spirits produced in any other place than the particular place or region indicated in the name. Examples are Armagnac, Greek brandy, , Jamaica rum, Puerto Rico rum, Demerara rum.
+(3) Geographical names that are not names for distinctive types of distilled spirits, and that have not become generic, shall not be applied to distilled spirits produced in any other place than the particular place or region indicated in the name. Examples are Armagnac, Greek brandy, Jamaica rum, Puerto Rico rum, Demerara rum.
 
 (4) The words “Scotch”, “Scots” “Highland”, or “Highlands” and similar words connoting, indicating, or commonly associated with Scotland, shall not be used to designate any product not wholly produced in Scotland.
 

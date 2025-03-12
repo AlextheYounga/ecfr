@@ -1,6 +1,6 @@
 ##### § 92.31 Region-specific regulations. #####
 
-The 2019 season dates for the eligible subsistence-harvest areas are as follows:
+The season dates for the eligible subsistence-harvest areas are as follows:
 
 (a) *Aleutian/Pribilof Islands region.* (1) Northern Unit (Pribilof Islands):
 
@@ -144,4 +144,4 @@ The 2019 season dates for the eligible subsistence-harvest areas are as follows:
 
 (ii) Closure: July 1-August 31.
 
-[84 FR 12951, Apr. 3, 2019]
+[84 FR 12951, Apr. 3, 2019, as amended at 85 FR 18459, Apr. 2, 2020]

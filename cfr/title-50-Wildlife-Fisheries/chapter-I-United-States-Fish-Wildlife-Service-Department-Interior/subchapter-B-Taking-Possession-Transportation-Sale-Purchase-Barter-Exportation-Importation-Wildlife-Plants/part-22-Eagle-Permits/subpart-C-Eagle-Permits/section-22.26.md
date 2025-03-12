@@ -96,11 +96,11 @@
 
 (B) The duration of the survey for each visit to each sample plot must be at least 1 hour.
 
-(C) Sampling must include at least 12 hours per sample plot per year for 2 or more years. Each sample plot must be sampled at least once per month, and the survey start time for a sampling period must be selected randomly from daylight hours,1/\> unless the conditions in paragraph (d)(3)(ii)(F) of this section apply.
+(C) Sampling must include at least 12 hours per sample plot per year for 2 or more years. Each sample plot must be sampled at least once per month, and the survey start time for a sampling period must be selected randomly from daylight hours,1 unless the conditions in paragraph (d)(3)(ii)(F) of this section apply.
 
 1 Daylight hours are defined as the hours between sunrise and sunset.
 
-(D) Sampling design must be spatially representative of the project footprint,2/\> and spatial coverage of sample plots must include at least 30 percent of the project footprint. Sample plot locations must be determined randomly, unless the conditions in paragraph (d)(3)(ii)(F) of this section apply.
+(D) Sampling design must be spatially representative of the project footprint,2 and spatial coverage of sample plots must include at least 30 percent of the project footprint. Sample plot locations must be determined randomly, unless the conditions in paragraph (d)(3)(ii)(F) of this section apply.
 
 2 The project footprint is the minimum-convex polygon that encompasses the wind-project area inclusive of the hazardous area around all turbines and any associated utility infrastructure, roads, etc.
 

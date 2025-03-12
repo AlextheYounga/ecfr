@@ -18,7 +18,7 @@
 
 (1) If the device is regulated by the Center for Biologics Evaluation and Research (CBER), by email to: *cberudirequests@fda.hhs.gov* or by correspondence to: Food and Drug Administration, Center for Biologics Evaluation and Research, Document Control Center, 10903 New Hampshire Ave., Bldg. 71, Rm. G112, Silver Spring, MD 20993.
 
-(2) In all other cases, by email to: *GUDIDSupport@fda.hhs.gov,* or by correspondence to: UDI Regulatory Policy Support, Center for Devices and Radiological Health, Food and Drug Administration, 10903 New Hampshire Ave., Bldg. 66, Rm. 3303, Silver Spring, MD 20993-0002.
+(2) In all other cases, by email to: *GUDIDSupport@fda.hhs.gov,* or by correspondence to: UDI Regulatory Policy Support, Center for Devices and Radiological Health, Food and Drug Administration, 10903 New Hampshire Ave., Bldg. 32, Rm. 3293, Silver Spring, MD 20993-0002.
 
 (c) The Center Director may grant an exception or alternative, either in response to a request or on his or her own initiative, if the Center Director determines that an exception is appropriate because the requirements of this subpart are not technologically feasible, or that an alternative would provide for more accurate, precise, or rapid device identification than the requirements of this subpart or would better ensure the safety or effectiveness of the device that would be subject to the alternative. If we grant an exception or alternative, we may include any safeguards or conditions deemed appropriate to ensure the adequate identification of the device through its distribution and use. Any labeler may make use of an exception or alternative granted under this section, provided that such use satisfies all safeguards or conditions that are part of the exception or alternative.
 
@@ -26,4 +26,4 @@
 
 (e) The Center Director may rescind an exception or alternative granted under this section if, after providing an opportunity for an informal hearing as defined in section 201(x) of the Federal Food, Drug, and Cosmetic Act and under part 16 of this chapter, the Center Director determines that the exception or alternative no longer satisfies the criteria described in this paragraph (e) or that any safeguard or condition required under this paragraph (e) has not been met.
 
-[78 FR 58818, Sept. 24, 2013, as amended at 80 FR 18093, Apr. 3, 2015; 81 FR 11428, Mar. 4, 2016]
+[78 FR 58818, Sept. 24, 2013, as amended at 80 FR 18093, Apr. 3, 2015; 81 FR 11428, Mar. 4, 2016; 85 FR 18441, Apr. 2, 2020]

@@ -2,7 +2,7 @@
 
 (a) A manufacturer, importer, or distributor may seek an exemption or variance from one or more requirements of this part.
 
-(b) A request for an exemption or variance shall be submitted in the form of a petition under § 10.30 of this chapter and shall comply with the requirements set out therein, except that a response shall be issued in 90 days. The Director or Deputy Directors, CDRH, or the Director, Office of Compliance, CDRH, shall issue responses to requests under this section. The petition shall also contain the following:
+(b) A request for an exemption or variance shall be submitted in the form of a petition under § 10.30 of this chapter and shall comply with the requirements set out therein, except that a response shall be issued in 90 days. The Director or Deputy Directors, CDRH, or the Director of the Office of Regulatory Program, CDRH, shall issue responses to requests under this section. The petition shall also contain the following:
 
 (1) The name of the device and device class and representative labeling showing the intended use(s) of the device;
 
@@ -14,4 +14,4 @@
 
 (c) An exemption or variance is not effective until the Director, Office of Compliance, CDRH, approves the request under § 10.30(e)(2)(i) of this chapter.
 
-[58 FR 43447, Aug. 16, 1993, as amended at 59 FR 31138, June 17, 1994; 67 FR 5951, Feb. 8, 2002; 72 FR 17399, Apr. 9, 2007]
+[58 FR 43447, Aug. 16, 1993, as amended at 59 FR 31138, June 17, 1994; 67 FR 5951, Feb. 8, 2002; 72 FR 17399, Apr. 9, 2007; 85 FR 18443, Apr. 2, 2020]

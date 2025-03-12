@@ -1,6 +1,6 @@
 ##### § 238.8 Safe and sound operations. #####
 
-Link to an amendment published at 85 FR 12426, Mar. 2, 2020.
+Link to an amendment published at 85 FR 12426, Mar. 2, 2020.This amendment was delayed until Sept. 30, 2020, at 85 FR 18427, Apr. 2, 2020.
 
 (a) *Savings and loan holding company policy and operations.* (1) A savings and loan holding company shall serve as a source of financial and managerial strength to its subsidiary savings associations and shall not conduct its operations in an unsafe or unsound manner.
 

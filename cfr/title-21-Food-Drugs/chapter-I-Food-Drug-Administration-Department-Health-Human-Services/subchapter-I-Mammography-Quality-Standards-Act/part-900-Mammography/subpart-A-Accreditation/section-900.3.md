@@ -2,7 +2,7 @@
 
 (a) *Eligibility.* Private nonprofit organizations or State agencies capable of meeting the requirements of this subpart A may apply for approval as accreditation bodies.
 
-(b) *Application for initial approval.* (1) An applicant seeking initial FDA approval as an accreditation body shall inform the Division of Mammography Quality Standards, Center for Devices and Radiological Health, Food and Drug Administration, 10903 New Hampshire Ave., Bldg. 66, Rm. 4445, Silver Spring, MD 20993, Attn: Program Management Branch, of its desire to be approved as an accreditation body and of its requested scope of authority.
+(b) *Application for initial approval.* (1) An applicant seeking initial FDA approval as an accreditation body shall inform the Division of Mammography Quality Standards, Center for Devices and Radiological Health, Food and Drug Administration, 10903 New Hampshire Ave., Bldg. 66, Rm. 3621, Silver Spring, MD 20993, Attn: Program Management Branch, of its desire to be approved as an accreditation body and of its requested scope of authority.
 
 (2) Following receipt of the request, FDA will provide the applicant with additional information to aid in submission of an application for approval as an accreditation body.
 
@@ -90,4 +90,4 @@
 
 (g) *Scope of authority.* An accreditation body's term of approval is for a period not to exceed 7 years. FDA may limit the scope of accreditation authority.
 
-[62 FR 55976, Oct. 28, 1997; 62 FR 60614, Nov. 10, 1997, as amended at 83 FR 13864, Apr. 2, 2018]
+[62 FR 55976, Oct. 28, 1997; 62 FR 60614, Nov. 10, 1997, as amended at 83 FR 13864, Apr. 2, 2018; 85 FR 18443, Apr. 2, 2020]

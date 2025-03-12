@@ -1,5 +1,7 @@
 ##### § 5.35 Class and type. #####
 
+Link to an amendment published at 85 FR 18723, Apr. 2, 2020.
+
 (a) *Designation of product.* The class and type of distilled spirits shall be stated in conformity with § 5.22 if defined therein. In all other instances the product shall be designated in accordance with trade and consumer understanding thereof, or, if no such understanding exists, by a distinctive or fanciful name, and in either case (except as provided in paragraph (b)(2) of this section) followed by a truthful and adequate statement of composition. The word “cordial” or “liqueur” need not be stated in the case of cordials and liqueurs unless the appropriate TTB officer finds such word is necessary to clearly indicate that the product is a cordial or liqueur.
 
 (b) *Products designed in accordance with trade and consumer understanding.* In the case of products designated in accordance with trade and consumer understanding:

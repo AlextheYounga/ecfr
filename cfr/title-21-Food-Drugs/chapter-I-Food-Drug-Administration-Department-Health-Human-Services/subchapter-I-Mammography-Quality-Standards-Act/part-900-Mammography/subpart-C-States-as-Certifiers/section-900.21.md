@@ -2,7 +2,7 @@
 
 (a) *Eligibility.* State agencies may apply for approval as a certification agency if they have standards at least as stringent as those of § 900.12, qualified personnel, adequate resources to carry out the States as Certifiers' responsibilities, and the authority to enter into a legal agreement with FDA to accept these responsibilities.
 
-(b) *Application for approval.* (1) An applicant seeking FDA approval as a certification agency shall inform the Food and Drug Administration, Center for Devices and Radiological Health, Director, Division of Mammography Quality and Radiation Programs, Attn: States as Certifiers Coordinator, 10903 New Hampshire Ave., Bldg. 66, rm. 4521, Silver Spring, MD 20993-0002, in writing, of its desire to be approved as a certification agency.
+(b) *Application for approval.* (1) An applicant seeking FDA approval as a certification agency shall inform the Food and Drug Administration, Center for Devices and Radiological Health, Director, Division of Mammography Quality Standards, Attn: Program Management Branch, 10903 New Hampshire Ave., Bldg. 66, Rm. 3621, Silver Spring, MD 20993-0002, in writing, of its desire to be approved as a certification agency.
 
 (2) Following receipt of the written request, FDA will provide the applicant with additional information to aid in the submission of an application for approval as a certification agency.
 
@@ -58,4 +58,4 @@
 
 (d) *Scope of authority.* FDA may limit the scope of certification authority delegated to the State in accordance with MQSA.
 
-[62 FR 55976, Oct. 28, 1997; 62 FR 60614, Nov. 10, 1997, as amended at 75 FR 20916, Apr. 22, 2010]
+[62 FR 55976, Oct. 28, 1997; 62 FR 60614, Nov. 10, 1997, as amended at 75 FR 20916, Apr. 22, 2010; 85 FR 18444, Apr. 2, 2020]

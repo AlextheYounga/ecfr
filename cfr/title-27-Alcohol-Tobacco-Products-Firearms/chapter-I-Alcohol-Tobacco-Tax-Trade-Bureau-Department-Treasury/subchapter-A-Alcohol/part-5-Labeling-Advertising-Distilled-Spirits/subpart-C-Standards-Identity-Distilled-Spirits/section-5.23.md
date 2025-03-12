@@ -1,5 +1,7 @@
 ##### § 5.23 Alteration of class and type. #####
 
+Link to an amendment published at 85 FR 18723, Apr. 2, 2020.
+
 (a) *Additions.* (1) The addition of any coloring, flavoring, or blending materials to any class and type of distilled spirits, except as otherwise provided in this section, alters the class and type thereof and the product shall be appropriately redesignated.
 
 (2) There may be added to any class or type of distilled spirits, without changing the class or type thereof, (i) such harmless coloring, flavoring, or blending materials as are an essential component part of the particular class or type of distilled spirits to which added, and (ii) harmless coloring, flavoring, or blending materials such as caramel, straight malt or straight rye malt whiskies, fruit juices, sugar, infusion of oak chips when approved by the Administrator, or wine, which are not an essential component part of the particular distilled spirits to which added, but which are customarily employed therein in accordance with established trade usage, if such coloring, flavoring, or blending materials do not total more than 21/2 percent by volume of the finished product.

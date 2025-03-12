@@ -10,7 +10,7 @@
 
 (4) Updates to device listing information as required by §§ 807.22(b), 807.25, and 807.28, including updates to reflect the discontinuance or resumption of the commercial distribution of a previously-listed device as specified at paragraphs (d) and (e) of § 807.28.
 
-(b) If the information under § 807.21(a) cannot be submitted electronically, a waiver may be requested. Waivers will be granted only if use of electronic means is not reasonable for the person requesting the waiver. To request a waiver, applicants must send a letter to the Office of Compliance, Center for Devices and Radiological Health, Food and Drug Administration, 10903 New Hampshire Ave., Bldg. 66, rm. 2621, Silver Spring, MD 20993-0002, that includes the following information:
+(b) If the information under § 807.21(a) cannot be submitted electronically, a waiver may be requested. Waivers will be granted only if use of electronic means is not reasonable for the person requesting the waiver. To request a waiver, applicants must send a letter to the Imports and Registration and Listing Team, Division of Regulatory Programs 2, Office of Regulatory Programs, Office of Product Evaluation and Quality, Center for Devices and Radiological Health, Food and Drug Administration, 10903 New Hampshire Ave., Bldg. 66, Rm.1432, Silver Spring, MD 20993-0002, that includes the following information:
 
 (1) The name and address of the device establishment(s) to be registered, a contact person for the owner or operator of the establishment, and the telephone number at which that person can be reached. If the establishment has already registered in the past, the letter should also include the owner or operator number, registration number, and any listing numbers previously assigned by FDA for devices manufactured at that establishment.
 
@@ -22,4 +22,4 @@
 
 (d) When additional device listing information (e.g., copies of labeling or advertisements) is requested by FDA as described at § 807.26(e), such information may be submitted by postal mail or electronically by email, but will not be submitted using the FDA electronic device registration and listing system.
 
-[77 FR 45941, Aug. 2, 2012]
+[77 FR 45941, Aug. 2, 2012, as amended at 85 FR 18442, Apr. 2, 2020]

@@ -1,5 +1,7 @@
 ##### § 19.356 Alcohol content and fill. #####
 
+Link to an amendment published at 85 FR 18726, Apr. 2, 2020.
+
 (a) *General.* At representative intervals during bottling operations, a proprietor must examine and test bottled spirits to determine whether the alcohol content and quantity (fill) of those spirits agree with what is stated on the label or the bottle. A proprietor's test procedures must be adequate to ensure accuracy of labels on the bottled product. Proprietors must record the results of all tests of alcohol content and quantity (fill) in the record required by § 19.600.
 
 (b) *Variations in fill.* Quantity (fill) must be kept as close to 100 percent fill as the equipment and bottles in use will permit. There must be approximately the same number of overfills and underfills for each lot bottled. In no case will the quantity contained in a bottle vary from the quantity stated on the label or bottle by more than plus or minus:

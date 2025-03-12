@@ -1,5 +1,7 @@
 ##### § 5.32 Mandatory label information. #####
 
+Link to an amendment published at 85 FR 18723, Apr. 2, 2020.
+
 There shall be stated:
 
 (a) On the brand label:

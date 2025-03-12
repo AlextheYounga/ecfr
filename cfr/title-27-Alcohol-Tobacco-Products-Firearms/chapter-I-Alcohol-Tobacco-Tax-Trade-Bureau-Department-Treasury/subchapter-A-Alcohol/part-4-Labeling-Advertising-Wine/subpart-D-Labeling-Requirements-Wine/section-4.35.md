@@ -1,5 +1,7 @@
 ##### § 4.35 Name and address. #####
 
+Link to an amendment published at 85 FR 18722, Apr. 2, 2020.
+
 (a) *American wine* - (1) *Mandatory statement.* A label on each container of American wine shall state either “bottled by” or “packed by” followed by the name of the bottler or packer and the address (in accordance with paragraph (c)) of the place where the wine was bottled or packed. Other words may also be stated in addition to the required words “bottled by” or “packed by” and the required name and address if the use of such words is in accordance with paragraph (a)(2) of this section.
 
 (2) *Optional statements.* (i) In addition to the statement required by paragraph (a)(1), the label may also state the name and address of any other person for whom the wine was bottled or packed, immediately preceded by the words “bottled for” or “packed for” or “distributed by.”

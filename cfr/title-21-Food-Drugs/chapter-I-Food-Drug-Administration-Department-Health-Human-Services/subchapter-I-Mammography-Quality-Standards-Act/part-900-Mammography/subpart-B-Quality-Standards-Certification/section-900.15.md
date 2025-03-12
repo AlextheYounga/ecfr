@@ -14,7 +14,7 @@
 
 (3) In accordance with the procedures set forth in subpart B of 42 CFR part 498, a facility that has been denied accreditation following appeal to the accreditation body may request reconsideration of that adverse decision from DMQRP.
 
-(i) A facility must request reconsideration by DMQRP within 60 days of the accreditation body's adverse appeals decision, at the following address: Food and Drug Administration, Center for Devices and Radiological Health, Division of Mammography Quality and Radiation Programs, Attn: Facility Accreditation Review Committee, 10903 New Hampshire Ave., Bldg. 66, rm. 4521, Silver Spring, MD 20993-0002.
+(i) A facility must request reconsideration by DMQS within 60 days of the accreditation body's adverse appeals decision, at the following address: Food and Drug Administration, Center for Devices and Radiological Health, Division of Mammography Quality Standards, Attn: Facility Accreditation Review Committee, 10903 New Hampshire Ave., Bldg. 66, Rm. 3621, Silver Spring, MD 20993-0002.
 
 (ii) The request for reconsideration shall include three copies of the following records:
 
@@ -34,4 +34,4 @@
 
 (6) A facility cannot perform mammography services while an adverse accreditation decision is being appealed.
 
-[62 FR 55976, Oct. 28, 1997; 62 FR 60614, Nov. 10, 1997, as amended at 75 FR 20916, Apr. 22, 2010]
+[62 FR 55976, Oct. 28, 1997; 62 FR 60614, Nov. 10, 1997, as amended at 75 FR 20916, Apr. 22, 2010; 85 FR 18443, Apr. 2, 2020]

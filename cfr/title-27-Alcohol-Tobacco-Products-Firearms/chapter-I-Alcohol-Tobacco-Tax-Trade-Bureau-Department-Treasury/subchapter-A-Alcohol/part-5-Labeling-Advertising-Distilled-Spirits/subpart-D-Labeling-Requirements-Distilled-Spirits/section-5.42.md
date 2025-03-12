@@ -1,5 +1,7 @@
 ##### § 5.42 Prohibited practices. #####
 
+Link to an amendment published at 85 FR 18724, Apr. 2, 2020.
+
 (a) *Statements on labels.* Bottles containing distilled spirits, or any labels on such bottles, or any individual covering, carton, or other container of such bottles used for sale at retail, or any written, printed, graphic, or other matter accompanying such bottles to the consumer shall not contain:
 
 (1) Any statement that is false or untrue in any particular, or that, irrespective of falsity, directly, or by ambiguity, omission, or inference, or by the addition of irrelevant, scientific or technical matter, tends to create a misleading impression.

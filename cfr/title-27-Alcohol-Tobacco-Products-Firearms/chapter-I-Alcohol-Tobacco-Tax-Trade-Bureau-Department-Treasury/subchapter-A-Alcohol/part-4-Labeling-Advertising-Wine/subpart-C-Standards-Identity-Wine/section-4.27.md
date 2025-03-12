@@ -1,5 +1,7 @@
 ##### § 4.27 Vintage wine. #####
 
+Link to an amendment published at 85 FR 18722, Apr. 2, 2020.
+
 (a) *General.* Vintage wine is wine labeled with the year of harvest of the grapes and made in accordance with the standards prescribed in classes 1, 2, or 3 of § 4.21. The wine must be labeled with an appellation of origin. The appellation must be shown in direct conjunction with the designation required by § 4.32(a)(2), in lettering substantially as conspicuous as that designation. In no event may the quantity of wine removed from the producing winery, under labels bearing a vintage date, exceed the volume of vintage wine produced in that winery during the year indicated by the vintage date. The following additional rules apply to vintage labeling:
 
 (1) If an American or imported wine is labeled with a viticultural area appellation of origin (or its foreign equivalent), at least 95 percent of the wine must have been derived from grapes harvested in the labeled calendar year; or

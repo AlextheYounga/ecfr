@@ -1,0 +1,3 @@
+##### § 1719.1 Purpose. #####
+
+This part establishes policies and procedures for the implementation of the Rural Energy Savings Program (RESP) under Section 6407 of the Farm Security and Rural Investment Act of 2002, as amended, by the Rural Utilities Service (RUS). It is the purpose of this part to help rural families and small businesses achieve cost savings by providing loans through eligible entities to qualified consumers to implement durable cost-effective energy efficiency measures.

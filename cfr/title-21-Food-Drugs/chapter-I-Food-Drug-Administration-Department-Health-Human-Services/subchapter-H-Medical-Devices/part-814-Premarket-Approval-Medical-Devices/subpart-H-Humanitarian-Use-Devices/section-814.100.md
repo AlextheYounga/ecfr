@@ -20,10 +20,10 @@
 
 (1) Obtaining designation of the device as a HUD from FDA's Office of Orphan Products Development, and
 
-(2) Submitting an HDE to the Office of Device Evaluation (ODE), Center for Devices and Radiological Health (CDRH), the Center for Biologics Evaluation and Research (CBER), or the Center for Drug Evaluation and Research (CDER), as applicable.
+(2) Submitting an HDE to the Office of Product Evaluation and Quality (OPEQ), Center for Devices and Radiological Health (CDRH), the Center for Biologics Evaluation and Research (CBER), or the Center for Drug Evaluation and Research (CDER), as applicable.
 
 (f) A person granted an exemption under section 520(m) of the act shall submit periodic reports as described in § 814.126(b).
 
 (g) FDA may suspend or withdraw approval of an HDE after providing notice and an opportunity for an informal hearing.
 
-[61 FR 33244, June 26, 1996, as amended at 63 FR 59220, Nov. 3, 1998; 73 FR 49942, Aug. 25, 2008; 79 FR 1740, Jan. 10, 2014; 82 FR 26349, June 7, 2017]
+[61 FR 33244, June 26, 1996, as amended at 63 FR 59220, Nov. 3, 1998; 73 FR 49942, Aug. 25, 2008; 79 FR 1740, Jan. 10, 2014; 82 FR 26349, June 7, 2017; 85 FR 18442, Apr. 2, 2020]
