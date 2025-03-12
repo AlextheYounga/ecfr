@@ -1,5 +1,7 @@
 ##### § 512.220 RO participant compliance with RO Model requirements. #####
 
+Link to an amendment published at 86 FR 63995, Nov. 16, 2021.
+
 (a) *RO participant-specific requirements.* (1) RO participants must satisfy the requirements of this section to qualify for the APM Incentive Payment.
 
 (2) Each Professional participant and Dual participant must ensure its individual practitioners:

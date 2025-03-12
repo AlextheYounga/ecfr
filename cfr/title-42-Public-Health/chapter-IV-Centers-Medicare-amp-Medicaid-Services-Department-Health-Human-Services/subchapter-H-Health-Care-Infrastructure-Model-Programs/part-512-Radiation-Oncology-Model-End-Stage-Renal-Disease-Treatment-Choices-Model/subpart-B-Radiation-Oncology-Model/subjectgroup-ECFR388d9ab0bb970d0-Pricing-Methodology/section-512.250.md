@@ -1,5 +1,7 @@
 ##### § 512.250 Determination of national base rates. #####
 
+Link to an amendment published at 86 FR 63996, Nov. 16, 2021.
+
 CMS determines a national base rate for the PC and TC for each included cancer type.
 
 (a) National base rates are the historical average cost for an episode of care for each of the included cancer types prior to the Model performance period.

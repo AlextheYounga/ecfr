@@ -1,5 +1,7 @@
 ##### § 512.275 Quality measures, clinical data, and reporting. #####
 
+Link to an amendment published at 86 FR 63996, Nov. 16, 2021.
+
 (a) *Data privacy compliance.* The RO participant must -
 
 (1) Comply with all applicable laws pertaining to any patient-identifiable data requested from CMS under the terms of the Innovation Center model, including any patient-identifiable derivative data, as well as the terms of any attestation or agreement entered into by the RO participant with CMS as a condition of receiving that data. Such laws may include, without limitation, the privacy and security rules promulgated under the Health Insurance Portability and Accountability Act of 1996 (HIPAA), as modified, and the Health Information Technology for Economic and Clinical Health Act (HITECH).

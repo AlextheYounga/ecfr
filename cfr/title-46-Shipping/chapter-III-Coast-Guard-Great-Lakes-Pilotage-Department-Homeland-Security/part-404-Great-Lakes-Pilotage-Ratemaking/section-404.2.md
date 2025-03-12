@@ -14,7 +14,7 @@
 
 (5) *Profit sharing for non-pilot association employees.* These association expenses are recognizable.
 
-(6) *Legal Expenses.* These association expenses are recognizable except for any and all expenses associated with legal action against the U.S. Coast Guard or its agents in relation to the ratemaking and oversight requirements in 46 U.S.C. 9303, 9304 and 9305.
+(6) *Legal expenses.* These association expenses are recognizable except for any and all expenses associated with legal action against the U.S. Coast Guard or its agents in relation to the ratemaking and oversight requirements in 46 U.S.C. 9303, 9304 and 9305.
 
 (c) The Director does not recognize the following expense items as necessary and reasonable within the meaning of paragraph (a) of this section:
 

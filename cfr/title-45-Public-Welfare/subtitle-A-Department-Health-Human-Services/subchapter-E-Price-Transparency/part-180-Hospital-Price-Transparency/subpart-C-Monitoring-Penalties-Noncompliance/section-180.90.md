@@ -1,5 +1,7 @@
 ##### § 180.90 Civil monetary penalties. #####
 
+Link to an amendment published at 86 FR 63998, Nov. 16, 2021.
+
 (a) *Basis for imposing civil monetary penalties.* CMS may impose a civil monetary penalty on a hospital identified as noncompliant according to § 180.70, and that fails to respond to CMS' request to submit a corrective action plan or comply with the requirements of a corrective action plan as described in § 180.80(d).
 
 (b) *Notice of imposition of a civil monetary penalty.* (1) If CMS imposes a penalty in accordance with this part, CMS provides a written notice of imposition of a civil monetary penalty to the hospital via certified mail or another form of traceable carrier.

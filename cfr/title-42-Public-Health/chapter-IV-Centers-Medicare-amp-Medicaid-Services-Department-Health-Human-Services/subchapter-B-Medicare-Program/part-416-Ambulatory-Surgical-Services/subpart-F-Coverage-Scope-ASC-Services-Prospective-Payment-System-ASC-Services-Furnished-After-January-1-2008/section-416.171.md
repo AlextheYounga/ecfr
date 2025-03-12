@@ -1,5 +1,7 @@
 ##### § 416.171 Determination of payment rates for ASC services. #####
 
+Link to an amendment published at 86 FR 63993, Nov. 16, 2021.
+
 (a) *Standard methodology.* The standard methodology for determining the national unadjusted payment rate for ASC services is to calculate the product of the applicable conversion factor and the relative payment weight established under § 416.167(b), unless otherwise indicated in this section.
 
 (1) *Conversion factor for CY 2008.* CMS calculates a conversion factor so that payment for ASC services furnished in CY 2008 would result in the same aggregate amount of expenditures as would be made if the provisions in this Subpart F did not apply, as estimated by CMS.

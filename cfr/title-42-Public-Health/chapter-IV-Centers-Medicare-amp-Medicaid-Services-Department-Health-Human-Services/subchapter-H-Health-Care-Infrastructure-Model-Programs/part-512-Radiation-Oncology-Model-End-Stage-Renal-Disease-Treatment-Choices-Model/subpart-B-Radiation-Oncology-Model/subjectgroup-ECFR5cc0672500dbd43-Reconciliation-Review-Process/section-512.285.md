@@ -1,5 +1,7 @@
 ##### § 512.285 Reconciliation process. #####
 
+Link to an amendment published at 86 FR 63997, Nov. 16, 2021.
+
 (a) *General.* CMS conducts an initial reconciliation and a true-up reconciliation for each RO participant for each PY in accordance with this section.
 
 (b) *Annual reconciliation calculations.* (1) To determine the reconciliation payment or the repayment amount based on RO episodes initiated in a PY, CMS performs the following steps:

@@ -164,4 +164,4 @@ Note 2: A container must be equipped with a pressure relief device that will pre
 |                                     625 psig                                     |                            86                             |       80        |
 |                        Design service temperature °C (°F)                        |                     −196 °C (−320 °F)                     |−196 °C (−320 °F)|
 
-[67 FR 51647, Aug. 8, 2002, as amended at 68 FR 24661, May 8, 2003; 68 FR 57632, Oct. 6, 2003; 68 FR 75742, Dec. 31, 2003; 70 FR 34076, June 13, 2005; 72 FR 4456, Jan. 31, 2007; 72 FR 55098, Sept. 28, 2007; 73 FR 4719, Jan. 28, 2008; 81 FR 3676, Jan. 21, 2016; 85 FR 83400, Dec. 21, 2020; 85 FR 85416, Dec. 28, 2020]
+[67 FR 51647, Aug. 8, 2002, as amended at 68 FR 24661, May 8, 2003; 68 FR 57632, Oct. 6, 2003; 68 FR 75742, Dec. 31, 2003; 70 FR 34076, June 13, 2005; 72 FR 4456, Jan. 31, 2007; 72 FR 55098, Sept. 28, 2007; 73 FR 4719, Jan. 28, 2008; 81 FR 3676, Jan. 21, 2016; 85 FR 85416, Dec. 28, 2020]

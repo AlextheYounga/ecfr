@@ -2,8 +2,6 @@
 
 All RUS borrowers shall maintain and keep their books of accounts and all other books and records which support the entries in such books of accounts in accordance with the accounting principles prescribed in this section. Interpretations Nos. 133, 134, 137, 403, 404, 602, 606, 618, 627, 628, and 629 adopt and implement the provisions of standards issued by the Financial Accounting Standards Board (FASB). Each interpretation includes a synopsis of the requirements of the standard as well as specific accounting requirements and interpretations required by RUS. The synopsis provides general information to assist borrowers in determining whether the standard applies to an individual cooperative's operations. The synopsis is not intended to change the requirements of the FASB standards unless it is set forth in the section entitled RUS Accounting Requirements in each interpretation. If a particular borrower believes a conflict exists between the FASB standard and an RUS interpretation, the borrower shall contact the Director, PASD, to seek resolution of the issue.
 
-Numerical Index
-
 |Num-  <br/>ber|                                                     Title                                                     |
 |--------------|---------------------------------------------------------------------------------------------------------------|
 |     101      |                                             Work Order Procedures                                             |
@@ -26,7 +24,7 @@ Numerical Index
 |     118      |                                            Load Control Equipment                                             |
 |     119      |                                               Special Equipment                                               |
 |     120      |                                           Meter Sockets and Meters                                            |
-|     121      |                                         Minimum - Maximum Voltmeters                                          |
+|     121      |                                          Minimum—Maximum Voltmeters                                           |
 |     122      |                                          Retrofitting Demand Meters                                           |
 |     123      |                                            Transformer Conversions                                            |
 |     124      |                                                 Transclosures                                                 |
@@ -91,64 +89,62 @@ Numerical Index
 |     631      |                                        Special Early Retirement Plan.                                         |
 |     633      |                                              Cushion of Credit.                                               |
 
-Subject Matter Index
-
 |                                                                                                  |Number|
 |--------------------------------------------------------------------------------------------------|------|
 |                                                A                                                 |      |
-|                                       Abandonments - Plant                                       | 133  |
-|                                 Acquisition Adjustments - Plant                                  | 131  |
+|                                        Abandonments—Plant                                        | 133  |
+|                                  Acquisition Adjustments—Plant                                   | 131  |
 |                                       Advertising Expenses                                       | 611  |
-|                                 Assignments - Patronage Capital                                  | 501  |
+|                                  Assignments—Patronage Capital                                   | 501  |
 |                                      Attendance at Meetings                                      | 608  |
-|                          Automatic Meter Reading Systems - Radio-Based                           | 140  |
-|                            Automatic Meter Reading Systems - Turtles                             | 138  |
-|                            Availability of Service - Determination of                            | 112  |
+|                           Automatic Meter Reading Systems—Radio-Based                            | 140  |
+|                             Automatic Meter Reading Systems—Turtles                              | 138  |
+|                             Availability of Service—Determination of                             | 112  |
 |                                                B                                                 |      |
-|                                       Benefits - Employee                                        | 601  |
-|                                    Bonds - Pollution Control                                     | 624  |
-|                  Borrowing - Power Supply Cooperative/Distribution Cooperative                   | 616  |
-|                             Buildings - Continuing Property Records                              | 127  |
-|                           Buildings, Office - Gain or Loss on Sale of                            | 129  |
+|                                        Benefits—Employee                                         | 601  |
+|                                     Bonds—Pollution Control                                      | 624  |
+|                   Borrowing—Power Supply Cooperative/Distribution Cooperative                    | 616  |
+|                              Buildings—Continuing Property Records                               | 127  |
+|                            Buildings, Office—Gain or Loss on Sale of                             | 129  |
 |                                                C                                                 |      |
 |                                    Cable Television Services                                     | 623  |
-|                                   Capital Credits - Assignment                                   | 501  |
-|                                Capital Credits - G&T Cooperative                                 | 504  |
-|                           Capital Credits - Other Service Cooperatives                           | 505  |
-|                                   Capital Credits - Retirement                                   | 502  |
+|                                    Capital Credits—Assignment                                    | 501  |
+|                                 Capital Credits—G&T Cooperative                                  | 504  |
+|                            Capital Credits—Other Service Cooperatives                            | 505  |
+|                                    Capital Credits—Retirement                                    | 502  |
 |                                       Compensated Absences                                       | 602  |
 |                                     Computer Software Costs                                      | 401  |
 |                                Consolidated Financial Statements                                 | 404  |
 |                   Construction Work in Progress Damaged or Destroyed by Storm                    | 114  |
-|                             Continuing Property Records - Buildings                              | 127  |
-|                          Continuing Property Records - Establishment of                          | 126  |
-|                                  Contributions - Nonrefundable                                   | 116  |
-|                                        Conversion - Line                                         | 102  |
-|                                     Conversion - Transformer                                     | 123  |
+|                              Continuing Property Records—Buildings                               | 127  |
+|                           Continuing Property Records—Establishment of                           | 126  |
+|                                   Contributions—Nonrefundable                                    | 116  |
+|                                         Conversion—Line                                          | 102  |
+|                                      Conversion—Transformer                                      | 123  |
 |                                        Cushion of Credit                                         | 633  |
-|                                 Customers' Deposits - Forfeited                                  | 301  |
+|                                  Customers' Deposits—Forfeited                                   | 301  |
 |                                                D                                                 |      |
 |                        Damaged or Destroyed Construction Work in Progress                        | 114  |
-|                                       Damages - Liquidated                                       | 115  |
-|                                       Debt - Prepayment of                                       | 625  |
-|                                 Debt Securities - Investments in                                 | 629  |
+|                                        Damages—Liquidated                                        | 115  |
+|                                        Debt—Prepayment of                                        | 625  |
+|                                  Debt Securities—Investments in                                  | 629  |
 |                                      Deferred Compensation                                       | 604  |
-|                                   Demand Meters - Retrofitting                                   | 122  |
+|                                    Demand Meters—Retrofitting                                    | 122  |
 |                             Determination of Availability of Service                             | 113  |
 |                                   Disallowances of Plant Costs                                   | 133  |
-|                                   Disconnect Switch - Pole Top                                   | 105  |
+|                                    Disconnect Switch—Pole Top                                    | 105  |
 |   Discounts Allowed by Power Cooperative to Distribution Cooperative Owning Transmission Lines   | 617  |
 |                   Distribution Cooperative/Power Supply Cooperative Borrowing                    | 616  |
 |                                                E                                                 |      |
 |                                      Early Retirement Plan                                       | 631. |
 |                           Economic Development Loan and Grant Program                            | 626  |
 |                                        Employee Benefits                                         | 601  |
-|                                Equity Securities - Investments in                                | 629  |
+|                                 Equity Securities—Investments in                                 | 629  |
 |                                                F                                                 |      |
-|                                         Fees - Statewide                                         | 615  |
+|                                          Fees—Statewide                                          | 615  |
 |                                        Financial Forecast                                        | 610  |
-|                               Financial Statements - Consolidated                                | 404  |
-|                                     Financing - Supplemental                                     | 201  |
+|                                Financial Statements—Consolidated                                 | 404  |
+|                                      Financing—Supplemental                                      | 201  |
 |                       First Clearing and Grading of Land and Rights of Way                       | 110  |
 |                                   Forfeited Customer Deposits                                    | 301  |
 |                                    Forfeited Membership Fees                                     | 506  |
@@ -160,19 +156,19 @@ Subject Matter Index
 |                                                I                                                 |      |
 |                                 Impairment of Long-Lived Assets                                  | 137  |
 |                                     In-substance Defeasance                                      | 622  |
-|                            Insurance - Employee Retirement and Group                             | 603  |
-|                        Insurance - Premium on Life of a Borrower Employee                        | 605  |
-|                                     Insurance - Split Dollar                                     | 630  |
+|                             Insurance—Employee Retirement and Group                              | 603  |
+|                         Insurance—Premium on Life of a Borrower Employee                         | 605  |
+|                                      Insurance—Split Dollar                                      | 630  |
 |                                          Integrity Fund                                          | 621  |
 |                            Investments in Debt and Equity Securities                             | 629  |
 |                                                J                                                 |      |
 |                                            Joint Use                                             | 109  |
 |                                                L                                                 |      |
-|                                Land - First Clearing and Grading                                 | 110  |
+|                                 Land—First Clearing and Grading                                  | 110  |
 |                                              Leases                                              | 403  |
 |                                          Legal Expenses                                          | 402  |
 |                      Life Insurance Premiums on Life of a Borrower Employee                      | 605  |
-|                                  Life Insurance - Split Dollar                                   | 630  |
+|                                   Life Insurance—Split Dollar                                    | 630  |
 |                                         Line Conversion                                          | 102  |
 |                                         Line Relocations                                         | 135  |
 |                                        Liquidated Damages                                        | 115  |
@@ -181,18 +177,18 @@ Subject Matter Index
 |                                                M                                                 |      |
 |                                    Maintenance and Operations                                    | 609  |
 |                                          Mapping Costs                                           | 613  |
-|                               Margins - Operating and Nonoperating                               | 503  |
-|                                 Material - Salvage and Obsolete                                  | 130  |
-|                         Materials and Supplies - Refund for Overpayments                         | 117  |
+|                                Margins—Operating and Nonoperating                                | 503  |
+|                                  Material—Salvage and Obsolete                                   | 130  |
+|                          Materials and Supplies—Refund for Overpayments                          | 117  |
 |                                      Member Relation Costs                                       | 614  |
-|                                   Membership Fees - Forfeited                                    | 506  |
-|                               Meter Reading Systems - Radio-Based                                | 140  |
-|                                 Meter Reading Systems - Turtles                                  | 138  |
+|                                    Membership Fees—Forfeited                                     | 506  |
+|                                Meter Reading Systems—Radio-Based                                 | 140  |
+|                                  Meter Reading Systems—Turtles                                   | 138  |
 |                                     Meter Sockets and Meters                                     | 120  |
-|                                   Minimum - Maximum Voltmeters                                   | 121  |
+|                                    Minimum—Maximum Voltmeters                                    | 121  |
 |                                        Mobile Substations                                        | 107  |
 |                                                N                                                 |      |
-|                                     Neutral - Replacement of                                     | 103  |
+|                                      Neutral—Replacement of                                      | 103  |
 |                                       Nonoperating Margins                                       | 503  |
 |                             Nonrefundable Payments for Construction                              | 116  |
 |                                                O                                                 |      |
@@ -204,14 +200,14 @@ Subject Matter Index
 |              Patronage Capital Furnished by Other Cooperative Service Organizations              | 505  |
 |                             Patronage Capital from G&T Cooperatives                              | 504  |
 |                                  Patronage Capital Retirements                                   | 502  |
-|                            Payments for Construction - Nonrefundable                             | 116  |
+|                             Payments for Construction—Nonrefundable                              | 116  |
 |                                          Pension Costs                                           | 606  |
 |                                          Phase-in Plans                                          | 134  |
 |                                        Plant Abandonments                                        | 133  |
 |                                  Plant Acquisition Adjustments                                   | 131  |
-|                                   Plant Costs - Disallowances                                    | 133  |
-|                                         Plant - General                                          | 132  |
-|                                     Pole Reinforcers - Steel                                     | 106  |
+|                                    Plant Costs—Disallowances                                     | 133  |
+|                                          Plant—General                                           | 132  |
+|                                      Pole Reinforcers—Steel                                      | 106  |
 |                                    Pole Top Disconnect Switch                                    | 105  |
 |                                     Pollution Control Bonds                                      | 624  |
 |                                     Postemployment Benefits                                      | 628  |
@@ -219,20 +215,20 @@ Subject Matter Index
 |                                         Power Cost Study                                         | 612  |
 |                         Power Supply/Distribution Cooperative Borrowing                          | 616  |
 |                                        Prepayment of Debt                                        | 625  |
-|                                        Property - Sale of                                        | 128  |
+|                                         Property—Sale of                                         | 128  |
 |                                         Purchase Rebates                                         | 620  |
 |                                                R                                                 |      |
 |                           Radio-Based Automatic Meter Reading Systems                            | 140  |
 |Rate Discount Allowed by Power Cooperative to a Distribution Cooperative Owning Transmission Lines| 617  |
-|                                        Rebates - Purchase                                        | 620  |
+|                                         Rebates—Purchase                                         | 620  |
 |                       Refunds for Overpayments for Materials and Supplies                        | 117  |
 |                                Reimbursement for Line Relocations                                | 135  |
 |                                       Relocations of Lines                                       | 135  |
 |                                     Replacement of a Neutral                                     | 103  |
 |                                         Retirement Units                                         | 125  |
-|                                 Retirements - Patronage Capital                                  | 502  |
+|                                  Retirements—Patronage Capital                                   | 502  |
 |                                    Retrofitting Demand Meters                                    | 122  |
-|                            Rights of Way - First Clearing and Grading                            | 110  |
+|                             Rights of Way—First Clearing and Grading                             | 110  |
 |                        Rural Economic Development Loan and Grant Program                         | 626  |
 |                                                S                                                 |      |
 |                       Sacrificial Anodes and the Replacement of a Neutral                        | 103  |
@@ -240,7 +236,7 @@ Subject Matter Index
 |                                         Sale of Property                                         | 128  |
 |                                  Salvage and Obsolete Material                                   | 130  |
 |                                  Satellite Television Services                                   | 623  |
-|                           Securities - Investments in Debt and Equity                            | 136  |
+|                            Securities—Investments in Debt and Equity                             | 136  |
 |                                         Security Lights                                          | 108  |
 |                                           Self Billing                                           | 619  |
 |                                          Software Costs                                          | 401  |
@@ -251,9 +247,9 @@ Subject Matter Index
 |                                          Statewide Fees                                          | 615  |
 |                                      Steel Pole Reinforcers                                      | 106  |
 |                                           Storm Damage                                           | 136  |
-|                                       Substation - Mobile                                        | 107  |
+|                                        Substation—Mobile                                         | 107  |
 |                                      Supplemental Financing                                      | 201  |
-|                             System Planning - Engineering Contracts                              | 111  |
+|                              System Planning—Engineering Contracts                               | 111  |
 |                                                T                                                 |      |
 |                                 Temporary Facilities (Services)                                  | 113  |
 |                                       Terminal Facilities                                        | 104  |
@@ -261,11 +257,11 @@ Subject Matter Index
 |                           Training Costs, Attendance at Meetings, etc.                           | 608  |
 |                                          Transclosures                                           | 124  |
 |                                     Transformer Conversions                                      | 123  |
-|                            Turtles - Automatic Meter Reading Systems                             | 138  |
+|                             Turtles—Automatic Meter Reading Systems                              | 138  |
 |                                                U                                                 |      |
 |                                        Unproductive Time                                         | 607  |
 |                                                V                                                 |      |
-|                                   Voltmeters - Minimum/Maximum                                   | 121  |
+|                                    Voltmeters—Minimum/Maximum                                    | 121  |
 |                                                W                                                 |      |
 |                                      Work Order Procedures                                       | 101  |
 
@@ -351,15 +347,15 @@ Engineering costs for long-range system plans shall be charged to Account 183, P
 
 The allocation of engineering services to the various construction projects requires the exercise of judgment. In some cases, system improvements are continuous over a period of months or years, thus permitting the engineering cost to be spread monthly as overhead in relation to the direct costs incurred in construction. (If a substantial amount of retirement work is performed in connection with system improvements, a proportionate share of the engineering cost shall be allocated on the basis of direct retirement labor.) If the system improvements detailed in the plan are not performed in a continuous manner, the engineering cost shall be allocated on the basis of the estimated costs of the various larger system improvement projects which result from the long-range plan.
 
-If construction is performed by contract, the engineering cost applicable thereto shall be transferred from Account 183 to Account 107, Construction Work-in-Progress - Electric, and thereby spread to the appropriate plant accounts on the basis of contract costs.
+If construction is performed by contract, the engineering cost applicable thereto shall be transferred from Account 183 to Account 107, Construction Work-in-Progress—Electric, and thereby spread to the appropriate plant accounts on the basis of contract costs.
 
-In the case of system improvement construction performed on the basis of work orders, engineering costs shall be transferred to Account 107, Construction Work-in-Progress - Electric, and included in total work order costs as either overhead or special services. If engineering services are not readily identifiable with individual work orders, they shall be capitalized as overhead. If engineering costs for each work order are readily separable from the engineering costs for all other work orders, they shall be capitalized as special services.
+In the case of system improvement construction performed on the basis of work orders, engineering costs shall be transferred to Account 107, Construction Work-in-Progress—Electric, and included in total work order costs as either overhead or special services. If engineering services are not readily identifiable with individual work orders, they shall be capitalized as overhead. If engineering costs for each work order are readily separable from the engineering costs for all other work orders, they shall be capitalized as special services.
 
 In summarizing system improvement work orders on the RUS Form 219, Inventory of Work Orders, the amount of engineering costs previously approved for advance on the long range plan, if any, shall be deducted to determine the balance of loan funds subject to advance by RUS.
 
 112 Determination of Availability of Service
 
-Costs relating to the determination of availability of service, rates, and similar items for individual applicants shall be charged to Account 912, Demonstrating and Selling Expenses. If it is expected that construction will result, the costs incurred to provide service, including staking, shall be charged to Account 107, Construction Work-in-Progress - Electric. If construction does not result, Account 107 shall be credited and Account 426.5, Other Deductions, shall be charged.
+Costs relating to the determination of availability of service, rates, and similar items for individual applicants shall be charged to Account 912, Demonstrating and Selling Expenses. If it is expected that construction will result, the costs incurred to provide service, including staking, shall be charged to Account 107, Construction Work-in-Progress—Electric. If construction does not result, Account 107 shall be credited and Account 426.5, Other Deductions, shall be charged.
 
 113 Temporary Facilities (Services)
 
@@ -373,13 +369,13 @@ When installed plant, not yet completed or completed but not yet placed in servi
 
 115 Liquidated Damages
 
-Liquidated damages are amounts paid by or assessed against contractors for the completion of construction after an agreed upon date. Liquidated damages shall be credited to Account 107, Construction Work-in-Progress - Electric. Since these damages accrue during the construction period, they become one of the components of construction cost. Even though a portion of these damages may compensate the utility for costs which are not “identifiable,” no portion of the damages shall be credited to revenue or expense.
+Liquidated damages are amounts paid by or assessed against contractors for the completion of construction after an agreed upon date. Liquidated damages shall be credited to Account 107, Construction Work-in-Progress—Electric. Since these damages accrue during the construction period, they become one of the components of construction cost. Even though a portion of these damages may compensate the utility for costs which are not “identifiable,” no portion of the damages shall be credited to revenue or expense.
 
 When a contractor has been paid in full from loan funds or from funds to be reimbursed by loan funds without a deduction for liquidated damages, the amount of liquidated damages received shall be deposited in the Construction Fund. This amount shall be reflected by a decrease in column 5, “Total Expenditures to Date,” of the RUS Form 595, Financial Requirement and Expenditure Statement, and as an increase in column 6, “Cash Balance.” If liquidated damages are obtained by withholding an equivalent amount from the contractor's payment, the net result will be the same.
 
 116 Nonrefundable Payments for Construction
 
-Nonrefundable payments (contributions) from customers and developers for underground construction shall first be credited to Account 107.2, Construction Work-in-Progress - Force Account. When the constructed plant is unitized and distributed to the individual plant accounts, the contributions shall be credited to those plant accounts which gave rise to the contribution.
+Nonrefundable payments (contributions) from customers and developers for underground construction shall first be credited to Account 107.2, Construction Work-in-Progress—Force Account. When the constructed plant is unitized and distributed to the individual plant accounts, the contributions shall be credited to those plant accounts which gave rise to the contribution.
 
 When a customer or developer furnishes a trench or other service in connection with buried plant, the cooperative shall debit Account 107.2 with the actual or estimated cost of the service performed, and account for the credit as set forth above.
 
@@ -401,7 +397,7 @@ Refunds of overpayments for materials and equipment previously purchased are occ
 
 7. If the material was used in maintenance activities or operations, the refund shall be credited to the appropriate maintenance or operations expense account.
 
-8. Refunds for materials or equipment financed from loan funds shall be deposited in the Construction Fund - Trustee Account or remitted to RUS as a special payment on a note. Other refunds shall be deposited in the general funds.
+8. Refunds for materials or equipment financed from loan funds shall be deposited in the Construction Fund—Trustee Account or remitted to RUS as a special payment on a note. Other refunds shall be deposited in the general funds.
 
 118 Load Control Equipment
 
@@ -499,7 +495,7 @@ Special Equipment Items include the following:
 
 2. Transformers, Capacitors and Voltage Regulators recorded in Account 368, Line Transformers
 
-3. Meters, Meter Sockets, current and potential transformers, and other metering equipment recorded in Account 379, Meters
+3. Meters, Meter Sockets, current and potential transformers, and other metering equipment recorded in Account 370, Meters.
 
 4. Load Control Devices recorded in Account 371, Installations on Customers' Premises (See Interpretation No. 118)
 
@@ -525,11 +521,11 @@ In addition to recognition of the requirements noted above, the borrower should 
 
 When a utility furnishes meter sockets, ownership by the utility of the meter socket or base, as well as the meter itself, is established by virtue of them being furnished without cost to the consumer by the cooperative. While no agreement as to ownership between the cooperative and the property owner exists, cooperative ownership is implied by long standing practice and tradition in the electric utility industry.
 
-121 Minimum - Maximum Voltmeters
+121 Minimum—Maximum Voltmeters
 
-A minimum - maximum voltmeter is used to record the minimum and maximum voltages at a specific line location over a period of time. It is normally installed on a pole in connection with a 11/2 kVA transformer, a meter base and connecting wires, and other small items of materials. Meter bases are ordinarily set for these voltmeters throughout the system, and a lesser number of voltmeters are rotated among them periodically to obtain voltage readings. An average system may have one voltmeter to two installations, with a maximum of 20 or 25 voltmeters for the whole system.
+A minimum—maximum voltmeter is used to record the minimum and maximum voltages at a specific line location over a period of time. It is normally installed on a pole in connection with a 11/2 kVA transformer, a meter base and connecting wires, and other small items of materials. Meter bases are ordinarily set for these voltmeters throughout the system, and a lesser number of voltmeters are rotated among them periodically to obtain voltage readings. An average system may have one voltmeter to two installations, with a maximum of 20 or 25 voltmeters for the whole system.
 
-Minimum - maximum voltmeters shall be recorded, through work orders, in Account 370, Meters, when installed. The cost of the transformers shall remain in Account 368, Line Transformers, with the cost of the meter bases remaining in Account 370, Meters. The miscellaneous material used in installing the transformer and the meter base shall be charged to Account 370, Meters.
+Minimum—maximum voltmeters shall be recorded, through work orders, in Account 370, Meters, when installed. The cost of the transformers shall remain in Account 368, Line Transformers, with the cost of the meter bases remaining in Account 370, Meters. The miscellaneous material used in installing the transformer and the meter base shall be charged to Account 370, Meters.
 
 Maintenance expense shall be charged to either Account 595, Maintenance of Line Transformers, or Account 597, Maintenance of Meters, as appropriate. Costs associated with reading the voltmeters shall be charged to Account 583, Overhead Line Expenses, and the cost of relocating or changing the complete installation or any part thereof, other than retirement of the meter base, shall be charged to Account 583, Overhead Line Expenses, or Account 586, Meter Expenses.
 
@@ -609,7 +605,7 @@ Depreciation expense on vehicles and other work equipment, furniture and office 
 
 133 Plant Abandonments and Disallowances of Plant Costs
 
-In December 1986, the Financial Accounting Standards Board issued Statement of Financial Accounting Standards No. 90, Regulated Enterprises - Accounting for Abandonments (Statement No. 90) and Disallowances of Plant Costs. This section provides an overview of the requirements outlined in Statement No. 90 together with the specific accounts that shall be used to record a plant abandonment or a disallowance of plant costs.
+In December 1986, the Financial Accounting Standards Board issued Statement of Financial Accounting Standards No. 90, Regulated Enterprises—Accounting for Abandonments (Statement No. 90) and Disallowances of Plant Costs. This section provides an overview of the requirements outlined in Statement No. 90 together with the specific accounts that shall be used to record a plant abandonment or a disallowance of plant costs.
 
 Plant Abandonments
 
@@ -657,7 +653,7 @@ When it becomes probable that a portion of the cost of recently completed plant 
 
 134 Utility Plant Phase-in Plans
 
-In August 1987, the Financial Accounting Standards Board issued Statement of Financial Accounting Standards No. 92, Regulated Enterprises - Accounting for Phase-in Plans (Statement No. 92). This section provides an overview of the requirements outlined in Statement No. 92.
+In August 1987, the Financial Accounting Standards Board issued Statement of Financial Accounting Standards No. 92, Regulated Enterprises—Accounting for Phase-in Plans (Statement No. 92). This section provides an overview of the requirements outlined in Statement No. 92.
 
 The term phase-in plan is used to refer to any method of recognition of allowable costs in rates that meets all of the following criteria:
 
@@ -741,53 +737,51 @@ To assist in the restoration of the damaged facilities, the Federal government o
 
 Under current FEMA procedures, FEMA provides funds for the restoration of facilities based upon the cost estimates submitted by the entity requesting assistance. If the FEMA grant is for less than 100 percent of the cost estimates, and does not specify offset expenses, thereby providing the borrower with the maximum opportunity to utilize Rural Development Utilities Program loan funds to finance capitalizable costs. When the funds are received, they should be accounted for by first applying the funds received as a credit to maintenance expense and administrative and general costs. Any remaining funds should then be applied as a credit to construction and retirement costs.
 
-Accounting Journal Entries
-
-|                                                                                                                                                                                                                           Dr. 108.8X, Retirement Work in Progress - Storm Damage                                                                                                                                                                                                                           | $1,015.17 |           |
-|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------:|----------:|
-|                                                                                                                                                                                                                          Cr. 107.4, Construction Work in Progress - Storm Damage                                                                                                                                                                                                                           |           | $1,015.17 |
-|                                                                                                                                                                                                   To transfer the removal costs recorded in Column 11 of Retirement Work Order #4401X to Account 108.8X.                                                                                                                                                                                                   |           |           |
-|                                                                                                                                                                                                                          Dr. 107.4, Construction Work in Progress - Storm Damage                                                                                                                                                                                                                           | $4,141.55 |           |
-|                                                                                                                                                                                                                           Cr. 108.8X, Retirement Work in Progress - Storm Damage                                                                                                                                                                                                                           |           | $4,141.55 |
-|                                                                                                                              To remove material salvaged in the \_\_\_\_\_\_\_\_\_\_ rebuild from Account 107.4. The original entry debited Account 154, Plant Materials and Operating Supplies, and credited Account 107.4. (See Column 12 of Retirement Work Order #4401X.)                                                                                                                              |           |           |
-|                                                                                                                                                                                                                           Dr. 108.8X, Retirement Work in Progress - Storm Damage                                                                                                                                                                                                                           |$312,230.41|           |
-|                                                                                                                                                                                                                                     Cr. 364, Poles Towers and Fixtures                                                                                                                                                                                                                                     |           |$133,377.55|
-|                                                                                                                                                                                                                                  Cr. 365, Overhead Conductors and Devices                                                                                                                                                                                                                                  |           | 59,683.08 |
-|                                                                                                                                                                                                                                        Cr. 368, Lines Transformers                                                                                                                                                                                                                                         |           | 19,704.60 |
-|                                                                                                                                                                                                                                             Cr. 369, Services                                                                                                                                                                                                                                              |           | 97,651.23 |
-|                                                                                                                                                                                                                                Cr. 373, Street Lighting and Signal Systems                                                                                                                                                                                                                                 |           | 1,813.95  |
-|To remove the original cost of property destroyed and retired from the classified plant accounts. This retirement is recorded, in detail, on Retirement Work Order #4401X. It is understood that this retirement covers all distribution property retired or destroyed in the \_\_\_\_\_\_\_\_\_\_ area exclusive of substations and special equipment items (meters, meter sockets, current and potential transformers, transformers, voltage regulators, oil circuit reclosers (OCR), and sectionalizers).|           |           |
-|                                                                                                                                                                                                                  Dr. 108.6, Accumulated Provision for Depreciation of Distribution Plant                                                                                                                                                                                                                   |$309,104.03|           |
-|                                                                                                                                                                                                                           Cr. 108.8X, Retirement Work in Progress - Storm Damage                                                                                                                                                                                                                           |           |$309,104.03|
-|                                                                                                                                                                                  To record the net loss due to the retirement of distribution lines in the \_\_\_\_\_\_\_\_\_\_ area. (See Retirement Work Order #4401X.)                                                                                                                                                                                  |           |           |
-|                                                                                                                                                                                                                                    Dr. 364, Poles, Towers and Fixtures                                                                                                                                                                                                                                     |$99,075.40 |           |
-|                                                                                                                                                                                                                                  Dr. 365, Overhead Conductors and Devices                                                                                                                                                                                                                                  |104,142.22 |           |
-|                                                                                                                                                                                                                                         Dr. 368, Line Transformers                                                                                                                                                                                                                                         | 25,036.07 |           |
-|                                                                                                                                                                                                                                             Dr. 369, Services                                                                                                                                                                                                                                              | 28,865.08 |           |
-|                                                                                                                                                                                                                                Dr. 373, Street Lighting and Signal Systems                                                                                                                                                                                                                                 | 2,101.60  |           |
-|                                                                                                                                                                                                                          Cr. 107.4, Construction Work in Progress - Storm Damage                                                                                                                                                                                                                           |           |$259,220.37|
-|                                                                                                                                                                                        To record, in the proper classified plant accounts, Construction Work Order #4401 covering the \_\_\_\_\_\_\_\_\_\_ rebuild.                                                                                                                                                                                        |           |           |
-|                                                                                                                                                                                                                                            This entry includes:                                                                                                                                                                                                                                            |           |           |
-|                                                                                                                                                                                                                                              Material Issued                                                                                                                                                                                                                                               |$150,336.49|           |
-|                                                                                                                                                                                                                                          Less: Materials Returned                                                                                                                                                                                                                                          | 15,631.39 |           |
-|                                                                                                                                                                                                                                             Net Material Used                                                                                                                                                                                                                                              |134,705.10 |           |
-|                                                                                                                                                                                                                      Labor and overhead estimated by using standard record unit costs                                                                                                                                                                                                                      |124,515.27 |           |
-|                                                                                                                                                                                                                                                   Total                                                                                                                                                                                                                                                    |259,220.37 |           |
-|                                                                                                                                                                                                                           Dr. 108.8X, Retirement Work in Progress - Storm Damage                                                                                                                                                                                                                           | 2,384.00  |           |
-|                                                                                                                                                                                                                          Cr. 107.4, Construction Work in Progress - Storm Damage                                                                                                                                                                                                                           |           | $2,384.00 |
-|                                                                                                                                                 To transfer the removal costs associated with the retirement of old transmission lines ($1,966) and substations ($418) to Account 107.4. This cost is shown in Column 11 of Retirement Work Order #4400X).                                                                                                                                                 |           |           |
-|                                                                                                                                                                                                                          Dr. 107.4, Construction Work in Progress - Storm Damage                                                                                                                                                                                                                           | $1,939.74 |           |
-|                                                                                                                                                                                                                           Cr. 108.8X, Retirement Work in Progress - Storm Damage                                                                                                                                                                                                                           |           | $1,939.74 |
-|                                                                                                                                     To remove material salvaged from transmission lines ($1,545.74) and substations ($394.00) from Account 107.4. The original entry debited Account 154 and credited Account 107.4. (See Column 12 of Retirement Work Order #4400X.)                                                                                                                                      |           |           |
-|                                                                                                                                                                                                                           Dr. 108.8X, Retirement Work in Progress - Storm Damage                                                                                                                                                                                                                           |$162,172.06|           |
-|                                                                                                                                                                                                                                        Cr. 355, Poles and Fixtures                                                                                                                                                                                                                                         |           |$47,738.45 |
-|                                                                                                                                                                                                                                   Cr. 356, Overhead Conductors & Devices                                                                                                                                                                                                                                   |           | 80,304.11 |
-|                                                                                                                                                                                                                                         Cr. 362, Station Equipment                                                                                                                                                                                                                                         |           | 34,129.50 |
-|                                                                                                                               To remove the original cost of transmission lines and substations destroyed and retired from the classified plant accounts. (See Retirement Work Order #4400X.) (New substations were built and separately accounted for on Work Order #4406.)                                                                                                                               |           |           |
-|                                                                                                                                                                                                                  Dr. 108.5, Accumulated Provision for Depreciation of Transmission Plant                                                                                                                                                                                                                   |$128,462.82|           |
-|                                                                                                                                                                                                                  Dr. 108.6, Accumulated Provision for Depreciation of Distribution Plant                                                                                                                                                                                                                   | 34,153.50 |           |
-|                                                                                                                                                                                                                           Cr. 108.8X, Retirement Work in Progress - Storm Damage                                                                                                                                                                                                                           |           |$162,616.32|
-|                                                                                                                                                                             To record the net loss due to the retirement of transmission lines ($128,462.82) and substations ($34,153.50). (See Retirement Work Order #4400X):                                                                                                                                                                             |           |           |
+|                                                                                                                                                                                                                                      Dr. 108.8X, Retirement Work in Progress—Storm Damage                                                                                                                                                                                                                                      | $1,015.17 |           |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|-----------|
+|                                                                                                                                                                                                                                     Cr. 107.4, Construction Work in Progress—Storm Damage                                                                                                                                                                                                                                      |           | $1,015.17 |
+|                                                                                                                                                                                                             To transfer the removal costs recorded in Column 11 of Retirement Work Order #4401X to Account 108.8X.                                                                                                                                                                                                             |           |           |
+|                                                                                                                                                                                                                                     Dr. 107.4, Construction Work in Progress—Storm Damage                                                                                                                                                                                                                                      | $4,141.55 |           |
+|                                                                                                                                                                                                                                      Cr. 108.8X, Retirement Work in Progress—Storm Damage                                                                                                                                                                                                                                      |           | $4,141.55 |
+|                                                                                                                              To remove material salvaged in the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ rebuild from Account 107.4. The original entry debited Account 154, Plant Materials and Operating Supplies, and credited Account 107.4. (See Column 12 of Retirement Work Order #4401X.)                                                                                                                              |           |           |
+|                                                                                                                                                                                                                                      Dr. 108.8X, Retirement Work in Progress—Storm Damage                                                                                                                                                                                                                                      |$312,230.41|           |
+|                                                                                                                                                                                                                                               Cr. 364, Poles Towers and Fixtures                                                                                                                                                                                                                                               |           |$133,377.55|
+|                                                                                                                                                                                                                                            Cr. 365, Overhead Conductors and Devices                                                                                                                                                                                                                                            |           | 59,683.08 |
+|                                                                                                                                                                                                                                                  Cr. 368, Lines Transformers                                                                                                                                                                                                                                                   |           | 19,704.60 |
+|                                                                                                                                                                                                                                                       Cr. 369, Services                                                                                                                                                                                                                                                        |           | 97,651.23 |
+|                                                                                                                                                                                                                                          Cr. 373, Street Lighting and Signal Systems                                                                                                                                                                                                                                           |           | 1,813.95  |
+|To remove the original cost of property destroyed and retired from the classified plant accounts. This retirement is recorded, in detail, on Retirement Work Order #4401X. It is understood that this retirement covers all distribution property retired or destroyed in the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ area exclusive of substations and special equipment items (meters, meter sockets, current and potential transformers, transformers, voltage regulators, oil circuit reclosers (OCR), and sectionalizers).|           |           |
+|                                                                                                                                                                                                                            Dr. 108.6, Accumulated Provision for Depreciation of Distribution Plant                                                                                                                                                                                                                             |$309,104.03|           |
+|                                                                                                                                                                                                                                      Cr. 108.8X, Retirement Work in Progress—Storm Damage                                                                                                                                                                                                                                      |           |$309,104.03|
+|                                                                                                                                                                                  To record the net loss due to the retirement of distribution lines in the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ area. (See Retirement Work Order #4401X.)                                                                                                                                                                                  |           |           |
+|                                                                                                                                                                                                                                              Dr. 364, Poles, Towers and Fixtures                                                                                                                                                                                                                                               |$99,075.40 |           |
+|                                                                                                                                                                                                                                            Dr. 365, Overhead Conductors and Devices                                                                                                                                                                                                                                            |104,142.22 |           |
+|                                                                                                                                                                                                                                                   Dr. 368, Line Transformers                                                                                                                                                                                                                                                   | 25,036.07 |           |
+|                                                                                                                                                                                                                                                       Dr. 369, Services                                                                                                                                                                                                                                                        | 28,865.08 |           |
+|                                                                                                                                                                                                                                          Dr. 373, Street Lighting and Signal Systems                                                                                                                                                                                                                                           | 2,101.60  |           |
+|                                                                                                                                                                                                                                     Cr. 107.4, Construction Work in Progress—Storm Damage                                                                                                                                                                                                                                      |           |$259,220.37|
+|                                                                                                                                                                                        To record, in the proper classified plant accounts, Construction Work Order #4401 covering the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ rebuild.                                                                                                                                                                                        |           |           |
+|                                                                                                                                                                                                                                                      This entry includes:                                                                                                                                                                                                                                                      |           |           |
+|                                                                                                                                                                                                                                                        Material Issued                                                                                                                                                                                                                                                         |$150,336.49|           |
+|                                                                                                                                                                                                                                                    Less: Materials Returned                                                                                                                                                                                                                                                    | 15,631.39 |           |
+|                                                                                                                                                                                                                                                       Net Material Used                                                                                                                                                                                                                                                        |134,705.10 |           |
+|                                                                                                                                                                                                                                Labor and overhead estimated by using standard record unit costs                                                                                                                                                                                                                                |124,515.27 |           |
+|                                                                                                                                                                                                                                                             Total                                                                                                                                                                                                                                                              |259,220.37 |           |
+|                                                                                                                                                                                                                                      Dr. 108.8X, Retirement Work in Progress—Storm Damage                                                                                                                                                                                                                                      | 2,384.00  |           |
+|                                                                                                                                                                                                                                     Cr. 107.4, Construction Work in Progress—Storm Damage                                                                                                                                                                                                                                      |           | $2,384.00 |
+|                                                                                                                                                           To transfer the removal costs associated with the retirement of old transmission lines ($1,966) and substations ($418) to Account 107.4. This cost is shown in Column 11 of Retirement Work Order #4400X).                                                                                                                                                           |           |           |
+|                                                                                                                                                                                                                                     Dr. 107.4, Construction Work in Progress—Storm Damage                                                                                                                                                                                                                                      | $1,939.74 |           |
+|                                                                                                                                                                                                                                      Cr. 108.8X, Retirement Work in Progress—Storm Damage                                                                                                                                                                                                                                      |           | $1,939.74 |
+|                                                                                                                                               To remove material salvaged from transmission lines ($1,545.74) and substations ($394.00) from Account 107.4. The original entry debited Account 154 and credited Account 107.4. (See Column 12 of Retirement Work Order #4400X.)                                                                                                                                                |           |           |
+|                                                                                                                                                                                                                                      Dr. 108.8X, Retirement Work in Progress—Storm Damage                                                                                                                                                                                                                                      |$162,172.06|           |
+|                                                                                                                                                                                                                                                  Cr. 355, Poles and Fixtures                                                                                                                                                                                                                                                   |           |$47,738.45 |
+|                                                                                                                                                                                                                                             Cr. 356, Overhead Conductors & Devices                                                                                                                                                                                                                                             |           | 80,304.11 |
+|                                                                                                                                                                                                                                                   Cr. 362, Station Equipment                                                                                                                                                                                                                                                   |           | 34,129.50 |
+|                                                                                                                                         To remove the original cost of transmission lines and substations destroyed and retired from the classified plant accounts. (See Retirement Work Order #4400X.) (New substations were built and separately accounted for on Work Order #4406.)                                                                                                                                         |           |           |
+|                                                                                                                                                                                                                            Dr. 108.5, Accumulated Provision for Depreciation of Transmission Plant                                                                                                                                                                                                                             |$128,462.82|           |
+|                                                                                                                                                                                                                            Dr. 108.6, Accumulated Provision for Depreciation of Distribution Plant                                                                                                                                                                                                                             | 34,153.50 |           |
+|                                                                                                                                                                                                                                      Cr. 108.8X, Retirement Work in Progress—Storm Damage                                                                                                                                                                                                                                      |           |$162,616.32|
+|                                                                                                                                                                                       To record the net loss due to the retirement of transmission lines ($128,462.82) and substations ($34,153.50). (See Retirement Work Order #4400X):                                                                                                                                                                                       |           |           |
 
 |                       |Substations|Transmission plant|
 |-----------------------|-----------|------------------|
@@ -797,43 +791,43 @@ Accounting Journal Entries
 |Less: Material Salvaged|  394.00   |     1,545.74     |
 |         Total         | 34,153.50 |    128,462.82    |
 
-|                                                                                       Dr. 355, Poles and Fixtures                                                                                        |$161,784.05|           |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------:|----------:|
-|                                                                                 Dr. 356, Overhead Conductors and Devices                                                                                 |124,704.77 |           |
-|                                                                         Cr. 107.4, Construction Work in Progress - Storm Damage                                                                          |           |$286,488.82|
-|To record, in the proper classified plant accounts, the costs of a 69 kV transmission line (\_\_\_\_\_\_\_\_\_\_) as detailed in Work Order #4400. This work order includes construction costs as follows:|           |           |
-|                                                                                           Material Used (Net)                                                                                            |$171,665.62|           |
-|                                                                     Labor and overhead estimated by using standard record unit costs                                                                     |114,823.20 |           |
-|                                                                                                  Total                                                                                                   |286,488.82 |           |
-|                                                                         Dr. 107.4, Construction Work in Progress - Storm Damage                                                                          |  $329.40  |           |
-|                                                                          Cr. 108.8X, Retirement Work in Progress - Storm Damage                                                                          |           |  $329.40  |
-|                   To correct the journal entry for cash received from the sale of scrapped meters and transformers. The original entry credited Account 107.4 at the time of receipt.                    |           |           |
-|                                                                                               Transformers                                                                                               |  $318.00  |           |
-|                                                                                                  Meters                                                                                                  |   11.40   |           |
-|                                                                                            Net Materials Used                                                                                            |  329.40   |           |
-|                                                                          Dr. 108.8X, Retirement Work in Progress - Storm Damage                                                                          |           |$137,671.22|
-|                                                                                 Cr. 365, Overhead Conductors and Devices                                                                                 |           | $4,557.00 |
-|                                                                                        Cr. 368, Line Transformers                                                                                        |           |112,815.22 |
-|                                                                                             Cr. 370, Meters                                                                                              |           | 20,299.00 |
-|                               To remove the cost of meters, transformers, and OCRs lost or destroyed from the primary plant accounts. (See Retirement Work Order #4402X.)                                |           |           |
-|                                                                                             737 Transformers                                                                                             |$112,815.22|           |
-|                                                                                                 31 OCRs                                                                                                  | 4,557.00  |           |
-|                                                                                               1,532 Meters                                                                                               | 20,299.00 |           |
-|                                                                                                  Total                                                                                                   |137,671.22 |           |
-|                                                                 Dr. 108.6, Accumulated Provision for Depreciation of Distribution Plant                                                                  |$137,341.82|           |
-|                                                                                 Cr. 108.8X, Retirement Work in Progress                                                                                  |           |$137,341.82|
-|                                           To record the net loss due to the retirement of meters, transformers, and OCRs. (See Retirement Work Order #4402X.)                                            |           |           |
-|                                                                                              Original Cost                                                                                               |$137,671.22|           |
-|                                                                                            Salvaged Realized                                                                                             |  329.40   |           |
-|                                                                                                  Total                                                                                                   |137,341.82 |           |
-|                                                                                  Dr. 186, Miscellaneous Deferred Debits                                                                                  | $1,319.85 |           |
-|                                                                         Cr. 107.4, Construction Work in Progress - Storm Damage                                                                          |           | $1,319.85 |
-|                                                To record the engineering costs associated with future construction work in the \_\_\_\_\_\_\_\_\_\_ area.                                                |           |           |
-|                                                                                  Dr. 593, Maintenance of Overhead Lines                                                                                  |  $607.24  |           |
-|                                                                                Dr. 595, Maintenance of Line Transformers                                                                                 | 19,365.86 |           |
-|                                                                                      Dr. 597, Maintenance of Meters                                                                                      | 6,595.56  |           |
-|                                                                         Cr. 107.4, Construction Work in Progress - Storm Damage                                                                          |           |$26,568.66 |
-|         To charge the costs of repairing damaged meters, transformers, voltage regulators, and OCRs to the appropriate expense accounts. Repair costs were originally charged to Account 107.4.          |           |           |
+|                                                                                                 Dr. 355, Poles and Fixtures                                                                                                  |$161,784.05|           |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|-----------|
+|                                                                                           Dr. 356, Overhead Conductors and Devices                                                                                           |124,704.77 |           |
+|                                                                                    Cr. 107.4, Construction Work in Progress—Storm Damage                                                                                     |           |$286,488.82|
+|To record, in the proper classified plant accounts, the costs of a 69 kV transmission line (\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_) as detailed in Work Order #4400. This work order includes construction costs as follows:|           |           |
+|                                                                                                     Material Used (Net)                                                                                                      |$171,665.62|           |
+|                                                                               Labor and overhead estimated by using standard record unit costs                                                                               |114,823.20 |           |
+|                                                                                                            Total                                                                                                             |286,488.82 |           |
+|                                                                                    Dr. 107.4, Construction Work in Progress—Storm Damage                                                                                     |  $329.40  |           |
+|                                                                                     Cr. 108.8X, Retirement Work in Progress—Storm Damage                                                                                     |           |  $329.40  |
+|                             To correct the journal entry for cash received from the sale of scrapped meters and transformers. The original entry credited Account 107.4 at the time of receipt.                              |           |           |
+|                                                                                                         Transformers                                                                                                         |  $318.00  |           |
+|                                                                                                            Meters                                                                                                            |   11.40   |           |
+|                                                                                                      Net Materials Used                                                                                                      |  329.40   |           |
+|                                                                                     Dr. 108.8X, Retirement Work in Progress—Storm Damage                                                                                     |           |$137,671.22|
+|                                                                                           Cr. 365, Overhead Conductors and Devices                                                                                           |           | $4,557.00 |
+|                                                                                                  Cr. 368, Line Transformers                                                                                                  |           |112,815.22 |
+|                                                                                                       Cr. 370, Meters                                                                                                        |           | 20,299.00 |
+|                                         To remove the cost of meters, transformers, and OCRs lost or destroyed from the primary plant accounts. (See Retirement Work Order #4402X.)                                          |           |           |
+|                                                                                                       737 Transformers                                                                                                       |$112,815.22|           |
+|                                                                                                           31 OCRs                                                                                                            | 4,557.00  |           |
+|                                                                                                         1,532 Meters                                                                                                         | 20,299.00 |           |
+|                                                                                                            Total                                                                                                             |137,671.22 |           |
+|                                                                           Dr. 108.6, Accumulated Provision for Depreciation of Distribution Plant                                                                            |$137,341.82|           |
+|                                                                                           Cr. 108.8X, Retirement Work in Progress                                                                                            |           |$137,341.82|
+|                                                     To record the net loss due to the retirement of meters, transformers, and OCRs. (See Retirement Work Order #4402X.)                                                      |           |           |
+|                                                                                                        Original Cost                                                                                                         |$137,671.22|           |
+|                                                                                                      Salvaged Realized                                                                                                       |  329.40   |           |
+|                                                                                                            Total                                                                                                             |137,341.82 |           |
+|                                                                                            Dr. 186, Miscellaneous Deferred Debits                                                                                            | $1,319.85 |           |
+|                                                                                    Cr. 107.4, Construction Work in Progress—Storm Damage                                                                                     |           | $1,319.85 |
+|                                                To record the engineering costs associated with future construction work in the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ area.                                                |           |           |
+|                                                                                            Dr. 593, Maintenance of Overhead Lines                                                                                            |  $607.24  |           |
+|                                                                                          Dr. 595, Maintenance of Line Transformers                                                                                           | 19,365.86 |           |
+|                                                                                                Dr. 597, Maintenance of Meters                                                                                                | 6,595.56  |           |
+|                                                                                    Cr. 107.4, Construction Work in Progress—Storm Damage                                                                                     |           |$26,568.66 |
+|                   To charge the costs of repairing damaged meters, transformers, voltage regulators, and OCRs to the appropriate expense accounts. Repair costs were originally charged to Account 107.4.                    |           |           |
 
 |                     |  593  |   595    |   597   |
 |---------------------|-------|----------|---------|
@@ -844,9 +838,9 @@ Accounting Journal Entries
 |        Total        |607.24 |19,365.86 |6,595.56 |
 
 |                                                               Dr. 920, Administrative and General Salaries                                                               |$32,000.00 |          |
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------:|---------:|
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|----------|
 |                                                                  Dr. 921, Office Supplies and Expenses                                                                   | 4,421.69  |          |
-|                                                         Cr. 107.4, Construction Work in Progress - Storm Damage                                                          |           |$36,421.69|
+|                                                          Cr. 107.4, Construction Work in Progress—Storm Damage                                                           |           |$36,421.69|
 | To charge the administrative costs incurred to obtain the FEMA grant to the appropriate expense accounts. Administrative costs were originally charged to Account 107.4. |           |          |
 |                                                                                 Salaries                                                                                 |$32,000.00 |          |
 |                                                                             Office Supplies                                                                              | 4,421.69  |          |
@@ -866,8 +860,8 @@ Note:
 
 Account 426.5, Other Deductions, should be used to record the retirement loss as a current period expense. Account 435, Extraordinary Deductions, may be used when the loss will materially distort the income statement. Account 182.1, Extraordinary Property Losses, should be used when such costs are being deferred under the provisions of Statement No. 71. Costs recorded in this account should be amortized to Account 407, Amortization of Property Losses, as the costs are recovered through rates.
 
-|                                 Dr. 131.1, Cash - General                                 |$1,000,000.00|             |
-|:------------------------------------------------------------------------------------------|------------:|------------:|
+|                                  Dr. 131.1, Cash—General                                  |$1,000,000.00|             |
+|-------------------------------------------------------------------------------------------|-------------|-------------|
 |                              Cr. 253, Other Deferred Credits                              |             |$1,000,000.00|
 |To record the receipt of funds from the Federal Emergency Management Administration (FEMA).|             |             |
 |                              Dr. 253, Other Deferred Credits                              |$1,000,000.00|             |
@@ -891,7 +885,7 @@ Account 426.5, Other Deductions, should be used to record the retirement loss as
 |                      To allocate FEMA funds to the proper accounts.                       |             |             |
 
 |                             Summary of Costs                              |            |
-|:-------------------------------------------------------------------------:|------------|
+|---------------------------------------------------------------------------|------------|
 |                               Maintenance:                                |            |
 |                Account 571, Maintenance of Overhead Lines                 | $3,675.60  |
 |                Account 593, Maintenance of Overhead Lines                 | 33,687.24  |
@@ -932,7 +926,7 @@ Account 426.5, Other Deductions, should be used to record the retirement loss as
 |                   Construction: $1,000,000.00 × 43.6% =                   | 436,000.00 |
 |                  Administrative: $1,000,000.00 × 2.9% =                   | 29,000.00  |
 |                                   Total                                   |1,000,000.00|
-|                 Distribution of FEMA Funds - Maintenance                  |            |
+|                  Distribution of FEMA Funds—Maintenance                   |            |
 |             Account 571: 3,675.60 ÷ 63,324.26 = .0580 = 5.8%              |            |
 |            Account 593: 33,687.24 ÷ 63,324.26 = .5320 = 53.2%             |            |
 |            Account 595: 19,365.86 ÷ 63,324.26 = .3058 = 30.6%             |            |
@@ -942,7 +936,7 @@ Account 426.5, Other Deductions, should be used to record the retirement loss as
 |                     Account 595: $50,000.00 × 30.6% =                     | 15,300.00  |
 |                     Account 597: $50,000.00 × 10.4% =                     |  5,200.00  |
 |                                   Total                                   | 50,000.00  |
-|               Distribution of FEMA Funds - Retirement Loss                |            |
+|                Distribution of FEMA Funds—Retirement Loss                 |            |
 |           Account 108.5: 93,462.82 ÷ 609,062.17 = .1535 = 15.3%           |            |
 |          Account 108.6: 240,599.35 ÷ 609,062.17 = .3950 = 39.5%           |            |
 |          Account 426.5: 275,000.00 ÷ 609,062.17 = .4515 = 45.2%           |            |
@@ -950,7 +944,7 @@ Account 426.5, Other Deductions, should be used to record the retirement loss as
 |                   Account 108.6: $485,000.00 × 39.5% =                    | 191,575.00 |
 |                   Account 426.5: $485,000.00 × 45.2% =                    | 219,220.00 |
 |                                   Total                                   | 485,000.00 |
-|                 Distribution of FEMA Funds - Construction                 |            |
+|                  Distribution of FEMA Funds—Construction                  |            |
 |             Account 186: 1,319.85 ÷ 547,029.04 = .0024 = .2%              |            |
 |           Account 355: 161,784.05 ÷ 547,029.04 = .2958 = 29.6%            |            |
 |           Account 356: 124,704.77 ÷ 547,029.04 = .2280 = 22.8%            |            |
@@ -968,7 +962,7 @@ Account 426.5, Other Deductions, should be used to record the retirement loss as
 |                     Account 369: $436,000.00 × 5.3% =                     | 23,108.00  |
 |                     Account 373: $436,000.00 × .4% =                      |  1,744.00  |
 |                                   Total                                   | 436,000.00 |
-|                Distribution of FEMA Funds - Administrative                |            |
+|                 Distribution of FEMA Funds—Administrative                 |            |
 |            Account 920: 32,000.00 ÷ 36,421.69 = .8786 = 87.9%             |            |
 |             Account 921: 4,421.69 ÷ 36,421.69 = .1213 = 12.1%             |            |
 |                     Account 920: $29,000.00 × 87.9% =                     | $25,491.00 |
@@ -977,7 +971,7 @@ Account 426.5, Other Deductions, should be used to record the retirement loss as
 
 137 Impairment of Long-Lived Assets
 
-Statement of Financial Accounting Standards No. 121, Accounting for the Impairment of Long-Lived Assets and for Long-Lived Assets to be Disposed of (Statement No. 121), requires reporting entities to review all long-lived assets and certain identifiable intangibles that are to be held, used, or disposed of by that entity for impairment whenever events and changes in circumstances indicate that the carrying amount of the asset may not be recoverable. If the sum of the expected future cash flows (undiscounted and without interest charges) is less than the carrying value of the asset, the entity must recognize an impairment loss. The impairment loss is measured as the amount by which the carrying amount of the asset exceeds the fair value of the asset. The impairment loss is reported as a component of income from continuing operations before income taxes for entities presenting an income statement and in the statement of activities of not-for-profit organizations. Statement No. 121 does not apply to assets included in the scope of Statement of Financial Accounting Standards No. 90, Regulated Enterprises - Accounting for Abandonments and Disallowances of Plant Costs.
+Statement of Financial Accounting Standards No. 121, Accounting for the Impairment of Long-Lived Assets and for Long-Lived Assets to be Disposed of (Statement No. 121), requires reporting entities to review all long-lived assets and certain identifiable intangibles that are to be held, used, or disposed of by that entity for impairment whenever events and changes in circumstances indicate that the carrying amount of the asset may not be recoverable. If the sum of the expected future cash flows (undiscounted and without interest charges) is less than the carrying value of the asset, the entity must recognize an impairment loss. The impairment loss is measured as the amount by which the carrying amount of the asset exceeds the fair value of the asset. The impairment loss is reported as a component of income from continuing operations before income taxes for entities presenting an income statement and in the statement of activities of not-for-profit organizations. Statement No. 121 does not apply to assets included in the scope of Statement of Financial Accounting Standards No. 90, Regulated Enterprises—Accounting for Abandonments and Disallowances of Plant Costs.
 
 Assets To Be Held or Used
 
@@ -1015,9 +1009,9 @@ The following financial statement disclosures are required in the period in whic
 
 Assets To Be Disposed
 
-Statement No. 121 also applies to all long-lived assets and certain identifiable intangibles for which management, having the authority to approve the action, has committed to a plan of disposal except those assets covered by APB No. 30, Reporting the Results of Operations - Reporting the Effects of Disposal of a Segment of a Business, and Extraordinary, Unusual and Infrequently Occurring Events and Transactions. An asset to be disposed of is carried at the lower of its carrying amount (acquisition cost less accumulated depreciation) or its fair value less cost to sell.
+Statement No. 121 also applies to all long-lived assets and certain identifiable intangibles for which management, having the authority to approve the action, has committed to a plan of disposal except those assets covered by APB No. 30, Reporting the Results of Operations—Reporting the Effects of Disposal of a Segment of a Business, and Extraordinary, Unusual and Infrequently Occurring Events and Transactions. An asset to be disposed of is carried at the lower of its carrying amount (acquisition cost less accumulated depreciation) or its fair value less cost to sell.
 
-The fair value of the asset to be disposed of is computed in the same manner as that for an asset to be held or used by the entity. Selling costs include the incremental direct cost to transact the sale - broker commissions, legal fees, title transfer, and other closing costs that must be incurred before legal title can be transferred. Costs such as insurance, security service, and utilities are generally excluded unless these costs are part of a contractual agreement that obligates the entity to incur such costs in the future. If the asset's fair value is based upon current market price or the current selling price for a similar asset, the fair value is considered a current amount and is not discounted. If, however, the fair value is based upon discounted expected future cash flows and if the sale is to occur beyond one year, the cost to sell must also be discounted. Assets covered by this statement are not depreciated (amortized) while being held for disposal.
+The fair value of the asset to be disposed of is computed in the same manner as that for an asset to be held or used by the entity. Selling costs include the incremental direct cost to transact the sale—broker commissions, legal fees, title transfer, and other closing costs that must be incurred before legal title can be transferred. Costs such as insurance, security service, and utilities are generally excluded unless these costs are part of a contractual agreement that obligates the entity to incur such costs in the future. If the asset's fair value is based upon current market price or the current selling price for a similar asset, the fair value is considered a current amount and is not discounted. If, however, the fair value is based upon discounted expected future cash flows and if the sale is to occur beyond one year, the cost to sell must also be discounted. Assets covered by this statement are not depreciated (amortized) while being held for disposal.
 
 Subsequent revisions in estimates of fair value less cost to sell are reported as adjustments to the carrying amount of the asset to be disposed of as long as the carrying amount of the asset does not exceed the original carrying amount.
 
@@ -1043,7 +1037,7 @@ Effective Date and Implementation
 
 Statement No. 121 is effective for financial statements for fiscal years beginning after December 15, 1995. Impairment losses resulting from the application of this statement to assets that are held or used by the entity must be reported in the period in which the recognition criteria are first applied and met. Impairment losses attributable to assets to be disposed of must be reported as the cumulative effect of a change in accounting principle as prescribed in Accounting Principles Board Opinion No. 20, Accounting Changes.
 
-Accounting Journal Entries - Implementation Date
+Accounting Journal Entries—Implementation Date
 
 If a borrower has impaired assets that are held or used at the implementation date, the following entry should be recorded:
 
@@ -1051,15 +1045,15 @@ Dr. 426.5, Other DeductionsCr. 300 Series of Accounts, Plant AccountsTo record t
 
 If a borrower has impaired assets to be disposed of at the implementation date, the following entry should be recorded:
 
-Dr. 435.1, Cumulative Effect on Prior Years of a Change in Accounting PrincipleCr. 300 Series - Plant AccountsTo record the adoption of Statement No. 121 for assets that are to be disposed.Accounting Journal Entries - Subsequent to Implementation Date
+Dr. 435.1, Cumulative Effect on Prior Years of a Change in Accounting PrincipleCr. 300 Series—Plant AccountsTo record the adoption of Statement No. 121 for assets that are to be disposed.Accounting Journal Entries—Subsequent to Implementation Date
 
 If an asset that is either held, used or to be disposed of becomes impaired, the following entry should be recorded:
 
-Dr. 426.5, Other DeductionsCr. 300 Series - Plant AccountsTo record the impairment of a plant asset.
+Dr. 426.5, Other DeductionsCr. 300 Series—Plant AccountsTo record the impairment of a plant asset.
 
 If a borrower makes a subsequent revision in the estimate of the fair value less the cost to sell of an asset to be disposed of, the following entry should be recorded:
 
-Dr. 300 Series - Plant AccountsCr. 421, Miscellaneous Nonoperating IncomeTo revise the fair value of an asset to be disposed.138 Automatic Meter Reading Systems - Turtles
+Dr. 300 Series—Plant AccountsCr. 421, Miscellaneous Nonoperating IncomeTo revise the fair value of an asset to be disposed.138 Automatic Meter Reading Systems—Turtles
 
 Automatic meter reading systems were developed from technology called power line carrier communication systems. One such system, developed by Hunt Technologies, Inc., is called by its brand name, the Turtle system. In addition to its function as an automated reading device, the Turtle can provide outage detection, power failure counts, and other potential applications. The current Turtle system does not have the capability for applications such as collection of load survey or interval data. A Turtle system consists of:
 
@@ -1117,15 +1111,15 @@ When a membership fee is paid to CFC, the payment shall be recorded as a debit t
 
 The subscription agreement to purchase Capital Term Certificates (CTCs) is a binding obligation to pay an initial subscription in equal annual payments over the first three years and an additional annual subscription payable in the fourth through fifteenth years.
 
-The annual subscriptions to CFC for the fourth through fifteenth years is 2.0 percent of total operating revenues after deducting the cost of power. Using the best data available, each borrower shall estimate the amount of CTCs that are required to be purchased. Estimates are not expected to be precise and adjustments shall be made when future projections indicate a change is needed. When the agreement to purchase CTCs is made, an entry shall be recorded debiting Account 123.21, Subscriptions to Capital Term Certificates - Supplemental Financing, and crediting Account 224.11, Other Long-Term Debit - Subscriptions. When the CTCs are actually purchased, the following entries shall be recorded:
+The annual subscriptions to CFC for the fourth through fifteenth years is 2.0 percent of total operating revenues after deducting the cost of power. Using the best data available, each borrower shall estimate the amount of CTCs that are required to be purchased. Estimates are not expected to be precise and adjustments shall be made when future projections indicate a change is needed. When the agreement to purchase CTCs is made, an entry shall be recorded debiting Account 123.21, Subscriptions to Capital Term Certificates—Supplemental Financing, and crediting Account 224.11, Other Long-Term Debit—Subscriptions. When the CTCs are actually purchased, the following entries shall be recorded:
 
-Dr. 224.11, Other Long-Term Debt - SubscriptionsCr. 131.1, Cash - GeneralDr. 123.22, Investments in Capital Term Certificates - Supplemental FinancingCr. 123.21, Subscriptions to Capital Term Certificates - Supplemental Financing
+Dr. 224.11, Other Long-Term Debt—SubscriptionsCr. 131.1, Cash—GeneralDr. 123.22, Investments in Capital Term Certificates—Supplemental FinancingCr. 123.21, Subscriptions to Capital Term Certificates—Supplemental Financing
 
 3. *Interest Receipts*
 
 Interest accrues monthly to the holder of CTCs at a rate in accordance with the terms of the CFC Invitation to Subscribe. The accrual of interest and the receipt of interest proceeds shall be recorded as follows:
 
-Dr. 171, Interest and Dividends ReceivableCr. 419, Interest and Dividend IncomeTo record the monthly accrual of interest.Dr. 131.1, Cash - GeneralCr. 171, Interest and Dividends ReceivableTo record the receipt of interest proceeds from the investment in CTCs.Note:
+Dr. 171, Interest and Dividends ReceivableCr. 419, Interest and Dividend IncomeTo record the monthly accrual of interest.Dr. 131.1, Cash—GeneralCr. 171, Interest and Dividends ReceivableTo record the receipt of interest proceeds from the investment in CTCs.Note:
 
 Any amounts received in excess of the previous accruals shall be credited to Account 419.
 
@@ -1135,7 +1129,7 @@ Interest penalties may be charged by CFC for late payments on any subscription f
 
 If a note is due more than one year after the date of the note, the appropriate subaccount of Account 224, Other Long-Term Debt, shall be credited. If the note is due less than one year from the date of the note, Account 231, Notes Payable, shall be credited.
 
-When a loan from CFC has been consummated and a note is executed, Account 224.13, Supplemental Financing Notes Executed - Debit, shall be debited; and Account 224.12, Other Long-Term Debt - Supplemental Financing, credited. When a loan from another source has been consummated, Account 224.15, Notes Executed - Other - Debit, shall be debited; and Account 224.14, Other Long-Term Debt - Miscellaneous, credited.
+When a loan from CFC has been consummated and a note is executed, Account 224.13, Supplemental Financing Notes Executed—Debit, shall be debited; and Account 224.12, Other Long-Term Debt—Supplemental Financing, credited. When a loan from another source has been consummated, Account 224.15, Notes Executed—Other—Debit, shall be debited; and Account 224.14, Other Long-Term Debt—Miscellaneous, credited.
 
 5. *Loan Proceeds*
 
@@ -1143,7 +1137,7 @@ Cash proceeds from unsecured short-term loans shall be deposited into the Genera
 
 From two to seven percent, depending upon the class of borrower and its debt-equity ratio, of each CFC loan is applied to the purchase of Capital Term Certificates. At the time of a borrower's first requisition under the CFC loan, the following entry shall be recorded:
 
-Dr. 131.2, Cash - Construction Fund - TrusteeDr. 123.22, Investments in Capital Term Certificates - Supplemental FinancingCr. 224.13, Supplemental Financing Notes Executed - DebitTo record the requisition of funds from CFC.
+Dr. 131.2, Cash—Construction Fund—TrusteeDr. 123.22, Investments in Capital Term Certificates—Supplemental FinancingCr. 224.13, Supplemental Financing Notes Executed—DebitTo record the requisition of funds from CFC.
 
 6. *Capital Credits*
 
@@ -1155,11 +1149,11 @@ Dr. 123.1, Patronage Capital from Associated CooperativesCr. 424, Other Capital 
 
 If any portion of the interest expense was capitalized as a component of construction cost, a similar portion of the capital credit allocation shall be credited to construction rather than to Account 424. The portion credited to construction shall be determined by applying the percentage of interest expense charged to construction for that particular lender to the interest expense incurred for that lender.
 
-Dr. 131.1, Cash - GeneralCr. 123.1, Patronage Capital from Associated CooperativesTo record the cash receipt of patronage capital credits from cooperative lenders.301 Forfeited Customers' Deposits
+Dr. 131.1, Cash—GeneralCr. 123.1, Patronage Capital from Associated CooperativesTo record the cash receipt of patronage capital credits from cooperative lenders.301 Forfeited Customers' Deposits
 
 Customers may be required to make deposits to guarantee payment of amounts billed for electric service. When a customer discontinues service, the customer's deposit shall first be applied to unpaid energy bills, with the balance remitted by check to the customer. If the check is returned, it shall be voided and the original entry that was made when the check was issued shall be reversed.
 
-Unclaimed balances of customer deposits shall remain in Account 235, Customer Deposits, until the legal liability of the cooperative to make such a refund has elapsed. When there is no further legal liability to refund the deposit and if it does not escheat to the state, it shall be transferred to Account 144, Accumulated Provision for Uncollectible Customer Accounts - Credit, retaining full information of all particulars.
+Unclaimed balances of customer deposits shall remain in Account 235, Customer Deposits, until the legal liability of the cooperative to make such a refund has elapsed. When there is no further legal liability to refund the deposit and if it does not escheat to the state, it shall be transferred to Account 144, Accumulated Provision for Uncollectible Customer Accounts—Credit, retaining full information of all particulars.
 
 401 Computer Software Costs
 
@@ -1231,17 +1225,17 @@ A lease agreement shall be classified as a capital lease if one or more of the f
 
 4. The present value of the lease payments at the inception of the lease equals or exceeds 90 percent of the fair market value of the leased property.
 
-A lease agreement qualifying as a capital lease shall be recorded in either Account 101.1, Property Under Capital Leases;Account 120.6, Nuclear Fuel Under Capital Leases; or Account 121, Nonutility Property, as appropriate, at the present value (at the beginning of the lease term) of the minimum lease payments. If, however, this amount exceeds the fair value of the leased property at the inception of the lease, the asset shall be recorded at its fair market value. An offsetting credit shall be recorded in Account 227, Obligations Under Capital Leases - Noncurrent, with the current portion recorded in Account 243, Obligations Under Capital Leases - Current. Assets recorded in Account 101.1 shall be classified separately according to the detailed accounts (301-399) provided for electric plant in service.
+A lease agreement qualifying as a capital lease shall be recorded in either Account 101.1, Property Under Capital Leases;Account 120.6, Nuclear Fuel Under Capital Leases; or Account 121, Nonutility Property, as appropriate, at the present value (at the beginning of the lease term) of the minimum lease payments. If, however, this amount exceeds the fair value of the leased property at the inception of the lease, the asset shall be recorded at its fair market value. An offsetting credit shall be recorded in Account 227, Obligations Under Capital Leases—Noncurrent, with the current portion recorded in Account 243, Obligations Under Capital Leases—Current. Assets recorded in Account 101.1 shall be classified separately according to the detailed accounts (301-399) provided for electric plant in service.
 
 Monthly payments made under the lease obligation shall be charged to rent expense, fuel expense, or construction work-in-progress as they become payable. Similarly, the leased asset and the associated obligation shall be reduced by the current amount due.
 
 The following journal entries shall be used by the lessee to record capital lease transactions:
 
-Dr. 101.1, Property Under Capital LeasesCr. 243, Obligations Under Capital Leases - CurrentCr. 227, Obligations Under Capital Leases - NoncurrentTo record the capital lease agreement.Dr. 550, RentsCr. 232, Accounts PayableDr. 243, Obligations Under Capital Leases - CurrentCr. 101.1, Property Under Capital LeasesTo record the monthly rental payment due.Dr. 232, Accounts PayableCr. 131.1, Cash - GeneralTo record the monthly lease payment.
+Dr. 101.1, Property Under Capital LeasesCr. 243, Obligations Under Capital Leases—CurrentCr. 227, Obligations Under Capital Leases—NoncurrentTo record the capital lease agreement.Dr. 550, RentsCr. 232, Accounts PayableDr. 243, Obligations Under Capital Leases—CurrentCr. 101.1, Property Under Capital LeasesTo record the monthly rental payment due.Dr. 232, Accounts PayableCr. 131.1, Cash—GeneralTo record the monthly lease payment.
 
 Operating leases which are simple rental agreements do not require the recording of an asset or a liability. The entries that are required to record an operating lease by the lessee are as follows:
 
-Dr. 550, RentsCr. 232, Accounts PayableTo record the monthly rental payment due.Dr. 232, Accounts PayableCr. 131.1, Cash - GeneralTo record the monthly lease payment.
+Dr. 550, RentsCr. 232, Accounts PayableTo record the monthly rental payment due.Dr. 232, Accounts PayableCr. 131.1, Cash—GeneralTo record the monthly lease payment.
 
 For purposes of illustration, the journal entries presented in this interpretation debit Account 550, Rents. However, Account 507, Rents (steam power generation); Account 525, Rents (nuclear power generation); Account 540, Rents (hydraulic power generation); Account 550, Rents (other power production); Account 567, Rents (transmission expense); Account 589, Rents (distribution expense); and Account 931, Rents (general and administrative), should be charged, as appropriate, depending upon the function of the equipment being leased.
 
@@ -1253,7 +1247,7 @@ In October 1987, the Financial Accounting Standards Board issued Statement of Fi
 
 2. In those cases in which an RUS borrower has a majority-ownership in a subsidiary, the borrower must prepare consolidated financial statements in accordance with the requirements of Statement No. 94. These consolidated statements must also include supplementary schedules presenting a Balance Sheet and Income Statement for each majority-owned subsidiary included in the consolidated statements.
 
-Although Statement No. 94 requires the consolidation of majority-owned subsidiaries, Forms 7 and 12 must be prepared on a basis consistent with the equity method of accounting for investments. For distribution borrowers, this requires that the investment be shown on Form 7 in Part C, Balance Sheet, on line 7, Investments in Subsidiary Companies, or line 9, Investments in Associated Organizations - Other - General Funds, as appropriate. The result of operation is shown in Part A, Statement of Operations, on line 23, Income (Loss) from Equity Investments. For generation and transmission borrowers, the investments should be shown on Form 12, in Section C, Balance Sheet, on Line 7, Investments in Subsidiary Companies, or Line 9, Investments in Associated Organizations - Other - General Funds, as appropriate. The result of operations should be shown in Section A, Statement of Operations, on line 30, Income (Loss) from Equity Investments.
+Although Statement No. 94 requires the consolidation of majority-owned subsidiaries, Forms 7 and 12 must be prepared on a basis consistent with the equity method of accounting for investments. For distribution borrowers, this requires that the investment be shown on Form 7 in Part C, Balance Sheet, on line 7, Investments in Subsidiary Companies, or line 9, Investments in Associated Organizations—Other—General Funds, as appropriate. The result of operation is shown in Part A, Statement of Operations, on line 23, Income (Loss) from Equity Investments. For generation and transmission borrowers, the investments should be shown on Form 12, in Section C, Balance Sheet, on Line 7, Investments in Subsidiary Companies, or Line 9, Investments in Associated Organizations—Other—General Funds, as appropriate. The result of operations should be shown in Section A, Statement of Operations, on line 30, Income (Loss) from Equity Investments.
 
 501 Patronage Capital Assignments
 
@@ -1307,15 +1301,15 @@ In the event that a distribution cooperative incurs a net loss, that loss shall 
 
 As the board of directors has the responsibility for determining whether the financial condition of the cooperative will permit retirement of capital credits and whether the proposed retirement complies with mortgage and bylaw provisions, the authorization for the retirement shall be set forth in the board minutes. The entries to record the general retirement of capital credits shall be as follows:
 
-Dr. 201.1, Patronage Capital CreditsCr. 238.1, Patronage Capital PayableTo record the board of directors' authorization to make payments of capital credits.Dr. 238.1, Patronage Capital PayableCr. 131.1, Cash - General.To record actual cash payments of capital credits.Note:
+Dr. 201.1, Patronage Capital CreditsCr. 238.1, Patronage Capital PayableTo record the board of directors' authorization to make payments of capital credits.Dr. 238.1, Patronage Capital PayableCr. 131.1, Cash—General.To record actual cash payments of capital credits.Note:
 
 To provide better control over the payment of patronage capital credits, a special checking account should be established in an amount equal to the authorized general retirement. Special prenumbered checks shall be used for each general retirement of patronage capital.
 
 To strengthen internal control and to facilitate the settlement of estates, the board should adopt a policy specifying exactly how payments of capital credits shall be made to the estates of deceased patrons. Payments made to estates shall be recorded as follows:
 
-Dr. 201.1, Patronage Capital CreditsCr. 131.1, Cash - GeneralTo record the payment of capital credits when an estate is settled by refunding 100 cents on the dollar.Dr. 201.1, Patronage Capital CreditsCr. 131.1, Cash - GeneralCr. 217, Retired Capital Credits - GainTo record the payment of capital credits when an estate is settled for less than the full amount of capital credited to the deceased customer's account.Dr. 217, Retired Capital Credits - GainCr. 201.2, Patronage Capital AssignableTo record the reallocation to current patrons of the amount of the discount, if provided for in the bylaws.
+Dr. 201.1, Patronage Capital CreditsCr. 131.1, Cash—GeneralTo record the payment of capital credits when an estate is settled by refunding 100 cents on the dollar.Dr. 201.1, Patronage Capital CreditsCr. 131.1, Cash—GeneralCr. 217, Retired Capital Credits—GainTo record the payment of capital credits when an estate is settled for less than the full amount of capital credited to the deceased customer's account.Dr. 217, Retired Capital Credits—GainCr. 201.2, Patronage Capital AssignableTo record the reallocation to current patrons of the amount of the discount, if provided for in the bylaws.
 
-If a capital credit check is returned due to an inability to locate the patron, it shall be held pending a recheck of available records to ascertain the correct address of the patron. If it is determined that the patron cannot be located, the check shall be cancelled and the amount of the check debited to Account 131.1, Cash - General, and credited to Account 217, Retired Capital Credits - Gain. If the state, however, has unclaimed property laws to which the amount is subject, the amount shall be credited to Account 253, Other Deferred Credits, until final disposition has been made. A notation shall be made in the records of the former patron to facilitate payment if his or her whereabouts is subsequently determined.
+If a capital credit check is returned due to an inability to locate the patron, it shall be held pending a recheck of available records to ascertain the correct address of the patron. If it is determined that the patron cannot be located, the check shall be cancelled and the amount of the check debited to Account 131.1, Cash—General, and credited to Account 217, Retired Capital Credits—Gain. If the state, however, has unclaimed property laws to which the amount is subject, the amount shall be credited to Account 253, Other Deferred Credits, until final disposition has been made. A notation shall be made in the records of the former patron to facilitate payment if his or her whereabouts is subsequently determined.
 
 If the records show that a number of former patrons have moved and left no forwarding address, it is not necessary to prepare a capital credit retirement check for these patrons when a general retirement of capital credits is made. When setting funds aside to make a general retirement, however, appropriate amounts shall be included to cover payments due these patrons. The cooperative shall then make a reasonable effort to locate these patrons through publication of their names in the newsletter or local newspaper. If the patrons are not located, the amounts set aside and the credits to their accounts shall be handled in a manner similar to those for whom payment checks are returned.
 
@@ -1325,7 +1319,7 @@ Under the standard bylaw provisions recommended by RUS, it is not proper to use 
 
 Occasionally questions arise concerning the accounting for the balances in Accounts 218, Capital Gains and Losses; 219.3, Other Margins; 219.4, Other Margins and Equities-Prior Periods; 434, Extraordinary Income; and 435, Extraordinary Deductions. The balance in these accounts shall be accounted for as follows:
 
-1. The balance in Account 219.4, Other Margins and Equities - Prior Periods, shall be transferred, at year's end, to Account 219.1 or 219.2, as appropriate. Accounts 219.1 and 219.2 are then closed to Account 201.2, Patronage Capital Assignable, unless otherwise provided for in the bylaws.
+1. The balance in Account 219.4, Other Margins and Equities—Prior Periods, shall be transferred, at year's end, to Account 219.1 or 219.2, as appropriate. Accounts 219.1 and 219.2 are then closed to Account 201.2, Patronage Capital Assignable, unless otherwise provided for in the bylaws.
 
 2. The balances in Account 434, Extraordinary Income, and Account 435, Extraordinary Deductions, shall be cleared to Account 219.2 at year's end.
 
@@ -1393,21 +1387,21 @@ Some borrowers have group insurance or retirement plans or both for their employ
 
 Many utilities participate in the NRECA Deferred Compensation Program. Based upon the provisions of the program, the following accounting entries shall be made:
 
-Dr. 186.XX, Miscellaneous Deferred Debits - Deferred CompensationCr. 228.3, Accumulated Provision for Pensions and BenefitsTo increase the deferred compensation provision by the amount of the annual deposit to NRECA's Deferred Compensation Fund.Dr. 128, Other Special Funds - Deferred CompensationCr. 131.1, Cash - GeneralTo record the annual deposit to NRECA's Deferred Compensation Fund.Dr. Construction Work in Progress, Retirement Work in Progress, or the Various Operations, Maintenance, and Administrative Expense Accounts, as appropriate.Cr. 186.XX, Miscellaneous Deferred Debits - Deferred CompensationTo record monthly accrual of deferred compensation.Note:
+Dr. 186.XX, Miscellaneous Deferred Debits—Deferred CompensationCr. 228.3, Accumulated Provision for Pensions and BenefitsTo increase the deferred compensation provision by the amount of the annual deposit to NRECA's Deferred Compensation Fund.Dr. 128, Other Special Funds—Deferred CompensationCr. 131.1, Cash—GeneralTo record the annual deposit to NRECA's Deferred Compensation Fund.Dr. Construction Work in Progress, Retirement Work in Progress, or the Various Operations, Maintenance, and Administrative Expense Accounts, as appropriate.Cr. 186.XX, Miscellaneous Deferred Debits—Deferred CompensationTo record monthly accrual of deferred compensation.Note:
 
 If an employee joins the deferred compensation program during the year, use entry #1 to record the additional deposit to the NRECA Deferred Compensation Fund and increase the monthly accrual in entry #2 to reflect this deposit.
 
 NRECA provides borrowers that participate in the deferred compensation program with an annual account statement disclosing the activity for each Homestead Fund investment including the number of shares owned, interest income, dividend income, capital gains/losses, and the value of the shares owned at statement date. Funds may be invested in the Short-term Bond Fund, the Value Fund, the Short-term Government Securities Fund, and the Daily Income Fund. Depending upon the Homestead Fund selected, invested funds may earn interest and dividend income and may experience unrealized holding gains or losses. Based upon the information provided on the annual statement, the following journal entries shall be recorded to recognize the increase or decrease in the fund assets:
 
-Dr. 128, Other Special Funds - Deferred CompensationCr. 419, Interest and Dividend IncomeCr. 421, Miscellaneous Nonoperating IncomeTo record an increase in the fund value as of December 31, 19xx, resulting from interest and dividend income and from unrecognized holding gains on trading securities.Dr. Various Operations, Maintenance, and Administrative Expense AccountsCr. 228.3, Accumulated Provision for Pensions and BenefitsTo record an increase in the liability to the employee resulting from an increase in the investment account.Dr. 426.5, Other DeductionsCr. 128, Other Special Funds - Deferred CompensationTo record a decrease in fund value as of December 31, 19xx, resulting from unrecognized holding losses on trading securities.Dr. 228.3, Accumulated Provision for Pensions and BenefitsCr. Various Operations, Maintenance, and Administrative Expense AccountsTo record a decrease in the liability to the employee resulting from a decrease in the investment account.
+Dr. 128, Other Special Funds—Deferred CompensationCr. 419, Interest and Dividend IncomeCr. 421, Miscellaneous Nonoperating IncomeTo record an increase in the fund value as of December 31, 19xx, resulting from interest and dividend income and from unrecognized holding gains on trading securities.Dr. Various Operations, Maintenance, and Administrative Expense AccountsCr. 228.3, Accumulated Provision for Pensions and BenefitsTo record an increase in the liability to the employee resulting from an increase in the investment account.Dr. 426.5, Other DeductionsCr. 128, Other Special Funds—Deferred CompensationTo record a decrease in fund value as of December 31, 19xx, resulting from unrecognized holding losses on trading securities.Dr. 228.3, Accumulated Provision for Pensions and BenefitsCr. Various Operations, Maintenance, and Administrative Expense AccountsTo record a decrease in the liability to the employee resulting from a decrease in the investment account.
 
 Payments made to participating employees because of retirement or separation for other reasons shall be recorded using the following entries:
 
-Dr. 131.1, Cash - GeneralCr. 128, Other Special Funds - Deferred CompensationTo record the receipt of funds from NRECA.andDr. 228.3, Accumulated Provision for Pensions and BenefitsCr. 131.1, Cash - GeneralTo record payment to employee for deferred compensation.
+Dr. 131.1, Cash—GeneralCr. 128, Other Special Funds—Deferred CompensationTo record the receipt of funds from NRECA.andDr. 228.3, Accumulated Provision for Pensions and BenefitsCr. 131.1, Cash—GeneralTo record payment to employee for deferred compensation.
 
 If the borrower has elected to bear the market risk of the funds which guarantee that the amount of money an employee receives will not be less than the amount of salary deferred, the following entry shall be recorded if total payment(s) from NRECA are less than the amount of salary deferred:
 
-Dr. Various Operations, Maintenance, and Administrative Expense AccountsCr. 131.1, Cash - GeneralTo record payment to employee for deferred compensation. Payment was made because amount returned did not equal salary deferred.
+Dr. Various Operations, Maintenance, and Administrative Expense AccountsCr. 131.1, Cash—GeneralTo record payment to employee for deferred compensation. Payment was made because amount returned did not equal salary deferred.
 
 Appropriate disclosure of the terms of the program shall be made in the notes to the financial statements.
 
@@ -1419,9 +1413,9 @@ Some borrowers insure the life of the manager and/or key employees with the borr
 
 2. At the anniversary date of the policy each year, charge Account 124, Other Investments, and credit Account 426.2, Life Insurance, with the amount of the annual increase in the cash surrender value of the policy; provided such increase is less than the net premium paid for that year. If the annual increase in the surrender value exceeds the net premium paid for the same year, only that portion of the surrender value increase equal to the net premium paid shall be credited to Account 426.2. The remainder is to be credited to Account 419, Interest and Dividend Income.
 
-3. Upon retirement of the insured employee and surrender of the insurance policy, charge Account 131.1, Cash - General, and credit Account 124, Other Investments, for the amount received from the insurance company. If it is decided to grant to the retiring insured employee all, or any portion, of the cash received upon surrender of the policy, Account 926, Employee Pensions and Benefits, shall be charged and Account 131.1 credited for the amount paid to the retiring employee.
+3. Upon retirement of the insured employee and surrender of the insurance policy, charge Account 131.1, Cash—General, and credit Account 124, Other Investments, for the amount received from the insurance company. If it is decided to grant to the retiring insured employee all, or any portion, of the cash received upon surrender of the policy, Account 926, Employee Pensions and Benefits, shall be charged and Account 131.1 credited for the amount paid to the retiring employee.
 
-4. If the insured employee dies within his term of service, charge Account 131.1, Cash - General, for the face amount of the policy paid by the insurance company. Credit Account 124, Other Investments, for the cash surrender value previously charged thereto, and credit the remainder to Account 421, Miscellaneous Nonoperating Income.
+4. If the insured employee dies within his term of service, charge Account 131.1, Cash—General, for the face amount of the policy paid by the insurance company. Credit Account 124, Other Investments, for the cash surrender value previously charged thereto, and credit the remainder to Account 421, Miscellaneous Nonoperating Income.
 
 606 Pension Costs
 
@@ -1537,33 +1531,33 @@ Since the utility is unconditionally committed to making these payments and such
 
 The accounting journal entries required to record the transactions associated with a multiemployer pension plan are as follows:
 
-Sample 1 - Current Pension Expense
+Sample 1—Current Pension Expense
 
 The journal entry required to record the normal costs associated with the NRECA Retirement and Security Program is as follows:
 
-Dr. Various Operations, Maintenance, and Administrative Expense AccountsDr. 107, Construction Work-in-ProgressDr. 108.8, Retirement Work-in-ProgressCr. 131.1, Cash - GeneralTo record the payment of pension costs to NRECA.Note:
+Dr. Various Operations, Maintenance, and Administrative Expense AccountsDr. 107, Construction Work-in-ProgressDr. 108.8, Retirement Work-in-ProgressCr. 131.1, Cash—GeneralTo record the payment of pension costs to NRECA.Note:
 
 This entry shall not be recorded during the moratorium.
 
-Sample 2 - Prior Service Pension Expense
+Sample 2—Prior Service Pension Expense
 
 The journal entries required to record the prior service costs associated with the NRECA Retirement and Security Program are as follows:
 
 1. If the RUS borrower elects to pay the prior service pension costs in full, and there is no deferral of costs under the provision of Statement No. 71, the following entry shall be recorded:
 
-Dr. Various Operations, Maintenance, and Administrative Expense AccountsDr. 107, Construction Work-in-ProgressDr. 108.8, Retirement Work-in-ProgressCr. 131.1, Cash - GeneralTo record the payment of prior service pension costs to NRECA.
+Dr. Various Operations, Maintenance, and Administrative Expense AccountsDr. 107, Construction Work-in-ProgressDr. 108.8, Retirement Work-in-ProgressCr. 131.1, Cash—GeneralTo record the payment of prior service pension costs to NRECA.
 
 2. If the RUS borrower elects to finance prior service pension costs over a period of years and there is no deferral of costs under the provisions of Statement No. 71, the following entries shall be recorded:
 
-Dr. Various Operations, Maintenance, and Administrative Expense AccountsDr. 107, Construction Work-in-ProgressDr. 108.8, Retirement Work-in-ProgressCr. 224, Other Long-Term DebtTo record the liability to NRECA for prior service pension costs.Dr. 224, Other Long-Term DebtDr. 427, Interest on Long-Term DebtCr. 131.1, Cash - GeneralTo record the annual payment to NRECA for prior service pension costs.
+Dr. Various Operations, Maintenance, and Administrative Expense AccountsDr. 107, Construction Work-in-ProgressDr. 108.8, Retirement Work-in-ProgressCr. 224, Other Long-Term DebtTo record the liability to NRECA for prior service pension costs.Dr. 224, Other Long-Term DebtDr. 427, Interest on Long-Term DebtCr. 131.1, Cash—GeneralTo record the annual payment to NRECA for prior service pension costs.
 
 3. If the RUS borrower elects to finance prior service pension costs over a period of years and such costs are being deferred and amortized in accordance with the provisions of Statement No. 71, the following entries shall be recorded:
 
-Dr. 182.3, Other Regulatory AssetsCr. 224, Other Long-Term DebtTo record the liability to NRECA for prior service pension costs.Dr. Various Operations, Maintenance, and Administrative Expense AccountsDr. 107, Construction Work-in-ProgressDr. 108.8, Retirement Work-in-ProgressCr. 182.3, Other Regulatory AssetsTo record the amortization of deferred prior service pension costs.Dr. 224, Other Long-Term DebtDr. 427, Interest on Long-Term DebtCr. 131.1, Cash - GeneralTo record the annual payment to NRECA for prior service pension costs.
+Dr. 182.3, Other Regulatory AssetsCr. 224, Other Long-Term DebtTo record the liability to NRECA for prior service pension costs.Dr. Various Operations, Maintenance, and Administrative Expense AccountsDr. 107, Construction Work-in-ProgressDr. 108.8, Retirement Work-in-ProgressCr. 182.3, Other Regulatory AssetsTo record the amortization of deferred prior service pension costs.Dr. 224, Other Long-Term DebtDr. 427, Interest on Long-Term DebtCr. 131.1, Cash—GeneralTo record the annual payment to NRECA for prior service pension costs.
 
 4. If the RUS borrower elects to pay the prior service pension costs in full and such costs are being deferred and amortized in accordance with the provisions of Statement No. 71, the following entries shall be recorded:
 
-Dr. 182.3, Other Regulatory AssetsCr. 131.1, Cash - GeneralTo record the payment to NRECA for prior service pension costs.Dr. Various Operations, Maintenance, and Administrative Expense AccountsDr. 107, Construction Work-in-ProgressDr. 108.8, Retirement Work-in-ProgressCr. 182.3, Other Regulatory AssetsTo record the amortization of deferred prior service pension costs.
+Dr. 182.3, Other Regulatory AssetsCr. 131.1, Cash—GeneralTo record the payment to NRECA for prior service pension costs.Dr. Various Operations, Maintenance, and Administrative Expense AccountsDr. 107, Construction Work-in-ProgressDr. 108.8, Retirement Work-in-ProgressCr. 182.3, Other Regulatory AssetsTo record the amortization of deferred prior service pension costs.
 
 It should be noted that although the above entries relate specifically to the NRECA Retirement and Security Program, they are applicable to all multiemployer pension plans.
 
@@ -1655,13 +1649,13 @@ Under this type of arrangement, the distribution cooperative shall record the co
 
 Utilities may suffer losses as a result of thefts of cash, materials and supplies, equipment, or electric plant-in-service that is not covered by insurance. The charges for nominal uninsured losses shall be recorded in the following accounts:
 
-1. Cash - Account 924, Property Insurance, shall be charged.
+1. Cash—Account 924, Property Insurance, shall be charged.
 
-2. Plant materials and operating supplies - Account 163, Stores Expense Undistributed, shall be charged.
+2. Plant materials and operating supplies—Account 163, Stores Expense Undistributed, shall be charged.
 
-3. Equipment - Account 163, Stores Expense Undistributed, shall be charged for stores equipment; and Account 184, Transportation Expense - Clearing, for transportation and garage equipment. The appropriate miscellaneous operations or administrative expense account (Account 506, 524, 539, 549, 566, 588, 905, 910, 916, or 930.2, as appropriate) shall be charged for all other equipment.
+3. Equipment—Account 163, Stores Expense Undistributed, shall be charged for stores equipment; and Account 184, Transportation Expense—Clearing, for transportation and garage equipment. The appropriate miscellaneous operations or administrative expense account (Account 506, 524, 539, 549, 566, 588, 905, 910, 916, or 930.2, as appropriate) shall be charged for all other equipment.
 
-4. Electric Plant-in-Service - A retirement work order shall be prepared for electric plant constituting a unit of property. The loss due to retirement shall be charged to Account 108.6, Accumulated Provision for Depreciation of Distribution Plant. If the plant does not constitute a retirement unit, the loss shall be charged to the appropriate maintenance expense account.
+4. Electric Plant-in-Service—A retirement work order shall be prepared for electric plant constituting a unit of property. The loss due to retirement shall be charged to Account 108.6, Accumulated Provision for Depreciation of Distribution Plant. If the plant does not constitute a retirement unit, the loss shall be charged to the appropriate maintenance expense account.
 
 619 Self Billing
 
@@ -1703,7 +1697,7 @@ Debt is frequently extinguished before its scheduled maturity. Debt may be extin
 
 To provide consistency in reporting among all RUS borrowers, any gain or loss that is recognized for financial statement purposes should be reported in accordance with the provisions of General Instruction No. 17 of this part. Therefore, the gain or loss should be amortized (for reporting purposes) in equal monthly amounts over the remaining life of the original debt issue or the remaining life of the new issue. The gain or loss may be reported in the current period only in those instances in which it is immaterial to the financial statements.
 
-The RUS Form 7, Financial and Statistical Report, and the RUS Form 12, Operating Report - Financial, must, however, reflect the actual amounts recorded in the books and records of the borrower.
+The RUS Form 7, Financial and Statistical Report, and the RUS Form 12, Operating Report—Financial, must, however, reflect the actual amounts recorded in the books and records of the borrower.
 
 623 Satellite or Cable Television Services
 
@@ -1731,15 +1725,15 @@ The construction and installation of pollution control facilities are often fina
 
 Interest expense accrued on the pollution control bonds during the construction period shall be capitalized in Account 107, Construction Work-in-Progress. After construction is complete, all subsequent accruals of interest expense shall be charged to Account 427, Interest on Long-Term Debt.
 
-Interest income earned during the construction period shall be recorded as a debit to Account 171, Interest and Dividends Receivable, and a credit to Account 107, Construction Work-in-Progress. Upon notification of receipt of the interest in the trustee account, Account 221.XX, Long-Term Debt - Pollution Control Bonds, shall be debited and Account 171, Interest and Dividends Receivable shall be credited. Upon completion of construction, Account 419, Interest and Dividend Income, shall be credited for the amount of interest income earned during the period.
+Interest income earned during the construction period shall be recorded as a debit to Account 171, Interest and Dividends Receivable, and a credit to Account 107, Construction Work-in-Progress. Upon notification of receipt of the interest in the trustee account, Account 221.XX, Long-Term Debt—Pollution Control Bonds, shall be debited and Account 171, Interest and Dividends Receivable shall be credited. Upon completion of construction, Account 419, Interest and Dividend Income, shall be credited for the amount of interest income earned during the period.
 
 The entries required to account for the transactions associated with the issuance of pollution control bonds are as follows:
 
-Dr. 221.XX, Long-Term Debt - Pollution Control Bonds - TrusteeCr. Account 221.X1, Long-Term Debt - Pollution Control BondsTo record the sale of pollution control bonds.Dr. 107, Construction Work-in-ProgressCr. 232, Accounts PayableTo record costs incurred in construction of pollution control facilities.Dr. 131.1, Cash - General FundsCr. 221.XX, Long-Term Debt - Pollution Control Bonds - TrusteeTo record the transfer of funds from the trustee.Dr. 107, Construction Work-in-ProgressCr. 221.XX, Long-Term Debt - Pollution Control Bonds - TrusteeTo record interest expense on pollution control bonds.Dr. 171, Interest and Dividends ReceivableCr. 107, Construction Work-in-ProgressTo record earnings from investments made by the trustee.Dr. 221.XX, Long-Term Debt - Pollution Control Bonds - TrusteeCr. 171, Interest and Dividends ReceivableTo record receipt of interest income by the trustee account.Dr. XXX, Various Plant AccountsCr. 107, Construction Work-in-ProgressTo close completed construction to the primary plant accounts.625 Prepayment of Debt
+Dr. 221.XX, Long-Term Debt—Pollution Control Bonds—TrusteeCr. Account 221.X1, Long-Term Debt—Pollution Control BondsTo record the sale of pollution control bonds.Dr. 107, Construction Work-in-ProgressCr. 232, Accounts PayableTo record costs incurred in construction of pollution control facilities.Dr. 131.1, Cash—General FundsCr. 221.XX, Long-Term Debt—Pollution Control Bonds—TrusteeTo record the transfer of funds from the trustee.Dr. 107, Construction Work-in-ProgressCr. 221.XX, Long-Term Debt—Pollution Control Bonds—TrusteeTo record interest expense on pollution control bonds.Dr. 171, Interest and Dividends ReceivableCr. 107, Construction Work-in-ProgressTo record earnings from investments made by the trustee.Dr. 221.XX, Long-Term Debt—Pollution Control Bonds—TrusteeCr. 171, Interest and Dividends ReceivableTo record receipt of interest income by the trustee account.Dr. XXX, Various Plant AccountsCr. 107, Construction Work-in-ProgressTo close completed construction to the primary plant accounts.625 Prepayment of Debt
 
 Many RUS borrowers have decided to redeem (prepay) their issues of long-term debt. As a result of this redemption, the borrower may incur a gain (discount) or a loss (penalty) on the early extinguishment of debt. The accounting for this gain or loss is highlighted in this section.
 
-If debt is redeemed without refunding (paid with general funds), the gain or loss incurred shall be recorded in Account 189, Unamortized Loss on Reacquired Debt, or Account 257, Unamortized Gain on Reacquired Debt, as appropriate. The borrower shall amortize the recorded deferral on a monthly basis over the remaining life of the old debt issue. Amounts so amortized shall be charged to Account 428.1, Amortization of Loss on Reacquired Debt, or credited to Account 429.1, Amortization of Gain on Reacquired Debt - Credit, as appropriate.
+If debt is redeemed without refunding (paid with general funds), the gain or loss incurred shall be recorded in Account 189, Unamortized Loss on Reacquired Debt, or Account 257, Unamortized Gain on Reacquired Debt, as appropriate. The borrower shall amortize the recorded deferral on a monthly basis over the remaining life of the old debt issue. Amounts so amortized shall be charged to Account 428.1, Amortization of Loss on Reacquired Debt, or credited to Account 429.1, Amortization of Gain on Reacquired Debt—Credit, as appropriate.
 
 If the debt is redeemed with refunding (refinanced), the gain or loss incurred shall be recorded in Account 189 or Account 257, as appropriate. The borrower may elect to account for the deferrals as follows:
 
@@ -1759,19 +1753,19 @@ On December 21, 1987, Section 313, Cushion of Credits Payments Program, was adde
 
 Subpart B, Rural Economic Development Loan and Grant Program, 7 CFR Part 1703, sets forth the policies and procedures relating to the zero interest loan program and for approving and administering grants. The accounting journal entries required to record the transactions associated with a rural economic development loan are as follows:
 
-Dr. 224.17, RUS Notes Executed - Economic Development - DebitCr. 224.16, Long-Term Debt - RUS Economic Development Notes Executed
+Dr. 224.17, RUS Notes Executed—Economic Development—DebitCr. 224.16, Long-Term Debt—RUS Economic Development Notes Executed
 
 To record the contractual obligation to RUS for the Economic Development Notes.
 
-Dr. 131.12, Cash - General - Economic Development FundsCr. 224.17, RUS Notes Executed - Economic Development - Debit
+Dr. 131.12, Cash—General—Economic Development FundsCr. 224.17, RUS Notes Executed—Economic Development—Debit
 
 To record the receipt of the economic development loan funds.
 
-Dr. 123, Investment in Associated Organizations orDr. 124, Other InvestmentsCr. 131.12, Cash - General - Economic Development Funds
+Dr. 123, Investment in Associated Organizations orDr. 124, Other InvestmentsCr. 131.12, Cash—General—Economic Development Funds
 
 To record the disbursement of Economic development loan funds to the project.
 
-Dr. 131.1, Cash - General FundsCr. 421, Miscellaneous Nonoperating Income
+Dr. 131.1, Cash—General FundsCr. 421, Miscellaneous Nonoperating Income
 
 To record payment received from the project for loan servicing charges.
 
@@ -1779,7 +1773,7 @@ Dr. 171, Interest and Dividends ReceivableCr. 419, Interest and Dividend Income
 
 To record the interest earned on the investment of rural economic development loan funds.
 
-Dr. 426.1, Donations orDr. 426.5, Other DeductionsCr. 131.1, Cash - General Funds
+Dr. 426.1, Donations orDr. 426.5, Other DeductionsCr. 131.1, Cash—General Funds
 
 To record the payment of interest earned in excess of $500.00 on the investment of rural economic development loan funds.
 
@@ -1787,7 +1781,7 @@ Note:
 
 Interest earned in excess of $500.00 must be used for the rural economic development project for which the loan funds were received or returned to RUS.
 
-Dr. 131.12, Cash - General - Economic Development FundsCr. 123, Investment in Associated Organizations orCr. 124, Other Investments
+Dr. 131.12, Cash—General—Economic Development FundsCr. 123, Investment in Associated Organizations orCr. 124, Other Investments
 
 To record receipt of the repayment, by the project, of economic development loan funds.
 
@@ -1795,21 +1789,21 @@ Dr. 426.5, Other DeductionsCr. 123, Investment in Associated Organizations orCr.
 
 To record the default, by a project, of economic development loan funds.
 
-Dr. 224.16, Long-Term Debt - RUS Economic Development Notes ExecutedCr. 131.12, Cash - General - Economic Development Funds
+Dr. 224.16, Long-Term Debt—RUS Economic Development Notes ExecutedCr. 131.12, Cash—General—Economic Development Funds
 
 To record the repayment, to RUS, of the economic development loan funds.
 
 The accounting journal entries required to record the transactions associated with a rural economic development grant are as follows:
 
-Dr. 131.13, Cash - General - Economic Development Grant FundsCr. 224.18, Other Long-Term Debt - Grant Funds;Cr. 208, Donated Capital; orCr. 421, Miscellaneous Nonoperating Income
+Dr. 131.13, Cash—General—Economic Development Grant FundsCr. 224.18, Other Long-Term Debt—Grant Funds;Cr. 208, Donated Capital; orCr. 421, Miscellaneous Nonoperating Income
 
 To record grant funds disbursed by RUS. If the grant agreement requires repayment of the funds upon termination of the revolving loan program, Account 224.18 should be credited. If the grant agreement states that there is absolutely no obligation for repayment upon termination of the revolving loan program, the funds should be accounted for as a permanent infusion of capital by crediting Account 208. If, however, the grant agreement is silent as to the final disposition of the grant funds, Account 421 should be credited.
 
-Dr. 123.3, Investment in Associated Organizations - Federal Economic Development LoansCr. 131.13, Cash - General - Economic Development Grant Funds
+Dr. 123.3, Investment in Associated Organizations—Federal Economic Development LoansCr. 131.13, Cash—General—Economic Development Grant Funds
 
 To record advances of Federal funds to associated organizations for authorized rural economic development projects.
 
-Dr. 124.1, Other Investments - Federal Economic Development LoansCr. 131.13, Cash - General - Economic Development Grant Funds
+Dr. 124.1, Other Investments—Federal Economic Development LoansCr. 131.13, Cash—General—Economic Development Grant Funds
 
 To record advances of Federal funds to nonassociated organizations for authorized rural economic development projects.
 
@@ -1817,15 +1811,15 @@ Dr. 171, Interest and Dividends ReceivableCr. 419, Interest and Dividend Income
 
 To record the accrual of interest on loans made to associated and nonassociated organizations with Federal funds for authorized rural economic development projects.
 
-Dr. 131.14, Cash - General - Economic Development Non-Federal Revolving FundsCr. 123.3, Investment in Associated Organizations - Federal Economic Development Loans orCr. 124.1, Other Investments - Federal Economic Development Loans
+Dr. 131.14, Cash—General—Economic Development Non-Federal Revolving FundsCr. 123.3, Investment in Associated Organizations—Federal Economic Development Loans orCr. 124.1, Other Investments—Federal Economic Development Loans
 
 To record repayment of loans made with Federal funds.
 
-Dr. 123.4, Investment in Associated Organizations - Non-Federal Economic Development LoansCr. 131.14, Cash - General - Economic Development Non-Federal Revolving Funds
+Dr. 123.4, Investment in Associated Organizations—Non-Federal Economic Development LoansCr. 131.14, Cash—General—Economic Development Non-Federal Revolving Funds
 
 To record advances of non-Federal funds to associated organizations for authorized rural economic development projects.
 
-Dr. 124.2, Other Investments - Non-Federal Economic Development LoansCr. 131.14, Cash - General - Economic Development Non-Federal Revolving Funds
+Dr. 124.2, Other Investments—Non-Federal Economic Development LoansCr. 131.14, Cash—General—Economic Development Non-Federal Revolving Funds
 
 To record advances of non-Federal funds to nonassociated organizations for authorized rural economic development projects.
 
@@ -1833,7 +1827,7 @@ Dr. 171, Interest and Dividends ReceivableCr. 419, Interest and Dividend Income
 
 To record the accrual of interest on loans made to associated and nonassociated organizations with non-Federal funds for authorized rural economic development projects.
 
-Dr. 131.14, Cash - General - Economic Development Non-Federal Revolving FundsCr. 123.4, Investment in Associated Organizations - Non-Federal Economic Development Loans orCr. 124.2, Other Investments - Non-Federal Economic Development Loans
+Dr. 131.14, Cash—General—Economic Development Non-Federal Revolving FundsCr. 123.4, Investment in Associated Organizations—Non-Federal Economic Development Loans orCr. 124.2, Other Investments—Non-Federal Economic Development Loans
 
 To record repayment of loans made with non-Federal funds.
 
@@ -1863,7 +1857,7 @@ For plans outside the United States and for defined benefit plans of employers t
 
 RUS borrowers must comply with the implementation dates set forth in Statement No. 106. At the time of the adoption of Statement No. 106, rates must be in place sufficient to recover the current period expense and any amortization of the transition obligation. A copy of a board resolution or commission order, as appropriate, indicating that the transition obligation and current period expense have been included in the borrower's rates must be submitted to RUS.
 
-Accounting Journal Entries - Transition Obligation
+Accounting Journal Entries—Transition Obligation
 
 The journal entries required to record the transition obligation are as follows:
 
@@ -1877,19 +1871,19 @@ Dr. 182.3, Other Regulatory AssetsCr. 228.3, Accumulated Provision for Pensions 
 
 3. The deferral and amortization of the transition obligation under the provisions of Statement No. 106 is considered to be an off balance sheet item. If, therefore, the borrower elects to defer and amortize the transition obligation on a straight-line basis over the average remaining service period of the active employees or 20 years in accordance with Statement No. 106, no entry is required. Instead, the transition obligation is recognized as a component of postretirement benefit cost as it is amortized. It should be noted, however, that the amount of the unamortized transition obligation must be disclosed in the notes to the financial statements.
 
-Accounting Journal Entries - Current Period Expense
+Accounting Journal Entries—Current Period Expense
 
 The current period postretirement expense should be recorded by the following entry:
 
-Dr. Various Operations, Maintenance, and Administrative Expense AccountsDr. 107, Construction Work-in-ProgressDr. 108.8, Retirement Work-in-ProgressCr. 228.3, Accumulated Provision for Pensions and BenefitsTo record current period postretirement benefit expense.Dr. 228.3X, Accumulated Provision for Pensions and Benefits - FundedCr. 131.1, Cash - GeneralTo record cash payments on a “pay-as-you-go” basis for postretirement benefits.Accounting Journal Entry - Funding
+Dr. Various Operations, Maintenance, and Administrative Expense AccountsDr. 107, Construction Work-in-ProgressDr. 108.8, Retirement Work-in-ProgressCr. 228.3, Accumulated Provision for Pensions and BenefitsTo record current period postretirement benefit expense.Dr. 228.3X, Accumulated Provision for Pensions and Benefits—FundedCr. 131.1, Cash—GeneralTo record cash payments on a “pay-as-you-go” basis for postretirement benefits.Accounting Journal Entry—Funding
 
 If a borrower elects to voluntarily fund its postretirement benefits obligation in an external, irrevocable trust, the following entry shall be recorded:
 
-Dr. 228.3X, Accumulated Provision for Pensions and Benefits - FundedCr. 131.1, Cash - GeneralTo record the funding of postretirement benefits expense into an external, irrevocable trust.
+Dr. 228.3X, Accumulated Provision for Pensions and Benefits—FundedCr. 131.1, Cash—GeneralTo record the funding of postretirement benefits expense into an external, irrevocable trust.
 
 If a borrower elects to voluntarily fund its postretirement benefits obligation in an investment vehicle other than an external, irrevocable trust, the following entry shall be recorded:
 
-Dr. 128, Other Special FundsCr. 131.1, Cash - GeneralTo record the funding of postretirement benefits expense into an investment vehicle other than an external, irrevocable trust.628 Postemployment Benefits
+Dr. 128, Other Special FundsCr. 131.1, Cash—GeneralTo record the funding of postretirement benefits expense into an investment vehicle other than an external, irrevocable trust.628 Postemployment Benefits
 
 Statement of Financial Accounting Standards No. 112, Employers' Accounting for Postemployment Benefits (Statement No. 112) establishes the standards of financial accounting and reporting for employers who provide benefits to former or inactive employees after employment but before retirement. Inactive employees are those who are not currently rendering service to the employer but who have not been terminated, including employees who are on disability leave, regardless of whether they are expected to return to active service. For purposes of applying the provisions of Statement No. 112, former members of the board of directors are considered to be employees of the cooperative.
 
@@ -1951,7 +1945,7 @@ All trading securities are reported as current assets in the balance sheet and i
 
 Accounting Requirements
 
-All RUS borrowers must adopt the accounting, reporting, and disclosure requirements set forth in Statement No. 115 as of the statement's implementation date. Unrealized holding gains or losses for trading securities shall be recorded in either Account 421, Miscellaneous Nonoperating Income, or Account 426.5, Other Deductions, as appropriate. Unrealized holding gains or losses for available-for-sale securities held by the corporate entity are recognized as a component of stockholder's equity in Account 215.1, Unrealized Gains and Losses - Debt and Equity Securities. A contra account of the investment account shall be debited or credited accordingly. Unrealized gains and losses for available-for-sale securities held in a decommissioning fund shall increase or decrease, as appropriate, the reported value of the fund.
+All RUS borrowers must adopt the accounting, reporting, and disclosure requirements set forth in Statement No. 115 as of the statement's implementation date. Unrealized holding gains or losses for trading securities shall be recorded in either Account 421, Miscellaneous Nonoperating Income, or Account 426.5, Other Deductions, as appropriate. Unrealized holding gains or losses for available-for-sale securities held by the corporate entity are recognized as a component of stockholder's equity in Account 215.1, Unrealized Gains and Losses—Debt and Equity Securities. A contra account of the investment account shall be debited or credited accordingly. Unrealized gains and losses for available-for-sale securities held in a decommissioning fund shall increase or decrease, as appropriate, the reported value of the fund.
 
 Effective Date and Implementation
 
@@ -1969,7 +1963,7 @@ Accounting Journal Entries
 
 The journal entries required to account for the NRECA Split Dollar Life Insurance Program are as follows:
 
-Dr. 124, Other InvestmentsCr. Various Operations, Maintenance, and Administrative Expense AccountsTo record an increase in the cash surrender value of the insurance contract.orDr. Various Operations, Maintenance, and Administrative Expense AccountsCr. 124, Other InvestmentsTo record a decrease in the cash surrender value of the insurance contract.Dr. Various Operations, Maintenance, and Administrative Expense AccountsDr. 107, Construction Work-in-ProgressDr. 108.8, Retirement Work-in-ProgressCr. 131.1, Cash - GeneralTo record the premium cost of the insurance contract.631 Special Early Retirement Plan
+Dr. 124, Other InvestmentsCr. Various Operations, Maintenance, and Administrative Expense AccountsTo record an increase in the cash surrender value of the insurance contract.orDr. Various Operations, Maintenance, and Administrative Expense AccountsCr. 124, Other InvestmentsTo record a decrease in the cash surrender value of the insurance contract.Dr. Various Operations, Maintenance, and Administrative Expense AccountsDr. 107, Construction Work-in-ProgressDr. 108.8, Retirement Work-in-ProgressCr. 131.1, Cash—GeneralTo record the premium cost of the insurance contract.631 Special Early Retirement Plan
 
 The Special Early Retirement Plan (SERP) being offered through the National Rural Electric Cooperative Association (NRECA) constitutes an amendment to its Retirement and Security (R&S) program. The SERP is often chosen as a vehicle through which the cooperative may reduce the size of its workforce or replace more highly paid employees with lower paid entry level employees. If an employee covered by an NRECA retirement plan chose to retire before his/her normal retirement date, that employee would receive an actuarially reduced benefit. However, when a cooperative elects to offer a SERP, no such reduction is required. The cooperative selects the criteria under which an employee will be eligible to participate such as age, years of service, or a combination of age and benefit service requirements. As with other amendments to the R&S program, NRECA calculates the cost of the plan based upon the criteria selected by the cooperative and allows the cooperative to pay the cost immediately or on an installment basis.
 
@@ -1983,11 +1977,11 @@ Accounting Journal Entries
 
 The journal entry required to record the additional pension costs associated with the SERP is as follows:
 
-Dr. Various Operations, Maintenance, and Administrative Expense AccountsDr. 107, Construction Work-in-ProgressDr. 108.8, Retirement Work-in-ProgressCr. 131.1, Cash - GeneralorCr. 224, Other Long-Term DebtTo record the prior service pension costs incurred as a result of adopting the SERP.
+Dr. Various Operations, Maintenance, and Administrative Expense AccountsDr. 107, Construction Work-in-ProgressDr. 108.8, Retirement Work-in-ProgressCr. 131.1, Cash—GeneralorCr. 224, Other Long-Term DebtTo record the prior service pension costs incurred as a result of adopting the SERP.
 
 If the borrower elects to defer and amortize the cost in accordance with Statement No. 71, the following entries shall be recorded:
 
-Dr. 182.3, Other Regulatory AssetsCr. 131.1, Cash - GeneralorCr. 224, Other Long-Term DebtTo record, under the provisions of Statement No. 71, the deferral of the prior service pension costs incurred as a result of adopting the SERP.Dr. Various Operations, Maintenance, and Administrative Expense AccountsDr. 107, Construction Work-in-ProgressDr. 108.8, Retirement Work-in-ProgressCr. 182.3, Other Regulatory AssetsTo record the amortization of deferred prior service pension costs as they are recovered through rates in accordance with Statement No. 71.Statement No. 106
+Dr. 182.3, Other Regulatory AssetsCr. 131.1, Cash—GeneralorCr. 224, Other Long-Term DebtTo record, under the provisions of Statement No. 71, the deferral of the prior service pension costs incurred as a result of adopting the SERP.Dr. Various Operations, Maintenance, and Administrative Expense AccountsDr. 107, Construction Work-in-ProgressDr. 108.8, Retirement Work-in-ProgressCr. 182.3, Other Regulatory AssetsTo record the amortization of deferred prior service pension costs as they are recovered through rates in accordance with Statement No. 71.Statement No. 106
 
 In the event that net reductions in postretirement benefits result from this plan amendment, the reductions are recognized as follows:
 
@@ -2011,13 +2005,12 @@ If, after the two previous reductions have been made, any net credit remains, it
 
 On December 21, 1987, Section 313, Cushion of Credits Payments Program, was added to the Rural Electrification Act. Cushion of credit regulations are located in The Code of Federal Regulations (CFR) 7 CFR part 1785. A cushion of credit payment is a voluntary unscheduled payment by a borrower in excess of amounts due and payable. A cushion of credit account is automatically established by Rural Development for each borrower who makes a payment after October 1, 1987, in excess of amounts then due on a Rural Development note. Payments received in the month in which an installment is due will be applied to the installment due. However, if the regular installment payment is received at a later date in the month, the first payment received will be applied retroactively to the cushion of credit account and the second will be applied to the installment due. By law, cushion of credit accounts earn five per cent interest annually, accrued daily and posted quarterly. Although the interest earned will appear as a reduction in the interest billed on the borrower's Rural Development notes and will be separately shown on Form 694, Statement of Interest and Principal Due, interest billed must be adjusted by adding back the interest earned while principal is reduced by the amount of the interest earned before recording the debt payment. Below is an example of the adjustment required:
 
-|              |As billed|Adjustment|Adjusted|
-|--------------|---------|----------|--------|
-|Payment Billed| $1,000  |          | $1,000 |
-|  Principal   |   800   |   −$50   |  750   |
-|   Interest   | \* 200  |    50    |  250   |
-
-\* Includes reduction of $50 for interest earned on cushion of credit account.
+|                                                                              |As billed|Adjustment|Adjusted|
+|------------------------------------------------------------------------------|---------|----------|--------|
+|                                Payment Billed                                | $1,000  |          | $1,000 |
+|                                  Principal                                   |   800   |   −$50   |  750   |
+|                                   Interest                                   | \* 200  |    50    |  250   |
+|\* Includes reduction of $50 for interest earned on cushion of credit account.|         |          |        |
 
 Cushion of credit is intended to enable the borrower to deposit funds and have those funds available to make scheduled payments (or installments) only. A borrower may not have more cushion of credit funds, including accrued interest, than their entire Rural Development debt which includes loans made in Rural Electric and Telephone (RET) and Federal Financing Bank (FFB). If a borrower makes less than or no payment when their billing invoice is due, cushion of credit will automatically add to or make their payment systematically for them.
 
@@ -2031,14 +2024,14 @@ Accounting Requirements
 
 All payments made to a cushion of credit account should be recorded as follows:
 
-Dr. 224.6, Advance Payments Unapplied - Long-Term Debt - Debit Cr. 131.1, Cash - General
+Dr. 224.6, Advance Payments Unapplied—Long-Term Debt—Debit Cr. 131.1, Cash—General
 
 All interest earned on the balance of funds in the account should be recorded as follows:
 
-Dr. 224.6, Advance Payments Unapplied - Long-Term Debt - Debit Cr. 419, Interest and Dividend IncomeReporting Requirements
+Dr. 224.6, Advance Payments Unapplied—Long-Term Debt—Debit Cr. 419, Interest and Dividend IncomeReporting Requirements
 
 Previously, Rural Development required that the balance in the cushion of credit account be reported, on the Form 7, Financial and Statistical Report, as a reduction of the Rural Development long-term debt balance. On January 15, 2003, Rural Development issued letter guidance permitting a proportionate share of the cushion of credit balance be reported as a reduction in Current Maturities Long-Term Debt. Additionally, beginning with calendar year 2006 submissions, Form 7 has been revised to include a separate line for cushion of credit balances within the long-term debt section of Part C.
 
 For purposes of the audited financial statements, presentation of the balance of the cushion of credit account as a long-term investment is an acceptable alternative to Rural Development.
 
-[58 FR 59825, Nov. 10, 1993, as amended at 59 FR 27436, May 27, 1994; 60 FR 55430, 55435, Nov. 1, 1995; 62 FR 42319, 42323, 42330, Aug. 6, 1997; 73 FR 30288, May 27, 2008; 86 FR 36199, July 9, 2021]
+[58 FR 59825, Nov. 10, 1993, as amended at 59 FR 27436, May 27, 1994; 60 FR 55430, 55435, Nov. 1, 1995; 62 FR 42319, 42323, 42330, Aug. 6, 1997; 73 FR 30288, May 27, 2008; 86 FR 36199, July 9, 2021; 86 FR 63308, Nov. 16, 2021]

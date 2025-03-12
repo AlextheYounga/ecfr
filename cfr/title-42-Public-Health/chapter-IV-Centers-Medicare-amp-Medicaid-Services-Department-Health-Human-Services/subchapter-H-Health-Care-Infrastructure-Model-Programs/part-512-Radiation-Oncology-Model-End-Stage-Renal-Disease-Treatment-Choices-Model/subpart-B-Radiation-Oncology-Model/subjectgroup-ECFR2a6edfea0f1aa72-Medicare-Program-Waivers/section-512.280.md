@@ -1,5 +1,7 @@
 ##### § 512.280 RO Model Medicare program waivers. #####
 
+Link to an amendment published at 86 FR 63997, Nov. 16, 2021.
+
 (a) *General.* The Secretary may waive certain requirements of title XVIII of the Act as necessary solely for purposes of testing of the RO Model. Such waivers apply only to the participants in the RO Model.
 
 (b) *Hospital Outpatient Quality Reporting (OQR) Program.* CMS waives the application of the Hospital OQR Program 2.0 percentage point reduction under section 1833(t)(17) of the Act for only those Ambulatory Payment Classifications (APCs) that include only RO Model-specific HCPCS codes during the Model performance period.

@@ -280,7 +280,7 @@ The requirement for a 6% knuckle radius on torispherical heads are excepted.
 
 (1) TB 700-2; NAVSEAINST 8020.8C/TO 11A-1-47: DOD Ammunition and Explosives Hazard Classification Procedures, July 30, 2012, into § 173.56.
 
-(2) DLAR 4145.41/AR 700-143/NAVSUPINST 4030.55D/AFMAN 24-210\_IP/MCO 4030.40C: Packaging of Hazardous Material, April 21, 2015, into § 173.7.
+(2) DLAR 4145.41/AR 700-143/NAVSUPINST 4030.55D/AFMAN 24-210\_\_IP/MCO 4030.40C: Packaging of Hazardous Material, April 21, 2015, into § 173.7.
 
 (p) *European Union. Rue de la Loi/Wetstraat, 175B-1048 Bruxelles/Brussel Belgique/België], https://europa.eu/european-union/documents-publications\_en*.
 
@@ -620,4 +620,4 @@ Table 1 to 49 CFR 171.7 - Materials Not Incorporated by Reference
 |                                       Truck Trailer Manufacturers Association, 1020 Princess Street, Alexandria, Virginia 22314, telephone (703) 549-3010, http://www.ttmanet.org:                                       |                                           |
 |                                        TTMA RP No. 96-01, TTMA RP No. 96-01, Structural Integrity of DOT 406, DOT 407, and DOT 412 Cylindrical Cargo Tanks, January 2001 Edition                                         |                 178.345-3                 |
 
-[78 FR 1027, Jan. 7, 2013, as amended at 78 FR 15321, Mar. 11, 2013; 78 FR 65468, Oct. 31, 2013; 79 FR 15043, Mar. 18, 2014; 79 FR 40609, July 11, 2014; 80 FR 1114, Jan. 8, 2015; 80 FR 26746, May 8, 2015; 80 FR 79449, Dec. 21, 2015; 81 FR 25617, Apr. 29, 2016; 81 FR 35513, June 2, 2016; 82 FR 15833, Mar. 30, 2017; 83 FR 55806, Nov. 7, 2018; 84 FR 6952, Feb. 28, 2019; 85 FR 27852, May 11, 2020; 85 FR 78029, Dec. 3, 2020; 85 FR 75704, Nov. 25, 2020; 85 FR 85415, Dec. 28, 2020]
+[78 FR 1027, Jan. 7, 2013, as amended at 78 FR 15321, Mar. 11, 2013; 78 FR 65468, Oct. 31, 2013; 79 FR 15043, Mar. 18, 2014; 79 FR 40609, July 11, 2014; 80 FR 1114, Jan. 8, 2015; 80 FR 26746, May 8, 2015; 80 FR 79449, Dec. 21, 2015; 81 FR 25617, Apr. 29, 2016; 81 FR 35513, June 2, 2016; 82 FR 15833, Mar. 30, 2017; 83 FR 55806, Nov. 7, 2018; 84 FR 6952, Feb. 28, 2019; 85 FR 27852, May 11, 2020; 85 FR 75704, Nov. 25, 2020; 85 FR 78029, Dec. 3, 2020; 85 FR 85415, Dec. 28, 2020]

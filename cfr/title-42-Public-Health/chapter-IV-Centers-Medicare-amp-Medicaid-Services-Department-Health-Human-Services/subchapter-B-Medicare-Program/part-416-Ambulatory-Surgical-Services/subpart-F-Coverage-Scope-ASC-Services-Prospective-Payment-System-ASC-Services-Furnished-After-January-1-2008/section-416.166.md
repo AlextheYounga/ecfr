@@ -1,5 +1,7 @@
 ##### § 416.166 Covered surgical procedures. #####
 
+Link to an amendment published at 86 FR 63992, Nov. 16, 2021.
+
 (a) *Covered surgical procedures.* (1) Effective for services furnished on or after January 1, 2008 through December 31, 2020, covered surgical procedures are those procedures that meet the general standards described in paragraph (b)(1) of this section (whether commonly furnished in an ASC or a physician's office) and are not excluded under paragraph (c) of this section; and
 
 (2) Effective for services furnished on or after January 1, 2021, covered surgical procedures are those procedures that meet the requirements described in paragraph (b)(2) of this section (whether commonly furnished in an ASC or a physician's office).

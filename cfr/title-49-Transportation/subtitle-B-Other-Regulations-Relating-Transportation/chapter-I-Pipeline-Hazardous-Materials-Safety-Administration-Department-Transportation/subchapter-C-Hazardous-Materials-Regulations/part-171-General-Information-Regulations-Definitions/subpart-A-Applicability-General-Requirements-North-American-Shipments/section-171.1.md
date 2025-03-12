@@ -98,4 +98,4 @@ Federal hazardous materials transportation law (49 U.S.C. 5101 *et seq.*) direct
 
 (g) *Penalties for noncompliance.* Each person who knowingly violates a requirement of the Federal hazardous material transportation law, an order issued under Federal hazardous material transportation law, subchapter A of this chapter, or a special permit or approval issued under subchapter A or C of this chapter is liable for a civil penalty of not more than $84,425 for each violation, except the maximum civil penalty is $196,992 if the violation results in death, serious illness, or severe injury to any person or substantial destruction of property. There is no minimum civil penalty, except for a minimum civil penalty of $508 for a violation relating to training.
 
-[68 FR 61937, Oct. 30, 2003; 70 FR 20031, Apr. 15, 2005, as amended at 70 FR 73162, Dec. 9, 2005; 71 FR 44931, Aug. 8, 2006; ; 86 FR 23252, May 3, 2021]
+[68 FR 61937, Oct. 30, 2003; 70 FR 20031, Apr. 15, 2005, as amended at 70 FR 73162, Dec. 9, 2005; 71 FR 44931, Aug. 8, 2006; 86 FR 23252, May 3, 2021]

@@ -1,5 +1,7 @@
 ##### § 512.210 RO participants and geographic areas. #####
 
+Link to an amendment published at 86 FR 63994, Nov. 16, 2021.
+
 (a) *RO participants.* Unless otherwise specified in paragraph (b) or (c) of this section, any RO participant that furnishes included RT services in a 5-digit ZIP Code linked to a CBSA selected for participation to an RO beneficiary for an RO episode that begins on or after July 1, 2021, and ends on or before December 31, 2025, must participate in the RO Model.
 
 (b) *Participant exclusions.* A PGP, freestanding radiation therapy center, or HOPD is excluded from participation in the RO Model if it:

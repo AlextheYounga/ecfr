@@ -1,5 +1,7 @@
 ##### § 512.230 Criteria for determining cancer types. #####
 
+Link to an amendment published at 86 FR 63996, Nov. 16, 2021.
+
 (a) *Included cancer types.* CMS includes in the RO Model test cancer types that satisfy all of the following criteria. The cancer type:
 
 (1) Is commonly treated with radiation; and
