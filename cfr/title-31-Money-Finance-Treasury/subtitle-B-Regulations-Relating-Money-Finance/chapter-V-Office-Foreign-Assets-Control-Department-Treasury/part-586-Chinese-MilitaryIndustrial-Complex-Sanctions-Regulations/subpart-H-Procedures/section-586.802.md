@@ -1,0 +1,3 @@
+##### § 586.802 Delegation of certain authorities of the Secretary of the Treasury. #####
+
+Any action that the Secretary of the Treasury is authorized to take pursuant to Executive Order (E.O.) 13959 of November 12, 2020, as amended by E.O. 14032 of June 3, 2021, and any further Executive orders issued pursuant to the national emergency declared therein, may be taken by the Director of OFAC or by any other person to whom the Secretary of the Treasury has delegated authority so to act.

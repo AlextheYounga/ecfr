@@ -1,0 +1,3 @@
+##### § 586.305 Publicly traded securities. #####
+
+The term *publicly traded securities* includes any *security,* as defined in section 3(a)(10) of the Securities Exchange Act of 1934, Public Law 73-291 (as codified as amended at 15 U.S.C. 78c(a)(10)), denominated in any currency that trades on a securities exchange or through the method of trading that is commonly referred to as *over-the-counter,* in any jurisdiction.

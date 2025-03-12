@@ -141,7 +141,7 @@ Table 12 to Paragraph (h)
 
 § 1.314 - to defer issuance of a patent.
 
-(i) *Processing fees.*(1) For taking action under one of the following sections that refers to this paragraph (i)(1):
+(i) *Processing fees.* (1) For taking action under one of the following sections that refers to this paragraph (i)(1):
 
 Table 13 to Paragraph (i)(1)
 
@@ -218,8 +218,9 @@ Table 16 to Paragraph (m)
 
 Table 17 to Paragraph (o)
 
+|                                                      |       |
+|------------------------------------------------------|-------|
 |By a small entity (§ 1.27(a)) or micro entity (§ 1.29)|$90.00 |
-|:-----------------------------------------------------|------:|
 |             By other than a small entity             |$180.00|
 
 (p) For an information disclosure statement under § 1.97(c) or (d):

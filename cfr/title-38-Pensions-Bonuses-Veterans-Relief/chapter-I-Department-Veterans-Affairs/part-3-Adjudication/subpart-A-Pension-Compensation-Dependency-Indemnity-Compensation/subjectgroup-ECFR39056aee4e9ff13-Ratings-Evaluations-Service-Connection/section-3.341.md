@@ -8,6 +8,6 @@
 
 (Authority: 38 U.S.C. 5313(c))
 
-(c) *Program for vocational rehabilitation.* Each time a veteran is rated totally disabled on the basis of individual unemployability during the period beginning after January 31, 1985, the Vocational Rehabilitation and Employment Service will be notified so that an evaluation may be offered to determine whether the achievement of a vocational goal by the veteran is reasonably feasible.
+(c) *Program for vocational rehabilitation.* Each time a veteran is rated totally disabled on the basis of individual unemployability during the period beginning after January 31, 1985, the Veteran Readiness and Employment (VR&E) Service will be notified so that an evaluation may be offered to determine whether the achievement of a vocational goal by the veteran is reasonably feasible.
 
-(Authority: 38 U.S.C. 1163)[46 FR 47541, Sept. 29, 1981, as amended at 50 FR 52774, Dec. 26, 1985; 55 FR 17271, Apr. 24, 1990l; 58 FR 32445, June 10, 1993; 68 FR 34542, June 10, 2003]
+(Authority: 38 U.S.C. 1163)[46 FR 47541, Sept. 29, 1981, as amended at 50 FR 52774, Dec. 26, 1985; 55 FR 17271, Apr. 24, 1990l; 58 FR 32445, June 10, 1993; 68 FR 34542, June 10, 2003; 87 FR 8742, Feb. 16, 2022]

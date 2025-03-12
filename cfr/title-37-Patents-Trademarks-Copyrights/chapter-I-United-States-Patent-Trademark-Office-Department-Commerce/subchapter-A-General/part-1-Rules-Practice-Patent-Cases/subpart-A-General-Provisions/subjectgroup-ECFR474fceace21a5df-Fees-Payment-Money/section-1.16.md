@@ -193,17 +193,6 @@ Table 20 to Paragraph (t)
 |:----------------------------|------:|
 |By other than a small entity |$400.00|
 
-(u) Additional fee for any application filed on or after January 1, 2022 under 35 U.S.C.111 for an original patent, except design, plant, or provisional applications, where the specification, claims, and/or abstract does not conform to the USPTO requirements for submission in DOCX format:
-
-Table 21 to Paragraph (u)
-
-|                                                                                                                                   |       |
-|-----------------------------------------------------------------------------------------------------------------------------------|-------|
-|                                                    By a micro entity (§ 1.29)                                                     |$100.00|
-|                                                   By a small entity (§ 1.27(a))                                                   |200.00 |
-|By a small entity (§ 1.27(a)) if the application is submitted in compliance with the Office electronic filing system (§ 1.27(b)(2))|200.00 |
-|                                               By other than a small or micro entity                                               |400.00 |
-
 Note to § 1.16:
 
 See §§ 1.445, 1.482 and 1.492 for international application filing and processing fees.
