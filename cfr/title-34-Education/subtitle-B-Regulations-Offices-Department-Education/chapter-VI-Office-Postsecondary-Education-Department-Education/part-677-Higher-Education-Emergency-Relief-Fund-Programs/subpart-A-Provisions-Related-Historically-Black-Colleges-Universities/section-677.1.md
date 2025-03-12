@@ -1,0 +1,3 @@
+##### § 677.1 Calculations. #####
+
+For the purpose of calculating allocations under section 314(a)(2)(A)(iii) of the Coronavirus Response and Relief Supplemental Appropriations Act, 2021 (division M of Pub. L. 116-260, December 27, 2020), an institution that has a total endowment of less than $1,000,000, including an institution that does not have an endowment, will be treated by the Secretary as having a total endowment of $1,000,000.

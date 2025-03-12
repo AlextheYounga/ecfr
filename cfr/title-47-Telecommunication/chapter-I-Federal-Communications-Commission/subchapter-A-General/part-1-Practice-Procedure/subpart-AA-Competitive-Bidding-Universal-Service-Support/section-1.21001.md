@@ -1,7 +1,5 @@
 ##### § 1.21001 Participation in competitive bidding for support. #####
 
-Link to an amendment published at 85 FR 75814, Nov. 25, 2020.
-
 (a) *Public Notice of the Application Process.* The dates and procedures for submitting applications to participate in competitive bidding pursuant to this subpart shall be announced by public notice.
 
 (b) *Application contents.* Unless otherwise established by public notice, an applicant to participate in competitive bidding pursuant to this subpart shall provide the following information in an acceptable form:
@@ -60,6 +58,4 @@ Link to an amendment published at 85 FR 75814, Nov. 25, 2020.
 
 (8) Applicants shall have a continuing obligation to make any amendments or modifications that are necessary to maintain the accuracy and completeness of information furnished in pending applications. Such amendments or modifications shall be made as promptly as possible, and in no case more than five business days after applicants become aware of the need to make any amendment or modification, or five business days after the reportable event occurs, whichever is later. An applicant's obligation to make such amendments or modifications to a pending application continues until they are made.
 
-[76 FR 73851, Nov. 29, 2011, as amended at 81 FR 44448, July 7, 2016; 85 FR 75814, Nov. 25, 2020]Effective Date Notes:1. At 81 FR 44448, July 7, 2016, § 1.21001(b)(6) was revised. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
-
-2. At 85 FR 75814, Nov. 25, 2020, § 1.21001 was amended by revising paragraph (b), redesignating paragraphs (c) and (d) as paragraphs (e) and (f), adding new paragraphs (c) and (d), and revising newly redesignated paragraph (f). The effective date of paragraphs (b) and (e) is delayed and will be announced in the Federal Register.
+[76 FR 73851, Nov. 29, 2011, as amended at 81 FR 44448, July 7, 2016; 85 FR 75814, Nov. 25, 2020]

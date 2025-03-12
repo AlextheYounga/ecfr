@@ -24,4 +24,4 @@
 
 (f) *Procedures for reporting potentially prohibited communications.* Any report required to be filed pursuant to this section shall be filed as directed in public notices detailing procedures for the bidding that was the subject of the reported communication. If no such public notice provides direction, the party making the report shall do so in writing to the Chief of the Auctions Division, Office of Economics and Analytics, by the most expeditious means available, including electronic transmission such as email.
 
-[85 FR 75816, Nov. 25, 2020]Effective Date Note:At 85 FR 75816, Nov. 25, 2020, section 1.21002 was revised. The effective date of paragraphs (e) and (f) is delayed and will be announced in the Federal Register.
+[85 FR 75816, Nov. 25, 2020]
