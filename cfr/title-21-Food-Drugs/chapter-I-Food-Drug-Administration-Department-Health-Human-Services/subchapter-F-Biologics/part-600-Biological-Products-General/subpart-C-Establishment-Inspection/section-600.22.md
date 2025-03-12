@@ -1,5 +1,7 @@
 ##### § 600.22 Duties of inspector. #####
 
+Link to an amendment published at 83 FR 3589, Jan. 26, 2018.
+
 The inspector shall:
 
 (a) Call upon the active head of the establishment, stating the object of his visit,

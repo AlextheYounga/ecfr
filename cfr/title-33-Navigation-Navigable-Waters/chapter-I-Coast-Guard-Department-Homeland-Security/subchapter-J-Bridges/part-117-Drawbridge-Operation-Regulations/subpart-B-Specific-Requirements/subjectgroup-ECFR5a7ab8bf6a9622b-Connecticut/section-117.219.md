@@ -1,5 +1,7 @@
 ##### § 117.219 Pequonnock River. #####
 
+Link to an amendment published at 83 FR 3963, Jan. 29, 2018.
+
 (a) The draw of the Stratford Avenue Bridge at mile 0.1, at Bridgeport, shall open on signal; except that, from 6:45 a.m. to 7:15 a.m., 7:45 a.m. to 8:15 a.m., 11:45 a.m. to 1:15 p.m., and 4:30 p.m. to 6:10 p.m., the draw need not open for the passage of vessel traffic. From December 1 through March 31, from 8 p.m. to 4 a.m., the draw shall open on signal if at least a six-hour notice is given by calling the number posted at the bridge.
 
 (b) The draw of the Metro-North Peck Bridge at mile 0.3, at Bridgeport, shall open on signal or after three blasts as follows:

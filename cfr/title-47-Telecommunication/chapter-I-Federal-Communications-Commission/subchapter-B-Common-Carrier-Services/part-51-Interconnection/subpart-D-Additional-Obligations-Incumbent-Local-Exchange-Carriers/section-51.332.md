@@ -1,7 +1,5 @@
 ##### § 51.332 Notice of network changes: Copper retirement. #####
 
-Link to an amendment published at 82 FR 61477, Dec. 28, 2017.
-
 (a) *Definition.* For purposes of this section, the retirement of copper is defined as:
 
 (1) Removal or disabling of copper loops, subloops, or the feeder portion of such loops or subloops;
