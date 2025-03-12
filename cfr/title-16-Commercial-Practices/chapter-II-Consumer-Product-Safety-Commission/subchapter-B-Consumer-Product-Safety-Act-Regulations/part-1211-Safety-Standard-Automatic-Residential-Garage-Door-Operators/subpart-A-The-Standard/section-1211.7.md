@@ -1,14 +1,12 @@
 ##### § 1211.7 Inherent primary entrapment protection requirements. #####
 
-Link to an amendment published at 83 FR 32569, July 13, 2018.
-
 (a) *General requirements.* A vertically moving residential garage door operator system shall be supplied with inherent primary entrapment protection that complies with the requirements as specified in paragraph (b) of this section. A horizontally sliding residential garage door operator system shall be supplied with inherent primary entrapment protection that complies with the requirements as specified in paragraph (c) of this section.
 
 (b) *Inherent primary entrapment protection, vertically moving doors.* (1)(i) For a vertically moving residential garage door operator system, other than for the first 1 foot (305mm) of door travel from the full upmost position both with and without any secondary external entrapment protection device functional, the operator of a downward moving residential garage door shall initiate reversal of the door within 2 seconds of contact with the obstruction as specified in subparagraph (b)(3) of this section. After reversing the door, the operator shall return the door to, and stop at, the full upmost position. Compliance shall be determined in accordance with paragraphs (b)(3) through (10) of this section.
 
 (ii) The door operator is not required to return the door to, and stop the door at, the full upmost position when the operator senses a second obstruction during the upward travel.
 
-(iii) The door operator is not required to return the door to, and stop the door at, the full upmost position when a control is actuated to stop the door during the upward travel - but the door can not be moved downward until the operator reverses the door a minimum of 2 inches (50.8 mm).
+(iii) The door operator is not required to return the door to, and stop the door at, the full upmost position when a control is actuated to stop the door during the upward travel—but the door can not be moved downward until the operator reverses the door a minimum of 2 inches (50.8 mm).
 
 (2) The test shall be performed on a representative operating system installed in accordance with the manufacturer's installation instructions with the operator exerting a 25-lbf (111.21-N) pull or its rated pull, whichever is greater.
 
@@ -28,13 +26,13 @@ Link to an amendment published at 83 FR 32569, July 13, 2018.
 
 (ii) The door operator is not required to return the door to, and stop the door at, the full upmost position when an inherent entrapment circuit senses an obstruction during the upward travel.
 
-(iii) The door operator is not required to return the door to, and stop the door at, the full upmost position when a control is actuated to stop the door during the upward travel - but the door can not be moved downward until the operator reverses the door a minimum of 2 inches (50.8 mm).
+(iii) The door operator is not required to return the door to, and stop the door at, the full upmost position when a control is actuated to stop the door during the upward travel—but the door can not be moved downward until the operator reverses the door a minimum of 2 inches (50.8 mm).
 
 (8)(i) An operator, using an inherent entrapment protection system that does not measure or monitor the actual position of the door, shall initiate reversal of the door and shall return the door, to and stop the door at the full upmost position, when the lower limiting device is not actuated in 30 seconds or less following the initiation of the close cycle.
 
 (ii) The door operator is not required to return the door to, and stop the door at, the full upmost position when an inherent entrapment circuit senses an obstruction during the upward travel. When the door is stopped manually during its descent, the 30 seconds shall be measured from the resumption of the close cycle.
 
-(iii) The door operator is not required to return the door to, and stop the door at, the full upmost position when a control is actuated to stop the door during the upward travel - but the door can not be moved downward until the operator reverses the door a minimum of 2 inches (50.8 mm). When the door is stopped manually during its descent, the 30 seconds shall be measured from the resumption of the close cycle.
+(iii) The door operator is not required to return the door to, and stop the door at, the full upmost position when a control is actuated to stop the door during the upward travel—but the door can not be moved downward until the operator reverses the door a minimum of 2 inches (50.8 mm). When the door is stopped manually during its descent, the 30 seconds shall be measured from the resumption of the close cycle.
 
 (9) To determine compliance with paragraph (b)(7) or (8) of this section, an operator is to be subjected to 10 open-and-close cycles of operation while connected to the door or doors specified in paragraphs (b)(4) and (6) of this section. The cycles are not required to be consecutive. Motor cooling-off periods during the test meet the intent of the requirement. The means supplied to comply with the requirement in paragraph (b)(1) of this section and § 1211.8(a) or (b) are to be defeated during the test. An obstructing object is to be used so that the door is not capable of activating a lower limiting device.
 
@@ -42,9 +40,9 @@ Link to an amendment published at 83 FR 32569, July 13, 2018.
 
 (c) *Inherent primary entrapment protection, horizontally sliding doors.* (1)(i) For a horizontally sliding residential garage door operator system, other than for the first 1 foot (305mm) of door travel from the full closed position both with and without any external entrapment protection device functional, the operator of a closing residential garage door shall initiate reversal of the door within 2 seconds of contact with the obstruction as specified in paragraph (c)(3) of this section. After reversing the door, the operator shall open the door a minimum of 2 inches (50.8 mm) from the edge of the obstruction. Compliance shall be determined in accordance with paragraphs (c)(2) through (10) of this section.
 
-(ii) The door operator is not required to open the door a minimum 2 inches (50.8 mm) when the operator senses a second obstruction during the closing direction of travel.
+(ii) The door operator is not required to open the door a minimum 2 inches (50.8 mm) when the operator senses a second obstruction during the reversing travel.
 
-(iii) The door operator is not required to open the door a minimum 2 inches (50.8 mm) when a control is actuated to stop the door during movement towards the open position - but the door can not be moved towards the open position until the operator reverses the door a minimum of 2 inches (50.8 mm).
+(iii) The door operator is not required to open the door a minimum 2 inches (50.8 mm) when a control is actuated to stop the door during movement towards the open position—but the door can not be moved towards the closed position until the operator reverses the door a minimum of 2 inches (50.8 mm).
 
 (2) The test shall be performed on a representative operating system installed in accordance with the manufacturer's installation instructions with the operator exerting a 25-lbf (111.21-N) pull or its rated pull, whichever is greater.
 
@@ -60,20 +58,20 @@ Link to an amendment published at 83 FR 32569, July 13, 2018.
 
 (6) For an operator that is intended to be used with more than one type of door, one sample of the operator is to be tested on a sectional door with a curved track and one sample is to be tested on a one-piece door with jamb hardware and no track. For an operator that is not intended for use on either or both of these types of doors, a one-piece door with track hardware or a one-piece door with pivot hardware shall be used for the tests. For an operator that is intended for use with a specifically dedicated door or doors, a representative door or doors shall be used for the tests. See the marking requirements in § 1211.18.
 
-(7)(i) An operator, employing an inherent entrapment protection control that measures or monitors the actual position of the door, shall initiate reversal of the door and shall return the door to, and stop the door at, the fully closed position in the event the inherent door operation “profile” of the door differs from the originally set parameters. The system shall measure or monitor the position of the door at increments not greater than 1 inch (25.4 mm).
+(7)(i) An operator, employing an inherent entrapment protection control that measures or monitors the actual position of the door, shall initiate reversal of the door and shall return the door to, and stop the door at, the fully open position in the event the inherent door operation “profile” of the door differs from the originally set parameters. The system shall measure or monitor the position of the door at increments not greater than 1 inch (25.4 mm).
 
 (ii) The door operator is not required to open the door a minimum 2 inches (50.8 mm) when an inherent entrapment circuit senses an obstruction during the reversing travel.
 
-(iii) The door operator is not required to open the door a minimum 2 inches (50.8 mm) when a control is actuated to stop the door during the opening direction - but the door can not be moved in the closing direction until the operator reverses the door a minimum of 2 inches (50.8 mm).
+(iii) The door operator is not required to open the door a minimum 2 inches (50.8 mm) when a control is actuated to stop the door during the opening direction—but the door can not be moved in the closing direction until the operator reverses the door a minimum of 2 inches (50.8 mm).
 
 (8)(i) An operator, using an inherent entrapment protection system that does not measure or monitor the actual position of the door, shall initiate reversal of the door and shall open the door a minimum 2 inches (50.8 mm) when the closed position limit device is not actuated within 30 seconds or less following the initiation of the close cycle.
 
 (ii) The door operator is not required to open the door a minimum 2 inches (50.8 mm) when an inherent entrapment circuit senses an obstruction during the reversing travel.
 
-(iii) The door operator is not required to open the door a minimum 2 inches (50.8 mm) when a control is actuated to stop the door during the opening direction - but the door can not be moved in the closing direction until the operator has reversed the door a minimum of 2 inches (50.8 mm). When the door is stopped manually during its closing, the 30 seconds shall be measured from the resumption of the close cycle.
+(iii) The door operator is not required to open the door a minimum 2 inches (50.8 mm) when a control is actuated to stop the door during the opening direction—but the door can not be moved in the closing direction until the operator has reversed the door a minimum of 2 inches (50.8 mm). When the door is stopped manually during its closing, the 30 seconds shall be measured from the resumption of the close cycle.
 
 (9) To determine compliance with paragraph (c)(7) or (8) of this section, an operator is to be subjected to 10 open-and-close cycles of operation while connected to the door or doors specified in paragraphs (c)(4) and (6) of this section. The cycles are not required to be consecutive. Motor cooling-off periods during the test meet the intent of the requirement. The means supplied to comply with paragraph (c)(1) of this section and § 1211.8(b) are to be inoperative or defeated during the test. An obstructing object is to be used so that the door is not capable of activating a position limiting device.
 
 (10) During the closing cycle referred to in paragraph (c)(9) of this section, the system providing compliance with paragraphs (c)(1) and (7) of this section or paragraphs (c)(1) and (8) of this section shall function regardless of a short- or open-circuit anywhere in any low-voltage external wiring, any external entrapment devices, or any other external component.
 
-[81 FR 20228, Apr. 7, 2016]
+[81 FR 20228, Apr. 7, 2016, as amended at 83 FR 32569, July 13, 2018]

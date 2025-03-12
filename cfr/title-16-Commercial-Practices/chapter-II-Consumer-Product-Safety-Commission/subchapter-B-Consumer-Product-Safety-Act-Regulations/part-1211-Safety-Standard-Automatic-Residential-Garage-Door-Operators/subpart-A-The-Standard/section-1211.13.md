@@ -1,14 +1,12 @@
 ##### § 1211.13 Inherent force activated secondary door sensors. #####
 
-Link to an amendment published at 83 FR 32570, July 13, 2018.
-
 (a) *General.* (1) A force activated door sensor of a door system installed according to the installation instructions shall actuate in accordance with paragraphs (b) through (f) of this section, which are to be conducted in sequence on a single system sample, except for the separate test sequences of paragraph (a)(2) of this section.
 
 (2) The system shall actuate with the maximum and minimum specifications of the door, operator, and hardware.
 
 (3) Tests conducted per paragraphs (b) through (f) of this section shall be performed with the force exerted by a drive adjusted to its highest value if the force can be adjusted by the user during use or user maintenance.
 
-(4) The test cylinder referred to in paragraph (b)(7) of this section shall be a 17/8 in (47.6 mm) diameter cylinder placed under the door so that the axis is perpendicular to the plane of the door. See figure 6 to subpart A.
+(4) The test cylinder referred to in paragraph (b)(7) of this section shall be a 17/8 in (47.6 mm) diameter cylinder placed under the door so that the axis is perpendicular to the plane of the door. See figure 6A to subpart A.
 
 (5) The measuring device referred to in paragraph (b)(1) of this section shall:
 
@@ -80,4 +78,4 @@ Link to an amendment published at 83 FR 32570, July 13, 2018.
 
 (f) *Obstruction test.* For a door traveling in the downward direction, when an inherent secondary entrapment protection device senses an obstruction and initiates a reversal, any control activation shall not move the door downward until the operator reverses the door a minimum of 2 inches (50.8 mm). The test is to be performed as described in § 1211.7(b)(3)(iii). The system may be initially manually re-profiled for the purpose of this test.
 
-[81 FR 20233, Apr. 7, 2016]
+[81 FR 20233, Apr. 7, 2016, as amended at 83 FR 32570, July 13, 2018]

@@ -1,8 +1,6 @@
 ##### § 1211.5 General testing parameters. #####
 
-Link to an amendment published at 83 FR 32568, July 13, 2018.
-
-(a) The following test parameters are to be used in the investigation of the circuit covered by § 1211.4(c) for compliance with the Standard for Safety for Tests for Safety-Related Controls Employing Solid-State Devices, UL 991, second edition, dated June 23, 1995, as incorporated by reference in paragraph (b)(3) of this section:
+(a) The following test parameters are to be used in the investigation of the circuit covered by § 1211.4(c) for compliance with either, UL 991, or Supplement SA of UL 325-2017 (incorporated by reference, see § 1211.40):
 
 (1) With regard to electrical supervision of critical components, an operator being inoperative with respect to closing movement of the door meets the criteria for trouble indication.
 
@@ -26,8 +24,10 @@ Link to an amendment published at 83 FR 32568, July 13, 2018.
 
 (1) To conduct a failure-mode and effect analysis (FMEA);
 
-(2) In investigating the performance during the Environmental Stress Tests; and
+(2) In investigating the performance during the Environmental Stress Tests;
 
-(3) During the Power Cycling Safety for Tests in accordance with UL 991 (incorporated by reference, see § 1211.40).
+(3) During the Power Cycling Safety for Tests in accordance with UL 991 (incorporated by reference, see § 1211.40); and
 
-[57 FR 60455, Dec. 21, 1992, as amended at 62 FR 46667, Sept. 4, 1997; 65 FR 70657, Nov. 27, 2000; 81 FR 20228, Apr. 7, 2016]
+(4) During evaluation of the circuit to the requirements of Supplement SA of UL 325-2017 (incorporated by reference, see § 1211.40).
+
+[57 FR 60455, Dec. 21, 1992, as amended at 62 FR 46667, Sept. 4, 1997; 65 FR 70657, Nov. 27, 2000; 81 FR 20228, Apr. 7, 2016; 83 FR 32568, July 13, 2018]
