@@ -1,8 +1,8 @@
 ##### § 622.34 Seasonal and area closures designed to protect Gulf reef fish. #####
 
-Link to an amendment published at 86 FR 38417, July 21, 2021.
+(a) *Closure provisions applicable to the Madison and Swanson sites, Steamboat Lumps, and the Edges.* For the purpose of this paragraph (a), fish means finfish, mollusks, crustaceans, and all other forms of marine animal and plant life other than marine mammals and birds. The provisions of this paragraph (a) do not apply to Atlantic highly migratory species, such as tunas, billfishes, and oceanic sharks. See 50 CFR part 635 for any provisions applicable to fishing for or possession of Atlantic highly migratory species in these areas.
 
-(a) *Closure provisions applicable to the Madison and Swanson sites and Steamboat Lumps, and the Edges* - (1) *Descriptions of Areas.* (i) The Madison and Swanson sites are bounded by rhumb lines connecting, in order, the following points:
+(1) *Descriptions of Areas.* (i) The Madison and Swanson sites are bounded by rhumb lines connecting, in order, the following points:
 
 |Point|North lat.|West long.|
 |-----|----------|----------|
@@ -31,9 +31,9 @@ Link to an amendment published at 86 FR 38417, July 21, 2021.
 |  D  |  28°14′  |  84°54′  |
 |  A  |  28°51′  |  85°16′  |
 
-(2) Within the Madison and Swanson sites and Steamboat Lumps, possession of Gulf reef fish is prohibited, except for such possession aboard a vessel in transit with fishing gear stowed as specified in paragraph (a)(4) of this section.
+(2) Within the Madison and Swanson sites and Steamboat Lumps: Fishing is prohibited year-round; possession of Gulf reef fish is prohibited year-round except when such possession is on a vessel that has been issued a valid Federal commercial permit for Gulf reef fish, has an operating satellite-based VMS unit, and is in transit with fishing gear stowed as specified in paragraph (a)(4) of this section; and possession of any non-Gulf reef fish species is prohibited year-round, except for such possession on a vessel in transit with fishing gear stowed as specified in paragraph (a)(4) of this section.
 
-(3) Within the Madison and Swanson sites and Steamboat Lumps during November through April, and within the Edges during January through April, all fishing is prohibited, and possession of any fish species is prohibited, except for such possession aboard a vessel in transit with fishing gear stowed as specified in paragraph (a)(4) of this section. The provisions of this paragraph, (a)(3), do not apply to highly migratory species.
+(3) Within the Edges during January through April each year, all fishing is prohibited and the possession of any fish species is prohibited, except for such possession on a vessel in transit with fishing gear appropriately stowed as specified in paragraph (a)(4) of this section.
 
 (4) For the purpose of paragraph (a) of this section, transit means non-stop progression through the area; fishing gear appropriately stowed means -
 
@@ -44,10 +44,6 @@ Link to an amendment published at 86 FR 38417, July 21, 2021.
 (iii) A gillnet must be left on the drum. Any additional gillnets not attached to the drum must be stowed below deck.
 
 (iv) A rod and reel must be removed from the rod holder and stowed securely on or below deck. Terminal gear (*i.e.,* hook, leader, sinker, flasher, or bait) must be disconnected and stowed separately from the rod and reel. Sinkers must be disconnected from the down rigger and stowed separately.
-
-(5) Within the Madison and Swanson sites and Steamboat Lumps, during May through October, surface trolling is the only allowable fishing activity. For the purpose of this paragraph (a)(5), surface trolling is defined as fishing with lines trailing behind a vessel which is in constant motion at speeds in excess of four knots with a visible wake. Such trolling may not involve the use of down riggers, wire lines, planers, or similar devices.
-
-(6) For the purpose of this paragraph (a), fish means finfish, mollusks, crustaceans, and all other forms of marine animal and plant life other than marine mammals and birds. Highly migratory species means tuna species, marlin (*Tetrapturus spp.* and *Makaira spp.*), oceanic sharks, sailfishes (*Istiophorus spp.*), and swordfish (*Xiphias gladius*).
 
 (b) *Seasonal closure of the recreational sector for red snapper.* The recreational sector for red snapper in or from the Gulf EEZ is closed from January 1 through May 31, each year. During the closure, the bag and possession limit for red snapper in or from the Gulf EEZ is zero. See § 622.23(a)(1) regarding the fishing season for states with an active delegation of state management of the red snapper private angling component. A person subject to the private angling component bag limit under an active delegation of state management must be in compliance with the fishing license (permit) requirements of the state in which they intend to land the fish and may not possess red snapper in the Gulf EEZ when that state season is closed.
 
@@ -98,4 +94,4 @@ Table 4 to Paragraph (d)
 
 (g) *Recreational sector for hogfish in the Gulf EEZ south of 25°09′ N. lat. off the west coast of Florida.* See § 622.183(b)(4) for the applicable seasonal closures.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 27087, May 9, 2013; 78 FR 33261, June 4, 2013; 81 FR 24039, Apr. 25, 2016; 82 FR 34580, July 25, 2017; 82 FR 59525, Dec. 15, 2017; 82 FR 61487, Dec. 28, 2017; 83 FR 13428, Mar. 29, 2018; 85 FR 6823, Feb. 6, 2020; 85 FR 20613, Apr. 14, 2020]
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 27087, May 9, 2013; 78 FR 33261, June 4, 2013; 81 FR 24039, Apr. 25, 2016; 82 FR 34580, July 25, 2017; 82 FR 59525, Dec. 15, 2017; 82 FR 61487, Dec. 28, 2017; 83 FR 13428, Mar. 29, 2018; 85 FR 6823, Feb. 6, 2020; 85 FR 20613, Apr. 14, 2020; 86 FR 38417, July 20, 2021]

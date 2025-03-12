@@ -1,3 +1,5 @@
 ##### § 171.26 Right to dispute assessed fees. #####
 
-Link to an amendment published at 86 FR 32183, June 16, 2021.Link to an amendment published at 86 FR 44594, Aug. 13, 2021, delaying the eff. date until Aug. 20, 2021.
+All debtors' disputes of fees assessed must be submitted in accordance with 10 CFR 15.31.
+
+[86 FR 32183, June 16, 2021]

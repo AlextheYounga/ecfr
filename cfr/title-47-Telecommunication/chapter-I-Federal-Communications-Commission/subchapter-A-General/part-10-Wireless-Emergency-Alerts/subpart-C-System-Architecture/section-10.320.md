@@ -1,5 +1,7 @@
 ##### § 10.320 Provider alert gateway requirements. #####
 
+Link to an amendment published at 86 FR 46790, Aug. 20, 2021.
+
 This section specifies the functions that each Participating Commercial Mobile Service provider is required to support and perform at its CMS provider gateways.
 
 (a) *General.* The CMS provider gateway must provide secure, redundant, and reliable connections to receive Alert Messages from the Federal alert gateway. Each CMS provider gateway must be identified by a unique IP address or domain name.

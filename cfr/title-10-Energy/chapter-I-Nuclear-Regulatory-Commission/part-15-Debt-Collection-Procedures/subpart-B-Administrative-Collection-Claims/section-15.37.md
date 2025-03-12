@@ -1,7 +1,5 @@
 ##### § 15.37 Interest, penalties, and administrative costs. #####
 
-Link to an amendment published at 86 FR 32169, June 16, 2021.Link to an extension of the above amendment published at 86 FR 44594, Aug. 13, 2021.
-
 (a) The NRC shall assess interest, penalties, and administrative costs on debts owed to the United States Government in accordance with the guidance provided under the FCCS, 31 CFR 901.9.
 
 (b) Before assessing any charges on delinquent debt, the NRC shall mail or hand-deliver a written notice to the debtor explaining its requirements concerning these charges under 31 CFR 901.2 and 901.9, except where these charges are included in a contractual or repayment agreement.
@@ -20,7 +18,7 @@ Link to an amendment published at 86 FR 32169, June 16, 2021.Link to an extensio
 
 (i) The NRC shall waive collection of interest on the debt or any portion of the debt which is paid in full within 30 days after the date on which interest began to accrue.
 
-(j) The NRC may waive interest during the period a debt disputed under § 15.31 is under investigation or review by the NRC. However, this additional waiver is not automatic and must be requested before the expiration of the initial 30-day waiver period. The NRC may grant the additional waiver only when it finds merit in the explanation the debtor has submitted under § 15.31.
+(j) The NRC may waive interest during the period a debt disputed under § 15.31 is under consideration by the NRC. However, this additional waiver is not automatic and must be requested before the expiration of the initial 30-day waiver period. The NRC may grant the additional waiver only when it finds the debtor's dispute potentially raises an error.
 
 (k) The NRC may waive the collection of interest, penalties, and administrative costs if it finds that one or more of the following conditions exist:
 
@@ -34,4 +32,4 @@ Link to an amendment published at 86 FR 32169, June 16, 2021.Link to an extensio
 
 (l) The NRC is authorized to impose interest and related charges on debts not subject to 31 U.S.C. 3717, in accordance with common law.
 
-[55 FR 32380, Aug. 9, 1990, as amended at 67 FR 30322, May 6, 2002]
+[55 FR 32380, Aug. 9, 1990, as amended at 67 FR 30322, May 6, 2002; 86 FR 32169, June 16, 2021]

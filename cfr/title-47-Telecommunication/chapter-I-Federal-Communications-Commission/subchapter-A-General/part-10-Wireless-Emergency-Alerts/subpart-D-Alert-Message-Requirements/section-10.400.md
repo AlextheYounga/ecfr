@@ -1,5 +1,7 @@
 ##### § 10.400 Classification. #####
 
+Link to an amendment published at 86 FR 46790, Aug. 20, 2021.
+
 A Participating CMS Provider is required to receive and transmit four classes of Alert Messages: Presidential Alert; Imminent Threat Alert; Child Abduction Emergency/AMBER Alert; and Public Safety Message.
 
 (a) *Presidential Alert.* A Presidential Alert is an alert issued by the President of the United States or the President's authorized designee.

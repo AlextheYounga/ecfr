@@ -18,4 +18,4 @@
 
 (c) An employee who is notified that his or her attending physician has been excluded shall have a new right to select a qualified physician.
 
-[71 FR 78534, Dec. 29, 2006, as amended at 84 FR 3058, Feb. 8, 2019]
+[71 FR 78534, Dec. 29, 2006, as amended at 84 FR 3059, Feb. 8, 2019]

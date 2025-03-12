@@ -1,7 +1,5 @@
 ##### § 170.3 Definitions. #####
 
-Link to an amendment published at 86 FR 32170, June 16, 2021.Link to an amendment published at 86 FR 44594, Aug. 13, 2021, delaying the eff. date until Aug. 20.
-
 As used in this part:
 
 *Act* means the Atomic Energy Act of 1954 (68 Stat. 919) including any amendments thereto;
@@ -11,8 +9,6 @@ As used in this part:
 *Agreement State* means any State with which the Commission or the Atomic Energy Commission has entered into an effective agreement under subsection 274b of the Act. “Nonagreement State” means any other State.
 
 *Application* means any request filed with the Commission for a permit, license, approval, exemption, certificate, other permission, or for any other service.
-
-*Balance of plant* consists of the remaining systems, components, and structures that comprise a complete nuclear power plant and are not included in the nuclear steam supply system.
 
 *Byproduct material* means -
 
@@ -62,11 +58,11 @@ As used in this part:
 
 *Mission-indirect program support* means resources that support the core mission-direct activities. These resources include supervisory and nonsupervisory support and mission travel and training. Supervisory and nonsupervisory support and mission travel and training resources assigned under direct business line structure are considered mission-indirect due to their supporting role of the core mission activities.
 
+*Non-power production or utilization facility* means a production or utilization facility licensed under 10 CFR 50.21(a) or (c), or 10 CFR 50.22, as applicable, that is not a nuclear power reactor or production facility as defined under paragraphs (1) and (2) of the definition of “production facility” in 10 CFR 50.2.
+
 *Nonprofit educational institution* means a public or nonprofit educational institution whose primary function is education, whose programs are accredited by a nationally recognized accrediting agency or association, who is legally authorized to provide a program of organized instruction or study, who provides an educational program for which it awards academic degrees, and whose educational programs are available to the public.
 
 *Nuclear reactor* means an apparatus, other than an atomic weapon, designed or used to sustain nuclear fission in a self-supporting chain reaction.
-
-*Nuclear Steam Supply System* consists of the reactor core, reactor coolant system, and related auxiliary systems including the emergency core cooling system; decay heat removal system; and chemical volume and control system.
 
 *Other production or utilization facility* means a facility other than a nuclear reactor licensed by the Commission under the authority of section 103 or 104 of the Atomic Energy Act of 1954, as amended (the Act), and pursuant to the provisions of part 50 of this chapter.
 
@@ -89,8 +85,6 @@ As used in this part:
 (ii) Facilities in which the only special nuclear materials contained in the irradiated material to be processed are uranium enriched in the isotope U235 and plutonium produced by the irradiation, if the material processed contains not more than 10−6 grams of plutonium per gram of U235 and has fission product activity not in excess of 0.25 millicurie of fission products per gram of U235; and
 
 (iii) Facilities in which processing is conducted pursuant to a license issued under parts 30 and 70 of this chapter, or equivalent regulations of an Agreement State, for the receipt, possession, use, and transfer of irradiated special nuclear material, which authorizes the processing of the irradiated material on a batch basis for the separation of selected fission products and limits the process batch to not more than 100 grams of uranium enriched in the isotope 235 and not more than 15 grams of any other special nuclear material.
-
-*Reference systems concept* means a concept that involves the review of an entire facility design or major fraction of a facility design outside of the context of a license application. The standard design would be referenced in subsequent license applications.
 
 *Research reactor* means a nuclear reactor licensed by the Commission under the authority of subsection 104c of the Act and pursuant to the provisions of § 50.21(c) of this chapter for operation at a thermal power level of 10 megawatts or less, and which is not a *testing facility* as defined in this section.
 
