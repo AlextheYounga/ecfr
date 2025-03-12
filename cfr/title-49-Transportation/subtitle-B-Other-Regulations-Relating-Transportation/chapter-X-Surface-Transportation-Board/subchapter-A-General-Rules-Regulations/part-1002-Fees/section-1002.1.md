@@ -1,12 +1,10 @@
 ##### § 1002.1 Fees for records search, review, copying, certification, and related services. #####
 
-Link to an amendment published at 84 FR 38580, Aug. 7, 2019.
-
 Certifications and copies of such tariffs, reports and other public records and documents on file with the Surface Transportation Board as may be practicable to furnish, as well as searches and copying of records not considered public under the Freedom of Information Act (5 U.S.C. 552), will be furnished on the following basis:
 
-(a) Certificate of the Records Officer, $20.00.
+(a) Certificate of the Records Officer, $21.00.
 
-(b) Services involved in examination of tariffs or schedules for preparation of certified copies of tariffs or schedules or extracts therefrom at the rate of $45.00 per hour.
+(b) Services involved in examination of tariffs or schedules for preparation of certified copies of tariffs or schedules or extracts therefrom at the rate of $46.00 per hour.
 
 (c) Services involved in checking records to be certified to determine authenticity, including clerical work, etc. incidental thereto, at the rate of $31.00 per hour.
 
