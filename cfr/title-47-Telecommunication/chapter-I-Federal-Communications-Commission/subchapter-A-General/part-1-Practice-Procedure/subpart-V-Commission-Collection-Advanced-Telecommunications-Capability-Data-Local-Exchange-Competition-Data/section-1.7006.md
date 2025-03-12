@@ -1,5 +1,7 @@
 ##### § 1.7006 Data verification. #####
 
+Link to an amendment published at 87 FR 21509, Apr. 11, 2022.
+
 (a) *Audits.* The Commission shall conduct regular audits of the information submitted by providers in their Digital Opportunity Data Collection filings. The audits:
 
 (1) May be random, as determined by the Commission; or

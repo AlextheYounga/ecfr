@@ -1,5 +1,7 @@
 ##### § 1309.32 Application forms; contents; signature. #####
 
+Link to an amendment published at 87 FR 21023, Apr. 11, 2022.
+
 (a) Any person who is required to be registered pursuant to § 1309.21 and is not so registered, shall apply on DEA Form 510.
 
 (b) Any person who is registered pursuant to Section 1309.21, shall apply for reregistration on DEA Form 510a.

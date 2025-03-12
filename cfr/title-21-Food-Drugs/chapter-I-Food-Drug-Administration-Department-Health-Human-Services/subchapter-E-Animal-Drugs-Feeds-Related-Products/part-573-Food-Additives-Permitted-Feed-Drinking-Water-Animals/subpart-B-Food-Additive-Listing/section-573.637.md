@@ -1,10 +1,14 @@
 ##### § 573.637 Methyl esters of conjugated linoleic acid (cis-9, trans-11 and trans-10, cis-12-octadecadienoic acids). #####
 
-The food additive, methyl esters of conjugated linoleic acid (cis-9, trans-11 and trans-10, cis-12 octadecadienoic acids), may be safely used in swine feed in accordance with the prescribed conditions:
+The food additive, methyl esters of conjugated linoleic acid (cis-9, trans-11 and trans-10, cis-12-octadecadienoic acids) may be safely used in swine feed and feed for early lactation dairy cows (less than 100 days in milk) in accordance with the prescribed conditions:
 
 (a) The food additive is manufactured by the reaction of refined sunflower oil with methanol to produce fatty acid methyl esters, which then undergo conjugation to yield methyl esters of octadecadienoic acid. The additive consists of not less than 28 percent methyl ester of cis-9, trans-11-octadecadienoic acid, and not less than 28 percent methyl ester of trans-10, cis-12-octadecadienoic acid with the sum of the other methyl esters of octadecadienoic acid not to exceed 4 percent. The additive shall contain not less than 35 percent of other fatty acid esters composed of oleic acid, palmitic acid, stearic acid, linoleic acid, and other associated acid esters.
 
-(b) The additive is used or intended for use in the feed of growing and finishing swine as a source of fatty acids at levels not to exceed 0.6% in the finished feed.
+(b) The additive is used or intended for use in the feed of:
+
+(1) Growing and finishing swine as a source of fatty acids at levels not to exceed 0.6% in the finished feed.
+
+(2) Early lactation dairy cows to reduce the energy concentration in milk when fed at levels not to exceed 33 grams per cow per day.
 
 (c) The additive meets the following specifications:
 
@@ -26,4 +30,4 @@ The food additive, methyl esters of conjugated linoleic acid (cis-9, trans-11 an
 
 (2) The label and labeling of the additive, any feed premix, or complete feed prepared therefrom shall bear adequate directions for use.
 
-[73 FR 64198, Oct. 29, 2008]
+[73 FR 64198, Oct. 29, 2008, as amended at 87 FR 21019, Apr. 11, 2022]

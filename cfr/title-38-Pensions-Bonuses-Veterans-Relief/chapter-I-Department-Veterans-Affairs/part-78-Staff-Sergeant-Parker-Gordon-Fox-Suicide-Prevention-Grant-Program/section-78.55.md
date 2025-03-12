@@ -1,0 +1,3 @@
+##### § 78.55 Suicide prevention services: Education. #####
+
+Grantees providing or coordinating the provision of education must provide or coordinate the provision of suicide prevention education programs to educate communities, veterans, and families on how to identify those at risk of suicide, how and when to make referrals for care, and the types of suicide prevention resources available within the area. Education can include gatekeeper training, lethal means safety training, or specific educations programs that assist with identification, assessment, or prevention of suicide.

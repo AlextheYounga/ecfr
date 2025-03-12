@@ -1,5 +1,7 @@
 ##### § 1213.4 Requirements for review and clearance. #####
 
+Link to an amendment published at 87 FR 21024, Apr. 11, 2022.
+
 (a) NARA's regulatory office must review and clear, according to this subpart, all NARA guidance documents before we issue them.
 
 (b) The regulatory office ensures that each guidance document satisfies the following requirements:

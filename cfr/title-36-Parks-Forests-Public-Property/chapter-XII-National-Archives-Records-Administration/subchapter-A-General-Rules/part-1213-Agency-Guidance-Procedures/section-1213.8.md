@@ -1,5 +1,7 @@
 ##### § 1213.8 Significant guidance. #####
 
+Link to an amendment published at 87 FR 21024, Apr. 11, 2022.
+
 (a) *Good faith cost estimates.* Even though not legally binding on the public, some agency guidance may result in a substantial economic impact on the public. For example, the guidance's existence may induce private parties to alter their conduct to conform to recommended standards or practices, thereby incurring costs beyond the costs of complying with existing statutes, regulations, and other authorities. While it may be difficult to predict with precision the economic impact of voluntary guidance on the public, we, to the extent practicable, make a good faith effort to estimate the likely economic cost impact on the public, to determine whether the document might be significant.
 
 (b) *Regulatory impact analyses.* When we, or OIRA, determine that a guidance document will have an economically significant impact on the public, we conduct and publish a regulatory impact analysis of the sort that would accompany an economically significant rulemaking, to the extent reasonably possible.

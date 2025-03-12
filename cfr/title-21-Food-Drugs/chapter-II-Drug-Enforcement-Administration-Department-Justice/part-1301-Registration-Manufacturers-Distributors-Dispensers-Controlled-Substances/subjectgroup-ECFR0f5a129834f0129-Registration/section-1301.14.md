@@ -1,5 +1,7 @@
 ##### § 1301.14 Filing of application; acceptance for filing; defective applications. #####
 
+Link to an amendment published at 87 FR 21022, Apr. 11, 2022.
+
 (a) All applications for registration shall be submitted for filing to the Registration Unit, Drug Enforcement Administration. The appropriate registration fee and any required attachments must accompany the application. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address.
 
 (b) Any person required to obtain more than one registration may submit all applications in one package. Each application must be complete and should not refer to any accompanying application for required information.

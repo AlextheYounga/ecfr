@@ -1,0 +1,3 @@
+##### § 12.64 Annual review and update of Owner's Dam Safety Program. #####
+
+The Owner's Dam Safety Program, and the implementation thereof, shall be reviewed at least once annually by the licensee's dam safety staff and discussed with senior management of the Owner's organization. The licensee shall submit the results of the annual review, including findings, analysis, corrective measures, and/or revisions to the Owner's Dam Safety Program, to the Regional Engineer.
