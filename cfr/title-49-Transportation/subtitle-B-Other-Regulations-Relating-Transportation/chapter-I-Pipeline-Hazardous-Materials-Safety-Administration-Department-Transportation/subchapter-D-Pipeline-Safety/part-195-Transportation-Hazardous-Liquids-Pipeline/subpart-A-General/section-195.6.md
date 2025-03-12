@@ -1,5 +1,7 @@
 ##### § 195.6 Unusually Sensitive Areas (USAs). #####
 
+Link to an amendment published at 86 FR 73186, Dec. 27, 2021.
+
 As used in this part, a USA means a drinking water or ecological resource area that is unusually sensitive to environmental damage from a hazardous liquid pipeline release.
 
 (a) An USA drinking water resource is:

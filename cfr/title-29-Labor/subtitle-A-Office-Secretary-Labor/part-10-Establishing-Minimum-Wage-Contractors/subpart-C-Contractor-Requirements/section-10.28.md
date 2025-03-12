@@ -56,4 +56,4 @@
 
 (f) *Notice.* An employer is not eligible to take the tip credit unless it has informed its tipped employees in advance of the employer's use of the tip credit. The employer must inform the tipped employee of the amount of the cash wage that is to be paid by the employer, which cannot be lower than the cash wage required by paragraph (a)(1) of this section; the additional amount by which the wages of the tipped employee will be considered increased on account of the tip credit claimed by the employer, which amount may not exceed the value of the tips actually received by the employee; that all tips received by the tipped employee must be retained by the employee except for a tip pooling arrangement; and that the tip credit shall not apply to any worker who has not been informed of the requirements in this section.
 
-[79 FR 60721, Oct. 7, 2014, as amended at 85 FR 86788, Dec. 30, 2020; 86 FR 60156, 60157, Oct. 29, 2021]
+[79 FR 60721, Oct. 7, 2014, as amended at 85 FR 86788, Dec. 30, 2020; 86 FR 60156, Oct. 29, 2021; 86 FR 71829, Dec. 20, 2021]

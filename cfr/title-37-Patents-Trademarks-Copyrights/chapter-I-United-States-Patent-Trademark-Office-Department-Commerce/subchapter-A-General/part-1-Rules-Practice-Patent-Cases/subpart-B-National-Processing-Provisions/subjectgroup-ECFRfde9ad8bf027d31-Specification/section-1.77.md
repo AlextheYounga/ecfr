@@ -46,8 +46,8 @@
 
 (12) Abstract of the disclosure.
 
-(13) “Sequence Listing,” required by § 1.821(c), that is submitted as a “Portable Document Format” (PDF)file (as set forth in § 1.821(c)(1)(ii)) via the USPTO patent electronic filing system or on physical sheets of paper (as set forth in § 1.821(c)(1)(iii)).
+(13) “Sequence Listing,” required by § 1.821(c), that is submitted as a Portable Document Format (PDF) file (as set forth in § 1.821(c)(2)) via the USPTO patent electronic filing system or on physical sheets of paper (as set forth in § 1.821(c)(3)).
 
 (c) The text of the specification sections defined in paragraphs (b)(1) through (b)(12) of this section, if applicable, should be preceded by a section heading in uppercase and without underlining or bold type.
 
-[65 FR 54668, Sept. 8, 2000, as amended at 70 FR 1823, Jan. 11, 2005; 77 FR 48820, Aug. 14, 2012; 78 FR 11055, Feb. 14, 2013; 86 FR 57047, Oct. 14, 2021]
+[65 FR 54668, Sept. 8, 2000, as amended at 70 FR 1823, Jan. 11, 2005; 77 FR 48820, Aug. 14, 2012; 78 FR 11055, Feb. 14, 2013; 86 FR 57047, Oct. 14, 2021; 86 FR 73985, Dec. 29, 2021]
