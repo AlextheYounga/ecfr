@@ -28,7 +28,7 @@
 
 (2) Consistent with paragraph (c)(1) of this section, BIS is hereby informing “U.S. persons” that a license is required for the following activities, which could involve 'support' for the weapons of mass destruction-related end uses set forth in paragraph (b) of this section.
 
-(i) Shipping, transmitting, or transferring (in-country) to or within the PRC any item not subject to the EAR that you know will be used in the “development” or “production” of integrated circuits at a semiconductor fabrication “facility” located in the PRC that fabricates integrated circuits meeting any of the following criteria:
+(i) Shipping, transmitting, or transferring (in-country) to or within the PRC or Macau any item not subject to the EAR that you know will be used in the “development” or “production” of integrated circuits at a semiconductor fabrication “facility” located in the PRC or Macau that fabricates integrated circuits meeting any of the following criteria:
 
 (A) Logic integrated circuits using a non-planar architecture or with a “production” technology node of 16/14 nanometers or less;
 
@@ -36,21 +36,21 @@
 
 (C) Dynamic random-access memory (DRAM) integrated circuits using a “production” technology node of 18 nanometer half-pitch or less; or
 
-(ii) Facilitating the shipment, transmission, or transfer (in-country) of any item not subject to the EAR that you know will be used in the “development” or “production” of integrated circuits at a semiconductor fabrication “facility” located in the PRC that fabricates integrated circuits that meet any of the criteria in paragraphs (c)(2)(i)(A) through (C) of this section;
+(ii) Facilitating the shipment, transmission, or transfer (in-country) of any item not subject to the EAR that you know will be used in the “development” or “production” of integrated circuits at a semiconductor fabrication “facility” located in the PRC or Macau that fabricates integrated circuits that meet any of the criteria in paragraphs (c)(2)(i)(A) through (C) of this section;
 
-(iii) Servicing any item not subject to the EAR that you know will be used in the “development” or “production” of integrated circuits at a semiconductor fabrication “facility” located in the PRC that fabricates integrated circuits that meet any of the criteria in paragraphs (c)(2)(i)(A) through (C) of this section;
+(iii) Servicing any item not subject to the EAR that you know will be used in the “development” or “production” of integrated circuits at a semiconductor fabrication “facility” located in the PRC or Macau that fabricates integrated circuits that meet any of the criteria in paragraphs (c)(2)(i)(A) through (C) of this section;
 
-(iv) Shipping, transmitting, or transferring (in-country) to or within the PRC any item not subject to the EAR and meeting the parameters of any ECCN in Product Groups B, C, D, or E in Category 3 of the CCL that you know will be used in the “development” or “production” of integrated circuits at any semiconductor fabrication “facility” located in the PRC, but you do not know whether such semiconductor fabrication “facility” fabricates integrated circuits that meet any of the criteria in paragraphs (c)(2)(i)(A) through (C) of this section;
+(iv) Shipping, transmitting, or transferring (in-country) to or within the PRC or Macau any item not subject to the EAR and meeting the parameters of any ECCN in Product Groups B, C, D, or E in Category 3 of the CCL that you know will be used in the “development” or “production” of integrated circuits at any semiconductor fabrication “facility” located in the PRC or Macau, but you do not know whether such semiconductor fabrication “facility” fabricates integrated circuits that meet any of the criteria in paragraphs (c)(2)(i)(A) through (C) of this section;
 
-(v) Facilitating the shipment, transmission, or transfer (in-country) to or within the PRC of any item not subject to the EAR and meeting the parameters of any ECCN in Product Groups B, C, D, or E in Category 3 of the CCL that you know will be used in the “development” or “production,” of integrated circuits at any semiconductor fabrication “facility” located in the PRC, but you do not know whether such semiconductor fabrication “facility” fabricates integrated circuits that meet any of the criteria in paragraphs (c)(2)(i)(A) through (C) of this section;
+(v) Facilitating the shipment, transmission, or transfer (in-country) to or within the PRC or Macau of any item not subject to the EAR and meeting the parameters of any ECCN in Product Groups B, C, D, or E in Category 3 of the CCL that you know will be used in the “development” or “production,” of integrated circuits at any semiconductor fabrication “facility” located in the PRC or Macau, but you do not know whether such semiconductor fabrication “facility” fabricates integrated circuits that meet any of the criteria in paragraphs (c)(2)(i)(A) through (C) of this section;
 
-(vi) Servicing any item not subject to the EAR and meeting the parameters of any ECCN in Product Groups B, C, D, or E in Category 3 of the CCL that you know will be used in the “development” or “production” of integrated circuits at any semiconductor fabrication “facility” located in the PRC, but you do not know whether such semiconductor fabrication “facility” fabricates integrated circuits that meet any of the criteria in paragraphs (c)(2)(i)(A) through (C) of this section;
+(vi) Servicing any item not subject to the EAR and meeting the parameters of any ECCN in Product Groups B, C, D, or E in Category 3 of the CCL that you know will be used in the “development” or “production” of integrated circuits at any semiconductor fabrication “facility” located in the PRC or Macau, but you do not know whether such semiconductor fabrication “facility” fabricates integrated circuits that meet any of the criteria in paragraphs (c)(2)(i)(A) through (C) of this section;
 
-(vii) Shipping, transmitting, or transferring (in-country) to or within the PRC any item not subject to the EAR and meeting the parameters of ECCN 3B090, 3D001 (for 3B090), or 3E001 (for 3B090) regardless of end use or end user;
+(vii) Shipping, transmitting, or transferring (in-country) to or within the PRC or Macau any item not subject to the EAR and meeting the parameters of ECCN 3B090, 3D001 (for 3B090), or 3E001 (for 3B090) regardless of end use or end user;
 
-(viii) Facilitating the shipment, transmission, or transfer (in-country) to or within the PRC of any item not subject to the EAR and meeting the parameters of ECCN 3B090, 3D001 (for 3B090), or 3E001 (for 3B090), regardless of end use or end user; or
+(viii) Facilitating the shipment, transmission, or transfer (in-country) to or within the PRC or Macau of any item not subject to the EAR and meeting the parameters of ECCN 3B090, 3D001 (for 3B090), or 3E001 (for 3B090), regardless of end use or end user; or
 
-(ix) Servicing any item not subject to the EAR located in the PRC and meeting the parameters of ECCN 3B090, 3D001 (for 3B090), or 3E001 (for 3B090), regardless of end use or end user.
+(ix) Servicing any item not subject to the EAR located in the PRC or Macau and meeting the parameters of ECCN 3B090, 3D001 (for 3B090), or 3E001 (for 3B090), regardless of end use or end user.
 
 (d) *Exceptions.* (1) No License Exceptions apply to the prohibitions described in paragraphs (b)(1) through (4) and (c)(2)(i) through (vi) of this section.
 
@@ -60,6 +60,6 @@
 
 (2) Applications for a “U.S. person” to 'support' (as defined in paragraph (b)(6) of this section) a 'military-intelligence end use' or a 'military-intelligence end user' as described in paragraph (b)(5) of this section will be reviewed with a presumption of denial.
 
-(3) Applications for licenses submitted pursuant to the notice of a license requirement set forth in paragraph (c)(2) of this section will be reviewed with a presumption of denial, except for end users in the PRC headquartered in the United States or a country in Country Group A:5 or A:6, which will be considered on a case-by-case basis taking into account factors including technology level, customers, and compliance plans.
+(3) Applications for licenses submitted pursuant to the notice of a license requirement set forth in paragraph (c)(2) of this section will be reviewed with a presumption of denial, except for end users in the PRC or Macau headquartered in the United States or a country in Country Group A:5 or A:6, which will be considered on a case-by-case basis taking into account factors including technology level, customers, and compliance plans.
 
-[86 FR 4871, Jan. 15, 2021, as amended at 86 FR 18436, Apr. 9, 2021; 86 FR 70018, Dec. 9, 2021; 87 FR 13059, Mar. 8, 2022; 87 FR 62199, Oct. 13, 2022]
+[86 FR 4871, Jan. 15, 2021, as amended at 86 FR 18436, Apr. 9, 2021; 86 FR 70018, Dec. 9, 2021; 87 FR 13059, Mar. 8, 2022; 87 FR 62199, Oct. 13, 2022; 88 FR 2825, Jan. 18, 2023]

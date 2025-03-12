@@ -4,4 +4,4 @@
 
 (b) A person operating an unmanned rocket other than an amateur rocket as defined in § 1.1 of this chapter must comply with 14 CFR Chapter III.
 
-[Doc. No. FAA-2007-27390, 73 FR 73781, Dec. 4, 2008, as amended by Docket No. FAA-2022-1355, Amdt. No. 101-9, 87 FR 75846, Dec. 9, 2022]
+[Doc. No. FAA-2007-27390, 73 FR 73781, Dec. 4, 2008, as amended by Docket No. FAA-2022-1355, Amdt. No. 101-11, 87 FR 75846, Dec. 9, 2022]

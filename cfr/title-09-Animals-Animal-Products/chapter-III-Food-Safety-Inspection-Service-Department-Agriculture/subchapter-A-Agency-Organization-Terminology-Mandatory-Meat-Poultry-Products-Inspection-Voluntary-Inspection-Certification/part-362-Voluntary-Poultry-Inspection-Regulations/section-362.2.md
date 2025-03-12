@@ -1,5 +1,7 @@
 ##### § 362.2 Types and availability of service. #####
 
+Link to an amendment published at 88 FR 2811, Jan. 18, 2023.
+
 Upon application, in accordance with § 362.3, the following types of service may be furnished under the regulations in this part:
 
 (a) *Inspection service.* An inspection and certification service for wholesomeness relating to the slaughter and processing of poultry and the processing of poultry products. All provisions of Part 381 and §§ 416.1 through 416.6 of this chapter shall apply to the slaughter of poultry, and the preparation, labeling, and certification of the poultry and poultry products processed under this poultry inspection service except for the following provisions: the definitions of “Act,” “animal food manufacturer,” “Inspection Service,” “inspector,” “Inspector in Charge,” “poultry,” “poultry product,” “poultry food product,” “poultry products broker,” “renderer,” and “U.S. Refused Entry” in §§ 381.1 (b), 381.3 (a), 381.6, 381.10, 381.13-381.17, 381.21, 381.29, 381.39-381.42, 381.175 (a)(2), 381.175 (a)(3), 381.179, 381.185-381.187, 381.192, and 381.195-381.225.

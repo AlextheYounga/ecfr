@@ -1,5 +1,7 @@
 ##### § 412.2 Approval of generic labels. #####
 
+Link to an amendment published at 88 FR 2812, Jan. 18, 2023.
+
 (a)(1) An official establishment, or an establishment certified under a foreign inspection system in accordance with part 327, or part 381, subpart T of this chapter, is authorized to use generically approved labels, as defined in paragraph (b) of this section, and thus is free to use such labels without submitting them to the Food Safety and Inspection Service for approval, provided the label, in accordance with this section, displays all mandatory features in a prominent manner in compliance with part 317 or part 381, and is not otherwise false or misleading in any particular.
 
 (2) The Food Safety and Inspection Service will select samples of generically approved labels from the records maintained by official establishments and establishments certified under foreign inspection systems, in accordance with part 327 or part 381, subpart T, to determine compliance with label requirements. If the Agency finds that an establishment is using a false or misleading label, it will institute the proceedings prescribed in § 500.8 of this chapter to revoke the approval for the label.

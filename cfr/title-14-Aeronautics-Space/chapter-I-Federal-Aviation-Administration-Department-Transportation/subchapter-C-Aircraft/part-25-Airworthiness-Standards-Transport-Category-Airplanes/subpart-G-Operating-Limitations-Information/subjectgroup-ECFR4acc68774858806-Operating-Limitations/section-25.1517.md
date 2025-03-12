@@ -6,4 +6,4 @@
 
 (c) At altitudes where VMO is limited by Mach number, MRA may be chosen to provide an optimum margin between low and high speed buffet boundaries.
 
-[Amdt. 25-141, 79 FR 73469, Dec. 11, 2014, as amended by FAA-2022-1355; Amdt. No. 25-146, 87 FR 75710, Dec. 9, 2022]
+[Amdt. 25-141, 79 FR 73469, Dec. 11, 2014, as amended by FAA-2022-1355; Amdt. No. 25-148, 87 FR 75710, Dec. 9, 2022; 88 FR 2813, Jan. 18, 2023]

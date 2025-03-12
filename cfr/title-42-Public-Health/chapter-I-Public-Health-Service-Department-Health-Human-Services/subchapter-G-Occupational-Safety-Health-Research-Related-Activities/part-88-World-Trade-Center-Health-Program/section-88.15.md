@@ -6,7 +6,7 @@ WTC-related health conditions include the following disorders and conditions:
 
 (1) Interstitial lung diseases.
 
-(2) Chronic respiratory disorder - fumes/vapors.
+(2) Chronic respiratory disorder—fumes/vapors.
 
 (3) Asthma.
 
@@ -92,25 +92,27 @@ WTC-related health conditions include the following disorders and conditions:
 
 (14) Malignant neoplasm of the female breast.
 
-(15) Malignant neoplasm of the ovary.
+(15) Malignant neoplasms of corpus uteri and uterus, part unspecified.
 
-(16) Malignant neoplasm of the prostate.
+(16) Malignant neoplasm of the ovary.
 
-(17) Malignant neoplasm of the urinary bladder.
+(17) Malignant neoplasm of the prostate.
 
-(18) Malignant neoplasm of the kidney.
+(18) Malignant neoplasm of the urinary bladder.
 
-(19) Malignant neoplasms of the renal pelvis; ureter; and other urinary organs.
+(19) Malignant neoplasm of the kidney.
 
-(20) Malignant neoplasms of the eye and orbit.
+(20) Malignant neoplasms of the renal pelvis; ureter; and other urinary organs.
 
-(21) Malignant neoplasm of the thyroid.
+(21) Malignant neoplasms of the eye and orbit.
 
-(22) Malignant neoplasms of the blood and lymphoid tissues (including, but not limited to, lymphoma, leukemia, and myeloma).
+(22) Malignant neoplasm of the thyroid.
 
-(23) *Childhood cancers:* any type of cancer diagnosed in a person less than 20 years of age.
+(23) Malignant neoplasms of the blood and lymphoid tissues (including, but not limited to, lymphoma, leukemia, and myeloma).
 
-(24) *Rare cancers:* any type of cancer1 that occurs in less than 15 cases per 100,000 persons per year in the United States.
+(24) \>Childhood cancers: any type of cancer diagnosed in a person less than 20 years of age.
+
+(25) Rare cancers: any type of cancer1 that occurs in less than 15 cases per 100,000 persons per year in the United States.
 
 1 Based on 2005-2009 average annual data age-adjusted to the 2000 U.S. population. *See* Glenn Copeland, Andrew Lake, Rick Firth, *et al.* (eds), *Cancer in North America: 2005-2009. Volume One: Combined Cancer Incidence for the United States, Canada and North America,* Springfield, IL: North American Association of Central Cancer Registries, Inc., June 2012.
 
@@ -133,3 +135,5 @@ WTC-related health conditions include the following disorders and conditions:
 (vii) Other similar acute traumatic injuries.
 
 (2) [Reserved]
+
+[81 FR 90938, Dec. 15, 2016, as amended at 88 FR 2858, Jan. 18, 2023]

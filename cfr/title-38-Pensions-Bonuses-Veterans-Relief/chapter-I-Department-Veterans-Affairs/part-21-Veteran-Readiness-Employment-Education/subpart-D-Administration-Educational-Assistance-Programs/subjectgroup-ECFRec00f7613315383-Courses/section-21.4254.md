@@ -1,5 +1,7 @@
 ##### § 21.4254 Nonaccredited courses. #####
 
+Link to an amendment published at 88 FR 2834, Jan. 18, 2023.
+
 (a) *General.* Nonaccredited courses are courses which are not approved as accredited courses and which are offered by a public or private, profit or nonprofit, educational institution. These include nonaccredited courses offered by extension centers or divisions, or vocational or adult education departments of institutions of higher learning.
 
 (b) *Application.* Any school desiring to enroll veterans or eligible persons in nonaccredited courses will submit a written application to the appropriate State approving agency for approval of such courses (38 U.S.C. 3676(a)). Such application will be accompanied by not less than two copies of the current catalog or bulletin which is certified as true and correct in content and policy by an authorized owner or official of the school and will include the following:

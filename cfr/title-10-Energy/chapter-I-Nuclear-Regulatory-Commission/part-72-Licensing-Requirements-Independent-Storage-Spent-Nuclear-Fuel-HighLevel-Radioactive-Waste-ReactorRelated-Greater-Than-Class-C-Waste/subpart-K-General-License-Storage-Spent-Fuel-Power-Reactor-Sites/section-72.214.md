@@ -1,6 +1,6 @@
 ##### § 72.214 List of approved spent fuel storage casks. #####
 
-Link to an amendment published at 87 FR 66543, Nov. 4, 2022.Link to an amendment published at 88 FR 953, Jan. 6, 2023.
+Link to an amendment published at 88 FR 953, Jan. 6, 2023.
 
 The following casks are approved for storage of spent fuel under the conditions specified in their Certificates of Compliance.
 
@@ -365,21 +365,13 @@ Model Number: NUHOMS® HD-32PTH.
 
 Certificate Number: 1031.
 
-Initial Certificate Effective Date: February 4, 2009, superseded by Initial Certificate, Revision 1, on February 1, 2016.
-
-Initial Certificate, Revision 1, Effective Date: February 1, 2016.
+Initial Certificate Effective date: February 4, 2009, superseded by Initial Certificate, Revision 1, on February 1, 2016.
 
 Amendment Number 1 Effective Date: August 30, 2010, superseded by Amendment Number 1, Revision 1, on February 1, 2016.
 
-Amendment Number 1, Revision 1, Effective Date: February 1, 2016.
-
 Amendment Number 2 Effective Date: January 30, 2012, superseded by Amendment Number 2, Revision 1, on February 1, 2016.
 
-Amendment Number 2, Revision 1, Effective Date: February 1, 2016.
-
 Amendment Number 3 Effective Date: July 25, 2013, superseded by Amendment Number 3, Revision 1, on February 1, 2016.
-
-Amendment Number 3, Revision 1, Effective Date: February 1, 2016.
 
 Amendment Number 4 Effective Date: April 14, 2015.
 
@@ -392,6 +384,8 @@ Amendment Number 7 Effective Date: August 21, 2017, as corrected (ADAMS Accessio
 Amendment Number 8, Effective Date: March 24, 2020.
 
 Amendment Number 9, Effective Date: December 7, 2020.
+
+Amendment Number 10, Effective Date: January 18, 2023.
 
 SAR Submitted by: NAC International, Inc.
 

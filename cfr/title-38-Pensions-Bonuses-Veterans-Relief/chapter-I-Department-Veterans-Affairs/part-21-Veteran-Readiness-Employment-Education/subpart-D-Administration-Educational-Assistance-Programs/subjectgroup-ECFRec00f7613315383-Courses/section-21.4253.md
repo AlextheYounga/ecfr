@@ -1,5 +1,7 @@
 ##### § 21.4253 Accredited courses. #####
 
+Link to an amendment published at 88 FR 2833, Jan. 18, 2023.
+
 (a) *General.* A course may be approved as an accredited course if it meets one of the following requirements:
 
 (1) The course has been accredited and approved by a nationally recognized accrediting agency or association. “Candidate for accreditation” status is not a basis for approval of a course as accredited.

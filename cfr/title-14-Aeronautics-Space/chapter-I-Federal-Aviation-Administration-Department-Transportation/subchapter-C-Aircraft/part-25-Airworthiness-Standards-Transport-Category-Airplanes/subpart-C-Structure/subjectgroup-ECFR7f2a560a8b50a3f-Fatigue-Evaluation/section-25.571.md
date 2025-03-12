@@ -2,7 +2,7 @@
 
 (a) *General.* An evaluation of the strength, detail design, and fabrication must show that catastrophic failure due to fatigue, corrosion, manufacturing defects, or accidental damage, will be avoided throughout the operational life of the airplane. This evaluation must be conducted in accordance with the provisions of paragraphs (b) and (e) of this section, except as specified in paragraph (c) of this section, for each part of the structure that could contribute to a catastrophic failure (such as wing, empennage, control surfaces and their systems, the fuselage, engine mounting, landing gear, and their related primary attachments). For turbojet powered airplanes, those parts that could contribute to a catastrophic failure must also be evaluated under paragraph (d) of this section. In addition, the following apply:
 
-(1) Each evaluation required by this section must include -
+(1) Each evaluation required by this section must include—
 
 (i) The typical loading spectra, temperatures, and humidities expected in service;
 
@@ -40,13 +40,13 @@ If significant changes in structural stiffness or geometry, or both, follow from
 
 (c) *Fatigue (safe-life) evaluation.* Compliance with the damage-tolerance requirements of paragraph (b) of this section is not required if the applicant establishes that their application for particular structure is impractical. This structure must be shown by analysis, supported by test evidence, to be able to withstand the repeated loads of variable magnitude expected during its service life without detectable cracks. Appropriate safe-life scatter factors must be applied.
 
-(d) *Sonic fatigue strength.* It must be shown by analysis, supported by test evidence, or by the service history of airplanes of similar structural design and sonic excitation environment, that -
+(d) *Sonic fatigue strength.* It must be shown by analysis, supported by test evidence, or by the service history of airplanes of similar structural design and sonic excitation environment, that—
 
 (1) Sonic fatigue cracks are not probable in any part of the flight structure subject to sonic excitation; or
 
 (2) Catastrophic failure caused by sonic cracks is not probable assuming that the loads prescribed in paragraph (b) of this section are applied to all areas affected by those cracks.
 
-(e) *Damage-tolerance (discrete source) evaluation.* The airplane must be capable of successfully completing a flight during which likely structural damage occurs as a result of -
+(e) *Damage-tolerance (discrete source) evaluation.* The airplane must be capable of successfully completing a flight during which likely structural damage occurs as a result of—
 
 (1) Impact with a 4-pound bird when the velocity of the airplane relative to the bird along the airplane's flight path is equal to Vc at sea level or 0.85Vc at 8,000 feet, whichever is more critical;
 
@@ -56,4 +56,4 @@ If significant changes in structural stiffness or geometry, or both, follow from
 
 (4) Uncontained high energy rotating machinery failure.
 
-The damaged structure must be able to withstand the static loads (considered as ultimate loads) which are reasonably expected to occur on the flight. Dynamic effects on these static loads need not be considered. Corrective action to be taken by the pilot following the incident, such as limiting maneuvers, avoiding turbulence, and reducing speed, must be considered. If significant changes in structural stiffness or geometry, or both, follow from a structural failure or partial failure, the effect on damage tolerance must be further investigated.[Amdt. 25-45, 43 FR 46242, Oct. 5, 1978, as amended by Amdt. 25-54, 45 FR 60173, Sept. 11, 1980; Amdt. 25-72, 55 FR 29776, July 20, 1990; Amdt. 25-86, 61 FR 5222, Feb. 9, 1996; Amdt. 25-96, 63 FR 15714, Mar. 31, 1998; 63 FR 23338, Apr. 28, 1998; Amdt. 25-132, 75 FR 69781, Nov. 15, 2010; Amdt. No. 25-146, 87 FR 75710, Dec. 9, 2022]
+The damaged structure must be able to withstand the static loads (considered as ultimate loads) which are reasonably expected to occur on the flight. Dynamic effects on these static loads need not be considered. Corrective action to be taken by the pilot following the incident, such as limiting maneuvers, avoiding turbulence, and reducing speed, must be considered. If significant changes in structural stiffness or geometry, or both, follow from a structural failure or partial failure, the effect on damage tolerance must be further investigated.[Amdt. 25-45, 43 FR 46242, Oct. 5, 1978, as amended by Amdt. 25-54, 45 FR 60173, Sept. 11, 1980; Amdt. 25-72, 55 FR 29776, July 20, 1990; Amdt. 25-86, 61 FR 5222, Feb. 9, 1996; Amdt. 25-96, 63 FR 15714, Mar. 31, 1998; 63 FR 23338, Apr. 28, 1998; Amdt. 25-132, 75 FR 69781, Nov. 15, 2010; Amdt. No. 25-148, 87 FR 75710, Dec. 9, 2022; 88 FR 2813, Jan. 18, 2023]

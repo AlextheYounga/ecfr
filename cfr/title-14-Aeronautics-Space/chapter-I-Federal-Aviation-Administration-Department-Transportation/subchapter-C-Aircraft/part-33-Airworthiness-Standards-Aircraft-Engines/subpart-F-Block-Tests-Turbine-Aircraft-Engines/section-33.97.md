@@ -4,4 +4,4 @@
 
 (b) 175 reversals must be made from flight-idle forward thrust to maximum reverse thrust and 25 reversals must be made from rated takeoff thrust to maximum reverse thrust. After each reversal the reverser must be operated at full reverse thrust for a period of one minute, except that, in the case of a reverser intended for use only as a braking means on the ground, the reverser need only be operated at full reverse thrust for 30 seconds.
 
-[Doc. No. 3025, 29 FR 7453, June 10, 1964, as amended by Amdt. 33-3, 32 FR 3737, Mar. 4, 1967; Amdt. No. 33-1, 87 FR 75711, Dec. 9, 2022]
+[Doc. No. 3025, 29 FR 7453, June 10, 1964, as amended by Amdt. 33-3, 32 FR 3737, Mar. 4, 1967; Amdt. No. 33-35, 87 FR 75711, Dec. 9, 2022; 88 FR 2813, Jan. 18, 2023]

@@ -160,9 +160,9 @@ A 'military end user' for purposes of paragraph (g) is any entity listed on the 
 
 (2) *Destination or end use scope of the advanced computing FDP rule.* A foreign-produced item meets the destination scope of this paragraph (h)(2) if there is “knowledge” that the foreign-produced item is:
 
-(i) Destined to the PRC or will be incorporated into any “part,” “component,” “computer,” or “equipment” not designated EAR99 that is destined to the PRC; or
+(i) Destined to the PRC or Macau or will be incorporated into any “part,” “component,” “computer,” or “equipment” not designated EAR99 that is destined to the PRC or Macau; or
 
-(ii) Technology developed by an entity headquartered in the PRC for the “production” of a mask or an integrated circuit wafer or die.
+(ii) Technology developed by an entity headquartered in the PRC or Macau for the “production” of a mask or an integrated circuit wafer or die.
 
 (3) *Certification.* Exporters, reexporters, and transferors may obtain a written certification from a supplier that asserts an item being provided would be subject to the EAR if future transaction meet the destination scope in paragraph (h)(2)(i) or (ii) of this section. The model certificate provided by BIS in supplement no. 1 to this part is not required under the EAR, but through its provision, the certificate may assist exporters, reexporters, and transferors with the process of resolving potential red flags regarding whether an item is subject to the EAR based on this paragraph (h). The model certificate provided by BIS contemplates signature by an official or designated employee of the certifying company and inclusion of all the information described in paragraph (b) of supplement no. 1 to this part. If the exporter, reexporter, or transferors has not obtained such a certification, due diligence needs to be conducted to determine if the items meets the scope in this paragraph (h). While this certificate is expected to be useful for a company to understand the application of the EAR to an item, BIS does not view this as the only step to be completed during a company's due diligence process. *See* supplement no. 1 to this part and supplement no. 3 to part 732 of the EAR.
 
@@ -176,8 +176,8 @@ A 'military end user' for purposes of paragraph (g) is any entity listed on the 
 
 (2) *Country and end-use scope.* A foreign-produced item meets the country and end-use scope of this paragraph (i)(2) if there is “knowledge” that the foreign produced item will be:
 
-(i) Used in the design, “development,” “production,” operation, installation (including on-site installation), maintenance (checking), repair, overhaul, or refurbishing of, a “supercomputer” located in or destined to the PRC; or
+(i) Used in the design, “development,” “production,” operation, installation (including on-site installation), maintenance (checking), repair, overhaul, or refurbishing of, a “supercomputer” located in or destined to the PRC or Macau; or
 
-(ii) Incorporated into, or used in the “development,” or “production,” of any “part,” “component,” or “equipment” that will be used in a “supercomputer” located in or destined to the PRC.
+(ii) Incorporated into, or used in the “development,” or “production,” of any “part,” “component,” or “equipment” that will be used in a “supercomputer” located in or destined to the PRC or Macau.
 
-[87 FR 6024, Feb. 3, 2022, as amended at 87 FR 12236, Mar. 3, 2022; 87 FR 13055, Mar. 8, 2022; 87 FR 22131, Apr. 14, 2022; 87 FR 57078, Sept. 16, 2022; 87 FR 62195, Oct. 13, 2022]
+[87 FR 6024, Feb. 3, 2022, as amended at 87 FR 12236, Mar. 3, 2022; 87 FR 13055, Mar. 8, 2022; 87 FR 22131, Apr. 14, 2022; 87 FR 57078, Sept. 16, 2022; 87 FR 62195, Oct. 13, 2022; 88 FR 2824, Jan. 18, 2023]

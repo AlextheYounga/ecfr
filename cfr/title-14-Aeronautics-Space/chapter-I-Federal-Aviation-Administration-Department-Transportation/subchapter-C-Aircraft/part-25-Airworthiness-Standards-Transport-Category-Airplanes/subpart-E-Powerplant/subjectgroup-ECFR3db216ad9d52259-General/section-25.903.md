@@ -26,7 +26,7 @@ Note:
 
 (iv) Be shown to have an ice accumulation service history in similar installation locations which has not resulted in any unsafe conditions.
 
-(b) *Engine isolation.* The powerplants must be arranged and isolated from each other to allow operation, in at least one configuration, so that the failure or malfunction of any engine, or of any system that can affect the engine, will not -
+(b) *Engine isolation.* The powerplants must be arranged and isolated from each other to allow operation, in at least one configuration, so that the failure or malfunction of any engine, or of any system that can affect the engine, will not—
 
 (1) Prevent the continued safe operation of the remaining engines; or
 
@@ -34,7 +34,7 @@ Note:
 
 (c) *Control of engine rotation.* There must be means for stopping the rotation of any engine individually in flight, except that, for turbine engine installations, the means for stopping the rotation of any engine need be provided only where continued rotation could jeopardize the safety of the airplane. Each component of the stopping system on the engine side of the firewall that might be exposed to fire must be at least fire-resistant. If hydraulic propeller feathering systems are used for this purpose, the feathering lines must be at least fire resistant under the operating conditions that may be expected to exist during feathering.
 
-(d) *Turbine engine installations.* For turbine engine installations -
+(d) *Turbine engine installations.* For turbine engine installations—
 
 (1) Design precautions must be taken to minimize the hazards to the airplane in the event of an engine rotor failure or of a fire originating within the engine which burns through the engine case.
 
@@ -48,4 +48,4 @@ Note:
 
 (f) *Auxiliary Power Unit.* Each auxiliary power unit must be approved or meet the requirements of the category for its intended use.
 
-[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-23, 35 FR 5676, Apr. 8, 1970; Amdt. 25-40, 42 FR 15042, Mar. 17, 1977; Amdt. 25-57, 49 FR 6848, Feb. 23, 1984; Amdt. 25-72, 55 FR 29784, July 20, 1990; Amdt. 25-73, 55 FR 32861, Aug. 10, 1990; Amdt. 25-94, 63 FR 8848, Feb. 23, 1998; Amdt. 25-95, 63 FR 14798, Mar. 26, 1998; Amdt. 25-100, 65 FR 55854, Sept. 14, 2000; Amdt. 25-140, 79 FR 65525, Nov. 4, 2014; Amdt. No. 25-146, 87 FR 75710, Dec. 9, 2022]
+[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-23, 35 FR 5676, Apr. 8, 1970; Amdt. 25-40, 42 FR 15042, Mar. 17, 1977; Amdt. 25-57, 49 FR 6848, Feb. 23, 1984; Amdt. 25-72, 55 FR 29784, July 20, 1990; Amdt. 25-73, 55 FR 32861, Aug. 10, 1990; Amdt. 25-94, 63 FR 8848, Feb. 23, 1998; Amdt. 25-95, 63 FR 14798, Mar. 26, 1998; Amdt. 25-100, 65 FR 55854, Sept. 14, 2000; Amdt. 25-140, 79 FR 65525, Nov. 4, 2014; Amdt. No. 25-148, 87 FR 75710, Dec. 9, 2022; 88 FR 2813, Jan. 18, 2023]

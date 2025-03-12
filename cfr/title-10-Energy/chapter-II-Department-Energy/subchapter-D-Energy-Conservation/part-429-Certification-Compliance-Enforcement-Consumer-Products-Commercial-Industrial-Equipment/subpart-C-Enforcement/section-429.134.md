@@ -1,5 +1,7 @@
 ##### § 429.134 Product-specific enforcement provisions. #####
 
+Link to an amendment published at 88 FR 3276, Jan. 18, 2023.
+
 (a) *General.* The following provisions apply to assessment and enforcement testing of the relevant products and equipment.
 
 (b) *Refrigerators, refrigerator-freezers, and freezers* - (1) *Verification of total refrigerated volume.* The total refrigerated volume of the basic model will be measured pursuant to the test requirements of 10 CFR part 430 for each unit tested. The results of the measurement(s) will be averaged and compared to the value of total refrigerated volume certified by the manufacturer. The certified total refrigerated volume will be considered valid only if:

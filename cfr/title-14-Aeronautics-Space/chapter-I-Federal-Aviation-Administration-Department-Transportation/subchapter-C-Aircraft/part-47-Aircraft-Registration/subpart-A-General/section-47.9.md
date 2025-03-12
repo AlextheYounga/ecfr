@@ -1,6 +1,6 @@
 ##### § 47.9 Corporations not U.S. citizens. #####
 
-(a) Each corporation applying for registration of an aircraft under 49 U.S.C. 44102 must submit to the Registry with the Aircraft Registration Application, AC Form 8050-1 -
+(a) Each corporation applying for registration of an aircraft under 49 U.S.C. 44102 must submit to the Registry with the Aircraft Registration Application, AC Form 8050-1—
 
 (1) A certified copy of its certificate of incorporation;
 
@@ -18,9 +18,9 @@
 
 (e) The corporation that registers an aircraft pursuant to 49 U.S.C. 44102 shall maintain, and make available for inspection by the FAA upon request, records containing the total flight hours in the United States of the aircraft for three calendar years after the year in which the flight hours were accumulated.
 
-(f) The corporation that registers an aircraft pursuant to 49 U.S.C. 44102 shall send to the Registry, at the end of each period of time described in paragraphs (b)(1) and (2) of this section, either -
+(f) The corporation that registers an aircraft pursuant to 49 U.S.C. 44102 shall send to the Registry, at the end of each period of time described in paragraphs (b)(1) and (2) of this section, either—
 
-(1) A signed report containing -
+(1) A signed report containing—
 
 (i) The total time in service of the airframe as provided in § 91.417(a)(2)(i), accumulated during that period; and
 
@@ -28,4 +28,4 @@
 
 (2) A signed statement that the total flight hours of the aircraft, while registered in the United States during that period, have been exclusively within the United States.
 
-[Amdt. 47-20, 44 FR 61940, Oct. 29, 1979, as amended by Amdt. 47-24, 54 FR 34330, Aug. 18, 1989; Amdt. 47-27, 70 FR 245, Jan. 3, 2005; Amdt. 47-29, 75 FR 41979, July 20, 2010; Amdt. No. 47-32, 87 FR 75711, Dec. 9, 2022]
+[Amdt. 47-20, 44 FR 61940, Oct. 29, 1979, as amended by Amdt. 47-24, 54 FR 34330, Aug. 18, 1989; Amdt. 47-27, 70 FR 245, Jan. 3, 2005; Amdt. 47-29, 75 FR 41979, July 20, 2010; Amdt. No. 47-34, 87 FR 75711, Dec. 9, 2022; 88 FR 2813, Jan. 18, 2023]

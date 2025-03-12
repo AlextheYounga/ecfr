@@ -6,7 +6,7 @@
 
 (c) *Fuel and oil filler openings.* The following apply:
 
-(1) Fuel filler openings must be marked at or near the filler cover with -
+(1) Fuel filler openings must be marked at or near the filler cover with—
 
 (i) The word “fuel”;
 
@@ -20,4 +20,4 @@
 
 (d) *Emergency exit placards.* Each placard and operating control for each emergency exit must differ in color from the surrounding fuselage surface as prescribed in § 29.811(f)(2). A placard must be near each emergency exit control and must clearly indicate the location of that exit and its method of operation.
 
-[Doc. No. 5084, 29 FR 16150, Dec. 3, 1964, as amended by Amdt. 29-3, 33 FR 971, Jan. 26, 1968; Amdt. 29-12, 41 FR 55474, Dec. 20, 1976; Amdt. 29-26, 53 FR 34220, Sept. 2, 1988; ]
+[Doc. No. 5084, 29 FR 16150, Dec. 3, 1964, as amended by Amdt. 29-3, 33 FR 971, Jan. 26, 1968; Amdt. 29-12, 41 FR 55474, Dec. 20, 1976; Amdt. 29-26, 53 FR 34220, Sept. 2, 1988; Amdt. 29-58, 87 FR 75711, Dec. 9, 2022]

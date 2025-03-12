@@ -1,6 +1,6 @@
 ##### § 47.31 Application. #####
 
-Link to an amendment published at 87 FR 71217, Nov. 22, 2022.
+Link to an amendment published at 87 FR 71217, Nov. 22, 2022.Link to a correction of the above amendment published at 88 FR 2814, Jan. 18, 2023.
 
 (a) Each applicant for a Certificate of Aircraft Registration, AC Form 8050-3 must submit the following to the Registry -
 

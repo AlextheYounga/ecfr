@@ -1,5 +1,7 @@
 ##### § 412.1 Label approval. #####
 
+Link to an amendment published at 88 FR 2811, Jan. 18, 2023.
+
 (a) No final label may be used on any product unless the label has been submitted for approval to the FSIS Labeling and Program Delivery Staff, accompanied by FSIS Form 7234-1, Application for Approval of Labels, Marking, and Devices, and approved by such staff, except for generically approved labels authorized for use in § 412.2. The management of the official establishment or establishment certified under a foreign inspection system, in accordance with parts 327 and 381, subpart T, must maintain a copy of all labels used, in accordance with parts 320 and 381, subpart Q, of this chapter. Such records must be made available to any duly authorized representative of the Secretary upon request.
 
 (b) All labels required to be submitted for approval as set forth in paragraph (a) of this section will be submitted to the FSIS Labeling and Program Delivery Staff. A parent company for a corporation may submit only one label application for a product produced in other establishments that are owned by the corporation.
