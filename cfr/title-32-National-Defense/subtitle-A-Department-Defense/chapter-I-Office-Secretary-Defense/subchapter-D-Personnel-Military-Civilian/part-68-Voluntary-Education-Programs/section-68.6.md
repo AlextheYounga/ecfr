@@ -1,5 +1,7 @@
 ##### § 68.6 Procedures. #####
 
+Link to an amendment published at 86 FR 27976, May 25, 2021.
+
 (a) *TA for Service members participating in education programs.* (1) TA will be available for Service members participating in high school completion and approved courses from accredited undergraduate or graduate education programs or educational institutions. Approved courses are those that are part of an identified course of study leading to a postsecondary certificate or degree and non-degree oriented language courses integral to the Defense Language Transformation Roadmap (available at *http://www.defense.gov/news/Mar2005/d20050330roadmap.pdf*).
 
 (i) Use of TA for non-degree oriented language courses is limited to those published by the Under Secretary of Defense (P&R) on the DoD Strategic Language List.

@@ -184,4 +184,8 @@ HSM 91 Lame Dog Hut at the Bulgarian base St. Kliment Ohridski, Livingston Islan
 
 HSM 92 Oversnow heavy tractor “Kharkovchanka” that was used in Antarctica from 1959 to 2010.
 
-[84 FR 16792, Apr. 23, 2019]
+HSM 93 Endurance, Wreck of the vessel owned and used by Sir Ernest Shackleton during his 1914-15 Trans-Antarctic Expedition.
+
+HSM 94 C.A. Larsen Multiexpedition cairn.
+
+[84 FR 16792, Apr. 23, 2019, as amended at 86 FR 27990, May 25, 2021]

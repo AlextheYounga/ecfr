@@ -1,11 +1,13 @@
-##### § 670.37 Content of permit applications. #####
+##### § 670.37 Content of permit application. #####
 
-Applications for the introduction of plants and animals into Antarctica must describe:
+Applications for the introduction of non-indigenous species into Antarctica must describe:
 
-(a) The species, numbers, and if appropriate, the age and sex, of the animals or plants to be introduced into Antarctica;
+(a) The species, numbers, and if appropriate, the age and sex, of the species to be introduced into Antarctica;
 
-(b) The need for the plants or animals;
+(b) The need for the species;
 
 (c) What precautions the applicant will take to prevent escape or contact with native fauna and flora; and
 
-(d) How the plants or animals will be removed from Antarctica or destroyed after they have served their purpose.
+(d) How the species will be removed from Antarctica or destroyed after they have served their purpose.
+
+[86 FR 27988, May 25, 2021]

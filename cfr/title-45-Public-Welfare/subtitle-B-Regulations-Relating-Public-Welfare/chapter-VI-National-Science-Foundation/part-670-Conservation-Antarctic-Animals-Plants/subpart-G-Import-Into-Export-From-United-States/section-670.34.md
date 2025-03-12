@@ -1,6 +1,6 @@
 ##### § 670.34 Entry and exit ports. #####
 
-(a) Any native mammal, native bird, or native plants taken within Antarctica that are imported into or exported from the United States must enter or leave the United States at ports designated by the Secretary of Interior in 50 CFR part 14. The ports currently designated are:
+(a) Any native mammal, native bird, native invertebrates or native plants taken within Antarctica that are imported into or exported from the United States must enter or leave the United States at ports designated by the Secretary of Interior in 50 CFR part 14. The ports currently designated are:
 
 (1) Los Angeles, California.
 
@@ -29,3 +29,5 @@
 (13) Atlanta, Georgia.
 
 (b) Permits to import or export at non-designated ports may be sought from the Secretary of Interior pursuant to subpart C, 50 CFR part 14.
+
+[63 FR 50164, Sept. 21, 1998, as amended at 86 FR 27988, May 25, 2021]

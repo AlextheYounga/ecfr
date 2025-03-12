@@ -1280,6 +1280,44 @@ The general requirements in § 214.1 are modified for the following nonimmigrant
 
 (ix) *Enforcement.* The Secretary of Labor may investigate employers to enforce compliance with the conditions of a petition and Department of Labor-approved temporary labor certification to admit or otherwise provide status to an H-2B worker.
 
+(x) *Special requirements for additional cap allocations under the Consolidated Appropriations Act, 2021, Public Law 116-260* - (A) *Public Law 116-260* - (*1*) *Supplemental allocation for returning workers.* Notwithstanding the numerical limitations set forth in paragraph (h)(8)(i)(C) of this section, for fiscal year 2021 only, the Secretary has authorized up to an additional 16,000 visas for aliens who may receive H-2B nonimmigrant visas pursuant to section 105 of Division O of the Consolidated Appropriations Act, 2021, Public Law 116-260. An alien may be eligible to receive an H-2B nonimmigrant visa under this paragraph (h)(6)(x)(A)(*1*) if she or he is a returning worker. The term “returning worker” under this paragraph (h)(6)(x)(A)(*1*) means a person who was issued an H-2B visa or was otherwise granted H-2B status in fiscal year 2018, 2019, or 2020. Notwithstanding § 248.2 of this chapter, an alien may not change status to H-2B nonimmigrant under this paragraph (h)(6)(x)(A)(*1*).
+
+(*2*) *Supplemental allocation for nationals of Guatemala, El Salvador, and Honduras (Northern Triangle countries).* Notwithstanding the numerical limitations set forth in paragraph (h)(8)(i)(C) of this section, for fiscal year 2021 only, and in addition to the allocation described in paragraph (h)(6)(x)(A)(*1*) of this section, the Secretary has authorized up to an additional 6,000 aliens who are nationals of Guatemala, El Salvador, or Honduras (Northern Triangle countries) who may receive H-2B nonimmigrant visas pursuant to section 105 of Division O of the Consolidated Appropriations Act, 2021, Public Law 116-260. Such workers are not subject to the returning worker requirement in paragraph (h)(6)(x)(A)(*1*). Petitioners must request such workers in an H-2B petition that is separate from H-2B petitions that request returning workers under paragraph (h)(6)(x)(A)(*1*) and must declare that they are requesting these workers in the attestation required under 20 CFR 655.68(a)(1). Notwithstanding § 248.2 of this chapter, an alien may not change status to H-2B nonimmigrant under this paragraph (h)(6)(x)(A)(*2*).
+
+(*i*) Petitions submitted under this paragraph (h)(6)(x)(A)(*2*) must be received by July 8, 2021. H-2B petitions under the supplemental allocation for nationals of Northern Triangle countries received after that date will be rejected.
+
+(*ii*) If USCIS determines that it has received fewer petitions by July 8, 2021 than needed to reach the USCIS projections for the Northern Triangle countries supplemental allocation in this paragraph (h)(6)(x)(A)(*2*), it will make the remainder of the allocation available as a separate allocation described in paragraph (h)(6)(x)(A)(*3*) of this section.
+
+(*3*) *Availability of remainder of supplemental allocation.* If USCIS determines that fewer petitions have been received by July 8, 2021 than needed to meet the additional allocation described in paragraph (h)(6)(x)(A)(*2*) of this section, USCIS will make the remainder of the allocation available as a separate allocation to returning workers as described in paragraph (h)(6)(x)(A)(*1*) of this section and will announce the availability of the remainder of the allocation on the USCIS website at *uscis.gov* no later than July 23, 2021. Such announcement, if made, will specify the date on which petitioners may begin to file H-2B petitions under this paragraph (h)(6)(x)(A)(*3*).
+
+(B) *Eligibility.* In order to file a petition with USCIS under this paragraph (h)(6)(x), the petitioner must:
+
+(*1*) Comply with all other statutory and regulatory requirements for H-2B classification, including, but not limited to, requirements in this section, under part 103 of this chapter, and under 20 CFR part 655 and 29 CFR part 503; and
+
+(*2*) Submit to USCIS, at the time the employer files its petition, a U.S. Department of Labor attestation, in compliance with this section and 20 CFR 655.64, evidencing that:
+
+(*i*) Without the ability to employ all of the H-2B workers requested on the petition filed pursuant to this paragraph (h)(6)(x), its business is likely to suffer irreparable harm (that is, permanent and severe financial loss);
+
+(*ii*) All workers requested and/or instructed to apply for a visa have been issued an H-2B visa or otherwise granted H-2B status in fiscal year 2018, 2019, or 2020, unless the H-2B worker is a national of Guatemala, El Salvador, or Honduras and is counted towards the 6,000 cap described in paragraph (h)(6)(x)(A)(*2*) of this section;
+
+(*iii*) The employer will comply with all Federal, State, and local employment-related laws and regulations, including health and safety laws and laws related to COVID-19 worker protections, any right to time off or paid time off for COVID-19 vaccination, and that the employer will notify any H-2B workers approved under the supplemental cap in paragraph (h)(6)(x)(A)(*2*) of this section, in a language understood by the worker, as necessary or reasonable, that all persons in the United States, including nonimmigrants, have equal access to COVID-19 vaccines and vaccine distribution sites;
+
+(*iv*) The employer will comply with obligations and additional recruitment requirements outlined in 20 CFR 655.64(a)(3) through (5);
+
+(*v*) The employer will provide documentary evidence of the facts in paragraphs (h)(6)(x)(B)(*2*)(*i*) through (*iv*) of this section to DHS or DOL upon request; and
+
+(*vi*) The employer will agree to fully cooperate with any compliance review, evaluation, verification, or inspection conducted by DHS, including an on-site inspection of the employer's facilities, interview of the employer's employees and any other individuals possessing pertinent information, and review of the employer's records related to the compliance with immigration laws and regulations, including but not limited to evidence pertaining to or supporting the eligibility criteria for the FY 2021 supplemental allocations outlined in paragraph (h)(6)(x)(B) of this section, as a condition for the approval of the petition.
+
+(*vii*) The employer must attest on Form ETA-9142-B-CAA-4 that it will fully cooperate with any audit, investigation, compliance review, evaluation, verification or inspection conducted by DOL, including an on-site inspection of the employer's facilities, interview of the employer's employees and any other individuals possessing pertinent information, and review of the employer's records related to the compliance with applicable laws and regulations, including but not limited to evidence pertaining to or supporting the eligibility criteria for the FY 2021 supplemental allocations outlined in 20 CFR 655.64(a) and 655.68(a), as a condition for the approval of the H-2B petition. The employer must further attest on Form ETA-9142-B-CAA-4 that it will not impede, interfere, or refuse to cooperate with an employee of the Secretary of the U.S. Department of Labor who is exercising or attempting to exercise DOL's audit or investigative authority pursuant to 20 CFR part 655, subpart A, and 29 CFR 503.25.
+
+(C) *Processing.* USCIS will reject petitions filed pursuant to paragraph (h)(6)(x)(A)(*1*) or (*3*) of this section that are received after the applicable numerical limitation has been reached or after September 15, 2021, whichever is sooner. USCIS will reject petitions filed pursuant to paragraph (h)(6)(x)(A)(*2*) of this section that are received after the applicable numerical limitation has been reached or after July 8, 2021, whichever is sooner. USCIS will not approve a petition filed pursuant to this paragraph (h)(6)(x) on or after October 1, 2021.
+
+(D) *Numerical limitations under paragraphs (h)(6)(x)(A)(1), (2), and (3) of this section.* When calculating the numerical limitations under paragraphs (h)(6)(x)(A)(*1*), (*2*), and (*3*) of this section as authorized under Public Law 116-260, USCIS will make numbers for each allocation available to petitions in the order in which the petitions subject to the respective limitation are received. USCIS will make projections of the number of petitions necessary to achieve the numerical limit of approvals, taking into account historical data related to approvals, denials, revocations, and other relevant factors. USCIS will monitor the number of petitions (including the number of workers requested when necessary) received and will notify the public of the dates that USCIS has received the necessary number of petitions (the “final receipt dates”) under paragraph (h)(6)(x)(A)(*1*) or paragraphs (h)(6)(x)(A)(*2*) and (*3*). The day the public is notified will not control the final receipt dates. When necessary to ensure the fair and orderly allocation of numbers subject to the numerical limitations in paragraphs (h)(6)(x)(A)(*1*), (*2*), and (*3*), USCIS may randomly select from among the petitions received on the final receipt dates the remaining number of petitions deemed necessary to generate the numerical limit of approvals. This random selection will be made via computer-generated selection. Petitions subject to a numerical limitation not randomly selected or that were received after the final receipt dates that may be applicable under paragraph (h)(6)(x)(A)(*1*), (*2*), or (*3*) will be rejected. If the final receipt date is any of the first 5 business days on which petitions subject to the applicable numerical limits described in paragraph (h)(6)(x)(A)(*1*), (*2*), or (*3*) may be received (in other words, if any of the numerical limits described in paragraph (h)(6)(x)(A)(*1*), (*2*), or (*3*) is reached on any one of the first 5 business days that filings can be made), USCIS will randomly apply all of the numbers among the petitions received on any of those 5 business days.
+
+(E) *Sunset.* This paragraph (h)(6)(x) expires on October 1, 2021.
+
+(F) *Non-severability.* The requirement to file an attestation under paragraph (h)(6)(x)(B)(*2*) of this section is intended to be non-severable from the remainder of this paragraph (h)(6)(x), including, but not limited to, the numerical allocation provisions at paragraphs (h)(6)(x)(A)(*1*), (*2*), and (*3*) of this section in their entirety. In the event that any part of this paragraph (h)(6)(x) is enjoined or held to be invalid by any court of competent jurisdiction, the remainder of this paragraph (h)(6)(x) is also intended to be enjoined or held to be invalid in such jurisdiction, without prejudice to workers already present in the United States under this paragraph (h)(6)(x), as consistent with law.
+
 (7) *Petition for alien trainee or participant in a special education exchange visitor program (H-3)* - (i) *Alien trainee.* The H-3 trainee is a nonimmigrant who seeks to enter the United States at the invitation of an organization or individual for the purpose of receiving training in any field of endeavor, such as agriculture, commerce, communications, finance, government, transportation, or the professions, as well as training in a purely industrial establishment. This category shall not apply to physicians, who are statutorily ineligible to use H-3 classification in order to receive any type of graduate medical education or training.
 
 (A) *Externs.* A hospital approved by the American Medical Association or the American Osteopathic Association for either an internship or residency program may petition to classify as an H-3 trainee a medical student attending a medical school abroad, if the alien will engage in employment as an extern during his/her medical school vacation.
@@ -1697,6 +1735,36 @@ The general requirements in § 214.1 are modified for the following nonimmigrant
 (vi) Authorization to initiate employment changes pursuant to paragraphs (h)(23)(ii) and (iii) of this section, or be approved for employment exceeding 3 years in duration pursuant to paragraph (h)(23)(iv) of this section, begins on May 14, 2020, and ends at the end of September 11, 2020.
 
 (24) *Severability.* (i)-(ii) [Reserved]
+
+(25) [Reserved]
+
+(26) *Change of employers and portability for H-2B workers.* (i) This paragraph (h)(26) relates to H-2B workers seeking to change employers during the time period specified in paragraph (h)(26)(iv) of this section. Notwithstanding paragraph (h)(2)(i)(D) of this section, an alien in valid H-2B nonimmigrant status:
+
+(A) Whose new petitioner files a non-frivolous H-2B petition requesting an extension of the alien's stay on or after May 25, 2021, is authorized to begin employment with the new petitioner after the petition described in this paragraph (h)(26) is received by USCIS and before the new H-2B petition is approved, but no earlier than the start date indicated in the new H-2B petition; or
+
+(B) Whose new petitioner filed a non-frivolous H-2B petition requesting an extension of the alien's stay before May 25, 2021 that remains pending on May 25, 2021, is authorized to begin employment with the new petitioner before the new H-2B petition is approved, but no earlier than the start date of employment indicated on the new H-2B petition.
+
+(ii)(A) With respect to a new petition described in paragraph (h)(26)(i)(A) of this section, and subject to the requirements of 8 CFR 274a.12(b)(30), the new period of employment described in paragraph (h)(26)(i) of this section may last for up to 60 days beginning on the Received Date on Form I-797 (Notice of Action) or, if the start date of employment occurs after the I-797 Received Date, for a period of up to 60 days beginning on the start date of employment indicated in the H-2B petition.
+
+(B) With respect to a new petition described in paragraph (h)(26)(i)(B) of this section, the new period of employment described in paragraph (h)(26)(i) of this section may last for up to 60 days beginning on the later of either May 25, 2021 or the start date of employment indicated in the H-2B petition.
+
+(C) With respect to either type of new petition, if USCIS adjudicates the new petition before the expiration of this 60-day period and denies the petition, or if the new petition is withdrawn by the petitioner before the expiration of the 60-day period, the employment authorization associated with the filing of that petition under 8 CFR 274a.12(b)(30) will automatically terminate 15 days after the date of the denial decision or 15 days after the date on which the new petition is withdrawn. Nothing in this paragraph (h)(26) is intended to alter the availability of employment authorization related to professional H-2B athletes who are traded between organizations pursuant to paragraph (h)(6)(vii) of this section and 8 CFR 274a.12(b)(9).
+
+(iii) In addition to meeting all other requirements in paragraph (h)(6) of this section for the H-2B classification, to commence employment and be approved under this paragraph (h)(26):
+
+(A) The alien must have been in valid H-2B nonimmigrant status on or after May 25, 2021;
+
+(B) The new H-2B petition must have been -
+
+(*1*) Pending as of May 25, 2021; or
+
+(*2*) Received on or after May 25, 2021, but no later than November 22, 2021;
+
+(C) The petitioner must comply with all Federal, State, and local employment-related laws and regulations, including health and safety laws, laws related to COVID-19 worker protections, and any right to time off or paid time off for COVID-19 vaccination; and
+
+(D) The petitioner may not impede, interfere, or refuse to cooperate with an employee of the Secretary of the U.S. Department of Labor who is exercising or attempting to exercise DOL's audit or investigative authority under 20 CFR part 655, subpart A, and 29 CFR 503.25.
+
+(iv) Authorization to initiate employment changes pursuant to this paragraph (h)(26) begins at 12 a.m. on May 25, 2021, and ends at the end of November 22, 2021.
 
 (i) *Representatives of information media* - (1) *In general.* The admission of an alien of the class defined in section 101(a)(15)(I) of the Act constitutes an agreement by the alien not to change the information medium or his or her employer until he or she obtains permission to do so from the district director having jurisdiction over his or her residence. An alien classified as an information media nonimmigrant (I) may be admitted in or otherwise granted I nonimmigrant status for:
 
@@ -3651,3 +3719,5 @@ The general requirements in § 214.1 are modified for the following nonimmigrant
 2. At 85 FR 51311, Aug. 20, 2020, § 214.2 was amended by adding paragraph (h)(21), effective Aug. 19, 2020, through Aug. 19, 2023.
 
 3. At 85 FR 82298, Dec. 18, 2020, § 214.2 was amended by adding paragraph (h)(22), effective Dec. 18, 2020, through Dec. 18, 2023.
+
+4. At 86 FR 28230, May 25, 2021, § 214.2 was amended by adding paragraph (h)(6)(x), reserved paragraph (h)(25), and paragraph (h)(26), effective May 25, 2021, through May 28, 2024.
