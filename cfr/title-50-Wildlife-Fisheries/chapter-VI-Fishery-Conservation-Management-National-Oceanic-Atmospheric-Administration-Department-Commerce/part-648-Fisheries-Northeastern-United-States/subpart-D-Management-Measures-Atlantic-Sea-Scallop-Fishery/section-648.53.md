@@ -36,33 +36,33 @@
 
 (iv) *NGOM APL.* The NGOM APL shall be the portion of the NGOM TAL that is available for harvest for the limited access and LAGC IFQ fleets set through specifications after the observer and research set-asides are removed and the first 800,000 lb (362,874 kg) of the NGOM TAL are allocated to the NGOM Set-Aside. For all allocation above 800,000 lb (362,874 kg), 5 percent shall go to the NGOM set-aside, and 95 percent shall go to the NGOM APL. The method in which the limited access and LAGC IFQ components will access the NGOM APL will be determined in future specifications.
 
-(9) *Scallop fishery catch limits.* The following catch limits will be effective for the 2022 and 2023 fishing years:
+(9) *Scallop fishery catch limits.* The following catch limits will be effective for the 2023 and 2024 fishing years:
 
 Table 2 to Paragraph (a)(9)—Scallop Fishery Catch Limits
 
-|                                 Catch limits                                  |2022  <br/>(mt)|2023  <br/>(mt)<sup>1</sup>|
+|                                 Catch limits                                  |2023  <br/>(mt)|2024  <br/>(mt)<sup>1</sup>|
 |-------------------------------------------------------------------------------|---------------|---------------------------|
-|                                      OFL                                      |    38,271     |          34,941           |
-|                          ABC/ACL (discards removed)                           |    25,724     |          23,200           |
+|                                      OFL                                      |    27,504     |          29,151           |
+|                          ABC/ACL (discards removed)                           |    19,828     |          20,206           |
 |                              Incidental Landings                              |      23       |            23             |
 |                                      RSA                                      |      578      |            578            |
-|                              Observer Set-Aside                               |      257      |            232            |
-|                                NGOM Set-Aside                                 |      282      |            221            |
-|                                ACL for fishery                                |    24,865     |          22,367           |
-|                              Limited Access ACL                               |    23,498     |          21,137           |
-|                                LAGC Total ACL                                 |     1,368     |           1,230           |
-|                        LAGC IFQ ACL (5 percent of ACL)                        |     1,243     |           1,118           |
-|             Limited Access with LAGC IFQ ACL (0.5 percent of ACL)             |      124      |            112            |
-|                              Limited Access ACT                               |    20,365     |          18,318           |
-|                        APL (after set-asides removed)                         |    14,251     |            (1)            |
-|                   Limited Access APL (94.5 percent of APL)                    |    13,467     |            (1)            |
-|         Total IFQ Annual Allocation (5.5 percent of APL)<sup>2</sup>          |      784      |            588            |
-|           LAGC IFQ Annual Allocation (5 percent of APL)<sup>2</sup>           |      713      |            534            |
-|Limited Access with LAGC IFQ Annual Allocation (0.5 percent of APL)<sup>2</sup>|      71       |            53             |
+|                              Observer Set-Aside                               |      198      |            202            |
+|                                NGOM Set-Aside                                 |      175      |            130            |
+|                                ACL for fishery                                |    18,853     |          19,403           |
+|                              Limited Access ACL                               |    17,816     |          18,335           |
+|                                LAGC Total ACL                                 |     1,037     |           1,067           |
+|                        LAGC IFQ ACL (5 percent of ACL)                        |      943      |            970            |
+|             Limited Access with LAGC IFQ ACL (0.5 percent of ACL)             |      94       |            97             |
+|                              Limited Access ACT                               |    15,441     |          15,891           |
+|                        APL (after set-asides removed)                         |    10,368     |      (<sup>1</sup>)       |
+|                   Limited Access APL (94.5 percent of APL)                    |     9,798     |      (<sup>1</sup>)       |
+|         Total IFQ Annual Allocation (5.5 percent of APL)<sup>2</sup>          |      570      |            428            |
+|           LAGC IFQ Annual Allocation (5 percent of APL)<sup>2</sup>           |      518      |            389            |
+|Limited Access with LAGC IFQ Annual Allocation (0.5 percent of APL)<sup>2</sup>|      52       |            39             |
 
-<sup>1</sup> The catch limits for the 2023 fishing year are subject to change through a future specifications action or framework adjustment. This includes the setting of an APL for 2023 that will be based on the 2022 annual scallop surveys. The 2023 default allocations for the limited access component are defined for DAS in paragraph (b)(3) of this section and for access areas in § 648.59(b)(3)(i)(B).
+<sup>1</sup> The catch limits for the 2024 fishing year are subject to change through a future specifications action or framework adjustment. This includes the setting of an APL for 2024 that will be based on the 2023 annual scallop surveys. The 2024 default allocations for the limited access component are defined for DAS in paragraph (b)(3) of this section and for access areas in § 648.59(b)(3)(i)(B).
 
-<sup>2</sup> As specified in paragraph (a)(6)(iii)(B) of this section, the 2023 IFQ annual allocations are set at 75 percent of the 2022 IFQ Annual Allocations.
+<sup>2</sup> As specified in paragraph (a)(6)(iii)(B) of this section, the 2024 IFQ annual allocations are set at 75 percent of the 2023 IFQ Annual Allocations.
 
 (b) *DAS specifications and allocations.* DAS specifications and allocations for limited access scallop trips in open areas are defined as follows and shall be specified through the specifications or framework adjustment processes defined in § 648.55, as follows:
 
@@ -72,17 +72,17 @@ Table 2 to Paragraph (a)(9)—Scallop Fishery Catch Limits
 
 (ii) Subject to the vessel permit application requirements specified in § 648.4, for each fishing year, each vessel issued a limited access scallop permit shall be assigned to the DAS category (full-time, part-time, or occasional) it was assigned to in the preceding year, except as provided under the small dredge program specified in § 648.51(e).
 
-(3) *DAS allocations.* The DAS allocations for limited access scallop vessels for fishing years 2022 and 2023 are as follows:
+(3) *DAS allocations.* The DAS allocations for limited access scallop vessels for fishing years 2023 and 2024 are as follows:
 
 Table 3 to Paragraph (b)(3)—Scallop Open Area DAS Allocations
 
-|Permit category|2022 |2023<sup>1</sup>|
+|Permit category|2023 |2024<sup>1</sup>|
 |---------------|-----|----------------|
 |   Full-Time   |24.00|     18.00      |
 |   Part-Time   |9.60 |      7.20      |
 |  Occasional   |2.00 |      1.5       |
 
-<sup>1</sup> The DAS allocations for the 2023 fishing year are subject to change through a future specifications action or framework adjustment. The 2023 DAS allocations are set at 75 percent of the 2022 allocation as a precautionary measure.
+<sup>1</sup> The DAS allocations for the 2024 fishing year are subject to change through a future specifications action or framework adjustment. The 2024 DAS allocations are set at 75 percent of the 2023 allocation as a precautionary measure.
 
 (4) Standardized default DAS allocations. Unless otherwise specified by the Council through the framework adjustment or specifications process defined in § 648.55, after the first-year allocations expire, the second-year default limited access DAS allocations, as described in § 648.55(a), shall be set at 75 percent of the first-year allocation. After the second-year default allocation expires, the third year allocation would be set to zero until replaced by subsequent allocations.
 

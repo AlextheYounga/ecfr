@@ -1,0 +1,9 @@
+##### § 553.11 Exclusion for elected officials and their appointees. #####
+
+(a) Section 3(e)(2)(C) provides an exclusion from the Act's coverage for officials elected by the voters of their jurisdictions. Also excluded under this provision are personal staff members and officials in policymaking positions who are selected or appointed by the elected public officials and certain advisers to such officials.
+
+(b) The statutory term “member of personal staff” generally includes only persons who are under the direct supervision of the selecting elected official and have regular contact with such official. The term typically does not include individuals who are directly supervised by someone other than the elected official even though they may have been selected by the official. For example, the term might include the elected official's personal secretary, but would not include the secretary to an assistant.
+
+(c) In order to qualify as personal staff members or officials in policymaking positions, the individuals in question must not be subject to the civil service laws of their employing agencies. The term “civil service laws” refers to a personnel system established by law which is designed to protect employees from arbitrary action, personal favoritism, and political coercion, and which uses a competitive or merit examination process for selection and placement. Continued tenure of employment of employees under civil service, except for cause, is provided. In addition, such personal staff members must be appointed by, and serve solely at the pleasure or discretion of, the elected official.
+
+(d) The exclusion for “immediate adviser” to elected officials is limited to staff who serve as advisers on constitutional or legal matters, and who are not subject to the civil service rules of their employing agency.

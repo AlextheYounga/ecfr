@@ -1,8 +1,10 @@
 ##### § 422.311 RADV audit dispute and appeal processes. #####
 
-Link to an amendment published at 88 FR 6665, Feb. 1, 2023.
+(a) *Risk adjustment data validation (RADV) audits.* In accordance with §§ 422.2 and 422.310(e), the Secretary annually conducts RADV audits to ensure risk-adjusted payment integrity and accuracy.
 
-(a) *Risk adjustment data validation (RADV) audits.* In accordance with § 422.2 and § 422.310(e), the Secretary annually conducts RADV audits to ensure risk adjusted payment integrity and accuracy.
+(1) Recovery of improper payments from MA organizations will be conducted in accordance with the Secretary's payment error extrapolation and recovery methodologies.
+
+(2) CMS may apply extrapolation to audits for payment year 2018 and subsequent payment years.
 
 (b) *RADV audit results.* (1) MA organizations that undergo RADV audits will be issued an audit report post medical record review that describes the results of the RADV audit as follows:
 
@@ -18,9 +20,9 @@ Link to an amendment published at 88 FR 6665, Feb. 1, 2023.
 
 (2) *Compliance date.* The compliance date for meeting RADV medical record submission requirements for the validation of risk adjustment data is the due date when MA organizations selected for RADV audit must submit medical records to the Secretary.
 
-(c) *RADV audit appeals* - (1) *Appeal rights.* MA organizations that do not agree with their RADV audit results may appeal.
+(c) *RADV audit appeals*—(1) *Appeal rights.* MA organizations that do not agree with their RADV audit results may appeal.
 
-(2) *Issues eligible for RADV appeals* - (i) *General rules.* MA organizations may appeal RADV medical record review determinations and the Secretary's RADV payment error calculation. In order to be eligible for RADV appeal, MA organizations must adhere to the following:
+(2) *Issues eligible for RADV appeals*—(i) *General rules.* MA organizations may appeal RADV medical record review determinations and the Secretary's RADV payment error calculation. In order to be eligible for RADV appeal, MA organizations must adhere to the following:
 
 (A) Established RADV audit procedures and requirements.
 
@@ -48,7 +50,7 @@ Link to an amendment published at 88 FR 6665, Feb. 1, 2023.
 
 (ii) MA organizations may not appeal the Secretary's medical record review determination methodology or RADV payment error calculation methodology.
 
-(iii) As part of the RADV payment error calculation appeal - MA organizations may not appeal RADV medical record review-related errors.
+(iii) As part of the RADV payment error calculation appeal— MA organizations may not appeal RADV medical record review-related errors.
 
 (iv) MA organizations may not appeal RADV errors that result from an MA organization's failure to submit a medical record.
 
@@ -74,13 +76,13 @@ Link to an amendment published at 88 FR 6665, Feb. 1, 2023.
 
 (B) An MA organization's request for appeal of its RADV payment error calculation will not be adjudicated until appeals of RADV medical record review determinations filed by the MA organization have been completed and the decisions are final for that stage of appeal.
 
-(6) *Reconsideration stage* - (i) *Written request for medical record review reconsideration.* A MA organization's written request for medical record review determination reconsideration must specify the following:
+(6) *Reconsideration stage*—(i) *Written request for medical record review reconsideration.* A MA organization's written request for medical record review determination reconsideration must specify the following:
 
 (A) The audited HCC that the Secretary identified as being in error that the MA organization wishes to appeal.
 
 (B) A justification in support of the audited HCC chosen for appeal.
 
-(ii) *Written request for payment error calculation.* The MA organization's written request for payment error calculation reconsideration -
+(ii) *Written request for payment error calculation.* The MA organization's written request for payment error calculation reconsideration—
 
 (A) Must include the MA organization's own RADV payment error calculation that clearly specifies where the Secretary's RADV payment error calculation was erroneous; and
 
@@ -106,13 +108,13 @@ Link to an amendment published at 88 FR 6665, Feb. 1, 2023.
 
 (C) If the MA organization disagrees with the reconsideration official's decision, they may request a hearing in accordance with paragraph (c)(7) of this section.
 
-(7) *Hearing stage* - (i) *Errors eligible for hearing.* At the time the reconsideration official issues his or her reconsideration determination to the MA organization, the reconsideration official notifies the MA organization of any RADV HCC errors or payment error-calculations that are eligible for RADV hearing.
+(7) *Hearing stage*—(i) *Errors eligible for hearing.* At the time the reconsideration official issues his or her reconsideration determination to the MA organization, the reconsideration official notifies the MA organization of any RADV HCC errors or payment error-calculations that are eligible for RADV hearing.
 
 (ii) *General hearing rules.* A MA organization that requests a RADV hearing must do so in writing in accordance with procedures established by CMS.
 
 (iii) *Written request for hearing.* The written request for a hearing must be filed with the Hearing Officer within 60 days of the date the MA organization receives the reconsideration officer's written reconsideration decision.
 
-(A) If the MA organization appeals medical record review reconsideration determination, the written request for RADV hearing must -
+(A) If the MA organization appeals medical record review reconsideration determination, the written request for RADV hearing must—
 
 (*1*) Include a copy of the written decision of the reconsideration official;
 
@@ -154,7 +156,7 @@ Link to an amendment published at 88 FR 6665, Feb. 1, 2023.
 
 (*2*) Briefs addressing the reconsideration decision.
 
-(vii) *Hearing procedures* - (A) *Authority of the Hearing Officer.* The hearing officer has full power to make rules and establish procedures, consistent with the law, regulations, and the Secretary rulings. These powers include the authority to dismiss the appeal with prejudice and take any other action which the hearing officer considers appropriate, including for failure to comply with such rules and procedures.
+(vii) *Hearing procedures*—(A) *Authority of the Hearing Officer.* The hearing officer has full power to make rules and establish procedures, consistent with the law, regulations, and the Secretary rulings. These powers include the authority to dismiss the appeal with prejudice and take any other action which the hearing officer considers appropriate, including for failure to comply with such rules and procedures.
 
 (B) *The hearing is on the record.* (*1*) Except as specified in paragraph (c)(viii)(B)(*2*) of this section, the hearing officer is limited to the review of the record.
 
@@ -168,7 +170,7 @@ Link to an amendment published at 88 FR 6665, Feb. 1, 2023.
 
 (*ii*) Written briefs from the MA organization explaining why they believe the reconsideration official's determination was incorrect.
 
-(*iii*) The Secretary's optional brief that responds to the MA organization's brief -
+(*iii*) The Secretary's optional brief that responds to the MA organization's brief—
 
 (*4*) The hearing officer neither receives testimony nor accepts any new evidence that is not part of the record.
 
@@ -188,7 +190,7 @@ Link to an amendment published at 88 FR 6665, Feb. 1, 2023.
 
 (iii) After receiving a request for review, the CMS Administrator has the discretion to elect to review the hearing officer's decision or to decline to review the hearing officer's decision.
 
-(iv) If the CMS Administrator elects to review the hearing decision -
+(iv) If the CMS Administrator elects to review the hearing decision—
 
 (A) The CMS Administrator acknowledges the decision to review the hearing decision in writing and notifies CMS and the MA organization of their right to submit comments within 15 days of the date of the notification; and
 
@@ -204,10 +206,10 @@ Link to an amendment published at 88 FR 6665, Feb. 1, 2023.
 
 (v) The CMS Administrator renders his or her final decision in writing to the parties within 60 days of acknowledging his or her decision to review the hearing officer's decision.
 
-(vi) The decision of the hearing officer is final if the CMS Administrator -
+(vi) The decision of the hearing officer is final if the CMS Administrator—
 
 (A) Declines to review the hearing officer's decision; or
 
 (B) Does not make a decision within 60 days.
 
-[75 FR 19806, Apr. 15, 2010; 75 FR 32859, June 10, 2010; 79 FR 29956, May 23, 2014]
+[75 FR 19806, Apr. 15, 2010; 75 FR 32859, June 10, 2010; as amended at 79 FR 29956, May 23, 2014; 88 FR 6665, Feb. 1, 2023]

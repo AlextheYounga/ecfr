@@ -1,0 +1,3 @@
+##### § 580.11 Appointment of Administrative Law Judge and notification of prehearing conference and hearing date. #####
+
+Upon receipt from the Administrator of an Order of Reference, the Chief Administrative Law Judge shall appoint an Administrative Law Judge to hear the case. The Administrative Law Judge shall notify all interested parties of the time and place of a prehearing conference and of the hearing.

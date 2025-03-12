@@ -10,7 +10,7 @@
 
 (4) *BASIC track.* For agreement periods beginning on July 1, 2019, and in subsequent years, an ACO in the BASIC track operates under either a one-sided model or a two-sided model (as described under § 425.605), either sharing savings only or sharing both savings and losses with the Medicare program, as specified in this paragraph (a)(4).
 
-(i) *Levels of the BASIC track's glide path* - (A) *Phase-in of levels of the risk and reward.* Under the BASIC track's glide path, the level of risk and potential reward phases in over the course of the agreement period in the following order:
+(i) *Levels of the BASIC track's glide path*—(A) *Phase-in of levels of the risk and reward.* Under the BASIC track's glide path, the level of risk and potential reward phases in over the course of the agreement period in the following order:
 
 (*1*) *Level A.* The ACO operates under a one-sided model as described under § 425.605(d)(1)(i).
 
@@ -30,9 +30,7 @@
 
 (*i*) Exception for ACO entering the BASIC track's glide path for an agreement period beginning on July 1, 2019. The automatic advancement does not apply at the start of the second performance year for an ACO entering the BASIC track's glide path for an agreement period beginning on July 1, 2019. For performance year 2020, the ACO remains in the same level of the BASIC track's glide path that it entered for the July 1, 2019 through December 31, 2019 performance year, unless the ACO chooses to advance more quickly in accordance with § 425.226(a)(2)(i). The ACO is automatically advanced to the next level of the BASIC track's glide path at the start of performance year 2021 and all subsequent performance years of the agreement period.
 
-(*ii*) Exception for new legal entity identified as a low revenue ACO. An exception is available for a low revenue ACO that is a new legal entity and is not identified as a re-entering ACO that enters the BASIC track's glide path at Level A under paragraph (a)(4)(i)(A)(*1*) of this section, and is automatically advanced to Level B under paragraph (a)(4)(i)(A)(*2*) of this section for performance year 2 (or performance 3 in the case of ACOs entering an agreement period beginning on July 1, 2019). Prior to the automatic advancement of the ACO to Level C under paragraph (a)(4)(i)(A)(*3*) of this section, the ACO may elect to remain in Level B under paragraph (a)(4)(i)(A)(*2*) of this section for performance year 3 (performance year 4 in the case of ACOs entering an agreement period beginning on July 1, 2019).
-
-(*ii*) \* \* \* In the case of an ACO that elects to remain in Level B for an additional performance year pursuant to the second sentence of paragraph (a)(4)(i)(B)(*2*)(*ii*) of this section, and except as provided in paragraph (a)(4)(i)(B)(2)(*vi)* of this section, the ACO is automatically advanced to Level E under paragraph (a)(4)(i)(A)(*5*) of this section at the start of performance year 4 (or performance year 5 in the case of ACOs entering an agreement period beginning on July 1, 2019).
+(*ii*) Exception for new legal entity identified as a low revenue ACO. An exception is available for a low revenue ACO that is a new legal entity and is not identified as a re-entering ACO that enters the BASIC track's glide path at Level A under paragraph (a)(4)(i)(A)(*1*) of this section, and is automatically advanced to Level B under paragraph (a)(4)(i)(A)(*2*) of this section for performance year 2 (or performance 3 in the case of ACOs entering an agreement period beginning on July 1, 2019). Prior to the automatic advancement of the ACO to Level C under paragraph (a)(4)(i)(A)(*3*) of this section, the ACO may elect to remain in Level B under paragraph (a)(4)(i)(A)(*2*) of this section for performance year 3 (performance year 4 in the case of ACOs entering an agreement period beginning on July 1, 2019). In the case of an ACO that elects to remain in Level B for an additional performance year pursuant to the second sentence of paragraph (a)(4)(i)(B)(*2*)(*ii*) of this section, and except as provided in paragraph (a)(4)(i)(B)(2)(*vi)* of this section, the ACO is automatically advanced to Level E under paragraph (a)(4)(i)(A)(*5*) of this section at the start of performance year 4 (or performance year 5 in the case of ACOs entering an agreement period beginning on July 1, 2019).
 
 (*iii*) Exception for ACOs participating in the BASIC track's glide path that elect to maintain their participation level for performance year 2021. Prior to the automatic advancement for performance year 2021, an ACO that is participating in the BASIC track's glide path for performance year 2020 may elect to remain in the same level of the BASIC track's glide path that it entered for the 2020 performance year, for performance year 2021. For performance year 2022, the ACO is automatically advanced to the level of the BASIC track's glide path to which the ACO would have automatically advanced absent the election to maintain its participation level for performance year 2021, unless the ACO elects to transition to a higher level of risk and potential reward within the BASIC track's glide path as provided in § 425.226(a)(2)(i). A voluntary election by an ACO under this paragraph must be made in the form and manner and by a deadline established by CMS.
 
@@ -74,7 +72,7 @@
 
 (ii) *Agreement period under Level E of the BASIC track.* If an ACO enters the BASIC track and is ineligible to participate under the glide path described in paragraph (a)(4)(i) of this section, as determined under paragraph (d) or paragraph (g)(2) of this section, as applicable, Level E as described in paragraph (a)(4)(i)(A)(*5*) of this section applies to all performance years of the agreement period.
 
-(b) For agreement periods beginning before July 1, 2019, ACOs may operate under the one-sided model for a maximum of 2 agreement periods. An ACO may not operate under the one-sided model for a second agreement period unless the -
+(b) For agreement periods beginning before July 1, 2019, ACOs may operate under the one-sided model for a maximum of 2 agreement periods. An ACO may not operate under the one-sided model for a second agreement period unless the—
 
 (1) Immediately preceding agreement period was under the one-sided model; and
 
@@ -106,7 +104,7 @@
 
 (ii) For a new ACO identified as a re-entering ACO, the ACO in which the majority of the new ACO's participants were participating previously entered into a participation agreement for participation in the BASIC track only one time.
 
-(e) For performance years beginning on or after July 1, 2019 and before January 1, 2024, CMS monitors low revenue ACOs identified as experienced with performance-based risk Medicare ACO initiatives, during an agreement period in the BASIC track, for changes in the revenue of ACO participants that would cause the ACO to be considered a high revenue ACO and ineligible for participation in the BASIC track. If the ACO meets the definition of a high revenue ACO (as specified in § 425.20) -
+(e) For performance years beginning on or after July 1, 2019 and before January 1, 2024, CMS monitors low revenue ACOs identified as experienced with performance-based risk Medicare ACO initiatives, during an agreement period in the BASIC track, for changes in the revenue of ACO participants that would cause the ACO to be considered a high revenue ACO and ineligible for participation in the BASIC track. If the ACO meets the definition of a high revenue ACO (as specified in § 425.20)—
 
 (1) The ACO is permitted to complete the remainder of its current performance year under the BASIC track, but is ineligible to continue participation in the BASIC track after the end of that performance year if it continues to meet the definition of a high revenue ACO; and
 
@@ -116,7 +114,7 @@
 
 (1) An ACO entering an initial agreement period is considered to be entering a first agreement period in the Shared Savings Program.
 
-(2) A re-entering ACO is considered to be entering a new agreement period in the Shared Savings Program as follows -
+(2) A re-entering ACO is considered to be entering a new agreement period in the Shared Savings Program as follows—
 
 (i) An ACO whose participation agreement expired without having been renewed re-enters the program under the next consecutive agreement period in the Shared Savings Program;
 
@@ -156,7 +154,7 @@
 
 (h)(1) For performance years beginning on or after January 1, 2024, CMS monitors ACOs identified as inexperienced with performance-based risk Medicare ACO initiatives and participating in the BASIC track under a one-sided model during an agreement period pursuant to an election under paragraph (a)(4)(i)(B)(*2*)(*vi*), paragraph (a)(4)(i)(B)(*2*)(*vii*), or paragraph (a)(4)(i)(C)(*3*) of this section for changes to their certified list of ACO participants that would cause the ACO to be considered experienced with performance-based risk Medicare ACO initiatives and ineligible for participation in a one-sided model.
 
-(2) If the ACO meets the definition of experienced with performance-based risk Medicare ACO initiatives (under § 425.20) -
+(2) If the ACO meets the definition of experienced with performance-based risk Medicare ACO initiatives (under § 425.20)—
 
 (i) The ACO is permitted to complete the performance year for which it met the definition of experienced with performance-based risk Medicare ACO initiatives in a one-sided model of the BASIC track, but is ineligible to continue participation in the one-sided model after the end of that performance year if it continues to meet the definition of experienced with performance-based risk Medicare ACO initiatives. The ACO will be automatically advanced to Level E within the BASIC track under paragraph (a)(4)(i)(A)(*5*) of this section at the start of the next performance year and will remain in Level E for all subsequent performance years of the agreement period; and
 

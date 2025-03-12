@@ -1,0 +1,3 @@
+##### § 217.132 Permissible methods of taking. #####
+
+Under an LOA issued pursuant to § 216.106 of this chapter and § 217.136, the Holder of the LOA (hereinafter “Navy”) may incidentally, but not intentionally, take marine mammals within the area described in § 217.130(b) by harassment associated with construction activities related to the multifunctional expansion and modification of Dry Dock 1, provided the activity is in compliance with all terms, conditions, and requirements of the regulations in this subpart and the applicable LOA.

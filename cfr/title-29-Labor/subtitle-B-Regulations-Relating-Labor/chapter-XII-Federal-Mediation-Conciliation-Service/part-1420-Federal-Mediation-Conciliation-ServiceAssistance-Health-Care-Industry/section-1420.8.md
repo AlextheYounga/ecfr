@@ -1,0 +1,13 @@
+##### § 1420.8 FMCS deferral to parties' own private factfinding procedures. #####
+
+(a) The Service will defer to the parties' own privately agreed to factfinding procedure and decline to appoint a Board of Inquiry (BoI) as long as the parties' own procedure meets certain conditions so as to satisfy the Service's responsibilities under the Act. The Service will decline to appoint a BoI and leave the selection and appointment of a factfinder to the parties to a dispute if both the parties have agreed in writing to their own factfinding procedure which meets the following conditions:
+
+(1) The factfinding procedure must be invoked automatically at a specified time (for example, at contract expiration if no agreement is reached).
+
+(2) It must provide a fixed and determinate method for selecting the impartial factfinder(s).
+
+(3) It must provide that there can be no strike or lockout and no changes in conditions of employment (except by mutual agreement) prior to or during the factfinding procedure and for a period of at least seven days after the factfinding is completed.
+
+(4) It must provide that the factfinder(s) will make a written report to the parties, containing the findings of fact and the recommendations of the factfinder(s) for settling the dispute, a copy of which is sent to the Service. The parties to a dispute who have agreed to such a factfinding procedure should jointly submit a copy of such agreed upon procedure to the appropriate regional office of the Service at as early a date as possible, but in any event prior to the appointment of a BoI by the Service. See § 1420.5(f) for the addresses of the regional offices.
+
+(b) Since the Service does not appoint the factfinder under paragraph (a) of this section, the Service cannot pay for such factfinder. In this respect, such deferral by the Service to the parties' own factfinding procedure is different from the use of stipulation agreements between the parties which give to the Service the authority to select and appoint a factfinder at a later date than the date by which a BoI would have to be appointed under the Act. Under such stipulation agreements by which the parties give the Service authority to appoint a factfinder at a later date, the Service can pay for the factfinder. However, in the deferral to the parties' own factfinding procedure, the parties choose their own factfinder and they pay for the factfinder.

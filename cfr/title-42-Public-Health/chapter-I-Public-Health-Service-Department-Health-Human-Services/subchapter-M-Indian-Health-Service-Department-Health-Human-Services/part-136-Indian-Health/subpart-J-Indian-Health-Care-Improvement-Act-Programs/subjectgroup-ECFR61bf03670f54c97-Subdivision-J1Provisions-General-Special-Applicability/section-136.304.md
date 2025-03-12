@@ -1,0 +1,3 @@
+##### § 136.304 Publication of a list of allied health professions. #####
+
+The Secretary, acting through the Service, shall publish from time to time in the Federal Register a list of the allied health professions for consideration for the award of preparatory and Indian Health scholarships under subdivisions J-3 and J-4 of this Subpart, based upon his determination of the relative needs of Indians for additional service in specific allied health professions. In making that determination, the needs of the Service will be given priority consideration.

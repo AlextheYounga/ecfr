@@ -1,0 +1,3 @@
+##### § 2571.1 Scope of rules. #####
+
+The rules of practice set forth in this part apply to ex parte cease and desist order proceedings under section 521 of the Employee Retirement Income Security Act of 1974, as amended (ERISA). The rules of procedure for administrative hearings published by the Department's Office of Administrative Law Judges at part 18 of this title will apply to matters arising under ERISA section 521 except as modified by this section. These proceedings shall be conducted as expeditiously as possible, and the parties and the Office of the Administrative Law Judges shall make every effort to avoid delay at each stage of the proceedings.

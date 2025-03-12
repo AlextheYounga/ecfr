@@ -1,0 +1,3 @@
+##### § 2571.5 Consequences of default. #####
+
+For section 521 proceedings, this section shall apply in lieu of § 18.5(b) of this title. Failure of the respondent to file an answer to the temporary order within the 30-day period provided by 29 CFR 2560.521-1(e) shall constitute a waiver of the respondent's right to appear and contest the temporary order. Such failure shall also be deemed to be an admission of the facts as alleged in the temporary order for purposes of any proceeding involving the order issued under section 521 of ERISA. The temporary order shall then become the final order of the Secretary, within the meaning of 29 CFR 2571.2(f), 30 days from the date of the service of the temporary order.

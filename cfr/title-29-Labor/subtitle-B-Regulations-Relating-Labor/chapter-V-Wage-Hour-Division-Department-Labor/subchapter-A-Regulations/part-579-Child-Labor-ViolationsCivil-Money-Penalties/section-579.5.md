@@ -1,0 +1,19 @@
+##### § 579.5 Determining the amount of the penalty and assessing the penalty. #####
+
+(a) The administrative determination of the amount of the civil penalty for each employee who was the subject of a violation of section 12 or section 13(c) of the Act relating to child labor or of any regulation under those sections will be based on the available evidence of the violation or violations and will take into consideration the size of the business of the person charged and the gravity of the violations as provided in paragraphs (b) through (d) of this section.
+
+(b) In determining the amount of such penalty there shall be considered the appropriateness of such penalty to the size of the business of the person charged with the violation or violations, taking into account the number of employees employed by that person (and if the employment is in agriculture, the man-days of hired farm labor used in pertinent calendar quarters), dollar volume of sales or business done, amount of capital investment and financial resources, and such other information as may be available relative to the size of the business of such person.
+
+(c) In determining the amount of such penalty there shall be considered the appropriateness of such penalty to the gravity of the violation or violations, taking into account, among other things, any history of prior violations; any evidence of willfulness or failure to take reasonable precautions to avoid violations; the number of minors illegally employed; the age of the minors so employed and records of the required proof of age; the occupations in which the minors were so employed; exposure of such minors to hazards and any resultant injury to such minors; the duration of such illegal employment; and, as appropriate, the hours of the day in which it occurred and whether such employment was during or outside school hours.
+
+(d) Based on all the evidence available, including the investigation history of the person so charged and the degree of willfulness involved in the violation, it shall further be determined, where appropriate,
+
+(1) Whether the evidence shows that the violation is “de minimis” and that the person so charged has given credible assurance of future compliance, and whether a civil penalty in the circumstances is necessary to achieve the objectives of the Act; or
+
+(2) Whether the evidence shows that the person so charged had no previous history of child labor violations, that the violations themselves involved no intentional or heedless exposure of any minor to any obvious hazard or detriment to health or well-being and were inadvertent, and that the person so charged has given credible assurance of future compliance, and whether a civil penalty in the circumstances is necessary to achieve the objectives of the Act.
+
+(e) An administrative determination of the amount of the civil money penalty for a particular violation or particular violations of section 12 or section 13(c) relating to child labor or any regulation issued under those sections shall become final 15 days after receipt of the notice of penalty by certified mail by the person so charged unless such person has, pursuant to § 580.6 filed with the Secretary an exception to the determination that the violation or violations for which the penalty is imposed occurred.
+
+(f) A determination of the penalty made in an administrative proceeding after opportunity for hearing as provided in section 16(e) of the Act and pursuant to Part 580 of this chapter shall be final.
+
+[40 FR 25792, June 18, 1975, as amended at 56 FR 8679, Feb. 28, 1991; 66 FR 63503, Dec. 7, 2001; 75 FR 28461, May 20, 2010; 81 FR 43451, July 1, 2016]

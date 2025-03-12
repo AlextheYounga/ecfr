@@ -1,7 +1,5 @@
 ##### § 422.310 Risk adjustment data. #####
 
-Link to an amendment published at 88 FR 6665, Feb. 1, 2023.
-
 (a) *Definition of risk adjustment data.* Risk adjustment data are all data that are used in the development and application of a risk adjustment payment model.
 
 (b) *Data collection: Basic rule.* Each MA organization must submit to CMS (in accordance with CMS instructions) the data necessary to characterize the context and purposes of each item and service provided to a Medicare enrollee by a provider, supplier, physician, or other practitioner. CMS may also collect data necessary to characterize the functional limitations of enrollees of each MA organization.
@@ -26,9 +24,9 @@ Link to an amendment published at 88 FR 6665, Feb. 1, 2023.
 
 (5) For data described in paragraph (d)(1) of this section as data equivalent to Medicare fee-for-service data, which is also known as MA encounter data, MA organizations must submit a NPI in a billing provider field on each MA encounter data record, per CMS guidance.
 
-(e) *Validation of risk adjustment data.* MA organizations and their providers and practitioners will be required to submit a sample of medical records for the validation of risk adjustment data, as required by CMS. There may be penalties for submission of false data.
+(e) *Validation of risk adjustment data.* MA organizations and their providers and practitioners are required to submit a sample of medical records for the validation of risk adjustment data, as required by CMS. There may be penalties for submission of false data. MA organizations must remit improper payments based on RADV audits, in a manner specified by CMS. For RADV audits, CMS may extrapolate RADV Contract-Level audit findings for payment year 2018 and subsequent payment years.
 
-(f) *Use and release of data* - (1) *CMS use of data.* CMS may use the data described in paragraphs (a) through (d) of this section for the following purposes:
+(f) *Use and release of data*—(1) *CMS use of data.* CMS may use the data described in paragraphs (a) through (d) of this section for the following purposes:
 
 (i) To determine the risk adjustment factors used to adjust payments, as required under §§ 422.304(a) and (c);
 
@@ -54,7 +52,7 @@ Link to an amendment published at 88 FR 6665, Feb. 1, 2023.
 
 (ii) CMS data sharing procedures;
 
-(iii) Subject to the protection of beneficiary identifier elements and beneficiary confidentiality, including -
+(iii) Subject to the protection of beneficiary identifier elements and beneficiary confidentiality, including—
 
 (A) A prohibition against public disclosure of beneficiary identifying information;
 
@@ -66,7 +64,7 @@ Link to an amendment published at 88 FR 6665, Feb. 1, 2023.
 
 (v) Risk adjustment data other than data described in paragraphs (f)(2)(iii) and (f)(2)(iv) of this section will be released without the redaction or aggregation described in paragraphs (f)(2)(iii) and (f)(2)(iv) of this section, respectively.
 
-(3) Risk adjustment data will not become available for release under this paragraph (f) unless -
+(3) Risk adjustment data will not become available for release under this paragraph (f) unless—
 
 (i) The risk adjustment reconciliation for the applicable payment year has been completed;
 
@@ -86,4 +84,4 @@ Link to an amendment published at 88 FR 6665, Feb. 1, 2023.
 
 (3) Submission of corrected risk adjustment data in accordance with overpayments after the final risk adjustment data submission deadline, as described in paragraph (g)(2) of this section, must be made as provided in § 422.326.
 
-[73 FR 48757, Aug. 19, 2008, as amended at 79 FR 29956, May 23, 2014; 79 FR 50358, Aug. 22, 2014; 80 FR 7960, Feb. 12, 2015; 83 FR 16733, Apr. 16, 2018]
+[73 FR 48757, Aug. 19, 2008, as amended at 79 FR 29956, May 23, 2014; 79 FR 50358, Aug. 22, 2014; 80 FR 7960, Feb. 12, 2015; 83 FR 16733, Apr. 16, 2018; 88 FR 6665, Feb. 1, 2023]

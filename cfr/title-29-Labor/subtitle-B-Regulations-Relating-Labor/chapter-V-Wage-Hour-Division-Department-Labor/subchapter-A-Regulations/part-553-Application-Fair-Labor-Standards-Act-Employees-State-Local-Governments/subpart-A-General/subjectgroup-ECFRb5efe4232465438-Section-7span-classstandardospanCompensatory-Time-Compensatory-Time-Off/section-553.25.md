@@ -1,0 +1,13 @@
+##### § 553.25 Conditions for use of compensatory time (“reasonable period”, “unduly disrupt”). #####
+
+(a) Section 7(o)(5) of the FLSA provides that any employee of a public agency who has accrued compensatory time and requested use of this compensatory time, shall be permitted to use such time off within a “reasonable period” after making the request, if such use does not “unduly disrupt” the operations of the agency. This provision, however, does not apply to “other compensatory time” (as defined below in § 553.28), including compensatory time accrued for overtime worked prior to April 15, 1986.
+
+(b) Compensatory time cannot be used as a means to avoid statutory overtime compensation. An employee has the right to use compensatory time earned and must not be coerced to accept more compensatory time than an employer can realistically and in good faith expect to be able to grant within a reasonable period of his or her making a request for use of such time.
+
+(c) *Reasonable period.* (1) Whether a request to use compensatory time has been granted within a “reasonable period” will be determined by considering the customary work practices within the agency based on the facts and circumstances in each case. Such practices include, but are not limited to (a) the normal schedule of work, (b) anticipated peak workloads based on past experience, (c) emergency requirements for staff and services, and (d) the availability of qualified substitute staff.
+
+(2) The use of compensatory time in lieu of cash payment for overtime must be pursuant to some form of agreement or understanding between the employer and the employee (or the representative of the employee) reached prior to the performance of the work. (See § 553.23.) To the extent that the (conditions under which an employee can take compensatory time off are contained in an agreement or understanding as defined in § 553.23, the terms of such agreement or understanding will govern the meaning of “reasonable period”.
+
+(d) *Unduly disrupt.* When an employer receives a request for compensatory time off, it shall be honored unless to do so would be “unduly disruptive” to the agency's operations. Mere inconvenience to the employer is an insufficient basis for denial of a request for compensatory time off. (See H. Rep. 99-331, p. 23.) For an agency to turn down a request from an employee for compensatory time off requires that it should reasonably and in good faith anticipate that it would impose an unreasonable burden on the agency's ability to provide services of acceptable quality and quantity for the public during the time requested without the use of the employee's services.
+
+[52 FR 2032, Jan. 16, 1987; 52 FR 2648, Jan. 23, 1987]

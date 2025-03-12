@@ -74,7 +74,7 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 
 *Brush-sweep trawl gear* means trawl gear consisting of alternating roller discs and bristle brushes that are strung along cables, chains, or footropes, and aligned together to form the sweep of the trawl net, designed to allow the trawl sweep to maintain contact with the ocean floor, or any modification to trawl gear that is substantially similar in design or effect.
 
-*Bushel* (bu) means a standard unit of volumetric measurement deemed to hold 1.88 ft3 (53.24 L) of surfclams or ocean quahogs in shell, or 1.24 ft3 (35.24 L) of in-shell Atlantic sea scallops.
+*Bushel* (bu) means a standard unit of volumetric measurement deemed to hold 1.88 ft3 (53.24 L) of surfclams or ocean quahogs in shell.
 
 *Cage* means a container with a standard unit of volumetric measurement containing 60 ft3 (1,700 L). The outside dimensions of a standard cage generally are 3 ft (91 cm) wide, 4 ft (122 cm) long, and 5 ft (152 cm) high.
 

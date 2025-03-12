@@ -66,11 +66,11 @@
 
 (3) To be responsible for sharing losses with the Medicare program, an ACO's average per capita Medicare expenditures for the performance year must be above its updated benchmark costs for the year by at least the MLR established for the ACO.
 
-(c) *Qualification for shared savings payment* - (1) *For performance years (or a performance period) beginning on or before January 1, 2020.* To qualify for shared savings, an ACO must meet the minimum savings rate requirement established under paragraph (b) of this section, meet the minimum quality performance standards established under § 425.502, and otherwise maintain its eligibility to participate in the Shared Savings Program under this part.
+(c) *Qualification for shared savings payment*—(1) *For performance years (or a performance period) beginning on or before January 1, 2020.* To qualify for shared savings, an ACO must meet the minimum savings rate requirement established under paragraph (b) of this section, meet the minimum quality performance standards established under § 425.502, and otherwise maintain its eligibility to participate in the Shared Savings Program under this part.
 
 (2) *For performance years beginning on or after January 1, 2021.* To qualify for shared savings, an ACO must meet the minimum savings rate requirement established under paragraph (b) of this section, meet the quality performance standard established under § 425.512, and otherwise maintain its eligibility to participate in the Shared Savings Program under this part.
 
-(d) *Final sharing rate* - (1) *For performance years (or a performance period) beginning on or before January 1, 2020.* An ACO that meets all the requirements for receiving shared savings payments under the ENHANCED track will receive a shared savings payment of up to 75 percent of all the savings under the updated benchmark, as determined on the basis of its quality performance under § 425.502 (up to the performance payment limit described in paragraph (e)(2) of this section).
+(d) *Final sharing rate*—(1) *For performance years (or a performance period) beginning on or before January 1, 2020.* An ACO that meets all the requirements for receiving shared savings payments under the ENHANCED track will receive a shared savings payment of up to 75 percent of all the savings under the updated benchmark, as determined on the basis of its quality performance under § 425.502 (up to the performance payment limit described in paragraph (e)(2) of this section).
 
 (2) *For performance years beginning on January 1, 2021, or January 1, 2022.* An ACO that meets all the requirements for receiving shared savings payments under the ENHANCED track will receive a shared savings payment of 75 percent of all the savings under the updated benchmark (up to the performance payment limit described in paragraph (e)(2) of this section).
 
@@ -90,13 +90,11 @@
 
 (2) The amount of shared savings an eligible ACO receives under the ENHANCED track may not exceed 20 percent of its updated benchmark.
 
-(f) *Shared loss rate* - (1) *For performance years (or a performance period) beginning on or before January 1, 2020.* For an ACO that is required to share losses with the Medicare program for expenditures over the updated benchmark, the amount of shared losses is determined based on the inverse of its final sharing rate described in paragraph (d)(1) of this section (that is, 1 minus the final shared savings rate determined under paragraph (d)(1) of this section). The shared loss rate -
+(f) *Shared loss rate*—(1) *For performance years (or a performance period) beginning on or before January 1, 2020.* For an ACO that is required to share losses with the Medicare program for expenditures over the updated benchmark, the amount of shared losses is determined based on the inverse of its final sharing rate described in paragraph (d)(1) of this section (that is, 1 minus the final shared savings rate determined under paragraph (d)(1) of this section). The shared loss rate—
 
 (i) May not exceed 75 percent; and
 
 (ii) May not be less than 40 percent.
-
-(2)
 
 (2) *For performance years beginning on January 1, 2021, or January 1, 2022.* For an ACO that is required to share losses with the Medicare program for expenditures over the updated benchmark, the amount of shared losses is determined as follows:
 
@@ -106,7 +104,7 @@
 
 (B) Calculate the product of the quotient determined in paragraph (f)(2)(i)(A) of this section, and 75 percent.
 
-(C) Calculate the shared loss rate as 1 minus the product determined in paragraph (f)(2)(i)(B) of this section. The shared loss rate -
+(C) Calculate the shared loss rate as 1 minus the product determined in paragraph (f)(2)(i)(B) of this section. The shared loss rate—
 
 (*1*) May not exceed 75 percent; and
 
@@ -120,7 +118,7 @@
 
 (A) Calculate the product of 75 percent and the ACO's health equity adjusted quality performance score calculated according to § 425.512(b).
 
-(B) Calculate the shared loss rate as 1 minus the product determined in paragraph (f)(3)(i)(A) of this section. The shared loss rate -
+(B) Calculate the shared loss rate as 1 minus the product determined in paragraph (f)(3)(i)(A) of this section. The shared loss rate—
 
 (*1*) May not exceed 75 percent; and
 
@@ -134,7 +132,7 @@
 
 (A) Calculate the product of 75 percent and the ACO's health equity adjusted quality performance score calculated according to § 425.512(b).
 
-(B) Calculate the shared loss rate as 1 minus the product determined in paragraph (f)(4)(i)(A) of this section. The shared loss rate -
+(B) Calculate the shared loss rate as 1 minus the product determined in paragraph (f)(4)(i)(A) of this section. The shared loss rate—
 
 (*1*) May not exceed 75 percent; and
 
@@ -160,7 +158,7 @@
 
 (ii) [Reserved]
 
-(3) CMS applies determinations made under the Quality Payment Program with respect to -
+(3) CMS applies determinations made under the Quality Payment Program with respect to—
 
 (i) Whether an extreme and uncontrollable circumstance has occurred; and
 

@@ -1,0 +1,3 @@
+##### § 1002.212 State agency notifications. #####
+
+When the State agency initiates an exclusion under § 1002.210, it must provide to the individual or entity subject to the exclusion notification consistent with that required in subpart E of part 1001 of this chapter, and must notify other State agencies, the State medical licensing board (where applicable), the public, beneficiaries, and others as provided in §§ 1001.2005 and 1001.2006 of this chapter.

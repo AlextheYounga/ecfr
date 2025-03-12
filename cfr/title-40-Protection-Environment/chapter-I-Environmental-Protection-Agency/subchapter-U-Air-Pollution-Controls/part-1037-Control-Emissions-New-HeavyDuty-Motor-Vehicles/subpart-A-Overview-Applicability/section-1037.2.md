@@ -1,0 +1,3 @@
+##### § 1037.2 Who is responsible for compliance? #####
+
+The regulations in this part 1037 contain provisions that affect both vehicle manufacturers and others. However, the requirements of this part are generally addressed to the vehicle manufacturer(s). The term “you” generally means the vehicle manufacturer(s), especially for issues related to certification. See § 1037.801 for the definition of “manufacturer” and § 1037.620 for provisions related to compliance when there are multiple entities meeting the definition of “manufacturer.” Additional requirements and prohibitions apply to other persons as specified in subpart G of this part and 40 CFR part 1068.

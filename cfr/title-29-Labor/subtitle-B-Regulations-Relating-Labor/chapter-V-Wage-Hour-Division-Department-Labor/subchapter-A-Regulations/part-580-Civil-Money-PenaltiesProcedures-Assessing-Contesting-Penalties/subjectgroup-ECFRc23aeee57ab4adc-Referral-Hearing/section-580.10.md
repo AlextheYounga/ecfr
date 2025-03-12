@@ -1,0 +1,5 @@
+##### § 580.10 Referral to Administrative Law Judge. #####
+
+(a) Upon receipt of a timely exception to a determination of penalties and request for a hearing filed pursuant to and in accordance with § 580.6 of this subpart, the Administrator, by the Associate Solicitor for the Division of Fair Labor Standards or by the Regional Solicitor for the Region in which the action arose, shall, by Order of Reference, refer the matter to the Chief Administrative Law Judge, for a determination in an administrative proceeding as provided herein. A copy of the notice of administrative determination and of the request for hearing shall be attached to the Order of Reference and shall, respectively, be given the effect of a complaint and answer thereto for purposes of the administrative proceeding, subject to any amendment that may be permitted under this subpart and 29 CFR part 18.
+
+(b) A copy of the Order of Reference and attachments thereto, together with a copy of this part, shall be served by counsel for the Administrator upon the person requesting the hearing, in the manner provided in § 580.8 of this subpart.

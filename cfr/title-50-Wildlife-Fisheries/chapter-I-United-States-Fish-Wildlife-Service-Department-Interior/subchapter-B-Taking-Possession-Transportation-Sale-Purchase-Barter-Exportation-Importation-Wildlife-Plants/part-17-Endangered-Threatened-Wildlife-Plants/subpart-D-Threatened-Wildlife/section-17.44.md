@@ -1,7 +1,5 @@
 ##### § 17.44 Special rules—fishes. #####
 
-Link to an amendment published at 88 FR 13065, Mar. 2, 2023.
-
 (a) Lahontan cutthroat trout, Paiute cutthroat trout, and Arizona trout (*Salmo clarki henshawi, Salmo clarki seleniris,* and *Salmo apache*). (1) All the provisions of § 17.31 apply to these species, except that they may be taken in accordance with applicable State law.
 
 (2) Violation of State law will also be a violation of the Act.
@@ -669,5 +667,39 @@ A listing of all countries that have not designated either a Management Authorit
 (H) Maintain shade over the waterway similar to that observed prior to the forestry-related activity.
 
 (I) Prohibit discharge of any solid waste, petroleum, pesticide, fertilizer, or other chemical into the waterway.
+
+(ff) Upper Coosa River DPS of the frecklebelly madtom (*Noturus munitus*).
+
+(1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to the Upper Coosa River DPS. Except as provided under paragraph (ff)(2) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this DPS:
+
+(i) Import or export, as set forth at § 17.21(b) for endangered wildlife.
+
+(ii) Take, as set forth at § 17.21(c)(1) for endangered wildlife.
+
+(iii) Possession and other acts with unlawfully taken specimens, as set forth at § 17.21(d)(1) for endangered wildlife.
+
+(iv) Interstate or foreign commerce in the course of a commercial activity, as set forth at § 17.21(e) for endangered wildlife.
+
+(v) Sale or offer for sale, as set forth at § 17.21(f) for endangered wildlife.
+
+(2) *Exception*s *from prohibitions.* In regard to this DPS, you may:
+
+(i) Conduct activities as authorized by a permit under § 17.32.
+
+(ii) Take, as set forth at § 17.21(c)(2) through (c)(4) for endangered wildlife.
+
+(iii) Take, as set forth at § 17.31(b).
+
+(iv) Take incidental to an otherwise lawful activity caused by:
+
+(A) Channel restoration projects that create natural, physically stable, ecologically functioning streams. These projects can be accomplished using a variety of methods, but the desired outcome is a natural channel with geomorphically stable stream channels that maintain the appropriate lateral dimensions, longitudinal profiles, and sinuosity patterns over time without an aggrading or degrading bed elevation and include stable riffle-run-pool complexes that consist of silt-free gravel, coarse sand, cobble, boulders, woody structure, and river weed (*Podostemum* spp.).
+
+(B) Streambank stabilization projects that use bioengineering methods to replace pre-existing, bare, eroding stream banks with natively vegetated, stable stream banks, thereby reducing bank erosion and instream sedimentation and improving habitat conditions for the DPS. Stream banks may be stabilized using native live stakes (live, vegetative cuttings inserted or tamped into the ground in a manner that allows the stake to take root and grow), native live fascines (live branch cuttings, usually willows, bound together into long, cigar-shaped bundles), or native brush layering (cuttings or branches of easily rooted tree species layered between successive lifts of soil fill). Stream banks must not be stabilized solely through the use of quarried rock (rip-rap) or the use of rock baskets or gabion structures.
+
+(C) Projects carried out in the DPS's range under the Working Lands for Wildlife program of the Natural Resources Conservation Service, U.S. Department of Agriculture, or similar projects conducted by the U.S. Fish and Wildlife Service's Partners for Fish and Wildlife Program or the Environmental Protection Agency's 319 Grant Program, that are implemented with a primary objective of improving environmental conditions to support the native, aquatic biodiversity of flowing water habitats.
+
+(D) Silviculture practices and forest management activities that implement State-approved best management practices to protect water and sediment quality and stream and riparian habitat.
+
+(v) Possess and engage in other acts with unlawfully taken wildlife, as set forth at § 17.21(d)(2) for endangered wildlife.
 
 [40 FR 44415, Sept. 26, 1975]Editorial Note:For Federal Register citations affecting § 17.44, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

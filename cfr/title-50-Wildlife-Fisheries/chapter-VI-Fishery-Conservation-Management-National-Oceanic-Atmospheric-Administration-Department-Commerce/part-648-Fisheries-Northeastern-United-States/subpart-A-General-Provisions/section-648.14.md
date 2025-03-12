@@ -160,15 +160,15 @@
 
 (i) *Atlantic sea scallops*—(1) *All persons.* It is unlawful for any person to do any of the following:
 
-(i) *Permit requirement.* Fish for, possess, or land, scallops without the vessel having been issued and carrying onboard a valid scallop permit in accordance with § 648.4(a)(2), unless the scallops were harvested by a vessel that has not been issued a Federal scallop permit and fishes for scallops exclusively in state waters.
+(i) *Permit requirement.* Fish for, possess, or land scallops without the vessel having been issued and carrying onboard a valid Federal scallop permit in accordance with § 648.4(a)(2), unless the scallops were harvested by a vessel that has not been issued a Federal scallop permit and fishes for scallops exclusively in state waters.
 
-(ii) *Gear and crew requirements.* Have a shucking or sorting machine on board a vessel while in possession of more than 600 lb (272.2 kg) of shucked scallops, unless that vessel has not been issued a scallop permit and fishes exclusively in state waters.
+(ii) *Gear and crew requirements.* Have a shucking or sorting machine on board a vessel while in possession of more than 600 lb (272.2 kg) of shucked scallops, unless that vessel has not been issued a Federal scallop permit and fishes exclusively in state waters.
 
 (iii) *Possession and landing.* Fish for, land, or possess on board a vessel per trip, or possess at any time prior to a transfer to another person for a commercial purpose, other than solely for transport on land in excess of any of the possession and/or landing limits described in §§ 648.52 and 648.59.
 
-(iv) *Transfer and purchase.* (A) Land, offload, remove, or otherwise transfer; or attempt to land, offload, remove or otherwise transfer; scallops from one vessel to another, unless that vessel has not been issued a scallop permit and fishes exclusively in state waters.
+(iv) *Transfer and purchase.* (A) Land, offload, remove, or otherwise transfer; or attempt to land, offload, remove or otherwise transfer; scallops from one vessel to another, unless that vessel has not been issued a Federal scallop permit and fishes exclusively in state waters.
 
-(B) Sell, barter, or trade, or otherwise transfer scallops from a vessel; or attempt to sell, barter or trade, or otherwise transfer scallops from a vessel; for a commercial purpose, unless the vessel has been issued a valid scallop permit pursuant to § 648.4(a)(2), or the scallops were harvested by a vessel that has not been issued a scallop permit and fishes for scallops exclusively in state waters.
+(B) Sell, barter, or trade, or otherwise transfer scallops from a vessel; or attempt to sell, barter or trade, or otherwise transfer scallops from a vessel; for a commercial purpose, unless the vessel has been issued a valid Federal scallop permit pursuant to § 648.4(a)(2), or the scallops were harvested by a vessel that has not been issued a Federal scallop permit and fishes for scallops exclusively in state waters.
 
 (C) Purchase, possess, or receive for commercial purposes; or attempt to purchase or receive for commercial purposes; scallops from a vessel other than one issued a valid limited access or LAGC scallop permit, unless the scallops were harvested by a vessel that has not been issued a Federal scallop permit and fishes for scallops exclusively in state waters.
 
@@ -178,7 +178,7 @@
 
 (vi) *Closed area requirements*—(A) *Habitat Management Areas.* (*1*) Fish for scallops in, or possess or land scallops from, the Habitat Management Areas specified in § 648.370.
 
-(*2*) Transit or enter the Habitat Management Areas specified in § 648.370, except as provided by § 648.61(b).
+(*2*) Transit or enter the Habitat Management Areas specified in § 648.370, except as provided by § 648.370(i).
 
 (B) *Scallop Rotational Areas.* (*1*) Fish for scallops in, or possess or land scallops from, the Scallop Rotational Areas closed to the scallop fishery through the specifications or framework adjustment processes specified in § 648.55.
 
@@ -202,9 +202,9 @@
 
 (i) *Minimum shell height.* Land, or possess at or after landing, in-shell scallops smaller than the minimum shell height specified in § 648.50(a).
 
-(ii) *Vessel, gear, and crew restrictions.* (A) Possess more than 40 lb (18.1 kg) of shucked, or 5 bu (1.76 hL) of in-shell scallops, or participate in the scallop DAS or Area Access programs, while in the possession of trawl nets that have a maximum sweep exceeding 144 ft (43.9 m), as measured by the total length of the footrope that is directly attached to the webbing of the net, except as specified in § 648.51(a)(1), unless the vessel is fishing under the Northeast multispecies or monkfish DAS program.
+(ii) *Vessel, gear, and crew restrictions.* (A) Possess more than 40 lb (18.1 kg) of shucked, or 333 lb (151 kg) of in-shell scallops, or participate in the scallop DAS or Area Access programs, while in the possession of trawl nets that have a maximum sweep exceeding 144 ft (43.9 m), as measured by the total length of the footrope that is directly attached to the webbing of the net, except as specified in § 648.51(a)(1), unless the vessel is fishing under the Northeast multispecies or monkfish DAS program.
 
-(B) While under or subject to the DAS allocation program, in possession of more than 40 lb (18.1 kg) of shucked scallops or 5 bu (1.76 hL) of in-shell scallops, or fishing for scallops in the EEZ:
+(B) While under or subject to the DAS allocation program, in possession of more than 40 lb (18.1 kg) of shucked scallops or 333 lb (151 kg) of in-shell scallops, or fishing for scallops in the EEZ:
 
 (*1*) Fish with, or have available for immediate use, trawl nets of mesh smaller than the minimum size specified in § 648.51(a)(2).
 
@@ -228,7 +228,7 @@
 
 (iii) *Possession and landing.* (A) Land scallops after using up the vessel's annual DAS allocation or land scallops on more than one trip per calendar day when not participating under the DAS allocation program pursuant to § 648.10, unless exempted from DAS allocations as provided in the state waters exemption, specified in § 648.54.
 
-(B) Fish for, possess, or land more than 50 bu (17.62 hL) of in-shell scallops inside the VMS Demarcation Line on or by a vessel, except as provided in the state waters exemption, as specified in § 648.54.
+(B) Fish for, possess, or land more than 3,332 lb (1,511 kg) of in-shell scallops inside the VMS Demarcation Line on or by a vessel, except as provided in the state waters exemption, as specified in § 648.54.
 
 (C) Fish for, possess, or land per trip, at any time, scallops in excess of any sea scallop possession and landing limit set by the Regional Administrator in accordance with § 648.59(b)(3) when properly declared into the Sea Scallop Area Access Program as described in § 648.59.
 
@@ -258,11 +258,11 @@
 
 (vi) *Scallop Rotational Area Management Program and Scallop Access Area Program requirements.* (A) Fail to comply with any of the provisions and specifications of § 648.59.
 
-(B) Transit the Closed Area II Scallop Rotational Area or the Closed Area II-East Scallop Rotational Area, as defined in § 648.60(d), unless there is a compelling safety reason for transiting the area and the vessel's fishing gear is stowed and not available for immediate use as defined in § 648.2.
+(B) Transit the Area II Scallop Rotational Area or the New York Bight Scallop Rotational Area, as defined in § 648.60(b) and (j), unless there is a compelling safety reason for transiting the area and the vessel's fishing gear is stowed and not available for immediate use as defined in § 648.2.
 
 (C) Fish for, possess, or land scallops in or from a Scallop Access Area in excess of the vessel's remaining specific allocation for that area as specified in § 648.59(b)(3) or the amount permitted to be landed from that area.
 
-(D) Possess more than 50 bu (17.6 hL) of in-shell scallops outside the boundaries of a Scallop Access Area by a vessel that is declared into the Scallop Access Area Program as specified in § 648.59.
+(D) Possess more than 3,332 lb (1,511 kg) of in-shell scallops outside the boundaries of a Scallop Access Area by a vessel that is declared into the Scallop Access Area Program as specified in § 648.59.
 
 (E) Fish for, possess, or land scallops in or from any Scallop Access Area without an observer on board, unless the vessel owner, operator, or manager has received a waiver to carry an observer for the specified trip and area fished.
 
@@ -306,7 +306,7 @@
 
 (D) Fish for, possess, or land scallops in or from any Scallop Access Area without an observer on board, unless the vessel owner, operator, or manager has received a waiver to carry an observer for the specified trip and area fished.
 
-(E) Transit the Closed Area II Scallop Rotational Area or Closed Area II-East Scallop Rotational Area, as defined in § 648.60(d), unless there is a compelling safety reason for transiting the area and the vessel's fishing gear is stowed and not available for immediate use as defined in § 648.2.
+(E) Transit the Area II Scallop Rotational Area or New York Bight Scallop Rotational Area, as defined in § 648.60(b) and (j), unless there is a compelling safety reason for transiting the area and the vessel's fishing gear is stowed and not available for immediate use as defined in § 648.2.
 
 (vi) *Sectors.* Fail to comply with any of the requirements and restrictions for General Category sectors and harvesting cooperatives specified in § 648.63.
 

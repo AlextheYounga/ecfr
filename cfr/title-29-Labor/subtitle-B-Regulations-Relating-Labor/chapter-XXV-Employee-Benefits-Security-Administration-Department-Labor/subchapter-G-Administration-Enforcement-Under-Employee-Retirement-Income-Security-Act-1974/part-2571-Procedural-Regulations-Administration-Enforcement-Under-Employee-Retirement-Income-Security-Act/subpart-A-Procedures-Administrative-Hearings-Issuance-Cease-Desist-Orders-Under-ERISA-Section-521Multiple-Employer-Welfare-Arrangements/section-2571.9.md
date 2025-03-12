@@ -1,0 +1,7 @@
+##### § 2571.9 Decision of the administrative law judge. #####
+
+For section 521 proceedings, this section shall apply in lieu of § 18.57 of this title:
+
+(a) *Proposed findings of fact, conclusions, and order.* Within twenty (20) days of the filing of the transcript of the testimony, or such additional time as the administrative law judge may allow, each party may file with the administrative law judge, subject to the judge's discretion, proposed findings of fact, conclusions of law, and order together with a supporting brief expressing the reasons for such proposals. Such proposals and briefs shall be served on all parties, and shall refer to all portions of the record and to all authorities relied upon in support of each proposal.
+
+(b) *Decision of the administrative law judge.* The administrative law judge shall make his or her decision expeditiously after the conclusion of the section 521 proceeding. The decision of the administrative law judge shall include findings of fact and conclusions of law with reasons therefore upon each material issue of fact or law presented on the record. The decision of the administrative law judge shall be based upon the whole record and shall be supported by reliable and probative evidence. The decision of the administrative law judge shall become final agency action within the meaning of 5 U.S.C. 704 unless an appeal is made pursuant to the procedures set forth in §§ 2571.10 through 2571.12.

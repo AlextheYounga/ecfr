@@ -1,0 +1,3 @@
+##### § 1626.4 Information concerning alleged violations of the Act. #####
+
+The Commission may, on its own initiative, conduct investigations of employers, employment agencies and labor organizations, in accordance with the powers vested in it pursuant to sections 6 and 7 of the Act. The Commission shall also receive information concerning alleged violations of the Act, including charges and complaints, from any source. Where the information discloses a possible violation, the appropriate Commission office may render assistance in the filing of a charge. The identity of a complainant, confidential witness, or aggrieved person on whose behalf a charge was filed will ordinarily not be disclosed without prior written consent, unless necessary in a court proceeding.
