@@ -42,9 +42,11 @@
 
 (15) Non-adult dairy cattle,
 
-(16) Reindeer, and
+(16) Ostriches,
 
-(17) Sheep.
+(17) Reindeer, and
+
+(18) Sheep.
 
 (c) Ineligible livestock for grazing and feed losses and losses resulting from transporting water, feed, and livestock include, but are not limited to:
 
@@ -54,29 +56,21 @@
 
 (3) Yaks;
 
-(4) Ostriches;
+(4) Poultry;
 
-(5) Poultry;
+(5) Swine;
 
-(6) Swine;
+(6) All unweaned beef and dairy cattle, and buffalo or bison and beefalo that weighed less than 500 pounds on the beginning date of the eligible adverse weather or eligible loss condition; and
 
-(7) All unweaned beef and dairy cattle, and buffalo or bison and beefalo that weighed less than 500 pounds on the beginning date of the eligible adverse weather or eligible loss condition;
+(7) Livestock that are not produced for commercial use or those that are not produced or maintained in a commercial operation for livestock products, such as milk from dairy, including, but not limited to:
 
-(8) Any wild free roaming livestock, including horses and deer; and
+(i) Any wild free roaming livestock;
 
-(9) Livestock that are not produced for commercial use or those that are not produced or maintained in a commercial operation for livestock products, such as milk from dairy, including, but not limited to, livestock produced or maintained exclusively for recreational purposes, such as:
+(ii) Horses and other animals used or intended to be used for racing or wagering;
 
-(i) Roping,
+(iii) Animals produced or maintained for hunting; and
 
-(ii) Hunting,
-
-(iii) Show,
-
-(iv) Pleasure,
-
-(v) Use as pets, or
-
-(vi) Consumption by owner.
+(iv) Animals produced or maintained for consumption by owner.
 
 (d) Under ELAP, “contract growers” only includes producers of livestock, other than feedlots, whose income is dependent on any of the following: Actual weight gain of the livestock, number of offspring produced from the livestock, or quantity of products (eggs, milk, etc.) produced from the livestock.
 
@@ -108,4 +102,4 @@
 
 (iii) Been physically located in the county where the eligible loss adverse weather or eligible loss condition occurred on the beginning date of the eligible adverse weather or eligible loss condition.
 
-79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49465, Oct. 2, 2018;85 FR 10964, Feb. 26, 2020; 87 FR 19785, Apr. 6, 2022]
+79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49465, Oct. 2, 2018;85 FR 10964, Feb. 26, 2020; 87 FR 19785, Apr. 6, 2022; 88 FR 1891, Jan. 11, 2023]

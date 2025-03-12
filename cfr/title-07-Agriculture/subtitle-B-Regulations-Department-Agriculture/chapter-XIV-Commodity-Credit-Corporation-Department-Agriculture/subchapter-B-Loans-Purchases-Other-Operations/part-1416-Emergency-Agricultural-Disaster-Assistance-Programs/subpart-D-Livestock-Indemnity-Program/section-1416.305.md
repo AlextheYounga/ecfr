@@ -46,7 +46,7 @@
 
 (f) For losses resulting from an eligible adverse weather event or eligible disease, if adequate verifiable proof of death or injury documentation is not available, the participant may provide reliable records as proof of death or injury. Reliable records may include contemporaneous producer records, dairy herd improvement records, brand inspection records, vaccination records, dated pictures, and other similar reliable documents as determined by FSA.
 
-(g) For livestock death losses due to disease, a licensed veterinarian's certification of livestock deaths may be accepted as proof of death, if reliable beginning inventory data is available, only if the veterinarian provides a written statement containing all of the following:
+(g) For livestock death losses due to disease, a licensed veterinarian's certification of livestock deaths may be accepted as proof of death, if the livestock are not owned by the licensed veterinarian and reliable beginning inventory data is available, only if the veterinarian provides a written statement containing all of the following:
 
 (1) Veterinarian's personal observation of the animals and knowledge of how the deaths of the livestock were because of disease caused or exacerbated by an eligible adverse weather event;
 
@@ -80,9 +80,9 @@
 
 (v) Data furnished by the participant and the third party will be used to determine eligibility for program benefits. Furnishing the data is voluntary; however, without all required data program benefits will not be approved or provided.
 
-(i) Calf and lamb open range livestock operations may provide proof of death by using the livestock beginning inventory history for reporting losses.
+(i) Unweaned livestock operations may provide proof of death by using the LBIH.
 
-(1) For 2017 and subsequent calendar years, livestock inventory reports by livestock unit must be provided to the local county FSA office by the later of December 3, 2018 or 60 calendar days after the end of the calendar year of the eligible adverse weather event. The STC may approve a waiver of the reporting deadline if a participant has not previously received benefits under this method.
+(1) Livestock inventory reports by livestock unit must be provided to the FSA local county office by 60 calendar days after the end of the calendar year of the eligible adverse weather event. The STC may approve a waiver of the reporting deadline if a participant has not previously received benefits under this method.
 
 (i) Livestock inventory reports must provide an accurate account of livestock beginning inventory for the livestock type or kind and must be supported by written records such as but not limited to: Docking records, sales receipts, shearing records, shipping records, bank records, veterinarian records, IRS records, or other records approved by COC. For purposes of determining beginning livestock inventory, livestock inventory reports may require adjustment by COC, not to exceed normal mortality, for when loss occurs at different points during the growing season (for example, inventories from docking may need little to no adjustment, but sales records at the end of the growing season may require an adjustment to account for a full years of normal mortality).
 
@@ -112,4 +112,4 @@
 
 (j) When an eligible owner claims eligible livestock were injured by an eligible loss condition and were sold for a reduced price, the owner must provide verifiable evidence of the gross sale price of the livestock. The injured livestock must be sold through an independent third party (sale barn, slaughter facility, or rendering facility). Only verifiable proof of sale with price is acceptable. The gross sale price of the livestock is the amount received for the injured livestock before any reductions, such as sale yard fees. The owner must provide verifiable evidence of livestock sold at a reduced price. Documents that may satisfy this requirement include but are not limited to, any or a combination of the following: Sales receipt from a livestock auction, sale barn, or other similar livestock sales facility; bona-fide commercial sales receipts; private insurance documents; and processing plant receipts.
 
-[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49470, Oct. 2, 2018; 85 FR 10967, Feb. 26, 2020]Editorial Note:At 85 FR 10967, Feb. 26, 2020, § 1416.305 was amended, however the material could not be incorporated for (i) introductory text and (i)(1) introductory text because the text did not publish in the Federal Register
+[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49470, Oct. 2, 2018; 85 FR 10967, Feb. 26, 2020; 88 FR 1891, Jan. 11, 2023]

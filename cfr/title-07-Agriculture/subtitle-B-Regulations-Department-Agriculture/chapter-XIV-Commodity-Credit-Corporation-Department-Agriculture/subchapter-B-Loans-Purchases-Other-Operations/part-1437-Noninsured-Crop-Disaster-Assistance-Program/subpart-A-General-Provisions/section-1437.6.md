@@ -2,11 +2,9 @@
 
 (a) *Coverage period.* The coverage period is the time during which coverage is available against prevented planting, a loss of production, or loss of value, as applicable, of the eligible crop as a result of an eligible cause of loss specified in § 1437.10. Except as provided in paragraph (h) of this section, coverage periods start no earlier than 1 calendar day after date of filing of a valid application for coverage as specified in § 1437.7.
 
-(1) Relief provisions cannot be used to change or modify the date an application is filed.
+(1) If an application for coverage is filed within 30 calendar days of the end of a coverage period, the application for coverage is invalid and will not be processed by FSA. In the event the application for coverage is invalid as discussed in this paragraph, service fees will not be refunded.
 
-(2) If an application for coverage is filed within 30 calendar days of the end of a coverage period, the application for coverage is invalid and will not be processed by FSA. In the event the application for coverage is invalid as discussed in this paragraph, service fees will not be refunded.
-
-(3) Except as provided in paragraph (h) of this section, coverage is never retroactive.
+(2) Except as provided in paragraph (h) of this section, coverage is never retroactive.
 
 (b) *Annual crops.* Except as provided in paragraph (h) of this section, the coverage period for annual crops, including annual forage crops,
 
@@ -38,4 +36,4 @@
 
 (h) *2019 and 2020 crop years.* For the 2019 and 2020 crop years only, if a crop's application closing date is before April 8, 2019, the coverage period of the crop will be as specified in paragraphs (a) through (g) of this section except that the date coverage begins will be retroactive as long as the application for coverage is filed by the application closing date as specified in § 1437.7(i). This limited retroactive coverage for the 2019 and 2020 crop years only will begin 1 calendar day after the established application closing date, which would be the same as if they had filed by the deadlines as specified in paragraphs (a) through (g) of this section.
 
-[79 FR 74574, Dec. 15, 2014, as amended at 85 FR 12219, Mar. 2, 2020]
+[79 FR 74574, Dec. 15, 2014, as amended at 85 FR 12219, Mar. 2, 2020; 88 FR 1891, Jan. 11, 2023]

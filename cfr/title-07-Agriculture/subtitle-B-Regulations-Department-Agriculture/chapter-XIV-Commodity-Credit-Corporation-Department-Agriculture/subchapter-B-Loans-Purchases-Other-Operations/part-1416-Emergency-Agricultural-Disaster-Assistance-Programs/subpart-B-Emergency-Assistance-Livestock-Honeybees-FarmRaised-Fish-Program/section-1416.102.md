@@ -50,7 +50,7 @@ The following definitions apply to this subpart and to the administration of ELA
 
 *Eligible grazing land* means land that is native or improved pastureland with permanent vegetative cover or land planted to a crop planted specifically for the purpose of providing grazing for eligible livestock.
 
-*Eligible loss condition* means a condition that would have resulted in agricultural losses not covered by other programs in this part for which the Deputy Administrator determines financial assistance needs to be provided to producers. Specific eligible loss conditions include, but are not limited to, disease (including cattle tick fever), insect infestation, and colony collapse disorder. Identification of eligible loss conditions will include locations (National, State, or county-level) and start and end dates.
+*Eligible loss condition* means a condition that would have resulted in agricultural losses not covered by other programs in this part for which the Deputy Administrator determines financial assistance needs to be provided to producers. Specific eligible loss conditions include, but are not limited to, disease (including cattle tick fever), insect infestation, and colony collapse disorder. Identification of eligible loss conditions will include locations (National, State, or county-level) and start and end dates. All other causes of losses are not covered, including, but not limited to, negligence, mismanagement, or wrongdoing by the producer.
 
 *Eligible winter storm* means an event that is so severe as to directly cause loss and lasts in duration for at least 3 consecutive days and includes a combination of high winds, freezing rain or sleet, heavy snowfall, and extremely cold temperatures. The wind, precipitation, and extremely cold temperatures must occur during the consecutive 3-day period, with wind and extremely cold temperatures occurring in each of the 3 days.
 
@@ -109,4 +109,4 @@ Unweaned livestock are not grazing animals regardless of whether those unweaned 
 
 *Verifiable record* means a document provided by the producer that can be verified by the County Committee (COC) through an independent source.
 
-[79 FR 21097, Apr. 14, 2014, as amended at 79 FR 57721, Sept. 26, 2014; 79 FR 74571, Dec. 15, 2014; 83 FR 49464, Oct. 2, 2018; 85 FR 10963, Feb. 26, 2020; 87 FR 19785, Apr. 6, 2022]
+[79 FR 21097, Apr. 14, 2014, as amended at 79 FR 57721, Sept. 26, 2014; 79 FR 74571, Dec. 15, 2014; 83 FR 49464, Oct. 2, 2018; 85 FR 10963, Feb. 26, 2020; 87 FR 19785, Apr. 6, 2022; 88 FR 1891, Jan. 11, 2023]

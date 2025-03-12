@@ -14,9 +14,17 @@
 
 (2) Been injured and sold at a reduced price as a direct result of an eligible adverse weather event or eligible attack no later than 30 calendar days for livestock, or 7 calendar days for newborn livestock, from the ending date of the eligible adverse weather event or eligible attack.
 
-(3) Been produced or maintained for commercial use for livestock for the production of livestock products such as milk or eggs as part of a farming operation on the day they died or until the event that resulted in their sale at a reduced price; and
+(3) Been produced or maintained for commercial use for livestock for sale or the production of livestock products such as milk or eggs as part of a farming operation on the day they died or until the event that resulted in their sale at a reduced price; and
 
-(4) Not be produced or maintained for reasons other than commercial use for livestock sale or for the production of livestock products such as milk or eggs. Livestock excluded from being eligible include, but are not limited to, wild free roaming animals and animals produced or maintained for consumption by the owner or contract grower, livestock used for recreational purposes, livestock used for pleasure, hunting, roping, pets, or for show.
+(4) Not be produced or maintained for reasons other than commercial use for livestock sale or for the production of livestock products such as milk or eggs. Livestock excluded from being eligible include, but are not limited to:
+
+(i) Wild free roaming animals;
+
+(ii) Horses and other animals used or intended to be used for racing or wagering;
+
+(iii) Animals produced or maintained for hunting; and
+
+(iv) Animals produced or maintained for consumption by owner.
 
 (d) The following categories of animals owned by a livestock owner are eligible livestock and calculations of eligibility for payments will be calculated separately for each producer with respect to each category:
 
@@ -140,4 +148,4 @@
 
 (f) Ineligible livestock for the purpose of generating payments under this subpart include those livestock that died due to disease that is not an eligible disease; eligible livestock suffering injury due to disease or eligible disease which are sold for reduced price; and any eligible livestock that died or were injured by anything other than an eligible loss condition.
 
-[83 FR 49469, Oct. 2, 2018, as amended at 85 FR 10966, Feb. 26, 2020]Editorial Note:At 85 FR 10966, Feb. 26, 2020, § 1416.304 (c)(3) was amended; however the words “sale of” could not be removed because they do not exist in text.
+[83 FR 49469, Oct. 2, 2018, as amended at 85 FR 10966, Feb. 26, 2020; 88 FR 1891, Jan. 11, 2023]

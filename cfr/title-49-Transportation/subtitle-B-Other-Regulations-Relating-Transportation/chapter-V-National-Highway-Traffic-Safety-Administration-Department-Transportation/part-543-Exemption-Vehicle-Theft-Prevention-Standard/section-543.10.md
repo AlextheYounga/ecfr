@@ -48,4 +48,4 @@
 
 (j) NHTSA publishes notice in the Federal Register of any agency decision terminating or modifying an exemption, and notifies the affected manufacturer in writing.
 
-{52 FR 33829, Sept. 8, 1987. Redesignated at 81 FR 66841, Sept. 29, 2016]
+[52 FR 33829, Sept. 8, 1987. Redesignated at 81 FR 66841, Sept. 29, 2016]

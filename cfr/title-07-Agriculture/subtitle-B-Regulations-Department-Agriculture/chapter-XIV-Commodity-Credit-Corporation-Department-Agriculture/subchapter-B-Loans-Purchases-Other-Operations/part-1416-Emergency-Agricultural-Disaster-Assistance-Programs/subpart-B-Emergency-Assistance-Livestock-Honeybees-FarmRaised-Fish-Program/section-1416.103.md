@@ -1,6 +1,6 @@
 ##### § 1416.103 Eligible losses, adverse weather, and other loss conditions. #####
 
-(a) An eligible loss covered under this subpart is a loss that an eligible producer, livestock owner, or contract grower of livestock, or eligible producer of honeybees or farm-raised fish incurs due to an eligible adverse weather or eligible loss condition, as determined by the Deputy Administrator.
+(a) An eligible loss covered under this subpart is a loss that an eligible producer, livestock owner, or contract grower of livestock, or eligible producer of honeybees or farm-raised fish incurs due to an eligible adverse weather or eligible loss condition, as determined by the Deputy Administrator. All other causes of loss are not considered an eligible loss condition, including, but not limited to, negligence, mismanagement or wrongdoing by the producer.
 
 (b) A loss covered under LFP or LIP is not eligible for ELAP.
 
@@ -24,7 +24,7 @@
 
 (iii) That the producer is not normally required to transport water to the livestock.
 
-(6) A loss resulting from the additional cost incurred on or after January 1, 2021, to transport, eligible livestock to feed or livestock feed to eligible livestock for additional mileage above normal, due to eligible adverse weather, an eligible loss condition, or eligible drought, as determined by the Deputy Administrator, including costs associated with treating livestock feed to prevent the spread of invasive pests. The cost of the feed is not eligible for payment. Negligence, mismanagement, or wrongdoing by the producer is not considered an eligible loss condition for livestock or feed transportation costs. To be eligible for a loss under this paragraph, the livestock must be livestock that would normally have been on eligible grazing lands physically located in the county where the eligible adverse weather, eligible loss condition, or eligible drought, as determined by the Deputy Administrator, occurred.
+(6) A loss resulting from the additional cost incurred on or after January 1, 2021, to transport eligible livestock to feed or livestock feed to eligible livestock for additional mileage above normal, due to eligible adverse weather, an eligible loss condition, or eligible drought, as determined by the Deputy Administrator, including costs associated with treating livestock feed to prevent the spread of invasive pests. The cost of the feed is not eligible for payment. Negligence, mismanagement, or wrongdoing by the producer is not considered an eligible loss condition for livestock or feed transportation costs. To be eligible for a loss under this paragraph, the livestock must be livestock that would normally have been on eligible grazing lands physically located in the county where the eligible adverse weather, eligible loss condition, or eligible drought, as determined by the Deputy Administrator, occurred.
 
 (e) For a grazing loss to be considered eligible, the grazing loss must have been incurred:
 
@@ -56,4 +56,4 @@
 
 (i) For death losses of bait fish, game fish, or other aquatic species, as determined by the Deputy Administrator, to be considered eligible, the producer must have incurred the fish loss, in excess of normal mortality, in the county where the eligible adverse weather or eligible loss condition occurred. The fish death must be due to an eligible adverse weather or eligible loss condition as determined by the Deputy Administrator including, but not limited to, earthquake, flood, hurricane, tidal surge, tornado, and volcanic eruption.
 
-[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49465, Oct. 2, 2018; 85 FR 10964, Feb. 26, 2020; 87 FR 19785, Apr. 6, 2022]
+[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49465, Oct. 2, 2018; 85 FR 10964, Feb. 26, 2020; 87 FR 19785, Apr. 6, 2022; 88 FR 1891, Jan. 11, 2023]

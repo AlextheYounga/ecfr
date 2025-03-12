@@ -1,8 +1,6 @@
 ##### § 1220.18 What definitions apply to the regulations in Subchapter B? #####
 
-Link to an amendment published at 87 FR 75931, Dec. 12, 2022.
-
-As used in subchapter B -
+As used in subchapter B—
 
 *Adequate and proper documentation* means a record of the conduct of Government business that is complete and accurate to the extent required to document the organization, functions, policies, decisions, procedures, and essential transactions of the agency and that is designed to furnish the information necessary to protect the legal and financial rights of the Government and of persons directly affected by the agency's activities.
 
@@ -21,6 +19,8 @@ As used in subchapter B -
 *Disposition authority* means the legal authorization for the retention and disposal of records. For Federal records it is found on SF 115s, Request for Records Disposition Authority, which have been approved by the Archivist of the United States. For nonrecord materials, the disposition is established by the creating or custodial agency. See also *records schedule.*
 
 *Documentary materials* is a collective term that refers to recorded information, regardless of the medium or the method or circumstances of recording.
+
+*Electronic messages* means electronic mail and other electronic messaging systems that are used for purposes of communicating between individuals. Electronic messages that satisfy the definition of a Federal record under the Federal Records Act are electronic records.
 
 *Electronic record* means any information that is recorded in a form that only a computer can process and that satisfies the definition of a Federal record under the Federal Records Act. The term includes both record content and associated metadata that the agency determines is required to meet agency business needs.
 
@@ -77,3 +77,5 @@ As used in subchapter B -
 (2) Records designated as disposable in a General Records Schedule.
 
 *Unscheduled records* are Federal records whose final disposition has not been approved by NARA on a SF 115, Request for Records Disposition Authority. Such records must be treated as permanent until a final disposition is approved.
+
+[74 FR 51014, Oct. 2, 2009, as amended at 87 FR 75931, Dec. 12, 2022]

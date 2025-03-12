@@ -1,0 +1,35 @@
+##### § 9.307 Adjusted gross income limitation, payment limitation, and attribution. #####
+
+(a) To be eligible to receive a PARP payment and facilitate administration of paragraphs (b) through (f) of this section, a person or legal entity must provide their name, address, valid taxpayer identification number, and ownership share to USDA. In addition, a legal entity must provide the name, address, valid taxpayer identification number, and ownership share of each person or legal entity, that holds or acquires a direct or indirect ownership interest in the legal entity. PARP payments to a legal entity will be reduced in proportion to a member's ownership share when a valid taxpayer identification number for a person or legal entity that holds less than a 10 percent direct or indirect ownership interest, at or above the fourth level of ownership in the business structure, is not provided to USDA. Additionally, a legal entity will not be eligible to receive PARP payments when a valid taxpayer identification number for a person or legal entity that holds a direct or indirect ownership interest of 10 percent or greater, at or above the fourth level of ownership in the business structure, is not provided to USDA.
+
+(b) The $900,000 average adjusted gross income limitation provisions in 7 CFR part 1400 relating to limits on income for persons or legal entities, including members of legal entities, joint ventures, and general partnerships applies to PARP. The average adjusted gross income will be calculated for a person or legal entity based on the 2016, 2017, and 2018 tax years. If the person's or legal entity's average adjusted gross income exceeds $900,000, the applicant is ineligible for PARP except as provided in paragraph (c) of this section.
+
+(c) A person or legal entity that does not meet the average adjusted gross income requirements described in paragraph (b) of this section, may otherwise meet the adjusted gross income requirements, provided the person's or legal entity's 2020 adjusted gross income, as defined under 26 U.S.C. 62 or comparable measure, is not more than $900,000. Except for general partnerships and joint ventures, a PARP applicant that is a person or legal entity, including members holding an ownership interest in the legal entity, is required to:
+
+(1) Certify, on a form that is approved for that purpose by the Deputy Administrator, that their 2020 adjusted gross income or comparable measure is not more than $900,000; and
+
+(2) Submit a certification from a licensed CPA or attorney affirming the person's or legal entity's 2020 adjusted gross income is not more than $900,000.
+
+(d) Members of general partnerships and joint ventures not meeting the income requirements described in paragraph (b) of this section may otherwise meet the income requirements, provided the member's 2020 adjusted gross income, as defined under 26 U.S.C. 62 or comparable measure, is not more than $900,000. The member is required to provide the information described in paragraphs (c)(1) and (2) of this section.
+
+(e) A person or legal entity other than a joint venture or general partnership cannot receive, directly or indirectly, more than $125,000 under PARP. USDA may establish a lower maximum payment amount per person, legal entity, or member of a joint venture or general partnership after the application period has ended if calculated payment amounts exceed available funding. Payments made to a PARP applicant who is a joint operation, including a joint venture or a general partnership, may not exceed the amount determined by multiplying $125,000 (or the reduced maximum payment limitation, if applicable) by the number of persons or legal entities that comprise the first-level membership of the joint operation.
+
+(f) A PARP payment made to a legal entity will be considered in combination with other PARP payments attributed to every person or legal entity with a direct or indirect ownership interest in the legal entity. The maximum limitation described in paragraph (e) of this section for a legal entity is determined based on payments to the legal entity and members who are an individual person or a legal entity. If a member's combined PARP payments reach the maximum payment limitation when summed from all businesses in which the person or legal entity has an ownership interest, then subsequent payments to the legal entity will be reduced by the proportionate ownership interest of the member. A payment to a legal entity will be attributed to those members who have a direct or indirect ownership interest in the legal entity, unless the payment of the legal entity has been reduced by the proportionate ownership interest of the member due to that member's ineligibility. Attribution of payments made to legal entities will be tracked through four levels of ownership in legal entities as follows:
+
+(1) *First level of ownership:* Any payment made to a legal entity that is owned in whole or in part by a person will be attributed to the person in an amount that represents the direct ownership interest in the first-level or payment legal entity;
+
+(2) *Second level of ownership:* Any payment made to a first-level legal entity that is owned in whole or in part by another legal entity (referred to as a second-level legal entity) will be attributed to the second-level legal entity in proportion to the ownership of the second-level legal entity in the first-level legal entity; if the second-level legal entity is owned in whole or in part by a person, the amount of the payment made to the first-level legal entity will be attributed to the person in the amount that represents the indirect ownership in the first-level legal entity by the person;
+
+(3) *Third and fourth levels of ownership:* Except as provided in the second-level ownership in paragraph (f)(2) of this section and in the fourth level of ownership in paragraph (f)(4) of this section, any payments made to a legal entity at the third and fourth levels of ownership will be attributed in the same manner as specified in paragraph (f)(2) of this section; and
+
+(4) *Fourth-level of ownership:* If the fourth level of ownership is that of a legal entity and not that of a person, a reduction in payment will be applied to the first-level or payment legal entity in the amount that represents the indirect ownership in the first level or payment legal entity by the fourth-level legal entity.
+
+(g) Payments made to a PARP applicant that is an Indian Tribe or Tribal organization, as defined in the section 4(b) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304), are not subject to:
+
+(1) AGI requirements described in paragraphs (b) through (d) of this section;
+
+(2) Payment limitation described in paragraph (e) of this section; and
+
+(3) Attribution of payments described in paragraph (f) of this section.
+
+(h) Payments made directly or indirectly to a person who is a minor child will not be combined with the earnings of the minor child's parent or legal guardian.

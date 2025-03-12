@@ -4,4 +4,6 @@
 
 (b) A person, or legal entity, as defined in part 1400 of this title, is limited to a maximum cost-share of $500,000 per person or legal entity, per natural disaster.
 
-[75 FR 70889, Nov. 17, 2010, as amended at 84 FR 32841, July 10, 2019]
+(c) The Secretary may waive the maximum limitations described in paragraphs (a) and (b) of this section to the maximum extent allowed by law.
+
+[75 FR 70889, Nov. 17, 2010, as amended at 84 FR 32841, July 10, 2019; 88 FR 1883, Jan. 11, 2023]

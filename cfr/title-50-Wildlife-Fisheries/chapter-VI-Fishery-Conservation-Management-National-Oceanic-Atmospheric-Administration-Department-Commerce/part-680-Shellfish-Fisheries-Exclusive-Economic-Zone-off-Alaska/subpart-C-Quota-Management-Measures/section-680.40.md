@@ -12,7 +12,7 @@
 
 (iii) For the purposes of determining eligibility for CPO QS, a person is presumed to have processed BSAI crab in 1998 or 1999 if the vessel on which the applicant's LLP license is based processed such crab in those years.
 
-(b) *QS sectors and regional designations* - (1) *General.* The Regional Administrator shall initially assign to qualified persons, crab QS that are specific to the crab QS fisheries defined in paragraph (a)(1) of this section. The crab QS amount issued will be based on legal landings made on vessels authorized to participate in those fisheries in four QS sectors:
+(b) *QS sectors and regional designations*—(1) *General.* The Regional Administrator shall initially assign to qualified persons, crab QS that are specific to the crab QS fisheries defined in paragraph (a)(1) of this section. The crab QS amount issued will be based on legal landings made on vessels authorized to participate in those fisheries in four QS sectors:
 
 (i) *Catcher Vessel Owner (CVO) QS* shall be initially issued to qualified persons defined in paragraph (b)(3) of this section based on legal landings of unprocessed crab.
 
@@ -76,7 +76,7 @@
 
 (*2*) If the individual who is otherwise eligible to receive an initial issuance of QS died while working as part of a harvesting crew in any U.S. commercial fishery.
 
-(4) *Qualification for initial allocation of QS* - (i) *Qualifying year.* The qualifying years for each crab QS fishery are described in Column B of Table 7 to this part.
+(4) *Qualification for initial allocation of QS*—(i) *Qualifying year.* The qualifying years for each crab QS fishery are described in Column B of Table 7 to this part.
 
 (ii) *Legal landing of crab* means, for the purpose of initial allocation of QS, crab harvested during the qualifying years specified in Column B of Table 7 to this part and landed in compliance with state and Federal permitting, landing, and reporting regulations in effect at the time of the landing.
 
@@ -92,7 +92,7 @@
 
 (iii) *Documentation.* Evidence of legal landings shall be limited to State of Alaska fish tickets.
 
-(c) *Calculation of QS allocation* - (1) *General.* (i) For each permanent, fully transferable crab LLP license under which an applicant applies, CVO and CPO QS will be based on legal landings that resulted in the issuance of that license or from legal landings that were made under the authority of that license.
+(c) *Calculation of QS allocation*—(1) *General.* (i) For each permanent, fully transferable crab LLP license under which an applicant applies, CVO and CPO QS will be based on legal landings that resulted in the issuance of that license or from legal landings that were made under the authority of that license.
 
 (ii) For each State of Alaska Interim Use Permit under which an applicant applies for CVC QS or CPC QS, the initial allocation of QS will be based on the legal landings that were made under the authority of that permit.
 
@@ -266,7 +266,7 @@ QS adj. p = Unadjusted West QS p × RAF
 
 (6) *Offloading requirements for CPO IFQ derived from converted CPO QS.* Any crab harvested under a CPO IFQ permit derived from converted CPO QS must be offloaded in the Bering Sea subarea north of 56°20′ N. lat.
 
-(d) *Crab PQS and Crab PQS Fisheries* - (1) *General.* The Regional Administrator shall initially assign to qualified persons defined in paragraph (d)(3) of this section crab PQS specific to crab QS fisheries defined in paragraph (a)(1) of this section. The crab PQS amount issued will be based on total legal processing of crab made in those crab QS fisheries. PQS shall yield annual IPQ as defined under paragraph (j) of this section.
+(d) *Crab PQS and Crab PQS Fisheries*—(1) *General.* The Regional Administrator shall initially assign to qualified persons defined in paragraph (d)(3) of this section crab PQS specific to crab QS fisheries defined in paragraph (a)(1) of this section. The crab PQS amount issued will be based on total legal processing of crab made in those crab QS fisheries. PQS shall yield annual IPQ as defined under paragraph (j) of this section.
 
 (2) *Regional designations.* For each crab QS fishery, PQS shall be initially regionally designated based on the legal processing that gave rise to the PQS as follows:
 
@@ -306,7 +306,7 @@ QS adj. p = Unadjusted West QS p × RAF
 
 (v) A person who has acquired a processing corporation, partnership, or other entity that has a history of legal processing of crab is presumed to have received by transfer all of that history of legal processing of crab unless a clear and unambiguous written contract establishes otherwise.
 
-(4) *Qualification for initial allocation of PQS* - (i) *Years.* The qualifying years for each crab QS fishery are designated in Table 9 to this part.
+(4) *Qualification for initial allocation of PQS*—(i) *Years.* The qualifying years for each crab QS fishery are designated in Table 9 to this part.
 
 (ii) *Ownership interest.* Documentation of ownership interest in a dissolved partnership or corporation, association, or other entity shall be limited to corporate documents (e.g., articles of incorporation) or notarized statements signed by each former partner, shareholder or director, and specifying their proportions of interest.
 
@@ -318,7 +318,7 @@ QS adj. p = Unadjusted West QS p × RAF
 
 (B) Information on State of Alaska fish tickets shall be presumed to be correct for the purpose of determining evidence of legal processing of crab. An applicant will have the burden of proving the validity of information submitted in an application that is inconsistent with the information on the State of Alaska fish ticket.
 
-(e) *Calculation of PQS allocation* - (1) *Computation for initial issuance of PQS.* (i) The Regional Administrator shall establish the Total Processing Denominator (TPD) which represents the amount of legally processed raw crab pounds in each crab QS fishery in all qualifying years.
+(e) *Calculation of PQS allocation*—(1) *Computation for initial issuance of PQS.* (i) The Regional Administrator shall establish the Total Processing Denominator (TPD) which represents the amount of legally processed raw crab pounds in each crab QS fishery in all qualifying years.
 
 (ii) For each crab QS fishery, the percentage of the initial PQS pool that will be distributed to each qualified person shall be based on their percentage of the TPD according to the following procedure:
 
@@ -364,7 +364,7 @@ QS adj. p = Unadjusted West QS p × RAF
 
 (iii) PQS units issued to Blue Dutch, LLC, under paragraph (e)(3)(i) of this section may not be transferred to any other person.
 
-(f) *Application for crab QS or PQS* - (1) *General.* The Regional Administrator will issue QS and/or PQS to an applicant if a complete application for crab QS or PQS is submitted by or on behalf of the applicant during the specified application period, and if the applicant meets all criteria for eligibility as specified at paragraphs (b)(3) and (d)(3) of this section.
+(f) *Application for crab QS or PQS*—(1) *General.* The Regional Administrator will issue QS and/or PQS to an applicant if a complete application for crab QS or PQS is submitted by or on behalf of the applicant during the specified application period, and if the applicant meets all criteria for eligibility as specified at paragraphs (b)(3) and (d)(3) of this section.
 
 (i) The Regional Administrator will send application materials to the person identified by NMFS as an eligible applicant based on the official crab rationalization record. An application form may also be obtained from the Internet or requested from the Regional Administrator.
 
@@ -448,7 +448,7 @@ QS adj. p = Unadjusted West QS p × RAF
 
 (8) *Initial administrative determinations (IAD).* The Regional Administrator will prepare and send an IAD to the applicant following the expiration of the 30-day evidentiary period if the Regional Administrator determines that the information or evidence provided by the applicant fails to support the applicant's claims and is insufficient to rebut the presumption that the official crab rationalization record is correct, or if the additional information, evidence, or revised application is not provided within the time period specified in the letter that notifies the applicant of his or her 30-day evidentiary period. The IAD will indicate the deficiencies in the application, including any deficiencies with the information, the evidence submitted in support of the information, or the revised application. The IAD will also indicate which claims cannot be approved based on the available information or evidence. An applicant who receives an IAD may appeal pursuant to § 679.43. An applicant who avails himself or herself of the opportunity to appeal an IAD will not receive crab QS or PQS until after the final resolution of that appeal in the applicant's favor.
 
-(g) *Annual allocation of IFQ* - (1) *General.* IFQ is assigned based on the underlying QS. Except for CVC and CPC QS permit holders who fail to meet the participation requirements at paragraph (g)(2) of this section, the Regional Administrator shall assign crab IFQs to each person who holds QS and submits a complete annual application for crab IFQ/IPQ permit as described under § 680.4. IFQ will be assigned to a crab QS fishery with the appropriate regional designation, QS sector, and IFQ class. This amount will represent the maximum amount of crab that may be harvested from the specified crab QS fishery by the person to whom it is assigned during the specified crab fishing year, unless the IFQ assignment is changed by the Regional Administrator because of an approved transfer, revoked, suspended, or modified under 15 CFR part 904.
+(g) *Annual allocation of IFQ*—(1) *General.* IFQ is assigned based on the underlying QS. Except for CVC and CPC QS permit holders who fail to meet the participation requirements at paragraph (g)(2) of this section, the Regional Administrator shall assign crab IFQs to each person who holds QS and submits a complete annual application for crab IFQ/IPQ permit as described under § 680.4. IFQ will be assigned to a crab QS fishery with the appropriate regional designation, QS sector, and IFQ class. This amount will represent the maximum amount of crab that may be harvested from the specified crab QS fishery by the person to whom it is assigned during the specified crab fishing year, unless the IFQ assignment is changed by the Regional Administrator because of an approved transfer, revoked, suspended, or modified under 15 CFR part 904.
 
 (2) *Eligibility for CVC and CPC IFQ.* For each crab fishing year after June 30, 2018, individuals holding CVC or CPC QS permits must meet the participation requirements set forth in paragraphs (g)(2)(i) or (g)(2)(ii) of this section in order to receive CVC or CPC IFQ unless the CVC or CPC QS permit holder meets the exemption provided in paragraph (g)(2)(iii) of this section.
 
@@ -464,9 +464,7 @@ QS adj. p = Unadjusted West QS p × RAF
 
 (ii) *Initial administrative determination (IAD).* The Regional Administrator will prepare and send an IAD to the CVC or CPC QS holder following the expiration of the 30-day evidentiary period if the Regional Administrator determines that the information or evidence provided by the CVC or CPC QS holder fails to demonstrate participation as crew and is insufficient to rebut the information included in the CVC or CPC QS holder's Applications for Annual Crab IFQ Permit, or if the additional information or evidence is not provided within the time period specified in the Notice of C Share IFQ Withholding. The IAD will explain the basis for the withholding of IFQ. A CVC or CPC QS holder who receives an IAD withholding IFQ may appeal under the appeals procedures set forth at 15 CFR part 906. A CVC or CPC QS holder who avails himself or herself of the opportunity to appeal an IAD withholding IFQ will not receive crab IFQ until after the final resolution of that appeal in the QS holder's favor.
 
-(4) *Emergency rule suspending withholding of CVC or CPC IFQ.* Under emergency measures effective July 15, 2022, and notwithstanding any other section of this part, the Regional Administrator will not consider participation requirements at paragraph (g)(2) of this section in reviewing a CVC or CPC QS holder's Application for Annual Crab Individual Fishing Quota (IFQ) Permit for the 2022/2023 crab fishing year and will not withhold IFQ from an individual holding CVC or CPC QS.
-
-(h) *Calculation of annual IFQ allocation* - (1) *General.* (i) The annual allocation of IFQ to any person (p) in any crab QS fishery (f) will be based on the TAC of crab for that crab QS fishery less the allocation to the Western Alaska CDQ Program (“CDQ Reserve”) and Western Aleutian Islands golden king crab fishery. Expressed algebraically, the annual IFQ allocation formula is as follows:
+(h) *Calculation of annual IFQ allocation*—(1) *General.* (i) The annual allocation of IFQ to any person (p) in any crab QS fishery (f) will be based on the TAC of crab for that crab QS fishery less the allocation to the Western Alaska CDQ Program (“CDQ Reserve”) and Western Aleutian Islands golden king crab fishery. Expressed algebraically, the annual IFQ allocation formula is as follows:
 
 (A) IFQ TACf = TACf − (CDQ Reservef + Allocation for the Western Aleutian Island golden king crab fishery)
 
@@ -522,7 +520,7 @@ QS adj. p = Unadjusted West QS p × RAF
 
 (i) *Annual allocation of IPQ.* IPQ is assigned based on the underlying PQS. The Regional Administrator shall assign crab IPQs to each person who submits a complete annual application for crab IFQ/IPQ permit as described under § 680.4. Each assigned IPQ will be specific to a crab QS fishery with the appropriate regional designation. This amount will represent the maximum amount of crab that may be received from the specified crab QS fishery by the person to whom it is assigned during the specified crab fishing year, unless the IPQ assignment is changed by the Regional Administrator because of an approved transfer, revoked, suspended, or modified under 15 CFR part 904.
 
-(j) *Calculation of annual IPQ allocation* - (1) *General.* The annual allocation of TAC to PQS and the resulting IPQ in any crab QS fishery (f) is the Class A IFQ TAC (TACa). A person's annual IPQ is based on the amount of PQS held by a person (PQS p) divided by the PQS pool for that crab QS fishery for all PQS holders (PQS pool f). Expressed algebraically, the annual IPQ allocation formula is as follows:
+(j) *Calculation of annual IPQ allocation*—(1) *General.* The annual allocation of TAC to PQS and the resulting IPQ in any crab QS fishery (f) is the Class A IFQ TAC (TACa). A person's annual IPQ is based on the amount of PQS held by a person (PQS p) divided by the PQS pool for that crab QS fishery for all PQS holders (PQS pool f). Expressed algebraically, the annual IPQ allocation formula is as follows:
 
 IPQpf = TACaf × PQSpf/PQS poolf.
 
@@ -534,7 +532,7 @@ IPQpf = TACaf × PQSpf/PQS poolf.
 
 (ii) 18,000,000 raw crab pounds (8,164.7 mt) in the BBR crab QS fishery.
 
-(4) *IPQ issued to Blue Dutch, LLC* - (i) *BBR IPQ.* For each crab fishing year that the total allowable catch for BBR CR crab is greater than 15,732,480 lb (7,136.2 mt), NMFS will issue IPQ for the 3,015,229 units of PQS issued to Blue Dutch, LLC, pursuant to Public Law 109-241.
+(4) *IPQ issued to Blue Dutch, LLC*—(i) *BBR IPQ.* For each crab fishing year that the total allowable catch for BBR CR crab is greater than 15,732,480 lb (7,136.2 mt), NMFS will issue IPQ for the 3,015,229 units of PQS issued to Blue Dutch, LLC, pursuant to Public Law 109-241.
 
 (ii) *BSS IPQ.* For each crab fishing year that the total allowable catch for BSS CR crab is greater than 21,350,640 lb (9,684.6 mt), NMFS will issue IPQ for the 7,516,253 units of PQS issued to Blue Dutch, LLC, pursuant to Public Law 109-241.
 
@@ -554,6 +552,4 @@ IPQpf = TACaf × PQSpf/PQS poolf.
 
 (5) All of the CVC or CPC QS permits held by the individual were acquired using the eligibility criteria in § 680.41(c)(1)(vii)(B) and the individual has held those CVC or CPC QS permits for less than four full crab fishing years.
 
-(6) Under emergency measures effective July 15, 2022, and notwithstanding any other section of this part, the Regional Administrator will not consider participation requirements set forth in paragraph (m)(2) of this section in reviewing a CVC or CPC QS holder's Application for Annual Crab Individual Fishing Quota (IFQ) Permit for the 2022/2023 crab fishing year or in making any other determinations about whether to revoke CVC or CPC QS in the 2022/2023 crab fishing year.
-
-[70 FR 10241, Mar. 2, 2005, as amended at 70 FR 33395, June 8, 2005; 70 FR 75421, Dec. 20, 2005; 71 FR 32864, June 7, 2006; 73 FR 29983, May 23, 2008; 73 FR 30320, May 27, 2008; 73 FR 35088, June 20, 2008; 73 FR 76190, Dec. 15, 2008; 74 FR 51520, Oct. 7, 2009; 80 FR 15897, Mar. 26, 2015; 87 FR 42394, July 15, 2022]Effective Date Note:At 87 FR 42394, July 15, 2022, § 680.40 was amended by adding paragraphs (g)(4) and (m)(6), effective July 15, 2022 through Jan. 11, 2023.
+[70 FR 10241, Mar. 2, 2005, as amended at 70 FR 33395, June 8, 2005; 70 FR 75421, Dec. 20, 2005; 71 FR 32864, June 7, 2006; 73 FR 29983, May 23, 2008; 73 FR 30320, May 27, 2008; 73 FR 35088, June 20, 2008; 73 FR 76190, Dec. 15, 2008; 74 FR 51520, Oct. 7, 2009; 80 FR 15897, Mar. 26, 2015; 87 FR 42394, July 15, 2022]

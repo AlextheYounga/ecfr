@@ -16,7 +16,11 @@ The terms and definitions in this section apply to NAP. The terms and definition
 
 *Application closing date* means the last date, as determined by FSA, producers can submit an application for coverage for noninsured crops for the specified crop year and coverage period.
 
-*Application for coverage* means the form specified by FSA to be completed by a producer applying for NAP coverage for an eligible crop that is accompanied by the service fee or service fee waiver form in the administrative county office by the application closing date.
+*Application for coverage* means:
+
+(1) The form specified by FSA to be completed by a producer applying for NAP coverage for an eligible crop that is accompanied by the service fee or the service fee waiver form, or
+
+(2) Another applicable form, designated by the Deputy Administrator to qualify as an application for NAP, that the producer has on file with FSA before the deadline for application for the coverage period which certifies they are eligible for a service fee waiver.
 
 *Basic provisions* means the document summarizing the terms and conditions of NAP coverage for a crop year that are acknowledged as having been received by the person or legal entity who signs an application for coverage according to this part.
 
@@ -128,4 +132,4 @@ The terms and definitions in this section apply to NAP. The terms and definition
 
 *Transitional yield* means an estimated yield of that name provided in the Federal Crop Insurance Corporation (FCIC) actuarial table which is used to calculate an average/approved APH yield for crops insured under the Federal Crop Insurance Act when less than four years of actual, temporary, and/or assigned yields are available on a crop by county basis.
 
-[67 FR 12448, Mar. 19, 2002, as amended at 71 FR 13742, Mar. 17, 2006; 76 FR 4805, Jan. 27, 2011; 78 FR 21018, Apr. 9, 2013; 79 FR 74572, 74583, Dec. 15, 2014; 85 FR 12218, Mar. 2, 2020]
+[67 FR 12448, Mar. 19, 2002, as amended at 71 FR 13742, Mar. 17, 2006; 76 FR 4805, Jan. 27, 2011; 78 FR 21018, Apr. 9, 2013; 79 FR 74572, 74583, Dec. 15, 2014; 85 FR 12218, Mar. 2, 2020; 88 FR 1891, Jan. 11, 2023]

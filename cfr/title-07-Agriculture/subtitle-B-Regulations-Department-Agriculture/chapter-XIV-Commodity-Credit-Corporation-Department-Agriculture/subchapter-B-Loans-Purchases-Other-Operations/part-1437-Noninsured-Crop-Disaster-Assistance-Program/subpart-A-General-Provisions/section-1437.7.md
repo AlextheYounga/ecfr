@@ -1,8 +1,8 @@
 ##### § 1437.7 Application for coverage, service fee, premium, transfers of coverage, and acreage report. #####
 
-(a) Except as provided in paragraph (i) of this section, with respect to each crop, commodity, or acreage, producers must file an application for coverage under this part in the administrative county office by the application closing date.
+(a) Except as provided in paragraph (i) of this section, with respect to each crop, commodity, or acreage, producers must file an application for coverage under this part by the application closing date.
 
-(b) The service fee or request for service fee waiver specified in paragraph (g) of this section must accompany the application for coverage in order for it to be considered filed. The service fee is:
+(b) The service fee or certification of eligibility for service fee waiver specified in paragraph (g) of this section must accompany the application for coverage in order for it to be considered filed. The service fee is:
 
 (1) For applications filed by April 7, 2019, $250 per crop per administrative county, up to $750 per producer per administrative county, not to exceed $1,875 per producer; and
 
@@ -50,7 +50,7 @@
 
 (f) Premiums will be calculated separately for each crop, type, and intended use as reported on the acreage report and as specified in the basic provisions.
 
-(g) Beginning farmers and ranchers, limited resource farmers and ranchers, socially disadvantaged farmers or ranchers, and veteran farmers and ranchers will receive, upon certification, a waiver of the service fee and a 50 percent premium reduction. The certification is required on or before the time the application for coverage is filed using the form specified by FSA.
+(g) Beginning farmers and ranchers, limited resource farmers and ranchers, socially disadvantaged farmers or ranchers, and veteran farmers and ranchers will receive, upon certification, a waiver of the service fee and a 50 percent premium reduction for any buy-up coverage elected. The certification is required on or before the time the application for coverage is filed using the form specified by FSA.
 
 (h) Transfers of NAP coverage are governed by the basic provisions.
 
@@ -68,4 +68,4 @@
 
 (l) Applications for coverage that were filed with FSA for all crops other than hemp that were covered under the regulations in effect at the time of filing and which meet all the other requirements of this section will be recognized by FSA.
 
-[79 FR 74575, Dec. 15, 2014, as amended at 85 FR 12219, Mar. 2, 2020]
+[79 FR 74575, Dec. 15, 2014, as amended at 85 FR 12219, Mar. 2, 2020; 88 FR 1892, Jan. 11, 2023]

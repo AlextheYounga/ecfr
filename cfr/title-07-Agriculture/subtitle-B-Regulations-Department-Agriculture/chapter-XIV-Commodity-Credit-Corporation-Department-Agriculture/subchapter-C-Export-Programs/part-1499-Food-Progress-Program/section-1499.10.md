@@ -8,7 +8,7 @@
 
 (2) Take all necessary action to pursue the claim diligently and within any applicable periods of limitations; and
 
-(4) Provide to CCC copies of all documentation relating to the claim.
+(3) Provide to CCC copies of all documentation relating to the claim.
 
 (c)(1) The value of a claim for lost donated commodities will be determined on the basis of the commodity acquisition, transportation, and related costs incurred by CCC with respect to such commodities, as well as such costs incurred by the recipient and paid by CCC.
 

@@ -24,32 +24,30 @@
 
 (b) Land is ineligible for cost share if the Deputy Administrator determines that it is, as applicable:
 
-(1) Owned or controlled by the United States;
+(1) Protected by a levee or dike that was not effectively and properly functioning prior to the disaster, or is protected, or intended to be protected, by a levee or dike not built to U.S. Army Corps of Engineers, NRCS, or comparable standards;
 
-(2) Owned or controlled by States, including State agencies or other political subdivisions of a State;
+(2) Adjacent to water impoundment reservoirs that are subject to inundation when the reservoir is filled to capacity;
 
-(3) Protected by a levee or dike that was not effectively and properly functioning prior to the disaster, or is protected, or intended to be protected, by a levee or dike not built to U.S. Army Corps of Engineers, NRCS, or comparable standards;
+(3) Land on which levees or dikes are located;
 
-(4) Adjacent to water impoundment reservoirs that are subject to inundation when the reservoir is filled to capacity;
+(4) Subject to frequent damage or susceptible to severe damage according to paragraph (c) of this section;
 
-(5) Land on which levees or dikes are located;
+(5) Subject to flowage or flood easements and inundation when water is released in normal operations;
 
-(6) Subject to frequent damage or susceptible to severe damage according to paragraph (c) of this section;
+(6) Between any levee or dike and a stream, river, or body of water, including land between two or more levees or dikes;
 
-(7) Subject to flowage or flood easements and inundation when water is released in normal operations;
+(7) Located in an old or new channel of a stream, creek, river or other similar body of water, except that land located within or on the banks of an irrigation canal may be eligible if the Deputy Administrator determines that the canal is not a channel subject to flooding;
 
-(8) Between any levee or dike and a stream, river, or body of water, including land between two or more levees or dikes;
+(8) In greenhouses or other confined areas, including but not limited to, land in corrals, milking parlors, barn lots, or feeding areas;
 
-(9) Located in an old or new channel of a stream, creek, river or other similar body of water, except that land located within or on the banks of an irrigation canal may be eligible if the Deputy Administrator determines that the canal is not a channel subject to flooding;
+(9) Land on which poor farming practices, such as failure to farm on the contour, have materially contributed to damaging the land;
 
-(10) In greenhouses or other confined areas, including but not limited to, land in corrals, milking parlors, barn lots, or feeding areas;
+(10) Unless otherwise provided for, not considered to be in annual agricultural production, such as land devoted to stream banks, channels, levees, dikes, native woodland areas, roads, and recreational uses; or
 
-(11) Land on which poor farming practices, such as failure to farm on the contour, have materially contributed to damaging the land;
-
-(12) Unless otherwise provided for, not considered to be in annual agricultural production, such as land devoted to stream banks, channels, levees, dikes, native woodland areas, roads, and recreational uses; or
-
-(13) Devoted to trees including, but not limited to, timber production.
+(11) Devoted to trees including, but not limited to, timber production.
 
 (c) To determine the likely frequency of damage and of the susceptibility of the land to severe damage under paragraph (b)(6) of this section, FSA will consider all relevant factors, including, but not limited to, the location of the land, the history of damage to the land, and whether the land was or could have been protected by a functioning levee or dike built to U. S. Army Corps of Engineers, NRCS, or comparable standards. Further, in making such determinations, information may be obtained and used from the Federal Emergency Management Agency or any other Federal, State (including State agencies or political subdivisions), or other entity or individual providing information regarding, for example, flood susceptibility for the land, soil surveys, aerial photographs, or flood plain data or other relevant information.
 
-[69 FR 10302, Mar. 4, 2004. Redesignated at 75 FR 70088, Nov. 17, 2010]
+(d) Additional provisions making Government-owned land eligible is specified in § 701.106.
+
+[69 FR 10302, Mar. 4, 2004. Redesignated at 75 FR 70088, Nov. 17, 2010, as amended at 88 FR 1883, Jan. 11, 2023]

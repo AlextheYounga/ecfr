@@ -6,4 +6,6 @@
 
 (c) In addition to other limitations that apply, in no case will the ECP payment exceed 50 percent of what the Deputy Administrator has determined is the agricultural value of the affected land.
 
-[69 FR 10302, Mar. 4, 2004. Redesignated and amended at 75 FR 70088, Nov. 17, 2010; 84 FR 32841, July 10, 2019]
+(d) The Secretary may waive the maximum limitations described in paragraphs (a) through (c) of this section to the maximum extent allowed by law.
+
+[69 FR 10302, Mar. 4, 2004. Redesignated and amended at 75 FR 70088, Nov. 17, 2010; 84 FR 32841, July 10, 2019; 88 FR 1883, Jan. 11, 2023]

@@ -1,12 +1,10 @@
 ##### § 571.224 Standard No. 224; Rear impact protection. #####
 
-Link to an amendment published at 87 FR 42372, July 15, 2022.
-
 S1. *Scope.* This standard establishes requirements for the installation of rear impact guards on trailers and semitrailers with a gross vehicle weight rating (GVWR) of 4,536 kg or more.
 
 S2. *Purpose.* The purpose of this standard is to reduce the number of deaths and serious injuries occurring when light duty vehicles impact the rear of trailers and semitrailers with a GVWR of 4,536 kg or more.
 
-*S3. Application.* This standard applies to trailers and semitrailers with a GVWR of 4,356 kg or more. The standard does not apply to pole trailers, pulpwood trailers, road construction controlled horizontal discharge trailers, special purpose vehicles, wheels back vehicles, or temporary living quarters as defined in 49 CFR 529.2. If a cargo tank motor vehicle, as defined in 49 CFR 171.8, is certified to carry hazardous materials and has a rear bumper or rear end protection device conforming with 49 CFR part 178 located in the area of the horizontal member of the rear underride guard required by this standard, the guard need not comply with the energy absorption requirement (S5.2.2) of 49 CFR 571.223.
+*S3. Application.* This standard applies to trailers and semitrailers with a GVWR of 4,356 kg or more. The standard does not apply to pole trailers, pulpwood trailers, low chassis vehicles, road construction controlled horizontal discharge trailers, special purpose vehicles, wheels back vehicles, or temporary living quarters as defined in 49 CFR 523.2. If a cargo tank motor vehicle, as defined in 49 CFR 171.8, is certified to carry hazardous materials and has a rear bumper or rear end protection device conforming with 49 CFR part 178 located in the area of the horizontal member of the rear underride guard required by this standard, the guard need not comply with the energy absorption requirement (S5.2.2) of 49 CFR 571.223.
 
 S4. *Definitions.*
 
@@ -20,7 +18,15 @@ S4. *Definitions.*
 
 *Pulpwood trailer* means a trailer that is designed exclusively for harvesting logs or pulpwood and constructed with a skeletal frame with no means for attachment of a solid bed, body, or container.
 
-*Rear extremity* means the rearmost point on a vehicle that is above a horizontal plane located 560 mm above the ground and below a horizontal plane located 1,900 mm above the ground when the vehicle is configured as specified in S5.1 of this section and when the vehicle's cargo doors, tailgate, or other permanent structures are positioned as they normally are when the vehicle is in motion. Nonstructural protrusions such as taillights, rubber bumpers, hinges and latches are excluded from the determination of the rearmost point.
+*Rear extremity* means the rearmost point on a trailer that is above a horizontal plane located above the ground clearance and below a horizontal plane located 1,900 mm above the ground when the trailer is configured as specified in S5.1 of this section and when the trailer's cargo doors, tailgate and other permanent structures are positioned as they normally are when the trailer is in motion, with non-structural protrusions excluded from the determination of the rearmost point, such as:
+
+(1) Tail lamps;
+
+(2) Rubber bumpers;
+
+(3) Hinges and latches; and
+
+(4) Flexible aerodynamic devices capable of being folded to within 305 mm from the transverse vertical plane tangent to the rear most surface of the horizontal member for vertical heights below 1,740 mm above ground and, when positioned as they normally are when the trailer is in motion, are located forward of the transverse plane that is tangent to the rear bottom edge of the horizontal member and intersecting a point located 1,210 mm rearward of the horizontal member and 1,740 mm above the ground.
 
 *Road construction controlled horizontal discharge trailer* means a trailer or semitrailer that is equipped with a mechanical drive and a conveyor to deliver asphalt and other road building materials, in a controlled horizontal manner, into a lay down machine or paving equipment for road construction and paving operations.
 
@@ -54,4 +60,4 @@ S5.1.3 *Guard rear surface.* At any height 560 mm or more above the ground, the 
 
 S5.2 *Installation Requirements.* Guards shall be attached to the vehicle's chassis by the vehicle manufacturer in accordance with the installation instructions or procedures provided pursuant to S5.5 of Standard No. 223, *Rear Impact Guards* (§ 571.223). The vehicle must be of a type identified in the installation instructions as appropriate for the guard.
 
-![](/graphics/ec01au91.147.gif)[61 FR 2035, Jan. 24, 1996, as amended at 63 FR 3662, Jan. 26, 1998; 69 FR 64500, Nov. 5, 2004; 69 FR 67668, Nov. 19, 2004; 71 FR 9277, Feb. 23, 2006]
+![](/graphics/ec01au91.147.gif)[61 FR 2035, Jan. 24, 1996, as amended at 63 FR 3662, Jan. 26, 1998; 69 FR 64500, Nov. 5, 2004; 69 FR 67668, Nov. 19, 2004; 71 FR 9277, Feb. 23, 2006; 87 FR 42372, July 15, 2022]

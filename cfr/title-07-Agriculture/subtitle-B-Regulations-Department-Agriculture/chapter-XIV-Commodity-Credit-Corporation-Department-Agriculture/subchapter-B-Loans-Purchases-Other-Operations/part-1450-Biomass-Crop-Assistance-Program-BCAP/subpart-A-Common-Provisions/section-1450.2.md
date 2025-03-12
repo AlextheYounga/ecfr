@@ -110,7 +110,7 @@
 
 *Operator* means a person who is in general control of the land enrolled in BCAP, as determined by CCC.
 
-*Participant* means a person who is participating in BCAP - either as a person who has applied for and is eligible to receive payments, has a BCAP contract, or is a project sponsor.
+*Participant* means a person who is participating in BCAP—either as a person who has applied for and is eligible to receive payments, has a BCAP contract, or is a project sponsor.
 
 *Payment period* means a contract period of either up to 5 years for annual and non-woody perennial crops, or up to 15 years for woody perennial crops, during which the participant receives an annual payment under the establishment payment and annual payment component of BCAP.
 
@@ -156,6 +156,8 @@
 
 (D) Food waste and yard waste.
 
+*Socially disadvantaged farmer or rancher* means a farmer or rancher who is a member of a socially disadvantaged group. A socially disadvantaged group is a group whose members have been subjected to racial or ethnic prejudice because of their identity as members of a group without regard to their individual qualities.
+
 *Technical assistance* means assistance in determining the eligibility of land and practices for BCAP, implementing and certifying practices, ensuring contract performance, and providing annual rental rate surveys. BCAP technical assistance may include, but is not limited to: technical expertise and services, information, and tools necessary for the conservation of natural resources on land; technical services provided directly to farmers, ranchers, and other eligible entities, such as conservation planning, technical consultation, and assistance with design and implementation of eligible practices; and technical infrastructure, including activities, processes, tools, and functions needed to support delivery of technical and program services, such as technical standards, resource inventories, training, data, technology, monitoring, compliance spot checks, and effects analyses.
 
 *Tribal government* means any Indian tribe, band, nation, or other organized group, or community, including pueblos, rancherias, colonies and any Alaska Native Village, or regional or village corporation as defined in or established pursuant to 43 U.S.C. 1601-1629h (the Alaska Native Claims Settlement Act), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
@@ -164,4 +166,4 @@
 
 *Yard waste* means any renewable biomass generated from municipal or residential land, such as urban forestry materials, construction or demolition materials, trimmings from grasses and trees, or biomass removed due to invasive species or weather-related disaster, that can be separated from and has low potential (such as contamination with plastics, metals, chemicals, or other toxic compounds that cannot be removed) for the generation of toxic by-products resulting from conversion, and that otherwise cannot be recycled for other purposes (such as post-consumer waste paper).
 
-[75 FR 66234, Oct. 27, 2010, as amended at 76 FR 56951, Sept. 15, 2011; 80 FR 10573, Feb. 27, 2015]
+[75 FR 66234, Oct. 27, 2010, as amended at 76 FR 56951, Sept. 15, 2011; 80 FR 10573, Feb. 27, 2015; 88 FR 1892, Jan. 11, 2023]
