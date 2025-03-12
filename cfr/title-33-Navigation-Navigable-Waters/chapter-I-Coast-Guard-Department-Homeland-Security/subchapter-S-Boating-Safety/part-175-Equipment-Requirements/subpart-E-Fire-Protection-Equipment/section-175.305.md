@@ -1,0 +1,3 @@
+##### § 175.305 General provisions. #####
+
+Where fire extinguishing equipment in this subpart is required to be of an approved type, such equipment must be approved as provided in 46 CFR chapter I, subchapter Q. A listing of current and formerly approved equipment and materials may be found on the internet at: *https://cgmix.uscg.mil/equipment.* Each OCMI may be contacted for information concerning approved equipment.

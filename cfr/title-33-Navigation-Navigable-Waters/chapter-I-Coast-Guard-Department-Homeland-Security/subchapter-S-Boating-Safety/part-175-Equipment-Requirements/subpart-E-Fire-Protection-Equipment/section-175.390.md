@@ -1,0 +1,3 @@
+##### § 175.390 Condition and number of fire extinguishers required for recreational vessels built before model year 1953. #####
+
+A recreational vessel built before model year 1953 must meet the applicable number and general type of equipment provisions of §§ 175.305 through 175.320. Existing items of equipment and installations previously approved but not meeting the applicable requirements for type approval may be continued in service provided they are in good condition. All new installations and replacements must meet the requirements of §§ 175.305 through 175.320.

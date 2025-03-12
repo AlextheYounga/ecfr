@@ -1,10 +1,8 @@
 ##### § 175.3 Definitions. #####
 
-Link to an amendment published at 86 FR 58571, Oct. 22, 2021.
-
 As used in this part:
 
-*Boat* means any vessel -
+*Boat* means any vessel—
 
 (1) Manufactured or used primarily for noncommercial use;
 
@@ -12,7 +10,9 @@ As used in this part:
 
 (3) Operated as an uninspected passenger vessel subject to the requirements of 46 CFR chapter I, subchapter C.
 
-*Passenger* means an individual carried on a vessel except -
+*Model year* means the period beginning June 1 of a year and ending on July 31 of the following year and being designated by the year in which it ends.
+
+*Passenger* means an individual carried on a vessel except—
 
 (1) The owner or an individual representative of the owner or, in the case of a vessel chartered without a crew, an individual charterer, or an individual representative of the charterer;
 
@@ -32,4 +32,4 @@ As used in this part:
 
 *Vessel* includes every description of watercraft used or capable of being used as a means of transportation on the water.
 
-[CGD 92-045, 58 FR 41607, Aug. 4, 1993, as amended by USCG-1999-5040, 67 FR 34759, May 15, 2002; USCG-2000-8589, 67 FR 42493, June 24, 2002]
+[CGD 92-045, 58 FR 41607, Aug. 4, 1993, as amended by USCG-1999-5040, 67 FR 34759, May 15, 2002; USCG-2000-8589, 67 FR 42493, June 24, 2002; USCG-2018-0099, 86 FR 58571, Oct. 22, 2021]
