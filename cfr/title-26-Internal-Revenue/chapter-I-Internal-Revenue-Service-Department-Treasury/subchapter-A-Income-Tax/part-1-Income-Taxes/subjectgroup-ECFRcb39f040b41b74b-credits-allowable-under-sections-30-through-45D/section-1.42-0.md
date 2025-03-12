@@ -1,6 +1,6 @@
 ##### § 1.42-0 Table of contents. #####
 
-This section lists the paragraphs contained in §§ 1.42-1 through 1.42-18 and § 1.42-1T.
+This section lists the paragraphs contained in §§ 1.42-1 through 1.42-19 and § 1.42-1T.
 
 *§ 1.42-1 Limitation on low-income housing credit allowed with respect to qualified low-income buildings receiving housing credit allocations from a State or local housing credit agency.*
 
@@ -578,7 +578,19 @@ This section lists the paragraphs contained in §§ 1.42-1 through 1.42-18 and �
 
 (b) General section 42(g)(2)(D)(i) rule.
 
-(c) Exception.
+(c) Exceptions.
+
+(1) In general.
+
+(2) Rental of next available unit in case of the average income test.
+
+(i) Basic rule.
+
+(ii) No requirement to comply with the next available unit rule in a specific order.
+
+(iii) Deep rent skewed projects.
+
+(iv) Limitation.
 
 (d) Effect of current resident moving within building.
 
@@ -590,7 +602,11 @@ This section lists the paragraphs contained in §§ 1.42-1 through 1.42-18 and �
 
 (h) Examples.
 
-(i) Effective date.
+(i) Applicability dates.
+
+(1) In general.
+
+(2) Applicability dates under the average income test.
 
 *§ 1.42-16 Eligible basis reduced by federal grants.*
 
@@ -692,4 +708,64 @@ This section lists the paragraphs contained in §§ 1.42-1 through 1.42-18 and �
 
 (e) Effective/applicability date.
 
-[T.D. 8302, 55 FR 21189, May 23, 1990, as amended by T.D. 9755, 81 FR 11107, Mar. 3, 2016]
+*§ 1.42-19 Average income test.*
+
+(a) Average income set-aside.
+
+(b) Definition of low-income unit and qualified group of units.
+
+(1) Definition of low-income unit.
+
+(2) Definition of qualified group of units.
+
+(3) Identification of qualified groups of units.
+
+(i) Average income set-aside test.
+
+(ii) Applicable fraction determinations.
+
+(iii) Identification of units.
+
+(c) Procedures.
+
+(1)-(2) [Reserved]
+
+(3) Designation of imputed income limitations.
+
+(i) Timing of designation.
+
+(ii) 10-percent increments.
+
+(iii) Continuity.
+
+(iv) [Reserved]
+
+(4) [Reserved]
+
+(d) Changing a unit's designated imputed income limitation.
+
+(1) Permitted changes.
+
+(i) Federally permitted changes.
+
+(ii) *Housing credit agency* (Agency)-permitted changes.
+
+(iii) Certain laws.
+
+(iv) Tenant movement.
+
+(v) Restoring compliance with average income requirements.
+
+(2) [Reserved]
+
+(e) Examples.
+
+(f) Applicability dates.
+
+(1) General rule.
+
+(2) Designations of occupied units.
+
+(3) Applicability of this section to taxable years beginning before January 1, 2023.
+
+[T.D. 8302, 55 FR 21189, May 23, 1990, as amended by T.D. 9755, 81 FR 11107, Mar. 3, 2016; T.D. 9967, 87 FR 61501, Oct. 12, 2022]

@@ -6,6 +6,6 @@
 
 (c) Because of the exclusive remedies granted in 28 U.S.C. 1498, the Government requires notice and assistance from its contractors regarding any claims for patent or copyright infringement by inserting the clause at 52.227-2, Notice and Assistance, Regarding Patent and Copyright Infringement.
 
-(d) The Government may require a contractor to reimburse it for liability for patent infringement arising out of a contract for commercial products or commercial services by inserting the clause at FAR 52.227-3, Patent Indemnity.
+(d) The Government may require a contractor to reimburse it for liability for patent infringement arising out of a contract for commercial products or commercial services by inserting the clause at 52.227-3, Patent Indemnity.
 
 [72 FR 63049, Nov. 7, 2007, as amended at 86 FR 61028, Nov. 4, 2021]

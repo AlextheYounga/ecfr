@@ -8,7 +8,7 @@
 
 CMTR = F + (1 − F)S + (1 − F)LWhere:F = Your Federal marginal tax rateS = Your state marginal tax rate, if anyL = Your local marginal tax rate, if any
 
-(d) Your agency finds the Federal marginal tax rate by comparing your taxable income, as shown in your “Statement of Income and Filing Status,” to the Federal tax tables in the current year's Form 1040-ES instructions (see §§ 302-17.50 - 302-17.53 and §§ 302-17.63 - 302-17.65 for additional information on the “Statement of Income and Tax Filing Status”).
+(d) Your agency finds the Federal marginal tax rate by comparing your taxable income, as shown in your “Statement of Income and Filing Status,” to the Federal tax tables in the current year's Form 1040-ES instructions (see §§ 302-17.50—302-17.53 and §§ 302-17.63—302-17.65 for additional information on the “Statement of Income and Tax Filing Status”).
 
 (e) Your agency finds the state and local marginal tax rates that apply to you (if any) by comparing your taxable income to the most current state and/or local tax tables provided by the states and localities. Every Federal payroll office and every provider of tax calculation software has these tables readily available, and the tables are also available on the Web sites of the various state and local taxing authorities.
 

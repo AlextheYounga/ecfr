@@ -4,7 +4,7 @@
 
 (2) Contracting officers shall withhold payment at the direction of the Administrator.
 
-(3) The contracting officer shall withhold payment, without a request from the Administrator, if the contractor fails to comply with the requirements in paragraph (e)(2) of 52.222-55, Minimum Wages for Contractor Workers Under Executive Order 14026to furnish payroll records, until such time as the noncompliance is corrected.
+(3) The contracting officer shall withhold payment, without a request from the Administrator, if the contractor fails to comply with the requirements in paragraph (e)(2) of 52.222-55, Minimum Wages for Contractor Workers Under Executive Order 14026 to furnish payroll records, until such time as the noncompliance is corrected.
 
 (b) *Complaints.* (1) Complaints may be filed with the contracting officer or the Administrator by any person, entity, or organization that believes a violation of this subpart has occurred.
 
@@ -24,7 +24,7 @@
 
 (c) *Investigations.* Complaints will be investigated by the Administrator, if warranted, in accordance with the procedures in 29 CFR part 23.430.
 
-(d) *Remedies and sanctions* - (1) *Unpaid wages.* When the Administrator's investigation reveals that a contractor has failed to pay the applicable E.O. minimum wage, the Administrator will notify the contractor and the contracting agency of the unpaid wage violation, and request that the contractor remedy the violation. If the contractor does not remedy the violation, the Administrator may direct withholding of payments due on the contract or any other contract between the contractor and the Federal Government. Upon final decision and direction of the Administrator, the contracting agency shall transfer the withheld funds to the Department of Labor for disbursement in accordance with the procedures at 22.406-9(c).
+(d) *Remedies and sanctions*—(1) *Unpaid wages.* When the Administrator's investigation reveals that a contractor has failed to pay the applicable E.O. minimum wage, the Administrator will notify the contractor and the contracting agency of the unpaid wage violation, and request that the contractor remedy the violation. If the contractor does not remedy the violation, the Administrator may direct withholding of payments due on the contract or any other contract between the contractor and the Federal Government. Upon final decision and direction of the Administrator, the contracting agency shall transfer the withheld funds to the Department of Labor for disbursement in accordance with the procedures at 22.406-9(c).
 
 (2) *Antiretaliation.* When a contractor has been found to have violated paragraph (i) of clause 52.222-55, Minimum Wages for Contractor Workers Under Executive Order 14026, the Administrator may provide for relief to the worker in accordance with 29 CFR 23.440.
 

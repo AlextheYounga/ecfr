@@ -1,5 +1,7 @@
 ##### § 121.467 Flight attendant duty period limitations and rest requirements: Domestic, flag, and supplemental operations. #####
 
+Link to an amendment published at 87 FR 61465, Oct. 12, 2022.
+
 (a) For purposes of this section -
 
 *Calendar day* means the period of elapsed time, using Coordinated Universal Time or local time, that begins at midnight and ends 24 hours later at the next midnight.

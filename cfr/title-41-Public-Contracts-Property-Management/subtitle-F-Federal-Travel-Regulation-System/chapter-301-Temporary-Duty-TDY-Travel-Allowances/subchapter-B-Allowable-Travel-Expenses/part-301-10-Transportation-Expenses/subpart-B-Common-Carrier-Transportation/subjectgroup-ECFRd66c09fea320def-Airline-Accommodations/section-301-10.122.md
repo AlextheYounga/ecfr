@@ -1,5 +1,5 @@
-##### § 301-10.122 What class of airline accommodations must I use? #####
+##### § 301-10.122 What must I do with compensation an airline gives me if it denies me a seat on a plane? #####
 
-Link to an amendment published at 87 FR 55704, Sept. 12, 2022.
+If you are performing official travel and a carrier denies you a confirmed reserved seat on a plane, you must give your agency any payment you receive for liquidated damages. You must ensure the carrier shows the “Treasurer of the United States” as payee on the compensation check and then forward the payment to the appropriate agency official.
 
-For official business travel, both domestic and international, you must use coach-class accommodations, except as provided under §§ 301-10.123 and 301-10.124.
+[FTR Case 2020-300-1, 87 FR 55704, Sept. 12, 2022]

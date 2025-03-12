@@ -34,7 +34,7 @@ Whenever AmeriCorps denies a FOIA request, it will inform the requester of the r
 
 (2) An appeal ordinarily will not be adjudicated if the request becomes a matter of FOIA litigation.
 
-(f) *Decisions on appeals.* The FOIA Appeals Officer will provide the decision on any appeal in writing within 20 days (excepting Saturdays, Sundays, and legal public holidays) from the date the FOIA Appeals Officer received the appeal. The FOIA Appeals Officer's determination of an appeal constitutes the Agency's final action.
+(g) *Decisions on appeals.* The FOIA Appeals Officer will provide the decision on any appeal in writing within 20 days (excepting Saturdays, Sundays, and legal public holidays) from the date the FOIA Appeals Officer received the appeal. The FOIA Appeals Officer's determination of an appeal constitutes the Agency's final action.
 
 (1) If the FOIA Appeals Officer's decision upholds the Agency's determination, the decision will:
 

@@ -2,7 +2,7 @@
 
 (a)(1) This part applies to contracts that provide for termination for the convenience of the Government or for the default of the contractor (see also 12.403 and 13.302-4).
 
-(2) This part does not apply to commercial product and commercial service contracts awarded using part 12 procedures. See 12.403 for termination policies for contracts for the acquisition of commercial items. However, for contracts for the acquisition of commercial products and commercial services, this part provides administrative guidance which may be followed unless it is inconsistent with the requirements and procedures in 12.403, Termination, and the clause at 52.212-4, Contract Terms and Conditions - Commercial Products and Commercial Services.
+(2) This part does not apply to commercial product and commercial service contracts awarded using part 12 procedures. See 12.403 for termination policies for contracts for the acquisition of commercial products and commercial services. However, for contracts for the acquisition of commercial products and commercial services, this part provides administrative guidance which may be followed unless it is inconsistent with the requirements and procedures in 12.403, Termination, and the clause at 52.212-4, Contract Terms and Conditions— Commercial Products and Commercial Services.
 
 (b) Contractors shall use this part, unless inappropriate, to settle subcontracts terminated as a result of modification of prime contracts. The contracting officer shall use this part as a guide in evaluating settlements of subcontracts terminated for the convenience of a contractor whenever the settlement will be the basis of a proposal for reimbursement from the Government under a cost-reimbursement contract.
 

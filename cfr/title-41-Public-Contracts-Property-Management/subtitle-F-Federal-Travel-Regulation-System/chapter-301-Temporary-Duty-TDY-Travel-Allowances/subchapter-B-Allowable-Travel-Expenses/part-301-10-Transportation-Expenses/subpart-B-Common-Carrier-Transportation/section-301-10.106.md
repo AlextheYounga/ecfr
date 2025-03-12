@@ -1,11 +1,5 @@
-##### § 301-10.106 When must I use a contract city-pair fare? #####
+##### § 301-10.106 Am I authorized to receive or keep a refund or credit for unused transportation? #####
 
-Link to an amendment published at 87 FR 55703, Sept. 12, 2022.
+No. You are not authorized to receive or keep a refund, credit, or any other negotiable document from a transportation service provider for undelivered services (except as provided in § 301-10.123) or any portion of an unused ticket issued in exchange for a GTR or billed to an agency's centrally billed account. However, any charges billed directly to your individually billed Government charge card account should be credited to your account. You must immediately remit to the Government for any unused transportation expense(s) credited to your individually billed Government charge card account.
 
-If you are a civilian employee of an agency as defined in § 301-1.1 of this chapter, you must always use a contract city-pair fare for scheduled air passenger transportation service unless one of the limited exceptions in § 301-10.107 exist. An Internet listing of contract city-pair fares is available at *https://www.gsa.gov/citypairs.*
-
-Note to § 301-10.106:
-
-Employees of the Government of the District of Columbia, with the exception of the District of Columbia Courts, are not eligible to use contract city-pair fares even though these employees otherwise may be covered by the FTR.
-
-[FTR Amdt. 2006-04, 71 FR 49374, Aug. 23, 2006, as amended at 85 FR 39848, July 2, 2020]
+[FTR Case 2020-300-1, 87 FR 55703, Sept. 12, 2022]

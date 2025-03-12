@@ -1,7 +1,5 @@
-##### § 301-10.161 What class of train accommodations must I use? #####
+##### § 301-10.161 When may I use sleeping accommodations aboard train service? #####
 
-Link to an amendment published at 87 FR 55705, Sept. 12, 2022.
+You may use the lowest class of sleeping accommodations aboard a train that meets your mission needs when overnight travel is required, and your agency determines it is advantageous to the Government.
 
-You must use coach-class accommodations for all train travel, except when your agency authorizes other than coach-class service.
-
-[FTR Amdt. 2009-06, 74 FR 55148, Oct. 27, 2009]
+[FTR Case 2020-300-1, 87 FR 55705, Sept. 12, 2022]

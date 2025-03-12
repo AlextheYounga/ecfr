@@ -1,12 +1,10 @@
 ##### § 301-2.5 What travel arrangements require specific authorization or prior approval? #####
 
-Link to an amendment published at 87 FR 55702, Sept. 12, 2022.
-
 You must have a specific authorization or prior approval for:
 
 (a) Use of other than coach-class service on common carrier transportation;
 
-(b) Use of a foreign air carrier;
+(b) Use of a foreign air carrier or foreign ship;
 
 (c) Use of reduced fares for group or charter arrangements;
 
@@ -40,4 +38,4 @@ Note to § 301-2.5:
 
 Paragraphs (c), (i), (n), and (o) of this section require a written or electronic advance authorization.
 
-[FTR Amdt. 70, 63 FR 15955, Apr. 1, 1998, as amended by FTR Amdt. 2005-03, 70 FR 28459, May 18, 2005; FTR Amdt. 2009-03, 74 FR 16328, Apr. 10, 2009; FTR Amdt. 2009-06, 74 FR 55147, Oct. 27, 2009; FTR Amdt. 2011-03, 76 FR 55274, Sept. 7, 2011]
+[FTR Amdt. 70, 63 FR 15955, Apr. 1, 1998, as amended by FTR Amdt. 2005-03, 70 FR 28459, May 18, 2005; FTR Amdt. 2009-03, 74 FR 16328, Apr. 10, 2009; FTR Amdt. 2009-06, 74 FR 55147, Oct. 27, 2009; FTR Amdt. 2011-03, 76 FR 55274, Sept. 7, 2011; FTR Case 2020-300-1, 87 FR 55702, Sept. 12, 2022]

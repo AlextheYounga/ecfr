@@ -2,7 +2,7 @@
 
 (a) *Use of financing in contracts.* It is the responsibility of the contractor to provide all resources needed for performance of the contract. Thus, for purchases of commercial products or commercial services, financing of the contract is normally the contractor's responsibility. However, in some markets the provision of financing by the buyer is a commercial practice. In these circumstances, the contracting officer may include appropriate financing terms in contracts for commercial purchases when doing so will be in the best interest of the Government.
 
-(b) *Authorization.* Commercial interim payments and commercial advance payments may be made under the following circumstances -
+(b) *Authorization.* Commercial interim payments and commercial advance payments may be made under the following circumstances—
 
 (1) The contract item financed is a commercial supply or service;
 
@@ -20,7 +20,7 @@
 
 (8) The contracting officer obtains concurrence from the payment office concerning liquidation provisions when required by 32.206(e).
 
-(c) *Difference from other than commercialfinancing.* Government financing of commercial purchases under this subpart is expected to be different from that used for other than commercial purchases under subpart 32.1 and its related subparts. While the contracting officer may adapt techniques and procedures from the other than commercial subparts for use in implementing commercial contract financing arrangements, the contracting officer must have a full understanding of effects of the differing contract environments and of what is needed to protect the interests of the Government in commercial contract financing.
+(c) *Difference from other than commercial financing.* Government financing of commercial purchases under this subpart is expected to be different from that used for other than commercial purchases under subpart 32.1 and its related subparts. While the contracting officer may adapt techniques and procedures from the other than commercial subparts for use in implementing commercial contract financing arrangements, the contracting officer must have a full understanding of effects of the differing contract environments and of what is needed to protect the interests of the Government in commercial contract financing.
 
 (d) *Unusual contract financing.* Any contract financing arrangement not in accord with the requirements of agency regulations or this part is unusual contract financing and requires advance approval in accordance with agency procedures. If not otherwise specified, such unusual contract financing shall be approved by the head of the contracting activity.
 

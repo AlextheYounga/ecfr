@@ -12,7 +12,7 @@
 
 (A) For a final invoice, when the payment amount is subject to contract settlement actions, acceptance is deemed to occur on the effective date of the contract settlement.
 
-(B) For the sole purpose of computing an interest penalty that might be due the contractor -
+(B) For the sole purpose of computing an interest penalty that might be due the contractor—
 
 (*1*) Government acceptance is deemed to occur constructively on the 7th day after the contractor delivers supplies or performs services in accordance with the terms and conditions of the contract, unless there is a disagreement over quantity, quality, or contractor compliance with a contract requirement;
 
@@ -38,7 +38,7 @@
 
 (*2*) For the sole purpose of computing an interest penalty that might be due the contractor, Government acceptance is deemed to occur constructively on the 7th day after the contractor completes the work or services in accordance with the terms and conditions of the contract (see also paragraph (c)(2) of this section). If actual acceptance occurs within the constructive acceptance period, the Government must base the determination of an interest penalty on the actual date of acceptance.
 
-(ii) The due date for progress payments is the 30th day after Government approval of contractor estimates of work or services accomplished. For the sole purpose of computing an interest penalty that might be due the contractor -
+(ii) The due date for progress payments is the 30th day after Government approval of contractor estimates of work or services accomplished. For the sole purpose of computing an interest penalty that might be due the contractor—
 
 (A) Government approval is deemed to occur constructively on the 7th day after the designated billing office receives the contractor estimates (see also paragraph (c)(2) of this section).
 
@@ -70,7 +70,7 @@
 
 (B) If the designated billing office fails to annotate the invoice with the actual date of receipt at the time of receipt, the invoice payment due date is the 30th day after the date of the contractor's invoice, provided the designated billing office receives a proper invoice and there is no disagreement over quantity, quality, or contractor compliance with contract requirements.
 
-(2) For the sole purpose of computing an interest penalty that might be due the contractor for payments described in paragraph (d)(1)(iii) of this section -
+(2) For the sole purpose of computing an interest penalty that might be due the contractor for payments described in paragraph (d)(1)(iii) of this section—
 
 (i) Government acceptance or approval is deemed to occur constructively on the 7th day after the contractor completes the work or services in accordance with the terms and conditions of the contract, unless there is a disagreement over quantity, quality, contractor compliance with a contract requirement, or the requested amount;
 
@@ -82,7 +82,7 @@
 
 (3) Construction contracts contain special provisions concerning contractor payments to subcontractors, along with special contractor certification requirements. The Office of Management and Budget has determined that these certifications must not be construed as final acceptance of the subcontractor's performance. The certification in 52.232-5(c) implements this determination; however, certificates are still acceptable if the contractor deletes paragraph (c)(4) of 52.232-5 from the certificate.
 
-(4)(i) Paragraph (d) of the clause at 52.232-5, Payments under Fixed-Price Construction Contracts, and paragraph (e)(6) of the clause at 52.232-27, Prompt Payment for Construction Contracts, provide for the contractor to pay interest on unearned amounts in certain circumstances. The Government must recover this interest from subsequent payments to the contractor. Therefore, contracting officers normally must make no demand for payment. Contracting officers must -
+(4)(i) Paragraph (d) of the clause at 52.232-5, Payments under Fixed-Price Construction Contracts, and paragraph (e)(6) of the clause at 52.232-27, Prompt Payment for Construction Contracts, provide for the contractor to pay interest on unearned amounts in certain circumstances. The Government must recover this interest from subsequent payments to the contractor. Therefore, contracting officers normally must make no demand for payment. Contracting officers must—
 
 (A) Compute the amount in accordance with the clause;
 
@@ -103,8 +103,10 @@
 |                                                                                                                                                                                                                                                                                                                              (3) Perishable agricultural commodities. As defined in section 1(4) of the Perishable Agricultural Commodities Act of 1930 (7 U.S.C. 499a(4))                                                                                                                                                                                                                                                                                                                               |10th day after product delivery, unless another date is specified in the contract.|
 |(4) Dairy products. As defined in section 111(e) of the Dairy Production Stabilization Act of 1983 (7 U.S.C. 4502(e)), edible fats or oils, and food products prepared from edible fats or oils. Liquid milk, cheese, certain processed cheese products, butter, yogurt, ice cream, mayonnaise, salad dressings, and other similar products fall within this classification. Nothing in the Act limits this classification to refrigerated products. If questions arise regarding the proper classification of a specific product, the contracting officer must follow prevailing industry practices in specifying a contract payment due date. The burden of proof that a classification of a specific product is, in fact, prevailing industry practice is upon the contractor making the representation|                10th day after a proper invoice has been received.                |
 
-(g) *Multiple payment due dates.* Contracting officers may encourage, but not require, contractors to submit separate invoices for products with different payment due dates under the same contract or order. When an invoice contains items with different payment due dates (*i.e.,* a mixed invoice), the payment office will, subject to agency policy -
+(g) *Multiple payment due dates.* Contracting officers may encourage, but not require, contractors to submit separate invoices for products with different payment due dates under the same contract or order. When an invoice contains items with different payment due dates (*i.e.,* a mixed invoice), the payment office will, subject to agency policy—
 
 (1) Pay the entire invoice on the earliest due date; or
 
 (2) Split invoice payments, making payments by the applicable due dates.
+
+[66 FR 65355, Dec. 18, 2001, as amended at 86 FR 61030, Nov. 4, 2022]

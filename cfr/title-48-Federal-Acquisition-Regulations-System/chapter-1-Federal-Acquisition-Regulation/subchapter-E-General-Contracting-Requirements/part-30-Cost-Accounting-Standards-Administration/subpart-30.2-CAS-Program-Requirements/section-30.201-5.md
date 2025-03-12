@@ -1,6 +1,6 @@
 ##### 30.201-5 Waiver. #####
 
-(a) The head of the agency -
+(a) The head of the agency—
 
 (1) May waive the applicability of CAS for a particular contract or subcontract under the conditions listed in paragraph (b) of this subsection; and
 
@@ -8,13 +8,13 @@
 
 (b) The head of the agency may grant a waiver when one of the following conditions exists:
 
-(1) The contract or subcontract value is less than $15 million, and the head of the agency determines, in writing, that the segment of the contractor or subcontractor that will perform the contract or subcontract -
+(1) The contract or subcontract value is less than $15 million, and the head of the agency determines, in writing, that the segment of the contractor or subcontractor that will perform the contract or subcontract—
 
-(i) Is primarily engaged in the sale of commercial products or commercial servicess; and
+(i) Is primarily engaged in the sale of commercial products or commercial services; and
 
 (ii) Has no contracts or subcontracts that are subject to CAS.
 
-(2) The head of the agency determines that exceptional circumstances exist whereby a waiver of CAS is necessary to meet the needs of the agency. Exceptional circumstances exist only when the benefits to be derived from waiving the CAS outweigh the risk associated with the waiver. The determination that exceptional circumstances exist must -
+(2) The head of the agency determines that exceptional circumstances exist whereby a waiver of CAS is necessary to meet the needs of the agency. Exceptional circumstances exist only when the benefits to be derived from waiving the CAS outweigh the risk associated with the waiver. The determination that exceptional circumstances exist must—
 
 (i) Be set forth in writing; and
 

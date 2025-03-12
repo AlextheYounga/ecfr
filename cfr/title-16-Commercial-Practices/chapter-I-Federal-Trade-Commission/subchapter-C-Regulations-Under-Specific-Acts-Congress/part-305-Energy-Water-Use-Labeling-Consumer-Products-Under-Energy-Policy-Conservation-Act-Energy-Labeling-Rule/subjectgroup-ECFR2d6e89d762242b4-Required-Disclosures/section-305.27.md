@@ -1,5 +1,7 @@
 ##### § 305.27 Paper catalogs and websites. #####
 
+Link to an amendment published at 87 FR 61467, Oct. 12, 2022.
+
 (a) *Covered products offered for sale on the Internet.* Any manufacturer, distributor, retailer, or private labeler who advertises a covered product on an Internet Web site in a manner that qualifies as a catalog under this Part shall disclose energy information as follows:
 
 (1) *Content.* - (i) *Products required to bear EnergyGuide or Lighting Facts labels.* All websites advertising covered refrigerators, refrigerator-freezers, freezers, room air conditioners, portable air conditioners, clothes washers, dishwashers, ceiling fans, pool heaters, central air conditioners, heat pumps, furnaces, general service lamps, specialty consumer lamps (for products offered for sale after May 2, 2018), and televisions must display, for each model, a recognizable and legible image of the label required for that product by this part. The website may hyperlink to the image of the label using the sample EnergyGuide and Lighting Facts icons depicted in appendix L of this part. The website must hyperlink the image in a way that does not require consumers to save the hyperlinked image in order to view it.

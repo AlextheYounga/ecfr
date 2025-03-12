@@ -9,7 +9,6 @@
 *Service contract* means any Government contract, or subcontract thereunder, the principal purpose of which is to furnish services in the United States through the use of service employees, except as exempted by 41 U.S.C. chapter 67, Service Contract Labor Standards; see 22.1003-3 and 22.1003-4. See 22.1003-5 and 29 CFR 4.130 for a partial list of services covered by the Service Contract Labor Standards statute.
 
 *Service employee* means any person engaged in the performance of a service contract other than any person employed in a bona fide executive, administrative, or professional capacity, as those terms are defined in 29 CFR part 541. The term “service employee” includes all such persons regardless of any contractual relationship that may be alleged to exist between a contractor or subcontractor and such persons.
-\\
 
 *Wage Determinations at SAM.gov* means the Government internet website for both Construction Wage Rate Requirements statute and Service Contract Labor Standards statute wage determinations available at *https://www.sam.gov.*
 

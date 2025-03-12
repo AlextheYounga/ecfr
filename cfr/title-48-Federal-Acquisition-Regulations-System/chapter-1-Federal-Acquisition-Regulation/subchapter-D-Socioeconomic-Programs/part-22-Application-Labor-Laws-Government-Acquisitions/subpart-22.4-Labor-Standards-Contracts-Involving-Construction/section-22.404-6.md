@@ -4,7 +4,7 @@
 
 (2) All project wage determination modifications expire on the same day as the original determination. The need to include a modification of a project wage determination for the primary site of the work in a solicitation is determined by the time of receipt of the modification by the contracting agency. Therefore, the contracting agency must annotate the modification of the project wage determination with the date and time immediately upon receipt.
 
-(3) The need for inclusion of the modification of a general wage determination for the primary site of the work in a solicitation is determined by the date the modified wage determination is published on the Wage Determinations at *SAM.gov*, or by the date the agency receives actual written notice of the modification from the Department of Labor, whichever occurs first. (Note the distinction between receipt by the agency (modification is effective) and receipt by the contracting officer, which may occur later.) During the course of the solicitation, the contracting officer shall monitor the Wage Determinations at *SAM.gov* website to determine whether the applicable wage determination has been revised. Revisions published on the Wage Determinations at *SAM.gov* website or otherwise communicated to the contracting officer within the timeframes prescribed at 22.404-6(b) and (c) are applicable and must be included in the resulting contract. Monitoring can be accomplished by use of the WDOL website's “Alert Service”.
+(3) The need for inclusion of the modification of a general wage determination for the primary site of the work in a solicitation is determined by the date the modified wage determination is published on the Wage Determinations at *SAM.gov*, or by the date the agency receives actual written notice of the modification from the Department of Labor, whichever occurs first. (Note the distinction between receipt by the agency (modification is effective) and receipt by the contracting officer, which may occur later.) During the course of the solicitation, the contracting officer shall monitor the Wage Determinations at *SAM.gov* website to determine whether the applicable wage determination has been revised. Revisions published on the Wage Determinations at *SAM.gov* website or otherwise communicated to the contracting officer within the timeframes prescribed at 22.404-6(b) and (c) are applicable and must be included in the resulting contract. Monitoring can be accomplished by use of the Wage Determinations at *SAM.gov* website's “Alert Service”.
 
 (b) The following applies when contracting by sealed bidding:
 
@@ -34,7 +34,7 @@
 
 (d) The following applies when modifying a contract to exercise an option to extend the term of a contract:
 
-(1) A modified wage determination is effective if -
+(1) A modified wage determination is effective if—
 
 (i) The contracting agency receives a written action from the Department of Labor prior to exercise of the option, or within 45 days after submission of a wage determination request (22.404-3(c)), whichever is later; or
 
