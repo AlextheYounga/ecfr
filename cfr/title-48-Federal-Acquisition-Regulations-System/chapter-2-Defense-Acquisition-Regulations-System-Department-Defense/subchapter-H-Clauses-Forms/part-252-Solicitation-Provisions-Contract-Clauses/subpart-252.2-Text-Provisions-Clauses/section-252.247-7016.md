@@ -1,6 +1,6 @@
 ##### 252.247-7016 Contractor liability for loss or damage. #####
 
-As prescribed in 247.270-3(k), use the following clause:
+As prescribed in 247.271-3(i), use the following clause:
 
 Contractor Liability for Loss or Damage (DEC 1991)
 
@@ -30,4 +30,4 @@ Contractor Liability for Loss or Damage (DEC 1991)
 
 (3) The Contractor has full salvage rights to damaged items which are not repairable and for which the Government has received compensation at replacement value.
 
-(End of clause)[56 FR 36479, July 31, 1991, as amended at 75 FR 51419, Aug. 20, 2010]
+(End of clause)[56 FR 36479, July 31, 1991, as amended at 75 FR 51419, Aug. 20, 2010; 84 FR 25195, May 31, 2019]

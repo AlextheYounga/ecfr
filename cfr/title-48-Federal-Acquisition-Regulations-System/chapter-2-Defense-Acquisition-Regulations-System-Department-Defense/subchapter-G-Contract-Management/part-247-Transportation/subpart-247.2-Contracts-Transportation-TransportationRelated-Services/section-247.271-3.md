@@ -18,20 +18,18 @@ When acquiring services for the preparation of personal property for movement or
 
 (f) In addition to designating each ordering activity, as required by the clause at FAR 52.216-18, Ordering, identify by name or position title the individuals authorized to place orders for each activity. When provisions are made for placing oral orders in accordance with FAR 16.504(a)(4)(vii), document the oral orders in accordance with department or agency instructions.
 
-(g) The clause at 252.247-7012, Ordering Limitation.
+(g) The clause at 252.247-7013, Contract Areas of Performance.
 
-(h) The clause at 252.247-7013, Contract Areas of Performance.
+(h) The clause at 252.247-7014, Demurrage. See additional information at PGI 247.271-3(c)(1) for demurrage and detention charges.
 
-(i) The clause at 252.247-7014, Demurrage. See additional information at PGI 247.271-3(c)(1) for demurrage and detention charges.
+(i) The clause at 252.247-7016, Contractor Liability for Loss and Damage.
 
-(j) The clause at 252.247-7016, Contractor Liability for Loss and Damage.
+(j) The clause at 252.247-7017, Erroneous Shipments.
 
-(k) The clause at 252.247-7017, Erroneous Shipments.
+(k) The clause at 252.247-7018, Subcontracting.
 
-(l) The clause at 252.247-7018, Subcontracting.
+(l) The clause at 252.247-7019, Drayage.
 
-(m) The clause at 252.247-7019, Drayage.
+(m) The clauses at FAR 52.247-8, Estimated Weight or Quantities Not Guaranteed, and FAR 52.247-13, Accessorial Services - Moving Contracts.
 
-(n) The clauses at FAR 52.247-8, Estimated Weight or Quantities Not Guaranteed, and FAR 52.247-13, Accessorial Services - Moving Contracts.
-
-[56 FR 36466, July 31, 1991, as amended at 65 FR 50145, Aug. 17, 2000. Redesignated and amended at 75 FR 51417, Aug. 20, 2010; 78 FR 38235, June 26, 2013; 79 FR 22037, Apr. 21, 2014; 83 FR 30588, June 29, 2018; 83 FR 49179, Sept. 28, 2018]
+[56 FR 36466, July 31, 1991, as amended at 65 FR 50145, Aug. 17, 2000. Redesignated and amended at 75 FR 51417, Aug. 20, 2010; 78 FR 38235, June 26, 2013; 79 FR 22037, Apr. 21, 2014; 83 FR 30588, June 29, 2018; 83 FR 49179, Sept. 28, 2018; 84 FR 25195, May 31, 2019]

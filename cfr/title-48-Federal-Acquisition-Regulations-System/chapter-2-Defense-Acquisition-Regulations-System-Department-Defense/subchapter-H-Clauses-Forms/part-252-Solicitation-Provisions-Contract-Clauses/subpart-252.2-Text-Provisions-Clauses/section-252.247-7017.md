@@ -1,6 +1,6 @@
 ##### 252.247-7017 Erroneous shipments. #####
 
-As prescribed in 247.270-3(l), use the following clause:
+As prescribed in 247.271-3(j), use the following clause:
 
 Erroneous Shipments (DEC 1991)
 
@@ -20,4 +20,4 @@ Erroneous Shipments (DEC 1991)
 
 (3) At the Contractor's expense.
 
-(End of clause)[56 FR 36479, July 31, 1991, as amended at 75 FR 51419, Aug. 20, 2010]
+(End of clause)[56 FR 36479, July 31, 1991, as amended at 75 FR 51419, Aug. 20, 2010; 84 FR 25195, May 31, 2019]

@@ -2,11 +2,13 @@
 
 *Basic.* As prescribed in 219.708(b)(1)(A) and (b)(1)(A)(*1*), use the following clause:
 
-Small Business Subcontracting Plan (DoD Contracts) - BASIC (DEC 2018)
+Small Business Subcontracting Plan (DoD Contracts) - BASIC (MAY 2019)
 
 This clause supplements the Federal Acquisition Regulation 52.219-9, Small Business Subcontracting Plan, clause of this contract.
 
-(a) *Definitions. Summary Subcontract Report (SSR) Coordinator,* as used in this clause, means the individual who is registered in the Electronic Subcontracting Reporting System (eSRS) at the Department of Defense level and is responsible for acknowledging receipt or rejecting SSRs submitted under an individual subcontracting plan in eSRS for the Department of Defense.
+(a) *Definition.* As used in this clause -
+
+*Summary Subcontract Report (SSR) Coordinator* means the individual who is registered in the Electronic Subcontracting Reporting System (eSRS) at the Department of Defense level and is responsible for acknowledging receipt or rejecting SSRs submitted under an individual subcontracting plan in eSRS for the Department of Defense.
 
 (b) Subcontracts awarded to qualified nonprofit agencies designated by the Committee for Purchase From People Who Are Blind or Severely Disabled (41 U.S.C. 8502-8504), may be counted toward the Contractor's small business subcontracting goal.
 
@@ -32,17 +34,19 @@ This clause supplements the Federal Acquisition Regulation 52.219-9, Small Busin
 
 (ii) The authority to acknowledge receipt of or reject SSRs submitted under an individual subcontracting plan resides with the SSR Coordinator.
 
-(g) Include the clause at 252.219-7004, Small Business Subcontracting Plan (Test Program), in subcontracts with subcontractors that participate in the Test Program described in DFARS 219.702-70, where the subcontract is expected to exceed $700,000 ($1.5 million for construction of any public facility) and to have further subcontracting opportunities.
+(g) Include the clause at Defense Federal Acquisition Regulation Supplement (DFARS) 252.219-7004, Small Business Subcontracting Plan (Test Program), in subcontracts with subcontractors that participate in the Test Program described in DFARS 219.702-70, if the subcontract is expected to exceed the applicable threshold specified in Federal Acquisition Regulation 19.702(a), and to have further subcontracting opportunities.
 
 (End of clause)Alternate I.
 
 *Alternate I.* As prescribed in 219.708(b)(1)(A) and (b)(1)(A)(*2*), use the following clause, which uses a different paragraph (f) than the basic clause.
 
-Small Business Subcontracting Plan (DoD Contracts) - Alternate I (DEC 2018)
+Small Business Subcontracting Plan (DoD Contracts) - Alternate I (MAY 2019)
 
 This clause supplements the Federal Acquisition Regulation 52.219-9, Small Business Subcontracting Plan, clause of this contract.
 
-(a) *Definitions. Summary Subcontract Report (SSR) Coordinator,* as used in this clause, means the individual who is registered in the Electronic Subcontracting Reporting System (eSRS) at the Department of Defense level and is responsible for acknowledging receipt or rejecting SSRs submitted under an individual subcontracting plan in eSRS for the Department of Defense.
+(a) *Definition.* As used in this clause -
+
+*Summary Subcontract Report (SSR) Coordinator* means the individual who is registered in the Electronic Subcontracting Reporting System (eSRS) at the Department of Defense level and is responsible for acknowledging receipt or rejecting SSRs submitted under an individual subcontracting plan in eSRS for the Department of Defense.
 
 (b) Subcontracts awarded to qualified nonprofit agencies designated by the Committee for Purchase From People Who Are Blind or Severely Disabled (41 U.S.C. 8502-8504), may be counted toward the Contractor's small business subcontracting goal.
 
@@ -64,10 +68,10 @@ This clause supplements the Federal Acquisition Regulation 52.219-9, Small Busin
 
 (2) For DoD, the authority to acknowledge receipt of or reject SSRs submitted under an individual subcontracting plan in eSRS resides with the SSR Coordinator.
 
-(g) Include the clause at 252.219-7004, Small Business Subcontracting Plan (Test Program), in subcontracts with subcontractors that participate in the Test Program described in DFARS 219.702-70, where the subcontract is expected to exceed $700,000 ($1.5 million for construction of any public facility) and to have further subcontracting opportunities.
+(g) Include the clause at Defense Federal Acquisition Regulation Supplement (DFARS) 252.219-7004, Small Business Subcontracting Plan (Test Program), in subcontracts with subcontractors that participate in the Test Program described in DFARS 219.702-70, if the subcontract is expected to exceed the applicable threshold specified in Federal Acquisition Regulation 19.702(a), and to have further subcontracting opportunities.
 
 (End of clause)
 
 (f)(1)(i) The Standard Form 294 Subcontracting Report for Individual Contracts shall be submitted in accordance with the instructions on that form; paragraph (f)(2)(i) is inapplicable.
 
-[75 FR 65440, Oct. 25, 2010, as amended at 76 FR 58138, Sept. 20, 2011; 77 FR 35882, June 15, 2012; 77 FR 52254, Aug. 29, 2012; 79 FR 61582, Oct. 14, 2014; 81 FR 17046, Mar. 25, 2016; 83 FR 15999, Apr. 13, 2018; 83 FR 65564, Dec. 21, 2018]
+[75 FR 65440, Oct. 25, 2010, as amended at 76 FR 58138, Sept. 20, 2011; 77 FR 35882, June 15, 2012; 77 FR 52254, Aug. 29, 2012; 79 FR 61582, Oct. 14, 2014; 81 FR 17046, Mar. 25, 2016; 83 FR 15999, Apr. 13, 2018; 83 FR 65564, Dec. 21, 2018; 84 FR 25187, May 31, 2019]

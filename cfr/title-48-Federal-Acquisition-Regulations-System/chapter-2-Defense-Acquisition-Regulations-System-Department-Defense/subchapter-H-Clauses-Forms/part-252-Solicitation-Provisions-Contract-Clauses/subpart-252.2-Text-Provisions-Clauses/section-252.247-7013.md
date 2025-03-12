@@ -1,6 +1,6 @@
 ##### 252.247-7013 Contract areas of performance. #####
 
-As prescribed in 247.270-3(h), use the following clause and complete paragraph (b) by defining each area of performance as required:
+As prescribed in 247.271-3(g), use the following clause and complete paragraph (b) by defining each area of performance as required:
 
 Contract Areas of Performance (DEC 1991)
 
@@ -8,4 +8,4 @@ Contract Areas of Performance (DEC 1991)
 
 (b) The Contractor shall perform services within the following defined areas of performance, which include terminals identified therein: \_\_\_\_.
 
-(End of clause)[56 FR 36479, July 31, 1991, as amended at 75 FR 51418, Aug. 20, 2010]
+(End of clause)[56 FR 36479, July 31, 1991, as amended at 75 FR 51418, Aug. 20, 2010; 84 FR 25195, May 31, 2019]

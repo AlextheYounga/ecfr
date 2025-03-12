@@ -1,8 +1,8 @@
-##### 252.219-7004 Small business subcontracting plan (Test Program). #####
+##### 252.219-7004 Small Business Subcontracting Plan (Test Program). #####
 
 As prescribed in 219.708(b)(1)(B), use the following clause:
 
-Small Business Subcontracting Plan (Test Program) (APR 2018)
+Small Business Subcontracting Plan (Test Program) (MAY 2019)
 
 (a) *Definitions.* As used in this clause -
 
@@ -50,7 +50,7 @@ Small Business Subcontracting Plan (Test Program) (APR 2018)
 
 (3) The Contractor shall submit SSRs using eSRS at *http://www.esrs.gov*. The reports shall provide information on subcontract awards to small business concerns, veteran-owned small business concerns, service-disabled veteran-owned small business concerns, HUBZone small business concerns, small disadvantaged business concerns, and women-owned small business concerns. Purchases from a corporation, company, or subdivision that is an affiliate of the prime Contractor or subcontractor are not included in these reports. Subcontract award data reported by prime contractors and subcontractors shall be limited to awards made to their immediate next-tier subcontractors. Credit cannot be taken for awards made to lower-tier subcontractors unless the Contractor or subcontractor has been designated to receive a small business or small disadvantaged business credit from a member firm of the Alaska Native - Corporations or an Indian tribe. Only subcontracts involving performance in the U.S. or its outlying areas should be included in these reports.
 
-(i) This report may be submitted on a corporate, company, or subdivision (*e.g.,* plant or division operating as a separate profit center) basis, as negotiated in the comprehensive subcontracting plan with the Defense Contract Management Agency.
+(i) This report may be submitted on a corporate, company, or subdivision (e.g., plant or division operating as a separate profit center) basis, as negotiated in the comprehensive subcontracting plan with the Defense Contract Management Agency.
 
 (ii) This report encompasses all subcontracting under prime contracts and subcontracts with the Department of Defense, regardless of the dollar value of the subcontracts, and is based on the negotiated comprehensive subcontracting plan.
 
@@ -70,12 +70,12 @@ Small Business Subcontracting Plan (Test Program) (APR 2018)
 
 (4) The Contractor shall have the right of appeal under the clause in this contract entitled “Disputes” from any final decision of the Contracting Officer.
 
-(g) *Subcontracts.* The Contractor shall include in subcontracts that offer subcontracting opportunities, are expected to exceed $700,000 ($1.5 million for construction of any public facility), and are required to include the clause at 52.219-8, Utilization of Small Business Concerns, the clauses at -
+(g) *Subcontracts.* The Contractor shall include in subcontracts that offer subcontracting opportunities, are expected to exceed the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, and are required to include the clause at FAR 52.219-8, Utilization of Small Business Concerns, the clauses at -
 
-(1) FAR 52.219-9, Small Business Subcontracting Plan, and 252.219-7003, Small Business Subcontracting Plan (DoD Contracts) - Basic;
+(1) FAR 52.219-9, Small Business Subcontracting Plan, and Defense Federal Acquisition Regulation Supplement (DFARS) 252.219-7003, Small Business Subcontracting Plan (DoD Contracts) - Basic;
 
-(2) FAR 52.219-9, Small Business Subcontracting Plan, with its Alternate III, and 252.219-7003, Small Business Subcontracting Plan (DoD Contracts) - Alternate I, to allow for submission of SF 294s in lieu of ISRs; or
+(2) FAR 52.219-9, Small Business Subcontracting Plan, with its Alternate III, and DFARS 252.219-7003, Small Business Subcontracting Plan (DoD Contracts) - Alternate I, to allow for submission of SF 294s in lieu of ISRs; or
 
-(3) 252.219-7004, Small Business Subcontracting Plan (Test Program), in subcontracts with subcontractors that participate in the Test Program described in DFARS 219.702-70.
+(3) DFARS 252.219-7004, Small Business Subcontracting Plan (Test Program), in subcontracts with subcontractors that participate in the Test Program described in DFARS 219.702-70.
 
-(End of clause)[83 FR 15999, Apr. 13, 2018]
+(End of clause)[83 FR 15999, Apr. 13, 2018, as amended at 84 FR 25188, May 31, 2019]

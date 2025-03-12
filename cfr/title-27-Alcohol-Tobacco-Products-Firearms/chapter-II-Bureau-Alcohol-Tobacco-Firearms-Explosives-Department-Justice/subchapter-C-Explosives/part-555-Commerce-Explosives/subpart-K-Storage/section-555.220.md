@@ -1,7 +1,5 @@
 ##### § 555.220 Table of separation distances of ammonium nitrate and blasting agents from explosives or blasting agents. #####
 
-Link to an amendment published at 84 FR 12097, Apr. 1, 2019.
-
 |Donor weight (pounds)|Minimum separation distance of acceptor from donor when barricaded (ft.)|Minimum thickness of artificial barricades (in.)|              |   |
 |---------------------|------------------------------------------------------------------------|------------------------------------------------|--------------|---|
 |        Over         |                                Not over                                |                Ammonium nitrate                |Blasting agent|   |
@@ -47,9 +45,7 @@ Table: National Fire Protection Association (NFPA) Official Standard No. 492, 19
 
 (2) When the ammonium nitrate and/or blasting agent is not barricaded, the distances shown in the table must be multiplied by six. These distances allow for the possibility of high velocity metal fragments from mixers, hoppers, truck bodies, sheet metal structures, metal containers, and the like which may enclose the “donor.” Where explosives storage is in bullet-resistant magazines or where the storage is protected by a bullet-resistant wall, distances and barricade thicknesses in excess of those prescribed in the table in § 555.218 are not required.
 
-(3) These distances apply to ammonium nitrate that passes the insensitivity test prescribed in the definition of ammonium nitrate fertilizer issued by the Fertilizer Institute.1 Ammonium nitrate failing to pass the test must be stored at separation distances in accordance with the table in § 555.218.
-
-1 Definition and Test Procedures for Ammonium Nitrate Fertilizer, Fertilizer Institute.
+(3) These distances apply to all ammonium nitrate with respect to its separation from stores of high explosives and blasting agents. Ammonium nitrate explosive mixtures that are high explosives pursuant to § 555.202(a) or are defined as a blasting agent pursuant to § 555.11 are subject to the table of distances for storage of explosive materials in § 555.218 and to the table of separation distances of ammonium nitrate and blasting agents from explosives or blasting agents in this section.
 
 (4) These distances apply to blasting agents which pass the insensitivity test prescribed in regulations of the U.S. Department of Transportation (49 CFR part 173).
 
@@ -57,4 +53,4 @@ Table: National Fire Protection Association (NFPA) Official Standard No. 492, 19
 
 (6) For determining the distances to be maintained from inhabited buildings, passenger railways, and public highways, use the table in § 555.218.
 
-[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981, as amended by ATF 2017R-21, 84 FR 13800, Apr. 8, 2019]
+[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981, as amended by ATF 2017R-21, 84 FR 13800, Apr. 8, 2019; ATF 2002R-226F, 84 FR 12097, Apr. 1, 2019]
