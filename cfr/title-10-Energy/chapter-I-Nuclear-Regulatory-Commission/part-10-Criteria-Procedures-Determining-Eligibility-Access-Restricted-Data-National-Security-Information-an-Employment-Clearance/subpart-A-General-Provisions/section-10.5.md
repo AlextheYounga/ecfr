@@ -1,6 +1,6 @@
 ##### § 10.5 Definitions. #####
 
-*Access authorization* means an administrative determination that an individual (including a consultant) who is employed by or an applicant for employment with the NRC, NRC contractors, agents, and licensees of the NRC, or other person designated by theDeputy Executive Director for Materials, Waste, Research, State, Tribal, Compliance, Administration, and Human Capital Programs , is eligible for a security clearance for access to Restricted Data or National Security Information.
+*Access authorization* means an administrative determination that an individual (including a consultant) who is employed by or an applicant for employment with the NRC, NRC contractors, agents, and licensees of the NRC, or other person designated by the Deputy Executive Director for Materials, Waste, Research, State, Tribal, Compliance, Administration, and Human Capital Programs, is eligible for a security clearance for access to Restricted Data or National Security Information.
 
 *Commission* means the Nuclear Regulatory Commission of five members or a quorum thereof sitting as a body, as provided by section 201 of the Energy Reorganization Act of 1974, or its designee.
 

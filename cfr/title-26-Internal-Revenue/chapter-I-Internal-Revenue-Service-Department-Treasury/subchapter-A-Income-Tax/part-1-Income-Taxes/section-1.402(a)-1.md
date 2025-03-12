@@ -97,13 +97,13 @@ Example 2.B, a distributee who makes his income tax returns on the basis of a ca
 
 Example.A trust distributes ten shares of stock issued by the employer corporation each of which has an average cost to the trust of $100, consisting of employee contributions in the amount of $60 and employer contributions in the amount of $40, and on the date of distribution has a fair market value of $180. The portion of the net unrealized appreciation attributable to the contributions of the employee with respect to each of the shares of stock is $48 computed as follows:
 
-|                                                                  (1) Value of one share of stock on distribution date                                                                   |$180|
-|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---:|
-|                                                                               (2) Employee contributions                                                                                | 60 |
-|                                                                               (3) Employer contributions                                                                                | 40 |
-|                                                                                 (4) Total contributions                                                                                 |100 |
-|                                                                             (5) Net unrealized appreciation                                                                             | 80 |
-|(6) Portion of net unrealized appreciation attributable to employee contributions<br/>60/100 (amount of employee contributions (item 2) over total contributions (item 4) of $80 (item 5)| 48 |
+|                                                                (1) Value of one share of stock on distribution date                                                                |$180|
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---:|
+|                                                                             (2) Employee contributions                                                                             | 60 |
+|                                                                             (3) Employer contributions                                                                             | 40 |
+|                                                                              (4) Total contributions                                                                               |100 |
+|                                                                          (5) Net unrealized appreciation                                                                           | 80 |
+|(6) Portion of net unrealized appreciation attributable to employee contributions60/100 (amount of employee contributions (item 2) over total contributions (item 4) of $80 (item 5)| 48 |
 
 (*vi*) For the purpose of determining gain or loss to the distributee in the year or years in which any share of stock referred to in the example in subdivision (*v*) of this subparagraph is sold or otherwise disposed of in a taxable transaction, the basis of each such share in the hands of the distributee at the time of the distribution by the trust will be $132 computed as follows:
 
@@ -197,4 +197,4 @@ Example 2.(i) *Facts.* Employer B sponsors a profit-sharing plan qualified under
 
 (7) *Effective/applicability date.* This paragraph (e) applies for taxable years beginning on or after January 1, 2015.
 
-[T.D. 6500, 25 FR 11675, Nov. 26, 1960]Editorial Note:For Federal Register citations affecting § 1.402(a)-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[T.D. 6500, 25 FR 11675, Nov. 26, 1960]Editorial Note:For Federal Register citations affecting § 1.402(a)-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

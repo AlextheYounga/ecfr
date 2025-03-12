@@ -1,5 +1,7 @@
 ##### § 1.460 Definitions. #####
 
+Link to an amendment published at 82 FR 14822, Mar. 23, 2017.
+
 For purposes of §§ 1.460 through 1.499 of this part, the following definitions apply:
 
 *Agreement.* The term “agreement” means a document that a VA health care facility develops in collaboration with an Organ Procurement Organization, eye bank or tissue bank with written, detailed responsibilities and obligations of the parties with regard to identifying potential donors and facilitating the donation process.
