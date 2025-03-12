@@ -1,7 +1,5 @@
 ##### § 229.32 Atlantic large whale take reduction plan regulations. #####
 
-Link to an amendment published at 87 FR 11596, Mar. 2, 2022.
-
 (a) *Purpose and scope* - (1) *Whales and fixed gear fisheries.* The purpose of this section is to implement the Atlantic Large Whale Take Reduction Plan to reduce incidental mortality and serious injury of fin, humpback, and right whales in specific Category I and Category II commercial fisheries from Maine through Florida. Specific Category I and II commercial fisheries within the scope of the Plan are identified and updated in the annual List of Fisheries. The measures identified in the Atlantic Large Whale Take Reduction Plan are also intended to benefit minke whales, which are not designated as a strategic stock, but are known to be taken incidentally in gillnet and trap/pot fisheries. The gear types affected by this plan include gillnets (*e.g.,* anchored, drift, and shark) and traps/pots. The Assistant Administrator may revise the requirements set forth in this section in accordance with paragraph (i) of this section;
 
 (2) *Regulated waters* - (i) *U.S. Atlantic waters.* The regulations in this section apply to all U.S. waters in the Atlantic except for the areas exempted in paragraph (a)(3) of this section;
@@ -290,6 +288,18 @@ Table 11 to Paragraph (c)(3)(i)
 (ii) *Closure to fishing with buoy lines.* From February 1 to April 30, it is prohibited to fish with, set, or possess trap/pot gear in the area in this paragraph (c)(3)(i) of this section unless it is fished without buoy lines or with buoy lines that are stored on the bottom until it can be remotely released for hauling, or it is stowed in accordance with § 229.2 of this chapter. Authorizations for fishing without buoy lines must be obtained if such fishing would not be in accordance with surface marking requirements of §§ 697.21 and 648.84 of this title or other applicable fishery management regulations. The minimum number of trap/trawl gear configuration requirements specified in paragraph (c)(2)(iv) of this section remain in effect unless an exemption to those requirements is authorized.
 
 (iii) *Area-specific gear or vessel requirements.* From May 1 through January 31, no person or vessel may fish with or possess trap/pot gear in the Massachusetts Restricted Area unless that gear complies with the gear marking requirements specified in paragraph (b) of this section, the universal trap/pot gear requirements specified in paragraph (c)(1) of this section, and the area-specific requirements listed in paragraph (c)(2) of this section, or unless the gear is stowed as specified in § 229.2.
+
+(iv) *Massachusetts Restricted Area emergency extension.* During the period April 1-30, 2022, the Massachusetts Restricted Area defined in paragraph (c)(3)(i) of this section is extended from the Massachusetts State waters boundary at MRAW1 to MRAW2 (also MRA3 in Table 11 to paragraph (c)(3)(i)), then it is bounded by a rhumb line connecting points MRAW2 to MRAW3 (MRA4), and then bounded by a rhumb line connecting points MRAW3 through MRAW4 (MRA5) back to MRAW1, in the order detailed in Table 11a to this paragraph (c)(3)(iv). From April 1, 2022, through April 30, 2022, it is prohibited to fish with, set, or possess trap/pot gear in the area in this paragraph (c)(3)(iv) unless it is fished without buoy lines or with buoy lines that are stored on the bottom until remotely released for hauling, or buoy lines that are stowed in accordance with § 229.2. Authorizations for fishing without buoy lines must be obtained if such fishing would not be in accordance with surface marking requirements of §§ 697.21 and 648.84 of this title or other applicable fishery management regulations in this title. The minimum number of trap/trawl gear configuration requirements specified in paragraph (c)(2)(iv) of this section remain in effect unless an exemption to those requirements is authorized.
+
+Table 11 a to Paragraph (c)(3)(iv)
+
+|   Point    |   Lat   |  Long   |
+|------------|---------|---------|
+|   MRAW1    |42°39.77′| 70°30′  |
+|MRAW2 (MRA3)| 42°12′  |70°38.69′|
+|MRAW3 (MRA4)| 42°12′  | 70°30′  |
+|MRAW4 (MRA5)| 42°30′  | 70°30′  |
+|   MRAW1    |42°39.77′| 70°30′  |
 
 (4) *South Island Restricted Area* - (i) *Area.* The South Island Restricted Area is bounded by the following points connected by rhumb lines in the order listed, and bounded on the north by the shoreline of Nantucket, Massachusetts.
 
@@ -616,7 +626,7 @@ Table 22 to Paragraph (e)(3)(i)
 
 (ii) *Year-round area-specific gear or vessel requirements.* No person or vessel may fish with or possess drift gillnet gear in the Other Northeast Gillnet Waters Area unless that gear complies with the gear marking requirements specified in paragraph (b) of this section, or unless the gear is stowed as specified in § 229.2. Additionally, no person or vessel may fish with or possess drift gillnet gear at night in the Other Northeast Gillnet Waters Area unless that gear is tended, or unless the gear is stowed as specified in § 229.2. During that time, all drift gillnet gear set by that vessel in the Other Northeast Gillnet Waters Area must be removed from the water and stowed on board the vessel before a vessel returns to port.
 
-(iii) *Seasonal area-specific gear or vessel requirements.* From September 1 to May 31, no person or vessel may fish with or possess drift gillnet gear in the Other Northeast Gillnet Waters Area that is south of a straight line from 41°18.2′ N lat., 71°51.5′ W long. (Watch Hill Point, RI) south to 40°00′ N lat. and then east to the eastern edge of the EEZ, unless that gear complies with the gear marking requirements specified in paragraph (b) of this section, or unless the gear is stowed as specified in § 229.2. Additionally, no person or vessel may fish with or possess drift gillnet gear at night in the Other Northeast Gillnet Waters Area unless that gear is tended, or unless the gear is stowed as specified in § 229.2. During that time, all drift gillnet gear set by that vessel in the Other Northeast Gillnet Waters Area must be removed from the water and stowed on board the vessel before a vessel returns to port.
+(iii) *Seasonal area-specific gear or vessel requirements.* From September 1 to May 31, no person or vessel may fish with or possess drift gillnet gear in the Other Northeast Gillnet Waters Area that is south of a straight line from 41°18.2′ N lat., 71°51.5′ W long. (Watch Hill Point, RI) south to 40°00′ N lat. and then east to the eastern edge of the EEZ, unless that gear complies with the gear marking requirements specified inparagraph (b) of this section, or unless the gear is stowed as specified in § 229.2. Additionally, no person or vessel may fish with or possess drift gillnet gear at night in the Other Northeast Gillnet Waters Area unless that gear is tended, or unless the gear is stowed as specified in § 229.2. During that time, all drift gillnet gear set by that vessel in the Other Northeast Gillnet Waters Area must be removed from the water and stowed on board the vessel before a vessel returns to port.
 
 (6) *Mid/South Atlantic Gillnet Waters Area* - (i) *Area.* The Mid/South Atlantic Gillnet Waters consists of all U.S. waters bounded on the north from Long Island, NY at 72°30′ W long. south to 36°33.03′ N lat. and east to the eastern edge of the EEZ, and bounded on the south by 32°00′ N lat., and east to the eastern edge of the EEZ. When the Mid/South Atlantic Gillnet Waters Area overlaps the Southeast U.S. Restricted Area and its restricted period as specified in paragraphs (f)(1) and (2) of this section, then the closure and exemption for the Southeast U.S. Restricted Area as specified in paragraph (f)(2) of this section applies.
 
@@ -781,4 +791,4 @@ Table 23 to Paragraph (f)(1)
 
 (viii) Similar situations occur.
 
-[86 FR 52011, Sept. 17, 2021, as amended at 87 FR 11979, Mar. 3, 2022]
+[86 FR 52011, Sept. 17, 2021, as amended at 87 FR 11596, Mar. 2, 2022; 87 FR 11979, Mar. 3, 2022]Effective Date Note:At 87 FR 11596, Mar. 2, 2022, § 229.32 was amended by adding paragraph (c)(3)(iv), effective until Apr. 30, 2022.

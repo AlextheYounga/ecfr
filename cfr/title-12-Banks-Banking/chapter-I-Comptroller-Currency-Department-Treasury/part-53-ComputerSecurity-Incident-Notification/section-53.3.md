@@ -1,0 +1,3 @@
+##### § 53.3 Notification. #####
+
+A banking organization must notify the appropriate OCC supervisory office, or OCC-designated point of contact, about a notification incident through email, telephone, or other similar methods that the OCC may prescribe. The OCC must receive this notification from the banking organization as soon as possible and no later than 36 hours after the banking organization determines that a notification incident has occurred.

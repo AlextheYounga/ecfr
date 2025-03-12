@@ -1,5 +1,7 @@
 ##### § 217.5 Electronic System for Travel Authorization. #####
 
+Link to an amendment published at 87 FR 18980, Apr. 1, 2022.
+
 (a) *Travel authorization required.* Each nonimmigrant alien intending to travel by air or sea to the United States under the Visa Waiver Program (VWP) must, within the time specified in paragraph (b) of this section, receive a travel authorization, which is a positive determination of eligibility to travel to the United States under the VWP via the Electronic System for Travel Authorization (ESTA), from CBP. In order to receive a travel authorization, each nonimmigrant alien intending to travel to the United States by air or sea under the VWP must provide the data elements set forth in paragraph (c) of this section to CBP, in English, in the manner specified herein, and must pay a fee as described in paragraph (h) of this section.
 
 (b) *Time.* Each alien falling within the provisions of paragraph (a) of this section must receive a travel authorization prior to embarking on a carrier for travel to the United States.

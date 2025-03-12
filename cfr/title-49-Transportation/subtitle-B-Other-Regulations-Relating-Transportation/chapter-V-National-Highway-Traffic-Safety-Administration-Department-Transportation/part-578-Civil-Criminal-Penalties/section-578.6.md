@@ -1,5 +1,7 @@
 ##### § 578.6 Civil penalties for violations of specified provisions of Title 49 of the United States Code. #####
 
+Link to an amendment published at 87 FR 19007, Apr. 1, 2022.
+
 (a) *Motor vehicle safety* - (1) *In general.* A person who violates any of sections 30112, 30115, 30117 through 30122, 30123(a), 30125(c), 30127, or 30141 through 30147 of Title 49 of the United States Code or a regulation in this chapter prescribed under any of those sections is liable to the United States Government for a civil penalty of not more than $24,423 for each violation. A separate violation occurs for each motor vehicle or item of motor vehicle equipment and for each failure or refusal to allow or perform an act required by any of those sections. The maximum civil penalty under this paragraph (a)(1) for a related series of violations is $122,106,996.
 
 (2) *School buses.* (i) Notwithstanding paragraph (a)(1) of this section, a person who:

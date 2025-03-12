@@ -1,7 +1,5 @@
 ##### § 701.23 Purchase, sale, and pledge of eligible obligations. #####
 
-Link to an amendment published at 86 FR 59288, Oct. 27, 2021.Link to an amendment published at 86 FR 72520, Dec. 22, 2021.
-
 This section governs a federal credit union's purchase, sale, or pledge of all or part of a loan to one of its own members, subject to a limited exception for certain well capitalized federal credit unions, where no continuing contractual obligation between the seller and purchaser is contemplated. For purchases of eligible obligations, except as described in paragraph (b)(2) of this section, the borrower must be a member of the purchasing federal credit union before the purchase is made. A federal credit union may not purchase a non-member loan to hold in its portfolio.
 
 (a) For purposes of this section:
@@ -20,7 +18,7 @@ This section governs a federal credit union's purchase, sale, or pledge of all o
 
 (iv) Real estate-secured loans, from any source, if the purchaser is granting real estate-secured loans pursuant to § 701.21 on an ongoing basis and if the purchase will facilitate the purchasing credit union's packaging of a pool of such loans to be sold or pledged on the secondary mortage market. A pool must include a substantial portion of the credit union's members' loans and must be sold promptly.
 
-(2) *Purchase of obligations from a FICU.* A federal credit union that received a composite CAMEL rating of “1” or “2” for the last two (2) full examinations and maintained a capital classification of “well capitalized” under part 702 of this chapter for the six (6) immediately preceding quarters may purchase and hold the following obligations, provided that it would be empowered to grant them:
+(2) *Purchase of obligations from a FICU.* A federal credit union that received a composite CAMELS rating of “1” or “2” for the last two (2) full examinations and maintained a capital classification of “well capitalized” under part 702 of this chapter for the six (6) immediately preceding quarters may purchase and hold the following obligations, provided that it would be empowered to grant them:
 
 (i) *Eligible obligations.* Eligible obligations without regard to whether they are obligations of its members, provided they are purchased from a federally
 insured credit union and the obligations are either:
@@ -109,6 +107,6 @@ insured credit union and the obligations are either:
 
 (1) Purchase, in whole or in part, and within the limitations of the board of directors' written purchase policies, any eligible obligations pursuant to paragraph (b)(1)(i) and (b)(2)(i) of this section without regard to whether they are loans the credit union is empowered to grant or are refinancing to ensure the obligations are ones the purchasing credit union is empowered to grant; and
 
-(2) Purchase and hold the obligations described in § 701.23(b)(2)(i) through (iv) if the Federal credit union's CAMEL composite rating is “1,” “2,” or “3”.
+(2) Purchase and hold the obligations described in § 701.23(b)(2)(i) through (iv) if the Federal credit union's CAMELS composite rating is “1,” “2,” or “3”.
 
-[44 FR 27071, May 9, 1979, as amended at 46 FR 38680, July 29, 1981. Redesignated at 49 FR 30688, Aug. 1, 1984, and amended at 53 FR 4844, Feb. 18, 1988; 56 FR 15036, Apr. 15, 1991; 56 FR 35811, July 29, 1991; 60 FR 58504, Nov. 28, 1995; 63 FR 70998, Dec. 23, 1998; 72 FR 65442, Nov. 21, 2007; 77 FR 31990, May 31, 2012; 78 FR 37958, June 25, 2013; 80 FR 66706, Oct. 29, 2015; 82 FR 50291, Oct. 30, 2017; 84 FR 1605, Feb. 5, 2019; 85 FR 22014, Apr. 21, 2020; 85 FR 83409, Dec. 22, 2020; 86 FR 72520, Dec. 22, 2021]Effective Date Note:At 85 FR 22014, Apr. 21, 2020, § 701.23 was amended by adding paragraph (i), effective until Dec. 31, 2020. At 85 FR 83405, Dec. 22, 2020, the effective date was extended until Dec. 31, 2021. At 86 FR 72520, Dec. 22, 2021, the effective date was extended until Dec. 31, 2022.
+[44 FR 27071, May 9, 1979, as amended at 46 FR 38680, July 29, 1981. Redesignated at 49 FR 30688, Aug. 1, 1984, and amended at 53 FR 4844, Feb. 18, 1988; 56 FR 15036, Apr. 15, 1991; 56 FR 35811, July 29, 1991; 60 FR 58504, Nov. 28, 1995; 63 FR 70998, Dec. 23, 1998; 72 FR 65442, Nov. 21, 2007; 77 FR 31990, May 31, 2012; 78 FR 37958, June 25, 2013; 80 FR 66706, Oct. 29, 2015; 82 FR 50291, Oct. 30, 2017; 84 FR 1605, Feb. 5, 2019; 85 FR 22014, Apr. 21, 2020; 85 FR 83409, Dec. 22, 2020; 86 FR 59288, Oct. 27, 2021; 86 FR 72520, Dec. 22, 2021]Effective Date Note:At 85 FR 22014, Apr. 21, 2020, § 701.23 was amended by adding paragraph (i), effective until Dec. 31, 2020. At 85 FR 83405, Dec. 22, 2020, the effective date was extended until Dec. 31, 2021. At 86 FR 72520, Dec. 22, 2021, the effective date was extended until Dec. 31, 2022.

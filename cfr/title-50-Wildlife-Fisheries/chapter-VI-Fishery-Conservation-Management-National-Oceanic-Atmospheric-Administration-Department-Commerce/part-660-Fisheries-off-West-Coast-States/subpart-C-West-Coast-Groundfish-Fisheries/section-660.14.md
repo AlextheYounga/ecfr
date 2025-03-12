@@ -1,7 +1,5 @@
 ##### § 660.14 Vessel Monitoring System (VMS) requirements. #####
 
-Link to an amendment published at 87 FR 11599, Mar. 2, 2022.
-
 (a) *What is a VMS?* A VMS consists of a NMFS OLE type-approved mobile transceiver unit that automatically determines the vessel's position and transmits it to a NMFS OLE type-approved communications service provider. The communications service provider receives the transmission and relays it to NMFS OLE.
 
 (b) *Who is Required to Have a VMS?* The following vessels are required to install a NMFS OLE type-approved mobile transceiver unit and to arrange for a NMFS OLE type-approved communications service provider to receive and relay transmissions to NMFS OLE prior to fishing:
@@ -34,11 +32,13 @@ Link to an amendment published at 87 FR 11599, Mar. 2, 2022.
 
 (i) *Position frequency.* The mobile transceiver unit must transmit a signal accurately indicating the vessel's position at least once every 15 minutes, 24 hours a day, throughout the year unless an exemption in paragraph (d)(3)(ii) of this section applies or a valid exemption report, as described in paragraph (d)(4) of this section, has been received by NMFS OLE. The signal indicating the vessel's position can consist of either: A single position report transmitted every 15 minutes; or a series of position reports, at no more than a 15 minute interval, combined and transmitted at least once every hour.
 
-(ii) *Exemptions to position frequency requirement.* - (A) *Electronic monitoring exemption.* If a vessel has an electronic monitoring system installed and in use for the duration of a given fishing year, the mobile transceiver unit must transmit a signal at least once every hour.
+(ii) *Exemptions to position frequency requirement*—(A) *Electronic monitoring exemption.* If a vessel has an electronic monitoring system installed and in use for the duration of a given fishing year, the mobile transceiver unit must transmit a signal at least once every hour.
 
-(B) *Midwater trawl exemption.* If a limited entry trawl vessel is fishing with midwater trawl gear under declarations in paragraph (d)(4)(iv)(A) of this section, the mobile transceiver unit must transmit a signal at least once every hour.
+(B) *Midwater trawl exemption.* If a limited entry trawl vessel is fishing with midwater trawl gear under declarations in § 660.13(d)(4)(iv)(A), the mobile transceiver unit must transmit a signal at least once every hour.
 
 (C) *In port exemption.* If a vessel remains in port for an extended period of time, the mobile transceiver unit must transmit a signal at least once every four hours. The mobile transceiver unit must remain in continuous operation at all times unless the vessel is exempt under paragraph (d)(4) of this section.
+
+(D) *Pink shrimp trawl exemption.* If a vessel is fishing for pink shrimp using non-groundfish trawl gear under declarations in § 660.13(d)(4)(iv)(A), the mobile transceiver unit must transmit a signal at least once every hour.
 
 (4) *VMS exemptions.* A vessel that is required to operate and maintain the mobile transceiver unit continuously 24 hours a day throughout the fishing year may be exempted from this requirement if a valid exemption report, as described at paragraph (d)(4)(vii) of this section, is received by NMFS OLE and the vessel is in compliance with all conditions and requirements of the VMS exemption identified in this section and specified in the exemption report.
 
@@ -66,4 +66,4 @@ Link to an amendment published at 87 FR 11599, Mar. 2, 2022.
 
 (9) Pay all charges levied by the communication service provider as necessary to ensure continuous operation of the VMS transceiver units.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78374, Dec. 15, 2010; 76 FR 74733, Dec. 1, 2011; 85 FR 35600, June 11, 2020]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78374, Dec. 15, 2010; 76 FR 74733, Dec. 1, 2011; 85 FR 35600, June 11, 2020; 87 FR 11599, Mar. 2, 2022]

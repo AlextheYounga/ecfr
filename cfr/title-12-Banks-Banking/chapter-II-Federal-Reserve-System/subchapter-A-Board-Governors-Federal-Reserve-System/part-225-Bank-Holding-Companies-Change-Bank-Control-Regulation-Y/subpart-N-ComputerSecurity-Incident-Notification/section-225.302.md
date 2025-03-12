@@ -1,0 +1,3 @@
+##### § 225.302 Notification. #####
+
+A banking organization must notify the appropriate Board-designated point of contact about a notification incident through email, telephone, or other similar methods that the Board may prescribe. The Board must receive this notification from the banking organization as soon as possible and no later than 36 hours after the banking organization determines that a notification incident has occurred.

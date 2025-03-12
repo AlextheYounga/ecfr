@@ -22,7 +22,7 @@
 
 (ii) The action will not result in exceeding the catch limit for the area.
 
-(iii) If any of the sport fishery subareas north of Cape Falcon, Oregon are not projected to utilize their respective quotas by September 30, NMFS may take inseason action to transfer any projected unused quota to another Washington sport subarea.
+(iii) If any of the recreational fishery subareas north of Cape Falcon, Oregon are not projected to utilize their respective quotas, NMFS may take inseason action to transfer any projected unused quota to another Washington recreational subarea.
 
 (iv) If any of the sport fishery subareas south of Leadbetter Point, Washington, are not projected to utilize their respective quotas by their season ending dates, NMFS may take inseason action to transfer any projected unused quota to another Oregon sport subarea.
 

@@ -1,8 +1,6 @@
 ##### § 703.16 Prohibited investments. #####
 
-Link to an amendment published at 86 FR 72818, Dec. 23, 2021.
-
-(a) *Mortgage servicing rights.* A Federal credit union may not purchase mortgage servicing rights as an investment but may perform mortgage servicing functions as a financial service for a member as long as the mortgage loan is owned by a member;
+(a) [Reserved]
 
 (b) *Stripped mortgage backed securities (SMBS).* A Federal credit union may not invest in SMBS or securities that represent interests in SMBS except as described in paragraphs (1) and (3) below.
 
@@ -20,4 +18,4 @@ Link to an amendment published at 86 FR 72818, Dec. 23, 2021.
 
 (c) *Other prohibited investments.* A Federal credit union may not purchase residual interests in collateralized mortgage obligations, real estate mortgage investment conduits, or small business related securities.
 
-[68 FR 32960, June 3, 2003, as amended at 69 FR 39832, July 1, 2004; 77 FR 31991, May 31, 2012; 79 FR 5241, Jan. 31, 2014]
+[68 FR 32960, June 3, 2003, as amended at 69 FR 39832, July 1, 2004; 77 FR 31991, May 31, 2012; 79 FR 5241, Jan. 31, 2014; 86 FR 72818, Dec. 23, 2021]

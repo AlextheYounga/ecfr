@@ -1,7 +1,5 @@
 ##### § 703.13 Permissible investment activities. #####
 
-Link to an amendment published at 86 FR 59288, Oct. 27, 2021.
-
 (a) *Regular way settlement and delivery versus payment basis.* A Federal credit union may only contract for the purchase or sale of a security as long as the delivery of the security is by regular way settlement and the transaction is accomplished on a delivery versus payment basis.
 
 (b) *Federal funds.* A Federal credit union may sell Federal funds to an institution described in Section 107(8) of the Act and credit unions, as long as the interest or other consideration received from the financial institution is at the market rate for Federal funds transactions.
@@ -24,7 +22,7 @@ Link to an amendment published at 86 FR 59288, Oct. 27, 2021.
 
 (ii) No later than thirty days after the borrowing repurchase transaction, unless authorized under § 703.20, provided the value of all investments purchased with maturities later than borrowing repurchase transactions does not exceed 100 percent of the federal credit union's net worth; or
 
-(iii) At any time later than the maturity of the borrowing repurchase transaction, provided the value of all investments purchased with maturities later than borrowing repurchase transactions does not exceed 100 percent of the federal credit union's net worth and the credit union received a composite CAMEL rating of “1” or “2” for the last two (2) full examinations and maintained a capital classifications of “well capitalized” under part 702 of this chapter for the six (6) immediately preceding quarters.
+(iii) At any time later than the maturity of the borrowing repurchase transaction, provided the value of all investments purchased with maturities later than borrowing repurchase transactions does not exceed 100 percent of the federal credit union's net worth and the credit union received a composite CAMELS rating of “1” or “2” for the last two (2) full examinations and maintained a capital classifications of “well capitalized” under part 702 of this chapter for the six (6) immediately preceding quarters.
 
 (e) *Securities lending transaction.* A Federal credit union may enter into a securities lending transaction so long as:
 
@@ -42,4 +40,4 @@ Link to an amendment published at 86 FR 59288, Oct. 27, 2021.
 
 (3) At least monthly, the Federal credit union must give its board of directors or investment-related committee a written report listing all purchase and sale transactions of trading securities and the resulting gain or loss on an individual basis.
 
-[68 FR 32960, June 3, 2003, as amended at 77 FR 31991, May 31, 2012; 86 FR 72806, Dec. 23, 2021]
+[68 FR 32960, June 3, 2003, as amended at 77 FR 31991, May 31, 2012; 86 FR 59288, Oct. 27, 2021; 86 FR 72806, Dec. 23, 2021]

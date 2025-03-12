@@ -1,7 +1,5 @@
 ##### § 700.2 Definitions. #####
 
-Link to an amendment published at 86 FR 59288, Oct. 27, 2021.
-
 As used in this chapter:
 
 *Act* means the Federal Credit Union Act (12 U.S.C. 1751, *et seq.*).
@@ -46,20 +44,20 @@ As used in this chapter:
 
 *Troubled condition* means: (1) In the case of an insured natural person credit union:
 
-(i) A federal credit union that has been assigned a 4 or 5 CAMEL composite rating by NCUA; or
+(i) A federal credit union that has been assigned a 4 or 5 CAMELS composite rating by NCUA; or
 
-(ii) A federally insured, state-chartered credit union that has been assigned a 4 or 5 CAMEL composite rating by either NCUA, after an on-site contact, or its state supervisor; or
+(ii) A federally insured, state-chartered credit union that has been assigned a 4 or 5 CAMELS composite rating by either NCUA, after an on-site contact, or its state supervisor; or
 
 (iii) A federal credit union or a federally insured, state-chartered credit union that has been granted assistance under section 208 of the Federal Credit Union Act, 12 U.S.C. 1788, that remains outstanding and unextinguished.
 
 (2) In the case of an insured corporate credit union:
 
-(i) A Federal credit union that has been assigned a 4 or 5 CAMEL rating by NCUA; or
+(i) A Federal credit union that has been assigned a 4 or 5 CAMELS rating by NCUA; or
 
-(ii) A federally insured, state-chartered credit union that has been assigned a 4 or 5 CAMEL rating by either NCUA, after an on-site contact, or its state supervisor; or
+(ii) A federally insured, state-chartered credit union that has been assigned a 4 or 5 CAMELS rating by either NCUA, after an on-site contact, or its state supervisor; or
 
 (iii) A Federal credit union or a federally insured, state-chartered credit union that has been granted assistance under section 208 of the Federal Credit Union Act, 12 U.S.C 1788, that remains outstanding and unextinguished.
 
 *Unimpaired capital and surplus* means the same as “paid-in and unimpaired capital and surplus,” as defined in paragraph (f) of this section.
 
-[36 FR 23794, Dec. 15, 1971. Redesignated and amended at 66 FR 65624, Dec. 20, 2001]Editorial Note:For Federal Register citations affecting § 700.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[36 FR 23794, Dec. 15, 1971. Redesignated and amended at 66 FR 65624, Dec. 20, 2001; 86 FR 59288, Oct. 27, 2021]Editorial Note:For Federal Register citations affecting § 700.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.

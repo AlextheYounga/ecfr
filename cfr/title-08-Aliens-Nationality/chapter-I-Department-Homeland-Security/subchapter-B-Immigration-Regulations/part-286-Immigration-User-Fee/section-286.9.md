@@ -1,5 +1,7 @@
 ##### § 286.9 Fee for processing applications and issuing documentation at land border Ports-of-Entry. #####
 
+Link to an amendment published at 87 FR 18981, Apr. 1, 2022.
+
 (a) *General.* A fee may be charged and collected by the Commissioner for the processing and issuance of specified Service documents at land border Ports-of-Entry. These fees, as specified in 8 CFR 103.7(d), shall be dedicated to funding the cost of providing application-processing services at land border ports.
 
 (b) *Forms for which a fee may be charged.* (1) A nonimmigrant alien who is required to be issued, or requests to be issued, Form I-94 (see § 1.4), Arrival/Departure Record, for admission at a land border Port-of-Entry must remit the required fee for issuance of Form I-94 upon determination of admissibility.

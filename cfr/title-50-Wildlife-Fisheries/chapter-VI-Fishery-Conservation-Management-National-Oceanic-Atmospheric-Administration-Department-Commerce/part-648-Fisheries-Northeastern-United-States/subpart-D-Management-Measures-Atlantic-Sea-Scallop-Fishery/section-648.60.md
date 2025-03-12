@@ -39,7 +39,7 @@ Table 2 to Paragraph (b)(1)
 
 (2) *Season.* (i) A vessel issued a scallop permit may not fish for, possess, or land scallops in or from the area known as the Closed Area II Scallop Rotational Area, defined in paragraph (b)(1) of this section, during the period of August 15 through November 15 of each year the Closed Area II Access Area is open to scallop vessels, unless transiting pursuant to § 648.59(a).
 
-(ii) For the 2021 scallop fishing year, a vessel issued a scallop permit may not fish for, possess, or land scallops in or from the area known as the Closed Area II Scallop Rotational Area, defined in paragraph (b)(1) of this section, during the period of November 16 through November 30, unless transiting pursuant to § 648.59(a).
+(ii) [Reserved]
 
 (c) *Closed Area I Scallop Rotational Area.* The Closed Area I Scallop Rotational Area is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request):
 
@@ -90,7 +90,7 @@ Table 5 to Paragraph (e)
 
 (g) *Nantucket Lightship-North Scallop Rotational Area.* The Nantucket Lightship North Scallop Rotational Area is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request):
 
-Table 7 to Paragraph (g)
+Table 6 to Paragraph (g)
 
 |Point|N latitude|W longitude|
 |-----|----------|-----------|
@@ -102,7 +102,7 @@ Table 7 to Paragraph (g)
 
 (h) *Nantucket Lightship-Triangle Scallop Rotational Area.* The Nantucket Lightship Triangle Scallop Rotational Area is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request):
 
-Table 8 to Paragraph (h)
+Table 7 to Paragraph (h)
 
 |Point|N latitude|W longitude|
 |-----|----------|-----------|
@@ -111,4 +111,30 @@ Table 8 to Paragraph (h)
 |NLST3|  40°22′  |  69°30′   |
 |NLST1|  40°28′  |  69°30′   |
 
-[85 FR 17764, Mar. 31, 2020, as amended at 86 FR 27051, May 19, 2021]
+(i) *Nantucket Lightship-West Scallop Rotational Area.* The Nantucket Lightship-West Scallop Rotational Area is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request):
+
+Table 8 to Paragraph (i)
+
+|Point|N latitude|W longitude|
+|-----|----------|-----------|
+|NLSW1|40°43.44′ |  70°20′   |
+|NLSW2|40°43.44′ |  70°00′   |
+|NLSW3|40°43.44′ |  69°30′   |
+|NLSW4|  40°20′  |  69°30′   |
+|NLSW5|  40°20′  |  70°00′   |
+|NLSW6|40°26.63′ |  70°20′   |
+|NLSW1|40°43.44′ |  70°20′   |
+
+(j) *New York Bight Scallop Rotational Area.* The New York Bight Scallop Rotational Area is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request):
+
+Table 9 to Paragraph (j)
+
+|Point|N latitude|W longitude|
+|-----|----------|-----------|
+|NYB1 |  40°00′  |  73°20′   |
+|NYB2 |  40°00′  |  72°30′   |
+|NYB3 |  39°20′  |  72°30'   |
+|NYB4 |  39°20′  |  73°20'   |
+|NYB1 |  40°00′  |  73°20′   |
+
+[85 FR 17764, Mar. 31, 2020, as amended at 86 FR 27051, May 19, 2021; 87 FR 18287, Mar. 30, 2022]

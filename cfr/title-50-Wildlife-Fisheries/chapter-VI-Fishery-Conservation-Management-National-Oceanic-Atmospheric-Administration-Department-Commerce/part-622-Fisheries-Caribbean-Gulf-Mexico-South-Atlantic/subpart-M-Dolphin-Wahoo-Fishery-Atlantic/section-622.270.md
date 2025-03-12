@@ -1,5 +1,7 @@
 ##### § 622.270 Permits. #####
 
+Link to an amendment published at 87 FR 19018, Apr. 1, 2022.
+
 (a) *Commercial vessel permits.* (1) For a person aboard a vessel to be eligible for exemption from the bag and possession limits for dolphin or wahoo in or from the Atlantic EEZ or to sell such dolphin or wahoo, a commercial vessel permit for Atlantic dolphin and wahoo must be issued to the vessel and must be on board, except as provided in paragraph (a)(2) of this section. (See paragraph (c)(1) of this section for the requirements for operator permits in the Atlantic dolphin and wahoo fishery).
 
 (2) The provisions of paragraph (a)(1) of this section notwithstanding, a fishing vessel, except a vessel operating as a charter vessel or headboat, that does not have a commercial vessel permit for Atlantic dolphin and wahoo but has a Federal commercial vessel permit in any other fishery, is exempt from the bag and possession limits for dolphin and wahoo and may sell dolphin and wahoo, subject to the trip and geographical limits specified in § 622.278(a)(2). (A charter vessel/headboat permit is not a commercial vessel permit.)

@@ -1,7 +1,5 @@
 ##### § 721.3 What categories of activities are preapproved as incidental powers necessary or requisite to carry on a credit union's business? #####
 
-Link to an amendment published at 86 FR 72818, Dec. 23, 2021.
-
 The categories of activities in this section are preapproved as incidental to carrying on your business under § 721.2. The examples of incidental powers activities within each category are provided in this section as illustrations of activities permissible under the particular category, not as an exclusive or exhaustive list.
 
 (a) *Certification services.* Certification services are services whereby you attest or authenticate a fact for your members' use. Certification services may include such services as notary services, signature guarantees, certification of electronic signatures, and share draft certifications.
@@ -52,7 +50,7 @@ The categories of activities in this section are preapproved as incidental to ca
 
 (g) *Finder activities.* Finder activities are activities in which you introduce or otherwise bring together outside vendors with your members so that the two parties may negotiate and consummate transactions and include vendors of non-financial products, vendors that are other financial institutions, and vendors of financial products such as insurance and securities. Finder activities may include endorsing a product or service, negotiating group discounts on behalf of your members, offering third party products and services to members through the sale of advertising space on your website, account statements and receipts, and selling statistical or consumer financial information to outside vendors to facilitate the sale of their products to your members. You may perform administrative functions on behalf of vendors to facilitate transactions between your members and another institution.
 
-(h) *Loan-related products.* Loan-related products are the products, activities or services you provide to your members in a lending transaction that protect you against credit-related risks or are otherwise incidental to your lending authority. These products or activities may include debt cancellation agreements, debt suspension agreements, letters of credit and leases.
+(h) *Loan-related products.* Loan-related products are the products, activities or services you provide to your members in a lending transaction that protect you against credit-related risks or are otherwise incidental to your lending authority. These products or activities may include debt cancellation agreements, debt suspension agreements, letters of credit, leases, and mortgage loan servicing functions for a member as long as the loan is owned by a member.
 
 (i) *Marketing activities.* Marketing activities are the activities or means you use to promote membership in your credit union and the products and services you offer to your members. Marketing activities may include advertising and other promotional activities such as raffles, membership referral drives, and the purchase or use of advertising.
 
@@ -64,4 +62,4 @@ The categories of activities in this section are preapproved as incidental to ca
 
 (m) *Trustee or custodial services.* Trustee or custodial services are services in which you are authorized to act under any written trust instrument or custodial agreement created or organized in the United States and forming part of a tax-advantaged savings plan, as authorized under the Internal Revenue Code. These services may include acting as a trustee or custodian for member retirement, education and health savings accounts.
 
-[66 FR 40857, Aug. 6, 2001, as amended at 69 FR 45238, July 29, 2004; 73 FR 62856, Oct. 22, 2008; 75 FR 34621, June 18, 2010; 77 FR 31992, May 31, 2012; 78 FR 76731, Dec. 19, 2013; 81 FR 93580, Dec. 21, 2016]
+[66 FR 40857, Aug. 6, 2001, as amended at 69 FR 45238, July 29, 2004; 73 FR 62856, Oct. 22, 2008; 75 FR 34621, June 18, 2010; 77 FR 31992, May 31, 2012; 78 FR 76731, Dec. 19, 2013; 81 FR 93580, Dec. 21, 2016; 86 FR 72818, Dec. 23, 2021]

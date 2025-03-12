@@ -1,5 +1,7 @@
 ##### § 622.278 Commercial trip limits. #####
 
+Link to an amendment published at 87 FR 19019, Apr. 1, 2022.
+
 Commercial trip limits are limits on the amount of Atlantic dolphin and wahoo that may be possessed on board or landed, purchased, or sold from a vessel per day. A person who fishes in the EEZ may not combine a trip limit specified in this section with any trip or possession limit applicable to state waters. A species subject to a trip limit specified in this section taken in the EEZ may not be transferred at sea, regardless of where such transfer takes place, and such species may not be transferred in the EEZ. Commercial trip limits apply as follows (all weights are round or eviscerated weights unless specified otherwise):
 
 (a) *Trip-limited permits* - (1) *Atlantic wahoo.* (i) The trip limit for wahoo in or from the Atlantic EEZ is 500 lb (227 kg). This trip limit applies to a vessel that has a Federal commercial permit for Atlantic dolphin and wahoo, provided that the vessel is not operating as a charter vessel or headboat.

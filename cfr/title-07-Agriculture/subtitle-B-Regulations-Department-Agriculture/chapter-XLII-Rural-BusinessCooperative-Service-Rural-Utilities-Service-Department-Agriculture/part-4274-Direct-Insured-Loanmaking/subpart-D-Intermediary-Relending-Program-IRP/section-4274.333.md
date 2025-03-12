@@ -72,7 +72,7 @@ The intermediary and the Agency must execute a loan agreement or a supplement to
 
 (B) These reports must contain information only on the IRP revolving loan fund. Information required to be included in these reports as well as detailed reporting instructions will be provided by the Agency through a revolving loan fund user manual (available on the USDA Rural Development Intermediary Relending Program website) or similar documentation, which may be amended from time to time;
 
-(iii) Annual proposed budget for the following year that meets the requirements of § 4274.360(b)(2); and
+(iii) Annual proposed budget for the following year that meets the requirements of § 4274.332(b)(2); and
 
 (iv) Other reports as the Agency may require from time to time;
 
@@ -87,3 +87,5 @@ The intermediary and the Agency must execute a loan agreement or a supplement to
 (9) Funds not disbursed to the intermediary by the end of the 36th month of the IRP loan from the Agency will be deobligated and not available for disbursement to the intermediary.
 
 (10) For revolved funds, the intermediary is responsible for continuing compliance with the terms and conditions of the loan agreement until the Agency loan is fully satisfied and repaid.
+
+[86 FR 72156, Dec. 21, 2021, as amended at 87 FR 18967, Apr. 1, 2022]

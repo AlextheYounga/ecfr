@@ -1,0 +1,3 @@
+##### § 304.23 Notification. #####
+
+A banking organization must notify the appropriate FDIC supervisory office, or an FDIC-designated point of contact, about a notification incident through email, telephone, or other similar methods that the FDIC may prescribe. The FDIC must receive this notification from the banking organization as soon as possible and no later than 36 hours after the banking organization determines that a notification incident has occurred.

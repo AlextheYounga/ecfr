@@ -1,7 +1,5 @@
 ##### § 703.2 Definitions. #####
 
-Link to an amendment published at 86 FR 72818, Dec. 23, 2021.
-
 *The following definitions apply to this part:*
 
 *Adjusted trading* means selling an investment to a counterparty at a price above its current fair value and simultaneously purchasing or committing to purchase from the counterparty another investment at a price above its current fair value.
@@ -60,7 +58,7 @@ Link to an amendment published at 86 FR 72818, Dec. 23, 2021.
 
 *Mortgage related security* means a security as defined in section 3(a)(41) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(41)).
 
-*Mortgage servicing rights* means a contractual obligation to perform mortgage servicing and the right to receive compensation for performing those services. Mortgage servicing is the administration of a mortgage loan, including collecting monthly payments and fees, providing recordkeeping and escrow functions, and, if necessary curing defaults and foreclosing.
+*Mortgage servicing assets* mean those assets, maintained in accordance with GAAP, resulting from contracts to service loans secured by real estate (that have been securitized or owned by others) for which the benefits of servicing are expected to more than adequately compensate the servicer for performing the servicing.
 
 *Negotiable instrument* means an instrument that may be freely transferred from the purchaser to another person or entity by delivery, or endorsement and delivery, with full legal title becoming vested in the transferee.
 
@@ -102,4 +100,4 @@ Link to an amendment published at 86 FR 72818, Dec. 23, 2021.
 
 *Zero coupon investment* means an investment that makes no periodic interest payments but instead is sold at a discount from its face value. The holder of a zero coupon investment realizes the rate of return through the gradual appreciation of the investment, which is redeemed at face value on a specified maturity date.
 
-[68 FR 32960, June 3, 2003, as amended at 69 FR 39831, July 1, 2004; 71 FR 76124, Dec. 20, 2006; 77 FR 74109, Dec. 13, 2012; 79 FR 5241, Jan. 31, 2014; 84 FR 1606, Feb. 5, 2019; 86 FR 28247, May 26, 2021; 86 FR 72806, Dec. 23, 2021]
+[68 FR 32960, June 3, 2003, as amended at 69 FR 39831, July 1, 2004; 71 FR 76124, Dec. 20, 2006; 77 FR 74109, Dec. 13, 2012; 79 FR 5241, Jan. 31, 2014; 84 FR 1606, Feb. 5, 2019; 86 FR 28247, May 26, 2021; 86 FR 72806, 72818, Dec. 23, 2021]

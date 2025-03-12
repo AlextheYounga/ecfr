@@ -1,7 +1,5 @@
 ##### § 704.4 Prompt corrective action. #####
 
-Link to an amendment published at 86 FR 59288, Oct. 27, 2021.
-
 (a) *Purpose.* The principal purpose of this section is to define, for corporate credit unions that are not adequately capitalized, the capital measures and capital levels that are used for determining appropriate supervisory actions. This section establishes procedures for submission and review of capital restoration plans and for issuance and review of capital directives, orders, and other supervisory directives.
 
 (b) *Scope.* This section applies to corporate credit unions, including officers, directors, and employees.
@@ -20,13 +18,13 @@ Link to an amendment published at 86 FR 59288, Oct. 27, 2021.
 
 (iii) Written notice is provided by the NCUA to the corporate credit union that its capital category has changed as provided in paragraphs (c)(2) or (d)(3) of this section.
 
-(2) Adjustments to reported capital levels and category -
+(2) Adjustments to reported capital levels and category—
 
 (i) Notice of adjustment by corporate credit union. A corporate credit union must provide the NCUA with written notice that an adjustment to the corporate credit union's capital category may have occurred no later than 15 calendar days following the date that any material event has occurred that would cause the corporate credit union to be placed in a lower capital category from the category assigned to the corporate credit union for purposes of this section on the basis of the corporate credit union's most recent call report or report of examination.
 
 (ii) Determination by the NCUA to change capital category. After receiving notice pursuant to paragraph (c)(1) of this section, or on its own initiative, the NCUA will determine whether to change the capital category of the corporate credit union and will notify the corporate credit union of the NCUA's determination.
 
-(d) *Capital measures and capital category definitions* - (1) *Capital measures.* For purposes of this section, the relevant capital measures are:
+(d) *Capital measures and capital category definitions*—(1) *Capital measures.* For purposes of this section, the relevant capital measures are:
 
 (i) The total risk-based capital ratio;
 
@@ -86,11 +84,11 @@ Link to an amendment published at 86 FR 59288, Oct. 27, 2021.
 
 (i) Unsafe or unsound condition. The NCUA has determined, after notice and opportunity for hearing pursuant to paragraph (h)(1) of this section, that the corporate credit union is in an unsafe or unsound condition; or
 
-(ii) Unsafe or unsound practice. NCUA has determined, after notice and an opportunity for hearing pursuant to paragraph (h)(1) of this section, that the corporate credit union received a less-than-satisfactory CAMEL rating (*i.e.,* three or lower) for any rating category (other than in a rating category specifically addressing capital adequacy) and has not corrected the conditions that served as the basis for the less than satisfactory rating. Ratings under this paragraph (d)(3)(ii) refer to the most recent ratings (as determined either on-site or off-site by the most recent examination) of which the corporate credit union has been notified in writing.
+(ii) Unsafe or unsound practice. NCUA has determined, after notice and an opportunity for hearing pursuant to paragraph (h)(1) of this section, that the corporate credit union received a less-than-satisfactory CAMELS rating (*i.e.,* three or lower) for any rating category (other than in a rating category specifically addressing capital adequacy) and has not corrected the conditions that served as the basis for the less than satisfactory rating. Ratings under this paragraph (d)(3)(ii) refer to the most recent ratings (as determined either on-site or off-site by the most recent examination) of which the corporate credit union has been notified in writing.
 
 (4) The NCUA may, for good cause, modify any of the percentages in paragraph (d)(2) of this section as described in § 704.3(d).
 
-(e) *Capital restoration plans* - (1) *Schedule for filing plan* - (i) *In general.* A corporate credit union must file a written capital restoration plan with the NCUA within 45 days of the date that the corporate credit union receives notice or is deemed to have notice that the corporate credit union is undercapitalized, significantly undercapitalized, or critically undercapitalized, unless the NCUA notifies the corporate credit union in writing that the plan is to be filed within a different period. An adequately capitalized corporate credit union that has been required pursuant to paragraph (d)(3) of this section to comply with supervisory actions as if the corporate credit union were undercapitalized is not required to submit a capital restoration plan solely by virtue of the reclassification.
+(e) *Capital restoration plans*—(1) *Schedule for filing plan*—(i) *In general.* A corporate credit union must file a written capital restoration plan with the NCUA within 45 days of the date that the corporate credit union receives notice or is deemed to have notice that the corporate credit union is undercapitalized, significantly undercapitalized, or critically undercapitalized, unless the NCUA notifies the corporate credit union in writing that the plan is to be filed within a different period. An adequately capitalized corporate credit union that has been required pursuant to paragraph (d)(3) of this section to comply with supervisory actions as if the corporate credit union were undercapitalized is not required to submit a capital restoration plan solely by virtue of the reclassification.
 
 (ii) *Additional capital restoration plans.* Notwithstanding paragraph (e)(1)(i) of this section, a corporate credit union that has already submitted and is operating under a capital restoration plan approved under this section is not required to submit an additional capital restoration plan based on a revised calculation of its capital measures or a reclassification of the institution under paragraph (d)(3) of this section unless the NCUA notifies the corporate credit union that it must submit a new or revised capital plan. A corporate credit union that is notified that it must submit a new or revised capital restoration plan must file the plan in writing with the NCUA within 45 days of receiving such notice, unless the NCUA notifies the corporate credit union in writing that the plan is to be filed within a different period.
 
@@ -106,7 +104,7 @@ Link to an amendment published at 86 FR 59288, Oct. 27, 2021.
 
 (7) *Amendment of capital plan.* A corporate credit union that has filed an approved capital restoration plan may, after prior written notice to and approval by the NCUA, amend the plan to reflect a change in circumstance. Until such time as NCUA has approved a proposed amendment, the corporate credit union must implement the capital restoration plan as approved prior to the proposed amendment.
 
-(f) *Mandatory and discretionary supervisory actions* - (1) *Mandatory supervisory actions* -
+(f) *Mandatory and discretionary supervisory actions*—(1) *Mandatory supervisory actions*—
 (i) *Provisions applicable to all corporate credit unions.* All corporate credit unions are subject to the restrictions contained in paragraph (k)(1) of this section on capital distributions.
 
 (ii) Provisions applicable to undercapitalized, significantly undercapitalized, and critically undercapitalized corporate credit unions. Immediately upon receiving notice or being deemed to have notice, as provided in paragraph (c) or (e) of this section, that the corporate credit union is undercapitalized, significantly undercapitalized, or critically undercapitalized, the corporate credit union will be subject to the following provisions of paragraph (k) of this section:
@@ -149,7 +147,7 @@ Link to an amendment published at 86 FR 59288, Oct. 27, 2021.
 
 (2) Provisions applicable to undercapitalized corporate credit unions.
 
-(i) Monitoring required. The NCUA will -
+(i) Monitoring required. The NCUA will—
 
 (A) Closely monitor the condition of any undercapitalized corporate credit union;
 
@@ -161,9 +159,9 @@ Link to an amendment published at 86 FR 59288, Oct. 27, 2021.
 
 (A) Any undercapitalized corporate credit union must submit an acceptable capital restoration plan to the NCUA.
 
-(B) The capital restoration plan will -
+(B) The capital restoration plan will—
 
-(*1*) Specify -
+(*1*) Specify—
 
 (*i*) The steps the corporate credit union will take to become adequately capitalized;
 
@@ -175,7 +173,7 @@ Link to an amendment published at 86 FR 59288, Oct. 27, 2021.
 
 (*2*) Contain such other information as the NCUA may require.
 
-(C) The NCUA will not accept a capital restoration plan unless the NCUA determines that the plan -
+(C) The NCUA will not accept a capital restoration plan unless the NCUA determines that the plan—
 
 (*1*) Complies with paragraph (k)(2)(ii)(B) of this section;
 
@@ -183,7 +181,7 @@ Link to an amendment published at 86 FR 59288, Oct. 27, 2021.
 
 (*3*) Would not appreciably increase the risk (including credit risk, interest-rate risk, and other types of risk) to which the corporate credit union is exposed.
 
-(iii) Asset growth restricted. An undercapitalized corporate credit union must not permit its daily average net assets during any calendar month to exceed its moving daily average net assets unless -
+(iii) Asset growth restricted. An undercapitalized corporate credit union must not permit its daily average net assets during any calendar month to exceed its moving daily average net assets unless—
 
 (A) The NCUA has accepted the corporate credit union's capital restoration plan; and
 
@@ -193,11 +191,11 @@ Link to an amendment published at 86 FR 59288, Oct. 27, 2021.
 
 (3) Provisions applicable to significantly undercapitalized corporate credit unions and undercapitalized corporate credit unions that fail to submit and implement capital restoration plans.
 
-(i) *In general.* This paragraph applies with respect to any corporate credit union that -
+(i) *In general.* This paragraph applies with respect to any corporate credit union that—
 
 (A) Is significantly undercapitalized; or
 
-(B) Is undercapitalized and -
+(B) Is undercapitalized and—
 
 (*1*) Fails to submit an acceptable capital restoration plan within the time allowed by the NCUA under paragraph (e)(1) of this section; or
 
@@ -253,7 +251,7 @@ Link to an amendment published at 86 FR 59288, Oct. 27, 2021.
 
 (4) More stringent treatment based on other supervisory criteria.
 
-(i) *In general.* If the NCUA determines, after notice and an opportunity for hearing as described in subpart M of part 747 of this chapter, that a corporate credit union is in an unsafe or unsound condition or deems the corporate credit union to be engaging in an unsafe or unsound practice, the NCUA may -
+(i) *In general.* If the NCUA determines, after notice and an opportunity for hearing as described in subpart M of part 747 of this chapter, that a corporate credit union is in an unsafe or unsound condition or deems the corporate credit union to be engaging in an unsafe or unsound practice, the NCUA may—
 
 (A) If the corporate credit union is well capitalized, reclassify the corporate credit union as adequately capitalized;
 
@@ -271,7 +269,7 @@ Link to an amendment published at 86 FR 59288, Oct. 27, 2021.
 
 (iii) Conservatorship, liquidation, or other action. The NCUA may, at any time, conserve or liquidate any critically undercapitalized corporate credit union or require the credit union to combine, in whole or part, with another institution. NCUA will consider, not later than 90 days after a corporate credit union becomes critically undercapitalized, whether NCUA should liquidate, conserve, or combine the institution.
 
-(6) Restricting activities of critically undercapitalized corporate credit unions. To carry out the purpose of this section, the NCUA will, by order -
+(6) Restricting activities of critically undercapitalized corporate credit unions. To carry out the purpose of this section, the NCUA will, by order—
 
 (i) Restrict the activities of any critically undercapitalized corporate credit union; and
 
@@ -289,4 +287,4 @@ Link to an amendment published at 86 FR 59288, Oct. 27, 2021.
 
 (F) Paying interest on new or renewed liabilities at a rate that would increase the corporate credit union's weighted average cost of funds to a level significantly exceeding the prevailing rates of interest on insured deposits in the corporate credit union's normal market areas.
 
-[75 FR 64836, Oct. 20, 2010, as amended at 78 FR 77565, Dec. 26, 2013; 85 FR 62211, Oct. 2, 2020]
+[75 FR 64836, Oct. 20, 2010, as amended at 78 FR 77565, Dec. 26, 2013; 85 FR 62211, Oct. 2, 2020; 86 FR 59288, Oct. 27, 2021]
