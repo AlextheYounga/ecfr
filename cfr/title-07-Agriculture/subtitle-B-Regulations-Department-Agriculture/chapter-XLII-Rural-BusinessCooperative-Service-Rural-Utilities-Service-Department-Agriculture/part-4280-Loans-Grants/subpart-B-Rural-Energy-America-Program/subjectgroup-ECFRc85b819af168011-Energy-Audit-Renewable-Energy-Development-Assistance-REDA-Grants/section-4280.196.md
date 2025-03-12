@@ -1,6 +1,6 @@
 ##### § 4280.196 Servicing Energy Audit and REDA grants. #####
 
-The Agency will service Energy Audit and REDA grants in accordance with the requirements specified in Departmental Regulations, the Grant Agreement, 7 CFR part 1951, subparts E and O, other than 7 CFR 1951.709(d)(1)(i)(B)(iv), and the requirements in § 4280.123, except as specified in paragraphs (a) through (d) of this section.
+The Agency will service Energy Audit and REDA grants in accordance with the requirements specified in Departmental Regulations, the Financial Assistance Agreement, 7 CFR part 1951, subparts E and O, other than 7 CFR 1951.709(d)(1)(i)(B)(iv), and the requirements in § 4280.123, except as specified in paragraphs (a) through (d) of this section.
 
 (a) *Grant disbursement.* The Agency will determine, based on the applicable Departmental Regulations, whether disbursement of a grant will be by advance or reimbursement. Form SF-270 must be completed by the grantee and submitted to the Agency no more often than monthly to request either advance or reimbursement of funds.
 

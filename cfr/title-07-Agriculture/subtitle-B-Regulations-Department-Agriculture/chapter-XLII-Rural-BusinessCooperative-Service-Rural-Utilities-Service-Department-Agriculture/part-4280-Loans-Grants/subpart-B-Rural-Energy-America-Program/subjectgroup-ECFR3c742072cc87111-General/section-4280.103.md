@@ -78,13 +78,13 @@ Terms used in this subpart are defined in either § 4279.2 of this chapter or in
 
 *Federal Fiscal Year.* The 12-month period beginning October 1 of any given year and ending on September 30 of the following year.
 
+*Financial Assistance Agreement (Form RD 4280-2, Rural Business Cooperative Service Financial Assistance Agreement, or successor form).* An agreement between the Agency and the grantee setting forth the provisions under which the grant will be administered.
+
 *Financial Feasibility.* The ability of a project or business operation to achieve sufficient income, credit, and cash flow to financially sustain a project over the long term. The concept of financial feasibility includes assessments of the cost-accounting system, the availability of short-term credit for seasonal businesses operations, and the adequacy of raw materials and supplies.
 
 *Geothermal Direct Generation.* A system that uses thermal energy directly from a geothermal source.
 
 *Geothermal Electric Generation.* A system that uses thermal energy from a geothermal source to produce electricity.
-
-*Grant Agreement (Form RD 4280-2, Rural Business Cooperative Service Grant Agreement, or successor form).* An agreement between the Agency and the grantee setting forth the provisions under which the grant will be administered.
 
 *Hybrid.* A combination of two or more Renewable Energy technologies that are incorporated into a unified system to support a single project.
 
@@ -232,10 +232,10 @@ Terms used in this subpart are defined in either § 4279.2 of this chapter or in
 
 (ii) Other Tribal business entities that have similar structures and relationships with their Tribal governments as determined by the Agency.
 
-*State.* Any of the 50 States of the United States, the Commonwealth of Puerto Rico, the U.S. Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of Palau, the Federated States of Micronesia, and the Republic of the Marshall Islands.
+*State.* Any of the 50 States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the U.S. Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of Palau, the Federated States of Micronesia, and the Republic of the Marshall Islands.
 
 *Total Project Costs.* The sum of all costs associated with a completed project.
 
 *Used Equipment.* Any equipment that has been used in any previous application and is provided in an “as is” condition.
 
-[79 FR 78255, Dec. 29, 2014, as amended at 80 FR 9913, Feb. 24, 2015]
+[79 FR 78255, Dec. 29, 2014, as amended at 80 FR 9913, Feb. 24, 2015; 83 FR 30831, July 2, 2018]

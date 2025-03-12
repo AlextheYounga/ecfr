@@ -8,7 +8,7 @@ To receive a RES or EEI grant under this subpart, an Applicant must meet the req
 
 (1) Own or be the prospective owner of the project; and
 
-(2) Own or control the site for the project described in the application at the time of application and, if an award is made, for the useful life of the project as described in the Grant Agreement.
+(2) Own or control the site for the project described in the application at the time of application and, if an award is made, for the useful life of the project as described in the Financial Assistance Agreement.
 
 (c) *Revenues and expenses.* The Applicant must have available at the time of application satisfactory sources of revenue in an amount sufficient to provide for the operation, management, maintenance, and any debt service of the project for the useful life of the project. In addition, the Applicant must control the revenues and expenses of the project, including its operation and maintenance, for which the assistance is sought. Notwithstanding the provisions of this paragraph, the Applicant may employ a Qualified Consultant under contract to manage revenues and expenses of the project and its operation and/or maintenance.
 

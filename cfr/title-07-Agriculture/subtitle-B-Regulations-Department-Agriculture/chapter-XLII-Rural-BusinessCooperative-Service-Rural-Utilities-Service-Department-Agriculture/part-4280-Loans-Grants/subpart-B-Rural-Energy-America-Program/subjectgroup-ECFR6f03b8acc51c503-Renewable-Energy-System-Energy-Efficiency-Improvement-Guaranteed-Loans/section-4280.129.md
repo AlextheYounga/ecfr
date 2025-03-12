@@ -22,7 +22,7 @@
 
 (2) Land acquisition.
 
-(3) Routine lender fees, as described in § 4279.120(a) of this chapter.
+(3) Routine lender fees, as described in § 4279.120 (c) of this chapter.
 
 (4) Energy Assessments, Energy Audits, technical reports, business plans, and Feasibility Studies completed and acceptable to the Agency, except if any portion was financed by any other Federal or State grant or payment assistance, including, but not limited to, a REAP Energy Assessment or Energy Audit, or REDA grant.
 
@@ -43,3 +43,5 @@
 (f) Ineligible project costs include, but are not limited to costs identified in §§ 4280.114(d)(1), (d)(2), (d)(4) through (d)(9), guaranteeing loans made by other Federal agencies, subordinated owner debt, and loans made with the proceeds of any obligation the interest on which is excludable from income under 26 U.S.C. 103 or a successor statute. Funds generated through the issuance of tax-exempt obligations may neither be used to purchase the guaranteed portion of any Agency guaranteed loan nor may an Agency guaranteed loan serve as collateral for a tax-exempt issue. The Agency may guarantee a loan for a project which involves tax-exempt financing only when the guaranteed loan funds are used to finance a part of the project that is separate and distinct from the part which is financed by the tax-exempt obligation, and the guaranteed loan has at least a parity security position with the tax-exempt obligation.
 
 (g) In determining the amount of a loan awarded, the Agency will take into consideration the criteria specified in § 4280.114(e).
+
+[79 FR 78255, Dec. 29, 2014, as amended at 83 FR 30832, July 2, 2018]

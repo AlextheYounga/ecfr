@@ -1,7 +1,5 @@
 ##### § 226.20 Requirements for meals. #####
 
-Link to an amendment published at 82 FR 56716, Nov. 30, 2017.
-
 (a) *Food components.* Except as otherwise provided in this section, each meal served in the Program must contain, at a minimum, the indicated food components:
 
 (1) *Fluid milk.* Fluid milk must be served as a beverage or on cereal, or a combination of both, as follows:
@@ -10,9 +8,9 @@ Link to an amendment published at 82 FR 56716, Nov. 30, 2017.
 
 (ii) *Children 2 through 5 years old.* Children two through five years old must be served either unflavored low-fat (1 percent) or unflavored fat-free (skim) milk.
 
-(iii) *Children 6 years old and older.* Children six years old and older must be served unflavored low-fat (1 percent), unflavored fat-free (skim), or flavored fat-free (skim) milk.
+(iii) *Children 6 years old and older.* Children six years old and older must be served milk that is low-fat (1 percent fat or less) or fat-free (skim). Milk may be unflavored or flavored from July 1, 2018, through June 30, 2019 (school year 2018-2019).
 
-(iv) *Adults.* Adults must be served unflavored low-fat (1 percent), unflavored fat-free (skim), or flavored fat-free (skim) milk. Six ounces (weight) or3/4 cup (volume) of yogurt may be used to fulfill the equivalent of 8 ounces of fluid milk once per day. Yogurt may be counted as either a fluid milk substitute or as a meat alternate, but not as both in the same meal.
+(iv) *Adults.* Adults must be served milk that is low-fat (1 percent fat or less) or fat-free (skim). Milk may be unflavored or flavored from July 1, 2018, through June 30, 2019 (school year 2018-2019). Six ounces (weight) or3/4 cup (volume) of yogurt may be used to fulfill the equivalent of 8 ounces of fluid milk once per day. Yogurt may be counted as either a fluid milk substitute or as a meat alternate, but not as both in the same meal.
 
 (2) *Vegetables.* A serving may contain fresh, frozen, or canned vegetables, dry beans and peas (legumes), or vegetable juice. All vegetables are credited based on their volume as served, except that 1 cup of leafy greens counts as1/2 cup of vegetables.
 
@@ -104,15 +102,15 @@ Link to an amendment published at 82 FR 56716, Nov. 30, 2017.
 
 (1) *Breakfast.* Fluid milk, vegetables or fruit, or portions of both, and grains are required components of the breakfast meal. Meat and meat alternates may be used to meet the entire grains requirement a maximum of three times per week. The minimum amounts of food components to be served at breakfast are as follows:
 
-![](/graphics/er01no16.147.gif)
+![](/graphics/er30no17.000.gif)![](/graphics/er30no17.001.gif)
 
 (2) *Lunch and supper.* Fluid milk, meat and meat alternates, vegetables, fruits, and grains are required components in the lunch and supper meals. The minimum amounts of food components to be served at lunch and supper are as follows:
 
-![](/graphics/er01no16.148.gif)![](/graphics/er01no16.149.gif)
+![](/graphics/er30no17.002.gif)![](/graphics/er30no17.003.gif)
 
 (3) *Snack.* Serve two of the following five components: Fluid milk, meat and meat alternates, vegetables, fruits, and grains. Fruit juice, vegetable juice, and milk may comprise only one component of the snack. The minimum amounts of food components to be served at snacks are as follows:
 
-![](/graphics/er01no16.150.gif)![](/graphics/er01no16.151.gif)
+![](/graphics/er30no17.004.gif)![](/graphics/er30no17.005.gif)
 
 (d) *Food preparation.* Deep-fat fried foods that are prepared on-site cannot be part of the reimbursable meal. For this purpose, deep-fat frying means cooking by submerging food in hot oil or other fat. Foods that are pre-fried, flash-fried, or par-fried by a commercial manufacturer may be served, but must be reheated by a method other than frying.
 
@@ -182,4 +180,4 @@ Link to an amendment published at 82 FR 56716, Nov. 30, 2017.
 
 (p) *Prohibition on using foods and beverages as punishments or rewards.* Meals served under this part must contribute to the development and socialization of children. Institutions and facilities must not use foods and beverages as punishments or rewards.
 
-[81 FR 24377, Apr. 25, 2016, as amended at 81 FR 75677, Nov. 1, 2016]
+[81 FR 24377, Apr. 25, 2016, as amended at 81 FR 75677, Nov. 1, 2016; 83 FR 56716, Nov. 30, 2017]

@@ -1,6 +1,6 @@
 ##### § 4280.123 Servicing RES and EEI Grants. #####
 
-The Agency will service RES and EEI grants in accordance with the requirements specified in Departmental Regulations; 7 CFR part 1951, subparts E and O, other than 7 CFR 1951.709(d)(1)(B)(iv); the Grant Agreement; and paragraphs (a) through (k) of this section.
+The Agency will service RES and EEI grants in accordance with the requirements specified in Departmental Regulations; 7 CFR part 1951, subparts E and O, other than 7 CFR 1951.709(d)(1)(B)(iv); the Financial Assistance Agreement; and paragraphs (a) through (k) of this section.
 
 (a) *Inspections.* Grantees must permit periodic inspection of the project records and operations by a representative of the Agency.
 
@@ -30,7 +30,7 @@ The Agency will service RES and EEI grants in accordance with the requirements s
 
 (2) The type of RES or EEI technology, the project cost and scope of the project for which the Agency funds will be used remain unchanged.
 
-(d) *Transfer of ownership.* After the project is completed and operational, the grantee may request, in writing, a transfer of the Grant Agreement to another entity. Subject to Agency approval provided in writing, the Grant Agreement may be transferred to another entity provided:
+(d) *Transfer of ownership.* After the project is completed and operational, the grantee may request, in writing, a transfer of the Financial Assistance Agreement to another entity. Subject to Agency approval provided in writing, the Financial Assistance Agreement may be transferred to another entity provided:
 
 (1) The entity is determined by the Agency to be an eligible entity under this subpart; and
 

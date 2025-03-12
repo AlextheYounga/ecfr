@@ -1,7 +1,5 @@
 ##### § 229.2 Definitions. #####
 
-Link to an amendment published at 82 FR 27578, June 15, 2017.
-
 As used in this part, and unless the context requires otherwise, the following terms have the meanings set forth in this section, and the terms not defined in this section have the meanings set forth in the Uniform Commercial Code:
 
 (a) *Account.* (1) Except as provided in paragraphs (a)(2) and (a)(3) of this section, *account* means a deposit as defined in 12 CFR 204.2(a)(1)(i) that is a transaction account as described in 12 CFR 204.2(e). As defined in these sections, *account* generally includes accounts at a bank from which the account holder is permitted to make transfers or withdrawals by negotiable or transferable instrument, payment order of withdrawal, telephone transfer, electronic payment, or other similar means for the purpose of making payments or transfers to third persons or others. *Account* also includes accounts at a bank from which the account holder may make third party payments at an ATM, remote service unit, or other electronic device, including by debit card, but the term does not include savings deposits or accounts described in 12 CFR 204.2(d)(2) even though such accounts permit third party transfers. An account may be in the form of -
@@ -166,9 +164,11 @@ If more than one bank meets the owned or operated criterion of paragraph (aa)(1)
 
 (dd) *Routing number* means -
 
-(1) The number printed on the face of a check in fractional form on in nine-digit form; or
+(1) The number printed on the face of a check in fractional form on in nine-digit form;
 
-(2) The number in a bank's indorsement in fractional or nine-digit form.
+(2) The number in a bank's indorsement in fractional or nine-digit form; or
+
+(3) For purposes of subpart C and subpart D, the bank-identification number contained in an electronic check or electronic returned check.
 
 (ee) *Similarly situated bank* means a bank of similar size, located in the same community, and with similar check handling activities as the paying bank or returning bank.
 
@@ -214,9 +214,17 @@ If more than one bank meets the owned or operated criterion of paragraph (aa)(1)
 
 (tt) *Customer* means a person having an account with a bank.
 
-(uu) *Indemnifying bank* means a bank that provides an indemnity under § 229.53 with respect to a substitute check.
+(uu) *Indemnifying bank.* Indemnifying bank means -
 
-(vv) *Magnetic ink character recognition line* and *MICR line* mean the numbers, which may include the routing number, account number, check number, check amount, and other information, that are printed near the bottom of a check in magnetic ink in accordance with American National Standard Specifications for Placement and Location of MICR Printing, X9.13 (hereinafter ANS X9.13) for an original check and American National Standard Specifications for an Image Replacement Document - IRD, X9.100-140 (hereinafter ANS X9.100-140) for a substitute check (unless the Board by rule or order determines that different standards apply).
+(1) For the purposes of § 229.34, a bank that provides an indemnity under § 229.34 with respect to remote deposit capture or an electronically-created item, or
+
+(2) For the purposes of § 229.53, a bank that provides an indemnity under § 229.53 with respect to a substitute check.
+
+(vv) *Magnetic ink character recognition line* and *MICR line* mean the numbers, which may include the routing number, account number, check number, check amount, and other information, that are (unless the Board by rule or order determines that different standards apply) -
+
+(1) Printed near the bottom of a check in magnetic ink in accordance with American National Standard Specifications for Placement and Location of MICR Printing, X9.13 (hereinafter ANS X9.13) for an original check and American National Standard Specifications for an Image Replacement Document - IRD, X9.100-140 (hereinafter ANS X9.100-140) for a substitute check, or
+
+(2) For purposes of subpart C and subpart D, contained in a record specified for MICR line data in an electronic check or electronic returned check in accordance with American National Standard Specifications for Electronic Exchange of Check Image Data - Domestic, X9.100-187 (hereinafter ANS X9.100 - 187).
 
 (ww) *Original check* means the first paper check issued with respect to a particular payment transaction.
 
@@ -240,9 +248,13 @@ If more than one bank meets the owned or operated criterion of paragraph (aa)(1)
 
 (4) Is suitable for automated processing in the same manner as the original check.
 
-(bbb) *Sufficient copy and copy.* (1) A *sufficient copy* is a copy of an original check that accurately represents all of the information on the front and back of the original check as of the time the original check was truncated or is otherwise sufficient to determine whether or not a claim is valid.
+(bbb) *Copy and sufficient copy.* (1) A *copy of an original check* means -
 
-(2) A *copy* of an original check means any paper reproduction of an original check, including a paper printout of an electronic image of the original check, a photocopy of the original check, or a substitute check.
+(i) Any paper reproduction of an original check, including a paper printout of an electronic image of the check, a photocopy of the original check, or a substitute check; or
+
+(ii) Any electronic reproduction of a check that a recipient has agreed to receive from the sender instead of a paper reproduction.
+
+(2) A *sufficient copy* is a copy of an original check that accurately represents all of the information on the front and back of the original check as of the time the original check was truncated or is otherwise sufficient to determine whether or not a claim is valid.
 
 (ccc) *Transfer and consideration.* The terms *transfer* and *consideration* have the meanings set forth in the Uniform Commercial Code and in addition, for purposes of subpart D -
 
@@ -260,4 +272,13 @@ If more than one bank meets the owned or operated criterion of paragraph (aa)(1)
 
 (fff) *Remotely created check* means a check that is not created by the paying bank and that does not bear a signature applied, or purported to be applied, by the person on whose account the check is drawn. For purposes of this definition, “account” means an account as defined in paragraph (a) of this section as well as a credit or other arrangement that allows a person to draw checks that are payable by, through, or at a bank.
 
-[53 FR 19433, May 27, 1988, as amended at 53 FR 31292, Aug. 18, 1988; 53 FR 44324, Nov. 2, 1988; Reg. CC, 54 FR 13850, Apr. 6, 1989; 57 FR 46972, Oct. 14, 1992; 58 FR 2, Jan. 4, 1993; 60 FR 51670, Oct. 3, 1995; 62 FR 13809, Mar. 24, 1997; 69 FR 47309, 47310, Aug. 4, 2004; 70 FR 71225, Nov. 28, 2005]
+(ggg) *Electronic check* and *electronic returned check* mean an electronic image of, and electronic information derived from, a paper check or paper returned check, respectively,
+that -
+
+(1) Is sent to a receiving bank pursuant to an agreement between the sender and the receiving bank; and
+
+(2) Conforms with ANS X9.100-187, unless the Board by rule or order determines that a different standard applies or the parties otherwise agree.
+
+(hhh) *Electronically-created item* means an electronic image that has all the attributes of an electronic check or electronic returned check but was created electronically and not derived from a paper check.
+
+[53 FR 19433, May 27, 1988, as amended at 53 FR 31292, Aug. 18, 1988; 53 FR 44324, Nov. 2, 1988; Reg. CC, 54 FR 13850, Apr. 6, 1989; 57 FR 46972, Oct. 14, 1992; 58 FR 2, Jan. 4, 1993; 60 FR 51670, Oct. 3, 1995; 62 FR 13809, Mar. 24, 1997; 69 FR 47309, 47310, Aug. 4, 2004; 70 FR 71225, Nov. 28, 2005; 82 FR 27578, June 15, 2017]

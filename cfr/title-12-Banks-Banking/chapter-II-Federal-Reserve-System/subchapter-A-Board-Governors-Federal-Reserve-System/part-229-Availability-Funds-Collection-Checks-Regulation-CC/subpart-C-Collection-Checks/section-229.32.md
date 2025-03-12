@@ -1,35 +1,29 @@
-##### § 229.32 Depositary bank's responsibility for returned checks. #####
+##### § 229.32 Returning bank's responsibility for return of checks. #####
 
-Link to an amendment published at 82 FR 27580, June 15, 2017.
+(a) *Return of checks.* (1) Subject to the requirement of expeditious return under paragraph (b) of this section, a returning bank may send a returned check to the depositary bank, to any other bank agreeing to handle the returned check, or as provided in paragraph (a)(2) of this section.
 
-(a) *Acceptance of returned checks.* A depositary bank shall accept returned checks and written notices of nonpayment
+(2) A returning bank that is unable to identify the depositary bank with respect to a check may send the returned check to any collecting bank that handled the returned check for forward collection if the returning bank was not a collecting bank with respect to the returned check, or to a prior collecting bank, if the returning bank was a collecting bank with respect to the returned check. A returning bank sending a returned check under this paragraph to a bank must advise the bank to which the returned check is sent that the returning bank is unable to identify the depositary bank.
 
-(1) At a location at which presentment of checks for forward collection is requested by the depositary bank; and
+(3) A returning bank may convert a check to a qualified returned check. A qualified returned check shall be encoded in magnetic ink with the routing number of the depositary bank, the amount of the returned check, and a “2” in the case of an original check (or a “5” in the case of a substitute check) in position 44 of the qualified return MICR line as a return identifier. A qualified returned original check shall be encoded in accordance with ANS X9.13, and a qualified returned substitute check shall be encoded in accordance with ANS X9.100-140.
 
-(2) (i) At a branch, head office, or other location consistent with the name and address of the bank in its indorsement on the check;
+(b) *Expeditious return of checks.* (1) Except as provided in paragraph (c) of this section, a returning bank shall return a returned check in an expeditious manner such that the check would normally be received by the depositary bank not later than 2 p.m. (local time of the depositary bank) on the second business day following the banking day on which the check was presented to the paying bank.
 
-(ii) If no address appears in the indorsement, at a branch or head office associated with the routing number of the bank in its indorsement on the check;
+(2) If the second business day following the banking day on which the check was presented to the paying bank is not a banking day for the depositary bank, the returning bank satisfies the expeditious return requirement if it sends the returned check in a manner such that the depositary bank would normally receive the returned check not later than 2 p.m. (local time of the depositary bank) on the depositary bank's next banking day.
 
-(iii) If the address in the indorsement is not in the same check processing region as the address associated with the routing number of the bank in its indorsement on the check, at a location consistent with the address in the indorsement and at a branch or head office associated with the routing number in the bank's indorsement; or
+(c) *Exceptions to the expeditious return of checks.* The expeditious return requirement of paragraph (b) of this section does not apply if—
 
-(iv) If no routing number or address appears in its indorsement on the check, at any branch or head office of the bank.
+(1) The check is deposited in a depositary bank that is not subject to subpart B of this part;
 
-A depositary bank may require that returned checks be separated from forward collection checks.
+(2) A paying bank is unable to identify the depositary bank with respect to the check; or
 
-(b) *Payment.* A depositary bank shall pay the returning or paying bank returning the check to it for the amount of the check prior to the close of business on the banking day on which it received the check (“payment date”) by -
+(3) The bank handles a misrouted returned check pursuant to § 229.33(f).
 
-(1) Debit to an account of the depositary bank on the books of the returning or paying bank;
+(d) *Notice in Lieu of Return.* If a check is unavailable for return, the returning bank may send in its place a copy of the front and back of the returned check, or, if no such copy is available, a written notice of nonpayment containing the information specified in § 229.31(c). The copy or written notice shall clearly state that it constitutes a notice in lieu of return. A notice in lieu of return is considered a returned check subject to the requirements of this section and the other requirements of this subpart.
 
-(2) Cash;
+(e) *Settlement.* A returning bank shall settle with a bank sending a returned check to it for return by the same means that it settles or would settle with the sending bank for a check received for forward collection drawn on the depositary bank. This settlement is final when made.
 
-(3) Wire transfer; or
+(f) *Charges.* A returning bank may impose a charge on a bank sending a returned check for handling the returned check.
 
-(4) Any other form of payment acceptable to the returning or paying bank;
+(g) *Reliance on routing number.* A returning bank may return a returned check based on any routing number designating the depositary bank appearing on the returned check in the depositary bank's indorsement or in magnetic ink on a qualified returned check.
 
-provided that the proceeds of the payment are available to the returning or paying bank in cash or by credit to an account of the returning or paying bank on or as of the payment date. If the payment date is not a banking day for the returning or paying bank or the depositary bank is unable to make the payment on the payment date, payment shall be made by the next day that is a banking day for the returning or paying bank. These payments are final when made.
-
-(c) *Misrouted returned checks and written notices of nonpayment.* If a bank receives a returned check or written notice of nonpayment on the basis that it is the depositary bank, and the bank determines that it is not the depositary bank with respect to the check or notice, it shall either promptly send the returned check or notice to the depositary bank directly or by means of a returning bank agreeing to handle the returned check expeditiously under § 229.31(a), or send the check or notice back to the bank from which it was received.
-
-(d) *Charges.* A depositary bank may not impose a charge for accepting and paying checks being returned to it.
-
-[53 FR 19433, May 27, 1988, as amended by Reg. CC, 54 FR 13850, Apr. 6, 1989]
+[82 FR 27580, June 15, 2017]

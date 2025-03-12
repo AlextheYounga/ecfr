@@ -1,7 +1,5 @@
 ##### § 210.11 Competitive food service and standards. #####
 
-Link to an amendment published at 82 FR 56714, Nov. 30, 2017.
-
 (a) *Definitions.* For the purpose of this section:
 
 (1) *Combination foods* means products that contain two or more components representing two or more of the recommended food groups: fruit, vegetable, dairy, protein or grains.
@@ -90,7 +88,7 @@ Link to an amendment published at 82 FR 56714, Nov. 30, 2017.
 
 (i) Plain water or plain carbonated water (no size limit);
 
-(ii) Low fat milk, unflavored (no more than 8 fluid ounces);
+(ii) Low fat milk, unflavored or flavored (no more than 8 fluid ounces) from July 1, 2018 through June 30, 2019, school year 2018-2019;
 
 (iii) Non fat milk, flavored or unflavored (no more than 8 fluid ounces);
 
@@ -102,7 +100,7 @@ Link to an amendment published at 82 FR 56714, Nov. 30, 2017.
 
 (i) Plain water or plain carbonated water (no size limit);
 
-(ii) Low fat milk, unflavored (no more than 12 fluid ounces);
+(ii) Low fat milk, unflavored or flavored (no more than 12 fluid ounces) from July 1, 2018 through June 30, 2019, school year 2018-2019;
 
 (iii) Non fat milk, flavored or unflavored (no more than 12 fluid ounces);
 
@@ -114,7 +112,7 @@ Link to an amendment published at 82 FR 56714, Nov. 30, 2017.
 
 (i) Plain water or plain carbonated water (no size limit);
 
-(ii) Low fat milk, unflavored (no more than 12 fluid ounces);
+(ii) Low fat milk, unflavored or flavored (no more than 12 fluid ounces) from July 1, 2018 through June 30, 2019, school year 2018-2019;
 
 (iii) Non fat milk, flavored or unflavored (no more than 12 fluid ounces);
 
@@ -130,4 +128,4 @@ Link to an amendment published at 82 FR 56714, Nov. 30, 2017.
 
 (n) *Implementation date.* This section is to be implemented beginning on July 1, 2014.
 
-[78 FR 39091, June 28, 2013, as amended at 81 FR 50151, July 29, 2016]
+[78 FR 39091, June 28, 2013, as amended at 81 FR 50151, July 29, 2016; 82 FR 56714, Nov. 30, 2017]

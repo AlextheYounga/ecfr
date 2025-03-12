@@ -34,10 +34,10 @@
 
 (3) *Hybrid projects.* If the application is for a Hybrid project, technical reports must be prepared for each technology that comprises the Hybrid project.
 
-(i) *Time limit on use of grant funds.* Except as provided in paragraph (i)(1) of this section, grant funds not expended within 2 years from the date the Grant Agreement was signed by the Agency will be returned to the Agency.
+(i) *Time limit on use of grant funds.* Except as provided in paragraph (i)(1) of this section, grant funds not expended within 2 years from the date the Financial Assistance Agreement was signed by the Agency will be returned to the Agency.
 
-(1) *Time extensions.* The Agency may extend the 2-year time limit if the Agency determines, at its sole discretion, that the grantee is unable to complete the project for reasons beyond the grantee's control. Grantees must submit a request for the no-cost extension no later than 30 days before the expiration date of the Grant Agreement. This request must describe the extenuating circumstances that were beyond their control to complete the project for which the grant was awarded, and why an approval is in the government's best interest.
+(1) *Time extensions.* The Agency may extend the 2-year time limit if the Agency determines, at its sole discretion, that the grantee is unable to complete the project for reasons beyond the grantee's control. Grantees must submit a request for the no-cost extension no later than 30 days before the expiration date of the Financial Assistance Agreement. This request must describe the extenuating circumstances that were beyond their control to complete the project for which the grant was awarded, and why an approval is in the government's best interest.
 
-(2) *Return of funds to the agency.* Funds remaining after grant closeout that exceed the amount the grantee is entitled to receive under the Grant Agreement will be returned to the Agency.
+(2) *Return of funds to the agency.* Funds remaining after grant closeout that exceed the amount the grantee is entitled to receive under the Financial Assistance Agreement will be returned to the Agency.
 
 [79 FR 78255, Dec. 29, 2014, as amended at 81 FR 11052, Mar. 2, 2016]

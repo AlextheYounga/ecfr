@@ -1,7 +1,5 @@
 ##### § 210.10 Meal requirements for lunches and requirements for afterschool snacks. #####
 
-Link to an amendment published at 82 FR 56713, Nov. 30, 2017.
-
 (a) *General requirements* - (1) *General nutrition requirements.* Schools must offer nutritious, well-balanced, and age-appropriate meals to all the children they serve to improve their diets and safeguard their health.
 
 (i) *Requirements for lunch.* School lunches offered to children age 5 or older must meet, at a minimum, the meal requirements in paragraph (b) of this section. Schools must follow a food-based menu planning approach and produce enough food to offer each child the quantities specified in the meal pattern established in paragraph (c) of this section for each age/grade group served in the school. In addition, school lunches must meet the dietary specifications in paragraph (f) of this section. Schools offering lunches to children ages 1 through 4 and infants must meet the meal pattern requirements in paragraphs (p) and (q), as applicable, of this section. Schools must make potable water available and accessible without restriction to children at no charge in the place(s) where lunches are served during the meal service.
@@ -32,27 +30,26 @@ Link to an amendment published at 82 FR 56713, Nov. 30, 2017.
 
 (c) *Meal pattern for school lunches.* Schools must offer the food components and quantities required in the lunch meal pattern established in the following table:
 
-|                              Meal pattern                              |                                       Lunch meal pattern                                        |             |                |
-|------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------|----------------|
-|                               Grades K-5                               |                                           Grades 6-8                                            | Grades 9-12 |                |
-|                                                                        |                               Amount of food<sup>a</sup> per week                               |             |                |
-|                                                                        |                                        (minimum per day)                                        |             |                |
-|                       Fruits (cups)<sup>b</sup>                        |                                           21/2 (1/2)                                            | 21/2 (1/2)  |     5 (1)      |
-|                     Vegetables (cups)<sup>b</sup>                      |                                           33/4 (3/4)                                            | 33/4 (3/4)  |     5 (1)      |
-|                         Dark green<sup>c</sup>                         |                                               1/2                                               |     1/2     |      1/2       |
-|                         Red/Orange<sup>c</sup>                         |                                               3/4                                               |     3/4     |      11/4      |
-|                  Beans and peas (legumes)<sup>c</sup>                  |                                               1/2                                               |     1/2     |      1/2       |
-|                          Starchy<sup>c</sup>                           |                                               1/2                                               |     1/2     |      1/2       |
-|                          Other<sup>c d</sup>                           |                                               1/2                                               |     1/2     |      3/4       |
-|               Additional Veg to Reach Total<sup>e</sup>                |                                          1<sup>e</sup>                                          |1<sup>e</sup>|11/2<sup>e</sup>|
-|                       Grains (oz eq)<sup>f</sup>                       |                                             8-9 (1)                                             |  8-10 (1)   |   10-12 (2)    |
-|                     Meats/Meat Alternates (oz eq)                      |                                            8-10 (1)                                             |  9-10 (1)   |   10-12 (2)    |
-|                     Fluid milk (cups)<sup>g</sup>                      |                                              5 (1)                                              |    5 (1)    |     5 (1)      |
-|Other Specifications: Daily Amount Based on the Average for a 5-Day Week|                                                                                                 |             |                |
-|                  Min-max calories (kcal)<sup>h</sup>                   |                                             550-650                                             |   600-700   |    750-850     |
-|            Saturated fat (% of total calories)<sup>h</sup>             |                                              \<10                                               |    \<10     |      \<10      |
-|                       Sodium (mg)<sup>h i</sup>                        |                                              ≤640                                               |    ≤710     |      ≤740      |
-|                         Trans fat<sup>h</sup>                          |Nutrition label or manufacturer specifications must indicate zero grams of trans fat per serving.|             |                |
+|                            Food components                             |                                       Lunch meal pattern                                        |              |                 |
+|------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|--------------|-----------------|
+|                               Grades K-5                               |                                           Grades 6-8                                            | Grades 9-12  |                 |
+|                                                                        |                      Amount of food<sup>a</sup> per week (minimum per day)                      |              |                 |
+|                       Fruits (cups)<sup>b</sup>                        |                                           21/2 (1/2)                                            |  21/2 (1/2)  |      5 (1)      |
+|                     Vegetables (cups)<sup>b</sup>                      |                                           33/4 (3/4)                                            |  33/4 (3/4)  |      5 (1)      |
+|                         Dark green<sup>c</sup>                         |                                               1/2                                               |     1/2      |       1/2       |
+|                         Red/Orange<sup>c</sup>                         |                                               3/4                                               |     3/4      |      11/4       |
+|                  Beans and peas (legumes)<sup>c</sup>                  |                                               1/2                                               |     1/2      |       1/2       |
+|                          Starchy<sup>c</sup>                           |                                               1/2                                               |     1/2      |       1/2       |
+|                     Other<sup>c</sup><sup>d</sup>                      |                                               1/2                                               |     1/2      |       3/4       |
+|            Additional Vegetables to Reach Total<sup>e</sup>            |                                         <sup>e</sup> 1                                          |<sup>e</sup> 1|<sup>e</sup> 11/2|
+|                       Grains (oz eq)<sup>f</sup>                       |                                             8-9 (1)                                             |   8-10 (1)   |    10-12 (2)    |
+|                     Meats/Meat Alternates (oz eq)                      |                                            8-10 (1)                                             |   9-10 (1)   |    10-12 (2)    |
+|                     Fluid milk (cups)<sup>g</sup>                      |                                              5 (1)                                              |    5 (1)     |      5 (1)      |
+|Other Specifications: Daily Amount Based on the Average for a 5-Day Week|                                                                                                 |              |                 |
+|                  Min-max calories (kcal)<sup>h</sup>                   |                                             550-650                                             |   600-700    |     750-850     |
+|            Saturated fat (% of total calories)<sup>h</sup>             |                                              \<10                                               |     \<10     |      \<10       |
+|                    Sodium Target 1 (mg)<sup>e</sup>                    |                                             ≤1,230                                              |    ≤1,360    |     ≤1,420      |
+|             Trans fat<sup>h</sup><sup>i</sup><sup>j</sup>              |Nutrition label or manufacturer specifications must indicate zero grams of trans fat per serving.|              |                 |
 
 <sup>a</sup> Food items included in each group and subgroup and amount equivalents. Minimum creditable serving is1/8 cup.
 
@@ -60,17 +57,19 @@ Link to an amendment published at 82 FR 56713, Nov. 30, 2017.
 
 <sup>c</sup> Larger amounts of these vegetables may be served.
 
-<sup>d</sup> This category consists of “Other vegetables” as defined in § 210.10(c)(2)(iii)(E). For the purposes of the NSLP, the “Other vegetables” requirement may be met with any additional amounts from the dark green, red/orange, and beans/peas (legumes) vegetable subgroups as defined in § 210.10(c)(2)(iii).
+<sup>d</sup> This category consists of “Other vegetables” as defined in paragraph (c)(2)(iii)(E) of this section. For the purposes of the NSLP, the “Other vegetables” requirement may be met with any additional amounts from the dark green, red/orange, and beans/peas (legumes) vegetable subgroups as defined in paragraph (c)(2)(iii) of this section.
 
 <sup>e</sup> Any vegetable subgroup may be offered to meet the total weekly vegetable requirement.
 
-<sup>f</sup> Beginning July 1, 2012 (SY 2012-2013), at least half of grains offered must be whole grain-rich. Beginning July 1, 2014 (SY 2014-15), all grains must be whole grain-rich.
+<sup>f</sup> All grains must be whole grain-rich. Exemptions are allowed as specified in paragraph (c)(2)(iv)(B) of this section.
 
-<sup>g</sup> Beginning July 1, 2012 (SY 2012-2013), all fluid milk must be low-fat (1 percent or less, unflavored) or fat-free (unflavored or flavored).
+<sup>g</sup> All fluid milk must be fat-free (skim) or low-fat (1 percent fat or less). Milk may be unflavored or flavored as specified in paragraph (d)(1)(i) of this section.
 
 <sup>h</sup> Discretionary sources of calories (solid fats and added sugars) may be added to the meal pattern if within the specifications for calories, saturated fat, trans fat, and sodium. Foods of minimal nutritional value and fluid milk with fat content greater than 1 percent are not allowed.
 
-<sup>i</sup> Final sodium targets must be met no later than July 1, 2022 (SY 2022-2023). The first intermediate target must be met no later than SY 2014-2015 and the second intermediate target must be met no later than SY 2017-2018. See required intermediate specifications in § 210.10(f)(3).
+<sup>i</sup> Sodium Target 1 (shown) is effective from July 1, 2014 (SY 2014-2015) through June 30, 2019 (SY 2018-2019). For sodium targets due to take effect beyond SY 2018-2019, see paragraph (f)(3) of this section.
+
+<sup>j</sup> Food products and ingredients must contain zero grams of trans fat (less than 0.5 grams) per serving.
 
 (1) *Age/grade groups.* Schools must plan menus for students using the following age/grade groups: Grades K-5 (ages 5-10), grades 6-8 (ages 11-13), and grades 9-12 (ages 14-18). If an unusual grade configuration in a school prevents the use of these established age/grade groups, students in grades K-5 and grades 6-8 may be offered the same food quantities at lunch provided that the calorie and sodium standards for each age/grade group are met. No customization of the established age/grade groups is allowed.
 
@@ -104,9 +103,9 @@ Link to an amendment published at 82 FR 56713, Nov. 30, 2017.
 
 (E) *Other vegetables.* This subgroup includes all other fresh, frozen, and canned vegetables, cooked or raw, such as artichokes, asparagus, avocado, bean sprouts, beets, Brussels sprouts, cabbage, cauliflower, celery, cucumbers, eggplant, green beans, green peppers, iceberg lettuce, mushrooms, okra, onions, parsnips, turnips, wax beans, and zucchini.
 
-(iv) *Grains component.* (A) *Enriched and whole grains.* All grains must be made with enriched and whole grain meal or flour, in accordance with the most recent grains FNS guidance. Whole grain-rich products must contain at least 50 percent whole grains and the remaining grains in the product must be enriched.
+(iv) *Grains component.* (A) *Enriched and whole grains.* All grains must be made with enriched and whole grain meal or flour, in accordance with the most recent grains FNS guidance. Whole grain-rich products must contain at least 50 percent whole grains and the remaining grains in the product must be enriched. The whole grain-rich criteria included in FNS guidance may be updated to reflect additional information provided by industry on the food label or a whole grains definition by the Food and Drug Administration.
 
-(B) *Daily and weekly servings.* The grains component is based on minimum daily servings plus total servings over a five-day school week. Beginning July 1, 2012 (SY 2012-2013), half of the grains offered during the school week must meet the whole grain-rich criteria specified in FNS guidance. Beginning July 1, 2014 (SY 2014-2015), all grains must meet the whole grain-rich criteria specified in FNS guidance. The whole grain-rich criteria provided in FNS guidance may be updated to reflect additional information provided voluntarily by industry on the food label or a whole grains definition by the Food and Drug Administration. Schools serving lunch 6 or 7 days per week must increase the weekly grains quantity by approximately 20 percent (1/5) for each additional day. When schools operate less than 5 days per week, they may decrease the weekly quantity by approximately 20 percent (1/5) for each day less than five. The servings for biscuits, rolls, muffins, and other grain/bread varieties are specified in FNS guidance.
+(B) *Daily and weekly servings.* The grains component is based on minimum daily servings plus total servings over a 5-day school week. Schools serving lunch 6 or 7 days per week must increase the weekly grains quantity by approximately 20 percent (1/5) for each additional day. When schools operate less than 5 days per week, they may decrease the weekly quantity by approximately 20 percent (1/5) for each day less than 5. The servings for biscuits, rolls, muffins, and other grain/bread varieties are specified in FNS guidance. All grains offered must meet the whole grain-rich criteria specified in FNS guidance. Exemptions are allowed at the discretion of the State agency from July 1, 2018 through June 30, 2019 (school year 2018-2019). If allowed by the State agency, a school food authority may submit an exemption request for one or more products. The exemption request must demonstrate hardship in meeting the requirement, address the criteria established in FNS guidance, and be submitted through the process established by the State agency. School food authorities granted an exemption from the whole grain-rich requirement, at a minimum, must offer half of the weekly grains as whole grain-rich.
 
 (C) *Desserts.* Schools may count up to two grain-based desserts per week towards meeting the grains requirement as specified in FNS guidance.
 
@@ -122,7 +121,7 @@ Link to an amendment published at 82 FR 56713, Nov. 30, 2017.
 
 (7) *Menu substitutions.* Schools should always try to substitute nutritionally similar foods.
 
-(d) *Fluid milk requirement* - (1) *Types of fluid milk.* (i) Schools must offer students a variety (at least two different options) of fluid milk. All milk must be fat-free or low-fat. Milk with higher fat content is not allowed. Fat-free fluid milk may be flavored or unflavored, and low-fat fluid milk must be unflavored. Low fat or fat-free lactose-free and reduced-lactose fluid milk may also be offered.
+(d) *Fluid milk requirement* - (1) *Types of fluid milk.* (i) Schools must offer students a variety (at least two different options) of fluid milk. All milk must be fat-free (skim) or low-fat (1 percent fat or less). Milk with higher fat content is not allowed. Low-fat or fat-free lactose-free and reduced-lactose fluid milk may also be offered. All milk may be unflavored or flavored from July 1, 2018 through June 30, 2019 (school year 2018-2019).
 
 (ii) All fluid milk served in the Program must be pasteurized fluid milk which meets State and local standards for such milk. All fluid milk must have vitamins A and D at levels specified by the Food and Drug Administration and must be consistent with State and local standards for such milk.
 
@@ -163,16 +162,15 @@ Link to an amendment published at 82 FR 56713, Nov. 30, 2017.
 
 (2) *Saturated fat.* School lunches offered to all age/grade groups must, on average over the school week, provide less than 10 percent of total calories from saturated fat.
 
-(3) *Sodium.* Schools lunches offered to each age/grade group must meet, on average over the school week, the levels of sodium specified in the following table within the established deadlines:
+(3) *Sodium.* School lunches offered to each age/grade group must meet, on average over the school week, the levels of sodium specified in the following table within the established deadlines:
 
-|National school lunch program|                          Sodium reduction: Timeline & amount                           |                                                            |                                                            |                                                                |
-|-----------------------------|----------------------------------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|----------------------------------------------------------------|
-|       Age/grade group       |Baseline:  <br/>Average current sodium levels in meals as offered<sup>1</sup>  <br/>(mg)|Target 1:  <br/>July 1, 2014  <br/>(SY 2014-2015)  <br/>(mg)|Target 2:  <br/>July 1, 2017  <br/>(SY 2017-2018)  <br/>(mg)|Final Target:  <br/>July 1, 2022  <br/>(SY 2022-2023)  <br/>(mg)|
-|             K-5             |                                   1,377 (elementary)                                   |                           ≤1,230                           |                            ≤935                            |                              ≤640                              |
-|             6-8             |                                     1,520 (middle)                                     |                           ≤1,360                           |                           ≤1,035                           |                              ≤710                              |
-|            9-12             |                                      1,588 (high)                                      |                           ≤1,420                           |                           ≤1,080                           |                              ≤740                              |
+National School Lunch Program Sodium Timeline & Limits
 
-<sup>1</sup> SNDA-III.
+|Age/grade group|Target 1: July 1, 2014  <br/>SY 2014-2015  <br/>(mg)|Target 2: July 1, 2019  <br/>SY 2019-2020  <br/>(mg)|Final target: July 1, 2022  <br/>SY 2022-2023  <br/>(mg)|
+|---------------|----------------------------------------------------|----------------------------------------------------|--------------------------------------------------------|
+|      K-5      |                       ≤1,230                       |                        ≤935                        |                          ≤640                          |
+|      6-8      |                       ≤1,360                       |                       ≤1,035                       |                          ≤710                          |
+|     9-12      |                       ≤1,420                       |                       ≤1,080                       |                          ≤740                          |
 
 (4) *Trans fat.* Food products and ingredients used to prepare school meals must contain zero grams of *trans* fat (less than 0.5 grams) per serving. Schools must add the *trans* fat specification and request the required documentation (nutrition label or manufacturer specifications) in their procurement contracts. Documentation for food products and food ingredients must indicate zero grams of *trans* fat per serving. Meats that contain a minimal amount of naturally-occurring *trans* fats are allowed in the school meal programs.
 
@@ -268,4 +266,4 @@ Link to an amendment published at 82 FR 56713, Nov. 30, 2017.
 
 (2) *Infant lunch meal pattern table.* The minimum amounts of food components to be served at lunch are as follows:
 
-![](/graphics/er01no16.143.gif)[77 FR 4143, Jan. 26, 2012, as amended at 78 FR 13448, Feb. 28, 2013; 78 FR 39090, June 28, 2013; 81 FR 24372, Apr. 25, 2016; 81 FR 50185, July 29, 2016; 81 FR 75671, Nov. 1, 2016]
+![](/graphics/er01no16.143.gif)[77 FR 4143, Jan. 26, 2012, as amended at 78 FR 13448, Feb. 28, 2013; 78 FR 39090, June 28, 2013; 81 FR 24372, Apr. 25, 2016; 81 FR 50185, July 29, 2016; 81 FR 75671, Nov. 1, 2016; 82 FR 56713, Nov. 30, 2017]
