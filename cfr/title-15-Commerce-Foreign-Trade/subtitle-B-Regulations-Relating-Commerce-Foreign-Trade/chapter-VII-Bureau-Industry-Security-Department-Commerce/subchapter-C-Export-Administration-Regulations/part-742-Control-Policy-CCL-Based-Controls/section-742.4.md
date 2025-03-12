@@ -60,10 +60,10 @@
 
 (8) For India, there is a general policy of approval for license applications to export, reexport, or transfer items, including “600 series” items, for civil or military end uses in India, for ultimate end use by the Government of India, for reexport to countries in Country Group A:5, or for return to the United States, so long as such items are not for use in nuclear, “missile,” or chemical or biological weapons activities.
 
-(9) For the Russian Federation, all applications will be reviewed in accordance with the licensing policy set forth in § 746.8(b) of the EAR.
+(9) For the Russian Federation and Belarus, all applications will be reviewed in accordance with the licensing policy set forth in § 746.8(b) of the EAR.
 
 (c) *Contract sanctity.* Contract sanctity provisions are not available for license applications reviewed under this section.
 
 (d) [Reserved]
 
-[61 FR 12786, Mar. 25, 1996, as amended at 61 FR 64283, Dec. 4, 1996; 70 FR 67348, Nov. 7, 2005; 72 FR 33656, June 19, 2007; 74 FR 23946, May 22, 2009; 74 FR 68145, Dec. 23, 2009; 78 FR 22721, Apr. 16, 2013; 79 FR 27436, May 13, 2014; 79 FR 45679, Aug. 6, 2014; 79 FR 76873, Dec. 23, 2014; 80 FR 29443, May 21, 2015; 81 FR 94967, Dec. 27, 2016; 82 FR 6220, Jan. 19, 2017; 85 FR 68450, Oct. 29, 2020; 86 FR 13177, Mar. 8, 2021; 86 FR 70017, Dec. 9, 2021; 87 FR 12238, Mar. 3, 2022]
+[61 FR 12786, Mar. 25, 1996, as amended at 61 FR 64283, Dec. 4, 1996; 70 FR 67348, Nov. 7, 2005; 72 FR 33656, June 19, 2007; 74 FR 23946, May 22, 2009; 74 FR 68145, Dec. 23, 2009; 78 FR 22721, Apr. 16, 2013; 79 FR 27436, May 13, 2014; 79 FR 45679, Aug. 6, 2014; 79 FR 76873, Dec. 23, 2014; 80 FR 29443, May 21, 2015; 81 FR 94967, Dec. 27, 2016; 82 FR 6220, Jan. 19, 2017; 85 FR 68450, Oct. 29, 2020; 86 FR 13177, Mar. 8, 2021; 86 FR 70017, Dec. 9, 2021; 87 FR 12238, Mar. 3, 2022; 87 FR 13059, Mar. 8, 2022]

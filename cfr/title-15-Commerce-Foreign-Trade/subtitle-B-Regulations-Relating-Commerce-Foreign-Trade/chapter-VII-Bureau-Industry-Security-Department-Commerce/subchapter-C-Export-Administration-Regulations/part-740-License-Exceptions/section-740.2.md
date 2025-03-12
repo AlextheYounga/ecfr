@@ -22,7 +22,7 @@
 
 (ii) MT controlled commodities described in ECCNs 2A001 or 2A101 may be exported or reexported under § 740.9(a)(4) (License Exception TMP) or § 740.10 (License Exception RPL) as one-for-one replacement for equipment previously legally exported or reexported.
 
-(6) The export or reexport is to a sanctioned destination (Cuba, Iran, North Korea, Syria, Crimea region of Ukraine, and the so-called Donetsk People's Republic (DNR) and Luhansk People's Republic (LNR) regions of Ukraine) or a license is required based on a limited sanction (Russia) unless a license exception or portion thereof is specifically listed in the license exceptions paragraph pertaining to a particular sanctioned country in part 746 of the EAR.
+(6) The export or reexport is to a sanctioned destination (Cuba, Iran, North Korea, Syria, Crimea region of Ukraine, and the so-called Donetsk People's Republic (DNR) and Luhansk People's Republic (LNR) regions of Ukraine) or a license is required based on a limited sanction (Russia or Belarus) unless a license exception or portion thereof is specifically listed in the license exceptions paragraph pertaining to a particular sanctioned country in part 746 of the EAR.
 
 (7) With the exception of License Exception GOV (§ 740.11(b)(2)), license exceptions are not available for the following 6E001 or 6E002 technology:
 

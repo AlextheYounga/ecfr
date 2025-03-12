@@ -1,5 +1,7 @@
 ##### § 205.1 Automatic revocation. #####
 
+Link to an amendment published at 87 FR 13112, Mar. 8, 2022.
+
 (a) *Reasons for automatic revocation.* The approval of a petition or self-petition made under section 204 of the Act and in accordance with part 204 of this chapter is revoked as of the date of approval:
 
 (1) If the Secretary of State shall terminate the registration of the beneficiary pursuant to the provisions of section 203(e) of the Act before October 1, 1991, or section 203(g) of the Act on or after October 1, 1994;

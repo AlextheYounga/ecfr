@@ -12,7 +12,7 @@
 
 (4) The design, “development,” “production,” operation, installation (including on-site installation), maintenance (checking), repair, overhaul, refurbishing, shipment, or transfer (in-country) of a whole plant to make chemical weapons precursors identified in ECCN 1C350, in or by countries other than those listed in Country Group A:3 (Australia Group); or
 
-(5) A 'military-intelligence end use' or a 'military-intelligence end user,' as defined in § 744.22(f), in Burma, Cambodia, the People's Republic of China, Russia, or Venezuela; or a country listed in Country Groups E:1 or E:2 (see supplement no. 1 to part 740 of the EAR).
+(5) A 'military-intelligence end use' or a 'military-intelligence end user,' as defined in § 744.22(f), in Belarus, Burma, Cambodia, the People's Republic of China, Russia, or Venezuela; or a country listed in Country Groups E:1 or E:2 (see supplement no. 1 to part 740 of the EAR).
 
 (6) 'Support' means:
 
@@ -34,4 +34,4 @@
 
 (2) Applications for a “U.S. person” to 'support' (as defined in paragraph (b)(6) of this section) a 'military-intelligence end use' or a 'military-intelligence end user' as described in paragraph (b)(5) of this section will be reviewed with a presumption of denial.
 
-[86 FR 4871, Jan. 15, 2021, as amended at 86 FR 18436, Apr. 9, 2021; 86 FR 70018, Dec. 9, 2021]
+[86 FR 4871, Jan. 15, 2021, as amended at 86 FR 18436, Apr. 9, 2021; 86 FR 70018, Dec. 9, 2021; 87 FR 13059, Mar. 8, 2022]

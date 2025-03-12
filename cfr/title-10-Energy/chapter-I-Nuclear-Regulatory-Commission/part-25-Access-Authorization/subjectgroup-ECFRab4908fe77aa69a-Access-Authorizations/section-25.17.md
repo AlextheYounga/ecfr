@@ -1,7 +1,5 @@
 ##### § 25.17 Approval for processing applicants for access authorization. #####
 
-Link to an amendment published at 86 FR 73637, Dec. 28, 2021.
-
 (a) Access authorizations must be requested for licensee employees or other persons (e.g., 10 CFR part 2, subpart I) who need access to classified information in connection with activities under 10 CFR parts 50, 52, 54, 60, 63, 70, 72, or 76.
 
 (b) The request must be submitted to the facility CSA. If the NRC is the CSA, the procedures in § 25.17 (c) and (d) will be followed. If the NRC is not the CSA, the request will be submitted to the CSA in accordance with procedures established by the CSA. The NRC will be notified of the request by a letter that includes the name, Social Security number and level of access authorization.

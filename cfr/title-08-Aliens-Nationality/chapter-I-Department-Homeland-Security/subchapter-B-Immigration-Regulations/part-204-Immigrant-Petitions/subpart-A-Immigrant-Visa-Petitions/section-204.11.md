@@ -1,5 +1,7 @@
 ##### § 204.11 Special immigrant status for certain aliens declared dependent on a juvenile court (special immigrant juvenile). #####
 
+Link to an amendment published at 87 FR 13111, Mar. 8, 2022.
+
 (a) *Definitions.*
 
 *Eligible for long-term foster care* means that a determination has been made by the juvenile court that family reunification is no longer a viable option. A child who is eligible for long-term foster care will normally be expected to remain in foster care until reaching the age of majority, unless the child is adopted or placed in a guardianship situation. For the purposes of establishing and maintaining eligibility for classification as a special immigrant juvenile, a child who has been adopted or placed in guardianship situation after having been found dependent upon a juvenile court in the United States will continue to be considered to be eligible for long-term foster care.

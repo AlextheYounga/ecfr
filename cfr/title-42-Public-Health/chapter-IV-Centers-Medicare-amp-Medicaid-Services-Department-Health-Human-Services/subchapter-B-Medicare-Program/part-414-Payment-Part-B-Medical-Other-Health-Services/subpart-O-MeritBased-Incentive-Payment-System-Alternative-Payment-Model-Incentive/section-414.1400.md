@@ -36,13 +36,13 @@
 
 (3) All data submitted to CMS by a third party intermediary on behalf of a MIPS eligible clinician, group, virtual group, subgroup, or APM Entity must be certified by the third party intermediary as true, accurate, and complete to the best of its knowledge. Such certification must be made in a form and manner and at such time as specified by CMS.
 
-(b) *Additional requirements for QCDRs and qualified registries* - (1) General. (i) Beginning with the CY 2021 performance period/2023 MIPS payment year, QCDRs and qualified registries must be able to submit data for all of the following MIPS performance categories:
+(b) *Additional requirements for QCDRs and qualified registries* - (1) *General.* (i) Beginning with the CY 2021 performance period/2023 MIPS payment year, QCDRs and qualified registries must be able to submit data for all of the following MIPS performance categories:
 
 (A) Quality, except:
 
-(1) The CAHPS for MIPS survey; and
+(*1*)The CAHPS for MIPS survey; and
 
-(2) For qualified registries, QCDR measures;
+(*2*) For qualified registries, QCDR measures;
 
 (B) Improvement activities; and
 
@@ -72,25 +72,25 @@
 
 (E) The QCDR or qualified registry must conduct each data validation audit using a sampling methodology that meets the following requirements:
 
-(1) Uses a sample size of at least 3 percent of the TIN/NPIs for which the QCDR or qualified registry will submit data to CMS, except that if a 3 percent sample size would result in fewer than 10 TIN/NPIs, the QCDR or qualified registry must use a sample size of at least 10 TIN/NPIs, and if a 3 percent sample size would result in more than 50 TIN/NPIs, the QCDR or qualified registry may use a sample size of 50 TIN/NPIs.
+(*1*) Uses a sample size of at least 3 percent of the TIN/NPIs for which the QCDR or qualified registry will submit data to CMS, except that if a 3 percent sample size would result in fewer than 10 TIN/NPIs, the QCDR or qualified registry must use a sample size of at least 10 TIN/NPIs, and if a 3 percent sample size would result in more than 50 TIN/NPIs, the QCDR or qualified registry may use a sample size of 50 TIN/NPIs.
 
-(2) Uses a sample that includes at least 25 percent of the patients of each TIN/NPI in the sample, except that the sample for each TIN/NPI must include a minimum of 5 patients and does not need to include more than 50 patients.
+(*2*) Uses a sample that includes at least 25 percent of the patients of each TIN/NPI in the sample, except that the sample for each TIN/NPI must include a minimum of 5 patients and does not need to include more than 50 patients.
 
 (F) Each QCDR or qualified registry data validation audit must include the following:
 
-(1) Verification of the eligibility status of each eligible clinician, group, virtual group, subgroup, opt-in participant, and voluntary participant.
+(*1*) Verification of the eligibility status of each eligible clinician, group, virtual group, subgroup, opt-in participant, and voluntary participant.
 
-(2) Verification of the accuracy of TINs and NPIs.
+(*2*) Verification of the accuracy of TINs and NPIs.
 
-(3) Calculation of reporting and performance rates.
+(*3*) Calculation of reporting and performance rates.
 
-(4) Verification that only the MIPS quality measures and QCDR measures, as applicable, that are relevant to the performance period will be used for MIPS submission.
+(*4*) Verification that only the MIPS quality measures and QCDR measures, as applicable, that are relevant to the performance period will be used for MIPS submission.
 
 (G) In a form and manner and by a deadline specified by CMS, the QCDR or qualified registry must report the results of each data validation audit, including the overall data deficiencies or data error rate, the types of deficiencies or data errors discovered, the percentage of clinicians impacted by any deficiency or error, and, how and when each deficiency or data error type was corrected.
 
-(1) QCDRs and qualified registries must conduct validation on the data they intend to submit for the MIPS performance period and provide the results of the executed data validation plan by May 31st of the year following the performance period.
+(*1*) QCDRs and qualified registries must conduct validation on the data they intend to submit for the MIPS performance period and provide the results of the executed data validation plan by May 31st of the year following the performance period.
 
-(2) [Reserved]
+(*2*) [Reserved]
 
 (vi) Beginning with the CY 2021 performance period/2023 MIPS payment year, the QCDR or qualified registry must conduct targeted audits in accordance with this paragraph (b)(3)(vi).
 
@@ -106,7 +106,7 @@
 
 (viii) Beginning with the CY 2024 performance period/2026 MIPS payment year, a QCDR or qualified registry that was approved but did not submit any MIPS data for either of the 2 years preceding the applicable self-nomination period must submit a participation plan for CMS' approval. This participation plan must include the QCDR's and/or qualified registry's detailed plans about how the QCDR or qualified registry intends to encourage clinicians to submit MIPS data to CMS through the QCDR or qualified registry.
 
-(4) *QCDR measures for the quality performance category - (i) QCDR measure self-nomination requirements.* For the CY 2018 performance period/2020 MIPS payment year and future years, at the time of self-nomination an entity seeking to become a QCDR must submit the following information for any measure it intends to submit for the payment year.
+(4) *QCDR measures for the quality performance category* - (i) *QCDR measure self-nomination requirements.* For the CY 2018 performance period/2020 MIPS payment year and future years, at the time of self-nomination an entity seeking to become a QCDR must submit the following information for any measure it intends to submit for the payment year.
 
 (A) For MIPS quality measures, the entity must submit specifications including the MIPS measure IDs and specialty-specific measure sets, as applicable.
 

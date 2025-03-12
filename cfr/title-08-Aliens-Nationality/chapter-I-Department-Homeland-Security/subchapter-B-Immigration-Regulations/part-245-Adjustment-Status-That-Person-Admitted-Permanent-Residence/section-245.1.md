@@ -1,5 +1,7 @@
 ##### § 245.1 Eligibility. #####
 
+Link to an amendment published at 87 FR 13112, Mar. 8, 2022.
+
 (a) *General.* Any alien who is physically present in the United States, except for an alien who is ineligible to apply for adjustment of status under paragraph (b) or (c) of this section, may apply for adjustment of status to that of a lawful permanent resident of the United States if the applicant is eligible to receive an immigrant visa and an immigrant visa is immediately available at the time of filing of the application. A special immigrant described under section 101(a)(27)(J) of the Act shall be deemed, for the purpose of applying the adjustment to status provisions of section 245(a) of the Act, to have been paroled into the United States, regardless of the actual method of entry into the United States.
 
 (b) *Restricted aliens.* The following categories of aliens are ineligible to apply for adjustment of status to that of a lawful permanent resident alien under section 245 of the Act, unless the alien establishes eligibility under the provisions of section 245(i) of the Act and § 245.10, is not included in the categories of aliens prohibited from applying for adjustment of status listed in § 245.1(c), is eligible to receive an immigrant visa, and has an immigrant visa immediately available at the time of filing the application for adjustment of status:
@@ -130,7 +132,7 @@
 
 (2) *No fault of the applicant or for technical reasons.* The parenthetical phrase *other than through no fault of his or her own or for technical reasons* shall be limited to:
 
-(i) Inaction of another individual or organization designated by regulation to act on behalf of an individual and over whose actions the individual has no control, if the inaction is acknowledged by that individual or organization (as, for example, where a designated school official certified under § 214.2(f) of this chapter or an exchange propram sponsor under § 214.2(j) of this chapter did not provide required notification to the Service of continuation of status, or did not forward a request for continuation of status to the Service); or
+(i) Inaction of another individual or organization designated by regulation to act on behalf of an individual and over whose actions the individual has no control, if the inaction is acknowledged by that individual or organization (as, for example, where a designated school official certified under § 214.2(f) of this chapter or an exchange program sponsor under § 214.2(j) of this chapter did not provide required notification to the Service of continuation of status, or did not forward a request for continuation of status to the Service); or
 
 (ii) A technical violation resulting from inaction of the Service (as for example, where an applicant establishes that he or she properly filed a timely request to maintain status and the Service has not yet acted on that request). An individual whose refugee or asylum status has expired through passage of time, but whose status has not been revoked, will be considered to have gone out of status for a technical reason.
 
