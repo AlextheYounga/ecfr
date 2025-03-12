@@ -1,0 +1,3 @@
+##### § 217.102 Permissible methods of taking. #####
+
+Under LOAs issued pursuant to §§ 216.106 of this chapter and 217.106, the Holder of the LOA (hereinafter “UCSC/PISCO”) may incidentally, but not intentionally, take marine mammals within the area described in § 217.100(b) by Level B harassment associated with rocky intertidal monitoring activities, provided the activity is in compliance with all terms, conditions, and requirements of the regulations in this subpart and the appropriate LOA.
