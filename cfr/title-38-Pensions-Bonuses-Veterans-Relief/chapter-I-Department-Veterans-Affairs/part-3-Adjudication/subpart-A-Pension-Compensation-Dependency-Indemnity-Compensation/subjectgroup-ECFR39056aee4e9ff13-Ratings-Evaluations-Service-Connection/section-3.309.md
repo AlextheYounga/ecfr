@@ -12,7 +12,7 @@ Cirrhosis of the liver.Coccidioidomycosis.Diabetes mellitus.Encephalitis letharg
 
 Amebiasis.Blackwater fever.Cholera.Dracontiasis.Dysentery.Filariasis.Leishmaniasis, including kala-azar.Loiasis.Malaria.Onchocerciasis.Oroya fever.Pinta.Plague.Schistosomiasis.Yaws.Yellow fever.Resultant disorders or diseases originating because of therapy administered in connection with such diseases or as a preventative thereof.
 
-(c) *Diseases specific as to former prisoners of war.* (1) If a veteran is a former prisoner of war, the following diseases shall be service connected if manifest to a degree of disability of 10 percent or more at any time after discharge or release from active military, naval, or air service even though there is no record of such disease during service, provided the rebuttable presumption provisions of § 3.307 are also satisfied.
+(c) *Diseases specific as to former prisoners of war.* (1) If a veteran is a former prisoner of war, the following diseases shall be service connected if manifest to a degree of disability of 10 percent or more at any time after discharge or release from active military, naval, air, or space service even though there is no record of such disease during service, provided the rebuttable presumption provisions of § 3.307 are also satisfied.
 
 Psychosis.Any of the anxiety states.Dysthymic disorder (or depressive neurosis).Organic residuals of frostbite, if it is determined that the veteran was interned in climatic conditions consistent with the occurrence of frostbite.Post-traumatic osteoarthritis.Atherosclerotic heart disease or hypertensive vascular disease (including hypertensive heart disease) and their complications (including myocardial infarction, congestive heart failure, arrhythmia).Stroke and its complications.On or after October 10, 2008, Osteoporosis, if the Secretary determines that the veteran has posttraumatic stress disorder (PTSD).
 
@@ -20,7 +20,7 @@ Psychosis.Any of the anxiety states.Dysthymic disorder (or depressive neurosis).
 
 (i) Is a former prisoner of war and;
 
-(ii) Was interned or detained for not less than 30 days, the following diseases shall be service connected if manifest to a degree of 10 percent or more at any time after discharge or release from active military, naval, or air service even though there is no record of such disease during service, provided the rebuttable presumption provisions of § 3.307 are also satisfied.
+(ii) Was interned or detained for not less than 30 days, the following diseases shall be service connected if manifest to a degree of 10 percent or more at any time after discharge or release from active military, naval, air or space service even though there is no record of such disease during service, provided the rebuttable presumption provisions of § 3.307 are also satisfied.
 
 Avitaminosis.Beriberi (including beriberi heart disease).Chronic dysentery.Helminthiasis.Malnutrition (including optic atrophy associated with malnutrition).Pellagra.Any other nutritional deficiency.Irritable bowel syndrome.Peptic ulcer disease.Peripheral neuropathy except where directly related to infectious causes.Cirrhosis of the liver.On or after September 28, 2009, Osteoporosis.(Authority: 38 U.S.C. 1112(b))
 

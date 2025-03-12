@@ -68,7 +68,7 @@
 
 (Authority: 38 U.S.C. 5103A(b))
 
-(3) *Obtaining records in compensation claims.* In a claim for disability compensation, VA will make efforts to obtain the claimant's service medical records, if relevant to the claim; other relevant records pertaining to the claimant's active military, naval or air service that are held or maintained by a governmental entity; VA medical records or records of examination or treatment at non-VA facilities authorized by VA; and any other relevant records held by any Federal department or agency. The claimant must provide enough information to identify and locate the existing records including the custodian or agency holding the records; the approximate time frame covered by the records; and, in the case of medical treatment records, the condition for which treatment was provided.
+(3) *Obtaining records in compensation claims.* In a claim for disability compensation, VA will make efforts to obtain the claimant's service medical records, if relevant to the claim; other relevant records pertaining to the claimant's active military, naval, air, or space service that are held or maintained by a governmental entity; VA medical records or records of examination or treatment at non-VA facilities authorized by VA; and any other relevant records held by any Federal department or agency. The claimant must provide enough information to identify and locate the existing records including the custodian or agency holding the records; the approximate time frame covered by the records; and, in the case of medical treatment records, the condition for which treatment was provided.
 
 (Authority: 38 U.S.C. 5103A(c))
 
@@ -118,4 +118,4 @@
 
 (g) The authority recognized in subsection (g) of 38 U.S.C. 5103A is reserved to the sole discretion of the Secretary and will be implemented, when deemed appropriate by the Secretary, through the promulgation of regulations.
 
-(Authority: 38 U.S.C. 5103A(g))[66 FR 45630, Aug. 29, 2001, as amended at 73 FR 23356, Apr. 30, 2008; 84 FR 169, Jan. 18, 2019; 86 FR 42732, Aug. 5, 2021]
+(Authority: 38 U.S.C. 5103A(g))[66 FR 45630, Aug. 29, 2001, as amended at 73 FR 23356, Apr. 30, 2008; 84 FR 169, Jan. 18, 2019; 86 FR 42732, Aug. 5, 2021; 87 FR 26125, May 3, 2022]

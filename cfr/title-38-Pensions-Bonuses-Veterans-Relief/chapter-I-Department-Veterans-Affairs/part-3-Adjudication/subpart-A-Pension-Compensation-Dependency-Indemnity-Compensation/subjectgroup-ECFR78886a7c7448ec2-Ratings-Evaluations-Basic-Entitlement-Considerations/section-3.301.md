@@ -22,10 +22,10 @@
 
 (Authority: 38 U.S.C. 105, 1110, 1121, 1131, 1301, and 1521(a))
 
-(d) *Line of duty; abuse of alcohol or drugs.* An injury or disease incurred during active military, naval, or air service shall not be deemed to have been incurred in line of duty if such injury or disease was a result of the abuse of alcohol or drugs by the person on whose service benefits are claimed. For the purpose of this paragraph, alcohol abuse means the use of alcoholic beverages over time, or such excessive use at any one time, sufficient to cause disability to or death of the user; drug abuse means the use of illegal drugs (including prescription drugs that are illegally or illicitly obtained), the intentional use of prescription or non-prescription drugs for a purpose other than the medically intended use, or the use of substances other than alcohol to enjoy their intoxicating effects.
+(d) *Line of duty; abuse of alcohol or drugs.* An injury or disease incurred during active military, naval, air, or space service shall not be deemed to have been incurred in line of duty if such injury or disease was a result of the abuse of alcohol or drugs by the person on whose service benefits are claimed. For the purpose of this paragraph, alcohol abuse means the use of alcoholic beverages over time, or such excessive use at any one time, sufficient to cause disability to or death of the user; drug abuse means the use of illegal drugs (including prescription drugs that are illegally or illicitly obtained), the intentional use of prescription or non-prescription drugs for a purpose other than the medically intended use, or the use of substances other than alcohol to enjoy their intoxicating effects.
 
 (Authority: 38 U.S.C. 105(a))Cross References:
 
 In line of duty. See § 3.1(m). Willful misconduct. See § 3.1(n). Extended period of eligibility. See §§ 21.1043 and 21.7051. Periods of entitlement. See § 21.5041.
 
-[26 FR 1579, Feb. 24, 1961, as amended at 37 FR 24662, Nov. 18, 1972; 54 FR 31951, Aug. 3, 1989; 55 FR 13530, Apr. 11, 1990; 60 FR 27408, May 24, 1995]
+[26 FR 1579, Feb. 24, 1961, as amended at 37 FR 24662, Nov. 18, 1972; 54 FR 31951, Aug. 3, 1989; 55 FR 13530, Apr. 11, 1990; 60 FR 27408, May 24, 1995; 87 FR 26125, May 3, 2022]

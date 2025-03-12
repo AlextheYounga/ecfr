@@ -1,6 +1,6 @@
 ##### § 3.6 Duty periods. #####
 
-(a) *Active military, naval, and air service.* This includes active duty, any period of active duty for training during which the individual concerned was disabled or died from a disease or injury incurred or aggravated in line of duty, and any period of inactive duty training during which the individual concerned was disabled or died from an injury incurred or aggravated in line of duty or from an acute myocardial infarction, a cardiac arrest, or a cerebrovascular accident which occurred during such training.
+(a) *Active military, naval, air, or space service.* This includes active duty, any period of active duty for training during which the individual concerned was disabled or died from a disease or injury incurred or aggravated in line of duty, and any period of inactive duty training during which the individual concerned was disabled or died from an injury incurred or aggravated in line of duty or from an acute myocardial infarction, a cardiac arrest, or a cerebrovascular accident which occurred during such training.
 
 (Authority: 38 U.S.C. 101(24))
 
@@ -54,7 +54,7 @@
 
 (4) Duty performed by a member of a Senior Reserve Officers' Training Corps program when ordered to such duty for the purpose of training or a practice cruise under chapter 103 of title 10 U.S.C.
 
-(i) The requirements of this paragraph are effective -
+(i) The requirements of this paragraph are effective—
 
 (A) On or after October 1, 1982, with respect to deaths and disabilities resulting from diseases or injuries incurred or aggravated after September 30, 1982, and
 
@@ -86,7 +86,7 @@
 
 (Authority: 38 U.S.C. 101(23))
 
-(e) *Travel status - training duty (disability or death from injury or covered disease).* Any individual:
+(e) *Travel status—training duty (disability or death from injury or covered disease).* Any individual:
 
 (1) Who, when authorized or required by competent authority, assumes an obligation to perform active duty for training or inactive duty training; and
 
@@ -100,4 +100,4 @@
 
 (iii) A cerebrovascular accident.
 
-(Authority: 38 U.S.C. 106(d))[26 FR 1564, Feb. 24, 1961, as amended at 26 FR 6767, July 28, 1961; 27 FR 4023, Apr. 27, 1962; 29 FR 14171, Oct. 15, 1964; 36 FR 5341, Mar. 20, 1971; 41 FR 26881, June 29, 1976; 49 FR 47003, Nov. 30, 1984; 54 FR 51200, Dec. 13, 1989; 55 FR 23931, June 13, 1990; 60 FR 57179, Nov. 14, 1995; 61 FR 11731, Mar. 22, 1996; 66 FR 48560, Sept. 21, 2001; 67 FR 49585, July 31, 2002]
+(Authority: 38 U.S.C. 106(d))[26 FR 1564, Feb. 24, 1961, as amended at 26 FR 6767, July 28, 1961; 27 FR 4023, Apr. 27, 1962; 29 FR 14171, Oct. 15, 1964; 36 FR 5341, Mar. 20, 1971; 41 FR 26881, June 29, 1976; 49 FR 47003, Nov. 30, 1984; 54 FR 51200, Dec. 13, 1989; 55 FR 23931, June 13, 1990; 60 FR 57179, Nov. 14, 1995; 61 FR 11731, Mar. 22, 1996; 66 FR 48560, Sept. 21, 2001; 67 FR 49585, July 31, 2002; 87 FR 26125, May 3, 2022]

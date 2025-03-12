@@ -1,6 +1,6 @@
-##### § 3.7 Individuals and groups considered to have performed active military, naval, or air service. #####
+##### § 3.7 Individuals and groups considered to have performed active military, naval, air, or space service. #####
 
-The following individuals and groups are considered to have performed active military, naval, or air service:
+The following individuals and groups are considered to have performed active military, naval, air, or space service:
 
 (a) *Aerial transportation of mail* (*Pub. L. 140, 73d Congress*). Persons who were injured or died while serving under conditions set forth in Pub. L. 140, 73d Congress.
 
@@ -38,7 +38,7 @@ The following individuals and groups are considered to have performed active mil
 
 (o) *Persons ordered to service.* (1) Any person who has:
 
-(i) Applied for enlistment or enrollment in the active military, naval, or air service and who is provisionally accepted and directed, or ordered, to report to a place for final acceptance into the service, or
+(i) Applied for enlistment or enrollment in the active military, naval, air, or space service and who is provisionally accepted and directed, or ordered, to report to a place for final acceptance into the service, or
 
 (ii) Been selected or drafted for such service, and has reported according to a call from the person's local draft board and before final rejection, or
 

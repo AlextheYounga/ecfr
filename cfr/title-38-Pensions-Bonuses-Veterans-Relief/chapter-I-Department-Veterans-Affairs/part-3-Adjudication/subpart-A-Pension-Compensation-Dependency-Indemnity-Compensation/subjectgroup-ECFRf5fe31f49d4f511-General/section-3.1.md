@@ -1,20 +1,20 @@
 ##### § 3.1 Definitions. #####
 
-(a) *Armed Forces* means the United States Army, Navy, Marine Corps, Air Force, and Coast Guard, including their Reserve components.
+(a) *Armed Forces* means the United States Army, Navy, Marine Corps, Air Force, Space Force, and Coast Guard, including their Reserve components.
 
-(b) *Reserve component* means the Army, Naval, Marine Corps, Air Force, and Coast Guard Reserves and the National and Air National Guard of the United States.
+(b) *Reserve component* means the Army, Naval, Marine Corps, Air Force, Space Force, and Coast Guard Reserves and the National and Air National Guard of the United States.
 
 (c) *Reserves* means members of a Reserve component of one of the Armed Forces.
 
-(d) *Veteran* means a person who served in the active military, naval, or air service and who was discharged or released under conditions other than dishonorable.
+(d) *Veteran* means a person who served in the active military, naval, air, or space service and who was discharged or released under conditions other than dishonorable.
 
 (1) For compensation and dependency and indemnity compensation the term *veteran* includes a person who died in active service and whose death was not due to willful misconduct.
 
-(2) For death pension the term *veteran* includes a person who died in active service under conditions which preclude payment of service-connected death benefits, provided such person had completed at least 2 years honorable military, naval or air service, as certified by the Secretary concerned. (See §§ 3.3(b)(3)(i) and 3.3(b)(4)(i))
+(2) For death pension the term *veteran* includes a person who died in active service under conditions which preclude payment of service-connected death benefits, provided such person had completed at least 2 years honorable military, naval, air, or space service, as certified by the Secretary concerned. (See §§ 3.3(b)(3)(i) and 3.3(b)(4)(i))
 
 (Authority: 38 U.S.C. 501)
 
-(e) *Veteran of any war* means any veteran who served in the active military, naval or air service during a period of war as set forth in § 3.2.
+(e) *Veteran of any war* means any veteran who served in the active military, naval, air, or space service during a period of war as set forth in § 3.2.
 
 (f) *Period of war* means the periods described in § 3.2.
 
@@ -24,7 +24,7 @@
 
 (2) The Secretary of the Navy, with respect to matters concerning the Navy or the Marine Corps;
 
-(3) The Secretary of the Air Force, with respect to matters concerning the Air Force;
+(3) The Secretary of the Air Force, with respect to matters concerning the Air Force or the Space Force;
 
 (4) The Secretary of Homeland Security, with respect to matters concerning the Coast Guard;
 
@@ -32,7 +32,7 @@
 
 (6) The Secretary of Commerce, with respect to matters concerning the Coast and Geodetic Survey, the Environmental Science Services Administration, and the National Oceanic and Atmospheric Administration.
 
-(h) *Discharge or release* includes retirement from the active military, naval, or air service.
+(h) *Discharge or release* includes retirement from the active military, naval, air, or space service.
 
 (i) *State* means each of the several States, Territories and possessions of the United States, the District of Columbia, and Commonwealth of Puerto Rico.
 
@@ -40,11 +40,11 @@
 
 (Authority: 38 U.S.C. 103(c))
 
-(k) *Service-connected* means, with respect to disability or death, that such disability was incurred or aggravated, or that the death resulted from a disability incurred or aggravated, in line of duty in the active military, naval, or air service.
+(k) *Service-connected* means, with respect to disability or death, that such disability was incurred or aggravated, or that the death resulted from a disability incurred or aggravated, in line of duty in the active military, naval, air, or space service.
 
-(l) *Nonservice-connected* means, with respect to disability or death, that such disability was not incurred or aggravated, or that the death did not result from a disability incurred or aggravated, in line of duty in the active military, naval, or air service.
+(l) *Nonservice-connected* means, with respect to disability or death, that such disability was not incurred or aggravated, or that the death did not result from a disability incurred or aggravated, in line of duty in the active military, naval, air, or space service.
 
-(m) *In line of duty* means an injury or disease incurred or aggravated during a period of active military, naval, or air service unless such injury or disease was the result of the veteran's own willful misconduct or, for claims filed after October 31, 1990, was a result of his or her abuse of alcohol or drugs. A service department finding that injury, disease or death occurred in line of duty will be binding on the Department of Veterans Affairs unless it is patently inconsistent with the requirements of laws administered by the Department of Veterans Affairs. Requirements as to line of duty are not met if at the time the injury was suffered or disease contracted the veteran was:
+(m) *In line of duty* means an injury or disease incurred or aggravated during a period of active military, naval, air, or space service unless such injury or disease was the result of the veteran's own willful misconduct or, for claims filed after October 31, 1990, was a result of his or her abuse of alcohol or drugs. A service department finding that injury, disease or death occurred in line of duty will be binding on the Department of Veterans Affairs unless it is patently inconsistent with the requirements of laws administered by the Department of Veterans Affairs. Requirements as to line of duty are not met if at the time the injury was suffered or disease contracted the veteran was:
 
 (1) Avoiding duty by desertion, or was absent without leave which materially interfered with the performance of military duty.
 
@@ -100,7 +100,7 @@ See § 3.1(y)(2)(iii) for applicability of *in line of duty* in determining form
 
 (Authority: 38 U.S.C. 1512, 1536)
 
-(y) *Former prisoner of war.* The term *former prisoner of war* means a person who, while serving in the active military, naval or air service, was forcibly detained or interned in the line of duty by an enemy or foreign government, the agents of either, or a hostile force.
+(y) *Former prisoner of war.* The term *former prisoner of war* means a person who, while serving in the active military, naval, air, or space service, was forcibly detained or interned in the line of duty by an enemy or foreign government, the agents of either, or a hostile force.
 
 (1) *Decisions based on service department findings.* The Department of Veterans Affairs shall accept the findings of the appropriate service department that a person was a prisoner of war during a period of war unless a reasonable basis exists for questioning it. Such findings shall be accepted only when detention or internment is by an enemy government or its agents.
 

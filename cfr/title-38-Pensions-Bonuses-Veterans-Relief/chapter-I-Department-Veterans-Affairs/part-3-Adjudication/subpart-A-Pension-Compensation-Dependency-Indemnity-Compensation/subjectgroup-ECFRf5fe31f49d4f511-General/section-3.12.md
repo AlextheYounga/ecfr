@@ -44,7 +44,7 @@
 
 (1) The discharge is upgraded as a result of an individual case review;
 
-(2) The discharge is upgraded under uniform published standards and procedures that generally apply to all persons administratively discharged or released from active military, naval or air service under conditions other than honorable; and
+(2) The discharge is upgraded under uniform published standards and procedures that generally apply to all persons administratively discharged or released from active military, naval, air, or space service under conditions other than honorable; and
 
 (3) Such standards are consistent with historical standards for determining honorable service and do not contain any provision for automatically granting or denying an upgraded discharge.
 
@@ -74,4 +74,4 @@
 
 Validity of enlistments. See § 3.14. Revision of decisions. See § 3.105. Effective dates. See § 3.400(g). Minimum active-duty service requirement. See § 3.12a.
 
-[28 FR 123, Jan. 4, 1963, as amended at 41 FR 12656, Mar. 26, 1976; 43 FR 15153, Apr. 11, 1978; 45 FR 2318, Jan. 11, 1980; 49 FR 44099, Nov. 2, 1984; 62 FR 14823, Mar. 28, 1997]
+[28 FR 123, Jan. 4, 1963, as amended at 41 FR 12656, Mar. 26, 1976; 43 FR 15153, Apr. 11, 1978; 45 FR 2318, Jan. 11, 1980; 49 FR 44099, Nov. 2, 1984; 62 FR 14823, Mar. 28, 1997; 87 FR 26125, May 3, 2022]

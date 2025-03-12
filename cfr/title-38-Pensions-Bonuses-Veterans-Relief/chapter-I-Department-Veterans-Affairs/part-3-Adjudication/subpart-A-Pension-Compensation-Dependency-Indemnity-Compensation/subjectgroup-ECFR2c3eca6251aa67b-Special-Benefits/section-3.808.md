@@ -1,10 +1,10 @@
 ##### § 3.808 Automobiles or other conveyances and adaptive equipment; certification. #####
 
-(a) *Entitlement.* A certificate of eligibility for financial assistance in the purchase of one automobile or other conveyance in an amount not exceeding the amount specified in 38 U.S.C. 3902 (including all State, local, and other taxes where such are applicable and included in the purchase price) and of basic entitlement to necessary adaptive equipment will be provided to -
+(a) *Entitlement.* A certificate of eligibility for financial assistance in the purchase of one automobile or other conveyance in an amount not exceeding the amount specified in 38 U.S.C. 3902 (including all State, local, and other taxes where such are applicable and included in the purchase price) and of basic entitlement to necessary adaptive equipment will be provided to—
 
 (1) A veteran who is entitled to compensation under chapter 11 of title 38, United States Code, for a disability described in paragraph (b) of this section; or
 
-(2) A member of the Armed Forces serving on active duty who has a disability described in paragraph (b) of this section that is the result of an injury or disability incurred or disease contracted in or aggravated by active military, naval, or air service.
+(2) A member of the Armed Forces serving on active duty who has a disability described in paragraph (b) of this section that is the result of an injury or disability incurred or disease contracted in or aggravated by active military, naval, air, or space service.
 
 (b) *Disability.* One of the following must exist:
 
@@ -34,4 +34,4 @@
 
 (3) The term also includes other equipment which the Chief Medical Director or designee may deem necessary in an individual case.
 
-(Authority: 38 U.S.C. 501(a), 1151(c)(2), 3902))[36 FR 7588, Apr. 22, 1971, as amended at 38 FR 14370, June 1, 1973; 40 FR 37037, Aug. 25, 1975; 43 FR 4423, Feb. 2, 1978; 47 FR 24552, June 7, 1982; 53 FR 46607, Nov. 18, 1988; 66 FR 44528, Aug. 24, 2001; 71 FR 44919, Aug. 8, 2006; 78 FR 57487, Sept. 19, 2013; 80 FR 10003, Feb. 25, 2015]
+(Authority: 38 U.S.C. 501(a), 1151(c)(2), 3902))[36 FR 7588, Apr. 22, 1971, as amended at 38 FR 14370, June 1, 1973; 40 FR 37037, Aug. 25, 1975; 43 FR 4423, Feb. 2, 1978; 47 FR 24552, June 7, 1982; 53 FR 46607, Nov. 18, 1988; 66 FR 44528, Aug. 24, 2001; 71 FR 44919, Aug. 8, 2006; 78 FR 57487, Sept. 19, 2013; 80 FR 10003, Feb. 25, 2015; 87 FR 26126, May 3, 2022]

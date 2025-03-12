@@ -1,6 +1,6 @@
 ##### § 3.3 Pension. #####
 
-(a) *Pension for veterans* - (1) *Service pension; Spanish-American War.* A benefit payable monthly by the Department of Veterans Affairs because of service in the Spanish-American War. Basic entitlement exists if a veteran:
+(a) *Pension for veterans*—(1) *Service pension; Spanish-American War.* A benefit payable monthly by the Department of Veterans Affairs because of service in the Spanish-American War. Basic entitlement exists if a veteran:
 
 (i) Had 70 (or 90) days or more active service during the Spanish-American War; or
 
@@ -28,13 +28,13 @@ The pension provisions of title 38 U.S.C., as in effect on December 31, 1978, ar
 
 (3) *Improved pension; Pub. L. 95-588 (92 Stat. 2497).* A benefit payable by the Department of Veterans Affairs to veterans of a period or periods of war because of nonservice-connected disability or age. The qualifying periods of war for this benefit are the Mexican border period, World War I, World War II, the Korean conflict, the Vietnam era and the Persian Gulf War. Payments are made monthly unless the amount of the annual benefit is less than 4 percent of the maximum annual rate payable to a veteran under 38 U.S.C. 1521(b), in which case payments may be made less frequently than monthly. Basic entitlement exists if a veteran:
 
-(i) Served in the active military, naval or air service for 90 days or more during a period of war (38 U.S.C. 1521(j)); or
+(i) Served in the active military, naval, air, or space service for 90 days or more during a period of war (38 U.S.C. 1521(j)); or
 
-(ii) Served in the active military, naval or air service during a period of war and was discharged or released from such service for a disability adjudged service-connected without presumptive provisions of law, or at time of discharge had such a service-connected disability, shown by official service records, which in medical judgment would have justified a discharge for disability (38 U.S.C. 1521(j)); or
+(ii) Served in the active military, naval, air, or space service during a period of war and was discharged or released from such service for a disability adjudged service-connected without presumptive provisions of law, or at time of discharge had such a service-connected disability, shown by official service records, which in medical judgment would have justified a discharge for disability (38 U.S.C. 1521(j)); or
 
-(iii) Served in the active military, naval or air service for a period of 90 consecutive days or more and such period began or ended during a period of war (38 U.S.C. 1521(j)); or
+(iii) Served in the active military, naval, air, or space service for a period of 90 consecutive days or more and such period began or ended during a period of war (38 U.S.C. 1521(j)); or
 
-(iv) Served in the active military, naval or air service for an aggregate of 90 days or more in two or more separate periods of service during more than one period of war (38 U.S.C. 1521(j)); and
+(iv) Served in the active military, naval air, or space service for an aggregate of 90 days or more in two or more separate periods of service during more than one period of war (38 U.S.C. 1521(j)); and
 
 (v) Meets the net worth requirements under § 3.274 and does not have an annual income in excess of the applicable maximum annual pension rate specified in § 3.23; and
 
@@ -56,7 +56,7 @@ The pension provisions of title 38 U.S.C., as in effect on December 31, 1978, ar
 
 (Authority: 38 U.S.C. 1502(a), 1513, 1521, 1522)
 
-(b) *Pension for survivors* - (1) *Indian war death pension.* A monthly benefit payable by the Department of Veterans Affairs to the surviving spouse or child of a deceased veteran of an Indian war. Basic entitlement exists if a veteran had qualifying service as specified in 38 U.S.C. 1511. Indian war death pension rates are set forth in 38 U.S.C. 1534 and 1535.
+(b) *Pension for survivors*—(1) *Indian war death pension.* A monthly benefit payable by the Department of Veterans Affairs to the surviving spouse or child of a deceased veteran of an Indian war. Basic entitlement exists if a veteran had qualifying service as specified in 38 U.S.C. 1511. Indian war death pension rates are set forth in 38 U.S.C. 1534 and 1535.
 
 (2) *Spanish-American War death pension.* A monthly benefit payable by the Department of Veterans Affairs to the surviving spouse or child of a deceased veteran of the Spanish-American War, if the veteran:
 
@@ -92,4 +92,4 @@ The pension provisions of title 38, United States Code, as in effect on December
 
 Section 306 pension. See § 3.1(u). Improved pension. See § 3.1(w). Improved pension rates. See § 3.23. Improved pension rates; surviving children. See § 3.24. Frequency of payment of improved pension. See § 3.30. Relationship of net worth to pension entitlement. See § 3.274.
 
-[44 FR 45931, Aug. 6, 1979, as amended at 56 FR 19579, Apr. 29, 1991; 56 FR 22910, May 17, 1991; 56 FR 25044, June 3, 1991; 56 FR 57986, Nov. 15, 1991; 68 FR 34541, June 10, 2003]
+[44 FR 45931, Aug. 6, 1979, as amended at 56 FR 19579, Apr. 29, 1991; 56 FR 22910, May 17, 1991; 56 FR 25044, June 3, 1991; 56 FR 57986, Nov. 15, 1991; 68 FR 34541, June 10, 2003; 87 FR 26125, May 3, 2022]

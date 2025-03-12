@@ -2,7 +2,7 @@
 
 In order for a certificate of eligibility for assistance in acquiring specially adapted housing under 38 U.S.C. 2101(a)(2)(A)(i) or 2101A(a) to be extended to a veteran or a member of the Armed Forces serving on active duty, the following requirements must be met:
 
-(a) *General.* A member of the Armed Forces serving on active duty must have a disability that was incurred or aggravated in line of duty in active military, naval, or air service and meets the requirements described in paragraph (b) of this section. A veteran must be entitled to compensation under chapter 11 of title 38, United States Code, for a service-connected disability that meets the requirements described in paragraph (b) of this section.
+(a) *General.* A member of the Armed Forces serving on active duty must have a disability that was incurred or aggravated in line of duty in active military, naval, air, or space service and meets the requirements described in paragraph (b) of this section. A veteran must be entitled to compensation under chapter 11 of title 38, United States Code, for a service-connected disability that meets the requirements described in paragraph (b) of this section.
 
 (b) *Disability.* The disability must be rated as one of the following:
 
@@ -26,4 +26,4 @@ In order for a certificate of eligibility for assistance in acquiring specially 
 
 *Cross Reference:* Assistance to certain disabled veterans in acquiring specially adapted housing. See §§ 36.4400 through 36.4410 of this chapter.
 
-[78 FR 72576, Dec. 3, 2013, as amended at 86 FR 56215, Oct. 8, 2021]
+[78 FR 72576, Dec. 3, 2013, as amended at 86 FR 56215, Oct. 8, 2021; 87 FR 26126, May 3, 2022]
