@@ -1,5 +1,7 @@
 ##### § 1.1410 Remedies. #####
 
+Link to an amendment published at 83 FR 44838, September 4, 2018.Link to an amendment published at 83 FR 44841, September 4, 2018.
+
 If the Commission determines that the rate, term, or condition complained of is not just and reasonable, it may prescribe a just and reasonable rate, term, or condition and may:
 
 (a) If the Commission determines that the rate, term, or condition complained of is not just and reasonable, it may prescribe a just and reasonable rate, term, or condition and may:

@@ -1,7 +1,5 @@
 ##### § 11.52 EAS code and Attention Signal Monitoring requirements. #####
 
-Link to an amendment published at 83 FR 37759, August 2, 2018.
-
 (a) EAS Participants must be capable of receiving the Attention Signal required by § 11.31(a)(2) and emergency messages of other broadcast stations during their hours of operation. EAS Participants must install and operate during their hours of operation, equipment that is capable of receiving and decoding, either automatically or manually, the EAS header codes, emergency messages and EOM code, and which complies with the requirements in § 11.56.
 
 Note to paragraph (a):
@@ -18,11 +16,9 @@ The two-tone Attention Signal will not be used to actuate two-tone decoders but 
 
 (2) With respect to monitoring EAS messages formatted in accordance with the specifications set forth in § 11.56(a)(2), EAS Participants' EAS equipment must interface with the Federal Emergency Management Agency's Integrated Public Alert and Warning System (IPAWS) to enable (whether through “pull” interface technologies, such as Really Simple Syndication (RSS) and Atom Syndication Format (ATOM), or “push” interface technologies, such as instant messaging and email) the distribution of Common Alert Protocol (CAP)-formatted alert messages from the IPAWS system to EAS Participants' EAS equipment.
 
-(3) Monitoring specifications associated with the distribution of CAP-formatted alert messages by state alert message systems are described in the State EAS Plan, as set forth in § 11.21(a).
+(3) If the required EAS message sources cannot be received, alternate arrangements or a waiver may be obtained by written request to the Chief, Public Safety and Homeland Security Bureau. In an emergency, a waiver may be issued over the telephone with a follow up letter to confirm temporary or permanent reassignment.
 
-(4) If the required EAS message sources cannot be received, alternate arrangements or a waiver may be obtained by written request to the Chief, Public Safety and Homeland Security Bureau. In an emergency, a waiver may be issued over the telephone with a follow up letter to confirm temporary or permanent reassignment.
-
-(5) The management of EAS Participants shall determine which header codes will automatically interrupt their programming for State and Local Area emergency situations affecting their audiences.
+(4) The management of EAS Participants shall determine which header codes will automatically interrupt their programming for State and Local Area emergency situations affecting their audiences.
 
 (e) EAS Participants are required to interrupt normal programming either automatically or manually when they receive an EAS message in which the header code contains the Event codes for Emergency Action Notification (EAN), the National Periodic Test (NPT), or the Required Monthly Test (RMT) for their State or State/county location.
 
@@ -30,4 +26,4 @@ The two-tone Attention Signal will not be used to actuate two-tone decoders but 
 
 (2) Manual interrupt of programming and transmission of EAS messages may be used. EAS messages with the EAN Event code, or the NPT Event code in the case of a nationwide test of the EAS, must be transmitted immediately; Monthly EAS test messages must be transmitted within 60 minutes. All actions must be logged and recorded as specified in §§ 11.35(a) and 11.54(a)(3). Decoders must be programmed for the EAN Event header code and the RMT and RWT Event header codes (for required monthly and weekly tests), with the appropriate accompanying State and State/county location codes.
 
-[70 FR 71036, Nov. 25, 2005, as amended at 77 FR 16705, Mar. 22, 2012; 80 FR 37176, June 30, 2015]
+[70 FR 71036, Nov. 25, 2005, as amended at 77 FR 16705, Mar. 22, 2012; 80 FR 37176, June 30, 2015; 83 FR 37759, Aug. 2, 2018]

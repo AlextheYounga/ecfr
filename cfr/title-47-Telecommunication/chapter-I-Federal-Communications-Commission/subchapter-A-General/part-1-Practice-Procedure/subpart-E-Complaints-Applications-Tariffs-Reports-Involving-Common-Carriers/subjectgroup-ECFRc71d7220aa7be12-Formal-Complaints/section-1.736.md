@@ -1,5 +1,7 @@
 ##### § 1.736 Complaints filed pursuant to 47 U.S.C. 271(d)(6)(B). #####
 
+Link to an amendment published at 83 FR 44832, September 4, 2018.
+
 (a) Where a complaint is filed pursuant to 47 U.S.C. 271(d)(6)(B), parties shall indicate whether they are willing to waive the ninety-day resolution deadline contained in 47 U.S.C. 271(d)(6)(B) in the following manner:
 
 (1) The complainant shall so indicate in both the complaint itself and in the Formal Complaint Intake Form, and the defendant shall so indicate in its answer; or

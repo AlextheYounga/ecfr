@@ -1,5 +1,7 @@
 ##### § 1.1409 Commission consideration of the complaint. #####
 
+Link to an amendment published at 83 FR 44838, September 4, 2018.Link to an amendment published at 83 FR 44840, September 4, 2018.
+
 (a) In its consideration of the complaint, response, and reply, the Commission may take notice of any information contained in publicly available filings made by the parties and may accept, subject to rebuttal, studies that have been conducted. The Commission may also request that one or more of the parties make additional filings or provide additional information. Where one of the parties has failed to provide information required to be provided by these rules or requested by the Commission, or where costs, values or amounts are disputed, the Commission may estimate such costs, values or amounts it considers reasonable, or may decide adversely to a party who has failed to supply requested information which is readily available to it, or both.
 
 (b) The complainant shall have the burden of establishing a *prima facie* case that the rate, term, or condition is not just and reasonable or that the denial of access violates 47 U.S.C. § 224(f). If, however, a utility argues that the proposed rate is lower than its incremental costs, the utility has the burden of establishing that such rate is below the statutory minimum just and reasonable rate. In a case involving a denial of access, the utility shall have the burden of proving that the denial was lawful, once a *prima facie* case is established by the complainant.

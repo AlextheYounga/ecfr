@@ -1,5 +1,7 @@
 ##### § 7.15 Generally. #####
 
+Link to an amendment published at 83 FR 44842, September 4, 2018.
+
 (a) For purposes of §§ 7.15-7.23 of this subpart, the term “manufacturers” shall denote any manufacturer of telecommunications equipment or customer premises equipment which performs a voicemail or interactive menu function.
 
 (b) All manufacturers of telecommunications equipment or customer premises equipment and all providers of voicemail and interactive menu services, as defined under this subpart, are subject to the enforcement provisions specified in the Act and the Commission's rules.

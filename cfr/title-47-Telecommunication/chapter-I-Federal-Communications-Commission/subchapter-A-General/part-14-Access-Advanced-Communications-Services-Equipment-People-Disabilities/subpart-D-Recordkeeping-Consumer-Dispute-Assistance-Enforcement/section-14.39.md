@@ -1,5 +1,7 @@
 ##### § 14.39 Format and content of formal complaints. #####
 
+Link to an amendment published at 83 FR 44843, September 4, 2018.
+
 (a) Subject to paragraph (d) of this section governing supplemental complaints filed pursuant to § 14.39 of this subpart, a formal complaint shall contain:
 
 (1) The name of each complainant and defendant;

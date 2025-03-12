@@ -1,5 +1,7 @@
 ##### § 1.731 Confidentiality of information produced or exchanged. #####
 
+Link to an amendment published at 83 FR 44832, September 4, 2018.
+
 (a) Any materials generated in the course of a formal complaint proceeding may be designated as proprietary by either party to the proceeding or a third party if the party believes in good faith that the materials fall within an exemption to disclosure contained in the Freedom of Information Act (FOIA), 5 U.S.C. 552(b)(1) through (9). Any party asserting confidentiality for such materials must:
 
 (1) Clearly mark each page, or portion thereof, for which a proprietary designation is claimed. If a proprietary designation is challenged, the party claiming confidentiality shall have the burden of demonstrating, by a preponderance of the evidence, that the materials designated as proprietary fall under the standards for nondisclosure enunciated in the FOIA.

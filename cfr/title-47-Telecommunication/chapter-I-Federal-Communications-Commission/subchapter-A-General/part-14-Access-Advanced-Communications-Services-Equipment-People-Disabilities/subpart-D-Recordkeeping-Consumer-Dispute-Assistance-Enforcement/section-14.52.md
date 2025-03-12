@@ -1,5 +1,7 @@
 ##### § 14.52 Copies; service; separate filings against multiple defendants. #####
 
+Link to an amendment published at 83 FR 44843, September 4, 2018.
+
 (a) Complaints may generally be brought against only one named defendant; such actions may not be brought against multiple defendants unless the defendants are commonly owned or controlled, are alleged to have acted in concert, are alleged to be jointly liable to complainant, or the complaint concerns common questions of law or fact. Complaints may, however, be consolidated by the Commission for disposition.
 
 (b) The complainant shall file an original copy of the complaint and, on the same day:

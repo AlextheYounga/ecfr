@@ -1,5 +1,7 @@
 ##### § 1.1422 Contractors for survey and make-ready. #####
 
+Link to an amendment published at 83 FR 44842, September 4, 2018.
+
 (a) A utility shall make available and keep up-to-date a reasonably sufficient list of contractors it authorizes to perform surveys and make-ready in the communications space on its utility poles in cases where the utility has failed to meet deadlines specified in § 1.1420.
 
 (b) If a cable operator or telecommunications carrier hires a contractor for purposes specified in § 1.1420, it shall choose from among a utility's list of authorized contractors.

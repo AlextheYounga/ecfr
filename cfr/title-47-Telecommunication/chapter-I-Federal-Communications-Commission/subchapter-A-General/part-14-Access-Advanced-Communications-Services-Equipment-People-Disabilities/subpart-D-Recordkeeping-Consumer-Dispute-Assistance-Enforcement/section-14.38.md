@@ -1,5 +1,7 @@
 ##### § 14.38 Formal Complaints; General pleading requirements. #####
 
+Link to an amendment published at 83 FR 44842, September 4, 2018.
+
 Formal complaint proceedings are generally resolved on a written record consisting of a complaint, answer, and joint statement of stipulated facts, disputed facts and key legal issues, along with all associated affidavits, exhibits and other attachments. Commission proceedings may also require or permit other written submissions such as briefs, written interrogatories, and other supplementary documents or pleadings.
 
 (a) Pleadings must be clear, concise, and explicit. All matters concerning a claim, defense or requested remedy, including damages, should be pleaded fully and with specificity.

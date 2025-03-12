@@ -1,5 +1,7 @@
 ##### § 1.717 Procedure. #####
 
+Link to an amendment published at 83 FR 44831, September 4, 2018.
+
 The Commission will forward informal complaints to the appropriate carrier for investigation. The carrier will, within such time as may be prescribed, advise the Commission in writing, with a copy to the complainant, of its satisfaction of the complaint or of its refusal or inability to do so. Where there are clear indications from the carrier's report or from other communications with the parties that the complaint has been satisfied, the Commission may, in its discretion, consider a complaint proceeding to be closed, without response to the complainant. In all other cases, the Commission will contact the complainant regarding its review and disposition of the matters raised. If the complainant is not satisfied by the carrier's response and the Commission's disposition, it may file a formal complaint in accordance with § 1.721 of this part.
 
 [51 FR 16039, Apr. 30, 1986]

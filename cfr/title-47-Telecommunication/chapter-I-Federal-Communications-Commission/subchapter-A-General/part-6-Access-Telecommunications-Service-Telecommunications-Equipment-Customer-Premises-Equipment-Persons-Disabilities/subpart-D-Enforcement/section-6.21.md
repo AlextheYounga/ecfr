@@ -1,3 +1,5 @@
 ##### § 6.21 Formal complaints, applicability of §§ 1.720 through 1.736 of this chapter. #####
 
+Link to an amendment published at 83 FR 44842, September 4, 2018.
+
 Formal complaints against a manufacturer or provider, as defined under this subpart, may be filed in the form and in the manner prescribed under §§ 1.720 through 1.736 of this chapter. Commission staff may grant waivers of, or exceptions to, particular requirements under §§ 1.720 through 1.736 of this chapter for good cause shown; provided, however, that such waiver authority may not be exercised in a manner that relieves, or has the effect of relieving, a complainant of the obligation under §§ 1.720 and 1.728 of this chapter to allege facts which, if true, are sufficient to constitute a violation or violations of section 255 of the Act or this subpart.

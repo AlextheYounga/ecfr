@@ -1,5 +1,7 @@
 ##### § 1.1417 Allocation of Unusable Space Costs. #####
 
+Link to an amendment published at 83 FR 44841, September 4, 2018.
+
 (a) With respect to the formula referenced in § 1.1409(e)(2), a utility shall apportion the cost of providing unusable space on a pole so that such apportionment equals two-thirds of the costs of providing unusable space that would be allocated to such entity under an equal apportionment of such costs among all attaching entities.
 
 (b) All attaching entities attached to the pole shall be counted for purposes of apportioning the cost of unusable space.

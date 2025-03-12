@@ -1,5 +1,7 @@
 ##### § 6.20 Review and disposition of informal complaints. #####
 
+Link to an amendment published at 83 FR 44842, September 4, 2018.
+
 (a) Where it appears from the defendant's answer, or from other communications with the parties, that an informal complaint has been satisfied, the Commission may, in its discretion, consider the informal complaint closed, without response to the complainant or defendant. In all other cases, the Commission shall inform the parties of its review and disposition of a complaint filed under this subpart. Where practicable, this information, the nature of which is specified in paragraphs (b) through (d) of this section, shall be transmitted to the complainant and defendant in the manner requested by the complainant, (e.g., letter, facsimile transmission, telephone (voice/TRS/TTY), Internet e-mail, ASCII text, audio-cassette recording, or braille).
 
 (b) In the event the Commission determines, based on a review of the information provided in the informal complaint and the defendant's answer thereto, that no further action is required by the Commission with respect to the allegations contained in the informal complaint, the informal complaint shall be closed and the complainant and defendant shall be duly informed of the reasons therefor. A complainant unsatisfied with the defendant's response to the informal complaint and the staff decision to terminate action on the informal complaint may file a formal complaint with the Commission, as specified in § 6.22.

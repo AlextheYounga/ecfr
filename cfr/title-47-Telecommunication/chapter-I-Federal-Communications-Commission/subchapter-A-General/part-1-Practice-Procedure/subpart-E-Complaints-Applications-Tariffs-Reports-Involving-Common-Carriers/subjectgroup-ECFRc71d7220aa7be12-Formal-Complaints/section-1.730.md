@@ -1,5 +1,7 @@
 ##### § 1.730 The Enforcement Bureau's Accelerated Docket. #####
 
+Link to an amendment published at 83 FR 44832, September 4, 2018.
+
 (a) Parties to formal complaint proceedings against common carriers within the responsibility of the Enforcement Bureau (see §§ 0.111, 0.311, 0.314 of this chapter) may request inclusion on the Bureau's Accelerated Docket. As set out in §§ 1.720 through 1.736, proceedings on the Accelerated Docket are subject to shorter pleading deadlines and certain other procedural rules that do not apply to other formal complaint proceedings before the Enforcement Bureau.
 
 (b) Any party that contemplates filing a formal complaint may submit a request to the Chief of the Enforcement Bureau's Market Disputes Resolution Division, either by phone or in writing, seeking inclusion of its complaint, once filed, on the Accelerated Docket. In appropriate cases, Commission staff shall schedule and supervise pre-filing settlement negotiations between the parties to the dispute. If the parties do not resolve their dispute and the matter is accepted for handling on the Accelerated Docket, the complainant shall file its complaint with a letter stating that it has gained admission to the Accelerated Docket. When it files its complaint, such a complainant shall also serve a copy of its complaint on the Commission staff that supervised the pre-filing settlement discussions.

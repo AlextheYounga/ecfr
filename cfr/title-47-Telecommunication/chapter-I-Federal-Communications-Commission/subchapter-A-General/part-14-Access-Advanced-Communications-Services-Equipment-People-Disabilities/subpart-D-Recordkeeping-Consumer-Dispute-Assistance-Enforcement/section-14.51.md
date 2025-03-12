@@ -1,5 +1,7 @@
 ##### § 14.51 Specifications as to pleadings, briefs, and other documents; subscription. #####
 
+Link to an amendment published at 83 FR 44843, September 4, 2018.
+
 (a) All papers filed in any formal complaint proceeding must be drawn in conformity with the requirements of §§ 1.49 and 1.50 of this chapter.
 
 (b) All averments of claims or defenses in complaints and answers shall be made in numbered paragraphs. The contents of each paragraph shall be limited as far as practicable to a statement of a single set of circumstances. Each claim founded on a separate transaction or occurrence and each affirmative defense shall be separately stated to facilitate the clear presentation of the matters set forth.

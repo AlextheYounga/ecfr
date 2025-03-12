@@ -1,5 +1,7 @@
 ##### § 1.735 Fee remittance; electronic filing; copies; service; separate filings against multiple defendants. #####
 
+Link to an amendment published at 83 FR 44832, September 4, 2018.
+
 (a) Complaints may generally be brought against only one named carrier; such actions may not be brought against multiple defendants unless the defendant carriers are commonly owned or controlled, are alleged to have acted in concert, are alleged to be jointly liable to complainant, or the complaint concerns common questions of law or fact. Complaints may, however, be consolidated by the Commission for disposition.
 
 (b) The complainant shall remit separately the correct fee either by check, wire transfer, or electronically, in accordance with part 1, subpart G (see § 1.1106 of this chapter) and, shall file an original copy of the complaint, using the Commission's Electronic Comment Filing System, and, on the same day:

@@ -1,5 +1,7 @@
 ##### § 1.726 Replies. #####
 
+Link to an amendment published at 83 FR 44832, September 4, 2018.
+
 (a) Subject to paragraph (g) of this section governing Accelerated Docket proceedings, within three days after service of an answer containing affirmative defenses presented in accordance with the requirements of § 1.724(e), a complainant may file and serve a reply containing statements of relevant, material facts and legal arguments that shall be responsive to only those specific factual allegations and legal arguments made by the defendant in support of its affirmative defenses. Replies which contain other allegations or arguments will not be accepted or considered by the Commission.
 
 (b) Failure to reply to an affirmative defense shall be deemed an admission of such affirmative defense and of any facts supporting such affirmative defense that are not specifically contradicted in the complaint.

@@ -1,5 +1,7 @@
 ##### § 1.721 Format and content of complaints. #####
 
+Link to an amendment published at 83 FR 44832, September 4, 2018.
+
 (a) Subject to paragraph (e) of this section governing supplemental complaints filed pursuant to § 1.722, and paragraph (f) of this section governing Accelerated Docket proceedings, a formal complaint shall contain:
 
 (1) The name of each complainant and defendant;

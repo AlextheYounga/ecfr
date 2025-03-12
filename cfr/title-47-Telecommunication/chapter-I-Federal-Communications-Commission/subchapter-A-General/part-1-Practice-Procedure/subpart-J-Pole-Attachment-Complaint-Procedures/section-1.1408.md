@@ -1,5 +1,7 @@
 ##### § 1.1408 Fee remittance; electronic filing; service; number of copies; form of pleadings; and proprietary materials. #####
 
+Link to an amendment published at 83 FR 44838, September 4, 2018.Link to an amendment published at 83 FR 44839, September 4, 2018.
+
 (a) The complainant shall remit separately the correct fee either by check, wire transfer, or electronically, in accordance with part 1, subpart G (see § 1.1106) and, shall file an original copy of the complaint, using the Commission's Electronic Comment Filing System. The original of the response and reply, as well as all other written submissions, shall be filed with the Commission using the Commission's Electronic Comment Filing System. Service must be made in accordance with the requirements of § 1.735(b), (c), (e), and (f).
 
 (b) All papers filed in the complaint proceeding must be drawn in conformity with the requirements of §§ 1.49, 1.50, and 1.52.

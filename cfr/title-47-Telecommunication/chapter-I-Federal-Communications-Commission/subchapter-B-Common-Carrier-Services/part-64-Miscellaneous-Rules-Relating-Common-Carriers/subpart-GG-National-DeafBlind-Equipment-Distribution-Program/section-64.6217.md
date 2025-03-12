@@ -1,5 +1,7 @@
 ##### § 64.6217 Complaints. #####
 
+Link to an amendment published at 83 FR 44843, Sept. 4, 2018.
+
 Complaints against NDBEDP certified programs for alleged violations of this subpart may be either informal or formal.
 
 (a) *Informal complaints.* (1) An informal complaint may be transmitted to the Consumer and Governmental Affairs Bureau by any reasonable means, such as letter, fax, telephone, TTY, email, or the Commission's online complaint filing system.

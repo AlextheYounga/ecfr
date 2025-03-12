@@ -1,5 +1,7 @@
 ##### § 6.19 Answers to informal complaints. #####
 
+Link to an amendment published at 83 FR 44842, September 4, 2018.
+
 Any manufacturer or provider to whom an informal complaint is directed by the Commission under this subpart shall file an answer within the time specified by the Commission. The answer shall:
 
 (a) Be prepared or formatted in the manner requested by the complainant pursuant to § 6.17, unless otherwise permitted by the Commission for good cause shown;

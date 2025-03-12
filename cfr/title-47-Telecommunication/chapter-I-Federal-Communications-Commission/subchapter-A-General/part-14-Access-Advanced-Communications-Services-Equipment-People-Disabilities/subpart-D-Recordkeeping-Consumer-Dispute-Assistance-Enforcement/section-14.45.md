@@ -1,5 +1,7 @@
 ##### § 14.45 Motions. #####
 
+Link to an amendment published at 83 FR 44843, September 4, 2018.
+
 (a) A request to the Commission for an order shall be by written motion, stating with particularity the grounds and authority therefor, and setting forth the relief or order sought.
 
 (b) All dispositive motions shall contain proposed findings of fact and conclusions of law, with supporting legal analysis, relevant to the contents of the pleading. Motions to compel discovery must contain a certification by the moving party that a good faith attempt to resolve the dispute was made prior to filing the motion. All facts relied upon in motions must be supported by documentation or affidavits pursuant to the requirements of § 14.38(c) of this subpart, except for those facts of which official notice may be taken.

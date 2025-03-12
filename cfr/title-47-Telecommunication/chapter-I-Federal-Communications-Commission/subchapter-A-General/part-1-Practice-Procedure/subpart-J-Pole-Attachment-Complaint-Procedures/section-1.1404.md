@@ -1,5 +1,7 @@
 ##### § 1.1404 Complaint. #####
 
+Link to an amendment published at 83 FR 44838, September 4, 2018.Link to an amendment published at 83 FR 44839, September 4, 2018.
+
 (a) The complaint shall contain the name, address, telephone number, and email address of the complainant; name, address, telephone number, and email address of the respondent; and a verification (in accordance with the requirements of § 1.52), signed by the complainant or officer thereof if complainant is a corporation, showing complainant's direct interest in the matter complained of. Counsel for the complainant may sign the complaint. Complainants may join together to file a joint complaint. Complaints filed by associations shall specifically identify each utility, cable television system operator, or telecommunications carrier who is a party to the complaint and shall be accompanied by a document from each identified member certifying that the complaint is being filed on its behalf.
 
 (b) The complaint shall be accompanied by a certification of service on the named respondent, and each of the Federal, State, and local governmental agencies that regulate any aspect of the services provided by the complainant or respondent.

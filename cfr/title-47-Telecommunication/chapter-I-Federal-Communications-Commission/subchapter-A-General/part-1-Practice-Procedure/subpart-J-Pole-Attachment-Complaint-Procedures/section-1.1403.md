@@ -1,5 +1,7 @@
 ##### § 1.1403 Duty to provide access; modifications; notice of removal, increase or modification; petition for temporary stay; and cable operator notice. #####
 
+Link to an amendment published at 83 FR 44838, September 4, 2018.
+
 (a) A utility shall provide a cable television system or any telecommunications carrier with nondiscriminatory access to any pole, duct, conduit, or right-of-way owned or controlled by it. Notwithstanding this obligation, a utility may deny a cable television system or any telecommunications carrier access to its poles, ducts, conduits, or rights-of-way, on a non-discriminatory basis where there is insufficient capacity or for reasons of safety, reliability and generally applicable engineering purposes.
 
 (b) Requests for access to a utility's poles, ducts, conduits or rights-of-way by a telecommunications carrier or cable operator must be in writing. If access is not granted within 45 days of the request for access, the utility must confirm the denial in writing by the 45th day. The utility's denial of access shall be specific, shall include all relevant evidence and information supporting its denial, and shall explain how such evidence and information relate to a denial of access for reasons of lack of capacity, safety, reliability or engineering standards.

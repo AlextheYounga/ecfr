@@ -1,5 +1,7 @@
 ##### § 64.1160 Absolution procedures where the subscriber has not paid charges. #####
 
+Link to an amendment published at 83 FR 44843, Sept. 4, 2018.
+
 (a) This section shall only apply after a subscriber has determined that an unauthorized change, as defined by § 64.1100(e), has occurred and the subscriber has not paid charges to the allegedly unauthorized carrier for service provided for 30 days, or a portion thereof, after the unauthorized change occurred.
 
 (b) An allegedly unauthorized carrier shall remove all charges incurred for service provided during the first 30 days after the alleged unauthorized change occurred, as defined by § 64.1100(e), from a subscriber's bill upon notification that such unauthorized change is alleged to have occurred.

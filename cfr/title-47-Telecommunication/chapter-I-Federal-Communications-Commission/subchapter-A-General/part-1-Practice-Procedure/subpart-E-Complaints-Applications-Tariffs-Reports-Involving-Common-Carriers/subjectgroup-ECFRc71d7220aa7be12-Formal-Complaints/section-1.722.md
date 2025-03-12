@@ -1,5 +1,7 @@
 ##### § 1.722 Damages. #####
 
+Link to an amendment published at 83 FR 44832, September 4, 2018.
+
 (a) If a complainant wishes to recover damages, the complaint must contain a clear and unequivocal request for damages.
 
 (b) If a complainant wishes a determination of damages to be made in the same proceeding as the determinations of liability and prospective relief, the complaint must contain the allegations and information required by paragraph (h) of this section.

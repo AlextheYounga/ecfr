@@ -1,5 +1,7 @@
 ##### § 7.17 Informal complaints; form and content. #####
 
+Link to an amendment published at 83 FR 44842, September 4, 2018.
+
 (a) An informal complaint alleging a violation of section 255 of the Act or this subpart may be transmitted to the Commission by any reasonable means, e.g., letter, facsimile transmission, telephone (voice/TRS/TTY), Internet e-mail, ASCII text, Internet e-mail, audio-cassette recording, and braille.
 
 (b) An informal complaint shall include:

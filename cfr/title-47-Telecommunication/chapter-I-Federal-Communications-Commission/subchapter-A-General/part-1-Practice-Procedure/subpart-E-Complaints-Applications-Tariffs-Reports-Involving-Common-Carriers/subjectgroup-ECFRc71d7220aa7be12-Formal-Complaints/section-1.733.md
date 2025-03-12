@@ -1,5 +1,7 @@
 ##### § 1.733 Status conference. #####
 
+Link to an amendment published at 83 FR 44832, September 4, 2018.
+
 (a) In any complaint proceeding, the Commission may, in its discretion, direct the attorneys and/or the parties to appear before it for a status conference. Unless otherwise ordered by the Commission, and with the exception of Accelerated Docket proceedings, governed by paragraph (i) of this section, an initial status conference shall take place, at the time and place designated by the Commission staff, ten business days after the date the answer is due to be filed. A status conference may include discussion of:
 
 (1) Simplification or narrowing of the issues;
