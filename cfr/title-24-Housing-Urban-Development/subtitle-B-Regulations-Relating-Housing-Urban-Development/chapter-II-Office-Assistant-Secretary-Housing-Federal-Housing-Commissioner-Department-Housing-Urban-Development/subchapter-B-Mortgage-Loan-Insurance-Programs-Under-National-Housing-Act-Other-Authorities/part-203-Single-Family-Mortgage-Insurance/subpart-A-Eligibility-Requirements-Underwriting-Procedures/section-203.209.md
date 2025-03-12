@@ -1,0 +1,5 @@
+##### § 203.209 Payments under a plan. #####
+
+(a) If a Plan issuer or insurance backer elects to compensate a homeowner for damage suffered by the homeowner's property that is covered under a Plan in lieu of the Plan issuer's making repairs such compensation must be made jointly to the mortgagee and the homeowner.
+
+(b) If payment is to be made to the mortgagee and homeowner, the Plan issuer first must receive the mortgagee's assurance in witing that the mortgagee is satisfied, based on a showing by the homeowner, that the homeowner has made a binding commitment to have the necessary repairs made to restore the damaged property. It a homeowner elects not to repair his or her damaged property, then the mortgagee must apply the compensation in reduction of the outstanding indebtedness of the mortgage.

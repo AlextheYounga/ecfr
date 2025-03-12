@@ -1,6 +1,6 @@
 ##### § 93.427 Cattle and other bovines from Mexico. #####
 
-Link to an amendment published at 74 FR 5, Jan. 2, 2009.Link to a correction published at 74 FR 22091, May 12, 2009.
+Link to an amendment published at 74 FR 5, Jan. 2, 2009.Link to a correction published at 74 FR 22091, May 12, 2009.Link to an amendment published at 83 FR 64225, Dec. 14, 2018.
 
 (a) Cattle and other ruminants imported from Mexico, except animals being transported in bond for immediate return to Mexico or animals imported for immediate slaughter, may be detained at the port of entry, and there subjected to such disinfection, blood tests, other tests, and dipping as required in this part to determine their freedom from any communicable disease or infection of such disease. The importer shall be responsible for the care, feed, and handling of the animals during the period of detention.
 

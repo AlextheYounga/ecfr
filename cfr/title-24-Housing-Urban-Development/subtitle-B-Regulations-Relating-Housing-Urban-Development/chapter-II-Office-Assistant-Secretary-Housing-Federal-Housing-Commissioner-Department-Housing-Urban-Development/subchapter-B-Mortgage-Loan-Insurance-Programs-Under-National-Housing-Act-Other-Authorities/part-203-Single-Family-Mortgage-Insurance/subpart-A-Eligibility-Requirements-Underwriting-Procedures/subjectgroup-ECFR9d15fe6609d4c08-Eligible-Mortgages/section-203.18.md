@@ -1,5 +1,7 @@
 ##### § 203.18 Maximum mortgage amounts. #####
 
+Link to an amendment published at 83 FR 64272, Dec. 14, 2018.
+
 (a) *Mortgagors of principal or secondary residences.* The principal amount of the mortgage must not exceed the lesser of the following amounts that apply:
 
 (1) The dollar amount limitation that applies for the area under section 203(b)(2)(A) of the National Housing Act including any increase in the dollar limitation under § 203.29, as announced in accordance with § 203.18(h);
@@ -102,4 +104,4 @@
 
 (i) *Energy efficient mortgages.* The principal amount of energy efficient mortgages may exceed the maximum amounts determined under paragraph (a)(1) of this section under conditions prescribed by the Secretary in accordance with section 106 of the Energy Policy Act of 1992.
 
-[36 FR 24508, Dec. 22, 1971]Editorial Note:For Federal Register citations affecting § 203.18, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[36 FR 24508, Dec. 22, 1971]Editorial Note:For Federal Register citations affecting § 203.18, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

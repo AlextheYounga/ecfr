@@ -1,5 +1,7 @@
 ##### § 902.1 OMB control numbers assigned pursuant to the Paperwork Reduction Act. #####
 
+Link to an amendment published at 83 FR 64262, Dec. 14, 2018.
+
 (a) *Purpose.* This part collects and displays the control numbers assigned to information collection requirements of the National Oceanic and Atmospheric Administration (NOAA) by the Office of Management and Budget (OMB) pursuant to the Paperwork Reduction Act (PRA). NOAA intends that this part comply with the requirements of section 3507(c)(B)(i) of the PRA, which requires that agencies inventory and display a current control number assigned by the Director of OMB for each agency information collection requirement.
 
 (b) *Display.*
@@ -527,4 +529,4 @@
 
 <sup>1</sup> And -0305.
 
-[60 FR 39248, Aug. 2, 1995]Editorial Note:For Federal Register citations affecting § 902.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Editorial Note:At 79 FR 10010, Feb. 24, 2014, § 902.1 was amended by removing entries for 679.7(a)(7)(vii) through (ix), 679.7(n)(1)(x), 679.7(f), 679.7(f)(8)(ii), 679.7(k), 679.7(n)(4)(ii), and 679.20(a)(8)(ii) from the table in paragraph (b); however, the amendment could not be incorporated because none of these entries were in the table.
+[60 FR 39248, Aug. 2, 1995]Editorial Note:For Federal Register citations affecting § 902.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Editorial Note 2:At 79 FR 10010, Feb. 24, 2014, § 902.1 was amended by removing entries for 679.7(a)(7)(vii) through (ix), 679.7(n)(1)(x), 679.7(f), 679.7(f)(8)(ii), 679.7(k), 679.7(n)(4)(ii), and 679.20(a)(8)(ii) from the table in paragraph (b); however, the amendment could not be incorporated because none of these entries were in the table.

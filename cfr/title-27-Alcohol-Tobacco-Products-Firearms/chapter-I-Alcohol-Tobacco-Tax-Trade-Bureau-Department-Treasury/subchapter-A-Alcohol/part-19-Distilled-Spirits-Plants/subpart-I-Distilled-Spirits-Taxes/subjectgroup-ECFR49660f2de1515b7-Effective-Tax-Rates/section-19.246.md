@@ -16,18 +16,16 @@
 
 (ii) The wine gallons of each eligible wine used in the product, multiplied by twice the percentage of alcohol by volume of each, divided by 100.
 
-(b) *Rounding numbers* - (1) *Proof gallons.* When determining the effective tax rate, the proprietor must express quantities of distilled spirits, eligible wine, and eligible flavors to the nearest tenth of a proof gallon.
+(b) *Rounding numbers*—(1) *Proof gallons.* When determining the effective tax rate, the proprietor must express quantities of distilled spirits, eligible wine, and eligible flavors to the nearest tenth of a proof gallon.
 
 (2) *Tax rates.* The proprietor may round the effective tax rate to as many decimal places as the proprietor deems appropriate, provided that the rate is expressed no less exactly than the rate rounded to the nearest whole cent. The proprietor must be consistent and round the effective tax rates for all products to the same number of decimal places. When rounding, if the number to the right of the last decimal place to be kept is less than five, it will be dropped, if it is five or over, a unit will be added.
 
-(c) *Example.* The/\> following is an example of the use of the formula.
+(c) *Example.* The following is an example of the use of the formula.
 
 1 Proof gallons by which distilled spirits derived from eligible flavors exceed 2.5% of the total proof gallons in the batch (100.9 − (2.5% × 3,371.8) = 16.6).
 
-Batch Record
-
 |          Distilled spirits          |2249.1 proof gallons.|
-|:------------------------------------|:--------------------|
+|-------------------------------------|---------------------|
 |Eligible wine (14% alcohol by volume)|2265.0 wine gallons. |
 |Eligible wine (19% alcohol by volume)|1020.0 wine gallons. |
 |          Eligible flavors           |100.9 proof gallons. |

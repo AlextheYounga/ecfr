@@ -1,5 +1,7 @@
 ##### § 9.48 Monticello. #####
 
+Link to an amendment published at 83 FR 64274, Dec. 14, 2018.
+
 (a) *Name.* The name of the viticultural area described in this section is “Monticello.”
 
 (b) *Approved maps.* Approved maps for the Monticello viticultural area are three 1971 U.S.G.S. maps titled:

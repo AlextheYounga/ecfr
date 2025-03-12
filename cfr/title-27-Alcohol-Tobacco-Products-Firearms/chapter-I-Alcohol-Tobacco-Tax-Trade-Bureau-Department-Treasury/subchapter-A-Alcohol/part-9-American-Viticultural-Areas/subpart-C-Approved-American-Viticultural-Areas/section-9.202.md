@@ -1,5 +1,7 @@
 ##### § 9.202 Eola-Amity Hills. #####
 
+Link to an amendment published at 83 FR 64279, Dec. 14, 2018.
+
 (a) *Name.* The name of the viticultural area described in this section is “Eola-Amity Hills”. For purposes of part 4 of this chapter, “Eola-Amity Hills” is a term of viticultural significance.
 
 (b) *Approved maps.* The appropriate maps for determining the boundary of the Eola-Amity Hills viticultural area are six United States Geological Survey 1:24,000 scale topographic maps. They are titled -

@@ -1,5 +1,7 @@
 ##### § 9.59 Arroyo Seco. #####
 
+Link to an amendment published at 83 FR 64276, Dec. 14, 2018.
+
 (a) *Name.* The name of the viticultural area described in this section is “Arroyo Seco.”
 
 (b) *Approved maps.* The appropriate maps for determining the boundaries of the Arroyo Seco viticultural area are four U.S.G.S. quadrangle maps. They are entitled:
