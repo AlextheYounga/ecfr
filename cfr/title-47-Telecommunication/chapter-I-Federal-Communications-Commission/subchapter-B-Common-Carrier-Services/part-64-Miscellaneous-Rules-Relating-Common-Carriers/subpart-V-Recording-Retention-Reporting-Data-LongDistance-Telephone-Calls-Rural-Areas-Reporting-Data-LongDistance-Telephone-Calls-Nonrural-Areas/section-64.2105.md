@@ -42,4 +42,4 @@
 
 (e) IntraLATA toll calls carried entirely over the covered provider's network or handed off by the covered provider directly to the terminating local exchange carrier or directly to the tandem switch that the terminating local exchange carrier's end office subtends (terminating tandem), are excluded from these requirements.
 
-Effective Date Note:At 78 FR 73237, Dec. 10, 2014, § 64.2105 was amended by adding paragraph (e). This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[78 FR 76239, Dec. 17, 2013, as amended at 79 FR 73227, Dec. 10, 2014; 80 FR 11594, Mar. 4, 2015; 82 FR 19615, Apr. 28, 2017]

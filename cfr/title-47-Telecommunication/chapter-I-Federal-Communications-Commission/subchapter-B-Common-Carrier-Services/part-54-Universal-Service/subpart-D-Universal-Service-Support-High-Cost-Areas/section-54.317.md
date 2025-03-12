@@ -22,6 +22,4 @@
 
 (h) *Support for unserved remote areas of Alaska.* Beginning January 1, 2017, support that, but for paragraph (g) of this section, would be allocated to carriers subject to paragraph (g) of this section shall be allocated for a reverse auction, with performance obligations established at the time of such auction, for deployment of mobile service to remote areas of Alaska, as defined in § 54.307(e)(3)(i), that are without commercial mobile radio service as of December 31, 2014.
 
-[81 FR 69714, Oct. 7, 2016]Effective Date Notes:1. At 81 FR 24341, Apr. 25. 2016, § 54.316 was added. However, paragraphs (a) and (b) contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
-
-2. At 81 FR 44451, July 7, 2016, § 54.316 was amended by revising paragraph (a)(4) and adding paragraphs (b)(4) and (5), and revising paragraph (c)(2). However these paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[81 FR 69714, Oct. 7, 2016]

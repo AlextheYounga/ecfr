@@ -30,4 +30,4 @@
 
 (9) An indication whether the call attempt was completed to the incumbent local exchange carrier but signaled as busy, ring no answer, or unassigned number. This indication may take the form of an SS7 signaling cause code or SIP signaling message code associated with each call attempt.
 
-Effective Date Note:At 79 FR 73237, Dec. 10, 2014, § 64.2103, paragraph (e) was redesignated as paragraph (f) and a new (e) was added. Paragraphs (e) and (f) contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[78 FR 76239, Dec. 17, 2013, as amended at 79 FR 73227, Dec. 10, 2014; 82 FR 11594, Mar. 4, 2015; 82 FR 19615, Apr. 28, 2017]

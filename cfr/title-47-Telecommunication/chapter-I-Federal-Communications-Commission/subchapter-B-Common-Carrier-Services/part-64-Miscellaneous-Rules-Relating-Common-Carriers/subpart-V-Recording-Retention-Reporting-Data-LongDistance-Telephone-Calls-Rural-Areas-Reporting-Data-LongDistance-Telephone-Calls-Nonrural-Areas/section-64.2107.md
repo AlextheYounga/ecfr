@@ -15,3 +15,5 @@ I \_\_\_ (name), \_\_\_ (title), an officer of \_\_\_ (entity), certify that\_\_
 (c) A covered provider that meets the requirements described in paragraph (a) of this section must comply with the reporting requirements in § 64.2105 for a period of one year commencing when it first filed the certification described in paragraph (a) of this section, so long as it continues to meet those paragraph (a) of this section requirements. A covered provider that ceases to meet the requirements described in paragraph (a) of this section must begin filing the reports required by § 64.2105 on the next filing deadline.
 
 (d) Affiliated covered providers may meet the requirements of paragraph (a) of this section individually or in the aggregate.
+
+[78 FR 76239, Dec. 17, 2013, as amended at 80 FR 11594, Mar. 4, 2015; 82 FR 19615, Apr. 28, 2017]
