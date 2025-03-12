@@ -1,5 +1,7 @@
 ##### § 124.204 How does SBA process applications for 8(a) BD program admission? #####
 
+Link to an amendment published at 85 FR 66185, Oct. 16, 2020.
+
 (a) The AA/BD is authorized to approve or decline applications for admission to the 8(a) BD program. The DPCE will receive, review and evaluate all 8(a) BD applications. SBA will advise each program applicant within 15 days after the receipt of an application whether the application is complete and suitable for evaluation and, if not, what additional information or clarification is required to complete the application. SBA will process an application for 8(a) BD program participation within 90 days of receipt of a complete application package by the DPCE. Incomplete packages will not be processed.
 
 (b) SBA, in its sole discretion, may request clarification of information contained in the application at any time in the application process. SBA will take into account any clarifications made by an applicant in response to a request for such by SBA.

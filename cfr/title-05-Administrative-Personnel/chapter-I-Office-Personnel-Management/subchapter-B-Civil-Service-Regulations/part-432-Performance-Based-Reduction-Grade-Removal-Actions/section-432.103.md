@@ -1,5 +1,7 @@
 ##### § 432.103 Definitions. #####
 
+Link to an amendment published at 85 FR 65982, Oct. 16, 2020.
+
 For the purpose of this part -
 
 (a) *Acceptable performance* means performance that meets an employee's performance requirement(s) or standard(s) at a level of performance above “unacceptable” in the critical element(s) at issue.

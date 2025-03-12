@@ -1,5 +1,7 @@
 ##### § 40.67 Requirement for advance notice for importation of natural uranium from countries that are not party to the Convention on the Physical Protection of Nuclear Material. #####
 
+Link to an amendment published at 85 FR 65662, Oct. 16, 2020.
+
 (a) Each licensee authorized to import natural uranium, other than in the form of ore or ore residue, in amounts exceeding 500 kilograms, from countries not party to the Convention on the Physical Protection of Nuclear Material (see appendix F to Part 73 of this chapter) shall notify the Director, Office of Nuclear Security and Incident Response, using an appropriate method listed in § 40.5. The notification must be in writing and must be received at least 10 days before transport of the shipment commences at the shipping facility.
 
 (b) The notification must include the following information:

@@ -1,5 +1,7 @@
 ##### § 121.402 What size standards are applicable to Federal Government Contracting programs? #####
 
+Link to an amendment published at 85 FR 66180, Oct. 16, 2020.
+
 (a) A concern must not exceed the size standard for the NAICS code specified in the solicitation. The contracting officer must specify the size standard in effect on the date the solicitation is issued. If SBA amends the size standard and it becomes effective before the date initial offers (including price) are due, the contracting officer may amend the solicitation and use the new size standard.
 
 (b) The procuring agency contracting officer, or authorized representative, designates the proper NAICS code and corresponding size standard in a solicitation, selecting the single NAICS code which best describes the principal purpose of the product or service being acquired. Except for multiple award contracts as set forth in paragraph (c) of this section, every solicitation, including a request for quotations, must contain only one NAICS code and only one corresponding size standard.

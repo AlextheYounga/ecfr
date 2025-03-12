@@ -1,5 +1,7 @@
 ##### § 91.1607 Special Federal Aviation Regulation No. 113 - Prohibition Against Certain Flights in the Simferopol Flight Information Region (FIR) (UKFV) and the Dnipropetrovsk Flight Information Region (FIR) (UKDV). #####
 
+Link to an amendment published at 85 FR 65685, Oct. 16, 2020.
+
 (a) *Applicability.* This Special Federal Aviation Regulation (SFAR) applies to the following persons:
 
 (1) All U.S. air carriers and U.S. commercial operators;

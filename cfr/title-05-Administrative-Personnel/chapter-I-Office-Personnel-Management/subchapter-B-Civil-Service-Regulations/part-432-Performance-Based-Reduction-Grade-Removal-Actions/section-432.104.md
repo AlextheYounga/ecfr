@@ -1,5 +1,7 @@
 ##### § 432.104 Addressing unacceptable performance. #####
 
+Link to an amendment published at 85 FR 65982, Oct. 16, 2020.
+
 At any time during the performance appraisal cycle that an employee's performance is determined to be unacceptable in one or more critical elements, the agency shall notify the employee of the critical element(s) for which performance is unacceptable and inform the employee of the performance requirement(s) or standard(s) that must be attained in order to demonstrate acceptable performance in his or her position. The agency should also inform the employee that unless his or her performance in the critical element(s) improves to and is sustained at an acceptable level, the employee may be reduced in grade or removed. For each critical element in which the employee's performance is unacceptable, the agency shall afford the employee a reasonable opportunity to demonstrate acceptable performance, commensurate with the duties and responsibilities of the employee's position. As part of the employee's opportunity to demonstrate acceptable performance, the agency shall offer assistance to the employee in improving unacceptable performance.
 
 [55 FR 25950, June 26, 1990, as amended at 58 FR 65534, Dec. 15, 1993]

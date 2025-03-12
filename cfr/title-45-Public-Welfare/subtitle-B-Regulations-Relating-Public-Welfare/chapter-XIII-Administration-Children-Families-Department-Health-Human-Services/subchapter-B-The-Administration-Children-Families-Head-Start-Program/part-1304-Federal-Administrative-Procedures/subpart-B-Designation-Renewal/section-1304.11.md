@@ -1,6 +1,6 @@
 ##### § 1304.11 Basis for determining whether a Head Start agency will be subject to an open competition. #####
 
-Link to an amendment published at 85 FR 53207, Aug. 28, 2020.
+Link to an amendment published at 85 FR 53207, Aug. 28, 2020.This amendment was delayed until Nov. 9, 2020, at 85 FR 65733, Oct. 16, 2020.
 
 A Head Start or Early Head Start agency shall be required to compete for its next five years of funding whenever the responsible HHS official determines that one or more of the following seven conditions existed during the relevant time period covered by the responsible HHS official's review under § 1304.15:
 

@@ -1,5 +1,7 @@
 ##### § 72.75 Reporting requirements for specific events and conditions. #####
 
+Link to an amendment published at 85 FR 65664, Oct. 16, 2020.
+
 (a) *Emergency notifications:* Each licensee shall notify the NRC Headquarters Operations Center upon the declaration of an emergency as specified in the licensee's approved emergency plan addressed in § 72.32. The licensee shall notify the NRC immediately after notification of the appropriate State or local agencies, but not later than one hour after the time the licensee declares an emergency.
 
 (b) *Non-emergency notifications:* Four-hour reports. Each licensee shall notify the NRC as soon as possible but not later than four hours after the discovery of any of the following events or conditions involving spent fuel, HLW, or reactor-related GTCC waste:

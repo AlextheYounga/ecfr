@@ -1,5 +1,7 @@
 ##### § 124.3 What definitions are important in the 8(a) BD program? #####
 
+Link to an amendment published at 85 FR 66183, Oct. 16, 2020.
+
 *Alaska Native*, as defined by the Alaska Native Claims Settlement Act (43 U.S.C. 1602), means a citizen of the United States who is a person of one-fourth degree or more Alaskan Indian (including Tsimshian Indians not enrolled in the Metlaktla Indian Community), Eskimo, or Aleut blood, or a combination of those bloodlines. The term includes, in the absence of proof of a minimum blood quantum, any citizen whom a Native village or Native group regards as an Alaska Native if their father or mother is regarded as an Alaska Native.
 
 *Alaska Native Corporation or ANC* means any Regional Corporation, Village Corporation, Urban Corporation, or Group Corporation organized under the laws of the State of Alaska in accordance with the Alaska Native Claims Settlement Act, as amended (43 U.S.C. 1601, *et seq.*)

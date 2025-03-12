@@ -1,5 +1,7 @@
 ##### § 51.22 Criterion for categorical exclusion; identification of licensing and regulatory actions eligible for categorical exclusion or otherwise not requiring environmental review. #####
 
+Link to an amendment published at 85 FR 65663, Oct. 16, 2020.
+
 (a) Licensing, regulatory, and administrative actions eligible for categorical exclusion shall meet the following criterion: The action belongs to a category of actions which the Commission, by rule or regulation, has declared to be a categorical exclusion, after first finding that the category of actions does not individually or cumulatively have a significant effect on the human environment.
 
 (b) Except in special circumstances, as determined by the Commission upon its own initiative or upon request of any interested person, an environmental assessment or an environmental impact statement is not required for any action within a category of actions included in the list of categorical exclusions set out in paragraph (c) of this section. Special circumstances include the circumstance where the proposed action involves unresolved conflicts concerning alternative uses of available resources within the meaning of section 102(2)(E) of NEPA.

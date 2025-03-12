@@ -1,5 +1,7 @@
 ##### § 50.8 Information collection requirements: OMB approval. #####
 
+Link to an amendment published at 85 FR 65662, Oct. 16, 2020.
+
 (a) The Nuclear Regulatory Commission has submitted the information collection requirements contained in this part to the Office of Management and Budget (OMB) for approval as required by the Paperwork Reduction Act (44 U.S.C. 3501 *et seq.*). The NRC may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number. OMB has approved the information collection requirements contained in this part under control number 3150-0011.
 
 (b) The approved information collection requirements contained in this part appear in §§ 50.12, 50.30, 50.33, 50.34, 50.34a, 50.35, 50.36, 50.36a, 50.36b, 50.44, 50.46, 50.47, 50.48, 50.49, 50.54, 50.55, 50.55a, 50.59, 50.60, 50.61, 50.61a, 50.62, 50.63, 50.64, 50.65, 50.66, 50.68, 50.69, 50.70, 50.71, 50.72, 50.74, 50.75, 50.80, 50.82, 50.90, 50.91, 50.120, 50.150, 50.155, and appendices A, B, E, G, H, I, J, K, M, N,O, Q, R, and S to this part.

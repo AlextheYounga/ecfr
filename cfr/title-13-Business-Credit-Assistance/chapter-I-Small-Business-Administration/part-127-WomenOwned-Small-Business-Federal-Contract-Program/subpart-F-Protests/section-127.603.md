@@ -1,5 +1,7 @@
 ##### § 127.603 What are the requirements for filing an EDWOSB or WOSB protest? #####
 
+Link to an amendment published at 85 FR 66199, Oct. 16, 2020.
+
 (a) *Format.* Protests must be in writing and must specify all the grounds upon which the protest is based. A protest merely asserting that the protested concern is not an eligible EDWOSB or WOSB, without setting forth specific facts or allegations, is insufficient.
 
 (b) *Filing.* Protestors may deliver their written protests in person, by facsimile, by express delivery service, e-mail, or by U.S. mail (received by the applicable date) to the following:

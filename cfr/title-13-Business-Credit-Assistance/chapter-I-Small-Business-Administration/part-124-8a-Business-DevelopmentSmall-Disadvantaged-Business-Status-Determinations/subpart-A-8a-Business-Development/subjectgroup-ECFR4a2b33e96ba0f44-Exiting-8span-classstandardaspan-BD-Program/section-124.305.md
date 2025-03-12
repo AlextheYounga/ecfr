@@ -1,5 +1,7 @@
 ##### § 124.305 What is suspension and how is a Participant suspended from the 8(a) BD program? #####
 
+Link to an amendment published at 85 FR 66186, Oct. 16, 2020.
+
 (a) Except as set forth in paragraph (h) of this section, at any time after SBA issues a Letter of Intent to Terminate an 8(a) Participant pursuant to § 124.304, the AA/BD may suspend 8(a) contract support and all other forms of 8(a) BD program assistance to that Participant until the issue of the Participant's termination from the program is finally determined. The AA/BD may suspend a Participant when he or she determines that suspension is needed to protect the interests of the Federal Government, such as where information showing a clear lack of program eligibility or conduct indicating a lack of business integrity exists, including where the concern or one of its principals submitted false statements to the Federal Government. SBA will suspend a Participant where SBA determines that the Participant submitted false information in its 8(a) BD application.
 
 (b) SBA will issue a Notice of Suspension to the Participant's last known address by certified mail, return receipt requested. Suspension is effective as of the date of the issuance of the Notice. The Notice will provide the following information:

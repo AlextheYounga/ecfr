@@ -1,5 +1,7 @@
 ##### § 75.10 Facilities. #####
 
+Link to an amendment published at 85 FR 65665, Oct. 16, 2020.
+
 (a) Each applicant, licensee, or certificate holder subject to the provisions of this Part shall submit facility information, in response to written notification from the NRC, with respect to any facility that the NRC indicates has been identified under the U.S.-IAEA Safeguards Agreement, the Initial Protocol to the Agreement, or meets the Additional Protocol reporting criteria, and in which the applicant, licensee, or certificate holder carries out licensed activities. (The NRC request must state whether the facility has been identified under Article 39(b) of the principal text of the U.S.-IAEA Safeguards Agreement or Article 2(a) of the Initial protocol.) The applicant, licensee, or certificate holder shall submit the requested information to the NRC within the period specified in the NRC's request.
 
 (b) Facility information includes:

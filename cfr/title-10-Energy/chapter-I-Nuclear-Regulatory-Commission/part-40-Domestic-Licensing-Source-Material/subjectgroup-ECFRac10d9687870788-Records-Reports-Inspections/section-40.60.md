@@ -1,5 +1,7 @@
 ##### § 40.60 Reporting requirements. #####
 
+Link to an amendment published at 85 FR 65662, Oct. 16, 2020.
+
 (a) *Immediate report.* Each licensee shall notify the NRC as soon as possible but not later than 4 hours after the discovery of an event that prevents immediate protective actions necessary to avoid exposures to radiation or radioactive materials that could exceed regulatory limits or releases of licensed material that could exceed regulatory limits (events may include fires, explosions, toxic gas releases, etc.).
 
 (b) *Twenty-four hour report.* Each licensee shall notify the NRC within 24 hours after the discovery of any of the following events involving licensed material:

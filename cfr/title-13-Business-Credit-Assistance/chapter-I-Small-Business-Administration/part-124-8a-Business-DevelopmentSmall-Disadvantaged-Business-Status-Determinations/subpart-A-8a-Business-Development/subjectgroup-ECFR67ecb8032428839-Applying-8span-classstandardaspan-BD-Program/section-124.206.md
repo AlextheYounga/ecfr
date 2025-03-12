@@ -1,5 +1,7 @@
 ##### § 124.206 What appeal rights are available to an applicant that has been denied admission? #####
 
+Link to an amendment published at 85 FR 66185, Oct. 16, 2020.
+
 (a) An applicant may appeal a denial of program admission to SBA's Office of Hearings and Appeals (OHA), if it is based solely on a negative finding of social disadvantage, economic disadvantage, ownership, control, or any combination of these four criteria. A denial decision that is based at least in part on the failure to meet any other eligibility criterion is not appealable and is the final decision of SBA.
 
 (b) The applicant may appeal an initial decision of the AA/BD without requesting reconsideration, or may appeal the decision of the AA/BD on reconsideration.

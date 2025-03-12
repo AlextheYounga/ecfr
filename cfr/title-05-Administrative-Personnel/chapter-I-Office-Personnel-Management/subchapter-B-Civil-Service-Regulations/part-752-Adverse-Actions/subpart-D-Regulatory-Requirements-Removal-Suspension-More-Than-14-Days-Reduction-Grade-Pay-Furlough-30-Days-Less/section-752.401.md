@@ -1,5 +1,7 @@
 ##### § 752.401 Coverage. #####
 
+Link to an amendment published at 85 FR 65986, Oct. 16, 2020.
+
 (a) *Adverse actions covered.* This subpart applies to the following actions:
 
 (1) Removals;

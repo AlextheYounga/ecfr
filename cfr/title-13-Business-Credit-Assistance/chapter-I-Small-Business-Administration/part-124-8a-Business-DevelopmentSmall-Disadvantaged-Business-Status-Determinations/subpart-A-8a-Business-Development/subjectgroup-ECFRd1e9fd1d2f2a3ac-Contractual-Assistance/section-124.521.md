@@ -1,5 +1,7 @@
 ##### § 124.521 What are the requirements for representing 8(a) status, and what are the penalties for misrepresentation? #####
 
+Link to an amendment published at 85 FR 66191, Oct. 16, 2020.
+
 (a) *Presumption of Loss Based on the Total Amount Expended.* In every contract, subcontract, cooperative agreement, cooperative research and development agreement, or grant which is set aside, reserved, or otherwise classified as intended for award to 8(a) Participants, there shall be a presumption of loss to the United States based on the total amount expended on the contract, subcontract, cooperative agreement, cooperative research and development agreement, or grant whenever it is established that a business concern other than an 8(a) Participant willfully sought and received the award by misrepresentation.
 
 (b) *Deemed Certifications.* The following actions shall be deemed affirmative, willful and intentional certifications of 8(a) status:

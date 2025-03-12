@@ -1,5 +1,7 @@
 ##### § 622.74 Area closures to protect Gulf corals. #####
 
+Link to an amendment published at 85 FR 65746, Oct. 16, 2020.
+
 (a) *West and East Flower Garden Banks HAPC.* The following activities are prohibited year-round in the HAPC: Fishing with a bottom longline, bottom trawl, buoy gear, dredge, pot, or trap and bottom anchoring by fishing vessels.
 
 (1) *West Flower Garden Bank.* West Flower Garden Bank is bounded by rhumb lines connecting, in order, the following points:

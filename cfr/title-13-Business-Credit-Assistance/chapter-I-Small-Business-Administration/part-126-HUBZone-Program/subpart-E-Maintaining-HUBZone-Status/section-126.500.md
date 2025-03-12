@@ -1,5 +1,7 @@
 ##### § 126.500 How does a concern maintain HUBZone certification? #####
 
+Link to an amendment published at 85 FR 66197, Oct. 16, 2020.
+
 (a) Any concern seeking to remain a certified HUBZone small business concern in DSBS (or successor system) must annually represent to SBA that it continues to meet all HUBZone eligibility criteria (*see* § 126.200).
 
 (1) If at the time of its recertification the certified HUBZone small business concern is not currently performing a HUBZone contract, its representation means that at least 35% of its employees continue to reside in a HUBZone and the principal office of the concern continues to be located in a HUBZone.

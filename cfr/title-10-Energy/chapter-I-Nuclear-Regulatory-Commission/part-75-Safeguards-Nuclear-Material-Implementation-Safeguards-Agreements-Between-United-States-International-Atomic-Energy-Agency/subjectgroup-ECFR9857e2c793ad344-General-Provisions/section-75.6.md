@@ -1,5 +1,7 @@
 ##### § 75.6 Reporting requirements for facilities, locations, and nuclear material outside facilities. #####
 
+Link to an amendment published at 85 FR 65665, Oct. 16, 2020.
+
 (a) Except where otherwise specified, all communications concerning the regulations in this Part shall be addressed to the U.S. Nuclear Regulatory Commission, ATTN: Document Control Desk, Washington, DC 20555-0001. Written communications may be delivered in person to the Nuclear Regulatory Commission at One White Flint North, 11555 Rockville Pike, Rockville, MD 20852-2738 between 7:30 a.m. and 4:15 p.m. eastern time. If a submittal deadline falls on a Saturday, Sunday, or a Federal holiday, the next Federal working day becomes the official due date.
 
 (b) Each applicant, licensee, certificate holder, or possessor of nuclear material outside facilities, who has been given notice by the NRC in writing that it is required to report under Safeguards Agreements for its facility, nuclear material outside facilities, or location, shall make its initial and subsequent reports, including attachments, in an appropriate format defined in the instructions. The DOE/NRC forms and their instructions may be accessed at *https://www.nrc.gov/reading-rm/doc-collections/forms.* The AP-A and associated forms may be accessed at *www.AP.gov.*

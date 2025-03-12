@@ -1,5 +1,7 @@
 ##### § 124.520 What are the rules governing SBA's Mentor/Protégé program? #####
 
+Link to an amendment published at 85 FR 66191, Oct. 16, 2020.
+
 (a) *General.* The mentor/protégé program is designed to encourage approved mentors to provide various forms of business development assistance to protégé firms. This assistance may include technical and/or management assistance; financial assistance in the form of equity investments and/or loans; subcontracts (either from the mentor to the protégé or from the protégé to the mentor); trade education; and/or assistance in performing prime contracts with the Government through joint venture arrangements. Mentors are encouraged to provide assistance relating to the performance of non-8(a) contracts so that protégé firms may more fully develop their capabilities. The purpose of the mentor/protégé relationship is to enhance the capabilities of the protégé, assist the protégé with meeting the goals established in its SBA-approved business plan, and to improve its ability to successfully compete for contracts.
 
 (b) *Mentors.* Any concern that demonstrates a commitment and the ability to assist developing 8(a) Participants may act as a mentor and receive benefits as set forth in this section. This includes businesses that have graduated from the 8(a) BD program, firms that are in the transitional stage of program participation, other small businesses, and large businesses.

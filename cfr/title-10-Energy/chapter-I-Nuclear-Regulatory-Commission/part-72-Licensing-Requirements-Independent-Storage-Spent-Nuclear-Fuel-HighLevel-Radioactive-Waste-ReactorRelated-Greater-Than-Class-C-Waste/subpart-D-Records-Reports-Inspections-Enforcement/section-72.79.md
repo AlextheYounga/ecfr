@@ -1,5 +1,7 @@
 ##### § 72.79 Facility information and verification. #####
 
+Link to an amendment published at 85 FR 65664, Oct. 16, 2020.
+
 (a) In response to a written request by the Commission, each applicant for a certificate of compliance or license and each recipient of a certificate of compliance or specific or general license shall submit facility information, as described in § 75.10 of this chapter, on Form N-71 and associated forms and site information on DOC/NRC Form AP-A and associated forms;
 
 (b) Shall submit location information described in § 75.11 of this chapter on DOC/NRC Form AP-1 and associated forms; and

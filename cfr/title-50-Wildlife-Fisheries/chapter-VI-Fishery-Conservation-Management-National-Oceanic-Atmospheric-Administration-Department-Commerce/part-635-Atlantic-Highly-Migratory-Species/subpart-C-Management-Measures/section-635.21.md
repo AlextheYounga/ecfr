@@ -1,5 +1,7 @@
 ##### § 635.21 Gear operation and deployment restrictions. #####
 
+Link to an amendment published at 85 FR 65749, Oct. 16, 2020.
+
 (a) *All Atlantic HMS fishing gears.* (1) An Atlantic HMS harvested from its management unit that is not retained must be released in a manner that will ensure maximum probability of survival, but without removing the fish from the water.
 
 (2) If a billfish is caught by a hook and not retained, the fish must be released by cutting the line near the hook or by using a dehooking device, in either case without removing the fish from the water.

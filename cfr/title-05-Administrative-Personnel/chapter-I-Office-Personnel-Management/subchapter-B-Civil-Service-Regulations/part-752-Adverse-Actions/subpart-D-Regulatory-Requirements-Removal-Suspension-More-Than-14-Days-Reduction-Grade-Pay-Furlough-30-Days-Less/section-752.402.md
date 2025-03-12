@@ -1,5 +1,7 @@
 ##### § 752.402 Definitions. #####
 
+Link to an amendment published at 85 FR 65986, Oct. 16, 2020.
+
 In this subpart -
 
 *Current continuous employment* means a period of employment or service immediately preceding an adverse action without a break in Federal civilian employment of a workday.

@@ -1,5 +1,7 @@
 ##### § 74.8 Information collection requirements: OMB approval. #####
 
+Link to an amendment published at 85 FR 65665, Oct. 16, 2020.
+
 (a) The Commission has submitted the information collection requirements contained in this part to the Office of Management and Budget (OMB) for approval as required by the Paperwork Reduction Act (44 U.S.C. 3501 *et seq.*). The NRC may not conduct or sponsor, and a person is not required to respond to, a collection of information if it does not display a currently valid OMB control number. OMB has approved the information collection requirements contained in this part under control number 3150-0123.
 
 (b) The approved information collection requirements contained in this part appear in §§ 74.11, 74.13, 74.15, 74.17, 74.19, 74.31, 74.33, 74.41, 74.43, 74.45, 74.51, 74.57, and 74.59.

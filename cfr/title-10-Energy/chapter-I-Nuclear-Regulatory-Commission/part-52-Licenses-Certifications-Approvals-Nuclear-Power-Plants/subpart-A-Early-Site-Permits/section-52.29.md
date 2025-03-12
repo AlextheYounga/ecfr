@@ -1,5 +1,7 @@
 ##### § 52.29 Application for renewal. #####
 
+Link to an amendment published at 85 FR 65663, Oct. 16, 2020.
+
 (a) Not less than 12, nor more than 36 months before the expiration date stated in the early site permit, or any later renewal period, the permit holder may apply for a renewal of the permit. An application for renewal must contain all information necessary to bring up to date the information and data contained in the previous application.
 
 (b) Any person whose interests may be affected by renewal of the permit may request a hearing on the application for renewal. The request for a hearing must comply with 10 CFR 2.309. If a hearing is granted, notice of the hearing will be published in accordance with 10 CFR 2.309.

@@ -1,5 +1,7 @@
 ##### § 752.203 Procedures. #####
 
+Link to an amendment published at 85 FR 65985, Oct. 16, 2020.
+
 (a) *Statutory entitlements.* An employee under this subpart whose suspension is proposed under this subpart is entitled to the procedures provided in 5 U.S.C. 7503(b).
 
 (b) *Notice of proposed action.* The notice must state the specific reason(s) for the proposed action, and inform the employee of his or her right to review the material which is relied on to support the reasons for action given in the notice.

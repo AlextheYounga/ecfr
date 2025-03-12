@@ -1,5 +1,7 @@
 ##### § 124.513 Under what circumstances can a joint venture be awarded an 8(a) contract? #####
 
+Link to an amendment published at 85 FR 66190, Oct. 16, 2020.
+
 (a) *General.* (1) If approved by SBA, a Participant may enter into a joint venture agreement with one or more other small business concerns, whether or not 8(a) Participants, for the purpose of performing one or more specific 8(a) contracts.
 
 (2) A joint venture agreement is permissible only where an 8(a) concern lacks the necessary capacity to perform the contract on its own, and the agreement is fair and equitable and will be of substantial benefit to the 8(a) concern. However, where SBA concludes that an 8(a) concern brings very little to the joint venture relationship in terms of resources and expertise other than its 8(a) status, SBA will not approve the joint venture arrangement.

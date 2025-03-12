@@ -1,5 +1,7 @@
 ##### § 752.201 Coverage. #####
 
+Link to an amendment published at 85 FR 65985, Oct. 16, 2020.
+
 (a) *Adverse actions covered.* This subpart covers suspension for 14 days or less.
 
 (b) *Employees covered.* This subpart covers:

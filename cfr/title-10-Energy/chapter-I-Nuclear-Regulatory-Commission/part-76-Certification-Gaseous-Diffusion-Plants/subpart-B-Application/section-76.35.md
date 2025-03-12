@@ -1,5 +1,7 @@
 ##### § 76.35 Contents of application. #####
 
+Link to an amendment published at 85 FR 65665, Oct. 16, 2020.
+
 The application for a certificate of compliance must include the information identified in this section.
 
 (a) A safety analysis report which must include the following information:

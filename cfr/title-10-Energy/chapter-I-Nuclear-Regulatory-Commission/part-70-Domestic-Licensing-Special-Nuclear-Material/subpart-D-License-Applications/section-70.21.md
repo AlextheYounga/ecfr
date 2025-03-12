@@ -1,5 +1,7 @@
 ##### § 70.21 Filing. #####
 
+Link to an amendment published at 85 FR 65664, Oct. 16, 2020.
+
 (a)(1) A person may apply for a license to possess and use special nuclear material in a plutonium processing or fuel fabrication plant, or for a uranium enrichment facility license, by filing the application with the Director of the NRC's Office of Nuclear Material Safety and Safeguards in accordance with the instructions in § 70.5(a). If the application is on paper or CD-ROM, only one copy need be provided. If the application is to be submitted electronically, see guidance for electronic submissions to the Commission.
 
 (2) A person may apply for any other license issued under this part, by filing the application in accordance with the instructions in § 70.5(a). If the application is on paper, only one copy need be provided. If the application is to be submitted electronically, see guidance for electronic submissions to the Commission.

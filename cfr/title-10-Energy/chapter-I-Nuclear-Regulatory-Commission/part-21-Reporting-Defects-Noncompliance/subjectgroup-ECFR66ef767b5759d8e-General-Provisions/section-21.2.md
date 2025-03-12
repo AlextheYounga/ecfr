@@ -1,5 +1,7 @@
 ##### § 21.2 Scope. #####
 
+Link to an amendment published at 85 FR 65661, Oct. 16, 2020.
+
 (a) The regulations in this part apply, except as specifically provided otherwise in parts 31, 34, 35, 39, 40, 60, 61, 63, 70, or part 72 of this chapter, to:
 
 (1) Each individual, partnership, corporation, or other entity applying for or holding a license or permit under the regulations in this chapter to possess, use, or transfer within the United States source material, byproduct material, special nuclear material, and/or spent fuel and high-level radioactive waste, or to construct, manufacture, possess, own, operate, or transfer within the United States, any production or utilization facility or independent spent fuel storage installation (ISFSI) or monitored retrievable storage installation (MRS); and each director and responsible officer of such a licensee;

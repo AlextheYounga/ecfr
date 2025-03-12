@@ -1,5 +1,7 @@
 ##### § 125.5 What is the Certificate of Competency Program? #####
 
+Link to an amendment published at 85 FR 66192, Oct. 16, 2020.
+
 (a) *General.* (1) The Certificate of Competency (COC) Program is authorized under section 8(b)(7) of the Small Business Act (15 U.S.C. 637(b)(7)). A COC is a written instrument issued by SBA to a Government contracting officer, certifying that one or more named small business concerns possess the responsibility to perform a specific Government procurement (or sale) contract, including any contract deriving from a reverse auction. The COC Program is applicable to all Government procurement actions, including Multiple Award Contracts and orders placed against Multiple Award Contracts, where the contracting officer has used any issues of capacity or credit (responsibility) to determine suitability for an award. With respect to Multiple Award Contracts, contracting officers generally determine responsibility at the time of award of the contract. However, if a contracting officer makes a responsibility determination as set forth in paragraph (a)(2) of this section for an order issued against a Multiple Award Contract, the contracting officer must refer the matter to SBA for a COC. The COC procedures apply to all Federal procurements, regardless of the location of performance or the location of the procuring activity.
 
 (2) A contracting officer must refer a small business concern to SBA for a possible COC, even if the next apparent successful offeror is also a small business, when the contracting officer:

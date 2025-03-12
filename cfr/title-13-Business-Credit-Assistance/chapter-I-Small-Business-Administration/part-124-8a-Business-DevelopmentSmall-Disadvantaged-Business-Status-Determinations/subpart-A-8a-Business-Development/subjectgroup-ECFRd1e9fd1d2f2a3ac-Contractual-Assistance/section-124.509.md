@@ -1,5 +1,7 @@
 ##### § 124.509 What are non-8(a) business activity targets? #####
 
+Link to an amendment published at 85 FR 66189, Oct. 16, 2020.
+
 (a) *General.* (1) To ensure that Participants do not develop an unreasonable reliance on 8(a) awards, and to ease their transition into the competitive marketplace after graduating from the 8(a) BD program, Participants must make maximum efforts to obtain business outside the 8(a) BD program. Work performed by an 8(a) Participant for any Federal department or agency other than through an 8(a) contract, including work performed on orders under the General Services Administration Multiple Award Schedule program, and work performed as a subcontractor, including work performed as a subcontractor to another 8(a) Participant on an 8(a) contract, qualifies as work performed outside the 8(a) BD program.
 
 (2) During both the developmental and transitional stages of the 8(a) BD program, a Participant must make substantial and sustained efforts, including following a reasonable marketing strategy, to attain the targeted dollar levels of non-8(a) revenue established in its business plan. It must attempt to use the 8(a) BD program as a resource to strengthen the firm for economic viability when program benefits are no longer available.

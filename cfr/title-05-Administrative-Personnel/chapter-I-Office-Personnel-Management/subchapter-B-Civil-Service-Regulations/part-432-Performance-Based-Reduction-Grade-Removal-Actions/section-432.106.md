@@ -1,5 +1,7 @@
 ##### § 432.106 Appeal and grievance rights. #####
 
+Link to an amendment published at 85 FR 65983, Oct. 16, 2020.
+
 (a) *Appeal rights.* An employee covered under § 432.102(e) who has been removed or reduced in grade under this part may appeal to the Merit Systems Protection Board if the employee is:
 
 (1) In the competitive service and has completed a probationary or trial period;

@@ -1,5 +1,7 @@
 ##### § 124.112 What criteria must a business meet to remain eligible to participate in the 8(a) BD program? #####
 
+Link to an amendment published at 85 FR 66185, Oct. 16, 2020.
+
 (a) *Standards.* In order for a concern (except those owned by Indian tribes, ANCs, Native Hawaiian Organizations or CDCs) to remain eligible for 8(a) BD program participation, it must continue to meet all eligibility criteria contained in § 124.101 through § 124.108. For concerns owned by Indian tribes, ANCs, Native Hawaiian Organizations or CDCs to remain eligible, they must meet the criteria set forth in this § 124.112 to the extent that they are not inconsistent with § 124.109, § 124.110 and § 124.111, respectively. The concern must inform SBA in writing of any changes in circumstances which would adversely affect its program eligibility, especially economic disadvantage and ownership and control. Any concern that fails to meet the eligibility requirements after being admitted to the program will be subject to termination or early graduation under §§ 124.302 through 124.304, as appropriate.
 
 (b) *Submissions supporting continued eligibility.* As part of an annual review, each Participant must annually submit to the servicing district office the following:

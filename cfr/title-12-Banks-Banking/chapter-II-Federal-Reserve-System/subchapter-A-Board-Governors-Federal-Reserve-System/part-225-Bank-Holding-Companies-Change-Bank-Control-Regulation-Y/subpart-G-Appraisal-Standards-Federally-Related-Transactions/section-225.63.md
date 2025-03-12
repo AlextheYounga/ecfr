@@ -62,8 +62,24 @@
 
 (f) *Deferrals of appraisals and evaluations for certain residential and commercial transactions* - (1) *120-day grace period.* The completion of appraisals and evaluations required under paragraphs (a) and (b) of this section may be deferred up to 120 days from the date of closing.
 
-(2) *Covered transactions.* The deferrals authorized under paragraph (f)(1) of this section apply to all residential and commercial real estate-secured transactions, excluding transactions for acquisition, development, and construction of real estate.
+(2) *Covered transactions.* The deferrals authorized under paragraph (f)(1) of this section apply to all residential and commercial real estate-secured transactions, excluding transactions for the acquisition, development, and construction of real estate which, for purposes of this rule, mean those loans described in paragraphs (f)(2)(i) through (iv) of this section. The term “construction” as used in this paragraph (f)(2) includes not only construction of new structures, but also additions or alterations to existing structures and the demolition of existing structures to make way for new structures. The following loan transactions are excluded from the deferrals authorized under paragraph (f)(1) of this section:
 
-(3) *Sunset.* The appraisal and evaluation deferrals authorized by this paragraph (f) will expire for transactions closing after December 31, 2020.
+(i) Loans secured by real estate made to finance:
 
-[Reg. Y, 55 FR 27771, July 5, 1990, as amended at 58 FR 15077, Mar. 19, 1993; 59 FR 29500, June 7, 1994; 63 FR 65532, Nov. 27, 1998; 83 FR 15035, Apr. 9, 2018; 84 FR 53597, 53598, Oct. 8, 2019; 85 FR 21317, Apr. 17, 2020]Effective Date Note:At 85 FR 21317, Apr. 17, 2020, § 225.63 was amended by adding paragraph (f), effective until Dec. 31, 2020.
+(A) Land development (such as the process of improving land - laying sewers, water pipes, etc.) preparatory to erecting new structures; or
+
+(B) The on-site construction of industrial, commercial, residential, or farm buildings;
+
+(ii) Loans secured by vacant land (except land known to be used or usable for agricultural purposes);
+
+(iii) Loans secured by real estate to acquire and improve developed or undeveloped property; and
+
+(iv) Loans made under Title I or Title X of the National Housing Act that:
+
+(A) Conform to the definition of “construction” as defined in paragraph (f)(2) of this section; and
+
+(B) Are secured by real estate.
+
+(3) *Sunset.* The appraisal and evaluation deferrals authorized by paragraph (f) of this section will expire for transactions closing after December 31, 2020.
+
+[Reg. Y, 55 FR 27771, July 5, 1990, as amended at 58 FR 15077, Mar. 19, 1993; 59 FR 29500, June 7, 1994; 63 FR 65532, Nov. 27, 1998; 83 FR 15035, Apr. 9, 2018; 84 FR 53597, 53598, Oct. 8, 2019; 85 FR 21317, Apr. 17, 2020; 85 FR 65671, Oct. 16, 2020]Effective Date Note:At 85 FR 21317, Apr. 17, 2020, § 225.63 was amended by adding paragraph (f), effective until Dec. 31, 2020. At 85 FR 65671, Oct. 16, 2020, paragraph (f) was revised, effective until Dec. 31, 2020.

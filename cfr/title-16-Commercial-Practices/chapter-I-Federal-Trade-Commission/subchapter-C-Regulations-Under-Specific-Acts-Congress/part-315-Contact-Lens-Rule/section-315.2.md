@@ -1,7 +1,5 @@
 ##### § 315.2 Definitions. #####
 
-Link to an amendment published at 85 FR 50717, Aug. 17, 2020.
-
 For purposes of this part, the following definitions shall apply:
 
 *Business hour* means an hour between 9 a.m. and 5 p.m., during a weekday (Monday through Friday), excluding Federal holidays. “Business hour” also may include, at the seller's option, a prescriber's regular business hours on Saturdays, provided that the seller has actual knowledge of these hours. “Business hour” shall be determined based on the time zone of the prescriber.
@@ -49,3 +47,15 @@ For purposes of this part, the following definitions shall apply:
 *Prescriber* means, with respect to contact lens prescriptions, an ophthalmologist, optometrist, or other person permitted under State law to issue prescriptions for contact lenses in compliance with any applicable requirements established by the Food and Drug Administration. “Other person,” for purposes of this definition, includes a dispensing optician who is permitted under State law to issue prescriptions and who is authorized or permitted under State law to perform contact lens fitting services.
 
 *Private label contact lenses* mean contact lenses that are sold under the label of a seller where the contact lenses are identical to lenses made by the same manufacturer but sold under the labels of other sellers.
+
+*Provide to the patient a copy* means giving a patient a copy of his or her contact lens prescription:
+
+(1) On paper; or
+
+(2) In a digital format that can be accessed, downloaded, and printed by the patient. For a copy provided in a digital format, the prescriber shall identify to the patient the specific method or methods of electronic delivery to be used, such as text message, electronic mail, or an online patient portal, and obtain the patient's verifiable affirmative consent to receive a digital copy through the identified method or methods; and maintain records or evidence of a patient's affirmative consent for a period of not less than three years. Such records or evidence shall be available for inspection by the Federal Trade Commission, its employees, and its representatives.
+
+*Reasonably understandable volume* means at an audible level that renders the message intelligible to the receiving audience.
+
+*Slow and deliberate manner* means at a rate that renders the message intelligible to the receiving audience.
+
+[69 FR 40508, July 2, 2004, as amended at 85 FR 50717, Aug. 17, 2020]

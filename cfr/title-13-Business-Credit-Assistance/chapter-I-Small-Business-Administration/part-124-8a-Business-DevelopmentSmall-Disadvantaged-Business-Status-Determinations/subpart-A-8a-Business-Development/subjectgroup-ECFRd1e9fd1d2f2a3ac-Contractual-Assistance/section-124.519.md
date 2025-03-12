@@ -1,5 +1,7 @@
 ##### § 124.519 Are there any dollar limits on the amount of 8(a) contracts that a Participant may receive? #####
 
+Link to an amendment published at 85 FR 66191, Oct. 16, 2020.
+
 (a) A Participant (other than one owned by an Indian Tribe, ANC or NHO) may not receive sole source 8(a) contract awards where it has received a combined total of competitive and sole source 8(a) contracts in excess of the dollar amount set forth in this section during its participation in the 8(a) BD program.
 
 (1) For a firm having a receipts-based primary NAICS code at time of program entry, the limit above which it can no longer receive sole source 8(a) contracts is five times the size standard corresponding to its primary NAICS code which is determined as of the date of SBA's acceptance of the requirement for the 8(a) BD program or $100,000,000, whichever is less.

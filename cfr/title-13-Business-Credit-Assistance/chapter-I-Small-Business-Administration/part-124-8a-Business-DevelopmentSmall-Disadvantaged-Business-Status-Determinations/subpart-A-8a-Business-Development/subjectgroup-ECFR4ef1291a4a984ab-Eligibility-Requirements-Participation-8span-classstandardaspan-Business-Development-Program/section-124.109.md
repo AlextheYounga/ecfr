@@ -1,5 +1,7 @@
 ##### § 124.109 Do Indian tribes and Alaska Native Corporations have any special rules for applying to the 8(a) BD program? #####
 
+Link to an amendment published at 85 FR 66184, Oct. 16, 2020.
+
 (a) *Special rules for ANCs.* Small business concerns owned and controlled by ANCs are eligible for participation in the 8(a) program and must meet the eligibility criteria set forth in § 124.112 to the extent the criteria are not inconsistent with this section. ANC-owned concerns are subject to the same conditions that apply to tribally-owned concerns, as described in paragraphs (b) and (c) of this section, except that the following provisions and exceptions apply only to ANC-owned concerns:
 
 (1) Alaska Natives and descendants of Natives must own a majority of both the total equity of the ANC and the total voting powers to elect directors of the ANC through their holdings of settlement common stock. Settlement common stock means stock of an ANC issued pursuant to 43 U.S.C. 1606(g)(1), which is subject to the rights and restrictions listed in 43 U.S.C. 1606(h)(1).

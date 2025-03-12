@@ -1,5 +1,7 @@
 ##### § 121.1004 What time limits apply to size protests? #####
 
+Link to an amendment published at 85 FR 66182, Oct. 16, 2020.
+
 (a) *Protests by entities other than contracting officers or SBA* - (1) *Sealed bids or sales (including protests on partial set-asides and reserves of Multiple Award Contracts and set-asides of orders against Multiple Award Contracts).* A protest must be received by the contracting officer prior to the close of business on the 5th day, exclusive of Saturdays, Sundays, and legal holidays, after bid opening for
 
 (i) The contract; or

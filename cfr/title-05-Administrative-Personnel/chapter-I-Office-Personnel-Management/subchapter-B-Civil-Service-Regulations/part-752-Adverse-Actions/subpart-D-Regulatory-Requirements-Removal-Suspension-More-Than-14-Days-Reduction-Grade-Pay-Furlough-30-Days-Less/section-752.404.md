@@ -1,5 +1,7 @@
 ##### § 752.404 Procedures. #####
 
+Link to an amendment published at 85 FR 65986, Oct. 16, 2020.
+
 (a) *Statutory entitlements.* An employee against whom action is proposed under this subpart is entitled to the procedures provided in 5 U.S.C. 7513(b).
 
 (b) *Notice of proposed action.* (1) An employee against whom an action is proposed is entitled to at least 30 days' advance written notice unless there is an exception pursuant to paragraph (d) of this section. The notice must state the specific reason(s) for the proposed action, and inform the employee of his or her right to review the material which is relied on to support the reasons for action given in the notice.

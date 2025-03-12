@@ -1,0 +1,7 @@
+##### § 120.7 Notice-and-comment procedures. #####
+
+(a) Except as provided in paragraph (b) of this section, all proposed OPM guidance documents determined to be a “significant guidance document” within the meaning of § 120.5 shall be subject to the following informal notice-and-comment procedures. OPM shall publish notification in the Federal Register announcing that a draft of the proposed guidance document is publicly available, shall post a link to the Federal Register notice and the draft guidance document on its guidance portal, shall invite public comment on the draft document for a minimum of 30 days, and shall prepare and post a public response to major concerns raised in the comments, as appropriate, on its guidance Web portal, either before or when the guidance document is finalized and issued.
+
+(b) The requirements of paragraph (a) of this section will not apply to any significant guidance document or categories of significant guidance documents for which OPM finds good cause that notice and public procedure thereon are impracticable, unnecessary, or contrary to the public interest (and incorporates the finding of good cause and a brief statement of reasons therefore in the guidance issued).
+
+(c) Where appropriate, the originating office may recommend to the Director of OPM that a particular guidance document that is otherwise of importance to OPM's interests shall also be subject to the informal notice-and-comment procedures described in paragraph (a) of this section.

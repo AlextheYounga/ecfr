@@ -1,5 +1,7 @@
 ##### § 35.490 Training for use of manual brachytherapy sources. #####
 
+Link to an amendment published at 85 FR 65662, Oct. 16, 2020.
+
 Except as provided in § 35.57, the licensee shall require an authorized user of a manual brachytherapy source for the uses authorized under § 35.400 to be a physician who -
 
 (a) Is certified by a medical specialty board whose certification process has been recognized by the Commission or an Agreement State. The names of board certifications that have been recognized by the Commission or an Agreement State are posted on the NRC's Medical Uses Licensee Toolkit web page. To have its certification process recognized, a specialty board shall require all candidates for certification to:

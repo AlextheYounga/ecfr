@@ -1,5 +1,7 @@
 ##### § 126.616 What requirements must a joint venture satisfy to submit an offer and be eligible to perform on a HUBZone contract? #####
 
+Link to an amendment published at 85 FR 66197, Oct. 16, 2020.
+
 (a) *General.* A certified HUBZone small business concern may enter into a joint venture agreement with one or more other small business concerns, or with an approved mentor authorized by § 125.9 of this chapter (or, if also an 8(a) BD Participant, with an approved mentor authorized by § 124.520 of this chapter), for the purpose of submitting an offer for a HUBZone contract. The joint venture itself need not be a certified HUBZone small business concern.
 
 (b) *Size.* (1) A joint venture of at least one certified HUBZone small business concern and one or more other business concerns may submit an offer as a small business for a HUBZone procurement or sale so long as each concern is small under the size standard corresponding to the NAICS code assigned to the procurement or sale.

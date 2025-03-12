@@ -1,5 +1,7 @@
 ##### § 124.301 What are the ways a business may leave the 8(a) BD program? #####
 
+Link to an amendment published at 85 FR 66186, Oct. 16, 2020.
+
 A concern participating in the 8(a) BD program may leave the program by any of the following means:
 
 (a) Expiration of the program term established pursuant to § 124.2;

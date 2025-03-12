@@ -1,5 +1,7 @@
 ##### § 35.690 Training for use of remote afterloader units, teletherapy units, and gamma stereotactic radiosurgery units. #####
 
+Link to an amendment published at 85 FR 65662, Oct. 16, 2020.
+
 Except as provided in § 35.57, the licensee shall require an authorized user of a sealed source for a use authorized under § 35.600 to be a physician who -
 
 (a) Is certified by a medical specialty board whose certification process has been recognized by the Commission or an Agreement State and who meets the requirements in paragraph (c) of this section. The names of board certifications that have been recognized by the Commission or an Agreement State are posted on the NRC's Medical Uses Licensee Toolkit web page. To have its certification process recognized, a specialty board shall require all candidates for certification to:

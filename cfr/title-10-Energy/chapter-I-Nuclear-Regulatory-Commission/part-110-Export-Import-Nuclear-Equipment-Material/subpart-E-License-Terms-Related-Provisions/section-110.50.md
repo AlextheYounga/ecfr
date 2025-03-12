@@ -1,5 +1,7 @@
 ##### § 110.50 Terms. #####
 
+Link to an amendment published at 85 FR 65665, Oct. 16, 2020.
+
 (a) *General and specific licenses.* (1) Each license is subject to all applicable provisions of the Atomic Energy Act and other applicable law and to all applicable rules, regulations, decisions and orders of the Commission.
 
 (2) Each license is subject to amendment, suspension, revocation or incorporation of separate conditions when required by amendments of the Atomic Energy Act or other applicable law, or by other rules, regulations, decisions or orders issued in accordance with the terms of the Atomic Energy Act or other applicable law.

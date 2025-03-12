@@ -1,5 +1,7 @@
 ##### § 121.603 How does SBA determine whether a Participant is small for a particular 8(a) BD subcontract? #####
 
+Link to an amendment published at 85 FR 66182, Oct. 16, 2020.
+
 (a) *Self certification by Participant.* A 8(a) BD Participant must certify that it qualifies as a small business under the NAICS code assigned to a particular 8(a) BD subcontract as part of its initial offer including price to the procuring agency. The Participant also must submit a copy of its offer, including its self-certification as to size, to the appropriate SBA district office at the same time it submits the offer to the procuring agency. *See* § 121.404 for the time at which size is determined for, and § 121.406 for the applicability of the nonmanufacturer rule to, 8(a) BD procurements.
 
 (b) *Verification of size by SBA.* Within 30 days of its receipt of a Participant's size self-certification for a particular 8(a) BD subcontract, the SBA district office serving the geographic area in which the Participant's principal office is located will review the Participant's self-certification and determine if it is small for purposes of that subcontract. The SBA district office will review the Participant's most recent financial statements and other relevant data and then notify the Participant of its decision.

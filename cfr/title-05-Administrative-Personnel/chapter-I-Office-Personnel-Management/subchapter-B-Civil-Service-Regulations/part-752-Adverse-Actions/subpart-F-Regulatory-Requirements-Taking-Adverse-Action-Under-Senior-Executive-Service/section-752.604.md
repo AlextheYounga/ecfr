@@ -1,5 +1,7 @@
 ##### § 752.604 Procedures. #####
 
+Link to an amendment published at 85 FR 65987, Oct. 16, 2020.
+
 (a) *Statutory entitlements.* An appointee against whom action is proposed under this subpart is entitled to the procedures provided in 5 U.S.C. 7543(b).
 
 (b) *Notice of proposed action.* (1) An appointee against whom an action is proposed is entitled to at least 30 days' advance written notice unless there is an exception pursuant to paragraph (d) of this section. The notice must state the specific reason(s) for the proposed action, and inform the appointee of his or her right to review the material that is relied on to support the reasons for action given in the notice.

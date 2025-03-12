@@ -1,6 +1,6 @@
 ##### § 1304.15 Designation request, review and notification process. #####
 
-Link to an amendment published at 85 FR 53208, Aug. 28, 2020.
+Link to an amendment published at 85 FR 53208, Aug. 28, 2020.This amendment was delayed until Nov. 9, 2020, at 85 FR 65733, Oct. 16, 2020.
 
 (a) Grantees must apply to be considered for Designation Renewal.
 

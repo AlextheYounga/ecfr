@@ -1,5 +1,7 @@
 ##### § 124.505 When will SBA appeal the terms or conditions of a particular 8(a) contract or a procuring activity decision not to use the 8(a) BD program? #####
 
+Link to an amendment published at 85 FR 66189, Oct. 16, 2020.
+
 (a) *What SBA may appeal.* The Administrator of SBA may appeal the following matters to the head of the procuring agency:
 
 (1) A contracting officer's decision not to make a particular procurement available for award as an 8(a) contract;

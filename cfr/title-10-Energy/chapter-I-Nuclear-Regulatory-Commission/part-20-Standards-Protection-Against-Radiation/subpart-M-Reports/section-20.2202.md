@@ -1,5 +1,7 @@
 ##### § 20.2202 Notification of incidents. #####
 
+Link to an amendment published at 85 FR 65661, Oct. 16, 2020.
+
 (a) Immediate notification. Notwithstanding any other requirements for notification, each licensee shall immediately report any event involving byproduct, source, or special nuclear material possessed by the licensee that may have caused or threatens to cause any of the following conditions -
 
 (1) An individual to receive -

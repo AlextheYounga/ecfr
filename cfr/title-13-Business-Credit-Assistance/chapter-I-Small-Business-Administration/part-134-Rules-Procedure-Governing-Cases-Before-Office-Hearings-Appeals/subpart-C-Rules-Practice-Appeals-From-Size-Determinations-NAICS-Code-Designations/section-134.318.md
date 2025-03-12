@@ -1,5 +1,7 @@
 ##### § 134.318 NAICS appeals. #####
 
+Link to an amendment published at 85 FR 66199, Oct. 16, 2020.
+
 (a) The regulations at §§ 121.402, 121.1102, and 121.1103 of this chapter also apply to NAICS code appeals.
 
 (b) *Effect of OHA's decision.* If OHA grants the appeal (changes the NAICS code), and the contracting officer receives OHA's decision by the date offers are due, the contracting officer must amend the solicitation to reflect the new NAICS code. If the contracting officer receives OHA's decision after the date offers are due, OHA's decision will not apply to the pending procurement, but will apply to future solicitations for the same supplies or services.

@@ -1,5 +1,7 @@
 ##### § 124.110 Do Native Hawaiian Organizations have any special rules for applying to the 8(a) BD program? #####
 
+Link to an amendment published at 85 FR 66184, Oct. 16, 2020.
+
 (a) Concerns owned by economically disadvantaged Native Hawaiian Organizations, as defined in § 124.3, are eligible for participation in the 8(a) program and other federal programs requiring SBA to determine social and economic disadvantage as a condition of eligibility. Such concerns must meet all eligibility criteria set forth in §§ 124.101 through 124.108 and § 124.112 to the extent that they are not inconsistent with this section.
 
 (b) A concern owned by a Native Hawaiian Organization must qualify as a small business concern as defined in part 121 of this title. The size standard corresponding to the primary industry classification of the applicant concern applies for determining size. SBA will determine the concern's size independently, without regard to its affiliation with the Native Hawaiian Organization or any other business enterprise owned by the Native Hawaiian Organization, unless the Administrator determines that one or more such concerns owned by the Native Hawaiian Organization have obtained, or are likely to obtain, a substantial unfair competitive advantage within an industry category. In determining whether an NHO-owned concern has obtained, or is likely to obtain, a substantial unfair competitive advantage within an industry category, SBA will examine the firm's participation in the relevant six digit NAICS code nationally.

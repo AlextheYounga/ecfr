@@ -1,5 +1,7 @@
 ##### § 40.31 Application for specific licenses. #####
 
+Link to an amendment published at 85 FR 65662, Oct. 16, 2020.
+
 (a) A person may file an application for specific license on NRC Form 313, “Application for Material License,” in accordance with the instructions in § 40.5 of this chapter. Information contained in previous applications, statements or reports filed with the Commission may be incorporated by reference provided that the reference is clear and specific.
 
 (b) The Commission may at any time after the filing of the original application, and before the expiration of the license, require further statements in order to enable the Commission to determine whether the application should be granted or denied or whether a license should be modified or revoked. All applications and statements shall be signed by the applicant or licensee or a person duly authorized to act for and on his behalf.

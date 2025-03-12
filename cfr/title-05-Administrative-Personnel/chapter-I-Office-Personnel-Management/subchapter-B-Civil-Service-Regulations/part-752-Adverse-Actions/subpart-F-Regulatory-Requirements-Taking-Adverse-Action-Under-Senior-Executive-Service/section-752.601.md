@@ -1,5 +1,7 @@
 ##### § 752.601 Coverage. #####
 
+Link to an amendment published at 85 FR 65987, Oct. 16, 2020.
+
 (a) *Adverse actions covered.* This subpart applies to suspensions for more than 14 days and removals from the civil service as set forth in 5 U.S.C. 7542.
 
 (b) *Actions excluded.* (1) An agency may not take a suspension action of 14 days or less.

@@ -1,5 +1,7 @@
 ##### § 52.39 Finality of early site permit determinations. #####
 
+Link to an amendment published at 85 FR 65663, Oct. 16, 2020.
+
 (a) *Commission finality.* (1) Notwithstanding any provision in 10 CFR 50.109, while an early site permit is in effect under §§ 52.27 or 52.33, the Commission may not change or impose new site characteristics, design parameters, or terms and conditions, including emergency planning requirements, on the early site permit unless the Commission:
 
 (i) Determines that a modification is necessary to bring the permit or the site into compliance with the Commission's regulations and orders applicable and in effect at the time the permit was issued;

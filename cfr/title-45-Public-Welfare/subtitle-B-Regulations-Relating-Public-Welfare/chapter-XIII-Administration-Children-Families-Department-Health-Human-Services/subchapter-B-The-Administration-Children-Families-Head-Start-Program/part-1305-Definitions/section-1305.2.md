@@ -1,6 +1,6 @@
 ##### § 1305.2 Terms. #####
 
-Link to an amendment published at 85 FR 53209, Aug. 28, 2020.
+Link to an amendment published at 85 FR 53209, Aug. 28, 2020.This amendment was delayed until Nov. 9, 2020, at 85 FR 65733, Oct. 16, 2020.
 
 For the purposes of this subchapter, the following definitions apply:
 

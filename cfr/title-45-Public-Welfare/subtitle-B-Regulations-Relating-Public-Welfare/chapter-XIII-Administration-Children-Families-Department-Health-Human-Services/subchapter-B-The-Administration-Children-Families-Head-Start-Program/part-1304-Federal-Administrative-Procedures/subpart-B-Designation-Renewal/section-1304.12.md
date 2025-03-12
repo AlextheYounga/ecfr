@@ -1,6 +1,6 @@
 ##### § 1304.12 Grantee reporting requirements concerning certain conditions. #####
 
-Link to an amendment published at 85 FR 53208, Aug. 28, 2020.
+Link to an amendment published at 85 FR 53208, Aug. 28, 2020.This amendment was delayed until Nov. 9, 2020, at 85 FR 65733, Oct. 16, 2020.
 
 (a) Head Start agencies must report in writing to the responsible HHS official within 30 working days of December 9, 2011, if the agency has had a revocation of a license to operate a center by a state of local licensing entity during the period between June 12, 2009, and December 9, 2011.
 

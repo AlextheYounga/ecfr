@@ -1,5 +1,7 @@
 ##### § 121.1001 Who may initiate a size protest or request a formal size determination? #####
 
+Link to an amendment published at 85 FR 66182, Oct. 16, 2020.
+
 (a) *Size Status Protests.* (1) For SBA's Small Business Set-Aside Program, including the Property Sales Program, or any instance in which a procurement or order has been restricted to or reserved for small businesses or a particular group of small businesses (including a partial set-aside), the following entities may file a size protest in connection with a particular procurement, sale or order:
 
 (i) Any offeror that the contracting officer has not eliminated from consideration for any procurement-related reason, such as non-responsiveness, technical unacceptability or outside of the competitive range;

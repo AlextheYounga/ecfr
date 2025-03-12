@@ -1,5 +1,7 @@
 ##### § 20.2201 Reports of theft or loss of licensed material. #####
 
+Link to an amendment published at 85 FR 65661, Oct. 16, 2020.
+
 (a) *Telephone reports.* (1) Each licensee shall report by telephone as follows:
 
 (i) Immediately after its occurrence becomes known to the licensee, any lost, stolen, or missing licensed material in an aggregate quantity equal to or greater than 1,000 times the quantity specified in appendix C to part 20 under such circumstances that it appears to the licensee that an exposure could result to persons in unrestricted areas; or
