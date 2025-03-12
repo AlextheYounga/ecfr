@@ -1,0 +1,3 @@
+##### § 54.1506 Stage 2 fixed support deployment milestones. #####
+
+Recipients of support from Stage 2 of the fixed Uniendo a Puerto Rico Fund and the fixed Connect USVI Fund must complete deployment to at least 40 percent of supported locations at the end of the third year of support, at least 60 percent at the end of the fourth year, at least 80 percent at the end of the fifth year, and 100 percent by the end of the sixth year. Compliance with the percentage of completion shall be determined based on the total number of supported locations in each geographic area. Recipients will be subject to the notification and default rules in § 54.320(d).

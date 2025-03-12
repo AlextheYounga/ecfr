@@ -1,6 +1,6 @@
 ##### § 381.196 Eligibility of foreign countries for importation of poultry products into the United States. #####
 
-Link to an amendment published at 84 FR 60324, Nov. 8, 2019.Link to an amendment published at 84 FR 65268, Nov. 27, 2019.
+Link to an amendment published at 84 FR 65268, Nov. 27, 2019.
 
 (a)(1) Whenever it shall be determined by the Administrator that the system of poultry inspection maintained by any foreign country, with respect to establishments preparing products in such country for export to the United States, insures compliance of such establishments and their poultry products, with requirements equivalent to all the provisions of the Act and the regulations in this part which are applied to official establishments in the United States, and their poultry products, and that reliance can be placed upon certificates required under this subpart from authorities of such foreign country, notice of that fact will be given by including the name of such foreign country in paragraph (b) of this section. Thereafter, poultry products processed in such establishments which are certified and approved in accordance with paragraph (a)(3) of this section shall be eligible, so far as the regulations in this part are concerned, for importation into the United States from such foreign country after applicable requirements of this part have been met.
 
@@ -68,4 +68,4 @@ Australia (ratites only).Canada.Chile.France.Great Britain.Honduras.Hong Kong.Is
 
 2 May export to the United States only processed poultry products slaughtered under Federal inspection in the United States or in a country eligible to export slaughtered poultry products to the United States.
 
-New Zealand (ratites only).People's Republic of China.2Republic of Korea[37 FR 9706, May 16, 1972, as amended at 43 FR 8117, Feb. 28, 1978; 52 FR 23021, June 17, 1987; 54 FR 41049, Oct. 5, 1989; 54 FR 43951, Oct. 30, 1989; 60 FR 38668, July 28, 1995; 61 FR 38868, July 25, 1996; 64 FR 49645, Sept. 14, 1999; 68 FR 37071, June 23, 2003; 71 FR 20871, Apr. 24, 2006; 71 FR 43961, Aug. 3, 2006; 72 FR 61796, Nov. 1, 2007; 79 FR 16661, Mar. 26, 2014; 79 FR 56234, Sept. 19, 2014; 84 FR 13520, Apr. 5, 2019]
+New Zealand (ratites only).People's Republic of China.Republic of Korea[37 FR 9706, May 16, 1972, as amended at 43 FR 8117, Feb. 28, 1978; 52 FR 23021, June 17, 1987; 54 FR 41049, Oct. 5, 1989; 54 FR 43951, Oct. 30, 1989; 60 FR 38668, July 28, 1995; 61 FR 38868, July 25, 1996; 64 FR 49645, Sept. 14, 1999; 68 FR 37071, June 23, 2003; 71 FR 20871, Apr. 24, 2006; 71 FR 43961, Aug. 3, 2006; 72 FR 61796, Nov. 1, 2007; 79 FR 16661, Mar. 26, 2014; 79 FR 56234, Sept. 19, 2014; 84 FR 13520, Apr. 5, 2019; 84 FR 60324, Nov. 8, 2019]

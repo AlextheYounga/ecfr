@@ -1,0 +1,11 @@
+##### § 54.1515 Disaster preparation and response measures. #####
+
+(a) Each recipient of fixed and mobile support from Stage 2 of the Uniendo a Puerto Rico Fund and the Connect USVI Fund shall create, maintain, and submit to the Wireline Competition Bureau for its review and approval a detailed Disaster Preparation and Response Plan document that describes and commits to the methods and procedures that it will use, during the period in which it receives Stage 2 support, to prepare for and respond to disasters in the Territories, including detailed descriptions of methods and processes to strengthen infrastructure; to ensure network diversity; to ensure backup power; to monitor its network; and to prepare for emergencies.
+
+(b) Each Stage 2 support recipient shall submit the Disaster Preparation and Response Plan to the Bureau for its review and approval prior to receiving Stage 2 support. The Bureau shall approve submitted Disaster Preparation and Response Plans that are complete and thoroughly address the criteria enumerated in paragraph (a) of this section. The Bureau shall notify the support recipient of deficiencies identified in the Disaster Preparation and Response Plan and withhold authorization to receive funding until the support recipient has cured the deficiencies. Recipients shall materially comply with the representations in the document, once approved.
+
+(c) Recipients shall amend their Disaster Preparation and Response Plan following any material change(s) to internal processes and responsibilities and provide the updated Disaster Preparation and Response Plan to the Bureau within 10 business days following the material change(s).
+
+(d) Stage 2 support recipients shall use the Disaster Information Reporting System for mandatory reporting. (See *www.fcc.gov/general/disaster-information-reporting-system-dirs-0* for more information.)
+
+Effective Date Note:At 84 FR 59963, Nov. 7, 2019, § 54.1515 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

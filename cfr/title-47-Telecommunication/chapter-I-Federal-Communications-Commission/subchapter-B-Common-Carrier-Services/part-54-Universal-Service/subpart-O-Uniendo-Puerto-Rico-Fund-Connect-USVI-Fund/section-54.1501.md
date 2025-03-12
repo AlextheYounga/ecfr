@@ -1,0 +1,3 @@
+##### § 54.1501 Uniendo a Puerto Rico Fund and Connect USVI Fund—Stage 2 for service to fixed locations. #####
+
+The Commission will use a competitive application process to determine the recipients of high-cost universal service support for offering voice and broadband service to fixed locations, and the amount of support that they may receive from Stage 2 of the fixed Uniendo a Puerto Rico Fund and of the fixed Connect USVI Fund for specific geographic areas in Puerto Rico and the U.S. Virgin Islands, respectively, subject to applicable procedures following the selection of competitive applications.

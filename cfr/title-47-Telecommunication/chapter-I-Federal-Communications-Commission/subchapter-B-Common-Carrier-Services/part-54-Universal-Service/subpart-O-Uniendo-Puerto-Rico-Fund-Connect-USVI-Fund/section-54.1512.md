@@ -1,0 +1,3 @@
+##### § 54.1512 Geographic area eligible for Stage 2 mobile support. #####
+
+Uniendo a Puerto Rico Fund and Connect USVI Fund Stage 2 mobile support may be used for all geographic areas of Puerto Rico or of the U.S. Virgin Islands within a recipient's designated eligible telecommunications carrier service area consistent with the parameters of Stage 2 of the Uniendo a Puerto Rico Fund and the Connect USVI Fund.

@@ -571,10 +571,6 @@
 
 (B) Provides sufficient resolution and field of view to see crew activities from any location within the tank where crew could be located.
 
-(iii) [Reserved]
-
-(iv) *Failure of line of sight or video option.* If the observer determines that a monitoring option selected by a vessel owner or operator specified in paragraph (i)(1)(ii) or (i)(1)(iii) of this section fails to provide adequate monitoring of all areas of the bin where crew could be located, then the vessel must use the monitoring option specified in paragraph (i)(1)(i) of this section until the observer determines that adequate monitoring of all areas of the bin where crew could be located is provided by the monitoring option selected by the vessel owner or operator.
-
 (2) *Who must have a bin monitoring option inspection?* A vessel owner or operator choosing to operate under the video option (option 2) in paragraph (i)(1)(ii) of this section must receive an annual bin monitoring option inspection.
 
 (3) *How does a vessel owner arrange for a bin monitoring option inspection?* The owner must submit an Inspection Request for Bin Monitoring to NMFS with all the information fields filled in at least 10 working days in advance of the requested date of inspection. The request form is available on the NMFS Alaska Region Web site (*https://alaskafisheries.noaa.gov*).
@@ -601,4 +597,4 @@
 
 (2) Provide sufficient resolution and field of view to monitor all areas on deck where halibut may be sorted from the catch and discarded, and all crew actions in these areas.
 
-[63 FR 5843, Feb. 4, 1998]Editorial Note:For Federal Register citations affecting § 679.28, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[63 FR 5843, Feb. 4, 1998]Editorial Note:For Federal Register citations affecting § 679.28, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 84 FR 67183, Dec. 9, 2019, in § 679.28, paragraphs (d)(9) and (10) and (l) were stayed indefinitely, effective Dec. 9, 2019.

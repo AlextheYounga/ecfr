@@ -1,7 +1,5 @@
 ##### § 103.7 Fees. #####
 
-Link to an amendment published at 84 FR 60316, Nov. 8, 2019.
-
 (a) *Remittances.* (1) Fees shall be submitted with any formal application or petition prescribed in this chapter in the amount prescribed by law or regulation. Except for fees remitted directly to the Board of Immigration Appeals pursuant to the provisions of 8 CFR 1003.8, or as the Attorney General otherwise may provide by regulation, any fee relating to any Department of Justice Executive Office for Immigration Review proceeding shall be paid to, and accepted by, any USCIS office authorized to accept fees. The immigration court does not collect fees. Payment of any fee under this section does not constitute filing of the document with the Board of Immigration Appeals or with the Immigration Court. The Department of Homeland Security shall return to the payer, at the time of payment, a receipt for any fee paid. The USCIS shall also return to the payer any documents, submitted with the fee, relating to any Immigration Court proceeding.
 
 (2) Remittances must be drawn on a bank or other institution located in the United States and be payable in United States currency. Remittances must be made payable in accordance with the guidance specific to the applicable U.S. Government office when submitting to a Department of Homeland Security office located outside of the United States. Remittances to the Board of Immigration Appeals must be made payable to the “United States Department of Justice,” in accordance with 8 CFR 1003.8. If a remittance in payment of a fee or any other matter is not honored by the bank or financial institution on which it is drawn:
@@ -215,6 +213,8 @@ Link to an amendment published at 84 FR 60316, Nov. 8, 2019.
 (LLL) Public Charge Bond, Form I-945. $25.
 
 (MMM) Request for Cancellation of Public Charge Bond, Form I-356. $25.
+
+(NNN) *Registration requirement for petitioners seeking to file H-1B petitions on behalf of cap-subject aliens.* For each registration submitted to register for the H-1B cap or advanced degree exemption selection process: $10. This fee will not be refunded if the registration is not selected or is withdrawn.
 
 (ii) *Other DHS immigration fees.* The following fees are applicable to one or more of the immigration components of DHS:
 

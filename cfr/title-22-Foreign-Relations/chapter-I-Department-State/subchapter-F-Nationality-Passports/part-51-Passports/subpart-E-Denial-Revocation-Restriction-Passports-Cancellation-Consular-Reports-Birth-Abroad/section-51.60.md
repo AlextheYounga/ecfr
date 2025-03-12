@@ -6,7 +6,7 @@
 
 (2) The applicant has been certified by the Secretary of Health and Human Services as notified by a state agency under 42 U.S.C. 652(k) to be in arrears of child support in an amount determined by statute.
 
-(3) The applicant is certified by the Secretary of the Treasury as having a seriously delinquent tax debt as described in 26 U.S.C. 7345.
+(3) [Reserved]
 
 (4) The applicant is a covered sex offender as defined in 22 U.S.C. 212b(c)(1), unless the passport, no matter the type, contains the conspicuous identifier placed by the Department as required by 22 U.S.C. 212b.
 
@@ -50,12 +50,16 @@
 
 (g) The Department shall not issue a passport card to an applicant who is a covered sex offender as defined in 22 U.S.C. 212b(c)(1).
 
-(h) The Department may not issue a passport, except a limited validity passport for direct return to the United States or in instances where the Department finds that emergency circumstances or humanitarian reasons exist, in any case in which the Department is notified by the Attorney General that, during the covered period as defined by 22 U.S.C. 212a:
+(h) The Department may not issue a passport, except a limited validity passport for direct return to the United States or in instances where the Department finds that emergency circumstances or humanitarian reasons exist, in any case in which:
 
-(1) The applicant was convicted of a violation of 18 U.S.C. 2423, and
+(1) The Department is notified by the Attorney General that, during the covered period as defined by 22 U.S.C. 212a:
 
-(2) The individual used a passport or passport card or otherwise crossed an international border in committing the underlying offense.
+(i) The applicant was convicted of a violation of 18 U.S.C. 2423, and
+
+(ii) The individual used a passport or passport card or otherwise crossed an international border in committing the underlying offense.
+
+(2) The applicant is certified by the Secretary of the Treasury as having a seriously delinquent tax debt as described in 26 U.S.C. 7345.
 
 (i) In appropriate circumstances, where an individual's passport application is denied or passport revoked consistent with this part, the Department may issue a limited validity passport good only for direct return to the United States.
 
-[72 FR 64931, Nov. 19, 2007, as amended at 81 FR 60609, Sept. 1, 2016; 81 FR 66185, Sept. 27, 2016; 83 FR 21874, May 11, 2018]
+[72 FR 64931, Nov. 19, 2007, as amended at 81 FR 60609, Sept. 1, 2016; 81 FR 66185, Sept. 27, 2016; 83 FR 21874, May 11, 2018; 84 FR 67185, Dec. 9, 2019]
