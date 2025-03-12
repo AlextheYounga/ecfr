@@ -1,5 +1,7 @@
 ##### § 240.21F-12 Materials that may form the basis of an award determination and that may comprise the record on appeal. #####
 
+Link to an amendment published at 85 FR 70947, Nov. 5, 2020.
+
 (a) The following items constitute the materials that the Commission and the Claims Review Staff may rely upon to make an award determination pursuant to §§ 240.21F-10 and 240.21F-11 of this chapter:
 
 (1) Any publicly available materials from the covered action or related action, including:

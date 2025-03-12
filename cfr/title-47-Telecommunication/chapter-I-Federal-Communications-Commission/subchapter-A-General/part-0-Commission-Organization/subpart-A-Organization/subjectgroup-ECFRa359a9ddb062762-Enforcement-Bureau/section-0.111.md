@@ -1,7 +1,5 @@
 ##### § 0.111 Functions of the Bureau. #####
 
-Link to an amendment published at 85 FR 63171, Oct. 6, 2020.
-
 (a) Serve as the primary Commission entity responsible for enforcement of the Communications Act and other communications statutes, the Commission's rules, Commission orders and Commission authorizations, other than matters that are addressed in the context of a pending application for a license or other authorization or in the context of administration, including post-grant administration, of a licensing or other authorization or registration program.
 
 (1) Resolve complaints, including complaints filed under section 208 of the Communications Act, regarding acts or omissions of common carriers (wireline, wireless and international).
@@ -66,7 +64,7 @@ The Media Bureau has primary responsibility for complaints regarding the followi
 
 (17) Identify and analyze complaint information, conduct investigations, conduct external audits and collect information, including pursuant to sections 218, 220, 308(b), 403 and 409(e) through (k) of the Communications Act, in connection with complaints, on its own initiative or upon request of another Bureau or Office.
 
-(18) Issue or draft orders taking or recommending appropriate action in response to complaints or investigations, including, but not limited to, admonishments, damage awards where authorized by law or other affirmative relief, notices of violation, notices of apparent liability and related orders, notices of opportunity for hearing regarding a potential forfeiture, hearing designation orders, orders designating licenses or other authorizations for a revocation hearing and consent decrees. Issue or draft appropriate orders after a hearing has been terminated by an Administrative Law Judge on the basis of waiver. Issue or draft appropriate interlocutory orders and take or recommend appropriate action in the exercise of its responsibilities.
+(18) Issue or draft orders taking or recommending appropriate action in response to complaints or investigations, including, but not limited to, admonishments, damage awards where authorized by law or other affirmative relief, notices of violation, notices of apparent liability and related orders, notices of opportunity for hearing regarding a potential forfeiture, hearing designation orders, orders designating licenses or other authorizations for a revocation hearing and consent decrees. Issue or draft appropriate orders after a hearing proceeding has been terminated by the presiding officer on the basis of waiver. Issue or draft appropriate interlocutory orders and take or recommend appropriate action in the exercise of its responsibilities.
 
 (19) Encourage cooperative compliance efforts.
 
@@ -84,7 +82,7 @@ The Media Bureau has primary responsibility for complaints regarding the followi
 
 (26) Conduct audits and investigations and resolve issues of compliance concerning equal employment opportunity requirements involving Title III licensees and permittees or multichannel video programming distributors, including cable service providers, under part 76 of this chapter.
 
-(b) Serve as trial staff in formal hearings conducted pursuant to 5 U.S.C. 556 regarding applications, revocation, forfeitures and other matters designated for hearing.
+(b) Serve as a party in hearing proceedings conducted pursuant to 47 CFR part 1, subpart B.
 
 (c) In coordination with the International Bureau, participate in international conferences dealing with monitoring and measurement; serve as the point of contact for the U.S. Government in matters of international monitoring, fixed and mobile direction-finding and interference resolution; and oversee coordination of non-routine communications and materials between the Commission and international or regional public organizations or foreign administrations.
 
@@ -102,4 +100,4 @@ The Media Bureau has primary responsibility for complaints regarding the followi
 
 (j) Perform such other functions as may be assigned or referred to it by the Commission.
 
-[64 FR 60716, Nov. 8, 1999, as amended at 67 FR 13218, Mar. 21, 2002; 68 FR 36942, June 20, 2003; 69 FR 30233, May 27, 2004; 71 FR 69034, Nov. 29, 2006; 76 FR 24381, May 2, 2011; 76 FR 26220, May 6, 2011; 76 FR 59232, Sept. 23, 2011; 76 FR 60754, Sept. 30, 2011; 78 FR 23151, Apr. 18, 2013; 80 FR 53749, Sept. 8, 2015; 84 FR 9465, Mar. 15, 2019; 85 FR 21788, Apr. 20, 2020]
+[64 FR 60716, Nov. 8, 1999, as amended at 67 FR 13218, Mar. 21, 2002; 68 FR 36942, June 20, 2003; 69 FR 30233, May 27, 2004; 71 FR 69034, Nov. 29, 2006; 76 FR 24381, May 2, 2011; 76 FR 26220, May 6, 2011; 76 FR 59232, Sept. 23, 2011; 76 FR 60754, Sept. 30, 2011; 78 FR 23151, Apr. 18, 2013; 80 FR 53749, Sept. 8, 2015; 84 FR 9465, Mar. 15, 2019; 85 FR 21788, Apr. 20, 2020; 85 FR 63171, Oct. 6, 2020]

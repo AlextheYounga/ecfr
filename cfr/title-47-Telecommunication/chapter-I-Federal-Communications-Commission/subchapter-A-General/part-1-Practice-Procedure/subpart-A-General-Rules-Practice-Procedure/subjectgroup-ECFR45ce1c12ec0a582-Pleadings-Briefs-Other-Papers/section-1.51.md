@@ -1,8 +1,6 @@
 ##### § 1.51 Number of copies of pleadings, briefs, and other papers. #####
 
-Link to an amendment published at 85 FR 63172, Oct. 6, 2020.
-
-(a) In hearing proceedings, unless filed electronically or otherwise specified by Commission rules, an original and one copy shall be filed, along with-an additional copy for each additional presiding officer at the hearing, if more than one. If filed electronically, additional courtesy copies shall be emailed as directed by the Commission.
+(a) In hearing proceedings, all pleadings, letters, documents, or other written submissions, shall be filed using the Commission's Electronic Comment Filing System, excluding confidential material as set forth in § 1.314 of these rules. Each written submission that includes confidential material shall be filed as directed by the Commission, along with an additional courtesy copy transmitted to the presiding officer.
 
 (b) In rulemaking proceedings which have not been designated for hearing, *see* § 1.419.
 
@@ -18,4 +16,4 @@ Link to an amendment published at 85 FR 63172, Oct. 6, 2020.
 
 (h) Pleadings, briefs or other documents filed electronically in ULS by a party represented by an attorney shall include the name, street address, and telephone number of at least one attorney of record. Parties not represented by an attorney that file electronically in ULS shall provide their name, street address, and telephone number.
 
-[76 FR 24391, May 2, 2011, as amended at 83 FR 2556, Jan. 18, 2018]
+[76 FR 24391, May 2, 2011, as amended at 83 FR 2556, Jan. 18, 2018; 85 FR 63172, Oct. 6, 2020]

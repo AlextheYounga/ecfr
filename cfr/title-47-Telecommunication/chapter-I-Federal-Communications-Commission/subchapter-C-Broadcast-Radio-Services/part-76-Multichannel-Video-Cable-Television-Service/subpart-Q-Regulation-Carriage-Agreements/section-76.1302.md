@@ -1,7 +1,5 @@
 ##### § 76.1302 Carriage agreement proceedings. #####
 
-Link to an amendment published at 85 FR 63185, Oct. 6, 2020.
-
 (a) *Complaints.* Any video programming vendor or multichannel video programming distributor aggrieved by conduct that it believes constitute a violation of the regulations set forth in this subpart may commence an adjudicatory proceeding at the Commission to obtain enforcement of the rules through the filing of a complaint. The complaint shall be filed and responded to in accordance with the procedures specified in § 76.7 of this part with the following additions or changes:
 
 (b) *Prefiling notice required.* Any aggrieved video programming vendor or multichannel video programming distributor intending to file a complaint under this section must first notify the potential defendant multichannel video programming distributor that it intends to file a complaint with the Commission based on actions alleged to violate one or more of the provisions contained in § 76.1301 of this part. The notice must be sufficiently detailed so that its recipient(s) can determine the specific nature of the potential complaint. The potential complainant must allow a minimum of ten (10) days for the potential defendant(s) to respond before filing a complaint with the Commission.
@@ -70,7 +68,7 @@ Link to an amendment published at 85 FR 63185, Oct. 6, 2020.
 
 (B) If complying with the deadline would violate the due process rights of a party or would be inconsistent with fundamental fairness.
 
-(2) For program carriage complaints that the Chief, Media Bureau refers to an administrative law judge for an initial decision, the deadlines set forth in § 0.341(f) of this chapter apply.
+(2) For program carriage complaints that the Chief, Media Bureau refers to an administrative law judge for an initial decision, the deadlines set forth in § 0.341(g) of this chapter apply.
 
 (j) *Remedies for violations -* (1) *Remedies authorized.* Upon completion of such adjudicatory proceeding, the Commission shall order appropriate remedies, including, if necessary, mandatory carriage of a video programming vendor's programming on defendant's video distribution system, or the establishment of prices, terms, and conditions for the carriage of a video programming vendor's programming. Such order shall set forth a timetable for compliance, and shall become effective upon release, unless any order of mandatory carriage would require the defendant multichannel video programming distributor to delete existing programming from its system to accommodate carriage of a video programming vendor's programming. In such instances, if the defendant seeks review of the staff, or administrative law judge decision, the order for carriage of a video programming vendor's programming will not become effective unless and until the decision of the staff or administrative law judge is upheld by the Commission. If the Commission upholds the remedy ordered by the staff or administrative law judge in its entirety, the defendant will be required to carry the video programming vendor's programming for an additional period equal to the time elapsed between the staff or administrative law judge decision and the Commission's ruling, on the terms and conditions approved by the Commission.
 
@@ -90,4 +88,4 @@ Link to an amendment published at 85 FR 63185, Oct. 6, 2020.
 
 (3) If the Commission grants the temporary standstill, the adjudicator deciding the case on the merits (*i.e.,* either the Chief, Media Bureau or an administrative law judge) will provide for remedies that are applied as of the expiration date of the previous programming contract.
 
-[64 FR 6574, Feb. 10, 1999, as amended at 76 FR 60673, Sept. 29, 2011]
+[64 FR 6574, Feb. 10, 1999, as amended at 76 FR 60673, Sept. 29, 2011; 85 FR 63185, Oct. 6, 2020]

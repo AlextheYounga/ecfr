@@ -1,0 +1,3 @@
+##### § 62.202 How to apply for service. #####
+
+Applicants may apply for services authorized under this part by contacting the Administrator's office and requesting specific service or program information at USDA, AMS, 1400 Independence Avenue SW, Room 3069-S, Washington, DC 20250-0294; by fax to: (202) 720-5115, or email to: *AMSAdministratorOffice@usda.gov.* Applicants may also visit: *https://www.ams.usda.gov.*

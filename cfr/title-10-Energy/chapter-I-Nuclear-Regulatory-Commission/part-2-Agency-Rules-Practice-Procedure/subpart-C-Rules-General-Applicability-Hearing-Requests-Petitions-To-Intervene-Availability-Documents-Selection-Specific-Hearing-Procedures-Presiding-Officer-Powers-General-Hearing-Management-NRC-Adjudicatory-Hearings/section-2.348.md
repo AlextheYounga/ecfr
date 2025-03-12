@@ -1,5 +1,7 @@
 ##### § 2.348 Separation of functions. #####
 
+Link to an amendment published at 85 FR 70438, Nov. 5, 2020.
+
 (a) In any proceeding under this part, any NRC officer or employee engaged in the performance of any investigative or litigating function in the proceeding or in a factually related proceeding with respect to a disputed issue in that proceeding, may not participate in or advise a Commission adjudicatory employee about the initial or final decision with respect to that disputed issue, except -
 
 (1) As witness or counsel in the proceeding;

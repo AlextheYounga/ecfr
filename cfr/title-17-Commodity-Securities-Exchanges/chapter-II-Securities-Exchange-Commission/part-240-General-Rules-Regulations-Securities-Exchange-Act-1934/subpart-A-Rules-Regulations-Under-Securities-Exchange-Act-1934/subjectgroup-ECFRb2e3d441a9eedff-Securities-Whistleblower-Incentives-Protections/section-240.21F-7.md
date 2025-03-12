@@ -1,5 +1,7 @@
 ##### § 240.21F-7 Confidentiality of submissions. #####
 
+Link to an amendment published at 85 FR 70944, Nov. 5, 2020.
+
 (a) Section 21F(h)(2) of the Exchange Act (15 U.S.C. 78u-6(h)(2)) requires that the Commission not disclose information that could reasonably be expected to reveal the identity of a whistleblower, except that the Commission may disclose such information in the following circumstances:
 
 (1) When disclosure is required to a defendant or respondent in connection with a Federal court or administrative action that the Commission files or in another public action or proceeding that is filed by an authority to which we provide the information, as described below;

@@ -1,5 +1,7 @@
 ##### § 240.21F-2 Whistleblower status and retaliation protection. #####
 
+Link to an amendment published at 85 FR 70942, Nov. 5, 2020.
+
 (a) *Definition of a whistleblower.* (1) You are a whistleblower if, alone or jointly with others, you provide the Commission with information pursuant to the procedures set forth in § 240.21F-9(a) of this chapter, and the information relates to a possible violation of the Federal securities laws (including any rules or regulations thereunder) that has occurred, is ongoing, or is about to occur. A whistleblower must be an individual. A company or another entity is not eligible to be a whistleblower.
 
 (2) To be eligible for an award, you must submit original information to the Commission in accordance with the procedures and conditions described in §§ 240.21F-4, 240.21F-8, and 240.21F-9 of this chapter.

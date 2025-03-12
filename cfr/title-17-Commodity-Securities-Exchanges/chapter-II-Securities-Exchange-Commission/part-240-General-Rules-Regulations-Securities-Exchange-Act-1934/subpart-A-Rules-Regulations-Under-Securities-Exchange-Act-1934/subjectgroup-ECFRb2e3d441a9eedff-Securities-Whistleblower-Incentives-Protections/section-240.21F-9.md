@@ -1,5 +1,7 @@
 ##### § 240.21F-9 Procedures for submitting original information. #####
 
+Link to an amendment published at 85 FR 70945, Nov. 5, 2020.
+
 (a) To be considered a whistleblower under Section 21F of the Exchange Act (15 U.S.C. 78u-6(h)), you must submit your information about a possible securities law violation by either of these methods:
 
 (1) Online, through the Commission's Web site located at *http://www.sec.gov;* or

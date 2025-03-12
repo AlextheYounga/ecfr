@@ -1,8 +1,6 @@
-##### § 1.315 Depositions upon oral examination - notice and preliminary procedure. #####
+##### § 1.315 Depositions upon oral examination—notice and preliminary procedure. #####
 
-Link to an amendment published at 85 FR 63181, Oct. 6, 2020.
-
-(a) *Notice.* A party to a hearing proceeding desiring to take the deposition of any person upon oral examination shall give a minimum of 21 days notice in writing to every other party, to the person to be examined, and to the presiding officer. An original and three copies of the notice shall be filed with the Secretary of the Commission. Related pleadings shall be served and filed in the same manner. The notice shall contain the following information:
+(a) *Notice.* A party to a hearing proceeding desiring to take the deposition of any person upon oral examination shall give a minimum of 21 days' notice to every other party, to the person to be examined, and to the presiding officer or case manager. A copy of the notice shall be filed with the Secretary of the Commission for inclusion in the Commission's Electronic Comment Filing System. Related pleadings shall be served and filed in the same manner. The notice shall contain the following information:
 
 (1) The name and address of each person to be examined, if known, and if the name is not known, a general description sufficient to identify him or the particular class or group to which he belongs.
 
@@ -26,6 +24,4 @@ Link to an amendment published at 85 FR 63181, Oct. 6, 2020.
 
 (3) If the presiding officer issues a protective order, the depositions described in the notice may be taken (if at all) only in accordance with the provisions of that order.
 
-(e) *Broadcast comparative proceedings involving applicants for only new facilities.* In these cases, the 21-day advance notice provision of paragraph (a) of this section shall be inapplicable to depositions of active and passive owners of applicants in the proceeding. All applicants in such proceedings should be prepared to make their active and passive owners available for depositions during the period commencing with the deadline for filing notices of appearance and ending 90 days after the release of the designation order, if such depositions are requested by a party to the proceeding. All such depositions will be conducted in Washington, DC or in the community of license of the proposed station, at the deponent's option, unless all parties agree to some other location.
-
-[33 FR 10571, July 25, 1968, as amended at 56 FR 794, Jan. 9, 1991]
+[33 FR 10571, July 25, 1968, as amended at 56 FR 794, Jan. 9, 1991; 85 FR 63181, Oct. 6, 2020]

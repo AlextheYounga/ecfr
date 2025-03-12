@@ -1,7 +1,5 @@
 ##### § 1.94 Consent order procedures. #####
 
-Link to an amendment published at 85 FR 63173, Oct. 6, 2020.
-
 (a) Negotiations leading to a consent order may be initiated by the operating Bureau or by a party whose possible violations are issues in the proceeding. Negotiations may be initiated at any time after designation of a proceeding for hearing. If negotiations are initiated the presiding officer shall be notified. Parties shall be prepared at the initial prehearing conference to state whether they are at that time willing to enter negotiations. See § 1.248(c)(7). If either party is unwilling to enter negotiations, the hearing proceeding shall proceed. If the parties agree to enter negotiations, they will be afforded an appropriate opportunity to negotiate before the hearing is commenced.
 
 (b) Other parties to the proceeding are entitled, but are not required, to participate in the negotiations, and may join in any agreement which is reached.
@@ -22,12 +20,12 @@ Link to an amendment published at 85 FR 63173, Oct. 6, 2020.
 
 (7) A draft order for signature of the presiding officer resolving by consent, and for the future, all issues specified in the designation order.
 
-(d) If agreement is reached, it shall be submitted to the presiding officer or Chief Administrative Law Judge, as the case may be, who shall either sign the order, reject the agreement, or suggest to the parties that negotiations continue on such portion of the agreement as he considers unsatisfactory or on matters not reached in the agreement. If he rejects the agreement, the hearing shall proceed. If he suggests further negotiations, the hearing will proceed or negotiations will continue, depending on the wishes of parties to the agreement. If he signs the consent order, he shall close the record.
+(d) If agreement is reached, it shall be submitted to the presiding officer, who shall either sign the order, reject the agreement, or suggest to the parties that negotiations continue on such portion of the agreement as the presiding officer considers unsatisfactory or on matters not reached in the agreement. If the presiding officer signs the consent order, the record shall be closed. If the presiding officer rejects the agreement, the hearing proceeding shall continue. If the presiding officer suggests further negotiations and the parties agree to resume negotiating, the presiding officer may, in his or her discretion, decide whether to hold the hearing proceeding in abeyance pending the negotiations.
 
 (e) Any party to the proceeding who has not joined in any agreement which is reached may appeal the consent order under § 1.302, and the Commission may review the agreement on its own motion under the provisions of that section. If the Commission rejects the consent order, the proceeding will be remanded for further proceedings. If the Commission does not reject the consent order, it shall be entered in the record as a final order and is subject to judicial review on the initiative only of parties to the proceeding who did not join in the agreement. The Commission may revise the agreement and consent order. In that event, private parties to the agreement may either accept the revision or withdraw from the agreement. If the party whose possible violations are issues in the proceeding withdraws from the agreement, the consent order will not be issued or made a part of the record, and the proceeding will be remanded for further proceedings.
 
 (f) The provisions of this section shall not alter any existing procedure for informal settlement of any matter prior to designation for hearing (see, e.g., 47 U.S.C. 208) or for summary decision after designation for hearing.
 
-(g) Consent orders, pleadings relating thereto, and Commission orders with respect thereto shall be served on parties to the proceeding. Public notice will be given of orders issued by an administrative law judge, the Chief Administrative Law Judge, or the Commission. Negotiating papers constitute work product, are available to parties participating in negotiations, but are not routinely available for public inspection.
+(g) Consent orders, pleadings relating thereto, and Commission orders with respect thereto shall be served on parties to the proceeding. Public notice will be given of orders issued by the Commission or by the presiding officer. Negotiating papers constitute work product, are available to parties participating in negotiations, but are not routinely available for public inspection.
 
-[41 FR 14871, Apr. 8, 1976]
+[41 FR 14871, Apr. 8, 1976, as amended at 85 FR 63173, Oct. 6, 2020]

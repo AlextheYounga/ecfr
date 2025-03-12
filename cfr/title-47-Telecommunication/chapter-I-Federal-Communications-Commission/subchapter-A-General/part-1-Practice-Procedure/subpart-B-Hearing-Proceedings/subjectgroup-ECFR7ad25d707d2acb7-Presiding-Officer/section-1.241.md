@@ -1,9 +1,7 @@
 ##### § 1.241 Designation of presiding officer. #####
 
-Link to an amendment published at 85 FR 63176, Oct. 6, 2020.
+(a) Hearing proceedings will be conducted by a presiding officer. The designated presiding officer will be identified in the order designating a matter for hearing. Only the Commission, one or more commissioners, or an administrative law judge designated pursuant to 5 U.S.C. 3105 may be designated as a presiding officer. Unless otherwise stated, the term *presiding officer* will include the Commission when the Commission designates itself to preside over a hearing proceeding.
 
-(a) Hearings will be conducted by the Commission, by one or more commissioners, or by a law judge designated pursuant to section 11 of the Administrative Procedure Act. If a presiding officer becomes unavailable to the Commission prior to the taking of testimony another presiding officer will be designated.
+(b) If a presiding officer becomes unavailable during the course of a hearing proceeding, another presiding officer will be designated.
 
-(b) Unless the Commission determines that due and timely execution of its functions requires otherwise, presiding officers shall be designated, and notice thereof released to the public, at least 10 days prior to the date set for hearing.
-
-(5 U.S.C. 556)
+(5 U.S.C. 556; 47 U.S.C. 154, 159, 208, 209, 214, 309, 312, 316, and 409)[85 FR 63176, Oct. 6, 2020]

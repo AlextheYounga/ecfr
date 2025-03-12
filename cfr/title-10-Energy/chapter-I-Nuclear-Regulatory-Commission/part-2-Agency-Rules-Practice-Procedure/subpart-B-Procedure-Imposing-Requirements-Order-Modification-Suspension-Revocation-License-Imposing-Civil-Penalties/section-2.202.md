@@ -1,5 +1,7 @@
 ##### § 2.202 Orders. #####
 
+Link to an amendment published at 85 FR 70438, Nov. 5, 2020.
+
 (a) The Commission may institute a proceeding to modify, suspend, or revoke a license or to take such other action as may be proper by serving on the licensee or other person subject to the jurisdiction of the Commission an order that will:
 
 (1) Allege the violations with which the licensee or other person subject to the Commission's jurisdiction is charged, or the potentially hazardous conditions or other facts deemed to be sufficient ground for the proposed action, and specify the action proposed;

@@ -1,7 +1,5 @@
 ##### § 0.347 Record of actions taken. #####
 
-Link to an amendment published at 85 FR 63171, Oct. 6, 2020.
+The record of actions taken by a presiding officer, including initial and recommended decisions and actions taken pursuant to § 0.341, is available through the Commission's Electronic Comment Filing System (ECFS). ECFS serves as the repository for records in the Commission's docketed proceedings from 1992 to the present. The public may use ECFS to retrieve all such records, as well as selected pre-1992 documents. The Office of the Secretary maintains copies of documents that include nonpublic information.
 
-The official record of all actions taken by an Administrative Law Judge, including initial and recommended decisions and actions taken pursuant to § 0.341, is contained in the original docket folder, which is maintained in the Reference Information Center of the Consumer and Governmental Affairs Bureau.
-
-[64 FR 60722, Nov. 8, 1999, as amended at 67 FR 13221, Mar. 21, 2002]
+[85 FR 63171, Oct. 6, 2020]

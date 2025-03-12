@@ -1,0 +1,5 @@
+##### § 62.211 Appeals. #####
+
+(a) *Appeals of adverse decisions.* Appeals of adverse decisions under this part may be made in writing to the AMS Administrator, Rm. 3069-S, 1400 Independence Avenue SW, Washington, DC 20250-0249 or to the director of the applicable service office. Appeals must be made within the timeframe specified by each program or within 30 calendar days of receipt of an adverse decision, whichever is sooner.
+
+(b) *Procedure for Appeals.* Actions under this subparagraph concerning appeals of adverse decisions to the Administrator shall be conducted in accordance with the Rules of Practice Governing Formal Adjudicatory Proceedings Instituted by the Secretary Under Various Statutes set forth at 7 CFR 1.130 through 1.151 and the Administrative Procedures Governing Withdrawal of Inspection and Grading Services in 7 CFR part 50. The procedure for appeals is specified by each program and/or by an overarching USDA AMS administrative procedure.

@@ -1,7 +1,5 @@
 ##### § 76.7 General special relief, waiver, enforcement, complaint, show cause, forfeiture, and declaratory ruling procedures. #####
 
-Link to an amendment published at 85 FR 63184, Oct. 6, 2020.
-
 (a) *Initiating pleadings.* In addition to the general pleading requirements, initiating pleadings must adhere to the following requirements:
 
 (1) *Petitions.* On petition by any interested party, cable television system operator, a multichannel video programming distributor, local franchising authority, or an applicant, permittee, or licensee of a television broadcast or translator station, the Commission may waive any provision of this part 76, impose additional or different requirements, issue a ruling on a complaint or disputed question, issue a show cause order, revoke the certification of the local franchising authority, or initiate a forfeiture proceeding. Petitions may be submitted informally by letter.
@@ -60,7 +58,7 @@ Link to an amendment published at 85 FR 63184, Oct. 6, 2020.
 
 (g) *Referral to administrative law judge.* (1) After reviewing the pleadings, and at any stage of the proceeding thereafter, the Commission staff may, in its discretion, designate any proceeding or discrete issues arising out of any proceeding for an adjudicatory hearing before an administrative law judge.
 
-(2) Before designation for hearing, the staff shall notify, either orally or in writing, the parties to the proceeding of its intent to so designate, and the parties shall be given a period of ten (10) days to elect to resolve the dispute through alternative dispute resolution procedures, or to proceed with an adjudicatory hearing. Such election shall be submitted in writing to the Commission and the Chief Administrative Law Judge.
+(2) Before designation for hearing, the staff shall notify, either orally or in writing, the parties to the proceeding of its intent to so designate, and the parties shall be given a period of ten (10) days to elect to resolve the dispute through alternative dispute resolution procedures, or to proceed with an adjudicatory hearing. Such election shall be submitted in writing to the Commission.
 
 (3) Unless otherwise directed by the Commission, or upon motion by the Media Bureau Chief, the Media Bureau Chief shall not be deemed to be a party to a proceeding designated for a hearing before an administrative law judge pursuant to this paragraph (g).
 
@@ -84,4 +82,4 @@ Note 4 to § 76.7:
 
 To the extent a conflict is perceived between the general pleading requirements of this section, and the procedural requirements of a specific section, the procedural requirements of the specific section should be followed.
 
-[64 FR 6569, Feb. 10, 1999, as amended at 67 FR 13234, Mar. 21, 2002; 76 FR 60673, Sept. 29, 2011; 80 FR 59663, Oct. 2, 2015]
+[64 FR 6569, Feb. 10, 1999, as amended at 67 FR 13234, Mar. 21, 2002; 76 FR 60673, Sept. 29, 2011; 80 FR 59663, Oct. 2, 2015; 85 FR 63184, Oct. 6, 2020]

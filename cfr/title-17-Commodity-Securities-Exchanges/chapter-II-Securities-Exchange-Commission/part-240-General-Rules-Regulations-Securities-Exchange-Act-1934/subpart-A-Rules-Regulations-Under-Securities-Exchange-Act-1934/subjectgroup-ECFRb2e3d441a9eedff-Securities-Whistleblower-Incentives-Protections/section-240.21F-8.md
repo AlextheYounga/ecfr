@@ -1,5 +1,7 @@
 ##### § 240.21F-8 Eligibility. #####
 
+Link to an amendment published at 85 FR 70944, Nov. 5, 2020.
+
 (a) To be eligible for a whistleblower award, you must give the Commission information in the form and manner that the Commission requires. The procedures for submitting information and making a claim for an award are described in § 240.21F-9 through § 240.21F-11 of this chapter. You should read these procedures carefully because you need to follow them in order to be eligible for an award, except that the Commission may, in its sole discretion, waive any of these procedures based upon a showing of extraordinary circumstances.
 
 (b) In addition to any forms required by these rules, the Commission may also require that you provide certain additional information. You may be required to:

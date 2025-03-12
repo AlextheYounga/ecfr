@@ -1,5 +1,7 @@
 ##### § 655.103 Overview of this subpart and definition of terms. #####
 
+Link to an amendment published at 85 FR 70477, Nov. 5, 2020.
+
 (a) *Overview.* In order to bring nonimmigrant workers to the U.S. to perform agricultural work, an employer must first demonstrate to the Secretary that there are not sufficient U.S. workers able, willing, and qualified to perform the work in the area of intended employment at the time needed and that the employment of foreign workers will not adversely affect the wages and working conditions of U.S. workers similarly employed. This rule describes a process by which the Department of Labor (Department or DOL) makes such a determination and certifies its determination to the Department of Homeland Security (DHS).
 
 (b) *Definitions.* For the purposes of this subpart:

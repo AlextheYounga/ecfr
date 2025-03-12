@@ -1,5 +1,7 @@
 ##### § 2.313 Designation of presiding officer, disqualification, unavailability, and substitution. #####
 
+Link to an amendment published at 85 FR 70438, Nov. 5, 2020.
+
 (a) *Designation of presiding officer.* The Commission may provide in the notice of hearing that one or more members of the Commission, an administrative law judge, an administrative judge, an Atomic Safety and Licensing Board, or a named officer who has been delegated final authority in the matter, shall be the presiding officer. The Commission alone shall designate the presiding officer in a hearing conducted under subpart O. If the Commission does not designate the presiding officer for a hearing under subparts G, J, K, L, M, or N of this part, then the Chief Administrative Judge shall issue an order designating:
 
 (1) An Atomic Safety and Licensing Board appointed under Section 191 of the Atomic Energy Act of 1954, as amended, or an administrative law judge appointed pursuant to 5 U.S.C. 3105, for a hearing conducted under subparts G, J, K, L, or N of this part; or

@@ -1,5 +1,7 @@
 ##### § 240.21F-3 Payment of awards. #####
 
+Link to an amendment published at 85 FR 70943, Nov. 5, 2020.
+
 (a) *Commission actions:* Subject to the eligibility requirements described in §§ 240.21F-2, 240.21F-8, and 240.21F-16 of this chapter, the Commission will pay an award or awards to one or more whistleblowers who:
 
 (1) Voluntarily provide the Commission

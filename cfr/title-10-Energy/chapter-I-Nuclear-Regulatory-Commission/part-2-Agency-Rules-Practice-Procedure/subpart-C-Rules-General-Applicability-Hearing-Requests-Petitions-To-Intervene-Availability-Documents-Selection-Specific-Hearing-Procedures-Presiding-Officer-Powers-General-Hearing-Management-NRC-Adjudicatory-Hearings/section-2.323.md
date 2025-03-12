@@ -1,5 +1,7 @@
 ##### § 2.323 Motions. #####
 
+Link to an amendment published at 85 FR 70438, Nov. 5, 2020.
+
 (a) *Scope and general requirements* - (1) *Applicability to § 2.309(c).* Section 2.309 motions for new or amended contentions filed after the deadline in § 2.309(b) are not subject to the requirements of this section. For the purposes of this section the term “all motions” includes any motion *except* § 2.309 motions for new or amended contentions filed after the deadline.
 
 (2) *Presentation and disposition.* All motions must be addressed to the Commission or other designated presiding officer. All motions must be made no later than ten (10) days after the occurrence or circumstance from which the motion arises. All written motions must be filed with the Secretary and served on all parties to the proceeding.

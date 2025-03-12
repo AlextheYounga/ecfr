@@ -1,8 +1,6 @@
 ##### § 1.323 Interrogatories to parties. #####
 
-Link to an amendment published at 85 FR 63181, Oct. 6, 2020.
-
-(a) *Interrogatories.* Any party may serve upon any other party written interrogatories to be answered in writing by the party served or, if the party served is a public or private corporation or a partnership or association, by any officer or agent, who shall furnish such information as is available to the party. A copy of the interrogatories shall be served upon all parties to the proceeding. An original and three copies of the interrogatories, answers, and all related pleadings shall be filed with the Secretary of the Commission. A copy of the interrogatories, answers and all related pleadings shall be served on the presiding officer.
+(a) *Interrogatories.* Any party may serve upon any other party written interrogatories to be answered in writing by the party served or, if the party served is a public or private corporation, partnership, association, or similar entity, by any officer or agent, who shall furnish such information as is available to the party. Copies of the interrogatories, answers, and all related pleadings shall be filed with the Commission and served on the presiding officer and all other parties to the hearing proceeding.
 
 (1) Except as otherwise provided in a protective order, the number of interrogatories or sets of interrogatories is not limited.
 
@@ -16,4 +14,4 @@ Link to an amendment published at 85 FR 63181, Oct. 6, 2020.
 
 (e) *Appeal.* As order to compel an answer is not subject to appeal.
 
-[33 FR 10572, July 25, 1968, as amended at 35 FR 17334, Nov. 11, 1970]
+[33 FR 10572, July 25, 1968, as amended at 35 FR 17334, Nov. 11, 1970; 85 FR 63181, Oct. 6, 2020]

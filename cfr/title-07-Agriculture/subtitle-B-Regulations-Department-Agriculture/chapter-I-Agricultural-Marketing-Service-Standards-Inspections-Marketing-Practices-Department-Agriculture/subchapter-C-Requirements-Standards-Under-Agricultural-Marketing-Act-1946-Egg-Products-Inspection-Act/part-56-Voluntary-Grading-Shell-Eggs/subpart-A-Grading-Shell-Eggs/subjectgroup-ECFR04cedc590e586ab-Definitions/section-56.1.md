@@ -1,7 +1,5 @@
 ##### § 56.1 Meaning of words and terms defined. #####
 
-Link to an amendment published at 85 FR 62937, Oct. 6, 2020.
-
 For the purpose of the regulations in this part, words in the singular shall be deemed to import the plural and vice versa, as the case may demand. Unless the context otherwise requires, the terms shall have the following meaning:
 
 *Acceptable* means suitable for the purpose intended by the AMS.
@@ -15,8 +13,6 @@ For the purpose of the regulations in this part, words in the singular shall be 
 *Ambient temperature* means the air temperature maintained in an egg storage facility or transport vehicle.
 
 *Applicant* means any interested person who requests any grading service.
-
-*Auditing services* means the act of providing independent verification of written quality assurance and value added standards for production, processing and distribution of shell eggs. Auditing services are performed by graders authorized by the Secretary to perform such audits and the service provided will be in accordance with the provisions of this part for grading services, as appropriate.
 
 *Cage mark* means any stain-type mark caused by an egg coming in contact with a material that imparts a rusty or blackish appearance to the shell.
 
@@ -52,7 +48,7 @@ For the purpose of the regulations in this part, words in the singular shall be 
 
 *Nest run eggs* means eggs which are packed as they come from the production facilities without having been washed, sized and/or candled for quality, with the exception that some Checks, Dirties, or other obvious undergrades may have been removed.
 
-*Observed legal holiday.* When a holiday falls on a weekend - Saturday or Sunday - the holiday usually is observed on Monday (if the holiday falls on Sunday) or Friday (if the holiday falls on Saturday).
+*Observed legal holiday.* When a holiday falls on a weekend—Saturday or Sunday—the holiday usually is observed on Monday (if the holiday falls on Sunday) or Friday (if the holiday falls on Saturday).
 
 *Office of grading* means the office of any grader.
 

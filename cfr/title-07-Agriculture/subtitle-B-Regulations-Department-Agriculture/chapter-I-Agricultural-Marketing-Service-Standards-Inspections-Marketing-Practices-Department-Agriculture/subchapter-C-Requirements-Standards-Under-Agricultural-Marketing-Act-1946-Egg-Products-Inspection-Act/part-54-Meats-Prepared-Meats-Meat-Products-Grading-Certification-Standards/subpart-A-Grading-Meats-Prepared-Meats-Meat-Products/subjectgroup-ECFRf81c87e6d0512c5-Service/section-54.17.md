@@ -1,7 +1,5 @@
 ##### § 54.17 Official identifications. #####
 
-Link to an amendment published at 85 FR 62937, Oct. 6, 2020.
-
 (a) A shield enclosing the letters “USDA” and identification letters assigned to the grader performing the service, as shown in Figure 1 to paragraph (a) of this section, constitutes a form of official identification under the regulations for preliminary grade of carcasses. This form of official identification may also be used to determine the final quality grade of carcasses; one stamp equates to “USDA Select” or “USDA Good”; two stamps placed together vertically equates to “USDA Choice”; and three stamps placed together vertically equates to “USDA Prime.”
 
 ![](/graphics/er16se19.002.gif)
@@ -34,9 +32,7 @@ Link to an amendment published at 85 FR 62937, Oct. 6, 2020.
 
 ![](/graphics/er16se19.009.gif)![](/graphics/er16se19.010.gif)
 
-(i) Figure 10 to paragraph (i) of this section, constitutes official identification to show quality system certification.
-
-![](/graphics/er16se19.011.gif)
+(i) [Reserved]
 
 (j) Figure 11 to paragraph (j) of this section, constitutes official identification to show that products produced under USDA AMS supervision that meet specified requirements may carry the “USDA Certified” statement and/or “USDA Certified” shield, so long as each is used in direct association with a clear description of the standard or other requirement(s) to which the product claims to be certified.
 
@@ -68,4 +64,4 @@ Link to an amendment published at 85 FR 62937, Oct. 6, 2020.
 
 (2) Official graders and supervisors of grading may use “USDA Hold” tags or other methods and devices as approved by the Administrator for the identification and control of meat and meat products that are not in compliance with the regulations or are held pending the results of an examination. Any such meat or meat product identified shall not be used, moved, or altered in any manner; nor shall official control identification be removed, without the expressed permission of an authorized representative of the USDA.
 
-[84 FR 48557, Sept. 16, 2019]
+[84 FR 48557, Sept. 16, 2019, as amended at 85 FR 62937, Oct. 6, 2020]

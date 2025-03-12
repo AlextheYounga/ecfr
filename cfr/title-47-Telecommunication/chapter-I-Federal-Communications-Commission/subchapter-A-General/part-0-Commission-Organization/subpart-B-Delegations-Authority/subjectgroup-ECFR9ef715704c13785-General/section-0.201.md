@@ -1,16 +1,10 @@
 ##### § 0.201 General provisions. #####
 
-Link to an amendment published at 85 FR 63171, Oct. 6, 2020.
-
 (a) There are three basic categories of delegations made by the Commission pursuant to section 5(c) of the Communications Act of 1934, as amended:
 
 (1) *Delegations to act in non-hearing matters and proceedings.* The great bulk of delegations in this category are made to bureau chiefs and other members of the Commission's staff. This category also includes delegations to individual commissioners and to boards or committees of commissioners.
 
-(2) *Delegations to rule on interlocutory matters in hearing proceedings.* Delegations in this category are made to the Chief Administrative Law Judge.
-
-Note to paragraph (a)(2):
-
-Interlocutory matters which are not delegated to the Chief Administrative Law Judge are ruled on by the presiding officer by virtue of the authority vested in him to control the course and conduct of the hearing. This authority stems from section 7 of the Administrative Procedure Act and section 409 of the Communications Act rather than from delegations of authority made pursuant to section 5(c) of the Communications Act. (See §§ 0.218 and 0.341.).
+(2) *Delegations to rule on interlocutory matters in hearing proceedings.* Delegations in this category are made to any person, other than the Commission, designated to serve as the presiding officer in a hearing proceeding pursuant to § 1.241.
 
 (3) *Delegations to review an initial decision.* Delegations in this category are made to individual commissioners, to panels of commissioners.
 
@@ -24,4 +18,4 @@ Interlocutory matters which are not delegated to the Chief Administrative Law Ju
 
 (2) Functions pertaining to a particular matter or proceeding are delegated by order. The order is published in the Federal Register and associated with the record of that matter or proceeding, but neither the order nor any reference to the delegation made thereby is included in this subpart.
 
-[28 FR 12402, Nov. 22, 1963, as amended at 50 FR 26567, June 27, 1985; 62 FR 4170, Jan. 29, 1997; 76 FR 70907, Nov. 16, 2011]
+[28 FR 12402, Nov. 22, 1963, as amended at 50 FR 26567, June 27, 1985; 62 FR 4170, Jan. 29, 1997; 76 FR 70907, Nov. 16, 2011; 85 FR 63171, Oct. 6, 2020]

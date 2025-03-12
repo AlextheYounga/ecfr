@@ -1,5 +1,7 @@
 ##### § 2.4 Definitions. #####
 
+Link to an amendment published at 85 FR 70437, Nov. 5, 2020.
+
 As used in this part,
 
 *ACRS* means the Advisory Committee on Reactor Safeguards established by the Act.

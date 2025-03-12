@@ -1,33 +1,29 @@
-##### § 0.341 Authority of administrative law judge. #####
+##### § 0.341 Authority of Administrative Law Judges and other presiding officers. #####
 
-Link to an amendment published at 85 FR 63171, Oct. 6, 2020.
+(a) After a presiding officer (other than the Commission) has been designated to conduct a hearing proceeding, and until he or she has issued an initial decision or certified the record to the Commission for decision, or the proceeding has been transferred to another presiding officer, all motions, petitions and other matters that may arise during the proceeding shall be acted upon by such presiding officer, except those which are to be acted upon by the Commission. *See* § 1.291(a)(1) of this chapter.
 
-(a) After an administrative law judge has been designated to preside at a hearing and until he has issued an initial decision or certified the record to the Commission for decision, or the proceeding has been transferred to another administrative law judge, all motions, petitions and other pleadings shall be acted upon by such administrative law judge, except the following:
+(b) Any question which would be acted upon by the presiding officer if it were raised by the parties to the proceeding may be raised and acted upon by the presiding officer on his or her own motion.
 
-(1) Those which are to be acted upon by the Commission. See § 1.291(a)(1) of this chapter.
+(c) Any question which would be acted upon by the presiding officer (other than the Commission) may be certified to the Commission on the presiding officer's own motion.
 
-(2) Those which are to be acted upon by the Chief Administrative Law Judge under § 0.351.
+(d) Except for actions taken during the course of a hearing and upon the record thereof, actions taken by a presiding officer pursuant to the provisions of this section shall be recorded in writing and filed in the official record of the proceeding.
 
-(b) Any question which would be acted upon by the administrative law judge if it were raised by the parties to the proceeding may be raised and acted upon by the administrative law judge on his own motion.
+(e) The presiding officer may waive any rule governing the conduct of Commission hearings upon motion or upon the presiding officer's own motion for good cause, subject to the provisions of the Administrative Procedure Act and the Communications Act of 1934, as amended.
 
-(c) Any question which would be acted upon by the Chief Administrative Law Judge or the Commission, if it were raised by the parties, may be certified by the administrative law judge, on his own motion, to the Chief Administrative Law Judge, or the Commission, as the case may be.
+(f) The presiding officer may issue such orders and conduct such proceedings as will best conduce to the proper dispatch of business and the ends of justice.
 
-(d) In the conduct of routine broadcast comparative hearings involving applicants for only new facilities, *i.e.*, cases that do not involve numerous applicants and/or motions to enlarge issues, the presiding administrative law judge shall make every effort to conclude the case within nine months of the release of the hearing designation order. In so doing, the presiding judge will make every effort to release an initial decision in such cases within 90 days of the filing of the last responsive pleading.
+(g)(1) For program carriage complaints filed pursuant to § 76.1302 of this chapter that the Chief, Media Bureau refers to a presiding officer for an initial decision, the presiding officer shall release an initial decision in compliance with one of the following deadlines:
 
-(e) Upon assignment by the Chief Administrative Law Judge, Administrative Law Judges, including the Chief Judge, will act as settlement judges in appropriate cases. See 47 CFR 1.244 of this chapter.
+(i) 240 calendar days after a party informs the presiding officer that it elects not to pursue alternative dispute resolution as set forth in § 76.7(g)(2) of this chapter; or
 
-(f)(1) For program carriage complaints filed pursuant to § 76.1302 of this chapter that the Chief, Media Bureau refers to an administrative law judge for an initial decision, the presiding administrative law judge shall release an initial decision in compliance with one of the following deadlines:
+(ii) If the parties have mutually elected to pursue alternative dispute resolution pursuant to § 76.7(g)(2) of this chapter, within 240 calendar days after the parties inform the presiding officer that they have failed to resolve their dispute through alternative dispute resolution.
 
-(i) 240 calendar days after a party informs the Chief Administrative Law Judge that it elects not to pursue alternative dispute resolution as set forth in § 76.7(g)(2) of this chapter; or
+(2) The presiding officer may toll these deadlines under the following circumstances:
 
-(ii) If the parties have mutually elected to pursue alternative dispute resolution pursuant to § 76.7(g)(2) of this chapter, within 240 calendar days after the parties inform the Chief Administrative Law Judge that they have failed to resolve their dispute through alternative dispute resolution.
-
-(2) The presiding administrative law judge may toll these deadlines under the following circumstances:
-
-(i) If the complainant and defendant jointly request that the presiding administrative law judge toll these deadlines in order to pursue settlement discussions or alternative dispute resolution or for any other reason that the complainant and defendant mutually agree justifies tolling; or
+(i) If the complainant and defendant jointly request that the presiding officer toll these deadlines in order to pursue settlement discussions or alternative dispute resolution or for any other reason that the complainant and defendant mutually agree justifies tolling; or
 
 (ii) If complying with the deadline would violate the due process rights of a party or would be inconsistent with fundamental fairness; or
 
-(iii) In extraordinary situations, due to a lack of adjudicatory resources available at the time in the Office of Administrative Law Judges.
+(iii) In extraordinary situations, due to a lack of adjudicatory resources available at the time.
 
-[29 FR 6442, May 16, 1964, as amended at 37 FR 19372, Sept. 20, 1972; 41 FR 14870, Apr. 8, 1976; 56 FR 792, Jan. 9, 1991; 62 FR 4170, Jan. 29, 1997; 76 FR 60671, Sept. 29, 2011]
+[85 FR 63171, Oct. 6, 2020]

@@ -1,7 +1,5 @@
 ##### § 0.51 Functions of the Bureau. #####
 
-Link to an amendment published at 85 FR 63170, Oct. 6, 2020.
-
 The International Bureau has the following duties and responsibilities:
 
 (a) To initiate and direct the development and articulation of international telecommunications policies, consistent with the priorities of the Commission;
@@ -42,4 +40,6 @@ The International Bureau has the following duties and responsibilities:
 
 (s) To coordinate with the Public Safety and Homeland Security Bureau on all matters affecting public safety, homeland security, national security, emergency management, disaster management, and related issues.
 
-[60 FR 5323, Jan. 27, 1995, as amended at 60 FR 35504, July 10, 1995; 64 FR 60716, Nov. 8, 1999; 67 FR 13217, Mar. 21, 2002; 71 FR 69034, Nov. 29, 2006]
+(t) Issue orders revoking a common carrier's operating authority pursuant to section 214 of the Act, and issue orders to cease and desist such operations, in cases where the presiding officer has issued a certification order to the Commission that the carrier has waived its opportunity for hearing under that section.
+
+[60 FR 5323, Jan. 27, 1995, as amended at 60 FR 35504, July 10, 1995; 64 FR 60716, Nov. 8, 1999; 67 FR 13217, Mar. 21, 2002; 71 FR 69034, Nov. 29, 2006; 85 FR 63170, Oct. 6, 2020]

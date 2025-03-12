@@ -1,7 +1,5 @@
 ##### § 0.91 Functions of the Bureau. #####
 
-Link to an amendment published at 85 FR 63171, Oct. 6, 2020.
-
 The Wireline Competition Bureau advises and makes recommendations to the Commission, or acts for the Commission under delegated authority, in all matters pertaining to the regulation and licensing of communications common carriers and ancillary operations (other than matters pertaining exclusively to the regulation and licensing of wireless telecommunications services and facilities). The Bureau will, among other things:
 
 (a) Develop and recommend policy goals, objectives, programs and plans for the Commission in rulemaking and adjudicatory matters concerning wireline telecommunications, drawing on relevant economic, technological, legislative, regulatory and judicial information and developments. Overall objectives include meeting the present and future wireline telecommunications needs of the Nation; fostering economic growth; ensuring choice, opportunity, and fairness in the development of wireline telecommunications; promoting economically efficient investment in wireline telecommunications infrastructure; promoting the development and widespread availability of wireline telecommunications services; and developing deregulatory initiatives where appropriate.
@@ -36,4 +34,6 @@ The Wireline Competition Bureau advises and makes recommendations to the Commiss
 
 (p) In coordination with the Office of Economics and Analytics and Wireless Telecommunications Bureau, serves as the Commission's principal policy and administrative staff resource with respect to the use of market-based mechanisms, including competitive bidding, to distribute universal service support. Develops, recommends and administers policies, programs, rules and procedures concerning the use of market-based mechanisms, including competitive bidding, to distribute universal service support.
 
-[67 FR 13218, Mar. 21, 2002, as amended at 68 FR 13850, Mar. 21, 2003; 69 FR 55109, Sept. 13, 2004; 71 FR 69034, Nov. 29, 2006; 76 FR 73851, Nov. 29, 2011; 78 FR 49148, Aug. 13, 2013; 83 FR 63076, Dec. 7, 2018]
+(q) Issue orders revoking a common carrier's operating authority pursuant to section 214 of the Act, and issue orders to cease and desist such operations, in cases where the presiding officer has issued a certification order to the Commission that the carrier has waived its opportunity for hearing under that section.
+
+[67 FR 13218, Mar. 21, 2002, as amended at 68 FR 13850, Mar. 21, 2003; 69 FR 55109, Sept. 13, 2004; 71 FR 69034, Nov. 29, 2006; 76 FR 73851, Nov. 29, 2011; 78 FR 49148, Aug. 13, 2013; 83 FR 63076, Dec. 7, 2018; 85 FR 63171, Oct. 6, 2020]

@@ -1,8 +1,8 @@
 ##### § 303.7 Generic names and definitions for manufactured fibers. #####
 
-Link to an amendment published at 85 FR 63014, Oct. 6, 2020.
+Pursuant to the provisions of section 7(c) of the Act, the Commission hereby establishes the generic names for manufactured fibers, together with their respective definitions, set forth in this section, and the generic names for manufactured fibers, together with their respective definitions, set forth in International Organization for Standardization (ISO) 2076:2013(E). ISO 2076:2013(E), “Textiles—Man-made fibres—Generic names,” Sixth edition, November 15, 2013, is incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51.
 
-Pursuant to the provisions of section 7(c) of the Act, the Commission hereby establishes the generic names for manufactured fibers, together with their respective definitions, set forth in this section, and the generic names for manufactured fibers, together with their respective definitions, set forth in International Organization for Standardization ISO 2076:2010(E), “Textiles - Man-made fibres - Generic names.” International Organization for Standardization ISO 2076:2010(E), “Textiles - Man-made fibres - Generic names, Fifth edition, 2010-01-15 is incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Federal Trade Commission must publish notice of change in the Federal Register and the material must be available to the public. All approved material is available for inspection at the Federal Trade Commission, 600 Pennsylvania Ave. NW., Room 130, Washington, DC 20580, (202) 326-2222, and is available from the American National Standards Institute, 11 West 42nd St., 13th floor, New York, NY 10036. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+To enforce any edition other than that specified in this section, the Federal Trade Commission must publish notice of change in the Federal Register and the material must be available to the public. All approved material is available for inspection at the Federal Trade Commission, 600 Pennsylvania Avenue NW, Room H-630, Washington, DC 20580, (202) 326-2222, and is available from: (a) The International Organization for Standardization, ISO Central Secretariat, Chemin de Blandonnet 8, CP 401-1214 Vernier, Geneva, Switzerland; (+41 22 749 01 11); *central@iso.org; https://www.iso.org/home.html;* and (b) the American National Standards Institute, 25 West 43rd Street, Fourth Floor, New York, NY 10036-7417; (212) 642-4900; *isot@ansi.org; https://www.ansi.org.* It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email *fedreg.legal@nara.gov,* or go to *http://www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
 (a) *Acrylic.* A manufactured fiber in which the fiber-forming substance is any long chain synthetic polymer composed of at least 85 percent by weight of acrylonitrile units
 
@@ -58,7 +58,7 @@ Pursuant to the provisions of section 7(c) of the Act, the Commission hereby est
 
 (p) *Glass.* A manufactured fiber in which the fiber-forming substance is glass.
 
-(q) *Anidex.* A manufactured fiber in which the fiber-forming substance is any long chain synthetic polymer composed of at least 50 percent by weight of one or more esters of a monohydric alcohol and acrylic acid, CH2=CH - COOH.
+(q) *Anidex.* A manufactured fiber in which the fiber-forming substance is any long chain synthetic polymer composed of at least 50 percent by weight of one or more esters of a monohydric alcohol and acrylic acid, CH2=CH—COOH.
 
 (r) *Novoloid.* A manufactured fiber containing at least 85 percent by weight of a cross-linked novolac.
 
@@ -66,11 +66,11 @@ Pursuant to the provisions of section 7(c) of the Act, the Commission hereby est
 
 ![](/graphics/ec29se91.011.gif)linkages are attached directly to two aromatic rings.
 
-(t) *Sulfar.* A manufactured fiber in which the fiber-forming substance is a long chain synthetic polysulfide in which at least 85% of the sulfide ( - S - ) linkages are attached directly to two (2) aromatic rings.
+(t) *Sulfar.* A manufactured fiber in which the fiber-forming substance is a long chain synthetic polysulfide in which at least 85% of the sulfide (—S—) linkages are attached directly to two (2) aromatic rings.
 
 (u) *PBI.* A manufactured fiber in which the fiber-forming substance is a long chain aromatic polymer having reoccurring imidazole groups as an integral part of the polymer chain.
 
-(v) *Elastoester.* A manufactured fiber in which the fiber-forming substance is a long-chain synthetic polymer composed of at least 50% by weight of aliphatic polyether and at least 35% by weight of polyester, as defined in 16 CFR 303.7(c).
+(v) *Elastoester.* A manufactured fiber in which the fiber-forming substance is a long-chain synthetic polymer composed of at least 50% by weight of aliphatic polyether and at least 35% by weight of polyester, as defined in paragraph (c) of this section.
 
 (w) *Melamine.* A manufactured fiber in which the fiber-forming substance is a synthetic polymer composed of at least 50% by weight of a cross-linked melamine polymer.
 

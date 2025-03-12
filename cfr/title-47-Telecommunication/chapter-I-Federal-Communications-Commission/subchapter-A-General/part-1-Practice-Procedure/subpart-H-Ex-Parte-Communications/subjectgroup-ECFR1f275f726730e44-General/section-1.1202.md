@@ -1,7 +1,5 @@
 ##### § 1.1202 Definitions. #####
 
-Link to an amendment published at 85 FR 63183, Oct. 6, 2020.
-
 For the purposes of this subpart, the following definitions apply:
 
 (a) *Presentation.* A communication directed to the merits or outcome of a proceeding, including any attachments to a written communication or documents shown in connection with an oral presentation directed to the merits or outcome of a proceeding. Excluded from this term are communications which are inadvertently or casually made, inquiries concerning compliance with procedural requirements if the procedural matter is not an area of controversy in the proceeding, statements made by decisionmakers that are limited to providing publicly available information about pending proceedings, and inquiries relating solely to the status of a proceeding, including inquiries as to the approximate time that action in a proceeding may be taken. However, a status inquiry which states or implies a view as to the merits or outcome of the proceeding or a preference for a particular party, which states why timing is important to a particular party or indicates a view as to the date by which a proceeding should be resolved, or which otherwise is intended to address the merits or outcome or to influence the timing of a proceeding is a presentation.
@@ -20,7 +18,7 @@ Note to paragraph (b):
 
 Written communications include electronic submissions transmitted in the form of texts, such as by Internet electronic mail.
 
-(c) *Decision-making personnel.* Any member, officer, or employee of the Commission, or, in the case of a Joint Board, its members or their staffs, who is or may reasonably be expected to be involved in formulating a decision, rule, or order in a proceeding. Any person who has been made a party to a proceeding or who otherwise has been excluded from the decisional process shall not be treated as a decision-maker with respect to that proceeding. Thus, any person designated as part of a separate trial staff shall not be considered a decision-making person in the designated proceeding. Unseparated Bureau or Office staff shall be considered decision-making personnel with respect to decisions, rules, and orders in which their Bureau or Office participates in enacting, preparing, or reviewing.
+(c) *Decision-making personnel.* Any member, officer, or employee of the Commission, or, in the case of a Joint Board, its members or their staffs, who is or may reasonably be expected to be involved in formulating a decision, rule, or order in a proceeding. Any person who has been made a party to a proceeding or who otherwise has been excluded from the decisional process shall not be treated as a decision-maker with respect to that proceeding. Thus, any person designated as part of a separate trial staff shall not be considered a decision-making person in the designated proceeding. Unseparated Bureau or Office staff shall be considered decision-making personnel with respect to decisions, rules, and orders in which their Bureau or Office participates in enacting, preparing, or reviewing. Commission staff serving as the case manager in a hearing proceeding in which the Commission is the presiding officer shall be considered decision-making personnel with respect to that hearing proceeding.
 
 (d) *Party.* Unless otherwise ordered by the Commission, the following persons are parties:
 
@@ -54,6 +52,6 @@ Note 5 to paragraph (d):
 
 A member of Congress or his or her staff, or other agencies or branches of the federal government or their staffs will not become a party by service of a written submission regarding a pending proceeding that has not been designated for hearing unless the submission affirmatively seeks and warrants grant of party status.
 
-(e) *Matter designated for hearing.* Any matter that has been designated for hearing before an administrative law judge or which is otherwise designated for hearing in accordance with procedures in 5 U.S.C. 554.
+(e) *Matter designated for hearing.* Any matter that has been designated for hearing before a presiding officer.
 
-[62 FR 15854, Apr. 3, 1997, as amended at 64 FR 68947, Dec. 9, 1999; 64 FR 72571, Dec. 28, 1999; 65 FR 56261, Sept. 18, 2000; 67 FR 13224, Mar. 21, 2002; 76 FR 24381, May 2, 2011]
+[62 FR 15854, Apr. 3, 1997, as amended at 64 FR 68947, Dec. 9, 1999; 64 FR 72571, Dec. 28, 1999; 65 FR 56261, Sept. 18, 2000; 67 FR 13224, Mar. 21, 2002; 76 FR 24381, May 2, 2011; 85 FR 63183, Oct. 6, 2020]

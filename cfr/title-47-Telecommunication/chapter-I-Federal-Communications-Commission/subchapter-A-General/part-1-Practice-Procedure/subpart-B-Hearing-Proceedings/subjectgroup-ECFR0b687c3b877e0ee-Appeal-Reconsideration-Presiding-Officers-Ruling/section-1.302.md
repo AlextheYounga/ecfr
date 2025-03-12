@@ -1,6 +1,4 @@
-##### § 1.302 Appeal from presiding officer's final ruling; effective date of ruling. #####
-
-Link to an amendment published at 85 FR 63180, Oct. 6, 2020.
+##### § 1.302 Appeal from final ruling by presiding officer other than the Commission; effective date of ruling. #####
 
 (a) If the presiding officer's ruling terminates a hearing proceeding, any party to the proceeding, as a matter of right, may file an appeal from that ruling within 30 days after the ruling is released.
 
@@ -16,4 +14,4 @@ Link to an amendment published at 85 FR 63180, Oct. 6, 2020.
 
 (g) Oppositions and replies shall be filed and served in the same manner as the appeal. Oppositions to an appeal shall be filed within 15 days after the appeal is filed. Replies to oppositions shall be filed within 10 days after the opposition is filed and shall be limited to matters raised in the oppositions. Oppositions shall not exceed 25 double-spaced typewritten pages. Replies shall not exceed 10 double-spaced typewritten pages.
 
-[35 FR 17333, Nov. 11, 1970, as amended at 36 FR 7423, Apr. 20, 1971; 62 FR 4171, Jan. 29, 1997]
+[35 FR 17333, Nov. 11, 1970, as amended at 36 FR 7423, Apr. 20, 1971; 62 FR 4171, Jan. 29, 1997; 85 FR 63180, Oct. 6, 2020]

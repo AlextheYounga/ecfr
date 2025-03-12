@@ -1,10 +1,8 @@
 ##### § 1.311 General. #####
 
-Link to an amendment published at 85 FR 63180, Oct. 6, 2020.
+Sections 1.311 through 1.325 provide for taking the deposition of any person (including a party), for interrogatories to parties, and for orders to parties relating to the production of documents and things and for entry upon real property. These procedures may be used for the discovery of relevant facts, for the production and preservation of evidence for use in a hearing proceeding, or for both purposes.
 
-Sections 1.311 through 1.325 provide for taking the deposition of any person (including a party), for interrogatories to parties, and for orders to parties relating to the production of documents and things and for entry upon real property. These procedures may be used for the discovery of relevant facts, for the production and preservation of evidence for use at the hearing, or for both purposes.
-
-(a) *Applicability.* For purposes of discovery, these proecdures may be used in any case of adjudication (as defined in the Administrative Procedure Act) which has been designated for hearing. For the preservation of evidence, they may be used in any case which has been designated for hearing and is conducted under the provisions of this subpart (see § 1.201).
+(a) *Applicability.* For purposes of discovery, these procedures may be used in any case of adjudication (as defined in the Administrative Procedure Act) which has been designated for hearing. For the preservation of evidence, they may be used in any case which has been designated for hearing and is conducted under the provisions of this subpart (see § 1.201).
 
 (b) *Scope of examination.* Persons and parties may be examined regarding any matter, not privileged, which is relevant to the hearing issues, including the existence, description, nature, custody, condition and location of any books, documents, or other tangible things and the identity and location of persons having knowledge of relevant facts. It is not ground for objection to use of these procedures that the testimony will be inadmissible at the hearing if the testimony sought appears reasonably calculated to lead to the discovery of admissible evidence. The use of these procedures against the Commission is subject to the following additional limitations:
 
@@ -16,14 +14,10 @@ Sections 1.311 through 1.325 provide for taking the deposition of any person (in
 
 (4) Subject to paragraphs (b) (1) through (3) of this section, Commission personnel may be questioned generally by written interrogatories regarding the existence, description, nature, custody, condition and location of relevant documents and things and regarding the identity and location of persons having knowledge of relevant facts, and may otherwise only be examined regarding facts of the case as to which they have direct personal knowledge.
 
-(c) *Schedule for use of the procedures.* (1) In comparative broadcast proceedings involving applicants for only new facilities, discovery commences with the release of the hearing designation order, and, in routine cases, the discovery phase of the proceeding will be conducted in a manner intended to conclude that portion of the case within 90 days of the release of the designation order.
+(c) *Schedule for use of the procedures.* (1) Except as provided by special order of the presiding officer, discovery may be initiated after the initial conference provided for in § 1.248(b) of this part.
 
-(2) In all other proceedings, except as provided by special order of the presiding officer, discovery may be initiated before or after the prehearing conference provided for in § 1.248 of this part.
+(2) In all proceedings, the presiding officer may at any time order the parties or their attorneys to appear at a conference to consider the proper use of these procedures, the time to be allowed for such use, and/or to hear argument and render a ruling on disputes that arise under these rules.
 
-(3) In all proceedings, the presiding officer may at any time order the parties or their attorneys to appear at a conference to consider the proper use of these procedures, the time to be allowed for such use, and/or to hear agrument and render a ruling on disputes that arise under these rules.
+(d) *Stipulations regarding the taking of depositions.* If all of the parties so stipulate in writing and if there is no interference to the conduct of the proceeding, depositions may be taken before any person, at any time (subject to the limitation below) or place, upon any notice and in any manner, and when so taken may be used like other depositions. A copy of the stipulation shall be filed using the Commission's Electronic Comment Filing System, and a copy of the stipulation shall be served on the presiding officer or case manager at least 3 days before the scheduled taking of the deposition.
 
-(d) *Who shall act.* Actions provided for in §§ 1.311 through 1.325 will, in most cases, be taken by the officer designated to preside at the hearing (see § 1.241). If the proceeding, or a particular matter to which the action relates, is before the Commission, a commissioner or panel of commissioners, or the Chief Administrative Law Judge, the action will be taken by such officer or body. The term *presiding officer,* as used in §§ 1.311 through 1.325 shall be understood to refer to the appropriate officer or body. See §§ 0.341, 0.351, 0.365, and 1.271 of this chapter.
-
-(e) *Stipulations regarding the taking of depositions.* If all of the parties so stipulate in writing and if there is no interference to the conduct of the proceeding, depositions may be taken before any person, at any time (subject to the limitation below) or place, upon any notice and in any manner, and when so taken may be used like other depositions. An original and one copy of the stipulation shall be filed with the Secretary of the Commission, and a copy of the stipulation shall be served on the presiding officer, at least 3 days before the scheduled taking of the deposition.
-
-[33 FR 463, Jan. 12, 1968, as amended at 40 FR 39509, Aug. 28, 1975; 47 FR 51873, Nov. 18, 1982; 56 FR 794, Jan. 9, 1991; 62 FR 4171, Jan. 29, 1997]
+[33 FR 463, Jan. 12, 1968, as amended at 40 FR 39509, Aug. 28, 1975; 47 FR 51873, Nov. 18, 1982; 56 FR 794, Jan. 9, 1991; 62 FR 4171, Jan. 29, 1997; 85 FR 63180, Oct. 6, 2020]
