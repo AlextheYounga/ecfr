@@ -1,5 +1,7 @@
 ##### § 409.43 Plan of care requirements. #####
 
+Link to an amendment published at 84 FR 60642, Nov. 8, 2019.
+
 (a) *Contents.* The plan of care must contain those items listed in § 484.60(a) of this chapter that specify the standards relating to a plan of care that an HHA must meet in order to participate in the Medicare program.
 
 (b) *Physician's orders.* The physician's orders for services in the plan of care must specify the medical treatments to be furnished as well as the type of home health discipline that will furnish the ordered services and at what frequency the services will be furnished. Orders for services to be provided “as needed” or “PRN” must be accompanied by a description of the beneficiary's medical signs and symptoms that would occasion the visit and a specific limit on the number of those visits to be made under the order before an additional physician order would have to be obtained. Orders for care may indicate a specific range in frequency of visits to ensure that the most appropriate level of services is furnished. If a range of visits is ordered, the upper limit of the range is considered the specific frequency.

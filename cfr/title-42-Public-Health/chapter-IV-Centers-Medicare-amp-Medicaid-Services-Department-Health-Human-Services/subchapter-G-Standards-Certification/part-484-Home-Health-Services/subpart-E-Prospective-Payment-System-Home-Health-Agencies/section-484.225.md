@@ -1,5 +1,7 @@
 ##### § 484.225 Annual update of the unadjusted national, standardized prospective payment rates. #####
 
+Link to an amendment published at 84 FR 60645, Nov. 8, 2019.
+
 (a) CMS annually updates the unadjusted national, standardized prospective payment rate on a calendar year basis (in accordance with section 1895(b)(1)(B) of the Act).
 
 (b) For 2007 and subsequent calendar years, in accordance with section 1895(b)(3)(B)(v) of the Act, in the case of a home health agency that submits home health quality data, as specified by the Secretary, the unadjusted national, standardized prospective rate is equal to the rate for the previous calendar year increased by the applicable home health market basket index amount.

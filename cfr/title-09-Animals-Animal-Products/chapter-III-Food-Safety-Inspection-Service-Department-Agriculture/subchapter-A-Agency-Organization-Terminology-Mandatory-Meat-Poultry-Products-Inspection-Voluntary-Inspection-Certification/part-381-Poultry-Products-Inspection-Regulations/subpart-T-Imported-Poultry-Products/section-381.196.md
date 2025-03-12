@@ -1,5 +1,7 @@
 ##### § 381.196 Eligibility of foreign countries for importation of poultry products into the United States. #####
 
+Link to an amendment published at 84 FR 60324, Nov. 8, 2019.
+
 (a)(1) Whenever it shall be determined by the Administrator that the system of poultry inspection maintained by any foreign country, with respect to establishments preparing products in such country for export to the United States, insures compliance of such establishments and their poultry products, with requirements equivalent to all the provisions of the Act and the regulations in this part which are applied to official establishments in the United States, and their poultry products, and that reliance can be placed upon certificates required under this subpart from authorities of such foreign country, notice of that fact will be given by including the name of such foreign country in paragraph (b) of this section. Thereafter, poultry products processed in such establishments which are certified and approved in accordance with paragraph (a)(3) of this section shall be eligible, so far as the regulations in this part are concerned, for importation into the United States from such foreign country after applicable requirements of this part have been met.
 
 (2) The determination of acceptability of a foreign poultry inspection system for purposes of this section shall be based on an evaluation of the foreign program in accordance with the following requirements and procedures:

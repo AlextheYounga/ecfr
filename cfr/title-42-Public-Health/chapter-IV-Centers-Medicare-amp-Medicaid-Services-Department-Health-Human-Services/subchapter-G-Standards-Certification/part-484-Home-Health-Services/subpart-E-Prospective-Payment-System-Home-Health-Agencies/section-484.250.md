@@ -1,5 +1,7 @@
 ##### § 484.250 Patient assessment data. #####
 
+Link to an amendment published at 84 FR 60646, Nov. 8, 2019.
+
 (a) *Data submission.* An HHA must submit the following data to CMS:
 
 (1) Such OASIS data described at § 484.55(b) and (d) as is necessary for CMS to administer the payment rate methodologies described in §§ 484.215, 484.220, 484.230, 484.235, and 484.240; and such OASIS data described at § 484.55(b) and (d) as is necessary to meet the quality reporting requirements of section 1895(b)(3)(B)(v) of the Act.

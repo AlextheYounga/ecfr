@@ -1,5 +1,7 @@
 ##### § 486.505 Definitions. #####
 
+Link to an amendment published at 84 FR 60646, Nov. 8, 2019.
+
 As used in §§ 486.520 and 486.525:
 
 *Applicable provider* means a physician, a nurse provider, and a physician assistant.

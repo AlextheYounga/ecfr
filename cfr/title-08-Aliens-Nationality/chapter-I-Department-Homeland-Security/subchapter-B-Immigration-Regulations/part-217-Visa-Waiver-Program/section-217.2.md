@@ -1,5 +1,7 @@
 ##### § 217.2 Eligibility. #####
 
+Link to an amendment published at 84 FR 60318, Nov. 8, 2019.
+
 (a) *Definitions.* As used in this part, the term:
 
 *Carrier* refers to the owner, charterer, lessee, or authorized agent of any commercial vessel or commercial aircraft engaged in transporting passengers to the United States from a foreign place.

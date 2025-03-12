@@ -1,5 +1,7 @@
 ##### § 484.315 Data reporting for measures and evaluation under the Home Health Value-Based Purchasing (HHVBP) Model. #####
 
+Link to an amendment published at 84 FR 60646, Nov. 8, 2019.
+
 (a) Competing home health agencies will be evaluated using a set of quality measures.
 
 (b) Competing home health agencies in selected states will be required to report information on New Measures, as determined appropriate by the Secretary, to CMS in the form, manner, and at a time specified by the Secretary.

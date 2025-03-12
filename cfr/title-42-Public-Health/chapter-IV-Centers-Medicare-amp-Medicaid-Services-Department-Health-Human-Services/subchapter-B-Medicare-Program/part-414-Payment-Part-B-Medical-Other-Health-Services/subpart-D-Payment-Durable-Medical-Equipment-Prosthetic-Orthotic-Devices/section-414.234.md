@@ -1,5 +1,7 @@
 ##### § 414.234 Prior authorization for items frequently subject to unnecessary utilization. #####
 
+Link to an amendment published at 84 FR 60806, November 8, 2019.
+
 (a) *Definitions.* For the purpose of this section, the following definitions apply:
 
 *Prior authorization* is a process through which a request for provisional affirmation of coverage is submitted to CMS or its contractors for review before the item is furnished to the beneficiary and before the claim is submitted for processing.

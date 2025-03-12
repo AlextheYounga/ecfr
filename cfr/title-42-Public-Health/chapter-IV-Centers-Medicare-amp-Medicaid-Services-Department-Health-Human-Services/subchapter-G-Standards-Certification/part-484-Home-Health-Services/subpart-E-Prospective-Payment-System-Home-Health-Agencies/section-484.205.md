@@ -1,5 +1,7 @@
 ##### § 484.205 Basis of payment. #####
 
+Link to an amendment published at 84 FR 60644, Nov. 8, 2019.
+
 (a) *Method of payment.* An HHA receives a national, standardized prospective payment amount for home health services previously paid on a reasonable cost basis (except the osteoporosis drug defined in section 1861(kk) of the Act) as of August 5, 1997. The national, standardized prospective payment is determined in accordance with § 484.215.
 
 (b) *Unit of payment* - (1) *Episodes before December 31, 2019.* For episodes beginning on or before December 31, 2019, an HHA receives a unit of payment equal to a national, standardized prospective 60-day episode payment amount.

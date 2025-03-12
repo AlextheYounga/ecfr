@@ -1,5 +1,7 @@
 ##### § 410.38 Durable medical equipment: Scope and conditions. #####
 
+Link to an amendment published at 84 FR 60802, Nov. 8, 2019.
+
 (a) Medicare Part B pays for the rental or purchase of durable medical equipment, including iron lungs, oxygen tents, hospital beds, and wheelchairs, if the equipment is used in the patient's home or in an institution that is used as a home.
 
 (b) An institution that is used as a home may not be a hospital or a CAH or a SNF as defined in sections 1861(e)(1), 1861(mm)(1) and 1819(a)(1) of the Act, respectively.

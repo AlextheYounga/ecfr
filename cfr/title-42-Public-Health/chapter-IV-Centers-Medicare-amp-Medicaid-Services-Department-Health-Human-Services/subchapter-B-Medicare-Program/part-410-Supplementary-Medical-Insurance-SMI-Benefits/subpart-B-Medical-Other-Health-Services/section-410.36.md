@@ -1,5 +1,7 @@
 ##### § 410.36 Medical supplies, appliances, and devices: Scope. #####
 
+Link to an amendment published at 84 FR 60801, Nov. 8, 2019.
+
 (a) Medicare Part B pays for the following medical supplies, appliances and devices:
 
 (1) Surgical dressings, and splints, casts, and other devices used for reduction of fractures and dislocations.

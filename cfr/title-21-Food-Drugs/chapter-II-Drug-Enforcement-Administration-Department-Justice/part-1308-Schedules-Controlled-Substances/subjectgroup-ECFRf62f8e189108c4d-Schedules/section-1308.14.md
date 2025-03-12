@@ -81,20 +81,20 @@
 
 (f) *Stimulants.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a stimulant effect on the central nervous system, including its salts, isomers and salts of isomers:
 
-|                                 (1) Cathine ((+)-norpseudoephedrine)                                 |1230|
-|:-----------------------------------------------------------------------------------------------------|---:|
-|                                          (2) Diethylpropion                                          |1610|
-|                                           (3) Fencamfamin                                            |1760|
-|                                           (4) Fenproporex                                            |1575|
-|                                             (5) Mazindol                                             |1605|
-|                                            (6) Mefenorex                                             |1580|
-|                                             (7)Modafinil                                             |1680|
-|                (8) Pemoline (including organometallic complexes and chelates thereof)                |1530|
-|                                           (9) Phentermine                                            |1640|
-|                                            (10) Pipradrol                                            |1750|
-|                                           (11) Sibutramine                                           |1675|
-|(12) Solriamfetol (2-amino-3-phenylpropyl car-bamate; benzenepropanol, beta-amino-, carbamate (ester))|1650|
-|                          (13) SPA ((-)-1-dimethylamino- 1,2-diphenylethane)                          |1635|
+|                                (1) Cathine ((+)-norpseudoephedrine)                                 |1230|
+|:----------------------------------------------------------------------------------------------------|---:|
+|                                         (2) Diethylpropion                                          |1610|
+|                                           (3) Fencamfamin                                           |1760|
+|                                           (4) Fenproporex                                           |1575|
+|                                            (5) Mazindol                                             |1605|
+|                                            (6) Mefenorex                                            |1580|
+|                                            (7)Modafinil                                             |1680|
+|               (8) Pemoline (including organometallic complexes and chelates thereof)                |1530|
+|                                           (9) Phentermine                                           |1640|
+|                                           (10) Pipradrol                                            |1750|
+|                                          (11) Sibutramine                                           |1675|
+|(12) Solriamfetol (2-amino-3-phenylpropyl carbamate; benzenepropanol, beta-amino-, carbamate (ester))|1650|
+|                         (13) SPA ((-)-1-dimethylamino- 1,2-diphenylethane)                          |1635|
 
 (g) *Other substances.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture or preparation which contains any quantity of the following substances, including its salts:
 

@@ -1,5 +1,7 @@
 ##### § 413.230 Determining the per treatment payment amount. #####
 
+Link to an amendment published at 84 FR 60803, Nov. 8, 2019.
+
 The per-treatment payment amount is the sum of:
 
 (a) The per treatment base rate established in § 413.220, adjusted for wages as described in § 413.231, and adjusted for facility-level and patient-level characteristics described in §§ 413.232 and 413.235 of this part;
