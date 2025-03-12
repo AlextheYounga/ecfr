@@ -291,7 +291,7 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (vi) *Scallop rotational area management program and scallop access area program requirements.* (A) Fail to comply with any of the provisions and specifications of § 648.59.
 
-(B) Transit the Closed Area II Scallop Rotational Area, as defined in § 648.60(d), unless there is a compelling safety reason for transiting the area and the vessel's fishing gear is stowed and not available for immediate use as defined in § 648.2.
+(B) Transit the Closed Area II Scallop Rotational Area or the Closed Area II-East Scallop Rotational Area, as defined in § 648.60(d), unless there is a compelling safety reason for transiting the area and the vessel's fishing gear is stowed and not available for immediate use as defined in § 648.2.
 
 (C) Fish for, possess, or land scallops in or from an access area in excess of the vessel's remaining specific allocation for that area as specified in § 648.59(b)(3) or the amount permitted to be landed from that area.
 
@@ -343,7 +343,7 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (D) Fish for, possess, or land scallops in or from any Sea Scallop Access Area without an observer on board, unless the vessel owner, operator, or manager has received a waiver to carry an observer for the specified trip and area fished.
 
-(E) Transit the Closed Area II Scallop Rotational Area, as defined in § 648.60 (d), unless there is a compelling safety reason for transiting the area and the vessel's fishing gear is stowed and not available for immediate use as defined in § 648.2.
+(E) Transit the Closed Area II Scallop Rotational Area or Closed Area II-East Scallop Rotational Area, as defined in § 648.60(d), unless there is a compelling safety reason for transiting the area and the vessel's fishing gear is stowed and not available for immediate use as defined in § 648.2.
 
 (vi) *Sectors.* Fail to comply with any of the requirements and restrictions for General Category sectors and harvesting cooperatives specified in § 648.63.
 

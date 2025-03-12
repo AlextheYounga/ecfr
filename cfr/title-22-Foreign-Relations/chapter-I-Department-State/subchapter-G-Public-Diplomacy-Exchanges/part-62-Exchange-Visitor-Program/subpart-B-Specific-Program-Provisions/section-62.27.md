@@ -1,7 +1,5 @@
 ##### § 62.27 Alien physicians. #####
 
-Link to an amendment published at 86 FR 20287, Apr. 19, 2021.
-
 (a) *Purpose.* Pursuant to the Mutual Educational and Cultural Exchange Act, as amended by the Health Care Professions Act, Public Law 94-484, the Department of State facilitates exchanges for foreign medical graduates seeking to pursue graduate medical education or training at accredited schools of medicine or scientific institutions. The Department of State also facilitates exchanges of foreign medical graduates seeking to pursue programs involving observation, consultation, teaching, or research activities.
 
 (b) *Clinical exchange programs.* The Educational Commission for Foreign Medical Graduates must sponsor alien physicians who wish to pursue programs of graduate medical education or training conducted by accredited U.S. schools of medicine or scientific institutions. Such Foreign Medical Graduates shall:
@@ -14,11 +12,11 @@ Link to an amendment published at 86 FR 20287, Apr. 19, 2021.
 
 (4) Have competency in oral and written English;
 
-(5) Have passed either Parts I and II of the National Board of Medical Examiners Examination, the Foreign Medical Graduate Examination in the Medical Sciences, the United States Medical Licensing Examination, Step I and Step II, or the Visa Qualifying Examination (VQE) prepared by the National Board of Medical Examiners, administered by the Educational Commission for Foreign Medical Graduates. [NB - Graduates of a school of medicine accredited by the Liaison Committee on Medical Education are exempted by law from the requirement of passing either Parts I and II of the National Board of Medical Examiners Examination or the Visa Qualifying Examination (VQE)]; and
+(5) Have passed either Parts I and II of the National Board of Medical Examiners Examination, the Foreign Medical Graduate Examination in the Medical Sciences, the United States Medical Licensing Examination, Step I and Step II, or the Visa Qualifying Examination (VQE) prepared by the National Board of Medical Examiners, administered by the Educational Commission for Foreign Medical Graduates. [NB—Graduates of a school of medicine accredited by the Liaison Committee on Medical Education are exempted by law from the requirement of passing either Parts I and II of the National Board of Medical Examiners Examination or the Visa Qualifying Examination (VQE)]; and
 
 (6) Provide a statement of need from the government of the country of their nationality or last legal permanent residence. Such statement must provide written assurance, satisfactory to the Secretary of Health and Human Services, that there is a need in that country for persons with the skills the alien physician seeks to acquire and shall be submitted to the Educational Commission for Foreign Medical Graduates by the participant's government. The statement of need must bear the seal of the concerned government and be signed by a duly designated official of the government. The text of such statement of need shall read as follows:
 
-Name of applicant for Visa: \_\_\_. There currently exists in (Country) a need for qualified medical practitioners in the speciality of \_\_\_. (Name of applicant for Visa) has filed a written assurance with the government of this country that he/she will return to this country upon completion of training in the United States and intends to enter the practice of medicine in the specialty for which training is being sought. Stamp (or Seal and signature) of issuing official of named country.
+Name of applicant for Visa: \_\_\_\_\_\_. There currently exists in (Country) a need for qualified medical practitioners in the speciality of \_\_\_\_\_\_. (Name of applicant for Visa) has filed a written assurance with the government of this country that he/she will return to this country upon completion of training in the United States and intends to enter the practice of medicine in the specialty for which training is being sought. Stamp (or Seal and signature) of issuing official of named country.
 
 Dated:Official of Named Country.
 
@@ -32,7 +30,7 @@ Dated:Official of Named Country.
 
 (A) The program in which (name of physician) will participate is predominantly involved with observation, consultation, teaching, or research.
 
-(B) Any incidental patient contact involving the alien physician will be under the direct supervision of a physician who is a U.S. citizen or resident alien and who is licensed to practice medicine in the State of \_\_\_.
+(B) Any incidental patient contact involving the alien physician will be under the direct supervision of a physician who is a U.S. citizen or resident alien and who is licensed to practice medicine in the State of \_\_\_\_\_\_.
 
 (C) The alien physician will not be given final responsibility for the diagnosis and treatment of patients.
 
@@ -46,7 +44,7 @@ Dated:Official of Named Country.
 
 This certifies that the program in which (name of physician) is to be engaged does not include any clinical activities involving direct patient care.
 
-(e) *Duration of participation.* (1) The duration of an alien physician's participation in a program of graduate medical education or training as described in paragraph (b) of this section is limited to the time typically required to complete such program. Duration shall be determined by the Secretary of State of the Department of State at the time of the alien physician's entry into the United States. Such determination shall be based on criteria established in coordination with the Secretary of Health and Human Services and which take into consideration the requirements of the various medical specialty boards as evidenced in the Director of Medical Specialties published by Marquis Who's Who for the American Board of Medical Specialties.
+(e) *Duration of participation.* (1) The duration of an alien physician's participation in a program of graduate medical education or training as described in paragraph (b) of this section is limited to the time typically required to complete such program. Duration shall be determined by the Secretary of State at the time of the alien physician's entry into the United States. Such determination shall be based on criteria established in coordination with the Secretary of Health and Human Services and which take into consideration the requirements of the various medical specialty boards as set forth by the Accreditation Council for Graduate Medical Education (ACGME).
 
 (2) Duration of participation is limited to seven years unless the alien physician has demonstrated to the satisfaction of the Secretary of State that the country to which the alien physician will return at the end of additional specialty education or training has an exceptional need for an individual with such additional qualification.
 
@@ -54,7 +52,7 @@ This certifies that the program in which (name of physician) is to be engaged do
 
 (4) The Secretary of State may include within the duration of participation a period of supervised medical practice in the United States if such practice is an eligibility requirement for certification by a specialty board.
 
-(i) Alien physicians shall be permitted to undertake graduate medical education or training in a specialty or subspecialty program whose board requirements are not published in the Director of Medical Specialists if the Board requirements are certified to the Secretary of State and to the Educational Commission for Foreign Medical Graduates by the Executive Secretary of the cognizant component board of the American Board of Medical Specialties.
+(i) Alien physicians shall be permitted to undertake graduate medical education or training in a specialty or subspecialty program whose board and/or accreditation requirements are not published if the program requirements are certified to the Secretary of State by the ACGME in accordance with criteria established by the Educational Commission for Foreign Medical Graduates (ECFMG) and ACGME.
 
 (ii) The Secretary of State may, for good cause shown, grant an extension of the program to permit an alien physician to repeat one year of clinical medical training.
 
@@ -70,4 +68,4 @@ This certifies that the program in which (name of physician) is to be engaged do
 
 (2) Alien physicians coming to the United States for the purpose of observation, consultation, teaching, or research are not automatically subject to the two-year home-country physical presence requirement of section 212(e) of the Immigration and Nationality Act, as amended, but may be subject to this requirement if they are governmentally financed or pursuing a field of study set forth on their countries' Exchange Visitor Skills List. Such alien physicians are eligible for consideration of waivers under section 212(e) of the Immigration and Nationality Act, as amended, on the basis of “No Objection” statements submitted by their governments in their behalf through diplomatic channels to the Secretary of State of the Department of State.
 
-[58 FR 15196, Mar. 19, 1993; 58 FR 48448, Sept. 16, 1993. Redesignated at 64 FR 54539, Oct. 7, 1999]
+[58 FR 15196, Mar. 19, 1993; 58 FR 48448, Sept. 16, 1993. Redesignated at 64 FR 54539, Oct. 7, 1999, as amended at 86 FR 20287, Apr. 19, 2021]

@@ -786,7 +786,7 @@ The general requirements in § 214.1 are modified for the following nonimmigrant
 
 (2) *Petitions* - (i) *Filing of petitions* - (A) *General.* A United States employer seeking to classify an alien as an H-1B, H-2A, H-2B, or H-3 temporary employee must file a petition on the form prescribed by USCIS in accordance with the form instructions.
 
-(B) *Service or training in more than one location.* A petition that requires services to be performed or training to be received in more than one location must include an itinerary with the dates and locations of the services or training. The itinerary must be submitted to USCIS with the Petition for a Nonimmigrant Worker, or successor form, as provided in the form instructions. The address that the petitioner specifies as its location on the Petition for a Nonimmigrant Worker must be where the petitioner is located for purposes of this paragraph (h)(2)(i)(B). This paragraph (h)(2)(i)(B) does not apply to H-1B petitions.
+(B) *Service or training in more than one location.* A petition that requires services to be performed or training to be received in more than one location must include an itinerary with the dates and locations of the services or training and must be filed with USCIS as provided in the form instructions. The address that the petitioner specifies as its location on the Form I-129 shall be where the petitioner is located for purposes of this paragraph.
 
 (C) *Services or training for more than one employer.* If the beneficiary will perform nonagricultural services for, or receive training from, more than one employer, each employer must file a separate petition with USCIS as provided in the form instructions.
 
@@ -886,55 +886,9 @@ The general requirements in § 214.1 are modified for the following nonimmigrant
 
 (*6*) If the employer's labor condition application is suspended or invalidated by the Department of Labor, the Service will not suspend or revoke the employer's approved petitions for aliens already employed in specialty occupations if the employer has certified to the Department of Labor that it will comply with the terms of the labor condition application for the duration of the authorized stay of aliens it employs.
 
-(*7*)(*i*) The information provided on an H-1B petition and the evidence submitted in support of such petition may be verified by USCIS through lawful means as determined by USCIS, including telephonic and electronic verifications and on-site inspections. Such inspections may include, but are not limited to, a visit of the petitioning organization's facilities, interviews with the petitioning organization's officials, review of the petitioning organization's records related to compliance with immigration laws and regulations, and interviews with any other individuals or review of any other records that USCIS may lawfully obtain and that it considers pertinent to verify facts related to the adjudication of the H-1B petition, such as facts relating to the petitioner's and beneficiary's H-1B eligibility and compliance. An inspection may be conducted at locations including the petitioning organization's headquarters, satellite locations, or the location where the beneficiary works or will work, including third-party worksites, as applicable.
-
-(*ii*) USCIS may conduct on-site inspections or other compliance reviews as described in paragraph (h)(4)(i)(B)(*7*)(*i*) of this section at any time after the filing of an H-1B petition. If USCIS decides to conduct a pre-approval inspection, satisfactory completion of such inspection will be a condition for approval of any petition.
-
-(*iii*) USCIS conducts on-site inspections or other compliance reviews to verify facts related to the adjudication of the petition and compliance with H-1B petition requirements. If USCIS is unable to verify such facts due to the failure or refusal of the petitioner or a third-party worksite party to cooperate in an inspection or other compliance review, then such failure or refusal to cooperate and allow USCIS to verify facts may result in denial or revocation of any H-1B petition for H-1B workers performing services at the location or locations which are a subject of inspection or compliance review, including any third-party worksites.
-
 (C) *General requirements for petitions involving an alien of distinguished merit and ability in the field of fashion modeling.* H-1B classification may be granted to an alien who is of distinguished merit and ability in the field of fashion modeling. An alien of distinguished merit and ability in the field of fashion modeling is one who is prominent in the field of fashion modeling. The alien must also be coming to the United States to perform services which require a fashion model of prominence.
 
 (ii) *Definitions.*
-
-*Employer-employee relationship* means the conventional master-servant relationship consistent with the common law. The petitioner must establish that its offer of employment as stated in the petition is based on a valid employer-employee relationship that exists or will exist. In considering whether the petitioner has established that a valid “employer-employee relationship” exists or will exist, USCIS will assess and weigh all relevant aspects of the relationship with no one factor being determinative.
-
-(*1*) In cases where the H-1B beneficiary does not possess an ownership interest in the petitioning organization or entity, the factors that USCIS may consider to determine if a valid employment relationship will exist or continue to exist include, but are not limited to:
-
-(*i*) Whether the petitioner supervises the beneficiary and, if so, where such supervision takes place;
-
-(*ii*) Where the supervision is not at the petitioner's worksite, how the petitioner maintains such supervision;
-
-(*iii*) Whether the petitioner has the right to control the work of the beneficiary on a day-to-day basis and to assign projects;
-
-(*iv*) Whether the petitioner provides the tools or instrumentalities needed for the beneficiary to perform the duties of employment;
-
-(*v*) Whether the petitioner hires, pays, and has the ability to fire the beneficiary;
-
-(*vi*) Whether the petitioner evaluates the work-product of the beneficiary;
-
-(*vii*) Whether the petitioner claims the beneficiary as an employee for tax purposes;
-
-(*viii*) Whether the petitioner provides the beneficiary any type of employee benefits;
-
-(*ix*) Whether the beneficiary uses proprietary information of the petitioner in order to perform the duties of employment;
-
-(*x*) Whether the beneficiary produces an end-product that is directly linked to the petitioner's line of business; and
-
-(*xi*) Whether the petitioner has the ability to control the manner and means in which the work product of the beneficiary is accomplished.
-
-(*2*) In cases where the H-1B beneficiary possesses an ownership interest in the petitioning organization or entity, additional factors that USCIS may consider to determine if a valid employment relationship will exist or continue to exist include, but are not limited to:
-
-(*i*) Whether the petitioning entity can hire or fire the beneficiary or set the rules and parameters of the beneficiary's work;
-
-(*ii*) Whether and, if so, to what extent the petitioner supervises the beneficiary's work;
-
-(*iii*) Whether the beneficiary reports to someone higher in the petitioning entity;
-
-(*iv*) Whether and, if so, to what extent the beneficiary is able to influence the petitioning entity;
-
-(*v*) Whether the parties intended that the beneficiary be an employee, as expressed in written agreements or contracts; and
-
-(*vi*) Whether the beneficiary shares in the profits, losses, and liabilities of the organization or entity.
 
 *Prominence* means a high level of achievement in the field of fashion modeling evidenced by a degree of skill and recognition substantially above that ordinarily encountered to the extent that a person described as prominent is renowned, leading, or well-known in the field of fashion modeling.
 
@@ -948,33 +902,25 @@ The general requirements in § 214.1 are modified for the following nonimmigrant
 
 (*4*) The basis for the conclusions supported by copies or citations of any research material used.
 
-*Specialty occupation* means an occupation that requires:
+*Specialty occupation* means an occupation which requires theoretical and practical application of a body of highly specialized knowledge in fields of human endeavor including, but not limited to, architecture, engineering, mathematics, physical sciences, social sciences, medicine and health, education, business specialties, accounting, law, theology, and the arts, and which requires the attainment of a bachelor's degree or higher in a specific specialty, or its equivalent, as a minimum for entry into the occupation in the United States.
 
-(*1*) The theoretical and practical application of a body of highly specialized knowledge in fields of human endeavor, such as architecture, engineering, mathematics, physical sciences, social sciences, medicine and health, education, business specialties, accounting, law, theology, or the arts; and
+*United States employer* means a person, firm, corporation, contractor, or other association or organization in the United States which:
 
-(*2*) The attainment of a U.S. bachelor's degree or higher in a directly related specific specialty, or its equivalent, as a minimum for entry into the occupation in the United States. The required specialized studies must be directly related to the position. A position is not a specialty occupation if attainment of a general degree, such as business administration or liberal arts, without further specialization, is sufficient to qualify for the position. While a position may allow a range of degrees or apply multiple bodies of highly specialized knowledge, each of those qualifying degree fields must be directly related to the proffered position.
+(*1*) Engages a person to work within the United States;
 
-*Third-party worksite* means a worksite, other than the beneficiary's residence in the United States, that is not owned or leased, and not operated, by the petitioner.
-
-*United States employer* means a person, firm, corporation, company, or other association or organization in the United States which:
-
-(*1*) Engages the beneficiary to work within the United States, and has a bona fide, non-speculative job offer for the beneficiary;
-
-(*2*) Has an employer-employee relationship with respect to employees under this part; and
+(*2*) Has an employer-employee relationship with respect to employees under this part; as indicated by the fact that it may hire, pay, fire, supervise, or otherwise control the work of any such employee; and
 
 (*3*) Has an Internal Revenue Service Tax identification number.
 
-*Worksite* means the physical location where the work actually is performed by the H-1B nonimmigrant. A “worksite” will not include any location that would not be considered a “worksite” for Labor Condition Application (LCA) purposes.
+(iii) *Criteria for H-1B petitions involving a specialty occupation* - (A) *Standards for specialty occupation position.* To qualify as a specialty occupation, the position must meet one of the following criteria:
 
-(iii) *Criteria for H-1B petitions involving a specialty occupation* - (A) *Criteria for specialty occupation position.* A proffered position does not meet the definition of specialty occupation in paragraph (h)(4)(ii) of this section unless it also satisfies at least one of the following criteria:
+(*1*) A baccalaureate or higher degree or its equivalent is normally the minimum requirement for entry into the particular position;
 
-(*1*) A U.S. baccalaureate or higher degree in a directly related specific specialty, or its equivalent, is the minimum requirement for entry into the particular occupation in which the beneficiary will be employed;
+(*2*) The degree requirement is common to the industry in parallel positions among similar organizations or, in the alternative, an employer may show that its particular position is so complex or unique that it can be performed only by an individual with a degree;
 
-(*2*) A U.S. baccalaureate or higher degree in a directly related specific specialty, or its equivalent, is the minimum requirement for entry into parallel positions at similar organizations in the employer's United States industry;
+(*3*) The employer normally requires a degree or its equivalent for the position; or
 
-(*3*) The employer has an established practice of requiring a U.S. baccalaureate or higher degree in a directly related specific specialty, or its equivalent, for the position. The petitioner must also establish that the proffered position requires such a directly related specialty degree, or its equivalent, to perform its duties; or
-
-(*4*) The specific duties of the proffered position are so specialized, complex, or unique that they can only be performed by an individual with a U.S. baccalaureate or higher degree in a directly related specific specialty, or its equivalent.
+(*4*) The nature of the specific duties are so specialized and complex that knowledge required to perform the duties is usually associated with the attainment of a baccalaureate or higher degree.
 
 (B) *Petitioner requirements.* The petitioner shall submit the following with an H-1B petition involving a specialty occupation:
 
@@ -1027,8 +973,6 @@ The general requirements in § 214.1 are modified for the following nonimmigrant
 (*2*) Affidavits or declarations made under penalty of perjury submitted by present or former employers or recognized authorities certifying as to the recognition and expertise of the beneficiary shall specifically describe the beneficiary's recognition and ability in factual terms and must set forth the expertise of the affiant and the manner in which the affiant acquired such information.
 
 (B) Copies of any written contracts between the petitioner and beneficiary, or a summary of the terms of the oral agreement under which the beneficiary will be employed, if there is no written contract.
-
-(C) The petitioner must establish, at the time of filing, that it has actual work in a specialty occupation available for the beneficiary as of the start date of the validity period as requested on the petition. When a beneficiary will be placed at one or more third-party worksites, the petitioner must submit evidence such as contracts, work orders, or other similar corroborating evidence showing that the beneficiary will perform services in a specialty occupation at the third-party worksite(s), and that the petitioner will have an employer-employee relationship with the beneficiary. In accordance with 8 CFR 103.2(b) and paragraph (h)(9) of this section, USCIS may request copies of contracts, work orders, or other similar corroborating evidence on a case-by-case basis in all cases, regardless of where the beneficiary will be placed.
 
 (v) *Licensure for H classification* - (A) *General.* If an occupation requires a state or local license for an individual to fully perform the duties of the occupation, an alien (except an H-1C nurse) seeking H classification in that occupation must have that license prior to approval of the petition to be found qualified to enter the United States and immediately engage in employment in the occupation.
 
@@ -1502,21 +1446,19 @@ The general requirements in § 214.1 are modified for the following nonimmigrant
 
 (vii) *H-2B numerical limitations.* When calculating the numerical limitations under section 214(g)(1)(B) and 214(g)(10) of the Act for a given fiscal year, USCIS will make numbers available to petitions in the order in which the petitions are filed. USCIS will make projections of the number of petitions necessary to achieve the numerical limit of approvals, taking into account historical data related to approvals, denials, revocations, and other relevant factors. USCIS will monitor the number of petitions (including the number of beneficiaries requested when necessary) received and will notify the public of the date that USCIS has received the necessary number of petitions (the “final receipt date”). The day the public is notified will not control the final receipt date. When necessary to ensure the fair and orderly allocation of numbers subject to the numerical limitations in 214(g)(1)(B) and 214(g)(10) of the Act, USCIS may randomly select from among the petitions received on the final receipt date the remaining number of petitions deemed necessary to generate the numerical limit of approvals. This random selection will be made via computer-generated selection. Petitions subject to a numerical limitation not randomly selected or that were received after the final receipt date will be rejected. Petitions indicating that they are exempt from the numerical limitation but that are determined by USCIS after the final receipt date to be subject to the numerical limit will be denied and filing fees will not be returned or refunded. If the final receipt date is any of the first five business days on which petitions subject to the applicable numerical limit may be received (*i.e.,* if the numerical limit is reached on any one of the first five business days that filings can be made), USCIS will randomly apply all of the numbers among the petitions received on any of those five business days.
 
-(9) *Approval and validity of petition* - (i)(A) *Approval.* USCIS will consider all the evidence submitted and any other evidence independently required to assist in adjudication. USCIS will notify the petitioner of the approval of the petition on a Notice of Action. The approval notice will include the beneficiary's (or beneficiaries') name(s) and classification and the petition's period of validity. A petition for more than one beneficiary and/or multiple services may be approved in whole or in part. The approval notice will cover only those beneficiaries approved for classification under section 101(a)(15)(H) of the Act.
-
-(B) Where the petition is approved with an earlier validity period end date than requested by the petitioner, the approval notice will provide or be accompanied by a brief explanation for the validity period granted.
+(9) *Approval and validity of petition* - (i) *Approval.* USCIS will consider all the evidence submitted and any other evidence independently required to assist in adjudication. USCIS will notify the petitioner of the approval of the petition on a Notice of Action. The approval notice will include the beneficiary's (or beneficiaries') name(s) and classification and the petition's period of validity. A petition for more than one beneficiary and/or multiple services may be approved in whole or in part. The approval notice will cover only those beneficiaries approved for classification under section 101(a)(15)(H) of the Act.
 
 (ii) *Recording the validity of petitions.* Procedures for recording the validity period of petitions are:
 
-(A) If a new H petition is approved before the date the petitioner indicates that the services or training will begin, the approved petition and approval notice shall show the actual dates requested by the petitoner as the validity period, not to exceed the limits specified by paragraph (h)(9)(iii) of this section or other Service policy.
+(A) If a new H petition is approved before the date the petitioner indicates that the services or training will begin, the approved petition and approval notice shall show the actual dates requested by the petitioner as the validity period, not to exceed the limits specified by paragraph (h)(9)(iii) of this section or other Service policy.
 
-(B) If a new H petition is approved after the date the petitioner indicates that the services or training will begin, the aproved petition and approval notice shall show a validity period commencing with the date of approval and ending with the date requested by the petitioner, as long as that date does not exceed either the limits specified by paragraph (h)(9)(iii) of this section or other Service policy.
+(B) If a new H petition is approved after the date the petitioner indicates that the services or training will begin, the approved petition and approval notice shall show a validity period commencing with the date of approval and ending with the date requested by the petitioner, as long as that date does not exceed either the limits specified by paragraph (h)(9)(iii) of this section or other Service policy.
 
 (C) If the period of services or training requested by the petitioner exceeds the limit specified in paragraph (h)(9)(iii) of this section, the petition shall be approved only up to the limit specified in that paragraph.
 
 (iii) *Validity.* The initial approval period of an H petition shall conform to the limits prescribed as follows:
 
-(A)(*1*) *H-1B petition in a specialty occupation.* The maximum validity period for an approved petition classified under section 101(a)(15)(H)(i)(b) of the Act for an alien in a specialty occupation is 3 years. However, where the beneficiary will be working at a third-party worksite, the maximum validity period for an approved petition is 1 year. In all instances, the approved petition may not exceed the validity period of the labor condition application.
+(A)(*1*) *H-1B petition in a specialty occupation.* An approved petition classified under section 101(a)(15)(H)(i)(b) of the Act for an alien in a specialty occupation shall be valid for a period of up to three years but may not exceed the validity period of the labor condition application.
 
 (*2*) *H-1B petition involving a DOD research and development or coproduction project.* An approved petition classified under section 101(a)(15)(H)(i)(b) of the Act for an alien involved in a DOD research and development project or a coproduction project shall be valid for a period of up to five years.
 
@@ -1754,9 +1696,7 @@ The general requirements in § 214.1 are modified for the following nonimmigrant
 
 (vi) Authorization to initiate employment changes pursuant to paragraphs (h)(23)(ii) and (iii) of this section, or be approved for employment exceeding 3 years in duration pursuant to paragraph (h)(23)(iv) of this section, begins on May 14, 2020, and ends at the end of September 11, 2020.
 
-(24) *Severability.* (i) [Reserved]
-
-(ii) The following provisions added or revised by the changes made to the H-1B nonimmigrant visa classification program, as of December 7, 2020, are intended to be implemented as separate and severable from one another: paragraphs (h)(2)(i), (h)(4)(i)(B)(*7*), (h)(4)(ii) (definitions of employer-employee, specialty occupation, third-party worksite, U.S. employer, and worksite), (h)(4)(iii)(A), (h)(4)(iv)(C), (h)(9)(i)(B), and (h)(9)(iii)(A)(*1*) of this section. If one or more of the paragraphs in the preceding sentence is not implemented, DHS intends that the remaining paragraphs will remain valid and be implemented to the greatest extent possible.
+(24) *Severability.* (i)-(ii) [Reserved]
 
 (i) *Representatives of information media* - (1) *In general.* The admission of an alien of the class defined in section 101(a)(15)(I) of the Act constitutes an agreement by the alien not to change the information medium or his or her employer until he or she obtains permission to do so from the district director having jurisdiction over his or her residence. An alien classified as an information media nonimmigrant (I) may be admitted in or otherwise granted I nonimmigrant status for:
 
@@ -2802,7 +2742,7 @@ The general requirements in § 214.1 are modified for the following nonimmigrant
 
 (17) *Use of approval of notice, Form I-797.* The Service has notify the petitioner on Form I-797 whenever a visa petition or an extension of a visa petition is approved under the P classification. The beneficiary of a P petition who does not require a nonimmigrant visa may present a copy of the approved notice at a Port-of-Entry to facilitate entry into the United States. A beneficiary who is required to present a visa for admission, and whose visa expired before the date of his or her intended return, may use Form I-797 to apply for a new or revalidated visa during the validity period of the petition. The copy of Form I-797 shall be retained by the beneficiary and present during the validity of the petition when reentering the United States to resume the same employment with the same petitioner.
 
-(18) *Return transportation requirement.* In the case of an alien who enters the United States under section 101(a)(15)(P) of the Act and whose employment terminates for reasons other than voluntary resignation, the employer whose offer of employment formed the basis of suh nonimmigrant status and the petitioner are jointly and severally liable for the reasonable cost of return transporation of the alien abroad. For the purposes of this paragraph, the term “abroad” means the alien's last place of residence prior to his or her entry into the United States.
+(18) *Return transportation requirement.* In the case of an alien who enters the United States under section 101(a)(15)(P) of the Act and whose employment terminates for reasons other than voluntary resignation, the employer whose offer of employment formed the basis of suh nonimmigrant status and the petitioner are jointly and severally liable for the reasonable cost of return transportation of the alien abroad. For the purposes of this paragraph, the term “abroad” means the alien's last place of residence prior to his or her entry into the United States.
 
 (q) *Cultural visitors* - (1)(i) *International cultural exchange visitors program.* Paragraphs (q)(2) through (q)(11) of this section provide the rules governing nonimmigrant aliens who are visiting the United States temporarily in an international cultural exchange visitors program (Q-1).
 
