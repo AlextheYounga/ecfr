@@ -1,5 +1,7 @@
 ##### § 1651.19 Beneficiary participant accounts. #####
 
+Link to an amendment published at 84 FR 46423, Sept. 4, 2019.
+
 A beneficiary participant account may be established only for a spouse of a deceased participant who is a sole or partial beneficiary of the deceased participant's TSP account. Beneficiary participant accounts are subject to the following rules and procedures:
 
 (a) *Initial investment allocation.* Regardless of the allocation of the deceased participant's account balance at the time of his or her death, each beneficiary participant account, once established, will be allocated 100 percent to the age-appropriate TSP Lifecycle Fund based on the beneficiary participant's date of birth. A beneficiary participant may redistribute his or her beneficiary participant account balance among the TSP investment funds by making an interfund transfer request described in part 1601, subpart C of this chapter.

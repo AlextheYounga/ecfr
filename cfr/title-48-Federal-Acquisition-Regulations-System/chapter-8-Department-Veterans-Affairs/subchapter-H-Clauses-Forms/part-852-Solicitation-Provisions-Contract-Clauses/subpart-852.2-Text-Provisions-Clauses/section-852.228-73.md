@@ -1,5 +1,7 @@
 ##### 852.228-73 Indemnification of contractor - hazardous research projects. #####
 
+Link to an amendment published at 84 FR 46455, Sept. 4, 2019.
+
 As prescribed in 828.7003, insert the following clause:
 
 Indemnification of Contractor - Hazardous Research Projects (DATE)

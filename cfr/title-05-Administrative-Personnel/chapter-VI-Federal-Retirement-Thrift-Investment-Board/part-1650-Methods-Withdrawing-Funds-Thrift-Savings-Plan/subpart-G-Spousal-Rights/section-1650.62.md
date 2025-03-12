@@ -1,5 +1,7 @@
 ##### § 1650.62 Spousal rights applicable to in-service withdrawals. #####
 
+Link to an amendment published at 84 FR 46423, Sept. 4, 2019.
+
 (a) The spousal rights described in this section apply to all in-service withdrawals and do not depend on the amount of the participant's vested account balance or the amount requested for withdrawal.
 
 (b) The spouse of a CSRS participant is entitled to notice when the participant applies for an in-service withdrawal, unless the participant was granted an exception under this subpart to the spousal notification requirement within 90 days of the date on which the withdrawal request is processed by the TSP. If the TSP granted the participant an exception to the notice requirement, the participant should enclose a copy of the TSP's approval letter with the withdrawal form. The participant must provide the TSP record keeper with the spouse's correct address. The TSP record keeper will send the required notice by first class mail to the spouse at the most recent address provided by the participant.

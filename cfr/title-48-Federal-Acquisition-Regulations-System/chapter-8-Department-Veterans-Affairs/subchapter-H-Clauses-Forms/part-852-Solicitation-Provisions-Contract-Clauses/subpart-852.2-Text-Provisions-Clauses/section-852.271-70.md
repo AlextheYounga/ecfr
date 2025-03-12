@@ -1,5 +1,7 @@
 ##### 852.271-70 Nondiscrimination in services provided to beneficiaries. #####
 
+Link to an amendment published at 84 FR 46457, Sept. 4, 2019.
+
 As prescribed in 837.110-70 and 871.212, insert the following provision:
 
 Nondiscrimination in Services Provided to Beneficiaries (JAN 2008)

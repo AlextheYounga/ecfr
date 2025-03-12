@@ -1,5 +1,7 @@
 ##### 852.216-74 Economic price adjustment - medicaid labor rates. #####
 
+Link to an amendment published at 84 FR 46455, Sept. 4, 2019.
+
 As prescribed in 816.203-4(e)(4), insert the following clause:
 
 Economic Price Adjustment - Medicaid Labor Rates (DATE)

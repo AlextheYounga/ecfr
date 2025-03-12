@@ -1,5 +1,7 @@
 ##### § 1650.25 Transfers from the TSP. #####
 
+Link to an amendment published at 84 FR 46422, Sept. 4, 2019.
+
 (a) The TSP will, at the participant's election, transfer all or any portion of an eligible rollover distribution (as defined by section 402(c)(4) of the Internal Revenue Code) of $200 or more directly to an eligible employer plan or an IRA.
 
 (b) If a withdrawal includes a payment from a participant's traditional balance and a payment from the participant's Roth balance, the TSP will, at the participant's election, transfer all or a portion of the payment from the traditional balance to a single plan or IRA and all or a portion of the payment from the Roth balance to another plan or IRA. The TSP will also allow the traditional and Roth portions of a payment to be transferred to the same plan or IRA but, for each type of balance, the election must be made separately by the participant and each type of balance will be transferred separately. However, the TSP will not transfer portions of the participant's traditional balance to two different institutions or portions of the participant's Roth balance to two different institutions.

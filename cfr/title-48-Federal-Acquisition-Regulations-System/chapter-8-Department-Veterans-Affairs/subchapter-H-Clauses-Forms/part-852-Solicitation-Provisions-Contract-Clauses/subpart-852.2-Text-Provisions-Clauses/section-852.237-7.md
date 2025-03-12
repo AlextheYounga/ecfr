@@ -1,5 +1,7 @@
 ##### 852.237-7 Indemnification and medical liability insurance. #####
 
+Link to an amendment published at 84 FR 46455, Sept. 4, 2019.
+
 As prescribed in 837.403, insert the following clause:
 
 Indemnification and Medical Liability Insurance (JAN 2008)

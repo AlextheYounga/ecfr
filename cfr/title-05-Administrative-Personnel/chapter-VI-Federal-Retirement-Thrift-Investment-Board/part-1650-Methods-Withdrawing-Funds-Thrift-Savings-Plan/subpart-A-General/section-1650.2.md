@@ -1,5 +1,7 @@
 ##### § 1650.2 Eligibility and general rules for a TSP withdrawal. #####
 
+Link to an amendment published at 84 FR 46420, Sept. 4, 2019.
+
 (a) A participant who is separated from Government service can elect to withdraw a portion of his or her account balance in a single payment, or the entire account balance by one or a combination of the withdrawal methods described in subpart B of this part.
 
 (b) A post-employment withdrawal will not be paid unless TSP records indicate that the participant is separated from Government service. The TSP will cancel a post-employment withdrawal election upon receiving information from an employing agency that a participant is no longer separated.

@@ -101,18 +101,18 @@ Since C attained age 62 in 1982, his computation base years are 1951 through 198
 
 *Step 3:* Compute the pro rata PIA:
 
-|                       |      Theoretical PIA      |   |
-|-----------------------|---------------------------|---|
-|                       |    − Actual U.S. QC's     |   |
-|                       |   calendar quarters in    |   |
-|                       | benefit computation years |   |
-|                       |                           |   |
-|                       |                           |   |
-|                       |$453 − 26 QC's (61/2 years)|   |
-|                       |  104 quarters (26 years)  |   |
-|                       |                           |   |
-|                       |                           |   |
-|\= $113.20 pro rata PIA|                           |   |
+|                       |                 Theoretical PIA                 |   |
+|-----------------------|-------------------------------------------------|---|
+|                       |               − Actual U.S. QC's                |   |
+|                       |              calendar quarters in               |   |
+|                       |            benefit computation years            |   |
+|                       |                                                 |   |
+|                       |                                                 |   |
+|                       |$453 − 26 QC's (6<sup>1</sup>⁄<sub>2</sub> years)|   |
+|                       |             104 quarters (26 years)             |   |
+|                       |                                                 |   |
+|                       |                                                 |   |
+|\= $113.20 pro rata PIA|                                                 |   |
 
 Example 2:M needs 27 QC's to be insured, but she has only 3 years of work (12 QC's) under the U.S. system. M has enough foreign work, however, to be insured. She attained age 62 in 1978, and her U.S. covered earnings were in 1947, 1948 and 1949. Based on M's date of birth, her theoretical PIA can be computed, in accordance with § 404.220, under a new start method. If M's earnings in 1947, 1948, and 1949 were 50 percent, 60 percent and 70 percent, respectively, of the average wage for each year, her REP would be 60 percent. For each year in the computation period, 60 percent of the average wage for that year will be attributed as M's assumed earnings. The theoretical PIA will then be computed as described in §§ 404.220 through 404.222.
 

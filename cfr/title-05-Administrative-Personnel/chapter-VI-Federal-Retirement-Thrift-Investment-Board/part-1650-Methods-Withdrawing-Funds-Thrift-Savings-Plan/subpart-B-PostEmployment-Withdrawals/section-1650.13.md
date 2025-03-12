@@ -1,5 +1,7 @@
 ##### § 1650.13 Monthly payments. #####
 
+Link to an amendment published at 84 FR 46420, Sept. 4, 2019.
+
 (a) A participant electing a full post-employment withdrawal (*i.e.,* a withdrawal of his or her entire account) can elect to withdraw all or a portion of the account balance in a series of substantially equal monthly payments, to be paid in one of the following manners:
 
 (1) *A specific dollar amount.* The amount elected must be at least $25 per month; if the amount elected is less than $25 per month, the request will be rejected. Payments will be made in the amount requested each month until the account balance is expended.

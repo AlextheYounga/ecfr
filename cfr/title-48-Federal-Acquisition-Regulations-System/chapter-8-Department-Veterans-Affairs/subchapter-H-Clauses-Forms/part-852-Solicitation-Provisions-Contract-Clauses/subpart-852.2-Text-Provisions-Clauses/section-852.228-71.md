@@ -1,5 +1,7 @@
 ##### 852.228-71 Indemnification and insurance. #####
 
+Link to an amendment published at 84 FR 46455, Sept. 4, 2019.
+
 As prescribed in 828.306, insert the following clause:
 
 Indemnification and Insurance (DATE)

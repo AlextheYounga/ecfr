@@ -1,5 +1,7 @@
 ##### § 1650.14 Annuities. #####
 
+Link to an amendment published at 84 FR 46421, Sept. 4, 2019.
+
 (a) A participant electing a full post-employment withdrawal can use all or a portion of his or her account balance to purchase a life annuity.
 
 (b) If a participant has a traditional balance and a Roth balance, the TSP must purchase two separate annuity contracts for the participant: One from the portion of the withdrawal distributed from his or her traditional balance and one from the portion of the withdrawal distributed from his or her Roth balance.

@@ -1,5 +1,7 @@
 ##### 852.216-75 Economic price adjustment clause - fuel surcharge. #####
 
+Link to an amendment published at 84 FR 46455, Sept. 4, 2019.
+
 As prescribed in 816.203-4(e)(5), insert the following clause:
 
 Economic Price Adjustment Clause - Fuel Surcharge (DATE)

@@ -1,5 +1,7 @@
 ##### 852.215-71 Evaluation factor commitments. #####
 
+Link to an amendment published at 84 FR 46454, Sept. 4, 2019.
+
 As prescribed in 815.304-71(b), insert the following clause:
 
 Evaluation Factor Commitments (DEC 2009)

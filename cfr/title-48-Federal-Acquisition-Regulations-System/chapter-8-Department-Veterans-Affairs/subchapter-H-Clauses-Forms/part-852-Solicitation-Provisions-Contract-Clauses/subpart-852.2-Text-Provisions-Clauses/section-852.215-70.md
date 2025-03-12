@@ -1,5 +1,7 @@
 ##### 852.215-70 Service-disabled veteran-owned and veteran-owned small business evaluation factors. #####
 
+Link to an amendment published at 84 FR 46454, Sept. 4, 2019.
+
 As prescribed in 815.304-71(a), insert the following clause:
 
 Service-Disabled Veteran-Owned and Veteran-Owned Small Business Evaluation Factors (DEC 2009)

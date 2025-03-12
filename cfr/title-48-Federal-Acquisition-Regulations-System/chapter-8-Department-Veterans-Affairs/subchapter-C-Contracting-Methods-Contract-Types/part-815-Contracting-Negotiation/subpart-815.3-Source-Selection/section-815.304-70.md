@@ -1,5 +1,7 @@
 ##### 815.304-70 Evaluation factor commitments. #####
 
+Link to an amendment published at 84 FR 46452, Sept. 4, 2019.
+
 (a) VA contracting officers shall:
 
 (1) Include provisions in negotiated solicitations giving preference to offers received from VOSBs and additional preference to offers received from SDVOSBs;

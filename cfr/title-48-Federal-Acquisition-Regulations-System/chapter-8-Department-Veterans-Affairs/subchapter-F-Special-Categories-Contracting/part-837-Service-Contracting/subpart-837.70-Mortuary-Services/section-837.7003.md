@@ -1,5 +1,7 @@
 ##### 837.7003 Funeral authorization. #####
 
+Link to an amendment published at 84 FR 46454, Sept. 4, 2019.
+
 (a) When a veteran dies while receiving care in a VA health care facility or in a non-VA institution at VA's expense, and the decedent's remains are unclaimed, the Chief, MAS, or the person designated by the facility director to perform these functions, will forward to the HCA a properly executed VA form 10-2065, Funeral Arrangements, requesting that funeral and burial services for the deceased be procured.
 
 (b) The contracting officer will enter into negotiations with local funeral directors to procure a complete funeral and burial service within the statutory allowance of $300. The purchase order must list the specific services to be provided. The services must consist of the following:

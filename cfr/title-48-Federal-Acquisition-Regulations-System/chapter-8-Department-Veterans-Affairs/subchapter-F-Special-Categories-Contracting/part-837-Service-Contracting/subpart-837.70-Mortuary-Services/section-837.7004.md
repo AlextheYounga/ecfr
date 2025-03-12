@@ -1,5 +1,7 @@
 ##### 837.7004 Administrative necessity. #####
 
+Link to an amendment published at 84 FR 46454, Sept. 4, 2019.
+
 (a) VA may make arrangements and assume expenses for local burial under separate contractual agreement when:
 
 (1) A person dies under VA care who is not legally entitled to such care at VA's expense;

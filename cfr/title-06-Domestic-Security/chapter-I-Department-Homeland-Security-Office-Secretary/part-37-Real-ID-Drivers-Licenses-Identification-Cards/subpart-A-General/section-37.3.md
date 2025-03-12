@@ -76,16 +76,18 @@ For purposes of this part:
 
 *State* means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-*State address confidentiality program* means any State-authorized or State-administered program that -
+*State address confidentiality program* means any State-authorized or State-administered program that—
 
 (1) Allows victims of domestic violence, dating violence, sexual assault, stalking, or a severe form of trafficking to keep, obtain, and use alternative addresses; or
 
 (2) Provides confidential record-keeping regarding the addresses of such victims or other categories of persons.
 
-*Temporary lawful status:* A person in temporary lawful status is a person who: has a valid nonimmigrant status in the United States; has a pending application for asylum in the United States; has a pending or approved application for temporary protected status (TPS) in the United States; has approved deferred action status; or has a pending application for LPR or conditional permanent resident status.
+*Temporary lawful status:* A person in temporary lawful status is a person who: Has a valid nonimmigrant status in the United States (other than a person admitted as a nonimmigrant under the Compacts of Free Association between the United States and the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau); has a pending application for asylum in the United States; has a pending or approved application for temporary protected status (TPS) in the United States; has approved deferred action status; or has a pending application for LPR or conditional permanent resident status.
 
 *Verify* means procedures to ensure that:
 
 (1) The source document is genuine and has not been altered (*i.e.*, “document authentication”); and
 
 (2) The identity data contained on the document is valid (“data verification”).
+
+[73 FR 5331, Jan. 29, 2008, as amended at 84 FR 46426, Sept. 4, 2019]

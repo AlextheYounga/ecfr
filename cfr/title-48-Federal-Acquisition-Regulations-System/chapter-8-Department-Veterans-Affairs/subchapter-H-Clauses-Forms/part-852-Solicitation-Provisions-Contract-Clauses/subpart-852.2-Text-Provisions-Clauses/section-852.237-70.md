@@ -1,5 +1,7 @@
 ##### 852.237-70 Contractor responsibilities. #####
 
+Link to an amendment published at 84 FR 46455, Sept. 4, 2019.
+
 As prescribed in 837.110, insert the following clause:
 
 Contractor Responsibilities (APR 1984)

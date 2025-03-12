@@ -1,5 +1,7 @@
 ##### 871.212 Contract clauses. #####
 
+Link to an amendment published at 84 FR 46457, Sept. 4, 2019.
+
 Contracting officers must use the following clauses, as appropriate, in solicitations and contracts for vocational rehabilitation and employment services as they pertain to training and rehabilitation services and contracts for counseling services:
 
 (a) 852-271-70 Nondiscrimination in services provided to beneficiaries.
