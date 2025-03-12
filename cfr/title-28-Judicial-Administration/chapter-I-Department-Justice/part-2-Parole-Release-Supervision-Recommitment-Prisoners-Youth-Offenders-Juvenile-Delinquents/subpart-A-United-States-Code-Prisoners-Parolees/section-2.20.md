@@ -468,7 +468,7 @@ If in connection with another offense for which a severity rating can be assesse
 
 Subchapter C - Official Corruption621 *Bribery or Extortion [use of official position - no physical threat]*
 
-(a)Grade as a “theft offense” according to the value of the bribe demanded or received, or the favor received by the bribe-giver (whichever is greater), but not less than Category Three. The “favor received” is the gross value of the property, contract, obligation, interest, or payment intended to be awarded to the bribe-giver in return for the bribe. Grade the bribe-taker in the same manner.
+(a) Grade as a “theft offense” according to the value of the bribe demanded or received, or the favor received by the bribe-giver (whichever is greater), but not less than Category Three. The “favor received” is the gross value of the property, contract, obligation, interest, or payment intended to be awarded to the bribe-giver in return for the bribe. Grade the bribe-taker in the same manner.
 
 (b) If the above conduct involves a pattern of corruption (e.g., multiple instances), grade as not less than Category Four.
 

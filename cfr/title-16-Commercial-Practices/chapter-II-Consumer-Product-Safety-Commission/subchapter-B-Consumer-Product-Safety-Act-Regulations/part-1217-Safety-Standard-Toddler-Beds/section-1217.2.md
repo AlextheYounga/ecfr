@@ -1,7 +1,5 @@
 ##### § 1217.2 Requirements for toddler beds. #####
 
-Link to an amendment published at 82 FR 11320, Feb. 22, 2017.
+Each toddler bed shall comply with all applicable provisions of ASTM F1821-16, Standard Consumer Safety Specification for Toddler Beds, approved October 1, 2016. The Director of the Federal Register approves the incorporation by reference listed in this section in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may obtain a copy of this ASTM standard from ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428-2959 USA; phone: 610-832-9585; *http://www.astm.org/.* You may inspect a copy at the Office of the Secretary, U.S. Consumer Product Safety Commission, Room 820, 4330 East West Highway, Bethesda, MD 20814, telephone 301-504-7923, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federalregulations/ibr\_locations.html.*
 
-Each toddler bed shall comply with all applicable provisions of ASTM F1821-13, Standard Consumer Safety Specification for Toddler Beds, approved on June 1, 2013. The Director of the Federal Register approves this incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may obtain a copy from ASTM International, 100 Barr Harbor Drive, P.O. Box 0700, West Conshohocken, PA 19428; telephone 610-832-9585; *www.astm.org.* You may inspect a copy at the Office of the Secretary, U.S. Consumer Product Safety Commission, Room 820, 4330 East West Highway, Bethesda, MD 20814, telephone 301-504-7923, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
-
-[79 FR 73696, Dec. 9, 2013]
+[82 FR 11320, Feb. 22, 2017]

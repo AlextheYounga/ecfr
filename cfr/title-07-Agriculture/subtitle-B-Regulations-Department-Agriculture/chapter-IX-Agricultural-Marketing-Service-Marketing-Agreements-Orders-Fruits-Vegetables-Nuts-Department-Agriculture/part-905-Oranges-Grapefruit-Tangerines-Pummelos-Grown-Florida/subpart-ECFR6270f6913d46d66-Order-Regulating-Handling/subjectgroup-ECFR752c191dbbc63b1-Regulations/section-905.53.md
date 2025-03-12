@@ -1,0 +1,7 @@
+##### § 905.53 Inspection and certification. #####
+
+(a) Whenever the handling of a variety of a type of fruit is regulated pursuant to § 905.52, each handler who handles any variety of such type of fruit shall, prior to the handling of any lot of such variety, cause such lot to be inspected by the Federal-State Inspection Service and certified by it as meeting all applicable requirements of such regulation: *Provided,* That such inspection and certification shall not be required if the particular lot of fruit previously had been so inspected and certified unless such prior inspection was not performed within such time limitations as may be prescribed pursuant to paragraph (b) of this section. Each handler shall promptly submit, or cause to be submitted, to the committee a copy of each certificate of inspection issued to him covering varieties so handled.
+
+(b) With respect to any variety regulated pursuant to § 905.52(a)(4), the committee may prescribe, with the approval of the Secretary, such requirements with respect to time of inspection as it may deem necessary to insure satisfactory condition of the fruit at time of export.
+
+[22 FR 10734, Dec. 27, 1957. Redesignated at 26 FR 12751, Dec. 30, 1961, as amended at 42 FR 59371, Nov. 17, 1977]

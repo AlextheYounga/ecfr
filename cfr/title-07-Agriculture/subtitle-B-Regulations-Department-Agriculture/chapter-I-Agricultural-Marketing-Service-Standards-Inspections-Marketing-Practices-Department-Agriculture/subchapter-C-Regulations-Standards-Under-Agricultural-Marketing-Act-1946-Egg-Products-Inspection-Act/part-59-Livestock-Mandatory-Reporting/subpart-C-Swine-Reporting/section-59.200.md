@@ -1,7 +1,5 @@
 ##### § 59.200 Definitions. #####
 
-Link to an amendment published at 81 FR 52973, Aug. 11, 2016.
-
 The following definitions apply to this subpart.
 
 *Affiliate.* The term “affiliate”, with respect to a packer, means:
