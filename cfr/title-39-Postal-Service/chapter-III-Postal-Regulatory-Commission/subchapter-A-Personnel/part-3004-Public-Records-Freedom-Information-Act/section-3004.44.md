@@ -1,5 +1,7 @@
 ##### § 3004.44 Appeals. #####
 
+Link to an amendment published at 82 FR 12508, Mar. 6, 2017.
+
 (a) The Commission may review any decision of the Secretary or Assistant Secretary on its own initiative.
 
 (b) A requester who seeks to appeal any denial must file an appeal with the Commission.

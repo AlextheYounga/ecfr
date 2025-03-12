@@ -1,5 +1,7 @@
 ##### § 3004.45 Extension of response time limit. #####
 
+Link to an amendment published at 82 FR 12508, Mar. 6, 2017.
+
 (a) The Commission may extend the time limit for a response at the request stage and at the appeal stage up to 10 working days due to unusual circumstances as specified in 5 U.S.C. 552(a)(6)(B)(iii).
 
 (b) The Commission will:

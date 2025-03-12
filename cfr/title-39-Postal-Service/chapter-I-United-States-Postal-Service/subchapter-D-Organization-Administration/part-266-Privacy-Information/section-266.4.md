@@ -48,7 +48,7 @@
 
 (xi) Pursuant to the order of a court of competent jurisdiction.
 
-(3) *Names and Addresses of Postal Customers.* The disclosure of lists of names or addresses of Postal customers or other persons to the public is prohibited (39 U.S.C. 412). Names or addresses will be disclosed only in those cases permitted by 39 CFR 265.6(d) relating to the Release of Information.
+(3) *Names and Addresses of Postal Customers.* The disclosure of lists of names or addresses of Postal customers or other persons to the public is prohibited (39 U.S.C. 412). Names or addresses of Postal Service customers will be disclosed only in those cases permitted by 39 CFR 265.14(d) relating to the Release of Information.
 
 (4) *Employee Credit References.* A credit bureau or commercial firm from which an employee is seeking credit may be given the following information upon request: grade, duty status, length of service, job title, and salary.
 
@@ -72,4 +72,4 @@
 
 (3) The accounting will be made available to the individual named in the record upon inquiry, except for disclosures made pursuant to provision paragraph (b)(2)(viii) of this section relating to law enforcement activities.
 
-[40 FR 45723, Oct. 2, 1975, as amended at 45 FR 44272, July 1, 1980; 58 FR 62036, Nov. 24, 1993; 59 FR 37160, July 21, 1994; 64 FR 41291, July 30, 1999; 68 FR 56560, Oct. 1, 2003]
+[40 FR 45723, Oct. 2, 1975, as amended at 45 FR 44272, July 1, 1980; 58 FR 62036, Nov. 24, 1993; 59 FR 37160, July 21, 1994; 64 FR 41291, July 30, 1999; 68 FR 56560, Oct. 1, 2003; 82 FR 12921, Mar. 8, 2017]

@@ -46,7 +46,7 @@
 
 (iv) Such action is otherwise necessary.
 
-(3) CBP will notify the U.S. APEC Business Travel Card holder of his or her suspension in writing. Such suspension is effective immediately.
+(3) CBP will notify the U.S. APEC Business Travel Card holder of his or her removal in writing. Such removal is effective immediately.
 
 (4) A U.S. APEC Business Travel Card applicant or a U.S. APEC Business Travel Card holder who is denied or removed will not receive a refund, in whole or in part, of the application fee.
 

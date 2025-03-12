@@ -1,5 +1,7 @@
 ##### § 3004.43 Response to requests. #####
 
+Link to an amendment published at 82 FR 12508, Mar. 6, 2017.
+
 (a) Within 20 days (excluding Saturdays, Sundays and legal holidays) after receipt of a request for a Commission record, the Secretary or Assistant Secretary will notify the requester of its determination to grant or deny the request.
 
 (b) *Granting request.* If granting the request, the Secretary, or Assistant Secretary will notify the requester of any fees that must be paid.

@@ -122,7 +122,7 @@
 
 (iii) Information concerning an individual who has filed a protective court order with the postmaster will not be disclosed except pursuant to the order of a court of competent jurisdiction.
 
-(e) *Information not available for public disclosure.* (1) Except as provided by paragraph (a)(6) of this section, the Postal Service and its officers and employees shall not make available to the public by any means or for any purpose any mailing list or other list of names or addresses (past or present) of postal patrons or other persons.
+(e) *Information not available for public disclosure.* (1) The Postal Service and its officers and employees shall not make available to the public by any means or for any purpose any mailing list or other list of names and addresses (past or present) of postal patrons or other persons in response to a request under this part except that, upon a request in accordance with the procedures of § 265.3, the Postal Service will, to the extent required by law, provide a listing of postal employees working at a particular postal facility.
 
 (2) Records or other documents which are classified or otherwise specifically authorized by Executive Order 12356 and implementing regulations to be kept secret in the interest of the national defense or foreign policy are not subject to disclosure pursuant to this part.
 
@@ -134,4 +134,4 @@
 
 (g) *Disclosure in part of otherwise exempt record.* Any reasonably segregable portion of a record shall be provided after deleting the information which is neither subject to mandatory disclosure nor available as a matter of discretion.
 
-![](/graphics/er30no16.002.gif)![](/graphics/er30no16.003.gif)
+![](/graphics/er30no16.002.gif)![](/graphics/er30no16.003.gif)[81 FR 86271, Nov. 30, 2016, as amended at 82 FR 12921, Mar. 8, 2017]
