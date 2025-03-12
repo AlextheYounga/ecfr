@@ -1,7 +1,5 @@
 ##### § 156.50 Financial support. #####
 
-Link to an amendment published at 83 FR 62498, Dec. 4, 2018.
-
 (a) *Definitions.* The following definitions apply for the purposes of this section:
 
 *Participating issuer* means any issuer offering a plan that participates in the specific function that is funded by user fees. This term may include: health insurance issuers, QHP issuers, issuers of multi-State plans (as defined in § 155.1000(a) of this subchapter), issuers of stand-alone dental plans (as described in § 155.1065 of this subtitle), or other issuers identified by an Exchange.
@@ -42,13 +40,13 @@ Link to an amendment published at 83 FR 62498, Dec. 4, 2018.
 
 (E) An attestation that the payments for contraceptive services were made in compliance with 26 CFR 54.9815-2713A(b)(2) or 29 CFR 2590.715-2713A(b)(2).
 
-(3) If the requirements set forth in paragraph (d)(2) of this section are met, and as long as an authorizing exception under OMB Circular No. A-25R is in effect, the participating issuer will be provided a reduction in its obligation to pay the Federally-facilitated Exchange user fee specified in paragraph (c) of this section equal in value to the sum of the following:
+(3) If the requirements set forth in paragraph (d)(2) of this section are met, the participating issuer will be provided a reduction in its obligation to pay the Federally-facilitated Exchange user fee specified in paragraph (c) of this section equal in value to the sum of the following:
 
-(i) The total dollar amount of the payments for contraceptive services submitted by the applicable third party administrators, as described in paragraph (d)(2)(iii)(D) of this section.
+(i) The total dollar amount of the payments for contraceptive services submitted by the applicable third-party administrators, as described in paragraph (d)(2)(iii)(D) of this section; and
 
 (ii) An allowance for administrative costs and margin. The allowance will be no less than 10 percent of the total dollar amount of the payments for contraceptive services specified in paragraph (d)(3)(i) of this section. HHS will specify the allowance for a particular calendar year in the annual HHS notice of benefit and payment parameters.
 
-(4) As long as an exception under OMB Circular No. A-25R is in effect, if the amount of the adjustment under paragraph (d)(3) of this section is greater than the amount of the participating issuer's obligation to pay the Federally-facilitated Exchange user fee in a particular month, the participating issuer will be provided a credit in succeeding months in the amount of the excess.
+(4) If the amount of the adjustment under paragraph (d)(3) of this section is greater than the amount of the participating issuer's obligation to pay the Federally-facilitated Exchange user fee in a particular month, the participating issuer will be provided a credit in succeeding months in the amount of the excess.
 
 (5) Within 60 days of receipt of any adjustment in the Federally-facilitated Exchange user fee under this section, a participating issuer must pay each third party administrator with respect to which it received any portion of such adjustment an amount no less than the portion of the adjustment attributable to the total dollar amount of the payments for contraceptive services submitted by the third party administrator, as described in paragraph (d)(2)(iii)(D) of this section. No such payment is required with respect to the allowance for administrative costs and margin described in paragraph (d)(3)(ii) of this section. This paragraph does not apply if the participating issuer made the payments for contraceptive services on behalf of the third party administrator, as described in paragraph (d)(1)(i) of this section, or is in the same issuer group as the third party administrator.
 
@@ -62,4 +60,4 @@ Link to an amendment published at 83 FR 62498, Dec. 4, 2018.
 
 (iii) Documentation supporting the total dollar amount of the payments for contraceptive services submitted by the third party administrator, as described in paragraph (d)(2)(iii)(D) of this section.
 
-[77 FR 18468, Mar. 27, 2012, as amended at 78 FR 15535, Mar. 11, 2013; 78 FR 39897, July 2, 2013; 81 FR 12348, Mar. 8, 2016]
+[77 FR 18468, Mar. 27, 2012, as amended at 78 FR 15535, Mar. 11, 2013; 78 FR 39897, July 2, 2013; 81 FR 12348, Mar. 8, 2016; 83 FR 62498, Dec. 4, 2018]
