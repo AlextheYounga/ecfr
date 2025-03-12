@@ -1,8 +1,10 @@
 ##### § 27.1353 Storage battery design and installation. #####
 
+Link to an amendment published at 88 FR 8738, Feb. 10, 2023.
+
 (a) Each storage battery must be designed and installed as prescribed in this section.
 
-(b) Safe cell temperatures and pressures must be maintained during any probable charging and discharging condition. No uncontrolled increase in cell temperature may result when the battery is recharged (after previous complete discharge) -
+(b) Safe cell temperatures and pressures must be maintained during any probable charging and discharging condition. No uncontrolled increase in cell temperature may result when the battery is recharged (after previous complete discharge)—
 
 (1) At maximum regulated voltage or power;
 
@@ -18,7 +20,7 @@
 
 (f) Each nickel cadmium battery installation capable of being used to start an engine or auxiliary power unit must have provisions to prevent any hazardous effect on structure or essential systems that may be caused by the maximum amount of heat the battery can generate during a short circuit of the battery or of its individual cells.
 
-(g) Nickel cadmium battery installations capable of being used to start an engine or auxiliary power unit must have -
+(g) Nickel cadmium battery installations capable of being used to start an engine or auxiliary power unit must have—
 
 (1) A system to control the charging rate of the battery automatically so as to prevent battery overheating;
 

@@ -1,6 +1,8 @@
 ##### § 29.977 Fuel tank outlet. #####
 
-(a) There must be a fuel strainer for the fuel tank outlet or for the booster pump. This strainer must -
+Link to an amendment published at 88 FR 8739, Feb. 10, 2023.
+
+(a) There must be a fuel strainer for the fuel tank outlet or for the booster pump. This strainer must—
 
 (1) For reciprocating engine powered airplanes, have 8 to 16 meshes per inch; and
 

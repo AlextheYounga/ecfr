@@ -1,5 +1,7 @@
 ##### § 29.1333 Instrument systems. #####
 
+Link to an amendment published at 88 FR 8740, Feb. 10, 2023.
+
 For systems that operate the required flight instruments which are located at each pilot's station, the following apply:
 
 (a) Only the required flight instruments for the first pilot may be connected to that operating system.

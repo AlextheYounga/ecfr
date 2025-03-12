@@ -1,12 +1,14 @@
 ##### § 29.1351 General. #####
 
-(a) *Electrical system capacity.* The required generating capacity and the number and kind of power sources must -
+Link to an amendment published at 88 FR 8740, Feb. 10, 2023.
+
+(a) *Electrical system capacity.* The required generating capacity and the number and kind of power sources must—
 
 (1) Be determined by an electrical load analysis; and
 
 (2) Meet the requirements of § 29.1309.
 
-(b) *Generating system.* The generating system includes electrical power sources, main power busses, transmission cables, and associated control, regulation, and protective devices. It must be designed so that -
+(b) *Generating system.* The generating system includes electrical power sources, main power busses, transmission cables, and associated control, regulation, and protective devices. It must be designed so that—
 
 (1) Power sources function properly when independent and when connected in combination;
 
@@ -24,7 +26,7 @@
 
 (d) Operation with the normal electrical power generating system inoperative.
 
-(1) It must be shown by analysis, tests, or both, that the rotorcraft can be operated safely in VFR conditions for a period of not less than 5 minutes, with the normal electrical power generating system (electrical power sources excluding the battery) inoperative, with critical type fuel (from the standpoint of flameout and restart capability), and with the rotorcraft initially at the maximum certificated altitude. Parts of the electrical system may remain on if -
+(1) It must be shown by analysis, tests, or both, that the rotorcraft can be operated safely in VFR conditions for a period of not less than 5 minutes, with the normal electrical power generating system (electrical power sources excluding the battery) inoperative, with critical type fuel (from the standpoint of flameout and restart capability), and with the rotorcraft initially at the maximum certificated altitude. Parts of the electrical system may remain on if—
 
 (i) A single malfunction, including a wire bundle or junction box fire, cannot result in loss of the part turned off and the part turned on;
 

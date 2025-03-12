@@ -1,8 +1,10 @@
 ##### § 27.903 Engines. #####
 
+Link to an amendment published at 88 FR 8737, Feb. 10, 2023.
+
 (a) *Engine type certification.* Each engine must have an approved type certificate. Reciprocating engines for use in helicopters must be qualified in accordance with § 33.49(d) of this chapter or be otherwise approved for the intended usage.
 
-(b) *Engine or drive system cooling fan blade protection.* (1) If an engine or rotor drive system cooling fan is installed, there must be a means to protect the rotorcraft and allow a safe landing if a fan blade fails. This must be shown by showing that -
+(b) *Engine or drive system cooling fan blade protection.* (1) If an engine or rotor drive system cooling fan is installed, there must be a means to protect the rotorcraft and allow a safe landing if a fan blade fails. This must be shown by showing that—
 
 (i) The fan blades are contained in case of failure;
 
@@ -10,7 +12,7 @@
 
 (iii) Each fan blade can withstand an ultimate load of 1.5 times the centrifugal force resulting from operation limited by the following:
 
-(A) For fans driven directly by the engine -
+(A) For fans driven directly by the engine—
 
 (*1*) The terminal engine r.p.m. under uncontrolled conditions; or
 

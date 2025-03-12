@@ -1,5 +1,7 @@
 ##### § 23.202 Daily trading records. #####
 
+Link to an amendment published at 88 FR 8753, Feb. 10, 2023.
+
 (a) *Daily trading records for swaps.* Each swap dealer and major swap participant shall make and keep daily trading records of all swaps it executes, including all documents on which transaction information is originally recorded. Each swap dealer and major swap participant shall ensure that its records include all information necessary to conduct a comprehensive and accurate trade reconstruction for each swap. Each swap dealer and major swap participant shall maintain each transaction record in a manner identifiable and searchable by transaction and counterparty.
 
 (1) *Pre-execution trade information.* Each swap dealer and major swap participant shall make and keep pre-execution trade information, including, at a minimum, records of all oral and written communications provided or received concerning quotes, solicitations, bids, offers, instructions, trading, and prices, that lead to the execution of a swap, whether communicated by telephone, voicemail, facsimile, instant messaging, chat rooms, electronic mail, mobile device, or other digital or electronic media. Such records shall include, but are not limited to:

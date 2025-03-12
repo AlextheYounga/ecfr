@@ -1,5 +1,7 @@
 ##### § 29.1019 Oil strainer or filter. #####
 
+Link to an amendment published at 88 FR 8739, Feb. 10, 2023.
+
 (a) Each turbine engine installation must incorporate an oil strainer or filter through which all of the engine oil flows and which meets the following requirements:
 
 (1) Each oil strainer or filter that has a bypass must be constructed and installed so that oil will flow at the normal rate through the rest of the system with the strainer or filter completely blocked.

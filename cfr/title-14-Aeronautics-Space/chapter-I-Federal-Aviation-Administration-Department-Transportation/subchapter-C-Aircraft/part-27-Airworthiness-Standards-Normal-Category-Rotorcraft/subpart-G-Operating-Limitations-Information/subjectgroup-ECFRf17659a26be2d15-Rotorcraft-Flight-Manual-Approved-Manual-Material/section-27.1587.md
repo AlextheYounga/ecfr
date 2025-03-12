@@ -1,10 +1,12 @@
 ##### § 27.1587 Performance information. #####
 
+Link to an amendment published at 88 FR 8739, Feb. 10, 2023.
+
 (a) The Rotorcraft Flight Manual must contain the following information, determined in accordance with §§ 27.49 through 27.87 and 27.143(c) and (d):
 
 (1) Enough information to determine the limiting height-speed envelope.
 
-(2) Information relative to -
+(2) Information relative to—
 
 (i) The steady rates of climb and descent, in-ground effect and out-of-ground effect hovering ceilings, together with the corresponding airspeeds and other pertinent information including the calculated effects of altitude and temperatures;
 
@@ -14,7 +16,7 @@
 
 (iv) Glide distance as a function of altitude when autorotating at the speeds and conditions for minimum rate of descent and best glide as determined in § 27.71.
 
-(b) The Rotorcraft Flight Manual must contain -
+(b) The Rotorcraft Flight Manual must contain—
 
 (1) In its performance information section any pertinent information concerning the takeoff weights and altitudes used in compliance with § 27.51; and
 

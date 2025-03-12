@@ -1,12 +1,14 @@
 ##### § 29.1309 Equipment, systems, and installations. #####
 
+Link to an amendment published at 88 FR 8739, Feb. 10, 2023.
+
 (a) The equipment, systems, and installations whose functioning is required by this subchapter must be designed and installed to ensure that they perform their intended functions under any foreseeable operating condition.
 
-(b) The rotorcraft systems and associated components, considered separately and in relation to other systems, must be designed so that -
+(b) The rotorcraft systems and associated components, considered separately and in relation to other systems, must be designed so that—
 
 (1) For Category B rotorcraft, the equipment, systems, and installations must be designed to prevent hazards to the rotorcraft if they malfunction or fail; or
 
-(2) For Category A rotorcraft -
+(2) For Category A rotorcraft—
 
 (i) The occurrence of any failure condition which would prevent the continued safe flight and landing of the rotorcraft is extremely improbable; and
 
@@ -14,7 +16,7 @@
 
 (c) Warning information must be provided to alert the crew to unsafe system operating conditions and to enable them to take appropriate corrective action. Systems, controls, and associated monitoring and warning means must be designed to minimize crew errors which could create additional hazards.
 
-(d) Compliance with the requirements of paragraph (b)(2) of this section must be shown by analysis and, where necessary, by appropriate ground, flight, or simulator tests. The analysis must consider -
+(d) Compliance with the requirements of paragraph (b)(2) of this section must be shown by analysis and, where necessary, by appropriate ground, flight, or simulator tests. The analysis must consider—
 
 (1) Possible modes of failure, including malfunctions and damage from external sources;
 
@@ -30,7 +32,7 @@
 
 (2) Essential loads, after failure of any one prime mover, power converter, or energy storage device.
 
-(3) Essential loads, after failure of -
+(3) Essential loads, after failure of—
 
 (i) Any one engine, on rotorcraft with two engines; and
 

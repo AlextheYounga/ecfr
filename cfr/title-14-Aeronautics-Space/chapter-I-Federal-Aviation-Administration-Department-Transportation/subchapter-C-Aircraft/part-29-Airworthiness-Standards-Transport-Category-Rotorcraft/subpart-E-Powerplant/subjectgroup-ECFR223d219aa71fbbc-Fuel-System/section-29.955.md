@@ -1,5 +1,7 @@
 ##### § 29.955 Fuel flow. #####
 
+Link to an amendment published at 88 FR 8739, Feb. 10, 2023.
+
 (a) *General.* The fuel system for each engine must provide the engine with at least 100 percent of the fuel required under all operating and maneuvering conditions to be approved for the rotorcraft, including, as applicable, the fuel required to operate the engines under the test conditions required by § 29.927. Unless equivalent methods are used, compliance must be shown by test during which the following provisions are met, except that combinations of conditions which are shown to be improbable need not be considered.
 
 (1) The fuel pressure, corrected for accelerations (load factors), must be within the limits specified by the engine type certificate data sheet.

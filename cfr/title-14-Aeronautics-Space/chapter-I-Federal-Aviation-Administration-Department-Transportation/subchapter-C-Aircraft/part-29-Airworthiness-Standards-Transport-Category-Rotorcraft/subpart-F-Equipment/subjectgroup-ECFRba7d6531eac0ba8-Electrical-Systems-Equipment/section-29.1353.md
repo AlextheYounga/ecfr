@@ -1,12 +1,14 @@
 ##### § 29.1353 Electrical equipment and installations. #####
 
+Link to an amendment published at 88 FR 8740, Feb. 10, 2023.
+
 (a) Electrical equipment, controls, and wiring must be installed so that operation of any one unit or system of units will not adversely affect the simultaneous operation of any other electrical unit or system essential to safe operation.
 
 (b) Cables must be grouped, routed, and spaced so that damage to essential circuits will be minimized if there are faults in heavy current-carrying cables.
 
 (c) Storage batteries must be designed and installed as follows:
 
-(1) Safe cell temperatures and pressures must be maintained during any probable charging and discharging condition. No uncontrolled increase in cell temperature may result when the battery is recharged (after previous complete discharge) -
+(1) Safe cell temperatures and pressures must be maintained during any probable charging and discharging condition. No uncontrolled increase in cell temperature may result when the battery is recharged (after previous complete discharge)—
 
 (i) At maximum regulated voltage or power;
 
@@ -22,7 +24,7 @@
 
 (5) Each nickel cadmium battery installation capable of being used to start an engine or auxiliary power unit must have provisions to prevent any hazardous effect on structure or essential systems that may be caused by the maximum amount of heat the battery can generate during a short circuit of the battery or of its individual cells.
 
-(6) Nickel cadmium battery installations capable of being used to start an engine or auxiliary power unit must have -
+(6) Nickel cadmium battery installations capable of being used to start an engine or auxiliary power unit must have—
 
 (i) A system to control the charging rate of the battery automatically so as to prevent battery overheating;
 

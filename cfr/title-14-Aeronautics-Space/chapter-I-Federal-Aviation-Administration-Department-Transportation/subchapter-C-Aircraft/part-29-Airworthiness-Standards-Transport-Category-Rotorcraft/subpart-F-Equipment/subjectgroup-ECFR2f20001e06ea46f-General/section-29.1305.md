@@ -1,8 +1,10 @@
 ##### § 29.1305 Powerplant instruments. #####
 
+Link to an amendment published at 88 FR 8739, Feb. 10, 2023.
+
 The following are required powerplant instruments:
 
-(a) For each rotorcraft -
+(a) For each rotorcraft—
 
 (1) A carburetor air temperature indicator for each reciprocating engine;
 
@@ -10,7 +12,7 @@ The following are required powerplant instruments:
 
 (3) A fuel quantity indicator for each fuel tank;
 
-(4) A low fuel warning device for each fuel tank which feeds an engine. This device must -
+(4) A low fuel warning device for each fuel tank which feeds an engine. This device must—
 
 (i) Provide a warning to the crew when approximately 10 minutes of usable fuel remains in the tank; and
 
@@ -34,7 +36,7 @@ The following are required powerplant instruments:
 
 (13) A tachometer for each engine that, if combined with the applicable instrument required by paragraph (a)(14) of this section, indicates rotor r.p.m. during autorotation.
 
-(14) At least one tachometer to indicate, as applicable -
+(14) At least one tachometer to indicate, as applicable—
 
 (i) The r.p.m. of the single main rotor;
 
@@ -60,7 +62,7 @@ The following are required powerplant instruments:
 
 (23) Warning or caution devices to signal to the flightcrew when ferromagnetic particles are detected by the chip detector required by § 29.1337(e); and
 
-(24) For auxiliary power units, an individual indicator, warning or caution device, or other means to advise the flightcrew that limits are being exceeded, if exceeding these limits can be hazardous, for -
+(24) For auxiliary power units, an individual indicator, warning or caution device, or other means to advise the flightcrew that limits are being exceeded, if exceeding these limits can be hazardous, for—
 
 (i) Gas temperature;
 
@@ -70,7 +72,7 @@ The following are required powerplant instruments:
 
 (25) For rotorcraft for which a 30-second/2-minute OEI power rating is requested, a means must be provided to alert the pilot when the engine is at the 30-second and 2-minute OEI power levels, when the event begins, and when the time interval expires.
 
-(26) For each turbine engine utilizing 30-second/2-minute OEI power, a device or system must be provided for use by ground personnel which -
+(26) For each turbine engine utilizing 30-second/2-minute OEI power, a device or system must be provided for use by ground personnel which—
 
 (i) Automatically records each usage and duration of power at the 30-second and 2-minute OEI levels;
 
@@ -80,7 +82,7 @@ The following are required powerplant instruments:
 
 (iv) Has a means to verify proper operation of the system or device.
 
-(b) For category A rotorcraft -
+(b) For category A rotorcraft—
 
 (1) An individual oil pressure indicator for each engine, and either an independent warning device for each engine or a master warning device for the engines with means for isolating the individual warning circuit from the master warning device;
 
@@ -88,7 +90,7 @@ The following are required powerplant instruments:
 
 (3) Fire warning indicators.
 
-(c) For category B rotorcraft -
+(c) For category B rotorcraft—
 
 (1) An individual oil pressure indicator for each engine; and
 

@@ -1,6 +1,8 @@
 ##### § 27.1329 Automatic pilot system. #####
 
-(a) Each automatic pilot system must be designed so that the automatic pilot can -
+Link to an amendment published at 88 FR 8738, Feb. 10, 2023.
+
+(a) Each automatic pilot system must be designed so that the automatic pilot can—
 
 (1) Be sufficiently overpowered by one pilot to allow control of the rotorcraft; and
 

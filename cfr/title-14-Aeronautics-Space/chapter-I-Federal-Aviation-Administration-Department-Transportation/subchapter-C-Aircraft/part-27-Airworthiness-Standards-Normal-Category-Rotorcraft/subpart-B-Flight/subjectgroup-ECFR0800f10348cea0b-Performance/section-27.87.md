@@ -1,12 +1,14 @@
 ##### § 27.87 Height-speed envelope. #####
 
-(a) If there is any combination of height and forward speed (including hover) under which a safe landing cannot be made under the applicable power failure condition in paragraph (b) of this section, a limiting height-speed envelope must be established (including all pertinent information) for that condition, throughout the ranges of -
+Link to an amendment published at 88 FR 8737, Feb. 10, 2023.
+
+(a) If there is any combination of height and forward speed (including hover) under which a safe landing cannot be made under the applicable power failure condition in paragraph (b) of this section, a limiting height-speed envelope must be established (including all pertinent information) for that condition, throughout the ranges of—
 
 (1) Altitude, from standard sea level conditions to the maximum altitude capability of the rotorcraft, or 7000 feet density altitude, whichever is less; and
 
 (2) Weight, from the maximum weight at sea level to the weight selected by the applicant for each altitude covered by paragraph (a)(1) of this section. For helicopters, the weight at altitudes above sea level may not be less than the maximum weight or the highest weight allowing hovering out-of-ground effect, whichever is lower.
 
-(b) The applicable power failure conditions are -
+(b) The applicable power failure conditions are—
 
 (1) For single-engine helicopters, full autorotation;
 

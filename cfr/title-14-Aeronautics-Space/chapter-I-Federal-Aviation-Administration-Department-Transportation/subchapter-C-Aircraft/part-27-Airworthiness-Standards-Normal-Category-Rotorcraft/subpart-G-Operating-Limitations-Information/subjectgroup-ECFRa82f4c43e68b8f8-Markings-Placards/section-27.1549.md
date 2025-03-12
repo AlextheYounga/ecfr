@@ -1,6 +1,8 @@
 ##### § 27.1549 Powerplant instruments. #####
 
-For each required powerplant instrument, as appropriate to the type of instrument -
+Link to an amendment published at 88 FR 8738, Feb. 10, 2023.
+
+For each required powerplant instrument, as appropriate to the type of instrument—
 
 (a) Each maximum and, if applicable, minimum safe operating limit must be marked with a red radial or a red line;
 

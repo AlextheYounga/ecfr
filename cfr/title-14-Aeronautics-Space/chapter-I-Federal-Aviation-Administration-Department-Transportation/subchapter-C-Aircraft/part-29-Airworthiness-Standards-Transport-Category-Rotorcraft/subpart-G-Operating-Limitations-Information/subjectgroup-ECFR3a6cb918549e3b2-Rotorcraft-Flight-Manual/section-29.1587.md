@@ -1,8 +1,10 @@
 ##### § 29.1587 Performance information. #####
 
+Link to an amendment published at 88 FR 8740, Feb. 10, 2023.
+
 Flight manual performance information which exceeds any operating limitation may be shown only to the extent necessary for presentation clarity or to determine the effects of approved optional equipment or procedures. When data beyond operating limits are shown, the limits must be clearly indicated. The following must be provided:
 
-(a) *Category A.* For each category A rotorcraft, the Rotorcraft Flight Manual must contain a summary of the performance data, including data necessary for the application of any operating rule of this chapter, together with descriptions of the conditions, such as airspeeds, under which this data was determined, and must contain -
+(a) *Category A.* For each category A rotorcraft, the Rotorcraft Flight Manual must contain a summary of the performance data, including data necessary for the application of any operating rule of this chapter, together with descriptions of the conditions, such as airspeeds, under which this data was determined, and must contain—
 
 (1) The indicated airspeeds corresponding with those determined for takeoff, and the procedures to be followed if the critical engine fails during takeoff;
 
@@ -22,7 +24,7 @@ Flight manual performance information which exceeds any operating limitation may
 
 (7) Out-of-ground effect hover performance determined under § 29.49 and the maximum weight for each altitude and temperature condition at which the rotorcraft can safely hover out-of-ground effect in winds of not less than 17 knots from all azimuths. These data must be clearly referenced to the appropriate hover charts.
 
-(b) *Category B.* For each category B rotorcraft, the Rotorcraft Flight Manual must contain -
+(b) *Category B.* For each category B rotorcraft, the Rotorcraft Flight Manual must contain—
 
 (1) The takeoff distance and the climbout speed together with the pertinent information defining the flight path with respect to autorotative landing if an engine fails, including the calculated effects of altitude and temperature;
 

@@ -1,10 +1,12 @@
 ##### § 29.1545 Airspeed indicator. #####
 
+Link to an amendment published at 88 FR 8740, Feb. 10, 2023.
+
 (a) Each airspeed indicator must be marked as specified in paragraph (b) of this section, with the marks located at the corresponding indicated airspeeds.
 
 (b) The following markings must be made:
 
-(1) A red radial line -
+(1) A red radial line—
 
 (i) For rotorcraft other than helicopters, at VNE; and
 

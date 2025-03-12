@@ -1,8 +1,10 @@
 ##### § 27.1555 Control markings. #####
 
+Link to an amendment published at 88 FR 8738, Feb. 10, 2023.
+
 (a) Each cockpit control, other than primary flight controls or control whose function is obvious, must be plainly marked as to its function and method of operation.
 
-(b) For powerplant fuel controls -
+(b) For powerplant fuel controls—
 
 (1) Each fuel tank selector control must be marked to indicate the position corresponding to each tank and to each existing cross feed position;
 
@@ -16,7 +18,7 @@
 
 (2) For fuel systems having selector controls, the usable fuel capacity available at each selector control position must be indicated near the selector control.
 
-(d) For accessory, auxiliary, and emergency controls -
+(d) For accessory, auxiliary, and emergency controls—
 
 (1) Each essential visual position indicator, such as those showing rotor pitch or landing gear position, must be marked so that each crewmember can determine at any time the position of the unit to which it relates; and
 
