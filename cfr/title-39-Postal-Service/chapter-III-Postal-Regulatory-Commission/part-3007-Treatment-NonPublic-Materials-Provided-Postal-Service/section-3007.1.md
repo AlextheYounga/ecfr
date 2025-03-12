@@ -1,0 +1,5 @@
+##### § 3007.1 Definitions for purposes of this part. #####
+
+(a) *Authorized representative* means any Commissioner designated by the Chairman, any administrative law judge appointed by the Commission under 5 U.S.C. 3105, and any employee of the Commission designated by the Commission. The authorized representative may administer oaths, examine witnesses, take depositions, and receive evidence with respect to any proceeding before the Commission under title 39 of the U.S. Code or obtain information to assist the Commission in the preparation of a report or performance of a function under title 39 of the U.S. Code.
+
+(b) *Non-public materials* means any information, documents, and things filed with the Commission which are claimed to be exempt from disclosure by the Postal Service pursuant to 39 U.S.C. 504(g), 3652(f) or 3654(f), or claimed to be protectable under Federal Rule of Civil Procedure 26(c) by a third party with a proprietary interest in the materials. Non-public materials cease to be non-public if the status has expired or been terminated by the Commission pursuant to this part.

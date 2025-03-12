@@ -1,0 +1,3 @@
+##### § 3001.73 Computation of time. #####
+
+In computing any period of time prescribed or allowed by this subpart, the term *day* means a calendar day unless explicitly specified otherwise. The last day of the period so computed is to be included unless it is a Saturday, Sunday, or Federal holiday for the Commission, in which event the period runs until the end of the next day which is neither a Saturday, Sunday, nor Federal holiday.

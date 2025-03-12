@@ -1,0 +1,3 @@
+##### § 3030.20 Sufficiency of information. #####
+
+If, after review of the information submitted pursuant to this part, the Commission determines that additional information is necessary to enable it to evaluate whether the complaint raises material issues of fact or law, the Commission shall, in its discretion, either require the complainant and/or the Postal Service to provide additional information as deemed necessary, issue an appropriate order to appoint an investigator in accordance with § 3030.21, or do both.

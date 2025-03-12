@@ -1,0 +1,3 @@
+##### § 3001.8 No participation by investigative or prosecuting officers. #####
+
+In any proceeding noticed pursuant to § 3001.17, no officer, employee or agent of the Commission who appears in the hearing in a proceeding before the Commission as an attorney or witness or who actively participates in the preparation of evidence or argument presented by such persons, shall participate or advise as to the intermediate decision or Commission decision in that proceeding except as a witness or counsel in public proceedings.

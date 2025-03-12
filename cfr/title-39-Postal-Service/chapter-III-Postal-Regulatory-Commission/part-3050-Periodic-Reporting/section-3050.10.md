@@ -1,0 +1,3 @@
+##### § 3050.10 Analytical principles to be applied in the Postal Service's annual periodic reports to the Commission. #####
+
+In its annual periodic reports to the Commission, the Postal Service shall use only accepted analytical principles. With respect to its submissions under § 3050.26, however, the Postal Service may elect to use an analytical principle prior to its acceptance by the Commission.

@@ -1,0 +1,9 @@
+##### § 3001.18 Nature of proceedings. #####
+
+(a) *Proceedings to be set for hearing.* Except as otherwise provided in these rules, in any case noticed for a proceeding to be determined on the record pursuant to § 3001.17(a), the Commission may hold a public hearing if a hearing is requested by any party to the proceeding or if the Commission in the exercise of its discretion determines that a hearing is in the public interest. The Commission may give notice of its determination that a hearing shall be held in its original notice of the proceeding or in a subsequent notice issued pursuant to paragraph (b) of this section and § 3001.19.
+
+(b) *Procedure in hearing cases.* In proceedings which are to be set for hearing, the Commission shall issue a notice of hearing or prehearing conference pursuant to § 3001.19. After the completion of the hearing, the Commission or the presiding officer shall receive such briefs and hear such oral argument as may be ordered by the Commission or the presiding officer pursuant to §§ 3001.34 to 3001.37. The Commission shall then issue an advisory opinion or final decision, as appropriate.
+
+(c) *Procedure in non-hearing cases.* In any case noticed for a proceeding to be determined on the record in which a hearing is not requested by any party or ordered by the Commission, the Commission or the presiding officer shall issue a notice of the procedure to be followed with regard to the filing of briefs and oral argument. The Commission shall then issue an advisory opinion or final decision, as appropriate. The Commission or presiding officer may, if necessary or desirable, call procedural conferences by issuance of a notice pursuant to § 3001.19.
+
+[36 FR 396, Jan. 12, 1971, as amended at 65 FR 6540, Feb. 10, 2000; 78 FR 36437, June 18, 2013]

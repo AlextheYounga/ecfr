@@ -1,0 +1,17 @@
+##### § 3001.20 Formal intervention. #####
+
+(a) *Who may intervene.* A notice of intervention will be entertained in those cases that are noticed for a proceeding pursuant to § 3001.17(a) from any person claiming an interest of such nature that intervention is allowed by the Act, or appropriate to its administration.
+
+(b) *Contents.* A notice of intervention shall clearly and concisely set forth the nature and extent of the intervenor's interest in the issues to be decided, including the classifications of postal service utilized by the intervenor giving rise to his/her interest in the proceeding, and to the extent known, the position of the intervenor with regard to the proposed changes in postal rates, fees, classifications, or services, or the subject matter of the complaint, as described in the notice of the proceeding. Such notice shall state whether or not the intervenor requests a hearing or in lieu thereof, a conference, and whether or not the intervenor intends to actively participate in a hearing. Such notice shall also include on page one thereof the name and full mailing address of no more than two persons who are to receive service of any documents relating to such proceeding.
+
+(c) *Form and time of filing.* Notices of intervention shall be filed no later than the date fixed for such filing in any notice or order with respect to the proceeding issued by the Commission or its Secretary, unless in extraordinary circumstances for good cause shown, the Commission authorizes a late filing. Notices of intervention shall conform to the requirements of §§ 3001.9 through 3001.12.
+
+(d) *Oppositions.* (1) Except as otherwise provided in paragraph (d)(2) of this section, oppositions to notices of intervention may be filed by any participant in the proceeding no later than 10 days after the notice of intervention is filed.
+
+(2) Oppositions to notices of interventions in proceedings conducted under subpart D of this part may be filed by any participant in the proceeding no later than 3 days after the notice of intervention is filed.
+
+(3) Pending Commission action, an opposition to intervention shall, in all proceedings except those conducted under subpart D of this part, delay on a day-for-day basis the date for responses to discovery requests filed by that intervenor.
+
+(e) *Effect of intervention.* A person filing a notice of intervention shall be a party to the proceeding subject, however, to a determination by the Commission, either in response to an opposition, or sua sponte, that party status is not appropriate under the Act. Intervenors are also subject to the right of the Commission or the presiding officer as specified in § 3001.24 to require two or more intervenors having substantially like interests and positions to join together for purposes of service of documents, presenting evidence, making and arguing motions and objections, propounding discovery, cross-examining witnesses, filing briefs, and presenting oral arguments to the Commission or presiding officer. No intervention shall be deemed to constitute a decision by the Commission that the intervenor is aggrieved for purposes of perfecting an appeal of any final order of the Commission.
+
+[48 FR 15627, Apr. 12, 1983, as amended at 58 FR 38976, July 21, 1993; 58 FR 38976, July 21, 1993; 65 FR 6540, Feb. 10, 2000; 67 FR 67561, Nov. 6, 2002; 79 FR 33407, June 10, 2014]

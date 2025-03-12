@@ -1,0 +1,15 @@
+##### § 3001.39 Intermediate decisions. #####
+
+(a) *Initial decision by presiding officer.* In any proceedings in which a Commissioner or hearing officer has presided at the reception of evidence, such presiding officer, as soon as practicable after the conclusion of the hearing and the filing of briefs, shall certify and file with the Secretary, a copy of the record of the hearing and his/her initial decision on the matters and issues presented for decision in such proceeding.
+
+(b) *Tentative decision.* Prior to the issuance of an initial decision by the presiding officer, the Commission, with notice to the participants or by order in specific cases or by general rule for a class of cases, may direct the certification of the record to the Commission for the purpose of the issuance of a tentative decision. In such cases, the Commission may issue a tentative decision or require that the presiding officer or any designated responsible officer of the Commission recommend a decision.
+
+(c) *Contents.* All intermediate decisions shall include findings and conclusions, and the reasons or basis therefor, on all the material issues of fact, law, or discretion presented on the record, and the appropriate intermediate decision pursuant to the Act. An intermediate decision in a proceeding under section 3661 of the Act shall include a determination of the question of whether or not the proposed change in the nature of postal service conforms to the policies established under the Act.
+
+(d) *Service and Commission review.* All intermediate decisions shall be part of the record, shall be served on the participants to the proceeding by the Secretary pursuant to § 3001.12 and shall be subject to review by the Commission on its own initiative, or the filing of exceptions by the participants pursuant to § 3001.40.
+
+(e) *Unavailability of presiding officer.* In any proceeding in which the intermediate decision is not omitted pursuant to § 3001.38, if a presiding officer becomes unavailable to issue an intermediate decision on a timely basis, the Commission shall, by a notice served on the participants require the record to be certified to it and it shall either designate a qualified responsible officer of the Commission to issue a recommended decision or will itself issued a tentative decision, as the Commission may deem appropriate.
+
+(f) *Effect of intermediate decision.* Unless briefs on exceptions are filed to an intermediate decision pursuant to § 3001.40 or unless the Commission issues an order to review an intermediate decision on its own initiative, the intermediate decision shall become the final action of the Commission after 30 days from the date of issuance thereof. If briefs on exceptions are timely filed or the Commission initiates review on its own motion, the intermediate decision is stayed until further order of the Commission.
+
+[36 FR 396, Jan. 12, 1971, as amended at 58 FR 38976, July 21, 1993; 78 FR 36440, June 18, 2013]

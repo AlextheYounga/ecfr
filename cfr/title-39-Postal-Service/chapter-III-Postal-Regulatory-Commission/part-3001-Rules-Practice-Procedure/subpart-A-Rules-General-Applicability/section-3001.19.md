@@ -1,0 +1,5 @@
+##### § 3001.19 Notice of prehearing conference or hearing. #####
+
+In any proceeding noticed for a proceeding on the record pursuant to § 3001.17(a), the Commission shall give due notice of any prehearing conference or hearing by including the time and place of the conference or hearing in the notice of proceeding or by subsequently issuing a notice of prehearing conference or hearing. Such notice of prehearing conference or hearing shall give the title and docket designation of the proceeding, a reference to the original notice of proceeding and the date of such notice, and the time and place of the conference or hearing. Such notice shall be published in the Federal Register and served on all participants in the proceeding. Notice of the time and place where a hearing will be reconvened shall be served on all participants in the proceeding unless announcement was made thereof by the presiding officer at the adjournment of an earlier session of the prehearing conference or hearing.
+
+[78 FR 36437, June 18, 2013]

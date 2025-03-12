@@ -1,0 +1,7 @@
+##### § 3007.3 Data or information requests. #####
+
+(a) The Commission or its authorized representative may issue data or information requests to the Postal Service seeking information, documents, and things covered by § 3007.2. A data or information request shall describe the documents, information, and things sought, briefly explain the reason for the request, and specify a timeframe for receiving the requested information and materials.
+
+(b) The Commission or its authorized representative may issue data or information requests to third parties seeking any information, document or thing. A data information request shall describe the documents, information and things sought, briefly explain the reason for the request, and specify a timeframe for receiving the requested materials.
+
+(c) Any person may request that the Commission issue a data or information request by filing a motion with the Commission, pursuant to § 3001.21 of this chapter, which describes the documents, information, and things sought, explains the reasons the Commission should make the request, and includes a statement of how the materials sought are relevant and material to the Commission's duties under title 39 of the U.S. Code.
