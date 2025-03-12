@@ -1,0 +1,3 @@
+##### § 712.3 Initial declaration requirements for declared facilities which are engaged in the production of Schedule 1 chemicals for purposes not prohibited by the CWC. #####
+
+Initial declarations submitted in February 2000 remain valid until amended or rescinded. If you plan to change/amend the technical description of your facility submitted with your initial declaration, you must submit an amended initial declaration to BIS 200 calendar days prior to implementing the change (see § 712.5(b)(1)(ii) of the CWCR).

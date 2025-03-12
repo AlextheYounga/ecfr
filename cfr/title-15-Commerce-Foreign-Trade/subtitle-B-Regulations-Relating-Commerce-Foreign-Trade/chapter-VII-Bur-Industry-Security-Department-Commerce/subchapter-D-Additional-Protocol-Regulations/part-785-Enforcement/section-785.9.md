@@ -1,0 +1,7 @@
+##### § 785.9 Subpoenas. #####
+
+(a) *Issuance.* Upon the application of any party, supported by a satisfactory showing that there is substantial reason to believe that the evidence would not otherwise be available, the ALJ may issue subpoenas to any person requiring the attendance and testimony of witnesses and the production of such books, records or other documentary or physical evidence for the purpose of the hearing, as the ALJ deems relevant and material to the proceedings, and reasonable in scope. Witnesses shall be paid the same fees and mileage that are paid to witnesses in the courts of the United States. In case of contempt, challenge or refusal to obey a subpoena served upon any person pursuant to this paragraph, any district court of the United States, in which venue is proper, has jurisdiction to issue an order requiring any such person to comply with a subpoena. Any failure to obey an order of the court is punishable by the court as a contempt thereof.
+
+(b) *Service.* Subpoenas issued by the ALJ may be served by any of the methods set forth in § 785.6(b) of the APR.
+
+(c) *Timing.* Applications for subpoenas must be submitted at least 10 business days before the scheduled hearing or deposition, unless the ALJ determines, for good cause shown, that extraordinary circumstances warrant a shorter time.

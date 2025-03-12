@@ -1,0 +1,13 @@
+##### § 766.5 Filing and service of papers other than charging letter. #####
+
+(a) *Filing.* All papers to be filed shall be addressed to EAR Administrative Enforcement Proceedings, U.S. Coast Guard, ALJ Docketing Center, 40 S. Gay Street, Baltimore, Maryland, 21202-4022, or such other place as the administrative law judge may designate. Filing by United States mail, first class postage prepaid, by express or equivalent parcel delivery service, or by hand delivery, is acceptable. Filing by mail from a foreign country shall be by airmail. In addition, the administrative law judge may authorize filing of papers by facsimile or other electronic means, provided that a hard copy of any such paper is subsequently filed. A copy of each paper filed shall be simultaneously served on each party.
+
+(b) *Service.* Service shall be made by personal delivery or by mailing one copy of each paper to each party in the proceeding. Service by delivery service or facsimile, in the manner set forth in paragraph (a) of this section, is acceptable. Service on BIS shall be addressed to the Chief Counsel for Industry and Security, Room H-3839, U.S. Department of Commerce, 14th Street and Constitution Avenue, N.W., Washington, D.C. 20230. Service on a respondent shall be to the address to which the charging letter was sent or to such other address as respondent may provide. When a party has appeared by counsel or other representative, service on counsel or other representative shall constitute service on that party.
+
+(c) *Date.* The date of filing or service is the day when the papers are deposited in the mail or are delivered in person, by delivery service, or by facsimile.
+
+(d) *Certificate of service.* A certificate of service signed by the party making service, stating the date and manner of service, shall accompany every paper, other than the charging letter, filed and served on parties.
+
+(e) *Computing period of time.* In computing any period of time prescribed or allowed by this part or by order of the administrative law judge or the Under Secretary, the day of the act, event, or default from which the designated period of time begins to run is not to be included. The last day of the period so computed is to be included unless it is a Saturday, a Sunday, or a legal holiday (as defined in Rule 6(a) of the Federal Rules of Civil Procedure), in which case the period runs until the end of the next day which is neither a Saturday, a Sunday, nor a legal holiday. Intermediate Saturdays, Sundays, and legal holidays are excluded from the computation when the period of time prescribed or allowed is seven days or less.
+
+[61 FR 12907, Mar. 25, 1996, as amended at 67 FR 45633, July 10, 2002; 70 FR 8250, Feb. 18, 2005]

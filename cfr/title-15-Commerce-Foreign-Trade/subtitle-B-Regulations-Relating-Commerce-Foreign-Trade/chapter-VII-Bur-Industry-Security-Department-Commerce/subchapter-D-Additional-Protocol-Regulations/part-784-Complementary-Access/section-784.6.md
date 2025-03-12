@@ -1,0 +1,3 @@
+##### § 784.6 Post complementary access activities. #####
+
+Upon receiving the IAEA's final report on complementary access, BIS will forward a copy of the report to the location for its review, in accordance with § 784.3(k)(2) of the APR. Locations may submit comments concerning the IAEA's final report to BIS, and BIS will consider them, as appropriate, when preparing its comments to the IAEA on the final report. BIS also will send locations a post complementary access letter detailing the issues that require follow-up action (see, for example, the *Amended Report* requirements in § 783.2(d) of the APR).

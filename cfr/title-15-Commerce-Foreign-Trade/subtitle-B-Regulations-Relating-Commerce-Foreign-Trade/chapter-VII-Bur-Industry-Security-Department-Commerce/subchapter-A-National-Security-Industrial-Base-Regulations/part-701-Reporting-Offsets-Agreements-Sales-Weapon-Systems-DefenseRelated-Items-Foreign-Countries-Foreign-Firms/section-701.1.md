@@ -1,0 +1,5 @@
+##### § 701.1 Purpose. #####
+
+The Defense Production Act Amendments of 1992 require the Secretary of Commerce to promulgate regulations for U.S. firms entering into contracts for the sale of defense articles or defense services to foreign countries or foreign firms that are subject to offset agreements exceeding $5,000,000 in value to furnish information regarding such agreements. The Secretary of Commerce has designated the Bureau of Industry and Security as the organization responsible for implementing this provision. The information provided by U.S. firms will be aggregated and used to determine the impact of offset transactions on the defense preparedness, industrial competitiveness, employment, and trade of the United States. Summary reports are submitted annually to Congress pursuant to Section 309 of the Defense Production Act of 1950, as amended.
+
+[59 FR 61796, Dec. 2, 1994, as amended at 74 FR 68140, Dec. 23, 2009]

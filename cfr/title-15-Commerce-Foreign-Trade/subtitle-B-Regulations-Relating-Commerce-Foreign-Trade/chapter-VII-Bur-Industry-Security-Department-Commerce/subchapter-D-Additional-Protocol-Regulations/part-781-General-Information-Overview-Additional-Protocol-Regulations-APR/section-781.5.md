@@ -1,0 +1,3 @@
+##### § 781.5 Authority. #####
+
+The APR implement certain provisions of the Additional Protocol under the authority of the Additional Protocol Implementation Act of 2006 (Pub. L. 109-401, 120 Stat. 2726 (December 18, 2006)). In Executive Order 13458 of February 4, 2008, the President delegated authority to the Department of Commerce to promulgate regulations to implement the Act, and consistent with the Act, to carry out appropriate functions not otherwise assigned in the Act, but necessary to implement certain declaration and complementary access requirements of the Additional Protocol and the Act.

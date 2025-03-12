@@ -1,0 +1,17 @@
+##### § 716.6 Facility agreements. #####
+
+(a) *Description and requirements.* A facility agreement is a site-specific agreement between the U.S. Government and the OPCW. Its purpose is to define procedures for inspections of a specific declared facility that is subject to inspection because of the type or amount of chemicals it produces, processes or consumes.
+
+(1) *Schedule 1 facilities.* The Convention requires that facility agreements be concluded between the United States and the OPCW for all declared Schedule 1 facilities. For new Schedule 1 production facilities declared pursuant to § 712.4 of the CWCR, the USNA, in coordination with the Department of Commerce, will conclude a facility agreement with the OPCW before the facility begins producing above 100 grams aggregate of Schedule 1 chemicals.
+
+(2) *Schedule 2 plant sites.* The USNA will ensure that such facility agreements are concluded with the OPCW unless the owner, operator, occupant or agent in charge of the plant site and the OPCW Technical Secretariat agree that such a facility agreement is not necessary.
+
+(3) *Schedule 3 and UDOC plant sites.* If the owner, operator, occupant or agent in charge of a declared Schedule 3 or UDOC plant site requests a facility agreement, the USNA will ensure that a facility agreement for such a plant site is concluded with the OPCW.
+
+(b) *Notification; negotiation of draft and final facility agreements; and conclusion of facility agreements.* Prior to the development of a facility agreement, BIS shall notify the owner, operator, occupant, or agent in charge of the facility, and if the owner, operator, occupant or agent in charge so requests, the notified person may participate in preparations with BIS representatives for the negotiation of such an agreement. During the initial or routine inspection of a declared facility, the Inspection Team and the Host Team will negotiate a draft facility agreement or amendment to a facility agreement. To the maximum extent practicable consistent with the Convention, the owner and the operator, occupant or agent in charge of the facility may observe facility agreement negotiations between the U.S. Government and OPCW. As a general rule, BIS will consult with the affected facility on the contents of the agreements and take the facility's views into consideration during negotiations. BIS will participate in the negotiation of, and approve, all final facility agreements with the OPCW. Facilities will be notified of and have the right to observe final facility agreement negotiations between the United States and the OPCW to the maximum extent practicable, consistent with the Convention. Prior to the conclusion of a final facility agreement, the affected facility will have an opportunity to comment on the facility agreement. BIS will give consideration to such comments prior to approving final facility agreements with the OPCW. The USNA shall ensure that facility agreements for Schedule 1, Schedule 2, Schedule 3 and UDOC facilities are concluded, as appropriate, with the OPCW in coordination with BIS.
+
+(c) [Reserved]
+
+(d) *Further information.* For further information about facility agreements, please write or call: Treaty Compliance Division, Bureau of Industry and Security, U.S. Department of Commerce, Room 4515, 14th Street and Pennsylvania Avenue, NW., Washington, DC 20230, Telephone: (202) 482-1001.
+
+[71 FR 24929, Apr. 27, 2006, as amended at 73 FR 78183, Dec. 22, 2008]

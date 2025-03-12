@@ -1,0 +1,49 @@
+##### § 783.1 Reporting requirements. #####
+
+(a) *Initial report.* You must submit an *Initial Report* to BIS, no later than December 1, 2008 (see supplement no. 1 to this part), if you were engaged in any of the civil nuclear fuel cycle-related activities described in this paragraph (a) on October 31, 2008 or you were engaged in any such activities involving uranium hard-rock mines, including those that were closed down during calendar year 2008, (up to and including October 31, 2008). If you commenced any of the civil nuclear fuel cycle-related activities described in this paragraph (a) after October 31, 2008, you must submit an *Initial Report* on these activities to BIS no later than January 31 of the year following the calendar year in which the activities commenced (see supplement no. 1 to this part). You may report these activities as part of your *Annual Update Report*, in lieu of submitting a separate *Initial Report*, if you also have an *Annual Update Report* requirement that applies to the same location and covers the same reporting period (see paragraph (b) of this section). In order to satisfy the *Initial Report* requirements under this paragraph (a), you must complete and submit to BIS Form AP-1, Form AP-2, and other appropriate Forms, as provided in this paragraph (a).
+
+(1) *Research and development activities not involving nuclear material.* You must report to BIS any of the civil nuclear fuel cycle-related research and development activities identified in paragraphs (a)(1)(i) and (a)(1)(ii) of this section. Activities subject to these APR reporting requirements include research and development activities related to safe equipment operations for a nuclear fuel cycle-related activity, but do not include activities related to theoretical or basic scientific research or to research and development on industrial radioisotope applications, medical, hydrological and agricultural applications, health and environmental effects and improved maintenance.
+
+(i) You must complete Form AP-3 and submit it to BIS, as provided in § 782.6 of the APR, if you conducted any civil nuclear fuel cycle-related research and development activities defined in § 781.1 of the APR that:
+
+(A) Did not involve nuclear material; and
+
+(B) Were funded, specifically authorized or controlled by, or conducted on behalf of, the United States.
+
+(ii) You must complete Form AP-4 and submit it to BIS, as provided in § 782.6 of the APR, if you conducted any civil nuclear fuel cycle-related research and development activities defined in § 781.1 of the APR that:
+
+(A) Did not involve nuclear material;
+
+(B) Were specifically related to enrichment, reprocessing of nuclear fuel, or the processing of intermediate or high-level waste containing plutonium, high enriched uranium or uranium-233 (where “processing” involves the separation of elements); and
+
+(C) Were not funded, specifically authorized or controlled by, or conducted on behalf of, the United States.
+
+(2) *Civil nuclear-related manufacturing, assembly or construction activities.* You must complete Form AP-5 and submit it to BIS, as provided in § 782.6 of the APR, if you engaged in any of the activities specified in supplement no. 2 to this part.
+
+(3) *Uranium hard-rock mining and ore beneficiation activities.* You must complete Form AP-6 and submit it to BIS, as provided in § 782.6 of the APR, if your location is either a uranium hard-rock mine or an ore beneficiation plant that was in operating or suspended status (see § 781.1 of the APR for the definitions of “uranium hard-rock mine” and uranium hard-rock mines in “operating,” “suspended,” or “closed-down” status).
+
+(i) The *Initial Report* requirement for calendar year 2008 applies to:
+
+(A) Uranium hard-rock mines or ore beneficiation plants that were in operating or suspended status on October 31, 2008; and
+
+(B) Uranium hard-rock mines that have changed from operating or suspended status to closed-down status during calendar year 2008 (up to and including October 31, 2008). Mines that were closed down prior to calendar year 2008 and that remain in closed-down status do not have a reporting requirement.
+
+(ii) You are required to submit an *Initial Report* to BIS, for any calendar year that follows calendar year 2008, only if you commenced operations at a uranium hard-rock mine or an ore beneficiation plant during the previous calendar year (e.g., the commencement of operations would include, but not be limited to, the resumption of operations at a mine that was previously in “closed-down” status). Otherwise, see the *Annual Update Report and No Changes Report* requirements in paragraphs (b)(1) or (b)(2) of this section. For example, you must submit an *Annual Update Report* to indicate the closed-down status of any uranium hard-rock mine that was indicated in your most recent report to be in either operating or suspended status, but at which you ceased operations during the previous calendar year.
+
+(b) *Annual reporting requirements.* You must submit either an *Annual Update Report* or a *No Changes Report* to BIS, as provided in § 782.6 of the APR, if, during the previous calendar year, you continued to engage in civil nuclear fuel cycle-related activities at a location for which you submitted an *Initial Report* to BIS in accordance with the APR reporting requirements described in paragraph (a) of this section.
+
+(1) *Annual Update Report.* You must submit an *Annual Update Report* to BIS if you have updates or changes to report concerning your location's activities during the previous calendar year. When preparing your *Annual Update Report*, you must complete the same report forms that you used for submitting your *Initial Report* on these activities. However, additional report forms will be required if your location engaged in any civil nuclear fuel cycle-related activities described in paragraph (a) of this section that you did not previously report to BIS. The appropriate report forms for each type of activity that must be reported under the APR are identified in paragraphs (a)(1) through (a)(3) of this section. You must submit your *Annual Update Report* to BIS no later than January 31 of the year following any calendar year in which the activities took place or there were changes to previously “reported” activities (see supplement no. 1 to this part).
+
+(2) *No Changes Report.* You may submit a *No Changes Report*, in lieu of an *Annual Update Report*, if you have no updates or changes concerning your location's activities (except the certifying official and dates signed and submitted) since your most recent report of activities to BIS. In order to satisfy the reporting requirements under this paragraph (b)(2), you must complete Form AP-16 and submit it to BIS, as provided in § 782.6 of the APR, no later than January 31 of the year following any calendar year in which there were no changes to previously “reported” activities or location information (see supplement no. 1 to this part).
+
+(3) *Additional guidance on annual reporting requirements.* (i) If your *Initial Report* or your most recent *Annual Update Report* for a location indicates that all civil nuclear fuel cycle-related activities described therein have ceased at that location, and no other reportable activities have occurred during the previous calendar year, then you do not have a reporting requirement for the location under paragraph (b) of this section.
+
+(ii) If your location ceases to engage in activities subject to the APR reporting requirements described in paragraph (a) of this section, and you have not previously reported this to BIS, you must submit an *Annual Update Report* covering the calendar year in which you ceased to engage in such activities.
+
+(iii) Closed-down mines should be reported only once.
+
+(c) *Import Confirmation Report.* You must complete Forms AP-1, AP-2 and AP-14 for each import of equipment or non-nuclear material identified in supplement no. 3 to this part and submit these forms to BIS, as provided in § 782.6 of the APR, if BIS sends you written notification requiring that you provide information concerning imports of such equipment and non-nuclear material. These Forms must be submitted within 30 calendar days of the date that you receive written notification of this requirement from BIS (see supplement no. 1 to this part). BIS will provide such notification when it receives a request from the IAEA for information concerning imports of this type of equipment or non-nuclear material. The IAEA may request this information to verify that you received specified equipment or non-nuclear material that was shipped to you by a person, organization, or government from a foreign country.
+
+(d) *Supplemental Information Report.* You must complete Forms AP-1, AP-2 and AP-15 and submit them to BIS, as provided in § 782.6 of the APR, if BIS sends you written notification requiring that you provide information about the activities conducted at your location, insofar as relevant for the purpose of safeguards. These Forms must be submitted within 15 calendar days of the date that you receive written notification of this requirement from BIS (see supplement no. 1 to this part). BIS will provide such notification only if the IAEA specifically requests amplification or clarification concerning any information provided in the U.S. Declaration based on your report(s).
+
+(e) *Reportable location.* A location that must submit an *Initial Report, Annual Update Report, or No Changes Report* to BIS, pursuant to the requirements of this section, is considered to be a reportable location with declared activities.

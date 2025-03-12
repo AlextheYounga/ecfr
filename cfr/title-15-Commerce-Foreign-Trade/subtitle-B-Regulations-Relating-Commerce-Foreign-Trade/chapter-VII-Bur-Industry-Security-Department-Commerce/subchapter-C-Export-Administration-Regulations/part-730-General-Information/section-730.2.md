@@ -1,0 +1,3 @@
+##### § 730.2 Statutory authority. #####
+
+The EAR have been designed primarily to implement the Export Administration Act of 1979, as amended, 50 U.S.C. app. 2401-2420 (EAA). There are numerous other legal authorities underlying the EAR. These are listed in the Federal Register documents promulgating the EAR and at the beginning of each part of the EAR in the Code of Federal Regulations (CFR). From time to time, the President has exercised authority under the International Emergency Economic Powers Act with respect to the EAR (50 U.S.C. 1701-1706 (IEEPA)). The EAA is not permanent legislation, and when it has lapsed, Presidential executive orders under IEEPA have directed and authorized the continuation in force of the EAR.

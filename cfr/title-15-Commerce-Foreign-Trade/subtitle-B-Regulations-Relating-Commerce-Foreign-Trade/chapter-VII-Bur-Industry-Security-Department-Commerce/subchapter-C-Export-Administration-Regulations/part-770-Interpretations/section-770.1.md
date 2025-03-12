@@ -1,0 +1,3 @@
+##### § 770.1 Introduction. #####
+
+In this part, references to the EAR are references to 15 CFR chapter VII, subchapter C. This part provides commodity, technology, and software interpretations. These interpretations clarify the scope of controls where such scope is not readily apparent from the Commerce Control List (CCL) (see supplement no. 1 to part 774 of the EAR) and other provisions of the Export Administration Regulations.

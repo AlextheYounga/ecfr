@@ -1,0 +1,27 @@
+##### § 764.3 Sanctions. #####
+
+(a) *Administrative.* Violations of ECRA, the EAR, or any order, license or authorization issued thereunder are subject to the administrative sanctions described in this section and to any other liability, sanction, or penalty available under law. The protective administrative measures that are described in § 764.6 of this part are distinct from administrative sanctions.
+
+(1) *Civil monetary penalty.* (i) A civil monetary penalty not to exceed the amount set forth in ECRA may be imposed for each violation, and in the event that any provision of the EAR is continued or revised by IEEPA or any other authority, the maximum monetary civil penalty for each violation shall be that provided by such other authority.
+
+(ii) The payment of any civil penalty may be made a condition, for a period not exceeding two years after the imposition of such penalty, to the granting, restoration, or continuing validity of any export license, license exception, permission, or privilege granted or to be granted to the person upon whom such penalty is imposed.
+
+(iii) The payment of any civil penalty may be deferred or suspended in whole or in part during any probation period that may be imposed. Such deferral or suspension shall not bar the collection of the penalty if the conditions of the deferral, suspension, or probation are not fulfilled.
+
+(2) *Denial of export privileges.* An order may be issued that restricts the ability of the named persons to engage in exports, reexports, and transfers (in-country) involving items subject to the EAR, or that restricts access by named persons to items subject to the EAR. An order denying export privileges may be imposed either as a sanction for a violation of ECRA, the EAR, or any other statute set forth at 50 U.S.C. 4819(e)(1)(B); or as a protective administrative measure described in § 764.6(c) or (d) of this part. An order denying export privileges may suspend or revoke any or all outstanding licenses issued under the EAR to a person named in the denial order or in which such person has an interest; may deny or restrict exports, reexports, and transfers (in-country) by or to such person of any item subject to the EAR; and may restrict dealings in which that person may benefit from any export, reexport, or transfer (in-country) of such items. The standard terms of a denial order are set forth in supplement no. 1 to this part. A non-standard denial order, narrower in scope, may be issued. Authorization to engage in actions otherwise prohibited by a denial order may be given by the Office of Exporter Services, in consultation with the Office of Export Enforcement, upon a written request by a person named in the denial order or by a person seeking permission to deal with a named person. Submit such requests to: Bureau of Industry and Security, Office of Exporter Services, Room 2099b, U.S. Department of Commerce, 14th Street and Pennsylvania Ave. NW, Washington, DC 20230.
+
+(3) *Exclusion from practice.* Any person acting as an attorney, accountant, consultant, freight forwarder, or in any other representative capacity for any license application or other matter before BIS may be excluded by order from any or all such activities before BIS.
+
+(b) *Criminal.* Whoever willfully commits, willfully attempts to commit, or willfully conspires to commit, or aids and abets in the commission of, an unlawful act described in 50 U.S.C. 4819(a) shall be fined not more than $1,000,000; and in the case of the individual, shall be imprisoned for not more than 20 years, or both.
+
+(c) *Other sanctions.* Conduct that violates ECRA, the EAR, or any order, license, or authorization issued thereunder, and other conduct specified in sections 11A, B, and C of the EAA may be subject to sanctions or other measures in addition to criminal and administrative sanctions under ECRA or the EAR. These include, but are not limited to, the following:
+
+(1) *Statutory sanctions.* Statutorily-mandated sanctions may be imposed on account of specified conduct related to weapons proliferation. Such statutory sanctions are not civil or criminal penalties, but restrict imports and procurement (See section 11A of the EAA, Multilateral Export Control Violations, and section 11C of the EAA, Chemical and Biological Weapons Proliferation), or restrict export licenses (See section 11B of the EAA, Missile Proliferation Violations, and the Iran-Iraq Arms Non-Proliferation Act of 1992).
+
+(2) *Other sanctions and measures*—(i) *Seizure and forfeiture.* Any property seized pursuant to export laws and regulations administered or enforced by the Secretary is subject to forfeiture. (50 U.S.C. 4819(d) and 4820(j); 22 U.S.C. 401; and 13 U.S.C. 305).
+
+(ii) *Actions by other agencies.* (A) The Department of State may not issue licenses or approvals for the export or reexport of defense articles and defense services controlled under the Arms Export Control Act to persons convicted of criminal offenses specified at 22 U.S.C. 2778(g)(1)(A), or to persons denied export privileges by BIS or another agency; and may deny such licenses or approvals where the applicant is indicted for, or any party to the export is convicted of, those specified criminal offenses. (22 CFR 126.7(a) and 127.11(a)).
+
+(B) The Department of Defense, among other agencies, may suspend the right of any person to contract with the United States Government based on export control violations. (Federal Acquisition Regulations at 48 CFR 9.407-2).
+
+[85 FR 73417, Nov. 18, 2020]

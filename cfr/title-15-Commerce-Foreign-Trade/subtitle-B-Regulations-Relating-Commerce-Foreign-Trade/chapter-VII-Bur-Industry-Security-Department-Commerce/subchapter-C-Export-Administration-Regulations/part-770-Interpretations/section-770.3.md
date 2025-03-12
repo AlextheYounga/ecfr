@@ -1,0 +1,25 @@
+##### § 770.3 Interpretations related to exports of technology and software to destinations in Country Group D:1. #####
+
+(a) *Introduction.* This section is intended to provide you additional guidance on how to determine whether your technology or software would be eligible for a License Exception, may be exported under NLR, or require a license, for export to Country Group D:1.
+
+(b) *Scope of licenses.* The export of technology and software under a license is authorized only to the extent specifically indicated on the face of the license. The only technology and software related to equipment exports that may be exported without a license is technology described in §§ 734.7 through 734.11 of the EAR; operating technology and software described in § 740.13(a) of the EAR; sales technology described in § 740.13(b) of the EAR; and software updates described in § 740.13(c) of the EAR.
+
+(c) *Commingled technology and software.* (1) U.S.-origin technology does not lose its U.S.-origin when it is redrawn, used, consulted, or otherwise commingled abroad in any respect with other technology of any other origin. Therefore, any subsequent or similar technical data prepared or engineered abroad for the design, construction, operation, or maintenance of any plant or equipment, or part thereof, which is based on or utilizes any U.S.-origin technology, is subject to the EAR in the same manner as the original U.S.-origin technology, including license requirements, unless the commingled technology is not subject to the EAR by reason of the *de minimis* exclusions described in § 734.4 of the EAR.
+
+(2) U.S.-origin software that is incorporated into or commingled with foreign-origin software does not lose its U.S.-origin. Such commingled software is subject to the EAR is the same manner as the original U.S.-origin software, including license requirements, unless the commingled software is not subject to the EAR by reason of the *de minimis* exclusions described in § 734.4 of the EAR.
+
+(d) *Certain License Exception.* The following questions and answers are intended to further clarify the scope of technology and software eligible for a License Exception.
+
+(1)(i) *Question 1.* (A) Our engineers, in installing or repairing equipment, use techniques (experience as well as proprietary knowledge of the internal componentry or specifications of the equipment) that exceed what is provided in the standard manuals or instructions (including training) given to the customer. In some cases, it is also a condition of the license that such information provided to the customer be constrained to the minimum necessary for normal installation, maintenance and operation situations.
+
+(B) Can we send an engineer (with knowledge and experience) to the customer site to perform the installation or repair, under the provisions of License Exception TSU for operation technology and software described in § 740.13(a) of the EAR, if it is understood that he is restricted by our normal business practices to performing the work without imparting the knowledge or technology to the customer personnel?
+
+(ii) *Answer 1.* Export of technology includes release of U.S.-origin data in a foreign country, and “release” includes “application to situations abroad of personal knowledge or technical experience acquired in the United States.” As the release of technology in the circumstances described here would exceed that permitted under the License Exception TSU for operation technology and software described in § 740.13(a) of the EAR, a license would be required even though the technician could apply the data without disclosing it to the customer.
+
+(2)(i) *Question 2.* We plan, according to our normal business practices, to train customer engineers to maintain equipment that we have exported under a license, License Exception, or NLR. The training is contractual in nature, provided for a fee, and is scheduled to take place in part in the customer's facility and in part in the U.S. Can we now proceed with this training at both locations under a License Exception?
+
+(ii) *Answer 2.* (A) Provided that this is your normal training, and involves technology contained in your manuals and standard instructions for the exported equipment, and meets the other requirements of License Exception TSU for operation technology and software described in § 740.13(a), the training may be provided within the limits of those provisions of License Exception TSU. The location of the training is not significant, as the export occurs at the time and place of the actual transfer or imparting of the technology to the customer's engineers.
+
+(B) Any training beyond that covered under the provisions of License Exception TSU for operation technology and software described in § 740.13(a), but specifically represented in your license application as required for this customer installation, and in fact authorized on the face of the license or a separate technology license, may not be undertaken while the license is suspended or revoked.
+
+[61 FR 12920, Mar. 25, 1996, as amended at 61 FR 64286, Dec. 4, 1996; 62 FR 25470, May 9, 1997; 65 FR 14860, Mar. 20, 2000]

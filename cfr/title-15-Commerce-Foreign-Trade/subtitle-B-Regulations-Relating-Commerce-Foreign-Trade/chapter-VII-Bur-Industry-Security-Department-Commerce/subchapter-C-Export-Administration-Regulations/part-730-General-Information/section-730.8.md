@@ -1,0 +1,37 @@
+##### § 730.8 How to proceed and where to get help. #####
+
+(a) *How the EAR are organized.* The Export Administration Regulations (EAR) are structured in a logical manner. In dealing with the EAR you may find it helpful to be aware of the overall organization of these regulations. In order to determine what the rules are and what you need to do, review the titles and the introductory sections of the parts of the EAR.
+
+(1) *How do you go about determining your obligations under the EAR?* Part 732 of the EAR provides steps you may follow to determine your obligations under the EAR. You will find guidance to enable you to tell whether or not your transaction is subject to the EAR and, if it is, whether it qualifies for a License Exception or must be authorized through issuance of a license.
+
+(2) *Are your items or activities subject to the EAR at all?* Part 734 of the EAR defines the items and activities that are subject to the EAR. Note that the definition of “items subject to the EAR” includes, but is not limited to, items listed on the Commerce Control List in part 774 of the EAR.
+
+(3) *If subject to the EAR, what do the EAR require?* Part 736 of the EAR lists all the prohibitions that are contained in the EAR. Note that certain prohibitions (General Prohibitions One through Three) apply to items as indicated on the CCL, and others (General Prohibitions Four through Ten) prohibit certain activities and apply to all items subject to the EAR unless otherwise indicated.
+
+(4) *Do you need a license for your item or activity? What policies will BIS apply if you do need to submit license application?* The EAR have four principal ways of describing license requirements:
+
+(i) The EAR may require a license to a country if your item is listed on the CCL and the Country Chart in part 738 of the EAR tells that a license is required to that country. Virtually all Export Control Classification Numbers (ECCN) on the CCL are covered by the Country Chart in part 738 of the EAR. That part identifies the limited number of entries that are not included on the Chart. These ECCNs will state the specific countries that require a license or refer you to a self-contained section, i.e., Short Supply in part 754 of the EAR, or Embargoes in part 746 of the EAR. If a license is required, you should consult part 740 of the EAR which describes the License Exception that may be available for items on the CCL. Part 742 of the EAR describes the licensing policies that BIS will apply in reviewing an application you file. Note that part 754 of the EAR on short supply controls and part 746 on embargoes are self-contained parts that include the available exceptions and licensing policy.
+
+(ii) A license requirement may be based on the end-use or end-user in a transaction, primarily for proliferation reasons. Part 744 of the EAR describes such requirements and relevant licensing policies and includes both restrictions on items and restrictions on the activities of U.S. persons.
+
+(iii) A license is required for virtually all exports to embargoed destinations, such as Cuba. Part 746 of the EAR describes all the licensing requirements, license review policies and License Exceptions that apply to such destinations. If your transaction involves one of these countries, you should first look at this part. This part also describes controls that may be maintained under the EAR to implement UN sanctions.
+
+(iv) In addition, under §§ 736.2(b)(9) and (10) of the EAR, you may not engage in a transaction knowing a violation is about to occur or violate any orders, terms, and conditions under the EAR. Part 764 of the EAR describes prohibited transactions with a person denied export privileges or activity that violates the terms or conditions of a denial order.
+
+(5) *How do you file a license application and what will happen to the application once you do file it? What if you need authorization for multiple transactions?* Parts 748 and 750 of the EAR provide information on license submission and processing. If your application is denied, part 756 of the EAR provides rules for filing appeals.
+
+(6) *How do you clear shipments with the U.S. Customs Service?* Part 758 of the EAR describes the requirements for clearance of exports.
+
+(7) *Where do you find the rules on restrictive trade practices and boycotts?* Part 760 of the EAR deals with restrictive trade practices and boycotts.
+
+(8) *Where are the rules on recordkeeping and enforcement?* Part 762 of the EAR sets out your recordkeeping requirements, and parts 764 and 766 of the EAR deal with violations and enforcement proceedings.
+
+(9) *What is the effect of foreign availability?* Part 768 of the EAR provides rules for determining foreign availability of items subject to controls.
+
+(10) *Do the EAR provide definitions and interpretations?* Part 770 of the EAR contains interpretations and part 772 of the EAR lists definitions used.
+
+(b) *Why the EAR are so detailed.* Some people will find the great length of the EAR and their extensive use of technical terms intimidating. BIS believes, however, that such detail and precision can and does serve the interests of the public. The detailed listing of technical parameters in the CCL establishes precise, objective criteria. This should, in most cases, enable you to ascertain the appropriate control status. Broader, more subjective criteria would leave exporters and reexporters more dependent upon interpretations and rulings by BIS officials. Moreover, much of the detail in the CCL is derived from multilaterally adopted lists, and the specificity serves to enhance the uniformity and effectiveness of international control practices and to promote a “level playing field”. The detailed presentation of such elements as licensing and export clearance procedures enables you to find in one place what you need to know to comply with pertinent requirements. Of special importance is the detailed listing of License Exception criteria, as these will enable you to determine quickly, and with confidence, that you may proceed with a transaction without delay. Finally, some of the detail results from the need to draft the EAR with care in order to avoid loop-holes and to permit effective enforcement.
+
+(c) *Where to get help.* Throughout the EAR you will find information on offices you can contact for various purposes and types of information. General information including assistance in understanding the EAR, information on how to obtain forms, electronic services, publications, and information on training programs offered by BIS, is available from the Office of Export Services at the following locations: Outreach and Educational Services Division, U.S. Department of Commerce, 14th and Pennsylvania Avenue, NW., Room H1099D, Washington, DC 20230, Tel: (202) 482-4811, Fax: (202) 482-2927, and Bureau of Industry and Security, Western Regional Office, U.S. Department of Commerce, 2302 Martin St., Suite 330, Irvine, CA 92612, Tel: (949) 660-0144, Fax: (949) 660-9347, and Bureau of Industry and Security, Western Regional Office, Northern California Branch, U.S. Department of Commerce, 160 W. Santa Clara Street, Suite 725, San Jose, CA 95113, Tel: (408) 998-8806, Fax: (408) 998-8677.
+
+[61 FR 12734, Mar. 25, 1996, as amended at 69 FR 5687, Feb. 6, 2004; 70 FR 14386, Mar. 22, 2005; 70 FR 22249, Apr. 29, 2005; 72 FR 3945, Jan. 29, 2007; 73 FR 35, Jan. 2, 2008; 73 FR 75944, Dec. 15, 2008; 76 FR 40604, July 11, 2011; 80 FR 51729, Aug. 26, 2015]

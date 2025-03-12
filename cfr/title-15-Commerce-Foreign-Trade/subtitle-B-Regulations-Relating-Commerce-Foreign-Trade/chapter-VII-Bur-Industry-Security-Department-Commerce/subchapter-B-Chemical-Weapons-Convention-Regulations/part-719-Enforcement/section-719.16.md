@@ -1,0 +1,3 @@
+##### § 719.16 Extension of time. #####
+
+The parties may extend any applicable time limitation by stipulation filed with the ALJ before the time limitation expires, or the ALJ may, on the ALJ's own initiative or upon application by any party, either before or after the expiration of any applicable time limitation, extend the time , except that the requirement that a hearing be demanded within 15 days, and the requirement that a final agency decision be made within 30 days, may not be modified.

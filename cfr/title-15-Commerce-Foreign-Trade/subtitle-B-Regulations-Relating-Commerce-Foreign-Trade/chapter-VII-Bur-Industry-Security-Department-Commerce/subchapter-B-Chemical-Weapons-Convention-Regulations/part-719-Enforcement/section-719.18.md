@@ -1,0 +1,9 @@
+##### § 719.18 Decisions. #####
+
+(a) *Initial decision.* After considering the entire record in the case, the ALJ will issue an initial decision based on a preponderance of the evidence. The decision will include findings of fact, conclusions of law, and a decision based thereon as to whether the respondent has violated the Act. If the ALJ finds that the evidence of record is insufficient to sustain a finding that a violation has occurred with respect to one or more allegations, the ALJ shall order dismissal of the allegation(s) in whole or in part, as appropriate. If the ALJ finds that one or more violations have been committed, the ALJ shall issue an order imposing administrative sanctions.
+
+(b) *Factors considered in assessing penalties.* In determining the amount of a civil penalty, the ALJ shall take into account the nature, circumstances, extent and gravity of the violation(s), and, with respect to the respondent, the respondent's ability to pay the penalty, the effect of a civil penalty on the respondent's ability to continue to do business, the respondent's history of prior violations, the respondent's degree of culpability, the existence of an internal compliance program, and such other matters as justice may require.
+
+(c) *Certification of initial decision.* The ALJ shall immediately certify the initial decision and order to the Executive Director of the Office of Legal Adviser, U.S. Department of State, 2201 C Street, NW., Room 5519, Washington, DC 20520, to the Office of Chief Counsel at the address in § 719.8, and to the respondent, by personal delivery or overnight mail.
+
+(d) *Review of initial decision.* The initial decision shall become the final agency decision and order unless, within 30 days, the Secretary of State modifies or vacates it, with or without conditions, in accordance with 22 CFR 103.8.

@@ -1,0 +1,5 @@
+##### § 734.11 BIS activities conducted outside the United States. #####
+
+The Export Control Reform Act of 2018 (ECRA) (50 U.S.C. 4801-4852) authorizes the Secretary of Commerce, in carrying out its provisions, to undertake activities outside the United States, including, but not limited to, conducting investigations; requiring and obtaining information from persons; and conducting pre-license checks and post-shipment verifications. BIS officials will act with due care in the jurisdiction of a foreign nation and, to the extent possible, consistent with the applicable host nation government's laws. For any action taken outside the United States, BIS officials will consult and coordinate with the appropriate U.S. Government agencies and act in a manner consistent with the United States' international commitments and international agreements to which the United States is a party.
+
+[85 FR 73413, Nov. 18, 2020]

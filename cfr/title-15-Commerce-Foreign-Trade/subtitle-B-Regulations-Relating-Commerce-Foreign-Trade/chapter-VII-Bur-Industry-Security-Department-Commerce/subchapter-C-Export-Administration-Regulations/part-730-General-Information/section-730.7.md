@@ -1,0 +1,3 @@
+##### § 730.7 License requirements and exceptions. #####
+
+A relatively small percentage of exports and reexports subject to the EAR require an application to BIS for a license. Many items are not on the Commerce Control List (CCL) (supplement no. 1 to § 774.1 of the EAR), or, if on the CCL, require a license to only a limited number of countries. Other transactions may be covered by one or more of the License Exceptions in the EAR. In such cases no application need be made to BIS.

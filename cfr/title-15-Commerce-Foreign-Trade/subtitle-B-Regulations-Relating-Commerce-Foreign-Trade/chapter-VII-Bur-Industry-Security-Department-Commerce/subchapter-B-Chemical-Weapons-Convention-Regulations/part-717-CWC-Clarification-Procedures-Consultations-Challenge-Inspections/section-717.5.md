@@ -1,0 +1,3 @@
+##### § 717.5 Post-inspection activities. #####
+
+BIS will forward a copy of the final inspection report to the inspected facility for their review upon receipt from the OPCW. Facilities may submit comments on the final inspection report to BIS, and BIS will consider them, to the extent possible, when commenting on the final report. BIS will also send facilities a post-inspection letter detailing the issues that require follow-up action and the date on which the report on inspection-related costs (see § 717.4 of the CWCR) is due to BIS.

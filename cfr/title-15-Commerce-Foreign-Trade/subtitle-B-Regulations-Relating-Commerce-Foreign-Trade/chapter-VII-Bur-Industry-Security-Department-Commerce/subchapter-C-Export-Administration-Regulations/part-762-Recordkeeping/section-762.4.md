@@ -1,0 +1,5 @@
+##### § 762.4 Original records required. #####
+
+The regulated person must maintain the original records in the form in which that person receives or creates them unless that person meets all of the conditions of § 762.5 of this part relating to reproduction of records. If the original record does not meet the standards of legibility and readability described in § 762.5 of this part and the regulated person intends to rely on that record to meet the recordkeeping requirements of the EAR, that person must retain the original record. With respect to documents that BIS issues to a party in SNAP-R, either an electronically stored copy in a format that makes the document readable with software possessed by that party or a paper print out of the complete document is deemed to be an original record for purposes of this section.
+
+[61 FR 12900, Mar. 25, 1996, as amended at 75 FR 17055, Apr. 5, 2010]

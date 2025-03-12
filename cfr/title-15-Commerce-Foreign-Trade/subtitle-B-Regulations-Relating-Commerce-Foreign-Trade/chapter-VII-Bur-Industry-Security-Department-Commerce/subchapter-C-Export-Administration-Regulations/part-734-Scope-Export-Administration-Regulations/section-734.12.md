@@ -1,0 +1,3 @@
+##### § 734.12 Effect on foreign laws and regulations. #####
+
+Any person who complies with any of the license or other requirements of the EAR is not relieved of the responsibility of complying with applicable foreign laws and regulations. Conversely, any person who complies with the license or other requirements of a foreign law or regulation is not relieved of the responsibility of complying with U.S. laws and regulations, including the EAR.

@@ -1,0 +1,9 @@
+##### § 719.6 Request for hearing and answer. #####
+
+(a) *Time to answer.* If the respondent wishes to contest the NOVA and proposed order issued by the Secretary of State, the respondent must request a hearing in writing within 15 business days from the postmarked date of the NOVA. If the respondent requests a hearing, the respondent must answer the NOVA within 30 days from the date of the request for hearing. The request for hearing and answer must be filed with the Administrative Law Judge (ALJ), along with a copy of the NOVA and proposed order, and served on the Office of Chief Counsel, and any other address(es) specified in the NOVA, in accordance with § 719.8 of the CWCR.
+
+(b) *Content of answer.* The respondent's answer must be responsive to the NOVA and proposed order, and must fully set forth the nature of the respondent's defense(s). The answer must specifically admit or deny each separate allegation in the NOVA; if the respondent is without knowledge, the answer will so state and will operate as a denial. Failure to deny or controvert a particular allegation will be deemed an admission of that allegation. The answer must also set forth any additional or new matter the respondent contends supports a defense or claim of mitigation. Any defense or partial defense not specifically set forth in the answer shall be deemed waived, and evidence thereon may be refused, except for good cause shown.
+
+(c) *English required.* The request for hearing, answer, and all other papers and documentary evidence must be submitted in English.
+
+(d) *Waiver.* The failure of the respondent to file a request for a hearing and an answer within the times provided constitutes a waiver of the respondent's right to appear and contest the allegations set forth in the NOVA and proposed order. If no hearing is requested and no answer is provided, the proposed order will be signed and become final and unappealable.

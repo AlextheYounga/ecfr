@@ -1,0 +1,7 @@
+##### § 784.5 Subsidiary arrangements. #####
+
+(a) *General subsidiary arrangement.* The United States Government may conclude a general subsidiary arrangement with the IAEA that governs complementary access activities, irrespective of the location (i.e., an arrangement that is not location-specific).
+
+(b) *Location-specific subsidiary arrangement*—(1) *Purpose.* If requested by the location or deemed necessary by the U.S. Government, the U.S. Government will negotiate a location-specific subsidiary arrangement with the IAEA. The purpose of such an arrangement is to establish procedures for conducting managed access at a specific declared location. If the location requests, it may participate in preparations for the negotiation of a location-specific subsidiary arrangement with the IAEA and may observe the negotiations to the maximum extent practicable. The existence of a location-specific subsidiary arrangement does not in any way limit the right of the owner, operator, occupant, or agent in charge of the location to withhold consent to a request for complementary access.
+
+(2) *Format and content.* The form and content of a location-specific subsidiary arrangement will be determined by the IAEA and the U.S. Government, in consultation with the location, on a case-by-case basis.

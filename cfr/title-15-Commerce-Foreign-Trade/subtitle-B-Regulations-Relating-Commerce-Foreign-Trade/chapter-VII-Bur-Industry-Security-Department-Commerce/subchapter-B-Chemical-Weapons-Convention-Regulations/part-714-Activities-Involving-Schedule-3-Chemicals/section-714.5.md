@@ -1,0 +1,3 @@
+##### § 714.5 Declarations and reports returned without action by BIS. #####
+
+If you submit a declaration or report and BIS determines that the information contained therein is not required by the CWCR, BIS will return the original declaration or report to you, without action, accompanied by a letter explaining BIS's decision. In order to protect your confidential business information, BIS will not maintain a copy of any declaration or report that is returned without action. However, BIS will maintain a copy of the RWA letter.
