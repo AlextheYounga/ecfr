@@ -108,4 +108,4 @@
 
 (f) *Implication of the physician's or other prescriber's supporting statement.* Nothing in this section should be construed to mean that the physician's or other prescriber's supporting statement required for an exceptions request will result in an automatic favorable decision.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 74 FR 1546, Jan. 12, 2009]
+[70 FR 4525, Jan. 28, 2005, as amended at 74 FR 1546, Jan. 12, 2009; 83 FR 16751, Apr. 16, 2018]

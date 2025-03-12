@@ -2,7 +2,7 @@
 
 (a) *Nonrenewal by a Part D plan sponsor.* (1) Except for fallback entities, a Part D plan sponsor may elect not to renew its contract with CMS, effective at the end of the term of the contract for any reason provided it meets the timeframes for doing so set forth in paragraphs (a)(2) and (a)(3) of this section.
 
-(2) If a Part D plan sponsor does not intend to renew its contract, it must notify -
+(2) If a Part D plan sponsor does not intend to renew its contract, it must notify—
 
 (i) CMS in writing by the first Monday of June in the year in which the contract ends;
 
@@ -24,6 +24,6 @@
 
 (5) If a Part D plan sponsor does not renew a contract under this paragraph (a), it must ensure the timely transfer of any data or files.
 
-[Reserved]
+(b) [Reserved]
 
 [70 FR 4525, Jan. 28, 2005, as amended at 72 FR 68733, Dec. 5, 2007; 74 FR 1546, Jan. 12, 2009; 75 FR 19821, Apr. 15, 2010; 76 FR 21575, Apr. 15, 2011; 83 FR 16750, Apr. 16, 2018]

@@ -20,8 +20,6 @@
 
 (8) For all exports of tangible items subject to the EAR where parties to the transaction, as described in § 748.5(d) through (f) of the EAR, are listed on the Unverified List (supplement 6 to part 744 of the EAR), regardless of value or destination.
 
-(9) For items that fall under ECCNs that list CC Column 1 and 3 and RS Column 2 (see supplement no. 1 to part 738 of the EAR) as reasons for control and such items are for export, regardless of value, to India.
-
 (c) *Exemptions.* A complete list of exemptions from the EEI filing requirement is set forth in the 15 CFR 30.35 through 30.40 of the FTR. Some of these FTR exemptions have elements in common with certain EAR license exceptions. An FTR exemption may be narrower than an EAR license exception. The following references are provided in order to direct you to the FTR exemptions that relate to EAR license exceptions:
 
 (1) License Exception Baggage (BAG), as set forth in § 740.14 of the EAR. See 15 CFR 30.37(x) of the FTR;
@@ -72,4 +70,4 @@ The Bureau of Census Foreign Trade Regulations impose additional requirements fo
 
 (i) *Filing the Electronic Export Information (EEI).* The EEI must be filed with the United States Government in the manner prescribed by the Bureau of Census Foreign Trade Regulations (15 CFR part 30).
 
-[79 FR 4617, Jan. 29, 2014, as amended at 79 FR 32626, June 5, 2014; 79 FR 34221, June 16, 2014; 79 FR 48661, Aug. 18, 2014; 80 FR 3466, Jan. 23, 2015; 80 FR 43319, July 22, 2015]
+[79 FR 4617, Jan. 29, 2014, as amended at 79 FR 32626, June 5, 2014; 79 FR 34221, June 16, 2014; 79 FR 48661, Aug. 18, 2014; 80 FR 3466, Jan. 23, 2015; 80 FR 43319, July 22, 2015; 83 FR 38021, Aug. 3, 2018]

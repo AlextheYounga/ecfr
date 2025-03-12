@@ -1,5 +1,7 @@
 ##### § 1.1105 Schedule of charges for applications and other filings for the wireline competition services. #####
 
+Link to an amendment published at 83 FR 38048, August 3, 2018.
+
 Remit payment for these services electronically using the Commission's electronic filing and payment system, and, where practicable, applications and other substantive filings, in accordance with the procedures set forth on the Commission's website, *www.fcc.gov/licensing-databases/fees.* Petitions, applications, and other substantive filings in hard copy format are to be submitted according to the procedures set forth on the web page of the FCC's Office of the Secretary, *https://www.fcc.gov/secretary.*
 
 |                                                                                  Service                                                                                   |FCC Form No.|Fee amount  <br/>($)|Payment  <br/>type code|

@@ -1,5 +1,7 @@
 ##### § 54.9801-2 Definitions. #####
 
+Link to an amendment published at 83 FR 38241, Aug. 3, 2018.
+
 Unless otherwise provided, the definitions in this section govern in applying the provisions of sections 9801 through 9815 and 9831 through 9833.
 
 *Affiliation period* means a period of time that must expire before health insurance coverage provided by an HMO becomes effective, and during which the HMO is not required to provide benefits.

@@ -1,5 +1,7 @@
 ##### § 1.1102 Schedule of charges for applications and other filings in the wireless telecommunications services. #####
 
+Link to an amendment published at 83 FR 38040, August 3, 2018.
+
 In the table below, the amounts appearing in the column labeled “Fee Amount” are for application fees only. Those services designated in the table below with an asterisk (\*) in the column labeled “Payment Type Code” also have associated regulatory fees that must be paid at the same time the application fee is paid. Please refer to the FY 2014 Wireless Telecommunications Fee Filing Guide (updated and effective 9/17/15) for the corresponding regulatory fee amount located at *https://www.fcc.gov/document/wtb-application-fee-filing-guide-effective-september-17-2015.* For additional guidance, please refer to § 1.1152 of the Commission's rules.
 
 Payment can be made electronically using the Commission's electronic filing and payment system “Fee Filer” (*www.fcc.gov/feefiler*). Remit manual filings and/or payments for these services to: Federal Communications Commission, Wireless Bureau Applications, P.O. Box 979097, St. Louis, MO 63197-9000.

@@ -1,5 +1,7 @@
 ##### § 2590.701-2 Definitions. #####
 
+Link to an amendment published at 83 FR 38242, Aug. 3, 2018.
+
 Unless otherwise provided, the definitions in this section govern in applying the provisions of §§ 2590.701 through 2590.734.
 
 *Affiliation period* means a period of time that must expire before health insurance coverage provided by an HMO becomes effective, and during which the HMO is not required to provide benefits.
