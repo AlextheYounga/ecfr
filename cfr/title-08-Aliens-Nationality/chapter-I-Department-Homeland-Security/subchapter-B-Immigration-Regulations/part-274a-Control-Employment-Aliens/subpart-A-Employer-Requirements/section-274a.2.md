@@ -1,6 +1,6 @@
 ##### § 274a.2 Verification of identity and employment authorization. #####
 
-Link to an amendment published at 82 FR 5289, Jan. 17, 2017.
+Link to an amendment published at 82 FR 5289, Jan. 17, 2017.Portions of this amendment were delayed until Mar. 14, 2018, at 82 FR 31887, July 11, 2017.
 
 (a) *General.* This section establishes requirements and procedures for compliance by persons or entities when hiring, or when recruiting or referring for a fee, or when continuing to employ individuals in the United States.
 

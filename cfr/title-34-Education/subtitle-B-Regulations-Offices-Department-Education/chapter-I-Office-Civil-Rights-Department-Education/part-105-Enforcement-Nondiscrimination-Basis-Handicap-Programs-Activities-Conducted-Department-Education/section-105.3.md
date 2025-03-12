@@ -1,5 +1,7 @@
 ##### § 105.3 Definitions. #####
 
+Link to an amendment published at 82 FR 31912, July 11, 2017.
+
 For purposes of this part, the following definitions apply:
 
 *Auxiliary aids* means services or devices that enable persons with impaired sensory, manual, or speaking skills to have an equal opportunity to participate in, and enjoy the benefits of, programs or activities conducted by the Department. For example, auxiliary aids useful for persons with impaired vision include readers, materials in braille, audio recordings, and other similar services and devices. Auxiliary aids useful for persons with impaired hearing include telephone handset amplifiers, telephones compatible with hearing aids, telecommunication devices for deaf persons (TDDs), interpreters, notetakers, written materials, and other similar services and devices.

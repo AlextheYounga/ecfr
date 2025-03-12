@@ -1,5 +1,7 @@
 ##### § 361.5 Applicable definitions. #####
 
+Link to an amendment published at 82 FR 31913, July 11, 2017.
+
 The following definitions apply to this part:
 
 (a) Definitions in EDGAR 77.1.

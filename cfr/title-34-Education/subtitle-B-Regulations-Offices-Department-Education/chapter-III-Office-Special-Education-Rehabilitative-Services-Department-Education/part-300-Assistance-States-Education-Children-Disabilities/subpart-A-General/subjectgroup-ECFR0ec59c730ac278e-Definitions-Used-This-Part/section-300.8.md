@@ -1,5 +1,7 @@
 ##### § 300.8 Child with a disability. #####
 
+Link to an amendment published at 82 FR 31912, July 11, 2017.
+
 (a) *General.* (1) *Child with a disability* means a child evaluated in accordance with §§ 300.304 through 300.311 as having mental retardation, a hearing impairment (including deafness), a speech or language impairment, a visual impairment (including blindness), a serious emotional disturbance (referred to in this part as “emotional disturbance”), an orthopedic impairment, autism, traumatic brain injury, an other health impairment, a specific learning disability, deaf-blindness, or multiple disabilities, and who, by reason thereof, needs special education and related services.
 
 (2)(i) Subject to paragraph (a)(2)(ii) of this section, if it is determined, through an appropriate evaluation under §§ 300.304 through 300.311, that a child has one of the disabilities identified in paragraph (a)(1) of this section, but only needs a related service and not special education, the child is not a child with a disability under this part.

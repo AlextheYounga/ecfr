@@ -1,6 +1,6 @@
 ##### § 103.7 Fees. #####
 
-Link to an amendment published at 82 FR 5286, Jan. 17, 2017.
+Link to an amendment published at 82 FR 5286, Jan. 17, 2017.This amendment was delayed until Mar. 14, 2018, at 82 FR 31887, July 11, 2017.
 
 (a) *Remittances.* (1) Fees shall be submitted with any formal application or petition prescribed in this chapter in the amount prescribed by law or regulation. Except for fees remitted directly to the Board of Immigration Appeals pursuant to the provisions of 8 CFR 1003.8, or as the Attorney General otherwise may provide by regulation, any fee relating to any Department of Justice Executive Office for Immigration Review proceeding shall be paid to, and accepted by, any USCIS office authorized to accept fees. The immigration court does not collect fees. Payment of any fee under this section does not constitute filing of the document with the Board of Immigration Appeals or with the Immigration Court. The Department of Homeland Security shall return to the payer, at the time of payment, a receipt for any fee paid. The USCIS shall also return to the payer any documents, submitted with the fee, relating to any Immigration Court proceeding.
 

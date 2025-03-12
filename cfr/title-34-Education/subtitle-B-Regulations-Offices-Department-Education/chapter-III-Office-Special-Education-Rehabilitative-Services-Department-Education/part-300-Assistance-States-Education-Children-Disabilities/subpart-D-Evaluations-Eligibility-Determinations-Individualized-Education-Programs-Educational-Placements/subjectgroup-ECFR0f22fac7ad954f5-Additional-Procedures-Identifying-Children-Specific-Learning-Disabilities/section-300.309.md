@@ -1,5 +1,7 @@
 ##### § 300.309 Determining the existence of a specific learning disability. #####
 
+Link to an amendment published at 82 FR 31912, July 11, 2017.
+
 (a) The group described in § 300.306 may determine that a child has a specific learning disability, as defined in § 300.8(c)(10), if -
 
 (1) The child does not achieve adequately for the child's age or to meet State-approved grade-level standards in one or more of the following areas, when provided with learning experiences and instruction appropriate for the child's age or State-approved grade-level standards:

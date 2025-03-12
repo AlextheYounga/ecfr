@@ -1,6 +1,6 @@
 ##### § 274a.12 Classes of aliens authorized to accept employment. #####
 
-Link to an amendment published at 82 FR 5289, Jan. 17, 2017.
+Link to an amendment published at 82 FR 5289, Jan. 17, 2017.This amendment was delayed until Mar. 14, 2018, at 82 FR 31887, July 11, 2017.
 
 (a) *Aliens authorized employment incident to status.* Pursuant to the statutory or regulatory reference cited, the following classes of aliens are authorized to be employed in the United States without restrictions as to location or type of employment as a condition of their admission or subsequent change to one of the indicated classes. Any alien who is within a class of aliens described in paragraphs (a)(3), (a)(4), (a)(6)-(a)(8), (a)(10)-(a)(15), or (a)(20) of this section, and who seeks to be employed in the United States, must apply to U.S. Citizenship and Immigration Services (USCIS) for a document evidencing such employment authorization. USCIS may, in its discretion, determine the validity period assigned to any document issued evidencing an alien's authorization to work in the United States.
 
@@ -184,21 +184,7 @@ Link to an amendment published at 82 FR 5289, Jan. 17, 2017.
 
 (26) An H-4 nonimmigrant spouse of an H-1B nonimmigrant described as eligible for employment authorization in 8 CFR 214.2(h)(9)(iv).
 
-(27) [Reserved]
-
-(28) [Reserved]
-
-(29) [Reserved]
-
-(30) [Reserved]
-
-(31) [Reserved]
-
-(32) [Reserved]
-
-(33) [Reserved]
-
-(34) [Reserved]
+(27)-(34) [Reserved]
 
 (35) An alien who is the principal beneficiary of a valid immigrant petition under section 203(b)(1), 203(b)(2) or 203(b)(3) of the Act described as eligible for employment authorization in 8 CFR 204.5(p).
 

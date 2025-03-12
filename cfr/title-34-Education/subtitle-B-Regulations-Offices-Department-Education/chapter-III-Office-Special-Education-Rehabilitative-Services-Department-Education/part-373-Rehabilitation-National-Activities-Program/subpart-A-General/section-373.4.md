@@ -1,5 +1,7 @@
 ##### § 373.4 What definitions apply? #####
 
+Link to an amendment published at 82 FR 31913, July 11, 2017.
+
 The following definitions apply to this part:
 
 *Act* means the Rehabilitation Act of 1973, as amended.

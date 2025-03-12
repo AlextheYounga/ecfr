@@ -1,5 +1,7 @@
 ##### § 300.311 Specific documentation for the eligibility determination. #####
 
+Link to an amendment published at 82 FR 31913, July 11, 2017.
+
 (a) For a child suspected of having a specific learning disability, the documentation of the determination of eligibility, as required in § 300.306(a)(2), must contain a statement of -
 
 (1) Whether the child has a specific learning disability;

@@ -1,5 +1,7 @@
 ##### § 385.4 What definitions apply to these programs? #####
 
+Link to an amendment published at 82 FR 31913, July 11, 2017.
+
 (a) The following definitions in 34 CFR part 77 apply to the programs under the Rehabilitation Training Program -
 
 ApplicantApplicationAwardBudget PeriodDepartmentEDGARGranteeNonprofitPrivateProjectProject PeriodPublicSecretary(Authority: Section 12(c) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 709(c))
