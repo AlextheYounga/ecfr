@@ -1,7 +1,5 @@
 ##### § 319.37-8 Growing media. #####
 
-Link to an amendment published at 82 FR 43157, September 14, 2017.
-
 (a) Any restricted article at the time of importation or offer for importation into the United States shall be free of sand, soil, earth, and other growing media, except as provided in paragraph (b), (c), (d) or (e) of this section.
 
 (b)(1) A restricted article from Canada may be imported in any growing medium, except as restricted in paragraph (b)(2) of this section.
@@ -22,11 +20,11 @@ Link to an amendment published at 82 FR 43157, September 14, 2017.
 
 9 See footnote 8.
 
-*Begonia**Gloxinia* (=*Sinningia*)*Nidularium*10
+*Begonia**Cymbidium* spp. from the Republic of Korea*Gloxinia* (=*Sinningia*)*Nidularium*10
 
 10 See footnote 8.
 
-*Oncidium* spp. from Taiwan*Peperomia**Phalaenopsis* spp. from Taiwan and the People's Republic of China*Polypodiophyta* (=*Filicales*) (ferns)*Rhipsalidopsis* spp. from the Netherlands and Denmark*Rhododendron* from Europe*Saintpaulia**Schlumbergera* spp. from the Netherlands and Denmark *Solanum lycopersicum* from Mexico.
+*Oncidium* spp. from Taiwan*Peperomia**Phalaenopsis* spp. from Taiwan, the People's Republic of China, and the Republic of Korea*Polypodiophyta* (=*Filicales*) (ferns)*Rhipsalidopsis* spp. from the Netherlands and Denmark*Rhododendron* from Europe*Saintpaulia**Schlumbergera* spp. from the Netherlands and Denmark *Solanum lycopersicum* from Mexico.
 
 (1) Approved growing media are baked expanded clay pellets, coal cinder, coir, cork, glass wool, organic and inorganic fibers, peat, perlite, phenol formaldehyde, plastic particles, polyethylene, polymer stabilized starch, polystyrene, polyurethane, rock wool, sphagnum moss, ureaformaldehyde, stockosorb superabsorbent polymer, vermiculite, volcanic rock, or zeolite, or any combination of these media. Growing media must not have been previously used.
 
@@ -90,7 +88,7 @@ Link to an amendment published at 82 FR 43157, September 14, 2017.
 
 (D) If all of the above requirements are correctly complied with, then the tomato fruit produced from the imported greenhouse plantlets may be shipped from the greenhouses for commercial sale within the United States.
 
-(xiii) Plants for planting of *Phalaenopsis* spp. from the People's Republic of China may only be imported into the continental United States, and may not be imported or moved into Hawaii or the territories of the United States.
+(xiii) Plants for planting of *Phalaenopsis* spp. from the People's Republic of China and *Phalaenopsis* spp. and *Cymbidium* spp. from the Republic of Korea may only be imported into the continental United States, and may not be imported or moved into Hawaii or the territories of the United States.
 
 (f) A restricted article of *Hyacinthus* spp. (hyacinth) may be imported established in unused peat, sphagnum moss, or vermiculite growing media, or in synthetic growing media or synthetic horticultural foams, i.e., plastic particles, glass wool, organic and inorganic fibers, polyurethane, polystyrene, polyethylene, phenol formaldehyde, or ureaformaldehyde:
 
@@ -122,4 +120,4 @@ Link to an amendment published at 82 FR 43157, September 14, 2017.
 
 (g) *Pest risk evaluation standards for plants established in growing media.* The Animal and Plant Health Inspection Service will conduct a pest risk assessment based on pest risk analysis guidelines established by the International Plant Protection Convention of the United Nations' Food and Agriculture Organization in response to each request to allow the importation of additional taxa of plants in growing media. These guidelines are available upon request by writing to USDA, APHIS, PPQ, Center for Plant Health Science and Technology, Plant Epidemiology and Risk Assessment Laboratory, 1017 Main Campus Drive, Suite 2500, Raleigh, NC 27606.
 
-(Approved by the Office of Management and Budget under control numbers 0579-0266, 0579-0431, and 0579-0439)[45 FR 31585, May 13, 1980]Editorial Note:For Federal Register citations affecting § 319.37-8, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Approved by the Office of Management and Budget under control numbers 0579-0266, 0579-0439, and 0579-0454)[45 FR 31585, May 13, 1980]Editorial Note:For Federal Register citations affecting § 319.37-8, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

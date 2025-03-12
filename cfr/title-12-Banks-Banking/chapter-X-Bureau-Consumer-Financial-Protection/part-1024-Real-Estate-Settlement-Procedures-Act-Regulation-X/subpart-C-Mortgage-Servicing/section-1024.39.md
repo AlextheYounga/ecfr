@@ -1,6 +1,6 @@
 ##### § 1024.39 Early intervention requirements for certain borrowers. #####
 
-Link to an amendment published at 81 FR 72373, Oct. 19, 2016.
+Link to an amendment published at 81 FR 72373, Oct. 19, 2016.Link to an amendment published at 82 FR 47957, Oct. 16, 2017.
 
 (a) *Live contact.* A servicer shall establish or make good faith efforts to establish live contact with a delinquent borrower not later than the 36th day of the borrower's delinquency and, promptly after establishing live contact, inform such borrower about the availability of loss mitigation options if appropriate.
 

@@ -1,16 +1,14 @@
 ##### 1852.245-82 Occupancy management requirements. #####
 
-Link to an amendment published at 82 FR 38853, Aug. 16, 2017.
-
 As prescribed in 1845.107-70(m), insert the following clause:
 
-Occupany Management Requirements (JAN 2011)
+Occupancy Management Requirements (SEP 2017)
 
 (a) In addition to the requirements of the clause at FAR 52.245-1, Government Property, as included in this contract, the Contractor shall comply with the following in performance of work in and around Government real property:
 
-(1) NPD 8800.14, Policy for Real Property Management.
+(1) NPD 8800.14, Policy for Real Estate Management.
 
-(2) NPR 8831.2, Facility Maintenance Management.
+(2) NPD 8831.2, Facilities Maintenance and Operations Management.
 
 [Insert any additional Center occupancy requirements here]
 
@@ -20,4 +18,4 @@ Occupany Management Requirements (JAN 2011)
 
 (d) The Contractor shall report any real property or any portion thereof when it is no longer required for performance under the contract, as directed by the Contracting Officer.
 
-(End of clause)[76 FR 2006, Jan. 12, 2011, as amended at 81 FR 24501, Apr. 26, 2016]
+(End of clause)[76 FR 2006, Jan. 12, 2011, as amended at 81 FR 24501, Apr. 26, 2016; 82 FR 38853, Aug. 16, 2017]
