@@ -1,5 +1,7 @@
 ##### § 16.4 Requests for access; requirements. #####
 
+Link to an amendment published at 83 FR 26361, June 7, 2018.
+
 (a) Any individual, regardless of age, may submit to the Department a request for access to records of the Department. The request should be made either in person at the Office of, or by mail addressed to, the responsible Privacy Act Officer identified in Appendix A to this part. Although oral requests may be honored, a requester may be asked to submit his request in writing. The envelope containing the request and the letter itself should both clearly indicate that the subject is a PRIVACY ACT REQUEST FOR ACCESS TO RECORDS.
 
 (b) When a request for access to records is misdirected by the requester, or not addressed as specified in paragraph (a) of this section, the Department official receiving same shall promptly refer it to the appropriate Privacy Act Officer and the time of receipt for processing purposes will be the time when it is received by that official.

@@ -1,5 +1,7 @@
 ##### § 40.2 Definition of “residential structure”. #####
 
+Link to an amendment published at 83 FR 26361, June 7, 2018.
+
 (a) As used in this part, the term *residential structure* means a residential structure (other than a privately owned residential structure and a residential structure on a military reservation):
 
 (1) Constructed or altered by or on behalf of the United States;

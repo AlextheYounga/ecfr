@@ -1,5 +1,7 @@
 ##### § 8.1 Purpose. #####
 
+Link to an amendment published at 83 FR 26361, June 7, 2018.
+
 (a) The purpose of this part is to effectuate section 504 of the Rehabilitation Act of 1973, as amended (29 U.S.C 794), to the end that no otherwise qualified individual with handicaps in the United States shall, solely by reason of his or her handicap, be excluded from the participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal financial assistance from the Department of Housing and Urban Development. This part also implements section 109 of the Housing and Community Development Act of 1974, as amended (42 U.S.C. 5309). This part does not effectuate section 504 as it applies to any program or activity conducted by the Department. Compliance with this part does not assure compliance with requirements for accessibility by physically-handicapped persons imposed under the Architectural Barriers Act of 1968 (42 U.S.C. 4151-4157; 24 CFR part 40).
 
 (b) The policies and standards for compliance established by this part are established in contemplation of, and with a view to enforcement through, the Department's administration of programs or activities receiving Federal financial assistance and the administrative procedures described in subparts D and E (including, without limitation, judicial enforcement under § 8.57(a)).

@@ -1,5 +1,7 @@
 ##### § 8.4 Discrimination prohibited. #####
 
+Link to an amendment published at 83 FR 26361, June 7, 2018.
+
 (a) No qualified individual with handicaps shall, solely on the basis of handicap, be excluded from participation in, be denied the benefits of, or otherwise be subjected to discrimination under any program or activity that receives Federal financial assistance from the Department.
 
 (b)(1) A recipient, in providing any housing, aid, benefit, or service in a program or activity that receives Federal financial assistance from the Department may not, directly or through contractual, licensing, or other arrangements, solely on the basis of handicap:

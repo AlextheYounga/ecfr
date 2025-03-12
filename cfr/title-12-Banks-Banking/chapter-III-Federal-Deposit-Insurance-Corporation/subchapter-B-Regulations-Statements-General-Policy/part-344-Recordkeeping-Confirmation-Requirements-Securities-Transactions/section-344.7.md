@@ -1,5 +1,7 @@
 ##### § 344.7 Settlement of securities transactions. #####
 
+Link to an amendment published at 83 FR 26349, June 7, 2018.
+
 (a) An FDIC-supervised institution shall not effect or enter into a contract for the purchase or sale of a security (other than an exempted security as defined in 15 U.S.C. 78c(a)(12), government security, municipal security, commercial paper, bankers' acceptances, or commercial bills) that provides for payment of funds and delivery of securities later than the third business day after the date of the contract unless otherwise expressly agreed to by the parties at the time of the transaction.
 
 (b) Paragraphs (a) and (c) of this section shall not apply to contracts:

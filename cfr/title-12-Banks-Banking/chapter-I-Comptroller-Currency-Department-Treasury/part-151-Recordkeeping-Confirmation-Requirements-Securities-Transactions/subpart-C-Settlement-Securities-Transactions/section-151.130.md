@@ -1,5 +1,7 @@
 ##### § 151.130 When must I settle a securities transaction? #####
 
+Link to an amendment published at 83 FR 26349, June 7, 2018.
+
 (a) You may not effect or enter into a contract for the purchase or sale of a security that provides for payment of funds and delivery of securities later than the latest of:
 
 (1) The third business day after the date of the contract. This deadline is no later than the fourth business day after the contract for contracts involving the sale for cash of securities that are priced after 4:30 p.m. Eastern Standard Time on the date the securities are priced and are sold by an issuer to an underwriter under a firm commitment underwritten offering registered under the Securities Act of 1933, 15 U.S.C. 77a, *et seq.,* or are sold by you to an initial purchaser participating in the offering;

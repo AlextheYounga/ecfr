@@ -1,5 +1,7 @@
 ##### § 16.2 Definitions. #####
 
+Link to an amendment published at 83 FR 26361, June 7, 2018.
+
 (a) The definitions of 5 U.S.C. 552a apply in this part.
 
 (b) As used in this part:

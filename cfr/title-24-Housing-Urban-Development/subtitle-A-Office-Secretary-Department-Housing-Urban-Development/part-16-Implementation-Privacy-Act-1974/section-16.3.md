@@ -1,5 +1,7 @@
 ##### § 16.3 Procedures for inquiries. #####
 
+Link to an amendment published at 83 FR 26361, June 7, 2018.
+
 (a) Any individual, regardless of age, may submit an inquiry to the Department. The inquiry should be made either in person at the office of, or by mail addressed to, the appropriate Privacy Act Officer. Although oral requests may be honored, a requester may be asked to submit his request in writing. The envelope containing the request and the letter itself should both clearly indicate that the subject is a “PRIVACY ACT INQUIRY”. If an individual believes the Department maintains a record pertaining to that individual but does not know which system of records might contain such a record and/or which organizational component of the Department maintains the system of records, assistance in person or by mail will be provided at the first address listed in Appendix A to this part.
 
 (b)(1) An inquiry should contain the following information:
