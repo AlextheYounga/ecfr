@@ -76,7 +76,7 @@
 
 (A) Contains competent lay or medical evidence of a current diagnosed disability or persistent or recurrent symptoms of disability;
 
-(B) Establishes that the veteran suffered an event, injury or disease in service, or has a disease or symptoms of a disease listed in § 3.309, § 3.313, § 3.316, and § 3.317 manifesting during an applicable presumptive period provided the claimant has the required service or triggering event to qualify for that presumption; and
+(B) Establishes that the veteran suffered an event, injury or disease in service, or has a disease or symptoms of a disease listed in §§ 3.309, 3.313, 3.316, 3.317, and 3.320 manifesting during an applicable presumptive period provided the claimant has the required service or triggering event to qualify for that presumption; and
 
 (C) Indicates that the claimed disability or symptoms may be associated with the established event, injury, or disease in service or with another service-connected disability.
 
@@ -118,4 +118,4 @@
 
 (g) The authority recognized in subsection (g) of 38 U.S.C. 5103A is reserved to the sole discretion of the Secretary and will be implemented, when deemed appropriate by the Secretary, through the promulgation of regulations.
 
-(Authority: 38 U.S.C. 5103A(g))[66 FR 45630, Aug. 29, 2001, as amended at 73 FR 23356, Apr. 30, 2008; 84 FR 169, Jan. 18, 2019]
+(Authority: 38 U.S.C. 5103A(g))[66 FR 45630, Aug. 29, 2001, as amended at 73 FR 23356, Apr. 30, 2008; 84 FR 169, Jan. 18, 2019; 86 FR 42732, Aug. 5, 2021]

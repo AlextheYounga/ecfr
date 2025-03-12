@@ -1,5 +1,7 @@
 ##### § 4.60 Applicability and notice to agencies. #####
 
+Link to an amendment published at 86 FR 42714, Aug. 5, 2021.
+
 (a) *Applicability.* The provisions of this subpart apply to any application for an initial license or a new license for:
 
 (1) A minor water power project, as defined in § 4.30(b)(17);

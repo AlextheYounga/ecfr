@@ -1,0 +1,3 @@
+##### § 18.127 Monitoring. #####
+
+Holders of an LOA must develop and implement a site-specific, Service-approved marine mammal monitoring and mitigation plan to monitor and evaluate the effectiveness of mitigation measures and the effects of activities on walruses, polar bears, and the subsistence use of these species and provide trained, qualified, and Service-approved onsite observers to carry out monitoring and mitigation activities identified in the marine mammal monitoring and mitigation plan.

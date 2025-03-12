@@ -1,5 +1,7 @@
 ##### § 4.61 Contents of application. #####
 
+Link to an amendment published at 86 FR 42714, Aug. 5, 2021.
+
 (a) *General instructions* - (1) *Entry upon land.* No work may be started on any proposed project works until the applicant receives a signed license from the Commission. Acceptance of an application does not authorize entry upon public lands or reservations of the United States for any purpose. The applicant should determine whether any additional Federal, state, or local permits are required.
 
 (2) Exhibits F and G must be submitted on separate drawings. Drawings for Exhibits F and G must have identifying title blocks and bear the following certification: “This drawing is a part of the application for license made by the undersigned this \_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_, 19\_\_.”

@@ -1,5 +1,7 @@
 ##### § 4.401 Contents of notice of intent to construct a qualifying conduit hydropower facility. #####
 
+Link to an amendment published at 86 FR 42715, Aug. 5, 2021.
+
 (a) A notice of intent to construct a qualifying conduit hydropower facility submitted under this subpart must contain the following:
 
 (1) An introductory statement as described in paragraph (b) of this section;

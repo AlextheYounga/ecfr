@@ -2106,7 +2106,7 @@ ut terminals of the transmitter (including any filters that may be employed). In
 |      Appleton      |                        27                         |
 |   Chippewa Falls   |                        49                         |
 |      Crandon       |                        12                         |
-|    Eagle River     |                        28                         |
+|    Eagle River     |                      26, 28                       |
 |     Eau Claire     |                      15, 38                       |
 |    Fond Du Lac     |                         5                         |
 |     Green Bay      |               18, 23, 39, 41, \*42                |

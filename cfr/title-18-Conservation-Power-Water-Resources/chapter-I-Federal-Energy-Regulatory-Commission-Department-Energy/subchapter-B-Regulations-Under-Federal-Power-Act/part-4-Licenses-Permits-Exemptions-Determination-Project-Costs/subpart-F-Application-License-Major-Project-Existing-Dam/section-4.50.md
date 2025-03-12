@@ -1,5 +1,7 @@
 ##### § 4.50 Applicability. #####
 
+Link to an amendment published at 86 FR 42714, Aug. 5, 2021.
+
 (a) *Applicability.* (1) Except as provided in paragraph (a)(2) of this section, the provisions of this subpart apply to any application for either an initial license or new license for a major project - existing dam that is proposed to have a total installed capacity of more than 5 megawatts.
 
 (2) This subpart does not apply to any major project - existing dam (*see* § 4.40) that is proposed to entail or include:

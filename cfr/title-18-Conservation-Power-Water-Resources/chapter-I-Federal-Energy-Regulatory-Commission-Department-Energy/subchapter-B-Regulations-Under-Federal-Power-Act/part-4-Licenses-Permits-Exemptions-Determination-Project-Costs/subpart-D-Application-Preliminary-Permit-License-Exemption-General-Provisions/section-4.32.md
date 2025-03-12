@@ -1,5 +1,7 @@
 ##### § 4.32 Acceptance for filing or rejection; information to be made available to the public; requests for additional studies. #####
 
+Link to an amendment published at 86 FR 42714, Aug. 5, 2021.
+
 (a) Each application must:
 
 (1) For a preliminary permit or license, identify every person, citizen, association of citizens, domestic corporation, municipality, or state that has or intends to obtain and will maintain any proprietary right necessary to construct, operate, or maintain the project;

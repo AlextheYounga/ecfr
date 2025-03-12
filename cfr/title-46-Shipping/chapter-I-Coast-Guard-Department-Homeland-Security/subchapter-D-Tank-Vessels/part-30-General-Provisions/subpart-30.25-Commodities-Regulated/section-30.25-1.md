@@ -6,7 +6,7 @@
 
 (c) A mixture or blend of one or more cargoes appearing in Table 30.25-1 and one or more cargoes appearing in Table 2, 46 CFR part 153, may be carried under this subchapter D if the mixture is flammable or combustible.
 
-(d) Any mixture containing one or more cargoes categorized by the International Maritime Organization (IMO) and listed in Table 30.25-1 as a category X, Y, or Z noxious liquid substance (NLS) may be carried in bulk -
+(d) Any mixture containing one or more cargoes categorized by the International Maritime Organization (IMO) and listed in Table 30.25-1 as a category X, Y, or Z noxious liquid substance (NLS) may be carried in bulk—
 
 (1) Under this subchapter D if the vessel is not regulated under 46 CFR part 153;
 
@@ -14,7 +14,7 @@
 
 (3) Under 33 CFR part 151 if the cargo is listed in 33 CFR 151.47.
 
-Table 30.25-1 - List of Flammable and Combustible Bulk Liquid Cargoes
+Table 30.25-1—List of Flammable and Combustible Bulk Liquid Cargoes
 
 [See NOTES at the end of this table for an explanation of symbols and terms used in this table. See Table 2, 46 CFR part 153, for additional cargoes that may be carried by a tank barge.]
 
@@ -86,7 +86,7 @@ Table 30.25-1 - List of Flammable and Combustible Bulk Liquid Cargoes
 |                                                               Roofers flux                                                               |                     I                     |
 |                                                           Straight run residue                                                           |                     I                     |
 |                                   Aviation alkylates (C8 paraffins and isoparaffins BPT 95 to 120 °C)                                    |                     X                     |
-|                                              Barium long-chain (C11-C50) alkaryl sulfonate                                               |                     Y                     |
+|                                  Barium long-chain (C11-C50) alkaryl sulfonate (alternately sulphonate)                                  |                     Y                     |
 |                                 Barium long-chain alkyl (C8-C14) phenate sulfide (alternately sulphide)                                  |                    \#                     |
 |                                                               Beechnut oil                                                               |                    \#                     |
 |                                                  Behenyl alcohol, see Alcohols (C13+).                                                   |                                           |
@@ -191,6 +191,7 @@ Table 30.25-1 - List of Flammable and Combustible Bulk Liquid Cargoes
 |                   Diethylene glycol butyl ether acetate, see Poly(2-8)alkylene glycol monoalkyl (C1-C6) ether acetate.                   |                                           |
 |                                                     Diethylene glycol diethyl ether                                                      |                     Z                     |
 |                           Diethylene glycol ethyl ether, see Poly(2-8)alkylene glycol monoalkyl (C1-C6) ether.                           |                                           |
+|                   Diethylene glycol ethyl ether acetate, see Poly(2-8)alkylene glycol monoalkyl (C1-C6) ether acetate                    |                                           |
 |                          Diethylene glycol n-hexyl ether, see Poly(2-8)alkylene glycol monoalkyl (C1-C6) ether.                          |                                           |
 |                          Diethylene glycol methyl ether, see Poly(2-8)alkylene glycol monoalkyl (C1-C6) ether.                           |                                           |
 |                  Diethylene glycol methyl ether acetate, see Poly(2-8)alkylene glycol monoalkyl (C1-C6) ether acetate.                   |                                           |
@@ -425,12 +426,12 @@ Table 30.25-1 - List of Flammable and Combustible Bulk Liquid Cargoes
 |                                                     3-Methyl-3-methoxybutyl acetate                                                      |                    \#                     |
 |                                                       Methyl naphthalene (molten)                                                        |                     X                     |
 |                                                 Methyl pentene, see Hexene (all isomers)                                                 |                                           |
-|                                                             2-Methylpyridine                                                             |                     Z                     |
-|                                                             3-Methylpyridine                                                             |                     Z                     |
-|                                                             4-Methylpyridine                                                             |                     Z                     |
 |                                           Methyl tert-pentyl ether, see tert-Amyl methyl ether                                           |                                           |
 |                                                         2-Methyl-1,3-propanediol                                                         |                     Z                     |
 |                                                           Methyl propyl ketone                                                           |                     Z                     |
+|                                                             2-Methylpyridine                                                             |                     Z                     |
+|                                                             3-Methylpyridine                                                             |                     Z                     |
+|                                                             4-Methylpyridine                                                             |                     Z                     |
 |                                                          N-Methyl-2-pyrrolidone                                                          |                     Y                     |
 |                                                            Methyl salicylate                                                             |                     Y                     |
 |                              Metolachlor, see N-(2-Methoxy-1-methylethyl)-2-ethyl-6-methylchloroacetanilide                              |                                           |
@@ -462,7 +463,7 @@ Table 30.25-1 - List of Flammable and Combustible Bulk Liquid Cargoes
 |                                               Nitropropane (60%)/Nitroethane (40%) mixture                                               |                     Y                     |
 |                                                           Nonane (all isomers)                                                           |                     X                     |
 |                                                       Nonanoic acid (all isomers)                                                        |                     Y                     |
-|                                                    Nonanoic, Tridecanoic acid mixture                                                    |                    \#                     |
+|                                                    Nonanoic/Tridecanoic acid mixture                                                     |                    \#                     |
 |                                                           Nonene (all isomers)                                                           |                     Y                     |
 |                                                              Nonyl acetate                                                               |                    \#                     |
 |                                                       Nonyl alcohol (all isomers)                                                        |                     Y                     |
@@ -649,7 +650,6 @@ Table 30.25-1 - List of Flammable and Combustible Bulk Liquid Cargoes
 |                                                   Pseudocumene, see Trimethylbenzenes                                                    |                                           |
 |                                            Pseudocumene, see Trimethylbenzenes (all isomers).                                            |                                           |
 |                                                             Raisin seed oil                                                              |                    \#                     |
-|                                                            Rapeseed acid oil                                                             |                    \#                     |
 |                                                               Rapeseed oil                                                               |                     Y                     |
 |                                                  Rapeseed oil fatty acid methyl esters                                                   |                     Y                     |
 |                                                 Rape seed oil fatty acid methyl esters\*                                                 |                     Y                     |
@@ -770,7 +770,7 @@ Table 30.25-1 - List of Flammable and Combustible Bulk Liquid Cargoes
 
 Notes:
 
-“#” = The noxious liquid substance status is undetermined - see 46 CFR 153.900(c) for shipping on an oceangoing vessel.
+“#” = The noxious liquid substance status is undetermined—see 46 CFR 153.900(c) for shipping on an oceangoing vessel.
 
 “†” = Marine occupational safety and health regulations for benzene, 46 CFR part 197, subpart C, may apply to this cargo.
 
@@ -794,10 +794,10 @@ Italicized words are not part of the cargo name, but may be used in addition to 
 
 “OS” = An “other substance” considered at present to pose no harm to marine resources, human health, amenities, or other legitimate uses of the sea when discharged into the sea from tank cleaning or deballasting operations.
 
-“see” = A redirection to the preferred, alternative cargo name - for example, in “Diethyl ether, see Ethyl ether,” the pollution category for “diethyl ether” will be found under the preferred, alternative cargo name “ethyl ether.”
+“see” = A redirection to the preferred, alternative cargo name—for example, in “Diethyl ether, see Ethyl ether,” the pollution category for “diethyl ether” will be found under the preferred, alternative cargo name “ethyl ether.”
 
 “ST” = Ship type, as defined in Chapter 2 of the 2016 International Bulk Chemical Code.
 
 “X,” “Y,” and “Z” = Noxious liquid substance categories under MARPOL Annex II.
 
-[78 FR 50152, Aug. 16, 2013, as amended by USCG-2013-0423, 85 FR 21663, Apr. 17, 2020]
+[78 FR 50152, Aug. 16, 2013, as amended by USCG-2013-0423, 85 FR 21663, Apr. 17, 2020; 86 FR 42738, Aug. 5, 2021]

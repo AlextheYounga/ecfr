@@ -1,5 +1,7 @@
 ##### § 4.71 Contents of application. #####
 
+Link to an amendment published at 86 FR 42714, Aug. 5, 2021.
+
 An application for license for transmission line only must contain the following information in the form specified.
 
 (a) *Initial statement.*
