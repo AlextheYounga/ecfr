@@ -80,7 +80,8 @@
 |         Issue 300          |   May 11, 2009   |        75 FR 31702.        |
 |          DMM 300           |   July 5, 2011   |        76 FR 48722.        |
 |          DMM 300           |  June 24, 2012   |        77 FR 45246.        |
-|          DMM 300           | January 25, 2015 | 80 FR 13492, 81 FR 66822.  |
-|          DMM 300           |  July 11, 2016.  |                            |
+|          DMM 300           | January 25, 2015 |        80 FR 13492.        |
+|          DMM 300           |  July 11, 2016   |        81 FR 66822.        |
+|            DMM             | January 22, 2017 |        82 FR 28559.        |
 
 [45 FR 40115, June 13, 1980]Editorial Note:For Federal Register citations affecting § 111.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

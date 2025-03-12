@@ -1,5 +1,7 @@
 ##### § 9301.6 Requesting records. #####
 
+Link to an amendment published at 82 FR 28549, June 23, 2017.
+
 (a) *Written requests required.* For records not available as described under § 9301.5, requesters wishing to obtain information from SIGAR should submit a written request to SIGAR's FOIA Officer. Requests should be addressed to FOIA Officer, Office of the Special Inspector General for Afghanistan Reconstruction, 2530 Crystal Drive, Arlington, VA 22202. As there may be delays in mail delivery, it is advisable to send the request via facsimile to (703) 601-3804 or by email to *sigar.pentagon.gen-coun.mbx.foia@mail.mil.*
 
 (b) *Contents of requests.* Requests should be as specific as possible and should reasonably specify the records sought so that the records can be located with a reasonable amount of effort. The request should identify the desired record or describe it, and include information such as the date, title or name, author, recipient, and subject matter of the record, where possible. The request should also include a statement of the requester's willingness to pay fees, or request a fee waiver. The words “FOIA REQUEST” or “REQUEST FOR RECORDS” should be clearly marked on the cover letter, letter, and/or envelope.

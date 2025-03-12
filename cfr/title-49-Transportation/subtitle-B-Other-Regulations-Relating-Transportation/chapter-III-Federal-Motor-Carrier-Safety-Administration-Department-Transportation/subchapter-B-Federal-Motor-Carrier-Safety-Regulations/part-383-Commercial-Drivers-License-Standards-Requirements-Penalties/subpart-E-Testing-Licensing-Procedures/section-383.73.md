@@ -264,4 +264,4 @@
 
 (p) After February 7, 2020, the State must notify FMCSA that a training provider in the State does not meet applicable State requirements for CMV instruction.
 
-[76 FR 26883, May 9, 2011, as amended at 77 FR 24127, Apr. 20, 2012; 78 FR 17880, Mar. 25, 2013; 78 FR 58480, Sept. 24, 2013; 79 FR 59456, Oct. 2, 2014; 80 FR 22810, Apr. 23, 2015; 80 FR 35577, June 22, 2015; 80 FR 59072, Oct. 1, 2015; 81 FR 87730, Dec. 5, 2016; 81 FR 88803, Dec. 8, 2016]
+[76 FR 26883, May 9, 2011, as amended at 77 FR 24127, Apr. 20, 2012; 78 FR 17880, Mar. 25, 2013; 78 FR 58480, Sept. 24, 2013; 79 FR 59456, Oct. 2, 2014; 80 FR 22810, Apr. 23, 2015; 80 FR 35577, June 22, 2015; 80 FR 59072, Oct. 1, 2015; 81 FR 87730, Dec. 5, 2016; 81 FR 88803, Dec. 8, 2016; 82 FR 2916, Jan. 10, 2017]

@@ -1,5 +1,7 @@
 ##### § 9301.8 Fees in general. #####
 
+Link to an amendment published at 82 FR 28550, June 23, 2017.
+
 SIGAR shall charge reasonable fees that recoup the full allowable direct costs it incurs in responding to FOIA requests. SIGAR will provide an estimated amount of fees, including a breakdown of the fees for search, review, and/or duplication. SIGAR may assess charges for time spent searching for records even if SIGAR is unable to locate the records or if the records are located and determined to be exempt from disclosure. In general, SIGAR shall apply the following fee schedule, subject to §§ 9301.9 through 9301.11:
 
 (a) *Manual searches.* Time devoted to manual searches shall be charged on the basis of the salary of the employee(s) conducting the search (basic hourly rate(s) of pay for the employee).
