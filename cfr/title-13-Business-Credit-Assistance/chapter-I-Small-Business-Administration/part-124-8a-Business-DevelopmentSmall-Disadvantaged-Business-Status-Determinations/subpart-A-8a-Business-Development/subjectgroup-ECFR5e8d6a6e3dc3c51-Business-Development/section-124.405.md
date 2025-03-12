@@ -1,10 +1,9 @@
 ##### § 124.405 How does a Participant obtain Federal Government surplus property? #####
 
-Link to an amendment published at 85 FR 69124, Nov. 2, 2020.
+(a) *General.* (1) Pursuant to 15 U.S.C. 636(j)(13)(F), eligible Participants may receive surplus Federal Government property from State Agencies for Surplus Property (SASPs).
+The procedures set forth in 41 CFR part 102-37 and this section will be used to transfer surplus personal property to eligible Participants.
 
-(a) *General.* (1) Pursuant to 15 U.S.C. 636(j)(13)(F), eligible Participants may receive surplus Federal Government property from State Agencies for Surplus Property (SASPs). The procedures set forth in 41 CFR Part 101-44 and this section will be used to transfer surplus property to eligible Participants.
-
-(2) The property which may be transferred to SASPs for further transfer to eligible Participants includes all personal property which has been determined to be “donable” as defined in 41 CFR 101-44.001-3.
+(2) The surplus personal property which may be transferred to SASPs for further transfer to eligible Participants includes all personal property which has become available for donation pursuant to 41 CFR 102-37.30.
 
 (b) *Eligibility to receive Federal surplus property.* To be eligible to receive Federal surplus property, on the date of transfer a concern must:
 
@@ -12,13 +11,15 @@ Link to an amendment published at 85 FR 69124, Nov. 2, 2020.
 
 (2) Be in compliance with all program requirements, including any reporting requirements;
 
-(3) Not be debarred, suspended, or declared ineligible under part 9, subpart 9.4 of the Federal Acquisition Regulations, Title 48 of the Code of Federal Regulations;
+(3) Not be debarred, suspended, or declared ineligible under Title 2 or Title 48 of the Code of Federal Regulations;
 
 (4) Not be under a pending 8(a) BD program suspension, termination or early graduation proceeding; and
 
 (5) Be engaged or expect to be engaged in business activities making the item useful to it.
 
-(c) *Use of acquired surplus property.* (1) Eligible Participants may acquire surplus Federal property from any SASP located in any state, provided the concern represents and agrees in writing:
+(6) Not have received property under part 129, Subpart B of this chapter, during the applicable period described in that section.
+
+(c) *Use of acquired surplus personal property.* (1) Eligible Participants may acquire Federal surplus personal property from the SASP in the State(s) where the Participant is located and operates, provided the Participant represents in writing:
 
 (i) As to what the intended use of the surplus property is to be and that this use is consistent with the objectives of the concern's 8(a) business plan;
 
@@ -38,7 +39,7 @@ Link to an amendment published at 85 FR 69124, Nov. 2, 2020.
 
 (4) Failure to comply with any of the commitments made under paragraph (c)(1) of this section constitutes a basis for termination from the 8(a) program.
 
-(d) *Procedures for acquiring Federal Government surplus property.* (1) Participants may participate in the surplus property distribution program administered by the SASPs to the same extent, but with no special priority over, other authorized transferees. *See* 41 CFR subpart 101-44.2.
+(d) *Procedures for acquiring Federal Government surplus personal property.* (1) Participants may participate in the GSA Federal Surplus Personal Property Donation Program administered by the SASPs. *See* generally 41 CFR part 102-37 and/or § 102-37.125 of that title.
 
 (2) Each Participant seeking to acquire Federal Government surplus property from a SASP must:
 
@@ -54,7 +55,7 @@ Link to an amendment published at 85 FR 69124, Nov. 2, 2020.
 
 (e) *Costs.* Participants acquiring surplus property from a SASP must pay a service fee to the SASP which is equal to the SASP's direct costs of locating, inspecting, and transporting the surplus property. If a Participant elects to incur the responsibility and the expense for transporting the acquired property, the concern may do so and no transportation costs will be charged by the SASP. In addition, the SASP may charge a reasonable fee to cover its costs of administering the program. In no instance will any SASP charge a Participant more for any service than their established fees charged to other transferees.
 
-(f) *Title.* The title to surplus property acquired from a SASP will pass to the Participant when the Participant executes the applicable SASP distribution documents and takes possession of the property.
+(f) *Title.* Upon execution of the SASP distribution document, the Participant has conditional title only to the surplus personal property during the applicable period of restriction. Full title to the surplus personal property will vest in the donee only after the donee has met all of the requirements of this part.
 
 (g) *Compliance.* (1) SBA will periodically review whether Participants that have received surplus property have used and maintained the property as agreed. This review may include site visits to visually inspect the property to ensure that it is being used in a manner consistent with the terms of its transfer.
 
@@ -75,3 +76,5 @@ Link to an amendment published at 85 FR 69124, Nov. 2, 2020.
 (5) Where SBA finds that a recipient has sold or otherwise disposed of the acquired surplus property in violation of the agreement covering sale and disposal, the Participant is liable for the agreed upon fair market value of the property at the time of the transfer, or the sale price, whichever is greater. However, a Participant need not repay any amount where it can demonstrate to SBA's satisfaction that the property is no longer useful for the purpose for which it was transferred and receives SBA's prior written consent to transfer the property. For example, if a piece of equipment breaks down beyond repair, it may be disposed of without being subject to the repayment provision, so long as the concern receives SBA's prior consent.
 
 (6) Any funds received by SBA in enforcement of this section will be remitted promptly to the Treasury of the United States as miscellaneous receipts.
+
+[63 FR 35739, June 30, 1998, as amended at 85 FR 69124, Nov. 2, 2020]

@@ -1,5 +1,7 @@
 ##### § 486.318 Condition: Outcome measures. #####
 
+Link to an amendment published at 85 FR 77948, Dec. 2, 2020.
+
 (a) With the exception of OPOs operating exclusively in noncontiguous States, Commonwealths, Territories, or possessions, an OPO must meet two out of the three following outcome measures:
 
 (1) The OPO's donation rate of eligible donors as a percentage of eligible deaths is no more than 1.5 standard deviations below the mean national donation rate of eligible donors as a percentage of eligible deaths, averaged over the 4 years of the re-certification cycle. Both the numerator and denominator of an individual OPO's donation rate ratio are adjusted by adding a 1 for each donation after cardiac death donor and each donor over the age of 70;

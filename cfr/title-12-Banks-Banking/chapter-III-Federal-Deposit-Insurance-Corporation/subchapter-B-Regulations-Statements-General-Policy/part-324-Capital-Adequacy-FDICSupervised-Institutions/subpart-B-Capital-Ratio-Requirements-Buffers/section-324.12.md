@@ -38,6 +38,14 @@
 
 (B) A qualifying community banking organization that opts out of the community bank leverage ratio framework pursuant to paragraph (a)(3)(iii)(A) of this section must comply with § 324.10(a)(1) immediately.
 
+(4)(i) *Temporary relief*—From December 2, 2020 through December 31, 2021, for purposes of determining whether an FDIC-supervised institution satisfies the criterion in paragraph (a)(2)(ii) of this section, except as provided in paragraph (a)(4)(ii) of this section, the total consolidated assets of an FDIC-supervised institution for purposes of paragraph (a)(2)(ii) of this section shall be determined based on the lesser of:
+
+(A) The total consolidated assets reported by the institution in the Call Report as of December 31, 2019; and
+
+(B) The total consolidated assets calculated in accordance with the reporting instructions to the Call Report as of the end of the most recent calendar quarter.
+
+(ii) *Reservation of authority*—The temporary relief provided under this paragraph (a)(4)(i) of this section does not apply to an FDIC-supervised institution if the FDIC determines that permitting the FDIC-supervised institution to determine its assets in accordance with that paragraph would not be commensurate with the risk posed by the institution. When making this determination, the FDIC will consider all relevant factors, including the extent of asset growth of the FDIC-supervised institution since December 31, 2019; the causes of such growth, including whether growth occurred as a result of mergers or acquisitions; whether such growth is likely to be temporary or permanent; whether the FDIC-supervised institution has become involved in any additional activities since December 31, 2019; and the type of assets held by the FDIC-supervised institution. The FDIC will notify an FDIC-supervised institution of a determination under this paragraph. An FDIC-supervised institution may, not later than 30 days after the date of a determination by the FDIC, inform the FDIC, in writing, of why the FDIC-supervised institution should be eligible for the temporary relief. The FDIC will make a final determination after reviewing any response.
+
 (b) *Calculation of the leverage ratio.* A qualifying community banking organization's leverage ratio is calculated in accordance to § 324.10(b)(4), except that a qualifying community banking organization is not required to:
 
 (1) Make adjustments and deductions from tier 2 capital for purposes of § 324.22(c); or
@@ -56,4 +64,4 @@
 
 (6) Notwithstanding paragraphs (c)(1) through (4) of this section, an FDIC-supervised institution that has a leverage ratio of 8 percent or less does not have a grace period and must comply with the minimum capital requirements under § 324.10(a)(1) and must report the required capital measures under § 324.10(a)(1) for the quarter in which it reports a leverage ratio of 8 percent or less.
 
-[84 FR 61802, Nov. 13, 2019]
+[84 FR 61802, Nov. 13, 2019, as amended at 85 FR 77363, Dec. 2, 2020]

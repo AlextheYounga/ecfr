@@ -1,5 +1,7 @@
 ##### § 486.348 Condition: Quality assessment and performance improvement (QAPI). #####
 
+Link to an amendment published at 85 FR 77949, Dec. 2, 2020.
+
 The OPO must develop, implement, and maintain a comprehensive, data-driven QAPI program designed to monitor and evaluate performance of all donation services, including services provided under contract or arrangement.
 
 (a) *Standard: Components of a QAPI program.* The OPO's QAPI program must include objective measures to evaluate and demonstrate improved performance with regard to OPO activities, such as hospital development, designated requestor training, donor management, timeliness of on-site response to hospital referrals, consent practices, organ recovery and placement, and organ packaging and transport. The OPO must take actions that result in performance improvements and track performance to ensure that improvements are sustained.

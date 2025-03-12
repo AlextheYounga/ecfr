@@ -2,7 +2,7 @@
 
 (a) *General.* The OCC examines Federal agencies and Federal branches (as these entities are defined in § 28.11 (g) and (h), respectively, of this chapter) pursuant to the authority conferred by 12 U.S.C. 3105(c)(1)(C). Except as noted in paragraph (b) of this section, the OCC will conduct a full-scope, on-site examination of every Federal branch and agency at least once during each 12-month period.
 
-(b) *18-month rule for certain small institutions* - (1) *Mandatory standards.* The OCC may conduct a full-scope, on-site examination at least once during each 18-month period, rather than each 12-month period as provided in paragraph (a) of this section, if the Federal branch or agency:
+(b) *18-month rule for certain small institutions*—(1) *Mandatory standards.* The OCC may conduct a full-scope, on-site examination at least once during each 18-month period, rather than each 12-month period as provided in paragraph (a) of this section, if the Federal branch or agency:
 
 (i) Has total assets of less than $3 billion;
 
@@ -30,4 +30,6 @@
 
 (c) *Authority to conduct more frequent examinations.* Nothing in paragraph (a) or (b) of this section limits the authority of the OCC to examine any Federal branch or agency as frequently as the OCC deems necessary.
 
-[81 FR 10068, Feb. 29, 2016, as amended at 83 FR 43965, Aug. 29, 2018]
+(d) Through December 31, 2021, for purposes of determining eligibility for the 18-month rule described in paragraph (b) of this section, the OCC may determine total assets of a Federal branch or agency by reference to the total assets of the Federal branch or agency as reported by the Federal branch or agency as of December 31, 2019.
+
+[81 FR 10068, Feb. 29, 2016, as amended at 83 FR 43965, Aug. 29, 2018; 85 FR 77359, Dec. 2, 2020]

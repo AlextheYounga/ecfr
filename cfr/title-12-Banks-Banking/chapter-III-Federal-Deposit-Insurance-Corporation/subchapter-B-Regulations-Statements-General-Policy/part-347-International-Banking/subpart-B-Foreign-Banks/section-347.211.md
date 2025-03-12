@@ -10,7 +10,7 @@
 
 (4) The state supervisor, if the office of the foreign bank is licensed or chartered by the state.
 
-(b) *18-month cycle for certain small institutions* - (1) *Mandatory standards.* The FDIC may conduct a full-scope, on-site examination at least once during each 18-month period, rather than each 12-month period as provided in paragraph (a) of this section, if the insured branch:
+(b) *18-month cycle for certain small institutions*—(1) *Mandatory standards.* The FDIC may conduct a full-scope, on-site examination at least once during each 18-month period, rather than each 12-month period as provided in paragraph (a) of this section, if the insured branch:
 
 (i) Has total assets of less than $3 billion;
 
@@ -38,4 +38,10 @@
 
 (c) *Authority to conduct more frequent examinations.* Nothing in paragraphs (a) and (b) of this section limits the authority of the FDIC to examine any insured branch as frequently as it deems necessary.
 
-[70 FR 17560, Apr. 6, 2005; 70 FR 20704, Apr. 21, 2005, as amended at 72 FR 17803, Apr. 10, 2007; 81 FR 10070, Feb. 29, 2016; 83 FR 43965, Aug. 29, 2018]
+(d) From December 2, 2020, through December 31, 2021, for purposes of determining eligibility for the extended examination cycle described in paragraph (b) of this section, the total assets of an insured branch shall be determined based on the lesser of:
+
+(1) The assets of the insured branch as of December 31, 2019; and
+
+(2) The assets of the insured branch as of the end of the most recent calendar quarter.
+
+[70 FR 17560, Apr. 6, 2005; 70 FR 20704, Apr. 21, 2005, as amended at 72 FR 17803, Apr. 10, 2007; 81 FR 10070, Feb. 29, 2016; 83 FR 43965, Aug. 29, 2018; 85 FR 77364, Dec. 2, 2020]

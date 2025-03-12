@@ -20,4 +20,10 @@
 
 (c) *Authority to conduct more frequent examinations.* This section does not limit the authority of the FDIC to examine any insured state nonmember bank or insured State savings association as frequently as the agency deems necessary.
 
-[81 FR 10069, Feb. 29, 2016, as amended at 83 FR 43965, Aug. 29, 2018]
+(d) From December 2, 2020, through December 31, 2021, for purposes of determining eligibility for the extended examination cycle described in paragraph (b) of this section, the total assets of an institution shall be determined based on the lesser of:
+
+(1) The assets of the institution as of December 31, 2019; and
+
+(2) The assets of the institution as of the end of the most recent calendar quarter.
+
+[81 FR 10069, Feb. 29, 2016, as amended at 83 FR 43965, Aug. 29, 2018; 85 FR 77364, Dec. 2, 2020]

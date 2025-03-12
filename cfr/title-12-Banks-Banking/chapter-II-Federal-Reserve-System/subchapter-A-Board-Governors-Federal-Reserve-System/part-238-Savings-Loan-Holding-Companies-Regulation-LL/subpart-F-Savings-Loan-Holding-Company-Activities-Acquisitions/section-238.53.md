@@ -90,6 +90,14 @@
 
 (vii) A copy of the purchase agreements, and balance sheet and income statements for the most recent quarter and year-end for any company to be acquired.
 
+(3)(i) Except as provided in paragraph (c)(3)(ii) of this section, from December 2, 2020, until December 31, 2021, the determination of whether a savings and loan holding company must comply with the filing requirements in paragraph (c)(2)(iii) or (iv) of this section shall be made based on the lesser of:
+
+(A) The consolidated assets of the savings and loan holding company as of December 31, 2019; and
+
+(B) The consolidated assets of the savings and loan holding company as of the end of the most recent calendar quarter.
+
+(ii) The relief provided under paragraph (c)(3)(i) of this section does not apply to a savings and loan holding company if the Board determines that permitting the savings and loan holding company to determine its assets in accordance with that paragraph would not be commensurate with the risk profile of the savings and loan holding company. When making this determination, the Board will consider all relevant factors, including the extent of asset growth of the savings and loan holding company since December 31, 2019; the causes of such growth, including whether growth occurred as a result of mergers or acquisitions; whether such growth is likely to be temporary or permanent; whether the savings and loan holding company has become involved in any additional activities since December 31, 2019; the asset size of any parent companies; and the type of assets held by the savings and loan holding company. In making a determination pursuant to this paragraph (c)(3)(ii), the Board will apply notice and response procedures in the same manner and to the same extent as the notice and response procedures in 12 CFR 263.202.
+
 (d) *Notice provided to Board.* The Reserve Bank shall immediately send to the Board a copy of any notice received under paragraphs (c)(1) or (c)(2) of this section.
 
 (e) *Notice to public* - (1) the Reserve Bank shall notify the Board for publication in the Federal Register immediately upon receipt by the Reserve Bank of:
@@ -128,4 +136,4 @@
 
 (i) *Service corporation subsidiaries of savings associations.* The Board hereby approves without application the furnishing or performing of such services or engaging in such activities as permitted by the OTS pursuant to § 545.74 of this title, as in effect on March 5, 1987, if such service or activity is conducted by a service corporation subsidiary of a subsidiary savings association of a savings and loan holding company and if such service corporation has legal power to do so.
 
-[Reg. LL, 76 FR 56532, Sept. 13, 2011, as amended at 84 FR 61801, Nov. 13, 2019]
+[Reg. LL, 76 FR 56532, Sept. 13, 2011, as amended at 84 FR 61801, Nov. 13, 2019; 85 FR 77363, Dec. 2, 2020]

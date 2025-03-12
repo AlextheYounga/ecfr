@@ -8,4 +8,4 @@
 
 (d) *Rule of construction.* Nothing in this subpart should be construed to prevent a State from establishing requirements in addition to those in this subpart. In addition, nothing in this subpart should be construed to alter guidance in, and applicability of, the Interagency Appraisal and Evaluation Guidelines3 or other relevant agency guidance that cautions banks, bank holding companies, Federal savings associations, state savings associations, and credit unions, as applicable, that each such entity is accountable for overseeing the activities of third-party service providers and ensuring that any services provided by a third party comply with applicable laws, regulations, and supervisory guidance applicable directly to the financial institution.
 
-3*See http://www.occ.gov/news-issuances/bulletins/2010/bulletin-2010-42.html*.
+3*See**http://www.occ.gov/news-issuances/bulletins/2010/bulletin-2010-42.html*.

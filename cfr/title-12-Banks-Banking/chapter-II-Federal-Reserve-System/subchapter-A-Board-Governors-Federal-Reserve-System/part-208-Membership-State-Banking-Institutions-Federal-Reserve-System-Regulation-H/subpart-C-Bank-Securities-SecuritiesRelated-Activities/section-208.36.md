@@ -1,6 +1,6 @@
 ##### § 208.36 Reporting requirements for State member banks subject to the Securities Exchange Act of 1934. #####
 
-(a) *Filing, disclosure and other requirements* - (1) *General.* Except as otherwise provided in this section, a member bank whose securities are subject to registration pursuant to section 12(b) or section 12(g) of the Securities Exchange Act of 1934 (the 1934 Act) (15 U.S.C. 78l(b) and (g)) shall comply with the rules, regulations and forms adopted by the Securities and Exchange Commission (Commission) pursuant to -
+(a) *Filing, disclosure and other requirements*—(1) *General.* Except as otherwise provided in this section, a member bank whose securities are subject to registration pursuant to section 12(b) or section 12(g) of the Securities Exchange Act of 1934 (the 1934 Act) (15 U.S.C. 78l(b) and (g)) shall comply with the rules, regulations and forms adopted by the Securities and Exchange Commission (Commission) pursuant to—
 
 (i) Sections 10A(m), 12, 13, 14(a), 14(c), 14(d), 14(f) and 16 of the 1934 Act (15 U.S.C. 78f(m), 78l, 78m, 78n(a), (c), (d) and (f), and 78p); and
 
@@ -12,7 +12,9 @@
 
 (2) A member bank qualifying for and electing to file financial statements from its quarterly report of condition pursuant to paragraph (b)(1) of this section in its form 10-Q shall include earnings per share or net loss per share data prepared in accordance with GAAP and disclose any material contingencies, as required by Article 10 of the Commission's Regulation S-X (17 CFR 210.10-01), in the Management's Discussion and Analysis of Financial Condition and Results of Operations section of Form 10-Q.
 
-(c) *Required filings* - (1) *Place and timing of filing.* All papers required to be filed with the Board, pursuant to the 1934 Act or regulations thereunder, shall be submitted to the Division of Banking Supervision and Regulation, Board of Governors of the Federal Reserve System, 20th Street and Constitution Avenue, NW., Washington, DC 20551. Material may be filed by delivery to the Board, through the mails, or otherwise. The date on which papers are actually received by the Board shall be the date of filing thereof if all of the requirements with respect to the filing have been complied with.
+(3) Notwithstanding paragraph (b)(1) of this section, a member bank may, from December 2, 2020, through December 31, 2021, make the election described in paragraph (b)(1) of this section if it has no foreign offices and had total assets of $150 million or less, determined based on the lesser of total assets as of December 31, 2019, and total assets as of the end of the bank's most recent fiscal year. The relief provided under this paragraph (b)(3) of this section does not apply to a member bank if the Board determines that permitting the member bank to determine its assets in accordance with that paragraph would not be commensurate with the risk profile of the member bank. When making this determination, the Board will consider all relevant factors, including the extent of asset growth of the member bank since December 31, 2019; the causes of such growth, including whether growth occurred as a result of mergers or acquisitions; whether such growth is likely to be temporary or permanent; whether the member bank has become involved in any additional activities since December 31, 2019; the asset size of any parent companies; and the type of assets held by the member bank. In making a determination pursuant to this paragraph (b)(3), the Board will apply notice and response procedures in the same manner and to the same extent as the notice and response procedures in 12 CFR 263.202.
+
+(c) *Required filings*—(1) *Place and timing of filing.* All papers required to be filed with the Board, pursuant to the 1934 Act or regulations thereunder, shall be submitted to the Division of Banking Supervision and Regulation, Board of Governors of the Federal Reserve System, 20th Street and Constitution Avenue, NW., Washington, DC 20551. Material may be filed by delivery to the Board, through the mails, or otherwise. The date on which papers are actually received by the Board shall be the date of filing thereof if all of the requirements with respect to the filing have been complied with.
 
 (2) *Filing fees.* No filing fees specified by the Commission's rules shall be paid to the Board.
 
@@ -52,4 +54,4 @@
 
 (8) If the confidential portion is made available to the public, a copy thereof shall be attached to each copy of the statement, report, or document filed with the Board.
 
-[63 FR 37646, July 13, 1998, as amended at 67 FR 57941, Sept. 13, 2002; 68 FR 4096, Jan. 28, 2003]
+[63 FR 37646, July 13, 1998, as amended at 67 FR 57941, Sept. 13, 2002; 68 FR 4096, Jan. 28, 2003; 85 FR 77360, Dec. 2, 2020]

@@ -1,5 +1,7 @@
 ##### § 486.302 Definitions. #####
 
+Link to an amendment published at 85 FR 77947, Dec. 2, 2020.
+
 As used in this subpart, the following definitions apply:
 
 *Adverse event* means an untoward, undesirable, and usually unanticipated event that causes death or serious injury or the risk thereof. As applied to OPOs, adverse events include but are not limited to transmission of disease from a donor to a beneficiary, avoidable loss of a medically suitable potential donor for whom consent for donation has been obtained, or delivery to a transplant center of the wrong organ or an organ whose blood type does not match the blood type of the intended beneficiary.

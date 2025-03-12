@@ -206,4 +206,4 @@ Example 1.Taxpayer H is employed by Employer X in 2014. H's required contributio
 
 (4) Paragraph (c)(4)(i) of this section applies to taxable years ending on or after December 31, 2020.
 
-[T.D. 9590, 77 FR 30385, May 23, 2012, as amended by T.D. 9611, 78 FR 7265, Feb. 1, 2013; T.D. 9683, 79 FR 43626, July 28, 2014; 80 FR 78974, Dec. 18, 2015; T.D. 9804, 81 FR 91764, Dec. 19, 2016; T.D. 9822, 82 FR 34606, July 26, 2017; T.D. 9867, 84 FR 28984, June 20, 2019; T.D. 9934, 85 FR 76978, Dec. 1, 2020]
+[T.D. 9590, 77 FR 30385, May 23, 2012, as amended by T.D. 9611, 78 FR 7265, Feb. 1, 2013; T.D. 9683, 79 FR 43626, July 28, 2014; 80 FR 78974, Dec. 18, 2015; T.D. 9804, 81 FR 91764, Dec. 19, 2016; T.D. 9822, 82 FR 34606, July 26, 2017; T.D. 9867, 84 FR 28984, June 20, 2019; T.D. 9912, 85 FR 76978, Dec. 1, 2020]

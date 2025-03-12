@@ -1,7 +1,5 @@
 ##### § 8340.0-5 Definitions. #####
 
-Link to an amendment published at 85 FR 69223, Nov. 2, 2020.
-
 As used in this part:
 
 (a) *Off-road vehicle* means any motorized vehicle capable of, or designed for, travel on or immediately over land, water, or other natural terrain, excluding:
@@ -12,9 +10,17 @@ As used in this part:
 
 (3) Any vehicle whose use is expressly authorized by the authorized officer, or otherwise officially approved;
 
-(4) Vehicles in official use; and
+(4) Vehicles in official use;
 
-(5) Any combat or combat support vehicle when used in times of national defense emergencies.
+(5) E-bikes, as defined in paragraph (j) of this section:
+
+(i) While being used on roads and trails upon which mechanized, non-motorized use is allowed;
+
+(ii) That are being used in a manner where the motor is not exclusively propelling the e-bike for an extended period of time; and
+
+(iii) Where the authorized officer has expressly determined, as part of a land-use planning or implementation-level decision, that e-bikes should be treated the same as non-motorized bicycles; and
+
+(6) Any combat or combat support vehicle when used in times of national defense emergencies.
 
 (b) *Public lands* means any lands the surface of which is administered by the Bureau of Land Management.
 
@@ -32,4 +38,12 @@ As used in this part:
 
 (i) *Spark arrester* is any device which traps or destroys 80 percent or more of the exhaust particles to which it is subjected.
 
-[44 FR 34836, June 15, 1979, as amended at 53 FR 31003, Aug. 17, 1988]
+(j) *Electric bicycle* (also known as an e-bike) means a two- or three-wheeled cycle with fully operable pedals and an electric motor of not more than 750 watts (1 h.p.) that meets the requirements of one of the following three classes:
+
+(1) Class 1 electric bicycle shall mean an electric bicycle equipped with a motor that provides assistance only when the rider is pedaling, and that ceases to provide assistance when the bicycle reaches the speed of 20 miles per hour.
+
+(2) Class 2 electric bicycle shall mean an electric bicycle equipped with a motor that may be used exclusively to propel the bicycle, and that is not capable of providing assistance when the bicycle reaches the speed of 20 miles per hour.
+
+(3) Class 3 electric bicycle shall mean an electric bicycle equipped with a motor that provides assistance only when the rider is pedaling, and that ceases to provide assistance when the bicycle reaches the speed of 28 miles per hour.
+
+[85 FR 69223, Nov. 2, 2020]

@@ -38,6 +38,14 @@
 
 (B) A qualifying community banking organization that opts out of the community bank leverage ratio framework pursuant to paragraph (a)(3)(iii)(A) of this section must comply with § 217.10(a)(1) immediately.
 
+(4) *Temporary relief for 2020 and 2021.* (i) Except as provided in paragraph (a)(4)(ii) of this section, from December 2, 2020, through December 31, 2021, for purposes of determining whether a Board-regulated institution satisfies the criterion in paragraph (a)(2)(ii) of this section, the total consolidated assets of a Board-regulated institution for purposes of paragraph (a)(2)(ii) of this section shall be determined based on the lesser of:
+
+(A) The total consolidated assets reported by the institution in the Call Report, FR Y-9C, or FR Y-9SP, as applicable, as of December 31, 2019; and
+
+(B) The total consolidated assets calculated in accordance with the reporting instructions to the Call Report or to Form FR Y-9C, as applicable, as of the end of the most recent calendar quarter.
+
+(ii) The relief provided under this paragraph (a)(4)(i) does not apply to a Board-regulated institution if the Board determines that permitting the Board-regulated institution to determine its assets in accordance with that paragraph would not be commensurate with the risk profile of the Board-regulated institution. When making this determination, the Board will consider all relevant factors, including the extent of asset growth of the Board-regulated institution since December 31, 2019; the causes of such growth, including whether growth occurred as a result of mergers or acquisitions; whether such growth is likely to be temporary or permanent; whether the Board-regulated institution has become involved in any additional activities since December 31, 2019; the asset size of any parent companies; and the type of assets held by the Board-regulated institution. In making a determination pursuant to this paragraph (a)(4)(ii), the Board will apply notice and response procedures in the same manner and to the same extent as the notice and response procedures in 12 CFR 263.202.
+
 (b) *Calculation of the leverage ratio.* A qualifying community banking organization's leverage ratio is calculated in accordance with § 217.10(b)(4), except that a qualifying community banking organization is not required to:
 
 (1) Make adjustments and deductions from tier 2 capital for purposes of § 217.22(c); or
@@ -56,4 +64,4 @@
 
 (6) Notwithstanding paragraphs (c)(1) through (4) of this section, a Board-regulated institution that has a leverage ratio of 8 percent or less does not have a grace period and must comply with the minimum capital requirements under § 217.10(a)(1) and must report the required capital measures under § 217.10(a)(1) for the quarter in which it reports a leverage ratio of 8 percent or less.
 
-[Reg. Q, 84 FR 61797, Nov. 13, 2019]
+[Reg. Q, 84 FR 61797, Nov. 13, 2019, as amended at 85 FR 77361, Dec. 2, 2020]

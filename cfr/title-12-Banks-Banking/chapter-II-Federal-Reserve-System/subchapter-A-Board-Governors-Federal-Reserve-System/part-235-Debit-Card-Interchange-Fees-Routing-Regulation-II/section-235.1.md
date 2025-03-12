@@ -1,0 +1,5 @@
+##### § 235.1 Authority and purpose. #####
+
+(a) *Authority.* This part is issued by the Board of Governors of the Federal Reserve System (Board) under section 920 of the Electronic Fund Transfer Act (EFTA) (15 U.S.C. 1693o-2, as added by section 1075 of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Public Law 111-203, 124 Stat. 1376 (2010)).
+
+(b) *Purpose.* This part implements the provisions of section 920 of the EFTA, including standards for reasonable and proportional interchange transaction fees for electronic debit transactions, standards for receiving a fraud-prevention adjustment to interchange transaction fees, exemptions from the interchange transaction fee limitations, prohibitions on evasion and circumvention, prohibitions on payment card network exclusivity arrangements and routing restrictions for debit card transactions, and reporting requirements for debit card issuers and payment card networks.

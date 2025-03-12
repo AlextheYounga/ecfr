@@ -1,5 +1,7 @@
 ##### § 411.350 Scope of subpart. #####
 
+Link to an amendment published at 85 FR 77656, Dec. 2, 2020.
+
 (a) This subpart implements section 1877 of the Act, which generally prohibits a physician from making a referral under Medicare for designated health services to an entity with which the physician or a member of the physician's immediate family has a financial relationship.
 
 (b) This subpart does not provide for exceptions or immunity from civil or criminal prosecution or other sanctions applicable under any State laws or under Federal law other than section 1877 of the Act. For example, although a particular arrangement involving a physician's financial relationship with an entity may not prohibit the physician from making referrals to the entity under this subpart, the arrangement may nevertheless violate another provision of the Act or other laws administered by HHS, the Federal Trade Commission, the Securities and Exchange Commission, the Internal Revenue Service, or any other Federal or State agency.

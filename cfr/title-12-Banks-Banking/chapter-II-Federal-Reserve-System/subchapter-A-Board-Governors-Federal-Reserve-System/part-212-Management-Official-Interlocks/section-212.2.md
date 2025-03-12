@@ -66,6 +66,10 @@ For purposes of this part, the following definitions apply:
 
 (iii) Assets of offices of a foreign commercial bank other than the assets of its United States branch or agency.
 
+(3)(i) Notwithstanding paragraph (o)(1) of this section, and except as provided in paragraph (o)(3)(ii) of this section, from December 2, 2020, through December 31, 2021, the term *total assets,* with respect to a depository organization, means the lesser of assets of the depository organization reported on a consolidated basis as of December 31, 2019, and assets reported as of the end of the depository organization's most recent fiscal year on a consolidated basis as of December 31, 2020.
+
+(ii) The relief provided under paragraph (o)(3)(i) of this section does not apply to a depository organization if the Board determines that permitting the depository organization to determine its assets in accordance with that paragraph would not be commensurate with the risk profile of the depository organization. When making this determination, the Board will consider all relevant factors, including the extent of asset growth of the depository organization since December 31, 2019; the causes of such growth, including whether growth occurred as a result of mergers or acquisitions; whether such growth is likely to be temporary or permanent; whether the depository organization has become involved in any additional activities since December 31, 2019; the asset size of any parent companies; and the type of assets held by the depository organization. In making a determination pursuant to this paragraph (o)(3)(ii), the Board will apply notice and response procedures in the same manner and to the same extent as the notice and response procedures in 12 CFR 263.202.
+
 (p) *United States* means the United States of America, any State or territory of the United States of America, the District of Columbia, Puerto Rico, Guam, American Samoa, and the Virgin Islands.
 
-[61 FR 40302, Aug. 2, 1996, as amended at 64 FR 51679, Sept. 24, 1999; Reg. L, 72 FR 1276, Jan. 11, 2007]
+[61 FR 40302, Aug. 2, 1996, as amended at 64 FR 51679, Sept. 24, 1999; Reg. L, 72 FR 1276, Jan. 11, 2007; 85 FR 77361, Dec. 2, 2020]

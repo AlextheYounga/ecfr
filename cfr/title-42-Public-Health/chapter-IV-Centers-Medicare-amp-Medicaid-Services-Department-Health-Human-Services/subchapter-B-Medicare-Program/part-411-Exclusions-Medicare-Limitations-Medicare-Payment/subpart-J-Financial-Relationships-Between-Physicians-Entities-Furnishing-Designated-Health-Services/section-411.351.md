@@ -1,5 +1,7 @@
 ##### § 411.351 Definitions. #####
 
+Link to an amendment published at 85 FR 77656, Dec. 2, 2020.
+
 As used in this subpart, unless the context indicates otherwise:
 
 *Centralized building* means all or part of a building, including, for purposes of this subpart only, a mobile vehicle, van, or trailer that is owned or leased on a full-time basis (that is, 24 hours per day, 7 days per week, for a term of not less than 6 months) by a group practice and that is used exclusively by the group practice. Space in a building or a mobile vehicle, van, or trailer that is shared by more than one group practice, by a group practice and one or more solo practitioners, or by a group practice and another provider or supplier (for example, a diagnostic imaging facility) is not a centralized building for purposes of this subpart. This provision does not preclude a group practice from providing services to other providers or suppliers (for example, purchased diagnostic tests) in the group practice's centralized building. A group practice may have more than one centralized building.

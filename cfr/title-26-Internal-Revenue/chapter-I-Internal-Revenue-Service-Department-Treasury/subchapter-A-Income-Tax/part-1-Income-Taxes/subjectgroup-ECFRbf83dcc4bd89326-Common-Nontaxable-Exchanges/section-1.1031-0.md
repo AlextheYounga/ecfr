@@ -2,7 +2,8 @@
 
 This section lists the captions that appear in the regulations under section 1031.
 
-§ 1.1031(a)-1 Property held for productive use in a trade or business or for investment.
+§ 1.1031(a)-1
+Property held for productive use in a trade or business or for investment.
 
 (a) In general.
 
@@ -12,7 +13,7 @@ This section lists the captions that appear in the regulations under section 103
 
 (d) Examples of exchanges not solely in kind.
 
-(e) Effective date.
+(e) Applicability dates.
 
 § 1.1031(a)-2 Additional rules for exchanges of personal property.
 
@@ -21,6 +22,14 @@ This section lists the captions that appear in the regulations under section 103
 (b) Depreciable tangible personal property.
 
 (c) Intangible personal property and nondepreciable personal property.
+
+§ 1.1031(a)-3 Definition of real property.
+
+(a) Real property.
+
+(b) Examples.
+
+(c) Applicability date.
 
 § 1.1031(b)-1 Receipt of other property or money in tax-free exchange.§ 1.1031(b)-2 Safe harbor for qualified intermediaries.§ 1.1031(c)-1 Nonrecognition of loss.§ 1.1031(d)-1 Property acquired upon a tax-free exchange.§ 1.1031(d)-1T Coordination of section 1060 with section 1031 (temporary).§ 1.1031(d)-2 Treatment of assumption of liabilities.§ 1.1031(e)-1 Exchanges of livestock of different sexes.§ 1.1031(j)-1 Exchanges of multiple properties.
 
@@ -66,4 +75,4 @@ This section lists the captions that appear in the regulations under section 103
 
 (o) Effective date.
 
-[T.D. 8346, 56 FR 19937, May 1, 1991]
+[T.D. 8346, 56 FR 19937, May 1, 1991, as amended by T.D. 9935, 85 FR 77378, Dec. 2, 2020]

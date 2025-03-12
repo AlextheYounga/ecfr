@@ -1,6 +1,6 @@
 ##### § 411.353 Prohibition on certain referrals by physicians and limitations on billing. #####
 
-Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
+Link to an amendment published at 85 FR 72909, Nov. 16, 2020.Link to an amendment published at 85 FR 77656, Dec. 2, 2020.
 
 (a) *Prohibition on referrals.* Except as provided in this subpart, a physician who has a direct or indirect financial relationship with an entity, or who has an immediate family member who has a direct or indirect financial relationship with the entity, may not make a referral to that entity for the furnishing of DHS for which payment otherwise may be made under Medicare. A physician's prohibited financial relationship with an entity that furnishes DHS is not imputed to his or her group practice or its members or its staff. However, a referral made by a physician's group practice, its members, or its staff may be imputed to the physician if the physician directs the group practice, its members, or its staff to make the referral or if the physician controls referrals made by his or her group practice, its members, or its staff.
 

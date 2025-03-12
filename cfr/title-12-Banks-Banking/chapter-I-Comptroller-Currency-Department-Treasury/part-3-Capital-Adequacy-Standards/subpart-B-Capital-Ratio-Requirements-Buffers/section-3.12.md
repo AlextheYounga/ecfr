@@ -42,6 +42,14 @@
 
 (B) A qualifying community banking organization that opts out of the community bank leverage ratio framework pursuant to paragraph (a)(3)(iii)(A) of this section must comply with § 3.10(a)(1) immediately.
 
+(4)(i) *Temporary relief.* From December 2, 2020 through December 31, 2021, except as provided in paragraph (a)(4)(ii) of this section, the total consolidated assets of a national bank or Federal savings association for purposes of paragraph (a)(2)(ii) of this section shall be the lesser of:
+
+(A) The total consolidated assets reported by the national bank or Federal savings association in its Call Report as of December 31, 2019; and
+
+(B) The total consolidated assets of the national bank or Federal savings association calculated in accordance with the reporting instructions to the Call Report as of the end of the most recent calendar quarter.
+
+(ii) *Reservation of authority.* The temporary relief provided under paragraph (a)(4)(i) of this section does not apply to a national bank or Federal savings association if the OCC determines that permitting the institution to determine its assets in accordance with that paragraph would not be commensurate with the risk posed by the institution. When making this determination, the OCC will consider all relevant factors, including the extent of asset growth of the national bank or Federal savings association since December 31, 2019; the causes of this growth, including whether this growth occurred as a result of a merger or acquisition; whether such growth is likely to be temporary or permanent; whether the national bank or Federal savings association has become involved in any additional activities since December 31, 2019; and the type of assets held by the national bank or Federal savings association. The OCC will notify a national bank or Federal savings association of a determination under this paragraph. A national bank or Federal savings association may, not later than 30 days after the date of a determination by the OCC, inform the OCC, in writing, of why the national bank or Federal savings association should be eligible for the temporary relief. The OCC will make a final determination after reviewing any response.
+
 (b) *Calculation of the leverage ratio.* A qualifying community banking organization's leverage ratio is calculated in accordance with § 3.10(b)(4), except that a qualifying community banking organization is not required to:
 
 (1) Make adjustments and deductions from tier 2 capital for purposes of § 3.22(c); or
@@ -60,4 +68,4 @@
 
 (6) Notwithstanding paragraphs (c)(1) through (4) of this section, a national bank or Federal savings association that has a leverage ratio of 8 percent or less does not have a grace period and must comply with the minimum capital requirements under § 3.10(a)(1) and must report the required capital measures under § 3.10(a)(1) for the quarter in which it reports a leverage ratio of 8 percent or less.
 
-[84 FR 61792, Nov. 13, 2019]
+[84 FR 61792, Nov. 13, 2019, as amended at 85 FR 77359, Dec. 2, 2020]

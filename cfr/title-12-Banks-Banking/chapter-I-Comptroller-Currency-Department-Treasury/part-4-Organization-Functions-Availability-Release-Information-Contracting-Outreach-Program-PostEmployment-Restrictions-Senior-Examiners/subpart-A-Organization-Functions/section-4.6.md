@@ -20,4 +20,6 @@
 
 (c) *Authority to conduct more frequent examinations.* This section does not limit the authority of the OCC to examine any national bank or Federal savings association as frequently as the agency deems necessary.
 
-[81 FR 10068, Feb. 29, 2016, as amended at 83 FR 43965, Aug. 29, 2018]
+(d) Through December 31, 2021, for purposes of determining eligibility for the 18-month rule described in paragraph (b) of this section, the OCC may determine the total assets of a national bank or Federal savings association by reference to the total assets of the national bank or Federal savings association as reported by the national bank or Federal savings association in its Call Report as of December 31, 2019.
+
+[81 FR 10068, Feb. 29, 2016, as amended at 83 FR 43965, Aug. 29, 2018; 85 FR 77359, Dec. 2, 2020]

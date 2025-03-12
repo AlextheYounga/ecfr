@@ -1,5 +1,7 @@
 ##### § 411.354 Financial relationship, compensation, and ownership or investment interest. #####
 
+Link to an amendment published at 85 FR 77656, Dec. 2, 2020.
+
 (a) *Financial relationships.* (1) *Financial relationship* means -
 
 (i) A direct or indirect ownership or investment interest (as defined in paragraph (b) of this section) in any entity that furnishes DHS; or

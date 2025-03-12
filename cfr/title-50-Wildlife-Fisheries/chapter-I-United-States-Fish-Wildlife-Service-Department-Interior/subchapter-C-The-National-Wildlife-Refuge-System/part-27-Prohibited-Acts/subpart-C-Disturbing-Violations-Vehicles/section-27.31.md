@@ -1,7 +1,5 @@
 ##### § 27.31 General provisions regarding vehicles. #####
 
-Link to an amendment published at 85 FR 69235, Nov. 2, 2020.
-
 Travel in or use of any motorized or other vehicles, including those used on air, water, ice, snow, is prohibited on national wildlife refuges except on designated routes of travel, as indicated by the appropriate traffic control signs or signals and in designated areas posted or delineated on maps by the refuge manager and subject to the following requirements and limitations:
 
 (a) Unless specifically covered by the general and special regulations set forth in this chapter, the laws and regulations of the State within whose exterior boundaries a national wildlife refuge or portion thereof is located shall govern traffic and the operation and use of vehicles. Such State laws and regulations which are now or may hereafter be in effect are hereby adopted and made a part of the regulations in this part.
@@ -30,4 +28,14 @@ Travel in or use of any motorized or other vehicles, including those used on air
 
 (l) A motor vehicle shall not be operated at anytime without proper brakes and brake lights, or from sunset to sunrise without working headlights and taillights which comply with the regulations for operation on the roads of the State within whose boundaries the refuge is located.
 
-(m) Such other requirements which are established under the provisions of this subchapter C.
+(m) If the refuge manager determines that electric bicycle (also known as e-bike) use is a compatible use on roads or trails, any person using an e-bike where the motor is not used exclusively to propel the rider for an extended period of time shall be afforded all of the rights and privileges, and be subject to all of the duties, of the operators of nonmotorized bicycles on roads and trails. An e-bike is a two- or three-wheeled electric bicycle with fully operable pedals and an electric motor of not more than 750 watts (1 h.p.) that meets the requirements of one of the following three classes:
+
+(1) Class 1 e-bike shall mean an electric bicycle equipped with a motor that provides assistance only when the rider is pedaling, and that ceases to provide assistance when the bicycle reaches the speed of 20 miles per hour.
+
+(2) Class 2 e-bike shall mean an electric bicycle equipped with a motor that may be used exclusively to propel the bicycle, and that is not capable of providing assistance when the bicycle reaches the speed of 20 miles per hour.
+
+(3) Class 3 e-bike shall mean an electric bicycle equipped with a motor that provides assistance only when the rider is pedaling, and that ceases to provide assistance when the bicycle reaches the speed of 28 miles per hour.
+
+(n) Such other requirements which are established under the provisions of this subchapter C.
+
+[41 FR 9168, Mar. 3, 1976, as amended at 85 FR 69235, Nov. 2, 2020]

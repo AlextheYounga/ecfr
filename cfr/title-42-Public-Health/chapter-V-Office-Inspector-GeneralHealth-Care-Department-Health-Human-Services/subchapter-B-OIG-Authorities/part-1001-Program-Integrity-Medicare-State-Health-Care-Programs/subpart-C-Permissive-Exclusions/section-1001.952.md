@@ -1,6 +1,6 @@
 ##### § 1001.952 Exceptions. #####
 
-Link to an amendment published at 85 FR 76730, Nov. 30, 2020.
+Link to an amendment published at 85 FR 77887, Dec. 2, 2020.Link to an amendment published at 85 FR 76730, Nov. 30, 2020.
 
 The following payment practices shall not be treated as a criminal offense under section 1128B of the Act and shall not serve as the basis for an exclusion:
 

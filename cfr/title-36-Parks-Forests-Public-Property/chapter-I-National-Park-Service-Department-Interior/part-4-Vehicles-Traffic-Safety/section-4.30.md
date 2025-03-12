@@ -1,7 +1,5 @@
 ##### § 4.30 Bicycles. #####
 
-Link to an amendment published at 85 FR 69188, Nov. 2, 2020.
-
 (a) *Park roads.* The use of a bicycle is permitted on park roads and in parking areas that are otherwise open for motor vehicle use by the general public.
 
 (b) *Administrative roads.* Administrative roads are roads that are closed to motor vehicle use by the public, but open to motor vehicle use for administrative purposes. The superintendent may authorize bicycle use on an administrative road. Before authorizing bicycle use on an administrative road the superintendent must:
@@ -56,4 +54,22 @@ Link to an amendment published at 85 FR 69188, Nov. 2, 2020.
 
 (6) Any violation of State law adopted by this section.
 
-[77 FR 39937, July 6, 2012]
+(i) *Electric bicycles.* (1) The use of an electric bicycle may be allowed on park roads, parking areas, and administrative roads and trails that are otherwise open to bicycles. The Superintendent will designate the areas open to electric bicycles, or specific classes of electric bicycles, and notify the public pursuant to 36 CFR 1.7.
+
+(2) The use of an electric bicycle is prohibited in locations not designated by the Superintendent under paragraph (i)(1) of this section.
+
+(3) Except where use of motor vehicles by the public is allowed, using the electric motor exclusively to move an electric bicycle for an extended period of time without pedaling is prohibited.
+
+(4) Possessing an electric bicycle in a wilderness area established by Federal statute is prohibited.
+
+(5) A person operating or possessing an electric bicycle is subject to the following sections of this part that apply to bicycles: §§ 4.12, 4.13, 4.20, 4.21, 4.22, 4.23, and 4.30(h)(3)-(5).
+
+(6) Except as specified in this chapter, the use of an electric bicycle is governed by State law, which is adopted and made a part of this section. Any act in violation of State law adopted by this paragraph is prohibited.
+
+(7) Superintendents may limit or restrict or impose conditions on electric bicycle use, or may close any park road, parking area, administrative road, trail, or portion thereof to such electric bicycle use, or terminate such condition, closure, limit or restriction after:
+
+(i) Taking into consideration public health and safety, natural and cultural resource protection, and other management activities and objectives; and
+
+(ii) Notifying the public through one or more methods listed in 36 CFR 1.7, including in the superintendent's compendium (or written compilation) of discretionary actions referred to in 36 CFR 1.7(b).
+
+[77 FR 39937, July 6, 2012, as amended at 85 FR 69188, Nov. 2, 2020]

@@ -1,7 +1,5 @@
 ##### § 1.4 What terms do I need to know? #####
 
-Link to an amendment published at 85 FR 69188, Nov. 2, 2020.
-
 (a) The following definitions shall apply to this chapter, unless modified by the definitions for a specific part or regulation:
 
 *Abandonment* means the voluntary relinquishment of property with no intent to retain possession.
@@ -38,6 +36,14 @@ Link to an amendment published at 85 FR 69188, Nov. 2, 2020.
 
 *Downed aircraft* means an aircraft that cannot become airborne as a result of mechanical failure, fire, or accident.
 
+*Electric bicycle* means a two- or three-wheeled cycle with fully operable pedals and an electric motor of not more than 750 watts that meets the requirements of one of the following three classes:
+
+(1) “Class 1 electric bicycle” shall mean an electric bicycle equipped with a motor that provides assistance only when the rider is pedaling, and that ceases to provide assistance when the bicycle reaches the speed of 20 miles per hour.
+
+(2) “Class 2 electric bicycle” shall mean an electric bicycle equipped with a motor that may be used exclusively to propel the bicycle, and that is not capable of providing assistance when the bicycle reaches the speed of 20 miles per hour.
+
+(3) “Class 3 electric bicycle” shall mean an electric bicycle equipped with a motor that provides assistance only when the rider is pedaling, and that ceases to provide assistance when the bicycle reaches the speed of 28 miles per hour.
+
 *Firearm* means a loaded or unloaded pistol, rifle, shotgun or other weapon which is designed to, or may be readily converted to, expel a projectile by the ignition of a propellant.
 
 *Fish* means any member of the subclasses *Agnatha, Chondrichthyes,* or *Osteichthyes,* or any mollusk or crustacean found in salt water.
@@ -60,7 +66,7 @@ Link to an amendment published at 85 FR 69188, Nov. 2, 2020.
 
 *Motorized wheelchair* means a self-propelled wheeled device, designed solely for and used by a mobility-impaired person for locomotion, that is both capable of and suitable for use in indoor pedestrian areas.
 
-*Motor vehicle* means every vehicle that is self-propelled and every vehicle that is propelled by electric power, but not operated on rails or upon water, except a snowmobile and a motorized wheelchair.
+*Motor vehicle* means every vehicle that is self-propelled and every vehicle that is propelled by electric power, but not operated on rails or water, except an electric bicycle, a snowmobile, and a motorized wheelchair.
 
 *National Park System* (Park area) means any area of land and water now or hereafter administered by the Secretary of the Interior through the National Park Service for park, monument, historic, parkway, recreational, or other purposes.
 
@@ -148,4 +154,4 @@ Link to an amendment published at 85 FR 69188, Nov. 2, 2020.
 
 (b) In addition to the definitions in paragraph (a), for the purpose of the regulations contained in parts 3 and 7 of this chapter, the definitions pertaining to navigation, navigable waters and shipping enumerated in title 14 United States Code, title 33 Code of Federal Regulations, title 46 Code of Federal Regulations, title 49 Code of Federal Regulations, the Federal Boating Safety Act of 1971, and the Inland Navigational Rules Act of 1980, shall apply for boating and water activities.
 
-[48 FR 30275, June 30, 1983, as amended at 49 FR 18449, Apr. 30, 1984; 51 FR 37011, Oct. 17, 1986; 52 FR 10683, Apr. 2, 1987; 60 FR 55790, Nov. 3, 1995; 61 FR 35136, July 5, 1996; 62 FR 30234, June 3, 1997; 65 FR 15089, Mar. 21, 2000; 72 FR 13702, Mar. 23, 2007]
+[48 FR 30275, June 30, 1983, as amended at 49 FR 18449, Apr. 30, 1984; 51 FR 37011, Oct. 17, 1986; 52 FR 10683, Apr. 2, 1987; 60 FR 55790, Nov. 3, 1995; 61 FR 35136, July 5, 1996; 62 FR 30234, June 3, 1997; 65 FR 15089, Mar. 21, 2000; 72 FR 13702, Mar. 23, 2007; 85 FR 69188, Nov. 2, 2020]

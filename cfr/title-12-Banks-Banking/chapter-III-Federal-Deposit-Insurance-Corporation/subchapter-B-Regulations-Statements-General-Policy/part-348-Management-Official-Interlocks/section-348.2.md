@@ -70,4 +70,10 @@ For purposes of this part, the following definitions apply:
 
 (iii) Assets of offices of a foreign commercial bank other than the assets of its United States branch or agency.
 
+(3)(i) *Temporary relief for 2020 and 2021.* Notwithstanding paragraph (q)(1) of this section, from December 2, 2020, through December 31, 2021, except as provided in paragraph (q)(3)(ii) of this section, the term *total assets,* with respect to a depository organization, means the lesser of assets of the depository organization reported on a consolidated basis as of December 31, 2019, and assets reported on a consolidated basis as of December 31, 2020.
+
+(ii) *Reservation of authority.* The temporary relief provided under this paragraph (q)(3)(i) of this section does not apply to an FDIC-supervised institution if the FDIC determines that permitting the FDIC-supervised institution to determine its assets in accordance with that paragraph would not be commensurate with the risk posed by the institution. When making this determination, the FDIC will consider all relevant factors, including the extent of asset growth of the FDIC-supervised institution since December 31, 2019; the causes of such growth, including whether growth occurred as a result of mergers or acquisitions; whether such growth is likely to be temporary or permanent; whether the FDIC-supervised institution has become involved in any additional activities since December 31, 2019; and the type of assets held by the FDIC-supervised institution.
+
 (r) *United States* means the United States of America, any State or territory of the United States of America, the District of Columbia, Puerto Rico, Guam, American Samoa, and the Virgin Islands.
+
+[80 FR 79252, Dec. 21, 2015, as amended at 85 FR 77364, Dec. 2, 2020]

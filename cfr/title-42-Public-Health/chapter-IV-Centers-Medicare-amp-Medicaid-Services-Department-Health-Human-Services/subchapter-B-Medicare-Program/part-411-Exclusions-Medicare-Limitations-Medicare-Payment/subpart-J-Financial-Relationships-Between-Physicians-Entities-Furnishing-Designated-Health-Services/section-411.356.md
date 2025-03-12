@@ -1,5 +1,7 @@
 ##### § 411.356 Exceptions to the referral prohibition related to ownership or investment interests. #####
 
+Link to an amendment published at 85 FR 77656, Dec. 2, 2020.
+
 For purposes of § 411.353, the following ownership or investment interests do not constitute a financial relationship:
 
 (a) *Publicly traded securities.* Ownership of investment securities (including shares or bonds, debentures, notes, or other debt instruments) that at the time the DHS referral was made could be purchased on the open market and that meet the requirements of paragraphs (a)(1) and (2) of this section.

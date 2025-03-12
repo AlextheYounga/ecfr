@@ -1,5 +1,7 @@
 ##### § 1003.110 Definitions. #####
 
+Link to an amendment published at 85 FR 77894, Dec. 2, 2020.
+
 For purposes of this part:
 
 *Assessment* means the amounts described in this part and includes the plural of that term.
