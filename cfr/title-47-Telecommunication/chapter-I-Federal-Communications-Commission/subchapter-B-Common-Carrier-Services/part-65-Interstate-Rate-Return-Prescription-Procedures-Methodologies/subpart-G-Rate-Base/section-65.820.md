@@ -1,5 +1,7 @@
 ##### § 65.820 Included items. #####
 
+Link to an amendment published at 82 FR 20843, May 4, 2017.
+
 (a) *Telecommunications plant.* The interstate portion of all assets summarized in Account 2001 (Telecommunications Plant in Service) and Account 2002 (Property Held for Future Use), net of accumulated depreciation and amortization, and Account 2003 (Telecommunications Plant Under Construction), and, to the extent such inclusions are allowed by this Commission, Account 2005 (Telecommunications Plant Adjustment). Any interest cost for funds used during construction capitalized on assets recorded in these accounts shall be computed in accordance with the procedures in Sec. 32.2000(c)(2)(x) of this chapter.
 
 (b) *Material and supplies.* The interstate portion of assets summarized in Account 1220.1 (Material and Supplies).

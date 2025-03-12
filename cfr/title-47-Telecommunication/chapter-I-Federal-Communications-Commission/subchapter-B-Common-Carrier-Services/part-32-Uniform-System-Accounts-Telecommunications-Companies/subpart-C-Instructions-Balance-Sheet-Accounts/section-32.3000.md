@@ -1,5 +1,7 @@
 ##### § 32.3000 Instructions for balance sheet accounts - Depreciation and amortization. #####
 
+Link to an amendment published at 82 FR 20841, May 4, 2017.
+
 (a) Depreciation and Amortization Subsidiary Records:
 
 (1) Subsidiary record categories shall be maintained for each class of depreciable telecommunications plant in Account 3100 for which there is a prescribed depreciation rate. (See also § 32.2000(g)(1)(iii) of this subpart.)

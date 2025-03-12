@@ -1,5 +1,7 @@
 ##### § 32.11 Classification of companies. #####
 
+Link to an amendment published at 82 FR 20840, May 4, 2017.
+
 (a) For purposes of this section, the term “company” or “companies” means incumbent local exchange carrier(s) as defined in section 251(h) of the Communications Act, and any other carriers that the Commission designates by Order. Incumbent local exchange carriers' successor or assign companies, as defined in section 251(h)(1)(B)(ii) of the Communications Act, that are found to be non-dominant by the Commission, will not be subject to this Uniform System of Accounts.
 
 (b) For accounting purposes, companies are divided into classes as follows:

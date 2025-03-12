@@ -1,5 +1,7 @@
 ##### § 32.103 Balance sheet accounts for other than regulated-fixed assets to be maintained. #####
 
+Link to an amendment published at 82 FR 20840, May 4, 2017.
+
 Balance sheet accounts to be maintained by Class A and Class B telephone companies for other than regulated-fixed assets are indicated as follows:
 
 Balance Sheet Accounts

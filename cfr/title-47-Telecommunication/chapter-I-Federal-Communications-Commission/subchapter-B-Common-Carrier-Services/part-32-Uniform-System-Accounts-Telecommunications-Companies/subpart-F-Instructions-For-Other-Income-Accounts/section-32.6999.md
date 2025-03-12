@@ -1,5 +1,7 @@
 ##### § 32.6999 General. #####
 
+Link to an amendment published at 82 FR 20843, May 4, 2017.
+
 (a) *Structure of the other income accounts.* The Other Income Accounts are designed to reflect both operating and nonoperating income items including taxes, extraordinary items and other income and expense items not properly included elsewhere.
 
 (b) *Other income accounts listing.*

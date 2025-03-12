@@ -1,5 +1,7 @@
 ##### § 32.5999 General. #####
 
+Link to an amendment published at 82 FR 20842, May 4, 2017.
+
 (a) *Structure of the expense accounts.* (1) The expense section of the system of accounts shall be organized by expense group summary account, and subsidiary record category (if required).
 
 (2) The expense section of this system of accounts shall be comprised of four major expense groups - Plant Specific Operations, Plant Nonspecific Operations, Customer Operations and Corporate Operations. Expenses to be recorded in Plant Specific and Plant Nonspecific Operations Expense Groups generally reflect cost associated with the various kinds of equipment identified in the plant asset accounts. Expenses to be recorded in the Customer Operations and Corporate Operations accounts reflect the costs of, or are associated with, functions performed by people, irrespective of the organization in which any particular function is performed.

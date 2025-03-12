@@ -1,5 +1,7 @@
 ##### § 32.5200 Miscellaneous revenue. #####
 
+Link to an amendment published at 82 FR 20842, May 4, 2017.
+
 This account shall include revenue derived from the following sources. For Class B companies, this account shall also include revenue of the type and character required of Class A companies in Account 5230, Directory revenue.
 
 (a) Rental or subrental to others of telecommunications plant furnished apart from telecommunications services rendered by the company (this revenue includes taxes when borne by the lessee). It includes revenue from the rent of such items as space in conduit, pole line space for attachments, and any allowance for return on property used in joint operations and shared facilities agreements. The expense of maintaining and operating the rented property, including depreciation and insurance, shall be included in the appropriate operating expense accounts. Taxes applicable to the rented property shall be included by the owner of the rented property in appropriate tax accounts. When land or buildings are rented on an incidental basis for non-telecommunications use, the rental and expenses are included in Account 7300, Nonoperating income and expense.

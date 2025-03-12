@@ -1,5 +1,7 @@
 ##### § 32.9000 Glossary of terms. #####
 
+Link to an amendment published at 82 FR 20843, May 4, 2017.
+
 When used in this system of accounts:
 
 *Accelerated depreciation* means a depreciation method or period of time, including the treatment given cost of removal and gross salvage, used in calculating depreciation deductions on income tax returns which is different from the depreciation method or period of time prescribed by this Commission for use in calculating depreciation expense recorded in a company's books of account.

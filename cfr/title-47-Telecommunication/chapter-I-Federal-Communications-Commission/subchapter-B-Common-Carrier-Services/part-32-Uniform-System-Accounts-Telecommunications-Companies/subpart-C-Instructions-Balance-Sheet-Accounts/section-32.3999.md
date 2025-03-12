@@ -1,5 +1,7 @@
 ##### § 32.3999 Instructions for balance sheet accounts - liabilities and stockholders' equity. #####
 
+Link to an amendment published at 82 FR 20842, May 4, 2017.
+
 Liabilities and Stockholders' Equity Accounts To Be Maintained by Class A and Class B Telephone Companies
 
 |                       Account title                       |Class A  <br/>account|Class B  <br/>account|

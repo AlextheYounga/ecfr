@@ -1,5 +1,7 @@
 ##### § 32.101 Structure of the balance sheet accounts. #####
 
+Link to an amendment published at 82 FR 20840, May 4, 2017.
+
 The Balance Sheet accounts shall be maintained as follows:
 
 (a) Account 1120, Cash and equivalents, through Account 1500, Other jurisdictional assets - net, shall include assets other than regulated-fixed assets.

@@ -1,5 +1,7 @@
 ##### § 32.2690 Intangibles. #####
 
+Link to an amendment published at 82 FR 20841, May 4, 2017.
+
 (a) This account shall include the cost of organizing and incorporating the company, the original cost of government franchises, the original cost of patent rights, and other intangible property having a life of more than one year and used in connection with the company's telecommunications operations.
 
 (b) Class A companies, except mid-sized incumbent local exchange carriers, shall maintain subsidiary records for general purpose computer software and for network software. Subsidiary records for this account shall also include a description of each class of all other tangible property.

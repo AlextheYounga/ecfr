@@ -1,5 +1,7 @@
 ##### § 32.4999 General. #####
 
+Link to an amendment published at 82 FR 20842, May 4, 2017.
+
 (a) *Purpose of revenue accounts.* The revenue accounts are intended to include the actual cash inflows (or equivalents) that have or will occur as a result of the company's ongoing major or central operations during the period. They will include the revenues which arise from furnishing regulated telecommunications services to others, from directory advertising, rentals of telecommunications assets and from providing other services which are directly associated with the provision of regulated telecommunications services.
 
 (b) *Deductions from revenue.* Corrections of overcharges, authorized refunds of overcollections previously credited to revenue, authorized refunds and adjustments on account of failure in service, and other corrections shall be charged to the revenue account previously credited with the amounts involved.
