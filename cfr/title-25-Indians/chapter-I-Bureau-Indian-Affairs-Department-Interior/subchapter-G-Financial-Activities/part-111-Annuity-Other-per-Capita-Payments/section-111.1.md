@@ -1,6 +1,6 @@
 ##### § 111.1 Persons to share payments. #####
 
-In making all annuity and other per capita payments, the funds shall be equally divided among the Indians entitled thereto share and share alike. The roll for such payments should be prepared on Form 5-322,1 in strict alphabetical order by families of husband, wife, and unmarried dependent minor children. Unless otherwise instructed,
+In making all annuity and other per capita payments, the funds shall be equally divided among the Indians entitled thereto share and share alike. The roll for such payments should be prepared on Form 5-322,1/\> in strict alphabetical order by families of husband, wife, and unmarried dependent minor children. Unless otherwise instructed,
 
 1 Forms may be obtained from the Commissioner of Indian Affairs, Washington, D.C.
 

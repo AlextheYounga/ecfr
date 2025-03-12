@@ -1,0 +1,3 @@
+##### § 273.141 Will funding be prorated? #####
+
+All monies provided by a contract may be expended only for the benefit of eligible Indian students. Where students other than eligible Indian students participate in programs contracted, money expended under the contract will be prorated to cover the participation of only the eligible Indian students, except where the participation of non-eligible students is so incidental as to be *de minimis.* Such *de minimis* participation must be approved by the Indian Education Committee.

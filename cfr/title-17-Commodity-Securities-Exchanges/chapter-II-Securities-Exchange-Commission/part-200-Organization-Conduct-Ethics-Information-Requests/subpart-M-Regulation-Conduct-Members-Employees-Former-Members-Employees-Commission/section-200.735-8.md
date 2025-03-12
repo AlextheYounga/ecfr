@@ -30,11 +30,11 @@
 
 (iii) In cases where the matter or client became the subject of consideration by the firm subsequent to the firm's employment of the lawyer individually disqualified, that the matter was not brought to the firm because of the disqualified attorney.
 
-(3) Notwithstanding the existence or non-existence of any of these factors, no waiver will be issued if the proposed representation would create a significant appearance of impropriety or would otherwise adversely affect the interests of the government.5 All proceedings with respect to waivers shall be a matter of public record except to the extent that such public disclosure might violate attorney-client privilege or breach the attorney's obligation to preserve the confidences and secrets of this or her clients, reveal the existence of ongoing private investigations, interfere with law enforcement proceedings, or otherwise be inconsistent with the public interest.
+(3) Notwithstanding the existence or non-existence of any of these factors, no waiver will be issued if the proposed representation would create a significant appearance of impropriety or would otherwise adversely affect the interests of the government.5/\> All proceedings with respect to waivers shall be a matter of public record except to the extent that such public disclosure might violate attorney-client privilege or breach the attorney's obligation to preserve the confidences and secrets of this or her clients, reveal the existence of ongoing private investigations, interfere with law enforcement proceedings, or otherwise be inconsistent with the public interest.
 
 5 For example, no waiver will be granted if, during the course of representing a client who has an interest with respect to a matter before the Commission, a firm employs, or accepts as a partner, a member of the staff or of the Commission who at any time during the course of that representation had direct and substantial responsibility for the same matter, and whose departure would result in a significant adverse impact upon that matter at the Commission.
 
-(e) Persons in doubt as to the applicability of any portion of this section may apply for an advisory ruling of the Commission.6
+(e) Persons in doubt as to the applicability of any portion of this section may apply for an advisory ruling of the Commission.6/\>
 
 6 Attention of former members and employees is directed to Formal Opinion 342 of the Committee on Ethics of the American Bar Association, 62 A.B.A.J. 517 (1975) and to 18 U.S.C. 207.
 

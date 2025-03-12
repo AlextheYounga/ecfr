@@ -1,0 +1,3 @@
+##### § 273.194 Does the Indian Education Committee have authority to cancel contracts? #####
+
+The Indian Education Committee may recommend to the BIE Director, through the appropriate awarding official, cancellation or suspension of a contract(s) that contains the program(s) approved by the Indian Education Committee, if the contractor fails to permit such Committee to exercise its powers and duties.

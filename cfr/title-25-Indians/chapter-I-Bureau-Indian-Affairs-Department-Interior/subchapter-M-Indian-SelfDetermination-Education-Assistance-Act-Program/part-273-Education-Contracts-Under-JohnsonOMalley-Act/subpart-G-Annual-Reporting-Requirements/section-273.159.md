@@ -1,0 +1,3 @@
+##### § 273.159 If the existing contracting party reported a decrease of eligible Indian students, how will funding be reduced? #####
+
+Except as provided in § 273.140(c) and (d) of this part, for four fiscal years following the date of enactment of the JOM Modernization Act (December 31, 2018) an existing contracting party's funding will not be reduced to a level that is less than the amount of funding per eligible Indian student that the existing contracting party received for Fiscal Year 2017 (the fiscal year preceding the date of enactment of the Johnson-O'Malley Modernization Act).

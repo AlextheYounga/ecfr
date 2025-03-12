@@ -4,7 +4,7 @@
 
 (1) *Wetlands conservation.* Will the project reverse coastal wetland loss or habitat degradation in decreasing or stable coastal wetland types? Will it conserve wetlands to prevent losses of decreasing or stable wetland types? (Maximum: 7 points)
 
-(i) The majority of the project area (over 50 percent) is nationally decreasing coastal wetland types,2 or the majority is regionally decreasing wetlands types in which the case for regionally decreasing is well-documented (Up to 7 points). The nationally decreasing types are estuarine intertidal emergent; estuarine intertidal forested; estuarine intertidal scrub-shrub; marine intertidal; palustrine emergent; palustrine forested; and palustrine scrub-shrub. Describe the wetlands using terms listed above. Include a breakdown showing the percentage of the proposal's total and wetland acreage in decreasing types. Provide National Wetlands Inventory codes/information if available. Information about these can be found on the National Wetland Inventory's web site at *http://wetlands.fws.gov.*
+(i) The majority of the project area (over 50 percent) is nationally decreasing coastal wetland types,2/\> or the majority is regionally decreasing wetlands types in which the case for regionally decreasing is well-documented (Up to 7 points). The nationally decreasing types are estuarine intertidal emergent; estuarine intertidal forested; estuarine intertidal scrub-shrub; marine intertidal; palustrine emergent; palustrine forested; and palustrine scrub-shrub. Describe the wetlands using terms listed above. Include a breakdown showing the percentage of the proposal's total and wetland acreage in decreasing types. Provide National Wetlands Inventory codes/information if available. Information about these can be found on the National Wetland Inventory's web site at *http://wetlands.fws.gov.*
 
 2 These designations are based on the National Wetlands Priority Conservation Plan. For more information about the plan, or to receive a copy of the document, refer to the contact information provided in § 84.21.
 
@@ -64,7 +64,7 @@
 
 (ii) The project will not significantly benefit coastal-dependent or migratory birds. (0 points)
 
-(iii) We will give maximum points to projects that benefit coastal-dependent species identified in the North American Waterfowl Plan or listed as species of management concern.3 Proposals should also include information that demonstrates how the project will contribute to the regional goals developed under the U.S. Shorebird Conservation Plan, the North American Waterbird Conservation Plan, Partners in Flight, the North American Waterfowl Management Plan, or other bird conservation initiatives. Proposals that fail to do so will not receive maximum points. Indicate if the proposed area has been specifically identified by any program or agency for its migratory bird values.
+(iii) We will give maximum points to projects that benefit coastal-dependent species identified in the North American Waterfowl Plan or listed as species of management concern.3/\> Proposals should also include information that demonstrates how the project will contribute to the regional goals developed under the U.S. Shorebird Conservation Plan, the North American Waterbird Conservation Plan, Partners in Flight, the North American Waterfowl Management Plan, or other bird conservation initiatives. Proposals that fail to do so will not receive maximum points. Indicate if the proposed area has been specifically identified by any program or agency for its migratory bird values.
 
 3 For more information about species of management concern, visit the website migratorybirds.fws.gov or contact the Division of Migratory Bird Management at 703-358-1714.
 
@@ -102,7 +102,7 @@
 
 (A) *Example 1-50 - Percent Federal Match*
 
-If the total project costs are $100,000, then the required State match share is $50,000.If the State or a partner provides an additional cash contribution equal to 10 percent of the $50,000, $5,000. This is defined as a 10 percent increase in the State match.4
+If the total project costs are $100,000, then the required State match share is $50,000.If the State or a partner provides an additional cash contribution equal to 10 percent of the $50,000, $5,000. This is defined as a 10 percent increase in the State match.4/\>
 
 4 From sources other than Federal agencies. Natural Resource Damage Assessment funds may in some cases be defined as “non-Federal.” See discussion under § 84.46 on *What are the cost-sharing requirements?*
 

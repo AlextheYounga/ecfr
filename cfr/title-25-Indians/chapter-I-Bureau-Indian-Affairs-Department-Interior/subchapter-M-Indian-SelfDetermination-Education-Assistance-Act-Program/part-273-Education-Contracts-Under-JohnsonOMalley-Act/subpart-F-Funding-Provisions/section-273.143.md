@@ -1,0 +1,7 @@
+##### § 273.143 Must other Federal, State, and local funds be used? #####
+
+(a) Contract funds under this part supplement, and do not supplant, Federal, State and local funds. Each contract must require that the use of these contract funds will not result in a decrease in State, local, or Federal funds that would be made available for Indian students if there were no funds under this part.
+
+(b) State, local and other Federal funds must be used to provide comparable services to non-Indian and Indian students prior to the use of contract funds.
+
+(c) Except as hereinafter provided, the school lunch program of the United States Department of Agriculture (USDA) constitutes the only federally funded school lunch program for Indian students in public schools. Where Indian students do not qualify to receive free lunches under the National School Lunch Program of USDA because such students are non-needy and do not meet the family size and income guidelines for free USDA lunches, plans prepared pursuant to § 273.119 may provide, to the extent of funding available for Johnson-O'Malley programs, for free school lunches for those students who do not qualify for free USDA lunches but who are eligible Indian students under § 273.112.

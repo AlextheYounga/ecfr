@@ -2,7 +2,7 @@
 
 The following small entity compliance guides are available to the public from the Commission's Publications Room and regional offices:
 
-(a) *Q & A: Small Business and the SEC.*1
+(a) *Q & A: Small Business and the SEC.*1/\>
 
 1 These items are also available on the Securities and Exchange Commission Web site on the Internet, *http://www.sec.gov.*
 

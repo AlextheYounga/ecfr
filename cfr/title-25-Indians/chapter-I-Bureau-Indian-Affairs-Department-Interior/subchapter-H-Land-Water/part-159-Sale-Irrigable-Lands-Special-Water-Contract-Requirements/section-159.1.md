@@ -1,6 +1,6 @@
 ##### § 159.1 Conditions of contract. #####
 
-(a) The form of contract (Form 5-462b)1 for sale of irrigable lands specifically provides that the purchaser will obligate and pay on a per acre basis all irrigation charges assessed or to be assessed against the land purchased including accrued assessment, which accrued assessment shall be paid prior to the approval of the sale, and for the payment of the construction and operation and maintenance assessments on the due dates of each year. The agreement is to be acknowledged and recorded in the county records in which county the land is situated. The charges incidental to the recording of the instrument shall be paid by the purchaser at the time of executing the agreement.
+(a) The form of contract (Form 5-462b)1/\> for sale of irrigable lands specifically provides that the purchaser will obligate and pay on a per acre basis all irrigation charges assessed or to be assessed against the land purchased including accrued assessment, which accrued assessment shall be paid prior to the approval of the sale, and for the payment of the construction and operation and maintenance assessments on the due dates of each year. The agreement is to be acknowledged and recorded in the county records in which county the land is situated. The charges incidental to the recording of the instrument shall be paid by the purchaser at the time of executing the agreement.
 
 1 Forms may be obtained from the Commissioner of Indian Affairs, Washington, D.C.
 

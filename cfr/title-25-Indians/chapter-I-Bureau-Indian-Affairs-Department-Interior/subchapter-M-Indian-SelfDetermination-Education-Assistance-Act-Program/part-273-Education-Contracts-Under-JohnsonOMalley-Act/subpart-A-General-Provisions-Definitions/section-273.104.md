@@ -1,0 +1,3 @@
+##### § 273.104 How will the Secretary extend geographic coverage and enhance participation under the Johnson-O'Malley Act? #####
+
+The Secretary will, to the extent practicable, and subject to the availability of appropriations, ensure full geographic coverage and the full participation of all federally recognized Tribes and school districts, regardless of whether the school districts or Tribal organizations had entered into a contract under the Johnson-O'Malley Act before fiscal year 1995. To the maximum extent practicable, the Secretary will consult with Indian Tribes and contact State educational agencies, local educational agencies, and Alaska Native organizations that have not previously entered into a contract in the implementation of this section.

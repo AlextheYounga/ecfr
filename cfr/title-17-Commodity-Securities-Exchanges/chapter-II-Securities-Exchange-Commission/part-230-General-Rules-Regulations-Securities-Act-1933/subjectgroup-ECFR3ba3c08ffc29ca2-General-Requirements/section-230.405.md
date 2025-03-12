@@ -1,5 +1,7 @@
 ##### § 230.405 Definitions of terms. #####
 
+Link to an amendment published at 85 FR 17241, Mar. 26, 2020.
+
 Unless the context otherwise requires, all terms used in §§ 230.400 to 230.494, inclusive, or in the forms for registration have the same meanings as in the Act and in the general rules and regulations. In addition, the following definitions apply, unless the context otherwise requires:
 
 *Affiliate.* An *affiliate* of, or person *affiliated* with, a specified person, is a person that directly, or indirectly through one or more intermediaries, controls or is controlled by, or is under common control with, the person specified.

@@ -1,5 +1,7 @@
 ##### § 240.12b-2 Definitions. #####
 
+Link to an amendment published at 85 FR 17241, Mar. 26, 2020.
+
 Unless the context otherwise requires, the following terms, when used in the rules contained in this regulation or in Regulation 13A or 15D or in the forms for statements and reports filed pursuant to sections 12, 13 or 15(d) of the act, shall have the respective meanings indicated in this rule:
 
 *Accelerated filer and large accelerated filer* - (1) *Accelerated filer.* The term *accelerated filer* means an issuer after it first meets the following conditions as of the end of its fiscal year:

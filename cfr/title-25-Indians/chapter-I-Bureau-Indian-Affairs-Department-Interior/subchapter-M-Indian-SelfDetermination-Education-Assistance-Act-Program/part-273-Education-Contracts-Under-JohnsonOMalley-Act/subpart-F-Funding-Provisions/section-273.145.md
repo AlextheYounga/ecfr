@@ -1,0 +1,3 @@
+##### § 273.145 How can funds be used for subcontractors? #####
+
+The Bureau may make contract funds under the Johnson-O'Malley Act available directly only to Tribal organizations, States, public school districts, and Indian corporations. However, Tribal organizations, States, public school districts, and Indian corporations receiving funds may use the funds to subcontract for necessary services with any appropriate individual, organization, or corporation.

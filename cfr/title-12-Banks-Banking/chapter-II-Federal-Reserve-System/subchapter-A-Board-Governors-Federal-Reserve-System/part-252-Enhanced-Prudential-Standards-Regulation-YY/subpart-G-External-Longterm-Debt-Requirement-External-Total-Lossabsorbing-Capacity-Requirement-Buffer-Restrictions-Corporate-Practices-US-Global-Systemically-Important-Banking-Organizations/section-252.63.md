@@ -18,7 +18,11 @@
 
 (2) *Definitions.* For purposes of this paragraph, the following definitions apply:
 
-(i) *Eligible retained income.* The eligible retained income of a global systemically important BHC is the global systemically important BHC's net income for the four calendar quarters preceding the current calendar quarter, based on the global systemically important BHC's FR Y-9C, net of any distributions and associated tax effects not already reflected in net income. Net income, as reported in the FR Y-9C, reflects discretionary bonus payments and certain distributions that are expense items (and their associated tax effects).
+(i) *Eligible retained income.* The eligible retained income of a global systemically important BHC is the greater of:
+
+(A) The global systemically important BHC's net income, calculated in accordance with the instructions to the FR Y-9C, for the four calendar quarters preceding the current calendar quarter, net of any distributions and associated tax effects not already reflected in net income; and
+
+(B) The average of the global systemically important BHC's net income, calculated in accordance with the instructions to the FR Y-9C, for the four calendar quarters preceding the current calendar quarter.
 
 (ii) *Maximum external TLAC risk-weighted payout ratio.* The maximum external TLAC risk-weighted payout ratio is the percentage of eligible retained income that a global systemically important BHC can pay out in the form of distributions and discretionary bonus payments during the current calendar quarter. The maximum external TLAC risk-weighted payout ratio is based on the global systemically important BHC's external TLAC risk-weighted buffer level, calculated as of the last day of the previous calendar quarter, as set forth in Table 1 to § 252.63.
 
@@ -85,3 +89,5 @@ Table 2 to § 252.63 - Calculation of Maximum External TLAC Leverage Payout Amou
 |Less than or equal to 1.5 percent, and greater than 1.0 percent|                                          40 percent.                                          |
 |Less than or equal to 1.0 percent, and greater than 0.5 percent|                                          20 percent.                                          |
 |               Less than or equal to 0.5 percent               |                                          0 percent.                                           |
+
+[82 FR 8306, Jan. 24, 2017, as amended at 85 FR 17006, Mar. 26, 2020]

@@ -1,5 +1,7 @@
 ##### § 270.27e-1 Requirements for notice to be mailed to certain purchasers of periodic payment plan certificates sold subject to section 27(d) of the Act. #####
 
+Link to an amendment published at 85 FR 26110, May 1, 2020.
+
 (a) The notice required by section 27(e) of the Act shall be sent by first class mail and shall be accompanied by a written instruction sheet and a return form to be used in connection with the exercise of the surrender right described in the notice. No other written or graphic material may be included with such notice.
 
 (b) In the event that regular payments throughout the first 18 months of the plan are required less frequently than monthly, such a notice shall be mailed to any certificate holder who has missed any payment or payments equal to or greater in amount than the amount of payments which, if missed, would have required the mailing of a notice if equal monthly payments had been required during such 15- or 18-month periods.

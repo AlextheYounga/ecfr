@@ -1,0 +1,3 @@
+##### § 273.101 What is the purpose and scope of this part? #####
+
+The purpose of this part is to set forth the process by which the Secretary will enter into contracts for the education of Indian students under the Johnson-O'Malley Act. Such contracts are for the purpose of financially assisting those efforts designed to meet the specialized and unique educational needs of eligible Indian students, including supplemental programs and school operational support, where such support is necessary to maintain established State educational standards.

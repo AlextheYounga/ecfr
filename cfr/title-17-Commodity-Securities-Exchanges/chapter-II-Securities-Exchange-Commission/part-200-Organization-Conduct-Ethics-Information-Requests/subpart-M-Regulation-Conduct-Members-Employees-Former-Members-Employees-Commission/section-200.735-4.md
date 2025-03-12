@@ -2,13 +2,13 @@
 
 (a) Members and employees shall comply with the requirements of the Supplemental standards of ethical conduct for members and employees of the Securities and Exchange Commission (codified at 5 CFR 4401.103 (Outside employment and activities) and 5 CFR part 2635, subpart H (Outside activities)).
 
-(b) The Commission encourages employees to engage in teaching, lecturing, and writing activities with or without compensation.2 In participating in such activities, employees should be guided by the following:
+(b) The Commission encourages employees to engage in teaching, lecturing, and writing activities with or without compensation.2/\> In participating in such activities, employees should be guided by the following:
 
 2 As to employees, while the receipt of honoraria is discouraged, that rule is not applicable to the receipt of compensation for teaching.
 
 (1) No teaching, lecturing, or writing should be engaged in if prohibited by law, Executive order, Office of Personnel Management regulations, or the rules in this subpart.
 
-(2) No teaching, lecturing, or writing should be engaged in (including for the purpose of the special preparation of a person or class of persons for an examination of the Office of Personnel Management or Board of Examiners for the Foreign Service) that depends on information filed with the Commission, or obtained by the Commission in an investigation or otherwise, or generated within the Commission which is nonpublic, unless the Commission gives formal approval for the use of such nonpublic information on the basis that the use thereof is in the public interest.3
+(2) No teaching, lecturing, or writing should be engaged in (including for the purpose of the special preparation of a person or class of persons for an examination of the Office of Personnel Management or Board of Examiners for the Foreign Service) that depends on information filed with the Commission, or obtained by the Commission in an investigation or otherwise, or generated within the Commission which is nonpublic, unless the Commission gives formal approval for the use of such nonpublic information on the basis that the use thereof is in the public interest.3/\>
 
 3 Since members of the Commission are covered by section 401(a) of Executive Order 11222, they are prohibited by Civil Service Regulations (5 CFR 735.203(c)) from receiving compensation or anything of monetary value for any consultation, lecture, discussion, writing, or appearance the subject matter of which is devoted substantially to the responsibilities, programs, or operations of their agencies, or which draws substantially on official data or ideas which have not become part of the body of public information.
 
@@ -20,7 +20,7 @@
 
 (3) For any Commission employee who raises claims or against whom allegations of wrongdoing are made pursuant to the Commission's Equal Opportunity regulations, if such representation is not inconsistent with the faithful performance of the employee's duties.
 
-(d)(1) As paragraph (b) of this section indicates, the Commission encourages employees to engage in teaching, lecturing and writing activities.4 It is understood, however, that Commission employees in their teaching, writing and lecturing shall not
+(d)(1) As paragraph (b) of this section indicates, the Commission encourages employees to engage in teaching, lecturing and writing activities.4/\> It is understood, however, that Commission employees in their teaching, writing and lecturing shall not
 
 4 This paragraph (d), requiring review of prepared speeches or writings relating to the Commission does not apply to teaching activities.
 

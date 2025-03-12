@@ -1,7 +1,5 @@
 ##### § 161.1 Statement of purpose; requirements and application procedures for accreditation. #####
 
-Link to an amendment published at 85 FR 10564, Feb. 25, 2020.
-
 (a) This subchapter concerns a program administered by APHIS to accredit veterinarians and thereby authorize them to perform, on behalf of APHIS, certain activities specified in this chapter. This program is intended to ensure that an adequate number of qualified veterinarians are available in the United States to perform such activities.
 
 (b) *Categories of accreditation.* A veterinarian may be accredited as a Category I veterinarian or a Category II veterinarian. A veterinarian who is accredited under Category I is only authorized to perform accredited duties on Category I animals, as defined in § 160.1. A veterinarian who is accredited under Category II is authorized to perform accredited duties on both Category I animals and Category II animals.
@@ -14,11 +12,11 @@ Link to an amendment published at 85 FR 10564, Feb. 25, 2020.
 
 (1) The veterinarian is a graduate with a Doctorate of Veterinary Medicine or an equivalent degree (any degree that qualifies the holder to be licensed by a State to practice veterinary medicine) from a college of veterinary medicine;
 
-(2) The veterinarian is licensed or legally able to practice veterinary medicine in the State in which the veterinarian wishes to perform accredited duties. APHIS will confirm the licensing status of the applicant by contacting the State board of veterinary medical examiners or any similar State organization that maintains records of veterinarians licensed in a State;
+(2) The veterinarian is licensed to practice veterinary medicine in the State in which the veterinarian wishes to perform accredited duties. An unlicensed veterinarian is legally able to practice veterinary medicine in a State provided that the veterinarian is granted written authorization by that State's veterinary licensing authority or given legal authority through State statute to provide veterinary services for a veterinary employer (such as a cooperative, corporation, laboratory, or other institution recognized by the State authority but not involving contact with animals owned by the public, or a college or school of veterinary medicine). Such authorizations may limit accredited duties to specific geographical areas and/or activities within the State. APHIS will confirm the licensing or legal status of the applicant by contacting the State board of veterinary medical examiners or any similar State organization that maintains records of veterinarians licensed or otherwise legally able to practice in a State;
 
 (3) The veterinarian has completed initial accreditation training, using content provided by APHIS; and
 
-(4) The veterinarian has completed an orientation program approved by the Veterinarian-in-Charge for the State in which the veterinarian wishes to perform accredited duties, and upon completion of the orientation, has signed a written statement listing the date and place of orientation, the subjects covered in the orientation, and any written materials provided to the veterinarian at the orientation. The Veterinarian-in-Charge shall also give the State Animal Health Official an opportunity to review the contents of the orientation, and invite him or her to participate in developing orientation materials and conducting the orientation. The veterinarian applying for accreditation must have completed the orientation program within 3 years prior to submitting the application for accreditation. The core orientation program shall include the following topics:
+(4) The veterinarian has completed an orientation program approved by the Veterinarian-in-Charge for the State in which the veterinarian wishes to perform accredited duties, and upon completion of the orientation, has signed a written statement listing the date and place of orientation, the subjects covered in the orientation, and any written materials provided to the veterinarian at the orientation. The Veterinarian-in-Charge shall also give the State Animal Health Official an opportunity to review the contents of the orientation, and invite him or her to participate in developing orientation materials and conducting the orientation. The veterinarian applying for accreditation must have completed the orientation program within 3 years prior to submitting the application for accreditation. The orientation program shall include the following topics:
 
 (i) Federal animal health laws, regulations, and rules;
 
@@ -82,7 +80,7 @@ Link to an amendment published at 85 FR 10564, Feb. 25, 2020.
 
 (x) Recognize and report clinical signs and lesions of exotic animal diseases.
 
-(xi) Develop a herd or flock health plan consistent with requirements in subchapters B, C, and D of this chapter.
+(xi) Develop a herd or flock health plan consistent with requirements in subchapters B, C, D, and G of this chapter.
 
 (xii) Vaccinate for USDA program diseases and accurately complete the vaccination certificate.
 
@@ -96,4 +94,4 @@ Link to an amendment published at 85 FR 10564, Feb. 25, 2020.
 
 (h) *Authorization to perform duties.* An accredited veterinarian may not perform accredited duties in a State until after receiving written authorization from APHIS. If a Category I accredited veterinarian completes the necessary training requirements and becomes a Category II accredited veterinarian, the veterinarian may not perform Category II accredited duties in a State until after receiving written authorization from APHIS.
 
-(Approved by the Office of Management and Budget under control number 0579-0297)[57 FR 54912, Nov. 23, 1992, as amended at 74 FR 65010, Dec. 9, 2009]
+(Approved by the Office of Management and Budget under control number 0579-0297)[57 FR 54912, Nov. 23, 1992, as amended at 74 FR 65010, Dec. 9, 2009; 85 FR 10564, Feb. 25, 2020]

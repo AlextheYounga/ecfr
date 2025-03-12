@@ -1,0 +1,3 @@
+##### § 273.102 How will revision or amendments be made to this part? #####
+
+Prior to making any substantive revisions or amendments to this part, the Secretary will consult with Indian Tribes and national and regional Indian organizations to the extent practicable about the need for revision or amendment and will consider their views in preparing the proposed revision or amendment. Nothing in this section precludes Indian Tribes or national or regional Indian organizations from initiating a request for revisions or amendments.

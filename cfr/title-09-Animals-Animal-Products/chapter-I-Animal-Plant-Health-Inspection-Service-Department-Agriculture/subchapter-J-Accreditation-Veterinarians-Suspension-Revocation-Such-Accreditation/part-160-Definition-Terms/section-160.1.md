@@ -1,10 +1,10 @@
 ##### § 160.1 Definitions. #####
 
-Link to an amendment published at 85 FR 10564, Feb. 25, 2020.
-
 For the purposes of this subchapter the following words, phrases, names and terms shall be construed, respectively, to mean:
 
-*Accredited veterinarian.* A veterinarian approved by the Administrator in accordance with the provisions of part 161 of this subchapter to perform functions specified in subchapters B, C, and D of this chapter.
+*Accreditation.* The action of the Administrator initially approving a veterinarian in accordance with the provisions of part 161 of this subchapter to perform functions specified in subchapters B, C, D, and G of this chapter, in one State.
+
+*Accredited veterinarian.* A veterinarian approved by the Administrator in accordance with the provisions of part 161 of this subchapter to perform functions specified in subchapters B, C, D, and G of this chapter.
 
 *Administrator.* The Administrator of the Animal and Plant Health Inspection Service or any individual authorized to act for the Administrator.
 
@@ -16,9 +16,11 @@ For the purposes of this subchapter the following words, phrases, names and term
 
 *Approved digital signature.* Digital signatures approved by the Administrator for electronic transmission, for example, via a computer. To be approved, a digital signature must be able to verify the identity of the accredited veterinarian signing the document and indicate if the integrity of the data in the signed document was compromised.
 
-*Category I animals.* Any animals other than Category II animals, e.g., cats and dogs.
+*Authorization.* The action of the Administrator approving an accredited veterinarian in accordance with the provisions of part 161 of this subchapter to perform functions specified in subchapters B, C, D, and G of this chapter, in a State or States other than the State in which the veterinarian was initially accredited.
 
-*Category II animals.* Food and fiber animal species; horses; birds; farm-raised aquatic animals; all other livestock species; and zoo animals that can transmit exotic animal diseases to livestock.
+*Category I animals.* All animals except: Food and fiber species, horses, birds, farm-raised aquatic animals, all other livestock species, and zoo animals that can transmit exotic animal diseases to livestock.
+
+*Category II animals.* All animals.
 
 *Examine, examination.* Physical study of an individual animal that enables an accredited veterinarian to determine if any abnormality in physical condition or bodily function is suggestive of clinical signs of communicable disease.
 
@@ -28,7 +30,7 @@ For the purposes of this subchapter the following words, phrases, names and term
 
 *Issue.* The distribution, including electronic transmission, of an official animal health document that has been signed.
 
-*Official certificate, form, record, report, tag, band, or other identification.* Means any certificate, form, record, report, tag, band, or other identification, prescribed by statute or by regulations issued by the Administrator, for use by an accredited veterinarian performing official functions under this subchapter.
+*Official certificate, document, seal, form, record, report, tag, band, or other identification.* Any certificate, document, seal, form, record, report, tag, band, or other identification, prescribed by statute or regulations, or prescribed by a State form approved by the Administrator, for use by an accredited veterinarian performing official functions under this subchapter.
 
 *Qualified accredited veterinarian (QAV).* An accredited veterinarian who has been granted a program certification by the Administrator pursuant to § 161.5 of this subchapter based on completion of an APHIS-approved orientation or training program.
 
@@ -44,6 +46,6 @@ For the purposes of this subchapter the following words, phrases, names and term
 
 *State Animal Health Official.* The State animal health official who is responsible for the livestock and poultry disease control and eradication programs of a State.
 
-*Veterinarian-in-Charge.* The veterinary official of APHIS who is assigned by the Administrator to supervise and perform the official work of APHIS in a State or group of States.
+*Veterinary Official.* The APHIS veterinarian who is assigned by the Administrator to supervise and perform the official work of APHIS in a State or group of States.
 
-[57 FR 54912, Nov. 23, 1992, as amended at 59 FR 40797, Aug. 10, 1994; 60 FR 39842, Aug. 4, 1995; 62 FR 25445, May 9, 1997; 73 FR 60488, Oct. 10, 2008; 74 FR 65010, Dec. 9, 2009]
+[57 FR 54912, Nov. 23, 1992, as amended at 59 FR 40797, Aug. 10, 1994; 60 FR 39842, Aug. 4, 1995; 62 FR 25445, May 9, 1997; 73 FR 60488, Oct. 10, 2008; 74 FR 65010, Dec. 9, 2009; 85 FR 10564, Feb. 25, 2020]

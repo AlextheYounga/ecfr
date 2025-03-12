@@ -36,7 +36,11 @@
 
 (2) *Definitions.* For purposes of this paragraph, the following definitions apply:
 
-(i) *Eligible retained income.* The eligible retained income of a Covered IHC is its net income for the four calendar quarters preceding the current calendar quarter, based on the Covered IHC's FR Y-9C, or other applicable regulatory report as determined by the Board, net of any distributions and associated tax effects not already reflected in net income. Net income, as reported in the FR Y-9C, reflects discretionary bonus payments and certain distributions that are expense items (and their associated tax effects).
+(i) *Eligible retained income.* The eligible retained income of a Covered IHC is the greater of:
+
+(A) The Covered IHC's net income, calculated in accordance with the instructions to the FR Y-9C, for the four calendar quarters preceding the current calendar quarter, net of any distributions and associated tax effects not already reflected in net income; and
+
+(B) The average of the Covered IHC's net income, calculated in accordance with the instructions to the FR Y-9C, for the four calendar quarters preceding the current calendar quarter.
 
 (ii) *Maximum Covered IHC TLAC payout ratio.* The maximum Covered IHC TLAC payout ratio is the percentage of eligible retained income that a Covered IHC can pay out in the form of distributions and discretionary bonus payments during the current calendar quarter. The maximum Covered IHC TLAC payout ratio is based on the Covered IHC's Covered IHC TLAC buffer level, calculated as of the last day of the previous calendar quarter, as set forth in Table 1 to § 252.165.
 
@@ -81,3 +85,5 @@ Table 1 to § 252.165 - Calculation of Maximum Covered IHC TLAC Payout Amount
 (v)(A) A Covered IHC is subject to the lowest of the maximum payout amounts as determined under 12 CFR 217.11(a)(2) and the maximum Covered IHC TLAC payout amount as determined under this paragraph.
 
 (B) Additional limitations on distributions may apply to a Covered IHC under 12 CFR 225.4, 225.8, and 263.202.
+
+[82 FR 8311, Jan. 24, 2017, as amended at 85 FR 17006, Mar. 26, 2020]

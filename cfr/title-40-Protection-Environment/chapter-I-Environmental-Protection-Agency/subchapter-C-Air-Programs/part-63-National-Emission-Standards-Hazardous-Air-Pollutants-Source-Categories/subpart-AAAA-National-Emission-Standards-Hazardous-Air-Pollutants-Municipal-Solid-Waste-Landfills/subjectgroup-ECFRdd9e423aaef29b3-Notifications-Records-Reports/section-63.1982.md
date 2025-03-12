@@ -1,0 +1,17 @@
+##### § 63.1982 What records and reports must I submit and keep for bioreactors or liquids addition other than leachate? #####
+
+Submit reports as specified in this section and § 63.1981. Keep records as specified in this section and § 63.1983.
+
+(a) For bioreactors at new affected sources you must submit the initial semi-annual compliance report and performance test results described in § 63.1981(h) within 180 days after the date you are required to begin operating the gas collection and control system by § 63.1947(a)(2).
+
+(b) If you must submit a semi-annual compliance report for a bioreactor as well as a semi-annual compliance report for a conventional portion of the same landfill, you may delay submittal of a subsequent semi-annual compliance report for the bioreactor according to paragraphs (b)(1) through (3) of this section so that the reports may be submitted on the same schedule.
+
+(1) After submittal of your initial semi-annual compliance report and performance test results for the bioreactor, you may delay submittal of the subsequent semi-annual compliance report for the bioreactor until the date the initial or subsequent semi-annual compliance report is due for the conventional portion of your landfill.
+
+(2) You may delay submittal of your subsequent semi-annual compliance report by no more than 12 months after the due date for submitting the initial semi-annual compliance report and performance test results described in § 63.1981(h) for the bioreactor. The report must cover the time period since the previous semi-annual report for the bioreactor, which would be a period of at least 6 months and no more than 12 months.
+
+(3) After the delayed semi-annual report, all subsequent semi-annual reports for the bioreactor must be submitted every 6 months on the same date the semi-annual report for the conventional portion of the landfill is due.
+
+(c) If you add any liquids other than leachate in a controlled fashion to the waste mass and do not comply with the bioreactor requirements in §§ 63.1947, 63.1955(b), and paragraphs (a) and (b) of this section, you must keep a record of calculations showing that the percent moisture by weight expected in the waste mass to which liquid is added is less than 40 percent. The calculation must consider the waste mass, moisture content of the incoming waste, mass of water added to the waste including leachate recirculation and other liquids addition and precipitation, and the mass of water removed through leachate or other water losses. Moisture level sampling or mass balances calculations can be used. You must document the calculations and the basis of any assumptions. Keep the record of the calculations until you cease liquids addition.
+
+(d) If you calculate moisture content to establish the date your bioreactor is required to begin operating the collection and control system under § 63.1947(a)(2) or (c)(2), keep a record of the calculations including the information specified in paragraph (e) of this section for 5 years. Within 90 days after the bioreactor achieves 40-percent moisture content, report the results of the calculation, the date the bioreactor achieved 40-percent moisture content by weight, and the date you plan to begin collection and control system operation to the Administrator. Beginning no later than September 27, 2021, the reports should be submitted following the procedure specified in § 63.1981(l)(2).

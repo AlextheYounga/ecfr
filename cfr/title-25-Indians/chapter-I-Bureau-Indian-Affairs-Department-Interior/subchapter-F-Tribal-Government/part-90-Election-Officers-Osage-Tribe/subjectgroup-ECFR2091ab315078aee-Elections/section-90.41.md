@@ -12,7 +12,7 @@ Absentee Ballotelection of officers of the osage tribejune \_, 19\_\_
 
 (e) The absentee voter shall enclose the inner envelope in the outer envelope and after sealing same shall execute the certificate imprinted thereon which certificate shall be in the following form:
 
-I will be unable to appear at the poll in Pawhuska, Oklahoma, on the \_\_\_\_\_ day of June 19\_\_ and have enclosed my ballot for the election of officers of the Osage Tribe.1
+I will be unable to appear at the poll in Pawhuska, Oklahoma, on the \_\_\_\_\_ day of June 19\_\_ and have enclosed my ballot for the election of officers of the Osage Tribe.1/\>
 
 1 Criminal penalties are provided by statute for knowingly filing false information in such statements (18 U.S.C. 1001).
 
