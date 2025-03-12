@@ -1,7 +1,5 @@
 ##### § 0.291 Authority delegated. #####
 
-Link to an amendment published at 82 FR 25771, June 2, 2017.
-
 The Chief, Wireline Competition Bureau, is hereby delegated authority to perform all functions of the Bureau, described in § 0.91, subject to the following exceptions and limitations.
 
 (a) *Authority concerning applications.* (1) The Chief, Wireline Competition Bureau shall not have authority to act on any formal or informal common carrier applications or section 214 applications for common carrier services which are in hearing status.
@@ -20,9 +18,7 @@ The Chief, Wireline Competition Bureau, is hereby delegated authority to perform
 
 (g) The Chief, Wireline Competition Bureau, is delegated authority to enter into agreements with the National Institute of Standards and Technology to perform accreditation of Telecommunication Certification Bodies (TCBs) pursuant to §§ 68.160 and 68.162 of this chapter. In addition, the Chief is delegated authority to develop specific methods that will be used to accredit TCBs, to designate TCBs, to make determinations regarding the continued acceptability of individual TCBs and to develop procedures that TCBs will use for performing post-market surveillance.
 
-(h) *Authority concerning petitions for pricing flexibility.* (1) The Chief, Wireline Competition Bureau, shall have authority to act on petitions filed pursuant to part 69, subpart H, of this chapter for pricing flexibility involving special access and dedicated transport services. This authority is not subject to the limitation set forth in paragraph (a)(2) of this section.
-
-(2) The Chief, Wireline Competition Bureau, shall not have authority to act on petitions filed pursuant to part 69, subpart H, of this chapter for pricing flexibility involving common line and traffic sensitive services.
+(h) [Reserved]
 
 (i) *Authority concerning schools and libraries support mechanism audits.* The Chief, Wireline Competition Bureau, shall have authority to address audit findings relating to the schools and libraries support mechanism. This authority is not subject to the limitation set forth in paragraph (a)(2) of this section.
 

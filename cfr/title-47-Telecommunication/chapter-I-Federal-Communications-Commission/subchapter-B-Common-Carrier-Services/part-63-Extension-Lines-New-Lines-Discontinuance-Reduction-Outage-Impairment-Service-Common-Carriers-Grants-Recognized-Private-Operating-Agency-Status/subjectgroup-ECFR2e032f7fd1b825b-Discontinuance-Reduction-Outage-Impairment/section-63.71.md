@@ -1,7 +1,5 @@
 ##### § 63.71 Procedures for discontinuance, reduction or impairment of service by domestic carriers. #####
 
-Link to an amendment published at 82 FR 25711, June 2, 2017.
-
 Any domestic carrier that seeks to discontinue, reduce or impair service shall be subject to the following procedures:
 
 (a) The carrier shall notify all affected customers of the planned discontinuance, reduction, or impairment of service and shall notify and submit a copy of its application to the public utility commission and to the Governor of the State in which the discontinuance, reduction, or impairment of service is proposed; to any federally-recognized Tribal Nations with authority over the Tribal lands in which the discontinuance, reduction, or impairment of service is proposed; and also to the Secretary of Defense, Attn. Special Assistant for Telecommunications, Pentagon, Washington, DC 20301. Notice shall be in writing to each affected customer unless the Commission authorizes in advance, for good cause shown, another form of notice. For purposes of this section, notice by email constitutes notice in writing. Notice shall include the following:
@@ -52,17 +50,7 @@ Any domestic carrier that seeks to discontinue, reduce or impair service shall b
 
 (5) Any other information the Commission may require.
 
-(d)(1) If an incumbent LEC, as that term is defined in § 51.5 of this chapter, obtains authority to discontinue, reduce, or impair a time-division multiplexing (TDM) service listed in this paragraph (c)(1) and if the incumbent LEC offers an Internet Protocol (IP) service in the same geographic market(s) as the TDM service following the discontinuance, reduction, or impairment of such TDM service, then as a condition on such authority, the incumbent LEC shall provide any requesting telecommunications carrier wholesale access reasonably comparable to the level of wholesale access it previously provided on reasonably comparable rates, terms, and conditions. This condition shall expire when all of the following have occurred:
-
-(i) The Commission identifies a set of rules and/or policies that will ensure rates, terms, and conditions for special access services are just and reasonable;
-
-(ii) The Commission provides notice such rules are effective in the Federal Register; and (iii) Such rules and/or policies become effective.
-
-(2) The requirements of this paragraph apply to:
-
-(i) A special access service that is used as a wholesale input by one or more telecommunications carriers; and
-
-(ii) A service that is used as a wholesale input by one or more telecommunications carriers to provide end users with voice service and that includes last-mile service, local circuit switching, and shared transport.
+(d) [Reserved]
 
 (e) Discontinuance applications and all related attachments to the application filed under this section shall be filed through the “Submit a Non-Docketed Filing” module of the Commission's Electronic Comment Filing System.
 
@@ -80,4 +68,22 @@ Any domestic carrier that seeks to discontinue, reduce or impair service shall b
 
 (j) Procedures for discontinuance, reduction or impairment of international services are in § 63.19.
 
-[64 FR 39939, July 23, 1999, as amended at 71 FR 65751, Nov. 9, 2006; 73 FR 56741, Sept. 30, 2008; 80 FR 1588, Jan. 13, 2015; 80 FR 63373, Oct. 19, 2015; 81 FR 62656, Sept. 12, 2016]Effective Date Note:At 81 FR 62656, Sept. 12, 2016, § 63.71 was amended by revising paragraph (a) introductory text, adding (a)(6) and (7), redesignating (f) as (j), redesignating (b) through (e) as (c) through (f), adding new (b), adding a sentence to the end of newly redesignated (f), and adding (g), (h), and (i). These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+(k) The following requirements are applicable to certain legacy services operating at speeds lower than 1.544 Mbps:
+
+(1) Notwithstanding paragraphs (a)(5)(i) and (ii) of this section, if any carrier, dominant or non-dominant, seeks to:
+
+(i) Grandfather legacy voice or data service operating at speeds lower than 1.544 Mbps; or
+
+(ii) Discontinue, reduce, or impair legacy data service operating at speeds lower than 1.544 Mbps that has been grandfathered for a period of no less than 180 days consistent with the criteria established in paragraph (k)(4) of this section, the notice shall state: The FCC will normally authorize this proposed discontinuance of service (or reduction or impairment) unless it is shown that customers would be unable to receive service or a reasonable substitute from another carrier or that the public convenience and necessity is otherwise adversely affected. If you wish to object, you should file your comments as soon as possible, but no later than 10 days after the Commission releases public notice of the proposed discontinuance. You may file your comments electronically through the FCC's Electronic Comment Filing System using the docket number established in the Commission's public notice for this proceeding, or you may address them to the Federal Communications Commission, Wireline Competition Bureau, Competition Policy Division, Washington, DC 20554, and include in your comments a reference to the § 63.71 Application of (carrier's name). Comments should include specific information about the impact of this proposed discontinuance (or reduction or impairment) upon you or your company, including any inability to acquire reasonable substitute service.
+
+(2) For applications to discontinue, reduce, or impair a legacy data service operating at speeds lower than 1.544 Mbps that has been grandfathered for a period of no less than 180 days, in order to be eligible for automatic grant under paragraph (k)(4) of this section, an applicant must include in its application a statement confirming that it received Commission authority to grandfather the service at issue at least 180 days prior to filing the current application.
+
+(3) An application filed by any carrier seeking to grandfather legacy voice or data service operating at speeds lower than 1.544 Mbps for existing customers shall be automatically granted on the 25th day after its filing with the Commission without any Commission notification to the applicant unless the Commission has notified the applicant that the grant will not be automatically effective.
+
+(4) An application filed by any carrier seeking to discontinue, reduce, or impair a legacy data service operating at speeds lower than 1.544 Mbps that has been grandfathered for 180 days or more preceding the filing of the application, shall be automatically granted on the 31st day after its filing with the Commission without any Commission notification to the applicant, unless the Commission has notified the applicant that the grant will not be automatically effective.
+
+(5) An application seeking to discontinue, reduce, or impair a legacy voice or data service operating at speeds lower than 1.544 Mbps for which the requesting carrier has had no customers and no reasonable requests for service during the 30-day period immediately preceding the filing of the application, shall be automatically granted on the 15th day after its filing with the Commission without any Commission notification to the applicant, unless the Commission has notified the applicant that the grant will not be automatically effective.
+
+[64 FR 39939, July 23, 1999, as amended at 71 FR 65751, Nov. 9, 2006; 73 FR 56741, Sept. 30, 2008; 80 FR 1588, Jan. 13, 2015; 80 FR 63373, Oct. 19, 2015; 81 FR 62656, Sept. 12, 2016; 82 FR 25711, June 2, 2017]Effective Date Notes:1.At 81 FR 62656, Sept. 12, 2016, § 63.71 was amended by revising paragraph (a) introductory text, adding (a)(6) and (7), redesignating (f) as (j), redesignating (b) through (e) as (c) through (f), adding new (b), adding a sentence to the end of newly redesignated (f), and adding (g), (h), and (i). These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+
+2. At 82 FR 61478, Dec. 28, 2017, § 63.71 was amended by adding paragraph (k). This paragraph contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

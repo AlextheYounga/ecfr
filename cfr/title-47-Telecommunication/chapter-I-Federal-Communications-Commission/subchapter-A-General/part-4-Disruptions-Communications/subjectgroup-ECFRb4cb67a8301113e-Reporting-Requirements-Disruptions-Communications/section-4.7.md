@@ -1,7 +1,5 @@
 ##### § 4.7 Definitions of metrics used to determine the general outage-reporting threshold criteria. #####
 
-Link to an amendment published at 82 FR 28408, June 22, 2017.
-
 (a) *Administrative numbers* are defined as the telephone numbers used by communications providers to perform internal administrative or operational functions necessary to maintain reasonable quality of service standards.
 
 (b) *Assigned numbers* are defined as the telephone numbers working in the Public Switched Telephone Network under an agreement such as a contract or tariff at the request of specific end users or customers for their use. This excludes numbers that are not yet working but have a service order pending.
@@ -18,4 +16,4 @@ Link to an amendment published at 82 FR 28408, June 22, 2017.
 
 (f) *Working telephone numbers* are defined to be the sum of all telephone numbers that can originate, or terminate telecommunications. This includes, for example, all working telephone numbers on the customer's side of a PBX, or Centrex, or similar arrangement.
 
-[69 FR 70338, Dec. 3, 2004, as amended at 77 FR 25097, Apr. 27, 2012; 81 FR 45068, July 12, 2016]Effective Date Note:At 81 FR 45068, July 12, 2016, § 4.7(d) and (e)(2) were revised. These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[69 FR 70338, Dec. 3, 2004, as amended at 77 FR 25097, Apr. 27, 2012; 81 FR 45068, July 12, 2016]

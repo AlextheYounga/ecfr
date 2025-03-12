@@ -1,0 +1,7 @@
+##### § 69.809 Low-end adjustment mechanism. #####
+
+(a) Any price cap local exchange carrier or any affiliate of any price cap local exchange carrier that had obtained Phase II pricing flexibility under § 69.709 or § 69.711 for any service in any MSA in its service region, or for the non-MSA portion of any study area in its service region, shall be prohibited from making any low-end adjustment pursuant to § 61.45(d)(1)(vii) of this chapter in all or part of its service region.
+
+(b) Any price cap local exchange carrier or any affiliate of any price cap local exchange carrier that exercises the regulatory relief pursuant to § 69.807 in any part of its service region shall be prohibited from making any low-end adjustment pursuant to § 61.45(d)(1)(vii) of this chapter in all or part of its service region.
+
+(c) Any price cap local exchange carrier or any affiliate of any price cap local exchange carrier that exercises the option to use generally accepted accounting principles rather than the uniform system of accounts pursuant to § 32.11(g) of this chapter shall be prohibited from making any low-end adjustment pursuant to § 61.45(d)(1)(vii) of this chapter in all or part of its service region.

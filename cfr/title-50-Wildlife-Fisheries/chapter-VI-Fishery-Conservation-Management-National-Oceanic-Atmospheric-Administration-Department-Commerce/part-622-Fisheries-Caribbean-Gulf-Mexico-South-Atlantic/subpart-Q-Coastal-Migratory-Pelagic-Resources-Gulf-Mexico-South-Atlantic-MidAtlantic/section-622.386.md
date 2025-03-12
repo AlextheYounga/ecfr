@@ -1,5 +1,7 @@
 ##### § 622.386 Restrictions on sale/purchase. #####
 
+Link to an amendment published at 82 FR 35660, Aug. 1, 2017.
+
 The restrictions in this section are in addition to the restrictions on sale/purchase related to quota closures as specified in § 622.384(e)(3).
 
 (a) *King and Spanish mackerel.* A king or Spanish mackerel harvested or possessed in the EEZ on board a vessel that does not have a valid commercial vessel permit for king mackerel, as required under § 622.370(a)(1), or a valid commercial vessel permit for Spanish mackerel, as required under § 622.370(a)(3), or a king or Spanish mackerel harvested in the EEZ or possessed under the bag limits specified in § 622.382, may not be sold or purchased, except when harvested under the bag limits on board a vessel operating in the Gulf as a charter vessel or headboat and that vessel has both a valid Federal charter vessel/headboat permit for Gulf coastal migratory pelagic fish, as required under § 622.370(b)(1), and a valid commercial vessel permit for king mackerel or Spanish mackerel, as required under § 622.370(a)(1), as appropriate to the species harvested or possessed.

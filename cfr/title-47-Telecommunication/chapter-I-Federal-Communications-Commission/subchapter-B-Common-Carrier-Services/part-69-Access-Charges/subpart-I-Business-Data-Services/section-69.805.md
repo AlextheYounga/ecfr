@@ -1,0 +1,5 @@
+##### § 69.805 Prohibition on certain non-disclosure agreement conditions. #####
+
+(a) In markets deemed non-competitive, buyers and sellers of business data services shall not enter into a tariff, contract-based tariff, or commercial agreement, including but not limited to master service agreement, that contains a non-disclosure agreement as defined in § 69.801(g), that restricts or prohibits disclosure of information to the Commission, or requires a prior request or legal compulsion by the Commission to effect such disclosure.
+
+(b) Confidential information subject to a protective order as defined in § 0.461 of this chapter in effect as of the effective date of a tariff, contract-based tariff, or commercial agreement must be submitted pursuant to the terms of that protective order or otherwise pursuant to the Commission's rules regarding submission of confidential data in §§ 0.457(d) and 0.459.

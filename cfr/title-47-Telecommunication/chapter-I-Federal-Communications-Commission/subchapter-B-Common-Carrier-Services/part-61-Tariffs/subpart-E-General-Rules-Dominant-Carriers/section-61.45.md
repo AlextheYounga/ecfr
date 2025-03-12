@@ -1,7 +1,5 @@
 ##### § 61.45 Adjustments to the PCI for Local Exchange Carriers. #####
 
-Link to an amendment published at 82 FR 25711, June 2, 2017.
-
 (a) Price cap local exchange carriers shall file adjustments to the PCI for each basket as part of the annual price cap tariff filing, and shall maintain updated PCIs to reflect the effect of mid-year exogenous cost changes.
 
 (b)(1)(i) Adjustments to price cap local exchange carrier PCIs, in those carriers' annual access tariff filings, the traffic sensitive basket described in § 61.42(d)(2), the trunking basket described in § 61.42(d)(3), the special access basket described in § 61.42(d)(5) and the Interexchange Basket described in § 61.42(d)(4)(i), shall be made pursuant to the following formula:
@@ -22,7 +20,7 @@ GDP-PI = For annual filings only, the percentage change in the GDP-PI between th
 
 (B) For tariff filing entities with a Target Rate of $0.0095, or for the portion of a filing entity consolidated pursuant to § 61.48(o) that, prior to such consolidation, had a Target Rate of $0.0095, in which the ATS charge has achieved the Target Rate but in which the carrier common line (CCL) charge has not been eliminated, the X-factor for the CMT basket will be 6.5% until the earlier of June 30, 2004, or until CCL charges are eliminated pursuant to paragraph (i)(4) of this section. Thereafter, in any filing entity in which a CCL charge remains after July 1, 2004, the X-factor for the CMT basket will be determined pursuant to paragraph (b)(1)(iii)(A) of this section as if CCL charges were eliminated.
 
-(iv) For the special access basket specified in § 61.42(d)(5), the value of X shall be 3.0% for the 2000 annual filing. The value of X shall be 6.5% for the 2001, 2002 and 2003 annual filings. Starting in the 2004 annual filing, X shall be equal to GDP-PI for the special access basket.
+(iv) For the special access basket specified in § 61.42(d)(5), the value of X shall be 2.0% beginning December 1, 2017, notwithstanding any language in § 61.45(b)(1)(i).
 
 (v) For the interexchange basket specified in § 61.42(d)(4), the value of X shall be 3.0% for all annual filings.
 
@@ -94,4 +92,4 @@ Where “g” is defined in § 61.45(b)(1)(i).
 
 (iii) The Average Price Cap CMT Revenue per Line month shall then be reduced by the lesser of the amount described in paragraph (i)(4)(i) of this section and the amount described in paragraph (i)(4)(ii) of this section, divided by base period Switched Access End User Common Line Charge lines.
 
-[65 FR 38696, June 21, 2000; 65 FR 57741, Sept. 26, 2000; 76 FR 43214, July 20, 2011]
+[65 FR 38696, June 21, 2000; 65 FR 57741, Sept. 26, 2000; 76 FR 43214, July 20, 2011; 82 FR 25711, June 2, 2017]Effective Date Note:At 82 FR 25711, June 2, 2017, § 61.45 was amended by revising paragraph (b)(2)(iv). This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
