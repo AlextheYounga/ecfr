@@ -1,6 +1,6 @@
 ##### § 922.142 Prohibited or otherwise regulated activities. #####
 
-Link to an amendment published at 87 FR 29636, May 13, 2022.
+Link to an amendment published at 87 FR 29636, May 13, 2022.This amendment was delayed until Sept. 26, 2022, at 87 FR 37728, June 24, 2022.
 
 (a) Except as specified in paragraphs (b) through (f) of this section, the following activities are prohibited and thus are unlawful for any person to conduct or to cause to be conducted:
 

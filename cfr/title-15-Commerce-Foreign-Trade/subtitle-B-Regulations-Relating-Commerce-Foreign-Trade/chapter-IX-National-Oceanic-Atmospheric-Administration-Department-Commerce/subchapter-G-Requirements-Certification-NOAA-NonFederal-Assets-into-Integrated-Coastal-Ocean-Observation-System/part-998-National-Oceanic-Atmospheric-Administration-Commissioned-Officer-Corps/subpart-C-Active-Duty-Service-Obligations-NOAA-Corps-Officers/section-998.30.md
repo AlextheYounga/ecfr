@@ -1,0 +1,7 @@
+##### § 998.30 Repayment for failure to satisfy service requirements. #####
+
+(a) An officer who fails to satisfy eligibility requirements or to meet the service requirements prescribed in §§ 998.23, 998.24, 998.25, 998.27(a), and 998.27(b) is required to reimburse the Government in an amount that bears the same ratio of the total costs of the training or education provided to that officer as the unserved portion of active duty bears to the total period of active duty the officer agreed to serve, unless waived by the Secretary under § 998.29(a) or (b). Calculation of the total cost of training subject to repayment includes tuition and matriculation fees, library and laboratory services, purchase or rental of books, materials, and supplies, but does not include travel, lodging, salary, or other allowances otherwise entitled to the individual. The total cost shall be calculated by the NOAA Commissioned Personnel Center and included in any written agreement.
+
+(b) An obligation to reimburse the Government under this Section is, for all purposes, a debt owed to the United States.
+
+(c) A discharge in bankruptcy under title 11 of the U.S. Code that is entered less than 5 years after the termination of a written agreement entered into under this part does not discharge the individual signing the agreement from a debt arising under such agreement.

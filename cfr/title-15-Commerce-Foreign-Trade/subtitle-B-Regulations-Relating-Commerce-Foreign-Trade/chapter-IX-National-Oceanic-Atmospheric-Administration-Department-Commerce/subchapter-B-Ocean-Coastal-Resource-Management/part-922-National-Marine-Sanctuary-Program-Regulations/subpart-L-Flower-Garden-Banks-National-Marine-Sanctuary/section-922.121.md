@@ -1,6 +1,6 @@
 ##### § 922.121 Definitions. #####
 
-Link to an amendment published at 87 FR 29634, May 13, 2022.
+Link to an amendment published at 87 FR 29634, May 13, 2022.This amendment was delayed until Sept. 26, 2022, at 87 FR 37728, June 24, 2022.
 
 As used in this subpart:
 

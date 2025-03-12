@@ -1,5 +1,7 @@
 ##### § 14.629 Requirements for accreditation of service organization representatives; agents; and attorneys. #####
 
+Link to an amendment published at 87 FR 37751, June 24, 2022.
+
 (a) *Service Organization Representatives.* A recognized organization shall file with the Office of the General Counsel VA Form 21 (Application for Accreditation as Service Organization Representative) for each person it desires accredited as a representative of that organization. The form must be signed by the prospective representative and the organization's certifying official. For each of its accredited representatives, a recognized organization's certifying official shall complete, sign and file with the Office of the General Counsel, not later than five years after initial accreditation through that organization or the most recent recertification by that organization, VA Form 21 to certify that the representative continues to meet the criteria for accreditation specified in paragraph (a)(1), (2) and (3) of this section. In recommending a person, the organization shall certify that the designee:
 
 (1) Is of good character and reputation and has demonstrated an ability to represent claimants before the VA;

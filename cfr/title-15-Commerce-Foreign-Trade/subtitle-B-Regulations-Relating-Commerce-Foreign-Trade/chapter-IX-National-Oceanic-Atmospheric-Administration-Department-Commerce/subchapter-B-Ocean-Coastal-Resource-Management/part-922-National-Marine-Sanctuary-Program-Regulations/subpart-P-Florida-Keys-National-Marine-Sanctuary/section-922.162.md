@@ -1,6 +1,6 @@
 ##### § 922.162 Definitions. #####
 
-Link to an amendment published at 87 FR 29637, May 13, 2022.
+Link to an amendment published at 87 FR 29637, May 13, 2022.This amendment was delayed until Sept. 26, 2022, at 87 FR 37728, June 24, 2022.
 
 (a) The following definitions apply to the Florida Keys National Marine Sanctuary regulations. To the extent that a definition appears in § 922.3 and this section, the definition in this section governs.
 

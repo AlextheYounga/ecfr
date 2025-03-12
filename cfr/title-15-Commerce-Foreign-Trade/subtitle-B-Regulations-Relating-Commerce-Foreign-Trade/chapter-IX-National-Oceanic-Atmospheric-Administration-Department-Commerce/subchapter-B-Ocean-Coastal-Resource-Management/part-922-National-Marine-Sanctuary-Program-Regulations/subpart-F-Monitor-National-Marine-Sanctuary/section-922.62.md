@@ -1,6 +1,6 @@
 ##### § 922.62 Permit procedure and criteria. #####
 
-Link to an amendment published at 87 FR 29632, May 13, 2022.
+Link to an amendment published at 87 FR 29632, May 13, 2022.This amendment was delayed until Sept. 26, 2022, at 87 FR 37728, June 24, 2022.
 
 (a) Any person or entity may conduct in the Sanctuary any activity listed in § 922.61 if such activity is either:
 

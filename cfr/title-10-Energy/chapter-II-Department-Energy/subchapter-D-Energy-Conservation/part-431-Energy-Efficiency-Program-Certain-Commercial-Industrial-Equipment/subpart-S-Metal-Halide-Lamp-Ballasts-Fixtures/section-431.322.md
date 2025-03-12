@@ -1,5 +1,7 @@
 ##### § 431.322 Definitions concerning metal halide lamp ballasts and fixtures. #####
 
+Link to an amendment published at 87 FR 37699, June 24, 2022.
+
 *AC control signal* means an alternating current (AC) signal that is supplied to the ballast using additional wiring for the purpose of controlling the ballast and putting the ballast in standby mode.
 
 *Active mode* means the condition in which an energy-using product:
