@@ -1,5 +1,7 @@
 ##### § 10.10 Definitions. #####
 
+Link to an amendment published at 83 FR 8623, February 28, 2018.
+
 (a) *Alert Message.* An Alert Message is a message that is intended to provide the recipient information regarding an emergency, and that meets the requirements for transmission by a Participating Commercial Mobile Service Provider under this part.
 
 (b) *Common Alerting Protocol.* The Common Alerting Protocol (CAP) refers to Organization for the Advancement of Structured Information Standards (OASIS) Standard CAP-V1.1, October 2005 (available at *http://www.oasis-open.org/specs/index.php#capv1.1*), or any subsequent version of CAP adopted by OASIS and implemented by the WEA.

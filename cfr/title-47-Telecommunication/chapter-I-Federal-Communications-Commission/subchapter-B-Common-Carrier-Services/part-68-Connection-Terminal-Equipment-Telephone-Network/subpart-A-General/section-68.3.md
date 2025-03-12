@@ -1,5 +1,7 @@
 ##### § 68.3 Definitions. #####
 
+Link to an amendment published at 83 FR 8632, Feb. 28, 2018.
+
 As used in this part:
 
 *Demarcation point (also point of interconnection).* As used in this part, the point of demarcation and/or interconnection between the communications facilities of a provider of wireline telecommunications, and terminal equipment, protective apparatus or wiring at a subscriber's premises.

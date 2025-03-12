@@ -1,5 +1,7 @@
 ##### § 68.317 Hearing aid compatibility volume control: technical standards. #####
 
+Link to an amendment published at 83 FR 8632, Feb. 28, 2018.
+
 (a) An analog telephone complies with the Commission's volume control requirements if the telephone is equipped with a receive volume control that provides, through the receiver in the handset or headset of the telephone, 12 dB of gain minimum and up to 18 dB of gain maximum, when measured in terms of Receive Objective Loudness Rating (ROLR), as defined in paragraph 4.1.2 of ANSI/EIA-470-A-1987 (Telephone Instruments With Loop Signaling) . The 12 dB of gain minimum must be achieved without significant clipping of the test signal. The telephone also shall comply with the upper and lower limits for ROLR given in table 4.4 of ANSI/EIA-470-A-1987 when the receive volume control is set to its normal unamplified level.
 
 Note to paragraph (a):

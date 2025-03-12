@@ -2,7 +2,7 @@
 
 Words used in the singular form in the rules and regulations in this chapter shall be deemed to import the plural and vice versa, as the context may require. The following terms, as used in the Commodity Exchange Act, or in the rules and regulations in this chapter, shall have the meanings hereby assigned to them, unless the context otherwise requires:
 
-(a) *Agricultural commodity.* This term means:
+*Agricultural commodity.* This term means:
 
 (1) The following commodities specifically enumerated in the definition of a “commodity” found in section 1a of the Act: Wheat, cotton, rice, corn, oats, barley, rye, flaxseed, grain sorghums, mill feeds, butter, eggs, Solanum tuberosum (Irish potatoes), wool, wool tops, fats and oils (including lard, tallow, cottonseed oil, peanut oil, soybean oil and all other fats and oils), cottonseed meal, cottonseed, peanuts, soybeans, soybean meal, livestock, livestock products, and frozen concentrated orange juice, but not onions;
 
@@ -12,7 +12,7 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (4) Commodity-based indexes based wholly or principally on underlying agricultural commodities.
 
-(b) *Associated person.* This term means any natural person who is associated in any of the following capacities with:
+*Associated person.* This term means any natural person who is associated in any of the following capacities with:
 
 (1) A futures commission merchant as a partner, officer, or employee (or any natural person occupying a similar status or performing similar functions), in any capacity which involves (i) The solicitation or acceptance of customers' orders (other than in a clerical capacity) or (ii) the supervision of any person or persons so engaged;
 
@@ -34,9 +34,9 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (ii) The supervision of any person or persons so engaged.
 
-(c) *Board of Trade.* This term means an organized exchange or other trading facility.
+*Board of Trade.* This term means an organized exchange or other trading facility.
 
-(d) *Bona fide hedging transactions and positions for excluded commodities* - (1) *General definition.* Bona fide hedging transactions and positions shall mean any agreement, contract or transaction in an excluded commodity on a designated contract market or swap execution facility that is a trading facility, where such transactions or positions normally represent a substitute for transactions to be made or positions to be taken at a later time in a physical marketing channel, and where they are economically appropriate to the reduction of risks in the conduct and management of a commercial enterprise, and where they arise from:
+*Bona fide hedging transactions and positions for excluded commodities* - (1) *General definition.* Bona fide hedging transactions and positions shall mean any agreement, contract or transaction in an excluded commodity on a designated contract market or swap execution facility that is a trading facility, where such transactions or positions normally represent a substitute for transactions to be made or positions to be taken at a later time in a physical marketing channel, and where they are economically appropriate to the reduction of risks in the conduct and management of a commercial enterprise, and where they arise from:
 
 (i) The potential change in the value of assets which a person owns, produces, manufactures, processes, or merchandises or anticipates owning, producing, manufacturing, processing, or merchandising,
 
@@ -70,9 +70,9 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (3) *Non-Enumerated cases.* A designated contract market or swap execution facility that is a trading facility may recognize, consistent with the purposes of this definition, transactions and positions other than those enumerated in paragraph (2) of this definition as bona fide hedging. Prior to recognizing such non-enumerated transactions and positions, the designated contract market or swap execution facility that is a trading facility shall submit such rules for Commission review under section 5c of the Act and part 40 of this chapter.
 
-(e) *Business day.* This term means any day other than a Sunday or holiday. In all notices required by the Act or by the rules and regulations in this chapter to be given in terms of business days the rule for computing time shall be to exclude the day on which notice is given and include the day on which shall take place the act of which notice is given.
+*Business day.* This term means any day other than a Sunday or holiday. In all notices required by the Act or by the rules and regulations in this chapter to be given in terms of business days the rule for computing time shall be to exclude the day on which notice is given and include the day on which shall take place the act of which notice is given.
 
-(f) *Category of swaps; major swap category.* For purposes of section 1a(33) of the Act, 7 U.S.C. 1a(33), and the definition of *major swap participant* in this section, the terms *major swap category, category of swaps* and any similar terms mean any of the categories of swaps listed below. For the avoidance of doubt, the term *swap* as it is used in this definition has the meaning set forth in section 1a(47) of the Act, 7 U.S.C. 1a(47), and the rules thereunder.
+*Category of swaps; major swap category.* For purposes of section 1a(33) of the Act, 7 U.S.C. 1a(33), and the definition of *major swap participant* in this section, the terms *major swap category, category of swaps* and any similar terms mean any of the categories of swaps listed below. For the avoidance of doubt, the term *swap* as it is used in this definition has the meaning set forth in section 1a(47) of the Act, 7 U.S.C. 1a(47), and the rules thereunder.
 
 (1) *Rate swaps.* Any swap which is primarily based on one or more reference rates, including but not limited to any swap of payments determined by fixed and floating interest rates, currency exchange rates, inflation rates or other monetary rates, any foreign exchange swap, as defined in section 1a(25) of the Act, 7 U.S.C. 1a(25), and any foreign exchange option other than an option to deliver currency.
 
@@ -82,17 +82,17 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (4) *Other commodity swaps.* Any swap that is not included in the rate swap, credit swap or equity swap categories.
 
-(g) *Cleared Swaps Customer.* This term has the meaning provided in § 22.1 of this chapter.
+*Cleared Swaps Customer.* This term has the meaning provided in § 22.1 of this chapter.
 
-(h) *Cleared Swaps Customer Account.* This term has the meaning provided in § 22.1 of this chapter.
+*Cleared Swaps Customer Account.* This term has the meaning provided in § 22.1 of this chapter.
 
-(i) *Cleared Swaps Customer Collateral.* This term has the meaning provided in § 22.1 of this chapter.
+*Cleared Swaps Customer Collateral.* This term has the meaning provided in § 22.1 of this chapter.
 
-(j) *Clearing initial margin.* This term means initial margin posted by a clearing member with a derivatives clearing organization.
+*Clearing initial margin.* This term means initial margin posted by a clearing member with a derivatives clearing organization.
 
-(k) *Clearing member.* This term means any person that has clearing privileges such that it can process, clear and settle trades through a derivatives clearing organization on behalf of itself or others. The derivatives clearing organization need not be organized as a membership organization.
+*Clearing member.* This term means any person that has clearing privileges such that it can process, clear and settle trades through a derivatives clearing organization on behalf of itself or others. The derivatives clearing organization need not be organized as a membership organization.
 
-(l) *Clearing organization or derivatives clearing organization.* This term means a clearinghouse, clearing association, clearing corporation, or similar entity, facility, system, or organization that, with respect to an agreement, contract, or transaction -
+*Clearing organization or derivatives clearing organization.* This term means a clearinghouse, clearing association, clearing corporation, or similar entity, facility, system, or organization that, with respect to an agreement, contract, or transaction -
 
 (1) Enables each party to the agreement, contract, or transaction to substitute, through novation or otherwise, the credit of the derivatives clearing organization for the credit of the parties;
 
@@ -108,13 +108,13 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (iii) Settlement, netting, or novation of obligations resulting from a sale of a commodity in a transaction in the spot market for the commodity.
 
-(m) *Commission.* This term means the Commodity Futures Trading Commission.
+*Commission.* This term means the Commodity Futures Trading Commission.
 
-(n) *Commodity.* This term means and includes wheat, cotton, rice, corn, oats, barley, rye, flaxseed, grain sorghums, millfeeds, butter, eggs, Irish potatoes, wool, wool tops, fats and oils (including lard, tallow, cottonseed oil, peanut oil, soybean oil, and all other fats and oils), cottonseed meal, cottonseed, peanuts, soybeans, soybean meal, livestock, livestock products, and frozen concentrated orange juice, and all other goods and articles, except onions (as provided by the first section of Pub. L. 85-839) and motion picture box office receipts (or any index, measure, value or data related to such receipts), and all services, rights and interests (except motion picture box office receipts, or any index, measure, value or data related to such receipts) in which contracts for future delivery are presently or in the future dealt in.
+*Commodity.* This term means and includes wheat, cotton, rice, corn, oats, barley, rye, flaxseed, grain sorghums, millfeeds, butter, eggs, Irish potatoes, wool, wool tops, fats and oils (including lard, tallow, cottonseed oil, peanut oil, soybean oil, and all other fats and oils), cottonseed meal, cottonseed, peanuts, soybeans, soybean meal, livestock, livestock products, and frozen concentrated orange juice, and all other goods and articles, except onions (as provided by the first section of Pub. L. 85-839) and motion picture box office receipts (or any index, measure, value or data related to such receipts), and all services, rights and interests (except motion picture box office receipts, or any index, measure, value or data related to such receipts) in which contracts for future delivery are presently or in the future dealt in.
 
-(o) *Commodity Exchange Act; the Act.* These terms mean the Commodity Exchange Act, as amended, 7 U.S.C. 1 *et seq.*
+*Commodity Exchange Act; the Act.* These terms mean the Commodity Exchange Act, as amended, 7 U.S.C. 1 *et seq.*
 
-(p) *Commodity interest.* This term means:
+*Commodity interest.* This term means:
 
 (1) Any contract for the purchase or sale of a commodity for future delivery;
 
@@ -124,11 +124,11 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (4) Any swap as defined in the Act, by the Commission, or jointly by the Commission and the Securities and Exchange Commission.
 
-(q) *Commodity option transaction; commodity option.* These terms each mean any transaction or agreement in interstate commerce which is or is held out to be of the character of, or is commonly known to the trade as, an “option,” “privilege,” “indemnity,” “bid,” “offer,” “call,” “put,” “advance guaranty,” or “decline guaranty,” and which is subject to regulation under the Act and the regulations in this chapter.
+*Commodity option transaction; commodity option.* These terms each mean any transaction or agreement in interstate commerce which is or is held out to be of the character of, or is commonly known to the trade as, an “option,” “privilege,” “indemnity,” “bid,” “offer,” “call,” “put,” “advance guaranty,” or “decline guaranty,” and which is subject to regulation under the Act and the regulations in this chapter.
 
-(r) *Commodity pool operator.* This term means any person engaged in a business which is of the nature of a commodity pool, investment trust, syndicate, or similar form of enterprise, and who, in connection therewith, solicits, accepts, or receives from others, funds, securities, or property, either directly or through capital contributions, the sale of stock or other forms of securities, or otherwise, for the purpose of trading in commodity interests, including any commodity for future delivery, security futures product, or swap; any agreement, contract or transaction described in section 2(c)(2)(C)(i) or section 2(c)(2)(D)(i) of the Act; any commodity option authorized under section 4c of the Act; any leverage transaction authorized under section 19 of the Act; or any person who is registered with the Commission as a commodity pool operator, but does not include such persons not within the intent of this definition as the Commission may specify by rule or regulation or by order.
+*Commodity pool operator.* This term means any person engaged in a business which is of the nature of a commodity pool, investment trust, syndicate, or similar form of enterprise, and who, in connection therewith, solicits, accepts, or receives from others, funds, securities, or property, either directly or through capital contributions, the sale of stock or other forms of securities, or otherwise, for the purpose of trading in commodity interests, including any commodity for future delivery, security futures product, or swap; any agreement, contract or transaction described in section 2(c)(2)(C)(i) or section 2(c)(2)(D)(i) of the Act; any commodity option authorized under section 4c of the Act; any leverage transaction authorized under section 19 of the Act; or any person who is registered with the Commission as a commodity pool operator, but does not include such persons not within the intent of this definition as the Commission may specify by rule or regulation or by order.
 
-(s) *Commodity trading advisor.* (1) This term means any person who, for compensation or profit, engages in the business of advising others, either directly or through publications, writings or electronic media, as to the value of or the advisability of trading in any contract of sale of a commodity for future delivery, security futures product, or swap; any agreement, contract or transaction described in section 2(c)(2)(C)(i) or section 2(c)(2)(D)(i) of the Act; any commodity option authorized under section 4c of the Act; any leverage transaction authorized under section 19 of the Act; any person registered with the Commission as a commodity trading advisor; or any person, who, for compensation or profit, and as part of a regular business, issues or promulgates analyses or reports concerning any of the foregoing. The term does not include:
+*Commodity trading advisor.* (1) This term means any person who, for compensation or profit, engages in the business of advising others, either directly or through publications, writings or electronic media, as to the value of or the advisability of trading in any contract of sale of a commodity for future delivery, security futures product, or swap; any agreement, contract or transaction described in section 2(c)(2)(C)(i) or section 2(c)(2)(D)(i) of the Act; any commodity option authorized under section 4c of the Act; any leverage transaction authorized under section 19 of the Act; any person registered with the Commission as a commodity trading advisor; or any person, who, for compensation or profit, and as part of a regular business, issues or promulgates analyses or reports concerning any of the foregoing. The term does not include:
 
 (i) Any bank or trust company or any person acting as an employee thereof;
 
@@ -150,25 +150,25 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (ii) To whom, for compensation or profit, and as part of a regular business, the commodity trading advisor issues or promulgates analyses or reports concerning any of the activities referred to in the definition of commodity trading advisor in this section. The term client includes, without limitation, any subscriber of a commodity trading advisor.
 
-(t) *Confirmation.* When used in reference to a futures commission merchant, introducing broker, or commodity trading advisor, this term means documentation (electronic or otherwise) that memorializes specified terms of a transaction executed on behalf of a customer. When used in reference to a swap dealer or major swap participant, this term has the meaning set forth in § 23.500 of this chapter.
+*Confirmation.* When used in reference to a futures commission merchant, introducing broker, or commodity trading advisor, this term means documentation (electronic or otherwise) that memorializes specified terms of a transaction executed on behalf of a customer. When used in reference to a swap dealer or major swap participant, this term has the meaning set forth in § 23.500 of this chapter.
 
-(u) *Contract market; designated contract market.* These terms mean a board of trade designated by the Commission as a contract market under the Act and in accordance with the provisions of part 38 of this chapter.
+*Contract market; designated contract market.* These terms mean a board of trade designated by the Commission as a contract market under the Act and in accordance with the provisions of part 38 of this chapter.
 
-(v) *Contract of sale.* This term includes sales, purchases, agreements of sale or purchase and agreements to sell or purchase.
+*Contract of sale.* This term includes sales, purchases, agreements of sale or purchase and agreements to sell or purchase.
 
-(w) *Controlled account.* An account shall be deemed to be controlled by a person if such person by power of attorney or otherwise actually directs trading for such account.
+*Controlled account.* An account shall be deemed to be controlled by a person if such person by power of attorney or otherwise actually directs trading for such account.
 
-(x) *Customer.* This term means any person who uses a futures commission merchant, introducing broker, commodity trading advisor, or commodity pool operator as an agent in connection with trading in any commodity interest; *Provided, however,* an owner or holder of a proprietary account as defined in this section shall not be deemed to be a customer within the meaning of section 4d of the Act, the regulations that implement sections 4d and 4f of the Act and § 1.35, and such an owner or holder of such a proprietary account shall otherwise be deemed to be a customer within the meaning of the Act and §§ 1.37 and 1.46 and all other sections of these rules, regulations, and orders which do not implement sections 4d and 4f of the Act.
+*Customer.* This term means any person who uses a futures commission merchant, introducing broker, commodity trading advisor, or commodity pool operator as an agent in connection with trading in any commodity interest; *Provided, however,* an owner or holder of a proprietary account as defined in this section shall not be deemed to be a customer within the meaning of section 4d of the Act, the regulations that implement sections 4d and 4f of the Act and § 1.35, and such an owner or holder of such a proprietary account shall otherwise be deemed to be a customer within the meaning of the Act and §§ 1.37 and 1.46 and all other sections of these rules, regulations, and orders which do not implement sections 4d and 4f of the Act.
 
-(y) *Customer account.* This term references both a Cleared Swaps Customer Account and a Futures Account, as defined in this section.
+*Customer account.* This term references both a Cleared Swaps Customer Account and a Futures Account, as defined in this section.
 
-(z) *Customer funds.* This term means, collectively, Cleared Swaps Customer Collateral and futures customer funds.
+*Customer funds.* This term means, collectively, Cleared Swaps Customer Collateral and futures customer funds.
 
-(aa) *Customer initial margin.* This term means initial margin posted by a customer with a futures commission merchant, or by a non-clearing member futures commission merchant with a clearing member.
+*Customer initial margin.* This term means initial margin posted by a customer with a futures commission merchant, or by a non-clearing member futures commission merchant with a clearing member.
 
-(bb) *Delivery month.* This term means the month of delivery specified in a contract of sale of any commodity for future delivery.
+*Delivery month.* This term means the month of delivery specified in a contract of sale of any commodity for future delivery.
 
-(cc) *Designated self-regulatory organization.* This term means:
+*Designated self-regulatory organization.* This term means:
 
 (1) Self-regulatory organization of which a futures commission merchant, an introducing broker, a leverage transaction merchant, a retail foreign exchange dealer, a swap dealer, or a major swap participant is a member; or
 
@@ -176,15 +176,15 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (3) If a leverage transaction merchant is a member of more than one self-regulatory organization and such leverage transaction merchant is the subject of an approved plan under § 31.28 of this chapter, then a self-regulatory organization delegated the responsibility by such a plan for monitoring and auditing such leverage transaction merchant for compliance with the minimum financial, cover, segregation and sales practice, and related reporting requirements of the self-regulatory organizations of which the leverage transaction merchant is a member, and for receiving the reports necessitated by such minimum financial, cover, segregation and sales practice, and related reporting requirements from such leverage transaction merchant.
 
-(dd) *Electronic signature.* This term means an electronic sounds, symbol, or process attached to or logically associated with a record and executed or adopted by a person with the intent to sign the record.
+*Electronic signature.* This term means an electronic sounds, symbol, or process attached to or logically associated with a record and executed or adopted by a person with the intent to sign the record.
 
-(ee) *Electronic trading facility.* This term means a trading facility that -
+*Electronic trading facility.* This term means a trading facility that -
 
 (1) Operates by means of an electronic or telecommunications network; and
 
 (2) Maintains an automated audit trail of bids, offers, and the matching of orders or the execution of transactions on the facility.
 
-(ff) *Eligible contract participant.* This term has the meaning set forth in section 1a(18) of the Act, except that:
+*Eligible contract participant.* This term has the meaning set forth in section 1a(18) of the Act, except that:
 
 (1) A major swap participant, as defined in section 1a(33) of the Act and in this section, is an eligible contract participant;
 
@@ -226,7 +226,7 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (iii) The commodity pool is formed and operated by a registered commodity pool operator or by a commodity pool operator who is exempt from registration as such pursuant to § 4.13(a)(3) of this chapter.
 
-(gg) *Financial entity; highly leveraged.* (1) For purposes of section 1a(33) of the Act, 7 U.S.C. 1a(33), and the definition of a *major swap participant* in this section, the term *financial entity* means:
+*Financial entity; highly leveraged.* (1) For purposes of section 1a(33) of the Act, 7 U.S.C. 1a(33), and the definition of a *major swap participant* in this section, the term *financial entity* means:
 
 (i) A security-based swap dealer;
 
@@ -242,7 +242,7 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (2) For purposes of section 1a(33) of the Act, 7 U.S.C. 1a(33), and the definition of a major swap participant in this section, the term highly leveraged means the existence of a ratio of an entity's total liabilities to equity in excess of 12 to 1 as measured at the close of business on the last business day of the applicable fiscal quarter. For this purpose, liabilities and equity should each be determined in accordance with U.S. generally accepted accounting principles; provided, however, that a person that is an employee benefit plan, as defined in paragraphs (3) and (32) of section 3 of the Employee Retirement Income Security Act of 1974, 29 U.S.C. 1002, may exclude obligations to pay benefits to plan participants from the calculation of liabilities and substitute the total value of plan assets for equity.
 
-(hh) *Floor broker.* This term means any person:
+*Floor broker.* This term means any person:
 
 (1) Who, in or surrounding any pit, ring, post or other place provided by a contract market for the meeting of persons similarly engaged, shall purchase or sell for any other person -
 
@@ -252,7 +252,7 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (2) Who is registered with the Commission as a floor broker.
 
-(ii) *Floor trader.* This term means any person:
+*Floor trader.* This term means any person:
 
 (1) Who, in or surrounding any pit, ring, post or other place provided by a contract market for the meeting of persons similarly engaged, purchases, or sells solely for such person's own account -
 
@@ -262,11 +262,11 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (2) Who is registered with the Commission as a floor trader.
 
-(jj) *Foreign board of trade.* This term means any board of trade, exchange or market located outside the United States, its territories or possessions, whether incorporated or unincorporated.
+*Foreign board of trade.* This term means any board of trade, exchange or market located outside the United States, its territories or possessions, whether incorporated or unincorporated.
 
-(kk) *Foreign broker.* This term means any person located outside the United States, its territories or possessions who is engaged in soliciting or in accepting orders only from persons located outside the United States, its territories or possessions for the purchase or sale of any commodity interest transaction on or subject to the rules of any designated contract market or swap execution facility and that, in or in connection with such solicitation or acceptance of orders, accepts any money, securities or property (or extends credit in lieu thereof) to margin, guarantee, or secure any trades or contracts that result or may result therefrom.
+*Foreign broker.* This term means any person located outside the United States, its territories or possessions who is engaged in soliciting or in accepting orders only from persons located outside the United States, its territories or possessions for the purchase or sale of any commodity interest transaction on or subject to the rules of any designated contract market or swap execution facility and that, in or in connection with such solicitation or acceptance of orders, accepts any money, securities or property (or extends credit in lieu thereof) to margin, guarantee, or secure any trades or contracts that result or may result therefrom.
 
-(ll) *Foreign futures or foreign options secured amount.* This term means all money, securities and property received by a futures commission merchant from, for, or on behalf of 30.7 customers as defined in § 30.1 of this chapter:
+*Foreign futures or foreign options secured amount.* This term means all money, securities and property received by a futures commission merchant from, for, or on behalf of 30.7 customers as defined in § 30.1 of this chapter:
 
 (1) To margin, guarantee, or secure foreign futures contracts and all money accruing to such 30.7 customers as the result of such contracts;
 
@@ -274,11 +274,11 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (3) All money accruing to such 30.7 customers as the result of trading in foreign futures contracts or foreign options.
 
-(mm) *Future delivery.* This term does not include any sale of a cash commodity for deferred shipment or delivery.
+*Future delivery.* This term does not include any sale of a cash commodity for deferred shipment or delivery.
 
-(nn) *Futures account.* This term means an account that is maintained in accordance with the segregation requirements of sections 4d(a) and 4d(b) of the Act and the rules thereunder.
+*Futures account.* This term means an account that is maintained in accordance with the segregation requirements of sections 4d(a) and 4d(b) of the Act and the rules thereunder.
 
-(oo) *Futures commission merchant.* This term means:
+*Futures commission merchant.* This term means:
 
 (1) Any individual, association, partnership, corporation, or trust -
 
@@ -288,7 +288,7 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (2) Any person that is registered as a futures commission merchant.
 
-(pp) *Futures contracts on certain foreign sovereign debt.* The term *security-based swap* as used in section 3(a)(68) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(68)), as incorporated in section 1a(42) of the Commodity Exchange Act, does not include an agreement, contract, or transaction that is based on or references a qualifying foreign futures contract (as defined in rule 3a12-8 under the Securities Exchange Act of 1934 (17 CFR 240.3a12-8)) on the debt securities of any one or more of the foreign governments enumerated in rule 3a12-8 under the Securities Exchange Act of 1934 (17 CFR 240.3a12-8), provided that such agreement, contract, or transaction satisfies the following conditions:
+*Futures contracts on certain foreign sovereign debt.* The term *security-based swap* as used in section 3(a)(68) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(68)), as incorporated in section 1a(42) of the Commodity Exchange Act, does not include an agreement, contract, or transaction that is based on or references a qualifying foreign futures contract (as defined in rule 3a12-8 under the Securities Exchange Act of 1934 (17 CFR 240.3a12-8)) on the debt securities of any one or more of the foreign governments enumerated in rule 3a12-8 under the Securities Exchange Act of 1934 (17 CFR 240.3a12-8), provided that such agreement, contract, or transaction satisfies the following conditions:
 
 (1) The futures contract that the agreement, contract, or transaction references or upon which the agreement, contract, or transaction is based is a qualifying foreign futures contract that satisfies the conditions of rule 3a12-8 under the Securities Exchange Act of 1934 (17 CFR 240.3a12-8) applicable to qualifying foreign futures contracts;
 
@@ -300,9 +300,9 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (5) The agreement, contract or transaction is not entered into by the issuer of the debt securities upon which the qualifying foreign futures contract is based or referenced (including any security used to determine the cash payment due on settlement of such agreement, contract or transaction), an affiliate (as defined in the Securities Act of 1933 (15 U.S.C. 77 *et seq.*) and the rules and regulations thereunder) of the issuer, or an underwriter of such issuer's debt securities.
 
-(qq) *Futures customer.* This term means any person who uses a futures commission merchant, introducing broker, commodity trading advisor, or commodity pool operator as an agent in connection with trading in any contract for the purchase of sale of a commodity for future delivery or any option on such contract; *Provided, however,* an owner or holder of a proprietary account as defined in this section shall not be deemed to be a futures customer within the meaning of sections 4d(a) and 4d(b) of the Act, the regulations in this chapter that implement sections 4d and 4f of the Act and § 1.35, and such an owner or holder of such a proprietary account shall otherwise be deemed to be a futures customer within the meaning of the Act and §§ 1.37 and 1.46 and all other sections of these rules, regulations, and orders which do not implement sections 4d and 4f of the Act.
+*Futures customer.* This term means any person who uses a futures commission merchant, introducing broker, commodity trading advisor, or commodity pool operator as an agent in connection with trading in any contract for the purchase of sale of a commodity for future delivery or any option on such contract; *Provided, however,* an owner or holder of a proprietary account as defined in this section shall not be deemed to be a futures customer within the meaning of sections 4d(a) and 4d(b) of the Act, the regulations in this chapter that implement sections 4d and 4f of the Act and § 1.35, and such an owner or holder of such a proprietary account shall otherwise be deemed to be a futures customer within the meaning of the Act and §§ 1.37 and 1.46 and all other sections of these rules, regulations, and orders which do not implement sections 4d and 4f of the Act.
 
-(rr) *Futures customer funds.* This term means all money, securities, and property received by a futures commission merchant or by a derivatives clearing organization from, for, or on behalf of, futures customers:
+*Futures customer funds.* This term means all money, securities, and property received by a futures commission merchant or by a derivatives clearing organization from, for, or on behalf of, futures customers:
 
 (1) To margin, guarantee, or secure contracts for future delivery on or subject to the rules of a contract market or derivatives clearing organization, as the case may be, and all money accruing to such futures customers as the result of such contracts; and
 
@@ -318,9 +318,9 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (3) Notwithstanding paragraphs (1) and (2) of this definition, the term “futures customer funds” shall exclude money, securities or property held to margin, guarantee or secure security futures products held in a securities account, and all money accruing as the result of such security futures products.
 
-(ss) *Guarantee agreement.* This term means an agreement of guarantee in the form set forth in part B or C of Form 1-FR, executed by a registered futures commission merchant or retail foreign exchange dealer, as appropriate, and by an introducing broker or applicant for registration as an introducing broker on behalf of an introducing broker or applicant for registration as an introducing broker in satisfaction of the alternative adjusted net capital requirement set forth in § 1.17(a)(1)(iii).
+*Guarantee agreement.* This term means an agreement of guarantee in the form set forth in part B or C of Form 1-FR, executed by a registered futures commission merchant or retail foreign exchange dealer, as appropriate, and by an introducing broker or applicant for registration as an introducing broker on behalf of an introducing broker or applicant for registration as an introducing broker in satisfaction of the alternative adjusted net capital requirement set forth in § 1.17(a)(1)(iii).
 
-(tt) *Hedging or mitigating commercial risk.* For purposes of section 1a(33) of the Act, 7 U.S.C. 1a(33) and the definition of a major swap participant in this section, a swap position is held for the purpose of hedging or mitigating commercial risk when:
+*Hedging or mitigating commercial risk.* For purposes of section 1a(33) of the Act, 7 U.S.C. 1a(33) and the definition of a major swap participant in this section, a swap position is held for the purpose of hedging or mitigating commercial risk when:
 
 (1) Such position:
 
@@ -352,11 +352,11 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (ii) Not held to hedge or mitigate the risk of another swap or security-based swap position, unless that other position itself is held for the purpose of hedging or mitigating commercial risk as defined by this definition or § 240.3a67-4 of this title.
 
-(uu) *Initial margin.* This term means money, securities, or property posted by a party to a futures, option, or swap as performance bond to cover potential future exposures arising from changes in the market value of the position.
+*Initial margin.* This term means money, securities, or property posted by a party to a futures, option, or swap as performance bond to cover potential future exposures arising from changes in the market value of the position.
 
-(vv) *Institutional customer.* This term has the same meaning as “eligible contract participant” as defined in section 1a(18) of the Act.
+*Institutional customer.* This term has the same meaning as “eligible contract participant” as defined in section 1a(18) of the Act.
 
-(ww) *Introducing broker.* This term means:
+*Introducing broker.* This term means:
 
 (1) Any person who, for compensation or profit, whether direct or indirect:
 
@@ -372,13 +372,13 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (iii) Any commodity pool operator which, acting in its capacity as a commodity pool operator, solely operates commodity pools, regardless of whether that commodity pool operator is registered or exempt from registration in such capacity.
 
-(xx) *Leverage contract.* Shall have the same meaning as that set forth in § 31.4(w) of this chapter.
+*Leverage contract.* Shall have the same meaning as that set forth in § 31.4(w) of this chapter.
 
-(yy) *Leverage customer funds.* This term means all money, securities and property received, directly or indirectly by a leverage transaction merchant from, for, or on behalf of leverage customers to margin, guarantee or secure leverage contracts and all money, securities and property accruing to such customers as the result of such contracts, or the customers' leverage equity. In the case of a long leverage transaction, profit or loss accruing to a leverage customer is the difference between the leverage transaction merchant's current bid price for the leverage contract and the ask price of the leverage contract when entered into. In the case of a short leverage transaction, profit or loss accruing to a leverage customer is the difference between the bid price of the leverage contract when entered into and the leverage transaction merchant's current ask price for the leverage contract.
+*Leverage customer funds.* This term means all money, securities and property received, directly or indirectly by a leverage transaction merchant from, for, or on behalf of leverage customers to margin, guarantee or secure leverage contracts and all money, securities and property accruing to such customers as the result of such contracts, or the customers' leverage equity. In the case of a long leverage transaction, profit or loss accruing to a leverage customer is the difference between the leverage transaction merchant's current bid price for the leverage contract and the ask price of the leverage contract when entered into. In the case of a short leverage transaction, profit or loss accruing to a leverage customer is the difference between the bid price of the leverage contract when entered into and the leverage transaction merchant's current ask price for the leverage contract.
 
-(zz) *Leverage transaction merchant.* This term means and includes any individual, association, partnership, corporation, trust or other person that is engaged in the business of offering to enter into, entering into or confirming the execution of leverage contracts, or soliciting or accepting orders for leverage contracts, and who accepts leverage customer funds (or extends credit in lieu thereof) in connection therewith.
+*Leverage transaction merchant.* This term means and includes any individual, association, partnership, corporation, trust or other person that is engaged in the business of offering to enter into, entering into or confirming the execution of leverage contracts, or soliciting or accepting orders for leverage contracts, and who accepts leverage customer funds (or extends credit in lieu thereof) in connection therewith.
 
-(aaa) *Major swap participant* - (1) *In general.* The term *major swap participant* means any person:
+*Major swap participant* - (1) *In general.* The term *major swap participant* means any person:
 
 (i) That is not a swap dealer; and
 
@@ -440,9 +440,9 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (7) *Exclusions.* A person who is registered as a derivatives clearing organization with the Commission pursuant to section 5b of the Act and regulations thereunder, shall not be deemed to be a major swap participant, regardless of whether the criteria in this definition otherwise would cause the person to be a major swap participant.
 
-(bbb) *Margin call.* This term means a request from a futures commission merchant to a customer to post customer initial margin; or a request by a derivatives clearing organization to a clearing member to post clearing initial margin or variation margin.
+*Margin call.* This term means a request from a futures commission merchant to a customer to post customer initial margin; or a request by a derivatives clearing organization to a clearing member to post clearing initial margin or variation margin.
 
-(ccc) *Meaning of “issuers of securities in a narrow-based security index” as used in the definition of “security-based swap” as applied to index credit default swaps.* (1) Notwithstanding paragraph (1) of the definition in this section of *narrow-based security index* as used in the definition of *security-based swap,* and solely for purposes of determining whether a credit default swap is a security-based swap under the definition of “security-based swap” in section 3(a)(68)(A)(ii)(III) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(68)(A)(ii)(III)), as incorporated in section 1a(42) of the Commodity Exchange Act, the term *issuers of securities in a narrow-based security index* means issuers of securities included in an index (including an index referencing loan borrowers or loans of such borrowers) in which:
+*Meaning of “issuers of securities in a narrow-based security index” as used in the definition of “security-based swap” as applied to index credit default swaps.* (1) Notwithstanding paragraph (1) of the definition in this section of *narrow-based security index* as used in the definition of *security-based swap,* and solely for purposes of determining whether a credit default swap is a security-based swap under the definition of “security-based swap” in section 3(a)(68)(A)(ii)(III) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(68)(A)(ii)(III)), as incorporated in section 1a(42) of the Commodity Exchange Act, the term *issuers of securities in a narrow-based security index* means issuers of securities included in an index (including an index referencing loan borrowers or loans of such borrowers) in which:
 
 (i)(A) There are nine or fewer non-affiliated issuers of securities that are reference entities included in the index, provided that an issuer of securities shall not be deemed a reference entity included in the index for purposes of this definition unless:
 
@@ -506,7 +506,7 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (v) For purposes of determining whether one of the criterion in either paragraphs (1)(i)(D)(*1*) through (1)(i)(D)(*4*) of this definition or paragraphs (1)(iv)(D)(*8*)(*i*) and (1)(iv)(D)(*8*)(*ii*) of this definition is met, the term reference entity included in the index includes a single reference entity included in the index or a group of affiliated entities as determined in accordance with paragraph (3)(i) of this definition (with each issuing entity of an asset-backed security as defined in section 3(a)(77) of the Act (15 U.S.C. 78c(a)(77)) being considered a separate entity).
 
-(ddd) *Meaning of “narrow-based security index” used in the definition of “security-based swap” as applied to index credit default swaps.* (1) Notwithstanding paragraph (1) of the definition in this section of narrow-based security index as used in the definition of “security-based swap,” and solely for purposes of determining whether a credit default swap is a security-based swap under the definition of “security-based swap” in section 3(a)(68)(A)(ii)(I) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(68)(A)(ii)(I)), as incorporated in section 1a(42) of the Commodity Exchange Act, the term narrow-based security index means an index in which:
+*Meaning of “narrow-based security index” used in the definition of “security-based swap” as applied to index credit default swaps.* (1) Notwithstanding paragraph (1) of the definition in this section of narrow-based security index as used in the definition of “security-based swap,” and solely for purposes of determining whether a credit default swap is a security-based swap under the definition of “security-based swap” in section 3(a)(68)(A)(ii)(I) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(68)(A)(ii)(I)), as incorporated in section 1a(42) of the Commodity Exchange Act, the term narrow-based security index means an index in which:
 
 (i)(A) The index is composed of nine or fewer securities or securities that are issued by nine or fewer non-affiliated issuers, provided that a security shall not be deemed a component of the index for purposes of this section unless:
 
@@ -568,7 +568,7 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (v) For purposes of determining whether one of the criterion in either paragraphs (1)(i)(D)(*1*) through (1)(i)(D)(*4*) of this definition or paragraphs (1)(iv)(D)*(8)(i)* and (1)(iv)(D)*(8)(ii)* of this definition is met, the term issuer of the security included in the index includes a single issuer of securities included in the index or a group of affiliated entities as determined in accordance with paragraph (3)(i) of this definition (with each issuing entity of an asset-backed security as defined in section 3(a)(77) of the Act (15 U.S.C. 78c(a)(77)) being considered a separate entity).
 
-(eee) *Member.* This term means:
+*Member.* This term means:
 
 (1) An individual, association, partnership, corporation, or trust -
 
@@ -578,7 +578,7 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (2) A participant in an alternative trading system that is designated as a contract market pursuant to section 5f of the Act is deemed a member of the contract market for purposes of transactions in security futures products through the contract market.
 
-(fff) *Narrow-based security index as used in the definition of “security-based swap”* - (1) *In general.* Except as otherwise provided in the definitions in this section for meaning of *issuers of securities in a narrow-based security index* as used in the definition of *security-based swap* as applied to index credit default swaps and meaning of *narrow-based security index* as used in the definition of *security-based swap* as applied to index credit default swaps, for purposes of section 1a(42) of the Commodity Exchange Act, the term *narrow-based security index* has the meaning set forth in section 1a(35) of the Commodity Exchange Act, and the rules, regulations and orders of the Commission thereunder.
+*Narrow-based security index as used in the definition of “security-based swap”* - (1) *In general.* Except as otherwise provided in the definitions in this section for meaning of *issuers of securities in a narrow-based security index* as used in the definition of *security-based swap* as applied to index credit default swaps and meaning of *narrow-based security index* as used in the definition of *security-based swap* as applied to index credit default swaps, for purposes of section 1a(42) of the Commodity Exchange Act, the term *narrow-based security index* has the meaning set forth in section 1a(35) of the Commodity Exchange Act, and the rules, regulations and orders of the Commission thereunder.
 
 (2) *Tolerance period for swaps traded on designated contract markets, swap execution facilities, and foreign boards of trade.* Notwithstanding paragraph (1) of this definition, solely for purposes of swaps traded on or subject to the rules of a designated contract market, swap execution facility, or foreign board of trade, a security index underlying such swaps shall not be considered a narrow-based security index if:
 
@@ -600,15 +600,15 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (ii) Solely with respect to a security-based swap that is traded on a national securities exchange or security-based swap execution facility, an index that becomes a security index that is not a narrow-based security index under paragraph (3) of this definition solely because it was not a narrow-based security index for more than 45 business days over three consecutive calendar months shall be a narrow-based security index for the following three calendar months.
 
-(ggg) *Net deficit.* (1) For futures and commodity option positions, this term means the debit balance which would be obtained by combining the margin balance of any person with the net profit or loss, if any, accruing on the open futures or commodity option positions of such person.
+*Net deficit.* (1) For futures and commodity option positions, this term means the debit balance which would be obtained by combining the margin balance of any person with the net profit or loss, if any, accruing on the open futures or commodity option positions of such person.
 
 (2) For swap positions other than commodity option positions, this term means the debit balance which would be obtained by combining the margin balance of any person with the net profit or loss, if any, accruing on the open swap positions of such person.
 
-(hhh) *Net equity.* (1) For futures and commodity option positions, this term means the credit balance which would be obtained by combining the margin balance of any person with the net profit or loss, if any, accruing on the open futures or commodity option positions of such person.
+*Net equity.* (1) For futures and commodity option positions, this term means the credit balance which would be obtained by combining the margin balance of any person with the net profit or loss, if any, accruing on the open futures or commodity option positions of such person.
 
 (2) For swap positions other than commodity option positions, this term means the credit balance which would be obtained by combining the margin balance of any person with the net profit or loss, if any, accruing on the open swap positions of such person.
 
-(iii) *Open contracts.* This term means:
+*Open contracts.* This term means:
 
 (1) Positions in contracts of purchase or sale of any commodity made by or for any person on or subject to the rules of a board of trade for future delivery during a specified month or delivery period that have neither been fulfilled by delivery nor been offset by other contracts of purchase or sale in the same commodity and delivery month;
 
@@ -616,9 +616,9 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (3) Positions in Cleared Swaps, as § 22.1 of this chapter defines that term, that have not been fulfilled by delivery; not been offset; not expired; and not been terminated.
 
-(jjj) *Order.* This term means an instruction or authorization provided by a customer to a futures commission merchant, introducing broker or commodity trading advisor regarding trading in a commodity interest on behalf of the customer.
+*Order.* This term means an instruction or authorization provided by a customer to a futures commission merchant, introducing broker or commodity trading advisor regarding trading in a commodity interest on behalf of the customer.
 
-(kkk) *Organized exchange.* This term means a trading facility that -
+*Organized exchange.* This term means a trading facility that -
 
 (1) Permits trading -
 
@@ -632,11 +632,11 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (ii) Include disciplinary sanctions other than the exclusion of participants from trading.
 
-(lll) *Person.* This term includes individuals, associations, partnerships, corporations, and trusts.
+*Person.* This term includes individuals, associations, partnerships, corporations, and trusts.
 
-(mmm) *Premium.* This term means the amount agreed upon between the purchaser and seller, or their agents, for the purchase or sale of a commodity option.
+*Premium.* This term means the amount agreed upon between the purchaser and seller, or their agents, for the purchase or sale of a commodity option.
 
-(nnn) *Proprietary account.* This term means a commodity futures, commodity option, or swap trading account carried on the books and records of an individual, a partnership, corporation or other type of association:
+*Proprietary account.* This term means a commodity futures, commodity option, or swap trading account carried on the books and records of an individual, a partnership, corporation or other type of association:
 
 (1) For one of the following persons, or
 
@@ -674,9 +674,9 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (viii) A business affiliate that, directly or indirectly is controlled by or is under common control with, such individual, partnership, corporation or association. *Provided, however,* That an account owned by any shareholder or member of a cooperative association of producers, within the meaning of section 6a of the Act, which association is registered as a futures commission merchant and carries such account on its records, shall be deemed to be an account of a customer and not a proprietary account of such association, unless the shareholder or member is an officer, director or manager of the association.
 
-(ooo) *Prudential regulator.* This term has the meaning given to the term in section 1a(39) of the Commodity Exchange Act and includes the Board of Governors of the Federal Reserve System, the Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the Farm Credit Administration, and the Federal Housing Finance Agency, as applicable to the swap dealer or major swap participant. The term also includes the Federal Deposit Insurance Corporation, with respect to any financial company as defined in section 201 of the Dodd-Frank Wall Street Reform and Consumer Protection Act or any insured depository institution under the Federal Deposit Insurance Act, and with respect to each affiliate of any such company or institution.
+*Prudential regulator.* This term has the meaning given to the term in section 1a(39) of the Commodity Exchange Act and includes the Board of Governors of the Federal Reserve System, the Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the Farm Credit Administration, and the Federal Housing Finance Agency, as applicable to the swap dealer or major swap participant. The term also includes the Federal Deposit Insurance Corporation, with respect to any financial company as defined in section 201 of the Dodd-Frank Wall Street Reform and Consumer Protection Act or any insured depository institution under the Federal Deposit Insurance Act, and with respect to each affiliate of any such company or institution.
 
-(ppp) *Registered entity.* This term means:
+*Registered entity.* This term means:
 
 (1) A board of trade designated as a contract market under section 5 of the Act;
 
@@ -690,21 +690,21 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (6) With respect to a contract that the Commission determines is a significant price discovery contract, any electronic trading facility on which the contract is executed or traded.
 
-(qqq) *Registrant.* This term means: a commodity pool operator; commodity trading advisor; futures commission merchant; introducing broker; leverage transaction merchant; floor broker; floor trader; major swap participant; retail foreign exchange dealer; or swap dealer that is subject to these regulations; or an associated person of any of the foregoing other than an associated person of a swap dealer or major swap participant.
+*Registrant.* This term means: a commodity pool operator; commodity trading advisor; futures commission merchant; introducing broker; leverage transaction merchant; floor broker; floor trader; major swap participant; retail foreign exchange dealer; or swap dealer that is subject to these regulations; or an associated person of any of the foregoing other than an associated person of a swap dealer or major swap participant.
 
-(rrr) *Retail forex customer.* This term means a person, other than an eligible contract participant as defined in section 1a(18) of the Act, acting on its own behalf and trading in any account, agreement, contract or transaction described in section 2(c)(2)(B) or 2(c)(2)(C) of the Act.
+*Retail forex customer.* This term means a person, other than an eligible contract participant as defined in section 1a(18) of the Act, acting on its own behalf and trading in any account, agreement, contract or transaction described in section 2(c)(2)(B) or 2(c)(2)(C) of the Act.
 
-(sss) *Secretary of Agriculture.* This term means the Secretary of Agriculture or any person to whom authority has heretofore lawfully been delegated or to whom authority may hereafter lawfully be delegated to act in his stead.
+*Secretary of Agriculture.* This term means the Secretary of Agriculture or any person to whom authority has heretofore lawfully been delegated or to whom authority may hereafter lawfully be delegated to act in his stead.
 
-(ttt) *Securities account.* This term means an account that is maintained in accordance with the requirements of section 15(c)(3) of the Securities Exchange Act of 1934 and Rule 15c3-3 thereunder.
+*Securities account.* This term means an account that is maintained in accordance with the requirements of section 15(c)(3) of the Securities Exchange Act of 1934 and Rule 15c3-3 thereunder.
 
-(uuu) *Self-regulatory organization.* This term means a contract market (as defined in § 1.3(h)), a swap execution facility (as defined in § 1.3(rrrr)), or a registered futures association under section 17 of the Act.
+*Self-regulatory organization.* This term means a contract market (as defined in § 1.3(h)), a swap execution facility (as defined in § 1.3(rrrr)), or a registered futures association under section 17 of the Act.
 
-(vvv) *Spread margin.* This term means reduced initial margin that takes into account correlations between certain related positions held in a single account.
+*Spread margin.* This term means reduced initial margin that takes into account correlations between certain related positions held in a single account.
 
-(www) *Strike price.* This term means the price, per unit, at which a person may purchase or sell the commodity, swap, or contract of sale of a commodity for future delivery that is the subject of a commodity option: *Provided,* That for purposes of § 1.17, the term strike price means the total price at which a person may purchase or sell the commodity, swap, or contract of sale of a commodity for future delivery that is the subject of a commodity option (*i.e.,* price per unit times the number of units).
+*Strike price.* This term means the price, per unit, at which a person may purchase or sell the commodity, swap, or contract of sale of a commodity for future delivery that is the subject of a commodity option: *Provided,* That for purposes of § 1.17, the term strike price means the total price at which a person may purchase or sell the commodity, swap, or contract of sale of a commodity for future delivery that is the subject of a commodity option (*i.e.,* price per unit times the number of units).
 
-(xxx) \>*Substantial counterparty exposure* - (1) *In general.* For purposes of section 1a(33) of the Act, 7 U.S.C. 1a(33), and the definition in this section of *major swap participant,* the term *substantial counterparty exposure that could have serious adverse effects on the financial stability of the United States banking system or financial markets* means a swap position that satisfies either of the following thresholds:
+\>*Substantial counterparty exposure* - (1) *In general.* For purposes of section 1a(33) of the Act, 7 U.S.C. 1a(33), and the definition in this section of *major swap participant,* the term *substantial counterparty exposure that could have serious adverse effects on the financial stability of the United States banking system or financial markets* means a swap position that satisfies either of the following thresholds:
 
 (i) $5 billion in daily average aggregate uncollateralized outward exposure; or
 
@@ -716,7 +716,7 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (2) *Calculation methodology.* For these purposes, the terms *daily average aggregate uncollateralized outward exposure* and *daily average aggregate potential outward exposure* shall be calculated the same way as is prescribed in the definition in this section of *substantial position,* except that these amounts shall be calculated by reference to all of the person's swap positions, rather than by reference to a specific major swap category.
 
-(yyy) *Substantial position* - (1) *In general.* For purposes of section 1a(33) of the Act, 7 U.S.C. 1a(33), and the definition in this section of *major swap participant,* the term “substantial position” means swap positions that equal or exceed any of the following thresholds in the specified major category of swaps:
+*Substantial position* - (1) *In general.* For purposes of section 1a(33) of the Act, 7 U.S.C. 1a(33), and the definition in this section of *major swap participant,* the term “substantial position” means swap positions that equal or exceed any of the following thresholds in the specified major category of swaps:
 
 (i) For rate swaps:
 
@@ -818,7 +818,7 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (5) *Inter-affiliate activities.* In calculating its aggregate uncollateralized outward exposure and its aggregate potential outward exposure, the person shall not consider its swap positions with counterparties that are majority-owned affiliates. For these purposes the counterparties to a swap are majority-owned affiliates if one counterparty directly or indirectly owns a majority interest in the other, or if a third party directly or indirectly owns a majority interest in both counterparties to the swap, where “majority interest” is the right to vote or direct the vote of a majority of a class of voting securities of an entity, the power to sell or direct the sale of a majority of a class of voting securities of an entity, or the right to receive upon dissolution or the contribution of a majority of the capital of a partnership.
 
-(zzz) *Swap.* (1) *In general.* The term swap has the meaning set forth in section 1a(47) of the Commodity Exchange Act.
+*Swap.* (1) *In general.* The term swap has the meaning set forth in section 1a(47) of the Commodity Exchange Act.
 
 (2) *Inclusion of particular products.* (i) The term swap includes, without limiting the meaning set forth in section 1a(47) of the Commodity Exchange Act, the following agreements, contracts, and transactions:
 
@@ -934,9 +934,9 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (vi) Notwithstanding the foregoing, no agreement, contract, or transaction structured as a security (including a security-based swap) under the securities laws (as defined in section 3(a)(47) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(47))) shall be deemed a swap pursuant to this paragraph (6) or shall be considered for purposes of paragraph (6)(v) of this definition.
 
-(aaaa) *Swap data repository.* This term means any person that collects and maintains information or records with respect to transactions or positions in, or the terms and conditions of, swaps entered into by third parties for the purpose of providing a centralized recordkeeping facility for swaps.
+*Swap data repository.* This term means any person that collects and maintains information or records with respect to transactions or positions in, or the terms and conditions of, swaps entered into by third parties for the purpose of providing a centralized recordkeeping facility for swaps.
 
-(bbbb)*Swap dealer.* (1) *In general.* The term *swap dealer* means any person who:
+*Swap dealer.* (1) *In general.* The term *swap dealer* means any person who:
 
 (i) Holds itself out as a dealer in swaps;
 
@@ -1090,14 +1090,14 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (H) Notwithstanding the fact such person is not registered as a swap dealer, such person complies with §§ 23.201, 23.202, 23.203, and 23.600 of this chapter with respect to each such swap as if it were a swap dealer.
 
-(cccc) *Swap execution facility.* This term means a trading system or platform in which multiple participants have the ability to execute or trade swaps by accepting bids and offers made by multiple participants in the facility or system, through any means of interstate commerce, including any trading facility, that -
+*Swap execution facility.* This term means a trading system or platform in which multiple participants have the ability to execute or trade swaps by accepting bids and offers made by multiple participants in the facility or system, through any means of interstate commerce, including any trading facility, that -
 
 (1) Facilitates the execution of swaps between persons; and
 
 (2) Is not a designated contract market.
 
-(dddd) *Trading facility.* This term has the meaning set forth in section 1a(51) of the Act.
+*Trading facility.* This term has the meaning set forth in section 1a(51) of the Act.
 
-(eeee) *Variation margin.* This term means a payment made by a party to a futures, option, or swap to cover the current exposure arising from changes in the market value of the position since the trade was executed or the previous time the position was marked to market.
+*Variation margin.* This term means a payment made by a party to a futures, option, or swap to cover the current exposure arising from changes in the market value of the position since the trade was executed or the previous time the position was marked to market.
 
 [41 FR 3194, Jan. 21, 1976]Editorial Note:For Federal Register citations affecting § 1.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

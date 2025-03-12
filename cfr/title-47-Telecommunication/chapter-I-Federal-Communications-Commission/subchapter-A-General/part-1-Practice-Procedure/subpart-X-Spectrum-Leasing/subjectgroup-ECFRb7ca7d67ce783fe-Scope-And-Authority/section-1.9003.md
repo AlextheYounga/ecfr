@@ -26,4 +26,4 @@
 
 *Spectrum manager leasing arrangement.* A spectrum leasing arrangement in which a licensee retains both *de jure* control of its license and *de facto* control of the leased spectrum that it leases to a spectrum lessee, pursuant to the spectrum leasing rules set forth in this subpart.
 
-[68 FR 66277, Nov. 25, 2003, as amended at 69 FR 77550, Dec. 27, 2004; 82 FR 22759, May 18, 2017]Effective Date Note:At 69 FR 77550, Dec. 27, 2004, § 1.9003 was amended. The added and revised text contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[68 FR 66277, Nov. 25, 2003, as amended at 69 FR 77550, Dec. 27, 2004; 82 FR 22759, May 18, 2017]Effective Date Note:At 69 FR 77550, Dec. 27, 2004, § 1.9003 was amended by removing, adding, and reviising certain definitions. The amendments contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

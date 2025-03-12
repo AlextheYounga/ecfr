@@ -1,7 +1,5 @@
 ##### § 917.16 Required regulatory program amendments. #####
 
-Link to an amendment published at 83 FR 3958, Jan. 29, 2018.
-
 (a)-(b) [Reserved]
 
 (c) Pursuant to 30 CFR 732.17, Kentucky is required, prior to implementation of the following statutory amendments, to submit to the Director proposed regulations to implement the amendments, and to receive the Director's approval of the regulations:
@@ -20,4 +18,10 @@ Link to an amendment published at 83 FR 3958, Jan. 29, 2018.
 
 (o) [Reserved]
 
-[50 FR 23687, June 5, 1985]Editorial Note:For Federal Register citations affecting § 917.16, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(p) We are requiring Kentucky to take one of the following actions by March 30, 2018:
+
+(1) Notify us how Kentucky will require operators to address financial assurances for the treatment of post-mining discharges, potentially in perpetuity, under its currently approved program, given that we are not approving 405 KAR 10:015 8(7); or
+
+(2) Submit an amendment to its approved program, or a written description of an amendment together with a timetable for enactment that is consistent with established administrative or legislative procedures in Kentucky, that requires operators to provide sufficient financial assurances for the treatment of post-mining discharges for as long as such discharges continue to exist.
+
+[50 FR 23687, June 5, 1985]Editorial Note:For Federal Register citations affecting § 917.16, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -194,4 +194,4 @@
 
 (v) Any other factors associated with the level of service to the public.
 
-[62 FR 9658, Mar. 3, 1997]Editorial Note:For Federal Register citations affecting § 27.14, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Note:At 82 FR 41548, Sept. 1, 2017, § 27.14 was amended by removing paragraphs (e), (q)(7), (r)(6), (s)(6), and (t)(6). These amendments will not be effective until approval has been given by the Office of Management and Budget.
+[62 FR 9658, Mar. 3, 1997]Editorial Note:For Federal Register citations affecting § 27.14, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Note:At 82 FR 41548, Sept. 1, 2017, § 27.14 was amended by removing paragraphs (e), (q)(7), (r)(6), (s)(6), and (t)(6). These paragraphs contain information collection and recordkeeping requirements and the removals will not become effective until approval has been given by the Office of Management and Budget.

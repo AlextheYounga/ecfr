@@ -1,5 +1,7 @@
 ##### § 68.320 Supplier's Declaration of Conformity. #####
 
+Link to an amendment published at 83 FR 8633, Feb. 28, 2018.
+
 (a) Supplier's Declaration of Conformity is a procedure where the responsible party, as defined in § 68.3, makes measurements or takes other necessary steps to ensure that the terminal equipment complies with the appropriate technical standards.
 
 (b) The Supplier's Declaration of Conformity attaches to all items subsequently marketed by the responsible party which are identical, within the variation that can be expected to arise as a result of quantity production techniques, to the sample tested and found acceptable by the responsible party.

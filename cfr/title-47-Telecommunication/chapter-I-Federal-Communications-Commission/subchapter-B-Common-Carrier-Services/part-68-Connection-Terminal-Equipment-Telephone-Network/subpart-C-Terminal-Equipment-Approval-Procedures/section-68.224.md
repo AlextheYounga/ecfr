@@ -1,5 +1,7 @@
 ##### § 68.224 Notice of non-hearing aid compatibility. #####
 
+Link to an amendment published at 83 FR 8632, Feb. 28, 2018.
+
 Every non-hearing aid compatible telephone offered for sale to the public on or after August 17, 1989, whether previously-registered, newly registered or refurbished shall:
 
 (a) Contain in a conspicuous location on the surface of its packaging a statement that the telephone is not hearing aid compatible, as is defined in §§ 68.4(a)(3) and 68.316, or if offered for sale without a surrounding package, shall be affixed with a written statement that the telephone is not hearing aid-compatible, as defined in §§ 68.4(a)(3) and 68.316; and

@@ -6,9 +6,8 @@
 
 (1) The EIRP density of co-polarized signals will not exceed the following values in the plane tangent to the GSO arc, as defined in § 25.103, under clear sky conditions:
 
-|             |       |                     |
-|-------------|-------|---------------------|
 |32.5-25log(θ)|dBW/MHz|  for 2° ≤ θ ≤ 7°.   |
+|:------------|:------|:--------------------|
 |    11.4     |dBW/MHz| for 7° ≤ θ ≤ 9.2°.  |
 |35.5-25log(θ)|dBW/MHz|for 9.2° ≤ θ ≤ 19.1°.|
 |     3.5     |dBW/MHz|for 19.1° ≤ θ ≤ 180°.|
@@ -17,9 +16,8 @@ Where θ is the angle in degrees from a line from the earth station antenna to t
 
 (2) The EIRP density of co-polarized signals will not exceed the following values under clear sky conditions in the plane perpendicular to the GSO arc, as defined in § 25.103:
 
-|             |       |                     |
-|-------------|-------|---------------------|
 |35.5-25log(θ)|dBW/MHz|  for 2° ≤ θ ≤ 7°.   |
+|:------------|:------|:--------------------|
 |    14.4     |dBW/MHz| for 7° ≤ θ ≤ 9.2°.  |
 |38.5-25log(θ)|dBW/MHz|for 9.2° ≤ θ ≤ 19.1°.|
 |     6.5     |dBW/MHz|for 19.1° ≤ θ ≤ 180°.|
@@ -30,9 +28,8 @@ Where θ is as defined in paragraph (b)(1) of this section.
 
 (4) The EIRP density of cross-polarized signals will not exceed the following values in the plane tangent to the GSO arc or in the plane perpendicular to the GSO arc, under clear sky conditions:
 
-|             |       |                |
-|-------------|-------|----------------|
 |22.5-25log(θ)|dBW/MHz|for 2° ≤ θ ≤ 7°.|
+|:------------|:------|:---------------|
 
 Where θ is as defined in paragraph (b)(1) of this section.
 

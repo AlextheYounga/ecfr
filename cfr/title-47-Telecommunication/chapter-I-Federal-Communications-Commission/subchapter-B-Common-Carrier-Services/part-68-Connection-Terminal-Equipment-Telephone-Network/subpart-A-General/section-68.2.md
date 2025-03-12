@@ -1,5 +1,7 @@
 ##### § 68.2 Scope. #####
 
+Link to an amendment published at 83 FR 8632, Feb. 28, 2018.
+
 (a) Except as provided in paragraphs (b) and (c) of this section, the rules and regulations apply to direct connection of all terminal equipment to the public switched telephone network for use in conjunction with all services other than party line services.
 
 (b) *National defense and security.* Where the Secretary of Defense or authorized agent or the head of any other governmental department, agency, or administration (approved in writing by the Commission to act pursuant to this rule) or authorized representative, certifies in writing to the appropriate common carrier that compliance with the provisions of part 68 could result in the disclosure of communications equipment or security devices, locations, uses, personnel, or activity which would adversely affect the national defense and security, such equipment or security devices may be connected to the telephone company provided communications network without compliance with this part, provided that each written certification states that:

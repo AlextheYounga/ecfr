@@ -1,5 +1,7 @@
 ##### § 10.500 General requirements. #####
 
+Link to an amendment published at 83 FR 8623, February 28, 2018.
+
 WEA mobile device functionality is dependent on the capabilities of a Participating CMS Provider's delivery technologies. Mobile devices are required to perform the following functions:
 
 (a) Authentication of interactions with CMS Provider infrastructure.

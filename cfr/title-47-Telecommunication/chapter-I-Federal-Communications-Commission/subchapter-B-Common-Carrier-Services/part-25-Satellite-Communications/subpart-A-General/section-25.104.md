@@ -32,4 +32,4 @@
 
 (f) A satellite earth station antenna that is designed to receive direct broadcast satellite service, including direct-to-home satellite services, that is one meter or less in diameter or is located in Alaska is covered by the regulations in § 1.4000 of this chapter.
 
-[61 FR 10898, Mar. 18, 1996, as amended at 61 FR 46562, Sept. 4, 1996]Effective Date Note:At 61 FR 46562, Sept. 4, 1996, § 25.104 was amended by revising paragraph (b)(1) and adding paragraph (f). These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[61 FR 10898, Mar. 18, 1996, as amended at 61 FR 46562, Sept. 4, 1996]Effective Date Note:At 61 FR 46562, Sept. 4, 1996, § 25.104(b)(1) was revised and (f) was added. These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

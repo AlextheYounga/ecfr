@@ -1,7 +1,5 @@
 ##### § 917.12 State regulatory program and proposed program amendment provisions not approved. #####
 
-Link to an amendment published at 83 FR 3958, Jan. 29, 2018.
-
 (a) The Director does not approve the following provisions of the proposed program amendment concerning permit renewals that Kentucky submitted on April 23, 1998:
 
 (1) The phrase “\* \* \* if a permit has expired or \* \* \*” in KRS 350.060(16).
@@ -18,4 +16,8 @@ Link to an amendment published at 83 FR 3958, Jan. 29, 2018.
 
 (f) The changes to Kentucky's Notice of Assessment of Civil Penalties and Penalty Assessment Conference Officer's Report that specify that prepayment of a proposed assessment or penalty is no longer required are not approved.
 
-[65 FR 29953, May 10, 2000, as amended at 66 FR 33023, June 20, 2001; 67 FR 70009, Nov. 20, 2002; 68 FR 2199, Jan. 16, 2003; 68 FR 42274, July 17, 2003; 71 FR 54589, Sept. 18, 2006]
+(g) We are deferring our decision on the bi-annual actuarial review provision of 350 KRS 350.509 until such time as we are able to evaluate the stability of the Kentucky Reclamation Guaranty Fund (KRGF) over its first three full years of implementation.
+
+(h) We are not approving 405 KAR 10:015 8(7).
+
+[65 FR 29953, May 10, 2000, as amended at 66 FR 33023, June 20, 2001; 67 FR 70009, Nov. 20, 2002; 68 FR 2199, Jan. 16, 2003; 68 FR 42274, July 17, 2003; 71 FR 54589, Sept. 18, 2006; 83 FR 3958, Jan. 29, 2018]

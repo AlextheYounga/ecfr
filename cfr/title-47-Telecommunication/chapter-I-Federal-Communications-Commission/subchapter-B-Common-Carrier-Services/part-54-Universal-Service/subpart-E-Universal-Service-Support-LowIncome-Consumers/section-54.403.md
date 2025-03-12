@@ -22,4 +22,4 @@
 
 (2) [Reserved]
 
-[77 FR 12967, Mar. 2, 2012, as amended at 81 FR 33090, May 24, 2016; 83 FR 2084, Jan. 16, 2018]Effective Date Note:At 83 FR 2084, Jan. 16, 2018, § 54.403 was amended by revising paragraph (a)(3). This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[77 FR 12967, Mar. 2, 2012, as amended at 81 FR 33090, May 24, 2016; 83 FR 2084, Jan. 16, 2018]Effective Date Note:At 83 FR 2084, Jan. 16, 2018, § 54.403(a)(3) was revised. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

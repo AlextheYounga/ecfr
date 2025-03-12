@@ -6,9 +6,8 @@
 
 (i)(A) EIRP spectral density emitted in the plane tangent to the GSO arc, as defined in § 25.103, must not exceed the following values:
 
-|            |         |                      |
-|------------|---------|----------------------|
 |15-25 log10θ|dBW/4 kHz|  for 1.5° ≤ θ ≤ 7°.  |
+|:-----------|:--------|:---------------------|
 |     −6     |dBW/4 kHz| for 7° \< θ ≤ 9.2°.  |
 |18-25 log10θ|dBW/4 kHz|for 9.2° \< θ ≤ 19.1°.|
 |    −14     |dBW/4 kHz|for 19.1° \< θ ≤ 180°.|
@@ -17,18 +16,16 @@ Where theta (θ) is the angle in degrees from a line from the earth station ante
 
 (B) The EIRP spectral density of co-polarized signals must not exceed the following values in the plane perpendicular to the GSO arc, as defined in § 25.103:
 
-|          |         |                      |
-|----------|---------|----------------------|
 |18-25 logθ|dBW/4 kHz|for 3.0° ≤ θ ≤ 19.1°. |
+|:---------|:--------|:---------------------|
 |   −14    |dBW/4 kHz|for 19.1° \< θ ≤ 180°.|
 
 Where θ is as defined in paragraph (a)(1)(i)(A) of this section. These EIRP density levels may be exceeded by up to 6 dB in the region of main reflector spillover energy and in up to 10% of the range of θ angles not included in that region, on each side of the line from the earth station to the target satellite.
 
 (C) The off-axis EIRP spectral-density of cross-polarized signals must not exceed the following values in the plane tangent to the GSO arc or in the plane perpendicular to the GSO arc:
 
-|           |         |                   |
-|-----------|---------|-------------------|
 |5-25 log10θ|dBW/4 kHz|for 1.8° \< θ ≤ 7°.|
+|:----------|:--------|:------------------|
 
 Where θ is as defined in paragraph (a)(1)(i)(A) of this section.
 

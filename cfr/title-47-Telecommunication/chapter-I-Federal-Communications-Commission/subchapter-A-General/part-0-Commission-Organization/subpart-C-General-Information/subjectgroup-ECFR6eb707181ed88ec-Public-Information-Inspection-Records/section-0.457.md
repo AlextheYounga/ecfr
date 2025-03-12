@@ -80,4 +80,4 @@ The content of the communications described in paragraph (d)(1)(vii)(A) of this 
 
 (6) Could reasonably be expected to endanger the life or physical safety of any individual.
 
-[82 FR 4189, Jan. 13, 2017, as amended at 82 FR 55331, Nov. 21, 2017]Effective Date Note:At 82 FR 55331, Nov. 21, 2017, § 0.457 was amended by adding paragraph (d)(1)(xi). This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[82 FR 4189, Jan. 13, 2017, as amended at 82 FR 55331, Nov. 21, 2017]
