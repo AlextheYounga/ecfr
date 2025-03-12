@@ -1,8 +1,6 @@
 ##### § 102.61 Contents of petition for certification; contents of petition for decertification; contents of petition for clarification of bargaining unit; contents of petition for amendment of certification. #####
 
-Link to an amendment published at 84 FR 69588, Dec. 18, 2019.
-
-(a) *RC Petitions.* A petition for certification, when filed by an employee or group of employees or an individual or labor organization acting in their behalf, shall contain the following:
+(a) *RC petitions.* A petition for certification, when filed by an employee or group of employees or an individual or labor organization acting in their behalf, shall contain the following:
 
 (1) The name of the employer.
 
@@ -28,7 +26,7 @@ Link to an amendment published at 84 FR 69588, Dec. 18, 2019.
 
 (12) The type, date(s), time(s) and location(s) of the election sought.
 
-(b) *RM Petitions.* A petition for certification, when filed by an employer, shall contain the following:
+(b) *RM petitions.* A petition for certification, when filed by an employer, shall contain the following:
 
 (1) The name and address of the petitioner, and the name, title, address, telephone number, facsimile number, and email address of the individual who will serve as the representative of the petitioner and accept service of all papers for purposes of the representation proceeding.
 
@@ -44,11 +42,11 @@ Link to an amendment published at 84 FR 69588, Dec. 18, 2019.
 
 (7) Any other relevant facts.
 
-(8) Evidence supporting the statement that a labor organization has made a demand for recognition on the employer or that the employer has good faith uncertainty about majority support for an existing representative. Such evidence shall be filed together with the petition, but if the evidence reveals the names and/or number of employees who no longer wish to be represented, the evidence shall not be served on any party. However, no proof of representation on the part of the labor organization claiming a majority is required and the regional director shall proceed with the case if other factors require it unless the labor organization withdraws its claim to majority representation.
+(8) Evidence supporting the statement that a labor organization has made a demand for recognition on the employer or that the employer has good faith uncertainty about majority support for an existing representative. Such evidence shall be filed together with the petition, but if the evidence reveals the names and/or number of employees who no longer wish to be represented, the evidence shall not be served on any party. However, no proof of representation on the part of the labor organization claiming a majority is required and the Regional Director shall proceed with the case if other factors require it unless the labor organization withdraws its claim to majority representation.
 
 (9) The type, date(s), time(s) and location(s) of the election sought.
 
-(c) *RD Petitions.* Petitions for decertification shall contain the following:
+(c) *RD petitions.* Petitions for decertification shall contain the following:
 
 (1) The name of the employer.
 
@@ -72,7 +70,7 @@ Link to an amendment published at 84 FR 69588, Dec. 18, 2019.
 
 (11) The type, date(s), time(s) and location(s) of the election sought.
 
-(d) *UC Petitions.* A petition for clarification shall contain the following:
+(d) *UC petitions.* A petition for clarification shall contain the following:
 
 (1) The name of the employer and the name of the recognized or certified bargaining representative.
 
@@ -96,7 +94,7 @@ Link to an amendment published at 84 FR 69588, Dec. 18, 2019.
 
 (11) Any other relevant facts.
 
-(e) *AC Petitions.* A petition for amendment of certification shall contain the following:
+(e) *AC petitions.* A petition for amendment of certification shall contain the following:
 
 (1) The name of the employer and the name of the certified union involved.
 
@@ -114,6 +112,6 @@ Link to an amendment published at 84 FR 69588, Dec. 18, 2019.
 
 (8) Any other relevant facts.
 
-(f) *Provision of original signatures.* Evidence filed pursuant to paragraphs (a)(7), (b)(8), or (c)(8) of this section together with a petition that is filed by facsimile or electronically, which includes original signatures that cannot be transmitted in their original form by the method of filing of the petition, may be filed by facsimile or in electronic form provided that the original documents are received by the regional director no later than 2 days after the facsimile or electronic filing.
+(f) *Provision of original signatures.* Evidence filed pursuant to paragraph (a)(7), (b)(8), or (c)(8) of this section together with a petition that is filed by facsimile or electronically, which includes original signatures that cannot be transmitted in their original form by the method of filing of the petition, may be filed by facsimile or in electronic form provided that the original documents are received by the Regional Director no later than 2 business days after the facsimile or electronic filing.
 
-[79 FR 74478, Dec. 15, 2014]
+[84 FR 69588, Dec. 18, 2019]

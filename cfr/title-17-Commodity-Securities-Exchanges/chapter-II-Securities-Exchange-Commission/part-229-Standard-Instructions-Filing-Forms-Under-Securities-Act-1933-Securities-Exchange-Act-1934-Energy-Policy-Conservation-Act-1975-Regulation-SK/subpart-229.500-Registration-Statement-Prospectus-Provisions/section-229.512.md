@@ -2,7 +2,7 @@
 
 Include each of the following undertakings that is applicable to the offering being registered.
 
-(a) *Rule 415 Offering.*1/\> Include the following if the securities are registered pursuant to Rule 415 under the Securities Act (§ 230.415 of this chapter):
+(a) *Rule 415 Offering.*1 Include the following if the securities are registered pursuant to Rule 415 under the Securities Act (§ 230.415 of this chapter):
 
 1 Paragraph (a) reflects proposals made in Securities Act Release No. 6334 (Aug. 6, 1981).
 

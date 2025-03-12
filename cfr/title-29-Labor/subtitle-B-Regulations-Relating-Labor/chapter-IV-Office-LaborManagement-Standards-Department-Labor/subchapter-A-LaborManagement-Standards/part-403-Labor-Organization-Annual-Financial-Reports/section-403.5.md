@@ -1,7 +1,5 @@
 ##### § 403.5 Terminal financial report. #####
 
-Link to an amendment published at 85 FR 13442, Mar. 6, 2020.
-
 (a) Any labor organization required to file a report under the provisions of this part, which during its fiscal year loses its identity as a reporting labor organization through merger, consolidation, or otherwise, shall, within 30 days after such loss, file a terminal financial report with the Office of Labor-Management Standards, on Form LM-2, LM-3, or LM-4, as may be appropriate, signed by the president and treasurer or corresponding principal officers of the labor organization immediately prior to the time of its loss of reporting identity.
 
 (b) Every labor organization which has assumed trusteeship over a subordinate labor organization shall file within 90 days after the termination of such trusteeship on behalf of the subordinate labor organization a terminal financial report with the Office of Labor-Management Standards, on Form LM-2 and in conformance with the requirements of this part.

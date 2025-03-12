@@ -48,7 +48,7 @@ Cooperation by individuals and entities in the Commission's investigations and r
 
 (ii) The type of harm resulting from or threatened by the underlying violations; and
 
-(iii) The number of individuals or entities harmed.1/\>
+(iii) The number of individuals or entities harmed.1
 
 1 Cooperation in Investigations that involve priority matters or serious, ongoing, or widespread violations will be viewed most favorably.
 

@@ -1,5 +1,7 @@
 ##### § 648.51 Gear and crew restrictions. #####
 
+Link to an amendment published at 85 FR 17761, Mar. 31, 2020.
+
 (a) *Trawl vessel gear restrictions.* Trawl vessels issued a limited access scallop permit under § 648.4(a)(2) while fishing under or subject to the DAS allocation program for scallops and authorized to fish with or possess on board trawl nets pursuant to § 648.51(f), any trawl vessels in possession of more than 40 lb (18.14 kg) of shucked, or 5 bu (176.2 L) of in-shell scallops in or from the EEZ, and any trawl vessels fishing for scallops in the EEZ, must comply with the following:
 
 (1) *Maximum sweep.* The trawl sweep of nets shall not exceed 144 ft (43.9 m), as measured by the total length of the footrope that is directly attached to the webbing, unless the net is stowed and not available for immediate use, defined in § 648.2, or unless the vessel is fishing under the Northeast multispecies or monkfish DAS programs.

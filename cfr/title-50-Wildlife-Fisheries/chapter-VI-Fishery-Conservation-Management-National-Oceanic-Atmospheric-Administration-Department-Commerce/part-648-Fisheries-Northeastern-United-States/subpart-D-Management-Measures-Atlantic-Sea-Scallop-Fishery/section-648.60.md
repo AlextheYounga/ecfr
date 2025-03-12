@@ -1,5 +1,7 @@
 ##### § 648.60 Sea Scallop Rotational Areas. #####
 
+Link to an amendment published at 85 FR 17764, Mar. 31, 2020.
+
 (a) *Mid-Atlantic Scallop Rotational Area.* (1) The Mid-Atlantic Scallop Rotational Area is comprised of the following scallop access areas: The Elephant Trunk Scallop Rotational Area, as defined in paragraph (a)(3) of this section; and the Hudson Canyon Scallop Rotational Area, as defined in paragraph (a)(4) of this section.
 
 (2) [Reserved]
