@@ -8,4 +8,6 @@
 
 (2) Prescribes requirements, restrictions, and other safeguards to prevent unauthorized disclosure of classified information and protect special classes of classified information.
 
-(3) Prescribes that contractors will implement the provisions of this rule no later than 6 months from the effective date of this rule.
+(3) Prescribes that contractors will implement the provisions of this part no later than 6 months from February 24, 2021, with the exception of requirements for reporting foreign travel to the Department of Defense prescribed in SEAD 3 and implemented through this rule. Contractors under the security cognizance of the Department of Defense will begin reporting foreign travel to the Department of Defense no later than 18 months from February 24, 2021.
+
+[85 FR 83312, Dec. 21, 2020, as amended at 86 FR 46598, Aug. 19, 2021]

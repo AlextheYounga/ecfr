@@ -1,5 +1,7 @@
 ##### § 748.12 Firearms import certificate or import permit. #####
 
+Link to an amendment published at 86 FR 46594, Aug. 19, 2021.
+
 License applications for certain firearms and related commodities require support documents in accordance with this section. For destinations that are members of the Organization of American States (OAS), an FC Import Certificate or equivalent official document is required in accordance with paragraphs (a) through (d) of this section. For other destinations that require a firearms import or permit, the firearms import certificate or permit is required in accordance with paragraph (e) of this section.
 
 (a) *Requirement to obtain document for OAS member states.* Unless an exception in § 748.9(c) applies, an FC Import Certificate is required for license applications for firearms and related commodities, regardless of value, that are destined for member countries of the OAS. This requirement is consistent with the OAS Model Regulations described in § 742.17 of the EAR.
