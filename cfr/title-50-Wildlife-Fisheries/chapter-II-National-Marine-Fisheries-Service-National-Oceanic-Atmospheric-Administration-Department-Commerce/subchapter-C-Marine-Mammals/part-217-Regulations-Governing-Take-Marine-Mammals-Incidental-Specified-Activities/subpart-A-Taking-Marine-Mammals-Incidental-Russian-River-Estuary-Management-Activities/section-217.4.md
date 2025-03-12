@@ -1,8 +1,8 @@
 ##### § 217.4 Prohibitions. #####
 
-Notwithstanding takings contemplated in § 217.1 and authorized by an LOA issued under §§ 216.106 and 217.7 of this chapter, no person in connection with the activities described in § 217.1 may:
+Except for the takings contemplated in § 217.3 and authorized by an LOA issued under §§ 216.106 of this chapter and 217.7, it is unlawful for any person to do any of the following in connection with the activities described in § 217.1 of this chapter:
 
-(a) Violate, or fail to comply with, the terms, conditions, and requirements of this subpart or an LOA issued under §§ 216.106 and 217.7 of this chapter;
+(a) Violate, or fail to comply with, the terms, conditions, and requirements of this subpart or an LOA issued under §§ 216.106 of this chapter and 217.7;
 
 (b) Take any marine mammal not specified in such LOAs;
 
