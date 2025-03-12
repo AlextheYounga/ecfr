@@ -1,8 +1,6 @@
 ##### § 680.42 Limitations on use of QS, PQS, IFQ, and IPQ. #####
 
-Link to an amendment published at 82 FR 52014, Nov. 9, 2017.
-
-(a) *QS and IFQ use caps* - (1) *General.* Separate and distinct QS and IFQ use caps apply to all QS and IFQ categories pertaining to a given crab QS fishery with the following provisions:
+(a) *QS and IFQ use caps*—(1) *General.* Separate and distinct QS and IFQ use caps apply to all QS and IFQ categories pertaining to a given crab QS fishery with the following provisions:
 
 (i) A person who receives an initial allocation of QS that exceeds the use cap listed in paragraph (a)(2) of this section may not receive QS by transfer unless and until that person's holdings are reduced to an amount below the use cap.
 
@@ -96,11 +94,11 @@ Link to an amendment published at 82 FR 52014, Nov. 9, 2017.
 
 (i) Is the sole proprietor of an entity that holds PQS; or
 
-(ii) Directly or indirectly owns a 10 percent or greater interest in an entity that holds PQS.
+(ii) Is not a CDQ group and directly or indirectly owns a 10 percent or greater interest in an entity that holds PQS.
 
-(iii) A person that holds PQS is limited to a PQS use cap that is calculated based on the sum of all PQS held by that PQS holder and all PQS held by any affiliate of the PQS holder.
+(iii) A person that is not a CDQ group and holds PQS is limited to a PQS use cap that is calculated based on the sum of all PQS held by that PQS holder and all PQS held by any affiliate of the PQS holder. A CDQ group that holds PQS is limited to a PQS use cap that is calculated based on the sum of all PQS held, individually or collectively, by that CDQ group.
 
-(iv) A person that holds IPQ is limited to an IPQ use cap that is calculated based on the sum of all IPQ held by that IPQ holder and all IPQ held by any affiliate of the IPQ holder.
+(iv) A person that is not a CDQ group and holds IPQ is limited to an IPQ use cap that is calculated based on the sum of all IPQ held by that IPQ holder and all IPQ held by any affiliate of the IPQ holder. A CDQ group that holds IPQ is limited to an IPQ use cap that is calculated based on the sum of all IPQ held, individually or collectively, by that CDQ group.
 
 (4) Before July 1, 2007, IPQ for the BSS, BBR, PIK, SMB, and EAG crab QS fisheries may not be used to process crab derived from PQS based on activities in an ECC, except in the geographic boundaries established in paragraph (b)(4)(iv) of this section, except that, before July 1, 2007:
 
@@ -226,4 +224,4 @@ Link to an amendment published at 82 FR 52014, Nov. 9, 2017.
 
 (ii) A person that directly or indirectly owns a 10 percent or greater interest in an entity that owns a vessel.
 
-[70 FR 10241, Mar. 2, 2005, as amended at 70 FR 33395, June 8, 2005; 70 FR 75421, 75422, Dec. 20, 2005; 71 FR 32865, June 7, 2006; 73 FR 29983, May 23, 2008; 73 FR 35088, June 20, 2008; 74 FR 25457, May 28, 2009; 78 FR 28531, May 15, 2013; 81 FR 4212, Jan. 26, 2016; 81 FR 92702, Dec. 20, 2016]
+[70 FR 10241, Mar. 2, 2005, as amended at 70 FR 33395, June 8, 2005; 70 FR 75421, 75422, Dec. 20, 2005; 71 FR 32865, June 7, 2006; 73 FR 29983, May 23, 2008; 73 FR 35088, June 20, 2008; 74 FR 25457, May 28, 2009; 78 FR 28531, May 15, 2013; 81 FR 4212, Jan. 26, 2016; 81 FR 92702, Dec. 20, 2016; 82 FR 52014, Nov. 9, 2017]

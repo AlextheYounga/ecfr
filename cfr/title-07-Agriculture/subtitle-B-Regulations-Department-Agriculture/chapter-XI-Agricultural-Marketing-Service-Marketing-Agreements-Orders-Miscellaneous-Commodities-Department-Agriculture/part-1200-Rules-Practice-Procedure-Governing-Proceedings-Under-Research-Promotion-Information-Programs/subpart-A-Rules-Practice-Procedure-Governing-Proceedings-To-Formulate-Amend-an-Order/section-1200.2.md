@@ -12,7 +12,7 @@
 
 (e) *Hearing* means that part of the proceeding which involves the submission of evidence.
 
-(f) *Judge* means any administrative law judge appointed pursuant to 5 U.S.C. 3105 and assigned to conduct the hearing.
+(f) *Judge* means any administrative law judge appointed pursuant to 5 U.S.C. 3105 or any presiding official appointed by the Secretary, and assigned to conduct the proceeding.
 
 (g) *Hearing* means that part of the proceeding that involves the submission of evidence.
 
@@ -24,4 +24,4 @@
 
 (k) *Secretary* means the Secretary of Agriculture of the United States, or any officer or employee of the Department to whom authority has heretofore been delegated, or to whom authority may hereafter be delegated, to act for the Secretary.
 
-[67 FR 44350, July 2, 2002]
+[67 FR 44350, July 2, 2002, as amended at 82 FR 58098, Dec. 11, 2017]

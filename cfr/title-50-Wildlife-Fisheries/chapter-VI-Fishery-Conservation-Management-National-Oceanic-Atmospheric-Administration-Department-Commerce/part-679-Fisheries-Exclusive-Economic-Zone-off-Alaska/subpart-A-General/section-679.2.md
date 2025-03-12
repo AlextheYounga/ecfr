@@ -1,7 +1,5 @@
 ##### § 679.2 Definitions. #####
 
-Link to an amendment published at 82 FR 52014, Nov. 9, 2017.
-
 In addition to the definitions in the Magnuson-Stevens Act and in part 600 of this chapter, the terms used in this part have the following meanings:
 
 *ABC reserve* means, for purposes of flathead sole, rock sole, and yellowfin sole in the BSAI, an amount, not to exceed the ABC surplus, that may be reduced for social, economic, or ecological considerations according to § 679.20(b)(1)(iii).
@@ -30,7 +28,7 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 *AFA crab processing facility* means a processing plant, catcher/processor, mothership, floating processor or any other operation that processes any FMP species of BSAI crab, and that is affiliated with an AFA entity that processes pollock harvested by a catcher vessel cooperative operating in the inshore or mothership sectors of the BS pollock fishery.
 
-*AFA entity* means a group of affiliated individuals, corporations, or other business concerns that harvest or process pollock in the BS directed pollock fishery.
+*AFA entity* means a group of affiliated individuals, corporations, or other business concerns, except for a CDQ group, that harvests or processes pollock in the BS directed pollock fishery.
 
 *AFA fee liability* means the amount of money for Bering Sea pollock cost recovery, in U.S. dollars, owed to NMFS by an AFA cooperative or AFA sector as determined by multiplying the appropriate AFA standard ex-vessel value of landed Bering Sea pollock by the appropriate AFA fee percentage.
 
@@ -54,7 +52,7 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 *Affiliates,* for purposes of subparts E and H to this part, means business concerns, organizations, or individuals are affiliates of each other if, directly or indirectly, either one controls or has the power to control the other, or a third party controls or has the power to control both. Indicators of control include, but are not limited to: Interlocking management or ownership; identity of interests among family members; shared facilities and equipment; common use of employees; or a business entity organized following the decertification, suspension, or proposed decertification of an observer provider that has the same or similar management, ownership, or principal employees as the observer provider that was decertified, suspended, or proposed for decertification.
 
-*Affiliation for the purpose of defining AFA and the Rockfish Program* means a relationship between two or more individuals, corporations, or other business concerns in which one concern directly or indirectly owns a 10 percent or greater interest in another, exerts control over another, or has the power to exert control over another; or a third individual, corporation, or other business concern directly or indirectly owns a 10 percent or greater interest in both, exerts control over both, or has the power to exert control over both.
+*Affiliation for the purpose of defining AFA and the Rockfish Program* means a relationship between two or more individuals, corporations, or other business concerns, except CDQ groups, in which one concern directly or indirectly owns a 10 percent or greater interest in another, exerts control over another, or has the power to exert control over another; or a third individual, corporation, or other business concern directly or indirectly owns a 10 percent or greater interest in both, exerts control over both, or has the power to exert control over both.
 
 (1) *What is 10 percent or greater ownership?* For the purpose of determining affiliation, 10 percent or greater ownership is deemed to exist if an individual, corporation, or other business concern directly or indirectly owns 10 percent or greater interest in a second corporation or other business concern.
 

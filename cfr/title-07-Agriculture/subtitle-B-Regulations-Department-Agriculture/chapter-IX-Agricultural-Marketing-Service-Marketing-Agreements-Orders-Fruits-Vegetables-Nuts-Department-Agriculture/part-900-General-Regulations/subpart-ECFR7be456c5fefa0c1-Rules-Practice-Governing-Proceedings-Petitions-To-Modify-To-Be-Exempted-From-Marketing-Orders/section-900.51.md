@@ -1,5 +1,7 @@
 ##### § 900.51 Definitions. #####
 
+Link to an amendment published at 82 FR 58098, Dec. 11, 2017.
+
 As used in this subpart, the terms as defined in the act shall apply with equal force and effect. In addition, unless the context otherwise requires:
 
 (a) The term *act* means Public Act No. 10, 73d Congress, as amended and as reenacted and amended by the Agricultural Marketing Agreement Act of 1937, as amended (7 U.S.C. and Sup. 601);

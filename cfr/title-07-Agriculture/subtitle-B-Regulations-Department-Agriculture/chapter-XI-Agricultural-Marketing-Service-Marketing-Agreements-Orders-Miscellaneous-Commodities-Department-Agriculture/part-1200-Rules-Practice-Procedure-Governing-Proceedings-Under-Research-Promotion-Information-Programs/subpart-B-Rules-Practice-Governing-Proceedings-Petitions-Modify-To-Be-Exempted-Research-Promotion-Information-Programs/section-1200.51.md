@@ -20,7 +20,7 @@ As used in this subpart, the terms as defined in the Act shall apply with equal 
 
 (f) *Hearing clerk* means the Hearing Clerk, U.S. Department of Agriculture, Washington, D.C.
 
-(g) *Judge* means any administrative law judge, appointed pursuant to 5 U.S.C. 3105, and assigned to the proceeding involved.
+(g) *Judge* means any administrative law judge appointed pursuant to 5 U.S.C. 3105 or any presiding official appointed by the Secretary, and assigned to conduct the proceeding.
 
 (h) *Order* means any order or any amendment thereto which may be issued pursuant to the Act. The term order shall include plans issued under the Acts listed in paragraph (a) of this section.
 
@@ -34,4 +34,4 @@ As used in this subpart, the terms as defined in the Act shall apply with equal 
 
 (m) *Secretary* means the Secretary of Agriculture of the United States, or any officer or employee of the Department to whom authority has heretofore been delegated, or to whom authority may hereafter be delegated, to act for the Secretary.
 
-[67 FR 44350, July 2, 2002]
+[67 FR 44350, July 2, 2002, as amended at 82 FR 58098, Dec. 11, 2017]

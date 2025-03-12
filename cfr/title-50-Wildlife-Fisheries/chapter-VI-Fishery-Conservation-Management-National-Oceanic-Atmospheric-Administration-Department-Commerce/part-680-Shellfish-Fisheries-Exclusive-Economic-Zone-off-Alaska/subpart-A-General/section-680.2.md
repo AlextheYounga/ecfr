@@ -1,14 +1,12 @@
 ##### § 680.2 Definitions. #####
 
-Link to an amendment published at 82 FR 52014, Nov. 9, 2017.
-
 In addition to the definitions in the Magnuson-Stevens Act, in 50 CFR part 600, and § 679.2 of this chapter, the terms used in this part have the following meanings:
 
 *Adak community entity* means the non-profit entity incorporated under the laws of the state of Alaska that represents the community of Adak and has a board of directors elected by the residents of Adak.
 
-*Affiliation* means a relationship between two or more entities in which one directly or indirectly owns or controls a 10 percent or greater interest in, or otherwise controls, another, or a third entity directly or indirectly owns or controls a 10 percent or greater interest in, or otherwise controls, both. For the purpose of this definition, the following terms are further defined:
+*Affiliation* means a relationship between two or more entities, except for CDQ groups, in which one directly or indirectly owns or controls a 10 percent or greater interest in, or otherwise controls, another, or a third entity directly or indirectly owns or controls a 10 percent or greater interest in, or otherwise controls, both. For the purpose of this definition, the following terms are further defined:
 
-(1) *Entity.* An entity may be an individual, corporation, association, partnership, joint-stock company, trust, or any other type of legal entity, any receiver, trustee in bankruptcy or similar official or liquidating agent, or any organized group of persons whether incorporated or not, that holds direct or indirect interest in:
+(1) *Entity.* An entity may be an individual, corporation, association, partnership, joint-stock company, trust, or any other type of legal entity, except for a CDQ group, any receiver, trustee in bankruptcy or similar official or liquidating agent, or any organized group of persons whether incorporated or not, that holds direct or indirect interest in:
 
 (i) Quota share (QS), processor quota share (PQS), individual fishing quota (IFQ), or individual processing quota (IPQ); or,
 
@@ -296,4 +294,4 @@ In addition to the definitions in the Magnuson-Stevens Act, in 50 CFR part 600, 
 
 (2) Any corporation, partnership, association, or other entity that is organized under Federal, state, or local laws of the United States or that may legally operate in the United States.
 
-[70 FR 10241, Mar. 2, 2005, as amended at 73 FR 29982, May 23, 2008; 73 FR 35088, June 20, 2008; 73 FR 76189, Dec. 15, 2008; 74 FR 41095, Aug. 14, 2009; 77 FR 6503, Feb. 8, 2012]
+[70 FR 10241, Mar. 2, 2005, as amended at 73 FR 29982, May 23, 2008; 73 FR 35088, June 20, 2008; 73 FR 76189, Dec. 15, 2008; 74 FR 41095, Aug. 14, 2009; 77 FR 6503, Feb. 8, 2012; 82 FR 52014, Nov. 9, 2017]

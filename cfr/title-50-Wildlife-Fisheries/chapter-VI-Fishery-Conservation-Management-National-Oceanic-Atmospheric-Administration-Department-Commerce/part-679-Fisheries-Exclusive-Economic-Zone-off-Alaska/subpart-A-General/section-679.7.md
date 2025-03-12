@@ -1,7 +1,5 @@
 ##### § 679.7 Prohibitions. #####
 
-Link to an amendment published at 82 FR 52014, Nov. 9, 2017.
-
 In addition to the general prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to do any of the following:
 
 (a) *Groundfish of the GOA and BSAI* - (1) *Federal Fisheries Permit (FFP).* (i) Fish for groundfish in the BSAI or GOA with a vessel of the United States that does not have on board a legible copy of a valid FFP issued under § 679.4.
@@ -501,9 +499,9 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (ii) *Overages by fishery cooperative.* An inshore pollock fishery cooperative is prohibited from exceeding its annual allocation of BS pollock TAC.
 
-(6) *Excessive harvesting shares.* It is unlawful for an AFA entity to harvest, through a fishery cooperative or otherwise, an amount of BS pollock that exceeds the 17.5 percent excessive share limit specified under § 679.20(a)(5)(i)(A)(*6*). The owners and operators of the individual vessels comprising the AFA entity that harvests BS pollock will be held jointly and severally liable for exceeding the excessive harvesting share limit.
+(6) *Excessive harvesting shares.* It is unlawful for an AFA entity or a CDQ group to harvest, through a fishery cooperative or otherwise, an amount of BS pollock that exceeds the 17.5 percent excessive share limit specified under § 679.20(a)(5)(i)(A)(*6*). A CDQ group's harvest of BS pollock will be calculated through its proportional ownership of individuals, corporations, or other business concerns that harvest BS pollock. The owners and operators of the individual vessels comprising the AFA entity or CDQ group that harvest BS pollock will be held jointly and severally liable for exceeding the excessive harvesting share limit.
 
-(7) *Excessive processing shares.* It is unlawful for an AFA entity to process an amount of BS pollock that exceeds the 30-percent excessive share limit specified under § 679.20(a)(5)(i)(A)(*7*). The owners and operators of the individual processors comprising the AFA entity that processes BS pollock will be held jointly and severally liable for exceeding the excessive processing share limit.
+(7) *Excessive processing shares.* It is unlawful for an AFA entity or a CDQ group to process an amount of BS pollock that exceeds the 30-percent excessive share limit specified under § 679.20(a)(5)(i)(A)(*7*). The amount of BS pollock processed by a CDQ group will be calculated through its proportional ownership of individuals, corporations, or other business concerns that process BS pollock. The owners and operators of the individual processors comprising the AFA entity or CDQ group that process BS pollock will be held jointly and severally liable for exceeding the excessive processing share limit.
 
 (8) *Salmon PSC* - (i) *Discard of salmon.* For any person, to discard any salmon from a catcher vessel, catcher/processor, mothership, or inshore processor, or transfer or process any salmon under the PSD Program at § 679.26, if the salmon were taken incidental to a directed fishery for pollock in the BS before the number of salmon has been determined by an observer and the collection of scientific data or biological samples from the salmon has been completed.
 
