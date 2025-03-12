@@ -1,12 +1,12 @@
 ##### § 0.460 Requests for inspection of records which are routinely available for public inspection. #####
 
-(a) Section 0.453 specifies those Commission records which are routinely available for public inspection and the places at which those records may be inspected. Subject to the limitations set out in this section, a person who wants to inspect such records need only appear at the Reference Information Center and ask to see the records. Many records also are available on the Commission's Web site, *http://www.fcc.gov* and the Commission's electronic reading room, *http://www.fcc.gov/general/freedom-information-act-electronic-reading-room.* Commission documents are generally published in the FCC Record, and many of these documents or summaries thereof are also published in the Federal Register.
+(a) Section 0.453 specifies those Commission records which are routinely available for public inspection and the places at which those records may be inspected. Subject to the limitations set out in this section, a person who wants to inspect such records must submit a request to the Reference Information Center. Many records also are available on the Commission's website, *https://www.fcc.gov* and the Commission's electronic reading room, *https://www.fcc.gov/general/freedom-information-act-electronic-reading-room.* Commission documents are generally published in the FCC Record, and many of these documents or summaries thereof are also published in the Federal Register.
 
-(b) A person who wishes to inspect the records must appear at the specified location during the office hours of the Commission and must inspect the records at that location. (Procedures governing requests for copies are set out in § 0.465.) However, arrangements may be made in advance, by telephone or by correspondence, to make the records available for inspection on a particular date, and there are many circumstances in which such advance arrangements will save inconvenience. If the request is for a large number of documents, for example, a delay in collecting them is predictable. Current records may be in use by the staff when the request is made. Older records may have been forwarded to another location for storage.
+(b) Arrangements to review records must be made in advance, by telephone or by correspondence, by contacting the Reference Information Center.
 
 (c) The records in question must be reasonably described by the person requesting them to permit their location by staff personnel. The information needed to locate the records will vary, depending on the records requested. Advice concerning the kind of information needed to locate particular records will be furnished in advance upon request. Members of the public will not be given access to the area in which records are kept and will not be permitted to search the files.
 
-(d) If it appears that there will be an appreciable delay in locating or producing the records (as where a large number of documents is the subject of a single request or where an extended search for a document appears to be necessary), the requester may be directed to submit or confirm the request in writing in appropriate circumstances.
+(d) If it appears that there will be an appreciable delay in locating or producing the records (as where a large number of documents is the subject of a single request or where an extended search for a document appears to be necessary), the requester may be directed to submit or confirm the request in writing.
 
 (e)(1) Written requests for records routinely available for public inspection under § 0.453 shall be directed to the Commission's Reference Information Center pursuant to the procedures set forth in § 0.465. Requests shall set out all information known to the person making the request which would be helpful in identifying and locating the document, including the date range of the records sought, if applicable. Upon request by Commission staff, the requester shall provide his or her street address, phone number (if any), and email address (if any). Written requests shall, in addition, specify the maximum search fee the person making the request is prepared to pay (*see* § 0.467).
 
@@ -18,7 +18,7 @@
 
 (h) The records will be produced for inspection at the earliest possible time.
 
-(i) Records shall be inspected within 7 days after notice is given that they have been located and are available for inspection. After that period, they will be returned to storage and additional charges may be imposed for again producing them.
+(i) If the requester is provided access to a physical copy, records shall be inspected within 7 days after notice is given that they have been located and are available for inspection. After that period, they will be returned to storage and additional charges may be imposed for again producing them.
 
 (j) In addition to the other requirements of this section, the following provisions apply to the reports filed with the Commission pursuant to 5 CFR parts 2634 and 3902.
 
@@ -40,4 +40,4 @@
 
 (iii) That such person is aware of the prohibitions on the obtaining or use of the report. Further, any such application for inspection shall be made available to the public throughout the period during which the report itself is made available to the public.
 
-[82 FR 4191, Jan. 13, 2017]
+[88 FR 21432, Apr. 10, 2023]

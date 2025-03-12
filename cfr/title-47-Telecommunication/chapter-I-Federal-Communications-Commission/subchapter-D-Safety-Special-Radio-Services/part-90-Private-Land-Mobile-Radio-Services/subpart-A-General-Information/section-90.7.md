@@ -28,7 +28,7 @@
 
 (iv) American Samoa is licensed as a single MTA-like area.
 
-(2) The MTA map is available for public inspection at the Federal Communications Commission's Reference Information Center, located at the address of the FCC's main office indicated in 47 CFR 0.401(a).
+(2) The MTA map is available for public inspection through the Federal Communications Commission's Reference Information Center.
 
 *Antenna height above average terrain (AAT).* Height of the center of the radiating element of the antenna above the average terrain. (See § 90.309(a)(4) for calculation method.)
 
@@ -82,7 +82,7 @@
 
 *Dispatch point.* Any place from which radio messages can be originated under the supervision of a control point.
 
-*EA-based or EA license.* A license authorizing the right to use a specified block of SMR or LMS spectrum within one of the 175 Economic Areas (EAs) as defined by the Department of Commerce Bureau of Economic Analysis. The EA Listings and the EA Map are available for public inspection at the Federal Communications Commission's Reference Information Center, located at the address of the FCC's main office indicated in 47 CFR 0.401(a).
+*EA-based or EA license.* A license authorizing the right to use a specified block of SMR or LMS spectrum within one of the 175 Economic Areas (EAs) as defined by the Department of Commerce Bureau of Economic Analysis. The EA Listings and the EA Map are available for public inspection through the Federal Communications Commission's Reference Information Center.
 
 *Economic Areas (EAs).* A total of 175 licensing regions based on the United States Department of Commerce Bureau of Economic Analysis Economic Areas defined as of February 1995, with the following exceptions:
 
@@ -180,7 +180,7 @@
 
 (4) The transportation, local distribution or collection of property within a single urban area.
 
-*MTA-based license or MTA license.* A license authorizing the right to use a specified block of SMR spectrum within one of the 51 Major Trading Areas (“MTAs”), as embodied in Rand McNally's Trading Area System MTA Diskette and geographically represented in the map contained in Rand McNally's Commercial Atlas & Marketing Guide (the “MTA Map”). The MTA Listings, the MTA Map and the Rand McNally/AMTA license agreement are available for public inspection at the Reference Information Center in the Consumer and Governmental Affairs Bureau.
+*MTA-based license or MTA license.* A license authorizing the right to use a specified block of SMR spectrum within one of the 51 Major Trading Areas (“MTAs”), as embodied in Rand McNally's Trading Area System MTA Diskette and geographically represented in the map contained in Rand McNally's Commercial Atlas & Marketing Guide (the “MTA Map”). The MTA Listings, the MTA Map and the Rand McNally/AMTA license agreement are available for public inspection through the Reference Information Center.
 
 *Multilateration LMS system.* A system that is designed to locate vehicles or other objects by measuring the difference of time of arrival, or difference in phase, of signals transmitted from a unit to a number of fixed points or from a number of fixed points to the unit to be located.
 

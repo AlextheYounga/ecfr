@@ -1,0 +1,13 @@
+##### § 112.7 Illustrative applications. #####
+
+(a) *Employment.* The discrimination prohibited by § 112.4 includes but is not limited to any action (taken directly or through contractual or other arrangements) which subjects an individual to discrimination on the ground of race, color or national origin in any employment practice, including recruitment or recruitment advertising, employment, layoff or termination, upgrading, demotion, or transfer, rates of pay or other forms of compensation, and use of facilities.
+
+(b) *Financial assistance.* The discrimination prohibited by § 112.5 includes but is not limited to the failure or refusal, because of the race, color, or national origin of a person, to extend a loan or equity financing to him or to any business concern of which he is an owner or employee; or, in the case of financing which has actually been extended, the failure or refusal, because of the race, color, or national origin of the borrower or of an owner or employee of the borrower, to accord the borrower fair treatment and the customary courtesies regarding such matters as default, grace periods and the like.
+
+(c) *Accommodations or services.* The discrimination prohibited by § 112.6 includes but is not limited to the failure or refusal, because of the race, color, or national origin of a person, to accept him on a nonsegregated basis as a patient, student, visitor, guest, member, customer, passenger or patron.
+
+(d) *Affirmative action.* (1) In some situations even though past discriminatory practices have been abandoned, the consequences of such practices continue to impede the full availability of equal opportunity. If the efforts required of the applicant or recipient under § 112.3(b)(3) to provide information as to the availability of equal opportunity, and the rights of individuals under this regulation, have failed to overcome these consequences, it will become necessary for such applicant or recipient to take additional steps to make equal opportunity fully available to racial and nationality groups previously subjected to discrimination.
+
+(2) Even though an applicant or recipient has never used discriminatory policies, the opportunities in the business it operates may not in fact be equally available to some racial or nationality groups. In such circumstances a recipient may properly give special consideration to race, color, or national origin to make opportunity more widely available to such groups.
+
+[30 FR 298, Jan. 9, 1965, as amended at 38 FR 17934, July 5, 1973]

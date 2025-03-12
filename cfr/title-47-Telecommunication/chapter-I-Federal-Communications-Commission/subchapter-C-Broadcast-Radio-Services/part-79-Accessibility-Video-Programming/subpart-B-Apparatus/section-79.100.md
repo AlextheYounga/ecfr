@@ -1,6 +1,6 @@
 ##### § 79.100 Incorporation by reference. #####
 
-(a) The materials listed in this section are incorporated by reference in this part. These incorporations by reference were approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. These materials are incorporated as they exist on the date of the approval, and notice of any change in these materials will be published in the Federal Register. The materials are available for purchase at the corresponding addresses as noted, and all are available for inspection at the Federal Communications Commission's Reference Information Center, located at the address of the FCC's main office indicated in 47 CFR 0.401(a), Tel: (202) 418-0270, and at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call (202) 741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the FCC must publish a document in the Federal Register and the material must be available to the public. All approved incorporation by reference (IBR) material is available for inspection at the FCC and the National Archives and Records Administration (NARA). Contact the FCC through the Federal Communications Commission's Reference Information Center, phone: (202) 418-0270. For information on the availability of this material at NARA, visit *www.archives.gov/federal-register/cfr/ibr-locations.html* or email *fr.inspection@nara.gov.* The material may be obtained from the sources in the following paragraphs of this section.
 
 (b) Global Engineering Documents, 15 Inverness Way East, Englewood, CO 80112, (800) 854-7179, or at *http://global.ihs.com:*
 
@@ -14,4 +14,4 @@
 
 (2) [Reserved]
 
-[77 FR 19518, Mar. 30, 2012, as amended at 85 FR 64409, Oct. 13, 2020]
+[77 FR 19518, Mar. 30, 2012, as amended at 85 FR 64409, Oct. 13, 2020; 88 FR 21449, Apr. 10, 2023]

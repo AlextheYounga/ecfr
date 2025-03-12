@@ -4,6 +4,6 @@
 
 (b) *Updated information.* If a space station licensee or market access recipient point of contact information changes, the space station licensee or market access recipient must file the updated information within 10 days of the change.
 
-(c) *Electronic filing.* Filings under paragraphs (a) or (b) of this section must be made electronically in the Commission's International Bureau Filing System (IBFS) in the “Other Filings” tab of the station's current authorization file.
+(c) *Electronic filing.* Filings under paragraph (a) or (b) of this section must be made electronically in the Commission's International Communications Filing System (ICFS) in the “Other Filings” tab of the station's current authorization file.
 
-[86 FR 11888, Mar. 1, 2021]
+[86 FR 11888, Mar. 1, 2021, as amended at 88 FR 21441, Apr. 10, 2023]

@@ -1,5 +1,7 @@
 ##### § 126.805 What are the procedures for appeals of HUBZone status determinations? #####
 
+Link to an amendment published at 88 FR 21089, Apr. 10, 2023.
+
 (a) *Who may appeal.* The protested HUBZone SBC, the protestor, or the CO may file appeals of protest determinations with the AA/GC&BD, or designee.
 
 (b) *Timeliness of appeal.* The AA/GC&BD, or designee must receive the appeal no later than five business days after the date of receipt of the protest determination. SBA will dismiss any appeal received after the five-day period.

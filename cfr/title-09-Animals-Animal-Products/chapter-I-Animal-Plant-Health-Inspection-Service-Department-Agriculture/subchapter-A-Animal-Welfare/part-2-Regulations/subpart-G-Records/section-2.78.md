@@ -1,7 +1,5 @@
 ##### § 2.78 Health certification and identification. #####
 
-Link to an amendment published at 88 FR 10714, Feb. 21, 2023.
-
 (a) No dealer, exhibitor, operator of an auction sale, broker, or department, agency, or instrumentality of the United States or of any State or local government shall deliver to any intermediate handler or carrier for transportation, in commerce, or shall transport in commerce any dog, cat, or nonhuman primate unless the dog, cat, or nonhuman primate is accompanied by a health certificate executed and issued by a licensed veterinarian. The health certificate shall state that:
 
 (1) The licensed veterinarian inspected the dog, cat, or nonhuman primate on a specified date which shall not be more than 10 days prior to the delivery of the dog, cat, or nonhuman primate for transportation; and
@@ -14,4 +12,4 @@ Link to an amendment published at 88 FR 10714, Feb. 21, 2023.
 
 (d) The U.S. Interstate and International Certificate of Health Examination for Small Animals (APHIS Form 7001) may be used for health certification by a licensed veterinarian as required by this section.
 
-[54 FR 36147, Aug. 31, 1989, as amended at 59 FR 67612, Dec. 30, 1994; 60 FR 13896, Mar. 15, 1995; 63 FR 62927, Nov. 10, 1998; 69 FR 42102, July 14, 2004]
+(Approved by the Office of Management and Budget under control numbers 0579-0036 and 0579-0486)[54 FR 36147, Aug. 31, 1989, as amended at 59 FR 67612, Dec. 30, 1994; 60 FR 13896, Mar. 15, 1995; 63 FR 62927, Nov. 10, 1998; 69 FR 42102, July 14, 2004; 88 FR 10714, Feb. 21, 2023]

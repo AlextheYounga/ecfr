@@ -1,0 +1,3 @@
+##### § 113.4 Assurances required. #####
+
+An application for financial assistance shall, as a condition to its approval and the extension of such assistance, contain or be accompanied by an assurance that the recipient will comply with this part. Such an assurance shall contain provisions authorizing the acceleration of the maturity of the recipient's financial obligations to SBA in the event of a failure to comply, and provisions which give the United States a right to seek judicial enforcement of the terms of the assurance. SBA shall specify the form of the foregoing assurance for each program, and the extent to which like assurances will be required of contractors and subcontractors, transferees, successors in interest, and other participants in the program.

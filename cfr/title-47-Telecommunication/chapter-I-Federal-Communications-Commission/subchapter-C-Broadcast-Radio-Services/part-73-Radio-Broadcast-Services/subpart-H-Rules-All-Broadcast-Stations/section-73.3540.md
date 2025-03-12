@@ -4,9 +4,9 @@
 
 (b) Application should be filed with the FCC at least 45 days prior to the contemplated effective date of assignment or transfer of control.
 
-(c) Application for consent to the assignment of construction permit or license must be filed on FCC Form 314 “Assignment of license” or FCC Form 316 “Short form” (See paragraph (f) of this section). For International Broadcast Stations, the application shall be filed electronically in the International Bureau Filing System (IBFS).
+(c) Application for consent to the assignment of construction permit or license must be filed on FCC Form 314 “Assignment of license” or FCC Form 316 “Short form” (See paragraph (f) of this section). For International Broadcast Stations, the application shall be filed electronically in the International Communications Filing System (ICFS).
 
-(d) Application for consent to the transfer of control of a corporation holding a construction permit or license must be filed on FCC Form 315 “Transfer of Control” or FCC Form 316 “Short form” (see paragraph (f) of this section). For International Broadcast Stations, applications shall be filed electronically in IBFS.
+(d) Application for consent to the transfer of control of a corporation holding a construction permit or license must be filed on FCC Form 315 “Transfer of Control” or FCC Form 316 “Short form” (see paragraph (f) of this section). For International Broadcast Stations, applications shall be filed electronically in ICFS.
 
 (e) Application for consent to the assignment of construction permit or license or to the transfer of control of a corporate licensee or permittee for an FM or TV translator station, a low power TV station and any associated auxiliary station, such as translator microwave relay stations and UHF translator booster stations, only must be filed on FCC Form 345 “Application for Transfer of Control of Corporate Licensee or Permittee, or Assignment of License or Permit for an FM or TV translator Station, or a Low Power TV Station.”
 
@@ -24,4 +24,4 @@
 
 (6) Assignment of less than a controlling interest in a partnership.
 
-[44 FR 38496, July 2, 1979, as amended at 48 FR 21486, May 12, 1983; 49 FR 47843, Dec. 7, 1984; 50 FR 32416, Aug. 12, 1985; 86 FR 54402, Oct. 1, 2021]
+[44 FR 38496, July 2, 1979, as amended at 48 FR 21486, May 12, 1983; 49 FR 47843, Dec. 7, 1984; 50 FR 32416, Aug. 12, 1985; 86 FR 54402, Oct. 1, 2021; 88 FR 21448, Apr. 10, 2023]

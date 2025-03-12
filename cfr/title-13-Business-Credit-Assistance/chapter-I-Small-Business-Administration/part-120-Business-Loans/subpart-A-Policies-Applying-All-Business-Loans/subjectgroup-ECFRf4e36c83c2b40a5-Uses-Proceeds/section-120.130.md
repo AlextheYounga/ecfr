@@ -1,5 +1,7 @@
 ##### § 120.130 Restrictions on uses of proceeds. #####
 
+Link to an amendment published at 88 FR 21085, Apr. 10, 2023.
+
 SBA will not authorize nor may a Borrower use loan proceeds for the following purposes (including the replacement of funds used for any such purpose):
 
 (a) Payments, distributions or loans to Associates of the applicant (except for ordinary compensation for services rendered);

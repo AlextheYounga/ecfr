@@ -16,7 +16,7 @@
 
 (d) When an adjudicatory proceeding is before the Commission for the issuance of a final order or decision, the General Counsel will make every effort to submit a draft order or decision for Commission consideration within four months of the filing of the last responsive pleading. If the Commission is unable to adopt an order or decision in such cases within five months of the last responsive pleading, it shall issue an order indicating that additional time will be required to resolve the case.
 
-(e) The official record of all actions taken by the General Counsel pursuant to § 0.251 (c) and (d) is contained in the original docket folder, which is maintained by the Reference Information Center.
+(e) The official record of all actions taken by the General Counsel pursuant to paragraphs (c) and (d) of this section is contained in the original docket folder, which is maintained by the Reference Information Center.
 
 (f) The General Counsel is delegated authority to issue written determinations on matters regarding the interception of telephone conversations. Nothing in this paragraph, however, shall affect the authority of the Inspector General to intercept or record telephone conversations as necessary in the conduct of investigations or audits.
 

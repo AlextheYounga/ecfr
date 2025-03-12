@@ -1,6 +1,6 @@
 ##### § 25.110 Filing of applications, fees, and number of copies. #####
 
-(a) Applications may be filed by going online at licensing.fcc.gov/myibfs and submitting the application through the International Bureau Filing System (IBFS).
+(a) *Filing.* Applications may be filed by going online at *https://www.fcc.gov/icfs* and submitting the application through the International Communications Filing System (ICFS).
 
 (b) *Submitting your application.* (1) All earth station license applications must be filed electronically on FCC Form 312 in accordance with the applicable provisions of part 1, subpart Y of this chapter.
 
@@ -24,10 +24,10 @@
 
 (3) The file number of the application.
 
-(d) *Copies.* Applications must be filed electronically though IBFS. The Commission will not accept any paper version of any application.
+(d) *Copies.* Applications must be filed electronically though ICFS. The Commission will not accept any paper version of any application.
 
 (e) *Signing.* Upon filing an application electronically, the applicant must print out the filed application, obtain the proper signatures, and keep the original in its files.
 
 (f) An applicant must pay the appropriate filing fee in accordance with part 1, subpart G of this chapter, at the time when it files a FCC Form 312.
 
-[69 FR 47793, Aug. 6, 2004, as amended at 78 FR 8420, Feb. 6, 2013; 81 FR 55325, Aug. 18, 2016; 86 FR 49488, Sept. 3, 2021]
+[69 FR 47793, Aug. 6, 2004, as amended at 78 FR 8420, Feb. 6, 2013; 81 FR 55325, Aug. 18, 2016; 86 FR 49488, Sept. 3, 2021; 88 FR 21440, Apr. 10, 2023]

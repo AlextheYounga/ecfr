@@ -1,5 +1,7 @@
 ##### § 121.301 What size standards and affiliation principles are applicable to financial assistance programs? #####
 
+Link to an amendment published at 88 FR 21086, Apr. 10, 2023.
+
 (a) For Business Loans (other than for 7(a) Business Loans for the period beginning May 5, 2009 and ending on September 30, 2010) and for Disaster Loans (other than physical disaster loans), an applicant business concern must satisfy two criteria:
 
 (1) The size of the applicant alone (without affiliates) must not exceed the size standard designated for the industry in which the applicant is primarily engaged; and
@@ -30,7 +32,7 @@
 
 (iii) Add the results obtained in paragraphs (c)(2)(i) and (c)(2)(ii) of this section.
 
-(d) For Surety Bond Guarantee assistance - a business concern, combined with its affiliates, must meet the size standard for the primary industry in which such business concern, combined with its affiliates, is engaged.
+(d) For Surety Bond Guarantee assistance—a business concern, combined with its affiliates, must meet the size standard for the primary industry in which such business concern, combined with its affiliates, is engaged.
 
 (e) The applicable size standards for purposes of SBA's financial assistance programs, excluding the Surety Bond Guarantee assistance program, are increased by 25% whenever the applicant agrees to use all of the financial assistance within a labor surplus area. Labor surplus areas are listed monthly in the Department of Labor publication “Area Trends in Employment and Unemployment.”
 

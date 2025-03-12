@@ -1,7 +1,5 @@
 ##### § 2.30 Registration. #####
 
-Link to an amendment published at 88 FR 10713, Feb. 21, 2023.
-
 (a) *Requirements and procedures.* (1) Each research facility, other than a Federal research facility, shall register with the Secretary by completing and filing a properly executed form which will be furnished, upon request, by the Deputy Administrator. The registration form shall be filed with the Deputy Administrator. Except as provided in paragraph (a)(2) of this section, where a school or department of a university or college uses or intends to use live animals for research, tests, experiments, or teaching, the university or college rather than the school or department will be considered the research facility and will be required to register with the Secretary. An official who has the legal authority to bind the parent organization shall sign the registration form.
 
 (2) In any situation in which a school or department of a university or college demonstrates to the Secretary that it is a separate legal entity and its operations and administration are independent of those of the university or college, the school or department will be registered rather than the university or college.
@@ -20,4 +18,4 @@ Link to an amendment published at 88 FR 10713, Feb. 21, 2023.
 
 (e) *Non-interference with APHIS officials.* No research facility shall interfere with, threaten, abuse (including verbally abuse), or harass any APHIS official who is in the course of carrying out his or her duties.
 
-[54 FR 36147, Aug. 31, 1989, as amended at 63 FR 62926, Nov. 10, 1998; 69 FR 42101, July 14, 2004; 85 FR 28797, May 13, 2020; 86 FR 66925, Nov. 24, 2021]
+(Approved by the Office of Management and Budget under control numbers 0579-0036 and 0579-0486)[54 FR 36147, Aug. 31, 1989, as amended at 63 FR 62926, Nov. 10, 1998; 69 FR 42101, July 14, 2004; 85 FR 28797, May 13, 2020; 86 FR 66925, Nov. 24, 2021; 88 FR 10713, Feb. 21, 2023]

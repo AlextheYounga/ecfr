@@ -6,7 +6,7 @@
 
 (2) Transmitters designed for data transmission shall include a 12.5 kilohertz bandwidth mode of operation conforming to the following standards: ANSI/TIA-102.BAEA-B-2012, ANSI/TIA-102.BAAA-A-2003, ANSI/TIA-102.BAEB-A-2005, and ANSI/TIA-102.BAEE-B-2010.
 
-(b) The Director of the Federal Register approves these incorporations by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Material incorporated by reference may be inspected at the Federal Communications Commission's Reference Information Center, located at the address of the FCC's main office indicated in 47 CFR 0.401(a), Tel: (202) 418-0270, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+(b) *Incorporation by reference.* The material listed in this paragraph (b) is incorporated by reference in this section with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. All approved incorporation by reference (IBR) material is available for inspection at the FCC and the National Archives and Records Administration (NARA). Contact the FCC through the Federal Communications Commission's Reference Information Center, phone: (202) 418-0270. For information on the availability of this material at NARA, visit *www.archives.gov/federal-register/cfr/ibr-locations.html* or email *fr.inspection@nara.gov.* The material may be obtained from the following source in this paragraph (b):
 
 (1) TIA/EIA, 2500 Wilson Boulevard, Arlington, VA 22201 703-907-7974. These standards are also available from Global Engineering Documents, 15 Inverness Way East, Englewood, CO 80112; or the American National Standards Institute, 25 West 43rd Street, Fourth Floor, New York, NY 10036, *www.ansi.org.*
 
@@ -40,4 +40,4 @@
 
 (7) A fixed conventional repeater must be able to support the correct implementation of network access code (NAC) values $F7E and $F7F in conformance with the following standards: TIA 102.BAAD-B Conventional Procedures (2015), Section 2.5 with validation testing according to TIA-102.CABA Interoperability Testing for Voice Operation in Conventional Systems (2010), Test Case 2.4.5.4.1, Test Case 2.4.6.4.1, and Test Case 2.4.7.4.1.
 
-[79 FR 39340, July 10, 2014, as amended at 79 FR 71326, Dec. 2, 2014; 83 FR 30367, June 28, 2018; 85 FR 64410, Oct. 13, 2020]
+[79 FR 39340, July 10, 2014, as amended at 79 FR 71326, Dec. 2, 2014; 83 FR 30367, June 28, 2018; 85 FR 64410, Oct. 13, 2020; 88 FR 21450, Apr. 10, 2023]

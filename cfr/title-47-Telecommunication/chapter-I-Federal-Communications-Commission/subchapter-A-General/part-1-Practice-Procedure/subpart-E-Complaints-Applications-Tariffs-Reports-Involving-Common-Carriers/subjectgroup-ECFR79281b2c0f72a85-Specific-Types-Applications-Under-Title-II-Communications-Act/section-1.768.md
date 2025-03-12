@@ -58,10 +58,10 @@ Under § 63.10(a) of this chapter, the Commission presumes, subject to rebuttal,
 
 (i) A licensee that files a prior notification pursuant to paragraph (a) of this section may request confidential treatment of its filing, pursuant to § 0.459 of this chapter, for the first twenty (20) days after filing.
 
-(j) Subject to the availability of electronic forms, all notifications described in this section must be filed electronically through the International Bureau Filing System (IBFS). A list of forms that are available for electronic filing can be found on the IBFS homepage. For information on electronic filing requirements, see part 1, §§ 1.1000 through 1.10018 and the IBFS homepage at *http://www.fcc.gov/ibfs.* See also §§ 63.20 and 63.53.
+(j) Subject to the availability of electronic forms, all notifications described in this section must be filed electronically through the International Communications Filing System (ICFS). A list of forms that are available for electronic filing can be found on the ICFS homepage. For information on electronic filing requirements, see §§ 1.1000 through 1.10018 and the ICFS homepage at *https://www.fcc.gov/icfs.* See also §§ 63.20 and 63.53 of this chapter.
 
 Note to § 1.768:
 
 The terms “affiliated” and “foreign carrier,” as used in this section, are defined as in § 63.09 of this chapter except that the term “foreign carrier” also shall include an entity that owns or controls a cable landing station in a foreign market.
 
-[67 FR 1622, Jan. 14, 2002, as amended at 70 FR 38797, July 6, 2005; 79 FR 31877, June 3, 2014]
+[67 FR 1622, Jan. 14, 2002, as amended at 70 FR 38797, July 6, 2005; 79 FR 31877, June 3, 2014; 88 FR 21434, Apr. 10, 2023]

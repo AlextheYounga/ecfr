@@ -16,7 +16,7 @@
 
 (f) Space telemetry transmissions may consist of specially coded messages intended to facilitate communications or related to the function of the spacecraft.
 
-(g) The license grantee of each space station must make the following written notifications to the International Bureau, FCC, Washington, DC 20554.
+(g) The license grantee of each space station must make the following written notifications to the Space Bureau, FCC, Washington, DC 20554.
 
 (1) A pre-space notification within 30 days after the date of launch vehicle determination, but no later than 90 days before integration of the space station into the launch vehicle. The notification must be in accordance with the provisions of Articles 9 and 11 of the International Telecommunication Union (ITU) Radio Regulations and must specify the information required by Appendix 4 and Resolution No. 642 of the ITU Radio Regulations. The notification must also include a description of the design and operational strategies that the space station will use to mitigate orbital debris, including the following information:
 
@@ -70,10 +70,10 @@
 
 (*ii*) An assessment as to whether portions of any individual spacecraft will survive atmospheric re-entry and impact the surface of the Earth with a kinetic energy in excess of 15 joules, and demonstration that the calculated casualty risk for an individual spacecraft using the NASA Debris Assessment Software or a higher fidelity assessment tool is less than 0.0001 (1 in 10,000).
 
-(viii) If any material item described in this notification changes before launch, a replacement pre-space notification shall be filed with the International Bureau no later than 90 days before integration of the space station into the launch vehicle.
+(viii) If any material item described in this notification changes before launch, a replacement pre-space notification shall be filed with the Space Bureau no later than 90 days before integration of the space station into the launch vehicle.
 
 (2) An in-space station notification is required no later than 7 days following initiation of space station transmissions. This notification must update the information contained in the pre-space notification.
 
 (3) A post-space station notification is required no later than 3 months after termination of the space station transmissions. When termination of transmissions is ordered by the FCC, the notification is required no later than 24 hours after termination of transmissions.
 
-[54 FR 25857, June 20, 1989, as amended at 54 FR 39535, Sept. 27, 1989; 56 FR 56171, Nov. 1, 1991; 57 FR 32736, July 23, 1992; 60 FR 50124, Sept. 28, 1995; 63 FR 68980, Dec. 14, 1998; 69 FR 54588, Sept. 9, 2004; 71 FR 66462, Nov. 15, 2006; 75 FR 27201, May 14, 2010; 85 FR 52453, Aug. 25, 2020; 85 FR 64068, Oct. 9, 2020]
+[54 FR 25857, June 20, 1989, as amended at 54 FR 39535, Sept. 27, 1989; 56 FR 56171, Nov. 1, 1991; 57 FR 32736, July 23, 1992; 60 FR 50124, Sept. 28, 1995; 63 FR 68980, Dec. 14, 1998; 69 FR 54588, Sept. 9, 2004; 71 FR 66462, Nov. 15, 2006; 75 FR 27201, May 14, 2010; 85 FR 52453, Aug. 25, 2020; 85 FR 64068, Oct. 9, 2020; 88 FR 21451, Apr. 10, 2023]

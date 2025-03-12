@@ -6,7 +6,7 @@ For purposes of this subpart:
 
 (b) The term *agency* or *Commission* means the Federal Communications Commission (including the Universal Service Fund, the Telecommunications Relay Service Fund, and any other reporting components of the Commission) or any other agency of the U.S. Government as defined by section 105 of title 5 U.S.C., the U.S. Postal Service, the U.S. Postal Rate Commission, a military department as defined by section 102 of title 5 U.S.C., an agency or court of the judicial branch, or an agency of the legislative branch, including the U.S. Senate and the U.S. House of Representatives.
 
-(c) The term *agency head* means the Chairman of the Federal Communications Commission.
+(c) The term *agency head* means the Chairperson of the Federal Communications Commission.
 
 (d) The term *application* includes in addition to petitions and applications elsewhere defined in the Commission's rules, any request, as for assistance, relief, declaratory ruling, or decision, by the Commission or on delegated authority.
 
@@ -40,4 +40,4 @@ For purposes of this subpart:
 
 (s) Words in the plural form shall include the singular, and vice-versa, and words signifying the masculine gender shall include the feminine, and vice-versa. The terms *includes* and *including* do not exclude matters not listed but do include matters of the same general class.
 
-[69 FR 27848, May 17, 2004, as amended at 76 FR 70909, Nov. 16, 2011]
+[69 FR 27848, May 17, 2004, as amended at 76 FR 70909, Nov. 16, 2011; 88 FR 21435, Apr. 10, 2023]

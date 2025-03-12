@@ -8,7 +8,7 @@
 
 (3) Clearly state how the record should be amended or corrected.
 
-(b) The Commission shall conduct an independent review of the record in controversy using the standards of review set out in § 0.556(d). It may seek such additional information as is necessary to make its determination. Final administrative review shall be completed not later than 30 days (excluding Saturdays, Sundays and legal public holidays) from the date on which the individual requests such review unless the Chairman determines that a fair and equitable review cannot be made within the 30 day period. In such event, the individual will be informed in writing of the reasons for the delay and the approximate date on which the review is expected to be completed.
+(b) The Commission shall conduct an independent review of the record in controversy using the standards of review set out in § 0.556(d). It may seek such additional information as is necessary to make its determination. Final administrative review shall be completed not later than 30 days (excluding Saturdays, Sundays and legal public holidays) from the date on which the individual requests such review unless the Chairperson determines that a fair and equitable review cannot be made within the 30-day period. In such event, the individual will be informed in writing of the reasons for the delay and the approximate date on which the review is expected to be completed.
 
 (c) If upon review of the record in controversy the Commission agrees with the individual that the requested amendment is warranted, the Commission will proceed in accordance with § 0.556(c)(1) (i) through (iii).
 
@@ -28,4 +28,4 @@
 
 (4) Advise the individual that judicial review of the Commisison's decision not to amend the record in any district court of the United States is available.
 
-(Secs. 4(i) and 303(n), Communications Act of 1934, as amended, 47 U.S.C. 154(i) and 303(n); 47 CFR 0.231(d))[40 FR 44512, Sept. 26, 1975, as amended at 45 FR 39850, June 12, 1980; 49 FR 13369, Apr. 4, 1984]
+(Secs. 4(i) and 303(n), Communications Act of 1934, as amended, 47 U.S.C. 154(i) and 303(n); 47 CFR 0.231(d))[40 FR 44512, Sept. 26, 1975, as amended at 45 FR 39850, June 12, 1980; 49 FR 13369, Apr. 4, 1984; 88 FR 21433, Apr. 10, 2023]

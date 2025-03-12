@@ -1,0 +1,11 @@
+##### § 205.213 Obligations subject—“person indebted”—“debtor.” #####
+
+(a) A debt need not exist at the time of filing of an EFS. The basis for this is that subsection (c)(4) does not require the EFS, and subsection (c)(2)(C) does not require the master list, to show any amount of debt.
+
+(b) The Section does not provide for the transaction in which one person subjects a product to a security interest for another's debt. However the terms “person indebted” and “debtor” in the Section refer to the person who owns a product and subjects it to a security interest, whether or not that person owes a debt to the secured party. The basis for this is the purpose for which the information is supplied. Any buyer of a farm product, commission merchant, or selling agent querying a master list or system operator about a prospective seller of a farm product is interested in whether that seller has subjected that product to a security interest, not in whether the debt is owed by that seller or by another.
+
+(c) Security interests existing prior to establishment of a system can be filed in such a system and reflected in the master list if documents are in existence or are created which meet the requirements of subsection (c)(4) besides filing, if such documents are filed wherever State law requires, and if the system operator receives the information about them needed for the master list.
+
+(d) A system can be in compliance with the Section, although it reflects security interests not supported by EFS's as defined in the legislation, and although it reflects security interests on items other than farm products. However, subsections (e) (2) and (3), and (g)(2) (C) and (D), will apply only as to entries reflecting farm products and supported by EFS's as defined in the Section, and it must be possible to distinguish the entries to which these provisions apply from the other entries.
+
+(Approved by the Office of Management and Budget under control number 0580-0016)[51 FR 29451, Aug. 18, 1986, as amended at 71 FR 56343, Sept. 27, 2006]

@@ -22,10 +22,10 @@ For purposes of this paragraph, a roaming arrangement with a foreign carrier is 
 
 (2) The carrier is exchanging switched traffic with a foreign carrier that lacks market power in the country at the foreign end of the private line. A foreign carrier lacks market power for purposes of this section if it does not appear on the Commission's list of foreign carriers that do not qualify for the presumption that they lack market power in particular foreign points.
 
-Note to paragraph (d):
+Note 2 to paragraph (d):
 
-The Commission's list of international routes exempted from the international settlements policy, and the Commission's list of foreign carriers that do not qualify for the presumption that they lack market power in particular foreign points are available on the International Bureau's World Wide Web site at *http://www.fcc.gov/ib.*
+The Commission's list of international routes exempted from the international settlements policy, and the Commission's list of foreign carriers that do not qualify for the presumption that they lack market power in particular foreign points are available on the Office of International Affairs' website at *https://www.fcc.gov/international-affairs*.
 
 (e) The authority granted under this part is subject to all Commission rules and regulations and any conditions or limitations stated in the Commission's public notice or order that serves as the carrier's Section 214 certificate. See §§ 63.12, 63.21 of this part.
 
-[64 FR 19066, Apr. 19, 1999, as amended at 64 FR 34741, June 29, 1999; 67 FR 45391, July 9, 2002; 69 FR 23154, Apr. 28, 2004; 72 FR 54366, Sept. 25, 2007; 76 FR 42573, July 19, 2011]
+[64 FR 19066, Apr. 19, 1999, as amended at 64 FR 34741, June 29, 1999; 67 FR 45391, July 9, 2002; 69 FR 23154, Apr. 28, 2004; 72 FR 54366, Sept. 25, 2007; 76 FR 42573, July 19, 2011; 88 FR 21444, Apr. 10, 2023]

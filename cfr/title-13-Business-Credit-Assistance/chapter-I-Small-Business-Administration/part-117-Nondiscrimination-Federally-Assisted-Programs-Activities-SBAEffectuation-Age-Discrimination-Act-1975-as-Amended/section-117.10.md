@@ -1,0 +1,5 @@
+##### § 117.10 Review procedures. #####
+
+(a) SBA shall from time to time review the practices of recipients to determine whether they are complying with this part. As part of a compliance review or complaint investigation, SBA may require a recipient employing 15 or more full-time employees to complete a written self-evaluation, in a manner specified by the Agency, of any age distinction imposed in its program or activity receiving Federal financial assistance.
+
+(b) If a compliance review or pre-award review indicates a violation of the Act or these regulations, SBA will attempt to achieve voluntary compliance with the Act. If voluntary compliance with the recipient cannot be achieved, such recipient will be subject to the enforcement procedure contained in § 117.15 of these regulations. A refusal to permit an on-site compliance review during normal working hours may constitute noncompliance with this part.

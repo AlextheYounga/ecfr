@@ -1,0 +1,11 @@
+##### § 117.9 Compliance information. #####
+
+(a) *Cooperation and assistance.* SBA shall, to the fullest extent practicable, seek the cooperation of recipients in obtaining compliance with this part and shall provide assistance and guidance to recipients to help them comply voluntarily with this part.
+
+(b) *Record Keeping.* Each recipient shall keep records in such form, and containing such information which SBA determines may be necessary to ascertain whether the recipient has complied or is complying with this part (OMB No. 3245 0076). In the case of a small business concern which receives financial assistance from a development company or from a small business investment company, the small business concern shall also keep such records and information as may be necessary to enable SBA to determine if the small business concern is complying with this part.
+
+(c) Each recipient shall provide to SBA, upon request, information and reports which SBA determines are necessary to ascertain whether the recipient is complying with the Act and these regulations.
+
+(d) *Access to sources of information.* Each recipient shall permit reasonable access by SBA during normal business hours to such of its books, records, accounts, and other sources of information, and its facilities as may be pertinent to ascertain compliance with this part. Where any information required of an applicant or recipient is in the exclusive possession of any other agency, institution or person and that agency, institution or person shall fail or refuse to furnish the information, the recipient shall so certify and shall set forth what efforts it has made to obtain the required information. The recipient will be held responsible for submitting the information. Failure to submit information or permit access to sources of information required by SBA will subject the recipient to enforcement procedure as provided in § 117.15 of this part.
+
+(Information collection requirements in paragraph (c) were approved by the Office of Management and Budget under control number 3245-0076)

@@ -4,13 +4,14 @@
 
 (1) Resolve complaints, including complaints filed under section 208 of the Communications Act, regarding acts or omissions of common carriers (wireline, wireless and international).
 
-Note to paragraph (a)(1):
+Note 1 to paragraph (a)(1):
 
-The Consumer and Governmental Affairs Bureau has primary responsibility for addressing individual informal complaints from consumers against common carriers (wireline, wireless and international) and against other wireless licensees, and informal consumer complaints involving access to telecommunications services and equipment for persons with disabilities. The International Bureau has primary responsibility for complaints regarding international settlements rules and policies.
+The Consumer and Governmental Affairs Bureau has primary responsibility for addressing individual informal complaints from consumers against common carriers (wireline, wireless and international) and against other wireless licensees, and informal consumer complaints involving access to telecommunications services and equipment for persons with disabilities.
+The Office of International Affairs has primary responsibility for complaints regarding international settlements rules and policies.
 
 (2) Resolve complaints regarding acts or omissions of non-common carriers subject to the Commission's jurisdiction under Title II of the Communications Act and related provisions, including complaints against aggregators under section 226 of the Communications Act and against entities subject to the requirements of section 227 of the Communications Act.
 
-Note to paragraph (a)(2):
+Note 2 to paragraph (a)(2):
 
 The Consumer and Governmental Affairs Bureau has primary responsibility for addressing individual informal complaints from consumers against non-common carriers subject to the Commission's jurisdiction under Title II of the Communications Act and related provisions.
 
@@ -18,7 +19,7 @@ The Consumer and Governmental Affairs Bureau has primary responsibility for addr
 
 (4) Resolve complaints regarding radiofrequency interference and complaints regarding radiofrequency equipment and devices, including complaints of violations of sections 302 and 333 of the Communications Act.
 
-Note to paragraph (a)(4):
+Note 3 to paragraph (a)(4):
 
 The Office of Engineering and Technology has shared responsibility for radiofrequency equipment and device complaints.
 
@@ -26,7 +27,7 @@ The Office of Engineering and Technology has shared responsibility for radiofreq
 
 (6) Resolve complaints regarding the lighting and marking of radio transmitting towers under section 303(q) of the Communications Act.
 
-Note to paragraph (a)(6):
+Note 4 to paragraph (a)(6):
 
 The Wireless Telecommunications Bureau has responsibility for administration of the tower registration program.
 
@@ -34,7 +35,7 @@ The Wireless Telecommunications Bureau has responsibility for administration of 
 
 (8) Resolve complaints regarding the broadcast and cable television children's television programming commercial limits contained in section 102 of the Children's Television Act.
 
-Note to paragraph (a)(8):
+Note 5 to paragraph (a)(8):
 
 The Media Bureau has responsibility for enforcement of these limits in the broadcast television renewal context.
 
@@ -44,7 +45,7 @@ The Media Bureau has responsibility for enforcement of these limits in the broad
 
 (11) Resolves other complaints against Title III licensees and permittees (Title III of the Communications Act of 1934, as amended), including complaints under § 20.12(e) of this chapter, except that the Media Bureau has primary responsibility for complaints regarding children's television programming requirements, and for political and related programming matters involving broadcasters, cable operators and other multichannel video programming distributors. The relevant licensing Bureau has primary responsibility for complaints involving tower siting and the Commission's environmental rules. The Media Bureau has primary responsibility for complaints regarding compliance with conditions imposed on transfers of control and assignments of licenses of Cable Television Relay Service authorizations.
 
-Note to paragraph (a)(11):
+Note 6 to paragraph (a)(11):
 
 The Media Bureau has primary responsibility for complaints regarding children's television programming requirements, and for political and related programming matters and equal employment opportunity matters involving broadcasters, cable operators and other multichannel video programming distributors. The relevant licensing Bureau has primary responsibility for complaints involving tower sitting and the Commission's environmental rules. The Media Bureau has primary responsibility for complaints regarding compliance with conditions imposed on transfers of control and assignments of licenses of Cable Television Relay Service authorizations.
 
@@ -52,7 +53,7 @@ The Media Bureau has primary responsibility for complaints regarding children's 
 
 (13) Resolve complaints regarding multichannel video and cable television service under part 76 of this chapter, except that the Media Bureau has primary responsibility for complaints regarding the following: Subpart A (general), with the exception of § 76.11; subpart B (Registration Statements); subpart C (Cable Franchise Applications); subpart D (carriage of television broadcast signals); subpart F (nonduplication protection and syndicated exclusivity); subpart G, §§ 76.205 and 76.206 (political broadcasting); subpart I ([Reserved]); subpart J (ownership); subpart L (cable television access); subpart N, § 76.944 (basic cable rate appeals), and §§ 76.970, 76.971, and 76.977 (cable leased access rates); subpart O (competitive access to cable programming); subpart P (competitive availability of navigation devices); subpart Q (regulation of carriage agreements); subpart S (Open Video Systems); and subparts T, U, and V to the extent related to the matters listed in this paragraph (a)(13).
 
-Note to paragraph (a)(13):
+Note 7 to paragraph (a)(13):
 
 The Media Bureau has primary responsibility for complaints regarding the following: subpart A (general), with the exception of § 76.11 of this chapter; subpart B (Registration Statements); subpart C (Federal-State/Local Relationships [Reserved]; subpart D (carriage of television broadcast signals); subpart E (equal employment opportunity requirements); subpart F (nonduplication protection and syndicated exclusivity); subpart G, §§ 76.205, 76.206 and 76.209 of this chapter (political broadcasting); subpart I (Forms and Reports); subpart J (ownership); subpart L (cable television access); subpart N, § 76.944 of this chapter (basic cable rate appeals), and §§ 76.970, 76.971 and 76.977 of this chapter (cable leased access rates); subpart O (competitive access to cable programming); subpart P (competitive availability of navigation devices); subpart Q (regulation of carriage agreements); subpart S (Open Video Systems); and subparts T, U and V to the extent related to the matters listed in this note.
 
@@ -100,7 +101,7 @@ The Media Bureau has primary responsibility for complaints regarding the followi
 
 (b) Serve as a party in hearing proceedings conducted pursuant to 47 CFR part 1, subpart B.
 
-(c) In coordination with the International Bureau, participate in international conferences dealing with monitoring and measurement; serve as the point of contact for the U.S. Government in matters of international monitoring, fixed and mobile direction-finding and interference resolution; and oversee coordination of non-routine communications and materials between the Commission and international or regional public organizations or foreign administrations.
+(c) In coordination with the Office of International Affairs, participate in international conferences dealing with monitoring and measurement; serve as the point of contact for the U.S. Government in matters of international monitoring, fixed and mobile direction-finding and interference resolution; and oversee coordination of non-routine communications and materials between the Commission and international or regional public organizations or foreign administrations.
 
 (d) In conjunction with the Office of Engineering and Technology, work with technical standards bodies.
 
@@ -118,4 +119,4 @@ The Media Bureau has primary responsibility for complaints regarding the followi
 
 (k) Perform such other functions as may be assigned or referred to it by the Commission.
 
-[64 FR 60716, Nov. 8, 1999, as amended at 67 FR 13218, Mar. 21, 2002; 68 FR 36942, June 20, 2003; 69 FR 30233, May 27, 2004; 71 FR 69034, Nov. 29, 2006; 76 FR 24381, May 2, 2011; 76 FR 26220, May 6, 2011; 76 FR 59232, Sept. 23, 2011; 76 FR 60754, Sept. 30, 2011; 78 FR 23151, Apr. 18, 2013; 80 FR 53749, Sept. 8, 2015; 84 FR 9465, Mar. 15, 2019; 85 FR 21788, Apr. 20, 2020; 85 FR 63171, Oct. 6, 2020; 86 FR 17734, Apr. 6, 2021; 86 FR 52843, Sept. 23, 2021; 87 FR 42944, July 18, 2022]
+[64 FR 60716, Nov. 8, 1999, as amended at 67 FR 13218, Mar. 21, 2002; 68 FR 36942, June 20, 2003; 69 FR 30233, May 27, 2004; 71 FR 69034, Nov. 29, 2006; 76 FR 24381, May 2, 2011; 76 FR 26220, May 6, 2011; 76 FR 59232, Sept. 23, 2011; 76 FR 60754, Sept. 30, 2011; 78 FR 23151, Apr. 18, 2013; 80 FR 53749, Sept. 8, 2015; 84 FR 9465, Mar. 15, 2019; 85 FR 21788, Apr. 20, 2020; 85 FR 63171, Oct. 6, 2020; 86 FR 17734, Apr. 6, 2021; 86 FR 52843, Sept. 23, 2021; 87 FR 42944, July 18, 2022; 88 FR 21429, Apr. 10, 2023]

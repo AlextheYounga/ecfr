@@ -1,0 +1,3 @@
+##### § 117.1 Purpose. #####
+
+The purpose of this part is to effectuate the provisions of The Age Discrimination Act of 1975, as amended (hereinafter referred to as the *Act*), to the end that no person in the United States shall, on the basis of age, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under programs or activities receiving financial assistance or any financial activities of the Small Business Administration to which this Act applies. The Act also permits recipients of Federal funds to continue to use certain age distinctions and other factors other than age which meet the requirements of the Act and these regulations in the conduct of programs or activities and the provision of services to the public.

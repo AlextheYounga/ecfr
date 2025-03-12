@@ -1,0 +1,3 @@
+##### § 3.159 Employees. #####
+
+A sufficient number of adequately trained employees or attendants must be utilized to maintain the professionally acceptable level of husbandry and handling practices set forth in this subpart. Such practices must be conducted under the supervision of a bird caretaker who has appropriate experience in the husbandry and care of birds that are being managed in a given setting.

@@ -1,7 +1,5 @@
 ##### § 2.3 Demonstration of compliance with standards and regulations. #####
 
-Link to an amendment published at 88 FR 10713, Feb. 21, 2023.
-
 (a) Each applicant for a license must demonstrate that his or her location(s) and any animals, facilities, vehicles, equipment, or other locations used or intended for use in the business comply with the Act and the regulations and standards set forth in parts 2 and 3 of this subchapter. Each applicant must make his or her animals, locations, facilities, vehicles, equipment, and records available for inspection during business hours and at other times mutually agreeable to the applicant and APHIS, to ascertain the applicant's compliance with the Act and the regulations and standards.
 
 (b) Each applicant for a license must be inspected by APHIS and demonstrate compliance with the Act and the regulations and standards, as required in paragraph (a) of this section, before APHIS will issue a license. If the first inspection reveals that the applicant's animals, premises, facilities, vehicles, equipment, locations, or records do not meet the applicable requirements of this subchapter, APHIS will advise the applicant of existing deficiencies and the corrective measures that must be completed to come into compliance with the regulations and standards. An applicant who fails the first inspection may request up to two more inspections by APHIS to demonstrate his or her compliance with the Act and the regulations and standards. The applicant must request the second inspection, and if applicable, the third inspection, within 60 days following the first inspection.
@@ -10,4 +8,4 @@ Link to an amendment published at 88 FR 10713, Feb. 21, 2023.
 
 (d) If an applicant fails inspection or fails to request reinspections within the 60-day period, or fails to submit a timely appeal of the third prelicense inspection report as described in paragraph (c) of this section, the applicant cannot reapply for a license for a period of 6 months from the date of the failed third inspection or the expiration of the time to request a third inspection. No license will be issued until the applicant pays the license fee and demonstrates upon inspection that the animals, premises, facilities, vehicles, equipment, locations, and records are in compliance with all applicable requirements in the Act and the regulations and standards in this subchapter.
 
-(Approved by the Office of Management and Budget under control number 0579-0036)[85 FR 28796, May 13, 2020]
+(Approved by the Office of Management and Budget under control numbers 0579-0036 and 0579-0486)[85 FR 28796, May 13, 2020, as amended at 88 FR 10713, Feb. 21, 2023]

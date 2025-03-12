@@ -38,7 +38,7 @@ The records listed in this section are not routinely available for public inspec
 
 (iv) Programming contracts between programmers and multichannel video programming distributors.
 
-(v) The rates, terms and conditions in any agreement between a U.S. carrier and a foreign carrier that govern the settlement of U.S.-international traffic, including the method for allocating return traffic, except as otherwise specified by the Commission by order or by the International Bureau under delegated authority. *See, e.g., International Settlements Policy Reform,* IB Docket Nos. 11-80, 05-254, 09-10, RM-11322, Report and Order, FCC 12-145 (rel. Nov. 29, 2012).
+(v) The rates, terms and conditions in any agreement between a U.S. carrier and a foreign carrier that govern the settlement of U.S.-international traffic, including the method for allocating return traffic, except as otherwise specified by the Commission by order or by the Office of International Affairs under delegated authority. *See, e.g., International Settlements Policy Reform,* IB Docket Nos. 11-80, 05-254, 09-10, RM-11322, Report and Order, FCC 12-145 (rel. Nov. 29, 2012).
 
 (vi) Outage reports filed under part 4 of this chapter.
 
@@ -80,4 +80,4 @@ The content of the communications described in paragraph (d)(1)(vii)(A) of this 
 
 (6) Could reasonably be expected to endanger the life or physical safety of any individual.
 
-[82 FR 4189, Jan. 13, 2017, as amended at 82 FR 55331, Nov. 21, 2017]
+[82 FR 4189, Jan. 13, 2017, as amended at 82 FR 55331, Nov. 21, 2017; 88 FR 21432, Apr. 10, 2023]

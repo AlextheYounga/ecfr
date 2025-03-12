@@ -1,6 +1,6 @@
 ##### § 0.212 Board of Commissioners. #####
 
-(a) Whenever the Chairman or Acting Chairman of the Commission determines that a quorum of the Commission is not present or able to act, he may convene a Board of Commissioners. The Board shall be composed of all Commissioners present and able to act.
+(a) Whenever the Chairperson or Acting Chairperson of the Commission determines that a quorum of the Commission is not present or able to act, he/she may convene a Board of Commissioners. The Board shall be composed of all Commissioners present and able to act.
 
 (b) The Board of Commissioners is authorized to act upon all matters normally acted upon by the Commission en banc, except the following:
 
@@ -16,4 +16,4 @@
 
 (e) This section has no application in circumstances in which the Commission is unable to function at its offices in Washington, D.C. See §§ 0.181-0.186 and §§ 0.381-0.387.
 
-[30 FR 9314, July 27, 1965, as amended at 86 FR 12546, Mar. 4, 2021]
+[30 FR 9314, July 27, 1965, as amended at 86 FR 12546, Mar. 4, 2021; 88 FR 21430, Apr. 10, 2023]

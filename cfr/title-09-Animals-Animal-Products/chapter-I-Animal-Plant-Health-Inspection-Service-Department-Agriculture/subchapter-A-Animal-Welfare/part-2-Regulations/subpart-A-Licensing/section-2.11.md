@@ -1,7 +1,5 @@
 ##### § 2.11 Denial of license application. #####
 
-Link to an amendment published at 88 FR 10713, Feb. 21, 2023.
-
 (a) A license will not be issued to any applicant who:
 
 (1) Has not complied with the requirements of §§ 2.1 through 2.4 and has not paid the fees indicated in § 2.1;
@@ -34,4 +32,4 @@ Link to an amendment published at 88 FR 10713, Feb. 21, 2023.
 
 (d) No license will be issued under circumstances that the Administrator determines would circumvent any order, stipulation, or settlement agreement suspending, revoking, terminating, or denying a license or disqualifying a person from engaging in activities under the Act.
 
-[85 FR 28797, May 13, 2020]
+(Approved by the Office of Management and Budget under control numbers 0579-0036 and 0579-0486)[85 FR 28797, May 13, 2020, as amended at 88 FR 10713, Feb. 21, 2023]

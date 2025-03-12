@@ -1,0 +1,5 @@
+##### § 207.94 Protection of privileged information during panel and committee proceedings. #####
+
+If a panel or ECC decides that the Commission is required, pursuant to the United States law, to grant access pursuant to a protective order to information for which the Commission has claimed a privilege, any individual to whom the panel or ECC has directed the Commission release information and who is otherwise within the category of individuals eligible to receive proprietary information pursuant to § 207.93(b), may file an application for a protective order with the Commission. Upon receipt of such application, the Commission Secretary shall certify to the Commission that a panel or ECC has required the Commission to release such information to specified persons, pursuant to 19 U.S.C. 1677f(f)(1). Twenty-four hours following such certification, the Commission Secretary shall issue a protective order releasing such information to any authorized applicant subject to terms and conditions equivalent to those described in § 207.93(c)(2).
+
+[88 FR 14893, Mar. 10, 2023]

@@ -22,19 +22,21 @@
 
 (10) Office of Workplace Diversity
 
-(11) Wireline Competition Bureau.
+(11) Office of International Affairs.
 
-(12) Wireless Telecommunications Bureau.
+(12) Wireline Competition Bureau.
 
-(13) International Bureau.
+(13) Wireless Telecommunications Bureau.
 
-(14) Media Bureau.
+(14) Space Bureau.
 
-(15) Enforcement Bureau.
+(15) Media Bureau.
 
-(16) Consumer and Governmental Affairs Bureau.
+(16) Enforcement Bureau.
 
-(17) Public Safety and Homeland Security Bureau.
+(17) Consumer and Governmental Affairs Bureau.
+
+(18) Public Safety and Homeland Security Bureau.
 
 (b) Staff responsibilities and functions. The organization and functions of these major staff units are described in detail in §§ 0.11 through 0.151. The defense and emergency preparedness functions of the Commission are set forth separately, beginning at § 0.181. For a complete description of staff functions, reference should be made to those provisions. (See also the U.S. Government Organization Manual, which contains a chart showing the Commission's organization, the names of the members and principal staff officers of the Commission, and other information concerning the Commission.)
 

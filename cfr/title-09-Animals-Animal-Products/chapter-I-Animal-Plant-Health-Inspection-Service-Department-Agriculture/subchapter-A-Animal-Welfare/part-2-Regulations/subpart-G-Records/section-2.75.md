@@ -1,7 +1,5 @@
 ##### § 2.75 Records: Dealers and exhibitors. #####
 
-Link to an amendment published at 88 FR 10714, Feb. 21, 2023.
-
 (a)(1) Each dealer, other than operators of auction sales and brokers to whom animals are consigned, and each exhibitor shall make, keep, and maintain records or forms which fully and correctly disclose the following information concerning each dog or cat purchased or otherwise acquired, owned, held, or otherwise in his or her possession or under his or her control, or which is transported, euthanized, sold, or otherwise disposed of by that dealer or exhibitor. The records shall include any offspring born of any animal while in his or her possession or under his or her control.
 
 (i) The name and address of the person from whom a dog or cat was purchased or otherwise acquired whether or not the person is required to be licensed or registered under the Act;
@@ -40,7 +38,7 @@ Link to an amendment published at 88 FR 10714, Feb. 21, 2023.
 
 (4) One copy of the record containing the information required by paragraph (a)(1) of this section shall accompany each shipment of any dog or cat purchased or otherwise acquired by a dealer or exhibitor. One copy of the record containing the information required by paragraph (a)(1) of this section shall accompany each shipment of any dog or cat sold or otherwise disposed of by a dealer or exhibitor: *Provided, however,* that, except as provided in § 2.133(b) of this part for dealers, information that indicates the source and date of acquisition of a dog or cat need not appear on the copy of the record accompanying the shipment. One copy of the record containing the information required by paragraph (a)(1) of this section shall be retained by the dealer or exhibitor.
 
-(b)(1) Every dealer other than operators of auction sales and brokers to whom animals are consigned, and exhibitor shall make, keep, and maintain records or forms which fully and correctly disclose the following information concerning animals other than dogs and cats, purchased or otherwise acquired, owned, held, leased, or otherwise in his or her possession or under his or her control, or which is transported, sold, euthanized, or otherwise disposed of by that dealer or exhibitor. The records shall include any offspring born of any animal while in his or her possession or under his or her control.
+(b)(1) Every dealer other than operators of auction sales and brokers to whom animals are consigned, and exhibitor shall make, keep, and maintain records or forms which fully and correctly disclose the following information concerning animals other than dogs and cats, purchased or otherwise acquired, owned, held, leased, or otherwise in his or her possession or under his or her control, or which is transported, sold, euthanized, or otherwise disposed of by that dealer or exhibitor. The records shall include any offspring born or hatched of any animal while in his or her possession or under his or her control, to the extent that any identification or counting of offspring can be carried out without unduly disturbing nesting or rearing activities.
 
 (i) The name and address of the person from whom the animals were purchased or otherwise acquired;
 
@@ -60,4 +58,4 @@ Link to an amendment published at 88 FR 10714, Feb. 21, 2023.
 
 (3) One copy of the record containing the information required by paragraph (b)(1) of this section shall accompany each shipment of any animal(s) other than a dog or cat purchased or otherwise acquired by a dealer or exhibitor. One copy of the record containing the information required by paragraph (b)(1) of this section shall accompany each shipment of any animal other than a dog or cat sold or otherwise disposed of by a dealer or exhibitor; *Provided, however,* That information which indicates the source and date of acquisition of any animal other than a dog or cat need not appear on the copy of the record accompanying the shipment. The dealer or exhibitor shall retain one copy of the record containing the information required by paragraph (b)(1) of this section.
 
-[54 FR 36147, Aug. 31, 1989, as amended at 58 FR 39129, July 22, 1993; 58 FR 45041, Aug. 26, 1993; 60 FR 13895, Mar. 15, 1995; 69 FR 42102, July 14, 2004; 85 FR 28798, May 13, 2020]
+(Approved by the Office of Management and Budget under control numbers 0579-0036 and 0579-0486)[54 FR 36147, Aug. 31, 1989, as amended at 58 FR 39129, July 22, 1993; 58 FR 45041, Aug. 26, 1993; 60 FR 13895, Mar. 15, 1995; 69 FR 42102, July 14, 2004; 85 FR 28798, May 13, 2020; 88 FR 10714, Feb. 21, 2023]

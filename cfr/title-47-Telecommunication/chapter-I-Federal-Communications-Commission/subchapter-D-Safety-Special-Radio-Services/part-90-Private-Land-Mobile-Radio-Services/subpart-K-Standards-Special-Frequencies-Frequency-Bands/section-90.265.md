@@ -2,10 +2,8 @@
 
 (a) The following center frequencies are available for assignment to fixed stations in the Public Safety Pool or the Industrial/Business Pool, subject to the provisions of this section:
 
-Hydro Channels (MHz)
-
 |169.4250|170.2625|171.1000|406.1250|
-|:-------|-------:|-------:|-------:|
+|--------|--------|--------|--------|
 |169.4375|170.2750|171.1125|406.1750|
 |169.4500|170.2875|171.1250|412.6625|
 |169.4625|170.3000|171.8250|412.6750|
@@ -82,10 +80,8 @@ Frequencies (MHz)
 
 (c) The following center frequencies are available for assignment to licensees engaged in forest firefighting and conservation activities, subject to the provisions of this section:
 
-Forest Firefighting and Conservation Channels (MHz)
-
 |170.425|171.425|172.225|
-|:------|------:|------:|
+|-------|-------|-------|
 |170.475|171.475|172.275|
 |170.575|171.575|172.375|
 
@@ -129,7 +125,7 @@ Forest Firefighting and Conservation Channels (MHz)
 
 (2) The frequency 152.0075 MHz and frequencies within the bands 462.9375-463.1875 MHz and 467.9375 MHz-468.1875 MHz, subject to the limitations specified in § 90.20.
 
-(f) The materials listed in this section are incorporated by reference in this part. These incorporations by reference were approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. These materials are incorporated as they exist on the date of the approval, and notice of any change in these materials will be published in the Federal Register. All approved material is available for inspection at the Federal Communications Commission's Reference Information Center, located at the address of the FCC's main office indicated in 47 CFR 0.401(a), Tel: (202) 418-0270, and is available from the sources in this paragraph (f). It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call (202) 741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html*.
+(f) *Incorporation by reference.* The material listed in this paragraph (f) is incorporated by reference in this section with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the FCC must publish a document in the Federal Register and the material must be available to the public. All approved incorporation by reference (IBR) material is available for inspection at the FCC and the National Archives and Records Administration (NARA). Contact the FCC through the Federal Communications Commission's Reference Information Center, phone: (202) 418-0270. For information on the availability of this material at NARA, visit *www.archives.gov/federal-register/cfr/ibr-locations.html* or email *fr.inspection@nara.gov.* The material may be obtained from the following source in this paragraph (f):
 
 (1) European Telecommunications Standards Institute, 650 Route des Lucioles, 06921 Sophia Antipolis Cedex, France. A copy of the standard is also available at *http://www.etsi.org/deliver/etsi\_en/300400\_300499/30042201/01.03.02\_60/en\_30042201v010302p.pdf*.
 
@@ -139,4 +135,4 @@ Forest Firefighting and Conservation Channels (MHz)
 
 (2) [Reserved]
 
-[49 FR 20506, May 15, 1984, as amended at 62 FR 18929, Apr. 17, 1997; 70 FR 21661, Apr. 27, 2005; 80 FR 71731, Nov. 17, 2015; 82 FR 41562, Sept. 1, 2017; 85 FR 64410, Oct. 13, 2020]
+[49 FR 20506, May 15, 1984, as amended at 62 FR 18929, Apr. 17, 1997; 70 FR 21661, Apr. 27, 2005; 80 FR 71731, Nov. 17, 2015; 82 FR 41562, Sept. 1, 2017; 85 FR 64410, Oct. 13, 2020; 88 FR 21450, Apr. 10, 2023]

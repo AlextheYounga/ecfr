@@ -2,7 +2,7 @@
 
 The Director, Office of Workplace Diversity, or his/her designee, is hereby delegated authority to:
 
-(a) Manage the Commission's internal EEO compliance program pursuant to Title VII of the Civil Rights Act of 1964, as amended, the Rehabilitation Act of 1973, as amended, the Age Discrimination in Employment Act of 1967, as amended, the Equal Pay Act, and other applicable laws, rules, regulations, and Executive Orders, with authority that includes appointing EEO counselors, investigators, and mediators; investigating complaints of employment discrimination, and recommending to the Chairman final agency decisions on EEO complaints;
+(a) Manage the Commission's internal EEO compliance program pursuant to Title VII of the Civil Rights Act of 1964, as amended, the Rehabilitation Act of 1973, as amended, the Age Discrimination in Employment Act of 1967, as amended, the Equal Pay Act, and other applicable laws, rules, regulations, and Executive Orders, with authority that includes appointing EEO counselors, investigators, and mediators; investigating complaints of employment discrimination, and recommending to the Chairperson final agency decisions on EEO complaints;
 
 (b) Mediate EEO complaints;
 
@@ -20,4 +20,4 @@ The Director, Office of Workplace Diversity, or his/her designee, is hereby dele
 
 (i) Develop programs and strategies designed to foster and encourage fairness, equality, and inclusion of all employees in the workforce.
 
-[61 FR 2728, Jan. 29, 1996]
+[61 FR 2728, Jan. 29, 1996, as amended at 88 FR 21431, Apr. 10, 2023]

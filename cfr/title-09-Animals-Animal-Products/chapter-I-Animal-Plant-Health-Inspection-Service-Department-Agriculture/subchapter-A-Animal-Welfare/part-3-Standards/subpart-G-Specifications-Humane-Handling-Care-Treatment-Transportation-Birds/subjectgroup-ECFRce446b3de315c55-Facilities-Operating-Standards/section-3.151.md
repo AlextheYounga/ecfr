@@ -1,0 +1,9 @@
+##### § 3.151 Facilities, indoor. #####
+
+(a) *Temperature and humidity.* The air temperature and, if present, pool or other aquatic area (*e.g.,* ponds, waterfalls, fountains, and other water features), and air humidity levels in indoor facilities must be sufficiently regulated and appropriate to bird species to protect the birds from detrimental temperature and humidity levels, to provide for their health and well-being, and to prevent discomfort or distress, in accordance with current professionally accepted standards.
+
+(b) *Ventilation.* Indoor housing facilities must be sufficiently ventilated at all times when birds are present to provide for their health, to prevent their discomfort or distress, and to minimize accumulations of moisture condensation, odors, and levels of ammonia, chlorine, and other noxious gases. The ventilation system must minimize drafts.
+
+(c) *Lighting.* Indoor housing facilities must have lighting, by natural or artificial means, or both, of appropriate quality, distribution, and duration for the species of birds involved. Such lighting must be sufficient to permit routine inspection and cleaning. Lighting of primary enclosures must be designed to protect the birds from excessive illumination that may cause discomfort or distress.
+
+(d) *Indoor pool or other aquatic areas.* Indoor pools or other aquatic areas (*e.g.,* ponds, waterfalls, fountains, and other water features) must have sufficient vertical air space above the pool or other aquatic area to allow for behaviors typical to the species of bird under consideration. Such behaviors may include, but are not limited to, diving and swimming.

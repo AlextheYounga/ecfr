@@ -56,7 +56,7 @@
 
 (h) In the event a station's emissions outside its authorized frequency band causes harmful interference, the Commission may, at its discretion, require the licensee to take such further steps as may be necessary to eliminate the interference.
 
-(i) The materials listed in this section are incorporated by reference in this part. These incorporations by reference were approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. These materials are incorporated as they exist on the date of the approval, and notice of any change in these materials will be published in the Federal Register. All approved material is available for inspection at the Federal Communications Commission's Reference Information Center, located at the address of the FCC's main office indicated in 47 CFR 0.401(a), Tel: (202) 418-0270, and is available from the sources in this paragraph (i). It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call (202) 741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html*.
+(i) *Incorporation by reference.* The material listed in this paragraph (i) is incorporated by reference in this section with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the FCC must publish a document in the Federal Register and the material must be available to the public. All approved incorporation by reference (IBR) material is available for inspection at the FCC and the National Archives and Records Administration (NARA). Contact the FCC through the Federal Communications Commission's Reference Information Center, phone: (202) 418-0270. For information on the availability of this material at NARA, visit *www.archives.gov/federal-register/cfr/ibr-locations.html* or email *fr.inspection@nara.gov.* The material may be obtained from the following source in this paragraph (i):
 
 (1) European Telecommunications Standards Institute, 650 Route des Lucioles, 06921 Sophia Antipolis Cedex, France. A copy of the standard is also available at *http://www.etsi.org/deliver/etsi\_en/300400\_300499/30042201/01.03.02\_60/en\_30042201v010302p.pdf*.
 
@@ -66,4 +66,4 @@
 
 (2) [Reserved].
 
-[43 FR 13576, Mar. 31, 1978, as amended at 52 FR 2535, Jan. 23, 1987; 63 FR 36605, July 7, 1998; 75 FR 3639, Jan. 22, 2010; 80 FR 71730, Nov. 17, 2015; 80 FR 73085, Nov. 23, 2015; 82 FR 41561, Sept. 1, 2017; 85 FR 64409, Oct. 13, 2020]
+[43 FR 13576, Mar. 31, 1978, as amended at 52 FR 2535, Jan. 23, 1987; 63 FR 36605, July 7, 1998; 75 FR 3639, Jan. 22, 2010; 80 FR 71730, Nov. 17, 2015; 80 FR 73085, Nov. 23, 2015; 82 FR 41561, Sept. 1, 2017; 85 FR 64409, Oct. 13, 2020; 88 FR 21448, Apr. 10, 2023]

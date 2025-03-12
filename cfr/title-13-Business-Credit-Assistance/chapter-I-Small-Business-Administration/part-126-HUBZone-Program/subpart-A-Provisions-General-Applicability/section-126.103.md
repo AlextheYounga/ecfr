@@ -1,5 +1,7 @@
 ##### § 126.103 What definitions are important in the HUBZone program? #####
 
+Link to an amendment published at 88 FR 21088, Apr. 10, 2023.
+
 *Administrator* means the Administrator of the United States Small Business Administration (SBA).
 
 *AA/BD* means SBA's Associate Administrator for Business Development.
@@ -146,7 +148,7 @@
 
 *Qualified disaster area.* (1) Qualified disaster area means any census tract or nonmetropolitan county located in an area where a major disaster declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170) has occurred or an area in which a catastrophic incident has occurred if such census tract or nonmetropolitan county ceased to be a qualified census tract or qualified nonmetropolitan county during the period beginning 5 years before the date on which the President declared the major disaster or the catastrophic incident occurred.
 
-(2) A census tract or nonmetropolitan county shall be considered to be a qualified disaster area only for the period of time ending on the date the area ceases to be a qualified census tract or a qualified nonmetropolitan county, in accordance with the publicly accessible online tool that depicts HUBZones, and beginning -
+(2) A census tract or nonmetropolitan county shall be considered to be a qualified disaster area only for the period of time ending on the date the area ceases to be a qualified census tract or a qualified nonmetropolitan county, in accordance with the publicly accessible online tool that depicts HUBZones, and beginning—
 
 (i) In the case of a major disaster, on the date on which the President declared the major disaster for the area in which the census tract or nonmetropolitan county, as applicable, is located; or
 

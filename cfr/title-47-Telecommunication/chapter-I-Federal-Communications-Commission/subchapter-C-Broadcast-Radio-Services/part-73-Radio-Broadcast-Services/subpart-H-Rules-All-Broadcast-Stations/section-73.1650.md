@@ -38,4 +38,6 @@
 
 (6) North American Regional Broadcasting Agreement (NARBA), which, for the United States, remains in effect with respect to the Dominican Republic and the Bahama Islands.
 
-The documents listed in this paragraph are available for inspection in the office of the Chief, Planning and Negotiations Division, International Bureau, FCC, Washington, DC. Copies may be purchased from the FCC Copy Contractor, whose name may be obtained from the FCC Consumer Assistance Office.[54 FR 39737, Sept. 28, 1989, as amended at 56 FR 64872, Dec. 12, 1991; 60 FR 5333, Jan. 27, 1995]
+(7) The documents listed in this paragraph (b) are available for inspection in the office of the Chief, Office of International Affairs, FCC, Washington, DC.
+
+[54 FR 39737, Sept. 28, 1989, as amended at 56 FR 64872, Dec. 12, 1991; 60 FR 5333, Jan. 27, 1995; 88 FR 21447, Apr. 10, 2023]

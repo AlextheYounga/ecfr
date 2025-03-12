@@ -1,0 +1,9 @@
+##### § 205.202 “Effective financing statement” or EFS. #####
+
+(a) An EFS under subsection (c)(4) need not be the same as a financing statement or security agreement under the Uniform Commercial Code (or equivalent document under future successor State law), but can be an entirely separate document meeting the definition in (c)(4). Note that (c)(4) contains a comprehensive definition of the term which does not include any requirement that the EFS be the instrument by which a security interest is created or perfected. Note also the House Committee Report on Pub. L. 99-198, No. 99-271, Part 1, September 13, 1985, at page 110: “[T]he bill would not preempt basic state-law rules on the creation, perfection, or priority of security interests.”
+
+(b) An EFS may be filed electronically provided a State allows electronic filing of financing statements without the signature of the debtor under applicable State law under provisions of the Uniform Commercial Code or may be a paper document. An electronically filed EFS need not be a paper document and need not be signed. If an original or reproduced paper document of an EFS is filed with the State, it must be signed, authorized, or otherwise authenticated by the debtor and be filed by the secured party.
+
+(c) Countermeasures against mishandling after filing, such as a requirement that a copy be date stamped and returned to the secured party, are discretionary with the State. If a State chooses to adopt such countermeasures, it is responsible for establishing procedures for recording the date and time when an EFS is received, and for meeting all legal requirements associated with filing and distributing information about security interests as required by § 205.101.
+
+(Approved by the Office of Management and Budget under control number 0580-0016)[51 FR 29451, Aug. 18, 1986, as amended at 61 FR 54728, Oct. 22, 1996; 71 FR 56343, Sept. 27, 2006]

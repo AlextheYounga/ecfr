@@ -4,7 +4,7 @@ Link to an amendment published at 87 FR 72404, Nov. 25, 2022.
 
 (a) Except as provided for in § 25.118 (Modifications not requiring prior authorization), no modification of a radio station governed by this part which affects the parameters or terms and conditions of the station authorization shall be made except upon application to and grant of such application by the Commission.
 
-(b) Both earth station and space station modification applications must be filed electronically through the International Bureau Filing System (IBFS) in accordance with the applicable provisions of part 1, subpart Y of this chapter.
+(b) Both earth station and space station modification applications must be filed electronically through the International Communications Filing System (ICFS) in accordance with the applicable provisions of part 1, subpart Y, of this chapter.
 
 (c) Applications for modification of earth station authorizations must be submitted on FCC Form 312, Main Form and Schedule B. Applications for modification of space station authorizations must be submitted on FCC Form 312, Main Form and Schedule S. Only those items that change need to be specified, provided that the applicant certifies that the remaining information has not changed.
 
@@ -42,4 +42,4 @@ Link to an amendment published at 87 FR 72404, Nov. 25, 2022.
 
 (2) Repositioning one or more antenna beams by no more than 0.3 angular degrees from a line between the space station and the initially authorized boresight location(s).
 
-[56 FR 24016, May 28, 1991, as amended at 61 FR 9952, Mar. 12, 1996; 62 FR 5928, Feb. 10, 1997; 68 FR 33649, June 5, 2003; 68 FR 47858, Aug. 12, 2003; 68 FR 51503, Aug. 27, 2003; 68 FR 62248, Nov. 3, 2003; 68 FR 63998, Nov. 12, 2003; 69 FR 47794, Aug. 6, 2004; 70 FR 32253, June 2, 2005; 72 FR 60279, Oct. 24, 2007; 78 FR 8421, Feb. 6, 2013; 81 FR 55328, Aug. 18, 2016; 85 FR 18150, Apr. 1, 2020; 85 FR 43733, July 20, 2020]
+[56 FR 24016, May 28, 1991, as amended at 61 FR 9952, Mar. 12, 1996; 62 FR 5928, Feb. 10, 1997; 68 FR 33649, June 5, 2003; 68 FR 47858, Aug. 12, 2003; 68 FR 51503, Aug. 27, 2003; 68 FR 62248, Nov. 3, 2003; 68 FR 63998, Nov. 12, 2003; 69 FR 47794, Aug. 6, 2004; 70 FR 32253, June 2, 2005; 72 FR 60279, Oct. 24, 2007; 78 FR 8421, Feb. 6, 2013; 81 FR 55328, Aug. 18, 2016; 85 FR 18150, Apr. 1, 2020; 85 FR 43733, July 20, 2020; 88 FR 21440, Apr. 10, 2023]

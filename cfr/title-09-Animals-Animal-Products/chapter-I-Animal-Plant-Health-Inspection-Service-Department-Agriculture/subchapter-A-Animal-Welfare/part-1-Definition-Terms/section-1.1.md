@@ -1,7 +1,5 @@
 ##### § 1.1 Definitions. #####
 
-Link to an amendment published at 88 FR 10712, Feb. 21, 2023.
-
 For the purposes of this subchapter, unless the context otherwise requires, the following terms shall have the meanings assigned to them in this section. The singular form shall also signify the plural and the masculine form shall also signify the feminine. Words undefined in the following paragraphs shall have the meaning attributed to them in general usage as reflected by definitions in a standard dictionary.
 
 *Act* means the Act of August 24, 1966 (Pub. L. 89-544), (commonly known as the Laboratory Animal Welfare Act), as amended by the Act of December 24, 1970 (Pub. L. 91-579), (the Animal Welfare Act of 1970), the Act of April 22, 1976 (Pub. L. 94-279), (the Animal Welfare Act of 1976), and the Act of December 23, 1985 (Pub. L. 99-198), (the Food Security Act of 1985), and as it may be subsequently amended.
@@ -14,7 +12,7 @@ For the purposes of this subchapter, unless the context otherwise requires, the 
 
 *Ambient temperature* means the air temperature surrounding the animal.
 
-*Animal* means any live or dead dog, cat, nonhuman primate, guinea pig, hamster, rabbit, or any other warmblooded animal, which is being used, or is intended for use for research, teaching, testing, experimentation, or exhibition purposes, or as a pet. This term excludes birds, rats of the genus *Rattus,* and mice of the genus *Mus,* bred for use in research; horses not used for research purposes; and other farm animals, such as, but not limited to, livestock or poultry used or intended for use as food or fiber, or livestock or poultry used or intended for use for improving animal nutrition, breeding, management, or production efficiency, or for improving the quality of food or fiber. With respect to a dog, the term means all dogs, including those used for hunting, security, or breeding purposes.
+*Animal* means any live or dead dog, cat, nonhuman primate, guinea pig, hamster, rabbit, or any other warmblooded animal, which is being used, or is intended for use for research, teaching, testing, experimentation, or exhibition purposes, or as a pet. This term excludes birds, rats of the genus *Rattus,* and mice of the genus *Mus,* bred for use in research; horses not used for research purposes; and other farm animals, such as, but not limited to, livestock or poultry used or intended for use as food or fiber, or livestock or poultry used or intended for use for improving animal nutrition, breeding, management, or production efficiency, or for improving the quality of food or fiber. This term also excludes falconry. With respect to a dog, the term means all dogs, including those used for hunting, security, or breeding purposes.
 
 *Animal act* means any performance of animals where such animals are trained to perform some behavior or action or are part of a show, performance, or exhibition.
 
@@ -22,13 +20,17 @@ For the purposes of this subchapter, unless the context otherwise requires, the 
 
 *Attending veterinarian* means a person who has graduated from a veterinary school accredited by the American Veterinary Medical Association's Council on Education, or has a certificate issued by the American Veterinary Medical Association's Education Commission for Foreign Veterinary Graduates, or has received equivalent formal education as determined by the Administrator; has received training and/or experience in the care and management of the species being attended; and who has direct or delegated authority for activities involving animals at a facility subject to the jurisdiction of the Secretary.
 
+*Bird* means any member of the class Aves, excluding eggs, but including birds once the hatching process commences.
+
+*Bred for use in research* means an animal that is bred in captivity and used for research, teaching, testing, or experimentation purposes.
+
 *Buffer area* means that area in a primary enclosure for a swim-with-the-dolphin program that is off-limits to members of the public and that directly abuts the interactive area.
 
 *Business hours* means a reasonable number of hours between 7 a.m. and 7 p.m. each week of the year, during which inspections by APHIS may be made.
 
 *Business year* means the 12-month period during which business is conducted, and may be either on a calendar or fiscal-year basis.
 
-*Carrier* means the operator of any airline, railroad, motor carrier, shipping line, or other enterprise which is engaged in the business of transporting any animals for hire.
+*Carrier* means the operator of any airline, railroad, motor carrier, shipping line, or other enterprise which is engaged in the business of transporting any animals for hire. Except anyone transporting a migratory bird covered under the Migratory Bird Treaty Act from the wild to a facility for rehabilitation and eventual release in the wild, or between rehabilitation facilities, and has obtained authorization from the U.S. Fish and Wildlife Service for that purpose, is not a “carrier”.
 
 *Cat* means any live or dead cat (Felis catus) or any cat-hybrid cross.
 
@@ -60,11 +62,11 @@ For the purposes of this subchapter, unless the context otherwise requires, the 
 
 *Euthanasia* means the humane destruction of an animal accomplished by a method that produces rapid unconsciousness and subsequent death without evidence of pain or distress, or a method that utilizes anesthesia produced by an agent that causes painless loss of consciousness and subsequent death
 
-*Exhibitor* means any person (public or private) exhibiting any animals, which were purchased in commerce or the intended distribution of which affects commerce, or will affect commerce, to the public for compensation, as determined by the Secretary. This term includes carnivals, circuses, animal acts, zoos, and educational exhibits, exhibiting such animals whether operated for profit or not. This term excludes retail pet stores, horse and dog races, an owner of a common, domesticated household pet who derives less than a substantial portion of income from a nonprimary source (as determined by the Secretary) for exhibiting an animal that exclusively resides at the residence of the pet owner, organizations sponsoring and all persons participating in State and country fairs, livestock shows, rodeos, field trials, coursing events, purebred dog and cat shows, and any other fairs or exhibitions intended to advance agricultural arts and sciences, as may be determined by the Secretary.
+*Exhibitor* means any person (public or private) exhibiting any animals, which were purchased in commerce or the intended distribution of which affects commerce, or will affect commerce, to the public for compensation, as determined by the Secretary. This term includes carnivals, circuses, animal acts (including free-flighted bird shows), zoos, and educational exhibits, exhibiting such animals whether operated for profit or not. This term excludes retail pet stores, horse, dog, and pigeon races, an owner of a common, domesticated household pet who derives less than a substantial portion of income from a nonprimary source (as determined by the Secretary) for exhibiting an animal that exclusively resides at the residence of the pet owner, organizations sponsoring and all persons participating in State and country fairs, livestock shows, rodeos, field trials, coursing events, falconry, purebred dog and cat shows, bird fancier shows, and any other fairs or exhibitions intended to advance agricultural arts and sciences, as may be determined by the Secretary.
 
 *Exotic animal* means any animal not identified in the definition of “animal” provided in this part that is native to a foreign country or of foreign origin or character, is not native to the United States, or was introduced from abroad. This term specifically includes animals such as, but not limited to, lions, tigers, leopards, elephants, camels, antelope, anteaters, kangaroos, and water buffalo, and species of foreign domestic cattle, such as Ankole, Gayal, and Yak.
 
-*Farm animal* means any domestic species of cattle, sheep, swine, goats, llamas, or horses, which are normally and have historically, been kept and raised on farms in the United States, and used or intended for use as food or fiber, or for improving animal nutrition, breeding, management, or production efficiency, or for improving the quality of food or fiber. This term also includes animals such as rabbits, mink, and chinchilla, when they are used solely for purposes of meat or fur, and animals such as horses and llamas when used solely as work and pack animals.
+*Farm animal* means any domestic species of cattle, sheep, swine, goats, llamas, horses, or poultry, which are normally and have historically been kept and raised on farms in the United States and used or intended for use as food or fiber, or for improving animal nutrition, breeding, management, or production efficiency, or for improving the quality of food or fiber. This term also includes animals such as rabbits, mink, chinchilla, and ratites when they are used solely for purposes of meat, fur, feathers, or skin, and animals such as horses and llamas when used solely as work and pack animals.
 
 *Federal agency* means an Executive agency as such term is defined in section 105 of title 5, United States Code, and with respect to any research facility means the agency from which the research facility receives a Federal award for the conduct of research, experimentation, or testing involving the use of animals.
 
@@ -94,7 +96,7 @@ For the purposes of this subchapter, unless the context otherwise requires, the 
 
 *Interactive session* means a swim-with-the-dolphin program session where members of the public enter a primary enclosure to interact with cetaceans.
 
-*Intermediate handler* means any person, including a department, agency, or instrumentality of the United States or of any State or local government (other than a dealer, research facility, exhibitor, any person excluded from the definition of a dealer, research facility, or exhibitor, an operator of an auction sale, or a carrier), who is engaged in any business in which he receives custody of animals in connection with their transportation in commerce.
+*Intermediate handler* means any person, including a department, agency, or instrumentality of the United States or of any State or local government (other than a dealer, research facility, exhibitor, any person excluded from the definition of a dealer, research facility, or exhibitor, an operator of an auction sale, or a carrier), who is engaged in any business in which he receives custody of animals in connection with their transportation in commerce. Except anyone transporting a migratory bird covered under the Migratory Bird Treaty Act from the wild to a facility for rehabilitation and eventual release in the wild, or between rehabilitation facilities, and has obtained authorization from the U.S. Fish and Wildlife Service for that purpose, is not an “intermediate handler”.
 
 *Inspector* means any person employed by the Department who is authorized to perform a function under the Act and the regulations in 9 CFR parts 1, 2, and 3.
 
@@ -126,9 +128,11 @@ For the purposes of this subchapter, unless the context otherwise requires, the 
 
 *Person* means any individual, partnership, firm, joint stock company, corporation, association, trust, estate, or other legal entity.
 
-*Pet animal* means any animal that has commonly been kept as a pet in family households in the United States, such as dogs, cats, guinea pigs, rabbits, and hamsters. This term excludes exotic animals and wild animals.
+*Pet animal* means any animal that has commonly been kept as a pet in family households in the United States, such as dogs, cats, guinea pigs, rabbits, hamsters, and birds. This term also includes but is not limited to such birds as canaries, cockatiels, lovebirds, and budgerigar parakeets. This term excludes exotic animals and wild animals.
 
 *Positive physical contact* means petting, stroking, or other touching, which is beneficial to the well-being of the animal.
+
+*Poultry* means any species of chickens, turkeys, swans, partridges, guinea fowl, and pea fowl; ducks, geese, pigeons, and doves; grouse, pheasants, and quail.
 
 *Pound or shelter* means a facility that accepts and/or seizes animals for the purpose of caring for them, placing them through adoption, or carrying out law enforcement, whether or not the facility is operated for profit.
 
@@ -150,11 +154,11 @@ For the purposes of this subchapter, unless the context otherwise requires, the 
 
 (1) Establishments or persons who deal in dogs used for hunting, security, or breeding purposes;
 
-(2) Establishments or persons exhibiting, selling, or offering to exhibit or sell any wild or exotic or other nonpet species of warmblooded animals (except birds), such as skunks, raccoons, nonhuman primates, squirrels, ocelots, foxes, coyotes, etc.;
+(2) Establishments or persons exhibiting, selling, or offering to exhibit or sell any wild or exotic or other nonpet species of warmblooded animals such as skunks, raccoons, nonhuman primates, squirrels, ocelots, foxes, coyotes, etc.;
 
-(3) Any establishment or person selling warmblooded animals (except birds, and laboratory rats and mice) for research or exhibition purposes;
+(3) Any establishment or person selling warmblooded animals (except laboratory rats and mice) for research or exhibition purposes;
 
-(4) Any establishment wholesaling any animals (except birds, rats, and mice); and
+(4) Any establishment wholesaling any animals (except rats and mice); and
 
 (5) Any establishment exhibiting pet animals in a room that is separate from or adjacent to the retail pet store, or in an outside area, or anywhere off the retail pet store premises.
 
@@ -178,7 +182,7 @@ For the purposes of this subchapter, unless the context otherwise requires, the 
 
 *Transporting vehicle* means any truck, car, trailer, airplane, ship, or railroad car used for transporting animals.
 
-*Weaned* means that an animal has become accustomed to take solid food and has so done, without nursing, for a period of at least 5 days.
+*Weaned* means that a mammal has become accustomed to take solid food and has so done, without nursing, for a period of at least 5 consecutive days; or that a bird has become accustomed to take food and has so done, without supplemental feeding from a parent or human caretaker, for a period of at least 5 consecutive days.
 
 *Wild animal* means any animal which is now or historically has been found in the wild, or in the wild state, within the boundaries of the United States, its territories, or possessions. This term includes, but is not limited to, animals such as: Deer, skunk, opossum, raccoon, mink, armadillo, coyote, squirrel, fox, wolf.
 
@@ -186,4 +190,4 @@ For the purposes of this subchapter, unless the context otherwise requires, the 
 
 *Zoo* means any park, building, cage, enclosure, or other structure or premise in which a live animal or animals are kept for public exhibition or viewing, regardless of compensation.
 
-[54 FR 36119, Aug. 31, 1989, as amended at 55 FR 12631, Apr. 5, 1990; 58 FR 39129, July 22, 1993; 62 FR 43275, Aug. 13, 1997; 63 FR 47148, Sept. 4, 1998; 63 FR 62926, Nov. 10, 1998; 65 FR 6314, Feb. 9, 2000; 68 FR 12285, Mar. 14, 2003; 69 FR 31514, June 4, 2004; 69 FR 42099, July 14, 2004; 78 FR 57249, Sept. 18, 2013; 83 FR 25554, June 4, 2018; 85 FR 28795, May 13, 2020]Effective Date Note:At 64 FR 15920, Apr. 2, 1999, the definitions of *buffer area, interactive area, interactive session, sanctuary area,* and *swim-with-the-dolphin (SWTD) program* were suspended, effective Apr. 2, 1999.
+[54 FR 36119, Aug. 31, 1989, as amended at 55 FR 12631, Apr. 5, 1990; 58 FR 39129, July 22, 1993; 62 FR 43275, Aug. 13, 1997; 63 FR 47148, Sept. 4, 1998; 63 FR 62926, Nov. 10, 1998; 65 FR 6314, Feb. 9, 2000; 68 FR 12285, Mar. 14, 2003; 69 FR 31514, June 4, 2004; 69 FR 42099, July 14, 2004; 78 FR 57249, Sept. 18, 2013; 83 FR 25554, June 4, 2018; 85 FR 28795, May 13, 2020; 88 FR 10712, Feb. 21, 2023]Effective Date Note:At 64 FR 15920, Apr. 2, 1999, the definitions of *buffer area, interactive area, interactive session, sanctuary area,* and *swim-with-the-dolphin (SWTD) program* were suspended, effective Apr. 2, 1999.

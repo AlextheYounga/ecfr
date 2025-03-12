@@ -1,7 +1,5 @@
 ##### § 2.50 Time and method of identification. #####
 
-Link to an amendment published at 88 FR 10714, Feb. 21, 2023.
-
 (a) A class “A” dealer (breeder) shall identify all live dogs and cats on the premises as follows:
 
 (1) All live dogs and cats held on the premises, purchased, or otherwise acquired, sold or otherwise disposed of, or removed from the premises for delivery to a research facility or exhibitor or to another dealer, or for sale, through an auction sale or to any person for use as a pet, shall be identified by an official tag of the type described in § 2.51 affixed to the animal's neck by means of a collar made of material generally considered acceptable to pet owners as a means of identifying their pet dogs or cats2, or shall be identified by a distinctive and legible tattoo marking acceptable to and approved by the Administrator.
@@ -54,7 +52,23 @@ Link to an amendment published at 88 FR 10714, Feb. 21, 2023.
 
 (e)(1) All animals, except dogs and cats, delivered for transportation, transported, purchased, sold, or otherwise acquired or disposed of by any dealer or exhibitor shall be identified by the dealer or exhibitor at the time of delivery for transportation, purchase, sale, acquisition or disposal, as provided for in this paragraph and in records maintained as required in §§ 2.75 and 2.77.
 
-(2) When one or more animals, other than dogs or cats, are confined in a primary enclosure, the animal(s) shall be identified by:
+(2) When one or more birds are confined in a primary enclosure, the bird shall be identified by:
+
+(i) A label attached to the primary enclosure which shall bear a description of the birds in the primary enclosure, including:
+
+(A) The number of birds;
+
+(B) The species of the birds;
+
+(C) Any distinctive physical features of the birds; and
+
+(D) Any identifying marks on the birds; or
+
+(ii) A leg or wing band applied to each bird in the primary enclosure by the dealer or exhibitor that individually identifies each bird by description or number; or
+
+(iii) A transponder (microchip) placed in a standard anatomical location for the species in accordance with professionally accepted standards, provided that the receiving facility has a compatible transponder (microchip) reader that is capable of reading the transponder (microchip) and that the reader is readily available for use by an APHIS official and/or facility employee accompanying the APHIS official.
+
+(3) When one or more animals, other than dogs, cats, or birds, are confined in a primary enclosure, the animal(s) shall be identified by:
 
 (i) A label attached to the primary enclosure which shall bear a description of the animals in the primary enclosure, including:
 
@@ -76,4 +90,6 @@ Link to an amendment published at 88 FR 10714, Feb. 21, 2023.
 
 (iii) A tag or tattoo applied to each animal in the primary enclosure by the dealer or exhibitor which individually identifies each animal by description or number.
 
-(3) When any animal, other than a dog or cat, is not confined in a primary enclosure, it shall be identified on a record, as required by § 2.75, which shall accompany the animal at the time it is delivered for transportation, transported, purchased, or sold, and shall be kept and maintained by the dealer or exhibitor as part of his or her records.
+(4) When any animal, other than a dog or cat, is not confined in a primary enclosure, it shall be identified on a record, as required by § 2.75, which shall accompany the animal at the time it is delivered for transportation, transported, purchased, or sold, and shall be kept and maintained by the dealer or exhibitor as part of his or her records.
+
+(Approved by the Office of Management and Budget under control numbers 0579-0036 and 0579-0486)[54 FR 36147, Aug. 31, 1989, as amended at 88 FR 10714, Feb. 21, 2023]

@@ -14,7 +14,7 @@ The Defense Commissioner is designated by the Commission. The Defense Commission
 
 (f) To take such measures as will assure continuity of the Commission's functions under any foreseeable circumstances with a minimum of interruption. In the event of an emergency, the Defense Commissioner, in consultation with the Chief, Public Safety and Homeland Security Bureau, will decide whether to activate the Commission's Continuity of Operations (COOP) plan and/or initiate the Commission's emergency response procedures.
 
-(g) In the event of enemy attack, or the imminent threat thereof, or other disaster resulting in the inability of the Commission to function at its offices in Washington, D.C., to assume all of the duties and responsibilities of the Commission and the Chairman, until relieved or augmented by other Commissioners or members of the staff, as set forth in §§ 0.186 and 0.383.
+(g) In the event of enemy attack, or the imminent threat thereof, or other disaster resulting in the inability of the Commission to function at its offices in Washington, DC, to assume all of the duties and responsibilities of the Commission and the Chairperson, until relieved or augmented by other Commissioners or members of the staff, as set forth in §§ 0.186 and 0.383.
 
 (h) To approve national emergency plans and develop preparedness programs covering: provision of service by common carriers; broadcasting and cable facilities, satellite and the wireless radio services; radio frequency assignment; electromagnetic radiation; investigation and enforcement.
 
@@ -22,4 +22,4 @@ The Defense Commissioner is designated by the Commission. The Defense Commission
 
 (j) The Commission may designate an Alternate Defense Commissioner who is authorized to perform the functions of the Defense Commissioner if he or she is not available.
 
-[29 FR 14664, Oct. 28, 1964, as amended at 41 FR 31209, July 27, 1976; 64 FR 60720, Nov. 8, 1999; 69 FR 32033, May 27, 2004; 71 FR 69035, Nov. 29, 2006; 72 FR 48842, Aug. 24, 2007; 77 FR 62462, Oct. 15, 2012]
+[29 FR 14664, Oct. 28, 1964, as amended at 41 FR 31209, July 27, 1976; 64 FR 60720, Nov. 8, 1999; 69 FR 32033, May 27, 2004; 71 FR 69035, Nov. 29, 2006; 72 FR 48842, Aug. 24, 2007; 77 FR 62462, Oct. 15, 2012; 88 FR 21429, Apr. 10, 2023]

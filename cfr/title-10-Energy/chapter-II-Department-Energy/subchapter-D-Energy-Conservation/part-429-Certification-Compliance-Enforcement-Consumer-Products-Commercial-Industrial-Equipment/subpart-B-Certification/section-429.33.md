@@ -1,6 +1,6 @@
 ##### § 429.33 Ceiling fan light kits. #####
 
-Note 1 to § 429.33:
+Link to an amendment published at 88 FR 21072, Apr. 10, 2023.Note 1 to § 429.33:
 
 Prior to February 17, 2023, certification reports must be submitted as required either in this section or 10 CFR 429.33 as it appears in the 10 CFR parts 200 through 499 edition revised as of January 1, 2022. On or after February 17, 2023, certification reports must be submitted as required in this section.
 

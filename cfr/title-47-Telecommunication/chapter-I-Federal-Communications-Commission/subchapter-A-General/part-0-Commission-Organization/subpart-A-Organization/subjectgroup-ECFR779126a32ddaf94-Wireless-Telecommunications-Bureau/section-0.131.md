@@ -10,7 +10,7 @@ The Wireless Telecommunications Bureau develops, recommends and administers the 
 
 (d) Regulates the charges, practices, classifications, terms and conditions for, and facilities used to provide, wireless telecommunications services. Develops and recommends consistent, integrated policies, programs and rules for the regulation of commercial mobile radio services and private mobile radio services.
 
-(e) Develops and recommends policy, rules, standards, procedures and forms for the authorization and regulation of wireless telecommunications facilities and services, including all facility authorization applications involving domestic terrestrial transmission facilities. Coordinates with and assists the International Bureau regarding frequency assignment, coordination and interference matters.
+(e) Develops and recommends policy, rules, standards, procedures and forms for the authorization and regulation of wireless telecommunications facilities and services, including all facility authorization applications involving domestic terrestrial transmission facilities. Coordinates with and assists the Space Bureau regarding frequency assignment, coordination and interference matters.
 
 (f) Develops and recommends responses to legislative, regulatory or judicial inquiries and proposals concerning or affecting wireless telecommunications.
 
@@ -22,7 +22,7 @@ The Wireless Telecommunications Bureau develops, recommends and administers the 
 
 (j) Administers the Commission's commercial radio operator program (part 13 of this chapter); the Commission's program for registration, construction, marking and lighting of antenna structures (part 17 of this chapter), and the Commission's privatized ship radio inspection program (part 80 of this chapter).
 
-(k) Coordinates with and assists the International Bureau with respect to treaty activities and international conferences concerning wireless telecommunications.
+(k) Coordinates with and assists the Office of International Affairs with respect to treaty activities and international conferences concerning wireless telecommunications and standards.
 
 (l) Exercises such authority as may be assigned, delegated or referred to it by the Commission.
 
@@ -42,4 +42,4 @@ The Wireless Telecommunications Bureau develops, recommends and administers the 
 
 (2) Grants emergency exemption requests, extensions or waivers of inspection to ships in accordance with applicable provisions of the Communications Act, the Safety Convention, the Great Lakes Agreement or the Commission's rules.
 
-[60 FR 35505, July 10, 1995, as amended at 61 FR 4361, Feb. 6, 1996; 62 FR 17567, Apr. 10, 1997; 64 FR 60718, Nov. 8, 1999; 65 FR 375, Jan. 5, 2000; 67 FR 13219, Mar. 21, 2002; 69 FR 24997, May 5, 2004; 71 FR 69035, Nov. 29, 2006; 76 FR 73851, Nov. 29, 2011; 78 FR 23151, Apr. 18, 2013; 78 FR 32165, May 29, 2013; 83 FR 63076, Dec. 7, 2018; 85 FR 34526, June 5, 2020]
+[60 FR 35505, July 10, 1995, as amended at 61 FR 4361, Feb. 6, 1996; 62 FR 17567, Apr. 10, 1997; 64 FR 60718, Nov. 8, 1999; 65 FR 375, Jan. 5, 2000; 67 FR 13219, Mar. 21, 2002; 69 FR 24997, May 5, 2004; 71 FR 69035, Nov. 29, 2006; 76 FR 73851, Nov. 29, 2011; 78 FR 23151, Apr. 18, 2013; 78 FR 32165, May 29, 2013; 83 FR 63076, Dec. 7, 2018; 85 FR 34526, June 5, 2020; 88 FR 21429, Apr. 10, 2023]

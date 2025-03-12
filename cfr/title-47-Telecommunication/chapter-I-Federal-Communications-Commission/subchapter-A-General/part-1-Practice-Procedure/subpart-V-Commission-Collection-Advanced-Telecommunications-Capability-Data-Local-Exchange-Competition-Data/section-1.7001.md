@@ -80,7 +80,7 @@
 
 (3) Respondents seeking confidential treatment of any other data contained in FCC Form 477 must submit a request that the data be treated as confidential with the submission of their Form 477 filing, along with their reasons for withholding the information from the public, pursuant to § 0.459 of this chapter.
 
-(4) The Commission shall make all decisions regarding non-disclosure of provider-specific information, except that the Chiefs of the International Bureau, Wireless Telecommunications Bureau, Wireline Competition Bureau, or Office of Economics and Analytics may release provider-specific information to:
+(4) The Commission shall make all decisions regarding non-disclosure of provider-specific information, except that the Chiefs of the Office of International Affairs, Space Bureau, Wireless Telecommunications Bureau, Wireline Competition Bureau, or Office of Economics and Analytics may release provider-specific information to:
 
 (i) A state commission, provided that the state commission has protections in place that would preclude disclosure of any confidential information,
 
@@ -92,4 +92,4 @@
 
 (f) Failure to file the FCC Form 477 in accordance with the Commission's rules and the instructions to the Form 477 may lead to enforcement action pursuant to the Act and any other applicable law.
 
-[65 FR 19684, Apr. 12, 2000; 65 FR 24654, Apr. 27, 2000, as amended at 67 FR 13224, Mar. 21, 2002; 69 FR 77938, Dec. 29, 2004; 69 FR 72027, Dec. 10, 2004; 73 FR 37881, July 2, 2008; 78 FR 45470, July 29, 2013; 78 FR 49148, Aug. 13, 2013; 84 FR 43723, Aug. 22, 2019; 85 FR 838, Jan. 8, 2020; 85 FR 50907, Aug. 18, 2020; 86 FR 18159, Apr. 7, 2021; 87 FR 21509, Apr. 11, 2022]
+[65 FR 19684, Apr. 12, 2000; 65 FR 24654, Apr. 27, 2000, as amended at 67 FR 13224, Mar. 21, 2002; 69 FR 77938, Dec. 29, 2004; 69 FR 72027, Dec. 10, 2004; 73 FR 37881, July 2, 2008; 78 FR 45470, July 29, 2013; 78 FR 49148, Aug. 13, 2013; 84 FR 43723, Aug. 22, 2019; 85 FR 838, Jan. 8, 2020; 85 FR 50907, Aug. 18, 2020; 86 FR 18159, Apr. 7, 2021; 87 FR 21509, Apr. 11, 2022; 88 FR 21435, Apr. 10, 2023]

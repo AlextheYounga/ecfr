@@ -1,7 +1,5 @@
 ##### § 2.126 Access and inspection of records and property; submission of itineraries. #####
 
-Link to an amendment published at 88 FR 10714, Feb. 21, 2023.
-
 (a) Each dealer, exhibitor, intermediate handler, or carrier, shall, during business hours, allow APHIS officials:
 
 (1) To enter its place of business;
@@ -28,4 +26,4 @@ Link to an amendment published at 88 FR 10714, Feb. 21, 2023.
 
 (2) The itinerary shall be revised as necessary, and the Deputy Administrator shall be notified of any changes. If initial notification of a change due to an emergency is made by a means other than email or facsimile, it shall be followed by written documentation at the earliest possible time. For changes that occur after normal APHIS business hours, the change shall be conveyed to the Deputy Administrator no later than the following APHIS business day. APHIS Regional offices are available each weekday, except on Federal holidays, from 8 a.m. to 5 p.m.
 
-(Approved by the Office of Management and Budget under control number 0579-0361)[54 FR 36147, Aug. 31, 1989, as amended at 69 FR 42102, July 14, 2004; 77 FR 76814, Dec. 31, 2012; 85 FR 28798, May 13, 2020]
+(Approved by the Office of Management and Budget under control numbers 0579-0036 and 0579-0486)[54 FR 36147, Aug. 31, 1989, as amended at 69 FR 42102, July 14, 2004; 77 FR 76814, Dec. 31, 2012; 85 FR 28798, May 13, 2020; 88 FR 10714, Feb. 21, 2023]

@@ -1,0 +1,3 @@
+##### § 117.14 Intimidating or retaliatory acts prohibited. #####
+
+No complainant, recipient or other person shall intimidate, threaten, coerce, or discriminate against any individual for the purpose of interfering with any right or privilege secured by this part or because an individual or group has made a complaint, testified, assisted, or participated in any manner in an investigation, review, enforcement process, or hearing under this part. The identity of complainants shall be kept confidential except to the extent necessary to carry out the purposes of this part, including the conduct of any investigation, hearing, mediation, or judicial proceeding.

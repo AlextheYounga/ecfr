@@ -20,7 +20,8 @@ Any person desiring to inspect Commission records that are not specified in § 0
 
 (d)(1) Requests shall be:
 
-(i) Filed electronically through the internet at *http://foiaonline.regulations.gov/;* or
+(i) Filed electronically through the internet at *https://www.foiaonline.gov/foiaonline/action/public/home;* or
+or
 
 (ii) Delivered or mailed to the Managing Director at the address indicated in § 0.401(a), Attn: FOIA Request.
 
@@ -128,4 +129,4 @@ The General Counsel may review applications for review with the custodian of rec
 
 (m) Staff orders and letters ruling on requests for inspection are signed by the official (or officials) who give final approval of their contents. Decisions of the Commission ruling on applications for review will set forth the names of the Commissioners participating in the decision.
 
-[82 FR 4192, Jan. 13, 2017, as amended at 85 FR 64405, Oct. 13, 2020]
+[82 FR 4192, Jan. 13, 2017, as amended at 85 FR 64405, Oct. 13, 2020; 88 FR 21433, Apr. 10, 2023]

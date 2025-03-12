@@ -1,6 +1,6 @@
 ##### § 25.118 Modifications not requiring prior authorization. #####
 
-(a) *Earth station modifications, notification required.* Earth station licensees may make the following modifications without prior Commission authorization, provided they notify the Commission, using FCC Form 312 and Schedule B, within 30 days of the modification. The notification must be filed electronically through the International Bureau Filing System (IBFS) in accordance with the applicable provisions of part 1, subpart Y of this chapter.
+(a) *Earth station modifications, notification required.* Earth station licensees may make the following modifications without prior Commission authorization, provided they notify the Commission, using FCC Form 312 and Schedule B, within 30 days of the modification. The notification must be filed electronically through the International Communications Filing System (ICFS) in accordance with the applicable provisions of part 1, subpart Y of this chapter.
 
 (1) Blanket-licensed earth station operators may add remote terminals operating on a primary basis without prior authorization, provided they have complied with all applicable frequency coordination procedures in accordance with § 25.251.
 
@@ -38,7 +38,7 @@
 
 (c)-(d) [Reserved]
 
-(e) *Relocation of GSO space stations.* A space station licensee may relocate a GSO space station without prior authorization, but upon 30 days prior notice to the Commission and any potentially affected licensed spectrum user, provided that the operator meets the following requirements. The notification must be filed electronically on FCC Form 312 through the International Bureau Filing System (IBFS) in accordance with the applicable provisions of part 1, subpart Y of this chapter:
+(e) *Relocation of GSO space stations.* A space station licensee may relocate a GSO space station without prior authorization, but upon 30 days prior notice to the Commission and any potentially affected licensed spectrum user, provided that the operator meets the following requirements. The notification must be filed electronically on FCC Form 312 through the International Communications Filing System (ICFS) in accordance with the applicable provisions of part 1, subpart Y of this chapter:
 
 (1) The space station will be relocated to a position within ±0.15° of an orbital location assigned to the same licensee.
 
@@ -60,7 +60,7 @@
 
 (8) If the space station to be relocated is a DBS space station, the licensee certifies that it will meet the geographic service requirements in § 25.148(c) after the relocation.
 
-(f) *Repositioning of NGSO space stations.* A licensee may reposition NGSO space stations within an authorized orbital plane without prior Commission approval, provided the licensee notifies the Commission of the repositioning 10 days in advance by electronic filing on Form 312 in the International Bureau Filing System. The notification must specify all changes in previously authorized parameters and must certify the following:
+(f) *Repositioning of NGSO space stations.* A licensee may reposition NGSO space stations within an authorized orbital plane without prior Commission approval, provided the licensee notifies the Commission of the repositioning 10 days in advance by electronic filing on Form 312 in the International Communications Filing System. The notification must specify all changes in previously authorized parameters and must certify the following:
 
 (1) The licensee will continue to comply with the conditions of the space station license and all applicable Commission rules, including geographic coverage requirements, after the repositioning;
 
@@ -72,4 +72,4 @@
 
 (5) Any change of orbital altitude entailed by the repositioning will not exceed 10 kilometers in extent or 30 days in duration and the licensee has notified, or will notify, the operator(s) of any satellite within 20 kilometers of the interim orbit at least 10 days before commencing the repositioning maneuver.
 
-[62 FR 5928, Feb. 10, 1997, as amended at 68 FR 62248, Nov. 3, 2003; 68 FR 63999, Nov. 12, 2003; 69 FR 47794, Aug. 6, 2004; 70 FR 32253, June 2, 2005; 79 FR 8317, Feb. 12, 2014; 81 FR 55329, Aug. 18, 2016; 86 FR 11887, Mar. 1, 2021]
+[62 FR 5928, Feb. 10, 1997, as amended at 68 FR 62248, Nov. 3, 2003; 68 FR 63999, Nov. 12, 2003; 69 FR 47794, Aug. 6, 2004; 70 FR 32253, June 2, 2005; 79 FR 8317, Feb. 12, 2014; 81 FR 55329, Aug. 18, 2016; 86 FR 11887, Mar. 1, 2021; 88 FR 21440, Apr. 10, 2023]

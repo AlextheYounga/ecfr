@@ -1,7 +1,5 @@
 ##### § 2.38 Miscellaneous. #####
 
-Link to an amendment published at 88 FR 10713, Feb. 21, 2023.
-
 (a) *Information as to business: furnishing of same by research facilities.* Each research facility shall furnish to any APHIS official any information concerning the business of the research facility which the APHIS official may request in connection with the enforcement of the provisions of the Act, the regulations, and the standards in this subchapter. The information shall be furnished within a reasonable time and as may be specified in the request for information.
 
 (b) *Access and inspection of records and property.* (1) Each research facility shall, during business hours, allow APHIS officials:
@@ -118,4 +116,4 @@ Link to an amendment published at 88 FR 10713, Feb. 21, 2023.
 
 (3) The facility must provide training for its personnel regarding their roles and responsibilities as outlined in the plan. For current registrants, training of facility personnel must be completed within 60 days of the research facility putting their plan in place; for research facilities registered after July 5, 2022, training of facility personnel must be completed within 60 days of the facility putting its contingency plan in place. This deadline applies to employees hired before and up to 30 days after the facility puts its contingency plan in place. For employees hired more than 30 days after the facility puts its contingency plan in place, training must be conducted within 30 days of their start date. Any substantive changes to the plan as a result of the annual review must be communicated to employees through training which must be conducted within 30 days of making the changes.
 
-(Approved by the Office of Management and Budget under control number 0579-0479)[54 FR 36147, Aug. 31, 1989, as amended at 58 FR 39129, July 22, 1993; 59 FR 67612, Dec. 30, 1994; 60 FR 13895, Mar. 15, 1995; 63 FR 62926, Nov. 10, 1998; 69 FR 42101, July 14, 2004; 77 FR 76823, Dec. 31, 2012; 85 FR 28797, May 13, 2020; 86 FR 68537, Dec. 3, 2021]
+(Approved by the Office of Management and Budget under control numbers 0579-0036, 0579-0479, and 0579-0486)[54 FR 36147, Aug. 31, 1989, as amended at 58 FR 39129, July 22, 1993; 59 FR 67612, Dec. 30, 1994; 60 FR 13895, Mar. 15, 1995; 63 FR 62926, Nov. 10, 1998; 69 FR 42101, July 14, 2004; 77 FR 76823, Dec. 31, 2012; 85 FR 28797, May 13, 2020; 86 FR 68537, Dec. 3, 2021; 88 FR 10713, Feb. 21, 2023]

@@ -1,0 +1,9 @@
+##### § 3.126 Facilities, indoor. #####
+
+(a) *Ambient temperatures.* Temperature in indoor housing facilities shall be sufficiently regulated by heating or cooling to protect the animals from the extremes of temperature, to provide for their health and to prevent their discomfort. The ambient temperature shall not be allowed to fall below nor rise above temperatures compatible with the health and comfort of the animal.
+
+(b) *Ventilation.* Indoor housing facilities shall be adequately ventilated by natural or mechanical means to provide for the health and to prevent discomfort of the animals at all times. Such facilities shall be provided with fresh air either by means of windows, doors, vents, fans, or air-conditioning and shall be ventilated so as to minimize drafts, odors, and moisture condensation.
+
+(c) *Lighting.* Indoor housing facilities shall have ample lighting, by natural or artificial means, or both, of good quality, distribution, and duration as appropriate for the species involved. Such lighting shall be uniformly distributed and of sufficient intensity to permit routine inspection and cleaning. Lighting of primary enclosures shall be designed to protect the animals from excessive illumination.
+
+(d) *Drainage.* A suitable sanitary method shall be provided to eliminate rapidly, excess water from indoor housing facilities. If drains are used, they shall be properly constructed and kept in good repair to avoid foul odors and installed so as to prevent any backup of sewage. The method of drainage shall comply with applicable Federal, State, and local laws and regulations relating to pollution control or the protection of the environment.

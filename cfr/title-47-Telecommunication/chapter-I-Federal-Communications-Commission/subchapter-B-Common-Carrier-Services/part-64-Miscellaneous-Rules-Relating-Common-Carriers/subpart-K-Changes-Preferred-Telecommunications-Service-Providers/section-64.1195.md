@@ -6,7 +6,7 @@
 
 (1) The carrier's business name(s) and primary address;
 
-(2) The names and business addresses of the carrier's chief executive officer, chairman, and president, or, in the event that a company does not have such executives, three similarly senior-level officials of the company;
+(2) The names and business addresses of the carrier's chief executive officer, chairperson, and president, or, in the event that a company does not have such executives, three similarly senior-level officials of the company;
 
 (3) The carrier's regulatory contact and/or designated agent;
 
@@ -26,4 +26,4 @@
 
 (h) *Duty to confirm registration of other carriers.* The Commission shall make available to the public a comprehensive listing of registrants and the information that they have provided pursuant to paragraph (b) of this section. A telecommunications carrier providing telecommunications service for resale shall have an affirmative duty to ascertain whether a potential carrier-customer (*i.e.,* reseller) that is subject to the registration requirement pursuant to paragraph (a) of this section has filed an FCC Form 499-A with the Commission prior to offering service to that carrier-customer. After notice and opportunity to respond, the Commission may impose a fine on a carrier for failure to confirm the registration status of a potential carrier-customer before providing that carrier-customer with service.
 
-[66 FR 12894, Mar. 1, 2001]
+[66 FR 12894, Mar. 1, 2001, as amended at 88 FR 21445, Apr. 10, 2023]

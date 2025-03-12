@@ -1,5 +1,7 @@
 ##### § 120.150 What are SBA's lending criteria? #####
 
+Link to an amendment published at 88 FR 21085, Apr. 10, 2023.
+
 The applicant (including an Operating Company) must be creditworthy. Loans must be so sound as to reasonably assure repayment. SBA will consider:
 
 (a) Character, reputation, and credit history of the applicant (and the Operating Company, if applicable), its Associates, and guarantors;

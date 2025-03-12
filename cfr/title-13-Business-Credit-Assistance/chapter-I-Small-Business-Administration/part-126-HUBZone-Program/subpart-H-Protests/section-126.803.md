@@ -1,5 +1,7 @@
 ##### § 126.803 How will SBA process a HUBZone status protest and what are the possible outcomes? #####
 
+Link to an amendment published at 88 FR 21088, Apr. 10, 2023.
+
 (a) *Date at which eligibility determined.* SBA will determine the eligibility of a concern subject to a HUBZone status protest as of the date of its initial certification or, if applicable, its most recent recertification.
 
 (b) *Notice of receipt of protest.* (1) SBA immediately will notify the contracting officer and the protestor of the date SBA receives a protest and whether SBA will process the protest or dismiss it in accordance with § 126.804.

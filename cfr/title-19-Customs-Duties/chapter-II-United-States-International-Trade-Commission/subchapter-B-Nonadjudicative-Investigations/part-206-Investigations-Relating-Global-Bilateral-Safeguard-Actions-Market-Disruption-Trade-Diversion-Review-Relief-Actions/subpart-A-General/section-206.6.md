@@ -1,7 +1,5 @@
 ##### § 206.6 Report to the President. #####
 
-Link to an amendment published at 88 FR 14890, Mar. 10, 2023.
-
 (a) *In general.* The Commission will include in its report to the President the following:
 
 (1) The determination made and an explanation of the basis for the determination;
@@ -22,12 +20,12 @@ Link to an amendment published at 88 FR 14890, Mar. 10, 2023.
 
 (v) A description of the short- and long-term effects of not taking the recommended action on the petitioning domestic industry, its workers and communities where production facilities of such industry are located, and other domestic industries.
 
-(2) In the case of a determination made under section 302(b) of the NAFTA Implementation Act, the Commission will also include in its report the findings with respect to the results of an examination of the factors other than imports which may be a cause of serious injury or threat thereof to the domestic industry.
+(2) In the case of a determination made under section 301(b) of the USMCA Implementation Act, the Commission will include in its report the findings with respect to the results of an examination of the factors other than imports which may be a cause of serious injury or threat thereof to the domestic industry.
 
-(3) In the case of a determination made under section 421(b) or 422(b) of the Trade Act, the Commission will also include in its report a description of -
+(3) In the case of a determination made under section 421(b) or 422(b) of the Trade Act, the Commission will also include in its report a description of—
 
 (i) The short- and long-term effects that implementation of the action recommended is likely to have on the petitioning domestic industry, on other domestic industries, and on consumers; and
 
 (ii) The short- and long-term effects of not taking the recommended action on the petitioning domestic industry, its workers, and the communities where production facilities of such industry are located, and on other domestic industries.
 
-[60 FR 10, Jan. 3, 1995, as amended at 67 FR 8190, Feb. 22, 2002; 77 FR 3925, Jan. 26, 2012]
+[60 FR 10, Jan. 3, 1995, as amended at 67 FR 8190, Feb. 22, 2002; 77 FR 3925, Jan. 26, 2012; 88 FR 14890, Mar. 10, 2023]

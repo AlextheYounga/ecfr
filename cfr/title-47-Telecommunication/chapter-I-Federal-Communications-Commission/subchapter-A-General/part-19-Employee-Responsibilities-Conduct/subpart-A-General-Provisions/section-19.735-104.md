@@ -1,6 +1,6 @@
 ##### § 19.735-104 Delegations. #####
 
-(a) The Commission has delegated to the Chairman responsibility for the detection and prevention of acts, short of criminal violations, which could bring discredit upon the Commission and the Federal service.
+(a) The Commission has delegated to the Chairperson responsibility for the detection and prevention of acts, short of criminal violations, which could bring discredit upon the Commission and the Federal service.
 
 (b) *Approvals under 18 U.S.C. 205(e).* (1) Commissioners may approve the representational activities permitted by 18 U.S.C. 205(e) by other employees in their immediate offices. The Designated Agency Ethics Official has delegated authority to grant such approvals for all other employees except Commissioners.
 
@@ -8,11 +8,11 @@
 
 (A) In the case of employees in the immediate offices of a Commissioner, to the Commissioner;
 
-(B) In the case of Heads of Offices and Bureaus, to the Chairman; and
+(B) In the case of Heads of Offices and Bureaus, to the Chairperson; and
 
 (C) In the case of all other employees except Commissioners, to the Head of the Office or Bureau to which the employee is assigned.
 
-(ii) An official (other than the Chairman or another Commissioner) to whom a request for approval under 18 U.S.C. 205(e) is submitted shall forward it to the Designated Agency Ethics Official with the official's recommendation as to whether the request should be granted.
+(ii) An official (other than the Chairperson or another Commissioner) to whom a request for approval under 18 U.S.C. 205(e) is submitted shall forward it to the Designated Agency Ethics Official with the official's recommendation as to whether the request should be granted.
 
 (3) Copies of all requests for approval under 18 U.S.C. 205(e) and the action taken thereon shall be maintained by the Designated Agency Ethics Official.
 
@@ -22,10 +22,12 @@
 
 (A) In the case of employees in the immediate offices of a Commissioner, to the Commissioner;
 
-(B) In the case of Heads of Offices and Bureaus, to the Chairman; and
+(B) In the case of Heads of Offices and Bureaus, to the Chairperson; and
 
 (C) In the case of all other employees except Commissioners, to the Head of the Office or Bureau to which the employee is assigned.
 
-(ii) An official (other than the Chairman or another Commissioner) to whom a waiver request is submitted shall forward it to the Designated Agency Ethics Official with the official's recommendation as to whether the waiver should be granted.
+(ii) An official (other than the Chairperson or another Commissioner) to whom a waiver request is submitted shall forward it to the Designated Agency Ethics Official with the official's recommendation as to whether the waiver should be granted.
 
 (3) Copies of all requests for waivers and the action taken thereon shall be maintained by the Designated Agency Ethics Official.
+
+[61 FR 56112, Oct. 31, 1996, as amended at 88 FR 21438, Apr. 10, 2023]

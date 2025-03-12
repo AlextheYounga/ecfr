@@ -1,7 +1,5 @@
 ##### § 206.14 Contents of petition. #####
 
-Link to an amendment published at 88 FR 14890, Mar. 10, 2023.
-
 A petition under this subpart B shall include specific information in support of the claim that an article is being imported into the United States in such increased quantities as to be a substantial cause of serious injury, or the threat thereof, to the domestic industry producing an article like or directly competitive with the imported article. Such petition shall state whether provisional relief is sought because *critical circumstances* exist or because the imported article is a *perishable agricultural product.* In addition, such petition shall include the following information, to the extent that such information is available from governmental or other sources, or best estimates and the basis therefor if such information is not available:
 
 (a) *Product description.* The name and description of the imported article concerned, specifying the United States tariff provision under which such article is classified and the current tariff treatment thereof, and the name and description of the like or directly competitive domestic article concerned;
@@ -42,6 +40,8 @@ A petition under this subpart B shall include specific information in support of
 
 (h) *Efforts to compete.* A statement on the efforts being taken, or planned to be taken, or both, by firms and workers in the industry to make a positive adjustment to import competition.
 
-(i) *Imports from NAFTA countries.* Quantitative data indicating the share of imports accounted for by imports from each NAFTA country (Canada and Mexico), and petitioner's view on the extent to which imports from such NAFTA country or countries are contributing importantly to the serious injury, or threat thereof, caused by total imports of such article.
+(i) *Imports from USMCA countries.* Quantitative data indicating the share of imports accounted for by imports from each USMCA country (Canada and Mexico), and petitioner's view on the extent to which imports from such USMCA country or countries are contributing importantly to the serious injury, or threat thereof, caused by total imports of such article.
 
 (j) *Critical circumstances.* If the petition alleges the existence of critical circumstances, a statement setting forth the basis for the belief that there is clear evidence that increased imports (either actual or relative to domestic production) of the article are a substantial cause of serious injury, or the threat thereof, to the domestic industry, and that delay in taking action would cause damage to that industry that would be difficult to repair, and a statement concerning the provisional relief requested and the basis therefor.
+
+[60 FR 12, Jan. 3, 1995, as amended at 88 FR 14890, Mar. 10, 2023]

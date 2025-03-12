@@ -1,0 +1,3 @@
+##### § 3.156 Watering. #####
+
+Potable water must be provided in sufficient quantity to every bird housed at the facility, unless restricted by the attending veterinarian. If potable water is not continually available to the birds, it must be offered to them as often as necessary to ensure their health and well-being. Water receptacles must be kept clean and sanitized in accordance with § 3.158 as often as necessary to keep them clean and free of contamination. Used water receptacles must be cleaned and sanitized before they may be used to provide water to birds maintained in a separate enclosure. Group-housed birds must have multiple water receptacles where needed to ensure that all birds have access to sufficient water.

@@ -12,6 +12,6 @@ United States is defined in Section 3 of the Communications Act of 1934, as amen
 
 (b) *Registration Form.* A Registration Form, containing information about the filer, such as address, phone number, email address, etc., shall be filed with each report. The Registration Form shall include a certification enabling the filer to check a box to indicate that the filer requests that its circuit capacity data be treated as confidential consistent with Section 0.459(a)(4) of the Commission's rules.
 
-(c) *Filing Manual.* Authority is delegated to the Chief of the International Bureau to prepare instructions and reporting requirements for the filing of these reports prepared and published as a Filing Manual. The information required under this Section shall be filed electronically in conformance with the instructions and reporting requirements in the Filing Manual.
+(c) *Filing Manual.* Authority is delegated to the Chief of the Office of International Affairs to prepare instructions and reporting requirements for the filing of these reports prepared and published as a Filing Manual. The information required under this Section shall be filed electronically in conformance with the instructions and reporting requirements in the Filing Manual.
 
-[82 FR 55331, Nov. 21, 2017]
+[82 FR 55331, Nov. 21, 2017, as amended at 88 FR 21442, Apr. 10, 2023]

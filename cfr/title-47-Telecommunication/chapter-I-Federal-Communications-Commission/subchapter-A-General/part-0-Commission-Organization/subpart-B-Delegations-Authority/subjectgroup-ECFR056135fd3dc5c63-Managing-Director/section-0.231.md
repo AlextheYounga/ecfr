@@ -22,7 +22,7 @@
 
 (ii) The Chief Financial Officer, or the Deputy Chief Financial Officer, is delegated authority to perform all administrative determinations provided for by 31 U.S.C. 3720B.
 
-(g) The Managing Director, after consultation with the Chairman shall establish, renew, and terminate all Federal advisory committees. He shall also exercise all management responsibilities under the Federal Advisory Committee Act as amended (Pub. L. No. 92-463, 5 U.S.C. App.).
+(g) The Managing Director, after consultation with the Chairperson shall establish, renew, and terminate all Federal advisory committees. He/She shall also exercise all management responsibilities under the Federal Advisory Committee Act as amended (Pub. L. No. 92-463, 5 U.S.C. App.).
 
 (h) [Reserved]
 

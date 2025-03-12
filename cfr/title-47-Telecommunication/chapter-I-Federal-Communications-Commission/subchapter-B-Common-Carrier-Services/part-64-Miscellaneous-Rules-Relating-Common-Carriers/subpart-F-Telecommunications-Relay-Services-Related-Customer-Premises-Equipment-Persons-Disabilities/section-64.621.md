@@ -12,7 +12,7 @@
 
 (2) Beginning no later than October 24, 2017, VRS providers shall provide a standard xCard export interface to enable users to import their lists of contacts in xCard XML format, in accordance with IETF RFC 6351.
 
-(c) *Incorporation by reference.* The standards required in this section are incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. All approved material is available for inspection at the Federal Communications Commission's Reference Information Center, located at the address of the FCC's main office indicated in 47 CFR 0.401(a), Tel: (202) 418-0270, and is available from the sources indicated in this paragraph (c). It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.htm.*
+(c) *Incorporation by reference.* The material listed in this paragraph (c) is incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. All approved incorporation by reference (IBR) material is available for inspection at the FCC and the National Archives and Records Administration (NARA). Contact the FCC through the Federal Communications Commission's Reference Information Center, phone: (202) 418-0270. For information on the availability of this material at NARA, visit *www.archives.gov/federal-register/cfr/ibr-locations.html* or email *fr.inspection@nara.gov.* The material may be obtained from the following sources in this paragraph (c):
 
 (1) FCC (on behalf of SIP Forum), located at the address indicated in 47 CFR 0.401(a), Tel: (888) 225-5322 (voice), (844) 432-2275 (videophone), (888) 835-5322 (TTY).
 
@@ -26,4 +26,4 @@
 
 (ii) Request for Comments (RFC) 6351, xCard: vCard XML Representation (August 2011) *https://tools.ietf.org/html/rfc6351.*
 
-[78 FR 40609, July 5, 2013, as amended at 82 FR 17764, Apr. 13, 2017; 82 FR 19325, Apr. 27, 2017; 82 FR 39683, Aug. 22, 2017; 85 FR 64407, Oct. 13, 2020; 86 FR 35633, July 7, 2021; 86 FR 54871, Oct. 5, 2021]
+[78 FR 40609, July 5, 2013, as amended at 82 FR 17764, Apr. 13, 2017; 82 FR 19325, Apr. 27, 2017; 82 FR 39683, Aug. 22, 2017; 85 FR 64407, Oct. 13, 2020; 86 FR 35633, July 7, 2021; 86 FR 54871, Oct. 5, 2021; 88 FR 21445, Apr. 10, 2023]

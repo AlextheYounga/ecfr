@@ -26,6 +26,6 @@
 
 (d) Any application for a GSO-like satellite license within the meaning of § 25.158 will be considered to be a newly filed application if it is amended by a major amendment (as defined by paragraph (b) of this section), and will cause the application to lose its status relative to later-filed applications in the “queue” as described in § 25.158.
 
-(e) Any amendment to an application shall be filed electronically through the International Bureau Filing System (IBFS) in accordance with the applicable provisions of part 1, subpart Y of this chapter. Amendments to space station applications must be filed on Form 312 and Schedule S. Amendments to earth station applications must be filed on Form 312 and Schedule B.
+(e) Any amendment to an application shall be filed electronically through the International Communications Filing System (ICFS) in accordance with the applicable provisions of part 1, subpart Y of this chapter. Amendments to space station applications must be filed on Form 312 and Schedule S. Amendments to earth station applications must be filed on Form 312 and Schedule B.
 
-[56 FR 24016, May 28, 1991, as amended at 68 FR 51503, Aug. 27, 2003; 69 FR 47794, Aug. 6, 2004; 78 FR 8421, Feb. 6, 2013]
+[56 FR 24016, May 28, 1991, as amended at 68 FR 51503, Aug. 27, 2003; 69 FR 47794, Aug. 6, 2004; 78 FR 8421, Feb. 6, 2013; 88 FR 21440, Apr. 10, 2023]

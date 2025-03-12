@@ -1,0 +1,3 @@
+##### § 207.118 Role of the General Counsel in advising the Commission. #####
+
+The Assistant General Counsel for Section 337 Investigations shall serve as Acting General Counsel for the purpose of advising the Commission on proceedings brought under this subpart if the prohibited act described in the charging letter involves a protective order issued in connection with a panel review that was pending when the letter was issued, and the General Counsel participated in the panel review. No other Commission attorney shall advise the Commission on proceedings under this subpart concerning a protective order issued during a panel review in which the attorney participated.

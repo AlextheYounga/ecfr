@@ -10,6 +10,6 @@
 
 (4) Alternatively, instead of listing the call signs and/or locations of earth stations currently used for telemetry, tracking, and command, the space station operator may provide 24/7 contact information for a satellite control center and a list of the call signs of any U.S. earth stations, and the locations of any non-U.S. earth stations, that are used or may be used for telemetry, tracking, and command communication with the space station(s) in question.
 
-(b) The information required by paragraph (a) of this section must be filed electronically in the Commission's International Bureau Filing System (IBFS), in the “Other Filings” tab of the space station's current authorization file. If call sign or location information provided pursuant to paragraph (a) of this section becomes invalid due to a change of circumstances, the space station operator must file updated information in the same manner within 30 days, except with respect to changes less than 30 days in duration, for which no update is necessary.
+(b) The information required by paragraph (a) of this section must be filed electronically in the Commission's International Communications Filing System (ICFS), in the “Other Filings” tab of the space station's current authorization file. If call sign or location information provided pursuant to paragraph (a) of this section becomes invalid due to a change of circumstances, the space station operator must file updated information in the same manner within 30 days, except with respect to changes less than 30 days in duration, for which no update is necessary.
 
-[79 FR 8321, Feb. 12, 2014, as amended at 86 FR 11888, Mar. 1, 2021]
+[79 FR 8321, Feb. 12, 2014, as amended at 86 FR 11888, Mar. 1, 2021; 88 FR 21441, Apr. 10, 2023]

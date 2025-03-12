@@ -81,7 +81,7 @@
 
 (ii) The service area of cellular market 306 that comprises the water area of the Gulf of Mexico extends from 12 nautical miles off the U.S. Gulf coast outward into the Gulf.
 
-(3) Service areas for Block D in the 716-722 MHz band are based on Economic Area Groupings (EAGs) as defined by the Federal Communications Commission. *See* 62 FR 15978 (April 3, 1997) extended with the Gulf of Mexico. *See also* paragraphs (a)(1) and (a)(2) of this section and 62 FR 9636 (March 3, 1997), in which the Commission created an additional four economic area-like areas for a total of 176. Maps of the EAGs and the Federal Register Notice that established the 172 Economic Areas (EAs) are available for public inspection and copying at the Federal Communications Commission's Reference Information Center, located at the address of the FCC's main office indicated in 47 CFR 0.401(a). These maps and data are also available on the FCC Web site at *http://www.fcc.gov/oet/info/maps/areas/.*
+(3) Service areas for Block D in the 716-722 MHz band are based on Economic Area Groupings (EAGs) as defined by the Federal Communications Commission. See 62 FR 15978 (April 3, 1997) extended with the Gulf of Mexico. See also paragraphs (a)(1) and (2) of this section and 62 FR 9636 (March 3, 1997), in which the Commission created an additional four economic area-like areas for a total of 176. Maps of the EAGs and the Federal Register Notice that established the 172 Economic Areas (EAs) are available for public inspection through the Federal Communications Commission's Reference Information Center. These maps and data are also available on the FCC website at *https://www.fcc.gov/oet/info/maps/areas/*.
 
 (i) There are 6 EAGs, which are composed of multiple EAs as defined in the table below:
 
@@ -141,8 +141,6 @@ Economic Areas are defined by the Regional Economic Analysis Division, Bureau of
 (l) *600 MHz band.* Service areas for the 600 MHz band are based on Partial Economic Areas (PEAs) as defined by *Wireless Telecommunications Bureau Provides Details About Partial Economic Areas,* Public Notice, 29 FCC Rcd 6491, App. B (2014). The service areas of PEAs that border the U.S. coastline of the Gulf of Mexico extend 12 nautical miles from the U.S. Gulf coastline. The service area of the Gulf of Mexico PEA (PEA 416) that comprises the water area of the Gulf of Mexico extends from 12 nautical miles off the U.S. Gulf coast outward into the Gulf.
 
 (m) *3700-3980 MHz Band.* Service areas in the 3.7 GHz Service are based on Partial Economic Areas (PEAs) as defined by appendix A to this subpart (*see Wireless Telecommunications Bureau Provides Details About Partial Economic Areas,* DA 14-759, Public Notice, released June 2, 2014, for more information). The 3.7 GHz Service will be licensed in the contiguous United States, *i.e.,* the contiguous 48 states and the District of Columbia as defined by Partial Economic Areas Nos. 1-41, 43-211, 213-263, 265-297, 299-359, and 361-411. The service areas of PEAs that border the U.S. coastline of the Gulf of Mexico extend 12 nautical miles from the U.S. Gulf coastline. The 3.7 GHz Service will not be licensed for the following PEAs:
-
-Table 3 to Paragraph (m)
 
 |PEA No.|           PEA name           |
 |-------|------------------------------|

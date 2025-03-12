@@ -1,7 +1,5 @@
 ##### § 2.40 Attending veterinarian and adequate veterinary care (dealers and exhibitors). #####
 
-Link to an amendment published at 88 FR 10714, Feb. 21, 2023.
-
 (a) Each dealer or exhibitor shall have an attending veterinarian who shall provide adequate veterinary care to its animals in compliance with this section.
 
 (1) Each dealer and exhibitor shall employ an attending veterinarian under formal arrangements. In the case of a part-time attending veterinarian or consultant arrangements, the formal arrangements shall include a written program of veterinary care and regularly scheduled visits to the premises of the dealer or exhibitor; and
@@ -19,3 +17,5 @@ Link to an amendment published at 88 FR 10714, Feb. 21, 2023.
 (4) Adequate guidance to personnel involved in the care and use of animals regarding handling, immobilization, anesthesia, analgesia, tranquilization, and euthanasia; and
 
 (5) Adequate pre-procedural and post-procedural care in accordance with established veterinary medical and nursing procedures.
+
+(Approved by the Office of Management and Budget under control numbers 0579-0036 and 0579-0486)[54 FR 36147, Aug. 31, 1989, as amended at 88 FR 10714, Feb. 21, 2023]

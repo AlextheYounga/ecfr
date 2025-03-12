@@ -20,6 +20,6 @@ Except as otherwise provided in this part, any party requesting designation as a
 
 (i) A statement as to whether covered services are provided by facilities owned by the applicant, by facilities leased from another entity, or other arrangement and a description of the arrangement.
 
-(j) Subject to the availability of electronic forms, all filings described in this section must be filed electronically through the International Bureau Filing System (IBFS). A list of forms that are available for electronic filing can be found on the IBFS homepage. For information on electronic filing requirements, see part 1, §§ 1.1000 through 1.10018 of this chapter and the IBFS homepage at *http://www.fcc.gov/ibfs.* See also §§ 63.20 and 63.53.
+(j) Subject to the availability of electronic forms, all filings described in this section must be filed electronically through the International Communications Filing System (ICFS). A list of forms that are available for electronic filing can be found on the ICFS homepage. For information on electronic filing requirements, see §§ 1.1000 through 1.10018 of this chapter and the ICFS homepage at *https://www.fcc.gov/icfs.* See also §§ 63.20 and 63.53.
 
-[51 FR 18448, May 20, 1986, as amended at 69 FR 29902, May 26, 2004; 70 FR 38800, July 6, 2005]
+[51 FR 18448, May 20, 1986, as amended at 69 FR 29902, May 26, 2004; 70 FR 38800, July 6, 2005; 88 FR 21445, Apr. 10, 2023]

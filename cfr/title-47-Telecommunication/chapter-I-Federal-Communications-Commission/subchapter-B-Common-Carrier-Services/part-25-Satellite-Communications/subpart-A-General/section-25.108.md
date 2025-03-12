@@ -2,7 +2,7 @@
 
 Link to an amendment published at 86 FR 49488, Sept. 3, 2021.
 
-(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. All approved material is available for inspection at the Federal Communications Commission's Reference Information Center, located at the address of the FCC's main office indicated in 47 CFR 0.401(a), and is available from the sources listed in this section. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email *fr.inspection@nara.gov;* or go to *www.archives.gov/federal-register/ccfr/ibr-locations.html.*
+(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. All approved incorporation by reference (IBR) material is available for inspection at the FCC and the National Archives and Records Administration (NARA). Contact FCC through the Federal Communications Commission's Reference Information Center, phone: (202) 418-0270. For information on the availability of this material at NARA, visit *www.archives.gov/federal-register/cfr/ibr-locations.html* or email *fr.inspection@nara.gov* or go to. The material may be obtained from the sources in the following paragraphs of this section.
 
 (b) European Telecommunications Standards Institute (ETSI), 650 Route des Lucioles, 06921 Sophia-Antipolis Cedex, France; *http://www.etsi.org;* Voice: +33 (0)4 92 94 42 00; Fax: +33 (0)4 93 65 47 16; email: *webstore@etsi.org.*
 
@@ -30,4 +30,12 @@ Link to an amendment published at 86 FR 49488, Sept. 3, 2021.
 
 (9) ITU Radio Regulations, Volume 3: Resolutions and Recommendations, Resolution 85 (WRC-03), “Application of Article 22 of the Radio Regulations to the protection of geostationary fixed-satellite service and broadcasting-satellite service networks from non-geostationary fixed-satellite service systems,” Edition of 2016, copyright 2016, *http://www.itu.int/pub/R-REG-RR-2016.* Incorporation by reference approved for § 25.146(c).
 
-[81 FR 55324, Aug. 18, 2016, as amended at 82 FR 37029, Aug. 8, 2017; 82 FR 40494, Aug. 25, 2017; 82 FR 59984, Dec. 18, 2017; 85 FR 64407, Oct. 13, 2020; 86 FR 49488, Sept. 3, 2021]
+(10) Recommendation ITU-R M.1186 “Technical Considerations for the Coordination Between Mobile Satellite Service (MSS) Networks Utilizing Code Division Multiple Access (CDMA) and Other Spread Spectrum Techniques in the 1-3 GHz Band” (1995). Incorporation by reference approved for § 25.254(c).
+
+(d) Radio Technical Commission for Maritime Services (RTCM). 1611 N. Kent St., Suite 605, Arlington, VA 22209; email: *info@rtcm.org*; website: *www.rtcm.org*.
+
+(1) RTCM 12800.0, “Satellite Emergency Notification Devices (SENDs),” dated August 1, 2011. Incorporation by reference approved for § 25.301.
+
+(2) [Reserved]
+
+[81 FR 55324, Aug. 18, 2016, as amended at 82 FR 37029, Aug. 8, 2017; 82 FR 40494, Aug. 25, 2017; 82 FR 59984, Dec. 18, 2017; 85 FR 64407, Oct. 13, 2020; 86 FR 49488, Sept. 3, 2021; 88 FR 21439, Apr. 10, 2023]

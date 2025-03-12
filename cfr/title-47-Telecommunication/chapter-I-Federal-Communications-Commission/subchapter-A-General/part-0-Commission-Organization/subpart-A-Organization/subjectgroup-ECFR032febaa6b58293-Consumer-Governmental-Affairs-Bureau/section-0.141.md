@@ -16,11 +16,11 @@ The Consumer and Governmental Affairs Bureau develops and administers the Commis
 
 (g) Plans, develops, and conducts consumer outreach and education initiatives to educate the public about important Commission regulatory programs. In coordination with other Bureaus and Offices, establishes liaison(s) for information sharing purposes to ensure coordination on all consumer outreach projects. Ensures that alternative translations of Commission materials are available to Commission employees, Bureaus, Offices and members of the public.
 
-(h) Serves as the official FCC records custodian for designated records, including intake processing, organization and file maintenance, reference services, and retirement and retrieval of records; manages the Electronic Comment Filing System and certifies records for adjudicatory and court proceedings. Maintains manual and computerized files that provide for the public inspection of public record materials concerning Broadcast Ownership, AM/FM/TV, TV translators, FM Translators, Cable TV, Wireless, Auction, Common Carrier Tariff matters, International space station files, earth station files, DBS files, and other miscellaneous international files. Also maintains for public inspection Time Brokerage and Affiliation Agreements, court citation files, and legislative histories concerning telecommunications dockets. Provides the public and Commission staff prompt access to manual and computerized records and filing systems. Periodically reviews the status of open docketed proceedings and, following:
+(h) Periodically reviews the status of open docketed proceedings, and following:
 
 (1) Consultation with and concurrence from the relevant bureau or office with responsibility for a particular proceeding,
 
-(2) The issuance of a public notice listing proceedings under consideration for termination, and;
+(2) The issuance of a public notice listing proceedings under consideration for termination, and,
 
 (3) A reasonable period during which interested parties may comment, closes any docket in which no further action is required or contemplated (with termination constituting a final determination in any such proceeding).
 
@@ -32,4 +32,4 @@ The Consumer and Governmental Affairs Bureau develops and administers the Commis
 
 (l) Advises and makes recommendations to the Commission, or acts for the Commission under delegated authority, to develop, administer, and manage the Affordable Connectivity Outreach Grant Program. This includes coordinating with the Office of the Managing Director (OMD) on interagency agreements with other Federal agencies as may be necessary to develop, administer, and manage the Affordable Connectivity Outreach Grant Program, including, developing, administering, and issuing Notices of Funding Opportunity for and making grant awards or entering into cooperative agreements for the Affordable Connectivity Outreach Grant Program. This also includes, with the concurrence of the General Counsel, interpreting rules and regulations pertaining to the Affordable Connectivity Outreach Grant Program.
 
-[67 FR 13219, Mar. 21, 2002, as amended at 76 FR 24388, May 2, 2011; 87 FR 54328, Sept. 6, 2022]
+[67 FR 13219, Mar. 21, 2002, as amended at 76 FR 24388, May 2, 2011; 87 FR 54328, Sept. 6, 2022; 88 FR 21429, Apr. 10, 2023]

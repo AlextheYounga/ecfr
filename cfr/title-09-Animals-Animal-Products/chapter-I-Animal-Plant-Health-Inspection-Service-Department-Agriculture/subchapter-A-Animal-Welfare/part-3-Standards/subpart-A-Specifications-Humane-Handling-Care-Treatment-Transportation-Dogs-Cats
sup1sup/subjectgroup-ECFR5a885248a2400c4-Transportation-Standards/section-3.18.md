@@ -1,0 +1,13 @@
+##### § 3.18 Care in transit. #####
+
+(a) *Surface transportation (ground and water).* Any person subject to the Animal Welfare regulations transporting dogs or cats in commerce must ensure that the operator of the conveyance, or a person accompanying the operator, observes the dogs or cats as often as circumstances allow, but not less than once every 4 hours, to make sure they have sufficient air for normal breathing, that the ambient temperature is within the limits provided in § 3.16(e), and that all applicable standards of this subpart are being complied with. The regulated person must ensure that the operator or person accompanying the operator determines whether any of the dogs or cats are in obvious physical distress and obtains any veterinary care needed for the dogs or cats at the closest available veterinary facility.
+
+(b) *Air transportation.* During air transportation of dogs or cats, it is the responsibility of the carrier to observe the dogs or cats as frequently as circumstances allow, but not less than once every 4 hours if the animal cargo area is accessible during flight. If the animal cargo area is not accessible during flight, the carrier must observe the dogs or cats whenever they are loaded and unloaded and whenever the animal cargo space is otherwise accessible to make sure they have sufficient air for normal breathing, that the animal cargo area meets the heating and cooling requirements of § 3.16(d), and that all other applicable standards of this subpart are being complied with. The carrier must determine whether any of the dogs or cats are in obvious physical distress, and arrange for any needed veterinary care as soon as possible.
+
+(c) If a dog or cat is obviously ill, injured, or in physical distress, it must not be transported in commerce, except to receive veterinary care for the condition.
+
+(d) *Removal during transportation in commerce prohibited.* Except during the cleaning of primary enclosures, as required in § 3.15(b), during transportation in commerce a dog or cat must not be removed from its primary enclosure, unless it is placed in another primary enclosure or facility that meets the requirements of § 3.6 or § 3.15.
+
+(e) The transportation regulations contained in this subpart must be complied with until a consignee takes physical delivery of the dog or cat if the animal is consigned for transportation, or until the animal is returned to the consignor.
+
+[56 FR 6486, Feb. 15, 1991. Redesignated and amended at 85 FR 28798, 28799, May 13, 2020]

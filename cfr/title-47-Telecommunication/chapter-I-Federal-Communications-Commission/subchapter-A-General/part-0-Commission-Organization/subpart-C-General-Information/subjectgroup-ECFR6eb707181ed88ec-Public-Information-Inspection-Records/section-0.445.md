@@ -4,7 +4,7 @@
 
 (b) Documents adopted by the Commission or a member of its staff on delegated authority and released through the Office of Media Relations are published in the FCC Record. Older materials of this nature are available in the FCC Reports. In the event that such older materials are not published in the FCC Reports, reference should be made to the Federal Register or Pike and Fischer Communications Regulation.
 
-(c) All rulemaking documents or summaries thereof are published in the Federal Register and are available on the Commission's Web site. The complete text of the Commission decision also is released by the Commission and is available for inspection and copying during normal business hours in the Reference Information Center, via the Electronic Document Management System (EDOCS), or as otherwise specified in the rulemaking document published in the Federal Register.
+(c) All rulemaking documents or summaries thereof are published in the Federal Register and are available on the Commission's Web site. The complete text of the Commission decision also is released by the Commission and is available for inspection through the Reference Information Center, via the Electronic Document Management System (EDOCS), or as otherwise specified in the rulemaking document published in the Federal Register.
 
 (d) Formal policy statements and interpretations designed to have general applicability are published on the Commission's Web site and in the Federal Register, the FCC Record, FCC Reports, or Pike and Fischer Communications Regulation. Commission decisions and other Commission documents not entitled formal policy statements or interpretations may contain substantive interpretations and statements regarding policy, and these are published as part of the document in the FCC Record, FCC Reports or Pike and Fischer Communications Regulation. General statements regarding policy and interpretations furnished to individuals, in correspondence or otherwise, are not ordinarily published.
 
@@ -16,4 +16,4 @@
 
 (h) To the extent required to prevent a clearly unwarranted invasion of personal privacy, or to prevent disclosure of information required or authorized to be withheld by another statute, the Commission may delete identifying details or confidential information when it makes available or publishes any document described in this section. The justification for any such deletion will be fully explained in a preamble to the document.
 
-[82 FR 4188, Jan. 13, 2017]
+[82 FR 4188, Jan. 13, 2017, as amended at 88 FR 21432, Apr. 10, 2023]
