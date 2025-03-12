@@ -1,0 +1,5 @@
+##### § 405.1 Monitoring of licensed, permitted, and other activities. #####
+
+Each licensee or permittee must allow access by and cooperate with Federal officers or employees or other individuals authorized by the Associate Administrator to observe licensed facilities and activities, including launch sites and reentry sites, as well as manufacturing, production, testing, and training facilities, or assembly sites used by any contractor, licensee, or permittee to produce, assemble, or test a launch or reentry vehicle and to integrate a payload with its launch or reentry vehicle. Observations are conducted to monitor the activities of the licensee, permittee, or contractor at such time and to such extent as the Associate Administrator considers reasonable and necessary to determine compliance with the license or permit or to perform the Associate Administrator's responsibilities pertaining to payloads for which no Federal license, authorization, or permit is required.
+
+[Doc. No. FAA-2006-24197, 72 FR 17016, Apr. 6, 2007]

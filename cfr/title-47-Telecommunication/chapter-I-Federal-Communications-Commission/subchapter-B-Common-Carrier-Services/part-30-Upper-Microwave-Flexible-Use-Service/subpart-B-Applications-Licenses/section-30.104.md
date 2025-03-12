@@ -1,15 +1,15 @@
-##### § 30.104 Construction requirements. #####
-
-Link to an amendment published at 83 FR 34492, July 20, 2018.
+##### § 30.104 Performance requirements. #####
 
 (a) Upper Microwave Flexible Use Service licensees must make a buildout showing as part of their renewal applications. Licensees relying on mobile or point-to-multipoint service must show that they are providing reliable signal coverage and service to at least 40 percent of the population within the service area of the licensee, and that they are using facilities to provide service in that area either to customers or for internal use. Licensees relying on point-to-point service must demonstrate that they have four links operating and providing service, either to customers or for internal use, if the population within the license area is equal to or less than 268,000. If the population within the license area is greater than 268,000, a licensee relying on point-to-point service must demonstrate it has at least one link in operation and is providing service for each 67,000 population within the license area. In order to be eligible to be counted under the point-to-point buildout standard, a point-to-point link must operate with a transmit power greater than +43 dBm.
 
-(b) Showings that rely on a combination of multiple types of service will be evaluated on a case-by-case basis.
+(b) In the alternative, a licensee may make its buildout showing on the basis of geographic area coverage. To satisfy the requirements of using this metric, licensees relying on mobile or point-to-multipoint service must show that they are providing reliable signal coverage and service to at least 25% of the geographic area of the license. The geographic area of the license shall be determined by the total land area of the county or counties covered by the license. Licensees relying on fixed point-to-point links or other, low-power point-to-point connections must show that they have deployed at least one transmitter or receiver in at least 25% of the census tracts within the license area. All equipment relied upon in the showing, whatever type of service or connection it provides, must be operational and providing service, either to customers or for internal use, as of the date of the filing.
 
-(c) If a licensee in this service is also a Fixed-Satellite Service licensee and uses the spectrum covered under its UMFUS license in connection with a satellite earth station, it can demonstrate compliance with the requirements of this section by demonstrating that the earth station in question is in service, operational, and using the spectrum associated with the license. This provision can only be used to demonstrate compliance for the county in which the earth station is located.
+(c) Showings that rely on a combination of multiple types of service will be evaluated on a case-by-case basis. Licensees may not combine population-based showings with geographic area-based showings.
 
-(d) Failure to meet this requirement will result in automatic cancellation of the license. In bands licensed on a Partial Economic Area basis, licensees will have the option of partitioning a license on a county basis in order to reduce the population within the license area to a level where the licensee's buildout would meet one of the applicable performance metrics.
+(d) If a licensee in this service is also a Fixed-Satellite Service licensee and uses the spectrum covered under its UMFUS license in connection with a satellite earth station, it can demonstrate compliance with the requirements of this section by demonstrating that the earth station in question is in service, operational, and using the spectrum associated with the license. This provision can only be used to demonstrate compliance for the county in which the earth station is located.
 
-(e) Existing 28 GHz and 39 GHz licensees shall be required to make a showing pursuant to this rule by June 1, 2024.
+(e) Failure to meet this requirement will result in automatic cancellation of the license. In bands licensed on a Partial Economic Area basis, licensees will have the option of partitioning a license on a county basis in order to reduce the population or land area within the license area to a level where the licensee's buildout would meet one of the applicable performance metrics.
 
-[81 FR 79937, Nov. 14, 2016, as amended at 83 FR 65, Jan. 2, 2018]
+(f) Existing 24 GHz, 28 GHz and 39 GHz licensees shall be required to make a showing pursuant to this section by June 1, 2024.
+
+[81 FR 79937, Nov. 14, 2016, as amended at 83 FR 65, Jan. 2, 2018; 83 FR 34492, July 20, 2018]

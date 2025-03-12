@@ -1,8 +1,6 @@
 ##### § 25.220 Non-routine transmit/receive earth station operations. #####
 
-Link to an amendment published at 83 FR 34491, July 20, 2018.
-
-(a) The requirements in this section apply to applications for, and operation of, earth stations transmitting in the conventional or extended C-bands, the conventional or extended Ku-bands, or the conventional Ka-band that do not qualify for routine licensing under relevant criteria in § 25.138, § 25.211, § 25.212, § 25.218, § 25.221(a)(1) or (a)(3), § 25.222(a)(1) or (a)(3), § 25.226(a)(1) or (a)(3), or § 25.227(a)(1) or (a)(3).
+(a) The requirements in this section apply to applications for, and operation of, earth stations transmitting in the conventional or extended C-bands, the conventional or extended Ku-bands, the 24.75-25.25 GHz band, or the conventional Ka-band that do not qualify for routine licensing under relevant criteria in § 25.138, § 25.211, § 25.212, § 25.218, § 25.221(a)(1) or (a)(3), § 25.222(a)(1) or (a)(3), § 25.226(a)(1) or (a)(3), or § 25.227(a)(1) or (a)(3).
 
 (b) Applications filed pursuant to this section must include the information required by § 25.115(g)(1).
 
@@ -40,4 +38,4 @@ Link to an amendment published at 83 FR 34491, July 20, 2018.
 
 (4) Identification of any rule or rules for which a waiver is requested.
 
-[70 FR 32256, June 2, 2005, as amended at 72 FR 50030, Aug. 29, 2007; 73 FR 70902, Nov. 24, 2008; 74 FR 57099, Nov. 4, 2009; 78 FR 14927, Mar. 8, 2013; 79 FR 8324, Feb. 12, 2014; 81 FR 55341, Aug. 18, 2016]
+[70 FR 32256, June 2, 2005, as amended at 72 FR 50030, Aug. 29, 2007; 73 FR 70902, Nov. 24, 2008; 74 FR 57099, Nov. 4, 2009; 78 FR 14927, Mar. 8, 2013; 79 FR 8324, Feb. 12, 2014; 81 FR 55341, Aug. 18, 2016; 83 FR 34491, July 20, 2018]

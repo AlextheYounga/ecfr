@@ -1,12 +1,10 @@
 ##### § 2510.3-3 Employee benefit plan. #####
 
-Link to an amendment published at 83 FR 28961, June 21, 2018.
-
 (a) *General.* This section clarifies the definition in section 3(3) of the term “employee benefit plan” for purposes of title I of the Act and this chapter. It states a general principle which can be applied to a large class of plans to determine whether they constitute employee benefit plans within the meaning of section 3(3) of the Act. Under section 4(a) of the Act, only employee benefit plans within the meaning of section 3(3) are subject to title I.
 
 (b) *Plans without employees.* For purposes of title I of the Act and this chapter, the term “employee benefit plan” shall not include any plan, fund or program, other than an apprenticeship or other training program, under which no employees are participants covered under the plan, as defined in paragraph (d) of this section. For example, a so-called “Keogh” or “H.R. 10” plan under which only partners or only a sole proprietor are participants covered under the plan will not be covered under title I. However, a Keogh plan under which one or more common law employees, in addition to the self-employed individuals, are participants covered under the plan, will be covered under title I. Similarly, partnership buyout agreements described in section 736 of the Internal Revenue Code of 1954 will not be subject to title I.
 
-(c) *Employees.* For purposes of this section:
+(c) *Employees.* For purposes of this section and except as provided in § 2510.3-5(e):
 
 (1) An individual and his or her spouse shall not be deemed to be employees with respect to a trade or business, whether incorporated or unincorporated, which is wholly owned by the individual or by the individual and his or her spouse, and
 
@@ -56,4 +54,4 @@ whichever results in earlier participation.
 
 (ii) For purposes of paragraph (d)(3)(i) of this section, in the case of an employee pension benefit plan which is subject to section 203 of the Act the term “year of service” shall have the same meaning as in section 203(b)(2)(A) of the Act and any regulations issued under the Act and the term “one-year break in service” shall have the same meaning as in section 203(b)(3)(A) of the Act and any regulations issued under the Act.
 
-[40 FR 34530, Aug. 15, 1975]
+[40 FR 34530, Aug. 15, 1975, as amended at 83 FR 28961, June 21, 2018]

@@ -1,5 +1,5 @@
 ##### § 11.15 What is a petition for exemption? #####
 
-Link to an amendment published at 83 FR 28534, June 20, 2018.
+A petition for exemption is a request to the FAA by an individual or entity asking for relief from the requirements of a current regulation. For petitions for waiver of commercial space transportation regulations, see part 404 of this title.
 
-A petition for exemption is a request to FAA by an individual or entity asking for relief from the requirements of a current regulation.
+[FAA-2016-6761, Amdt. No. 11-62, 83 FR 28534, June 20, 2016]

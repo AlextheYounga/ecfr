@@ -1,7 +1,5 @@
 ##### § 25.114 Applications for space station authorizations. #####
 
-Link to an amendment published at 83 FR 34489, July 20, 2018.
-
 (a)(1) A license application filed pursuant to § 25.110(b)(2) for a GSO space station or NGSO space station or space-station constellation must comprise a comprehensive proposal and must be submitted on FCC Form 312, Main Form and Schedule S, with attached exhibits required by paragraph (d) of this section.
 
 (2) An application for blanket authority for an NGSO constellation of space stations that are not all technically identical must provide the information required by paragraphs (c) and (d) of this section for each type of station in the constellation.
@@ -96,7 +94,7 @@ Link to an amendment published at 83 FR 34489, July 20, 2018.
 
 (6) Public interest considerations in support of grant;
 
-(7) Applicants for authorizations for space stations in the Fixed-Satellite Service must also include the information specified in § 25.140(a). Applicants for authorizations for space stations in the 17/24 GHz Broadcasting-Satellite Service must also include the information specified in § 25.140(b)(3), (b)(4), (b)(5), or (b)(6);
+(7) Applicants for authorizations for space stations in the Fixed-Satellite Service, including applicants proposing feeder links for space stations operating in the 17/24 GHz Broadcasting-Satellite Service, must also include the information specified in § 25.140(a). Applicants for authorizations for space stations in the 17/24 GHz Broadcasting-Satellite Service must also include the information specified in § 25.140(b);
 
 (8) Applications for authorizations in the Mobile-Satellite Service in the 1545-1559/1646.5-1660.5 MHz frequency bands shall also provide all information necessary to comply with the policies and procedures set forth in Rules and Policies Pertaining to the Use of Radio Frequencies in a Land Mobile Satellite Service, 2 FCC Rcd 485 (1987) (Available at address in § 0.445 of this chapter.);
 
@@ -138,8 +136,8 @@ Link to an amendment published at 83 FR 34489, July 20, 2018.
 
 (16) In addition to the requirements of paragraph (d)(15) of this section, each applicant for a license to operate a 17/24 GHz BSS space station that will be used to provide video programming directly to consumers in the United States, that will not meet the requirements of § 25.225 of this part, must include as an attachment to its application a technical analysis demonstrating that providing video programming service to consumers in Alaska and Hawaii that is comparable to the video programming service provided to consumers in the 48 contiguous United States (CONUS) is not feasible as a technical matter or that, while technically feasible, such service would require so many compromises in satellite design and operation as to make it economically unreasonable.
 
-(17) An applicant seeking to operate a space station in the 17/24 GHz broadcasting-satellite service pursuant to the provisions of § 25.262(b) of this part, at an offset location no greater than one degree offset from an orbital location specified in Appendix F of the Report and Order adopted May 2, 2007, IB Docket No. 06-123, FCC 07-76, must submit a written request to that effect as part of the narrative portion of its application.
+(17) [Reserved]
 
 (18) For space stations in the Direct Broadcast Satellite service or the 17/24 GHz broadcasting-satellite service, maximum orbital eccentricity.
 
-[68 FR 63997, Nov. 12, 2003, as amended at 69 FR 29901, May 26, 2004; 69 FR 47794, Aug. 6, 2004; 69 FR 54587, Sept. 9, 2004; 72 FR 50027, Aug. 29, 2007; 72 FR 60278, Oct. 24, 2007; 76 FR 50431, Aug. 15, 2011; 78 FR 8421, Feb. 6, 2013; 79 FR 8314, Feb. 12, 2014; 81 FR 55326, Aug. 18, 2016; 82 FR 59984, Dec. 18, 2017]
+[68 FR 63997, Nov. 12, 2003, as amended at 69 FR 29901, May 26, 2004; 69 FR 47794, Aug. 6, 2004; 69 FR 54587, Sept. 9, 2004; 72 FR 50027, Aug. 29, 2007; 72 FR 60278, Oct. 24, 2007; 76 FR 50431, Aug. 15, 2011; 78 FR 8421, Feb. 6, 2013; 79 FR 8314, Feb. 12, 2014; 81 FR 55326, Aug. 18, 2016; 82 FR 59984, Dec. 18, 2017; 83 FR 34489, July 20, 2018]

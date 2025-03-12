@@ -1,7 +1,5 @@
 ##### § 25.210 Technical requirements for space stations. #####
 
-Link to an amendment published at 83 FR 34491, July 20, 2018.
-
 (a)-(b) [Reserved]
 
 (c) Space station antennas operating in the Direct Broadcast Satellite Service or operating in the Fixed-Satellite Service for reception of feeder links for Direct Broadcast Satellite Service must be designed to provide a cross-polarization isolation such that the ratio of the on-axis co-polar gain to the cross-polar gain of the antenna in the assigned frequency band is at least 27 dB within the primary coverage area.
@@ -12,8 +10,8 @@ Link to an amendment published at 83 FR 34491, July 20, 2018.
 
 (g)-(h) [Reserved]
 
-(i) Space station antennas in the 17/24 GHz BSS must be designed to provide a cross-polarization isolation such that the ratio of the on axis co-polar gain to the cross-polar gain of the antenna in the assigned frequency band shall be at least 25 dB within its primary coverage area.
+(i) 17/24 GHz BSS space station antennas transmitting in the 17.3-17.8 GHz band must be designed to provide a cross-polarization isolation such that the ratio of the on axis co-polar gain to the cross-polar gain of the antenna in the assigned frequency band is at least 25 dB within its primary coverage area.
 
 (j) Space stations operated in the geostationary satellite orbit must be maintained within 0.05° of their assigned orbital longitude in the east/west direction, unless specifically authorized by the Commission to operate with a different longitudinal tolerance, and except as provided in Section 25.283(b) (End-of-life Disposal).
 
-[58 FR 13420, Mar. 11, 1993, as amended at 61 FR 9952, Mar. 12, 1996; 62 FR 5931, Feb. 10, 1997; 62 FR 61457, Nov. 18, 1997; 68 FR 51508, Aug. 27, 2003; 69 FR 54587, Sept. 9, 2004; 70 FR 32256, June 2, 2005; 72 FR 50029, Aug. 29, 2007; 78 FR 8428, Feb. 6, 2013; 79 FR 8323, Feb. 12, 2014; 81 FR 55338, Aug. 18, 2016]
+[58 FR 13420, Mar. 11, 1993, as amended at 61 FR 9952, Mar. 12, 1996; 62 FR 5931, Feb. 10, 1997; 62 FR 61457, Nov. 18, 1997; 68 FR 51508, Aug. 27, 2003; 69 FR 54587, Sept. 9, 2004; 70 FR 32256, June 2, 2005; 72 FR 50029, Aug. 29, 2007; 78 FR 8428, Feb. 6, 2013; 79 FR 8323, Feb. 12, 2014; 81 FR 55338, Aug. 18, 2016; 83 FR 34491, July 20, 2018]

@@ -1,5 +1,7 @@
 ##### § 52.26 NANC Recommendations on Local Number Portability Administration. #####
 
+Link to an amendment published at 83 FR 42052, Aug. 20, 2018.
+
 (a) Local number portability administration shall comply with the recommendations of the North American Numbering Council (NANC) as set forth in the report to the Commission prepared by the NANC's Local Number Portability Administration Selection Working Group, dated April 25, 1997 (*Working Group Report*) and its appendices, which are incorporated by reference pursuant to 5 U.S.C. 552(a) and 1 CFR part 51. *Except that:* Section 7.10 of *Appendix D and the following portions of Appendix E:* Section 7, Issue Statement I of Appendix A, and Appendix B in the *Working Group Report* are *not* incorporated herein.
 
 (b) In addition to the requirements set forth in the *Working Group Report*, the following requirements are established:

@@ -1,5 +1,7 @@
 ##### § 51.215 Dialing parity: Cost recovery. #####
 
+Link to an amendment published at 83 FR 42052, Aug. 20, 2018.
+
 (a) A LEC may recover the incremental costs necessary for the implementation of toll dialing parity. The LEC must recover such costs from all providers of telephone exchange service and telephone toll service in the area served by the LEC, including that LEC. The LEC shall use a cost recovery mechanism established by the state.
 
 (b) Any cost recovery mechanism for the provision of toll dialing parity pursuant to this section that a state adopts must not:

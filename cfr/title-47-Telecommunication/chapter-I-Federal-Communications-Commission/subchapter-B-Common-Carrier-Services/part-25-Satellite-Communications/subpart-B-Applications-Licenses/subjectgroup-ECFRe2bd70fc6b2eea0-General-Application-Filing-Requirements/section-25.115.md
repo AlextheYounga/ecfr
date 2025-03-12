@@ -1,7 +1,5 @@
 ##### § 25.115 Applications for earth station authorizations. #####
 
-Link to an amendment published at 83 FR 34489, July 20, 2018.
-
 (a)(1) *Transmitting earth stations.* Commission authorization must be obtained for authority to operate a transmitting earth station. Applications shall be filed electronically on FCC Form 312, Main Form and Schedule B, and include the information specified in § 25.130, except as set forth in paragraph (a)(2) of this section.
 
 (2) Applicants for licenses for transmitting earth stations in the FSS may file on FCC Form 312EZ if all of the following criteria are met:
@@ -86,7 +84,7 @@ Link to an amendment published at 83 FR 34489, July 20, 2018.
 
 (d) Mobile-Satellite Service user transceivers need not be individually licensed. Service vendors may file blanket applications for such transceivers using FCC Form 312, Main Form and Schedule B, specifying the number of units to be covered by the blanket license. A blanket license application for 1.5/1.6 GHz MSS user transceivers must include an explanation of how the applicant will comply with the priority and preemptive access requirements in § 25.287.
 
-(e) *GSO FSS earth stations in 17.8-30 GHz.* (1) An application for a GSO FSS earth station license in the 17.8-19.4 GHz, 19.6-20.2 GHz, 27.5-29.1 GHz, or 29.25-30 GHz bands not filed on FCC Form 312EZ pursuant to paragraph (a)(2) of this section must be filed on FCC Form 312, Main Form and Schedule B, and must include any information required by paragraph (g) or (j) of this section or by § 25.130.
+(e) *GSO FSS earth stations in 17.8-30 GHz.* (1) An application for a GSO FSS earth station license in the 17.8-19.4 GHz, 19.6-20.2 GHz, 24.75-25.25 GHz, 27.5-29.1 GHz, or 29.25-30 GHz bands not filed on FCC Form 312EZ pursuant to paragraph (a)(2) of this section must be filed on FCC Form 312, Main Form and Schedule B, and must include any information required by paragraph (g) or (j) of this section or by § 25.130.
 
 (2) An applicant may request authority for operation of GSO FSS earth stations in the 17.8-19.4 GHz, 19.6-20.2 GHz, 28.35-29.1 GHz, and 29.25-30 GHz bands without specifying the location of user terminals but must specify the geographic area(s) in which they will operate and the location of hub and/or gateway stations; however, blanket licensing in the 17.8-18.3 GHz, 19.3-19.4 GHz, and 19.6-19.7 GHz bands is on an unprotected basis with respect to the fixed service.
 
@@ -112,7 +110,7 @@ Link to an amendment published at 83 FR 34489, July 20, 2018.
 
 (vi) For antennas for which gain measurements are made pursuant to § 25.132(b)(1)(iv), the EIRP density plots specified in paragraphs (g)(1)(i) through (v) of this section must be provided over the specified angular ranges in two orthogonal planes, one of which is tangent to the GSO arc and with the antenna operating at its maximum skew angle, which the applicant must specify.
 
-(vii) The relevant off-axis EIRP density envelopes in § 25.138, § 25.218, § 25.221, § 25.222, § 25.223, § 25.226, or § 25.227 must be superimposed on plots submitted pursuant to paragraphs (g)(1)(i) through (vi) of this section.
+(vii) The relevant off-axis EIRP density envelopes in § 25.138, § 25.218, § 25.221, § 25.222, § 25.226, or § 25.227 must be superimposed on plots submitted pursuant to paragraphs (g)(1)(i) through (vi) of this section.
 
 (viii) The showing must include a supplemental table for each off-axis angular range in which the relevant EIRP density envelope will be exceeded, specifying angular coordinates in degrees off-axis and corresponding calculated off-axis EIRP density at 0.2° increments over the angular range in which the routine envelope will be exceeded and one degree on each side of that range.
 

@@ -1,7 +1,5 @@
 ##### § 25.103 Definitions. #####
 
-Link to an amendment published at 83 FR 34489, July 20, 2018.
-
 Terms with definitions including the “(RR)” designation are defined in the same way in § 2.1 of this chapter and in the Radio Regulations of the International Telecommunication Union.
 
 *1.5/1.6 GHz Mobile-Satellite Service.* Mobile-Satellite Service provided in any portion of the 1525-1559 MHz space-to-Earth band and the 1626.5-1660.5 MHz Earth-to-space band, which are referred to in this rule part as the “1.5/1.6 GHz MSS bands.”
@@ -98,7 +96,7 @@ Terms with definitions including the “(RR)” designation are defined in the s
 
 *Radiodetermination-Satellite Service.* A radiocommunication service for the purpose of radiodetermination involving the use of one of more space stations. This service may also include feeder links necessary for its own operation. (RR)
 
-*Routine processing or licensing.* Expedited processing of unopposed applications for earth stations in the FSS communicating with GSO space stations that satisfy the criteria in § 25.138(a), § 25.211(d), § 25.212(c), § 25.212(d), § 25.212(e), § 25.212(f), § 25.218, or § 25.223(b), include all required information, are consistent with all Commission rules, and do not raise any policy issues. Some, but not all, routine earth station applications are eligible for an autogrant procedure under § 25.115(a)(3).
+*Routine processing or licensing.* Expedited processing of unopposed applications for earth stations in the FSS communicating with GSO space stations, that satisfy the criteria in § 25.138(a), § 25.211(d), § 25.212(c), § 25.212(d), § 25.212(e), § 25.212(f), or § 25.218, include all required information, are consistent with all Commission rules, and do not raise any policy issues. Some, but not all, routine earth station applications are eligible for an autogrant procedure under § 25.115(a)(3).
 
 *Satellite Digital Audio Radio Service (SDARS).* A radiocommunication service in which audio programming is digitally transmitted by one or more space stations directly to fixed, mobile, and/or portable stations, and which may involve complementary repeating terrestrial transmitters and telemetry, tracking and command facilities.
 
@@ -122,8 +120,8 @@ Terms with definitions including the “(RR)” designation are defined in the s
 
 *Terrestrial station.* A station effecting terrestrial radiocommunication.
 
-*Two-degree-compliant space station.* A GSO FSS space station operating in the conventional or extended C-bands, the conventional or extended Ku-bands, or the conventional Ka-band within the limits on downlink EIRP density or PFD specified in § 25.140(a)(3) and communicating only with earth stations operating in conformance with routine uplink parameters specified in § 25.138(a), § 25.211(d), § 25.212(c), (d), or (f), § 25.218, § 25.221(a)(1) or (a)(3), § 25.222(a)(1) or (a)(3), § 25.226(a)(1) or (a)(3), or § 25.227(a)(1) or (a)(3).
+*Two-degree-compliant space station.* A GSO FSS space station operating in the conventional or extended C-bands, the conventional or extended Ku-bands, the 24.75-25.25 GHz band, or the conventional Ka-band within the limits on downlink EIRP density or PFD specified in § 25.140(a)(3) and communicating only with earth stations operating in conformance with routine uplink parameters specified in § 25.138(a), § 25.211(d), § 25.212(c), (d), or (f), § 25.218, § 25.221(a)(1) or (a)(3), or § 25.222(a)(1) or (a)(3), § 25.226(a)(1) or (a)(3), or § 25.227(a)(1) or (a)(3).
 
 *Vehicle-Mounted Earth Station (VMES).* An earth station, operating from a motorized vehicle that travels primarily on land, that receives from and transmits to geostationary orbit Fixed-Satellite Service space stations and operates within the United States pursuant to the requirements set out in § 25.226.
 
-[79 FR 8311, Feb. 12, 2014, as amended at 79 FR 26868, May 12, 2014; 81 FR 55324, Aug. 18, 2016]
+[79 FR 8311, Feb. 12, 2014, as amended at 79 FR 26868, May 12, 2014; 81 FR 55324, Aug. 18, 2016; 83 FR 34489, July 20, 2018]

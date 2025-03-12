@@ -1,5 +1,7 @@
 ##### § 51.213 Toll dialing parity implementation plans. #####
 
+Link to an amendment published at 83 FR 42052, Aug. 20, 2018.
+
 (a) A LEC must file a plan for providing intraLATA toll dialing parity throughout each state in which it offers telephone exchange service. A LEC cannot offer intraLATA toll dialing parity within a state until the implementation plan has been approved by the appropriate state commission or the Commission.
 
 (b) A LEC's implementation plan must include:
