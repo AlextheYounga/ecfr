@@ -1,5 +1,7 @@
 ##### § 3.401 Veterans. #####
 
+Link to an amendment published at 83 FR 32738, July 13, 2018.
+
 Awards of pension or compensation payable to or for a veteran will be effective as follows:
 
 (a) *Aid and attendance and housebound benefits.* (1) Except as provided in § 3.400(o)(2), the date of receipt of claim or date entitlement arose, whichever is later. However, when an award of pension or compensation based on an original or reopened claim is effective for a period prior to the date of receipt of the claim, any additional pension or compensation payable by reason of need for aid and attendance or housebound status shall also be awarded for any part of the award's retroactive period for which entitlement to the additional benefit is established.

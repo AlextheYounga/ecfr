@@ -1,5 +1,7 @@
 ##### § 3.403 Children. #####
 
+Link to an amendment published at 83 FR 32738, July 13, 2018.
+
 (a) Awards of pension, compensation, or dependency and indemnity compensation to or for a child, or to or for a veteran or surviving spouse on behalf of such child, will be effective as follows:
 
 (1) *Permanently incapable of selfsupport (§ 3.57(a)(3)).* In original claims, date fixed by §§ 3.400(b) or (c) or 3.401(b). In claims for continuation of payments, 18th birthday if the condition is claimed prior to or within 1 year after that date; otherwise from date of receipt of claim.

@@ -1,5 +1,7 @@
 ##### § 3.452 Situations when benefits may be apportioned. #####
 
+Link to an amendment published at 83 FR 32738, July 13, 2018.
+
 Veterans benefits may be apportioned:
 
 (a) If the veteran is not residing with his or her spouse or his or her children and a claim for apportionment is filed for or on behalf of the spouse or children.

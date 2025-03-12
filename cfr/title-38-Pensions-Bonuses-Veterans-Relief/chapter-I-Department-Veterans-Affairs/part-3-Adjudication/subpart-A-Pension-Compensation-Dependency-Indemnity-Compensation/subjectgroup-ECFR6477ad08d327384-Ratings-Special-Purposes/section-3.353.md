@@ -1,5 +1,7 @@
 ##### § 3.353 Determinations of incompetency and competency. #####
 
+Link to an amendment published at 83 FR 32738, July 13, 2018.
+
 (a) *Definition of mental incompetency.* A mentally incompetent person is one who because of injury or disease lacks the mental capacity to contract or to manage his or her own affairs, including disbursement of funds without limitation.
 
 (b) *Authority.* (1) Rating agencies have sole authority to make official determinations of competency and incompetency for purposes of: insurance (38 U.S.C. 1922), and, subject to § 13.56 of this chapter, disbursement of benefits. Such determinations are final and binding on field stations for these purposes.

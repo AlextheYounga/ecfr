@@ -1,5 +1,7 @@
 ##### § 3.501 Veterans. #####
 
+Link to an amendment published at 83 FR 32738, July 13, 2018.
+
 The effective date of discontinuance of pension or compensation to or for a veteran will be the earliest of the dates stated in this section. Where an award is reduced, the reduced rate will be payable the day following the date of discontinuance of the greater benefit.
 
 (a) *Active service pay (38 U.S.C. 5112(b)(3); Pub. L. 87-825; § 3.700(a)).* Day preceding entrance on active duty. See § 3.654.
