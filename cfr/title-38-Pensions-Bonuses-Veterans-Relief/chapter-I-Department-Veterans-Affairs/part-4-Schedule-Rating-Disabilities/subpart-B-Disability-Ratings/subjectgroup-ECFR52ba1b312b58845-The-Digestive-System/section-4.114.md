@@ -1,4 +1,4 @@
-##### § 4.114 Schedule of ratings - digestive system. #####
+##### § 4.114 Schedule of ratings—digestive system. #####
 
 Ratings under diagnostic codes 7301 to 7329, inclusive, 7331, 7342, and 7345 to 7348 inclusive will not be combined with each other. A single evaluation will be assigned under the diagnostic code which reflects the predominant disability picture, with elevation to the next higher evaluation where the severity of the overall disability warrants such elevation.
 

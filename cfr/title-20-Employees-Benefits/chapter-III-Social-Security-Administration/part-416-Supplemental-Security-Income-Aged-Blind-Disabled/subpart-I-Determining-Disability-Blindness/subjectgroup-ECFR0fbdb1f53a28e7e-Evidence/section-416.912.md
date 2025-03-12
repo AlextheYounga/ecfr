@@ -1,8 +1,6 @@
 ##### § 416.912 Responsibility for evidence. #####
 
-(a) *Your responsibility.*
-
-(1) *General.* In general, you have to prove to us that you are blind or disabled. You must inform us about or submit all evidence known to you that relates to whether or not you are blind or disabled (*see* § 416.913). This duty is ongoing and requires you to disclose any additional related evidence about which you become aware. This duty applies at each level of the administrative review process, including the Appeals Council level if the evidence relates to the period on or before the date of the administrative law judge hearing decision. We will consider only impairment(s) you say you have or about which we receive evidence. When you submit evidence received from another source, you must submit that evidence in its entirety, unless you previously submitted the same evidence to us or we instruct you otherwise. If we ask you, you must inform us about:
+(a) *Your responsibility*—(1) *General.* In general, you have to prove to us that you are blind or disabled. You must inform us about or submit all evidence known to you that relates to whether or not you are blind or disabled (*see* § 416.913). This duty is ongoing and requires you to disclose any additional related evidence about which you become aware. This duty applies at each level of the administrative review process, including the Appeals Council level if the evidence relates to the period on or before the date of the administrative law judge hearing decision. We will consider only impairment(s) you say you have or about which we receive evidence. When you submit evidence received from another source, you must submit that evidence in its entirety, unless you previously submitted the same evidence to us or we instruct you otherwise. If we ask you, you must inform us about:
 
 (i) Your medical source(s);
 
@@ -18,7 +16,7 @@
 
 (vii) Any other factors showing how your impairment(s) affects your ability to work, or, if you are a child, your functioning. In §§ 416.960 through 416.969, we discuss in more detail the evidence we need when we consider vocational factors.
 
-(2) *Completeness.* The evidence in your case record must be complete and detailed enough to allow us to make a determination or decision about whether you are disabled or blind. It must allow us to determine -
+(2) *Completeness.* The evidence in your case record must be complete and detailed enough to allow us to make a determination or decision about whether you are disabled or blind. It must allow us to determine—
 
 (i) The nature and severity of your impairment(s) for any period in question;
 
@@ -28,9 +26,7 @@
 
 (3) *Statutory blindness.* If you are applying for benefits on the basis of statutory blindness, we will require an examination by a physician skilled in diseases of the eye or by an optometrist, whichever you may select.
 
-(b) *Our responsibility.*
-
-(1) *Development.* Before we make a determination that you are not disabled, we will develop your complete medical history for at least the 12 months preceding the month in which you file your application unless there is a reason to believe that development of an earlier period is necessary or unless you say that your disability began less than 12 months before you filed your application. We will make every reasonable effort to help you get medical evidence from your own medical sources and entities that maintain your medical sources' evidence when you give us permission to request the reports.
+(b) *Our responsibility*—(1) *Development.* Before we make a determination that you are not disabled, we will develop your complete medical history for at least the 12 months preceding the month in which you file your application unless there is a reason to believe that development of an earlier period is necessary or unless you say that your disability began less than 12 months before you filed your application. We will make every reasonable effort to help you get medical evidence from your own medical sources and entities that maintain your medical sources' evidence when you give us permission to request the reports.
 
 (i) *Every reasonable effort* means that we will make an initial request for evidence from your medical source or entity that maintains your medical source's evidence, and, at any time between 10 and 20 calendar days after the initial request, if the evidence has not been received, we will make one follow-up request to obtain the medical evidence necessary to make a determination. The medical source or entity that maintains your medical source's evidence will have a minimum of 10 calendar days from the date of our follow-up request to reply, unless our experience with that source indicates that a longer period is advisable in a particular case.
 

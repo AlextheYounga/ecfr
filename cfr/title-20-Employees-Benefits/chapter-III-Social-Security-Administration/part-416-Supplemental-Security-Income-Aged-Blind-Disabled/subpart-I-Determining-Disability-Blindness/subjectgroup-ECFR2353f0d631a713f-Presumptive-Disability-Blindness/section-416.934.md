@@ -1,10 +1,10 @@
 ##### § 416.934 Impairments that may warrant a finding of presumptive disability or presumptive blindness. #####
 
-We may make findings of presumptive disability and presumptive blindness in specific impairment categories without obtaining any medical evidence. These specific impairment categories are -
+We may make findings of presumptive disability and presumptive blindness in specific impairment categories without obtaining any medical evidence. These specific impairment categories are—
 
 (a) Amputation of a leg at the hip;
 
-(h) Allegation of intellectual disability or another neurodevelopmental impairment (for example, autism spectrum disorder) with complete inability to independently perform basic self-care activities (such as toileting, eating, dressing, or bathing) made by another person who files on behalf of a claimant who is at least 4 years old.
+(b) Allegation of total deafness;
 
 (c) Allegation of total blindness;
 
@@ -16,7 +16,7 @@ We may make findings of presumptive disability and presumptive blindness in spec
 
 (g) Allegation of Down syndrome.
 
-(h) Allegation of severe mental deficiency made by another individual filing on behalf of a claimant who is at least 7 years of age. For example, a mother filing for benefits for her child states that the child attends (or attended) a special school, or special classes in school, because of mental deficiency or is unable to attend any type of school (or if beyond school age, was unable to attend), and requires care and supervision of routine daily activities.
+(h) Allegation of intellectual disability or another neurodevelopmental impairment (for example, autism spectrum disorder) with complete inability to independently perform basic self-care activities (such as toileting, eating, dressing, or bathing) made by another person who files on behalf of a claimant who is at least 4 years old.
 
 (i) Allegation of amyotrophic lateral sclerosis (ALS, Lou Gehrig's disease).
 

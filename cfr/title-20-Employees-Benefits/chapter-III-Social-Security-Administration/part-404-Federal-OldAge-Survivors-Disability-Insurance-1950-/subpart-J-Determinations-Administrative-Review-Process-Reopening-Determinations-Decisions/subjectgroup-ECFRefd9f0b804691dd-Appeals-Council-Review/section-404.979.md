@@ -2,4 +2,4 @@
 
 After it has reviewed all the evidence in the administrative law judge hearing record and any additional evidence received, subject to the limitations on Appeals Council consideration of additional evidence in § 404.970, the Appeals Council will make a decision or remand the case to an administrative law judge. The Appeals Council may affirm, modify or reverse the administrative law judge hearing decision or it may adopt, modify or reject a recommended decision. If the Appeals Council issues its own decision, it will base its decision on the preponderance of the evidence. A copy of the Appeals Council's decision will be mailed to the parties at their last known address.
 
-[52 FR 4004, Feb. 9, 1987, as amended at 73 FR 76944, Dec. 18, 2008; 81 FR m30994, Dec. 16, 2016]
+[52 FR 4004, Feb. 9, 1987, as amended at 73 FR 76944, Dec. 18, 2008; 81 FR 90994, Dec. 16, 2016]

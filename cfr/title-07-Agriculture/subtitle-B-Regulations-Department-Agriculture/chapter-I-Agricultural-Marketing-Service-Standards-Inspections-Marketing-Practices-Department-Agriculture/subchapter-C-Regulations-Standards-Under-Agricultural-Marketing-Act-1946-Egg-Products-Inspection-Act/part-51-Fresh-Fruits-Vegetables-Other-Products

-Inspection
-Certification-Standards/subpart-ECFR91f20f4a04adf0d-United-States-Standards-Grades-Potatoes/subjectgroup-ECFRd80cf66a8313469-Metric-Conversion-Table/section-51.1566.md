@@ -1,19 +1,19 @@
 ##### § 51.1566 Metric conversion table. #####
 
-|             Inches              |Millimeters (mm)|
-|---------------------------------|----------------|
-|<sup>1</sup>⁄<sub>8</sub> equals |      3.2       |
-|<sup>1</sup>⁄<sub>4</sub> equals |      6.4       |
-|<sup>1</sup>⁄<sub>2</sub> equals |      12.7      |
-|<sup>3</sup>⁄<sub>4</sub> equals |      19.1      |
-|            1 equals             |      25.4      |
-|1<sup>1</sup>⁄<sub>2</sub> equals|      38.1      |
-|            2 equals             |      50.8      |
-|2<sup>1</sup>⁄<sub>2</sub> equals|      63.5      |
-|            3 equals             |      76.2      |
-|3<sup>1</sup>⁄<sub>2</sub> equals|      88.9      |
-|            4 equals             |     101.6      |
-|4<sup>1</sup>⁄<sub>2</sub> equals|     114.3      |
+|  Inches   |Millimeters (mm)|
+|-----------|----------------|
+|1/8 equals |      3.2       |
+|1/4 equals |      6.4       |
+|1/2 equals |      12.7      |
+|3/4 equals |      19.1      |
+| 1 equals  |      25.4      |
+|11/2 equals|      38.1      |
+| 2 equals  |      50.8      |
+|21/2 equals|      63.5      |
+| 3 equals  |      76.2      |
+|31/2 equals|      88.9      |
+| 4 equals  |     101.6      |
+|41/2 equals|     114.3      |
 
 | Ounces  |Grams |
 |---------|------|

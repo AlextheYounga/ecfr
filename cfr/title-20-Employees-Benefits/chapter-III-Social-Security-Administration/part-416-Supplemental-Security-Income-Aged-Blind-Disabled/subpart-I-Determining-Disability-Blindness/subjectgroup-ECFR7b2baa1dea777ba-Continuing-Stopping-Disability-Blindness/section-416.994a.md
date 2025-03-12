@@ -32,7 +32,7 @@
 
 (1) The most recent favorable decision is the latest final determination or decision involving a consideration of the medical evidence and whether you were disabled or continued to be disabled.
 
-(2) The terms *symptoms, signs,* and *laboratory findings* are defined in § 416.928. For children, our definitions of the terms *symptoms, signs,* and *laboratory findings* may include any abnormalities of physical and mental functioning that we used in making our most recent favorable decision.
+(2) The terms symptoms, signs, and laboratory findings are defined in § 416.902. For children, our definitions of the terms *symptoms, signs,* and *laboratory findings* may include any abnormalities of physical and mental functioning that we used in making our most recent favorable decision.
 
 (3) Some impairments are subject to temporary remissions, which can give the appearance of medical improvement when in fact there has been none. If you have the kind of impairment that is subject to temporary remissions, we will be careful to consider the longitudinal history of the impairment, including the occurrence of prior remissions and prospects for future worsenings, when we decide whether there has been medical improvement. Improvements that are only temporary will not warrant a finding of medical improvement.
 
@@ -70,7 +70,7 @@
 
 (4) *You fail to follow prescribed treatment which would be expected to improve your impairment(s) so that it no longer results in marked and severe functional limitations.* If treatment has been prescribed for you which would be expected to improve your impairment(s) so that it no longer results in marked and severe functional limitations, you must follow that treatment in order to be paid benefits. If you are not following that treatment and you do not have good cause for failing to follow that treatment, we will find that your disability has ended (see § 416.930(c)). The month your disability ends will be the first month in which you failed to follow the prescribed treatment.
 
-(g) *The month in which we will find you are no longer disabled.* If the evidence shows that you are no longer disabled, we will find that your disability ended in the following month -
+(g) *The month in which we will find you are no longer disabled.* If the evidence shows that you are no longer disabled, we will find that your disability ended in the following month—
 
 (1) The month the evidence shows that you are no longer disabled under the rules set out in this section, and you were disabled only for a specified period of time in the past;
 
@@ -88,7 +88,7 @@
 
 (i) *Requirement for treatment that is medically necessary and available.* If you have a representative payee, the representative payee must, at the time of the continuing disability review, present evidence demonstrating that you are and have been receiving treatment, to the extent considered medically necessary and available, for the condition(s) that was the basis for providing you with SSI benefits, unless we determine that requiring your representative payee to provide such evidence would be inappropriate or unnecessary considering the nature of your impairment(s). If your representative payee refuses without good cause to comply with this requirement, and if we decide that it is in your best interests, we may pay your benefits to another representative payee or to you directly.
 
-(1) *What we mean by treatment that is medically necessary.* Treatment that is medically necessary means treatment that is expected to improve or restore your functioning and that was prescribed by your medical source. If you do not have a medical source, we will decide whether there is treatment that is medically necessary that could have been prescribed by a medical source. The treatment may include (but is not limited to) -
+(1) *What we mean by treatment that is medically necessary.* Treatment that is medically necessary means treatment that is expected to improve or restore your functioning and that was prescribed by your medical source. If you do not have a medical source, we will decide whether there is treatment that is medically necessary that could have been prescribed by a medical source. The treatment may include (but is not limited to)—
 
 (i) Medical management;
 
@@ -98,7 +98,7 @@
 
 (iv) Home therapy, such as administering oxygen or giving injections.
 
-(2) *How we will consider whether medically necessary treatment is available.* When we decide whether medically necessary treatment is available, we will consider such things as (but not limited to) -
+(2) *How we will consider whether medically necessary treatment is available.* When we decide whether medically necessary treatment is available, we will consider such things as (but not limited to)—
 
 (i) The location of an institution or facility or place where treatment, services, or resources could be provided to you in relationship to where you reside;
 

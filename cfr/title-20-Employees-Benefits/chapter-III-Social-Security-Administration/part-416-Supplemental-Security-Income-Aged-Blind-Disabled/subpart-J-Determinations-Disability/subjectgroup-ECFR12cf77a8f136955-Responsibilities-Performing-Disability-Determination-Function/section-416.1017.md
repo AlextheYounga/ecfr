@@ -6,4 +6,4 @@
 
 (c) Where every reasonable effort is made to obtain the services of a qualified psychiatrist or psychologist to review a mental impairment case, but the professional services are not obtained, a physician who is not a psychiatrist will review the mental impairment case. For these purposes, every reasonable effort to ensure that a qualified psychiatrist or psychologist review mental impairment cases will be considered to have been made only after efforts by both State and Federal agencies as set forth in paragraphs (a) and (b) of this section are made.
 
-[52 FR 23928, Sept. 9, 1987; 82 FR 5883, Jan. 18, 2017]
+[52 FR 23928, Sept. 9, 1987, as amended at 82 FR 5883, Jan. 18, 2017]

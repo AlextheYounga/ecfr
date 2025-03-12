@@ -8,7 +8,7 @@
 
 (d) Under § 498.102(d), the Office of the Inspector General may impose a penalty of not more than $5,000 for each violation resulting from insufficient notice relating to printed media regarding products or services provided free of charge by the Social Security Administration and a penalty of not more than $25,000 for each violation in the case that such insufficient notice relates to a broadcast or telecast.
 
-(e) For purposes of paragraphs (c) and (d) of this section, a violation is defined as -
+(e) For purposes of paragraphs (c) and (d) of this section, a violation is defined as—
 
 (1) In the case of a mailed solicitation, advertisement, or other communication, each separate piece of mail which contains one or more program words, letters, symbols, or emblems or insufficient notice related to a determination under § 498.102(c) or (d); and
 
@@ -18,7 +18,7 @@
 
 (g)(1) The amount of the penalties described in paragraphs (a) through (d) of this section are the maximum penalties which may be assessed under these paragraphs for violations made after June 16, 2006, but before August 1, 2016.
 
-(2) (i) After August 1, 2016 penalties are adjusted in accordance with the Federal Civil Penalties Inflation Adjustment Act of 1990 (Pub. L. 101-410), as amended by the Debt Collection Improvement Act of 1996 (Pub. L. 104-134), as further amended by the Bipartisan Budget Act of 2015, Section 701: Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015 (Section 701 of Pub. L. 114-74).
+(2)(i) After August 1, 2016 penalties are adjusted in accordance with the Federal Civil Penalties Inflation Adjustment Act of 1990 (Pub. L. 101-410), as amended by the Debt Collection Improvement Act of 1996 (Pub. L. 104-134), as further amended by the Bipartisan Budget Act of 2015, Section 701: Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015 (Section 701 of Pub. L. 114-74).
 
 (ii) The maximum penalties which may be assessed under this section is the larger of:
 

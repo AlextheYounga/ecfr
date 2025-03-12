@@ -1,5 +1,7 @@
 ##### § 447.21 Prohibited conduct. #####
 
+Link to an amendment published at 82 FR 33807, July 21, 2017.
+
 (a) An employee must not engage, either on a paid or unpaid basis, in teaching, lecturing, or writing for the purpose of the special preparation of a person or class of persons for an examination of the Office of Personnel Management or Board of Examiners for the Foreign Service, or for appointment in the U.S. Postal Service, when these activities are dependent on information obtained as a result of his or her employment with the Postal Service, except when that information has been made available to the general public, or will be made available on request, or when the Postmaster General gives written authorization that the use of nonpublic information is in the public interest.
 
 (b) No employee shall take sick leave to enable himself to engage in outside work.
