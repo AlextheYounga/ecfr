@@ -1,5 +1,7 @@
 ##### § 155.1020 Definitions. #####
 
+Link to an amendment published at 83 FR 26220, June 6, 2018.
+
 Except as otherwise defined in this section, the definitions in § 155.110 apply to this subpart and subparts F and G of this part. For the purposes of this subpart only, the term:
 
 *Adverse weather* means the weather conditions that will be considered when identifying response systems and equipment in a response plan for the applicable operating environment. Factors to consider include, but are not limited to, significant wave height, ice, temperature, weather-related visibility, and currents within the Captain of the Port (COTP) zone in which the systems or equipment are intended to function.

@@ -114,4 +114,4 @@ Radiolocation Service Frequency Table
 
 (d) *Other additional frequencies available.* Radiolocation stations in this service may be authorized, on request, to use frequencies allocated exclusively to Federal Government stations, in those instances where the Commission finds, after consultation with the appropriate Government agency or agencies, that such assignment is necessary or required for coordination with Government activities.
 
-[43 FR 54791, Nov. 22, 1978]Editorial Note:For Federal Register citations affecting § 90.103, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[43 FR 54791, Nov. 22, 1978]Editorial Note:For Federal Register citations affecting § 90.103, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

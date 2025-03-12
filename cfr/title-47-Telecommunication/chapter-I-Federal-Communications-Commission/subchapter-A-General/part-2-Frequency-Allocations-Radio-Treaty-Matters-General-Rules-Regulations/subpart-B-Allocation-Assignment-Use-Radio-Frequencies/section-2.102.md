@@ -1,7 +1,5 @@
 ##### § 2.102 Assignment of frequencies. #####
 
-Link to an amendment published at 83 FR 19977, May 7, 2018.
-
 (a) Except as otherwise provided in this section, the assignment of frequencies and bands of frequencies to all stations and classes of stations and the licensing and authorizing of the use of all such frequencies between 8.3 kHz and 275 GHz, and the actual use of such frequencies for radiocommunication or for any other purpose, including the transfer of energy by radio, shall be in accordance with the Table of Frequency Allocations in § 2.106.
 
 (b) On the condition that harmful interference will not be caused to services operating in accordance with the Table of Frequency Allocations the following exceptions to paragraph (a) of this section may be authorized:
@@ -14,15 +12,19 @@ Link to an amendment published at 83 FR 19977, May 7, 2018.
 
 (4) In the event a band is reallocated so as to delete its availability for use by a particular service, the Commission may provide for the further interim use of the band by stations in that service for a temporary, specific period of time.
 
-(c) Non-Federal stations may be authorized to use Federal frequencies in the bands above 25 MHz if the Commission finds, after consultations with the appropriate Federal agency or agencies, that such use is necessary for coordination of Federal and non-Federal activities: Provided, however, that:
+(c) Non-Federal stations may be authorized to use Federal frequencies in the bands above 25 MHz:
 
-(1) Non-Federal operation on Federal frequencies shall conform with the conditions agreed upon by the Commission and NTIA (the more important of which are contained in paragraphs (c)(2), (c)(3), and (c)(4) of this section);
+(1) If the Commission finds, after consultations with the appropriate Federal agency or agencies, that such use is necessary for coordination of Federal and non-Federal activities. Such operations must meet the following requirements:
 
-(2) Such operations shall be in accordance with NTIA rules governing the service to which the frequencies involved are allocated;
+(i) Non-Federal operation on Federal frequencies shall conform with the conditions agreed upon by the Commission and NTIA;
 
-(3) Such operations shall not cause harmful interference to Federal stations and, should harmful interference result, that the interfering non-Federal operation shall immediately terminate; and
+(ii) Such operations shall be in accordance with NTIA rules governing the service to which the frequencies involved are allocated;
 
-(4) Non-Federal operation has been certified as necessary by the Federal agency involved and this certification has been furnished, in writing, to the non-Federal licensee with which communication is required.
+(iii) Such operations shall not cause harmful interference to Federal stations and, should harmful interference result, that the interfering non-Federal operation shall immediately terminate; and
+
+(iv) Non-Federal operation has been certified as necessary by the Federal agency involved and this certification has been furnished, in writing, to the non-Federal licensee with which communication is required; or
+
+(2) Pursuant to the provisions of § 90.25 of this chapter, provided that such operations shall not cause harmful interference to Federal stations and, should harmful interference result, that the interfering non-Federal operation shall immediately terminate.
 
 (d) Aircraft stations may communicate with stations of the maritime mobile service. They shall then conform to those provisions of the international *Radio Regulations* which relate to the maritime mobile service. For this purpose aircraft stations should use the frequencies allocated to the maritime mobile service. However, having regard to interference which may be caused by aircraft stations at high altitudes, maritime mobile frequencies in the bands above 30 MHz shall not be used by aircraft stations in any specific area without the prior agreement of all administrations of the area in which interference is likely to be caused. In particular, aircraft stations operating in Region 1 should not use frequencies in the bands above 30 MHz allocated to the maritime mobile service by virtue of any agreement between administrations in that Region.
 
@@ -72,4 +74,4 @@ Link to an amendment published at 83 FR 19977, May 7, 2018.
 
 (iii) In order to accommodate the situations described in paragraphs (h)(3) (i) and (ii) of this section, equipments shall be capable of transmitting and receiving on any frequency in the bands assigned to the particular operation and capable of immediate change among the frequencies.
 
-[49 FR 2373, Jan. 19, 1984, 70 FR 46585, Aug. 10, 2005, as amended at 78 FR 25161, Apr. 29, 2013; 82 FR 27185, June 14, 2017]
+[49 FR 2373, Jan. 19, 1984, 70 FR 46585, Aug. 10, 2005, as amended at 78 FR 25161, Apr. 29, 2013; 82 FR 27185, June 14, 2017; 83 FR 19977, May 7, 2018]

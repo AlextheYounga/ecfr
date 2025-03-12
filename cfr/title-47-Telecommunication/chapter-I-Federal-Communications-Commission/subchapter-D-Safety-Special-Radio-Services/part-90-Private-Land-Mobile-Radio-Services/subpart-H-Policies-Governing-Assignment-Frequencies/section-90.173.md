@@ -1,12 +1,10 @@
 ##### § 90.173 Policies governing the assignment of frequencies. #####
 
-Link to an amendment published at 83 FR 19981, May 7, 2018.
-
 (a) Except as indicated in paragraph (j) of this section, the frequencies which ordinarily may be assigned to stations in the services governed by this part are listed in subparts B, C and F of this part. Except as otherwise specifically provided in this part, frequencies assigned to land mobile stations are available on a shared basis only and will not be assigned for the exclusive use of any licensee.
 
 (b) All applicants and licensees shall cooperate in the selection and use of frequencies in order to reduce interference and make the most effective use of the authorized facilities. Licensees of stations suffering or causing harmful interference are expected to cooperate and resolve this problem by mutually satisfactory arrangements. If the licensees are unable to do so, the Commission may impose restrictions including specifying the transmitter power, antenna height, or area or hours of operation of the stations concerned. Further the use of any frequency at a given geographical location may be denied when, in the judgment of the Commission, its use in that location is not in the public interest; the use of any frequency may be restricted as to specified geographical areas, maximum power, or such other operating conditions, contained in this part or in the station authorization.
 
-(c) Frequencies allocated for Federal Government radio stations under Executive order of the President may be authorized for the use of stations in these services upon appropriate showing by the applicant that such assignment is necessary for inter-communication with government stations or required for coordination with activities of the Federal Government, and where the Commission finds, after consultation with the appropriate government agency or agencies, that such assignment is necessary.
+(c) Frequencies assigned to Federal Government radio stations by the National Telecommunications and Information Administration may be authorized under the provisions set forth in § 2.102(c) of this chapter.
 
 (d) The radio facilities authorized under this part are intended for use in connection with and as an adjunct to the primary governmental or business activities of the licensee.
 
@@ -36,4 +34,4 @@ Link to an amendment published at 83 FR 19981, May 7, 2018.
 
 (n) Any recovered channels in the 800 MHz SMR service will revert automatically to the holder of the EA license within which such channels are included. If there is no EA licensee for recovered channels, such channels will be retained by the Commission for future licensing.
 
-(Secs. 4, 303, 307, 48 Stat., as amended, 1066, 1082, 1083; 47 U.S.C. 154, 303, 307)[43 FR 54791, Nov. 22, 1978]Editorial Note:For Federal Register citations affecting § 90.173, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Secs. 4, 303, 307, 48 Stat., as amended, 1066, 1082, 1083; 47 U.S.C. 154, 303, 307)[43 FR 54791, Nov. 22, 1978]Editorial Note:For Federal Register citations affecting § 90.173, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
