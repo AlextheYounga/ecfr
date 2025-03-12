@@ -1,16 +1,14 @@
 ##### § 195.11 What is a regulated rural gathering line and what requirements apply? #####
 
-Link to an amendment published at 87 FR 20987, Apr. 8, 2022.
-
 Each operator of a regulated rural gathering line, as defined in paragraph (a) of this section, must comply with the safety requirements described in paragraph (b) of this section.
 
-(a) *Definition.* As used in this section, a regulated rural gathering line means an onshore gathering line in a rural area that meets all of the following criteria -
+(a) *Definition.* As used in this section, a regulated rural gathering line means an onshore gathering line in a rural area that meets all of the following criteria—
 
 (1) Has a nominal diameter from 65/8 inches (168 mm) to 85/8 inches (219.1 mm);
 
 (2) Is located in or within one-quarter mile (.40 km) of an unusually sensitive area as defined in § 195.6; and
 
-(3) Operates at a maximum pressure established under § 195.406 corresponding to -
+(3) Operates at a maximum pressure established under § 195.406 corresponding to—
 
 (i) A stress level greater than 20-percent of the specified minimum yield strength of the line pipe; or
 
@@ -20,7 +18,11 @@ Each operator of a regulated rural gathering line, as defined in paragraph (a) o
 
 (1) Identify all segments of pipeline meeting the criteria in paragraph (a) of this section before April 3, 2009.
 
-(2) For steel pipelines constructed, replaced, relocated, or otherwise changed after July 3, 2009, design, install, construct, initially inspect, and initially test the pipeline in compliance with this part, unless the pipeline is converted under § 195.5.
+(2) For steel pipelines contracted, replaced, relocated, or otherwise changed after July 3, 2009:
+
+(i) Design, install, construct, initially inspect, and initially test the pipeline in compliance with this part, unless the pipeline is converted under § 195.5.
+
+(ii) Except for pipelines subject to § 195.260(e), such pipelines are not subject to the rupture-mitigation valve (RMV) and alternative equivalent technology requirements in §§ 195.258(c) and (d), 195.418, and 195.419.
 
 (3) For non-steel pipelines constructed after July 3, 2009, notify the Administrator according to § 195.8.
 
@@ -48,4 +50,4 @@ Each operator of a regulated rural gathering line, as defined in paragraph (a) o
 
 (2) An operator must maintain the records necessary to demonstrate compliance with each requirement in paragraphs (b)(2) through (b)(9), and (b)(11) of this section according to the record retention requirements of the referenced section or subpart.
 
-[73 FR 31644, June 3, 2008]
+[73 FR 31644, June 3, 2008, as amended by Amdt. No. 195-105, 87 FR 20987, Apr. 8, 2022]

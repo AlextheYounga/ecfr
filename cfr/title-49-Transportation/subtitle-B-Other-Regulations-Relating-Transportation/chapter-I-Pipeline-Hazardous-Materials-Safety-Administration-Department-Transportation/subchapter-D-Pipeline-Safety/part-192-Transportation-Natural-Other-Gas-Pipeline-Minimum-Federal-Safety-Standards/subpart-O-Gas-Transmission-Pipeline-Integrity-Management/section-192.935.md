@@ -1,12 +1,12 @@
 ##### § 192.935 What additional preventive and mitigative measures must an operator take? #####
 
-Link to an amendment published at 87 FR 20986, Apr. 8, 2022.Link to an amendment published at 87 FR 52279, Aug. 24, 2022.
+Link to an amendment published at 87 FR 52279, Aug. 24, 2022.
 
 (a) *General requirements.* An operator must take additional measures beyond those already required by Part 192 to prevent a pipeline failure and to mitigate the consequences of a pipeline failure in a high consequence area. An operator must base the additional measures on the threats the operator has identified to each pipeline segment. (*See* § 192.917) An operator must conduct, in accordance with one of the risk assessment approaches in ASME/ANSI B31.8S (incorporated by reference, *see* § 192.7), section 5, a risk analysis of its pipeline to identify additional measures to protect the high consequence area and enhance public safety. Such additional measures include, but are not limited to, installing Automatic Shut-off Valves or Remote Control Valves, installing computerized monitoring and leak detection systems, replacing pipe segments with pipe of heavier wall thickness, providing additional training to personnel on response procedures, conducting drills with local emergency responders and implementing additional inspection and maintenance programs.
 
-(b) Third party damage and outside force damage -
+(b) Third party damage and outside force damage—
 
-(1) *Third party damage.* An operator must enhance its damage prevention program, as required under § 192.614 of this part, with respect to a covered segment to prevent and minimize the consequences of a release due to third party damage. Enhanced measures to an existing damage prevention program include, at a minimum -
+(1) *Third party damage.* An operator must enhance its damage prevention program, as required under § 192.614 of this part, with respect to a covered segment to prevent and minimize the consequences of a release due to third party damage. Enhanced measures to an existing damage prevention program include, at a minimum—
 
 (i) Using qualified personnel (*see* § 192.915) for work an operator is conducting that could adversely affect the integrity of a covered segment, such as marking, locating, and direct supervision of known excavation work.
 
@@ -18,7 +18,7 @@ Link to an amendment published at 87 FR 20986, Apr. 8, 2022.Link to an amendment
 
 (2) *Outside force damage.* If an operator determines that outside force (*e.g.,* earth movement, loading, longitudinal, or lateral forces, seismicity of the area, floods, unstable suspension bridge) is a threat to the integrity of a covered segment, the operator must take measures to minimize the consequences to the covered segment from outside force damage. These measures include increasing the frequency of aerial, foot or other methods of patrols; adding external protection; reducing external stress; relocating the line; or inline inspections with geospatial and deformation tools.
 
-(c) *Automatic shut-off valves (ASV) or Remote control valves (RCV).* If an operator determines, based on a risk analysis, that an ASV or RCV would be an efficient means of adding protection to a high consequence area in the event of a gas release, an operator must install the ASV or RCV. In making that determination, an operator must, at least, consider the following factors - swiftness of leak detection and pipe shutdown capabilities, the type of gas being transported, operating pressure, the rate of potential release, pipeline profile, the potential for ignition, and location of nearest response personnel.
+(c) *Risk analysis for gas releases and protection against ruptures.* If an operator determines, based on a risk analysis, that a rupture-mitigation valve (RMV) or alternative equivalent technology would be an efficient means of adding protection to a high-consequence area (HCA) in the event of a gas release, an operator must install the RMV or alternative equivalent technology. In making that determination, an operator must, at least, evaluate the following factors—timing of leak detection and pipe shutdown capabilities, the type of gas being transported, operating pressure, the rate of potential release, pipeline profile, the potential for ignition, and location of nearest response personnel. An RMV or alternative equivalent technology installed under this paragraph must meet all of the other applicable requirements in this part.
 
 (d) *Pipelines operating below 30% SMYS.* An operator of a transmission pipeline operating below 30% SMYS located in a high consequence area must follow the requirements in paragraphs (d)(1) and (d)(2) of this section. An operator of a transmission pipeline operating below 30% SMYS located in a Class 3 or Class 4 area but not in a high consequence area must follow the requirements in paragraphs (d)(1), (d)(2) and (d)(3) of this section.
 
@@ -30,4 +30,6 @@ Link to an amendment published at 87 FR 20986, Apr. 8, 2022.Link to an amendment
 
 (e) *Plastic transmission pipeline.* An operator of a plastic transmission pipeline must apply the requirements in paragraphs (b)(1)(i), (b)(1)(iii) and (b)(1)(iv) of this section to the covered segments of the pipeline.
 
-[68 FR 69817, Dec. 15, 2003, as amended by Amdt. 192-95, 69 FR 18233, Apr. 6, 2004; Amdt. 192-95, 69 FR 29904, May 26, 2004; Amdt. 192-114, 75 FR 48604, Aug. 11, 2010; Amdt. 192-119, 80 FR 178, Jan. 5, 2015; Amdt. No. 192-125, 84 FR 52254, Oct. 1, 2019]
+(f) *Periodic evaluations.* Risk analyses and assessments conducted under paragraph (c) of this section must be reviewed by the operator and certified by a senior executive of the company, for operational matters that could affect rupture-mitigation processes and procedures. Review and certification must occur once per calendar year, with the period between reviews not to exceed 15 months, and must also occur within 3 months of an incident or safety-related condition, as those terms are defined at §§ 191.3 and 191.23, respectively.
+
+[68 FR 69817, Dec. 15, 2003, as amended by Amdt. 192-95, 69 FR 18233, Apr. 6, 2004; Amdt. 192-95, 69 FR 29904, May 26, 2004; Amdt. 192-114, 75 FR 48604, Aug. 11, 2010; Amdt. 192-119, 80 FR 178, Jan. 5, 2015; Amdt. No. 192-125, 84 FR 52254, Oct. 1, 2019; Amdt. 192-130, 87 FR 20986, Apr. 8, 2022]

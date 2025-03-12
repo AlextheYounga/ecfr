@@ -1,8 +1,6 @@
 ##### § 195.2 Definitions. #####
 
-Link to an amendment published at 87 FR 20987, Apr. 8, 2022.
-
-As used in this part -
+As used in this part—
 
 *Abandoned* means permanently removed from service.
 
@@ -27,6 +25,8 @@ As used in this part -
 *Controller* means a qualified individual who remotely monitors and controls the safety-related operations of a pipeline facility via a SCADA system from a control room, and who has operational authority and accountability for the remote operational functions of the pipeline facility.
 
 *Corrosive product* means “corrosive material” as defined by § 173.136 Class 8-Definitions of this chapter.
+
+*Entirely replaced onshore hazardous liquid or carbon dioxide pipeline segments,* for the purposes of §§ 195.258, 195.260, and 195.418, means where 2 or more miles of pipe, in the aggregate, have been replaced within any 5 contiguous miles within any 24-month period.
 
 *Exposed underwater pipeline* means an underwater pipeline where the top of the pipe protrudes above the underwater natural bottom (as determined by recognized and generally accepted practices) in waters less than 15 feet (4.6 meters) deep, as measured from mean low water.
 
@@ -60,6 +60,8 @@ As used in this part -
 
 *Nominal wall thickness* means the wall thickness listed in the pipe specifications.
 
+*Notification of Potential Rupture* means the notification to, or observation by, an operator of indicia identified in § 195.417 of a potential unintentional or uncontrolled release of a large volume of commodity from a pipeline.
+
 *Offshore* means beyond the line of ordinary low water along that portion of the coast of the United States that is in direct contact with the open seas and beyond the line marking the seaward limit of inland waters.
 
 *Operator* means a person who owns or operates pipeline facilities.
@@ -79,6 +81,8 @@ As used in this part -
 *Pipeline facility* means new and existing pipe, rights-of-way and any equipment, facility, or building used in the transportation of hazardous liquids or carbon dioxide.
 
 *Production facility* means piping or equipment used in the production, extraction, recovery, lifting, stabilization, separation or treating of petroleum or carbon dioxide, or associated storage or measurement. (To be a production facility under this definition, piping or equipment must be used in the process of extracting petroleum or carbon dioxide from the ground or from facilities where CO2 is produced, and preparing it for transportation by pipeline. This includes piping between treatment plants which extract carbon dioxide, and facilities utilized for the injection of carbon dioxide for recovery operations.)
+
+*Rupture-mitigation valve* (RMV) means an automatic shut-off valve (ASV) or a remote-control valve (RCV) that a pipeline operator uses to minimize the volume of hazardous liquid or carbon dioxide released from the pipeline and to mitigate the consequences of a rupture.
 
 *Rural area* means outside the limits of any incorporated or unincorpated city, town, village, or any other designated residential or commercial area such as a subdivision, a business or shopping center, or community development.
 

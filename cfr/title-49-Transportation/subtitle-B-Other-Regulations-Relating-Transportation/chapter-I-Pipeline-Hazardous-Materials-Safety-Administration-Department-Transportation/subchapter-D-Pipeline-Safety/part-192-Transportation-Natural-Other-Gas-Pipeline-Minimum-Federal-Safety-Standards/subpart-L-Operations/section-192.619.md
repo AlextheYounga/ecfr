@@ -4,7 +4,7 @@
 
 (1) The design pressure of the weakest element in the segment, determined in accordance with subparts C and D of this part. However, for steel pipe in pipelines being converted under § 192.14 or uprated under subpart K of this part, if any variable necessary to determine the design pressure under the design formula (§ 192.105) is unknown, one of the following pressures is to be used as design pressure:
 
-(i) Eighty percent of the first test pressure that produces yield under section N5 of Appendix N of ASME B31.8 (incorporated by reference, *see* § 192.7), reduced by the appropriate factor in paragraph (a)(2)(ii) of this section; or
+(i) Eighty percent of the first test pressure that produces yield undersection N5 of Appendix N of ASME B31.8 (incorporated by reference, *see* § 192.7), reduced by the appropriate factor in paragraph (a)(2)(ii) of this section; or
 
 (ii) If the pipe is 123/4 inches (324 mm) or less in outside diameter and is not tested to yield under this paragraph, 200 p.s.i. (1379 kPa).
 
@@ -15,19 +15,15 @@ a factor of 1.5.
 
 (ii) For steel pipe operated at 100 psi (689 kPa) gage or more, the test pressure is divided by a factor determined in accordance with the Table 1 to paragraph (a)(2)(ii):
 
-Table 1 to Paragraph (a)(2)(ii)
-
-|                             Class location                              | Installed before  <br/>(Nov. 12, 1970) |    Factors,1 2 segment -     |    |    |
-|-------------------------------------------------------------------------|----------------------------------------|------------------------------|----|----|
-|Installed after  <br/>(Nov. 11, 1970)  <br/>and before  <br/>July 1, 2020|Installed on or  <br/>after July 1, 2020|Converted under  <br/>§ 192.14|    |    |
-|                                    1                                    |                  1.1                   |             1.1              |1.25|1.25|
-|                                    2                                    |                  1.25                  |             1.25             |1.25|1.25|
-|                                    3                                    |                  1.4                   |             1.5              |1.5 |1.5 |
-|                                    4                                    |                  1.4                   |             1.5              |1.5 |1.5 |
-
-<sup>1</sup> For offshore pipeline segments installed, uprated or converted after July 31, 1977, that are not located on an offshore platform, the factor is 1.25. For pipeline segments installed, uprated or converted after July 31, 1977, that are located on an offshore platform or on a platform in inland navigable waters, including a pipe riser, the factor is 1.5.
-
-<sup>2</sup> For a component with a design pressure established in accordance with § 192.153(a) or (b) installed after July 14, 2004, the factor is 1.3.
+|                                                                                                                                                                                Class location                                                                                                                                                                                | Installed before  <br/>(Nov. 12, 1970) |Factors,<sup>1 2</sup> segment—|    |    |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-------------------------------|----|----|
+|                                                                                                                                                  Installed after  <br/>(Nov. 11, 1970)  <br/>and before  <br/>July 1, 2020                                                                                                                                                   |Installed on or  <br/>after July 1, 2020|Converted under  <br/>§ 192.14 |    |    |
+|                                                                                                                                                                                      1                                                                                                                                                                                       |                  1.1                   |              1.1              |1.25|1.25|
+|                                                                                                                                                                                      2                                                                                                                                                                                       |                  1.25                  |             1.25              |1.25|1.25|
+|                                                                                                                                                                                      3                                                                                                                                                                                       |                  1.4                   |              1.5              |1.5 |1.5 |
+|                                                                                                                                                                                      4                                                                                                                                                                                       |                  1.4                   |              1.5              |1.5 |1.5 |
+|<sup>1</sup> For offshore pipeline segments installed, uprated or converted after July 31, 1977, that are not located on an offshore platform, the factor is 1.25. For pipeline segments installed, uprated or converted after July 31, 1977, that are located on an offshore platform or on a platform in inland navigable waters, including a pipe riser, the factor is 1.5.|                                        |                               |    |    |
+|                                                                                                           <sup>2</sup> For a component with a design pressure established in accordance with § 192.153(a) or (b) installed after July 14, 2004, the factor is 1.3.                                                                                                           |                                        |                               |    |    |
 
 (3) The highest actual operating pressure to which the segment was subjected during the 5 years preceding the applicable date in the second column. This pressure restriction applies unless the segment was tested according to the requirements in paragraph (a)(2) of this section after the applicable date in the third column or the segment was uprated according to the requirements in subpart K of this part:
 

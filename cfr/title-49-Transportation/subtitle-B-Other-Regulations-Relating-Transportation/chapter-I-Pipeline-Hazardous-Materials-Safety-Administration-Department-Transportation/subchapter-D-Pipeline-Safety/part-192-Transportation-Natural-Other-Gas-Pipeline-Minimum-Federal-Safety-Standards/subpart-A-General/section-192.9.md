@@ -1,6 +1,6 @@
 ##### § 192.9 What requirements apply to gathering pipelines? #####
 
-Link to an amendment published at 87 FR 20982, Apr. 8, 2022.Link to an amendment published at 87 FR 52268, Aug. 24, 2022.
+Link to an amendment published at 87 FR 52268, Aug. 24, 2022.
 
 (a) *Requirements.* An operator of a gathering line must follow the safety requirements of this part as prescribed by this section.
 
@@ -10,7 +10,7 @@ Link to an amendment published at 87 FR 20982, Apr. 8, 2022.Link to an amendment
 
 (d) *Type B lines.* An operator of a Type B regulated onshore gathering line must comply with the following requirements:
 
-(1) If a line is new, replaced, relocated, or otherwise changed, the design, installation, construction, initial inspection, and initial testing must be in accordance with requirements of this part applicable to transmission lines except the requirements in §§ 192.67, 192.127, 192.205, 192.227(c), 192.285(e), and 192.506;
+(1) If a line is new, replaced, relocated, or otherwise changed, the design, installation, construction, initial inspection, and initial testing must be in accordance with requirements of this part applicable to transmission lines. Compliance with §§ 192.67, 192.127, 192.179(e), 192.179(f), 192.205, 192.227(c), 192.285(e), 192.506, 192.634, and 192.636 is not required.
 
 (2) If the pipeline is metallic, control corrosion according to requirements of subpart I of this part applicable to transmission lines except the requirements in § 192.493;
 
@@ -30,7 +30,7 @@ Link to an amendment published at 87 FR 20982, Apr. 8, 2022.Link to an amendment
 
 (1) An operator of a Type C onshore gathering line with an outside diameter greater than or equal to 8.625 inches must comply with the following requirements:
 
-(i) Except as provided in paragraph (h) of this section for pipe and components made with composite materials, the design, installation, construction, initial inspection, and initial testing of a new, replaced, relocated, or otherwise changed Type C gathering line, must be done in accordance with the requirements in subparts B though G and J of this part applicable to transmission lines. Compliance with §§ 192.67, 192.127, 192.205, 192.227(c), 192.285(e), and 192.506 is not required;
+(i) Except as provided in paragraph (h) of this section for pipe and components made with composite materials, the design, installation, construction, initial inspection, and initial testing of a new, replaced, relocated, or otherwise changed Type C gathering line, must be done in accordance with the requirements in subparts B though G and J of this part applicable to transmission lines. Compliance with §§ 192.67, 192.127, 192.179(e), 192.179(f), 192.205, 192.227(c), 192.285(e), 192.506, 192.634, and 192.636 is not required;
 
 (ii) If the pipeline is metallic, control corrosion according to requirements of subpart I of this part applicable to transmission lines except for § 192.493;
 
@@ -117,4 +117,4 @@ Link to an amendment published at 87 FR 20982, Apr. 8, 2022.Link to an amendment
 
 (3) Repairs or replacements using materials authorized under this part do not require notification under this section.
 
-[Amdt. 192-102, 71 FR 13301, Mar. 15, 2006, as amended by Amdt. 192-120, 80 FR 12777, Mar. 11, 2015; Amdt. 192-124, 83 FR 58716, Nov. 20, 2018; Amdt. No. 192-125, 84 FR 52244, Oct. 1, 2019; Amdt. 192-129, 86 FR 63296, Nov. 15, 2021]
+[Amdt. 192-102, 71 FR 13301, Mar. 15, 2006, as amended by Amdt. 192-120, 80 FR 12777, Mar. 11, 2015; Amdt. 192-124, 83 FR 58716, Nov. 20, 2018; Amdt. No. 192-125, 84 FR 52244, Oct. 1, 2019; Amdt. 192-129, 86 FR 63296, Nov. 15, 2021; Amdt. 192-130, 87 FR 20982, Apr. 8, 2022]

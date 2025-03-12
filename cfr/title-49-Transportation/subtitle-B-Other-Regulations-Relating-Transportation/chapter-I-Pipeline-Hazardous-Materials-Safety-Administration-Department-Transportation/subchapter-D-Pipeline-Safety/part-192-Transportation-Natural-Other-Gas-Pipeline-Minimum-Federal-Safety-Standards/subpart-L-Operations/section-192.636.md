@@ -1,3 +1,23 @@
-##### § 192.636 xxx #####
+##### § 192.636 Transmission lines: Response to a rupture; capabilities of rupture-mitigation valves (RMVs) or alternative equivalent technologies. #####
 
-Link to an amendment published at 87 FR 20985, Apr. 8, 2022.
+(a) *Scope.* The requirements in this section apply to rupture-mitigation valves (RMVs), as defined in § 192.3, or alternative equivalent technologies, installed pursuant to §§ 192.179(e), (f), and (g) and 192.634.
+
+(b) *Rupture identification and valve shut-off time.* An operator must, as soon as practicable but within 30 minutes of rupture identification (*see* § 192.615(a)(12)), fully close any RMVs or alternative equivalent technologies necessary to minimize the volume of gas released from a pipeline and mitigate the consequences of a rupture.
+
+(c) *Open valves.* An operator may leave an RMV or alternative equivalent technology open for more than 30 minutes, as required by paragraph (b) of this section, if the operator has previously established in its operating procedures and demonstrated within a notice submitted under § 192.18 for PHMSA review, that closing the RMV or alternative equivalent technology would be detrimental to public safety. The request must have been coordinated with appropriate local emergency responders, and the operator and emergency responders must determine that it is safe to leave the valve open. Operators must have written procedures for determining whether to leave an RMV or alternative equivalent technology open, including plans to communicate with local emergency responders and minimize environmental impacts, which must be submitted as part of its notification to PHMSA.
+
+(d) *Valve monitoring and operation capabilities.* An RMV, as defined in § 192.3, or alternative equivalent technology, must be capable of being monitored or controlled either remotely or by on-site personnel as follows:
+
+(1) Operated during normal, abnormal, and emergency operating conditions;
+
+(2) Monitored for valve status (*i.e.,* open, closed, or partial closed/open), upstream pressure, and downstream pressure. For automatic shut-off valves (ASV), an operator does not need to monitor remotely a valve's status if the operator has the capability to monitor pressures or gas flow rate within each pipeline segment located between RMVs or alternative equivalent technologies to identify and locate a rupture. Pipeline segments that use manual valves or other alternative equivalent technologies must have the capability to monitor pressures or gas flow rates on the pipeline to identify and locate a rupture; and
+
+(3) Have a back-up power source to maintain SCADA systems or other remote communications for remote-control valve (RCV) or automatic shut-off valve (ASV) operational status, or be monitored and controlled by on-site personnel.
+
+(e) *Monitoring of valve shut-off response status.* The position and operational status of an RMV must be appropriately monitored through electronic communication with remote instrumentation or other equivalent means. An operator does not need to monitor remotely an ASV's status if the operator has the capability to monitor pressures or gas flow rate on the pipeline to identify and locate a rupture.
+
+(f) *Flow modeling for automatic shut-off valves.* Prior to using an ASV as an RMV, an operator must conduct flow modeling for the shut-off segment and any laterals that feed the shut-off segment, so that the valve will close within 30 minutes or less following rupture identification, consistent with the operator's procedures, and in accordance with § 192.3 and this section. The flow modeling must include the anticipated maximum, normal, or any other flow volumes, pressures, or other operating conditions that may be encountered during the year, not exceeding a period of 15 months, and it must be modeled for the flow between the RMVs or alternative equivalent technologies, and any looped pipelines or gas receipt tie-ins. If operating conditions change that could affect the ASV set pressures and the 30-minute valve closure time after notification of potential rupture, as defined at § 192.3, an operator must conduct a new flow model and reset the ASV set pressures prior to the next review for ASV set pressures in accordance with § 192.745. The flow model must include a time/pressure chart for the segment containing the ASV if a rupture occurs. An operator must conduct this flow modeling prior to making flow condition changes in a manner that could render the 30-minute valve closure time unachievable.
+
+(g) *Manual valves in non-HCA, Class 1 locations.* For pipeline segments in a Class 1 location that do not meet the definition of a high consequence area (HCA), an operator submitting a notification pursuant to §§ 192.18 and 192.179 for use of manual valves as an alternative equivalent technology may also request an exemption from the requirements of § 192.636(b).
+
+[Amdt. No. 192-130, 87 FR 20985, Apr. 8, 2022]
