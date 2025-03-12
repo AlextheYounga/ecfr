@@ -1,0 +1,3 @@
+##### § 1409.205 Execution of agreement. #####
+
+CCC will enter into a grant or cooperative agreement with an eligible entity regarding the entity's approved program proposal. The eligible entity may not assign or delegate any required action or responsibility of the entity except as provided in the applicable grant or cooperative agreement. Any modification of the grant or cooperative agreement must be made with the written approval of CCC.

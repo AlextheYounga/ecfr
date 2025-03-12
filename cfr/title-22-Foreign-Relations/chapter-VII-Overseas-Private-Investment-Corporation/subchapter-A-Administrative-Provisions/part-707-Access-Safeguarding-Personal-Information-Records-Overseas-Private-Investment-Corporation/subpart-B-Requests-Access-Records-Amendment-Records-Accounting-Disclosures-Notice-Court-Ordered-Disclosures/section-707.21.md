@@ -1,5 +1,7 @@
 ##### § 707.21 Requests for access to or copies of records. #####
 
+Link to an amendment published at 84 FR 37752, August 2, 2019.
+
 (a) *How to submit.* An individual may request access to or copies of records maintained by OPIC that are retrieved by an individual's personal identifier. To make a request for records a requester must submit a written request to the Director of Human Resources Management either by mail or delivery to Overseas Private Investment Corporation, 1100 New York Avenue NW., Washington, DC 20527 or electronic mail to *Privacy@opic.gov.* The envelope or subject line should read “Privacy Act Request” to ensure proper routing. Access to records maintained by OPIC will be provided only by appointment. No officer or employee of OPIC shall provide an individual with any records under this part until a written request as described in paragraph (b) of this section is provided and the identity of the individual is verified as described in paragraph (c) of this section.
 
 (b*) Information to include.* All requests under this section must:

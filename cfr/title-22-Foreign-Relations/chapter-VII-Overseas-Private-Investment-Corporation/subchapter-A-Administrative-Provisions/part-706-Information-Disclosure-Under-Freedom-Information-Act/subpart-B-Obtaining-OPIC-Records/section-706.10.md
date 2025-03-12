@@ -1,3 +1,5 @@
 ##### § 706.10 Publicly available records. #####
 
+Link to an amendment published at 84 FR 37752, August 2, 2019.
+
 Records that the FOIA requires agencies to make available for public inspection in an electronic format may be accessed through OPIC's FOIA Web site at *www.opic.gov/foia.* Records identified as of interest to the public and appropriate for public disclosure are also available, along with an index. These include annual reports and financial statements, program handbooks, press releases, application forms, claims information, and annual FOIA reports. OPIC will review and update its Web site of posted records on an ongoing basis. Persons seeking information are encouraged to visit OPIC's Web site to see what information is already available before submitting a request; OPIC's FOIA Office and FOIA Public Liaison are available to assist individuals in locating records.

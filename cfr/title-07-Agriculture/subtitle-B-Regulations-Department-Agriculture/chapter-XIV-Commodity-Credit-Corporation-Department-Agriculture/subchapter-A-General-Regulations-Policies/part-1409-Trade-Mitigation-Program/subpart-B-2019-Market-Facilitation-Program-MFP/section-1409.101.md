@@ -1,0 +1,3 @@
+##### § 1409.101 Applicability. #####
+
+This subpart specifies the eligibility requirements and payment calculations for the MFP for 2019 agricultural commodities. MFP will provide payments with respect to agricultural commodities that have been impacted by trade actions of foreign governments resulting in the loss of exports. Any specific program requirements for a commodity will be specified in a notice of funding availability published by the Commodity Credit Corporation (CCC) in the Federal Register.

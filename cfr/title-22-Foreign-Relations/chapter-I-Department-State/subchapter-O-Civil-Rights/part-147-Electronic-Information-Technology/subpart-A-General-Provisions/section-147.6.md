@@ -1,5 +1,7 @@
 ##### § 147.6 Electronic and information technology requirements. #####
 
+Link to an amendment published at 84 FR 37577, Aug. 1, 2019.
+
 (a) *Development, procurement, maintenance, or use of EIT.* When developing, procuring, maintaining, or using EIT, the Department shall ensure, unless an undue burden would be imposed on the Department, that the EIT allows, regardless of the type of medium of the technology, that -
 
 (1) Individuals with disabilities who are Department employees have access to and use of information and data that is comparable to the access to and use of the information and data by Department employees who are not individuals with disabilities; and

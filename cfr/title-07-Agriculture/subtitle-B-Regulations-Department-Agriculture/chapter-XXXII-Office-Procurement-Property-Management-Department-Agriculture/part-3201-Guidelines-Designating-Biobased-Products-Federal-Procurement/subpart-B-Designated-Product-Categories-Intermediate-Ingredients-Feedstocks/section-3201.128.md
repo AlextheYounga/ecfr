@@ -1,0 +1,15 @@
+##### § 3201.128 Exterior paints and coatings. #####
+
+(a) *Definition.* Exterior paints and coatings are pigmented liquid products that typically contain pigments to add color and are formulated for use on outdoor surfaces. When these products dry, they typically form a protective layer and provide a coat of color to the applied surface. This category includes paint and primers but excludes wood and concrete sealers and stains and specialty coatings such as roof coatings, wastewater system coatings, and water tank coatings.
+
+(b) *Minimum biobased content.* The Federal preferred procurement product must have a minimum biobased content of at least 83 percent, which shall be based on the amount of qualifying biobased carbon in the product as a percent of the total organic carbon in the finished product.
+
+(c) *Preference compliance date.* No later than July 6, 2020, procuring agencies, in accordance with this part, will give a procurement preference for qualifying biobased exterior paints and coatings. By that date, Federal agencies responsible for drafting or reviewing specifications for products to be procured shall ensure that the relevant specifications require the use of biobased exterior paints and coatings.
+
+(d) *Determining overlap with a designated product category in the EPA's CPG program.* Qualifying products within this product category may overlap with the EPA's CPG-designated recovered content product category of Construction Products: Consolidated and Reprocessed Latex Paint for Specified Uses. USDA is requesting that manufacturers of these qualifying biobased products provide information on the BioPreferred Program's website about the intended uses of the product, information on whether the product contains any recovered material, in addition to biobased ingredients, and performance standards against which the product has been tested. This information will assist Federal agencies in determining whether a qualifying biobased product overlaps with the EPA's CPG-designated product category of Construction Products: Consolidated and Reprocessed Latex Paint for Specified Uses and which product should be afforded the preference in purchasing.
+
+Note 1 to Paragraph (d):
+
+Exterior paints and coatings within this designated product category can compete with similar exterior paints and coatings with recycled content. Under the Resource Conservation and Recovery Act of 1976, section 6002, the U.S. Environmental Protection Agency CPG-designated Construction Products: Consolidated and Reprocessed Latex Paint for Specified Uses containing recovered materials as products for which Federal agencies must give preference in their purchasing programs. The designation can be found in the Comprehensive Procurement Guideline, 40 CFR 247.12.
+
+[84 FR 32021, July 5, 2019]

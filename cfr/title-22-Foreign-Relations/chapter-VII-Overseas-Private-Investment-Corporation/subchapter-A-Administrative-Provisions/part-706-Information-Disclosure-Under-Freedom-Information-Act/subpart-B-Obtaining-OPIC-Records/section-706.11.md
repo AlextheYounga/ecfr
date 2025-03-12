@@ -1,5 +1,7 @@
 ##### § 706.11 Requesting non-public records. #####
 
+Link to an amendment published at 84 FR 37752, August 2, 2019.
+
 (a) *General information* - (1) *How to submit.* To make a request for records a requester must submit a written request to OPIC's FOIA Office either by mail to Overseas Private Investment Corporation, 1100 New York Avenue NW., Washington, DC 20527 or electronic mail to *FOIA@opic.gov.* The envelope or subject line should read “Freedom of Information Request” to ensure proper routing. The request is considered received by OPIC upon actual receipt by OPIC's FOIA Office.
 
 (2) *Records about oneself.* A requester who is making a request for records about himself or herself must verify his or her identity by providing a notarized statement or a statement under 28 U.S.C. 1746, a law that permits statements to be made under penalty of perjury as a substitute for notarization, stating that the requester is the person he or she claims to be.

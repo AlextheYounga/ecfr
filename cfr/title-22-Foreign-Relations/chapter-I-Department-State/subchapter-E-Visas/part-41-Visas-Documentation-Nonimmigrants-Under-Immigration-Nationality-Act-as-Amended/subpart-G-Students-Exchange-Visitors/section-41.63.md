@@ -6,7 +6,7 @@
 
 (i) Whose participation in the program for which he came to the United States was financed in whole or in part, directly or indirectly, by an agency of the United States Government or by the government of the country of his nationality or of his last legal permanent residence;
 
-(ii) Who at the time of admission or acquisition of status under 101(a)(15)(J) was a national or legal permanent resident of a country which the Secretary of State, pursuant to regulations prescribed by him, had designated as clearly requiring the services of persons engaged in the field of specialized knowledge or skill in which the alien was engaged [See the most recent “Revised Exchange Visitor Skills List”, at *http://exchanges.state.gov/education/jexchanges/participation/skills\_list.pdf*]; or
+(ii) Who at the time of admission or acquisition of status under 101(a)(15)(J) was a national or legal permanent resident of a country which the Secretary of State, pursuant to regulations prescribed by him, had designated as clearly requiring the services of persons engaged in the field of specialized knowledge or skill in which the alien was engaged [See the most recent “Revised Exchange Visitor Skills List”, at *http://exchanges.state.gov/education/jexchanges/participation/skills\_list.pdf*; or
 
 (iii) Who came to the United States or acquired such status in order to receive graduate medical education or training, shall be eligible to apply for an immigrant visa, or for permanent residence, or for a nonimmigrant visa under section 101(a)(15)(H) or section 101(a)(15)(L) until is established that such person has resided and been physically present in the country of his nationality or his last legal permanent residence for an aggregate of at least two years following departure from the United States.
 
@@ -36,7 +36,7 @@
 
 (iii) A statement, signed and dated by the foreign medical graduate exchange visitor that shall read as follows:
 
-I, \_\_\_\_\_\_\_\_\_\_ (name of exchange visitor) hereby declare and certify, under penalty of the provisions of 18 U.S.C. 1001, that I do not now have pending nor am I submitting during the pendency of this request, another request to any United States Government department or agency or any State Department of Public Health, or equivalent, other than \_\_\_\_\_\_\_\_\_\_ (insert name of United States Government Agency requesting waiver) to act on my behalf in any matter relating to a waiver of my two-year home-country physical presence requirement.
+I, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (name of exchange visitor) hereby declare and certify, under penalty of the provisions of 18 U.S.C. 1001, that I do not now have pending nor am I submitting during the pendency of this request, another request to any United States Government department or agency or any State Department of Public Health, or equivalent, other than \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (insert name of United States Government Agency requesting waiver) to act on my behalf in any matter relating to a waiver of my two-year home-country physical presence requirement.
 
 (iv) Evidence that unsuccessful efforts have been made to recruit an American physician for the position to be filled.
 

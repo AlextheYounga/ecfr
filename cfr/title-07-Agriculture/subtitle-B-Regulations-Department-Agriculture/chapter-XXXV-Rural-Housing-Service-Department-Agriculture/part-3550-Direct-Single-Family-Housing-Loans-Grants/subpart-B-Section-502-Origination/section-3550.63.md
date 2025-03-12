@@ -1,20 +1,8 @@
 ##### § 3550.63 Maximum loan amount. #####
 
-Link to an amendment published at 84 FR 29038, June 21, 2019.
-
 Total secured indebtedness must not exceed the area loan limit or market value limitations specified in paragraphs (a) or (b) of this section, whichever is lower. Any loan amount for the RHS appraisal, tax monitoring fee, and the charge to establish an escrow account for taxes and insurance will not be subject to the limitations specified below. This section does not apply to loans on NP terms.
 
-(a) *Area loan limit.* (1) The area loan limit is the maximum value of the property RHS will finance in a given locality. Subject to the following, this limit is based on cost data plus the market value of an improved lot, or the State Housing Authority limits, whichever the State Director determines most appropriately reflects the value of modest housing for the area:
-
-(i) The cost of the structure is based upon the cost to construct a modest home and is obtained by RHS from a nationally recognized residential cost provider.
-
-(ii) The market value of an improved site (without the dwelling) is based upon current sales data for typical housing sites and reasonable and typical costs of site improvements.
-
-(iii) The applicable State Housing Authority limit will only be considered if it is within 10 percent of the cost data plus the market value of an improved lot.
-
-(iv) The area loan limit may not exceed the applicable local HUD section 203(b) limit.
-
-(v) All area loan limit data will be updated at least annually and is available in any Rural Development office.
+(a) *Area loan limit.*(1) The area loan limit is the maximum value of the property RHS will finance in a given locality. This limit is based on a percentage(s) of the applicable local HUD section 203(b) limit. The percentage(s) will be determined by the Agency and published in the program handbook. The area loan limits will be reviewed at least annually and posted to the Agency website.
 
 (2) The maximum loan limit calculated under paragraph (a)(1) will be reduced in the following situations:
 
@@ -36,4 +24,4 @@ Total secured indebtedness must not exceed the area loan limit or market value l
 
 (iii) The amount necessary to refinance an existing borrower's RHS loans, plus closing costs associated with the new loan.
 
-[61 FR 59779, Nov. 22, 1996; 61 FR 65266, Dec. 11, 1996, as amended at 67 FR 78330, Dec. 24, 2002]
+[61 FR 59779, Nov. 22, 1996; 61 FR 65266, Dec. 11, 1996, as amended at 67 FR 78330, Dec. 24, 2002; 84 FR 29038, June 21, 2019]

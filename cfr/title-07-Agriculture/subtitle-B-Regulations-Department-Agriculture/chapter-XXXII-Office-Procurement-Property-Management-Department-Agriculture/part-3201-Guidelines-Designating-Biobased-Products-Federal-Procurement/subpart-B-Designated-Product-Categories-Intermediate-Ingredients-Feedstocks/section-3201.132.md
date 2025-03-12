@@ -1,0 +1,15 @@
+##### § 3201.132 Folders and filing products. #####
+
+(a) *Definition.* Folders and filing products are products that are designed to hold together items such as loose sheets of paper, documents, and photographs with clasps, fasteners, rings, or folders. This category includes binders, folders, and document covers.
+
+(b) *Minimum biobased content.* The Federal preferred procurement product must have a minimum biobased content of at least 56 percent, which shall be based on the amount of qualifying biobased carbon in the product as a percent of the total organic carbon in the finished product.
+
+(c) *Preference compliance date.* No later than July 6, 2020, procuring agencies, in accordance with this part, will give a procurement preference for qualifying biobased folders and filing products. By that date, Federal agencies responsible for drafting or reviewing specifications for products to be procured shall ensure that the relevant specifications require the use of biobased folders and filing products.
+
+(d) *Determining overlap with a designated product category in the EPA's CPG program.* Qualifying products within this product category may overlap with the EPA's CPG-designated recovered content product categories of Non-Paper Office Products: Binders, Clipboards, File Folders, Clip Portfolios, and Presentation Folders and Non-Paper Office Products: Plastic Envelopes. USDA is requesting that manufacturers of these qualifying biobased products provide information on the BioPreferred Program's website about the intended uses of the product, information on whether the product contains any recovered material, in addition to biobased ingredients, and performance standards against which the product has been tested. This information will assist Federal agencies in determining whether a qualifying biobased product overlaps with the EPA's CPG-designated product categories of Non-Paper Office Products: Binders, Clipboards, File Folders, Clip Portfolios, and Presentation Folders and Non-Paper Office Products: Plastic Envelopes and which product should be afforded the preference in purchasing.
+
+Note 1 to Paragraph (d):
+
+Biobased folders and filing products within this designated product category can compete with similar folders and filing products with recycled content. Under the Resource Conservation and Recovery Act of 1976, section 6002, the U.S. Environmental Protection Agency CPG-designated Non-Paper Office Products: Binders, Clipboards, File Folders, Clip Portfolios, and Presentation Folders and Non-Paper Office Products: Plastic Envelopes containing recovered materials as products for which Federal agencies must give preference in their purchasing programs. The designation can be found in the Comprehensive Procurement Guideline, 40 CFR 247.16.
+
+[84 FR 32021, July 5, 2019]

@@ -1,5 +1,7 @@
 ##### § 706.34 Administrative appeals. #####
 
+Link to an amendment published at 84 FR 37752, August 2, 2019.
+
 (a) *Requirements for making an appeal.* A requester may appeal any adverse determinations to OPIC's Vice President and General Counsel at *FOIA@opic.gov* or 1100 New York Avenue NW., Washington, DC 20527. Examples of adverse determinations are provided in Section 706.06(c) of this subpart. The requester must make the appeal in writing and it must be postmarked, or in the case of electronic submissions, transmitted, within ninety calendar days after the date of the response. The appeal should clearly identify OPIC's determination that is being appealed and the assigned request number. The requester should mark both the appeal letter and envelope, or subject line of the electronic transmission, “Freedom of Information Act Appeal.”
 
 (b) *Adjudication of appeals.* OPIC's Vice President and General Counsel or his/her designee will render a written decision within twenty working days after the date of OPIC's receipt of the appeal, unless an extension of up to ten working days is deemed necessary due to unusual circumstances. The requester will be notified in writing of any extension.

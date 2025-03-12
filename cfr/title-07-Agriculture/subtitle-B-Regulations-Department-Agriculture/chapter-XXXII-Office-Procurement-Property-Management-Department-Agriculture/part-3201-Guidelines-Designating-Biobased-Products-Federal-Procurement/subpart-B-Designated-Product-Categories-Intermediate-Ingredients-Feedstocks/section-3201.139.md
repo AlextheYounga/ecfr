@@ -1,0 +1,15 @@
+##### § 3201.139 Playground and athletic surface materials. #####
+
+(a) *Definition.* Playground and athletic surface materials are products that are designed for use on playgrounds and athletic surfaces. Examples include materials that are applied to the surfaces of playgrounds, athletic fields, and other sports surfaces to enhance or change the color or general appearance of the surface and to provide safety and/or performance benefits. Such materials include, but are not limited to, top coatings, primers, line marking paints, and rubberized pellets that are used on athletic courts, tracks, natural or artificial turf, and other playing surfaces. This category does not include the artificial turf or surface itself, as that is included in the carpets product category.
+
+(b) *Minimum biobased content.* The Federal preferred procurement product must have a minimum biobased content of at least 22 percent, which shall be based on the amount of qualifying biobased carbon in the product as a percent of the total organic carbon in the finished product.
+
+(c) *Preference compliance date.* No later than July 6, 2020, procuring agencies, in accordance with this part, will give a procurement preference for qualifying biobased playground and athletic surface materials. By that date, Federal agencies responsible for drafting or reviewing specifications for products to be procured shall ensure that the relevant specifications require the use of biobased playground and athletic surface materials.
+
+(d) *Determining overlap with a designated product category in the EPA's CPG program.* Qualifying products within this product category may overlap with the EPA's CPG-designated recovered content product categories of Parks and Recreation Products: Playground Surfaces and Running Tracks. USDA is requesting that manufacturers of these qualifying biobased products provide information on the BioPreferred Program's website about the intended uses of the product, information on whether the product contains any recovered material, in addition to biobased ingredients, and performance standards against which the product has been tested. This information will assist Federal agencies in determining whether a qualifying biobased product overlaps with the EPA's CPG-designated product categories of Parks and Recreation Products: Playground Surfaces and Running Tracks and which product should be afforded the preference in purchasing.
+
+Note 1 to Paragraph (d):
+
+Playground and athletic surface materials within this designated product category can compete with similar playground and athletic surface materials with recycled content. According to the Resource Conservation and Recovery Act of 1976, section 6002, Federal agencies must give preference in their purchasing programs for the U.S. Environmental Protection Agency's CPG-designated product categories of Parks and Recreation Products: Playground Surfaces and Running Tracks containing recovered materials as products. The designation can be found in the Comprehensive Procurement Guideline, 40 CFR 247.10.
+
+[84 FR 32021, July 5, 2019]

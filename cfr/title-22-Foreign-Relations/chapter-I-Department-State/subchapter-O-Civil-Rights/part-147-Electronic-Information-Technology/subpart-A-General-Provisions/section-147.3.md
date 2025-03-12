@@ -1,5 +1,7 @@
 ##### § 147.3 Definitions. #####
 
+Link to an amendment published at 84 FR 37577, Aug. 1, 2019.
+
 This part incorporates the definitions in 36 CFR 1194.4. In addition, as used in this part:
 
 *Department* means the United States Department of State and any of its passport agencies or other facilities.

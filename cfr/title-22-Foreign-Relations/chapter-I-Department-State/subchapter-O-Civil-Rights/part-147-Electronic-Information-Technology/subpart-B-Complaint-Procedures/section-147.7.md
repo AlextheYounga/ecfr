@@ -1,5 +1,7 @@
 ##### § 147.7 Filing a Section 508 complaint. #####
 
+Link to an amendment published at 84 FR 37578, Aug. 1, 2019.
+
 (a) An individual with a disability who alleges that Department's EIT does not allow him or her to have access to and use of information and data that is comparable to access and use by individuals without disabilities, or that the alternative means of access provided by the Department does not allow the individual to use the information and data, may file a complaint with the Department's Office of Civil Rights (S/OCR).
 
 (b) Employees, applicants for employment, or members of the general public are encouraged to contact personnel in the Department office that uses or maintains a system that is believed not to be compliant with Section 508 or 36 CFR part 1194 to attempt to have their issues addressed. Nothing in this complaint process is intended to prevent Department personnel from addressing any alleged compliance issues when made aware of such requests directly or indirectly.

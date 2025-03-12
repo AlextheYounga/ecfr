@@ -1,0 +1,3 @@
+##### § 1409.5 Calculation of payments. #####
+
+The payment under this rule will be calculated by multiplying fifty percent of the total production of the commodity times the MFP payment rate for that commodity that is in effect when the payment is made times the producer's eligible share of the commodity. On or about December 3, 2018, CCC may announce a second payment rate, if applicable, that will apply to the remaining 50 percent of the producer's production for the selected commodity.

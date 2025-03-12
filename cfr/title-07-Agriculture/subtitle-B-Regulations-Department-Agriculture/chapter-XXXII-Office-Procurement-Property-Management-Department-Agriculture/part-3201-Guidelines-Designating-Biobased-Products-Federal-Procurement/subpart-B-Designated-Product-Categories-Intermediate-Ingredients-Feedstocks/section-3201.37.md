@@ -1,11 +1,9 @@
-##### § 3201.37 General purpose de-icers. #####
+##### § 3201.37 De-Icers. #####
 
-Link to an amendment published at 84 FR 32020, July 5, 2019.
-
-(a) *Definition.* Chemical products (e.g., salt, fluids) that are designed to aid in the removal of snow and/or ice, and/or in the prevention of the buildup of snow and/or ice, in general use applications by lowering the freezing point of water. Specialized de-icer products, such as those used to de-ice aircraft and airport runways, are not included.
+(a) *Definition.* Chemical products (*e.g.,* salts, fluids) that are designed to aid in the removal of snow and/or ice, and/or in the prevention of the buildup of snow and/or ice, by lowering the freezing point of water.
 
 (b) *Minimum biobased content.* The preferred procurement product must have a minimum biobased content of at least 93 percent, which shall be based on the amount of qualifying biobased carbon in the product as a percent of the weight (mass) of the total organic carbon in the finished product.
 
-(c) *Preference compliance date.* No later than May 14, 2009, procuring agencies, in accordance with this part, will give a procurement preference for qualifying biobased general purpose de-icers. By that date, Federal agencies that have the responsibility for drafting or reviewing specifications for items to be procured shall ensure that the relevant specifications require the use of biobased general purpose de-icers.
+(c) *Preference compliance dates.* No later than July 6, 2020, procuring agencies, in accordance with this part, will give a procurement preference for qualifying biobased de-icers. By that date, Federal agencies responsible for drafting or reviewing specifications for products to be procured shall ensure that the relevant specifications require the use of biobased de-icers.
 
-[73 FR 27994, May 14, 2008]
+[73 FR 27994, May 14, 2008, as amended at 84 FR 32020, July 5, 2019]
