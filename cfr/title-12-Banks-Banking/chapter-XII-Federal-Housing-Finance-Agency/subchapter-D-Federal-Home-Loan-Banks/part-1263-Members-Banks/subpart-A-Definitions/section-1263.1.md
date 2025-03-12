@@ -1,7 +1,5 @@
 ##### § 1263.1 Definitions. #####
 
-Link to an amendment published at 82 FR 25722, June 5, 2017.
-
 For purposes of this part:
 
 *Adjusted net income* means net income, excluding extraordinary items such as income received from, or expense incurred in, sales of securities or fixed assets, reported on a regulatory financial report.
@@ -30,7 +28,7 @@ For purposes of this part:
 
 *Captive* means an entity that holds an insurance license or charter under the laws of a State, but that does not meet the definition of “insurance company” set forth in this section or fall within any other category of institution that may be eligible for membership.
 
-*CDFI credit union* means a State-chartered credit union that has been certified as a CDFI by the CDFI Fund and that does not have federal share insurance.
+*CDFI credit union* means a State-chartered credit union that does not have Federal share insurance and that has been certified as a CDFI by the CDFI Fund.
 
 *CDFI Fund* means the Community Development Financial Institutions Fund established under section 104(a) of the Community Development Banking and Financial Institutions Act of 1994 (12 U.S.C. 4703(a)).
 
@@ -42,7 +40,7 @@ For purposes of this part:
 
 *Combination business or farm property* means real property for which the total appraised value is attributable to residential, and business or farm uses.
 
-*Community development financial institution or CDFI* means an institution that is certified as a community development financial institution by the CDFI Fund under the Community Development Banking and Financial Institutions Act of 1994 (12 U.S.C. 4701 *et seq.*), other than a bank or savings association insured under the Federal Deposit Insurance Act (12 U.S.C. 1811 *et seq.*), a holding company for such a bank or savings association, or a credit union insured under the Federal Credit Union Act (12 U.S.C. 1751 *et seq.*).
+*Community development financial institution* or *CDFI* means an institution that is certified as a community development financial institution by the CDFI Fund under the Community Development Banking and Financial Institutions Act of 1994 (12 U.S.C. 4701 *et seq.*), other than a bank or savings association insured under the Federal Deposit Insurance Act (12 U.S.C. 1811 *et seq.*), a holding company for such a bank or savings association, or a credit union that has Federal share insurance.
 
 *Community financial institution or CFI* means an institution:
 
@@ -63,6 +61,8 @@ For purposes of this part:
 *Dwelling unit* means a single room or a unified combination of rooms designed for residential use.
 
 *Enforcement action* means any written notice, directive, order, or agreement initiated by an applicant for Bank membership or by its appropriate regulator to address any operational, financial, managerial, or other deficiencies of the applicant identified by such regulator. An “enforcement action” does not include a board of directors' resolution adopted by the applicant in response to examination weaknesses identified by such regulator.
+
+*Federal share insurance* means insurance coverage of credit union member accounts provided by the National Credit Union Share Insurance Fund under subchapter II of the Federal Credit Union Act (12 U.S.C. 1781 *et seq.*).
 
 *Funded residential construction loan* means the portion of a loan secured by real property made to finance the on-site construction of dwelling units on one-to-four family property or multifamily property disbursed to the borrower.
 
@@ -86,7 +86,11 @@ For purposes of this part:
 
 *Insurance company* means an entity that holds an insurance license or charter under the laws of a State and whose primary business is the underwriting of insurance for persons or entities that are not its affiliates.
 
-*Insured depository institution* means an insured depository institution as defined in section 2(9) of the Bank Act, as amended (12 U.S.C. 1422(9)).
+*Insured depository institution* means:
+
+(1) An insured depository institution as defined in section 2(9) of the Bank Act, as amended (12 U.S.C. 1422(9)); and
+
+(2) To the extent provided under § 1263.19, a non-federally-insured credit union.
 
 *Long-term* means a term to maturity of five years or greater at the time of origination.
 
@@ -101,6 +105,8 @@ For purposes of this part:
 (3) Nursing homes, dormitories, or homes for the elderly.
 
 *NAIC* means the National Association of Insurance Commissioners.
+
+*Non-federally-insured credit union* means a State-chartered credit union that does not have Federal share insurance and that has not been certified as a CDFI by the CDFI Fund.
 
 *Nonperforming loans and leases* means the sum of the following, reported on a regulatory financial report:
 
@@ -128,7 +134,7 @@ For purposes of this part:
 
 *Regulatory examination report* means a written report of examination prepared by the applicant's appropriate regulator, containing, in the case of insured depository institution applicants, a composite rating assigned to the institution following the guidelines of the Uniform Financial Institutions Rating System, including a CAMELS rating or other similar rating.
 
-*Regulatory financial report* means a financial report that an applicant is required to file with its appropriate regulator on a specific periodic basis, including the quarterly call report for commercial banks and savings associations, quarterly or semi-annual call report for credit unions, NAIC's annual or quarterly statement for insurance companies, or other similar report, including such report maintained by the appropriate regulator in an electronic database.
+*Regulatory financial report* means a financial report that an institution is required to file with its appropriate regulator on a specific periodic basis, including the quarterly call report for commercial banks and savings associations, quarterly or semi-annual call report for credit unions, NAIC's annual or quarterly statement for insurance companies, or other similar report, including such report maintained by the appropriate regulator in an electronic database.
 
 *Residential mortgage loan* means any one of the following types of loans, whether or not fully amortizing:
 
@@ -155,3 +161,5 @@ For purposes of this part:
 *Total assets* means the total assets reported on a regulatory financial report or, in the case of a CDFI applicant, the total assets contained in the applicant's audited financial statements.
 
 *Unrestricted cash and cash equivalents* means, in the case of a CDFI applicant, cash and highly liquid assets that can be easily converted into cash that are not restricted in a manner that prevents their use in paying expenses, as contained in the applicant's audited financial statements.
+
+[81 FR 3277, Jan. 20, 2016, as amended at 82 FR 25722, June 5, 2017]

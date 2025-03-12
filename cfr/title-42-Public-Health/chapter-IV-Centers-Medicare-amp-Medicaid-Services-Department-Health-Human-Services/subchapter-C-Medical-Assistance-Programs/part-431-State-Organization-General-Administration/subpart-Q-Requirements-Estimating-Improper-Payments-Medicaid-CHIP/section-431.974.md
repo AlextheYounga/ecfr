@@ -1,5 +1,7 @@
 ##### § 431.974 Basic elements of Medicaid and CHIP eligibility reviews. #####
 
+Link to an amendment published at 82 FR 31186, July 5, 2017.
+
 (a) *General requirements.* (1) States selected in any given year for Medicaid and CHIP improper payments measurement under the Improper Payments Information Act of 2002 must conduct reviews of a statistically valid random sample of beneficiary cases for such programs to determine if improper payments were made based on errors in the State agency's eligibility determinations.
 
 (2) The agency and personnel responsible for the development, direction, implementation, and evaluation of the eligibility reviews and associated activities, including calculation of the error rates under this section, must be functionally and physically separate from the State agencies and personnel that are responsible for Medicaid and CHIP policy and operations, including eligibility determinations.

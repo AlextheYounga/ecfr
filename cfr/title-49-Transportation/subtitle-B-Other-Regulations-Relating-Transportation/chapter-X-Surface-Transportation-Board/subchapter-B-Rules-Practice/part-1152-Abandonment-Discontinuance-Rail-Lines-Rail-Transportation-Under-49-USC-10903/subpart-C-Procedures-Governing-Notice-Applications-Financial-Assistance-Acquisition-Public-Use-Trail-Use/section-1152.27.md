@@ -1,5 +1,7 @@
 ##### § 1152.27 Financial assistance procedures. #####
 
+Link to an amendment published at 82 FR 31007, July 5, 2017.
+
 (a) *Provision of information.* An applicant must provide promptly upon request to a party considering an offer of financial assistance to continue existing rail service, and concurrently to the Board, the following:
 
 (1)(i) *In an application or petition for exemption proceeding,* an estimate of the annual subsidy and minimum purchase price required to keep the line or a portion of the line in operation;

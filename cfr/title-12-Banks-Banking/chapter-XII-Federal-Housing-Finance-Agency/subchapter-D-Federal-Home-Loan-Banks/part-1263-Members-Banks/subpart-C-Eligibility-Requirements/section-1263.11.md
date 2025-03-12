@@ -1,12 +1,10 @@
 ##### § 1263.11 Financial condition requirement for depository institutions and CDFI credit unions. #####
 
-Link to an amendment published at 82 FR 25722, June 5, 2017.
-
 (a) *Review requirement.* In determining whether a building and loan association, savings and loan association, cooperative bank, homestead association, savings bank, insured depository institution, or CDFI credit union has complied with the financial condition requirements of section 4(a)(2)(B) of the Bank Act (12 U.S.C. 1424(a)(2)(B)) and § 1263.6(a)(4), the Bank shall obtain as a part of the membership application and review each of the following documents:
 
 (1) *Regulatory financial reports.* The regulatory financial reports filed by the applicant with its appropriate regulator for the last six calendar quarters and three year-ends preceding the date the Bank receives the application;
 
-(2) *Financial statement.* In order of preference -
+(2) *Financial statement.* In order of preference—
 
 (i) The most recent independent audit of the applicant conducted in accordance with generally accepted auditing standards by a certified public accounting firm which submits a report on the applicant;
 
@@ -34,7 +32,7 @@ Link to an amendment published at 82 FR 25722, June 5, 2017.
 
 (2) *Capital requirement.* The applicant meets all of its minimum statutory and regulatory capital requirements as reported in its most recent quarter-end regulatory financial report filed with its appropriate regulator; and
 
-(3) *Minimum performance standard* - (i) Except as provided in paragraph (b)(3)(iii) of this section, the applicant's most recent composite regulatory examination rating from its appropriate regulator within the past two years was “1”, or the most recent rating was “2” or “3” and, based on the applicant's most recent regulatory financial report filed with its appropriate regulator, the applicant satisfied all of the following performance trend criteria -
+(3) *Minimum performance standard*—(i) Except as provided in paragraph (b)(3)(iii) of this section, the applicant's most recent composite regulatory examination rating from its appropriate regulator within the past two years was “1”, or the most recent rating was “2” or “3” and, based on the applicant's most recent regulatory financial report filed with its appropriate regulator, the applicant satisfied all of the following performance trend criteria—
 
 (A) *Earnings.* The applicant's adjusted net income was positive in four of the six most recent calendar quarters;
 
@@ -44,6 +42,8 @@ Link to an amendment published at 82 FR 25722, June 5, 2017.
 
 (ii) For applicants that are not required to report financial data to their appropriate regulator on a quarterly basis, the information required in paragraph (b)(3)(i) of this section may be reported on a semi-annual basis.
 
-(iii) A CDFI credit union applicant must meet the performance trend criteria in paragraph (b)(3)(i) of this section irrespective of its composite regulatory examination rating.
+(iii) An applicant that is a CDFI credit union or a non-federally-insured credit union must meet the performance trend criteria in paragraph (b)(3)(i) of this section irrespective of its composite regulatory examination rating.
 
 (c) *Eligible collateral not considered.* The availability of sufficient eligible collateral to secure advances to the applicant is presumed and shall not be considered in determining whether an applicant is in the financial condition required by section 4(a)(2)(B) of the Bank Act (12 U.S.C. 1424(a)(2)(B)) and § 1263.6(a)(4).
+
+[81 FR 3277, Jan. 20, 2016, as amended at 82 FR 25722, June 5, 2017]

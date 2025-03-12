@@ -1,5 +1,7 @@
 ##### § 431.970 Information submission requirements. #####
 
+Link to an amendment published at 82 FR 31185, July 5, 2017.
+
 (a) States must submit information to the Secretary for, among other purposes, estimating improper payments in Medicaid and CHIP, that include but are not limited to -
 
 (1) Adjudicated fee-for-service (FFS) or managed care claims information or both, on a quarterly basis, from the review year;

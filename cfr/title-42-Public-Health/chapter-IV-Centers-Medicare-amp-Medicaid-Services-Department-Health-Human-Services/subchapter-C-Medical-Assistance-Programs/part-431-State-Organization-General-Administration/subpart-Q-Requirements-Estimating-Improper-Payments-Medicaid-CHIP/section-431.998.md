@@ -1,5 +1,7 @@
 ##### § 431.998 Difference resolution and appeal process. #####
 
+Link to an amendment published at 82 FR 31187, July 5, 2017.
+
 (a) The State may file, in writing, a request with the Federal contractor to resolve differences in the Federal contractor's findings based on medical or data processing reviews on FFS and managed care claims in Medicaid or CHIP within 20 business days after the disposition report of claims review findings is posted on the contractor's Web site. The State must complete all of the following:
 
 (1) Have a factual basis for filing the difference.

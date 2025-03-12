@@ -1,5 +1,7 @@
 ##### § 431.980 Eligibility review procedures. #####
 
+Link to an amendment published at 82 FR 31186, July 5, 2017.
+
 (a) *Active case reviews.* The agency must verify eligibility for all selected active cases for Medicaid and CHIP for the review month for compliance with the State's eligibility criteria.
 
 (b) *Negative case reviews.* The agency must review all selected negative cases for Medicaid and CHIP for the review month to determine whether the cases were properly denied or terminated.

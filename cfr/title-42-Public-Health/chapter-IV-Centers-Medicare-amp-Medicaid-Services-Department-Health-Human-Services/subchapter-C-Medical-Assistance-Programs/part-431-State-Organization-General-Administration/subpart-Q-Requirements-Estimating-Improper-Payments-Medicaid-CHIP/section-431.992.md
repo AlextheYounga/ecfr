@@ -1,5 +1,7 @@
 ##### § 431.992 Corrective action plan. #####
 
+Link to an amendment published at 82 FR 31186, July 5, 2017.
+
 (a) The State agency must develop a separate corrective action plan for Medicaid and CHIP, which is not required to be approved by CMS, designed to reduce improper payments in each program based on its analysis of the error causes in the FFS, managed care, and eligibility components.
 
 (b) In developing a corrective action plan, the State must take the following actions:

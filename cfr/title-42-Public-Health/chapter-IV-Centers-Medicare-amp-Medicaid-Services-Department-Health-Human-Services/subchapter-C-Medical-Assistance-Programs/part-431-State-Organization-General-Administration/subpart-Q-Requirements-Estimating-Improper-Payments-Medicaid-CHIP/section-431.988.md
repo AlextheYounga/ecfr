@@ -1,5 +1,7 @@
 ##### § 431.988 Eligibility case review completion deadlines and submittal of reports. #####
 
+Link to an amendment published at 82 FR 31186, July 5, 2017.
+
 (a)(1) States must complete and report to CMS the findings, including total number of cases in the eligibility universe, the error causes for all case reviews listed on the monthly sample selection lists, including cases dropped from review due to active fraud investigations, and cases for which eligibility could not be determined.
 
 (2) States must submit a summary report of the active case eligibility and payment review findings to CMS by July 1 following the review year.

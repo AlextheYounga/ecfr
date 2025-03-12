@@ -1,5 +1,7 @@
 ##### § 431.978 Eligibility sampling plan and procedures. #####
 
+Link to an amendment published at 82 FR 31186, July 5, 2017.
+
 (a) *Plan approval.* For each review year, the agency must -
 
 (1) Submit its Medicaid or CHIP sampling plan (or revisions to a current plan) for both active and negative cases to CMS for approval by the August 1 before the review year; and

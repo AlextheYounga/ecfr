@@ -1,5 +1,7 @@
 ##### § 431.958 Definitions and use of terms. #####
 
+Link to an amendment published at 82 FR 31184, July 5, 2017.
+
 *Active case* means a case containing information on a beneficiary who is enrolled in the Medicaid or CHIP program in the month that eligibility is reviewed.
 
 *Active fraud investigation* means a beneficiary or a provider has been referred to the State Medicaid Fraud Control Unit or similar Federal or State investigative entity including a Federal oversight agency and the unit is currently actively pursuing an investigation to determine whether the beneficiary or the provider committed health care fraud. This definition applies to both the claims and eligibility review for PERM.

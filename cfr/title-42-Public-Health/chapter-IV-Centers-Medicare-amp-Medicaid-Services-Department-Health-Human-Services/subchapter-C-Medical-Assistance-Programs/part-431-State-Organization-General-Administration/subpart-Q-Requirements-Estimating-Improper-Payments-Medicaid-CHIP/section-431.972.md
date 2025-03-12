@@ -1,5 +1,7 @@
 ##### § 431.972 Claims sampling procedures. #####
 
+Link to an amendment published at 82 FR 31186, July 5, 2017.
+
 (a) *Claims universe.* (1) The PERM claims universe includes payments that were originally paid (paid claims) and for which payment was requested but denied (denied claims) during the FFY, and for which there is FFP (or would have been if the claim had not been denied) through Title XIX (Medicaid) or Title XXI (CHIP).
 
 (2) The State must establish controls to ensure FFS and managed care universes are accurate and complete, including comparing the FFS and managed care universes to the Form CMS-64 and Form CMS-21 as appropriate.
