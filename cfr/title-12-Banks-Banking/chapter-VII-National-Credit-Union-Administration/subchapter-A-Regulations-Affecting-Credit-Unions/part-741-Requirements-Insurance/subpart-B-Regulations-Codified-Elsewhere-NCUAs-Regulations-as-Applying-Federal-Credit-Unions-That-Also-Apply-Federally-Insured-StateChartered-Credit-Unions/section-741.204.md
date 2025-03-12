@@ -1,10 +1,8 @@
 ##### § 741.204 Maximum public unit and nonmember accounts, and low-income designation. #####
 
-Link to an amendment published at 84 FR 58309, Oct. 31, 2019.
-
 Any credit union that is insured, or that makes application for insurance, pursuant to title II of the Act must:
 
-(a) Adhere to the requirements of § 701.32 of this chapter regarding public unit and nonmember accounts, provided it has the authority to accept such accounts. Requests by federally insured state-chartered credit unions for an exemption from the limitation of § 701.32 of this chapter will be made and reviewed on the same basis as that provided in § 701.32 of this chapter for federal credit unions, provided, however that NCUA will not grant an exemption without the concurrence of the appropriate state regulator.
+(a) Adhere to the requirements of § 701.32 of this chapter regarding public unit and nonmember accounts, provided it has the authority to accept such accounts.
 
 (b) Obtain a low-income designation in order to accept nonmember accounts, other than from public units or other credit unions, provided it has the authority to accept such accounts under state law. The state regulator shall make the low-income designation with the concurrence of NCUA. The designation will be made and reviewed by the state regulator on the same basis as that provided in § 701.34(a) of this chapter for federal credit unions. Removal of the designation by the state regulator for such credit unions shall be with the concurrence of NCUA.
 
@@ -12,4 +10,4 @@ Any credit union that is insured, or that makes application for insurance, pursu
 
 (d) Redeem secondary capital accounts only in accordance with the terms and conditions authorized for federal credit unions pursuant to § 701.34(d) of this chapter and to the extent not inconsistent with applicable state law and regulation. State chartered federally insured credit unions seeking to redeem secondary capital accounts must submit the request required by § 701.34(d)(1) to both the state supervisory authority and the NCUA. The state supervisory authority must grant or deny the request with the concurrence of NCUA.
 
-[60 FR 58504, Nov. 28, 1995, as amended at 61 FR 3792, Feb. 2, 1996; 71 FR 4240, Jan. 26, 2006; 78 FR 4032, Jan. 18, 2013]
+[60 FR 58504, Nov. 28, 1995, as amended at 61 FR 3792, Feb. 2, 1996; 71 FR 4240, Jan. 26, 2006; 78 FR 4032, Jan. 18, 2013; 84 FR 58309, Oct. 31, 2019]
