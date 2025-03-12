@@ -1,5 +1,7 @@
 ##### § 210.10 RDFI liability. #####
 
+Link to an amendment published at 85 FR 15721, Mar. 19, 2020.
+
 (a) *Full liability.* An RDFI shall be liable to the Federal Government for the total amount of all benefit payments received after the death or legal incapacity of a recipient or the death of a beneficiary unless the RDFI has the right to limit its liability under § 210.11 of this part. An RDFI shall return any benefit payments received after the RDFI becomes aware of the death or legal incapacity of a recipient or the death of a beneficiary, regardless of the manner in which the RDFI discovers such information. If the RDFI learns of the death or legal incapacity of a recipient or death of a beneficiary from a source other than notice from the agency issuing payments to the recipient, the RDFI shall immediately notify the agency of the death or incapacity. The proper use of the R15 or R14 return reason code shall be deemed to constitute such notice.
 
 (b) *Notice of reclamation.* Upon receipt of a notice of reclamation, an RDFI shall provide the information required by the notice of reclamation and return the amount specified in the notice of reclamation in a timely manner.

@@ -24,4 +24,4 @@
 
 (4) Expenses for personal matters.
 
-[USCG-2015-0497, 81 FR 11941, Mar. 7, 2016, as amended at USCG-2018-0665, 84 FR 20578, May 10, 2019]
+[USCG-2015-0497, 81 FR 11941, Mar. 7, 2016, as amended by USCG-2018-0665, 84 FR 20578, May 10, 2019]

@@ -1,6 +1,6 @@
 ##### § 391.2 Ceiling on deposits. #####
 
-(a) *In general* - (1) *Total ceiling.* Section 607(b) of the Act provides a ceiling on the amount which may be deposited by a party for a taxable year pursuant to an agreement. The amount which a party may deposit into a fund may not exceed the sum of the following subceilings:
+(a) *In general*—(1) *Total ceiling.* Section 607(b) of the Act provides a ceiling on the amount which may be deposited by a party for a taxable year pursuant to an agreement. The amount which a party may deposit into a fund may not exceed the sum of the following subceilings:
 
 (i) The lower of (*a*) the taxable income (if any) of the party for such year (computed as provided in chapter 1 of the Code but without regard to the carryback of any net operating loss or net capital loss and without regard to section 607 of the Act) or (*b*) taxable income (if any) of such party for such year attributable under paragraph (b) of this section to the operation of agreement vessels (as defined in paragraph (f) of this section) in the foreign or domestic commerce of the United States or in the fisheries of the United States (see section 607(b)(1)(A) of the Act),
 
@@ -10,11 +10,11 @@
 
 (iv) Earnings and gains from the investment or reinvestment of amounts held in such fund (see section 607 (b)(1)(D) of the Act and paragraphs (d) and (g) of this section).
 
-(2) *Overdeposits.* (i) If for any taxable year an amount is deposited into the fund under a subceiling computed under paragraph (a)(1) of this section which is in excess of the amount of such subceiling for such year, then at the party's option such excess (or any portion thereof) may -
+(2) *Overdeposits.* (i) If for any taxable year an amount is deposited into the fund under a subceiling computed under paragraph (a)(1) of this section which is in excess of the amount of such subceiling for such year, then at the party's option such excess (or any portion thereof) may—
 
 (*a*) Be treated as a deposit into the fund for that taxable year under another available subceiling, or
 
-(*b*) Be treated as not having been deposited for the taxable year and thus, at the party's option, may be disposed of either by it being -
+(*b*) Be treated as not having been deposited for the taxable year and thus, at the party's option, may be disposed of either by it being—
 
 (*1*) Treated as a deposit into the fund under any subceiling available in the first subsequent taxable year in which a subceiling is available, in which case such amount shall be deemed to have been deposited on the first day of such subsequent taxable year, or
 
@@ -24,7 +24,7 @@
 
 (*b*) If the accounts (as defined in § 391.4) that were increased by reason of excessive deposits contain sufficient amounts at the time the overdeposit is discovered to repay the party, the party may, at his option, demand repayment of such excessive deposits from such accounts in lieu of making the adjustments required by paragraph (a)(2)(ii)(*a*) of this section.
 
-(iii) During the period beginning with the day after the date an overdeposit was actually made and ending with the date it was disposed of in accordance with paragraph (a)(2)(i)(*b*) of this section, there shall be included in the party's gross income for each taxable year the earnings attributed to any amount of overdeposit on hand during such a year. The earnings attributable to any amount of overdeposit on hand during a taxable year shall be an amount equal to the product of -
+(iii) During the period beginning with the day after the date an overdeposit was actually made and ending with the date it was disposed of in accordance with paragraph (a)(2)(i)(*b*) of this section, there shall be included in the party's gross income for each taxable year the earnings attributed to any amount of overdeposit on hand during such a year. The earnings attributable to any amount of overdeposit on hand during a taxable year shall be an amount equal to the product of—
 
 (*a*) The average daily earnings for each one dollar in the fund (as determined in paragraph (a)(2)(iv) of this section),
 
@@ -32,23 +32,23 @@
 
 (*c*) The number of days during the taxable year the overdeposit existed.
 
-(iv) For purposes of paragraph (a)(2)(iii)(*a*) of this section, the average daily earnings for each dollar in the fund shall be determined by dividing the total earnings of the fund for the taxable year by the sum of the products of -
+(iv) For purposes of paragraph (a)(2)(iii)(*a*) of this section, the average daily earnings for each dollar in the fund shall be determined by dividing the total earnings of the fund for the taxable year by the sum of the products of—
 
 (*a*) Any amount on hand during the taxable year (determined under paragraph (a)(2)(v) of this section), and
 
 (*b*) The number of days during the taxable year such amount was on hand in the fund.
 
-(v) For purposes of this paragraph -
+(v) For purposes of this paragraph—
 
 (*a*) An amount on hand in the fund or an overdeposit shall not be treated as on hand on the day deposited but shall be treated as on hand on the day withdrawn, and
 
 (*b*) The fair market value of such amounts on hand for purposes of this subparagraph shall be determined as provided in § 20.2031-2 of the Estate Tax Regulations of this chapter but without applying the blockage and other special rules contained in paragraph (e) thereof.
 
-(vi) For purposes of paragraph (a)(2)(iii)(*b*) of this section, the amount of overdeposit on hand at any time is an amount equal to -
+(vi) For purposes of paragraph (a)(2)(iii)(*b*) of this section, the amount of overdeposit on hand at any time is an amount equal to—
 
 (*a*) The amount deposited into the fund under a subceiling computed under paragraph (a)(1) of this section which is in excess of the amount of such subceiling, less
 
-(*b*) The sum of -
+(*b*) The sum of—
 
 (*1*) Amounts described in paragraph (a)(2)(vi)(*a*) of this section treated as a deposit under another subceiling for the taxable year pursuant to paragraph (a)(2)(i) of this section,
 
@@ -60,7 +60,7 @@
 
 (4) *Requirements for deficiency deposits.* [Reserved]
 
-(b) *Taxable income attributable to the operation of an agreement vessel* - (1) *In general.* For purposes of this section, taxable income attributable to the operation of an agreement vessel means the amount, if any, by which the gross income of a party for the taxable year from the operation of an agreement vessel (as defined in paragraph (f) of this section) exceeds the allowable deductions allocable to such operation (as determined under paragraph (b)(3) of this section). The term *taxable income attributable to the operation of the agreement vessels* means the sum of the amounts described in the preceding sentence separately computed with respect to each agreement vessel (or share therein) or, at the party's option, computed in the aggregate.
+(b) *Taxable income attributable to the operation of an agreement vessel*—(1) *In general.* For purposes of this section, taxable income attributable to the operation of an agreement vessel means the amount, if any, by which the gross income of a party for the taxable year from the operation of an agreement vessel (as defined in paragraph (f) of this section) exceeds the allowable deductions allocable to such operation (as determined under paragraph (b)(3) of this section). The term *taxable income attributable to the operation of the agreement vessels* means the sum of the amounts described in the preceding sentence separately computed with respect to each agreement vessel (or share therein) or, at the party's option, computed in the aggregate.
 
 (2) *Gross income.* (i) Gross income from the operation of agreement vessels means the sum of the revenues which are derived during the taxable year from the following:
 
@@ -84,7 +84,7 @@
 
 (c) *Net proceeds from transactions with respect to agreement vessels.* [Reserved]
 
-(d) *Earnings and gains from the investment or reinvestment of amounts held in a fund* - (1) *In general.* (i) Earnings and gains received or accrued by a party from the investment or reinvestment of assets in a fund is the total amount of any interest or dividends received or accrued, and gains realized, by the party with respect to assets deposited in, or purchased with amounts deposited in, such fund. Such earnings and gains are therefore required to be included in the gross income of the party unless such amount, or a portion thereof, is not taken into account under section 607(d)(1)(C) of the Act and § 391.3(b)(2)(ii) by reason of a deposit or deemed deposit into the fund. For rules relating to receipts from the sale or other disposition of nonmoney deposits into the fund, see paragraph (g) of this section.
+(d) *Earnings and gains from the investment or reinvestment of amounts held in a fund*—(1) *In general.* (i) Earnings and gains received or accrued by a party from the investment or reinvestment of assets in a fund is the total amount of any interest or dividends received or accrued, and gains realized, by the party with respect to assets deposited in, or purchased with amounts deposited in, such fund. Such earnings and gains are therefore required to be included in the gross income of the party unless such amount, or a portion thereof, is not taken into account under section 607(d)(1)(C) of the Act and § 391.3(b)(2)(ii) by reason of a deposit or deemed deposit into the fund. For rules relating to receipts from the sale or other disposition of nonmoney deposits into the fund, see paragraph (g) of this section.
 
 (ii) Earnings received or accrued by a party from investment or reinvestment of assets in a fund include the ratable monthly portion of original issue discount included in gross income pursuant to section 1232(a)(3) of the Code. Such ratable monthly portion shall be deemed to be deposited into the ordinary income account of the fund, but an actual deposit representing such ratable monthly portion shall not be made. For basis of a bond or other evidence of indebtedness issued at a discount, see § 391.3(b)(2)(ii)(b).
 
@@ -98,9 +98,9 @@
 
 (f) *Definition of agreement vessel.* For purposes of this section, the term *agreement vessel* (as defined in § 391.11 (a)(3) and 46 CFR 390.6) includes barges and containers which are the complement of an agreement vessel and which are provided for in the agreements, agreement vessels which have been contracted for or are in the process of construction, and any shares in an agreement vessel. Solely for purposes of this section, a party is considered to have a “share” in an agreement vessel if he has a right to use the vessel to generate income from its use whether or not the party would be considered as having a proprietary interest in the vessel for purposes of State or Federal law. Thus, a partner may enter into an agreement with respect to his share of the vessel owned by the partnership and he may make deposits of his distributive share of the sum of the four subceilings described in paragraph (a)(1) of this section. Notwithstanding the provisions of Subchapter K of the Code (relating to the taxation of partners and partnerships), the Internal Revenue Service will recognize, solely for the purposes of applying this part, an agreement by an owner of a share in an agreement vessel even though the “share” arrangement is a partnership for purposes of the Code.
 
-(g) *Special rules for nonmoney deposits and withdrawals* - (1) *In general.* (i) Deposits may be made in the form of money or property of the type permitted to be deposited under the agreement. (For rules relating to the types of property which may be deposited into the fund, see 46 CFR 390.7(d), and 50 CFR Part 259.) For purposes of this paragraph, the term *property* does not include money.
+(g) *Special rules for nonmoney deposits and withdrawals*—(1) *In general.* (i) Deposits may be made in the form of money or property of the type permitted to be deposited under the agreement. (For rules relating to the types of property which may be deposited into the fund, see 46 CFR 390.7(d), and 50 CFR part 259.) For purposes of this paragraph, the term *property* does not include money.
 
-(ii) Whether or not the election provided for in paragraph (g)(2) of this section is made -
+(ii) Whether or not the election provided for in paragraph (g)(2) of this section is made—
 
 (*a*) The amount of any property deposit, and the fund's basis for property deposited in the fund, is the fair market value of the property at the time deposited, and
 

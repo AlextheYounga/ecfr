@@ -1,6 +1,4 @@
-##### § 54.312 Connect America Fund for Price Cap Territories - Phase I. #####
-
-Link to an amendment published at 85 FR 13797, Mar. 10, 2020.
+##### § 54.312 Connect America Fund for Price Cap Territories—Phase I. #####
 
 (a) *Frozen High-Cost Support.* Beginning January 1, 2012, each price cap local exchange carrier and rate-of-return carrier affiliated with a price cap local exchange carrier will have a “baseline support amount” equal to its total 2011 support in a given study area, or an amount equal to $3,000 times the number of reported lines for 2011, whichever is lower. For purposes of this section, price cap carriers are defined pursuant to § 61.3(aa) of this chapter and affiliated companies are determined by § 32.9000 of this chapter. Each price cap local exchange carrier and rate-of-return carrier affiliated with a price cap local exchange carrier will have a “monthly baseline support amount” equal to its baseline support amount divided by twelve. Beginning January 1, 2012, on a monthly basis, eligible carriers will receive their monthly baseline support amount.
 
@@ -58,4 +56,12 @@ Link to an amendment published at 85 FR 13797, Mar. 10, 2020.
 
 (5) Notwithstanding the foregoing schedule, the phase-down of support below the level described in paragraph (a) of this section shall be subject to the restrictions in Consolidated Appropriations Act, 2016, Public Law 114-113, Div. E, Title VI, section 631, 129 Stat. 2242, 2470 (2015), unless and until such restrictions are no longer in effect.
 
-[76 FR 73872, Nov. 29, 2011, as amended at 77 FR 31536, May 29, 2012; 78 FR 38233, June 26, 2013; 78 FR 48624, Aug. 9, 2013; 84 FR 8624, Mar. 11, 2019]
+(e) *Eligibility for support after Rural Digital Opportunity Fund auction.* (1) A price cap carrier that receives monthly baseline support pursuant to this section and is a winning bidder in the Rural Digital Opportunity Fund auction shall receive support at the same level as described in paragraph (a) of this section for such area until the Wireline Competition Bureau determines whether to authorize the carrier to receive Rural Digital Opportunity Fund auction support for the same area. Upon the Wireline Competition Bureau's release of a public notice approving a price cap carrier's application submitted pursuant to § 54.315(b) and authorizing the carrier to receive Rural Digital Opportunity Fund auction support, the carrier shall no longer receive support at the level of monthly baseline support pursuant to this section for such area. Thereafter, the carrier shall receive monthly support in the amount of its Rural Digital Opportunity Fund winning bid.
+
+(2) Starting the first day of the month following the release of the final eligible areas list for the Rural Digital Opportunity Fund auction, as determined by the Wireline Competition Bureau, no price cap carrier that receives monthly baseline support pursuant to this section shall receive such monthly baseline support for areas that are ineligible for the Rural Digital Opportunity Fund auction.
+
+(3) Starting the first day of the month following the close of Phase I of the Rural Digital Opportunity Fund auction, no price cap carrier that receives monthly baseline support pursuant to this section shall receive such monthly baseline support for areas where Rural Digital Opportunity Fund auction support is not awarded at auction for an eligible area.
+
+(4) Starting the first day of the month following the authorization of Rural Digital Opportunity Fund auction support to a winning bidder other than the price cap carrier that receives monthly baseline support pursuant to this section for such area, the price cap carrier shall no longer receive monthly baseline support pursuant to this section.
+
+[76 FR 73872, Nov. 29, 2011, as amended at 77 FR 31536, May 29, 2012; 78 FR 38233, June 26, 2013; 78 FR 48624, Aug. 9, 2013; 84 FR 8624, Mar. 11, 2019; 85 FR 13797, Mar. 10, 2020]

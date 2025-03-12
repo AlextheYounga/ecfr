@@ -1,5 +1,7 @@
 ##### § 210.3 Governing law. #####
 
+Link to an amendment published at 85 FR 15721, Mar. 19, 2020.
+
 (a) *Federal law.* The rights and obligations of the United States and the Federal Reserve Banks with respect to all Government entries, and the rights of any person or recipient against the United States and the Federal Reserve Banks in connection with any Government entry, are governed by this part, which has the force and effect of Federal law.
 
 (b) *Incorporation by reference.* Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section the Service must publish a document in the Federal Register and the material must be available to the public. All approved material is available for inspection at the Bureau of the Fiscal Service, 401 14th Street SW., Room 400A, Washington, DC 20227, 202-874-6680, and is available from the sources listed below. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to *https://www.archives.gov/federal-register/cfr/ibr-locations.html.*

@@ -8,7 +8,7 @@
 
 (3) A civil penalty not to exceed the amount set forth in section 807 of the Foreign Narcotics Kingpin Designation Act (21 U.S.C. 1901-1908) per violation may be imposed by the Secretary of the Treasury on any person who violates any license, order, rule, or regulation issued in compliance with the provisions of the Foreign Narcotics Kingpin Designation Act.
 
-(4) The maximum civil penalty is $1,503,470 per violation.
+(4) The maximum civil penalty is $1,529,991 per violation.
 
 (b) *Adjustments to penalty amounts.* (1) The current civil penalty cap may be adjusted for inflation pursuant to the Federal Civil Penalties Inflation Adjustment Act of 1990 (Pub. L. 101-410, as amended, 28 U.S.C. 2461 note).
 
@@ -18,4 +18,4 @@
 
 (d) Violations of this part may also be subject to relevant provisions of other applicable laws.
 
-[65 FR 41336, July 5, 2000, as amended at 68 FR 61361, Oct. 28, 2003; 81 FR 43077, July 1, 2016; 82 FR 10439, Feb. 10, 2017; 83 FR 11880, Mar. 19, 2018; 84 FR 27719, June 14, 2019]
+[65 FR 41336, July 5, 2000, as amended at 68 FR 61361, Oct. 28, 2003; 81 FR 43077, July 1, 2016; 82 FR 10439, Feb. 10, 2017; 83 FR 11880, Mar. 19, 2018; 84 FR 27719, June 14, 2019; 85 FR 19888, Apr. 9, 2020]

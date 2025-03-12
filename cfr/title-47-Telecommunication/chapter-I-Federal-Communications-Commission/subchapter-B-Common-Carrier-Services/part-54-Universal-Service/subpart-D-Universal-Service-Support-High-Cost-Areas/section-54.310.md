@@ -1,6 +1,4 @@
-##### § 54.310 Connect America Fund for Price Cap Territories - Phase II. #####
-
-Link to an amendment published at 85 FR 13797, Mar. 10, 2020.
+##### § 54.310 Connect America Fund for Price Cap Territories—Phase II. #####
 
 (a) *Geographic areas eligible for support.* Connect America Phase II support may be made available for census blocks or other areas identified as eligible by public notice, including locations identified by the forward-looking cost model as extremely high-cost. The number of supported locations will be identified for each area eligible for support will be identified by public notice.
 
@@ -22,4 +20,16 @@ Link to an amendment published at 85 FR 13797, Mar. 10, 2020.
 
 (f) *Transition to model-based support.* Eligible telecommunications carriers electing model-based support in states where that support is less than their Phase I frozen support will transition to model-based support as follows: In addition to model-based support, in the first year of Phase II, they will receive 75% of the difference between Phase I frozen support and model-based support; in the second year of Phase II, they will receive 50% of the difference between Phase I frozen support and model-based support; and in the third year of Phase II, they will receive 25% of the difference between Phase I frozen support and model-based support.
 
-[79 FR 11335, Feb. 28, 2014, as amended at 79 FR 39188, July 9, 2014; 80 FR 4477, Jan. 27, 2015; 81 FR 44449, July 7, 2016]
+(g) *Extended term of model-based support.* Eligible telecommunications carriers receiving model-based support may elect to receive a seventh year of such support. An eligible telecommunications carrier electing to receive this additional year of support makes a state-level commitment to maintain the required voice and broadband services in the areas for which it receives support during this extended term. The Wireline Competition Bureau will implement a mechanism to enable an eligible telecommunications carrier to elect whether to receive an additional seventh year of support.
+
+(h) *Transition to Rural Digital Opportunity Fund support.* (1) In areas where the eligible telecommunications carrier elects to receive an optional seventh year of model-based support pursuant to paragraph (g) of this section, it shall receive such support for a full calendar year, regardless of the disposition of these areas in the Rural Digital Opportunity Fund auction.
+
+(i) If the eligible telecommunications carrier becomes the winning bidder in the Rural Digital Opportunity Fund auction in these areas, it shall continue to receive model-based support through December 31, 2021. Thereafter, it shall receive monthly support in the amount of its Rural Digital Opportunity Fund winning bid.
+
+(ii) If another provider is the winning bidder in the Rural Digital Opportunity Fund auction in these areas, the new provider shall receive monthly support in the amount of its Rural Digital Opportunity Fund winning bid starting the first day of the month following its authorization by the Wireline Competition Bureau. The eligible telecommunications carrier shall continue to receive model-based support for these areas through December 31, 2021.
+
+(iii) If there is no authorized Rural Digital Opportunity Fund auction support recipient in these areas or if these areas are deemed ineligible for the Rural Digital Opportunity Fund auction, the eligible telecommunications carrier shall continue to receive model-based support for these areas through December 31, 2021. Thereafter, it shall receive no additional support.
+
+(2) In areas where the eligible telecommunications carrier declines to receive an optional seventh year of model-based support pursuant to paragraph (g) of this section, it shall cease receiving model-based support for these areas on December 31, 2020.
+
+[79 FR 11335, Feb. 28, 2014, as amended at 79 FR 39188, July 9, 2014; 80 FR 4477, Jan. 27, 2015; 81 FR 44449, July 7, 2016; 85 FR 13797, Mar. 10, 2020]

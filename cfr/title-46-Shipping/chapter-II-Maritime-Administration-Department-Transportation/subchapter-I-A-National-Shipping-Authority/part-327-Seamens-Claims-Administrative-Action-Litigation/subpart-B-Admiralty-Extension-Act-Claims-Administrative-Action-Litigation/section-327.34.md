@@ -1,3 +1,3 @@
 ##### § 327.34 Court action. #####
 
-No person, surviving dependent or beneficiary, or legal representative, having a claim specified under 46 U.S.C. 30101(a) against the Maritime Administration, shall institute a court action against the Maritime Administration unless an administrative claim has previously been properly presented and filed in accordance with § 327.22, § 327.23, and § 327.24, and such administrative claim has been subsequently denied in accordance with § 327.32 or § 327.33.
+No person, surviving dependent or beneficiary, or legal representative, having a claim specified under 46 U.S.C. 30101(a) against the Maritime Administration, shall institute a court action against the Maritime Administration unless an administrative claim has previously been properly presented and filed in accordance with §§ 327.22, 327.23, and 327.24, and such administrative claim has been subsequently denied in accordance with § 327.32 or § 327.33.

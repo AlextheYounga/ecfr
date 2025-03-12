@@ -4,6 +4,6 @@
 
 (b) OFAC has the authority, pursuant to IEEPA, to issue Pre-Penalty Notices, Penalty Notices, and Findings of Violation; impose monetary penalties; engage in settlement discussions and enter into settlements; refer matters to the United States Department of Justice for administrative collection; and, in appropriate circumstances, refer matters to appropriate law enforcement agencies for criminal investigation and/or prosecution. For more information, see appendix A to part 501 of this chapter, which provides a general framework for the enforcement of all economic sanctions programs administered by OFAC, including enforcement-related definitions, types of responses to apparent violations, general factors affecting administrative actions, civil penalties for failure to comply with a requirement to furnish information or keep records, and other general civil penalties information.
 
-(c) IEEPA provides for a maximum civil penalty not to exceed the greater of $302,584 or an amount that is twice the amount of the transaction that is the basis of the violation with respect to which the penalty is imposed.
+(c) IEEPA provides for a maximum civil penalty not to exceed the greater of $307,922 or an amount that is twice the amount of the transaction that is the basis of the violation with respect to which the penalty is imposed.
 
-[83 FR 30541, June 29, 2018, as amended at 84 FR 27718, June 14, 2019]
+[83 FR 30541, June 29, 2018, as amended at 84 FR 27718, June 14, 201; 85 FR 19888, Apr. 9, 20209]

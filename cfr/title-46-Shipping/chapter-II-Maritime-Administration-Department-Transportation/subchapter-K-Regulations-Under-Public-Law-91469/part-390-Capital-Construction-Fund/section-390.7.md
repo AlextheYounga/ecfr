@@ -1,12 +1,12 @@
 ##### § 390.7 Deposits into the fund. #####
 
-(a) *In general* - (1) *Source of deposits.* 46 U.S.C. 53505 provides ceilings within which fund deposits may be made. This section provides rules for the qualification of depositories, timing of deposits, the type of property which may be deposited and the level of deposits.
+(a) *In general*—(1) *Source of deposits.* 46 U.S.C. 53505 provides ceilings within which fund deposits may be made. This section provides rules for the qualification of depositories, timing of deposits, the type of property which may be deposited and the level of deposits.
 
 (2) *Tax aspects of deposits.* For the Federal Income Tax aspects of deposits into a fund, see 46 U.S.C. 53507 and § 3.3 of the joint regulations (§ 391.3 of this chapter).
 
-(b) *Depositories* - (1) *In general.* 46 U.S.C. 53506 provides that amounts in a fund must be kept in the depository or depositories specified in the agreement and be subject to such trustee or other fiduciary requirements as the Maritime Administrator may specify.
+(b) *Depositories*—(1) *In general.* 46 U.S.C. 53506 provides that amounts in a fund must be kept in the depository or depositories specified in the agreement and be subject to such trustee or other fiduciary requirements as the Maritime Administrator may specify.
 
-(2) *Qualifications.* The Maritime Administrator has established general qualifications for depositories for all maritime programs authorized under the Act, including the capital construction fund program. The general qualifications are published in Part 351 of this title.
+(2) *Qualifications.* The Maritime Administrator has established general qualifications for depositories for all maritime programs authorized under the Act, including the capital construction fund program. The general qualifications are published in part 351 of this title.
 
 (3) *Fiduciary requirements.* Except in unusual circumstances, the Maritime Administrator will not impose special trustee or other fiduciary requirements upon depositories of a fund. For rules relating to a fund held in trust for investment purposes, see paragraph (h) of this section.
 
@@ -14,7 +14,7 @@
 
 (5) *Compensating balances.* The obligation of the assets in the fund as a compensating balance shall constitute a material breach of the agreement.
 
-(c) *Timing of deposits* - (1) *In general.* 46 U.S.C. 53507(b) provides that deposits shall not be taxable only when they are made in accordance with the agreement and not later than the time provided in the joint regulations.
+(c) *Timing of deposits*—(1) *In general.* 46 U.S.C. 53507(b) provides that deposits shall not be taxable only when they are made in accordance with the agreement and not later than the time provided in the joint regulations.
 
 (2) *Deposits prior to the time provided in joint regulations.* The party may make deposits for any taxable year prior to the time provided in joint regulations in accordance with the following rules:
 
@@ -28,15 +28,15 @@
 
 (3) *Deposits required prior to the time provided in joint regulations.* The Maritime Administrator may require that deposits be made earlier than the latest time provided for in the joint regulations. Generally, the Maritime Administrator will require early deposits only when necessary for the party to meet its agreed upon obligations.
 
-(d) *Types of property which may be deposited into a fund* - (1) *Form of deposits.* Deposits may be made into a fund only in the form of money or intangible property of the type in which assets of the fund may be invested pursuant to 46 U.S.C. 53506, the Agreement, and these regulations, other than the securities or common and preferred stock of the party or a company related to the party within the meaning of paragraph (d)(2) of this section, except that in the case of deposits representing net proceeds from the sale or other disposition of any agreement vessel to other than a purchaser or transferee related to the party (within the meaning of paragraph (d)(2) of this section) or deposits representing receipts from the investment or reinvestment of amounts held in a fund, any intangible property received may be deposited.
+(d) *Types of property which may be deposited into a fund*—(1) *Form of deposits.* Deposits may be made into a fund only in the form of money or intangible property of the type in which assets of the fund may be invested pursuant to 46 U.S.C. 53506, the Agreement, and these regulations, other than the securities or common and preferred stock of the party or a company related to the party within the meaning of paragraph (d)(2) of this section, except that in the case of deposits representing net proceeds from the sale or other disposition of any agreement vessel to other than a purchaser or transferee related to the party (within the meaning of paragraph (d)(2) of this section) or deposits representing receipts from the investment or reinvestment of amounts held in a fund, any intangible property received may be deposited.
 
-(2) *Related purchaser.* For purposes of this paragraph a purchaser or transferee is a related person to the party if -
+(2) *Related purchaser.* For purposes of this paragraph a purchaser or transferee is a related person to the party if—
 
 (i) The relationship between purchaser or transferee and the party would result in disallowance of losses under section 267 or 707 of the Code, or
 
 (ii) The purchaser or transferee and the party are members of the same controlled group of corporations (as defined in section 1563(a) of the Code, except that “more than 50 percent” shall be substituted for “at least 80 percent” each place it appears therein).
 
-(e) *Level of deposits* - (1) *In general.* 46 U.S.C. 53504 states that the agreement must provide for the deposit in the fund of amounts agreed upon but only to the extent necessary or appropriate to provide for qualified withdrawals to accomplish the program set forth in the agreement.
+(e) *Level of deposits*—(1) *In general.* 46 U.S.C. 53504 states that the agreement must provide for the deposit in the fund of amounts agreed upon but only to the extent necessary or appropriate to provide for qualified withdrawals to accomplish the program set forth in the agreement.
 
 (2) *Maximum level of deposits.* The party shall not be permitted to deposit more than is necessary to complete its program. See § 390.4 (relating to description of the agreement).
 
@@ -48,7 +48,7 @@
 
 (6) *Selection of ceiling.* Except as may be otherwise provided in the agreement or these rules and regulations, the party may choose the ceilings with respect to which deposits are made.
 
-(f) *Allocation of depreciation deposits* - (1) *In general.* 46 U.S.C. 53505(b) provides that in the case of a lessee of an eligible agreement vessel the maximum amount which may be deposited with respect to such vessel, under the depreciation ceiling, shall be reduced by any amount which the owner is required or permitted to deposit with respect to such vessel under its depreciation ceiling.
+(f) *Allocation of depreciation deposits*—(1) *In general.* 46 U.S.C. 53505(b) provides that in the case of a lessee of an eligible agreement vessel the maximum amount which may be deposited with respect to such vessel, under the depreciation ceiling, shall be reduced by any amount which the owner is required or permitted to deposit with respect to such vessel under its depreciation ceiling.
 
 (2) *Method of allocation.* When an agreement vessel is leased, the party's agreement shall fix a percentage of the annual depreciation which the party may deposit. The percentage shall be that agreed upon between the lessors and the lessees unless the Maritime Administrator determines that the agreed upon percentage will result in an accumulation of assets in the fund or funds which is greater than or less than an amount necessary or appropriate to carry out the party's program. See paragraph (e) of this section (relating to level of deposits).
 
