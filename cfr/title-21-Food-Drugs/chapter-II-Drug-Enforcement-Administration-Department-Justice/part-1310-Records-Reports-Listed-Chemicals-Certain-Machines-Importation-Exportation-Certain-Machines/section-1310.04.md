@@ -1,7 +1,5 @@
 ##### § 1310.04 Maintenance of records. #####
 
-Link to an amendment published at 82 FR 32460, July 14, 2017.
-
 (a) Every record required to be kept subject to § 1310.03 for a List I chemical, a tableting machine, or an encapsulating machine shall be kept by the regulated person for 2 years after the date of the transaction.
 
 (b) Every record required to be kept subject to Section 1310.03 for List II chemical shall be kept by the regulated person for two years after the date of the transaction.
@@ -93,25 +91,27 @@ Link to an amendment published at 82 FR 32460, July 14, 2017.
 
 (1) Listed chemicals for which no thresholds have been established:
 
-(i) Ephedrine, its salts, optical isomers, and salts of optical isomers;
+(i) Alpha-phenylacetoacetonitrile and its salts, optical isomers, and salts of optical isomers (APAAN)
 
-(ii) Ergocristine and its salts
+(ii) Ephedrine, its salts, optical isomers, and salts of optical isomers;
 
-(iii) Gamma-Butyrolactone (Other names include: GBL; Dihydro-2(3H)-furanone; 1,2-Butanolide; 1,4-Butanolide; 4-Hydroxybutanoic acid lactone; gamma-hydroxybutyric acid lactone)
+(iii) Ergocristine and its salts
 
-(iv) Hypophosphorous acid and its salts (including ammonium hypophosphite, calcium hypophosphite, iron hypophosphite, potassium hypophosphite, manganese hypophosphite, magnesium hypophosphite, and sodium hypophosphite)
+(iv) Gamma-Butyrolactone (Other names include: GBL; Dihydro-2(3H)-furanone; 1,2-Butanolide; 1,4-Butanolide; 4-Hydroxybutanoic acid lactone; gamma-hydroxybutyric acid lactone)
 
-(v) Iodine
+(v) Hypophosphorous acid and its salts (including ammonium hypophosphite, calcium hypophosphite, iron hypophosphite, potassium hypophosphite, manganese hypophosphite, magnesium hypophosphite, and sodium hypophosphite)
 
-(vi) N-phenethyl-4-piperidone (NPP)
+(vi) Iodine
 
-(vii) Pseudoephedrine, its salts, optical isomers, and salts of optical isomers
+(vii) N-phenethyl-4-piperidone (NPP)
 
-(viii) Phenylpropanolamine, its salts, optical isomers, and salts of optical isomers
+(viii) Pseudoephedrine, its salts, optical isomers, and salts of optical isomers
 
-(ix) Red phosphorus
+(ix) Phenylpropanolamine, its salts, optical isomers, and salts of optical isomers
 
-(x) White phosphorus (Other names: Yellow Phosphorus)
+(x) Red phosphorus
+
+(xi) White phosphorus (Other names: Yellow Phosphorus)
 
 (2) [Reserved]
 

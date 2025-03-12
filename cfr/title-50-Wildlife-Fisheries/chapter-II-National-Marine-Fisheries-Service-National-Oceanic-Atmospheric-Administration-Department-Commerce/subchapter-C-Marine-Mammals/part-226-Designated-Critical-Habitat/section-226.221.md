@@ -2,7 +2,7 @@
 
 Critical habitat is designated for black abalone as described in this section. The textual descriptions of critical habitat in this section are the definitive source for determining the critical habitat boundaries. The overview maps are provided for general guidance purposes only and not as a definitive source for determining critical habitat boundaries.
 
-(a) *Critical habitat boundaries* - (1) *Coastal Marine Areas:* The critical habitat designation for black abalone within each coastal marine area below along the California coast is defined by four latitude and longitude coordinates that set the northern and southern boundaries, as well as by bathymetric specifications that set the shoreward and seaward boundaries. The northern boundary is the straight line between the northern coordinates and the southern boundary is the straight line between the southern coordinates, extending out as far as the seaward boundary, defined by the −6 m depth bathymetry line (relative to mean lower low water (MLLW)), and the shoreward boundary, defined by the line that marks mean higher high water (MHHW). Critical habitat only includes rocky intertidal and subtidal habitats within these areas from the MHHW line to a depth of −6 m relative to MLLW, as well as the marine waters above the rocky habitats.
+(a) *Critical habitat boundaries*—(1) *Coastal Marine Areas:* The critical habitat designation for black abalone within each coastal marine area below along the California coast is defined by four latitude and longitude coordinates that set the northern and southern boundaries, as well as by bathymetric specifications that set the shoreward and seaward boundaries. The northern boundary is the straight line between the northern coordinates and the southern boundary is the straight line between the southern coordinates, extending out as far as the seaward boundary, defined by the −6 m depth bathymetry line (relative to mean lower low water (MLLW)), and the shoreward boundary, defined by the line that marks mean higher high water (MHHW). Critical habitat only includes rocky intertidal and subtidal habitats within these areas from the MHHW line to a depth of −6 m relative to MLLW, as well as the marine waters above the rocky habitats.
 
 (i) *Del Mar Landing Ecological Reserve in Sonoma County to Point Bonita in Marin County, California:* northern coordinates: 38°44′25.04″ N, 123°30′52.067″ W and 38°44′25.948″ N, 123°30′19.175″ W; southern coordinates: 37°49′3.404″ N, 122°31′56.339″ W and 37°49′3.082″ N, 122°31′50.549″ W.
 
@@ -18,7 +18,7 @@ Critical habitat is designated for black abalone as described in this section. T
 
 (i) *Farallon Islands, San Francisco County, California.*
 
-(ii)*Año Nuevo Island, San Mateo County, California.*
+(ii) *Año Nuevo Island, San Mateo County, California.*
 
 (iii) *San Miguel Island, Santa Barbara County, California.*
 

@@ -18,7 +18,7 @@ For the most current list of MDE, see Appendix 1, (Nonrecurring Cost Recoupment 
 
 *Active flight control systems.* (Cat 7) - Function to prevent undesirable “aircraft” and “missile” motions or structural loads by autonomously processing outputs from multiple sensors and then providing necessary preventive commands to effect automatic control.
 
-*Active pixel.* (Cat 6 and 8) - A minimum (single) element of the solid state array that has a photoelectric transfer function when exposed to light (electromagnetic) radiation.
+*Active pixel.* (Cat 6) - A minimum (single) element of the solid state array that has a photoelectric transfer function when exposed to light (electromagnetic) radiation.
 
 *Adaptive control.* (Cat 2) - A control system that adjusts the response from conditions detected during the operation (Ref. ISO 2806-1980).
 
@@ -42,7 +42,7 @@ Note 3:
 
 For purposes of License Exception AGR and export license applications to Iran and Sudan under the licensing procedures set forth in the appropriate regulations promulgated and administered by Treasury's Office of Foreign Assets Control, agricultural commodities only include those that are classified as EAR99.
 
-*Aircraft.* (Cat 1, 7, and 9) - A fixed wing, swivelwing, rotary wing (helicopter), tilt rotor or tilt-wing airborne vehicle. (See also “civil aircraft”.)
+*Aircraft.* (Cat 1, 6, 7, and 9) - A fixed wing, swivelwing, rotary wing (helicopter), tilt rotor or tilt-wing airborne vehicle. (See also “civil aircraft”.)
 
 *Airline.* Any person engaged primarily in the transport of persons or property by aircraft for compensation or hire, pursuant to authorization by the U.S. Government or a foreign government.
 
@@ -73,6 +73,8 @@ A common use of “asymmetric algorithms” is key management.
 *Attachments.* These are associated items for any “component,” “end item,” or “system,” and which are not necessary for their operation, but which enhance their usefulness or effectiveness. For example, for a riding lawnmower, “accessories” and “attachments” will include the bag to capture the cut grass, and a canopy to protect the operator from the sun and rain. For purposes of this definition, “attachments” and “accessories” are the same.
 
 *Australia Group.* The countries participating in the Australia Group have agreed to adopt harmonized controls on certain dual-use chemicals (i.e., precursor chemicals), biological agents, related manufacturing facilities and equipment, and related technology in order to ensure that exports of these items do not contribute to the proliferation of chemical or biological weapons. Countries participating in the Australia Group as of November 1, 2013, include: Argentina, Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Japan, Korea (South), Latvia, Lithuania, Luxembourg, Malta, Mexico, the Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Turkey, Ukraine, the United Kingdom, and the United States. See also § 742.2 of the EAR.
+
+“*Authentication*”. (Cat 5P2) Verifying the identity of a user, process or device, often as a prerequisite to allowing access to resources in an information system. This includes verifying the origin or content of a message or other information, and all aspects of access control where there is no encryption of files or text except as directly related to the protection of passwords, Personal Identification Numbers (PINs) or similar data to prevent unauthorized access.
 
 *Automated Export System (AES).* AES is a nationwide system operational at all ports and for all methods of transportation through which export shipment data required by multiple agencies is filed electronically to U.S. Customs and Border Protection, using the efficiencies of Electronic Data Interchange (EDI). AES allows the export information to be collected electronically and edited immediately. For more information about AES, visit the Bureau of Census Web site at: *http://www.census.gov/foreign-trade/aes/index.html* or see 15 CFR part 30 the Foreign Trade Regulations
 
@@ -352,7 +354,7 @@ c. For uranium enriched below 1 percent in the isotope uranium-235, the element 
 
 *Facilities.* This means a building or outdoor area in which people use an item that is built, installed, produced, or developed for a particular purpose.
 
-*Fibrous or filamentary materials.* (Cat 1 and 8) - The term “fibrous and filamentary materials” includes:
+*Fibrous or filamentary materials.* (Cat 1, 2, 8 and 9) - The term “fibrous and filamentary materials” includes:
 
 (a) Continuous monofilaments;
 
@@ -414,9 +416,9 @@ Note:
 
 *Flight path optimization.* (Cat 7) is a procedure that minimizes deviations from a four-dimensional (space and time) desired trajectory based on maximizing performance or effectiveness for mission tasks.
 
-*Fly-by-light system.* (Cat 7) A primary digital flight control system employing feedback to control the aircraft during flight, where the commands to the effectors/actuators are optical signals.
+*Fly-by-light system.* (Cat 7) A primary digital flight control system employing feedback to control the “aircraft” during flight, where the commands to the effectors/actuators are optical signals.
 
-*Fly-by-wire system.* (Cat 7) A primary digital flight control system employing feedback to control the aircraft during flight, where the commands to the effectors/actuators are electrical signals.
+*Fly-by-wire system.* (Cat 7) A primary digital flight control system employing feedback to control the “aircraft” during flight, where the commands to the effectors/actuators are electrical signals.
 
 *Focal plane array.* (Cat 6 and 8) - A linear or two-dimensional planar layer, or combination of planar layers, of individual detector elements, with or without readout electronics, that work in the focal plane.
 
@@ -442,7 +444,7 @@ This definition does not include a stack of single detector elements or any two,
 
 *Fractional bandwidth.* (Cat 3, 5P1, 5P2) - The “instantaneous bandwidth” divided by the center frequency, expressed as a percentage.
 
-*Frequency hopping.* (Cat 5 part 1 and 5 part 2) - A form of “spread spectrum” in which the transmission frequency of a single communication channel is made to change by a random or pseudo-random sequence of discrete steps.
+*Frequency hopping.* (Cat 5P1, 5P2 and 6) - A form of “spread spectrum” in which the transmission frequency of a single communication channel is made to change by a random or pseudo-random sequence of discrete steps.
 
 *Frequency mask trigger.* (Cat 3) - For “signal analyzers” a mechanism where the trigger function is able to select a frequency range to be triggered on as a subset of the acquisition bandwidth while ignoring other signals that may also be present within the same acquisition bandwidth. A “frequency mask trigger” may contain more than one independent set of limits.
 
@@ -686,6 +688,8 @@ N.B. 2: This definition includes chip sets that are designed to operate together
 
 “*Missiles”.* (All) Rocket systems (including ballistic missiles, space launch vehicles, and sounding rockets) and unmanned aerial vehicle systems (including cruise missiles, target drones, and reconnaissance drones) “capable of” delivering at least 500 kilograms payload to a range of at least 300 kilometers. See § 746.3 for definition of a “ballistic missile” to be exported or reexported to Iraq or transferred within Iraq.
 
+“*MMIC*”. (Cat 3 and 5) See “Monolithic Microwave Integrated Circuit”
+
 *Monolithic integrated circuit.* (Cat 3) - A combination of passive or active “circuit elements” or both that:
 
 (a) Are formed by means of diffusion processes, implantation processes or deposition processes in or on a single semiconducting piece of material, a so-called ‘chip’;
@@ -697,6 +701,8 @@ N.B. 2: This definition includes chip sets that are designed to operate together
 Note:
 
 “Circuit element”: a single active or passive functional part of an electronic circuit, such as one diode, one transistor, one resistor, one capacitor, etc.
+
+“*Monolithic Microwave Integrated Circuit*” (“*MMIC*”) (Cat 3, 5P1 and 9) is a “monolithic integrated circuit” that operates at microwave or millimeter wave frequencies.
 
 *Monospectral imaging sensors.* (Cat 6) are capable of acquisition of imaging data from one discrete spectral band.
 
@@ -749,12 +755,6 @@ Note:
 (c) Multiple Instruction Multiple Data (MIMD) architectures, including those that are tightly coupled, closely coupled or loosely coupled; or
 
 (d) Structured arrays of processing elements, including systolic arrays.
-
-*Multilevel security.* (Cat 5) - A class of system containing information with different sensitivities that simultaneously permits access by users with different security clearances and need-to-know, but prevents users from obtaining access to information for which they lack authorization.
-
-Note:
-
-“Multilevel security” is computer security and not computer reliability that deals with equipment fault prevention or human error prevention in general.
 
 *Multispectral Imaging Sensors.* (Cat 6) - Are capable of simultaneous or serial acquisition of imaging data from two or more discrete spectral bands. Sensors having more than twenty discrete spectral bands are sometimes referred to as hyperspectral imaging sensors.
 
@@ -996,9 +996,9 @@ d. For UAV systems, the “range” will be determined for a one-way distance us
 
 *Readable or readability.* Readable and readability mean the quality of a group of letters or numerals being recognized as complete words or numbers.
 
-*Real time bandwidth.* (Cat 3) - For “signal analyzers”, the widest frequency range for which the analyzer can continuously transform time domain data entirely into frequency-domain results, using Fourier or other discrete time transform that processes every incoming time point without gaps or windowing effects that causes a reduction of measured amplitude of more than 3 dB below the actual signal amplitude, while outputting or displaying the transformed data.
+*Real-time bandwidth.* (Cat 3) For “signal analyzers”, the widest frequency range for which the analyzer can continuously transform time domain data entirely into frequency-domain results using Fourier or other discrete time transform that processes every incoming time point, without a reduction of measured amplitude of more than 3 dB below the actual signal amplitude caused by gaps or windowing effects, while outputting or displaying the transformed data.
 
-*Real-time processing.* (Cat 2, 4, 6, and 7) - The processing of data by a computer system providing a required level of service, as a function of available resources, within a guaranteed response time, regardless of the load of the system, when stimulated by an external event.
+*“Real-time Processing*”. (Cat 2, 4, and 6) The processing of data by a computer system providing a required level of service, as a function of available resources, within a guaranteed response time, regardless of the load of the system, when stimulated by an external event.
 
 *Reasons for Control.* Reasons for Control are: Anti-Terrorism (AT), Chemical & Biological Weapons (CB), Chemical Weapons Convention (CW), Crime Control (CC), Encryption Items (EI), Firearms Convention (FC), Missile Technology (MT), National Security (NS), Nuclear Nonproliferation (NP), Regional Stability (RS), Short Supply (SS), Significant Items (SI), Surreptitious Listening (SL) and United Nations sanctions (UN). Items controlled within a particular ECCN may be controlled for more than one reason.
 
@@ -1116,7 +1116,7 @@ Note 2:
 
 The terms 'designed' and 'manufactured' in this definition are synonymous with “specially designed.” Thus, for example, an item that is “specially designed” for a spacecraft is deemed to be 'designed' or 'manufactured' for operation at altitudes greater than 100 km and an item that is not “specially designed” for a spacecraft is not deemed to have been so 'designed' or 'manufactured.'
 
-*Spacecraft.* (Cat 7 and 9) - Active and passive satellites and space probes.
+*Spacecraft.* (Cat 9) - Active and passive satellites and space probes.
 
 *Spacecraft bus.* (Cat 9) Equipment that provides the support infrastructure of the “spacecraft” and location for the “spacecraft payload”.
 
@@ -1204,7 +1204,11 @@ Note:
 
 *Spread spectrum radar.* (Cat 6) - (see “Radar spread spectrum”)
 
-*Stability.* (Cat 7) - Standard deviation (1 sigma) of the variation of a particular parameter from its calibrated value measured under stable temperature conditions. This can be expressed as a function of time.
+“*Stability*”. (Cat 7) Standard deviation (1 sigma) of the variation of a particular parameter from its calibrated value measured under stable temperature conditions. This can be expressed as a function of time.
+
+Note to the Defintion of “Stability”:
+
+For gyroscopes, “stability” can be estimated by determining the Allan variance noise-analysis value at the integration period (*i.e.,* sample time) consistent with the stated measurement period, which may include extrapolating the Allan variance noise analysis beyond the instability point into the rate random walk or rate ramp regions to an integration period consistent with the stated measurement period (Reference: IEEE Std. 952-1997 [R2008]). Allan variance noise analysis is often used to characterize Micro Electro Mechanical Systems (MEMS) gyroscopes, and is applicable to other gyroscopes, such as Ring Laser Gyroscopes (RLGs) and Fiber Optic Gyroscopes (FOGs).
 
 *Stored program controlled.* (Cat 2, 3, and 5) - A control using instructions stored in an electronic storage that a processor can execute in order to direct the performance of predetermined functions.
 
@@ -1264,7 +1268,7 @@ The modification of the design of an existing item creates a new item and techno
 
 *Terminal interface equipment.* (Cat 4) - Equipment at which information enters or leaves the telecommunication systems, e.g., telephone, data device, computer, facsimile device.
 
-*Three dimensional integrated circuit.* (Cat 3) A collection of semiconductor die, integrated together, and having vias passing completely through at least one die to establish interconnections between die.
+“*Three dimensional integrated circuit”.* (Cat 3) A collection of semiconductor dies or active device layers, integrated together, and having through semiconductor via connections passing completely through an interposer, substrate, die or layer to establish interconnections between the device layers. An interposer is an interface that enables electrical connections.
 
 *Tilting spindle.* (Cat 2) - A tool-handling spindle that alters, during the machining process, the angular position of its center line with respect to any other axis.
 
