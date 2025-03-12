@@ -1,6 +1,6 @@
 ##### § 17.96 Critical habitat - plants. #####
 
-Link to an amendment published at 85 FR 82388, Dec. 18, 2020.Link to an amendment published at 86 FR 4844, Jan. 15, 2021.Link to an amendment published at 86 FR 31858, June 15, 2021.
+Link to an amendment published at 85 FR 82388, Dec. 18, 2020.Link to an amendment published at 86 FR 4844, Jan. 15, 2021.
 
 (a) *Flowering plants.*
 
@@ -1472,7 +1472,99 @@ From USGS 1:24,000 quadrangle map Soquel. Lands bounded by the following UTM zon
 
 (iii) Note: Unit 8 (Map 5) follows:
 
-![](/graphics/er10fe06.054.gif)Family Asteraceae: *Pentachaeta lyonii* (Lyon's pentachaeta)
+![](/graphics/er10fe06.054.gif)Family Asteraceae: *Pectis imberbis* (Beardless Chinchweed)
+
+(1) Critical habitat units are depicted for Cochise, Pima, and Santa Cruz Counties, Arizona, on the map in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of the beardless chinchweed consist of the following components:
+
+(i) Native-dominated plant communities, consisting of:
+
+(A) Plains, great basin, and semi-desert grasslands, oak savanna, or Madrean evergreen woodland;
+
+(B) Communities dominated by bunchgrasses with open spacing (adjacent to and within 10 meters (33 feet) of individual beardless chinchweed plants) and with little competition from other plants; and
+
+(C) Communities with plants for pollinator foraging and nesting within 1 kilometer (0.62 miles) of beardless chinchweed populations.
+
+(ii) 1,158 to 1,737 meters (3,799 to 5,699 feet) elevation.
+
+(iii) Eroding limestone or granite bedrock substrate.
+
+(iv) Steep, south-facing, sunny to partially shaded hillslopes.
+
+(v) The presence of pollinators (*i.e.,* flies, bees, and butterflies).
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on the effective date of the rule.
+
+(4) Data layers defining map units were created using ArcMap version 10 (Environmental Systems Research Institute, Inc.), a geographic information systems program on a base of USA Topo Maps. Critical habitat units were then mapped using NAD 1983, Universal Transverse Mercator (UTM) Zone 12N coordinates. The maps in this entry, as modified by any accompanying regulatory text, establishes the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's internet site at *https://www.fws.gov/southwest/es/arizona/Docs\_Species.htm* and at *http://www.regulations.gov* at Docket No. FWS-R2-ES-2018-0104, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) *Note:* Index map follows:
+
+![](/graphics/er15jn21.000.gif)
+
+(6) *Unit 1:* McCleary Canyon, Pima County, Arizona.
+
+(i) Unit 1 consists of 682 hectares (1,686 acres) of U.S. Forest Service lands.
+
+(ii) Map of Unit 1 follows:
+
+![](/graphics/er15jn21.001.gif)
+
+(7) *Unit 2:* Audubon Research Ranch, Santa Cruz County, Arizona.
+
+(i) Unit 2 consists of 926 hectares (2,287 acres) of land, of which 331 hectares (817 acres) are owned by the U.S. Forest Service, 474 hectares (1,170 acres) by the Bureau of Land Management, and 121 hectares (300 acres) by the Audubon Research Ranch.
+
+(ii) Map of Unit 2 follows:
+
+![](/graphics/er15jn21.002.gif)
+
+(8) *Unit 3:* Scotia Canyon, Cochise County, Arizona.
+
+(i) Unit 3 consists of 346 hectares (855 acres) of U.S. Forest Service lands.
+
+(ii) Map of Unit 3 follows:
+
+![](/graphics/er15jn21.003.gif)
+
+(9) *Unit 4:* Coronado National Memorial, Cochise County, Arizona.
+
+(i) Unit 4 consists of 853 hectares (2,109 acres) of National Park Service lands.
+
+(ii) Map of Unit 4 follows:
+
+![](/graphics/er15jn21.004.gif)
+
+(10) *Unit 5:* Lampshire Well, Santa Cruz County, Arizona.
+
+(i) Unit 5 consists of 380 hectares (939 acres) of U.S. Forest Service lands.
+
+(ii) Map of Unit 5 follows:
+
+![](/graphics/er15jn21.005.gif)
+
+(11) *Unit 6:* Harshaw Creek, Santa Cruz County, Arizona.
+
+(i) Unit 6 consists of 410 hectares (1,013 acres) of U.S. Forest Service lands.
+
+(ii) Map of Unit 6 follows:
+
+![](/graphics/er15jn21.006.gif)
+
+(12) *Unit 7:* Washington Camp, Santa Cruz County, Arizona.
+
+(i) Unit 7 consists of 380 hectares (939 acres) of U.S. Forest Service lands.
+
+(ii) Map of Unit 7 follows:
+
+![](/graphics/er15jn21.007.gif)
+
+(13) *Unit 8:* Ruby Road, Santa Cruz County, Arizona.
+
+(i) Unit 8 consists of 314 hectares (776 acres) of U.S. Forest Service lands.
+
+(ii) Map of Unit 8 follows:
+
+![](/graphics/er15jn21.008.gif)Family Asteraceae: *Pentachaeta lyonii* (Lyon's pentachaeta)
 
 (1) Critical habitat units are depicted for Ventura and Los Angeles Counties, California, on the maps below.
 

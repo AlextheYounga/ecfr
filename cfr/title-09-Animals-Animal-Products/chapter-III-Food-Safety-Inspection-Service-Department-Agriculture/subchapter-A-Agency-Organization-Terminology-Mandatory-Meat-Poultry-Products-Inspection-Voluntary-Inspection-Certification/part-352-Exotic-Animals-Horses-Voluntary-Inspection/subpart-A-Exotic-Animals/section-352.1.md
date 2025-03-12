@@ -1,5 +1,7 @@
 ##### § 352.1 Definitions. #####
 
+Link to an amendment published at 86 FR 37218, July 15, 2021.
+
 The definitions in § 301.2, not otherwise defined in this part, are incorporated into this part. In addition to those definitions, the following definitions will be applicable to the regulations in this part.
 
 (a) *Act* means the applicable provisions of the Agricultural Marketing Act of 1946, as amended (60 Stat. 1087, as amended; 7 U.S.C. 1621 *et seq.*).
