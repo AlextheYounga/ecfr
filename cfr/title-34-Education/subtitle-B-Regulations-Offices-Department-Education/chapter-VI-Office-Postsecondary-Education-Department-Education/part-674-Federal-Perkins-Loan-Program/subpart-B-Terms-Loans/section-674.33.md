@@ -1,7 +1,5 @@
 ##### § 674.33 Repayment. #####
 
-Link to an amendment published at 81 FR 76078, Nov. 1, 2016.This amendment was delayed until further notice at 82 FR 27621, June 16, 2017.This amendment was further delayed until July 1, 2018 at 82 FR 49114, Oct. 24, 2017.This amendment was further delayed until July 1, 2019 at 83 FR 6459, Feb. 14, 2018
-
 (a) *Repayment Plan.* (1) The institution shall establish a repayment plan before the student ceases to be at least a half-time regular student.
 
 (2) If the last scheduled payment would be $25 or less the institution may combine it with the next-to-last repayment.
@@ -140,11 +138,13 @@ Link to an amendment published at 81 FR 76078, Nov. 1, 2016.This amendment was d
 
 (iv) The Secretary or the school, if the school holds the loan, reports the discharge of a loan under this section to all credit bureaus to which the status of the loan was previously reported.
 
-(3) *Determination of borrower qualification for discharge by the Secretary.* The Secretary may discharge the borrower's obligation to repay an NDSL or Federal Perkins Loan without an application if the Secretary determines that -
+(3) *Determination of borrower qualification for discharge by the Secretary.* (i) The Secretary may discharge the borrower's obligation to repay an NDSL or Federal Perkins Loan without an application if the Secretary determines that -
 
-(i) The borrower qualified for and received a discharge on a loan pursuant to 34 CFR 682.402(d) (Federal Family Education Loan Program) or 34 CFR 685.213 (Federal Direct Loan Program), and was unable to receive a discharge on an NDSL or Federal Perkins Loan because the Secretary lacked the statutory authority to discharge the loan; or
+(A) The borrower qualified for and received a discharge on a loan pursuant to 34 CFR 682.402(d) (Federal Family Education Loan Program) or 34 CFR 685.214 (Federal Direct Loan Program), and was unable to receive a discharge on an NDSL or Federal Perkins Loan because the Secretary lacked the statutory authority to discharge the loan; or
 
-(ii) Based on information in the Secretary's possession, the borrower qualifies for a discharge.
+(B) Based on information in the Secretary's possession, the borrower qualifies for a discharge.
+
+(ii) With respect to schools that closed on or after November 1, 2013, the Secretary will discharge the borrower's obligation to repay an NDSL or Federal Perkins Loan without an application from the borrower if the Secretary determines that the borrower did not subsequently re-enroll in any title IV-eligible institution within a period of three years from the date the school closed.
 
 (4) *Borrower qualification for discharge.* Except as provided in paragraph (g)(3) of this section, in order to qualify for discharge of an NDSL or Federal Perkins Loan, a borrower must submit to the holder of the loan a written request and sworn statement, and the factual assertions in the statement must be true. The statement need not be notarized but must be made by the borrower under penalty of perjury. In the statement the borrower must -
 
@@ -196,12 +196,14 @@ Link to an amendment published at 81 FR 76078, Nov. 1, 2016.This amendment was d
 
 (v) If the borrower fails to submit the written request and sworn statement described in paragraph (g)(4) of this section within 60 days of the holder of the loan's mailing the discharge application, the holder of the loan resumes collection and grants forbearance of principal and interest for the period during which collection activity was suspended.
 
-(vi) If the holder of the loan determines that a borrower who requests a discharge meets the qualifications for a discharge, the holder of the loan notifies the borrower in writing of that determination.
+(vi) Upon resuming collection on any affected loan, the Secretary provides the borrower another discharge application and an explanation of the requirements and procedures for obtaining a discharge.
 
-(vii) In the case of a loan held by the Secretary, if the Secretary determines that a borrower who requests a discharge does not meet the qualifications for a discharge, the Secretary notifies that borrower, in writing, of that determination and the reasons for the determination.
+(vii) If the holder of the loan determines that a borrower who requests a discharge meets the qualifications for a discharge, the holder of the loan notifies the borrower in writing of that determination.
 
-(viii) In the case of a loan held by a school, if the school determines that a borrower who requests a discharge does not meet the qualifications for discharge, the school submits that determination and all supporting materials to the Secretary for approval. The Secretary reviews the materials, makes an independent determination, and notifies the borrower in writing of the determination and the reasons for the determination.
+(viii) In the case of a loan held by the Secretary, if the Secretary determines that a borrower who requests a discharge does not meet the qualifications for a discharge, the Secretary notifies that borrower, in writing, of that determination and the reasons for the determination.
 
-(ix) In the case of a loan held by a school and discharged by either the school or the Secretary, the school must reimburse its Fund for the entire amount of any outstanding principal and interest on the loan, and any collection costs charged to the Fund as a result of collection efforts on a discharged loan. The school must also reimburse the borrower for any amount of principal, interest, late charges or collection costs the borrower paid on a loan discharged under this section.
+(ix) In the case of a loan held by a school, if the school determines that a borrower who requests a discharge does not meet the qualifications for discharge, the school submits that determination and all supporting materials to the Secretary for approval. The Secretary reviews the materials, makes an independent determination, and notifies the borrower in writing of the determination and the reasons for the determination.
 
-(Approved by the Office of Management and Budget under control number 1845-0019)(Authority:20 U.S.C. 1087dd)[52 FR 45754, Dec. 1, 1987, as amended at 57 FR 32345, July 21, 1992; 57 FR 60706, Dec. 21, 1992; 59 FR 61409, Nov. 30, 1994; 60 FR 61814, Dec. 1, 1995; 62 FR 50848, Sept. 26, 1997; 64 FR 58309, Oct. 28, 1999; 67 FR 67076, Nov. 1, 2002; 74 FR 55660, Oct. 28, 2009; 78 FR 65805, Nov. 1, 2013]
+(x) In the case of a loan held by a school and discharged by either the school or the Secretary, the school must reimburse its Fund for the entire amount of any outstanding principal and interest on the loan, and any collection costs charged to the Fund as a result of collection efforts on a discharged loan. The school must also reimburse the borrower for any amount of principal, interest, late charges or collection costs the borrower paid on a loan discharged under this section.
+
+(Approved by the Office of Management and Budget under control number 1845-0019)(Authority:20 U.S.C. 1087dd)[52 FR 45754, Dec. 1, 1987, as amended at 57 FR 32345, July 21, 1992; 57 FR 60706, Dec. 21, 1992; 59 FR 61409, Nov. 30, 1994; 60 FR 61814, Dec. 1, 1995; 62 FR 50848, Sept. 26, 1997; 64 FR 58309, Oct. 28, 1999; 67 FR 67076, Nov. 1, 2002; 74 FR 55660, Oct. 28, 2009; 78 FR 65805, Nov. 1, 2013; 81 FR 76078, Nov. 1, 2016]

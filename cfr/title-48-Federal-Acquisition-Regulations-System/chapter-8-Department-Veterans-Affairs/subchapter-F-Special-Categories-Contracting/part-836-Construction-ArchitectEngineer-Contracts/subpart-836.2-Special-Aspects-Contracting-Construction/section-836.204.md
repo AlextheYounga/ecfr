@@ -1,5 +1,7 @@
 ##### 836.204 Disclosure of the magnitude of construction projects. #####
 
+Link to an amendment published at 84 FR 9972, Mar. 19, 2019.
+
 In lieu of the estimated price ranges described in FAR 36.204, the contracting officer must identify the magnitude of a VA project in advance notices and solicitations in terms of one of the following price ranges:
 
 (a) Less than $25,000.

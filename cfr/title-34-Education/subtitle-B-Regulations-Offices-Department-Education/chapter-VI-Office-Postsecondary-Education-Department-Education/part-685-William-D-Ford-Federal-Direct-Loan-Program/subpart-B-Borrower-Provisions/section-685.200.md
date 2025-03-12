@@ -1,7 +1,5 @@
 ##### § 685.200 Borrower eligibility. #####
 
-Link to an amendment published at 81 FR 76080, Nov. 1, 2016.This amendment was delayed indefinitely at 82 FR 27621, June 16, 2017.This amendment was delayed until July 1, 2018, at 82 FR 49114, Oct. 24, 2017.This amendment was delayed until July 1, 2019, at 83 FR 6459, Feb. 14, 2018.
-
 (a) *Student Direct Subsidized or Direct Unsubsidized borrower.* (1) A student is eligible to receive a Direct Subsidized Loan, a Direct Unsubsidized Loan, or a combination of these loans, if the student meets the following requirements:
 
 (i) The student is enrolled, or accepted for enrollment, on at least a half-time basis in a school that participates in the Direct Loan Program.
@@ -150,9 +148,13 @@ Link to an amendment published at 81 FR 76080, Nov. 1, 2016.This amendment was d
 
 (iv) A borrower who completes an undergraduate program and who has not become responsible for accruing interest on Direct Subsidized Loans as a result of attendance in that program does not become responsible for accruing interest under paragraph (f)(3)(i) of this section on any Direct Subsidized Loans received for attendance in any program prior to completing that undergraduate program and for which the borrower has not previously become responsible for accruing interest, regardless of subsequent attendance in any other program.
 
+(v) A borrower who receives a closed school, false certification, unpaid refund, or defense to repayment discharge that results in a remaining eligibility period greater than zero is no longer responsible for the interest that accrues on a Direct Subsidized Loan or on the portion of a Direct Consolidation Loan that repaid a Direct Subsidized Loan unless the borrower once again becomes responsible for the interest that accrues on a previously received Direct Subsidized Loan or on the portion of a Direct Consolidation Loan that repaid a Direct Subsidized Loan, for the life of the loan, as described in paragraph (f)(3)(i) of this section.
+
 (4) *Exceptions to the calculation of subsidized usage periods.* (i) For a first-time borrower who receives a Direct Subsidized Loan in an amount that is equal to the full annual loan limit for a loan period that is less than a full academic year in length, the subsidized usage period is one year.
 
 (ii) For a first-time borrower who is enrolled on a half-time or three-quarter-time basis, the borrower's prorated subsidized usage period is calculated by multiplying the borrower's subsidized usage period by 0.5 or 0.75, respectively.
+
+(iii) For a first-time borrower who receives a closed school, false certification, unpaid refund, or defense to repayment discharge on a Direct Subsidized Loan or a portion of a Direct Consolidation Loan that is attributable to a Direct Subsidized Loan, the Subsidized Usage Period is reduced. If the Direct Subsidized Loan or a portion of a Direct Consolidation Loan that is attributable to a Direct Subsidized Loan is discharged in full, the Subsidized Usage Period of those loans is zero years. If the Direct Subsidized Loan or a portion of a Direct Consolidation Loan that is attributable to a Direct Subsidized Loan is discharged in part, the Subsidized Usage Period may be reduced if the discharge results in the inapplicability of paragraph (f)(4)(i) of this section.
 
 (5) *Subsequent attendance in programs of greater duration.* A first-time borrower who subsequently attends a program that is longer than the program the borrower previously attended -
 
@@ -190,4 +192,4 @@ Link to an amendment published at 81 FR 76080, Nov. 1, 2016.This amendment was d
 
 (B) Provides the academic qualifications necessary for a profession that requires licensure or a certification by the State.
 
-(Authority: 20 U.S.C. 1087a *et seq.*)[59 FR 61690, Dec. 1, 1994, as amended at 60 FR 61816, Dec. 1, 1995; 61 FR 29900, June 12, 1996; 65 FR 65629, 65693, Nov. 1, 2000; 66 FR 34765, June 29, 2001; 66 FR 44007, Aug. 21, 2001; 68 FR 75430, Dec. 31, 2003; 71 FR 45710, Aug. 9, 2006; 71 FR 64399, Nov. 1, 2006; 74 FR 56001, Oct. 29, 2009; 77 FR 66135, Nov. 1, 2012; 78 FR 28984, May 16, 2013; 79 FR 3120, Jan. 17, 2014; 78 FR 65824, Nov. 1, 2013; 79 FR 63331, Oct. 23, 2014]
+(Authority: 20 U.S.C. 1087a *et seq.*)[59 FR 61690, Dec. 1, 1994, as amended at 60 FR 61816, Dec. 1, 1995; 61 FR 29900, June 12, 1996; 65 FR 65629, 65693, Nov. 1, 2000; 66 FR 34765, June 29, 2001; 66 FR 44007, Aug. 21, 2001; 68 FR 75430, Dec. 31, 2003; 71 FR 45710, Aug. 9, 2006; 71 FR 64399, Nov. 1, 2006; 74 FR 56001, Oct. 29, 2009; 77 FR 66135, Nov. 1, 2012; 78 FR 28984, May 16, 2013; 79 FR 3120, Jan. 17, 2014; 78 FR 65824, Nov. 1, 2013; 79 FR 63331, Oct. 23, 2014; 81 FR 76080, Nov. 1, 2016]

@@ -1,5 +1,7 @@
 ##### 836.202 Specifications. #####
 
+Link to an amendment published at 84 FR 9971, Mar. 19, 2019.
+
 (a) The procedures described in part 811 are applicable to construction specifications.
 
 (b) During the design stage, contract architect-engineers must not use “brand name or equal” or other restrictive specifications without the prior written approval of the contracting officer. The contracting officer must inform prospective architect-engineers of this requirement during the negotiation phase, prior to award of a contract for design.

@@ -1,5 +1,7 @@
 ##### 836.213-70 Notice to proceed. #####
 
+Link to an amendment published at 84 FR 9972, Mar. 19, 2019.
+
 (a) The contracting officer must provide construction contractors with a written notice to proceed for the work. A notice to proceed will normally be sent only after the contractor has provided performance and payment bonds or payment protection and the completed contract forms, where applicable, and the contracting officer has accepted them. If the urgency of the work or other proper reason requires the contractor to begin work immediately, the contracting officer may include in the award letter a notice to proceed, with the reservation that payments are contingent upon receipt and approval of the required bonds or payment protection.
 
 (b) If the contract provides for liquidated damages, the contracting officer must send the notice to proceed by certified mail, return receipt requested, or any other method that provides signed evidence of receipt. The notice to proceed will advise the contractor that the work must be completed within \_\_ (insert contract time for completion) calendar days from the date of receipt shown on the certified mail receipt card returned by the post office or on the proof of delivery provided by the delivery service.

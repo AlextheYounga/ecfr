@@ -12,7 +12,7 @@
 
 (v) The lender may establish a first payment due date that is no more than an additional 30 days beyond the period specified in paragraphs (a)(2)(i)-(a)(2)(iv) of this section in order for the lender to comply with the required deadline contained in § 682.205(c)(1).
 
-(3)(i) Except as provided in paragraph (a)(4) of this section, for a Stafford loan the repayment period begins -
+(3)(i) Except as provided in paragraph (a)(4) of this section, for a Stafford loan the repayment period begins—
 
 (A) For a borrower with a loan for which the applicable interest rate is 7 percent per year, not less than 9 nor more than 12 months following the date on which the borrower is no longer enrolled on at least a half-time basis at an eligible school. The length of this grace period is determined by the lender for loans made under the FISL Program, and by the guaranty agency for loans guaranteed by the agency;
 
@@ -22,7 +22,7 @@
 
 (D) For a borrower with a loan for which the applicable interest rate is fixed at 6.0 percent per year, 5.6 percent per year, or 6.8 percent per year, the day after 6 months following the date on which the borrower is no longer enrolled on at least a half-time basis at an institution of higher education.
 
-(ii) The first payment on a Stafford loan is due on a date established by the lender that is no more than -
+(ii) The first payment on a Stafford loan is due on a date established by the lender that is no more than—
 
 (A) 60 days following the first day that the repayment period begins;
 
@@ -36,7 +36,7 @@
 
 (iii) When determining the date that the student was no longer enrolled on at least a half-time basis, the lender must use a new date it receives from a school, unless the lender has already disclosed repayment terms to the borrower and the new date is within the same month and year as the most recent date reported to the lender.
 
-(4) For a borrower of a Stafford loan who is a correspondence student, the grace period specified in paragraph (a)(3)(i) of this section begins on the earliest of -
+(4) For a borrower of a Stafford loan who is a correspondence student, the grace period specified in paragraph (a)(3)(i) of this section begins on the earliest of—
 
 (i) The day after the borrower completes the program;
 
@@ -46,7 +46,7 @@
 
 (5) For purposes of establishing the beginning of the repayment period for Stafford and SLS loans, the grace periods referenced in paragraphs (a)(2)(iii) and (a)(3)(i) of this section exclude any period during which a borrower who is a member of a reserve component of the Armed Forces named in section 10101 of title 10, United States Code is called or ordered to active duty for a period of more than 30 days. Any single excluded period may not exceed three years and includes the time necessary for the borrower to resume enrollment at the next available regular enrollment period. Any Stafford or SLS borrower who is in a grace period when called or ordered to active duty as specified in this paragraph is entitled to a full grace period upon completion of the excluded period.
 
-(6)(i) The repayment schedule may provide for substantially equal installment payments or for installment payments that increase or decrease in amount during the repayment period. If the loan has a variable interest rate that changes annually, the lender may establish a repayment schedule that -
+(6)(i) The repayment schedule may provide for substantially equal installment payments or for installment payments that increase or decrease in amount during the repayment period. If the loan has a variable interest rate that changes annually, the lender may establish a repayment schedule that—
 
 (A) Provides for adjustments of the amount of the installment payment to reflect annual changes in the variable interest rate; or
 
@@ -58,7 +58,7 @@
 
 (iv) Except in the case of an income-based repayment schedule, the repayment schedule must require that each payment equal at least the interest that accrues during the interval between scheduled payments.
 
-(v) The lender shall require the borrower to repay the loan under a standard repayment schedule described in paragraph (a)(6)(vi) of this section if the borrower -
+(v) The lender shall require the borrower to repay the loan under a standard repayment schedule described in paragraph (a)(6)(vi) of this section if the borrower—
 
 (A) Does not select an income-sensitive, income-based, graduated, or, if applicable, an extended repayment schedule within 45 days after being notified by the lender to choose a repayment schedule;
 
@@ -66,13 +66,13 @@
 
 (C) Chooses an income-based repayment schedule, but does not provide the income documentation requested by the lender under § 682.215(e)(1)(i) through (e)(1)(iii) within the time period specified by the lender.
 
-(vi) Under a standard repayment schedule, the borrower is scheduled to pay either -
+(vi) Under a standard repayment schedule, the borrower is scheduled to pay either—
 
 (A) The same amount for each installment payment made during the repayment period, except that the borrower's final payment may be slightly more or less than the other payments; or
 
 (B) An installment amount that will be adjusted to reflect annual changes in the loan's variable interest rate.
 
-(vii) Under a graduated repayment schedule -
+(vii) Under a graduated repayment schedule—
 
 (A)(*1*) The amount of the borrower's installment payment is scheduled to change (usually by increasing) during the course of the repayment period; or
 
@@ -80,7 +80,7 @@
 
 (B) An agreement as specified in paragraph (c)(1)(ii) of this section is not required if the schedule provides for less than the minimum annual payment amount specified in paragraph (c)(1)(i) of this section.
 
-(viii) Under an income-sensitive repayment schedule -
+(viii) Under an income-sensitive repayment schedule—
 
 (A)(*1*) The amount of the borrower's installment payment is adjusted annually, based on the borrower's expected total monthly gross income received by the borrower from employment and from other sources during the course of the repayment period; or
 
@@ -132,7 +132,7 @@
 
 (e) *Consolidation loans.* (1) For a Consolidation loan, the repayment period begins on the day of disbursement, with the first payment due within 60 days after the date of disbursement.
 
-(2) If the sum of the amount of the Consolidation loan and the unpaid balance on other student loans to the applicant -
+(2) If the sum of the amount of the Consolidation loan and the unpaid balance on other student loans to the applicant—
 
 (i) Is less than $7,500, the borrower shall repay the Consolidation loan in not more than 10 years;
 
@@ -146,13 +146,13 @@
 
 (vi) Is equal to or greater than $60,000, the borrower shall repay the Consolidation loan in not more than 30 years.
 
-(3) For the purpose of paragraph (e)(2) of this section, the unpaid balance on other student loans -
+(3) For the purpose of paragraph (e)(2) of this section, the unpaid balance on other student loans—
 
 (i) May not exceed the amount of the Consolidation loan; and
 
 (ii) With the exception of the defaulted title IV loans on which the borrower has made satisfactory repayment arrangements with the holder of the loan, does not include the unpaid balance on any defaulted loans.
 
-(4) A repayment schedule for a Consolidation loan -
+(4) A repayment schedule for a Consolidation loan—
 
 (i) Must be established by the lender;
 
@@ -166,7 +166,7 @@
 
 (ii) Upon receipt of a refund or a return of title IV, HEA program funds transmitted under paragraph (f)(2)(i) of this section, the holder of the loan promptly must provide written notice to the borrower that the holder has received the return of title IV, HEA program funds.
 
-(g) Any lender holding a loan is subject to all claims and defenses that the borrower could assert against the school with respect to that loan if -
+(g) Any lender holding a loan is subject to all claims and defenses that the borrower could assert against the school with respect to that loan if—
 
 (1) The loan was made by the school or a school-affiliated organization;
 
@@ -176,4 +176,4 @@
 
 (4) The school is affiliated with the lender by common control, contract, or business arrangement.
 
-(Approved by the Office of Management and Budget under control number 1845-0020)(Authority: 20 U.S.C. 1077, 1078, 1078-1, 1078-2, 1078-3, 1079, 1082, 1085)[57 FR 60323, Dec. 18, 1992]Editorial Note:For Federal Register citations affecting § 682.209, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Approved by the Office of Management and Budget under control number 1845-0020)(Authority: 20 U.S.C. 1077, 1078, 1078-1, 1078-2, 1078-3, 1079, 1082, 1085)[57 FR 60323, Dec. 18, 1992]Editorial Note:For Federal Register citations affecting § 682.209, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

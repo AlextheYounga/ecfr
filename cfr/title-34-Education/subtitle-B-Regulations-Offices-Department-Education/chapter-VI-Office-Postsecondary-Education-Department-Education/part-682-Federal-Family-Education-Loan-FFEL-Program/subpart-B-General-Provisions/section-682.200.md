@@ -24,7 +24,7 @@ AccreditedClock hourCorrespondence courseCredit hourEducational programFederal F
 
 *Co-Maker:* One of two married individuals who jointly borrow a Consolidation loan, each of whom are eligible and who are jointly and severally liable for repayment of the loan. The term co-maker also includes one of two parents who are joint borrowers as previously authorized in the PLUS Program.
 
-*Default.* The failure of a borrower and endorser, if any, or joint borrowers on a PLUS or Consolidation loan, to make an installment payment when due, or to meet other terms of the promissory note, the Act, or regulations as applicable, if the Secretary or guaranty agency finds it reasonable to conclude that the borrower and endorser, if any, no longer intend to honor the obligation to repay, provided that this failure persists for -
+*Default.* The failure of a borrower and endorser, if any, or joint borrowers on a PLUS or Consolidation loan, to make an installment payment when due, or to meet other terms of the promissory note, the Act, or regulations as applicable, if the Secretary or guaranty agency finds it reasonable to conclude that the borrower and endorser, if any, no longer intend to honor the obligation to repay, provided that this failure persists for—
 
 (1) 270 days for a loan repayable in monthly installments; or
 
@@ -38,7 +38,7 @@ AccreditedClock hourCorrespondence courseCredit hourEducational programFederal F
 
 *Escrow agent.* Any guaranty agency or other eligible lender that receives the proceeds of a FFEL program loan as an agent of an eligible lender for the purpose of transmitting those proceeds to the borrower or the borrower's school.
 
-*Estimated financial assistance.* (1) The estimated amount of assistance for a period of enrollment that a student (or a parent on behalf of a student) will receive from Federal, State, institutional, or other sources, such as, scholarships, grants, the net earnings from need-based employment, or loans, including but not limited to -
+*Estimated financial assistance.* (1) The estimated amount of assistance for a period of enrollment that a student (or a parent on behalf of a student) will receive from Federal, State, institutional, or other sources, such as, scholarships, grants, the net earnings from need-based employment, or loans, including but not limited to—
 
 (i) Except as provided in paragraph (2)(iii) of this definition, national service education awards or post-service benefits under title I of the National and Community Service Act of 1990 (AmeriCorps);
 
@@ -52,7 +52,7 @@ AccreditedClock hourCorrespondence courseCredit hourEducational programFederal F
 
 (vi) The estimated amount of other Federal student financial aid, including but not limited to a Federal Pell Grant, campus-based aid, and the gross amount (including fees) of subsidized and unsubsidized Federal Stafford Loans or subsidized and unsubsidized Federal Direct Stafford/Ford Loans, and Federal PLUS or Federal Direct PLUS Loans.
 
-(2) Estimated financial assistance does not include -
+(2) Estimated financial assistance does not include—
 
 (i) Those amounts used to replace the expected family contribution, including the amounts of any TEACH Grant, unsubsidized Federal Stafford or Federal Direct Stafford/Ford Loans, Federal PLUS or Federal Direct PLUS Loans, and non-federal non-need-based loans, including private, state-sponsored, and institutional loans. However, if the sum of the amounts received that are being used to replace the student's EFC exceed the EFC, the excess amount must be treated as estimated financial assistance;
 
@@ -66,7 +66,7 @@ AccreditedClock hourCorrespondence courseCredit hourEducational programFederal F
 
 (vi) Assistance not received under a title IV, HEA program, if that assistance is designated to offset all or a portion of a specific amount of the cost of attendance and that component is excluded from the cost of attendance as well. If that assistance is excluded from either estimated financial assistance or cost of attendance, it must be excluded from both;
 
-(vii) Federal veterans' education benefits paid under -
+(vii) Federal veterans' education benefits paid under—
 
 (A) Chapter 103 of title 10, United States Code (Senior Reserve Officers' Training Corps);
 
@@ -76,7 +76,7 @@ AccreditedClock hourCorrespondence courseCredit hourEducational programFederal F
 
 (D) Chapter 1607 of title 10, United States Code (Educational Assistance Program for Reserve Component Members Supporting Contingency Operations and Certain Other Operations);
 
-(E) Chapter 30 of title 38, United States Code (All-Volunteer Force Educational Assistance Program, also known as the “Montgomery GI Bill - active duty”);
+(E) Chapter 30 of title 38, United States Code (All-Volunteer Force Educational Assistance Program, also known as the “Montgomery GI Bill—active duty”);
 
 (F) Chapter 31 of title 38, United States Code (Training and Rehabilitation for Veterans with Service-Connected Disabilities);
 
@@ -110,7 +110,7 @@ AccreditedClock hourCorrespondence courseCredit hourEducational programFederal F
 
 *Lender.* (1) The term “eligible lender” is defined in section 435(d) of the Act, and in paragraphs (2)-(5) of this definition.
 
-(2) With respect to a National or State chartered bank, a mutual savings bank, a savings and loan association, a stock savings bank, or a credit union -
+(2) With respect to a National or State chartered bank, a mutual savings bank, a savings and loan association, a stock savings bank, or a credit union—
 
 (i) The phrase “subject to examination and supervision” in section 435(d) of the Act means “subject to examination and supervision in its capacity as a lender”;
 
@@ -120,9 +120,9 @@ AccreditedClock hourCorrespondence courseCredit hourEducational programFederal F
 
 (4) The corporate parent or other owner of a school that qualifies as an eligible lender under section 435(d) of the Act is not an eligible lender unless the corporate parent or owner itself qualifies as an eligible lender under section 435(d) of the Act.
 
-(5)(i) The term *eligible lender* does not include any lender that the Secretary determines, after notice and opportunity for a hearing before a designated Department official, has, directly or through an agent or contractor -
+(5)(i) The term *eligible lender* does not include any lender that the Secretary determines, after notice and opportunity for a hearing before a designated Department official, has, directly or through an agent or contractor—
 
-(A) Except as provided in paragraph (5)(ii) of this definition, offered, directly or indirectly, points, premiums, payments (including payments for referrals, finder fees or processing fees), or other inducements to any school, any employee of a school, or any individual or entity in order to secure applications for FFEL loans or FFEL loan volume. This includes but is not limited to -
+(A) Except as provided in paragraph (5)(ii) of this definition, offered, directly or indirectly, points, premiums, payments (including payments for referrals, finder fees or processing fees), or other inducements to any school, any employee of a school, or any individual or entity in order to secure applications for FFEL loans or FFEL loan volume. This includes but is not limited to—
 
 (*1*) Payments or offerings of other benefits, including prizes or additional financial aid funds, to a prospective borrower or to a school or school employee in exchange for applying for or accepting a FFEL loan from the lender;
 
@@ -152,7 +152,7 @@ AccreditedClock hourCorrespondence courseCredit hourEducational programFederal F
 
 (D) Engaged in fraudulent or misleading advertising with respect to its FFEL loan activities.
 
-(ii) Notwithstanding paragraph (5)(i) of this definition, a lender, in carrying out its role in the FFEL program and in attempting to provide better service, may provide -
+(ii) Notwithstanding paragraph (5)(i) of this definition, a lender, in carrying out its role in the FFEL program and in attempting to provide better service, may provide—
 
 (A) Technical assistance to a school that is comparable to the kinds of technical assistance provided to a school by the Secretary under the Direct Loan program, as identified by the Secretary in a public announcement, such as a notice in the Federal Register;
 
@@ -176,7 +176,7 @@ AccreditedClock hourCorrespondence courseCredit hourEducational programFederal F
 
 (K) Other services as identified and approved by the Secretary through a public announcement, such as a notice in the Federal Register.
 
-(iii) For the purposes of this paragraph (5) -
+(iii) For the purposes of this paragraph (5)—
 
 (A) The term “school-affiliated organization” is defined in § 682.200.
 
@@ -184,7 +184,7 @@ AccreditedClock hourCorrespondence courseCredit hourEducational programFederal F
 
 (C) The term “other benefits” includes, but is not limited to, preferential rates for or access to the lender's other financial products, information technology equipment, or non-loan processing or non-financial aid-related computer software at below market rental or purchase cost, and printing and distribution of college catalogs and other materials at reduced or no cost.
 
-(6) The term eligible lender does not include any lender that -
+(6) The term eligible lender does not include any lender that—
 
 (i) Is debarred or suspended, or any of whose principals or affiliates (as those terms are defined in 2 CFR parts 180 and 3485) is debarred or suspended under Executive Order (E.O.) 12549 (3 CFR, 1986 Comp., p. 189) or the Federal Acquisition Regulation (FAR), 48 CFR part 9, subpart 9.4;
 
@@ -192,15 +192,15 @@ AccreditedClock hourCorrespondence courseCredit hourEducational programFederal F
 
 (iii) Employs a person who is debarred or suspended under E.O. 12549 (3 CFR, 1986 Comp., p. 189) or the FAR, 48 CFR part 9, subpart 9.4, in a capacity that involves the administration or receipt of FFEL Program funds.
 
-(7) An eligible lender may not make or hold a loan as trustee for a school, or for a school-affiliated organization as defined in this section, unless on or before September 30, 2006 -
+(7) An eligible lender may not make or hold a loan as trustee for a school, or for a school-affiliated organization as defined in this section, unless on or before September 30, 2006—
 
 (i) The eligible lender was serving as trustee for the school or school-affiliated organization under a contract entered into and continuing in effect as of that date; and
 
 (ii) The eligible lender held at least one loan in trust on behalf of the school or school-affiliated organization on that date.
 
-(8) As of January 1, 2007, and for loans first disbursed on or after that date under a trustee arrangement, an eligible lender operating as a trustee under a contract entered into on or before September 30, 2006, and which continues in effect with a school or a school-affiliated organization -
+(8) As of January 1, 2007, and for loans first disbursed on or after that date under a trustee arrangement, an eligible lender operating as a trustee under a contract entered into on or before September 30, 2006, and which continues in effect with a school or a school-affiliated organization—
 
-(i) Must not -
+(i) Must not—
 
 (A) Make a loan to any undergraduate student;
 
@@ -216,7 +216,7 @@ AccreditedClock hourCorrespondence courseCredit hourEducational programFederal F
 
 (B) With regard to a school that is not a governmental entity or a nonprofit organization, the audit must be conducted annually in accordance with § 682.305(c)(2)(i) through (iii).
 
-(C) With regard to any school, the audit must include a determination that -
+(C) With regard to any school, the audit must include a determination that—
 
 (*1*) The school used all payments and proceeds (i.e., special allowance and interest payments from borrowers, interest subsidy payments, proceeds from the sale or other disposition of loans) from the loans for need-based grant programs;
 
@@ -276,9 +276,9 @@ AccreditedClock hourCorrespondence courseCredit hourEducational programFederal F
 
 *Third-party servicer.* Any State or private, profit or nonprofit organization or any individual that enters into a contract with a lender or guaranty agency to administer, through either manual or automated processing, any aspect of the lender's or guaranty agency's FFEL programs required by any statutory provision of or applicable to Title IV of the HEA, any regulatory provision prescribed under that statutory authority, or any applicable special arrangement, agreement, or limitation entered into under the authority of statutes applicable to Title IV of the HEA that governs the FFEL programs, including, any applicable function described in the definition of third-party servicer in 34 CFR part 668; originating, guaranteeing, monitoring, processing, servicing, or collecting loans; claims submission; or billing for interest benefits and special allowance.
 
-*Totally and permanently disabled.* The condition of an individual who -
+*Totally and permanently disabled.* The condition of an individual who—
 
-(1) Is unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment that -
+(1) Is unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment that—
 
 (i) Can be expected to result in death;
 
@@ -292,4 +292,4 @@ AccreditedClock hourCorrespondence courseCredit hourEducational programFederal F
 
 *Write-off.* Cessation of collection activity on a defaulted FFEL loan due to a determination in accordance with applicable standards that no further collection activity is warranted.
 
-(Approved by the Office of Management and Budget under control number 1845-0020)(Authority: 8 U.S.C. 1101; 20 U.S.C. 1070 to 1087-2, 1088-1098, 1141; E.O. 12549 (3 CFR, 1986 Comp., p. 189), E.O. 12689 (3 CFR, 1989 Comp., p. 235))[57 FR 60323, Dec. 18, 1992]Editorial Note:For Federal Register citations affecting § 682.200, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Approved by the Office of Management and Budget under control number 1845-0020)(Authority: 8 U.S.C. 1101; 20 U.S.C. 1070 to 1087-2, 1088-1098, 1141; E.O. 12549 (3 CFR, 1986 Comp., p. 189), E.O. 12689 (3 CFR, 1989 Comp., p. 235))[57 FR 60323, Dec. 18, 1992]Editorial Note:For Federal Register citations affecting § 682.200, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,5 +1,7 @@
 ##### 852.236-87 Accident prevention. #####
 
+Link to an amendment published at 84 FR 9975, Mar. 19, 2019.
+
 As prescribed in 836.513, insert the following clause:
 
 Accident Prevention (SEP 1993)

@@ -1,5 +1,7 @@
 ##### 836.602-2 Evaluation boards. #####
 
+Link to an amendment published at 84 FR 9972, Mar. 19, 2019.
+
 (a) The Director, Office of Construction and Facilities Management, shall appoint an evaluation board to select architect-engineer contractors for Office of Construction and Facilities Management projects. The Director, Office of Construction and Facilities Management, shall appoint an evaluation board to select architect-engineer contractors for National Cemetery Administration projects. The facility or VISN director, as appropriate, shall appoint an evaluation board to select architect-engineer contractors for field facility projects.
 
 (b) The Director, A/E Evaluation and Program Support Service, will chair the evaluation board for Office of Construction and Facilities Management architect-engineer contracts. The Chair may designate the Project Director or Project Manager to act as Chair when necessary. When appointing the board's members, the Director, Office of Construction and Facilities Management, must include the appropriate Project Manager and as many qualified professional architects or engineers from the Office of Construction and Facilities Management technical services as may be considered appropriate for the particular project. The Director, Office of Construction and Facilities Management may designate additional members from the Office of Construction and Facilities Management or from other Department administrations and staff offices when appropriate.

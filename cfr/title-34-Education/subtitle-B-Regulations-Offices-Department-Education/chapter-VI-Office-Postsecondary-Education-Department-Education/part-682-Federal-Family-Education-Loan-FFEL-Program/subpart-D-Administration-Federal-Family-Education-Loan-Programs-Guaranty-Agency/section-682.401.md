@@ -6,13 +6,13 @@
 
 (1) *Reinstatement of borrower eligibility.* Except as provided in § 668.35(b) for a borrower with a defaulted loan on which a judgment has been obtained and § 668.35(i) for a borrower who fraudulently obtained title IV, HEA program assistance, reinstatement of Title IV eligibility for a borrower with a defaulted loan must be in accordance with this paragraph (b)(1). For a borrower's loans held by a guaranty agency on which a reinsurance claim has been paid by the Secretary, the guaranty agency must afford a defaulted borrower, upon the borrower's request, renewed eligibility for Title IV assistance once the borrower has made satisfactory repayment arrangements as that term is defined in § 682.200.
 
-(i) For purposes of this section, the determination of reasonable and affordable must -
+(i) For purposes of this section, the determination of reasonable and affordable must—
 
 (A) Include consideration of the borrower's and spouse's disposable income and necessary expenses including, but not limited to, housing, utilities, food, medical costs, dependent care costs, work-related expenses and other Title IV repayment;
 
 (B) Not be a required minimum payment amount, e.g. $50, if the agency determines that a smaller amount is reasonable and affordable based on the borrower's total financial circumstances. The agency must include documentation in the borrower's file of the basis for the determination, if the monthly reasonable and affordable payment established under this section is less than $50.00 or the monthly accrued interest on the loan, whichever is greater.
 
-(C) Be based on the documentation provided by the borrower or other sources including, but not limited to -
+(C) Be based on the documentation provided by the borrower or other sources including, but not limited to—
 
 (*1*) Evidence of current income (e.g. proof of welfare benefits, Social Security benefits, Supplemental Security Income, Workers' Compensation, child support, veterans' benefits, two most recent pay stubs, most recent copy of U.S. income tax return, State Department of Labor reports);
 
@@ -28,7 +28,7 @@
 
 (v) A guaranty agency must inform the borrower that he or she may only obtain reinstatement of borrower eligibility under this section once.
 
-(2) *Lender eligibility.* (i) An eligible lender may participate in the program of the agency under reasonable criteria established by the guaranty agency except to the extent that -
+(2) *Lender eligibility.* (i) An eligible lender may participate in the program of the agency under reasonable criteria established by the guaranty agency except to the extent that—
 
 (A) The lender's eligibility has been limited, suspended, or terminated by the Secretary under subpart G of this part or by the agency under standards and procedures that are substantially the same as those in subpart G of this part; or
 
@@ -52,7 +52,7 @@
 
 (iii) If a lender charges the borrower an insurance premium or Federal default fee, the lender must deduct the charge proportionately from each disbursement of the borrower's loan proceeds.
 
-(iv) The amount of the insurance premium or Federal default fee, as applicable -
+(iv) The amount of the insurance premium or Federal default fee, as applicable—
 
 (A) May not exceed 3 percent of the principal balance for a loan disbursed on or before June 30, 1994;
 
@@ -66,11 +66,11 @@
 
 (A) The insurance premium or Federal default fee attributable to each disbursement of a loan must be refunded if the loan check is returned uncashed to the lender.
 
-(B) The insurance premium or Federal default fee, or an appropriate prorated amount of the premium or fee, must be refunded by application to the borrower's loan balance if -
+(B) The insurance premium or Federal default fee, or an appropriate prorated amount of the premium or fee, must be refunded by application to the borrower's loan balance if—
 
 (*1*) The loan or a portion of the loan is returned by the school to the lender in order to comply with the Act or with applicable regulations;
 
-(*2*) Within 120 days of disbursement, the loan or a portion of the loan is repaid or returned, unless -
+(*2*) Within 120 days of disbursement, the loan or a portion of the loan is repaid or returned, unless—
 
 (*i*) The borrower has no FFEL Program loans in repayment status and has requested, in writing, that the repaid or returned funds be used for a different purpose; or
 
@@ -82,7 +82,7 @@
 
 (4) *Inquiries.* The agency must be able to receive and respond to written, electronic, and telephone inquiries.
 
-(5) *Guaranty liability.* The guaranty agency shall guarantee -
+(5) *Guaranty liability.* The guaranty agency shall guarantee—
 
 (i) 100 percent of the unpaid principal balance of each loan guaranteed for loans disbursed before October 1, 1993;
 
@@ -94,7 +94,7 @@
 
 (7) *Guaranty agency administration.* In the case of a State loan guarantee program administered by a State government, the program must be administered by a single State agency, or by one or more private nonprofit institutions or organizations under the supervision of a single State agency. For this purpose, “supervision” includes, but is not limited to, setting policies and procedures, and having full responsibility for the operation of the program.
 
-(8) *Loan assignment.* (i) Except as provided in paragraph (b)(8)(iii) of this section, the guaranty agency must allow a loan to be assigned only if the loan is fully disbursed and is assigned to -
+(8) *Loan assignment.* (i) Except as provided in paragraph (b)(8)(iii) of this section, the guaranty agency must allow a loan to be assigned only if the loan is fully disbursed and is assigned to—
 
 (A) An eligible lender;
 
@@ -112,7 +112,7 @@
 
 (9) *Transfer of guarantees.* Except in the case of a transfer of guarantee requested by a borrower seeking a transfer to secure a single guarantor, the guaranty agency may transfer its guarantee obligation on a loan to another guaranty agency, only with the approval of the Secretary, the transferee agency, and the holder of the loan.
 
-(10) *Standards and procedures.* (i) The guaranty agency shall establish, disseminate to concerned parties, and enforce standards and procedures for -
+(10) *Standards and procedures.* (i) The guaranty agency shall establish, disseminate to concerned parties, and enforce standards and procedures for—
 
 (A) Ensuring that all lenders in its program meet the definition of “eligible lender” in section 435(d) of the Act and have a written lender agreement with the agency;
 
@@ -128,7 +128,7 @@
 
 (ii) The guaranty agency shall ensure that its program and all participants in its program at all times meet the requirements of subparts B, C, D, and F of this part.
 
-(11) *Monitoring student enrollment.* The guaranty agency shall monitor the enrollment status of a FFEL program borrower or student on whose behalf a parent has borrowed that includes, at a minimum, reporting to the current holder of the loan within 35 days of any change in the student's enrollment status reported that triggers -
+(11) *Monitoring student enrollment.* The guaranty agency shall monitor the enrollment status of a FFEL program borrower or student on whose behalf a parent has borrowed that includes, at a minimum, reporting to the current holder of the loan within 35 days of any change in the student's enrollment status reported that triggers—
 
 (i) The beginning of the borrower's grace period; or
 
@@ -138,7 +138,7 @@
 
 (13) *Submission of information for reports.* The guaranty agency shall require lenders to submit to the agency the information necessary for the agency to complete the reports required by § 682.414(b).
 
-(14) *Guaranty agency transfer of information.* (i) A guaranty agency from which another guaranty agency requests information regarding Stafford and SLS loans made after January 1, 1987, to students who are residents of the State for which the requesting agency is the principal guaranty agency shall provide -
+(14) *Guaranty agency transfer of information.* (i) A guaranty agency from which another guaranty agency requests information regarding Stafford and SLS loans made after January 1, 1987, to students who are residents of the State for which the requesting agency is the principal guaranty agency shall provide—
 
 (A) The name and social security number of the student; and
 
@@ -148,7 +148,7 @@
 
 (15) *Information on defaults.* The guaranty agency shall, upon the request of a school, furnish information with respect to students, including the names and addresses of such students, who were enrolled at that school and who are in default on the repayment of any loan guaranteed by that agency.
 
-(16) *Information on loan sales or transfers.* The guaranty agency must, upon the request of a school, furnish to the school last attended by the student, information with respect to the sale or transfer of a borrower's loan prior to the beginning of the repayment period, including -
+(16) *Information on loan sales or transfers.* The guaranty agency must, upon the request of a school, furnish to the school last attended by the student, information with respect to the sale or transfer of a borrower's loan prior to the beginning of the repayment period, including—
 
 (i) Notice of assignment;
 
@@ -182,7 +182,7 @@
 
 (5) The guaranty agency shall ensure that all program materials meet the requirements of Federal and State law, including, but not limited to, the Act and the regulations in this part and part 668.
 
-(d) *College Access Initiative.* (1) A guaranty agency shall establish a plan to promote access to postsecondary education by -
+(d) *College Access Initiative.* (1) A guaranty agency shall establish a plan to promote access to postsecondary education by—
 
 (i) Providing the Secretary and the public with information on Internet web links and a comprehensive listing of postsecondary education opportunities, programs, publications and other services available in the State, or States for which the guaranty agency serves as the designated guaranty agency;
 
@@ -190,7 +190,7 @@
 
 (2) The activities required by this section may be funded from the guaranty agency's Operating Fund in accordance with § 682.423(c)(1)(vii) or from funds remaining in restricted accounts established pursuant to section 422(h)(4) of the Act.
 
-(3) The guaranty agency shall ensure that the information required by this subsection is available to the public by November 5, 2006 and is -
+(3) The guaranty agency shall ensure that the information required by this subsection is available to the public by November 5, 2006 and is—
 
 (i) Free of charge; and
 
@@ -204,4 +204,4 @@
 
 (4) A lender or loan servicer may also provide an institution with outreach and financial literacy information consistent with the requirements of paragraphs (e)(1) and (2) of this section.
 
-(Approved by the Office of Management and Budget under control number 1845-0020)(Authority: 20 U.S.C. 1078, 1078-1, 1078-2, 1078-3, 1082)[57 FR 60323, Dec. 18, 1992]Editorial Note:For Federal Register citations affecting § 682.401, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Approved by the Office of Management and Budget under control number 1845-0020)(Authority: 20 U.S.C. 1078, 1078-1, 1078-2, 1078-3, 1082)[57 FR 60323, Dec. 18, 1992]Editorial Note:For Federal Register citations affecting § 682.401, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

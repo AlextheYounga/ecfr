@@ -66,4 +66,30 @@
 
 (2) If a covered swap entity's counterparty changes its status such that a non-cleared swap or non-cleared security-based swap with that counterparty becomes subject to less strict margin requirements under this subpart (such as if the counterparty's status changes from a financial end user with material swaps exposure to a financial end user without material swaps exposure), then the covered swap entity may comply with the less strict margin requirements for any non-cleared swap or non-cleared security-based swap entered into with that counterparty after the counterparty changes its status as well as for any outstanding non-cleared swap or non-cleared security-based swap entered into after the applicable compliance date in paragraph (e) of this section and before the counterparty changed its status.
 
-[80 FR 74912, Nov. 30, 2015, as amended at 83 FR 50812, Oct. 10, 2018]
+(h) *Legacy swaps.* Covered swaps entities are required to comply with the requirements of this part for non-cleared swaps and non-cleared security-based swaps entered into on or after the relevant compliance dates for variation margin and for initial margin established in paragraph (e) of this section. Any non-cleared swap or non-cleared security-based swap entered into before such relevant date shall remain outside the scope of this part if changes are made to the non-cleared swap or non-cleared security-based swap it as follows:
+
+(1) [Reserved]
+
+(2) The non-cleared swap or non-cleared security based swap was amended under the following conditions:
+
+(i) The swap was originally entered into, booked at, or otherwise held at, an entity located in the United Kingdom before the relevant compliance date established in paragraph (e) of this section and one party to the swap booked it at, or otherwise held it at, an entity (including a branch or other authorized form of establishment) located in the United Kingdom;
+
+(ii) The entity in the United Kingdom subsequently arranged to amend the swap, solely for the purpose of transferring it to an affiliate, or a branch or other authorized form of establishment, located in any European Union member state or the United States, in connection with the entity's planning for or response to the event described in paragraph (h)(2)(iii) of this section, and the transferee is:
+
+(A) A covered swap entity, or
+
+(B) A covered swap entity's counterparty to the swap, and the counterparty represents to the covered swap entity that the counterparty performed the transfer in compliance with the requirements of paragraphs (h)(2)(i) and (ii) of this section; subject to the following conditions:
+
+(iii) The law of the European Union ceases to apply [to] the United Kingdom pursuant to Article 50(3) of the Treaty on European Union, without conclusion of a Withdrawal Agreement between the United Kingdom and the European Union pursuant to Article 50(2);
+
+(iv) The amendments do not modify any of the following: The payment amount calculation methods, the maturity date, or the notional amount of the swap or non-cleared swap;
+
+(v) The amendments cause the transfer to take effect on or after the date of the event described in paragraph (h)(2)(iii) of this section transpires; and
+
+(vi) The amendments cause the transfer to take effect by the later of:
+
+(A) The date that is one year after the date of the event described in paragraph (h)(2)(iii) of this section; or
+
+(B) Such other date permitted by transitional provisions under Article 35 of Commission Delegated Regulation (E.U.) No. 2016/2251, as amended.
+
+[80 FR 74912, Nov. 30, 2015, as amended at 83 FR 50812, Oct. 10, 2018; 84 FR 9949, Mar. 19, 2019]

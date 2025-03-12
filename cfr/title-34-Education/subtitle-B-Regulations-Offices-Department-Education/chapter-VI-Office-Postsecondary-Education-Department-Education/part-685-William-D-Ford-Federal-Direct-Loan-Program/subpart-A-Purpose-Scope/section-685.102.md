@@ -16,7 +16,7 @@ AccreditedClock hourCorrespondence courseCredit hourEducational programEligible 
 
 *Endorser:* An individual who signs a promissory note and agrees to repay the loan in the event that the borrower does not.
 
-*Estimated financial assistance.* (1) The estimated amount of assistance for a period of enrollment that a student (or a parent on behalf of a student) will receive from Federal, State, institutional, or other sources, such as scholarships, grants, net earnings from need-based employment, or loans, including but not limited to -
+*Estimated financial assistance.* (1) The estimated amount of assistance for a period of enrollment that a student (or a parent on behalf of a student) will receive from Federal, State, institutional, or other sources, such as scholarships, grants, net earnings from need-based employment, or loans, including but not limited to—
 
 (i) Except as provided in paragraph (2)(iii) of this definition, national service education awards or post-service benefits under title I of the National and Community Service Act of 1990 (AmeriCorps).
 
@@ -30,7 +30,7 @@ AccreditedClock hourCorrespondence courseCredit hourEducational programEligible 
 
 (vi) The estimated amount of other Federal student financial aid, including but not limited to a Federal Pell Grant, campus-based aid, and the gross amount (including fees) of subsidized and unsubsidized Federal Stafford Loans, Direct Subsidized and Unsubsidized Loans, and Federal PLUS or Direct PLUS Loans.
 
-(2) Estimated financial assistance does not include -
+(2) Estimated financial assistance does not include—
 
 (i) Those amounts used to replace the expected family contribution (EFC), including the amounts of any TEACH Grants, unsubsidized Federal Stafford Loans or Direct Unsubsidized Loans, Federal PLUS or Direct PLUS Loans, and non-federal non-need-based loans, including private, state-sponsored, and institutional loans. However, if the sum of the amounts received that are being used to replace the student's EFC exceed the EFC, the excess amount must be treated as estimated financial assistance;
 
@@ -44,7 +44,7 @@ AccreditedClock hourCorrespondence courseCredit hourEducational programEligible 
 
 (vi) Assistance not received under a title IV, HEA program, if that assistance is designated to offset all or a portion of a specific amount of the cost of attendance and that component is excluded from the cost of attendance as well. If that assistance is excluded from either estimated financial assistance or cost of attendance, it must be excluded from both;
 
-(vii) Federal veterans' education benefits paid under -
+(vii) Federal veterans' education benefits paid under—
 
 (A) Chapter 103 of title 10, United States Code (Senior Reserve Officers' Training Corps);
 
@@ -54,7 +54,7 @@ AccreditedClock hourCorrespondence courseCredit hourEducational programEligible 
 
 (D) Chapter 1607 of title 10, United States Code (Educational Assistance Program for Reserve Component Members Supporting Contingency Operations and Certain Other Operations);
 
-(E) Chapter 30 of title 38, United States Code (All-Volunteer Force Educational Assistance Program, also known as the “Montgomery GI Bill - active duty”);
+(E) Chapter 30 of title 38, United States Code (All-Volunteer Force Educational Assistance Program, also known as the “Montgomery GI Bill—active duty”);
 
 (F) Chapter 31 of title 38, United States Code (Training and Rehabilitation for Veterans with Service-Connected Disabilities);
 
@@ -106,7 +106,7 @@ AccreditedClock hourCorrespondence courseCredit hourEducational programEligible 
 
 *Master Promissory Note (MPN):* (1) A promissory note under which the borrower may receive loans for a single academic year or multiple academic years.
 
-(2) For MPNs processed by the Secretary before July 1, 2003, loans may no longer be made under an MPN after the earliest of -
+(2) For MPNs processed by the Secretary before July 1, 2003, loans may no longer be made under an MPN after the earliest of—
 
 (i) The date the Secretary or the school receives the borrower's written notice that no further loans may be disbursed;
 
@@ -114,7 +114,7 @@ AccreditedClock hourCorrespondence courseCredit hourEducational programEligible 
 
 (iii) Ten years after the date of the first anticipated disbursement, except that a remaining portion of a loan may be disbursed after this date.
 
-(3) For MPNs processed by the Secretary on or after July 1, 2003, loans may no longer be made under an MPN after the earliest of -
+(3) For MPNs processed by the Secretary on or after July 1, 2003, loans may no longer be made under an MPN after the earliest of—
 
 (i) The date the Secretary or the school receives the borrower's written notice that no further loans may be made;
 
@@ -132,7 +132,7 @@ AccreditedClock hourCorrespondence courseCredit hourEducational programEligible 
 
 *Satisfactory repayment arrangement:* (1) For the purpose of regaining eligibility under section 428F(b) of the HEA, the making of six consecutive, voluntary, on-time, full monthly payments on a defaulted loan. A borrower may only obtain the benefit of this paragraph with respect to renewed eligibility once.
 
-(2) For the purpose of consolidating a defaulted loan under § 685.220(d)(1)(ii)(A)(*3*) -
+(2) For the purpose of consolidating a defaulted loan under § 685.220(d)(1)(ii)(A)(*3*)—
 
 (i) The making of three consecutive, voluntary, on-time, full monthly payments on a defaulted loan prior to consolidation; or
 
@@ -144,9 +144,9 @@ AccreditedClock hourCorrespondence courseCredit hourEducational programEligible 
 
 *Substantial gainful activity:* A level of work performed for pay or profit that involves doing significant physical or mental activities, or a combination of both.
 
-*Totally and permanently disabled:* The condition of an individual who -
+*Totally and permanently disabled:* The condition of an individual who—
 
-(1) Is unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment that -
+(1) Is unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment that—
 
 (i) Can be expected to result in death;
 
@@ -156,4 +156,4 @@ AccreditedClock hourCorrespondence courseCredit hourEducational programEligible 
 
 (2) Has been determined by the Secretary of Veterans Affairs to be unemployable due to a service-connected disability.
 
-(Authority: 20 U.S.C. 1070g, 1087a, *et seq.*)[59 FR 61690, Dec. 1, 1994]Editorial Note:For Federal Register citations affecting § 685.102, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Authority: 20 U.S.C. 1070g, 1087a, *et seq.*)[59 FR 61690, Dec. 1, 1994]Editorial Note:For Federal Register citations affecting § 685.102, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

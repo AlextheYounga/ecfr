@@ -1,7 +1,5 @@
 ##### § 685.212 Discharge of a loan obligation. #####
 
-Link to an amendment published at 81 FR 76081, Nov. 1, 2016.This amendment was, in part, delayed indefinitely at 82 FR 27621, June 16, 2017.This amendment was delayed until July 1, 2018, at 82 FR 49114, Oct. 24, 2017.This amendment was delayed until July 1, 2019, at 83 FR 6459, Feb. 14, 2018.
-
 (a) *Death.* (1) If a borrower (or a student on whose behalf a parent borrowed a Direct PLUS Loan) dies, the Secretary discharges the obligation of the borrower and any endorser to make any further payments on the loan based on -
 
 (i) An original or certified copy of the death certificate;
@@ -46,4 +44,36 @@ Link to an amendment published at 81 FR 76081, Nov. 1, 2016.This amendment was, 
 
 (4) On the portion of a Direct Consolidation Loan that repaid a PLUS loan incurred on behalf of an eligible victim, if the borrower qualifies as an eligible parent.
 
-(Approved by the Office of Management and Budget under control number 1845-0021)(Authority: 20 U.S.C. 1087a *et seq.*)[59 FR 61690, Dec. 1, 1994]Editorial Note:For Federal Register citations affecting § 685.212, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(k) *Borrower defenses.* (1) If a borrower defense is approved under § 685.206(c) or § 685.222 -
+
+(i) The Secretary discharges the obligation of the borrower in whole or in part in accordance with the procedures in §§ 685.206(c) and 685.222, respectively; and
+
+(ii) The Secretary returns to the borrower payments made by the borrower or otherwise recovered on the loan that exceed the amount owed on that portion of the loan not discharged, if the borrower asserted the claim not later than -
+
+(A) For a claim subject to § 685.206(c), the limitation period under applicable law to the claim on which relief was granted; or
+
+(B) For a claim subject to § 685.222, the limitation period in § 685.222(b), (c), or (d), as applicable.
+
+(2) In the case of a Direct Consolidation Loan, a borrower may assert a borrower defense under § 685.206(c) or § 685.222 with respect to a Direct Loan, FFEL Program Loan, Federal Perkins Loan, Health Professions Student Loan, Loan for Disadvantaged Students under subpart II of part A of title VII of the Public Health Service Act, Health Education Assistance Loan, or Nursing Loan made under part E of the Public Health Service Act that was repaid by the Direct Consolidation Loan.
+
+(i) The Secretary considers a borrower defense claim asserted on a Direct Consolidation Loan by determining -
+
+(A) Whether the act or omission of the school with regard to the loan described in paragraph (k)(2) of this section, other than a Direct Subsidized, Unsubsidized, or PLUS Loan, constitutes a borrower defense under § 685.206(c), for a Direct Consolidation Loan made before July 1, 2017, or under § 685.222, for a Direct Consolidation Loan made on or after July 1, 2017; or
+
+(B) Whether the act or omission of the school with regard to a Direct Subsidized, Unsubsidized, or PLUS Loan made on after July 1, 2017 that was paid off by the Direct Consolidation Loan, constitutes a borrower defense under § 685.222.
+
+(ii) If the borrower defense is approved, the Secretary discharges the appropriate portion of the Direct Consolidation Loan.
+
+(iii) The Secretary returns to the borrower payments made by the borrower or otherwise recovered on the Direct Consolidation Loan that exceed the amount owed on that portion of the Direct Consolidation Loan not discharged, if the borrower asserted the claim not later than -
+
+(A) For a claim asserted under § 685.206(c), the limitation period under the law applicable to the claim on which relief was granted; or
+
+(B) For a claim asserted under § 685.222, the limitation period in § 685.222(b), (c), or (d), as applicable.
+
+(iv) The Secretary returns to the borrower a payment made by the borrower or otherwise recovered on the loan described in paragraph (k)(2) of this section only if -
+
+(A) The payment was made directly to the Secretary on the loan; and
+
+(B) The borrower proves that the loan to which the payment was credited was not legally enforceable under applicable law in the amount for which that payment was applied.
+
+(Approved by the Office of Management and Budget under control number 1845-0021)(Authority: 20 U.S.C. 1087a *et seq.*)[59 FR 61690, Dec. 1, 1994]Editorial Note:For Federal Register citations affecting § 685.212, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

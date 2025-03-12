@@ -1,24 +1,22 @@
 ##### § 682.202 Permissible charges by lenders to borrowers. #####
 
-Link to an amendment published at 81 FR 76079, Nov. 1, 2016.This amendment was delayed indefinitely at 82 FR 27621, June 16, 2017.This amendment was delayed until July 1, 2018, at 82 FR 49114, Oct. 24, 2017.This amendment was delayed until July 1, 2019, at 83 FR 6459, Feb. 14, 2018.
-
 The charges that lenders may impose on borrowers, either directly or indirectly, are limited to the following:
 
 (a) *Interest.* The applicable interest rates for FFEL Program loans are given in paragraphs (a)(1) through (a)(4) and (a)(8) of this section.
 
 (1) *Stafford Loan Program.* (i) For loans made prior to July 1, 1994, if the borrower, on the date the promissory note evidencing the loan was signed, had an outstanding balance of principal or interest on a previous Stafford loan, the interest rate is the applicable interest rate on that previous Stafford loan.
 
-(ii) If the borrower, on the date the promissory note evidencing the loan was signed, had no outstanding balance on any FFEL Program loan, and the first disbursement was made -
+(ii) If the borrower, on the date the promissory note evidencing the loan was signed, had no outstanding balance on any FFEL Program loan, and the first disbursement was made—
 
 (A) Prior to October 1, 1992, for a loan covering a period of instruction beginning on or after July 1, 1988, the interest rate is 8 percent until 48 months elapse after the repayment period begins, and 10 percent thereafter; or
 
-(B) On or after October 1, 1992, and prior to July 1, 1994, the interest rate is a variable rate, applicable to each July 1-June 30 period, that equals the lesser of -
+(B) On or after October 1, 1992, and prior to July 1, 1994, the interest rate is a variable rate, applicable to each July 1-June 30 period, that equals the lesser of—
 
 (*1*) The bond equivalent rate of the 91-day Treasury bills auctioned at the final auction prior to the June 1 immediately preceding the July 1-June 30 period, plus 3.10 percent; or
 
 (*2*) 9 percent.
 
-(iii) For a Stafford loan for which the first disbursement was made before October 1, 1992 -
+(iii) For a Stafford loan for which the first disbursement was made before October 1, 1992—
 
 (A) If the borrower, on the date the promissory note was signed, had no outstanding balance on a Stafford loan but had an outstanding balance of principal or interest on a PLUS or SLS loan made for a period of enrollment beginning before July 1, 1988, or on a Consolidation loan that repaid a loan made for a period of enrollment beginning before July 1, 1988, the interest rate is 8 percent; or
 
@@ -28,19 +26,19 @@ The charges that lenders may impose on borrowers, either directly or indirectly,
 
 (v) For a Stafford loan for which the first disbursement was made on or after December 20, 1993 and prior to July 1, 1994, if the borrower, on the date the promissory note was signed, had no outstanding balance on a Stafford loan but had an outstanding balance of principal or interest on a PLUS, SLS, or Consolidation loan, the interest rate is the rate provided in paragraph (a)(1)(ii)(B) of this section.
 
-(vi) For a Stafford loan for which the first disbursement was made on or after July 1, 1994 and prior to July 1, 1995, for a period of enrollment that included or began on or after July 1, 1994, the interest rate is a variable rate, applicable to each July 1-June 30 period, that equals the lesser of -
+(vi) For a Stafford loan for which the first disbursement was made on or after July 1, 1994 and prior to July 1, 1995, for a period of enrollment that included or began on or after July 1, 1994, the interest rate is a variable rate, applicable to each July 1-June 30 period, that equals the lesser of—
 
 (A) The bond equivalent rate of the 91-day Treasury bills auctioned at the final auction prior to the June 1 immediately preceding the July 1-June 30 period, plus 3.10; or
 
 (B) 8.25 percent.
 
-(vii) For a Stafford loan for which the first disbursement was made on or after July 1, 1995 and prior to July 1, 1998 the interest rate is a variable rate applicable to each July 1-June 30 period, that equals the lesser of -
+(vii) For a Stafford loan for which the first disbursement was made on or after July 1, 1995 and prior to July 1, 1998 the interest rate is a variable rate applicable to each July 1-June 30 period, that equals the lesser of—
 
 (A) The bond equivalent rate of the 91-day Treasury bills auctioned at the final auction prior to the June 1 immediately preceding the July 1-June 30 period, plus 2.5 percent during the in-school, grace and deferment period and 3.10 percent during repayment; or
 
 (B) 8.25 percent.
 
-(viii) For a Stafford loan for which the first disbursement was made on or after July 1, 1998, and prior to July 1, 2006, the interest rate is a variable rate, applicable to each July 1-June 30 period, that equals the lesser of -
+(viii) For a Stafford loan for which the first disbursement was made on or after July 1, 1998, and prior to July 1, 2006, the interest rate is a variable rate, applicable to each July 1-June 30 period, that equals the lesser of—
 
 (A) The bond equivalent rate of the 91-day Treasury bills auctioned at the final auction prior to the June 1 immediately preceding the July 1-June 30 period plus 1.7 percent during the in-school, grace and deferment periods and 2.3 percent during repayment; or
 
@@ -58,31 +56,31 @@ The charges that lenders may impose on borrowers, either directly or indirectly,
 
 (2) *PLUS Program.* (i) For a combined repayment schedule under § 682.209(d), the interest rate is the weighted average of the rates of all loans included under that schedule.
 
-(ii) For a loan disbursed on or after July 1, 1987 but prior to October 1, 1992, and for any refinanced PLUS loan, the interest rate is a variable rate, applicable to each July 1-June 30 period, that equals the lesser of -
+(ii) For a loan disbursed on or after July 1, 1987 but prior to October 1, 1992, and for any refinanced PLUS loan, the interest rate is a variable rate, applicable to each July 1-June 30 period, that equals the lesser of—
 
 (A) The bond equivalent rate of the 52-week Treasury bills auctioned at the final auction prior to the June 1 immediately preceding the July 1-June 30 period, plus 3.25 percent; or
 
 (B) 12 percent.
 
-(iii) For a loan disbursed on or after October 1, 1992 and prior to July 1, 1994, the interest rate is a variable rate, applicable to each July 1-June 30 period, that equals the lesser of -
+(iii) For a loan disbursed on or after October 1, 1992 and prior to July 1, 1994, the interest rate is a variable rate, applicable to each July 1-June 30 period, that equals the lesser of—
 
 (A) The bond equivalent rate of the 52-week Treasury bills auctioned at the final auction prior to the June 1 immediately preceding the July 1-June 30 period, plus 3.10 percent; or
 
 (B) 10 percent.
 
-(iv) For a loan for which the first disbursement was made on or after July 1, 1994 and prior to July 1, 1998, the interest rate is a variable rate applicable to each July 1-June 30 period, that equals the lesser of -
+(iv) For a loan for which the first disbursement was made on or after July 1, 1994 and prior to July 1, 1998, the interest rate is a variable rate applicable to each July 1-June 30 period, that equals the lesser of—
 
 (A) The bond equivalent rate of the 52-week Treasury bills auctioned at the final auction prior to the June 1 immediately preceding the July 1-June 30 period, plus 3.10 percent; or
 
 (B) 9 percent.
 
-(v) For a loan for which the first disbursement was made on or after July 1, 1998, the interest rate is a variable rate, applicable to each July 1-June 30 period, that equals the lesser of -
+(v) For a loan for which the first disbursement was made on or after July 1, 1998, the interest rate is a variable rate, applicable to each July 1-June 30 period, that equals the lesser of—
 
 (A) The bond equivalent rate of the 91-day Treasury bills auctioned at the final auction prior to the June 1 immediately preceding the July 1-June 30 period, plus 3.10 percent; or
 
 (B) 9 percent.
 
-(vi)(A) Beginning on July 1, 2001, and prior to July 1, 2006, the interest rate on the loans described in paragraphs (a)(2)(ii) through (iv) of this section is a variable rate applicable to each July 1-June 30, as determined on the preceding June 26, and is equal to the weekly average 1-year constant maturity Treasury yield, as published by the Board of Governors of the Federal Reserve System, for the last calendar week ending on or before such June 26; plus -
+(vi)(A) Beginning on July 1, 2001, and prior to July 1, 2006, the interest rate on the loans described in paragraphs (a)(2)(ii) through (iv) of this section is a variable rate applicable to each July 1-June 30, as determined on the preceding June 26, and is equal to the weekly average 1-year constant maturity Treasury yield, as published by the Board of Governors of the Federal Reserve System, for the last calendar week ending on or before such June 26; plus—
 
 (*1*) 3.25 percent for loans described in paragraph (a)(2)(ii) of this section; or
 
@@ -94,19 +92,19 @@ The charges that lenders may impose on borrowers, either directly or indirectly,
 
 (3) *SLS Program.* (i) For a combined repayment schedule under § 682.209(d), the interest rate is the weighted average of the rates of all loans included under that schedule.
 
-(ii) For a loan disbursed on or after July 1, 1987 but prior to October 1, 1992, and for any refinance SLS loan, the interest rate is a variable rate, applicable to each July 1-June 30 period, that equals the lesser of -
+(ii) For a loan disbursed on or after July 1, 1987 but prior to October 1, 1992, and for any refinance SLS loan, the interest rate is a variable rate, applicable to each July 1-June 30 period, that equals the lesser of—
 
 (A) The bond equivalent rate of the 52-week Treasury bills auctioned at the final auction prior to the June 1 immediately preceding the July 1-June 30 period, plus 3.25 percent; or
 
 (B) 12 percent.
 
-(iii) For a loan disbursed on or after October 1, 1992, the interest rate is a variable rate, applicable to each July 1-June 30 period, that equals the lesser of -
+(iii) For a loan disbursed on or after October 1, 1992, the interest rate is a variable rate, applicable to each July 1-June 30 period, that equals the lesser of—
 
 (A) The bond equivalent rate of the 52-week Treasury bills auctioned at the final auction prior to the June 1 immediately preceding the July 1-June 30 period, plus 3.10 percent; or
 
 (B) 11 percent.
 
-(iv)(A) Beginning on July 1, 2001, the interest rate on the loans described in paragraphs (a)(3)(ii) and (iii) of this section is a variable rate applicable to each July 1-June 30, as determined on the preceding June 26, and is equal to the weekly average 1-year constant maturity Treasury yield, as published by the Board of Governors of the Federal Reserve System, for the last calendar week ending on or before such June 26; plus -
+(iv)(A) Beginning on July 1, 2001, the interest rate on the loans described in paragraphs (a)(3)(ii) and (iii) of this section is a variable rate applicable to each July 1-June 30, as determined on the preceding June 26, and is equal to the weekly average 1-year constant maturity Treasury yield, as published by the Board of Governors of the Federal Reserve System, for the last calendar week ending on or before such June 26; plus—
 
 (*1*) 3.25 percent for loans described in paragraph (a)(3)(ii) of this section; or
 
@@ -114,7 +112,7 @@ The charges that lenders may impose on borrowers, either directly or indirectly,
 
 (B) The interest rates calculated under paragraph (a)(3)(iv)(A) of this section shall not exceed the limits specified in paragraphs (a)(3)(ii)(B) and (a)(3)(iii)(B) of this section, as applicable.
 
-(4) *Consolidation Program.* (i) A Consolidation Program loan made before July 1, 1994 bears interest at the rate that is the greater of -
+(4) *Consolidation Program.* (i) A Consolidation Program loan made before July 1, 1994 bears interest at the rate that is the greater of—
 
 (A) The weighted average of interest rates on the loans consolidated, rounded to the nearest whole percent; or
 
@@ -122,13 +120,13 @@ The charges that lenders may impose on borrowers, either directly or indirectly,
 
 (ii) A Consolidation loan made on or after July 1, 1994, for which the loan application was received by the lender before November 13, 1997, bears interest at the rate that is equal to the weighted average of interest rates on the loans consolidated, rounded upward to the nearest whole percent.
 
-(iii) For a Consolidation loan for which the loan application was received by the lender on or after November 13, 1997 and before October 1, 1998, the interest rate for the portion of the loan that consolidated loans other than HEAL loans is a variable rate, applicable to each July 1-June 30 period, that equals the lesser of -
+(iii) For a Consolidation loan for which the loan application was received by the lender on or after November 13, 1997 and before October 1, 1998, the interest rate for the portion of the loan that consolidated loans other than HEAL loans is a variable rate, applicable to each July 1-June 30 period, that equals the lesser of—
 
 (A) The bond equivalent rate of the 91-day Treasury bills auctioned at the final auction held prior to June 1 of each year plus 3.10 percent; or
 
 (B) 8.25 percent.
 
-(iv) For a Consolidation loan for which the application was received by the lender on or after October 1, 1998 and prior to July 1, 2010, the interest rate for the portion of the loan that consolidated loans other than HEAL loans is a fixed rate that is the lesser of -
+(iv) For a Consolidation loan for which the application was received by the lender on or after October 1, 1998 and prior to July 1, 2010, the interest rate for the portion of the loan that consolidated loans other than HEAL loans is a fixed rate that is the lesser of—
 
 (A) The weighted average of interest rates on the loans consolidated, rounded to the nearest higher one-eighth of one percent; or
 
@@ -140,9 +138,9 @@ The charges that lenders may impose on borrowers, either directly or indirectly,
 
 (6) *Refund of excess interest paid on Stafford loans.*
 
-(i) For a loan with an applicable interest rate of 10 percent made prior to July 23, 1992, and for a loan with an applicable interest rate of 10 percent made from July 23, 1992 through September 30, 1992, to a borrower with no outstanding FFEL Program loans -
+(i) For a loan with an applicable interest rate of 10 percent made prior to July 23, 1992, and for a loan with an applicable interest rate of 10 percent made from July 23, 1992 through September 30, 1992, to a borrower with no outstanding FFEL Program loans—
 
-(A) If during any calendar quarter, the sum of the average of the bond equivalent rates of the 91-day Treasury bills auctioned for that quarter, plus 3.25 percent, is less than 10 percent, the lender shall calculate an adjustment and credit the adjustment as specified under paragraph (a)(6)(i)(B) of this section if the borrower's account is not more than 30 days delinquent on December 31. The amount of the adjustment for a calendar quarter is equal to -
+(A) If during any calendar quarter, the sum of the average of the bond equivalent rates of the 91-day Treasury bills auctioned for that quarter, plus 3.25 percent, is less than 10 percent, the lender shall calculate an adjustment and credit the adjustment as specified under paragraph (a)(6)(i)(B) of this section if the borrower's account is not more than 30 days delinquent on December 31. The amount of the adjustment for a calendar quarter is equal to—
 
 (*1*) 10 percent minus the sum of the average of the bond equivalent rates of the 91-day Treasury bills auctioned for the applicable quarter plus 3.25 percent;
 
@@ -150,7 +148,7 @@ The charges that lenders may impose on borrowers, either directly or indirectly,
 
 (*3*) Divided by 4;
 
-(B) No later than 30 calendar days after the end of the calendar year, the holder of the loan shall credit any amounts computed under paragraph (a)(6)(i)(A) of this section to -
+(B) No later than 30 calendar days after the end of the calendar year, the holder of the loan shall credit any amounts computed under paragraph (a)(6)(i)(A) of this section to—
 
 (*1*) The Secretary, for amounts paid during any period in which the borrower is eligible for interest benefits;
 
@@ -158,9 +156,9 @@ The charges that lenders may impose on borrowers, either directly or indirectly,
 
 (*3*) The Secretary, for a borrower who on the last day of the calendar year is delinquent for more than 30 days.
 
-(ii) For a fixed interest rate loan made on or after July 23, 1992 to a borrower with an outstanding FFEL Program loan -
+(ii) For a fixed interest rate loan made on or after July 23, 1992 to a borrower with an outstanding FFEL Program loan—
 
-(A) If during any calendar quarter, the sum of the average of the bond equivalent rates of the 91-day Treasury bills auctioned for that quarter, plus 3.10 percent, is less than the applicable interest rate, the lender shall calculate an adjustment and credit the adjustment to reduce the outstanding principal balance of the loan as specified under paragraph (a)(6)(ii)(C) of this section if the borrower's account is not more than 30 days delinquent on December 31. The amount of an adjustment for a calendar quarter is equal to -
+(A) If during any calendar quarter, the sum of the average of the bond equivalent rates of the 91-day Treasury bills auctioned for that quarter, plus 3.10 percent, is less than the applicable interest rate, the lender shall calculate an adjustment and credit the adjustment to reduce the outstanding principal balance of the loan as specified under paragraph (a)(6)(ii)(C) of this section if the borrower's account is not more than 30 days delinquent on December 31. The amount of an adjustment for a calendar quarter is equal to—
 
 (*1*) The applicable interest rate minus the sum of the average of the bond equivalent rates of the 91-day Treasury bills auctioned for the applicable quarter plus 3.10 percent;
 
@@ -180,7 +178,7 @@ The charges that lenders may impose on borrowers, either directly or indirectly,
 
 (i) A lender or holder shall convert the interest rate on a loan under paragraphs (a)(6)(i) or (ii) of this section to a variable rate.
 
-(ii) The applicable interest rate for each 12-month period beginning on July 1 and ending on June 30 preceding each 12-month period is equal to the sum of -
+(ii) The applicable interest rate for each 12-month period beginning on July 1 and ending on June 30 preceding each 12-month period is equal to the sum of—
 
 (A) The bond equivalent rate of the 91-day Treasury bills auctioned at the final auction prior to June 1; and
 
@@ -188,7 +186,7 @@ The charges that lenders may impose on borrowers, either directly or indirectly,
 
 (iii)(A) In connection with the conversion specified in paragraph (a)(7)(i) of this section for any period prior to the conversion for which a rebate has not been provided under paragraph (a)(6) of this section, a lender or holder shall convert the interest rate to a variable rate.
 
-(B) The interest rate for each period shall be reset quarterly and the applicable interest rate for the quarter or portion shall equal the sum of -
+(B) The interest rate for each period shall be reset quarterly and the applicable interest rate for the quarter or portion shall equal the sum of—
 
 (*1*) The average of the bond equivalent rates of 91-day Treasury bills auctioned for the preceding 3-month period; and
 
@@ -196,7 +194,7 @@ The charges that lenders may impose on borrowers, either directly or indirectly,
 
 (iv)(A) The holder of a loan being converted under paragraph (a)(7)(iii)(A) of this section shall complete such conversion on or before January 1, 1995.
 
-(B) The holder shall, not later than 30 days prior to the conversion, provide the borrower with -
+(B) The holder shall, not later than 30 days prior to the conversion, provide the borrower with—
 
 (*1*) A notice informing the borrower that the loan is being converted to a variable interest rate;
 
@@ -212,9 +210,9 @@ The charges that lenders may impose on borrowers, either directly or indirectly,
 
 (8) *Applicability of the Servicemembers Civil Relief Act (SCRA) (50 U.S.C. 527, App. sec. 207).* Notwithstanding paragraphs (a)(1) through (4) of this section, a loan holder must use the official electronic database maintained by the Department of Defense to identify all borrowers with an outstanding loan who are members of the military service, as defined in § 682.208(j)(10) and ensure the interest rate on a borrower's qualified loans with an outstanding balance does not exceed the six percent maximum interest rate under 50 U.S.C. 527, App. section 207(a) on FFEL Program loans made prior to the borrower entering military service status. For purposes of this paragraph (a)(8), the interest rate includes any other charges or fees applied to the loan.
 
-(b) *Capitalization.* (1) A lender may add accrued interest and unpaid insurance premiums or Federal default fees to the borrower's unpaid principal balance in accordance with this section. This increase in the principal balance of a loan is called “capitalization.”
+(b) *Capitalization.* (1) Except as provided in § 682.405(b)(4), a lender may add accrued interest and unpaid insurance premiums or Federal default fees to the borrower's unpaid principal balance in accordance with this section. This increase in the principal balance of a loan is called “capitalization.”
 
-(2) Except as provided in paragraph (b)(4) and (b)(5) of this section, a lender may capitalize interest payable by the borrower that has accrued -
+(2) Except as provided in paragraph (b)(4) and (b)(5) of this section, a lender may capitalize interest payable by the borrower that has accrued—
 
 (i) For the period from the date the first disbursement was made to the beginning date of the in-school period or, for a PLUS loan, for the period from the date the first disbursement was made to the date the repayment period begins;
 
@@ -230,7 +228,7 @@ The charges that lenders may impose on borrowers, either directly or indirectly,
 
 (4)(i) For unsubsidized Stafford loans disbursed on or after October 7, 1998 and prior to July 1, 2000, the lender may capitalize the unpaid interest that accrues on the loan according to the requirements of section 428H(e)(2) of the Act.
 
-(ii) For Stafford loans first disbursed on or after July 1, 2000, the lender may capitalize the unpaid interest -
+(ii) For Stafford loans first disbursed on or after July 1, 2000, the lender may capitalize the unpaid interest—
 
 (A) When the loan enters repayment;
 
@@ -274,11 +272,11 @@ The charges that lenders may impose on borrowers, either directly or indirectly,
 
 (6) A lender must deduct a pro rata portion of the fee (if charged) from each disbursement; and
 
-(7) A lender must refund by a credit against the borrower's loan balance the portion of the origination fee previously deducted from the loan that is attributable to any portion of the loan -
+(7) A lender must refund by a credit against the borrower's loan balance the portion of the origination fee previously deducted from the loan that is attributable to any portion of the loan—
 
 (i) That is returned by a school to a lender in order to comply with the Act or with applicable regulations;
 
-(ii) That is repaid or returned within 120 days of disbursement, unless -
+(ii) That is repaid or returned within 120 days of disbursement, unless—
 
 (A) The borrower has no FFEL Program loans in repayment status and has requested, in writing, that the repaid or returned funds be used for a different purpose; or
 
@@ -300,7 +298,7 @@ The charges that lenders may impose on borrowers, either directly or indirectly,
 
 (2) The lender may require the borrower to pay a late charge if the borrower fails to pay all or a portion of a required installment payment within 15 days after it is due.
 
-(f) *Collection charges.* (1) If provided for in the borrower's promissory note, and notwithstanding any provisions of State law, the lender may require that the borrower or any endorser pay costs incurred by the lender or its agents in collecting installments not paid when due, including, but not limited to -
+(f) *Collection charges.* (1) If provided for in the borrower's promissory note, and notwithstanding any provisions of State law, the lender may require that the borrower or any endorser pay costs incurred by the lender or its agents in collecting installments not paid when due, including, but not limited to—
 
 (i) Attorney fees;
 
@@ -312,4 +310,4 @@ The charges that lenders may impose on borrowers, either directly or indirectly,
 
 (g) *Special allowance.* Pursuant to § 682.412(c), a lender may charge a borrower the amount of special allowance paid by the Secretary on behalf of the borrower.
 
-(Authority: 20 U.S.C. 1077, 1078, 1078-1, 1078-2, 1078-3, 1079, 1082, 1087-1, 1091a)[57 FR 60323, Dec. 18, 1992, as amended at 59 FR 22475, Apr. 29, 1994; 59 FR 61427, Nov. 30, 1994; 61 FR 60486, Nov. 27, 1996; 62 FR 63434, Nov. 28, 1997; 64 FR 18976, Apr. 16, 1999; 64 FR 58953, Nov. 1, 1999; 66 FR 34762, June 29, 2001; 71 FR 45700, Aug. 9, 2006; 72 FR 62000, Nov. 1, 2007; 74 FR 55991, Oct. 29, 2009; 78 FR 65807, Nov. 1, 2013; 80 FR 67236, Oct. 30, 2015]
+(Authority: 20 U.S.C. 1077, 1078, 1078-1, 1078-2, 1078-3, 1079, 1082, 1087-1, 1091a)[57 FR 60323, Dec. 18, 1992, as amended at 59 FR 22475, Apr. 29, 1994; 59 FR 61427, Nov. 30, 1994; 61 FR 60486, Nov. 27, 1996; 62 FR 63434, Nov. 28, 1997; 64 FR 18976, Apr. 16, 1999; 64 FR 58953, Nov. 1, 1999; 66 FR 34762, June 29, 2001; 71 FR 45700, Aug. 9, 2006; 72 FR 62000, Nov. 1, 2007; 74 FR 55991, Oct. 29, 2009; 78 FR 65807, Nov. 1, 2013; 80 FR 67236, Oct. 30, 2015; 81 FR 76079, Nov. 1, 2016]

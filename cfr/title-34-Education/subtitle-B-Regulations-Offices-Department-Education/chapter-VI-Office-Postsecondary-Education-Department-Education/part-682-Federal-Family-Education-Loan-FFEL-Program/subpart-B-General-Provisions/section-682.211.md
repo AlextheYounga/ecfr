@@ -1,10 +1,8 @@
 ##### § 682.211 Forbearance. #####
 
-Link to an amendment published at 81 FR 76079, Nov. 1, 2016.This amendment was delayed indefinitely at 82 FR 27621, June 16, 2017.This amendment was delayed until July 1, 2018, at 82 FR 49114, Oct. 24, 2017.This amendment was delayed until July 1, 2019, at 83 FR 6459, Feb. 14, 2018.
-
 (a)(1) The Secretary encourages a lender to grant forbearance for the benefit of a borrower or endorser in order to prevent the borrower or endorser from defaulting on the borrower's or endorser's repayment obligation, or to permit the borrower or endorser to resume honoring that obligation after default. *Forbearance* means permitting the temporary cessation of payments, allowing an extension of time for making payments, or temporarily accepting smaller payments than previously were scheduled.
 
-(2) Subject to paragraph (g) of this section, a lender may grant forbearance of payments of principal and interest under paragraphs (b), (c), and (d) of this section only if -
+(2) Subject to paragraph (g) of this section, a lender may grant forbearance of payments of principal and interest under paragraphs (b), (c), and (d) of this section only if—
 
 (i) The lender reasonably believes, and documents in the borrower's file, that the borrower or endorser intends to repay the loan but, due to poor health or other acceptable reasons, is currently unable to make scheduled payments; or
 
@@ -14,7 +12,7 @@ Link to an amendment published at 81 FR 76079, Nov. 1, 2016.This amendment was d
 
 (4) Except as provided in paragraph (f)(11) of this section, if payments of interest are forborne, they may be capitalized as provided in § 682.202(b).
 
-(b) A lender may grant forbearance if -
+(b) A lender may grant forbearance if—
 
 (1) The lender and the borrower or endorser agree to the terms of the forbearance and, unless the agreement was in writing, the lender sends, within 30 days, a notice to the borrower or endorser confirming the terms of the forbearance and records the terms of the forbearance in the borrower's file; or
 
@@ -24,7 +22,7 @@ Link to an amendment published at 81 FR 76079, Nov. 1, 2016.This amendment was d
 
 (d)(1) A guaranty agency may authorize a lender to grant forbearance to permit a borrower or endorser to resume honoring the agreement to repay the debt after default but prior to claim payment. The forbearance agreement in this situation must include a new agreement to repay the debt signed by the borrower or endorser or a written or oral affirmation of the borrower's or endorser's obligation to repay the debt.
 
-(2) If the forbearance is based on the borrower's or endorser's oral request and affirmation of the obligation to repay the debt -
+(2) If the forbearance is based on the borrower's or endorser's oral request and affirmation of the obligation to repay the debt—
 
 (i) The forbearance period is limited to a period of 120 days;
 
@@ -32,13 +30,13 @@ Link to an amendment published at 81 FR 76079, Nov. 1, 2016.This amendment was d
 
 (iii) The lender must orally review with the borrower the terms and conditions of the forbearance, including the consequences of interest capitalization, and all other repayment options available to the borrower; and
 
-(iv) The lender must -
+(iv) The lender must—
 
 (A) Send a notice to the borrower or endorser, as provided in paragraph (c) of this section, that confirms the terms of the forbearance and the borrower's or endorser's affirmation of the obligation to repay the debt, and includes information on all other repayment options available to the borrower, and
 
 (B) Retain a record of the terms of the forbearance and affirmation in the borrower's or endorser's file.
 
-(3) For purposes of this section, an “affirmation” means an acknowledgement of the loan by the borrower or endorser in a legally binding manner. The form of the affirmation may include, but is not limited to, the borrower's or endorser's -
+(3) For purposes of this section, an “affirmation” means an acknowledgement of the loan by the borrower or endorser in a legally binding manner. The form of the affirmation may include, but is not limited to, the borrower's or endorser's—
 
 (i) New signed repayment agreement or schedule, or another form of signed agreement to repay the debt;
 
@@ -48,7 +46,7 @@ Link to an amendment published at 81 FR 76079, Nov. 1, 2016.This amendment was d
 
 (e)(1) At the time of granting a borrower or endorser a forbearance, the lender must provide the borrower or endorser with information to assist the borrower or endorser in understanding the impact of capitalization of interest on the loan principal and total interest to be paid over the life of the loan; and
 
-(2) At least once every 180 days during the period of forbearance, the lender must contact the borrower or endorser to inform the borrower or endorser of -
+(2) At least once every 180 days during the period of forbearance, the lender must contact the borrower or endorser to inform the borrower or endorser of—
 
 (i) The outstanding obligation to repay;
 
@@ -62,7 +60,7 @@ Link to an amendment published at 81 FR 76079, Nov. 1, 2016.This amendment was d
 
 (vi) The borrower's or endorser's option to discontinue the forbearance at any time.
 
-(f) A lender may grant forbearance, upon notice to the borrower or if applicable, the endorser, with respect to payments of interest and principal that are overdue or would be due -
+(f) A lender may grant forbearance, upon notice to the borrower or if applicable, the endorser, with respect to payments of interest and principal that are overdue or would be due—
 
 (1) For a properly granted period of deferment for which the lender learns the borrower did not qualify;
 
@@ -98,21 +96,21 @@ Link to an amendment published at 81 FR 76079, Nov. 1, 2016.This amendment was d
 
 (g) In granting a forbearance under this section, except for a forbearance under paragraph (i)(5) of this section, a lender shall grant a temporary cessation of payments, unless the borrower chooses another form of forbearance subject to paragraph (a)(1) of this section.
 
-(h) *Mandatory forbearance* - (1) *Medical or dental interns or residents.* Upon receipt of a request and sufficient supporting documentation, as described in § 682.210(n), from a borrower serving in a medical or dental internship or residency program, a lender shall grant forbearance to the borrower in yearly increments (or a lesser period equal to the actual period during which the borrower is eligible) if the borrower has exhausted his or her eligibility for a deferment under § 682.210(n), or the borrower's promissory note does not provide for such a deferment -
+(h) *Mandatory forbearance*—(1) *Medical or dental interns or residents.* Upon receipt of a request and sufficient supporting documentation, as described in § 682.210(n), from a borrower serving in a medical or dental internship or residency program, a lender shall grant forbearance to the borrower in yearly increments (or a lesser period equal to the actual period during which the borrower is eligible) if the borrower has exhausted his or her eligibility for a deferment under § 682.210(n), or the borrower's promissory note does not provide for such a deferment—
 
 (i) For the length of time remaining in the borrower's medical or dental internship or residency that must be successfully completed before the borrower may begin professional practice or service; or
 
 (ii) For the length of time that the borrower is serving in a medical or dental internship or residency program leading to a degree or certificate awarded by an institution of higher education, a hospital, or a health care facility that offers postgraduate training.
 
-(2) *Borrowers who are not medical or dental interns or residents, and endorsers.* Upon receipt of a request and sufficient supporting documentation from an endorser (if applicable), or from a borrower (other than a borrower who is serving in a medical or dental internship or residency described in paragraph (h)(1) of this section), a lender shall grant forbearance -
+(2) *Borrowers who are not medical or dental interns or residents, and endorsers.* Upon receipt of a request and sufficient supporting documentation from an endorser (if applicable), or from a borrower (other than a borrower who is serving in a medical or dental internship or residency described in paragraph (h)(1) of this section), a lender shall grant forbearance—
 
-(i) In increments up to one year, for periods that collectively do not exceed three years, if -
+(i) In increments up to one year, for periods that collectively do not exceed three years, if—
 
 (A) The borrower or endorser is currently obligated to make payments on Title IV loans; and
 
 (B) The amount of those payments each month (or a proportional share if the payments are due less frequently than monthly) is collectively equal to or greater than 20 percent of the borrower's or endorser's total monthly income;
 
-(ii) In yearly increments (or a lesser period equal to the actual period during which the borrower is eligible) for as long as a borrower -
+(ii) In yearly increments (or a lesser period equal to the actual period during which the borrower is eligible) for as long as a borrower—
 
 (A) Is serving in a national service position for which the borrower receives a national service educational award under the National and Community Service Trust Act of 1993;
 
@@ -120,7 +118,7 @@ Link to an amendment published at 81 FR 76079, Nov. 1, 2016.This amendment was d
 
 (C) Is performing the type of service that would qualify the borrower for loan forgiveness and associated forbearance under the requirements of the teacher loan forgiveness program in § 682.216; and
 
-(iii) In yearly increments (or a lesser period equal to the actual period for which the borrower is eligible) when a member of the National Guard who qualifies for a post-active duty student deferment, but does not qualify for a military service deferment or other deferment, is engaged in active State duty as defined in § 682.210(u)(2)(i) and (ii) for a period of more than 30 consecutive days, beginning -
+(iii) In yearly increments (or a lesser period equal to the actual period for which the borrower is eligible) when a member of the National Guard who qualifies for a post-active duty student deferment, but does not qualify for a military service deferment or other deferment, is engaged in active State duty as defined in § 682.210(u)(2)(i) and (ii) for a period of more than 30 consecutive days, beginning—
 
 (A) On the day after the grace period expires for a Stafford loan that has not entered repayment; or
 
@@ -136,7 +134,7 @@ Link to an amendment published at 81 FR 76079, Nov. 1, 2016.This amendment was d
 
 (ii) Before granting a forbearance to a borrower or endorser under paragraph (h)(2)(ii)(B) of this section, the lender shall require the borrower or endorser to submit documentation showing the beginning and ending dates that the Department of Defense considers the borrower to be eligible for a partial repayment of his or her loan under the Student Loan Repayment Programs.
 
-(iii) Before granting a forbearance to a borrower under paragraph (h)(2)(ii)(C) of this section, the lender must require the borrower to -
+(iii) Before granting a forbearance to a borrower under paragraph (h)(2)(ii)(C) of this section, the lender must require the borrower to—
 
 (A) Submit documentation for the period of the annual forbearance request showing the beginning and anticipated ending dates that the borrower is expected to perform, for that year, the type of service described in § 682.216(c); and
 
@@ -144,13 +142,13 @@ Link to an amendment published at 81 FR 76079, Nov. 1, 2016.This amendment was d
 
 (i) *Mandatory administrative forbearance.* (1) The lender shall grant a mandatory administrative forbearance for the periods specified in paragraph (i)(2) of this section until the lender is notified by the Secretary or a guaranty agency that the forbearance period no longer applies. The lender may not require a borrower who is eligible for a forbearance under paragraph (i)(2)(ii) of this section to submit a request or supporting documentation, but shall require a borrower (or endorser, if applicable) who requests forbearance because of a military mobilization to provide documentation showing that he or she is subject to a military mobilization as described in paragraph (i)(4) of this section.
 
-(2) The lender is not required to notify the borrower (or endorser, if applicable) at the time the forbearance is granted, but shall grant a forbearance to a borrower or endorser during a period, and the 30 days following the period, when the lender is notified by the Secretary that -
+(2) The lender is not required to notify the borrower (or endorser, if applicable) at the time the forbearance is granted, but shall grant a forbearance to a borrower or endorser during a period, and the 30 days following the period, when the lender is notified by the Secretary that—
 
 (i) Exceptional circumstances exist, such as a local or national emergency or military mobilization; or
 
 (ii) The geographical area in which the borrower or endorser resides has been designated a disaster area by the president of the United States or Mexico, the Prime Minister of Canada, or by a Governor of a State.
 
-(3) As soon as feasible, or by the date specified by the Secretary, the lender shall notify the borrower (or endorser, if applicable) that the lender has granted a forbearance and the date that payments should resume. The lender's notification shall state that the borrower or endorser -
+(3) As soon as feasible, or by the date specified by the Secretary, the lender shall notify the borrower (or endorser, if applicable) that the lender has granted a forbearance and the date that payments should resume. The lender's notification shall state that the borrower or endorser—
 
 (i) May decline the forbearance and continue to be obligated to make scheduled payments; or
 
@@ -158,7 +156,7 @@ Link to an amendment published at 81 FR 76079, Nov. 1, 2016.This amendment was d
 
 (4) For purposes of paragraph (i)(2)(i) of this section, the term “military mobilization” shall mean a situation in which the Department of Defense orders members of the National Guard or Reserves to active duty under sections 688, 12301(a), 12301(g), 12302, 12304, and 12306 of title 10, United States Code. This term also includes the assignment of other members of the Armed Forces to duty stations at locations other than the locations at which they were normally assigned, only if the military mobilization involved the activation of the National Guard or Reserves.
 
-(5) The lender shall grant a mandatory administrative forbearance to a borrower (or endorser, if applicable) during a period when the borrower (or endorser, if applicable) is making payments for a period of -
+(5) The lender shall grant a mandatory administrative forbearance to a borrower (or endorser, if applicable) during a period when the borrower (or endorser, if applicable) is making payments for a period of—
 
 (i) Up to 3 years of payments in cases where the effect of a variable interest rate on a standard or graduated repayment schedule would result in a loan not being repaid within the maximum repayment term; or
 
@@ -166,4 +164,6 @@ Link to an amendment published at 81 FR 76079, Nov. 1, 2016.This amendment was d
 
 (6) The lender shall grant a mandatory administrative forbearance to a borrower for a period not to exceed 60 days after the lender receives reliable information indicating that the borrower (or student in the case of a PLUS loan) has died, until the lender receives documentation of death pursuant to § 682.402(b)(3).
 
-(Approved by the Office of Management and Budget under control number 1845-0020)(Authority: 20 U.S.C. 1077, 1078, 1078-1, 1078-2, 1078-3, 1080, 1082)[57 FR 60323, Dec. 18, 1992]Editorial Note:For Federal Register citations affecting § 682.211, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(7) The lender must grant a mandatory administrative forbearance to a borrower upon being notified by the Secretary that the borrower has made a borrower defense claim related to a loan that the borrower intends to consolidate into the Direct Loan Program for the purpose of seeking relief in accordance with § 685.212(k). The mandatory administrative forbearance shall be granted in yearly increments or for a period designated by the Secretary until the loan is consolidated or until the lender is notified by the Secretary to discontinue the forbearance.
+
+(Approved by the Office of Management and Budget under control number 1845-0020)(Authority: 20 U.S.C. 1077, 1078, 1078-1, 1078-2, 1078-3, 1080, 1082)[57 FR 60323, Dec. 18, 1992]Editorial Note:For Federal Register citations affecting § 682.211, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

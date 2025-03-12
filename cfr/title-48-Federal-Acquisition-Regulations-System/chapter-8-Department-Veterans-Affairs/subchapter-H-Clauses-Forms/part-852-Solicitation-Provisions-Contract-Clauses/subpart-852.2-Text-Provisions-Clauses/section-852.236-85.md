@@ -1,5 +1,7 @@
 ##### 852.236-85 Supplementary labor standards provisions. #####
 
+Link to an amendment published at 84 FR 9975, Mar. 19, 2019.
+
 As prescribed in 836.576, insert the following clause:
 
 Supplementary Labor Standards Provisions (APR 1984)

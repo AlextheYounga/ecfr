@@ -74,4 +74,4 @@ Pursuant to the authority of the Secretary of State and the Secretary of Homelan
 
 (l) *Treaty Trader and Treaty Investor.* Notwithstanding the provisions of paragraph (a) of this section, a visa is required of a Canadian national who is classified, or who seeks classification, under INA 101(a)(15)(E).
 
-[52 FR 42597, Nov. 5, 1987]Editorial Note:For Federal Register citations affecting § 41.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[52 FR 42597, Nov. 5, 1987]Editorial Note:For Federal Register citations affecting § 41.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

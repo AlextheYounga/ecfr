@@ -1,7 +1,5 @@
 ##### § 685.205 Forbearance. #####
 
-Link to an amendment published at 81 FR 76080, Nov. 1, 2016.This amendment was delayed indefinitely at 82 FR 27621, June 16, 2017.This amendment was delayed until July 1, 2018, at 82 FR 49114, Oct. 24, 2017.This amendment was delayed until July 1, 2019, at 83 FR 6459, Feb. 14, 2018.
-
 (a) *General.* “Forbearance” means permitting the temporary cessation of payments, allowing an extension of time for making payments, or temporarily accepting smaller payments than previously scheduled. The borrower has the option to choose the form of forbearance. Except as provided in paragraph (b)(9) of this section, if payments of interest are forborne, they are capitalized. The Secretary grants forbearance if the borrower or endorser intends to repay the loan but requests forbearance and provides sufficient documentation to support this request, and -
 
 (1) The Secretary determines that, due to poor health or other acceptable reasons, the borrower or endorser is currently unable to make scheduled payments;
@@ -70,15 +68,19 @@ Link to an amendment published at 81 FR 76080, Nov. 1, 2016.This amendment was d
 
 (6) Periods necessary for the Secretary to determine the borrower's eligibility for discharge -
 
-(i) Under § 685.214;
+(i) Under 685.206(c), (d) and (e);
 
-(ii) Under § 685.215;
+(ii) Under § 685.214;
 
-(iii) Under § 685.216;
+(iii) Under § 685.215;
 
-(iv) Under § 685.217; or
+(iv) Under § 685.216;
 
-(v) Due to the borrower's or endorser's (if applicable) bankruptcy;
+(v) Under § 685.217;
+
+(vi) Under § 685.222; or
+
+(vii) Due to the borrower's or endorser's (if applicable) bankruptcy;
 
 (7) A period of up to three years in cases where the effect of a variable interest rate on a fixed-amount or graduated repayment schedule causes the extension of the maximum repayment term;
 
@@ -92,4 +94,4 @@ Link to an amendment published at 81 FR 76080, Nov. 1, 2016.This amendment was d
 
 (2) The forbearance is renewable, upon request of the borrower, for the duration of the period in which the borrower meets the condition required for the forbearance.
 
-(Approved by the Office of Management and Budget under control number 1845-0021)(Authority: 20 U.S.C. 1087a *et seq.*)[59 FR 61690, Dec. 1, 1994, as amended at 61 FR 29900, June 12, 1996; 64 FR 58968, Nov. 1, 1999; 65 FR 65629, Nov. 1, 2000; 66 FR 34765, June 29, 2001; 68 FR 75430, Dec. 31, 2003; 71 FR 45712, Aug. 9, 2006; 73 FR 63255, Oct. 23, 2008; 74 FR 56003, Oct. 29, 2010; 78 FR 65832, Nov. 1, 2013]
+(Approved by the Office of Management and Budget under control number 1845-0021)[59 FR 61690, Dec. 1, 1994, as amended at 61 FR 29900, June 12, 1996; 64 FR 58968, Nov. 1, 1999; 65 FR 65629, Nov. 1, 2000; 66 FR 34765, June 29, 2001; 68 FR 75430, Dec. 31, 2003; 71 FR 45712, Aug. 9, 2006; 73 FR 63255, Oct. 23, 2008; 74 FR 56003, Oct. 29, 2010; 78 FR 65832, Nov. 1, 2013; 81 FR 76080, Nov. 1, 2016; 84 FR 49926, Sept. 23, 2019]

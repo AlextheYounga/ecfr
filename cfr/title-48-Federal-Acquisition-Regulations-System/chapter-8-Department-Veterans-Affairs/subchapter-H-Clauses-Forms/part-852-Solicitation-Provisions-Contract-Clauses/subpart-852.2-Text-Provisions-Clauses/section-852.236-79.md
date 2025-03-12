@@ -1,5 +1,7 @@
 ##### 852.236-79 Daily report of workers and material. #####
 
+Link to an amendment published at 84 FR 9974, Mar. 19, 2019.
+
 As prescribed in 836.573, insert the following clause:
 
 Daily Report of Workers and material (APR 1984)

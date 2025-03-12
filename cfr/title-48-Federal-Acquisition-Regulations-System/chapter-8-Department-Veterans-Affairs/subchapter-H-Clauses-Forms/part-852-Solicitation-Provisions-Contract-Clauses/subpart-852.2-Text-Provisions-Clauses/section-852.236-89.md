@@ -1,5 +1,7 @@
 ##### 852.236-89 Buy American Act. #####
 
+Link to an amendment published at 84 FR 9975, Mar. 19, 2019.
+
 As prescribed in Table 825.1102, insert the following clause:
 
 Buy American Act (JAN 2008)

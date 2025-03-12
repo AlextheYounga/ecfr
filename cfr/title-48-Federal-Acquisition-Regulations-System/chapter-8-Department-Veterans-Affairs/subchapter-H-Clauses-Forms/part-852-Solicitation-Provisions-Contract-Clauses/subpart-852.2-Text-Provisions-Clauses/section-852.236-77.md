@@ -1,5 +1,7 @@
 ##### 852.236-77 Reference to “standards”. #####
 
+Link to an amendment published at 84 FR 9974, Mar. 19, 2019.
+
 As prescribed in 836.571, insert the following clause:
 
 Reference to “Standards” (JUL 2002)

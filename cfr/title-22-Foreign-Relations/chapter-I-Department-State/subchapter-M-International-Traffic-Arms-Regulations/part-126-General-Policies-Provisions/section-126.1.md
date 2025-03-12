@@ -185,4 +185,4 @@ Note to paragraph (e):
 
 (6) Any defense articles and defense services provided in support of implementation of the Comprehensive Peace Agreement, the Agreement on the Resolution of the Conflict in the Republic of South Sudan, or any successor agreement.
 
-[58 FR 39312, July 22, 1993]Editorial Note:For Federal Register citations affecting § 126.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[58 FR 39312, July 22, 1993]Editorial Note:For Federal Register citations affecting § 126.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

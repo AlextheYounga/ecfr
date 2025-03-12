@@ -1,5 +1,7 @@
 ##### 836.602-1 Selection criteria. #####
 
+Link to an amendment published at 84 FR 9972, Mar. 19, 2019.
+
 (a) In addition to the evaluation criteria set forth in FAR 36.602-1, the evaluation board must consider the factors set forth in paragraph (b) of this section as they apply to the project or purpose of the selection. Values must be assigned to each factor in determining the relative qualifications of the firms identified as qualified through the pre-selection process. The board may adjust the assigned values after its discussions.
 
 (b) The following factors must be considered:

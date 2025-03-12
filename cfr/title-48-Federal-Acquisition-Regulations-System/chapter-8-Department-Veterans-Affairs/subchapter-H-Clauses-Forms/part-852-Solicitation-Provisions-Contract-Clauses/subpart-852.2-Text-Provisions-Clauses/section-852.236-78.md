@@ -1,5 +1,7 @@
 ##### 852.236-78 Government supervision. #####
 
+Link to an amendment published at 84 FR 9974, Mar. 19, 2019.
+
 As prescribed in 836.572, insert the following clause:
 
 Government Supervision (APR 1984)

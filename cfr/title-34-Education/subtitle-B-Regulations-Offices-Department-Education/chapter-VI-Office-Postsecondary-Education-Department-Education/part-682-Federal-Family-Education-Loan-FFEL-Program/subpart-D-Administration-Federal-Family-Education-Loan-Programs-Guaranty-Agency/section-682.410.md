@@ -1,7 +1,5 @@
 ##### § 682.410 Fiscal, administrative, and enforcement requirements. #####
 
-Link to an amendment published at 81 FR 76080, Nov. 1, 2016.This amendment was delayed indefinitely at 82 FR 27621, June 16, 2017.This amendment was delayed until July 1, 2018, at 82 FR 49114, Oct. 24, 2017.This amendment was delayed until July 1, 2019, at 83 FR 6459, Feb. 14, 2018.
-
 (a) *Fiscal requirements* - (1) *Reserve fund assets.* A guaranty agency shall establish and maintain a reserve fund to be used solely for its activities as a guaranty agency under the FFEL Program (“guaranty activities”). The guaranty agency shall credit to the reserve fund -
 
 (i) The total amount of insurance premiums and Federal default fees collected;
@@ -172,7 +170,7 @@ Link to an amendment published at 81 FR 76080, Nov. 1, 2016.This amendment was d
 
 (ii) If the guaranty agency determines that the borrower is eligible for the interest rate limit of six percent under § 682.202(a)(8), the interest rate described in paragraph (b)(3)(i) shall not exceed six percent.
 
-(4) *Capitalization of unpaid interest.* The guaranty agency shall capitalize any unpaid interest due the lender from the borrower at the time the agency pays a default claim to the lender.
+(4) *Capitalization of unpaid interest.* The guaranty agency shall capitalize any unpaid interest due the lender from the borrower at the time the agency pays a default claim to the lender, but shall not capitalize any unpaid interest thereafter.
 
 (5) *Reports to consumer reporting agencies.* (i) After the completion of the procedures in paragraph (b)(5)(ii) of this section, the guaranty agency shall, after it has paid a default claim, report promptly, but not less than sixty days after completion of the procedures in paragraph (b)(6)(ii) of this section, and on a regular basis, to all nationwide consumer reporting agencies -
 
@@ -251,6 +249,8 @@ Link to an amendment published at 81 FR 76080, Nov. 1, 2016.This amendment was d
 (vi) A guaranty agency must initiate administrative wage garnishment proceedings against all eligible borrowers, except as provided in paragraph (b)(6)(vii) of this section, by following the procedures described in paragraph (b)(9) of this section.
 
 (vii) A guaranty agency may file a civil suit against a borrower to compel repayment only if the borrower has no wages that can be garnished under paragraph (b)(9) of this section, or the agency determines that the borrower has sufficient attachable assets or income that is not subject to administrative wage garnishment that can be used to repay the debt, and the use of litigation would be more effective in collection of the debt.
+
+(viii) Upon notification by the Secretary that the borrower has made a borrower defense claim related to a loan that the borrower intends to consolidate into the Direct Loan Program for the purpose of seeking relief in accordance with § 685.212(k), the guaranty agency must suspend all collection activities on the affected loan for the period designated by the Secretary.
 
 (7) *Special conditions for agency payment of a claim.* (i) A guaranty agency may adopt a policy under which it pays a claim to a lender on a loan under the condition described in § 682.404(b)(3)(ii).
 
@@ -462,4 +462,4 @@ Link to an amendment published at 81 FR 76080, Nov. 1, 2016.This amendment was d
 
 (v) Promptly notifying the Secretary of the results of any actions taken by the agency to protect Federal funds involving such a school or holder.
 
-(Approved by the Office of Management and Budget under control number 1845-0020)(Authority: 20 U.S.C. 1078, 1078-1, 1078-2, 1078-3, 1080a, 1082, 1087, 1091a, and 1099)[57 FR 60323, Dec. 18, 1992]Editorial Note:For Federal Register citations affecting § 682.410, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Approved by the Office of Management and Budget under control number 1845-0020)(Authority: 20 U.S.C. 1078, 1078-1, 1078-2, 1078-3, 1080a, 1082, 1087, 1091a, and 1099)[57 FR 60323, Dec. 18, 1992]Editorial Note:For Federal Register citations affecting § 682.410, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

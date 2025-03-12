@@ -1,5 +1,7 @@
 ##### 852.236-86 Workers' compensation. #####
 
+Link to an amendment published at 84 FR 9975, Mar. 19, 2019.
+
 As prescribed in 836.577, insert the following clause:
 
 Workers' Compensation (JAN 2008)

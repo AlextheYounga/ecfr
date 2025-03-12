@@ -1,5 +1,7 @@
 ##### 836.606-73 Application of 6 percent architect-engineer fee limitation. #####
 
+Link to an amendment published at 84 FR 9973, Mar. 19, 2019.
+
 (a) The total cost of the architect or engineer services contracted for must not exceed 6 percent of the estimated cost of the construction project plus any fees for related services and activities such as those shown in paragraph (c) of this section.
 
 (b) To support project submissions, the engineering officer or project engineer must use VA Form 10-1193, Application for Health Care Facility Project, and Form 10-6238, EMIS Construction Program Estimate Worksheet, and must show the proposed technical services where necessary and applicable.

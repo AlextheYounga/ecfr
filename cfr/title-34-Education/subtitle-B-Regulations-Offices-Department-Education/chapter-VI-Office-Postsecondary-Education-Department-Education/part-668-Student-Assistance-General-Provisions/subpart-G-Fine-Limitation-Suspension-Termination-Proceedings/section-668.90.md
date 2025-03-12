@@ -1,14 +1,12 @@
 ##### § 668.90 Authority and responsibilities of the hearing official. #####
 
-Link to an amendment published at 82 FR 76072, November 1, 2016.This amendment was delayed until further notice at 82 FR 27621, June 16, 2017.This amendment was delayed until July 1 2018 at 82 FR 49114, Oct. 24, 2017.This amendment was further delayed until July 1, 2019 at 83 FR 6459, Feb. 14, 2018
-
 (a) The hearing official regulates the course of a hearing and the conduct of the parties during the hearing. The hearing official takes all necessary steps to conduct a fair and impartial hearing.
 
 (b)(1) The hearing official is not authorized to issue subpoenas.
 
 (2) If requested by the hearing official, the parties to a hearing shall provide available personnel who have knowledge about the matter under review for oral or written examination.
 
-(c) The hearing official takes whatever measures are appropriate to expedite a hearing. These measures may include, but are not limited to, the following -
+(c) The hearing official takes whatever measures are appropriate to expedite a hearing. These measures may include, but are not limited to, the following—
 
 (1) Scheduling of conferences;
 
@@ -16,7 +14,7 @@ Link to an amendment published at 82 FR 76072, November 1, 2016.This amendment w
 
 (3) Terminating the hearing and issuing a decision against a party if that party does not meet those time limits.
 
-(d) The hearing official is bound by all applicable statutes and regulations. The hearing official may not -
+(d) The hearing official is bound by all applicable statutes and regulations. The hearing official may not—
 
 (1) Waive applicable statutes and regulations; or
 

@@ -484,4 +484,4 @@
 
 (ii) During the 6-month period that begins on the later of the day after the student on whose behalf the loan was obtained ceases to be enrolled on at least a half-time basis or, if the parent borrower is also a student, the day after the parent borrower ceases to be enrolled on at least a half-time basis.
 
-(Approved by the Office of Management and Budget under control number 1845-0020)(Authority: 20 U.S.C. 1077, 1078, 1078-1, 1078-2, 1078-3, 1082, 1085)[57 FR 60323, Dec. 18, 1992]Editorial Note:For Federal Register citations affecting § 682.210, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Approved by the Office of Management and Budget under control number 1845-0020)(Authority: 20 U.S.C. 1077, 1078, 1078-1, 1078-2, 1078-3, 1082, 1085)[57 FR 60323, Dec. 18, 1992]Editorial Note:For Federal Register citations affecting § 682.210, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,8 +1,6 @@
 ##### § 668.93 Fines. #####
 
-Link to an amendment published at 82 FR 76072, November 1, 2016.This amendment was delayed until further notice at 82 FR 27621, June 16, 2017.This amendment was further delayed until July 1, 2018 at 82 FR 49114, Oct. 24, 2017.This amendment was further delayed until July 1, 2019 at 83 FR 6459, Feb. 14, 2018
-
-(a) In determining the amount of a fine, the designated department official, hearing official, and Secretary take into account -
+(a) In determining the amount of a fine, the designated department official, hearing official, and Secretary take into account—
 
 (1) (i) The gravity of an institution's or third-party servicer's violation or failure to carry out the relevant statutory provision, regulatory provision, special arrangement, agreement, or limitation entered into under the authority of statutes applicable to Title IV of the HEA; or
 
@@ -14,13 +12,13 @@ Link to an amendment published at 82 FR 76072, November 1, 2016.This amendment w
 
 (4) In the case of a violation by a third-party servicer, the extent to which the servicer can document that the institution contributed to that violation; and
 
-(5) For purposes of assessing a fine on a third-party servicer, the extent to which -
+(5) For purposes of assessing a fine on a third-party servicer, the extent to which—
 
 (i) Violations are caused by repeated mechanical systemic unintentional errors. The Secretary counts the total of violations caused by a repeated mechanical systemic unintentional error as a single violation, unless the servicer has been cited for a similar violation previously and had failed to make the appropriate corrections to the system; and
 
 (ii) The financial loss of Title IV, HEA program funds was attributable to a repeated mechanical systemic unintentional error.
 
-(b) In determining the gravity of the institution's or servicer's violation, failure, or misrepresentation under paragraph (a) of this section, the designated department official, hearing official, and Secretary take into account the amount of any liability owed by the institution and any third-party servicer that contracts with the institution, and the number of students affected as a result of that violation, failure, or misrepresentation on -
+(b) In determining the gravity of the institution's or servicer's violation, failure, or misrepresentation under paragraph (a) of this section, the designated department official, hearing official, and Secretary take into account the amount of any liability owed by the institution and any third-party servicer that contracts with the institution, and the number of students affected as a result of that violation, failure, or misrepresentation on—
 
 (1) Improperly expended or unspent Title IV, HEA program funds received by the institution or servicer, as applicable; or
 
@@ -30,7 +28,7 @@ Link to an amendment published at 82 FR 76072, November 1, 2016.This amendment w
 
 (d)(1) Notwithstanding any other provision of statute or regulation, any individual described in paragraph (d)(2) of this section, in addition to other penalties provided by law, is liable to the Secretary for amounts that should have been refunded or returned under § 668.22 of the title IV program funds not returned, to the same extent with respect to those funds that such an individual would be liable as a responsible person for a penalty under section 6672(a) of Internal Revenue Code of 1986 with respect to the nonpayment of taxes.
 
-(2) The individual subject to the penalty described in paragraph (d)(1) is any individual who -
+(2) The individual subject to the penalty described in paragraph (d)(1) is any individual who—
 
 (i) The Secretary determines, in accordance with § 668.174(c), exercises substantial control over an institution participating in, or seeking to participate in, a program under this title;
 

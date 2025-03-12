@@ -110,4 +110,4 @@ For purposes of this part, the following definitions apply:
 
 (x) *Wholesale savings association* means a savings association that is not in the business of extending home mortgage, small business, small farm, or consumer loans to retail customers, and for which a designation as a wholesale savings association is in effect, in accordance with § 195.25(b).
 
-[76 FR 49179, Aug. 9, 2011, as amended at 76 FR 79530, Dec. 22, 2011; 77 FR 75523, Dec. 21, 2012; 78 FR 79284, Dec. 30, 2013; 79 FR 77854, Dec. 29, 2014; 80 FR 81164, Dec. 29, 2015; 82 FR 5356, Jan. 18, 2017; 82 FR 55742, Nov. 24, 2017; 82 FR 61144, Dec. 27, 2017; 83 FR 66603, Dec. 27, 2018]
+[76 FR 49179, Aug. 9, 2011, as amended at 76 FR 79530, Dec. 22, 2011; 77 FR 75523, Dec. 21, 2012; 80 FR 81164, Dec. 29, 2015; 82 FR 55742, Nov. 24, 2017; 83 FR 66603, Dec. 27, 2018]

@@ -1,5 +1,7 @@
 ##### 852.236-74 Inspection of construction. #####
 
+Link to an amendment published at 84 FR 9974, Mar. 19, 2019.
+
 As prescribed in 846.312, insert the following clause:
 
 Inspection of Construction (JUL 2002)

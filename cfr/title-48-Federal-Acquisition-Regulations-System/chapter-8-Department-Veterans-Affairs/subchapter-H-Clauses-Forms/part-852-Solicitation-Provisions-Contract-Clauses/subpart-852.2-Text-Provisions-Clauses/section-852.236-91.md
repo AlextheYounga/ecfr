@@ -1,5 +1,7 @@
 ##### 852.236-91 Special notes. #####
 
+Link to an amendment published at 84 FR 9975, Mar. 19, 2019.
+
 As prescribed in 836.579, insert the following clause:
 
 Special Notes (JUL 2002)

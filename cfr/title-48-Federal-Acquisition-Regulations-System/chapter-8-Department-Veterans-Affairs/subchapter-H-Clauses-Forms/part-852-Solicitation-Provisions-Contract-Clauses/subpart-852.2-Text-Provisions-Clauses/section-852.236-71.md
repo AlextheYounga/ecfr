@@ -1,5 +1,7 @@
 ##### 852.236-71 Specifications and drawings for construction. #####
 
+Link to an amendment published at 84 FR 9974, Mar. 19, 2019.
+
 As prescribed in 836.521, insert the following clause:
 
 Specifications and Drawings for Construction (JUL 2002)

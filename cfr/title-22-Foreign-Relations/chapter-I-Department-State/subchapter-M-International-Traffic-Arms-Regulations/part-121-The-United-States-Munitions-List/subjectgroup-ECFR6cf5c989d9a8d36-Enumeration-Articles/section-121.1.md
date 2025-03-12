@@ -3098,6 +3098,6 @@ Category XXI - Articles, Technical Data, and Defense Services Not Otherwise Enum
 
 (b) Technical data (*see* § 120.10 of this subchapter) and defense services (*see* § 120.9 of this subchapter) directly related to the defense articles covered in paragraph (a) of this category.
 
-[58 FR 39287, July 22, 1993]Editorial Notes:1. For Federal Register citations affecting § 121.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[58 FR 39287, July 22, 1993]Editorial Notes:1. For Federal Register citations affecting § 121.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 2 At 79 FR 61228, Oct. 10, 2014, § 121.1 was amended by removing the word “enumerated” and adding in its place the word “described” in one place in Note 1 to paragraph (i) of Category VI; however, the amendment could not be incorporated because of inaccurate amendatory instruction.

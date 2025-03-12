@@ -1,6 +1,6 @@
 ##### § 35.3 Basis for civil penalties and assessments. #####
 
-(a) *Claims.* (1) Except as provided in paragraph (c) of this section, any person who makes a claim that the person knows or has reason to know the following shall be subject, in addition to any other remedy that may be prescribed by law, to a civil penalty of not more than $11,181 for each such claim:
+(a) *Claims.* (1) Except as provided in paragraph (c) of this section, any person who makes a claim that the person knows or has reason to know the following shall be subject, in addition to any other remedy that may be prescribed by law, to a civil penalty of not more than $11,463 for each such claim:
 
 (i) Is false, fictitious, or fraudulent;
 
@@ -32,7 +32,7 @@
 
 (B) Is false, fictitious, or fraudulent because it omits a mateial fact that the person making the statment has a duty to include in such statement; and
 
-(ii) Contains or is accompanied by an express certification or affirmation of the truthfulness and accuracy of the contents of the statement, shall be subject, in addition to any other remedy that may be prescribed by law, to a civil penalty of not more than $11,181 for each such statement.
+(ii) Contains or is accompanied by an express certification or affirmation of the truthfulness and accuracy of the contents of the statement, shall be subject, in addition to any other remedy that may be prescribed by law, to a civil penalty of not more than $11,463 for each such statement.
 
 (2) Each written representation, certification, or affirmation constitutes a separate statement.
 
@@ -44,6 +44,6 @@
 
 (e) In any case in which it is determined that more than one person is liable for making a claim under this section on which the Government has made payment (including transferred property or provided services), an assessment may be imposed against any such person or jointly and severally against any combination of such persons.
 
-(f) The maximum penalty for each false claim or statement is $11,181, up to a maximum of $335,443.
+(f) The maximum penalty for each false claim or statement is $11,463, up to a maximum of $343,903.
 
-[55 FR 23424, June 8, 1990, as amended at 81 FR 36793, June 8, 2016; 82 FR 3178, Jan. 11, 2017; 83 FR 236, Jan. 3, 2018]
+[55 FR 23424, June 8, 1990, as amended at 81 FR 36793, June 8, 2016; 82 FR 3178, Jan. 11, 2017; 83 FR 236, Jan. 3, 2018; 84 FR 9959, Mar. 19, 2019]

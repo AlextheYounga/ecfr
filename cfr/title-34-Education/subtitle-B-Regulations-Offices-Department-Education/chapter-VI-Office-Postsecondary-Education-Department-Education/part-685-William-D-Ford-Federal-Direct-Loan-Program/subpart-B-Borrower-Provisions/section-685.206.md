@@ -1,7 +1,5 @@
 ##### § 685.206 Borrower responsibilities and defenses. #####
 
-Link to an amendment published at 81 FR 76080, Nov. 1, 2016.This amendment was delayed indefinitely at 82 FR 27621, June 16, 2017.This amendment was delayed until July 1, 2018, at 82 FR 49114, Oct. 24, 2017.This amendment was delayed until July 1, 2019, at 83 FR 6459, Feb. 14, 2018.
-
 (a) The borrower must give the school the following information as part of the origination process for a Direct Subsidized, Direct Unsubsidized, or Direct PLUS Loan:
 
 (1) A statement, as described in 34 CFR part 668, that the loan will be used for the cost of the student's attendance.
@@ -16,24 +14,26 @@ Link to an amendment published at 81 FR 76080, Nov. 1, 2016.This amendment was d
 
 (2) The borrower must promptly notify the school of any change in address during enrollment.
 
-(c) *Borrower defenses.* (1) In any proceeding to collect on a Direct Loan, the borrower may assert as a defense against repayment, any act or omission of the school attended by the student that would give rise to a cause of action against the school under applicable State law. These proceedings include, but are not limited to, the following:
+(c) *Borrower defenses.* (1) For loans first disbursed prior to July 1, 2017, the borrower may assert a borrower defense under this paragraph. A “borrower defense” refers to any act or omission of the school attended by the student that relates to the making of the loan for enrollment at the school or the provision of educational services for which the loan was provided that would give rise to a cause of action against the school under applicable State law, and includes one or both of the following:
 
-(i) Tax refund offset proceedings under 34 CFR 30.33.
+(i) A defense to repayment of amounts owed to the Secretary on a Direct Loan, in whole or in part.
 
-(ii) Wage garnishment proceedings under section 488A of the Act.
+(ii) A claim to recover amounts previously collected by the Secretary on the Direct Loan, in whole or in part.
 
-(iii) Salary offset proceedings for Federal employees under 34 CFR part 31.
+(2) The order of objections for defaulted Direct Loans are as described in § 685.222(a)(6). A borrower defense claim under this section must be asserted, and will be resolved, under the procedures in § 685.222(e) to (k).
 
-(iv) Consumer reporting agency reporting proceedings under 31 U.S.C. 3711(f).
+(3) For an approved borrower defense under this section, except as provided in paragraph (c)(4) of this section, the Secretary may initiate an appropriate proceeding to collect from the school whose act or omission resulted in the borrower defense the amount of relief arising from the borrower defense, within the later of -
 
-(2) If the borrower's defense against repayment is successful, the Secretary notifies the borrower that the borrower is relieved of the obligation to repay all or part of the loan and associated costs and fees that the borrower would otherwise be obligated to pay. The Secretary affords the borrower such further relief as the Secretary determines is appropriate under the circumstances. Further relief may include, but is not limited to, the following:
+(i) Three years from the end of the last award year in which the student attended the institution; or
 
-(i) Reimbursing the borrower for amounts paid toward the loan voluntarily or through enforced collection.
+(ii) The limitation period that State law would apply to an action by the borrower to recover on the cause of action on which the borrower defense is based.
 
-(ii) Determining that the borrower is not in default on the loan and is eligible to receive assistance under title IV of the Act.
+(4) The Secretary may initiate a proceeding to collect at any time if the institution received notice of the claim before the end of the later of the periods described in paragraph (c)(3) of this section. For purposes of this paragraph, notice includes receipt of -
 
-(iii) Updating reports to consumer reporting agencies to which the Secretary previously made adverse credit reports with regard to the borrower's Direct Loan.
+(i) Actual notice from the borrower, from a representative of the borrower, or from the Department;
 
-(3) The Secretary may initiate an appropriate proceeding to require the school whose act or omission resulted in the borrower's successful defense against repayment of a Direct Loan to pay to the Secretary the amount of the loan to which the defense applies. However, the Secretary does not initiate such a proceeding after the period for the retention of records described in § 685.309(c) unless the school received actual notice of the claim during that period.
+(ii) A class action complaint asserting relief for a class that may include the borrower; and
 
-(Approved by the Office of Management and Budget under control number 1845-0021)(Authority: 20 U.S.C. 1087a *et seq.*)[59 FR 61690, Dec. 1, 1994, as amended at 60 FR 33345, June 28, 1995; 64 FR 58972, Nov. 1, 1999; 78 FR 65832, Nov. 1, 2013]
+(iii) Written notice, including a civil investigative demand or other written demand for information, from a Federal or State agency that has power to initiate an investigation into conduct of the school relating to specific programs, periods, or practices that may have affected the borrower.
+
+(Approved by the Office of Management and Budget under control number 1845-0021)(Authority: 20 U.S.C. 1087a *et seq.*)[59 FR 61690, Dec. 1, 1994, as amended at 60 FR 33345, June 28, 1995; 64 FR 58972, Nov. 1, 1999; 78 FR 65832, Nov. 1, 2013; 81 FR 76080, Nov. 1, 2016]

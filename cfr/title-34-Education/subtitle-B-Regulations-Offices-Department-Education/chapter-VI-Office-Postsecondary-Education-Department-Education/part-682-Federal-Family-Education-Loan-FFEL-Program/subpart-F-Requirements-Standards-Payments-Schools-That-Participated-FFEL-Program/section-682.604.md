@@ -2,7 +2,7 @@
 
 (a) *Exit counseling.* (1) A school must ensure that exit counseling is conducted with each Stafford Loan borrower and graduate or professional student PLUS Loan borrower either in person, by audiovisual presentation, or by interactive electronic means. In each case, the school must ensure that this counseling is conducted shortly before the student borrower ceases at least half-time study at the school, and that an individual with expertise in the title IV programs is reasonably available shortly after the counseling to answer the student borrower's questions. As an alternative, in the case of a student borrower enrolled in a correspondence program or a study-abroad program that the home institution approves for credit, written counseling materials may be provided by mail within 30 days after the student borrower completes the program. If a student borrower withdraws from school without the school's prior knowledge or fails to complete an exit counseling session as required, the school must, within 30 days after learning that the student borrower has withdrawn from school or failed to complete the exit counseling as required, ensure that exit counseling is provided through interactive electronic means, by mailing written counseling materials to the student borrower at the student borrower's last known address, or by sending written counseling materials to an email address provided by the student borrower that is not an email address associated with the school sending the counseling materials.
 
-(2) The exit counseling must -
+(2) The exit counseling must—
 
 (i) Inform the student borrower of the average anticipated monthly repayment amount based on the student borrower's indebtedness or on the average indebtedness of student borrowers who have obtained Stafford loans, PLUS Loans, or student borrowers who have obtained both Stafford and PLUS loans, depending on the types of loans the student borrower has obtained, for attendance at the same school or in the same program of study at the same school;
 
@@ -10,7 +10,7 @@
 
 (iii) Explain to the borrower the options to prepay each loan, to pay each loan on a shorter schedule, and to change repayment plans;
 
-(iv) Provide information on the effects of loan consolidation including, at a minimum -
+(iv) Provide information on the effects of loan consolidation including, at a minimum—
 
 (A) The effects of consolidation on total interest to be paid, fees to be paid, and length of repayment;
 
@@ -30,7 +30,7 @@
 
 (ix) Describe the likely consequences of default, including adverse credit reports, delinquent debt collection procedures under Federal law, and litigation;
 
-(x) Provide -
+(x) Provide—
 
 (A) A general description of the terms and conditions under which a borrower may obtain full or partial forgiveness or discharge of principal and interest, defer repayment of principal or interest, or be granted forbearance on a title IV loan, including forgiveness benefits or discharge benefits available to a FFEL borrower who consolidates his or her loan into the Direct Loan program; and
 
@@ -54,4 +54,4 @@
 
 (b) [Reserved]
 
-(Approved by the Office of Management and Budget under control number 1845-0020)(Authority: 20 U.S.C. 1077, 1078, 1078-1, 1082, 1085, 1092, 1094)[57 FR 60323, Dec. 18, 1992]Editorial Note:For Federal Register citations affecting § 682.604, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Approved by the Office of Management and Budget under control number 1845-0020)(Authority: 20 U.S.C. 1077, 1078, 1078-1, 1082, 1085, 1092, 1094)[57 FR 60323, Dec. 18, 1992]Editorial Note:For Federal Register citations affecting § 682.604, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

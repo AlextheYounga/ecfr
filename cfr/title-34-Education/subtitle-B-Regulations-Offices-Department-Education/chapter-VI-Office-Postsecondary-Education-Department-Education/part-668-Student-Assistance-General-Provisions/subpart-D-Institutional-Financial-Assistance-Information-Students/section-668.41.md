@@ -1,7 +1,5 @@
 ##### § 668.41 Reporting and disclosure of information. #####
 
-Link to an amendment published at 81 FR 76070, Nov. 1, 2016.This amendment was delayed until further notice at 82 FR 27621, June 16, 2017.This amendment was further delayed until July 1, 2018 at 82 FR 49114, Oct. 24, 2017.This amendment was further delayed until July 1, 2019 at 83 FR 6459, Feb. 14, 2018
-
 (a) *Definitions.* The following definitions apply to this subpart:
 
 *Athletically related student aid* means any scholarship, grant, or other form of financial assistance, offered by an institution, the terms of which require the recipient to participate in a program of intercollegiate athletics at the institution. Other student aid, of which a student-athlete simply happens to be the recipient, is not athletically related student aid.
@@ -112,4 +110,64 @@ Link to an amendment published at 81 FR 76070, Nov. 1, 2016.This amendment was d
 
 (2) An institution must submit the report described in paragraph (g)(1)(i) of this section to the Secretary within 15 days of making it available to students, prospective students, and the public.
 
-(Approved by the Office of Management and Budget under control number 1845-0004)(Authority: 20 U.S.C. 1092)[64 FR 59066, Nov. 1, 1999, as amended at 74 FR 55942, Oct. 29, 2009]
+(h) *Loan repayment warning for proprietary institutions* - (1) *Calculation of loan repayment rate.* For each award year, the Secretary calculates a proprietary institution's loan repayment rate, for the cohort of borrowers who entered repayment on their FFEL or Direct Loans at any time during the two-year cohort period, using the methodology in § 668.413(b)(3), provided that, for the purpose of this paragraph (h) -
+
+(i) The reference to “program” in § 668.413(b)(3)(vi) is read to refer to “institution”;
+
+(ii) “Award year” means the 12-month period that begins on July 1 of one year and ends on June 30 of the following year;
+
+(iii) “Borrower” means a student who received a FFEL or Direct Loan for enrolling in a gainful employment program at the institution; and
+
+(iv) “Two-year cohort period” is defined as set forth in § 668.402.
+
+(2) *Issuing and appealing loan repayment rates.* (i) For each award year, the Secretary notifies an institution of its final loan repayment rate.
+
+(ii) If an institution's final loan repayment rate shows that the median borrower has not either fully repaid all FFEL or Direct Loans received for enrollment in the institution or made loan payments sufficient to reduce by at least one dollar the outstanding balance of each of the borrower's FFEL or Direct Loans received for enrollment in the institution -
+
+(A) Using the calculation described in paragraph (h)(4)(ii) of this section, the institution may submit an appeal to the Secretary within 15 days of receiving notification of its final loan repayment rate; and
+
+(B) The Secretary will notify the institution if the appeal is -
+
+(*1*) Granted and the institution qualifies for an exemption from the warning requirement under paragraph (h)(4) of this section; or
+
+(*2*) Not granted, and the institution must comply with the warning requirement under paragraph (h)(3) of this section.
+
+(3) *Loan repayment warning* - (i) *Promotional materials.* (A) Except as provided in paragraph (h)(4) of this section, for any award year in which the institution's loan repayment rate shows that the median borrower has not either fully repaid, or made loan payments sufficient to reduce by at least one dollar the outstanding balance of, each of the borrower's FFEL or Direct Loans received for enrollment in the institution, the institution must, in all promotional materials that are made available to prospective or enrolled students by or on behalf of the institution, include a loan repayment warning in a form, place, and manner prescribed by the Secretary in a notice published in the Federal Register. The warning language must read: “U.S. Department of Education Warning: A majority of recent student loan borrowers at this school are not paying down their loans,” unless stated otherwise by the Secretary in a notice published in the Federal Register. Before publishing that notice, the Secretary may conduct consumer testing to help ensure that the warning is meaningful and helpful to students.
+
+(B) Promotional materials include, but are not limited to, an institution's Web site, catalogs, invitations, flyers, billboards, and advertising on or through radio, television, video, print media, social media, or the Internet.
+
+(C) The institution must ensure that all promotional materials, including printed materials, about the institution are accurate and current at the time they are published, approved by a State agency, or broadcast.
+
+(ii) *Clarity of warning.* The institution must ensure that the warning is prominent, clear, and conspicuous. The warning is not prominent, clear, and conspicuous if it is difficult to read or hear, or placed where it can be easily overlooked. In written materials, including email, Internet advertising and promotional materials, print media, and other advertising or hard-copy promotional materials, the warning must be included on the cover page or home page and any other pages with information on a program of study and any pages with information on costs and financial aid. For television and video materials, the warning must be both spoken and written simultaneously. The Secretary may require the institution to modify its promotional materials, including its Web site, if the warning is not prominent, clear, and conspicuous.
+
+(4) *Exemptions.* An institution is not required to provide a warning under paragraph (h)(3) of this section based on a final loan repayment rate for that award year if -
+
+(i) That rate is based on fewer than 10 borrowers in the cohort described in paragraph (h)(1) of this section; or
+
+(ii) The institution demonstrates to the Secretary's satisfaction that not all of its programs constitute GE programs and that if the borrowers in the non-GE programs were included in the calculation of the loan repayment rate, the loan repayment rate would show that the median borrower has made loan payments sufficient to reduce by at least one dollar the outstanding balance of each of the borrower's FFEL or Direct Loans received for enrollment in the institution.
+
+(i) *Financial protection disclosures* - (1) *General.* An institution must deliver a disclosure to enrolled and prospective students in the form and manner described in paragraph (i)(3), (4), and (5) of this section, and post that disclosure to its Web site as described in paragraph (i)(6) of this section, within 30 days of notifying the Secretary under § 668.171(h) of the occurrence of a triggering event or events identified pursuant to paragraph (i)(2) of this section. The requirements in this paragraph (i) apply for the 12-month period following the date the institution notifies the Secretary under § 668.171(h) of a triggering event or events identified under paragraph (i)(2).
+
+(2) *Triggering events.* The Secretary will conduct consumer testing to inform the identification of events for which a disclosure is required. The Secretary will consumer test each of the events identified in § 668.171(c) through (g), as well as other events that result in an institution being required to provide financial protection to the Department, to determine which of these events are most meaningful to students in their educational decision-making. The Secretary will identify the triggering events for which a disclosure is required under paragraph (i)(1) in a document published in the Federal Register.
+
+(3) *Form of disclosure.* The Secretary will conduct consumer testing to ensure the form of the disclosure is meaningful and helpful to students. The Secretary will specify the form and placement of the disclosure in a notice published in the Federal Register following the consumer testing.
+
+(4) *Delivery to enrolled students.* An institution must deliver the disclosure required under this paragraph (i) to each enrolled student in writing by -
+
+(i) Hand-delivering the disclosure as a separate document to the student individually or as part of a group presentation; or
+
+(ii)(A) Sending the disclosure to the student's primary email address or delivering the disclosure through the electronic method used by the institution for communicating with the student about institutional matters; and
+
+(B) Ensuring that the disclosure is the only substantive content in the message sent to the student under this paragraph unless the Secretary specifies additional, contextual language to be included in the message.
+
+(5) *Delivery to prospective students.* An institution must deliver the disclosure required under this paragraph (i) to a prospective student before that student enrolls, registers, or enters into a financial obligation with the institution by -
+
+(i) Hand-delivering the disclosure as a separate document to the student individually, or as part of a group presentation; or
+
+(ii)(A) Sending the disclosure to the student's primary email address or delivering the disclosure through the electronic method used by the institution for communicating with prospective students about institutional matters; and
+
+(B) Ensuring that the disclosure is the only substantive content in the message sent to the student under this paragraph unless the Secretary specifies additional, contextual language to be included in the message.
+
+(6) *Institutional Web site.* An institution must prominently provide the disclosure required under this paragraph (i) in a simple and meaningful manner on the home page of the institution's Web site.
+
+(Approved by the Office of Management and Budget under control number 1845-0004)(Authority: 20 U.S.C. 1092, 1094, 1099c)[64 FR 59066, Nov. 1, 1999, as amended at 74 FR 55942, Oct. 29, 2009; 81 FR 76070, Nov. 1, 2016]

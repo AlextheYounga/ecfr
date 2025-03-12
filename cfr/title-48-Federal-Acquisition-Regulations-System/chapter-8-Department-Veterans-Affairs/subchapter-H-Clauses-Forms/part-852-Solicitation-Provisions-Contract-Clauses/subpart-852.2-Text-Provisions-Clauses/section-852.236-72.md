@@ -1,5 +1,7 @@
 ##### 852.236-72 Performance of work by the contractor. #####
 
+Link to an amendment published at 84 FR 9974, Mar. 19, 2019.
+
 As prescribed in 836.501, insert the following clause:
 
 Performance of Work by the Contractor (JUL 2002)

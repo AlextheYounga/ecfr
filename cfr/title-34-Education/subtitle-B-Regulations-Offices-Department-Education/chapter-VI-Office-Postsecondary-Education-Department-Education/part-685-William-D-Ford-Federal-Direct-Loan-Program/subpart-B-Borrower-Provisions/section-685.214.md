@@ -1,7 +1,5 @@
 ##### § 685.214 Closed school discharge. #####
 
-Link to an amendment published at 81 FR 76081, Nov. 1, 2016.This amendment was delayed indefinitely at 82 FR 27621, June 16, 2017.This amendment was delayed until July 1, 2018, at 82 FR 49114, Oct. 24, 2017.This amendment was delayed until July 1, 2019, at 83 FR 6459, Feb. 14, 2018.
-
 (a) *General.* (1) The Secretary discharges the borrower's (and any endorser's) obligation to repay a Direct Loan in accordance with the provisions of this section if the borrower (or the student on whose behalf a parent borrowed) did not complete the program of study for which the loan was made because the school at which the borrower (or student) was enrolled closed, as described in paragraph (c) of this section.
 
 (2) For purposes of this section -
@@ -36,7 +34,11 @@ Link to an amendment published at 81 FR 76081, Nov. 1, 2016.This amendment was d
 
 (B) Agrees to cooperate with the Secretary in enforcement actions in accordance with paragraph (d) of this section and to transfer any right to recovery against a third party to the Secretary in accordance with paragraph (e) of this section.
 
-(2) The Secretary may discharge a loan under this section without an application from the borrower if the Secretary determines, based on information in the Secretary's possession, that the borrower qualifies for the discharge.
+(2) If the Secretary determines, based on information in the Secretary's possession, that the borrower qualifies for the discharge of a loan under this section, the Secretary -
+
+(i) May discharge the loan without an application from the borrower; and
+
+(ii) With respect to schools that closed on or after November 1, 2013, will discharge the loan without an application from the borrower if the borrower did not subsequently re-enroll in any title IV-eligible institution within a period of three years from the date the school closed.
 
 (d) *Cooperation by borrower in enforcement actions.* (1) In order to obtain a discharge under this section, a borrower must cooperate with the Secretary in any judicial or administrative proceeding brought by the Secretary to recover amounts discharged or to take other enforcement action with respect to the conduct on which the discharge was based. At the request of the Secretary and upon the Secretary's tendering to the borrower the fees and costs that are customarily provided in litigation to reimburse witnesses, the borrower must -
 
@@ -64,10 +66,12 @@ Link to an amendment published at 81 FR 76081, Nov. 1, 2016.This amendment was d
 
 (3) If the borrower's current address is unknown, the Secretary attempts to locate the borrower and determines the borrower's potential eligibility for a discharge under this section by consulting with representatives of the closed school, the school's licensing agency, the school's accrediting agency, and other appropriate parties. If the Secretary learns the new address of a borrower, the Secretary mails to the borrower a discharge application and explanation and suspends collection, as described in paragraph (f)(2) of this section.
 
-(4) If a borrower fails to submit the written request and sworn statement described in paragraph (c) of this section within 60 days of the Secretary's mailing the discharge application, the Secretary resumes collection and grants forbearance of principal and interest for the period in which collection activity was suspended. The Secretary may capitalize any interest accrued and not paid during that period.
+(4) If a borrower fails to submit the application described in paragraph (c) of this section within 60 days of the Secretary's providing the discharge application, the Secretary resumes collection and grants forbearance of principal and interest for the period in which collection activity was suspended. The Secretary may capitalize any interest accrued and not paid during that period.
 
-(5) If the Secretary determines that a borrower who requests a discharge meets the qualifications for a discharge, the Secretary notifies the borrower in writing of that determination.
+(5) Upon resuming collection on any affected loan, the Secretary provides the borrower another discharge application and an explanation of the requirements and procedures for obtaining a discharge.
 
-(6) If the Secretary determines that a borrower who requests a discharge does not meet the qualifications for a discharge, the Secretary notifies that borrower in writing of that determination and the reasons for the determination.
+(6) If the Secretary determines that a borrower who requests a discharge meets the qualifications for a discharge, the Secretary notifies the borrower in writing of that determination.
 
-(Approved by the Office of Management and Budget under control number 1845-0021)(Authority: 20 U.S.C. 1087a *et seq.*)[59 FR 61690, Dec. 1, 1994, as amended at 59 FR 66134, Dec. 22, 1994; 64 FR 58972, Nov. 1, 1999. Redesignated at 65 FR 65629, Nov. 1, 2000, as amended at 66 FR 34765, June 29, 2001; 78 FR 65834, Nov. 1, 2013]
+(7) If the Secretary determines that a borrower who requests a discharge does not meet the qualifications for a discharge, the Secretary notifies that borrower in writing of that determination and the reasons for the determination.
+
+(Approved by the Office of Management and Budget under control number 1845-0021)(Authority: 20 U.S.C. 1087a *et seq.*)[59 FR 61690, Dec. 1, 1994, as amended at 59 FR 66134, Dec. 22, 1994; 64 FR 58972, Nov. 1, 1999. Redesignated at 65 FR 65629, Nov. 1, 2000, as amended at 66 FR 34765, June 29, 2001; 78 FR 65834, Nov. 1, 2013; 81 FR 76081, Nov. 1, 2016]

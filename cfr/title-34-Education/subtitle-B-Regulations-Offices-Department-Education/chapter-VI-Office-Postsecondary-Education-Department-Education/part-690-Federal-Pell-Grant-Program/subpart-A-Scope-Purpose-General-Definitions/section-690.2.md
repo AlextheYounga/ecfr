@@ -46,4 +46,4 @@ Academic Competitiveness Grant (ACG) ProgramAcademic yearDependent studentEligib
 
 *Scheduled Federal Pell Grant:* The amount of a Federal Pell Grant which would be paid to a full-time student for a full academic year.
 
-(Authority: 20 U.S.C. 1070a, 1070g)[50 FR 10717, Mar. 15, 1985]Editorial Note:For Federal Register citations affecting § 690.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Authority: 20 U.S.C. 1070a, 1070g)[50 FR 10717, Mar. 15, 1985]Editorial Note:For Federal Register citations affecting § 690.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

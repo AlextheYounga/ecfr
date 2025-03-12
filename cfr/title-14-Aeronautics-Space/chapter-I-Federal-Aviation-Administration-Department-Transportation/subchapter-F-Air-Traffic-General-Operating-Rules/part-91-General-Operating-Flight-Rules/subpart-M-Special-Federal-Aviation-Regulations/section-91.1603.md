@@ -1,23 +1,23 @@
-##### § 91.1603 Special Federal Aviation Regulation No. 112 - Prohibition Against Certain Flights in the Tripoli (HLLL) Flight Information Region (FIR). #####
+##### § 91.1603 Special Federal Aviation Regulation No. 112 - Prohibition Against Certain Flights in the Tripoli Flight Information Region (FIR) (HLLL). #####
 
-(a) *Applicability.* This section applies to the following persons:
+(a) *Applicability.* This Special Federal Aviation Regulation (SFAR) applies to the following persons:
 
 (1) All U.S. air carriers and U.S. commercial operators;
 
-(2) All persons exercising the privileges of an airman certificate issued by the FAA, except when such persons are operating a U.S.-registered aircraft for a foreign air carrier; and
+(2) All persons exercising the privileges of an airman certificate issued by the FAA, except when such persons are operating U.S.-registered aircraft for a foreign air carrier; and
 
-(3) All operators of U.S.-registered civil aircraft, except operators of such aircraft that are foreign air carriers.
+(3) All operators of U.S.-registered civil aircraft, except where the operator of such aircraft is a foreign air carrier.
 
-(b) *Flight prohibition.* Except as provided in paragraphs (c) and (d) of this section, no person described in paragraph (a) of this section may conduct flight operations in the Tripoli (HLLL) FIR.
+(b) *Flight prohibition.* Except as provided in paragraphs (c) and (d) of this section, no person described in paragraph (a) of this section may conduct flight operations in the Tripoli Flight Information Region (FIR) (HLLL).
 
-(c) *Permitted operations.* This section does not prohibit persons described in paragraph (a) of this section from conducting flight operations in the Tripoli (HLLL) FIR under the following conditions:
+(c) *Permitted operations.* This section does not prohibit persons described in paragraph (a) of this section from conducting flight operations in the Tripoli Flight Information Region (FIR) (HLLL) under the following circumstances:
 
-(1) Flight operations are conducted under a contract, grant, or cooperative agreement with a department, agency, or instrumentality of the U.S. government (or under a subcontract between the prime contractor of the department, agency, or instrumentality, and the person described in paragraph (a) of this section), with the approval of the FAA, or under an exemption issued by the FAA. The FAA will process requests for approval or exemption in a timely manner, with the order of preference being: First, for those operations in support of U.S. government-sponsored activities; second, for those operations in support of government-sponsored activities of a foreign country with the support of a U.S. government department, agency, or instrumentality; and third, for all other operations.
+(1) Overflights of the Tripoli FIR (HLLL) may be conducted at altitudes at or above FL300, subject to the approval of, and in accordance with the conditions established by, the appropriate authorities of Libya.
 
-(2) [Reserved]
+(2) Flight operations in the Tripoli FIR (HLLL) at altitudes below FL300 are permitted if they are conducted under a contract, grant, or cooperative agreement with a department, agency, or instrumentality of the U.S. Government (or under a subcontract between the prime contractor of the department, agency, or instrumentality and the person described in paragraph (a) of this section) with the approval of the FAA, or under an exemption issued by the FAA. The FAA will consider requests for approval or exemption in a timely manner, with the order of preference being: First, for those operations in support of U.S. Government-sponsored activities; second, for those operations in support of government-sponsored activities of a foreign country with the support of a U.S. Government department, agency, or instrumentality; and third, for all other operations.
 
-(d) *Emergency situations.* In an emergency that requires immediate decision and action for the safety of the flight, the pilot in command of an aircraft may deviate from this section to the extent required by that emergency. Except for U.S. air carriers and commercial operators that are subject to the requirements of 14 CFR part 119, 121, 125, or 135, each person who deviates from this section must, within 10 days of the deviation, excluding Saturdays, Sundays, and Federal holidays, submit to the responsible Flight Standards office a complete report of the operations of the aircraft involved in the deviation, including a description of the deviation and the reasons for it.
+(d) *Emergency situations.* In an emergency that requires immediate decision and action for the safety of the flight, the pilot in command of an aircraft may deviate from this section to the extent required by that emergency. Except for U.S. air carriers and commercial operators that are subject to the requirements of 14 CFR part 119, 121, 125, or 135, each person who deviates from this section must, within 10 days of the deviation, excluding Saturdays, Sundays, and Federal holidays, submit to the responsible Flight Standards Office a complete report of the operations of the aircraft involved in the deviation, including a description of the deviation and the reasons for it.
 
-(e) *Expiration.* This Special Federal Aviation Regulation will remain in effect until March 20, 2019. The FAA may amend, rescind, or extend this Special Federal Aviation Regulation as necessary.
+(e) *Expiration.* This Special Federal Aviation Regulation (SFAR) will remain in effect until March 20, 2021. The FAA may amend, rescind, or extend this SFAR, as necessary.
 
-[Docket FAA-2011-0246, Amdt. 91-321C, 82 FR 14436, Mar. 21, 2017, as amended by Docket FAA-2018-0119, Amdt. 91-350, 83 FR 9172, Mar. 5, 2018]
+[Docket FAA-2011-0246, Amdt. 91-321D, 84 FR 9956, Mar. 19, 2019]

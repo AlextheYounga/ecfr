@@ -1,7 +1,5 @@
 ##### § 682.402 Death, disability, closed school, false certification, unpaid refunds, and bankruptcy payments. #####
 
-Link to an amendment published at 81 FR 76079, Nov. 1, 2016.This amendment was, in part, delayed indefinitely at 82 FR 27621, June 16, 2017.This amendment was delayed until July 1, 2018, at 82 FR 49114, Oct. 24, 2017.This amendment was delayed until July 1, 2019, at 83 FR 6459, Feb. 14, 2018.
-
 (a) *General.* (1) Rules governing the payment of claims based on filing for relief in bankruptcy, and discharge of loans due to death, total and permanent disability, attendance at a school that closes, false certification by a school of a borrower's eligibility for a loan, and unpaid refunds by a school are set forth in this section.
 
 (2) If a Consolidation loan was obtained jointly by a married couple, the amount of the Consolidation loan that is discharged if one of the borrowers dies or becomes totally and permanently disabled is equal to the portion of the outstanding balance of the Consolidation loan, as of the date the borrower died or became totally and permanently disabled, attributable to any of that borrower's loans that would have been eligible for discharge.
@@ -244,21 +242,7 @@ Link to an amendment published at 81 FR 76079, Nov. 1, 2016.This amendment was, 
 
 (iv) A discharge of a loan under paragraph (d) of this section must be reported by the loan holder to all credit reporting agencies to which the holder previously reported the status of the loan, so as to delete all adverse credit history assigned to the loan.
 
-(3) *Borrower qualification for discharge.* Except as provided in paragraph (d)(8) of this section, in order to qualify for a discharge of a loan under paragraph (d) of this section, a borrower must submit a written request and sworn statement to the holder of the loan. The statement need not be notarized, but must be made by the borrower under the penalty of perjury, and, in the statement, the borrower must state -
-
-(i) Whether the student has made a claim with respect to the school's closing with any third party, such as the holder of a performance bond or a tuition recovery program, and if so, the amount of any payment received by the borrower (or student) or credited to the borrower's loan obligation;
-
-(ii) That the borrower (or the student for whom a parent received a PLUS loan) -
-
-(A) Received, on or after January 1, 1986, the proceeds of any disbursement of a loan disbursed, in whole or in part, on or after January 1, 1986 to attend a school;
-
-(B) Did not complete the educational program at that school because the school closed while the student was enrolled or on an approved leave of absence in accordance with § 682.605(c), or the student withdrew from the school not more than 120 days before the school closed; and
-
-(C) Did not complete the program of study through a teach-out at another school or by transferring academic credits or hours earned at the closed school to another school;
-
-(iii) That the borrower agrees to provide, upon request by the Secretary or the Secretary's designee, other documentation reasonably available to the borrower that demonstrates, to the satisfaction of the Secretary or the Secretary's designee, that the student meets the qualifications in paragraph (d) of this section; and
-
-(iv) That the borrower agrees to cooperate with the Secretary or the Secretary's designee in enforcement actions in accordance with paragraph (d)(4) of this section, and to transfer any right to recovery against a third party in accordance with paragraph (d)(5) of this section.
+(3) *Borrower qualification for discharge.* Except as provided in paragraph (d)(8) of this section, in order to qualify for a discharge of a loan under paragraph (d) of this section, a borrower must submit a completed closed school discharge application on a form approved by the Secretary. By signing the application, the borrower certifies -
 
 (4) *Cooperation by borrower in enforcement actions.* (i) In any judicial or administrative proceeding brought by the Secretary or the Secretary's designee to recover for amounts discharged under paragraph (d) of this section or to take other enforcement action with respect to the conduct on which those claims were based, a borrower who requests or receives a discharge under paragraph (d) of this section must cooperate with the Secretary or the Secretary's designee. At the request of the Secretary or the Secretary's designee, and upon the Secretary's or the Secretary's designee's tendering to the borrower the fees and costs as are customarily provided in litigation to reimburse witnesses, the borrower shall -
 
@@ -316,9 +300,9 @@ Link to an amendment published at 81 FR 76079, Nov. 1, 2016.This amendment was, 
 
 (B) If a guaranty agency determines that a school appears to have closed, it shall, within 30 days of making that determination, notify all lenders participating in its program to suspend collection efforts against individuals with respect to loans made for attendance at the closed school, if the student to whom (or on whose behalf) a loan was made, appears to have been enrolled at the school on the closing date, or withdrew not more than 120 days prior to the date the school appears to have closed. Within 30 days after receiving confirmation of the date of a school's closure from the Secretary, the agency shall -
 
-(*1*) Notify all lenders participating in its program to mail a discharge application explaining the procedures and eligibility criteria for obtaining a discharge and an explanation of the information that must be included in the sworn statement (which may be combined) to all borrowers who may be eligible for a closed school discharge; and
+(*1*) Notify all lenders participating in its program to mail a discharge application explaining the procedures and eligibility criteria for obtaining a discharge and an explanation of the information that must be included in the application to all borrowers who may be eligible for a closed school discharge; and
 
-(*2*) Review the records of loans that it holds, identify the loans made to any borrower (or student) who appears to have been enrolled at the school on the school closure date or who withdrew not more than 120 days prior to the closure date, and mail a discharge application and an explanation of the information that must be included in the sworn statement (which may be combined) to the borrower. The application shall inform the borrower of the procedures and eligibility criteria for obtaining a discharge.
+(*2*) Review the records of loans that it holds, identify the loans made to any borrower (or student) who appears to have been enrolled at the school on the school closure date or who withdrew not more than 120 days prior to the closure date, and mail a discharge application and an explanation of the information that must be included in the application to the borrower. The application shall inform the borrower of the procedures and eligibility criteria for obtaining a discharge.
 
 (C) If a loan identified under paragraph (d)(6)(ii)(B)(*2*) of this section is held by the guaranty agency as a defaulted loan and the borrower's current address is known, the guaranty agency shall immediately suspend any efforts to collect from the borrower on any loan received for the program of study for which the loan was made (but may continue to receive borrower payments), and notify the borrower that the agency will provide additional information about the procedures for requesting a discharge after the agency has received confirmation from the Secretary that the school had closed.
 
@@ -326,7 +310,7 @@ Link to an amendment published at 81 FR 76079, Nov. 1, 2016.This amendment was, 
 
 (E) If the guaranty agency determines that a borrower identified in paragraph (d)(6)(ii)(C) or (D) of this section has satisfied all of the conditions required for a discharge, the agency shall notify the borrower in writing of that determination within 30 days after making that determination.
 
-(F) If the guaranty agency determines that a borrower identified in paragraph (d)(6)(ii)(C) or (D) of this section does not qualify for a discharge, the agency shall notify the borrower in writing of that determination and the reasons for it within 30 days after the date the agency -
+(F) If the guaranty agency determines that a borrower identified in paragraph (d)(6)(ii)(C) or (D) of this section does not qualify for a discharge, the agency shall notify the borrower in writing of that determination and the reasons for it, the opportunity for review by the Secretary, and how to request such a review within 30 days after the date the agency -
 
 (*1*) Made that determination based on information available to the guaranty agency;
 
@@ -336,9 +320,9 @@ Link to an amendment published at 81 FR 76079, Nov. 1, 2016.This amendment was, 
 
 (*4*) Was notified by the Secretary that the borrower (or student) was ineligible for a closed school discharge for other reasons; or
 
-(*5*) Received the borrower's completed application and sworn statement.
+(*5*) Received the borrower's completed application.
 
-(G) Upon receipt of a closed school discharge claim filed by a lender, the agency shall review the borrower's request and supporting sworn statement in light of information available from the records of the agency and from other sources, including other guaranty agencies, state authorities, and cognizant accrediting associations, and shall take the following actions -
+(G) Upon receipt of a closed school discharge claim filed by a lender, the agency shall review the borrower's completed application in light of information available from the records of the agency and from other sources, including other guaranty agencies, state authorities, and cognizant accrediting associations, and shall take the following actions -
 
 (*1*) If the agency determines that the borrower satisfies the requirements for discharge under paragraph (d) of this section, it shall pay the claim in accordance with § 682.402(h) not later than 90 days after the agency received the claim; or
 
@@ -346,23 +330,35 @@ Link to an amendment published at 81 FR 76079, Nov. 1, 2016.This amendment was, 
 
 (H) If a borrower fails to submit the written request and sworn statement described in paragraph (d)(3) of this section within 60 days of being notified of that option, the lender or guaranty agency shall resume collection and shall be deemed to have exercised forbearance of payment of principal and interest from the date it suspended collection activity. The lender or guaranty agency may capitalize, in accordance with § 682.202(b), any interest accrued and not paid during that period.
 
-(I) A borrower's request for discharge may not be denied solely on the basis of failing to meet any time limits set by the lender, guaranty agency, or the Secretary.
+(H) If a borrower described in paragraph (d)(6)(ii)(E) or (F) of this section fails to submit the completed application within 60 days of being notified of that option, the lender or guaranty agency shall resume collection.
+
+(I) Upon resuming collection on any affected loan, the lender or guaranty agency provides the borrower another discharge application and an explanation of the requirements and procedures for obtaining a discharge.
+
+(J) A borrower's request for discharge may not be denied solely on the basis of failing to meet any time limits set by the lender, guaranty agency, or the Secretary.
+
+(K)(*1*) Within 30 days after receiving the borrower's request for review under paragraph (d)(6)(ii)(F) of this section, the agency shall forward the borrower's discharge request and all relevant documentation to the Secretary for review.
+
+(*2*) The Secretary notifies the agency and the borrower of the determination upon review. If the Secretary determines that the borrower is not eligible for a discharge under paragraph (d) of this section, within 30 days after being so informed, the agency shall take the actions described in paragraph (d)(6)(ii)(H) or (I) of this section, as applicable.
+
+(*3*) If the Secretary determines that the borrower meets the requirements for a discharge under paragraph (d) of this section, the agency shall, within 30 days after being so informed, take actions required under paragraphs (d)(6)(ii)(E) and (d)(6)(ii)(G)(*1*) of this section, and the lender shall take the actions described in paragraph (d)(7)(iv) of this section, as applicable.
 
 (7) *Lender responsibilities.* (i) A lender shall comply with the requirements prescribed in paragraph (d) of this section. In the absence of specific instructions from a guaranty agency or the Secretary, if a lender receives information from a source it believes to be reliable indicating that an existing or former borrower may be eligible for a loan discharge under paragraph (d) of this section, the lender shall immediately notify the guaranty agency, and suspend any efforts to collect from the borrower on any loan received for the program of study for which the loan was made (but may continue to receive borrower payments).
 
-(ii) If the borrower fails to submit the written request and sworn statement described in paragraph (d)(3) of this section within 60 days after being notified of that option, the lender shall resume collection and shall be deemed to have exercised forbearance of payment of principal and interest from the date the lender suspended collection activity. The lender may capitalize, in accordance with § 682.202(b), any interest accrued and not paid during that period.
+(ii) If the borrower fails to submit a completed application described in paragraph (d)(3) of this section within 60 days of being notified of that option, the lender shall resume collection and shall be deemed to have exercised forbearance of payment of principal and interest from the date the lender suspended collection activity. The lender may capitalize, in accordance with § 682.202(b), any interest accrued and not paid during that period. Upon resuming collection, the lender provides the borrower with another discharge application and an explanation of the requirements and procedures for obtaining a discharge.
 
-(iii) The lender shall file a closed school claim with the guaranty agency in accordance with § 682.402(g) no later than 60 days after the lender receives the borrower's written request and sworn statement described in paragraph (d)(3) of this section. If a lender receives a payment made by or on behalf of the borrower on the loan after the lender files a claim on the loan with the guaranty agency, the lender shall forward the payment to the guaranty agency within 30 days of its receipt. The lender shall assist the guaranty agency and the borrower in determining whether the borrower is eligible for discharge of the loan.
+(iii) The lender shall file a closed school claim with the guaranty agency in accordance with § 682.402(g) no later than 60 days after the lender receives a completed application described in paragraph (d)(3) of this section from the borrower, or notification from the agency that the Secretary approved the borrower's appeal in accordance with paragraph (d)(6)(ii)(K)(*3*) of this section.
 
 (iv) Within 30 days after receiving reimbursement from the guaranty agency for a closed school claim, the lender shall notify the borrower that the loan obligation has been discharged, and request that all consumer reporting agencies to which it previously reported the status of the loan delete all adverse credit history assigned to the loan.
 
 (v) Within 30 days after being notified by the guaranty agency that the borrower's request for a closed school discharge has been denied, the lender shall resume collection and notify the borrower of the reasons for the denial. The lender shall be deemed to have exercised forbearance of payment of principal and interest from the date the lender suspended collection activity, and may capitalize, in accordance with § 682.202(b), any interest accrued and not paid during that period.
 
-(8) *Discharge without an application.* A borrower's obligation to repay an FFEL Program loan may be discharged without an application from the borrower if the -
+(8) *Discharge without an application.* (i) A borrower's obligation to repay a FFEL Program loan may be discharged without an application from the borrower if the -
 
-(i) Borrower received a discharge on a loan pursuant to 34 CFR 674.33(g) under the Federal Perkins Loan Program, or 34 CFR 685.214 under the William D. Ford Federal Direct Loan Program; or
+(A) Borrower received a discharge on a loan pursuant to 34 CFR 674.33(g) under the Federal Perkins Loan Program, or 34 CFR 685.214 under the William D. Ford Federal Direct Loan Program; or
 
-(ii) The Secretary or the guaranty agency, with the Secretary's permission, determines that the borrower qualifies for a discharge based on information in the Secretary or guaranty agency's possession.
+(B) Secretary or the guaranty agency, with the Secretary's permission, determines that the borrower qualifies for a discharge based on information in the Secretary or guaranty agency's possession.
+
+(ii) With respect to schools that closed on or after November 1, 2013, a borrower's obligation to repay a FFEL Program loan will be discharged without an application from the borrower if the Secretary or guaranty agency determines that the borrower did not subsequently re-enroll in any title IV-eligible institution within a period of three years after the school closed.
 
 (e) *False certification by a school of a student's eligibility to borrow and unauthorized disbursements* - (1) *General.* (i) The Secretary reimburses the holder of a loan received by a borrower on or after January 1, 1986, and discharges a current or former borrower's obligation with respect to the loan in accordance with the provisions of paragraph (e) of this section, if the borrower's (or the student for whom a parent received a PLUS loan) eligibility to receive the loan was falsely certified by an eligible school. On or after July 1, 2006, the Secretary reimburses the holder of a loan, and discharges a borrower's obligation with respect to the loan in accordance with the provisions of paragraph (e) of this section, if the borrower's eligibility to receive the loan was falsely certified as a result of a crime of identity theft. For purposes of a false certification discharge, the term “borrower” includes all endorsers on a loan. A student's or other individual's eligibility to borrow shall be considered to have been falsely certified by the school if the school -
 
@@ -454,7 +450,7 @@ Link to an amendment published at 81 FR 76079, Nov. 1, 2016.This amendment was, 
 
 (ii) If the guaranty agency receives information it believes to be reliable indicating that a borrower whose loan is held by the agency may be eligible for a discharge under paragraph (e) of this section, the agency shall immediately suspend any efforts to collect from the borrower on any loan received for the program of study for which the loan was made (but may continue to receive borrower payments), and inform the borrower of the procedures for requesting a discharge.
 
-(iii) If the borrower fails to submit the written request and sworn statement described in paragraph (e)(3) of this section within 60 days of being notified of that option, the guaranty agency shall resume collection and shall be deemed to have exercised forbearance of payment of principal and interest from the date it suspended collection activity. The agency may capitalize, in accordance with § 682.202(b), any interest accrued and not paid during that period.
+(iii) If the borrower fails to submit the written request and sworn statement described in paragraph (e)(3) of this section within 60 days of being notified of that option, the guaranty agency shall resume collection and shall be deemed to have exercised forbearance of payment of principal and interest from the date it suspended collection activity.
 
 (iv) Upon receipt of a discharge claim filed by a lender or a request submitted by a borrower with respect to a loan held by the guaranty agency, the agency shall have up to 90 days to determine whether the discharge should be granted. The agency shall review the borrower's request and supporting sworn statement in light of information available from the records of the agency and from other sources, including other guaranty agencies, state authorities, and cognizant accrediting associations.
 
@@ -978,4 +974,4 @@ Link to an amendment published at 81 FR 76079, Nov. 1, 2016.This amendment was, 
 
 (5) Includes the period between the filing of the petition for relief and the date on which the proceeding is completed or dismissed, unless payments have been made during that period in amounts sufficient to meet the amount owed under the repayment schedule in effect when the petition was filed.
 
-(Approved by the Office of Management and Budget under control number 1845-0020)(Authority: 20 U.S.C. 1070g, 1078, 1078-1, 1078-2, 1078-3, 1082, 1087)[57 FR 60323, Dec. 18, 1992]Editorial Note:For Federal Register citations affecting § 682.402, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Approved by the Office of Management and Budget under control number 1845-0020)(Authority: 20 U.S.C. 1070g, 1078, 1078-1, 1078-2, 1078-3, 1082, 1087)[57 FR 60323, Dec. 18, 1992]Editorial Note:For Federal Register citations affecting § 682.402, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,5 +1,7 @@
 ##### 852.236-84 Schedule of work progress. #####
 
+Link to an amendment published at 84 FR 9975, Mar. 19, 2019.
+
 As prescribed in 836.575, insert the following clause:
 
 Schedule of Work Progress (NOV 1984)
