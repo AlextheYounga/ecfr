@@ -1,6 +1,6 @@
 ##### § 1.267A-7 Applicability dates. #####
 
-(a) *General rule.* Except as provided in paragraph (b) of this section, §§ 1.267A-1 through 1.267A-6 apply to taxable years ending on or after December 20, 2018, provided that such taxable years begin after December 31, 2017. However, taxpayers may apply the regulations in §§ 1.267A-1 through 1.267A-6 in their entirety for taxable years beginning after December 31, 2017, and ending before December 20, 2018. In lieu of applying the regulations in §§ 1.267A-1 through 1.267A-6, taxpayers may apply the provisions matching §§ 1.267A-1 through 1.267A-6 from the Internal Revenue Bulletin (IRB) 2019-03 (*https://www.irs.gov/pub/irs-irbs/irb19-03.pdf*) in their entirety for all taxable years ending on or before April 8, 2020.
+(a) *General rule.* Except as provided in paragraph (b) of this section, §§ 1.267A-1 through 1.267A-6 apply to taxable years ending on or after December 20, 2018, provided that such taxable years begin after December 31, 2017. However, taxpayers may apply the regulations in §§ 1.267A-1 through 1.267A-6 in their entirety (including by taking into account paragraph (b) of this section) for taxable years beginning after December 31, 2017, and ending before December 20, 2018. In lieu of applying the regulations in §§ 1.267A-1 through 1.267A-6 (including paragraph (b) of this section), taxpayers may apply the provisions matching §§ 1.267A-1 through 1.267A-6 (including by taking into account the provision matching paragraph (b) of this section) from the Internal Revenue Bulletin (IRB) 2019-03 (*https://www.irs.gov/pub/irs-irbs/irb19-03.pdf*) in their entirety for all taxable years ending on or before April 8, 2020.
 
 (b) *Special rules.* The following special rules apply regarding applicability dates:
 
@@ -14,4 +14,4 @@
 
 (5) Section 1.267A-5(b)(5)(ii)(B) (interest equivalent rules) applies to transactions entered into on or after April 8, 2020.
 
-[T.D. 9896, 85 FR 19836, Apr. 8, 2020]
+[T.D. 9896, 85 FR 19836, Apr. 8, 2020, as amended by 85 FR 48651, Aug. 12, 2020]

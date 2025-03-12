@@ -4,4 +4,4 @@
 
 (b) *Classification.* Class II (special controls). The device, when it is a bile collecting bag or a surgical biliary catheter that does not include a balloon component, is exempt from the premarket notification procedures in subpart E of part 807 of this chapter subject to the limitations in § 876.9.
 
-[48 FR 53023, Nov. 23, 1983, as amended at 84 FR 71813, Dec. 30, 2019]
+[48 FR 53023, Nov. 23, 1983, as amended at 84 FR 71814, Dec. 30, 2019]

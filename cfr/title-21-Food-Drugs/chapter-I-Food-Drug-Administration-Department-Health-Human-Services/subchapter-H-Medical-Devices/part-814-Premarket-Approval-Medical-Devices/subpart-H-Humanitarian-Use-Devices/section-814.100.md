@@ -2,7 +2,7 @@
 
 (a) This subpart H implements sections 515A and 520(m) of the act.
 
-(b) The purpose of section 520(m) is, to the extent consistent with the protection of the public health and safety and with ethical standards, to encourage the discovery and use of devices intended to benefit patients in the treatment or diagnosis of diseases or conditions that affect or are manifested in not more than 8,000individuals in the United States per year. This subpart provides procedures for obtaining:
+(b) The purpose of section 520(m) is, to the extent consistent with the protection of the public health and safety and with ethical standards, to encourage the discovery and use of devices intended to benefit patients in the treatment or diagnosis of diseases or conditions that affect or are manifested in not more than 8,000 individuals in the United States per year. This subpart provides procedures for obtaining:
 
 (1) HUD designation of a medical device; and
 

@@ -28,7 +28,7 @@ The food additive chromium propionate may be safely used in animal feed as a sou
 
 (d) The additive shall be incorporated into feed as follows:
 
-(1) It shall be incorporated into each ton of complete feed by adding no less than one pound of a premix containing no more than 181.4 milligrams of added chromium from chromium propionate per pound.
+(1) It shall be incorporated into each ton of feed by adding no less than one pound of a premix containing no more than 181.4 milligrams of added chromium from chromium propionate per pound.
 
 (2) The premix manufacturer shall follow good manufacturing practices in the production of chromium propionate premixes. Inventory, production, and distribution records must provide a complete and accurate history of product production.
 
@@ -40,7 +40,7 @@ The food additive chromium propionate may be safely used in animal feed as a sou
 
 (e) To assure safe use of the additive in addition to the other information required by the Federal Food, Drug, and Cosmetic Act:
 
-(1) The label and labeling of the additive, any feed premix, and complete feed shall contain the name of the additive.
+(1) The label and labeling of the additive, any feed premix, and feed shall contain the name of the additive.
 
 (2) The label and labeling of the additive and any feed premix shall also contain:
 
@@ -52,4 +52,4 @@ The food additive chromium propionate may be safely used in animal feed as a sou
 
 (B) For feed for horses, “Chromium from all sources of supplemental chromium cannot exceed 4 milligrams per horse per day.”
 
-[81 FR 35611, June 3, 2016, as amended at 85 FR 14566, Mar. 13, 2020]
+[81 FR 35611, June 3, 2016, as amended at 85 FR 14566, Mar. 13, 2020; 85 FR 48650, Aug. 12, 2020]
