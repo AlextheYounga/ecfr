@@ -1,5 +1,7 @@
 ##### § 73.825 Protection to reception of TV channel 6. #####
 
+Link to an amendment published at 85 FR 35573, June 11, 2020.
+
 (a) LPFM stations will be authorized on Channels 201 through 220 only if the pertinent minimum separation distances in the following table are met with respect to all full power TV Channel 6 stations.
 
 |FM channel number|LPFM to TV  <br/>channel 6 (km)|

@@ -1,5 +1,7 @@
 ##### § 73.816 Antennas. #####
 
+Link to an amendment published at 85 FR 35573, June 11, 2020.
+
 (a) Permittees and licensees may employ nondirectional antennas with horizontal only polarization, vertical only polarization, circular polarization or elliptical polarization.
 
 (b) Directional antennas generally will not be authorized and may not be utilized in the LPFM service, except as provided in paragraph (c) of this section.

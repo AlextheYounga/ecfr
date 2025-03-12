@@ -4,12 +4,4 @@
 
 (b) The Commission may exempt a position from the provisions of the ADEA if the Commission establishes a maximum age requirement for the position on the basis of a determination that age is a bona fide occupational qualification necessary to the performance of the duties of the position.
 
-(c) When an individual has filed an administrative complaint alleging age discrimination that is not a mixed case, administrative remedies will be considered to be exhausted for purposes of filing a civil action:
-
-(1) 180 days after the filing of an individual complaint if the agency has not taken final action and the individual has not filed an appeal or 180 days after the filing of a class complaint if the agency has not issued a final decision;
-
-(2) After final action on an individual or class complaint if the individual has not filed an appeal; or
-
-(3) After the issuance of a final decision by the Commission on an appeal or 180 days after the filing of an appeal if the Commission has not issued a final decision.
-
-[57 FR 12646, Apr. 10, 1992, as amended at 64 FR 37658, July 12, 1999; 74 FR 3430, Jan. 21, 2009]
+[57 FR 12646, Apr. 10, 1992, as amended at 64 FR 37658, July 12, 1999; 74 FR 3430, Jan. 21, 2009; 85 FR 35561, June 11, 2020]

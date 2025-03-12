@@ -1,5 +1,7 @@
 ##### § 73.512 Special procedures applicable to Class D noncommercial educational stations. #####
 
+Link to an amendment published at 85 FR 35573, June 11, 2020.
+
 (a) All Class D stations seeking renewal of license for any term expiring June 1, 1980, or thereafter shall comply with the requirements set forth below and shall simultaneously file an application on FCC Form 340, containing full information regarding such compliance with the provisions set forth below.
 
 (1) To the extent possible, each applicant shall select a commercial FM channel on which it proposes to operate in lieu of the station's present channel. The station may select any commercial channel provided no objectionable interference, as set forth in § 73.509(b), would be caused. The application shall include the same engineering information as is required to change the frequency of an existing station and any other information necessary to establish the fact that objectionable interference would not result. If no commerical channel is available where the station could operate without causing such interference, the application shall set forth the basis upon which this conclusion was reached.

@@ -10,6 +10,22 @@
 
 (2) *Calculation* - (i) *Application of the principles of section 6655* - (A) *In general.* Installment payments of 1446 tax required during the partnership's taxable year are based upon partnership ECTI for the portion of the partnership taxable year to which the payments relate, and, except as set forth in this paragraph (b)(2) or paragraph (b)(3) of this section, shall be calculated using the principles of section 6655. The principles of section 6655, except as otherwise provided in § 1.6655-2, are applied to annualize the partnership's items of effectively connected income, gain, loss, and deduction to determine each foreign partner's allocable share of partnership ECTI. Each foreign partner's allocable share of partnership ECTI is then multiplied by the relevant applicable percentage for the type of income allocable to the foreign partner under paragraph (a)(2) of this section. The respective 1446 tax amounts are then added for each foreign partner to yield an annualized 1446 tax with respect to such partner. The installment of 1446 tax due with respect to a foreign partner equals the excess of the section 6655(e)(2)(B)(ii) percentage of the annualized 1446 tax for that partner (or, if applicable, the adjusted seasonal amount) for the relevant installment period, over the aggregate amount of 1446 tax installment payments previously paid with respect to that partner during the partnership's taxable year. The partnership's total 1446 tax installment payment equals the sum of the installment payments due for such period on behalf of all the partnership's foreign partners.
 
+(B) *Calculation rules when certificates are submitted under § 1.1446-6.* (*1*) To the extent applicable, in computing the 1446 tax due with respect to a foreign partner, a partnership may consider a certificate received from such partner under § 1.1446-6(c)(1)(i) or (ii) and the amount of state and local taxes permitted to be considered under § 1.1446-6(c)(1)(iii). For the purposes of applying this paragraph (b)(2)(i)(B), a partnership shall first annualize the partner's allocable share of the partnership's items of effectively connected income, gain, deduction, and loss before -
+
+(*i*) Considering under § 1.1446-6(c)(1)(i) the partner's certified deductions and losses;
+
+(*ii*) Determining under § 1.1446-6(c)(1)(ii) whether the 1446 tax otherwise due with respect to that partner is less than $1,000 (determined with regard to any certified deductions or losses); or
+
+(*iii*) Considering under § 1.1446-6(c)(1)(iii) the amount of state and local taxes withheld and remitted on behalf of the partner.
+
+(*2*) The amount of the limitation provided in § 1.1446-6(c)(1)(i)(C) shall be based on the partner's allocable share of these annualized amounts. For any installment period in which the partnership considers a partner's certificate, the partnership must also consider the following events to the extent they occur prior to the due date for paying the 1446 tax for such installment period -
+
+(*i*) The receipt of an updated certificate or status update from the partner under § 1.1446-6(c)(2)(ii)(B) certifying an amount of deductions or losses that is less than the amount reflected on the superseded certificate (see § 1.1446-6(e)(2) *Example 4*);
+
+(*ii*) The failure to receive an updated certificate or status update from the partner that should have been provided under § 1.1446-6(c)(2)(ii)(B); and
+
+(*iii*) The receipt of a notification from the IRS under § 1.1446-6(c)(3) or (5) (see § 1.1446-6(e)(2) *Example 5*).
+
 (ii) *Annualization methods.* A partnership that decides to annualize its income for the taxable year shall use one of the annualization methods set forth in section 6655(e) and the regulations thereunder, and as described in the forms and instructions for Form 8804, “Annual Return for Partnership Withholding Tax (Section 1446),” Form 8805, “Foreign Partner's Information Statement of Section 1446 Withholding Tax,” and Form 8813, “Partnership Withholding Tax Payment Voucher.”
 
 (iii) *Partner's estimated tax payments.* In computing its installment payments of 1446 tax, a partnership may not take into account a partner's estimated tax payments.
@@ -160,4 +176,4 @@ Example 3. Domestic partnership fails to pay 1446 tax but sole foreign partner f
 
 (g) *Applicability date.* This section applies to returns filed on or after January 30, 2020. Section 1.1446-3T (as contained in 26 CFR part 1, revised April 2019) applies to returns filed before January 30, 2020.
 
-[T.D. 9200, 70 FR 28717, May 18, 2005, as amended by T.D. 9394, 73 FR 23074, Apr. 29, 2008; T.D. 9821, 82 FR 33444, July 20, 2017; T.D. 9892, 85 FR 5324, Jan. 30, 2020]
+[T.D. 9200, 70 FR 28717, May 18, 2005, as amended by T.D. 9394, 73 FR 23074, Apr. 29, 2008; T.D. 9821, 82 FR 33444, July 20, 2017; T.D. 9892, 85 FR 5324, Jan. 30, 2020; T.D. 9394, 85 FR 35558, June 11, 2020]

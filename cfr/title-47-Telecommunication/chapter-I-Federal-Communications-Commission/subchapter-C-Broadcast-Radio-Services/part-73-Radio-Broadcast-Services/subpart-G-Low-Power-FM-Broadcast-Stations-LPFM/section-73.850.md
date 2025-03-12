@@ -1,5 +1,7 @@
 ##### § 73.850 Operating schedule. #####
 
+Link to an amendment published at 85 FR 35573, June 11, 2020.
+
 (a) All LPFM stations will be licensed for unlimited time operation, except those stations operating under a time sharing agreement pursuant to § 73.872.
 
 (b) All LPFM stations are required to operate at least 36 hours per week, consisting of at least 5 hours of operation per day on at least 6 days of the week; however, stations licensed to educational institutions are not required to operate on Saturday or Sunday or to observe the minimum operating requirements during those days designated on the official school calendar as vacation or recess periods.

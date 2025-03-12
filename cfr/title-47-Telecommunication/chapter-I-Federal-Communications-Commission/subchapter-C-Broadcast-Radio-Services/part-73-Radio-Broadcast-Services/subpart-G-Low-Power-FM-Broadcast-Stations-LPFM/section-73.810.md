@@ -1,5 +1,7 @@
 ##### § 73.810 Third adjacent channel interference. #####
 
+Link to an amendment published at 85 FR 35573, June 11, 2020.
+
 (a) *LPFM Stations Licensed at Locations That Do Not Satisfy Third-Adjacent Channel Minimum Distance Separations.* An LPFM station licensed at a location that does not satisfy the third-adjacent channel minimum distance separations set forth in § 73.807 is subject to the following provisions:
 
 (1) Such an LPFM station will not be permitted to continue to operate if it causes any actual third-adjacent channel interference to:

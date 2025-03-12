@@ -1,7 +1,5 @@
 ##### § 23.151 Definitions applicable to margin requirements. #####
 
-Link to an amendment published at 85 FR 27678, May 11, 2020.
-
 For the purposes of §§ 23.150 through 23.161:
 
 *Bank holding company* has the meaning specified in section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841).
@@ -104,7 +102,7 @@ For the purposes of §§ 23.150 through 23.161:
 
 (ii) A multilateral development bank;
 
-(iii) The Bank for International Settlements;
+(iii) The Bank for International Settlements and the European Stability Mechanism;
 
 (iv) An entity that is exempt from the definition of financial entity pursuant to section 2(h)(7)(C)(iii) of the Act and implementing regulations;
 
@@ -234,4 +232,4 @@ For the purposes of §§ 23.150 through 23.161:
 
 *Variation margin amount* means the cumulative mark-to-market change in value to a covered swap entity of an uncleared swap, as measured from the date it is entered into (or in the case of an uncleared swap that has a positive or negative value to a covered swap entity on the date it is entered into, such positive or negative value plus any cumulative mark-to-market change in value to the covered swap entity of an uncleared swap after such date), less the value of all variation margin previously collected, plus the value of all variation margin previously posted with respect to such uncleared swap.
 
-[81 FR 695, Jan. 6, 2016, as amended at 83 FR 60346, Nov. 26, 2018]
+[81 FR 695, Jan. 6, 2016, as amended at 83 FR 60346, Nov. 26, 2018; 85 FR 27678, May 11, 2020]

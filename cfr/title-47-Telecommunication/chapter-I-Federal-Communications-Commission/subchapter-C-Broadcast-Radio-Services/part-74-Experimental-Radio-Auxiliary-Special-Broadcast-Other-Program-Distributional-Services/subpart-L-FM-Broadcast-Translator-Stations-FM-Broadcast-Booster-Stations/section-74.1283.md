@@ -1,5 +1,7 @@
 ##### § 74.1283 Station identification. #####
 
+Link to an amendment published at 85 FR 35574, June 11, 2020.
+
 (a) The call sign of an FM broadcast translator station will consist of the initial letter K or W followed by the channel number assigned to the translator and two letters. The use of the initial letter will generally conform to the pattern used in the broadcast service. The two letter combinations following the channel number will be assigned in order and requests for the assignment of particular combinations of letters will not be considered.
 
 (b) The call sign of an FM booster station will consist of the call sign of the primary station followed by the letters “FM” and the number of the booster station being authorized, e.g., WFCCFM-1.

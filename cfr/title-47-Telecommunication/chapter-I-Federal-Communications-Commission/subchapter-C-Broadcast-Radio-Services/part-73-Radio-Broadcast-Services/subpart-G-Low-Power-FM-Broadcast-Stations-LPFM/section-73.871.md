@@ -1,5 +1,7 @@
 ##### § 73.871 Amendment of LPFM broadcast station applications. #####
 
+Link to an amendment published at 85 FR 35574, June 11, 2020.
+
 (a) New and major change applications may be amended without limitation during the pertinent filing window.
 
 (b) Amendments that would improve the comparative position of new and major change applications will not be accepted after the close of the pertinent filing window.

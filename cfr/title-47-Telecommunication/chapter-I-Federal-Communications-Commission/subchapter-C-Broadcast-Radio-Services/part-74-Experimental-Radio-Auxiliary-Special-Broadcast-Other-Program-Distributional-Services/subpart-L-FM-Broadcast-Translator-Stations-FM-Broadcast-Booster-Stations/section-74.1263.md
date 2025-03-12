@@ -1,5 +1,7 @@
 ##### § 74.1263 Time of operation. #####
 
+Link to an amendment published at 85 FR 35574, June 11, 2020.
+
 (a) The licensee of an FM translator or booster station is not required to adhere to any regular schedule of operation. However, the licensee of an FM translator or booster station is expected to provide a dependable service to the extent that such is within its control and to avoid unwarranted interruptions to the service provided.
 
 (b) An FM booster or FM translator station rebroadcasting the signal of an AM or FM primary station shall not be permitted to radiate during extended periods when signals of the primary station are not being retransmitted. Notwithstanding the foregoing, FM translators rebroadcasting Class D AM stations may continue to operate during nighttime hours only if the AM station has operated within the last 24 hours.
