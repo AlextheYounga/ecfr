@@ -1,39 +1,17 @@
-##### § 2402.8 Fees. #####
+##### § 2402.8 Appeal of denials. #####
 
-(a) *Fees generally required.* OSTP shall use the most efficient and least costly methods to comply with requests for documents made under FOIA. OSTP shall charge fees in accordance with paragraph (b) of this section unless fees are waived in accordance with § 2402.9.
+(a) *Right to administrative appeal.* A requester has the right to appeal to the FOIA Appeals Officer any adverse determination.
 
-(b) *Calculation of fees.* In general, fees for searching, reviewing, and duplication will be based on the direct costs of these services, including the average hourly salary (base plus locality payment plus 16 percent) for the employee(s) making the search.
+(b) *Notice of appeal.* (1) *Time for appeal.* To be considered timely, an appeal must be postmarked, or in the case of electronic submissions, transmitted no later than ninety (90) calendar days after the date of the initial adverse determination or after the time limit for response by OSTP has expired. Prior to submitting an appeal, the requester must pay in full any outstanding fees associated with the request.
 
-(1) *Search fee.* Search fees may be charged even if responsive documents are not located or if they are located but withheld on the basis of an exemption. However, search fees shall be limited or not charged as follows:
+(2) *Form of appeal.* An appeal shall be initiated by filing a written notice of appeal. The notice shall specify the tracking number assigned to the FOIA request by OSTP and be accompanied by copies of the original request and adverse determination. To expedite the appellate process and give the requester an opportunity to present his or her arguments, the notice should contain a brief statement of the reason(s) why the requester believes the adverse determination to be in error. Requesters may submit appeals by mail or electronically. If sent by regular mail, appeals shall be sent to: Chief FOIA Officer, Office of Science and Technology Policy, Eisenhower Executive Office Building, 1650 Pennsylvania Avenue NW, Washington, DC 20504. Appeals sent via electronic mail shall be submitted to *ostpfoia@ostp.eop.gov.* Updates to this contact information will be made on the OSTP website. To facilitate handling, the requester should mark both the appeal letter and envelope, if submitted by mail, or subject line of the transmission, if submitted electronically, with “Freedom of Information Act Appeal.”
 
-(i) *Easily identifiable records.* Search fees shall not be charged for records that are identified by the requester by title of the record and name of the person possessing the record
+(c) *Decisions on appeals.* The FOIA Appeals Officer shall make a determination in writing on the appeal under 5 U.S.C. 552(a)(6)(A)(ii) within twenty (20) working days after the receipt of the appeal. If the denial is wholly or partially upheld, the Chief FOIA Officer shall:
 
-(ii) *Educational, scientific or news media requests.* No search fee shall be charged if the request is not sought for a commercial use and is made by an educational or scientific institution, whose purpose is scholarly or scientific research, or by a representative of the news media.
+(1) Notify the requester that judicial review is available pursuant to 5 U.S.C. 552(a)(4)(B)-(G); and
 
-(iii) *Other non-commercial requests.* No search fee shall be charged for the first two hours of searching if the request is not for a commercial use but is not by an educational or scientific institution, or a representative of the news media.
+(2) Notify the requester that the Office of Government Information Services (OGIS) offers mediation services to resolve disputes between FOIA requesters and Federal agencies as a non-exclusive alternative to litigation. Contact information for OGIS is: Office of Government Information Services, National Archives and Records Administration, 8601 Adelphi Road-OGIS, College Park, MD 20740, Email: *ogis@nara.gov,* Telephone: 202-741-5770, Facsimile: 202-741-5769, Toll-free: 1-877-684-6448.
 
-(iv) *Requests for records about self.* No search fee shall be charged to search for records performed under the terms of the Privacy Act, 5 U.S.C. 552a(f)(5).
+(d) *Dispute resolution services.* Dispute resolution is a voluntary process. If OSTP agrees to participate in the dispute resolution services provided by the Office of Government Information Services, it will actively engage as a partner to the process in an attempt to resolve the dispute.
 
-(2) *Review fee.* A review fee shall be charged only for commercial requests. A review fee shall be charged for the initial examination of documents located in response to a request to determine the documents may be withheld from disclosure and for the redaction of document portions exempt from disclosure. Records or portions of records withheld in full under an exemption that is subsequently determined not to apply may be reviewed again to determine the applicability of other exemptions not previously considered. The costs for such a subsequent review are also assessable.
-
-(3) *Duplication fee.* Records will be photocopied at a rate of $0.10 per page. For other methods of reproduction or duplication, OSTP will charge the actual direct costs of producing the document(s). Duplication fees shall not be charged for the first 100 pages of copies unless the copies are requested for a commercial use.
-
-(c) *Aggregation of requests.* When OSTP determines that a requester, or a group of requesters acting in concert, is attempting to evade the assessment of fees by submitting multiple requests in the place of a single more complex request, OSTP may aggregate any such requests and charge accordingly.
-
-(d) *Fees likely to exceed $25.* If the total fee charges are likely to exceed $25, OSTP shall notify the requester of the estimated amount of the charges. The estimate shall include a breakdown of the fees for search, review, and/or duplication. The notification shall offer the requester an opportunity to confer with the FOIA Public Liaison to reformulate the request to meet the requester's needs at a lower cost.
-
-(e) *Advance payments.* Advance payment of fees will generally not be required. If, however, charges are likely to exceed $250, OSTP shall notify the requester of the likely cost and:
-
-(1) Obtain satisfactory assurance of full payment; or
-
-(2) Regardless of when a FOIA request becomes perfected under § 2402.4(c), if the requester has no history of payment or has failed to pay a fee within 30 days of the date of billing, OSTP may require the requester to pay the full amount of any fees owed and/or to make an advance payment of the full amount of the estimated charges before OSTP begins to process the new request or a pending request from that requester. In this case, OSTP's working days to process the request as described in § 2402.5 will not begin to run until the date OSTP receives the full amount of any fees owed and/or the advance payment of the full amount of the estimated charges.
-
-(f) *Other charges.* OSTP will recover the full costs of providing services such as those enumerated below when it elects to provide them:
-
-(1) Certifying that records are true copies;
-
-(2) Sending records by special methods such as express mail.
-
-(g) *Remittances.* Remittances shall be in the form either of a personal check or bank draft drawn on a bank in the United States, or a postal money order. Remittances shall be made payable to the Treasury of the United States and mailed to the Chief FOIA Officer, Office of Science and Technology Policy, Eisenhower Executive Office Building, 1650 Pennsylvania Ave. NW., Washington, DC 20504. Updates to this contact information will be made on the OSTP Web site.
-
-(h) *Receipts and refunds.* A receipt for fees paid will be given upon request. A refund of fees paid for services actually rendered will not be made.
+(e) *When appeal is required.* Before seeking judicial review of OSTP's adverse determination in Federal district court, a requester generally must first submit a timely administrative appeal.

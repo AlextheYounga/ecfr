@@ -1,7 +1,3 @@
 ##### § 2402.1 Purpose and scope. #####
 
-The regulations in this part prescribe procedures to obtain information and records from the Office of Science and Technology Policy (OSTP) under the Freedom of Information Act (FOIA), 5 U.S.C. 552. The regulations in this part apply only to records that are:
-
-(a) Either created or obtained by OSTP; and
-
-(b) Under OSTP control at the time of the FOIA request.
+The regulations in this part prescribe procedures by which individuals may obtain access to the Office of Science and Technology Policy's (OSTP) agency records under the Freedom of Information Act (FOIA), 5 U.S.C. 552, as amended, as well as the procedures OSTP must follow in response to requests for records under the FOIA. The regulations should be read together with the FOIA and the Office of Management and Budget's (OMB's) “Uniform Freedom of Information Fee Schedule and Guidelines,” which provides information about access to records. All requests for access to information contained within a system of records pursuant to the Privacy Act of 1974, 5 U.S.C. 552a, shall be processed in accordance with these regulations as well as those contained in 32 CFR part 2403.

@@ -1,4 +1,4 @@
-##### § 9.16 General obligations - direct 911 dialing, notification, and dispatchable location. #####
+##### § 9.16 General obligations—direct 911 dialing, notification, and dispatchable location. #####
 
 (a) *Obligation of manufacturers, importers, sellers, and lessors.* (1) A person engaged in the business of manufacturing, importing, selling, or leasing multi-line telephone systems may not manufacture or import for use in the United States, or sell or lease or offer to sell or lease in the United States, a multi-line telephone system, unless such system is pre-configured such that, when properly installed in accordance with paragraph (b) of this section, a user may directly initiate a call to 911 from any station equipped with dialing facilities, without dialing any additional digit, code, prefix, or post-fix, including any trunk-access code such as the digit 9, regardless of whether the user is required to dial such a digit, code, prefix, or post-fix for other calls.
 
@@ -22,4 +22,4 @@
 
 (iii) Dispatchable location requirements for off-premises devices associated with a multi-line telephone system. No later than January 6, 2022, an off-premises device associated with a multi-line telephone system shall provide to the appropriate PSAP automatic dispatchable location, if technically feasible; otherwise, it shall provide dispatchable location based on end user manual update, or enhanced location information, which may be coordinate-based, consisting of the best available location that can be obtained from any available technology or combination of technologies at reasonable cost.
 
-(c) *Compliance date.* Paragraphs (b)(3)(i) through (iii) of this section contain information-collection and recordkeeping requirements. Compliance will not be required until after approval by the Office of Management and Budget. The Commission will publish a document in the Federal Register announcing that compliance date and revising this paragraph accordingly.
+[84 FR 66760, Dec. 5, 2019, as amended at 85 FR 78022, Dec. 3, 2020]

@@ -1,5 +1,7 @@
 ##### § 120.471 What are the minimum capital requirements for SBLCs? #####
 
+Link to an amendment published at 85 FR 78215, Dec. 4, 2020.
+
 (a) *Minimum capital requirements.* Each SBLC must maintain, at a minimum, unencumbered paid-in capital and paid-in surplus of at least $1,000,000, or ten percent of the aggregate of its share of all outstanding loans, whichever is more.
 
 (b) *Composition of capital.* For purposes of complying with paragraph (a) of this section, capital consists only of one or more of the following:

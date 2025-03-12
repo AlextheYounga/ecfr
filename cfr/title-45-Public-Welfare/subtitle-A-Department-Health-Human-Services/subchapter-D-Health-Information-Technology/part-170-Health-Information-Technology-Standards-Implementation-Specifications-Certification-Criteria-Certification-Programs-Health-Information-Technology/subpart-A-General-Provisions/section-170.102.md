@@ -1,7 +1,5 @@
 ##### § 170.102 Definitions. #####
 
-Link to an amendment published at 85 FR 70082, Nov. 4, 2020.
-
 For the purposes of this part:
 
 *2015 Edition Base EHR* means an electronic record of health-related information on an individual that:
@@ -18,13 +16,13 @@ For the purposes of this part:
 
 (iv) To exchange electronic health information with, and integrate such information from other sources; and
 
-(3) Has been certified to the certification criteria adopted by the Secretary in -
+(3) Has been certified to the certification criteria adopted by the Secretary in—
 
 (i) Section 170.315(a)(1), (2), or (3); (a)(5), (a)(9), (a)(14), (b)(1), (c)(1), (g)(7) and (9), and (h)(1) or (2);
 
-(ii) Section 170.315(g)(8) or (10) until May 2, 2022; and
+(ii) Section 170.315(g)(8) or (10) for the period before December 31, 2022; and
 
-(iii) Section 170.315(g)(10) on and after May 2, 2022.
+(iii) Section 170.315(g)(10) on and after December 31, 2022.
 
 *2015 Edition health IT certification criteria* means the certification criteria in § 170.315.
 
@@ -122,7 +120,7 @@ For the purposes of this part:
 
 *Implementation specification* means specific requirements or instructions for implementing a standard.
 
-*Interoperability* is, with respect to health information technology, such health information technology that -
+*Interoperability* is, with respect to health information technology, such health information technology that—
 
 (1) Enables the secure exchange of electronic health information with, and use of electronic health information from, other health information technology without special effort on the part of the user;
 
@@ -152,4 +150,4 @@ For the purposes of this part:
 
 *Unique device identifier* is defined as it is in 21 CFR 801.3.
 
-[75 FR 2042, Jan. 13, 2010, as amended at 75 FR 36203, June 24, 2010; 75 FR 44649, July 28, 2010; 77 FR 54283, Sept. 4, 2012; 78 FR 65887, Nov. 4, 2013; 79 FR 52933, Sept. 4, 2014; 79 FR 54477, 54478, Sept. 11, 2014; 80 FR 62741, Oct. 16, 2015; 80 FR 76871, Dec. 11, 2015; 85 FR 25939, May 1, 2020]
+[75 FR 2042, Jan. 13, 2010, as amended at 75 FR 36203, June 24, 2010; 75 FR 44649, July 28, 2010; 77 FR 54283, Sept. 4, 2012; 78 FR 65887, Nov. 4, 2013; 79 FR 52933, Sept. 4, 2014; 79 FR 54477, 54478, Sept. 11, 2014; 80 FR 62741, Oct. 16, 2015; 80 FR 76871, Dec. 11, 2015; 85 FR 25939, May 1, 2020; 85 FR 70082, Nov. 4, 2020]

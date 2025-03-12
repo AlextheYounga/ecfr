@@ -1,10 +1,8 @@
 ##### § 170.299 Incorporation by reference. #####
 
-Link to an amendment published at 85 FR 70082, Nov. 4, 2020.
-
 (a) Certain material is incorporated by reference into this subpart with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Department of Health and Human Services must publish a document in the Federal Register and the material must be available to the public. All approved material is available for inspection at U.S. Department of Health and Human Services, Office of the National Coordinator for Health Information Technology, 330 C Street SW., Washington, DC 20201, call ahead to arrange for inspection at 202-690-7151, and is available from the sources listed below. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html*.
 
-(b) American National Standards Institute, Health Information Technology Standards Panel (HITSP) Secretariat, 25 West 43rd Street - Fourth Floor, New York, NY 10036, *http://www.hitsp.org.*
+(b) American National Standards Institute, Health Information Technology Standards Panel (HITSP) Secretariat, 25 West 43rd Street—Fourth Floor, New York, NY 10036, *http://www.hitsp.org.*
 
 (1) HITSP Summary Documents Using HL7 Continuity of Care Document (CCD) Component, HITSP/C32, July 8, 2009, Version 2.5, IBR approved for § 170.205.
 
@@ -18,7 +16,7 @@ Link to an amendment published at 85 FR 70082, Nov. 4, 2020.
 
 (d) Centers for Disease Control and Prevention, 2500 Century Parkway, Mailstop E-78, Atlanta, GA 30333, USA (800-232-4636); *http://www.cdc.gov/ehrmeaningfuluse/.*
 
-(1) HL7 Standard Code Set CVX - Vaccines Administered, July 30, 2009, IBR approved for § 170.207.
+(1) HL7 Standard Code Set CVX—Vaccines Administered, July 30, 2009, IBR approved for § 170.207.
 
 (2) [Reserved]
 
@@ -40,11 +38,11 @@ Link to an amendment published at 85 FR 70082, Nov. 4, 2020.
 
 (12) HL7 2.5.1 Implementation Guide for Immunization Messaging, Release 1.5, October 1, 2014, IBR approved for § 170.205(e).
 
-(13) HL7 Version 2.5.1 Implementation Guide for Immunization Messaging (Release 1.5) - Addendum, July 2015, IBR approved for § 170.205(e).
+(13) HL7 Version 2.5.1 Implementation Guide for Immunization Messaging (Release 1.5)—Addendum, July 2015, IBR approved for § 170.205(e).
 
-(14) HL7 Standard Code Set CVX - Vaccines Administered, updates through August 17, 2015, IBR approved for § 170.207(e).
+(14) HL7 Standard Code Set CVX—Vaccines Administered, updates through August 17, 2015, IBR approved for § 170.207(e).
 
-(15) National Drug Code Directory (NDC) - Vaccine NDC Linker, updates through August 17, 2015, IBR approved for § 170.207(e).
+(15) National Drug Code Directory (NDC)—Vaccine NDC Linker, updates through August 17, 2015, IBR approved for § 170.207(e).
 
 (16) CDC Race and Ethnicity Code Set Version 1.0 (March 2000), IBR approved for § 170.207(f).
 
@@ -56,9 +54,9 @@ Link to an amendment published at 85 FR 70082, Nov. 4, 2020.
 
 (3) Crosswalk: Medicare Provider/Supplier to Healthcare Provider Taxonomy, April 2, 2015, IBR approved for § 170.207(r).
 
-(4) CMS Implementation Guide for Quality Reporting Document Architecture Category I Hospital Quality Reporting Implementation Guide for 2019; published May 4, 2018, IBR approved for § 170.205(h).
+(4) CMS Implementation Guide for Quality Reporting Document Architecture: Category I; Hospital Quality Reporting Implementation Guide for 2020; published December 3, 2019, IBR approved for § 170.205(h).
 
-(5) CMS Implementation Guide for Quality Reporting Document Architecture Category III Eligible Clinicians and Eligible Professionals Programs Implementation Guide for 2019; published October 8, 2018, IBR approved for § 170.205(k).
+(5) CMS Implementation Guide for Quality Reporting Document Architecture: Category III; Eligible Clinicians and Eligible Professionals Programs Implementation Guide for 2020; published April 30, 2020, IBR approved for § 170.205(k).
 
 (f) Health Level Seven, 3300 Washtenaw Avenue, Suite 227, Ann Arbor, MI 48104; Telephone (734) 677-7777 or *http://www.hl7.org/*
 
@@ -84,7 +82,7 @@ Link to an amendment published at 85 FR 70082, Nov. 4, 2020.
 
 (13) HL7 v2.5.1 IG: Electronic Laboratory Reporting to Public Health (US Realm), Release 1 Errata and Clarifications, September, 29, 2011, IBR approved for § 170.205.
 
-(14) HL7 Implementation Guide for CDA® Release 2: Quality Reporting Document Architecture - Category III, DSTU Release 1 (US Realm) Draft Standard for Trial Use, November 2012, IBR approved for § 170.205.
+(14) HL7 Implementation Guide for CDA® Release 2: Quality Reporting Document Architecture—Category III, DSTU Release 1 (US Realm) Draft Standard for Trial Use, November 2012, IBR approved for § 170.205.
 
 (15) HL7 Version 3 Standard: Context Aware Retrieval Application (“Infobutton”), Knowledge Request, Release 2, 2014 Release, IBR approved for § 170.204(b).
 
@@ -92,27 +90,27 @@ Link to an amendment published at 85 FR 70082, Nov. 4, 2020.
 
 (17) HL7 Version 3 Implementation Guide: Context-Aware Knowledge Retrieval (Infobutton), Release 4, June 13, 2014, IBR approved for § 170.204(b).
 
-(18) HL7 Implementation Guide for CDA® Release 2: Consolidated CDA Templates for Clinical Notes (US Realm), Draft Standard for Trial Use, Volume 1 - Introductory Material, Release 2.1, August 2015, IBR approved for § 170.205(a).
+(18) HL7 Implementation Guide for CDA® Release 2: Consolidated CDA Templates for Clinical Notes (US Realm), Draft Standard for Trial Use, Volume 1—Introductory Material, Release 2.1, August 2015, IBR approved for § 170.205(a).
 
-(19) HL7 Implementation Guide for CDA® Release 2: Consolidated CDA Templates for Clinical Notes (US Realm), Draft Standard for Trial Use, Volume 2 - Templates and Supporting Material, Release 2.1, August 2015, IBR approved for § 170.205(a).
+(19) HL7 Implementation Guide for CDA® Release 2: Consolidated CDA Templates for Clinical Notes (US Realm), Draft Standard for Trial Use, Volume 2—Templates and Supporting Material, Release 2.1, August 2015, IBR approved for § 170.205(a).
 
-(20) HL7 CDA® R2 Implementation Guide: Quality Reporting Document Architecture - Category I (QRDA I); Release 1, DSTU Release 3 (US Realm), Volume 1 - Introductory Material, June 2015, IBR approved for § 170.205(h).
+(20) HL7 CDA® R2 Implementation Guide: Quality Reporting Document Architecture—Category I (QRDA I); Release 1, DSTU Release 3 (US Realm), Volume 1—Introductory Material, June 2015, IBR approved for § 170.205(h).
 
-(21) HL7 CDA® R2 Implementation Guide: Quality Reporting Document Architecture - Category I (QRDA I); Release 1, DSTU Release 3 (US Realm), Volume 2 - Templates and Supporting Material, June 2015, IBR approved for § 170.205(h).
+(21) HL7 CDA® R2 Implementation Guide: Quality Reporting Document Architecture—Category I (QRDA I); Release 1, DSTU Release 3 (US Realm), Volume 2—Templates and Supporting Material, June 2015, IBR approved for § 170.205(h).
 
-(22) HL7 CDA© Release 2 Implementation Guide: Reporting to Public Health Cancer Registries from Ambulatory Healthcare Providers, Release 1; DSTU Release 1.1 (US Realm), Volume 1 - Introductory Material, April 2015, IBR approved for § 170.205(i).
+(22) HL7 CDA© Release 2 Implementation Guide: Reporting to Public Health Cancer Registries from Ambulatory Healthcare Providers, Release 1; DSTU Release 1.1 (US Realm), Volume 1—Introductory Material, April 2015, IBR approved for § 170.205(i).
 
-(23) HL7 CDA© Release 2 Implementation Guide: Reporting to Public Health Cancer Registries from Ambulatory Healthcare Providers, Release 1; DSTU Release 1.1 (US Realm), Volume 2 - Templates and Supporting Material, April 2015, IBR approved for § 170.205(i).
+(23) HL7 CDA© Release 2 Implementation Guide: Reporting to Public Health Cancer Registries from Ambulatory Healthcare Providers, Release 1; DSTU Release 1.1 (US Realm), Volume 2—Templates and Supporting Material, April 2015, IBR approved for § 170.205(i).
 
-(24) Errata to the HL7 Implementation Guide for CDA® Release 2: Quality Reporting Document Architecture - Category III, DSTU Release 1 (US Realm), September 2014, IBR approved for § 170.205(k).
+(24) Errata to the HL7 Implementation Guide for CDA® Release 2: Quality Reporting Document Architecture—Category III, DSTU Release 1 (US Realm), September 2014, IBR approved for § 170.205(k).
 
 (25) HL7 Version 3 Implementation Guide: Data Segmentation for Privacy (DS4P), Release 1, Part 1: CDA R2 and Privacy Metadata Reusable Content Profile, May 16, 2014, IBR approved for § 170.205(o).
 
-(26) HL7 Implementation Guide for CDA® Release 2 - Level 3: Healthcare Associated Infection Reports, Release 1 (U.S. Realm), August 9, 2013, IBR approved for § 170.205(r).
+(26) HL7 Implementation Guide for CDA® Release 2—Level 3: Healthcare Associated Infection Reports, Release 1 (U.S. Realm), August 9, 2013, IBR approved for § 170.205(r).
 
-(27) HL7 Implementation Guide for CDA® Release 2: National Health Care Surveys (NHCS), Release 1 - US Realm, HL7 Draft Standard for Trial Use, Volume 1 - Introductory Material, December 2014, IBR approved for § 170.205(s).
+(27) HL7 Implementation Guide for CDA® Release 2: National Health Care Surveys (NHCS), Release 1—US Realm, HL7 Draft Standard for Trial Use, Volume 1—Introductory Material, December 2014, IBR approved for § 170.205(s).
 
-(28) HL7 Implementation Guide for CDA® Release 2: National Health Care Surveys (NHCS), Release 1 - US Realm, HL7 Draft Standard for Trial Use, Volume 2 - Templates and Supporting Material, December 2014, IBR approved for § 170.205(s).
+(28) HL7 Implementation Guide for CDA® Release 2: National Health Care Surveys (NHCS), Release 1—US Realm, HL7 Draft Standard for Trial Use, Volume 2—Templates and Supporting Material, December 2014, IBR approved for § 170.205(s).
 
 (29) HL7 Version 3 (V3) Standard, Value Sets for AdministrativeGender and NullFlavor, published August 1, 2013, IBR approved for § 170.207(n) and (o).
 
@@ -124,11 +122,11 @@ Link to an amendment published at 85 FR 70082, Nov. 4, 2020.
 
 (33) HL7 Fast Healthcare Interoperability Resources Specification (FHIR®) Release 4, Version 4.0.1: R4, October 30, 2019, including Technical Correction #1, November 1, 2019, IBR approved for § 170.215(a).
 
-(34) HL7 FHIR® US Core Implementation Guide STU3 Release 3.1.0, November 06, 2019, IBR approved for § 170.215(a).
+(34) HL7 FHIR® US Core Implementation Guide STU3 Release 3.1.1, August 28, 2020, IBR approved for § 170.215(a).
 
 (g) Integrating the Healthcare Enterprise (IHE), 820 Jorie Boulevard, Oak Brook, IL, Telephone (630) 481-1004, *http://www.ihe.net/.*
 
-(1) IHE IT Infrastructure Technical Framework Volume 2b (ITI TF-2b), Transactions Part B - Sections 3.29 - 2.43, Revision 7.0, August 10, 2010, IBR approved for § 170.205(p).
+(1) IHE IT Infrastructure Technical Framework Volume 2b (ITI TF-2b), Transactions Part B—Sections 3.29—2.43, Revision 7.0, August 10, 2010, IBR approved for § 170.205(p).
 
 (2) [Reserved]
 
@@ -142,9 +140,9 @@ Link to an amendment published at 85 FR 70082, Nov. 4, 2020.
 
 (i) International Telecommunication Union (ITU), Place des Nations, 1211 Geneva 20 Switzerland, Telephone (41) 22 730 511, *http://www.itu.int/en/pages/default.aspx*.
 
-(1) ITU-T E.123, Series E: Overall Network Operation, Telephone Service, Service Operation and Human Factors, International operation - General provisions concerning users: Notation for national and international telephone numbers, e-mail addresses and web addresses, February 2001, IBR approved for § 170.207(q).
+(1) ITU-T E.123, Series E: Overall Network Operation, Telephone Service, Service Operation and Human Factors, International operation—General provisions concerning users: Notation for national and international telephone numbers, e-mail addresses and web addresses, February 2001, IBR approved for § 170.207(q).
 
-(2) ITU-T E.164, Series E: Overall Network Operation, Telephone Service, Service Operation and Human Factors, International operation - Numbering plan of the international telephone service, The international public telecommunication numbering plan, November 2010, IBR approved for § 170.207(q).
+(2) ITU-T E.164, Series E: Overall Network Operation, Telephone Service, Service Operation and Human Factors, International operation—Numbering plan of the international telephone service, The international public telecommunication numbering plan, November 2010, IBR approved for § 170.207(q).
 
 (j) Library of Congress, Network Development and MARC Standards Office, Washington, DC 20540-4402, Tel: (202) 707-6237 or *http://www.loc.gov/standards/iso639-2/.*
 
@@ -178,7 +176,7 @@ Link to an amendment published at 85 FR 70082, Nov. 4, 2020.
 
 (4) ONC Implementation Guide for Direct Edge Protocols, Version 1.1, June 25, 2014, IBR approved for § 170.202; available at *http://www.healthit.gov/sites/default/files/implementationguidefordirectedgeprotocolsv1\_1.pdf.*
 
-(5) United States Core Data for Interoperability (USCDI), Version 1, February 2020, IBR approved for § 170.213; available at *https://www.healthit.gov/USCDI*.
+(5) United States Core Data for Interoperability (USCDI), Version 1, July 2020 Errata, IBR approved for § 170.213; available at *https://www.healthit.gov/USCDI.*
 
 (n) OpenID Foundation, 2400 Camino Ramon, Suite 375, San Ramon, CA 94583, Telephone +1 925-275-6639, *http://openid.net/*.
 
@@ -228,4 +226,4 @@ Link to an amendment published at 85 FR 70082, Nov. 4, 2020.
 
 (2) [Reserved]
 
-[75 FR 44649, July 28, 2010, as amended at 75 FR 62690, Oct. 13, 2010; 77 FR 54285, Sept. 4, 2012; 77 FR 72991, Dec. 7, 2012; 79 FR 54478, Sept. 11, 2014; 80 FR 62745, Oct. 16, 2015; 81 FR 72463, Oct. 19, 2016; 85 FR 25941, May 1, 2020]
+[75 FR 44649, July 28, 2010, as amended at 75 FR 62690, Oct. 13, 2010; 77 FR 54285, Sept. 4, 2012; 77 FR 72991, Dec. 7, 2012; 79 FR 54478, Sept. 11, 2014; 80 FR 62745, Oct. 16, 2015; 81 FR 72463, Oct. 19, 2016; 85 FR 25941, May 1, 2020; 85 FR 70082, Nov. 4, 2020]

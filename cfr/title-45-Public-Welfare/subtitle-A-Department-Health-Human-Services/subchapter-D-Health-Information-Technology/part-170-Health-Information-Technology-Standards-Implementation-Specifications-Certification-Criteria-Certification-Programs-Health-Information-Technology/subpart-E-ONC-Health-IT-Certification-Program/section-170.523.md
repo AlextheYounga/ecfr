@@ -1,7 +1,5 @@
 ##### § 170.523 Principles of proper conduct for ONC-ACBs. #####
 
-Link to an amendment published at 85 FR 70084, Nov. 4, 2020.
-
 An ONC-ACB shall:
 
 (a) *Accreditation.* Maintain its accreditation in good standing to ISO/IEC 17065 (incorporated by reference in § 170.599).
@@ -72,7 +70,7 @@ An ONC-ACB shall:
 
 (xx) A hyperlink to the disclosures required by § 170.523(k)(1) for the Health IT Module;
 
-(xxi) The attestation required by § 170.523(k)(2);
+(xxi) [Reserved]
 
 (xxii) *When applicable,* for each instance in which a Health IT Module failed to conform to its certification and for which corrective action was instituted under § 170.556 (provided no provider or practice site is identified):
 
@@ -146,9 +144,9 @@ An ONC-ACB shall:
 
 (k) *Disclosures.* Ensure adherence to the following requirements when issuing any certification and during surveillance of Health IT Modules the ONC-ACB has certified.
 
-(1) *Mandatory disclosures.* A Health IT developer must conspicuously include the following on its Web site and in all marketing materials, communications statements, and other assertions related to the Health IT Module's certification:
+(1) *Mandatory Disclosures.* A health IT developer must conspicuously include the following on its website and in all marketing materials, communications statements, and other assertions related to the Health IT Module's certification:
 
-(i) The disclaimer “This [Complete EHR or Health IT Module] is [specify Edition of EHR certification criteria] compliant and has been certified by an ONC-ACB in accordance with the applicable certification criteria adopted by the Secretary of Health and Human Services. This certification does not represent an endorsement by the U.S. Department of Health and Human Services.”
+(i) The disclaimer “This Health IT Module is [specify Edition of health IT certification criteria] compliant and has been certified by an ONC-ACB in accordance with the applicable certification criteria adopted by the Secretary of Health and Human Services. This certification does not represent an endorsement by the U.S. Department of Health and Human Services.”
 
 (ii) For a Health IT Module certified to the 2015 Edition health IT certification criteria, the information specified by paragraphs (f)(1)(i), (vi) through (viii), (xv), and (xvi) of this section as applicable for the specific Health IT Module.
 
@@ -206,4 +204,4 @@ An ONC-ACB shall:
 
 (2) Timely post content or make publicly accessible via the CHPL each § 170.405(b)(8) notice received, publicly on the CHPL attributed to the certified Health IT Module(s) to which it applies.
 
-[76 FR 1325, Dec. 7, 2011, as amended at 76 FR 72642, Nov. 25, 2011; 77 FR 54291, Sept. 4, 2012; 79 FR 54479, Sept. 11, 2014; 80 FR 62755, Oct. 16, 2015; 80 FR 76872, Dec. 11, 2015; 81 FR 72465, Oct. 19, 2016; 85 FR 25950, May 1, 2020]
+[76 FR 1325, Dec. 7, 2011, as amended at 76 FR 72642, Nov. 25, 2011; 77 FR 54291, Sept. 4, 2012; 79 FR 54479, Sept. 11, 2014; 80 FR 62755, Oct. 16, 2015; 80 FR 76872, Dec. 11, 2015; 81 FR 72465, Oct. 19, 2016; 85 FR 25950, May 1, 2020; 85 FR 70084, Nov. 4, 2020]

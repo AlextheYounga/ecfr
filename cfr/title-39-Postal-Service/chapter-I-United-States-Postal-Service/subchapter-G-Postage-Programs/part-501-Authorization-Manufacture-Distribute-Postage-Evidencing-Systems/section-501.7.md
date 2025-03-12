@@ -16,7 +16,7 @@ REWARD UP TO $50,000 for information leading to the conviction of any person who
 
 (2) Exceptions to the formatting of the required message are determined on a case-by-case basis. Any deviation from standardized meter message requirements must be approved in writing by the Postal Service.
 
-(c) The provider must ensure that, with the exception of Customized Postage products, any matter printed by a postage evidencing system, whether within the boundaries of the indicia or outside the clear zone as defined in DMM 604.4.0 and the Performance Criteria for Information-Based Indicia and Security Architecture for Open IBI Postage Evidencing Systems or Performance Criteria for Information-Based Indicia and Security Architecture for Closed IBI Postage Metering Systems, is:
+(c) The provider must ensure that any matter printed by a Postage Evidencing System, whether within the boundaries of the indicia or outside the clear zone as defined in DMM 604.4.0 and the Intelligent Mail Indicia Performance Criteria (IMI-PC), is:
 
 (1) Consistent with the Postal Service's intent to maintain neutrality on religious, social, political, legal, moral, or other public issues;
 
@@ -34,4 +34,4 @@ REWARD UP TO $50,000 for information leading to the conviction of any person who
 
 (3) The customer understands that images or other matter is not provided, approved, or endorsed in any way by the Postal Service.
 
-[71 FR 65733, Nov. 9, 2006, as amended at 78 FR 44439, July 24, 2013; 82 FR 60118, Dec. 19, 2017; 85 FR 21777, Apr. 20, 2020]
+[71 FR 65733, Nov. 9, 2006, as amended at 78 FR 44439, July 24, 2013; 82 FR 60118, Dec. 19, 2017; 85 FR 21777, Apr. 20, 2020; 85 FR 78235, Dec. 4, 2020]

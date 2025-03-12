@@ -1,5 +1,7 @@
 ##### § 1.6100 Wireless Facility Modifications. #####
 
+Link to an amendment published at 85 FR 78018, Dec. 3, 2020.
+
 (a) [Reserved]
 
 (b) *Definitions.* Terms used in this section have the following meanings.

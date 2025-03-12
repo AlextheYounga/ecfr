@@ -1,0 +1,5 @@
+##### § 1090.1200 General recordkeeping requirements. #####
+
+(a) *Length of time records must be kept.* Records required under this part must be kept for 5 years from the date they were created, except that records relating to credit transfers must be kept by the transferor for 5 years from the date the credits were transferred and must be kept by the transferee for 5 years from the date the credits were transferred, used, or terminated, whichever is later.
+
+(b) *Make records available to EPA.* On request by EPA, the records specified in this part must be provided to EPA. For records that are electronically generated or maintained, the equipment and software necessary to read the records must be made available or, upon approval by EPA, electronic records must be converted to paper documents that must be provided to EPA.

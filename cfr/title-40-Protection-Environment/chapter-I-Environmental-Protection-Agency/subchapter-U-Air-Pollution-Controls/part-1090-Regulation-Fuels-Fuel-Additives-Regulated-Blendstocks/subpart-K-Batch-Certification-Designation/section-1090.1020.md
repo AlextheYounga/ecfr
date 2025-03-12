@@ -1,0 +1,7 @@
+##### § 1090.1020 Batch numbering. #####
+
+(a) A fuel manufacturer, fuel additive manufacturer, or regulated blendstock producer must assign a number (the “batch number”) to each batch of gasoline, diesel fuel, oxygenate, certified pentane, or certified ethanol denaturant either produced or imported. The batch number must, if available, consist of the EPA-assigned company registration number of the party that either produced or imported the fuel, fuel additive, or regulated blendstock, the EPA-assigned facility registration number where the fuel, fuel additive, or regulated blendstock was produced or imported, the last two digits of the year that the batch was either produced or imported, and a unique number for the batch, beginning with the number one (1) for the first batch produced or imported each calendar year and each subsequent batch during the calendar year being assigned the next sequential number (*e.g.,* 4321-54321-20-000001, 4321-54321-20-000002, etc.). EPA assigns company and facility registration numbers as specified in subpart I of this part.
+
+(b) Certified butane or certified pentane blended with PCG during a period of up to one month may be included in a single batch for purposes of reporting to EPA.
+
+(c) A gasoline manufacturer that recertifies BOBs under § 1090.740 may include up to a single month's volume as a single batch for purposes of reporting to EPA.

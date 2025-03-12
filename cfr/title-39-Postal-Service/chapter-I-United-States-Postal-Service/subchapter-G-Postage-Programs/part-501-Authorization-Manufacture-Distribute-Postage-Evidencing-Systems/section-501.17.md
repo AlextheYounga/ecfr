@@ -9,3 +9,7 @@
 (d) Decertified Postage Evidencing Systems that are not submitted to the Postal Service for refund within one hundred and eighty (180) days of the agreed upon withdrawal from service date will not be eligible for refund of unused postage.
 
 (e) Postage indicia printed by Decertified Postage Evidencing Systems may no longer be considered valid postage one hundred and eighty (180) days from the agreed upon withdrawal from service date.
+
+(f) Postage Evidencing Systems that do not comply with the then current Intelligent Mail Indicia Performance Criteria will be Decertified Postage Evidencing Systems on June 30, 2024. The withdrawal date for those systems will be December 31, 2024.
+
+[71 FR 65733, Nov. 9, 2006, as amended at 85 FR 78235, Dec. 4, 2020]

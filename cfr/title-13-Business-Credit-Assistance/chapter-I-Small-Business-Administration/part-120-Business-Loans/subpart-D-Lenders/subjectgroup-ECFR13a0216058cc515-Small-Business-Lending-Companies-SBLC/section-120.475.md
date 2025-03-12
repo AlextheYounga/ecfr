@@ -1,5 +1,7 @@
 ##### § 120.475 Change of ownership or control. #####
 
+Link to an amendment published at 85 FR 78215, Dec. 4, 2020.
+
 (a) Any change of ownership or control without prior written approval of SBA is prohibited. An SBLC must request approval of any such change from the appropriate Office of Capital Access official in accordance with Delegations of Authority.Pending the approval, the SBLC may not register the proposed new owners on its transfer books nor permit them to participate in any manner in the conduct of the SBLC's affairs. Change of ownership or control includes:
 
 (1) Any transfer of 10 percent or more of any class of the SBLC's stock, and any agreement providing for such transfer;

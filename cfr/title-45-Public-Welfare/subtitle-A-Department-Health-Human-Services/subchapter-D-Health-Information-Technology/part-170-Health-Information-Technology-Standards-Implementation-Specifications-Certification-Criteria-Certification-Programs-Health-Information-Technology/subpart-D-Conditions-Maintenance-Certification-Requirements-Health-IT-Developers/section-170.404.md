@@ -1,14 +1,12 @@
 ##### § 170.404 Application programming interfaces. #####
 
-Link to an amendment published at 85 FR 70084, Nov. 4, 2020.
-
 The following Condition and Maintenance of Certification requirements apply to developers of Health IT Modules certified to any of the certification criteria adopted in § 170.315(g)(7) through (10).
 
-(a) *Condition of certification requirements* - (1) *General.* A Certified API Developer must publish APIs and allow electronic health information from such technology to be accessed, exchanged, and used without special effort through the use of APIs or successor technology or standards, as provided for under applicable law, including providing access to all data elements of a patient's electronic health record to the extent permissible under applicable privacy laws.
+(a) *Condition of certification requirements*—(1) *General.* A Certified API Developer must publish APIs and allow electronic health information from such technology to be accessed, exchanged, and used without special effort through the use of APIs or successor technology or standards, as provided for under applicable law, including providing access to all data elements of a patient's electronic health record to the extent permissible under applicable privacy laws.
 
-(2) *Transparency conditions* - (i) *Complete business and technical documentation.* A Certified API Developer must publish complete business and technical documentation, including the documentation described in paragraph (a)(2)(ii) of this section, via a publicly accessible hyperlink that allows any person to directly access the information without any preconditions or additional steps.
+(2) *Transparency conditions*—(i) *Complete business and technical documentation.* A Certified API Developer must publish complete business and technical documentation, including the documentation described in paragraph (a)(2)(ii) of this section, via a publicly accessible hyperlink that allows any person to directly access the information without any preconditions or additional steps.
 
-(ii) *Terms and conditions* - (A) *Material information.* A Certified API Developer must publish all terms and conditions for its certified API technology, including any fees, restrictions, limitations, obligations, registration process requirements, or other similar requirements that would be:
+(ii) *Terms and conditions*—(A) *Material information.* A Certified API Developer must publish all terms and conditions for its certified API technology, including any fees, restrictions, limitations, obligations, registration process requirements, or other similar requirements that would be:
 
 (*1*) Needed to develop software applications to interact with the certified API technology;
 
@@ -30,7 +28,7 @@ The following Condition and Maintenance of Certification requirements apply to d
 
 (*3*) The amount of the fee, which for variable fees must include the specific variable(s) and methodology(ies) that will be used to calculate the fee.
 
-(3) *Fees conditions* - (i) *General conditions* - (A) *All fees.* All fees related to certified API technology not otherwise permitted by this section are prohibited from being imposed by a Certified API Developer. The permitted fees in paragraphs (a)(3)(ii) and (iv) of this section may include fees that result in a reasonable profit margin in accordance with § 171.302.
+(3) *Fees conditions*—(i) *General conditions*—(A) *All fees.* All fees related to certified API technology not otherwise permitted by this section are prohibited from being imposed by a Certified API Developer. The permitted fees in paragraphs (a)(3)(ii) and (iv) of this section may include fees that result in a reasonable profit margin in accordance with § 171.302.
 
 (B) *Permitted fees requirements.* For all permitted fees, a Certified API Developer must:
 
@@ -52,11 +50,11 @@ The following Condition and Maintenance of Certification requirements apply to d
 
 (D) *Record-keeping requirements.* A Certified API Developer must keep for inspection detailed records of any fees charged with respect to the certified API technology, the methodology(ies) used to calculate such fees, and the specific costs to which such fees are attributed.
 
-(ii) *Permitted fee - development, deployment, and upgrades.* A Certified API Developer is permitted to charge fees to an API Information Source to recover the costs reasonably incurred by the Certified API Developer to develop, deploy, and upgrade certified API technology.
+(ii) *Permitted fee—development, deployment, and upgrades.* A Certified API Developer is permitted to charge fees to an API Information Source to recover the costs reasonably incurred by the Certified API Developer to develop, deploy, and upgrade certified API technology.
 
-(iii) *Permitted fee - recovering API usage costs.* A Certified API Developer is permitted to charge fees to an API Information Source related to the use of certified API technology. The fees must be limited to the recovery of incremental costs reasonably incurred by the Certified API Developer when it hosts certified API technology on behalf of the API Information Source.
+(iii) *Permitted fee—recovering API usage costs.* A Certified API Developer is permitted to charge fees to an API Information Source related to the use of certified API technology. The fees must be limited to the recovery of incremental costs reasonably incurred by the Certified API Developer when it hosts certified API technology on behalf of the API Information Source.
 
-(iv) *Permitted fee - value-added services.* A Certified API Developer is permitted to charge fees to an API User for value-added services related to certified API technology, so long as such services are not necessary to efficiently and effectively develop and deploy production-ready software that interacts with certified API technology.
+(iv) *Permitted fee—value-added services.* A Certified API Developer is permitted to charge fees to an API User for value-added services related to certified API technology, so long as such services are not necessary to efficiently and effectively develop and deploy production-ready software that interacts with certified API technology.
 
 (4) *Openness and pro-competitive conditions; general condition.* A Certified API Developer must grant an API Information Source the independent ability to permit an API User to interact with the certified API technology deployed by the API Information Source.
 
@@ -70,7 +68,7 @@ The following Condition and Maintenance of Certification requirements apply to d
 
 (*2*) The revenue or other value that another party may receive from using the API technology.
 
-(ii) *Rights to access and use certified API technology* - (A) *Rights that must be granted.* A Certified API Developer must have and, upon request, must grant to API Information Sources and API Users all rights that may be reasonably necessary to:
+(ii) *Rights to access and use certified API technology*—(A) *Rights that must be granted.* A Certified API Developer must have and, upon request, must grant to API Information Sources and API Users all rights that may be reasonably necessary to:
 
 (*1*) Access and use the Certified API Developer's certified API technology in a production environment;
 
@@ -100,7 +98,7 @@ The following Condition and Maintenance of Certification requirements apply to d
 
 (B) *Changes to terms and conditions.* Except as exigent circumstances require, prior to making changes to its certified API technology or to the terms and conditions thereof, a Certified API Developer must provide notice and a reasonable opportunity for API Information Sources and API Users to update their applications to preserve compatibility with certified API technology and to comply with applicable terms and conditions.
 
-(b) *Maintenance of certification requirements* - (1) *Authenticity verification and registration for production use.* The following apply to a Certified API Developer with a Health IT Module certified to the certification criterion adopted in § 170.315(g)(10):
+(b) *Maintenance of certification requirements*—(1) *Authenticity verification and registration for production use.* The following apply to a Certified API Developer with a Health IT Module certified to the certification criterion adopted in § 170.315(g)(10):
 
 (i) *Authenticity verification.* A Certified API Developer is permitted to institute a process to verify the authenticity of API Users so long as such process is objective and the same for all API Users and completed within ten business days of receipt of an API User's request to register their software application for use with the Certified API Developer's Health IT Module certified to § 170.315(g)(10).
 
@@ -112,9 +110,9 @@ The following Condition and Maintenance of Certification requirements apply to d
 
 (ii) In a machine-readable format at no charge.
 
-(3) *Rollout of (g)(10)-certified APIs.* A Certified API Developer with certified API technology previously certified to the certification criterion in § 170.315(g)(8) must provide all API Information Sources with such certified API technology deployed with certified API technology certified to the certification criterion in § 170.315(g)(10) by no later than May 2, 2022.
+(3) *Rollout of (g)(10)-certified APIs.* A Certified API Developer with certified API technology previously certified to the certification criterion in § 170.315(g)(8) must provide all API Information Sources with such certified API technology deployed with certified API technology certified to the certification criterion in § 170.315(g)(10) by no later than December 31, 2022.
 
-(4) *Compliance for existing certified API technology.* By no later than November 2, 2020, a Certified API Developer with Health IT Module(s) certified to the certification criteria in § 170.315(g)(7), (8), or (9) must comply with paragraph (a) of this section, including revisions to their existing business and technical API documentation and make such documentation available via a publicly accessible hyperlink that allows any person to directly access the information without any preconditions or additional steps.
+(4) *Compliance for existing certified API technology.* By no later than April 5, 2021, a Certified API Developer with Health IT Module(s) certified to the certification criteria in § 170.315(g)(7), (8), or (9) must comply with paragraph (a) of this section, including revisions to their existing business and technical API documentation and make such documentation available via a publicly accessible hyperlink that allows any person to directly access the information without any preconditions or additional steps.
 
 (c) *Definitions.* The following definitions apply to this section:
 
@@ -125,3 +123,5 @@ The following Condition and Maintenance of Certification requirements apply to d
 *Certified API Developer* means a health IT developer that creates the “certified API technology” that is certified to any of the certification criteria adopted in § 170.315(g)(7) through (10); and
 
 *Certified API technology* means the capabilities of Health IT Modules that are certified to any of the API-focused certification criteria adopted in § 170.315(g)(7) through (10).
+
+[85 FR 25945, May 1, 2020, as amended at 85 FR 70084, Nov. 4, 2020]

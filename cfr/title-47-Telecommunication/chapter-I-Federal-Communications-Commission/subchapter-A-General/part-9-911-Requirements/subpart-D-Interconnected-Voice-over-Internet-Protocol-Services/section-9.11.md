@@ -84,4 +84,4 @@
 
 (B) Notify existing subscribers, and each new subscriber prior to the initiation of that subscriber's service, by other conspicuous means if E911 service may be limited or not available.
 
-(c) Paragraphs (b)(2)(ii) and (iv), (b)(4), and (b)(5)(ii) and (iii) of this section contain information-collection and recordkeeping requirements. Compliance will not be required until after approval by the Office of Management and Budget. The Commission will publish a document in the Federal Register announcing that compliance date and revising this paragraph accordingly.
+[84 FR 66760, Dec. 5, 2019, as amended at 85 FR 78022, Dec. 3, 2020]

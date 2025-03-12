@@ -1,22 +1,20 @@
 ##### § 170.315 2015 Edition health IT certification criteria. #####
 
-Link to an amendment published at 85 FR 70083, Nov. 4, 2020.
-
 The Secretary adopts the following certification criteria for health IT. Health IT must be able to electronically perform the following capabilities in accordance with all applicable standards and implementation specifications adopted in this part:
 
-(a) *Clinical* - (1) *Computerized provider order entry - medications.* (i) Enable a user to record, change, and access medication orders.
+(a) *Clinical*—(1) *Computerized provider order entry—medications.* (i) Enable a user to record, change, and access medication orders.
 
 (ii) *Optional.* Include a “reason for order” field.
 
-(2) *Computerized provider order entry - laboratory.* (i) Enable a user to record, change, and access laboratory orders.
+(2) *Computerized provider order entry—laboratory.* (i) Enable a user to record, change, and access laboratory orders.
 
 (ii) *Optional.* Include a “reason for order” field.
 
-(3) *Computerized provider order entry - diagnostic imaging.* (i) Enable a user to record, change, and access diagnostic imaging orders.
+(3) *Computerized provider order entry—diagnostic imaging.* (i) Enable a user to record, change, and access diagnostic imaging orders.
 
 (ii) *Optional.* Include a “reason for order” field.
 
-(4) *Drug-drug, drug-allergy interaction checks for CPOE* - (i) *Interventions.* Before a medication order is completed and acted upon during computerized provider order entry (CPOE), interventions must automatically indicate to a user drug-drug and drug-allergy contraindications based on a patient's medication list and medication allergy list.
+(4) *Drug-drug, drug-allergy interaction checks for CPOE*—(i) *Interventions.* Before a medication order is completed and acted upon during computerized provider order entry (CPOE), interventions must automatically indicate to a user drug-drug and drug-allergy contraindications based on a patient's medication list and medication allergy list.
 
 (ii) *Adjustments.* (A) Enable the severity level of interventions provided for drug-drug interaction checks to be adjusted.
 
@@ -46,7 +44,7 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (6)-(8) [Reserved]
 
-(9) *Clinical decision support (CDS)* - (i) *CDS intervention interaction.* Interventions provided to a user must occur when a user is interacting with technology.
+(9) *Clinical decision support (CDS)*—(i) *CDS intervention interaction.* Interventions provided to a user must occur when a user is interacting with technology.
 
 (ii) *CDS configuration.* (A) Enable interventions and reference resources specified in paragraphs (a)(9)(iii) and (iv) of this section to be configured by a limited set of identified users (*e.g.*, system administrator) based on a user's role.
 
@@ -186,13 +184,13 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (viii) *Exposure to violence (intimate partner violence).* Enable exposure to violence (intimate partner violence) to be recorded in accordance with the standard specified in § 170.207(p)(8) and whether a patient declines to specify exposure to violence (intimate partner violence).
 
-(b) *Care coordination* - (1) *Transitions of care* - (i) *Send and receive via edge protocol* - (A) Send transition of care/referral summaries through a method that conforms to the standard specified in § 170.202(d) and that leads to such summaries being processed by a service that has implemented the standard specified in § 170.202(a)(2); and
+(b) *Care coordination*—(1) *Transitions of care*—(i) *Send and receive via edge protocol.* (A) Send transition of care/referral summaries through a method that conforms to the standard specified in § 170.202(d) and that leads to such summaries being processed by a service that has implemented the standard specified in § 170.202(a)(2); and
 
 (B) Receive transition of care/referral summaries through a method that conforms to the standard specified in § 170.202(d) from a service that has implemented the standard specified in § 170.202(a)(2).
 
 (C) *XDM processing.* Receive and make available the contents of a XDM package formatted in accordance with the standard adopted in § 170.205(p)(1) when the technology is also being certified using an SMTP-based edge protocol.
 
-(ii) *Validate and display* - (A) *Validate C-CDA conformance - system performance.* Demonstrate the ability to detect valid and invalid transition of care/referral summaries received and formatted in accordance with the standards specified in § 170.205(a)(3), (4), and (5) for the Continuity of Care Document, Referral Note, and (inpatient setting only) Discharge Summary document templates. This includes the ability to:
+(ii) *Validate and display*—(A) *Validate C-CDA conformance—system performance.* Demonstrate the ability to detect valid and invalid transition of care/referral summaries received and formatted in accordance with the standards specified in § 170.205(a)(3), (4), and (5) for the Continuity of Care Document, Referral Note, and (inpatient setting only) Discharge Summary document templates. This includes the ability to:
 
 (*1*) Parse each of the document types.
 
@@ -222,7 +220,7 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (A)(*1*) The data classes expressed in the standard in § 170.213 and in accordance with § 170.205(a)(4), (5), and paragraphs (b)(1)(iii)(A)(*3*)(*i*) through (*iii*) of this section, or
 
-(*2*) The Common Clinical Data Set in accordance with § 170.205(a)(4) and paragraph (b)(1)(iii)(A)(*3*)(*i*) through (*iv*) of this section for the period until May 2, 2022, and
+(*2*) The Common Clinical Data Set in accordance with § 170.205(a)(4) and paragraph (b)(1)(iii)(A)(*3*)(*i*) through (*iv*) of this section for the period before December 31, 2022, and
 
 (*3*) The following data classes:
 
@@ -250,7 +248,7 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (G) *Patient matching data.* First name, last name, previous name, middle name (including middle initial), suffix, date of birth, address, phone number, and sex. The following constraints apply:
 
-(*1*) *Date of birth constraint* - (*i*) The year, month and day of birth must be present for a date of birth. The technology must include a null value when the date of birth is unknown.
+(*1*) *Date of birth constraint.* (*i*) The year, month and day of birth must be present for a date of birth. The technology must include a null value when the date of birth is unknown.
 
 (*ii*) *Optional.* When the hour, minute, and second are associated with a date of birth the technology must demonstrate that the correct time zone offset is included.
 
@@ -258,7 +256,7 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (*3*) *Sex constraint.* Represent sex in accordance with the standard adopted in § 170.207(n)(1).
 
-(2) *Clinical information reconciliation and incorporation* - (i) *General requirements.* Paragraphs (b)(2)(ii) and (iii) of this section must be completed based on the receipt of a transition of care/referral summary formatted in accordance with the standards adopted in § 170.205(a)(3) through (5) using the Continuity of Care Document, Referral Note, and (inpatient setting only) Discharge Summary document templates on and after May 2, 2022.
+(2) *Clinical information reconciliation and incorporation*—(i) *General requirements.* Paragraphs (b)(2)(ii) and (iii) of this section must be completed based on the receipt of a transition of care/referral summary formatted in accordance with the standards adopted in § 170.205(a)(3) through (5) using the Continuity of Care Document, Referral Note, and (inpatient setting only) Discharge Summary document templates on and after December 31, 2022.
 
 (ii) *Correct patient.* Upon receipt of a transition of care/referral summary formatted according to the standards adopted § 170.205(a)(3) through (5), technology must be able to demonstrate that the transition of care/referral summary received can be properly matched to the correct patient.
 
@@ -270,7 +268,7 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (C) Enable a user to review and validate the accuracy of a final set of data.
 
-(D) Upon a user's confirmation, automatically update the list, and incorporate the following data expressed according to the specified standard(s) on and after May 2, 2022:
+(D) Upon a user's confirmation, automatically update the list, and incorporate the following data expressed according to the specified standard(s) on and after December 31, 2022:
 
 (*1*) *Medications.* At a minimum, the version of the standard specified in § 170.213;
 
@@ -278,7 +276,7 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (*3*) *Problems.* At a minimum, the version of the standard specified in § 170.213.
 
-(iv) *System verification.* Based on the data reconciled and incorporated, the technology must be able to create a file formatted according to the standard specified in § 170.205(a)(4) using the Continuity of Care Document template and the standard specified in § 170.205(a)(5) on and after May 2, 2022.
+(iv) *System verification.* Based on the data reconciled and incorporated, the technology must be able to create a file formatted according to the standard specified in § 170.205(a)(4) using the Continuity of Care Document template and the standard specified in § 170.205(a)(5) on and after December 31, 2022.
 
 (3) *Electronic prescribing.* (i) For technology certified prior to June 30, 2020, subject to the real world testing provisions at § 170.405(b)(5),
 
@@ -330,7 +328,7 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (*1*) Create and respond to new prescriptions (NewRxRequest, NewRxResponseDenied).
 
-(*2*) Receive fill status notifications (RxFillIndicator).
+(*2*) Send fill status notifications (RxFillIndicatorChange).
 
 (*3*) Ask the Mailbox if there are any transactions (GetMessage).
 
@@ -380,7 +378,7 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (4)-(5) [Reserved]
 
-(6) *Data export* - (i) *General requirements for export summary configuration.* (A) Enable a user to set the configuration options specified in paragraphs (b)(6)(iii) and (iv) of this section when creating an export summary as well as a set of export summaries for patients whose information is stored in the technology. A user must be able to execute these capabilities at any time the user chooses and without subsequent developer assistance to operate.
+(6) *Data export*—(i) *General requirements for export summary configuration.* (A) Enable a user to set the configuration options specified in paragraphs (b)(6)(iii) and (iv) of this section when creating an export summary as well as a set of export summaries for patients whose information is stored in the technology. A user must be able to execute these capabilities at any time the user chooses and without subsequent developer assistance to operate.
 
 (B) Limit the ability of users who can create export summaries in at least one of these two ways:
 
@@ -418,17 +416,17 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (iv) *Location configuration.* Enable a user to set the storage location to which the export summary or export summaries are intended to be saved.
 
-(7) *Security tags - summary of care - send.* Enable a user to create a summary record formatted in accordance with the standard adopted in § 170.205(a)(4) that is tagged as restricted and subject to restrictions on re-disclosure according to the standard adopted in § 170.205(o)(1) at the:
+(7) *Security tags—summary of care—send.* Enable a user to create a summary record formatted in accordance with the standard adopted in § 170.205(a)(4) that is tagged as restricted and subject to restrictions on re-disclosure according to the standard adopted in § 170.205(o)(1) at the:
 
 (i) Document, section, and entry (data element) level; or
 
-(ii) Document level for the period until May 2, 2022.
+(ii) Document level for the period before December 31, 2022.
 
-(8) *Security tags - summary of care - receive.* (i) Enable a user to receive a summary record that is formatted in accordance with the standard adopted in § 170.205(a)(4) that is tagged as restricted and subject to restrictions on re-disclosure according to the standard adopted in § 170.205(o)(1) at the:
+(8) *Security tags—summary of care—receive.* (i) Enable a user to receive a summary record that is formatted in accordance with the standard adopted in § 170.205(a)(4) that is tagged as restricted and subject to restrictions on re-disclosure according to the standard adopted in § 170.205(o)(1) at the:
 
 (A) Document, section, and entry (data element) level; or
 
-(B) Document level for the period until May 2, 2022; and
+(B) Document level for the period before December 31, 2022; and
 
 (ii) Preserve privacy markings to ensure fidelity to the tagging based on consent and with respect to sharing and re-disclosure restrictions.
 
@@ -436,9 +434,9 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (i) The Care Plan document template, including the Health Status Evaluations and Outcomes Section and Interventions Section (V2), in the standard specified in § 170.205(a)(4); and
 
-(ii) The standard in § 170.205(a)(5)) on and after May 2, 2022.
+(ii) The standard in § 170.205(a)(5) on and after December 31, 2022.
 
-(10) *Electronic Health Information export* - (i) *Single patient electronic health information export.* (A) Enable a user to timely create an export file(s) with all of a single patient's electronic health information that can be stored at the time of certification by the product, of which the Health IT Module is a part.
+(10) *Electronic Health Information export*—(i) *Single patient electronic health information export.* (A) Enable a user to timely create an export file(s) with all of a single patient's electronic health information that can be stored at the time of certification by the product, of which the Health IT Module is a part.
 
 (B) A user must be able to execute this capability at any time the user chooses and without subsequent developer assistance to operate.
 
@@ -460,7 +458,7 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (iii) *Documentation.* The export format(s) used to support paragraphs (b)(10)(i) and (ii) of this section must be kept up-to-date.
 
-(c) *Clinical quality measures* - (1) *Clinical quality measures - record and export* - (i) *Record.* For each and every CQM for which the technology is presented for certification, the technology must be able to record all of the data that would be necessary to calculate each CQM. Data required for CQM exclusions or exceptions must be codified entries, which may include specific terms as defined by each CQM, or may include codified expressions of “patient reason,” “system reason,” or “medical reason.”
+(c) *Clinical quality measures*—(1) *Clinical quality measures—record and export*—(i) *Record.* For each and every CQM for which the technology is presented for certification, the technology must be able to record all of the data that would be necessary to calculate each CQM. Data required for CQM exclusions or exceptions must be codified entries, which may include specific terms as defined by each CQM, or may include codified expressions of “patient reason,” “system reason,” or “medical reason.”
 
 (ii) *Export.* A user must be able to export a data file at any time the user chooses and without subsequent developer assistance to operate:
 
@@ -470,13 +468,17 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (C) That includes all of the data captured for each and every CQM to which technology was certified under paragraph (c)(1)(i) of this section.
 
-(2) *Clinical quality measures - import and calculate* - (i) *Import.* Enable a user to import a data file in accordance with the standard specified in § 170.205(h)(2) for one or multiple patients and use such data to perform the capability specified in paragraph (c)(2)(ii) of this section. A user must be able to execute this capability at any time the user chooses and without subsequent developer assistance to operate.
+(2) *Clinical quality measures—import and calculate*—(i) *Import.* Enable a user to import a data file in accordance with the standard specified in § 170.205(h)(2) for one or multiple patients and use such data to perform the capability specified in paragraph (c)(2)(ii) of this section. A user must be able to execute this capability at any time the user chooses and without subsequent developer assistance to operate.
 
 (ii) Calculate each and every clinical quality measure for which it is presented for certification.
 
-(3) *Clinical quality measures - report.* Enable a user to electronically create a data file for transmission of clinical quality measurement data in accordance with the applicable implementation specifications specified by the CMS implementation guides for Quality Reporting Document Architecture (QRDA), category I, for inpatient measures in § 170.205(h)(3) and CMS implementation guide for QRDA, category III for ambulatory measures in § 170.205 (k)(3).
+(3) *Clinical quality measures—report.* Enable a user to electronically create a data file for transmission of clinical quality measurement data:
 
-(4) *Clinical quality measures - filter.* (i) Record the data listed in paragraph (c)(4)(iii) of this section in accordance with the identified standards, where specified.
+(i) In accordance with the applicable implementation specifications specified by the CMS implementation guides for Quality Reporting Document Architecture (QRDA), category I, for inpatient measures in § 170.205(h)(3) and CMS implementation guide for QRDA, category III for ambulatory measures in § 170.205 (k)(3); or
+
+(ii) In accordance with the standards specified in § 170.205(h)(2) and § 170.205(k)(1) and (2) for the period before December 31, 2022.
+
+(4) *Clinical quality measures—filter.* (i) Record the data listed in paragraph (c)(4)(iii) of this section in accordance with the identified standards, where specified.
 
 (ii) Filter CQM results at the patient and aggregate levels by each one and any combination of the data listed in paragraph (c)(4)(iii) of this section and be able to:
 
@@ -504,11 +506,11 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (I) Patient problem list data in accordance with, at a minimum, the version of the standard specified in § 170.207(a)(4).
 
-(d) *Privacy and security* - (1) *Authentication, access control, and authorization.* (i) Verify against a unique identifier(s) (*e.g.*, username or number) that a user seeking access to electronic health information is the one claimed; and
+(d) *Privacy and security*—(1) *Authentication, access control, and authorization.* (i) Verify against a unique identifier(s) (*e.g.*, username or number) that a user seeking access to electronic health information is the one claimed; and
 
 (ii) Establish the type of access to electronic health information a user is permitted based on the unique identifier(s) provided in paragraph (d)(1)(i) of this section, and the actions the user is permitted to perform with the technology.
 
-(2) *Auditable events and tamper-resistance* - (i) *Record actions.* Technology must be able to:
+(2) *Auditable events and tamper-resistance*—(i) *Record actions.* Technology must be able to:
 
 (A) Record actions related to electronic health information in accordance with the standard specified in § 170.210(e)(1);
 
@@ -574,23 +576,23 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (12) *Encrypt authentication credentials.* Health IT developers must make one of the following attestations and may provide the specified accompanying information, where applicable:
 
-(i) Yes - the Health IT Module encrypts stored authentication credentials in accordance with standards adopted in § 170.210(a)(2).
+(i) Yes—the Health IT Module encrypts stored authentication credentials in accordance with standards adopted in § 170.210(a)(2).
 
-(ii) No - the Health IT Module does not encrypt stored authentication credentials. When attesting “no,” the health IT developer may explain why the Health IT Module does not support encrypting stored authentication credentials.
+(ii) No—the Health IT Module does not encrypt stored authentication credentials. When attesting “no,” the health IT developer may explain why the Health IT Module does not support encrypting stored authentication credentials.
 
 (13) *Multi-factor authentication.* Health IT developers must make one of the following attestations and, as applicable, provide the specified accompanying information:
 
-(i) Yes - the Health IT Module supports the authentication, through multiple elements, of the user's identity with the use of industry-recognized standards. When attesting “yes,” the health IT developer must describe the use cases supported.
+(i) Yes—the Health IT Module supports the authentication, through multiple elements, of the user's identity with the use of industry-recognized standards. When attesting “yes,” the health IT developer must describe the use cases supported.
 
-(ii) No - the Health IT Module does not support authentication, through multiple elements, of the user's identity with the use of industry-recognized standards. When attesting “no,” the health IT developer may explain why the Health IT Module does not support authentication, through multiple elements, of the user's identify with the use of industry-recognized standards.
+(ii) No—the Health IT Module does not support authentication, through multiple elements, of the user's identity with the use of industry-recognized standards. When attesting “no,” the health IT developer may explain why the Health IT Module does not support authentication, through multiple elements, of the user's identity with the use of industry-recognized standards.
 
-(e) *Patient engagement* - (1) *View, download, and transmit to 3rd party.* (i) Patients (and their authorized representatives) must be able to use internet-based technology to view, download, and transmit their health information to a 3rd party in the manner specified below. Such access must be consistent and in accordance with the standard adopted in § 170.204(a)(1) and may alternatively be demonstrated in accordance with the standard specified in § 170.204(a)(2).
+(e) *Patient engagement*—(1) *View, download, and transmit to 3rd party.* (i) Patients (and their authorized representatives) must be able to use internet-based technology to view, download, and transmit their health information to a 3rd party in the manner specified below. Such access must be consistent and in accordance with the standard adopted in § 170.204(a)(1) and may alternatively be demonstrated in accordance with the standard specified in § 170.204(a)(2).
 
 (A) *View.* Patients (and their authorized representatives) must be able to use health IT to view, at a minimum, the following data:
 
 (*1*) The data classes expressed in the standards in § 170.213 (which should be in their English (*i.e.,* non-coded) representation if they associate with a vocabulary/code set), and in accordance with § 170.205(a)(4) and (a)(5), and paragraphs (e)(1)(i)(A)(*3*)(*i*) through (*iii*) of this section, or
 
-(*2*) The Common Clinical Data Set in accordance with § 170.205(a)(4) and paragraphs (e)(1)(i)(A)(*3*)(*i*) through (*iv*) of this section for the period until May 2, 2022.
+(*2*) The Common Clinical Data Set in accordance with § 170.205(a)(4) and paragraphs (e)(1)(i)(A)(*3*)(*i*) through (*iv*) of this section for the period before December 31, 2022.
 
 (*3*) The following data classes:
 
@@ -666,7 +668,7 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (ii) Reference and link to patient health information documents.
 
-(f) *Public health* - (1) *Transmission to immunization registries.* (i) Create immunization information for electronic transmission in accordance with:
+(f) *Public health*—(1) *Transmission to immunization registries.* (i) Create immunization information for electronic transmission in accordance with:
 
 (A) The standard and applicable implementation specifications specified in § 170.205(e)(4).
 
@@ -676,9 +678,9 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (ii) Enable a user to request, access, and display a patient's evaluated immunization history and the immunization forecast from an immunization registry in accordance with the standard at § 170.205(e)(4).
 
-(2) *Transmission to public health agencies - syndromic surveillance.* Create syndrome-based public health surveillance information for electronic transmission in accordance with the standard (and applicable implementation specifications) specified in § 170.205(d)(4).
+(2) *Transmission to public health agencies—syndromic surveillance.* Create syndrome-based public health surveillance information for electronic transmission in accordance with the standard (and applicable implementation specifications) specified in § 170.205(d)(4).
 
-(3) *Transmission to public health agencies - reportable laboratory tests and values/results.* Create reportable laboratory tests and values/results for electronic transmission in accordance with:
+(3) *Transmission to public health agencies—reportable laboratory tests and values/results.* Create reportable laboratory tests and values/results for electronic transmission in accordance with:
 
 (i) The standard (and applicable implementation specifications) specified in § 170.205(g).
 
@@ -690,7 +692,7 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (ii) At a minimum, the versions of the standards specified in § 170.207(a)(4) and (c)(3).
 
-(5) *Transmission to public health agencies - electronic case reporting.* (i) Consume and maintain a table of trigger codes to determine which encounters may be reportable.
+(5) *Transmission to public health agencies—electronic case reporting.* (i) Consume and maintain a table of trigger codes to determine which encounters may be reportable.
 
 (ii) Match a patient visit or encounter to the trigger code based on the parameters of the trigger code table.
 
@@ -700,9 +702,9 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (B) That includes, at a minimum:
 
-(*1*) The data classes expressed in the standards in § 170.213, and in accordance with § 170.205(a)(4) and (5), or
+(*1*) The data classes expressed in the standard in § 170.213, or
 
-(*2*) The Common Clinical Data Set in accordance with § 170.205(a)(4) for the period until May 2, 2022.
+(*2*) The Common Clinical Data Set for the period before December 31, 2022.
 
 (*3*) *Encounter diagnoses.* Formatted according to at least one of the following standards:
 
@@ -714,11 +716,11 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (*5*) An identifier representing the row and version of the trigger table that triggered the case report.
 
-(6) *Transmission to public health agencies - antimicrobial use and resistance reporting.* Create antimicrobial use and resistance reporting information for electronic transmission in accordance with the standard specified in § 170.205(r)(1).
+(6) *Transmission to public health agencies—antimicrobial use and resistance reporting.* Create antimicrobial use and resistance reporting information for electronic transmission in accordance with the standard specified in § 170.205(r)(1).
 
-(7) *Transmission to public health agencies - health care surveys.* Create health care survey information for electronic transmission in accordance with the standard specified in § 170.205(s)(1).
+(7) *Transmission to public health agencies—health care surveys.* Create health care survey information for electronic transmission in accordance with the standard specified in § 170.205(s)(1).
 
-(g) *Design and performance* - (1) *Automated numerator recording.* For each Promoting Interoperability Programs percentage-based measure, technology must be able to create a report or file that enables a user to review the patients or actions that would make the patient or action eligible to be included in the measure's numerator. The information in the report or file created must be of sufficient detail such that it enables a user to match those patients or actions to meet the measure's denominator limitations when necessary to generate an accurate percentage.
+(g) *Design and performance*—(1) *Automated numerator recording.* For each Promoting Interoperability Programs percentage-based measure, technology must be able to create a report or file that enables a user to review the patients or actions that would make the patient or action eligible to be included in the measure's numerator. The information in the report or file created must be of sufficient detail such that it enables a user to match those patients or actions to meet the measure's denominator limitations when necessary to generate an accurate percentage.
 
 (2) *Automated measure calculation.* For each Promoting Interoperability Programs percentage-based measure that is supported by a capability included in a technology, record the numerator and denominator and create a report including the numerator, denominator, and resulting percentage associated with each applicable measure.
 
@@ -772,7 +774,7 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (A) The data classes expressed in the standard in § 170.213, and in accordance with § 170.205(a)(4) and (5) and paragraphs (g)(6)(i)(C)(*1*) through (*3*) of this section; or
 
-(B) The Common Clinical Data Set in accordance with § 170.205(a)(4) and paragraphs (g)(6)(i)(C)(*1*) through (*4*) of this section for the period until May 2, 2022.
+(B) The Common Clinical Data Set in accordance with § 170.205(a)(4) and paragraphs (g)(6)(i)(C)(*1*) through (*4*) of this section for the period before December 31, 2022.
 
 (C) The following data classes:
 
@@ -798,11 +800,11 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (v) *Completeness verification.* Create a data file for each of the applicable document templates referenced in paragraph (g)(6)(iii) of this section without the omission of any of the data included in either paragraph (g)(6)(i)(A) or (B) of this section, as applicable.
 
-(7) *Application access - patient selection.* The following technical outcome and conditions must be met through the demonstration of an application programming interface (API).
+(7) *Application access—patient selection.* The following technical outcome and conditions must be met through the demonstration of an application programming interface (API).
 
 (i) *Functional requirement.* The technology must be able to receive a request with sufficient information to uniquely identify a patient and return an ID or other token that can be used by an application to subsequently execute requests for that patient's data.
 
-(ii) *Documentation* - (A) The API must include accompanying documentation that contains, at a minimum:
+(ii) *Documentation.* (A) The API must include accompanying documentation that contains, at a minimum:
 
 (*1*) API syntax, function names, required and optional parameters and their data types, return variables and their types/structures, exceptions and exception handling methods and their returns.
 
@@ -810,13 +812,13 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (B) The documentation used to meet paragraph (g)(7)(ii)(A) of this section must be available via a publicly accessible hyperlink.
 
-(8) *Application access - data category request.* The following technical outcome and conditions must be met through the demonstration of an application programming interface.
+(8) *Application access—data category request.* The following technical outcome and conditions must be met through the demonstration of an application programming interface.
 
 (i) *Functional requirements.* (A) Respond to requests for patient data (based on an ID or other token) for each of the individual data categories specified in the Common Clinical Data Set and return the full set of data for that data category (according to the specified standards, where applicable) in a computable format.
 
 (B) Respond to requests for patient data associated with a specific date as well as requests for patient data within a specified date range.
 
-(ii) *Documentation* - (A) The API must include accompanying documentation that contains, at a minimum:
+(ii) *Documentation*—(A) The API must include accompanying documentation that contains, at a minimum:
 
 (*1*) API syntax, function names, required and optional parameters and their data types, return variables and their types/structures, exceptions and exception handling methods and their returns.
 
@@ -824,11 +826,11 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (B) The documentation used to meet paragraph (g)(8)(ii)(A) of this section must be available via a publicly accessible hyperlink.
 
-(9) *Application access - all data request.* The following technical outcome and conditions must be met through the demonstration of an application programming interface.
+(9) *Application access—all data request.* The following technical outcome and conditions must be met through the demonstration of an application programming interface.
 
 (i) *Functional requirements.* (A)(*1*) Respond to requests for patient data (based on an ID or other token) for all of the data classes expressed in the standards in § 170.213 at one time and return such data (according to the specified standards, where applicable) in a summary record formatted in accordance with § 170.205(a)(4) and (5) following the CCD document template, and as specified in paragraphs (g)(9)(i)(A)(*3*)(*i*) through (*iii*) of this section, or
 
-(*2*) The Common Clinical Data Set in accordance with paragraphs (g)(9)(i)(A)(*3*)(*i*) through (*iv*) of this section for the period until May 2, 2022, and
+(*2*) The Common Clinical Data Set in accordance with paragraphs (g)(9)(i)(A)(*3*)(*i*) through (*iv*) of this section for the period before December 31, 2022, and
 
 (*3*) The following data classes:
 
@@ -842,7 +844,7 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (B) Respond to requests for patient data associated with a specific date as well as requests for patient data within a specified date range.
 
-(ii) *Documentation* - (A) The API must include accompanying documentation that contains, at a minimum:
+(ii) *Documentation*—(A) The API must include accompanying documentation that contains, at a minimum:
 
 (*1*) API syntax, function names, required and optional parameters and their data types, return variables and their types/structures, exceptions and exception handling methods and their returns.
 
@@ -866,13 +868,15 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (B) Establish a secure and trusted connection with an application that requests data for system scopes in accordance with the implementation specification adopted in § 170.215(a)(4).
 
-(v) *Authentication and authorization* - (A) *Authentication and authorization for patient and user scopes* - (*1*) *First time connections* - (*i*) Authentication and authorization must occur during the process of granting access to patient data in accordance with the implementation specification adopted in § 170.215(a)(3) and standard adopted in § 170.215(b).
+(v) *Authentication and authorization*—(A) *Authentication and authorization for patient and user scopes*—(*1*) *First time connections.* (*i*) Authentication and authorization must occur during the process of granting access to patient data in accordance with the implementation specification adopted in § 170.215(a)(3) and standard adopted in § 170.215(b).
 
-(*ii*) An application capable of storing a client secret must be issued a refresh token valid for a period of no less than three months.
+(*ii*) A Health IT Module's authorization server must issue a refresh token valid for a period of no less than three months to applications capable of storing a client secret.
+
+(*iii*) A Health IT Module's authorization server must issue a refresh token for a period of no less than three months to native applications capable of securing a refresh token
 
 (*2*) *Subsequent connections.* (*i*) Access must be granted to patient data in accordance with the implementation specification adopted in § 170.215(a)(3) without requiring re-authorization and re-authentication when a valid refresh token is supplied by the application.
 
-(*ii*) An application capable of storing a client secret must be issued a new refresh token valid for a new period of no less than three months.
+(*ii*) A Health IT Module's authorization server must issue a refresh token valid for a new period of no less than three months to applications capable of storing a client secret.
 
 (B) *Authentication and authorization for system scopes.* Authentication and authorization must occur during the process of granting an application access to patient data in accordance with the “SMART Backend Services: Authorization Guide” section of the implementation specification adopted in § 170.215(a)(4) and the application must be issued a valid access token.
 
@@ -890,11 +894,11 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (B) The documentation used to meet paragraph (g)(10)(viii)(A) of this section must be available via a publicly accessible hyperlink without any preconditions or additional steps.
 
-(h) *Transport methods and other protocols* - (1) *Direct Project* - (i) *Applicability Statement for Secure Health Transport.* Able to send and receive health information in accordance with the standard specified in § 170.202(a)(2), including formatted only as a “wrapped” message.
+(h) *Transport methods and other protocols*—(1) *Direct Project*—(i) *Applicability Statement for Secure Health Transport.* Able to send and receive health information in accordance with the standard specified in § 170.202(a)(2), including formatted only as a “wrapped” message.
 
 (ii) *Delivery Notification in Direct.* Able to send and receive health information in accordance with the standard specified in § 170.202(e)(1).
 
-(2) *Direct Project, Edge Protocol, and XDR/XDM* - (i) Able to send and receive health information in accordance with:
+(2) *Direct Project, Edge Protocol, and XDR/XDM.* (i) Able to send and receive health information in accordance with:
 
 (A) The standard specified in § 170.202(a)(2), including formatted only as a “wrapped” message;
 
@@ -904,4 +908,4 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (ii) *Delivery Notification in Direct.* Able to send and receive health information in accordance with the standard specified in § 170.202(e)(1).
 
-[80 FR 62747, Oct. 16, 2015, as amended at 80 FR 76871, Dec. 11, 2015; 85 FR 25941, May 1, 2020; 85 FR 47099, Aug. 4, 2020]
+[80 FR 62747, Oct. 16, 2015, as amended at 80 FR 76871, Dec. 11, 2015; 85 FR 25941, May 1, 2020; 85 FR 47099, Aug. 4, 2020; 85 FR 70083, Nov. 4, 2020; 85 FR 78236, Dec. 4, 2020]

@@ -1,43 +1,41 @@
-##### § 2402.6 Business information. #####
+##### § 2402.6 Timing of responses to requests. #####
 
-(a) *In general.* Business information obtained by OSTP from a submitter will be disclosed under FOIA only under this section.
+(a) *In general.* OSTP shall ordinarily respond to requests in order of their receipt.
 
-(b) *Definitions.* For purposes of this section:
+(b) *Initial determinations.* OSTP will exercise all reasonable efforts to make an initial determination acknowledging and granting, partially granting, or denying a request for records within twenty (20) working days after receiving a perfected request.
 
-(1) *Business information* means commercial or financial information obtained by OSTP from a submitter that may be protected from disclosure under Exemption 4 of FOIA.
+(c) *Extensions of response time in “unusual circumstances.”* (1) The twenty (20)-working day period provided in paragraph (b) of this section may be extended if unusual circumstances arise. If an extension is necessary, OSTP shall promptly notify the requester of the extension, briefly state the reasons for the extension, and estimate when a response will be issued. Unusual circumstances warranting extension are:
 
-(2) *Submitter* means any person or entity from whom OSTP obtains business information, directly or indirectly. The term includes corporations; state, local, and tribal governments; and foreign governments.
+(i) The need to search for and collect the requested records from field facilities or other establishments that are separate from the office processing the request;
 
-(c) *Designation of business information.* A submitter of business information will use good-faith efforts to designate, by appropriate markings, either at the time of submission or at a reasonable time thereafter, any portions of its submission that it considers to be protected from disclosure under Exemption 4. These designations will expire ten years after the date of the submission unless the submitter requests, and provides justification for, a longer designation period.
+(ii) The need to search for, collect, and appropriately examine a voluminous amount of separate and distinct records which are demanded in a single request; or
 
-(d) *Notice to submitters.* OSTP shall provide a submitter with prompt written notice of a FOIA request or administrative appeal that seeks its business information, in order to give the submitter an opportunity to object to disclosure of any specified portion of that information. The notice shall either describe the business information requested or include copies of the requested records or record portions containing the information. When notification of a voluminous number of submitters is required, notification may be made by posting or publishing the notice in a place reasonably likely to accomplish it.
+(iii) The need for consultation, which shall be conducted with all practicable speed, with another agency having a substantial interest in the determination of the request or among two or more components of the agency having substantial subject-matter interest therein.
 
-(e) *Where notice is required.* Notice shall be given to a submitter wherever:
+(2) After OSTP notifies the requester of the reasons for the delay, the requester will have an opportunity to modify the request or arrange for an alternative time frame for completion of the request. To assist in this process, OSTP shall advise the requester of the availability of OSTP's FOIA Public Liaison to aid in the resolution of any disputes between the requester and OSTP, and notify the requester of his or her right to seek dispute resolution services from the Office of Government Information Services.
 
-(1) The information has been designated in good faith by the submitter as information considered protected from disclosure under Exemption 4; or
+(3) If no initial determination is made at the end of the twenty-day period provided for in paragraph (b) of this section, including any extension provided for in paragraph (c)(1) of this section, the requester may appeal the action to the FOIA Appeals Officer.
 
-(2) OSTP has reason to believe that the information may be protected from disclosure under Exemption 4.
+(d) *Expedited processing of request.* (1) A requester may make a request for expedited processing at any time.
 
-(f) *Opportunity to object to disclosure.* OSTP will allow a submitter a reasonable time to respond to the notice described in paragraph (d) of this section and will specify that time period within the notice. If a submitter has any objection to disclosure, the submitter is required to provide a detailed written statement of objections. The statement must specify all grounds for withholding any portion of the information under any exemption of FOIA and, in the case of Exemption 4, the submitter must show why the information is a trade secret or commercial or financial information that is privileged or confidential. In the event that a submitter fails to respond to the notice within the time specified, the submitter will be considered to have no objection to disclosure of the information. Information provided by the submitter that OSTP does not receive within the time specified shall not be considered by OSTP. Information provided by a submitter under this paragraph may itself be subject to disclosure under FOIA.
+(2) When a request for expedited processing is received, OSTP must determine whether to grant the request for expedited processing within ten (10) calendar days of its receipt. Requests will receive expedited processing if one of the following compelling needs is met:
 
-(g) *Notice of intent to disclose.* OSTP shall consider a submitter's objections and specific grounds for nondisclosure in deciding whether to disclose business information. Whenever OSTP decides to disclose business information over the objection of a submitter, OSTP shall give the submitter written notice, which shall include:
+(i) The requester can establish that failure to receive the records quickly could reasonably be expected to pose an imminent threat to the life or physical safety of an individual; or
 
-(1) A statement of the reason(s) why each of the submitter's disclosure objections was not sustained;
+(ii) The requester is primarily engaged in disseminating information and can demonstrate that an urgency to inform the public concerning actual or alleged Federal Government activity exists.
 
-(2) A description of the business information to be disclosed; and
+(3) A requester who seeks expedited processing must submit a statement, certified to be true and correct, explaining in detail the basis for making the request for expedited processing. As a matter of administrative discretion, OSTP may waive the formal certification requirement.
 
-(3) A specified disclosure date, which shall be a reasonable time subsequent to the notice.
+(4) Administrative appeals of denials of expedited processing will be given expeditious consideration. If the FOIA Appeals Officer upholds the denial of expedited processing, that decision is immediately subject to judicial review in the appropriate Federal district court.
 
-(h) *Exceptions to notice requirements.* The notice requirements of paragraphs (d) and (g) of this section shall not apply if:
+(e) *Multi-track processing.* (1) OSTP may use multi-track processing in responding to requests. Multi-track processing means placing simple requests that require limited review in one processing track and placing more voluminous and complex requests in one or more other processing tracks. Requests in each track are processed on a first-in, first-out basis.
 
-(1) OSTP determines that the information should not be disclosed;
+(i) *Track one—expedited requests.* Track one is made up of requests that sought and received expedited processing as provided for in paragraph (d)(2) of this section.
 
-(2) The information lawfully has been published or has been officially made available to the public;
+(ii) *Track two—simple requests.* Track two is for requests of simple to moderate complexity that do not require consultations with other entities and do not involve voluminous records.
 
-(3) Disclosure of the information is required by statute (other than FOIA) or by a regulation issued in accordance with the requirements of Executive Order 12600 (3 CFR, 1988 Comp., p. 235); or
+(iii) *Track three—complex requests.* Track three is for complex requests that involve voluminous records, require lengthy or numerous consultations, raise unique or novel legal questions, or require submitter review under § 2402.7.
 
-(4) The designation made by the submitter under paragraph (c) of this section appears obviously frivolous - except that, in such a case, OSTP shall, within a reasonable time prior to a specified disclosure date, give the submitter written notice of any final decision to disclose the information.
+(2) OSTP may provide requesters with requests in slower track(s) the opportunity to limit the scope of their requests in order to qualify for faster processing within the specified limits of faster track(s). OSTP will do so by contacting the requester by letter, telephone, email, or facsimile, whichever is more efficient in each case. When providing a requester with the opportunity to limit the scope of a request, OSTP shall also advise the requester of OSTP's FOIA Public Liaison to aid in the resolution of any dispute arising between the requester and OSTP as well as the requester's right to seek dispute resolution services from the Office of Government Information Services.
 
-(i) *Notice of FOIA lawsuit.* Whenever a requester files a lawsuit seeking to compel the disclosure of business information, OSTP shall promptly notify the submitter.
-
-(j) *Corresponding notice to requesters.* Whenever OSTP provides a submitter with notice and an opportunity to object to disclosure under paragraph (d) of this section, OSTP shall also notify the requester(s). Whenever OSTP notifies a submitter of its intent to disclose requested information under paragraph (g) of this section, OSTP shall also notify the requester(s). Whenever a submitter files a lawsuit seeking to prevent the disclosure of business information, OSTP shall notify the requester(s).
+(f) *Aggregating requests.* OSTP may aggregate requests if it reasonably appears that multiple requests, submitted either by a single requester or by a group of requesters acting in concert, involve related matters and constitute a single request that otherwise would involve unusual circumstances. For example, OSTP may aggregate multiple requests for similar information filed by a single requester within a short period of time.

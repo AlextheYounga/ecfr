@@ -1,8 +1,6 @@
 ##### § 170.403 Communications. #####
 
-Link to an amendment published at 85 FR 70084, Nov. 4, 2020.
-
-(a) *Condition of Certification requirements.* (1) A health IT developer may not prohibit or restrict any communication regarding -
+(a) *Condition of Certification requirements.* (1) A health IT developer may not prohibit or restrict any communication regarding—
 
 (i) The usability of its health IT;
 
@@ -40,7 +38,7 @@ Link to an amendment published at 85 FR 70084, Nov. 4, 2020.
 
 (C) *Intellectual property.* A health IT developer may prohibit or restrict communications that involve the use or disclosure of intellectual property existing in the developer's health IT (including third-party intellectual property), provided that any prohibition or restriction imposed by a developer must be no broader than necessary to protect the developer's legitimate intellectual property interests and consistent with all other requirements of paragraph (a)(2)(ii) of this section. A restriction or prohibition is deemed broader than necessary and inconsistent with the requirements of paragraph (a)(2)(ii) of this section if it would restrict or preclude a public display of a portion of a work subject to copyright protection (without regard to whether the copyright is registered) that would reasonably constitute a “fair use” of that work.
 
-(D) *Screenshots and video.* A health IT developer may require persons who communicate screenshots or video to -
+(D) *Screenshots and video.* A health IT developer may require persons who communicate screenshots or video to—
 
 (*1*) Not alter the screenshots or video, except to annotate the screenshots or video or resize the screenshots or video;
 
@@ -54,7 +52,7 @@ Link to an amendment published at 85 FR 70084, Nov. 4, 2020.
 
 (E) *Pre-market testing and development.* A health IT developer may prohibit or restrict communications that disclose information or knowledge solely acquired in the course of participating in pre-market product development and testing activities carried out for the benefit of the developer or for the joint benefit of the developer and communicator. A developer must not, once the subject health IT is released or marketed for purposes other than product development and testing, and subject to the permitted prohibitions and restrictions described in paragraph (a)(2)(ii) of this section, prohibit or restrict communications about matters enumerated in paragraph (a)(1) of this section.
 
-(b) *Maintenance of Certification requirements* - (1) *Notice.* Health IT developers must issue a written notice to all customers and those with which it has contracts or agreements containing provisions that contravene paragraph (a) of this section annually, beginning in calendar year 2020, until paragraph (b)(2)(ii) of this section is fulfilled, stating that any communication or contract provision that contravenes paragraph (a) of this section will not be enforced by the health IT developer.
+(b) *Maintenance of Certification requirements*—(1) *Notice.* Health IT developers must issue a written notice to all customers and those with which it has contracts or agreements containing provisions that contravene paragraph (a) of this section annually, beginning in calendar year 2021, until paragraph (b)(2)(ii) of this section is fulfilled, stating that any communication or contract provision that contravenes paragraph (a) of this section will not be enforced by the health IT developer.
 
 (2) *Contracts and agreements.* (i) A health IT developer must not establish, renew, or enforce any contract or agreement that contravenes paragraph (a) of this section.
 
@@ -62,4 +60,4 @@ Link to an amendment published at 85 FR 70084, Nov. 4, 2020.
 
 (c) *Communication, defined.* “Communication” as used in this section means any communication, irrespective of the form or medium. The term includes visual communications, such as screenshots and video.
 
-[85 FR 25945, May 1, 2020, as amended at 85 FR 43711, July 20, 2020]
+[85 FR 25945, May 1, 2020, as amended at 85 FR 43711, July 20, 2020; 85 FR 70084, Nov. 4, 2020]
