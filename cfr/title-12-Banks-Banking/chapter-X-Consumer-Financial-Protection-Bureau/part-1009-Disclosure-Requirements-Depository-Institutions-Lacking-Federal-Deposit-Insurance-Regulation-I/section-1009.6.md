@@ -1,0 +1,3 @@
+##### § 1009.6 Exception for certain depository institutions. #####
+
+The requirements of this part do not apply to any depository institution lacking Federal deposit insurance and located within the United States that does not receive initial deposits of less than an amount equal to the standard maximum deposit insurance amount from individuals who are citizens or residents of the United States, other than money received in connection with any draft or similar instrument issued to transmit money.

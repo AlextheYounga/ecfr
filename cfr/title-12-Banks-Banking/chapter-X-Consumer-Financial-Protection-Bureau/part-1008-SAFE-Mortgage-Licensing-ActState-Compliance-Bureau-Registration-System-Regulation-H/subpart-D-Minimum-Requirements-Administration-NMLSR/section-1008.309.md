@@ -1,0 +1,3 @@
+##### § 1008.309 Absence of liability for good-faith administration. #####
+
+The Bureau or any organization serving as the administrator of the Nationwide Mortgage Licensing System and Registry or a system established by the Bureau under 12 U.S.C. 5108 and in accordance with subpart C, or any officer or employee of the Bureau or the Bureau's designee, shall not be subject to any civil action or proceeding for monetary damages by reason of the good-faith action or omission of any officer or employee of any such entity, while acting within the scope of office or employment, relating to the collection, furnishing, or dissemination of information concerning persons who are loan originators or are applying for licensing or registration as loan originators.

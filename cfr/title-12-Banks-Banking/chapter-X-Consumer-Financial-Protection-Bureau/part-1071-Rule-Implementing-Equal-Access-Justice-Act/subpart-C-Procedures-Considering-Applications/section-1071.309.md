@@ -1,0 +1,3 @@
+##### § 1071.309 Payment of award. #####
+
+An applicant seeking payment of an award shall submit to the Bureau a copy of the Bureau's final decision granting the award, accompanied by a statement that the applicant will not seek review of the decision in the United States courts. An applicant shall be paid the amount awarded within 60 days of entry of the final decision unless judicial review of the award or of the underlying decision of the adversary adjudication has been sought by the applicant or any other party to the proceeding.

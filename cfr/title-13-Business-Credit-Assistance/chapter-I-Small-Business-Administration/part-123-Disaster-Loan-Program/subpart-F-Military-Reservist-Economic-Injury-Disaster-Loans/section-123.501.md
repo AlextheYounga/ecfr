@@ -1,5 +1,7 @@
 ##### § 123.501 Under what circumstances is your business eligible to be considered for a Military Reservist Economic Injury Disaster Loan? #####
 
+Link to an amendment published at 88 FR 24109, Apr. 19, 2023.
+
 Your business is eligible to apply for a Military Reservist EIDL if:
 
 (a) It is a small business as defined in 13 CFR part 121 when the essential employee was called to active duty,

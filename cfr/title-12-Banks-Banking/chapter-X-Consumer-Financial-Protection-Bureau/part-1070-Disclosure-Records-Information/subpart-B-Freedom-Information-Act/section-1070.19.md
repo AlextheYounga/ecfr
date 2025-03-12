@@ -1,0 +1,3 @@
+##### § 1070.19 Classified information. #####
+
+Whenever a request is made for a record containing information that another agency has classified, or which may be appropriate for classification by another agency under Executive Order 13526 or any other executive order concerning the classification of information, the CFPB shall refer the responsibility for responding to the request to the classifying or originating agency, as appropriate.

@@ -1,0 +1,7 @@
+##### § 1004.1 Authority, purpose, and scope. #####
+
+(a) *Authority.* This regulation, known as Regulation D, is issued by the Bureau of Consumer Financial Protection to implement the Alternative Mortgage Transaction Parity Act, 12 U.S.C. 3801 *et seq.,* as amended by title X, Section 1083 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Pub. L. 111-203, 124 Stat. 1376). Section 1004.4 is issued pursuant to the Alternative Mortgage Transaction Parity Act (as amended) and the Truth in Lending Act, 15 U.S.C. 1601 *et seq.*
+
+(b) *Purpose.* Consistent with the Alternative Mortgage Transaction Parity Act, the Truth in Lending Act, and the Dodd-Frank Wall Street Reform and Consumer Protection Act, the purpose of this regulation is to balance access to responsible credit and enhanced parity between State and federal housing creditors regarding the making, purchase, and enforcement of alternative mortgage transactions with consumer protection and the interests of the States in regulating mortgage transactions generally.
+
+(c) *Scope.* This regulation applies to an alternative mortgage transaction if the creditor received an application for that transaction on or after July 22, 2011. This regulation does not apply to a transaction if the creditor received the application for that transaction before July 22, 2011.

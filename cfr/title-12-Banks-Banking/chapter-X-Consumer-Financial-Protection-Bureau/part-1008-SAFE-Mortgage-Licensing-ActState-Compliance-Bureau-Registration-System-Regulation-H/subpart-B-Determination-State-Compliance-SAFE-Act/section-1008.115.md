@@ -1,0 +1,15 @@
+##### § 1008.115 Determination of noncompliance. #####
+
+(a) *Evidence of compliance.* Any time a state enacts legislation that affects its compliance with the S.A.F.E. Act, it must notify the Bureau. Upon request from the Bureau, a state must provide evidence that it is in compliance with the requirements of the S.A.F.E. Act and this part, including citations to applicable state law and regulations; descriptions of processes followed by the state's supervisory authority; and data concerning examination, investigation, and enforcement actions.
+
+(b) *Initial determination of noncompliance.* If the Bureau makes an initial determination that a state is not in compliance with the S.A.F.E. Act, the Bureau will notify the state and will publish, in the Federal Register, a notice providing the Bureau's initial determination and presenting the opportunity for public comment for a period of no less than 30 days. This public comment period will allow the residents of the state and other interested members of the public to comment on the Bureau's initial determination.
+
+(c) *Final determination of noncompliance.* In making a final determination of noncompliance, the Bureau will review additional information that may be offered by a state and the comments submitted during the public comment period described in paragraph (b) of this section. If the Bureau makes a final determination that a state does not have in place by law or regulation a system that complies with the minimum requirements of the S.A.F.E. Act, as described in this part, the Bureau will publish that final determination in the Federal Register.
+
+(d) *Good-faith effort to comply.* If the Bureau makes the final determination described in paragraph (c) of this section, but the Bureau finds that the state is making a good-faith effort to meet the requirements of 12 U.S.C. 5104, 5105, 5107(d), and this subpart, the Bureau may grant the state a period of not more than 24 months to comply with these requirements. If an extension is granted to the state in accordance with this paragraph (d), then the Bureau will provide an additional initial and final determination process before it determines that the state is not in compliance and is subject to subparts C and E of this part.
+
+(e) *Effective date of subparts C and E.* The provisions of subparts C and E of this part will become effective with respect to a state for which a final determination of noncompliance has been made upon:
+
+(1) The effective date of the Bureau's final determination with respect to the state, pursuant to paragraph (c) of this section, unless an extension had been granted to the state in accordance with paragraph (d) of this section; or
+
+(2) If an extension had been granted to the state in accordance with paragraph (d) of this section, the effective date of the Bureau's subsequent final determination with respect to the state following the expiration of the period of time granted pursuant to paragraph (d) of this section.

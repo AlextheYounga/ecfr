@@ -1,5 +1,7 @@
 ##### § 123.500 Definitions. #####
 
+Link to an amendment published at 88 FR 24109, Apr. 19, 2023.
+
 The following terms have the same meaning wherever they are used in this subpart:
 
 (a) *Essential employee* is an individual (whether or not an owner of a small business) whose managerial or technical expertise is critical to the successful day-to-day operations of a small business.

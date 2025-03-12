@@ -1,5 +1,7 @@
 ##### § 123.506 How much can you borrow under the Military Reservist EIDL Program? #####
 
+Link to an amendment published at 88 FR 24110, Apr. 19, 2023.
+
 You can borrow an amount equal to the substantial economic injury you have suffered or are likely to suffer until normal operations resume as a result of the absence of one or more essential employees called to active duty, up to a maximum of $2 million.
 
 [73 FR 54675, Sept. 23, 2008]

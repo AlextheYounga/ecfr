@@ -1,0 +1,3 @@
+##### § 1081.118 Collateral attacks on adjudication proceedings. #####
+
+Unless a court of competent jurisdiction, or the Director for good cause, so directs, if an interlocutory appeal or collateral attack is brought in any court concerning all or any part of an adjudication proceeding, the challenged adjudication proceeding will continue without regard to the pendency of that court proceeding. No default or other failure to act as directed in the adjudication proceeding within the times prescribed in this part will be excused based on the pendency before any court of any interlocutory appeal or collateral attack.

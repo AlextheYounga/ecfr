@@ -1,0 +1,3 @@
+##### § 1009.1 Scope. #####
+
+This part, known as Regulation I, is issued by the Bureau of Consumer Financial Protection. This part applies to all depository institutions lacking Federal deposit insurance. It requires the disclosure of certain insurance-related information in periodic statements, account records, locations where deposits are normally received, and advertising. This part also requires such depository institutions to obtain a written acknowledgment from depositors regarding the institution's lack of Federal deposit insurance.

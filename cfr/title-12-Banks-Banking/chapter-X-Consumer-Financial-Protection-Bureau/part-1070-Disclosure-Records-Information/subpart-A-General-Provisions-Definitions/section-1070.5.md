@@ -1,0 +1,11 @@
+##### § 1070.5 Service of summonses and complaints. #####
+
+(a) Only the General Counsel is authorized to receive and accept summonses or complaints sought to be served upon the CFPB or CFPB employees sued in their official capacity. Such documents should be served upon the General Counsel, Consumer Financial Protection Bureau, 1700 G Street NW, Washington, DC 20552. This authorization for receipt shall in no way affect the requirements of service elsewhere provided in applicable rules and regulations.
+
+(b) If, notwithstanding paragraph (a) of this section, any summons or complaint described in that paragraph is delivered to an employee of the CFPB, the employee shall decline to accept the proffered service and may notify the person attempting to make service of the regulations set forth herein. If, notwithstanding this instruction, an employee accepts service of a document described in paragraph (a) of this section, the employee shall immediately notify and deliver a copy of the summons and complaint to the General Counsel.
+
+(c) When a CFPB employee is sued in an individual capacity for an act or omission occurring in connection with duties performed on behalf of the CFPB (whether or not the officer or employee is also sued in an official capacity), the employee by law is to be served personally with process. *See* Fed. R. Civ. P. 4(i)(3). An employee sued in an individual capacity for an act or omission occurring in connection with duties performed on behalf of the CFPB shall immediately notify, and deliver a copy of the summons and complaint to, the General Counsel.
+
+(d) The CFPB will only accept service of process for an employee sued in his or her official capacity. Documents for which the General Counsel accepts service in official capacity shall be marked “Service Accepted in Official Capacity Only.” Acceptance of service shall not constitute an admission or waiver with respect to jurisdiction, propriety of service, improper venue, or any other defense in law or equity available under applicable laws or rules.
+
+[83 FR 46084, Sept. 12, 2018]

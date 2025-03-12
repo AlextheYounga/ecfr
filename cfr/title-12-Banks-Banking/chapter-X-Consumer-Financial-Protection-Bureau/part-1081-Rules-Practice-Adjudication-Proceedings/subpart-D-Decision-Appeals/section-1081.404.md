@@ -1,0 +1,5 @@
+##### § 1081.404 Oral argument before the Director. #####
+
+(a) *Availability.* The Director will consider appeals, motions, and other matters properly before the Director on the basis of the papers filed by the parties without oral argument unless the Director determines that the presentation of facts and legal arguments in the briefs and record and decisional process would be significantly aided by oral argument, in which case the Director will issue an order setting the date on which argument will be held. A party seeking oral argument must so indicate on the first page of that party's opening or answering brief.
+
+(b) *Public arguments; transcription.* All oral arguments will be public unless otherwise ordered by the Director. Oral arguments before the Director will be reported stenographically, unless otherwise ordered by the Director. Motions to correct the transcript of oral argument must be made according to the same procedure provided in § 1081.304(b).

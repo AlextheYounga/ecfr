@@ -1,0 +1,3 @@
+##### § 1073.304 Failure to timely submit request for a hearing. #####
+
+If the Bureau does not receive an employee's request for hearing within the 15-day period set forth in § 1073.303, the employee shall not be entitled to a hearing, and salary offset may be initiated. However, the Bureau may accept an untimely request for hearing if the employee can show that the delay was because of circumstances beyond his or her control or because of failure to receive notice of the time limit (unless otherwise aware of it).

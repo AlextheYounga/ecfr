@@ -1,0 +1,5 @@
+##### § 1008.305 Data security. #####
+
+(a) To the extent that CSBS, AARMR, or their successors maintain the NMLSR, CSBS, AARMR, and their successors, as applicable, must complete a background check on their employees, contractors, or other persons who have access to loan originators' Social Security Numbers, fingerprints, or any credit reports collected by the system.
+
+(b) To the extent that CSBS, AARMR, or their successors maintain the NMLSR, CSBS, AARMR, and their successors as applicable, must keep and adhere to an appropriate information security and privacy policy. If the NMLSR forms a reasonable belief that a security breach has occurred, it shall notify affected parties, as soon as practicable, including the Bureau, any loan originator or registrant whose data may have been compromised, and the employer of the loan originator or registrant, if such employer is also licensed through the system.

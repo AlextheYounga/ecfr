@@ -1,0 +1,5 @@
+##### § 1080.13 Custodians. #####
+
+(a) The Bureau shall designate a custodian and one or more deputy custodians for material to be delivered pursuant to a civil investigative demand in an investigation. The custodian shall have the powers and duties prescribed by 12 CFR 1070.3 and section 1052 of the Act, 12 U.S.C. 5562. Deputy custodians may perform all of the duties assigned to custodians.
+
+(b) Material produced pursuant to a civil investigative demand, while in the custody of the custodian, shall be for the official use of the Bureau in accordance with the Act; but such material shall upon reasonable notice to the custodian be made available for examination by the person who produced such material, or his or her duly authorized representative, during regular office hours established for the Bureau.

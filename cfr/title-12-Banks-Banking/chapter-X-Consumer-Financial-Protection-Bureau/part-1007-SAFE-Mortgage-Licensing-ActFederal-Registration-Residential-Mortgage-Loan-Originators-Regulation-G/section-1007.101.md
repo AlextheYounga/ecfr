@@ -1,0 +1,27 @@
+##### § 1007.101 Authority, purpose, and scope. #####
+
+(a) *Authority.* This part, known as Regulation G, is issued by the Bureau of Consumer Financial Protection pursuant to the Secure and Fair Enforcement for Mortgage Licensing Act of 2008, title V of the Housing and Economic Recovery Act of 2008 (S.A.F.E. Act) (Pub. L. 110-289, 122 Stat. 2654, 12 U.S.C. 5101 *et seq.,*) 12 U.S.C. 5512, 5581, 15 U.S.C. 1604(a), 1639b.
+
+(b) *Purpose.* This part implements the S.A.F.E. Act's Federal registration requirement for mortgage loan originators. The S.A.F.E. Act provides that the objectives of this registration include aggregating and improving the flow of information to and between regulators; providing increased accountability and tracking of mortgage loan originators; enhancing consumer protections; supporting anti-fraud measures; and providing consumers with easily accessible information at no charge regarding the employment history of, and publicly adjudicated disciplinary and enforcement actions against, mortgage loan originators.
+
+(c) *Scope*—(1) *In general.* This part applies to:
+
+(i) National banks, Federal branches and agencies of foreign banks, their operating subsidiaries (collectively referred to in this part as national banks), and their employees who act as mortgage loan originators;
+
+(ii) Member banks of the Federal Reserve System; their respective subsidiaries that are not functionally regulated within the meaning of section 5(c)(5) of the Bank Holding Company Act, as amended (12 U.S.C. 1844(c)(5)); branches and agencies of foreign banks; commercial lending companies owned or controlled by foreign banks (collectively referred to in this part as member banks); and their employees who act as mortgage loan originators;
+
+(iii) Insured state nonmember banks (including state-licensed insured branches of foreign banks), their subsidiaries (except brokers, dealers, persons providing insurance, investment companies, and investment advisers) (collectively referred to in this part as insured state nonmember banks), and employees of such banks or subsidiaries who act as mortgage loan originators;
+
+(iv) Savings associations, their operating subsidiaries (collectively referred to in this part as savings associations), and their employees who act as mortgage loan originators;
+
+(v) Farm Credit System lending institutions that actually originate residential mortgage loans pursuant to sections 1.9(3), 1.11 or 2.4(a) and (b) of the Farm Credit Act of 1971 (collectively referred to in this part as Farm Credit System institutions), and their employees who act as mortgage loan originators; and
+
+(vi) Any federally insured credit union and its employees, including volunteers, who act as mortgage loan originators. This part also applies to non-federally insured credit unions and their employees, including volunteers, who act as mortgage loan originators, subject to the conditions in paragraph (c)(3) of this section.
+
+(2) *De minimis exception.* (i) This part and the requirements of 12 U.S.C. 5103(a)(1)(A) and (2) of the S.A.F.E. Act do not apply to any employee of a national bank, member bank, insured state nonmember bank, savings association, Farm Credit System institution, or credit union who has never been registered or licensed through the Registry as a mortgage loan originator if during the past 12 months the employee acted as a mortgage loan originator for 5 or fewer residential mortgage loans.
+
+(ii) Prior to engaging in mortgage loan origination activity that exceeds the exception limit in paragraph (c)(2)(i) of this section, an employee must register with the Registry pursuant to this part.
+
+(iii) *Evasion.* National banks, member banks, insured state nonmember banks, savings associations, Farm Credit System institutions, and credit unions are prohibited from engaging in any act or practice to evade the limits of the *de minimis* exception set forth in paragraph (c)(2)(i) of this section.
+
+(3) *For non-federally insured credit unions.* A non-federally insured credit union in a state identified on the National Credit Union Administration's Web site (NCUA.gov) as one where the appropriate state supervisory authority has executed a Memorandum of Understanding (MOU) with the National Credit Union Administration may register under this rule provided that any Nationwide Mortgage Licensing System and Registry listing of the non-federally insured credit union and its employees contains a clear and conspicuous statement that the non-federally insured credit union is not insured by the National Credit Union Share Insurance Fund, and the state supervisory authority where the non-federally insured credit union is located maintains an agreement with the National Credit Union Administration for this registration process and oversight. If the state supervisory authority where the non-federally insured credit union is located fails to maintain such an agreement, the non-federally insured credit union and its employees in that state may not register or maintain registration under the Federal system. They instead must use the appropriate state licensing and registration system, or if the state does not have such a system, the licensing and registration system established by the Bureau for mortgage loan originators and their employees.

@@ -1,5 +1,7 @@
 ##### § 123.504 How do you apply for a Military Reservist EIDL? #####
 
+Link to an amendment published at 88 FR 24110, Apr. 19, 2023.
+
 To apply for a Military Reservist EIDL you must complete a SBA Military Reservist EIDL application package (SBA Form 5R and supporting documentation *can be obtained through SBA's Disaster Area Office*) including:
 
 (a) A copy of the essential employee's official call-up orders for active duty showing the date of call-up, and, if known, the date of release from active duty. For an essential employee who expects to be called up and who has not received official call-up orders, the application shall include the notice of the expected call-up including, if known, the expected date of call-up and expected date of release from active duty;

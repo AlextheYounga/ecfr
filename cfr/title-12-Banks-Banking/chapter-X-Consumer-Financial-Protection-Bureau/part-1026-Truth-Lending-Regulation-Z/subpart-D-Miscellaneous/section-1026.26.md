@@ -1,0 +1,5 @@
+##### § 1026.26 Use of annual percentage rate in oral disclosures. #####
+
+(a) *Open-end credit.* In an oral response to a consumer's inquiry about the cost of open-end credit, only the annual percentage rate or rates shall be stated, except that the periodic rate or rates also may be stated. If the annual percentage rate cannot be determined in advance because there are finance charges other than a periodic rate, the corresponding annual percentage rate shall be stated, and other cost information may be given.
+
+(b) *Closed-end credit.* In an oral response to a consumer's inquiry about the cost of closed-end credit, only the annual percentage rate shall be stated, except that a simple annual rate or periodic rate also may be stated if it is applied to an unpaid balance. If the annual percentage rate cannot be determined in advance, the annual percentage rate for a sample transaction shall be stated, and other cost information for the consumer's specific transaction may be given.

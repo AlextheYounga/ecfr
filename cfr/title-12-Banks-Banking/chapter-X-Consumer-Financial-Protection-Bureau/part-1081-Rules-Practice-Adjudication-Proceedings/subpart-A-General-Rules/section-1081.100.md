@@ -1,0 +1,3 @@
+##### § 1081.100 Scope of the rules of practice. #####
+
+This part prescribes rules of practice and procedure applicable to adjudication proceedings authorized by section 1053 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5563). The rules of practice in this part do not govern the conduct of Bureau investigations, investigational hearings or other proceedings that do not arise from proceedings after a notice of charges.

@@ -1,0 +1,11 @@
+##### § 1006.1 Authority, purpose, and coverage. #####
+
+(a) *Authority.* This part, known as Regulation F, is issued by the Bureau of Consumer Financial Protection pursuant to sections 814(d) and 817 of the Fair Debt Collection Practices Act (FDCPA or Act), 15 U.S.C. 1692*l*(d), 1692o; title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act), 12 U.S.C. 5481 *et seq.;* and paragraph (b)(1) of section 104 of the Electronic Signatures in Global and National Commerce Act (E-SIGN Act), 15 U.S.C. 7004.
+
+(b) *Purpose.* This part carries out the purposes of the FDCPA, which include eliminating abusive debt collection practices by debt collectors, ensuring that debt collectors who refrain from using abusive debt collection practices are not competitively disadvantaged, and promoting consistent State action to protect consumers against debt collection abuses. This part also prescribes requirements to ensure that certain features of debt collection are disclosed fully, accurately, and effectively to consumers in a manner that permits consumers to understand the costs, benefits, and risks associated with debt collection, in light of the facts and circumstances. Finally, this part imposes record retention requirements to enable the Bureau to administer and carry out the purposes of the FDCPA, the Dodd-Frank Act, and this part, as well as to prevent evasions thereof. The record retention requirements also will facilitate supervision of debt collectors and the assessment and detection of risks to consumers.
+
+(c) *Coverage.* (1) Except as provided in § 1006.108 and appendix A of this part regarding applications for State exemptions from the FDCPA, this part applies to debt collectors, as defined in § 1006.2(i), other than a person excluded from coverage by section 1029(a) of the Consumer Financial Protection Act of 2010, title X of the Dodd-Frank Act (12 U.S.C. 5519(a)).
+
+(2) Section 1006.34(c)(2)(iii) and (c)(3)(iv) applies to debt collectors only when they are collecting debt related to a consumer financial product or service as defined in § 1006.2(f).
+
+[85 FR 76887, Nov. 30, 2020, as amended at 86 FR 5853, Jan. 19, 2021]

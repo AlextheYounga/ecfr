@@ -1,5 +1,7 @@
 ##### § 123.3 How are disaster declarations made? #####
 
+Link to an amendment published at 88 FR 24109, Apr. 19, 2023.
+
 (a) There are five ways in which disaster declarations are issued which make SBA disaster loans possible:
 
 (1) The President declares a Major Disaster and authorizes Federal Assistance, including individual assistance (Assistance to Individuals and Households Program).

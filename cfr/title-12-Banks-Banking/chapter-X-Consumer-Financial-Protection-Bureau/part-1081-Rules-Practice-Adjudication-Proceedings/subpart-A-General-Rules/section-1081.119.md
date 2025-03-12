@@ -1,0 +1,19 @@
+##### § 1081.119 Confidential information; protective orders. #####
+
+(a) *Rights of third parties.* Any party that intends to disclose information obtained from a third party that is subject to a claim of confidentiality must provide notice to the third party at least seven days prior to the proposed disclosure of such information. In response to such notice, the third party may consent to the disclosure of such information, which may be conditioned on the entry of an appropriate protective order, or may intervene in the proceeding for the limited purpose of moving for a protective order pursuant to this section. Any written filing by a party that contains such confidential information must be accompanied by a certification that proper notice was provided. The act of making any oral motion or oral argument by any counsel or party which contains such confidential information constitutes a certification that proper notice was provided. A third party wishing to intervene for purposes of protecting its confidential information may file a single motion, in conformity with all applicable rules, setting forth the basis of both the third party's right to intervene and the basis for the protective order, in conformity with paragraph (b) of this section.
+
+(b) *Procedure.* In any adjudication proceeding, a party, including a third party who has intervened pursuant to paragraph (a) of this section, may file a motion requesting a protective order to limit from disclosure to other parties or to the public documents or testimony that contain confidential information. The motion should include a general summary or extract of the documents or testimony without revealing confidential details, and a copy of the proposed protective order. A motion for confidential treatment of documents should be filed in accordance with § 1081.112(f), and all other applicable rules of this chapter.
+
+(c) *Basis for issuance.* Documents and testimony introduced in a public hearing, or filed in connection with an adjudication proceeding, are presumed to be public. A motion for a protective order will be granted:
+
+(1) Upon a finding that public disclosure will likely result in a clearly defined, serious injury to the party or third party requesting confidential treatment;
+
+(2) After finding that the material constitutes sensitive personal information, as defined in § 1081.112(e);
+
+(3) If all parties, including third parties to the extent their information is at issue, stipulate to the entry of a protective order; or
+
+(4) Where public disclosure is prohibited by law.
+
+(d) *Requests for additional information supporting confidentiality.* The hearing officer may require a movant under paragraph (b) of this section to furnish in writing additional information with respect to the grounds for confidentiality. Failure to supply the information so requested within seven days from the date of receipt by the movant of a notice of the information required will be deemed a waiver of the objection to public disclosure of that portion of the documents to which the additional information relates, unless the hearing officer otherwise orders for good cause shown at or before the expiration of such seven-day period.
+
+(e) *Confidentiality of documents pending decision.* Pending a determination of a motion under this section, the documents as to which confidential treatment is sought and any other documents that would reveal the confidential information in those documents will be maintained under seal and may be disclosed only in accordance with orders of the hearing officer. Any order issued in connection with a motion under this section will be public unless the order would disclose information as to which a protective order has been granted, in which case that portion of the order that would reveal the protected information will be nonpublic.

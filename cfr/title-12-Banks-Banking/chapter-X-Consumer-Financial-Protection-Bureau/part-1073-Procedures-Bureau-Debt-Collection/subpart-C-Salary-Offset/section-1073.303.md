@@ -1,0 +1,5 @@
+##### § 1073.303 Procedures to request a hearing. #####
+
+(a) To request a hearing, an employee must send a written request to the designated official indicated in the Notice of Intent stating why the employee believes the determination concerning the existence or amount of debt is in error. The request must be received by the Bureau within 15 calendar days following the employee's receipt of the Notice of Intent.
+
+(b) The request must be signed by the employee and fully identify and explain with reasonable specificity all the facts, evidence, and witnesses, if any, which the employee believes support his or her position. The request for hearing must state whether the employee is requesting an oral or documentary hearing. If an oral hearing is requested, the request shall explain why the matter cannot be resolved by a review of documentary evidence alone.

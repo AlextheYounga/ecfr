@@ -1,0 +1,3 @@
+##### § 1081.302 Conduct of hearings. #####
+
+All hearings will be conducted in a fair, impartial, expeditious, and orderly manner. Enforcement counsel will present its case-in-chief first, unless otherwise ordered by the hearing officer, or unless otherwise expressly specified by law or regulation. Enforcement counsel will be the first party to present an opening statement and a closing statement, and may make a rebuttal statement after the respondent's closing statement. If there are multiple respondents, respondents may agree among themselves as to their order of presentation of their cases, but if they do not agree, the hearing officer will fix the order.

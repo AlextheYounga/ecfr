@@ -1,0 +1,3 @@
+##### § 1004.3 Preemption of State law. #####
+
+Pursuant to 12 U.S.C. 3803, a State-chartered or -licensed housing creditor may make, purchase, and enforce alternative mortgage transactions in accordance with § 1004.4(a) through (c) of this part (as applicable), notwithstanding any provision of State law that restricts the ability of the housing creditor to adjust or renegotiate an interest rate or finance charge with respect to the transaction or to change the amount of interest or finance charges included in a regular periodic payment as a result of such an adjustment or renegotiation.

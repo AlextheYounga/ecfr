@@ -1,0 +1,7 @@
+##### § 1008.109 Effective date of state requirements imposed on individuals. #####
+
+(a) Except as provided in paragraphs (b) and (c) of this section, a state must provide that the effective date for requirements it imposes in accordance with §§ 1008.103, 1008.105, and 1008.107 is no later than August 29, 2011.
+
+(b) For an individual who was permitted to perform residential mortgage loan originations under state legislation or regulations enacted or promulgated prior to the state's enactment or promulgation of a licensing system that complies with this subpart, a state may delay the effective date for requirements it imposes in accordance with §§ 1008.103, 1008.105, and 1008.107 to no later than August 29, 2011. For purposes of this paragraph (b), an individual was permitted to perform residential mortgage loan originations only if prior state law required the individual to be licensed, authorized, registered, or otherwise granted a form of affirmative and revocable government permission for individuals as a condition of performing residential mortgage loan originations.
+
+(c) The Bureau may approve a later effective date only upon a state's demonstration that substantial numbers of loan originators (or of a class of loan originators) who require a state license face unusual hardship, through no fault of their own or of the state government, in complying with the standards required by the S.A.F.E. Act and in obtaining state licenses within one year.

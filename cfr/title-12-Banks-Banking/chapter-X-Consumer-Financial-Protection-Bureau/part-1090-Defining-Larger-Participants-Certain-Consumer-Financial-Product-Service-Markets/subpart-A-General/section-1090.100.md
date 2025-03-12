@@ -1,0 +1,3 @@
+##### § 1090.100 Scope and purpose. #####
+
+This part defines those nonbank covered persons that qualify as larger participants of certain markets for consumer financial products or services pursuant to 12 U.S.C. 5514(a)(1)(B) and (a)(2). A larger participant of a market covered by this part is subject to the supervisory authority of the Bureau under 12 U.S.C. 5514. This part also establishes rules to facilitate the Bureau's supervision of such larger participants pursuant to 12 U.S.C. 5514(b)(7).

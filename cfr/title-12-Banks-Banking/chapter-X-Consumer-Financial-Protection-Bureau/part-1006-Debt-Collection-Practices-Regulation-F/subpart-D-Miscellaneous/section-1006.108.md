@@ -1,0 +1,5 @@
+##### § 1006.108 Exemption for State regulation. #####
+
+(a) *Exemption for State regulation.* Any State may apply to the Bureau for a determination that, under the laws of that State, any class of debt collection practices within that State is subject to requirements that are substantially similar to those imposed under sections 803 through 812 of the Act (15 U.S.C. 1692a through 1692j) and the corresponding provisions of this part, and that there is adequate provision for State enforcement of such requirements.
+
+(b) *Procedures and criteria.* The procedures and criteria whereby States may apply to the Bureau for exemption of a class of debt collection practices within the applying State from the provisions of the Act and the corresponding provisions of this part as provided in section 817 of the Act (15 U.S.C. 1692o) are set forth in appendix A of this part.

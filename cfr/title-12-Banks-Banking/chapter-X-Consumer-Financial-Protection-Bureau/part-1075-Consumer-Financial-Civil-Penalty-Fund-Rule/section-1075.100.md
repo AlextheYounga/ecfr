@@ -1,0 +1,3 @@
+##### § 1075.100 Scope and purpose. #####
+
+Section 1017(d)(1) of the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010, Public Law 111-203, 124 Stat. 1978 (12 U.S.C. 5497(d)) (Dodd-Frank Act) establishes the “Consumer Financial Civil Penalty Fund.” This part describes the conditions under which victims will be eligible for payments from the Consumer Financial Civil Penalty Fund and the amounts of the payments they may receive. This part also establishes procedures and guidelines for allocating funds from the Consumer Financial Civil Penalty Fund to classes of victims and distributing such funds to individual victims, and for allocating funds to consumer education and financial literacy programs. This part also establishes reporting requirements.
