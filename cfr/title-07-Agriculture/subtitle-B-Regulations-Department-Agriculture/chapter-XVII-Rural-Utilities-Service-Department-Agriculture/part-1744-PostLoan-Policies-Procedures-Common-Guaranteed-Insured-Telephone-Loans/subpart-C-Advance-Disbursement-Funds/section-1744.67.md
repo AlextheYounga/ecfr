@@ -1,5 +1,7 @@
 ##### § 1744.67 Temporary excess construction funds. #####
 
+Link to an amendment published at 84 FR 59922, Nov. 7, 2019.
+
 (a) When unanticipated events delay the borrower's disbursement of advanced funds, the funds may be used as follows:
 
 (1) With RUS loan funds for loans approved prior to November 1, 1993, or hardship loan funds, the borrower may invest the funds in 5 percent Treasury Certificates of Indebtedness - RUS Series.

@@ -1,5 +1,7 @@
 ##### § 1735.46 Loan security documents. #####
 
+Link to an amendment published at 84 FR 59922, Nov. 7, 2019.
+
 (a) Loans are to be repaid according to their terms. RUS generally obtains a first lien on all assets of the borrower. This lien shall be in the form of a mortgage by the borrower to the Government or a deed of trust made by and between the borrower and a trustee, satisfactory to the Administrator, together with such security agreements, financing statements, or other security documents as RUS may deem necessary in a particular case. Where a borrower is unable by reason of pre-existing encumbrances, or otherwise, to furnish a first mortgage lien on its entire system the Administrator may, if he determines such security to be reasonably adequate and the form and nature thereof otherwise appropriate, accept other forms of security. See RUS Bulletins 320-4, 320-22, 321-2, 322-2, 323-1, and 326-1 for details. See 7 CFR part 1744, subpart B for information on lien accommodations and subordinations.
 
 (b) Loan security documents of borrowers with loans approved after October 6, 1997 will provide limits on allowable cash distributions in any calendar year as follows:

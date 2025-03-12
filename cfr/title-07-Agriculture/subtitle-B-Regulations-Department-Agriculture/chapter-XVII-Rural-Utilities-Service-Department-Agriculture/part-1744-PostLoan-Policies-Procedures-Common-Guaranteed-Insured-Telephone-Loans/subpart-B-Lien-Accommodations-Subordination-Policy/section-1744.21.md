@@ -1,5 +1,7 @@
 ##### § 1744.21 Definitions. #####
 
+Link to an amendment published at 84 FR 59922, Nov. 7, 2019.
+
 The following definitions apply to this subpart:
 
 *Administrator* means the Administrator of RUS and includes the Governor of the RTB.

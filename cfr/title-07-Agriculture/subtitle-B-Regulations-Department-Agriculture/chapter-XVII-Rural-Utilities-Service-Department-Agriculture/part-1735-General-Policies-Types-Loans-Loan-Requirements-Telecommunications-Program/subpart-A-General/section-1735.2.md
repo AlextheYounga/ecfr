@@ -1,5 +1,7 @@
 ##### § 1735.2 Definitions. #####
 
+Link to an amendment published at 84 FR 59920, Nov. 7, 2019.
+
 As used in this part:
 
 *Access line* means a transmission path between user terminal equipment and a switching center that is used for local exchange service. For multiparty service, the number of access lines equals the number of lines/paths terminating on the mainframe of the switching center.

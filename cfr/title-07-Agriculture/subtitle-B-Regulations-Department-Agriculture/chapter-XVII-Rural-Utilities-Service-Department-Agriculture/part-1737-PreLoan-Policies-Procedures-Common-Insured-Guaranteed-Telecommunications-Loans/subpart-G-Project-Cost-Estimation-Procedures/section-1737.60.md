@@ -1,5 +1,7 @@
 ##### § 1737.60 Telephone loan budget. #####
 
+Link to an amendment published at 84 R 59922, Nov. 7, 2019.
+
 (a) RUS shall prepare a “Telephone Loan Budget” (RUS Form 493) showing all costs for the proposed project and the amount of loan and nonloan funds to be used. The budget shall show, as applicable, amounts for central offices, outside plant and station equipment, right-of-way procurement, land, buildings, removal costs, special projects, engineering, vehicles and work equipment, office equipment, operating funds, refinancing with loan funds, debt retirement with nonloan funds, acquisitions, and contingencies. The amounts budgeted, exclusive of prior loan reserves, generally shall be rounded to the nearest $1,000.
 
 (1) If the loan is to be made by the Rural Telephone Bank (RTB) or concurrently with RTB, the budget shall include the amount required for the purchase of RTB Class B stock. This is 5 percent of the amount to be borrowed from RTB for all purposes other than the purchase of RTB Class B stock. The borrower may elect to use nonloan funds for all or part of this requirement.

@@ -1,5 +1,7 @@
 ##### § 1737.11 Preapplication determinations. #####
 
+Link to an amendment published at 84 FR 59922, Nov. 7, 2019.
+
 Before submitting an application to RUS, the borrower should consider the following:
 
 (a) *Area to be served.* The proposed service area should neither include subscribers already receiving adequate service from another telephone system nor leave out unserved pockets of potential subscribers who have indicated an interest in service and are located between the proposed system and neighboring systems. See 7 CFR 1735.11 on Area Coverage and 7 CFR 1735.12 on Nonduplication. In establishing service area boundaries, borrowers should consider the location of adjoining systems, natural boundaries such as rivers and mountains, and economic and cultural features such as trading and community centers.

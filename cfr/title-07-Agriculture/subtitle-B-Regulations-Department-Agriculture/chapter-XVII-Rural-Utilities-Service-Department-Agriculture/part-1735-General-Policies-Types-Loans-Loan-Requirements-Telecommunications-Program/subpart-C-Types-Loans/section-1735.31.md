@@ -1,5 +1,7 @@
 ##### § 1735.31 RUS cost-of-money and RTB loans. #####
 
+Link to an amendment published at 84 FR 59921, Nov. 7, 2019.
+
 (a) RUS makes cost-of-money loans, under section 305(d)(2) of the RE Act, concurrently with RTB loans made under section 408 of the RE Act. To qualify for concurrent RUS cost-of-money and RTB loans on or after November 1, 1993, a borrower must meet each of the following requirements:
 
 (1) The average number of proposed subscribers per mile of line in the service area of the borrower is not more than 15, or the borrower has a projected TIER (including the proposed loans) of at least 1.0, but not greater than 5.0, as determined by the feasibility study prepared in connection with the loans, see 7 CFR part 1737, subpart H; and

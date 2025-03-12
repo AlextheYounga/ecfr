@@ -1,5 +1,7 @@
 ##### § 1744.68 Order and method of advances of telephone loan funds. #####
 
+Link to an amendment published at 84 FR 59922, Nov. 7, 2019.
+
 (a) Borrowers may specify the sequence of advances of funds under any combination of approved telephone loans from RUS, RTB, or FFB, except that for all loans approved on or after November 1, 1993, the borrower may use loan funds:
 
 (1) Only for purposes for which that type of loan (i.e. Hardship, RUS cost-of-money, RTB, or FFB) may be made; and

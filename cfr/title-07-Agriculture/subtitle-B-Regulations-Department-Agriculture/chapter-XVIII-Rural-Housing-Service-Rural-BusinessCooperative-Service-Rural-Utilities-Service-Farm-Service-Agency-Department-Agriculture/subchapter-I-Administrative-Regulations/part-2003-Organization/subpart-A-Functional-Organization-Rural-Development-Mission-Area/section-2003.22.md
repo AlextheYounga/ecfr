@@ -1,5 +1,7 @@
 ##### § 2003.22 Functional organization of RUS. #####
 
+Link to an amendment published at 84 FR 59923, November 7, 2019.
+
 (a) *General.* The Secretary established RUS pursuant to § 232 of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 6942).
 
 (b) *Office of the Administrator.* According to 7 CFR 2.47, the Administrator has responsibility for managing and administering the programs and support functions of RUS to provide financial and technical support for rural infrastructure to include electrification, clean drinking water, telecommunications, and water disposal systems, pursuant to the Consolidated Farm and Rural Development Act, as amended (7 U.S.C. 1921 *et seq.*), and the Rural Electrification Act of 1936, as amended (7 U.S.C. 901 *et seq.*). The office develops and implements strategic plans concerning the Rural Electrification Act of 1936, as amended. The Administrator serves as Governor of the Rural Telephone Bank (RTB) with a 13-member board of directors, and exercises and performs all functions, powers, and duties of the RTB in accordance with 7 U.S.C. 944.

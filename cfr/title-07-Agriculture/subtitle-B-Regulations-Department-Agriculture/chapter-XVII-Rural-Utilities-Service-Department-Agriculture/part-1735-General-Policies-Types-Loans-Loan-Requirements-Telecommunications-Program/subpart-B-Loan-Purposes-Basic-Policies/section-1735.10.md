@@ -1,5 +1,7 @@
 ##### § 1735.10 General. #####
 
+Link to an amendment published at 84 FR 59921, Nov. 7, 2019.
+
 (a) Loans made or guaranteed by the Administrator of RUS will be made in conformance with the Rural Electrification Act of 1936 (RE Act), as amended (7 U.S.C. 901 *et seq.*), and 7 CFR chapter XVII. RUS provides borrowers with specialized and technical accounting, engineering, and other managerial assistance in the construction and operation of their facilities when necessary to aid in the development of rural telephone service and to protect loan security. The Rural Utilities Service (RUS) makes loans to:
 
 (1) Furnish and improve telephone service in rural areas; and

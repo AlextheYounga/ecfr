@@ -1,5 +1,7 @@
 ##### § 1735.47 Rescissions of loans. #####
 
+Link to an amendment published at 84 FR 59922, Nov. 7, 2019.
+
 (a) Rescission of a loan may be requested by a borrower at any time. To rescind a loan, the borrower must demonstrate to RUS that:
 
 (1) The purposes of the loan being rescinded have been completed;

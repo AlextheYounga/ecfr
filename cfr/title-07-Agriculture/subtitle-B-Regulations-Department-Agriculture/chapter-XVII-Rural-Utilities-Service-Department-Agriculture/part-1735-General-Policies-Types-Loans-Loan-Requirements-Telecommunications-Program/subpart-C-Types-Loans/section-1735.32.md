@@ -1,5 +1,7 @@
 ##### § 1735.32 Guaranteed loans. #####
 
+Link to an amendment published at 84 FR 59921, Nov. 7, 2019.
+
 (a) *General.* Loan guarantees under this section will be considered for only those borrowers specifically requesting a guarantee. Borrowers may also specify that the loan to be guaranteed shall be made by the Federal Financing Bank (FFB). RUS provides loan guarantees pursuant to section 306 of the RE Act. Guaranteed loans may be made simultaneously with hardship loans or concurrent RUS cost-of-money and RTB loans. No fees or charges are assessed for any guarantee of a loan provided by RUS. In view of the Government's guarantee, RUS generally obtains a first lien on all assets of the borrower (see § 1735.46).
 
 (b) *Requirements.* To qualify for a guaranteed loan, a borrower must have a projected TIER (including the proposed loan or loans) of at least 1.2 as determined by the feasibility study prepared in connection with the loan. In addition, a borrower must meet all requirements set forth in the regulations applicable to a loan made by RUS with the exception that it is not required to participate in a state telecommunications modernization plan and is not subject to a subscriber per mile eligibility requirement, as provided in § 1735.31(a).

@@ -1,3 +1,5 @@
-##### § 500.144 Civil money penalties - payment and collection. #####
+##### § 500.144 Civil money penalties—payment and collection. #####
 
-Where the assessment is directed in a final order by the Secretary or in a final judgment issued by a United States District Court, the amount of the penalty is immediately due and payable to the United States Department of Labor. The person assessed such penalty shall remit promptly the amount thereof, as finally determined, to the Secretary by certified check or by money order, made payable to the order of “Wage and Hour Division, Labor.” The remittance shall be delivered or mailed either to the Administrator, in Washington, DC, or to the Wage and Hour Division Regional Office for the area in which the violations occurred.
+Where the assessment is directed in a final order by the Secretary or in a final judgment issued by a United States District Court, the amount of the penalty is immediately due and payable to the United States Department of Labor. The person assessed such penalty shall remit promptly the amount thereof, as finally determined, to the Secretary. Payment shall be made by certified check or money order made payable and delivered or mailed according to the instructions provided by the Department; through the electronic pay portal located at *www.pay.gov* or any successor system; or by any additional payment method deemed acceptable by the Department.
+
+[84 FR 59930, Nov. 7, 2019]

@@ -1,5 +1,7 @@
 ##### § 1751.100 Definitions. #####
 
+Link to an amendment published at 84 FR 59923, Nov. 7, 2019.
+
 As used in this subpart:
 
 *Bit rate.* The rate of transmission of telecommunications signals or intelligence in binary (two state) form in bits per unit time, e.g., Mb/s (megabits per second), kb/s (kilobits per second), etc.

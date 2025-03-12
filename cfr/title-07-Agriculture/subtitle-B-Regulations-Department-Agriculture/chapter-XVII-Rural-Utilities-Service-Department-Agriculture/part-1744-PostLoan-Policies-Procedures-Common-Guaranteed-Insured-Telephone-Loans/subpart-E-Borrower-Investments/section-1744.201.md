@@ -1,5 +1,7 @@
 ##### § 1744.201 Definitions. #####
 
+Link to an amendment published at 84 FR 59923, Nov. 7, 2019.
+
 As used in this subpart:
 
 *Administrator* means the Administrator of the Rural Utilities Service (RUS) and, as provided in § 1744.200(b), the Governor of the Rural Telephone Bank (RTB).

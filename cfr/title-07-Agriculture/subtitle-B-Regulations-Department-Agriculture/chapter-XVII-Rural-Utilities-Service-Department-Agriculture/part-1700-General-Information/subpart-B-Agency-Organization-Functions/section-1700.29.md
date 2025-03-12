@@ -1,5 +1,7 @@
 ##### § 1700.29 Telecommunications Program. #####
 
+Link to an amendment published at 84 FR 59920, Nov. 7, 2019.
+
 RUS and RTB, through the Telecommunications Program, make loans and loan guarantees to furnish and improve telecommunications service in rural areas.
 
 (a) *The Assistant Administrator, Telecommunications Program,* directs and coordinates the rural telecommunications programs, including the distance learning and telemedicine program, and in conjunction with the Administrator and Deputy Administrator, and others, the planning and formulating of programs and activities of the agency, and performs other activities as the Administrator may prescribe from time to time.

@@ -1,5 +1,7 @@
 ##### § 2003.1 Definitions. #####
 
+Link to an amendment published at 84 FR 59923, November 7, 2019.
+
 *EEO* - the Equal Employment Opportunity Act of 1972, 42 U.S.C. § 2000e *et seq.*
 
 *O&M* - Operations and Management.

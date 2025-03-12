@@ -1,5 +1,7 @@
 ##### § 1700.1 General. #####
 
+Link to an amendment published at 84 FR 59920, Nov. 7, 2019.
+
 (a) The Rural Electrification Administration (REA) was established by Executive Order No. 7037 on May 11, 1935. Statutory authority was provided by the Rural Electrification Act of 1936 (RE Act) (7 U.S.C. 901). The RE Act established REA as a lending agency with responsibility for developing a program for rural electrification.
 
 (b) On October 28, 1949, the RE Act was amended to authorize REA to make loans to improve and extend telephone service in rural areas. The Rural Telephone Bank (RTB), an agency of the United States, was established by amendment to the RE Act, approved May 7, 1971. The Administrator of RUS serves as the Bank's chief executive with the title of Governor.

@@ -1,5 +1,7 @@
 ##### § 1735.17 Facilities financed. #####
 
+Link to an amendment published at 84 FR 59921, Nov. 7, 2019.
+
 (a) RUS makes hardship and guaranteed loans to finance the improvement, expansion, construction, acquisition, and operation of systems or facilities (including station apparatus owned by the borrower, headquarters facilities, and vehicles not used primarily in construction) to furnish and improve telephone service in rural areas, except as noted under paragraph (c) of this section.
 
 (b) RUS makes concurrent RUS cost-of-money and RTB loans to finance the improvement, expansion, construction, and acquisition of systems or facilities (excluding station apparatus owned by the borrower, headquarters facilities, and vehicles not used primarily in construction) to furnish and improve telephone service in rural areas, except as noted under paragraph (c) of this section.

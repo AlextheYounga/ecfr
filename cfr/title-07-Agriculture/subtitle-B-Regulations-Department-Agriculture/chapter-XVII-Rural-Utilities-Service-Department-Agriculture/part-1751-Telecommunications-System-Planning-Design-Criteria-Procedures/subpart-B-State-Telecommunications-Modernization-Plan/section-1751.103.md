@@ -1,5 +1,7 @@
 ##### § 1751.103 Loan and loan advance requirements. #####
 
+Link to an amendment published at 84 FR 59923, Nov. 7, 2019.
+
 (a) For information about loan eligibility requirements in relation to the Modernization Plan, see 7 CFR part 1735. In particular, beginning February 13, 1996, RUS will make RUS hardship loans, RUS cost-of-money loans, and RTB loans for facilities and other RE Act purposes in a State only if:
 
 (1) The State has an RUS approved Modernization Plan; and
