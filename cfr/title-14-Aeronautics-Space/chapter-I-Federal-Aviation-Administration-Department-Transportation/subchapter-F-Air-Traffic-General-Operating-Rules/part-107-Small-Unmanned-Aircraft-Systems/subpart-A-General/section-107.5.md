@@ -1,8 +1,6 @@
-##### § 107.5 Falsification, reproduction or alteration. #####
+##### § 107.5 Falsification, reproduction, or alteration. #####
 
-Link to an amendment published at 86 FR 4381, Jan. 15, 2021.This amendment delayed until Apr. 21, 2021 at 86 FR 13630, Mar. 10, 2021.
-
-(a) No person may make or cause to be made -
+(a) No person may make or cause to be made—
 
 (1) Any fraudulent or intentionally false record or report that is required to be made, kept, or used to show compliance with any requirement under this part.
 
@@ -10,8 +8,12 @@ Link to an amendment published at 86 FR 4381, Jan. 15, 2021.This amendment delay
 
 (b) The commission by any person of an act prohibited under paragraph (a) of this section is a basis for any of the following:
 
-(1) Denial of an application for a remote pilot certificate or a certificate of waiver,
+(1) Denial of an application for a remote pilot certificate or a certificate of waiver;
 
-(2) Suspension or revocation of any certificate or waiver issued by the Administrator under this part and held by that person; or
+(2) Denial of a declaration of compliance;
 
-(3) A civil penalty.
+(3) Suspension or revocation of any certificate, waiver, or declaration of compliance issued or accepted by the Administrator under this part and held by that person; or
+
+(4) A civil penalty.
+
+[Docket FAA-2015-0150, Amdt. 107-1, 81 FR 42209, June 28, 2016, as amended by Amdt. No. 107-8, 86 FR 4381, Jan. 15, 2021]

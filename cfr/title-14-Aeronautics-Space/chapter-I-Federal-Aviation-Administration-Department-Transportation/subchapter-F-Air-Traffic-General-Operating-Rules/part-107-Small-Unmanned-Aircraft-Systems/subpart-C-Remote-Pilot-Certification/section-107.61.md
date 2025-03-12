@@ -1,7 +1,5 @@
 ##### § 107.61 Eligibility. #####
 
-Link to an amendment published at 86 FR 4382, Jan. 15, 2021.This amendment delayed until Mar. 16, 2021 at 86 FR 11623, Feb. 26, 2021.This amendment further delayed until Apr. 6, 2021 at 86 FR 13630, Mar. 10, 2021.
-
 Subject to the provisions of §§ 107.57 and 107.59, in order to be eligible for a remote pilot certificate with a small UAS rating under this subpart, a person must:
 
 (a) Be at least 16 years of age;
@@ -10,8 +8,10 @@ Subject to the provisions of §§ 107.57 and 107.59, in order to be eligible for
 
 (c) Not know or have reason to know that he or she has a physical or mental condition that would interfere with the safe operation of a small unmanned aircraft system; and
 
-(d) Demonstrate aeronautical knowledge by satisfying one of the following conditions:
+(d) Demonstrate aeronautical knowledge by satisfying one of the following conditions, in a manner acceptable to the Administrator:
 
-(1) Pass an initial aeronautical knowledge test covering the areas of knowledge specified in § 107.73(a); or
+(1) Pass an initial aeronautical knowledge test covering the areas of knowledge specified in § 107.73; or
 
-(2) If a person holds a pilot certificate (other than a student pilot certificate) issued under part 61 of this chapter and meets the flight review requirements specified in § 61.56, complete an initial training course covering the areas of knowledge specified in § 107.74(a) in a manner acceptable to the Administrator.
+(2) If a person holds a pilot certificate (other than a student pilot certificate) issued under part 61 of this chapter and meets the flight review requirements specified in § 61.56, complete training covering the areas of knowledge specified in § 107.74.
+
+[Docket FAA-2015-0150, Amdt. 107-1, 81 FR 42209, June 28, 2016, as amended by Amdt. No. 107-8, 86 FR 4382, Jan. 15, 2021]

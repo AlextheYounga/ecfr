@@ -1,0 +1,3 @@
+##### § 107.105 Limitations on operations over human beings. #####
+
+Except as provided in §§ 107.39(a) and (b) and 107.145, a remote pilot in command may conduct operations over human beings only in accordance with the following, as applicable: § 107.110 for Category 1 operations; §§ 107.115 and 107.120 for Category 2 operations; §§ 107.125 and 107.130 for Category 3 operations; or § 107.140 for Category 4 operations.

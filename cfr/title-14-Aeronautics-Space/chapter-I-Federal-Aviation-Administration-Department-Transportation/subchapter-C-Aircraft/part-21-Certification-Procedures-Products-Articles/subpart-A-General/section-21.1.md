@@ -1,10 +1,8 @@
 ##### § 21.1 Applicability and definitions. #####
 
-Link to an amendment published at 86 FR 4381, Jan. 15, 2021.Link to an extension of the above amendment published at 86 FR 13630, Mar. 10, 2021.
+(a) This part prescribes—
 
-(a) Except for aircraft subject to the provisions of part 107 of this chapter, this part prescribes -
-
-(1) Procedural requirements for issuing and changing -
+(1) Procedural requirements for issuing and changing—
 
 (i) Design approvals;
 
@@ -18,7 +16,7 @@ Link to an amendment published at 86 FR 4381, Jan. 15, 2021.Link to an extension
 
 (3) Procedural requirements for the approval of articles.
 
-(b) For the purposes of this part -
+(b) For the purposes of this part—
 
 (1) *Airworthiness approval* means a document, issued by the FAA for an aircraft, aircraft engine, propeller, or article, which certifies that the aircraft, aircraft engine, propeller, or article conforms to its approved design and is in a condition for safe operation, unless otherwise specified;
 
@@ -40,4 +38,4 @@ Link to an amendment published at 86 FR 4381, Jan. 15, 2021.Link to an extension
 
 (10) *Supplier* means a person at any tier in the supply chain who provides a product, article, or service that is used or consumed in the design or manufacture of, or installed on, a product or article.
 
-[Doc. No. FAA-2006-25877, Amdt. 21-92, 74 FR 53384, Oct. 16, 2009; Doc. No. FAA-2013-0933, Amdt. 21-98, 80 FR 59031, Oct. 1, 2015; Amdt. 21-98A, 80 FR 59031, Dec. 17, 2015; Docket FAA-2015-0150, Amdt. 21-99, 81 FR 42207, June 28, 2016]
+[Doc. No. FAA-2006-25877, Amdt. 21-92, 74 FR 53384, Oct. 16, 2009; Doc. No. FAA-2013-0933, Amdt. 21-98, 80 FR 59031, Oct. 1, 2015; Amdt. 21-98A, 80 FR 59031, Dec. 17, 2015; Docket FAA-2015-0150, Amdt. 21-99, 81 FR 42207, June 28, 2016; Docket FAA-2018-1087, Amdt. 21-105, 86 FR 4381, Jan. 15, 2021]

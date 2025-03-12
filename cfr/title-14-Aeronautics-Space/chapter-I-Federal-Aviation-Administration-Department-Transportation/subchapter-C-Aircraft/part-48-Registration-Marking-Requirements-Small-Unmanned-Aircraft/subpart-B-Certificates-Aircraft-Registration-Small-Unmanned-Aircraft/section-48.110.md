@@ -1,31 +1,25 @@
-##### § 48.110 Registration: Persons intending to use small unmanned aircraft for purposes other than as model aircraft. #####
+##### § 48.110 Application. #####
 
-Link to an amendment published at 86 FR 4504, Jan. 15, 2021.Link to an extension of the above amendment published at 86 FR 13629, Mar. 10, 2021.
+(a) *Required information.* Each applicant for a Certificate of Aircraft Registration issued under this part must submit all of the following information to the Registry:
 
-(a) *Certificate of Aircraft Registration.* A Certificate of Aircraft Registration issued in accordance with § 48.100 for aircraft used for purposes other than as model aircraft constitutes registration only for the small unmanned aircraft identified on the application.
+(1) Applicant's name and, for an applicant other than an individual, the name of the authorized representative applying for a Certificate of Aircraft Registration.
 
-(b) *Effective date of registration.* An aircraft is registered when the applicant receives a Certificate of Aircraft Registration for the specific aircraft. The effective date of registration is shown by the date of issue on the Certificate of Aircraft Registration issued for the aircraft.
+(2) Applicant's physical address and, for an applicant other than an individual, the physical address of the authorized representative. If the applicant or authorized representative cannot receive mail at a physical address, then provide a mailing address.
 
-(c) *Registration renewal.* A Certificate of Aircraft registration issued under this part expires 3 years after the date of issue unless it is renewed.
+(3) Applicant's email address or, for applicants other than individuals, the email address of the authorized representative.
 
-(1) The holder of a Certificate of Aircraft Registration must renew the Certificate by verifying, in a form and manner prescribed by the Administrator, that the information provided in accordance with § 48.100 of this subpart is accurate and if it is not, provide updated information. The verification may take place at any time within the six months preceding the month in which the Certificate of Aircraft registration expires.
+(4) Applicant's telephone number(s) and, for an applicant other than an individual, the telephone number(s) of the authorized representative.
 
-(2) A certificate issued under this paragraph expires three years from the expiration date of the previous certificate.
+(5) The aircraft manufacturer and model name.
 
-(d) *Other events affecting effectiveness of Certificate.* Each Certificate of Aircraft Registration issued by the FAA under this subpart is effective, unless registration has ended by reason of having been revoked, canceled, expired, or the ownership is transferred, until the date upon which one of the following events occurs:
+(6) For any standard remote identification unmanned aircraft, the serial number issued by the manufacturer of the unmanned aircraft in accordance with the design and production requirements of part 89 of this chapter. The serial number provided in this application must not be listed on more than one Certificate of Aircraft Registration at the same time.
 
-(1) Subject to the Convention on the International Recognition of Rights in Aircraft when applicable, the aircraft is registered under the laws of a foreign country.
+(7) For any unmanned aircraft equipped with a remote identification broadcast module, the serial number issued by the manufacturer of the remote identification broadcast module in accordance with the design and production requirements of part 89 of this chapter. An applicant may submit the serial number of more than one remote identification broadcast module as part of the application for aircraft registration under § 48.105. The serial number of a remote identification broadcast module provided in this application must not be listed on more than one Certificate of Aircraft Registration at the same time.
 
-(2) The small unmanned aircraft is totally destroyed or scrapped.
+(8) Other information as required by the Administrator.
 
-(3) The holder of the Certificate of Aircraft Registration loses U.S. citizenship.
+(b) *Provision of information.* The information identified in paragraph (a) of this section must be submitted to the Registry through the web-based small unmanned aircraft registration system in a form and manner prescribed by the Administrator.
 
-(4) Thirty days have elapsed since the death of the holder of the Certificate of Aircraft Registration.
+(c) *Issuance of Certificate of Aircraft Registration.* The FAA will issue a Certificate of Aircraft Registration upon completion of the application requirements provided in paragraph (a) of this section.
 
-(5) The owner, if an individual who is not a citizen of the United States, loses status as a resident alien, unless that person becomes a citizen of the United States at the same time.
-
-(6) The owner is a corporation other than a corporation which is a citizen of the United States and one of the following events occurs:
-
-(i) The corporation ceases to be lawfully organized and doing business under the laws of the United States or any State thereof; or
-
-(ii) The aircraft was not operated exclusively within the United States during the period of registration under this part.
+[Doc. No. FAA-2015-7396; Amdt. No. 48-1; 80 FR 78645, Dec. 16, 2015. Redesignated and amended by Doc. No. FAA-2019-1100; Amdt. No. 48-3, 86 FR 4504, Jan. 15, 2021]

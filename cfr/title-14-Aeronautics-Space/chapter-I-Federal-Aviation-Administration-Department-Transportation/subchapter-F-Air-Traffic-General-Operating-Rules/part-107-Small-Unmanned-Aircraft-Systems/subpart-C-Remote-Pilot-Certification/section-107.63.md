@@ -1,14 +1,12 @@
 ##### § 107.63 Issuance of a remote pilot certificate with a small UAS rating. #####
 
-Link to an amendment published at 86 FR 4382, Jan. 15, 2021.This amendment delayed until Mar. 16, 2021 at 86 FR 11623, Feb. 26, 2021.This amendment further delayed until Apr. 6, 2021 at 86 FR 13630, Mar. 10, 2021.
-
 An applicant for a remote pilot certificate with a small UAS rating under this subpart must make the application in a form and manner acceptable to the Administrator.
 
 (a) The application must include either:
 
 (1) Evidence showing that the applicant passed an initial aeronautical knowledge test. If applying using a paper application, this evidence must be an airman knowledge test report showing passage of the knowledge test; or
 
-(2) If a person holds a pilot certificate (other than a student pilot certificate) issued under part 61 of this chapter and meets the flight review requirements specified in § 61.56, a certificate of completion of a part 107 initial training course.
+(2) If a person holds a pilot certificate (other than a student pilot certificate) issued under part 61 of this chapter and meets the flight review requirements specified in § 61.56, a certificate of completion of an initial training course under this part that covers the areas of knowledge specified in § 107.74.
 
 (b) If the application is being made pursuant to paragraph (a)(2) of this section:
 
@@ -18,4 +16,5 @@ An applicant for a remote pilot certificate with a small UAS rating under this s
 
 (3) The person making the application must, by logbook endorsement or other manner acceptable to the Administrator, show the applicant meets the flight review requirements specified in § 61.56 of this chapter.
 
-[Docket FAA-2015-0150, Amdt. 107-1, 81 FR 42209, June 28, 2016, as amended by Docket FAA-2018-0119, Amdt. 107-2, 83 FR 9172, Mar. 5, 2018]
+[Docket FAA-2015-0150, Amdt. 107-1, 81 FR 42209, June 28, 2016, as amended by Docket FAA-2018-0119, Amdt. 107-2, 83 FR 9172, Mar. 5, 2018; Amdt. No. 107-8, 86 FR 4382, Jan. 15, 2021]
+]

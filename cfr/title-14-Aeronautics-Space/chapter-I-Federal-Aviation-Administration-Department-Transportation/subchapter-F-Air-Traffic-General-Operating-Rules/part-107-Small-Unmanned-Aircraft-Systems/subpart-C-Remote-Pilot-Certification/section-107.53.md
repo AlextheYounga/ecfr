@@ -1,5 +1,5 @@
-##### § 107.53 Applicability. #####
+##### § 107.53 Automatic Dependent Surveillance-Broadcast (ADS-B) Out prohibition. #####
 
-Link to an amendment published at 86 FR 4513, Jan. 15, 2021.This amendment delayed to Apr. 21, 2021 at 86 FR 13629, Mar. 10, 2021.
+Unless otherwise authorized by the Administrator, no person may operate a small unmanned aircraft system under this part with ADS-B Out equipment in transmit mode.
 
-This subpart prescribes the requirements for issuing a remote pilot certificate with a small UAS rating.
+[Amdt. No. 107-7, 86 FR 4513, Jan. 15, 2021]

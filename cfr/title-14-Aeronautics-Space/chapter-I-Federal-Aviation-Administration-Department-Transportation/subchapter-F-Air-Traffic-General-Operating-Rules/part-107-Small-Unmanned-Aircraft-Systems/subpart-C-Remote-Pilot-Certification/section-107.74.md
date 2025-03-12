@@ -1,29 +1,21 @@
-##### § 107.74 Initial and recurrent training courses. #####
+##### § 107.74 Small unmanned aircraft system training. #####
 
-Link to an amendment published at 86 FR 4383, Jan. 15, 2021.This amendment delayed until Mar. 16, 2021 at 86 FR 11623, Feb. 26, 2021.This amendment further delayed until Apr. 6, 2021 at 86 FR 13630, Mar. 10, 2021.
+Training for pilots who hold a pilot certificate (other than a student pilot certificate) issued under part 61 of this chapter and meet the flight review requirements specified in § 61.56 covers the following areas of knowledge:
 
-(a) An initial training course covers the following areas of knowledge:
+(a) Applicable regulations relating to small unmanned aircraft system rating privileges, limitations, and flight operation;
 
-(1) Applicable regulations relating to small unmanned aircraft system rating privileges, limitations, and flight operation;
+(b) Effects of weather on small unmanned aircraft performance;
 
-(2) Effects of weather on small unmanned aircraft performance;
+(c) Small unmanned aircraft loading;
 
-(3) Small unmanned aircraft loading;
+(d) Emergency procedures;
 
-(4) Emergency procedures;
+(e) Crew resource management;
 
-(5) Crew resource management;
+(f) Determining the performance of the small unmanned aircraft;
 
-(6) Determining the performance of small unmanned aircraft; and
+(g) Maintenance and preflight inspection procedures; and
 
-(7) Maintenance and preflight inspection procedures.
+(h) Operation at night.
 
-(b) A recurrent training course covers the following areas of knowledge:
-
-(1) Applicable regulations relating to small unmanned aircraft system rating privileges, limitations, and flight operation;
-
-(2) Emergency procedures;
-
-(3) Crew resource management; and
-
-(4) Maintenance and preflight inspection procedures.
+[Amdt. No. 107-8, 86 FR 4383, Jan. 15, 2021]

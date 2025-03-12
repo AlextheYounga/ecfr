@@ -1,0 +1,3 @@
+##### § 107.135 Labeling by remote pilot in command for Category 2 and 3 operations. #####
+
+If a Category 2 or Category 3 label affixed to a small unmanned aircraft is damaged, destroyed, or missing, a remote pilot in command must label the aircraft in English such that the label is legible, prominent, and will remain on the small unmanned aircraft for the duration of the operation before conducting operations over human beings. The label must correctly identify the category or categories of operation over human beings that the small unmanned aircraft is qualified to conduct in accordance with this subpart.

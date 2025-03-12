@@ -1,3 +1,5 @@
-##### § 107.52 xxx #####
+##### § 107.52 ATC transponder equipment prohibition. #####
 
-Link to an amendment published at 86 FR 4513, Jan. 15, 2021.This amendment delayed to Apr. 21, 2021 at 86 FR 13629, Mar. 10, 2021.
+Unless otherwise authorized by the Administrator, no person may operate a small unmanned aircraft system under this part with a transponder on.
+
+[Amdt. No. 107-7, 86 FR 4513, Jan. 15, 2021]

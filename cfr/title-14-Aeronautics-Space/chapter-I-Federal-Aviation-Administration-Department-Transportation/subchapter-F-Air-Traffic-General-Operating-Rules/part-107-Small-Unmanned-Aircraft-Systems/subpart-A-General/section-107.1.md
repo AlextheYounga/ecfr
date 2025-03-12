@@ -1,13 +1,15 @@
 ##### § 107.1 Applicability. #####
 
-Link to an amendment published at 86 FR 4381, Jan. 15, 2021.This amendment delayed until Apr. 21, 2021 at 86 FR 13630, Mar. 10, 2021.
-
-(a) Except as provided in paragraph (b) of this section, this part applies to the registration, airman certification, and operation of civil small unmanned aircraft systems within the United States.
+(a) Except as provided in paragraph (b) of this section, this part applies to the registration, airman certification, and operation of civil small unmanned aircraft systems within the United States. This part also applies to the eligibility of civil small unmanned aircraft systems to operate over human beings in the United States.
 
 (b) This part does not apply to the following:
 
-(1) Air carrier operations; or
+(1) Air carrier operations;
 
-(2) Any operation that a remote pilot in command elects to conduct pursuant to an exemption issued under section 333 of Public Law 112-95, unless otherwise specified in the exemption.
+(2) Any aircraft subject to the provisions of 49 U.S.C. 44809;
 
-Doc. FAA-2015-0150, Amdt. 107-1, 81 FR 42209, June 28, 2016 as amended by Doc. No. FAA-2020-0446, Amdt. No. 107-5, 85 FR 62976, Oct. 6, 2020]
+(3) Any operation that the holder of an exemption under section 333 of Public Law 112-95 or 49 U.S.C. 44807 elects to conduct pursuant to the exemption, unless otherwise specified in the exemption; or
+
+(4) Any operation that a person elects to conduct under part 91 of this chapter with a small unmanned aircraft system that has been issued an airworthiness certificate.
+
+[Amdt. No. 107-8, 86 FR 4381, Jan. 15, 2021]

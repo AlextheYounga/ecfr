@@ -1,9 +1,9 @@
 ##### § 48.30 Fees. #####
 
-Link to an amendment published at 86 FR 4504, Jan. 15, 2021.Link to an extension of the above amendment published at 86 FR 13629, Mar. 10, 2021.
+(a) The fee for issuing or renewing a Certificate of Aircraft Registration as described in § 48.100 is $5.00 per aircraft.
 
-(a) The fee for issuing or renewing a Certificate of Aircraft Registration for aircraft registered in accordance with § 48.100(a) is $5.00 per aircraft.
-
-(b) The fee for issuing or renewing a Certificate of Aircraft Registration for aircraft registered in accordance with § 48.100(b) is $5.00 per certificate.
+(b) The fee for issuing or renewing a Certificate of Aircraft Registration as described in § 48.105 is $5.00 per certificate.
 
 (c) Each application for and renewal of a Certificate of Aircraft Registration must be accompanied by the fee described in paragraphs (a) and (b), as applicable, paid to the Federal Aviation Administration through the web-based aircraft registration system, or in another manner if prescribed by the Administrator.
+
+[Doc. No. FAA-2015-7396; Amdt. No. 48-1; 80 FR 78645, Dec. 16, 2015, as amended by Doc. No. FAA-2019-1100; Amdt. No. 48-3; 86 FR 4504, Jan. 15, 2021]

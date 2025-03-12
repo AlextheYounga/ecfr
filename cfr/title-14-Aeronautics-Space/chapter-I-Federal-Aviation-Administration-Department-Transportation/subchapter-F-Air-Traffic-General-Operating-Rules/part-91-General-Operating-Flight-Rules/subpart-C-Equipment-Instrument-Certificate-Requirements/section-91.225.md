@@ -1,16 +1,14 @@
 ##### § 91.225 Automatic Dependent Surveillance-Broadcast (ADS-B) Out equipment and use. #####
 
-Link to an amendment published at 86 FR 4513, Jan. 15, 2021.This amendment delayed to Apr. 21, 2021 at 86 FR 13629, Mar. 10, 2021.
-
-(a) After January 1, 2020, and unless otherwise authorized by ATC, no person may operate an aircraft in Class A airspace unless the aircraft has equipment installed that -
+(a) After January 1, 2020, unless otherwise authorized by ATC, no person may operate an aircraft in Class A airspace unless the aircraft has equipment installed that—
 
 (1) Meets the performance requirements in TSO-C166b, Extended Squitter Automatic Dependent Surveillance-Broadcast (ADS-B) and Traffic Information Service-Broadcast (TIS-B) Equipment Operating on the Radio Frequency of 1090 Megahertz (MHz); and
 
 (2) Meets the requirements of § 91.227.
 
-(b) After January 1, 2020, and unless otherwise authorized by ATC, no person may operate an aircraft below 18,000 feet MSL and in airspace described in paragraph (d) of this section unless the aircraft has equipment installed that -
+(b) After January 1, 2020, except as prohibited in paragraph (i)(2) of this section or unless otherwise authorized by ATC, no person may operate an aircraft below 18,000 feet MSL and in airspace described in paragraph (d) of this section unless the aircraft has equipment installed that—
 
-(1) Meets the performance requirements in -
+(1) Meets the performance requirements in—
 
 (i) TSO-C166b; or
 
@@ -20,7 +18,7 @@ Link to an amendment published at 86 FR 4513, Jan. 15, 2021.This amendment delay
 
 (c) Operators with equipment installed with an approved deviation under § 21.618 of this chapter also are in compliance with this section.
 
-(d) After January 1, 2020, and unless otherwise authorized by ATC, no person may operate an aircraft in the following airspace unless the aircraft has equipment installed that meets the requirements in paragraph (b) of this section:
+(d) After January 1, 2020, except as prohibited in paragraph (i)(2) of this section or unless otherwise authorized by ATC, no person may operate an aircraft in the following airspace unless the aircraft has equipment installed that meets the requirements in paragraph (b) of this section:
 
 (1) Class B and Class C airspace areas;
 
@@ -32,13 +30,13 @@ Link to an amendment published at 86 FR 4513, Jan. 15, 2021.This amendment delay
 
 (5) Class E airspace at and above 3,000 feet MSL over the Gulf of Mexico from the coastline of the United States out to 12 nautical miles.
 
-(e) The requirements of paragraph (b) of this section do not apply to any aircraft that was not originally certificated with an electrical system, or that has not subsequently been certified with such a system installed, including balloons and gliders. These aircraft may conduct operations without ADS-B Out in the airspace specified in paragraphs (d)(2) and (d)(4) of this section. Operations authorized by this section must be conducted -
+(e) The requirements of paragraph (b) of this section do not apply to any aircraft that was not originally certificated with an electrical system, or that has not subsequently been certified with such a system installed, including balloons and gliders. These aircraft may conduct operations without ADS-B Out in the airspace specified in paragraphs (d)(2) and (d)(4) of this section. Operations authorized by this section must be conducted—
 
 (1) Outside any Class B or Class C airspace area; and
 
 (2) Below the altitude of the ceiling of a Class B or Class C airspace area designated for an airport, or 10,000 feet MSL, whichever is lower.
 
-(f) Each person operating an aircraft equipped with ADS-B Out must operate this equipment in the transmit mode at all times unless -
+(f) Except as prohibited in paragraph (i)(2) of this section, each person operating an aircraft equipped with ADS-B Out must operate this equipment in the transmit mode at all times unless—
 
 (1) Otherwise authorized by the FAA when the aircraft is performing a sensitive government mission for national defense, homeland security, intelligence or law enforcement purposes and transmitting would compromise the operations security of the mission or pose a safety risk to the aircraft, crew, or people and property in the air or on the ground; or
 
@@ -56,4 +54,18 @@ Link to an amendment published at 86 FR 4513, Jan. 15, 2021.This amendment delay
 
 (2) Copies of Section 2, Equipment Performance Requirements and Test Procedures, of RTCA DO-260B, Minimum Operational Performance Standards for 1090 MHz Extended Squitter Automatic Dependent Surveillance-Broadcast (ADS-B) and Traffic Information Services-Broadcast (TIS-B), December 2, 2009 (referenced in TSO-C166b) and Section 2, Equipment Performance Requirements and Test Procedures, of RTCA DO-282B, Minimum Operational Performance Standards for Universal Access Transceiver (UAT) Automatic Dependent Surveillance-Broadcast (ADS-B), December 2, 2009 (referenced in TSO C-154c) may be obtained from RTCA, Inc., 1828 L Street, NW., Suite 805, Washington, DC 20036-5133, telephone 202-833-9339. Copies of RTCA DO-260B and RTCA DO-282B are also available on RTCA Inc.'s Web site, at*http://www.rtca.org/onlinecart/allproducts.cfm.*
 
-[Doc. No. FAA-2007-29305, 75 FR 30193, May 28, 2010; Amdt. 91-314-A, 75 FR 37712, June 30, 2010; Amdt. 91-316, 75 FR 37712, June 30, 2010; Amdt. 91-336, 80 FR 6900, Feb. 9, 2015; Amdt. 91-336A, 80 FR 11537, Mar. 4, 2015; Amdt. 91-355, 84 FR 34287, July 18, 2019]
+(i) For unmanned aircraft:
+
+(1) No person may operate an unmanned aircraft under a flight plan and in two way communication with ATC unless:
+
+(i) That aircraft has equipment installed that meets the performance requirements in TSO-C166b or TSO-C154c; and
+
+(ii) The equipment meets the requirements of § 91.227.
+
+(2) No person may operate an unmanned aircraft under this part with Automatic Dependent Surveillance-Broadcast Out equipment in transmit mode unless:
+
+(i) The operation is conducted under a flight plan and the person operating that unmanned aircraft maintains two-way communication with ATC; or
+
+(ii) The use of ADS-B Out is otherwise authorized by the Administrator.
+
+[Doc. No. FAA-2007-29305, 75 FR 30193, May 28, 2010; Amdt. 91-314-A, 75 FR 37712, June 30, 2010; Amdt. 91-316, 75 FR 37712, June 30, 2010; Amdt. 91-336, 80 FR 6900, Feb. 9, 2015; Amdt. 91-336A, 80 FR 11537, Mar. 4, 2015; Amdt. 91-355, 84 FR 34287, July 18, 2019; Amdt. No. 91-361, 86 FR 4513, Jan. 15, 2021]

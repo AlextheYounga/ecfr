@@ -1,7 +1,5 @@
 ##### § 1.1 General definitions. #####
 
-Link to an amendment published at 86 FR 4503, Jan. 15, 2021.Link to an extension of the above amendment published at 86 FR 13629, Mar. 10, 2021.
-
 As used in Subchapters A through K of this chapter, unless the context requires otherwise:
 
 *Administrator* means the Federal Aviation Administrator or any person to whom he has delegated his authority in the matter concerned.
@@ -152,7 +150,7 @@ Controlled airspace is a generic term that covers Class A, Class B, Class C, Cla
 
 *ETOPS Significant System* means an airplane system, including the propulsion system, the failure or malfunctioning of which could adversely affect the safety of an ETOPS flight, or the continued safe flight and landing of an airplane during an ETOPS diversion. Each ETOPS significant system is either an ETOPS group 1 significant system or an ETOPS group 2 significant system.
 
-(1) An ETOPS group 1 Significant System -
+(1) An ETOPS group 1 Significant System—
 
 (i) Has fail-safe characteristics directly linked to the degree of redundancy provided by the number of engines on the airplane.
 
@@ -166,7 +164,7 @@ Controlled airspace is a generic term that covers Class A, Class B, Class C, Cla
 
 *Extended Operations (ETOPS)* means an airplane flight operation, other than an all-cargo operation in an airplane with more than two engines, during which a portion of the flight is conducted beyond a time threshold identified in part 121 or part 135 of this chapter that is determined using an approved one-engine-inoperative cruise speed under standard atmospheric conditions in still air.
 
-*Extended over-water operation* means -
+*Extended over-water operation* means—
 
 (1) With respect to aircraft other than helicopters, an operation over water at a horizontal distance of more than 50 nautical miles from the nearest shoreline; and
 
@@ -180,13 +178,13 @@ Controlled airspace is a generic term that covers Class A, Class B, Class C, Cla
 
 *Final takeoff speed* means the speed of the airplane that exists at the end of the takeoff path in the en route configuration with one engine inoperative.
 
-*Fireproof* -
+*Fireproof*—
 
 (1) With respect to materials and parts used to confine fire in a designated fire zone, means the capacity to withstand at least as well as steel in dimensions appropriate for the purpose for which they are used, the heat produced when there is a severe fire of extended duration in that zone; and
 
 (2) With respect to other materials and parts, means the capacity to withstand the heat associated with fire at least as well as steel in dimensions appropriate for the purpose for which they are used.
 
-*Fire resistant* -
+*Fire resistant*—
 
 (1) With respect to sheet or structural members means the capacity to withstand the heat associated with fire at least as well as aluminum alloy in dimensions appropriate for the purpose for which they are used; and
 
@@ -284,7 +282,7 @@ Whether that commerce moves wholly by aircraft of partly by aircraft and partly 
 
 *Light-sport aircraft* means an aircraft, other than a helicopter or powered-lift that, since its original certification, has continued to meet the following:
 
-(1) A maximum takeoff weight of not more than -
+(1) A maximum takeoff weight of not more than—
 
 (i) 1,320 pounds (600 kilograms) for aircraft not intended for operation on water; or
 
@@ -328,7 +326,7 @@ Whether that commerce moves wholly by aircraft of partly by aircraft and partly 
 
 *Maintenance* means inspection, overhaul, repair, preservation, and the replacement of parts, but excludes preventive maintenance.
 
-*Major alteration* means an alteration not listed in the aircraft, aircraft engine, or propeller specifications -
+*Major alteration* means an alteration not listed in the aircraft, aircraft engine, or propeller specifications—
 
 (1) That might appreciably affect weight, balance, structural strength, performance, powerplant operation, flight characteristics, or other qualities affecting airworthiness; or
 
@@ -342,7 +340,9 @@ Whether that commerce moves wholly by aircraft of partly by aircraft and partly 
 
 *Manifold pressure* means absolute pressure as measured at the appropriate point in the induction system and usually expressed in inches of mercury.
 
-*Maximum engine overtorque*, as it applies to turbopropeller and turboshaft engines incorporating free power turbines for all ratings except one engine inoperative (OEI) ratings of two minutes or less, means the maximum torque of the free power turbine rotor assembly, the inadvertent occurrence of which, for periods of up to 20 seconds, will not require rejection of the engine from service, or any maintenance action other than to correct the cause.*Maximum speed for stability characteristics, V*FC/MFC means a speed that may not be less than a speed midway between maximum operating limit speed (VMO/MMO) and demonstrated flight diving speed (VDF/MDF), except that, for altitudes where the Mach number is the limiting factor, MFC need not exceed the Mach number at which effective speed warning occurs.
+*Maximum engine overtorque*, as it applies to turbopropeller and turboshaft engines incorporating free power turbines for all ratings except one engine inoperative (OEI) ratings of two minutes or less, means the maximum torque of the free power turbine rotor assembly, the inadvertent occurrence of which, for periods of up to 20 seconds, will not require rejection of the engine from service, or any maintenance action other than to correct the cause.
+
+*Maximum speed for stability characteristics, V*FC/MFC means a speed that may not be less than a speed midway between maximum operating limit speed (VMO/MMO) and demonstrated flight diving speed (VDF/MDF), except that, for altitudes where the Mach number is the limiting factor, MFC need not exceed the Mach number at which effective speed warning occurs.
 
 *Medical certificate* means acceptable evidence of physical fitness on a form prescribed by the Administrator.
 
@@ -418,7 +418,7 @@ Whether that commerce moves wholly by aircraft of partly by aircraft and partly 
 
 (iii) For the sole purpose of determining public aircraft status, *qualified non-crewmember* means an individual, other than a member of the crew, aboard an aircraft operated by the armed forces or an intelligence agency of the United States Government, or whose presence is required to perform, or is associated with the performance of, a governmental function.
 
-(2) An aircraft owned or operated by the armed forces or chartered to provide transportation to the armed forces if -
+(2) An aircraft owned or operated by the armed forces or chartered to provide transportation to the armed forces if—
 
 (i) The aircraft is operated in accordance with title 10 of the United States Code;
 
@@ -537,6 +537,8 @@ Whether that commerce moves wholly by aircraft of partly by aircraft and partly 
 *United States air carrier* means a citizen of the United States who undertakes directly by lease, or other arrangement, to engage in air transportation.
 
 *Unmanned aircraft* means an aircraft operated without the possibility of direct human intervention from within or on the aircraft.
+
+*Unmanned aircraft system* means an unmanned aircraft and its associated elements (including communication links and the components that control the unmanned aircraft) that are required for the safe and efficient operation of the unmanned aircraft in the airspace of the United States.
 
 *VFR over-the-top,* with respect to the operation of aircraft, means the operation of an aircraft over-the-top under VFR when it is not being operated on an IFR flight plan.
 

@@ -1,45 +1,31 @@
-##### § 107.73 Initial and recurrent knowledge tests. #####
+##### § 107.73 Knowledge and training. #####
 
-Link to an amendment published at 86 FR 4383, Jan. 15, 2021.This amendment delayed until Mar. 16, 2021 at 86 FR 11623, Feb. 26, 2021.This amendment further delayed until Apr. 6, 2021 at 86 FR 13630, Mar. 10, 2021.
+An initial aeronautical knowledge test and recurrent training covers the following areas of knowledge:
 
-(a) An initial aeronautical knowledge test covers the following areas of knowledge:
+(a) Applicable regulations relating to small unmanned aircraft system rating privileges, limitations, and flight operation;
 
-(1) Applicable regulations relating to small unmanned aircraft system rating privileges, limitations, and flight operation;
+(b) Airspace classification, operating requirements, and flight restrictions affecting small unmanned aircraft operation;
 
-(2) Airspace classification, operating requirements, and flight restrictions affecting small unmanned aircraft operation;
+(c) Aviation weather sources and effects of weather on small unmanned aircraft performance;
 
-(3) Aviation weather sources and effects of weather on small unmanned aircraft performance;
+(d) Small unmanned aircraft loading;
 
-(4) Small unmanned aircraft loading;
+(e) Emergency procedures;
 
-(5) Emergency procedures;
+(f) Crew resource management;
 
-(6) Crew resource management;
+(g) Radio communication procedures;
 
-(7) Radio communication procedures;
+(h) Determining the performance of the small unmanned aircraft;
 
-(8) Determining the performance of small unmanned aircraft;
+(i) Physiological effects of drugs and alcohol;
 
-(9) Physiological effects of drugs and alcohol;
+(j) Aeronautical decision-making and judgment;
 
-(10) Aeronautical decision-making and judgment;
+(k) Airport operations;
 
-(11) Airport operations; and
+(l) Maintenance and preflight inspection procedures; and
 
-(12) Maintenance and preflight inspection procedures.
+(m) Operation at night.
 
-(b) A recurrent aeronautical knowledge test covers the following areas of knowledge:
-
-(1) Applicable regulations relating to small unmanned aircraft system rating privileges, limitations, and flight operation;
-
-(2) Airspace classification and operating requirements and flight restrictions affecting small unmanned aircraft operation;
-
-(3) Emergency procedures;
-
-(4) Crew resource management;
-
-(5) Aeronautical decision-making and judgment;
-
-(6) Airport operations; and
-
-(7) Maintenance and preflight inspection procedures.
+[Amdt. No. 107-8, 86 FR 4383, Jan. 15, 2021]
