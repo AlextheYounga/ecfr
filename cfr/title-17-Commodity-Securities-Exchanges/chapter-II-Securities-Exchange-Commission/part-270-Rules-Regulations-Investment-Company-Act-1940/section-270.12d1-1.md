@@ -6,7 +6,7 @@
 
 (2) A money market fund, any principal underwriter thereof, and a broker or a dealer may sell or otherwise dispose of shares issued by the money market fund to any acquiring fund.
 
-(b) Conditions—(1) *Fees.* The acquiring fund pays no sales charge, as defined in rule 2830(b)(8) of the Conduct Rules of the NASD (“sales charge”), or service fee, as defined in rule 2830(b)(9) of the Conduct Rules of the NASD, charged in connection with the purchase, sale, or redemption of securities issued by a money market fund (“service fee”); or the acquiring fund's investment adviser waives its advisory fee in an amount necessary to offset any sales charge or service fee.
+(b) Conditions—(1) *Fees.* The acquiring fund pays no sales charge, as defined in FINRA Rule 2341(b)(8) (“sales charge”), or service fee, as defined in FINRA Rule 2341(b)(9), charged in connection with the purchase, sale, or redemption of securities issued by a money market fund (“service fee”); or the acquiring fund's investment adviser waives its advisory fee in an amount necessary to offset any sales charge or service fee.
 
 (2) *Unregistered money market funds.* If the money market fund is not an investment company registered under the Act:
 
@@ -44,4 +44,4 @@
 
 (B) Undertakes to comply with all the other requirements of § 270.2a-7, except that, if the company has no board of directors, the company's investment adviser performs the duties of the board of directors.
 
-[71 FR 36655, June 27, 2006, as amended at 85 FR 74005, Nov. 19, 2020]
+[71 FR 36655, June 27, 2006, as amended at 85 FR 74005, Nov. 19, 2020; 88 FR 37987, June 12, 2023]

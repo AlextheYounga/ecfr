@@ -1,7 +1,5 @@
 ##### § 117.261 Atlantic Intracoastal Waterway from St. Marys River to Key Largo. #####
 
-Link to an amendment published at 88 FR 30233, May 11, 2023.
-
 (a) *General.* Public vessels of the United States and tugs with tows must be passed through the drawspan of each drawbridge listed in this section at anytime.
 
 (b)-(c) [Reserved]
@@ -102,8 +100,22 @@ Link to an amendment published at 88 FR 30233, May 11, 2023.
 
 (mm-1) West 79th Street Bridge. The draw of the West 79th Street Bridge, at Miami, Florida will open on signal, except that from 7 a.m. to 7 p.m. Monday through Friday, except Federal holidays, the draw need only open on the hour and half hour.
 
-(nn) The Venetian Causeway Bridge (West), mile 1088.6, at Miami. The draw shall open on signal, except that from 7 a.m. to 7 p.m. daily, including Federal holidays, the draw need only open on the hour and half hour.
+(nn) West 79th Street Bridge, mile 1084.6, at Miami, Florida. The draw shall operate as follows:
 
-(oo)—(ss) [Reserved]
+(1) Monday through Friday (except on Federal holidays):
+
+(i) 7 a.m. to 10 a.m. the draw need only open on the hour.
+
+(ii) 10 a.m. to 4 p.m. the draw need only open on the hour and half hour.
+
+(iii) 4 p.m. to 7 p.m. the draw need only open on the hour.
+
+(iv) 7 p.m. to 7 a.m. the draw shall open on signal.
+
+(2) Saturday, Sunday, and Federal holidays the draw shall open on signal.
+
+(oo) The Venetian Causeway Bridge (West), mile 1088.6, at Miami. The draw shall open on signal, except that from 7 a.m. to 7 p.m. daily, including Federal holidays, the draw need only open on the hour and half hour.
+
+(pp)—(ss) [Reserved]
 
 [CGD7-84-29, 50 FR 51248, Dec. 16, 1985]Editorial Note:For Federal Register citations affecting § 117.261, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

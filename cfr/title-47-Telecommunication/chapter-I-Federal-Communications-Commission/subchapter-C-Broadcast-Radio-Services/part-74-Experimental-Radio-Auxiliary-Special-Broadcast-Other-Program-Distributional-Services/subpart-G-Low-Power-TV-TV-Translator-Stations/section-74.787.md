@@ -1,7 +1,5 @@
 ##### § 74.787 Licensing. #####
 
-Link to an amendment published at 88 FR 30670, May 12, 2023.
-
 (a) *Applications for low power television and television translator stations.*
 
 (1)-(2) [Reserved]
@@ -24,28 +22,6 @@ Link to an amendment published at 88 FR 30670, May 12, 2023.
 
 (vii) Analog-to-digital and digital-to-digital replacement television translators may operate only on those television channels designated for broadcast television in § 74.702.
 
-(viii) The following sections are applicable to analog-to-digital and digital-to-digital replacement television translator stations:
-
-(A) Section 74.703—Interference.
-
-(B) Section 74.709—Land mobile station protection.
-
-(C) Section 74.734—Attended and unattended operation.
-
-(D) Section 74.735—Power limitations.
-
-(E) Section 74.751—Modification of transmission systems.
-
-(F) Section 74.763—Time of operation.
-
-(G) Section 74.769—Familiarity with FCC rules.
-
-(H) Section 74.780—Broadcast regulations applicable to translators and low power stations.
-
-(I) Section 74.781—Station records.
-
-(J) Section 74.784—Rebroadcasts.
-
 (b) *Definitions of “major” and “minor” changes to low power television and television translator stations.* (1) Applications for major changes in low power television and television translator stations include:
 
 (i) Any change in the frequency (output channel) not related to displacement relief;
@@ -56,4 +32,6 @@ Link to an amendment published at 88 FR 30670, May 12, 2023.
 
 (2) Other facilities changes will be considered minor including changes made to implement a channel sharing arrangement provided they comply with the other provisions of this section.
 
-[69 FR 69333, Nov. 29, 2004, as amended at 74 FR 23655, May 20, 2009; 76 FR 44828, July 27, 2011; 81 FR 5053, Feb. 1, 2016; 83 FR 13683, Mar. 30, 2018; 84 FR 2759, Feb. 8, 2019; 86 FR 66214, Nov. 22, 2021; 87 FR 58204, Sept. 23, 2022]
+(c) *Licensing.* An application to construct a new low power TV or TV translator station or change the facilities of an existing station will not be accepted if it fails to protect an authorized Class A, low power TV, or TV translator station or an application for such a station filed prior to the date the low power TV or TV translator application is filed.
+
+[69 FR 69333, Nov. 29, 2004, as amended at 74 FR 23655, May 20, 2009; 76 FR 44828, July 27, 2011; 81 FR 5053, Feb. 1, 2016; 83 FR 13683, Mar. 30, 2018; 84 FR 2759, Feb. 8, 2019; 86 FR 66214, Nov. 22, 2021; 87 FR 58204, Sept. 23, 2022; 88 FR 30670, May 12, 2023]

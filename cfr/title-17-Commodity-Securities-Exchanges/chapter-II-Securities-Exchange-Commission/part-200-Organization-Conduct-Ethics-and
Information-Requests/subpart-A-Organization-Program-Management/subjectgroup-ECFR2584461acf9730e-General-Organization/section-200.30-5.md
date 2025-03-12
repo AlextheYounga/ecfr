@@ -1,6 +1,6 @@
 ##### § 200.30-5 Delegation of authority to Director of Division of Investment Management. #####
 
-Link to an amendment published at 87 FR 78807, Dec. 22, 2022.
+Link to an amendment published at 87 FR 78807, Dec. 22, 2022.Link to an amendment published at 88 FR 37987, June 12, 2023.
 
 Pursuant to the provisions of sections 4A and 4B of the Securities Exchange Act of 1934, as amended,
 (15 U.S.C. 78d-1, 78d-2), the Securities and Exchange Commission hereby delegates, until the Commission orders otherwise, the following functions to the Director of the Division of Investment Management, to be performed by the Director or under the Director's direction by such person or persons as may be designated from time to time by the Chairman of the Commission:

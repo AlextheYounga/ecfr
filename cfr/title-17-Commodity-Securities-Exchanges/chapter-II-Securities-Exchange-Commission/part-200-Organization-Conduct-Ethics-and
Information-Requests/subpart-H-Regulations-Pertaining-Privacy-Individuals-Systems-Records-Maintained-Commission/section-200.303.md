@@ -42,7 +42,7 @@ Executed on (date)\_\_\_\_\_\_
 
 (ii) If executed within the United States, its territories, possessions, or commonwealths: “I declare (or certify, verify, or state) under penalty of perjury that the foregoing is true and correct.”
 
-Executed on (date)\_\_\_\_\_\_\_
+Executed on (date)\_\_\_\_\_\_
 
 (Signature)
 

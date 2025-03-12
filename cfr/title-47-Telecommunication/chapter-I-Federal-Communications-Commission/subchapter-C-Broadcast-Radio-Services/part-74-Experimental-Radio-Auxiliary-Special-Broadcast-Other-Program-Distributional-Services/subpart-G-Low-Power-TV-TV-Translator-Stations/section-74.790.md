@@ -1,7 +1,5 @@
 ##### § 74.790 Permissible service of TV translator and LPTV stations. #####
 
-Link to an amendment published at 88 FR 30670, May 12, 2023.
-
 (a) TV translator stations provide a means whereby the signals of broadcast stations may be retransmitted to areas in which direct reception of such stations is unsatisfactory due to distance or intervening terrain barriers.
 
 (b) Except as provided in paragraph (f) of this section, a TV translator station may be used only to receive the signals of a TV broadcast station, another TV translator station, a TV translator relay station, a television intercity relay station, a television STL station, or other suitable sources such as a CARS or common carrier microwave station, for the simultaneous retransmission of the programs and signals of a TV broadcast station. Such retransmissions may be accomplished by any of the following means:
@@ -28,7 +26,7 @@ Link to an amendment published at 88 FR 30670, May 12, 2023.
 
 (2) For the origination of programming and commercial matter as defined in § 74.701(l).
 
-(3) Whenever operating, an LPTV station must transmit at least one over-the-air video program signal at no direct charge to viewers at least comparable in resolution to that of its associated analog (NTSC) LPTV station or, in the case of an on-channel digital conversion, that of its former analog LPTV station.
+(3) Whenever operating, an LPTV station must transmit at least one over-the-air video program signal at no direct charge to viewers at a resolution of at least 480i (vertical resolution of 480 lines, interlaced).
 
 (4) An LPTV station may dynamically alter the bit stream of its signal to transmit one or more video program services in any established DTV video format.
 
@@ -44,4 +42,6 @@ Link to an amendment published at 88 FR 30670, May 12, 2023.
 
 (m) Low power television and TV translator stations may no longer operate any facility in analog (NTSC) mode.
 
-[69 FR 69334, Nov. 29, 2004, as amended at 87 FR 58205, Sept. 23, 2022]
+(n) An LPTV station shall transmit at least the minimum Program System and Information Protocol (PSIP) information necessary for receivers to display the station's programming. The station is not required to utilize any specific virtual channel number but must avoid creating a contour overlap with any full power TV or Class A TV station's virtual channel, or creating a contour overlap with another LPTV station using the same virtual channel.
+
+[69 FR 69334, Nov. 29, 2004, as amended at 87 FR 58205, Sept. 23, 2022; 88 FR 30670, May 12, 2023]

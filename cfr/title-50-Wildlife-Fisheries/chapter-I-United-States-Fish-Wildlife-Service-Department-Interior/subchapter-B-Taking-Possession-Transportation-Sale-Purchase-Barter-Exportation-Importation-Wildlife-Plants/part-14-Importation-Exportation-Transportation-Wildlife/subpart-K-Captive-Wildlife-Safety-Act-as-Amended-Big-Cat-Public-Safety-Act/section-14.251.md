@@ -1,0 +1,3 @@
+##### § 14.251 What other regulations may apply? #####
+
+The provisions of this subpart are in addition to, and are not in place of, other regulations of this subchapter, or other Federal, State, Tribal, or territorial laws or regulations, that may require a permit or describe additional restrictions or conditions for the importation, exportation, transportation, sale, receipt, acquisition, or purchase of any prohibited wildlife species in interstate or foreign commerce, or in a manner substantially affecting interstate or foreign commerce, or breeding of any prohibited wildlife species, or possessing of any prohibited wildlife species.
