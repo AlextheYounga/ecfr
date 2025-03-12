@@ -10,8 +10,10 @@
 
 (i) Has a dependent family;
 
-(ii) Is able to make a downpayment; or
+(ii) Is able to make a down payment; or
 
 (iii) Owns livestock and farm implements necessary to farm successfully.
 
 (3) Third, to other eligible applicants.
+
+[72 FR 63298, Nov. 8, 2007, as amended at 86 FR 43391, Aug. 9, 2021]

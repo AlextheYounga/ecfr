@@ -1,6 +1,6 @@
 ##### § 766.106 Agency notification of decision regarding a complete application. #####
 
-The Agency will send the borrower notification of the Agency's decision within 60 calendar days after receiving a complete application for loan servicing.
+The Agency will send the borrower notification of the Agency's decision within 60 calendar days after receiving a complete application for loan servicing. Except that when a real estate appraisal is involved, the Agency will send the borrower notification of the Agency's decision within 90 calendar days after receiving a complete application.
 
 (a) *Notification to financially distressed or current borrowers.* (1) If the borrower can develop a feasible plan and is eligible for primary loan servicing, the Agency will offer to service the account.
 
@@ -31,3 +31,5 @@ The Agency will send the borrower notification of the Agency's decision within 6
 (iv) The borrower, if eligible in accordance with § 766.113, may buy out the loans at the current market value within 90 days.
 
 (v) The borrower may request homestead protection if the borrower's primary residence was pledged as security by providing the information required under § 766.151.
+
+[72 FR 63316, Nov. 8, 2007, as amended at 86 FR 43392, Aug. 9, 2021]

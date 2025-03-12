@@ -1,5 +1,7 @@
 ##### § 35.50 Training for Radiation Safety Officer and Associate Radiation Safety Officer. #####
 
+Link to an amendment published at 86 FR 43402, Aug. 9, 2021.
+
 Except as provided in § 35.57, the licensee shall require an individual fulfilling the responsibilities of the Radiation Safety Officer or an individual assigned duties and tasks as an Associate Radiation Safety Officer as provided in § 35.24 to be an individual who -
 
 (a) Is certified by a specialty board whose certification process has been recognized by the Commission or an Agreement State and who meets the requirements in paragraph (d) of this section. The names of board certifications that have been recognized by the Commission or an Agreement State are posted on the NRC's Medical Uses Licensee Toolkit web page. To have its certification process recognized, a specialty board shall require all candidates for certification to:

@@ -1,5 +1,7 @@
 ##### § 73.50 Requirements for physical protection of licensed activities. #####
 
+Link to an amendment published at 86 FR 43403, Aug. 9, 2021.
+
 Each licensee who is not subject to § 73.51, but who possesses, uses, or stores formula quantities of strategic special nuclear material that are not readily separable from other radioactive material and which have total external radiation dose rates in excess of 100 rems per hour at a distance of 3 feet from any accessible surfaces without intervening shielding other than at nuclear reactor facility licensed under parts 50 or 52 of this chapter, shall comply with the following:
 
 (a) *Physical security organization.* (1) The licensee shall establish a security organization, including guards, to protect his facility against radiological sabotage and the special nuclear material in his possession against theft.

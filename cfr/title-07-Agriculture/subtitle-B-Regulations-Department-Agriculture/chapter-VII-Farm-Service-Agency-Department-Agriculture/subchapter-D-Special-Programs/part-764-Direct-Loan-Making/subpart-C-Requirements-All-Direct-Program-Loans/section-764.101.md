@@ -60,7 +60,7 @@ The following requirements must be met unless otherwise provided in the eligibil
 
 (i) Related by blood or marriage, at least one member must be the operator of a family farm;
 
-(ii) Not related by blood or marriage, the entity members holding a majority interest must be operators of a family farm.
+(ii) Not related by blood or marriage, the entity members holding at least 50 percent interest must be operators of a family farm.
 
 (3) Except for EM loans, the collective interests of the members may be larger than a family farm only if:
 
@@ -74,4 +74,4 @@ The following requirements must be met unless otherwise provided in the eligibil
 
 (l) *Entity composition.* If the applicant has one or more embedded entities, at least 75 percent of the individual ownnership interests of each embedded entity must be owned by members actively involved in managing or operating the family farm.
 
-[72 FR 63298, Nov. 8, 2007, as amended at 75 FR 54015, Sept. 3, 2010; 76 FR 75434, Dec. 2, 2011; 78 FR 3835, Jan. 17, 2013; 79 FR 60744, Oct. 8, 2014; 81 FR 3293, Jan. 21, 2016; 81 FR 10063, Feb. 29, 2016]
+[72 FR 63298, Nov. 8, 2007, as amended at 75 FR 54015, Sept. 3, 2010; 76 FR 75434, Dec. 2, 2011; 78 FR 3835, Jan. 17, 2013; 79 FR 60744, Oct. 8, 2014; 81 FR 3293, Jan. 21, 2016; 81 FR 10063, Feb. 29, 2016; 86 FR 43391, Aug. 9, 2021]

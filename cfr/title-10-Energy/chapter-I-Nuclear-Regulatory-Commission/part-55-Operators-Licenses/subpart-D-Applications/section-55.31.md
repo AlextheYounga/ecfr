@@ -1,5 +1,7 @@
 ##### § 55.31 How to apply. #####
 
+Link to an amendment published at 86 FR 43403, Aug. 9, 2021.
+
 (a) The applicant shall:
 
 (1) Complete NRC Form 398, “Personal Qualification Statement - Licensee,” which can be obtained by writing the Office of the Chief Information Officer, U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, by calling (301) 415-7232, or by visiting the NRC's Web site at *http://www.nrc.gov* and selecting forms from the index found on the home page;

@@ -16,7 +16,7 @@ The applicant:
 
 (i) Related by blood or marriage, at least one member of the entity must operate the family farm and at least one member of the entity or the entity must own the farm; or,
 
-(ii) Not related by blood or marriage, the entity members holding a majority interest must operate the family farm and the entity members holding a majority interest or the entity must own the farm.
+(ii) Not related by blood or marriage, the entity members holding at least 50 percent interest must operate the family farm and the entity members holding at least 50 percent interest or the entity must own the farm.
 
 (4) If the entity is an operator only entity, the individuals that own the farm (real estate) must own at least 50 percent of the family farm (operating entity).
 
@@ -38,4 +38,4 @@ The applicant:
 
 (3) Have never received a direct FO loan.
 
-[72 FR 63298, Nov. 8, 2007, as amended at 79 FR 60744, Oct. 8, 2014; 81 FR 3293, Jan. 21, 2016]
+[72 FR 63298, Nov. 8, 2007, as amended at 79 FR 60744, Oct. 8, 2014; 81 FR 3293, Jan. 21, 2016; 86 FR 43391, Aug. 9, 2021]

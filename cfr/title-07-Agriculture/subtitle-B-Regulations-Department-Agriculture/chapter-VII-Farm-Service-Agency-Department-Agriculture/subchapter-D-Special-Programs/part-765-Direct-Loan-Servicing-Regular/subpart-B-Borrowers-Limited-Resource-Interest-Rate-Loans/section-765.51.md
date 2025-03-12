@@ -1,6 +1,6 @@
-##### § 765.51 Annual review. #####
+##### § 765.51 Required review. #####
 
-(a) A borrower with limited resource interest rate loans is required to provide the Agency annually the operation's financial information to determine if the borrower can afford to pay a higher interest rate on the loan. The Agency will review the information provided in accordance with § 761.105 of this chapter.
+(a) At least every 2 years, a borrower with limited resource interest rate loans is required to provide the operation's financial information to the Agency; for the Agency to determine if the borrower can afford to pay a higher interest rate on the loan. The Agency will review the information provided in accordance with § 761.105 of this chapter.
 
 (b) If the borrower's farm operating plan shows that the debt service margin exceeds 110 percent, the Agency will increase the interest rate on the loans with a limited resource interest rate until:
 
@@ -19,3 +19,5 @@
 (4) Is ineligible due to disqualification resulting from Federal crop insurance violation according to 7 CFR part 718.
 
 (d) If the borrower has limited resource interest rate loans that are deferred, the Agency will not change the interest rate during the deferral period.
+
+[72 FR 63309, Nov. 8, 2007, as amended at 86 FR 43392, Aug. 9, 2021]

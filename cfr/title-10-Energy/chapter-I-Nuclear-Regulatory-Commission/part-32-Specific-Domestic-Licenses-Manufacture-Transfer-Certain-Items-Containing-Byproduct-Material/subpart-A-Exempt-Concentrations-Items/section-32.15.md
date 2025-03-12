@@ -1,5 +1,7 @@
 ##### § 32.15 Same: Quality assurance, prohibition of transfer, and labeling. #####
 
+Link to an amendment published at 86 FR 43402, Aug. 9, 2021.
+
 (a) Each person licensed under § 32.14 for products for which quality control procedures are required shall:
 
 (1) Maintain quality assurance systems in the manufacture of the part or product, or the installation of the part into the product, in a manner sufficient to provide reasonable assurance that the safety-related components of the distributed products are capable of performing their intended functions;

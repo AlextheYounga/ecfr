@@ -32,7 +32,7 @@
 
 (iii) Verification of nonfarm income.
 
-(iv) Verification of all debts of $1,000 or more.
+(iv) Verification of all debts of exceeding an amount determined by the Agency.
 
 (v) Applicable credit reports.
 
@@ -134,4 +134,4 @@
 
 (iv) The lender will make any adjustment in the calculations as requested by the Agency.
 
-[64 FR 7378, Feb. 12, 1999; 64 FR 38298, July 16, 1999, as amended at 66 FR 7567, Jan. 24, 2001; 69 FR 44579, July 27, 2004; 70 FR 56107, Sept. 26, 2005; 72 FR 17358, Apr. 9, 2007; 75 FR 54014, Sept. 1, 2010; 77 FR 15938, Mar. 19, 2012; 78 FR 65530, Nov. 1, 2013]
+[64 FR 7378, Feb. 12, 1999; 64 FR 38298, July 16, 1999, as amended at 66 FR 7567, Jan. 24, 2001; 69 FR 44579, July 27, 2004; 70 FR 56107, Sept. 26, 2005; 72 FR 17358, Apr. 9, 2007; 75 FR 54014, Sept. 1, 2010; 77 FR 15938, Mar. 19, 2012; 78 FR 65530, Nov. 1, 2013; 86 FR 43391, Aug. 9, 2021]

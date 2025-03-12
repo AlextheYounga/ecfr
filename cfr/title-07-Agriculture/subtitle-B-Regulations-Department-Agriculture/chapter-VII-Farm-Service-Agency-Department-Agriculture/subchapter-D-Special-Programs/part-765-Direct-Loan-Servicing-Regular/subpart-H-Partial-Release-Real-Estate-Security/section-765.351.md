@@ -72,10 +72,10 @@ The borrower must obtain prior consent from the Agency for any transactions affe
 
 (5) Any issues arising due to legal descriptions, surveys, environmental concerns, utilities are the borrower's responsibility and no costs or fees will be paid by FSA;
 
-(6) The security margin on each FLP direct loan will be above 150 percent after the release. The value of the retained and released security will normally be based on appraisals obtained as specified in § 761.7 of this chapter; however, well documented recent sales of similar properties can be used if the Agency determines the criteria have been met and a sound decision can be made without current appraisals;
+(6) The security margin on each FLP direct loan will be above 150 percent after the release. The value of the retained security will normally be based on appraisals obtained as specified in § 761.7 of this chapter; however, well documented recent sales of similar properties can be used if the Agency determines the criteria have been met and a sound decision can be made without current appraisals;
 
 (7) The release is approved by the FSA State Executive Director; and
 
 (8) Except for CL, the borrower is unable to fully graduate as specified in § 765.101.
 
-[72 FR 63309, Nov. 8, 2007, as amended at 75 FR 54016, Sept. 3, 2010; 78 FR 65531, Nov. 1, 2013; 81 FR 51284, Aug. 3, 2016]
+[72 FR 63309, Nov. 8, 2007, as amended at 75 FR 54016, Sept. 3, 2010; 78 FR 65531, Nov. 1, 2013; 81 FR 51284, Aug. 3, 2016; 86 FR 43392, Aug. 9, 2021]

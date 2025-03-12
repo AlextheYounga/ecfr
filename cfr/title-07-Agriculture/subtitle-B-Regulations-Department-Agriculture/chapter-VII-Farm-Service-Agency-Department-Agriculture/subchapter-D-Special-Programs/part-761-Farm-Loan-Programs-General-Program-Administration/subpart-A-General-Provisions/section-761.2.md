@@ -24,6 +24,8 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 
 *FSA* Farm Service Agency, an Agency of the USDA, including its personnel and any successor Agency.
 
+*HPRP* The Heirs' Property Relending Program.
+
 *LIBOR* London Interbank Offered Rate.
 
 *ML* Microloan.
@@ -236,7 +238,7 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 
 *Disaster yield* is the per-acre yield of an agricultural commodity for the operation during the production cycle when the disaster occurred.
 
-*Downpayment loan* is a type of FO loan made to beginning farmers and socially disadvantaged farmers to finance a portion of a real estate purchase under part 764, subpart E of this chapter.
+*Down payment loan* is a type of FO loan made to beginning farmers and socially disadvantaged farmers to finance a portion of a real estate purchase under part 764, subpart E of this chapter.
 
 *Economic Emergency loan* is a loan that was made or guaranteed to an eligible applicant to allow for continuation of the operation during an economic emergency which was caused by a lack of agricultural credit or an unfavorable relationship between production costs and prices received for agricultural commodities. EE loans are not currently funded; however, such outstanding loans are serviced by the Agency or the lender in the case of a guaranteed EE loan.
 
@@ -288,13 +290,13 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 
 (i) The majority of day-to-day, operational decisions, and all strategic management decisions are made by:
 
-(A) The borrower and persons who are either related to the borrower by blood or marriage, or are a relative, for an individual borrower; or
+(A) The borrower, with input and assistance allowed from persons who are either related to the borrower by blood or marriage, or are a relative, for an individual borrower; or
 
 (B) The members responsible for operating the farm, in the case of an entity.
 
 (ii) A substantial amount of labor to operate the farm is provided by:
 
-(A) The borrower and persons who are either related to the borrower by blood or marriage, or are a relative, for an individual borrower; or
+(A) The borrower, with input and assistance allowed from persons who are either related to the borrower by blood or marriage, or are a relative, for an individual borrower; or
 
 (B) The members responsible for operating the farm, in the case of an entity.
 
@@ -354,6 +356,8 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 
 *Hearing official.* For the purposes of salary offset, the hearing official is an Administrative Law Judge of the USDA or another individual not under the supervision or control of the USDA. For the purposes of administrative wage garnishment, the hearing official is selected pursuant to part 3, subpart E of this title.
 
+*Heirs' property* means a farm that is jointly held by multiple heirs as tenants in common as a result of inheriting title from a relative.
+
 *Highly erodible land* is land as determined by Natural Resources Conservation Service to meet the requirements provided in section 1201 of the Food Security Act of 1985.
 
 *Holder* is a person or organization other than the lender that holds all or a part of the guaranteed portion of an Agency guaranteed loan but has no servicing responsibilities. When the lender assigns a part of the guaranteed loan by executing an Agency assignment form, the assignee becomes a holder.
@@ -364,6 +368,12 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 
 *Household contents* are essential household items necessary to maintain viable living quarters. Household contents exclude all luxury items such as jewelry, furs, antiques, paintings, etc.
 
+*HPRP loan agreement* means the signed agreement between FSA and the intermediary that specifies the terms and conditions of the HPRP loan.
+
+*HPRP loan funds* means cash proceeds of a loan obtained through HPRP, including the portion of an HPRP revolving loan fund directly provided by the HPRP loan as well as the proceeds advanced to an ultimate recipient. HPRP loan funds are Federal funds.
+
+*HPRP revolving loan fund* means a group of assets, obtained through or related to an HPRP loan and recorded by the intermediary in a bookkeeping account or set of accounts and accounted for, along with related liabilities, revenues, and expenses, as an entity or enterprise separate from the intermediary's other assets and financial activities.
+
 *Inaccurate information* is incorrect information provided by an applicant, borrower, lender, or other source without the intent of fraudulently obtaining benefits.
 
 *Indian reservation* is all land located within the limits of any Indian reservation under the jurisdiction of the United States, notwithstanding the issuance of any patent, and including rights-of-way running through the reservation; trust or restricted land located within the boundaries of a former reservation of a Federally recognized Indian Tribe in the State of Oklahoma; or all Indian allotments the Indian titles to which have not been extinguished if such allotments are subject to the jurisdiction of a Federally recognized Indian Tribe.
@@ -371,6 +381,8 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 *In-house expenses* are expenses associated with credit management and loan servicing by the lender and the lender's contractor. In-house expenses include, but are not limited to, employee salaries, staff lawyers, travel, supplies, and overhead.
 
 *Interest Assistance Agreement* is the appropriate Agency form executed by the Agency and the lender containing the terms and conditions under which the Agency will make interest assistance payments to the lender on behalf of the guaranteed loan borrower.
+
+*Intermediary* means the entity requesting or receiving HPRP loan funds for establishing a revolving loan fund and relending to ultimate recipients.
 
 *Inventory property* is real estate or chattel property and related rights that formerly secured an FLP loan and to which the Federal Government has acquired title.
 
@@ -458,6 +470,8 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 
 (2) Are not exempt from judgment creditors or in a bankruptcy action.
 
+*Non-monetary default* means a situation where a borrower is not in compliance with the covenants or requirements of the loan documents, program requirements, or loan.
+
 *Non-program loan* is a loan on terms more stringent than terms for a program loan that is an extension of credit for the convenience of the Agency, because the applicant does not qualify for program assistance or the property to be financed is not suited for program purposes. Such loans are made or continued only when it is in the best interest of the Agency.
 
 *Normal income security* is all security not considered basic security, including crops, livestock, poultry products, other property covered by Agency liens that is sold in conjunction with the operation of a farm or other business, and FSA Farm Program payments.
@@ -540,6 +554,8 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 
 *Restructuring* is changing the terms of a debt through rescheduling, reamortization, deferral, writedown, or a combination thereof.
 
+*Revolved funds* means the cash portion of an HPRP revolving loan fund that is not composed of HPRP loan funds, including funds that are repayments of HPRP loans and including fees and interest collected on such loans.
+
 *Rural youth* is a person who has reached the age of 10 but has not reached the age of 21 and resides in a rural area or any city or town with a population of 50,000 or fewer people.
 
 *Security* is property or right of any kind that is subject to a real or personal property lien. Any reference to “collateral” or “security property” will be considered a reference to the term “security.”
@@ -564,6 +580,8 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 
 *Subsequent loan* is any FLP loan processed by the Agency after an initial loan of the same type has been made to the same borrower.
 
+*Succession plan* means a general plan to address the continuation of the farm, which may include specific intra-family succession agreements or strategies to address business asset transfer planning to create opportunities for farmers and ranchers.
+
 *Supervised bank account* is an account with a financial institution established through a deposit agreement entered into between the borrower, the Agency, and the financial institution.
 
 *Technical appraisal review* is a review of an appraisal to determine if such appraisal meets the requirements of USPAP pursuant to standard 3 of USPAP.
@@ -572,9 +590,13 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 
 *Trust* is an entity that under applicable state law meets the criteria of being a trust of any kind but does not meet the criteria of being a farm cooperative, private domestic corporation, partnership, or joint operation.
 
+*Ultimate recipient* means an entity or individual that receives a loan from an intermediaries' HPRP revolving loan fund.
+
 *Unaccounted for security* is security for a direct or guaranteed loan that was misplaced, stolen, sold, or otherwise missing, where replacement security was not obtained or the proceeds from its sale have not been applied to the loan.
 
 *Unauthorized assistance* is any loan, loan servicing action, lower interest rate, loan guarantee, or subsidy received by a borrower, or lender, for which the borrower or lender was not eligible, which was not made in accordance with all Agency procedures and requirements, or which the Agency obligated from the wrong appropriation or fund. Unauthorized assistance may result from borrower, lender, or Agency error.
+
+*Undivided ownership interest* means a common interest in the whole parcel of land that is owned by two or more people. Undivided ownership interest does not include those who own a specific piece of a parcel of land; rather they own a percentage interest in a parcel of land as a whole.
 
 *Uniform Standards of Professional Appraisal Practice* are standards governing the preparation, reporting, and reviewing of appraisals established by the Appraisal Foundation pursuant to the Financial Institutions Reform, Recovery, and Enforcement Act of 1989.
 
@@ -596,4 +618,4 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 
 *Youth loan* is an operating type loan made to an eligible rural youth applicant to finance a modest income-producing agricultural project.
 
-[72 FR 63285, Nov. 8, 2007; 72 FR 74153, Dec. 31, 2007, as amended at 73 FR 74344, Dec. 8, 2008; 75 FR 54012, Sept. 3, 2010; 76 FR 75430, Dec. 2, 2011; 77 FR 15938, May 18, 2012; 78 FR 3834, Jan. 16, 2013; 78 FR 14005, Mar. 4, 2013; 78 FR 65529, Nov. 1, 2013; 79 FR 60743, Oct. 8, 2014; 79 FR 78693, Dec. 31, 2014; 80 FR 74970, Dec. 1, 2015; 81 FR 3292, Jan. 21, 2016; 81 FR 72690, Oct. 21, 2016; 85 FR 36691, June 17, 2020]
+[72 FR 63285, Nov. 8, 2007; 72 FR 74153, Dec. 31, 2007, as amended at 73 FR 74344, Dec. 8, 2008; 75 FR 54012, Sept. 3, 2010; 76 FR 75430, Dec. 2, 2011; 77 FR 15938, May 18, 2012; 78 FR 3834, Jan. 16, 2013; 78 FR 14005, Mar. 4, 2013; 78 FR 65529, Nov. 1, 2013; 79 FR 60743, Oct. 8, 2014; 79 FR 78693, Dec. 31, 2014; 80 FR 74970, Dec. 1, 2015; 81 FR 3292, Jan. 21, 2016; 81 FR 72690, Oct. 21, 2016; 85 FR 36691, June 17, 2020; 86 FR 43390, Aug. 9, 2021]

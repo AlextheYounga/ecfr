@@ -22,7 +22,7 @@
 
 (1) *Loans of $250,000 or less.* The lender must document the value of the real estate by applying the same policies and procedures as their non-guaranteed loans.
 
-(2) *Loans greater than $250,000.* The lender must document the value of real estate using a current appraisal (not more than 12 months old) completed by a State Certified General Appraiser. Real estate appraisals must be completed in accordance with USPAP. Restricted reports as defined in USPAP are not acceptable. The Agency may allow an appraisal more than 12 months old to be used only if documentation provided by the lender reflects each of the following:
+(2) *Loans greater than $250,000.* The lender must document the value of real estate using a current appraisal (not more than 18 months old) completed by a State Certified General Appraiser. Real estate appraisals must be completed in accordance with USPAP. Restricted reports as defined in USPAP are not acceptable. The Agency may allow an appraisal more than 18 months old to be used only if documentation provided by the lender reflects each of the following:
 
 (i) Market conditions have remained stable or improved based on sales of similar properties,
 
@@ -30,6 +30,6 @@
 
 (iii) The value of the property has remained the same or increased.
 
-(3) Agency determinations under paragraph (c)(2) of this section to permit appraisals more than 12 months old are not appealable.
+(3) Agency determinations under paragraph (c)(2) of this section to permit appraisals more than 18 months old are not appealable.
 
-[78 FR 65529, Nov. 1, 2013]
+[78 FR 65529, Nov. 1, 2013, as amended at 86 FR 43391, Aug. 9, 2021]

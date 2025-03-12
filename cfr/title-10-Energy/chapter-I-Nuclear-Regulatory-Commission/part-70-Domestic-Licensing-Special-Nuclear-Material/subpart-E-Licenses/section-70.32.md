@@ -1,5 +1,7 @@
 ##### § 70.32 Conditions of licenses. #####
 
+Link to an amendment published at 86 FR 43403, Aug. 9, 2021.
+
 (a) Each license shall contain and be subject to the following conditions:
 
 (1) [Reserved]

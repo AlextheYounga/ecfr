@@ -8,8 +8,10 @@
 
 (2) The repayment schedule must include at least one payment every year.
 
-(3) EM loans for annual operating expenses, except expenses associated with establishing a perennial crop that are subject to paragraph (b)(4), must be repaid within 12 months. The Agency may extend this term to not more than 18 months to accommodate the production cycle of the agricultural commodities.
+(3) EM loans for annual operating expenses, except expenses associated with establishing a perennial crop that are subject to paragraph (b)(4), must be repaid within 12 months. The Agency may extend this term to not more than 24 months to accommodate the production cycle of the agricultural commodities.
 
 (4) EM loans for production losses or physical losses to chattel (including, but not limited to, assets with an expected life between one and 7 years) may not exceed 7 years. The Agency may extend this term up to a total length not to exceed 20 years, if necessary to improve the applicant's repayment ability and real estate security is available.
 
 (5) The repayment schedule for EM loans for physical losses to real estate is based on the applicant's repayment ability and the useful life of the security, but in no case will the term exceed 40 years.
+
+[72 FR 63298, Nov. 8, 2007, as amended at 86 FR 43392, Aug. 9, 2021]

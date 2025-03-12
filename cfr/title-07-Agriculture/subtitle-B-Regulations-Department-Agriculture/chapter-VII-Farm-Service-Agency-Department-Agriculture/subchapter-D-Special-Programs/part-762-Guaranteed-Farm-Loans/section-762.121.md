@@ -18,7 +18,7 @@
 
 (viii) Payment of loan closing costs;
 
-(ix) Payment of costs associated with complying with Federal or State-approved standards under the Occupational Safety and Health Act of 1970 (29 U.S.C. 655, 667). This purpose is limited to applicants who demonstrate that compliance with the standards will cause them substantial economic injury; and
+(ix) Payment of costs associated with complying with Federal or State-approved standards under the Occupational Safety and Health Act of 1970 (29 U.S.C. 655, 667). This purpose is limited to applicants who demonstrate that compliance or non-compliance with the standards will cause them substantial economic injury; and
 
 (x) Payment of training costs required or recommended by the Agency.
 
@@ -38,7 +38,7 @@
 
 (b) *Farm ownership loan purposes.* Guaranteed FO are authorized only to:
 
-(1) Acquire or enlarge a farm; examples include, but are not limited to, providing down payments, purchasing easements for the applicant's portion of land being subdivided, and participating in the downpayment FO program under part 764 of this chapter;
+(1) Acquire or enlarge a farm; examples include, but are not limited to, providing down payments, purchasing easements for the applicant's portion of land being subdivided, and participating in the down payment FO program under part 764 of this chapter;
 
 (2) Make capital improvements; examples include, but are not limited to, the construction, purchase, and improvement of a farm dwelling, service buildings and facilities that can be made fixtures to the real estate, (Capital improvements to leased land may be financed subject to the limitations in § 762.122);
 
@@ -68,4 +68,4 @@
 
 (e) *Judgment debts.* Loans may not be used to satisfy judgments obtained in the United States District courts. However, Internal Revenue Service judgment liens may be paid with loan funds.
 
-[64 FR 7378, Feb. 12, 1999, as amended at 72 FR 63297, Nov. 8, 2007; 73 FR 74345, Dec. 8, 2008; 75 FR 54014, Sept. 3, 2010; 77 FR 15938, Mar. 19, 2012; 78 FR 65529, Nov. 1, 2013]
+[64 FR 7378, Feb. 12, 1999, as amended at 72 FR 63297, Nov. 8, 2007; 73 FR 74345, Dec. 8, 2008; 75 FR 54014, Sept. 3, 2010; 77 FR 15938, Mar. 19, 2012; 78 FR 65529, Nov. 1, 2013; 86 FR 43391, Aug. 9, 2021]

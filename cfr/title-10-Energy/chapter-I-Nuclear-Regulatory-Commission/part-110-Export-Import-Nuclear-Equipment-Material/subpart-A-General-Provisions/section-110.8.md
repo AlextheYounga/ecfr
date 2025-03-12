@@ -1,5 +1,7 @@
 ##### § 110.8 List of nuclear facilities and equipment under NRC export licensing authority. #####
 
+Link to an amendment published at 86 FR 43404, Aug. 9, 2021.
+
 (a) Nuclear reactors and especially designed or prepared equipment and components for nuclear reactors. (See Appendix A to this part.)
 
 (b) Plants for the separation of isotopes of uranium (source material or special nuclear material) including gas centrifuge plants, gaseous diffusion plants, aerodynamic enrichment plants, chemical exchange or ion exchange enrichment plants, laser based enrichment plants, plasma separation enrichment plants, electromagnetic enrichment plants, and especially designed or prepared equipment, other than analytical instruments, for the separation of isotopes of uranium. (See appendices to this part for lists of: gas centrifuge equipment - Appendix B; gaseous diffusion equipment - Appendix C; aerodynamic enrichment equipment - Appendix D; chemical exchange or ion exchange enrichment equipment - Appendix E; laser based enrichment equipment - Appendix F; plasma separation enrichment equipment - Appendix G; and electromagnetic enrichment equipment - Appendix H.)

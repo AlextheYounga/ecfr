@@ -1,5 +1,7 @@
 ##### § 50.63 Loss of all alternating current power. #####
 
+Link to an amendment published at 86 FR 43402, Aug. 9, 2021.
+
 (a) *Requirements.* (1) Each light-water-cooled nuclear power plant licensed to operate under this part, each light-water-cooled nuclear power plant licensed under subpart C of 10 CFR part 52 after the Commission makes the finding under § 52.103(g) of this chapter, and each design for a light-water-cooled nuclear power plant approved under a standard design approval, standard design certification, and manufacturing license under part 52 of this chapter must be able to withstand for a specified duration and recover from a station blackout as defined in § 50.2. The specified station blackout duration shall be based on the following factors:
 
 (i) The redundancy of the onsite emergency ac power sources;

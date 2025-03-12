@@ -8,7 +8,7 @@
 
 (3) The lease does not contain an option to purchase; and
 
-(4) The lease does not hinder the future operation or success of the farm, or, if the borrower has ceased to operate the farm, the requirements specified in § 765.253 are met; and
+(4) The lease does not hinder the future operation or success of the farm, or, if the borrower has ceased to operate the farm, the requirements specified in § 765.253 are met. Leases for nonfarm enterprises, such as solar farms, which take significant acreage of the operation out of agriculture production are not authorized. Non-productive land may be considered for this type of lease; and.
 
 (5) The lease and any contracts or agreements in connection with the lease must be reviewed and approved by the Government.
 
@@ -34,4 +34,4 @@
 
 (2) The borrower must assign all rental proceeds from an allotment lease to the Agency.
 
-[72 FR 63309, Nov. 8, 2007, as amended at 78 FR 65531, Nov. 1, 2013; 79 FR 78694, Dec. 31, 2014; 81 FR 51284, Aug. 3, 2016]
+[72 FR 63309, Nov. 8, 2007, as amended at 78 FR 65531, Nov. 1, 2013; 79 FR 78694, Dec. 31, 2014; 81 FR 51284, Aug. 3, 2016; 86 FR 43392, Aug. 9, 2021]

@@ -1,5 +1,7 @@
 ##### § 110.20 General license information. #####
 
+Link to an amendment published at 86 FR 43404, Aug. 9, 2021.
+
 (a) A person may use an NRC general license as authority to export or import nuclear equipment or material, if the nuclear equipment or material to be exported or imported is covered by the NRC general licenses described in §§ 110.21 through 110.27. If an export or import is not covered by the NRC general licenses described in §§ 110.21 through 110.27, a person must file an application with the Commission for a specific license in accordance with §§ 110.31 through 110.32.
 
 (b) In response to a petition or on its own initiative, the Commission may issue a general license for export or import if it determines that any exports or imports made under the general license will not be inimical to the common defense and security or constitute an unreasonable risk to the public health and safety and otherwise meet applicable statutory requirements. A general license is issued as a regulation after a rulemaking proceeding under subpart K of this part. Issuance of a general license is coordinated with the Executive Branch.

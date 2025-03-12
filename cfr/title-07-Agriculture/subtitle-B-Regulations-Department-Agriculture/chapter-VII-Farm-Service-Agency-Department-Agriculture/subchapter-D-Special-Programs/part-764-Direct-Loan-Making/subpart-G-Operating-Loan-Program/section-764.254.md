@@ -10,9 +10,9 @@
 
 (b) *Terms.* (1) The Agency schedules repayment of annual OL loans made for family living and farm operating expenses when planned income is projected to be available.
 
-(i) The term of the loan may not exceed 18 months from the date of the note.
+(i) The term of the loan may not exceed 24 months from the date of the note.
 
-(ii) The term of the loan may exceed 18 months in unusual situations such as establishing a new enterprise, developing a farm, purchasing feed while crops are being established, marketing plans, or recovery from a disaster or economic reverse. In no event will the term of the loan exceed 7 years from the date of the note. Crops and livestock produced for sale will not be considered adequate security for such loans.
+(ii) The term of the loan may exceed 24 months in unusual situations such as establishing a new enterprise, developing a farm, purchasing feed while crops are being established, marketing plans, or recovery from a disaster or economic reverse. In no event will the term of the loan exceed 7 years from the date of the note. Crops and livestock produced for sale will not be considered adequate security for such loans.
 
 (2) The Agency schedules the repayment of all other OL loans based on the applicant's ability to repay and the useful life of the security. In no event will the term of the loan exceed 7 years from the date of the note. Repayment schedules may include equal, unequal, or balloon installments if needed to establish a new enterprise, develop a farm, or recover from a disaster or economic reversal. Loans with balloon installments:
 
@@ -22,4 +22,4 @@
 
 (iii) Are not authorized when loan funds are used for real estate repairs or improvements.
 
-[72 FR 63298, Nov. 8, 2007, as amended at 79 FR 78694, Dec. 31, 2014]
+[72 FR 63298, Nov. 8, 2007, as amended at 79 FR 78694, Dec. 31, 2014; 86 FR 43392, Aug. 9, 2021]

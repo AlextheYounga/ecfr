@@ -12,6 +12,6 @@
 
 (d) The Agency will choose the best security available when there are several alternatives that meet the Agency's security requirements.
 
-(e) The Agency will take a lien on all assets that are not essential to the farming operation and are not being converted to cash to reduce the loan amount when each such asset, or aggregate value of like assets (such as stocks), has a value in excess of $5,000. The value of this security is not included in the Agency's additional security requirement stated in paragraph (c) of this section. This requirement does not apply to downpayment loans, CL, ML, or youth loans.
+(e) The Agency will take a lien on all assets that are not essential to the farming operation and are not being converted to cash to reduce the loan amount when each such asset, or aggregate value of like assets (such as stocks), has a value in excess of $15,000. The value of this security is not included in the Agency's additional security requirement stated in paragraph (c) of this section. This requirement does not apply to downpayment loans, CL, ML, or youth loans.
 
-[72 FR 63298, Nov. 8, 2007, as amended at 73 FR 74345, Dec. 8, 2008; 75 FR 54015, Sept. 3, 2010; 78 FR 3835, Jan. 17, 2013]
+[72 FR 63298, Nov. 8, 2007, as amended at 73 FR 74345, Dec. 8, 2008; 75 FR 54015, Sept. 3, 2010; 78 FR 3835, Jan. 17, 2013; 86 FR 43391, Aug. 9, 2021]

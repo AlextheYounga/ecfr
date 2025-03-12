@@ -30,7 +30,7 @@
 
 (1) Verification of income;
 
-(2) Verification of debts over $1,000;
+(2) Verification of debts exceeding an amount determined by the Agency;
 
 (3) Three years financial history;
 
@@ -96,4 +96,4 @@
 
 (j) *Market placement program.* Except for CL guarantees, when the Agency determines that a direct applicant or borrower may qualify for guaranteed credit, the Agency may submit the applicant or borrower's financial information to one or more guaranteed lenders. If a lender indicates interest in providing financing to the applicant or borrower through the guaranteed loan program, the Agency will assist in completing the application for a guarantee.
 
-[64 FR 7378, Feb. 12, 1999, as amended at 68 FR 7695, Feb. 18, 2003; 72 FR 63297, Nov. 8, 2007; 75 FR 54013, Sept. 3, 2010; 77 FR 15938, Mar. 19, 2012; 81 FR 72691, Oct. 21, 2016]]
+[64 FR 7378, Feb. 12, 1999, as amended at 68 FR 7695, Feb. 18, 2003; 72 FR 63297, Nov. 8, 2007; 75 FR 54013, Sept. 3, 2010; 77 FR 15938, Mar. 19, 2012; 81 FR 72691, Oct. 21, 2016; 86 FR 43391, Aug. 9, 2021]

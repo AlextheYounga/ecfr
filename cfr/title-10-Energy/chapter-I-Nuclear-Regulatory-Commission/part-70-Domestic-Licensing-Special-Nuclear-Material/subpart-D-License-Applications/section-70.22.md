@@ -1,5 +1,7 @@
 ##### § 70.22 Contents of applications. #####
 
+Link to an amendment published at 86 FR 43403, Aug. 9, 2021.
+
 (a) Each application for a license shall contain the following information:
 
 (1) The full name, address, age (if an individual), and citizenship of the applicant and the names and addresses of three personal references. If the applicant is a corporation or other entity, it shall indicate the State where it was incorporated or organized, the location of the principal office, the names, addresses, and citizenship of its principal officers, and shall include information known to the applicant concerning the control or ownership, if any, exercised over the applicant by any alien, foreign corporation, or foreign government;

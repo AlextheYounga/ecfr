@@ -1,5 +1,7 @@
 ##### § 73.6 Exemptions for certain quantities and kinds of special nuclear material. #####
 
+Link to an amendment published at 86 FR 43403, Aug. 9, 2021.
+
 A licensee is exempt from the requirements of 10 CFR part 26 and §§ 73.20, 73.25, 73.26, 73.27, 73.45, 73.46, 73.70 and 73.72 with respect to the following special nuclear material:
 
 (a) Uranium-235 contained in uranium enriched to less than 20 percent in the U-235 isotope.

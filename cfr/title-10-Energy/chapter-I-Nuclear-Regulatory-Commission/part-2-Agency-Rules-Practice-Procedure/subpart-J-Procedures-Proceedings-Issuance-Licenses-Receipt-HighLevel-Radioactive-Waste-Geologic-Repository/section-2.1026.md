@@ -1,5 +1,7 @@
 ##### § 2.1026 Schedule. #####
 
+Link to an amendment published at 86 FR 43401, Aug. 9, 2021.
+
 (a) Subject to paragraphs (b) and (c) of this section, the Presiding Officer shall adhere to the schedule set forth in appendix D of this part.
 
 (b)(1) Pursuant to § 2.307, the presiding officer may approve extensions of no more than fifteen (15) days beyond any required time set forth in this subpart for a filing by a party to the proceeding. Except in the case of exceptional and unforseen circumstances, requests for extensions of more than fifteen (15) days must be filed no later than five (5) days in advance of the required time set forth in this subpart for a filing by a party to the proceeding.

@@ -2,7 +2,7 @@
 
 (a) Supervised bank accounts will be used to:
 
-(1) Assure correct use of funds planned for capital purchases or debt refinancing and perfection of the Agency's security interest in the assets purchased or refinanced when electronic funds transfer or treasury check processes are not practicable;
+(1) Assure correct use of funds are planned and released for capital purchases, construction projects, site development work, debt refinancing, or proceeds from the sale of basic security, and perfection of the Agency's security interest in assets purchased or refinanced when electronic funds transfer or treasury check processes are not practicable;
 
 (2) Protect the Agency's security interest in insurance indemnities or other loss compensation resulting from loss or damage to loan security; or
 
@@ -26,4 +26,4 @@
 
 (2) When the balance in the account has been reduced, the financial institution may request a release of part or all of the collateral, as applicable, from the Agency.
 
-[72 FR 63285, Nov. 8, 2007, as amended at 76 FR 5057, Jan. 28, 2011]
+[72 FR 63285, Nov. 8, 2007, as amended at 76 FR 5057, Jan. 28, 2011; 86 FR 43390, Aug. 9, 2021]

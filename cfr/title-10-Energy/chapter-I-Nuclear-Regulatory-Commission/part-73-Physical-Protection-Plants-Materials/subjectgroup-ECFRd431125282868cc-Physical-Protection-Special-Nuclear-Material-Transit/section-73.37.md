@@ -1,5 +1,7 @@
 ##### § 73.37 Requirements for physical protection of irradiated reactor fuel in transit. #####
 
+Link to an amendment published at 86 FR 43403, Aug. 9, 2021.
+
 (a) *Performance objectives.* (1) Each licensee who transports, or delivers to a carrier for transport, in a single shipment, a quantity of irradiated reactor fuel1 in excess of 100 grams (0.22 lbs) in net weight of irradiated fuel, exclusive of cladding or other structural or packaging material, which has a total external radiation dose rate in excess of 1 Gy (100 rad) per hour at a distance of 1 meter (3.3 feet) from any accessible surface without intervening shielding, shall establish and maintain, or make arrangements for, and assure the proper implementation of, a physical protection system for shipments of such material that will achieve the following objectives:
 
 1 For purposes of 10 CFR 73.37, the terms “irradiated reactor fuel” and “spent nuclear fuel” are used interchangeably.

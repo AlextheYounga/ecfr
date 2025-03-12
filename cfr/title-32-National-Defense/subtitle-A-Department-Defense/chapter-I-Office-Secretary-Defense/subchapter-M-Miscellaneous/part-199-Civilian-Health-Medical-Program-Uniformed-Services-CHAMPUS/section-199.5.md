@@ -1,7 +1,5 @@
 ##### § 199.5 TRICARE Extended Care Health Option (ECHO). #####
 
-Link to an amendment published at 86 FR 36217, July 9, 2021.
-
 (a) *General.* (1) The TRICARE ECHO is essentially a supplemental program to the TRICARE Basic Program. It does not provide acute care nor benefits available through the TRICARE Basic Program.
 
 (2) The purpose of the ECHO is to provide an additional financial resource for an integrated set of services and supplies designed to assist in the reduction of the disabling effects of the ECHO-eligible dependent's qualifying condition. Services include those necessary to maintain, minimize or prevent deterioration of function of an ECHO-eligible dependent.
@@ -76,7 +74,7 @@ When one or more electronic platforms such as a desktop computer, laptop, notebo
 
 (6) Transportation of an ECHO beneficiary receiving benefits under paragraph (c)(5), and a medical attendant when necessary to assure the beneficiary's safety, to or from a facility or institution to receive authorized ECHO services or items.
 
-(7) *Respite care.* ECHO beneficiaries are eligible for 16 hours of respite care per month in any month during which the beneficiary otherwise receives an ECHO benefit(s). Respite care is defined in § 199.2. Respite care services will be provided by a TRICARE-authorized home health agency and will be designed to provide health care services for the covered beneficiary, and not baby-sitting or child-care services for other members of the family. The benefit will not be cumulative, that is, any respite care hours not used in one month will not be carried over or banked for use on another occasion.
+(7) *Respite care.* TRICARE beneficiaries enrolled in ECHO are eligible for a maximum of 16 hours of respite care per month. Respite care is defined in § 199.2. Respite care services will be provided by a TRICARE-authorized HHA and will be designed to provide health care services for the covered beneficiary. The benefit will not be cumulative, that is, any respite hours not used in one month will not be carried over or banked for use on another occasion.
 
 (i) TRICARE-authorized home health agencies must provide and bill for all authorized ECHO respite care services through established TRICARE claims' mechanisms. No special billing arrangements will be authorized in conjunction with coverage that may be provided by Medicaid or other federal, state, community or private programs.
 
@@ -90,7 +88,7 @@ When one or more electronic platforms such as a desktop computer, laptop, notebo
 
 (iii) *Equipment maintenance.* Reasonable repairs and maintenance of the beneficiary owned or rented DE or AT devices provided by this section shall be allowed while a beneficiary is registered in the ECHO Program. Repairs of DE and/or AT devices damaged while using the item in a manner inconsistent with its common use, and replacement of lost or stolen rental DE are not authorized coverage as an ECHO benefit. In addition, repairs and maintenance of deluxe, luxury, or immaterial features of DE or AT devices are not authorized coverage as an ECHO benefit.
 
-(d) *ECHO Exclusions* - (1) *Basic Program.* Benefits allowed under the TRICARE Basic Program will not be provided through the ECHO.
+(d) *ECHO Exclusions*—(1) *Basic Program.* Benefits allowed under the TRICARE Basic Program will not be provided through the ECHO.
 
 (2) *Inpatient care.* Inpatient acute care for medical or surgical treatment of an acute illness, or of an acute exacerbation of the qualifying condition, is excluded.
 
@@ -162,18 +160,16 @@ When one or more electronic platforms such as a desktop computer, laptop, notebo
 
 (4) *EHHC plan of care.* A written plan of care is required prior to authorizing ECHO home health care. The plan must include the type, frequency, scope and duration of the care to be provided and support the professional level of provider. Reimbursement will not be authorized for a level of provider not identified in the plan of care.
 
-(5) *EHHC exclusions* - (i) *General.* ECHO Home Health Care services and supplies are excluded from those who are being provided continuing coverage of home health care as participants of the former Individual Case Management Program for Persons with Extraordinary Conditions (ICMP-PEC) or previous case management demonstrations.
+(5) *EHHC exclusions*—(i) *General.* ECHO Home Health Care services and supplies are excluded from those who are being provided continuing coverage of home health care as participants of the former Individual Case Management Program for Persons with Extraordinary Conditions (ICMP-PEC) or previous case management demonstrations.
 
 (ii) *Respite care.* Respite care for the purpose of covering primary caregiver absences due to deployment, employment, seeking of employment or to pursue education is excluded. Authorized respite care covers only the ECHO beneficiary, not siblings or others who may reside in or be visiting in the beneficiary's residence.
 
-(f) *Cost-share liability* - (1) *No deductible.* ECHO benefits are not subject to a deductible amount.
+(f) *Cost-share liability*—(1) *No deductible.* ECHO benefits are not subject to a deductible amount.
 
 (2) *Sponsor cost-share liability.* (i) Regardless of the number of family members receiving ECHO benefits or ECHO Home Health Care in a given month, the sponsor's cost-share is according to the following table:
 
-Table 1 - Monthly Cost-Share by Member's Pay Grade
-
 |   E-1 through E-5   |$25|
-|:--------------------|--:|
+|---------------------|---|
 |         E-6         |30 |
 |     E-7 and O-1     |35 |
 |     E-8 and O-2     |40 |
@@ -192,13 +188,13 @@ Table 1 - Monthly Cost-Share by Member's Pay Grade
 
 (iv) The sponsor's cost-share shown in Table 1 in paragraph (f)(2)(i) of this section does not accrue to the Basic Program's Catastrophic Loss Protection under 10 U.S.C. 1079(b)(5) as shown at §§ 199.4(f)(10) and 199.18(f).
 
-(3) *Government cost-share liability* - (i) *ECHO.* The total Government share of the cost of all ECHO benefits, except ECHO Home Health Care (EHHC) and EHHC respite care, provided in a given program year to a beneficiary, may not exceed $36,000 after application of the allowable payment methodology.
+(3) *Government cost-share liability*—(i) *ECHO.* The total Government share of the cost of all ECHO benefits, except ECHO Home Health Care (EHHC) and EHHC respite care, provided in a given program year to a beneficiary, may not exceed $36,000 after application of the allowable payment methodology.
 
 (ii) *ECHO home health care.* (A) The maximum annual program year Government cost-share per EHHC-eligible beneficiary for ECHO home health care, including EHHC respite care may not exceed the local wage-adjusted highest Medicare Resource Utilization Group (RUG-III) category cost for care in a TRICARE-authorized skilled nursing facility.
 
 (B) When a beneficiary moves to a different locality within the 50 United States, the District of Columbia, Puerto Rico, the Virgin Islands, or Guam, the annual program year cap will be recalculated to reflect the maximum established under paragraph (f)(3)(ii)(A) of this section for the beneficiary's new location and will apply to the EHHC benefit for the remaining portion of that program year.
 
-(g) *Benefit payment* - (1) *Transportation.* The allowable amount for transportation of an ECHO beneficiary is limited to the actual cost of the standard published fare plus any standard surcharge made to accommodate any person with a similar disability or to the actual cost of specialized medical transportation when non-specialized transport cannot accommodate the beneficiary's qualifying condition related needs, or when specialized transport is more economical than non-specialized transport. When transport is by private vehicle, the allowable amount is limited to the Federal government employee mileage reimbursement rate in effect on the date the transportation is provided.
+(g) *Benefit payment*—(1) *Transportation.* The allowable amount for transportation of an ECHO beneficiary is limited to the actual cost of the standard published fare plus any standard surcharge made to accommodate any person with a similar disability or to the actual cost of specialized medical transportation when non-specialized transport cannot accommodate the beneficiary's qualifying condition related needs, or when specialized transport is more economical than non-specialized transport. When transport is by private vehicle, the allowable amount is limited to the Federal government employee mileage reimbursement rate in effect on the date the transportation is provided.
 
 (2) *Equipment.* (i) The TRICARE allowable amount for DE or AT devices shall be calculated in the same manner as DME allowable through section 199.4 of this title, and accrues to the program year benefit limit specified in paragraph (f)(3) of this section.
 
@@ -222,7 +218,7 @@ Table 1 - Monthly Cost-Share by Member's Pay Grade
 
 (iii) The maximum monthly Government reimbursement for EHHC, including EHHC respite care, will be based on the actual number of hours of EHHC services rendered in the month, but in no case will it exceed one-twelfth of the annual maximum Government cost-share as determined in this section and adjusted according to the actual number of days in the month the services were provided.
 
-(h) *Other Requirements* - (1) *Applicable part.* All provisions of this part, except the provisions of § 199.4 unless otherwise provided by this section or as directed by the Director, TRICARE Management Activity or designee, apply to the ECHO.
+(h) *Other Requirements*—(1) *Applicable part.* All provisions of this part, except the provisions of § 199.4 unless otherwise provided by this section or as directed by the Director, TRICARE Management Activity or designee, apply to the ECHO.
 
 (2) *Registration.* Active duty sponsors must register potential ECHO-eligible beneficiaries through the Director, TRICARE Management Activity, or designee prior to receiving ECHO benefits. The Director, TRICARE Management Activity, or designee will determine ECHO eligibility and update the Defense Enrollment Eligibility Reporting System accordingly. Unless waived by the Director, TRICARE Management Activity or designee, sponsors must provide evidence of enrollment in the Exceptional Family Member Program provided by their branch of Service at the time they register their family member(s) for the ECHO.
 
@@ -258,4 +254,4 @@ Table 1 - Monthly Cost-Share by Member's Pay Grade
 
 (j) *Effective date.* All changes to this section are effective as of October 14, 2008, and claims for ECHO benefits provided on or after that date will be reprocessed retroactively to that date as necessary.
 
-[69 FR 51564, Aug. 20, 2004, as amended at 71 FR 47092, Aug. 16, 2006; 72 FR 2447, Jan. 19, 2007; 75 FR 47711, Aug. 9, 2010; 79 FR 78713, Dec. 31, 2014; 81 FR 27329, May 6, 2016; 82 FR 45447, Sept. 29, 2017]
+[69 FR 51564, Aug. 20, 2004, as amended at 71 FR 47092, Aug. 16, 2006; 72 FR 2447, Jan. 19, 2007; 75 FR 47711, Aug. 9, 2010; 79 FR 78713, Dec. 31, 2014; 81 FR 27329, May 6, 2016; 82 FR 45447, Sept. 29, 2017; 86 FR 36217, July 9, 2021]

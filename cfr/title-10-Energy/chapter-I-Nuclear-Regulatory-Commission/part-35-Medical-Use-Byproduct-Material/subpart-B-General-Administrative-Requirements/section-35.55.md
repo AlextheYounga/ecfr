@@ -1,5 +1,7 @@
 ##### § 35.55 Training for an authorized nuclear pharmacist. #####
 
+Link to an amendment published at 86 FR 43402, Aug. 9, 2021.
+
 Except as provided in § 35.57, the licensee shall require the authorized nuclear pharmacist to be a pharmacist who -
 
 (a) Is certified by a specialty board whose certification process has been recognized by the Commission or an Agreement State. The names of board certifications that have been recognized by the Commission or an Agreement State are posted on the NRC's Medical Uses Licensee Toolkit web page. To have its certification process recognized, a specialty board shall require all candidates for certification to:

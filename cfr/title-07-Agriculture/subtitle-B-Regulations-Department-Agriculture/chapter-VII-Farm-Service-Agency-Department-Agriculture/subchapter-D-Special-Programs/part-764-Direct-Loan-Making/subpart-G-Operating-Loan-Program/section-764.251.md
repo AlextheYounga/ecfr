@@ -4,7 +4,7 @@
 
 (1) Costs associated with reorganizing a farm to improve its profitability;
 
-(2) Purchase of livestock, including poultry, farm equipment, quotas and bases, and cooperative stock for credit, production, processing or marketing purposes;
+(2) Purchase of livestock, including poultry, farm equipment or fixtures, quotas and bases, and cooperative stock for credit, production, processing or marketing purposes;
 
 (3) Farm operating expenses, including, but not limited to, feed, seed, fertilizer, pesticides, farm supplies, repairs and improvements which are to be expensed, cash rent and family living expenses;
 

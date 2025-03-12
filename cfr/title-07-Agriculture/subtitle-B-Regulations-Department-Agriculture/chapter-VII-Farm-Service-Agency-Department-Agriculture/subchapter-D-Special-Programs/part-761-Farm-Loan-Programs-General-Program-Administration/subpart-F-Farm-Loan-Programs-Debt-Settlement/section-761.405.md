@@ -12,10 +12,12 @@
 
 (5) Verification of assets including, but not limited to, cash, checking accounts, savings accounts, certificates of deposit, individual retirement accounts, retirement and pension funds, mutual funds, stocks, bonds, and accounts receivable;
 
-(6) Verification of debts greater than $1,000;
+(6) Verification of debts exceeding an amount determined by the Agency;
 
 (7) Copies of complete Federal income tax returns for the previous 3 years; and
 
 (8) Any other items requested by the Agency to evaluate the debtor's financial condition.
 
 (b) [Reserved]
+
+[85 FR 36691, June 17, 2020, as amended at 86 FR 43391, Aug. 9, 2021]

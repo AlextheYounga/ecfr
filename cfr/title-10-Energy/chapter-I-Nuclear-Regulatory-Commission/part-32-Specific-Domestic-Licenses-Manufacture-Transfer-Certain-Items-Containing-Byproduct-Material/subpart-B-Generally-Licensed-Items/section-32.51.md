@@ -26,7 +26,7 @@ The receipt, possession, use, and transfer of this device Model \_\_\_\_2, Seria
 
 2 The model, serial number, and the name of the manufacturer, or initial transferor may be omitted from this label provided the information is elsewhere specified in labeling affixed to the device.
 
-CAUTION\_RADIOACTIVE MATERIAL(Name of manufacturer, or initial transferor)2
+CAUTION—RADIOACTIVE MATERIAL(Name of manufacturer, or initial transferor)2
 
 (4) Each device having a separable source housing that provides the primary shielding for the source also bears, on the source housing, a durable label containing the device model number and serial number, the isotope and quantity, the words, “Caution-Radioactive Material,” the radiation symbol described in § 20.1901 of this chapter, and the name of the manufacturer or initial distributor.
 

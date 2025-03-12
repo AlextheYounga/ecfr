@@ -1,5 +1,7 @@
 ##### § 20.2207 Reports of transactions involving nationally tracked sources. #####
 
+Link to an amendment published at 86 FR 43401, Aug. 9, 2021.
+
 Each licensee who manufactures, transfers, receives, disassembles, or disposes of a nationally tracked source shall complete and submit a National Source Tracking Transaction Report as specified in paragraphs (a) through (e) of this section for each type of transaction.
 
 (a) Each licensee who manufactures a nationally tracked source shall complete and submit a National Source Tracking Transaction Report. The report must include the following information:

@@ -2,7 +2,7 @@
 
 (a) *Dollar limits.* The outstanding principal balances for an applicant or anyone who will sign the promissory note cannot exceed any of the following at the time of loan closing or assumption of indebtedness. If the outstanding principal balance exceeds any of the limits at the time of approval, the farm operating plan must reflect that funds will be available to reduce the indebtedness prior to loan closing or assumption of indebtedness.
 
-(1) Farm Ownership, Downpayment loans, Conservation loans, and Soil and Water loans:
+(1) Farm Ownership, Down payment loans, Conservation loans, and Soil and Water loans:
 
 (i) Direct - $300,000;
 
@@ -30,4 +30,4 @@
 
 (c) *Line of credit advances.* The total dollar amount of guaranteed line of credit advances and income releases cannot exceed the total estimated expenses, less interest expense, as indicated on the borrower's cash flow budget, unless the cash flow budget is revised and continues to reflect a feasible plan.
 
-[72 FR 63285, Nov. 8, 2007, as amended at 73 FR 74345, Dec. 8, 2008; 75 FR 54012, Sept. 3, 2010]
+[72 FR 63285, Nov. 8, 2007, as amended at 73 FR 74345, Dec. 8, 2008; 75 FR 54012, Sept. 3, 2010; 86 FR 43390, Aug. 9, 2021]

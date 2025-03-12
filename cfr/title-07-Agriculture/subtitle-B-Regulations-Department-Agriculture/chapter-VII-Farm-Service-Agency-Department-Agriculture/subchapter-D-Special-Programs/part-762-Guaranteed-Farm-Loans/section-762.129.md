@@ -8,7 +8,7 @@
 
 (i) The sole purpose of a guaranteed FO or OL is to refinance an Agency direct farm loan. When only a portion of the loan is used to refinance a direct Agency loan, a weighted percentage of a guarantee will be provided; or
 
-(ii) When the purpose of a guaranteed FO is to participate in the downpayment loan program; or
+(ii) When the purpose of a guaranteed FO is to participate in the down payment loan program; or
 
 (iii) When a guaranteed OL is made to a farmer who is participating in the Agency's down payment loan program. The guaranteed OL must be made during the period that a borrower has the down payment loan outstanding; or
 
@@ -32,4 +32,4 @@
 
 (4) Principal and interest indebtedness on recapture debt pursuant to a shared appreciation agreement. Provided that the lender has paid the Agency its pro rata share of the recapture amount due.
 
-[64 FR 7378, Feb. 12, 1999, as amended at 68 FR 7695, Feb. 18, 2003; 72 FR 63297, Nov. 8, 2007; 75 FR 54014, Sept. 3, 2010; 79 FR 78693, Dec. 31, 2014]
+[64 FR 7378, Feb. 12, 1999, as amended at 68 FR 7695, Feb. 18, 2003; 72 FR 63297, Nov. 8, 2007; 75 FR 54014, Sept. 3, 2010; 79 FR 78693, Dec. 31, 2014; 86 FR 43391, Aug. 9, 2021]

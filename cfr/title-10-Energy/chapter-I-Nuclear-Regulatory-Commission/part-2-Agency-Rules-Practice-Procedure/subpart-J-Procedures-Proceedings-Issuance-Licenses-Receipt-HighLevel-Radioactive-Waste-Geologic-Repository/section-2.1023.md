@@ -1,5 +1,7 @@
 ##### § 2.1023 Immediate effectiveness. #####
 
+Link to an amendment published at 86 FR 43401, Aug. 9, 2021.
+
 (a) Pending review and final decision by the Commission, an initial decision resolving all issues before the presiding officer in favor of issuance or amendment of either an authorization to construct a high-level radioactive waste repository at a geological repository operations area under parts 60 or 63 of this chapter, or a license to receive and possess high-level radioactive waste at a geologic repository operations area under parts 60 or 63 of this chapter will be immediately effective upon issuance except:
 
 (1) As provided in any order issued in accordance with § 2.342 that stays the effectiveness of an initial decision; or

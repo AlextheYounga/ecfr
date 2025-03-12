@@ -1,6 +1,6 @@
 ##### § 766.202 Determining the shared appreciation due. #####
 
-(a) The value of the real estate security at the time of maturity of the SAA (market value) will be the appraised value of the security at the highest and best use, less the increase in the value of the security resulting from capital improvements added during the term of the SAA (contributory value). The market value of the real estate security property will be determined based on a current appraisal completed within the previous 12 months in accordance with § 761.7 of this chapter, and subject to the following:
+(a) The value of the real estate security at the time of maturity of the SAA (market value) will be the appraised value of the security at the highest and best use, less the increase in the value of the security resulting from capital improvements added during the term of the SAA (contributory value). The market value of the real estate security property will be determined based on a current appraisal completed within the previous 18 months in accordance with § 761.7 of this chapter, and subject to the following:
 
 (1) Prior to completion of the appraisal, the borrower will identify any capital improvements that have been added to the real estate security since the execution of the SAA.
 
@@ -17,3 +17,5 @@
 (B) If the new item is affixed to the real estate as a replacement for an item that existed on the real estate at the time the SAA was originally executed, only the value added by the new item will be deducted from the market value.
 
 (b) In the event of a partial sale, an appraisal of the property being sold may be required to determine the market value at the time the SAA was signed if such value cannot be obtained through another method.
+
+[72 FR 63316, Nov. 8, 2007, as amended at 86 FR 43392, Aug. 9, 2021]
