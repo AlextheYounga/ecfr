@@ -1,6 +1,6 @@
 ##### § 648.52 Possession and landing limits. #####
 
-Link to an amendment published at 87 FR 1696, Jan. 12, 2022.
+Link to an amendment published at 87 FR 18284, Mar. 30, 2022.Link to an amendment published at 87 FR 1696, Jan. 12, 2022.
 
 (a) A vessel issued an IFQ scallop permit that is declared into the IFQ scallop fishery as specified in § 648.10(b), or on a properly declared NE multispecies, surfclam, or ocean quahog trip (or other fishery requiring a VMS declaration) and not fishing in a scallop access area, unless as specified in paragraph (g) of this section or exempted under the state waters exemption program described in § 648.54, may not possess or land, per trip, more than 600 lb (272.2 kg) of shucked scallops, or possess more than 75 bu (26.4 hL) of in-shell scallops shoreward of the VMS Demarcation Line. Such a vessel may land scallops only once in any calendar day. Such a vessel may possess up to 100 bu (35.2 hL) of in-shell scallops seaward of the VMS Demarcation Line on a properly declared IFQ scallop trip, or on a properly declared NE multispecies, surfclam, or ocean quahog trip, or other fishery requiring a VMS declaration, and not fishing in a scallop access area.
 

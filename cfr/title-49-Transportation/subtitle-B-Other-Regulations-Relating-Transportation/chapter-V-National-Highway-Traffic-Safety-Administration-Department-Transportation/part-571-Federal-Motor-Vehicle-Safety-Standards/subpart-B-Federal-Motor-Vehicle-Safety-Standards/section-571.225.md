@@ -1,5 +1,7 @@
 ##### § 571.225 Standard No. 225; Child restraint anchorage systems. #####
 
+Link to an amendment published at 87 FR 18599, Mar. 30, 2022.
+
 S1. *Purpose and scope.* This standard establishes requirements for child restraint anchorage systems to ensure their proper location and strength for the effective securing of child restraints, to reduce the likelihood of the anchorage systems' failure, and to increase the likelihood that child restraints are properly secured and thus more fully achieve their potential effectiveness in motor vehicles.
 
 S2. *Application.* This standard applies to passenger cars; to trucks and multipurpose passenger vehicles with a gross vehicle weight rating (GVWR) of 3,855 kilograms (8,500 pounds) or less; and to buses (including school buses) with a GVWR of 4,536 kg (10,000 lb) or less. This standard does not apply to walk-in van-type vehicles, vehicles manufactured to be sold exclusively to the U.S. Postal Service, shuttle buses, and funeral coaches.

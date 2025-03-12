@@ -1,5 +1,7 @@
 ##### § 571.203 Standard No. 203; Impact protection for the driver from the steering control system. #####
 
+Link to an amendment published at 87 FR 18588, Mar. 30, 2022.
+
 S1. *Purpose and scope.* This standard specifies requirements for steering control systems that will minimize chest, neck, and facial injuries to the driver as a result of impact.
 
 S2. *Application.* This standard applies to passenger cars and to multipurpose passenger vehicles, trucks and buses with a gross vehicle weight rating of 4,536 kg or less. However, it does not apply to vehicles that conform to the frontal barrier crash requirements (S5.1) of Standard No. 208 (49 CFR 571.208) by means of other than seat belt assemblies. It also does not apply to walk-in vans.

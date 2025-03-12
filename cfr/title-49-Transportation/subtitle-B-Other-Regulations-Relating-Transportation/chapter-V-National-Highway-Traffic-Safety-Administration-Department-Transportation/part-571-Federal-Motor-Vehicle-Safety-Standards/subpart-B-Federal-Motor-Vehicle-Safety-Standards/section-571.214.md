@@ -1,5 +1,7 @@
 ##### § 571.214 Standard No. 214; Side impact protection. #####
 
+Link to an amendment published at 87 FR 18597, Mar. 30, 2022.
+
 S1 *Scope and purpose.*
 
 (a) *Scope.* This standard specifies performance requirements for protection of occupants in side impacts.

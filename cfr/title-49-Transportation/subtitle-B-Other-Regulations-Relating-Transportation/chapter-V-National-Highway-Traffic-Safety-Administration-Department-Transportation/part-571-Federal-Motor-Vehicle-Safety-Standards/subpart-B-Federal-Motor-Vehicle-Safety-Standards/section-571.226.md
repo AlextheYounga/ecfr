@@ -1,5 +1,7 @@
 ##### § 571.226 Standard No. 226; Ejection Mitigation. #####
 
+Link to an amendment published at 87 FR 18599, Mar. 30, 2022.
+
 S1. *Purpose and Scope.* This standard establishes requirements for ejection mitigation systems to reduce the likelihood of complete and partial ejections of vehicle occupants through side windows during rollovers or side impact events.
 
 S2. *Application.* This standard applies to passenger cars, and to multipurpose passenger vehicles, trucks and buses with a gross vehicle weight rating of 4,536 kg or less, except walk-in vans, modified roof vehicles, convertibles, and vehicles with no doors or with doors that are designed to be easily attached or removed so the vehicle can be operated without doors. Also excluded from this standard are law enforcement vehicles, correctional institution vehicles, taxis and limousines, if they have a fixed security partition separating the 1st and 2nd or 2nd and 3rd rows and if they are produced by more than one manufacturer or are altered (within the meaning of 49 CFR 567.7).

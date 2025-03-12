@@ -1,5 +1,7 @@
 ##### § 571.206 Standard No. 206; Door locks and door retention components. #####
 
+Link to an amendment published at 87 FR 18588, Mar. 30, 2022.
+
 S1. *Scope and Purpose.* This standard specifies requirements for vehicle door locks and door retention components, including latches, hinges, and other supporting means, to minimize the likelihood of occupants being ejected from a vehicle as a result of impact.
 
 S2. *Application.* This standard applies to passenger cars, multipurpose passenger vehicles, and trucks, and buses with a gross vehicle weight rating (GVWR) of 4,536 kg or less.

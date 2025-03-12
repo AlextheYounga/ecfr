@@ -1,5 +1,7 @@
 ##### § 571.205 Standard No. 205, Glazing materials. #####
 
+Link to an amendment published at 87 FR 18588, Mar. 30, 2022.
+
 S1. *Scope.* This standard specifies requirements for glazing materials for use in motor vehicles and motor vehicle equipment.
 
 S2. *Purpose.* The purpose of this standard is to reduce injuries resulting from impact to glazing surfaces, to ensure a necessary degree of transparency in motor vehicle windows for driver visibility, and to minimize the possibility of occupants being thrown through the vehicle windows in collisions.

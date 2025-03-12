@@ -1,6 +1,6 @@
 ##### § 648.59 Sea Scallop Rotational Area Management Program and Access Area Program requirements. #####
 
-Link to an amendment published at 87 FR 1699, Jan. 12, 2022.
+Link to an amendment published at 87 FR 1699, Jan. 12, 2022.Link to an amendment published at 87 FR 18285, Mar. 30, 2022.
 
 (a) The Sea Scallop Rotational Area Management Program consists of Scallop Rotational Areas, as defined in § 648.2. Guidelines for this area rotation program (*i.e.,* when to close an area and reopen it to scallop fishing) are provided in § 648.55(a)(6). Whether a rotational area is open or closed to scallop fishing in a given year, and the appropriate level of access by limited access and LAGC IFQ vessels, are specified through the specifications or framework adjustment processes defined in § 648.55. When a rotational area is open to the scallop fishery, it is called an Access Area and scallop vessels fishing in the area are subject to the Access Area Program Requirements specified in this section. Areas not defined as Scallop Rotational Areas specified in § 648.60, Habitat Management Areas specified in § 648.370, or areas closed to scallop fishing under other FMPs, are governed by other management measures and restrictions in this part and are referred to as Open Areas.
 

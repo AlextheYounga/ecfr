@@ -1,5 +1,7 @@
 ##### § 401.220 Registration of pilots. #####
 
+Link to an amendment published at 87 FR 18524, Mar. 30, 2022.
+
 (a) The Director shall determine the number of pilots required to be registered in order to assure adequate and efficient pilotage service in the United States waters of the Great Lakes and to provide for equitable participation of United States Registered Pilots with Canadian Registered Pilots in the rendering of pilotage services. The Director determines the number of pilots needed as follows:
 
 (1) The Director determines the base number of pilots needed by dividing each area's peak pilotage demand data by its pilot work cycle. The pilot work cycle standard includes any time that the Director finds to be a necessary and reasonable component of ensuring that a pilotage assignment is carried out safely, efficiently, and reliably for each area. These components may include, but are not limited to -

@@ -1,5 +1,7 @@
 ##### § 571.207 Standard No. 207; Seating systems. #####
 
+Link to an amendment published at 87 FR 18588, Mar. 30, 2022.
+
 S1. *Purpose and scope.* This standard establishes requirements for seats, their attachment assemblies, and their installation to minimize the possibility of their failure by forces acting on them as a result of vehicle impact.
 
 S2. *Application.* This standard applies to passenger cars, multipurpose passenger vehicles, trucks and buses.

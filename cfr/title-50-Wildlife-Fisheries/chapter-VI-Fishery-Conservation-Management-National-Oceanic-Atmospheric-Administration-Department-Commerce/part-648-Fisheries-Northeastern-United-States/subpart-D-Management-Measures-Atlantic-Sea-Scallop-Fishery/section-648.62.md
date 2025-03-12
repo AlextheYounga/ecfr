@@ -1,5 +1,7 @@
 ##### § 648.62 Northern Gulf of Maine (NGOM) Management Program. #####
 
+Link to an amendment published at 87 FR 18287, Mar. 30, 2022.
+
 (a) The NGOM scallop management area is the area north of 42°20′ N lat. and within the boundaries of the Gulf of Maine Scallop Dredge Exemption Area as specified in § 648.80(h)(3)(i). To fish for or possess scallops in the NGOM scallop management area, a vessel must have been issued a scallop permit as specified in § 648.4(a)(2).
 
 (1) If a vessel has been issued a NGOM scallop permit, the vessel is restricted to fishing for or possessing scallops only in the NGOM scallop management area.

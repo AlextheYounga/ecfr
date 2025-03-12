@@ -1,5 +1,7 @@
 ##### § 106.4 Premium processing service. #####
 
+Link to an amendment published at 87 FR 18260, Mar. 30, 2022.
+
 (a) *General.* A person submitting a request to USCIS may request 15 business-day processing of certain employment-based immigration benefit requests.
 
 (b) *Submitting a request.* A request must be submitted on the form prescribed by USCIS and prepared and submitted in accordance with the form instructions. If the request for premium processing is submitted together with the underlying benefit request, all required fees in the correct amount must be paid.

@@ -1,6 +1,6 @@
 ##### § 648.53 Overfishing limit (OFL), acceptable biological catch (ABC), annual catch limits (ACL), annual catch targets (ACT), annual projected landings (APL), DAS allocations, and individual fishing quotas (IFQ). #####
 
-Link to an amendment published at 87 FR 1697, Jan. 12, 2022.
+Link to an amendment published at 87 FR 1697, Jan. 12, 2022.Link to an amendment published at 87 FR 18284, Mar. 30, 2022.
 
 (a) The following determinations and allocations for the sea scallop rotational areas are defined as follows and shall be established through the specifications or framework adjustment process:
 

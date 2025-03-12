@@ -1,5 +1,7 @@
 ##### § 571.216a Standard No. 216a; Roof crush resistance; Upgraded standard. #####
 
+Link to an amendment published at 87 FR 18599, Mar. 30, 2022.
+
 S1. *Scope.* This standard establishes strength requirements for the passenger compartment roof.
 
 S2. *Purpose.* The purpose of this standard is to reduce deaths and injuries due to the crushing of the roof into the occupant compartment in rollover crashes.

@@ -1,5 +1,7 @@
 ##### § 571.3 Definitions. #####
 
+Link to an amendment published at 87 FR 18586, Mar. 30, 2022.
+
 (a) *Statutory definitions.* All terms defined in section 102 of the Act are used in their statutory meaning.
 
 (b) *Other definitions.* As used in this chapter -

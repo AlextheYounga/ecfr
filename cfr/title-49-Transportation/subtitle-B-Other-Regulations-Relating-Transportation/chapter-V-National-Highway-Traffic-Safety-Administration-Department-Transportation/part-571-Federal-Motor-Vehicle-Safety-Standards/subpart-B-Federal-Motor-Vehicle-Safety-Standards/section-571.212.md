@@ -1,5 +1,7 @@
 ##### § 571.212 Standard No. 212; Windshield mounting. #####
 
+Link to an amendment published at 87 FR 18597, Mar. 30, 2022.
+
 S1. *Scope.* This standard establishes windshield retention requirements for motor vehicles during crashes.
 
 S2. *Purpose.* The purpose of this standard is to reduce crash injuries and fatalities by providing for retention of the vehicle windshield during a crash, thereby utilizing fully the penetration-resistance and injury-avoidance properties of the windshield glazing material and preventing the ejection of occupants from the vehicle.

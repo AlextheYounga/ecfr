@@ -1,5 +1,7 @@
 ##### § 571.201 Standard No. 201; Occupant protection in interior impact. #####
 
+Link to an amendment published at 87 FR 18587, Mar. 30, 2022.
+
 S1. *Purpose and scope.* This standard specifies requirements to afford impact protection for occupants.
 
 S2. *Application.* This standard applies to passenger cars and to multipurpose passenger vehicles, trucks, and buses with a GVWR of 4,536 kilograms or less, except that the requirements of S6 do not apply to buses with a GVWR of more than 3,860 kilograms.

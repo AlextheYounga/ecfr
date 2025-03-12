@@ -1,5 +1,7 @@
 ##### § 404.2 Procedure and criteria for recognizing association expenses. #####
 
+Link to an amendment published at 87 FR 18524, Mar. 30, 2022.
+
 (a) A pilotage association must report each expense item for which it seeks reimbursement through the charging of pilotage rates, and make supporting information available to the Director. The Director must recognize the item as both necessary for providing pilotage service, and reasonable as to its amount when compared to similar expenses paid by others in the maritime or other comparable industry, or when compared with Internal Revenue Service guidelines. The association will be given an opportunity to contest any preliminary determination that a reported item should not be recognized.
 
 (b) The Director applies the following criteria to recognize an expense item as necessary and reasonable within the meaning of paragraph (a) of this section:
