@@ -1,7 +1,5 @@
 ##### § 301-70.102 What governing policies must we establish for authorization and payment of transportation expenses? #####
 
-Link to an amendment published at 82 FR 604, Jan. 5, 2018.
-
 You must establish policies and procedures governing:
 
 (a) Who will determine what method of transportation is more advantageous to the Government;
@@ -32,7 +30,7 @@ You must establish policies and procedures governing:
 
 (e) Procedures for claiming POV reimbursement;
 
-(f) Procedures for allowing the use of a special conveyance (e.g., commercially rented vehicles), taking into account the requirements of § 301-10.450;
+(f) Procedures for allowing the use of a special conveyance (e.g., taxis, TNCs, innovative mobility technology companies, or commercially rented vehicles), taking into account the requirements of § 301-10.450;
 
 (g) What procedures an employee must follow when he/she travels by an indirect route or interrupts travel by a direct route;
 
@@ -50,4 +48,4 @@ You must establish policies and procedures governing:
 
 (k) Develop and publish internal guidance regarding Seating Upgrade Programs in coach-class (see § 301-10.124).
 
-[FTR Amdt. 70, 63 FR 15971, Apr. 1, 1998, as amended by FTR Amdt. 2005-03, 70 FR 28460, May 18, 2005; FTR Amdt. 2009-06, 74 FR 55149, Oct. 27, 2009; FTR Amdt. 2010-02, 75 FR 24436, May 5, 2010; FTR Amdt. 2010-07, 75 FR 72967, Nov. 29, 2010; FTR Amdt. 2015-03, 80 FR 27261, May 13, 2015]
+[FTR Amdt. 70, 63 FR 15971, Apr. 1, 1998, as amended by FTR Amdt. 2005-03, 70 FR 28460, May 18, 2005; FTR Amdt. 2009-06, 74 FR 55149, Oct. 27, 2009; FTR Amdt. 2010-02, 75 FR 24436, May 5, 2010; FTR Amdt. 2010-07, 75 FR 72967, Nov. 29, 2010; FTR Amdt. 2015-03, 80 FR 27261, May 13, 2015; FTR Amdt. 2017-01, 83 FR 604, Jan. 5, 2018]

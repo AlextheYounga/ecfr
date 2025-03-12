@@ -36,4 +36,4 @@
 
 (d) *Will.* A participant cannot use a will to designate a TSP beneficiary.
 
-[70 FR 32216, June 1, 2005, as amended at 75 FR 44066, July 28, 2010; 77 FR 26427, May 4, 2012; 79 FR 38748, July 9, 2014; 79 FR 44261, July 31, 2014; 82 FR 21107, May 5, 2017; 82 FR 60105, Dec. 19, 2017]
+[70 FR 32216, June 1, 2005, as amended at 75 FR 44066, July 28, 2010; 77 FR 26427, May 4, 2012; 79 FR 38748, July 9, 2014; 79 FR 44261, July 31, 2014; 82 FR 60105, Dec. 19, 2017]

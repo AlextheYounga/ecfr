@@ -36,15 +36,15 @@ Example 1.A request from a professor of sociology at a university for records re
 
 (ii) For each quarter hour spent by personnel searching for requested records, including electronic searches that do not require new programming, the fees will be charged as follows:
 
-(A) By clerical personnel - at the rate of $5.00 per quarter hour.
+(A) By clerical personnel—at the rate of $5.00 per quarter hour.
 
-(B) By paralegals - at the rate of $9.00 per quarter hour.
+(B) By paralegals—at the rate of $9.00 per quarter hour.
 
-(C) By professional personnel - at the rate of $10.00 per quarter hour.
+(C) By professional personnel—at the rate of $10.00 per quarter hour.
 
-(D) By managers - at the rate of $17.50 per quarter hour.
+(D) By managers—at the rate of $17.50 per quarter hour.
 
-(E) By SES employees - at the rate of $20.00 per quarter hour.
+(E) By SES employees—at the rate of $20.00 per quarter hour.
 
 (iii) The Commission will charge the direct costs associated with conducting any search that requires the creation of a new computer program to locate the requested records. The Commission must notify the requester of the costs associated with creating such a program, and the requester must agree to pay the associated costs before the costs may be incurred.
 
@@ -84,9 +84,9 @@ Example 1.A request from a professor of sociology at a university for records re
 
 (f) *Charges for other services.* Although not required to provide special services, if the Commission chooses to do so as a matter of administrative discretion, the direct costs of providing the service will be charged. Examples of such services include certifying that records are true copies, providing multiple copies of the same document, or sending records by means other than first class mail. The Commission charges for the following special services:
 
-(1) For attestation of documents - $25.00 per authenticating affidavit or declaration. Additionally, there may be search and review charges assessed in accordance with the rates listed in paragraph (c)(1) of this section.
+(1) For attestation of documents—$25.00 per authenticating affidavit or declaration. Additionally, there may be search and review charges assessed in accordance with the rates listed in paragraph (c)(1) of this section.
 
-(2) For certification of document - $50.00 per authenticating affidavit or declaration. Additionally, there may be search and review charges assessed in accordance with the rates listed in paragraph (c)(1) of this section.
+(2) For certification of document—$50.00 per authenticating affidavit or declaration. Additionally, there may be search and review charges assessed in accordance with the rates listed in paragraph (c)(1) of this section.
 
 (g) *Charging interest.* The Commission may charge interest on any unpaid bill starting on the 31st day following the date of billing the requester. Interest charges will be assessed at the rate provided in 31 U.S.C. 3717 and will accrue from the billing date until payment is received by the agency. Agencies must follow the provisions of the Debt Collection Act of 1982, 5 U.S.C. 5514, as amended, and its administrative procedures, including the use of consumer reporting agencies, collection agencies, and offset.
 

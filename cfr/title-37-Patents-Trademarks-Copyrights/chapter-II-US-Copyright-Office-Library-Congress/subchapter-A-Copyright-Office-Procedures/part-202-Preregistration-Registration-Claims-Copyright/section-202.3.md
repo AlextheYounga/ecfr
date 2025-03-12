@@ -1,6 +1,6 @@
 ##### § 202.3 Registration of copyright. #####
 
-Link to an amendment published at 83 FR 2547, Jan. 18, 2018.Link to an amendment published at 83 FR 4146, January 30, 2018.
+Link to an amendment published at 83 FR 4146, January 30, 2018.
 
 (a) *General.* (1) This section prescribes conditions for the registration of copyright, and the application to be made for registration under sections 408 and 409 of title 17 of the United States Code.
 
@@ -50,7 +50,7 @@ Link to an amendment published at 83 FR 2547, Jan. 18, 2018.Link to an amendment
 
 (D) Copies of the printed forms are available on the Copyright Office's website (*www.copyright.gov*) and upon request to the Copyright Public Information Office, Library of Congress. Printed form applications may be completed and submitted by completing a printed version or using a PDF version of the applicable Copyright Office application form and mailing it together with the other required elements, *i.e.,* physically tangible deposit copies and/or materials, and the required filing fee, all elements being placed in the same package and sent by mail or hand-delivered to the Copyright Office.
 
-(3) *Continuation sheets.* A continuation sheet (Form CON) is appropriate only in the case when a printed form application is used and where additional space is needed by the applicant to provide all relevant information concerning a claim to copyright. An application may include more than one continuation sheet, subject to the limitations in paragraph (b)(10)(v) of this section.
+(3) *Continuation sheets.* A continuation sheet (Form CON) is appropriate only in the case when a printed form application is used and where additional space is needed by the applicant to provide all relevant information concerning a claim to copyright. An application may include more than one continuation sheet.
 
 (4) *Registration as a single work.* (i) For the purpose of registration on a single application and upon payment of a single registration fee, the following shall be considered a single work:
 
@@ -174,37 +174,7 @@ Registration of an unpublished “collection” extends to each copyrightable el
 
 (viii) A Form G/DN shall be submitted for daily newsletters bearing issue dates within a single month, together with one copy of each issue, and a filing fee. The application shall designate the first and last day that issues in the group were published.
 
-(10) *Group registration of published photographs.* Pursuant to the authority granted by 17 U.S.C. 408(c)(1), the Register of Copyrights will accept a single application (on Form VA), deposit and filing fee for registration of a group of photographs if the following conditions are met:
-
-(i) The copyright claimant in all of the photographs must be the same.
-
-(ii) The photographer who photographed each of the photographs submitted for registration as part of the group must be the same person.
-
-(iii) The photographs in the group must have been published within the same calendar year.
-
-(iv) If the photographs in a group were all published on the same date, the date of publication must be identified in space 3b of the application. If the photographs in a group were not all published on the same date, the range of dates of publication (e.g., February 15-September 15, 2004) must be provided in space 3b of the application, and the date of publication of each photograph within the group must be identified either:
-
-(A) On each deposited image;
-
-(B) In a text file on the CD-ROM or DVD that contains the deposited photographic images;
-
-(C) On a list that accompanies the deposit and provides the publication date for each image; or
-
-(D) On a special continuation sheet (Form GR/PPh/CON) provided by the Copyright Office. Dates of publication must be provided in a way that clearly identifies the date of publication for each individual photograph in the group.
-
-(v) If the applicant chooses to identify the date of publication for each photograph in the group on a continuation sheet, the application may include no more than 50 continuation sheets identifying no more than 750 photographs. For these purposes, the applicant must use the special continuation sheet (Form GR/PPh/CON) for registration of a group of photographs made available by the Copyright Office.
-
-(vi) If each photograph within the group was first published within three months before the date on which an acceptable application, an acceptable deposit, and the applicable fee are received in the Copyright Office, the applicant may, in lieu of the procedure set forth in paragraph (b)(10)(iv) of this section, simply state the range of dates of publication (e.g., February 15-May 15, 2001) in space 3b of the application, without specifically identifying the date of publication of each photograph in the group either on the deposited image or on a continuation sheet.
-
-(vii) The deposit(s) and application must be accompanied by the fee set forth in § 201.3(c) of this chapter for a basic registration.
-
-(viii) The applicant must state “Group Registration/Photos” and state the approximate number of photographs included in the group in space 1 of the application Form VA under the heading “Previous or Alternative Titles” (e.g., “Group Registration/Photos; app. 450 photographs”).
-
-(ix) If the photographs in the group are works made for hire, the applicant must note, as part of the applicant's entry in space 2 of the application Form VA for “Name of Author,” both the name of the employer for hire and the name of the photographer who photographed the works in the group (e.g., “XYZ Corporation, employer for hire of John Doe”).
-
-(x) As an alternative to the best edition of the work, one copy of each photograph shall be submitted in one of the formats set forth in § 202.20(c)(2)(xx).
-
-(xi) Instead of using Form VA, an applicant may submit an electronic application for group registration of published photographs after consultation and with the permission and under the direction of the Visual Arts Division.
+(10) [Reserved]
 
 (11) *One registration per work.* As a general rule only one copyright registration can be made for the same version of a particular work. However:
 

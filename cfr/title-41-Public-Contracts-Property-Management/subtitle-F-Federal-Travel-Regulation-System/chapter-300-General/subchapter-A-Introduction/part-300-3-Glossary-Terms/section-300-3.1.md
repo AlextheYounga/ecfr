@@ -1,7 +1,5 @@
 ##### § 300-3.1 What do the following terms mean? #####
 
-Link to an amendment published at 82 FR 603, Jan. 5, 2018.
-
 *Accompanied baggage* - Government property and personal property of the traveler necessary for official travel.
 
 *Actual expense* - Payment of authorized actual expenses incurred, up to the limit prescribed by the Administrator of GSA or agency, as appropriate. Entitlement to reimbursement is contingent upon entitlement to per diem, and is subject to the same definitions and rules governing per diem.
@@ -236,6 +234,12 @@ The definition of “Domestic partnership” requires that the partners “share
 
 (5) Dependent brothers and sisters (including step and legally adoptive brothers and sisters) of the employee, of the employee's spouse, or of the employee's domestic partner, who are unmarried and under 21 years of age or who, regardless of age, are physically or mentally incapable of self-support.
 
+*Innovative mobility technology company* - An organization, including a corporation, limited liability company, partnership, sole proprietorship, or any other entity, that applies technology to expand and enhance available transportation choices, better manages demand for transportation services, or provides alternatives to driving alone.
+
+Note to definition of “*Innovative mobility technology company”*:
+
+Certain jurisdictions may have limits or prohibit the operation or use of innovative mobility technology companies. Federal employees are expected to follow all laws, including those related to innovative mobility technology companies, as well as choose the most cost effective level of service.
+
 *Interviewee* - An individual who is being considered for employment by an agency. The individual may currently be a Government employee.
 
 *Invitational travel* - Authorized travel of individuals either not employed or employed (under 5 U.S.C. 5703) intermittently in the Government service as consultants or experts and paid on a daily when-actually-employed basis and for individuals serving without pay or at $1 a year when they are acting in a capacity that is directly related to, or in connection with, official activities of the Government. Travel allowances authorized for such persons are the same as those normally authorized for employees in connection with TDY.
@@ -318,11 +322,15 @@ The definition of “Domestic partnership” requires that the partners “share
 
 (c) Incidental expenses (see incidental expenses under the definition of per diem allowance).
 
+*Taxi* - A hired car that carries passengers to a destination for a fare based upon the distance traveled, time spent in the vehicle, other metric, or a flat rate to and from one point to another (*e.g.,* a flat rate from downtown to a common carrier terminal).
+
 *Temporary duty (TDY) location* - A place, away from an employee's official station, where the employee is authorized to travel.
 
 *Temporary storage* - Storage of HHG for a limited period of time at origin, destination or en route in connection with transportation to, from, or between official station or post of duty or authorized alternate points. Also referred to as storage-in-transit (SIT).
 
 *Transit system* - A form of transportation (e.g., air, rail, bus, ship, etc.) used between authorized locations in the performance of official travel.
+
+*Transportation network company (TNC)* - A corporation, partnership, sole proprietorship, or other entity, that uses a digital network to connect riders to drivers affiliated with the entity in order for the driver to transport the rider using a vehicle owned, leased, or otherwise authorized for use by the driver to a point chosen by the rider; and does not include a shared-expense carpool or vanpool arrangement that is not intended to generate profit for the driver. Note: Certain jurisdictions may have limits or prohibit the operation or use of TNCs. Federal employees are expected to follow all laws, including those related to TNCs, as well as choose the most cost effective level of service.
 
 *Travel advance* - Prepayment of estimated travel expenses paid to an employee.
 

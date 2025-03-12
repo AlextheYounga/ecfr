@@ -82,6 +82,8 @@
 
 (h) When a person other than a party to a proceeding before the FLRA makes a request for a copy of a transcript or recording of the proceeding, the Authority, the General Counsel, the Panel, or the IG, as appropriate, will handle the request under this part.
 
+(i) Payment of fees shall be made by check or money order payable to the U.S. Treasury.
+
 (j) The fee schedule of this section does not apply to fees charged under any statute that specifically requires the Authority, the General Counsel, the Panel, or the IG to set and collect fees for particular types of records. In instances in which records responsive to a request are subject to a statutorily based fee-schedule program, the Authority, the General Counsel, the Panel, or the IG will inform the requester of the contact information for that program.
 
 [74 FR 50674, Oct. 1, 2009, as amended at 82 FR 2855, Jan. 10, 2017]

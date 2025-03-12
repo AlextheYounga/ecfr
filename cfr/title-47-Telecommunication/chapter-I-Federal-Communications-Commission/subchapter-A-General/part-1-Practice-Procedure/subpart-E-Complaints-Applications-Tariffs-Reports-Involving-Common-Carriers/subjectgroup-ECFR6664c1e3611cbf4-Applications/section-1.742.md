@@ -1,7 +1,5 @@
 ##### § 1.742 Place of filing, fees, and number of copies. #####
 
-Link to an amendment published at 83 FR 2556, Jan. 18, 2018.
+All applications which do not require a fee shall be filed electronically through the Commission's Electronic Comment Filing System if practicable. Applications which must be filed in hard copy format should be submitted according to the procedures set forth on the web page of the FCC's Office of the Secretary, *https://www.fcc.gov/secretary.* Hand-delivered applications will be dated by the Secretary upon receipt (mailed applications will be dated by the Mail Branch) and then forwarded to the Wireline Competition Bureau. All applications accompanied by a fee payment should be filed in accordance with § 1.1105, Schedule of charges for applications and other filings for the wireline competition services.
 
-All applications which do not require a fee shall be filed at the Commission's main office in Washington, DC., Attention: Office of the Secretary. Hand-delivered applications will be dated by the Secretary upon receipt (mailed applications will be dated by the Mail Branch) and then forwarded to the Wireline Competition Bureau. All applications accompanied by a fee payment should be filed with the Commission's lockbox bank in accordance with § 1.1105, Schedule of Fees. The number of copies required for each application and the nonrefundable processing fees and any applicable regulatory fees (see subpart G of this part) which must accompany each application in order to qualify it for acceptance for filing and consideration are set forth in the rules in this chapter relating to various types of applications. However, if any application is not of the type covered by this chapter, an original and two copies of each such application shall be submitted.
-
-[59 FR 30998, June 16, 1994, as amended at 67 FR 13223, Mar. 21, 2002]
+[83 FR 2556, Jan. 18, 2018]
