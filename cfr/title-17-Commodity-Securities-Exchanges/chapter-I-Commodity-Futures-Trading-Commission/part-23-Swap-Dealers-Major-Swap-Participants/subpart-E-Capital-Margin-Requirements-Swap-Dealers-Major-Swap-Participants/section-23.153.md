@@ -1,5 +1,7 @@
 ##### § 23.153 Collection and posting of variation margin. #####
 
+Link to an amendment published at 86 FR 6857, Jan. 25, 2021.
+
 (a) *Initial obligation.* On or before the business day after the day of execution of an uncleared swap between a covered swap entity and a counterparty that is a swap entity or a financial end user, the covered swap entity shall collect the variation margin amount from the counterparty when the amount is positive, or post the variation margin amount with the counterparty when the amount is negative as calculated pursuant to § 23.155 and in a form that complies with § 23.156.
 
 (b) *Continuing obligation.* The covered swap entity shall continue to collect the variation margin amount from, or to post the variation margin amount with, the counterparty as calculated each business day pursuant to § 23.155 and in a form that complies with § 23.156 each business day until such uncleared swap is terminated or expires.

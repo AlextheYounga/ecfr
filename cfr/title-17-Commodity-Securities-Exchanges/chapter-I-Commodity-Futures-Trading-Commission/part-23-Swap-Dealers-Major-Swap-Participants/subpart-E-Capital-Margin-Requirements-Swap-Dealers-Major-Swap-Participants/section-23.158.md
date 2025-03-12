@@ -1,5 +1,7 @@
 ##### § 23.158 Margin documentation. #####
 
+Link to an amendment published at 86 FR 6858, Jan. 25, 2021.
+
 (a) *General requirement.* Each covered swap entity shall execute documentation with each counterparty that complies with the requirements of § 23.504 and that complies with this section, as applicable. For uncleared swaps between a covered swap entity and a counterparty that is a swap entity or a financial end user, the documentation shall provide the covered swap entity with the contractual right and obligation to exchange initial margin and variation margin in such amounts, in such form, and under such circumstances as are required by §§ 23.150 through 23.161.
 
 (b) *Contents of the documentation.* The margin documentation shall:

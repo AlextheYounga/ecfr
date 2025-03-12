@@ -1,8 +1,6 @@
-##### § 46.3 Swap data reporting for pre-enactment swaps and transition swaps. #####
+##### § 46.3 Data reporting for pre-enactment swaps and transition swaps. #####
 
-Link to an amendment published at 85 FR 75594, Nov. 25, 2020.
-
-(a) *Reporting for pre-enactment and transition swaps in existence on or after April 25, 2011* - (1) *Initial data report.* For each pre-enactment swap or transition swap in existence on or after April 25, 2011, the reporting counterparty shall report electronically to a swap data repository (or to the Commission if no swap data repository for swaps in the asset class in question is available), on the compliance date, the following:
+(a) *Reporting for pre-enactment and transition swaps in existence on or after April 25, 2011*—(1) *Initial data report.* For each pre-enactment swap or transition swap in existence on or after April 25, 2011, the reporting counterparty shall report electronically to a swap data repository (or to the Commission if no swap data repository for swaps in the asset class in question is available), on the compliance date, the following:
 
 (i) All of the minimum primary economic terms data specified in appendix 1 to this part that were in the possession of the reporting counterparty on or after April 25, 2011;
 
@@ -10,19 +8,19 @@ Link to an amendment published at 85 FR 75594, Nov. 25, 2020.
 
 (iii) The following additional identifiers:
 
-(A) The internal counterparty identifier or legal entity identifier used by the reporting counterparty to identify the non-reporting counterparty; and
+(A) The internal counterparty identifier or legal entity identifier used by the reporting counterparty to identify the non-reporting counterparty.
 
 (B) The internal transaction identifier used by the reporting counterparty to identify the swap.
 
-(2) *Reporting of required swap continuation data.* (i) For each uncleared pre-enactment or transition swap in existence on or after April 25, 2011, throughout the existence of the swap following the compliance date, the reporting counterparty must report all required swap continuation data required to be reported pursuant to part 45 of this chapter, with the exception that when a reporting counterparty reports changes to minimum primary economic terms for a pre-enactment or transition swap, the reporting counterparty is required to report only changes to the minimum primary economic terms listed in appendix 1 to this part and reported in the initial data report made pursuant to paragraph (a)(1) of this section, rather than changes to all minimum primary economic terms listed in appendix 1 to part 45.
+(2) *Reporting of required swap continuation data.* (i) For each uncleared pre-enactment or transition swap in existence on or after April 25, 2011, throughout the existence of the swap following the compliance date, the reporting counterparty must report all required swap continuation data as required by part 45 of this chapter.
 
 (ii) Swap continuation data reporting is not required for a pre-enactment or transition swap in existence on or after April 25, 2011, that has been cleared by a designated clearing organization.
 
-(3) *Data reporting for multi-asset swaps and mixed swaps.* (i) For each pre-enactment or transition swap in existence on or after April 25, 2011, that is a multi-asset swap, all data required to be reported by this part shall be reported to a single swap data repository that accepts swaps in the asset class treated as the primary asset class involved in the swap by the reporting counterparty making the first report of required swap creation data pursuant to this section.
+(3) *Data reporting for multi-asset swaps and mixed swaps.* (i) For each pre-enactment or transition swap in existence on or after April 25, 2011, that is a multi-asset swap, all data required to be reported by this part shall be reported to a single swap data repository that accepts swaps in the asset class treated as the primary asset class involved in the swap by the reporting counterparty making the first report of such data pursuant to this section.
 
 (ii) For each pre-enactment or transition swap in existence on or after April 25, 2011, that is a mixed swap, all data required to be reported pursuant to this part shall be reported to a swap data repository registered with the Commission and to a security-based swap data repository registered with the Securities and Exchange Commission. This requirement may be satisfied by reporting the mixed swap to a swap data repository or security-based swap data repository registered with both Commissions.
 
-(b) *Reporting for pre-enactment and transition swaps expired or terminated prior to April 25, 2011* - (1) *Pre-enactment swaps expired or terminated prior to April 25, 2011.* For each pre-enactment swap which expired or was terminated prior to April 25, 2011, the reporting counterparty shall report to a swap data repository (or to the Commission if no swap data repository for swaps in the asset class in question is available), on the compliance date, such information relating to the terms of the transaction as was in the reporting counterparty's possession on or after October 14, 2010 (17 CFR 44.00 through 44.02). This information may be reported via any method selected by the reporting counterparty.
+(b) *Reporting for pre-enactment and transition swaps expired or terminated prior to April 25, 2011*—(1) *Pre-enactment swaps expired or terminated prior to April 25, 2011.* For each pre-enactment swap which expired or was terminated prior to April 25, 2011, the reporting counterparty shall report to a swap data repository (or to the Commission if no swap data repository for swaps in the asset class in question is available), on the compliance date, such information relating to the terms of the transaction as was in the reporting counterparty's possession on or after October 14, 2010 (17 CFR 44.00 through 44.02). This information may be reported via any method selected by the reporting counterparty.
 
 (2) *Transition swaps expired or terminated prior to April 25, 2011.* For each transition swap which expired or was terminated prior to April 25, 2011, the reporting counterparty shall report to a swap data repository (or to the Commission if no swap data repository for swaps in the asset class in question is available), on the compliance date, such information relating to the terms of the transaction as was in the reporting counterparty's possession on or after December 17, 2010 (17 CFR 44.03). This information may be reported via any method selected by the reporting counterparty.
 
@@ -35,3 +33,5 @@ Link to an amendment published at 85 FR 75594, Nov. 25, 2020.
 (2) The counterparty shall be required to report to the swap data repository on the compliance date any information required as part of the initial data report by paragraph (a) of this section that has not been reported prior to the compliance date: and
 
 (3) In the case of pre-enactment and transition swaps in existence on or after April 25, 2011, the initial data report required by paragraph (a) of this section and all subsequent data reporting concerning the swap shall be made to the same swap data repository to which data concerning the swap was first reported prior to the compliance date (or to its successor in the event that it ceases to operate, as provided in part 49 of this chapter).
+
+[77 FR 35226, June 12, 2012, as amended at 85 FR 75594, Nov. 25, 2020]

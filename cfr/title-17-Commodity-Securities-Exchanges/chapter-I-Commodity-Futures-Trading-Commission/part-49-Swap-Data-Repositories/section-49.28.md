@@ -1,3 +1,17 @@
-##### § 49.28 xxx #####
+##### § 49.28 Operating hours of swap data repositories. #####
 
-Link to an amendment published at 85 FR 75662, Nov. 25, 2020.
+(a) Except as otherwise provided in this paragraph (a), a swap data repository shall have systems in place to continuously accept and promptly record all SDR data reported to the swap data repository as required in this chapter and, as applicable, publicly disseminate all swap transaction and pricing data reported to the swap data repository as required in part 43 of this chapter.
+
+(1) A swap data repository may establish normal closing hours to perform system maintenance during periods when, in the reasonable estimation of the swap data repository, the swap data repository typically receives the least amount of SDR data. A swap data repository shall provide reasonable advance notice of its normal closing hours to market participants and to the public.
+
+(2) A swap data repository may declare, on an ad hoc basis, special closing hours to perform system maintenance that cannot wait until normal closing hours. A swap data repository shall schedule special closing hours during periods when, in the reasonable estimation of the swap data repository in the context of the circumstances prompting the special closing hours, the special closing hours will be the least disruptive to the swap data repository's SDR data reporting responsibilities. A swap data repository shall provide reasonable advance notice of its special closing hours to market participants and to the public whenever possible, and, if advance notice is not reasonably possible, shall provide notice of its special closing hours to market participants and to the public as soon as reasonably possible after declaring special closing hours.
+
+(b) A swap data repository shall comply with the requirements under part 40 of this chapter in adopting or amending normal closing hours and special closing hours.
+
+(c) During normal closing hours and special closing hours, a swap data repository shall have the capability to accept and hold in queue any and all SDR data reported to the swap data repository during the normal closing hours or special closing hours.
+
+(1) Upon reopening after normal closing hours or special closing hours, a swap data repository shall promptly process all SDR data received during normal closing hours or special closing hours, as required pursuant to this chapter, and, pursuant to part 43 of this chapter, publicly disseminate all swap transaction and pricing data reported to the swap data repository that was held in queue during the normal closing hours or special closing hours.
+
+(2) If at any time during normal closing hours or special closing hours a swap data repository is unable to receive and hold in queue any SDR data reported pursuant to this chapter, then the swap data repository shall immediately issue notice to all swap execution facilities, designated contract markets, reporting counterparties, and the public that it is unable to receive and hold in queue SDR data. Immediately upon reopening, the swap data repository shall issue notice to all swap execution facilities, designated contract markets, reporting counterparties, and the public that it has resumed normal operations. Any swap execution facility, designated contract market, or reporting counterparty that was obligated to report SDR data pursuant to this chapter to the swap data repository, but could not do so because of the swap data repository's inability to receive and hold in queue SDR data, shall report the SDR data to the swap data repository immediately after receiving such notice.
+
+[85 FR 75662, Nov. 25, 2020]

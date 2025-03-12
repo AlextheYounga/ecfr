@@ -1,7 +1,5 @@
 ##### § 49.3 Procedures for registration. #####
 
-Link to an amendment published at 85 FR 75656, Nov. 25, 2020.
-
 (a) *Application procedures.* (1) An applicant, person or entity desiring to be registered as a swap data repository shall file electronically an application for registration on Form SDR provided in appendix A to this part, with the Secretary of the Commission at its headquarters in Washington, DC in a format and in the manner specified by the Secretary of the Commission in accordance with the instructions contained therein.
 
 (2) The application shall include information sufficient to demonstrate compliance with core principles specified in Section 21 of the Act and the regulations thereunder. Form SDR consists of instructions, general questions and a list of Exhibits (documents, information and evidence) required by the Commission in order to determine whether an applicant is able to comply with the core principles. An application will not be considered to be materially complete unless the applicant has submitted, at a minimum, the exhibits as required in Form SDR. If the application is not materially complete, the Commission shall notify the applicant that the application will not be deemed to have been submitted for purposes of the 180-day review procedures.
@@ -10,7 +8,7 @@ Link to an amendment published at 85 FR 75656, Nov. 25, 2020.
 
 (4) *Standard for approval.* The Commission shall grant the registration of a swap data repository if the Commission finds that such swap data repository is appropriately organized, and has the capacity: to ensure the prompt, accurate and reliable performance of its functions as a swap data repository; comply with any applicable provisions of the Act and regulations thereunder; carry out its functions in a manner consistent with the purposes of Section 21 of the Act and the regulations thereunder; and operate in a fair, equitable and consistent manner. The Commission shall deny registration of a swap data repository if it appears that the application is materially incomplete; fails in form or substance to meet the requirements of Section 21 of the Act and part 49; or is amended or supplemented in a manner that is inconsistent with this § 49.3. The Commission shall notify the applicant seeking registration that the Commission is denying the application setting forth the deficiencies in the application, and/or the manner in which the application fails to meet the requirements of this part.
 
-(5) *Amendments and annual filing.* If any information reported on Form SDR or in any amendment thereto is or becomes inaccurate for any reason, whether before or after the application for registration has been granted, the swap data repository shall promptly file an amendment on Form SDR updating such information. In addition, the swap data repository shall annually file an amendment on Form SDR within 60 days after the end of each fiscal year.
+(5) *Amendments.* If any information reported on Form SDR or in any amendment thereto is or becomes inaccurate for any reason, whether before or after the application for registration has been granted under this paragraph (a), the swap data repository shall promptly file an amendment on Form SDR updating such information.
 
 (6) *Service of process.* Each swap data repository shall designate and authorize on Form SDR an agent in the United States, other than a Commission official, who shall accept any notice or service of process, pleadings, or other documents in any action or proceedings brought against the swap data repository to enforce the Act and the regulations thereunder.
 
@@ -18,7 +16,7 @@ Link to an amendment published at 85 FR 75656, Nov. 25, 2020.
 
 (c) *Withdrawal of application for registration.* An applicant for registration may withdraw its application submitted pursuant to paragraph (a) of this section by filing with the Commission such a request. Withdrawal of an application for registration shall not affect any action taken or to be taken by the Commission based upon actions, activities, or events occurring during the time that the application for registration was pending with the Commission, and shall not prejudice the filing of a new application by such applicant.
 
-(d) *Reinstatement of dormant registration.* Before accepting or re-accepting swap transaction data, a dormant registered swap data repository as defined in § 40.1(e) of this chapter shall reinstate its registration under the procedures set forth in paragraph (a) of this section; provided, however, that an application for reinstatement may rely upon previously submitted materials that still pertain to, and accurately describe, current conditions.
+(d) *Reinstatement of dormant registration.* Before accepting or re-accepting SDR data, a dormant swap data repository as defined in § 40.1 of this chapter shall reinstate its registration under the procedures set forth in paragraph (a) of this section; provided, however, that an application for reinstatement may rely upon previously submitted materials that still pertain to, and accurately describe, current conditions.
 
 (e) *Delegation of authority.* (1) The Commission hereby delegates, until it orders otherwise, to the Director of the Division of Market Oversight or the Director's delegates, with the consultation of the General Counsel or the General Counsel's delegates, the authority to notify an applicant seeking registration as a swap data repository pursuant to Section 21 of the Act that the application is materially incomplete and the 180-day period review period is extended.
 
@@ -27,3 +25,5 @@ Link to an amendment published at 85 FR 75656, Nov. 25, 2020.
 (3) Nothing in this paragraph prohibits the Commission, at its election, from exercising the authority delegated in paragraph (e)(1) of this section.
 
 (f) *Request for confidential treatment.* An applicant for registration may request confidential treatment for materials submitted in its application as set forth in §§ 40.8 and 145.9 of this chapter. The applicant shall identify with particularity information in the application that will be subject to a request for confidential treatment.
+
+[76 FR 54575, Sept. 1, 2011, as amended at 85 FR 75657, Nov. 25, 2020

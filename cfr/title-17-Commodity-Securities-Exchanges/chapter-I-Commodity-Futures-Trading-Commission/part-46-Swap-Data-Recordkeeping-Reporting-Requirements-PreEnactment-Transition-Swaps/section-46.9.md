@@ -1,8 +1,6 @@
 ##### § 46.9 Voluntary supplemental reporting. #####
 
-Link to an amendment published at 85 FR 75594, Nov. 25, 2020.
-
-(a) For purposes of this section, the term *voluntary, supplemental report* means any report of swap data for a pre-enactment or transition swap to a swap data repository that is not required to be made pursuant to this part or any other part in this chapter.
+(a) For purposes of this section, the term *voluntary, supplemental report* means any report of data for a pre-enactment or transition swap to a swap data repository that is not required to be made pursuant to this part or any other part in this chapter.
 
 (b) A voluntary, supplemental report for a pre-enactment or transition swap may be made only by a counterparty to the swap in connection with which the voluntary, supplemental report is made, or by a third-party service provider acting on behalf of a counterparty to the swap.
 
@@ -22,4 +20,6 @@ Link to an amendment published at 85 FR 75594, Nov. 25, 2020.
 
 (5) If applicable, an indication that the voluntary, supplemental report is made pursuant to the laws or regulations of any jurisdiction outside the United States.
 
-(f) If a counterparty that has made a voluntary, supplemental report discovers any errors in the swap data included in the voluntary, supplemental report, the counterparty must report a correction of each such error to the swap data repository to which the voluntary, supplemental report was made, as soon as technologically practicable after discovery of any such error.
+(f) If a counterparty that has made a voluntary, supplemental report discovers any errors in the data for a pre-enactment or a transition swap included in the voluntary, supplemental report, the counterparty must report a correction of each such error to the swap data repository to which the voluntary, supplemental report was made, as soon as technologically practicable after discovery of any such error.
+
+[77 FR 35226, June 12, 2012, as amended at 85 FR 75594, Nov. 25, 2020]

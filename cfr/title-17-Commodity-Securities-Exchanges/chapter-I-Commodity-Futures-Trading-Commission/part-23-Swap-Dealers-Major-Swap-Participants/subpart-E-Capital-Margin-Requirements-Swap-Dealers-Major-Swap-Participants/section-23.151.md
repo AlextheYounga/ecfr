@@ -1,6 +1,6 @@
 ##### § 23.151 Definitions applicable to margin requirements. #####
 
-Link to an amendment published at 86 FR 246, Jan. 5, 2021.
+Link to an amendment published at 86 FR 246, Jan. 5, 2021.Link to an amendment published at 86 FR 6857, Jan. 25, 2021.
 
 For the purposes of §§ 23.150 through 23.161:
 

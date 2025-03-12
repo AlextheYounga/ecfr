@@ -1,7 +1,5 @@
 ##### § 46.2 Recordkeeping for pre-enactment swaps and transition swaps. #####
 
-Link to an amendment published at 85 FR 75594, Nov. 25, 2020.
-
 (a) *Recordkeeping for pre-enactment and transition swaps in existence on or after April 25, 2011.* Each counterparty subject to the jurisdiction of the Commission that is a counterparty to any pre-enactment swap or transition swap that is in existence on or after April 25, 2011 shall keep the following records concerning each such swap:
 
 (1) *Minimum records required.* Each counterparty shall keep records of all of the minimum primary economic terms data specified in appendix 1 to this part.
@@ -20,7 +18,7 @@ Link to an amendment published at 85 FR 75594, Nov. 25, 2020.
 
 (i) Records required to be kept by swap dealers or major swap participants may be kept in electronic form, or kept in paper form if originally created and exclusively maintained in paper form, so long as they are retrievable, and information in them is reportable as required by this part.
 
-(ii) Records required to be kept by non-SD/MSP counterparties may be kept in either electronic or paper form, so long as they are retrievable, and information in them is reportable, as required by this part.
+(ii) Records required to be kept by non-SD/MSP/DCO counterparties may be kept in either electronic or paper form, so long as they are retrievable, and information in them is reportable, as required by this part.
 
 (b) *Recordkeeping for pre-enactment and transition swaps expired or terminated prior to April 25, 2011.* Each counterparty subject to the jurisdiction of the Commission that is a counterparty to any pre-enactment swap or transition swap that is expired or terminated prior to April 25, 2011 shall keep the following records concerning each such swap:
 
@@ -36,8 +34,10 @@ Link to an amendment published at 85 FR 75594, Nov. 25, 2020.
 
 (i) Each record required to be kept by a counterparty that is a swap dealer or major swap participant shall be readily accessible via real time electronic access by the counterparty throughout the life of the swap and for two years following the final termination of the swap, and shall be retrievable by the registrant or its affiliates within three business days through the remainder of the period following final termination of the swap during which it is required to be kept.
 
-(ii) Each record required to be kept by a non-SD/MSP counterparty shall be retrievable by the counterparty within five business days throughout the period during which it is required to be kept.
+(ii) Each record required to be kept by a non-SD/MSP/DCO counterparty shall be retrievable by the counterparty within five business days throughout the period during which it is required to be kept.
 
 (2) *Retrieval for pre-enactment and transition swaps expired or terminated prior to April 25, 2011.* Records concerning pre-enactment and transition swaps expired or terminated prior to April 25, 2011, shall be retrievable by the counterparty within five business days throughout the period during which they are required to be kept.
 
-(e) *Inspection.* All records required to be kept pursuant to this section by any registrant or its affiliates or by any counterparty subject to the jurisdiction of the Commission shall be open to inspection upon request by any representative of the Commission, the United States Department of Justice, or the Securities and Exchange Commission, or by any representative of a prudential regulator as authorized by the Commission. Copies of all such records shall be provided, at the expense of the entity or person required to keep the record, to any representative of the Commission upon request. With respect to historical swaps in existence on or after April 25, 2011, copies of records required to be kept by any swap dealer or major swap participant shall be provided either by electronic means, in hard copy, or both, as requested by the Commission, with the sole exception that copies of records originally created and exclusively maintained in paper form may be provided in hard copy only; and copies of records required to be kept by any non-SD/MSP counterparty shall be provided in the form, whether electronic or paper, in which the records are kept. With respect to historical swaps expired or terminated prior to April 25, 2011, records shall be provided in the form, whether electronic or paper, in which the records are kept.
+(e) *Inspection.* All records required to be kept pursuant to this section by any registrant or its affiliates or by any counterparty subject to the jurisdiction of the Commission shall be open to inspection upon request by any representative of the Commission, the United States Department of Justice, or the Securities and Exchange Commission, or by any representative of a prudential regulator as authorized by the Commission. Copies of all such records shall be provided, at the expense of the entity or person required to keep the record, to any representative of the Commission upon request. With respect to historical swaps in existence on or after April 25, 2011, copies of records required to be kept by any swap dealer or major swap participant shall be provided either by electronic means, in hard copy, or both, as requested by the Commission, with the sole exception that copies of records originally created and exclusively maintained in paper form may be provided in hard copy only; and copies of records required to be kept by any non-SD/MSP/DCO counterparty shall be provided in the form, whether electronic or paper, in which the records are kept. With respect to historical swaps expired or terminated prior to April 25, 2011, records shall be provided in the form, whether electronic or paper, in which the records are kept.
+
+[77 FR 35226, June 12, 2012, as amended at 85 FR 75594, Nov. 25, 2020]

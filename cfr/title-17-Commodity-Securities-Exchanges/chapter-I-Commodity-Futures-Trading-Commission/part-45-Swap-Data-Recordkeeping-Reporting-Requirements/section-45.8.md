@@ -1,22 +1,20 @@
-##### § 45.8 Determination of which counterparty must report. #####
+##### § 45.8 Determination of which counterparty shall report. #####
 
-Link to an amendment published at 85 FR 75563, Nov. 25, 2020.
-
-The determination of which counterparty is the reporting counterparty for all swaps, except clearing swaps, shall be made as provided in paragraphs (a) through (h) of this section. The determination of which counterparty is the reporting counterparty for all clearing swaps shall be made as provided in paragraph (i) of this section.
+The determination of which counterparty is the reporting counterparty for each swap shall be made as provided in this section.
 
 (a) If only one counterparty is a swap dealer, the swap dealer shall be the reporting counterparty.
 
 (b) If neither counterparty is a swap dealer, and only one counterparty is a major swap participant, the major swap participant shall be the reporting counterparty.
 
-(c) If both counterparties are non-SD/MSP counterparties, and only one counterparty is a financial entity as defined in CEA section 2(h)(7)(C), the counterparty that is a financial entity shall be the reporting counterparty.
+(c) If both counterparties are non-SD/MSP/DCO counterparties, and only one counterparty is a financial entity as defined in CEA section 2(h)(7)(C), the counterparty that is a financial entity shall be the reporting counterparty.
 
-(d) If both counterparties are swap dealers, or both counterparties are major swap participants, or both counterparties are non-SD/MSP counterparties that are financial entities as defined in CEA section 2(h)(7)(C), or both counterparties are non-SD/MSP counterparties and neither counterparty is a financial entity as defined in CEA section 2(h)(7)(C):
+(d) If both counterparties are swap dealers, or both counterparties are major swap participants, or both counterparties are non-SD/MSP/DCO counterparties that are financial entities as defined in CEA section 2(h)(7)(C), or both counterparties are non-SD/MSP/DCO counterparties and neither counterparty is a financial entity as defined in CEA section 2(h)(7)(C):
 
 (1) For a swap executed on or pursuant to the rules of a swap execution facility or designated contract market, the counterparties shall agree which counterparty shall be the reporting counterparty.
 
 (2) For an off-facility swap, the counterparties shall agree as one term of their swap which counterparty shall be the reporting counterparty.
 
-(e) Notwithstanding the provisions of paragraphs (a) through (d) of this section, if both counterparties to a swap are non-SD/MSP counterparties and only one counterparty is a U.S. person, that counterparty shall be the reporting counterparty.
+(e) Notwithstanding the provisions of paragraphs (a) through (d) of this section, if both counterparties to a swap are non-SD/MSP/DCO counterparties and only one counterparty is a U.S. person, that counterparty shall be the reporting counterparty.
 
 (f) Notwithstanding the provisions of paragraphs (a) through (e) of this section, if neither counterparty to a swap is a U.S. person, but the swap is executed on or pursuant to the rules of a swap execution facility or designated contract market or otherwise executed in the United States, or is cleared by a derivatives clearing organization:
 
@@ -30,13 +28,13 @@ The determination of which counterparty is the reporting counterparty for all sw
 
 (2) If neither counterparty is a swap dealer, and only one counterparty is a major swap participant, the major swap participant shall be the reporting counterparty and shall fulfill all counterparty reporting obligations.
 
-(3) If both counterparties are non-SD/MSP counterparties, and only one counterparty is a U.S. person, that counterparty shall be the reporting counterparty and shall fulfill all counterparty reporting obligations.
+(3) If both counterparties are non-SD/MSP/DCO counterparties, and only one counterparty is a U.S. person, that counterparty shall be the reporting counterparty and shall fulfill all counterparty reporting obligations.
 
 (4) In all other cases, the counterparty that replaced the previous reporting counterparty by reason of the assignment or novation shall be the reporting counterparty, unless otherwise agreed by the counterparties.
 
-(h) For all swaps executed on or pursuant to the rules of a swap execution facility or designated contract market, the rules of the swap execution facility or designated contract market must require each swap counterparty to provide sufficient information to the swap execution facility or designated contract market to enable the swap execution facility or designated contract market to report all swap creation data as provided in this part.
+(h) For all swaps executed on or pursuant to the rules of a swap execution facility or designated contract market, the rules of the swap execution facility or designated contract market must require each swap counterparty to provide sufficient information to the swap execution facility or designated contract market to enable the swap execution facility or designated contract market to report all required swap creation data as provided in this part.
 
-(1) To achieve this, the rules of the swap execution facility or designated contract market must require each market participant placing an order with respect to any swap traded on the swap execution facility or designated contract market to include in the order, without limitation:
+(1) To comply with paragraph (h) of this section, the rules of the swap execution facility or designated contract market must require each market participant placing an order with respect to any swap traded on the swap execution facility or designated contract market to include in the order, without limitation:
 
 (i) The legal entity identifier of the market participant placing the order.
 
@@ -58,10 +56,10 @@ The determination of which counterparty is the reporting counterparty for all sw
 
 (C) An indication of whether the swap is a post-allocation swap.
 
-(D) If the swap is a post-allocation swap, the unique swap identifier of the initial swap transaction between the reporting counterparty and the agent.
+(D) If the swap is a post-allocation swap, the unique transaction identifier of the initial swap transaction between the reporting counterparty and the agent.
 
-(2) To achieve this, the swap execution facility or designated contract market must use the information obtained pursuant to paragraph (h)(1) of this section to identify the counterparty that is the reporting counterparty pursuant to the CEA and this section.
+(2) To comply with paragraph (h) of this section, the swap execution facility or designated contract market must use the information obtained pursuant to paragraph (h)(1) of this section to identify the counterparty that is the reporting counterparty pursuant to the CEA and this section.
 
 (i) *Clearing swaps.* Notwithstanding the provisions of paragraphs (a) through (h) of this section, if the swap is a clearing swap, the derivatives clearing organization that is a counterparty to such swap shall be the reporting counterparty and shall fulfill all reporting counterparty obligations for such swap.
 
-[81 FR 41777, June 27, 2016]
+[81 FR 41777, June 27, 2016, as amended at 85 FR 75563, Nov. 25, 2020]

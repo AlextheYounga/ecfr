@@ -232,6 +232,8 @@ Table 18 to Paragraph (p)
 |    By a small entity (§ 1.27(a))    |130.00|
 |By other than a small or micro entity|260.00|
 
+(q) Processing fee for taking action under one of the following sections that refers to this paragraph (q): $50.00
+
 § 1.41 - to supply the name or names of the inventor or inventors after the filing date without a cover sheet as prescribed by § 1.51(c)(1) in a provisional application.§ 1.48 - for correction of inventorship in a provisional application.§ 1.53(c)(2) - to convert a nonprovisional application filed under § 1.53(b) to a provisional application under § 1.53(c).
 
 (r) For entry of a submission after final rejection under § 1.129(a):

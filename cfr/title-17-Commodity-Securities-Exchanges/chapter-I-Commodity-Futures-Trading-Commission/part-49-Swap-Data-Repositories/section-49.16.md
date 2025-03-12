@@ -1,25 +1,25 @@
 ##### § 49.16 Privacy and confidentiality requirements of swap data repositories. #####
 
-Link to an amendment published at 85 FR 75659, Nov. 25, 2020.
-
 (a) Each swap data repository shall:
 
-(1) Establish, maintain, and enforce written policies and procedures reasonably designed to protect the privacy and confidentiality of any and all SDR Information that is not subject to real-time public reporting set forth in part 43 of this chapter. Such policies and procedures shall include, but are not limited to, policies and procedures to protect the privacy and confidentiality of any and all SDR Information (except for swap data disseminated under part 43) that the swap data repository shares with affiliates and non-affiliated third parties; and
+(1) Establish, maintain, and enforce written policies and procedures reasonably designed to protect the privacy and confidentiality of any and all SDR information and all SDR data that is not swap transaction and pricing data disseminated under part 43 of this chapter. Such policies and procedures shall include, but are not limited to, policies and procedures to protect the privacy and confidentiality of any and all SDR information and all SDR data (except for swap transaction and pricing data disseminated under part 43 of this chapter) that the swap data repository shares with affiliates and non-affiliated third parties; and
 
 (2) Establish and maintain safeguards, policies, and procedures reasonably designed to prevent the misappropriation or misuse, directly or indirectly, of:
 
-(i) Section 8 Material;
+(i) Section 8 material;
 
-(ii) Other SDR Information; and/or
+(ii) Other SDR information or SDR data; and/or
 
-(iii) Intellectual property, such as trading strategies or portfolio positions, by the swap data repository or any person associated with the swap data repository. Such safeguards, policies, and procedures shall include, but are not limited to,
+(iii) Intellectual property, such as trading strategies or portfolio positions, by the swap data repository or any person associated with a swap data repository. Such safeguards, policies, and procedures shall include, but are not limited to:
 
-(A) limiting access to such Section 8 Material, other SDR Information, and intellectual property,
+(A) Limiting access to such section 8 material, other SDR information or SDR data, and intellectual property;
 
-(B) standards controlling persons associated with the swap data repository trading for their personal benefit or the benefit of others, and
+(B) Standards controlling persons associated with a swap data repository trading for their personal benefit or the benefit of others; and
 
-(C) adequate oversight to ensure compliance with this subparagraph.
+(C) Adequate oversight to ensure compliance with this paragraph (a)(2).
 
-(b) Swap data repositories shall not, as a condition of accepting swap data from reporting entities, require the waiver of any privacy rights by such reporting entities.
+(b) A swap data repository shall not, as a condition of accepting SDR data from any swap execution facility, designated contract market, or reporting counterparty, require the waiver of any privacy rights by such swap execution facility, designated contract market, or reporting counterparty.
 
-(c) Subject to Section 8 of the Act, swap data repositories may disclose aggregated swap data on a voluntary basis or as requested, in the form and manner, prescribed by the Commission.
+(c) Subject to section 8 of the Act, a swap data repository may disclose aggregated SDR data on a voluntary basis or as requested, in the form and manner prescribed by the Commission.
+
+[85 FR 75659, Nov. 25, 2020]

@@ -1,5 +1,7 @@
 ##### § 23.152 Collection and posting of initial margin. #####
 
+Link to an amendment published at 86 FR 6857, Jan. 25, 2021.
+
 (a) *Collection* - (1) *Initial obligation.* On or before the business day after execution of an uncleared swap between a covered swap entity and a covered counterparty, the covered swap entity shall collect initial margin from the covered counterparty in an amount equal to or greater than an amount calculated pursuant to § 23.154, in a form that complies with § 23.156, and pursuant to custodial arrangements that comply with § 23.157.
 
 (2) *Continuing obligation.* The covered swap entity shall continue to hold initial margin from the covered counterparty in an amount equal to or greater than an amount calculated each business day pursuant to § 23.154, in a form that complies with § 23.156, and pursuant to custodial arrangements that comply with § 23.157, until such uncleared swap is terminated or expires.

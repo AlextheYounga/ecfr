@@ -1,6 +1,6 @@
 ##### § 208.13 Establishing asylum eligibility. #####
 
-Link to an amendment published at 85 FR 84193, Dec. 23, 2020.
+Link to an amendment published at 85 FR 84193, Dec. 23, 2020.This amendment was delayed until Mar. 22, 2021, at 86 FR 6847, Jan. 25, 2021.
 
 (a) *Burden of proof.* The burden of proof is on the applicant for asylum to establish that he or she is a refugee as defined in section 101(a)(42) of the Act. The testimony of the applicant, if credible, may be sufficient to sustain the burden of proof without corroboration. The fact that the applicant previously established a credible fear of persecution for purposes of section 235(b)(1)(B) of the Act does not relieve the alien of the additional burden of establishing eligibility for asylum.
 
