@@ -1,5 +1,7 @@
 ##### § 483.70 Administration. #####
 
+Link to an amendment published at 84 FR 34735, July 18, 2019.
+
 A facility must be administered in a manner that enables it to use its resources effectively and efficiently to attain or maintain the highest practicable physical, mental, and psychosocial well-being of each resident.
 
 (a) *Licensure.* A facility must be licensed under applicable State and local law.

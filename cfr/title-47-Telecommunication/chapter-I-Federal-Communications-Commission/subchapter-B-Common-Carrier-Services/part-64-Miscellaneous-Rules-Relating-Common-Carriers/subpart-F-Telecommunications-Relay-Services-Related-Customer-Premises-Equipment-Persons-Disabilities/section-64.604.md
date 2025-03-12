@@ -1,7 +1,5 @@
 ##### § 64.604 Mandatory minimum standards. #####
 
-Link to an amendment published at 84 FR 26370, June 6, 2019.
-
 The standards in this section are applicable December 18, 2000, except as stated in paragraphs (c)(2) and (c)(7) of this section.
 
 (a) *Operational standards* - (1) *Communications assistant (CA).* (i) TRS providers are responsible for requiring that all CAs be sufficiently trained to effectively meet the specialized communications needs of individuals with hearing and speech disabilities.
@@ -248,7 +246,7 @@ The standards in this section are applicable December 18, 2000, except as stated
 
 (D) *Data collection and audits.* (*1*) TRS providers seeking compensation from the TRS Fund shall provide the administrator with true and adequate data, and other historical, projected and state rate related information reasonably requested to determine the TRS Fund revenue requirements and payments. TRS providers shall provide the administrator with the following: total TRS minutes of use, total interstate TRS minutes of use, total TRS investment in general in accordance with part 32 of this chapter, and other historical or projected information reasonably requested by the administrator for purposes of computing payments and revenue requirements. In annual cost data filings and supplementary information provided to the administrator regarding such cost data, IP CTS providers that contract for the supply of services used in the provision of TRS shall include information about payments under such contracts, classified according to the substantive cost categories specified by the administrator. To the extent that a third party's provision of services covers more than one cost category, the resubmitted cost reports must provide an explanation of how the provider determined or calculated the portion of contractual payments attributable to each cost category. To the extent that the administrator reasonably deems necessary, providers shall submit additional detail on such contractor expenses, including but not limited to complete copies of such contracts and related correspondence or other records and information relevant to determining the nature of the services provided and the allocation of the costs of such services to cost categories.
 
-(*2*) Call data required from all TRS providers. In addition to the data requested by paragraph (c)(5)(iii)(C)(*1*) of this section, TRS providers seeking compensation from the TRS Fund shall submit the following specific data associated with each TRS call for which compensation is sought:
+(*2*) *Call data required from all TRS providers.* In addition to the data requested by paragraph (c)(5)(iii)(D)(*1*) of this section, TRS providers seeking compensation from the TRS Fund shall submit the following specific data associated with each TRS call for which compensation is sought:
 
 (*i*) The call record ID sequence;
 
@@ -270,11 +268,11 @@ The standards in this section are applicable December 18, 2000, except as stated
 
 (*x*) The URL address through which the call is initiated.
 
-(*3*) Additional call data required from Internet-based Relay Providers. In addition to the data required by paragraph (c)(5)(iii)(C)(*2*) of this section, Internet-based Relay Providers seeking compensation from the Fund shall submit speed of answer compliance data.
+(*3*) *Additional call data required from internet-based Relay Providers.* In addition to the data required by paragraph (c)(5)(iii)(D)(*2*) of this section, internet-based Relay Providers seeking compensation from the Fund shall submit speed of answer compliance data.
 
-(*4*) Providers submitting call record and speed of answer data in compliance with paragraphs (c)(5)(iii)(C)(*2*) and (c)(5)(iii)(C)(*3*) of this section shall:
+(*4*) *Call record and speed of answer data.* Providers submitting call record and speed of answer data in compliance with paragraphs (c)(5)(iii)(D)(*2*) and (*3*) of this section shall:
 
-(*i*) Employ an automated record keeping system to capture such data required pursuant to paragraph (c)(5)(iii)(C)(*2*) of this section for each TRS call for which minutes are submitted to the fund administrator for compensation; and
+(*i*) Employ an automated record keeping system to capture such data required pursuant to paragraph (c)(5)(iii)(D)(*2*) of this section for each TRS call for which minutes are submitted to the fund administrator for compensation; and
 
 (*ii*) Submit such data electronically, in a standardized format. For purposes of this subparagraph, an automated record keeping system is a system that captures data in a computerized and electronic format that does not allow human intervention during the call session for either conversation or session time.
 
@@ -414,7 +412,7 @@ I swear under penalty of perjury that:
 
 (7) *Treatment of TRS customer information.* Beginning on July 21, 2000, all future contracts between the TRS administrator and the TRS vendor shall provide for the transfer of TRS customer profile data from the outgoing TRS vendor to the incoming TRS vendor. Such data must be disclosed in usable form at least 60 days prior to the provider's last day of service provision. Such data may not be used for any purpose other than to connect the TRS user with the called parties desired by that TRS user. Such information shall not be sold, distributed, shared or revealed in any other way by the relay center or its employees, unless compelled to do so by lawful order.
 
-(8) *Incentives for use of IP CTS.* (i) An IP CTS provider shall not offer or provide to any person or entity that registers to use IP CTS any form of direct or indirect incentives, financial or otherwise, to register for or use IP CTS.
+(8) *Incentives for use of IP CTS and VRS.* (i) An IP CTS provider shall not offer or provide to any person or entity that registers to use IP CTS any form of direct or indirect incentives, financial or otherwise, to register for or use IP CTS.
 
 (ii) An IP CTS provider shall not offer or provide to a hearing health professional any direct or indirect incentives, financial or otherwise, that are tied to a consumer's decision to register for or use IP CTS. Where an IP CTS provider offers or provides IP CTS equipment, directly or indirectly, to a hearing health professional, and such professional makes or has the opportunity to make a profit on the sale of the equipment to consumers, such IP CTS provider shall be deemed to be offering or providing a form of incentive tied to a consumer's decision to register for or use IP CTS.
 
@@ -422,7 +420,9 @@ I swear under penalty of perjury that:
 
 (iv) For the purpose of this paragraph (c)(8), a hearing health professional is any medical or non-medical professional who advises consumers with regard to hearing disabilities.
 
-(v) Any IP CTS provider that does not comply with this paragraph (c)(8) shall be ineligible for compensation for such IP CTS from the TRS Fund.
+(v) A VRS provider shall not offer or provide to any person or entity any form of direct or indirect incentives, financial or otherwise, for the purpose of encouraging individuals to register for or use the VRS provider's service.
+
+(vi) Any IP CTS or VRS provider that does not comply with this paragraph (c)(8) shall be ineligible for compensation for such service from the TRS Fund.
 
 (9) [Reserved]
 
@@ -452,7 +452,7 @@ I swear under penalty of perjury that:
 
 (ii) Engage in or give any undue or unreasonable preference or advantage to any particular person, class of persons, or locality, or
 
-(ii) Subject any particular person, class of persons, or locality to any undue or unreasonable prejudice or disadvantage.
+(iii) Subject any particular person, class of persons, or locality to any undue or unreasonable prejudice or disadvantage.
 
 (13) *Unauthorized and unnecessary use of VRS or IP CTS.* (i) A VRS or IP CTS provider shall not engage in any practice that the provider knows or has reason to know will cause or encourage:
 

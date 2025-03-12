@@ -1,11 +1,12 @@
-##### § 404.2117 What costs will be paid.
-P\>In accordance with section 222(d) of the Social Security Act, the Commissioner will pay the State VR agency for the VR services described in § 404.2114 which were provided during the period described in § 404.2115 and which meet the criteria in § 404.2111 or § 404.2112, but subject to the following limitations: #####
+##### § 404.2117 What costs will be paid. #####
+
+In accordance with section 222(d) of the Social Security Act, the Commissioner will pay the State VR agency for the VR services described in § 404.2114 which were provided during the period described in § 404.2115 and which meet the criteria in § 404.2111 or § 404.2112, but subject to the following limitations:
 
 (a) The cost must have been incurred by the State VR agency;
 
 (b) The cost must not have been paid or be payable from some other source. For this purpose, State VR agencies will be required to seek payment or services from other sources in accordance with the “similar benefit” provisions under 34 CFR part 361, including making maximum efforts to secure grant assistance in whole or part from other sources for training or training services in institutions of higher education.
 
-(c)(1) The cost must be reasonable and necessary, in that it complies with the written cost-containment policies of the State VR agency. A cost which complies with these policies will be considered necessary only if the cost is for a VR service described in § 404.2114. The State VR agency must maintain and use these cost-containment policies, including any reasonable and appropriate fee schedules, to govern the costs incurred for all VR services, including the rates of payment for all purchased services, for which payment will be requested under this subpart. For the purpose of this subpart, the written cost-containment policies must provide guidelines designed to ensure -
+(c)(1) The cost must be reasonable and necessary, in that it complies with the written cost-containment policies of the State VR agency. A cost which complies with these policies will be considered necessary only if the cost is for a VR service described in § 404.2114. The State VR agency must maintain and use these cost-containment policies, including any reasonable and appropriate fee schedules, to govern the costs incurred for all VR services, including the rates of payment for all purchased services, for which payment will be requested under this subpart. For the purpose of this subpart, the written cost-containment policies must provide guidelines designed to ensure—
 
 (i) The lowest reasonable cost for such services; and
 

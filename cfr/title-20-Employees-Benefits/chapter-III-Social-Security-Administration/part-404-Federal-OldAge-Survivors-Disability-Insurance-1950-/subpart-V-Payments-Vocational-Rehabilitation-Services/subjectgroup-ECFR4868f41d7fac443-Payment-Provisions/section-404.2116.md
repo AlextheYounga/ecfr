@@ -10,4 +10,4 @@ The State VR agency must file a claim for payment in each individual case within
 
 (2) If no written notice was sent to the State VR agency, a claim must be filed within 12 months after the month in which VR services end.
 
-[55 FR 8455, Mar. 8, 1990, as amended at 61 FR 31025, June 19, 1996; 68 FR 40124, July 7, 2003; 83 FR 62457, Dec. 3, 2018]
+[55 FR 8455, Mar. 8, 1990, as amended at 61 FR 31025, June 19, 1996; 68 FR 40124, July 7, 2003; 83 FR 62457, Dec. 4, 2018]

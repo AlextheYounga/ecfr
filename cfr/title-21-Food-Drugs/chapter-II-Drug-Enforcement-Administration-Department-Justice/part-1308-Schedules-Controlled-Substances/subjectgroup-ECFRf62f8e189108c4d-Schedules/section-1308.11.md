@@ -300,6 +300,12 @@ Link to an amendment published at 84 FR 13796, Apr. 8, 2019.
 |                    (39) N-(adamantan-1-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide, its optical, positional, and geometric isomers, salts and salts of isomers (trivial names: FUB-AKB48; FUB-APINACA; AKB48 N-(4-FLUOROBENZYL))                     | 7047 |
 |                              (40) 1-(5-fluoropentyl)-N-(2-phenylpropan-2-yl)-1H-indazole-3-carboxamide, its optical, positional, and geometric isomers, salts and salts of isomers (trivial names: 5F-CUMYL-PINACA; SGT-25)                               | 7083 |
 |                                   (41) (1-(4-fluorobenzyl)-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl) methanone, its optical, positional, and geometric isomers, salts and salts of isomers (trivial name: FUB-144)                                   | 7014 |
+|                                                    (42) N-Ethylhexedrone, its optical, positional, and geometric isomers, salts and salts of isomers (Other name: 2-(ethylamino)-1-phenylhexan-1-one)                                                     | 7246 |
+|                       (43) alpha-Pyrrolidinohexanophenone, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: α-PHP; alpha-pyrrolidinohexiophenone; 1-phenyl-2-(pyrrolidin-1-yl)hexan-1-one)                        | 7544 |
+|                               (44) 4-Methyl-alpha-ethylaminopentiophenone, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: 4-MEAP; 2-(ethylamino)-1-(4-methylphenyl)pentan-1-one)                                | 7245 |
+|         (45) 4′-Methyl-alpha-pyrrolidinohexiophenone, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: MPHP; 4′-methyl-alpha-pyrrolidinohexanophenone; 1-(4-methylphenyl)-2-(pyrrolidin-1-yl)hexan-1-one)         | 7446 |
+|                                        (46) alpha-Pyrrolidinoheptaphenone, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: PV8; 1-phenyl-2-(pyrrolidin-1-yl)heptan-1-one)                                        | 7548 |
+|   (47) 4′-Chloro-alpha-pyrrolidinovalerophenone, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: 4-chloro-α-PVP; 4′-chloro-alpha-pyrrolidinopentiophenone; 1-(4-chlorophenyl)-2-(pyrrolidin-1-yl)pentan-1-one)   | 7443 |
 
 [39 FR 22141, June 20, 1974]Editorial Note:For Federal Register citations affecting § 1308.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Notes:At 82 FR 17123, Apr. 10, 2017, § 1308.11 was amended by adding paragraphs (h)(10) through (15), effective Apr. 10. 2017 through Apr. 10, 2019. At 84 FR 13796, Apr. 8, 2019, § 1308.11 was amended by extending the above effective date from Apr. 10, 2019 to Apr. 10, 2020.2. At 82 FR 20547, May 3, 2017, § 1308.11 was amended by adding (h)(16), effective May 3, 2017, until May 3, 2019. At 82 FR 47974, Oct. 16, 2017, § 1308.11 was amended by redesignating (h)(16) as paragraph (h)(13).
 
@@ -322,3 +328,5 @@ Link to an amendment published at 84 FR 13796, Apr. 8, 2019.
 11. At 83 FR 44478, Aug. 31, 2018, § 1308.11 was amended by adding paragraph (h)(36) effective Aug. 31, 2018 through Aug. 31, 2020.
 
 12. At 84 FR 15511, Apr. 16, 2019, § 1308.11 was amended by adding paragraphs (h)(37) through (h)(41) effective Apr. 16, 2019 through Apr. 16, 2021.
+
+13. At 84 FR 34297, July 17, 2019, § 1308.11 was amended by adding paragraphs (h)(42) through (h)(47) effective July 18, 2019 through July 18, 2021.

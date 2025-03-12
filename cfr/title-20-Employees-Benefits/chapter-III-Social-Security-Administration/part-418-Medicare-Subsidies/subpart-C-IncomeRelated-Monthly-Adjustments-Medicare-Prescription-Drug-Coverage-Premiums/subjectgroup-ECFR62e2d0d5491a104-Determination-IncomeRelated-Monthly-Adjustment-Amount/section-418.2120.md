@@ -70,4 +70,4 @@
 
 (c) For each year after 2019, CMS will announce the modified adjusted gross income ranges for the income-related monthly adjustment amount described in paragraph (b) of this section.
 
-[75 FR 75891, Dec. 7, 2010, as amended at 55630, Nov. 3, 2018]
+[75 FR 75891, Dec. 7, 2010, as amended at 55631, Nov. 3, 2018]
