@@ -1,7 +1,5 @@
 ##### § 622.41 Annual catch limits (ACLs), annual catch targets (ACTs), and accountability measures (AMs). #####
 
-Link to an amendment published at 83 FR 22212, May 14, 2018.
-
 (a) *Greater amberjack* - (1) *Commercial sector.* (i) If commercial landings, as estimated by the SRD, reach or are projected to reach the annual catch target (ACT) specified in § 622.39(a)(1)(v)(commercial quota), the Assistant Administrator for Fisheries, NOAA, (AA) will file a notification with the Office of the Federal Register to close the commercial sector for the remainder of the fishing year.
 
 (ii) In addition to the measures specified in paragraph (a)(1)(i) of this section, if commercial landings, as estimated by the SRD, exceed the commercial ACL, as specified in (a)(1)(iii) of this section, the AA will file a notification with the Office of the Federal Register, at or near the beginning of the following fishing year to reduce the commercial ACT (commercial quota) and the commercial ACL for that following year by the amount of any commercial ACL overage in the prior fishing year.
@@ -64,7 +62,7 @@ Link to an amendment published at 83 FR 22212, May 14, 2018.
 
 (i) *Silk snapper, queen snapper, blackfin snapper, and wenchman, combined.* If the sum of the commercial and recreational landings, as estimated by the SRD, exceeds the stock complex ACL, then during the following fishing year, if the sum of commercial and recreational landings reaches or is projected to reach the stock complex ACL, the AA will file a notification with the Office of the Federal Register to close the commercial and recreational sectors for the remainder of that fishing year. The stock complex ACL for silk snapper, queen snapper, blackfin snapper, and wenchman, is 166,000 lb (75,296 kg), round weight.
 
-(j) *Vermilion snapper.* If the sum of the commercial and recreational landings, as estimated by the SRD, reaches or is projected to reach the stock ACL, the AA will file a notification with the Office of the Federal Register to close the commercial and recreational sectors for the remainder of the fishing year. The stock ACL for vermilion snapper is 3.42 million lb (1.55 million kg), round weight.
+(j) *Vermilion snapper.* If the sum of the commercial and recreational landings, as estimated by the SRD, reaches or is projected to reach the stock ACL, the AA will file a notification with the Office of the Federal Register to close the commercial and recreational sectors for the remainder of the fishing year. The stock ACL for vermilion snapper is 3.11 million lb (1.41 million kg), round weight.
 
 (k) *Lane snapper.* If the sum of the commercial and recreational landings, as estimated by the SRD, exceeds the stock ACL, then during the following fishing year, if the sum of commercial and recreational landings reaches or is projected to reach the stock ACL, the AA will file a notification with the Office of the Federal Register to close the commercial and recreational sectors for the remainder of that fishing year. The stock ACL for lane snapper is 301,000 lb (136,531 kg), round weight.
 
