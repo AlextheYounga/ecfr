@@ -1,5 +1,7 @@
 ##### § 401.90 Boarding for inspections. #####
 
+Link to an amendment published at 88 FR 14268, Mar. 8, 2023.
+
 (a) For the purpose of enforcing these Regulations in this part in both Canadian and U.S. waters, an officer may board any vessel and:
 
 (1) Examine the vessel and its cargo; and

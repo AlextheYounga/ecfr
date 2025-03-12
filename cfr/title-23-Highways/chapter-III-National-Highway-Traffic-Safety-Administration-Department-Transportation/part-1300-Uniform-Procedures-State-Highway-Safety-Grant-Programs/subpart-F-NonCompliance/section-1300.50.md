@@ -1,3 +1,3 @@
 ##### § 1300.50 General. #####
 
-Where a State is found to be in non-compliance with the requirements of the grant programs authorized under 23 U.S.C. Chapter 4 or Section 1906, or with other applicable law, the sanctions in §§ 1300.51 and 1300.52, and any other sanctions or remedies permitted under Federal law, including the specific conditions of 2 CFR 200.207 and 200.338, may be applied as appropriate.
+Where a State is found to be in non-compliance with the requirements of the grant programs authorized under 23 U.S.C. Chapter 4 or Section 1906, or with other applicable law, the sanctions in §§ 1300.51 and 1300.52, and any other sanctions or remedies permitted under Federal law, including the specific conditions of 2 CFR 200.208 and 200.339, may be applied as appropriate.

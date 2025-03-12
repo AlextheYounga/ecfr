@@ -1,5 +1,7 @@
 ##### § 401.40 Entering, exiting or position in lock. #####
 
+Link to an amendment published at 88 FR 14268, Mar. 8, 2023.
+
 (a) Unless directed by the Manager and the Corporation, no vessel shall proceed into a lock in such a manner that the stem passes the stop symbol on the lock wall nearest the closed gates.
 
 (b) On being cast off in a lock, no vessel shall be allowed to fall back in such a manner that the stern passes the stop symbol on the lock wall nearest the closed gates.

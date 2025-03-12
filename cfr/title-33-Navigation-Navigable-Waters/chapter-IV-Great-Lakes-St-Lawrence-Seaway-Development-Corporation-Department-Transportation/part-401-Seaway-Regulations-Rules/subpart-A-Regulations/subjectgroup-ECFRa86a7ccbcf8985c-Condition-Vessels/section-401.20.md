@@ -1,5 +1,7 @@
 ##### § 401.20 Automatic Identification System. #####
 
+Link to an amendment published at 88 FR 14267, Mar. 8, 2023.
+
 (a) Each of the following vessels must use an Automatic Identification System (AIS) transponder to transit the Seaway:
 
 (1) Each commercial vessel that requires pre-clearance in accordance with § 401.22 and has a 300 gross tonnage or greater, has a Length Over All (LOA) over 20 meters, or carries more than 50 passengers for hire; and

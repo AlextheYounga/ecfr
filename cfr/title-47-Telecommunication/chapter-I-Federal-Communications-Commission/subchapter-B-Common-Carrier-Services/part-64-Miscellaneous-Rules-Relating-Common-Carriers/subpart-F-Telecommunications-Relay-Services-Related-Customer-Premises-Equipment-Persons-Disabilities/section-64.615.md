@@ -1,7 +1,5 @@
 ##### § 64.615 TRS User Registration Database and administrator. #####
 
-Link to an amendment published at 87 FR 57648, Sept. 21, 2022.
-
 (a) *TRS User Registration Database.*
 
 (1) *VRS users call validation.* VRS providers shall validate the eligibility of the party on the video side of each call by querying the TRS User Registration Database or the TRS Numbering Directory, as directed by the Commission, the TRS Fund administrator, or the TRS Numbering Administrator, on a per-call basis. Emergency 911 calls are excepted from the requirement in this paragraph (a)(1).
@@ -44,8 +42,12 @@ Link to an amendment published at 87 FR 57648, Sept. 21, 2022.
 
 (iv) IP CTS providers shall not seek compensation for calls placed to or from individuals that do not pass the identification verification check conducted through the TRS User Registration Database.
 
-(b) *Administration* - (1) *Terms of administration.* The administrator of the TRS User Registration Database shall administer the TRS User Registration Database pursuant to the terms of its contract.
+(v) Notwithstanding paragraphs (a)(6)(ii) through (iv) of this section, VRS and IP CTS providers may provide service to a new or porting user for up to two weeks after the user's registration information has been submitted to the TRS User Registration Database, pending verification of the user's identity. After such user's identity is verified by the Database administrator, a TRS provider may seek TRS Fund compensation for calls handled during such pre-verification period.
+
+(vi) If a VRS provider submits registration information for a TRS telephone number that is being ported from another VRS provider, and user's identity cannot be immediately verified, then the porting-in provider's routing information for that telephone number shall be provisionally entered in the TRS Numbering Directory for up to two weeks to allow the routing of calls to the porting-in VRS provider pursuant to paragraph (a)(6)(v) of this section. If the user's identity is not verified by the TRS User Registration Database administrator within the allowed two-week period, the porting-out provider's routing information shall be re-entered in the TRS Number Directory.
+
+(b) *Administration*—(1) *Terms of administration.* The administrator of the TRS User Registration Database shall administer the TRS User Registration Database pursuant to the terms of its contract.
 
 (2) *Compensation.* The TRS Fund, as defined by § 64.604(a)(5)(iii) of this subpart, may be used to compensate the administrator of the TRS User Registration Database for the reasonable costs of administration pursuant to the terms of its contract.
 
-[78 FR 40609, July 5, 2013, as amended at 82 FR 17764, Apr. 13, 2017; 84 FR 8463, Mar. 8, 2019; 84 FR 26372, June 6, 2019; 85 FR 26858, May 6, 2020]
+[78 FR 40609, July 5, 2013, as amended at 82 FR 17764, Apr. 13, 2017; 84 FR 8463, Mar. 8, 2019; 84 FR 26372, June 6, 2019; 85 FR 26858, May 6, 2020; 87 FR 57648, Sept. 21, 2022]

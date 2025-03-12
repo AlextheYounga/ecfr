@@ -1,5 +1,7 @@
 ##### § 401.68 Explosives permission letter. #####
 
+Link to an amendment published at 88 FR 14268, Mar. 8, 2023.
+
 (a) A Seaway Explosives Permission Letter is required for an explosive vessel in the following cases:
 
 (1) For all vessels carrying any quantity of explosives with a mass explosive risk, up to a maximum of 2 tonnes (IMO Class 1, Division 1.1 and 1.5);

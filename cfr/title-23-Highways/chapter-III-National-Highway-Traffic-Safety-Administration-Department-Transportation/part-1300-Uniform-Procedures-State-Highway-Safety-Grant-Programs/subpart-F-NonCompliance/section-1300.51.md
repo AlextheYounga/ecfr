@@ -1,8 +1,8 @@
-##### § 1300.51 Sanctions - reduction of apportionment. #####
+##### § 1300.51 Sanctions—reduction of apportionment. #####
 
 (a) *Determination of sanctions.* (1) The Administrator shall not apportion any funds under Section 402 to any State that does not have or is not implementing an approved highway safety program.
 
-(2) If the Administrator has apportioned funds under Section 402 to a State and subsequently determines that the State is not implementing an approved highway safety program, the Administrator shall reduce the apportionment by an amount equal to not less than 20 percent, until such time as the Administrator determines that the State is implementing an approved highway safety program. The Administrator shall consider the gravity of the State's failure to implement an approved highway safety program in determining the amount of the reduction.
+(2) If the Administrator has apportioned funds under Section 402 to a State and subsequently determines that the State is not implementing an approved highway safety program, the Administrator shall reduce the apportionment by an amount equal to not less than 20 percent until such time as the Administrator determines that the State is implementing an approved highway safety program. The Administrator shall consider the gravity of the State's failure to implement an approved highway safety program in determining the amount of the reduction.
 
 (i) When the Administrator determines that a State is not implementing an approved highway safety program, the Administrator shall issue to the State an advance notice, advising the State that the Administrator expects to withhold funds from apportionment or reduce the State's apportionment under Section 402. The Administrator shall state the amount of the expected withholding or reduction.
 

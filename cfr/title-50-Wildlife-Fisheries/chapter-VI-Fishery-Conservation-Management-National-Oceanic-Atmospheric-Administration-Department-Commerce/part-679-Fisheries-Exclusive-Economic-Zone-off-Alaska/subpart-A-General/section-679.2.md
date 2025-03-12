@@ -1,7 +1,5 @@
 ##### § 679.2 Definitions. #####
 
-Link to an amendment published at 88 FR 7591, Feb. 6, 2023.
-
 In addition to the definitions in the Magnuson-Stevens Act and in part 600 of this chapter, the terms used in this part have the following meanings:
 
 *ABC reserve* means, for purposes of flathead sole, rock sole, and yellowfin sole in the BSAI, an amount, not to exceed the ABC surplus, that may be reduced for social, economic, or ecological considerations according to § 679.20(b)(1)(iii).
@@ -116,7 +114,7 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 *Aleutian Islands Subarea (AI)* of the BSAI means that portion of the EEZ contained in Statistical Areas 541, 542, and 543 (see Figure 1 to this part).
 
-*American Fisheries Act (AFA)* means Title II - Fisheries Subtitles I and II, as cited within the Omnibus Appropriations Bill FY99 (Pub. L. 105-277).
+*American Fisheries Act (AFA)* means Title II—Fisheries Subtitles I and II, as cited within the Omnibus Appropriations Bill FY99 (Pub. L. 105-277).
 
 *Amendment 80 ABC reserve* means the amount of the flathead sole, rock sole, or yellowfin sole ABC reserve that remains after designating the amount assigned to the CDQ ABC reserve and that is allocated among Amendment 80 cooperatives as calculated annually as described at § 679.91(i)(2).
 
@@ -360,8 +358,6 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 *Bled codend* means a form of discard by vessels using trawl gear wherein some or all of the fish are emptied into the sea from the net before fish are brought fully on board.
 
-*Blind data* means any data collected from an economic data report by the data collection agent that are subsequently amended by removing personal identifiers, including, but not limited to social security numbers, crew permit numbers, names and addresses, Federal fisheries permit numbers, Federal processor permit numbers, Federal tax identification numbers, and State of Alaska vessel registration and permit numbers, and by adding in their place a nonspecific identifier.
-
 *Bogoslof District* means that part of the Bering Sea Subarea contained in Statistical Area 518 (see Figure 1 to this part).
 
 *Bowers Ridge Habitat Conservation Zone* means a management area established for the protection of the Bowers Ridge and Ulm Plateau habitat areas of particular concern in the BSAI. See Table 25 to this part.
@@ -517,8 +513,6 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 *Designated contact for the Aleut Corporation* means an individual who is designated by the Aleut Corporation for the purpose of communication with NMFS regarding the identity of selected AI directed pollock fishery participants and weekly reports required by § 679.5.
 
 *Designated cooperative representative* means an individual who is designated by the members of a fishery cooperative to fulfill requirements on behalf of the cooperative including, but not limited to, the signing of cooperative fishing permit applications; submitting catcher vessel pollock cooperative catch reports, and submitting annual cooperative fishing reports.
-
-*Designated data collection auditor* (DDCA) means an examiner employed by, or under contract to, the data collection agent (DCA) to verify data submitted in an economic data report or the NMFS-designated contractor to perform the functions of a data collection auditor.
 
 *Designated primary processor* means an AFA inshore processor that is designated by an inshore pollock cooperative as the AFA inshore processor to which the cooperative will deliver at least 90 percent of its BS pollock allocation during the year in which the AFA inshore cooperative fishing permit is in effect.
 
@@ -800,7 +794,7 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 (2) Vessels less than 125 ft (38.1 m) LOA that hold an inshore processing endorsement on their Federal fisheries permit, and that process no more than 126 mt per week in round-weight equivalents of an aggregate amount of pollock and Eastern GOA Pacific cod.
 
-(3) Stationary floating processors that -
+(3) Stationary floating processors that—
 
 (i) Hold an inshore processing endorsement on their Federal processor permit;
 
@@ -1068,7 +1062,7 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 *Rockfish halibut PSC* means the amount of halibut PSC that may be used by a rockfish cooperative in the Central GOA as assigned on a CQ permit.
 
-*Rockfish legal landings* means groundfish caught and retained in compliance with state and Federal regulations in effect at that time unless harvested and then processed as meal, and -
+*Rockfish legal landings* means groundfish caught and retained in compliance with state and Federal regulations in effect at that time unless harvested and then processed as meal, and—
 
 (1) *For catcher vessels:* The harvest of groundfish from the Central GOA regulatory area that is offloaded and recorded on a State of Alaska fish ticket during the directed fishing season for that rockfish primary species as established in Tables 28a and 28b to this part.
 

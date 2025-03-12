@@ -1,6 +1,6 @@
 ##### § 64.611 Internet-based TRS registration. #####
 
-Link to an amendment published at 87 FR 57648, Sept. 21, 2022.Link to an amendment published at 87 FR 75514, Dec. 9, 2022.
+Link to an amendment published at 87 FR 75514, Dec. 9, 2022.
 
 (a) *Default provider registration.* Every provider of VRS or IP Relay must, no later than December 31, 2008, provide users with the capability to register with that VRS or IP Relay provider as a “default provider.” Upon a user's registration, the VRS or IP Relay provider shall:
 
@@ -36,7 +36,9 @@ Link to an amendment published at 87 FR 57648, Sept. 21, 2022.Link to an amendme
 
 (ii) VRS providers must, for existing registered internet-based TRS users, submit the information in paragraph (a)(3) of this section to the TRS User Registration Database within 60 days of notice from the Commission that the TRS User Registration Database is ready to accept such information. Calls from or to existing registered internet-based TRS users that have not had their information populated in the TRS User Registration Database within 60 days of notice from the Commission that the TRS User Registration Database is ready to accept such information shall not be compensable.
 
-(iii) VRS providers must submit the information in paragraph (a)(4) of this section upon initiation of service for users registered after 60 days of notice from the Commission that the TRS User Registration Database is ready to accept such information.
+(iii) VRS providers must submit the information in the introductory text of paragraph (a)(4) of this section upon initiation of service for users registered after 60 days of notice from the Commission that the TRS User Registration Database is ready to accept such information. VRS providers may provide service to such users for up to two weeks after the user's registration information has been submitted to the TRS User Registration Database pending verification of the user's identity. After the user's identity is verified by the Database administrator, VRS providers may seek TRS Fund compensation for calls handled during such pre-verification period of up to two weeks.
+
+(iv) If a VRS user's registration data submitted pursuant to paragraph (a)(4)(iii) of this section is not verified by the TRS User Registration Database administrator within two weeks after submission, the VRS provider shall hold the assigned number for up to 30 days or the pendency of an appeal, whichever is later, pending the outcome of any further efforts to complete verification, before returning the number to inactive status or assigning it to another user. If a VRS user's identity is verified within such 30-day period, or during the pendency of an appeal, whichever is later, the administrator may enter the number into the Database (and the TRS Numbering Directory) as assigned to that user.
 
 (5) *Assignment of iTRS Numbers to Hearing Point-to-Point Video Users.* (i) Before assigning an iTRS telephone number to a hearing individual, a VRS provider shall obtain from such individual, the individual's full name, residential address, date of birth, and a written certification, attesting that the individual:
 
@@ -68,7 +70,7 @@ Link to an amendment published at 87 FR 57648, Sept. 21, 2022.Link to an amendme
 
 (ix) Hearing individuals who are assigned iTRS numbers under this paragraph (a)(5) shall not be deemed registered VRS users. VRS providers shall not be compensated and shall not seek compensation from the TRS Fund for any VRS calls to or from such iTRS numbers.
 
-(6) *Enterprise and public videophones* - (i) *Definition.* For purposes of this section, a default VRS provider for an enterprise or public videophone is the VRS provider that assigns a North American Numbering Plan (NANP) telephone number to such videophone or receives a port of such number.
+(6) *Enterprise and public videophones*—(i) *Definition.* For purposes of this section, a default VRS provider for an enterprise or public videophone is the VRS provider that assigns a North American Numbering Plan (NANP) telephone number to such videophone or receives a port of such number.
 
 (ii) *Enterprise and public videophone certification.* (A) *Written certification.* A default VRS provider for an enterprise or public videophone shall obtain a written certification from the individual responsible for the videophone, attesting that the individual understands the functions of the videophone and that the cost of VRS calls made on the videophone is financed by the federally regulated Interstate TRS Fund, and for enterprise videophones, that the organization, business, or agency will make reasonable efforts to ensure that only persons with a hearing or speech disability are permitted to use the phone for VRS.
 
@@ -240,14 +242,16 @@ Link to an amendment published at 87 FR 57648, Sept. 21, 2022.Link to an amendme
 
 (iv) By the date of initiation of service to an IP CTS user or device, or one year after notice from the Commission that the TRS User Registration Database is ready to accept such information, whichever is later, IP CTS providers shall submit to the TRS User Registration Database the registration information required by paragraph (j)(2)(i) or (iii) of this section. Calls from or to registered IP CTS users or devices whose registration information has not been populated in the TRS User Registration Database by the applicable date shall not be compensable, and an IP CTS provider shall not seek TRS Fund compensation for such calls.
 
-(v) When registering a user who is transferring service from another IP CTS provider, IP CTS providers shall obtain and submit a digital copy of a user's self-certification of eligibility if a query of the TRS User Registration Database shows a properly executed certification has not been filed.
+(v) IP CTS providers may provide service to new users for up to two weeks after the user's registration information has been submitted to the TRS User Registration Database pending verification of the user's identity. After a user's identity is verified by the Database administrator, IP CTS providers may seek TRS Fund compensation for calls handled during such pre-verification period.
+
+(vi) When registering a user who is transferring service from another IP CTS provider, IP CTS providers shall obtain and submit a digital copy of a user's self-certification of eligibility if a query of the TRS User Registration Database shows a properly executed certification has not been filed.
 
 (3) An IP CTS provider shall not seek TRS Fund compensation for providing captioning service to any individual or device if the registration information for such individual or device has been removed from the TRS User Registration Database, or if the provider obtains information that the individual or device is not eligible to receive IP CTS.
 
-(k) *Registration for use of TRS in correctional facilities* - (1) *Individual user registration.* (i) through (iii) [Reserved]
+(k) *Registration for use of TRS in correctional facilities*—(1) *Individual user registration.* (i) through (iii) [Reserved]
 
 (iv) *Dial-around calls for VRS.* VRS providers shall not allow dial-around calls by incarcerated persons.
 
 (2) *Enterprise user registration for VRS.* Notwithstanding the other provisions of this section, for the purpose of providing VRS to incarcerated individuals under enterprise registration, pursuant to paragraph (a)(6) of this section, a TRS provider may assign to a correctional authority a pool of telephone numbers that may be used interchangeably with any videophone or other user device made available for the use of VRS in correctional facilities overseen by such authority. For the purpose of such enterprise registration, the address of the organization specified pursuant to paragraph (a)(6)(iii) of this section may be the main or administrative address of the correctional authority, and a Registered Location need not be provided.
 
-[73 FR 41295, July 18, 2008, as amended at 76 FR 59557, Sept. 27, 2011; 78 FR 40608, July 5, 2013; 82 FR 17763, Apr. 13, 2017; 82 FR 39683, Aug. 22, 2017; 84 FR 8461, Mar. 8, 2019; 84 FR 26371, June 6, 2019; 85 FR 26858, May 6, 2020; 85 FR 52489, Aug. 26, 2020; 87 FR 75513, Dec. 9, 2022]
+[73 FR 41295, July 18, 2008, as amended at 76 FR 59557, Sept. 27, 2011; 78 FR 40608, July 5, 2013; 82 FR 17763, Apr. 13, 2017; 82 FR 39683, Aug. 22, 2017; 84 FR 8461, Mar. 8, 2019; 84 FR 26371, June 6, 2019; 85 FR 26858, May 6, 2020; 85 FR 52489, Aug. 26, 2020; 87 FR 57468, Sept. 21, 2022; 87 FR 75513, Dec. 9, 2022]

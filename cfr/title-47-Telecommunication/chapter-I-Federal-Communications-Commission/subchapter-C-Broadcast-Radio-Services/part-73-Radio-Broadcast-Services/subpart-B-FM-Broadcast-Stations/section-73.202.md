@@ -344,6 +344,7 @@ Table 1 to Paragraph (b)
 |    Medicine Bow    |          259C3          |
 |     Meeteetse      |                         |
 |    Pine Bluffs     |          287A           |
+|      Ralston       |          233C           |
 |      Rawlins       |          298C2          |
 |       Rozet        |          256C3          |
 |     Wamsutter      |          285A           |

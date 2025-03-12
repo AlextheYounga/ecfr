@@ -1,7 +1,5 @@
 ##### § 679.65 Bering Sea Chinook Salmon Bycatch Management Program Economic Data Report (Chinook salmon EDR program). #####
 
-Link to an amendment published at 88 FR 7591, Feb. 6, 2023.
-
 (a) *Requirements.* NMFS developed the regulations under this section to implement the Chinook salmon EDR program. Additional regulations that implement specific portions of the Chinook salmon EDR program are set out under paragraphs (a)(1) through (4) of this section:
 
 (1) *Daily fishing logbook* (DFL), catcher vessel trawl gear. *See* § 679.5(c)(4).
@@ -36,10 +34,10 @@ Link to an amendment published at 88 FR 7591, Feb. 6, 2023.
 
 (2) The Vessel Master Survey is available through the Internet on the NMFS Alaska Region Web site at *http://alaskafisheries.noaa.gov,* or by contacting NMFS at (206) 526-6414.
 
-(e) *Chinook salmon EDR verification and audit procedures.* NMFS or the designated data collection agent (DDCA) will conduct verification of Chinook salmon EDR information with the persons identified at § 679.65(b)(1), (b)(2), (c)(1), (d)(1)(i), and (d)(1)(ii).
+(e) *Chinook salmon EDR verification procedures.* NMFS or the data collection agent (DCA) will conduct verification of Chinook salmon EDR information with the persons identified at § 679.65(b)(1), (b)(2), (c)(1), (d)(1)(i), and (d)(1)(ii).
 
-(1) The persons identified at § 679.65(b)(1), (b)(2), (c)(1), (d)(1)(i), and (d)(1)(ii) must respond to inquiries by NMFS and its DDCA for purposes of the CTR, within 20 days of the date of issuance of the inquiry.
+(1) The persons identified at § 679.65(b)(1), (b)(2), (c)(1), (d)(1)(i), and (d)(1)(ii) must respond to inquiries by NMFS and its DCA for purposes of the CTR, within 20 days of the date of issuance of the inquiry.
 
-(2) The persons identified at § 679.65(b)(1) and (b)(2) must provide copies of additional data to facilitate verification by NMFS and its DDCA for purposes of the CTR. These paper or electronic copies may include, but are not limited to, previously audited or reviewed financial statements, worksheets, tax returns, invoices, receipts, and other original documents substantiating the data submitted.
+(2) [Reserved].
 
-[77 FR 5395, Feb. 3, 2012]
+[77 FR 5395, Feb. 3, 2012, as amended at 88 FR 7591, Feb. 6, 2023]

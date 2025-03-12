@@ -1,5 +1,7 @@
 ##### § 401.28 Speed limits. #####
 
+Link to an amendment published at 88 FR 14267, Mar. 8, 2023.
+
 (a) The maximum speed over the bottom for a vessel of more than 12 m in overall length shall be regulated so as not to adversely affect other vessels or shore property, and in no event shall such a vessel proceeding in any area between the place set out in Column I of an item of Schedule II to this part and a place set out in Column II of that item exceed the speed set out in Column III or Column IV of that item, whichever speed is designated by the Corporation and the Manager in a Seaway Notice from time to time as being appropriate to existing water levels.
 
 (b) Where the Corporation or the Manager designate any speed less than the maximum speeds set out in Schedule II of this part, that speed shall be transmitted as transit instructions referred to in § 401.27.

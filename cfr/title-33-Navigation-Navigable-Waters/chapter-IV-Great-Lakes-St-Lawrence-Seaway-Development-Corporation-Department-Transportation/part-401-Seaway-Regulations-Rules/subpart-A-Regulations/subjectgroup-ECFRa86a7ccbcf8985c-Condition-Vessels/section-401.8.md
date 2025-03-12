@@ -1,5 +1,7 @@
 ##### § 401.8 Landing booms. #####
 
+Link to an amendment published at 88 FR 14267, Mar. 8, 2023.
+
 (a) Vessels of more than 50 m in overall length shall be equipped with at least one adequate landing boom on each side which are to be in compliance with applicable regulations.
 
 (b) Vessel's crews shall be adequately trained in the use of landing booms for the purpose of landing crew ashore.

@@ -1,7 +1,5 @@
 ##### § 680.2 Definitions. #####
 
-Link to an amendment published at 88 FR 7591, Feb. 6, 2023.
-
 In addition to the definitions in the Magnuson-Stevens Act, in 50 CFR part 600, and § 679.2 of this chapter, the terms used in this part have the following meanings:
 
 *Adak community entity* means the non-profit entity incorporated under the laws of the state of Alaska that represents the community of Adak and has a board of directors elected by the residents of Adak.
@@ -71,10 +69,6 @@ In addition to the definitions in the Magnuson-Stevens Act, in 50 CFR part 600, 
 *Arbitration System* means the system established by the contracts required by § 680.20, including the process by which the Market Report and Non-Binding Price Formula are produced, the negotiation approaches, the Binding Arbitration process, and fee collection.
 
 *Assessed value* means the most recent value for a vessel and gear provided in a marine survey.
-
-*Auditor* means an examiner employed by, or under contract to, the data collection agent to verify data submitted in an economic data report.
-
-*Blind data* means any data collected from the economic data report by the data collection agent that are subsequently amended by removing personal identifiers, including, but not limited to social security numbers, crew permit numbers, names and addresses, Federal fisheries permit numbers, Federal processor permit numbers, Federal tax identification numbers, State of Alaska vessel registration and permit numbers, and by adding in their place a nonspecific identifier.
 
 *Box size* means the capacity of a crab-packing container in kilograms or pounds.
 
@@ -296,4 +290,4 @@ In addition to the definitions in the Magnuson-Stevens Act, in 50 CFR part 600, 
 
 (2) Any corporation, partnership, association, or other entity that is organized under Federal, state, or local laws of the United States or that may legally operate in the United States.
 
-[70 FR 10241, Mar. 2, 2005, as amended at 73 FR 29982, May 23, 2008; 73 FR 35088, June 20, 2008; 73 FR 76189, Dec. 15, 2008; 74 FR 41095, Aug. 14, 2009; 77 FR 6503, Feb. 8, 2012; 82 FR 52014, Nov. 9, 2017]
+[70 FR 10241, Mar. 2, 2005, as amended at 73 FR 29982, May 23, 2008; 73 FR 35088, June 20, 2008; 73 FR 76189, Dec. 15, 2008; 74 FR 41095, Aug. 14, 2009; 77 FR 6503, Feb. 8, 2012; 82 FR 52014, Nov. 9, 2017; 88 FR 7591, Feb. 6, 2023]

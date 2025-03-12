@@ -1,0 +1,47 @@
+##### § 1300.13 Special funding conditions for Section 402 grants. #####
+
+The State's highway safety program under Section 402 shall be subject to the following conditions, and approval under § 1300.12 shall be deemed to incorporate these conditions:
+
+(a) *Planning and administration (P & A) costs.* (1)(i) *Planning and administration (P & A) costs* are those direct and indirect costs that are attributable to the management of the Highway Safety Agency. Such costs could include salaries, related personnel benefits, travel expenses, and rental costs specific to the Highway Safety Agency. The salary of an accountant on the State highway safety agency staff is an example of a direct cost attributable to P & A. Centralized support services such as personnel, procurement, and budgeting would be indirect costs.
+
+(ii) *Program management costs* are those costs attributable to a program area (e.g., salary and travel expenses of an impaired driving program manager/coordinator of a State highway safety agency). Compensation for activity hours of a DWI (Driving While Intoxicated) enforcement officer is an example of a direct cost attributable to a project.
+
+(2) Federal participation in P & A activities shall not exceed 50 percent of the total cost of such activities, or the applicable sliding scale rate in accordance with 23 U.S.C. 120. The Federal contribution for P & A activities shall not exceed 18 percent of the total funds the State receives under Section 402. In accordance with 23 U.S.C. 120(i), the Federal share payable for projects in the U.S. Virgin Islands, Guam, American Samoa and the Commonwealth of the Northern Mariana Islands shall be 100 percent. The Indian Country is exempt from the P & A requirements. NHTSA funds shall be used only to fund P & A activities attributable to NHTSA programs.
+
+(3) P & A tasks and related costs shall be described in the P & A module of the State's annual grant application. The State's matching share shall be determined on the basis of the total P & A costs in the module.
+
+(4) A State may allocate salary and related costs of State highway safety agency employees to one of the following, depending on the activities performed:
+
+(i) If an employee works solely performing P & A activities, the total salary and related costs may be programmed to P & A;
+
+(ii) If the employee works performing program management activities in one or more program areas, the total salary and related costs may be charged directly to the appropriate area(s); or
+
+(iii) If an employee works on a combination of P & A and program management activities, the total salary and related costs may be charged to P & A and the appropriate program area(s) based on the actual time worked under each area. If the State highway safety agency elects to allocate costs based on actual time spent on an activity, the State highway safety agency must keep accurate time records showing the work activities for each employee.
+
+(b) *Participation by political subdivisions (local expenditure requirement)*—(1) *Determining local expenditure.* In determining whether a State meets the requirement that 40 percent (or 95 percent for Indian tribes) of Section 402 funds be expended by political subdivisions (also referred to as the local expenditure requirement) in a fiscal year, NHTSA will apply the requirement sequentially to each fiscal year's apportionments, treating all apportionments made from a single fiscal year's authorizations as a single amount for this purpose. Therefore, at least 40 percent of each State's apportionments (or at least 95 percent of the apportionment to the Secretary of the Interior) from each year's authorizations must be used in the highway safety programs of its political subdivisions prior to the end of the fiscal year.
+
+(2) *Direct expenditures by political subdivisions.* When Federal funds apportioned under 23 U.S.C. 402 are expended by a political subdivision under a subaward from the State, such expenditures clearly qualify as part of the required local expenditure. A political subdivision may expend funds through direct performance of projects (including planning and administration of eligible highway safety project-related activities) or by entering into contracts or subawards with other entities (including non-profit entities) to carry out projects on its behalf.
+
+(3) *Expenditures by State on behalf of a political subdivision.* Federal funds apportioned under 23 U.S.C. 402 that are expended by a State on behalf of a specific political subdivision (either through direct performance of projects or by entering into contracts or subawards with other entities) may qualify as part of the required local expenditure, provided there is evidence of the political subdivision's involvement in identifying its traffic safety need(s) and input into implementation of the activity within its jurisdiction. A State may not arbitrarily ascribe State agency expenditures as “on behalf of a local government.” Such expenditures qualify if—
+
+(i) The specific political subdivision is involved in the planning process of the State's highway safety program (for example, as part of the public participation described in § 1300.11(b)(2), as part of the State's planning for the annual grant application, or as part of ongoing planning processes), and the State then enters into agreements based on identification of need by the political subdivision and implements the project or activity accordingly. The State must maintain documentation that shows the political subdivision's participation in the planning processes (e.g., meeting minutes, data submissions, etc.), and also must obtain written acceptance by the political subdivision of the project or activity being provided on its behalf prior to implementation.
+
+(ii) The political subdivision is not involved in the planning process of the State's highway safety program, but submits a request for the State to implement a project on its behalf. The request does not need to be a formal application but should, at minimum, contain a description of the political subdivision's problem identification and a description of where and/or how the project or activity should be deployed to have effect within political subdivision (may include: identification of media outlets to run advertising, locations for billboard/sign placement or enforcement activities, schools or other venues to provide educational programming, specific sporting events/venues, etc.).
+
+(4) *Allocation of qualifying costs.* Expenditures qualify as local expenditures only when the expenditures meet the qualification criteria described in paragraphs (b)(2) and (3) of this section. In some cases, only a portion of the expenditures under a given project may meet those requirements. States must allocate funds in proportion to the amount of costs that can be documented to meet the requirements for a specific political subdivision.
+
+(5) *Waivers.* While, in extraordinary circumstances, the requirement for participation by political subdivisions may be waived in whole or in part by the NHTSA Administrator, it is expected that each State program will generate and maintain political subdivision participation at the level specified in the Federal statute so that requests for waivers are minimized. Where a waiver is requested, however, the State shall submit a written request describing the extraordinary circumstances that necessitate a waiver, or providing a conclusive showing of the absence of legal authority over highway safety activities at the political subdivision levels of the State, and must recommend the appropriate percentage participation to be applied in lieu of the required 40 percent or 95 percent (for Indian Tribes) local expenditure.
+
+(c) *Use of grant funds for marijuana-impaired driving.* A State that has legalized medicinal or recreational marijuana shall consider implementing programs to—
+
+(1) Educate drivers regarding the risks associated with marijuana-impaired driving; and
+
+(2) Reduce injuries and deaths resulting from marijuana-impaired driving.
+
+(d) *Use of grant funds for unattended passengers program.* The State must use a portion of grant funds received under Section 402 to carry out a program to educate the public regarding the risks of leaving a child or unattended passenger in a vehicle after the vehicle motor is deactivated by the operator.
+
+(e) *Use of grant funds for teen traffic safety program.* The State may use a portion of the funds received under Section 402 to implement statewide efforts to improve traffic safety for teen drivers.
+
+(f) *Prohibition on use of grant funds to check for helmet usage.* No grant funds under this part may be used for programs to check helmet usage or to create checkpoints that specifically target motorcyclists.
+
+(g) *Prohibition on use of grant funds for automated traffic enforcement systems.* The State may not expend funds apportioned to the State under Section 402 to carry out a program to purchase, operate, or maintain an automated traffic enforcement system except in a work zone or school zone. Any ATES system installed using grant funds under this section must comply with guidelines established by the Secretary, as updated.
