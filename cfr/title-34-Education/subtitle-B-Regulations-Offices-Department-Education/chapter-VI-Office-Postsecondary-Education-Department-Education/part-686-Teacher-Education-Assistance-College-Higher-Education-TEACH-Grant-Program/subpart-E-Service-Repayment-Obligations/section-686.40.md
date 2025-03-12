@@ -1,5 +1,7 @@
 ##### § 686.40 Documenting the service obligation. #####
 
+Link to an amendment published at 85 FR 49826, Aug. 14, 2020.
+
 (a) Except as provided in §§ 686.41 and 686.42, within 120 days of completing or otherwise ceasing enrollment in a program of study for which a TEACH Grant was received, the grant recipient must confirm to the Secretary in writing that -
 
 (1) He or she is employed as a full-time teacher in accordance with the terms and conditions of the agreement to serve described in § 686.12; or

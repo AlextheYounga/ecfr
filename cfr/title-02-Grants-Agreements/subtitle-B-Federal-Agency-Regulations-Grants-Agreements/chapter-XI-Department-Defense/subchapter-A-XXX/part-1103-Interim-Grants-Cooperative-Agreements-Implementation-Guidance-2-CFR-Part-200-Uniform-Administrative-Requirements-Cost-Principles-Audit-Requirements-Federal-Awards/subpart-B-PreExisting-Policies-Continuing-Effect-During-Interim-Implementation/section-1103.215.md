@@ -1,0 +1,3 @@
+##### § 1103.215 Intangible property developed or produced under an award or subaward. #####
+
+In DoD Components' awards to institutions of higher education, hospitals, and other nonprofit organizations, the award terms and conditions implementing the guidance in 2 CFR 200.315(a) on intangible property must exclude intangible property developed or produced under an award or subaward. Doing so maintains long-standing policy established in 32 CFR 32.36(e).

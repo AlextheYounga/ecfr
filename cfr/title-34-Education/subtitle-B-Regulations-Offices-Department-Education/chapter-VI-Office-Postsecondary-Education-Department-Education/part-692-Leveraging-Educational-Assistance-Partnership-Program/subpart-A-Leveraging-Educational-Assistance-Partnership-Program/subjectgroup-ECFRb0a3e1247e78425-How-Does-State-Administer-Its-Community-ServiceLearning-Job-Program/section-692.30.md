@@ -1,5 +1,7 @@
 ##### § 692.30 How does a State administer its community service-learning job program? #####
 
+Link to an amendment published at 85 FR 49828, Aug. 14, 2020.
+
 (a)(1) Each year, a State may use up to 20 percent of its allotment for a community service-learning job program that satisfies the conditions set forth in paragraph (b) of this section.
 
 (2) A student who receives assistance under this section must receive compensation for work and not a grant.

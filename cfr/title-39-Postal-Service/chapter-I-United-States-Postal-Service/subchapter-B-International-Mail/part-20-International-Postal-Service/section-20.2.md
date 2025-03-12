@@ -1,5 +1,5 @@
 ##### § 20.2 Effective date of the International Mail Manual. #####
 
-The provisions of the *International Mail Manual* issued March 4, 2019, are applicable with respect to the international mail services of the Postal Service.
+The provisions of the *International Mail Manual* issued July 1, 2020, (incorporated by reference, see § 20.1) are applicable with respect to the international mail services of the Postal Service.
 
-[84 FR 24392, May 28, 2019]
+[85 FR 61608, Sept. 30, 2020]

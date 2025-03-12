@@ -1,5 +1,7 @@
 ##### § 690.75 Determination of eligibility for payment. #####
 
+Link to an amendment published at 85 FR 49828, Aug. 14, 2020.
+
 (a) For each payment period, an institution may pay a Federal Pell Grant to an eligible student only after it determines that the student -
 
 (1) Qualifies as an eligible student under 34 CFR Part 668, Subpart C;

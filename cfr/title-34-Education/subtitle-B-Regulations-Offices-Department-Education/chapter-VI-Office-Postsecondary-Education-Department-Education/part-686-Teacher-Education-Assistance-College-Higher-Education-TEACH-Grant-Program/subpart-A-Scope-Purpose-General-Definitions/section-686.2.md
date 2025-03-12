@@ -1,5 +1,7 @@
 ##### § 686.2 Definitions. #####
 
+Link to an amendment published at 85 FR 49821, Aug. 14, 2020.
+
 (a) Definitions for the following terms used in this part are in the regulations for Institutional Eligibility under the Higher Education Act of 1965, as amended, (HEA) 34 CFR part 600:
 
 Award yearClock hourCorrespondence courseCredit hourEligible institutionInstitution of higher education (institution)Regular studentSecretaryStateTitle IV, HEA program

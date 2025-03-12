@@ -1,5 +1,7 @@
 ##### § 686.43 Obligation to repay the grant. #####
 
+Link to an amendment published at 85 FR 49827, Aug. 14, 2020.
+
 (a) The TEACH Grant amounts disbursed to the recipient will be converted into a Federal Direct Unsubsidized Loan, with interest accruing from the date that each grant disbursement was made and be collected by the Secretary in accordance with the relevant provisions of subpart A of 34 CFR part 685 if -
 
 (1) The grant recipient, regardless of enrollment status, requests that the TEACH Grant be converted into a Federal Direct Unsubsidized Loan because he or she has decided not to teach in a qualified school or field or for any other reason;

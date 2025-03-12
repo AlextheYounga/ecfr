@@ -1,5 +1,7 @@
 ##### § 686.10 Application. #####
 
+Link to an amendment published at 85 FR 49822, Aug. 14, 2020.
+
 (a) To receive a grant under this part, a student must -
 
 (1) Complete and submit an approved signed application, as designated by the Secretary. A copy of this application is not acceptable;

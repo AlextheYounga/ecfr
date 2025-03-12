@@ -1,5 +1,7 @@
 ##### § 1500.16 Determination of Appeal. #####
 
+Link to an amendment published at 85 FR 61573, Sept. 30, 2020.Link to an amendment published at 85 FR 61575, Sept. 30, 2020.
+
 (a) *Record on Appeal.* In determining the merits of the Appeal, the DDO will consider the record related to the Agency Decision, any documentation that the Affected Entity submits with its Appeal, any additional documentation submitted by the Affected Entity in response to the DDO's request under § 1500.14(a), and any other information the DDO determines is relevant to the Appeal provided the DDO gives notice of that information to the Affected Entity. The Affected Entity may not on its own initiative submit any additional documents.
 
 (b) *Appeal decision.* The DDO will issue the Appeal decision within 180 calendar days from the date the Appeal is received by the DDO unless a longer period is necessary based on the complexity of the legal, technical and factual issues presented. The DDO will notify the Affected Entity if the expected decision will not be issued within the 180 day period and if feasible will indicate when the decision is expected to be issued. The Appeal decision will also identify the Review Official. The DDO will issue the Appeal decision electronically. The DDO's decision will constitute the final agency action unless the Affected Entity files a timely request for review in accordance with the Request for Review procedures in § 1500.17.

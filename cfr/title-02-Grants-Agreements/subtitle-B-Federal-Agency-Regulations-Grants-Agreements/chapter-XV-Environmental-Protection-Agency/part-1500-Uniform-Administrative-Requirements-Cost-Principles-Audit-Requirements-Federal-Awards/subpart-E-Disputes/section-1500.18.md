@@ -1,5 +1,7 @@
 ##### § 1500.18 Notice of receipt of request for review. #####
 
+Link to an amendment published at 85 FR 61573, Sept. 30, 2020.
+
 *Timeliness.* The Review Official will provide the Affected Entity electronic written notice acknowledging receipt of the review request within 15 calendar days of receiving the request. The Review Official will further provide a copy of the notice to the DDO.
 
 (a) If the request was submitted in accordance with § 1500.17, the notice of acknowledgment will also advise the Affected Entity that the Review Official expects to issue a decision within 45 calendar days from the date they received the request.

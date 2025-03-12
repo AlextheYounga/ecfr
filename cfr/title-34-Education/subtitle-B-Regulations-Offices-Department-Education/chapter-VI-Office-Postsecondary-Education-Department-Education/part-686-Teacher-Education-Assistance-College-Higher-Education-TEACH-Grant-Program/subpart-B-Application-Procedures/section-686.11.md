@@ -1,5 +1,7 @@
 ##### § 686.11 Eligibility to receive a grant. #####
 
+Link to an amendment published at 85 FR 49823, Aug. 14, 2020.
+
 (a) *Undergraduate, post-baccalaureate, and graduate students.* (1) Except as provided in paragraph (b) of this section, a student who meets the requirements of 34 CFR part 668, subpart C, is eligible to receive a TEACH Grant if the student -
 
 (i) Has submitted a completed application;

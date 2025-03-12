@@ -1,5 +1,7 @@
 ##### § 686.41 Periods of suspension. #####
 
+Link to an amendment published at 85 FR 49826, Aug. 14, 2020.
+
 (a)(1) A grant recipient who has completed or who has otherwise ceased enrollment in a TEACH Grant-eligible program for which he or she received TEACH Grant funds may request a suspension from the Secretary of the eight-year period for completion of the service obligation based on -
 
 (i) Enrollment in a program of study for which the recipient would be eligible for a TEACH Grant or in a program of study that has been determined by a State to satisfy the requirements for certification or licensure to teach in the State's elementary or secondary schools;

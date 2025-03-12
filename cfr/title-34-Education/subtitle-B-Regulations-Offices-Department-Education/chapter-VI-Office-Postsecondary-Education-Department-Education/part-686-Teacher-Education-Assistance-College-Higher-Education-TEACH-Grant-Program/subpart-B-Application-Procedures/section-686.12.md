@@ -1,5 +1,7 @@
 ##### § 686.12 Agreement to serve. #####
 
+Link to an amendment published at 85 FR 49823, Aug. 14, 2020.
+
 (a) *General.* A student who meets the eligibility requirements in § 686.11 may receive a TEACH Grant only after he or she signs an agreement to serve provided by the Secretary and receives counseling in accordance with § 686.32.
 
 (b) *Contents of the agreement to serve.* The agreement provides that, for each TEACH Grant-eligible program for which the student received TEACH Grant funds, the grant recipient must fulfill a service obligation by performing creditable teaching service by -

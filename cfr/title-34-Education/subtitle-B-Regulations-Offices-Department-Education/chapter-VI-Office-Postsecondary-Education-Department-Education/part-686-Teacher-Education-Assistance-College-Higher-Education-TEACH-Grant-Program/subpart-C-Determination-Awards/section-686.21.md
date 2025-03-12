@@ -1,5 +1,7 @@
 ##### § 686.21 Calculation of a grant. #####
 
+Link to an amendment published at 85 FR 49824, Aug. 14, 2020.
+
 (a)(1)(i) The Scheduled Award for a TEACH Grant for an eligible student is $4,000.
 
 (ii) Each Scheduled Award remains available to an eligible student until the $4,000 is disbursed.

@@ -1,5 +1,7 @@
 ##### § 694.6 Who may provide GEAR UP services to students attending private schools? #####
 
+Link to an amendment published at 85 FR 49828, Aug. 14, 2020.
+
 (a) GEAR UP services to students attending private schools must be provided -
 
 (1) By employees of a public agency; or

@@ -1,5 +1,7 @@
 ##### § 1500.12 Purpose and scope of this subpart. #####
 
+Link to an amendment published at 85 FR 61573, Sept. 30, 2020.
+
 (a) This section provides the process for the resolution of pre-award and post-award assistance agreement disputes as described in § 1500.13, except for:
 
 (1) Assistance agreement competition-related disputes; and

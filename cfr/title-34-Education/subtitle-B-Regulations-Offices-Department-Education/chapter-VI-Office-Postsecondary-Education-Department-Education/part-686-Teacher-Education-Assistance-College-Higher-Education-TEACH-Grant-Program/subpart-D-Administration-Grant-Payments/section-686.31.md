@@ -1,5 +1,7 @@
 ##### § 686.31 Determination of eligibility for payment and cancellation of a TEACH Grant. #####
 
+Link to an amendment published at 85 FR 49824, Aug. 14, 2020.
+
 (a) For each payment period, an institution may pay a grant under this part to an eligible student only after it determines that the student -
 
 (1) Is eligible under § 686.11;

@@ -1,5 +1,7 @@
 ##### § 682.301 Eligibility of borrowers for interest benefits on Stafford and Consolidation loans. #####
 
+Link to an amendment published at 85 FR 49821, Aug. 14, 2020.
+
 (a) *General.* (1) To qualify for benefits on a Stafford loan, a borrower must demonstrate financial need in accordance with Part F of the Act.
 
 (2) The Secretary considers a member of a religious order, group, community, society, agency, or other organization who is pursuing a course of study at an institution of higher education to have no financial need if that organization -

@@ -1,5 +1,7 @@
 ##### § 1500.13 Definitions. #####
 
+Link to an amendment published at 85 FR 61573, Sept. 30, 2020.Link to an amendment published at 85 FR 61574, Sept. 30, 2020.
+
 As used in this subpart:
 
 (a) *Action Official (AO)* is the EPA official who authors the Agency Decision to the Affected Entity regarding a pre-award or post-award matter.

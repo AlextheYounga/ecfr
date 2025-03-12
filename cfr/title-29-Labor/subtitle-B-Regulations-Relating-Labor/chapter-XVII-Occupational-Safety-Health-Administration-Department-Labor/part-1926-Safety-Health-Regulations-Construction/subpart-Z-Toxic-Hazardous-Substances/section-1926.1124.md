@@ -1,7 +1,5 @@
 ##### § 1926.1124 Beryllium. #####
 
-Link to an amendment published at 85 FR 53997, Aug. 31, 2020.
-
 (a) *Scope and application.* (1) This standard applies to occupational exposure to beryllium in all forms, compounds, and mixtures in construction, except those articles and materials exempted by paragraphs (a)(2) and (a)(3) of this standard.
 
 (2) This standard does not apply to articles, as defined in the Hazard Communication standard (HCS) (29 CFR 1910.1200(c)), that contain beryllium and that the employer does not process.
@@ -18,19 +16,17 @@ Link to an amendment published at 85 FR 53997, Aug. 31, 2020.
 
 *Beryllium lymphocyte proliferation test (BeLPT)* means the measurement of blood lymphocyte proliferation in a laboratory test when lymphocytes are challenged with a soluble beryllium salt.
 
-*CBD diagnostic center* means a medical diagnostic center that has an on-site pulmonary specialist and on-site facilities to perform a clinical evaluation for the presence of chronic beryllium disease (CBD). This evaluation must include pulmonary function testing (as outlined by the American Thoracic Society criteria), bronchoalveolar lavage (BAL), and transbronchial biopsy. The CBD diagnostic center must also have the capacity to transfer BAL samples to a laboratory for appropriate diagnostic testing within 24 hours. The on-site pulmonary specialist must be able to interpret the biopsy pathology and the BAL diagnostic test results.
+*Beryllium sensitization* means a response in the immune system of a specific individual who has been exposed to beryllium. There are no associated physical or clinical symptoms and no illness or disability with beryllium sensitization alone, but the response that occurs through beryllium sensitization can enable the immune system to recognize and react to beryllium. While not every beryllium-sensitized person will develop chronic beryllium disease (CBD), beryllium sensitization is essential for development of CBD.
 
-*Chronic beryllium disease (CBD)* means a chronic lung disease associated with airborne exposure to beryllium.
+*CBD diagnostic center* means a medical diagnostic center that has a pulmonologist or pulmonary specialist on staff and on-site facilities to perform a clinical evaluation for the presence of chronic beryllium disease (CBD). The CBD diagnostic center must have the capacity to perform pulmonary function testing (as outlined by the American Thoracic Society criteria), bronchoalveolar lavage (BAL), and transbronchial biopsy. The CBD diagnostic center must also have the capacity to transfer BAL samples to a laboratory for appropriate diagnostic testing within 24 hours. The pulmonologist or pulmonary specialist must be able to interpret the biopsy pathology and the BAL diagnostic test results.
+
+*Chronic beryllium disease (CBD)* means a chronic granulomatous lung disease caused by inhalation of airborne beryllium by an individual who is beryllium-sensitized.
 
 *Competent person* means an individual who is capable of identifying existing and foreseeable beryllium hazards in the workplace and who has authorization to take prompt corrective measures to eliminate or minimize them. The competent person must have the knowledge, ability, and authority necessary to fulfill the responsibilities set forth in paragraph (e) of this standard.
 
-*Confirmed positive* means the person tested has beryllium sensitization, as indicated by two abnormal BeLPT test results, an abnormal and a borderline test result, or three borderline test results. It also means the result of a more reliable and accurate test indicating a person has been identified as having beryllium sensitization.
+*Confirmed positive* means the person tested has had two abnormal BeLPT test results, an abnormal and a borderline test result, or three borderline test results from tests conducted within a 3-year period. It also means the result of a more reliable and accurate test indicating a person has been identified as having beryllium sensitization.
 
 *Director* means the Director of the National Institute for Occupational Safety and Health (NIOSH), U.S. Department of Health and Human Services, or designee.
-
-*Emergency* means any uncontrolled release of airborne beryllium.
-
-*High-efficiency particulate air (HEPA) filter* means a filter that is at least 99.97 percent efficient in removing particles 0.3 micrometers in diameter.
 
 *Objective data* means information, such as air monitoring data from industry-wide surveys or calculations based on the composition of a substance, demonstrating airborne exposure to beryllium associated with a particular product or material or a specific process, task, or activity. The data must reflect workplace conditions closely resembling or with a higher airborne exposure potential than the processes, types of material, control methods, work practices, and environmental conditions in the employer's current operations.
 
@@ -88,53 +84,29 @@ Link to an amendment published at 85 FR 53997, Aug. 31, 2020.
 
 (f) *Methods of compliance* - (1) *Written exposure control plan.* (i) The employer must establish, implement, and maintain a written exposure control plan, which must contain:
 
-(A) A list of operations and job titles reasonably expected to involve airborne exposure to or dermal contact with beryllium;
+(A) A list of operations and job titles reasonably expected to involve exposure to beryllium;
 
-(B) A list of operations and job titles reasonably expected to involve airborne exposure at or above the action level;
+(B) A list of engineering controls, work practices, and respiratory protection required by paragraph (f)(2) of this standard;
 
-(C) A list of operations and job titles reasonably expected to involve airborne exposure above the TWA PEL or STEL;
+(C) A list of personal protective clothing and equipment required by paragraph (h) of this standard;
 
-(D) Procedures for minimizing cross-contamination;
+(D) Procedures used to restrict access to work areas when airborne exposures are, or can reasonably be expected to be, above the TWA PEL or STEL, to minimize the number of employees exposed to airborne beryllium and their level of exposure, including exposures generated by other employers or sole proprietors;
 
-(E) Procedures for minimizing the migration of beryllium within or to locations outside the workplace;
+(E) Procedures used to ensure the integrity of each containment used to minimize exposures to employees outside the containment; and
 
-(F) A list of engineering controls, work practices, and respiratory protection required by paragraph (f)(2) of this standard;
-
-(G) A list of personal protective clothing and equipment required by paragraph (h) of this standard;
-
-(H) Procedures for removing, laundering, storing, cleaning, repairing, and disposing of beryllium-contaminated personal protective clothing and equipment, including respirators; and
-
-(I) Procedures used to restrict access to work areas when airborne exposures are, or can reasonably be expected to be, above the TWA PEL or STEL, to minimize the number of employees exposed to airborne beryllium and their level of exposure, including exposures generated by other employers or sole proprietors.
+(F) Procedures for removing, cleaning, and maintaining personal protective clothing and equipment in accordance with paragraph (h) of this standard.
 
 (ii) The employer must review and evaluate the effectiveness of each written exposure control plan at least annually and update it, as necessary, when:
 
 (A) Any change in production processes, materials, equipment, personnel, work practices, or control methods results, or can reasonably be expected to result, in new or additional airborne exposure to beryllium;
 
-(B) The employer is notified that an employee is eligible for medical removal in accordance with paragraph (l)(1) of this standard, referred for evaluation at a CBD diagnostic center, or shows signs or symptoms associated with airborne exposure to or dermal contact with beryllium; or
+(B) The employer is notified that an employee is eligible for medical removal in accordance with paragraph (l)(1) of this standard, referred for evaluation at a CBD diagnostic center, or shows signs or symptoms associated with exposure to beryllium; or
 
 (C) The employer has any reason to believe that new or additional airborne exposure is occurring or will occur.
 
 (iii) The employer must make a copy of the written exposure control plan accessible to each employee who is, or can reasonably be expected to be, exposed to airborne beryllium in accordance with OSHA's Access to Employee Exposure and Medical Records (Records Access) standard (29 CFR 1910.1020(e)).
 
-(2) *Engineering and work practice controls.* (i) Where exposures are, or can reasonably be expected to be, at or above the action level, the employer must ensure that at least one of the following is in place to reduce airborne exposure:
-
-(A) Material and/or process substitution;
-
-(B) Isolation, such as ventilated partial or full enclosures;
-
-(C) Local exhaust ventilation, such as at the points of operation, material handling, and transfer; or
-
-(D) Process control, such as wet methods and automation.
-
-(ii) An employer is exempt from using the controls listed in paragraph (f)(2)(i) of this standard to the extent that:
-
-(A) The employer can establish that such controls are not feasible; or
-
-(B) The employer can demonstrate that airborne exposure is below the action level, using no fewer than two representative personal breathing zone samples taken at least 7 days apart, for each affected operation.
-
-(iii) If airborne exposure exceeds the TWA PEL or STEL after implementing the control(s) required by paragraph (f)(2)(i) of this standard, the employer must implement additional or enhanced engineering and work practice controls to reduce airborne exposure to or below the exposure limit(s) exceeded.
-
-(iv) Wherever the employer demonstrates that it is not feasible to reduce airborne exposure to or below the PELs by the engineering and work practice controls required by paragraphs (f)(2)(i) and (f)(2)(iii), the employer must implement and maintain engineering and work practice controls to reduce airborne exposure to the lowest levels feasible and supplement these controls by using respiratory protection in accordance with paragraph (g) of this standard.
+(2) *Engineering and work practice controls.* The employer must use engineering and work practice controls to reduce and maintain employee airborne exposure to beryllium to or below the TWA PEL and STEL, unless the employer can demonstrate that such controls are not feasible. Wherever the employer demonstrates that it is not feasible to reduce airborne exposure to or below the PELs with engineering and work practice controls, the employer must implement and maintain engineering and work practice controls to reduce airborne exposure to the lowest levels feasible and supplement these controls by using respiratory protection in accordance with paragraph (g) of this standard.
 
 (3) *Prohibition of rotation.* The employer must not rotate employees to different jobs to achieve compliance with the PELs.
 
@@ -144,15 +116,13 @@ Link to an amendment published at 85 FR 53997, Aug. 31, 2020.
 
 (ii) During operations, including maintenance and repair activities and non-routine tasks, when engineering and work practice controls are not feasible and airborne exposure exceeds, or can reasonably be expected to exceed, the TWA PEL or STEL;
 
-(iii) During operations for which an employer has implemented all feasible engineering and work practice controls when such controls are not sufficient to reduce airborne exposure to or below the TWA PEL or STEL;
+(iii) During operations for which an employer has implemented all feasible engineering and work practice controls when such controls are not sufficient to reduce airborne exposure to or below the TWA PEL or STEL; and
 
-(iv) During emergencies; and
-
-(v) When an employee who is eligible for medical removal under paragraph (l)(1) chooses to remain in a job with airborne exposure at or above the action level, as permitted by paragraph (l)(2)(ii) of this standard.
+(iv) When an employee who is eligible for medical removal under paragraph (l)(1) chooses to remain in a job with airborne exposure at or above the action level, as permitted by paragraph (l)(2)(ii) of this standard.
 
 (2) *Respiratory protection program.* Where this standard requires an employer to provide respiratory protection, the selection and use of such respiratory protection must be in accordance with the Respiratory Protection standard (29 CFR 1910.134).
 
-(3) The employer must provide at no cost to the employee a powered air-purifying respirator (PAPR) instead of a negative pressure respirator when
+(3) The employer must provide at no cost to the employee a powered air-purifying respirator (PAPR) instead of a negative pressure respirator when:
 
 (i) Respiratory protection is required by this standard;
 
@@ -160,71 +130,37 @@ Link to an amendment published at 85 FR 53997, Aug. 31, 2020.
 
 (iii) The PAPR provides adequate protection to the employee in accordance with paragraph (g)(2) of this standard.
 
-(h) *Personal protective clothing and equipment* - (1) *Provision and use.* The employer must provide at no cost, and ensure that each employee uses, appropriate personal protective clothing and equipment in accordance with the written exposure control plan required under paragraph (f)(1) of this standard and OSHA's Personal Protective and Life Saving Equipment standards for construction (29 CFR part 1926 Subpart E):
+(h) *Personal protective clothing and equipment* - (1) *Provision and use.* Where airborne exposure exceeds, or can reasonably be expected to exceed, the TWA PEL or STEL, the employer must provide at no cost, and ensure that each employee uses, appropriate personal protective clothing and equipment in accordance with the written exposure control plan required under paragraph (f)(1) of this standard and OSHA's Personal Protective and Life Saving Equipment standards for construction (subpart E of this part).
 
-(i) Where airborne exposure exceeds, or can reasonably be expected to exceed, the TWA PEL or STEL; or
+(2) *Removal of personal protective clothing and equipment.* (i) The employer must ensure that each employee removes all personal protective clothing and equipment required by this standard at the end of the work shift or at the completion of all tasks involving beryllium, whichever comes first.
 
-(ii) Where there is a reasonable expectation of dermal contact with beryllium.
+(ii) The employer must ensure that personal protective clothing and equipment required by this standard is not removed in a manner that disperses beryllium into the air, and is removed as specified in the written exposure control plan required by paragraph (f)(1) of this standard.
 
-(2) *Removal and storage.* (i) The employer must ensure that each employee removes all beryllium-contaminated personal protective clothing and equipment at the end of the work shift, at the completion of tasks involving beryllium, or when personal protective clothing or equipment becomes visibly contaminated with beryllium, whichever comes first.
-
-(ii) The employer must ensure that each employee removes beryllium-contaminated personal protective clothing and equipment as specified in the written exposure control plan required by paragraph (f)(1) of this standard.
-
-(iii) The employer must ensure that each employee stores and keeps beryllium-contaminated personal protective clothing and equipment separate from street clothing and that storage facilities prevent cross-contamination as specified in the written exposure control plan required by paragraph (f)(1) of this standard.
-
-(iv) The employer must ensure that no employee removes beryllium-contaminated personal protective clothing or equipment from the workplace, except for employees authorized to do so for the purposes of laundering, cleaning, maintaining or disposing of beryllium-contaminated personal protective clothing and equipment at an appropriate location or facility away from the workplace.
-
-(v) When personal protective clothing or equipment required by this standard is removed from the workplace for laundering, cleaning, maintenance or disposal, the employer must ensure that personal protective clothing and equipment are stored and transported in sealed bags or other closed containers that are impermeable and are labeled in accordance with paragraph (m)(2) of this standard and the HCS (29 CFR 1910.1200).
+(iii) The employer must ensure that no employee with reasonably expected exposure above the TWA PEL or STEL removes personal protective clothing and equipment required by this standard from the workplace unless it has been cleaned in accordance with paragraph (h)(3)(ii) of this standard.
 
 (3) *Cleaning and replacement.* (i) The employer must ensure that all reusable personal protective clothing and equipment required by this standard is cleaned, laundered, repaired, and replaced as needed to maintain its effectiveness.
 
-(ii) The employer must ensure that beryllium is not removed from personal protective clothing and equipment by blowing, shaking or any other means that disperses beryllium into the air.
+(ii) The employer must ensure that beryllium is not removed from personal protective clothing and equipment required by this standard by blowing, shaking, or any other means that disperses beryllium into the air.
 
-(iii) The employer must inform in writing the persons or the business entities who launder, clean or repair the personal protective clothing or equipment required by this standard of the potentially harmful effects of airborne exposure to and dermal contact with beryllium and that the personal protective clothing and equipment must be handled in accordance with this standard.
+(i) [Reserved]
 
-(i) *Hygiene areas and practices* - (1) *General.* For each employee required to use personal protective clothing or equipment by this standard, the employer must:
+(j) *Housekeeping.* (1) When cleaning up dust resulting from operations that cause, or can reasonably be expected to cause, airborne exposure above the TWA PEL or STEL, the employer must ensure the use of methods that minimize the likelihood and level of airborne exposure.
 
-(i) Provide readily accessible washing facilities in accordance with this standard and the Sanitation standard (§ 1926.51) to remove beryllium from the hands, face, and neck; and
+(2) The employer must not allow dry sweeping or brushing for cleaning up dust resulting from operations that cause, or can reasonably be expected to cause, airborne exposure above the TWA PEL or STEL unless methods that minimize the likelihood and level of airborne exposure are not safe or effective.
 
-(ii) Ensure that employees who have dermal contact with beryllium wash any exposed skin at the end of the activity, process, or work shift and prior to eating, drinking, smoking, chewing tobacco or gum, applying cosmetics, or using the toilet.
+(3) The employer must not allow the use of compressed air for cleaning where the use of compressed air causes, or can reasonably be expected to cause, airborne exposure above the TWA PEL or STEL.
 
-(2) *Change rooms.* In addition to the requirements of paragraph (i)(1)(i) of this standard, the employer must provide employees required to use personal protective clothing by this standard with a designated change room in accordance with this standard and the Sanitation standard (§ 1926.51) where employees are required to remove their personal clothing.
+(4) Where employees use dry sweeping, brushing, or compressed air to clean, the employer must provide, and ensure that each employee uses, respiratory protection and personal protective clothing and equipment in accordance with paragraphs (g) and (h) of this standard.
 
-(3) *Eating and drinking areas.* Wherever the employer allows employees to consume food or beverages at a worksite where beryllium is present, the employer must ensure that:
-
-(i) Surfaces in eating and drinking areas are as free as practicable of beryllium;
-
-(ii) No employees enter any eating or drinking area with personal protective clothing or equipment unless, prior to entry, surface beryllium has been removed from the clothing or equipment by methods that do not disperse beryllium into the air or onto an employee's body; and
-
-(iii) Eating and drinking facilities provided by the employer are in accordance with the Sanitation standard (§ 1926.51).
-
-(4) *Prohibited activities.* The employer must ensure that no employees eat, drink, smoke, chew tobacco or gum, or apply cosmetics in work areas where there is a reasonable expectation of exposure above the TWA PEL or STEL.
-
-(j) *Housekeeping* - (1) *General.* (i) When cleaning beryllium-contaminated areas, the employer must follow the written exposure control plan required under paragraph (f)(1) of this standard;
-
-(ii) The employer must ensure that all spills and emergency releases of beryllium are cleaned up promptly and in accordance with the written exposure control plan required under paragraph (f)(1) of this standard.
-
-(2) *Cleaning methods.* (i) When cleaning beryllium-contaminated areas, the employer must ensure the use of HEPA-filtered vacuuming or other methods that minimize the likelihood and level of airborne exposure.
-
-(ii) The employer must not allow dry sweeping or brushing for cleaning in beryllium-contaminated areas unless HEPA-filtered vacuuming or other methods that minimize the likelihood and level of airborne exposure are not safe or effective.
-
-(iii) The employer must not allow the use of compressed air for cleaning in beryllium-contaminated areas unless the compressed air is used in conjunction with a ventilation system designed to capture the particulates made airborne by the use of compressed air.
-
-(iv) Where employees use dry sweeping, brushing, or compressed air to clean in beryllium-contaminated areas, the employer must provide, and ensure that each employee uses, respiratory protection and personal protective clothing and equipment in accordance with paragraphs (g) and (h) of this standard.
-
-(v) The employer must ensure that cleaning equipment is handled and maintained in a manner that minimizes the likelihood and level of airborne exposure and the re-entrainment of airborne beryllium in the workplace.
-
-(3) *Disposal.* When the employer transfers materials containing beryllium to another party for use or disposal, the employer must provide the recipient with a copy of the warning described in paragraph (m)(2) of this standard.
+(5) The employer must ensure that cleaning equipment is handled and maintained in a manner that minimizes the likelihood and level of airborne exposure and the re-entrainment of airborne beryllium in the workplace.
 
 (k) *Medical surveillance* - (1) *General.* (i) The employer must make medical surveillance required by this paragraph available at no cost to the employee, and at a reasonable time and place, to each employee:
 
 (A) Who is or is reasonably expected to be exposed at or above the action level for more than 30 days per year;
 
-(B) Who shows signs or symptoms of CBD or other beryllium-related health effects;
+(B) Who shows signs or symptoms of CBD or other beryllium-related health effects; or
 
-(C) Who is exposed to beryllium during an emergency; or
-
-(D) Whose most recent written medical opinion required by paragraph (k)(6) or (k)(7) recommends periodic medical surveillance.
+(C) Whose most recent written medical opinion required by paragraph (k)(6) or (k)(7) recommends periodic medical surveillance.
 
 (ii) The employer must ensure that all medical examinations and procedures required by this standard are performed by, or under the direction of, a licensed physician.
 
@@ -234,9 +170,9 @@ Link to an amendment published at 85 FR 53997, Aug. 31, 2020.
 
 (A) An employee meets the criteria of paragraph (k)(1)(i)(A), unless the employee has received a medical examination, provided in accordance with this standard, within the last two years; or
 
-(B) An employee meets the criteria of paragraph (k)(1)(i)(B) or (C).
+(B) An employee meets the criteria of paragraph (k)(1)(i)(B) of this standard.
 
-(ii) At least every two years thereafter for each employee who continues to meet the criteria of paragraph (k)(1)(i)(A), (B), or (D) of this standard.
+(ii) At least every two years thereafter for each employee who continues to meet the criteria of paragraph (k)(1)(i)(A), (B), or (C) of this standard.
 
 (iii) At the termination of employment for each employee who meets any of the criteria of paragraph (k)(1)(i) of this standard at the time the employee's employment terminates, unless an examination has been provided in accordance with this standard during the six months prior to the date of termination.
 
@@ -244,7 +180,7 @@ Link to an amendment published at 85 FR 53997, Aug. 31, 2020.
 
 (ii) The employer must ensure that the employee is offered a medical examination that includes:
 
-(A) A medical and work history, with emphasis on past and present airborne exposure to or dermal contact with beryllium, smoking history, and any history of respiratory system dysfunction;
+(A) A medical and work history, with emphasis on past and present exposure to beryllium, smoking history, and any history of respiratory system dysfunction;
 
 (B) A physical examination with emphasis on the respiratory system;
 
@@ -260,7 +196,7 @@ Link to an amendment published at 85 FR 53997, Aug. 31, 2020.
 
 (4) *Information provided to the PLHCP.* The employer must ensure that the examining PLHCP (and the agreed-upon CBD diagnostic center, if an evaluation is required under paragraph (k)(7) of this standard) has a copy of this standard and must provide the following information, if known:
 
-(i) A description of the employee's former and current duties that relate to the employee's airborne exposure to and dermal contact with beryllium;
+(i) A description of the employee's former and current duties that relate to the employee's exposure to beryllium;
 
 (ii) The employee's former and current levels of airborne exposure;
 
@@ -270,7 +206,7 @@ Link to an amendment published at 85 FR 53997, Aug. 31, 2020.
 
 (5) *Licensed physician's written medical report for the employee.* The employer must ensure that the employee receives a written medical report from the licensed physician within 45 days of the examination (including any follow-up BeLPT required under paragraph (k)(3)(ii)(E) of this standard) and that the PLHCP explains the results of the examination to the employee. The written medical report must contain:
 
-(i) A statement indicating the results of the medical examination, including the licensed physician's opinion as to whether the employee has
+(i) A statement indicating the results of the medical examination, including the licensed physician's opinion as to whether the employee has:
 
 (A) Any detected medical condition, such as CBD or beryllium sensitization (*i.e.,* the employee is confirmed positive, as defined in paragraph (b) of this standard), that may place the employee at increased risk from further airborne exposure, and
 
@@ -308,19 +244,21 @@ Link to an amendment published at 85 FR 53997, Aug. 31, 2020.
 
 (vi) The employer must ensure that each employee receives a copy of the written medical opinion described in paragraph (k)(6) of this standard within 45 days of any medical examination (including any follow-up BeLPT required under paragraph (k)(3)(ii)(E) of this standard) performed for that employee.
 
-(7) *CBD diagnostic center.* (i) The employer must provide an evaluation at no cost to the employee at a CBD diagnostic center that is mutually agreed upon by the employer and the employee. The examination must be provided within 30 days of:
+(7) *CBD diagnostic center.* (i) The employer must provide an evaluation at no cost to the employee at a CBD diagnostic center that is mutually agreed upon by the employer and the employee. The evaluation at the CBD diagnostic center must be scheduled within 30 days, and must occur within a reasonable time, of:
 
 (A) The employer's receipt of a physician's written medical opinion to the employer that recommends referral to a CBD diagnostic center; or
 
 (B) The employee presenting to the employer a physician's written medical report indicating that the employee has been confirmed positive or diagnosed with CBD, or recommending referral to a CBD diagnostic center.
 
-(ii) The employer must ensure that the employee receives a written medical report from the CBD diagnostic center that contains all the information required in paragraphs (k)(5)(i), (ii), (iv), and (v) of this standard and that the PLHCP explains the results of the examination to the employee within 30 days of the examination.
+(ii) The evaluation must include any tests deemed appropriate by the examining physician at the CBD diagnostic center, such as pulmonary function testing (as outlined by the American Thoracic Society criteria), bronchoalveolar lavage (BAL), and transbronchial biopsy. If any of the tests deemed appropriate by the examining physician are not available at the CBD diagnostic center, they may be performed at another location that is mutually agreed upon by the employer and the employee.
 
-(iii) The employer must obtain a written medical opinion from the CBD diagnostic center within 30 days of the medical examination. The written medical opinion must contain only the information in paragraph (k)(6)(i) of this standard, as applicable, unless the employee provides written authorization to release additional information. If the employee provides written authorization, the written opinion must also contain the information from paragraphs (k)(6)(ii), (iv), and (v), if applicable.
+(iii) The employer must ensure that the employee receives a written medical report from the CBD diagnostic center that contains all the information required in paragraphs (k)(5)(i), (ii), (iv), and (v) of this standard and that the PLHCP explains the results of the examination to the employee within 30 days of the examination.
 
-(iv) The employer must ensure that each employee receives a copy of the written medical opinion from the CBD diagnostic center described in paragraph (k)(7) of this standard within 30 days of any medical examination performed for that employee.
+(iv) The employer must obtain a written medical opinion from the CBD diagnostic center within 30 days of the medical examination. The written medical opinion must contain only the information in paragraph (k)(6)(i) of this standard, as applicable, unless the employee provides written authorization to release additional information. If the employee provides written authorization, the written opinion must also contain the information from paragraphs (k)(6)(ii), (iv), and (v), if applicable.
 
-(v) After an employee has received the initial clinical evaluation at a CBD diagnostic center described in paragraph (k)(7)(i) of this standard, the employee may choose to have any subsequent medical examinations for which the employee is eligible under paragraph (k) of this standard performed at a CBD diagnostic center mutually agreed upon by the employer and the employee, and the employer must provide such examinations at no cost to the employee.
+(v) The employer must ensure that each employee receives a copy of the written medical opinion from the CBD diagnostic center described in paragraph (k)(7) of this standard within 30 days of any medical examination performed for that employee.
+
+(vi) After an employee has received the initial clinical evaluation at a CBD diagnostic center described in paragraph (k)(7)(i) of this standard, the employee may choose to have any subsequent medical examinations for which the employee is eligible under paragraph (k) of this standard performed at a CBD diagnostic center mutually agreed upon by the employer and the employee, and the employer must provide such examinations at no cost to the employee.
 
 (l) *Medical removal.* (1) An employee is eligible for medical removal, if the employee works in a job with airborne exposure at or above the action level and either:
 
@@ -350,11 +288,7 @@ Link to an amendment published at 85 FR 53997, Aug. 31, 2020.
 
 (ii) Employers must include beryllium in the hazard communication program established to comply with the HCS. Employers must ensure that each employee has access to labels on containers of beryllium and to safety data sheets, and is trained in accordance with the requirements of the HCS (29 CFR 1910.1200) and paragraph (m)(4) of this standard.
 
-(2) *Warning labels.* Consistent with the HCS (29 CFR 1910.1200), the employer must label each bag and container of clothing, equipment, and materials contaminated with beryllium, and must, at a minimum, include the following on the label:
-
-DANGERCONTAINS BERYLLIUMMAY CAUSE CANCERCAUSES DAMAGE TO LUNGSAVOID CREATING DUSTDO NOT GET ON SKIN
-
-(3) *Employee information and training.* (i) For each employee who has, or can reasonably be expected to have, airborne exposure to or dermal contact with beryllium:
+(2) *Employee information and training.* (i) For each employee who has, or can reasonably be expected to have, airborne exposure to beryllium:
 
 (A) The employer must provide information and training in accordance with the HCS (29 CFR 1910.1200(h));
 
@@ -364,27 +298,25 @@ DANGERCONTAINS BERYLLIUMMAY CAUSE CANCERCAUSES DAMAGE TO LUNGSAVOID CREATING DUS
 
 (ii) The employer must ensure that each employee who is, or can reasonably be expected to be, exposed to airborne beryllium can demonstrate knowledge and understanding of the following:
 
-(A) The health hazards associated with airborne exposure to and dermal contact with beryllium, including the signs and symptoms of CBD;
+(A) The health hazards associated with exposure to beryllium, including the signs and symptoms of CBD;
 
 (B) The written exposure control plan, with emphasis on the specific nature of operations that could result in airborne exposure, especially airborne exposure above the TWA PEL or STEL;
 
 (C) The purpose, proper selection, fitting, proper use, and limitations of personal protective clothing and equipment, including respirators;
 
-(D) Applicable emergency procedures;
+(D) Measures employees can take to protect themselves from exposure to beryllium;
 
-(E) Measures employees can take to protect themselves from airborne exposure to and dermal contact with beryllium, including personal hygiene practices;
+(E) The purpose and a description of the medical surveillance program required by paragraph (k) of this standard including risks and benefits of each test to be offered;
 
-(F) The purpose and a description of the medical surveillance program required by paragraph (k) of this standard including risks and benefits of each test to be offered;
+(F) The purpose and a description of the medical removal protection provided under paragraph (l) of this standard;
 
-(G) The purpose and a description of the medical removal protection provided under paragraph (l) of this standard;
+(G) The contents of the standard; and
 
-(H) The contents of the standard; and
-
-(I) The employee's right of access to records under the Records Access standard (29 CFR 1910.1020).
+(H) The employee's right of access to records under the Records Access standard (29 CFR 1910.1020).
 
 (iii) When a workplace change (such as modification of equipment, tasks, or procedures) results in new or increased airborne exposure that exceeds, or can reasonably be expected to exceed, either the TWA PEL or the STEL, the employer must provide additional training to those employees affected by the change in airborne exposure.
 
-(iv) *Employee information.* The employer must make a copy of this standard and its appendices readily available at no cost to each employee and designated employee representative(s).
+(iv) The employer must make a copy of this standard and its appendices readily available at no cost to each employee and designated employee representative(s).
 
 (n) *Recordkeeping* - (1) *Air monitoring data.* (i) The employer must make and maintain a record of all exposure measurements taken to assess airborne exposure as prescribed in paragraph (d) of this standard.
 
@@ -400,7 +332,7 @@ DANGERCONTAINS BERYLLIUMMAY CAUSE CANCERCAUSES DAMAGE TO LUNGSAVOID CREATING DUS
 
 (E) The type of personal protective clothing and equipment, including respirators, worn by monitored employees at the time of monitoring; and
 
-(F) The name, social security number, and job classification of each employee represented by the monitoring, indicating which employees were actually monitored.
+(F) The name and job classification of each employee represented by the monitoring, indicating which employees were actually monitored.
 
 (iii) The employer must ensure that exposure records are maintained and made available in accordance with the Records Access standard (29 CFR 1910.1020).
 
@@ -424,7 +356,7 @@ DANGERCONTAINS BERYLLIUMMAY CAUSE CANCERCAUSES DAMAGE TO LUNGSAVOID CREATING DUS
 
 (ii) The record must include the following information about each employee:
 
-(A) Name, social security number, and job classification;
+(A) Name and job classification;
 
 (B) A copy of all licensed physicians' written medical opinions for each employee; and
 
@@ -432,7 +364,7 @@ DANGERCONTAINS BERYLLIUMMAY CAUSE CANCERCAUSES DAMAGE TO LUNGSAVOID CREATING DUS
 
 (iii) The employer must ensure that medical records are maintained and made available in accordance with the Records Access standard (29 CFR 1910.1020).
 
-(4) *Training.* (i) At the completion of any training required by this standard, the employer must prepare a record that indicates the name, social security number, and job classification of each employee trained, the date the training was completed, and the topic of the training.
+(4) *Training.* (i) At the completion of any training required by this standard, the employer must prepare a record that indicates the name and job classification of each employee trained, the date the training was completed, and the topic of the training.
 
 (ii) This record must be maintained for three years after the completion of training.
 
@@ -446,4 +378,4 @@ DANGERCONTAINS BERYLLIUMMAY CAUSE CANCERCAUSES DAMAGE TO LUNGSAVOID CREATING DUS
 
 (ii) All other obligations of this standard commence and become enforceable on September 30, 2020.
 
-[82 FR 2751, Jan. 9, 2017, as amended at 84 FR 51400, Sept. 30, 2019]
+[82 FR 2751, Jan. 9, 2017, as amended at 84 FR 51400, Sept. 30, 2019; 85 FR 53997, Aug. 31, 2020]

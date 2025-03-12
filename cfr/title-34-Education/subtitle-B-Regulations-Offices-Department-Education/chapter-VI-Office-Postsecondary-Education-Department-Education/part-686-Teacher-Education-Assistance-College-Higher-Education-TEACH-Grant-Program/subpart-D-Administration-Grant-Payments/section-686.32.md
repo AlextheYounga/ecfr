@@ -1,5 +1,7 @@
 ##### § 686.32 Counseling requirements. #####
 
+Link to an amendment published at 85 FR 49824, Aug. 14, 2020.
+
 (a) *Initial counseling.* (1) An institution must ensure that initial counseling is conducted with each TEACH Grant recipient prior to making the first disbursement of the grant.
 
 (2) The initial counseling must be in person, by audiovisual presentation, or by interactive electronic means. In each case, the institution must ensure that an individual with expertise in title IV, HEA programs is reasonably available shortly after the counseling to answer the student's questions. As an alternative, in the case of a student enrolled in a correspondence program of study or a study-abroad program of study approved for credit at the home institution, the student may be provided with written counseling materials before the grant is disbursed.

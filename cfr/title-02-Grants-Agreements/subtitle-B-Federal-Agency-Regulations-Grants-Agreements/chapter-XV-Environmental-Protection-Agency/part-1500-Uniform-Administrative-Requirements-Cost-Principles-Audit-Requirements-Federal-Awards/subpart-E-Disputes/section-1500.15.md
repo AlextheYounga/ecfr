@@ -1,5 +1,7 @@
 ##### § 1500.15 Notice of receipt of Appeal to Affected Entity. #####
 
+Link to an amendment published at 85 FR 61573, Sept. 30, 2020.Link to an amendment published at 85 FR 61575, Sept. 30, 2020.
+
 Within 15 calendar days of receiving the Appeal, the DDO will provide the Affected Entity a written notice, sent electronically, acknowledging receipt of the Appeal.
 
 (a) *Timely Appeals.* If the Appeal was timely submitted, the notice of acknowledgement may identify any additional information or documentation that is required for a thorough consideration of the Appeal. The notice should provide no more than 30 calendar days for the Affected Entity to provide the requested information. If it is not feasible to identify such information or documentation in the notice the DDO may request it at a later point in time prior to Appeal resolution.

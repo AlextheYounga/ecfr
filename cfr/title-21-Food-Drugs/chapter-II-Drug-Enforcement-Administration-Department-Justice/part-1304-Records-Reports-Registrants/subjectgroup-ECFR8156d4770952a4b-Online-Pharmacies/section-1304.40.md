@@ -1,5 +1,7 @@
 ##### § 1304.40 Notification by online pharmacies. #####
 
+Link to an amendment published at 85 FR 61601, Sept. 30, 2020.
+
 (a) Thirty days prior to offering a controlled substance for sale, delivery, distribution, or dispensing by means of the Internet, an online pharmacy shall:
 
 (1) Notify the Administrator of its intent to do so by submitting an application for a modified registration in accordance with §§ 1301.13 and 1301.19 of this chapter, with such application containing the information required by this section; and

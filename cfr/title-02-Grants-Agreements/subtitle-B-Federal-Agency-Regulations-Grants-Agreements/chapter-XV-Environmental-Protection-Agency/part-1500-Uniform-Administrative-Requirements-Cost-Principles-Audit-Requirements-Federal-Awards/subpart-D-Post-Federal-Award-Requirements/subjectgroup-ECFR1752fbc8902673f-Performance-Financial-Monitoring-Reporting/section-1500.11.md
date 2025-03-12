@@ -1,5 +1,7 @@
 ##### § 1500.11 Quality Assurance. #####
 
+Link to an amendment published at 85 FR 61573, Sept. 30, 2020.
+
 (a) Quality assurance applies to all assistance agreements that involve environmentally related data operations, including environmental data collection, production or use.
 
 (b) Recipients shall develop a written quality assurance system commensurate with the degree of confidence needed for the environmentally related data operations.

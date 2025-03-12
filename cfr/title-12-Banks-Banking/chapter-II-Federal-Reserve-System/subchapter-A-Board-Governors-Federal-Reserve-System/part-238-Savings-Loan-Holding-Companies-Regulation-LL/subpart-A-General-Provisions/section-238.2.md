@@ -1,7 +1,5 @@
 ##### § 238.2 Definitions. #####
 
-Link to an amendment published at 85 FR 12426, Mar. 2, 2020.Link to a correction published at 85 FR 14772, Mar. 16, 2020.This amendment was delayed until Sept. 30, 2020, at 85 FR 18427, Apr. 2, 2020.
-
 As used in this part and in the forms under this part, the following definitions apply, unless the context otherwise requires:
 
 (a) *Affiliate* means any person or company which controls, is controlled by or is under common control with a person, savings association or company.
@@ -28,9 +26,21 @@ As used in this part and in the forms under this part, the following definitions
 
 (2) Any other company if the person directly or indirectly or acting in concert with one or more other persons, or through one or more subsidiaries, owns, controls, or holds with power to vote, or holds proxies representing, more than 25 percent of the voting shares or rights of such other company, or controls in any manner the election or appointment of a majority of the directors or trustees of such other company, or is a general partner in or has contributed more than 25 percent of the capital of such other company;
 
-(3) A trust if the person is a trustee thereof; or
+(3) A trust if the person is a trustee thereof;
 
-(4) A savings association or any other company if the Board determines, after reasonable notice and opportunity for hearing, that such person directly or indirectly exercises a controlling influence over the management or policies of such association or other company.
+(4) A company if the Board determines, after reasonable notice and opportunity for hearing, that such person directly or indirectly exercises a controlling influence over the management or policies of such association or other company; or
+
+(5) Voting securities or assets owned, controlled, or held, directly or indirectly:
+
+(i) By the company, or by any subsidiary of the company;
+
+(ii) That the company has power to vote or to dispose of;
+
+(iii) In a fiduciary capacity for the benefit of the company or any of its subsidiaries;
+
+(iv) In a fiduciary capacity (including by pension and profit-sharing trusts) for the benefit of the shareholders, members, or employees (or individuals serving in similar capacities) of the company or any of its subsidiaries; or
+
+(v) According to the standards under § 238.9 of this part.
 
 (f) *Director* means any director of a corporation or any individual who performs similar functions in respect of any company, including a trustee under a trust.
 
@@ -62,7 +72,7 @@ As used in this part and in the forms under this part, the following definitions
 
 (5) A company described in section 10(c)(9)(C) of HOLA solely by virtue of such company's control of an intermediate holding company established under section 10A of the Home Owners' Loan Act.
 
-(n) *Shareholder* - (1) *Controlling shareholder* means a person that owns or control, directly or indirectly, more than 25 percent of any class of voting securities of a savings association or other company.
+(n) *Shareholder*—(1) *Controlling shareholder* means a person that owns or control, directly or indirectly, more than 25 percent of any class of voting securities of a savings association or other company.
 
 (2) *Principal shareholder* means a person that owns or controls, directly or indirectly, 10 percent or more of any class of voting securities of a savings association or other company, or any person that the Board determines has the power, directly or indirectly, to exercise a controlling influence over the management or policies of a savings association or other company.
 
@@ -78,13 +88,13 @@ As used in this part and in the forms under this part, the following definitions
 
 (ii) To vote on or to direct the conduct of the operations or other significant policies of the issuing company.
 
-(2) *Nonvoting shares.* Preferred shares, limited partnership shares or interests, or similar interests are not *voting securities* if:
+(2) *Nonvoting securities.* Common shares, preferred shares, limited partnership interests, limited liability company interests, or similar interests are not *voting securities* if:
 
-(i) Any voting rights associated with the shares or interest are limited solely to the type customarily provided by statute with regard to matters that would significantly and adversely affect the rights or preference of the security or other interest, such as the issuance of additional amounts or classes of senior securities, the modification of the terms of the security or interest, the dissolution of the issuing company, or the payment of dividends by the issuing company when preferred dividends are in arrears;
+(i) Any voting rights associated with the securities are limited solely to the type customarily provided by statute with regard to matters that would significantly and adversely affect the rights or preference of the security, such as the issuance of additional amounts or classes of senior securities, the modification of the terms of the security, the dissolution of the issuing company, or the payment of dividends by the issuing company when preferred dividends are in arrears;
 
-(ii) The shares or interest represent an essentially passive investment or financing device and do not otherwise provide the holder with control over the issuing company; and
+(ii) The securities represent an essentially passive investment or financing device and do not otherwise provide the holder with control over the issuing company; and
 
-(iii) The shares or interest do not entitle the holder, by statute, charter, or in any manner, to select or to vote for the selection of directors, trustees, or partners (or persons exercising similar functions) of the issuing company.
+(iii) The securities do not entitle the holder, by statute, charter, or in any manner, to select or to vote for the selection of directors, trustees, or partners (or persons exercising similar functions) of the issuing company; except that limited partnership interests or membership interests in limited liability companies are not voting securities due to voting rights that are limited solely to voting for the removal of a general partner or managing member (or persons exercising similar functions at the company) for cause, to replace a general partner or managing member (or persons exercising similar functions at the company) due to incapacitation or following the removal of such person, or to continue or dissolve the company after removal of the general partner or managing member (or persons exercising similar functions at the company).
 
 (3) *Class of voting shares.* Shares of stock issued by a single issuer are deemed to be the same class of voting shares, regardless of differences in dividend rights or liquidation preference, if the shares are voted together as a single class on all matters for which the shares have voting rights other than matters described in paragraph (r)(2)(i) of this section that affect solely the rights or preferences of the shares.
 
@@ -168,4 +178,10 @@ As used in this part and in the forms under this part, the following definitions
 
 (ss) *Weighted short-term wholesale funding* is equal to the weighted short-term wholesale funding of a banking organization, as reported on the FR Y-15.
 
-[Reg. LL, 76 FR 56532, Sept. 13, 2011, as amended at 84 FR 59076, Nov. 1, 2019]
+(tt) *Voting percentage.* For purposes of this part, the percentage of a class of a company's voting securities controlled by a person is the greater of:
+
+(1) The quotient, expressed as a percentage, of the number of shares of the class of voting securities controlled by the person, divided by the number of shares of the class of voting securities that are issued and outstanding, both as adjusted by § 238.9 of this part; and
+
+(2) The quotient, expressed as a percentage, of the number of votes that may be cast by the person on the voting securities controlled by the person, divided by the total votes that are legally entitled to be cast by the issued and outstanding shares of the class of voting securities, both as adjusted by § 238.9 of this part.
+
+[Reg. LL, 76 FR 56532, Sept. 13, 2011, as amended at 84 FR 59076, Nov. 1, 2019; 85 FR 12426, Mar. 2, 2020]

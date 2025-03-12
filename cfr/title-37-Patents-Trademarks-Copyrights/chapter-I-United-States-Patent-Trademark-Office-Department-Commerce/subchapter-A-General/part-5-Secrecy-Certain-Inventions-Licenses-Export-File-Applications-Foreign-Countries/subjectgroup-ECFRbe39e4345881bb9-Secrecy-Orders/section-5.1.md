@@ -4,7 +4,7 @@
 
 (b) *Definitions.* (1) Application as used in this part includes provisional applications (§ 1.9(a)(2) of this chapter), nonprovisional applications (§ 1.9(a)(3)), international applications (§ 1.9(b)), or international design applications (§ 1.9(n)).
 
-(2) Foreign application as used in this part includes, for filing in a foreign country, foreign patent office, foreign patent agency, or international agency (other than the United States Patent and Trademark Office acting as a Receiving Office for international applications (35 U.S.C. 361, § 1.412) or as an office of indirect filing for international design applications (35 U.S.C. 382, § 1.1002)) any of the following: An application for patent, international application, international design application, or application for the registration of a utility model, industrial design, or model.
+(2) Foreign application as used in this part includes, for filing in a foreign country or in a foreign or international intellectual property authority (other than the United States Patent and Trademark Office acting as a Receiving Office for international applications (35 U.S.C. 361, 37 CFR 1.412) or as an office of indirect filing for international design applications (35 U.S.C. 382, 37 CFR 1.1002)) any of the following: An application for patent; international application; international design application; or application for the registration of a utility model, industrial design, or model.
 
 (c) Patent applications and documents relating thereto that are national security classified (see § 1.9(i) of this chapter) and contain authorized national security markings (e.g., “Confidential,” “Secret” or “Top Secret”) are accepted by the Office. National security classified documents filed in the Office must be either hand-carried to Licensing and Review or mailed to the Office in compliance with paragraph (a) of this section.
 
@@ -14,4 +14,4 @@
 
 (f) Applications on inventions made outside the United States and on inventions in which a U.S. Government defense agency has a property interest will not be made available to defense agencies.
 
-[65 FR 54682, Sept. 8, 2000, as amended at 65 FR 57060, Sept. 20, 2000; 68 FR 14338, Mar. 25, 2003; 69 FR 29880, May 26, 2004; 80 FR 17969, Apr. 2, 2015]
+[65 FR 54682, Sept. 8, 2000, as amended at 65 FR 57060, Sept. 20, 2000; 68 FR 14338, Mar. 25, 2003; 69 FR 29880, May 26, 2004; 80 FR 17969, Apr. 2, 2015; 85 FR 61607, Sept. 30, 2020]

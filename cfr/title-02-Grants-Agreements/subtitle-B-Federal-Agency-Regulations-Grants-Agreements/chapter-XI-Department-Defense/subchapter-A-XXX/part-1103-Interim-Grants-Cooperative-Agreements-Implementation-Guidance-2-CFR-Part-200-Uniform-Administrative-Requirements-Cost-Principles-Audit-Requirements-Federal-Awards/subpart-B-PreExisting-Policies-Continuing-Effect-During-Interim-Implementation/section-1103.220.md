@@ -1,0 +1,3 @@
+##### § 1103.220 Debarment and suspension requirements related to recipients' procurements. #####
+
+In award terms and conditions implementing the guidance in 2 CFR 200.318(h) on awarding contracts only to responsible entities, DoD Components must require recipients to comply with DoD's implementation in 2 CFR part 1125 of OMB guidance on nonprocurement debarment and suspension (2 CFR part 180). Doing so maintains long-standing policy established in 2 CFR parts 180 and 1125 and in 32 CFR 32.44(d), as well as compliance with Executive Orders 12549 and 12689.

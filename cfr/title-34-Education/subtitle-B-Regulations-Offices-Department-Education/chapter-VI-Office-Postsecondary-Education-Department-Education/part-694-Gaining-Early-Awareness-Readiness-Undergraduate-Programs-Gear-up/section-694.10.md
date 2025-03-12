@@ -1,5 +1,7 @@
 ##### § 694.10 What are the requirements that a Partnership must meet in designating a fiscal agent for its project under this program? #####
 
+Link to an amendment published at 85 FR 49828, Aug. 14, 2020.
+
 Although any member of a Partnership may organize the project, a Partnership must designate as the fiscal agent for its project under GEAR UP -
 
 (a) A local educational agency; or

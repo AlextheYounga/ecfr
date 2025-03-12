@@ -1,5 +1,7 @@
 ##### § 1500.7 Program Income. #####
 
+Link to an amendment published at 85 FR 61573, Sept. 30, 2020.
+
 (a) Governmental revenues. Permit fees are governmental revenue and not program income. (See 2 CFR 200.307(c))
 
 (b) Use of Program Income. The default use of program income for EPA awards is addition. The program income shall be used for the purposes and under the conditions of the assistance agreement. (See 2 CFR 200.307(e)(2))

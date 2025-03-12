@@ -1,0 +1,3 @@
+##### § 1103.225 Debt collection. #####
+
+In award terms and conditions implementing the guidance in 2 CFR 200.345 on collection of amounts due, DoD Components must inform recipients that DoD post-award administration offices follow procedures set forth in 32 CFR 22.820 for issuing demands for payment and transferring debts for collection, and that a recipient will be informed about specific procedures and timeframes affecting it through the written notices of grants officers' decisions and demands for payment. Doing so maintains long-standing policy established in 32 CFR 32.73(c).

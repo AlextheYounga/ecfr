@@ -1,5 +1,7 @@
 ##### § 1500.10 Use of the same architect or engineer during construction. #####
 
+Link to an amendment published at 85 FR 61573, Sept. 30, 2020.Link to an amendment published at 85 FR 61574, Sept. 30, 2020.
+
 (a) If the recipient is satisfied with the qualifications and performance of the architect or engineer who provided any or all of the facilities planning or design services for a waste-water treatment works project and wishes to retain that firm or individual during construction of the project, it may do so without further public notice and evaluation of qualifications, provided:
 
 (1) The recipient received a facilities planning (Step 1) or design grant (Step 2), and selected the architect or engineer in accordance with EPA's procurement regulations in effect when EPA awarded the grant; or

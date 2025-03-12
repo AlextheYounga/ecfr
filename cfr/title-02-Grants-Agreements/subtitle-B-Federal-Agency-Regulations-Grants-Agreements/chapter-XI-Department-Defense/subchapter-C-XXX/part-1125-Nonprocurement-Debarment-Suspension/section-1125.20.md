@@ -1,0 +1,3 @@
+##### § 1125.20 Does this part implement the OMB guidance in 2 CFR part 180 for all DoD nonprocurement transactions? #####
+
+This part implements the OMB guidelines in 2 CFR part 180 for most DoD nonprocurement transactions. However, it does not implement the guidelines as they apply to prototype projects under the authority of Section 845 of the National Defense Authorization Act for Fiscal Year 1994 (Pub. L. 103-160), as amended. The Director of Defense Procurement and Acquisition Policy maintains a DoD issuance separate from this part that addresses section 845 transactions.

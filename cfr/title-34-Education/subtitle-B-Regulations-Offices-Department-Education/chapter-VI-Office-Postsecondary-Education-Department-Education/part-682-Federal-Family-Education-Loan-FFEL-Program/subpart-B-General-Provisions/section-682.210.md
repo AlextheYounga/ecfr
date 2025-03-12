@@ -1,5 +1,7 @@
 ##### § 682.210 Deferment. #####
 
+Link to an amendment published at 85 FR 49821, Aug. 14, 2020.
+
 (a) *General.* (1)(i) A borrower is entitled to have periodic installment payments of principal deferred during authorized periods after the beginning of the repayment period, pursuant to paragraph (b) and paragraphs (s) through (v) of this section.
 
 (ii) With the exception of a deferment authorized under paragraph (o) of this section, a borrower may continue to receive a specific type of deferment that is limited to a maximum period of time only if the total amount of time that the borrower has received the deferment does not exceed the maximum time period allowed for the deferment.

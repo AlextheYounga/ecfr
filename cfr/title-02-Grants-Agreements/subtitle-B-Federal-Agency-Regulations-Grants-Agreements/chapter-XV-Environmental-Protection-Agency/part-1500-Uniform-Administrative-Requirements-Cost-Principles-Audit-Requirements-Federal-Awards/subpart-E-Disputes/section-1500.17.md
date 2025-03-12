@@ -1,5 +1,7 @@
 ##### § 1500.17 Request for review. #####
 
+Link to an amendment published at 85 FR 61573, Sept. 30, 2020.Link to an amendment published at 85 FR 61575, Sept. 30, 2020.
+
 An Affected Entity may file an electronic written request for review of the DDO's Appeal decision to the appropriate Review Official within 15 calendar days from the date the Appeal decision is electronically sent to the Affected Entity. The request for review must comply with the following requirements:
 
 (a) *Submission of request for review.* The request must be submitted to the Review Official identified in the Appeal decision as follows:

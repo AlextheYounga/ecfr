@@ -1,7 +1,5 @@
 ##### § 225.2 Definitions. #####
 
-Link to an amendment published at 85 FR 12421, Mar. 2, 2020.This amendment was delayed until Sept. 30, 2020, at 85 FR 18427, Apr. 2, 2020.
-
 Except as modified in this regulation or unless the context otherwise requires, the terms used in this regulation have the same meaning as set forth in the relevant statutes.
 
 (a) *Affiliate* means any company that controls, is controlled by, or is under common control with, another company.
@@ -50,23 +48,27 @@ Except as modified in this regulation or unless the context otherwise requires, 
 
 (4) *Qualified limited partnerships exempt.* Company does not include a qualified limited partnership, as defined in section 2(o)(10) of the BHC Act.
 
-(e)(1) *Control* of a bank or other company means (except for the purposes of subpart E of this part):
+(e)(1) *Control* of a company means (except for the purposes of subpart E of this part):
 
-(i) Ownership, control, or power to vote 25 percent or more of the outstanding shares of any class of voting securities of the bank or other company, directly or indirectly or acting through one or more other persons;
+(i) Ownership, control, or power to vote 25 percent or more of the outstanding shares of any class of voting securities of the company, directly or indirectly or acting through one or more other persons;
 
-(ii) Control in any manner over the election of a majority of the directors, trustees, or general partners (or individuals exercising similar functions) of the bank or other company;
+(ii) Control in any manner over the election of a majority of the directors, trustees, or general partners (or individuals exercising similar functions) of the company;
 
-(iii) The power to exercise, directly or indirectly, a controlling influence over the management or policies of the bank or other company, as determined by the Board after notice and opportunity for hearing in accordance with § 225.31 of subpart D of this part; or
+(iii) The power to exercise, directly or indirectly, a controlling influence over the management or policies of the company, as determined by the Board after notice and opportunity for hearing in accordance with § 225.31 of subpart D of this part; or
 
-(iv) Conditioning in any manner the transfer of 25 percent or more of the outstanding shares of any class of voting securities of a bank or other company upon the transfer of 25 percent or more of the outstanding shares of any class of voting securities of another bank or other company.
+(iv) Conditioning in any manner the transfer of 25 percent or more of the outstanding shares of any class of voting securities of a company upon the transfer of 25 percent or more of the outstanding shares of any class of voting securities of another company.
 
-(2) A bank or other company is deemed to control voting securities or assets owned, controlled, or held, directly or indirectly:
+(2) A company is deemed to control voting securities or assets owned, controlled, or held, directly or indirectly:
 
-(i) By any subsidiary of the bank or other company;
+(i) By the company, or by any subsidiary of the company;
 
-(ii) In a fiduciary capacity (including by pension and profit-sharing trusts) for the benefit of the shareholders, members, or employees (or individuals serving in similar capacities) of the bank or other company or any of its subsidiaries; or
+(ii) That the company has power to vote or to dispose of;
 
-(iii) In a fiduciary capacity for the benefit of the bank or other company or any of its subsidiaries.
+(iii) In a fiduciary capacity for the benefit of the company or any of its subsidiaries;
+
+(iv) In a fiduciary capacity (including by pension and profit-sharing trusts) for the benefit of the shareholders, members, or employees (or individuals serving in similar capacities) of the company or any of its subsidiaries; or
+
+(v) According to the standards under § 225.9 of this part.
 
 (f) *Foreign banking organization* and *qualifying foreign banking organization* have the same meanings as provided in §§ 211.21(n) and 211.23 of the Board's Regulation K (12 CFR 211.21(n) and 211.23).
 
@@ -94,7 +96,7 @@ Except as modified in this regulation or unless the context otherwise requires, 
 
 (3) Any savings bank or cooperative that is deemed by the director of the Office of Thrift Supervision to be a savings association under section 10(l) of the Home Owners Loan Act.
 
-(n) *Shareholder* - (1) *Controlling shareholder* means a person that owns or controls, directly or indirectly, 25 percent or more of any class of voting securities of a bank or other company.
+(n) *Shareholder*—(1) *Controlling shareholder* means a person that owns or controls, directly or indirectly, 25 percent or more of any class of voting securities of a bank or other company.
 
 (2) *Principal shareholder* means a person that owns or controls, directly or indirectly, 10 percent or more of any class of voting securities of a bank or other company, or any person that the Board determines has the power, directly or indirectly, to exercise a controlling influence over the management or policies of a bank or other company.
 
@@ -108,17 +110,17 @@ Except as modified in this regulation or unless the context otherwise requires, 
 
 (ii) To vote on or to direct the conduct of the operations or other significant policies of the issuing company.
 
-(2) *Nonvoting shares.* Preferred shares, limited partnership shares or interests, or similar interests are not *voting securities* if:
+(2) *Nonvoting securities.* Common shares, preferred shares, limited partnership interests, limited liability company interests, or similar interests are not *voting securities* if:
 
-(i) Any voting rights associated with the shares or interest are limited solely to the type customarily provided by statute with regard to matters that would significantly and adversely affect the rights or preference of the security or other interest, such as the issuance of additional amounts or classes of senior securities, the modification of the terms of the security or interest, the dissolution of the issuing company, or the payment of dividends by the issuing company when preferred dividends are in arrears;
+(i) Any voting rights associated with the securities are limited solely to the type customarily provided by statute with regard to matters that would significantly and adversely affect the rights or preference of the security, such as the issuance of additional amounts or classes of senior securities, the modification of the terms of the security, the dissolution of the issuing company, or the payment of dividends by the issuing company when preferred dividends are in arrears;
 
-(ii) The shares or interest represent an essentially passive investment or financing device and do not otherwise provide the holder with control over the issuing company; and
+(ii) The securities represent an essentially passive investment or financing device and do not otherwise provide the holder with control over the issuing company; and
 
-(iii) The shares or interest do not entitle the holder, by statute, charter, or in any manner, to select or to vote for the selection of directors, trustees, or partners (or persons exercising similar functions) of the issuing company.
+(iii) The securities do not entitle the holder, by statute, charter, or in any manner, to select or to vote for the selection of directors, trustees, or partners (or persons exercising similar functions) of the issuing company; except that limited partnership interests or membership interests in limited liability companies are not voting securities due to voting rights that are limited solely to voting for the removal of a general partner or managing member (or persons exercising similar functions at the company) for cause, to replace a general partner or managing member (or persons exercising similar functions at the company) due to incapacitation or following the removal of such person, or to continue or dissolve the company after removal of the general partner or managing member (or persons exercising similar functions at the company).
 
 (3) *Class of voting shares.* Shares of stock issued by a single issuer are deemed to be the same class of voting shares, regardless of differences in dividend rights or liquidation preference, if the shares are voted together as a single class on all matters for which the shares have voting rights other than matters described in paragraph (o)(2)(i) of this section that affect solely the rights or preferences of the shares.
 
-(r) *Well-capitalized* - (1) *Bank holding company.* In the case of a bank holding company,1*well-capitalized* means that:
+(r) *Well-capitalized*—(1) *Bank holding company.* In the case of a bank holding company,1*well-capitalized* means that:
 
 1 For purposes of this subpart and subparts B and C of this part, a bank holding company that is subject to the Small Bank Holding Company and Savings and Loan Holding Company Policy Statement in appendix C of this part will be deemed to be “well-capitalized” if the bank holding company meets the requirements for expedited/waived processing in appendix C.
 
@@ -128,11 +130,11 @@ Except as modified in this regulation or unless the context otherwise requires, 
 
 (iii) The bank holding company is not subject to any written agreement, order, capital directive, or prompt corrective action directive issued by the Board to meet and maintain a specific capital level for any capital measure.
 
-(2) *Insured and uninsured depository institution* - (i) *Insured depository institution.* In the case of an insured depository institution, “well capitalized” means that the institution has and maintains at least the capital levels required to be well capitalized under the capital adequacy regulations or guidelines applicable to the institution that have been adopted by the appropriate Federal banking agency for the institution under section 38 of the Federal Deposit Insurance Act (12 U.S.C. 1831o).
+(2) *Insured and uninsured depository institution*—(i) *Insured depository institution.* In the case of an insured depository institution, “well capitalized” means that the institution has and maintains at least the capital levels required to be well capitalized under the capital adequacy regulations or guidelines applicable to the institution that have been adopted by the appropriate Federal banking agency for the institution under section 38 of the Federal Deposit Insurance Act (12 U.S.C. 1831o).
 
 (ii) *Uninsured depository institution.* In the case of a depository institution the deposits of which are not insured by the Federal Deposit Insurance Corporation, “well capitalized” means that the institution has and maintains at least the capital levels required for an insured depository institution to be well capitalized.
 
-(3) *Foreign banks* - (i) *Standards applied.* For purposes of determining whether a foreign banking organization qualifies under paragraph (r)(1) of this section:
+(3) *Foreign banks*—(i) *Standards applied.* For purposes of determining whether a foreign banking organization qualifies under paragraph (r)(1) of this section:
 
 (A) A foreign banking organization whose home country supervisor, as defined in § 211.21 of the Board's Regulation K (12 CFR 211.21), has adopted capital standards consistent in all respects with the Capital Accord of the Basle Committee on Banking Supervision (Basle Accord) may calculate its capital ratios under the home country standard; and
 
@@ -146,7 +148,7 @@ Except as modified in this regulation or unless the context otherwise requires, 
 
 (ii) A depository institution that is a qualifying community banking organization (as defined in § 217.12 of this chapter) that is subject to the community bank leverage ratio framework (as defined in § 217.12 of this chapter) is well capitalized.
 
-(s) *Well managed* - (1) *In general.* Except as otherwise provided in this part, a company or depository institution is well managed if:
+(s) *Well managed*—(1) *In general.* Except as otherwise provided in this part, a company or depository institution is well managed if:
 
 (i) At its most recent inspection or examination or subsequent review by the appropriate Federal banking agency for the company or institution (or the appropriate state banking agency in an examination described in section 10(d) of the Federal Deposit Insurance Act (12 U.S.C. 1820(d)), the company or institution received:
 
@@ -156,7 +158,7 @@ Except as modified in this regulation or unless the context otherwise requires, 
 
 (ii) In the case of a company or depository institution that has not received an inspection or examination rating, the Board has determined, after a review of the managerial and other resources of the company or depository institution and after consulting with the appropriate Federal and state banking agencies, as applicable, for the company or institution, that the company or institution is well managed.
 
-(2) *Merged depository institutions* - (i) *Merger involving well managed institutions.* A depository institution that results from the merger of two or more depository institutions that are well managed shall be considered to be well managed unless the Board determines otherwise after consulting with the appropriate Federal and state banking agencies, as applicable, for each depository institution involved in the merger.
+(2) *Merged depository institutions*—(i) *Merger involving well managed institutions.* A depository institution that results from the merger of two or more depository institutions that are well managed shall be considered to be well managed unless the Board determines otherwise after consulting with the appropriate Federal and state banking agencies, as applicable, for each depository institution involved in the merger.
 
 (ii) *Merger involving a poorly rated institution.* A depository institution that results from the merger of a depository institution that is well managed with one or more depository institutions that are not well managed or have not been examined shall be considered to be well managed if the Board determines, after a review of the managerial and other resources of the resulting depository institution and after consulting with the appropriate Federal and state banking agencies for the institutions involved in the merger, as applicable, that the resulting institution is well managed.
 
@@ -164,4 +166,10 @@ Except as modified in this regulation or unless the context otherwise requires, 
 
 (t) *Depository institution.* For purposes of this part, the term “depository institution” has the same meaning as in section 3(c) of the Federal Deposit Insurance Act (12 U.S.C. 1813(c)).
 
-[Reg. Y, 62 FR 9319, Feb. 28, 1997, as amended at 65 FR 3791, Jan. 25, 2000; 65 FR 15055, Mar. 21, 2000; 66 FR 414, Jan. 3, 2001; 71 FR 9901, Feb. 28, 2006; 78 FR 62290, Oct. 11, 2013; 80 FR 20157, Apr. 15, 2015; 80 FR 70673, Nov. 16, 2015; 83 FR 44198, Aug. 30, 2018; 84 FR 61799, Nov. 13, 2019]
+(u) *Voting percentage.* For purposes of this part, the percentage of a class of a company's voting securities controlled by a person is the greater of:
+
+(1) The quotient, expressed as a percentage, of the number of shares of the class of voting securities controlled by the person, divided by the number of shares of the class of voting securities that are issued and outstanding, both as adjusted by § 225.9 of this part; and
+
+(2) The quotient, expressed as a percentage, of the number of votes that may be cast by the person on the voting securities controlled by the person, divided by the total votes that are legally entitled to be cast by the issued and outstanding shares of the class of voting securities, both as adjusted by § 225.9 of this part.
+
+[Reg. Y, 62 FR 9319, Feb. 28, 1997, as amended at 65 FR 3791, Jan. 25, 2000; 65 FR 15055, Mar. 21, 2000; 66 FR 414, Jan. 3, 2001; 71 FR 9901, Feb. 28, 2006; 78 FR 62290, Oct. 11, 2013; 80 FR 20157, Apr. 15, 2015; 80 FR 70673, Nov. 16, 2015; 83 FR 44198, Aug. 30, 2018; 84 FR 61799, Nov. 13, 2019; 85 FR 12421, Mar. 2, 2020]

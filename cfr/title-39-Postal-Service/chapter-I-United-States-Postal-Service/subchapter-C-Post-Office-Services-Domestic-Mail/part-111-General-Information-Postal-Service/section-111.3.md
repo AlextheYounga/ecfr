@@ -1,6 +1,6 @@
 ##### § 111.3 Amendments to the Mailing Standards of the United States Postal Service, Domestic Mail Manual. #####
 
-(a) Except for interim or final regulations published as provided in paragraph (b) of this section, only notices rather than complete text of changes made to the Mailing Standards of the United States Postal Service, Domestic Mail Manual are published in the Federal Register. These notices are published in the form of one summary transmittal letter for each issue of the Mailing Standards of the United States Postal Service, Domestic Mail Manual. A complete issue of the Mailing Standards of the United States Postal Service, Domestic Mail Manual, including the text of all changes published to date, will be filed with the Director, Office of the Federal Register. Subscribers to the Mailing Standards of the United States Postal Service, Domestic Mail Manual receive the latest issue of the Mailing Standards of the United States Postal Service, Domestic Mail Manual from the Government Printing Office.
+(a) A complete issue of the DMM is incorporated by reference annually (*see* § 111.1). Except for interim or final regulations published as provided in paragraph (b) of this section, only notifications rather than complete text of changes made to the DMM are published in the Federal Register. These documents are published in the form of one summary transmittal letter for each issue of the DMM. A complete issue of the DMM incorporated by reference, which includes the text of all changes published to date, is filed with the Director, Office of the Federal Register. Subscribers to the DMM receive the latest issue of the DMM from the Government Publishing Office (see § 111.1 for subscription information).
 
 (b) When the Postal Service invites comments from the public on a proposed change to the Mailing Standards of the United States Postal Service, Domestic Mail Manual, the proposed change and, if adopted, the full text of the interim or the final regulation is published in the Federal Register.
 
@@ -11,6 +11,8 @@
 (e) Announcements of changes to the Mailing Standards of the United States Postal Service, Domestic Mail Manual not published in the Federal Register as provided in paragraphs (a) and (b) of this section and not published in the Postal Bulletin as provided in paragraph (c) are not deemed final under the provisions of this part 111.
 
 (f) For references to amendments to the Mailing Standards of the United States Postal Service, Domestic Mail Manual adopted under paragraph (b) of this section after issuance of the most recent transmittal letter (termed Summary of Changes in the Mailing Standards of the United States Postal Service, Domestic Mail Manual) listed below, see § 111.3 in the List of CFR Sections affected at the end of this volume.
+
+Table 1 to § 111.3 - Domestic Mail Manual
 
 |Transmittal letter for issue|      Dated       |Federal Register publication|
 |----------------------------|------------------|----------------------------|
@@ -85,5 +87,6 @@
 |            DMM             | January 22, 2017 |        82 FR 28559.        |
 |            DMM             |  March 5, 2018   |        83 FR 17922.        |
 |            DMM             |  March 4, 2019   |        84 FR 24392.        |
+|            DMM             |   July 1, 2020   |        85 FR 61609.        |
 
 [45 FR 40115, June 13, 1980]Editorial Note:For Federal Register citations affecting § 111.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

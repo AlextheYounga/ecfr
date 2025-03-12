@@ -1,5 +1,7 @@
 ##### § 686.42 Discharge of agreement to serve. #####
 
+Link to an amendment published at 85 FR 49827, Aug. 14, 2020.
+
 (a) *Death.* (1) If a grant recipient dies, the Secretary discharges the obligation to complete the agreement to serve based on -
 
 (i) An original or certified copy of the death certificate;
