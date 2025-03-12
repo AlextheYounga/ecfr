@@ -1,7 +1,5 @@
 ##### § 300.25 Fisheries management. #####
 
-Link to an amendment published at 84 FR 18413, May 1, 2019.
-
 (a) *Longline tuna catch limits.* (1) Fishing seasons for all tuna species begin on 0000 hours Coordinated Universal Time (UTC) January 1 and end either on 2400 hours UTC December 31 or when NMFS closes the fishery for a specific species.
 
 (2) For the calendar years 2018, 2019, 2020, there is a limit of 750 metric tons of bigeye tuna that may be caught by longline gear in the Convention Area by U.S. commercial fishing vessels that are over 24 meters in overall length. The catch limit within a calendar year is subject to increase if the United States receives a transfer of catch limit from another IATTC member or cooperating non-member, per paragraph (a)(5) of this section.
@@ -64,20 +62,28 @@ Link to an amendment published at 84 FR 18413, May 1, 2019.
 
 (5) A vessel operator, crew member, or other persons on board a fishing vessel of the United States that is used to fish for HMS must take all reasonable measures to avoid fishing gear entanglement or interaction with drifting data buoys.
 
-(g) *Pacific bluefin tuna (Thunnus orientalis) commercial catch limits in the eastern Pacific Ocean for 2017-2018.* The following is applicable to the U.S. commercial fishery for Pacific bluefin tuna in the Convention Area in the years 2017 and 2018.
+(g) *Pacific bluefin tuna (Thunnus orientalis) commercial catch limits in the eastern Pacific Ocean for 2019-2020.* The following is applicable to the U.S. commercial fishery for Pacific bluefin tuna in the Convention Area in the years 2019 and 2020.
 
-(1) For the calendar year 2017, all commercial fishing vessels of the United States combined may capture, retain, transship, or land no more than 425 metric tons in the Convention Area.
+(1) The 2019-2020 biennial limit is 630 metric tons.
 
-(2) In 2018, NMFS will publish a notice in the Federal Register announcing the 2018 catch limit. For the calendar year 2018, all commercial fishing vessels of the United States combined may capture, retain on board, transship, or land no more than the 2018 annual catch limit. The 2018 catch limit is calculated by adding any amount of the 425 metric ton catch limit that was not caught in 2017, as determined by NMFS, to 175 metric tons, except as follows:
+(2) For the calendar year 2019, all commercial fishing vessels of the United States combined may capture, retain, transship, or land no more than 425 metric tons.
 
-(i) If 175 metric tons or less are caught in 2017, as determined by NMFS, then the 2018 catch limit is 425 metric tons; or,
+(3) In 2020, NMFS will publish a notice in the Federal Register announcing the 2020 catch limit. For the calendar year 2020, all commercial fishing vessels of the United States combined may capture, retain on board, transship, or land no more than the 2020 annual catch limit. The 2020 catch limit is the lesser of: The 2019-2020 biennial limit reduced by the amount caught by U.S. commercial vessels in 2019; or 425 metric tons.
 
-(ii) If greater than 425 metric tons are caught in 2017, as determined by NMFS, then the 2018 catch limit is calculated by subtracting the amount caught in 2017 from 600 metric tons.
+(4) In 2019 and 2020, a 15-metric ton trip limit will be in effect until NMFS anticipates that catch will be within 50 metric tons of the catch limit, after which a 2-metric ton trip limit will be in effect upon the effective date provided in actual notice, in accordance with paragraph (g)(8) of this section. In 2020, if the catch limit is 125 mt or less, a 2-metric ton trip limit will be in effect for the entire calendar year.
 
-(3) In 2018, a 1 metric ton trip limit will be in effect, except for vessels using large-mesh (14 inch or greater stretched mesh) drift gillnet gear. In 2018, a 2 metric ton trip limit will be in effect for vessels using large-mesh drift gillnet gear.
+(5) After NMFS determines that the catch limits under paragraphs (g)(2) and (3) of this section are expected to be reached, NMFS will close the fishery effective upon the date and time provided in the actual notice, in accordance with paragraph (g)(9) of this section. Upon the effective date in the actual notice, targeting, retaining on board, transshipping, or landing Pacific bluefin tuna in the Convention Area shall be prohibited, as described in paragraph (g)(6) of this section.
 
-(4) After NMFS determines that the catch limits under paragraphs (g)(1) and (g)(2) of this section are expected to be reached by a future date, NMFS will publish a fishing closure notice in the Federal Register announcing the effective date that targeting, retaining on board, transshipping, or landing Pacific bluefin tuna in the Convention Area shall be prohibited as described in paragraph (g)(5) of this section.
+(6) After NMFS determines that the catch limits under paragraph (g)(4) of this section are expected to be reached, a 2 mt trip limit will be in effect upon the date and time provided in the actual notice, in accordance with paragraph (g)(9) of this section. Pacific bluefin tuna in excess of 2 mt already on board a vessel on the effective date and time of the actual notice may be landed within 48 hours of the effective date and time provided in the actual notice, provided a pre-trip notification has been submitted to NMFS.
 
-(5) Beginning on the date announced in the fishing closure notice published under paragraph (g)(4) of this section through the end of the calendar year, a commercial fishing vessel of the United States may not be used to target, retain on board, transship, or land Pacific bluefin tuna captured in the Convention Area, with the exception that any Pacific bluefin tuna already on board a fishing vessel on the effective date of the notice may be retained on board, transshipped, and/or landed, to the extent authorized by applicable laws and regulations, provided such Pacific bluefin tuna is landed within 14 days after the effective date published in the fishing closure notice.
+(7) Beginning on the date provided in the actual notice of the fishing closure announced under paragraph (g)(5) of this section, a commercial fishing vessel of the United States may not be used to target, retain on board, transship, or land Pacific bluefin tuna captured in the Convention Area through the end of the calendar year, with the exception that any Pacific bluefin tuna already on board a fishing vessel on the effective date of the notice may be retained on board, transshipped, and/or landed within 14 days after the effective date published in the fishing closure notice, to the extent authorized by applicable laws and regulations.
 
-[64 FR 44431, Aug. 16, 1999]Editorial Note:For Federal Register citations affecting § 300.25, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.
+(8) If an inseason action taken under paragraphs (g)(4), (5), (6), or (7) of this section is based on overestimate of actual catch, NMFS will reverse that action in the timeliest possible manner, provided NMFS finds that reversing that action is consistent with the management objectives for the affected species. The fishery will reopen effective on the date provided in the actual notice in accordance with paragraph (g)(9) of this section.
+
+(9) Inseason actions taken under paragraphs (g)(4), (5), (6), (7), and (8) of this section will be by actual notice from posting on the National Marine Fisheries Service website (*https://www.fisheries.noaa.gov/west-coast/commercial-fishing/pacific-bluefin-tuna-commercial-harvest-status*) and a United States Coast Guard Notice to Mariners. The Notice to Mariners will be broadcast three times daily for four days. This action will also be published in the Federal Register as soon as practicable. Inseason actions will be effective from the time specified in the actual notice of the action (*i.e.,* website posting and United States Coast Guard Notice to Mariners), unless the inseason action is published in the Federal Register at an earlier time.
+
+(10) For a purse seine vessel to retain or land greater than 2 metric tons of Pacific bluefin tuna while the 15-metric ton trip limit is in effect, the vessel owner or operator must provide a pre-trip notification to NMFS 24 hours in advance of departing on the fishing trip. The notification shall be made to NMFS at *pbf.notifications@noaa.gov,* and must include the owner or operator's name, contact information, vessel name, port of departure, and intended date and time of departure.
+
+(11) As of July 1, 2019, if landing Pacific bluefin tuna into the State of California, fish landing receipts (*i.e.,* E-tickets) must be submitted within 24 hours to the California Department of Fish and Wildlife in accordance with the requirements of applicable State regulations.
+
+[64 FR 44431, Aug. 16, 1999]Editorial Note:For Federal Register citations affecting § 300.25, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

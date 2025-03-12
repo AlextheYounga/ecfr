@@ -1,5 +1,7 @@
 ##### § 165.941 Safety Zones; Annual Events in the Captain of the Port Detroit Zone. #####
 
+Link to an amendment published at 84 FR 20031, May 8, 2019.
+
 (a) *Safety Zones.* The following areas are designated Safety zones: (1) Roostertail Fireworks (barge), Detroit, MI:
 
 (i) *Location:* All waters of the Detroit River within a 300-foot radius of the fireworks launch site located at position 42°21′16.67″ N, 082°58′20.41″ W. (NAD 83). This area is located between Detroit and Belle Isle near the Roostertail restaurant.

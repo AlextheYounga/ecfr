@@ -1278,6 +1278,26 @@ The general requirements in § 214.1 are modified for the following nonimmigrant
 
 (ix) *Enforcement.* The Secretary of Labor may investigate employers to enforce compliance with the conditions of a petition and Department of Labor-approved temporary labor certification to admit or otherwise provide status to an H-2B worker.
 
+(x) *Special requirements for additional cap allocations under the Consolidated Appropriations Act, 2019.* (A) Notwithstanding the numerical limitations set forth in paragraph (h)(8)(i)(C) of this section, for fiscal year 2019 only, the Secretary has authorized up to an additional 30,000 aliens who may receive H-2B nonimmigrant visas pursuant to section 105 of Division H of the Consolidated Appropriations Act, 2019, Public Law 116-6. Aliens may be eligible to receive H-2B nonimmigrant visas under this paragraph (h)(6)(x) if they are returning workers. The term *returning workers* under this paragraph (h)(6)(x) is defined as those persons who were issued H-2B visas or were otherwise granted H-2B status in Fiscal Years 2016, 2017, or 2018. Notwithstanding § 248.2 of this chapter, an alien may not change status to H-2B nonimmigrant under the provision in this paragraph (h)(6)(x).
+
+(B) In order to file a petition with USCIS under this paragraph (h)(6)(x), the petitioner must:
+
+(*1*) Comply with all other statutory and regulatory requirements for H-2B classification, including but not limited to requirements in this section, under part 103 of this chapter, and under 20 CFR part 655 and 29 CFR part 503; and
+
+(*2*) Submit to USCIS, at the time the employer files its petition, a U.S. Department of Labor attestation, in compliance with 20 CFR 655.64, evidencing that:
+
+(*i*) Without the ability to employ all of the H-2B workers requested on the petition filed pursuant to this paragraph (h)(6)(x), its business is likely to suffer irreparable harm (that is, permanent and severe financial loss);
+
+(*ii*) All workers requested and/or instructed to apply for a visa have been issued an H-2B visa or otherwise granted H-2B status in Fiscal Years 2016, 2017, or 2018; and
+
+(*iii*) The employer will provide documentary evidence of this fact to DHS or DOL upon request.
+
+(C) USCIS will reject petitions filed pursuant to this paragraph (h)(6)(x) that are received after the numerical limitation has been reached or after September 16, 2019, whichever is sooner. USCIS will not approve a petition filed pursuant to this paragraph (h)(6)(x) on or after October 1, 2019.
+
+(D) This paragraph (h)(6)(x) expires on October 1, 2019.
+
+(E) The requirement to file an attestation under paragraph (h)(6)(x)(B)(*2*) of this section is intended to be non-severable from the remainder of this paragraph (h)(6)(x); in the event that paragraph (h)(6)(x)(B)(*2*) of this section is enjoined or held to be invalid by any court of competent jurisdiction, this paragraph (h)(6)(x) is also intended to be enjoined or held to be invalid in such jurisdiction, without prejudice to workers already present in the United States under this part, as consistent with law.
+
 (7) *Petition for alien trainee or participant in a special education exchange visitor program (H-3)* - (i) *Alien trainee.* The H-3 trainee is a nonimmigrant who seeks to enter the United States at the invitation of an organization or individual for the purpose of receiving training in any field of endeavor, such as agriculture, commerce, communications, finance, government, transportation, or the professions, as well as training in a purely industrial establishment. This category shall not apply to physicians, who are statutorily ineligible to use H-3 classification in order to receive any type of graduate medical education or training.
 
 (A) *Externs.* A hospital approved by the American Medical Association or the American Osteopathic Association for either an internship or residency program may petition to classify as an H-3 trainee a medical student attending a medical school abroad, if the alien will engage in employment as an extern during his/her medical school vacation.
@@ -3454,4 +3474,4 @@ The general requirements in § 214.1 are modified for the following nonimmigrant
 
 (24) *Waivers of inadmissibility for applicants lawfully present in the CNMI.* An applicant for CW-1 or CW-2 nonimmigrant status, who is otherwise eligible for such status and otherwise admissible to the United States, and who possesses appropriate documents demonstrating that the applicant is lawfully present in the CNMI, may be granted a waiver of inadmissibility under section 212(d)(3)(A)(ii) of the Act, including the grounds of inadmissibility described in sections 212(a)(6)(A)(i) and 212(a)(7)(B)(i)(II) of the Act, as a matter of discretion for the purpose of granting the CW-1 or CW-2 nonimmigrant status. Such waiver may be granted without additional form or fee. Appropriate documents required for such a waiver include a valid unexpired passport and other documentary evidence demonstrating that the applicant is lawfully present in the CNMI, such as an “umbrella permit” or a DHS-issued Form I-94. Evidence that the applicant possesses appropriate documents may be provided by an employer to accompany a petition, by an eligible spouse or minor child to accompany the Form I-539 (or such alternative form as USCIS may designate), or in such other manner as USCIS may designate.
 
-(Title VI of the Health Professions Educational Assistance Act of 1976 (Pub. L. 94-484; 90 Stat. 2303); secs. 103 and 214, Immigration and Nationality Act (8 U.S.C. 1103 and 1184))[38 FR 35425, Dec. 28, 1973]Editorial Note:For Federal Register citations affecting § 214.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(Title VI of the Health Professions Educational Assistance Act of 1976 (Pub. L. 94-484; 90 Stat. 2303); secs. 103 and 214, Immigration and Nationality Act (8 U.S.C. 1103 and 1184))[38 FR 35425, Dec. 28, 1973]Editorial Note:For Federal Register citations affecting § 214.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 84 FR 20020, May 8, 2019, § 214.2 was amended by adding paragraph (h)(6)(x), effective May 8, 2019 through Sept. 30, 2019.

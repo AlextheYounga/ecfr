@@ -1,7 +1,5 @@
 ##### § 300.24 Prohibitions. #####
 
-Link to an amendment published at 84 FR 18413, May 1, 2019.
-
 In addition to the prohibitions in § 300.4, it is unlawful for any person or vessel subject to the jurisdiction of the United States to:
 
 (a) Land any species of tuna during the closed season for that species in excess of the amount allowed by the Regional Administrator.
@@ -44,7 +42,7 @@ In addition to the prohibitions in § 300.4, it is unlawful for any person or ve
 
 (t) Use a U.S. fishing vessel to fish for HMS in the Convention Area and retain on board, transship, land, store, sell, or offer for sale any part or whole carcass of an oceanic whitetip shark (*Carcharhinus longimanus*) or fail to release unharmed, to the extent practicable, all oceanic whitetip sharks when brought alongside the vessel in contravention of § 300.27(d).
 
-(u) Use a United States commercial fishing vessel in the Convention Area to target, retain on board, transship, or land Pacific bluefin tuna in contravention of § 300.25(g)(3) through (5).
+(u) Use a United States commercial fishing vessel in the Convention Area to target, retain on board, transship, or land Pacific bluefin tuna in contravention of § 300.25(g)(4) through (8) and (g)(10) through (11).
 
 (v) Fail to maintain, submit, or ensure submission of a log that includes all the information required in § 300.22(a).
 
@@ -90,4 +88,4 @@ In addition to the prohibitions in § 300.4, it is unlawful for any person or ve
 
 (qq) Deploy, or have onboard a vessel, a FAD in the IATTC Convention Area that fails to comply with the FAD design requirements in § 300.28(e).
 
-[61 FR 35550, July 5, 1996]Editorial Note:For Federal Register citations affecting § 300.24, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.
+[61 FR 35550, July 5, 1996]Editorial Note:For Federal Register citations affecting § 300.24, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
