@@ -1,6 +1,6 @@
 ##### § 1.6050M-1 Information returns relating to persons receiving contracts from certain Federal executive agencies. #####
 
-(a) *General rule.* Except as otherwise provided in paragraph (c) of this section, the head of every Federal executive agency or his or her delegate shall make an information return to the Internal Revenue Service reporting the following information with respect to each contract entered into by that Federal executive agency -
+(a) *General rule.* Except as otherwise provided in paragraph (c) of this section, the head of every Federal executive agency or his or her delegate shall make an information return to the Internal Revenue Service reporting the following information with respect to each contract entered into by that Federal executive agency—
 
 (1) Name and address of the contractor;
 
@@ -16,9 +16,9 @@
 
 See paragraph (e) of this section relating to the manner in which to report increases in amounts obligated under existing contracts. See paragraph (d)(5) of this section for special rules for agencies that submit contract information to the Federal Procurement Data Center. For provisions concerning the requesting and furnishing of identifying numbers, see section 6109 and the regulations thereunder.
 
-(b) *Definitions.* The following definitions apply for purposes of this section -
+(b) *Definitions.* The following definitions apply for purposes of this section—
 
-(1) *Federal executive agency.* The term “Federal executive agency” means -
+(1) *Federal executive agency.* The term “Federal executive agency” means—
 
 (i) Any executive agency (as defined in 5 U.S.C. 105) other than the General Accounting Office;
 
@@ -26,9 +26,9 @@ See paragraph (e) of this section relating to the manner in which to report incr
 
 (iii) The United States Postal Service and the Postal Rate Commission.
 
-(2) *Contract* - (i) *General rule.* The term “contract” means an obligation of a Federal executive agency to make payment of money (or other property) to a person in return for the sale of property, the rendering of services, or other consideration. The term “contract” includes, for example, such an obligation arising from a written agreement executed by the agency and the contractor, an award or notice of award, a job order or task letter issued under a basic ordering agreement, a letter contract, an order that becomes effective only upon written acceptance or performance, or an action described in paragraph (e) of this section.
+(2) *Contract*—(i) *General rule.* The term “contract” means an obligation of a Federal executive agency to make payment of money (or other property) to a person in return for the sale of property, the rendering of services, or other consideration. The term “contract” includes, for example, such an obligation arising from a written agreement executed by the agency and the contractor, an award or notice of award, a job order or task letter issued under a basic ordering agreement, a letter contract, an order that becomes effective only upon written acceptance or performance, or an action described in paragraph (e) of this section.
 
-(ii) *Exceptions.* For purposes of this section, the term “contract” does not include -
+(ii) *Exceptions.* For purposes of this section, the term “contract” does not include—
 
 (A) A license granted by a Federal executive agency;
 
@@ -58,7 +58,7 @@ Instead, an order placed by a Federal executive agency, including the General Se
 
 (4) *Person and TIN.* The terms *person* and *TIN* are defined in sections 7701(a) (1) and (41), respectively.
 
-(c) *Exceptions to information reporting requirement* - (1) *General exceptions.* The following do not need to be reported pursuant to this section:
+(c) *Exceptions to information reporting requirement*—(1) *General exceptions.* The following do not need to be reported pursuant to this section:
 
 (i) Any contract or contract action for which the amount obligated is $25,000 or less;
 
@@ -80,19 +80,23 @@ Instead, an order placed by a Federal executive agency, including the General Se
 
 (2) *Special rule for certain classified or confidential contracts.* Contracts described in section 6050M(e)(3), relating to certain classified or confidential contracts, are to be reported only in accordance with section 6050M(e)(2).
 
-(d) *Filing requirements* - (1) *Frequency and time for filing.* The information returns required by this section with respect to contracts of a Federal executive agency entered into on or after January 1, 1989, must be filed on a quarterly basis for the calendar quarters ending on the last day of March, June, September, and December. Except as provided in paragraph (d)(5) of this section, the returns for contracts entered into during a calendar quarter must be filed on or before the last day of the month following that quarter. Notwithstanding the preceding sentence, returns filed before May 7, 1990, will be considered timely filed.
+(d) *Filing requirements*—(1) *Frequency and time for filing.* The information returns required by this section with respect to contracts of a Federal executive agency entered into on or after January 1, 1989, must be filed on a quarterly basis for the calendar quarters ending on the last day of March, June, September, and December. Except as provided in paragraph (d)(5) of this section, the returns for contracts entered into during a calendar quarter must be filed on or before the last day of the month following that quarter. Notwithstanding the preceding sentence, returns filed before May 7, 1990, will be considered timely filed.
 
-(2) *Form of reporting* - (i) *General rule concerning magnetic media.* The information returns required by this section with respect to contracts of a Federal executive agency for each calendar quarter shall be made in one submission (or in multiple submissions if permitted by paragraph (d)(4) of this section). Except as provided in paragraph (d)(2)(ii) of this section, the required returns shall be made on magnetic media (within the meaning of § 301.6011-2(a)(1)) in accordance with any applicable revenue procedure or other guidance promulgated by the Internal Revenue Service for the filing of such returns under section 6050M.
+(2) *Form of reporting*—(i) *General rule concerning electronic filing.* The information returns required by this section with respect to contracts of a Federal executive agency for each calendar quarter must be made in one submission (or in multiple submissions if permitted by paragraph (d)(4) of this section). Except as provided in paragraph (d)(2)(ii) of this section, the required returns must be made in electronic form (within the meaning of § 301.6011-2(a)(1) of this chapter) in accordance with any applicable revenue procedure or other guidance promulgated by the Internal Revenue Service for the filing of such returns under section 6050M.
 
-(ii) *Magnetic media exception for low-volume filers.* Any Federal executive agency that on any October 1 has a reasonable expectation of entering into, during the one year period beginning on that date, fewer than 250 contracts that are subject to the reporting requirements under this section may make the information returns required by this section for each quarter of that one year period on the prescribed paper Form 8596 in accordance with the instructions accompanying such form.
+(ii) *Exceptions from electronic filing.* Any Federal executive agency that, on October 1, has a reasonable expectation of entering into, during the one-year period beginning on that date, fewer than 10 contracts subject to the reporting requirements under this section that are to be filed during the calendar years after 2023, may make the information returns required by this section for each quarter of that one-year period on the prescribed paper Form 8596 in accordance with the instructions accompanying such form.
 
-(3) *Place of filing* - (i) *Returns on magnetic media.* Information returns made under this section on magnetic media shall be filed with the Internal Revenue Service at the Martinsburg Computing Center, Martinsburg, West Virginia 25401-1359, in accordance with any applicable revenue procedure or other guidance promulgated by the Internal Revenue Service relating to the filing of returns under section 6050M.
+(iii) *Exclusions from electronic-filing requirements*—(A) *Waivers.* The Commissioner may grant waivers of the requirements of this section in cases of undue hardship. One principal factor in determining hardship will be the amount, if any, by which the cost of filing the return electronically in accordance with this section exceeds the cost of filing the return on paper. A request for a waiver must be made in accordance with applicable IRS revenue procedures, publications, forms, instructions, or other guidance, including postings to the *IRS.gov* website. The waiver request will specify the type of filing (that is, a return required under paragraph (a) of this section) and the period to which it applies.
 
-(ii) *Form 8596.* Information returns made on Form 8596 shall be filed with the Ifternal Revenue Service at the location specified in the instructions for that form.
+(B) *Exemptions.* The Commissioner may provide exemptions from the requirements of this section to promote effective and efficient tax administration. A submission claiming an exemption must be made in accordance with applicable IRS revenue procedures, publications, forms, instructions, or other guidance, including postings to the *IRS.gov* website.
+
+(3) *Place of filing*—(i) *Returns in electronic form.* Information returns made under this section in electronic form must be filed with the Internal Revenue Service in accordance with any applicable revenue procedure or other guidance promulgated by the Internal Revenue Service relating to the filing of returns under section 6050M.
+
+(ii) *Form 8596.* Information returns made on paper Form 8596 must be filed with the Internal Revenue Service at the location specified in the instructions for that form.
 
 (4) *Special rule concerning multiple returns.* To the extent permitted in any revenue procedure or other guidance relating to the filing of information returns under this section, a Federal executive agency which files information returns under this section on magnetic media may make more than one magnetic media submission for any quarter, if each submission for that quarter contains all of the information required by paragraph (a) of this section with respect to contracts entered into by one or more departments, branches, bureaus, agencies, or other readily identifiable operating functions (such as a geographic region) of the Federal executive agency.
 
-(5) *Special rules for agencies reporting to the Federal Procurement Data Center* - (i) *Election to have the Director of the Federal Procurement Data Center make returns on behalf of agency.* If, in complying with the requirements of the Federal Procurement Data System (FPDS) (as established under the authority of the Office of Federal Procurement Policy Act, as amended, 41 U.S.C. 401 *et seq.*), a Federal executive agency is required to submit to the Federal Procurement Data Center (FPDC) all the information with respect to one or more contracts required to be reported by paragraph (a) of this section, that Federal executive agency may, in lieu of making returns directly to the Internal Revenue Service with respect to those contracts, elect to have the Director of the FPDC (or his or her delegate) make the required returns with respect to all of those contracts on its behalf. In order to make this election for such contracts entered into during a calendar quarter, the head of a Federal executive agency (or his or her delegate) shall attach to its submission to the FPDC for that quarter a signed statement to the effect that:
+(5) *Special rules for agencies reporting to the Federal Procurement Data Center*—(i) *Election to have the Director of the Federal Procurement Data Center make returns on behalf of agency.* If, in complying with the requirements of the Federal Procurement Data System (FPDS) (as established under the authority of the Office of Federal Procurement Policy Act, as amended, 41 U.S.C. 401 *et seq.*), a Federal executive agency is required to submit to the Federal Procurement Data Center (FPDC) all the information with respect to one or more contracts required to be reported by paragraph (a) of this section, that Federal executive agency may, in lieu of making returns directly to the Internal Revenue Service with respect to those contracts, elect to have the Director of the FPDC (or his or her delegate) make the required returns with respect to all of those contracts on its behalf. In order to make this election for such contracts entered into during a calendar quarter, the head of a Federal executive agency (or his or her delegate) shall attach to its submission to the FPDC for that quarter a signed statement to the effect that:
 
 (A) The Director of the FPDC (or his or her delegate) is authorized, in accordance with an election made under 26 CFR 1.6050M-1(d)(5) to make, on the agency's behalf, the required returns for such contracts for that quarter, and
 
@@ -100,7 +104,7 @@ Instead, an order placed by a Federal executive agency, including the General Se
 
 If the election is made, the Director of the FPDC (or his or her delegate) shall, on the electing agency's behalf, make the returns required by paragraph (a) of this section with respect to the contracts to which the election applies.
 
-(ii) *Time, manner, and place of filing.* The Director of the FPDC (or his or her delegate) must -
+(ii) *Time, manner, and place of filing.* The Director of the FPDC (or his or her delegate) must—
 
 (A) Make the required returns for a quarter on or before the earlier of;
 
@@ -114,28 +118,30 @@ Notwithstanding the preceding sentence, returns made before May 7, 1990, will be
 
 (iii) *Contracts reported directly to the Internal Revenue Service.* Even if the election is made, all information with respect to any particular contract required to be reported under paragraph (a) of this section must be reported directly to the Internal Revenue Service by the electing agency if the FPDS does not require that information to be submitted to the FPDC. An electing agency shall not, however, make direct returns to the Internal Revenue Service of contract information that is subject to the election.
 
-(6) *Certification of return* - (i) *Returns made directly with the Internal Revenue Service.* Each return made under this section by a Federal executive agency directly with the Internal Revenue Service on magnetic media or on Forms 8596 and 8596-A shall be signed by the head of the Federal executive agency (or his or her delegate) under the penalties of perjury, certifying that such official has examined the return, that it is prepared pursuant to the requirements of section 6050M and that, to the best of such official's knowledge and belief, it is compiled from agency records maintained in the normal course of business for the purpose of making a true, correct, and complete return as required by section 6050M.
+(6) *Certification of return*—(i) *Returns made directly with the Internal Revenue Service.* Each return made under this section by a Federal executive agency directly with the Internal Revenue Service on magnetic media or on Forms 8596 and 8596-A shall be signed by the head of the Federal executive agency (or his or her delegate) under the penalties of perjury, certifying that such official has examined the return, that it is prepared pursuant to the requirements of section 6050M and that, to the best of such official's knowledge and belief, it is compiled from agency records maintained in the normal course of business for the purpose of making a true, correct, and complete return as required by section 6050M.
 
 (ii) *Returns made by Director of FPDC on agency's behalf.* Each return made under this section by the Director of the FPDC on behalf of a Federal executive agency shall be signed by the Director of the FPDC (or his or her delegate) under the penalties of perjury, certifying that such official has examined the return, that it is prepared pursuant to the requirements of section 6050M and that, to the best of such official's knowledge and belief, it is compiled from information submitted by the Federal executive agency to the FPDC pursuant to § 1.6050M-1(d)(5)(i) for the purpose of making a true, correct, and complete return as required by section 6050M.
 
 (e) *Special rules relating to increases in amount obligated.* If, through the exercise of an option contained in a basic or initial contract or under any other rule of contract law, express or implied, the amount of money or other property obligated under the contract is increased by more than $25,000 in one contract action, then that action shall be treated as the entering into of a new contract with respect to which the information required by paragraph (a) of this section is to be reported to the Internal Revenue Service for the calendar quarter in which the increase occurs.
 
-(f) *Effective date* - (1) *Contracts required to be reported.* Except as otherwise provided in this paragraph (f), this section applies to each Federal executive agency with respect to its contracts entered into on or after January 1, 1989 (including any increase in amount obligated on or after January 1, 1989, that is treated as a new contract under paragraph (e) of this section).
+(f) *Applicability date*—(1) *Contracts required to be reported.* Except as otherwise provided in this paragraph (f), this section applies to each Federal executive agency with respect to its contracts entered into on or after January 1, 1989 (including any increase in amount obligated on or after January 1, 1989, that is treated as a new contract under paragraph (e) of this section).
 
-(2) *Contracts not required to be reported.* A Federal executive agency is not required to report -
+(2) *Contracts not required to be reported.* A Federal executive agency is not required to report—
 
 (i) Any basic or initial contract entered into before January 1, 1989,
 
 (ii) Any increase contract action occurring before January 1, 1989, that is treated as a new contract under paragraph (e) of this section, or
 
-(iii) Any increase contract action that is treated as a new contract under paragraph (e) of this section if the basic or initial contract to which that contract action relates was entered into before January 1, 1989, and -
+(iii) Any increase contract action that is treated as a new contract under paragraph (e) of this section if the basic or initial contract to which that contract action relates was entered into before January 1, 1989, and—
 
 (A) The increase occurs before April 1, 1990, or
 
 (B) The amount of the increase does not exceed $50,000.
 
-(3) *Illustration* - (i) If Federal executive agency enters into an initial contract on December 1, 1988, and the amount of money obligated under the contract is increased by $55,000 on April 15, 1990, then (A) there is no reporting requirement with respect to the contract when entered into on December 1, 1988, and (B) the April 15, 1990, increase, which is treated as a new contract under paragraph (e) of this section, is subject to the reporting requirements of this section because it is considered to be a new contract entered into on April 15, 1990.
+(3) *Illustration.* (i) If a Federal executive agency enters into an initial contract on December 1, 1988, and the amount of money obligated under the contract is increased by $55,000 on April 15, 1990, then there is no reporting requirement with respect to the contract when entered into on December 1, 1988. However, the April 15, 1990, increase, which is treated as a new contract under paragraph (e) of this section, is subject to the reporting requirements of this section because it is considered to be a new contract entered into on April 15, 1990.
 
-(ii) If the $55,000 increase had occurred before April 1, 1990, there would have been no reporting requirement with respect to that increase.
+(ii) If the $55,000 increase had occurred before April 1, 1990, there would not have been a reporting requirement with respect to that increase.
 
-[T.D. 8275, 54 FR 50369, Dec. 6, 1989; 55 FR 13522, Apr. 11, 1990]
+(4) *Filing requirements for contracts required to be reported.* Section 1.6050M-1(d)(2) and (3) (as contained in 26 CFR part 1, revised *February 23, 2023*) applies to information returns required to be filed during calendar years beginning after December 31, 2023.
+
+[T.D. 8275, 54 FR 50369, Dec. 6, 1989; 55 FR 13522, Apr. 11, 1990; T.D. 9972, 88 FR 11765, Feb. 23, 2023]

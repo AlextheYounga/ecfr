@@ -1,5 +1,7 @@
-##### § 1.6033-4 Required use of magnetic media for returns by organizations required to file returns under section 6033. #####
+##### § 1.6033-4 Required filing in electronic form for returns by organizations required to file returns under section 6033. #####
 
-The return of an organization that is required to be filed on magnetic media under § 301.6033-4 of this chapter must be filed in accordance with Internal Revenue Service revenue procedures, publications, forms, or instructions, including those posted electronically. (See § 601.601(d)(2) of this chapter).
+(a) *In general.* The return of an organization that is required to be filed in electronic form under § 301.6033-4 of this chapter must be filed in accordance with IRS revenue procedures, publications, forms, instructions, or other guidance.
 
-[T.D. 9364, 72 FR 63810, Nov. 13, 2007]
+(b) *Applicability date.* The rules of this section apply for returns required to be filed for taxable years ending on or after February 23, 2023.
+
+[T.D. 9972, 88 FR 11764, Feb. 23, 2023]

@@ -2150,7 +2150,7 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (vii) Combined Form 1042-S reporting.
 
-(e) Magnetic media reporting.
+(e) Reporting in electronic form.
 
 (f) Indemnification of withholding agent.
 
@@ -2168,7 +2168,7 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (4) Extensions of time to file.
 
-(j) Effective/applicability date.
+(j) Applicability date.
 
 § 1.1474-2 Adjustments for overwithholding or underwithholding of tax.
 
@@ -2264,7 +2264,7 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (c) Effective/applicability date.
 
-§ 301.1474-1 Required use of magnetic media for financial institutions filing Form 1042-S or Form 8966.
+§ 301.1474-1 Required use of electronic form for financial institutions filing Form 1042, Form 1042-S, or Form 8966.
 
 (a) Financial institutions filing certain information returns.
 
@@ -2274,10 +2274,10 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (d) Meaning of terms.
 
-(1) Magnetic media.
+(1) Magnetic media or electronic form.
 
 (2) Financial institution.
 
-(e) Effective/applicability date.
+(e) Applicability date.
 
-[T.D. 9610, 78 FR 5899, Jan. 28, 2013; 78 FR 55203, Sept. 10, 2013; as amended by T.D. 9809, 82 FR 2144, Jan. 6, 2017; T.D. 9852, 84 FR 10979, Mar. 25, 2019; T.D. 9890, 85 FR 204, Jan. 2, 2020]
+[T.D. 9610, 78 FR 5899, Jan. 28, 2013; 78 FR 55203, Sept. 10, 2013; as amended by T.D. 9809, 82 FR 2144, Jan. 6, 2017; T.D. 9852, 84 FR 10979, Mar. 25, 2019; T.D. 9890, 85 FR 204, Jan. 2, 2020; T.D. 9972, 88 FR 11763, Feb. 23, 2023]

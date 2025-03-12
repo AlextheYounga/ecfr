@@ -72,7 +72,7 @@ This section lists the major captions that appear in §§ 1.6050I-1 and 1.6050I-
 
 (i) In general.
 
-(ii) Casinos exempt under 31 CFR 103.45(c).
+(ii) Casinos exempt under 31 CFR 1010.970(c).
 
 (iii) Reporting of cash received in a nongaming business.
 
@@ -158,4 +158,4 @@ This section lists the major captions that appear in §§ 1.6050I-1 and 1.6050I-
 
 (f) Effective date.
 
-[T.D. 8652, 61 FR 7, Jan. 2, 1996, as amended by T.D. 8974, 66 FR 67687, Dec. 31, 2001]
+[T.D. 8652, 61 FR 7, Jan. 2, 1996, as amended by T.D. 8974, 66 FR 67687, Dec. 31, 2001; T.D. 9972, 88 FR 11764, Feb. 23, 2023]

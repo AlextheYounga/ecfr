@@ -1,0 +1,3 @@
+##### § 60.373 Monitoring of emissions and operations. #####
+
+The owner or operator of any lead-acid battery manufacturing facility subject to the provisions of this subpart and controlled by a scrubbing system(s) shall install, calibrate, maintain, and operate a monitoring device(s) that measures and records the pressure drop across the scrubbing system(s) at least once every 15 minutes. The monitoring device shall have an accuracy of ±5 percent over its operating range.

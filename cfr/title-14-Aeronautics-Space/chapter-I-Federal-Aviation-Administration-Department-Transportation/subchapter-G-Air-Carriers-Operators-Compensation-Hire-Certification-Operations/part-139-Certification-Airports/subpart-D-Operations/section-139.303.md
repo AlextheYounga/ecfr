@@ -1,6 +1,8 @@
 ##### § 139.303 Personnel. #####
 
-In a manner authorized by the Administrator, each certificate holder must -
+Link to an amendment published at 88 FR 11672, Feb. 23, 2023.
+
+In a manner authorized by the Administrator, each certificate holder must—
 
 (a) Provide sufficient and qualified personnel to comply with the requirements of its Airport Certification Manual and the requirements of this part.
 
@@ -34,7 +36,7 @@ In a manner authorized by the Administrator, each certificate holder must -
 
 (6) § 139.339, Airport condition reporting.
 
-(f) Use an independent organization, or designee, to comply with the requirements of its Airport Certification Manual and the requirements of this part only if -
+(f) Use an independent organization, or designee, to comply with the requirements of its Airport Certification Manual and the requirements of this part only if—
 
 (1) Such an arrangement is authorized by the Administrator;
 

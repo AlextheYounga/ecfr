@@ -1,5 +1,7 @@
 ##### § 139.5 Definitions. #####
 
+Link to an amendment published at 88 FR 11671, Feb. 23, 2023.
+
 The following are definitions of terms used in this part:
 
 *AFFF* means aqueous film forming foam agent.
@@ -48,6 +50,6 @@ The following are definitions of terms used in this part:
 
 Note:
 
-*Special Statutory Requirement To Operate to or From a Part 139 Airport.* Each air carrier that provides - in an aircraft designed for more than 9 passenger seats - regularly scheduled charter air transportation for which the public is provided in advance a schedule containing the departure location, departure time, and arrival location of the flight must operate to and from an airport certificated under part 139 of this chapter in accordance with 49 U.S.C. 41104(b). That statutory provision contains stand-alone requirements for such air carriers and special exceptions for operations in Alaska and outside the United States. Certain operations by air carriers that conduct public charter operations under 14 CFR part 380 are covered by the statutory requirements to operate to and from part 139 airports. See 49 U.S.C. 41104(b).
+*Special Statutory Requirement To Operate to or From a Part 139 Airport.* Each air carrier that provides—in an aircraft designed for more than 9 passenger seats—regularly scheduled charter air transportation for which the public is provided in advance a schedule containing the departure location, departure time, and arrival location of the flight must operate to and from an airport certificated under part 139 of this chapter in accordance with 49 U.S.C. 41104(b). That statutory provision contains stand-alone requirements for such air carriers and special exceptions for operations in Alaska and outside the United States. Certain operations by air carriers that conduct public charter operations under 14 CFR part 380 are covered by the statutory requirements to operate to and from part 139 airports. See 49 U.S.C. 41104(b).
 
 [Doc. No. FAA-2000-7479, 69 FR 6424, Feb. 10, 2004, as amended by Amdt. 139-27, 78 FR 3316, Jan. 16, 2013]
