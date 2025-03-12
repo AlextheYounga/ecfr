@@ -1,0 +1,7 @@
+##### § 158.704 Official worksite. #####
+
+(a) *Definition.* A DHS-CS employee's official worksite is the geographic location where the employee regularly performs DHS-CS cybersecurity work or where the employee's DHS-CS cybersecurity work is based, as determined and documented by the Department under this section.
+
+(b) *Determination.* The Department determines a DHS-CS employee's official work site for purposes of administering compensation under this part, especially eligibility for any compensation described in §§ 158.612 and 158.643. The Department's determination of a DHS-CS employee's official worksite includes consideration of any of the following for the employee: Telework, variation in location where the employee performs DHS-CS cybersecurity work, and temporary situations affecting the location where the employee performs DHS-CS cybersecurity work.
+
+(c) *Documentation.* Upon appointment of an individual to a qualified position, the Department documents the individual's official worksite as part of documenting the employee's appointment to a qualified position and the employee's assignment, as described in § 158.706. The Department updates documentation of a DHS-CS employee's official worksite, if the geographic location where the DHS-CS employee regularly performs DHS-CS cybersecurity work changes and such change impacts the determination of the DHS-CS employee's official worksite under paragraph (a) of this section and such change is expected to last, or does last, for six months or more.

@@ -1,7 +1,5 @@
 ##### § 1.77 Arrangement of application elements. #####
 
-Link to an amendment published at 86 FR 57047, Oct. 14, 2021.
-
 (a) The elements of the application, if applicable, should appear in the following order:
 
 (1) Utility application transmittal form.
@@ -26,7 +24,13 @@ Link to an amendment published at 86 FR 57047, Oct. 14, 2021.
 
 (4) The names of the parties to a joint research agreement.
 
-(5) Reference to a “Sequence Listing,” a table, or a computer program listing appendix submitted on a compact disc and an incorporation-by-reference of the material on the compact disc (see § 1.52(e)(5)). The total number of compact discs including duplicates and the files on each compact disc shall be specified.
+(5) An incorporation by reference statement regarding the material in the one or more ASCII plain text files, submitted via the USPTO patent filing system or on one or more read-only optical discs (*see* § 1.52(e)(8)), identifying the names of each file, the date of creation of each file, and the size of each file in bytes, for the following document types:
+
+(i) A “Computer Program Listing Appendix” (*see* § 1.96(c));
+
+(ii) A “Sequence Listing” (*see* § 1.821(c)); or
+
+(iii) “Large Tables” (*see* § 1.58(c)).
 
 (6) Statement regarding prior disclosures by the inventor or a joint inventor.
 
@@ -42,8 +46,8 @@ Link to an amendment published at 86 FR 57047, Oct. 14, 2021.
 
 (12) Abstract of the disclosure.
 
-(13) “Sequence Listing,” if on paper (see §§ 1.821 through 1.825).
+(13) “Sequence Listing,” required by § 1.821(c), that is submitted as a “Portable Document Format” (PDF)file (as set forth in § 1.821(c)(1)(ii)) via the USPTO patent electronic filing system or on physical sheets of paper (as set forth in § 1.821(c)(1)(iii)).
 
 (c) The text of the specification sections defined in paragraphs (b)(1) through (b)(12) of this section, if applicable, should be preceded by a section heading in uppercase and without underlining or bold type.
 
-[65 FR 54668, Sept. 8, 2000, as amended at 70 FR 1823, Jan. 11, 2005; 77 FR 48820, Aug. 14, 2012; 78 FR 11055, Feb. 14, 2013]
+[65 FR 54668, Sept. 8, 2000, as amended at 70 FR 1823, Jan. 11, 2005; 77 FR 48820, Aug. 14, 2012; 78 FR 11055, Feb. 14, 2013; 86 FR 57047, Oct. 14, 2021]

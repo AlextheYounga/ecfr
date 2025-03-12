@@ -1,6 +1,4 @@
-##### § 1.52 Language, paper, writing, margins, compact disc specifications. #####
-
-Link to an amendment published at 86 FR 57045, Oct. 14, 2021.
+##### § 1.52 Language, paper, writing, margins, read-only optical disc specifications. #####
 
 (a) *Papers that are to become a part of the permanent United States Patent and Trademark Office records in the file of a patent application, or a reexamination or supplemental examination proceeding.* (1) All papers, other than drawings, that are submitted on paper or by facsimile transmission, and are to become a part of the permanent United States Patent and Trademark Office records in the file of a patent application or reexamination or supplemental examination proceeding, must be on sheets of paper that are the same size, not permanently bound together, and:
 
@@ -52,42 +50,76 @@ Link to an amendment published at 86 FR 57045, Oct. 14, 2021.
 
 (2) *Provisional application.* If a provisional application under 35 U.S.C. 111(b) is filed in a language other than English, an English language translation of the non-English language provisional application will not be required in the provisional application. *See* § 1.78(a) for the requirements for claiming the benefit of such provisional application in a nonprovisional application.
 
-(e) *Electronic documents that are to become part of the permanent United States Patent and Trademark Office records in the file of a patent application, or reexamination or supplemental examination proceeding.* (1) The following documents may be submitted to the Office on a compact disc in compliance with this paragraph:
+(e) *Electronic documents submitted on a read-only optical disc that are to become part of the permanent United States Patent and Trademark Office records in the file of a patent application, reexamination, or supplemental examination proceeding.* (1) The following documents may be submitted to the Office on a read-only optical disc in compliance with this paragraph (e):
 
-(i) A computer program listing (see § 1.96);
+(i) A “Computer Program Listing Appendix” (*see* § 1.96(c));
 
-(ii) A “Sequence Listing” (submitted under § 1.821(c)); or
+(ii) A “Sequence Listing” (submitted under § 1.821(c) in compliance with § 1.824); or
 
-(iii) Any individual table (see § 1.58) if the table is more than 50 pages in length, or if the total number of pages of all the tables in an application exceeds 100 pages in length, where a table page is a page printed on paper in conformance with paragraph (b) of this section and § 1.58(c).
+(iii) “Large Tables” (*see* § 1.58(c)).
 
-(2) A compact disc as used in this part means a Compact Disc-Read Only Memory (CD-ROM) or a Compact Disc-Recordable (CD-R) in compliance with this paragraph. A CD-ROM is a “read-only” medium on which the data is pressed into the disc so that it cannot be changed or erased. A CD-R is a “write once” medium on which once the data is recorded, it is permanent and cannot be changed or erased.
+(2) Read-only optical disc as used in this part means a finalized disc, in conformance with International Organization for Standardization (ISO) 9660, on which the data is recorded so it is permanent and cannot be changed or erased, and is one of:
 
-(3)(i) Each compact disc must conform to the International Organization for Standardization (ISO) 9660 standard, and the contents of each compact disc must be in compliance with the American Standard Code for Information Interchange (ASCII).
+(i) Compact Disc-Read-Only Memory (CD-ROM) or a Compact Disc-Recordable (CD-R); or
 
-(ii) Each compact disc must be enclosed in a hard compact disc case within an unsealed padded and protective mailing envelope and accompanied by a transmittal letter on paper in accordance with paragraph (a) of this section. The transmittal letter must list for each compact disc the machine format (*e.g.,* IBM-PC, Macintosh), the operating system compatibility (*e.g.,* MS-DOS, MS-Windows, Macintosh, Unix), a list of files contained on the compact disc including their names, sizes in bytes, and dates of creation, plus any other special information that is necessary to identify, maintain, and interpret (*e.g.,* tables in landscape orientation should be identified as landscape orientation or be identified when inquired about) the information on the compact disc. Compact discs submitted to the Office will not be returned to the applicant.
+(ii) Digital Video Disc-Recordable (DVD-R or DVD+R);
 
-(4) Any compact disc must be submitted in duplicate unless it contains only the “Sequence Listing” in computer readable form required by § 1.821(e). The compact disc and duplicate copy must be labeled “Copy 1” and “Copy 2,” respectively. The transmittal letter which accompanies the compact disc must include a statement that the two compact discs are identical. In the event that the two compact discs are not identical, the Office will use the compact disc labeled “Copy 1” for further processing. Any amendment to the information on a compact disc must be by way of a replacement compact disc in compliance with this paragraph containing the substitute information, and must be accompanied by a statement that the replacement compact disc contains no new matter. The compact disc and copy must be labeled “COPY 1 REPLACEMENT MM/DD/YYYY” (with the month, day and year of creation indicated), and “COPY 2 REPLACEMENT MM/DD/YYYY,” respectively.
+(3) Each read-only optical disc must conform to the following requirements:
 
-(5) The specification must contain an incorporation-by-reference of the material on the compact disc in a separate paragraph (§ 1.77(b)(5)), identifying each compact disc by the names of the files contained on each of the compact discs, their date of creation and their sizes in bytes. The Office may require applicant to amend the specification to include in the paper portion any part of the specification previously submitted on compact disc.
+(i) Computer compatibility: PC or Mac®;
 
-(6) A compact disc must also be labeled with the following information:
+(ii) Operating system compatibility: MS-DOS®, MS-Windows®, MacOS®, or Unix®/Linux®; and
 
-(i) The name of each inventor (if known);
+(iii) The contents of each read-only optical disc must be in American Standard Code for Information Interchange (ASCII) plain text and if compressed, must be compressed in accordance with §§ 1.58, 1.96, and 1.824, as applicable.
+
+(4) Each read-only optical disc must be enclosed in a hard case within an unsealed, padded, and protective mailing envelope, and must be accompanied by a transmittal letter in accordance with paragraph (a) of this section, including the following information:
+
+(i) First-named inventor (if known);
 
 (ii) Title of the invention;
 
-(iii) The docket number, or application number if known, used by the person filing the application to identify the application;
+(iii) Attorney docket or file reference number (if applicable);
 
-(iv) A creation date of the compact disc;
+(iv) Application number and filing date (if known);
 
-(v) If multiple compact discs are submitted, the label shall indicate their order (*e.g.,* “1 of X”); and
+(v) The operating system (MS-DOS®, MS-Windows®, Mac OS®, or Unix®/Linux®) used to produce the disc; and
 
-(vi) An indication that the disc is “Copy 1” or “Copy 2” of the submission. See paragraph (b)(4) of this section.
+(vi) The file(s) contained on the read-only optical disc, including the name of the file, the size of the file in bytes, and the date of creation.
 
-(7) If a file is unreadable on both copies of the disc, the unreadable file will be treated as not having been submitted. A file is unreadable if, for example, it is of a format that does not comply with the requirements of paragraph (e)(3) of this section, it is corrupted by a computer virus, or it is written onto a defective compact disc.
+(5) Each read-only optical disc must have a label permanently affixed thereto on which the following information has been hand-printed or typed:
 
-(f)(1) Any sequence listing in an electronic medium in compliance with §§ 1.52(e) and 1.821(c) or (e), and any computer program listing filed in an electronic medium in compliance with §§ 1.52(e) and 1.96, will be excluded when determining the application size fee required by § 1.16(s) or § 1.492(j). For purposes of determining the application size fee required by § 1.16(s) or § 1.492(j), for an application the specification and drawings of which, excluding any sequence listing in compliance with § 1.821(c) or (e), and any computer program listing filed in an electronic medium in compliance with §§ 1.52(e) and 1.96, are submitted in whole or in part on an electronic medium other than the Office electronic filing system, each three kilobytes of content submitted on an electronic medium shall be counted as a sheet of paper.
+(i) First-named inventor (if known);
 
-(2) Except as otherwise provided in this paragraph, the paper size equivalent of the specification and drawings of an application submitted via the Office electronic filing system will be considered to be seventy-five percent of the number of sheets of paper present in the specification and drawings of the application when entered into the Office file wrapper after being rendered by the Office electronic filing system for purposes of determining the application size fee required by § 1.16(s). Any sequence listing in compliance with § 1.821(c) or (e), and any computer program listing in compliance with § 1.96, submitted via the Office electronic filing system will be excluded when determining the application size fee required by § 1.16(s) if the listing is submitted in ASCII text as part of an associated file.
+(ii) Title of the invention;
+
+(iii) Attorney docket or file reference number (if applicable);
+
+(iv) Application number and filing date (if known);
+
+(v) Date on which the data were recorded on the read-only optical disc; and
+
+(vi) Disc order (*e.g.,* “1 of X”), if multiple read-only optical discs are submitted.
+
+(6) Read-only optical discs will not be returned to the applicant and may not be retained as part of the patent application file.
+
+(7) Any amendment to the information on a read-only optical disc must be by way of a replacement read-only optical disc, in compliance with § 1.58(g) for “Large Tables,” § 1.96(c)(5) for a “Computer Program Listing Appendix,” and § 1.825(b) for a “Sequence Listing” or Computer Readable Form (CRF) of a “Sequence Listing.”
+
+(8) The specification must contain an incorporation by reference of the material on each read-only optical disc in a separate paragraph (§ 1.77(b)(5)), identifying the name of each file, their date of creation, and their size in bytes, except for an international application in the international stage. The Office may require the applicant to amend the specification to include the material incorporated by reference.
+
+(9) If a file is unreadable, it will be treated as not having been submitted, and a notice will be issued to require a compliant submission.
+
+(f) *Determining application size fees for applications containing electronic documents submitted on a read-only optical disc or via the USPTO patent electronic filing system* - (1) *Submission on Read-Only Optical Discs:* The application size fee required by § 1.16(s) or 1.492(j), for an application component submitted in part on a read-only optical disc in compliance with paragraph (e) of this section, shall be determined such that each three kilobytes of content submitted on a read-only optical disc shall be counted as a sheet of paper. Excluded from this determination is any ASCII plain text file submitted on a read-only optical disc under paragraph (e) of this section containing:
+
+(i) Any “Sequence Listing” or CRF of a “Sequence Listing” in compliance with § 1.821(c) or (e); or
+
+(ii) Any “Computer Program Listing Appendix” in compliance with § 1.96(c).
+
+(2) *Submission via the USPTO Patent Electronic Filing System:* The application size fee required by § 1.16(s) or § 1.492(j), for an application submitted in whole or in part via the USPTO patent electronic filing system, shall be determined such that the paper size equivalent will be considered to be 75% of the number of sheets of paper present in the specification and drawings in the application when entered into the Office file wrapper after being rendered by the USPTO patent electronic filing system. Excluded from this determination is any ASCII plain text file submitted via the USPTO patent electronic filing system containing:
+
+(i) Any “Sequence Listing” or CRF of a “Sequence Listing” in compliance with § 1.821(c) or (e); or
+
+(ii) Any “Computer Program Listing Appendix” in compliance with § 1.96(c).
+
+(3) *Oversized submission.* Any submission of a “Sequence Listing” in electronic form of 300 MB-800 MB filed in an application under 35 U.S.C. 111 or 371 will be subject to the fee set forth in § 1.21(o)(1). Any submission of a “Sequence Listing” filed in electronic form that exceeds 800 MB in an application under 35 U.S.C. 111 or 371 will be subject to the fee set forth in § 1.21(o)(2).
 
 (Pub. L. 94-131, 89 Stat. 685; 35 U.S.C. 6, Pub. L. 97-247; 15 U.S.C. 1113, 1123)[43 FR 20462, May 11, 1978]Editorial Note:For Federal Register citations affecting § 1.52, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

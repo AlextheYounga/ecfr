@@ -1,0 +1,3 @@
+##### § 158.201 Cybersecurity mission. #####
+
+Cybersecurity is a matter of homeland security and one of the core missions of the Department. Congress and the President charge the Department with responsibilities relating to cybersecurity and grant the Secretary and other officials authorities to carry out those cybersecurity responsibilities. The Department's cybersecurity mission is dynamic to keep pace with the evolving cybersecurity risks and cybersecurity threats facing the Nation and to adapt to any changes in the Department's cybersecurity responsibilities. The DHS cybersecurity mission encompasses all responsibilities of the Department relating to cybersecurity.

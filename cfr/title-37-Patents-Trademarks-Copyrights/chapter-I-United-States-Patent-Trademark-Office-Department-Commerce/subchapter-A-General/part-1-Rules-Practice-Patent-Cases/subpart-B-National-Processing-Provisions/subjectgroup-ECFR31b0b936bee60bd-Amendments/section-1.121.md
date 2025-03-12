@@ -1,10 +1,8 @@
 ##### § 1.121 Manner of making amendments in applications. #####
 
-Link to an amendment published at 86 FR 57048, Oct. 14, 2021.
-
 (a) *Amendments in applications, other than reissue applications.* Amendments in applications, other than reissue applications, are made by filing a paper, in compliance with § 1.52, directing that specified amendments be made.
 
-(b) *Specification.* Amendments to the specification, other than the claims, computer listings (§ 1.96) and sequence listings (§ 1.825), must be made by adding, deleting or replacing a paragraph, by replacing a section, or by a substitute specification, in the manner specified in this section.
+(b) *Specification.* Amendments to the specification, other than the claims, “Large Tables” (§ 1.58(c)), a “Computer Program Listing Appendix” (§ 1.96(c)(5) and (7)), and a “Sequence Listing” or CRF (§ 1.825), must be made by adding, deleting, or replacing a paragraph; by replacing a section; or by a substitute specification (§ 1.125), in the manner specified in this section.
 
 (1) *Amendment to delete, replace, or add a paragraph.* Amendments to the specification, including amendment to a section heading or the title of the invention which are considered for amendment purposes to be an amendment of a paragraph, must be made by submitting:
 
@@ -31,6 +29,8 @@ Link to an amendment published at 86 FR 57048, Oct. 14, 2021.
 (4) *Reinstatement of previously deleted paragraph or section.* A previously deleted paragraph or section may be reinstated only by a subsequent amendment adding the previously deleted paragraph or section.
 
 (5) *Presentation in subsequent amendment document.* Once a paragraph or section is amended in a first amendment document, the paragraph or section shall not be re-presented in a subsequent amendment document unless it is amended again or a substitute specification is provided.
+
+(6) Changes to “Large Tables,” a “Computer Program Listing Appendix,” or a “Sequence Listing” must be made in accordance with § 1.58(g) for “Large Tables,” § 1.96(c)(5) for a “Computer Program Listing Appendix,” and § 1.825 for a “Sequence Listing.”
 
 (c) *Claims.* Amendments to a claim must be made by rewriting the entire claim with all changes (*e.g.*, additions and deletions) as indicated in this subsection, except when the claim is being canceled. Each amendment document that includes a change to an existing claim, cancellation of an existing claim or addition of a new claim, must include a complete listing of all claims ever presented, including the text of all pending and withdrawn claims, in the application. The claim listing, including the text of the claims, in the amendment document will serve to replace all prior versions of the claims, in the application. In the claim listing, the status of every claim must be indicated after its claim number by using one of the following identifiers in a parenthetical expression: (Original), (Currently amended), (Canceled), (Withdrawn), (Previously presented), (New), and (Not entered).
 
@@ -66,4 +66,4 @@ Link to an amendment published at 86 FR 57048, Oct. 14, 2021.
 
 (k) *Amendments in provisional applications.* Amendments in provisional applications are not usually made. If an amendment is made to a provisional application, however, it must comply with the provisions of this section. Any amendments to a provisional application shall be placed in the provisional application file but may not be entered.
 
-[68 FR 38628, June 30, 2003, as amended at 69 FR 56543, Sept. 21, 2004; 80 FR 17963, Apr. 2, 2015]
+[68 FR 38628, June 30, 2003, as amended at 69 FR 56543, Sept. 21, 2004; 80 FR 17963, Apr. 2, 2015; 86 FR 57048, Oct. 14, 2021]

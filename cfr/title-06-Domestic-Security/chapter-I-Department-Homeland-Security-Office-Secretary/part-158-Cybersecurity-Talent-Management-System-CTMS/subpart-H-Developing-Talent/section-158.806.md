@@ -1,0 +1,5 @@
+##### § 158.806 Development reviews. #####
+
+(a) The Department reviews a DHS-CS employee's career progression, as described in § 158.803(b) throughout the employee's service in the DHS-CS. The Department generates a development summary, at least annually, which may include plans for a DHS-CS employee's continual learning in alignment with the criteria for continual learning under the career development program described in § 158.803.
+
+(b) As part of development reviews, the Department may compare, categorize, and rank DHS-CS employees to support decisions related to professional development and training under § 158.640. The Department may also use information from development reviews in matching subsequent assignments under § 158.703. The Department may conduct development reviews concurrently with mission impact reviews.

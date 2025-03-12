@@ -1,7 +1,5 @@
 ##### § 1.71 Detailed description and specification of the invention. #####
 
-Link to an amendment published at 86 FR 57047, Oct. 14, 2021.
-
 (a) The specification must include a written description of the invention or discovery and of the manner and process of making and using the same, and is required to be in such full, clear, concise, and exact terms as to enable any person skilled in the art or science to which the invention or discovery appertains, or with which it is most nearly connected, to make and use the same.
 
 (b) The specification must set forth the precise invention for which a patent is solicited, in such manner as to distinguish it from other inventions and from what is old. It must describe completely a specific embodiment of the process, machine, manufacture, composition of matter or improvement invented, and must explain the mode of operation or principle whenever applicable. The best mode contemplated by the inventor of carrying out his invention must be set forth.
@@ -14,7 +12,7 @@ Link to an amendment published at 86 FR 57047, Oct. 14, 2021.
 
 A portion of the disclosure of this patent document contains material which is subject to (copyright or mask work) protection. The (copyright or mask work) owner has no objection to the facsimile reproduction by anyone of the patent document or the patent disclosure, as it appears in the Patent and Trademark Office patent file or records, but otherwise reserves all (copyright or mask work) rights whatsoever.
 
-(f) The specification must commence on a separate sheet. Each sheet including part of the specification may not include other parts of the application or other information. The claim(s), abstract and sequence listing (if any) should not be included on a sheet including any other part of the application.
+(f) The specification must commence on a separate sheet. Each sheet including part of the specification may not include other parts of the application or other information. The claim(s), abstract, and “Sequence Listing” (if required or submitted under § 1.821(c)) should not be included on a sheet including any other part of the application.
 
 (g)(1) The specification may disclose or be amended to disclose the names of the parties to a joint research agreement as defined in § 1.9(e).
 
@@ -30,4 +28,4 @@ A portion of the disclosure of this patent document contains material which is s
 
 (3) If an amendment under paragraph (g)(1) of this section is filed after the date the issue fee is paid, the patent as issued may not necessarily include the names of the parties to the joint research agreement. If the patent as issued does not include the names of the parties to the joint research agreement, the patent must be corrected to include the names of the parties to the joint research agreement by a certificate of correction under 35 U.S.C. 255 and § 1.323 for the amendment to be effective.
 
-[24 FR 10332, Dec. 22, 1959, as amended at 53 FR 47808, Nov. 28, 1988; 58 FR 38723, July 20, 1993; 68 FR 38628, June 30, 2003; 70 FR 1823, Jan. 11, 2005; 70 FR 54266, Sept. 14, 2005; 78 FR 11055, Feb. 14, 2013]
+[24 FR 10332, Dec. 22, 1959, as amended at 53 FR 47808, Nov. 28, 1988; 58 FR 38723, July 20, 1993; 68 FR 38628, June 30, 2003; 70 FR 1823, Jan. 11, 2005; 70 FR 54266, Sept. 14, 2005; 78 FR 11055, Feb. 14, 2013; 86 FR 57047, Oct. 14, 2021]

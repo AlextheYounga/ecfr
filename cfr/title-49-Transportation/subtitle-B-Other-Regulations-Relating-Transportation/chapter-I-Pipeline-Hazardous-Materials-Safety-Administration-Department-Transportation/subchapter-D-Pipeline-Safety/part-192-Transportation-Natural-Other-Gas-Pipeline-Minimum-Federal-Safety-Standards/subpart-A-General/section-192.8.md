@@ -1,5 +1,7 @@
 ##### § 192.8 How are onshore gathering lines and regulated onshore gathering lines determined? #####
 
+Link to an amendment published at 86 FR 63295, Nov. 15, 2021.
+
 (a) An operator must use API RP 80 (incorporated by reference, see § 192.7), to determine if an onshore pipeline (or part of a connected series of pipelines) is an onshore gathering line. The determination is subject to the limitations listed below. After making this determination, an operator must determine if the onshore gathering line is a regulated onshore gathering line under paragraph (b) of this section.
 
 (1) The beginning of gathering, under section 2.2(a)(1) of API RP 80, may not extend beyond the furthermost downstream point in a production operation as defined in section 2.3 of API RP 80. This furthermost downstream point does not include equipment that can be used in either production or transportation, such as separators or dehydrators, unless that equipment is involved in the processes of “production and preparation for transportation or delivery of hydrocarbon gas” within the meaning of “production operation.”

@@ -1,0 +1,9 @@
+##### § 158.708 Directed assignments. #####
+
+(a) Occasionally, the Department may direct a subsequent assignment of a DHS-CS employee, and such a directed subsequent assignment may require a change in the employee's official worksite, determined under § 158.704. For such directed subsequent assignments of a DHS-CS employee, the Department pays or reimburses expenses or allowances under and in accordance with the Federal Travel Regulations at 41 CFR chapters 301 and 302, and for such directed assignments that are not temporary, DHS provides notice to and consultation with the employee as described in this paragraph.
+
+(b) Directed subsequent assignments expected to last less than six months are considered temporary, and for purposes under the Federal Travel Regulations at 41 CFR chapters 301 and 302, are temporary duty.
+
+(c) For such directed subsequent assignments expected to last six months or more and with an official worksite in a DHS-CS employee's current commuting area, defined in 5 CFR 550.703, the Department provides the employee written notice at least 30 calendar days before the effective date of the subsequent assignment. This notice requirement may be waived only when the employee consents in writing.
+
+(d) For such directed subsequent assignments expected to last six months or more and with an official worksite outside of a DHS-CS employee's current commuting area, defined in 5 CFR 550.703, DHS consults with the employee on the reasons for, and the employee's preferences regarding, the proposed change in assignment. Following such consultation, the Department provides the employee written notice at least 90 calendar days before the effective date of the assignment. This notice requirement may be waived only when the employee consents in writing.

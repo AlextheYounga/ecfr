@@ -1,5 +1,7 @@
 ##### § 192.18 How to notify PHMSA. #####
 
+Link to an amendment published at 86 FR 63298, Nov. 15, 2021.
+
 (a) An operator must provide any notification required by this part by -
 
 (1) Sending the notification by electronic mail to *InformationResourcesManager@dot.gov;* or

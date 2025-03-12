@@ -1,5 +1,7 @@
 ##### § 192.150 Passage of internal inspection devices. #####
 
+Link to an amendment published at 86 FR 63298, Nov. 15, 2021.
+
 (a) Except as provided in paragraphs (b) and (c) of this section, each new transmission line and each replacement of line pipe, valve, fitting, or other line component in a transmission line, must be designed and constructed to accommodate the passage of instrumented internal inspection devices in accordance with NACE SP0102, section 7 (incorporated by reference, *see* § 192.7).
 
 (b) This section does not apply to: (1) Manifolds;

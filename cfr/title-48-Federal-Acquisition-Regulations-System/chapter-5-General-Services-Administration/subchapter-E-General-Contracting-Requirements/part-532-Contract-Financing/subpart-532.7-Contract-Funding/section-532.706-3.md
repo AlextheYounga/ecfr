@@ -1,4 +1,4 @@
-##### 532.706-3 Clause for unenforceability of unauthorized obligations. #####
+##### 532.706-3 Contract clauses for unenforceability of unauthorized obligations. #####
 
 GSA has a FAR deviation that allows use of the clause in paragraph (a) of this subsection in lieu of the FAR clause at 52.232-39.
 

@@ -1,0 +1,13 @@
+##### § 158.613 Salary range. #####
+
+(a) *Range.* The salary range provides the boundaries of the salary system described in § 158.610. The salary range comprises a standard range and an extended range, and the standard range applies unless the Secretary or designee invokes the extended range under paragraph (c) of this section.
+
+(b) *Standard range.* The upper limit of the standard range is equal to the amount of total annual compensation payable to the Vice President under 3 U.S.C. 104.
+
+(c) *Extended range.* The upper limit of the extended range is 150 percent of the annual rate of basic pay for level I of the Executive Schedule (150% of EX-I). Only DHS-CS employees serving in renewable appointments may receive a salary amount in the extended range, and only if the Secretary or designee invokes the extended range for those employees as described in this paragraph (c).
+
+(1) The Secretary or designee may invoke the extended range for a DHS-CS employee when the Secretary or designee determines, based on the compensation strategy in § 158.601, that the employee's qualifications, the employee's mission impact, and mission-related requirements warrant adjusting the employee's salary beyond the standard range. The Secretary or designee must approve the salary adjustment of each such employee by name, and to receive a salary in the extended range the employee must either already be in a renewable appointment or accept a renewable appointment. While the employee is receiving a salary in an amount in the extended range, the Department may not change that employee's appointment to a continuing appointment.
+
+(2) The Secretary or designee may invoke the extended range for an individual selected for appointment to a qualified position when the Secretary or designee determines, based on the compensation strategy in § 158.601, that the individual's qualifications, the individual's anticipated mission impact, and mission-related requirements warrant setting the individual's salary beyond the standard range. The Secretary or designee must approve the appointment of each such individual to a qualified position by name, and the individual must be appointed to a renewable appointment only. While that individual is receiving a salary under this part in an amount in the extended range, the Department may not change that individual's appointment to a continuing appointment at any time.
+
+(d) *Maximum.* No DHS-CS employee may receive a salary under this part in excess of 150% of EX-I.

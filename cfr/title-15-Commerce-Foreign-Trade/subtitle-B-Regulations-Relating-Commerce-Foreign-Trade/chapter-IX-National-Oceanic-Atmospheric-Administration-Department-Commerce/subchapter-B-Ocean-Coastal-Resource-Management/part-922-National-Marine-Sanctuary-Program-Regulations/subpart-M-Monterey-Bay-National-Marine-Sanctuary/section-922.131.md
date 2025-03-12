@@ -1,5 +1,7 @@
 ##### § 922.131 Definitions. #####
 
+Link to an amendment published at 86 FR 62912, Nov. 15, 2021.
+
 In addition to those definitions found at 15 CFR 922.3, the following definitions apply to this subpart:
 
 *Attract or attracting* means the conduct of any activity that lures or may lure any animal by using food, bait, chum, dyes, decoys, acoustics, or any other means, except the mere presence of human beings (e.g., swimmers, divers, boaters, kayakers, surfers).

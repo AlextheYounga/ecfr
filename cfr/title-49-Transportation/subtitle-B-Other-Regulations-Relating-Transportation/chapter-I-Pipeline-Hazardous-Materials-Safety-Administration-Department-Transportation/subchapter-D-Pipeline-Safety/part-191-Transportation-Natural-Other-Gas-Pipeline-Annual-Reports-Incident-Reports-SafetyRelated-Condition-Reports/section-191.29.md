@@ -1,5 +1,7 @@
 ##### § 191.29 National Pipeline Mapping System. #####
 
+Link to an amendment published at 86 FR 63295, Nov. 15, 2021.
+
 (a) Each operator of a gas transmission pipeline or liquefied natural gas facility must provide the following geospatial data to PHMSA for that pipeline or facility:
 
 (1) Geospatial data, attributes, metadata and transmittal letter appropriate for use in the National Pipeline Mapping System. Acceptable formats and additional information are specified in the NPMS Operator Standards Manual available at *www.npms.phmsa.dot.gov* or by contacting the PHMSA Geographic Information Systems Manager at (202) 366-4595.

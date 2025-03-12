@@ -1,43 +1,37 @@
-##### § 1.824 Form and format for nucleotide and/or amino acid sequence submissions in computer readable form. #####
+##### § 1.824 Form and format for a nucleotide and/or amino acid sequence submission as an ASCII plain text file. #####
 
-Link to an amendment published at 86 FR 57051, Oct. 14, 2021.
+(a) A “Sequence Listing” under § 1.821(c)(1) and the CRF required by § 1.821(e) submitted as an ASCII plain text file may be created by any means, such as text editors, nucleotide/amino acid sequence editors, or other custom computer programs; however, the ASCII plain text file must conform to the following requirements:
 
-(a) The computer readable form required by § 1.821(e) shall meet the following requirements:
+(1) Must have the following compatibilities:
 
-(1) The computer readable form shall contain a single “Sequence Listing” as either a diskette, series of diskettes, or other permissible media outlined in paragraph (c) of this section.
+(i) Computer compatibility: PC or Mac®; and
 
-(2) The “Sequence Listing” in paragraph (a)(l) of this section shall be submitted in American Standard Code for Information Interchange (ASCII) text. No other formats shall be allowed.
+(ii) Operating system compatibility: MS-DOS®, MS-Windows®, Mac OS®, or Unix®/Linux®.
 
-(3) The computer readable form may be created by any means, such as word processors, nucleotide/amino acid sequence editors' or other custom computer programs; however, it shall conform to all requirements detailed in this section.
+(2) Must be in ASCII plain text, where:
 
-(4) File compression is acceptable when using diskette media, so long as the compressed file is in a self-extracting format that will decompress on one of the systems described in paragraph (b) of this section.
+(i) All printable characters (including the space character) are permitted; and
 
-(5) Page numbering must not appear within the computer readable form version of the “Sequence Listing” file.
+(ii) No nonprintable (ASCII control) characters are permitted, except ASCII CRLF or LF as line terminators.
 
-(6) All computer readable forms must have a label permanently affixed thereto on which has been hand-printed or typed: the name of the applicant, the title of the invention, the date on which the data were recorded on the computer readable form, the operating system used, a reference number, and an application number and filing date, if known. If multiple diskettes are submitted, the diskette labels must indicate their order (e.g., “1 of X”).
+(3) Must be named as \*.txt, where “\*” is one character or a combination of characters limited to upper- or lowercase letters, numbers, hyphens, and underscores and does not exceed 60 characters in total, excluding the extension. No spaces or other types of characters are permitted in the file name.
 
-(b) Computer readable form submissions must meet these format requirements:
+(4) Must contain no more than 74 printable characters in each line.
 
-(1) Computer Compatibility: IBM PC/XT/AT or Apple Macintosh;
+(5) Pagination is not permitted; the ASCII plain text file must be one continuous file, with no “hard page break” codes and no page numbering.
 
-(2) Operating System Compatibility: MS-DOS, MS-Windows, Unix or Macintosh;
+(b) The ASCII plain text file must contain a copy of a single “Sequence Listing” in a single file and be submitted either:
 
-(3) Line Terminator: ASCII Carriage Return plus ASCII Line Feed; and
+(1) Electronically via the USPTO patent electronic filing system, where the file must not exceed 100 MB, and file compression is not permitted; or
 
-(4) Pagination: Continuous file (no “hard page break” codes permitted).
+(2) On a read-only optical disc(s), in compliance with § 1.52(e), where:
 
-(c) Computer readable form files submitted may be in any of the following media:
+(i) A file that is not compressed must be contained on a single read-only optical disc;
 
-(1) Diskette: 3.50 inch, 1.44 Mb storage; 3.50 inch, 720 Kb storage; 5.25 inch, 1.2 Mb storage; 5.25 inch, 360 Kb storage.
+(ii) The file may be compressed using WinZip®, 7-Zip, or Unix®/Linux® Zip;
 
-(2) Magnetic tape: 0.5 inch, up to 24000 feet; Density: 1600 or 6250 bits per inch, 9 track; Format: Unix tar command; specify blocking factor (not “block size”); Line Terminator: ASCII Carriage Return plus ASCII Line Feed.
+(iii) A compressed file must not be self-extracting; and
 
-(3) 8mm Data Cartridge: Format: Unix tar command; specify blocking factor (not “block size”); Line Terminator: ASCII Carriage Return plus ASCII Line Feed.
+(iv) A compressed ASCII plain text file that does not fit on a single read-only optical disc may be split into multiple file parts, in accordance with the target read-only optical disc size, and labeled in compliance with § 1.52(e)(5)(vi).
 
-(4) Compact disc: Format: ISO 9660 or High Sierra Format.
-
-(5) Magneto Optical Disk: Size/Storage Specifications: 5.25 inch, 640 Mb.
-
-(d) Computer readable forms that are submitted to the Office will not be returned to the applicant.
-
-[65 FR 54681, Sept. 8, 2000]
+[86 FR 57051, Oct. 14, 2021]

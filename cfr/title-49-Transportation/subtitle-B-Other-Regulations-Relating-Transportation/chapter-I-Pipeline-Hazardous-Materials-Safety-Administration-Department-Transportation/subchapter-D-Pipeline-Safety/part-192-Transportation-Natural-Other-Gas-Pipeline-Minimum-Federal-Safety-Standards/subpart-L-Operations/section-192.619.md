@@ -1,5 +1,7 @@
 ##### § 192.619 Maximum allowable operating pressure: Steel or plastic pipelines. #####
 
+Link to an amendment published at 86 FR 63298, Nov. 15, 2021.
+
 (a) No person may operate a segment of steel or plastic pipeline at a pressure that exceeds a maximum allowable operating pressure (MAOP) determined under paragraph (c), (d), or (e) of this section, or the lowest of the following:
 
 (1) The design pressure of the weakest element in the segment, determined in accordance with subparts C and D of this part. However, for steel pipe in pipelines being converted under § 192.14 or uprated under subpart K of this part, if any variable necessary to determine the design pressure under the design formula (§ 192.105) is unknown, one of the following pressures is to be used as design pressure:
@@ -10,7 +12,8 @@
 
 (2) The pressure obtained by dividing the pressure to which the pipeline segment was tested after construction as follows:
 
-(i) For plastic pipe in all locations, the test pressure is divided by a factor of 1.5.
+(i) For plastic pipe in all locations, the test pressure is divided by
+a factor of 1.5.
 
 (ii) For steel pipe operated at 100 psi (689 kPa) gage or more, the test pressure is divided by a factor determined in accordance with the Table 1 to paragraph (a)(2)(ii):
 

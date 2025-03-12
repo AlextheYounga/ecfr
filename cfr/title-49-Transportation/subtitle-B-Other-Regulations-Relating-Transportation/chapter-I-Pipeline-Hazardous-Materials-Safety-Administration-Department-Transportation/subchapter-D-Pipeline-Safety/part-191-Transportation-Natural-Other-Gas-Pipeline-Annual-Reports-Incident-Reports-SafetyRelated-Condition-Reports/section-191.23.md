@@ -1,5 +1,7 @@
 ##### § 191.23 Reporting safety-related conditions. #####
 
+Link to an amendment published at 86 FR 63295, Nov. 15, 2021.
+
 (a) Except as provided in paragraph (b) of this section, each operator shall report in accordance with § 191.25 the existence of any of the following safety-related conditions involving facilities in service:
 
 (1) In the case of a pipeline (other than an LNG facility) that operates at a hoop stress of 20% or more of its specified minimum yield strength, general corrosion that has reduced the wall thickness to less than that required for the maximum allowable operating pressure, and localized corrosion pitting to a degree where leakage might result.
