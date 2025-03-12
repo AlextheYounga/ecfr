@@ -1,5 +1,7 @@
 ##### § 117.723 Hackensack River. #####
 
+Link to an amendment published at 86 FR 23610, May 4, 2021.
+
 (a) The following requirements apply to all bridges across the Hackensack River:
 
 (1) The owners of each bridge shall provide and keep in good legible condition clearance gauges for each draw, with figures not less than 18 inches high for bridges below the turning basin at mile 4.0, and 12 inches high for bridges above mile 4.0. The gauges shall be designed, installed and maintained according to the provisions of § 118.160 of this chapter.
