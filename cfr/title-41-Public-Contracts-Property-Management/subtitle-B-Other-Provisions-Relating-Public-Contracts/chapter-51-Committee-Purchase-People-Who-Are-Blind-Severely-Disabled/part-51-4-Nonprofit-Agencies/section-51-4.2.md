@@ -1,5 +1,7 @@
 ##### § 51-4.2 Initial qualification. #####
 
+Link to an amendment published at 87 FR 43433, July 21, 2022.
+
 (a) To qualify for participation in the JWOD Program:
 
 (1) A privately incorporated nonprofit agency shall submit to the Committee through its central nonprofit agency the following documents, transmitted by a letter signed by an officer of the corporation or chief executive:

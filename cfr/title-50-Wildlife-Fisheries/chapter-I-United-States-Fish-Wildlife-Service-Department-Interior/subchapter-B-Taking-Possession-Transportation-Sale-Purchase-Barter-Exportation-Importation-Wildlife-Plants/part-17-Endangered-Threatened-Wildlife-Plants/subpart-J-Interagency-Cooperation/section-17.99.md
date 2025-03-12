@@ -7831,7 +7831,7 @@ Molokai--Coastal--Unit 1, Molokai--Coastal--Unit 2, Molokai--Coastal--Unit 3, Mo
 
 ![](/graphics/er30mr16.105.gif)![](/graphics/er30mr16.106.gif)
 
-(xxix) OCCUPANCY OF SPECIES BY DESIGNATED CRITICAL HABITAT UNITS FOR MAUI
+(xxix) Occupancy of Species by Designated Critical Habitat Units for Maui
 
 |          Unit name          |              Species occupied              |             Species unoccupied              |
 |-----------------------------|--------------------------------------------|---------------------------------------------|

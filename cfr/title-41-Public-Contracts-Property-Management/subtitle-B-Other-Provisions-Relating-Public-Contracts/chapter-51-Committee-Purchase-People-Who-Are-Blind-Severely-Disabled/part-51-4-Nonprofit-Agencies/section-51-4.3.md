@@ -1,5 +1,7 @@
 ##### § 51-4.3 Maintaining qualification. #####
 
+Link to an amendment published at 87 FR 43433, July 21, 2022.
+
 (a) To maintain its qualification under the JWOD Act, each nonprofit agency authorized to furnish a commodity or a service shall continue to comply with the requirements of a “nonprofit agency for other severely handicapped” or a “nonprofit agency for the blind” as defined in § 51-1.3 of this chapter. In addition, each such nonprofit agency must submit to its central nonprofit agency by November 1 of each year, two completed copies of the appropriate Annual Certification (Committee Form 403 or 404) covering the fiscal year ending the preceding September 30.
 
 (b) In addition to paragraph (a) of this section, each nonprofit agency participating in the Ability One Program shall:
