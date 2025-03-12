@@ -1,7 +1,5 @@
 ##### § 679.20 General limitations. #####
 
-Link to an amendment published at 86 FR 11903, Mar. 1, 2021.
-
 This section applies to vessels engaged in directed fishing for groundfish in the GOA and/or the BSAI and to vessels engaged in commercial fishing for Arctic fish in the Arctic Management Area.
 
 (a) *Harvest limits* - (1) *OY* - (i) *BSAI and GOA.* The OY for BSAI and GOA target species is a range or specific amount that can be harvested consistently with this part, plus the amounts of “nonspecified species” taken incidentally to the harvest of target species. The species categories are defined in Table 1 of the specifications as provided in paragraph (c) of this section.
@@ -468,7 +466,7 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (C) Upon determining that a halibut PSC sideboard limit for a species or species group, management area, and season as specified in Table 38 to this part is or will be reached, the Regional Administrator will publish notification in the Federal Register prohibiting directed fishing for a specific species or species group by the Amendment 80 vessels to which the halibut PSC limit applies as follows:
 
-(*1*) If the halibut PSC sideboard limit is reached for the deep-water species fishery as defined in § 679.21(d)(3)(iii)(B) for a season, then NMFS will close directed fishing in the GOA for all species in the deep-water species fishery except northern rockfish, Pacific ocean perch, and pelagic shelf rockfish in the Central GOA for that season.
+(*1*) If the halibut PSC sideboard limit is reached for the deep-water species fishery as defined in § 679.21(d)(3)(iii)(B) for a season, then NMFS will close directed fishing in the GOA for all species in the deep-water species fishery except northern rockfish, Pacific ocean perch, and dusky rockfish in the Central GOA for that season.
 
 (*2*) If the halibut PSC sideboard limit is reached for the shallow-water species fishery as defined in § 679.21(d)(3)(iii)(A) for a season, then NMFS will close directed fishing in the GOA for all species in the shallow-water species fishery for that season.
 

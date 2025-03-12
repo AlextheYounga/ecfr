@@ -1,7 +1,5 @@
 ##### § 679.84 Rockfish Program recordkeeping, permits, monitoring, and catch accounting. #####
 
-Link to an amendment published at 86 FR 11904, Mar. 1, 2021.
-
 (a) *Recordkeeping and reporting. See § 679.5(r).*
 
 (b) *Permits. See § 679.4(n).*
@@ -38,11 +36,11 @@ Link to an amendment published at 86 FR 11904, Mar. 1, 2021.
 
 (e) *Catch monitoring requirements for catcher vessels.* The owner or operator of a catcher vessel must ensure the vessel complies with the observer coverage requirements described in § 679.51(a)(2) at all times the vessel is participating in a rockfish cooperative.
 
-(f) *Catch monitoring requirements for shoreside processors* - (1) *Catch monitoring and control plan (CMCP).* The owner or operator of a shoreside processor receiving deliveries from a catcher vessel described in § 679.51(a)(2) must ensure the shoreside processor complies with the CMCP requirements described in § 679.28(g).
+(f) *Catch monitoring requirements for shoreside processors*—(1) *Catch monitoring and control plan (CMCP).* The owner or operator of a shoreside processor receiving deliveries from a catcher vessel described in § 679.51(a)(2) must ensure the shoreside processor complies with the CMCP requirements described in § 679.28(g) except the requirements for an observer workstation and communication with observer as specified in § 679.28(g)(7)(vii) and (viii).
 
 (2) *Catch weighing.* All groundfish landed by catcher vessels described in § 679.51(a)(2) must be sorted, weighed on a scale approved by the State of Alaska as described in § 679.28(c), and be made available for sampling by an observer, NMFS staff, or any individual authorized by NMFS. Any of these persons must be allowed to test any scale used to weigh groundfish to determine its accuracy.
 
-(g) *Catch accounting* - (1) *Rockfish primary species and rockfish secondary species.* All rockfish primary species and rockfish secondary species harvests (including harvests of those species in waters adjacent to the Central GOA that are deducted from the Federal TAC as specified under § 679.20) of a vessel, that is named on an LLP license that is assigned to a rockfish cooperative and fishing under a CQ permit, will be debited against the CQ for that rockfish cooperative from May 1:
+(g) *Catch accounting*—(1) *Rockfish primary species and rockfish secondary species.* All rockfish primary species and rockfish secondary species harvests (including harvests of those species in waters adjacent to the Central GOA that are deducted from the Federal TAC as specified under § 679.20) of a vessel, that is named on an LLP license that is assigned to a rockfish cooperative and fishing under a CQ permit, will be debited against the CQ for that rockfish cooperative from May 1:
 
 (i) Until November 15; or
 
@@ -58,4 +56,4 @@ Link to an amendment published at 86 FR 11904, Mar. 1, 2021.
 
 (4) *Halibut sideboard limits.* All halibut PSC in the GOA (including halibut PSC in the waters adjacent to the GOA when rockfish primary species and rockfish secondary species caught by that vessel are deducted from the Federal TAC specified under § 679.20) used by a catcher/processor vessel, except halibut PSC used by a vessel fishing under a CQ permit in the Central GOA, will be debited against the sideboard limit established for the rockfish cooperative or catcher/processor opt-out vessel, as applicable from July 1 until July 31.
 
-[67 FR 79734, Dec. 30, 2002, as amended at 77 FR 6502, Feb. 8, 2012; 81 FR 67118, Sept. 30, 2016; 83 FR 30533, June 29, 2018; 84 FR 55053, Oct. 15, 2019]
+[67 FR 79734, Dec. 30, 2002, as amended at 77 FR 6502, Feb. 8, 2012; 81 FR 67118, Sept. 30, 2016; 83 FR 30533, June 29, 2018; 84 FR 55053, Oct. 15, 2019; 86 FR 11904, Mar. 1, 2021]

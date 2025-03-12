@@ -1,6 +1,6 @@
 ##### § 223.207 Approved TEDs. #####
 
-Link to an amendment published at 84 FR 70063, Dec. 20, 2019.Link to an amendment published at 85 FR 59199, Sept. 21, 2020.
+Link to an amendment published at 84 FR 70063, Dec. 20, 2019.Link to a correction published at 85 FR 59199, Sept. 21, 2020.This amendment was delayed until Aug. 1, 2021 at 86 FR 16676, Mar. 31, 2021.
 
 Any netting, webbing, or mesh that may be measured to determine compliance with this section is subject to measurement, regardless of whether it is wet or dry. Any such measurement will be of the stretched mesh size.
 

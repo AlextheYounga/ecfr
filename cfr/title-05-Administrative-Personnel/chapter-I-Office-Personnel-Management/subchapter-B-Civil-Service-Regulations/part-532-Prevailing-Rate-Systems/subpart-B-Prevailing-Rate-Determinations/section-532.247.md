@@ -1,12 +1,10 @@
 ##### § 532.247 Wage change surveys. #####
 
-Link to an amendment published at 86 FR 11859, Mar. 1, 2021.
-
 (a) Wage change surveys shall be conducted in each wage area in years during which full-scale wage surveys are not conducted.
 
 (b) Data shall be collected in wage change surveys only from establishments which participated in the preceding full-scale survey. Information concerning pay adjustments of general application in effect for jobs matched in each establishment which participated in the preceding full-scale survey shall be obtained.
 
-(c) Data may be obtained in wage change surveys by telephone, mail, or personal visit. The chairperson of the local wage survey committee shall determine the manner in which establishments will be contacted for collection of data. Data may be collected by the local wage survey committee members or by data collectors appointed and assigned to two member teams in accordance with § 532.233(e) of this subpart.
+(c) Data may be obtained in wage change surveys by telephone, mail, electronic means, or personal visit. The chairperson of the local wage survey committee shall determine the manner in which establishments will be contacted for collection of data. Data may be collected by the local wage survey committee members or by data collectors appointed and assigned to two member teams in accordance with § 532.233(e) of this subpart.
 
 (d) Wage change survey data may not be collected before the date ordered by the lead agency.
 
@@ -22,4 +20,4 @@ Link to an amendment published at 86 FR 11859, Mar. 1, 2021.
 
 (h) The wage schedules shall be issued and authorized in accordance with § 532.245 (c) and (d) of this subpart.
 
-[46 FR 21344, Apr. 10, 1981. Redesignated at 55 FR 46141, Nov. 1, 1990; 58 FR 32274, June 9, 1993]
+[46 FR 21344, Apr. 10, 1981. Redesignated at 55 FR 46141, Nov. 1, 1990; 58 FR 32274, June 9, 1993; 86 FR 11859, Mar. 1, 2021]

@@ -1,6 +1,6 @@
 ##### § 223.206 Exceptions to prohibitions relating to sea turtles. #####
 
-Link to an amendment published at 84 FR 70063, Dec. 20, 2019.
+Link to an amendment published at 84 FR 70063, Dec. 20, 2019.This amendment was delayed until Aug. 1, 2021, at 86 FR 16676, Mar. 31, 2021.
 
 (a) *Permits* - (1) *Scientific research, education, zoological exhibition, or species enhancement permits.* The Assistant Administrator may issue permits authorizing activities which would otherwise be prohibited under § 223.205(a) for scientific or educational purposes, for zoological exhibition, or to enhance the propagation or survival of threatened species of sea turtles, in accordance with and subject to the conditions of part 222, subpart C - General Permit Procedures.
 

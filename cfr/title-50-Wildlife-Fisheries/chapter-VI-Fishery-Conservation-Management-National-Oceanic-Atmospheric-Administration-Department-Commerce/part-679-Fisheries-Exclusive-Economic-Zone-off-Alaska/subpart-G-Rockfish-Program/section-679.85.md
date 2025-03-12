@@ -1,8 +1,6 @@
 ##### § 679.85 Cost recovery. #####
 
-Link to an amendment published at 86 FR 11904, Mar. 1, 2021.
-
-(a) *Cost recovery fees* - (1) *Responsibility.* The person documented on the rockfish CQ permit as the permit holder at the time of a rockfish CQ landing must comply with the requirements of this section.
+(a) *Cost recovery fees*—(1) *Responsibility.* The person documented on the rockfish CQ permit as the permit holder at the time of a rockfish CQ landing must comply with the requirements of this section.
 
 (i) Subsequent transfer of rockfish CQ or rockfish QS held by rockfish cooperative members does not affect the rockfish CQ permit holder's liability for noncompliance with this section.
 
@@ -12,7 +10,7 @@ Link to an amendment published at 86 FR 11904, Mar. 1, 2021.
 
 (2) *Fee collection.* All rockfish CQ holders who receive rockfish CQ are responsible for submitting the cost recovery payment for all rockfish CQ landings made under the authority of their rockfish CQ permit.
 
-(3) *Payment* - (i) *Payment due date.* A rockfish CQ permit holder must submit any rockfish cost recovery fee liability payment(s) to NMFS at the address provided in paragraph (a)(3)(iii) of this section no later than February 15 of the year following the calendar year in which the rockfish CQ landings were made.
+(3) *Payment*—(i) *Payment due date.* A rockfish CQ permit holder must submit any rockfish cost recovery fee liability payment(s) to NMFS at the address provided in paragraph (a)(3)(iii) of this section no later than February 15 of the year following the calendar year in which the rockfish CQ landings were made.
 
 (ii) *Payment recipient.* Make electronic payment payable to NMFS.
 
@@ -20,9 +18,9 @@ Link to an amendment published at 86 FR 11904, Mar. 1, 2021.
 
 (iv) *Payment method.* Payment must be made electronically in U.S. dollars by automated clearing house, credit card, or electronic check drawn on a U.S. bank account.
 
-(b) *Rockfish standard ex-vessel value determination and use* - (1) *General.* A CQ permit holder must use the rockfish standard ex-vessel value determined by NMFS under paragraph (b)(2) of this section.
+(b) *Rockfish standard ex-vessel value determination and use*—(1) *General.* A CQ permit holder must use the rockfish standard ex-vessel value determined by NMFS under paragraph (b)(2) of this section.
 
-(2) *Rockfish standard ex-vessel value* - (i) *General.* Each year the Regional Administrator will publish rockfish standard ex-vessel values in the Federal Register during the first quarter of each calendar year. The standard prices will be described in U.S. dollars per equivalent pound, for rockfish primary species and rockfish secondary species landings made by rockfish CQ holders during the previous calendar year.
+(2) *Rockfish standard ex-vessel value*—(i) *General.* Each year the Regional Administrator will publish rockfish standard ex-vessel values in the Federal Register during the first quarter of each calendar year. The standard prices will be described in U.S. dollars per equivalent pound, for rockfish primary species and rockfish secondary species landings made by rockfish CQ holders during the previous calendar year.
 
 (ii) *Effective duration.* The rockfish standard ex-vessel value published by NMFS shall apply to all rockfish primary species and rockfish secondary species landings made by a rockfish CQ holder during the previous calendar year.
 
@@ -34,7 +32,7 @@ Link to an amendment published at 86 FR 11904, Mar. 1, 2021.
 
 (C) Price adjustments, including retroactive payments.
 
-(c) *Rockfish fee percentage* - (1) *Established percentage.* The rockfish fee percentage is the amount as determined by the factors and methodology described in paragraph (c)(2) of this section. This amount will be announced by publication in the Federal Register in accordance with paragraph (c)(3) of this section. This amount must not exceed 3.0 percent pursuant to 16 U.S.C. 1854(d)(2)(B).
+(c) *Rockfish fee percentage*—(1) *Established percentage.* The rockfish fee percentage is the amount as determined by the factors and methodology described in paragraph (c)(2) of this section. This amount will be announced by publication in the Federal Register in accordance with paragraph (c)(3) of this section. This amount must not exceed 3.0 percent pursuant to 16 U.S.C. 1854(d)(2)(B).
 
 (2) *Calculating fee percentage value.* Each year NMFS shall calculate and publish the fee percentage according to the following factors and methodology:
 
@@ -50,7 +48,7 @@ Link to an amendment published at 86 FR 11904, Mar. 1, 2021.
 
 100 × DPC/Vwhere:DPC = the direct program costs for the Rockfish Program for the previous calendar year with any adjustments to the account from payments received in the previous year.V = total of the standard ex-vessel value of the catch subject to the rockfish cost recovery fee liability for the current year.
 
-(3) *Publication* - (i) *General.* During the first quarter of the year following the calendar year in which the rockfish CQ landings were made, NMFS shall calculate the rockfish fee percentage based on the calculations described in paragraph (c)(2) of this section.
+(3) *Publication*—(i) *General.* During the first quarter of the year following the calendar year in which the rockfish CQ landings were made, NMFS shall calculate the rockfish fee percentage based on the calculations described in paragraph (c)(2) of this section.
 
 (ii) *Effective period.* The calculated rockfish fee percentage is applied to rockfish CQ landings made in the previous calendar year.
 
@@ -81,3 +79,7 @@ Link to an amendment published at 86 FR 11904, Mar. 1, 2021.
 (e) *Over payment.* Upon issuance of final agency action, payment submitted to NMFS in excess of the rockfish cost recovery fee liability determined to be due by the final agency action will be returned to the CQ permit holder unless the permit holder requests the agency to credit the excess amount against the permit holder's future rockfish cost recovery fee liability. Payment processing fees may be deducted from any fees returned to the CQ permit holder.
 
 (f) *Appeals.* A CQ permit holder who receives an IAD for incomplete payment of a rockfish fee liability may appeal the IAD pursuant to 50 CFR 679.43.
+
+(g) *Annual report.* Each year, NMFS will publish a report describing the rockfish program cost recovery fee program.
+
+[76 FR 81277, Dec. 27, 2011, as amended at 86 FR 11904, Mar. 1, 2021]

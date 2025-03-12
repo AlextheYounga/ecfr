@@ -1,7 +1,5 @@
 ##### § 25.118 Modifications not requiring prior authorization. #####
 
-Link to an amendment published at 86 FR 11887, Mar. 1, 2021.
-
 (a) *Earth station modifications, notification required.* Earth station licensees may make the following modifications without prior Commission authorization, provided they notify the Commission, using FCC Form 312 and Schedule B, within 30 days of the modification. The notification must be filed electronically through the International Bureau Filing System (IBFS) in accordance with the applicable provisions of part 1, subpart Y of this chapter.
 
 (1) Blanket-licensed earth station operators may add remote terminals operating on a primary basis without prior authorization, provided they have complied with all applicable frequency coordination procedures in accordance with § 25.251.
@@ -14,7 +12,17 @@ Link to an amendment published at 86 FR 11887, Mar. 1, 2021.
 
 (ii) The new point of communication is a replacement GSO space station within ±0.15° of orbital longitude of the same location, with authority to serve the U.S., and the change does not entail any increase in the earth station's EIRP or EIRP density.
 
-(4) Licensees may make other changes to their authorized earth stations without prior authority from the Commission, provided the modification does not involve:
+(4) An earth station licensee may additionally:
+
+(i) Decrease antenna height; or
+
+(ii) Increase or decrease the earth station's PFD contour, provided the modification does not involve a change listed in paragraph (b)(2) of this section.
+
+(b) *Earth station modifications, notification not required.* Notwithstanding paragraph (a) of this section:
+
+(1) Equipment in an authorized earth station may be replaced without prior authorization and without notifying the Commission if the new equipment is electrically identical to the existing equipment.
+
+(2) Licensees may make other changes to their authorized earth stations, including the addition of new transceiver/antenna combinations, without notifying the Commission, provided the modification does not involve:
 
 (i) An increase in EIRP or EIRP density (either main lobe or off-axis);
 
@@ -24,11 +32,9 @@ Link to an amendment published at 86 FR 11887, Mar. 1, 2021.
 
 (iv) An increase in antenna height;
 
-(v) Antenna repointing beyond any coordinated range or
+(v) Antenna repointing beyond any coordinated range; or
 
-(vi) A change from the originally authorized coordinates of more than 1 second in latitude or longitude for stations operating in frequency bands shared with terrestrial systems or more than 10 seconds of latitude or longitude for stations operating in frequency bands not shared with terrestrial systems.
-
-(b) *Earth station modifications, notification not required.* Notwithstanding paragraph (a) of this section, equipment in an authorized earth station may be replaced without prior authorization and without notifying the Commission if the new equipment is electrically identical to the existing equipment.
+(vi) A change from the originally authorized coordinates of more than 1 second of latitude or longitude for stations operating in frequency bands shared with terrestrial systems or more than 10 seconds of latitude or longitude for stations operating in frequency bands not shared with terrestrial systems.
 
 (c)-(d) [Reserved]
 
@@ -66,4 +72,4 @@ Link to an amendment published at 86 FR 11887, Mar. 1, 2021.
 
 (5) Any change of orbital altitude entailed by the repositioning will not exceed 10 kilometers in extent or 30 days in duration and the licensee has notified, or will notify, the operator(s) of any satellite within 20 kilometers of the interim orbit at least 10 days before commencing the repositioning maneuver.
 
-[62 FR 5928, Feb. 10, 1997, as amended at 68 FR 62248, Nov. 3, 2003; 68 FR 63999, Nov. 12, 2003; 69 FR 47794, Aug. 6, 2004; 70 FR 32253, June 2, 2005; 79 FR 8317, Feb. 12, 2014; 81 FR 55329, Aug. 18, 2016]
+[62 FR 5928, Feb. 10, 1997, as amended at 68 FR 62248, Nov. 3, 2003; 68 FR 63999, Nov. 12, 2003; 69 FR 47794, Aug. 6, 2004; 70 FR 32253, June 2, 2005; 79 FR 8317, Feb. 12, 2014; 81 FR 55329, Aug. 18, 2016; 86 FR 11887, Mar. 1, 2021]

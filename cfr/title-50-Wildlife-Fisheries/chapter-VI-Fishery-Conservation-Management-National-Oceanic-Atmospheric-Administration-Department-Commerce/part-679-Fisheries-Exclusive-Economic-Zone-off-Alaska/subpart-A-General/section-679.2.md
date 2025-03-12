@@ -1,7 +1,5 @@
 ##### § 679.2 Definitions. #####
 
-Link to an amendment published at 86 FR 11903, Mar. 1, 2021.
-
 In addition to the definitions in the Magnuson-Stevens Act and in part 600 of this chapter, the terms used in this part have the following meanings:
 
 *ABC reserve* means, for purposes of flathead sole, rock sole, and yellowfin sole in the BSAI, an amount, not to exceed the ABC surplus, that may be reduced for social, economic, or ecological considerations according to § 679.20(b)(1)(iii).
@@ -1086,7 +1084,7 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 *Rockfish Program species* means the following species that are managed under the authority of the Rockfish Program:
 
-(1) *Rockfish primary species* means northern rockfish, Pacific ocean perch, and pelagic shelf rockfish in the Central GOA regulatory area.
+(1) *Rockfish primary species* means northern rockfish, Pacific ocean perch, and dusky rockfish in the Central GOA regulatory area.
 
 (2) *Rockfish secondary species* means the following species in the Central GOA regulatory area:
 
@@ -1118,7 +1116,7 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 *Rockfish sideboard limit* means:
 
-(1) The maximum amount of northern rockfish, Pacific ocean perch, and pelagic shelf rockfish that may be harvested in the Rockfish Program as specified in the sideboard provisions under § 679.82(e), as applicable; and
+(1) The maximum amount of northern rockfish, Pacific ocean perch, and dusky rockfish that may be harvested in the Rockfish Program as specified in the sideboard provisions under § 679.82(e), as applicable; and
 
 (2) The maximum amount of halibut PSC that may be used in the Rockfish Program as specified in the sideboard provisions under § 679.82(e), as applicable.
 

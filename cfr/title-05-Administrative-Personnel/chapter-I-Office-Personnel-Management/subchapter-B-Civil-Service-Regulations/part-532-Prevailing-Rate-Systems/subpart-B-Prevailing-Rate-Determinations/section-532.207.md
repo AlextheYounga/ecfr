@@ -1,12 +1,10 @@
 ##### § 532.207 Time schedule for wage surveys. #####
 
-Link to an amendment published at 86 FR 11859, Mar. 1, 2021.
-
 (a) Wage surveys shall be conducted on a 2-year cycle at annual intervals.
 
-(b) A full-scale survey shall be made in the first year of the 2-year cycle and shall include development of a current sample of establishments and the collection of wage data by visits to establishments.
+(b) A full-scale survey shall be made in the first year of the 2-year cycle and shall include development of a current sample of establishments and the collection of wage data by visits to establishments. With the unanimous consent of the members of a Local Wage Survey Committee, data may also be obtained from a private sector establishment or establishments during a full-scale wage survey by telephone, mail, or electronic means.
 
-(c) A wage-change survey shall be made every other year using only the same employers, occupations, survey jobs, and establishment weights used in the preceding full-scale survey. Data may be collected by telephone, mail, or personal contact.
+(c) A wage-change survey shall be made every other year using only the same employers, occupations, survey jobs, and establishment weights used in the preceding full-scale survey. Data may be collected by telephone, mail, electronic means, or personal contact.
 
 (d) Scheduling of surveys shall take into consideration the following criteria:
 
@@ -22,4 +20,4 @@ Link to an amendment published at 86 FR 11859, Mar. 1, 2021.
 
 (f) The beginning month of appropriated and nonappropriated fund wage surveys and the fiscal year during which full-scale surveys will be conducted are set out as appendices A and B to this subpart and are incorporated in and made part of this section.
 
-[55 FR 46141, Nov. 1, 1990]
+[55 FR 46141, Nov. 1, 1990, as amended at 86 FR 11859, Mar. 1, 2021]

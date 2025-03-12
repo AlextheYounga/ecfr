@@ -1,7 +1,5 @@
 ##### § 679.5 Recordkeeping and reporting (R&R). #####
 
-Link to an amendment published at 86 FR 11903, Mar. 1, 2021.
-
 (a) *General R&R requirements.* R&R requirements include, but are not limited to, paper and electronic documentation, logbooks, forms, reports, receipts, computer printouts, and requests for inspection described in this section and in § 679.28.
 
 (1) *Groundfish logbooks and forms.* (i) The Regional Administrator will prescribe and provide groundfish logbooks required under this section. All groundfish forms required under this section are available from the Alaska Region website at *http://alaskafisheries.noaa.gov* or may be requested by calling the Sustainable Fisheries Division at 907-586-7228 or faxing 907-586-7465. The forms may be completed online, printed, and mailed or faxed to NMFS at the address or fax number shown on the form. The forms also may be completed online, saved as a file, and submitted to NMFS as an attachment to an e-mail to the e-mail address shown on the form.
@@ -833,7 +831,7 @@ CR Crab Regional Designations
 
 (iv) The vessel operator must submit the catcher/processor landing report to NMFS by 2400 hours, A.l.t., on the day after the end of the fishing trip.
 
-(14) *Tender vessel landing report (“tLandings”).* (i) *tLandings.* tLandings is an applications software for preparing electronic landing reports for commercial fishery landings to tender vessels.
+(14) *Tender vessel landing report (“tLandings”)* - (i) *tLandings.* tLandings is an applications software for preparing electronic landing reports for commercial fishery landings to tender vessels.
 
 (ii) *Tender vessel operator responsibility.* The operator of a tender vessel taking delivery of groundfish that is required to be reported to NMFS on a landing report under paragraph (e)(5) of this section must use tLandings to enter information about each landing of groundfish and must provide that information to the User defined under § 679.2.
 
@@ -1500,27 +1498,13 @@ ADF&G Division of Commercial Fisheries, Attn: COAR, P.O. Box 25526, Juneau, AK 9
 
 (5) *Product transfer report (PTR), processors.* Operators of catcher/processors and managers of shoreside processors that are authorized as processors in the Rockfish Program must submit a PTR as described in paragraph (g) of this section.
 
-(6) *Annual rockfish cooperative report* - (i) *Applicability.* A rockfish cooperative permitted in the Rockfish Program (see § 679.4(n)(1)) annually must submit to the Regional Administrator an annual rockfish cooperative report detailing the use of the cooperative's CQ:
-
-(ii) *Time limits and submittal.* (A) The annual rockfish cooperative report must be submitted to the Regional Administrator by an electronic data file in a NMFS-approved format by fax: 907-586-7557; or by mail to the Regional Administrator, NMFS Alaska Region, P.O. Box 21668, Juneau, AK 99802-1668; and
-
-(B) The annual rockfish cooperative report must be received by the Regional Administrator by December 15th of each year.
-
-(iii) *Information required.* The annual rockfish cooperative report must include at a minimum:
-
-(A) The cooperative's CQ, sideboard limit (if applicable), and any rockfish sideboard fishery harvests made by the rockfish cooperative vessels on a vessel-by-vessel basis;
-
-(B) The cooperative's actual retained and discarded catch of CQ, and sideboard limit (if applicable) by statistical area and vessel-by-vessel basis;
-
-(C) A description of the method used by the cooperative to monitor fisheries in which cooperative vessels participated; and
-
-(D) A description of any actions taken by the cooperative in response to any members that exceeded their catch as allowed under the rockfish cooperative agreement.
+(6) [Reserved]
 
 (7) *Vessel monitoring system (VMS) requirements* (see § 679.28(f)).
 
 (8) *Rockfish cooperative vessel check-in and check-out report* - (i) *Applicability* - (A) *Vessel check-in.* The designated representative of a rockfish cooperative must designate any vessel that is authorized to fish under the rockfish cooperative's CQ permit before that vessel may fish under that CQ permit through a check-in procedure. The designated representative for a rockfish cooperative must submit to NMFS, in accordance with (8)(ii), a check-in designation for a vessel:
 
-(*1*) At least 48 hours prior to the time the catcher vessel begins a fishing trip to fish under a CQ permit; or
+(*1*) At least 24 hours prior to the time the catcher vessel begins a fishing trip to fish under a CQ permit; or
 
 (*2*) At least 1 hour prior to the time the catcher/processor begins a fishing trip to fish under a CQ permit; and
 
@@ -1546,7 +1530,7 @@ ADF&G Division of Commercial Fisheries, Attn: COAR, P.O. Box 25526, Juneau, AK 9
 
 (9) *Rockfish CQ cost recovery fee submission* (See § 679.85).
 
-(10) *Rockfish Ex-vessel Volume and Value Report* - (i) *Applicability.* A rockfish processor that receives and purchases landings of rockfish CQ groundfish must submit annually to NMFS a complete Rockfish Ex-vessel Volume and Value Report, as described in this paragraph (r)(10), for each reporting period for which the rockfish processor receives rockfish CQ groundfish.
+(10) *Rockfish Ex-vessel Volume and Value Report* - (i) *Applicability.* A rockfish processor (as defined at § 679.2) that receives and purchases landings of rockfish CQ groundfish must submit annually to NMFS a complete Rockfish Ex-vessel Volume and Value Report, as described in this paragraph (r)(10), for each reporting period for which the rockfish processor receives rockfish CQ groundfish.
 
 (ii) *Reporting period.* The reporting period of the Rockfish Ex-vessel Volume and Value Report shall extend from May 1 through November 15 of each year.
 

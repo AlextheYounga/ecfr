@@ -4,8 +4,6 @@
 
 (b)-(c)[Reserved]
 
-(d)
-
 (d) *St. George Island.* The subsistence fur seal harvest restrictions described in paragraphs (d)(1) through (5) of this section apply exclusively to the harvest of sub-adult fur seals; restrictions that apply exclusively to the harvest of young of the year fur seals can be found in paragraphs (d)(6) through (11) of this section. For the taking of fur seals for subsistence uses, Pribilovians on St. George Island may harvest up to a total of 500 male fur seals per year over the course of both the sub-adult male harvest and the male young of the year harvest. Pribilovians are authorized each year up to three mortalities of female fur seals associated with the subsistence seasons. Any female fur seal mortalities will be included in the total authorized subsistence harvest of 500 fur seals per year.
 
 (1) Pribilovians may only harvest sub-adult male fur seals 124.5 centimeters or less in length from June 23 through August 8 annually on St. George Island.
@@ -66,4 +64,4 @@
 
 (iii) When three female fur seals have been killed during the subsistence seasons.
 
-[51 FR 24840, July 9, 1986, as amended at 57 FR 33902, July 31, 1992; 59 FR 35474, July 12, 1994. Redesignated at 61 FR 11750, Mar. 22, 1996, as amended at 79 FR 65337, Nov. 4, 2014; 84 FR 52382, Oct. 2, 2019]
+[51 FR 24840, July 9, 1986, as amended at 57 FR 33902, July 31, 1992; 59 FR 35474, July 12, 1994. Redesignated at 61 FR 11750, Mar. 22, 1996, as amended at 79 FR 65337, Nov. 4, 2014; 84 FR 52382, Oct. 2, 2019; 85 FR 15948, Mar. 20, 2020]

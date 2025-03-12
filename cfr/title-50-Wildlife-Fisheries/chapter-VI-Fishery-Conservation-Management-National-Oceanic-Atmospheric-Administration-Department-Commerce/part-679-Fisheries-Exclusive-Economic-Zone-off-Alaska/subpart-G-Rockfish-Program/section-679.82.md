@@ -1,7 +1,5 @@
 ##### § 679.82 Rockfish Program use caps and sideboard limits. #####
 
-Link to an amendment published at 86 FR 11904, Mar. 1, 2021.
-
 (a) Use caps - (1) *General.* (i) Use caps limit the amount of rockfish QS that may be held or used by a rockfish eligible harvester and the amount of CQ that may be held or used by a rockfish cooperative, harvested by a vessel, or received or processed by a rockfish processor.
 
 (ii) Use caps do not apply to halibut PSC CQ.
@@ -11,6 +9,8 @@ Link to an amendment published at 86 FR 11904, Mar. 1, 2021.
 (iv) All rockfish QS use caps are based on the aggregate rockfish primary species initial rockfish QS pool established by NMFS in Table 29 to this part.
 
 (v) Sablefish and Pacific cod CQ processing use caps are based on the amount of CQ assigned to the catcher vessel sector during a calendar year.
+
+(vi) Any transfer of reallocated rockfish ICA (as authorized under § 679.81(j)(2)) or catcher/processor CQ to a catcher vessel cooperative does not apply to catcher vessel ownership, cooperative, harvester CQ, or shoreside processor CQ use caps.
 
 (2) *Rockfish QS use cap.* A person may not individually or collectively hold or use more than:
 
@@ -68,7 +68,7 @@ Link to an amendment published at 86 FR 11904, Mar. 1, 2021.
 
 (iii) Any vessel named on an LLP license under whose authority rockfish legal landings were made during the fishery seasons established in Table 28a to this part and during the entry level trawl fishery during 2007, 2008, or 2009 established in Table 28b to this part if that LLP license is designated on an approved application for rockfish QS as being excluded from the Rockfish Program as specified under § 679.80(d)(4)(ii).
 
-(3) *Prohibition for directed fishing in the Western GOA and West Yakutat District rockfish fishery during July.* Vessels subject to the provisions in this paragraph (d) may not participate in directed fishing in the Western GOA and West Yakutat District for northern rockfish, Pacific ocean perch, and pelagic shelf rockfish (or in waters adjacent to the Western GOA and West Yakutat District when northern rockfish, Pacific ocean perch, and pelagic shelf rockfish by that vessel is deducted from the Federal TAC as specified under § 679.20) from July 1 through July 31.
+(3) *Prohibition for directed fishing in the Western GOA and West Yakutat District rockfish fishery during July.* Vessels subject to the provisions in this paragraph (d) may not participate in directed fishing in the Western GOA and West Yakutat District for northern rockfish, Pacific ocean perch, and dusky rockfish (or in waters adjacent to the Western GOA and West Yakutat District when northern rockfish, Pacific ocean perch, and dusky rockfish by that vessel is deducted from the Federal TAC as specified under § 679.20) from July 1 through July 31.
 
 (4) *Prohibition for directed fishing in the specific GOA flatfish fisheries during July.* Vessels subject to the provisions in this paragraph (d) may not participate in directed fishing for arrowtooth flounder, deep-water flatfish, and rex sole in the GOA (or in waters adjacent to the GOA when arrowtooth flounder, deep-water flatfish, and rex sole caught by that vessel is deducted from the Federal TAC as specified under § 679.20) from July 1 through July 31.
 
@@ -78,7 +78,7 @@ Link to an amendment published at 86 FR 11904, Mar. 1, 2021.
 
 (ii) Any vessel named on an LLP license under whose authority rockfish legal landings were made that could be used to generate rockfish QS for the catcher/processor sector in the Rockfish Program.
 
-(2) *Prohibition for directed rockfish fishing in the Western GOA and West Yakutat District by non-Amendment 80 vessels assigned to the catcher/processor sector.* Any vessel that meets the criteria established in paragraph (e)(1) of this section and that is not an Amendment 80 vessel is prohibited from directed fishing for northern rockfish, Pacific ocean perch, and pelagic shelf rockfish in the Western GOA and West Yakutat District (or in waters adjacent to the Western GOA and West Yakutat District when northern rockfish, Pacific ocean perch, and pelagic shelf rockfish by that vessel is deducted from the Federal TAC as specified under § 679.20) from July 1 through July 31.
+(2) *Prohibition for directed rockfish fishing in the Western GOA and West Yakutat District by non-Amendment 80 vessels assigned to the catcher/processor sector.* Any vessel that meets the criteria established in paragraph (e)(1) of this section and that is not an Amendment 80 vessel is prohibited from directed fishing for northern rockfish, Pacific ocean perch, and dusky rockfish in the Western GOA and West Yakutat District (or in waters adjacent to the Western GOA and West Yakutat District when northern rockfish, Pacific ocean perch, and dusky rockfish by that vessel is deducted from the Federal TAC as specified under § 679.20) from July 1 through July 31.
 
 (3) *Calculation of rockfish and halibut PSC sideboard limits assigned to each LLP license in the catcher/processor sector.* NMFS will determine specific rockfish sideboard ratios for each LLP license assigned to the catcher/processor sector that could generate rockfish QS. These rockfish sideboard ratios will be noted on the face of an LLP license and will be calculated as follows:
 
@@ -88,15 +88,7 @@ Link to an amendment published at 86 FR 11904, Mar. 1, 2021.
 
 (iii) For the shallow-water halibut PSC sideboard limit, divide the halibut PSC used in the shallow-water complex from July 1 through July 31 in each year from 2000 through 2006 under the authority of that LLP license, by the total shallow-water halibut PSC used from July 1 through July 31 in each year from 2000 through 2006 by vessels operating under the authority of all LLP licenses in the catcher/processor sector.
 
-(4) *Western GOA and West Yakutat District rockfish sideboard ratios.* The rockfish sideboard ratio for each rockfish fishery in the Western GOA and West Yakutat District is established in the following table:
-
-|For the management area of the . . .|In the directed fishery for . . .|The sideboard limit for the catcher/processor sector is . . .|
-|------------------------------------|---------------------------------|-------------------------------------------------------------|
-|       West Yakutat District        |     Pelagic shelf rockfish      |                  \*\* percent of the TAC.                   |
-|                                    |       Pacific ocean perch       |                  \*\* percent of the TAC.                   |
-|            Western GOA             |     Pelagic shelf rockfish      |                  72.3 percent of the TAC.                   |
-|                                    |       Pacific ocean perch       |                  50.6 percent of the TAC.                   |
-|                                    |        Northern rockfish        |                  74.3 percent of the TAC.                   |
+(4) *West Yakutat District rockfish sideboard ratios.* The rockfish sideboard ratio for each rockfish fishery in the West Yakutat District is an established percentage of the TAC for catcher/processors in the directed fishery for dusky rockfish and Pacific ocean perch. These percentages are confidential.
 
 (5) *GOA halibut PSC sideboard ratios.* (i) The annual deep-water complex halibut PSC sideboard limit in the GOA is 2.5 percent of the annual halibut mortality limit.
 
@@ -122,7 +114,7 @@ Link to an amendment published at 86 FR 11904, Mar. 1, 2021.
 
 (ii) Sum the shallow-water ratios of all LLP licenses assigned to that rockfish cooperative and multiply this result by the amount set out in paragraph (e)(5)(ii) of this section; and
 
-(iii) A rockfish cooperative may not exceed any deep-water or shallow-water halibut PSC sideboard limit assigned to that cooperative.
+(iii) A rockfish cooperative may not exceed any deep-water or shallow-water halibut PSC sideboard limits assigned to that cooperative when directed fishing for species other than rockfish.
 
 (10) *Assigning a halibut PSC limit to catcher/processor opt-out vessels.* Catcher/processor opt-out vessels will receive the portion of the deep-water and shallow-water halibut PSC sideboard limit not assigned to catcher/processor rockfish cooperatives.
 
@@ -175,3 +167,5 @@ Link to an amendment published at 86 FR 11904, Mar. 1, 2021.
 (A) In the flathead sole and shallow-water flatfish fisheries if that vessel participated in a directed groundfish fishery for either of these two fisheries during any 2 years during the 2000 through 2006 qualifying period defined in paragraph (f)(2)(i) of this section; and
 
 (B) In the arrowtooth flounder, deep-water flatfish, and rex sole fisheries if that vessel participated in a directed groundfish fishery for any of these three fisheries during any 2 years during the 2000 through 2006 qualifying period defined in paragraph (f)(2)(i) of this section.
+
+[76 FR 81277, Dec. 27, 2011, as amended at 86 FR 11904, Mar. 1, 2021]

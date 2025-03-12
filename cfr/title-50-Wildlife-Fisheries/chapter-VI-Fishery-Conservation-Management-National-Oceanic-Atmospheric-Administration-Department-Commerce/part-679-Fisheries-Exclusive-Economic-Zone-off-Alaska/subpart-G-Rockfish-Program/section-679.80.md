@@ -1,12 +1,10 @@
 ##### § 679.80 Allocation and transfer of rockfish QS. #####
 
-Link to an amendment published at 86 FR 11904, Mar. 1, 2021.
-
 Additional regulations that implement specific portions of the Rockfish Program are set out under: § 679.2 Definitions, § 679.4 Permits, § 679.5 Recordkeeping and reporting, § 679.7 Prohibitions, § 679.20 General limitations, § 679.21 Prohibited species bycatch management, § 679.28 Equipment and operational requirements, and § 679.50 Groundfish Observer Program.
 
-(a) *Applicable areas and duration* - (1) *Applicable areas.* The Rockfish Program applies to Rockfish Program fisheries in the Central GOA Regulatory Area.
+(a) *Applicable areas and seasons* - (1) *Applicable areas.* The Rockfish Program applies to Rockfish Program fisheries in the Central GOA Regulatory Area.
 
-(2) *Duration.* The Rockfish Program authorized under this part 679 expires on December 31, 2021.
+(2) [Reserved]
 
 (3) *Seasons.* The following fishing seasons apply to fishing under this subpart subject to other provisions of this part:
 
@@ -136,4 +134,4 @@ Rockfish Landing Unitsl/Σ Rockfish Landing Unitsl = Percentage of the Total Ent
 
 (v) Rockfish QS that is transferred from an LLP license that was initially allocated an amount of aggregate rockfish QS in excess of the use cap specified in § 679.82(a)(2) and assigned to another LLP license may not be severed from the receiving LLP license.
 
-[76 FR 81277, Dec. 27, 2011; 77 FR 38014, June 26, 2012, as amended at 86 FR 14855, Mar. 19, 2021]Effective Date Note:At 86 FR 14855, Mar. 19, 2021, in § 679.80, paragraph (a)(3)(ii) was stayed and paragraph (a)(3)(iii) was added, effective Mar. 19, 2021, through Sept. 15, 2021.
+[76 FR 81277, Dec. 27, 2011; 77 FR 38014, June 26, 2012, as amended at 86 FR 14855, Mar. 19, 2021; 86 FR 11904, Mar. 1, 2021]Effective Date Note:At 86 FR 14855, Mar. 19, 2021, in § 679.80, paragraph (a)(3)(ii) was stayed and paragraph (a)(3)(iii) was added, effective Mar. 19, 2021, through Sept. 15, 2021.

@@ -1,0 +1,7 @@
+##### § 25.173 Results of in-orbit testing. #####
+
+(a) Space station operators must measure the co-polarized and cross-polarized performance of space station antennas through in-orbit testing and submit the measurement data to the Commission upon request.
+
+(b) Within 15 days after completing in-orbit testing of a space station licensed under this part, the operator must notify the Commission that such testing has been completed and certify that the space station's measured performance is consistent with the station authorization and that the space station is capable of using its assigned frequencies or inform the Commission of any discrepancy. The licensee must also indicate in the filing whether the space station has been placed in the assigned geostationary orbital location or non-geostationary orbit. If the licensee files a certification pursuant to this paragraph before the space station has been placed in its assigned orbit or orbital location, the licensee must separately notify the Commission that the space station has been placed in such orbit or orbital location within 3 days after such placement and that the station's measured performance is consistent with the station authorization.
+
+[79 FR 8321, Feb. 12, 2014]

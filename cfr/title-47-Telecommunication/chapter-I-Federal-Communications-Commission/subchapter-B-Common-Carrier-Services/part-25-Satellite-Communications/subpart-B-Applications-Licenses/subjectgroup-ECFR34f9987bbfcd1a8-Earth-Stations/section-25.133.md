@@ -1,10 +1,10 @@
 ##### § 25.133 Period of construction; certification of commencement of operation. #####
 
-Link to an amendment published at 86 FR 11887, Mar. 1, 2021.
+(a) An earth station, or network of blanket-licensed earth stations, must be brought into operation within the longest of the time periods below, unless the Commission determines otherwise:
 
-(a)(1) Each initial license for an earth station governed by this part, except for blanket licenses, will specify as a condition therein the period in which construction of facilities must be completed and station operation commenced. Construction of the earth station must be completed and the station must be brought into operation within 12 months from the date of the license grant except as may be determined by the Commission for any particular application.
+(1) For an earth station authorized to communicate with a GSO FSS space station in the 3600-4200 MHz band (space-to-Earth) operating outside of CONUS, or in the 5850-6725 MHz band (Earth-to-space), within one year from the date of the license grant;
 
-(2) Operation of a network of earth stations at unspecified locations under an initial blanket license must commence within 12 months from the date of the license grant unless the Commission orders otherwise.
+(2) For any other earth station or network of earth stations, within one year from the date of the license grant or six months after the bringing into operation of a GSO space station, or NGSO system under § 25.164(b)(1), with which the earth station or earth station network was authorized to communicate when it was licensed, as notified under § 25.173(b).
 
 (b)(1) Each initial license for a transmitting earth station or modified license authorizing operation of an additional transmitting antenna, except for blanket licenses, will also specify as a condition therein that upon completion of construction, the licensee must file with the Commission a certification containing the following information:
 
@@ -28,4 +28,4 @@ Link to an amendment published at 86 FR 11887, Mar. 1, 2021.
 
 (d) Each receiving earth station licensed or registered pursuant to § 25.115(b) must be constructed and placed into service within 6 months after coordination has been completed. Each licensee or registrant must file with the Commission a certification that the facility is completed and operating as provided in paragraph (b) of this section, with the exception of certification of antenna patterns.
 
-[56 FR 24016, May 28, 1991, as amended at 58 FR 68059, Dec. 23, 1993; 59 FR 53327, Oct. 21, 1994; 65 FR 59142, Oct. 4, 2000; 70 FR 32254, June 2, 2005; 78 FR 8421, Feb. 6, 2013; 79 FR 8318, Feb. 12, 2014; 81 FR 55330, Aug. 18, 2016; 84 FR 53654, Oct. 8, 2019]
+[56 FR 24016, May 28, 1991, as amended at 58 FR 68059, Dec. 23, 1993; 59 FR 53327, Oct. 21, 1994; 65 FR 59142, Oct. 4, 2000; 70 FR 32254, June 2, 2005; 78 FR 8421, Feb. 6, 2013; 79 FR 8318, Feb. 12, 2014; 81 FR 55330, Aug. 18, 2016; 84 FR 53654, Oct. 8, 2019; 86 FR 11887, Mar. 1, 2021]
