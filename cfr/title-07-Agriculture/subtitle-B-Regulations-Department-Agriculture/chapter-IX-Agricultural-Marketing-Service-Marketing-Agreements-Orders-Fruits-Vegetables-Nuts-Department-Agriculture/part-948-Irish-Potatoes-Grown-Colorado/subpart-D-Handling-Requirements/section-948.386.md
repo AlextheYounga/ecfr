@@ -2,15 +2,13 @@
 
 No person shall handle any lot of potatoes grown in Area No. 2 unless such potatoes meet the requirements of paragraphs (a), (b), and (c) of this section, or unless such potatoes are handled in accordance with paragraphs (d) and (e), or (f) of this section.
 
-(a) *Minimum grade and size requirements.* (1) *Round varieties,* U.S. No. 2, or better grade, 2 inches minimum diameter.
+(a) *Minimum grade and size requirements*—(1) *All varieties.* U.S. No. 2 or better grade, 2 inches minimum diameter or 4 ounces minimum weight.
 
-(2) *All other varieties.* U.S. No. 2, or better grade, 2 inches minimum diameter or 4 ounces minimum weight.
+(2) *11/2-inch minimum to 21/4-inch maximum diameter (Size B).* U.S. Commercial grade or better, except that red varieties may be U.S. No. 2 grade or better.
 
-(3) *11/2-inch minimum to 21/4-inch maximum diameter (Size B).* U.S. Commercial grade or better, except that red varieties may be U.S. No. 2 grade or better.
+(3) *3/4-inch minimum to 17/8-inch maximum diameter.* U.S. Commercial grade or better.
 
-(4) *3/4-inch minimum diameter to 15/8-inch maximum diameter (Creamer).* U.S. Commercial grade or better.
-
-(5) None of the above categories of potatoes identified in paragraphs (a)(1) through (a)(4) of this section may be commingled in the same bag or other container.
+(4) None of the above categories of potatoes identified in paragraphs (a)(1) through (a)(4) of this section may be commingled in the same bag or other container.
 
 (b) *Maturity (skinning) requirements.* From August 1 through October 31 shall be:
 

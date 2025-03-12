@@ -6,7 +6,7 @@
 
 (1) *Confidential business information.* Commercial or financial information obtained by IMLS from a submitter that may be protected from disclosure under Exemption 4 of FOIA.
 
-(2) *Submitter.* Any person or entity from whom IMLS obtains confidential business information, directly or indirectly. The term includes corporations; state, local and tribal governments; and foreign governments.
+(2) *Submitter.* Any person or entity from whom IMLS obtains confidential business information, directly or indirectly. The term includes corporations; state, local, and tribal governments; and foreign governments.
 
 (c) *Designation of confidential business information.* A submitter of confidential business information will use good-faith efforts to designate, either at the time of submission or at a reasonable time thereafter, any portions of its submission that it considers to be protected from disclosure under Exemption 4. These designations will expire ten years after the date of the submission unless the submitter requests, and provides justification for, a longer designation period.
 
@@ -36,8 +36,10 @@
 
 (3) Disclosure of the information is required by statute (other than FOIA) or by a regulation issued in accordance with the requirements of Executive Order 12600; or
 
-(4) The designation made by the submitter under paragraph (c) of this section appears obviously frivolous - except that, in such a case, IMLS will, within a reasonable time prior to a specified disclosure date, give the submitter written notice of any final decision to disclose the information.
+(4) The designation made by the submitter under paragraph (c) of this section appears obviously frivolous—except that, in such a case, IMLS will, within a reasonable time prior to a specified disclosure date, give the submitter written notice of any final decision to disclose the information.
 
 (i) *Notice of FOIA lawsuit.* If a requester files a lawsuit seeking to compel the disclosure of confidential business information, IMLS will promptly notify the submitter of the filing of the lawsuit.
 
 (j) *Corresponding notice to requesters.* If IMLS provides a submitter with notice and an opportunity to object to disclosure under paragraph (d) of this section, IMLS will also notify the requester(s). If IMLS notifies a submitter of its intent to disclose requested information under paragraph (g) of this section, IMLS will also notify the requester(s). If a submitter files a lawsuit seeking to prevent the disclosure of confidential business information, IMLS will notify the requester(s) of the filing of the lawsuit.
+
+[79 FR 9423, Feb. 19, 2014, as amended at 84 FR 22947, May 21, 2019]

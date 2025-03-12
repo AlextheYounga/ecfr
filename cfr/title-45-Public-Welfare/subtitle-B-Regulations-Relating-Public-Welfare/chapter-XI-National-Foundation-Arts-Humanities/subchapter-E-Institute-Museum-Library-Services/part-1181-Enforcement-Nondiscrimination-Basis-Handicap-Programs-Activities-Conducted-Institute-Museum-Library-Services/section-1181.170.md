@@ -4,7 +4,7 @@
 
 (b) The agency shall process complaints alleging violations of section 504 with respect to employment according to the procedures established by the Equal Employment Opportunity Commission in 29 CFR part 1613 pursuant to section 501 of the Rehabilitation Act of 1973 (29 U.S.C. 791).
 
-(c) The Director shall be responsible for coordinating implementation of this section. Complaints may be sent to Director, Institute of Museum and Library Services, 1100 Pennsylvania Ave., NW., room 510, Washington, DC 20506.
+(c) The Director shall be responsible for coordinating implementation of this section. Complaints may be sent to Director, Institute of Museum and Library Services, 955 L'Enfant Plaza North SW, Suite 4000, Washington, DC, 20024-2135.
 
 (d) The agency shall accept and investigate all complete complaints for which it has jurisdiction. All complete complaints must be filed within 180 days of the alleged act of discrimination. The agency may extend this time period for good cause.
 
@@ -12,7 +12,7 @@
 
 (f) The agency shall notify the Architectural and Transportation Barriers Compliance Board upon receipt of any complaint alleging that a building or facility that is subject to the Architectural Barriers Act of 1968, as amended (42 U.S.C. 4151-4157), or section 502 of the Rehabilitation Act of 1973, as amended (29 U.S.C. 792), is not readily accessible to and usable by handicapped persons.
 
-(g) Within 180 days of the receipt of a complete complaint for which it has jurisdiction, the agency shall notify the complainant of the results of the investigation in a letter containing -
+(g) Within 180 days of the receipt of a complete complaint for which it has jurisdiction, the agency shall notify the complainant of the results of the investigation in a letter containing—
 
 (1) Findings of fact and conclusions of law;
 
@@ -30,4 +30,4 @@
 
 (l) The agency may delegate its authority for conducting complaint investigations to other Federal agencies, except that the authority for making the final determination may not be delegated to another agency.
 
-[51 FR 4578, 4579, Feb. 5, 1986, as amended at 51 FR 4578, Feb. 5, 1986]
+[51 FR 4578, 4579, Feb. 5, 1986, as amended at 51 FR 4578, Feb. 5, 1986; 84 FR 22945, May 21, 2019]

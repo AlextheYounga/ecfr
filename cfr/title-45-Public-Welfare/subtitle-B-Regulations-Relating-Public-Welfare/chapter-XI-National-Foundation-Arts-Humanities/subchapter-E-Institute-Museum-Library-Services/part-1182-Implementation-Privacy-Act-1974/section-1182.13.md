@@ -1,10 +1,10 @@
 ##### § 1182.13 Policies and procedures for Institute disclosure of its records. #####
 
-(a) The Institute not disclose any record that is contained in a system of records to any person or to another agency, except pursuant to a written request by or with the prior written consent of the subject individual, unless disclosure of the record is:
+(a) The Institute will not disclose any record that is contained in a system of records to any person or to another agency, except pursuant to a written request by or with the prior written consent of the subject individual, unless disclosure of the record is:
 
 (1) To those officers or employees of the Institute who maintain the record and who have a need for the record in the performance of their official duties;
 
-(2) Required under the provisions of the Freedom of Information Act (5 U.S.C. 552). Records required to be made available by the Freedom of Information Act will be released in response to a request to the Institute formulated in accordance with the National Foundation on the Arts and the Humanities regulations published at 45 CFR part 1100;
+(2) Required under the provisions of the Freedom of Information Act (5 U.S.C. 552). Records required to be made available by the Freedom of Information Act will be released in response to a request to the Institute formulated in accordance with the National Foundation on the Arts and the Humanities regulations published at 45 CFR part 1184;
 
 (3) For a routine use as published in the annual notice in the Federal Register;
 
@@ -27,3 +27,5 @@
 (12) Pursuant to an order of a court of competent jurisdiction. In the event that any record is disclosed under such compulsory legal process, the Institute shall make reasonable efforts to notify the subject individual after the process becomes a matter of public record.
 
 (b) Before disseminating any record about any individual to any person other than an Institute employee, the Institute shall make reasonable efforts to ensure that such records are, or at the time they were collected were, accurate, complete, timely, and relevant for Institute purposes. This paragraph (b) does not apply to dissemination made pursuant to the provisions of the Freedom of Information Act (5 U.S.C. 552) and paragraph (a)(2) of this section.
+
+[71 FR 6375, Feb. 8, 2006, as amended at 84 FR 22945, May 21, 2019]

@@ -54,8 +54,10 @@
 
 (B) You have failed previously to pay a fee in a timely fashion.
 
-(ii) When IMLS requests an advance payment, the time limits described in section (a)(6) of the FOIA will begin only after IMLS has received full payment.
+(ii) When IMLS requests an advance payment, the time limits described in section (a)(6) of the FOIA will begin only after IMLS has received advanced full payment in full.
 
-(g) *Failure to comply.* In the absence of unusual or exceptional circumstances, IMLS will not assess fees if the agency fails to comply with any time limit set forth in these regulations.
+(g) *Failure to comply.* In the absence of unusual or exceptional circumstances, IMLS will not assess fees if the agency fails to comply with any time limit set forth in this part, unless the agency has determined that unusual circumstances apply and more than 5,000 pages are necessary to respond to the request.
 
 (h) *Waivers.* IMLS may waive fees in other circumstances solely at its discretion, consistent with 5 U.S.C. 552.
+
+[79 FR 9423, Feb. 19, 2014, as amended at 84 FR 22946, May 21, 2019]

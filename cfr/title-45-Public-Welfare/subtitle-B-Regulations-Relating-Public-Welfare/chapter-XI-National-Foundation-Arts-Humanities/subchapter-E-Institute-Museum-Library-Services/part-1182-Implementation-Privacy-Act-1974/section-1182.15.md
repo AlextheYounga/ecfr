@@ -6,7 +6,7 @@ The Chief Information Officer has the responsibility of maintaining adequate tec
 
 (2) All records, when not under the personal control of the employees authorized to use the records, must be stored in a locked filing cabinet. Some systems of records are not of such confidential nature that their disclosure would constitute a harm to an individual who is the subject of such record. However, records in this category also shall be maintained in locked filing cabinets or maintained in a secured room with a locking door.
 
-(3) Access to and use of a system of records shall be permitted only to persons whose duties require such access within the Institute, for routine uses as defined in § 1182.1 as to any given system, or for such other uses as may be provided in this part.
+(3) Access to and use of a system of records shall be permitted only to persons whose duties require such access within the Institute, for routine uses as defined in § 1182.2 as to any given system, or for such other uses as may be provided in this part.
 
 (4) Other than for access within the Institute to persons needing such records in the performance of their official duties or routine uses as defined in § 1182.1, or such other uses as provided in this part, access to records within a system of records shall be permitted only to the individual to whom the record pertains or upon his or her written request to the General Counsel.
 
@@ -23,3 +23,5 @@ The Chief Information Officer has the responsibility of maintaining adequate tec
 (3) All persons whose duties require access to processing and maintenance of identifiable personal data and automated systems shall be adequately trained in the security and privacy of personal data.
 
 (4) The disposal and disposition of identifiable personal data and automated systems shall be done by shredding, burning, or, in the case of tapes or discs, degaussing, in accordance with regulations of the General Services Administration or other appropriate authority.
+
+[71 FR 6375, Feb. 8, 2006, as amended at 84 FR 22945, May 21, 2019]
