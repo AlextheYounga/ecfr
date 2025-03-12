@@ -1,9 +1,9 @@
 ##### § 625.4 Publication of the Standard Sales Provisions. #####
 
-Link to an amendment published at 84 FR 8794, Mar. 12, 2019.
+(a) *Publication.* The Standard Sales Provisions shall be published on the U.S. Department of Energy Strategic Petroleum Reserve website (*https://www.energy.gov/fe/services/petroleum-reserves/strategic-petroleum-reserve*).
 
-(a) *Publication.* The Standard Sales Provisions shall be published in the Federal Register and in the Code of Federal Regulations as an appendix to this rule.
+(b) *Revisions of the Standard Sales Provisions.* The Standard Sales Provisions shall be reviewed on a continuous basis and republished on the Department of Energy Strategic Petroleum Reserve website. Notification of revisions of the Standard Sales Provisions shall be made in the Federal Register and sent to existing registered users in the SPR sales system.
 
-(b) *Revisions of the Standard Sales Provisions.* The Standard Sales Provisions shall be reviewed periodically and republished in the Federal Register, with any revisions.
+(c) *Notification of applicable clauses.* The Notice of Sale will specify, by referencing the Department of Energy Strategic Petroleum Reserve website, which contractual terms and conditions and contractor financial and performance responsibility measures contained or described therein are applicable to that particular sale.
 
-(c) *Notification of applicable clauses.* The Notice of Sale will specify, by referencing the Federal Register and the Code of Federal Regulations in which the latest version of the Standard Sales Provisions was published, which contractual terms and conditions and contractor financial and performance responsibility measures contained or described therein are applicable to that particular sale.
+[84 FR 8794, Mar. 12, 2019]
