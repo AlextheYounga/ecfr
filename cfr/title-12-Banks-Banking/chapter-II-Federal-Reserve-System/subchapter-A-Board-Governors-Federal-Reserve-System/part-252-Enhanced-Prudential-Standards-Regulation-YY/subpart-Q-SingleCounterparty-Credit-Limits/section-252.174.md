@@ -72,12 +72,12 @@
 
 (3) The eligible collateral, eligible guarantee, eligible equity derivative, or eligible credit derivative subject to paragraph (i)(1) of this section:
 
-(1) Has a shorter maturity than the credit transaction;
+(i) Has a shorter maturity than the credit transaction;
 
-(2) Has an original maturity equal to or greater than one year;
+(ii) Has an original maturity equal to or greater than one year;
 
-(3) Has a residual maturity of not less than three months; and
+(iii) Has a residual maturity of not less than three months; and
 
-(4) The adjustment approach is otherwise applicable.
+(iv) The adjustment approach is otherwise applicable.
 
-Editorial Note:At 83 FR 38501, Aug. 6, 2018, subpart Q was added to part 252 and § 252.174 was set out with incorrect paragraph designations for the subparagraphs of (i)(3).
+[83 FR 38501, Aug. 6, 2018, as amended at 83 FR 64023, Dec. 13, 2018]

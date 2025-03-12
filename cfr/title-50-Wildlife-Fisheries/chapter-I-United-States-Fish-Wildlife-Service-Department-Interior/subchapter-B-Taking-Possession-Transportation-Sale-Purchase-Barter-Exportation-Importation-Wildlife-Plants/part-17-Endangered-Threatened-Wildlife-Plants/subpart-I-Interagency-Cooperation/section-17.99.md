@@ -420,7 +420,7 @@
 
 (lviii) Kauai 10 - *Bonamia menziesii* - a (421 ha; 1,039 ac)
 
-(A) {Reserved]
+(A) [Reserved]
 
 (B) Map 36 follows:
 
@@ -1360,7 +1360,7 @@
 
 (cxc) Kauai 11 - *Exocarpos luteolus* - c (177 ha; 438 ac)
 
-(A) {Reserved]
+(A) [Reserved]
 
 (B) Map 97 follows:
 

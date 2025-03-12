@@ -38,16 +38,16 @@
 
 (d) *Board determinations for aggregation of counterparties due to economic interdependence or control relationships.* The Board may determine, after notice to the covered company and opportunity for hearing, that one or more counterparties of a covered company are:
 
-(i) Economically interdependent for purposes of this subpart, considering the factors in paragraph (b)(2) of this section, as well as any other indicia of economic interdependence that the Board determines in its discretion to be relevant; or
+(1) Economically interdependent for purposes of this subpart, considering the factors in paragraph (b)(2) of this section, as well as any other indicia of economic interdependence that the Board determines in its discretion to be relevant; or
 
-(ii) Connected by control relationships for purposes of this subpart, considering the factors in paragraph (c)(1) of this section and whether counterparty A:
+(2) Connected by control relationships for purposes of this subpart, considering the factors in paragraph (c)(1) of this section and whether counterparty A:
 
-(A) Controls the power to vote 25 percent or more of any class of voting securities of Counterparty B pursuant to a voting agreement;
+(i) Controls the power to vote 25 percent or more of any class of voting securities of Counterparty B pursuant to a voting agreement;
 
-(B) Has significant influence on the appointment or dismissal of counterparty B's administrative, management, or governing body, or the fact that a majority of members of such body have been appointed solely as a result of the exercise of counterparty A's voting rights; or
+(ii) Has significant influence on the appointment or dismissal of counterparty B's administrative, management, or governing body, or the fact that a majority of members of such body have been appointed solely as a result of the exercise of counterparty A's voting rights; or
 
-(C) Has the power to exercise a controlling influence over the management or policies of counterparty B.
+(iii) Has the power to exercise a controlling influence over the management or policies of counterparty B.
 
 (e) *Board determinations for aggregation of counterparties to prevent evasion.* Notwithstanding paragraphs (b) and (c) of this section, a covered company must aggregate its exposures to a counterparty with the covered company's exposures to another counterparty if the Board determines in writing after notice and opportunity for hearing, that the exposures to the two counterparties must be aggregated to prevent evasions of the purposes of this subpart, including, but not limited to § 252.76 and 12 U.S.C. 5365(e).
 
-Editorial Note:At 83 FR 38493, Aug. 6, 2018, subpart H was added to part 252, and § 252.76 paragraph (d) was set out with incorrect subparagraph designations.
+[83 FR 38493, Aug. 6, 2018, as amended at 83 FR 64023, Dec. 13, 2018]
