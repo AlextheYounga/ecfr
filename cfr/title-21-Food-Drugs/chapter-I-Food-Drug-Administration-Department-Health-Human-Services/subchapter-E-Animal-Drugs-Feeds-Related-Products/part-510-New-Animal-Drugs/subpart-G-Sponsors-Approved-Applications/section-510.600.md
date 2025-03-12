@@ -1,5 +1,7 @@
 ##### § 510.600 Names, addresses, and drug labeler codes of sponsors of approved applications. #####
 
+Link to an amendment published at 83 FR 13635, Mar. 30, 2018.
+
 (a) Section 512(i) of the act requires publication of names and addresses of sponsors of approved applications for new animal drugs.
 
 (b) In this section each name and address is identified by a numerical drug labeler code. The labeler codes identify the sponsors of the new animal drug applications associated with the regulations published pursuant to section 512(i) of the act. The codes appear in the appropriate regulations and serve as a reference to the names and addresses listed in this section. The drug labeler code is established pursuant to section 510 of the act.
@@ -12,7 +14,7 @@
 |----------------------------------------------------------------------------------------------------------------------------|-----------------|
 |                         A & G Pharmaceuticals, Inc., 1030 West Commodore Blvd., Jackson, NJ 08527                          |     057699      |
 |                          Accord Healthcare, Inc., 1009 Slater Rd., suite 210-B, Durham, NC 27703                           |     016729      |
-|                          ADM Alliance Nutrition, Inc., 1000 North 30th St., Quincy, IL 62305-3115                          |     012286      |
+|                           ADM Animal Nutrition, Inc., 1000 North 30th St., Quincy, IL 62305-3115                           |     012286      |
 |                                Agri Laboratories, Ltd., P.O. Box 3103, St. Joseph, MO 64503                                |     057561      |
 |                                   Agri-Tech, Inc., 4722 Broadway, Kansas City, MO 64112                                    |     017762      |
 |                      Akorn Animal Health, Inc., 1925 West Field Ct., suite 300, Lake Forest, IL 60045                      |     059399      |
@@ -91,12 +93,12 @@
 |                Ridley U.S. Holdings, Inc., 424 North Riverfront Dr., P.O. Box 8500, Mankato, MN 56002-8500                 |     067949      |
 |                                  RSR Laboratories, Inc., 501 Fifth St., Bristol, TN 37620                                  |     058670      |
 |                          Sergeant's Pet Care Products, Inc., 10077 S. 134th St., Omaha, NE 68138                           |     021091      |
-|                      SmartVet USA, Inc., 22201 West Innovation Dr., suite 170A, Olathe, KS 66061-1304                      |     086001      |
 |                          Sparhawk Laboratories, Inc., 12340 Santa Fe Trail Dr., Lenexa, KS 66215                           |     058005      |
 |                                 Squire Laboratories, Inc., 100 Mill St., Revere, MA 02151                                  |     017153      |
-|                   Strategic Veterinary Pharmaceuticals, Inc., 100 NW. Airport Rd., St. Joseph, MO 64503                    |     054628      |
+|                 Strategic Veterinary Pharmaceuticals,<br/>Inc., 100 NW. Airport Rd., St. Joseph, MO 64503                  |     054628      |
 |                                 Summit Hill Laboratories, P.O. Box 535, Navesink, NJ 07752                                 |     037990      |
 |                              Superior Equine Pharmaceuticals, Inc., Pleasant Grove, UT 84062                               |     027053      |
+|                                     Syndel USA, 1441 W. Smith Rd., Ferndale, WA 98248                                      |     050378      |
 |                           Taro Pharmaceuticals U.S.A., Inc., 3 Skyline Dr., Hawthorne, NY 10532                            |     051672      |
 |                                   Therio, Inc., 8801 Anderson Ave., Manhattan, KS 66503                                    |     052923      |
 |                             Thorn Bioscience LLC, 1044 East Chestnut St., Louisville, KY 40204                             |     051330      |
@@ -106,7 +108,6 @@
 |                                  Virbac AH, Inc., 3200 Meacham Blvd., Ft. Worth, TX 76137                                  |     051311      |
 |                              Walco International, Inc., 15 West Putnam, Porterville, CA 93257                              |     049185      |
 |                              Watson Laboratories, Inc., 311 Bonnie Circle, Corona, CA 92880.                               |     000402      |
-|                               Western Chemical, Inc., 1269 Lattimore Rd., Ferndale, WA 98248                               |     050378      |
 |                          Wildlife Laboratories, Inc., 1230 W. Ash St., suite D, Windsor, CO 80550                          |     053923      |
 |                                     Zoetis Inc., 333 Portage St., Kalamazoo, MI 49007                                      |     054771      |
 
@@ -122,7 +123,7 @@
 |     010515      |                         G. C. Hanford Manufacturing Co., P.O. Box 1017, Syracuse, NY 13201.                          |
 |     010797      |                      Luitpold Pharmaceuticals, Inc., Animal Health Division, Shirley, NY 11967.                      |
 |     012164      |                        Halocarbon Products Corp., 887 Kinderkamack Rd., River Edge, NJ 07661.                        |
-|     012286      |                      ADM Alliance Nutrition, Inc., 1000 North 30th St., Quincy, IL 62305-3115.                       |
+|     012286      |                       ADM Animal Nutrition, Inc., 1000 North 30th St., Quincy, IL 62305-3115.                        |
 |     012578      |                         Janssen Pharmaceutica NV, Turnhoutseweg 30, B-2340 Beerse, Belgium.                          |
 |     013744      |                       Ceva Sante Animale, 10 Avenue de la Ballastière, 33500 Libourne, France.                       |
 |     015331      |                             Pharmaq AS, Skogmo Industriomrade, N-7863 Overhalla, Norway.                             |
@@ -150,7 +151,7 @@
 |     049480      |                          Jurox Pty. Ltd., 85 Gardiner St., Rutherford, NSW 2320, Australia.                          |
 |     049968      |                        Natchez Animal Supply Co., 201 John R. Junkin Dr., Natchez, MS 39120.                         |
 |     050057      |                           Pharmaceutical Ventures, Ltd., P.O. Box D1400, Pomona, NY 10970.                           |
-|     050378      |                           Western Chemical, Inc., 1269 Lattimore Rd., Ferndale, WA 98248.                            |
+|     050378      |                                  Syndel USA, 1441 W. Smith Rd., Ferndale, WA 98248.                                  |
 |     050604      |                        Merial, Inc., 3239 Satellite Blvd., bldg. 500, Duluth, GA 30096-4640.                         |
 |     051031      |                     Kinetic Technologies, LLC, 961 Beasley St., suite 270, Lexington, KY 40509.                      |
 |     051072      |                     Aurora Pharmaceutical, LLC, 1196 Highway 3 South, Northfield, MN 55057-3009.                     |
@@ -206,7 +207,6 @@
 |     069334      |                         Alexion Pharmaceuticals, Inc., 100 College St., New Haven, CT 06510.                         |
 |     076175      |                       Ark Sciences, Inc., 1101 East 33rd St., suite B304, Baltimore, MD 21218.                       |
 |     076475      |                           Quo Vademus, LLC, 277 Faison McGowan Rd., Kenansville, NC 28349.                           |
-|     086001      |                  SmartVet USA, Inc., 22201 West Innovation Dr., suite 170A, Olathe, KS 66061-1304.                   |
 |     086009      |                  Axcentive SARL, Chemin de Champouse, Quartier Violesi, 13320 Bouc Bel Air, France.                  |
 |     086026      |                      Aratana Therapeutics, Inc., 11400 Tomahawk Creek Pkwy., Leawood, KS 66211.                      |
 |     086047      |                               LFB USA, Inc., 175 Crossing Blvd., Framingham, MA 01702.                               |

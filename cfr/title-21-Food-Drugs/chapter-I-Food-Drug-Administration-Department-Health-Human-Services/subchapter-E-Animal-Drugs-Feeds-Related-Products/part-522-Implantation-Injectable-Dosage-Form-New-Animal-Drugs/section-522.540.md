@@ -1,5 +1,7 @@
 ##### § 522.540 Dexamethasone solution. #####
 
+Link to an amendment published at 83 FR 13635, Mar. 30, 2018.
+
 (a)(1) *Specifications.* Each milliliter of solution contains 2 milligrams (mg) dexamethasone.
 
 (2) *Sponsors.* See sponsors in § 510.600(c) of this chapter:

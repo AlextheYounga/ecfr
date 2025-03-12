@@ -1,5 +1,7 @@
 ##### § 1226.14 What are the limitations in applying approved records schedules? #####
 
+Link to an amendment published at 83 FR 13653, March 30, 2018.
+
 Agencies must apply the approved records disposition schedules to their agency's records as follows
 
 (a) Records described by items marked “disposition not approved” or “withdrawn” may not be destroyed until a specific disposition has been approved by NARA.

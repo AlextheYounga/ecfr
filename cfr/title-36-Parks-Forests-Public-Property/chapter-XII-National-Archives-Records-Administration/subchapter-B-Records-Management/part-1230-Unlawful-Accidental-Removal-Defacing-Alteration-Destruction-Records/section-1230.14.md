@@ -1,5 +1,7 @@
 ##### § 1230.14 How do agencies report incidents? #####
 
+Link to an amendment published at 83 FR 13654, March 30, 2018.
+
 The agency must report promptly any unlawful or accidental removal, defacing, alteration, or destruction of records in the custody of that agency to the National Archives and Records Administration, Modern Records Programs (NWM), 8601 Adelphi Road, College Park, MD 20740-6001, phone number 301-837-1738.
 
 (a) The report must include:

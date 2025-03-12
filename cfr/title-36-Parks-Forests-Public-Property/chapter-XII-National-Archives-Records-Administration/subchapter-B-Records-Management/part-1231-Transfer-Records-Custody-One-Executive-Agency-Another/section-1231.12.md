@@ -1,5 +1,7 @@
 ##### § 1231.12 How do executive agencies request to transfer records to another executive agency? #####
 
+Link to an amendment published at 83 FR 13654, March 30, 2018.
+
 An executive agency that proposes to transfer records to another agency must request approval of the transfer of records in writing from the National Archives and Records Administration, Modern Records Programs (NWM), 8601 Adelphi Road, College Park, MD 20740-6001, phone number (301) 837-1738. The request must include:
 
 (a) A concise description of the records to be transferred, including the volume in cubic feet;

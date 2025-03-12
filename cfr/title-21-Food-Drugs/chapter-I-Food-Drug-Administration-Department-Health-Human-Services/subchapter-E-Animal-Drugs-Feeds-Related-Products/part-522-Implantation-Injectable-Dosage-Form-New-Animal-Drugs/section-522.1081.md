@@ -1,5 +1,7 @@
 ##### § 522.1081 Chorionic gonadotropin. #####
 
+Link to an amendment published at 83 FR 13635, Mar. 30, 2018.
+
 (a) *Specifications.* Each vial contains 5,000, 10,000 or 20,000 USP units of lyophilized powder for constitution with accompanying diluent to a 10-milliliter solution.
 
 (b) *Sponsors.* See sponsors in § 510.600(c) of this chapter for use as in paragraph (d) of this section.

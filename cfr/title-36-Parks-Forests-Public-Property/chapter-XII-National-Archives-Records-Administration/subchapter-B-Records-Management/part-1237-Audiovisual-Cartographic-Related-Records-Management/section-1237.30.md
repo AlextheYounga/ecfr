@@ -1,5 +1,7 @@
 ##### § 1237.30 How do agencies manage records on nitrocellulose-base and cellulose-acetate base film? #####
 
+Link to an amendment published at 83 FR 13657, March 30, 2018.
+
 (a) The nitrocellulose base, a substance akin to gun cotton, is chemically unstable and highly flammable. Agencies must handle nitrocellulose-base film (used in the manufacture of sheet film, 35 mm motion pictures, aerial and still photography into the 1950s) as specified below:
 
 (1) Remove nitrocellulose film materials (e.g., 35mm motion picture film and large series of still pictures) from records storage areas.

@@ -1,5 +1,7 @@
 ##### § 1225.26 How do agencies change a disposition authority? #####
 
+Link to an amendment published at 83 FR 13653, March 30, 2018.
+
 Agencies must submit an SF 115 to permanently change the approved disposition of records. Disposition authorities are automatically superseded by approval of a later SF 115 for the same records unless the later SF 115 specifies an effective date. As provided in § 1226.20(c) of this subchapter, agencies are authorized to retain records eligible for destruction until the new schedule is approved.
 
 (a) SF 115s that revise previously approved disposition authorities must cite all of the following, if applicable:

@@ -1,5 +1,7 @@
 ##### § 1233.18 What reference procedures are used in NARA Federal Records Centers? #####
 
+Link to an amendment published at 83 FR 13655, March 30, 2018.
+
 (a) Agency records transferred to a NARA Federal Records Center remain in the legal custody of the agency. NARA acts as the agency's agent in maintaining the records. NARA will not disclose the record except to the agency that maintains the record, or under rules established by that agency which are consistent with existing laws.
 
 (b) For general reference requests agencies may use an FRCP electronic system or, the Optional Form (OF) 11, Reference Request - Federal Records Centers, a form jointly designated by that agency and NARA, or their electronic equivalents.

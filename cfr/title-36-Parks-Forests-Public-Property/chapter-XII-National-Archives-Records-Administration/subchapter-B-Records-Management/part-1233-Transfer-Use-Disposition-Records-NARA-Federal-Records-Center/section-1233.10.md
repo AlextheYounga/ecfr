@@ -1,5 +1,7 @@
 ##### § 1233.10 How does an agency transfer records to a NARA Federal Records Center? #####
 
+Link to an amendment published at 83 FR 13655, March 30, 2018.
+
 An agency transfers records to a NARA Federal Records Center using the following procedures:
 
 (a) General. NARA will ensure that its records centers meet the facilities standards in 36 CFR part 1234, which meets the agency's obligation in § 1232.14(a) of this subchapter.

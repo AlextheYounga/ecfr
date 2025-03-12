@@ -1,5 +1,7 @@
 ##### § 1235.50 What specifications and standards for transfer apply to electronic records? #####
 
+Link to an amendment published at 83 FR 13657, March 30, 2018.
+
 (a) *General.* (1) Agencies must transfer electronic records in a format that is independent of specific hardware or software. Except as specified in paragraphs (c) through (e) of this section, the records must be written in American Standard Code for Information Interchange (ASCII) or Extended Binary Coded Decimal Interchange Code (EBCDIC) with all control characters and other non-data characters removed. Agencies must consult with the National Archives and Records Administration, Electronic/Special Media Records Services Division (NWME), 8601 Adelphi Road, College Park, MD 20740, phone number (301) 837-1578 about electronic records in other formats.
 
 (2) Agencies must have advance approval from NARA for compression of the records, and agencies must comply with a request from NARA to provide the software to decompress the records.

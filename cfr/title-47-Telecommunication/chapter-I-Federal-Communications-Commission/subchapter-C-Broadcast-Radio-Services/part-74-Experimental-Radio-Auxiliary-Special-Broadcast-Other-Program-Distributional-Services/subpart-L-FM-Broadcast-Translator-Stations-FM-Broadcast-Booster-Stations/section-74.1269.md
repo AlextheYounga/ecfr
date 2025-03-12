@@ -1,5 +1,5 @@
-##### § 74.1269 Copies of rules. #####
+##### § 74.1269 Familiarity with FCC rules. #####
 
-The licensee or permittee of a station authorized under this subpart shall have a current copy of Volumes I (parts 0, 1, 2 and 17) and III (parts 73 & 74) of the Commission's Rules and shall make the same available for use by the operator in charge. Each such licensee or permittee shall be familiar with those rules relating to stations authorized under this subpart. Copies of the Commission's Rules may be obtained from the Superintendent of Documents, Government Printing Office, Washington, DC 20402.
+Each licensee or permittee of a station authorized under this subpart shall be familiar with those rules relating to stations authorized under this subpart. Copies of the Commission's Rules may be obtained from the Superintendent of Documents, Government Publishing Office, Washington, DC 20401, or accessed online at *https://www.ecfr.gov* or *https://www.gpo.gov/fdsys/browse/collectionCfr.action?collectionCode=CFR.*
 
-[55 FR 50699, Dec. 10, 1990]
+[83 FR 13683, Mar. 30, 2018]

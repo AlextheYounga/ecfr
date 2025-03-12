@@ -1,8 +1,6 @@
 ##### § 68.2 Scope. #####
 
-Link to an amendment published at 83 FR 8632, Feb. 28, 2018.
-
-(a) Except as provided in paragraphs (b) and (c) of this section, the rules and regulations apply to direct connection of all terminal equipment to the public switched telephone network for use in conjunction with all services other than party line services.
+(a) Except as provided in paragraphs (b) and (c) of this section, and excluding subpart F, which applies only to ACS telephonic CPE, the rules and regulations of this part apply to direct connection of all terminal equipment to the public switched telephone network for use in conjunction with all services other than party line services. Sections 68.4, 68.5, 68.6, 68.112, 68.160, 68.162, 68.316, and 68.317, and other sections to the extent they are made applicable by subpart F of this part, also apply to ACS and ACS telephonic CPE that is manufactured in the United States or imported for use in the United States on or after February 28, 2020.
 
 (b) *National defense and security.* Where the Secretary of Defense or authorized agent or the head of any other governmental department, agency, or administration (approved in writing by the Commission to act pursuant to this rule) or authorized representative, certifies in writing to the appropriate common carrier that compliance with the provisions of part 68 could result in the disclosure of communications equipment or security devices, locations, uses, personnel, or activity which would adversely affect the national defense and security, such equipment or security devices may be connected to the telephone company provided communications network without compliance with this part, provided that each written certification states that:
 
@@ -14,4 +12,4 @@ Link to an amendment published at 83 FR 8632, Feb. 28, 2018.
 
 (c) Governmental departments, agencies, or administrations that wish to qualify for interconnection of equipment or security devices pursuant to this section shall file a request with the Secretary of this Commission stating the reasons why the exemption is requested. A list of these departments, agencies, or administrations that have filed requests shall be published in the Federal Register. The Commission may take action with respect to those requests 30 days after publication. The Commission action shall be published in the Federal Register. However, the Commission may grant, on less than the normal notice period or without notice, special temporary authority, not to exceed 90 days, for governmental departments, agencies, or administrations that wish to qualify for interconnection of equipment or security devices pursuant to this section. Requests for such authority shall state the particular fact and circumstances why authority should be granted on less than the normal notice period or without notice. In such cases, the Commission shall endeavor to publish its disposition as promptly as possible in the Federal Register.
 
-[66 FR 7580, Jan. 24, 2001]
+[66 FR 7580, Jan. 24, 2001, as amended at 83 FR 8632, Feb. 28, 2018]

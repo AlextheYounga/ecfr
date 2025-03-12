@@ -1,5 +1,7 @@
 ##### § 1234.22 How does an agency request a waiver from a requirement in this part? #####
 
+Link to an amendment published at 83 FR 13655, March 30, 2018.
+
 (a) *Types of waivers that may be approved.* NARA may approve exceptions to one or more of the standards in this part for:
 
 (1) Systems, methods, or devices that are demonstrated to have equivalent or superior quality, strength, fire resistance, effectiveness, durability, and safety to those prescribed by this subpart;

@@ -1,7 +1,5 @@
 ##### 9903.201-1 CAS applicability. #####
 
-Link to an amendment published at 83 FR 8635, Feb. 28, 2018.
-
 (a) This subsection describes the rules for determining whether a proposed contract or subcontract is exempt from CAS. (See 9904 or 9905, as applicable.) Negotiated contracts not exempt in accordance with 9903.201-1(b) shall be subject to CAS. A CAS-covered contract may be subject to full, modified or other types of CAS coverage. The rules for determining the applicable type of CAS coverage are in 9903.201-2.
 
 (b) The following categories of contracts and subcontracts are exempt from all CAS requirements:
@@ -26,6 +24,6 @@ Link to an amendment published at 83 FR 8635, Feb. 28, 2018.
 
 (14) [Reserved]
 
-(15) Firm-fixed-price contracts or subcontracts awarded on the basis of adequate price competition without submission of cost or pricing data.
+(15) Firm-fixed-price contracts or subcontracts awarded on the basis of adequate price competition without submission of certified cost or pricing data.
 
-[57 FR 14153, Apr. 17, 1992; 57 FR 34167, Aug. 3, 1992, as amended at 58 FR 58801, Nov. 4, 1993; 59 FR 55753, Nov. 8, 1994; 60 FR 16540, Mar. 30, 1995; 61 FR 39361, July 29, 1996; 62 FR 31295, June 6, 1997; 65 FR 36769, June 9, 2000; 70 FR 29458, May 23, 2005; 72 FR 32810, June 14, 2007; 72 FR 36369, July 3, 2007; 76 FR 40819, July 12, 2011; 76 FR 49368, Aug. 10, 2011]
+[57 FR 14153, Apr. 17, 1992; 57 FR 34167, Aug. 3, 1992, as amended at 58 FR 58801, Nov. 4, 1993; 59 FR 55753, Nov. 8, 1994; 60 FR 16540, Mar. 30, 1995; 61 FR 39361, July 29, 1996; 62 FR 31295, June 6, 1997; 65 FR 36769, June 9, 2000; 70 FR 29458, May 23, 2005; 72 FR 32810, June 14, 2007; 72 FR 36369, July 3, 2007; 76 FR 40819, July 12, 2011; 76 FR 49368, Aug. 10, 2011; 83 FR 8635, Feb. 28, 2018]

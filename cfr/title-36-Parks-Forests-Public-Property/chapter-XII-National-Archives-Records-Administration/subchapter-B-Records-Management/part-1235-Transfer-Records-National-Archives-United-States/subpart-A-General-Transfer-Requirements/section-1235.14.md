@@ -1,5 +1,7 @@
 ##### § 1235.14 May agencies retain records for the conduct of regular agency business after they are eligible for transfer? #####
 
+Link to an amendment published at 83 FR 13656, March 30, 2018.
+
 (a) Agencies may retain records longer than specified on a records disposition schedule only with written approval from NARA.
 
 (b) If the agency determines that the records are needed for the conduct of regular business, the records officer must submit to the National Archives and Records Administration, Modern Records Programs (NWM), 8601 Adelphi Road, College Park, MD 20740-6001, phone number (301) 837-1738, a written request certifying continuing need. This certification must:

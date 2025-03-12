@@ -1,5 +1,7 @@
 ##### § 1235.48 What documentation must agencies transfer with electronic records? #####
 
+Link to an amendment published at 83 FR 13656, March 30, 2018.
+
 (a) *General.* Agencies must transfer documentation adequate to identify, service, and interpret the permanent electronic records This documentation must include completed NARA Form 14097, Technical Description for Transfer of Electronic Records, for magnetic tape media, and a completed NARA Form 14028, Information System Description Form, or their equivalents. Agencies must submit the required documentation, if electronic, in an electronic form that conforms to the provisions of this section.
 
 (b) *Data files.* Documentation for data files and data bases must include record layouts, data element definitions, and code translation tables (codebooks) for coded data. Data element definitions, codes used to represent data values, and interpretations of these codes must match the actual format and codes as transferred.

@@ -1,5 +1,7 @@
 ##### § 1233.20 How are disposal clearances managed for records in NARA Federal Records Centers? #####
 
+Link to an amendment published at 83 FR 13655, March 30, 2018.
+
 (a) The National Personnel Records Center will destroy records covered by General Records Schedules 1 and 2 in accordance with those schedules without further agency clearance.
 
 (b) NARA Federal Records Centers will destroy other eligible Federal records only with the written concurrence of the agency having legal custody of the records.

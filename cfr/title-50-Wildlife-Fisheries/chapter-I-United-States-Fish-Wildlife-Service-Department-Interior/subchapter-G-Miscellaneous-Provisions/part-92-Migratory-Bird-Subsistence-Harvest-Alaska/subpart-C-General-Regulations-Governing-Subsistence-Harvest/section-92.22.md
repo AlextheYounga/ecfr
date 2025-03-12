@@ -1,5 +1,7 @@
 ##### § 92.22 Subsistence migratory bird species. #####
 
+Link to an amendment published at 83 FR 13688, March 30, 2018.
+
 You may harvest birds or gather eggs from the following species, listed in taxonomic order, within all included areas except Southeast Alaska, which is restricted to Glaucous-winged gull egg harvesting only. When birds are listed at the species level, all subspecies existing in Alaska are also open to harvest. All bird species not listed are closed to harvesting and egg gathering.
 
 (a) *Family Anatidae.* (1) Greater White-fronted Goose (*Anser albifrons*).

@@ -32,20 +32,7 @@
 
 (viii) The following sections are applicable to analog-to-digital and digital-to-digital replacement television translator stations:
 
-|                                                                                     Applicable Rule Sections                                                                                      |
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|                                             § 73.1030 Notifications concerning interference to radio astronomy, research and receiving installations.                                             |
-|                                                                                      § 74.703 Interference.                                                                                       |
-|                                                                             § 74.709 Land mobile station protection.                                                                              |
-|                                                                            § 74.734 Attended and unattended operation.                                                                            |
-|                                                                                    § 74.735 Power Limitations.                                                                                    |
-|                                                                          § 74. 751 Modification of transmission systems.                                                                          |
-|                                                                                    § 74.763 Time of Operation.                                                                                    |
-|                                                                        § 74.765 Posting of station and operator licenses.                                                                         |
-|                                                                                     § 74.769 Copies of rules.                                                                                     |
-|§ 74.780 Broadcast regulations applicable to translators, low power, and booster stations (except § 73.653 - Operation of TV aural and visual transmitters and § 73.1201 - Station identification).|
-|                                                                                     § 74.781 Station records.                                                                                     |
-|                                                                                      § 74.784 Rebroadcasts.                                                                                       |
+Applicable Rule Sections§ 73.1030 Notifications concerning interference to radio astronomy, research and receiving installations.§ 74.703 Interference.§ 74.709 Land mobile station protection.§ 74.734 Attended and unattended operation.§ 74.735 Power Limitations.§ 74.751 Modification of transmission systems.§ 74.763 Time of Operation.§ 74.765 Posting of station and operator licenses.§ 74.769 Familiarity with FCC rules.§ 74.780 Broadcast regulations applicable to translators, low power, and booster stations (except § 73.653 - Operation of TV aural and visual transmitters and § 73.1201 - Station identification).§ 74.781 Station records.§ 74.784 Rebroadcasts.
 
 (b) *Definitions of “major” and “minor” changes to digital low power television and television translator stations.* (1) Applications for major changes in digital low power television and television translator stations include:
 
@@ -59,4 +46,4 @@
 
 (c) Not later than 11:59 pm local time on September 1, 2011, low power television or TV translator stations operating analog (NTSC) or digital facilities above Channel 51, that have not already done so, must file a digital displacement application for a channel below Channel 52 pursuant to the procedures in subsection (a)(4) of this rule. Low power television and TV translator stations operating analog (NTSC) or digital facilities above Channel 51 that have not submitted a digital displacement application by 11:59 pm local time on September 1, 2011 will be required to cease operations altogether by December 31, 2011. These stations' authorization for facilities above Channel 51 shall be cancelled. Any digital displacement application submitted by a low power television or TV translator station operating analog (NTSC) or digital facilities above Channel 51 that is submitted after 11:59 pm local time on September 1, 2011 will be dismissed. In addition, any outstanding construction permit (analog or digital) for an channel above Channel 51 will be rescinded on December 31, 2011, and any pending application (analog or digital) for a channel above Channel 51 will be dismissed on December 31, 2011, if the permittee has not submitted a digital displacement application by 11:59 pm local on September 1, 2011.
 
-[69 FR 69333, Nov. 29, 2004, as amended at 74 FR 23655, May 20, 2009; 76 FR 44828, July 27, 2011; 81 FR 5053, Feb. 1, 2016]
+[69 FR 69333, Nov. 29, 2004, as amended at 74 FR 23655, May 20, 2009; 76 FR 44828, July 27, 2011; 81 FR 5053, Feb. 1, 2016; 83 FR 13683, Mar. 30, 2018]

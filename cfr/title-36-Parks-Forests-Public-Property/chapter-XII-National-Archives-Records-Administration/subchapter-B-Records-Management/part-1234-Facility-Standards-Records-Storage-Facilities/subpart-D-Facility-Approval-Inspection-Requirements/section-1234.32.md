@@ -1,5 +1,7 @@
 ##### § 1234.32 What does an agency have to do to certify a fire-safety detection and suppression system? #####
 
+Link to an amendment published at 83 FR 13656, March 30, 2018.
+
 (a) *Content of documentation.* The agency must submit documentation to the Director, Space and Security Management Division (NAS), National Archives and Records Administration, 8601 Adelphi Road, College Park, MD 20740-6001, phone number (301) 837-1867, that describes the space being protected (e.g., the type and stacking height of the storage equipment used, or how the space is designed, controlled, and operated) and the characteristics of the fire-safety detection and suppression system used. The documentation must demonstrate how that system meets the requirement in § 1234.12(s) through:
 
 (1) A statement that the facility is using a NARA certified system as described in Appendix B to this part;

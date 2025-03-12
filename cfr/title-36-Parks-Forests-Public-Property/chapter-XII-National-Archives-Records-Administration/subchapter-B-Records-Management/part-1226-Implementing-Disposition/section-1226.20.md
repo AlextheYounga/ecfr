@@ -1,5 +1,7 @@
 ##### § 1226.20 How do agencies temporarily extend retention periods? #####
 
+Link to an amendment published at 83 FR 13653, March 30, 2018.
+
 (a) Agencies must secure NARA written approval to retain records series or systems that are eligible for destruction under NARA-approved schedules except when:
 
 (1) The agency has requested a change in the records schedule in accordance with § 1225.26 of this subchapter, in which case the agency is authorized to retain records eligible for destruction until the new SF 115 is approved;

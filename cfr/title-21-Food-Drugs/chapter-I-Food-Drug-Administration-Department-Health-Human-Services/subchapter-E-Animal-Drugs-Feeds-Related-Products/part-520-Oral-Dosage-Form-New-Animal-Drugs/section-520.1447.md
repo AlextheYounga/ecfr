@@ -16,10 +16,10 @@
 
 (d) *Conditions of use* - (1) *Dogs* - (i) *Amount.* 0.5 mg milbemycin oxime, 10 mg lufenuron, and 5 mg of praziquantel per kilogram of body weight, once a month.
 
-(ii) *Indications for use.* For the prevention of heartworm disease caused by *Dirofilaria immitis;* for the prevention and control of flea populations (*Ctenocephalides felis*); and for the treatment and control of adult roundworm (*Toxocara canis, Toxascaris leonina*), adult hookworm (*Ancylostoma caninum*), adult whipworm (*Trichuris vulpis*), and adult tapeworm (*Taenia pisiformis, Echinococcus multilocularis,* and *E. granulosus*) infections in dogs and puppies 2 pounds of body weight or greater and 6 weeks of age and older.
+(ii) *Indications for use.* For the prevention of heartworm disease caused by *Dirofilaria immitis;* for the prevention and control of flea populations (*Ctenocephalides felis*); and for the treatment and control of adult roundworm (*Toxocara canis, Toxascaris leonina*), adult hookworm (*Ancylostoma caninum*), adult whipworm (*Trichuris vulpis*), and adult tapeworm (*Dipylidium caninum, Taenia pisiformis,**Echinococcus multilocularis,* and *E. granulosus*) infections in dogs and puppies 2 pounds of body weight or greater and 6 weeks of age and older.
 
 (iii) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
 (2) [Reserved]
 
-[77 FR 4225, Jan. 27, 2012, as amended at 80 FR 18776, Apr. 8, 2015]
+[77 FR 4225, Jan. 27, 2012, as amended at 80 FR 18776, Apr. 8, 2015; 83 FR 13635, Mar. 30, 2018]

@@ -1,5 +1,7 @@
 ##### § 1237.22 What are special considerations in the storage and maintenance of cartographic and related records? #####
 
+Link to an amendment published at 83 FR 13657, March 30, 2018.
+
 Agencies must:
 
 (a) Maintain permanent and unscheduled cartographic, architectural, and engineering records in an environment that does not exceed 70 degrees Fahrenheit and with relative humidity under 50%.

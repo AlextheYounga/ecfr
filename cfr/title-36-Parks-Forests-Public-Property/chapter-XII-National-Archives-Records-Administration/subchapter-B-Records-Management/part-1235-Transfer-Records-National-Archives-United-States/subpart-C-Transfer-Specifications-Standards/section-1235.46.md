@@ -1,5 +1,7 @@
 ##### § 1235.46 What electronic media may be used for transferring records to the National Archives of the United States? #####
 
+Link to an amendment published at 83 FR 13656, March 30, 2018.
+
 (a) *General.* This section specifies the media or method used to transfer permanent records to the National Archives of the United States. (See 36 CFR 1236.28 for the requirements governing the selection of electronic records storage media for current agency use.) The agency must use only media that is are sound and free from defects for transfers to the National Archives of the United States. When permanent electronic records may be disseminated through multiple electronic media (e.g., magnetic tape, CD-ROM) or mechanisms (e.g., FTP), the agency and NARA must agree on the most appropriate medium or method for transfer of the records into the National Archives of the United States.
 
 (b) *Magnetic tape.* Agencies may transfer electronic records to the National Archives of the United States on magnetic tape as follows:

@@ -1,5 +1,7 @@
 ##### § 1220.34 What must an agency do to carry out its records management responsibilities? #####
 
+Link to an amendment published at 83 FR 13653, March 30, 2018.
+
 To carry out the responsibilities specified in 44 U.S.C. 3101 and 3102, agencies must:
 
 (a) Assign records management responsibility to a person and office with appropriate authority within the agency to coordinate and oversee implementation of the agency comprehensive records management program principles in § 1220.32;

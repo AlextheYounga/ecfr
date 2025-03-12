@@ -1,5 +1,7 @@
 ##### § 522.300 Carfentanil. #####
 
+Link to an amendment published at 83 FR 13635, Mar. 30, 2018.
+
 (a) *Specifications.* Each milliliter of solution contains 3 milligrams (mg) carfentanil citrate.
 
 (b) *Sponsor.* See No. 053923 in § 510.600(c) of this chapter.

@@ -1,5 +1,7 @@
 ##### § 1235.42 What specifications and standards for transfer apply to audiovisual records, cartographic, and related records? #####
 
+Link to an amendment published at 83 FR 13656, March 30, 2018.
+
 In general the physical types described below comprise the minimum record elements that are needed for future preservation, duplication, and reference for audiovisual records, cartographic records, and related records.
 
 (a) *Motion pictures.* (1) Agency-sponsored or produced motion picture films (e.g., public information films) whether for public or internal use:

@@ -1,5 +1,7 @@
 ##### § 1232.16 What documentation must an agency create before it transfers records to a records storage facility? #####
 
+Link to an amendment published at 83 FR 13654, March 30, 2018.
+
 (a) Documentation must include for each individual records series spanning one or more consecutive years transferred to storage:
 
 (1) Creating office;

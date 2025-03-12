@@ -2,7 +2,7 @@
 
 (a) *Specifications.* Each milliliter (mL) of solution contains 20 USP units oxytocin.
 
-(b) *Sponsors.* See Nos. 054628, 054771 and 061623 in § 510.600(c) of this chapter.
+(b) *Sponsors.* See Nos. 054771 and 061623 in § 510.600(c) of this chapter.
 
 (c) *Conditions of use* - (1) *Amount* - (i) *Obstetrical.* Administer drug intravenously, intramuscularly, or subcutaneously under aseptic conditions as indicated. The following dosages are recommended and may be repeated as conditions require:
 

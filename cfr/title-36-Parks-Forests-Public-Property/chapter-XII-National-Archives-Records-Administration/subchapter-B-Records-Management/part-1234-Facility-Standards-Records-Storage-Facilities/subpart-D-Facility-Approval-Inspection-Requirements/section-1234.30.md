@@ -1,5 +1,7 @@
 ##### § 1234.30 How does an agency request authority to establish or relocate records storage facilities? #####
 
+Link to an amendment published at 83 FR 13655, March 30, 2018.
+
 (a) *General policy.* Agencies are responsible for ensuring that records in their legal custody are stored in appropriate space as outlined in this part. Under § 1232.18(a), agencies are responsible for initiating action to remove records from space that does not meet these standards if deficiencies are not corrected within 6 months after initial discovery of the deficiencies by NARA or the agency and to complete removal of the records within 18 months after initial discovery of the deficiencies.
 
 (1) *Agency records centers.* Agencies must obtain prior written approval from NARA before establishing or relocating an agency records center. Each separate agency records center must be specifically approved by NARA prior to the transfer of any records to that individual facility. If an agency records center has been approved for the storage of Federal records of one agency, any other agency that proposes to store its records in that facility must still obtain NARA approval to do so.

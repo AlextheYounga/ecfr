@@ -1,5 +1,7 @@
 ##### § 1225.24 When can an agency apply previously approved schedules to electronic records? #####
 
+Link to an amendment published at 83 FR 13653, March 30, 2018.
+
 If the conditions specified in § 1225.22(h) do not apply, the following conditions apply:
 
 (a) *Permanent records.* (1) The agency may apply a previously approved schedule for hard copy records to electronic versions of the permanent records when the electronic records system replaces a single series of hard copy permanent records or the electronic records consist of information drawn from multiple previously scheduled permanent series. Agencies must notify the National Archives and Records Administration, Modern Records Programs (NWM), 8601 Adelphi Road, College Park, MD 20740-6001, phone number 301-837-1738, in writing of series of records that have been previously scheduled as permanent in hard copy form, including special media records as described in 36 CFR 1235.52 of this subchapter. An agency should send the notification to the NARA unit that processes its schedules. The notification must be submitted within 90 days of when the electronic recordkeeping system becomes operational and must contain the:

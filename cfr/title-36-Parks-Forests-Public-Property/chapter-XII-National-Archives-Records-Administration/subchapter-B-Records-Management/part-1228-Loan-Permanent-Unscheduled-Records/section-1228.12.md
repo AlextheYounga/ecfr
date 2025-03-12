@@ -1,5 +1,7 @@
 ##### § 1228.12 How do agencies obtain approval to loan permanent or unscheduled records? #####
 
+Link to an amendment published at 83 FR 13654, March 30, 2018.
+
 (a) An agency proposing to loan permanent or unscheduled records must prepare a written loan agreement with the proposed recipient. The agreement must include:
 
 (1) The name of the department or agency and subdivisions having custody of the records;

@@ -1,5 +1,7 @@
 ##### § 1234.10 What are the facility requirements for all records storage facilities? #####
 
+Link to an amendment published at 83 FR 13655, March 30, 2018.
+
 (a) The facility must be constructed with non-combustible materials and building elements, including walls, columns and floors. There are two exceptions to this requirement:
 
 (1) Roof elements may be constructed with combustible materials if installed in accordance with local building codes and if roof elements are protected by a properly installed, properly maintained wet-pipe automatic sprinkler system, as specified in NFPA 13 (incorporated by reference, see § 1234.3).

@@ -30,7 +30,7 @@
 
 (2) *Replacement chickens* - (i) *Amount per ton.* Sulfadimethoxine, 113.5 grams (0.0125 percent) plus ormetoprim, 68.1 grams (0.0075 percent).
 
-(ii) *Indications for use.* As an aid in the prevention of coccidiosis caused by all *Eimeria* species known to be pathogenic to chickens, namely *E. tenella, E. necatrix, E. acervulina, E. brunetti, E. mivati,* and *E. maxima,* and bacterial infections due to *H. galmaxima,* and bacterial infections due to *H. gallinarum* (infectious coryza), *E. coli* (colibacillosis) and *P. multocida* (fowl cholera).
+(ii) *Indications for use.* As an aid in the prevention of coccidiosis caused by all *Eimeria* species known to be pathogenic to chickens, namely *E. tenella, E. necatrix, E. acervulina, E. brunetti, E. mivati,* and *E. maxima,* and bacterial infections due to *H. gallinarum* (infectious coryza), *E. coli* (colibacillosis) and *P. multocida* (fowl cholera).
 
 (iii) *Limitations.* Feed as a sole ration; do not feed to chickens over 16 weeks (112 days) of age; withdraw 5 days before slaughter.
 
@@ -70,4 +70,4 @@
 
 (iii) *Limitations.* Feed continuously to young birds up to 8 weeks of age as sole ration.
 
-[40 FR 13959, Mar. 27, 1975, as amended at 42 FR 13550, Mar. 11, 1977; 49 FR 33442, Aug. 23, 1984; 49 FR 46371, Nov. 26, 1984; 51 FR 7400, Mar. 3, 1986; 51 FR 18884, May 23, 1986; 52 FR 2686, Jan. 26, 1987; 54 FR 1686, Jan. 17, 1989; 63 FR 27846, May 21, 1998; 64 FR 26672, May 17, 1999; 64 FR 43910, Aug. 12, 1999; 66 FR 46707, Sept. 7, 2001; 70 FR 52292, Sept. 2, 2005; 79 FR 10983, Feb. 27, 2014; 79 FR 13546, Mar. 11, 2014; 81 FR 95013, Dec. 27, 2016]
+[40 FR 13959, Mar. 27, 1975, as amended at 42 FR 13550, Mar. 11, 1977; 49 FR 33442, Aug. 23, 1984; 49 FR 46371, Nov. 26, 1984; 51 FR 7400, Mar. 3, 1986; 51 FR 18884, May 23, 1986; 52 FR 2686, Jan. 26, 1987; 54 FR 1686, Jan. 17, 1989; 63 FR 27846, May 21, 1998; 64 FR 26672, May 17, 1999; 64 FR 43910, Aug. 12, 1999; 66 FR 46707, Sept. 7, 2001; 70 FR 52292, Sept. 2, 2005; 79 FR 10983, Feb. 27, 2014; 79 FR 13546, Mar. 11, 2014; 81 FR 95013, Dec. 27, 2016; 83 FR 13637, Mar. 30, 2018]

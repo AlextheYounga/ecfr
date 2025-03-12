@@ -1,5 +1,7 @@
 ##### § 1237.28 What special concerns apply to digital photographs? #####
 
+Link to an amendment published at 83 FR 13657, March 30, 2018.
+
 Digital photographs, either originating in digital form (“born-digital”) or scanned from photographic prints, slides, and negatives, are subject to the provisions of this part and the requirements of 36 CFR part 1236, and NARA guidance for transfer of digital photographs located on the following NARA Web page - *http://www.archives.gov/records-mgmt/initiatives/digital-photo-records.html.* In managing digital photographs, agency and contractor personnel must:
 
 (a) Schedule digital photographs and related databases as soon as possible for the minimum time needed for agency business and transfer the records promptly according to the disposition instructions on their records schedule.

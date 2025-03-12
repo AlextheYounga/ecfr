@@ -1,0 +1,3 @@
+##### § 68.504 Administrative Council on Terminal Attachments. #####
+
+The database registration and labeling provisions of §§ 68.354, 68.610, and 68.612 shall apply to ACS telephonic CPE that is approved as hearing aid compatible and is manufactured in or imported to the United States on or after February 28, 2020. After that date, the information required by the Administrative Council on Terminal Attachments shall be submitted within 30 days after the date that the equipment is manufactured in or imported into the United States.
