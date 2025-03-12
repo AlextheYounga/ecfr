@@ -2,7 +2,7 @@
 
 (a) The Mitsubishi Heavy Industries MU-2B Cockpit Checklists are incorporated by reference into this part. The Director of the Federal Register approved this incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. All approved material is available for inspection at U.S. Department of Transportation, Docket Management Facility, Room W 12-140, West Building Ground Floor, 1200 New Jersey Ave. SE., Washington, DC 20590-0001, or at the National Archives and Records Administration, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
-(b) Turbine Aircraft Services, Inc., 4550 Jimmy Doolittle Drive, Addison, Texas 75001, USA.
+(b) Mitsubishi Heavy Industries America, Inc., 4951 Airport Parkway, Suite 530, Addison, TX 75001.
 
 (1) Mitsubishi Heavy Industries MU-2B Checklists:
 
@@ -39,3 +39,5 @@
 (xvii) Cockpit Checklist, Model MU-2B, Type Certificate A2PC, MHI Document No. YET06244A, accepted by FSB on March 2, 2007.
 
 (2) [Reserved]
+
+[Docket FAA-2006-24981, Amdt. 91-344, 81 FR 61591, Sept. 7, 2016; Amdt. 91-344A, 82 FR 21472, May 9, 2017]

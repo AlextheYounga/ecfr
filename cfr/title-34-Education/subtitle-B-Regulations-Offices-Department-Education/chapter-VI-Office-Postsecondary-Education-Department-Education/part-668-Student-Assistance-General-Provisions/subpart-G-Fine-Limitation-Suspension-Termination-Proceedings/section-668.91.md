@@ -1,6 +1,6 @@
 ##### § 668.91 Initial and final decisions. #####
 
-Link to an amendment published at 81 FR 76072, November 1, 2016.
+Link to an amendment published at 81 FR 76072, Nov. 1, 2016.
 
 (a)(1)(i) A hearing official issues a written initial decision in a hearing by certified mail, return receipt requested to -
 

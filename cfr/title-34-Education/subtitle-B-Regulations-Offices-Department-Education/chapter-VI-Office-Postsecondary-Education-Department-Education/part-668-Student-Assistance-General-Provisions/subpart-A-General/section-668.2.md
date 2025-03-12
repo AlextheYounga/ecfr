@@ -1,6 +1,6 @@
 ##### § 668.2 General definitions. #####
 
-Link to an amendment published at 81 FR 92262, December 19, 2016.
+Link to an amendment published at 81 FR 92262, Dec. 19, 2016.
 
 (a) The following definitions are contained in the regulations for Institutional Eligibility under the Higher Education Act of 1965, as amended, 34 CFR part 600:
 

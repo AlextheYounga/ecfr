@@ -8,7 +8,7 @@ The following regulations apply to the International Education Programs:
 
 (2) 34 CFR part 75 (Direct Grant Programs).
 
-(3)34 CFR part 77 (Definitions that Apply to Department Regulations).
+(3) 34 CFR part 77 (Definitions that Apply to Department Regulations).
 
 (4) 34 CFR part 79 (Intergovernmental Review of Department of Education Programs and Activities), except that part 79 does not apply to 34 CFR parts 660, 669, and 671.
 
@@ -20,7 +20,7 @@ The following regulations apply to the International Education Programs:
 
 (b) The regulations in this part 655; and
 
-(c) As appropriate, the regulations in -
+(c) As appropriate, the regulations in—
 
 (1) 34 CFR part 656 (National Resource Centers Program for Foreign Language and Area Studies or Foreign Language and International Studies);
 

@@ -1,6 +1,6 @@
 ##### § 674.61 Discharge for death or disability. #####
 
-Link to an amendment published at 81 FR 76078, November 1, 2016.
+Link to an amendment published at 81 FR 76078, Nov. 1, 2016.
 
 (a) *Death.* An institution must discharge the unpaid balance of a borrower's Defense, NDSL, or Perkins loan, including interest, if the borrower dies. The institution must discharge the loan on the basis of an original or certified copy of the death certificate, or an accurate and complete photocopy of the original or certified copy of the death certificate. Under exceptional circumstances and on a case-by-case basis, the chief financial officer of the institution may approve a discharge based upon other reliable documentation supporting the discharge request.
 

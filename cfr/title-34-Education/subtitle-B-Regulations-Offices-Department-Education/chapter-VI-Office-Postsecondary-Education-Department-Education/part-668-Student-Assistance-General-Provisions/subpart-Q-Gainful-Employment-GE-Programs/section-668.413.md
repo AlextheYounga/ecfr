@@ -148,7 +148,7 @@
 
 (2) Median loan debt of the students who completed the program, as described in paragraph (b)(4) of this section, the students who withdrew from the program, as described in paragraph (b)(5) of this section, and both the students who completed and withdrew from the program, as described in paragraph (b)(6) of this section.
 
-(3)Mean and median earnings of the students who completed the program, as described in paragraph (b)(8) of this section, the students who withdrew from the program, as described in paragraph (b)(9) of this section, or both the students who completed the program and the students who withdrew from the program, as described in paragraph (b)(10) of this section, in each case during the cohort period.
+(3) Mean and median earnings of the students who completed the program, as described in paragraph (b)(8) of this section, the students who withdrew from the program, as described in paragraph (b)(9) of this section, or both the students who completed the program and the students who withdrew from the program, as described in paragraph (b)(10) of this section, in each case during the cohort period.
 
 (4) Draft program cohort default rate, as described in paragraph (b)(13) of this section.
 
