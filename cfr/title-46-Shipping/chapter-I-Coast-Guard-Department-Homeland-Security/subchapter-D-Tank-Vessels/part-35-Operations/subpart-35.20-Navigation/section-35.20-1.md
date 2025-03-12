@@ -1,4 +1,4 @@
-##### § 35.20-1 Notice to mariners; aids to navigation - T/OCLB. #####
+##### § 35.20-1 Notice to mariners; aids to navigation—T/OCLB. #####
 
 (a) Licensed officers are required to acquaint themselves with the latest information published by the Coast Guard and the National Geospatial-Intelligence Agency regarding aids to navigation, and neglect to do so is evidence of neglect of duty. It is desirable that vessels navigating oceans and coastwise and Great Lakes water shall have available in the pilothouse for convenient reference at all times a file of the applicable Notice to Mariners.
 

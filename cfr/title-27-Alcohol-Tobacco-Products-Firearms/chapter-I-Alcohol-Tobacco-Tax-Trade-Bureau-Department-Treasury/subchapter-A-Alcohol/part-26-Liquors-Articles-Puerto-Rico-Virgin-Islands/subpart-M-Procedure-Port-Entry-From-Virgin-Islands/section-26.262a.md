@@ -18,7 +18,7 @@
 
 (b) In determining the effective tax rate, quantities of distilled spirits, eligible wine, and eligible flavors will be expressed to the nearest tenth of a proof gallon. The effective tax rate may be rounded to as many decimal places as the proprietor deems appropriate, provided that, such rate is expressed no less exactly than the rate rounded to the nearest whole cent, and the effective tax rates for all products will be consistently expressed to the same number of decimal places. In such case, if the number is less than five it will be dropped; if it is five or over, a unit will be added.
 
-(c) The following is an example of the use of the formula.
+(c) The following is an example of the use of the formula./\>
 
 1 Proof gallons by which distilled spirits derived from eligible flavors exceed 21/2% of the total proof gallons in the batch (100.9 − (21/2%) × 3,371.8 = 16.6).
 

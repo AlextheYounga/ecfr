@@ -1,0 +1,5 @@
+##### § 51.1318 Suspension of SIP planning requirements in nonattainment areas that have air quality data that meet an ozone NAAQS. #####
+
+Upon a determination by the EPA that an area designated nonattainment for a specific ozone NAAQS has attained that NAAQS, the requirements for such area to submit attainment demonstrations and associated RACM, RFP plans, contingency measures for failure to attain or make reasonable progress, and other planning SIPs related to attainment of the ozone NAAQS for which the determination has been made, shall be suspended until such time as: The area is redesignated to attainment for that NAAQS, at which time the requirements no longer apply; or the EPA determines that the area has violated that NAAQS, at which time the area is again required to submit such plans.
+
+[83 FR 63033, Dec. 6, 2018]

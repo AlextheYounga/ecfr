@@ -20,7 +20,7 @@
 
 (2) *Tax rates.* The proprietor may round the effective tax rate to as many decimal places as the proprietor deems appropriate, provided that the rate is expressed no less exactly than the rate rounded to the nearest whole cent. The proprietor must be consistent and round the effective tax rates for all products to the same number of decimal places. When rounding, if the number to the right of the last decimal place to be kept is less than five, it will be dropped, if it is five or over, a unit will be added.
 
-(c) *Example.* The following is an example of the use of the formula.
+(c) *Example.* The/\> following is an example of the use of the formula.
 
 1 Proof gallons by which distilled spirits derived from eligible flavors exceed 2.5% of the total proof gallons in the batch (100.9 − (2.5% × 3,371.8) = 16.6).
 

@@ -1,4 +1,4 @@
-##### § 30.10-22 Flammable liquid - TB/ALL. #####
+##### § 30.10-22 Flammable liquid—TB/ALL. #####
 
 The term *flammable liquid* means any liquid which gives off flammable vapors (as determined by flashpoint from an open-cup tester, as used for test of burning oils) at or below a temperature of 80 °F. Flammable liquids are referred to by grades as follows:
 
