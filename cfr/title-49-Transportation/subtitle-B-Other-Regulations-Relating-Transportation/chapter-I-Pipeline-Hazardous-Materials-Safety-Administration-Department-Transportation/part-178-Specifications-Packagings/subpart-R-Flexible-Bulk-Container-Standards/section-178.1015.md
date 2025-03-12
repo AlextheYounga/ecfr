@@ -16,4 +16,6 @@
 
 (e) Handling devices must be strong enough to withstand repeated use.
 
-(f) A venting device must be fitted to Flexible Bulk Containers intended to transport hazardous materials that may develop dangerous accumulation of gases within the Flexible Bulk Container. Any venting device must be designed so that external foreign substances are prevented from entering the Flexible Bulk Container through the venting device under conditions normally incident to transportation.
+(f) A venting device must be fitted to Flexible Bulk Containers intended to transport hazardous materials that may develop dangerous accumulation of gases within the Flexible Bulk Container. Any venting device must be designed so that external foreign substances or the ingress of water are prevented from entering the Flexible Bulk Container through the venting device under conditions normally incident to transportation.
+
+[78 FR 1097, Jan. 7, 2013, as amended at 82 FR 15896, Mar. 30, 2017]

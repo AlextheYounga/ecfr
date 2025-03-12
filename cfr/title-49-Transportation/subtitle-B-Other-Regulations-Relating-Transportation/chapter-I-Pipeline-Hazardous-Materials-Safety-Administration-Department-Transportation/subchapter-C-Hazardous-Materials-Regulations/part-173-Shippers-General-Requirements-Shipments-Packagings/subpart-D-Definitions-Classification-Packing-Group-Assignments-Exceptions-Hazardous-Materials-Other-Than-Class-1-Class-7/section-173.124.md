@@ -1,24 +1,24 @@
 ##### § 173.124 Class 4, Divisions 4.1, 4.2 and 4.3 - Definitions. #####
 
-(a) *Division 4.1 (Flammable Solid).* For the purposes of this subchapter, *flammable solid* (Division 4.1) means any of the following three types of materials:
+(a) *Division 4.1 (Flammable Solid).* For the purposes of this subchapter, *flammable solid* (Division 4.1) means any of the following four types of materials:
 
 (1) Desensitized explosives that -
 
 (i) When dry are Explosives of Class 1 other than those of compatibility group A, which are wetted with sufficient water, alcohol, or plasticizer to suppress explosive properties; and
 
-(ii) Are specifically authorized by name either in the § 172.101Table or have been assigned a shipping name and hazard class by the Associate Administrator under the provisions of -
+(ii) Are specifically authorized by name either in the Hazardous Materials Table in § 172.101 of this subchapter or have been assigned a shipping name and hazard class by the Associate Administrator under the provisions of -
 
 (A) A special permit issued under subchapter A of this chapter; or
 
-(B) An approval issued under § 173.56(i) of this part.
+(B) An approval issued under § 173.56(i).
 
-(2)(i) Self-reactive materials are materials that are thermally unstable and that can undergo a strongly exothermic decomposition even without participation of oxygen (air). A material is excluded from this definition if any of the following applies:
+(2)(i) Self-reactive materials that are thermally unstable and can undergo an exothermic decomposition even without participation of oxygen (air). A material is excluded from this definition if any of the following applies:
 
 (A) The material meets the definition of an explosive as prescribed in subpart C of this part, in which case it must be classed as an explosive;
 
 (B) The material is forbidden from being offered for transportation according to § 172.101 of this subchapter or § 173.21;
 
-(C) The material meets the definition of an oxidizer or organic peroxide as prescribed in subpart D of this part, in which case it must be so classed;
+(C) The material meets the definition of an oxidizer or organic peroxide as prescribed in this subpart, in which case it must be so classed;
 
 (D) The material meets one of the following conditions:
 
@@ -54,7 +54,7 @@
 
 (iii) *Procedures for assigning a self-reactive material to a generic type.* A self-reactive material must be assigned to a generic type based on -
 
-(A) Its physical state (i.e. liquid or solid), in accordance with the definition of liquid and solid in § 171.8 of this subchapter;
+(A) Its physical state (*i.e.* liquid or solid), in accordance with the definition of liquid and solid in § 171.8 of this subchapter;
 
 (B) A determination as to its control temperature and emergency temperature, if any, under the provisions of § 173.21(f);
 
@@ -66,7 +66,7 @@
 
 (*2*) An approval issued for the self-reactive material by the competent authority of a foreign government.
 
-(iv) *Tests.* The generic type for a self-reactive material must be determined using the testing protocol from Figure 20.1 (a)-(b) (Flow Chart Scheme for Self-Reactive Substances and Organic Peroxides) from the UN Manual of Tests and Criteria (IBR, see § 171.7 of this subchapter).
+(iv) *Tests.* The generic type for a self-reactive material must be determined using the testing protocol from Figure 20.1 (a) and (b) (Flow Chart Scheme for Self-Reactive Substances and Organic Peroxides) from the UN Manual of Tests and Criteria (IBR, see § 171.7 of this subchapter).
 
 (3) Readily combustible solids are materials that -
 
@@ -76,6 +76,16 @@
 
 (iii) Any metal powders that can be ignited and react over the whole length of a sample in 10 minutes or less, when tested in accordance with the UN Manual of Tests and Criteria.
 
+(4) Polymerizing materials are materials which, without stabilization, are liable to undergo an exothermic reaction resulting in the formation of larger molecules or resulting in the formation of polymers under conditions normally encountered in transport. Such materials are considered to be polymerizing substances of Division 4.1 when:
+
+(i) Their self-accelerating polymerization temperature (SAPT) is 75 °C (167 °F) or less under the conditions (with or without chemical stabilization) as offered for transport in the packaging, IBC or portable tank in which the material or mixture is to be transported. An appropriate IBC or portable tank for a polymerizing material must be determined using the heating under confinement testing protocol from boxes 7, 8, 9, and 13 of Figure 20.1 (a) and (b) (Flow Chart Scheme for Self-Reactive Substances and Organic Peroxides) from the UN Manual of Tests and Criteria (IBR, see § 171.7 of this subchapter) by successfully passing the UN Test Series E at the “None” or “Low” level, or by an equivalent test method with the approval of the Associate Administrator;
+
+(ii) They exhibit a heat of reaction of more than 300 J/g; and
+
+(iii) Do not meet the definition of hazard classes 1-8 (including combustible liquids).
+
+(iv) The provisions concerning polymerizing substances in paragraph (a)(4) will be effective until January 2, 2019.
+
 (b) *Division 4.2 (Spontaneously Combustible Material).* For the purposes of this subchapter, *spontaneously combustible material* (Division 4.2) means -
 
 (1) *A pyrophoric material.* A pyrophoric material is a liquid or solid that, even in small quantities and without an external ignition source, can ignite within five (5) minutes after coming in contact with air when tested according to UN Manual of Tests and Criteria.
@@ -84,4 +94,4 @@
 
 (c) *Division 4.3 (Dangerous when wet material).* For the purposes of this chapter, *dangerous when wet material* (Division 4.3) means a material that, by contact with water, is liable to become spontaneously flammable or to give off flammable or toxic gas at a rate greater than 1 L per kilogram of the material, per hour, when tested in accordance with UN Manual of Tests and Criteria.
 
-[Amdt. 173-224, 55 FR 52634, Dec. 21, 1990]Editorial Note:For Federal Register citations affecting § 173.124, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[82 FR 15879, Mar. 30, 2017]

@@ -10,8 +10,12 @@
 
 (e) *Prefill requirements.* Before each filling of an acetylene cylinder, the person filling the cylinder must visually inspect the outside of the cylinder in accordance with the prefill requirements contained in CGA C-13, Section 3 (IBR, see § 171.7 of this subchapter).
 
-(f) *UN cylinders.* (1) UN cylinders and bundles of cylinders are authorized for the transport of acetylene gas as specified in this section. Each UN acetylene cylinder must conform to ISO 3807-2 (IBR, see § 171.7 of this subchapter), have a homogeneous monolithic porous mass filler and be charged with acetone or a suitable solvent as specified in the standard. UN acetylene cylinders must have a minimum test pressure of 52 bar and may be filled up to the pressure limits specified in ISO 3807-2. The use of UN tubes and MEGCs is not authorized.
+(f) *UN cylinders.* (1) UN cylinders and bundles of cylinders are authorized for the transport of acetylene gas as specified in this section.
+
+(i) Each UN acetylene cylinder must conform to ISO 3807:2013€: (IBR, see § 171.7 of this subchapter), have a homogeneous monolithic porous mass filler and be charged with acetone or a suitable solvent as specified in the standard. UN acetylene cylinders must have a minimum test pressure of 52 bar and may be filled up to the pressure limits specified in ISO 3807:2013(E). The use of UN tubes and MEGCs is not authorized.
+
+(ii) Until December 31, 2020, cylinders conforming to the requirements in ISO 3807-2(E) (IBR, *see* § 171.7 of this subchapter), having a homogeneous monolithic porous mass filler and charged with acetone or a suitable solvent as specified in the standard are authorized. UN acetylene cylinders must have a minimum test pressure of 52 bar and may be filled up to the pressure limits specified in ISO 3807-2(E).
 
 (2) UN cylinders equipped with pressure relief devices or that are manifolded together must be transported upright.
 
-[29 FR 18743, Dec. 29, 1964. Redesignated at 32 FR 5606, Apr. 5, 1967]Editorial Note:For Federal Register citations affecting § 173.303, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[29 FR 18743, Dec. 29, 1964. Redesignated at 32 FR 5606, Apr. 5, 1967]Editorial Note:For Federal Register citations affecting § 173.303, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

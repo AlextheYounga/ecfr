@@ -10,7 +10,7 @@
 
 (2) The total number of packages;
 
-(3) The net quantity or gross weight, as applicable, for each package except those containing Class 7 (radioactive) materials. For a shipment consisting of multiple packages containing hazardous materials bearing the same proper shipping name and identification number, only the total quantity and an indication of the quantity of the largest and smallest package at each loading location need to be provided;
+(3) The net quantity or gross weight, as applicable, for each package except those containing Class 7 (radioactive) materials. For a shipment consisting of multiple packages containing hazardous materials bearing the same proper shipping name and identification number, only the total quantity and an indication of the quantity of the largest and smallest package at each loading location need to be provided. For consumer commodities, the information provided may be either the gross mass of each package or the average gross mass of the packages as shown on the shipping paper;
 
 (4) The location of the packages aboard the aircraft;
 
@@ -42,4 +42,4 @@
 
 (d) The documents required by paragraphs (a) and (b) this section may be combined into one document if it is given to the pilot-in-command before departure of the aircraft.
 
-[71 FR 14604, Mar. 22, 2006, as amended at 72 FR 25177, May 3, 2007; 73 FR 57006, Oct. 1, 2008; 74 FR 2267, Jan. 14, 2009; 79 FR 46040, Aug. 6, 2014; 80 FR 1164, Jan. 8, 2015]
+[71 FR 14604, Mar. 22, 2006, as amended at 72 FR 25177, May 3, 2007; 73 FR 57006, Oct. 1, 2008; 74 FR 2267, Jan. 14, 2009; 79 FR 46040, Aug. 6, 2014; 80 FR 1164, Jan. 8, 2015; 82 FR 15892, Mar. 30, 2017]

@@ -6,4 +6,6 @@
 
 (c) For transportation by vessel, the provisions of § 176.907 must be met.
 
-[64 FR 10779, Mar. 5, 1999, as amended at 78 FR 1089, Jan. 7, 2013]
+(d) *Exceptions.* When it can be demonstrated that no flammable vapor, resulting in a flammable atmosphere, is evolved according to test U1 (Test method for substances liable to evolve flammable vapors) of Part III, sub-section 38.4.4 of the UN Manual of Tests and Criteria (IBR, see § 171.7 of this subchapter), polymeric beads, expandable need not be classed as Class 9 (UN2211). This test should only be performed when de-classification of a substance is considered.
+
+[64 FR 10779, Mar. 5, 1999, as amended at 78 FR 1089, Jan. 7, 2013; 82 FR 15884, Mar. 30, 2017]

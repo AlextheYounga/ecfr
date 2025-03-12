@@ -28,16 +28,18 @@
 
 (iii) The capacity of the packaging is not more than 30 L (7.9 gallons); except that for transportation by highway, rail or cargo aircraft, the capacity of the package is not more than 100 L (26.3 gallons); and
 
-(iv) The viscosity and flash point are in accordance with the following table:
+(iv) The viscosity1 and flash point are in accordance with the following table:
 
-|Flow time t in seconds|Jet diameter in mm|    Flash point c.c.    |
-|----------------------|------------------|------------------------|
-|       20\<t≤60       |        4         | above 17 °C (62.6 °F). |
-|      60\<t≤100       |        4         |  above 10 °C (50 °F).  |
-|       20\<t≤32       |        6         |  above 5 °C (41 °F).   |
-|       32\<t≤44       |        6         | above −1 °C (31.2 °F). |
-|      44\<t≤100       |        6         |  above −5 °C (23 °F).  |
-|        100\<t        |        6         |−5 °C (23 °F) and below.|
+1*Viscosity determination:* Where the substance concerned is non-Newtonian, or where a flow-cup method of viscosity determination is otherwise unsuitable, a variable shear-rate viscometer shall be used to determine the dynamic viscosity coefficient of the substance, at 23 °C (73.4 °F), at a number of shear rates. The values obtained are plotted against shear rate and then extrapolated to zero shear rate. The dynamic viscosity thus obtained, divided by the density, gives the apparent kinematic viscosity at near-zero shear rate.
+
+|Kinematic viscosity  <br/>(extrapolated)  <br/>ν (at near-zero  <br/>shear rate) mm2/s  <br/>at 23 °C (73.4 °F)|Flow-time t in  <br/>seconds|Jet diameter  <br/>in mm|   Flash point c.c.   |
+|---------------------------------------------------------------------------------------------------------------|----------------------------|------------------------|----------------------|
+|                                                 20 \< ν ≤ 80                                                  |        20 \< t ≤ 60        |           4            |above 17 °C (62.6 °F).|
+|                                                 80 \< ν ≤ 135                                                 |       60 \< t ≤ 100        |           4            | above 10 °C (50 °F). |
+|                                                135 \< ν ≤ 220                                                 |        20 \< t ≤ 32        |           6            | above 5 °C (41 °F).  |
+|                                                220 \< ν ≤ 300                                                 |        32 \< t ≤ 44        |           6            |above −1 °C (31.2 °F).|
+|                                                300 \< ν ≤ 700                                                 |       44 \< t ≤ 100        |           6            | above −5 °C (23 °F). |
+|                                                   700 \< ν                                                    |          100 \< t          |           6            |      No limit.       |
 
 (2) The methods by which the tests referred to in paragraph (b)(1) of this section shall be performed are as follows:
 
@@ -47,4 +49,4 @@
 
 (c) *Transitional provisions.* The criteria for packing group assignments in effect on December 31, 2006, may continue to be used until January 1, 2012.
 
-[Amdt. 173-224, 55 FR 52634, Dec. 21, 1990, as amended at 56 FR 66268, Dec. 20, 1991; Amdt. 173-241, 59 FR 67507, Dec. 29, 1994 Amdt. 173-255, 61 FR 50625, Sept. 26, 1996; 64 FR 10777, Mar. 5, 1999; 64 FR 51918, Sept. 27, 1999; 66 FR 45381, Aug. 28, 2001; 68 FR 75744, Dec. 31, 2003; 71 FR 78631, Dec. 29, 2006; 76 FR 3372, Jan. 19, 2011; 76 FR 43529, July 20, 2011; 78 FR 1085, Jan. 7, 2013; 80 FR 1156, Jan. 8, 2015]
+[Amdt. 173-224, 55 FR 52634, Dec. 21, 1990, as amended at 56 FR 66268, Dec. 20, 1991; Amdt. 173-241, 59 FR 67507, Dec. 29, 1994 Amdt. 173-255, 61 FR 50625, Sept. 26, 1996; 64 FR 10777, Mar. 5, 1999; 64 FR 51918, Sept. 27, 1999; 66 FR 45381, Aug. 28, 2001; 68 FR 75744, Dec. 31, 2003; 71 FR 78631, Dec. 29, 2006; 76 FR 3372, Jan. 19, 2011; 76 FR 43529, July 20, 2011; 78 FR 1085, Jan. 7, 2013; 80 FR 1156, Jan. 8, 2015; 82 FR 15878, Mar. 30, 2017]

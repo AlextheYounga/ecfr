@@ -6,7 +6,7 @@ In this subchapter,
 
 *Adsorbed gas.* See § 173.115 of this subchapter.
 
-*Aerosol* means any non-refillable receptacle containing a gas compressed, liquefied or dissolved under pressure, the sole purpose of which is to expel a nonpoisonous (other than a Division 6.1 Packing Group III material) liquid, paste, or powder and fitted with a self-closing release device allowing the contents to be ejected by the gas.
+*Aerosol* means an article consisting of any non-refillable receptacle containing a gas compressed, liquefied or dissolved under pressure, the sole purpose of which is to expel a nonpoisonous (other than a Division 6.1 Packing Group III material) liquid, paste, or powder and fitted with a self-closing release device allowing the contents to be ejected by the gas.
 
 *Agricultural product* means a hazardous material, other than a hazardous waste, whose end use directly supports the production of an agricultural commodity including, but not limited to a fertilizer, pesticide, soil amendment or fuel. An *agricultural product* is limited to a material in Class 3, 8 or 9, Division 2.1, 2.2, 5.1, or 6.1, or an ORM-D material.
 
@@ -151,6 +151,8 @@ In this subchapter,
 (2) Is currently registered as a professional engineer by appropriate authority of a state of the United States or a province of Canada; or
 
 (3) Has at least three years' experience in performing the duties of a Design Certifying Engineer prior to September 1, 1991.
+
+*Design life,* for composite cylinders and tubes, means the maximum life (in number of years) to which the cylinder or tube is designed and approved in accordance with the applicable standard.
 
 *Designated facility* means a hazardous waste treatment, storage, or disposal facility that has been designated on the manifest by the generator.
 
@@ -379,7 +381,7 @@ The term does not include petroleum, including crude oil or any fraction thereof
 
 (5) Conforms to the requirements for the construction, testing and marking of Large Packagings as specified in subparts P and Q of part 178 of this subchapter.
 
-*Large salvage packaging* means a special packaging into which damaged, defective or leaking hazardous materials packages, or hazardous materials that have spilled or leaked are placed for the purpose of transport for recovery or disposal, that -
+*Large salvage packaging* means a special packaging into which damaged, defective, leaking or non-conforming hazardous materials packages, or hazardous materials that have spilled or leaked are placed for the purpose of transport for recovery or disposal, that -
 
 (1) Is designed for mechanical handling; and
 
@@ -653,6 +655,8 @@ The term does not include petroleum, including crude oil or any fraction thereof
 
 *Salvage packaging* means a special packaging conforming to § 173.3 of this subchapter into which damaged, defective, leaking, or non-conforming hazardous materials packages, or hazardous materials that have spilled or leaked, are placed for purposes of transport for recovery or disposal.
 
+*SAPT* means self-accelerated polymerization temperature. See § 173.21(f) of this subchapter. This definition will be effective until January 2, 2019.
+
 *SCF* (standard cubic foot) means one cubic foot of gas measured at 60 °F. and 14.7 psia.
 
 *Secretary* means the Secretary of Transportation.
@@ -662,6 +666,8 @@ The term does not include petroleum, including crude oil or any fraction thereof
 (1) Is intended to have an irritating or incapacitating effect on a person or animal; and
 
 (2) Meets no hazard criteria other than for Class 9 (for example, a pepper spray; see § 173.140(a) of this subchapter) and, for an aerosol, Division 2.1 or 2.2 (see § 173.115 of this subchapter), except that it may contain not more than two percent by mass of a tear gas substance (e.g., chloroacetophenone (CN) or 0-chlorobenzylmalonitrile (CS); see § 173.132(a)(2) of this subchapter.)
+
+*Service life,* for composite cylinders and tubes, means the number of years the cylinder or tube is permitted to be in service.
 
 *Settled pressure* means the pressure exerted by the contents of a UN pressure receptacle in thermal and diffusive equilibrium.
 
@@ -743,7 +749,7 @@ The term does not include petroleum, including crude oil or any fraction thereof
 
 *UN standard packaging* means a packaging conforming to standards in the UN Recommendations (IBR, see § 171.7).
 
-*UN tube* means a seamless transportable pressure receptacle with a water capacity exceeding 150 L but not more than 3,000 L that has been marked and certified as conforming to the requirements in part 178 of this subchapter.
+*UN tube* means a transportable pressure receptacle of seamless or composite construction having with a water capacity exceeding 150 L (39.6 gallons) but not more than 3,000 L (792.5 gallons) that has been marked and certified as conforming to the requirements in part 178 of this subchapter.
 
 *Undeclared hazardous material* means a hazardous material that is: (1) Subject to any of the hazard communication requirements in subparts C (Shipping Papers), D (Marking), E (Labeling), and F (Placarding) of part 172 of this subchapter, or an alternative marking requirement in part 173 of this subchapter (such as §§ 173.4(a)(10) and 173.6(c)); and (2) offered for transportation in commerce without any visible indication to the person accepting the hazardous material for transportation that a hazardous material is present, on either an accompanying shipping document, or the outside of a transport vehicle, freight container, or package.
 

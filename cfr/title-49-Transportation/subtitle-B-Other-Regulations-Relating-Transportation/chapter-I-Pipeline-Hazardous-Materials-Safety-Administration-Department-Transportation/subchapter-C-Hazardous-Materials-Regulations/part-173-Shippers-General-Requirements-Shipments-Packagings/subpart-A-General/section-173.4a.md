@@ -62,13 +62,13 @@
 
 (2) Each inner packaging with a removable closure must have its closure held securely in place with wire, tape or other positive means. Each inner receptacle having a neck with molded screw threads must have a leak proof, threaded type cap. The closure must not react chemically with the material.
 
-(3) Each inner packaging must be securely packed in an intermediate packaging with cushioning material in such a way that, under normal conditions of transport, it cannot break, be punctured or leak its contents. The intermediate packaging must completely contain the contents in case of breakage or leakage, regardless of package orientation. For liquid hazardous materials, the intermediate packaging must contain sufficient absorbent material that:
+(3) Each inner packaging must be securely packed in an intermediate packaging with cushioning material in such a way that, under normal conditions of transport, it cannot break, be punctured or leak its contents. The completed package as prepared for transport must completely contain the contents in case of breakage or leakage, regardless of package orientation. For liquid hazardous materials, the intermediate or outer packaging must contain sufficient absorbent material that:
 
 (i) Will absorb the entire contents of the inner packaging.
 
 (ii) Will not react dangerously with the material or reduce the integrity or function of the packaging materials.
 
-(iii) The absorbent material may be the cushioning material.
+(iii) When placed in the intermediate packaging, the absorbent material may be the cushioning material.
 
 (4) The intermediate packaging must be securely packed in a strong, rigid outer packaging.
 
@@ -130,4 +130,4 @@
 
 (j) *Restrictions.* Hazardous material packaged in accordance with this section may not be carried in checked or carry-on baggage.
 
-[74 FR 2254, Jan. 14, 2009, as amended at 75 FR 72, Jan. 4, 2010; 76 FR 3368, Jan. 19, 2011; 80 FR 1152, Jan. 8, 2015; 81 FR 35541, June 2, 2016]
+[74 FR 2254, Jan. 14, 2009, as amended at 75 FR 72, Jan. 4, 2010; 76 FR 3368, Jan. 19, 2011; 80 FR 1152, Jan. 8, 2015; 81 FR 35541, June 2, 2016; 82 FR 15874, Mar. 30, 2017]

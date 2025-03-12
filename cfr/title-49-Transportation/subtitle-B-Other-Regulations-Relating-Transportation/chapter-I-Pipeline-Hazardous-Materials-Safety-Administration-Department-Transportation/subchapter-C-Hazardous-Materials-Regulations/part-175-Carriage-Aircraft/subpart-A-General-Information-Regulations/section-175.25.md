@@ -1,15 +1,17 @@
-##### § 175.25 Notification at air passenger facilities of hazardous materials restrictions. #####
+##### § 175.25 Passenger notification system. #####
 
-(a) *Notices of requirements.* Each person who engages in for-hire air transportation of passengers must display notices of the requirements applicable to the carriage of hazardous materials aboard aircraft, and the penalties for failure to comply with those requirements in accordance with this section. Each notice must be legible, and be prominently displayed so it can be seen by passengers in locations where the aircraft operator issues tickets, checks baggage, and maintains aircraft boarding areas. At a minimum, each notice must communicate the following information:
+(a) *General.* Each person who engages in for hire air transportation of passengers must effectively inform passengers about hazardous materials that passengers are forbidden to transport on aircraft and must accomplish this through the development, implementation, and maintenance of a passenger notification system.
 
-(1) Federal law forbids the carriage of hazardous materials aboard aircraft in your luggage or on your person. A violation can result in five years' imprisonment and penalties of $250,000 or more (49 U.S.C. 5124). Hazardous materials include explosives, compressed gases, flammable liquids and solids, oxidizers, poisons, corrosives and radioactive materials. Examples: Paints, lighter fluid, fireworks, tear gases, oxygen bottles, and radio-pharmaceuticals.
+(b) *Passenger notification system requirements.* The passenger notification system required by paragraph (a) of this section must ensure that:
 
-(2) There are special exceptions for small quantities (up to 70 ounces total) of medicinal and toilet articles carried in your luggage and certain smoking materials carried on your person. For further information contact your airline representative.
+(1) A passenger is presented with information required under paragraph (a) of this section at the point of ticket purchase or, if this is not practical, in another way prior to boarding pass issuance;
 
-(b) *Ticket purchase.* An aircraft operator must ensure that information on the types of hazardous materials which a passenger is forbidden to transport aboard an aircraft is presented at the point of ticket purchase or, if this is not practical, made available in another manner to passengers prior to the check-in process. Information provided via the Internet may be in text or pictorial form but must be such that ticket purchase cannot be completed until the passenger, or a person acting on their behalf, has been presented with this information and indicated that they have understood the restrictions on hazardous materials in baggage.
+(2) A passenger is presented with information required under paragraph (a) of this section at the point of boarding pass issuance (*i.e.* check-in), or when no boarding pass is issued, prior to boarding the aircraft;
 
-(c) *Check-in.* When the flight check-in process is conducted remotely (*e.g.,* via the Internet) or when completed at the airport, without assistance from another person (*e.g.,* automated check-in kiosk), the aircraft operator must ensure that information on the types of hazardous materials a passenger is forbidden to transport aboard an aircraft is presented to passengers. Information may be in text or in pictorial form but must be such that the check-in process cannot be completed until the passenger, or a person acting on their behalf, has been presented with this information and indicated that they have understood the restrictions on hazardous materials in baggage.
+(3) A passenger, where the ticket purchase and/or boarding pass issuance can be completed by a passenger without the involvement of another person, acknowledges that they have been presented with the information required under paragraph (a) of this section; and
 
-(d) *Signage.* When the check in process is not conducted remotely (e.g., at the airport with the assistance of an airline representative), passenger notification of permitted and forbidden hazardous materials may be completed through signage (electronic or otherwise), provided it is legible and prominently displayed.
+(4) A passenger is presented with information required under paragraph (a) of this section at each of the places at an airport where tickets are issued, boarding passes are issued, passenger baggage is dropped off, aircraft boarding areas are maintained, and at any other location where boarding passes are issued and/or checked baggage is accepted. This information must include visual examples of forbidden hazardous materials.
 
-[78 FR 65486, Oct. 31, 2013, as amended at 80 FR 1164, Jan. 8, 2015]
+(c) *Aircraft operator manual requirements.* For certificate holders under 14 CFR parts 121 and 135, procedures and information necessary to allow personnel to implement and maintain the passenger notification system required in paragraphs (a) and (b) of this section must be described in an operations manual and/or other appropriate manuals in accordance with 14 CFR part 121 or 135.
+
+[82 FR 15892, Mar. 30, 2017]

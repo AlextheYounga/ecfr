@@ -12,7 +12,7 @@
 
 (b) Except in the case of an article of food imported or offered for import by international mail:
 
-(1) If prior notice is submitted via Automated Broker Interface/Automated Commercial System (ABI/ACS), you may not submit prior notice more than 30-calendar days before the anticipated date of arrival.
+(1) If prior notice is submitted via the Automated Broker Interface/Automated Commercial Environment/International Trade Data System (ABI/ACE/ITDS), you may not submit prior notice more than 30-calendar days before the anticipated date of arrival.
 
 (2) If prior notice is submitted via the FDA Prior Notice System Interface (FDA PNSI), you may not submit prior notice more than 15-calendar days before the anticipated date of arrival.
 
@@ -25,3 +25,5 @@
 (f) A copy of the confirmation, including the PN Confirmation Number, must accompany any article of food that is subject to this subpart when it is carried by or otherwise accompanies an individual when arriving in the United States. The copy of the confirmation must be provided to U.S. Customs and Border Protection (CBP) or FDA upon arrival.
 
 (g) The PN Confirmation Number must accompany any article of food for which the prior notice was submitted through the FDA PNSI when the article arrives in the United States and must be provided to CBP or FDA upon arrival.
+
+[73 FR 66402, Nov. 7, 2008, as amended at 82 FR 15629, Mar. 30, 2017]

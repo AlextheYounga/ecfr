@@ -1,6 +1,6 @@
 ##### § 171.7 Reference material. #####
 
-(a) *Matter incorporated by reference* - (1) *General.* There is incorporated, by reference in parts 170 through 189 of this subchapter, matter referred to that is not specifically set forth. This matter is hereby made a part of the regulations in parts 170 through 189 of this subchapter. The matter subject to change is incorporated only as it is in effect on the date of issuance of the regulation referring to that matter. The materials listed in paragraphs (b) through (ee) of this section have been approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Material is incorporated as it exists on the date of the approval and a notice of any change in the material will be published in the Federal Register. Matters referenced by footnote are included as part of the regulations of this subchapter.
+(a) *Matter incorporated by reference* - (1) *General.* Certain material is incorporated by reference into subchapters A, B, and C with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, PHMSA must publish a document in the Federal Register and the material must be available to the public. Matters referenced by footnote are included as part of the regulations of this subchapter.
 
 (2) *Accessibility of materials.* All incorporated matter is available for inspection at:
 
@@ -152,7 +152,7 @@
 
 (43) ASTM D 4206-96 Standard Test Method for Sustained Burning of Liquid Mixtures Using the Small Scale Open-Cup Apparatus, 1996, into § 173.120.
 
-(44) ASTM D 4359-90 Standard Test Method for Determining Whether a Material is a Liquid or a Solid, 1990 into § 171.8.
+(44) ASTM D 4359-90 Standard Test Method for Determining Whether a Material is a Liquid or a Solid, 1990 into §§ 130.5, 171.8.
 
 (45) ASTM E 8-99 Standard Test Methods for Tension Testing of Metallic Materials, 1999, into § 178.36; 178.37; 178.38; 178.39; 178.44; 178.45; 178.50; 178.51; 178.53; 178.55; 178.56; 178.57; 178.58; 178.59; 178.60; 178.61; 178.68.
 
@@ -290,9 +290,9 @@
 
 (2) [Reserved]
 
-(t) *International Civil Aviation Organization* (“ICAO”), 999 University Street, Montréal, Quebec H3C 5H7, Canada, 1-514-954-8219, *http://www.icao.int.* ICAO Technical Instructions available from: INTEREG, International Regulations, Publishing and Distribution Organization, P.O. Box 60105, Chicago, IL 60660.
+(t) *International Civil Aviation Organization (“ICAO”),* 999 Robert-Bourassa Boulevard, Montréal, Quebec H3C 5H7, Canada, 1-514-954-8219, *http://www.icao.int*. ICAO Technical Instructions available from: ICAO Document Sales Unit, *sales@icao.int*.
 
-(1) Technical Instructions for the Safe Transport of Dangerous Goods by Air (ICAO Technical Instructions), 2015-2016 Edition, copyright 2014, into §§ 171.8; 171.22; 171.23; 171.24; 172.101; 172.202; 172.401; 172.512; 172.519; 172.602; 173.56; 173.320; 175.10, 175.33; 178.3.
+(1) Technical Instructions for the Safe Transport of Dangerous Goods by Air (ICAO Technical Instructions), 2017-2018 Edition, copyright 2016, into §§ 171.8; 171.22; 171.23; 171.24; 172.101; 172.202; 172.401; 172.512; 172.519; 172.602; 173.56; 173.320; 175.10, 175.33; 178.3.
 
 (2) [Reserved]
 
@@ -302,15 +302,15 @@
 
 (2) 62282-6-100 Amend. 1 IEC 2012(E), Amendment 1 to IEC 62282-6-100: Fuel cell technologies - Part 6-100: Micro fuel cell power systems - Safety, Edition 1.0, October 2012, into §§ 173.230; 175.10
 
-(v) *International Maritime Organization (“IMO”),* 4 Albert Embankment, London, SE1 7SR, United Kingdom or New York Nautical Instrument & Service Corporation, 140 West Broadway, New York, NY 10013, + 44 (0) 20 7735 7611, *http://www.imo.org.*
+(v) *International Maritime Organization (“IMO”),* 4 Albert Embankment, London, SE1 7SR, United Kingdom, + 44 (0) 20 7735 7611, *http://www.imo.org.* IMDG Code available from: IMO Publishing, *sales@imo.org.*
 
 (1) International Convention for the Safety of Life at Sea, 1974, Consolidated Edition (SOLAS), Chapter II-2, Construction - Fire protection, fire detection and fire extinction, Regulation 19, Carriage of dangerous goods, Fifth Edition 2009, into §§ 176.63, 176.84.
 
-(2) International Maritime Dangerous Goods Code (IMDG Code), Incorporating Amendment 37-14 (English Edition), 2014 Edition, into §§ 171.22; 171.23; 171.25; 172.101; 172.202; 172.203 172.401; 172.502; 172.519; 172.602; 173.21; 173.56; 176.2; 176.5; 176.11; 176.27; 176.30; 176.83; 176.84; 176.140; 176.720; 178.3; 178.274.
+(2) International Maritime Dangerous Goods Code (IMDG Code), Incorporating Amendment 38-16 (English Edition), 2016 Edition, into §§ 171.22; 171.23; 171.25; 172.101; 172.202; 172.203 172.401; 172.502; 172.519; 172.602; 173.21; 173.56; 176.2; 176.5; 176.11; 176.27; 176.30; 176.83; 176.84; 176.140; 176.720; 176.906; 178.3; 178.274.
 
-(w) *International Organization for Standardization,* Case Postale 56, CH-1211, Geneve 20, Switzerland, *http://www.iso.org.* Also available from: ANSI 25, West 43rd Street, New York, NY 10036, 1-212-642-4900, *http://www.ansi.org.*
+(w) *International Organization for Standardization,* Case Postale 56, CH-1211, Geneve 20, Switzerland, *http://www.iso.org*. Also available from: ANSI 25, West 43rd Street, New York, NY 10036, 1-212-642-4900, *http://www.ansi.org*.
 
-(1) ISO 535-1991(E) Paper and board - Determination of water absorptiveness - Cobb method, 1991, into §§ 178.516; 178.707; 178.708.
+(1) ISO 535-1991(E) Paper and board - Determination of water absorptiveness - Cobb method, 1991, into §§ 178.707; 178.708; 178.516.
 
 (2) ISO 1496-1: 1990 (E) - Series 1 freight containers - Specification and testing, Part 1: General cargo containers. Fifth Edition, (August 15, 1990), into § 173.411.
 
@@ -332,7 +332,7 @@
 
 (11) ISO 3405:2000(E), Petroleum products - Determination of distillation characteristics at atmospheric pressure, Third Edition, 2000-03-01, into § 173.121.
 
-(12) ISO 3574-1986(E) Cold-reduced carbon steel sheet of commercial and drawing qualities, into § 178.503; Part 178, appendix C.
+(12) ISO 3574-1986(E) Cold-reduced carbon steel sheet of commercial and drawing qualities, into § 178.503; part 178, appendix C.
 
 (13) ISO 3679:2004(E), Determination of flash point - Rapid equilibrium closed cup method, Third Edition, 2004-04-01, into § 173.120.
 
@@ -340,91 +340,111 @@
 
 (15) ISO 3807-2(E), Cylinders for acetylene - Basic requirements - Part 2: Cylinders with fusible plugs, First edition, March 2000, into §§ 173.303; 178.71.
 
-(16) ISO 3924:1999(E), Petroleum products - Determination of boiling range distribution - Gas chromatography method, Second Edition, 1999-08-01, into § 173.121.
+(16) ISO 3807:2013(E), Gas cylinders - Acetylene cylinders - Basic requirements and type testing, Second edition, 2013-09-01, into §§ 173.303; 178.71.
 
-(17) ISO 4126-1:2004(E): Safety devices for protection against excessive pressure - Part 1: Safety valves, Second edition 2004-02-15, into § 178.274.
+(17) ISO 3924:1999(E), Petroleum products - Determination of boiling range distribution - Gas chromatography method, Second Edition, 1999-08-01, into § 173.121.
 
-(18) ISO 4126-7:2004(E): Safety devices for protection against excessive pressure - Part 7: Common data, First Edition 2004-02-15 into § 178.274.
+(18) ISO 4126-1:2004(E): Safety devices for protection against excessive pressure - Part 1: Safety valves, Second edition 2004-02-15, into § 178.274.
 
-(19) ISO 4126-7:2004/Cor.1:2006(E): Safety devices for protection against excessive pressure - Part 7: Common data, Technical Corrigendum 1, 2006-11-01, into § 178.274.
+(19) ISO 4126-7:2004(E): Safety devices for protection against excessive pressure - Part 7: Common data, First Edition 2004-02-15 into § 178.274.
 
-(20) ISO 4626:1980(E), Volatile organic liquids - Determination of boiling range of organic solvents used as raw materials, First Edition, 1980-03-01, into § 173.121.
+(20) ISO 4126-7:2004/Cor.1:2006(E): Safety devices for protection against excessive pressure - Part 7: Common data, Technical Corrigendum 1, 2006-11-01, into § 178.274.
 
-(21) ISO 4706:2008(E), Gas cylinders - Refillable welded steel cylinders - Test pressure 60 bar and below, First Edition, 2008-04-15, Corrected Version, 2008-07-01, into § 178.71.
+(21) ISO 4626:1980(E), Volatile organic liquids - Determination of boiling range of organic solvents used as raw materials, First Edition, 1980-03-01, into § 173.121.
 
-(22) ISO 6406(E), Gas cylinders - Seamless steel gas cylinders - Periodic inspection and testing, Second edition, February 2005, into § 180.207.
+(22) ISO 4706:2008(E), Gas cylinders - Refillable welded steel cylinders - Test pressure 60 bar and below, First Edition, 2008-07-014, Corrected Version, 2008-07-01, into § 178.71.
 
-(23) ISO 6892 Metallic materials - Tensile testing, July 15, 1984, First Edition, into § 178.274.
+(23) ISO 6406(E), Gas cylinders - Seamless steel gas cylinders - Periodic inspection and testing, Second edition, February 2005, into § 180.207.
 
-(24) ISO 7225(E), Gas cylinders - Precautionary labels, Second Edition, July 2005, into § 178.71.
+(24) ISO 6892 Metallic materials - Tensile testing, July 15, 1984, First Edition, into § 178.274.
 
-(25) ISO 7866(E), Gas cylinders - Refillable seamless aluminum alloy gas cylinders - Design, construction and testing, First edition, June 1999, into § 178.71.
+(25) ISO 7225(E), Gas cylinders - Precautionary labels, Second Edition, July 2005, into § 178.71.
 
-(26) ISO 8115 Cotton bales - Dimensions and density, 1986 Edition, into § 172.102.
+(26) ISO 7866(E), Gas cylinders - Refillable seamless aluminum alloy gas cylinders - Design, construction and testing, First edition, June 1999, into § 178.71.
 
-(27) ISO 9809-1:1999(E): Gas cylinders - Refillable seamless steel gas cylinders - Design, construction and testing - Part 1: Quenched and tempered steel cylinders with tensile strength less than 1100 MPa., First edition, June 1999, into §§ 178.37; 178.71; 178.75.
+(27) ISO 7866:2012(E), Gas cylinders - Refillable seamless aluminium alloy gas cylinders - Design, construction and testing, Second edition, 2012-09-01, into § 178.71.
 
-(28) ISO 9809-1:2010(E): Gas cylinders - Refillable seamless steel gas cylinders - Design, construction and testing - Part 1: Quenched and tempered steel cylinders with tensile strength less than 1 100 MPa., Second edition, 2010-04-15, into §§ 178.37; 178.71; 178.75.
+(28) ISO 7866:2012/Cor.1:2014(E), Gas cylinders - Refillable seamless aluminium alloy gas cylinders - Design, construction and testing, Technical Corrigendum 1, 2014-04-15, into § 178.71.
 
-(29) ISO 9809-2:2000(E): Gas cylinders - Refillable seamless steel gas cylinders - Design, construction and testing - Part 2: Quenched and tempered steel cylinders with tensile strength greater than or equal to 1 100 MPa., First edition, June 2000, into §§ 178.71; 178.75.
+(29) ISO 8115 Cotton bales - Dimensions and density, 1986 Edition, into § 172.102.
 
-(30) ISO 9809-2:2010(E): Gas cylinders - Refillable seamless steel gas cylinders - Design, construction and testing - Part 2: Quenched and tempered steel cylinders with tensile strength greater than or equal to 1100 MPa., Second edition, 2010-04-15, into §§ 178.71; 178.75.
+(30) ISO 9809-1:1999(E): Gas cylinders - Refillable seamless steel gas cylinders - Design, construction and testing - Part 1: Quenched and tempered steel cylinders with tensile strength less than 1100 MPa., First edition, June 1999, into §§ 178.37; 178.71; 178.75.
 
-(31) ISO 9809-3:2000(E): Gas cylinders - Refillable seamless steel gas cylinders - Design, construction and testing - Part 3: Normalized steel cylinders, First edition, December 2000, into §§ 178.71; 178.75.
+(31) ISO 9809-1:2010(E): Gas cylinders - Refillable seamless steel gas cylinders - Design, construction and testing - Part 1: Quenched and tempered steel cylinders with tensile strength less than 1 100 MPa., Second edition, 2010-04-15, into §§ 178.37; 178.71; 178.75.
 
-(32) ISO 9809-3:2010(E): Gas cylinders - Refillable seamless steel gas cylinders - Design, construction and testing - Part 3: Normalized steel cylinders, Second edition, 2010-04-15, into §§ 178.71; 178.75.
+(32) ISO 9809-2:2000(E): Gas cylinders - Refillable seamless steel gas cylinders - Design, construction and testing - Part 2: Quenched and tempered steel cylinders with tensile strength greater than or equal to 1 100 MPa., First edition, June 2000, into §§ 178.71; 178.75.
 
-(33) ISO 9978:1992(E) - Radiation protection - Sealed radioactive sources - Leakage test methods. First Edition, (February 15, 1992), into § 173.469.
+(33) ISO 9809-2:2010(E): Gas cylinders - Refillable seamless steel gas cylinders - Design, construction and testing - Part 2: Quenched and tempered steel cylinders with tensile strength greater than or equal to 1100 MPa., Second edition, 2010-04-15, into §§ 178.71; 178.75.
 
-(34) ISO 10156:2010(E): Gases and gas mixtures - Determination of fire potential and oxidizing ability for the selection of cylinder valve outlets, Third edition, 2010-04-01, into § 173.115.
+(34) ISO 9809-3:2000(E): Gas cylinders - Refillable seamless steel gas cylinders - Design, construction and testing - Part 3: Normalized steel cylinders, First edition, December 2000, into §§ 178.71; 178.75.
 
-(35) ISO 10156:2010/Cor.1:2010(E): Gases and gas mixtures - Determination of fire potential and oxidizing ability for the selection of cylinder valve outlets, Technical Corrigendum 1, 2010-09-01, into § 173.115.
+(35) ISO 9809-3:2010(E): Gas cylinders - Refillable seamless steel gas cylinders - Design, construction and testing - Part 3: Normalized steel cylinders, Second edition, 2010-04-15, into §§ 178.71; 178.75.
 
-(36) ISO 10297:1999(E), Gas cylinders - Refillable gas cylinder valves - Specification and type testing, First Edition, 1995-05-01, into §§ 173.301b; 178.71.
+(36) ISO 9809-4:2014(E), Gas cylinders - Refillable seamless steel gas cylinders - Design, construction and testing - Part 4: Stainless steel cylinders with an Rm value of less than 1 100 MPa, First edition, 2014-07-15, into §§ 178.71; 178.75.
 
-(37) ISO 10297:2006(E), Transportable gas cylinders - Cylinder valves - Specification and type testing, Second Edition, 2006-01-15, into §§ 173.301b; 178.71.
+(37) ISO 9978:1992(E) - Radiation protection - Sealed radioactive sources - Leakage test methods. First Edition, (February 15, 1992), into § 173.469.
 
-(38) ISO 10461:2005(E), Gas cylinders - Seamless aluminum-alloy gas cylinders - Periodic inspection and testing, Second Edition, 2005-02-15 and Amendment 1, 2006-07-15, into § 180.207.
+(38) ISO 10156:2010(E): Gases and gas mixtures - Determination of fire potential and oxidizing ability for the selection of cylinder valve outlets, Third edition, 2010-04-01, into § 173.115.
 
-(39) ISO 10462 (E), Gas cylinders - Transportable cylinders for dissolved acetylene - Periodic inspection and maintenance, Second edition, February 2005, into § 180.207.
+(39) ISO 10156:2010/Cor.1:2010(E): Gases and gas mixtures - Determination of fire potential and oxidizing ability for the selection of cylinder valve outlets, Technical Corrigendum 1, 2010-09-01, into § 173.115.
 
-(40) ISO 10692-2:2001(E), Gas cylinders - Gas cylinder valve connections for use in the micro-electronics industry - Part 2: Specification and type testing for valve to cylinder connections, First Edition, 2001-08-01, into §§ 173.40; 173.302c.
+(40) ISO 10297:1999(E), Gas cylinders - Refillable gas cylinder valves - Specification and type testing, First Edition, 1995-05-01, into §§ 173.301b; 178.71.
 
-(41) ISO 11114-1:2012(E), Gas cylinders - Compatibility of cylinder and valve materials with gas contents - Part 1: Metallic materials, Second edition, 2012-03-15, into §§ 173.301b; 178.71.
+(41) ISO 10297:2006(E), Transportable gas cylinders - Cylinder valves - Specification and type testing, Second Edition, 2006-01-15, into §§ 173.301b; 178.71.
 
-(42) ISO 11114-2(E), Transportable gas cylinders - Compatibility of cylinder and valve materials with gas contents - Part 2: Non-metallic materials, First edition, December 2000, into §§ 173.301b; 178.71.
+(42) ISO 10297:2014(E), Gas cylinders - Cylinder valves - Specification and type testing, Third Edition, 20014-07-15, into §§ 173.301b; 178.71.
 
-(43) ISO 11117:1998(E): Gas cylinders - Valve protection caps and valve guards for industrial and medical gas cylinders. - Design, construction and tests, First edition, 1998-08-01, into § 173.301b.
+(43) ISO 10461:2005(E), Gas cylinders - Seamless aluminum-alloy gas cylinders - Periodic inspection and testing, Second Edition, 2005-02-15 and Amendment 1, 2006-07-15, into § 180.207.
 
-(44) ISO 11117:2008(E): Gas cylinders - Valve protection caps and valve guards - Design, construction and tests, Second edition, 2008-09-01, into § 173.301b.
+(44) ISO 10462 (E), Gas cylinders - Transportable cylinders for dissolved acetylene - Periodic inspection and maintenance, Second edition, February 2005, into § 180.207.
 
-(45) ISO 11117:2008/Cor.1:2009(E): Gas cylinders - Valve protection caps and valve guards - Design, construction and tests, Technical Corrigendum 1, 2009-05-01, into § 173.301b.
+(45) ISO 10462:2013(E), Gas cylinders - Acetylene cylinders - Periodic inspection and maintenance, Third edition, 2013-12-15, into § 180.207.
 
-(46) ISO 11118(E), Gas cylinders - Non-refillable metallic gas cylinders - Specification and test methods, First edition, October 1999, into § 178.71.
+(46) ISO 10692-2:2001(E), Gas cylinders - Gas cylinder valve connections for use in the micro-electronics industry - Part 2: Specification and type testing for valve to cylinder connections, First Edition, 2001-08-01, into §§ 173.40; 173.302c.
 
-(47) ISO 11119-1(E), Gas cylinders - Gas cylinders of composite construction - Specification and test methods - Part 1: Hoop-wrapped composite gas cylinders, First edition, May 2002, into § 178.71.
+(47) ISO 11114-1:2012(E), Gas cylinders - Compatibility of cylinder and valve materials with gas contents - Part 1: Metallic materials, Second edition, 2012-03-15, into §§ 172.102; 173.301b; 178.71.
 
-(48) ISO 11119-2(E), Gas cylinders - Gas cylinders of composite construction - Specification and test methods - Part 2: Fully wrapped fibre reinforced composite gas cylinders with load-sharing metal liners, First edition, May 2002, into § 178.71.
+(48) ISO 11114-2:2013(E), Gas cylinders - Compatibility of cylinder and valve materials with gas contents - Part 2: Non-metallic materials, Second edition, 2013-04-01, into §§ 173.301b; 178.71.
 
-(49) ISO 11119-3(E), Gas cylinders of composite construction - Specification and test methods - Part 3: Fully wrapped fibre reinforced composite gas cylinders with non-load-sharing metallic or non-metallic liners, First edition, September 2002, into § 178.71.
+(49) ISO 11117:1998(E): Gas cylinders - Valve protection caps and valve guards for industrial and medical gas cylinders. - Design, construction and tests, First edition, 1998-08-01, into § 173.301b.
 
-(50) ISO 11120(E), Gas cylinders - Refillable seamless steel tubes of water capacity between 150 L and 3000 L - Design, construction and testing, First edition, March 1999, into §§ 178.71; 178.75.
+(50) ISO 11117:2008(E): Gas cylinders - Valve protection caps and valve guards - Design, construction and tests, Second edition, 2008-09-01, into § 173.301b.
 
-(51) ISO 11513:2011(E), Gas cylinders - Refillable welded steel cylinders containing materials for sub-atmospheric gas packaging (excluding acetylene) - Design, construction, testing, use and periodic inspection, First edition, 2011-09-12, into §§ 173.302c; 178.71; 180.207.
+(51) ISO 11117:2008/Cor.1:2009(E): Gas cylinders - Valve protection caps and valve guards - Design, construction and tests, Technical Corrigendum 1, 2009-05-01, into § 173.301b.
 
-(52) ISO 11621(E), Gas cylinders - Procedures for change of gas service, First edition, April 1997, into §§ 173.302, 173.336, 173.337.
+(52) ISO 11118(E), Gas cylinders - Non-refillable metallic gas cylinders - Specification and test methods, First edition, October 1999, into § 178.71.
 
-(53) ISO 11623(E), Transportable gas cylinders - Periodic inspection and testing of composite gas cylinders, First edition, March 2002, into § 180.207.
+(53) ISO 11119-1(E), Gas cylinders - Gas cylinders of composite construction - Specification and test methods - Part 1: Hoop-wrapped composite gas cylinders, First edition, May 2002, into § 178.71.
 
-(54) ISO 13340:2001(E) Transportable gas cylinders - Cylinder valves for non-refillable cylinders - Specification and prototype testing, First edition, 2004-04-01, into §§ 173.301b; 178.71.
+(54) ISO 11119-1:2012(E), Gas cylinders - Refillable composite gas cylinders and tubes - Design, construction and testing - Part 1: Hoop wrapped fibre reinforced composite gas cylinders and tubes up to 450 l, Second edition, 2012-08-01, into § 178.71.
 
-(55) ISO 13736:2008(E), Determination of flash point - Abel closed-cup method, Second Edition, 2008-09-15, into § 173.120.
+(55) ISO 11119-2(E), Gas cylinders - Gas cylinders of composite construction - Specification and test methods - Part 2: Fully wrapped fibre reinforced composite gas cylinders with load-sharing metal liners, First edition, May 2002, into § 178.71.
 
-(56) ISO 16111:2008(E), Transportable gas storage devices - Hydrogen absorbed in reversible metal hydride, First Edition, 2008-11-15, into §§ 173.301b; 173.311; 178.71.
+(56) ISO 11119-2:2012(E), Gas cylinders - Refillable composite gas cylinders and tubes - Design, construction and testing - Part 2: Fully wrapped fibre reinforced composite gas cylinders and tubes up to 450 l with load-sharing metal liners, Second edition, 2012-07-15, into § 178.71.
 
-(57) ISO 18172-1:2007(E), Gas cylinders - Refillable welded stainless steel cylinders - Part 1: Test pressure 6 MPa and below, First Edition, 2007-03-01, into § 178.71.
+(57) ISO 11119-2:2012/Amd.1:2014(E), Gas cylinders - Refillable composite gas cylinders and tubes - Design, construction and testing - Part 2: Fully wrapped fibre reinforced composite gas cylinders and tubes up to 450 l with load-sharing metal liners, Amendment 1, 2014-08-15, into § 178.71.
 
-(58) ISO 20703:2006(E), Gas cylinders - Refillable welded aluminum-alloy cylinders - Design, construction and testing, First Edition, 2006-05-01, into § 178.71.
+(58) ISO 11119-3(E), Gas cylinders of composite construction - Specification and test methods - Part 3: Fully wrapped fibre reinforced composite gas cylinders with non-load-sharing metallic or non-metallic liners, First edition, September 2002, into § 178.71.
+
+(59) ISO 11119-3:2013(E), Gas cylinders - Refillable composite gas cylinders and tubes - Design, construction and testing - Part 3: Fully wrapped fibre reinforced composite gas cylinders and tubes up to 450 l with non-load-sharing metallic or non-metallic liners, Second edition, 2013-04-15, into § 178.71.
+
+(60) ISO 11120(E), Gas cylinders - Refillable seamless steel tubes of water capacity between 150 L and 3000 L - Design, construction and testing, First edition, March 1999, into §§ 178.71; 178.75.
+
+(61) ISO 11513:2011(E), Gas cylinders - Refillable welded steel cylinders containing materials for sub-atmospheric gas packaging (excluding acetylene) - Design, construction, testing, use and periodic inspection, First edition, 2011-09-12, into §§ 173.302c; 178.71; 180.207.
+
+(62) ISO 11621(E), Gas cylinders - Procedures for change of gas service, First edition, April 1997, into §§ 173.302, 173.336, 173.337.
+
+(63) ISO 11623(E), Transportable gas cylinders - Periodic inspection and testing of composite gas cylinders, First edition, March 2002, into § 180.207.
+
+(64) ISO 13340:2001(E) Transportable gas cylinders - Cylinder valves for non-refillable cylinders - Specification and prototype testing, First edition, 2004-04-01, into §§ 173.301b; 178.71.
+
+(65) ISO 13736:2008(E), Determination of flash point - Abel closed-cup method, Second Edition, 2008-09-15, into § 173.120.
+
+(66) ISO 16111:2008(E), Transportable gas storage devices - Hydrogen absorbed in reversible metal hydride, First Edition, 2008-11-15, into §§ 173.301b; 173.311; 178.71.
+
+(67) ISO 18172-1:2007(E), Gas cylinders - Refillable welded stainless steel cylinders - Part 1: Test pressure 6 MPa and below, First Edition, 2007-03-01, into § 178.71.
+
+(68) ISO 20703:2006(E), Gas cylinders - Refillable welded aluminum-alloy cylinders - Design, construction and testing, First Edition, 2006-05-01, into § 178.71.
 
 (x) *National Board of Boiler and Pressure Vessel Inspectors,* 1055 Crupper Avenue, Columbus, Ohio 43229.
 
@@ -454,9 +474,9 @@
 
 (4) Test No. 435: In VitroMembrane Barrier Test Method for Skin Corrosion, OECD Guidelines for the Testing of Chemicals, Section 4: Health Effects, adopted July 19, 2006, into § 173.137.
 
-(bb) *Transport Canada,* TDG Canadian Government Publishing Center, Supply and Services, Canada, Ottawa, Ontario, Canada K1A 059, 416-973-1868, *http://www.tc.gc.ca.*
+(bb) *Transport Canada,* Transport Dangerous Goods. Mailstop: ASD 330 Sparks Street, Ottawa, Ontario, Canada K1A 0N5, 416-973-1868, *http://www.tc.gc.ca*.
 
-(1) Transportation of Dangerous Goods Regulations (Transport Canada TDG Regulations), into §§ 171.12; 171.22; 171.23; 172.401; 172.502; 172.519; 172.602; 173.31; 173.32; 173.33.
+(1) Transportation of Dangerous Goods Regulations (Transport Canada TDG Regulations), into §§ 107.801; 107.805; 171.12; 171.22; 171.23; 172.401; 172.502; 172.519; 172.602; 173.31; 173.32; 173.33; 173.301; 180.205; 180.211; 180.212; 180.413.
 
 (i) SOR 2001-286, including Clear Language Amendments, August 2001.
 
@@ -482,6 +502,20 @@
 
 (xii) SOR/2012-245 December 5, 2012.
 
+(xiii) SOR/2014-152 July 2, 2014.
+
+(xiv) SOR/2014-159 July 2, 2014.
+
+(xv) SOR/2014-159 Erratum July 16, 2014.
+
+(xvi) SOR/2014-152 Erratum August 27, 2014.
+
+(xvii) SOR/2014-306 December 31, 2014.
+
+(xviii) SOR/2014-306 Erratum January 28, 2015.
+
+(xix) SOR/2015-100 May 20, 2015.
+
 (2) [Reserved]
 
 (cc) *Truck Trailer Manufacturers Association,* 1020 Princess Street, Alexandria, Virginia 22314.
@@ -492,17 +526,13 @@
 
 (3) TTMA TB No. 107, Procedure for Testing In-Service Unmarked and/or Uncertified MC 306 and Non-ASME MC 312 Type Cargo Tank Manhole Covers, June 1, 1998 Edition, into § 180.405.
 
-(dd) *United Nations,* Publications, 2 United Nations Plaza, Room DC2-853, New York, NY 10017, 1-212-963-8302, *http://unp.un.org.*
+(dd) *United Nations,* Bookshop, GA-1B-103, New York, NY 10017, 1-212-963-7680, *https://shop.un.org* or *bookshop@un.org**.*
 
-(1) UN Recommendations on the Transport of Dangerous Goods, Model Regulations (UN Recommendations), 18th revised edition, Volumes I and II (2013), into §§ 171.8; 171.12; 172.202; 172.401; 172.407; 172.502; 173.22; 173.24; 173.24b; 173.40; 173.56; 173.192; 173.302b; 173.304b; 178.75; 178.274.
+(1) UN Recommendations on the Transport of Dangerous Goods, Model Regulations (UN Recommendations), 19th revised edition, Volumes I and II (2015), into §§ 171.8; 171.12; 172.202; 172.401; 172.407; 172.502; 173.22; 173.24; 173.24b; 173.40; 173.56; 173.192; 173.302b; 173.304b; 178.75; 178.274.
 
-(2) UN Recommendations on the Transport of Dangerous Goods, Manual of Tests and Criteria, (Manual of Tests and Criteria), into §§ 171.24, 172.102; 173.21; 173.56; 173.57; 173.58; 173.60; 173.115; 173.124; 173.125; 173.127; 173.128; 173.137; 173.185; 173.220; 173.225, part 173, appendix H; 178.274:
+(2) UN Recommendations on the Transport of Dangerous Goods, Manual of Tests and Criteria, (Manual of Tests and Criteria), Sixth revised edition (2015), into §§ 171.24, 172.102; 173.21; 173.56; 173.57; 173.58; 173.60; 173.115; 173.124; 173.125; 173.127; 173.128; 173.137; 173.185; 173.220; 173.221; 173.225, part 173, appendix H; 176.905; 178.274.
 
-(i) Fifth revised edition (2009).
-
-(ii) Fifth revised edition, amendment 1 (2011).
-
-(iii) Fifth revised edition, amendment 2 (2013).
+(3) UN Recommendations on the Transport of Dangerous Goods, Globally Harmonized System of Classification and Labelling of Chemicals (GHS), Sixth revised edition (2015), into § 172.401.
 
 Table 1 to 49 CFR 171.7 - Materials Not Incorporated by Reference
 
@@ -542,4 +572,4 @@ Table 1 to 49 CFR 171.7 - Materials Not Incorporated by Reference
 |                                       Truck Trailer Manufacturers Association, 1020 Princess Street, Alexandria, Virginia 22314, telephone (703) 549-3010, http://www.ttmanet.org:                                       |                                           |
 |                                        TTMA RP No. 96-01, TTMA RP No. 96-01, Structural Integrity of DOT 406, DOT 407, and DOT 412 Cylindrical Cargo Tanks, January 2001 Edition                                         |                 178.345-3                 |
 
-[78 FR 1027, Jan. 7, 2013, as amended at 78 FR 15321, Mar. 11, 2013; 78 FR 65468, Oct. 31, 2013; 79 FR 15043, Mar. 18, 2014; 79 FR 40609, July 11, 2014; 80 FR 1114, Jan. 8, 2015; 80 FR 26746, May 8, 2015; 80 FR 79449, Dec. 21, 2015; 81 FR 25617, Apr. 29, 2016; 81 FR 35513, June 2, 2016]
+[78 FR 1027, Jan. 7, 2013, as amended at 78 FR 15321, Mar. 11, 2013; 78 FR 65468, Oct. 31, 2013; 79 FR 15043, Mar. 18, 2014; 79 FR 40609, July 11, 2014; 80 FR 1114, Jan. 8, 2015; 80 FR 26746, May 8, 2015; 80 FR 79449, Dec. 21, 2015; 81 FR 25617, Apr. 29, 2016; 81 FR 35513, June 2, 2016; 82 FR 15833, Mar. 30, 2017]

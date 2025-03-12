@@ -7,3 +7,9 @@
 (1) A brief statement of the reason(s) for the denial of the request, including any FOIA exemption applied by OSC in denying the request; and
 
 (2) A statement that the denial may be appealed under section 1820.6(a), with a description of the requirements of that subsection.
+
+(c) *Dispute resolution program.* OSC shall inform FOIA requesters at all stages of the FOIA process of the availability of dispute resolution services. In particular, OSC's FOIA acknowledgement letters shall notify requesters that the FOIA Liaison is available to assist them with requests. The acknowledgment letter and any agency response will include a notice that the FOIA Public Liaison may provide dispute resolution services, and will also notify the requester of the dispute resolution services provided by the National Archives and Records Administration's (NARA) Office of Government Information Services (OGIS).
+
+(d) *Maintenance of files.* OSC must preserve federal record correspondence and copies of requested records until disposition is authorized pursuant to Title 44 of the United States Code and the relevant approved records retention schedule.
+
+[72 FR 40711, July 25, 2007, as amended at 82 FR 15610, Mar. 30, 2017]

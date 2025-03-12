@@ -16,7 +16,7 @@
 
 (h) The representations, markings, and certifications subject to the prohibitions of paragraph (g) of this section include:
 
-(1) Specification identifications that include the letters “ICC”, “DOT”, “CTC”, “MC”, or “UN”;
+(1) Specification identifications that include the letters “ICC”, “DOT”, “TC”, “CTC”, “CRC”, “BTC”, “MC”, or “UN”;
 
 (2) Exemption, special permit, approval, and registration numbers that include the letters “DOT”, “EX”, “M”, or “R”; and
 
@@ -32,4 +32,4 @@
 
 (m) No person may falsify or alter an exemption or special permit, approval, registration, or other grant of authority issued under this subchapter or subchapter A of this chapter. No person may offer a hazardous material for transportation or transport a hazardous material in commerce under an exemption or special permit, approval, registration or other grant of authority issued under this subchapter or subchapter A of this chapter if such grant of authority has been altered without the consent of the issuing authority. No person may represent, mark, certify, or sell a packaging or container under an exemption or special permit, approval, registration or other grant of authority issued under this subchapter or subchapter A of this chapter if such grant of authority has been altered without the consent of the issuing authority.
 
-[68 FR 61937, Oct. 30, 2003, as amended at 70 FR 43643, July 28, 2005; 70 FR 73162, Dec. 9, 2005]
+[68 FR 61937, Oct. 30, 2003, as amended at 70 FR 43643, July 28, 2005; 70 FR 73162, Dec. 9, 2005; 82 FR 15833, Mar. 30, 2017]

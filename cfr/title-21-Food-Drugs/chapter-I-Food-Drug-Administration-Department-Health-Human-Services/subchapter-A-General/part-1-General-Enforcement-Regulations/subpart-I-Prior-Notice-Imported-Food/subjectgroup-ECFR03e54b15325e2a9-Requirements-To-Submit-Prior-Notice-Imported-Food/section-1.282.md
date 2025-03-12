@@ -12,4 +12,6 @@
 
 (b) If you submitted the prior notice via the FDA PNSI, you should cancel the prior notice via the FDA PNSI.
 
-(c) If you submitted the prior notice via ABI/ACS, you should cancel the prior notice via ACS by requesting that CBP cancel the entry.
+(c) If you submitted the prior notice via ABI/ACE/ITDS, you should cancel the prior notice via ACE by requesting that CBP cancel the entry.
+
+[73 FR 66402, Nov. 7, 2008, as amended at 82 FR 15629, Mar. 30, 2017]

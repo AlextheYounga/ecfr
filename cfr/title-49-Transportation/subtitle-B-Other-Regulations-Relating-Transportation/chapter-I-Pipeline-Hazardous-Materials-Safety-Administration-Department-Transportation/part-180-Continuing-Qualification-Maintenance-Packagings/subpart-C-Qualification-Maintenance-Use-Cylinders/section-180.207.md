@@ -30,10 +30,10 @@ Table 1 - Requalification Intervals of UN Pressure Receptacles
 
 (2) Seamless UN aluminum: Each seamless aluminum UN pressure receptacle must be requalified in accordance with ISO 10461 (IBR, see § 171.7 of this subchapter).
 
-(3) Dissolved acetylene UN cylinders: Each dissolved acetylene cylinder must be requalified in accordance with ISO 10462 (IBR, see § 171.7 of this subchapter). The porous mass and the shell must be requalified no sooner than 3 years, 6 months, from the date of manufacture. Thereafter, subsequent requalifications of the porous mass and shell must be performed at least once every ten years.
+(3) Dissolved acetylene UN cylinders: Each dissolved acetylene cylinder must be requalified in accordance with ISO 10462:2013(E) (IBR, *see* § 171.7 of this subchapter). Until December 31, 2018 requalification may be done in accordance with ISO 10462(E) (IBR, *see* § 171.7 of this subchapter). The porous mass and the shell must be requalified no sooner than 3 years, 6 months, from the date of manufacture. Thereafter, subsequent requalifications of the porous mass and shell must be performed at least once every ten years.
 
 (4) Composite UN cylinders: Each composite cylinder must be inspected and tested in accordance with ISO 11623 (IBR, see § 171.7 of this subchapter).
 
 (5) UN cylinders for adsorbed gases: Each UN cylinder for adsorbed gases must be inspected and tested in accordance with § 173.302c and ISO 11513:2011 (IBR, see § 171.7 of this subchapter).
 
-[71 FR 33894, June 12, 2006, as amended at 71 FR 54397, Sept. 14, 2006; 76 FR 3389, Jan. 19, 2011; 80 FR 1168, Jan. 8, 2015]
+[71 FR 33894, June 12, 2006, as amended at 71 FR 54397, Sept. 14, 2006; 76 FR 3389, Jan. 19, 2011; 80 FR 1168, Jan. 8, 2015; 82 FR 15897, Mar. 30, 2017]

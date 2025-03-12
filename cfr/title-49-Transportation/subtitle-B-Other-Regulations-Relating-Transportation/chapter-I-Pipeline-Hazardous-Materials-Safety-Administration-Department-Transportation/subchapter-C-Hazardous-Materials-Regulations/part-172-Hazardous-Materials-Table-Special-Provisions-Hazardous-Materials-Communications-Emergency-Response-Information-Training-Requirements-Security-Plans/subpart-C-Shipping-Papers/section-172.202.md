@@ -46,6 +46,8 @@
 
 (vii) For hazardous materials in limited quantities, the total net quantity per package must be shown unless a gross mass is indicated in Column 4 of § 173.27 Table 3, in which case the total gross mass per package must be shown. Where different hazardous materials in limited quantities are packed together in the same outer packaging, when a gross mass is indicated Column 4 of § 173.27 Table 3, the net quantity of each hazardous material must be shown in addition to the gross mass of the completed package.
 
+(viii) For authorized consumer commodities, the information provided may be either the gross mass of each package or the average gross mass of the packages.
+
 (7) The number and type of packages must be indicated. The type of packages must be indicated by description of the package (for example, “12 drums”). Indication of the packaging specification number (“1H1”) may be included in the description of the package (for example, “12 1H1 drums” or “12 drums (UN 1A1)”). Abbreviations may be used for indicating packaging types (for example, “cyl.” for “cylinder”) provided the abbreviations are commonly accepted and recognizable.
 
 (b) Except as provided in this subpart, the basic description specified in paragraphs (a)(1), (2), (3), and (4) of this section must be shown in sequence with no additional information interspersed. For example, “UN2744, Cyclobutyl chloroformate, 6.1, (8, 3), PG II.” The shipping description sequences in effect on December 31, 2006, may be used until January 1, 2013. Shipping descriptions for hazardous materials offered or intended for transportation by rail that contain all the information required in this subpart and that are formatted and ordered in accordance with recognized electronic data interchange standards and, to the extent possible, in the order and manner required by this subpart are deemed to comply with this paragraph.
@@ -58,4 +60,4 @@
 
 (e) Except for those materials in the UN Recommendations, the ICAO Technical Instructions, or the IMDG Code (IBR, see § 171.7 of this subchapter), a material that is not a hazardous material according to this subchapter may not be offered for transportation or transported when its description on a shipping paper includes a hazard class or an identification number specified in the § 172.101 Table.
 
-[Amdt. 172-101, 45 FR 74665, Nov. 10, 1980]Editorial Note:For Federal Register citations affecting § 172.202, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[Amdt. 172-101, 45 FR 74665, Nov. 10, 1980]Editorial Note:For Federal Register citations affecting § 172.202, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

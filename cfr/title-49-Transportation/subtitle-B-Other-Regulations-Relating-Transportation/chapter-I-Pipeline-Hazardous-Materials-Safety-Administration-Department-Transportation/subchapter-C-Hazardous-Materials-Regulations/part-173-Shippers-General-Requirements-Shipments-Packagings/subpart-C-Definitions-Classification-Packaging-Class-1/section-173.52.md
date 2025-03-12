@@ -4,8 +4,6 @@
 
 (b) Compatibility groups and classification codes for the various types of explosives are set forth in the following tables. Table 1 sets forth compatibility groups and classification codes for substances and articles described in the first column of table 1. Table 2 shows the number of classification codes that are possible within each explosive division. Altogether, there are 35 possible classification codes for explosives.
 
-Table 1 - Classification Codes
-
 |                                                                                                                                         Description of substances or article to be classified                                                                                                                                          |Compatibility group|         Classification code         |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|-------------------------------------|
 |                                                                                                                                                      Primary explosive substance                                                                                                                                                       |         A         |                1.1A                 |
@@ -19,10 +17,8 @@ Table 1 - Classification Codes
 |                                                                                                                               Article containing both an explosive substance and flammable liquid or gel                                                                                                                               |         J         |     1.1J  <br/>1.2J  <br/>1.3J      |
 |                                                                                                                               Article containing both an explosive substance and a toxic chemical agent                                                                                                                                |         K         |           1.2K  <br/>1.3K           |
 |                                                  Explosive substance or article containing an explosive substance and presenting a special risk (e.g., due to water-activation or presence of hybergolic liquids, phosphides or pyrophoric substances) needing isolation of each type                                                  |         L         |     1.1L  <br/>1.2L  <br/>1.3L      |
-|                                                                                                                                       Articles containing only extremely insensitive substances                                                                                                                                        |         N         |                1.6N                 |
+|                                                                                                                                   Articles predominantly containing extremely insensitive substances                                                                                                                                   |         N         |                1.6N                 |
 |                            Substance or article so packed or designed that any hazardous effects arising from accidental functioning are limited to the extent that they do not significantly hinder or prohibit fire fighting or other emergency response efforts in the immediate vicinity of the package                            |         S         |                1.4S                 |
-
-Table 2 - Scheme of Classification of Explosives, Combination of Hazard Division with Compatibility Group
 
 |Hazard division|Compatibility group|    |    |    |    |    |    |    |    |    |    |    |    |   |
 |---------------|-------------------|----|----|----|----|----|----|----|----|----|----|----|----|---|
@@ -35,4 +31,4 @@ Table 2 - Scheme of Classification of Explosives, Combination of Hazard Division
 |      1.6      |                   |    |    |    |    |    |    |    |    |    |    |1.6N|    | 1 |
 |     Total     |         1         | 3  | 4  | 4  | 3  | 4  | 4  | 2  | 3  | 2  | 3  | 1  | 1  |35 |
 
-[Amdt. 173-224, 55 FR 52617, Dec. 21, 1990, as amended by Amdt. 173-241, 59 FR 67492, Dec. 29, 1994; 64 FR 51918, Sept. 27, 1999; 66 FR 45379, Aug. 28, 2001; 76 FR 56315, Sept. 13, 2011; 78 FR 1074, Jan. 7, 2013]
+[Amdt. 173-224, 55 FR 52617, Dec. 21, 1990, as amended by Amdt. 173-241, 59 FR 67492, Dec. 29, 1994; 64 FR 51918, Sept. 27, 1999; 66 FR 45379, Aug. 28, 2001; 76 FR 56315, Sept. 13, 2011; 78 FR 1074, Jan. 7, 2013; 82 FR 15876, Mar. 30, 2017]

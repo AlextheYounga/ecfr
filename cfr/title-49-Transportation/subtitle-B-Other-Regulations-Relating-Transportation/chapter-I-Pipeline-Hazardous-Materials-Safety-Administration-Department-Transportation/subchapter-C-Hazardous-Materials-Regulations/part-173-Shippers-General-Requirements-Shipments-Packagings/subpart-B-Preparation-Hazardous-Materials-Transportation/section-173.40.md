@@ -2,7 +2,7 @@
 
 When this section is referenced for a Hazard Zone A or B hazardous material elsewhere in this subchapter, the requirements in this section are applicable to cylinders used for that material.
 
-(a) *Authorized cylinders.* (1) A cylinder must conform to a DOT specification or a UN standard prescribed in subpart C of part 178 of this subchapter, except that acetylene cylinders and non-refillable cylinders are not authorized. The use of UN tubes and MEGCs is prohibited for Hazard Zone A materials.
+(a) *Authorized cylinders.* (1) A cylinder must conform to a DOT specification or UN standard prescribed in subpart C of part 178 of this subchapter, or a TC, CTC, CRC, or BTC cylinder authorized in § 171.12 of this subchapter, except that acetylene cylinders and non-refillable cylinders are not authorized. The use of UN tubes and MEGCs is prohibited for Hazard Zone A materials.
 
 (2) The use of a specification 3AL cylinder made of aluminum alloy 6351-T6 is prohibited for a Division 2.3 Hazard Zone A material or a Division 6.1 Hazard Zone A material.
 
@@ -34,4 +34,4 @@ When this section is referenced for a Hazard Zone A or B hazardous material else
 
 (e) *Interconnection.* Cylinders may not be manifolded or connected. This provision does not apply to MEGCs containing Hazard Zone B materials in accordance with § 173.312.
 
-[67 FR 51642, Aug. 8, 2002, as amended at 67 FR 61289, Sept. 30, 2002; 68 FR 24660, May 8, 2003; 71 FR 33880, June 12, 2006; 76 FR 3371, Jan. 19, 2011; 81 FR 3672, Jan. 21, 2016]
+[67 FR 51642, Aug. 8, 2002, as amended at 67 FR 61289, Sept. 30, 2002; 68 FR 24660, May 8, 2003; 71 FR 33880, June 12, 2006; 76 FR 3371, Jan. 19, 2011; 81 FR 3672, Jan. 21, 2016; 82 FR 15876, Mar. 30, 2017]

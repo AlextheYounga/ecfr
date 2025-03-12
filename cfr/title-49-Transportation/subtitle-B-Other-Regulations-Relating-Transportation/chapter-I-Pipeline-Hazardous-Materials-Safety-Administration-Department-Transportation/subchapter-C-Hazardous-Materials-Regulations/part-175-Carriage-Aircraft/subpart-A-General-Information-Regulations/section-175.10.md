@@ -2,7 +2,7 @@
 
 (a) This subchapter does not apply to the following hazardous materials when carried by aircraft passengers or crewmembers provided the requirements of §§ 171.15 and 171.16 (see paragraph (c) of this section) and the requirements of this section are met:
 
-(1) (i) Non-radioactive medicinal and toilet articles for personal use (including aerosols) carried in carry-on and checked baggage. Release devices on aerosols must be protected by a cap or other suitable means to prevent inadvertent release;
+(1)(i) Non-radioactive medicinal and toilet articles for personal use (including aerosols) carried in carry-on and checked baggage. Release devices on aerosols must be protected by a cap or other suitable means to prevent inadvertent release;
 
 (ii) Other aerosols in Div. 2.2 (nonflammable gas) with no subsidiary risk carried in checked baggage only. Release devices on aerosols must be protected by a cap or other suitable means to prevent inadvertent release; and
 
@@ -22,7 +22,7 @@
 
 (6) Hair curlers (curling irons) containing a hydrocarbon gas such as butane, no more than one per person, in carry-on baggage only. The safety cover must be securely fitted over the heating element. Gas refills for such curlers are not permitted in carry-on or checked baggage.
 
-(7) A small medical or clinical mercury thermometer for personal use, when carried in a protective case in carry-on or checked baggage.
+(7) A small medical or clinical mercury thermometer for personal use, when carried in a protective case in checked baggage.
 
 (8) Small arms ammunition for personal use carried by a crewmember or passenger in checked baggage only, if securely packed in boxes or other packagings specifically designed to carry small amounts of ammunition. Ammunition clips and magazines must also be securely boxed. This paragraph does not apply to persons traveling under the provisions of 49 CFR 1544.219.
 
@@ -180,4 +180,4 @@
 
 (c) The requirements to submit incident reports as required under §§ 171.15 and 171.16 of this subchapter apply to the air carrier.
 
-[71 FR 14604, Mar. 22, 2006, as amended at 71 FR 78634, Dec. 29, 2006; 72 FR 44950, Aug. 9, 2007; 73 FR 4719, Jan. 28, 2008; 73 FR 23367, Apr. 30, 2008; 74 FR 2266, Jan. 14, 2009; 75 FR 73, Jan. 4, 2010; 76 FR 3381, Jan. 19, 2011; 76 FR 43531, July 20, 2011; 76 FR 82178, Dec. 30, 2011; 78 FR 1093, 1117, Jan. 7, 2013; 78 FR 65485, Oct. 31, 2013; 79 FR 46040, Aug. 6, 2014; 80 FR 1164, Jan. 8, 2015; 80 FR 66821, Oct. 30, 2015; 80 FR 72928, Nov. 23, 2015; 81 FR 31531, May 19, 2016; 81 FR 35543, June 2, 2016]
+[71 FR 14604, Mar. 22, 2006]Editorial Note:For Federal Register citations affecting § 175.10, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.

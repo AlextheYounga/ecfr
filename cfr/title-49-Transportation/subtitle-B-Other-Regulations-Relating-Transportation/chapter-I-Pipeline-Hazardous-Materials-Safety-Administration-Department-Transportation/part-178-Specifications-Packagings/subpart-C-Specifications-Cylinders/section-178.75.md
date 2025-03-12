@@ -30,7 +30,9 @@
 
 (iii) ISO 9809-3: Gas cylinders - Refillable seamless steel gas cylinders - Design, construction and testing - Part 3: Normalized steel cylinders. (IBR, see § 171.7 of this subchapter). Until December 31, 2018, the manufacture of a cylinder conforming to the requirements in ISO 9809-3:2000 (IBR, see § 171.7 of this subchapter) is authorized; or
 
-(iv) ISO 11120: Gas cylinders - Refillable seamless steel tubes of water capacity between 150 L and 3000 L - Design, construction and testing. (IBR, see § 171.7 of this subchapter).
+(iv) ISO 9809-4:2014(E) Gas cylinders - Refillable seamless steel gas cylinders - Design, construction and testing - Part 4: Stainless steel cylinders with an Rm value of less than 1 100 MPa (IBR, see § 171.7 of this subchapter).
+
+(v) ISO 11120: Gas cylinders - Refillable seamless steel tubes of water capacity between 150 L and 3000 L - Design, construction and testing. (IBR, see § 171.7 of this subchapter).
 
 (4) Pressure receptacles of MEGCs, fittings, and pipework must be constructed of a material that is compatible with the hazardous materials intended to be transported, as specified in this subchapter.
 
@@ -128,4 +130,4 @@ Stamp of the approval agency who performed or witnessed the most recent test
 
 (2) The following information must be marked on a metal plate firmly secured to the MEGC:
 
-Name of the operatorMaximum permissible load mass \_\_\_ kgWorking pressure at 15 °C: \_\_\_ bar gaugeMaximum permissible gross mass (MPGM) \_\_\_ kgUnladen (tare) mass \_\_\_ kg[71 FR 33892, June 12, 2006, as amended at 73 FR 4719, Jan. 28, 2008; 77 FR 60943, Oct. 5, 2012; 80 FR 1168, Jan. 8, 2015]
+Name of the operatorMaximum permissible load mass \_\_\_ kgWorking pressure at 15 °C: \_\_\_ bar gaugeMaximum permissible gross mass (MPGM) \_\_\_ kgUnladen (tare) mass \_\_\_ kg[71 FR 33892, June 12, 2006, as amended at 73 FR 4719, Jan. 28, 2008; 77 FR 60943, Oct. 5, 2012; 80 FR 1168, Jan. 8, 2015; 82 FR 15896, Mar. 30, 2017]

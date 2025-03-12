@@ -6,7 +6,7 @@
 
 (1) Each transport vehicle and freight container containing solid carbon dioxide must be conspicuously marked on two sides “WARNING CO2 SOLID (DRY ICE).”
 
-(2) Other packagings containing solid carbon dioxide must be marked “CARBON DIOXIDE, SOLID - DO NOT STOW BELOW DECKS.”
+(2) Other packagings containing solid carbon dioxide must be marked “CARBON DIOXIDE, SOLID—DO NOT STOW BELOW DECKS.”
 
 (c) For transportation by aircraft:
 
@@ -14,7 +14,7 @@
 
 (2) The shipper must make arrangements with the operator for each shipment.
 
-(3) The quantity limits per package shown in Columns (9A) and (9B) of the Hazardous Materials Table in § 172.101 are not applicable to dry ice being used as a refrigerant for other than hazardous materials loaded in a unit load device or other type of pallet. In such a case, the unit load device or other type of pallet must allow the venting of the carbon dioxide gas to prevent a dangerous build up of pressure, and be identified to the operator.
+(3) The quantity limits per package shown in columns (9A) and (9B) of the Hazardous Materials Table in § 172.101 of this subchapter are not applicable to dry ice being used as a refrigerant for other than hazardous materials loaded in a unit load device. In such a case, the unit load device must be identified to the operator and allow the venting of the carbon dioxide gas to prevent a dangerous build-up of pressure.
 
 (4) Dry ice is excepted from the shipping paper requirements of subpart C of part 172 of this subchapter provided alternative written documentation is supplied containing the following information: proper shipping name (Dry ice or Carbon dioxide, solid), class 9, UN number 1845, the number of packages, and the net quantity of dry ice in each package. The information must be included with the description of the materials.
 
@@ -22,4 +22,4 @@
 
 (d) Carbon dioxide, solid (dry ice), when used to refrigerate materials being shipped for diagnostic or treatment purposes (*e.g.*, frozen medical specimens), is excepted from the shipping paper and certification requirements of this subchapter if the requirements of paragraphs (a) and (c)(2) of this section are met and the package is marked “Carbon dioxide, solid” or “Dry ice” and is marked with an indication that the material being refrigerated is being transported for diagnostic or treatment purposes.
 
-[73 FR 4718, Jan. 28, 2008]
+[73 FR 4718, Jan. 28, 2008, as amended at 82 FR 15882, Mar. 30, 2017]

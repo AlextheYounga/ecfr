@@ -4,7 +4,7 @@
 
 (b) Except as otherwise provided in this subchapter, no person may carry a hazardous material in the cabin of a passenger-carrying aircraft or on the flight deck of any aircraft, and the hazardous material must be located in a place that is inaccessible to persons other than crew members. Hazardous materials may be carried in a main deck cargo compartment of a passenger aircraft provided that the compartment is inaccessible to passengers and that it meets all certification requirements for a Class B aircraft cargo compartment in 14 CFR 25.857(b) or for a Class C aircraft cargo compartment in 14 CFR 25.857(c). A package bearing a “KEEP AWAY FROM HEAT” handling marking must be protected from direct sunshine and stored in a cool and ventilated place, away from sources of heat.
 
-(c) For each package containing a hazardous material acceptable for carriage aboard passenger-carrying aircraft, no more than 25 kg (55 pounds) net weight of hazardous material may be loaded in an inaccessible manner. In addition to the 25 kg limitation, an additional 75 kg (165 pounds) net weight of Division 2.2 (non-flammable compressed gas) may be loaded in an inaccessible manner. The requirements of this paragraph do not apply to Class 9, articles of Identification Numbers UN0012, UN0014, or UN0055 also meeting the requirements of § 173.63(b), and Limited or Excepted Quantity material.
+(c) For each package containing a hazardous material acceptable for carriage aboard passenger-carrying aircraft, no more than 25 kg (55 pounds) net weight of hazardous material may be loaded in an inaccessible manner. In addition to the 25 kg limitation, an additional 75 kg (165 pounds) net weight of Division 2.2 (non-flammable compressed gas) may be loaded in an inaccessible manner. The requirements of this paragraph (c) do not apply to Class 9, articles of Identification Numbers UN0012, UN0014, or UN0055 also meeting the requirements of § 173.63(b) of this subchapter, articles of Identification Numbers UN3528 or UN3529, and Limited or Excepted Quantity material.
 
 (d) For the purposes of this section -
 
@@ -18,7 +18,7 @@
 
 (e) For transport aboard cargo-only aircraft, the requirements of paragraphs (c) and (d) of this section do not apply to the following hazardous materials:
 
-(1) Class 3, PG III (unless the substance is also labeled CORROSIVE), Class 6.1 (unless the substance is also labeled for any hazard class or division except FLAMMABLE LIQUID), Division 6.2, Class 7 (unless the hazardous material meets the definition of another hazard class), Class 9, articles of Identification Numbers UN0012, UN0014, or UN0055 also meeting the requirements of § 173.63(b), and those marked as a Limited Quantity or Excepted Quantity material.
+(1) Class 3, PG III (unless the substance is also labeled CORROSIVE), Class 6.1 (unless the substance is also labeled for any hazard class or division except FLAMMABLE LIQUID), Division 6.2, Class 7 (unless the hazardous material meets the definition of another hazard class), Class 9, articles of Identification Numbers UN0012, UN0014, or UN0055 also meeting the requirements of § 173.63(b) of this subchapter, articles of Identification Numbers UN3528 or UN3529, and those marked as a Limited Quantity or Excepted Quantity material.
 
 (2) Packages of hazardous materials transported aboard a cargo aircraft, when other means of transportation are impracticable or not available, in accordance with procedures approved in writing by the FAA Regional Office in the region where the operator is certificated.
 
@@ -52,6 +52,8 @@ d. Class 9, Limited Quantity or Excepted Quantity material.
 
 e. Articles of Identification Numbers UN0012, UN0014, or UN0055 also meeting the requirements of § 173.63(b).
 
+f. Articles of Identification Numbers UN3528 or UN3529.
+
 Note 2: Aboard cargo-only aircraft, packages required to be loaded in a position that is considered to be accessible include those loaded in a Class C cargo compartment.
 
-[76 FR 82178, Dec. 30, 2011, as amended at 78 FR 65486, Oct. 31, 2013; 81 FR 35544, June 2, 2016]
+[76 FR 82178, Dec. 30, 2011, as amended at 78 FR 65486, Oct. 31, 2013; 81 FR 35544, June 2, 2016; 82 FR 15892, Mar. 30, 2017]

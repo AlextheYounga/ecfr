@@ -1,6 +1,6 @@
 ##### § 1.281 What information must be in a prior notice? #####
 
-(a) *General.* For each article of food that is imported or offered for import into the United States, except by international mail, you must submit the information for the article that is required in paragraphs (a)(1) through (a)(17) of this section:
+(a) *General.* For each article of food that is imported or offered for import into the United States, except by international mail, you must submit the information for the article that is required in paragraphs (a)(1) through (18) of this section:
 
 (1) The name of the individual submitting the prior notice and his/her business address, phone number, and e-mail address, and the name and address of the submitting firm, if applicable. If the business address of the individual submitting the prior notice is a registered facility, then the facility's registration number, city, and country may be provided instead of the facility's full address;
 
@@ -46,7 +46,7 @@
 
 (iii) The anticipated time of that arrival; and
 
-(iv) Notwithstanding paragraphs (a)(11)(i) through (a)(11)(iii) of this section, if the article of food is arriving by express consignment operator or carrier, and neither the submitter nor transmitter is the express consignment operator or carrier, and prior notice is submitted via the FDA PNSI, the express consignment operator or carrier tracking number may be submitted in lieu of the information required in paragraphs (a)(11)(i) through (a)(11)(iii) of this section. Until such time as FDA and CBP issue a determination that ACS or its successor system can accommodate such transactions, the tracking number may not be submitted in lieu of information required in paragraphs (a)(11)(i) through (a)(11)(iii) of this section, if the prior notice is submitted via ABI/ACS.
+(iv) Notwithstanding paragraphs (a)(11) introductory text and (a)(11)(i) through (iii) of this section, if the article of food is arriving by express consignment operator or carrier, the express consignment operator or carrier tracking number may be submitted in lieu of the information required in paragraphs (a)(11) introductory text and (a)(11)(i) through (iii) of this section.
 
 (12) The name and full address of the importer. If the business address of the importer is a registered facility, you also may submit the registration number of the importer's registered facility. The identity of the importer is not required for an article of food that is imported or offered for import for transshipment through the United States under a Transportation and Exportation entry;
 
@@ -60,11 +60,11 @@
 
 (17) Planned shipment information, as applicable to the mode of transportation and when it exists:
 
-(i) The Airway Bill number(s) or Bill of Lading number(s), as applicable. This information is not required for an article of food when carried by or otherwise accompanying an individual when entering the United States. If the article of food is arriving by express consignment operator or carrier, and neither the submitter nor transmitter is the express consignment operator or carrier, and the prior notice is submitted via the FDA PNSI, the express consignment operator or carrier tracking number may be submitted in lieu of the Airway Bill number(s) or Bill of Lading number(s), as applicable. Until such time as FDA and CBP issue a determination that ACS or its successor system can accommodate such transactions, the tracking number may not be submitted in lieu of the Airway Bill number(s) or Bill of Lading number(s), if the prior notice is submitted via ABI/ACS;
+(i) The Airway Bill number(s) or Bill of Lading number(s), as applicable. This information is not required for an article of food when carried by or otherwise accompanying an individual when entering the United States. If the article of food is arriving by express consignment operator or carrier, the express consignment operator or carrier tracking number may by submitted in lieu of the Airway Bill number(s) or Bill of Lading number(s), as applicable;
 
 (ii) For food arriving by ocean vessel, the vessel name and voyage number;
 
-(iii) For food arriving by air carrier, the flight number. If the article of food is arriving by express consignment operator or carrier, and neither the submitter nor transmitter is the express consignment operator or carrier, and the prior notice is submitted via the FDA PNSI, the express consignment operator or carrier tracking number may be submitted in lieu of the flight number. Until such time as FDA and CBP issue a determination that ACS or its successor system can accommodate such transactions, the tracking number may not be submitted in lieu of the flight number, if the prior notice is submitted via ABI/ACS;
+(iii) For food arriving by air carrier, the flight number. If the article of food is arriving by express consignment operator or carrier, the express consignment operator or carrier tracking number may be submitted in lieu of the flight number;
 
 (iv) For food arriving by truck, bus, or rail, the trip number;
 
@@ -74,7 +74,7 @@
 
 (18) Any country to which the article has been refused entry.
 
-(b) *Articles arriving by international mail.* For each article of food that is imported or offered for import into the United States by international mail, you must submit the information for the article that is required in paragraphs (b)(1) through (b)(11) of this section:
+(b) *Articles arriving by international mail.* For each article of food that is imported or offered for import into the United States by international mail, you must submit the information for the article that is required in paragraphs (b)(1) through (12) of this section:
 
 (1) The name of the individual submitting the prior notice and his/her business address, phone number, and e-mail address, and the name and address of the submitting firm, if applicable. If the business address of the individual submitting the prior notice is a registered facility, then the facility's registration number, city, and country may be provided instead of the facility's full address;
 
@@ -116,7 +116,7 @@
 
 (12) Any country to which the article has been refused entry.
 
-(c) *Refused articles.* If the article of food has been refused under section 801(m)(1) of the act and under this subpart, you must submit the information for the article that is required in paragraphs (c)(1) through (c)(18) of this section. However, if the refusal is based on § 1.283(a)(1)(iii) (Untimely Prior Notice), you do not have to resubmit any information previously submitted unless it has changed or the article has been exported and the original prior notice was submitted through ABI/ACS. If the refusal is based on § 1.283(a)(1)(ii), you should cancel the previous submission per § 1.282(b) and (c).
+(c) *Refused articles.* If the article of food has been refused under section 801(m)(1) of the act and under this subpart, you must submit the information for the article that is required in paragraphs (c)(1) through (19) of this section. However, if the refusal is based on § 1.283(a)(1)(iii) (Untimely Prior Notice), you do not have to resubmit any information previously submitted unless it has changed or the article has been exported and the original prior notice was submitted through ABI/ACE/ITDS. If the refusal is based on § 1.283(a)(1)(ii), you should cancel the previous submission per § 1.282(b) and (c).
 
 (1) The name of the individual submitting the prior notice and his/her business address, phone number, and e-mail address, and the name and address of the submitting firm, if applicable. If the business address of the individual submitting the prior notice is a registered facility, then the facility's registration number, city, and country may be provided instead of the facility's full address;
 
@@ -160,7 +160,7 @@
 
 (ii) The date on which the article of food arrived at the port of arrival.
 
-(iii) Notwithstanding paragraph (c)(11) of this section, if the article of food arrived by express consignment operator or carrier, and neither the submitter nor transmitter is the express consignment operator or carrier, and the prior notice is submitted via the FDA PNSI, the express consignment operator or carrier tracking number may be submitted in lieu of the information required in paragraph (c)(11) of this section. Until such time as FDA and CBP issue a determination that ACS or its successor system can accommodate such transactions, the tracking number may not be submitted in lieu of information required in paragraph (c)(11) of this section, if the prior notice is submitted via ABI/ACS;
+(iii) Notwithstanding paragraphs (c)(11) introductory text and (c)(11)(i) and (ii) of this section, if the article of food arrived by express consignment operator or carrier, the express consignment operator or carrier tracking number may be submitted in lieu of the information required in paragraphs (c)(11) introductory text and (c)(11)(i) and (ii) of this section.
 
 (12) The name and full address of the importer. If the business address of the importer is a registered facility, you also may submit the registration number of the importer's registered facility. The identity of the importer is not required for an article of food that is imported or offered for import for transshipment through the United States under a Transportation and Exportation entry;
 
@@ -174,11 +174,11 @@
 
 (17) Shipment information, as applicable to the mode of transportation and when it exists:
 
-(i) The Airway Bill number(s) or Bill of Lading number(s), as applicable; however, this information is not required for an article of food when carried by or otherwise accompanying an individual when entering the United States. If the article of food arrived by express consignment operator or carrier, and neither the submitter nor transmitter is the express consignment operator or carrier, and the prior notice is submitted via the FDA PNSI, the express consignment operator or carrier tracking number may be submitted in lieu of the Airway Bill number(s) or Bill of Lading number(s), as applicable. Until such time as FDA and CBP issue a determination that ACS or its successor system can accommodate such transactions, the tracking number may not be submitted in lieu of the Airway Bill number(s) or Bill of Lading number(s), if the prior notice is submitted via ABI/ACS;
+(i) The Airway Bill number(s) or Bill of Lading number(s), as applicable; however, this information is not required for an article of food when carried by or otherwise accompanying an individual when entering the United States. If the article of food arrived by express consignment operator or carrier, the express consignment operator or carrier tracking number may be submitted in lieu of the Airway Bill number(s) or Bill of Lading number(s), as applicable;
 
 (ii) For food that arrived by ocean vessel, the vessel name and voyage number;
 
-(iii) For food that arrived by air carrier, the flight number. If the article of food arrived by express consignment operator or carrier, and neither the submitter nor transmitter is the express consignment operator or carrier, and the prior notice is submitted via the FDA PNSI, the express consignment operator or carrier tracking number may be submitted in lieu of the flight number. Until such time as FDA and CBP issue a determination that ACS or its successor system can accommodate such transactions, the tracking number may not be submitted in lieu of the flight number, if the prior notice is submitted via ABI/ACS;
+(iii) For food that arrived by air carrier, the flight number. If the article of food arrived by express consignment operator or carrier, the express consignment operator or carrier tracking number may be submitted in lieu of the flight number;
 
 (iv) For food that arrived by truck, bus, or rail, the trip number;
 
@@ -190,4 +190,4 @@
 
 (19) Any country to which the article has been refused entry.
 
-[73 FR 66402, Nov. 7, 2008, as amended at 76 FR 25545, May 5, 2011]
+[73 FR 66402, Nov. 7, 2008, as amended at 76 FR 25545, May 5, 2011; 82 FR 15629, Mar. 30, 2017]

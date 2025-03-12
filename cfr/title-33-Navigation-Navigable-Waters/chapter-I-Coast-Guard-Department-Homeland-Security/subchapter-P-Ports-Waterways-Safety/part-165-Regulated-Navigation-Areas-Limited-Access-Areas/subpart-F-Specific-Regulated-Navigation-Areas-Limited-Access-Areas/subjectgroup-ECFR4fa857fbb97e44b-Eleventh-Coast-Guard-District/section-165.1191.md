@@ -1,5 +1,7 @@
 ##### § 165.1191 Northern California and Lake Tahoe Area Annual Fireworks Events. #####
 
+Link to an amendment published at 82 FR 15636, Mar. 30, 2017.
+
 (a) *General.* Safety zones are established for the events listed in Table 1 of this section. Further information on exact dates, times, and other details concerning the exact geographical description of the areas are published by the Eleventh Coast Guard District in the Local Notice to Mariners at least 20 days prior to the event.
 
 (b) *Regulations.* All persons and vessels not registered with the sponsor as participants or as official patrol vessels are considered spectators. The “official patrol” consists of any Coast Guard; other Federal, state, or local law enforcement; and any public or sponsor-provided vessels assigned or approved by the cognizant Coast Guard Sector Commander to patrol each event.

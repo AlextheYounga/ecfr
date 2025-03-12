@@ -4,7 +4,7 @@
 
 (i) The repair facility holds an approval issued under the provisions in § 107.805 of this chapter; and
 
-(ii) Except as provided in paragraph (b) of this section, the repair and the inspection is performed under the provisions of an approval issued under subpart H of Part 107 of this chapter and conform to the applicable cylinder specification or ISO standard contained in part 178 of this chapter.
+(ii) Except as provided in paragraph (b) of this section, the repair and the inspection is performed under the provisions of an approval issued under subpart H of part 107 of this chapter or by a facility registered by Transport Canada in accordance with the Transport Canada TDG Regulations (IBR; see § 171.7 of this subchapter) and conform to the applicable cylinder specification or ISO standard contained in part 178 of this subchapter.
 
 (2) The person performing the repair must prepare a report containing, at a minimum, the results prescribed in § 180.215.
 
@@ -14,4 +14,4 @@
 
 (2) External re-threading of DOT 3AX, 3AAX or 3T specification cylinders or a UN pressure receptacle mounted in a MEGC; or the internal re-threading of a DOT-3 series cylinder or a seamless UN pressure receptacle when performed by a cylinder manufacturer of these types of cylinders. The repair work must be performed under the supervision of an independent inspection agency. Upon completion of the re-threading, the threads must be gauged in accordance with Federal Standard H-28 or an equivalent standard containing the same specification limits. The re-threaded cylinder must be stamped clearly and legibly with the words “RETHREAD” on the shoulder, top head, or neck. No DOT specification cylinder or UN cylinder may be re-threaded more than one time without approval of the Associate Administrator.
 
-[71 FR 33895, June 12, 2006, as amended at 71 FR 54398, Sept. 14, 2006; 72 FR 55697, Oct. 1, 2007]
+[71 FR 33895, June 12, 2006, as amended at 71 FR 54398, Sept. 14, 2006; 72 FR 55697, Oct. 1, 2007; 82 FR 15897, Mar. 30, 2017]

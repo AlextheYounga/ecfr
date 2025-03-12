@@ -32,7 +32,7 @@
 
 (g) *Internal and external examination.* The internal and external examinations must ensure that:
 
-(1) The shell is inspected for pitting, corrosion, or abrasions, dents, distortions, defects in welds or any other conditions, including leakage, that might render the portable tank unsafe for transportation;
+(1) The shell is inspected for pitting, corrosion, or abrasions, dents, distortions, defects in welds or any other conditions, including leakage, that might render the portable tank unsafe for transportation. The wall thickness must be verified by appropriate measurement if this inspection indicates a reduction of wall thickness;
 
 (2) The piping, valves, and gaskets are inspected for corroded areas, defects, and other conditions, including leakage, that might render the portable tank unsafe for filling, discharge or transportation;
 
@@ -62,4 +62,4 @@
 
 (l) *Record retention.* The owner of each portable tank or his authorized agent shall retain a written record of the date and results of all required inspections and tests, including an ASME manufacturer's date report, if applicable, and the name and address of the person performing the inspection or test, in accordance with the applicable specification. The manufacturer's data report, including a certificate(s) signed by the manufacturer, and the authorized design approval agency, as applicable, indicating compliance with the applicable specification of the portable tank, must be retained in the files of the owner, or his authorized agent, during the time that such portable tank is used for such service, except for Specifications 56 and 57 portable tanks.
 
-[Amdt. 180-2, 54 FR 25032, June 12, 1989, as amended at 67 FR 15744, Apr. 3, 2002; 68 FR 45042, July 31, 2003; 74 FR 53189, Oct. 16, 2009]
+[Amdt. 180-2, 54 FR 25032, June 12, 1989, as amended at 67 FR 15744, Apr. 3, 2002; 68 FR 45042, July 31, 2003; 74 FR 53189, Oct. 16, 2009; 82 FR 15897, Mar. 30, 2017]

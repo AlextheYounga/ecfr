@@ -12,11 +12,19 @@
 
 (ii) A repair, modification, stretching, or rebarrelling of a non-ASME stamped cargo tank may be done without certification by an Authorized Inspector, completion of the R-1 form, or being stamped with the “R” stamp.
 
+(iii) A repair, as defined in § 180.403, of a DOT specification cargo tank used for the transportation of hazardous materials in the United States may be performed by a facility in Canada in accordance with the Transport Canada TDG Regulations (IBR, see § 171.7 of this subchapter) provided:
+
+(A) The facility holds a valid Certificate of Authorization from a provincial pressure vessel jurisdiction for repair;
+
+(B) The facility is registered in accordance with the Transport Canada TDG Regulations to repair the corresponding TC specification; and
+
+(C) All repairs are performed using the quality control procedures used to obtain the Certificate of Authorization.
+
 (2) Prior to each repair, modification, stretching, rebarrelling, or mounting, the cargo tank motor vehicle must be emptied of any hazardous material lading. In addition, cargo tank motor vehicles used to transport flammable or toxic lading must be sufficiently cleaned of residue and purged of vapors so any potential hazard is removed, including void spaces between double bulkheads, piping and vapor recovery systems.
 
 (3) Each person performing a repair, modification, stretching, rebarrelling or mounting of a DOT specification cargo tank must be registered in accordance with subpart F of part 107 of this chapter.
 
-(b) *Repair.* The suitability of each repair affecting the structural integrity or lading retention capability of the cargo tank must be determined by the testing required either in the applicable manufacturing specification or in § 180.407(g)(1)(iv). Each repair of a cargo tank involving welding on the shell or head must be certified by a Registered Inspector. The following provisions apply to specific cargo tank repairs:
+(b) *Repair.* The suitability of each repair affecting the structural integrity or lading retention capability of the cargo tank must be determined by the testing required either in the applicable manufacturing specification or in § 180.407(g)(1)(iv). Except for a repair performed by a facility in Canada in accordance with paragraph (a)(1)(iii) of this section, each repair of a cargo tank involving welding on the shell or head must be certified by a Registered Inspector. The following provisions apply to specific cargo tank repairs:
 
 (1) DOT 406, DOT 407, and DOT 412 cargo tanks must be repaired in accordance with the specification requirements in effect at the time of repair;
 
@@ -78,4 +86,4 @@
 
 (f) *Records.* Each owner of a cargo tank motor vehicle must retain at the owner's principal place of business all records of repair, modification, stretching, or rebarrelling, including notation of any tests conducted to verify the suitability of the repair, modification, stretching, or rebarrelling made to each cargo tank during the time the cargo tank motor vehicle is in service and for one year thereafter. Copies of these records must be retained by a motor carrier, if not the owner of the cargo tank motor vehicle, at its principal place of business during the period the cargo tank motor vehicle is in the carrier's service.
 
-[68 FR 19288, Apr. 18, 2003; 68 FR 52372, Sept. 3, 2003, as amended at 68 FR 75764, Dec. 31, 2003]
+[68 FR 19288, Apr. 18, 2003; 68 FR 52372, Sept. 3, 2003, as amended at 68 FR 75764, Dec. 31, 2003; 82 FR 15897, Mar. 30, 2017]

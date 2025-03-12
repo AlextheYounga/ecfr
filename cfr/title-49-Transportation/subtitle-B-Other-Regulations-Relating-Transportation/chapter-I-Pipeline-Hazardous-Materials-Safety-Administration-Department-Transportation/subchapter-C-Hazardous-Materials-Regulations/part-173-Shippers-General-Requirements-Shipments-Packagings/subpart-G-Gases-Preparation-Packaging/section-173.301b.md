@@ -4,7 +4,7 @@
 
 (1) A UN pressure receptacle may not be filled and offered for transportation when damaged to such an extent that the integrity of the UN pressure receptacle or its service equipment may be affected. Prior to filling, the service equipment must be examined and found to be in good working condition (see § 178.70(d) of this subchapter). In addition, the required markings must be legible on the pressure receptacle.
 
-(2) The gases or gas mixtures must be compatible with the UN pressure receptacle and valve materials as prescribed for metallic materials in ISO 11114-1 (IBR, see § 171.7 of this subchapter) and for non-metallic materials in ISO 11114-2 (IBR, see § 171.7 of this subchapter).
+(2) The gases or gas mixtures must be compatible with the UN pressure receptacle and valve materials as prescribed for metallic materials in ISO 11114-1:2012(E) (IBR, see § 171.7 of this subchapter) and for non-metallic materials in ISO 11114-2:2013(E) (IBR, see § 171.7 of this subchapter).
 
 (3) A refillable UN pressure receptacle may not be filled with a gas or gas mixture different from that previously contained in the UN pressure receptacle unless the necessary operations for change of gas service have been performed in accordance with ISO 11621 (IBR, see § 171.7 of this subchapter).
 
@@ -12,7 +12,7 @@
 
 (b) *Individual shut-off valves and pressure relief devices.* Except for Division 2.2 permanent gases, each UN pressure receptacle must be equipped with an individual shutoff valve that must be tightly closed while in transit. Each UN pressure receptacle must be individually equipped with a pressure relief device as prescribed by § 173.301(f), except that pressure relief devices on bundles of cylinders or manifolded horizontal cylinders must have a set-to-discharge pressure that is based on the lowest marked pressure of any cylinder in the bundle or manifolded unit.
 
-(c) *Pressure receptacle valve requirements.* (1) When the use of a valve is prescribed, the valve must conform to the requirements in ISO 10297:2006 (IBR, see § 171.7 of this subchapter). Until December 31, 2008, the manufacture of a valve conforming to the requirements in ISO 10297:1999 (IBR, see § 171.7 of this subchapter) is authorized.
+(c) *Pressure receptacle valve requirements.* (1) When the use of a valve is prescribed, the valve must conform to the requirements in ISO 10297:2014(E) (IBR, *see* § 171.7 of this subchapter). Until December 31, 2020, the manufacture of a valve conforming to the requirements in ISO 10297:2006(E) is authorized. Until December 31, 2008, the manufacture of a valve conforming to the requirements in ISO 10297:1999(E) (IBR, *see* § 171.7 of this subchapter) is authorized.
 
 (2) A UN pressure receptacle must have its valves protected from damage that could cause inadvertent release of the contents of the UN pressure receptacle by one of the following methods:
 
@@ -40,6 +40,6 @@
 
 (f) *Hydrogen bearing gases.* A steel UN pressure receptacle bearing an “H” mark must be used for hydrogen bearing gases or other embrittling gases that have the potential of causing hydrogen embrittlement.
 
-(g) *Composite cylinders in underwater use.* A composite cylinder certified to ISO-11119-2 or ISO-11119-3 may not be used for underwater applications unless the cylinder is manufactured in accordance with the requirements for underwater use and is marked “UW” as prescribed in § 178.71(o)(17) of this subchapter.
+(g) *Composite cylinders in underwater use.* A composite cylinder certified to ISO-11119-2 or ISO-11119-3 may not be used for underwater applications unless the cylinder is manufactured in accordance with the requirements for underwater use and is marked “UW” as prescribed in § 178.71(q)(18) of this subchapter.
 
-[71 FR 33882, June 12, 2006, as amended at 71 FR 54395, Sept. 14, 2006; 76 FR 3380, Jan. 19, 2011; 78 FR 1091, Jan. 7, 2013; 78 FR 65485, Oct. 31, 2013; 80 FR 1161, Jan. 8, 2015]
+[71 FR 33882, June 12, 2006, as amended at 71 FR 54395, Sept. 14, 2006; 76 FR 3380, Jan. 19, 2011; 78 FR 1091, Jan. 7, 2013; 78 FR 65485, Oct. 31, 2013; 80 FR 1161, Jan. 8, 2015; 82 FR 15891, Mar. 30, 2017]

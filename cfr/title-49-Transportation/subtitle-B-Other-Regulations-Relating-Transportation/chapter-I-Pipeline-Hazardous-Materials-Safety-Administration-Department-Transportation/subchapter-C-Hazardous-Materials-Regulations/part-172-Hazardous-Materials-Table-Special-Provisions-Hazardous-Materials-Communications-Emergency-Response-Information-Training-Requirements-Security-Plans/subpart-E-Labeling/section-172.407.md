@@ -8,11 +8,11 @@
 
 (c) *Size.* (1) Each diamond (square-on-point) label prescribed in this subpart must be at least 100 mm (3.9 inches) on each side with each side having a solid line inner border 5 mm inside and parallel to the edge. The 5 mm measurement is from the outside edge of the label to the outside of the solid line forming the inner border. The width of the solid line forming the inner border must be at least 2 mm.
 
-(i) If the size of the package so requires, the dimensions of the label and its features may be reduced provided the symbol and other elements of the label remain clearly visible. The solid line forming the inner border must remain 5 mm from the outside edge of the label and the minimum width of the line must remain 2 mm.
+(i) If the size of the package so requires, the dimensions of the label and its features may be reduced proportionally provided the symbol and other elements of the label remain clearly visible.
 
 (ii) Where dimensions are not specified, all features shall be in approximate proportion to those shown in §§ 172.411 through 172.448 of this subpart, as appropriate.
 
-(iii) *Transitional exception* - A label in conformance with the requirements of this paragraph in effect on December 31, 2014, may continue to be used until December 31, 2016.
+(iii) *Transitional exception.* For domestic transportation, a label in conformance with the requirements of 49 CFR 172.407(c)(1) (revised as of October 1, 2014), may continue to be used until December 31, 2018.
 
 (iv) For domestic transportation, a packaging labeled prior to January 1, 2017 and in conformance with the requirements of this paragraph in effect on December 31, 2014, may continue in service until the end of its useful life.
 
@@ -76,4 +76,4 @@
 
 (g) *Trefoil symbol.* The trefoil symbol on the RADIOACTIVE WHITE-I, RADIOACTIVE YELLOW-II, and RADIOACTIVE YELLOW-III labels must meet the appropriate specifications in appendix B of this part.
 
-[Amdt. 172-123, 55 FR 52595, Dec. 21, 1990, as amended at 56 FR 66256, Dec. 20, 1991; Amdt. 172-143, 60 FR 50305, Sept. 28, 1995; 64 FR 10776, Mar. 5, 1999; 66 FR 8647, Feb. 1, 2001; 66 FR 44255, Aug. 22, 2001; 67 FR 61013, Sept. 27, 2002; 69 FR 64472, Nov. 4, 2004; 71 FR 78627, Dec. 29, 2006; 75 FR 72, Jan. 4, 2010; 78 FR 1073, Jan. 7, 2013; 80 FR 1150, Jan. 8, 2015; 81 FR 35540, June 2, 2016]
+[Amdt. 172-123, 55 FR 52595, Dec. 21, 1990, as amended at 56 FR 66256, Dec. 20, 1991; Amdt. 172-143, 60 FR 50305, Sept. 28, 1995; 64 FR 10776, Mar. 5, 1999; 66 FR 8647, Feb. 1, 2001; 66 FR 44255, Aug. 22, 2001; 67 FR 61013, Sept. 27, 2002; 69 FR 64472, Nov. 4, 2004; 71 FR 78627, Dec. 29, 2006; 75 FR 72, Jan. 4, 2010; 78 FR 1073, Jan. 7, 2013; 80 FR 1150, Jan. 8, 2015; 81 FR 35540, June 2, 2016; 82 FR 15873, Mar. 30, 2017]

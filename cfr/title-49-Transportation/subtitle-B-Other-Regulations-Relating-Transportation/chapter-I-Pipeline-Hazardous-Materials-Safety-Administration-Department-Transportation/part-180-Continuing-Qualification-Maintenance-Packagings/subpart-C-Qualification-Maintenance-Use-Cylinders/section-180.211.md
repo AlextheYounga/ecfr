@@ -1,6 +1,6 @@
 ##### § 180.211 Repair, rebuilding and reheat treatment of DOT-4 series specification cylinders. #####
 
-(a) *General requirements for repair and rebuilding.* Any repair or rebuilding of a DOT 4-series cylinder must be performed by a person holding an approval as specified in § 107.805 of this chapter. A person performing a rebuild function is considered a manufacturer subject to the requirements of § 178.2(a)(2) and subpart C of part 178 of this subchapter. The person performing a repair, rebuild, or reheat treatment must record the test results as specified in § 180.215. Each cylinder that is successfully repaired or rebuilt must be marked in accordance with § 180.213.
+(a) *General requirements for repair and rebuilding.* Any repair or rebuilding of a DOT-4 series cylinder must be performed by a person holding an approval as specified in § 107.805 of this chapter or by a registered facility in Canada in accordance with the Transport Canada TDG Regulations (IBR, see § 171.7 of this subchapter). A person performing a rebuild function is considered a manufacturer subject to the requirements of § 178.2(a)(2) and subpart C of part 178 of this subchapter. The person performing a repair, rebuild, or reheat treatment must record the test results as specified in § 180.215. Each cylinder that is successfully repaired or rebuilt must be marked in accordance with § 180.213.
 
 (b) *General repair requirements.* Each repair of a DOT 4-series cylinder must be made in accordance with the following conditions:
 
@@ -34,7 +34,7 @@
 
 (iv) Other welding procedures that are permitted by CGA Pamphlet C-3 (IBR, see § 171.7 of this subchapter), and not excluded by the definition of “rebuild,” are authorized.
 
-(2) After repair, the cylinder must be -
+(2) After repair, the cylinder must be—
 
 (i) Pressure tested in accordance with the specifications under which the cylinder was originally manufactured;
 
@@ -58,7 +58,7 @@
 
 (C) A weld defect, such as porosity in a pressure retaining seam, must be completely removed before re-welding. Puddling may be used to remove a weld defect only by using the tungsten inert gas shielded arc process.
 
-(2) Any rebuilt cylinder must be -
+(2) Any rebuilt cylinder must be—
 
 (i) Heat treated in accordance with paragraph (f) of this section;
 
@@ -94,4 +94,6 @@
 
 (4) After all welding and heat treatment, a test of the new weld must be performed as required by the original specification. The test results must be recorded in accordance with § 180.215.
 
-[67 FR 51660, Aug. 8, 2002, as amended at 68 FR 24664, May 8, 2003; 68 FR 75764, Dec. 31, 2003; 71 FR 54398, Sept. 14, 2006]
+(g) *Repair, rebuilding and reheat treatment in Canada.* Repair, rebuilding, or reheat treatment of a DOT-4 series specification cylinder performed by a registered facility in Canada in accordance with the Transport Canada TDG Regulations (IBR, *see* § 171.7 of this subchapter) is authorized.
+
+[67 FR 51660, Aug. 8, 2002, as amended at 68 FR 24664, May 8, 2003; 68 FR 75764, Dec. 31, 2003; 71 FR 54398, Sept. 14, 2006; 82 FR 15897, Mar. 30, 2017]

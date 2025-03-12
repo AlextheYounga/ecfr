@@ -18,7 +18,7 @@
 
 (d) *Service equipment.* (1) Except for pressure relief devices, UN pressure receptacle equipment, including valves, piping, fittings, and other equipment subjected to pressure must be designed and constructed to withstand at least 1.5 times the test pressure of the pressure receptacle.
 
-(2) Service equipment must be configured or designed to prevent damage that could result in the release of the pressure receptacle contents during normal conditions of handling and transport. Manifold piping leading to shut-off valves must be sufficiently flexible to protect the valves and the piping from shearing or releasing the pressure receptacle contents. The filling and discharge valves and any protective caps must be secured against unintended opening. The valves must conform to ISO 10297:2006 (IBR, *see* § 171.7 of this subchapter), or ISO 13340 (IBR, *see* § 171.7 of this subchapter) for non-refillable pressure receptacles, and be protected as specified in § 173.301b(f) of this subchapter. Until December 31, 2008, the manufacture of a valve conforming to the requirements in ISO 10297:1999 (IBR, see § 171.7 of this subchapter) is authorized.
+(2) Service equipment must be configured or designed to prevent damage that could result in the release of the pressure receptacle contents during normal conditions of handling and transport. Manifold piping leading to shut-off valves must be sufficiently flexible to protect the valves and the piping from shearing or releasing the pressure receptacle contents. The filling and discharge valves and any protective caps must be secured against unintended opening. The valves must conform to ISO 10297:2014(E) or ISO 13340:2001(E) (IBR, *see* § 171.7 of this subchapter) for non-refillable pressure receptacles, and be protected as specified in § 173.301b(f) of this subchapter. Until December 31, 2020, the manufacture of a valve conforming to the requirements in ISO 10297:2006(E) (IBR, *see* § 171.7 of this subchapter) is authorized. Until December 31, 2008, the manufacture of a valve conforming to the requirements in ISO 10297:1999(E) (IBR, *see* § 171.7 of this subchapter) is authorized.
 
 (3) UN pressure receptacles that cannot be handled manually or rolled, must be equipped with devices (*e.g.,* skids, rings, straps) ensuring that they can be safely handled by mechanical means and so arranged as not to impair the strength of, nor cause undue stresses, in the pressure receptacle.
 
@@ -58,7 +58,9 @@
 
 (3) ISO 9809-3: Gas cylinders - Refillable seamless steel gas cylinders - Design, construction and testing - Part 3: Normalized steel cylinders. (IBR, *see* § 171.7 of this subchapter). Until December 31, 2018, the manufacture of a cylinder conforming to the requirements in ISO 9809-3:2000 (IBR, see § 171.7 of this subchapter) is authorized.
 
-(h) *Design and construction requirements for UN refillable seamless aluminum alloy cylinders.* In addition to the general requirements of this section, UN refillable seamless aluminum cylinders must conform to ISO 7866: Gas cylinders - Refillable seamless aluminum alloy gas cylinders - Design, construction and testing. (IBR, *see* § 171.7 of this subchapter). The use of Aluminum alloy 6351-T6 or equivalent is prohibited.
+(4) ISO 9809-4:2014(E) (IBR, see § 171.7 of this subchapter).
+
+(h) *Design and construction requirements for UN refillable seamless aluminum alloy cylinders.* In addition to the general requirements of this section, UN refillable seamless aluminum cylinders must conform to ISO 7866:2012(E) as modified by ISO 7866:2012/Cor.1:2014(E) (IBR, see § 171.7 of this subchapter). Until December 31, 2020, the manufacture of a cylinder conforming to the requirements in ISO 7866(E) (IBR, see § 171.7 of this subchapter) is authorized. The use of Aluminum alloy 6351-T6 or equivalent is prohibited.
 
 (i) *Design and construction requirements for UN non-refillable metal cylinders.* In addition to the general requirements of this section, UN non-refillable metal cylinders must conform to ISO 11118: Gas cylinders - Non-refillable metallic gas cylinders - Specification and test methods. (IBR, *see* § 171.7 of this subchapter.)
 
@@ -72,15 +74,15 @@
 
 (ii) ISO 9809-3: Gas cylinders - Refillable seamless steel gas cylinders - Design, construction and testing - Part 3: Normalized steel cylinders. Until December 31, 2018, the manufacture of a cylinder conforming to the requirements in ISO 9809-3:2000 (IBR, see § 171.7 of this subchapter) is authorized.
 
-(2) The porous mass in an acetylene cylinder must conform to ISO 3807-2: Cylinders for acetylene - Basic requirements - Part 2: Cylinders with fusible plugs. (IBR, *see* § 171.7 of this subchapter).
+(2) The porous mass in an acetylene cylinder must conform to ISO 3807:2013(E) (IBR, see § 171.7 of this subchapter). Until December 31, 2020, the manufacture of a cylinder conforming to the requirements in ISO 3807-2(E) (IBR, see § 171.7 of this subchapter) is authorized.
 
-(l) *Design and construction requirements for UN composite cylinders.* (1) In addition to the general requirements of this section, UN composite cylinders must be designed for unlimited service life and conform to the following ISO standards, as applicable:
+(l) *Design and construction requirements for UN composite cylinders and tubes.* (1) In addition to the general requirements of this section, UN composite cylinders and tubes must be designed for a design life of not less than 15 years. Composite cylinders and tubes with a design life longer than 15 years must not be filled after 15 years from the date of manufacture, unless the design has successfully passed a service life test program. The service life test program must be part of the initial design type approval and must specify inspections and tests to demonstrate that cylinders manufactured accordingly remain safe to the end of their design life. The service life test program and the results must be approved by the competent authority of the country of approval that is responsible for the initial approval of the cylinder design. The service life of a composite cylinder or tube must not be extended beyond its initial approved design life. Additionally, composite cylinders and tubes must conform to the following ISO standards, as applicable:
 
-(i) ISO 11119-1: Gas cylinders of composite construction - Specification and test methods - Part 1: Hoop-wrapped composite gas cylinders. (IBR, *see* § 171.7 of this subchapter).
+(i) ISO 11119-1:2012(E) (IBR, see § 171.7 of this subchapter). Until December 31, 2020, cylinders conforming to the requirements in ISO 11119-1(E), (IBR, see § 171.7 of this subchapter) are authorized.
 
-(ii) ISO 11119-2: Gas cylinders of composite construction - Specification and test methods - Part 2: Fully-wrapped fibre reinforced composite gas cylinders with load-sharing metal liners. (IBR, *see* § 171.7 of this subchapter).
+(ii) ISO 11119-2:2012(E) (ISO 11119-2:2012/Amd.1:2014(E)) (IBR, see § 171.7 of this subchapter). Until December 31, 2020, cylinders conforming to the requirements in ISO 11119-2(E) (IBR, see § 171.7 of this subchapter) are authorized.
 
-(iii) ISO 11119-3: Gas cylinders of composite construction - Specification and test methods - Part 3: Fully wrapped fibre reinforced composite gas cylinders with non-load sharing metallic or non-metallic liners. (IBR, *see* § 171.7 of this subchapter).
+(iii) ISO 11119-3:2013(E) (IBR, see § 171.7 of this subchapter). Until December 31, 2020, cylinders conforming to the requirements in ISO 11119-3(E) (IBR, see § 171.7 of this subchapter) are authorized.
 
 (2) ISO 11119-2 and ISO 11119-3 gas cylinders of composite construction manufactured in accordance with the requirements for underwater use must bear the “UW” mark.
 
@@ -92,7 +94,7 @@
 
 (1) ISO 11114-1:2012: Gas cylinders - Compatibility of cylinder and valve materials with gas contents - Part 1: Metallic materials. (IBR, *see* § 171.7 of this subchapter).
 
-(2) ISO 11114-2: Transportable gas cylinders - Compatibility of cylinder and valve materials with gas contents - Part 2: Non-metallic materials. (IBR, *see* § 171.7 of this subchapter).
+(2) ISO 11114-2:2013(E) (IBR, see § 171.7 of this subchapter).
 
 (p) *Protection of closures.* Closures and their protection must conform to the requirements in § 173.301(f) of this subchapter.
 
@@ -138,6 +140,10 @@
 
 (19) For metal hydride storage systems having a limited life, the date of expiration indicated by the word “FINAL,” followed by the year (four digits), the month (two digits) and separated by a slash.
 
+(20) For composite cylinders and tubes having a limited design life, the letters “FINAL” followed by the design life shown as the year (four digits) followed by the month (two digits) separated by a slash (*i.e.* “/”).
+
+(21) For composite cylinders and tubes having a limited design life greater than 15 years and for composite cylinders and tubes having non-limited design life, the letters “SERVICE” followed by the date 15 years from the date of manufacture (initial inspection) shown as the year (four digits) followed by the month (two digits) separated by a slash (*i.e.* “/”).
+
 (r) *Marking sequence.* The marking required by paragraph (q) of this section must be placed in three groups as shown in the example below:
 
 (1) The top grouping contains manufacturing marks and must appear consecutively in the sequence given in paragraphs (q)(13) through (19) of this section.
@@ -146,7 +152,7 @@
 
 (3) The bottom grouping contains certification marks and must appear consecutively in the sequence given in paragraphs (q)(1) through (5) of this section.
 
-![](/graphics/er08ja15.001.gif)
+![](/graphics/er30mr17.035.gif)
 
 (s) *Other markings.* Other markings are allowed in areas other than the side wall, provided they are made in low stress areas and are not of a size and depth that will create harmful stress concentrations. Such marks must not conflict with required marks.
 
@@ -198,4 +204,4 @@
 
 (3) The bottom grouping contains certification marks and must appear consecutively in the sequence given in paragraphs (u)(2)(i) through (u)(2)(v) of this section as applicable.
 
-[76 FR 3385, Jan. 19, 2011, as amended at 76 FR 43532, July 20, 2011; 77 FR 60943, Oct. 5, 2012; 78 FR 1096, Jan. 7, 2013; 80 FR 1166, Jan. 8, 2015; 80 FR 72929, Nov. 23, 2015]
+[76 FR 3385, Jan. 19, 2011, as amended at 76 FR 43532, July 20, 2011; 77 FR 60943, Oct. 5, 2012; 78 FR 1096, Jan. 7, 2013; 80 FR 1166, Jan. 8, 2015; 80 FR 72929, Nov. 23, 2015; 82 FR 15895, Mar. 30, 2017]
