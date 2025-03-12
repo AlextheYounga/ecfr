@@ -1,7 +1,5 @@
 ##### § 300.25 Fisheries management. #####
 
-Link to an amendment published at 87 FR 47942, Aug. 5, 2022.Link to a correction published at 87 FR 48447, Aug. 9, 2022.
-
 (a) *Longline tuna catch limits.* (1) Fishing seasons for all tuna species begin on 0000 hours Coordinated Universal Time (UTC) January 1 and end either on 2400 hours UTC December 31 or when NMFS closes the fishery for a specific species.
 
 (2) There is a limit of 750 metric tons of bigeye tuna that may be caught by longline gear in the Convention Area by U.S. commercial fishing vessels that are over 24 meters in overall length. The catch limit within a calendar year is subject to increase if the United States receives a transfer of catch limit from another IATTC member or cooperating non-member, per paragraph (a)(5) of this section.
@@ -86,28 +84,67 @@ Table 1 to Paragraph (e)(2)
 
 (5) A vessel operator, crew member, or other persons on board a fishing vessel of the United States that is used to fish for HMS must take all reasonable measures to avoid fishing gear entanglement or interaction with drifting data buoys.
 
-(g) *Pacific bluefin tuna (Thunnus orientalis) commercial catch limits in the eastern Pacific Ocean for 2021.* The following is applicable to the U.S. commercial fishery for Pacific bluefin tuna in the Convention Area in the year 2021.
+(g) *Pacific bluefin tuna (Thunnus orientalis) commercial catch limits in the eastern Pacific Ocean for 2022-2024* - (1) *Biennial catch limit for 2021-2022.* The biennial catch limit for 2021-2022 is 739 metric tons.
 
-(1) All commercial fishing vessels of the United States combined may capture, retain, transship, or land no more than 425 metric tons.
+(2) *Biennial catch limit for 2023-2024.* The biennial catch limit for 2023-2024 is either:
 
-(2) A 20-metric ton trip limit will be in effect until any of the following criteria are met:
+(i) 1,017 metric tons increased by the amount, not to exceed 37 metric tons, of Pacific bluefin tuna catch remaining from the 2021-2022 U.S. commercial catch limit; or,
 
-(i) If NMFS anticipates cumulative catch will reach 250 metric tons during January through March, a 15-metric ton trip limit will be in effect upon the effective date provided in the actual notice, in accordance with paragraph (g)(6) of this section. If NMFS anticipates cumulative catch will reach 325 metric tons during January through March, a 2-metric ton trip limit will be in effect upon the effective date provided in the actual notice, in accordance with paragraph (g)(6) of this section.
+(ii) 1,017 metric tons reduced by the amount of Pacific bluefin tuna caught in excess of the 2021-2022 U.S. commercial biennial catch limit.
 
-(ii) If NMFS anticipates cumulative catch will reach 275 metric tons during April through June, a 15-metric ton trip limit will be in effect upon the effective date provided in the actual notice, in accordance with paragraph (g)(6) of this section. If NMFS anticipates cumulative catch will reach 350 metric tons during April through June, a 2-metric ton trip limit will be in effect upon the effective date provided in the actual notice, in accordance with paragraph (g)(6) of this section.
+(3) *Annual catch and trip limits for 2022.* For the calendar year 2022, all commercial fishing vessels of the United States combined may capture, retain, transship, or land no more than 523 metric tons. A 20-metric ton trip limit will be in effect until any of the following criteria are met:
 
-(iii) If NMFS anticipates cumulative catch will reach 300 metric tons during July through September, a 15-metric ton trip limit will be in effect upon the effective date provided in the actual notice, in accordance with paragraph (g)(6) of this section. If NMFS anticipates cumulative catch will reach 375 metric tons during July through September, a 2-metric ton trip limit will be in effect upon the effective date provided in the actual notice, in accordance with paragraph (g)(6) of this section.
+| If the time of year is . . . |And NMFS anticipates  <br/>cumulative catch will be . . .|Then the trip limit will be . . .|
+|------------------------------|---------------------------------------------------------|---------------------------------|
+|                              |                          (mt)                           |              (mt)               |
+|   (i) January through June   |                      200  <br/>300                      |           15  <br/>3            |
+| (ii) July through September  |                      250  <br/>325                      |           15  <br/>3            |
+|(iii) October through December|                      300  <br/>423                      |           15  <br/>3            |
 
-(iv) If NMFS anticipates cumulative catch will reach 325 metric tons during October through December, a 15-metric ton trip limit will be in effect upon the effective date provided in the actual notice, in accordance with paragraph (g)(6) of this section. If NMFS anticipates cumulative catch will reach 375 metric tons during October through December, a 2-metric ton trip limit will be in effect upon the effective date provided in the actual notice, in accordance with paragraph (g)(6) of this section.
+(4) *Annual catch and trip limits for 2023.* For the calendar year 2023, all commercial fishing vessels of the United States combined may capture, retain, transship, or land no more than 720 metric tons. A 30-metric ton trip limit will be in effect until any of the following criteria are met:
 
-(3) After NMFS determines that the catch limit under paragraph (g)(1) of this section is expected to be reached, NMFS will close the fishery effective upon the date provided in the actual notice, in accordance with paragraph (g)(6) of this section. Upon the effective date in the actual notice, targeting, retaining on board, transshipping, or landing Pacific bluefin tuna captured in the Convention Area shall be prohibited as described in paragraph (g)(4) of this section.
+| If the time of year is . . . |And NMFS anticipates  <br/>cumulative catch will be . . .|Then the trip limit will be . . .|
+|------------------------------|---------------------------------------------------------|---------------------------------|
+|                              |                          (mt)                           |              (mt)               |
+|   (i) January through June   |                      400  <br/>500                      |           20  <br/>3            |
+| (ii) July through September  |                      430  <br/>520                      |           20  <br/>3            |
+|(iii) October through December|                      470  <br/>620                      |           20  <br/>3            |
 
-(4) Beginning on the date provided in the actual notice of the fishing closure announced under paragraph (g)(3) of this section, a commercial fishing vessel of the United States may not be used to target, retain on board, transship, or land Pacific bluefin tuna captured in the Convention Area through the end of the calendar year. Any Pacific bluefin tuna already on board a fishing vessel on the effective date of the notice may be retained on board, transshipped, and/or landed within 14 days after the effective date published in the fishing closure notice, to the extent authorized by applicable laws and regulations.
+(5) *Annual catch and trip limits for 2024.* (i) If the 2024 catch limit is between 525 and 720 metric tons, a 30-metric ton trip limit will be in effect until any of the following criteria are met:
 
-(5) If an inseason action taken under paragraph (g)(2), (3), or (4) of this section is based on overestimate of actual catch, NMFS will reverse that action in the timeliest possible manner, provided NMFS finds that reversing that action is consistent with the management objectives for the affected species. The fishery will reopen effective on the date provided in the actual notice in accordance with paragraph (g)(6) of this section.
+|If the time of year is . . .|And NMFS anticipates the  <br/>cumulative catch is within . . .|Then the trip limit will be . . .|
+|----------------------------|---------------------------------------------------------------|---------------------------------|
+|                            |                (mt of the annual catch limit)                 |              (mt)               |
+|  (A) January through June  |                    320  <br/>220  <br/>150                    |       20  <br/>10  <br/>3       |
+| (B) July through September |                    300  <br/>200  <br/>140                    |       20  <br/>10  <br/>3       |
+|(C) October through December|                         250  <br/>100                         |           20  <br/>3            |
 
-(6) Inseason actions taken under paragraphs (g)(2), (3), (4), and (5) of this section will be by actual notice from posting on the NMFS website (*https://www.fisheries.noaa.gov/west-coast/sustainable-fisheries/pacific-bluefin-tuna-commercial-harvest-status*) and a United States Coast Guard Notice to Mariners. The Notice to Mariners will be broadcast three times daily for 4 days. This action will also be published in the Federal Register as soon as practicable. Inseason actions will be effective from the time specified in the actual notice of the action (*i.e.,* website posting and United States Coast Guard Notice to Mariners), or at the time the inseason action published in the Federal Register is effective, whichever comes first.
+(ii) If the 2024 catch limit is between 400 and 524 metric tons, a 20-metric ton trip limit will be in effect until any of the following criteria are met:
 
-(7) If landing Pacific bluefin tuna into the State of California, fish landing receipts must be submitted to the California Department of Fish and Wildlife in accordance with the requirements of applicable State law and regulations, with the exception that the submission must occur within 24 hours of landing.
+|If the time of year is . . .|And NMFS  <br/>anticipates cumulative catch is within . . .|Then the trip limit will be . . .|
+|----------------------------|-----------------------------------------------------------|---------------------------------|
+|                            |              (mt of the annual catch limit)               |              (mt)               |
+|  (A) January through June  |                       300  <br/>200                       |           15  <br/>3            |
+| (B) July through September |                       250  <br/>150                       |           15  <br/>3            |
+|(C) October through December|                       200  <br/>100                       |           15  <br/>3            |
+
+(iii) If the 2024 catch limit is between 297 and 399 metric tons, a 15-metric ton trip limit will be in effect until any of the following criteria are met:
+
+|If the time of year is . . .|And NMFS anticipates  <br/>cumulative catch is within . . .|Then the trip limit will be . . .|
+|----------------------------|-----------------------------------------------------------|---------------------------------|
+|                            |              (mt of the annual catch limit)               |              (mt)               |
+|  (A) January through June  |                            220                            |                3                |
+| (B) July through September |                            200                            |                3                |
+|(C) October through December|                            100                            |                3                |
+
+(iv) If the 2024 catch limit is 296 metric tons or less, the trip limit will be 5 metric tons for the entire calendar year.
+
+(6) *Closure of the fishery.* After NMFS determines that the annual catch limits under paragraphs (g)(3) through (5) of this section are expected to be reached, NMFS will close the fishery effective upon the date provided in the notice in accordance with paragraph (g)(7) of this section. Upon the effective date in the notice, targeting, retaining on board, transshipping or landing Pacific bluefin tuna in the Convention Area shall be prohibited through the end of the calendar year, with the exception that any Pacific bluefin tuna already on board a fishing vessel on the effective date of the notice may be retained on board, transshipped, and/or landed within 14 days after the effective date published in the fishing closure notice, to the extent authorized by applicable laws and regulations.
+
+(7) *Announcement and effective dates of in-season actions.* In-season actions taken under paragraphs (g)(2) through (6) of this section will be by notice in the Federal Register. The action will also be posted on the National Marine Fisheries Service West Coast Region website (*https://www.fisheries.noaa.gov/west-coast/sustainable-fisheries/pacific-bluefin-tuna-commercial-harvest-status*). In-season actions will be effective from the date and time specified in the Federal Register Notice.
+
+(8) *Reversal of in-season actions.* If an in-season action taken under paragraphs (g)(2) through (6) of this section is based on overestimate of actual catch, NMFS will reverse that action in the timeliest possible manner, provided NMFS finds that reversing that action is consistent with the management objectives for the affected species. The fishery will be subject to the change in trip limit or reopened effective on the date provided in the notice in accordance with paragraph (g)(7) of this section.
+
+(9) *State of California fish landing receipts.* If landing Pacific bluefin tuna into the State of California, fish landing receipts must be submitted within 24 hours to the California Department of Fish and Wildlife in accordance with the requirements of applicable State regulations.
 
 [64 FR 44431, Aug. 16, 1999]Editorial Note:For Federal Register citations affecting § 300.25, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,18 +1,20 @@
 ##### § 17.272 Benefits limitations/exclusions. #####
 
-Link to an amendment published at 87 FR 41600, July 13, 2022.
-
 (a) Benefits cover allowable expenses for medical services and supplies that are medically necessary and appropriate for the treatment of a condition and that are not specifically excluded from program coverage. Covered benefits may have limitations. The fact that a physician may prescribe, order, recommend, or approve a service or supply does not, of itself, make it medically necessary or make the charge an allowable expense, even though it is not listed specifically as an exclusion. The following are specifically excluded from program coverage:
 
 (1) Services, procedures or supplies for which the beneficiary has no legal obligation to pay, or for which no charge would be made in the absence of coverage under a health benefits plan.
 
-(2) Services and supplies required as a result of an occupational disease or injury for which benefits are payable under workers' compensation or similar protection plan (whether or not such benefits have been applied for or paid) except when such benefits are exhausted and are otherwise not excluded from CHAMPVA coverage.
+(2) Services and supplies required as a result of an occupational disease or injury for which benefits are payable under workers' compensation or similar protection plan (whether or not such benefits have been applied for or paid) except when such benefits are exhausted and the services and supplies are otherwise not excluded from CHAMPVA coverage.
 
-(3) Services and supplies that are paid directly or indirectly by a local, State or Federal government agency (Medicaid excluded), including court-ordered treatment. In the case of the following exceptions, CHAMPVA assumes primary payer status:
+(3) Services and supplies that are paid directly or indirectly by a local, State or Federal government agency, including court-ordered treatment. In the case of the following exceptions, CHAMPVA assumes primary payer status:
 
 (i) Medicaid.
 
 (ii) State Victims of Crime Compensation Programs.
+
+(iii) Indian Health Service.
+
+(iv) CHAMPVA supplemental policies.
 
 (4) Services and supplies that are not medically or psychologically necessary for the diagnosis or treatment of a covered condition (including mental disorder) or injury.
 
@@ -66,7 +68,7 @@ Link to an amendment published at 87 FR 41600, July 13, 2022.
 
 (viii) Repair of fracture, dislocation, and other injuries of the jaw, to include removal of teeth and tooth fragments only when such removal is incidental to the repair of the jaw.
 
-(ix) Treatment for stabilization of myofascial pain dysfunction syndrome, also referred to as temporomandibular joint (TMJ) syndrome. Authorization is limited to initial radiographs, up to four office visits, and the construction of an occlusal splint.
+(ix) Treatment for stabilization of myofascial pain dysfunction syndrome, also referred to as temporomandibular joint disorder (TMD). Authorization is limited to initial imaging such as radiographs, Computed Tomography, or Magnetic Resonance Imaging; up to four office visits; and the construction of an occlusal splint.
 
 (x) Total or complete ankyloglossia.
 
@@ -82,17 +84,15 @@ Link to an amendment published at 87 FR 41600, July 13, 2022.
 
 (25) Removal of corns or calluses or trimming of toenails and other routine foot care services, except those required as a result of a diagnosed systemic medical disease affecting the lower limbs, such as severe diabetes.
 
-(26) Services and supplies, to include psychological testing, provided in connection with a specific developmental disorder. The following exception applies: Diagnostic and evaluative services required to arrive at a differential diagnosis for an otherwise eligible child unless the state is required to provide those services under Public Law 94-142, *Education for All Handicapped Children Act of 1975 as amended, see 20 U.S.C. chapter 33.*
+(26) Surgery to reverse voluntary surgical sterilization procedures.
 
-(27) Surgery to reverse voluntary surgical sterilization procedures.
+(27) Services and supplies related to artificial insemination (including semen donors and semen banks), in vitro fertilization, gamete intrafallopian transfer and all other noncoital reproductive technologies.
 
-(28) Services and supplies related to artificial insemination (including semen donors and semen banks), in vitro fertilization, gamete intrafallopian transfer and all other noncoital reproductive technologies.
+(28) Nonprescription contraceptives.
 
-(29) Nonprescription contraceptives.
+(29) Diagnostic tests to establish paternity of a child; or tests to determine sex of an unborn child.
 
-(30) Diagnostic tests to establish paternity of a child; or tests to determine sex of an unborn child.
-
-(31) Preventive care (such as routine, annual, or employment-requested physical examinations; routine screening procedures; and immunizations). The following exceptions apply:
+(30) Preventive care (such as employment-requested physical examinations and routine screening procedures). The following exceptions apply, including but not limited to:
 
 (i) Well-child care from birth to age six. Periodic health examinations designed for prevention, early detection, and treatment of disease are covered to include screening procedures, immunizations, and risk counseling. The following services are payable when required as part of a well-child care program and when rendered by the attending pediatrician, family physician, or a pediatric nurse practitioner.
 
@@ -126,9 +126,9 @@ Link to an amendment published at 87 FR 41600, July 13, 2022.
 
 (iv) Rh immune globulin.
 
-(v) Pap smears.
+(v) Cervical cancer screening.
 
-(vi) Mammography tests.
+(vi) Breast cancer screening.
 
 (vii) Genetic testing and counseling determined to be medically necessary.
 
@@ -138,13 +138,21 @@ Link to an amendment published at 87 FR 41600, July 13, 2022.
 
 (x) School-required physical examinations for beneficiaries through age 17 that are provided on or after October 1, 2001.
 
-(32) Chiropractic and naturopathic services.
+(xi) Colorectal cancer screening.
 
-(33) Counseling services that are not medically necessary in the treatment of a diagnosed medical condition (such as educational counseling; vocational counseling; and counseling for socioeconomic purposes, stress management, life style modification, etc.).
+(xii) Prostate cancer screening.
 
-(34) Acupuncture, whether used as a therapeutic agent or as an anesthetic.
+(xiii) Annual physical examination.
 
-(35) Hair transplants, wigs, or hairpieces, except that benefits may be extended for one wig or hairpiece per beneficiary (lifetime maximum) when the attending physician certifies that alopecia has resulted from treatment of malignant disease and the beneficiary certifies that a wig or hairpiece has not been obtained previously through the U.S. Government (including the Department of Veterans Affairs). The wig or hairpiece benefit does not include coverage for the following:
+(xiv) Vaccinations/immunizations.
+
+(31) Chiropractic and naturopathic services.
+
+(32) Counseling services that are not medically necessary in the treatment of a diagnosed medical condition (such as educational counseling; vocational counseling; and counseling for socioeconomic purposes, stress management, life style modification, etc.).
+
+(33) Acupuncture, whether used as a therapeutic agent or as an anesthetic.
+
+(34) Hair transplants, wigs, or hairpieces, except that benefits may be extended for one wig or hairpiece per beneficiary (lifetime maximum) when the attending physician certifies that alopecia has resulted from treatment of malignant disease and the beneficiary certifies that a wig or hairpiece has not been obtained previously through the U.S. Government (including the Department of Veterans Affairs). The wig or hairpiece benefit does not include coverage for the following:
 
 (i) Maintenance, wig or hairpiece supplies, or replacement of the wig or hairpiece.
 
@@ -152,19 +160,17 @@ Link to an amendment published at 87 FR 41600, July 13, 2022.
 
 (iii) Any diagnostic or therapeutic method or supply intended to encourage hair growth.
 
-(36) Self-help, academic education or vocational training services and supplies.
+(35) Self-help, academic education or vocational training services and supplies.
 
-(37) Exercise equipment, spas, whirlpools, hot tubs, swimming pools, health club membership or other such charges or items.
+(36) Exercise equipment, spas, whirlpools, hot tubs, swimming pools, health club membership or other such charges or items.
 
-(38) General exercise programs, even if recommended by a physician.
+(37) General exercise programs, even if recommended by a physician.
 
-(39) Services of an audiologist or speech therapist, except when prescribed by a physician and rendered as a part of treatment addressed to the physical defect itself and not to any educational or occupational deficit.
+(38) Eye exercises or visual training (orthoptics).
 
-(40) Eye exercises or visual training (orthoptics).
+(39) Eye and hearing examinations except when rendered in connection with medical or surgical treatment of a covered illness or injury or in connection with well-child care.
 
-(41) Eye and hearing examinations except when rendered in connection with medical or surgical treatment of a covered illness or injury or in connection with well-child care.
-
-(42) Eyeglasses, spectacles, contact lenses, or other optical devices with the following exceptions:
+(40) Eyeglasses, spectacles, contact lenses, or other optical devices with the following exceptions:
 
 (i) When necessary to perform the function of the human lens, lost as a result of intraocular surgery, ocular injury or congenital absence.
 
@@ -180,11 +186,11 @@ Link to an amendment published at 87 FR 41600, July 13, 2022.
 
 (D) Corneal or scleral lenses prescribed to reduce a corneal irregularity other than astigmatism.
 
-(iv) The specified benefits are limited to one set of lenses related to one qualifying eye condition as set forth in paragraphs (a)(42)(iii)(A) through (D) of this section. If there is a prescription change requiring a new set of lenses, but still related to the qualifying eye condition, benefits may be extended for a second set of lenses, subject to medical review.
+(iv) The specified benefits are limited to one set of lenses related to one qualifying eye condition as set forth in paragraphs (a)(40)(iii)(A) through (D) of this section. If there is a prescription change requiring a new set of lenses, but still related to the qualifying eye condition, benefits may be extended for a second set of lenses, subject to medical review.
 
-(43) Hearing aids or other auditory sensory enhancing devices.
+(41) Hearing aids or other auditory sensory enhancing devices.
 
-(44) Prostheses with the following exceptions:
+(42) Prostheses with the following exceptions:
 
 (i) Dental prostheses specifically required in connection with otherwise covered orthodontia directly related to the surgical correction of a cleft palate anomaly.
 
@@ -200,13 +206,13 @@ Link to an amendment published at 87 FR 41600, July 13, 2022.
 
 (E) Ears, noses, and fingers.
 
-(45) Orthopedic shoes, arch supports, shoe inserts, and other supportive devices for the feet, including special ordered, custom-made built-up shoes, or regular shoes later built up with the following exceptions:
+(43) Orthopedic shoes, arch supports, shoe inserts, and other supportive devices for the feet, including special ordered, custom-made built-up shoes, or regular shoes later built up with the following exceptions:
 
 (i) Shoes that are an integral part of an orthopedic brace, and which cannot be used separately from the brace.
 
 (ii) Extra-depth shoes with inserts or custom molded shoes with inserts for individuals with diabetes.
 
-(46) Services or advice rendered by telephone are excluded except that a diagnostic or monitoring procedure which incorporates electronic transmission of data or remote detection and measurement of a condition, activity, or function (biotelemetry) is covered when:
+(44) Services or advice rendered by telephone are excluded except that a diagnostic or monitoring procedure which incorporates electronic transmission of data or remote detection and measurement of a condition, activity, or function (biotelemetry) is covered when:
 
 (i) The procedure, without electronic data transmission, is a covered benefit; and
 
@@ -214,94 +220,92 @@ Link to an amendment published at 87 FR 41600, July 13, 2022.
 
 (iii) The electronic data or biotelemetry device has been classified by the U.S. Food and Drug Administration, either separately or as part of a system, for use consistent with the medical condition and clinical management of such condition.
 
-(47) Air conditioners, humidifiers, dehumidifiers, and purifiers.
+(45) Air conditioners, humidifiers, dehumidifiers, and purifiers.
 
-(48) Elevators.
+(46) Elevators.
 
-(49) Alterations to living spaces or permanent features attached thereto, even when necessary to accommodate installation of covered durable medical equipment or to facilitate entrance or exit.
+(47) Alterations to living spaces or permanent features attached thereto, even when necessary to accommodate installation of covered durable medical equipment or to facilitate entrance or exit.
 
-(50) Items of clothing, even if required by virtue of an allergy (such as cotton fabric versus synthetic fabric and vegetable-dyed shoes).
+(48) Items of clothing, even if required by virtue of an allergy (such as cotton fabric versus synthetic fabric and vegetable-dyed shoes).
 
-(51) Food, food substitutes, vitamins or other nutritional supplements, including those related to prenatal care for a home patient whose condition permits oral feeding.
+(49) Food, food substitutes, vitamins or other nutritional supplements, including those related to care for a home patient whose condition permits oral feeding, except for prenatal vitamins which are medically necessary as a component of prenatal care and prescribed by a VA provider or an authorized non-VA provider as defined in § 17.270 of this part.
 
-(52) Enuretic (bed-wetting) conditioning programs.
+(50) Enuretic (bed-wetting) conditioning programs.
 
-(53) Autopsy and post-mortem examinations.
+(51) Autopsy and post-mortem examinations.
 
-(54) All camping, even when organized for a specific therapeutic purpose (such as diabetic camp or a camp for emotionally disturbed children), or when offered as a part of an otherwise covered treatment plan.
+(52) All camping, even when organized for a specific therapeutic purpose (such as diabetic camp or a camp for emotionally disturbed children), or when offered as a part of an otherwise covered treatment plan.
 
-(55) Housekeeping, homemaker, or attendant services, including a sitter or companion.
+(53) Housekeeping, homemaker, or attendant services, including a sitter or companion.
 
-(56) Personal comfort or convenience items, such as beauty and barber services, radio, television, and telephone.
+(54) Personal comfort or convenience items, such as beauty and barber services, radio, television, and telephone.
 
-(57) Smoking cessation services and supplies.
+(55) Megavitamin psychiatric therapy; orthomolecular psychiatric therapy.
 
-(58) Megavitamin psychiatric therapy; orthomolecular psychiatric therapy.
+(56) All transportation except for specialized transportation with life sustaining equipment, when medically required for the treatment of a covered condition.
 
-(59) All transportation except for specialized transportation with life sustaining equipment, when medically required for the treatment of a covered condition.
+(57) Unless a waiver for extended coverage is granted in advance: Inpatient mental health services in excess of 30 days in any calendar year (or in an admission), in the case of a patient 19 years of age or older; 45 days in any calendar year (or in an admission), in the case of a patient under 19 years of age; or 150 days of residential treatment care in any calendar year (or in an admission).
 
-(60) Inpatient mental health services in excess of 30 days in any fiscal year (or in an admission), in the case of a patient nineteen years of age or older; 45 days in any fiscal year (or in an admission), in the case of a patient under 19 years of age; or 150 days of residential treatment care in any fiscal year (or in an admission) unless a waiver for extended coverage is granted in advance.
+(58) Outpatient mental health services in excess of 23 visits in a calendar year unless a waiver for extended coverage is granted in advance.
 
-(61) Outpatient mental health services in excess of 23 visits in a fiscal year unless a waiver for extended coverage is granted in advance.
+(59) Institutional services for partial hospitalization in excess of 60 treatment days in any calendar year (or in an admission) unless a waiver for extended coverage is granted in advance.
 
-(62) Institutional services for partial hospitalization in excess of 60 treatment days in any fiscal year (or in an admission) unless a waiver for extended coverage is granted in advance.
+(60) Detoxification in a hospital setting or rehabilitation facility in excess of seven days.
 
-(63) Detoxification in a hospital setting or rehabilitation facility in excess of seven days.
+(61) Outpatient substance abuse services in excess of 60 visits during a benefit period. A benefit period begins with the first date of covered service and ends 365 days later.
 
-(64) Outpatient substance abuse services in excess of 60 visits during a benefit period. A benefit period begins with the first date of covered service and ends 365 days later.
+(62) Family therapy for substance abuse in excess of 15 visits during a benefit period. A benefit period begins with the first date of covered service and ends 365 days later.
 
-(65) Family therapy for substance abuse in excess of 15 visits during a benefit period. A benefit period begins with the first date of covered service and ends 365 days later.
+(63) Services that are provided to a beneficiary who is referred to a provider of such services by a provider who has an economic interest in the facility to which the patient is referred, unless a waiver is granted.
 
-(66) Services that are provided to a beneficiary who is referred to a provider of such services by a provider who has an economic interest in the facility to which the patient is referred, unless a waiver is granted.
+(64) Abortion except when a physician certifies that the life of the mother would be endangered if the fetus were carried to term.
 
-(67) Abortion except when a physician certifies that the life of the mother would be endangered if the fetus were carried to term.
+(65) Abortion counseling.
 
-(68) Abortion counseling.
+(66) Aversion therapy.
 
-(69) Aversion therapy.
+(67) Rental or purchase of biofeedback equipment.
 
-(70) Rental or purchase of biofeedback equipment.
+(68) Biofeedback therapy for treatment of ordinary muscle tension states (including tension headaches) or for psychosomatic conditions.
 
-(71) Biofeedback therapy for treatment of ordinary muscle tension states (including tension headaches) or for psychosomatic conditions.
+(69) Immunotherapy for malignant diseases except for treatment of Stage O and Stage A carcinoma of the bladder.
 
-(72) Drug maintenance programs where one addictive drug is substituted for another, such as methadone substituted for heroin.
+(70) Services and supplies provided by other than a hospital, such as nonskilled nursing homes, intermediate care facilities, halfway houses, homes for the aged, or other institutions of similar purpose.
 
-(73) Immunotherapy for malignant diseases except for treatment of Stage O and Stage A carcinoma of the bladder.
+(71) Services performed when the patient is not physically present.
 
-(74) Services and supplies provided by other than a hospital, such as nonskilled nursing homes, intermediate care facilities, halfway houses, homes for the aged, or other institutions of similar purpose.
+(72) Medical photography.
 
-(75) Services performed when the patient is not physically present.
+(73) Special tutoring.
 
-(76) Medical photography.
+(74) Surgery for psychological reasons.
 
-(77) Special tutoring.
+(75) Treatment of premenstrual syndrome (PMS).
 
-(78) Surgery for psychological reasons.
+(76) Over-the-counter products except for pharmaceutical smoking cessation supplies that are approved by the U.S. Food and Drug Administration, prescribed, and provided through MbM, and insulin and related diabetic testing supplies and syringes.
 
-(79) Treatment of premenstrual syndrome (PMS).
+(77) Thermography.
 
-(80) Medications not requiring a prescription, except for insulin and related diabetic testing supplies and syringes.
+(78) Removal of tattoos.
 
-(81) Thermography.
+(79) Penile implant/testicular prosthesis procedures and related supplies for psychological impotence.
 
-(82) Removal of tattoos.
+(80) Dermabrasion of the face except in those cases where coverage has been authorized for reconstructive or plastic surgery required to restore body form following an accidental injury or to revise disfiguring and extensive scars resulting from neoplastic surgery.
 
-(83) Penile implant/testicular prosthesis procedures and related supplies for psychological impotence.
+(81) Chemical peeling for facial wrinkles.
 
-(84) Dermabrasion of the face except in those cases where coverage has been authorized for reconstructive or plastic surgery required to restore body form following an accidental injury or to revise disfiguring and extensive scars resulting from neoplastic surgery.
+(82) Panniculectomy, body sculpting procedures.
 
-(85) Chemical peeling for facial wrinkles.
+(83) Medications not approved by the U.S. Food and Drug Administration (FDA), excluding FDA exceptions to the approval requirement.
 
-(86) Panniculectomy, body sculpting procedures.
+(84) Services and supplies related to the treatment of dyslexia.
 
-(b) CHAMPVA-determined allowable amount.
+(b) Costs of services and supplies to the extent such amounts are billed over the CHAMPVA determined allowable amount are specifically excluded from coverage.
 
-(1) The term allowable amount is the maximum CHAMPVA-determined level of payment to a hospital or other authorized institutional provider, a physician or other authorized individual professional provider, or other authorized provider for covered services. The CHAMPVA-allowable amount is determined prior to cost sharing and the application of deductibles and/or other health insurance.
+(1) The CHAMPVA determined allowable amount is the maximum level of payment by CHAMPVA to an authorized non-VA provider for the provision of CHAMPVA-covered services and supplies to a CHAMPVA beneficiary. The CHAMPVA determined allowable amount is determined before consideration of cost sharing and the application of deductibles or OHI.
 
-(2) A Medicare-participating hospital must accept the CHAMPVA-determined allowable amount for inpatient services as payment-in-full. (Reference 42 CFR parts 489 and 1003).
+(2) A Medicare-participating hospital must accept the CHAMPVA determined allowable amount for inpatient services provided to a CHAMPVA beneficiary as payment in full. See 42 CFR 489.25.
 
-(3) An authorized provider of covered medical services or supplies must accept the CHAMPVA-determined allowable amount as payment-in-full.
+(3) An authorized non-VA provider who accepts responsibility for the care of a CHAMPVA beneficiary thereby agrees to accept the CHAMPVA determined allowable amount as full payment for services and supplies rendered to the beneficiary (*i.e.,* accepted assignment). The provider's acceptance of the CHAMPVA determined allowable amount extinguishes the beneficiary's payment liability to the provider. Any attempts to collect any additional amount from the CHAMPVA beneficiary may result in the provider being excluded from Federal benefits programs. See 42 CFR 1003.105.
 
-(4) A provider who has collected and not made appropriate refund, or attempts to collect from the beneficiary, any amount in excess of the CHAMPVA-determined allowable amount may be subject to exclusion from Federal benefit programs.
-
-(Authority: 38 U.S.C. 501, 1781)[63 FR 48102, Sept. 9, 1998, as amended at 67 FR 4359, Jan. 30, 2002; 73 FR 65553, Nov. 4, 2008]
+[63 FR 48102, Sept. 9, 1998, as amended at 67 FR 4359, Jan. 30, 2002; 73 FR 65553, Nov. 4, 2008; 87 FR 41600, July 13, 2022]

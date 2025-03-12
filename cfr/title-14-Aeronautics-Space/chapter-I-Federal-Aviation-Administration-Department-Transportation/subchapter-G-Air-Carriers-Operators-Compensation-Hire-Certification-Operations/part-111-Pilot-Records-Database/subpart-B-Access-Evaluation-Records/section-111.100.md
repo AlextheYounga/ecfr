@@ -8,6 +8,6 @@
 
 (3) Each operator that holds a letter of authorization to conduct air tour operations in accordance with § 91.147 of this chapter.
 
-(b) Compliance with this subpart is required beginning June 10, 2022, except compliance with § 111.105(b)(1) is required beginning December 7, 2021.
+(b) If an operator described in § 111.1(b)(4) or an entity described in § 111.1(b)(5) accesses the PRD to review records in accordance with this subpart, the operator or entity must comply with § 111.120.
 
-(c) If an operator described in § 111.1(b)(4) or an entity described in § 111.1(b)(5) accesses the PRD to review records in accordance with this subpart, the operator or entity must comply with § 111.120.
+[86 FR 31060, June 10, 2021, as amended at 86 FR 31067, June 10, 2021]

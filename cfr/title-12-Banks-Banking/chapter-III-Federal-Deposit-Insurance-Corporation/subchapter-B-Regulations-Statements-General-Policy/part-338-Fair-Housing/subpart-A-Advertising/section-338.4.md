@@ -20,7 +20,7 @@ For processing under the Federal Fair Housing Act
 
 AND TO:
 
-Federal Deposit Insurance Corporation, National Center for Consumer and Deposit Assistance, *https://ask.fdic.gov/fdicinformationandsupportcenter.*
+Federal Deposit Insurance Corporation, National Center for Consumer and Depositor Assistance, *https://ask.fdic.gov/fdicinformationandsupportcenter.*
 
 For processing under the FDIC Regulations.
 
@@ -34,8 +34,8 @@ UNDER THE EQUAL CREDIT OPPORTUNITY ACT, IT IS ILLEGAL TO DISCRIMINATE IN ANY CRE
 
 IF YOU BELIEVE YOU HAVE BEEN DISCRIMINATED AGAINST, YOU SHOULD SEND A COMPLAINT TO:
 
-Federal Deposit Insurance Corporation, National Center for Consumer and Deposit Assistance, *https://ask.fdic.gov/fdicinformationandsupportcenter.*
+Federal Deposit Insurance Corporation, National Center for Consumer and Depositor Assistance, *https://ask.fdic.gov/fdicinformationandsupportcenter.*
 
 (c) The Equal Housing Lender Poster specified in this section was adopted under 24 CFR 110.25(b) of the United States Department of Housing and Urban Development's rules and regulations as an authorized substitution for the poster required in § 110.25(a) of those rules and regulations.
 
-[86 FR 8088, Feb. 3, 2021, as amended at 87 FR 48079, Aug. 8, 2022]
+[86 FR 8088, Feb. 3, 2021, as amended at 87 FR 48079, Aug. 8, 2022; 87 FR 49767, Aug. 12, 2022]

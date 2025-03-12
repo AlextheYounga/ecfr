@@ -1,6 +1,8 @@
 ##### § 111.10 Definitions. #####
 
-For purposes of this part, the term -
+Link to an amendment published at 86 FR 31067, June 10, 2021.
+
+For purposes of this part, the term—
 
 *Authorized user* means an individual who is employed by an operator, entity, or trustee and who is designated by a responsible person to access the PRD on behalf of the employer for purposes of reporting and evaluating records that pertain to an individual pilot applicant.
 

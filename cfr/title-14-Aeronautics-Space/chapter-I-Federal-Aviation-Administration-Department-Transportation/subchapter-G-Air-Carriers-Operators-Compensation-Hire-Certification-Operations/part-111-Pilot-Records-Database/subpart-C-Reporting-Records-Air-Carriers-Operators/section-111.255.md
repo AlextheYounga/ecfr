@@ -1,5 +1,7 @@
 ##### § 111.255 Reporting historical records to PRD. #####
 
+Link to an amendment published at 86 FR 31067, June 10, 2021.
+
 (a) Each operator that holds an air carrier certificate issued in accordance with part 119 of this chapter and is authorized to conduct operations under part 121 or part 135 of this chapter must report to the PRD all historical records kept in accordance with PRIA dating from August 1, 2005 until June 10, 2022, in a form and manner prescribed by the Administrator.
 
 (b) Each operator that holds an operating certificate issued in accordance with part 119 of this chapter and is authorized to conduct operations under part 121, 125, or 135 of this chapter or that holds management specifications to operate in accordance with subpart K of part 91 of this chapter must report to the PRD all historical records kept in accordance with PRIA dating from August 1, 2010, until June 10, 2022, in a form and manner prescribed by the Administrator.

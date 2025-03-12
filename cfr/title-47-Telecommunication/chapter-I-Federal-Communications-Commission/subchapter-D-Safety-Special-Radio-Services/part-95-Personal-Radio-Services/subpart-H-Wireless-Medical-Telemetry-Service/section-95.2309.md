@@ -1,7 +1,5 @@
 ##### § 95.2309 WMTS frequency coordination. #####
 
-Link to an amendment published at 84 FR 34799, July 19, 2019.
-
 Operation of WMTS devices is subject to the frequency coordination procedures in this section.
 
 (a) *Frequency coordinators.* The FCC designates one or more frequency coordinators to manage WMTS use of the frequency bands designated for the operation of WMTS devices.
@@ -44,7 +42,7 @@ Operation of WMTS devices is subject to the frequency coordination procedures in
 
 (7) Contact information for the authorized health care provider (*e.g.,* name, title, office address, telephone number, fax number, email address).
 
-(f) *Specific requirements for WMTS devices in the 608-614 MHz frequency band.* For a wireless medical telemetry device operating within the frequency range 608-614 MHz that will be located near the radio astronomy observatories listed below, operation is not permitted until a WMTS frequency coordinator referenced in § 95.2309 has coordinated with, and obtained the written concurrence of, the director of the affected radio astronomy observatory before the equipment can be installed or operated -
+(f) *Specific requirements for WMTS devices in the 608-614 MHz frequency band.* For a wireless medical telemetry device operating within the frequency range 608-614 MHz that will be located near the radio astronomy observatories listed below, operation is not permitted until a WMTS frequency coordinator referenced in § 95.2309 has coordinated with, and obtained the written concurrence of, the director of the affected radio astronomy observatory before the equipment can be installed or operated—
 
 (1) Within 80 kilometers of:
 
@@ -73,4 +71,6 @@ Operation of WMTS devices is subject to the frequency coordination procedures in
 
 (g) *Specific requirements for WMTS devices in the 1395-1400 and 1427-1432 MHz bands.* Due to the critical nature of communications transmitted under this part, the frequency coordinator in consultation with the National Telecommunications and Information Administration will determine whether there are any Federal Government systems whose operations could affect, or could be affected by, proposed WMTS operations in the 1395-1400 MHz and 1427-1432 MHz bands. The locations of government systems in these bands are specified in footnotes US351 and US352 of § 2.106 of this chapter.
 
-[82 FR 41104, Aug. 29, 2017, as amended at 85 FR 38740, June 26, 2020]
+(h) *Obtaining interference protection.* To receive interference protection, parties operating WMTS networks in the 608-614 MHz frequency band shall notify one of the white space database administrators of their operating location pursuant to §§ 15.713(j)(11) and 15.715(p) of this chapter.
+
+[82 FR 41104, Aug. 29, 2017, as amended at 85 FR 38740, June 26, 2020; 84 FR 34799, July 19, 219]

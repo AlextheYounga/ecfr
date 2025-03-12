@@ -1,5 +1,7 @@
 ##### § 111.215 Method of reporting. #####
 
+Link to an amendment published at 86 FR 31067, June 10, 2021.
+
 (a) Except as provided in paragraph (b) of this section of this part, all records created on or after June 10, 2022, and required to be reported to the PRD under this subpart must be reported within 30 days of the effective date of the record, or within 30 days of the record becoming final when the record is a disciplinary action record or a separation from employment record.
 
 (b) Each operator conducting an operation described in § 111.1(b)(4), entity conducting a public aircraft operation, operator conducting an air tour operation under § 91.147, or a trustee for such an operator or entity must either comply with paragraph (a) of this section or report and retain pilot records in accordance with all requirements of this paragraph.
