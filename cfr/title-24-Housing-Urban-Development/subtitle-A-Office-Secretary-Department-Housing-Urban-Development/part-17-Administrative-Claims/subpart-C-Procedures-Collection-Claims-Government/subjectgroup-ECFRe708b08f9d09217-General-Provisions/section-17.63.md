@@ -1,5 +1,7 @@
 ##### § 17.63 Definitions. #####
 
+Link to an amendment published at 87 FR 8196, Feb. 14, 2022.
+
 As used in this subpart:
 
 *Department or HUD* means the Department of Housing and Urban Development, and includes a person authorized to act for HUD.

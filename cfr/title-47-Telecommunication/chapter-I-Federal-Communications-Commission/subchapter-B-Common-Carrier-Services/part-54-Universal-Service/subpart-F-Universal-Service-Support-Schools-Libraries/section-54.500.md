@@ -1,5 +1,7 @@
 ##### § 54.500 Terms and definitions. #####
 
+Link to an amendment published at 87 FR 8210, Feb. 14, 2022.
+
 *Basic maintenance.* A service is eligible for support as a “basic maintenance” service if, but for the maintenance at issue, the internal connection would not function and serve its intended purpose with the degree of reliability ordinarily provided in the marketplace to entities receiving such services. Basic maintenance services do not include services that maintain equipment that is not supported by E-rate or that enhance the utility of equipment beyond the transport of information, or diagnostic services in excess of those necessary to maintain the equipment's ability to transport information.
 
 *Billed entity.* A “billed entity” is the entity that remits payment to service providers for services rendered to eligible schools and libraries.

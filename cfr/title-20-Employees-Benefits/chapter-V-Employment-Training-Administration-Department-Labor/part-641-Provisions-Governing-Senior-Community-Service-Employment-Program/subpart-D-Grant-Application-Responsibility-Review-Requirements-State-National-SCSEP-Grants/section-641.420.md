@@ -1,5 +1,7 @@
 ##### § 641.420 What are the eligibility criteria that each applicant must meet? #####
 
+Link to an amendment published at 87 FR 8189, Feb. 14, 2022.
+
 To be eligible to receive SCSEP funds, each applicant must demonstrate:
 
 (a) An ability to administer a program that serves the greatest number of eligible participants, giving particular consideration to individuals with greatest economic need, individuals with greatest social need, and individuals described in § 641.570(b) or § 641.520(a)(2) through (a)(8).

@@ -1,5 +1,7 @@
 ##### § 944.31 Avocado import maturity regulation. #####
 
+Link to an amendment published at 87 FR 8143, Feb. 14, 2022.
+
 (a) Pursuant to section 8e [7 U.S.C. 608e-1] of the Agricultural Marketing Agreement Act of 1937, as amended [7 U.S.C 601-674], and Part 944 - Fruits; Import Regulations, the importation into the United States of any avocados, except the Hass, Fuerte, Zutano, and Edranol varieties, is prohibited unless:
 
 (1) Any portion of the skin of the individual avocados has changed to the color normal for that fruit when mature for those varieties which normally change color to any shade of red or purple when mature, except for the Linda variety; or

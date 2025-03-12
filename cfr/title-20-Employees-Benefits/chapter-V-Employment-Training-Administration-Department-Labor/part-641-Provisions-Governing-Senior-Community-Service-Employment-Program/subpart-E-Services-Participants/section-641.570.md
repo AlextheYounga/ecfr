@@ -1,5 +1,7 @@
 ##### § 641.570 Is there a time limit for participation in the program? #####
 
+Link to an amendment published at 87 FR 8190, Feb. 14, 2022.
+
 (a) *Individual time limit.* (1) Eligible individuals may participate in the program for a maximum duration of 48 months in the aggregate (whether or not consecutive), from the later of July 1, 2007, or the date of the individual's enrollment in the program.
 
 (2) At the time of enrollment, the grantee or sub-recipient must inform the participant of this time limit and the possible extension available under paragraph (b) of this section, and the grantee or sub-recipient must provide for a system to transition participants to unsubsidized employment or other assistance before the maximum enrollment duration has expired. Provisions for transition must be reflected in the participant's IEP.

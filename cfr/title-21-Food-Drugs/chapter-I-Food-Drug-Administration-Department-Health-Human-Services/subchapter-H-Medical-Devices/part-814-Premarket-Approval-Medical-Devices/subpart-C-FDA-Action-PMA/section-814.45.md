@@ -1,7 +1,5 @@
 ##### § 814.45 Denial of approval of a PMA. #####
 
-Link to an amendment published at 87 FR 2045, Jan. 13, 2022.
-
 (a) FDA may issue an order denying approval of a PMA if the applicant fails to follow the requirements of this part or if, upon the basis of the information submitted in the PMA or any other information before the agency, FDA determines that any of the grounds for denying approval of a PMA specified in section 515(d)(2) (A)-(E) of the act applies. In addition, FDA may deny approval of a PMA for any of the following reasons:
 
 (1) The PMA contains a false statement of material fact;
@@ -18,7 +16,7 @@ Link to an amendment published at 87 FR 2045, Jan. 13, 2022.
 
 (c) FDA will use the criteria specified in § 860.7 to determine the safety and effectiveness of a device in deciding whether to approve or deny approval of a PMA. FDA may use information other than that submitted by the applicant in making such determination.
 
-(d)(1) FDA will give the public notice of an order denying approval of the PMA. The notice will be placed on the FDA's home page on the Internet (*http://www.fda.gov*), and it will state that a detailed summary of information respecting the safety and effectiveness of the device, including information about any adverse effects of the device on health, is available on the Internet and has been placed on public display and that copies are available upon request. FDA will publish in the Federal Register after each quarter a list of the denials announced in that quarter. When a notice of denial of approval is made publicly available, data and information in the PMA file will be available for public disclosure in accordance with § 814.9.
+(d)(1) FDA will give the public notice of an order denying approval of the PMA. The notice will be placed on the FDA's home page on the Internet (*http://www.fda.gov*), and it will state that a detailed summary of information respecting the safety and effectiveness of the device, including information about any adverse effects of the device on health, is available on the Internet and has been placed on public display and that copies are available upon request. When a notice of denial of approval is made publicly available, data and information in the PMA file will be available for public disclosure in accordance with § 814.9.
 
 (2) A request for copies of the current PMA approvals and denials document and copies of summaries of safety and effectiveness shall be sent in writing to the Freedom of Information Staff's address listed on the Agency's Web site at *http://www.fda.gov.*
 
@@ -28,6 +26,6 @@ Link to an amendment published at 87 FR 2045, Jan. 13, 2022.
 
 (2) Notifies FDA in writing that the requested amendment will not be submitted; or
 
-(3) Petitions for review under section 515(d)(3) of the act by filing a petition in the form of a petition for reconsideration under § 10.33.
+(3) Petitions for review under section 515(d)(4) of the act by filing a petition in the form of a petition for reconsideration under § 10.33.
 
-[51 FR 26364, July 22, 1986, as amended at 63 FR 4572, Jan. 30, 1998; 73 FR 34859, June 19, 2008; 76 FR 31470, June 1, 2011; 79 FR 68115, Nov. 14, 2014; 83 FR 7387, Feb. 21, 2018]
+[51 FR 26364, July 22, 1986, as amended at 63 FR 4572, Jan. 30, 1998; 73 FR 34859, June 19, 2008; 76 FR 31470, June 1, 2011; 79 FR 68115, Nov. 14, 2014; 83 FR 7387, Feb. 21, 2018; 87 FR 2045, Jan. 13, 2022]

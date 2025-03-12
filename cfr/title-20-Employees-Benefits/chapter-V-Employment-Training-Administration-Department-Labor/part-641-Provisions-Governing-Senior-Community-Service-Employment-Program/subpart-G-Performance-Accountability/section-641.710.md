@@ -1,5 +1,7 @@
 ##### § 641.710 How are the performance measures defined? #####
 
+Link to an amendment published at 87 FR 8190, Feb. 14, 2022.
+
 The core measures are defined as follows:
 
 (a) “Hours of community service employment” is defined as the total number of hours of community service provided by SCSEP participants divided by the number of hours of community service funded by the grantee's grant, after adjusting for differences in minimum wage among the States and areas. Paid training hours are excluded from this measure.

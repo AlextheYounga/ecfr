@@ -1,7 +1,5 @@
 ##### § 622.2 Definitions and acronyms. #####
 
-Link to an amendment published at 87 FR 2357, Jan. 14, 2022.
-
 In addition to the definitions in the Magnuson Act and in § 600.10 of this chapter, and the acronyms in § 600.15 of this chapter, the terms and acronyms used in this part have the following meanings:
 
 *Accountability measure* means a management control implemented such that overfishing is prevented, where possible, and mitigated if it occurs.
@@ -294,8 +292,6 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 
 *Try net,* also called test net, means a net pulled for brief periods by a shrimp trawler to test for shrimp concentrations or determine fishing conditions (*e.g.,* presence or absence of bottom debris, jellyfish, bycatch, sea grasses).
 
-*Venting device* means a device intended to deflate the abdominal cavity of a fish to release the fish with minimum damage.
-
 *Wahoo* means the species *Acanthocybium solandri,* or a part thereof, in the Atlantic.
 
 *Wild fish* means fish that are not propagated or reared by humans.
@@ -304,4 +300,4 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 
 *Wreckfish* means the species *Polyprion americanus,* or a part thereof, one of the South Atlantic snapper-grouper species.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 78775, Dec. 27, 2013; 79 FR 19493, Apr. 9, 2014; 80 FR 4218, Jan. 27, 2015; 81 FR 1792, Jan. 13, 2016; 82 FR 34580, July 25, 2017; 85 FR 6823, Feb. 6, 2020]
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 78775, Dec. 27, 2013; 79 FR 19493, Apr. 9, 2014; 80 FR 4218, Jan. 27, 2015; 81 FR 1792, Jan. 13, 2016; 82 FR 34580, July 25, 2017; 85 FR 6823, Feb. 6, 2020; 87 FR 2357, Jan. 14, 2022]

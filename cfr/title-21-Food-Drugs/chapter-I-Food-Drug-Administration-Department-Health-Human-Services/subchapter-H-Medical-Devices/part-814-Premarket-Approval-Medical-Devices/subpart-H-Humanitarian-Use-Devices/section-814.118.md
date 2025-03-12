@@ -1,7 +1,5 @@
 ##### § 814.118 Denial of approval or withdrawal of approval of an HDE. #####
 
-Link to an amendment published at 87 FR 2045, Jan. 13, 2022.
-
 (a) FDA may deny approval or withdraw approval of an application if the applicant fails to meet the requirements of section 520(m) of the act or of this part, or of any condition of approval imposed by an IRB or by FDA, or any postapproval requirements imposed under § 814.126. In addition, FDA may deny approval or withdraw approval of an application if, upon the basis of the information submitted in the HDE or any other information before the agency, FDA determines that:
 
 (1) There is a lack of a showing of reasonable assurance that the device is safe under the conditions of use prescribed, recommended, or suggested in the labeling thereof;
@@ -30,8 +28,8 @@ Link to an amendment published at 87 FR 2045, Jan. 13, 2022.
 
 (2) Notifies FDA in writing that the requested amendment will not be submitted; or
 
-(3) Petitions for review under section 515(d)(3) of the act by filing a petition in the form of a petition for reconsideration under § 10.33 of this chapter.
+(3) Petitions for review under section 515(d)(4) of the act by filing a petition in the form of a petition for reconsideration under § 10.33 of this chapter.
 
 (d) Before issuing an order withdrawing approval of an HDE, FDA will provide the applicant with notice and an opportunity for a hearing as required for PMA's under § 814.46(c) and (d), and will provide the public with notice in accordance with § 814.46(e), as applicable.
 
-[61 FR 33244, June 26, 1996, as amended at 63 FR 59221, Nov. 3, 1998]
+[61 FR 33244, June 26, 1996, as amended at 63 FR 59221, Nov. 3, 1998; 87 FR 2045, Jan. 13, 2022]

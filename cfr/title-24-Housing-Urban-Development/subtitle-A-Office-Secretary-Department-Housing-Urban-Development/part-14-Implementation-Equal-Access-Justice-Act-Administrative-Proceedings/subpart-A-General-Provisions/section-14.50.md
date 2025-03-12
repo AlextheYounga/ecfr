@@ -1,5 +1,7 @@
 ##### § 14.50 Definitions. #####
 
+Link to an amendment published at 87 FR 8196, Feb. 14, 2022.
+
 *Act.* The Equal Access to Justice Act, 5 U.S.C. 504, title II of Pub. L. 96-481, as amended by Pub. L. 99-80.
 
 *Adjudicative officer.* The hearing examiner, administrative law judge, administrative judge of the HUD Office of Appeals, or other officer designated by the Secretary or other responsible Department official, who presided at the adversary adjudication.

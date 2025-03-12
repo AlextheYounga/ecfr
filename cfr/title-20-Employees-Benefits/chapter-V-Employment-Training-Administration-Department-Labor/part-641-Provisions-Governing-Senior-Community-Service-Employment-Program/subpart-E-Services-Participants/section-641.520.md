@@ -1,5 +1,7 @@
 ##### § 641.520 Are there any priorities that grantees and sub-recipients must use in selecting eligible individuals for participation in the SCSEP? #####
 
+Link to an amendment published at 87 FR 8190, Feb. 14, 2022.
+
 (a) Yes, in selecting eligible individuals for participation in the SCSEP, priority must be given to individuals who have one or more of the following characteristics:
 
 (1) Are 65 years of age or older;

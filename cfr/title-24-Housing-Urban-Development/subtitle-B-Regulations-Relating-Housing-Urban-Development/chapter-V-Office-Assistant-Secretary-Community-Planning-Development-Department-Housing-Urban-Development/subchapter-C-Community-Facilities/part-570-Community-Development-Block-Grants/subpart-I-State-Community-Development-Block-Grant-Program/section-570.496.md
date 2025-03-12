@@ -1,5 +1,7 @@
 ##### § 570.496 Remedies for noncompliance; opportunity for hearing. #####
 
+Link to an amendment published at 87 FR 8197, Feb. 14, 2022.
+
 (a) *General.* Action pursuant to this section will be taken only after at least one of the corrective or remedial actions specified in § 570.495 has been taken, and only then if the State or unit of general local government has not made an appropriate or timely response.
 
 (b) *Remedies.* (1) If HUD finds after reasonable notice and opportunity for hearing that a State or unit of general local government has failed to comply with any provision of this subpart, until HUD is satisfied that there is no longer failure to comply, HUD shall:

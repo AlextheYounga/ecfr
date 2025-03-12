@@ -1,5 +1,7 @@
 ##### § 641.325 What information must be provided in the State Plan? #####
 
+Link to an amendment published at 87 FR 8189, Feb. 14, 2022.
+
 The Department issues instructions detailing the information that must be provided in the State Plan. At a minimum, the State Plan must include the State's four-year strategy, as described in § 641.302, and information on the following:
 
 (a) The ratio of eligible individuals in each service area to the total eligible population in the State;

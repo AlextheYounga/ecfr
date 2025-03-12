@@ -1,5 +1,7 @@
 ##### § 915.332 Florida avocado maturity regulation. #####
 
+Link to an amendment published at 87 FR 8143, Feb. 14, 2022.
+
 (a) No handler shall handle any variety of avocados, except Hass, Fuerte, Zutano, and Edranol, grown in the production area unless:
 
 (1) Any portion of the skin of the individual avocados has changed to the color normal for that fruit when mature for those varieties which normally change color to any shade of red or purple when mature, except for the Linda variety; or

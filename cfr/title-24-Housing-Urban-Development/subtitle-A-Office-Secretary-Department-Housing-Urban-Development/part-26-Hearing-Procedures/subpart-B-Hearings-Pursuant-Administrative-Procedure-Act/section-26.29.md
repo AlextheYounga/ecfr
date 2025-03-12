@@ -1,5 +1,7 @@
 ##### § 26.29 Definitions. #####
 
+Link to an amendment published at 87 FR 8196, Feb. 14, 2022.
+
 The following definitions apply to subpart B of this part:
 
 *Complaint* means the notice from HUD alleging violations of a HUD statute and/or regulation, citing the legal authority upon which it is issued, stating the relief HUD seeks, and informing a respondent of his or her right to submit a response to a designated office and to request an opportunity for a hearing before an Administrative Law Judge.

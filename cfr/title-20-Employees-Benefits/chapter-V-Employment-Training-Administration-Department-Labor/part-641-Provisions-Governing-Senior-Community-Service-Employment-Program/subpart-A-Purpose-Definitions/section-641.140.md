@@ -1,5 +1,7 @@
 ##### § 641.140 What definitions apply to this part? #####
 
+Link to an amendment published at 87 FR 8189, Feb. 14, 2022.
+
 The following definitions apply to this part:
 
 *At risk for homelessness* means an individual is likely to become homeless and the individual lacks the resources and support networks needed to obtain housing.
