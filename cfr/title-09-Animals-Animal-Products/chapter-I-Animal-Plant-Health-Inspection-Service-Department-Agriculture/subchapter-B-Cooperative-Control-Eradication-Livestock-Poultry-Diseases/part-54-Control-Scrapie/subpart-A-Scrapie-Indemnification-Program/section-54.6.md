@@ -1,5 +1,7 @@
 ##### § 54.6 Amount of indemnity payments. #####
 
+Link to an amendment published at 84 FR 11183, Mar. 25, 2019.
+
 (a) Indemnity paid for sheep in accordance with § 54.3 will be set based on the following price reports published by the Agricultural Marketing Service (AMS). If pricing information is unavailable from these markets during a given week or month or if the numbers of animals sold are too low to give an accurate market value, the preceding week or month's value will be used. The AMS reports from the most recent week or month prior to the date APHIS offers to pay an owner indemnity shall be used to calculate the indemnity for that owner's sheep:
 
 (1) The weekly weighted average Choice/Prime slaughter lamb price per pound at Greeley, CO;

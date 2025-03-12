@@ -1,5 +1,7 @@
 ##### § 54.7 Procedures for destruction of animals. #####
 
+Link to an amendment published at 84 FR 11183, Mar. 25, 2019.
+
 (a) Scrapie-positive and suspect animals for which indemnification is sought must be destroyed on the premises where they are held, pastured, or penned at the time indemnity is approved or moved to an approved research facility, unless the APHIS representative involved approves in advance of destruction moving the animals to another location for destruction. Animals that are not scrapie-positive or suspect animals for which indemnification is sought may be:
 
 (1) Slaughtered when moved in accordance with part 79 of this chapter and with the prior written approval of the APHIS representative involved;

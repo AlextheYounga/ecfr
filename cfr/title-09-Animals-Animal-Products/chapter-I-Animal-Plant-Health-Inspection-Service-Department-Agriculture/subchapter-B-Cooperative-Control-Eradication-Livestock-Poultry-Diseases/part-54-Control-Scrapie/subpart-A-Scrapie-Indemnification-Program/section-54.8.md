@@ -1,5 +1,7 @@
 ##### § 54.8 Requirements for flock plans and post-exposure management and monitoring plans. #####
 
+Link to an amendment published at 84 FR 11183, Mar. 25, 2019.
+
 (a) The owner of the flock or his or her agent must identify all animals 1 year of age or over within the flock. All animals less than 1 year of age must be identified when a change of ownership occurs, with the exception of those animals under 1 year of age moving within slaughter channels that must be identified in accordance with §§ 79.2 and 79.3 of this chapter. The form of identification must be an electronic implant, flank tattoo, ear tattoo, or tamper-resistant ear tag approved for this use by APHIS. In the case of goats, the form of identification may alternatively be a tail fold tattoo. The official identification must provide a unique identification number that is applied by the owner of the flock or his or her agent and must be linked to that flock in the National Scrapie Database.
 
 (b) Upon request by a State or APHIS representative, the owner of the flock or his or her agent must have an accredited veterinarian collect tissues from animals for scrapie diagnostic purposes and submit them to a laboratory designated by a State or APHIS representative.

@@ -1,5 +1,7 @@
 ##### § 54.11 Approval of laboratories to run official scrapie tests and official genotype tests. #####
 
+Link to an amendment published at 84 FR 11185, Mar. 25, 2019.
+
 (a) State, Federal, and university laboratories, or in the case of genotype tests, private laboratories will be approved by the Administrator when he or she determines that the laboratory:
 
 (1) Employs personnel assigned to supervise the testing who are qualified to conduct the test based on education, training, and experience and who have been trained by the National Veterinary Services Laboratories (NVSL) or who have completed equivalent training approved by NVSL;

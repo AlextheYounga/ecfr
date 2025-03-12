@@ -1,5 +1,7 @@
 ##### § 79.6 Standards for States to qualify as Consistent States. #####
 
+Link to an amendment published at 84 FR 11196, Mar. 25, 2019.
+
 (a) In reviewing a State for Consistent State status, the Administrator will evaluate the State statutes, regulations, and directives pertaining to animal health activities; reports and publications of the State animal health agency; and a written statement from the State animal health agency describing State scrapie control activities and certifying that these activities meet the requirements of this section. In determining whether a State is a Consistent State, the Administrator will determine whether the State:
 
 (1) Has the authority, based on State law or regulation, to restrict the movement of all scrapie-infected and source flocks.

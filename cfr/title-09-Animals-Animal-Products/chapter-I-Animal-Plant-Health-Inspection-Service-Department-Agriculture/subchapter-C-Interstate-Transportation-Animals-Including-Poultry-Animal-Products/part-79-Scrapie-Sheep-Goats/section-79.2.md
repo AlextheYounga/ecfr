@@ -1,5 +1,7 @@
 ##### § 79.2 Identification of sheep and goats in interstate commerce. #####
 
+Link to an amendment published at 84 FR 11189, Mar. 25, 2019.
+
 (a) No sheep or goat that is required to be individually identified or premises identified by § 79.3 may be sold, transported, received for transportation, or offered for sale or transportation in interstate commerce unless each sheep or goat is identified in accordance with this section.
 
 (1) The sheep or goat must be identified to its flock of origin and, for an animal born after January 1, 2002, to its flock of birth, by the owner of the flock or his or her agent; at whichever of the following points in commerce comes first, *Except that;* animals born after January 1, 2002, may be moved interstate direct to slaughter without identification to flock of birth until June 1, 2003, and animals that cannot be identified to their flock of origin because Consistent States have exempted them from flock of origin identification in intrastate commerce in accordance with § 79.6(a)(10)(i) may be moved interstate with only individual animal identification traceable to the State of origin and to the owner of the animals at the time they were so identified:

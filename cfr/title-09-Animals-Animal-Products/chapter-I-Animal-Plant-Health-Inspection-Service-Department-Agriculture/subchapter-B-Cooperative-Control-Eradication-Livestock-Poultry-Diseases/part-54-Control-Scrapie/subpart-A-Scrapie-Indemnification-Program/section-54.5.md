@@ -1,5 +1,7 @@
 ##### § 54.5 Certification by owners. #####
 
+Link to an amendment published at 84 FR 11183, Mar. 25, 2019.
+
 Before any indemnity is paid to an owner, the owner must sign a written agreement with APHIS, certifying the following:
 
 (a) The owner will make available for review upon request by a State or APHIS representative all bills of sale, pedigree registration certificates, and other records regarding movement of animals into and from the flock;

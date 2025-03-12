@@ -1,5 +1,7 @@
 ##### § 54.10 Tests for scrapie. #####
 
+Link to an amendment published at 84 FR 11185, Mar. 25, 2019.
+
 (a) The Administrator may approve new tests for the diagnosis of scrapie conducted on live or dead animals for use in the Scrapie Eradication Program. The Administrator will base the approval or disapproval of a test on the evaluation by APHIS and, when appropriate, outside scientists, of:
 
 (1) A standardized test protocol that must include a description of the test, a description of the reagents, materials, and equipment used for the test, the test methodology, and any control or quality assurance procedures;

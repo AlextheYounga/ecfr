@@ -1,5 +1,7 @@
 ##### § 79.3 General restrictions. #####
 
+Link to an amendment published at 84 FR 11193, Mar. 25, 2019.
+
 The following prohibitions and movement conditions apply to the interstate movement of sheep and goats, and no sheep or goat may move interstate except in compliance with them.
 
 Interstate Movement General Restrictions for Sheep and Goats

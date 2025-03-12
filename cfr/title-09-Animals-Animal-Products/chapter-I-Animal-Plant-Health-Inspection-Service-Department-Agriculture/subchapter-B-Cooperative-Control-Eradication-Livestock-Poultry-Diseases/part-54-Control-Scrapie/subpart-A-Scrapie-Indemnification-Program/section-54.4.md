@@ -1,5 +1,7 @@
 ##### § 54.4 Application by owners for indemnity payments. #####
 
+Link to an amendment published at 84 FR 11182, Mar. 25, 2019.
+
 (a) Normally, an application for indemnification will be initiated by a State or APHIS representative who is working with the owner of a flock that has already been determined to be an infected flock or source flock, or that is already under a State movement restriction. In such cases, the flock owner will confirm information about the flock's eligibility for indemnity that is contained in the application submitted by the State or APHIS representative. However, the owner of any flock may apply directly to receive indemnification by submitting to the Administrator a written request containing the following information:
 
 (1) Name, address, and social security number of the flock owner;

@@ -1,5 +1,7 @@
 ##### § 54.3 Animals eligible for indemnity payments. #####
 
+Link to an amendment published at 84 FR 11182, Mar. 25, 2019.
+
 (a) Indemnity may be paid for an animal only after the owner of the animal has applied for indemnification and been approved in accordance with § 54.4. Indemnity may be paid only for the following:
 
 (1) Destruction of high-risk animals;

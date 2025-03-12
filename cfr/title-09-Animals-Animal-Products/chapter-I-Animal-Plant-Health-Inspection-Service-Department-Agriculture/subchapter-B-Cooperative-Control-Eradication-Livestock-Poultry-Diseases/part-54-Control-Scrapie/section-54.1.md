@@ -1,5 +1,7 @@
 ##### § 54.1 Definitions. #####
 
+Link to an amendment published at 84 FR 11179, Mar. 25, 2019.
+
 *Accredited veterinarian.* A veterinarian approved by the Administrator in accordance with part 161 of this chapter to perform functions specified in subchapters B, C, and D of this chapter.
 
 *Administrator.* The Administrator of the Animal and Plant Health Inspection Service or any employee of the United States Department of Agriculture authorized to act for the Administrator.

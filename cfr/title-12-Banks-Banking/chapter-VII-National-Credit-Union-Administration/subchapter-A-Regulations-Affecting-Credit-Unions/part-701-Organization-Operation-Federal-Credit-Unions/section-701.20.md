@@ -1,5 +1,7 @@
 ##### § 701.20 Suretyship and guaranty. #####
 
+Link to an amendment published at 84 FR 10975, Mar. 25, 2019.
+
 (a) *Scope.* This section authorizes a federal credit union to enter into a suretyship or guaranty agreement as an incidental powers activity. This section does not apply to the guaranty of public deposits or the assumption of liability for member accounts.
 
 (b) *Definitions.* A *suretyship* binds a federal credit union with its principal to pay or perform an obligation to a third person. Under a *guaranty* agreement, a federal credit union agrees to satisfy the obligation of the principal only if the principal fails to pay or perform. The *principal* is the person primarily liable, for whose performance of his obligation the surety or guarantor has become bound.

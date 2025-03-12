@@ -1232,6 +1232,14 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (B) Requirements of compliance FI.
 
+(*1*) Periodic certification.
+
+(*i*) In general.
+
+(*ii*) Late-joining electing FFIs.
+
+(*2*) Preexisting account certification.
+
 (3) Certification of compliance.
 
 (i) In general.
@@ -1279,6 +1287,10 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 (ii) Block or transfer accounts or obligations.
 
 (j) Effective/applicability date.
+
+(1) In general.
+
+(2) Special applicability date.
 
 § 1.1471-5 Definitions applicable to section 1471.
 
@@ -1516,6 +1528,12 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (iii) Deemed-compliant FFI that is merged or acquired.
 
+(iv) IRS review of compliance by registered deemed-compliant FFIs.
+
+(A) General inquiries.
+
+(B) Inquiries regarding substantial non-compliance.
+
 (2) Certified deemed-compliant FFIs.
 
 (i) Nonregistering local bank.
@@ -1600,9 +1618,91 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (j) Sponsoring entity verification.
 
+(1) In general.
+
+(2) Compliance program.
+
+(3) Certification of compliance.
+
+(i) Certification requirement.
+
+(A) In general.
+
+(B) Extension of time for the certification period ending on December 31, 2017.
+
+(ii) Late-joining sponsored FFIs.
+
+(iii) Certification period.
+
+(iv) Additional certifications or information.
+
+(v) Certifications regarding sponsoring entity and sponsored FFI requirements.
+
+(vi) Certifications regarding internal controls.
+
+(A) Certification of effective internal controls.
+
+(B) Qualified certification.
+
+(vii) Material failures defined.
+
+(4) IRS review of compliance.
+
+(i) General inquiries.
+
+(ii) Inquiries regarding substantial non-compliance.
+
+(iii) Compliance procedures for a sponsored FFI subject to a Model 2 IGA.
+
+(5) Preexisting account certification.
+
+(6) Sponsorship agreement.
+
 (k) Sponsoring entity event of default.
 
-(l) Effective/applicability date.
+(1) Defined.
+
+(2) Notice of event of default.
+
+(3) Remediation of event of default.
+
+(4) Termination.
+
+(i) In general.
+
+(ii) Termination of sponsoring entity.
+
+(iii) Termination of sponsored FFI.
+
+(iv) Reconsideration of notice of default or notice of termination.
+
+(v) Sponsoring entity of sponsored FFIs subject to a Model 2 IGA.
+
+(l) Trustee-documented trust verification.
+
+(1) Compliance program.
+
+(2) Certification of compliance.
+
+(i) Certification requirement.
+
+(A) In general.
+
+(B) Extension of time for the certification period ending on December 31, 2017.
+
+(ii) Late-joining trustee-documented trusts.
+
+(iii) Certification period.
+
+(iv) Certifications.
+
+(3) IRS review of compliance by trustees of trustee-documented trusts.
+
+(i) General inquiries.
+
+(ii) Inquiries regarding substantial non-compliance.
+
+(m) Applicability date.
 
 § 1.1471-6 Payments beneficially owned by exempt beneficial owners.
 
@@ -1669,7 +1769,6 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 (c) Exceptions.
 
 (1) Payments to an excepted NFFE.
-NFFE.
 
 (i) Publicly traded corporation.
 
@@ -1759,7 +1858,47 @@ NFFE.
 
 (f) Sponsoring entity verification.
 
+(1) In general.
+
+(2) Certification of compliance.
+
+(i) Certification requirement.
+
+(A) In general.
+
+(B) Extension of time for the certification period ending on December 31, 2017.
+
+(ii) Late-joining sponsored direct reporting NFFEs.
+
+(iii) Certification period.
+
+(iv) Certifications.
+
+(3) IRS review of compliance.
+
+(i) General inquiries.
+
+(ii) Inquiries regarding substantial non-compliance.
+
+(4) Sponsorship agreement.
+
 (g) Sponsoring entity event of default.
+
+(1) Defined.
+
+(2) Notice of event of default.
+
+(3) Remediation of event of default.
+
+(4) Termination.
+
+(i) In general.
+
+(ii) Termination of sponsoring entity.
+
+(iii) Termination of sponsored direct reporting NFFE.
+
+(iv) Reconsideration of notice of default or notice of termination.
 
 (h) Effective/applicability date.
 
@@ -2135,4 +2274,4 @@ NFFE.
 
 (e) Effective/applicability date.
 
-[T.D. 9610, 78 FR 5899, Jan. 28, 2013; 78 FR 55203, Sept. 10, 2013; as amended by T.D. 9809, 82 FR 2144, Jan. 6, 2017]
+[T.D. 9610, 78 FR 5899, Jan. 28, 2013; 78 FR 55203, Sept. 10, 2013; as amended by T.D. 9809, 82 FR 2144, Jan. 6, 2017; T.D. 9852, 84 FR 10979, Mar. 25, 2019]

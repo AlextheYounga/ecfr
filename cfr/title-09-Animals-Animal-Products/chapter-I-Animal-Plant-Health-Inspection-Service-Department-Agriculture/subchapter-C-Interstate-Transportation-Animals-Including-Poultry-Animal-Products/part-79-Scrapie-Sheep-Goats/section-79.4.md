@@ -1,5 +1,7 @@
 ##### § 79.4 Designation of scrapie-positive animals, high-risk animals, exposed animals, suspect animals, exposed flocks, infected flocks, noncompliant flocks, and source flocks; notice to owners. #####
 
+Link to an amendment published at 84 FR 11195, Mar. 25, 2019.
+
 (a) *Designation.* A designated scrapie epidemiologist will designate an animal to be a scrapie-positive animal, high-risk animal, exposed animal, or suspect animal after determining that the animal meets the criteria of the relevant definition in § 79.1.
 
 (1) A State or APHIS veterinarian will designate an animal to be a suspect animal after determining that the animal meets the criteria of the relevant definition in § 79.1.
