@@ -1,5 +1,7 @@
 ##### 53.214 Sealed bidding. #####
 
+Link to an amendment published at 87 FR 73902, Dec. 1, 2022.
+
 The following forms are prescribed for use in contracting by sealed bidding (except for construction and architect-engineer services):
 
 (a) *SF 26 (Rev. 3/2013), Award/Contract.* SF 26 is prescribed for use in awarding sealed bid contracts for supplies or services in which bids were obtained on SF 33, Solicitation, Offer and Award, as specified in 14.408-1(d)(1). Block 18 may only be used for sealed-bid procurements.

@@ -1,5 +1,7 @@
 ##### 19.811-1 Sole source. #####
 
+Link to an amendment published at 87 FR 73898, Dec. 1, 2022.
+
 (a) The contract to be awarded by the agency to the SBA shall be prepared in accordance with agency procedures and in the same detail as would be required in a contract with a business concern. The contracting officer shall use the Standard Form 26 as the award form, except for construction contracts, in which case the Standard Form 1442 shall be used as required in 36.701(a).
 
 (b) The contracting officer shall prepare the contract that the SBA will award to the 8(a) participant in accordance with agency procedures, as if awarding the contract directly to the 8(a) participant, except for the following:

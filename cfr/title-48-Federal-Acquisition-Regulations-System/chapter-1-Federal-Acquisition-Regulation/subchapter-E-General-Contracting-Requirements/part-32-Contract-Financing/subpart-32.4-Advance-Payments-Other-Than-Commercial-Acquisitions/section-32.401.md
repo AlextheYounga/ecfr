@@ -1,5 +1,7 @@
 ##### 32.401 Statutory authority. #####
 
+Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
+
 The agency may authorize advance payments in negotiated and sealed bid contracts if the action is appropriate under
 
 (a) 41 U.S.C. chapter 45;

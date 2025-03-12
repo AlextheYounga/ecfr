@@ -1,5 +1,7 @@
 ##### 3.104-2 General. #####
 
+Link to an amendment published at 87 FR 73895, Dec. 1, 2022.
+
 (a) This section implements 41 U.S.C. chapter 21, Restrictions on Obtaining and Disclosing Certain Information. Agency supplementation of 3.104, including specific definitions to identify individuals who occupy positions specified in 3.104-3(d)(1)(ii), and any clauses required by 3.104 must be approved by the senior procurement executive of the agency, unless a law establishes a higher level of approval for that agency.
 
 (b) Agency officials are reminded that there are other statutes and regulations that deal with the same or related prohibited conduct, for example -

@@ -1,5 +1,7 @@
 ##### 48.102 Policies. #####
 
+Link to an amendment published at 87 FR 73901, Dec. 1, 2022.
+
 (a) As required by 41 U.S.C. 1711, agencies shall establish and maintain cost-effective value engineering procedures and processes. Agencies shall provide contractors a substantial financial incentive to develop and submit VECP's. Contracting activities will include value engineering provisions in appropriate supply, service, architect-engineer and construction contracts as prescribed by 48.201 and 48.202 except where exemptions are granted on a case-by-case basis, or for specific classes of contracts, by the agency head.
 
 (b) Agencies shall: (1) establish guidelines for processing VECP's; (2) process VECP's objectively and expeditiously; and (3) provide contractors a fair share of the savings on accepted VECP's.

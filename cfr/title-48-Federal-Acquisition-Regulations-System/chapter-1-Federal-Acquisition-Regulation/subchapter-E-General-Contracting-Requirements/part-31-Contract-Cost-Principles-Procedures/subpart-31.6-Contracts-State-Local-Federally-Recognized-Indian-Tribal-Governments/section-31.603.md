@@ -1,5 +1,7 @@
 ##### 31.603 Requirements. #####
 
+Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
+
 (a) Contracts that refer to this subpart 31.6 for determining allowable costs under contracts with State, local and Indian tribal governments shall be deemed to refer to, and shall have the allowability of costs determined by the contracting officer in accordance with, the OMB Uniform Guidance at 2 CFR part 200, subpart E and appendices V and VII, in effect on the date of the contract.
 
 (b) Agencies are not expected to place additional restrictions on individual items of cost. However, under 10 U.S.C. 2324, 41 U.S.C. 4304, 31 U.S.C. 3730, and 41 U.S.C. 4310, the following costs are unallowable:

@@ -1,5 +1,7 @@
 ##### 6.101 Policy. #####
 
+Link to an amendment published at 87 FR 73896, Dec. 1, 2022.
+
 (a) 10 U.S.C. 2304 and 41 U.S.C. 3301 require, with certain limited exceptions (see subparts 6.2 and 6.3), that contracting officers shall promote and provide for full and open competition in soliciting offers and awarding Government contracts.
 
 (b) Contracting officers shall provide for full and open competition through use of the competitive procedure(s) contained in this subpart that are best suited to the circumstances of the contract action and consistent with the need to fulfill the Government's requirements efficiently (10 U.S.C. 2304 and 41 U.S.C. 3301).

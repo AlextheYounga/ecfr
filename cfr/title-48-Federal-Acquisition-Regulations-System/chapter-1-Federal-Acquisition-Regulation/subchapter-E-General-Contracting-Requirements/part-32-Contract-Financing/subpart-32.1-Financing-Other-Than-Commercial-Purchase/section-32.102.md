@@ -1,5 +1,7 @@
 ##### 32.102 Description of contract financing methods. #####
 
+Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
+
 (a) Advance payments are advances of money by the Government to a prime contractor before, in anticipation of, and for the purpose of complete performance under one or more contracts. They are expected to be liquidated from payments due to the contractor incident to performance of the contracts. Since they are not measured by performance, they differ from partial, progress, or other payments based on the performance or partial performance of a contract. Advance payments may be made to prime contractors for the purpose of making advances to subcontractors.
 
 (b) Progress payments based on costs are made on the basis of costs incurred by the contractor as work progresses under the contract. This form of contract financing does not include -

@@ -1,5 +1,7 @@
 ##### 37.401 Policy. #####
 
+Link to an amendment published at 87 FR 73900, Dec. 1, 2022.
+
 Agencies may enter into nonpersonal health care services contracts with physicians, dentists and other health care providers under authority of 10 U.S.C. 2304 and 41 U.S.C. chapter 33, Planning and Solicitation. Each contract shall -
 
 (a) State that the contract is a nonpersonal health care services contract, as defined in 37.101, under which the contractor is an independent contractor;

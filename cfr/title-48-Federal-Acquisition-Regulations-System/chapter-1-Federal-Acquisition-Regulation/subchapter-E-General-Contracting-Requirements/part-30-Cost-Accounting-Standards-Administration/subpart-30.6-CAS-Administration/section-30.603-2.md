@@ -1,5 +1,7 @@
 ##### 30.603-2 Unilateral and desirable changes. #####
 
+Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
+
 (a) *Unilateral changes.* (1) The contractor may unilaterally change its disclosed or established cost accounting practices, but the Government shall not pay any increased cost, in the aggregate, as a result of the unilateral change.
 
 (2) Prior to making any contract price or cost adjustments under the applicable paragraph(s) addressing a unilateral change at 52.230-2, 52.230-3, or 52.230-5, the CFAO shall determine that -

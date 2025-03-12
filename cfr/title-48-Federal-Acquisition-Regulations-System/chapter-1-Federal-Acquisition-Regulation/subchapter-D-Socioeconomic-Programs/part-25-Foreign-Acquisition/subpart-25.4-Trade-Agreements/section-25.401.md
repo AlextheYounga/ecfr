@@ -1,5 +1,7 @@
 ##### 25.401 Exceptions. #####
 
+Link to an amendment published at 87 FR 73892, Dec. 1, 2022.
+
 (a) This subpart does not apply to -
 
 (1) Acquisitions set aside for small businesses;

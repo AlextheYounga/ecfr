@@ -1,5 +1,7 @@
 ##### 41.103 Statutory and delegated authority. #####
 
+Link to an amendment published at 87 FR 73900, Dec. 1, 2022.
+
 (a) *Statutory authority.* (1) The General Services Administration (GSA) is authorized by 40 U.S.C. 501 to prescribe policies and methods governing the acquisition and supply of utility services for Federal agencies. This authority includes related functions such as managing public utility services and representing Federal agencies in proceedings before Federal and state regulatory bodies. GSA is authorized by 40 U.S.C. 501 to contract for utility services for periods not exceeding ten years.
 
 (2) The Department of Defense (DOD) is authorized by 10 U.S.C. 2304, and 40 U.S.C. 474(d)(3) to acquire utility services for military facilities.

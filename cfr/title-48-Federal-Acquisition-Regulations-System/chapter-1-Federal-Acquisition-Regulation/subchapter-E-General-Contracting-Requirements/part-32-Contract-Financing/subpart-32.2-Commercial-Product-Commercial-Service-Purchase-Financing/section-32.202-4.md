@@ -1,5 +1,7 @@
 ##### 32.202-4 Security for Government financing. #####
 
+Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
+
 (a) *Policy.* (1) 10 U.S.C. 2307(f) and 41 U.S.C. 4505 require the Government to obtain adequate security for Government financing. The contracting officer shall specify in the solicitation the type of security the Government will accept. If the Government is willing to accept more than one form of security, the offeror shall be required to specify the form of security it will provide. If acceptable to the contracting officer, the resulting contract shall specify the security (see 32.206(b)(1)(iv)).
 
 (2) Subject to agency regulations, the contracting officer may determine the offeror's financial condition to be adequate security, provided the offeror agrees to provide additional security should that financial condition become inadequate as security (see paragraph (c) of the clause at 52.232-29, Terms for Financing of Purchases of Commercial Products and Commercial Services). Assessment of the contractor's financial condition shall consider both net worth and liquidity. If the contracting officer finds the offeror's financial condition is not adequate security, the contracting officer shall require other adequate security. Paragraphs (b), (c), and (d) of this subsection list other (but not all) forms of security that the contracting officer may find acceptable.

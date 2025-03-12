@@ -1,5 +1,7 @@
 ##### 32.006-5 Reporting. #####
 
+Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
+
 (a) In accordance with 41 U.S.C. 4506(h), the head of an agency, other than the Department of Defense, shall prepare a report for each fiscal year in which a recommendation has been received pursuant to 32.006-4(a). Reports within the Department of Defense shall be prepared in accordance with 10 U.S.C. 2307(i)(7).
 
 (b) In accordance with 41 U.S.C. 4506(h) and 10 U.S.C. 2307(i)(7), each report shall contain -

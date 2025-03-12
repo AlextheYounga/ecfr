@@ -1,5 +1,7 @@
 ##### 15.404-4 Profit. #####
 
+Link to an amendment published at 87 FR 73898, Dec. 1, 2022.
+
 (a) *General.* This subsection prescribes policies for establishing the profit or fee portion of the Government prenegotiation objective in price negotiations based on cost analysis.
 
 (1) Profit or fee prenegotiation objectives do not necessarily represent net income to contractors. Rather, they represent that element of the potential total remuneration that contractors may receive for contract performance over and above allowable costs. This potential remuneration element and the Government's estimate of allowable costs to be incurred in contract performance together equal the Government's total prenegotiation objective. Just as actual costs may vary from estimated costs, the contractor's actual realized profit or fee may vary from negotiated profit or fee, because of such factors as efficiency of performance, incurrence of costs the Government does not recognize as allowable, and the contract type.

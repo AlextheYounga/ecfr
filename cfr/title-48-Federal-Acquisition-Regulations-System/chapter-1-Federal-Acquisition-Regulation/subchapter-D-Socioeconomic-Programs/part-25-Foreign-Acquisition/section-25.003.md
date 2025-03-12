@@ -1,5 +1,7 @@
 ##### 25.003 Definitions. #####
 
+Link to an amendment published at 87 FR 73892, Dec. 1, 2022.
+
 As used in this part -
 
 *Caribbean Basin country* means any of the following countries: Antigua and Barbuda, Aruba, Bahamas, Barbados, Belize, Bonaire, British Virgin Islands, Curacao, Dominica, Grenada, Guyana, Haiti, Jamaica, Montserrat, Saba, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Sint Eustatius, Sint Maarten, or Trinidad and Tobago.

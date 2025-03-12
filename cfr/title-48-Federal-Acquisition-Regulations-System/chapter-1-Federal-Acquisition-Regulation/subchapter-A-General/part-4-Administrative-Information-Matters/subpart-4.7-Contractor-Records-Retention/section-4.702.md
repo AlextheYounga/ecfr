@@ -1,5 +1,7 @@
 ##### 4.702 Applicability. #####
 
+Link to an amendment published at 87 FR 73896, Dec. 1, 2022.
+
 (a) This subpart applies to records generated under contracts that contain one of the following clauses:
 
 (1) Audit and Records - Sealed Bidding (52.214-26).

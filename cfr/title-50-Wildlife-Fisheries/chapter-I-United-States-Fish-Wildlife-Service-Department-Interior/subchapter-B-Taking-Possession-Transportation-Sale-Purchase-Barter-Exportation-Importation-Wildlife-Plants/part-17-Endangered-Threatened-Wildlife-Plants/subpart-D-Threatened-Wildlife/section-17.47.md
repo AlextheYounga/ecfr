@@ -1,5 +1,7 @@
 ##### § 17.47 Special rules - insects. #####
 
+Link to an amendment published at 87 FR 73678, Dec. 1, 2022.
+
 (a) Cassius blue butterfly (*Leptotes cassius theonus*), Ceraunus blue butterfly (*Hemiargus ceraunus antibubastus*), and Nickerbean blue butterfly (*Cyclargus ammon*).
 
 (1) The provisions of § 17.31(c) apply to these species (cassius blue butterfly, ceraunus blue butterfly, nickerbean blue butterfly), regardless of whether in the wild or in captivity, and also apply to the progeny of any such butterfly.

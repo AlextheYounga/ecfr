@@ -1,5 +1,7 @@
 ##### 52.225-5 Trade Agreements. #####
 
+Link to an amendment published at 87 FR 73894, Dec. 1, 2022.
+
 As prescribed in 25.1101(c)(1), insert the following clause:
 
 Trade Agreements (OCT 2019)

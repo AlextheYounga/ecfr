@@ -1,5 +1,7 @@
 ##### 6.302-3 Industrial mobilization; engineering, developmental, or research capability; or expert services. #####
 
+Link to an amendment published at 87 FR 73896, Dec. 1, 2022.
+
 (a) *Authority.* (1) Citations: 10 U.S.C. 2304(c)(3) or 41 U.S.C. 3304(a)(3).
 
 (2) Full and open competition need not be provided for when it is necessary to award the contract to a particular source or sources in order -

@@ -1,5 +1,7 @@
 ##### 6.302-1 Only one responsible source and no other supplies or services will satisfy agency requirements. #####
 
+Link to an amendment published at 87 FR 73896, Dec. 1, 2022.
+
 (a) *Authority.* (1) Citations: 10 U.S.C. 2304(c)(1) or 41 U.S.C. 3304(a)(1).
 
 (2) When the supplies or services required by the agency are available from only one responsible source, or, for DoD, NASA, and the Coast Guard, from only one or a limited number of responsible sources, and no other type of supplies or services will satisfy agency requirements, full and open competition need not be provided for.

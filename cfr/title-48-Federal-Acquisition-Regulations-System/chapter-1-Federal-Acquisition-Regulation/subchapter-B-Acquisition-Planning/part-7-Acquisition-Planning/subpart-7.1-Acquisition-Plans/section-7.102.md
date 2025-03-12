@@ -1,5 +1,7 @@
 ##### 7.102 Policy. #####
 
+Link to an amendment published at 87 FR 73896, Dec. 1, 2022.
+
 (a) Agencies shall perform acquisition planning and conduct market research (see part 10) for all acquisitions in order to promote and provide for -
 
 (1) Acquisition of commercial products or commercial services, or to the extent that commercial products suitable to meet the agency's needs are not available, nondevelopmental items, to the maximum extent practicable (10 U.S.C. 2377 and 41 U.S.C. 3307);

@@ -1,5 +1,7 @@
 ##### 15.403-1 Prohibition on obtaining certified cost or pricing data (10 U.S.C. 2306a and 41 U.S.C. chapter 35). #####
 
+Link to an amendment published at 87 FR 73897, Dec. 1, 2022.
+
 (a) Certified cost or pricing data shall not be obtained for acquisitions at or below the simplified acquisition threshold.
 
 (b) *Exceptions to certified cost or pricing data requirements.* The contracting officer shall not require certified cost or pricing data to support any action (contracts, subcontracts, or modifications) (but may require data other than certified cost or pricing data as defined in FAR 2.101 to support a determination of a fair and reasonable price or cost realism) -

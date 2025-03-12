@@ -1,6 +1,6 @@
 ##### § 429.134 Product-specific enforcement provisions. #####
 
-Link to an amendment published at 87 FR 65899, Nov. 1, 2022.Link to an amendment published at 87 FR 65667, Nov. 1, 2022.
+Link to an amendment published at 87 FR 65667, Nov. 1, 2022.
 
 (a) *General.* The following provisions apply to assessment and enforcement testing of the relevant products and equipment.
 
@@ -393,4 +393,10 @@ Table 1 of § 429.134 - Allowable Percentage Deviation From the Certified Full-L
 
 (4) *Break-in period.* DOE will perform a compressor break-in period during assessment or enforcement testing using a duration specified by the manufacturer only if a break-in period duration is provided in the supplemental testing instructions.
 
-[79 FR 22348, Apr. 21, 2014, as amended at 79 FR 40566, July 11, 2014; 80 FR 37148, June 30, 2015; 80 FR 45824, July 31, 2015; 80 FR 46760, Aug. 5, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2646, Jan. 15, 2016; 81 FR 15426, Mar. 23, 2016; 81 FR 24009, Apr. 25, 2016; 81 FR 37055, June 8, 2016; 81 FR 38395, June 13, 2016; 81 FR 46791, July 18, 2016; 81 FR 79320, Nov. 10, 2016; 81 FR 96236, Dec. 29, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016; 81 FR 95800, Dec. 28, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 36919, Aug. 7, 2017; 85 FR 1446, Jan. 10, 2020; 86 FR 56820, Oct. 12, 2021; 87 FR 33379, June 1, 2022; 87 FR 45197, July 27, 2022; 87 FR 50423, Aug. 16, 2022; 87 FR 55122, Sept. 8, 2022; 87 FR 57298, Sept. 19, 2022; 87 FR 63895, Oct. 20, 2022]
+(w) *Automatic commercial ice makers - verification of harvest rate.* The harvest rate will be measured pursuant to the test requirements of 10 CFR part 431 for each unit tested. The results of the measurement(s) will be averaged and compared to the value of harvest rate certified by the manufacturer of the basic model. The certified harvest rate will be considered valid only if the average measured harvest rate is within five percent of the certified harvest rate.
+
+(1) If the certified harvest rate is found to be valid, the certified harvest rate will be used as the basis for determining the maximum energy use and maximum condenser water use, if applicable, allowed for the basic model.
+
+(2) If the certified harvest rate is found to be invalid, the average measured harvest rate of the units in the sample will be used as the basis for determining the maximum energy use and maximum condenser water use, if applicable, allowed for the basic model.
+
+[79 FR 22348, Apr. 21, 2014, as amended at 79 FR 40566, July 11, 2014; 80 FR 37148, June 30, 2015; 80 FR 45824, July 31, 2015; 80 FR 46760, Aug. 5, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2646, Jan. 15, 2016; 81 FR 15426, Mar. 23, 2016; 81 FR 24009, Apr. 25, 2016; 81 FR 37055, June 8, 2016; 81 FR 38395, June 13, 2016; 81 FR 46791, July 18, 2016; 81 FR 79320, Nov. 10, 2016; 81 FR 96236, Dec. 29, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016; 81 FR 95800, Dec. 28, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 36919, Aug. 7, 2017; 85 FR 1446, Jan. 10, 2020; 86 FR 56820, Oct. 12, 2021; 87 FR 33379, June 1, 2022; 87 FR 45197, July 27, 2022; 87 FR 50423, Aug. 16, 2022; 87 FR 55122, Sept. 8, 2022; 87 FR 57298, Sept. 19, 2022; 87 FR 63895, Oct. 20, 2022; 87 FR 65899, Nov. 1, 2022]

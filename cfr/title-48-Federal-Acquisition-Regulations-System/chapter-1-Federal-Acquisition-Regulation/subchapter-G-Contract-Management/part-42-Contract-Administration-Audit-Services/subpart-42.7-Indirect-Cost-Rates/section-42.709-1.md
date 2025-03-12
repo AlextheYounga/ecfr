@@ -1,5 +1,7 @@
 ##### 42.709-1 Scope. #####
 
+Link to an amendment published at 87 FR 73900, Dec. 1, 2022.
+
 (a) This section implements 10 U.S.C. 2324 (a) through (d) and 41 U.S.C. 4303. It covers the assessment of penalties against contractors which include unallowable indirect costs in -
 
 (1) Final indirect cost rate proposals; or

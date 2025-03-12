@@ -1,5 +1,7 @@
 ##### 28.106-6 Furnishing information. #####
 
+Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
+
 (a) The surety on the bond, upon its written request, may be furnished information on the progress of the work, payments, and the estimated percentage of completion, concerning the contract for which the bond was furnished.
 
 (b) When a payment bond has been provided, the contracting officer shall, upon request, furnish the name and address of the surety or sureties to any subcontractor or supplier who has furnished or been requested to furnish labor or material for the contract. In addition, general information concerning the work progress, payments, and the estimated percentage of completion may be furnished to persons who have provided labor or materials and have not been paid.

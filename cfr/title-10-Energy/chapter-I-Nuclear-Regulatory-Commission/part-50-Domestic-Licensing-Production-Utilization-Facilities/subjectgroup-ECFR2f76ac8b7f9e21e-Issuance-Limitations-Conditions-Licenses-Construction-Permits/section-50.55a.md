@@ -733,7 +733,7 @@ Table 2 to Paragraph (b)(2)(xv)(K)(4) - Table VIII: S7-1 - Modified
 
 (xxv) *Section XV Condition: Mitigation of defects by modification.* Use of the provisions of IWA-4340 must be subject to the following conditions:
 
-(A) *Mitigation of defects by modification: First person.* The use of the provisions for mitigation of defects by modification in IWA-4340 of Section XI 2001 Edition through the 2010 Addenda, is prohibited.
+(A) *Mitigation of defects by modification: First provision.* The use of the provisions for mitigation of defects by modification in IWA-4340 of Section XI 2001 Edition through the 2010 Addenda, is prohibited.
 
 (B) *Mitigation of defects by modification: Second provision.* The provisions for mitigation of defects by modification in IWA-4340 of Section XI, 2011 Edition through the latest edition incorporated by reference in paragraph (a)(1)(ii) of this section, may be used subject to the following conditions:
 
@@ -1141,4 +1141,4 @@ Licensees using this option must also use the same edition and addenda of Append
 
 10 For inspections to be conducted once per interval, the inspections must be performed in accordance with the schedule in Section XI, paragraph IWB-2400, except for plants with inservice inspection programs based on a Section XI edition or addenda prior to the 1994 Addenda. For plants with inservice inspection programs based on a Section XI edition or addenda prior to the 1994 Addenda, the inspection must be performed in accordance with the schedule in Section XI, paragraph IWB-2400, of the 1994 Addenda.
 
-[79 FR 65798, Nov. 5, 2014, as amended at 79 FR 66603, Nov. 10, 2014; 79 FR 73462, Dec. 11, 2014; 82 FR 52825, Dec. 15, 2017; 83 FR 2354, Jan. 17, 2018; 83 FR 2526, Jan. 18, 2018; 84 FR 65644, Nov. 29, 2019; 85 FR 14756, Mar. 16, 2020; 85 FR 26576, May 4, 2020; 85 FR 34088, June 3, 2020; 85 FR 65662, Oct. 16, 2020; 87 FR 65148, Oct. 27, 2022]
+[79 FR 65798, Nov. 5, 2014, as amended at 79 FR 66603, Nov. 10, 2014; 79 FR 73462, Dec. 11, 2014; 82 FR 52825, Dec. 15, 2017; 83 FR 2354, Jan. 17, 2018; 83 FR 2526, Jan. 18, 2018; 84 FR 65644, Nov. 29, 2019; 85 FR 14756, Mar. 16, 2020; 85 FR 26576, May 4, 2020; 85 FR 34088, June 3, 2020; 85 FR 65662, Oct. 16, 2020; 87 FR 65148, Oct. 27, 2022; 87 FR 73633, Dec. 1, 2022]

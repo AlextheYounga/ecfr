@@ -1,5 +1,7 @@
 ##### 32.112-2 Subcontractor requests for information. #####
 
+Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
+
 (a) In accordance with section 806(a)(1) of Public Law 102-190, as amended by sections 2091 and 8105 of Public Law 103-355 (10 U.S.C. 2302 note), upon the request of a subcontractor or supplier under a Federal contract other than for a commercial product or commercial service, the contracting officer shall promptly advise the subcontractor or supplier as to -
 
 (1) Whether the prime contractor has submitted requests for progress payments or other payments to the Federal Government under the contract; and

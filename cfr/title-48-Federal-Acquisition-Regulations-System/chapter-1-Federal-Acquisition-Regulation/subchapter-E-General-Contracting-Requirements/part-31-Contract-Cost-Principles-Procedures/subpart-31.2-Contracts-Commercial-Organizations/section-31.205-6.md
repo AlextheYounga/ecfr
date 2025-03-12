@@ -1,5 +1,7 @@
 ##### 31.205-6 Compensation for personal services. #####
 
+Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
+
 (a) *General.* Compensation for personal services is allowable subject to the following general criteria and additional requirements contained in other parts of this cost principle:
 
 (1) Compensation for personal services must be for work performed by the employee in the current year and must not represent a retroactive adjustment of prior years' salaries or wages (but see paragraphs (g), (h), (j), (k), (m), and (o) of this subsection).

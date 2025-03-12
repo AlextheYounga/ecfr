@@ -1,5 +1,7 @@
 ##### 16.501-2 General. #####
 
+Link to an amendment published at 87 FR 73898, Dec. 1, 2022.
+
 (a) There are three types of indefinite-delivery contracts: Definite-quantity contracts, requirements contracts, and indefinite-quantity contracts. The appropriate type of indefinite-delivery contract may be used to acquire supplies and/or services when the exact times and/or exact quantities of future deliveries are not known at the time of contract award. Pursuant to 10 U.S.C. 2304d and 41 U.S.C. 4101, requirements contracts and indefinite-quantity contracts are also known as delivery-order contracts or task-order contracts.
 
 (b) The various types of indefinite-delivery contracts offer the following advantages:

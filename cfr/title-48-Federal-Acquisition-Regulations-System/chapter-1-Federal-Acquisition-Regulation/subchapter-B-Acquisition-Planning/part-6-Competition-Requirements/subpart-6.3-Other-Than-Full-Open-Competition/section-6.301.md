@@ -1,5 +1,7 @@
 ##### 6.301 Policy. #####
 
+Link to an amendment published at 87 FR 73896, Dec. 1, 2022.
+
 (a) 41 U.S.C. 3304 and 10 U.S.C. 2304 (c) each authorize, under certain conditions, contracting without providing for full and open competition. The Department of Defense, Coast Guard, and National
 Aeronautics and Space Administration are subject to 10
 U.S.C. 2304(c). Other executive agencies are subject to 41 U.S.C. 3304. Contracting without providing for full and open competition or full and open competition after exclusion of sources is a violation of statute, unless permitted by one of the exceptions in 6.302.

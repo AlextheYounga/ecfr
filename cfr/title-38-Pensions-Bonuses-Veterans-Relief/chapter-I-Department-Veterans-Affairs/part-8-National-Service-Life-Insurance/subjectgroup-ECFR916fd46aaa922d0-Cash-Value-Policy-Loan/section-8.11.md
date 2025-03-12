@@ -1,5 +1,7 @@
 ##### § 8.11 Cash value and policy loan. #####
 
+Link to an amendment published at 87 FR 73654, Dec. 1, 2022.
+
 (a) Provisions for cash value, paid-up insurance, and extended term insurance, except as provided in § 8.14(b), shall become effective at the completion of the first policy year on any plan of National Service Life Insurance other than the 5-year level premium term plan. The cash value at the end of the first policy year and at the end of any policy year thereafter, for which premiums have been paid in full, shall be the reserve with any dividend accumulations, where applicable.
 
 (b) Upon written request and upon complete surrender of the insurance and all claims thereunder, the United States will pay to the insured the cash value of the policy less any indebtedness, provided the policy has been in force by payment or waiver of the premiums for at least 1 year. Paid-up additions do not have to be in force for 1 year before they have cash values. Unless otherwise requested by the insured, a surrender will be deemed completed as of the end of the premium month in which the application for cash surrender is delivered to the Department of Veterans Affairs, or as of the date of the check for the cash value, whichever is later. If the application is forwarded by mail, properly addressed, the postmark date will be taken as the date of delivery. If it is forwarded through military channels, the date the application is placed in military channels will be taken as the date of delivery.

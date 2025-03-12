@@ -1,5 +1,7 @@
 ##### 3.104-1 Definitions. #####
 
+Link to an amendment published at 87 FR 73895, Dec. 1, 2022.
+
 As used in this section -
 
 *Agency ethics official* means the designated agency ethics official described in 5 CFR 2638.201 or other designated person, including -

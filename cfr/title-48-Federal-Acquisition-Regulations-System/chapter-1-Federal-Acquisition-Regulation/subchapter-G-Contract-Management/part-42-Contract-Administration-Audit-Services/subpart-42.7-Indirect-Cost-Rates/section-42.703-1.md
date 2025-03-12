@@ -1,5 +1,7 @@
 ##### 42.703-1 Policy. #####
 
+Link to an amendment published at 87 FR 73900, Dec. 1, 2022.
+
 (a) A single agency (see 42.705-1) shall be responsible for establishing final indirect cost rates for each business unit. These rates shall be binding on all agencies and their contracting offices, unless otherwise specifically prohibited by statute. An agency shall not perform an audit of indirect cost rates when the contracting officer determines that the objectives of the audit can reasonably be met by accepting the results of an audit that was conducted by any other department or agency of the Federal Government (10 U.S.C. 2313(d) and 41 U.S.C. 4706(e)).
 
 (b) Billing rates and final indirect cost rates shall be used in reimbursing indirect costs under cost-reimbursement contracts and in determining progress payments under fixed-price contracts.

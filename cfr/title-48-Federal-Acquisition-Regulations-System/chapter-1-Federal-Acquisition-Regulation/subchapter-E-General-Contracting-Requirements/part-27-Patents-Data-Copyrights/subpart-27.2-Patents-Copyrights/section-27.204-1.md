@@ -1,5 +1,7 @@
 ##### 27.204-1 Use of patented technology under the North American Free Trade Agreement. #####
 
+Link to an amendment published at 87 FR 73892, Dec. 1, 2022.
+
 (a) The requirements of this section apply to the use of technology covered by a valid patent when the patent holder is from a country that is a party to the North American Free Trade Agreement (NAFTA).
 
 (b) Article 1709(10) of NAFTA generally requires a user of technology covered by a valid patent to make a reasonable effort to obtain authorization prior to use of the patented technology. However, NAFTA provides that this requirement for authorization may be waived in situations of national emergency or other circumstances of extreme urgency, or for public noncommercial use.

@@ -1,5 +1,7 @@
 ##### § 8.1 Effective date for an insurance policy issued under section 1922(a) of title 38 U.S.C. (Service-Disabled Veterans' Insurance). #####
 
+Link to an amendment published at 87 FR 73653, Dec. 1, 2022.
+
 (a) *What is the effective date of the policy?* The effective date is the date policy coverage begins. Benefits due under the policy are payable any time after the effective date.
 
 (b) *How is the effective date established?* The effective date is the date you deliver both of the following to VA:

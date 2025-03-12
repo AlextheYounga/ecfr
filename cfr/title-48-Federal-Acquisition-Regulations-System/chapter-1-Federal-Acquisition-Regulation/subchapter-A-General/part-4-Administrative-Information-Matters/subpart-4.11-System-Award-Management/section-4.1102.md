@@ -1,5 +1,7 @@
 ##### 4.1102 Policy. #####
 
+Link to an amendment published at 87 FR 73896, Dec. 1, 2022.
+
 (a) Offerors and quoters are required to be registered in SAM at the time an offer or quotation is submitted in order to comply with the annual representations and certifications requirements except for -
 
 (1) Purchases under the micro-purchase threshold that use a Governmentwide commercial purchase card as both the purchasing and payment mechanism, as opposed to using the purchase card for payment only;

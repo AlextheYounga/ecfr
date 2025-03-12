@@ -1,5 +1,7 @@
 ##### 52.232-31 Invitation To Propose Financing Terms. #####
 
+Link to an amendment published at 87 FR 73901, Dec. 1, 2022.
+
 As prescribed in 32.205(b) and 32.206, insert the following provision:
 
 Invitation To Propose Financing Terms (NOV 2021)

@@ -1,5 +1,7 @@
 ##### 7.202 Policy. #####
 
+Link to an amendment published at 87 FR 73896, Dec. 1, 2022.
+
 (a) Agencies are required by 10 U.S.C. 2384a and 41 U.S.C. 3310 to procure supplies in such quantity as -
 
 (1) Will result in the total cost and unit cost most advantageous to the Government, where practicable; and

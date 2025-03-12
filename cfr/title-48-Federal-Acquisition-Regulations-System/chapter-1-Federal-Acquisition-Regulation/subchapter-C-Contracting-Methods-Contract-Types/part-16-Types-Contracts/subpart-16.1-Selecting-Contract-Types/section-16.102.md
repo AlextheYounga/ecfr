@@ -1,5 +1,7 @@
 ##### 16.102 Policies. #####
 
+Link to an amendment published at 87 FR 73898, Dec. 1, 2022.
+
 (a) Contracts resulting from sealed bidding shall be firm-fixed-price contracts or fixed-price contracts with economic price adjustment.
 
 (b) Contracts negotiated under part 15 may be of any type or combination of types that will promote the Government's interest, except as restricted in this part (see 10 U.S.C. 2306(a) and 41 U.S.C. 3901). Contract types not described in this regulation shall not be used, except as a deviation under subpart 1.4.

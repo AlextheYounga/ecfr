@@ -1,5 +1,7 @@
 ##### 15.209 Solicitation provisions and contract clauses. #####
 
+Link to an amendment published at 87 FR 73897, Dec. 1, 2022.
+
 When contracting by negotiation -
 
 (a) The contracting officer shall insert the provision at 52.215-1, Instructions to Offerors - Competitive Acquisition, in all competitive solicitations where the Government intends to award a contract without discussions.

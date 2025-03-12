@@ -1,5 +1,7 @@
 ##### 17.701 Definitions. #####
 
+Link to an amendment published at 87 FR 73889, Dec. 1, 2022.
+
 As used in this subpart -
 
 *Department of Defense (DoD) acquisition official* means -

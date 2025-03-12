@@ -1,5 +1,7 @@
 ##### 4.1202 Solicitation provision and contract clause. #####
 
+Link to an amendment published at 87 FR 73891, Dec. 1, 2022.
+
 (a) Insert the provision at 52.204-8, Annual Representations and Certifications, in solicitations, except for solicitations for commercial products or commercial services issued under part 12. The contracting officer shall check the applicable provisions at 52.204-8(c)(2). Use the provision with its Alternate I in solicitations issued after October 1, 2025, that will result in a multiple-award contract with more than one North American Industry Classification System code assigned (see 19.102(b)). When the provision at 52.204-7, System for Award Management, is included in the solicitation, do not separately include the following representations and certifications:
 
 (1) 52.203-2, Certificate of Independent Price Determination.

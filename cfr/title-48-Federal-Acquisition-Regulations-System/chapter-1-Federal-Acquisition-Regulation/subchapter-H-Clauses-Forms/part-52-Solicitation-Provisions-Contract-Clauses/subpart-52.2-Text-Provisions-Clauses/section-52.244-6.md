@@ -1,5 +1,7 @@
 ##### 52.244-6 Subcontracts for Commercial Products and Commercial Services. #####
 
+Link to an amendment published at 87 FR 73902, Dec. 1, 2022.
+
 As prescribed in 44.403, insert the following clause:
 
 Subcontracts for Commercial Products and Commercial Services (OCT 2022)

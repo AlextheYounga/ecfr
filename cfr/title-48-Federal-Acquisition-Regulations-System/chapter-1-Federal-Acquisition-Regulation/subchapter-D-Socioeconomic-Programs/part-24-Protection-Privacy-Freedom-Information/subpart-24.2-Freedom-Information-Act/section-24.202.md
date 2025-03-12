@@ -1,5 +1,7 @@
 ##### 24.202 Prohibitions. #####
 
+Link to an amendment published at 87 FR 73898, Dec. 1, 2022.
+
 (a) A proposal in the possession or control of the Government, submitted in response to a competitive solicitation, shall not be made available to any person under the Freedom of Information Act. This prohibition does not apply to a proposal, or any part of a proposal, that is set forth or incorporated by reference in a contract between the Government and the contractor that submitted the proposal. (See 10 U.S.C. 2305(g) and 41 U.S.C. 4702.)
 
 (b) No agency shall disclose any information obtained pursuant to 15.403-3(b) that is exempt from disclosure under the Freedom of Information Act. (See 10 U.S.C. 2306a(d)(2)(C) and 41 U.S.C. 3505(b)(3).)

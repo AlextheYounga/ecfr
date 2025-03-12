@@ -1,5 +1,7 @@
 ##### § 8.2 Payment of premiums. #####
 
+Link to an amendment published at 87 FR 73653, Dec. 1, 2022.
+
 (a) *What is a premium?* A premium is a payment that a policyholder is required to make for an insurance policy.
 
 (b) *How can policyholders pay premiums?* Premiums can be paid by:

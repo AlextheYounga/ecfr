@@ -1,5 +1,7 @@
 ##### 37.113-1 Waiver of cost allowability limitations. #####
 
+Link to an amendment published at 87 FR 73900, Dec. 1, 2022.
+
 (a) The head of the agency may waive the 31.205-6(g)(6) cost allowability limitations on severance payments to foreign nationals for contracts that -
 
 (1) Provide significant support services for (i) members of the armed forces stationed or deployed outside the United States, or (ii) employees of an executive agency posted outside the United States; and

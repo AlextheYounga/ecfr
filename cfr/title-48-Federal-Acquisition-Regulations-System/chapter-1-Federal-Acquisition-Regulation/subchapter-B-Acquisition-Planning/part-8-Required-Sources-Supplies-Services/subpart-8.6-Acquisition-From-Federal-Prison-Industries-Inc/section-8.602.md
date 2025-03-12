@@ -1,5 +1,7 @@
 ##### 8.602 Policy. #####
 
+Link to an amendment published at 87 FR 73896, Dec. 1, 2022.
+
 (a) In accordance with 10 U.S.C. 2410n and Section 637 of Division H of the Consolidated Appropriations Act, 2005 (Pub. L. 108-447) (18 U.S.C. 4124 note), and except as provided in paragraph (b) of this section, agencies shall -
 
 (1) Before purchasing an item of supply listed in the FPI Schedule, conduct market research to determine whether the FPI item is comparable to supplies available from the private sector that best meet the Government's needs in terms of price, quality, and time of delivery. This is a unilateral determination made at the discretion of the contracting officer. The arbitration provisions of 18 U.S.C. 4124(b) do not apply;

@@ -1,5 +1,7 @@
 ##### 3.402 Statutory requirements. #####
 
+Link to an amendment published at 87 FR 73895, Dec. 1, 2022.
+
 Contractors' arrangements to pay contingent fees for soliciting or obtaining Government contracts have long been considered contrary to public policy because such arrangements may lead to attempted or actual exercise of improper influence. In 10 U.S.C. 2306(b) and 41 U.S.C. 3901, Congress affirmed this public policy but permitted certain exceptions. These statutes -
 
 (a) Require in every negotiated contract a warranty by the contractor against contingent fees;

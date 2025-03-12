@@ -1,5 +1,7 @@
 ##### 32.410 Findings, determination, and authorization. #####
 
+Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
+
 (a) Each determination concerning advance payments shall be supported by written findings (see 32.402(c)(1)(iii)).
 
 (b) The following is an example of the format and text of findings, determination, and authorization with alternative words, phrases, and paragraphs to be selected to conform to the circumstances involved:

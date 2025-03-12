@@ -1,5 +1,7 @@
 ##### 25.400 Scope of subpart. #####
 
+Link to an amendment published at 87 FR 73892, Dec. 1, 2022.
+
 (a) This subpart provides policies and procedures applicable to acquisitions that are covered by -
 
 (1) The World Trade Organization Government Procurement Agreement (WTO GPA), as approved by Congress in the Uruguay Round Agreements Act (Pub. L. 103-465);

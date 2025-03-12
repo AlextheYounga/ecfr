@@ -1,5 +1,7 @@
 ##### 32.501-1 Customary progress payment rates. #####
 
+Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
+
 (a) The customary progress payment rate is 80 percent, applicable to the total costs of performing the contract. The customary rate for contracts with small business concerns is 85 percent.
 
 (b) The contracting officer must -

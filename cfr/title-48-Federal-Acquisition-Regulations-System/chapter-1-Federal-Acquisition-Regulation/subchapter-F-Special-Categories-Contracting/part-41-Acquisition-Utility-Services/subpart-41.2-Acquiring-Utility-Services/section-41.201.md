@@ -1,5 +1,7 @@
 ##### 41.201 Policy. #####
 
+Link to an amendment published at 87 FR 73900, Dec. 1, 2022.
+
 (a) Subject to paragraph (d) of this section, it is the policy of the Federal Government that agencies obtain required utility services from sources of supply which are most advantageous to the Government in terms of economy, efficiency, reliability, or service.
 
 (b) Except for acquisitions at or below the simplified acquisition threshold, agencies shall acquire utility services by a bilateral written contract, which must include the clauses required by 41.501, regardless of whether rates or terms and conditions of service are fixed or adjusted by a regulatory body. Agencies may not use the utility supplier's forms and clauses to avoid the inclusion of provisions and clauses required by 41.501 or by statute. (See 41.202(c) for procedures to be used when the supplier refuses to execute a written contract.)

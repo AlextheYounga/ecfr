@@ -1,5 +1,7 @@
 ##### 52.212-3 Offeror Representations and Certifications - Commercial Products and Commercial Services. #####
 
+Link to an amendment published at 87 FR 73893, Dec. 1, 2022.
+
 As prescribed in 12.301(b)(2), insert the following provision:
 
 Offeror Representations and Certifications - Commercial Products and Commercial Services (OCT 2022)
@@ -282,7 +284,7 @@ Canadian or Israeli End Products:
 
 [List as necessary]
 
-(g)(4) *Buy American - Free Trade Agreements - Israeli Trade Act Certificate, Alternate III.* If Alternate III to the clause at FAR 52.225-3 is included in this solicitation, substitute the following paragraph (g)(1)(ii) for paragraph (g)(1)(ii) of the basic provision:
+(4) *Buy American - Free Trade Agreements - Israeli Trade Act Certificate, Alternate III.* If Alternate III to the clause at FAR 52.225-3 is included in this solicitation, substitute the following paragraph (g)(1)(ii) for paragraph (g)(1)(ii) of the basic provision:
 
 (g)(1)(ii) The offeror certifies that the following supplies are Free Trade Agreement country end products (other than Bahrainian, Korean, Moroccan, Omani, Panamanian, or Peruvian end products) or Israeli end products as defined in the clause of this solicitation entitled “Buy American - Free Trade Agreements - Israeli Trade Act”:
 

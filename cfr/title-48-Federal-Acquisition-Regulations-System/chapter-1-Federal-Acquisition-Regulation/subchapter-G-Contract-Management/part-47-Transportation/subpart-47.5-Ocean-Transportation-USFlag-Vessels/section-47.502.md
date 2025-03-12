@@ -1,5 +1,7 @@
 ##### 47.502 Policy. #####
 
+Link to an amendment published at 87 FR 73901, Dec. 1, 2022.
+
 (a) The policy of the United States regarding the use of U.S.-flag vessels is stated in the following acts:
 
 (1) The Cargo Preference Act of 1904 (10 U.S.C. 2631), which requires the Department of Defense to use only U.S.-flag vessels for ocean transportation of supplies for the Army, Navy, Air Force, or Marine Corps unless those vessels are not available at fair and reasonable rates.

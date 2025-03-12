@@ -1,5 +1,7 @@
 ##### 15.303 Responsibilities. #####
 
+Link to an amendment published at 87 FR 73897, Dec. 1, 2022.
+
 (a) Agency heads are responsible for source selection. The contracting officer is designated as the source selection authority, unless the agency head appoints another individual for a particular acquisition or group of acquisitions.
 
 (b) The source selection authority shall -

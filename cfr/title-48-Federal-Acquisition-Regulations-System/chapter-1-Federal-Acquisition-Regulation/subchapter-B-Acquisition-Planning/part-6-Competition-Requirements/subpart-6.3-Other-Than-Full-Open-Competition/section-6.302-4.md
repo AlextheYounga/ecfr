@@ -1,5 +1,7 @@
 ##### 6.302-4 International agreement. #####
 
+Link to an amendment published at 87 FR 73896, Dec. 1, 2022.
+
 (a) *Authority.* (1) Citations: 10 U.S.C. 2304(c)(4) or 41 U.S.C. 3304(a)(4).
 
 (2) Full and open competition need not be provided for when precluded by the terms of an international agreement or a treaty between the United States and a foreign government or international organization, or the written directions of a foreign government reimbursing the agency for the cost of the acquisition of the supplies or services for such government.

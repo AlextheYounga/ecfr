@@ -1,5 +1,7 @@
 ##### 6.302-2 Unusual and compelling urgency. #####
 
+Link to an amendment published at 87 FR 73896, Dec. 1, 2022.
+
 (a) *Authority.* (1) Citations: 10 U.S.C. 2304(c)(2) or 41 U.S.C. 3304(a)(2).
 
 (2) When the agency's need for the supplies or services is of such an unusual and compelling urgency that the Government would be seriously injured unless the agency is permitted to limit the number of sources from which it solicits bids or proposals, full and open competition need not be provided for.

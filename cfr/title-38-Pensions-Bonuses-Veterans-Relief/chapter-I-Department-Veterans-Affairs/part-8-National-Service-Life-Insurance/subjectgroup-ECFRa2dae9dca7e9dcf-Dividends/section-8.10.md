@@ -1,5 +1,7 @@
 ##### § 8.10 How paid. #####
 
+Link to an amendment published at 87 FR 73654, Dec. 1, 2022.
+
 (a) Except as hereinafter provided in this paragraph, a National Service Life Insurance policy shall participate in and receive such dividends from gains and savings as may be determined by the Secretary of Veterans Affairs. Dividends becoming payable after January 1, 1952, shall be payable on the date preceding the anniversary of the policy unless the Secretary shall declare them payable on some other date. Dividends are not payable on insurance:
 
 (1) Issued or reinstated under the provisions of section 602(c)(2) of the National Service Life Insurance Act, as amended, where the requirements of good health were waived at the time of such issue or reinstatement;

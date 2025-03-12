@@ -1,5 +1,7 @@
 ##### 32.112-1 Subcontractor assertions of nonpayment. #####
 
+Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
+
 (a) In accordance with Section 806(a)(4) of Pub. L. 102-190, as amended by Sections 2091 and 8105 of Pub. L. 103-355 (10 U.S.C. 2302 note), upon the assertion by a subcontractor or supplier of a Federal contractor that the subcontractor or supplier has not been paid in accordance with the payment terms of the subcontract, purchase order, or other agreement with the prime contractor, the contracting officer may determine -
 
 (1) For a construction contract, whether the contractor has made -

@@ -1,5 +1,7 @@
 ##### 15.503 Notifications to unsuccessful offerors. #####
 
+Link to an amendment published at 87 FR 73898, Dec. 1, 2022.
+
 (a) *Preaward notices* - (1) *Preaward notices of exclusion from competitive range.* The contracting officer shall notify offerors promptly in writing when their proposals are excluded from the competitive range or otherwise eliminated from the competition. The notice shall state the basis for the determination and that a proposal revision will not be considered.
 
 (2) *Preaward notices for small business programs.* (i) In addition to the notice in paragraph (a)(1) of this section, the contracting officer shall notify each offeror in writing prior to award and upon completion of negotiations and determinations of responsibility -

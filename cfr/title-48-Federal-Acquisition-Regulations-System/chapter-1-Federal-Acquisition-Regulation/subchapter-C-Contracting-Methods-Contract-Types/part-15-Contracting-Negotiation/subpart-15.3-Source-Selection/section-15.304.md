@@ -1,5 +1,7 @@
 ##### 15.304 Evaluation factors and significant subfactors. #####
 
+Link to an amendment published at 87 FR 73897, Dec. 1, 2022.
+
 (a) The award decision is based on evaluation factors and significant subfactors that are tailored to the acquisition.
 
 (b) Evaluation factors and significant subfactors must -

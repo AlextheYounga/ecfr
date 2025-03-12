@@ -1,5 +1,7 @@
 ##### 13.005 List of laws inapplicable to contracts and subcontracts at or below the simplified acquisition threshold. #####
 
+Link to an amendment published at 87 FR 73897, Dec. 1, 2022.
+
 (a) The following laws are inapplicable to all contracts and subcontracts (if otherwise applicable to subcontracts) at or below the simplified acquisition threshold pursuant to 41 U.S.C. 1905:
 
 (1) 10 U.S.C. 983, Institutions of Higher Education that Prevent ROTC Access or Military Recruiting on Campus: Denial of Grants and Contracts from Department of Defense, Department of Education, and Certain Other Departments and Agencies (see 9.110).

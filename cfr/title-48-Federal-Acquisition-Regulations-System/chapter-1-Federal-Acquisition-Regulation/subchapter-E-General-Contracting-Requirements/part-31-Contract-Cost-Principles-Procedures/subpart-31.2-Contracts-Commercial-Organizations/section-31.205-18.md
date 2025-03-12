@@ -1,5 +1,7 @@
 ##### 31.205-18 Independent research and development and bid and proposal costs. #####
 
+Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
+
 (a) *Definitions.* As used in this subsection -
 
 *Applied research* means that effort which (1) normally follows basic research, but may not be severable from the related basic research, (2) attempts to determine and exploit the potential of scientific discoveries or improvements in technology, materials, processes, methods, devices, or techniques, and (3) attempts to advance the state of the art. Applied research does not include efforts whose principal aim is design, development, or test of specific items or services to be considered for sale; these efforts are within the definition of the term *development,* defined in this subsection.

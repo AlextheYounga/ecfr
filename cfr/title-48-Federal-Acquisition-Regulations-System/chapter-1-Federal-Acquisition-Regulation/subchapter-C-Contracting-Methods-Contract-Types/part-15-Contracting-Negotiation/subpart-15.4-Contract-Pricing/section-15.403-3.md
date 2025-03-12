@@ -1,5 +1,7 @@
 ##### 15.403-3 Requiring data other than certified cost or pricing data. #####
 
+Link to an amendment published at 87 FR 73897, Dec. 1, 2022.
+
 (a)(1) In those acquisitions that do not require certified cost or pricing data, the contracting officer shall -
 
 (i) Obtain whatever data are available from Government or other secondary sources and use that data in determining a fair and reasonable price;

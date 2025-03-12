@@ -1,5 +1,7 @@
 ##### § 8.19 Beneficiary and optional settlement changes. #####
 
+Link to an amendment published at 87 FR 73654, Dec. 1, 2022.
+
 The insured shall have the right at any time, and from time to time, and without the knowledge or consent of the beneficiary to cancel or change a beneficiary and/or optional settlement designation. A change of beneficiary or optional settlement to be effective must be made by notice in writing signed by the insured and forwarded to the Department of Veterans Affairs by the insured or designated agent, and must contain sufficient information to identify the insured. A beneficiary designation and an optional settlement selection, but not a change of beneficiary, may be made by last will and testament duly probated. Upon receipt by the Department of Veterans Affairs, a valid designation or change of beneficiary or option shall be deemed to be effective as of the date of execution. Any payment made before proper notice of designation or change of beneficiary has been received in the Department of Veterans Affairs shall be deemed to have been properly made and to satisfy fully the obligations of the United States under such insurance policy to the extent of such payments.
 
 [61 FR 29293, June 10, 1996. Redesignated at 65 FR 7437, Feb. 15, 2000]

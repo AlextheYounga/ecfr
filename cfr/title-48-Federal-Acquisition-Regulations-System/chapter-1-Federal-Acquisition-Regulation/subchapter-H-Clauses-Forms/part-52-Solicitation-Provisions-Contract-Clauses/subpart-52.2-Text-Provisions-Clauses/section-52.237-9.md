@@ -1,5 +1,7 @@
 ##### 52.237-9 Waiver of Limitation on Severance Payments to Foreign Nationals. #####
 
+Link to an amendment published at 87 FR 73901, Dec. 1, 2022.
+
 As prescribed in 37.113-2(b), use the following clause:
 
 Waiver of Limitation on Severance Payments to Foreign Nationals (MAY 2014)

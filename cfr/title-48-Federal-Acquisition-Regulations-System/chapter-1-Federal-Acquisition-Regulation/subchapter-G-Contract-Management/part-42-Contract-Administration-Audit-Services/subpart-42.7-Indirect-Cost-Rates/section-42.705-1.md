@@ -1,5 +1,7 @@
 ##### 42.705-1 Contracting officer determination procedure. #####
 
+Link to an amendment published at 87 FR 73900, Dec. 1, 2022.
+
 (a) *Applicability and responsibility.* Contracting officer determination shall be used for the following, with the indicated cognizant contracting officer (or cognizant Federal agency official) responsible for establishing the final indirect cost rates:
 
 (1) Business units of a multidivisional corporation under the cognizance of a corporate administrative contracting officer (see subpart 42.6), with that officer responsible for the determination, assisted, as required, by the administrative contracting officers assigned to the individual business units. Negotiations may be conducted on a coordinated or centralized basis, depending upon the degree of centralization within the contractor's organization.

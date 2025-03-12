@@ -1,5 +1,7 @@
 ##### 3.303 Reporting suspected antitrust violations. #####
 
+Link to an amendment published at 87 FR 73895, Dec. 1, 2022.
+
 (a) Agencies are required by 41 U.S.C. 3707 and 10 U.S.C. 2305(b)(9) to report to the Attorney General any bids or proposals that evidence a violation of the antitrust laws. These reports are in addition to those required by subpart 9.4.
 
 (b) The antitrust laws are intended to ensure that markets operate competitively. Any agreement or mutual understanding among competing firms that restrains the natural operation of market forces is suspect. Paragraph (c) of this section identifies behavior patterns that are often associated with antitrust violations. Activities meeting the descriptions in paragraph (c) are not necessarily improper, but they are sufficiently questionable to warrant notifying the appropriate authorities, in accordance with agency procedures.

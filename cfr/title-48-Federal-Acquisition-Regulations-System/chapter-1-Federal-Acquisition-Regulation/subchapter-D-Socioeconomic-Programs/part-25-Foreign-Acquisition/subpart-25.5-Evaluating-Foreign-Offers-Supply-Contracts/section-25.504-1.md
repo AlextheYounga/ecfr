@@ -1,5 +1,7 @@
 ##### 25.504-1 Buy American statute. #####
 
+Link to an amendment published at 87 FR 73892, Dec. 1, 2022.
+
 (a)(1) *Example 1.*
 
 |       |       |                                                     |

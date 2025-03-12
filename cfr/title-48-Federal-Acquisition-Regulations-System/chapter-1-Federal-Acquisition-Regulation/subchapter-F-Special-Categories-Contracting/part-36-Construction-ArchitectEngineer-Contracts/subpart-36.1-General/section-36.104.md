@@ -1,5 +1,7 @@
 ##### 36.104 Policy. #####
 
+Link to an amendment published at 87 FR 73900, Dec. 1, 2022.
+
 (a) Unless the traditional acquisition approach of design-bid-build established under 40 U.S.C. chapter 11, Selection of Architects and Engineers, or another acquisition procedure authorized by law is used, the contracting officer shall use the two-phase selection procedures authorized by 10 U.S.C. 2305a or 41 U.S.C. 3309 when entering into a contract for the design and construction of a public building, facility, or work, if the contracting officer makes a determination that the procedures are appropriate for use (see subpart 36.3). Other acquisition procedures authorized by law include the procedures established in this part and other parts of this chapter and, for DoD, the design-build process described in 10 U.S.C. 2862.
 
 (b) Agencies shall implement high-performance sustainable building design, construction, renovation, repair, commissioning, operation and maintenance, management, and deconstruction practices so as to -

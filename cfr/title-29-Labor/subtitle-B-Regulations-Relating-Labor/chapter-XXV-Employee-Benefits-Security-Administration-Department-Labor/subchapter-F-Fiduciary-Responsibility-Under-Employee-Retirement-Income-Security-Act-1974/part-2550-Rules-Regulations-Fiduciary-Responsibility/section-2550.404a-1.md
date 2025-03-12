@@ -1,5 +1,7 @@
 ##### § 2550.404a-1 Investment duties. #####
 
+Link to an amendment published at 87 FR 73884, Dec. 1, 2022.
+
 (a) *In general.* Section 404(a)(1)(A) and 404(a)(1)(B) of the Employee Retirement Income Security Act of 1974, as amended (ERISA or the Act) provide, in part, that a fiduciary shall discharge that person's duties with respect to the plan solely in the interests of the participants and beneficiaries, for the exclusive purpose of providing benefits to participants and their beneficiaries and defraying reasonable expenses of administering the plan, and with the care, skill, prudence, and diligence under the circumstances then prevailing that a prudent person acting in a like capacity and familiar with such matters would use in the conduct of an enterprise of a like character and with like aims.
 
 (b) *Investment duties.* (1) With regard to the consideration of an investment or investment course of action taken by a fiduciary of an employee benefit plan pursuant to the fiduciary's investment duties, the requirements of section 404(a)(1)(B) of the Act set forth in paragraph (a) of this section are satisfied if the fiduciary:

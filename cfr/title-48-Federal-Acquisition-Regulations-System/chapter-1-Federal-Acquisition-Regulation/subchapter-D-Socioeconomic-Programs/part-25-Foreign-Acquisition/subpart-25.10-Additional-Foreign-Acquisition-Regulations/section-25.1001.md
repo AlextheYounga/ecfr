@@ -1,5 +1,7 @@
 ##### 25.1001 Waiver of right to examination of records. #####
 
+Link to an amendment published at 87 FR 73898, Dec. 1, 2022.
+
 (a) *Policy.* The clause at 52.215-2, Audit and Records - Negotiation, prescribed at 15.209(b), and paragraph (d) of the clause at 52.212-5, Contract Terms and Conditions Required to Implement Statutes or Executive Orders - Commercial Products and Commercial Services, prescribed at 12.301(b)(4), implement 10 U.S.C. 2313 and 41 U.S.C. 4706. The basic clauses authorize examination of records by the Comptroller General.
 
 (1) Insert the appropriate basic clause, whenever possible, in negotiated contracts with foreign contractors.

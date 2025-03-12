@@ -1,5 +1,7 @@
 ##### § 8.0 Definitions of terms used in connection with title 38 CFR, part 8, National Service Life Insurance. #####
 
+Link to an amendment published at 87 FR 73653, Dec. 1, 2022.
+
 (a) *What does the term “good health” mean?* The term *good health* means that the applicant is, from clinical or other evidence, free from any condition that would tend to:
 
 (1) Weaken normal physical or mental functions; or

@@ -1,5 +1,7 @@
 ##### 42.703-2 Certificate of indirect costs. #####
 
+Link to an amendment published at 87 FR 73900, Dec. 1, 2022.
+
 (a) *General.* In accordance with 10 U.S.C. 2324(h) and 41 U.S.C. 4307, a proposal shall not be accepted and no agreement shall be made to establish final indirect cost rates unless the costs have been certified by the contractor.
 
 (b) *Waiver of certification.* (1) The agency head, or designee, may waive the certification requirement when -
