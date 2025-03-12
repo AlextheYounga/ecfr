@@ -1,10 +1,8 @@
 ##### § 571.139 Standard No. 139; New pneumatic radial tires for light vehicles. #####
 
-Link to an amendment published at 86 FR 48545, Aug. 31, 2021.
-
 S1. *Scope and purpose.* This standard specifies tire dimensions, test requirements, labeling requirements, and defines tire load ratings.
 
-S2 *Application.* This standard applies to new pneumatic radial tires for use on motor vehicles (other than motorcycles and low speed vehicles) that have a gross vehicle weight rating (GVWR) of 10,000 pounds or less and that were manufactured after 1975. This standard does not apply to special tires (ST) for trailers in highway service, tires for use on farm implements (FI) in agricultural service with intermittent highway use, tires with rim diameters of 8 inches and below, or T-type temporary use spare tires with radial construction.
+S2 *Application.* This standard applies to new pneumatic radial tires for use on motor vehicles (other than motorcycles and low speed vehicles) that have a gross vehicle weight rating (GVWR) of 10,000 pounds or less and that were manufactured after 1975. This standard does not apply to special tires (ST) for trailers in highway service, tires for use on farm implements (FI) in agricultural service with intermittent highway use, tires with rim diameters of 12 inches and below, T-type temporary use spare tires with radial construction, and light truck tires with a tread depth of 18/32 inch or greater.
 
 S3 *Definitions.*
 
@@ -88,7 +86,7 @@ S4.1. Each manufacturer of tires must ensure that a listing of the rims that may
 
 S4.1.1 Each rim listing for a tire must include dimensional specifications and a diagram of the rim and must be in one of the following forms:
 
-(a) Listed by manufacturer name or brand name in a document furnished to dealers of the manufacturer's tires, to any person upon request, and in duplicate to: Docket Section, National Highway Traffic Safety Administration, 400 Seventh Street, SW., Washington, DC 20590; or
+(a) Listed by manufacturer name or brand name in a document furnished to dealers of the manufacturer's tires, to any person upon request, and in duplicate to the Docket Section (No. NHTSA-2009-0117), National Highway Traffic Safety Administration, West Building, 1200 New Jersey Ave. SE, Washington, DC 20590; or
 
 (b) Contained in publications, current at the date of manufacture of the tire or any later date, of at least one of the following organizations:
 
@@ -217,18 +215,19 @@ S6.2 High Speed Performance
 
 S6.2.1.1.1 Mount the tire on a test rim and inflate it to the pressure specified for the tire in the following table:
 
-|                          Tire application                           |Test pressure (kPa)|
-|---------------------------------------------------------------------|-------------------|
-|                         Passenger car tires                         |                   |
-|                            Standard load                            |        220        |
-|                             Extra load                              |        260        |
-|                            Load Range C                             |        320        |
-|                            Load Range D                             |        410        |
-|                            Load Range E                             |        500        |
-|Light truck tires with a nominal cross section \>295 mm (11.5 inches)|                   |
-|                            Load Range C                             |        230        |
-|                            Load Range D                             |        320        |
-|                            Load Range E                             |        410        |
+|                          Tire application                           |Test  <br/>pressure  <br/>(kPa)|
+|---------------------------------------------------------------------|-------------------------------|
+|                        Passenger car tires:                         |                               |
+|                            Standard load                            |              220              |
+|                             Extra load                              |              260              |
+|Light truck tires with a nominal cross section ≤295 mm (11.5 inches):|                               |
+|                            Load Range C                             |              320              |
+|                            Load Range D                             |              410              |
+|                            Load Range E                             |              500              |
+|Light truck tires with a nominal cross section \>295 mm (11.5 inches)|                               |
+|                            Load Range C                             |              230              |
+|                            Load Range D                             |              320              |
+|                            Load Range E                             |              410              |
 
 S6.2.1.1.2 Condition the assembly at 32 to 38 °C for not less than 3 hours.
 
@@ -266,18 +265,19 @@ S6.3 Tire Endurance
 
 S6.3.1.1.1 Mount the tire on a test rim and inflate it to the pressure specified for the tire in the following table:
 
-|                          Tire application                           |Test pressure (kPa)|
-|---------------------------------------------------------------------|-------------------|
-|                         Passenger car tires                         |                   |
-|                            Standard load                            |        180        |
-|                             Extra load                              |        220        |
-|                            Load Range C                             |        260        |
-|                            Load Range D                             |        340        |
-|                            Load Range E                             |        410        |
-|Light truck tires with a nominal cross section \>295 mm (11.5 inches)|                   |
-|                            Load Range C                             |        190        |
-|                            Load Range D                             |        260        |
-|                            Load Range E                             |        340        |
+|                          Tire application                           |Test  <br/>pressure  <br/>(kPa)|
+|---------------------------------------------------------------------|-------------------------------|
+|                        Passenger car tires:                         |                               |
+|                            Standard load                            |              180              |
+|                             Extra load                              |              220              |
+|Light truck tires with a nominal cross section ≤295 mm (11.5 inches) |                               |
+|                            Load Range C                             |              260              |
+|                            Load Range D                             |              340              |
+|                            Load Range E                             |              410              |
+|Light truck tires with a nominal cross section \>295 mm (11.5 inches)|                               |
+|                            Load Range C                             |              190              |
+|                            Load Range D                             |              260              |
+|                            Load Range E                             |              340              |
 
 S6.3.1.1.2 Condition the assembly at 32 to 38 °C for not less than 3 hours.
 
@@ -315,18 +315,19 @@ S6.4 Low Inflation Pressure Performance
 
 S6.4.1.1.1 This test is conducted following completion of the tire endurance test using the same tire and rim assembly tested in accordance with S6.3 with the tire deflated to the following appropriate pressure:
 
-|                          Tire application                           |Test pressure (kPa)|
-|---------------------------------------------------------------------|-------------------|
-|                         Passenger car tires                         |                   |
-|                            Standard load                            |        140        |
-|                             Extra load                              |        160        |
-|                            Load Range C                             |        200        |
-|                            Load Range D                             |        260        |
-|                            Load Range E                             |        320        |
-|Light truck tires with a nominal cross section \>295 mm (11.5 inches)|                   |
-|                            Load Range C                             |        150        |
-|                            Load Range D                             |        200        |
-|                            Load Range E                             |        260        |
+|                          Tire application                           |Test  <br/>pressure  <br/>(kPa)|
+|---------------------------------------------------------------------|-------------------------------|
+|                         Passenger car tires                         |                               |
+|                            Standard load                            |              140              |
+|                             Extra load                              |              160              |
+|Light truck tires with a nominal cross section ≤295 mm (11.5 inches) |                               |
+|                            Load Range C                             |              200              |
+|                            Load Range D                             |              260              |
+|                            Load Range E                             |              320              |
+|Light truck tires with a nominal cross section \>295 mm (11.5 inches)|                               |
+|                            Load Range C                             |              150              |
+|                            Load Range D                             |              200              |
+|                            Load Range E                             |              260              |
 
 S6.4.1.1.2 After the tire is deflated to the appropriate test pressure in S6.4.1.1.1 at the completion of the endurance test, condition the assembly at 32 to 38 °C for not less than 2 hours.
 

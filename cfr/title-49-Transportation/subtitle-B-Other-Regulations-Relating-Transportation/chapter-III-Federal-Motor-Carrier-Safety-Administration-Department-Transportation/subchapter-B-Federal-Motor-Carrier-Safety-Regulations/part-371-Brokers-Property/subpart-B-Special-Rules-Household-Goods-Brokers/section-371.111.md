@@ -10,7 +10,7 @@
 
 (b) If an individual shipper elects to waive physical receipt of the Federal consumer protection information by one of the methods described in paragraphs (a)(2) and (a)(3) of this section, and elects to access the same information via the hyperlink on the Internet as provided in paragraph (a)(1) of this section, you must include a clear and concise statement on the written estimate described in § 371.113 that the individual shipper expressly agreed to access the Federal consumer protection information on the Internet.
 
-(c) You must obtain a signed, dated paper receipt showing the individual shipper has received both booklets that includes, if applicable, verification of the shipper's agreement to access the Federal consumer protection information on the Internet.
+(c) You must obtain a signed, dated receipt showing the individual shipper has received both booklets that includes, if applicable, verification of the shipper's agreement to access the Federal consumer protection information on the Internet.
 
 (d) You must maintain the signed receipt required by paragraph (c) of this section for three years from the date the individual shipper signs the receipt.
 

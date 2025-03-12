@@ -1,10 +1,8 @@
-##### § 571.109 Standard No. 109; New pneumatic and certain specialty tires. #####
-
-Link to an amendment published at 86 FR 48542, Aug. 31, 2021.
+##### § 571.109 Standard No. 109; New pneumatic tires for vehicles manufactured from 1949 to 1975, bias ply tires, and T-type spare tires. #####
 
 S1. *Scope.* This standard specifies tire dimensions and laboratory test requirements for bead unseating resistance, strength, endurance, and high speed performance; defines tire load ratings; and specifies labeling requirements for passenger car tires.
 
-S2 *Application.* This standard applies to new pneumatic radial tires for use on passenger cars manufactured before 1975, new pneumatic bias ply tires, T-type spare tires, ST, FI, and 8-12 rim diameter and below tires for use on passenger cars manufactured after 1948. However, it does not apply to any tire that has been so altered so as to render impossible its use, or its repair for use, as motor vehicle equipment.
+S2. *Application.* This standard applies to new pneumatic radial tires for use on passenger cars manufactured from 1949 through 1975, new pneumatic bias ply tires, and T-type spare tires. However, it does not apply to any tire that has been so altered so as to render impossible its use, or its repair for use, as motor vehicle equipment.
 
 S3. *Definitions.*
 
@@ -270,8 +268,6 @@ S6. *Nonconforming tires.* No tire that is designed for use on passenger cars an
 
 ![](/graphics/er27my98.013.gif)
 
-Figures for FMVSS No. 109
-
 |      Wheel size      |Dimension “A” for tires with maximum inflation pressure|           |       |   |
 |----------------------|-------------------------------------------------------|-----------|-------|---|
 |Other than 60 psi (in)|                  Other than 420 kPa                   |60 psi (in)|420 kPa|   |
@@ -294,7 +290,7 @@ Figures for FMVSS No. 109
 |         390          |                         11.00                         |    279    |       |   |
 |         415          |                         11.50                         |    292    |       |   |
 
-![](/graphics/er27my98.014.gif)![](/graphics/er27my98.015.gif)Appendix A - Federal Motor Vehicle Safety Standard No. 109
+![](/graphics/er27my98.014.gif)![](/graphics/er27my98.015.gif)Appendix A—Federal Motor Vehicle Safety Standard No. 109
 
 The following tables list tire sizes and tire constructions with proper load and inflation values. The tables group tires of related constructions and load/inflation values. Persons requesting the addition of new tire sizes to the tables or the addition of tables for new tire constructions may, when the additions requested are compatible with existent groupings, or when adequate justification for new tables exists, submit five (5) copies of information and data supporting the request to the Vehicle Dynamics Division, Office of Crash Avoidance Standards, National Highway Traffic Safety Administration, 400 Seventh Street SW., Washington, DC 20590.
 
@@ -312,8 +308,6 @@ The information should contain the following:
 
 6. Justification for the additional tire sizes.
 
-Table I-A - For Bias Ply Tires With Designated Section Width of 152 mm (6 Inches) and Above
-
 |   Cord material   |32 psi|36 psi|40 psi|240 kPa|280 kPa|300 kPa|340 kPa|
 |-------------------|------|------|------|-------|-------|-------|-------|
 |      Rayon:       |      |      |      |       |       |       |       |
@@ -323,8 +317,6 @@ Table I-A - For Bias Ply Tires With Designated Section Width of 152 mm (6 Inches
 |     (in-lbs)      |2,600 |3,900 |5,200 | 2,600 | 5,200 | 2,600 | 5,200 |
 |     (joules)      | 294  | 441  | 588  |  294  |  588  |  294  |  588  |
 
-Table I-B - For Bias Ply Tires With Designated Section Width Below 152 mm (6 Inches)
-
 |   Cord material   |32 psi|36 psi|40 psi|240 kPa|280 kPa|300 kPa|340 kPA|
 |-------------------|------|------|------|-------|-------|-------|-------|
 |      Rayon:       |      |      |      |       |       |       |       |
@@ -333,8 +325,6 @@ Table I-B - For Bias Ply Tires With Designated Section Width Below 152 mm (6 Inc
 |Nylon or polyester:|      |      |      |       |       |       |       |
 |     (in-lbs)      |1,950 |2,925 |3,900 | 1,950 | 3,900 | 1,950 | 3,900 |
 |     (joules)      | 220  | 330  | 441  |  220  |  441  |  220  |  441  |
-
-Table I-C - For Radial Ply Tires
 
 |Size designation|Maximum permissible inflation|     |     |     |     |     |     |     |
 |----------------|-----------------------------|-----|-----|-----|-----|-----|-----|-----|
@@ -347,23 +337,15 @@ Table I-C - For Radial Ply Tires
 |    (in-lbs)    |            2,600            |3,900|5,200|2,600|5,200|2,600|5,200|2,600|
 |    (joules)    |             294             | 441 | 588 | 294 | 588 | 294 | 588 | 294 |
 
-Table I-D - For Tires With 420 kPa (60 psi) Maximum Permissible Inflation Pressure and Maximum Load Rating 399 kg (880 lb) and Above
-
 |  Cord material   |     Inch-pounds joules (J)      |
 |------------------|---------------------------------|
 |      Rayon       |1,650 inch pounds 186 joules (J).|
 |Nylon or Polyester|2,600 inch pounds 294 joules (J).|
 
-Table I-E - For Tires With 420 kPa (60 psi) Maximum Permissible Inflation Pressure and Maximum Load Rating Below 399 kg (880 lb)
-
 |  Cord material   |     Inch-pounds joules (J)      |
 |------------------|---------------------------------|
 |      Rayon       |1,000 inch pounds 113 joules (J).|
 |Nylon or Polyester|1,950 inch pounds 220 joules (J).|
-
-Table II - Test Inflation Pressures
-
-[Maximum permissible inflation pressure to be used for the following test]
 
 |                    Test type                    |psi|kPa|   |   |   |   |   |   |   |
 |-------------------------------------------------|---|---|---|---|---|---|---|---|---|

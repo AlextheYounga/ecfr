@@ -1,5 +1,7 @@
 ##### § 33.120 Monitoring and compliance. #####
 
+Link to an amendment published at 86 FR 53502, Sept. 27, 2021.
+
 (a) *General.* (1) Following the issuance of a final decision to approve a section 1332 waiver by the Secretary and the Secretary of Health and Human Services, as applicable, a State must comply with all applicable Federal laws, regulations, and interpretive policy statements, as well as interpretive guidance published by the Secretary and the Secretary of Health and Human Services, unless expressly waived. A State must, within the timeframes specified in law, regulation, interpretive policy or guidance, come into compliance with any changes in Federal law, regulation, or policy affecting section 1332 waivers, unless the provision being changed is expressly waived.
 
 (2) The Secretary and the Secretary of Health and Human Services will examine compliance with Federal and regulatory requirements consistent with § 33.108(f)(3)(iv) and interpretive guidance published by the Secretary and the Secretary of Health and Human Services when conducting implementation reviews under paragraph (b) of this section.

@@ -1,5 +1,7 @@
 ##### § 117.1093 Milwaukee, Menomonee, and Kinnickinnic Rivers and South Menomonee and Burnham Canals. #####
 
+Link to an amendment published at 86 FR 53216, Sept. 27, 2021.
+
 (a) The draws of each bridge listed in this section shall open as soon as possible for the passage of public vessels of the United States, vessels carrying United States mail, vessels licensed to carry 50 or more passengers when on their regular routes, and fireboats of the City of Milwaukee.
 
 (b) For all bridges, the drawtender's acknowledging signal when the draw will open is the same as the opening signal. The acknowledging signal when the draw will not open, or is open and must be closed promptly is four short blasts.

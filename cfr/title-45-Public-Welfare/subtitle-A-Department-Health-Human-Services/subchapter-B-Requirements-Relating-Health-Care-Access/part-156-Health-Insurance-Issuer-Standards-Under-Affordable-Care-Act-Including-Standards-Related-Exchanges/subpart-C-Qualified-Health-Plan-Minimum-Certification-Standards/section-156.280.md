@@ -1,5 +1,7 @@
 ##### § 156.280 Separate billing and segregation of funds for abortion services. #####
 
+Link to an amendment published at 86 FR 53506, Sept. 27, 2021.
+
 (a) *State opt-out of abortion coverage.* A QHP issuer must comply with a State law that prohibits abortion coverage in QHPs.
 
 (b) *Termination of opt out.* A QHP issuer may provide coverage of abortion services through the Exchange in a State described in paragraph (a) of this section if the State repeals such law.

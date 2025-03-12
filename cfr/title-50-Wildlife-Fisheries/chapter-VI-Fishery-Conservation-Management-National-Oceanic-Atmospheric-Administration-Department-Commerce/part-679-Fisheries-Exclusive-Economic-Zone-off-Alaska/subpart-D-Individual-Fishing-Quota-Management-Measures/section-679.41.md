@@ -1,7 +1,5 @@
 ##### § 679.41 Transfer of quota shares and IFQ. #####
 
-Link to an amendment published at 86 FR 16547, Mar. 30, 2021.
-
 (a) *General.* (1) Except as provided in paragraph (a)(2) of this section, transfer of QS or IFQ means any transaction requiring QS, or the use thereof in the form of IFQ, to pass from one person to another, permanently or for a fixed period of time.
 
 (2) Transactions requiring IFQ permits to be issued in the name of a hired master employed by an individual or a corporation are not transfers of QS or IFQ.
@@ -210,9 +208,7 @@ Link to an amendment published at 86 FR 16547, Mar. 30, 2021.
 
 (h) *Transfer of IFQ.* (1) Pursuant to paragraph (a) of this section, an Application for Transfer must be approved by the Regional Administrator before a person may use any IFQ that results from a direct transfer to harvest halibut or sablefish. After approving the Application for Transfer, the Regional Administrator will change any IFQ accounts affected by the approved transfer and issue all necessary IFQ permits.
 
-(2) [Reserved]
-
-(3) IFQ resulting from categories B, C, or D QS may not be transferred separately from its originating QS, except as provided in paragraph (d), (f), (k), (l), (m), (o), or (p) of this section.
+(2) IFQ resulting from categories B, C, or D QS may not be transferred separately from its originating QS, except as provided in paragraph (d), (f), (k), (l), (m), or (o) of this section.
 
 (i) *Transfer across catcher vessel categories* - (1) *CDQ compensation.* Persons issued CDQ compensation QS in a catcher vessel category, pursuant to § 679.41(j), and in an IFQ regulatory area in which they do not hold QS other than CDQ compensation QS, may use that CDQ compensation QS on any catcher vessel. This exemption from catcher vessel categories ends upon the first transfer of the CDQ compensation QS. CDQ compensation QS being transferred will be permanently assigned to a specific catcher vessel category as designated by the person receiving the transfer.
 
@@ -366,10 +362,4 @@ QN = (QC × QSPN × RATE)/(SUMCDQ − [RATE × SUMTAC]) ([1 − RATE] × TACAVE)
 
 (4) A CDQ group that receives halibut IFQ by transfer may not transfer that halibut IFQ to any other person.
 
-(p) *Temporary IFQ transfer for 2021.* During the 2021 IFQ fishing year only, the Regional Administrator may approve a temporary transfer for IFQ derived from categories B, C, or D QS.
-
-(1) A QS holder may apply for a temporary transfer by submitting an Application for Temporary Transfer of Halibut/Sablefish Individual Fishing Quota (IFQ) to the Alaska Region, NMFS. NMFS will transfer, upon approval of the application, the applicable IFQ from the applicant (transferor) to the recipient (transferee). The application is available at *http://alaskafisheries.noaa.gov* or by calling 1-800-304-4846. A certification from a notary is not required for NMFS to approve an Application for Temporary Transfer of Halibut/Sablefish Individual Fishing Quota.
-
-(2) [Reserved]
-
-[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.41, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 86 FR 16546, Mar. 30, 2021, § 679.41 was amended by adding paragraphs (h)(3) and (p), effective Mar. 30, 2021, through Sept. 27, 2021.
+[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.41, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

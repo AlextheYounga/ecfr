@@ -1,0 +1,5 @@
+##### § 431.484 Test procedure. #####
+
+(a) *Scope.* Pursuant to section 343(a) of EPCA, this section provides the test procedures for measuring the efficiency of dedicated-purpose pool pump motors. (42 U.S.C. 6314) For purposes of this part and EPCA, the test procedures for measuring the efficiency of dedicated-purpose pool pump motors shall be the test procedure specified in paragraph (b) of this section.
+
+(b) *Testing and calculations.* At such time as compliance is required with a labeling requirement or an energy conservation standard, the full-load efficiency of each dedicated-purpose pool pump motor model (inclusive of the drive, if the dedicated-purpose pool pump motor model is placed into commerce with a drive, or is unable to operate without the presence of a drive) is determined in accordance with CSA C747-09, Section 1.6 “Scope”, Section 3 “Definitions”, Section 4 “General requirements”, Section 5, “General test requirements”, and Section 6 “Test method” (incorporated by reference, see § 431.482).

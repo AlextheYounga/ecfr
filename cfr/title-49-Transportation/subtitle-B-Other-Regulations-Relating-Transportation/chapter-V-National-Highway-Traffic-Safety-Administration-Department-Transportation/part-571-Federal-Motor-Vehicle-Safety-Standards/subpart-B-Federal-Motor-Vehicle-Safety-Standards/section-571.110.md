@@ -1,10 +1,8 @@
 ##### § 571.110 Tire selection and rims and motor home/recreation vehicle trailer load carrying capacity information for motor vehicles with a GVWR of 4,536 kilograms (10,000 pounds) or less. #####
 
-Link to an amendment published at 86 FR 48542, Aug. 31, 2021.
-
 S1. *Purpose and scope.* This standard specifies requirements for tire selection to prevent tire overloading and for motor home/recreation vehicle trailer load carrying capacity information.
 
-S2. *Application.* This standard applies to motor vehicles with a gross vehicle weight rating (GVWR or 4,536 kilograms (10,000 pounds) or less, except for motorcycles, and to non-pneumatic spare tire assemblies for those vehicles.
+S2. *Application.* This standard applies to motor vehicles with a gross vehicle weight rating (GVWR) of 4,536 kilograms (10,000 pounds) or less, except for motorcycles, and to non-pneumatic spare tire assemblies for those vehicles.
 
 S3. *Definitions.*
 
@@ -12,7 +10,7 @@ S3. *Definitions.*
 
 *Curb weight* means the weight of a motor vehicle with standard equipment including the maximum capacity of fuel, oil, and coolant, and, if so equipped, air conditioning and additional weight optional engine.
 
-*Maximum loaded vehicle weight* means the sum of -
+*Maximum loaded vehicle weight* means the sum of—
 
 (a) Curb weight;
 
@@ -64,7 +62,7 @@ S4.1 *General* (a) Subject to the exceptions set forth in S4.1(b), vehicles shal
 
 (1) Passenger cars may be equipped with pneumatic T-type temporary spare tire assemblies that meet the requirements of § 571.109 or non-pneumatic spare tire assemblies that meet the requirements of § 571.129 and S6 and S8 of this standard. Passenger cars equipped with a non-pneumatic spare tire assembly shall also meet the requirements of S4.3(e), S5, and S7 of this standard.
 
-(2) Trailers may be equipped with ST tires, FI tires, or tires with a rim diameter code of 12 or below that meet the requirements of § 571.109 or § 571.119.
+(2) Trailers may be equipped with ST tires, FI tires, or tires with a rim diameter code of 12 or below that meet the requirements of § 571.119.
 
 S4.2 *Tire load limits.*
 
@@ -110,15 +108,15 @@ S4.3.2 *Requirements for altered vehicles.* Except as provided in S10, a new pla
 
 S4.3.3 *Additional labeling information for vehicles other than passenger cars.* Each vehicle shall show the size designation and, if applicable, the type designation of rims (not necessarily those on the vehicle) appropriate for the tire appropriate for use on that vehicle, including the tire installed as original equipment on the vehicle by the vehicle manufacturer, after each GAWR listed on the certification label required by § 567.4 or § 567.5 of this chapter. This information shall be in the English language, lettered in block capitals and numerals not less than 2.4 millimeters high and in the following format:
 
-Truck Example - Suitable Tire-Rim Choice
+Truck Example—Suitable Tire-Rim Choice
 
 GVWR: 2,441 kilograms (5381 pounds).
 
-GAWR: Front - 1,299 kilograms (2,864 pounds) with P265/70R16 tires, 16 × 8.0 rims at 248 kPa (36 psi) cold single.
+GAWR: Front—1,299 kilograms (2,864 pounds) with P265/70R16 tires, 16 × 8.0 rims at 248 kPa (36 psi) cold single.
 
-GAWR: Rear - 1,299 kilograms (2,864 pounds) with P265/70R16 tires, 16 × 8.00 rims, at 248 kPa (36 psi) cold single.
+GAWR: Rear—1,299 kilograms (2,864 pounds) with P265/70R16 tires, 16 × 8.00 rims, at 248 kPa (36 psi) cold single.
 
-S4.3.4 No inflation pressure other than the maximum permissible inflation pressure may be shown on the placard and, if any, tire inflation pressure label unless -
+S4.3.4 No inflation pressure other than the maximum permissible inflation pressure may be shown on the placard and, if any, tire inflation pressure label unless—
 
 (a) It is less than the maximum permissible inflation pressure;
 
@@ -135,8 +133,6 @@ S4.4.1 *Requirements.* Each rim shall:
 (a) Be constructed to the dimensions of a rim that is listed by the manufacturer of the tires as suitable for use with those tires, in accordance with S4 of § 571.139.
 
 (b) Except for trailers, in the event of rapid loss of inflation pressure with the vehicle traveling in a straight line at a speed of 97 km/h (60 mph), retain the deflated tire until the vehicle can be stopped with a controlled braking application.
-
-Table I - Occupant Loading and Distribution for Vehicle Normal Load for Various Designated Seating Capacities
 
 |Designated seating capacity, number of occupants|Vehicle normal load, number of occupants|       Occupant distribution in a normally loaded vehicle       |
 |------------------------------------------------|----------------------------------------|----------------------------------------------------------------|
@@ -177,7 +173,7 @@ S4.4.2. *Rim markings for vehicles other than passenger cars.* Each rim or, at t
 
 (e) The month, day and year or the month and year of manufacture, expressed either numerically or by use of a symbol, at the option of the manufacturer. For example: “September 4, 2001” may be expressed numerically as: “90401”, “904, 01” or “01, 904”; “September 2001” may be expressed as: “901”, “9, 01” or “01, 9”.
 
-(1) Any manufacturer that elects to express the date of manufacture by means of a symbol shall notify NHTSA in writing of the full names and addresses of all manufacturers and brand name owners utilizing that symbol and the name and address of the trademark owner of that symbol, if any. The notification shall describe in narrative form and in detail how the month, day, and year or the month and year are depicted by the symbol. Such description shall include an actual size graphic depiction of the symbol, showing and/or explaining the interrelationship of the component parts of the symbol as they will appear on the rim or single piece wheel disc, including dimensional specifications, and where the symbol will be located on the rim or single piece wheel disc. The notification shall be received by NHTSA not less than 60 calendar days before the first use of the symbol. The notification shall be mailed to the Office of Vehicle Safety Compliance (NVS-222), National Highway Traffic Safety Administration, 400 Seventh Street SW., Washington, DC 20590. All information provided to NHTSA under this paragraph will be placed in the public docket.
+(1) Any manufacturer that elects to express the date of manufacture by means of a symbol shall notify NHTSA in writing of the full names and addresses of all manufacturers and brand name owners utilizing that symbol and the name and address of the trademark owner of that symbol, if any. The notification shall describe in narrative form and in detail how the month, day, and year or the month and year are depicted by the symbol. Such description shall include an actual size graphic depiction of the symbol, showing and/or explaining the interrelationship of the component parts of the symbol as they will appear on the rim or single piece wheel disc, including dimensional specifications, and where the symbol will be located on the rim or single piece wheel disc. The notification shall be received by NHTSA not less than 60 calendar days before the first use of the symbol. The notification shall be mailed to National Highway Traffic Safety Administration, West Building, 1200 New Jersey Ave. SE, Washington, DC 20590. All information provided to NHTSA under this paragraph will be placed in the public docket.
 
 (2) Each manufacturer of wheels shall provide an explanation of its date of manufacture symbol to any person upon request.
 
@@ -191,9 +187,9 @@ S6 *Labeling Requirements for Non-Pneumatic Spare Tires or Tire Assemblies.* Eac
 
 S7. *Requirements for Passenger Cars Equipped with Non-Pneumatic Spare Tire Assemblies*
 
-S7.1 *Vehicle Placarding Requirements.* A placard, permanently affixed to the inside of the vehicle trunk or an equally accessible location adjacent to the non-pneumatic spare tire assembly, shall display the information set forth in S6 in block capitals and numerals not less than 6 millimeters high preceded by the words “IMPORTANT - USE OF SPARE TIRE” in letters not less than 9 millimeters high.
+S7.1 *Vehicle Placarding Requirements.* A placard, permanently affixed to the inside of the vehicle trunk or an equally accessible location adjacent to the non-pneumatic spare tire assembly, shall display the information set forth in S6 in block capitals and numerals not less than 6 millimeters high preceded by the words “IMPORTANT—USE OF SPARE TIRE” in letters not less than 9 millimeters high.
 
-S7.2 *Supplementary Information.* The owner's manual of the passenger car shall contain, in writing in the English language and in not less than 10 point type, the following information under the heading “IMPORTANT - USE OF SPARE TIRE”:
+S7.2 *Supplementary Information.* The owner's manual of the passenger car shall contain, in writing in the English language and in not less than 10 point type, the following information under the heading “IMPORTANT—USE OF SPARE TIRE”:
 
 (a) A statement indicating the information related to appropriate use for the non-pneumatic spare tire including at a minimum the information set forth in S6 (a) and (b) and either the information set forth in S4.3(g) or a statement that the information set forth in S4.3(g) is located on the vehicle placard and on the non-pneumatic tire;
 
@@ -265,7 +261,7 @@ S10.1 If weight exceeding the lesser of 1.5 percent of GVWR or 45.4 kg (100 poun
 
 (a) Permanently affix load carrying capacity modification labels (Figure 7), which display the amount the load carrying capacity is reduced to the nearest kilogram with conversion to the nearest pound, within 25 millimeters of the original, permanent RV load carrying capacity label (Figure 3 or 4) and the original placard (Figure 1). The load carrying capacity modification labels must be legible, visible, permanent, moisture resistant, presented in the English language, have a minimum print size of 2.4 millimeters (3/32 inches) high and be printed in black print on a yellow background, or
 
-(b) If the manufacturer selects S9.3.3(b), apply a temporary version of the load carrying capacity modification label (Figure 7) within 25 millimeters of the original, temporary RV load carrying capacity label (Figure 3 or 4) on the interior of the forward-most exterior passenger door on the right side of the vehicle, in addition to applying a permanent version of the same label within 25 mm of the placard required by S4.3 or S4.3.5. Both temporary and permanent versions of the load carrying capacity modification label (Figure 7) may be printed without values and values may be legibly applied to the label with a black, fine point, indelible marker. The label must contain the statements “CAUTION - LOAD CARRYING CAPACITY REDUCED” in block letters and “Modifications to this vehicle have reduced the original load carrying capacity by XXX kg or XXX lbs” in accordance with Figure 7. If two load carrying capacity modification labels are required (one permanent and one temporary), the weight values on each must agree, or
+(b) If the manufacturer selects S9.3.3(b), apply a temporary version of the load carrying capacity modification label (Figure 7) within 25 millimeters of the original, temporary RV load carrying capacity label (Figure 3 or 4) on the interior of the forward-most exterior passenger door on the right side of the vehicle, in addition to applying a permanent version of the same label within 25 mm of the placard required by S4.3 or S4.3.5. Both temporary and permanent versions of the load carrying capacity modification label (Figure 7) may be printed without values and values may be legibly applied to the label with a black, fine point, indelible marker. The label must contain the statements “CAUTION—LOAD CARRYING CAPACITY REDUCED” in block letters and “Modifications to this vehicle have reduced the original load carrying capacity by XXX kg or XXX lbs” in accordance with Figure 7. If two load carrying capacity modification labels are required (one permanent and one temporary), the weight values on each must agree, or
 
 (c) Modify the original, permanent RV load carrying capacity labels (Figures 3 and 4) and the placard (Figure 1) with correct vehicle capacity weight values. If the manufacturer selects S9.3.3(b), the temporary RV load carrying capacity labels (Figures 3 and 4) must also be modified with correct vehicle capacity weight values. Modification of labels requires a machine printed overlay with printed corrected values or blanks for corrected values that may be entered with a black, fine-point, indelible marker. Crossing out old values and entering corrected values on the original label is not permissible, or
 
@@ -273,4 +269,4 @@ S10.1 If weight exceeding the lesser of 1.5 percent of GVWR or 45.4 kg (100 poun
 
 S10.2 Corrected load carrying capacity weight values or the weight amount the load carrying capacity is reduced, must reflect the total weight added between final vehicle certification and first retail sale and must be accurate within one percent of the actual added weight. No action is required if the weight of the vehicle is reduced between final vehicle certification and first retail sale.
 
-![](/graphics/er04de07.043.gif)[36 FR 22902, Dec. 2, 1971]Editorial Note:For Federal Register citations affecting § 571.111, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+![](/graphics/er04de07.043.gif)[36 FR 22902, Dec. 2, 1971]Editorial Note:For Federal Register citations affecting § 571.110, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

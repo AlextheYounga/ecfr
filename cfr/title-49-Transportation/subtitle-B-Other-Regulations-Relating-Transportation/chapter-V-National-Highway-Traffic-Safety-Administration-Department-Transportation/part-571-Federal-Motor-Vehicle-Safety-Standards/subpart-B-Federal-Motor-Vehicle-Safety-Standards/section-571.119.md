@@ -1,8 +1,6 @@
-##### § 571.119 Standard No. 119; New pneumatic tires for motor vehicles with a GVWR of more than 4,536 kilograms (10,000 pounds) and motorcycles. #####
+##### § 571.119 Standard No. 119; New pneumatic tires for motor vehicles with a GVWR of more than 4,536 kilograms (10,000 pounds), specialty tires, and tires for motorcycles. #####
 
-Link to an amendment published at 86 FR 48543, Aug. 31, 2021.
-
-*S1. Scope.* This standard establishes performance and marking requirements for tires for use on motor vehicles with a GVWR of more than 10,000 pounds and motorcycles.
+S1. *Scope.* This standard establishes performance and marking requirements for tires for use on motor vehicles with a GVWR of more than 4,536 kilograms (10,000 pounds), specialty tires, and tires for motorcycles.
 
 *S2. Purpose.* The purpose of this standard is to provide safe operational performance levels for tires used on motor vehicles with a GVWR of more than 10,000 pounds, trailers, and motorcycles, and to place sufficient information on the tires to permit their proper selection and use.
 
@@ -48,7 +46,7 @@ S6.1.2 When tested in accordance with the procedures of S7.2:
 
 S6.2 *Strength.* When tested in accordance with the procedures of S7.3 a tire's average breaking energy value shall be not less than the value specified in Table II for that tire's size and load range.
 
-S6.3 *High speed performance.* When tested in accordance with the procedures of S7.3, a tire shall meet the requirements set forth in S6.1.1 and S6.1.2(a) and (b). However, this requirement applies only to motorcycle tires and to non-speed-restricted tires of nominal rim diameter code 14.5 or less marked load range A, B, C, or D.
+S6.3 *High speed performance.* When tested in accordance with the procedures of S7.4, a tire shall meet the requirements set forth in S6.1.1 and S6.1.2(a) and (b). However, this requirement applies only to motorcycle tires and to non-speed-restricted tires of nominal rim diameter code 14.5 or less marked load range A, B, C, or D.
 
 S6.4 *Treadwear indicators.* Except as specified in this paragraph, each tire shall have at least six treadwear indicators spaced approximately equally around the circumference of the tire that enable a person inspecting the tire to determine visually whether the tire has worn to a tread depth of 1.6 mm (one-sixteenth of an inch). Tires with a rim diameter code of 12 or smaller shall have at least three such treadwear indicators. Motorcycle tires shall have at least three such indicators which permit visual determination that the tire has worn to a tread depth of 0.8 mm (one-thirty-second of an inch).
 
@@ -62,13 +60,13 @@ S6.5 *Tire markings.* Except as specified in this paragraph, each tire shall be 
 
 (d) The maximum load rating and corresponding inflation pressure of the tire, shown as follows:
 
-(Mark on tires rated for single and dual load): Max load single \_\_kg (\_\_lb) at \_\_kPa (\_\_psi) cold. Max load dual \_\_kg (\_\_lb) at \_\_kPa (\_\_psi) cold.
+(Mark on tires rated for single and dual load): Max load single \_\_\_\_kg (\_\_\_\_lb) at \_\_\_\_kPa (\_\_\_\_psi) cold. Max load dual \_\_\_\_kg (\_\_\_\_lb) at \_\_\_\_kPa (\_\_\_\_psi) cold.
 
-(Mark on tires rated only for single load): Max load \_\_kg (\_\_lb) at \_\_kPa (\_\_psi) cold.
+(Mark on tires rated only for single load): Max load \_\_\_\_kg (\_\_\_\_lb) at \_\_\_\_kPa (\_\_\_\_psi) cold.
 
 (e) The speed restriction of the tire, if 90 km/h (55 mph) or less, shown as follows:
 
-Max speed \_\_km/h (\_\_mph).
+Max speed \_\_\_\_km/h (\_\_\_\_mph).
 
 (f) The actual number of plies and the composition of the ply cord material in the sidewall and, if different, in the tread area;
 
@@ -112,13 +110,13 @@ S7.3 *Strength.* (a) Mount the tire on a model rim assembly and inflate it to th
 
 (f) Compute the breaking energy for each test point by one of the two following formulas:
 
-(1) W = [(F × P)/2] × 10−3 (joules)
+(1) W = [(F × P)/2] × 10−3
 
-Where:W = Breaking energy (in joules) (kJ)F = Force in newtons (N) andP = Penetration in millimeters (mm), or;
+Where:W = Breaking energy in joules (J),F = Force in newtons (N), andP = Penetration in millimeters (mm), or;
 
-(2) W = (FP/2)
+(2) W = (F × P)/2
 
-Where:W = Breaking energy in inch-pounds,F = Force in pounds,P = Penetration in inches.
+Where:W = Breaking energy in inch-pounds (in-lb),F = Force in pounds (lb), andP = Penetration in inches (in).
 
 (g) Determine the average breaking energy value for the tire by computing the average of the values obtained in accordance with paragraph (f).
 
@@ -132,7 +130,7 @@ S7.4 *High speed performance.* (a) Perform steps (a) through (c) of S7.2.
 
 (e) Immediately after running the tire the required time, measure the tire inflation pressure. Remove the tire from the model rim assembly, and inspect the tire.
 
-Table I - Strength Test Plunger Diameter
+Table I—Strength Test Plunger Diameter
 
 |                  Tire type                   |Plunger diameter|    |
 |----------------------------------------------|----------------|----|
@@ -148,41 +146,46 @@ Table I - Strength Test Plunger Diameter
 |             Load range F or less             |     31.75      |11/4|
 |              Load range over F               |     38.10      |11/2|
 
-Table II - Minimum Static Breaking Energy
+Table II—Minimum Static Breaking Energy
 
-[Joules (J) and Inch-Pounds (inch-lbs)]
+[Joules (J) and Inch-Pounds (in-lb)]
 
-|      Tire characteristic       |Motorcycle|All 12 rim  <br/>diameter code or smaller except motorcycle|Light truck and 17.5 rim  <br/>diameter code or smaller Tubeless|Tires other than Light Truck, Motorcycle, 12 rim diameter code or smaller|        |      |         |                                                  |         |                                                        |        |      |        |      |
-|--------------------------------|----------|-----------------------------------------------------------|----------------------------------------------------------------|-------------------------------------------------------------------------|--------|------|---------|--------------------------------------------------|---------|--------------------------------------------------------|--------|------|--------|------|
-|Plunger diameter (mm and inches)| 7.94 mm  |                           5/16″                           |                            19.05 mm                            |                                  3/4″                                   |19.05 mm| 3/4″ |Tube type|Tubeless greater than 17.5 rim  <br/>diameter code|Tube type|Tubeless  <br/>greater than 17.5 rim  <br/>diameter code|        |      |        |      |
-|        Breaking Energy         |    J     |                          In-lbs                           |                               J                                |                                 In-lbs                                  |   J    |In-lbs|31.75 mm |                      11/4″                       |31.75 mm |                         11/4″                          |38.10 mm|11/2″ |38.10 mm|11/2″ |
-|               J                |  In-lbs  |                             J                             |                             In-lbs                             |                                    J                                    | In-lbs |  J   | In-lbs  |                                                  |         |                                                        |        |      |        |      |
-|          Load Range:           |          |                                                           |                                                                |                                                                         |        |      |         |                                                  |         |                                                        |        |      |        |      |
-|               A                |    16    |                            150                            |                               67                               |                                   600                                   |  225   |2,000 |         |                                                  |         |                                                        |        |      |        |      |
-|               B                |    33    |                            300                            |                              135                               |                                  1,200                                  |  293   |2,600 |         |                                                  |         |                                                        |        |      |        |      |
-|               C                |    45    |                            400                            |                              203                               |                                  1,800                                  |  361   |3,200 |   768   |                      6,800                       |   576   |                         5,100                          |        |      |        |      |
-|               D                |          |                                                           |                              271                               |                                  2,400                                  |  514   |4,550 |   892   |                      7,900                       |   734   |                         6,500                          |        |      |        |      |
-|               E                |          |                                                           |                              338                               |                                  3,000                                  |  576   |5,100 |  1,412  |                      12,500                      |   971   |                         8,600                          |        |      |        |      |
-|               F                |          |                                                           |                              406                               |                                  3,600                                  |  644   |5,700 |  1,785  |                      15,800                      |  1,412  |                         12,500                         |        |      |        |      |
-|               G                |          |                                                           |                                                                |                                                                         |  711   |6,300 |         |                                                  |         |                                                        | 2,282  |20,200| 1,694  |15,000|
-|               H                |          |                                                           |                                                                |                                                                         |  768   |6,800 |         |                                                  |         |                                                        | 2,598  |23,000| 2,090  |18,500|
-|               J                |          |                                                           |                                                                |                                                                         |        |      |         |                                                  |         |                                                        | 2,824  |25,000| 2,203  |19,500|
-|               L                |          |                                                           |                                                                |                                                                         |        |      |         |                                                  |         |                                                        | 3,050  |27,000|        |      |
-|               M                |          |                                                           |                                                                |                                                                         |        |      |         |                                                  |         |                                                        | 3,220  |28,500|        |      |
-|               N                |          |                                                           |                                                                |                                                                         |        |      |         |                                                  |         |                                                        | 3,389  |30,000|        |      |
+|                                      |                                                                         |                                                     |                                             |                                           |                                          |                                            |        |      |        |      |        |     |        |      |        |      |
+|--------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------|---------------------------------------------|-------------------------------------------|------------------------------------------|--------------------------------------------|--------|------|--------|------|--------|-----|--------|------|--------|------|
+|                                      |Tires other than light truck, motorcycle, 12 rim diameter code or smaller|                                                     |                                             |                                           |                                          |                                            |        |      |        |      |        |     |        |      |        |      |
+|         Tire characteristic          |                               Motorcycle                                |All 12 rim diameter code or smaller except motorcycle|Light Truck greater than 12 rim diameter code|Tube type greater than 12 rim diameter code|Tubeless 17.5 rim diameter code or smaller|Tubeless greater than 17.5 rim diameter code|        |      |        |      |        |     |        |      |        |      |
+|Plunger diameter  <br/>(mm and inches)|                                 7.94 mm                                 |                        5/16″                        |                  19.05 mm                   |                   3/4″                    |                 19.05 mm                 |                    3/4″                    |31.75 mm|11/4″ |38.10 mm|11/2″ |19.05 mm|3/4″ |31.75 mm|11/4″ |38.10 mm|11/2″ |
+|           Breaking Energy            |                                    J                                    |                        in-lb                        |                      J                      |                   in-lb                   |                    J                     |                   in-lb                    |   J    |in-lb |   J    |in-lb |   J    |in-lb|   J    |in-lb |   J    |in-lb |
+|             Load Range:              |                                                                         |                                                     |                                             |                                           |                                          |                                            |        |      |        |      |        |     |        |      |        |      |
+|                  A                   |                                   16                                    |                         150                         |                     67                      |                    600                    |                   225                    |                   2,000                    |        |      |        |      |  225   |2,000|        |      |        |      |
+|                  B                   |                                   33                                    |                         300                         |                     135                     |                   1,200                   |                   293                    |                   2,600                    |        |      |        |      |  293   |2,600|        |      |        |      |
+|                  C                   |                                   45                                    |                         400                         |                     203                     |                   1,800                   |                   361                    |                   3,200                    |  768   |6,800 |        |      |  361   |3,200|  576   |5,100 |        |      |
+|                  D                   |                                                                         |                                                     |                     271                     |                   2,400                   |                   514                    |                   4,550                    |  892   |7,900 |        |      |  514   |4,550|  734   |6,500 |        |      |
+|                  E                   |                                                                         |                                                     |                     338                     |                   3,000                   |                   576                    |                   5,100                    | 1,412  |12,500|        |      |  576   |5,100|  971   |8,600 |        |      |
+|                  F                   |                                                                         |                                                     |                     406                     |                   3,600                   |                   644                    |                   5,700                    | 1,785  |15,800|        |      |  644   |5,700| 1,412  |12,500|        |      |
+|                  G                   |                                                                         |                                                     |                                             |                                           |                   711                    |                   6,300                    |        |      | 2,282  |20,200|  711   |6,300|        |      | 1,694  |15,000|
+|                  H                   |                                                                         |                                                     |                                             |                                           |                   768                    |                   6,800                    |        |      | 2,598  |23,000|  768   |6,800|        |      | 2,090  |18,500|
+|                  J                   |                                                                         |                                                     |                                             |                                           |                                          |                                            |        |      | 2,824  |25,000|        |     |        |      | 2,203  |19,500|
+|                  L                   |                                                                         |                                                     |                                             |                                           |                                          |                                            |        |      | 3,050  |27,000|        |     |        |      |        |      |
+|                  M                   |                                                                         |                                                     |                                             |                                           |                                          |                                            |        |      | 3,220  |28,500|        |     |        |      |        |      |
+|                  N                   |                                                                         |                                                     |                                             |                                           |                                          |                                            |        |      | 3,389  |30,000|        |     |        |      |        |      |
 
-Table III - Endurance Test Schedule
+Note: For rayon cord tires, applicable energy values are 60 percent of those in table.
 
-|       Description       |    Load range     |Test wheel speed|Test load: Percent of maximum load rating|Total test  <br/>revolutions  <br/>(thousands)|                |   |     |
-|-------------------------|-------------------|----------------|-----------------------------------------|----------------------------------------------|----------------|---|-----|
-|          km/h           |        r/m        |   I-7 hours    |               II-16 hours               |                 III-24 hours                 |                |   |     |
-|Speed restricted service:|                   |                |                                         |                                              |                |   |     |
-|    90 km/h (55 mph)     |F, G, H, J, L, M, N|       40       |                   125                   |                      66                      |       84       |101|352.0|
-|    80 km/h (50 mph)     |   F, G, H, J, L   |       32       |                   100                   |                      66                      |       84       |101|282.5|
-|    56 km/h (35 mph)     |        All        |       24       |                   75                    |                      66                      |       84       |101|211.0|
-|       Motorcycle        |        All        |       80       |                   250                   |               <sup>1</sup> 100               |<sup>2</sup> 108|117|510.0|
-|        All other        |         F         |       64       |                   200                   |                      66                      |       84       |101|564.0|
-|                         |         G         |       56       |                   175                   |                      66                      |       84       |101|493.5|
-|                         |    H, J, L, N     |       48       |                   150                   |                      66                      |       84       |101|423.5|
+Table III—Endurance Test Schedule
+
+|       Description       |                      Load range                      |           Test wheel speed           |Test load: Percent of maximum load  <br/>rating|  Total test  <br/>revolution  <br/>(thousands)   |                                                  |                                           |                                                     |
+|-------------------------|------------------------------------------------------|--------------------------------------|-----------------------------------------------|--------------------------------------------------|--------------------------------------------------|-------------------------------------------|-----------------------------------------------------|
+|          km/h           |                         r/m                          |        Step I  <br/>(7 hours)        |           Step II  <br/>(16 hours)            |            Step III  <br/>(24 hours)             |                                                  |                                           |                                                     |
+|Speed-restricted service:|                                                      |                                      |                                               |                                                  |                                                  |                                           |                                                     |
+|    90 km/h (55 mph)     |                         All                          |                  40                  |                      125                      |                        66                        |                        84                        |                    101                    |                        352.5                        |
+|    80 km/h (50 mph)     |          C, D  <br/>E, F, G, H, J, L, M, N           |             48  <br/>32              |                 150  <br/>100                 |                   75  <br/>66                    |                   97  <br/>84                    |               114  <br/>101               |                  423.0  <br/>282.0                  |
+|    56 km/h (35 mph)     |                         All                          |                  24                  |                      75                       |                        66                        |                        84                        |                    101                    |                        211.5                        |
+|       Motorcycle        |                         All                          |                  80                  |                      250                      |                 <sup>a</sup>100                  |                 <sup>b</sup>108                  |                    117                    |                        510.0                        |
+|        All other        |A, B, C, D  <br/>E  <br/>F  <br/>G  <br/>H, J, L, M, N|80  <br/>64  <br/>64  <br/>56  <br/>48|  250  <br/>200  <br/>200  <br/>175  <br/>150  |<sup>a</sup>75  <br/>70  <br/>66  <br/>66  <br/>66|<sup>b</sup>97  <br/>88  <br/>84  <br/>84  <br/>84|114  <br/>106  <br/>101  <br/>101  <br/>101|510.0  <br/>564.0  <br/>564.0  <br/>493.5  <br/>423.0|
+
+<sup>a</sup> 4 hours for tire sizes subject to high speed requirements S6.3.
+
+<sup>b</sup> 6 hours for tire sizes subject to high speed requirements S6.3.
 
 (Secs. 113, 201, 80 Stat. 718 (15 U.S.C. 1402, 1421); secs. 103, 112, 119, 201, 203, Pub. L. 89-563, 80 Stat. 718 (15 U.S.C. 1392, 1401, 1421, 1423); delegation of authority at 49 CFR 1.50)[38 FR 31301, Nov. 13, 1973]Editorial Note:For Federal Register citations affecting § 571.119, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

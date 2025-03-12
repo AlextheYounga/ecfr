@@ -1,5 +1,7 @@
 ##### § 33.118 Modification from the normal public notice requirements during the public health emergency. #####
 
+Link to an amendment published at 86 FR 53501, Sept. 27, 2021.
+
 (a) The Secretary and the Secretary of Health and Human Services may modify, in part, the State public notice requirements under § 33.112 and the Federal public notice procedures under § 33.116 to expedite a decision on a proposed waiver request during the public health emergency for COVID-19, as defined in 42 CFR 400.200, when a delay would undermine or compromise the purpose of the proposed waiver request and be contrary to the interests of consumers. These flexibilities are limited to event-triggered, emergent situations, and the flexibilities outlined in this section will not be available for States seeking to address a threat to consumers' access to health coverage or care that existed prior to the public health emergency for COVID-19.
 
 (b) A State must meet all of the following criteria to request a modification under paragraph (a) of this section:

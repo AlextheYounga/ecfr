@@ -1,5 +1,7 @@
 ##### § 233.11 Mail Screening. #####
 
+Link to an amendment published at 86 FR 53222, Sept. 27, 2021.
+
 (a) *Screening* of *Mail Transported by Aircraft* - (1) *Authority.* Pursuant to 39 U.S.C. 5401, the Postal Service is authorized to provide for the safe and expeditious transportation of mail by aircraft and may make such rules, regulations, and orders consistent with part A of subtitle VII of title 49 of the Code of Federal Regulations or any order, rule or regulation made by the Secretary of Transportation as may be necessary for such transportation, except as otherwise provided in 39 U.S.C. 5402.
 
 (2) *Purpose.* To prevent and deter the carriage of unauthorized explosives, incendiaries, or other destructive substances or items in the mail or in postal products onboard aircraft and to ensure the security and safety of all persons and property onboard aircraft carrying mail.

@@ -1,6 +1,6 @@
 ##### § 679.22 Closures. #####
 
-(a) *BSAI* - (1) *Zone 1 (512) closure to trawl gear.* No fishing with trawl gear is allowed at any time in reporting Area 512 of Zone 1 in the Bering Sea subarea.
+(a) *BSAI*—(1) *Zone 1 (512) closure to trawl gear.* No fishing with trawl gear is allowed at any time in reporting Area 512 of Zone 1 in the Bering Sea subarea.
 
 (2) *Zone 1 (516) closure to trawl gear.* No fishing with trawl gear is allowed at any time in reporting Area 516 of Zone 1 in the Bering Sea Subarea during the period March 15 through June 15.
 
@@ -14,13 +14,13 @@
 
 (B) Cape Peirce, east of a straight line connecting 58°30.00′ N. lat./161°46.20′ W. long., and 58°21.00′ N. lat./161°46.20′ W. long.
 
-(5) *Catcher Vessel Operational Area (CVOA)* - (i) *Definition.* The CVOA is defined as that part of the BSAI that is south of 56°00′ N lat. and between 163°00′ W long. and 167°30′ W long., and north of the Aleutian Islands (Figure 2 to part 679).
+(5) *Catcher Vessel Operational Area (CVOA)*—(i) *Definition.* The CVOA is defined as that part of the BSAI that is south of 56°00′ N lat. and between 163°00′ W long. and 167°30′ W long., and north of the Aleutian Islands (Figure 2 to part 679).
 
 (ii) *Catcher/processor restrictions.* A catcher/processor vessel authorized to fish for BSAI pollock under § 679.4 is prohibited from conducting directed fishing for pollock in the CVOA during the B pollock season defined at § 679.23(e)(2)(ii), unless it is directed fishing for Pollock CDQ.
 
 (6) *Pribilof Islands Habitat Conservation Zone.* Directed fishing for groundfish using trawl gear or pot gear, or fishing for halibut using pot gear, is prohibited at all times in the area defined in Figure 10 to this part as the Pribilof Islands Habitat Conservation Zone.
 
-(7) *Steller sea lion protection areas, Bering Sea reporting areas.* (A) *Boundaries.* The Bogoslof area consists of all waters of area 518 as described in Figure 1 of this part south of a straight line connecting 55°00′ N lat./170°00′ W long., and 55°00′ N lat./168°11′4.75′ W long.;
+(7) *Steller sea lion protection areas, Bering Sea reporting areas*—(i) *Bogoslof area*—(A) *Boundaries.* The Bogoslof area consists of all waters of area 518 as described in Figure 1 of this part south of a straight line connecting 55°00′ N lat./170°00′ W long., and 55°00′ N lat./168°11′4.75′ W long.;
 
 (B) *Fishing prohibition.* All waters within the Bogoslof area are closed to directed fishing for pollock, Pacific cod, and Atka mackerel by vessels named on a Federal Fisheries Permit under § 679.4(b), except as provided in paragraph (a)(7)(i)(C) of this section.
 
@@ -28,7 +28,7 @@
 
 (*2*) If the Regional Administrator determines that 113 mt of Pacific cod have been caught by catcher vessels less than 60 ft (18.3 m) LOA using jig or hook-and-line gear in the exemption area described in paragraph (a)(7)(i)(C)(1) of this section, the Regional Administrator will prohibit directed fishing for Pacific cod by catcher vessels less than 60 ft (18.3 m) LOA using jig or hook-and-line gear in the exemption area by notification published in the Federal Register.
 
-(ii) *Bering Sea Pollock Restriction Area.* (A) *Boundaries.* The Bering Sea Pollock Restriction Area consists of all waters of the Bering Sea subarea south of a line connecting the points 163°0′00″ W long./55°46′30″ N lat., 165°08′00″ W long./54°42′9″ N lat., 165°40′00″ W long./54°26′30″ N lat., 166°12′00″ W long./54°18′40″ N lat., and 167°0′00″ W long./54°8′50″ N lat.
+(ii) *Bering Sea Pollock Restriction Area*—(A) *Boundaries.* The Bering Sea Pollock Restriction Area consists of all waters of the Bering Sea subarea south of a line connecting the points 163°0′00″ W long./55°46′30″ N lat., 165°08′00″ W long./54°42′9″ N lat., 165°40′00″ W long./54°26′30″ N lat., 166°12′00″ W long./54°18′40″ N lat., and 167°0′00″ W long./54°8′50″ N lat.
 
 (B) *Fishing prohibition.* All waters within the Bering Sea Pollock Restriction Area are closed during the A season, as defined at § 679.23(e)(2), to directed fishing for pollock by vessels named on a Federal Fisheries Permit under § 679.4(b).
 
@@ -40,7 +40,7 @@
 
 (vi) *Atka mackerel closures.* Directed fishing for Atka mackerel by vessels named on a Federal Fisheries Permit under § 679.4(b) and using trawl gear is prohibited within the Bering Sea reporting areas.
 
-(vii) *Steller sea lion conservation area (SCA)* - (A) *General.* Directed fishing for pollock by vessels catching pollock for processing by the inshore component, catcher/processors in the offshore component, motherships in the offshore component, or directed fishing for CDQ pollock, is prohibited within the SCA until April 1 when the Regional Administrator announces, by notification in the Federal Register, that the criteria set out in paragraph (a)(7)(vii)(C) of this section have been met by that industry component.
+(vii) *Steller sea lion conservation area (SCA)*—(A) *General.* Directed fishing for pollock by vessels catching pollock for processing by the inshore component, catcher/processors in the offshore component, motherships in the offshore component, or directed fishing for CDQ pollock, is prohibited within the SCA until April 1 when the Regional Administrator announces, by notification in the Federal Register, that the criteria set out in paragraph (a)(7)(vii)(C) of this section have been met by that industry component.
 
 (B) *Boundaries.* The SCA consists of the area of the Bering Sea subarea between 170°00′ W long. and 163°00′ W long., south of straight lines connecting the following points in the order listed:
 
@@ -56,11 +56,11 @@
 
 56°00′ N lat. 163°00′ W long.
 
-(C) *Criteria for closure* - (*1*) *General.* The directed fishing closures identified in paragraph (a)(7)(vii)(A) of this section will take effect when the Regional Administrator determines that the harvest limit for pollock within the SCA, as specified in § 679.20(a)(5)(i)(C) is reached before April 1. The Regional Administrator shall prohibit directed fishing for pollock in the SCA by notification published in the Federal Register.
+(C) *Criteria for closure*—(*1*) *General.* The directed fishing closures identified in paragraph (a)(7)(vii)(A) of this section will take effect when the Regional Administrator determines that the harvest limit for pollock within the SCA, as specified in § 679.20(a)(5)(i)(C) is reached before April 1. The Regional Administrator shall prohibit directed fishing for pollock in the SCA by notification published in the Federal Register.
 
 (*2*) *Inshore catcher vessels greater than 99 ft (30.2 m) LOA.* The Regional Administrator will prohibit directed fishing for pollock by vessels greater than 99 ft (30.2 m) LOA, catching pollock for processing by the inshore component before reaching the inshore SCA harvest limit before April 1 to accommodate fishing by vessels less than or equal to 99 ft (30.2 m) inside the SCA until April 1. The Regional Administrator will estimate how much of the inshore seasonal allowance is likely to be harvested by catcher vessels less than or equal to 99 ft (30.2 m) LOA and reserve a sufficient amount of the inshore SCA allowance to accommodate fishing by such vessels after the closure of the SCA to inshore vessels greater than 99 ft (30.2 m) LOA. The Regional Administrator will prohibit directed fishing for all inshore catcher vessels within the SCA when the harvest limit specified in § 679.20(a)(5)(i)(C) has been met before April 1.
 
-(8) *Steller sea lion protection areas, Aleutian Islands reporting areas* - (i) *Seguam Foraging area.* (A) The Seguam foraging area is all waters within the area between 52° N lat. and 53° N lat. and between 173°30′ W long. and 172°30′ W long.
+(8) *Steller sea lion protection areas, Aleutian Islands reporting areas*—(i) *Seguam Foraging area.* (A) The Seguam foraging area is all waters within the area between 52° N lat. and 53° N lat. and between 173°30′ W long. and 172°30′ W long.
 
 (B) Directed fishing for pollock, Pacific cod, and Atka mackerel by vessels named on a Federal Fisheries Permit under § 679.4(b) is prohibited in the Seguam Foraging area as described in paragraph (a)(8)(i)(A) of this section.
 
@@ -98,13 +98,13 @@
 
 (21) *Modified Gear Trawl Zone.* No vessel required to be federally permitted may fish with nonpelagic trawl gear in the Modified Gear Trawl Zone specified at Table 51 to this part, except for federally permitted vessels that are directed fishing for groundfish using modified nonpelagic trawl gear that meets the standards at § 679.24(f).
 
-(b) *GOA* - (1) *Kodiak Island, trawls other than pelagic trawls* - (i) *Type I closures.* No person may trawl in waters of the EEZ within the vicinity of Kodiak Island, as shown in Figure 5 to this part as Type I areas, from a vessel having any trawl other than a pelagic trawl either attached or on board.
+(b) *GOA*—(1) *Kodiak Island, trawls other than pelagic trawls*—(i) *Type I closures.* No person may trawl in waters of the EEZ within the vicinity of Kodiak Island, as shown in Figure 5 to this part as Type I areas, from a vessel having any trawl other than a pelagic trawl either attached or on board.
 
 (ii) *Type II closures.* From February 15 to June 15, no person may trawl in waters of the EEZ within the vicinity of Kodiak Island, as shown in Figure 5 to this part as Type II areas, from a vessel having any trawl other than a pelagic trawl either attached or on board.
 
 (iii) *Type III closures.* Type III areas are open unless otherwise closed to trawling.
 
-(2) *Steller sea lion protection areas* - (i) *Groundfish closures.* Directed fishing for groundfish by vessels named on a Federal Fisheries Permit under § 679.4(b) is prohibited within 3 nm of selected sites. These sites are listed in Table 12 of this part and are identified by “Gulf of Alaska” in column 2.
+(2) *Steller sea lion protection areas*—(i) *Groundfish closures.* Directed fishing for groundfish by vessels named on a Federal Fisheries Permit under § 679.4(b) is prohibited within 3 nm of selected sites. These sites are listed in Table 12 of this part and are identified by “Gulf of Alaska” in column 2.
 
 (ii) *Pollock closures.* Directed fishing for pollock by vessels named on a Federal Fisheries Permit under § 679.4(b) is prohibited within pollock no-fishing zones around selected sites. These sites are listed in Table 4 of this part and are identified by “Gulf of Alaska” in column 2.
 
