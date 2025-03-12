@@ -1,6 +1,6 @@
 ##### § 1.561 Fees. #####
 
-Link to an amendment published at 84 FR 12128, Apr. 1, 2019.
+Link to an amendment published at 84 FR 12128, Apr. 1, 2019.Link to a correction published at 84 FR 14874, Apr. 12, 2019.
 
 (a) *General.* Components will charge for processing requests under the FOIA in accordance with paragraph (c) of this section, except where fees are limited under paragraph (e) of this section or where a waiver or reduction of fees is granted under paragraph (n) of this section. The FOIA Officer will collect all applicable fees before releasing copies of requested records to the requester. Requesters must pay fees by check or money order made payable to the Treasury of the United States. Note that fees associated with requests from VA beneficiaries, applicants for VA benefits, or other individuals, for records retrievable by their names or individual identifiers processed under 38 U.S.C. 5701 (records associated with claims for benefits) and 5 U.S.C. 552a (the Privacy Act), will be assessed fees in accordance with the applicable regulatory fee provisions relating to VA benefits and VA Privacy Act records.
 

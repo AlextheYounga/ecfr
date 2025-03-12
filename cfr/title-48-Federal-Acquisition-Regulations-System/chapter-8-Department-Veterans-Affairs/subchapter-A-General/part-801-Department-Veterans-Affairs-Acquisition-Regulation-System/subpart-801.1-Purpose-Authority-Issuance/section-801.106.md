@@ -1,6 +1,6 @@
 ##### 801.106 OMB approval under the Paperwork Reduction Act. #####
 
-Link to an amendment published at 84 FR 9971, Mar. 19, 2019.
+Link to an amendment published at 84 FR 9971, Mar. 19, 2019.Link to a correction published at 84 FR 14730, Apr. 11, 2019.
 
 In accordance with the Paperwork Reduction Act of 1995 (44 U.S.C. 3501-3521), the Office of Management and Budget (OMB) has approved the reporting or recordkeeping provisions that are included in the VAAR and has given VA the following approval numbers:
 
