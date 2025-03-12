@@ -12,7 +12,7 @@ For the purposes of this subpart, the following definitions will apply:
 
 (2) A subsidiary that the state nonmember bank is specifically authorized to control by the express terms of a federal statute (other than section 46(a) of the Federal Deposit Insurance Act (12 U.S.C. 1831w)), and not by implication or interpretation, such as the Bank Service Company Act (12 U.S.C. 1861 *et seq.*).
 
-(d) *Tangible equity* and *Tier 2 capital* have the same meaning as set forth in part 325 of this chapter or part 324 of this chapter, as applicable.
+(d) *Tangible equity* and *Tier 2 capital* have the same meaning as set forth in part 324 of this chapter.
 
 (e) *Well-managed* means:
 
@@ -20,4 +20,4 @@ For the purposes of this subpart, the following definitions will apply:
 
 (2) In the case of any depository institution that has not been examined by its appropriate federal banking agency, the existence and use of managerial resources that the appropriate federal banking agency determines are satisfactory.
 
-[63 FR 66326, Dec. 1, 1998, as amended at 78 FR 55596, Sept. 10, 2013]
+[63 FR 66326, Dec. 1, 1998, as amended at 78 FR 55596, Sept. 10, 2013; 83 FR 17741, Apr. 24, 2018]

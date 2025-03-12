@@ -38,7 +38,7 @@
 
 (i) The factors set forth in section 6 of the FDI Act (12 U.S.C. 1816) have been considered and favorably resolved;
 
-(ii) The applicant is at least adequately capitalized as defined in subpart B of part 325 of this chapter or subpart H of part 324 of this chapter, as applicable;
+(ii) The applicant is at least adequately capitalized as defined in subpart H of part 324 of this chapter;
 
 (iii) Any financial arrangements which have been made in connection with the proposed relocation and which involve the applicant's directors, officers, major shareholders, or their interests are fair and reasonable in comparison to similar arrangements that could have been made with independent third parties;
 
@@ -54,4 +54,4 @@
 
 (ii) Obtain any required regulatory approvals from the appropriate state licensing authority of the state to which the insured branch proposes to relocate before relocating the existing branch operations and surrendering its existing license to the appropriate state licensing authority of the state from which the branch is relocating.
 
-[67 FR 79247, Dec. 27, 2002, as amended at 70 FR 17559, Apr. 6, 2005; 78 FR 55470, Sept. 10, 2013]
+[67 FR 79247, Dec. 27, 2002, as amended at 70 FR 17559, Apr. 6, 2005; 78 FR 55470, Sept. 10, 2013; 83 FR 17739, Apr. 24, 2018]

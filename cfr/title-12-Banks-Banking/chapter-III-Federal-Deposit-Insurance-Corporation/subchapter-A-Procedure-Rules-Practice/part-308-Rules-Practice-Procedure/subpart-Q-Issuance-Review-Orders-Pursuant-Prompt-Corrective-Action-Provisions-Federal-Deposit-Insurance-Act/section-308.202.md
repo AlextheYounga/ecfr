@@ -1,6 +1,6 @@
 ##### § 308.202 Procedures for reclassifying a bank based on criteria other than capital. #####
 
-(a) *Reclassification based on unsafe or unsound condition or practice* - (1) *Issuance of notice of proposed reclassification* - (i) *Grounds for reclassification.* (A) Pursuant to § 325.103(d) of this chapter or § 324.403(d) of this chapter, as applicable, the FDIC may reclassify a well-capitalized bank as adequately capitalized or subject an adequately capitalized or undercapitalized institution to the supervisory actions applicable to the next lower capital category if:
+(a) *Reclassification based on unsafe or unsound condition or practice* - (1) *Issuance of notice of proposed reclassification* - (i) *Grounds for reclassification.* (A) Pursuant to § 324.403(d) of this chapter, the FDIC may reclassify a well-capitalized bank as adequately capitalized or subject an adequately capitalized or undercapitalized institution to the supervisory actions applicable to the next lower capital category if:
 
 (*1*) The FDIC determines that the bank is in unsafe or unsound condition; or
 
@@ -8,7 +8,7 @@
 
 (B) Any action pursuant to this paragraph (a)(1)(i) shall hereinafter be referred to as *reclassification.*
 
-(ii) *Prior notice to institution.* Prior to taking action pursuant to § 325.103(d) of this chapter or § 324.403(d) of this chapter, as applicable, the FDIC shall issue and serve on the bank a written notice of the FDIC's intention to reclassify it.
+(ii) *Prior notice to institution.* Prior to taking action pursuant to § 324.403(d) of this chapter, the FDIC shall issue and serve on the bank a written notice of the FDIC's intention to reclassify it.
 
 (2) *Contents of notice.* A notice of intention to reclassify a bank based on unsafe or unsound condition shall include:
 
@@ -42,4 +42,4 @@
 
 (b) *Request for rescission of reclassification.* Any bank that has been reclassified under this section, may, upon a change in circumstances, request in writing that the FDIC reconsider the reclassification, and may propose that the reclassification be rescinded and that any directives issued in connection with the reclassification be modified, rescinded, or removed. Unless otherwise ordered by the FDIC, the bank shall remain subject to the reclassification and to any directives issued in connection with that reclassification while such request is pending before the FDIC.
 
-[57 FR 44897, Sept. 29, 1992, as amended at 78 FR 55470, Sept. 10, 2013]
+[57 FR 44897, Sept. 29, 1992, as amended at 78 FR 55470, Sept. 10, 2013; 83 FR 17739, Apr. 24, 2018]

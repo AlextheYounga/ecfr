@@ -44,8 +44,8 @@ For the purposes of this subpart, the following definitions will apply:
 
 (r) *Subsidiary* means any company that is owned or controlled directly or indirectly by one or more insured depository institutions.
 
-(s) *Tier one capital* has the same meaning as set forth in part 324 or 325 of this chapter, as applicable, for an insured State nonmember bank. For other state-chartered depository institutions, the term “tier one capital” has the same meaning as set forth in the capital regulations adopted by the appropriate Federal banking agency.
+(s) *Tier one capital* has the same meaning as set forth in part 324 of this chapter for an insured State nonmember bank or insured state savings association. For other state-chartered depository institutions, the term “tier one capital” has the same meaning as set forth in the capital regulations adopted by the appropriate Federal banking agency.
 
-(t) *Well-capitalized* has the same meaning set forth in part 324 or 325 of this chapter, as applicable, of this chapter for an insured State nonmember bank. For other state-chartered depository institutions, the term “well-capitalized” has the same meaning as set forth in the capital regulations adopted by the appropriate Federal banking agency.
+(t) *Well-capitalized* has the same meaning set forth in part 324 of this chapter for an insured State nonmember bank or insured state savings association. For other state-chartered depository institutions, the term “well-capitalized” has the same meaning as set forth in the capital regulations adopted by the appropriate Federal banking agency.
 
-[63 FR 66326, Dec. 1, 1998, as amended at 66 FR 1028, Jan. 5, 2001; 71 FR 20527, Apr. 21, 2006; 78 FR 55596, Sept. 10, 2013]
+[63 FR 66326, Dec. 1, 1998, as amended at 66 FR 1028, Jan. 5, 2001; 71 FR 20527, Apr. 21, 2006; 78 FR 55596, Sept. 10, 2013; 83 FR 17741, Apr. 24, 2018]

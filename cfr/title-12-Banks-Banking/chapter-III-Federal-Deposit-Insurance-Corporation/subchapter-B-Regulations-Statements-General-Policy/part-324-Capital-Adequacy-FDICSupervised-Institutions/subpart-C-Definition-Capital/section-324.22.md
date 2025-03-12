@@ -70,7 +70,7 @@
 
 (iii) With respect to an FDIC-supervised institution that is not an advanced approaches FDIC-supervised institution, each of its subsidiary banking organizations that is subject to regulatory capital requirements issued by the Federal Reserve, the FDIC, or the OCC22 must elect the same option as the FDIC-supervised institution pursuant to this paragraph (b)(2).
 
-22 These rules include the regulatory capital requirements set forth at 12 CFR part 3 (OCC); 12 CFR part 225 (Board); 12 CFR part 325, and 12 CFR part 390 (FDIC).
+22 These rules include the regulatory capital requirements set forth at 12 CFR part 3 (OCC); 12 CFR part 217 (Board); 12 CFR part 324 (FDIC).
 
 (iv) With prior notice to the FDIC, an FDIC-supervised institution resulting from a merger, acquisition, or purchase transaction and that is not an advanced approaches FDIC-supervised institution may change its AOCI opt-out election in its Call Report filed for the first reporting period after the date required for such FDIC-supervised institution to comply with subpart A of this part as set forth in § 324.1(f) if:
 
@@ -202,4 +202,4 @@
 
 (C) A short position in an index that is hedging a long cash or synthetic position in an FDIC-supervised institution's own capital instrument or in a capital instrument of an unconsolidated financial institution can be decomposed to provide recognition of the hedge. More specifically, the portion of the index that is composed of the same underlying instrument that is being hedged may be used to offset the long position if both the long position being hedged and the short position in the index are reported as a trading asset or trading liability (whether on- or off-balance sheet) on the FDIC-supervised institution's Call Report, and the hedge is deemed effective by the FDIC-supervised institution's internal control processes, which have not been found to be inadequate by the FDIC.
 
-[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20759, Apr. 14, 2014; 80 FR 41422, July 15, 2015; 81 FR 71354, Oct. 17, 2016]
+[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20759, Apr. 14, 2014; 80 FR 41422, July 15, 2015; 81 FR 71354, Oct. 17, 2016; 83 FR 17740, Apr. 24, 2018]

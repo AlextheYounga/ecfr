@@ -6,10 +6,6 @@ Table I, Combined Ratings Table, results from the consideration of the efficienc
 
 (b) Except as otherwise provided in this schedule, the disabilities arising from a single disease entity, e.g., arthritis, multiple sclerosis, cerebrovascular accident, etc., are to be rated separately as are all other disabiling conditions, if any. All disabilities are then to be combined as described in paragraph (a) of this section. The conversion to the nearest degree divisible by 10 will be done only once per rating decision, will follow the combining of all disabilities, and will be the last procedure in determining the combined degree of disability.
 
-Table I - Combined Ratings Table
-
-[10 combined with 10 is 19]
-
 |   |10 |20 |30 |40 |50 |60 |70 |80 |90 |
 |---|---|---|---|---|---|---|---|---|---|
 |19 |27 |35 |43 |51 |60 |68 |76 |84 |92 |
@@ -82,11 +78,11 @@ Table I - Combined Ratings Table
 |86 |87 |89 |90 |92 |93 |94 |96 |97 |99 |
 |87 |88 |90 |91 |92 |94 |95 |96 |97 |99 |
 |88 |89 |90 |92 |93 |94 |95 |96 |98 |99 |
-|89 |90 |91 |92 |93 |95 |96 |87 |38 |99 |
+|89 |90 |91 |92 |93 |95 |96 |97 |98 |99 |
 |90 |91 |92 |93 |94 |95 |96 |97 |98 |99 |
 |91 |92 |93 |94 |95 |96 |96 |97 |98 |99 |
 |92 |93 |94 |94 |95 |96 |97 |98 |98 |99 |
 |93 |94 |94 |95 |96 |97 |97 |98 |99 |99 |
 |94 |95 |95 |96 |96 |97 |98 |98 |99 |99 |
 
-(Authority: 38 U.S.C. 1155)[41 FR 11293, Mar. 18, 1976, as amended at 54 FR 27161, June 28, 1989; 54 FR 36029, Aug. 31, 1989]
+(Authority: 38 U.S.C. 1155)[41 FR 11293, Mar. 18, 1976, as amended at 54 FR 27161, June 28, 1989; 54 FR 36029, Aug. 31, 1989; 83 FR 17756, Apr. 24, 2018]

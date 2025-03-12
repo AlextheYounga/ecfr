@@ -1,6 +1,6 @@
 ##### § 390.341 Inclusion of subordinated debt securities and mandatorily redeemable preferred stock as supplementary capital. #####
 
-(a) *Scope.* A State savings association must comply with this section in order to include subordinated debt securities or mandatorily redeemable preferred stock (“covered securities”) in supplementary capital (tier 2 capital) under subpart Z. If a State savings association does not include covered securities in supplementary capital, it is not required to comply with this section.
+(a) *Scope.* A State savings association must comply with this section in order to include subordinated debt securities or mandatorily redeemable preferred stock (“covered securities”) in supplementary capital (tier 2 capital) under part 324 of this chapter. If a State savings association does not include covered securities in supplementary capital, it is not required to comply with this section.
 
 (b) *Application and notice procedures.* (1) A State savings association must file an application or notice under §§ 390.103 through 390.110 seeking FDIC approval of, or non-objection to, the inclusion of covered securities in supplementary capital. The State savings association may file its application or notice before or after it issues covered securities, but may not include covered securities in supplementary capital until the FDIC approves the application or does not object to the notice.
 
@@ -22,7 +22,7 @@
 
 (F) For subordinated debt securities, state or refer to a document stating the terms under which the State savings association may prepay the obligation; and
 
-(G) State or refer to a document stating that the State savings association must obtain FDIC approval before the voluntarily prepayment of principal on subordinated debt securities, the acceleration of payment of principal on subordinated debt securities, or the voluntarily redemption of mandatorily redeemable preferred stock (other than scheduled redemptions), if the State savings association is undercapitalized, significantly undercapitalized, or critically undercapitalized as described in § 390.453(4)(b), fails to meet the regulatory capital requirements at subpart Z, or would fail to meet any of these standards following the payment.
+(G) State or refer to a document stating that the State savings association must obtain FDIC approval before the voluntarily prepayment of principal on subordinated debt securities, the acceleration of payment of principal on subordinated debt securities, or the voluntarily redemption of mandatorily redeemable preferred stock (other than scheduled redemptions), if the State savings association is undercapitalized, significantly undercapitalized, or critically undercapitalized as described in subpart H of part 324 of this chapter, fails to meet the regulatory capital requirements in part 324, or would fail to meet any of these standards following the payment.
 
 (ii) A State savings association must include such additional statements as the FDIC may prescribe for certificates, purchase agreements, indentures, and other related documents.
 
@@ -46,7 +46,7 @@
 
 (i) The issuance of the covered securities is authorized under applicable laws and regulations and is consistent with the State savings association's charter and bylaws.
 
-(ii) The State savings association is at least adequately capitalized under § 390.453(4)(b) and meets the regulatory capital requirements at subpart Z.
+(ii) The State savings association is at least adequately capitalized under subpart H of part 324 of this chapter and meets the regulatory capital requirements in part 324.
 
 (iii) The State savings association is or will be able to service the covered securities.
 
@@ -69,3 +69,5 @@
 (2) Three copies of an executed form of the securities and a copy of any related documents governing the issuance or administration of the securities; and
 
 (3) A certification by the appropriate executive officer indicating that the State savings association complied with all applicable laws and regulations in connection with the offering, issuance, and sale of the securities.
+
+[76 FR 47655, Aug. 5, 2011, as amended at 83 FR 17743, Apr. 24, 2018]

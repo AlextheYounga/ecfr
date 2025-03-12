@@ -1,6 +1,6 @@
 ##### § 390.457 Procedures for reclassifying a State savings association based on criteria other than capital. #####
 
-(a) *Reclassification based on unsafe or unsound condition or practice* - (1) *Issuance of notice of proposed reclassification* - (i) *Grounds for reclassification.* (A) Pursuant to § 390.453(c), the FDIC may reclassify a well capitalized State savings association as adequately capitalized or subject an adequately capitalized or undercapitalized institution to the supervisory actions applicable to the next lower capital category if:
+(a) *Reclassification based on unsafe or unsound condition or practice* - (1) *Issuance of notice of proposed reclassification* - (i) *Grounds for reclassification.* (A) Pursuant to § 324.403(d) of this chapter, the FDIC may reclassify a well capitalized State savings association as adequately capitalized or subject an adequately capitalized or undercapitalized institution to the supervisory actions applicable to the next lower capital category if:
 
 (*1*) The FDIC determines that the State savings association is in unsafe or unsound condition; or
 
@@ -8,7 +8,7 @@
 
 (B) Any action pursuant to this paragraph (a)(1)(i) shall hereinafter be referred to as “reclassification.”
 
-(ii) *Prior notice to institution.* Prior to taking action pursuant to § 390.453(c)(1), the FDIC shall issue and serve on the State savings association a written notice of the FDIC's intention to reclassify the State savings association.
+(ii) *Prior notice to institution.* Prior to taking action pursuant to § 324.403(d) of this chapter, the FDIC shall issue and serve on the State savings association a written notice of the FDIC's intention to reclassify the State savings association.
 
 (2) *Contents of notice.* A notice of intention to reclassify a State savings association based on unsafe or unsound condition shall include:
 
@@ -41,3 +41,5 @@
 (9) *Time for decision.* Not later than 60 calendar days after the date the record is closed or the date of the response in a case where no hearing was requested, the FDIC will decide whether to reclassify the State savings association and notify the State savings association of the FDIC's decision.
 
 (b) *Request for rescission of reclassification.* Any State savings association that has been reclassified under this section, may, upon a change in circumstances, request in writing that the FDIC reconsider the reclassification, and may propose that the reclassification be rescinded and that any directives issued in connection with the reclassification be modified, rescinded, or removed. Unless otherwise ordered by the FDIC, the State savings association shall remain subject to the reclassification and to any directives issued in connection with that reclassification while such request is pending before the FDIC.
+
+[76 FR 47655, Aug. 5, 2011, as amended at 83 FR 17744, Apr. 24, 2018]

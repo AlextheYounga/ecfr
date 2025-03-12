@@ -54,8 +54,8 @@ For the purposes of this subpart:
 
 (t) Subsidiary means any organization more than 50 percent of the voting equity interests of which are directly or indirectly held by another organization.
 
-(u) Tier 1 capital means Tier 1 capital as defined in § 325.2 of this chapter or § 324.2 of this chapter, as applicable.
+(u) Tier 1 capital means Tier 1 capital as defined in § 324.2 of this chapter.
 
-(v) Well capitalized means well capitalized as defined in § 325.103 of this chapter or § 324.403 of this chapter, as applicable.
+(v) Well capitalized means well capitalized as defined in § 324.403 of this chapter.
 
-[70 FR 17560, Apr. 6, 2005, as amended at 78 FR 55595, Sept. 10, 2013; 83 FR 9143, Mar. 5, 2018]
+[70 FR 17560, Apr. 6, 2005, as amended at 78 FR 55595, Sept. 10, 2013; 83 FR 9143, Mar. 5, 2018; 83 FR 17741, Apr. 24, 2018]

@@ -14,4 +14,6 @@
 
 (2) To guarantee against loss up to a specified percentage of the loans or interests, which specified percentage shall not exceed ten percent of the outstanding balance of the loans or interests at the time of sale: *Provided,* that the State savings association designates adequate reserves for the subordinate interest or guarantee.
 
-(c) This definition does not apply for purposes of determining the capital adequacy requirements under subpart Z.
+(c) This definition does not apply for purposes of determining the capital adequacy requirements under part 324 of this chapter.
+
+[76 FR 47655, Aug. 5, 2011, as amended at 83 FR 17743, Apr. 24, 2018]

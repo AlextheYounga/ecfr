@@ -1,5 +1,7 @@
 ##### § 30.1 Purpose and definitions. #####
 
+Link to an amendment published at 83 FR 17751, Apr. 24, 2018.
+
 (a) This part sets forth the Foreign Trade Regulations (FTR) as required under the provisions of Title 13, United States Code (U.S.C.), Chapter 9, section 301. These regulations are revised pursuant to provisions of the Foreign Relations Authorization Act, Public Law 107-228 (the Act). This Act authorizes the Secretary of Commerce, with the concurrence of the Secretary of State and the Secretary of Homeland Security, to publish regulations mandating that all persons who are required to file export information under Chapter 9 of 13 U.S.C., file such information through the Automated Export System (AES) for all shipments where a Shipper's Export Declaration (SED) was previously required. The law further authorizes the Secretary of Commerce to issue regulations regarding imposition of civil and criminal penalties for violations of the provisions of the Act and these regulations.
 
 (b) Electronic filing through the AES strengthens the U.S. government's ability to prevent the export of certain items to unauthorized destinations and/or end users because the AES aids in targeting, identifying, and when necessary confiscating suspicious or illegal shipments prior to exportation.

@@ -1,0 +1,13 @@
+##### § 325.6 Required reports of stress test results to the FDIC and the Board of Governors of the Federal Reserve System. #####
+
+*(a) Report required for annual stress test results* - (1) *$10 billion to $50 billion covered bank.* Prior to January 1, 2016, a $10 billion to $50 billion covered bank must report to the FDIC and to the Board on or before March 31 the results of the stress test in the manner and form specified by the FDIC. Beginning January 1, 2016, a $10 billion to $50 billion covered bank must report to the FDIC and to the Board on or before July 31 the results of the stress test in the manner and form specified by the FDIC.
+
+(2) *Over $50 billion covered bank.* Prior to January 1, 2016, an over $50 billion covered bank must report to the FDIC and to the Board, on or before January 5, the results of the stress test in the manner and form specified by the FDIC. Beginning January 1, 2016, an over $50 billion covered bank must report to the FDIC and to the Board, on or before April 5, the results of the stress test in the manner and form specified by the FDIC.
+
+(b) *Content of reports.* (1) The reports required under paragraph (a) of this section must include under the baseline scenario, adverse scenario, severely adverse scenario and any other scenario required by the Corporation under this subpart, a description of the types of risks being included in the stress test, a summary description of the methodologies used in the stress test, and, for each quarter of the planning horizon, estimates of aggregate losses, pre-provision net revenue, provision for loan and lease losses, net income, and pro forma capital ratios (including regulatory and any other capital ratios specified by the FDIC). In addition, the report must include an explanation of the most significant causes for the changes in regulatory capital ratios and any other information required by the Corporation.
+
+(2) The description of aggregate losses and net income must include the cumulative losses and cumulative net income over the planning horizon, and the description of each regulatory capital ratio must include the beginning value, ending value, and minimum value of each ratio over the planning horizon.
+
+(c) *Confidential treatment of information submitted.* The confidentiality of information submitted to the Corporation under this subpart and related materials will be determined in accordance with applicable law including any available exemptions under the Freedom of Information Act (5 U.S.C. 552(b)) and the FDIC's Rules and Regulations regarding the Disclosure of Information (12 CFR Part 309).
+
+[77 FR 62424, Oct. 15, 2012, as amended at 79 FR 69368, Nov. 21, 2014. Redesignated at 83 FR 17740, Apr. 24, 2018]

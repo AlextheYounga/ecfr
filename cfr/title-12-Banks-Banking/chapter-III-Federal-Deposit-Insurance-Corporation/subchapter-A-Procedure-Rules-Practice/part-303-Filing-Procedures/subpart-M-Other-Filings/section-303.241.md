@@ -12,7 +12,7 @@
 
 (3) The time period that the proposal will encompass;
 
-(4) If the proposal involves a series of transactions affecting Tier 1 capital components which will be consummated over a period of time which shall not exceed twelve months, the application shall certify that the insured depository institution will maintain itself as a well-capitalized institution as defined in part 325 of this chapter or part 324 of this chapter, as applicable, both before and after each of the proposed transactions;
+(4) If the proposal involves a series of transactions affecting Tier 1 capital components which will be consummated over a period of time which shall not exceed twelve months, the application shall certify that the insured depository institution will maintain itself as a well-capitalized institution as defined in part 324 of this chapter both before and after each of the proposed transactions;
 
 (5) If the proposal involves the repurchase of capital instruments, the amount of the repurchase price and the basis for establishing the fair market value of the repurchase price;
 
@@ -28,4 +28,4 @@
 
 (g) *Standard processing.* For those applications that are not processed pursuant to expedited procedures, the FDIC will provide the applicant with written notification of the final action as soon as the decision is rendered.
 
-[67 FR 79247, Dec. 27, 2002, as amended at 78 FR 55470, Sept. 30, 2013]
+[67 FR 79247, Dec. 27, 2002, as amended at 78 FR 55470, Sept. 30, 2013; 83 FR 17739, Apr. 24, 2018]

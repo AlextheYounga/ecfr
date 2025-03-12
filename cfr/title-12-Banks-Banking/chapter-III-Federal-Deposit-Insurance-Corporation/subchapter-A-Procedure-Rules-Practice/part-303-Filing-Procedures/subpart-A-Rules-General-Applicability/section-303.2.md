@@ -4,7 +4,7 @@ Except as modified or otherwise defined in this part, terms used in this part th
 
 (a) *Act* or *FDI Act* means the Federal Deposit Insurance Act (12 U.S.C. 1811 *et seq.*).
 
-(b) Adjusted part 325 total assets means adjusted 12 CFR part 325 or part 324, as applicable, total assets as calculated and reflected in the FDIC's Report of Examination.
+(b) *Adjusted part 324 total assets* means adjusted 12 CFR part 324 total assets as calculated and reflected in the FDIC's Report of Examination.
 
 (c) *Adverse comment* means any objection, protest, or other adverse written statement submitted by an interested party relative to a filing. The term adverse comment shall not include any comment concerning the Community Reinvestment Act (CRA), fair lending, consumer protection, or civil rights that the appropriate regional director or designee determines to be frivolous (for example, raising issues between the commenter and the applicant that have been resolved). The term adverse comment also shall not include any other comment that the appropriate regional director or designee determines to be frivolous (for example, a non-substantive comment submitted primarily as a means of delaying action on the filing).
 
@@ -84,8 +84,8 @@ Except as modified or otherwise defined in this part, terms used in this part th
 
 (4) In the case of a merger transaction (as defined in ¶ 303.61(a) of this part), including a corporate reorganization, that the proposed transaction not be consummated before the 30th calendar day (or shorter time period as may be prescribed by the FDIC with the concurrence of the Attorney General) after the date of the order approving the merger transaction.
 
-(ee) Tier 1 capital shall have the same meaning as provided in § 325.2(v) of this chapter (12 CFR 325.2(v)) or § 324.2, as applicable.
+(ee) *Tier 1 capital* shall have the same meaning as provided in § 324.2 of this chapter.
 
-(ff) Total assets shall have the same meaning as provided in § 325.2(x) of this chapter (12 CFR 325.2(x)) or § 324.401(g), as applicable.
+(ff) *Total assets* shall have the same meaning as provided in § 324.401(g) of this chapter.
 
-[67 FR 79247, Dec. 27, 2002, as amended at 68 FR 50459, Aug. 21, 2003; 78 FR 55470, Sept. 10, 2013]
+[67 FR 79247, Dec. 27, 2002, as amended at 68 FR 50459, Aug. 21, 2003; 78 FR 55470, Sept. 10, 2013; 83 FR 17739, Apr. 24, 2018]

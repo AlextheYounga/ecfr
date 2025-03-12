@@ -16,7 +16,7 @@
 
 (4) *Criteria.* The FDIC will process an application using expedited procedures if:
 
-(i) Immediately following the merger transaction, the resulting institution will be “well-capitalized” pursuant to subpart B of part 325 of this chapter (12 CFR part 325) or subpart H of part 324 of this chapter (12 CFR part 324), as applicable; and
+(i) Immediately following the merger transaction, the resulting institution will be well-capitalized pursuant to subpart H of part 324 of this chapter (12 CFR part 324); and
 
 (ii)(A) All parties to the merger transaction are eligible depository institutions as defined in § 303.2(r); or
 
@@ -24,4 +24,4 @@
 
 (b) *Standard processing.* For those applications not processed pursuant to the expedited procedures, the FDIC will provide the applicant with written notification of the final action taken by the FDIC on the application when the decision is rendered.
 
-[67 FR 79247, Dec. 27, 2002, as amended at 78 FR 55470, Sept. 10, 2013]
+[67 FR 79247, Dec. 27, 2002, as amended at 78 FR 55470, Sept. 10, 2013; 83 FR 11739, Apr. 24, 2018]

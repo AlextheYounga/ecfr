@@ -1,5 +1,7 @@
 ##### § 30.50 General requirements for filing import entries. #####
 
+Link to an amendment published at 83 FR 17751, Apr. 24, 2018.
+
 Electronic entry summary filing through the Automated Commercial Environment (ACE), paper import entry summaries (CBP-7501), or paper record of vessel foreign repair or equipment purchase (CBP-226) shall be completed by the importer of record or its licensed customs broker and filed directly with CBP in accordance with 19 CFR parts 1-199. Information on all mail and informal entries required for statistical and CBP purposes shall be reported, including value not subject to duty. Upon request, the importer of record or the importer's licensed customs broker shall provide the Census Bureau with information or documentation necessary to verify the accuracy of the reported information, or to resolve problems regarding the reported import transaction received by the Census Bureau.
 
 (a) Import information for statistical purposes shall be filed for goods shipped as follows:

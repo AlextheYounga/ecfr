@@ -14,7 +14,7 @@ For the purposes of this subpart, the following additional definitions apply:
 
 (3) Received a compliance rating of 1 or 2 from its primary federal regulator at its most recent examination;
 
-(4) Is well-capitalized as defined in subpart B of part 325 of this chapter or subpart H of part 324 of this chapter, as applicable; and
+(4) Is well-capitalized as defined in subpart H of part 324 of this chapter; and
 
 (5) Is not subject to a cease and desist order, consent order, prompt corrective action directive, written agreement, memorandum of understanding, or other administrative agreement with any U.S. bank regulatory authority.
 
@@ -32,4 +32,4 @@ For the purposes of this subpart, the following additional definitions apply:
 
 (j) *State branch* means a state branch of a foreign bank as defined by § 347.202 of this chapter.
 
-[67 FR 79247, Dec. 27, 2002, as amended at 78 FR 55470, Sept. 10, 2013]
+[67 FR 79247, Dec. 27, 2002, as amended at 78 FR 55470, Sept. 10, 2013; 83 FR 17739, Apr. 24, 2018]
