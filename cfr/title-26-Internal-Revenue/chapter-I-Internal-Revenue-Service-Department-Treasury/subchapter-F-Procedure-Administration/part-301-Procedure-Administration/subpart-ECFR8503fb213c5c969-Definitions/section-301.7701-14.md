@@ -1,0 +1,3 @@
+##### § 301.7701-14 Cooperative bank. #####
+
+For taxable years beginning after October 16, 1962, the term “cooperative bank” means an institution without capital stock organized and operated for mutual purposes without profit which meets the supervisory test, the business operations test, and the various assets tests specified in paragraphs (d) through (h) of § 301.7701-13, employing the rules and definitions of paragraphs (j) through (l) of that section. In applying paragraphs (b) through (l) of such section any references to an “association” or to a “domestic building and loan association” shall be deemed to be a reference to a cooperative bank.

@@ -1,0 +1,3 @@
+##### § 751.1 Purpose. #####
+
+This part sets forth requirements under section 6(a) of the Toxic Substances Control Act, 15 U.S.C. 2605(a), regulating the manufacture (including import), processing, distribution in commerce, use, or disposal of certain chemical substances and mixtures in order to address unreasonable risks to the extent necessary so that the chemical substance or mixture no longer presents such risk.

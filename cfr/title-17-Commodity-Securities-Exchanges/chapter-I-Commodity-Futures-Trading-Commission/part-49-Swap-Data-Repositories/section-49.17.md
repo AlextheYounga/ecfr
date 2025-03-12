@@ -98,4 +98,4 @@
 
 (3) Nothing in this section may prohibit the Commission, at its election, from exercising the authority delegated under paragraph (i)(1) of this section.
 
-[76 FR 54575, Sept. 1, 2011, as amended at 79 FR 16675, Mar. 26, 2014; 83 FR 27436, June 12, 2018]
+[76 FR 54575, Sept. 1, 2011, as amended at 83 FR 27436, June 12, 2018]

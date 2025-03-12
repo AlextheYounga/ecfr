@@ -8,9 +8,7 @@
 
 (d) *Company.* The term “company” means any corporation, limited liability company, business trust, general or limited partnership, association, or similar organization.
 
-(e) *Concise.* -
-
-(1) *In general.* The term “concise” means a reasonably brief expression or statement.
+(e) *Concise*—(1) *In general.* The term “concise” means a reasonably brief expression or statement.
 
 (2) *Combination with other required disclosures.* A notice required by this part may be concise even if it is combined with other disclosures required or authorized by Federal or state law.
 
@@ -20,9 +18,7 @@
 
 (h) *Covered affiliate.* The term “covered affiliate” means a futures commission merchant, retail foreign exchange dealer, commodity trading advisor, commodity pool operator, introducing broker, major swap participant or swap dealer, which is subject to the jurisdiction of the Commission.
 
-(i) *Dispose or Disposal.* -
-
-(1) *In general.* The terms “dispose” or “disposal” means:
+(i) *Dispose or Disposal*—(1) *In general.* The terms “dispose” or “disposal” means:
 
 (i) The discarding or abandonment of consumer information; or
 
@@ -44,7 +40,7 @@
 
 (p) *Person.* The term “person” means any individual, partnership, corporation, trust, estate, cooperative, association, or other entity.
 
-(q) *Pre-existing business relationship.* The term “pre-existing business relationship” means a relationship between a person, or a person's licensed agent, and a consumer based on -
+(q) *Pre-existing business relationship.* The term “pre-existing business relationship” means a relationship between a person, or a person's licensed agent, and a consumer based on—
 
 (1) A financial contract between the person and the consumer which is in force on the date on which the consumer is sent a solicitation by this part;
 
@@ -52,7 +48,7 @@
 
 (3) An inquiry or application by the consumer regarding a financial product or service offered by that person during the three-month period immediately preceding the date on which the consumer is sent a solicitation covered by this part.
 
-(r) *Solicitation* - (1) *In general.* The term “solicitation” means the marketing of a financial product or service initiated by an affiliate to a particular consumer that is -
+(r) *Solicitation*—(1) *In general.* The term “solicitation” means the marketing of a financial product or service initiated by an affiliate to a particular consumer that is—
 
 (i) Based on eligibility information communicated to that covered affiliate by an affiliate that has or previously had the pre-existing business relationship with a consumer as described in this part; and
 
