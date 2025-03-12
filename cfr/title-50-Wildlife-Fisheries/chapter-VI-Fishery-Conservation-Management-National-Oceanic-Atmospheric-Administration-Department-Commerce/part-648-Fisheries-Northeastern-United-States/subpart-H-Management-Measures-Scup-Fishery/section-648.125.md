@@ -1,6 +1,6 @@
 ##### § 648.125 Scup gear restrictions. #####
 
-(a) *Trawl vessel gear restrictions* - (1) *Minimum mesh size.* No owner or operator of an otter trawl vessel that is issued a scup moratorium permit may possess more than 1,000 lb (454 kg) of scup from October 1 through April 30, or more than 200 lb (91 kg) of scup from May 1 through September 30, unless fishing with nets that have a minimum mesh size of 5.0-inch (12.7-cm) diamond mesh, applied throughout the codend for at least 75 continuous meshes forward of the terminus of the net, and all other nets are stowed and not available for immediate use as defined in § 648.2.
+(a) *Trawl vessel gear restrictions* - (1) *Minimum mesh size.* No owner or operator of an otter trawl vessel that is issued a scup moratorium permit may possess more than 1,000 lb (454 kg) of scup from October 1 through April 14, more than 2,000 lb (907 kg) from April 15 through June 15, or more than 200 lb (91 kg) of scup from June 16 through September 30, unless fishing with nets that have a minimum mesh size of 5.0-inch (12.7-cm) diamond mesh, applied throughout the codend for at least 75 continuous meshes forward of the terminus of the net, and all other nets are stowed and not available for immediate use as defined in § 648.2.
 
 (2) *Mesh-size measurement.* Mesh sizes will be measured according to the procedure specified in § 648.104(a)(2).
 
@@ -10,7 +10,7 @@
 
 (ii) The owner or operator of a fishing vessel subject to the minimum mesh requirements in § 648.124 and in paragraph (a)(1) of this section may not use a net capable of catching scup if the bars entering or exiting the knots twist around each other.
 
-(5) *Stowage of nets.* The owner or operator of an otter trawl vessel retaining 1,000 lb (454 kg) or more of scup from October 1 through April 30, or 200 lb (90.7 kg) or more of scup from May 1 through September 30, and subject to the minimum mesh requirements in paragraph (a)(1) of this section, and the owner or operator of a midwater trawl or other trawl vessel subject to the minimum size requirement in § 648.126, may not have available for immediate use any net, or any piece of net, not meeting the minimum mesh size requirement, or mesh that is rigged in a manner that is inconsistent with the minimum mesh size. A net that is stowed and not available for immediate use as defined in § 648.2, and that can be shown not to have been in recent use, is considered to be not available for immediate use.
+(5) *Stowage of nets.* The owner or operator of an otter trawl vessel retaining 1,000 lb (454 kg) or more of scup from October 1 through April 14, 2,000 lb (907 kg) or more of scup from April 15 through June 15, or 200 lb (90.7 kg) or more of scup from June 16 through September 30, and subject to the minimum mesh requirements in paragraph (a)(1) of this section, and the owner or operator of a midwater trawl or other trawl vessel subject to the minimum size requirement in § 648.126, may not have available for immediate use any net, or any piece of net, not meeting the minimum mesh size requirement, or mesh that is rigged in a manner that is inconsistent with the minimum mesh size. A net that is stowed and not available for immediate use as defined in § 648.2, and that can be shown not to have been in recent use, is considered to be not available for immediate use.
 
 (6) *Roller gear.* The owner or operator of an otter trawl vessel issued a moratorium permit pursuant to § 648.4(a)(6) shall not use roller rig trawl gear equipped with rollers greater than 18 inches (45.7 cm) in diameter.
 
@@ -34,4 +34,4 @@
 
 (3) *Pot and trap identification.* Pots or traps used in fishing for scup must be marked with a code of identification that may be the number assigned by the Regional Administrator and/or the identification marking as required by the vessel's home port state.
 
-[76 FR 60634, Sept. 29, 2011, as amended at 79 FR 52580, Sept. 4, 2014; 81 FR 51378, Aug. 4, 2016; 83 FR 17315, Apr. 19, 2018]
+[76 FR 60634, Sept. 29, 2011, as amended at 79 FR 52580, Sept. 4, 2014; 81 FR 51378, Aug. 4, 2016; 83 FR 17315, Apr. 19, 2018; 83 FR 64487, Dec. 17, 2018]

@@ -1,7 +1,5 @@
 ##### § 660.112 Trawl fishery - prohibitions. #####
 
-Link to an amendment published at 83 FR 62276, Dec. 3, 2018.
-
 These prohibitions are specific to the limited entry trawl fisheries. General groundfish prohibitions are defined at § 660.12. In addition to the general prohibitions specified in § 600.725 of this chapter, it is unlawful for any person or vessel to:
 
 (a) *General* - (1) *Trawl gear endorsement.* Fish with groundfish trawl gear, or carry groundfish trawl gear on board a vessel that also has groundfish on board, unless the vessel is registered for use with a valid limited entry permit with a trawl gear endorsement, with the following exception.
@@ -72,7 +70,7 @@ These prohibitions are specific to the limited entry trawl fisheries. General gr
 
 (vi) Use QP in an area or for species/species groups other than that for which it is designated.
 
-(vii) Fish in more than one IFQ management area, specified at § 660.140(c)(2), on the same trip.
+(vii) For vessels fishing with multiple trawl gear types on a single trip, fail to keep catch from different trawl gears separate and land the catch separately by gear type.
 
 (viii) Fish on a Pacific whiting IFQ trip with a gear other than midwater groundfish trawl gear.
 
@@ -80,11 +78,11 @@ These prohibitions are specific to the limited entry trawl fisheries. General gr
 
 (x) Use midwater groundfish trawl gear Pacific whiting IFQ fishery primary season dates as specified at § 660.131(b).
 
-(xi) Bring a haul on board before all catch from the previous haul has been stowed.
+(xi) Mix catch from different hauls before all sampling and monitoring requirements for the hauls have been met.
 
 (xii) Process groundfish at-sea (“at-sea processing”) by vessels in the Shorebased IFQ Program regardless of the type of gear used, with the following exceptions:
 
-(A) A vessel that is 75-ft (23-m) or less LOA that harvests whiting and, in addition to heading and gutting, cuts the tail off and freezes the whiting, is not considered to be a catcher/processor nor is it considered to be processing fish, and
+(A) A vessel that is 75-ft (23-m) or less LOA that harvests Pacific whiting and, in addition to heading and gutting, cuts the tail off and freezes the whiting, is not considered to be a C/P vessel nor is it considered to be processing fish, and
 
 (B) A vessel that has a non-whiting at-sea processing exemption, described at § 660.25(b)(6)(ii) may process non-whiting groundfish at sea.
 
@@ -128,7 +126,7 @@ These prohibitions are specific to the limited entry trawl fisheries. General gr
 
 (3) Operate as a waste-processing vessel within 48 hours of a primary season for Pacific whiting in which that vessel operates as a catcher/processor or mothership, according to § 660.131(g).
 
-(4) On a vessel used to fish for Pacific whiting, fail to keep the trawl doors on board the vessel, when taking and retention is prohibited under § 660.131(b), subpart D.
+(4) Catch, take, or harvest fish in the MS Coop Program with a vessel that does not have a valid VMS declaration for limited entry midwater trawl, Pacific whiting mothership sector, as specified at § 660.13(d)(4)(iv)(A), subpart C.
 
 (5) Fail to weigh all fish taken and retained aboard the vessel on a scale that meets the performance and technical requirements specified at § 660.15(b).
 
@@ -172,7 +170,7 @@ These prohibitions are specific to the limited entry trawl fisheries. General gr
 
 (3) Fish as a catcher/processor vessel in the same year that the vessel operates as a mothership in the mothership fishery.
 
-(4) Fish in the C/P Coop Program with a vessel that does not have a valid VMS declaration for limited entry midwater trawl, Pacific whiting catcher/processor sector, as specified at § 660.13(d)(5)(iv)(A).
+(4) Fish in the C/P Coop Program with a vessel that does not have a valid VMS declaration for limited entry midwater trawl, Pacific whiting catcher/processor sector, as specified at § 660.13(d)(4)(iv)(A).
 
 (5) Fish in the C/P Coop Program with a vessel that is not identified in the C/P coop agreement.
 
@@ -186,4 +184,4 @@ These prohibitions are specific to the limited entry trawl fisheries. General gr
 
 (10) Retain and process more than 1 mt of Shared EC Species other than squid species in any calendar year; or, retain and process more than 40 mt of any Shared EC squid species in any calendar year.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78384, Dec. 15, 2010; 76 FR 53837, Aug. 30, 2011; 76 FR 74739, Dec. 1, 2011; 77 FR 55155, Sept. 7, 2012; 78 FR 629, Jan. 3, 2013; 78 FR 68769, Nov. 15, 2013; 78 FR 75279, Dec. 11, 2013; 80 FR 22285, Apr. 21, 2015; 80 FR 77272, Dec. 14, 2015; 81 FR 19058, Apr. 4, 2016; 81 FR 27010, May 5, 2016; 81 FR 36808, June 8, 2016; 81 FR 84429, Nov. 23, 2016]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78384, Dec. 15, 2010; 76 FR 53837, Aug. 30, 2011; 76 FR 74739, Dec. 1, 2011; 77 FR 55155, Sept. 7, 2012; 78 FR 629, Jan. 3, 2013; 78 FR 68769, Nov. 15, 2013; 78 FR 75279, Dec. 11, 2013; 80 FR 22285, Apr. 21, 2015; 80 FR 77272, Dec. 14, 2015; 81 FR 19058, Apr. 4, 2016; 81 FR 27010, May 5, 2016; 81 FR 36808, June 8, 2016; 81 FR 84429, Nov. 23, 2016; 83 FR 62276, Dec. 3, 2018]

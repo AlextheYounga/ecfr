@@ -1,7 +1,5 @@
 ##### § 660.113 Trawl fishery - recordkeeping and reporting. #####
 
-Link to an amendment published at 83 FR 62276, Dec. 3, 2018.
-
 General groundfish recordkeeping and reporting requirements are defined at § 660.13, subpart C. The following recordkeeping and reporting requirements are in addition to those and are specific to the limited entry trawl fisheries.
 
 (a) *General requirements.* (1) All records or reports required by this paragraph (a) must: be maintained in English, be accurate, be legible, be based on local time, and be submitted in a timely manner.
@@ -18,7 +16,7 @@ General groundfish recordkeeping and reporting requirements are defined at § 66
 
 (2) *Electronic vessel logbook.* [Reserved]
 
-(3) *Gear switching declaration.* Any person with a limited entry trawl permit participating in the Shorebased IFQ Program using groundfish non-trawl gear (*i.e.*, gear switching) must submit a valid gear declaration reporting such participation as specified in § 660.13(d)(5)(iv)(A).
+(3) *Gear switching declaration.* Any person with a limited entry trawl permit participating in the Shorebased IFQ Program using groundfish non-trawl gear (*i.e.,* gear switching) must submit a valid gear declaration reporting such participation as specified in § 660.13(d)(4)(iv)(A).
 
 (4) *Electronic fish ticket.* The IFQ first receiver is responsible for compliance with all reporting requirements described in this paragraph.
 
@@ -246,4 +244,4 @@ General groundfish recordkeeping and reporting requirements are defined at § 66
 
 (*2*) The total amount disbursed.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78385, Dec. 15, 2010; 76 FR 53837, Aug. 30, 2011; 76 FR 74740, Dec. 1, 2011; 78 FR 68769, Nov. 15, 2013; 78 FR 75279, Dec. 11, 2013; 80 FR 22285, Apr. 21, 2015; 81 FR 27010, May 5, 2016; 81 FR 84430, Nov. 23, 2016]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78385, Dec. 15, 2010; 76 FR 53837, Aug. 30, 2011; 76 FR 74740, Dec. 1, 2011; 78 FR 68769, Nov. 15, 2013; 78 FR 75279, Dec. 11, 2013; 80 FR 22285, Apr. 21, 2015; 81 FR 27010, May 5, 2016; 81 FR 84430, Nov. 23, 2016; 83 FR 62276, Dec. 3, 2018]

@@ -1,7 +1,5 @@
 ##### § 660.330 Open access fishery - management measures. #####
 
-Link to an amendment published at 83 FR 64009, Dec. 12, 2018.
-
 (a) *General.* Groundfish species taken in open access fisheries will be managed with cumulative trip limits (see trip limits in Tables 3 (North) and 3 (South) of this subpart), size limits (see § 660.60(h)(5)), seasons (see seasons in Tables 3 (North) and 3 (South) of this subpart), gear restrictions (see paragraph (b) of this section), and closed areas (see paragraph (d) of this section and §§ 660.70 through 660.79). Unless otherwise specified, a vessel operating in the open access fishery is subject to, and must not exceed any trip limit, frequency limit, and/or size limit for the open access fishery. Cowcod retention is prohibited in all fisheries and groundfish vessels operating south of Point Conception must adhere to CCA restrictions (see paragraph (d)(11) of this section and § 660.70). Retention of yelloweye rockfish is prohibited in all open access fisheries. For information on the open access daily/weekly trip limit fishery for sablefish, see § 660.332 of this subpart and the trip limits in Tables 3 (North) and 3 (South) of this subpart. Open access vessels are subject to daily or weekly sablefish limits in addition to cumulative limits for each cumulative limit period. Only one sablefish landing per week may be made in excess of the daily trip limit and, if the vessel chooses to make a landing in excess of that daily trip limit, then that is the only sablefish landing permitted for that week. The trip limit for black rockfish caught with hook-and-line gear also applies, see paragraph (e) of this section. Open access vessels that fish with non-groundfish trawl gear or in the salmon troll fishery north of 40°10′ N lat. are subject the cumulative limits and closed areas (except the pink shrimp fishery which is not subject to RCA restrictions) listed in Tables 3 (North) and 3 (South) of this subpart. Federal commercial groundfish regulations are not intended to supersede any more restrictive state commercial groundfish regulations relating to federally managed groundfish.
 
 (b) *Gear restrictions.* Open access gear includes longline, trap, pot, hook-and-line (fixed or mobile), setnet (anchored gillnet or trammel net, which are permissible south of 38° N. lat. only), spear and non-groundfish trawl gear (trawls used to target non-groundfish species: pink shrimp or ridgeback prawns, and, south of Pt. Arena, CA (38°57.50' N. lat.), California halibut or sea cucumbers). Restrictions for gears used in the open access fisheries are as follows:
@@ -26,7 +24,7 @@ Link to an amendment published at 83 FR 64009, Dec. 12, 2018.
 
 (i) *Coastwide* - widow rockfish, canary rockfish, darkblotched rockfish, yelloweye rockfish, shortbelly rockfish, black rockfish, blue/deacon rockfish, minor nearshore rockfish, minor shelf rockfish, minor slope rockfish, shortraker rockfish, rougheye/blackspotted rockfish, shortspine and longspine thornyhead, Dover sole, arrowtooth flounder, petrale sole, starry flounder, English sole, other flatfish, lingcod, sablefish, Pacific cod, spiny dogfish, longnose skate, other fish, Pacific whiting, big skate, and Pacific sanddabs;
 
-(ii) North of 40°10′ N. lat. - POP, yellowtail rockfish, cabezon (Oregon and California);
+(ii) *North of 40°10′ N. lat.* - POP, yellowtail rockfish, cabezon (California), Washington cabezon/kelp greenling complex, Oregon cabezon/kelp greenling complex; and
 
 (iii) South of 40°10′ N. lat. - minor shallow nearshore rockfish, minor deeper nearshore rockfish, chilipepper, bocaccio, splitnose rockfish, cowcod, bronzespotted rockfish, blackgill rockfish and cabezon.
 
@@ -56,7 +54,7 @@ Link to an amendment published at 83 FR 64009, Dec. 12, 2018.
 
 (i) Fishing for “other flatfish” is permitted within the CCAs under the following conditions: when using no more than 12 hooks, “Number 2” or smaller, which measure no more than 11 mm (0.44 inches) point to shank, and up to two 1-lb (0.45 kg) weights per line; and provided a valid declaration report as required at § 660.13(d), has been filed with NMFS OLE.
 
-(ii) Fishing for rockfish and lingcod is permitted shoreward of the 20 fm (37 m) depth contour within the CCAs when trip limits authorize such fishing, and provided a valid declaration report as required at § 660.13(d), has been filed with NMFS OLE.
+(ii) Fishing for rockfish and lingcod is permitted shoreward of the 40 fm (73 m) depth contour within the CCAs when trip limits authorize such fishing and provided a valid declaration report as required at § 660.13(d) has been filed with NMFS OLE.
 
 (12) *Nontrawl rockfish conservation areas for the open access fisheries.* The nontrawl RCAs are closed areas, defined by specific latitude and longitude coordinates (specified at §§ 660.70 through 660.74, subpart C) designed to approximate specific depth contours, where fishing for groundfish with nontrawl gear is prohibited. Boundaries for the nontrawl RCA throughout the year are provided in the open access trip limit tables, Table 3 (North) and Table 3 (South) of this subpart and may be modified by NMFS inseason pursuant to § 660.60(c).
 
@@ -104,4 +102,6 @@ Link to an amendment published at 83 FR 64009, Dec. 12, 2018.
 
 (e) *Black rockfish fishery management.* The trip limit for black rockfish (*Sebastes melanops*) for commercial fishing vessels using hook-and-line gear between the U.S.-Canada border and Cape Alava (48°09.50′ N. lat.), and between Destruction Island (47°40′ N. lat.) and Leadbetter Point (46°38.17′ N. lat.), is 100-lbs (45 kg) or 30 percent, by weight of all fish on board, whichever is greater, per vessel per fishing trip. These per trip limits apply to limited entry and open access fisheries, in conjunction with the cumulative trip limits and other management measures in §§ 660.230 and 660.330. The crossover provisions in § 660.60(h)(7), do not apply to the black rockfish per-trip limits.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 76 FR 27554, May 11, 2011; 76 FR 53839, Aug. 30, 2011; 78 FR 638, Jan. 3, 2013; 80 FR 12597, Mar. 10, 2015; 80 FR 71981, Nov. 18, 2015; 82 FR 9665, Feb. 7, 2017; 82 FR 60570, Dec. 21, 2017]
+(f) *Salmon bycatch.* This fishery may be closed through automatic action at § 660.60(d)(1)(v) and (vi).
+
+[75 FR 60897, Oct. 1, 2010, as amended at 76 FR 27554, May 11, 2011; 76 FR 53839, Aug. 30, 2011; 78 FR 638, Jan. 3, 2013; 80 FR 12597, Mar. 10, 2015; 80 FR 71981, Nov. 18, 2015; 82 FR 9665, Feb. 7, 2017; 82 FR 60570, Dec. 21, 2017; 83 FR 64010, Dec. 12, 2018]

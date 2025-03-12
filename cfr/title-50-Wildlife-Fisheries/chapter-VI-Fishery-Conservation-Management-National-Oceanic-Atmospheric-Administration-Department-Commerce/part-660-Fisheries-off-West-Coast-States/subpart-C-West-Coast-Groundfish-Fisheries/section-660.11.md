@@ -1,7 +1,5 @@
 ##### § 660.11 General definitions. #####
 
-Link to an amendment published at 83 FR 62275, Dec. 3, 2018.Link to an amendment published at 83 FR 63990, Dec. 12, 2018.
-
 These definitions are specific to the fisheries covered in subparts C through G of this part.
 
 *Acceptable Biological Catch (ABC)* means a harvest specification that is set below the overfishing limit to account for scientific uncertainty in the estimate of OFL, and other scientific uncertainty.
@@ -48,7 +46,7 @@ These definitions are specific to the fisheries covered in subparts C through G 
 
 *Conservation area(s)* means either a Groundfish Conservation Area (GCA), an Essential Fish Habitat Conservation Area (EFHCA), or both.
 
-(1) *Groundfish Conservation Area or GCA* means a geographic area defined by coordinates expressed in degrees latitude and longitude, wherein fishing by a particular gear type or types may be prohibited. Regulations at § 660.60(c)(3) describe the various purposes for which these GCAs may be implemented. Regulations at § 660.70 define coordinates for these polygonal GCAs: Yelloweye Rockfish Conservation Areas, Cowcod Conservation Areas, waters encircling the Farallon Islands, and waters encircling the Cordell Banks. GCAs also include Bycatch Reduction Areas or BRAs and Rockfish Conservation Areas or RCAs, which are areas closed to fishing by particular gear types, bounded by lines approximating particular depth contours. RCA boundaries may and do change seasonally according to conservation needs. Regulations at §§ 660.70 through 660.74 define RCA boundary lines with latitude/longitude coordinates; regulations at Tables 1 (North) and 1 (South) of subpart D, Tables 2 (North) and 2 (South) of subpart E, and Tables 3 (North) and 3 (South) of subpart F set RCA seasonal boundaries. Fishing prohibitions associated with GCAs are in addition to those associated with EFH Conservation Areas.
+(1) *Groundfish Conservation Area* or *GCA* means a geographic area defined by coordinates expressed in degrees latitude and longitude, wherein fishing by a particular gear type or types may be prohibited. Regulations at § 660.60(c)(3) describe the various purposes for which these GCAs may be implemented. Regulations at § 660.70 define coordinates for these polygonal GCAs: Yelloweye Rockfish Conservation Areas, Cowcod Conservation Areas, waters encircling the Farallon Islands, and waters encircling the Cordell Bank. GCAs also include Bycatch Reduction Areas (BRAs), and Rockfish Conservation Areas or RCAs, which are areas closed to fishing by particular gear types, bounded by lines approximating particular depth contours. RCA boundaries may and do change seasonally according to conservation needs. Regulations at §§ 660.70 through 660.74 define boundary lines with latitude/longitude coordinates; regulations at Tables 1 (North) and 1 (South) of subpart D of this part, Tables 2 (North) and 2 (South) of subpart E of this part, and Tables 3 (North) and 3 (South) of subpart F of this part set seasonal boundaries. Fishing prohibitions associated with GCAs are in addition to those associated with EFH Conservation Areas.
 
 (2) *Essential Fish Habitat Conservation Area or EFHCA* means a geographic area defined by coordinates expressed in degrees latitude and longitude, wherein fishing by a particular gear type or types may be prohibited. EFHCAs are created and enforced for the purpose of contributing to the protection of West Coast groundfish essential fish habitat. Regulations at §§ 660.75, through 660.79, Subpart C define EFHCA boundary lines with latitude/longitude coordinates. Fishing prohibitions associated with EFHCAs, which are found at § 660.12, subpart C, are in addition to those associated with GCAs.
 
@@ -120,7 +118,7 @@ These definitions are specific to the fisheries covered in subparts C through G 
 
 (iv) *Troll gear* means a lure or jig towed behind a vessel via a fishing line. Troll gear is used in commercial and recreational fisheries.
 
-(7) *Mesh size* means the opening between opposing knots. Minimum mesh size means the smallest distance allowed between the inside of one knot to the inside of the opposing knot, regardless of twine size.
+(7) *Mesh size* means the opening between opposing knots, or opposing corners for knotless webbing. Minimum mesh size means the smallest distance allowed between the inside of one knot or corner to the inside of the opposing knot or corner, regardless of twine size.
 
 (8) *Nontrawl gear* means all legal commercial groundfish gear other than trawl gear.
 
@@ -144,7 +142,7 @@ These definitions are specific to the fisheries covered in subparts C through G 
 
 (A) *Breastline* means a rope or cable that connects the end of the headrope and the end of the trawl fishing line along the edge of the trawl web closest to the towing point.
 
-(B) *Chafing gear* means webbing or other material attached to the codend of a trawl net to protect the codend from wear.
+(B) *Chafing gear* means webbing or other material that is attached to the trawl net to protect the net from wear and abrasions either when fishing or hauling on deck.
 
 (C) *Codend.* (*See* § 600.10 of this chapter)
 
@@ -186,21 +184,21 @@ These definitions are specific to the fisheries covered in subparts C through G 
 
 (5) *Grenadiers:* “Grenadiers” in the PCGFMP include all genera and species in the family Macrouridae that occur off Washington, Oregon, and California, including but not limited to Giant grenadier, *Albatrossia pectoralis;* Pacific grenadier, *Coryphaenoides acrolepis.*
 
-(6) Roundfish: Cabezon, *Scorpaenichthys marmoratus;* kelp greenling, *Hexagrammos decagrammus;* lingcod, *Ophiodon elongatus;* Pacific cod, *Gadus macrocephalus;* Pacific whiting, *Merluccius productus;* sablefish, *Anoplopoma fimbria.*
+(6) Roundfish: Cabezon, *Scorpaenichthys marmoratus;* kelp greenling, *Hexagrammos decagrammus;* lingcod, *Ophiodon elongatus;* Pacific cod, *Gadus macrocephalus;* Pacific whiting, *Merluccius productus;* sablefish, *Anoplopoma fimbria.* Species listed in paragraphs (6)(i) and (ii) of this definition with an area-specific listing are managed within a complex in that area-specific listing.
+
+(i) Between 46°16′ N lat. and the U.S. Canada border (Washington): Cabezon, *S. marmoratus* and kelp greenling, *H. decagrammus.*
+
+(ii) Between 46°16′ N lat. and 42° N lat. (Oregon): Cabezon, *S. marmoratus* and kelp greenling, *H. decagrammus.*
 
 (7) *Rockfish:* “Rockfish” in the PCGFMP include all genera and species of the family Scorpaenidae that occur off Washington, Oregon, and California, even if not listed below, including longspine thornyhead, *Sebastolobus altivelis,* and shortspine thornyhead, *S. alascanus.* Where species below are listed both in a geographic category (nearshore, shelf, slope) and as an area-specific listing (north or south of 40°10′ N. lat.) those species are managed within a “minor” rockfish complex in that area-specific listing.
 
-(i) *Nearshore rockfish* includes black rockfish, *Sebastes melanops* and the following nearshore rockfish species managed in “minor rockfish” complexes:
+(i) Nearshore rockfish includes black rockfish, *Sebastes melanops* (off Washington and California) and the following nearshore rockfish species managed in “minor rockfish” complexes:
 
-(A) *North of 40°10′ N. lat.:* Black and yellow rockfish, *S. chrysomelas;* blue rockfish, *S. mystinus;* brown rockfish, *S. auriculatus;* calico rockfish, *S. dalli;* China rockfish, *S. nebulosus;* copper rockfish, *S. caurinus;* deacon rockfish, *S. diaconus,* gopher rockfish, *S. carnatus;* grass rockfish, *S. rastrelliger;* kelp rockfish, *S. atrovirens;* olive rockfish, *S. serranoides;* quillback rockfish, *S. maliger;* treefish, *S. serriceps.*
+(A) North of 46°16′ N lat. (Washington) and between 42°00′ N lat. and 40°10′ N lat. (northern California): Black and yellow rockfish, *S. chrysomelas;* blue rockfish, *S. mystinus;* brown rockfish, *S. auriculatus;* calico rockfish, *S. dalli;* China rockfish, *S. nebulosus;* copper rockfish, *S. caurinus;* deacon rockfish, *S. diaconus,* gopher rockfish, *S. carnatus;* grass rockfish, *S. rastrelliger;* kelp rockfish, *S. atrovirens;* olive rockfish, *S. serranoides;* quillback rockfish, *S. maliger;* treefish, *S. serriceps.*
 
-(B) South of 40°10′ N. lat., nearshore rockfish are divided into three management categories:
+(B) Between 46°16′ N lat. and 42° N lat. (Oregon): Black and yellow rockfish, *S. chrysomelas;* brown rockfish, *S. auriculatus;* calico rockfish, *S. dalli;* China rockfish, *S. nebulosus;* copper rockfish, *S. caurinus;* gopher rockfish, *S. carnatus;* grass rockfish, *S. rastrelliger;* kelp rockfish, *S. atrovirens;* olive rockfish, *S. serranoides;* quillback rockfish, *S. maliger;* treefish, *S. serriceps.*
 
-(*1*) *Shallow nearshore rockfish* consists of black and yellow rockfish, *S. chrysomelas;* China rockfish, *S. nebulosus;* gopher rockfish, *S. carnatus;* grass rockfish, *S. rastrelliger;* kelp rockfish, *S. atrovirens.*
-
-(*2*) *Deeper nearshore rockfish* consists of black rockfish, *S. melanops;* blue rockfish, *S. mystinus;* brown rockfish, *S. auriculatus;* calico rockfish, *S. dalli;* copper rockfish, *S. caurinus;* deacon rockfish, *S. diaconus;* olive rockfish, *S. serranoides;* quillback rockfish, *S. maliger;* treefish, *S. serriceps.*
-
-(*3*) *California scorpionfish, Scorpaena guttata.*
+(C) Between 46°16′ N lat. and 42° N lat. (Oregon): Black rockfish, *S. melanops,* blue rockfish, *S. mystinus,* and deacon rockfish, *S. diaconus.*
 
 (ii) *Shelf rockfish* includes bocaccio, *Sebastes paucispinis;* canary rockfish, *S. pinniger;* chilipepper, *S. goodei;* cowcod, *S. levis;* shortbelly rockfish, *S. jordani;* widow rockfish, *S. entomelas;* yelloweye rockfish, *S. ruberrimus;* yellowtail rockfish, *S. flavidus* and the following shelf rockfish species managed in “minor rockfish” complexes:
 
@@ -216,7 +214,7 @@ These definitions are specific to the fisheries covered in subparts C through G 
 
 (8) Flatfish: Arrowtooth flounder (arrowtooth turbot), *Atheresthes stomias;* butter sole, *Isopsetta isolepis;* curlfin sole, *Pleuronichthys decurrens;* Dover sole, *Microstomus pacificus;* English sole, *Parophrys vetulus;* flathead sole, *Hippoglossoides elassodon;* Pacific sanddab, *Citharichthys sordidus;* petrale sole, *Eopsetta jordani;* rex sole, *Glyptocephalus zachirus;* rock sole, *Lepidopsetta bilineata;* sand sole, *Psettichthys melanostictus;* starry flounder, *Platichthys stellatus.* Where regulations of subparts C through G of this part refer to landings limits for “other flatfish,” those limits apply to all flatfish cumulatively taken except for those flatfish species specifically listed in Tables 1a and 2a of this subpart. (*i.e.,* “other flatfish” includes butter sole, curlfin sole, flathead sole, Pacific sanddab, rex sole, rock sole, and sand sole.)
 
-(9) *“Other fish”:* kelp greenling (*Hexagrammos decagrammus*), leopard shark (*Trakis semifasciata*), and cabezon (*Scorpaenichthys marmoratus*) in waters off Washington.
+(9) “Other Fish”: kelp greenling (*Hexagrammos decagrammus*) off California and leopard shark (*Trakis semifasciata*).
 
 (10) “Ecosystem component species” means species that are included in the PCGFMP but are not “in the fishery” and therefore not actively managed and do not require harvest specifications. Ecosystem component species are not targeted in any fishery, not generally retained for sale or personal use, and are not determined to be subject to overfishing, approaching an overfished condition, or overfished, nor are they likely to become subject to overfishing or overfished in the absence of conservation and management measures. Ecosystem component species include: All skates listed here in paragraph (2), except longnose skate and big skate; all grenadiers listed here in paragraph (5); soupfin shark; ratfish; and finescale codling.
 
@@ -497,4 +495,4 @@ These definitions are specific to the fisheries covered in subparts C through G 
 
 *Vessel owner or owner of a vessel,* as used in subparts C through G of this part, means a person identified as the current owner in the Certificate of Documentation (CG-1270) issued by the USCG for a documented vessel, or in a registration certificate issued by a state or the USCG for an undocumented vessel.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78373, Dec. 15, 2010; 76 FR 27529, May 11, 2011; 76 FR 53834, Aug. 30, 2011; 76 FR 74733, Dec. 1, 2011; 78 FR 587, Jan. 3, 2013; 78 FR 68767, Nov. 15, 2013; 78 FR 75278, Dec. 11, 2013; 80 FR 12571, Mar. 10, 2015; 80 FR 22279, Apr. 21, 2015; 80 FR 71980, Nov. 18, 2015; 80 FR 77270, Dec. 14, 2015; 81 FR 36807, June 8, 2016; 81 FR 84425, Nov. 23, 2016; 82 FR 9638, Feb. 7, 2017; 82 FR 60569, Dec. 21, 2017]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78373, Dec. 15, 2010; 76 FR 27529, May 11, 2011; 76 FR 53834, Aug. 30, 2011; 76 FR 74733, Dec. 1, 2011; 78 FR 587, Jan. 3, 2013; 78 FR 68767, Nov. 15, 2013; 78 FR 75278, Dec. 11, 2013; 80 FR 12571, Mar. 10, 2015; 80 FR 22279, Apr. 21, 2015; 80 FR 71980, Nov. 18, 2015; 80 FR 77270, Dec. 14, 2015; 81 FR 36807, June 8, 2016; 81 FR 84425, Nov. 23, 2016; 82 FR 9638, Feb. 7, 2017; 82 FR 60569, Dec. 21, 2017; 83 FR 62275, Dec. 3, 2018; 83 FR 63990, Dec. 12, 2018]

@@ -1,7 +1,5 @@
 ##### § 660.131 Pacific whiting fishery management measures. #####
 
-Link to an amendment published at 83 FR 64002, Dec. 12, 2018.
-
 (a) *General.* This section applies to the MS sector, the C/P sector, the Pacific whiting IFQ fishery, and Shorebased IFQ vessels targeting Pacific whiting under trip limits outside the Pacific whiting primary season.
 
 (b) *Pacific whiting primary seasons and Pacific whiting trip limits* - (1) *Pacific whiting fishery primary seasons.* (i) For the Pacific whiting IFQ fishery, the primary season is the period(s) of the large-scale Pacific whiting target fishery conducted after the primary season start date.
@@ -40,7 +38,7 @@ Link to an amendment published at 83 FR 64002, Dec. 12, 2018.
 
 (2) *Columbia river salmon conservation zone.* The ocean area surrounding the Columbia River mouth bounded by a line extending for 6 nm due west from North Head along 46°18′ N. lat. to 124°13.30′ W. long., then southerly along a line of 167 True to 46°11.10′ N. lat. and 124°11′ W. long. (Columbia River Buoy), then northeast along Red Buoy Line to the tip of the south jetty.
 
-(3) *Ocean salmon conservation zone.* All waters shoreward of a boundary line approximating the 100 fm (183 m) depth contour. Latitude and longitude coordinates defining the boundary line approximating the 100 fm (183 m) depth contour are provided at § 660.73, subpart C. This closure will be implemented through automatic action, defined at § 660.60(d), subpart C, when NMFS projects the Pacific whiting fishery may take in excess of 11,000 Chinook within a calendar year.
+(3) [Reserved]
 
 (4) *Bycatch reduction areas (BRAs).* Bycatch reduction area closures specified at § 660.130(e) may be implemented inseason through automatic action when NMFS projects that a Pacific whiting sector will exceed an allocation for a non-whiting groundfish species specified for that sector before the sector's whiting allocation is projected to be reached.
 
@@ -70,4 +68,6 @@ Link to an amendment published at 83 FR 64002, Dec. 12, 2018.
 
 (4) Estimates of the portion of the tribal allocation that will not be used by the end of the fishing year will be based on the best information available to the Regional Administrator.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 75421, Dec. 3, 2010; 75 FR 78390, Dec. 15, 2010; 76 FR 27546, May 11, 2011; 76 FR 53837, Aug. 30, 2011; 77 FR 28516, May 15, 2012; 80 FR 27600, May 14, 2015; 80 FR 19036, Apr. 9, 2015; 80 FR 77273, Dec. 14, 2015]
+(i) *Salmon bycatch.* This fishery may be closed through automatic action at § 660.60(d)(1)(v) and (vi).
+
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 75421, Dec. 3, 2010; 75 FR 78390, Dec. 15, 2010; 76 FR 27546, May 11, 2011; 76 FR 53837, Aug. 30, 2011; 77 FR 28516, May 15, 2012; 80 FR 27600, May 14, 2015; 80 FR 19036, Apr. 9, 2015; 80 FR 77273, Dec. 14, 2015; 83 FR 64002, Dec. 12, 2018]

@@ -1,7 +1,5 @@
 ##### § 660.140 Shorebased IFQ Program. #####
 
-Link to an amendment published at 83 FR 62278, Dec. 3, 2018.Link to an amendment published at 83 FR 64002, Dec. 12, 2018.Link to a correction published at 83 FR 66639, Dec. 27, 2018.
-
 (a) *General.* The regulations in this section apply to the Shorebased IFQ Program. The Shorebased IFQ Program includes a system of transferable QS for most groundfish species or species groups, IBQ for Pacific halibut, and trip limits or set-asides for the remaining groundfish species or species groups. NMFS will issue a QS permit to eligible participants and will establish a QS account for each QS permit owner to track the amount of QS or IBQ and QP or IBQ pounds owned by that owner. QS permit owners may own QS or IBQ for IFQ species, expressed as a percent of the allocation to the Shorebased IFQ Program for that species. NMFS will issue QP or IBQ pounds to QS permit owners, expressed in pounds, on an annual basis, to be deposited in the corresponding QS account. NMFS will establish a vessel account for each eligible vessel owner participating in the Shorebased IFQ Program, which is independent of the QS permit and QS account. In order to use QP or IBQ pounds, a QS permit owner must transfer the QP or IBQ pounds from the QS account into the vessel account for the vessel to which the QP or IBQ pounds is to be assigned. Harvests of IFQ species may only be delivered to an IFQ first receiver with a first receiver site license. In addition to the requirements of this section, the Shorebased IFQ Program is subject to the following groundfish regulations of subparts C and D:
 
 (1) Regulations set out in the following sections of subpart C: § 660.11 Definitions, § 660.12 Prohibitions, § 660.13 Recordkeeping and reporting, § 660.14 VMS requirements, § 660.15 Equipment requirements, § 660.16 Groundfish observer program, § 660.20 Vessel and gear identification, § 660.25 Permits, § 660.55 Allocations, § 660.60 Specifications and management measures, § 660.65 Groundfish harvest specifications, and §§ 660.70 through 660.79 Closed areas.
@@ -50,55 +48,19 @@ Link to an amendment published at 83 FR 62278, Dec. 3, 2018.Link to an amendment
 
 (ix) Collect and remit to NMFS cost recovery program fees, as specified at § 660.115.
 
-(c) *IFQ species, management areas, and allocations.* (1) *IFQ species.* IFQ species are those groundfish species and Pacific halibut in the exclusive economic zone or adjacent state waters off Washington, Oregon and California, under the jurisdiction of the Council, for which QS and IBQ are issued. Groupings and area subdivisions for IFQ species are those groupings and area subdivisions for which ACLs or ACTs are specified in the Tables 1a through 2d, and those for which there is an area-specific precautionary harvest policy. The lists of individual groundfish species included in the minor shelf complex north of 40°10′ N. lat., minor shelf complex south of 40°10′ N. lat., minor slope complex north 40°10′ N. lat., minor slope complex south of 40°10′ N. lat., and in the other flatfish complex are specified under the definition of “groundfish” at § 660.11. The following are the IFQ species:
+(c) *IFQ species, management areas, and allocations.*
 
-IFQ Species
+(1) *IFQ management areas.* IFQ management areas are as follows:
 
-|                                                 |
-|-------------------------------------------------|
-|                    Roundfish                    |
-|          Lingcod N. of 40°10′ N. lat.           |
-|          Lingcod S. of 40°10′ N. lat.           |
-|                   Pacific cod                   |
-|                 Pacific whiting                 |
-|           Sablefish N. of 36° N. lat.           |
-|           Sablefish S. of 36° N. lat.           |
-|                    Flatfish                     |
-|               Arrowtooth flounder               |
-|                   Dover sole                    |
-|                  English sole                   |
-|          Other flatfish stock complex           |
-|                  Petrale sole                   |
-|                 Starry flounder                 |
-|   Pacific halibut (IBQ) N. of 40°10′ N. lat.    |
-|                    Rockfish                     |
-|          Bocaccio S. of 40°10′ N. lat.          |
-|                 Canary rockfish                 |
-|        Chilipepper S. of 40°10′ N. lat.         |
-|           Cowcod S. of 40°10′ N. lat.           |
-|              Darkblotched rockfish              |
-|    Longspine thornyhead N. of 34°27′ N. lat.    |
-|Minor shelf rockfish complex N. of 40°10′ N. lat.|
-|Minor shelf rockfish complex S. of 40°10′ N. lat.|
-|Minor slope rockfish complex N. of 40°10′ N. lat.|
-|Minor slope rockfish complex S. of 40°10′ N. lat.|
-|    Pacific ocean perch N. of 40°10′ N. lat.     |
-|   Shortspine thornyhead N. of 34°27′ N. lat.    |
-|   Shortspine thornyhead S. of 34°27′ N. lat.    |
-|     Splitnose rockfish S. of 40°10′ N. lat.     |
-|                 Widow rockfish                  |
-|               Yelloweye rockfish                |
-|    Yellowtail rockfish N. of 40°10′ N. lat.     |
+(i) Between the U.S./Canada border and 40°10′ N lat.,
 
-(2) *IFQ management areas.* A vessel participating in the Shorebased IFQ Program may not fish in more than one IFQ management area during a trip. IFQ management areas are as follows:
+(ii) Between 40°10′ N lat. and 36° N lat.,
 
-(i) Between the US/Canada border and 40°10′ N. lat.,
+(iii) Between 36° N lat. and 34°27′ N lat., and
 
-(ii) Between 40°10′ N. lat. and 36° N. lat.,
+(iv) Between 34°27′ N lat. and the U.S./Mexico border.
 
-(iii) Between 36° N. lat. and 34°27′ N. lat., and
-
-(iv) Between 34°27′ N. lat. and the US/Mexico border.
+(2) [Reserved]
 
 (3) *IFQ program allocations.* Allocations for the Shorebased IFQ Program are determined for IFQ species as follows:
 
@@ -160,37 +122,37 @@ IFQ Species
 
 (D) For the trawl fishery, NMFS will issue QP based on the following shorebased trawl allocations:
 
-|        IFQ species         |        Area         |2017 shorebased  <br/>trawl allocation  <br/>(mt)|2018 shorebased  <br/>trawl allocation  <br/>(mt)|
-|----------------------------|---------------------|-------------------------------------------------|-------------------------------------------------|
-|    Arrowtooth flounder     |      Coastwide      |                    11,050.6                     |                    10,992.6                     |
-|          BOCACCIO          |South of 40°10′ N lat|                      302.4                      |                      283.3                      |
-|      Canary rockfish       |      Coastwide      |                     1,014.1                     |                     1,014.1                     |
-|        Chilipepper         |South of 40°10′ N lat|                     1,920.8                     |                     1,845.8                     |
-|           COWCOD           |South of 40°10′ N lat|                      1.40                       |                      1.40                       |
-|   DARKBLOTCHED ROCKFISH    |      Coastwide      |                      507.6                      |                      518.4                      |
-|         Dover sole         |      Coastwide      |                    45,981.0                     |                    45,981.0                     |
-|        English sole        |      Coastwide      |                     9,258.6                     |                     6,953.0                     |
-|          Lingcod           |North of 40°10′ N lat|                     1,359.7                     |                    1,259.32                     |
-|          Lingcod           |South of 40°10′ N lat|                      558.9                      |                     510.75                      |
-|    Longspine thornyhead    |North of 34°27′ N lat|                     2,699.8                     |                     2,560.2                     |
-|Minor Shelf Rockfish complex|North of 40°10′ N lat|                     1,148.1                     |                     1,146.8                     |
-|Minor Shelf Rockfish complex|South of 40°10′ N lat|                      192.2                      |                      192.4                      |
-|Minor Slope Rockfish complex|North of 40°10′ N lat|                     1,268.8                     |                     1,268.0                     |
-|Minor Slope Rockfish complex|South of 40°10′ N lat|                      432.7                      |                      433.9                      |
-|   Other Flatfish complex   |      Coastwide      |                     7,455.4                     |                     6,349.3                     |
-|        Pacific cod         |      Coastwide      |                     1,031.4                     |                     1,031.4                     |
-|    PACIFIC OCEAN PERCH     |North of 40°10′ N lat|                      198.3                      |                      198.3                      |
-|      Pacific whiting       |      Coastwide      |                    152,326.5                    |                    152,326.5                    |
-|        Petrale sole        |      Coastwide      |                     2,745.3                     |                     2,628.5                     |
-|         Sablefish          | North of 36° N lat  |                     2,416.4                     |                     2,521.9                     |
-|         Sablefish          | South of 36° N lat  |                      780.8                      |                      814.4                      |
-|   Shortspine thornyhead    |North of 34°27′ N lat|                     1551.3                      |                     1,537.0                     |
-|   Shortspine thornyhead    |South of 34°27′ N lat|                      50.0                       |                      50.0                       |
-|     Splitnose rockfish     |South of 40°10′ N lat|                     1661.8                      |                     1,662.8                     |
-|      Starry flounder       |      Coastwide      |                      630.9                      |                      630.9                      |
-|       Widow rockfish       |      Coastwide      |                    11,392.7                     |                    10,661.5                     |
-|     YELLOWEYE ROCKFISH     |      Coastwide      |                      1.10                       |                      1.10                       |
-|    Yellowtail rockfish     |North of 40°10′ N lat|                     4,246.1                     |                     4,075.4                     |
+|        IFQ species         |        Area         |2019 Shorebased trawl allocation  <br/>(mt)|2020 Shorebased trawl allocation  <br/>(mt)|
+|----------------------------|---------------------|-------------------------------------------|-------------------------------------------|
+|    Arrowtooth flounder     |      Coastwide      |                 12,735.10                 |                 10,052.30                 |
+|          Bocaccio          |South of 40°10′ N lat|                   800.7                   |                   767.1                   |
+|      Canary rockfish       |      Coastwide      |                   953.6                   |                   894.3                   |
+|        Chilipepper         |South of 40°10′ N lat|                 1,838.30                  |                 1,743.80                  |
+|           COWCOD           |South of 40°10′ N lat|                    2.2                    |                    2.2                    |
+|   Darkblotched rockfish    |      Coastwide      |                   658.4                   |                   703.4                   |
+|         Dover sole         |      Coastwide      |                 45,979.20                 |                 45,979.20                 |
+|        English sole        |      Coastwide      |                 9,375.10                  |                 9,417.90                  |
+|          Lingcod           |North of 40°10′ N lat|                 2,051.90                  |                 1,903.40                  |
+|          Lingcod           |South of 40°10′ N lat|                   462.5                   |                    386                    |
+|    Longspine thornyhead    |North of 34°27′ N lat|                 2,420.00                  |                 2,293.60                  |
+|Minor Shelf Rockfish complex|North of 40°10′ N lat|                 1,155.20                  |                 1,151.60                  |
+|Minor Shelf Rockfish complex|South of 40°10′ N lat|                   188.6                   |                   188.6                   |
+|Minor Slope Rockfish complex|North of 40°10′ N lat|                 1,248.80                  |                 1,237.50                  |
+|Minor Slope Rockfish complex|South of 40°10′ N lat|                  456.00                   |                   455.4                   |
+|   Other Flatfish complex   |      Coastwide      |                 5,603.70                  |                 5,192.40                  |
+|        Pacific cod         |      Coastwide      |                 1,034.10                  |                 1,034.10                  |
+|    Pacific ocean perch     |North of 40°10′ N lat|                 3,697.30                  |                 3,602.20                  |
+|      Pacific whiting       |      Coastwide      |                    TBD                    |                    TBD                    |
+|        Petrale sole        |      Coastwide      |                 2,453.00                  |                 2,393.20                  |
+|         Sablefish          | North of 36° N; lat |                 2,581.30                  |                 2,636.80                  |
+|         Sablefish          | South of 36° N lat  |                    834                    |                   851.7                   |
+|   Shortspine thornyhead    |North of 34°27′ N lat|                  1,506.8                  |                  1,493.5                  |
+|   Shortspine thornyhead    |South of 34°27′ N lat|                    50                     |                    50                     |
+|     Splitnose rockfish     |South of 40°10′ N lat|                 1,646.70                  |                 1,628.70                  |
+|      Starry flounder       |      Coastwide      |                   211.6                   |                   211.6                   |
+|       Widow rockfish       |      Coastwide      |                 9,928.80                  |                 9,387.10                  |
+|     YELLOWEYE ROCKFISH     |      Coastwide      |                    3.4                    |                    3.4                    |
+|    Yellowtail rockfish     |North of 40°10′ N lat|                 4,305.80                  |                 4,048.00                  |
 
 (2) *Eligibility and registration* - (i) *Eligibility.* Only the following persons are eligible to own QS permits:
 
@@ -775,47 +737,47 @@ Pacific Halibut
 
 (B) *Transfer procedures.* QP or IBQ pound transfers from one vessel account to another vessel account must be accomplished via the online vessel account. To make a transfer, a vessel account owner must initiate a transfer request by logging onto the online vessel account. Following the instructions provided on the Web site, the vessel account owner must enter pertinent information regarding the transfer request including, but not limited to: IFQ species, amount of QP or IBQ pounds to be transferred for each IFQ species (in whole pound increments); name and any other identifier of the eligible transferee (e.g., USCG documentation number or state registration number, as applicable) of the eligible vessel account receiving the transfer; and the value of the transferred QP or IBQ pounds. The online system will verify whether all information has been entered and whether the transfer complies with vessel limits, as applicable. If the information is not accepted, an electronic message will record as much in the transferor's vessel account explaining the reason(s). If the information is accepted, the online system will record the pending transfer in both the transferor's and the transferee's vessel accounts. The transferee must approve the transfer by electronic signature. If the transferee accepts the transfer, the online system will record the transfer and confirm the transaction in both accounts through a transaction confirmation notice. Once the transferee accepts the transaction, the transaction is final and permanent. QP or IBQ pounds may be transferred between vessel accounts at any time during January 1 through December 31 each year unless otherwise notified by NMFS.
 
-(4) *Accumulation limits* - (i) *Vessel limits.* For each IFQ species or species group specified in this paragraph, vessel accounts may not have QP or IBQ pounds in excess of the QP vessel limit (annual limit) in any year, and, for species covered by unused QP vessel limits (daily limit), may not have QP or IBQ pounds in excess of the unused QP vessel limit at any time. The QP vessel limit (annual limit) is calculated as all QPs transferred in minus all QPs transferred out of the vessel account. The unused QP vessel limits (daily limit) is calculated as unused available QPs plus any pending outgoing transfer of QPs.
+(4) *Accumulation limits* - (i) *Vessel limits.* For each IFQ species or species group specified in this paragraph (e)(4)(i), vessel accounts may not have QP or IBQ pounds in excess of the annual QP vessel limit in any year. The annual QP vessel limit is calculated as all QPs transferred in minus all QPs transferred out of the vessel account.
 
-|              Species category              |QP vessel  <br/>limit  <br/>(annual limit)  <br/>(in percent)|Unused QP  <br/>vessel limit  <br/>(daily limit)  <br/>(in percent)|
-|--------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------------|
-|            Arrowtooth flounder             |                             20                              |                                                                   |
-|       Bocaccio S. of 40°10′ N. lat.        |                            15.4                             |                               13.2                                |
-|              Canary rockfish               |                             10                              |                                4.4                                |
-|      Chilipepper S. of 40°10′ N. lat.      |                             15                              |                                                                   |
-|        Cowcod S. of 40°10′ N. lat.         |                            17.7                             |                               17.7                                |
-|           Darkblotched rockfish            |                             6.8                             |                                4.5                                |
-|                 Dover sole                 |                             3.9                             |                                                                   |
-|                English sole                |                             7.5                             |                                                                   |
-|                  Lingcod:                  |                                                             |                                                                   |
-|            N. of 40°10′ N. lat.            |                             5.3                             |                                                                   |
-|            S. of 40°10′ N. lat.            |                            13.3                             |                                                                   |
-|           Longspine thornyhead:            |                                                             |                                                                   |
-|            N. of 34°27′ N. lat.            |                              9                              |                                                                   |
-|Minor rockfish complex N. of 40°10′ N. lat.:|                                                             |                                                                   |
-|               Shelf species                |                             7.5                             |                                                                   |
-|               Slope species                |                             7.5                             |                                                                   |
-|Minor rockfish complex S. of 40°10′ N. lat.:|                                                             |                                                                   |
-|               Shelf species                |                            13.5                             |                                                                   |
-|               Slope species                |                              9                              |                                                                   |
-|           Other flatfish complex           |                             15                              |                                                                   |
-|                Pacific cod                 |                             20                              |                                                                   |
-| Pacific halibut (IBQ) N. of 40°10′ N. lat. |                            14.4                             |                                5.4                                |
-|  Pacific ocean perch N. of 40°10′ N. lat.  |                              6                              |                                 4                                 |
-|        Pacific whiting (shoreside)         |                             15                              |                                                                   |
-|                Petrale sole                |                             4.5                             |                                                                   |
-|                 Sablefish:                 |                                                             |                                                                   |
-|     N. of 36° N. lat. (Monterey north)     |                             4.5                             |                                                                   |
-|    S. of 36° N. lat. (Conception area)     |                             15                              |                                                                   |
-|           Shortspine thornyhead:           |                                                             |                                                                   |
-|            N. of 34°27′ N. lat.            |                              9                              |                                                                   |
-|            S. of 34°27′ N. lat.            |                              9                              |                                                                   |
-|  Splitnose rockfish S. of 40°10′ N. lat.   |                             15                              |                                                                   |
-|              Starry flounder               |                             20                              |                                                                   |
-|               Widow rockfish               |                             8.5                             |                                                                   |
-|             Yelloweye rockfish             |                            11.4                             |                                5.7                                |
-|  Yellowtail rockfish N. of 40°10′ N. lat.  |                             7.5                             |                                                                   |
-|       Nonwhiting groundfish species        |                             3.2                             |                                                                   |
+|             Species category             |Annual QP  <br/>vessel limit  <br/>(in percent)|
+|------------------------------------------|-----------------------------------------------|
+|           Arrowtooth flounder            |                      20                       |
+|        Bocaccio S of 40°10′ N lat        |                     15.4                      |
+|             Canary rockfish              |                      10                       |
+|      Chilipepper S of 40°10′ N lat       |                      15                       |
+|         Cowcod S of 40°10′ N lat         |                     17.7                      |
+|          Darkblotched rockfish           |                      6.8                      |
+|                Dover sole                |                      3.9                      |
+|               English sole               |                      7.5                      |
+|                 Lingcod:                 |                                               |
+|            N of 40°10′ N lat             |                      5.3                      |
+|            S of 40°10′ N lat             |                     13.3                      |
+|          Longspine thornyhead:           |                                               |
+|            N of 34°27′ N lat             |                       9                       |
+|Minor rockfish complex N of 40°10′ N lat.:|                                               |
+|              Shelf species               |                      7.5                      |
+|              Slope species               |                      7.5                      |
+|Minor rockfish complex S of 40°10′ N lat.:|                                               |
+|              Shelf species               |                     13.5                      |
+|              Slope species               |                       9                       |
+|          Other Flatfish complex          |                      15                       |
+|               Pacific cod                |                      20                       |
+| Pacific halibut (IBQ) N of 40°10′ N lat  |                     14.4                      |
+|  Pacific ocean perch N of 40°10′ N lat   |                       6                       |
+|       Pacific whiting (shoreside)        |                      15                       |
+|               Petrale sole               |                      4.5                      |
+|                Sablefish:                |                                               |
+|     N of 36° N lat. (Monterey north)     |                      4.5                      |
+|    S of 36° N lat. (Conception area)     |                      15                       |
+|          Shortspine thornyhead:          |                                               |
+|            N of 34°27′ N lat             |                       9                       |
+|            S of 34°27′ N lat             |                       9                       |
+|   Splitnose rockfish S of 40°10′ N lat   |                      15                       |
+|             Starry flounder              |                      20                       |
+|              Widow rockfish              |                      8.5                      |
+|            Yelloweye rockfish            |                     11.4                      |
+|  Yellowtail rockfish N of 40°10′ N lat   |                      7.5                      |
+|      Non-whiting groundfish species      |                      3.2                      |
 
 (ii) *Trawl identification of ownership interest form.* Any person that owns a vessel registered to a limited entry trawl permit and that is applying for or renewing a vessel account shall document those persons that have an ownership interest in the vessel greater than or equal to 2 percent. This ownership interest must be documented with the SFD via the Trawl Identification of Ownership Interest Form. SFD will not issue a vessel account unless the Trawl Identification of Ownership Interest Form has been completed. NMFS may request additional information of the applicant as necessary to verify compliance with accumulation limits.
 
@@ -925,7 +887,7 @@ Pacific Halibut
 
 (10) *Cost recovery.* The first receiver site license holder is considered the fish buyer as defined at § 660.111, and must comply with the cost recovery program specified at § 660.115.
 
-(g) *Retention and disposition requirements* - (1) *General.* Shorebased IFQ Program vessels may discard IFQ species/species groups, provided such discards are accounted for and deducted from QP in the vessel account. With the exception of vessels on Pacific whiting IFQ trips engaged in maximized retention, prohibited and protected species must be discarded at sea; Pacific halibut must be discarded as soon as practicable and the discard mortality must be accounted for and deducted from IBQ pounds in the vessel account. Non-IFQ species and non-groundfish species may be discarded at sea. The sorting of catch, the weighing and discarding of any IBQ and IFQ species, and the retention of IFQ species must be monitored by the observer.
+(g) *Retention and disposition requirements* - (1) *General.* Shorebased IFQ Program vessels may discard IFQ species/species groups, and the discard mortality must be accounted for and deducted from QP in the vessel account. With the exception of vessels on Pacific whiting IFQ trips engaged in maximized retention, prohibited and protected species must be discarded at sea; Pacific halibut must be discarded as soon as practicable and the discard mortality must be accounted for and deducted from IBQ pounds in the vessel account. Non-IFQ species and non-groundfish species may be discarded at sea. The sorting of catch, the weighing and discarding of any IBQ and IFQ species, and the retention of IFQ species must be monitored by the observer.
 
 (2) *Maximized retention for Pacific whiting IFQ trips.* Vessels on Pacific whiting IFQ trips may engage in maximized retention. Maximized retention allows for the discard minor operational amounts of catch at sea if the observer has accounted for the discard. Vessels engaged in maximized retention must retain prohibited species until landing. Protected species may be retained until landing except as provided under paragraph (g)(3) of this section. Pacific halibut must be accounted for and deducted from IBQ pounds in the vessel account.
 
@@ -953,7 +915,7 @@ Pacific Halibut
 
 (*2*) Must carry an observer at any time the vessel is underway in port, including transit between delivery points when fish is offloaded at more than one IFQ first receiver.
 
-(*3*) Is exempt from the requirement to maintain observer coverage as specified in this paragraph while remaining docked in port when the observer makes available to the catch monitor an Observer Program reporting form documenting the weight and number of bocaccio, yelloweye rockfish, canary rockfish, and cowcod retained during that trip and which documents any discrepancy the vessel operator and observer may have in the weights and number of the overfished species, unless modified inseason under routine management measures at § 660.60(c)(1).
+(*3*) Is exempt from the requirement to maintain observer coverage as specified in this paragraph (h) while remaining docked in port when the observer makes available to the catch monitor an Observer Program reporting form documenting the weight and number of any overfished species listed under a rebuilding plan at § 660.40 retained during that trip and which documents any discrepancy the vessel operator and observer may have in the weights and number of the overfished species, unless modified inseason under routine management measures at § 660.60(c)(1).
 
 (B) Any vessel 125 ft (38.1 m) LOA or longer that is engaged in at-sea processing must carry two certified observers, and any vessel shorter than 125 ft (38.1 m) LOA that is engaged in at-sea processing must carry one certified observer, each day that the vessel is used to take, retain, receive, land, process, or transport groundfish.
 
@@ -987,25 +949,7 @@ Pacific Halibut
 
 (vii) *Records.* Allow observer(s) to inspect and copy any state or Federal logbook maintained voluntarily or as required by regulation.
 
-(viii) *Assistance.* Provide all other reasonable assistance to enable observer(s) to carry out their duties, including, but not limited to:
-
-(A) Measuring decks, codends, and holding bins.
-
-(B) Providing a designated working area on deck for the observer(s) to collect, sort and store catch samples.
-
-(C) Collecting samples of catch.
-
-(D) Collecting and carrying baskets of fish.
-
-(E) Allowing the observer(s) to collect biological data and samples.
-
-(F) Providing adequate space for storage of biological samples.
-
-(G) Providing time between hauls to sample and record all catch.
-
-(H) Sorting retained and discarded catch into quota pound groupings.
-
-(I) Stowing all catch from a haul before the next haul is brought aboard.
+(viii) [Reserved]
 
 (ix) *Sampling station.* To allow the observer to carry out the required duties, the vessel owner must provide an observer sampling station that is:
 
@@ -1429,6 +1373,6 @@ Pacific Halibut
 
 (v) Facilitating new entrants.
 
-(2) *AMP QP pass through.* The 10 percent of non-whiting QS will be reserved for the AMP, but the resulting AMP QP will be issued to all QS permit owners in proportion to their non-whiting QS until the implementation of any regulatory changes developed pursuant to the first program review for the trawl rationalization program.
+(2) *AMP QP pass through.* The 10 percent of non-whiting QS will be reserved for the AMP, but the resulting AMP QP will be issued to all QS permit owners in proportion to their non-whiting QS until an alternative use of AMP QP is implemented.
 
-[75 FR 60897, Oct. 1, 2010]Editorial Note:For Federal Register citations affecting § 660.140, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[75 FR 60897, Oct. 1, 2010]Editorial Note:For Federal Register citations affecting § 660.140, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,6 +1,6 @@
 ##### § 300.28 FAD restrictions. #####
 
-Link to an amendment published at 83 FR 15510, Apr. 11, 2018.Link to an amendment published at 83 FR 62734, Dec. 6, 2018.
+Link to an amendment published at 83 FR 62734, Dec. 6, 2018.
 
 (a) *FAD identification requirements for purse seine vessels.* (1) For each FAD deployed or modified on or after January 1, 2017, in the IATTC Convention Area, the vessel owner or operator must either: obtain a unique code from HMS Branch; or use an existing unique identifier associated with the FAD (*e.g.,* the manufacturer identification code for the attached buoy).
 

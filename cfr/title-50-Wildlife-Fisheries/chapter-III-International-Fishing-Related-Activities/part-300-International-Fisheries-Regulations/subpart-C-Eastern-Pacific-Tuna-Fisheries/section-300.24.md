@@ -1,6 +1,6 @@
 ##### § 300.24 Prohibitions. #####
 
-Link to an amendment published at 83 FR 15509, Apr. 11, 2018.Link to an amendment published at 83 FR 62734, Dec. 6, 2018.
+Link to an amendment published at 83 FR 62734, Dec. 6, 2018.
 
 In addition to the prohibitions in § 300.4, it is unlawful for any person or vessel subject to the jurisdiction of the United States to:
 
@@ -87,5 +87,7 @@ In addition to the prohibitions in § 300.4, it is unlawful for any person or ve
 (oo) Deploy a FAD in the IATTC Convention Area during a period of 15 days prior to the start of the selected closure period in contravention of § 300.28(d)(1).
 
 (pp) Fail to timely remove from the water a number of FADs in the IATTC Convention Area equal to the number of FADs set upon by the vessel during the 15 days prior to the start of the selected closure period as required in § 300.28(d)(2).
+
+(qq) Deploy, or have onboard a vessel, a FAD in the IATTC Convention Area that fails to comply with the FAD design requirements in § 300.28(e).
 
 [61 FR 35550, July 5, 1996]Editorial Note:For Federal Register citations affecting § 300.24, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.

@@ -1,7 +1,5 @@
 ##### § 622.190 Quotas. #####
 
-Link to an amendment published at 83 FR 62512, Dec. 4, 2018.
-
 See § 622.8 for general provisions regarding quota applicability and closure and reopening procedures. This section provides quotas and specific quota closure restrictions for South Atlantic snapper-grouper.
 
 (a) *South Atlantic snapper-grouper, excluding wreckfish.* The quotas apply to persons who are not subject to the bag limits. (See § 622.11 for applicability of the bag limits.) The quotas are in gutted weight, that is eviscerated but otherwise whole, except for the quotas in paragraphs (a)(4) through (7) of this section which are in both gutted weight and round weight.
@@ -16,17 +14,11 @@ See § 622.8 for general provisions regarding quota applicability and closure an
 
 (v) For the 2019 and subsequent fishing years - 153,935 lb (69,824 kg), gutted weight; 181,644 lb (82,392 kg), round weight.
 
-(2) *Golden tilefish.* (i) *Longline and hook-and-line components combined* - 541,295 lb (245,527 kg).
+(2) *Golden tilefish.* (i) *Commercial sector (hook-and-line and longline components combined)* - 331,740 lb (150,475 kg).
 
-(ii) *Hook-and-line component* - 135,324 lb (61,382 kg).
+(ii) *Hook-and-line component* - 82,935 lb (37,619 kg).
 
-(iii) *Longline component* - 405,971 lb (184,145 kg).
-
-(iv) *Hook-and-line and longline components combined* - 313,310 lb (142,115 kg).
-
-(v) *Hook-and-line component* - 78,328 lb (35,529 kg).
-
-(vi) *Longline component* - 234,982 lb (106,586 kg).
+(iii) *Longline component* - 248,805 lb (112,856 kg).
 
 (3) *Greater amberjack* - 769,388 lb (348,989 kg).
 
@@ -96,4 +88,4 @@ See § 622.8 for general provisions regarding quota applicability and closure an
 
 (2) [Reserved]
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 23863 Apr. 23, 2013; 78 FR 47579, Aug. 6, 2013; 78 FR 49195, Aug. 13, 2013]; 78 FR 58253, Sept. 23, 2013; 79 FR 66322, Nov. 7, 2014; 80 FR 30953, June 1, 2015; 80 FR 43038, July 21, 2015; 80 FR 48278, Aug. 12, 2015; 81 FR 3738, Jan. 22, 2016]Effective Date Note:At 83 FR 70, Jan. 2, 2018, § 622.190 was amended by suspending paragraphs (a)(2)(i), (ii), and (iii) and adding paragraphs (a)(2)(iv), (v), and (vi), effective Jan. 2, 2018, through July 1, 2018. At 83 FR 28387, June 19, 2018, the effective date for these amendments was extended to Jan. 3, 2019.
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 23863 Apr. 23, 2013; 78 FR 47579, Aug. 6, 2013; 78 FR 49195, Aug. 13, 2013]; 78 FR 58253, Sept. 23, 2013; 79 FR 66322, Nov. 7, 2014; 80 FR 30953, June 1, 2015; 80 FR 43038, July 21, 2015; 80 FR 48278, Aug. 12, 2015; 81 FR 3738, Jan. 22, 2016; 83 FR 62512, Dec. 4, 2018]

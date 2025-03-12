@@ -1,7 +1,5 @@
 ##### § 660.72 Latitude/longitude coordinates defining the 50 fm (91 m) through 75 fm (137 m) depth contours. #####
 
-Link to an amendment published at 83 FR 63992, Dec. 12, 2018.
-
 Boundaries for RCAs are defined by straight lines connecting a series of latitude/longitude coordinates. This section provides coordinates for the 50 fm (91 m) through 75 fm (137 m) depth contours.
 
 (a) The 50-fm (91-m) depth contour between the U.S. border with Canada and the U.S. border with Mexico is defined by straight lines connecting all of the following points in the order stated:
@@ -1654,39 +1652,43 @@ and connecting back to 48°30.15′ N. lat., 124°56.12′ W. long.
 
 (14) 33°58.70′ N. lat., 119°32.21′ W. long.;
 
-(15) 33°56.12′ N. lat., 119°41.10′ W. long.;
+(15) 33°57.77′ N lat., 119°33.49′ W long.;
 
-(16) 33°55.74′ N. lat., 119°48.00′ W. long.;
+(16) 33°57.64′ N lat., 119°35.78′ W long.;
 
-(17) 33°56.91′ N. lat., 119°52.04′ W. long.;
+(17) 33°56.12′ N. lat., 119°41.10′ W. long.;
 
-(18) 33°59.06′ N. lat., 119°55.38′ W. long.;
+(18) 33°55.74′ N. lat., 119°48.00′ W. long.;
 
-(19) 33°57.82′ N. lat., 119°54.99′ W. long.;
+(19) 33°56.91′ N. lat., 119°52.04′ W. long.;
 
-(20) 33°56.58′ N. lat., 119°53.75′ W. long.;
+(20) 33°59.06′ N. lat., 119°55.38′ W. long.;
 
-(21) 33°54.43′ N. lat., 119°54.07′ W. long.;
+(21) 33°57.82′ N. lat., 119°54.99′ W. long.;
 
-(22) 33°52.67′ N. lat., 119°54.78′ W. long.;
+(22) 33°56.58′ N. lat., 119°53.75′ W. long.;
 
-(23) 33°48.33′ N. lat., 119°55.09′ W. long.;
+(23) 33°54.43′ N. lat., 119°54.07′ W. long.;
 
-(24) 33°47.28′ N. lat., 119°57.30′ W. long.;
+(24) 33°52.67′ N. lat., 119°54.78′ W. long.;
 
-(25) 33°47.36′ N. lat., 120°00.39′ W. long.;
+(25) 33°48.33′ N. lat., 119°55.09′ W. long.;
 
-(26) 33°49.16′ N. lat., 120°05.06′ W. long.;
+(26) 33°47.28′ N. lat., 119°57.30′ W. long.;
 
-(27) 33°52.00′ N. lat., 120°08.15′ W. long.;
+(27) 33°47.36′ N. lat., 120°00.39′ W. long.;
 
-(28) 33°58.11′ N. lat., 120°25.59′ W. long.;
+(28) 33°49.16′ N. lat., 120°05.06′ W. long.;
 
-(29) 34°02.15′ N. lat., 120°32.70′ W. long.;
+(29) 33°52.00′ N. lat., 120°08.15′ W. long.;
 
-(30) 34°08.86′ N. lat., 120°37.12′ W. long.; and
+(30) 33°58.11′ N. lat., 120°25.59′ W. long.;
 
-(31) 34°10.82′ N. lat., 120°33.26′ W. long.
+(31) 34°02.15′ N. lat., 120°32.70′ W. long.;
+
+(32) 34°08.86′ N. lat., 120°37.12′ W. long.; and
+
+(33) 34°10.82′ N. lat., 120°33.26′ W. long.
 
 (l) The 75 fm (137 m) depth contour around San Clemente Island off the state of California is defined by straight lines connecting all of the following points in the order stated:
 
@@ -1758,4 +1760,4 @@ and connecting back to 48°30.15′ N. lat., 124°56.12′ W. long.
 
 (18) 33°28.17′ N. lat., 118°38.16′ W. long.
 
-[69 FR 77051, Dec. 23, 2004, as amended at 71 FR 8500, Feb. 17, 2006; 71 FR 78672, Dec. 29, 2006; 74 FR 9898, Mar. 6, 2009. Redesignated at 75 FR 60995, Oct. 1, 2010; 76 FR 27530, May 11, 2011; 76 FR 54714, Sept. 2, 2011; 78 FR 589, Jan. 3, 2013; 80 FR 12573, Mar. 10, 2015; 82 FR 9640, Feb. 7, 2017]
+[69 FR 77051, Dec. 23, 2004, as amended at 71 FR 8500, Feb. 17, 2006; 71 FR 78672, Dec. 29, 2006; 74 FR 9898, Mar. 6, 2009. Redesignated at 75 FR 60995, Oct. 1, 2010; 76 FR 27530, May 11, 2011; 76 FR 54714, Sept. 2, 2011; 78 FR 589, Jan. 3, 2013; 80 FR 12573, Mar. 10, 2015; 82 FR 9640, Feb. 7, 2017; 83 FR 63992, Dec. 12, 2018]

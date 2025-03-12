@@ -1,10 +1,8 @@
 ##### § 665.813 Western Pacific longline fishing restrictions. #####
 
-Link to an amendment published at 83 FR 49496, Oct. 2, 2018.
+(a) [Reserved]
 
-(a) [*Reserved*]
-
-(b) Limits on sea turtle interactions. (1) Maximum annual limits are established on the number of physical interactions that occur each calendar year between leatherback and North Pacific loggerhead sea turtles and vessels registered for use under Hawaii longline limited access permits while shallow-set fishing. The annual limit for leatherback sea turtles (*Dermochelys coriacea*) is 26, and the annual limit for North Pacific loggerhead sea turtles (*Caretta caretta*) is 34.
+(b) *Limits on sea turtle interactions.* (1) Maximum annual limits are established on the number of physical interactions that occur each calendar year between leatherback and North Pacific loggerhead sea turtles and vessels registered for use under Hawaii longline limited access permits while shallow-set fishing. The annual limit for leatherback sea turtles (*Dermochelys coriacea*) is 26, and the annual limit for North Pacific loggerhead sea turtles (*Caretta caretta*) is 17.
 
 (2) Upon determination by the Regional Administrator that, based on data from NMFS observers, the fishery has reached either of the two sea turtle interaction limits during a given calendar year:
 
@@ -12,11 +10,11 @@ Link to an amendment published at 83 FR 49496, Oct. 2, 2018.
 
 (ii) Beginning on the fishery closure date indicated by the Regional Administrator in the notification provided to vessel operators and permit holders and published in the Federal Register under paragraph (b)(2)(i) of this section, until the end of the calendar year in which the sea turtle interaction limit was reached, the Hawaii-based shallow-set longline fishery shall be closed.
 
-(c) [*Reserved*]
+(c) [Reserved]
 
 (d) Vessels registered for use under a Hawaii longline limited access permit may not have on board at any time during a trip for which notification to NMFS under § 665.803(a) indicated that deep-setting would be done any float lines less than 20 meters in length or light sticks. As used in this paragraph “float line” means a line used to suspend the main longline beneath a float and “light stick” means any type of light emitting device, including any fluorescent “glow bead,” chemical, or electrically powered light that is affixed underwater to the longline gear.
 
-(e) [*Reserved*]
+(e) [Reserved]
 
 (f) Any owner or operator of a vessel registered for use under any longline permit issued under § 665.801 must use only circle hooks sized 18/0 or larger, with an offset not to exceed 10 degrees, when shallow-setting north of the Equator (0° lat.). As used in this paragraph, an offset circle hook sized 18/0 or larger is one with an outer diameter at its widest point no smaller than 1.97 inches (50 mm) when measured with the eye of the hook on the vertical axis (y-axis) and perpendicular to the horizontal axis (x-axis). As used in this paragraph, the allowable offset is measured from the barbed end of the hook, and is relative to the parallel plane of the eyed-end, or shank, of the hook when laid on its side.
 
@@ -46,4 +44,4 @@ Link to an amendment published at 83 FR 49496, Oct. 2, 2018.
 
 (5) No more than 10 swordfish may be possessed or landed during a single fishing trip.
 
-[75 FR 2205, Jan. 14, 2010, as amended at 76 FR 13299, Mar. 11, 2011; 76 FR 52889, Aug. 24, 2011; 77 FR 43722, July 26, 2012; 77 FR 60649, Oct. 4, 2012]
+[75 FR 2205, Jan. 14, 2010, as amended at 76 FR 13299, Mar. 11, 2011; 76 FR 52889, Aug. 24, 2011; 77 FR 43722, July 26, 2012; 77 FR 60649, Oct. 4, 2012; 83 FR 49496, Oct. 2, 2018]
