@@ -6,11 +6,9 @@ ONRR will serve all Notices of Noncompliance or Civil Penalty following the proc
 
 (1) U.S. Postal Service mail;
 
-(2) Personal delivery made pursuant to the law of the State in which the service is effected;
+(2) Personal delivery made pursuant to the law of the State in which the service is effected; or
 
-(3) Private mailing service (e.g., United Parcel Service, or Federal Express), with signature and date upon delivery, acknowledging the addressee of record's receipt of the official correspondence document; or
-
-(4) Any electronic method of delivery that keeps information secure and provides for a receipt of delivery or, if there is no receipt, the date of delivery otherwise documented.
+(3) Private mailing service (such as the United Parcel Service or Federal Express), with signature and date upon delivery acknowledging the addressee of record's receipt of the official correspondence document.
 
 (b) *Selection of addressee of record information.* (1) We will address official correspondence to the party shown on the most recently received Form ONRR-4444 for the type of correspondence at issue. The company or reporting entity is responsible for notifying ONRR of any name or address changes on Form ONRR-4444. The addressee of record in a part 1290, appeal will be the person or representative making the appeal.
 
@@ -24,24 +22,20 @@ ONRR will serve all Notices of Noncompliance or Civil Penalty following the proc
 
 (c) *Dates of service.* Except as provided in paragraph (d) of this section, ONRR considers official correspondence as served on the date that it is received at the address of record. A receipt, signed and dated by any person at that address, is evidence of service and of the date of service. If official correspondence is served in more than one manner and the dates differ, the date of the earliest service is used[smc1].
 
-(d) *Constructive service.* If we cannot make delivery to the addressee of record after making a reasonable effort, we deem official correspondence as constructively served 7 days after the date that we mail or electronically transmit the document. This provision covers situations such as those where no delivery occurs because:
+(d) *Constructive service.* If we cannot make delivery to the addressee of record after making a reasonable effort, we deem official correspondence as constructively served seven days after the date when we mail the document. This provision covers situations such as those where no delivery occurs because:
 
-(1) The addressee of record has moved without filing a forwarding address or updating its Form ONRR-4444 as required under paragraph (b) of this section;
+(1) The addressee of record has moved without filing a forwarding address;
 
 (2) The forwarding order has expired;
 
-(3) The addressee of record has changed its email address without updating its Form ONRR-4444 as required under paragraph (b) of this section;
+(3) Delivery was expressly refused; or
 
-(4) Delivery was expressly refused; or
-
-(5) The document was unclaimed and the attempt to deliver is substantiated by either:
+(4) The document was unclaimed and the attempt to deliver it is substantiated by:
 
 (i) The U.S. Postal Service;
 
-(ii) A private mailing service, as described in this section;
+(ii) A private mailing service, as described in this section; or
 
-(iii) The person who attempted to make delivery using some other method of service; or
+(iii) The person who attempted to make delivery using some other method of service.
 
-(iv) A receipt or other documentation that ONRR attempted electronic service.
-
-[71 FR 51751, Aug. 31, 2006, as amended at 78 FR 52433, Aug. 23, 2013]
+[71 FR 51751, Aug. 31, 2006, as amended at 78 FR 52433, Aug. 23, 2013; 83 FR 3077, Jan. 23, 2018]

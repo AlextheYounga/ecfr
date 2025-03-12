@@ -1,7 +1,5 @@
 ##### § 622.50 Permits, permit moratorium, and endorsements. #####
 
-Link to an amendment published at 82 FR 60567, Dec. 21, 2017.
-
 (a) *Gulf shrimp permit.* For a person aboard a vessel to fish for shrimp in the Gulf EEZ or possess shrimp in or from the Gulf EEZ, a commercial vessel permit for Gulf shrimp must have been issued to the vessel and must be on board. See paragraph (b) of this section regarding a moratorium on commercial vessel permits for Gulf shrimp and the associated provisions. See paragraph (c) of this section, regarding an additional endorsement requirement related to royal red shrimp.
 
 (b) *Moratorium on commercial vessel permits for Gulf shrimp.* The provisions of this paragraph (b) are applicable through October 26, 2026.
@@ -12,10 +10,14 @@ Link to an amendment published at 82 FR 60567, Dec. 21, 2017.
 
 (3) *Renewal.* (i) Renewal of a commercial vessel moratorium permit for Gulf shrimp is contingent upon compliance with the recordkeeping and reporting requirements for Gulf shrimp specified in § 622.51(a).
 
-(ii) A commercial vessel moratorium permit for Gulf shrimp that is not renewed will be terminated and will not be reissued during the moratorium. A permit is considered to be not renewed when an application for renewal, as required, is not received by the RA within 1 year of the expiration date of the permit.
+(ii) Except as provided for in paragraph (b)(3)(iii) of this section, a commercial vessel moratorium permit for Gulf shrimp that is not renewed will be terminated and will not be reissued during the moratorium. A permit is considered to be not renewed when an application for renewal, as required, is not received by the RA within 1 year of the expiration date of the permit.
+
+(iii) When NMFS has determined that the number of commercial vessel moratorium permits for Gulf shrimp has reached the threshold number of permits as described in the FMP, then a commercial vessel moratorium permit for Gulf shrimp that is not renewed will be converted to a Gulf shrimp reserve pool permit and held by NMFS for possible reissuance. Gulf shrimp reserve pool permits will not be issued until eligibility requirements are developed and implemented through subsequent rulemaking.
 
 (c) *Gulf royal red shrimp endorsement.* For a person aboard a vessel to fish for royal red shrimp in the Gulf EEZ or possess royal red shrimp in or from the Gulf EEZ, a commercial vessel permit for Gulf shrimp with a Gulf royal red shrimp endorsement must be issued to the vessel and must be on board.
 
 (d) *Permit procedures.* See § 622.4 for information regarding general permit procedures including, but not limited to, application, fees, duration, transfer, renewal, display, sanctions and denials, and replacement.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 81 FR 47735, July 22, 2016]
+(e) *Gulf shrimp transit provision.* A vessel that does not have a valid Gulf shrimp moratorium permit, as described in paragraphs (a) and (b) of this section, may possess Gulf shrimp when in transit in the Gulf EEZ provided that the shrimp fishing gear is appropriately stowed. For the purposes of this paragraph, transit means non-stop progression through the Gulf EEZ. Fishing gear appropriately stowed means trawl doors and nets must be out of the water and the bag straps must be removed from the net.
+
+[78 FR 22952, Apr. 17, 2013, as amended at 81 FR 47735, July 22, 2016; 82 FR 60567, Dec. 21, 2017]

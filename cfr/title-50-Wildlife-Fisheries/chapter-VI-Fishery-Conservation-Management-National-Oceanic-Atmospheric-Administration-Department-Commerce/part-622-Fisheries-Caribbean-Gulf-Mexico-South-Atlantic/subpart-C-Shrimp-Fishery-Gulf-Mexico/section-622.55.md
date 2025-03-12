@@ -1,12 +1,12 @@
 ##### § 622.55 Closed areas. #####
 
-Link to an amendment published at 82 FR 60567, Dec. 21, 2017.
-
 (a) *Texas closure.* (1) From 30 minutes after official sunset on May 15 to 30 minutes after official sunset on July 15, trawling, except trawling for royal red shrimp beyond the 100-fathom (183-m) depth contour, is prohibited in the Gulf EEZ off Texas.
 
 (2) In accordance with the procedures and restrictions of the Gulf Shrimp FMP, the RA may adjust the closing and/or opening date of the Texas closure to provide an earlier, later, shorter, or longer closure, but the duration of the closure may not exceed 90 days or be less than 45 days. Notification of the adjustment of the closing or opening date will be published in the Federal Register.
 
 (b) *Southwest Florida seasonal trawl closure.* From January 1 to 1 hour after official sunset on May 20, each year, trawling, including trawling for live bait, is prohibited in that part of the Gulf EEZ shoreward of rhumb lines connecting, in order, the following points:
+
+Table 1 to Paragraph (b)
 
 |    Point    |North lat.|West long.|
 |-------------|----------|----------|
@@ -20,21 +20,23 @@ Link to an amendment published at 82 FR 60567, Dec. 21, 2017.
 
 (c) *Tortugas shrimp sanctuary.* (1) The Tortugas shrimp sanctuary is closed to trawling. The Tortugas shrimp sanctuary is that part of the EEZ off Florida shoreward of rhumb lines connecting, in order, the following points:
 
+Table 1 to Paragraph (c)(1)
+
 |    Point    |North lat.|West long.|
 |-------------|----------|----------|
-|N<sup>1</sup>| 25°52.9′ | 81°37.9′ |
-|      F      | 24°50.7′ | 81°51.3′ |
-|G<sup>2</sup>| 24°40.1′ | 82°26.7′ |
-|H<sup>3</sup>| 24°34.7′ | 82°35.2′ |
-|P<sup>4</sup>| 24°35.0′ | 82°08.0′ |
+|N<sup>1</sup>|25°52′54″ |81°37′56″ |
+|      F      |24°50′42″ |81°51′18″ |
+|G<sup>2</sup>|24°40′00″ |82°26′39″ |
+|H<sup>3</sup>|24°34′44″ |82°35′27″ |
+|P<sup>4</sup>|24°35′00″ |82°08′00″ |
 
 <sup>1</sup> Coon Key Light.
 
-<sup>2</sup> New Ground Rocks Light.
+<sup>2</sup> New Ground Shoals Light.
 
-<sup>3</sup> Rebecca Shoal Light.
+<sup>3</sup> Rebecca Shoals Light.
 
-<sup>4</sup> Marquessas Keys.
+<sup>4</sup> Marquesas Keys.
 
 (2) The provisions of paragraph (c)(1) of this section notwithstanding -
 
@@ -50,6 +52,8 @@ Link to an amendment published at 82 FR 60567, Dec. 21, 2017.
 
 (2) *Eastern zone.* The eastern zone is bounded by rhumb lines connecting, in order, the following points:
 
+Table 1 to Paragraph (d)
+
 |Point|North lat.|West long.|
 |-----|----------|----------|
 |  A  |  29°14′  |  88°57′  |
@@ -62,6 +66,8 @@ Link to an amendment published at 82 FR 60567, Dec. 21, 2017.
 |  A  |  29°14′  |  88°57′  |
 
 (3) *Louisiana zone.* The Louisiana zone is bounded by rhumb lines connecting, in order, the following points:
+
+Table 2 to Paragraph (d)
 
 |Point|North lat.|West long.|
 |-----|----------|----------|
@@ -77,6 +83,8 @@ Link to an amendment published at 82 FR 60567, Dec. 21, 2017.
 |  A  | 29°09.1′ | 93°41.4′ |
 
 (4) *Texas zone.* The Texas zone is bounded by rhumb lines connecting, in order, the following points:
+
+Table 3 to Paragraph (d)
 
 |Point|North lat.|West long.|
 |-----|----------|----------|
@@ -96,6 +104,8 @@ Link to an amendment published at 82 FR 60567, Dec. 21, 2017.
 |  A  | 29°09.1′ | 93°41.4′ |
 
 (e) *Shrimp/stone crab separation zones.* Five zones are established in the Gulf EEZ and Florida's waters off Citrus and Hernando Counties for the separation of shrimp trawling and stone crab trapping. Although Zone II is entirely within Florida's waters, it is included in this paragraph (e) for the convenience of fishermen. Restrictions that apply to Zone II and those parts of the other zones that are in Florida's waters are contained in Rule 68B-38.001, Florida Administrative Code, in effect as of March 1, 2005 (incorporated by reference, see § 622.413). Geographical coordinates of the points referred to in this paragraph (e) are as follows:
+
+Table 1 to Paragraph (e)
 
 |    Point    |North lat.|West long.|
 |-------------|----------|----------|
@@ -144,3 +154,5 @@ Link to an amendment published at 82 FR 60567, Dec. 21, 2017.
 (i) It is unlawful to place a stone crab trap in that part of Zone V that is in the EEZ from October 5 through November 30 and from March 16 through May 20, each year.
 
 (ii) It is unlawful to trawl in that part of Zone V that is in the EEZ from December 1 through March 15, each year.
+
+[78 FR 22952, Apr. 17, 2013, as amended at 82 FR 60567, Dec. 21, 2017]

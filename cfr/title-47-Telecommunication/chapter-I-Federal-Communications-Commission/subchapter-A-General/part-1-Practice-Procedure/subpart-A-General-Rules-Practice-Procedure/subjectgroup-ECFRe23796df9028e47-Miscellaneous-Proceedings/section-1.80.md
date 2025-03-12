@@ -1,7 +1,5 @@
 ##### § 1.80 Forfeiture proceedings. #####
 
-Link to an amendment published at 82 FR 57882, December 8, 2017.
-
 (a) *Persons against whom and violations for which a forfeiture may be assessed.* A forfeiture penalty may be assessed against any person found to have:
 
 (1) Willfully or repeatedly failed to comply substantially with the terms and conditions of any license, permit, certificate, or other instrument of authorization issued by the Commission;
@@ -94,7 +92,6 @@ Violations Unique to the Service
 |            Violation of cable broadcast carriage rules             |      Cable      | 7,500 |
 |                 Violation of pole attachment rules                 |      Cable      | 7,500 |
 |Failure to maintain directional pattern within prescribed parameters|    Broadcast    | 7,000 |
-|                   Violation of main studio rule                    |    Broadcast    | 7,000 |
 |                  Violation of broadcast hoax rule                  |    Broadcast    | 7,000 |
 |                          AM tower fencing                          |    Broadcast    | 7,000 |
 |     Broadcasting telephone conversations without authorization     |    Broadcast    | 4,000 |
@@ -238,4 +235,4 @@ Pursuant to Public Law 104-134, the first inflation adjustment cannot exceed 10 
 
 (j) *Effective date.* Amendments to paragraph (b) of this section implementing Pub. L. No. 101-239 are effective December 19, 1989.
 
-[43 FR 49308, Oct. 23, 1978, as amended at 48 FR 15631, Apr. 12, 1983; 50 FR 40855, Oct. 7, 1985; 55 FR 25605, June 22, 1990; 56 FR 25638, June 5, 1991; 57 FR 23161, June 2, 1992; 57 FR 47006, Oct. 14, 1992; 57 FR 48333, Oct. 23, 1992; 58 FR 6896, Feb. 3, 1993; 58 FR 27473, May 10, 1993; 62 FR 4918, Feb. 3, 1997; 62 FR 43475, Aug. 14, 1997; 63 FR 26992, May 15, 1998; 65 FR 60868, Oct. 13, 2000; 69 FR 47789, Aug. 6, 2004; 72 FR 33914, June 20, 2007; 73 FR 9018, Feb. 19, 2008; 73 FR 44664, July 31, 2008; 76 FR 43203, July 20, 2011; 76 FR 82388, Dec. 30, 2011; 77 FR 71137, Nov. 29, 2012; 78 FR 10100, Feb. 13, 2013; 78 FR 49371, Aug. 14, 2013; 81 FR 42555, June 30, 2016; 82 FR 8171, Jan. 24, 2017]
+[43 FR 49308, Oct. 23, 1978, as amended at 48 FR 15631, Apr. 12, 1983; 50 FR 40855, Oct. 7, 1985; 55 FR 25605, June 22, 1990; 56 FR 25638, June 5, 1991; 57 FR 23161, June 2, 1992; 57 FR 47006, Oct. 14, 1992; 57 FR 48333, Oct. 23, 1992; 58 FR 6896, Feb. 3, 1993; 58 FR 27473, May 10, 1993; 62 FR 4918, Feb. 3, 1997; 62 FR 43475, Aug. 14, 1997; 63 FR 26992, May 15, 1998; 65 FR 60868, Oct. 13, 2000; 69 FR 47789, Aug. 6, 2004; 72 FR 33914, June 20, 2007; 73 FR 9018, Feb. 19, 2008; 73 FR 44664, July 31, 2008; 76 FR 43203, July 20, 2011; 76 FR 82388, Dec. 30, 2011; 77 FR 71137, Nov. 29, 2012; 78 FR 10100, Feb. 13, 2013; 78 FR 49371, Aug. 14, 2013; 81 FR 42555, June 30, 2016; 82 FR 8171, Jan. 24, 2017; 82 FR 57882, Dec. 8, 2017]

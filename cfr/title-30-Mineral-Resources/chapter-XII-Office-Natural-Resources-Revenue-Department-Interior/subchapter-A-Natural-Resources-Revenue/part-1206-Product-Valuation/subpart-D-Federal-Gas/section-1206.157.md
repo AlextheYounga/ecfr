@@ -1,4 +1,4 @@
-##### § 1206.157 Determination of transportation allowances. #####
+##### §1206.157 Determination of transportation allowances. #####
 
 (a) *Arm's-length transportation contracts.* (1)(i) For transportation costs incurred by a lessee under an arm's-length contract, the transportation allowance shall be the reasonable, actual costs incurred by the lessee for transporting the unprocessed gas, residue gas and/or gas plant products under that contract, except as provided in paragraphs (a)(1)(ii) and (iii) of this section, subject to monitoring, review, audit, and adjustment. The lessee shall have the burden of demonstrating that its contract is arm's-length. ONRR's prior approval is not required before a lessee may deduct costs incurred under an arm's-length contract. Such allowances shall be subject to the provisions of paragraph (f) of this section. The lessee must claim a transportation allowance by reporting it as a separate entry on the form ONRR-2014.
 

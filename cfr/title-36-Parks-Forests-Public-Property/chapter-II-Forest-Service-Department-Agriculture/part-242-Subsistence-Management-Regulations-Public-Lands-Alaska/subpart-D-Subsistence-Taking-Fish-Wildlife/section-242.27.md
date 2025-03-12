@@ -216,15 +216,15 @@
 
 (A) In the Yukon River drainage, you may not take salmon for subsistence fishing using gillnets with stretched mesh larger than 7.5 inches.
 
-(B) [Reserved]
+(B) In Subdistrict 5D you may take salmon once the mid-range of the Canadian interim management escapement goal and the total allowable catch goal are projected to be achieved.
 
 (xiv) In District 4, if you are a commercial fisherman, you may not take salmon for subsistence purposes during the State commercial salmon fishing season using gillnets with stretched-mesh larger than 6 inches after a date specified by ADF&G emergency order issued between July 10 and July 31.
 
 (xv) In Districts 4, 5, and 6, you may not take salmon for subsistence purposes by drift gillnets, except as follows:
 
-(A) In Subdistrict 4A upstream from the mouth of Stink Creek, you may take Chinook salmon by drift gillnets less than 150 feet in length from June 10 through July 14, and chum salmon by drift gillnets after August 2;
+(A) In Subdistrict 4A upstream from the mouth of Stink Creek, you may take Chinook salmon by drift gillnets less than 150 feet in length from June 10 through July 14, and chum salmon by drift gillnets after August 2; unless closed by the Federal In-season Manager; from June 10 through August 2, the Federal In-season Manager may open fishing periods during which chum salmon may be taken by drift gillnets.
 
-(B) In Subdistrict 4A downstream from the mouth of Stink Creek, you may take Chinook salmon by drift gillnets less than 150 feet in length from June 10 through July 14;
+(B) In Subdistrict 4A downstream from the mouth of Stink Creek, you may take Chinook salmon by drift gillnets less than 150 feet in length from June 10 through July 14; unless closed by the Federal In-season Manager; from June 10 through August 2, the Federal In-season Manager may open fishing periods during which chum salmon may be taken by drift gillnets.
 
 (C) In the Yukon River mainstem, Subdistricts 4B and 4C you may take Chinook salmon during the weekly subsistence fishing opening(s) by drift gillnets no more than 150 feet long and no more than 35 meshes deep, from June 10 through July 14.
 
@@ -239,6 +239,8 @@
 (D) During the State commercial salmon fishing season, within the Yukon River and the Tanana River below the confluence of the Wood River, you may use drift gillnets and fish wheels only during open subsistence salmon fishing periods.
 
 (E) In Birch Creek, gillnet mesh size may not exceed 3-inches stretch-measure from June 15 through September 15.
+
+(F) In Racetrack Slough on the Koyukuk River and in the sloughs of the Huslia River drainage, from when each river is free of ice through June 15, the offshore end of the set gillnet may not be closer than 20 feet from the opposite bank except that sloughs 40 feet or less in width may have3/4 width coverage with set gillnet, unless closed by Federal special action.
 
 (xvii) In District 4, from September 21 through May 15, you may use jigging gear from shore ice.
 
@@ -640,7 +642,7 @@ If you take rainbow/steelhead trout incidentally in other subsistence net fisher
 
 (*9*) Gillnets may not be used in fresh water, except for the taking of whitefish in the Tyone River drainage and as otherwise provided for in this Cook Inlet section.
 
-(I) Residents of Ninilchik may harvest Sockeye, Chinook, Coho, and Pink salmon through an experimental community gillnet fishery in the Federal public waters of the upper mainstem of the Kasilof River from a Federal regulatory marker on the river below the outlet of Tustumena Lake downstream to the Tustumena Lake boat launch July 1-31. The experimental community gillnet fishery will expire 5 years after approval of the first operational plan.
+(I) Residents of Ninilchik may harvest sockeye, Chinook, coho, and pink salmon through an experimental community gillnet fishery in the Federal public waters of the upper mainstem of the Kasilof River from a Federal regulatory marker on the river below the outlet of Tustumena Lake downstream to the Tustumena Lake boat launch June 16-August 15. The experimental community gillnet fishery will expire 5 years after approval of the first operational plan.
 
 *(1)* Only one community gillnet can be operated on the Kasilof River. The gillnet cannot be over 10 fathoms in length, and may not obstruct more than half of the river width with stationary fishing gear. Subsistence stationary gillnet gear may not be set within 200 feet of other subsistence stationary gear.
 
@@ -672,25 +674,25 @@ If you take rainbow/steelhead trout incidentally in other subsistence net fisher
 
 *(9)* Failure to respond to reporting requirements or return the completed harvest permit by the due date listed on the permit may result in issuance of a violation notice and will make you ineligible to receive a subsistence permit during the following regulatory year.
 
-(J) Residents of Ninilchik may harvest Sockeye, Chinook, Coho, and Pink salmon with a gillnet in the Federal public waters of the Kenai River. Residents of Ninilchik may retain other species incidentally caught in the Kenai River except for Rainbow trout and Dolly Varden 18 inches or longer. Rainbow trout and Dolly Varden 18 inches or greater must be released.
+(J) Residents of Ninilchik may harvest sockeye, Chinook, coho, and pink salmon in the Federal public waters of the Kenai River with a single gillnet to be managed and operated by the Ninilchik Traditional Council. Ninilchik residents may retain other species incidentally caught in the Kenai River except for rainbow trout and Dolly Varden; all rainbow trout and Dolly Varden must be released.
 
-*(1)* Only one community gillnet can be operated on the Kenai River. The gillnet cannot be over 10 fathoms in length to take salmon, and may not obstruct more than half of the river width with stationary fishing gear. Subsistence stationary gillnet gear may not be set within 200 feet of other subsistence stationary gear.
+*(1)* Only one community gillnet can be operated on the Kenai River. The gillnet cannot be over 10 fathoms in length, must be no larger than 5.25-inch mesh, and may not obstruct more than half of the river width with stationary fishing gear. Subsistence stationary gillnet gear may not be set within 200 feet of other subsistence stationary gear.
 
-*(2)* One registration permit will be available and will be awarded by the Federal in-season fishery manager, in consultation with the Kenai National Wildlife Refuge manager, based on the merits of the operational plan. The registration permit will be issued to an organization that, as the community gillnet owner, will be responsible for its use and removal in consultation with the Federal fishery manager. As part of the permit, the organization must:
+*(2)* One registration permit will be available and will be awarded by the Federal in-season fishery manager, in consultation with the Kenai National Wildlife Refuge manager. The registration permit will be issued to the Ninilchik Traditional Council.
 
-*(i)* Prior to the season, provide a written operational plan to the Federal fishery manager including a description of how fishing time and fish will be offered and distributed among households and residents of Ninilchik;
+*(i)* As the community gillnet owner, the Ninilchik Traditional Council will be responsible for its use and removal in consultation with the Federal fishery manager.
 
-*(ii)* After the season, provide written documentation of required evaluation information to the Federal fishery manager including, but not limited to, persons or households operating the gear, hours of operation, and number of each species caught and retained or released.
+*(ii)* As part of the permit, after the season, the Ninilchik Traditional Council must provide written documentation of required evaluation information to the Federal fishery manager including, but not limited to, persons or households operating the gear, hours of operation, and number of each species caught and retained or released.
 
-*(3)* The gillnet owner (organization) may operate the net for subsistence purposes on behalf of residents of Ninilchik by requesting a subsistence fishing permit that:
+*(3)* The Ninilchik Traditional Council may operate the net for subsistence purposes on behalf of residents of Ninilchik by requesting a subsistence fishing permit that:
 
 *(i)* Identifies a person who will be responsible for fishing the gillnet;
 
-*(ii)* Includes provisions for recording daily catches, the household to whom the catch was given, and other information determined to be necessary for effective resource management by the Federal fishery manager.
+*(ii)* Includes provisions for recording daily catches within 72 hours, the household to whom the catch was given, and other information determined to be necessary for effective resource management by the Federal fishery manager.
 
-*(4)* Fishing will be allowed from June 15 through August 15 on the Kenai River unless closed or otherwise restricted by Federal special action.
+*(4)* Fishing will be allowed from July 1 through August 15 and September 10-30 on the Kenai River unless closed or otherwise restricted by Federal special action.
 
-*(5)* Salmon taken in the gillnet fishery will be included as part of the dip net/rod and reel fishery annual total harvest limits for the Kenai River and as part of dip net/rod and reel household annual limits of participating households.
+*(5)* Salmon taken in the gillnet fishery will be included as part of the dip net/rod and reel household annual limits for the Kenai River of participating households.
 
 *(6)* Fishing for each salmon species will end and the fishery will be closed by Federal special action prior to regulatory end dates if the annual total harvest limit for that species is reached or superseded by Federal special action.
 
@@ -838,7 +840,7 @@ If you take rainbow/steelhead trout incidentally in other subsistence net fisher
 
 (viii) If you take salmon, trout, or char incidentally with gear operated under terms of a subsistence permit for other salmon, they may be kept for subsistence purposes. You must report any salmon, trout, or char taken in this manner on your subsistence fishing permit.
 
-(ix) No permits for the use of nets will be issued for the salmon streams flowing across or adjacent to the road systems within the city limits of Petersburg, Wrangell, and Sitka.
+(ix) Nets are prohibited in streams flowing across or adjacent to the roads on Wrangell and Mitkof islands, and in streams flowing across or adjacent to the road systems connected to the community of Sitka.
 
 (x) You may not possess subsistence-taken and sport-taken fish of a given species on the same day.
 
@@ -890,4 +892,4 @@ If you take rainbow/steelhead trout incidentally in other subsistence net fisher
 
 (xxi) The Federal public waters in the Makhnati Island area, as defined in § 242.3(b)(5) are closed to the harvest of herring and herring spawn except by Federally qualified users.
 
-[78 FR 19112, Mar. 29, 2013, as amended at 80 FR 28192, May 18, 2015]
+[78 FR 19112, Mar. 29, 2013, as amended at 80 FR 28192, May 18, 2015; 83 FR 3084, Jan. 23, 2018]

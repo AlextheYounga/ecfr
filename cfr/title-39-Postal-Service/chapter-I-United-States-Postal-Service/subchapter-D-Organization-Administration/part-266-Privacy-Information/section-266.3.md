@@ -48,13 +48,13 @@
 
 (xi) Pursuant to the order of a court of competent jurisdiction.
 
-(3) Under 39 U.S.C. 412(a), the Postal Service may make a mailing or other list of names and addresses of past or present postal patrons or other persons available to the public only to the extent that such action is authorized by law. Consistent with this provision, the Postal Service may make such a list available as follows:
+(3) Under 39 U.S.C. 412(a), the Postal Service shall not make a mailing or other list of names or addresses (past or present) of postal patrons or other persons available to the public, unless such action is authorized by law. Consistent with this provision, the Postal Service may make such a list available as follows:
 
 (i) In accordance with 39 U.S.C. 412(b), to the Secretary of Commerce for use by the Bureau of the Census;
 
-(ii) As required by the terms of a legally enforceable contract entered into by the Postal Service under its authority contained in 39 U.S.C. 401(3) and when subject to a valid non-disclosure agreement;
+(ii) As required by the terms of a legally enforceable contract entered into by the Postal Service under its authority contained in 39 U.S.C. 401(3) and when subject to a valid non-disclosure agreement. The purpose of the contract must comply with 5 U.S.C. 552a(n), which prohibits the sale or rental of an individual's name and address;
 
-(iii) As required by the terms of a legally enforceable interagency agreement entered into by the Postal Service under its authority contained in 39 U.S.C. 411 and when subject to a valid non-disclosure agreement;
+(iii) As required by the terms of a legally enforceable interagency agreement entered into by the Postal Service under its authority contained in 39 U.S.C. 411 and when subject to a valid non-disclosure agreement. The purpose of the interagency agreement must comply with 5 U.S.C. 552a(n), which prohibits the sale or rental of an individual's name and address;
 
 (iv) In accordance with 5 U.S.C. 552a(b), the Postal Service may disclose a list of names and addresses of individuals pursuant to a written request by, or with the prior written consent of, each individual whose name and address is contained in such list, provided that such names and addresses are derived from records maintained by the Postal Service in a system of records as defined by 5 U.S.C. 552a(a); or
 
@@ -79,3 +79,5 @@
 (2) The accounting will be maintained for at least 5 years or the life of the record, whichever is longer.
 
 (3) The accounting will be made available to the individual named in the record upon inquiry, except for disclosures made pursuant to paragraph (b)(2)(viii) of this section relating to law enforcement activities.
+
+[82 FR 47116, Oct. 11, 2017, as amended at 83 FR 3085, Jan. 23, 2018]
