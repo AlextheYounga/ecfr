@@ -110,7 +110,7 @@ NDAs and supplements to approved NDAs are required to be submitted in the form a
 
 (ix) A statement with respect to each clinical study involving human subjects that it either was conducted in compliance with the institutional review board regulations in part 56, or was not subject to the regulations under § 56.104 or § 56.105, and that it was conducted in compliance with the informed consent regulations in part 50.
 
-(x) If a sponsor has transferred any obligations for the conduct of any clinical study to a contract research organization, a statement containing the name and address of the contract research organization, identification of the clinical study, and a listing of the obligations transferred. If all obligations governing the conduct of the study have been transferred, a general statement of this transfer - in lieu of a listing of the specific obligations transferred - may be submitted.
+(x) If a sponsor has transferred any obligations for the conduct of any clinical study to a contract research organization, a statement containing the name and address of the contract research organization, identification of the clinical study, and a listing of the obligations transferred. If all obligations governing the conduct of the study have been transferred, a general statement of this transfer—in lieu of a listing of the specific obligations transferred—may be submitted.
 
 (xi) If original subject records were audited or reviewed by the sponsor in the course of monitoring any clinical study to verify the accuracy of the case reports submitted to the sponsor, a list identifying each clinical study so audited or reviewed.
 
@@ -160,7 +160,7 @@ NDAs and supplements to approved NDAs are required to be submitted in the form a
 
 (h) *Patent information.* The NDA is required to contain the patent information described under § 314.53.
 
-(i) *Patent certification* - (1) *Contents.* A 505(b)(2) application is required to contain the following:
+(i) *Patent certification*—(1) *Contents.* A 505(b)(2) application is required to contain the following:
 
 (i) *Patents claiming drug substance, drug product, or method of use.* (A) An appropriate patent certification or statement with respect to each patent issued by the U.S. Patent and Trademark Office that, in the opinion of the applicant and to the best of its knowledge, claims the drug substance or drug product on which investigations that are relied upon by the applicant for approval of its 505(b)(2) application were conducted or that claims an approved use for such drug and for which information is required to be filed under section 505(b) and (c) of the Federal Food, Drug, and Cosmetic Act and § 314.53. For each such patent, the applicant must provide the patent number and certify, in its opinion and to the best of its knowledge, one of the following circumstances:
 
@@ -226,7 +226,7 @@ In the opinion and to the best knowledge of (*name of applicant*), there are no 
 
 (3) If the applicant claims exclusivity under § 314.108(b)(2), information to show that, to the best of its knowledge or belief, a drug has not previously been approved under section 505(b) of the Federal Food, Drug, and Cosmetic Act containing any active moiety in the drug for which the applicant is seeking approval.
 
-(4) If the NDA claims exclusivity under § 314.108(b)(4) or (b)(5), the following information to show that the NDA contains “new clinical investigations” that are “essential to approval of the NDA or supplement” and were “conducted or sponsored by the applicant:”
+(4) If the applicant claims exclusivity under § 314.108(b)(4) or (b)(5), the following information to show that the NDA contains “new clinical investigations” that are “essential to approval of the NDA or supplement” and were “conducted or sponsored by the applicant:”
 
 (i) *“New clinical investigations.*” A certification that to the best of the applicant's knowledge each of the clinical investigations included in the NDA meets the definition of “new clinical investigation” set forth in § 314.108(a).
 
@@ -237,7 +237,7 @@ To demonstrate “substantial support,” an applicant must either provide a cer
 
 (k) *Financial certification or disclosure statement.* The NDA must contain a financial certification or disclosure statement or both as required by part 54 of this chapter.
 
-(l) *Format of an original NDA* - (1) *Archival copy.* The applicant must submit a complete archival copy of the NDA that contains the information required under paragraphs (a) through (f) of this section. FDA will maintain the archival copy during the review of the NDA to permit individual reviewers to refer to information that is not contained in their particular technical sections of the NDA, to give other agency personnel access to the NDA for official business, and to maintain in one place a complete copy of the NDA. Except as required by paragraph (l)(1)(i) of this section, applicants may submit the archival copy on paper or in electronic format provided that electronic submissions are made in accordance with part 11 of this chapter.
+(l) *Format of an original NDA*—(1) *Archival copy.* The applicant must submit a complete archival copy of the NDA that contains the information required under paragraphs (a) through (f) of this section. FDA will maintain the archival copy during the review of the NDA to permit individual reviewers to refer to information that is not contained in their particular technical sections of the NDA, to give other agency personnel access to the NDA for official business, and to maintain in one place a complete copy of the NDA. Except as required by paragraph (l)(1)(i) of this section, applicants may submit the archival copy on paper or in electronic format provided that electronic submissions are made in accordance with part 11 of this chapter.
 
 (i) *Labeling.* The content of labeling required under § 201.100(d)(3) of this chapter (commonly referred to as the package insert or professional labeling), including all text, tables, and figures, must be submitted to the agency in electronic format as described in paragraph (l)(5) of this section. This requirement is in addition to the requirements of paragraph (e)(2)(ii) of this section that copies of the formatted label and all labeling be submitted. Submissions under this paragraph must be made in accordance with part 11 of this chapter, except for the requirements of § 11.10(a), (c) through (h), and (k), and the corresponding requirements of § 11.30.
 
@@ -251,4 +251,4 @@ To demonstrate “substantial support,” an applicant must either provide a cer
 
 (5) *Electronic format submissions.* Electronic format submissions must be in a form that FDA can process, review, and archive. FDA will periodically issue guidance on how to provide the electronic submission (e.g., method of transmission, media, file formats, preparation and organization of files).
 
-[50 FR 7493, Feb. 22, 1985]Editorial Note:For Federal Register citations affecting § 314.50, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[50 FR 7493, Feb. 22, 1985]Editorial Note:For Federal Register citations affecting § 314.50, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

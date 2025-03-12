@@ -1,5 +1,7 @@
 ##### § 61.113 Private pilot privileges and limitations: Pilot in command. #####
 
+Link to an amendment published at 82 FR 3165, Jan. 11, 2017.
+
 (a) Except as provided in paragraphs (b) through (h) of this section, no person who holds a private pilot certificate may act as pilot in command of an aircraft that is carrying passengers or property for compensation or hire; nor may that person, for compensation or hire, act as pilot in command of an aircraft.
 
 (b) A private pilot may, for compensation or hire, act as pilot in command of an aircraft in connection with any business or employment if:

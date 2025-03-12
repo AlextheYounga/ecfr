@@ -1,5 +1,7 @@
 ##### § 61.89 General limitations. #####
 
+Link to an amendment published at 82 FR 3165, Jan. 11, 2017.
+
 (a) A student pilot may not act as pilot in command of an aircraft:
 
 (1) That is carrying a passenger;

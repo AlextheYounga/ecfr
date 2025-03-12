@@ -1,7 +1,5 @@
 ##### § 10.20 Submission of documents to Division of Dockets Management; computation of time; availability for public disclosure. #####
 
-Link to an amendment published at 81 FR 78505, November 8, 2016.
-
 (a) A submission to the Division of Dockets Management of a petition, comment, objection, notice, compilation of information, or any other document is to be filed in four copies except as otherwise specifically provided in a relevant Federal Register notice or in another section of this chapter. The Division of Dockets Management is the agency custodian of these documents.
 
 (b) A submission is to be signed by the person making it, or by an attorney or other authorized representative of that person. Submissions by trade associations are also subject to the requirements of § 10.105(b).
@@ -30,7 +28,7 @@ Link to an amendment published at 81 FR 78505, November 8, 2016.
 
 (d) The filing of a submission means only that the Division of Dockets Management has identified no technical deficiencies in the submission. The filing of a petition does not mean or imply that it meets all applicable requirements or that it contains reasonable grounds for the action requested or that the action requested is in accordance with law.
 
-(e) All submissions to the Division of Dockets Management will be considered as submitted on the date they are postmarked or, if delivered in person during regular business hours, on the date they are delivered, unless a provision in this part, an applicable Federal Register notice, or an order issued by an administrative law judge specifically states that the documents must be received by a specified date, e.g., § 10.33(g) relating to a petition for reconsideration, in which case they will be considered submitted on the date received.
+(e) Except as provided in § 10.31(b), all submissions to the Division of Dockets Management will be considered as submitted on the date they are postmarked or, if delivered in person during regular business hours, on the date on which they are delivered, unless a provision in this part, an applicable Federal Register notice, or an order issued by an administrative law judge specifically states that the documents must be received by a specified date, *e.g.*, § 10.33(g) relating to a petition for reconsideration, in which case they will be submitted on the date received.
 
 (f) All submissions are to be mailed or delivered in person to the Division of Dockets Management, Food and Drug Administration, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852.
 
@@ -76,4 +74,4 @@ Link to an amendment published at 81 FR 78505, November 8, 2016.
 
 (3) Material listed in paragraph (j)(2)(i) (*a*) and (*b*) of this section may be disclosed under a protective order issued by the administrative law judge or other presiding officer at a hearing referenced in paragraph (j)(2)(i). The administrative law judge or presiding officer shall permit disclosure of the data only in camera and only to the extent necessary for the proper conduct of the hearing. The administrative law judge or presiding officer shall direct to whom the information is to be made available (e.g., to parties or participants, or only to counsel for parties or participants), and persons not specifically permitted access to the data will be excluded from the in camera part of the proceeding. The administrative law judge or other presiding officer may impose other conditions or safeguards. The limited availability of material under this paragraph does not constitute prior disclosure to the public as defined in § 20.81, and no information subject to a particular order is to be submitted to or received or considered by FDA in support of a petition or other request from any other person.
 
-[44 FR 22323, Apr. 13, 1979, as amended at 46 FR 8455, Jan. 27, 1981; 49 FR 7363, Feb. 29, 1984; 54 FR 9034, Mar. 3, 1989; 59 FR 14363, Mar. 28, 1994; 64 FR 69190, Dec. 10, 1999; 65 FR 56477, Sept. 19, 2000; 66 FR 56035, Nov. 6, 2001; 66 FR 66742, Dec. 27, 2001; 68 FR 25285, May 12, 2003]
+[44 FR 22323, Apr. 13, 1979, as amended at 46 FR 8455, Jan. 27, 1981; 49 FR 7363, Feb. 29, 1984; 54 FR 9034, Mar. 3, 1989; 59 FR 14363, Mar. 28, 1994; 64 FR 69190, Dec. 10, 1999; 65 FR 56477, Sept. 19, 2000; 66 FR 56035, Nov. 6, 2001; 66 FR 66742, Dec. 27, 2001; 68 FR 25285, May 12, 2003; 81 FR 78505, Nov. 8, 2016]

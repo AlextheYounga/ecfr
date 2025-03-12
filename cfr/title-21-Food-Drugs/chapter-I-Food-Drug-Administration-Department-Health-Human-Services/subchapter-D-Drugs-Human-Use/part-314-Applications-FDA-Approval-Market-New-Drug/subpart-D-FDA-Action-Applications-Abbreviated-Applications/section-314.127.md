@@ -68,8 +68,8 @@
 
 (13) The abbreviated new drug application contains an untrue statement of material fact.
 
-(b) FDA may refuse to approve an ANDA for a new drug if the applicant or contract research organization that conducted a bioavailability or bioequivalence study described in § 320.63 of this chapter that is contained in the ANDA refuses to permit an inspection of facilities or records relevant to the study by a properly authorized officer or employee of the Department of Health and Human Services or refuses to submit reserve samples of the drug products used in the study when requested by FDA.
-
 (14) For an ANDA submitted pursuant to an approved petition under § 10.30 of this chapter and § 314.93, an NDA subsequently has been approved for the change described in the approved petition.
+
+(b) FDA may refuse to approve an ANDA for a new drug if the applicant or contract research organization that conducted a bioavailability or bioequivalence study described in § 320.63 of this chapter that is contained in the ANDA refuses to permit an inspection of facilities or records relevant to the study by a properly authorized officer or employee of the Department of Health and Human Services or refuses to submit reserve samples of the drug products used in the study when requested by FDA.
 
 [57 FR 17991, Apr. 28, 1992; 57 FR 29353, July 1, 1992, as amended at 58 FR 25927, Apr. 28, 1993; 67 FR 77672, Dec. 19, 2002; 81 FR 69658, Oct. 6, 2016]

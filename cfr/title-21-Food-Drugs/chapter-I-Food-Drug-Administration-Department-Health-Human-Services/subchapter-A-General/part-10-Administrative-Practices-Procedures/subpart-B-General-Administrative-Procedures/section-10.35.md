@@ -1,10 +1,8 @@
 ##### § 10.35 Administrative stay of action. #####
 
-Link to an amendment published at 81 FR 78506, November 8, 2016.
-
 (a) The Commissioner may at any time stay or extend the effective date of an action pending or following a decision on any matter.
 
-(b) An interested person may request the Commissioner to stay the effective date of any administrative action. A stay may be requested for a specific time period or for an indefinite time period. A request for stay must be submitted in accordance with § 10.20 and in the following form no later than 30 days after the date of the decision involved. The Commissioner may, for good cause, permit a petition to be filed after 30 days. In the case of a decision published in the Federal Register, the day of publication is the date of decision.
+(b) An interested person may request the Commissioner to stay the effective date of any administrative action. A stay may be requested for a specific time period or for an indefinite time period. A request for stay must be submitted in accordance with § 10.20 and in the following form (except that a request for stay subject to § 10.31 must also include the certification provided in § 10.31(c)) no later than 30 days after the date of the decision involved. The Commissioner may, for good cause, permit a petition to be filed after 30 days. In the case of a decision published in the Federal Register, the day of publication is the date of decision.
 
 (Date)
 
@@ -38,7 +36,7 @@ C. Statement of grounds
 
 (3) A court orders that the matter be stayed.
 
-(e) The Commissioner shall promptly review a petition for stay of action. The Commissioner may grant or deny a petition, in whole or in part; and may grant such other relief or take such other action as is warranted by the petition. The Commissioner may grant a stay in any proceeding if it is in the public interest and in the interest of justice. The Commissioner shall grant a stay in any proceeding if all of the following apply:
+(e) The Commissioner shall promptly review a petition for stay of action. The Commissioner may grant or deny a petition, in whole or in part; and may grant such other relief or take such other action as is warranted by the petition. If, at any time, the Commissioner determines that changes in law, facts, or circumstances since the date on which the petition was submitted have rendered the petition moot, the Commissioner may dismiss the petition. The Commissioner may grant a stay in any proceeding if it is in the public interest and in the interest of justice. The Commissioner shall grant a stay in any proceeding if all of the following apply:
 
 (1) The petitioner will otherwise suffer irreparable injury.
 
@@ -66,4 +64,6 @@ C. Statement of grounds
 
 (6) All documents filed with the Division of Dockets Management under § 10.65(h).
 
-[44 FR 22323, Apr. 13, 1979, as amended at 46 FR 8455, Jan. 27, 1981; 54 FR 9034, Mar. 3, 1989; 59 FR 14364, Mar. 28, 1994; 66 FR 6468, Jan. 22, 2001; 66 FR 12848, Mar. 1, 2001]
+(i) A petitioner may supplement, amend, or withdraw a petition for stay of action in writing without Agency approval and without prejudice to resubmission at any time until the Commissioner rules on the petition, provided the resubmission is made in accordance with paragraph (b) of this section, unless the petition for stay of action has been referred for a hearing under parts 12, 13, 14, or 15 of this chapter. After a ruling or referral, a petition for stay of action may be supplemented, amended, or withdrawn only with the approval of the Commissioner. The Commissioner may approve withdrawal with or without prejudice against resubmission of the petition for stay of action.
+
+[44 FR 22323, Apr. 13, 1979, as amended at 46 FR 8455, Jan. 27, 1981; 54 FR 9034, Mar. 3, 1989; 59 FR 14364, Mar. 28, 1994; 66 FR 6468, Jan. 22, 2001; 66 FR 12848, Mar. 1, 2001; 81 FR 78506, Nov. 8, 2016]

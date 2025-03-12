@@ -1,5 +1,7 @@
 ##### § 61.101 Recreational pilot privileges and limitations. #####
 
+Link to an amendment published at 82 FR 3165, Jan. 11, 2017.
+
 (a) A person who holds a recreational pilot certificate may:
 
 (1) Carry no more than one passenger; and
