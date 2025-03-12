@@ -1,5 +1,5 @@
-##### § 3025.105 Commission discretion as to treatment of comments. #####
+##### § 3025.105 Issuance of Commission views. #####
 
-The Commission will review timely filed comments responding to a Commission solicitation under this part prior to submitting its views to the Secretary of State.
+(a) The Commission will review timely filed comments responding to a Commission solicitation pursuant to § 3025.103(a) prior to submitting its views to the Secretary of State.
 
-[81 FR 877, Jan. 8, 2016. Redesignated at 85 FR 9615, Feb. 19, 2020]
+(b) After Commission views are developed, the Commission shall post Commission views in the applicable docket established pursuant to § 3025.103(a) and submit Commission views to the Secretary of State pursuant to 39 U.S.C. 407(c)(1).

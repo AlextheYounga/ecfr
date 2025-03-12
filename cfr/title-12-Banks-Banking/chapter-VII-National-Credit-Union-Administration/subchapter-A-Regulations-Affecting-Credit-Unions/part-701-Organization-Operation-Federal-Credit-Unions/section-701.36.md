@@ -28,6 +28,8 @@
 
 (2) A federal credit union must make diligent efforts to dispose of abandoned premises and any other real property it does not intend to use in transacting business. The federal credit union must seek fair market value for the property, and record its efforts to dispose of abandoned premises. After premises have been abandoned for four years, the federal credit union must publicly advertise the property for sale. The federal credit union must complete the sale within five years of abandonment, unless NCUA waives this requirement. To seek a waiver, a federal credit union must submit a written request to its Regional Office and fully explain why it needs the waiver. The Regional Director will provide the federal credit union a written response, either approving or disapproving the request. The Regional Director's decision will be based on safety and soundness considerations.
 
+(3) *Temporary regulatory relief in response to COVID-19.* Any days that fall within the period commencing on April 21, 2020 and concluding on December 31, 2020, shall not be counted for purposes of determining a federal credit union's compliance with the required time periods described in paragraphs (c)(1) and (2) of this section.
+
 (d) *Prohibited transactions.* (1) A federal credit union must not acquire, or lease for one year or longer, premises from any of the following, unless NCUA waives this prohibition:
 
 (i) A member of the federal credit union's board of directors, credit committee, supervisory committee, or senior management, or an immediate family member of such individual;
@@ -42,4 +44,4 @@
 
 (4) To seek a waiver from any of the prohibitions in this paragraph (d), a federal credit union must submit a written request to its Regional Office and fully explain why it needs the waiver. Within 45 days of the receipt of the waiver request or all necessary documentation, whichever is later, the Regional Director will provide the federal credit union a written response, either approving or disapproving its request. The Regional Director's decision will be based on safety and soundness considerations and a determination as to whether a conflict of interest exists.
 
-[78 FR 57252, Sept. 18, 2013, as amended at 80 FR 45850, Aug. 3, 2015; 81 FR 93580, Dec. 21, 2016]
+[78 FR 57252, Sept. 18, 2013, as amended at 80 FR 45850, Aug. 3, 2015; 81 FR 93580, Dec. 21, 2016; 85 FR 22014, Apr. 21, 2020]Effective Date Note:At 85 FR 22014, Apr. 21, 2020, § 701.36 was amended by adding paragraph (c)(3), effective until Dec. 31, 2020.

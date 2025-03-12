@@ -1,7 +1,5 @@
 ##### § 3000.115 Office of Public Affairs and Government Relations. #####
 
-Link to an amendment published at 85 FR 9660, Feb. 19, 2020.
-
 (a) The Office of Public Affairs and Government Relations facilitates prompt and responsive communications for the Commission with the public, members of Congress, the Postal Service, state and local governments, and the media.
 
 (b) The Office of Public Affairs and Government Relations has three primary areas of responsibility: Government Relations, Consumer Affairs, and Communications.

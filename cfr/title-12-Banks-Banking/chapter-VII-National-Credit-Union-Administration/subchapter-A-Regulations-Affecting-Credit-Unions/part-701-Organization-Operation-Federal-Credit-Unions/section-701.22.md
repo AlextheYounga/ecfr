@@ -90,4 +90,6 @@ This section applies only to loan participations as defined in paragraph (a) of 
 
 (vi) Circumstances and conditions under which participants may replace the servicer.
 
-[78 FR 37956, June 25, 2013, as amended at 81 FR 13553, Mar. 14, 2016; 82 FR 50291, Oct. 30, 2017; 84 FR 1605, Feb. 5, 2019; 84 FR 10976, Mar. 25, 2019]
+(e) *Temporary regulatory relief in response to COVID-19.* Notwithstanding paragraph (b)(1)(ii) of this section, during the period commencing on April 21, 2020 and concluding on December 31, 2020, the aggregate amount of loan participations that may be purchased from any one originating lender shall not exceed the greater of $5,000,000 or 200 percent of the federally insured credit union's net worth.
+
+[78 FR 37956, June 25, 2013, as amended at 81 FR 13553, Mar. 14, 2016; 82 FR 50291, Oct. 30, 2017; 84 FR 1605, Feb. 5, 2019; 84 FR 10976, Mar. 25, 2019; 85 FR 22014, Apr. 21, 2020]Effective Date Note:At 85 FR 22014, Apr. 21, 2020, § 701.22 was amended by adding paragraph (e), effective until Dec. 31, 2020.
