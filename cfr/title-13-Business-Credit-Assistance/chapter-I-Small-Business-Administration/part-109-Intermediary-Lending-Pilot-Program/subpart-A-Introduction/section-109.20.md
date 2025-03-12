@@ -1,7 +1,5 @@
 ##### § 109.20 Definitions. #####
 
-Link to an amendment published at 85 FR 75834, Nov. 27, 2020.
-
 *Affiliate* is defined in § 121.301(f) of this chapter.
 
 *Associate.* (1) An Associate of an ILP Intermediary is:
@@ -28,7 +26,7 @@ Link to an amendment published at 85 FR 75834, Nov. 27, 2020.
 
 *Eligible Small Business Concern* is a small business that meets the requirements of § 109.400.
 
-*ILP Intermediary* means a private, nonprofit entity that has applied for and been selected by SBA to receive an ILP Loan through the competitive application process described in this Part.
+*ILP Intermediary* means a private, nonprofit entity that has received an ILP Loan.
 
 *ILP Loan* means a direct loan made by SBA to an ILP Intermediary under this program.
 
@@ -48,4 +46,4 @@ Link to an amendment published at 85 FR 75834, Nov. 27, 2020.
 
 *Portfolio Status Report* means the quarterly electronic report that summarizes the payment status and outstanding principal balances of an ILP Intermediary's loans to Eligible Small Business Concerns.
 
-[76 FR 18015, Apr. 1, 2011, as amended at 81 FR 41428, June 27, 2016]
+[76 FR 18015, Apr. 1, 2011, as amended at 81 FR 41428, June 27, 2016; 85 FR 75834, Nov. 27, 2020]

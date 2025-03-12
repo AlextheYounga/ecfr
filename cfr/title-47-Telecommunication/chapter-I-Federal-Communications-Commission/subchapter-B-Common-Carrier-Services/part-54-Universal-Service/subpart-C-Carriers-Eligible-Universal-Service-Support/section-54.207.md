@@ -1,7 +1,5 @@
 ##### § 54.207 Service areas. #####
 
-Link to an amendment published at 85 FR 75817, Nov. 25, 2020.
-
 (a) The term *service area* means a geographic area established by a state commission for the purpose of determining universal service obligations and support mechanisms. A service area defines the overall area for which the carrier shall receive support from federal universal service support mechanisms.
 
 (b) In the case of a service area served by a rural telephone company, *service area* means such company's “study area” unless and until the Commission and the states, after taking into account recommendations of a Federal-State Joint Board instituted under section 410(c) of the Act, establish a different definition of service area for such company.
@@ -34,4 +32,6 @@ Link to an amendment published at 85 FR 75817, Nov. 25, 2020.
 
 (e) The Commission delegates its authority under paragraphs (c) and (d) of this section to the Chief, Wireline Competition Bureau.
 
-[62 FR 32948, June 17, 1997, as amended at 67 FR 13226, Mar. 21, 2002]
+(f) *Geographic flexibility provided for mobile competitive eligible telecommunications carriers receiving legacy high-cost support.* A mobile competitive eligible telecommunications carrier receiving legacy high-cost support pursuant to § 54.307(e)(5), (6), or (7) for a particular subsidized service area may use the support for the provision, maintenance, and upgrading of facilities and services within any of the designated service areas for which it or an affiliated mobile competitive eligible telecommunications carrier (*e.g.,* where several mobile competitive eligible telecommunications carriers share a common holding company) receives legacy high-cost support regardless of whether the service areas span more than one state or territory. This paragraph does not affect a mobile competitive eligible telecommunications carrier's obligations and requirements pursuant to §§ 54.7 and 54.322.
+
+[62 FR 32948, June 17, 1997, as amended at 67 FR 13226, Mar. 21, 2002; 85 FR 75817, Nov. 25, 2020]

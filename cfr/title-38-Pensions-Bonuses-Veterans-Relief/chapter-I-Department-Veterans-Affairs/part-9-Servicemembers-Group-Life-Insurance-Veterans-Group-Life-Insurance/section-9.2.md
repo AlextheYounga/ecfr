@@ -1,7 +1,5 @@
 ##### § 9.2 Effective date; applications. #####
 
-Link to an amendment published at 85 FR 75859, Nov. 27, 2020.
-
 (a) The effective date of Servicemembers' Group Life Insurance will be in accordance with provisions set forth in 38 U.S.C. 1967.
 
 (b) The effective date of Veterans' Group Life Insurance will be as follows:
@@ -34,4 +32,10 @@ Link to an amendment published at 85 FR 75859, Nov. 27, 2020.
 
 (2) Paragraph (f)(1) of this section shall not apply to an application or initial premium received after June 11, 2021.
 
-(Authority: 38 U.S.C. 501, 1967, 1968, 1977)[61 FR 20135, May 6, 1996, as amended at 62 FR 35970, July 3, 1997; 77 FR 66071, Nov. 1, 2012; 79 FR 44299, July 31, 2014; 83 FR 65528, Dec. 21, 2018; 85 FR 35563, June 11, 2020]
+(g) Except as provided in § 9.24, the effective date of enrollment, re-enrollment, or an increase in coverage under 38 U.S.C. 1967(a)(1) shall be the date the uniformed service receives an application and proof of the insurable spouse's good health:
+
+(1) For an insurable spouse who was eligible for coverage under 38 U.S.C. 1967(a)(1)(A)(ii) or (C)(ii) but was not so insured or was insured at a reduced rate and who became a member; and
+
+(2) For a member-spouse covered under 38 U.S.C. 1967(a)(1)(A)(i) and who was also eligible for coverage under 38 U.S.C. 1967(a)(1)(A)(ii) or (C)(ii) but who was not so insured or was insured at a reduced amount by reason of an election made by a member.
+
+(Authority: 38 U.S.C. 501, 1967, 1968, 1977)[61 FR 20135, May 6, 1996, as amended at 62 FR 35970, July 3, 1997; 77 FR 66071, Nov. 1, 2012; 79 FR 44299, July 31, 2014; 83 FR 65528, Dec. 21, 2018; 85 FR 35563, June 11, 2020; 85 FR 78559, Nov. 27, 2020]

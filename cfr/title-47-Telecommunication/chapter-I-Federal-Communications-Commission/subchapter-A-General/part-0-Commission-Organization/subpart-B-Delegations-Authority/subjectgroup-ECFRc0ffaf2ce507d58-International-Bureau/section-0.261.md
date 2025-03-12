@@ -1,7 +1,5 @@
 ##### § 0.261 Authority delegated. #####
 
-Link to an amendment published at 85 FR 76381, Nov. 27, 2020.
-
 (a) Subject to the limitations set forth in paragraph (b) of this section, the Chief, International Bureau, is hereby delegated the authority to perform the functions and activities described in § 0.51, including without limitation the following:
 
 (1) To recommend rulemakings, studies, and analyses (legal, engineering, social, and economic) of various petitions for policy or rule changes submitted by industry or the public, and to assist the Commission in conducting the same;
@@ -34,6 +32,8 @@ Link to an amendment published at 85 FR 76381, Nov. 27, 2020.
 
 (15) To interpret and enforce rules and regulations pertaining to matters under its jurisdiction and not within the jurisdiction of the Enforcement Bureau.
 
+(16) To administer and make available on a public website, a standardized set of national security and law enforcement questions for the categories of information set forth in part 1, subpart CC, of this chapter.
+
 (b) Notwithstanding the authority delegated in paragraph (a) of this section, the Chief, International Bureau, shall not have authority:
 
 (1) To act on any application, petition, pleading, complaint, enforcement matter, or other request that:
@@ -58,4 +58,4 @@ Link to an amendment published at 85 FR 76381, Nov. 27, 2020.
 
 (6) To impose, reduce, or cancel forfeitures pursuant to section 203 or section 503(b) of the Communications Act of 1934, as amended, in amounts of more than $80,000 for common carrier providers and $20,000 for non-common carrier providers.
 
-[60 FR 5324, Jan. 27, 1995, as amended at 60 FR 35506, July 10, 1995; 64 FR 60721, Nov. 8, 1999; 67 FR 13220, Mar. 21, 2002; 75 FR 7972, Feb. 23, 2010; 76 FR 70907, Nov. 16, 2011]
+[60 FR 5324, Jan. 27, 1995, as amended at 60 FR 35506, July 10, 1995; 64 FR 60721, Nov. 8, 1999; 67 FR 13220, Mar. 21, 2002; 75 FR 7972, Feb. 23, 2010; 76 FR 70907, Nov. 16, 2011; 85 FR 76381, Nov. 27, 2020]

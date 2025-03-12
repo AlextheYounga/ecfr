@@ -1,5 +1,7 @@
 ##### § 63.602 Additional contents of applications to discontinue, reduce, or impair an existing retail service as part of a technology transition. #####
 
+Link to an amendment published at 85 FR 84266, Dec. 28, 2020.
+
 (a) The application shall include:
 
 (1) The contents specified in § 63.505 of this part;

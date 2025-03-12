@@ -1,5 +1,7 @@
 ##### § 410.15 Annual wellness visits providing Personalized Prevention Plan Services: Conditions for and limitations on coverage. #####
 
+Link to an amendment published at 85 FR 85025, Dec. 28, 2020.
+
 (a) *Definitions.* For purposes of this section -
 
 *Detection of any cognitive impairment* means assessment of an individual's cognitive function by direct observation, with due consideration of information obtained by way of patient report, concerns raised by family members, friends, caretakers or others.

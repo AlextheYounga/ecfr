@@ -1,5 +1,7 @@
 ##### § 415.208 Services of moonlighting residents. #####
 
+Link to an amendment published at 85 FR 85037, Dec. 28, 2020.
+
 (a) *Definition.* For purposes of this section, the term *services of moonlighting residents* refers to services that licensed residents perform that are outside the scope of an approved GME program.
 
 (b) *Services in GME program hospitals.* (1) The services of residents to inpatients of hospitals in which the residents have their approved GME program are not covered as physician services and are payable under §§ 413.75 through 413.83 regarding direct GME payments.

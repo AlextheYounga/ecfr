@@ -1,5 +1,7 @@
 ##### § 178.51 Specification 4BA welded or brazed steel cylinders. #####
 
+Link to an amendment published at 85 FR 85424, Dec. 28, 2020.
+
 (a) *Type, size, and service pressure.* A DOT 4BA cylinder is a cylinder, either spherical or cylindrical in shape, with a water capacity of 1,000 pounds or less and a service pressure of at least 225 and not over 500 psig. Closures made by the spinning process are not authorized.
 
 (1) Spherical type cylinders must be made from two seamless hemispheres joined by the welding of one circumferential seam.

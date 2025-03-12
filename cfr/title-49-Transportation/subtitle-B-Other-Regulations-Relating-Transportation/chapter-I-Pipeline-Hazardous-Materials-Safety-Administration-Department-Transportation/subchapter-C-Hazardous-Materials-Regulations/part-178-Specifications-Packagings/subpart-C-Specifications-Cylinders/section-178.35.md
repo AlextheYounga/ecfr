@@ -1,6 +1,6 @@
 ##### § 178.35 General requirements for specification cylinders. #####
 
-Link to an amendment published at 85 FR 75716, Nov. 25, 2020.
+Link to an amendment published at 85 FR 85419, Dec. 28, 2020.
 
 (a) *Compliance.* Compliance with the requirements of this subpart is required in all details.
 
@@ -8,39 +8,17 @@ Link to an amendment published at 85 FR 75716, Nov. 25, 2020.
 
 (1) An independent inspection agency approved in writing by the Associate Administrator, in accordance with subpart I of part 107 of this chapter; or
 
-(2) For DOT Specifications 3B, 3BN, 3E, 4B, 4BA, 4D (water capacity less than 1,100 cubic inches), 4B240ET, 4AA480, 4L, 8, 8AL, 4BW, 39 (marked service pressure 900 p.s.i.g. or lower) and 4E manufactured in the United States, a competent inspector of the manufacturer.
+(2) For DOT Specifications 3B, 3BN, 3E, 4B, 4BA, 4B240ET, 4AA480, 4L, 8, 8AL, 4BW, 4E, 4D (with a water capacity less than 1,100 cubic inches) and Specification 39 (with a marked service pressure 900 psig or lower), and manufactured within the United States, a competent inspector of the manufacturer.
 
-(c) *Duties of inspector.* The inspector shall determine that each cylinder made is in conformance with the applicable specification. Except as otherwise specified in the applicable specification, the inspector shall perform the following:
+(c) *Duties of inspector.* The inspector shall determine that each cylinder made is in conformance with the applicable specification. Inspections shall conform to CGA C-11 (IBR, see § 171.7 of this subchapter) except as otherwise specified in the applicable specification.
 
-(1) Inspect all material and reject any not meeting applicable requirements. For cylinders made by the billet-piercing process, billets must be inspected and shown to be free from pipe, cracks, excessive segregation and other injurious defects after parting or, when applicable, after nick and cold break.
+(1) *Seamless cylinders.* Seamless cylinders shall be inspected in accordance with Section 5 of CGA C-11. For cylinders made by the billet-piercing process, billets must be inspected and shown to be free from piping (laminations), cracks, excessive segregation and other injurious defects after parting or, when applicable, after nick and cold break.
 
-(2) Verify the material of construction meets the requirements of the applicable specification by -
+(2) *Welded cylinders.* Welded cylinders shall be inspected in accordance with Section 6 of CGA C-11. Note: The recommended locations for test specimens are depicted in Figures 1 through 5 in appendix A to subpart C of part 178.
 
-(i) Making a chemical analysis of each heat of material;
+(3) *Non-refillable cylinders.* Non-refillable cylinders shall be inspected in accordance with Section 7 of CGA C-11
 
-(ii) Obtaining a certified chemical analysis from the material manufacturer for each heat of material (a ladle analysis is acceptable); or
-
-(iii) If an analysis is not provided for each heat of material by the material manufacturer, by making a check analysis of a sample from each coil, sheet, or tube.
-
-(3) Verify compliance of cylinders with the applicable specification by -
-
-(i) Verifying identification of material is proper;
-
-(ii) Inspecting the inside of the cylinder before closing in ends;
-
-(iii) Verifying that the heat treatment is proper;
-
-(iv) Obtaining samples for all tests and check chemical analyses (Note: Recommended locations for test specimens taken from welded cylinders are depicted in Figures 1 through 5 in Appendix C to this subpart for the specific construction design.);
-
-(v) Witnessing all tests;
-
-(vi) Verify threads by gauge;
-
-(vii) Reporting volumetric capacity and tare weight (see report form) and minimum thickness of wall noted; and
-
-(viii) Verifying that each cylinder is marked in accordance with the applicable specification.
-
-(4) *Inspector's report.* Prepare a report containing, at a minimum, the applicable information listed in CGA C-11 (IBR, see § 171.7 of this subchapter). Any additional information or markings that are required by the applicable specification must be shown on the test report. The signature of the inspector on the reports certifies that the processes of manufacture and heat treatment of cylinders were observed and found satisfactory. The inspector must furnish the completed test reports required by this subpart to the maker of the cylinder and, upon request, to the purchaser. The test report must be retained by the inspector for fifteen years from the original test date of the cylinder.
+(4) *Inspector's report.* The inspector shall prepare a report containing, at a minimum, the applicable information listed in CGA C-11. Any additional information or markings that are required by the applicable specification must be shown on the test report. The signature of the inspector on the reports certifies that the processes of manufacture and heat treatment of cylinders were observed and found satisfactory. The inspector must furnish the completed test reports required by this subpart to the maker of the cylinder and, upon request, to the purchaser. The test report must be retained by the inspector for 15 years from the original test date of the cylinder.
 
 (d) *Defects and attachments.* Cylinders must conform to the following:
 
@@ -86,4 +64,4 @@ DOT-3A1800-1234-XYAB 5-95Where:DOT-3A = specification number1800 = service press
 
 (g) *Manufacturer's reports.* At or before the time of delivery to the purchaser, the cylinder manufacturer must have all completed certification documents listed in CGA C-11. The manufacturer of the cylinders must retain the reports required by this subpart for 15 years from the original test date of the cylinder.
 
-[Amdt. 178-114, 61 FR 25942, May 23, 1996, as amended at 66 FR 45185, Aug. 28, 2001; 67 FR 51652, Aug. 8, 2002; 68 FR 75748, Dec. 31, 2003; 76 FR 43531, July 20, 2011; 83 FR 55810, Nov. 7, 2018]
+[Amdt. 178-114, 61 FR 25942, May 23, 1996, as amended at 66 FR 45185, Aug. 28, 2001; 67 FR 51652, Aug. 8, 2002; 68 FR 75748, Dec. 31, 2003; 76 FR 43531, July 20, 2011; 83 FR 55810, Nov. 7, 2018; 85 FR 75716, Nov. 25, 2020]

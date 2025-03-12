@@ -1,12 +1,12 @@
 ##### § 171.23 Requirements for specific materials and packagings transported under the ICAO Technical Instructions, IMDG Code, Transport Canada TDG Regulations, or the IAEA Regulations. #####
 
-Link to an amendment published at 85 FR 75705, Nov. 25, 2020.
+Link to an amendment published at 85 FR 85416, Dec. 28, 2020.
 
 All shipments offered for transportation or transported in the United States under the ICAO Technical Instructions, IMDG Code, Transport Canada TDG Regulations, or the IAEA Regulations (IBR, see § 171.7) must conform to the requirements of this section, as applicable.
 
-(a) *Conditions and requirements for cylinders.* (1) Except as provided in this paragraph (a), a filled cylinder (pressure receptacle) manufactured to other than a DOT specification or a UN standard in accordance with part 178 of this subchapter, a DOT exemption or special permit cylinder, a TC, CTC, CRC, or BTC cylinder authorized under § 171.12, or a cylinder used as a fire extinguisher in conformance with § 173.309(a) of this subchapter, may not be transported to, from, or within the United States.
+(a) *Conditions and requirements for cylinders and pressure receptacles* - (1) *Applicability.* Except as provided in this paragraph (a), a filled cylinder (pressure receptacle) manufactured to other than a DOT specification or a UN standard in accordance with part 178 of this subchapter, a DOT exemption or special permit cylinder, a TC, CTC, CRC, or BTC cylinder authorized under § 171.12, or a cylinder used as a fire extinguisher in conformance with § 173.309(a) of this subchapter, may not be transported to, from, or within the United States.
 
-(2) Cylinders (including UN pressure receptacles) transported to, from, or within the United States must conform to the applicable requirements of this subchapter. Unless otherwise excepted in this subchapter, a cylinder must not be transported unless -
+(2) *Conditions.* Cylinders (including UN pressure receptacles) transported to, from, or within the United States must conform to the applicable requirements of this subchapter. Unless otherwise excepted in this subchapter, a cylinder must not be transported unless -
 
 (i) The cylinder is manufactured, inspected and tested in accordance with a DOT specification or a UN standard prescribed in part 178 of this subchapter, or a TC, CTC, CRC, or BTC specification set out in the Transport Canada TDG Regulations (IBR, see § 171.7), except that cylinders not conforming to these requirements must meet the requirements in paragraph (a)(3), (4), or (5) of this section;
 
@@ -16,15 +16,23 @@ All shipments offered for transportation or transported in the United States und
 
 (iv) A UN pressure receptacle is marked with “USA” as a country of approval in conformance with §§ 178.69 and 178.70 of this subchapter, or “CAN” for Canada.
 
-(3) *Importation of cylinders for discharge within a single port area.* A cylinder manufactured to other than a DOT specification or UN standard in accordance with part 178 of this subchapter, or a TC, CTC, BTC, or CRC specification cylinder set out in the Transport Canada TDG Regulations (IBR, see § 171.7), and certified as being in conformance with the transportation regulations of another country may be authorized, upon written request to and approval by the Associate Administrator, for transportation within a single port area, provided -
+(3) *Pi-marked pressure receptacles.* Pressure receptacles that are marked with a pi mark in accordance with the European Directive 2010/35/EU (IBR, see § 171.7) on transportable pressure equipment (TPED) and that comply with the requirements of Packing Instruction P200 or P208 and 6.2 of ECE/TRANS/257 (Vol. I), the Agreement Concerning the International Carriage of Dangerous Goods by Road (ADR) (IBR, see § 171.7) concerning pressure relief device use, test period, filling ratios, test pressure, maximum working pressure, and material compatibility for the lading contained or gas being filled, are authorized as follows:
+
+(i) Filled pressure receptacles imported for intermediate storage, transport to point of use, discharge, and export without further filling; and
+
+(ii) Pressure receptacles imported or domestically sourced for the purpose of filling, intermediate storage, and export.
+
+(iii) The bill of lading or other shipping paper must identify the cylinder and include the following certification: “This cylinder (These cylinders) conform(s) to the requirements for pi-marked cylinders found in 171.23(a)(3).”
+
+(4) *Importation of cylinders for discharge within a single port area.* Except as provided in § 171.23(a)(3), a cylinder manufactured to other than a DOT specification or UN standard in accordance with part 178 of this subchapter, or a TC, CTC, BTC, or CRC specification cylinder set out in the Transport Canada TDG Regulations (IBR, see § 171.7), and certified as being in conformance with the transportation regulations of another country may be authorized, upon written request to and approval by the Associate Administrator, for transportation within a single port area, provided -
 
 (i) The cylinder is transported in a closed freight container;
 
 (ii) The cylinder is certified by the importer to provide a level of safety at least equivalent to that required by the regulations in this subchapter for a comparable DOT, TC, CTC, BTC, or CRC specification or UN cylinder; and
 
-(iii) The cylinder is not refilled for export unless in compliance with paragraph (a)(4) of this section.
+(iii) The cylinder is not refilled for export unless in compliance with paragraph (a)(5) of this section.
 
-(4) *Filling of cylinders for export or for use on board a vessel.* A cylinder not manufactured, inspected, tested and marked in accordance with part 178 of this subchapter, or a cylinder manufactured to other than a UN standard, DOT specification, exemption or special permit, or other than a TC, CTC, BTC, or CRC specification, may be filled with a gas in the United States and offered for transportation and transported for export or alternatively, for use on board a vessel, if the following conditions are met:
+(5) *Filling of cylinders for export or for use on board a vessel.* A cylinder not manufactured, inspected, tested and marked in accordance with part 178 of this subchapter, or a cylinder manufactured to other than a UN standard, DOT specification, exemption or special permit, or other than a TC, CTC, BTC, or CRC specification, may be filled with a gas in the United States and offered for transportation and transported for export or alternatively, for use on board a vessel, if the following conditions are met:
 
 (i) The cylinder has been requalified and marked with the month and year of requalification in accordance with subpart C of part 180 of this subchapter, or has been requalified as authorized by the Associate Administrator;
 
@@ -32,7 +40,7 @@ All shipments offered for transportation or transported in the United States und
 
 (iii) The bill of lading or other shipping paper identifies the cylinder and includes the following certification: “This cylinder has (These cylinders have) been qualified, as required, and filled in accordance with the DOT requirements for export.”
 
-(5) *Cylinders not equipped with pressure relief devices.* A DOT specification or a UN cylinder manufactured, inspected, tested and marked in accordance with part 178 of this subchapter and otherwise conforms to the requirements of part 173 of this subchapter for the gas involved, except that the cylinder is not equipped with a pressure relief device may be filled with a gas and offered for transportation and transported for export if the following conditions are met:
+(6) *Cylinders not equipped with pressure relief devices.* A DOT specification or a UN cylinder manufactured, inspected, tested and marked in accordance with part 178 of this subchapter and otherwise conforms to the requirements of part 173 of this subchapter for the gas involved, except that the cylinder is not equipped with a pressure relief device may be filled with a gas and offered for transportation and transported for export if the following conditions are met:
 
 (i) Each DOT specification cylinder or UN pressure receptacle must be plainly and durably marked “For Export Only”;
 
@@ -104,4 +112,4 @@ All shipments offered for transportation or transported in the United States und
 
 (12) *Self-reactive materials.* Self-reactive materials not identified by technical name in the Self-reactive Materials Table in § 173.224(b) of this subchapter must be approved by the Associate Administrator in accordance with § 173.124(a)(2)(iii) of this subchapter.
 
-[72 FR 25172, May 3, 2007, as amended at 72 FR 55684, Oct. 1, 2007; 73 FR 57004, Oct. 1, 2008; 76 FR 3345, Jan. 19, 2011; 76 FR 56311, Sept. 13, 2011; 78 FR 60751, Oct. 2, 2013; 78 FR 65468, Oct. 31, 2013; 80 FR 1116, Jan. 8, 2015; 80 FR 72920, Nov. 23, 2015; 81 FR 35513, June 2, 2016; 82 FR 15837, Mar. 30, 2017]
+[72 FR 25172, May 3, 2007, as amended at 72 FR 55684, Oct. 1, 2007; 73 FR 57004, Oct. 1, 2008; 76 FR 3345, Jan. 19, 2011; 76 FR 56311, Sept. 13, 2011; 78 FR 60751, Oct. 2, 2013; 78 FR 65468, Oct. 31, 2013; 80 FR 1116, Jan. 8, 2015; 80 FR 72920, Nov. 23, 2015; 81 FR 35513, June 2, 2016; 82 FR 15837, Mar. 30, 2017; 85 FR 75705, Nov. 25, 2020]

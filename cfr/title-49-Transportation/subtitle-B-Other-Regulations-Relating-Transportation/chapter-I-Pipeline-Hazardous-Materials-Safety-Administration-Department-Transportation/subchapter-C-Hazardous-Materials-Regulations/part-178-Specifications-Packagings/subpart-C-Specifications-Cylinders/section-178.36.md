@@ -1,5 +1,7 @@
 ##### § 178.36 Specification 3A and 3AX seamless steel cylinders. #####
 
+Link to an amendment published at 85 FR 85420, Dec. 28, 2020.
+
 (a) *Type size and service pressure.* In addition to the requirements of § 178.35, cylinders must conform to the following:
 
 (1) A DOT-3A cylinder is a seamless steel cylinder with a water capacity (nominal) not over 1,000 pounds and a service pressure of at least 150 psig.

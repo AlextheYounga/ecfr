@@ -1,6 +1,6 @@
 ##### § 171.7 Reference material. #####
 
-Link to an amendment published at 85 FR 75704, Nov. 25, 2020.
+Link to an amendment published at 85 FR 85415, Dec. 28, 2020.
 
 (a) *Matter incorporated by reference* - (1) *General.* Certain material is incorporated by reference into subchapters A, B, and C with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, PHMSA must publish a document in the Federal Register and the material must be available to the public. Matters referenced by footnote are included as part of the regulations of this subchapter.
 
@@ -44,25 +44,31 @@ Link to an amendment published at 85 FR 75704, Nov. 25, 2020.
 
 (2) [Reserved]
 
-(f) *American Pyrotechnics Association (APA),* P.O. Box 30438, Bethesda, MD 20824, (301) 907-8181, *www.americanpyro.com.*
+(f) *American Pyrotechnics Association* (APA), P.O. Box 30438, Bethesda, MD 20824, (301) 907-8181, *www.americanpyro.com.*
 
-(1) APA Standard 87-1, Standard for Construction and Approval for Transportation of Fireworks, Novelties, and Theatrical Pyrotechnics, December 1, 2001 version into § 173.56.
+(1) APA 87-1A: Standard for the Construction, Classification, Approval and Transportation of Consumer Fireworks, final draft January 1, 2018 (excluding appendices II through VI), into §§ 107.402(d); 173.59; 173.64; and 173.65.
 
-(2) [Reserved]
+(2) APA 87-1B: Standard for the Construction, Classification, Approval, and Transportation of Display Fireworks, final draft January 1, 2018 (excluding appendices II through IV), into § 173.64.
 
-(g) *The American Society of Mechanical Engineers* (ASME), 150 Clove Road, Little Falls, NJ 07424-2139, telephone 1-800-843-2763, *http://www.asme.org*.
+(3) APA 87-1C: Standard for the Construction, Classification, Approval, and Transportation of Entertainment Industry and Technical (EI&T) Pyrotechnics, final draft January 1, 2018 (excluding appendices II through IV), into § 173.64.
 
-(1) 2015 ASME Boiler and Pressure Vessel Code (ASME Code), 2015 Edition, July 1, 2015 (as follows), into §§ 172.102; 173.3; 173.5b; 173.24b; 173.306; 173.315; 173.318; 173.420; 178.255-1; 178.255-2; 178.255-14; 178.255-15; 178.273; 178.274; 178.276; 178.277; 178.320; 178.337-1; 178.337-2; 178.337-3; 178.337-4; 178.337-6; 178.337-16; 178.337-18; 178.338-1; 178.338-2; 178.338-3; 178.338-4; 178.338-5; 178.338-6; 178.338-13; 178.338-16; 178.338-18; 178.338-19; 178.345-1; 178.345-2; 178.345-3; 178.345-4; 178.345-7; 178.345-14; 178.345-15; 178.346-1; 178.347-1; 178.348-1; 179.400-3; 180.407:
+(g) *The American Society of Mechanical Engineers* (ASME), 150 Clove Road, Little Falls, NJ 07424-2139, telephone: 1-800-843-2763, *http://www.asme.org.*
 
-(i) Section II - Materials - Part A - Ferrous Materials Specifications.
+(1) ASME Boiler and Pressure Vessel Code (ASME Code), 2017 Edition, July 1, 2017 (as follows), into §§ 172.102; 173.3; 173.5b; 173.24b; 173.306; 173.315; 173.318; 173.420; 178.255-1; 178.255-2; 178.255-14; 178.255-15; 178.273; 178.274; 178.276; 178.277; 178.320; 178.337-1; 178.337-2; 178.337-3; 178.337-4; 178.337-6; 178.337-16; 178.337-18; 178.338-1; 178.338-2; 178.338-3; 178.338-4; 178.338-5; 178.338-6; 178.338-13; 178.338-16; 178.338-18; 178.338-19; 178.345-1; 178.345-2; 178.345-3; 178.345-4; 178.345-7; 178.345-14; 178.345-15; 178.346-1; 178.347-1; 178.348-1; 179.400-3; 180.407:
 
-(ii) Section II - Materials - Part B - Nonferrous Material Specifications.
+(i) ASME BPVC.II.A-2017 (vols. 1 and 2), Section II - Materials - Part A - Ferrous Materials Specifications.
 
-(iii) Section V - Nondestructive Examination.
+(ii) ASME BPVC.II.B-2017, Section II - Materials - Part B - Nonferrous Material Specifications.
 
-(iv) Section VIII - Rules for Construction of Pressure Vessels Division 1.
+(iii) ASME BPVC.V-2017, Section V - Nondestructive Examination.
 
-(v) Section IX - Welding, Brazing, and Fusing Qualifications.
+(iv) ASME BPVC.VIII.1-2017, Section VIII - Rules for Construction of Pressure Vessels Division 1.
+
+(v) ASME BPVC.IX-2017, Section IX - Qualification Standard for Welding, Brazing, and Fusing Procedures; Welders; Brazers; and Welding, Brazing, and Fusing Operators.
+
+Note 1 to paragraph (g)(1):
+
+The requirement for a 6% knuckle radius on torispherical heads are excepted.
 
 (2) ASME B31.4-2012, Pipeline Transportation Systems for Liquids and Slurries, November 12, 2012, into § 173.5a.
 
@@ -232,17 +238,17 @@ Link to an amendment published at 85 FR 75704, Nov. 25, 2020.
 
 (3) CGA Pamphlet C-6, Standards for Visual Inspection of Steel Compressed Gas Cylinders, 1993, into § 172.102, § 173.3, 173.198, 180.205, 180.209, 180.211, 180.411, 180.519.
 
-(4) CGA Pamphlet C-6.1, Standards for Visual Inspection of High Pressure Aluminum Compressed Gas Cylinders, 2002, Fourth Edition, into § 180.205; 180.209.
+(4) CGA C-6.1 - 2013, Standards for Visual Inspection of High Pressure Aluminum Compressed Gas Cylinders, Sixth Edition, copyright 2013 (corrected 4/14/2015), into §§ 180.205; 180.209.
 
 (5) CGA Pamphlet C-6.2, Guidelines for Visual Inspection and Requalification of Fiber Reinforced High Pressure Cylinders, 1996, Third Edition, into § 180.205.
 
-(6) CGA Pamphlet C-6.3, Guidelines for Visual Inspection and Requalification of Low Pressure Aluminum Compressed Gas Cylinders, 1991, into § 180.205; 180.209.
+(6) CGA C-6.3 - 2013, Standard for Visual Inspection of Low Pressure Aluminum Alloy Compressed Gas Cylinders, Third Edition, copyright 2013, into §§ 180.205; 180.209.
 
 (7) CGA C-7-2014, Guide to Classification and Labeling of Compressed Gases, Tenth Edition, copyright 2014, into § 172.400a.
 
 (8) CGA Pamphlet C-8, Standard for Requalification of DOT-3HT Cylinder Design, 1985, into § 180.205; 180.209.
 
-(9) CGA Pamphlet C-11, Recommended Practices for Inspection of Compressed Gas Cylinders at Time of Manufacture, 2001, Third Edition, into § 178.35.
+(9) CGA C-11 - 2013, Practices for Inspection of Compressed Gas Cylinders at Time of Manufacture, Fifth Edition, copyright 2013, into § 178.35.
 
 (10) CGA Pamphlet C-12, Qualification Procedure for Acetylene Cylinder Design, 1994, into § 173.301; 173.303; 178.59; 178.60.
 
@@ -264,7 +270,7 @@ Link to an amendment published at 85 FR 75704, Nov. 25, 2020.
 
 (19) CGA Pamphlet S-1.2, Safety Relief Device Standards Part 2 - Cargo and Portable Tanks for Compressed Gases, 1980, into § 173.315; 173.318; 178.276; 178.277.
 
-(20) CGA S-7, Method for Selecting Pressure Relief Devices for Compressed Gas Mixtures in Cylinders, 2005, into § 173.301.
+(20) CGA S-7 - 2013, Standard for Selecting Pressure Relief Devices for Compressed Gas Mixtures in Cylinders, Fifth Edition, copyright 2013, into § 173.301.
 
 (21) CGA Technical Bulletin TB-2, Guidelines for Inspection and Repair of MC-330 and MC-331 Cargo Tanks, 1980, into § 180.407; 180.413.
 
@@ -278,7 +284,11 @@ Link to an amendment published at 85 FR 75704, Nov. 25, 2020.
 
 (2) DLAR 4145.41/AR 700-143/NAVSUPINST 4030.55D/AFMAN 24-210\_IP/MCO 4030.40C: Packaging of Hazardous Material, April 21, 2015, into § 173.7.
 
-(p) [Reserved]
+(p) *European Union. Rue de la Loi/Wetstraat, 175B-1048 Bruxelles/Brussel Belgique/België], https://europa.eu/european-union/documents-publications\_en*.
+
+(1) Directive 2010/35/EU of the European Parliament and of the Council, “on transportable pressure equipment and repealing Council Directives 76/767/EEC, 84/525/EEC, 84/526/EEC, 84/527/EEC and 1999/36/EC”, June 16, 2010, into § 171.23.
+
+(2) [Reserved]
 
 (q) *General Services Administration,* Specification Office, Room 6662, 7th and D Street, S.W., Washington, DC 20407.
 
@@ -286,11 +296,13 @@ Link to an amendment published at 85 FR 75704, Nov. 25, 2020.
 
 (2) [Reserved]
 
-(r) *Institute of Makers of Explosives,* 1120 19th Street NW., Suite 310, Washington, DC 20036-3605.
+(r) *Institute of Makers of Explosives,* 1212 New York Ave NW, #650, Washington, DC 20005.
 
 (1) IME Standard 22,IME Safety Library Publication No. 22, Recommendations for the Safe Transportation of Detonators in a Vehicle with Certain Other Explosive Materials, February 2007, into §§ 173.63; 177.835.
 
 (2) IME Standard 23, IME Safety Library Publication No. 23 (IME Standard 23), Recommendations for the Transportation of Explosives, Division 1.5, Ammonium Nitrate Emulsions, Division 5.1, Combustible Liquids, Class 3, and Corrosives, Class 8 in Bulk Packaging, October 2011, into §§ 173.66(intro); 177.835(d).
+
+(3) AESC/IME JPG Standard, Guide to Obtaining DOT Approval of Jet Perforating Guns using AESC/IME Perforating Gun Specifications, Ver. 02, dated September 1, 2017, into § 173.67.
 
 (s) *International Atomic Energy Agency (IAEA),* P.O. Box 100, Wagramer Strasse 5, A-1400 Vienna, Austria. Also available from: Bernan Associates, 4611-F Assembly Drive, Lanham, MD 20706-4391, USA; or Renouf Publishing Company, Ltd., 812 Proctor Avenue, Ogdensburg, New York 13669, USA.
 
@@ -570,6 +582,8 @@ Link to an amendment published at 85 FR 75704, Nov. 25, 2020.
 
 (3) Globally Harmonized System of Classification and Labelling of Chemicals (GHS), Seventh Revised Edition, ST/SG/AC.10/30/Rev.7 (2017), into § 172.401.
 
+(4) ECE/TRANS/257 (Vol.I), European Agreement concerning the International Carriage of Dangerous Goods by Road, copyright 2016, into § 171.23.
+
 Table 1 to 49 CFR 171.7 - Materials Not Incorporated by Reference
 
 |                                                                                               Source and name of material                                                                                                |             49 CFR reference              |
@@ -608,4 +622,4 @@ Table 1 to 49 CFR 171.7 - Materials Not Incorporated by Reference
 |                                       Truck Trailer Manufacturers Association, 1020 Princess Street, Alexandria, Virginia 22314, telephone (703) 549-3010, http://www.ttmanet.org:                                       |                                           |
 |                                        TTMA RP No. 96-01, TTMA RP No. 96-01, Structural Integrity of DOT 406, DOT 407, and DOT 412 Cylindrical Cargo Tanks, January 2001 Edition                                         |                 178.345-3                 |
 
-[78 FR 1027, Jan. 7, 2013, as amended at 78 FR 15321, Mar. 11, 2013; 78 FR 65468, Oct. 31, 2013; 79 FR 15043, Mar. 18, 2014; 79 FR 40609, July 11, 2014; 80 FR 1114, Jan. 8, 2015; 80 FR 26746, May 8, 2015; 80 FR 79449, Dec. 21, 2015; 81 FR 25617, Apr. 29, 2016; 81 FR 35513, June 2, 2016; 82 FR 15833, Mar. 30, 2017; 83 FR 55806, Nov. 7, 2018; 84 FR 6952, Feb. 28, 2019; 85 FR 27852, May 11, 2020; 85 FR 78029, Dec. 3, 2020]
+[78 FR 1027, Jan. 7, 2013, as amended at 78 FR 15321, Mar. 11, 2013; 78 FR 65468, Oct. 31, 2013; 79 FR 15043, Mar. 18, 2014; 79 FR 40609, July 11, 2014; 80 FR 1114, Jan. 8, 2015; 80 FR 26746, May 8, 2015; 80 FR 79449, Dec. 21, 2015; 81 FR 25617, Apr. 29, 2016; 81 FR 35513, June 2, 2016; 82 FR 15833, Mar. 30, 2017; 83 FR 55806, Nov. 7, 2018; 84 FR 6952, Feb. 28, 2019; 85 FR 27852, May 11, 2020; 85 FR 78029, Dec. 3, 2020; 85 FR 75704, Nov. 25, 2020]

@@ -1,5 +1,7 @@
 ##### § 425.800 Preclusion of administrative and judicial review. #####
 
+Link to an amendment published at 85 FR 85044, Dec. 28, 2020.
+
 (a) There is no reconsideration, appeal, or other administrative or judicial review of the following determinations under this part:
 
 (1) The specification of quality and performance standards under § 425.500 and § 425.502.

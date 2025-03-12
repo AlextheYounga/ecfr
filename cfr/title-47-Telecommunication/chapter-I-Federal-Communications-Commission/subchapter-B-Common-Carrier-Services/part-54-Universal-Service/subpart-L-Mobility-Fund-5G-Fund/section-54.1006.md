@@ -1,0 +1,21 @@
+##### § 54.1006 Public interest obligations. #####
+
+(a) *Deadline for construction—3G networks.* A winning bidder authorized to receive Mobility Fund Phase I support that indicated in its application that it would provide third generation (3G) service on the supported network shall, no later than two (2) years after the date on which it was authorized to receive support, submit data from drive tests covering the area for which support was received demonstrating mobile transmissions supporting voice and data to and from the network covering 75% of the designated coverage units in the area deemed uncovered, or a higher percentage established by Public Notice prior to the competitive bidding, and meeting or exceeding the following:
+
+(1) Outdoor minimum data transmission rates of 50 kbps uplink and 200 kbps downlink at vehicle speeds appropriate for the roads covered;
+
+(2) Transmission latency low enough to enable the use of real time applications, such as VoIP.
+
+(b) *Deadline for construction—4G networks.* A winning bidder authorized to receive Mobility Fund Phase I support that indicated in its application that it would provide fourth generation (4G) service on the supported network shall, no later than three (3) years after the date on which it was authorized to receive support, submit data from drive tests covering the area for which support was received demonstrating mobile transmissions supporting voice and data to and from the network covering 75% of the designated coverage units in the area deemed uncovered, or an applicable higher percentage established by public notice prior to the competitive bidding, and meeting or exceeding the following:
+
+(1) Outdoor minimum data transmission rates of 200 kbps uplink and 768 kbps downlink at vehicle speeds appropriate for the roads covered;
+
+(2) Transmission latency low enough to enable the use of real time applications, such as VoIP.
+
+(c) *Coverage test data.* Drive tests submitted in compliance with a recipient's public interest obligations shall cover roads designated in the public notice detailing the procedures for the competitive bidding that is the basis of the recipient's support. Scattered site tests submitted in compliance with a recipient's public interest obligations shall be in compliance with standards set forth in the public notice detailing the procedures for the competitive bidding that is the basis of the recipient's authorized support.
+
+(d) *Collocation obligations.* During the period when a recipient shall file annual reports pursuant to § 54.1009, the recipient shall allow for reasonable collocation by other providers of services that would meet the technological requirements of Mobility Fund Phase I on newly constructed towers that the recipient owns or manages in the area for which it receives support. In addition, during this period, the recipient may not enter into facilities access arrangements that restrict any party to the arrangement from allowing others to collocate on the facilities.
+
+(e) *Voice and data roaming obligations.* During the period when a recipient shall file annual reports pursuant to § 54.1009, the recipient shall comply with the Commission's voice and data roaming requirements that were in effect as of October 27, 2011, on networks that are built through Mobility Fund Phase I support.
+
+(f) *Liability for failing to satisfy public interest obligations.* A winning bidder authorized to receive Mobility Fund Phase I support that fails to comply with the public interest obligations in this paragraph or any other terms and conditions of the Mobility Fund Phase I support will be subject to repayment of the support disbursed together with an additional performance default payment. Such a winning bidder may be disqualified from receiving Mobility Fund Phase I support or other USF support. The additional performance default amount will be a percentage of the Mobility Fund Phase I support that the winning bidder has been and is eligible to request be disbursed to it pursuant to § 54.1008. The percentage will be determined as specified in the public notice detailing competitive bidding procedures prior to the commencement of competitive bidding. The percentage will not exceed twenty percent.

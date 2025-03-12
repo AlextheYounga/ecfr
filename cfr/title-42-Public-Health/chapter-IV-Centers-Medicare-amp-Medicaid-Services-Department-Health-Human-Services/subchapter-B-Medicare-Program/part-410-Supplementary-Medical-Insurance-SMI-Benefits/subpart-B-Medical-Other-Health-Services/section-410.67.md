@@ -1,5 +1,7 @@
 ##### § 410.67 Medicare coverage and payment of Opioid use disorder treatment services furnished by Opioid treatment programs. #####
 
+Link to an amendment published at 85 FR 85026, Dec. 28, 2020.
+
 (a) *Basis and scope.* (1) *Basis.* This section implements sections 1861(jjj), 1861(s)(2)(HH), 1833(a)(1)(CC) and 1834(w) of the Act which provide for coverage of opioid use disorder treatment services furnished by an opioid treatment program and the payment of a bundled payment under Part B to an opioid treatment program for opioid use disorder treatment services that are furnished to a beneficiary during an episode of care beginning on or after January 1, 2020.
 
 (2) *Scope.* This section sets forth the criteria for an opioid treatment program, the scope of opioid use disorder treatment services, and the methodology for determining the bundled payments to opioid treatment programs for furnishing opioid use disorder treatment services.

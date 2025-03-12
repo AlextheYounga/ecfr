@@ -1,6 +1,6 @@
 ##### § 54.313 Annual reporting requirements for high-cost recipients. #####
 
-Link to an amendment published at 85 FR 75819, Nov. 25, 2020.Link to an amendment published at 84 FR 59963, Nov. 7, 2019.Link to an amendment published at 85 FR 13797, Mar. 10, 2020.
+Link to an amendment published at 84 FR 59963, Nov. 7, 2019.Link to an amendment published at 85 FR 13797, Mar. 10, 2020.
 
 (a) Any recipient of high-cost support shall provide the following:
 
@@ -118,7 +118,7 @@ Link to an amendment published at 85 FR 75819, Nov. 25, 2020.Link to an amendmen
 
 (2) *Grace period.* An eligible telecommunications carrier that submits the annual reporting information required by this section after July 1 but before July 5 will not receive a reduction in support if the eligible telecommunications carrier and its holding company, operating companies, and affiliates as reported pursuant to paragraph (a)(8) of this section have not missed the July 1 deadline in any prior year.
 
-(k) This section does not apply to recipients that solely receive support from Phase I and Phase II of the Mobility Fund.
+(k) This section does not apply to recipients that solely receive support from Phase I of the Mobility Fund.
 
 (l) In addition to the information and certifications in paragraph (a) of this section, any competitive eligible telecommunications carrier participating in the Alaska Plan must provide the following:
 
@@ -137,7 +137,7 @@ Link to an amendment published at 85 FR 75819, Nov. 25, 2020.Link to an amendmen
 (m) Any price cap carrier or fixed competitive eligible telecommunications carrier that elects to continue receiving support pursuant to § 54.312(d) or § 54.307(e)(2)(iii) shall provide certifications, starting July 1, 2020 and for each subsequent year they receive such support, that all such support the company received in the previous year was used to provide voice service throughout the high-cost and extremely high-cost census blocks where they continue to have the federal high-cost eligible telecommunications carrier obligation to provide voice service pursuant to § 54.201(d) at rates that are reasonably comparable to comparable offerings in urban areas. Any price cap carrier or fixed competitive eligible telecommunications carrier that solely receives support pursuant to § 54.312(d) or
 § 54.307(e)(2)(iii) in its designated service area shall not be subject to reporting requirements in any other paragraphs in this section for such support.
 
-[76 FR 73873, Nov. 29, 2011, as amended at 77 FR 14302, Mar. 9, 2012; 77 FR 30914, May 24, 2012; 78 FR 22201, Apr. 15, 2013; 78 FR 29656, May 21, 2013; 78 FR 3843, Jan. 17, 2013; 78 FR 38233, June 26, 2013; 79 FR 11336, Feb. 28, 2014; 79 FR 39189, July 9, 2014; 80 FR 4477, Jan. 27, 2015; 81 FR 24341, Apr. 25, 2016; 81 FR 44449, July 7, 2016; 81 FR 69713, Oct. 7, 2016; 82 FR 15450, Mar. 28, 2017; 82 FR 39969, Aug. 23, 2017; 83 FR 18964, May 1, 2018; 84 FR 4732, Feb. 19, 2019; 84 FR 8624, Mar. 11, 2019; 84 FR 19876, May 7, 2019]Effective Date Notes:1. At 77 FR 14302, Mar. 9, 2012, § 54.313(a)(9) introductory text and (f)(2) were revised. These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[76 FR 73873, Nov. 29, 2011, as amended at 77 FR 14302, Mar. 9, 2012; 77 FR 30914, May 24, 2012; 78 FR 22201, Apr. 15, 2013; 78 FR 29656, May 21, 2013; 78 FR 3843, Jan. 17, 2013; 78 FR 38233, June 26, 2013; 79 FR 11336, Feb. 28, 2014; 79 FR 39189, July 9, 2014; 80 FR 4477, Jan. 27, 2015; 81 FR 24341, Apr. 25, 2016; 81 FR 44449, July 7, 2016; 81 FR 69713, Oct. 7, 2016; 82 FR 15450, Mar. 28, 2017; 82 FR 39969, Aug. 23, 2017; 83 FR 18964, May 1, 2018; 84 FR 4732, Feb. 19, 2019; 84 FR 8624, Mar. 11, 2019; 84 FR 19876, May 7, 2019; 85 FR 75819, Nov. 25, 2020]Effective Date Notes:1. At 77 FR 14302, Mar. 9, 2012, § 54.313(a)(9) introductory text and (f)(2) were revised. These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
 
 2. At 79 FR 11336, Feb. 28, 2014, § 54.313(e)(1), (e)(2), and (e)(3) introductory text were revised. These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
 
@@ -164,3 +164,9 @@ Link to an amendment published at 85 FR 75819, Nov. 25, 2020.Link to an amendmen
 (2) Any recipient of Phase II, Rural Digital Opportunity Fund, Uniendo a Puerto Rico Fund Stage 2 fixed, or Connect USVI Fund Stage 2 fixed support awarded through a competitive bidding or application process shall provide:
 
 (iii) Starting the first July 1st after meeting the final service milestone in § 54.310(c) or § 54.802(c) of this chapter until the July 1st after the Phase II recipient's or Rural Digital Opportunity Fund recipient's support term has ended, a certification that the Phase II-funded network that the Phase II auction recipient operated in the prior year meets the relevant performance requirements in § 54.309 of this chapter, or that the network that the Rural Digital Opportunity Fund recipient operated in the prior year meets the relevant performance requirements in § 54.805 for the Rural Digital Opportunity Fund.
+
+6. At 85 FR 75819, Nov. 25, 2020, § 54.313 was amended by revising paragraph (n). This paragraph has a delayed effective date, the revised text is set forth to read as follow.
+
+##### § 54.313 Annual reporting requirements for high-cost recipients. #####
+
+(n) In addition to the information and certifications in paragraph (a) of this section, a mobile competitive eligible telecommunications carrier receiving legacy high-cost support pursuant to § 54.307(e)(5), (e)(6), or (e)(7) shall certify whether it used any support pursuant to § 54.207(f), and if so, whether it used such support in compliance with § 54.7.

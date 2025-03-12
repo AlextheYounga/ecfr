@@ -1,5 +1,7 @@
 ##### § 178.47 Specification 4DS welded stainless steel cylinders for aircraft use. #####
 
+Link to an amendment published at 85 FR 85421, Dec. 28, 2020.
+
 (a) *Type, size, and service pressure.* A DOT 4DS cylinder is either a welded stainless steel sphere (two seamless hemispheres) or circumferentially welded cylinder both with a water capacity of not over 100 pounds and a service pressure of at least 500 but not over 900 psig.
 
 (b) *Steel.* Types 304, 321 and 347 stainless steel are authorized with proper welding procedure. A heat of steel made under the specifications in table 1 in this paragraph (b), check chemical analysis of which is slightly out of the specified range, is acceptable, if satisfactory in all other respects, provided the tolerances shown in table 2 in this paragraph (b) are not exceeded, except as approved by Associate Administrator. The following chemical analyses are authorized:

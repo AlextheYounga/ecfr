@@ -1,5 +1,7 @@
 ##### § 178.59 Specification 8 steel cylinders with porous fillings for acetylene. #####
 
+Link to an amendment published at 85 FR 85427, Dec. 28, 2020.
+
 (a) *Type and service pressure.* A DOT 8 cylinder is a seamless cylinder with a service pressure of 250 psig. The following steel is authorized:
 
 (1) A longitudinal seam if forge lap welded;

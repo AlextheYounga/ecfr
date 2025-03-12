@@ -1,5 +1,7 @@
 ##### § 178.57 Specification 4L welded insulated cylinders. #####
 
+Link to an amendment published at 85 FR 85427, Dec. 28, 2020.
+
 (a) *Type, size, service pressure, and design service temperature.* A DOT 4L cylinder is a fusion welded insulated cylinder with a water capacity (nominal) not over 1,000 pounds water capacity and a service pressure of at least 40 but not greater than 500 psig conforming to the following requirements:
 
 (1) For liquefied hydrogen service, the cylinders must be designed to stand on end, with the axis of the cylindrical portion vertical.

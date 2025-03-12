@@ -1,5 +1,7 @@
 ##### § 425.502 Calculating the ACO quality performance score. #####
 
+Link to an amendment published at 85 FR 85040, Dec. 28, 2020.
+
 (a) *Establishing a quality performance standard.* CMS designates the quality performance standard in each performance year. The quality performance standard is the overall standard the ACO must meet in order to be eligible for shared savings.
 
 (1) For the first performance year of an ACO's first agreement period, CMS defines the quality performance standard at the level of complete and accurate reporting for all quality measures.

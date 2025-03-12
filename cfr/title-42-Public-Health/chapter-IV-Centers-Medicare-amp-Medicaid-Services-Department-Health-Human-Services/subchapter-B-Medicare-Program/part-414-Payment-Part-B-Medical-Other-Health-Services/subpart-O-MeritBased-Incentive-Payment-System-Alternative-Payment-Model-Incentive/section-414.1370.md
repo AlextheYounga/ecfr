@@ -1,5 +1,7 @@
 ##### § 414.1370 APM scoring standard under MIPS. #####
 
+Link to an amendment published at 85 FR 85031, Dec. 28, 2020.
+
 (a) *General.* The APM scoring standard is the MIPS scoring methodology applicable for MIPS eligible clinicians identified on the Participation List for the performance period of an APM Entity participating in a MIPS APM.
 
 (b) *Criteria for MIPS APMs.* MIPS APMs are those in which:

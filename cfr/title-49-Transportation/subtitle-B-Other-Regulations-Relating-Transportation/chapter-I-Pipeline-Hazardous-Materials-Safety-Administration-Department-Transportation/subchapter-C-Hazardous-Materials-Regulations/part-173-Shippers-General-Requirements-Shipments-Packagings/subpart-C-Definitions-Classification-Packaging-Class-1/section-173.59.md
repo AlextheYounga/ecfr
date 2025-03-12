@@ -1,7 +1,5 @@
 ##### § 173.59 Description of terms for explosives. #####
 
-Link to an amendment published at 85 FR 75713, Nov. 25, 2020.
-
 For the purpose of this subchapter, a description of the following terms is provided for information only. They must not be used for purposes of classification or to replace proper shipping names prescribed in § 172.101 of this subchapter.
 
 *Ammonium-nitrate - fuel oil mixture (ANFO).* A blasting explosive containing no essential ingredients other than prilled ammonium nitrate and fuel oil.
@@ -82,7 +80,7 @@ For the purpose of this subchapter, a description of the following terms is prov
 
 *Components, explosive train, n.o.s.* Articles containing an explosive designed to transmit a detonation or deflagration within an explosive train.
 
-*Consumer firework.* Any finished firework device that is in a form intended for use by the public that complies with any limits and requirements of the APA Standard 87-1 (IBR, see § 171.7 of this subchapter) and the construction, performance, chemical composition, and labeling requirements codified by the U.S. Consumer Product Safety Commission in 16 CFR parts 1500 and 1507. A consumer firework does not include firework devices, kits or components banned by the U.S. Consumer Product Safety Commission in 16 CFR 1500.17 (a)(8).
+*Consumer firework.* Any finished firework device that is in a form intended for use by the public that complies with any limits and requirements of the APA Standard 87-1A (IBR, see § 171.7 of this subchapter) and the construction, performance, chemical composition, and labeling requirements codified by the U.S. Consumer Product Safety Commission in 16 CFR parts 1500 and 1507. A consumer firework does not include firework devices, kits or components banned by the U.S. Consumer Product Safety Commission in 16 CFR 1500.17(a)(8).
 
 *Contrivance, water-activated with burster, expelling charge or propelling charge.* Articles whose functioning depends of physico-chemical reaction of their contents with water.
 
@@ -202,4 +200,4 @@ For the purpose of this subchapter, a description of the following terms is prov
 
 *Warheads.* Articles containing detonating explosives, designed to be fitted to a rocket, guided missile, or torpedo. They may contain a burster or expelling charge or bursting charge. The term includes: warhead rocket with bursting charge; and warheads, torpedo, with bursting charge.
 
-[Amdt. 173-224, 55 FR 52617 Dec. 21, 1990, as amended at 56 FR 66267, Dec. 20, 1991; Amdt. 173-241, 59 FR 67492, Dec. 29, 1994; 64 FR 10777, Mar. 5, 1999; 66 FR 45379, Aug. 28, 2001; 76 FR 3371, Jan. 19, 2011; 78 FR 1074, Jan. 7, 2013; 78 FR 42477, July 16, 2013]
+[Amdt. 173-224, 55 FR 52617 Dec. 21, 1990, as amended at 56 FR 66267, Dec. 20, 1991; Amdt. 173-241, 59 FR 67492, Dec. 29, 1994; 64 FR 10777, Mar. 5, 1999; 66 FR 45379, Aug. 28, 2001; 76 FR 3371, Jan. 19, 2011; 78 FR 1074, Jan. 7, 2013; 78 FR 42477, July 16, 2013; 85 FR 75713, Nov. 25, 2020]

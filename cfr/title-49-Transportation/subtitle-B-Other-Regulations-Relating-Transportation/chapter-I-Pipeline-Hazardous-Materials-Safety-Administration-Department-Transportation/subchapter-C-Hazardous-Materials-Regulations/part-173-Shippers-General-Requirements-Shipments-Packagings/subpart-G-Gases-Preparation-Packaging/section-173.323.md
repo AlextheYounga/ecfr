@@ -1,5 +1,7 @@
 ##### § 173.323 Ethylene oxide. #####
 
+Link to an amendment published at 85 FR 85419, Dec. 28, 2020.
+
 (a) For packaging ethylene oxide in non-bulk packagings, silver mercury or any of its alloys or copper may not be used in any part of a packaging, valve, or other packaging appurtenance if that part, during normal conditions of transportation, may come in contact with ethylene oxide liquid or vapor. Copper alloys may be used only where gas mixtures do not contain free acetylene at any concentration that will form copper acetylene. All packaging and gaskets must be constructed of materials which are compatible with ethylene oxide and do not lower the auto-ignition temperature of ethylene oxide.
 
 (b) Ethylene oxide must be packaged in one of the following:

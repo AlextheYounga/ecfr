@@ -1,5 +1,7 @@
 ##### § 424.67 Enrollment requirements for opioid treatment programs (OTP). #####
 
+Link to an amendment published at 85 FR 85038, Dec. 28, 2020.
+
 (a) *General enrollment requirement.* In order for a program or eligible professional (as that term is defined in section 1848(k)(3)(B) of the Act) to receive Medicare payment for the provision of opioid use disorder treatment services, the provider must qualify as an OTP (as that term is defined in § 8.2 of this title) and enroll in the Medicare program under the provisions of this section and of subpart P of this part.
 
 (b) *Specific requirements and standards for enrollment.* To enroll in the Medicare program, an OTP must meet all of the following requirements and standards:

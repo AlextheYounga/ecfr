@@ -1,5 +1,7 @@
 ##### § 425.500 Measures to assess the quality of care furnished by an ACO. #####
 
+Link to an amendment published at 85 FR 85040, Dec. 28, 2020.
+
 (a) *General.* CMS establishes quality performance measures to assess the quality of care furnished by the ACO. If the ACO demonstrates to CMS that it has satisfied the quality performance requirements in this subpart, and the ACO meets all other applicable requirements, the ACO is eligible for shared savings.
 
 (b) *Selecting measures.* (1) CMS selects the measures designated to determine an ACO's success in promoting the aims of better care for individuals, better health for populations, and lower growth in expenditures.

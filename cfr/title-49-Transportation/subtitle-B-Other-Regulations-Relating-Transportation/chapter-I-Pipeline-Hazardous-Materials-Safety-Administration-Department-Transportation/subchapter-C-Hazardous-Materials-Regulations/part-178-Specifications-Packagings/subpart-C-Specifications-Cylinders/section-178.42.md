@@ -1,5 +1,7 @@
 ##### § 178.42 Specification 3E seamless steel cylinders. #####
 
+Link to an amendment published at 85 FR 85421, Dec. 28, 2020.
+
 (a) *Type, size, and service pressure.* A DOT 3E cylinder is a seamless steel cylinder with an outside diameter not greater than 2 inches nominal, a length less than 2 feet and a service pressure of 1,800 psig.
 
 (b) *Steel.* Open-hearth or electric steel of uniform quality must be used. Content percent may not exceed the following: Carbon, 0.55; phosphorus, 0.045; sulphur, 0.050.

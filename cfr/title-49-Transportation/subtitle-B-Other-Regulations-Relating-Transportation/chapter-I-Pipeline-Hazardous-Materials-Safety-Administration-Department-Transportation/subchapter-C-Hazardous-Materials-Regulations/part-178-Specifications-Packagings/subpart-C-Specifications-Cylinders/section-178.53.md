@@ -1,5 +1,7 @@
 ##### § 178.53 Specification 4D welded steel cylinders for aircraft use. #####
 
+Link to an amendment published at 85 FR 85426, Dec. 28, 2020.
+
 (a) *Type, size, and service pressure.* A DOT 4D cylinder is a welded steel sphere (two seamless hemispheres) or circumferentially welded cylinder (two seamless drawn shells) with a water capacity not over 100 pounds and a service pressure of at least 300 but not over 500 psig. Cylinders closed in by spinning process are not authorized.
 
 (b) *Steel.* Open-hearth or electric steel of uniform and weldable quality must be used. Content may not exceed the following: Carbon, 0.25; phosphorus, 0.045; sulphur, 0.050, except that the following steels commercially known as 4130X and Type 304, 316, 321, and 347 stainless steels may be used with proper welding procedure. A heat of steel made under table 1 in this paragraph (b), check chemical analysis of which is slightly out of the specified range, is acceptable, if satisfactory in all other respects, provided the tolerances shown in table 2 in this paragraph (b) are not exceeded, except as approved by the Associate Administrator. The following chemical analyses are authorized:

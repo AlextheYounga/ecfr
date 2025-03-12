@@ -1,0 +1,5 @@
+##### § 590.905 Importation of restricted eggs. #####
+
+(a) No containers of restricted eggs other than checks or dirties will be imported into the United States. The shipping containers of such eggs shall be identified with the name, address, and country of origin of the exporter, and the date of pack and the quality of the eggs (e.g., checks or dirties) preceded by the word “Imported” or the statement “Imported Restricted Eggs—For Processing Only In An Official USDA Plant,” or “Restricted Eggs—Not To Be Used As Human Food.” Such identification shall be legible and conspicuous.
+
+(b) For properly sealed and certified shipments of shell eggs for breaking at an official egg products plant, the containers need not be labeled, provided that the shipment is segregated and controlled upon arrival at the destination breaking plant.

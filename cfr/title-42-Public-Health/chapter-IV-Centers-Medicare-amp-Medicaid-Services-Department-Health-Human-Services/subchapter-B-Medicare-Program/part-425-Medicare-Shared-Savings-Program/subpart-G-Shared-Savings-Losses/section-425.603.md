@@ -1,5 +1,7 @@
 ##### § 425.603 Resetting, adjusting, and updating the benchmark for a subsequent agreement period beginning on or before January 1, 2019. #####
 
+Link to an amendment published at 85 FR 85042, Dec. 28, 2020.
+
 (a) An ACO's benchmark is reset at the start of each subsequent agreement period.
 
 (b) For second agreement periods beginning in 2016, CMS establishes, adjusts, and updates the rebased historical benchmark in accordance with § 425.602(a) and (b) with the following modifications:

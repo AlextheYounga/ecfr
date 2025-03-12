@@ -1,5 +1,7 @@
 ##### § 180.203 Definitions. #####
 
+Link to an amendment published at 85 FR 85432, Dec. 28, 2020.
+
 As used in this section, the word “cylinder” includes UN pressure receptacles. In addition to the definitions contained in § 171.8 of this subchapter, the following definitions apply to this subpart:
 
 *Commercially free of corrosive components* means a hazardous material having a dew point at or below minus 46.7 °C (minus 52 °F) at 101kPa (1 atmosphere) and free of components that will adversely react with the cylinder (e.g. chemical stress corrosion).

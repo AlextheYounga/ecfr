@@ -1,7 +1,5 @@
 ##### § 51.903 Definitions. #####
 
-Link to an amendment published at 85 FR 75916, Nov. 27, 2020.
-
 For the purposes of this subpart:
 
 (a) *Competitive Local Exchange Carrier.* A *Competitive Local Exchange Carrier* is any local exchange carrier, as defined in § 51.5, that is not an incumbent local exchange carrier .
@@ -44,4 +42,10 @@ For incumbent local exchange carriers, residual rate elements may include, for e
 
 (m) *Interexchange Carrier* has the same meaning as that term is defined in § 61.3(ddd) of this chapter.
 
-[76 FR 73856, Nov. 29, 2011, as amended at 83 FR 67121, Dec. 28, 2018; 84 FR 57650, Oct. 28, 2019]
+(n) *Toll Free Database Query Charge* is a per query charge that is expressed in dollars and cents to access the Toll Free Service Management System Database, as defined in § 52.101(d) of this subchapter.
+
+(o) *Toll Free Call* means a call to a Toll Free Number, as defined in § 52.101(f) of this subchapter.
+
+(p) *Joint Tandem Switched Transport Access Service* is the rate element assessible for the transmission of toll free originating access service. The rate element includes both the transport between the end office and the tandem switch and the tandem switching. It does not include transport of traffic over dedicated transport facilities between the serving wire center and the tandem switching office.
+
+[76 FR 73856, Nov. 29, 2011, as amended at 83 FR 67121, Dec. 28, 2018; 84 FR 57650, Oct. 28, 2019; 85 FR 75916, Nov. 27, 2020]

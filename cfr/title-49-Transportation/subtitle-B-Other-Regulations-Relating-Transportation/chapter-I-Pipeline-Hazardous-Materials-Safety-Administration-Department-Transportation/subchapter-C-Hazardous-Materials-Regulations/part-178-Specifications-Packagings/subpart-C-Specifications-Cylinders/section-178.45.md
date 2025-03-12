@@ -1,5 +1,7 @@
 ##### § 178.45 Specification 3T seamless steel cylinder. #####
 
+Link to an amendment published at 85 FR 85421, Dec. 28, 2020.
+
 (a) *Type, size, and service pressure.* A DOT 3T cylinder is a seamless steel cylinder with a minimum water capacity of 1,000 pounds and a minimum service pressure of 1,800 psig. Each cylinder must have integrally formed heads concave to pressure at both ends. The inside head shape must be hemispherical, ellipsoidal in which the major axis is two times the minor axis, or a dished shape falling within these two limits. Permanent closures formed by spinning are prohibited.
 
 (b) *Material, steel.* Only open hearth, basic oxygen, or electric furnace process steel of uniform quality is authorized. The steel analysis must conform to the following:

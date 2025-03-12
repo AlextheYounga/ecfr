@@ -1,7 +1,5 @@
 ##### § 1300.02 Definitions relating to listed chemicals. #####
 
-Link to an amendment published at 85 FR 68461, Oct. 29, 2020.
-
 (a) Any term not defined in this part shall have the definition set forth in section 102 of the Act (21 U.S.C. 802), except that certain terms used in part 1316 of this chapter are defined at the beginning of each subpart of that part.
 
 (b) As used in parts 1309, 1310, and 1313 of this chapter, the following terms shall have the meaning specified:
@@ -14,7 +12,7 @@ Link to an amendment published at 85 FR 68461, Oct. 29, 2020.
 
 *At retail,* with respect to the sale or purchase of a scheduled listed chemical product, means a sale or purchase for personal use, respectively.
 
-*Broker* and *trader* mean any individual, corporation, corporate division, partnership, association, or other legal entity which assists in arranging an international transaction in a listed chemical by -
+*Broker* and *trader* mean any individual, corporation, corporate division, partnership, association, or other legal entity which assists in arranging an international transaction in a listed chemical by—
 
 (1) Negotiating contracts;
 
@@ -94,7 +92,7 @@ Link to an amendment published at 85 FR 68461, Oct. 29, 2020.
 
 (iii) Any category of transaction or any category of transaction for a specific listed chemical or chemicals specified by regulation of the Administrator as excluded from this definition as unnecessary for enforcement of the Act;
 
-(iv) Any transaction in a listed chemical that is contained in a drug other than a scheduled listed chemical product that may be marketed or distributed lawfully in the United States under the Federal Food, Drug, and Cosmetic Act, subject to paragraph (1)(v) of this definition, unless -
+(iv) Any transaction in a listed chemical that is contained in a drug other than a scheduled listed chemical product that may be marketed or distributed lawfully in the United States under the Federal Food, Drug, and Cosmetic Act, subject to paragraph (1)(v) of this definition, unless—
 
 (A) The Administrator has determined pursuant to the criteria in § 1310.10 of this chapter that the drug or group of drugs is being diverted to obtain the listed chemical for use in the illicit production of a controlled substance; and
 
@@ -106,7 +104,7 @@ Link to an amendment published at 85 FR 68461, Oct. 29, 2020.
 
 (2) A distribution, importation, or exportation of a tableting machine or encapsulating machine except that such term does not include a domestic lawful distribution in the usual course of business between agents and employees of a single regulated person; in this context, agents or employees means individuals under the direct management and control of the regulated person.
 
-*Retail distributor* means a grocery store, general merchandise store, drug store, or other entity or person whose activities as a distributor relating to drug products containing pseudoephedrine or phenylpropanolamine are limited almost exclusively to sales for personal use, both in number of sales and volume of sales, either directly to walk-in customers or in face-to-face transactions by direct sales. Also for the purposes of this paragraph, a “grocery store” is an entity within Standard Industrial Classification (SIC) code 5411, a “general merchandise store” is an entity within SIC codes 5300 through 5399 and 5499, and a “drug store” is an entity within SIC code 5912.
+*Retail distributor* means a grocery store, general merchandise store, drug store, or other entity or person whose activities as a distributor relating to drug products containing ephedrine, pseudoephedrine, or phenylpropanolamine are limited almost exclusively to sales for personal use, both in number of sales and volume of sales, either directly to walk-in customers or in face-to-face transactions by direct sales. Also for the purposes of this paragraph, a “grocery store” is an entity within Standard Industrial Classification (SIC) code 5411, a “general merchandise store” is an entity within SIC codes 5300 through 5399 and 5499, and a “drug store” is an entity within SIC code 5912.
 
 *Return information* means supplemental information required to be reported to the Administration following an import or export transaction containing the particulars of the transaction and any other information as the Administration may specify.
 
@@ -122,4 +120,4 @@ Link to an amendment published at 85 FR 68461, Oct. 29, 2020.
 
 *Valid prescription* means a prescription that is issued for a legitimate medical purpose by an individual practitioner licensed by law to administer and prescribe the drugs concerned and acting in the usual course of the practitioner's professional practice.
 
-[75 FR 16304, Mar. 31, 2010, as amended at 77 FR 4233, Jan. 27, 2012; 81 FR 97019, Dec. 30, 2016]
+[75 FR 16304, Mar. 31, 2010, as amended at 77 FR 4233, Jan. 27, 2012; 81 FR 97019, Dec. 30, 2016; 85 FR 68461, Oct. 29, 2020]

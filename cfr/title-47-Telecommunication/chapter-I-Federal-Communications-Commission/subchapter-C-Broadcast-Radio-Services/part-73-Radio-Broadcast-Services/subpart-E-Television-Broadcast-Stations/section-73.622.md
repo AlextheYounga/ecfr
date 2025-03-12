@@ -1893,7 +1893,7 @@ ut terminals of the transmitter (including any filters that may be employed). In
 |     La Grande      |                     \*13, 16                      |
 |      Medford       |                5, \*8, 10, 12, 26                 |
 |     Pendleton      |                        11                         |
-|      Portland      |              8, \*10, 12, 40, 43, 45              |
+|      Portland      |             \*10, 12, 26, 40, 43, 45              |
 |      Roseburg      |                    18, 19, 45                     |
 |       Salem        |                      22, 33                       |
 |    PENNSYLVANIA    |                                                   |

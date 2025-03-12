@@ -1,5 +1,7 @@
 ##### § 414.1305 Definitions. #####
 
+Link to an amendment published at 85 FR 85028, Dec. 28, 2020.
+
 As used in this section, unless otherwise indicated -
 
 *Additional performance threshold* means the numerical threshold for a MIPS payment year against which the final scores of MIPS eligible clinicians are compared to determine the additional MIPS payment adjustment factors for exceptional performance.

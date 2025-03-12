@@ -1,0 +1,7 @@
+##### § 590.136 Accommodations and equipment to be furnished by facilities for use of inspection program personnel in performing service. #####
+
+(a) *Inspection program personnel office.* Office space, including, but not limited to, furnishings, light, heat, and janitor service, will be provided without cost in the official plant for the use of inspection program personnel for official purposes. The room or space set apart for this purpose must meet the approval of the Food Safety and Inspection Service and be conveniently located, properly ventilated, and provided with lockers or file cabinets suitable for the protection and storage of supplies and with accommodations suitable for inspection program personnel to change clothing. At the discretion of the Administrator, small official plants requiring the services of less than one full-time inspector need not furnish accommodations for inspection program personnel as prescribed in this section where adequate accommodations exist in a nearby convenient location.
+
+(b) *Accommodations and equipment.* Such accommodations and equipment must include, but not be limited to, a room or area suitable for sampling product and a stationary or adequately secured storage box or cage (capable of being locked only by inspection program personnel) for holding official samples.
+
+[85 FR 68675, Oct. 29, 2020]

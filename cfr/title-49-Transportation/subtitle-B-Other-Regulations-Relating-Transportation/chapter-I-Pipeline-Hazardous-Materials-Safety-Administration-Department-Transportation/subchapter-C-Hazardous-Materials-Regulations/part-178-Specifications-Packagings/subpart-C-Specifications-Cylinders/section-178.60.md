@@ -1,5 +1,7 @@
 ##### § 178.60 Specification 8AL steel cylinders with porous fillings for acetylene. #####
 
+Link to an amendment published at 85 FR 85428, Dec. 28, 2020.
+
 (a) *Type and service pressure.* A DOT 8AL cylinder is a seamless steel cylinder with a service pressure of 250 psig. However, the attachment of heads by welding or by brazing by dipping process and a welded circumferential body seam is authorized. Longitudinal seams are not authorized.
 
 (b) *Authorized steel.* The authorized steel is as specified in table I of appendix A to this part.

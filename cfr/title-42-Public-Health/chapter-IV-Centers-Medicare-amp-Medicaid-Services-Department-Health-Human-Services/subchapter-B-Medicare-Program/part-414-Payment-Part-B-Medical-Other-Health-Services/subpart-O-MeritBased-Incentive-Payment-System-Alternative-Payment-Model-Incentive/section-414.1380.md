@@ -1,5 +1,7 @@
 ##### § 414.1380 Scoring. #####
 
+Link to an amendment published at 85 FR 85031, Dec. 28, 2020.
+
 (a) *General.* MIPS eligible clinicians are scored under MIPS based on their performance on measures and activities in four performance categories. MIPS eligible clinicians are scored against performance standards for each performance category and receive a final score, composed of their performance category scores, and calculated according to the final score methodology.
 
 (1) *Performance standards.* (i) For the quality performance category, measures are scored between zero and 10 measure achievement points. Performance is measured against benchmarks. Measure bonus points are available for submitting high-priority measures, submitting measures using end-to-end electronic reporting, and in small practices that submit data on at least 1 quality measure. Beginning with the 2020 MIPS payment year, improvement scoring is available in the quality performance category.

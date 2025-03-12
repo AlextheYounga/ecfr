@@ -1,5 +1,7 @@
 ##### § 178.61 Specification 4BW welded steel cylinders with electric-arc welded longitudinal seam. #####
 
+Link to an amendment published at 85 FR 85428, Dec. 28, 2020.
+
 (a) *Type, size and service pressure.* A DOT 4BW cylinder is a welded type steel cylinder with a longitudinal electric-arc welded seam, a water capacity (nominal) not over 1,000 pounds and a service pressure at least 225 and not over 500 psig gauge. Cylinders closed in by spinning process are not authorized.
 
 (b) *Authorized steel.* Steel used in the construction of the cylinder must conform to the following:

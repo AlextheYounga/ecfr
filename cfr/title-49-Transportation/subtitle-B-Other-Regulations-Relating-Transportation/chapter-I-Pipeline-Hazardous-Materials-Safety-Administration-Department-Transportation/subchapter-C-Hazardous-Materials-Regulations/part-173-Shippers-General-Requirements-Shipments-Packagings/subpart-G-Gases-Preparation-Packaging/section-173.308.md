@@ -1,6 +1,6 @@
 ##### § 173.308 Lighters. #####
 
-Link to an amendment published at 85 FR 75714, Nov. 25, 2020.Link to an amendment published at 85 FR 83400, Dec. 21, 2020.
+Link to an amendment published at 85 FR 83400, Dec. 21, 2020.
 
 (a) *General requirements.* No person may offer for transportation or transport a lighter (see § 171.8 of this subchapter) containing a Division 2.1 (flammable gas) material except under the following conditions:
 
@@ -80,15 +80,9 @@ Link to an amendment published at 85 FR 75714, Nov. 25, 2020.Link to an amendmen
 
 (2) *Outer packaging.* Lighters and their inner packagings must be tightly packed and secured against movement in any rigid specification outer packaging authorized in subpart L of part 178 of this subchapter at the Packing Group II performance level.
 
-(d) *Shipping paper and marking requirements.* (1) In addition to the requirements of subpart C of part 172, shipping papers must be annotated with the lighter design test report identifier (see paragraph (b)(4)(i)(C) of this section) traceable to the test report assigned to the lighters or, if applicable, the previously issued approval number (*i.e.,* T\*\*\*), in association with the basic description.
+(d) *Shipping paper and marking requirements.* (1) In addition to the requirements of subpart C of part 172, shipping papers must be annotated with the lighter design test report identifier (see paragraph (b)(4)(i)(C) of this section) traceable to the test report assigned to the lighters or, if applicable, the previously issued approval number (*i.e.,* T\* \* \*), in association with the basic description.
 
-(2) In addition to the requirements of subpart D of part 172, a lighter design test report identifier (see paragraph (b)(4)(i)(C) of this section) or, if applicable, the previously issued approval number (*i.e.,* T\*\*\*), must be marked on a package containing lighters.
-
-(3) For transportation by vessel in a closed transport vehicle or a closed freight container, the following warning must be affixed to the access doors:
-
-WARNING - MAY CONTAIN EXPLOSIVE MIXTURES WITH AIR - KEEP IGNITION SOURCES AWAY WHEN OPENING
-
-The warning must be on a contrasting background and must be in letters measuring at least 12.7 mm (0.5 inch) in height.
+(2) In addition to the requirements of subpart D of part 172, a lighter design test report identifier (see paragraph (b)(4)(i)(C) of this section) or, if applicable, the previously issued approval number (*i.e.,* T\* \* \*), must be marked on a package containing lighters.
 
 (e) *Exceptions* - (1) *Common or contract carriage.* For highway transportation by common or contract carrier, when no more than 1,500 lighters covered by this section are transported in one motor vehicle, the requirements of subparts C through H of part 172, and part 177 of this subchapter do not apply. Lighters transported in accordance with this paragraph are also excepted from the specification packaging, shipping paper, and marking requirements specified in § 173.308(c) and (d). Inner packagings must conform to paragraph (c)(1) of this section. Lighters must be further packaged in rigid, strong outer packagings meeting the general packaging requirements of subpart B of part 173. Outer packagings must be plainly and durably marked, on two opposing sides or ends, with the word “LIGHTERS” and the number of devices contained therein in letters measuring at least 20 mm (0.79 in) in height. In addition, the package must include the test report identifier for each lighter design as specified in paragraph (b)(4)(i)(C) of this section or, if applicable, the previously issued approval number (*i.e.,* T\*\*\*). The test report identifier or approval number must be durable, legible, in English, and located in, attached to, or marked directly on the package. No person may offer for transportation or transport the lighters or prepare the lighters for shipment unless that person has been specifically informed of the requirements of this section.
 
@@ -108,4 +102,4 @@ The warning must be on a contrasting background and must be in letters measuring
 
 (vii) Outer packagings must be plainly and durably marked with the words “LIGHTERS, excepted quantity.”
 
-[71 FR 3427, Jan. 23, 2006, as amended at 73 FR 57006, Oct. 1, 2008]
+[71 FR 3427, Jan. 23, 2006, as amended at 73 FR 57006, Oct. 1, 2008; 85 FR 75714, Nov. 25, 2020]

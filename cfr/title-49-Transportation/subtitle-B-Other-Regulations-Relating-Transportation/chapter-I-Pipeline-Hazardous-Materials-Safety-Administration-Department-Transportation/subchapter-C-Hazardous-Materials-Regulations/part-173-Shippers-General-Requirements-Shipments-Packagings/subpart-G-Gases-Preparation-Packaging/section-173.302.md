@@ -1,10 +1,10 @@
 ##### § 173.302 Filling of cylinders with nonliquefied (permanent) compressed gases or adsorbed gases. #####
 
-Link to an amendment published at 85 FR 75714, Nov. 25, 2020.
+Link to an amendment published at 85 FR 85416, Dec. 28, 2020.
 
-(a) *General requirements.* (1) A cylinder filled with a non-liquefied compressed gas (except gas in solution) must be offered for transportation in accordance with the requirements of this section and § 173.301. In addition, a DOT specification cylinder must meet the requirements in §§ 173.301a, 173.302a and 173.305, as applicable. UN pressure receptacles must meet the requirements in §§ 173.301b and 173.302b, as applicable. Where more than one section applies to a cylinder, the most restrictive requirements must be followed.
+(a) *General requirements.* (1) Except as provided in § 171.23(a)(3) of this subchapter, a cylinder filled with a non-liquefied compressed gas (except gas in solution) must be offered for transportation in accordance with the requirements of this section and § 173.301 of this subpart. In addition, a DOT specification cylinder must meet the requirements in §§ 173.301a, 173.302a, and 173.305 of the subpart, as applicable. UN pressure receptacles must meet the requirements in §§ 173.301b and 173.302b of this subpart, as applicable. Where more than one section applies to a cylinder, the most restrictive requirements must be followed.
 
-(2) *Adsorbed gas.* A cylinder filled with an adsorbed gas must be offered for transportation in accordance with the requirements of paragraph (d) of this section, §§ 173.301, and 173.302c. UN cylinders must meet the requirements in §§ 173.301b and 173.302b, as applicable. Where more than one section applies to a cylinder, the most restrictive requirements must be followed.
+(2) *Adsorbed gas.* Except as provided in § 171.23(a)(3) of this subchapter, a cylinder filled with an adsorbed gas must be offered for transportation in accordance with the requirements of paragraph (d) of this section, and §§ 173.301, and 173.302c of this subpart. UN cylinders must meet the requirements in §§ 173.301b and 173.302b of this subpart, as applicable. Where more than one section applies to a cylinder, the most restrictive requirements must be followed.
 
 (b) *Aluminum cylinders in oxygen service.* Each aluminum cylinder filled with oxygen must meet all of the following conditions:
 
@@ -46,4 +46,4 @@ Link to an amendment published at 85 FR 75714, Nov. 25, 2020.
 
 (6) A cylinder of compressed oxygen that has been furnished by an aircraft operator to a passenger in accordance with 14 CFR § 121.574, § 125.219, or § 135.91 is excepted from the outer packaging requirements of paragraph (f)(3) of this section.
 
-[67 FR 51646, Aug. 8, 2002, as amended at 67 FR 61289, Sept. 30, 2002; 68 FR 75745, Dec. 31, 2003; 71 FR 33883; June 12, 2006; 71 FR 51127, Aug. 29, 2006; 72 FR 55098, Sept. 28, 2007; 76 FR 56317, Sept. 13, 2011; 80 FR 1161, Jan. 8, 2015; 80 FR 72927, Nov. 23, 2015; 81 FR 3676, Jan. 21, 2016]
+[67 FR 51646, Aug. 8, 2002, as amended at 67 FR 61289, Sept. 30, 2002; 68 FR 75745, Dec. 31, 2003; 71 FR 33883; June 12, 2006; 71 FR 51127, Aug. 29, 2006; 72 FR 55098, Sept. 28, 2007; 76 FR 56317, Sept. 13, 2011; 80 FR 1161, Jan. 8, 2015; 80 FR 72927, Nov. 23, 2015; 81 FR 3676, Jan. 21, 2016; 85 FR 75714, Nov. 25, 2020]

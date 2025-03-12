@@ -1,5 +1,7 @@
 ##### § 414.1435 Qualifying APM participant determination: Medicare option. #####
 
+Link to an amendment published at 85 FR 85035, Dec. 28, 2020.
+
 (a) *Payment amount method.* The Threshold Score for an APM Entity or eligible clinician is calculated as a percent by dividing the value described under paragraph (a)(1) of this section by the value described under paragraph (a)(2) of this section.
 
 (1) *Numerator.* The aggregate of payments for Medicare Part B covered professional services furnished by the APM Entity group to attributed beneficiaries during the QP Performance Period.

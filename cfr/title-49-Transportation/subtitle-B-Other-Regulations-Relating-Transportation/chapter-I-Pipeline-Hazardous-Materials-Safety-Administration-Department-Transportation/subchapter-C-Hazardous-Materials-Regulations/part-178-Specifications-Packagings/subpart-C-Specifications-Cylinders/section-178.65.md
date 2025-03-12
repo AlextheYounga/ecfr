@@ -1,5 +1,7 @@
 ##### § 178.65 Specification 39 non-reusable (non-refillable) cylinders. #####
 
+Link to an amendment published at 85 FR 85430, Dec. 28, 2020.
+
 (a) *Type, size, service pressure, and test pressure.* A DOT 39 cylinder is a seamless, welded, or brazed cylinder with a service pressure not to exceed 80 percent of the test pressure. Spherical pressure vessels are authorized and covered by references to cylinders in this specification.
 
 (1) *Size limitation.* Maximum water capacity may not exceed: (i) 55 pounds (1,526 cubic inches) for a service pressure of 500 p.s.i.g. or less, and (ii) 10 pounds (277 cubic inches) for a service pressure in excess of 500 p.s.i.g.

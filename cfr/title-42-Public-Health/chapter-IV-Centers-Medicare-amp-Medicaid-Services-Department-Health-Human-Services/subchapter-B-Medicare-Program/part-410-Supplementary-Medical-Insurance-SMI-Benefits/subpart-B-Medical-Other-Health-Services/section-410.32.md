@@ -1,5 +1,7 @@
 ##### § 410.32 Diagnostic x-ray tests, diagnostic laboratory tests, and other diagnostic tests: Conditions. #####
 
+Link to an amendment published at 85 FR 85026, Dec. 28, 2020.
+
 (a) *Ordering diagnostic tests.* Except as otherwise provided in this section, all diagnostic x-ray tests, diagnostic laboratory tests, and other diagnostic tests must be ordered by the physician who is treating the beneficiary, that is, the physician who furnishes a consultation or treats a beneficiary for a specific medical problem and who uses the results in the management of the beneficiary's specific medical problem. Tests not ordered by the physician who is treating the beneficiary are not reasonable and necessary (see § 411.15(k)(1) of this chapter).
 
 (1) *Mammography exception.* A physician who meets the qualification requirements for an interpreting physician under section 354 of the Public Health Service Act as provided in § 410.34(a)(7) may order a diagnostic mammogram based on the findings of a screening mammogram even though the physician does not treat the beneficiary.

@@ -1,0 +1,11 @@
+##### § 2569.507 What should I do if the Eligible Individual dies or becomes incapacitated during the application process? #####
+
+(a) If an Eligible Individual dies during the application process, another individual may continue the application process as a personal representative of the estate of the deceased Eligible Individual by providing to the BLM the materials described in § 2569.404(b)(2).
+
+(b) If an Eligible Individual becomes incapacitated during the application process, another individual may continue the application process as a court-appointed guardian or conservator or as an attorney-in-fact for the Eligible Individual by providing to the BLM the materials described in § 2569.404(b)(3) or (4).
+
+(c) If a deceased or incapacitated Eligible Individual has received a notice from the BLM that requires a response within 60 days, as described in § 2569.410, § 2569.501(e), § 2569.501(h)(3), § 2569.502(b), or § 2569.503(a), and no personal representative, guardian, or conservator has been appointed, or no attorney-in-fact has been designated, the individual who receives the notice, or an employee of the BIA or a Realty Service Provider, may respond to the notice in order to request that the BLM extend the 60-day period to allow for a personal representative, guardian, or conservator to be appointed. The BLM will extend a 60-day period under this paragraph (c) for up to two years.
+
+(d) If the BLM has completed a Draft Plan of Survey as described in § 2569.501(d) or a survey as described in § 2569.501(g), and the estate of the deceased Eligible Individual does not wish to dispute the Draft Plan of Survey as described in § 2569.501(e) or the results of the survey as described in § 2569.501(h), then the BLM will not require a personal representative to be appointed. The BLM will continue to process the application.
+
+(e) Other than as provided in paragraphs (b), (c), and (d) of this section, the BLM will not accept any correspondence on behalf of a deceased or incapacitated Eligible Individual from an individual who has not provided the materials described in § 2569.404(b)(2), (3), or (4).

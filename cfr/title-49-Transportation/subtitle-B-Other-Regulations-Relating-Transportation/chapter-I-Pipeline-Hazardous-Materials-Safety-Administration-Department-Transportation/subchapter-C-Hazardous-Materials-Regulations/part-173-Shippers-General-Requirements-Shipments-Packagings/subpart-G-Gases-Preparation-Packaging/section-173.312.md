@@ -1,5 +1,7 @@
 ##### § 173.312 Requirements for shipment of MEGCs. #####
 
+Link to an amendment published at 85 FR 85419, Dec. 28, 2020.
+
 (a) *General requirements.* (1) Unless otherwise specified, a MEGC is authorized for the shipment of liquefied and non-liquefied compressed gases. Each pressure receptacle contained in a MEGC must meet the requirements in §§ 173.301, 173.301b, 173.302b and 173.304b, as applicable.
 
 (2) The MEGC must conform to the design, construction, inspection and testing requirements prescribed in § 178.75 of this subchapter.

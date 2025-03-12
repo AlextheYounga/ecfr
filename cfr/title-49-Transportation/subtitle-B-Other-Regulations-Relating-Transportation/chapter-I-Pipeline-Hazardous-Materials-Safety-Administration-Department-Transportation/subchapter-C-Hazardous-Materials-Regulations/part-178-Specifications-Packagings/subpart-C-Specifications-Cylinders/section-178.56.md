@@ -1,5 +1,7 @@
 ##### § 178.56 Specification 4AA480 welded steel cylinders. #####
 
+Link to an amendment published at 85 FR 85427, Dec. 28, 2020.
+
 (a) *Type, size, and service pressure.* A DOT 4AA480 cylinder is a welded steel cylinder having a water capacity (nominal) not over 1,000 pounds water capacity and a service pressure of 480 psig. Closures welded by spinning process not permitted.
 
 (b) *Steel.* The limiting chemical composition of steel authorized by this specification must be as shown in table I of appendix A to this part.

@@ -1,5 +1,7 @@
 ##### § 178.44 Specification 3HT seamless steel cylinders for aircraft use. #####
 
+Link to an amendment published at 85 FR 85421, Dec. 28, 2020.
+
 (a) *Type, size and service pressure.* A DOT 3HT cylinder is a seamless steel cylinder with a water capacity (nominal) of not over 150 pounds and a service pressure of at least 900 psig.
 
 (b) *Authorized steel.* Open hearth or electric furnace steel of uniform quality must be used. A heat of steel made under the specifications listed in Table 1 in this paragraph (b), a check chemical analysis that is slightly out of the specified range is acceptable, if satisfactory in all other respects, provided the tolerances shown in Table 2 in this paragraph (b) are not exceeded. The maximum grain size shall be 6 or finer. The grain size must be determined in accordance with ASTM E 112-88 (IBR, see § 171.7 of this subchapter). Steel of the following chemical analysis is authorized:

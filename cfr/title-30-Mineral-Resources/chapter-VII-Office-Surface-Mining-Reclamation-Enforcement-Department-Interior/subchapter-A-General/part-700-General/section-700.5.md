@@ -1,6 +1,6 @@
 ##### § 700.5 Definitions. #####
 
-As used throughout this chapter, the following terms have the specified meaning except where otherwise indicated -
+As used throughout this chapter, the following terms have the specified meaning except where otherwise indicated—
 
 *Act* means the Surface Mining Control and Reclamation Act of 1977 (Pub. L. 95-87).
 
@@ -8,7 +8,7 @@ As used throughout this chapter, the following terms have the specified meaning 
 
 *AML inventory* means OSM's listing of abandoned mine land problems eligible to be reclaimed using moneys from the Abandoned Mine Reclamation Fund or the Treasury as appropriate.
 
-*Anthracite* means coal classified as anthracite in ASTM Standard D 388-77. Coal classifications are published by the American Society of Testing and Materials under the title, *Standard Specification for Classification of Coals by Rank,* ASTM D 388-77, on pages 220 through 224. Table 1 which classifies the coals by rank is presented on page 223. This publication is hereby incorporated by reference as it exists on the date of adoption of these regulations. Notices of changes made to this publication will be periodically published by the Office of Surface Mining in the Federal Register. This ASTM Standard is on file and available for inspection at the OSM Office, U.S. Department of the Interior, South Interior Building, Washington, DC 20240, at each OSM Regional Office, District Office and Field Office, and at the central office of the applicable State Regulatory Authority, if any. Copies of this publication may also be obtained by writing to the above locations. A copy of this publication will also be on file for public inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.\\n.* Incorporation by reference provisions approved by the Director of the Federal Register February 7, 1979. The Director's approval of this incorporation by reference expires on July 1, 1981.
+*Anthracite* means coal classified as anthracite in ASTM Standard D 388-77. Coal classifications are published by the American Society of Testing and Materials under the title, *Standard Specification for Classification of Coals by Rank,* ASTM D 388-77, on pages 220 through 224. Table 1 which classifies the coals by rank is presented on page 223. This publication is hereby incorporated by reference as it exists on the date of adoption of these regulations. Notices of changes made to this publication will be periodically published by the Office of Surface Mining in the Federal Register. This ASTM Standard is on file and available for inspection at the OSM Office, U.S. Department of the Interior, South Interior Building, Washington, DC 20240, at each OSM Regional Office, District Office and Field Office, and at the central office of the applicable State Regulatory Authority, if any. Copies of this publication may also be obtained by writing to the above locations. A copy of this publication will also be on file for public inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* Incorporation by reference provisions approved by the Director of the Federal Register February 7, 1979. The Director's approval of this incorporation by reference expires on July 1, 1981.
 
 *Coal* means combustible carbonaceous rock, classified as anthracite, bituminous, subbituminous, or lignite by ASTM Standard D 388-77, referred to and incorporated by reference in the definition of *Anthracite* immediately above.
 
@@ -48,7 +48,7 @@ As used throughout this chapter, the following terms have the specified meaning 
 
 *Person* means an individual, Indian tribe when conducting surface coal mining and reclamation operations on non-Indian lands, partnership, association, society, joint venture, joint stock company, firm, company, corporation, cooperative or other business organization and any agency, unit, or instrumentality of Federal, State or local government including any publicly owned utility or publicly owned corporation of Federal State or local government.
 
-*Person having an interest which is or may be adversely affected* or *person with a valid legal interest* shall include any person -
+*Person having an interest which is or may be adversely affected* or *person with a valid legal interest* shall include any person—
 
 (a) Who uses any resource of economic, recreational, esthetic, or environmental value that may be adversely affected by coal exploration or surface coal mining and reclamation operations or any related action of the Secretary or the State regulatory authority; or
 
@@ -74,7 +74,7 @@ As used throughout this chapter, the following terms have the specified meaning 
 
 *State regulatory authority* means the department or agency in each State which has primary responsibility at the State level for administering the initial or permanent State regulatory program.
 
-*Surface coal mining operations* mean -
+*Surface coal mining operations* mean—
 
 (a) Activities conducted on the surface of lands in connection with a surface coal mine or, subject to the requirements of section 516 of the Act, surface operations and surface impacts incident to an underground coal mine, the products of which enter commerce or the operations of which directly or indirectly affect interstate commerce. Such activities include excavation for the purpose of obtaining coal, including such common methods as contour, strip, auger, mountain top removal, box cut, open pit, and area mining; the use of explosives and blasting; in situ distillation or retorting; leaching or other chemical or physical processing; and the cleaning, concentrating, or other processing or preparation of coal. Such activities also include the loading of coal for interstate commerce at or near the mine site. *Provided,* these activities do not include the extraction of coal incidental to the extraction of other minerals, where coal does not exceed 162/3 percent of the tonnage of minerals removed for purposes of commercial use or sale, or coal exploration subject to section 512 of the Act; and, *Provided further,* that excavation for the purpose of obtaining coal includes extraction of coal from coal refuse piles; and
 

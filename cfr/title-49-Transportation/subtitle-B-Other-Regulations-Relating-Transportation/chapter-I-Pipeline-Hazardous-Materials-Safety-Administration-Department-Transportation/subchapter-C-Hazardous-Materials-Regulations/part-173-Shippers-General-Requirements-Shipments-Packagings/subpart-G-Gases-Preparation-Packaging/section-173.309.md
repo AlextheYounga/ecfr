@@ -1,5 +1,7 @@
 ##### § 173.309 Fire extinguishers. #####
 
+Link to an amendment published at 85 FR 85419, Dec. 28, 2020.
+
 This section applies to portable fire extinguishers for manual handling and operation, fire extinguishers for installation in aircraft, and large fire extinguishers. *Large fire extinguishers* include fire extinguishers mounted on wheels for manual handling; fire extinguishing equipment or machinery mounted on wheels or wheeled platforms or units transported similar to (small) trailers; and fire extinguishers composed of a non-rollable pressure drum and equipment, and handled, for example, by fork lift or crane when loaded or unloaded.
 
 (a) Specification 3A, 3AA, 3E, 3AL, 4B, 4BA, 4B240ET or 4BW (§§ 178.36, 178.37, 178.42, 178.46, 178.50, 178.51, 178.55 and 178.61 of this subchapter) cylinders are authorized for manufacture and use as fire extinguishers under the following conditions:

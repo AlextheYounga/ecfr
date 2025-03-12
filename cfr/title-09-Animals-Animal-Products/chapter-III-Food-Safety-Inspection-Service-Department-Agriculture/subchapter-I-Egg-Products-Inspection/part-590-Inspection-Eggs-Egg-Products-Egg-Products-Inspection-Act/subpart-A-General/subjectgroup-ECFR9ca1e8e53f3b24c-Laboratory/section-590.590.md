@@ -1,0 +1,3 @@
+##### § 590.590 Use of irradiated shell eggs to produce egg products. #####
+
+Irradiated shell eggs used to produce pasteurized egg products must be used in conjunction with heat or another lethality treatment sufficient to produce egg products that are edible without additional preparation to achieve food safety. Unless otherwise approved by FDA, the irradiation treatment of the shell eggs must precede the heat or other lethality treatment applied to the egg products.

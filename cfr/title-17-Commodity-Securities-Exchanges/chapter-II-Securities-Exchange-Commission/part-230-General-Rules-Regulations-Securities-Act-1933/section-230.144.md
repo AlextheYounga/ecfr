@@ -1,6 +1,6 @@
 ##### § 230.144 Persons deemed not to be engaged in a distribution and therefore not underwriters. #####
 
-Link to an amendment published at 85 FR 68203, Oct. 27, 2020.Preliminary Note:
+Preliminary Note:
 
 Certain basic principles are essential to an understanding of the registration requirements in the Securities Act of 1933 (the Act or the Securities Act) and the purposes underlying Rule 144:
 
@@ -76,7 +76,7 @@ Rule 144 is not an exclusive safe harbor. A person who does not meet all of the 
 
 (ii) Submitted electronically every Interactive Data File (§ 232.11 of this chapter) required to be submitted pursuant to § 232.405 of this chapter, during the 12 months preceding such sale (or for such shorter period that the issuer was required to submit such files); or
 
-(2) *Non-reporting issuers.* If the issuer is not subject to the reporting requirements of section 13 or 15(d) of the Exchange Act, there is publicly available the information concerning the issuer specified in paragraphs (a)(5)(i) to (xiv), inclusive, and paragraph (a)(5)(xvi) of § 240.15c2-11 of this chapter, or, if the issuer is an insurance company, the information specified in section 12(g)(2)(G)(i) of the Exchange Act (15 U.S.C. 78*l*(g)(2)(G)(i)).
+(2) *Non-reporting issuers.* If the issuer is not subject to the reporting requirements of section 13 or 15(d) of the Exchange Act, there is publicly available the information concerning the issuer specified in paragraphs (b)(5)(i)(A) to (N), inclusive, and paragraph (b)(5)(i)(P) of § 240.15c2-11 of this chapter, or, if the issuer is an insurance company, the information specified in section 12(g)(2)(G)(i) of the Exchange Act (15 U.S.C. 78*l*(g)(2)(G)(i)).
 
 Note to § 230.144(c):
 

@@ -1,5 +1,7 @@
 ##### § 178.55 Specification 4B240ET welded or brazed cylinders. #####
 
+Link to an amendment published at 85 FR 85426, Dec. 28, 2020.
+
 (a) *Type, spinning process, size and service pressure.* A DOT 4B240ET cylinder is a brazed type cylinder made from electric resistance welded tubing. The maximum water capacity of this cylinder is 12 pounds or 333 cubic inches and the service must be 240 psig. The maximum outside diameter of the shell must be five inches and maximum length of the shell is 21 inches. Cylinders closed in by a spinning process are authorized.
 
 (b) *Steel.* Open-hearth, basic oxygen, or electric steel of uniform quality must be used. Plain carbon steel content may not exceed the following: Carbon, 0.25; phosphorus, 0.045; sulfur, 0.050. The addition of other elements for alloying effect is prohibited.

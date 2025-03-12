@@ -1,8 +1,6 @@
 ##### § 842.11 Federal inspections and monitoring. #####
 
-Link to an amendment published at 85 FR 75190, Nov. 24, 2020.
-
-(a) Authorized representatives of the Secretary shall conduct inspections of surface coal mining and reclamation operations as necessary -
+(a) Authorized representatives of the Secretary shall conduct inspections of surface coal mining and reclamation operations as necessary—
 
 (1) To monitor and evaluate the administration of approved State programs. Such monitoring and evaluation inspections shall be conducted jointly with the State regulatory authority where practical and where the State so requests;
 
@@ -12,29 +10,29 @@ Link to an amendment published at 85 FR 75190, Nov. 24, 2020.
 
 (4) To determine whether any notice of violation or cessation order issued during an inspection authorized under this section has been complied with.
 
-(b)(1) An authorized representative of the Secretary shall immediately conduct a Federal inspection:
+(b)(1) An authorized representative of the Secretary must immediately conduct a Federal inspection:
 
-(i) When the authorized representative has reason to believe on the basis of information available to him or her (other than information resulting from a previous Federal inspection) that there exists a violation of the Act, this chapter, the applicable program, or any condition of a permit or an exploration approval, or that there exists any condition, practice, or violation which creates an imminent danger to the health or safety of the public or is causing or could reasonably be expected to cause a significant, imminent environmental harm to land, air or water resources and -
+(i) When the authorized representative has reason to believe on the basis of any information readily available to him or her, from any source, including any information a citizen complainant or the relevant State regulatory authority submits (other than information resulting from a previous Federal inspection), that there exists a violation of the Act, this chapter, the State regulatory program, or any condition of a permit or an exploration approval, or that there exists any condition, practice, or violation that creates an imminent danger to the health or safety of the public or is causing or could reasonably be expected to cause a significant, imminent environmental harm to land, air, or water resources; and
 
-(ii)(A) There is no State regulatory authority or the Office is enforcing the State program under section 504(b) or 521(b) of the Act and part 733 of this chapter; or
+(ii)(A) There is no State regulatory authority or the Office is enforcing the State regulatory program under section 504(b) or 521(b) of the Act and part 733 of this chapter; or
 
-(B)(*1*) The authorized representative has notified the state regulatory authority of the possible violation and more than ten days have passed since notification and the State regulatory authority has failed to take appropriate action to cause the violation to be corrected or to show good cause for such failure and to inform the authorized representative of its response. After receiving a response from the State regulatory authority, before inspection, the authorized representative shall determine in writing whether the standards for appropriate action or good cause for such failure have been met. Failure by the State regulatory authority to respond within the ten days shall not prevent the authorized representative from making the determination, and will constitute a waiver of the state regulatory authority's right to request review under paragraph (b)(1)(iii) of this section.
+(B)(*1*) The authorized representative has notified the State regulatory authority of the possible violation and more than ten days have passed since notification, and the State regulatory authority has not taken appropriate action to cause the violation to be corrected or to show good cause for not doing so, or the State regulatory authority has not provided the authorized representative with a response. After receiving a response from the State regulatory authority, but before a Federal inspection, the authorized representative will determine in writing whether the standards for appropriate action or good cause have been satisfied. A State regulatory authority's failure to respond within ten days does not prevent the authorized representative from making a determination, and will constitute a waiver of the State regulatory authority's right to request review under paragraph (b)(1)(iii) of this section.
 
 (*2*) For purposes of this subchapter, an action or response by a State regulatory authority that is not arbitrary, capricious, or an abuse of discretion under the state program shall be considered “appropriate action” to cause a violation to be corrected or “good cause” for failure to do so.
 
-(*3*) Appropriate action includes enforcement or other action authorized under the State program to cause the violation to be corrected.
+(*3*) Appropriate action includes enforcement or other action authorized under the approved State program to cause the violation to be corrected. Appropriate action may include OSMRE and the State regulatory authority immediately and jointly initiating steps to implement corrective action to resolve any issue that the authorized representative and applicable Field Office Director identify as a State regulatory program issue, as defined in 30 CFR part 733.
 
 (*4*) Good cause includes:
 
-(*i*) Under the State program, the possible violation does not exist;
+(*i*) The possible violation does not exist under the State regulatory program;
 
-(*ii*) The State regulatory authority requires a reasonable and specified additional time to determine whether a violation of the State program does exist;
+(*ii*) The State regulatory authority has initiated an investigation into a possible violation and as a result has determined that it requires a reasonable, specified additional amount of time to determine whether a violation exists. When analyzing the State regulatory authority's response for good cause, the authorized representative has discretion to determine how long the State regulatory authority should reasonably be given to complete its investigation of the possible violation and will communicate to the State regulatory authority the date by which the investigation must be completed. At the conclusion of the specified additional time, the authorized representative will re-evaluate the State regulatory authority's response including any additional information provided;
 
-(*iii*) The State regulatory authority lacks jurisdiction under the State program over the possible violation or operation;
+(*iii*) The State regulatory authority demonstrates that it lacks jurisdiction over the possible violation under the State regulatory program;
 
-(*iv*) The State regulatory authority is precluded by an administrative or judicial order from an administrative body or court of competent jurisdiction from acting on the possible violation, where that order is based on the violation not existing or where the temporary relief standards of section 525(c) or 526(c) of the Act have been met; or
+(*iv*) The State regulatory authority demonstrates that it is precluded from taking action on the possible violation because an administrative review body or court of competent jurisdiction has issued an order concluding that the possible violation does not exist or that the temporary relief standards of the State regulatory program counterparts to section 525(c) or 526(c) of the Act have been satisfied; or
 
-(*v*) With regard to abandoned sites as defined in § 840.11(g) of this chapter, the State regulatory authority is diligently pursuing or has exhausted all appropriate enforcement provisions of the State program.
+(*v*) Regarding abandoned sites, as defined in 30 CFR 840.11(g), the State regulatory authority is diligently pursuing or has exhausted all appropriate enforcement provisions of the State regulatory program.
 
 (C) The person supplying the information supplies adequate proof that an imminent danger to the public health and safety or a significant, imminent environmental harm to land, air or water resources exists and that the State regulatory authority has failed to take appropriate action.
 
@@ -44,9 +42,9 @@ Link to an amendment published at 85 FR 75190, Nov. 24, 2020.
 
 (C) After reviewing the written determination of the authorized representative and the request for informal review submitted by the State regulatory authority, the Deputy Director shall, within 15 days, render a decision on the request for informal review. He shall affirm, reverse, or modify the written determination of the authorized representative. Should the Deputy Director decide that the State regulatory authority did not take appropriate action or show good cause, he shall immediately order a Federal inspection or reinspection. The Deputy Director shall provide to the State regulatory authority and to the permittee a written explanation of his decision, and if the ten-day notice resulted from a request for a Federal inspection under § 842.12 of this part, he shall send written notification of his decision to the person who made the request.
 
-(2) An authorized representative shall have reason to believe that a violation, condition or practice exists if the facts alleged by the informant would, if true, constitute a condition, practice or violation referred to in paragraph (b)(1)(i) of this section.
+(2) An authorized representative will have reason to believe that a violation, condition, or practice referred to in paragraph (b)(1)(i) of this section exists if the facts that a complainant alleges, or facts that are otherwise known to the authorized representative, constitute simple and effective documentation of the alleged violation, condition, or practice. In making this determination, the authorized representative will consider any information readily available to him or her, from any source, including any information a citizen complainant or the relevant State regulatory authority submits to the authorized representative.
 
-(c) The Office, when acting as the regulatory authority under a Federal program or a Federal lands program and when enforcing a State program, in whole or in part, pursuant to section 504(b) of section 521(b) of the Act and part 733 of this chapter, shall conduct inspections of all coal exploration and surface coal mining and reclamation operations under its jurisdiction. The Office shall -
+(c) The Office, when acting as the regulatory authority under a Federal program or a Federal lands program and when enforcing a State program, in whole or in part, pursuant to section 504(b) of section 521(b) of the Act and part 733 of this chapter, shall conduct inspections of all coal exploration and surface coal mining and reclamation operations under its jurisdiction. The Office shall—
 
 (1) With respect to active surface coal mining and reclamation operations:
 
@@ -64,7 +62,7 @@ Link to an amendment published at 85 FR 75190, Nov. 24, 2020.
 
 (ii) Conduct such partial inspections of each inactive surface coal mining and reclamation operation as are necessary to ensure effective enforcement of the regulatory program and the Act.
 
-(iii) For purposes of this section, an inactive surface coal mining and reclamation operation is one for which -
+(iii) For purposes of this section, an inactive surface coal mining and reclamation operation is one for which—
 
 (A) The Office has secured from the permittee the written notice provided for under §§ 816.131(b) or 817.131(b) of this chapter; or,
 
@@ -126,4 +124,4 @@ Link to an amendment published at 85 FR 75190, Nov. 24, 2020.
 
 (ii) The public notice shall contain the permittee's name, the permit number, the precise location of the land affected, the inspection frequency proposed, the general reasons for reducing the inspection frequency, the bond status of the permit, the telephone number and address of the office where written comments on the reduced inspection frequency may be submitted, and the closing date of the comment period.
 
-(Pub. L. 95-87, 30 U.S.C. 1201 *et seq.*)[47 FR 35635, Aug. 16, 1982, as amended at 48 FR 44781, Sept. 30, 1983; 53 FR 24882, June 30, 1988; 53 FR 26744, July 14, 1988; 59 FR 60884, Nov. 28, 1994; 75 FR 60276, Sept. 29, 2010]
+(Pub. L. 95-87, 30 U.S.C. 1201 *et seq.*)[47 FR 35635, Aug. 16, 1982, as amended at 48 FR 44781, Sept. 30, 1983; 53 FR 24882, June 30, 1988; 53 FR 26744, July 14, 1988; 59 FR 60884, Nov. 28, 1994; 75 FR 60276, Sept. 29, 2010; 85 FR 75190, Nov. 24, 2020]

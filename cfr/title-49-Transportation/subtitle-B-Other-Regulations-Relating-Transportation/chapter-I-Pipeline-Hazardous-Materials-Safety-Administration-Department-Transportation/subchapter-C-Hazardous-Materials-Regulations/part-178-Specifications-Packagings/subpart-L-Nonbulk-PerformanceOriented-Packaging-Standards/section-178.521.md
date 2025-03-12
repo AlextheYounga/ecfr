@@ -1,7 +1,5 @@
 ##### § 178.521 Standards for paper bags. #####
 
-Link to an amendment published at 85 FR 75716, Nov. 25, 2020.
-
 (a) The following are identification codes for paper bags:
 
 (1) 5M1 for a multi-wall paper bag; and
@@ -16,6 +14,6 @@ Link to an amendment published at 85 FR 75716, Nov. 25, 2020.
 
 (3) Maximum net mass: 50 kg (110 pounds).
 
-(4) UN5M1 and UN5M2 multi wall paper bags that have paper wall basis weights that vary by not more than plus or minus 5% from the nominal basis weight reported in the initial design qualification test report.
+(4) UN5M1 and UN5M2 multi-wall paper bags that have paper wall basis weights that vary by not more than plus or minus 10 percent from the nominal basis weight reported in the initial design qualification test report.
 
-[Amdt. 178-97, 55 FR 52717, Dec. 21, 1990, as amended at 56 FR 66285, Dec. 20, 1991; Amdt. 178-106, 59 FR 67521, Dec. 29, 1994; 79 FR 15046, Mar. 18, 2014]
+[Amdt. 178-97, 55 FR 52717, Dec. 21, 1990, as amended at 56 FR 66285, Dec. 20, 1991; Amdt. 178-106, 59 FR 67521, Dec. 29, 1994; 79 FR 15046, Mar. 18, 2014; 85 FR 75716, Nov. 25, 2020]

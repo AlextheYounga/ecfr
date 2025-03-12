@@ -1,5 +1,7 @@
 ##### § 178.50 Specification 4B welded or brazed steel cylinders. #####
 
+Link to an amendment published at 85 FR 85422, Dec. 28, 2020.
+
 (a) *Type, size, and service pressure.* A DOT 4B is a welded or brazed steel cylinder with longitudinal seams that are forged lap-welded or brazed and with water capacity (nominal) not over 1,000 pounds and a service pressure of at least 150 but not over 500 psig. Cylinders closed in by spinning process are not authorized.
 
 (b) *Steel.* Open-hearth, electric or basic oxygen process steel of uniform quality must be used. Content percent may not exceed the following: Carbon, 0.25; phosphorus, 0.045; sulphur, 0.050.

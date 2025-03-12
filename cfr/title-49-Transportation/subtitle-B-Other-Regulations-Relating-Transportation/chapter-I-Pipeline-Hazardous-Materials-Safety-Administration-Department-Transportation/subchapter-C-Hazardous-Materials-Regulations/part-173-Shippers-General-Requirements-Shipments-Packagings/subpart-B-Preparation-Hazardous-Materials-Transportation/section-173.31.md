@@ -1,6 +1,6 @@
 ##### § 173.31 Use of tank cars. #####
 
-Link to an amendment published at 85 FR 75712, Nov. 25, 2020.Link to an amendment published at 85 FR 83382, Dec. 21, 2020.
+Link to an amendment published at 85 FR 83382, Dec. 21, 2020.
 
 (a) *General.* (1) No person may offer a hazardous material for transportation in a tank car unless the tank car meets the applicable specification and packaging requirements of this subchapter or, when this subchapter authorizes the use of a non-DOT specification tank car, the applicable specification to which the tank was constructed.
 
@@ -21,6 +21,8 @@ Link to an amendment published at 85 FR 75712, Nov. 25, 2020.Link to an amendmen
 (iii) When a tank car delimiter is a “T” offerors may also use tank cars with a delimiter of “J”.
 
 (iv) When a tank car delimiter is a “J”, offerors may not use a tank car with any other delimiter.
+
+(v) When a tank car delimiter is a “H”, offerors may not use a tank car with any other delimiter.
 
 (7) A class DOT-103 or DOT-104 tank car may continue to be used for the transportation of a hazardous material if it meets the requirements of this subchapter and the design requirements in part 179 of this subchapter in effect on September 30, 2003; however, no new construction is authorized.
 
@@ -92,17 +94,19 @@ Link to an amendment published at 85 FR 75712, Nov. 25, 2020.Link to an amendmen
 
 (2) Closures on tank cars are required, in accordance with this subchapter, to be designed and closed so that under conditions normally incident to transportation, including the effects of temperature and vibration, there will be no identifiable release of a hazardous material to the environment. ln any action brought to enforce this section, the lack of securement of any closure to a tool-tight condition, detected at any point, will establish a rebuttable presumption that a proper inspection was not performed by the offeror of the car. That presumption may be rebutted by any evidence indicating that the lack of securement resulted from a specific cause not within the control of the offeror.
 
-(e) *Special requirements for materials poisonous by inhalation* - (1) *Interior heater coils.* Tank cars used for materials poisonous by inhalation may not have interior heater coils.
+(e) *Special requirements for poisonous by inhalation (PIH) material* - (1) *Interior heater coils.* Tank cars used for PIH material may not have interior heater coils.
 
-(2) *Tank car specifications.* A tank car used for a material poisonous by inhalation must have a tank test pressure of 20.7 Bar (300 psig) or greater, head protection, and a metal jacket (*e.g.,* DOT 105S300W), except that -
+(2) *Tank car specifications.* A tank car used for a PIH material must have a tank test pressure of 20.7 Bar (300 psig) or greater, head protection, and a metal jacket (*e.g.,* DOT 105S300W), except that -
 
 (i) A higher test pressure is required if otherwise specified in this subchapter; and
 
 (ii) Each tank car constructed on or after March 16, 2009, and used for the transportation of PIH materials must meet the applicable authorized tank car specifications and standards listed in §§ 173.244(a)(2) or (3) and 173.314(c) or (d).
 
-(iii) [Reserved]
+(iii) A tank car owner retiring or otherwise removing a tank car from service transporting PIH material, other than because of damage to the car, must retire or remove cars constructed of non-normalized steel in the head or shell before removing any car in service transporting PIH materials constructed of normalized steel meeting the applicable DOT specification.
 
-(iv) A tank car owner retiring or otherwise removing a tank car from service transporting materials poisonous by inhalation, other than because of damage to the car, must retire or remove cars constructed of non-normalized steel in the head or shell before removing any car in service transporting materials poisonous by inhalation constructed of normalized steel meeting the applicable DOT specification.
+(3) *Phase-out of non-normalized steel tank cars.* After December 31, 2020, tank cars manufactured with non-normalized steel for head or shell construction may not be used for the transportation of PIH material.
+
+(4) *Phase-out of legacy tank cars.* After December 31, 2027, tank cars not meeting the requirements of §§ 173.244(a)(2) or (3) and 173.314(c) or (d) may not be used for the transportation of PIH material.
 
 (f) *Special requirements for hazardous substances.* (1) A tank car used for a hazardous substance listed in paragraph (f)(2) of this section must have a tank test pressure of at least 13.8 Bar (200 psig), head protection and a metal jacket, except that -
 

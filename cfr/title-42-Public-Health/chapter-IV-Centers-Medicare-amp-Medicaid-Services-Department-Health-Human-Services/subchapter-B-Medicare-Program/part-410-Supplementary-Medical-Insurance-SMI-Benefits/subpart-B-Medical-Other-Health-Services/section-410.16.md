@@ -1,5 +1,7 @@
 ##### § 410.16 Initial preventive physical examination: Conditions for and limitations on coverage. #####
 
+Link to an amendment published at 85 FR 85025, Dec. 28, 2020.
+
 (a) *Definitions.* As used in this section, the following definitions apply:
 
 *Eligible beneficiary* means, for the purposes of this section, an individual who receives his or her initial preventive examination not more than 1 year after the effective date of his or her first Medicare Part B coverage period.

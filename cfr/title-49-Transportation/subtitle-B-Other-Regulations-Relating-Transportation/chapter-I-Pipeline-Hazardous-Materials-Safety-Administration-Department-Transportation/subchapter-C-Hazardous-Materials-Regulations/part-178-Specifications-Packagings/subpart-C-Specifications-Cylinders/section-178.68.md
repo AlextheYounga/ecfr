@@ -1,5 +1,7 @@
 ##### § 178.68 Specification 4E welded aluminum cylinders. #####
 
+Link to an amendment published at 85 FR 85431, Dec. 28, 2020.
+
 (a) *Type, size and service pressure.* A DOT 4E cylinder is a welded aluminum cylinder with a water capacity (nominal) of not over 1,000 pounds and a service pressure of at least 225 to not over 500 psig. The cylinder must be constructed of not more than two seamless drawn shells with no more than one circumferential weld. The circumferential weld may not be closer to the point of tangency of the cylindrical portion with the shoulder than 20 times the cylinder wall thickness. Cylinders or shells closed in by spinning process and cylinders with longitudinal seams are not authorized.
 
 (b) *Authorized material.* The cylinder must be constructed of aluminum of uniform quality. The following chemical analyses are authorized:

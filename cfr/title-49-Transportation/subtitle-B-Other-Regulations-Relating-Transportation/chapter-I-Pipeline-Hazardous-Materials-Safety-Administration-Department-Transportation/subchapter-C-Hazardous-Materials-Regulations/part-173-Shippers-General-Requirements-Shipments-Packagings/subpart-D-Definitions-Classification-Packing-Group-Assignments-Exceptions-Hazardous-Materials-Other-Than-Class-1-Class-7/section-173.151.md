@@ -1,14 +1,12 @@
 ##### § 173.151 Exceptions for Class 4. #####
 
-Link to an amendment published at 85 FR 75714, Nov. 25, 2020.
-
 (a) *General.* Exceptions for hazardous materials shipments in the following paragraphs are permitted only if this section is referenced for the specific hazardous material in the § 172.101 table of this subchapter.
 
 (b) *Limited quantities of Division 4.1.* (1) Limited quantities of flammable solids (Division 4.1) in Packing Groups II and III and, where authorized by this section, charcoal briquettes (Division 4.2) in Packing Group III, are excepted from labeling requirements unless the material is offered for transportation or transported by aircraft, and are excepted from the specification packaging requirements of this subchapter when packaged in combination packagings according to this paragraph. If authorized for transportation by aircraft, the package must also conform to applicable requirements of § 173.27 of this part (*e.g.,* authorized materials, inner packaging quantity limits and closure securement) and only hazardous material authorized aboard passenger-carrying aircraft may be transported as a limited quantity. A limited quantity package that conforms to the provisions of this section is not subject to the shipping paper requirements of subpart C of part 172 of this subchapter, unless the material meets the definition of a hazardous substance, hazardous waste, marine pollutant, or is offered for transportation and transported by aircraft or vessel, and is eligible for the exceptions provided in § 173.156 of this part. In addition, shipments of limited quantities are not subject to subpart F (Placarding) of part 172 of this subchapter. Each package must conform to the packaging requirements of subpart B of this part and may not exceed 30 kg (66 pounds) gross weight. Except for transportation by aircraft, the following combination packagings are authorized:
 
-(i) For flammable solids in Packing Group II, inner packagings not over 1.0 kg (2.2 pounds) net capacity each, packed in a strong outer packaging.
+(i) For flammable solids in Packing Group II, inner packagings not over 1.0 kg (2.2 pounds) or 1 L (0.3 gallon) net capacity each, packed in a strong outer packaging.
 
-(ii) For flammable solids in Packing Group III, inner packagings not over 5.0 kg (11 pounds) net capacity each, packed in a strong outer packaging.
+(ii) For flammable solids in Packing Group III, inner packagings not over 5.0 kg (11 pounds) or 5.0 L (1.3 gallon) net capacity each, packed in a strong outer packaging.
 
 (2) For transportation by highway or rail, Charcoal briquettes (NA1361) may be packaged as a limited quantity in accordance with paragraph (b) of this section in packagings not exceeding 30 kg gross weight and are eligible for the exceptions provided in § 173.156.
 

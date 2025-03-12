@@ -1,7 +1,5 @@
 ##### § 54.315 Application process for Connect America Fund phase II support distributed through competitive bidding. #####
 
-Link to an amendment published at 85 FR 75819, Nov. 25, 2020.
-
 (a) Application to participate in competitive bidding for Phase II support. In addition to providing information specified in § 1.21001(b) of this chapter and any other information required by the Commission, an applicant to participate in competitive bidding for Phase II auction support shall:
 
 (1) Provide ownership information as set forth in § 1.2112(a) of this chapter;
@@ -26,7 +24,7 @@ Link to an amendment published at 85 FR 75819, Nov. 25, 2020.
 
 (ii) If an applicant cannot meet the requirements in paragraph (a)(7)(i) of this section, in the alternative it must submit the audited financial statements from the three most recent fiscal years and a letter of interest from a bank meeting the qualifications set forth in paragraph (c)(2) of this section, that the bank would provide a letter of credit as described in paragraph (c) of this section to the bidder if the bidder were selected for bids of a certain dollar magnitude.
 
-(b) *Application by winning bidders for Phase II auction support* - (1) *Deadline.* As provided by public notice, winning bidders for Phase II auction support shall file an application for Phase II auction support no later than the number of business days specified after the public notice identifying them as winning bidders.
+(b) *Application by winning bidders for Phase II auction support*—(1) *Deadline.* As provided by public notice, winning bidders for Phase II auction support shall file an application for Phase II auction support no later than the number of business days specified after the public notice identifying them as winning bidders.
 
 (2) *Application contents.* An application for Phase II auction support must contain:
 
@@ -88,7 +86,11 @@ Link to an amendment published at 85 FR 75819, Nov. 25, 2020.
 
 (A) That is among the 100 largest non-U.S. banks in the world, determined on the basis of total assets as of the end of the calendar year immediately preceding the issuance of the letter of credit (determined on a U.S. dollar equivalent basis as of such date);
 
-(B) Has a branch office in the District of Columbia or such other branch office agreed to by the Commission;
+(B) Has a branch office:
+
+(*1*) Located in the District of Columbia; or
+
+(*2*) Located in New York City, New York, or such other branch office agreed to by the Commission, that will accept a letter of credit presentation from the Administrator via overnight courier, in addition to in-person presentations;
 
 (C) Has a long-term unsecured credit rating issued by a widely-recognized credit rating agency that is equivalent to a BBB- or better rating by Standard & Poor's; and
 
@@ -102,4 +104,4 @@ Link to an amendment published at 85 FR 75819, Nov. 25, 2020.
 
 (ii) The default will be evidenced by a letter issued by the Chief of the Wireline Competition Bureau or the Wireless Telecommunications Bureau, or their respective designees, which letter, attached to a standby letter of credit draw certificate, shall be sufficient for a draw on the standby letter of credit for the entire amount of the standby letter of credit.
 
-[81 FR 44449, July 7, 2016, as amended at 83 FR 15994, Apr. 13, 2018; 83 FR 18454, Apr. 27, 2018]
+[81 FR 44449, July 7, 2016, as amended at 83 FR 15994, Apr. 13, 2018; 83 FR 18454, Apr. 27, 2018; 85 FR 75819, Nov. 25, 2020]

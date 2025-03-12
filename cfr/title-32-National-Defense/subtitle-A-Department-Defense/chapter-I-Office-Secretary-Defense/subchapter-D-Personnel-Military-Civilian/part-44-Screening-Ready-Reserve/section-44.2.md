@@ -1,3 +1,3 @@
 ##### § 44.2 Applicability. #####
 
-This part applies to the Office of the Secretary of Defense, the Military Departments (including the Coast Guard, when it is not operating as a Military Service in the Navy by agreement with the Department of Transportation), the Chairman of the Joint Chiefs of Staff, the Combatant Commands, the Inspector General of the Department of Defense, the Defense Agencies, the DoD Field Activities and all other organizational entities within the Department of Defense (hereafter referred to collectively as the “DoD Components”). The term “Military Services” as used in this part, refers to the Army, the Navy, the Air Force and the Marine Corps.
+This rule applies to non-Federal employers of Ready Reservists filling key positions.

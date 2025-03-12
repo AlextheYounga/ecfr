@@ -1,5 +1,7 @@
 ##### § 107.805 Approval of cylinder and pressure receptacle requalifiers. #####
 
+Link to an amendment published at 85 FR 85415, Dec. 28, 2020.
+
 (a) *General.* A person must meet the requirements of this section to be approved to inspect, test, certify, repair, or rebuild a cylinder in accordance with a DOT specification or a UN pressure receptacle under subpart C of part 178 or subpart C of part 180 of this chapter, or under the terms of a special permit issued under this part, or a TC, CTC, CRC, or BTC specification cylinder or tube manufactured in accordance with the TDG Regulations (IBR, see § 171.7 of this chapter).
 
 (b) *Independent Inspection Agency Review.* Each applicant must arrange for an independent inspection agency, approved by the Associate Administrator pursuant to this subpart, to perform a review of its inspection or requalification operation. The person seeking approval must bear the cost of the inspection. A list of approved independent inspection agencies is available from the Associate Administrator at the address listed in § 107.705. Assistance in obtaining an approval is available from the same address.

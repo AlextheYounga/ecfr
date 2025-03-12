@@ -1,6 +1,6 @@
 ##### § 173.314 Compressed gases in tank cars and multi-unit tank cars. #####
 
-Link to an amendment published at 85 FR 75715, Nov. 25, 2020.Link to an amendment published at 85 FR 83401, Dec. 21, 2020.
+Link to an amendment published at 85 FR 83401, Dec. 21, 2020.
 
 (a) *Definitions.* For definitions of compressed gases, see § 173.115.
 
@@ -16,48 +16,50 @@ Link to an amendment published at 85 FR 75715, Nov. 25, 2020.Link to an amendmen
 
 (c) *Authorized gases, filling limits for tank cars.* A compressed gas in a tank car or a multi-unit tank car must be offered for transportation in accordance with § 173.31 and this section. The gases listed below must be loaded and offered for transportation in accordance with the following table:
 
+Table 1 to Paragraph (c)
+
 |                         Proper shipping name                          |Outage and filling limits  <br/>(see note 1)|Authorized tank car class  <br/>(see note 11)|Authorized tank car specification  <br/>(see note 12)|
 |-----------------------------------------------------------------------|--------------------------------------------|---------------------------------------------|-----------------------------------------------------|
-|     Ammonia, anhydrous, or ammonia solutions \>50 percent ammonia     |                Notes 2, 10                 |             105, 112, 114, 120              |                 105J500I, 112J500I                  |
+|     Ammonia, anhydrous, or ammonia solutions \>50 percent ammonia     |                Notes 2, 10                 |             105, 112, 114, 120              |                 105H500W, 112H500W                  |
 |                                                                       |                   Note 3                   |                     106                     |                                                     |
 | Ammonia solutions with \>35 percent, but ≤50 percent ammonia by mass  |                   Note 3                   |           105, 109, 112, 114, 120           |                                                     |
 |                           Argon, compressed                           |                   Note 4                   |                     107                     |                                                     |
 |                           Boron trichloride                           |                   Note 3                   |                  105, 106                   |                                                     |
 |                  Carbon dioxide, refrigerated liquid                  |                   Note 5                   |                     105                     |                                                     |
-|                               Chlorine                                |                   Note 6                   |                     105                     |                      105J600I                       |
+|                               Chlorine                                |                   Note 6                   |                     105                     |                      105H600W                       |
 |                                                                       |                    125                     |                     106                     |                                                     |
 |                         Chlorine trifluoride                          |                   Note 3                   |                  106, 110                   |                                                     |
 |                        Chlorine pentafluoride                         |                   Note 3                   |                  106, 110                   |                                                     |
 |                            Dimethyl ether                             |                   Note 3                   |        105, 106, 110, 112, 114, 120         |                                                     |
 |                       Dimethylamine, anhydrous                        |                   Note 3                   |                105, 106, 112                |                                                     |
-|                    Dinitrogen tetroxide, inhibited                    |                   Note 3                   |                105, 106, 112                |                      105J500I                       |
+|                    Dinitrogen tetroxide, inhibited                    |                   Note 3                   |                105, 106, 112                |                      105H500W                       |
 |   Division 2.1 materials not specifically identified in this table    |                Notes 9, 10                 |        105, 106, 110, 112, 114, 120         |                                                     |
 |   Division 2.2 materials not specifically identified in this table    |                   Note 3                   |      105, 106, 109, 110, 112, 114, 120      |                                                     |
-|Division 2.3 Zone A materials not specifically identified in this table|                    None                    |               See § 173.245.                |                      105J600I                       |
-|Division 2.3 Zone B materials not specifically identified in this table|                   Note 3                   |        105, 106, 110, 112, 114, 120         |                      105J600I                       |
-|Division 2.3 Zone C materials not specifically identified in this table|                   Note 3                   |        105, 106, 110, 112, 114, 120         |                      105J500I                       |
-|Division 2.3 Zone D materials not specifically identified in this table|                   Note 3                   |      105, 106, 109, 110, 112, 114, 120      |                 105J500I, 112J500I                  |
+|Division 2.3 Zone A materials not specifically identified in this table|                    None                    |               See § 173.245.                |                      105H600W                       |
+|Division 2.3 Zone B materials not specifically identified in this table|                   Note 3                   |        105, 106, 110, 112, 114, 120         |                      105H600W                       |
+|Division 2.3 Zone C materials not specifically identified in this table|                   Note 3                   |        105, 106, 110, 112, 114, 120         |                      105H500W                       |
+|Division 2.3 Zone D materials not specifically identified in this table|                   Note 3                   |      105, 106, 109, 110, 112, 114, 120      |                 105H500W, 112H500H                  |
 |                              Ethylamine                               |                   Note 3                   |        105, 106, 110, 112, 114, 120         |                                                     |
 |                          Helium, compressed                           |                   Note 4                   |                     107                     |                                                     |
 |                               Hydrogen                                |                   Note 4                   |                     107                     |                                                     |
-|                Hydrogen chloride, refrigerated liquid                 |                   Note 7                   |                     105                     |                 105J600I, 112S600I                  |
-|                           Hydrogen sulfide                            |                   Note 3                   |        105, 106, 110, 112, 114, 120         |                      105J600I                       |
+|                Hydrogen chloride, refrigerated liquid                 |                   Note 7                   |                     105                     |                 105H600W, 112H600W                  |
+|                           Hydrogen sulfide                            |                   Note 3                   |        105, 106, 110, 112, 114, 120         |                      105H600W                       |
 |                      Hydrogen sulfide, liquefied                      |                     68                     |                     106                     |                                                     |
-|                            Methyl bromide                             |                   Note 3                   |                  105, 106                   |                      105J500I                       |
+|                            Methyl bromide                             |                   Note 3                   |                  105, 106                   |                      105H500W                       |
 |                            Methyl chloride                            |                   Note 3                   |                105, 106, 112                |                                                     |
-|                           Methyl mercaptan                            |                   Note 3                   |                  105, 106                   |                      105J500I                       |
+|                           Methyl mercaptan                            |                   Note 3                   |                  105, 106                   |                      105H500W                       |
 |                        Methylamine, anhydrous                         |                   Note 3                   |                105, 106, 112                |                                                     |
 |                         Nitrogen, compressed                          |                   Note 4                   |                     107                     |                                                     |
-|                           Nitrosyl chloride                           |                    124                     |                     105                     |                      105J500I                       |
+|                           Nitrosyl chloride                           |                    124                     |                     105                     |                      105H500W                       |
 |                                                                       |                    110                     |                     106                     |                                                     |
 |                  Nitrous oxide, refrigerated liquid                   |                   Note 5                   |                     105                     |                                                     |
 |                          Oxygen, compressed                           |                   Note 4                   |                     107                     |                                                     |
 |                               Phosgene                                |                   Note 3                   |                     106                     |                                                     |
-|                       Sulfur dioxide, liquefied                       |                    125                     |                105, 106, 110                |                      105J500I                       |
+|                       Sulfur dioxide, liquefied                       |                    125                     |                105, 106, 110                |                      105H500W                       |
 |                           Sulfuryl fluoride                           |                    120                     |                     105                     |                                                     |
 |                      Vinyl fluoride, stabilized                       |                   Note 8                   |                     105                     |                                                     |
 
-Notes: 1. The percent filling density for liquefied gases is hereby defined as the percent ratio of the mass of gas in the tank to the mass of water that the tank will hold. For determining the water capacity of the tank in kilograms, the mass of 1 L of water at 15.5 °C in air is 1 kg. (the mass of one gallon of water at 60 °F in air is 8.32828 pounds).
+Notes to table 1 to paragraph (c): 1. The percent filling density for liquefied gases is hereby defined as the percent ratio of the mass of gas in the tank to the mass of water that the tank will hold. For determining the water capacity of the tank in kilograms, the mass of 1 L of water at 15.5 °C in air is 1 kg. (the mass of one gallon of water at 60 °F in air is 8.32828 pounds).
 
 2. The liquefied gas must be loaded so that the outage is at least two percent of the total capacity of the tank at the reference temperature of 46 °C (115 °F) for a noninsulated tank; 43 °C (110 °F) for a tank having a thermal protection system incorporating a metal jacket that provides an overall thermal conductance at 15.5 °C (60 °F) of no more than 10.22 kilojoules per hour per square meter per degree Celsius (0.5 Btu per hour/per square foot/per degree F) temperature differential; and 41 °C (105 °F) for an insulated tank having an insulation system incorporating a metal jacket that provides an overall thermal conductance at 15.5 °C (60 °F) of no more than 1.5333 kilojoules per hour per square meter per degree Celsius (0.075 Btu per hour/per square foot/per degree F) temperature differential.
 

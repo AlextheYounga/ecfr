@@ -1,5 +1,7 @@
 ##### § 178.38 Specification 3B seamless steel cylinders. #####
 
+Link to an amendment published at 85 FR 85420, Dec. 28, 2020.
+
 (a) *Type, size, and service pressure.* A DOT 3B cylinder is seamless steel cylinder with a water capacity (nominal) of not over 1,000 pounds and a service pressure of at least 150 to not over 500 psig.
 
 (b) *Steel.* Open-hearth or electric steel of uniform quality must be used. Content percent may not exceed the following: carbon, 0.55; phosphorus, 0.045; sulphur, 0.050.

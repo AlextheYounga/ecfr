@@ -1,6 +1,6 @@
 ##### § 180.213 Requalification markings. #####
 
-Link to an amendment published at 85 FR 75716, Nov. 25, 2020.
+Link to an amendment published at 85 FR 85435, Dec. 28, 2020.
 
 (a) *General.* Each cylinder or UN pressure receptacle requalified in accordance with this subpart with acceptable results must be marked as specified in this section. Required specification markings may not be altered or removed.
 
@@ -34,7 +34,7 @@ Link to an amendment published at 85 FR 75716, Nov. 25, 2020.
 
 (1) Upon written request, variation from the marking requirement may be approved by the Associate Administrator.
 
-(2) Exception. A cylinder subject to the requirements of § 171.23(a)(4) of this subchapter may not be marked with a RIN.
+(2) Exception: A cylinder subject to the requirements of § 171.23(a)(5) of this subchapter may not be marked with a RIN.
 
 (e) *Size of markings.* The size of the markings must be at least 6.35 mm (1/4 in.) high, except RIN characters must be at least 3.18 mm (1/8 in.) high.
 
@@ -58,4 +58,4 @@ Link to an amendment published at 85 FR 75716, Nov. 25, 2020.
 
 (9) For designation of the eddy current examination combined with a visual inspection, the marking is as illustrated in paragraph (d) of this section, except the “X” is replaced with the letters “VE.”
 
-[67 FR 51660, Aug. 8, 2002, as amended at 70 FR 73166, Dec. 9, 2005; 71 FR 33896, June 12, 2006; 71 FR 51128, Aug. 29, 2006; 71 FR 78635, Dec. 29, 2006; 75 FR 53597, Sept. 1, 2010; 80 FR 72929, Nov. 23, 2015; 81 FR 3686, Jan. 21, 2016]
+[67 FR 51660, Aug. 8, 2002, as amended at 70 FR 73166, Dec. 9, 2005; 71 FR 33896, June 12, 2006; 71 FR 51128, Aug. 29, 2006; 71 FR 78635, Dec. 29, 2006; 75 FR 53597, Sept. 1, 2010; 80 FR 72929, Nov. 23, 2015; 81 FR 3686, Jan. 21, 2016; 85 FR 75716, Nov. 25, 2020]

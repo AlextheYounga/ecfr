@@ -1,0 +1,3 @@
+##### § 590.955 Labeling of shipping containers of egg products offered for entry. #####
+
+Shipping containers of imported egg products are required to bear in a prominent and legible manner the name of the product, the name of the country of origin, the foreign inspection system plant number of the plant in which the product was processed, shipping or identification marks, production codes, and the inspection mark of the country or origin. Labeling on shipping containers must be examined at the time of inspection in the United States and if found to be false or misleading, the product must be refused entry.

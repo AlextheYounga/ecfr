@@ -1,0 +1,5 @@
+##### § 442.4 Testing of scales. #####
+
+(a) The operator of each official establishment that weighs meat or poultry food products will cause such scales to be tested for accuracy in accordance with the technical requirements of NIST Handbook 44, at least once during the calendar year. In cases where the scales are found not to maintain accuracy between tests, more frequent tests may be required and verified by an authorized USDA program official.
+
+(b) The operator of each official establishment shall display on or near each scale a valid certification of the scale's accuracy from a State or local government's weights and measures authority or from a State registered or licensed scale repair firm or person, or shall have alternative documented procedures showing that the scale has been tested for accuracy in accordance with the requirements of NIST Handbook 44.

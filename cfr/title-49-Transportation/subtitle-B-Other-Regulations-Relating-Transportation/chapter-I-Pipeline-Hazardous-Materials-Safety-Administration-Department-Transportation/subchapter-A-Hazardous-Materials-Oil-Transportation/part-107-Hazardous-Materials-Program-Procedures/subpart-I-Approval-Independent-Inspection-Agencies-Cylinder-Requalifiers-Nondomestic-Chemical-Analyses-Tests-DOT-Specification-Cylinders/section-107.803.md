@@ -1,5 +1,7 @@
 ##### § 107.803 Approval of an independent inspection agency (IIA). #####
 
+Link to an amendment published at 85 FR 85415, Dec. 28, 2020.
+
 (a) *General.* Prior to performing cylinder inspections and verifications required by parts 178 and 180 of this chapter, a person must apply to the Associate Administrator for an approval as an independent inspection agency. A person approved as an independent inspection agency is not an PHMSA agent or representative.
 
 (b) *Criteria.* No applicant for approval as an independent inspection agency may be engaged in the manufacture of cylinders for use in the transportation of hazardous materials, or be directly or indirectly controlled by, or have a financial involvement with, any entity that manufactures cylinders for use in the transportation of hazardous materials, except for providing services as an independent inspector.

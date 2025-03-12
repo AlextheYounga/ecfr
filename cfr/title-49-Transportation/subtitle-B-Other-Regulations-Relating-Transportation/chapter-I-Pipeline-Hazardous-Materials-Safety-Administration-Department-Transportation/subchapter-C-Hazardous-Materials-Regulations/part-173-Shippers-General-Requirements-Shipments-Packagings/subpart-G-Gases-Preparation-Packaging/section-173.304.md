@@ -1,8 +1,8 @@
 ##### § 173.304 Filling of cylinders with liquefied compressed gases. #####
 
-Link to an amendment published at 85 FR 75714, Nov. 25, 2020.
+Link to an amendment published at 85 FR 85416, Dec. 28, 2020.
 
-(a) *General requirements.* A cylinder filled with a liquefied compressed gas (except gas in solution) must be offered for transportation in accordance with the requirements of this section and the general requirements in § 173.301. In addition, a DOT specification cylinder must meet the requirement in §§ 173.301a, 173.304a, and 173.305, as applicable. UN pressure receptacles must be shipped in accordance with the requirements in 173.301b and 173.304b, as applicable.
+(a) *General requirements.* Except as provided in § 171.23(a)(3) of this subchapter, a cylinder filled with a liquefied compressed gas (except gas in solution) must be offered for transportation in accordance with the requirements of this section and the general requirements in § 173.301 of this subpart. In addition, a DOT specification cylinder must meet the requirement in §§ 173.301a, 173.304a, and 173.305 of this subpart, as applicable. UN pressure receptacles must be shipped in accordance with the requirements in §§ 173.301b and 173.304b of this subpart, as applicable.
 
 (1) A DOT 3AL cylinder may not be used for any material with a primary or subsidiary hazard of Class 8.
 
@@ -44,4 +44,4 @@ Link to an amendment published at 85 FR 75714, Nov. 25, 2020.
 
 (6) A cylinder of compressed oxygen that has been furnished by an aircraft operator to a passenger in accordance with 14 CFR 121.574, 125.219, or 135.91 is excepted from the outer packaging requirements of paragraph (f)(3) of this section.
 
-[67 FR 51647, Aug. 8, 2002, as amended at 68 FR 24661, May 8, 2003; 71 FR 33883, June 12, 2006; 72 FR 55098, Sept. 28, 2007; 74 FR 53188, Oct. 16, 2009; 76 FR 56317, Sept. 13, 2011; 78 FR 60754, Oct. 2, 2013; 81 FR 3676, Jan. 21, 2016]
+[67 FR 51647, Aug. 8, 2002, as amended at 68 FR 24661, May 8, 2003; 71 FR 33883, June 12, 2006; 72 FR 55098, Sept. 28, 2007; 74 FR 53188, Oct. 16, 2009; 76 FR 56317, Sept. 13, 2011; 78 FR 60754, Oct. 2, 2013; 81 FR 3676, Jan. 21, 2016; 85 FR 75714, Nov. 25, 2020]

@@ -1,5 +1,7 @@
 ##### § 425.602 Establishing, adjusting, and updating the benchmark for an ACO's first agreement period beginning on or before January 1, 2018. #####
 
+Link to an amendment published at 85 FR 85042, Dec. 28, 2020.
+
 (a) *Computing per capita Medicare Part A and Part B benchmark expenditures.* For agreement periods beginning on or before January 1, 2018, in computing an ACO's fixed historical benchmark that is adjusted for historical growth and beneficiary characteristics, including health status, CMS determines the per capita Parts A and B fee-for-service expenditures for beneficiaries that would have been assigned to the ACO in any of the 3 most recent years prior to the agreement period using the ACO participants' TINs identified at the start of the agreement period. CMS does all of the following:
 
 (1) Calculates the payment amounts included in Parts A and B fee-for-service claims using a 3-month claims run out with a completion factor.

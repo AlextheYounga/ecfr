@@ -1,12 +1,10 @@
 ##### § 54.5 Terms and definitions. #####
 
-Link to an amendment published at 85 FR 75817, Nov. 25, 2020.
-
 Terms used in this part have the following meanings:
 
 *Act.* The term “Act” refers to the Communications Act of 1934, as amended.
 
-*Administrator.* The term “Administrator” shall refer to the Universal Service Administrative Company that is an independent subsidiary of the National Exchange Carrier Association, Inc., and that has been appointed the permanent Administrator of the federal universal service support mechanisms.
+*Administrator.* The term “Administrator” or “USAC” shall refer to the Universal Service Administrative Company that is an independent subsidiary of the National Exchange Carrier Association, Inc., and that has been appointed the permanent Administrator of the federal universal service support mechanisms.
 
 *Community anchor institutions.* For the purpose of high-cost support, “community anchor institutions” refers to schools, libraries, health care providers, community colleges, other institutions of higher education, and other community support organizations and entities.
 
@@ -16,7 +14,7 @@ Terms used in this part have the following meanings:
 
 *Eligible telecommunications carrier.* “Eligible telecommunications carrier” means a carrier designated as such under subpart C of this part.
 
-*High-cost support.* “High-cost support” refers to those support mechanisms in existence as of October 1, 2011, specifically, high-cost loop support, safety net additive and safety valve provided pursuant to subpart F of part 36, local switching support pursuant to § 54.301, forward-looking support pursuant to § 54.309, interstate access support pursuant to §§ 54.800 through 54.809, and interstate common line support pursuant to §§ 54.901 through 54.904, support provided pursuant to §§ 51.915, 51.917, and 54.304, support provided to competitive eligible telecommunications carriers as set forth in § 54.307(e), Connect America Fund support provided pursuant to § 54.312, and Mobility Fund support provided pursuant to subpart L of this part.
+*High-cost support.* “High-cost support” refers to those support mechanisms in existence as of October 1, 2011, specifically, high-cost loop support, safety net additive and safety valve provided pursuant to subpart F of part 36, local switching support pursuant to § 54.301, forward-looking support pursuant to § 54.309, interstate access support pursuant to §§ 54.800 through 54.809, and interstate common line support pursuant to §§ 54.901 through 54.904, support provided pursuant to §§ 51.915, 51.917, and 54.304, support provided to competitive eligible telecommunications carriers as set forth in § 54.307(e), Connect America Fund support provided pursuant to § 54.312, and Mobility Fund and 5G Fund support provided pursuant to subpart L of this part.
 
 *Incumbent local exchange carrier.* “Incumbent local exchange carrier” or “ILEC” has the same meaning as that term is defined in § 51.5 of this chapter.
 
@@ -46,6 +44,8 @@ Terms used in this part have the following meanings:
 
 *LAN.* “LAN” is a local area network, which is a set of high-speed links connecting devices, generally computers, on a single shared medium, usually on the user's premises.
 
+*Mobile competitive eligible telecommunications carrier.* A “mobile competitive eligible telecommunications carrier” is a carrier that meets the definition of a “competitive eligible telecommunications carrier” in this section and that provides a terrestrial-based service meeting the definition of “commercial mobile radio service” in § 51.5 of this chapter.
+
 *Qualifying competitor.* A “qualifying competitor” is a facilities-based terrestrial provider of residential fixed voice and broadband service access meeting or exceeding 3 Mbps downstream and 768 kbps upstream.
 
 *Rate-of-return carrier.* “Rate-of-return carrier” shall refer to any incumbent local exchange carrier not subject to price cap regulation as that term is defined in § 61.3(ee) of this chapter.
@@ -66,7 +66,7 @@ Terms used in this part have the following meanings:
 
 *Telecommunications service.* “Telecommunications service” is the offering of telecommunications for a fee directly to the public, or to such classes of users as to be effectively available directly to the public, regardless of the facilities used.
 
-*Tribal lands.* For the purposes of high-cost support, “Tribal lands” include any federally recognized Indian tribe's reservation, pueblo or colony, including former reservations in Oklahoma, Alaska Native regions established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688) and Indian Allotments, *see* § 54.400(e), as well as Hawaiian Home Lands - areas held in trust for native Hawaiians by the state of Hawaii, pursuant to the Hawaiian Homes Commission Act, 1920, July 9, 1921, 42 Stat 108, *et seq.,* as amended.
+*Tribal lands.* For the purposes of high-cost support, “Tribal lands” include any federally recognized Indian tribe's reservation, pueblo or colony, including former reservations in Oklahoma, Alaska Native regions established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688) and Indian Allotments, see § 54.400(e), as well as Hawaiian Home Lands—areas held in trust for native Hawaiians by the state of Hawaii, pursuant to the Hawaiian Homes Commission Act, 1920, July 9, 1921, 42 Stat 108, *et seq.,* as amended, and any land designated as such by the Commission.
 
 *Unsubsidized competitor.* An “unsubsidized competitor” is a facilities-based provider of residential fixed voice and broadband service that does not receive high-cost support.
 

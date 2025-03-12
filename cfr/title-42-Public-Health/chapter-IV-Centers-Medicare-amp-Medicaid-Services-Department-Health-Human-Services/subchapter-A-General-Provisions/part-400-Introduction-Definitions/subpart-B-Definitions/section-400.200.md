@@ -1,5 +1,7 @@
 ##### § 400.200 General definitions. #####
 
+Link to an amendment published at 85 FR 85025, Dec. 28, 2020.
+
 In this chapter, unless the context indicates otherwise -
 
 *Act* means the Social Security Act, and titles referred to are titles of that Act.

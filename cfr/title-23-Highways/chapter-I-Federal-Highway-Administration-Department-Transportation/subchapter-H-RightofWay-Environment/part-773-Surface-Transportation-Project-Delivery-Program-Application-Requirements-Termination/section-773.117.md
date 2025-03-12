@@ -1,5 +1,7 @@
 ##### § 773.117 Termination. #####
 
+Link to an amendment published at 85 FR 84226, Dec. 28, 2020.
+
 (a) *Termination by the Operating Administration.* An Operating Administration(s) that approved the State's participation in the Program may terminate the State's participation if the Operating Administration(s) determines that the State is not adequately carrying out the responsibilities assigned to the State. Examples of situations where such a finding may be made include: persistent neglect of, or noncompliance with, any Federal laws, regulations, and policies; failure to address deficiencies identified during the audit or monitoring process; failure to secure or maintain adequate personnel and/or financial resources to carry out the responsibilities assumed; intentional noncompliance with the terms of the MOU(s); and persistent failure to adequately consult, coordinate, and/or take into account the concerns of other Operating Administrations, when applicable, and appropriate Federal, State, tribal, and local agencies with oversight, consulting, or coordination responsibilities under Federal environmental laws and regulations.
 
 (1) The Operating Administration(s) may rely on the auditing and monitoring reports as sources for a finding that the State is not adequately carrying out its responsibilities. The Operating Administration(s) may also rely on information on noncompliance obtained outside the auditing and monitoring process.

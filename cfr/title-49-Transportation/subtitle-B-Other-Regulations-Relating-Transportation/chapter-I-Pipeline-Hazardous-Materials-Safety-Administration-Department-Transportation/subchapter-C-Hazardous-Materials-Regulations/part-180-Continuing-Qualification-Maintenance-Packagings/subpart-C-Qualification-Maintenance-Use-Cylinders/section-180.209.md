@@ -1,6 +1,6 @@
 ##### § 180.209 Requirements for requalification of specification cylinders. #####
 
-Link to an amendment published at 85 FR 75716, Nov. 25, 2020.
+Link to an amendment published at 85 FR 85434, Dec. 28, 2020.
 
 (a) *Periodic qualification of cylinders.* Each specification cylinder that becomes due for periodic requalification, as specified in the following table, must be requalified and marked in conformance with the requirements of this subpart. Requalification records must be maintained in accordance with § 180.215. Table 1 follows:
 
@@ -115,7 +115,7 @@ Table 1 to Paragraph (a) - Requalification of Cylinders<sup>1</sup>
 
 (1) It has been inspected, tested and marked (with only the month and year of test) in conformance with the procedures and requirements of this subpart or the Associate Administrator has authorized the filling company to fill foreign cylinders under an alternative method of qualification; and
 
-(2) It is offered for transportation in conformance with the requirements of § 171.12(a)(4) or § 171.23(a)(4) of this subchapter.
+(2) It is offered for transportation in conformance with the requirements of §§ 171.12(a)(4) or 171.23(a)(5) of this subchapter.
 
 (m) *DOT-3AL cylinders manufactured of 6351-T6 aluminum alloy.* In addition to the periodic requalification and marking described in § 180.205, each cylinder manufactured of aluminum alloy 6351-T6 used in self-contained underwater breathing apparatus (SCUBA), self-contained breathing apparatus (SCBA), or oxygen service must be requalified and inspected for sustained load cracking in accordance with the non-destructive examination method described in the following table. Each cylinder with sustained load cracking that has expanded into the neck threads must be condemned in accordance with § 180.205(i). This provision does not apply to cylinders used for carbon dioxide, fire extinguisher or other industrial gas service.
 
@@ -129,4 +129,4 @@ Requalification and Inspection of DOT-3AL Cylinders Made of Aluminum Alloy 6351-
 
 <sup>2</sup> The eddy current must be applied from the inside of the cylinder's neck to detect any sustained load cracking that has expanded into the neck threads.
 
-[67 FR 51660, Aug. 8, 2002, as amended at 68 FR 24662, May 8, 2003; 68 FR 55544, Sept. 26, 2003; 68 FR 48572, Aug. 14, 2003; 68 FR 75764, Dec. 31, 2003; 70 FR 73166, Dec. 9, 2005; 71 FR 51128, Aug. 29, 2005; 72 FR 55696, Oct. 1, 2007; 74 FR 53189, Oct. 16, 2009; 81 FR 3685, Jan. 21, 2016; 81 FR 35545, June 2, 2016; 85 FR 68797, Oct. 30, 2020]Editorial Note:At 71 FR 54397, Sept. 14, 2006, § 180.209 was amended in (a)(1) table 1; however, because of the inaccurate amendatory language, the amendment could not be incorporated.
+[67 FR 51660, Aug. 8, 2002, as amended at 68 FR 24662, May 8, 2003; 68 FR 55544, Sept. 26, 2003; 68 FR 48572, Aug. 14, 2003; 68 FR 75764, Dec. 31, 2003; 70 FR 73166, Dec. 9, 2005; 71 FR 51128, Aug. 29, 2005; 72 FR 55696, Oct. 1, 2007; 74 FR 53189, Oct. 16, 2009; 81 FR 3685, Jan. 21, 2016; 81 FR 35545, June 2, 2016; 85 FR 68797, Oct. 30, 2020; 85 FR 75716, Nov. 25, 2020]Editorial Note:At 71 FR 54397, Sept. 14, 2006, § 180.209 was amended in (a)(1) table 1; however, because of the inaccurate amendatory language, the amendment could not be incorporated.

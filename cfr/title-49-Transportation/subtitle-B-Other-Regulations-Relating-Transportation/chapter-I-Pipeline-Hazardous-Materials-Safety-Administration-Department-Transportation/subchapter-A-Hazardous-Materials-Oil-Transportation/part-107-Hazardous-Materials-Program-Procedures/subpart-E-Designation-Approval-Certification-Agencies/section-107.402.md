@@ -1,7 +1,5 @@
 ##### § 107.402 Application for designation as a certification agency. #####
 
-Link to an amendment published at 85 FR 75704, Nov. 25, 2020.
-
 (a) Any organization or person seeking to be approved as a certification agency must apply in writing to the Associate Administrator for Hazardous Materials Safety (PHH-32), Department of Transportation, East Building, 1200 New Jersey Avenue SE., Washington DC 20590-0001. Alternatively, the application in an appropriate format may be submitted by facsimile (fax) to: (202) 366-3753 or (202) 366-3308 or by electronic mail (email) to: *approvals@dot.gov.* Each application must be signed and certified to be correct by the applicant or, if the applicant is an organization, by an authorized officer or official representative of the organization. Any false statement or representation, or the knowing and willful concealment of a material fact, may subject the applicant to prosecution under the provisions of 18 U.S.C. 1001, and result in the denial or termination of a designation.
 
 (b) Each application for approval as a certification agency must be in English and include the following information:
@@ -32,9 +30,9 @@ Link to an amendment published at 85 FR 75704, Nov. 25, 2020.
 
 (4) If the applicant's principal place of business is in a country other than the United States, a copy of the designation from the Competent Authority of that country delegating to the applicant an approval or designated agency authority for the type of packaging for which a DOT designation is sought, and a statement that the Competent Authority also delegates similar authority to U.S. Citizens or organizations having designations under this subpart from PHMSA.
 
-(d) *Fireworks Certification Agency.* Prior to reviewing, and certifying Division 1.4G consumer fireworks (UN0336) for compliance with the APA Standard 87-1 (IBR, see § 171.7 of this chapter) as specified in part 173 of this chapter, a person must apply to, and be approved by, the Associate Administrator to act as an Fireworks Certification Agency.
+(d) *Fireworks Certification Agency.* Prior to reviewing, and certifying Division 1.4G consumer fireworks (UN0336) for compliance with the APA 87-1A, excluding appendices II through VI, (IBR, see § 171.7 of this chapter) as specified in part 173 of this chapter, a person must apply to, and be approved by, the Associate Administrator to act as a Fireworks Certification Agency.
 
-(1) *Fireworks Certification Agency applicant requirements.* The Fireworks Certification Agency applicant must -
+(1) *Fireworks Certification Agency applicant requirements.* The Fireworks Certification Agency applicant must—
 
 (i) Be a U.S. resident, or for a non-U.S. resident, have a designated U.S. agent representative as specified in § 105.40 of this subchapter;
 
@@ -48,7 +46,7 @@ Link to an amendment published at 85 FR 75704, Nov. 25, 2020.
 
 (iv) Must be independent of and not owned by any consumer fireworks manufacturer, distributor, import or export company, or proprietorship.
 
-(2) *Fireworks Certification Agency application submittal requirements.* In addition to the requirements of paragraphs (b) and (d)(1) of this section, the Fireworks Certification Agency application must include -
+(2) *Fireworks Certification Agency application submittal requirements.* In addition to the requirements of paragraphs (b) and (d)(1) of this section, the Fireworks Certification Agency application must include—
 
 (i) Name, address, and country of each facility where Division 1.4G consumer fireworks applications are reviewed and certified;
 
@@ -76,4 +74,4 @@ Link to an amendment published at 85 FR 75704, Nov. 25, 2020.
 
 (3) A statement indicating that the agency is independent of and not owned by a portable tank or MEGC manufacturer, owner, or distributor.
 
-[78 FR 42473, July 16, 2013, as amended at 78 FR 60750, Oct. 2, 2013; 81 FR 35512, June 2, 2016]
+[78 FR 42473, July 16, 2013, as amended at 78 FR 60750, Oct. 2, 2013; 81 FR 35512, June 2, 2016; 85 FR 75704, Nov. 25, 2020]

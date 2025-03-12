@@ -20,14 +20,24 @@
 
 (d) Any proposed settlement, regardless of amount or circumstances, must be referred to the Deputy Attorney General or the Associate Attorney General, as appropriate:
 
-(1) When, for any reason, the compromise of a particular claim would, as a practical matter, control or adversely influence the disposition of other claims and the compromise of all the claims taken together would exceed the authority delegated by paragraph (a) of this section; or
+(1) When, for any reason, the compromise of a particular claim would, as a practical matter, control or adversely influence the disposition of other claims and the compromise of all the claims taken together would exceed the authority delegated by paragraph (a) of this section;
 
 (2) When the Assistant Attorney General concerned is of the opinion that because of a question of law or policy presented, or because of opposition to the proposed settlement by a department or agency involved, or for any other reason, the proposed settlement should receive the personal attention of the Deputy Attorney General or the Associate Attorney General, as appropriate;
 
 (3) When the proposed settlement converts into a mandatory duty the otherwise discretionary authority of a department or agency to promulgate, revise, or rescind regulations;
 
-(4) When the proposed settlement commits a department or agency to expend funds that Congress has not appropriated and that have not been budgeted for the action in question, or commits a department or agency to seek particular appropriation or budget authorization; or
+(4) When the proposed settlement commits a department or agency to expend funds that Congress has not appropriated and that have not been budgeted for the action in question, or commits a department or agency to seek particular appropriation or budget authorization;
 
-(5) When the proposed settlement otherwise limits the discretion of a department or agency to make policy or managerial decisions committed to the department or agency by Congress or by the Constitution.
+(5) When the proposed settlement otherwise limits the discretion of a department or agency to make policy or managerial decisions committed to the department or agency by Congress or by the Constitution; or
 
-[Order No. 1958-95, 60 FR 15674, Mar. 27, 1995, as amended by Order No. 3001-2008, 73 FR 54947, Sept. 24, 2008; AG Order No. 3532-2015, 80 FR 30618, May 29, 2015]
+(6) When a proposed settlement of a civil action includes a consent decree with a State or local governmental entity that would:
+
+(i) Place a court in a long-term position of monitoring compliance by a State or local governmental entity;
+
+(ii) Create long-term structural or programmatic obligations, or long-term, indeterminate financial obligations, for a State or local governmental entity; or
+
+(iii) Otherwise raise novel questions of law or policy that merit review by senior Department leadership.
+
+(e) As used in paragraph (d)(6) of this section, “long-term” means that the obligations, on their face or in practice, are reasonably likely to take 24 months or longer to satisfy. Paragraph (d)(6) of this section does not apply where use of a consent decree is required by statute or regulation or the consent decree is limited to the payment of a sum certain of money or performance of a specific environmental removal action.
+
+[Order No. 1958-95, 60 FR 15674, Mar. 27, 1995, as amended by Order No. 3001-2008, 73 FR 54947, Sept. 24, 2008; AG Order No. 3532-2015, 80 FR 30618, May 29, 2015; AG Order No. 4926-2020, 85 FR 84230, Dec. 28, 2020]

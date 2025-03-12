@@ -1,5 +1,7 @@
 ##### § 425.611 Adjustments to Shared Savings Program calculations to address the COVID-19 pandemic. #####
 
+Link to an amendment published at 85 FR 85044, Dec. 28, 2020.
+
 (a) *General.* This section describes adjustments CMS makes to Shared Savings Program calculations to address the impact of the COVID-19 pandemic.
 
 (b) *Episodes of care for treatment of COVID-19.* (1) CMS identifies an episode of care for treatment of COVID-19 based on either of the following:

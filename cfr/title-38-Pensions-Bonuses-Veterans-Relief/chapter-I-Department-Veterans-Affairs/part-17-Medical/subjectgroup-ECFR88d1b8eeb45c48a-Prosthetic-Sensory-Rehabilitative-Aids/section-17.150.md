@@ -1,5 +1,7 @@
 ##### § 17.150 Prosthetic and similar appliances. #####
 
+Link to an amendment published at 85 FR 84259, Dec. 28, 2020.
+
 Artificial limbs, braces, orthopedic shoes, hearing aids, wheelchairs, medical accessories, similar appliances including invalid lifts and therapeutic and rehabilitative devices, and special clothing made necessary by the wearing of such appliances, may be purchased, made or repaired for any veteran upon a determination of feasibility and medical need, provided:
 
 (a) *As part of outpatient care.* The appliances or repairs are a necessary part of outpatient care for which the veteran is eligible under 38 U.S.C. 1710 and 38 CFR 17.93 (or a necessary part of outpatient care authorized under § 17.94) or

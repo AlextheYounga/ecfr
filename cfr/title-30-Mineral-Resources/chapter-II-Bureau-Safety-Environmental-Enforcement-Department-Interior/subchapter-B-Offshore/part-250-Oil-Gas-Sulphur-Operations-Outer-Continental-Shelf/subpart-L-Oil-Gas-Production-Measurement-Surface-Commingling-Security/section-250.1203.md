@@ -1,5 +1,7 @@
 ##### § 250.1203 Gas measurement. #####
 
+Link to an amendment published at 85 FR 84237, Dec. 28, 2020.
+
 (a) *To which meters do BSEE requirements for gas measurement apply?* BSEE requirements for gas measurements apply to all OCS gas royalty and allocation meters.
 
 (b) *What are the requirements for measuring gas?* You must:

@@ -1,6 +1,6 @@
 ##### § 171.8 Definitions and abbreviations. #####
 
-Link to an amendment published at 85 FR 75704, Nov. 25, 2020.Link to an amendment published at 85 FR 83374, Dec. 21, 2020.
+Link to an amendment published at 85 FR 83374, Dec. 21, 2020.
 
 In this subchapter,
 
@@ -772,6 +772,8 @@ The term does not include petroleum, including crude oil or any fraction thereof
 *Viscous liquid* means a liquid material which has a measured viscosity in excess of 2500 centistokes at 25 °C. (77 °F.) when determined in accordance with the procedures specified in ASTM Method D 445-72 “Kinematic Viscosity of Transparent and Opaque Liquids (and the Calculation of Dynamic Viscosity)” or ASTM Method D 1200-70 “Viscosity of Paints, Varnishes, and Lacquers by Ford Viscosity Cup.”
 
 *Volatility* refers to the relative rate of evaporation of materials to assume the vapor state.
+
+*Waste material* means, for the purposes of lab pack requirements in § 173.12 of this subchapter, all hazardous materials which are destined for disposal or recovery, and not so limited to only those defined as a hazardous waste in this section.
 
 *Water reactive material.* See § 173.124(c) of this subchapter.
 

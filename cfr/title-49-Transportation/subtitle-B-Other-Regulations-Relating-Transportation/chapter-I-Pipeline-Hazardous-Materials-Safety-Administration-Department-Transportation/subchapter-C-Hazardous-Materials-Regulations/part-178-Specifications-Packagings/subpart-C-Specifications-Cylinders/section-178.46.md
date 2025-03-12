@@ -1,5 +1,7 @@
 ##### § 178.46 Specification 3AL seamless aluminum cylinders. #####
 
+Link to an amendment published at 85 FR 85421, Dec. 28, 2020.
+
 (a) *Size and service pressure.* A DOT 3AL cylinder is a seamless aluminum cylinder with a maximum water capacity of 1000 pounds and minimum service pressure of 150 psig.
 
 (b) *Authorized material and identification of material.* The material of construction must meet the following conditions:

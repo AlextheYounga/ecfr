@@ -26,4 +26,6 @@ Link to an amendment published at 85 FR 75917, Nov. 27, 2020.
 
 (c) Beginning July 1, 2013, notwithstanding any other provision of the Commission's rules, all Competitive Local Exchange Carrier Access Reciprocal Compensation rates for switched exchange access services subject to this subpart shall be no higher than the Access Reciprocal Compensation rates charged by the competing incumbent local exchange carrier, in accordance with the same procedures specified in § 61.26 of this chapter.
 
-[76 FR 73856, Nov. 29, 2011, as amended at 77 FR 48452, Aug. 14, 2012]
+(d) *Cap on Database Query Charge.* A Competitive Local Exchange Carrier assessing a tariffed intrastate or interstate Toll Free Database Query Charge shall cap such charge at the rate in effect on December 28, 2020.
+
+[76 FR 73856, Nov. 29, 2011, as amended at 77 FR 48452, Aug. 14, 2012; 85 FR 75917, Nov. 27, 2020]

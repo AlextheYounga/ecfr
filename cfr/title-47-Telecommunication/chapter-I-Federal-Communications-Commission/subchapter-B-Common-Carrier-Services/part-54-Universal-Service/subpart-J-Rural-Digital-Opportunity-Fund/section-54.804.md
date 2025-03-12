@@ -1,7 +1,5 @@
 ##### § 54.804 Rural Digital Opportunity Fund application process. #####
 
-Link to an amendment published at 85 FR 75822, Nov. 25, 2020.
-
 (a) In addition to providing information specified in § 1.21001(b) of this chapter and any other information required by the Commission, any applicant to participate in competitive bidding for Rural Digital Opportunity Fund support shall:
 
 (1) Provide ownership information as set forth in § 1.2112(a) of this chapter;
@@ -28,7 +26,7 @@ Link to an amendment published at 85 FR 75822, Nov. 25, 2020.
 
 (8) Certify that the applicant has performed due diligence concerning its potential participation in the Rural Digital Opportunity Fund.
 
-(b) Application by winning bidders for Rural Digital Opportunity Fund support -
+(b) Application by winning bidders for Rural Digital Opportunity Fund support—
 
 (1) *Deadline.* As provided by public notice, winning bidders for Rural Digital Opportunity Fund support or their assignees shall file an application for Rural Digital Opportunity Fund support no later than the number of business days specified after the public notice identifying them as winning bidders.
 
@@ -102,7 +100,11 @@ Link to an amendment published at 85 FR 75822, Nov. 25, 2020.
 
 (A) That is among the 100 largest non-U.S. banks in the world, determined on the basis of total assets as of the end of the calendar year immediately preceding the issuance of the letter of credit (determined on a U.S. dollar equivalent basis as of such date);
 
-(B) Has a branch office in the District of Columbia or such other branch office agreed to by the Commission;
+(B) Has a branch office:
+
+(*1*) Located in the District of Columbia; or
+
+(*2*) Located in New York City, New York, or such other branch office agreed to by the Commission, that will accept a letter of credit presentation from the Administrator via overnight courier, in addition to in-person presentations;
 
 (C) Has a long-term unsecured credit rating issued by a widely-recognized credit rating agency that is equivalent to a BBB− or better rating by Standard & Poor's; and
 
@@ -115,3 +117,5 @@ Link to an amendment published at 85 FR 75822, Nov. 25, 2020.
 (i) Failure by a Rural Digital Opportunity Fund support recipient to meet its service milestones for the location totals determined by the Connect America Cost Model, or the location total that is adjusted by the Wireline Competition Bureau for those areas where there are fewer locations than the number of locations determined by the Connect America Cost Model, as required by § 54.802 will trigger reporting obligations and the withholding of support as described in § 54.320(d). Failure to come into full compliance during the relevant cure period as described in §§ 54.320(d)(1)(iv)(B) or 54.320(d)(2) will trigger a recovery action by the Universal Service Administrative Company as described in § 54.320(d)(1)(iv)(B) or § 54.806(c)(1)(i), as applicable. If the Rural Digital Opportunity Fund recipient does not repay the requisite amount of support within six months, the Universal Service Administrative Company will be entitled to draw the entire amount of the letter of credit and may disqualify the Rural Digital Opportunity Fund support recipient from the receipt of Rural Digital Opportunity Fund support or additional universal service support.
 
 (ii) The default will be evidenced by a letter issued by the Chief of the Wireline Competition Bureau, or its respective designees, which letter, attached to a standby letter of credit draw certificate, shall be sufficient for a draw on the standby letter of credit for the entire amount of the standby letter of credit.
+
+[85 FR 13798, Mar. 10, 2020, as amended at 85 FR 75822, Nov. 25, 2020]

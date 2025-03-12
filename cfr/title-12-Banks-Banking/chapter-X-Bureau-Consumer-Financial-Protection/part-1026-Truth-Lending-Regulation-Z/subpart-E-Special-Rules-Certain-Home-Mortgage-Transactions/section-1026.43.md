@@ -1,7 +1,5 @@
 ##### § 1026.43 Minimum standards for transactions secured by a dwelling. #####
 
-Link to an amendment published at 85 FR 67958, Oct. 26, 2020.
-
 (a) *Scope.* This section applies to any consumer credit transaction that is secured by a dwelling, as defined in § 1026.2(a)(19), including any real property attached to a dwelling, other than:
 
 (1) A home equity line of credit subject to § 1026.40;
@@ -386,7 +384,7 @@ Link to an amendment published at 85 FR 67958, Oct. 26, 2020.
 
 (iii) *Sunset of special rules.* (A) Each respective special rule described in paragraph (e)(4)(ii)(B), (C), (D), or (E) of this section shall expire on the effective date of a rule issued by each respective agency pursuant to its authority under TILA section 129C(b)(3)(ii) to define a qualified mortgage.
 
-(B) Unless otherwise expired under paragraph (e)(4)(iii)(A) of this section, the special rules in this paragraph (e)(4) are available only for covered transactions consummated on or before January 10, 2021.
+(B) Unless otherwise expired under paragraph (e)(4)(iii)(A) of this section, the special rules in this paragraph (e)(4) are available only for covered transactions for which the creditor receives the consumer's application before the mandatory compliance date of a final rule issued by the Bureau amending paragraph (e)(2) of this section. The Bureau will also amend this paragraph prior to that mandatory compliance date to reflect the new status.
 
 (5) *Qualified mortgage defined - small creditor portfolio loans.* (i) Notwithstanding paragraph (e)(2) of this section, a qualified mortgage is a covered transaction:
 
@@ -508,4 +506,4 @@ Link to an amendment published at 85 FR 67958, Oct. 26, 2020.
 
 (h) *Evasion; open-end credit.* In connection with credit secured by a consumer's dwelling that does not meet the definition of open-end credit in § 1026.2(a)(20), a creditor shall not structure the loan as an open-end plan to evade the requirements of this section.
 
-[78 FR 6584, Jan. 30, 2013, as amended at 78 FR 35502, June 12, 2013; 78 FR 44718, July 24, 2013; 78 FR 60442, Oct. 1, 2013; 78 FR 63005, Oct. 23, 2013; 79 FR 65323, Nov. 3, 2014; 80 FR 59968, Oct. 2, 2015]
+[78 FR 6584, Jan. 30, 2013, as amended at 78 FR 35502, June 12, 2013; 78 FR 44718, July 24, 2013; 78 FR 60442, Oct. 1, 2013; 78 FR 63005, Oct. 23, 2013; 79 FR 65323, Nov. 3, 2014; 80 FR 59968, Oct. 2, 2015; 85 FR 67958, Oct. 26, 2020]

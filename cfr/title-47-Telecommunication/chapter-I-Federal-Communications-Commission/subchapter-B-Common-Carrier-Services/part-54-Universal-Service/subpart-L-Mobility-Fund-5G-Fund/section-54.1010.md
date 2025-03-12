@@ -1,0 +1,3 @@
+##### § 54.1010 Record retention for Mobility Fund Phase I. #####
+
+A winning bidder authorized to receive Mobility Fund Phase I support and its agents are required to retain any documentation prepared for, or in connection with, the award of Mobility Fund Phase I support for a period of not less than ten (10) years after the date on which the winning bidder receives its final disbursement of Mobility Fund Phase I support.

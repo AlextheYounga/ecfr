@@ -1,5 +1,7 @@
 ##### § 415.174 Exception: Evaluation and management services furnished in certain centers. #####
 
+Link to an amendment published at 85 FR 85037, Dec. 28, 2020.
+
 (a) In the case of certain evaluation and management codes of lower and mid-level complexity (as specified by CMS in program instructions), carriers may make physician fee schedule payment for a service furnished by a resident without the presence of a teaching physician. For the exception to apply, all of the following conditions must be met:
 
 (1) The services must be furnished in a center that is located in an outpatient department of a hospital or another ambulatory care entity in which the time spent by residents in patient care activities is included in determining intermediary payments to a hospital under §§ 413.75 through 413.83.

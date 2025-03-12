@@ -1,14 +1,12 @@
 ##### § 173.28 Reuse, reconditioning and remanufacture of packagings. #####
 
-Link to an amendment published at 85 FR 75712, Nov. 25, 2020.
-
 (a) *General.* Packagings and receptacles used more than once must be in such condition, including closure devices and cushioning materials, that they conform in all respects to the prescribed requirements of this subchapter. Before reuse, each packaging must be inspected and may not be reused unless free from incompatible residue, rupture, or other damage which reduces its structural integrity. Packagings not meeting the minimum thickness requirements prescribed in paragraph (b)(4)(i) of this section may not be reused or reconditioned for reuse.
 
 (b) *Reuse of non-bulk packaging.* A non-bulk packaging used more than once must conform to the following provisions and limitations:
 
 (1) A non-bulk packaging which, upon inspection, shows evidence of a reduction in integrity may not be reused unless it is reconditioned in accordance with paragraph (c) of this section.
 
-(2) Before reuse, packagings subject to the leakproofness test with air prescribed in § 178.604 of this subchapter shall be -
+(2) Before reuse, packagings subject to the leakproofness test with air prescribed in § 178.604 of this subchapter shall be—
 
 (i) Retested without failure in accordance with § 178.604 of this subchapter using an internal air pressure (gauge) of at least 48 kPa (7.0 psig) for Packing Group I and 20 kPa (3.0 psig) for Packing Group II and Packing Group III; and
 
@@ -16,7 +14,7 @@ Link to an amendment published at 85 FR 75712, Nov. 25, 2020.
 
 (3) Packagings made of paper (other than fiberboard), plastic film, or textile are not authorized for reuse;
 
-(4) Metal and plastic drums and jerricans used as single packagings or the outer packagings of composite packagings are authorized for reuse only when they are marked in a permanent manner (e.g., embossed) in mm with the nominal (for metal packagings) or minimum (for plastic packagings) thickness of the packaging material, as required by § 178.503(a)(9) of this subchapter, and -
+(4) Metal and plastic drums and jerricans used as single packagings or the outer packagings of composite packagings are authorized for reuse only when they are marked in a permanent manner (e.g., embossed) in mm with the nominal (for metal packagings) or minimum (for plastic packagings) thickness of the packaging material, as required by § 178.503(a)(9) of this subchapter, and—
 
 (i) Except as provided in paragraph (b)(4)(ii) of this section, conform to the following minimum thickness criteria:
 
@@ -28,7 +26,7 @@ Link to an amendment published at 85 FR 75712, Nov. 25, 2020.
 |          40 L           |         0.73 mm (0.029 inch)          |1.8 mm (0.071 inch).|
 |          60 L           |         0.92 mm (0.036 inch)          |1.8 mm (0.071 inch).|
 |          120 L          |         0.92 mm (0.036 inch)          |2.2 mm (0.087 inch).|
-|          220 L          |   0.92 mm (0.036 inch)<sup>1</sup>    |2.2 mm (0.087 inch).|
+|          220 L          |   0.92 mm (0.036 inch) <sup>1</sup>   |2.2 mm (0.087 inch).|
 |          450 L          |         1.77 mm (0.070 inch)          |5.0 mm (0.197 inch).|
 
 1 Metal drums or jerricans with a minimum thickness of 0.82 mm body and 1.09 mm heads which are manufactured and marked prior to January 1, 1997 may be reused. Metal drums or jerricans manufactured and marked on or after January 1, 1997, and intended for reuse, must be constructed with a minimum thickness of 0.82 mm body and 1.11 mm heads.
@@ -41,7 +39,7 @@ Formula for Metric Units![](/graphics/ep26jn96.000.gif)Formula for U.S. Standard
 
 (6) A previously used non-bulk packaging may be reused for the shipment of hazardous waste, not subject to the reconditioning and reuse provisions of this section, in accordance with § 173.12(c).
 
-(7) Notwithstanding the provisions of paragraph (b)(2) of this section, a packaging otherwise authorized for reuse may be reused without being leakproofness tested with air provided the packaging -
+(7) Notwithstanding the provisions of paragraph (b)(2) of this section, a packaging otherwise authorized for reuse may be reused without being leakproofness tested with air provided the packaging—
 
 (i) Is refilled with a material which is compatible with the previous lading:
 
@@ -49,7 +47,7 @@ Formula for Metric Units![](/graphics/ep26jn96.000.gif)Formula for U.S. Standard
 
 (iii) Is transported in a transport vehicle or freight container under the exclusive use of the refiller of the packaging; and
 
-(iv) Is constructed of -
+(iv) Is constructed of—
 
 (A) Stainless steel, monel or nickel with a thickness not less than one and one-half times the minimum thickness prescribed in paragraph (b)(4) of this section;
 
@@ -59,7 +57,7 @@ Formula for Metric Units![](/graphics/ep26jn96.000.gif)Formula for U.S. Standard
 
 (c) *Reconditioning of non-bulk packaging.* (1) For the purpose of this subchapter, reconditioning of metal drums is:
 
-(i) Cleaning to base material of construction, with all former contents, internal and external corrosion, and any external coatings and labels removed;
+(i) Cleaning to base material of construction, with all former contents, internal and external corrosion removed, and any external coatings and labels sufficiently removed to expose any metal deterioration that adversely affects transportation safety;
 
 (ii) Restoring to original shape and contour, with chimes (if any) straightened and sealed, and all non-integral gaskets replaced: and
 

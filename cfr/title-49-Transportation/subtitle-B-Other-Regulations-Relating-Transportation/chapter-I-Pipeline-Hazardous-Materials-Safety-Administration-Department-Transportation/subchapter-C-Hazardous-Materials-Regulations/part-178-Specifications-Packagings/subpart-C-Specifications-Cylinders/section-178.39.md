@@ -1,5 +1,7 @@
 ##### § 178.39 Specification 3BN seamless nickel cylinders. #####
 
+Link to an amendment published at 85 FR 85420, Dec. 28, 2020.
+
 (a) *Type, size and service pressure.* A DOT 3BN cylinder is a seamless nickel cylinder with a water capacity (nominal) not over 125 pounds water capacity (nominal) and a service pressure at least 150 to not over 500 psig.
 
 (b) *Nickel.* The percentage of nickel plus cobalt must be at least 99.0 percent.
