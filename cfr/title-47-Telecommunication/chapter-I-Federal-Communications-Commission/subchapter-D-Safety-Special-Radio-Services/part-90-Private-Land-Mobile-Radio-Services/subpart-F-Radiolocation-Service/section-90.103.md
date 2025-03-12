@@ -1,7 +1,5 @@
 ##### § 90.103 Radiolocation Service. #####
 
-Link to an amendment published at 82 FR 43871, Sept. 20, 2017.
-
 (a) *Eligibility.* The following persons are eligible for authorizations in- the Radiolocation Service to operate stations to determine distance, direction, speed, or position by means of radiolocation devices, for purposes other than navigation:
 
 (1) Any person engaged in a commercial, industrial, scientific, educational, or local government activity
@@ -57,7 +55,6 @@ Radiolocation Service Frequency Table
 |15,700 to 17,300 |          ......do          |          |
 |24,050 to 24,250 |          ......do          |12, 22, 24|
 |33,400 to 36,000 |          ......do          |    12    |
-|  78,000-81,000  |          .....do           |    30    |
 
 (c) Explanation of assignment limitations appearing in the frequency table of paragraph (b) of this section:
 

@@ -1,10 +1,8 @@
-##### § 15.252 Operation of wideband vehicular radar systems within the bands 16.2-17.7 GHz and 23.12-29.0 GHz. #####
+##### § 15.252 Operation of wideband vehicular radar systems within the band 23.12-29.0 GHz. #####
 
-Link to an amendment published at 82 FR 43870, September 20, 2017.
+(a) Operation under this section is limited to field disturbance sensors that are mounted in terrestrial transportation vehicles. Terrestrial use is limited to earth surface-based, non-aviation applications.
 
-(a) Operation under this section is limited to field disturbance sensors that are mounted in terrestrial transportation vehicles. Terrestrial use is limited to earth surface-based, non-aviation applications. Operation within the 16.2-17.7 GHz band is limited to field disturbance sensors that are used only for back-up assistance and that operate only when the vehicle is engaged in reverse.
-
-(1) The −10 dB bandwidth of the fundamental emission shall be located within the 16.2-17.7 GHz band or within the 23.12-29.0 GHz band, exclusive of the 23.6-24.0 GHz restricted band, as appropriate, under all conditions of operation including the effects from stepped frequency, frequency hopping or other modulation techniques that may be employed as well as the frequency stability of the transmitter over expected variations in temperature and supply voltage.
+(1) The −10 dB bandwidth of the fundamental emissions shall be located within the 23.12-29.0 GHz band, exclusive of the 23.6-24.0 GHz restricted band, as appropriate, under all conditions of operation including the effects from stepped frequency, frequency hopping or other modulation techniques that may be employed as well as the frequency stability of the transmitter over expected variations in temperature and supply voltage.
 
 (2) The −10 dB bandwidth of the fundamental emission shall be 10 MHz or greater. For transmitters that employ frequency hopping, stepped frequency or similar modulation types, measurement of the −10 dB minimum bandwidth specified in this paragraph shall be made with the frequency hop or step function disabled and with the transmitter operating continuously at a fundamental frequency following the provisions of § 15.31(m).
 
@@ -14,16 +12,7 @@ Link to an amendment published at 82 FR 43870, September 20, 2017.
 
 (b) Emissions from a transmitter operating under this section shall not exceed the following equivalent isotropically radiated power (EIRP) density levels:
 
-(1) For transmitters operating in the 16.2-17.7 GHz band, the RMS average radiated emissions above 960 MHz from a device operating under the provisions of this section shall not exceed the following EIRP limits based on measurements using a 1 MHz resolution bandwidth:
-
-|Frequency in MHz|EIRP in dBm|
-|----------------|-----------|
-|    960-1610    |   −75.3   |
-|  1610-16,200   |   −61.3   |
-| 16,200-17,700  |   −41.3   |
-|  Above 17,700  |   −61.3   |
-
-(2) For transmitters operating in the 23.12-29.0 GHz band, the RMS average radiated emissions above 960 MHz from a device operating under the provisions of this section shall not exceed the following EIRP limits based on measurements using a 1 MHz resolution bandwidth:
+(1) For transmitters operating in the 23.12-29.0 GHz band, the RMS average radiated emissions above 960 MHz from a device operating under the provisions of this section shall not exceed the following EIRP limits based on measurements using a 1 MHz resolution bandwidth:
 
 |Frequency in MHz|EIRP in dBm|
 |----------------|-----------|
@@ -32,20 +21,20 @@ Link to an amendment published at 82 FR 43870, September 20, 2017.
 | 23,120-23,600  |   −41.3   |
 | 23,600-24,000  |   −61.3   |
 | 24,000-29,000  |   −41.3   |
-|  Above 29,000  |  \- 61.3  |
+|  Above 29,000  |   —61.3   |
 
-(3) In addition to the radiated emission limits specified in the tables in paragraphs (b)(1) and (b)(2) of this section, transmitters operating under the provisions of this section shall not exceed the following RMS average EIRP limits when measured using a resolution bandwidth of no less than 1 kHz:
+(2) In addition to the radiated emissions limits specified in the table in paragraph (b)(1) of this section, transmitters operating under the provisions of this section shall not exceed the following RMS average EIRP limits when measured using a resolution bandwidth of no less than 1 kHz:
 
 |Frequency in MHz|EIRP in dBm|
 |----------------|-----------|
 |   1164-1240    |   −85.3   |
 |   1559-1610    |   −85.3   |
 
-(4) There is a limit on the peak level of the emissions contained within a 50 MHz bandwidth centered on the frequency at which the highest radiated emission occurs and this 50 MHz bandwidth must be contained within the 16.2-17.7 GHz band or the 24.05-29.0 GHz band, as appropriate. The peak EIRP limit is 20 log (RBW/50) dBm where RBW is the resolution bandwidth in MHz employed by the measurement instrument. RBW shall not be lower than 1 MHz or greater than 50 MHz. Further, RBW shall not be greater than the −10 dB bandwidth of the device under test. For transmitters that employ frequency hopping, stepped frequency or similar modulation types, measurement of the −10 dB minimum bandwidth specified in this paragraph shall be made with the frequency hop or step function disabled and with the transmitter operating continuously at a fundamental frequency. The video bandwidth of the measurement instrument shall not be less than RBW. The limit on peak emissions applies to the 50 MHz bandwidth centered on the frequency at which the highest level radiated emission occurs. If RBW is greater than 3 MHz, the application for certification shall contain a detailed description of the test procedure, the instrumentation employed in the testing, and the calibration of the test setup.
+(3) There is a limit on the peak level of the emissions contained within a 50 MHz bandwidth centered on the frequency at which the highest radiated emission occurs and this 50 MHz bandwidth must be contained within the 24.05-29.0 GHz band. The peak EIRP limit is 20 log (RBW/50) dBm where RBW is the resolution bandwidth in MHz employed by the measurement instrument. RBW shall not be lower than 1 MHz or greater than 50 MHz. Further, RBW shall not be greater than the −10 dB bandwidth of the device under test. For transmitters that employ frequency hopping, stepped frequency or similar modulation types, measurement of the −10 dB minimum bandwidth specified in this paragraph shall be made with the frequency hop or step function disabled and with the transmitter operating continuously at a fundamental frequency. The video bandwidth of the measurement instrument shall not be less than RBW. The limit on peak emissions applies to the 50 MHz bandwidth centered on the frequency at which the highest level radiated emission occurs. If RBW is greater than 3 MHz, the application for certification shall contain a detailed description of the test procedure, the instrumentation employed in the testing, and the calibration of the test setup.
 
-(5) Radiated emissions at or below 960 MHz shall not exceed the emission levels in § 15.209.
+(4) Radiated emissions at or below 960 MHz shall not exceed the emission levels in § 15.209.
 
-(6) Emissions from digital circuitry used to enable the operation of the transmitter may comply with the limits in § 15.209 provided it can be clearly demonstrated that those emissions are due solely to emissions from digital circuitry contained within the transmitter and the emissions are not intended to be radiated from the transmitter's antenna. Emissions from associated digital devices, as defined in § 15.3(k) , e.g., emissions from digital circuitry used to control additional functions or capabilities other than the operation of the transmitter, are subject to the limits contained in subpart B of this part. Emissions from these digital circuits shall not be employed in determining the −10 dB bandwidth of the fundamental emission or the frequency at which the highest emission level occurs.
+(5) Emissions from digital circuitry used to enable the operation of the transmitter may comply with the limits in § 15.209 provided it can be clearly demonstrated that those emissions are due solely to emissions from digital circuitry contained within the transmitter and the emissions are not intended to be radiated from the transmitter's antenna. Emissions from associated digital devices, as defined in § 15.3(k) , e.g., emissions from digital circuitry used to control additional functions or capabilities other than the operation of the transmitter, are subject to the limits contained in subpart B of this part. Emissions from these digital circuits shall not be employed in determining the −10 dB bandwidth of the fundamental emission or the frequency at which the highest emission level occurs.
 
 (c) Measurement procedures:
 
@@ -59,4 +48,6 @@ Link to an amendment published at 82 FR 43870, September 20, 2017.
 
 (5) Alternative measurement procedures may be considered by the Commission.
 
-[70 FR 6775, Feb. 9, 2005]
+(d) Wideband vehicular radar systems operating in the 23.12-29.0 GHz band are subject to the transition provisions of § 15.37(l) through (n).
+
+[70 FR 6775, Feb. 9, 2005, as amended at 82 FR 43870, Sept. 20, 2017]

@@ -1,7 +1,5 @@
 ##### § 15.37 Transition provisions for compliance with the rules. #####
 
-Link to an amendment published at 82 FR 43870, September 20, 2017.
-
 (a) The manufacture or importation of scanning receivers, and frequency converters designed or marketed for use with scanning receivers, that do not comply with the provisions of § 15.121 shall cease on or before October 25, 1999. Effective July 26, 1999, the Commission will not grant equipment authorization for receivers that do not comply with the provisions of § 15.121. This paragraph does not prohibit the sale or use of authorized receivers manufactured in the United States, or imported into the United States, prior to October 25, 1999.
 
 (b) Effective October 16, 2002, an equipment approval may no longer be obtained for medical telemetry equipment operating under the provisions of § 15.241 or § 15.242. The requirements for obtaining an approval for medical telemetry equipment after this date are found in subpart H of part 95 of this chapter.
@@ -32,4 +30,22 @@ Link to an amendment published at 82 FR 43870, September 20, 2017.
 
 (4) The consumer disclosure text described in paragraph (k)(1) of this section is set forth as an appendix to this section.
 
-[77 FR 4913, Feb. 1, 2012, as amended at 78 FR 34927, June 11, 2013; 79 FR 24578, May 1, 2014; 80 FR 71728, Nov. 17, 2015; 80 FR 73068, Nov. 23, 2015; 82 FR 41559, Sept. 1, 2017]Effective Date Note:At 80 FR 71728, Nov. 17, 2015, § 15.37(k) was added. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+(l) The certification of wideband vehicular radars designed to operate in the 23.12-29 GHz band under § 15.252 and ultra-wideband vehicular radars designed to operate in the 22-29 GHz band under § 15.515 shall not be permitted on or after September 20, 2018.
+
+(m) The manufacture, importation, marketing, sale, and installation of wideband or ultra-wideband vehicular radars that are designed to operate in the 23.12-29 GHz band under § 15.252 and/or in the 22-29 GHz band under § 15.515 shall not be permitted after January 1, 2022. Notwithstanding the foregoing, sale and installation of such radars is permitted, for the life of the vehicle, when the following conditions have been met:
+
+(1) The sale and installation is for the exclusive purpose of repairing or replacing defective, damaged, or potentially malfunctioning radars that are designed to operate in the 23.12-29 GHz band under § 15.252 and/or in the 22-29 GHz band under § 15.515;
+
+(2) The equipment being repaired or replaced has been installed in the vehicle on or before January 1, 2022; and
+
+(3) It is not possible to replace the vehicular radar equipment designed to operate in the 23.12-29 GHz and/or 22-29 GHz bands with vehicular radar equipment designed to operate in the 76-81 GHz band.
+
+(n) Wideband or ultra-wideband vehicular radars operating in the 23.12-29 GHz band under § 15.252 and/or in the 22-29 GHz band under § 15.515 that are already installed or in use may continue to operate in accordance with their previously obtained certification. Class II permissive changes for such equipment shall not be permitted after January 1, 2022.
+
+(o) Applicable July 13, 2017, the certification, manufacture, importation, marketing, sale, and installation of field disturbance sensors that are designed to operate in the 16.2-17.7 GHz and 46.7-46.9 GHz bands shall not be permitted. Field disturbance sensors already installed or in use in the 16.2-17.7 GHz band may continue to operate in accordance with their previously obtained certification. Class II permissive changes shall not be permitted for such equipment.
+
+(p) Effective October 20, 2017, the certification under this part of vehicular radars and fixed radar systems used in airport air operations areas that are designed to operate in the 76-77 GHz band shall not be permitted. Vehicular radars and fixed radar systems used in airport air operations areas operating in the 76-77 GHz band that are already installed or in use may continue to operate in accordance with their previously obtained certification. Any future certification, or any change of already issued certification and operations of such equipment, shall be under part 95, subpart M, of this chapter.
+
+[77 FR 4913, Feb. 1, 2012, as amended at 78 FR 34927, June 11, 2013; 79 FR 24578, May 1, 2014; 80 FR 71728, Nov. 17, 2015; 80 FR 73068, Nov. 23, 2015; 82 FR 41559, Sept. 1, 2017; 82 FR 43870, Sept. 20, 2017]Effective Date Notes:At 80 FR 71728, Nov. 17, 2015, § 15.37(k) was added. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+
+2. At 82 FR 43870, Sept. 20, 2017, § 15.37(l) was added. This paragraph will not become effective until September 20, 2018.

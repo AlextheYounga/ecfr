@@ -1,5 +1,7 @@
 ##### § 607.2 Definitions. #####
 
+Link to an amendment published at 82 FR 48759, Oct. 20, 2017.
+
 For the purpose of this part, the following definitions shall apply:
 
 (a) *Assessment* means the annual amount to be paid by each System institution to the Farm Credit Administration in accordance with section 5.15 of the Act.

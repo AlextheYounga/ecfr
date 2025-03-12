@@ -1,5 +1,7 @@
 ##### § 63.61 Applicability. #####
 
+Link to an amendment published at 82 FR 48777, Oct. 20, 2017.
+
 Any carrier subject to the provisions of section 214 of the Communications Act of 1934, as amended, proposing to discontinue, reduce or impair interstate or foreign telephone or telegraph service to a community, or a part of a community, shall request authority therefor by formal application or informal request as specified in the pertinent sections of this part:
 
 (a) *Provided, however,* that where service is expanded on an experimental basis for a temporary period of not more than 6 months, no application shall be required to reduce service to its status prior to such expansion but a written notice shall be filed with the Commission within 10 days of the reduction showing:

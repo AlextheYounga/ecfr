@@ -1,5 +1,7 @@
 ##### § 1.9030 Long-term de facto transfer leasing arrangements. #####
 
+Link to an amendment published at 82 FR 48773, October 20, 2017.
+
 (a) *Overview.* Under the provisions of this section, a licensee (in any of the included services) and a spectrum lessee may enter into a long-term *de facto* transfer leasing arrangement in which the licensee retains *de jure* control of the license while *de facto* control of the leased spectrum is transferred to the spectrum lessee for the duration of the spectrum leasing arrangement, subject to prior Commission consent pursuant to the application procedures set forth in this section. A “long-term” *de facto* transfer leasing arrangement has an individual term, or series of combined terms, of more than one year. The term of a long-term *de facto* transfer leasing arrangement may be no longer than the term of the license authorization.
 
 (b) *Rights and responsibilities of the licensee.* (1) Except as provided in paragraph (b)(2) of this section, the licensee is relieved of primary and direct responsibility for ensuring that the spectrum lessee's operations comply with the Communications Act and Commission policies and rules.
@@ -116,4 +118,4 @@
 
 (m) *Community notification requirement for certain contraband interdiction systems.* 10 days prior to deploying a Contraband Interdiction System that prevents communications to or from mobile devices, a lessee must notify the community in which the correctional facility is located. The notification must include a description of what the system is intended to do, the date the system is scheduled to begin operating, and the location of the correctional facility. Notification must be tailored to reach the community immediately adjacent to the correctional facility, including through local television, radio, Internet news sources, or community groups, as may be appropriate. No notification is required, however, for brief tests of a system prior to deployment.
 
-[68 FR 66277, Nov. 25, 2003, as amended at 69 FR 72027, Dec. 10, 2004; 69 FR 77554, Dec. 27, 2004; 80 FR 56816, Sept. 18, 2015; 82 FR 22760, May 18, 2017]Effective Date Note:At 82 FR 22760, May 18, 2017, § 1.9030 was amended by revising (d)(8) and adding paragraph (m). These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[68 FR 66277, Nov. 25, 2003, as amended at 69 FR 72027, Dec. 10, 2004; 69 FR 77554, Dec. 27, 2004; 80 FR 56816, Sept. 18, 2015; 82 FR 22760, May 18, 2017]

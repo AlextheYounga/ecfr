@@ -1,0 +1,7 @@
+##### § 602.9 Consultations and referrals. #####
+
+(a) If a Requester seeks a Record in which another agency of the Federal Government is better able to determine whether the record is exempt from disclosure under the FOIA, NCPC shall either respond to the FOIA Request after consultation with the Agency best able to determine if the Requested Record(s) is/are subject to disclosure or refer the responsibility for responding to the FOIA Request to the Agency responsible for originating the Record(s). Generally, the Agency originating a Record will be presumed by the NCPC to be the Agency best qualified to render a decision regarding disclosure or exemption except for Agency Records submitted to the NCPC pursuant to its authority to review Agency plans and/or projects.
+
+(b) Upon referral of Records to another Agency, the NCPC shall notify the Requester in writing of the referral, inform the Requester of the name of the Agency to which all or part of the responsive records have been referred, provide the Requester a description of the part of the Request referred, and advise the Requester of a point of contact within the receiving Agency.
+
+(c) The timeframe for a response to a FOIA Request requiring consultation or referral shall be based on the date the FOIA Request was initially received by the NCPC and not any later date.

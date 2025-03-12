@@ -1,0 +1,3 @@
+##### § 602.7 Multi-track processing. #####
+
+The NCPC may use multiple tracks for processing FOIA Requests based on the complexity of Requests and those for which expedited processing is Requested. Complexity shall be determined based on the amount of work and/or time needed to process a Request and/or the number of pages of responsive Records. If the NCPC utilizes Multi-track Processing, it shall advise a Requester when a Request is placed in a slower track of the limits associated with a faster track and afford the Requester the opportunity to limit the scope of its Request to qualify for faster processing.

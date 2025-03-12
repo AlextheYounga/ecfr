@@ -364,4 +364,4 @@ With respect to 911 calls accessing their systems through the use of TTYs, licen
 
 [63 FR 2637, Jan. 16, 1998]Editorial Note:For Federal Register citations affecting § 20.18, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Notes:1. At 68 FR 2918, Jan. 22, 2003, in § 20.18, paragraph (j) was revised. Paragraphs (j)(4) and (5) contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
 
-2. At 82 FR 22760, May 18, 2017, in § 20.18, paragraph (a) was revised and paragraph (r) was added. These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+2. At 82 FR 22760, May 18, 2017, in § 20.18, paragraph (r) was added. This paragraph contains information collection and recordkeeping requirements and will not become effective until Feb. 12, 2018.

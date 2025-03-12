@@ -1,5 +1,7 @@
 ##### § 63.60 Definitions. #####
 
+Link to an amendment published at 82 FR 48777, Oct. 20, 2017.
+
 For the purposes of this part, the following definitions shall apply:
 
 (a) For the purposes of §§ 63.60 through 63.90, the term “carrier,” when used to refer either to all telecommunications carriers or more specifically to non-dominant telecommunications carriers, shall include interconnected VoIP providers.

@@ -141,6 +141,7 @@ Table One
 |       USS ILLINOIS       |        SSN 786        |                                            2.76                                             |
 |      USS WASHINGTON      |        SSN 787        |                                            2.76                                             |
 |       USS COLORADO       |        SSN 788        |                                            2.76                                             |
+|       USS INDIANA        |        SSN 789        |                                            2.76                                             |
 |   USS HENRY M. JACKSON   |       SSBN 730        |                                            3.70                                             |
 |       USS ALABAMA        |       SSBN 731        |                                            3.70                                             |
 |        USS ALASKA        |       SSBN 732        |                                            3.70                                             |
@@ -344,6 +345,7 @@ Table Three
 |       USS ILLINOIS       |SSN 786 |                                             |                                         |                 205.0°                  |                               4.37                                |                           11.05                            |                              2.8                              |                                  0.30 below                                   |
 |      USS WASHINGTON      |SSN 787 |                                             |                                         |                 206.8°                  |                               4.37                                |                           11.05                            |                              2.8                              |                                  0.30 below                                   |
 |       USS COLORADO       |SSN 788 |                                             |                                         |                 205.0°                  |                               4.37                                |                           11.05                            |                              2.8                              |                                  0.30 below                                   |
+|       USS INDIANA        |SSN 789 |                                             |                                         |                 206.0°                  |                               4.37                                |                           11.05                            |                              2.8                              |                                  0.30 below                                   |
 |   USS HENRY M. JACKSON   |SSBN 730|                                             |                                         |                  209°                   |                                5.3                                |                            9.0                             |                              3.8                              |                                   4.0 below                                   |
 |       USS ALABAMA        |SSBN 731|                                             |                                         |                  209°                   |                                5.3                                |                            9.0                             |                              3.8                              |                                   4.0 below                                   |
 |        USS ALASKA        |SSBN 732|                                             |                                         |                  209°                   |                                5.3                                |                            9.0                             |                              3.8                              |                                   4.0 below                                   |
@@ -766,6 +768,7 @@ The arc of visibility of the temporary masthead light required by rule 21(a) may
 |   USS ILLINOIS   |SSN 786|                                     0.81                                     |
 |  USS WASHINGTON  |SSN 787|                                     0.81                                     |
 |   USS COLORADO   |SSN 788|                                     0.81                                     |
+|   USS INDIANA    |SSN 789|                                     0.81                                     |
 
 26. On the following ships the arc of visibility required by Rule 30(a) and Rule 21(e), for the forward and after lights may be obstructed through the following angles relative to the ship's heading due to the ship's sail.
 
@@ -787,6 +790,7 @@ The arc of visibility of the temporary masthead light required by rule 21(a) may
 |    USS ILLINOIS    |       SSN 786        |                   172° to 188°                   |359° to 1°|
 |   USS WASHINGTON   |       SSN 787        |                   172° to 188°                   |359° to 1°|
 |    USS COLORADO    |       SSN 788        |                   172° to 188°                   |359° to 1°|
+|    USS INDIANA     |       SSN 789        |                   172° to 188°                   |359° to 1°|
 
 27. On the following ships, the arc of visibility of the middle task light (restricted maneuverability), required by the rule 27(b)(i) and Annex I, paragraph 9(b)(i), may be obstructed at the following angles relative to ship's heading;
 

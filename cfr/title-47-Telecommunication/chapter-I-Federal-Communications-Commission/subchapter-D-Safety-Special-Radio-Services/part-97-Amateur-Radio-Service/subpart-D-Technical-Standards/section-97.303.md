@@ -1,20 +1,18 @@
 ##### § 97.303 Frequency sharing requirements. #####
 
-Link to an amendment published at 82 FR 43872, Sept. 20, 2017.
-
 The following paragraphs summarize the frequency sharing requirements that apply to amateur stations transmitting in the frequency bands specified in § 97.301 of this part. Each frequency band allocated to the amateur service is designated as either a secondary service or a primary service. A station in a secondary service must not cause harmful interference to, and must accept interference from, stations in a primary service.
 
 (a) Where, in adjacent ITU Regions or sub-Regions, a band of frequencies is allocated to different services of the same category (*i.e.,* primary or secondary services), the basic principle is the equality of right to operate. Accordingly, stations of each service in one Region or sub-Region must operate so as not to cause harmful interference to any service of the same or higher category in the other Regions or sub-Regions.
 
 (b) Amateur stations transmitting in the 70 cm band, the 33 cm band, the 23 cm band, the 9 cm band, the 5 cm band, the 3 cm band, or the 24.05-24.25 GHz segment must not cause harmful interference to, and must accept interference from, stations authorized by the United States Government in the radiolocation service.
 
-(c) Amateur stations transmitting in the 76-77.5 GHz segment, the 78-81 GHz segment, the 136-141 GHz segment, or the 241-248 GHz segment must not cause harmful interference to, and must accept interference from, stations authorized by the United States Government, the FCC, or other nations in the radiolocation service.
+(c) Amateur stations transmitting in the 76-81 GHz segment, the 136-141 GHz segment, or the 241-248 GHz segment must not cause harmful interference to, and must accept interference from, stations authorized by the United States Government, the FCC, or other nations in the radiolocation service.
 
 (d) Amateur stations transmitting in the 430-450 MHz segment, the 23 cm band, the 3.3-3.4 GHz segment, the 5.65-5.85 GHz segment, the 13 cm band, or the 24.05-24.25 GHz segment, must not cause harmful interference to, and must accept interference from, stations authorized by other nations in the radiolocation service.
 
 (e) Amateur stations receiving in the 33 cm band, the 2400-2450 MHz segment, the 5.725-5.875 GHz segment, the 1.2 cm band, the 2.5 mm band, or the 244-246 GHz segment must accept interference from industrial, scientific, and medical (ISM) equipment.
 
-(f) Amateur stations transmitting in the following segments must not cause harmful interference to radio astronomy stations: 3.332-3.339 GHz, 3.3458-3.3525 GHz, 76-77.5 GHz, 78-81 GHz, 136-141 GHz, 241-248 GHz, 275-323 GHz, 327-371 GHz, 388-424 GHz, 426-442 GHz, 453-510 GHz, 623-711 GHz, 795-909 GHz, or 926-945 GHz. In addition, amateur stations transmitting in the following segments must not cause harmful interference to stations in the Earth exploration-satellite service (passive) or the space research service (passive): 275-277 GHz, 294-306 GHz, 316-334 GHz, 342-349 GHz, 363-365 GHz, 371-389 GHz, 416-434 GHz, 442-444 GHz, 496-506 GHz, 546-568 GHz, 624-629 GHz, 634-654 GHz, 659-661 GHz, 684-692 GHz, 730-732 GHz, 851-853 GHz, or 951-956 GHz.
+(f) Amateur stations transmitting in the following segments must not cause harmful interference to radio astronomy stations: 3.332-3.339 GHz, 3.3458-3.3525 GHz, 76-81 GHz, 136-141 GHz, 241-248 GHz, 275-323 GHz, 327-371 GHz, 388-424 GHz, 426-442 GHz, 453-510 GHz, 623-711 GHz, 795-909 GHz, or 926-945 GHz. In addition, amateur stations transmitting in the following segments must not cause harmful interference to stations in the Earth exploration-satellite service (passive) or the space research service (passive): 275-277 GHz, 294-306 GHz, 316-334 GHz, 342-349 GHz, 363-365 GHz, 371-389 GHz, 416-434 GHz, 442-444 GHz, 496-506 GHz, 546-568 GHz, 624-629 GHz, 634-654 GHz, 659-661 GHz, 684-692 GHz, 730-732 GHz, 851-853 GHz, or 951-956 GHz.
 
 (g) In the 2200 m and 630 m bands:
 
@@ -120,7 +118,7 @@ The following paragraphs summarize the frequency sharing requirements that apply
 
 (2) Amateur stations transmitting in the 5.850-5.925 GHz segment must not cause harmful interference to, and must accept interference from, stations authorized by the FCC and other nations in the fixed-satellite (Earth-to-space) and mobile services and also stations authorized by other nations in the fixed service. In the United States, the use of mobile service is restricted to Dedicated Short Range Communications operating in the Intelligent Transportation System.
 
-(s) Authorization of the 76-77 GHz segment for amateur station transmissions is suspended until such time that the Commission may determine that amateur station transmissions in this segment will not pose a safety threat to vehicle radar systems operating in this segment.
+(s) [Reserved]
 
 (t) Amateur stations transmitting in the 2.5 mm band must not cause harmful interference to, and must accept interference from, stations authorized by the United States Government, the FCC, or other nations in the fixed, inter-satellite, or mobile services.
 
@@ -128,4 +126,4 @@ Note to § 97.303:
 
 The Table of Frequency Allocations contains the complete, unabridged, and legally binding frequency sharing requirements that pertain to the Amateur Radio Service. *See* 47 CFR 2.104, 2.105, and 2.106. The United States, Puerto Rico, and the U.S. Virgin Islands are in Region 2 and other U.S. insular areas are in either Region 2 or 3; see appendix 1 to part 97.
 
-[75 FR 27203, May 14, 2010, as amended at 77 FR 5412, Feb. 3, 2012; 80 FR 38912, July 7, 2015; 82 FR 27215, June 14, 2017]
+[75 FR 27203, May 14, 2010, as amended at 77 FR 5412, Feb. 3, 2012; 80 FR 38912, July 7, 2015; 82 FR 27215, June 14, 2017; 82 FR 43872, Sept. 20, 2017]

@@ -1,5 +1,7 @@
 ##### § 1.9020 Spectrum manager leasing arrangements. #####
 
+Link to an amendment published at 82 FR 48773, October 20, 2017.
+
 (a) *Overview.* Under the provisions of this section, a licensee (in any of the included services) and a spectrum lessee may enter into a spectrum manager leasing arrangement, without the need for prior Commission approval, provided that the licensee retains *de jure* control of the license and *de facto* control, as defined and explained in this subpart, of the leased spectrum. The licensee must notify the Commission of the spectrum leasing arrangement pursuant to the rules set forth in this section. The term of a spectrum manager leasing arrangement may be no longer than the term of the license authorization.
 
 (b) *Rights and responsibilities of the licensee.* (1) The licensee is directly and primarily responsible for ensuring the spectrum lessee's compliance with the Communications Act and applicable Commission policies and rules.
@@ -106,4 +108,4 @@
 
 (n) *Community notification requirement for certain contraband interdiction systems.* 10 days prior to deploying a Contraband Interdiction System that prevents communications to or from mobile devices, a lessee must notify the community in which the correctional facility is located. The notification must include a description of what the system is intended to do, the date the system is scheduled to begin operating, and the location of the correctional facility. Notification must be tailored to reach the community immediately adjacent to the correctional facility, including through local television, radio, Internet news sources, or community groups, as may be appropriate. No notification is required, however, for brief tests of a system prior to deployment.
 
-[68 FR 66277, Nov. 25, 2003, as amended at 69 FR 72027, Dec. 10, 2004; 69 FR 77551, Dec. 27, 2004; 76 FR 31259, May 31, 2011; 80 FR 56816, Sept. 18, 2015; 81 FR 49065, July 26, 2016; 82 FR 22297, May 15, 2017; 82 FR 22759, May 18, 2017]Effective Date Note:At 82 FR 22743, May 18, 2017, § 1.9020 was amended by revising (d)(8) and adding paragraph (n). These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[68 FR 66277, Nov. 25, 2003, as amended at 69 FR 72027, Dec. 10, 2004; 69 FR 77551, Dec. 27, 2004; 76 FR 31259, May 31, 2011; 80 FR 56816, Sept. 18, 2015; 81 FR 49065, July 26, 2016; 82 FR 22297, May 15, 2017; 82 FR 22759, May 18, 2017]

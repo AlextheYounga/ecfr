@@ -1,5 +1,7 @@
 ##### § 54.706 Contributions. #####
 
+Link to an amendment published at 82 FR 48777, Oct. 20, 2017.
+
 (a) Entities that provide interstate telecommunications to the public, or to such classes of users as to be effectively available to the public, for a fee will be considered telecommunications carriers providing interstate telecommunications services and must contribute to the universal service support mechanisms. Certain other providers of interstate telecommunications, such as payphone providers that are aggregators, providers of interstate telecommunications for a fee on a non-common carrier basis, and interconnected VoIP providers, also must contribute to the universal service support mechanisms. Interstate telecommunications include, but are not limited to:
 
 (1) Cellular telephone and paging services;

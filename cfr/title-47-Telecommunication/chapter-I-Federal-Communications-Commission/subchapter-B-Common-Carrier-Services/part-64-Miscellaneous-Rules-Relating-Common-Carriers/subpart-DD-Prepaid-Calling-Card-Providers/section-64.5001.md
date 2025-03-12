@@ -1,5 +1,7 @@
 ##### § 64.5001 Reporting and certification requirements. #####
 
+Link to an amendment published at 82 FR 48778, Oct. 20, 2017.
+
 (a) All prepaid calling card providers must report prepaid calling card percentage of interstate use (PIU) factors, and call volumes from which these factors were calculated, based on not less than a one-day representative sample, to those carriers from which they purchase transport services. Such reports must be provided no later than the 45th day of each calendar quarter for the previous quarter.
 
 (b) If a prepaid calling card provider fails to provide the appropriate PIU information to a transport provider in the time allowed, the transport provider may apply a 50 percent default PIU factor to the prepaid calling card provider's traffic.

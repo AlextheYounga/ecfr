@@ -1,5 +1,7 @@
 ##### § 36.126 Circuit equipment - Category 4. #####
 
+Link to an amendment published at 82 FR 48776, Oct. 20, 2017.
+
 (a) For the purpose of this section, the term “Circuit Equipment” encompasses the Radio Systems and Circuit Equipment contained in Accounts 2230 through 2232 respectively. It includes central office equipment, other than switching equipment and automatic message recording equipment, which is used to derive communications transmission channels or which is used for the amplification, modulation, regeneration, testing, balancing or control of signals transmitted over communications transmission channels. Examples of circuit equipment in general use include:
 
 (1) Carrier telephone and telegraph system terminals.

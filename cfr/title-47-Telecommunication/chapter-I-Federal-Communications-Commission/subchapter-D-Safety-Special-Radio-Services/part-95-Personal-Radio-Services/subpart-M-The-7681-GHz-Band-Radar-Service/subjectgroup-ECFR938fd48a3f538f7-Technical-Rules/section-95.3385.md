@@ -1,0 +1,3 @@
+##### § 95.3385 76-81 GHz Band Radar Service RF exposure evaluation. #####
+
+Regardless of the power density levels permitted under this subpart, devices operating under the provisions of this subpart are subject to the radiofrequency radiation exposure requirements specified in §§ 1.1307(b), 2.1091, and 2.1093 of this chapter, as appropriate. Applications for equipment authorization of devices operating under this section must contain a statement confirming compliance with these requirements for both fundamental emissions and unwanted emissions. Technical information showing the basis for this statement must be submitted to the Commission upon request.

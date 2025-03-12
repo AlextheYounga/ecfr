@@ -1,5 +1,7 @@
 ##### § 63.62 Type of discontinuance, reduction, or impairment of telephone or telegraph service requiring formal application. #####
 
+Link to an amendment published at 82 FR 48777, Oct. 20, 2017.
+
 Authority for the following types of discontinuance, reduction, or impairment of service shall be requested by formal application containing the information required by the Commission in the appropriate sections to this part, except as provided in paragraph (c) of this section, or in emergency cases (as defined in § 63.60(b)) as provided in § 63.63:
 
 (a) The dismantling or removal of a trunk line (for contents of application *see* § 63.500) for all domestic carriers and for dominant international carriers except as modified in § 63.19;

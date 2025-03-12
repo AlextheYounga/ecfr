@@ -1,3 +1,5 @@
 ##### § 42.4 Index of records. #####
 
+Link to an amendment published at 82 FR 48777, Oct. 20, 2017.
+
 Each carrier shall maintain at its operating company headquarters a master index of records. The master index shall identify the records retained, the related retention period, and the locations where the records are maintained. The master index shall be subject to review by Commission staff and the Commission shall reserve the right to add records, or lengthen retention periods upon finding that retention periods may be insufficient for its regulatory purposes. When any records are lost or destroyed before expiration of the retention period set forth in the master index, a certified statement shall be added to the master index, as soon as practicable, listing, as far as may be determined, the records lost or destroyed and describing the circumstances of the premature loss or destruction. At each office of the carrier where records are kept or stored, the carrier shall arrange, file, and currently index the records on site so that they may be readily identified and made available to representatives of the Commission.

@@ -1,7 +1,5 @@
 ##### § 97.313 Transmitter power standards. #####
 
-Link to an amendment published at 82 FR 43872, Sept. 20, 2017.
-
 (a) An amateur station must use the minimum transmitter power necessary to carry out the desired communications.
 
 (b) No station may transmit with a transmitter power exceeding 1.5 kW PEP.
@@ -32,4 +30,6 @@ Link to an amendment published at 82 FR 43872, Sept. 20, 2017.
 
 (l) No station may transmit in the 472-479 kHz (630 m) band with a transmitter power exceeding 500 W PEP or a radiated power exceeding 5 W EIRP, except that in Alaska, stations located within 800 kilometers of the Russian Federation may not transmit with a radiated power exceeding 1 W EIRP.
 
-[54 FR 25857, June 20, 1989, as amended at 56 FR 37161, Aug. 5, 1991; 56 FR 3043, Jan. 28, 1991; 60 FR 15688, Mar. 27, 1995; 65 FR 6550, Feb. 10, 2000; 71 FR 66465, Nov. 15, 2006; 75 FR 27204, May 14, 2010; 75 FR 78171, Dec. 15, 2010; 76 FR 17569, Mar. 30, 2011; 77 FR 5413, Feb. 3, 2012; 80 FR 53753, Sept. 8, 2015; 82 FR 27216, June 14, 2017]
+(m) No station may transmit with a peak equivalent isotropically radiated power (EIRP) exceeding 316 W in the 76-81 GHz (4 mm) band.
+
+[54 FR 25857, June 20, 1989, as amended at 56 FR 37161, Aug. 5, 1991; 56 FR 3043, Jan. 28, 1991; 60 FR 15688, Mar. 27, 1995; 65 FR 6550, Feb. 10, 2000; 71 FR 66465, Nov. 15, 2006; 75 FR 27204, May 14, 2010; 75 FR 78171, Dec. 15, 2010; 76 FR 17569, Mar. 30, 2011; 77 FR 5413, Feb. 3, 2012; 80 FR 53753, Sept. 8, 2015; 82 FR 27216, June 14, 2017; 82 FR 43872, Sept. 20, 2017]

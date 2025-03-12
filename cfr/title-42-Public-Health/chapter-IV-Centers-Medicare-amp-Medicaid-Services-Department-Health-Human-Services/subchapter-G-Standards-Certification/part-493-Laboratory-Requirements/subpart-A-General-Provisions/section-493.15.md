@@ -1,5 +1,7 @@
 ##### § 493.15 Laboratories performing waived tests. #####
 
+Link to an amendment published at 82 FR 48773, Oct. 20, 2017.
+
 (a) *Requirement.* Tests for certificate of waiver must meet the descriptive criteria specified in paragraph (b) of this section.
 
 (b) *Criteria.* Test systems are simple laboratory examinations and procedures which -

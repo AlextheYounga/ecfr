@@ -1,5 +1,7 @@
 ##### § 63.500 Contents of applications to dismantle or remove a trunk line. #####
 
+Link to an amendment published at 82 FR 48777, Oct. 20, 2017.
+
 The application shall contain:
 
 (a) The name and address of each applicant;
