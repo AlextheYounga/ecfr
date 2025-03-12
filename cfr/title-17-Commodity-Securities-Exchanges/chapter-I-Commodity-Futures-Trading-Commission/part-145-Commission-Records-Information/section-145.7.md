@@ -1,5 +1,7 @@
 ##### § 145.7 Requests for Commission records and copies thereof. #####
 
+Link to an amendment published at 82 FR 28003, June 20, 2017.
+
 Requests for Commission records and copies thereof shall specify the preferred form or format (including electronic formats) of the response. The Commission will accommodate requesters as to form or format if the record is readily available in that form or format. When requesters do not specify the form or format of the response, the Commission will respond in the form or format in which the document is most accessible to the Commission.
 
 (a) *Public inquiries and inspection of public records.* Information concerning the nature and extent of available public records may be obtained in person, by telephone, via Internet (*http://www.cftc.gov*), or by writing to the Commission offices designated in §§ 145.2 and 145.6.

@@ -1,5 +1,7 @@
 ##### § 145.5 Disclosure of nonpublic records. #####
 
+Link to an amendment published at 82 FR 28003, June 20, 2017.
+
 The Commission may decline to publish or make available to the public any “nonpublic records,” as defined in § 145.0(d), if those records fall within the descriptions in paragraphs (a) through (i) of this section. The Commission shall publish or make available reasonably segregable portions of “nonpublic records” subject to a request under § 145.7 if those portions do not fall within the descriptions in paragraphs (a) through (i) of this section. Requests for confidential treatment of segregable public information will not be processed.
 
 (a)(1) Specifically authorized under criteria established by an executive order to be kept secret in the interest of national defense or foreign policy, and (2) are in fact properly classified pursuant to such executive order;

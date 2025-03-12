@@ -1,5 +1,7 @@
 ##### § 145.0 Definitions. #####
 
+Link to an amendment published at 82 FR 28003, June 20, 2017.
+
 For the purposes of part 145 the following definitions are applicable:
 
 *Assistant Secretary* - refers to the Assistant Secretary of the Commission for FOI, Privacy and Sunshine Acts Compliance.

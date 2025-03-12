@@ -1,5 +1,7 @@
 ##### § 145.6 Commission offices to contact for assistance; registration records available. #####
 
+Link to an amendment published at 82 FR 28003, June 20, 2017.
+
 (a) Whenever this part directs that a request be directed to the Assistant Secretary of the Commission for FOI, Privacy and Sunshine Acts Compliance, the request shall be made in writing and shall be addressed or otherwise directed to the Office of the Secretariat, Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW., Washington, DC 20581. Requests for public records directed to a regional office of the Commission pursuant to § 145.2 should be sent to:
 
 Commodity Futures Trading Commission, 140 Broadway, New York, New York 10005, Telephone: (646) 746-9700.Commodity Futures Trading Commission, 525 West Monroe Street, Suite 1100 North, Chicago, Illinois 60661, Telephone: (312) 596-0700.Commodity Futures Trading Commission, Two Emanuel Cleaver II Blvd., Suite 300, Kansas City, Missouri 64112, Telephone: (816) 960-7700.
