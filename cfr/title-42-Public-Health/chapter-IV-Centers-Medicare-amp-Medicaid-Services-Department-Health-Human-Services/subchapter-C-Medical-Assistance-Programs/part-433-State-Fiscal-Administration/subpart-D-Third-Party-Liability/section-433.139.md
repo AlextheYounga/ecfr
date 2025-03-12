@@ -1,5 +1,7 @@
 ##### § 433.139 Payment of claims. #####
 
+Link to an amendment published at 85 FR 87100, Dec. 31, 2020.
+
 (a) *Basic provisions.* (1) For claims involving third party liability that are processed on or after May 12, 1986, the agency must use the procedures specified in paragraphs (b) through (f) of this section.
 
 (2) The agency must submit documentation of the methods (e.g., cost avoidance, pay and recover later) it uses for payment of claims involving third party liability to the CMS Regional Office.

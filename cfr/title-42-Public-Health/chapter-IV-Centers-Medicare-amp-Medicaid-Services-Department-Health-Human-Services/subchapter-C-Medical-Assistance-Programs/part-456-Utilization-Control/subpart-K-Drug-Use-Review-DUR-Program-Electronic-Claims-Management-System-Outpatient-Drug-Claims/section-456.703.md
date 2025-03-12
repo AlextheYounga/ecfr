@@ -1,5 +1,7 @@
 ##### § 456.703 Drug use review program. #####
 
+Link to an amendment published at 85 FR 87104, Dec. 31, 2020.
+
 (a) *General.* Except as provided in paragraphs (b) and (c) of this section, in order for FFP to be paid or made available under section 1903 of the Act for covered outpatient drugs, the State must have in operation, by not later than January 1, 1993, a DUR program consisting of prospective drug review, retrospective drug use review, and an educational program that meets the requirements of this subpart. The goal of the State's DUR program must be to ensure appropriate drug therapy, while permitting sufficient professional prerogatives to allow for individualized drug therapy.
 
 (b) *Exception for drugs dispensed to certain nursing facility residents.* Prospective drug review and retrospective drug use review (including interventions and education) under the DUR program are not required for drugs dispensed to residents of nursing facilities that are in compliance with the drug regimen review procedures set forth in part 483 of this chapter. This does not preclude the State agency from making such drugs subject to prospective DUR or retrospective DUR or both, provided the State agency makes the drugs subject to all the requirements of this subpart applicable to the respective review.

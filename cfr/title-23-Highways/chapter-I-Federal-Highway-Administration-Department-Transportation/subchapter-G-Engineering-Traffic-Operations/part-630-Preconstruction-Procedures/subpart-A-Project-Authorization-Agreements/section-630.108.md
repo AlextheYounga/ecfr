@@ -1,8 +1,8 @@
 ##### § 630.108 Preparation of agreement. #####
 
-(a) The STD shall prepare a project agreement for each Federal-aid project.
+(a) The State DOT shall prepare a project agreement for each Federal-aid project.
 
-(b) The STD may develop the project agreement in a format acceptable to both the STD and the FHWA provided the following are included:
+(b) The State DOT may develop the project agreement in a format acceptable to both the State DOT and the FHWA provided the following are included:
 
 (1) A description of each project location including State and project termini;
 
@@ -28,6 +28,6 @@
 
 (3) The State is claiming finance related costs for bond and other debt instrument financing (such as payments to States under 23 U.S.C. 122).
 
-(d) The STD may use an electronic version of the agreement as provided by the FHWA.
+(d) The State DOT may use an electronic version of the agreement as provided by the FHWA.
 
 (Approved by the Office of Management and Budget under control number 2125-0529)

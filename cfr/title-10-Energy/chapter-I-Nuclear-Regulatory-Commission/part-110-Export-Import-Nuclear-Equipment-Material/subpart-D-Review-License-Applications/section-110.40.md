@@ -8,7 +8,7 @@
 
 (2) More than 5 effective kilograms of high-enriched uranium, plutonium or uranium-233.
 
-(3) An export involving assistance to end uses related to isotope separation, chemical reprocessing, heavy water production, advanced reactors, or the fabrication of nuclear fuel containing plutonium, except for exports of source material or low-enriched uranium to EURATOM or Japan for enrichment up to 5 percent in the isotope uranium-235, and those categories of exports which the Commission has approved in advance as constituting permitted incidental assistance.
+(3) An export involving assistance to end uses related to isotope separation, chemical reprocessing, heavy water production, advanced reactors, or the fabrication of nuclear fuel containing plutonium, except for exports of source material or low-enriched uranium to EURATOM, the United Kingdom, or Japan for enrichment up to 5 percent in the isotope uranium-235, and those categories of exports which the Commission has approved in advance as constituting permitted incidental assistance.
 
 (4) The initial export to a country since March 10, 1978 of source or special nuclear material for nuclear end use.
 
@@ -32,4 +32,4 @@
 
 (d) If the Commission has not completed action on a license application within 60 days after receipt of the Executive Branch judgment, as provided for in § 110.41, or the license application when an Executive Branch judgment is not required, it will inform the applicant in writing of the reason for delay and, as appropriate, provide follow-up reports.
 
-[75 FR 44090, July 28, 2010]
+[75 FR 44090, July 28, 2010, as amended at 85 FR 86795, Dec. 31, 2020]

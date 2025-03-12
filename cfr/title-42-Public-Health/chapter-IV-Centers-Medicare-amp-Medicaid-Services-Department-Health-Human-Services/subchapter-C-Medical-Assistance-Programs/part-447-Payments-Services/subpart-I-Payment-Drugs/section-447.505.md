@@ -1,5 +1,7 @@
 ##### § 447.505 Determination of best price. #####
 
+Link to an amendment published at 85 FR 87102, Dec. 31, 2020.
+
 (a) *Definitions.* For the purpose of this section, the following definitions apply:
 
 *Best price* means, for a single source drug or innovator multiple source drug of a manufacturer (including the lowest price available to any entity for an authorized generic drug), the lowest price available from the manufacturer during the rebate period to any wholesaler, retailer, provider, health maintenance organization, nonprofit entity, or governmental entity in the United States in any pricing structure (including capitated payments), in the same quarter for which the AMP is computed.

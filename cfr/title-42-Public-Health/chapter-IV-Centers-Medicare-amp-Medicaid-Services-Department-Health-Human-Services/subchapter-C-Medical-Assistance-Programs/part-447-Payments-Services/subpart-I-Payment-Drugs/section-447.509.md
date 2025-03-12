@@ -1,5 +1,7 @@
 ##### § 447.509 Medicaid drug rebates (MDR). #####
 
+Link to an amendment published at 85 FR 87103, Dec. 31, 2020.
+
 (a) *Determination of rebate amount* - (1) *Basic rebate for single source drugs and innovator multiple source drugs.* The amount of basic rebate for each dosage form and strength of a single source drug or an innovator multiple source drug is equal to the product of:
 
 (i) The total number of units of each dosage form and strength paid for under the State plan in the rebate period (as reported by the State); and

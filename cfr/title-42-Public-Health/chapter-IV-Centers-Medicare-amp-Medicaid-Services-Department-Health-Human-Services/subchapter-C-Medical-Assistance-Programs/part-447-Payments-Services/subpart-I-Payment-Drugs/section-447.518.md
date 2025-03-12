@@ -1,5 +1,7 @@
 ##### § 447.518 State plan requirements, findings, and assurances. #####
 
+Link to an amendment published at 85 FR 87104, Dec. 31, 2020.
+
 (a) *State plan.* (1) The State plan must describe comprehensively the agency's payment methodology for prescription drugs, including the agency's payment methodology for drugs dispensed by all of the following:
 
 (i) A covered entity described in section 1927(a)(5)(B) of the Act.

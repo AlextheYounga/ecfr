@@ -32,7 +32,7 @@
 
 (ii) Engage a state-certified appraiser to complete the appraisal.
 
-(d) *Real estate-related financial transactions requiring a written estimate of market value* - (1) *Applicability.* Any real estate-related financial transaction must be supported by a written estimate of market value, unless:
+(d) *Real estate-related financial transactions requiring a written estimate of market value*—(1) *Applicability.* Any real estate-related financial transaction must be supported by a written estimate of market value, unless:
 
 (i) An appraisal performed by a state-certified or state-licensed appraiser was obtained;
 
@@ -52,10 +52,4 @@
 
 (f) [Reserved]
 
-(g) *Deferrals of appraisals and written estimates of market value for certain residential and commercial transactions* - (1) *120-day grace period.* The completion of appraisals and written estimate of market value required under paragraphs (b), (c), and (d) of this section may be deferred up to 120 days from the date of closing.
-
-(2) *Covered transactions.* The deferrals authorized under paragraph (g)(1) of this section apply to all residential and commercial real estate-secured transactions, excluding transactions for acquisition, development, and construction of real estate.
-
-(3) *Sunset.* The appraisal and written estimate of market value deferrals authorized by this paragraph (g) will expire for transactions closing after December 31, 2020.
-
-[84 FR 35537, July 24, 2019, as amended at 85 FR 22017, Apr. 21, 2020; 85 FR 23917, Apr. 30, 2020]Effective Date Note:At 85 FR 22017, Apr. 21, 2020, § 722.3 was amended by adding paragraph (g), effective until Dec. 31, 2020.
+[84 FR 35537, July 24, 2019, as amended at 85 FR 23917, Apr. 30, 2020]

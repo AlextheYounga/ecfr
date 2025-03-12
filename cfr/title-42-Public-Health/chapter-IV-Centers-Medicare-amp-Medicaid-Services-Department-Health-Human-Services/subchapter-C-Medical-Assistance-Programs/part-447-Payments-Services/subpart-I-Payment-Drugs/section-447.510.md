@@ -1,5 +1,7 @@
 ##### § 447.510 Requirements for manufacturers. #####
 
+Link to an amendment published at 85 FR 87103, Dec. 31, 2020.
+
 (a) *Quarterly reports.* A manufacturer must report product and pricing information for covered outpatient drugs to CMS not later than 30 days after the end of the rebate period. The quarterly pricing report must include the following:
 
 (1) AMP, calculated in accordance with § 447.504.

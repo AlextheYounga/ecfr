@@ -1,5 +1,7 @@
 ##### § 456.712 Annual report. #####
 
+Link to an amendment published at 85 FR 87104, Dec. 31, 2020.
+
 (a) *DUR Board report.* The State must require the DUR Board to prepare and submit an annual DUR report to the Medicaid agency that contains information specified by the State.
 
 (b) *Medicaid agency report.* The Medicaid agency must prepare and submit, on an annual basis, a report to the Secretary that incorporates the DUR Board's report and includes the following information:

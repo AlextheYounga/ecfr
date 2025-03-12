@@ -1,7 +1,5 @@
 ##### § 375.302 Delegations to the Secretary. #####
 
-Link to an amendment published at 85 FR 54736, Sept. 2, 2020.
-
 The Commission authorizes the Secretary, or the Secretary's designee to:
 
 (a) Sign official general correspondence on behalf of the Commission, except as otherwise provided in this section.
@@ -50,7 +48,7 @@ The Commission authorizes the Secretary, or the Secretary's designee to:
 
 (u) Reject without prejudice all motions for clarification that are combined with requests for rehearing and/or requests for modification of a proposed order issued in a proceeding under section 210 or section 211 of the Federal Power Act, 16 U.S.C. 824i, 824j.
 
-(v) Toll the time for action on requests for rehearing.
+(v) Toll the time for action on requests for rehearing, and toll the time for action on protested self-certifications and self-recertifications of qualifying facilities.
 
 (w) Issue notices in compliance with section 206(b) of the Federal Power Act.
 

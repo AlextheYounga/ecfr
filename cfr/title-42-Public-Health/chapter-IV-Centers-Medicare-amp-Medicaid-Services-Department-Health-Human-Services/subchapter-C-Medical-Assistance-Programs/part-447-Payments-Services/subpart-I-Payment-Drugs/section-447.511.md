@@ -1,5 +1,7 @@
 ##### § 447.511 Requirements for States. #####
 
+Link to an amendment published at 85 FR 87103, Dec. 31, 2020.
+
 (a) *Invoices submitted to participating drug manufacturers.* Within 60 days of the end of each quarter, the State must bill participating drug manufacturers an invoice which includes, at a minimum, all of the following data:
 
 (1) The State code.

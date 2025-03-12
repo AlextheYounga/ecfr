@@ -1,5 +1,7 @@
 ##### § 447.504 Determination of average manufacturer price. #####
 
+Link to an amendment published at 85 FR 87102, Dec. 31, 2020.
+
 (a) *Definitions.* For the purpose of this section, the following definitions apply:
 
 *Average manufacturer price (AMP)* means, for a covered outpatient drug of a manufacturer (including those sold under an NDA approved under section 505(c) of the Federal Food, Drug, and Cosmetic Act), the average price paid to the manufacturer for the drug in the United States by wholesalers for drugs distributed to retail community pharmacies and retail community pharmacies that purchase drugs directly from the manufacturer.

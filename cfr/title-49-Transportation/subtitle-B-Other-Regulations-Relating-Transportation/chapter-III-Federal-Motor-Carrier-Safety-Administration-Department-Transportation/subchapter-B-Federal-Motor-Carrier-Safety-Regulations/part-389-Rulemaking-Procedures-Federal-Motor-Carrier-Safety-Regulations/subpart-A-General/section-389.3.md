@@ -1,5 +1,7 @@
 ##### § 389.3 Definitions. #####
 
+Link to an amendment published at 85 FR 86848, Dec. 31, 2020.
+
 *Act* means statutes granting the Secretary authority to regulate motor carrier safety.
 
 *Administrator* means the Federal Motor Carrier Safety Administrator.

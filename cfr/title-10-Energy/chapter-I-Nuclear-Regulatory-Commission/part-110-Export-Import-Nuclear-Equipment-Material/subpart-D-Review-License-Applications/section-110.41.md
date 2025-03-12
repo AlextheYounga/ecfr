@@ -12,7 +12,7 @@
 
 (5) One kilogram or more of source or special nuclear material to be exported under the US-IAEA Agreement for Cooperation.
 
-(6) An export involving assistance to end uses related to isotope separation, chemical reprocessing, heavy water production, advanced reactors, or the fabrication of nuclear fuel containing plutonium, except for exports of source material or low-enriched uranium to EURATOM and Japan for enrichment up to 5 percent in the isotope uranium-235, and those categories of exports approved in advance by the Executive Branch as constituting permitted incidental assistance.
+(6) An export involving assistance to end uses related to isotope separation, chemical reprocessing, heavy water production, advanced reactors, or the fabrication of nuclear fuel containing plutonium, except for exports of source material or low-enriched uranium to EURATOM, the United Kingdom, or Japan for enrichment up to 5 percent in the isotope uranium-235, and those categories of exports approved in advance by the Executive Branch as constituting permitted incidental assistance.
 
 (7) The initial export of nuclear material or equipment to a foreign reactor.
 
@@ -32,4 +32,4 @@
 
 (c) The Commission may request the Executive Branch to address specific concerns and provide additional data and recommendations as necessary.
 
-[43 FR 21641, May 19, 1978, as amended at 49 FR 47200, Dec. 3, 1984; 58 FR 13004, Mar. 9, 1993; 60 FR 37564, July 21, 1995; 61 FR 35602, July 8, 1996; 70 FR 41939, July 21, 2005; 70 FR 37992, July 1, 2005; 70 FR 46066, Aug. 9, 2005; 75 FR 44090, July 28, 2010]
+[43 FR 21641, May 19, 1978, as amended at 49 FR 47200, Dec. 3, 1984; 58 FR 13004, Mar. 9, 1993; 60 FR 37564, July 21, 1995; 61 FR 35602, July 8, 1996; 70 FR 41939, July 21, 2005; 70 FR 37992, July 1, 2005; 70 FR 46066, Aug. 9, 2005; 75 FR 44090, July 28, 2010; 85 FR 86795, Dec. 31, 2020]

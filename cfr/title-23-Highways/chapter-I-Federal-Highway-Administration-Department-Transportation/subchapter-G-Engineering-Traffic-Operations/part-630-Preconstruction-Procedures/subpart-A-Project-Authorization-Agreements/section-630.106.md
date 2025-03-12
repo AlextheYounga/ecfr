@@ -1,6 +1,6 @@
 ##### § 630.106 Authorization to proceed. #####
 
-(a)(1) The State transportation department (STD) must obtain an authorization to proceed from the FHWA before beginning work on any Federal-aid project. The STD may request an authorization to proceed in writing or by electronic mail for a project or a group of projects.
+(a)(1) The State Department of Transportation (State DOT) must obtain an authorization to proceed from the FHWA before beginning work on any Federal-aid project. The State DOT may request an authorization to proceed in writing or by electronic mail for a project or a group of projects.
 
 (2) The FHWA will issue the authorization to proceed either through or after the execution of a formal project agreement with the State. The agreement can be executed only after applicable prerequisite requirements of Federal laws and implementing regulations and directives are satisfied. Except as provided in paragraphs (c)(1) through (c)(4) of this section, the FHWA will obligate Federal funds in the project or group of projects upon execution of the project agreement.
 
@@ -21,6 +21,8 @@
 (7) For design-build projects, the execution or modification of the project agreement for final design and physical construction, and authorization to proceed, shall not occur until after the completion of the NEPA process. However, preliminary design (as defined in 23 CFR 636.103) and preliminary engineering may be authorized in accordance with this section.
 
 (8) For Construction Manager/General Contractor projects, the execution or modification of the project agreement for preconstruction services associated with final design and for construction services, and authorization to proceed with such services, shall not occur until after the completion of the NEPA process. However, preconstruction services associated with preliminary design may be authorized in accordance with this section.
+
+(9) For Indefinite Delivery/Indefinite Quantity projects, the execution or modification of the project agreement for final design or physical construction, and authorization to proceed, shall not occur until after the completion of the NEPA process.
 
 (b) Federal funds shall not participate in costs incurred prior to the date of a project agreement except as provided by 23 CFR 1.9(b).
 
@@ -44,7 +46,7 @@
 
 (ii) Lump sum, with the agreement stating that Federal funds are limited to a specified dollar amount not to exceed the legal pro rata.
 
-(2) The pro-rata or lump sum share may be adjusted before or shortly after contract award to reflect any substantive change in the bids received as compared to the STD's estimated cost of the project at the time of FHWA authorization, provided that Federal funds are available.
+(2) The pro-rata or lump sum share may be adjusted before or shortly after contract award to reflect any substantive change in the bids received as compared to the State DOT's estimated cost of the project at the time of FHWA authorization, provided that Federal funds are available.
 
 (3) Federal participation is limited to the agreed Federal share of eligible costs actually incurred by the State, not to exceed the maximum permitted by enabling legislation.
 
@@ -54,4 +56,4 @@
 
 (2) Contributions may not exceed the total costs incurred by the State on the project. Cash contributions from all sources plus the Federal funds may not exceed the total cost of the project.
 
-[66 FR 23847, May 10, 2001, as amended at 71 FR 4995, Jan. 31, 2006; 72 FR 45336, Aug. 14, 2007; 81 FR 86942, Dec. 2, 2016]
+[66 FR 23847, May 10, 2001, as amended at 71 FR 4995, Jan. 31, 2006; 72 FR 45336, Aug. 14, 2007; 81 FR 86942, Dec. 2, 2016; 85 FR 72931, Nov. 16, 2020]

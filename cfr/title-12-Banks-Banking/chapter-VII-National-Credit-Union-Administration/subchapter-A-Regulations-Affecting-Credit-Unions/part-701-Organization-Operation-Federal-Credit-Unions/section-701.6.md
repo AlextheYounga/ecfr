@@ -1,5 +1,7 @@
 ##### § 701.6 Fees paid by Federal credit unions. #####
 
+Link to an amendment published at 85 FR 86803, Dec. 31, 2020.
+
 (a) *Basis for assessment.* Each calendar year, or as otherwise directed by the NCUA Board, each federal credit union shall pay an operating fee to NCUA for the current fiscal year (January 1 to December 31) in accordance with a schedule fixed by the Board from time to time. The operating fee shall be based on the total assets of each federal credit union (less the assets created on the books of natural person federal credit unions by investments made in a corporate credit union under the Credit Union System Investment Program or the Credit Union Homeowners Affordability Relief Program) as of December 31 of the preceding year or as otherwise determined pursuant to paragraph (b) of this section.
 
 (b) *Coverage.* The operating fee shall be paid by each Federal credit union engaged in operations as of January 1 of each calendar year, except as otherwise provided by this paragraph.

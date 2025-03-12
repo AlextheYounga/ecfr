@@ -16,10 +16,10 @@
 
 (2) Special nuclear material in fuel elements as replacements for damaged or defective unirradiated fuel elements previously exported under a specific license, subject to the same terms as the original export license and the condition that the replaced fuel elements must be returned to the United States within a reasonable time period.
 
-(3) Uranium, enriched to less than 20 percent in uranium-235, in the form of uranium hexafluoride (UF6) heels in cylinders being returned to suppliers in EURATOM.
+(3) Uranium, enriched to less than 20 percent in uranium-235, in the form of uranium hexafluoride (UF6) heels in cylinders being returned to suppliers in EURATOM or the United Kingdom.
 
 (c) Except as provided in paragraph (d) of this section, a general license is issued to any person to export plutonium-236 or plutonium-238 to any country listed in § 110.30 in individual shipments of 1 gram or less, not to exceed 100 grams per calendar year to any one country.
 
 (d) The general licenses in paragraphs (a), (b), and (c) of this section do not authorize the export of special nuclear material in radioactive waste.
 
-[49 FR 47198, Dec. 3, 1984, as amended at 58 FR 13003, Mar. 9, 1993; 59 FR 48997, Sept. 26, 1994; 60 FR 37563, July 21, 1995; 65 FR 70290, Nov. 22, 2000; 70 FR 46066, Aug. 9, 2005; 75 FR 44087, July 28, 2010]
+[49 FR 47198, Dec. 3, 1984, as amended at 58 FR 13003, Mar. 9, 1993; 59 FR 48997, Sept. 26, 1994; 60 FR 37563, July 21, 1995; 65 FR 70290, Nov. 22, 2000; 70 FR 46066, Aug. 9, 2005; 75 FR 44087, July 28, 2010; 85 FR 86795, Dec. 31, 2020]

@@ -1,5 +1,7 @@
 ##### § 389.15 Contents of notices of proposed rule making. #####
 
+Link to an amendment published at 85 FR 86849, Dec. 31, 2020.
+
 (a) Each notice of proposed rule making is published in the Federal Register, unless all persons subject to it are named and are personally served with a copy of it.
 
 (b) Each notice, whether published in the Federal Register or personally served, includes:

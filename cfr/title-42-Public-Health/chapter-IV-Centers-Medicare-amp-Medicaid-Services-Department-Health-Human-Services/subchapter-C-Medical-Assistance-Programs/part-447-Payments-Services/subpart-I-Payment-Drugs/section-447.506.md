@@ -1,5 +1,7 @@
 ##### § 447.506 Authorized generic drugs. #####
 
+Link to an amendment published at 85 FR 87103, Dec. 31, 2020.
+
 (a) *Definitions.* For the purpose of this section, the following definitions apply:
 
 *Primary manufacturer* means a manufacturer that holds the NDA of the authorized generic drug.
