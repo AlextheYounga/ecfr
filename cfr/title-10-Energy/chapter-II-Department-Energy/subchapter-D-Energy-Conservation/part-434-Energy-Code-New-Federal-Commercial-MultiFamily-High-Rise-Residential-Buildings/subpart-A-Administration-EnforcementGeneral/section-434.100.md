@@ -1,0 +1,5 @@
+##### § 434.100 Purpose. #####
+
+The provisions of this part provide minimum standards for energy efficiency for the design of new Federal commercial and multi-family high rise residential buildings, for which design for construction began before January 3, 2007. The performance standards are designed to achieve the maximum practicable improvements in energy efficiency and increases in the use of non-depletable sources of energy. This rule is based upon the ASHRAE/IESNA Standard 90.1-1989 and addenda b, c, d, e, f, g, and i. (This document is available from the American Society of Heating, Refrigerating and Air-Conditioning Engineers, Inc., 1791 Tullie Circle NE, Atlanta, GA.) It is not incorporated by reference in this document, but is mentioned for informational purposes only.
+
+[71 FR 70283, Dec. 4, 2006]

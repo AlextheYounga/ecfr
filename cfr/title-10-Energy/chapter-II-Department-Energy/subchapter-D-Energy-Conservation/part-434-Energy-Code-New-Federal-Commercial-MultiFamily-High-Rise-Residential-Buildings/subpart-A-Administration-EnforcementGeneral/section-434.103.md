@@ -1,0 +1,3 @@
+##### § 434.103 Referenced standards (RS). #####
+
+103.1 The standards, technical handbooks, papers and regulations listed in § 434.701, shall be considered part of this part to the prescribed extent of such reference. Where differences occur between the provisions of this part and referenced standards, the provisions of this part shall apply. Whenever a reference is made in this part to an RS standard it refers to the standards listed in § 434.701.

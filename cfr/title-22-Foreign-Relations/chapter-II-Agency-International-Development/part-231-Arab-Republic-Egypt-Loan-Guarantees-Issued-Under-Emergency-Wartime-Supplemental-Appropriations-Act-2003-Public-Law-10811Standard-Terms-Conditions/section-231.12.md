@@ -1,0 +1,3 @@
+##### § 231.12 Prosecution of claims. #####
+
+After payment by USAID to an Applicant hereunder, USAID shall have exclusive power to prosecute all claims related to rights to receive payments under the Eligible Notes to which it is thereby subrogated. If a Noteholder continues to have an interest in the outstanding Eligible Notes, such a Noteholder and USAID shall consult with each other with respect to their respective interests in such Eligible Notes and the manner of and responsibility for prosecuting claims.

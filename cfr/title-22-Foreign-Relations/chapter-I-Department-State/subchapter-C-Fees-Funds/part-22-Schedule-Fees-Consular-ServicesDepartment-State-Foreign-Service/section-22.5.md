@@ -1,0 +1,9 @@
+##### § 22.5 Remittances to Foreign Service posts. #####
+
+Remittances to Foreign Service posts from persons in the United States in payment of offical fees and charges or for the purpose of establishing deposits in advance of rendition of services shall be in a form acceptable to the post, drawn payable to the American Embassy (name of city), American Consulate General (name of city) or American Consulate (name of city), as the case may be. This will permit cashing of negotiable instruments for deposit in the Treasury when not negotiated locally. See § 23.2 of this chapter.
+
+(a) *Time at which fees become payable.* Fees are due and payble prior to issue or delivery to the interested party of a signed document, a copy of a record, or other paper representative of a service performed.
+
+(b) *Receipt for fees; register of services.* Every officer of the Foreign Service responsible for the performance of services as enumerated in the Schedule of Fees for Consular Services, Department of State and Foreign Service (§ 22.1), shall give receipts for fees collected for the official services rendered, specifying the nature of the service and numbered to correspond with entries in a register maintained for the purpose (22 U.S.C. 1192, 1193, and 1194). The register serves as a record of official acts performed by officers of the Foreign Service in a governmental or notarial capacity, corresponding in this regard with the record which notaries are usually expected or required to keep of their official acts. See § 92.2 of this chapter.
+
+(c) *Deposits to guarantee payment of fees or incidental costs.* When the amount of any fee is determinable only after initiation of the performance of a service, or if incidental costs are involved, the total fee and incidental costs shall be carefully estimated and an advance deposit required, subject to refund of any unused balance to the person making the deposit.

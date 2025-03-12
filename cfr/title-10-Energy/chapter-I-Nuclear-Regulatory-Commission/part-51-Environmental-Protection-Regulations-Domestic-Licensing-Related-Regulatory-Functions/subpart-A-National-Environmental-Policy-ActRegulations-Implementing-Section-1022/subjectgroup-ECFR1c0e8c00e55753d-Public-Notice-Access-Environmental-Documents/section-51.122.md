@@ -1,0 +1,5 @@
+##### § 51.122 List of interested organizations and groups. #####
+
+The NRC Office of the Chief Information Officer will maintain a master list of organizations and groups, including relevant conservation commissions, known to be interested in the Commission's licensing and regulatory activities. The NRC Office of the Chief Information Officer with the assistance of the appropriate NRC staff director will select from this master list those organizations and groups that may have an interest in a specific NRC NEPA action and will promptly notify such organizations and groups of the availability of a draft environmental impact statement or a draft finding of no significant impact.
+
+[49 FR 9381, Mar. 12, 1984, as amended at 52 FR 31612, Aug. 21, 1987; 54 FR 53316, Dec. 28, 1989; 77 FR 39907, July 6, 2012]

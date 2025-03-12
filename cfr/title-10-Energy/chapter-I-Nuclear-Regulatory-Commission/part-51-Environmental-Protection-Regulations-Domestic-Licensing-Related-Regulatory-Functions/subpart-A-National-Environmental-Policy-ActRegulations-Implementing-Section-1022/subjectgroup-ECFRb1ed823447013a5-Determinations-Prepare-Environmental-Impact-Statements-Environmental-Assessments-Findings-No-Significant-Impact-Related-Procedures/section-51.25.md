@@ -1,0 +1,3 @@
+##### § 51.25 Determination to prepare environmental impact statement or environmental assessment; eligibility for categorical exclusion. #####
+
+Before taking a proposed action subject to the provisions of this subpart, the appropriate NRC staff director will determine on the basis of the criteria and classifications of types of actions in §§ 51.20, 51.21 and 51.22 of this subpart whether the proposed action is of the type listed in § 51.22(c) as a categorical exclusion or whether an environmental impact statement or an environmental assessment should be prepared. An environmental assessment is not necessary if it is determined that an environmental impact statement will be prepared.

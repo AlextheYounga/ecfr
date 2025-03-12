@@ -1,0 +1,13 @@
+##### § 1003.32 Service and size of documents. #####
+
+The service of filings with the immigration courts depends on whether the documents are filed through EOIR's electronic filing application or in paper.
+
+(a) *Service of electronic filings.* If all parties are using EOIR's electronic filing application in a specific case, the parties do not need to serve a document that is filed through EOIR's electronic filing application on the opposing party. If all parties are using EOIR's electronic filing application in a specific case, EOIR's electronic filing application will effectuate service by providing a notification of all electronically filed documents on all parties. Upon successful upload by one of the parties, EOIR will email a notification to the email addresses provided in paragraph (b) of this section. If one or more parties are not filing through EOIR's electronic filing application in a specific case, the parties must follow the service procedures in paragraph (c) of this section.
+
+(b) *Valid email address.* Use of EOIR's electronic filing application requires a valid email address for electronic service. The immigration courts will use the email address provided through eRegistry for electronic service on participating parties. Users must immediately update their eRegistry account if their email address changes. Representatives must additionally file a new Form EOIR-28 with the immigration court if their email address changes. EOIR will consider service completed when the electronic notification is delivered to the last email address on file provided by the user.
+
+(c) *Service of paper filings.* If electronic filing is not being used in a particular case, the party filing with the immigration court must serve a copy of the filing on the opposing party and include a certificate of service showing service on the opposing party with their filing. The immigration judge will not consider any documents or applications that do not contain a certificate of service unless service is made on the record during a hearing.
+
+(d) *Size and format of documents.* Unless otherwise permitted by the immigration judge, all written material presented to immigration judges including offers of evidence, correspondence, briefs, memoranda, or other documents must be submitted on 81/2″ x 11″ size pages, whether filed electronically or in paper. The immigration judge may require that exhibits and other written material presented be indexed, paginated, and that a table of contents be provided.
+
+[86 FR 70723, Dec. 13, 2021]

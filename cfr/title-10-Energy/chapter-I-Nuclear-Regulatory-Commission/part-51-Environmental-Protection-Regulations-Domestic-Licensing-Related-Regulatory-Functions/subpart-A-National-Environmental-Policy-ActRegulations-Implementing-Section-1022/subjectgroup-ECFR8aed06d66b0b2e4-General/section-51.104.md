@@ -1,0 +1,13 @@
+##### § 51.104 NRC proceeding using public hearings; consideration of environmental impact statement. #####
+
+(a)(1) In any proceeding in which (i) a hearing is held on the proposed action, (ii) a final environmental impact statement has been prepared in connection with the proposed action, and (iii) matters within the scope of NEPA and this subpart are in issue, the NRC staff may not offer the final environmental impact statement in evidence or present the position of the NRC staff on matters within the scope of NEPA and this subpart until the final environmental impact statement is filed with the Environmental Protection Agency, furnished to commenting agencies and made available to the public.
+
+(2) Any party to the proceeding may take a position and offer evidence on the aspects of the proposed action within the scope of NEPA and this subpart in accordance with the provisions of part 2 of this chapter applicable to that proceeding or in accordance with the terms of the notice of hearing.
+
+(3) In the proceeding the presiding officer will decide those matters in controversy among the parties within the scope of NEPA and this subpart.
+
+(b) In any proceeding in which a hearing is held where the NRC staff has determined that no environmental impact statement need be prepared for the proposed action, unless the Commission orders otherwise, any party to the proceeding may take a position and offer evidence on the aspects of the proposed action within the scope of NEPA and this subpart in accordance with the provisions of part 2 of this chapter applicable to that proceeding or in accordance with the terms of the notice of hearing. In the proceeding, the presiding officer will decide any such matters in controversy among the parties.
+
+(c) In any proceeding in which a limited work authorization is requested, unless the Commission orders otherwise, a party to the proceeding may take a position and offer evidence only on the aspects of the proposed action within the scope of NEPA and this subpart which are within the scope of that party's admitted contention, in accordance with the provisions of part 2 of this chapter applicable to the limited work authorization or in accordance with the terms of any notice of hearing applicable to the limited work authorization. In the proceeding, the presiding officer will decide all matters in controversy among the parties.
+
+[49 FR 9381, Mar. 12, 1984, as amended at 72 FR 57445, Oct. 9, 2007]

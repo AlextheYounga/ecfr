@@ -1,0 +1,3 @@
+##### § 51.41 Requirement to submit environmental information. #####
+
+The Commission may require an applicant for a permit, license, or other form of permission, or amendment to or renewal of a permit, license or other form of permission, or a petitioner for rulemaking to submit such information to the Commission as may be useful in aiding the Commission in complying with section 102(2) of NEPA. The Commission will independently evaluate and be responsible for the reliability of any information which it uses.

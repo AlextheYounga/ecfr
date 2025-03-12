@@ -1,0 +1,3 @@
+##### § 1006.340 If I disclose unfavorable information required under § 1006.335, will I be prevented from participating in the transaction? #####
+
+As a primary tier participant, your disclosure of unfavorable information about yourself or a principal under § 1006.335 will not necessarily cause us to deny your participation in the covered transaction. We will consider the information when we determine whether to enter into the covered transaction. We also will consider any additional information or explanation that you elect to submit with the disclosed information.

@@ -1,0 +1,25 @@
+##### § 1003.31 Filing documents and applications. #####
+
+This section applies to the filing of all documents, including motions and applications, before the immigration courts.
+
+(a) *Filing parties.* DHS and all attorneys and accredited representatives of record for persons appearing before the immigration courts are required to electronically file all documents, including charging documents, with the immigration courts through EOIR's electronic filing application in all cases eligible for electronic filing. Although not required, unrepresented respondents or applicants; reputable individuals and accredited officials who are representatives of record; other authorized individuals; and practitioners filing an EOIR-61, may electronically file documents with the immigration courts through EOIR's electronic filing application in cases eligible for electronic filing. An unrepresented respondent or applicant; reputable individual; accredited official; other authorized individual; or practitioner filing an EOIR-61, who elects to use EOIR's electronic filing application shall be required to register with EOIR as a condition of using that application. If a party not required to file electronically opts to use EOIR's electronic filing application for a case, the individual must electronically file all documents with the immigration courts for that case unless an immigration judge, only upon a motion filed by the individual with good cause shown, grants leave to opt out of using the electronic filing application. Such an individual who has been granted leave to opt out of using EOIR's electronic filing application for a case may not subsequently opt in to use that application for the same case.
+
+(b) *Filing requirements.* If EOIR's electronic filing application is unavailable due to an unplanned system outage on the last day for filing in a specific case, then the filing deadline will be extended to the first day that the electronic filing application becomes accessible that is not a Saturday, Sunday, or legal holiday. For planned system outages, parties must electronically file documents during system availability within the applicable filing deadline or paper file documents within the applicable filing deadline. EOIR will issue public communications for planned system outages ahead of the scheduled outage. Any planned system outage announced five or fewer business days prior to the start of the outage will be treated as an unplanned outage. In all other situations in cases eligible for electronic filing, an immigration judge retains the discretion to accept paper filings in all cases.
+
+(c) *Originals.* Parties must make the originals of all filed documents available upon request to the immigration court or the opposing party for review.
+
+(d) *Classified information.* Notwithstanding any other provision of this chapter, classified information is never allowed to be electronically filed.
+
+(e) *Sealed medical documents.* Notwithstanding any other provision of this chapter, parties are not permitted to file electronically any sealed medical documents.
+
+(f) *Where to file.* All documents that are to be considered in a proceeding before an immigration judge must be filed with the immigration court having administrative control over the Record of Proceeding.
+
+(g) *Fees.* Except as provided in § 1240.11(f) of this chapter, all documents or applications filed with the immigration courts requiring the payment of a fee must be accompanied by a fee receipt from DHS, alternate proof of payment consistent with § 1103.7(a)(3) of this chapter, or a fee waiver request pursuant to § 1103.7(c). Except as provided in § 1003.8, any fee relating to immigration judge proceedings shall be paid to, and accepted by, any DHS office authorized to accept fees for other purposes pursuant to § 1103.7(a).
+
+(h) *Filing deadlines.* The immigration judge may set and extend time limits for the filing of applications and related documents and responses thereto, if any. If an application or document is not filed within the time set by the immigration judge, the opportunity to file that application or document shall be deemed waived.
+
+(i) *Filing under seal.* DHS may file documents under seal by including a cover sheet identifying the contents of the submission as containing information which is being filed under seal. Documents filed under seal shall only be examined by persons with authorized access to the administrative record.
+
+(j) *Signatures.* All documents filed with the immigration courts that require a signature must have an original, handwritten ink signature, an encrypted digital signature, or an electronic signature. Electronic filings submitted through EOIR's electronic filing application that require the user's signature may have a conformed signature. This paragraph is subject to the requirements of the application or document being submitted.
+
+[86 FR 70722, Dec. 13, 2021]

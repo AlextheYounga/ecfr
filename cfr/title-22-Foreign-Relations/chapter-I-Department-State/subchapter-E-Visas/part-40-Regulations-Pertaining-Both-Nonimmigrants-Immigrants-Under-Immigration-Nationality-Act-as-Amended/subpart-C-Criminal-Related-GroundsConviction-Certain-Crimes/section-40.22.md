@@ -1,0 +1,13 @@
+##### § 40.22 Multiple criminal convictions. #####
+
+(a) *Conviction(s) for crime(s) committed under age 18.* An alien shall not be ineligible to receive a visa under INA 212(a)(2)(B) by reason of any offense committed prior to the alien's fifteenth birthday. Nor shall an alien be ineligible under INA 212(a)(2)(B) by reason of any offense committed between the alien's fifteenth and eighteenth birthdays unless such alien was tried and convicted as an adult for a felony involving violence as defined in section 1(l) and section 16 of Title 18 of the United States Code. An alien, tried and convicted as an adult for a violent felony offense, as so defined, committed after having attained the age of fifteen years, and who has also been convicted of at least one other such offense or any other offense committed as an adult, shall be subject to the provisions of INA 212(a)(2)(B) regardless of whether at that time juvenile courts existed within the jurisdiction of the conviction.
+
+(b) *Conviction in absentia.* A conviction in absentia shall not constitute a conviction within the meaning of INA 212(a)(2)(B).
+
+(c) *Effect of pardon by appropriate U.S. authorities/foreign states.* An alien shall not be considered ineligible under INA 212(a)(2)(B) by reason in part of having been convicted of an offense for which a full and unconditional pardon has been granted by the President of the United States, by the Governor of a State of the United States, by the former High Commissioner for Germany acting pursuant to Executive Order 10062, or by the United States Ambassador to the Federal Republic of Germany acting pursuant to Executive Order 10608. A legislative pardon or a pardon, amnesty, expungement of penal record or any other act of clemency granted by a foreign state shall not serve to remove a ground of ineligibility under INA 212(a)(2)(B).
+
+(d) *Political offense.* The term “purely political offense”, as used in INA 212(a)(2)(B), includes offenses that resulted in convictions obviously based on fabricated charges or predicated upon repressive measures against racial, religious, or political minorities.
+
+(e) *Waiver of ineligibility—INA 212(h).* If an immigrant visa applicant is ineligible under INA 212(a)(2)(B) but is qualified to seek the benefits of INA 212(h), the consular officer shall inform the alien of the procedure for applying to DHS for relief under that provision of law. A visa may not be issued to the alien until the consular officer has received notification from DHS of the approval of the alien's application under INA 212(h).
+
+[56 FR 30422, July 2, 1991, as amended at 62 FR 67567, Dec. 29, 1997]

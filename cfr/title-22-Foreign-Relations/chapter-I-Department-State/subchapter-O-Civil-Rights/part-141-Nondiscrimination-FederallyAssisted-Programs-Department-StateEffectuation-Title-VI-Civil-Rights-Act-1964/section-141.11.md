@@ -1,0 +1,9 @@
+##### § 141.11 Effect on other regulations; forms and instructions. #####
+
+Nothing in this part shall be deemed to supersede: Executive Orders 10925 and 11114 and regulations issued thereunder, or any other regulations or instructions, insofar as such regulations, or instructions prohibit discrimination on the ground of race, color, or national origin in any program or situation to which this regulation is inapplicable, or prohibit discrimination on any other ground.
+
+(a) *Forms and instructions.* Each responsible Department official shall issue, and promptly make available to interested persons, forms and detailed instructions and procedures for effectuating this part as applied to programs to which this part applies and for which he is responsible.
+
+(b) *Supervision and coordination.* The Secretary may, from time to time, assign to officials of the Department, or to officials of other departments or agencies of the Government with the consent of such department or agencies, responsibilities in connection with the effectuation of the purposes of title VI of the Act and this part including the achievement of effectiveness coordination and maximum uniformity within the Department and within the executive branch of the Government in the application of title VI and this part to similar programs and in similar situations. Any action taken, determination made, or requirement imposed by an official of another department or agency acting pursuant to an assignment of responsibility under this subsection shall have the same effect as though such action had been taken by the responsible official of this Department.
+
+[22 FR 10882, Dec. 27, 1957, as amended at 38 FR 19748, July 5, 1973]

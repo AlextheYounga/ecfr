@@ -1,0 +1,9 @@
+##### § 51.62 Environmental report—land disposal of radioactive waste licensed under 10 CFR part 61. #####
+
+(a) Each applicant for issuance of a license for land disposal of radioactive waste pursuant to part 61 of this chapter shall submit with its application to: ATTN: Document Control Desk, Director of Nuclear Material Safety and Safeguards, a separate document, entitled “Applicant's Environmental Report—License for Land Disposal of Radioactive Waste.” The environmental report and any supplement to the environmental report may incorporate by reference information contained in the application or in any previous application, statement or report filed with the Commission provided that such references are clear and specific and that copies of the information so incorporated are available at the NRC Web site, *http://www.nrc.gov,* and/or at the NRC Public Document Room.
+
+(b) The environmental report shall contain the information specified in § 51.45, shall address the applicant's environmental monitoring program required by §§ 61.12(l), 61.53 and 61.59(b) of this chapter, and shall be as complete as possible in the light of information that is available at the time the environmental report is submitted.
+
+(c) The applicant shall supplement the environmental report in a timely manner as necessary to permit the Commission to review, prior to issuance, amendment or renewal of a license, new information regarding the environmental impact of previously proposed activities, information regarding the environmental impact of any changes in previously proposed activities, or any significant new information regarding the environmental impact of closure activities and long-term performance of the disposal site.
+
+[49 FR 9381, Mar. 12, 1984, as amended at 53 FR 43420, Oct. 27, 1988; 64 FR 48952, Sept. 9, 1999; 68 FR 58811, Oct. 10, 2003]

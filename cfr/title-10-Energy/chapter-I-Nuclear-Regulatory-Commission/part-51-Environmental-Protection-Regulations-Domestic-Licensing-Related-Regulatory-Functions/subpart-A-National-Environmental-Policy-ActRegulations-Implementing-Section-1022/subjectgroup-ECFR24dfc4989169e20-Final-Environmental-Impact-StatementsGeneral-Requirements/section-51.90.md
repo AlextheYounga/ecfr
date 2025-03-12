@@ -1,0 +1,3 @@
+##### § 51.90 Final environmental impact statement—general. #####
+
+After receipt and consideration of comments requested pursuant to §§ 51.73 and 51.117, the NRC staff will prepare a final environmental impact statement in accordance with the requirements in §§ 51.70(b) and 51.71 for a draft environmental impact statement. The format provided in section 1(a) of appendix A of this subpart should be used.
