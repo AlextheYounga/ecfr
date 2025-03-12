@@ -4,4 +4,4 @@
 
 (b) [Reserved]
 
-[82 FR 22760, May 18, 2017]Effectve Date Note:At 82 FR 22761, May 18, 2017, § 20.23 was added. Paragraph (a) contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[82 FR 22761, May 18, 2017]Effectve Date Note:At 82 FR 22761, May 18, 2017, § 20.23 was added. Paragraph (a) contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

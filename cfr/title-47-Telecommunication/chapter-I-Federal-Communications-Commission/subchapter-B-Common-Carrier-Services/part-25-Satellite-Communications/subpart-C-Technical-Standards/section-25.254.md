@@ -40,10 +40,10 @@
 
 (6) Compliance with these rules is based on the use of measurement instrumentation employing a resolution bandwidth of 1 MHz or greater. However, in the 1 MHz bands immediately above and adjacent to the 2495 MHz a resolution bandwidth of at least one percent of the emission bandwidth of the fundamental emission of the transmitter may be employed. A narrower resolution bandwidth is permitted in all cases to improve measurement accuracy, provided the measured power is integrated over the full required measurement bandwidth (i.e., 1 MHz or 1 percent of emission bandwidth, as specified). The emission bandwidth is defined as the width of the signal between two points, one below the carrier center frequency and one above the carrier center frequency, outside of which all emissions are attenuated at least 26 dB below the transmitter power. When an emission outside of the authorized bandwidth causes harmful interference, the Commission may, at its discretion, require greater attenuation than specified in this section.
 
+(e) Licensees of terrestrial low-power systems operating in the 2483.5-2495 MHz band shall operate consistent with the technical limits and other requirements specified in § 25.149(c)(4) and (g)(2)-(3).
+
 Note to § 25.254:
 
 The preceding rules of § 25.254 are based on cdma2000 and IS-95 system architecture. To the extent that a 1.6/2.4 GHz Mobile-Satellite Service licensee is able to demonstrate that the use of different system architectures would produce no greater potential interference than would be produced as a result of implementing the rules of this section, the licensee may apply for ATC authorization based on another system architecture.
-
-(e) Licensees of terrestrial low-power systems operating in the 2483.5-2495 MHz band shall operate consistent with the technical limits and other requirements specified in § 25.149(c)(4) and (g)(2)-(3).
 
 [68 FR 33653, June 5, 2003, as amended at 69 FR 18803, Apr. 9, 2004; 70 FR 19320, Apr. 13, 2005; 73 FR 25592, May 5, 2008; 78 FR 8430, Feb. 6, 2013; 82 FR 8819, Jan. 31, 2017]

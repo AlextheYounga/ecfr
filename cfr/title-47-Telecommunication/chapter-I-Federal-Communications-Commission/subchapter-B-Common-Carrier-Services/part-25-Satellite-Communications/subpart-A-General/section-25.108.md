@@ -1,10 +1,14 @@
 ##### § 25.108 Incorporation by reference. #####
 
-Link to an amendment published at 82 FR 40494, Aug. 25, 2017.
-
 (a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Commission must publish a document in the Federal Register and the material must be available to the public. All approved material is available for inspection at the Federal Communications Commission, 445 12th Street SW., Reference Information Center, Room CY-A257, Washington, DC 20554, 202-418-0270, and is available from the sources listed below. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
-(b) International Telecommunication Union (ITU), Place des Nations, 1211 Geneva 20 Switzerland; *www.itu.int;* Voice: +41 22 730 5111; Fax: +41 22 733 7256; email: *itumail@itu.int.*
+(b) European Telecommunications Standards Institute (ETSI), 650 Route des Lucioles, 06921 Sophia-Antipolis Cedex, France; *http://www.etsi.org;* Voice: +33 (0)4 92 94 42 00; Fax: +33 (0)4 93 65 47 16; email: *webstore@etsi.org.*
+
+(1) ETSI TS 103 129 V1.1.2 (2014-03), “Digital Video Broadcasting (DVB); Framing structure, channel coding and modulation of a carrier identification system (DVB-CID) for satellite transmission,” Version 1.1.2, March 2014. Incorporation by reference approved for § 25.281(b).
+
+(2) [Reserved]
+
+(c) International Telecommunication Union (ITU), Place des Nations, 1211 Geneva 20 Switzerland; *www.itu.int;* Voice: +41 22 730 5111; Fax: +41 22 733 7256; email: *itumail@itu.int.*
 
 (1) ITU Radio Regulations, Volume 1: Articles, Article 9, “Procedure for effecting coordination with or obtaining agreement of other administrations,” Section II, “Procedure for effecting coordination,” Edition of 2012, *http://www.itu.int/pub/R-REG-RR-2012.* Incorporation by reference approved for § 25.111(e).
 
@@ -18,4 +22,4 @@ Link to an amendment published at 82 FR 40494, Aug. 25, 2017.
 
 (6) Recommendation ITU-R S.1503-2, “Functional description to be used in developing software tools for determining conformity of non-geostationary-satellite orbit fixed-satellite system networks with limits contained in Article 22 of the Radio Regulations,” December 2013, *http://www.itu.int/rec/R-REC-S.1503-2-201312-I.* Incorporation by reference approved for § 25.146(a).
 
-[81 FR 55324, Aug. 18, 2016, as amended at 82 FR 37029, Aug. 8, 2017]
+[81 FR 55324, Aug. 18, 2016, as amended at 82 FR 37029, Aug. 8, 2017; 82 FR 40494, Aug. 25, 2017]
