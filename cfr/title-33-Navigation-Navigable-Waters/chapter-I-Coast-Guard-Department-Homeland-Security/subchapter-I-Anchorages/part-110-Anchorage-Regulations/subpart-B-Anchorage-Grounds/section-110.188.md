@@ -1,6 +1,6 @@
 ##### § 110.188 Atlantic Ocean off Miami and Miami Beach, Fla. #####
 
-(a) *The anchorage areas* - (1) *Anchorage A.* All area of the Atlantic Ocean, encompassed by a line connecting the points of the following North America Datum 83 coordinates:
+(a) *The anchorage areas*—(1) *Anchorage A.* All area of the Atlantic Ocean, encompassed by a line connecting the points of the following North America Datum 83 coordinates:
 
 |    Latitude    |    Longitude    |
 |----------------|-----------------|
@@ -18,7 +18,7 @@
 |25°46′32.712″ N.|080°04′28.387″ W.|
 |25°46′43.770″ N.|080°05′02.360″ W.|
 
-*(b) The regulations.* (1) Vessels in the Atlantic Ocean in the vicinity of Port of Miami must anchor only within the anchorage areas hereby defined and established, except in cases of emergency.
+(b) *The regulations.* (1) Vessels in the Atlantic Ocean in the vicinity of Port of Miami must anchor only within the anchorage areas hereby defined and established, except in cases of emergency.
 
 (2) Prior to entering the anchorage areas, all vessels must notify the Coast Guard Captain of the Port via VHF-FM channel 16.
 

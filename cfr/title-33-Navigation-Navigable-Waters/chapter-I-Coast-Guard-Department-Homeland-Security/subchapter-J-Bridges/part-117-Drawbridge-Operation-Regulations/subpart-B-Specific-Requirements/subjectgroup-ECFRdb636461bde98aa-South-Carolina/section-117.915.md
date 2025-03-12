@@ -4,4 +4,4 @@
 
 (b) The draw of the Seaboard System Railroad bridge, mile 12.0 near Drayton Hall, shall open on signal from 7 a.m. to 11 p.m. From 11 p.m. to 7 a.m., the draw shall open on signal if at least three hours notice is given.
 
-[CGD 82-025, 49 FR 17452, Apr. 24, 1984, as amended at 82 FR 59519, Dec. 15, 2017]
+[CGD 82-025, 49 FR 17452, Apr. 24, 1984, as amended by USCG-2016-0776, 82 FR 59519, Dec. 15, 2017]

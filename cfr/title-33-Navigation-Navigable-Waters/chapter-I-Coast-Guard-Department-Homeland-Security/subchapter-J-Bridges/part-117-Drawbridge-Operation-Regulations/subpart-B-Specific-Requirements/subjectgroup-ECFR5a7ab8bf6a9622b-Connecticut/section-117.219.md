@@ -14,4 +14,4 @@
 
 (c) The draw of the East Washington Street Bridge at mile 0.6, shall open on signal or after one prolonged blast followed by two short blasts, if at least a twenty four hour notice is given by calling the number posted at the bridge.
 
-[ USCG-2010-0787, 75 FR 55477, Sept. 13, 2010, as amended by USCG-2017-l0750, 83 FR 3963, Jan. 29, 2018]
+[USCG-2010-0787, 75 FR 55477, Sept. 13, 2010, as amended by USCG-2017-0750, 83 FR 3963, Jan. 29, 2018]

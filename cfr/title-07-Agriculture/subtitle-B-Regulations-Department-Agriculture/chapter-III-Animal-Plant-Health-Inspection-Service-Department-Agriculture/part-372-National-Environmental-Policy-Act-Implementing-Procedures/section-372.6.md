@@ -1,7 +1,5 @@
-##### § 372.6 Early planning for applicants and non-APHIS entities. #####
+##### § 372.6 Early planning. #####
 
-Link to an amendment published at 83 FR 24011, May 24, 2018.
+Prospective applicants are encouraged to contact APHIS program officials to determine what types of environmental analyses or documentation, if any, need to be prepared.
 
-Each prospective applicant who anticipates the need for approval of proposed activities classified as normally requiring environmental documentation is encouraged to contact, at the earliest opportunity, APHIS' program staff.
-
-[60 FR 6002, Feb. 1, 1995; 60 FR 13212, Mar. 10, 1995]
+[83 FR 24011, May 24, 2018]

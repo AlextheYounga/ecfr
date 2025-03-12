@@ -1,5 +1,7 @@
 ##### § 17.364 Eligibility determinations. #####
 
+Link to an amendment published at 83 FR 29449, June 25, 2018.
+
 Determinations of legal eligibility and medical need for hospitalization of United States veterans for treatment rest exclusively with the United States Department of Veterans Affairs. Determinations as to various factors upon which eligibility may depend shall be made as follows:
 
 (a) *Determinations of service connection.* For the purpose of meeting any requirement in 38 U.S.C. 1724 and 1732, and 38 CFR 17.36 through 17.37 for service-connected disability, the United States Department of Veterans Affairs shall determine that under laws it administers the disability in question was incurred in or aggravated by service, and

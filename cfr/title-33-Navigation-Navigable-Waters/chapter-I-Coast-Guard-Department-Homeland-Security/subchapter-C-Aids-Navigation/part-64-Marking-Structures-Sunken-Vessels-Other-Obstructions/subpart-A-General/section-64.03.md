@@ -10,7 +10,7 @@
 
 (b) The following obstructions are exempt from the requirements of this part:
 
-(1) Dredging pipelines subject to Subchapter E of this chapter;
+(1) Dredging pipelines subject to subchapter E of this chapter;
 
 (2) Bridges subject to subchapter J of this chapter;
 
@@ -20,4 +20,4 @@
 
 (5) Artificial islands and structures subject to Part 67 of this subchapter.
 
-[CGD 78-156, 48 FR 11267, Mar. 17, 1983, as amended by USCG-2016-0498, 82 FR 35079, July 28, 2017]
+[CGD 78-156, 48 FR 11267, Mar. 17, 1983, as amended by USCG-2016-0498, 82 FR 35080, July 28, 2017]

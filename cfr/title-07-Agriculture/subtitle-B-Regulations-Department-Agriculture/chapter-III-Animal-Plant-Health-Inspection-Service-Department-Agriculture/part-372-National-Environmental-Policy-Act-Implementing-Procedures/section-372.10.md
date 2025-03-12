@@ -1,5 +1,11 @@
-##### § 372.10 Supplementing environmental impact statements. #####
+##### § 372.10 Process for rapid response to emergencies. #####
 
-Link to an amendment published at 83 FR 24011, May 24, 2018.
+When it is determined (by the Administrator or the delegated Agency official responsible for environmental review) that an emergency exists that requires immediate action before preparing and completing the usual NEPA review, then the provisions of this section apply.
 
-Once a decision to supplement an environmental impact statement is made, a notice of intent will be published. The administrative record will thereafter be open. The supplemental document will then be processed in the same fashion (exclusive of scoping) as a draft and a final statement (unless alternative procedures are approved by CEQ) and will become part of the administrative record.
+(a) The Administrator or the delegated Agency official responsible for environmental review may take actions that are necessary to control the immediate impacts of the emergency and that are urgently needed to prevent imminent damage to public health or safety, or prevent threats to valuable resources. When taking such actions, the Administrator or the delegated Agency official responsible for environmental review will consider the probable environmental consequences of the emergency action and mitigate foreseeable adverse environmental effects to the extent practicable.
+
+(b) If a proposed emergency action is normally analyzed in an environmental assessment as described in § 372.5 and the nature and scope of proposed emergency actions are such that there is insufficient time to prepare an EA and FONSI before commencing the proposed action, the Administrator shall consult with APHIS' Chief of Environmental and Risk Analysis Services about alternative arrangements for NEPA compliance. APHIS' Chief of Environmental and Risk Analysis Services may authorize emergency alternative arrangements for completing the required NEPA compliance documentation. Any alternative arrangements must be documented and notice of their use provided to CEQ.
+
+(c) If a proposed emergency action is likely to result in significant environmental impacts, then APHIS will immediately consult with CEQ and request alternative arrangements in accordance with CEQ regulations at 40 CFR 1506.11. Such alternative arrangements will apply only to the proposed actions necessary to control the immediate impacts of the emergency. Other proposed actions remain subject to NEPA analysis and documentation in accordance with the CEQ regulations and these regulations.
+
+[83 FR 24011, May 24, 2018]

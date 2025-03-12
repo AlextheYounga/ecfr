@@ -1,5 +1,7 @@
 ##### § 17.35 Hospital care and medical services in foreign countries. #####
 
+Link to an amendment published at 83 FR 29448, June 25, 2018.
+
 The Secretary may furnish hospital care and medical services to any veteran sojourning or residing outside the United States, without regard to the veteran's citizenship:
 
 (a) If necessary for treatment of a service-connected disability, or any disability associated with and held to be aggravating a service-connected disability;

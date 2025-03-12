@@ -1,5 +1,7 @@
 ##### § 171.17 Proration. #####
 
+Link to an amendment published at 83 FR 29657, June 25, 2018.
+
 Annual fees will be prorated for NRC licensees as follows:
 
 (a) Reactors, 10 CFR part 72 licensees who do not hold 10 CFR part 50 licenses, and materials licenses with annual fees of $100,000 or greater for a single fee category.

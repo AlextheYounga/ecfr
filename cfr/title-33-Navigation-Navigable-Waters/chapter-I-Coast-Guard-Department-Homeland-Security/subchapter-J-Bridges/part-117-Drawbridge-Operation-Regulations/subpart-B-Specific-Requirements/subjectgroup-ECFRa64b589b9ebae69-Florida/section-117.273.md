@@ -4,4 +4,4 @@
 
 (b) The drawspans of the SR401 Drawbridges, mile 5.5 at Port Canaveral, must open on signal; except that, from 6:30 a.m. to 8 a.m. and 3:30 p.m. to 5:15 p.m. Monday through Friday except Federal holidays and from 11 a.m. to 2 p.m. on Saturdays and Sundays, the drawspans need not be opened for the passage of vessels. From 10 p.m. to 6 a.m., the drawspans must open on signal if at least three hours notice is given. The drawspans must open as soon as possible for the passage of public vessels of the United States and tugs with tows.
 
-[USCG-2001-10881, 71 FR 70310, Dec. 4, 2006, as amended at 83 FR 4430, Jan. 31, 2018]
+[USCG-2001-10881, 71 FR 70310, Dec. 4, 2006, as amended by USCG-2017-0161, 83 FR 4430, Jan. 31, 2018]

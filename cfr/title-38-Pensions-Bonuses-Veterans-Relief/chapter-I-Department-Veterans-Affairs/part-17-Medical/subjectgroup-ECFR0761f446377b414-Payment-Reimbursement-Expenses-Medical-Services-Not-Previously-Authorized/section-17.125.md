@@ -1,5 +1,7 @@
 ##### § 17.125 Where to file claims. #####
 
+Link to an amendment published at 83 FR 29448, June 25, 2018.
+
 Claims for payment or reimbursement of the expenses of services not previously authorized should be filed as follows:
 
 (a) *For services rendered in the U.S.* Claims for the expenses of care or services rendered in the United States, including the Territories or possessions of the United States, should be filed with the Chief, Outpatient Service, or Clinic Director of the VA facility designated as a clinic or jurisdiction which serves the region in which the care or services were rendered.

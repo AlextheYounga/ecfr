@@ -28,4 +28,4 @@
 
 (j) *To whom application should be presented.* The application and the papers and plans accompanying it should be submitted to the District Commander having jurisdiction over the area in which the bridge site is located.
 
-[CGFR 67-46, 32 FR 17771, Dec. 12, 1967, as amended by CGD 75-046, 40 FR 24898, June 11, 1975; CGD 80-099, 46 FR 38354, July 27, 1981; CGD 82-102, 48 FR 54299, Dec. 2, 1982; USCG-2011-0257, 76 FR 31836, June 2, 2011: USCG-2012-0306, 77 FR 37314, June 21, 2012; USCG-2016-0498, 82 FR 35080, July 28, 2017]
+[CGFR 67-46, 32 FR 17771, Dec. 12, 1967, as amended by CGD 75-046, 40 FR 24898, June 11, 1975; CGD 80-099, 46 FR 38354, July 27, 1981; CGD 82-102, 48 FR 54299, Dec. 2, 1982; USCG-2011-0257, 76 FR 31836, June 2, 2011: USCG-2012-0306, 77 FR 37314, June 21, 2012; USCG-2016-0498, 82 FR 35081, July 28, 2017]

@@ -16,4 +16,4 @@ The draws of the Bayview (State Route 42/57) and Michigan Street bridges, miles 
 
 (2) From January 1 through March 14, the draw shall open on signal if notice is given at least 12 hours in advance of intended passage.
 
-[USCG-2011-1109, 77 FR 44142, July 27, 2012, as amended by USCG-2017-0050, 82 FR 11151, Feb. 21, 2017; 83 FR 8936, Mar. 2, 2018]
+[USCG-2011-1109, 77 FR 44142, July 27, 2012, as amended by USCG-2017-0050, 83 FR 8936, Mar. 2, 2018]

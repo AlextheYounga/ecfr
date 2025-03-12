@@ -1,5 +1,7 @@
 ##### § 170.11 Exemptions. #####
 
+Link to an amendment published at 83 FR 29645, June 25, 2018.
+
 (a) No application fees, license fees, renewal fees, inspection fees, or special project fees shall be required for:
 
 (1) A special project that is a request/report submitted to the NRC -
