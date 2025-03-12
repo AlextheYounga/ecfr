@@ -1,7 +1,5 @@
 ##### § 250.1703 What are the general requirements for decommissioning? #####
 
-Link to an amendment published at 88 FR 23580, Apr. 18, 2023.
-
 When your facilities are no longer useful for operations, you must:
 
 (a) Get approval from the appropriate District Manager before decommissioning wells and from the Regional Supervisor before decommissioning platforms and pipelines or other facilities;
@@ -12,11 +10,10 @@ When your facilities are no longer useful for operations, you must:
 
 (d) Decommission all pipelines;
 
-(e) Clear the seafloor of all obstructions created by your lease and pipeline right-of-way operations;
+(e) Clear the seafloor of all obstructions created by your lease, pipeline right-of-way, or right-of-use and easement operations;
 
 (f) Follow all applicable requirements of subpart G of this part; and
 
 (g) Conduct all decommissioning activities in a manner that is safe, does not unreasonably interfere with other uses of the OCS, and does not cause undue or serious harm or damage to the human, marine, or coastal environment.
 
-[76 FR 64462, Oct. 18, 2011, as amended at 81 FR 26037, Apr. 29 2016; 84
-FR 21984, May 15, 2019]
+[76 FR 64462, Oct. 18, 2011, as amended at 81 FR 26037, Apr. 29 2016; 84 FR 21984, May 15, 2019; 88 FR 23580, Apr. 18, 2023]

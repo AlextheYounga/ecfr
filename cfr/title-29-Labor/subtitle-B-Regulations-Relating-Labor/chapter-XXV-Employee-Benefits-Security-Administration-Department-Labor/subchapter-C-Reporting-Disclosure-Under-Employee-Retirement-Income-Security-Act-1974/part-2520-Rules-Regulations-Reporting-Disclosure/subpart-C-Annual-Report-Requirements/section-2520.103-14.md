@@ -1,5 +1,7 @@
 ##### § 2520.103-14 Contents of the annual report for defined contribution group (DCG) reporting arrangements. #####
 
+Link to an amendment published at 88 FR 31610, May 18, 2023.
+
 (a) *General.* A defined contribution group reporting arrangement as described in § 2520.104-51(c) (“DCG reporting arrangement” or “DCG”) that files a consolidated annual report pursuant to § 2520.104-51 shall include in such report the items set forth in paragraph (b) of this section.
 
 (b) *Contents of the annual report for DCG reporting arrangement.* (1) A Form 5500 “Annual Return/Report of Employee Benefit Plan” and any statements or schedules required to be attached to the form, completed in accordance with the instructions for the form, including Schedule A (Insurance Information), Schedule C (Service Provider Information), Schedule D (DFE/Participating Plan Information), Schedule DCG (Individual Plan Information), Schedule G (Financial Transaction Schedules), Schedule H (Financial Information), and other applicable financial schedules referred to in § 2520.103-10, completed in accordance with the instructions for the form.

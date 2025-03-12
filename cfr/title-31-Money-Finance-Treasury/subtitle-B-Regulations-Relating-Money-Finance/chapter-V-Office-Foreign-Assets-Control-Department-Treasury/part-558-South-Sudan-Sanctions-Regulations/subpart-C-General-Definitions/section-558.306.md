@@ -1,3 +1,3 @@
-##### § 558.306 OFAC. #####
+##### § 558.306 Interest. #####
 
-The term *OFAC* means the Department of the Treasury's Office of Foreign Assets Control.
+Except as otherwise provided in this part, the term *interest,* when used with respect to property (e.g., “an interest in property”), means an interest of any nature whatsoever, direct or indirect.

@@ -1,7 +1,5 @@
 ##### § 250.105 Definitions. #####
 
-Link to an amendment published at 88 FR 23579, Apr. 18, 2023.
-
 Terms used in this part will have the meanings given in the Act and as defined in this section:
 
 *Act* means the OCS Lands Act, as amended (43 U.S.C. 1331 *et seq.*).
@@ -67,8 +65,6 @@ Terms used in this part will have the meanings given in the Act and as defined i
 *Director* means the Director of BSEE of the U.S. Department of the Interior, or an official authorized to act on the Director's behalf.
 
 *District Manager* means the BSEE officer with authority and responsibility for operations or other designated program functions for a district within a BSEE Region. For activities on the Alaska OCS, any reference in this part to District Manager means the BSEE Regional Supervisor.
-
-*Easement* means an authorization for a nonpossessory, nonexclusive interest in a portion of the OCS, whether leased or unleased, which specifies the rights of the holder to use the area embraced in the easement in a manner consistent with the terms and conditions of the granting authority.
 
 *Eastern Gulf of Mexico* means all OCS areas of the Gulf of Mexico the BOEM Director decides are adjacent to the State of Florida. The Eastern Gulf of Mexico is not the same as the Eastern Planning Area, an area established for OCS lease sales.
 
@@ -176,7 +172,7 @@ Terms used in this part will have the meanings given in the Act and as defined i
 
 *Regional Supervisor* means the BSEE officer with responsibility and authority for operations or other designated program functions within a BSEE Region.
 
-*Right-of-use* means any authorization issued under 30 CFR Part 550 to use OCS lands.
+*Right-of-Use and Easement (RUE)* means a right to use a portion of the seabed at an OCS site, other than on a lease you own, to construct, secure to the seafloor, use, modify, or maintain platforms, sea floor production equipment, artificial islands, facilities, installations, and other devices, established to support the exploration, development, or production of oil and gas, mineral, or energy resources from an OCS or State submerged lands lease.
 
 *Right-of-way pipelines* are those pipelines that are contained within:
 
@@ -250,4 +246,4 @@ Terms used in this part will have the meanings given in the Act and as defined i
 
 *You* means a lessee, the owner or holder of operating rights, a designated operator or agent of the lessee(s), a pipeline right-of-way holder, or a State lessee granted a right-of-use and easement.
 
-[76 FR 64462, Oct. 18, 2011, as amended at 78 FR 20439, Apr. 5, 2013; 81 FR 46560, July 15, 2016]
+[76 FR 64462, Oct. 18, 2011, as amended at 78 FR 20439, Apr. 5, 2013; 81 FR 46560, July 15, 2016; 88 FR 23579, Apr. 18, 2023]
