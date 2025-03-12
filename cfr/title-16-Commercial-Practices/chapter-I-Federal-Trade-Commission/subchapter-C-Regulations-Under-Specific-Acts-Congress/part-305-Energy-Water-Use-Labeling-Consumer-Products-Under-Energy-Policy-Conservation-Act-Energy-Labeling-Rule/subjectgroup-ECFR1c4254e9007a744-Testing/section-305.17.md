@@ -1,7 +1,5 @@
 ##### § 305.17 Label content for water heaters. #####
 
-Link to an amendment published at 88 FR 1139, Jan. 9, 2023.
-
 (a) *Label content.* (1) Headlines and texts, as illustrated in the prototype and sample labels in appendix L to this part, are standard for all labels.
 
 (2) Name of manufacturer or private labeler shall, in the case of a corporation, be deemed to be satisfied only by the actual corporate name, which may be preceded or followed by the name of the particular division of the corporation. In the case of an individual, partnership, or association, the name under which the business is conducted shall be used. Inclusion of the name of the manufacturer or private labeler is optional at the discretion of the manufacturer or private labeler.
@@ -24,7 +22,7 @@ Link to an amendment published at 88 FR 1139, Jan. 9, 2023.
 
 Your costs will depend on your utility rates and use.
 
-Cost range based only on models fueled by [natural gas, oil, propane, or electricity] with a [very small, low, medium, or high] first hour rating [fewer than 18 gallons, 18-50.9 gallons, 51-74.9 gallons, or greater than 75 gallons].
+Cost range based only on models fueled by [natural gas, oil, propane, or electricity] with a [very small, low, medium, or high] first hour rating [fewer than 18 gallons, 18-50.9 gallons, 51-74.9 gallons, or 75 gallons or more].
 
 Estimated energy cost is based on a national average [electricity, natural gas, propane, or oil] cost of [\_\_\_\_ cents per kWh or $\_\_\_\_ per therm or gallon].
 
@@ -36,7 +34,7 @@ Estimated yearly energy use: \_\_\_\_ [kWh or therms].
 
 Your costs will depend on your utility rates and use.
 
-Cost range based only on [electric models or models fueled by natural gas] with a [very small, low, medium, or high] gallons per minute rating [0 to 1.6, 1.7 to 2.7, 2.8 to 4.0, or greater than 4.0].
+Cost range based only on [electric models or models fueled by natural gas or models fueled by propane] with a [very small, low, medium, or high] gallons per minute rating [0 to 1.6, 1.7 to 2.7, 2.8 to 3.9, or 4.0 or more].
 
 Estimated energy cost is based on a national average [electricity, natural gas, or propane] cost of [\_\_\_\_ cents per kWh or $\_\_\_\_ per therm or gallon].
 
@@ -56,4 +54,4 @@ Federal law prohibits removal of this label before consumer purchase.
 
 (3) The manufacturer or private labeler may include the ENERGY STAR logo on the bottom right corner of the label for certified products. The logo must be 1 inch by 1 inch in size. Only manufacturers that have signed a Memorandum of Understanding with the Department of Energy or the Environmental Protection Agency may add the ENERGY STAR logo to labels on certified covered products; such manufacturers may add the ENERGY STAR logo to labels only on those covered products that are contemplated by the Memorandum of Understanding.
 
-[84 FR 58035, Oct. 30, 2019]
+[84 FR 58035, Oct. 30, 2019, as amended at 88 FR 1139, Jan. 9, 2023]

@@ -1,7 +1,9 @@
 ##### § 423.1 Suits against the Social Security Administration and its employees in their official capacities. #####
 
-(a) *Suits involving claims arising under Titles II, VIII, and/or XVI.* In cases seeking judicial review of final Agency decisions on individual claims for benefits under titles II, VIII, and/or XVI of the Social Security Act, summonses and complaints to be served by mail on the Social Security Administration or the Commissioner of Social Security should be sent to the office in the Social Security Administration's Office of the General Counsel that is responsible for the processing and handling of litigation in the particular jurisdiction in which the complaint has been filed. The names, addresses, and jurisdictional responsibilities of these offices are published in the Federal Register, and are available on-line at the Social Security Administration's Internet site, *http://www.socialsecurity.gov.*
+(a) *Suits involving individual claims arising under title II, VIII, XVI, or XVIII of the Social Security Act.* (1) In cases seeking judicial review of final decisions of the Commissioner of Social Security on individual claims for benefits under title II, VIII, or XVI of the Social Security Act, or on individual claims for a Medicare Part D subsidy under title XVIII of the Act, summonses and complaints to be served by mail on the Social Security Administration or the Commissioner of Social Security should be sent to the Office of the General Counsel, Office of Program Litigation, Social Security Administration, 6401 Security Boulevard, Baltimore, MD 21235.
 
-(b) *Other suits.* In cases that do not involve claims described in paragraph (a) of this section, summonses and complaints to be served by mail on the Social Security Administration or the Commissioner of Social Security should be sent to the General Counsel, Social Security Administration, Room 617, Altmeyer Building, 6401 Security Boulevard, Baltimore, MD 21235.
+(2) We also accept electronic service in these cases, as provided by the Federal Rules of Civil Procedure.
 
-[70 FR 73136, Dec. 9, 2005]
+(b) *Other suits.* In cases that do not involve claims described in paragraph (a) of this section, summonses and complaints to be served by mail on the Social Security Administration or the Commissioner of Social Security should be sent to the Office of the General Counsel, Social Security Administration, 6401 Security Boulevard, Baltimore, MD 21235.
+
+[88 FR 1329, Jan. 10, 2023]

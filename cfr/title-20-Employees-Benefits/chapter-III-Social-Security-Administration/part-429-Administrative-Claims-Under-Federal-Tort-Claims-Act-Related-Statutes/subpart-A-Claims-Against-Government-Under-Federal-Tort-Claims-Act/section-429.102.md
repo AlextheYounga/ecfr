@@ -4,6 +4,6 @@
 
 (b) *Filing an amendment to your claim.* You may file an amendment to your properly filed claim at any time before the SSA Claims Officer (as defined in § 429.201(d)(3)) makes a final decision on your claim or before you bring suit under 28 U.S.C. 2675(a). You must submit an amendment in writing and sign it. If you file a timely amendment, SSA has 6 months in which to finally dispose of the amended claim. Your option to file suit does not begin until 6 months after you file the amendment.
 
-(c) *Where to obtain claims forms and file claims.* You can obtain claims forms by writing to the Social Security Administration, Office of the General Counsel, Office of General Law, 6401 Security Boulevard, Room 617 Altmeyer Building, Baltimore, Maryland 21235-6401. You may also file your claim with the Social Security Administration at this same address.
+(c) *Where to obtain claims forms and file claims.* You can obtain claims forms by writing to the Office of the General Counsel, Office of General Law, Social Security Administration, Attn: FTCA Claims, 6401 Security Boulevard, Baltimore, MD 21235.
 
-[69 FR 48768, Aug. 11, 2004, as amended at 74 FR 16327, Apr. 10, 2009; 79 FR 7577, Feb. 10, 2014]
+[69 FR 48768, Aug. 11, 2004, as amended at 74 FR 16327, Apr. 10, 2009; 79 FR 7577, Feb. 10, 2014; 88 FR 1330, Jan. 10, 2023]

@@ -10,4 +10,6 @@
 
 (2) “State,” unless otherwise indicated, is defined by § 404.2(c)(5) of title 20 of the Code of Federal Regulations.
 
-(3) “SSA Claims Officer” means the SSA official designated to determine claims under the MPCECA. The current designee is the Associate General Counsel for General Law.
+(3) “SSA Claims Officer” means the SSA official designated to determine claims under the MPCECA. The current designee is the Associate General Counsel for General Law, Office 1.
+
+[69 FR 48768, Aug. 11, 2004, as amended at 88 FR 1330, Jan. 10, 2023]

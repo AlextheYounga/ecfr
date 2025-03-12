@@ -1,6 +1,6 @@
 ##### § 422.848 Suspension and termination of collection activities. #####
 
-(a) *Scope and application* - (1) *Scope.* The standards set forth in this subpart apply to the suspension or termination of collection activity pursuant to 31 U.S.C. 3711 on debts that do not appear to be fraudulent or that do not exceed $100,000, or such other amount as the Attorney General may direct, exclusive of interest, penalties, and administrative costs, after deducting the amount of partial payments or collections, if any. Prior to referring a debt to the Department of Justice (DOJ) for litigation, we may suspend or terminate collection under this subpart with respect to such debts that arise out of the activities of, or are referred or transferred for collection services to, the agency.
+(a) *Scope and application*—(1) *Scope.* The standards set forth in this subpart apply to the suspension or termination of collection activity pursuant to 31 U.S.C. 3711 on debts that do not appear to be fraudulent or that do not exceed $100,000, or such other amount as the Attorney General may direct, exclusive of interest, penalties, and administrative costs, after deducting the amount of partial payments or collections, if any. Prior to referring a debt to the Department of Justice (DOJ) for litigation, we may suspend or terminate collection under this subpart with respect to such debts that arise out of the activities of, or are referred or transferred for collection services to, the agency.
 
 (2) *Application.* (i) If the debt stems from a claim that appears to be fraudulent, false, or misrepresented by a party with an interest in the claim or after deducting the amount of partial payments or collections, the principal amount of the debt exceeds $100,000, or such other amount as the Attorney General may direct, exclusive of interest, penalties, and administrative costs, the authority to suspend or terminate rests solely with the DOJ.
 
@@ -26,7 +26,7 @@
 
 (ii) If the statute under which the waiver or administrative review request is sought does not prohibit collection activity pending consideration of the request, we may use discretion, on a case-by-case basis, to suspend collection. We will ordinarily suspend collection action upon a request for waiver or review if we are prohibited by statute or regulation from issuing a refund of amounts collected prior to agency consideration of the debtor's request. However, we will not suspend collection when we determine that the request for waiver or review is frivolous or was made primarily to delay collection.
 
-(4) *Bankruptcy.* Upon learning that a bankruptcy petition has been filed with respect to a debtor, we must suspend collection activity on the debt, pursuant to the provisions of 11 U.S.C. 362, 1201, and 1301, unless we can clearly establish that the automatic stay has been lifted or is no longer in effect. In such cases, we will consult our Office of the General Counsel for advice. When appropriate, the Offices of the Regional Chief Counsel will take the necessary legal steps to ensure that no funds or money are paid by the agency to the debtor until relief from the automatic stay is obtained.
+(4) *Bankruptcy.* Upon learning that a bankruptcy petition has been filed with respect to a debtor, we must suspend collection activity on the debt, pursuant to the provisions of 11 U.S.C. 362, 1201, and 1301, unless we can clearly establish that the automatic stay has been lifted or is no longer in effect. In such cases, we will consult our Office of the General Counsel for advice. When appropriate, the Office of the General Counsel will take the necessary legal steps to ensure that no funds or money are paid by the agency to the debtor until relief from the automatic stay is obtained.
 
 (c) *Termination of collection activity.* (1) We may terminate collection activity when:
 
@@ -73,3 +73,5 @@
 (3) Upon discharge of indebtedness, we must report the discharge to the Internal Revenue Service (IRS) in accordance with the requirements of 26 U.S.C. 6050P and 26 CFR 1.6050P-1. We may request that Treasury or Treasury-designated debt collection centers file such a discharge report to the IRS on our behalf.
 
 (4) When discharging a debt, we must request that litigation counsel release any liens of record securing the debt.
+
+[80 FR 61734, Oct. 14, 2015, as amended at 88 FR 1329, Jan. 10, 2023]

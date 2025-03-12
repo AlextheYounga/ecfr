@@ -4,7 +4,7 @@
 
 (2) You may not file a claim on behalf of a subrogee, assignee, conditional vendor, or other third party.
 
-(b) *Where to file.* You must file your claim with the Social Security Administration, Office of the General Counsel, Office of General Law, 6401 Security Boulevard, Room 617 Altmeyer Building, Baltimore, Maryland 21235-6401.
+(b) *Where to file.* You must file your claim with the Office of the General Counsel, Office of General Law, Social Security Administration, Attn: MPCECA Claims, 6401 Security Boulevard, Baltimore, MD 21235.
 
 (c) *Evidence required.* You are responsible for proving ownership or possession, the facts surrounding the loss or damage, and the value of the property. Your claim must include the following:
 
@@ -40,4 +40,4 @@
 
 (3) Where valid circumstances prevented you from filing your claim earlier, the time that should be construed as the date of accrual because of a circumstance that prevents the filing of a claim. If war or armed conflict prevents you from filing the claim, your claim accrues on the date hostilities terminate and your claim must be filed within 2 years of that date.
 
-[69 FR 48768, Aug. 11, 2004, as amended at 74 FR 16327, Apr. 10, 2009; 79 FR 7577, Feb. 10, 2014]
+[69 FR 48768, Aug. 11, 2004, as amended at 74 FR 16327, Apr. 10, 2009; 79 FR 7577, Feb. 10, 2014; 88 FR 1330, Jan. 10, 2023]
