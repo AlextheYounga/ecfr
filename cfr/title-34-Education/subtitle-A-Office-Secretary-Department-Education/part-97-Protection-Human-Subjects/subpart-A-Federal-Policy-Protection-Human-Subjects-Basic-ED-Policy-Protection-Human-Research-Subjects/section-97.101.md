@@ -1,61 +1,69 @@
 ##### § 97.101 To what does this policy apply? #####
 
-Link to an amendment published at 83 FR 28516, June 19, 2018.
+(a) Except as detailed in § 97.104, this policy applies to all research involving human subjects conducted, supported, or otherwise subject to regulation by any Federal department or agency that takes appropriate administrative action to make the policy applicable to such research. This includes research conducted by Federal civilian employees or military personnel, except that each department or agency head may adopt such procedural modifications as may be appropriate from an administrative standpoint. It also includes research conducted, supported, or otherwise subject to regulation by the Federal Government outside the United States. Institutions that are engaged in research described in this paragraph and institutional review boards (IRBs) reviewing research that is subject to this policy must comply with this policy.
 
-(a) Except as provided in paragraph (b) of this section, this policy applies to all research involving human subjects conducted, supported or otherwise subject to regulation by any federal department or agency which takes appropriate administrative action to make the policy applicable to such research. This includes research conducted by federal civilian employees or military personnel, except that each department or agency head may adopt such procedural modifications as may be appropriate from an administrative standpoint. It also includes research conducted, supported, or otherwise subject to regulation by the federal government outside the United States.
+(b) [Reserved]
 
-(1) Research that is conducted or supported by a federal department or agency, whether or not it is regulated as defined in § 97.102(e), must comply with all sections of this policy.
+(c) Department or agency heads retain final judgment as to whether a particular activity is covered by this policy and this judgment shall be exercised consistent with the ethical principles of the Belmont Report.62
 
-(2) Research that is neither conducted nor supported by a federal department or agency but is subject to regulation as defined in § 97.102(e) must be reviewed and approved, in compliance with §§ 97.101, 97.102, and §§ 97.107 through 97.117 of this policy, by an institutional review board (IRB) that operates in accordance with the pertinent requirements of this policy.
+62 The National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research.- Belmont Report. Washington, DC: U.S. Department of Health and Human Services. 1979.
 
-(b) Unless otherwise required by department or agency heads, research activities in which the only involvement of human subjects will be in one or more of the following categories are exempt from this policy:
+(d) Department or agency heads may require that specific research activities or classes of research activities conducted, supported, or otherwise subject to regulation by the Federal department or agency but not otherwise covered by this policy comply with some or all of the requirements of this policy.
 
-(1) Research conducted in established or commonly accepted educational settings, involving normal educational practices, such as (i) research on regular and special education instructional strategies, or (ii) research on the effectiveness of or the comparison among instructional techniques, curricula, or classroom management methods.
+(e) Compliance with this policy requires compliance with pertinent federal laws or regulations that provide additional protections for human subjects.
 
-(2) Research involving the use of educational tests (cognitive, diagnostic, aptitude, achievement), survey procedures, interview procedures or observation of public behavior, unless:
+(f) This policy does not affect any state or local laws or regulations (including tribal law passed by the official governing body of an American Indian or Alaska Native tribe) that may otherwise be applicable and that provide additional protections for human subjects.
 
-(i) Information obtained is recorded in such a manner that human subjects can be identified, directly or through identifiers linked to the subjects; and
+(g) This policy does not affect any foreign laws or regulations that may otherwise be applicable and that provide additional protections to human subjects of research.
 
-(ii) Any disclosure of the human subjects' responses outside the research could reasonably place the subjects at risk of criminal or civil liability or be damaging to the subjects' financial standing, employability, or reputation.
+(h) When research covered by this policy takes place in foreign countries, procedures normally followed in the foreign countries to protect human subjects may differ from those set forth in this policy. In these circumstances, if a department or agency head determines that the procedures prescribed by the institution afford protections that are at least equivalent to those provided in this policy, the department or agency head may approve the substitution of the foreign procedures in lieu of the procedural requirements provided in this policy. Except when otherwise required by statute, Executive Order, or the department or agency head, notices of these actions as they occur will be published in the Federal Register or will be otherwise published as provided in department or agency procedures.
 
-(3) Research involving the use of educational tests (cognitive, diagnostic, aptitude, achievement), survey procedures, interview procedures, or observation of public behavior that is not exempt under paragraph (b)(2) of this section, if:
+(i) Unless otherwise required by law, department or agency heads may waive the applicability of some or all of the provisions of this policy to specific research activities or classes of research activities otherwise covered by this policy, provided the alternative procedures to be followed are consistent with the principles of the Belmont Report.63 Except when otherwise required by statute or Executive Order, the department or agency head shall forward advance notices of these actions to the Office for Human Research Protections, Department of Health and Human Services (HHS), or any successor office, or to the equivalent office within the appropriate Federal department or agency, and shall also publish them in the Federal Register or in such other manner as provided in department or agency procedures. The waiver notice must include a statement that identifies the conditions under which the waiver will be applied and a justification as to why the waiver is appropriate for the research, including how the decision is consistent with the principles of the Belmont Report.
 
-(i) The human subjects are elected or appointed public officials or candidates for public office; or
+63*Id.*
 
-(ii) Federal statute(s) require(s) without exception that the confidentiality of the personally identifiable information will be maintained throughout the research and thereafter.
+(j) Federal guidance on the requirements of this policy shall be issued only after consultation, for the purpose of harmonization (to the extent appropriate), with other Federal departments and agencies that have adopted this policy, unless such consultation is not feasible.
 
-(4) Research, involving the collection or study of existing data, documents, records, pathological specimens, or diagnostic specimens, if these sources are publicly available or if the information is recorded by the investigator in such a manner that subjects cannot be identified, directly or through identifiers linked to the subjects.
+(k) [Reserved]
 
-(5) Research and demonstration projects which are conducted by or subject to the approval of department or agency heads, and which are designed to study, evaluate, or otherwise examine:
+(l) *Pre-2018 Requirements.* Compliance dates and transition provisions:
 
-(i) Public benefit or service programs;
+(1) For purposes of this section, the *pre-2018 Requirements* means this subpart as published in the 2016 edition of the Code of Federal Regulations.
 
-(ii) Procedures for obtaining benefits or services under those programs;
+(2) *2018 Requirements.* For purposes of this section, the *2018 Requirements* means the Federal Policy for the Protection of Human Subjects requirements contained in this subpart. The general compliance date for the 2018 Requirements is January 21, 2019. The compliance date for § 97.114(b) (cooperative research) of the 2018 Requirements is January 20, 2020.
 
-(iii) Possible changes in or alternatives to those programs or procedures; or
+(3) *Research subject to pre-2018 requirements.* The pre-2018 Requirements shall apply to the following research, unless the research is transitioning to comply with the 2018 Requirements in accordance with paragraph (l)(4) of this section:
 
-(iv) Possible changes in methods or levels of payment for benefits or services under those programs.
+(i) Research initially approved by an IRB under the pre-2018 Requirements before January 21, 2019;
 
-(6) Taste and food quality evaluation and consumer acceptance studies,
+(ii) Research for which IRB review was waived pursuant to § 97.101(i) of the pre-2018 Requirements before January 21, 2019; and
 
-(i) If wholesome foods without additives are consumed or
+(iii) Research for which a determination was made that the research was exempt under § 97.101(b) of the pre-2018 Requirements before January 21, 2019.
 
-(ii) If a food is consumed that contains a food ingredient at or below the level and for a use found to be safe, or agricultural chemical or environmental contaminant at or below the level found to be safe, by the Food and Drug Administration or approved by the Environmental Protection Agency or the Food Safety and Inspection Service of the U.S. Department of Agriculture.
+(4) *Transitioning research.* If, on or after July 19, 2018, an institution planning or engaged in research otherwise covered by paragraph (l)(3) of this section determines that such research instead will transition to comply with the 2018 Requirements, the institution or an IRB must document and date such determination.
 
-(c) Department or agency heads retain final judgment as to whether a particular activity is covered by this policy.
+(i) If the determination to transition is documented between July 19, 2018, and January 20, 2019, the research shall:
 
-(d) Department or agency heads may require that specific research activities or classes of research activities conducted, supported, or otherwise subject to regulation by the department or agency but not otherwise covered by this policy, comply with some or all of the requirements of this policy.
+(A) Beginning on the date of such documentation through January 20, 2019, comply with the pre-2018 Requirements, except that the research shall comply with the following:
 
-(e) Compliance with this policy requires compliance with pertinent federal laws or regulations which provide additional protections for human subjects.
+(*1*) Section 97.102(l) of the 2018 Requirements (definition of research) (instead of § 97.102(d) of the pre-2018 Requirements);
 
-(f) This policy does not affect any state or local laws or regulations which may otherwise be applicable and which provide additional protections for human subjects.
+(*2*) Section 97.103(d) of the 2018 Requirements (revised certification requirement that eliminates IRB review of application or proposal) (instead of § 97.103(f) of the pre-2018 Requirements); and
 
-(g) This policy does not affect any foreign laws or regulations which may otherwise be applicable and which provide additional protections to human subjects of research.
+(*3*) Section 97.109(f)(1)(i) and (iii) of the 2018 Requirements (exceptions to mandated continuing review) (instead of § 97.103(b), as related to the requirement for continuing review, and in addition to § 97.109, of the pre-2018 Requirements); and
 
-(h) When research covered by this policy takes place in foreign countries, procedures normally followed in the foreign countries to protect human subjects may differ from those set forth in this policy. (An example is a foreign institution which complies with guidelines consistent with the World Medical Assembly Declaration (Declaration of Helsinki amended 1989) issued either by sovereign states or by an organization whose function for the protection of human research subjects is internationally recognized.) In these circumstances, if a department or agency head determines that the procedures prescribed by the institution afford protections that are at least equivalent to those provided in this policy, the department or agency head may approve the substitution of the foreign procedures in lieu of the procedural requirements provided in this policy. Except when otherwise required by statute, Executive Order, or the department or agency head, notices of these actions as they occur will be published in the Federal Register or will be otherwise published as provided in department or agency procedures.
+(B) Beginning on January 21, 2019, comply with the 2018 Requirements.
 
-(i) Unless otherwise required by law, department or agency heads may waive the applicability of some or all of the provisions of this policy to specific research activities or classes of research activities otherwise covered by this policy. Except when otherwise required by statute or Executive Order, the department or agency head shall forward advance notices of these actions to the Office for Human Research Protections, Department of Health and Human Services (HHS), or any successor office, and shall also publish them in the Federal Register or in such other manner as provided in department or agency procedures.1
+(ii) If the determination to transition is documented on or after January 21, 2019, the research shall, beginning on the date of such documentation, comply with the 2018 Requirements.
 
-1 Institutions with HHS-approved assurances on file will abide by provisions of title 45 CFR part 46 subparts A-D. Some of the other Departments and Agencies have incorporated all provisions of title 45 CFR part 46 into their policies and procedures as well. However, the exemptions at 45 CFR 46.101(b) do not apply to research involving prisoners, subpart C. The exemption at 45 CFR 46.101(b)(2), for research involving survey or interview procedures or observation of public behavior, does not apply to research with children, subpart D, except for research involving observations of public behavior when the investigator(s) do not participate in the activities being observed.
+(5) *Research subject to 2018 Requirements.* The 2018 Requirements shall apply to the following research:
 
-(Authority: 5 U.S.C. 301; 20 U.S.C. 1221e-3, 3474; and 42 U.S.C. 300v-1(b))[56 FR 28012, 28021, June 18, 1991; 56 FR 29756, June 28, 1991, as amended at 70 FR 36328, June 23, 2005]
+(i) Research initially approved by an IRB on or after January 21, 2019;
+
+(ii) Research for which IRB review is waived pursuant to paragraph (i) of this section on or after January 21, 2019; and
+
+(iii) Research for which a determination is made that the research is exempt on or after January 21, 2019.
+
+(m) Severability: Any provision of this part held to be invalid or unenforceable by its terms, or as applied to any person or circumstance, shall be construed so as to continue to give maximum effect to the provision permitted by law, unless such holding shall be one of utter invalidity or unenforceability, in which event the provision shall be severable from this part and shall not affect the remainder thereof or the application of the provision to other persons not similarly situated or to other dissimilar circumstances.
+
+[82 FR 7272, Jan. 19, 2017, as amended at 83 FR 28516, June 19, 2018]

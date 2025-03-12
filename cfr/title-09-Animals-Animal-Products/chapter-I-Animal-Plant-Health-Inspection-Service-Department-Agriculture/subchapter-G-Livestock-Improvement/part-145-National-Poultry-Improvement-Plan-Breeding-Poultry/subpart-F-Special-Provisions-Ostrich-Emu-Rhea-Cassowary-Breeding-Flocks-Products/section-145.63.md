@@ -1,18 +1,16 @@
 ##### § 145.63 Terminology and classification; flocks and products. #####
 
-Link to an amendment published at 83 FR 28353, June 19, 2018.
-
 Participating flocks, and the eggs and baby poultry produced from them, that have met the respective requirements specified in this section may be designated by the following terms and their corresponding designs illustrated in § 145.10.
 
 (a) *U.S. Pullorum-Typhoid Clean.* A flock in which freedom from pullorum and typhoid has been demonstrated to the Official State Agency under the criteria in paragraph (a)(1) or (a)(2) of this section. (See § 145.14(a) relating to the official blood test for pullorum-typhoid where applicable.)
 
-(1) It has been officially blood tested within the past 12 months with no reactors.
+(1) It has been officially blood tested within the past 12 months with either no reactors or reactors that, upon further bacteriological examination conducted in accordance with part 147 of this subchapter, fail to isolate *S. pullorum* or *S. gallinarum.*
 
 (2) It is a breeding flock that meets one of the following criteria:
 
-(i)(A) It is a multiplier or primary breeding flock of fewer than 300 birds in which a sample of 10 percent of the birds in a flock or at least 1 bird from each pen, whichever is more, has been officially tested for pullorum-typhoid within the past 12 months with no reactors; or
+(i)(A) It is a multiplier or primary breeding flock of fewer than 300 birds in which a sample of 10 percent of the birds in a flock or at least 1 bird from each pen, whichever is more, has been officially tested for pullorum-typhoid within the past 12 months with either no reactors or reactors that, upon further bacteriological examination conducted in accordance with part 147 of this subchapter, fail to isolate *S. pullorum* or *S. gallinarum;* or
 
-(B) It is a multiplier or primary breeding flock of 300 birds or more in which a sample of a minimum of 30 birds has been officially tested for pullorum-typhoid within the past 12 months with no reactors.
+(B) It is a multiplier or primary breeding flock of 300 birds or more in which a sample of a minimum of 30 birds has been officially tested for pullorum-typhoid within the past 12 months with either no reactors or reactors that, upon further bacteriological examination conducted in accordance with part 147 of this subchapter, fail to isolate *S. pullorum* or *S. gallinarum.*
 
 (ii) It is a flock that has already been designated U.S. Pullorum-Typhoid Clean and uses a subsequent bacteriological examination monitoring program of hatcher debris or eggs for ostriches, emus, rheas, or cassowaries acceptable to the Official State Agency and approved by the Service in lieu of annual blood testing.
 
@@ -34,4 +32,4 @@ Participating flocks, and the eggs and baby poultry produced from them, that hav
 
 (iii) A sample of less than 10 percent of the birds may be tested, and found to be negative, at any one time if all pens are equally represented and a total of 10 percent of the birds are tested within each 180-day period.
 
-[63 FR 40010, July 27, 1998, as amended at 65 FR 8019, Feb. 17, 2000; 72 FR 1420, Jan. 12, 2007; 74 FR 14715, Apr. 1, 2009]
+[63 FR 40010, July 27, 1998, as amended at 65 FR 8019, Feb. 17, 2000; 72 FR 1420, Jan. 12, 2007; 74 FR 14715, Apr. 1, 2009; 83 FR 28353, June 19, 2018]

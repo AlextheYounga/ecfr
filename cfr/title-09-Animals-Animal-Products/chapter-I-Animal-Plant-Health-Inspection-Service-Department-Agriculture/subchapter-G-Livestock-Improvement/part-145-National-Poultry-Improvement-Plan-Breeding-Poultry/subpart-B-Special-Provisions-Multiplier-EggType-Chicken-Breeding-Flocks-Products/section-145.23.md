@@ -1,14 +1,12 @@
 ##### § 145.23 Terminology and classification; flocks and products. #####
 
-Link to an amendment published at 83 FR 28352, June 19, 2018.
-
 Participating flocks, and the eggs and chicks produced from them, which have met the respective requirements specified in this section may be designated by the following terms and the corresponding designs illustrated in § 145.10:
 
 (a) [Reserved]
 
 (b) *U.S. Pullorum-Typhoid Clean.* A flock in which freedom from pullorum and typhoid has been demonstrated to the official State agency under the criteria in one of the following paragraphs (b)(1) through (4) of this section: *Provided,* That a flock qualifying by means of a blood test shall be tested within the past 12 months, except that the retesting of a participating flock which is retained for more than 12 months shall be conducted a minimum of 4 weeks after the induction of molt. (See § 145.14 relating to the official blood test where applicable.)
 
-(1) It has been officially blood tested with no reactors.
+(1) It has been officially blood tested with either no reactors or reactors that, upon further bacteriological examination conducted in accordance with part 147 of this subchapter, fail to isolate *S. pullorum* or *S. gallinarum.*
 
 (2) It is a multiplier breeding flock and meets the following specifications as determined by the Official State Agency and the Service:
 

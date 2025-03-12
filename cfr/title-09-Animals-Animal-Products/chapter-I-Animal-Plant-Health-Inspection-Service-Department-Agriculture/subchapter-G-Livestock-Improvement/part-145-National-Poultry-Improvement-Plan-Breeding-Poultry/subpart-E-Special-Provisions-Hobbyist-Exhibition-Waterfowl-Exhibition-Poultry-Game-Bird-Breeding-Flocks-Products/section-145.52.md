@@ -1,7 +1,5 @@
 ##### § 145.52 Participation. #####
 
-Link to an amendment published at 83 FR 28353, June 19, 2018.
-
 Participating flocks of hobbyist and exhibition waterfowl, exhibition poultry, and game birds, and the eggs and baby poultry produced from them shall comply with the applicable general provisions of subpart A of this part and the special provisions of this subpart E. The special provisions that apply to meat-type waterfowl flocks are found in subpart I of this part.
 
 (a) Started poultry shall lose their identity under Plan terminology when not maintained by Plan participants under the conditions prescribed in § 145.5(a).
@@ -24,9 +22,11 @@ Participating flocks of hobbyist and exhibition waterfowl, exhibition poultry, a
 
 (6) The quantity of products sold;
 
-(7) Identification of the products by bird variety or by NPIP stock code as listed in the NPIP APHIS 91-55-078 appendix; and
+(7) The NPIP hatchery approval number of the shipping hatchery;
 
-(8) The appropriate NPIP illustrative design in § 145.10. One of the designs in § 145.10(b) or (g) must be used. The following information must be provided in or near the NPIP design:
+(8) Identification of the products by bird variety or by NPIP stock code as listed in the NPIP APHIS 91-55-078 appendix; and
+
+(9) The appropriate NPIP illustrative design in § 145.10. One of the designs in § 145.10(b) or (g) must be used. The following information must be provided in or near the NPIP design:
 
 (i) The NPIP State number and NPIP hatchery approval number; and
 
@@ -34,4 +34,4 @@ Participating flocks of hobbyist and exhibition waterfowl, exhibition poultry, a
 
 (e) Any nutritive material provided to baby poultry must be free of the avian pathogens that are officially represented in the Plan disease classifications listed in § 145.10.
 
-[36 FR 23112, Dec. 3, 1971. Redesignated at 44 FR 61586, Oct. 26, 1979, and amended at 49 FR 19803, May 10, 1984; 57 FR 57341, Dec. 4, 1992; 61 FR 11521, Mar. 21, 1996; 65 FR 8019, Feb. 17, 2000; 74 FR 14715, Apr. 1, 2009; 76 FR 15793, Mar. 22, 2011; 79 FR 38759, July 9, 2014]
+[36 FR 23112, Dec. 3, 1971. Redesignated at 44 FR 61586, Oct. 26, 1979, and amended at 49 FR 19803, May 10, 1984; 57 FR 57341, Dec. 4, 1992; 61 FR 11521, Mar. 21, 1996; 65 FR 8019, Feb. 17, 2000; 74 FR 14715, Apr. 1, 2009; 76 FR 15793, Mar. 22, 2011; 79 FR 38759, July 9, 2014; 83 FR 28353, June 19, 2018]

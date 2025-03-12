@@ -1,7 +1,5 @@
 ##### § 60.101 To what does this policy apply? #####
 
-Link to an amendment published at 83 FR 28514, June 19, 2018.
-
 (a) Except as detailed in § 60.104, this policy applies to all research involving human subjects conducted, supported, or otherwise subject to regulation by any Federal department or agency that takes appropriate administrative action to make the policy applicable to such research. This includes research conducted by Federal civilian employees or military personnel, except that each department or agency head may adopt such procedural modifications as may be appropriate from an administrative standpoint. It also includes research conducted, supported, or otherwise subject to regulation by the Federal Government outside the United States. Institutions that are engaged in research described in this paragraph and institutional review boards (IRBs) reviewing research that is subject to this policy must comply with this policy.
 
 (b) [Reserved]
@@ -28,16 +26,44 @@ Link to an amendment published at 83 FR 28514, June 19, 2018.
 
 (k) [Reserved]
 
-(l) Compliance dates and transition provisions:
+(l) *Pre-2018 Requirements.* Compliance dates and transition provisions:
 
 (1) For purposes of this section, the *pre-2018 Requirements* means this subpart as published in the 2016 edition of the Code of Federal Regulations.
 
-(2) For purposes of this section, the *2018 Requirements* means the Federal Policy for the Protection of Human Subjects requirements contained in this subpart. The compliance date for § 60.114(b) (cooperative research) of the 2018 Requirements is January 20, 2020.
+(2) *2018 Requirements.* For purposes of this section, the *2018 Requirements* means the Federal Policy for the Protection of Human Subjects requirements contained in this part. The general compliance date for the 2018 Requirements is January 21, 2019. The compliance date for § 60.114(b) (cooperative research) of the 2018 Requirements is January 20, 2020.
 
-(3) Research initially approved by an IRB, for which such review was waived pursuant to § 60.101(i), or for which a determination was made that the research was exempt before July 19, 2018, shall comply with the pre-2018 Requirements, except that an institution engaged in such research on or after July 19, 2018 may instead comply with the 2018 Requirements if the institution determines that such ongoing research will comply with the 2018 Requirements and an IRB documents such determination.
+(3) *Research subject to pre-2018 requirements.* The pre-2018 Requirements shall apply to the following research, unless the research is transitioning to comply with the 2018 Requirements in accordance with paragraph (l)(4) of this section:
 
-(4) Research initially approved by an IRB, for which such review was waived pursuant to § 60.101(i), or for which a determination was made that the research was exempt on or after July 19, 2018, shall comply with the 2018 Requirements.
+(i) Research initially approved by an IRB under the pre-2018 Requirements before January 21, 2019;
+
+(ii) Research for which IRB review was waived pursuant to § 60.101(i) of the pre-2018 Requirements before January 21, 2019; and
+
+(iii) Research for which a determination was made that the research was exempt under § 60.101(b) of the pre-2018 Requirements before January 21, 2019.
+
+(4) *Transitioning research.* If, on or after July 19, 2018, an institution planning or engaged in research otherwise covered by paragraph (l)(3) of this section determines that such research instead will transition to comply with the 2018 Requirements, the institution or an IRB must document and date such determination.
+
+(i) If the determination to transition is documented between July 19, 2018, and January 20, 2019, the research shall:
+
+(A) Beginning on the date of such documentation through January 20, 2019, comply with the pre-2018 Requirements, except that the research shall comply with the following:
+
+(*1*) Section 60.102(l) of the 2018 Requirements (definition of research) (instead of § 60.102(d) of the pre-2018 Requirements);
+
+(*2*) Section 60.103(d) of the 2018 Requirements (revised certification requirement that eliminates IRB review of application or proposal) (instead of § 60.103(f) of the pre-2018 Requirements); and
+
+(*3*) Section 60.109(f)(1)(i) and (iii) of the 2018 Requirements (exceptions to mandated continuing review) (instead of § 60.103(b), as related to the requirement for continuing review, and in addition to § 60.109, of the pre-2018 Requirements); and
+
+(B) Beginning on January 21, 2019, comply with the 2018 Requirements.
+
+(ii) If the determination to transition is documented on or after January 21, 2019, the research shall, beginning on the date of such documentation, comply with the 2018 Requirements.
+
+(5) *Research subject to 2018 Requirements.* The 2018 Requirements shall apply to the following research:
+
+(i) Research initially approved by an IRB on or after January 21, 2019;
+
+(ii) Research for which IRB review is waived pursuant to paragraph (i) of this section on or after January 21, 2019; and
+
+(iii) Research for which a determination is made that the research is exempt on or after January 21, 2019.
 
 (m) Severability: Any provision of this part held to be invalid or unenforceable by its terms, or as applied to any person or circumstance, shall be construed so as to continue to give maximum effect to the provision permitted by law, unless such holding shall be one of utter invalidity or unenforceability, in which event the provision shall be severable from this part and shall not affect the remainder thereof or the application of the provision to other persons not similarly situated or to other dissimilar circumstances.
 
-[82 FR 7271, Jan. 19, 2017, as amended at 83 FR 3591, Jan. 28, 2018]
+[82 FR 7271, Jan. 19, 2017, as amended at 83 FR 3591, Jan. 28, 2018; 83 FR 28514, June 19, 2018]

@@ -1,7 +1,5 @@
 ##### § 146.1 Definitions. #####
 
-Link to an amendment published at 83 FR 28355, June 19, 2018.
-
 Except where the context otherwise requires, for the purposes of this subpart the following terms shall be construed, respectively, to mean:
 
 *Administrator.* The Administrator, Animal and Plant Health Inspection Service, or any person authorized to act for the Administrator.
@@ -44,6 +42,8 @@ Except where the context otherwise requires, for the purposes of this subpart th
 
 (2) The official determination that H5/H7 LPAI virus has been isolated and identified, viral antigen or viral RNA specific to the H5 or H7 subtype of AI virus has been detected, or antibodies to the H5 or H7 subtype of AI virus have been detected may only be made by the National Veterinary Services Laboratories.
 
+*NPIP Technical Committee.* A committee made up of technical experts on poultry health, biosecurity, surveillance, and diagnostics. The committee consists of representatives from the poultry and egg industries, universities, and State and Federal governments and is appointed by the Senior Coordinator and approved by the General Conference Committee. The NPIP Technical Committee is divided into three subcommittees (Mycoplasma, Salmonella, and Avian Influenza). NPIP Technical Committee Members may serve on one, two, or all three subcommittees. The committee will evaluate proposed changes to the Provisions and Program Standards of the Plan which include, but are not limited to, tests and sanitation procedures, and provide recommendations to the Delegates of the National Plan Conference as to whether they are scientifically or technically sound.
+
 *Official State Agency.* The State authority recognized by the Department to cooperate in the administration of the Plan.
 
 *Person.* A natural person, firm, or corporation.
@@ -62,4 +62,4 @@ Except where the context otherwise requires, for the purposes of this subpart th
 
 *United States.* All of the States.
 
-[71 FR 56328, Sept. 26, 2006, as amended at 74 FR 14715, Apr. 1, 2009; 75 FR 10658, Mar. 9, 2010; 76 FR 15796, Mar. 22, 2011; 79 FR 38765, July 9, 2014; 81 FR 53250, Aug. 12, 2016]
+[71 FR 56328, Sept. 26, 2006, as amended at 74 FR 14715, Apr. 1, 2009; 75 FR 10658, Mar. 9, 2010; 76 FR 15796, Mar. 22, 2011; 79 FR 38765, July 9, 2014; 81 FR 53250, Aug. 12, 2016; 83 FR 28355, June 19, 2018]

@@ -1,14 +1,12 @@
 ##### § 145.83 Terminology and classification; flocks and products. #####
 
-Link to an amendment published at 83 FR 28354, June 19, 2018.
-
 Participating flocks, and the eggs and chicks produced from them, which have met the respective requirements specified in this section, may be designated by the following terms and the corresponding designs illustrated in § 145.10:
 
 (a) [Reserved]
 
 (b) *U.S. Pullorum-Typhoid Clean.* A flock in which freedom from pullorum and typhoid has been demonstrated to the Official State Agency under the criteria in paragraph (b)(1) or (b)(2) of this section: *Provided,* That a flock qualifying by means of a blood test shall be tested within the past 12 months, except that the retesting of a participating flock which is retained for more than 12 months shall be conducted a minimum of 4 weeks after the induction of molt. (See § 145.14 relating to the official blood test where applicable.)
 
-(1) It has been officially blood tested with no reactors.
+(1) It has been officially blood tested with either no reactors or reactors that, upon further bacteriological examination conducted in accordance with part 147 of this subchapter, fail to isolate *S. pullorum* or *S. gallinarum.*
 
 (2) It is a primary breeding flock that meets the following criteria:
 
@@ -30,7 +28,7 @@ Participating flocks, and the eggs and chicks produced from them, which have met
 
 (H) Discontinuation of any of the conditions or procedures described in paragraphs (b)(2)(i)(A) through (b)(2)(i)(G) of this section, or the occurrence of repeated outbreaks of pullorum or typhoid in poultry breeding flocks within or originating within the State shall be grounds for the Service to revoke its determination that such conditions and procedures have been met or complied with. Such action shall not be taken until a thorough investigation has been made by the Service and the Official State Agency has been given an opportunity to present its views; and
 
-(ii) In the primary breeding flock, a sample of 300 birds from flocks of more than 300, and each bird in flocks of 300 or less, has been officially tested for pullorum-typhoid with no reactors: *Provided,* That a bacteriological examination monitoring program acceptable to the Official State Agency and approved by the Service may be used in lieu of blood testing.
+(ii) In the primary breeding flock, a sample of 300 birds from flocks of more than 300, and each bird in flocks of 300 or less, has been officially tested for pullorum-typhoid with either no reactors or reactors that, upon further bacteriological examination conducted in accordance with part 147 of this subchapter, fail to isolate *S. pullorum* or *S. gallinarum: Provided,* That a bacteriological examination monitoring program acceptable to the Official State Agency and approved by APHIS may be used in lieu of blood testing.
 
 (c) *U.S. M. Gallisepticum Clean.* (1) A flock maintained in accordance with part 147 of this subchapter with respect to Mycoplasma isolation, sanitation, and management and in which freedom from *M. gallisepticum* has been demonstrated under the criteria specified in paragraph (c)(1)(i) of this section.
 
@@ -130,4 +128,4 @@ Participating flocks, and the eggs and chicks produced from them, which have met
 
 (2) During each 90-day period, all primary spent fowl, up to a maximum of 30, must be tested serologically and found negative for antibodies for avian influenza within 21 days prior to movement to slaughter.
 
-[72 FR 1422, Jan. 12, 2007, as amended at 76 FR 15794, Mar. 22, 2011; 79 FR 38762, July 9, 2014; 79 FR 71624, Dec. 3, 2014; 81 FR 53250, Aug. 12, 2016]
+[72 FR 1422, Jan. 12, 2007, as amended at 76 FR 15794, Mar. 22, 2011; 79 FR 38762, July 9, 2014; 79 FR 71624, Dec. 3, 2014; 81 FR 53250, Aug. 12, 2016; 83 FR 28354, June 19, 2018]

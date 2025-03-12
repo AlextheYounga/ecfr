@@ -1,14 +1,12 @@
 ##### § 145.93 Terminology and classification; flocks and products. #####
 
-Link to an amendment published at 83 FR 28355, June 19, 2018.
-
 Participating flocks, and the eggs and baby poultry produced from them, that have met the respective requirements specified in this section may be designated by the following terms and the corresponding designs illustrated in § 145.10.
 
 (a) [Reserved]
 
 (b) *U.S. Pullorum-Typhoid Clean.* A flock in which freedom from pullorum and typhoid has been demonstrated to the Official State Agency under the criteria in one of the following paragraphs (b)(1) through (b)(5) of this section (*See* § 145.14 relating to the official blood test where applicable.):
 
-(1) It has been officially blood tested within the past 12 months with no reactors.
+(1) It has been officially blood tested within the past 12 months with either no reactors or reactors that, upon further bacteriological examination conducted in accordance with part 147 of this subchapter, fail to isolate *S. pullorum* or *S. gallinarum.*
 
 (2) It is a multiplier breeding flock, or a breeding flock composed of progeny of a primary breeding flock which is intended solely for the production of multiplier breeding flocks, and meets the following specifications as determined by the Official State Agency and the Service:
 
@@ -34,11 +32,11 @@ Participating flocks, and the eggs and baby poultry produced from them, that hav
 
 (vii) All poultry, including exhibition, exotic, and game birds, but excluding waterfowl, going to public exhibition shall come from U.S. Pullorum-Typhoid Clean or equivalent flocks, or have had a negative pullorum-typhoid test within 90 days of going to public exhibition;
 
-(viii) Discontinuation of any of the conditions or procedures described in paragraphs (a)(3)(i), (ii), (iii), (iv), (v), (vi), and (vii) of this section, or the occurrence of repeated outbreaks of pullorum or typhoid in poultry breeding flocks within or originating within the State shall be grounds for the Service to revoke its determination that such conditions and procedures have been met or complied with. Such action shall not be taken until a thorough investigation has been made by the Service and the Official State Agency has been given an opportunity to present its views.
+(viii) Discontinuation of any of the conditions or procedures described in paragraphs (b)(3)(i), (ii), (iii), (iv), (v), (vi), and (vii) of this section, or the occurrence of repeated outbreaks of pullorum or typhoid in poultry breeding flocks within or originating within the State shall be grounds for the Service to revoke its determination that such conditions and procedures have been met or complied with. Such action shall not be taken until a thorough investigation has been made by the Service and the Official State Agency has been given an opportunity to present its views.
 
-(4) It is a multiplier breeding flock located in a State which has been determined by the Service to be in compliance with the provisions of paragraph (a)(3) of this section, and in which pullorum disease or fowl typhoid is not known to exist nor to have existed in hatchery supply flocks within the State during the preceding 24 months.
+(4) It is a multiplier breeding flock located in a State which has been determined by the Service to be in compliance with the provisions of paragraph (b)(3) of this section, and in which pullorum disease or fowl typhoid is not known to exist nor to have existed in hatchery supply flocks within the State during the preceding 24 months.
 
-(5) It is a primary breeding flock located in a State determined to be in compliance with the provisions of paragraph (a)(4) of this section, and in which a sample of 300 birds from flocks of more than 300, and each bird in flocks of 300 or less, has been officially tested for pullorum-typhoid within the past 12 months with no reactors: *Provided,* That when a flock is a primary breeding flock located in a State which has been deemed to be a U.S. Pullorum-Typhoid Clean State for the past 3 years, and during which time no isolation of pullorum or typhoid has been made that can be traced to a source in that State, a bacteriological examination monitoring program or a serological examination monitoring program acceptable to the Official State Agency and approved by the Service may be used in lieu of annual blood testing.
+(5) It is a primary breeding flock located in a State determined to be in compliance with provisions of paragraph (b)(3) of this section, and in which a sample of 300 birds from flocks of more than 300, and each bird in flocks of 300 or less, has been officially tested for pullorum-typhoid within the past 12 months with either no reactors or reactors that, upon further bacteriological examination conducted in accordance with part 147 of this subchapter, fail to isolate *S. pullorum* or *S. gallinarum: Provided,* That when a flock is a primary breeding flock located in a State which has been deemed to be a U.S. Pullorum-Typhoid Clean State for the past 3 years, and during which time no isolation of pullorum or typhoid has been made that can be traced to a source in that State, a bacteriological examination monitoring program or a serological examination monitoring program acceptable to the Official State Agency and approved by the Service may be used in lieu of annual blood testing.
 
 (c) *U.S. H5/H7 Avian Influenza Clean.* This program is intended to be the basis from which the breeding-hatchery industry may conduct a program for the prevention and control of the H5/H7 subtypes of avian influenza. It is intended to determine the presence of the H5/H7 subtypes of avian influenza in meat-type waterfowl breeding flocks through routine surveillance of each participating breeding flock. A flock, and the hatching eggs and baby poultry produced from it, will qualify for this classification when the Official State Agency determines that it has met one of the following requirements:
 
@@ -80,4 +78,4 @@ Participating flocks, and the eggs and baby poultry produced from them, that hav
 
 (4) This classification may be revoked by the Official State Agency if the participant fails to follow recommended corrective measures.
 
-[76 FR 15794, Mar. 22, 2011, as amended at 79 FR 38764, July 9, 2014; 81 FR 53250, Aug. 12, 2016]
+[76 FR 15794, Mar. 22, 2011, as amended at 79 FR 38764, July 9, 2014; 81 FR 53250, Aug. 12, 2016; 83 FR 28355, June 19, 2018]

@@ -22,4 +22,4 @@
 
 (5) The COTP, Prince William Sound may be aided by other Federal, state, borough, and local law enforcement officials in the enforcement of this regulation. In addition, members of the Coast Guard Auxiliary may be present to inform vessel operators of this regulation.
 
-[USCG-2018-0578, 83 FR 32209, July 12, 2018]
+[USCG-2018-0578, 83 FR 32209, July 12, 2018; 83 FR 34042, July 19, 2018]

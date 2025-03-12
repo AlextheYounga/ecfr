@@ -1,7 +1,5 @@
 ##### § 145.10 Terminology and classification; flocks, products, and States. #####
 
-Link to an amendment published at 83 FR 28352, June 19, 2018.
-
 Participating flocks, products produced from them, and States that have met the requirements of a classification in this part may be designated by the corresponding illustrative design in this section.
 
 (a) [Reserved]
@@ -56,7 +54,7 @@ Participating flocks, products produced from them, and States that have met the 
 
 ![](/graphics/er21mr96.003.gif)
 
-(o) *U.S. Salmonella Monitored.* (See §§ 145.53(f), 145.83(f), and 145.93(d).)
+(o) *U.S. Salmonella Monitored.* (See §§ 145.53(f), 145.73(g), 145.83(f), and 145.93(d).)
 
 ![](/graphics/er19au97.000.gif)
 

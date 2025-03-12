@@ -1,7 +1,5 @@
 ##### § 145.1 Definitions. #####
 
-Link to an amendment published at 83 FR 28352, June 19, 2018.
-
 Words used in this part in the singular form shall be deemed to import the plural, and vice versa, as the case may demand. Except where the context otherwise requires, for the purposes of this part the following terms shall be construed, respectively, to mean:
 
 *Administrator.* The Administrator, Animal and Plant Health Inspection Service, or any person authorized to act for the Administrator.
@@ -58,7 +56,7 @@ Words used in this part in the singular form shall be deemed to import the plura
 
 *NPIP Program Standards.* A document that contains tests and sanitation procedures approved by the Administrator in accordance with § 147.53 of this subchapter for use under this subchapter. This document may be obtained from the NPIP Web site at *http://www.aphis.usda.gov/animal\_health/animal\_dis\_spec/poultry/* or by writing to the Service at National Poultry Improvement Plan, APHIS, USDA, 1506 Klondike Road, Suite 101, Conyers, GA 30094.
 
-*NPIP Technical Committee.* A committee made up of technical experts on poultry health, biosecurity, surveillance, and diagnostics. The committee consists of representatives from the poultry and egg industries, universities, and State and Federal governments and is appointed by the Senior Coordinator and approved by the General Conference Committee.
+*NPIP Technical Committee.* A committee made up of technical experts on poultry health, biosecurity, surveillance, and diagnostics. The committee consists of representatives from the poultry and egg industries, universities, and State and Federal governments and is appointed by the Senior Coordinator and approved by the General Conference Committee. The NPIP Technical Committee is divided into three subcommittees (Mycoplasma, Salmonella, and Avian Influenza). NPIP Technical Committee Members may serve on one, two, or all three subcommittees. The committee will evaluate proposed changes to the Provisions and Program Standards of the Plan which include, but are not limited to, tests and sanitation procedures, and provide recommendations to the Delegates of the National Plan Conference as to whether they are scientifically or technically sound.
 
 *Official State Agency.* The State authority recognized by the Department to cooperate in the administration of the Plan.
 

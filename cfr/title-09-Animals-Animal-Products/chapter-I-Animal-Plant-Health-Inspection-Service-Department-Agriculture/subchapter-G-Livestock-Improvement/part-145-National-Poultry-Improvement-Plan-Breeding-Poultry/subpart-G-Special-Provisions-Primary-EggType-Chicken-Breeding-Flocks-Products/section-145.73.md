@@ -1,14 +1,12 @@
 ##### § 145.73 Terminology and classification; flocks and products. #####
 
-Link to an amendment published at 83 FR 28353, June 19, 2018.
-
 Participating flocks, and the eggs and chicks produced from them, which have met the respective requirements specified in this section, may be designated by the following terms and the corresponding designs illustrated in § 145.10:
 
 (a) [Reserved]
 
 (b) *U.S. Pullorum-Typhoid Clean.* A flock in which freedom from pullorum and typhoid has been demonstrated to the Official State Agency under the criteria in paragraph (b)(1) or (b)(2) of this section: *Provided,* That a flock qualifying by means of a blood test shall be tested within the past 12 months, except that the retesting of a participating flock which is retained for more than 12 months shall be conducted a minimum of 4 weeks after the induction of molt. (See § 145.14 relating to the official blood test where applicable.)
 
-(1) It has been officially blood tested with no reactors.
+(1) It has been officially blood tested with either no reactors or reactors that, upon further bacteriological examination conducted in accordance with part 147 of this subchapter, fail to isolate *S. pullorum* or *S. gallinarum.*
 
 (2) It is a primary breeding flock that meets the following criteria:
 
@@ -30,7 +28,7 @@ Participating flocks, and the eggs and chicks produced from them, which have met
 
 (H) Discontinuation of any of the conditions or procedures described in paragraphs (b)(2)(i)(A) through (b)(2)(i)(G) of this section, or the occurrence of repeated outbreaks of pullorum or typhoid in poultry breeding flocks within or originating within the State shall be grounds for the Service to revoke its determination that such conditions and procedures have been met or complied with. Such action shall not be taken until a thorough investigation has been made by the Service and the Official State Agency has been given an opportunity to present its views; and
 
-(ii) In the primary breeding flock, a sample of 300 birds from flocks of more than 300, and each bird in flocks of 300 or less, has been officially tested for pullorum-typhoid with no reactors: *Provided,* That a bacteriological examination monitoring program acceptable to the Official State Agency and approved by the Service may be used in lieu of blood testing.
+(ii) In the primary breeding flock, a sample of 300 birds from flocks of more than 300, and each bird in flocks of 300 or less, has been officially tested for pullorum-typhoid with either no reactors or reactors that, upon further bacteriological examination conducted in accordance with part 147 of this subchapter, fail to isolate *S. pullorum* or *S. gallinarum: Provided,* That a bacteriological examination monitoring program acceptable to the Official State Agency and approved by APHIS may be used in lieu of blood testing.
 
 (c) *U.S. M. Gallisepticum Clean.* (1) A flock maintained in accordance with part 147 of this subchapter with respect to Mycoplasma isolation, sanitation, and management and in which freedom from *M. gallisepticum* has been demonstrated under the criteria specified in paragraph (c)(1)(i) of this section.
 
@@ -102,4 +100,28 @@ Participating flocks, and the eggs and chicks produced from them, which have met
 
 (2) A sample of at least 11 birds must be tested and found negative for avian influenza within 21 days prior to movement to slaughter.
 
-[72 FR 1420, Jan. 12, 2007, as amended at 76 FR 15794, Mar. 22, 2011; 79 FR 38759, July 9, 2014]
+(g) *U.S. Salmonella Monitored.* This program is intended to be the basis from which the primary egg-type breeder industry may conduct a program for the prevention and control of salmonellosis. It is intended to reduce the incidence of Salmonella organisms in hatching eggs and chicks through an effective and practical sanitation program at the breeder farm and in the hatchery. This will afford other segments of the poultry industry an opportunity to reduce the incidence of Salmonella in their products.
+
+(1) A flock and the hatching eggs and chicks produced from it that have met the following requirements, as determined by the Official State Agency:
+
+(i) The flock is maintained in accordance with part 147 of this subchapter with respect to flock sanitation, cleaning and disinfection, and Salmonella isolation, sanitation, and management.
+
+(ii) Measures shall be implemented to control Salmonella challenge through feed, feed storage, and feed transport.
+
+(iii) Chicks shall be hatched in a hatchery whose sanitation is maintained in accordance with part 147 of this subchapter and sanitized or fumigated in accordance with part 147 of this subchapter.
+
+(iv) An Authorized Agent shall take environmental samples from the hatchery every 30 days; *i.e.,* meconium or chick papers. An authorized laboratory for Salmonella shall examine the samples bacteriologically.
+
+(v) An Authorized Agent shall take environmental samples in accordance with part 147 of this subchapter from each flock at 4 months of age and every 30 days thereafter. An authorized laboratory for Salmonella shall examine the environmental samples bacteriologically. All Salmonella isolates from a flock shall be serogrouped and shall be reported to the Official State Agency on a monthly basis.
+
+(vi) Owners of flocks may vaccinate with a paratyphoid vaccine: *Provided,* That a sample of 350 birds, which will be banded for identification, shall remain unvaccinated until the flock reaches at least 4 months of age to allow for the serological testing required under paragraph (g)(1)(iv) of this section.
+
+(vii) Any flock entering the production period that is in compliance with all the requirements of this paragraph (g) with no history of Salmonella isolations shall be considered “Salmonella negative” and may retain this definition as long as no environmental or bird Salmonella isolations are identified and confirmed from the flock or flock environment by sampling on four separate collection dates over a minimum of a 2-week period. Sampling and testing must be performed as described in paragraph (g)(1)(vi) of this section. An unconfirmed environmental Salmonella isolation shall not change this Salmonella negative status.
+
+(2) The Official State Agency may monitor the effectiveness of the sanitation practices in accordance with part 147 of this subchapter.
+
+(3) In order for a hatchery to sell products of paragraphs (g)(1)(i) through (vii) of this section, all products handled shall meet the requirements of the classification.
+
+(4) This classification may be revoked by the Official State Agency if the participant fails to follow recommended corrective measures.
+
+[72 FR 1420, Jan. 12, 2007, as amended at 76 FR 15794, Mar. 22, 2011; 79 FR 38759, July 9, 2014; 83 FR 28353, June 19, 2018]

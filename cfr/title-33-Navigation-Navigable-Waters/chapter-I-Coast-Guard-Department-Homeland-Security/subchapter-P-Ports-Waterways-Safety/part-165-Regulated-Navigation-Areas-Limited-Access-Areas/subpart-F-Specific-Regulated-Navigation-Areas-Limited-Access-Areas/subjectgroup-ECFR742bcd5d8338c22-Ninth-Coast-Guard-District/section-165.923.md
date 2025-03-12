@@ -1,5 +1,7 @@
 ##### § 165.923 Safety Zone and Regulated Navigation Area, Chicago Sanitary and Ship Canal, Romeoville, IL. #####
 
+Link to an amendment published at 83 FR 34045, July 19, 2018.
+
 (a) *Safety Zone.* (1) The following area is a safety zone: All waters of the *Chicago Sanitary and Ship Canal* located between mile marker 296.1 and mile marker 296.7.
 
 (2) *Regulations.* (i) All vessels are prohibited from transiting the safety zone with any non-potable water on board if they intend to release that water in any form within, or on the other side of the safety zone. Non-potable water includes, but is not limited to, any water taken on board to control or maintain trim, draft, stability, or stresses of the vessel. Likewise, it includes any water taken on board due to free communication between the hull of the vessel and exterior water. Potable water is water treated and stored aboard the vessel that is suitable for human consumption.
