@@ -1,5 +1,7 @@
 ##### § 665.405 Prohibitions. #####
 
+Link to an amendment published at 87 FR 9272, Feb. 18, 2022.
+
 In addition to the general prohibitions specified in § 600.725 of this chapter and § 665.15, it is unlawful for any person to do any of the following:
 
 (a) Fish for Mariana bottomfish MUS or ECS using gear prohibited under § 665.406.

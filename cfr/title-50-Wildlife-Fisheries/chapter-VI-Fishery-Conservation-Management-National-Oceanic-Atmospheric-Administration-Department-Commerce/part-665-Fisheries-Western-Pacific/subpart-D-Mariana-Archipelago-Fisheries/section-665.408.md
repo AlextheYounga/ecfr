@@ -1,5 +1,7 @@
 ##### § 665.408 Annual Catch Limits (ACL) and Annual Catch Targets (ACT). #####
 
+Link to an amendment published at 87 FR 9272, Feb. 18, 2022.
+
 (a) In accordance with § 665.4, the ACL and ACT for Guam and CNMI bottomfish MUS fisheries for each fishing year are as follows:
 
 Table 1 to Paragraph (a)

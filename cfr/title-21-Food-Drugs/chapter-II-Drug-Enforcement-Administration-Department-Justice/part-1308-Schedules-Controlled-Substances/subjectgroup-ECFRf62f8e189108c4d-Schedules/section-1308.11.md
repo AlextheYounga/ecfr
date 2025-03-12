@@ -321,9 +321,6 @@
 
 2. At 84 FR 34297, July 17, 2019, § 1308.11 was amended by adding paragraphs (h)(42) through (h)(47) effective July 18, 2019, through July 18, 2021. At 86 FR 37672, July 16, 2021, the effective period was extended to July 18, 2022.
 
-3.At 83 FR 5191, Feb. 6, 2018, § 1308.11 was amended by adding paragraph (h)(30), effective Feb. 6, 2018, through Feb. 6, 2020. Effective Feb. 6, 2020, Congress extended the effective period for paragraph (h)(30) until May 6, 2021, by Public Law 116-114.
-Effective May 4, 2021, Congress extended the effective period for paragraph (h)(30) until October 22, 2021, by Public Law 117-12.
-Effective Sept. 30, 2021, Congress extended the effective period for paragraph (h)(30) until Jan. 28, 2022, by Public Law 117-43.
-Effective Jan. 13, 2022, Congress extended the effective period for paragraph (h)(30) until Feb. 18, 2022, by Public Law 117-70.
+3.At 83 FR 5191, Feb. 6, 2018, § 1308.11 was amended by adding paragraph (h)(30), effective Feb. 6, 2018, through Feb. 6, 2020. Effective Feb. 6, 2020, Congress extended the effective period for paragraph (h)(30) until May 6, 2021, by Public Law 116-114. Effective May 4, 2021, Congress extended the effective period for paragraph (h)(30) until October 22, 2021, by Public Law 117-12. Effective Sept. 30, 2021, Congress extended the effective period for paragraph (h)(30) until Jan. 28, 2022, by Public Law 117-43. Effective Jan. 13, 2022, Congress extended the effective period for paragraph (h)(30) until Feb. 18, 2022, by Public Law 117-70. Effective Feb. 18, 2022, Congress extended the effective period for paragraph (h)(30) until Mar. 11, 2022, by Public Law 117-86. Effective Mar. 11, 2022, Congress extended the effective period for paragraph (h)(30) until Mar. 15, 2022 by Public Law 117-95. Effective Mar. 15, 2022, Congress extended the effective period for paragraph (h)(30) until Dec. 31, 2022 by Public Law No. 117-103.
 
 4. At 86 FR 11866, Mar. 1, 2021, § 1308.11 was amended by adding paragraph (h)(49), effective Mar. 1, 2021 through Mar. 1, 2023.
