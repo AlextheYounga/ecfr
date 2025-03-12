@@ -1,7 +1,5 @@
 ##### § 229.3 Prohibitions. #####
 
-Link to an amendment published at 88 FR 36972, June 6, 2023.
-
 (a) It is prohibited to take any marine mammal incidental to commercial fishing operations except as otherwise provided in part 216 of this chapter or in this part 229.
 
 (b) It is prohibited to assault, harm, harass (including sexually harass), oppose, impede, intimidate, impair, or in any way influence or interfere with an observer, or attempt the same. This prohibition includes, but is not limited to, any action that interferes with an observer's responsibilities, or that creates an intimidating, hostile, or offensive environment.
@@ -38,13 +36,9 @@ Link to an amendment published at 88 FR 36972, June 6, 2023.
 
 (2) It is prohibited to set, fish with, or fail to remove a modified pound net leader in the Bottlenose Dolphin Pound Net Regulated Area unless the fisherman has on board the vessel a valid modified pound net leader compliance training certificate issued by NMFS.
 
-(t) It is prohibited to deploy or fish with pelagic longline gear in the Mid-Atlantic Bight unless the vessel:
+(t) It is prohibited to deploy or fish with pelagic longline gear (as defined in 50 CFR 635.2) in the EEZ (as defined in 50 CFR 600.10) of the Atlantic Ocean east of the line of demarcation between the Atlantic Ocean and the Gulf of Mexico (as defined in 50 CFR 600.105(c)), unless the vessel complies with the requirements specified in § 229.36(c) and (d).
 
-(1) Complies with the placard posting requirement specified in § 229.36(c); and
-
-(2) Complies with the gear restrictions specified in § 229.36(e).
-
-(u) It is prohibited to deploy or fish with pelagic longline gear in the Cape Hatteras Special Research Area unless the vessel is in compliance with the observer and research requirements specified in § 229.36(d).
+(u) It is prohibited to deploy or fish with pelagic longline gear (as defined in 50 CFR 635.2) in the Mid-Atlantic Bight (as defined in § 229.36(b)(2)) unless the vessel complies with paragraph (t) of this section and the requirements specified in § 229.36(e).
 
 (v) It is prohibited to deep-set from a vessel registered for use under a Hawaii longline limited access permit unless the vessel complies with the gear requirements specified in § 229.37(c)(1) and (c)(2) .
 
@@ -54,4 +48,4 @@ Link to an amendment published at 88 FR 36972, June 6, 2023.
 
 (y) It is prohibited to fish with longline gear from a vessel registered for use under a Hawaii longline limited access permit in violation of the marine mammal handling and release requirements at § 229.37(f).
 
-[60 FR 45100, Aug. 30, 1995, as amended at 62 FR 39184, July 22, 1997; 63 FR 66487, Dec. 2, 1998; 64 FR 7552, Feb. 16, 1999; 64 FR 9086, Feb. 24, 1999; 65 FR 80377, Dec. 21, 2000; 67 FR 1313, Jan. 10, 2002; 67 FR 59477, Sept. 23, 2002; 71 FR 24796, Apr. 26, 2006; 72 FR 57180, Oct. 5, 2007; 74 FR 23357, May 19, 2009; 75 FR 7396, Feb. 19, 2010; 77 FR 71284, Nov. 29, 2012; 79 FR 36610, June 27, 2014; 80 FR 6929, Feb. 9, 2015]
+[60 FR 45100, Aug. 30, 1995, as amended at 62 FR 39184, July 22, 1997; 63 FR 66487, Dec. 2, 1998; 64 FR 7552, Feb. 16, 1999; 64 FR 9086, Feb. 24, 1999; 65 FR 80377, Dec. 21, 2000; 67 FR 1313, Jan. 10, 2002; 67 FR 59477, Sept. 23, 2002; 71 FR 24796, Apr. 26, 2006; 72 FR 57180, Oct. 5, 2007; 74 FR 23357, May 19, 2009; 75 FR 7396, Feb. 19, 2010; 77 FR 71284, Nov. 29, 2012; 79 FR 36610, June 27, 2014; 80 FR 6929, Feb. 9, 2015; 88 FR 36972, June 6, 2023]

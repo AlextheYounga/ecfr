@@ -38,7 +38,7 @@
 
 *Military service* means “active duty” service or “full-time National Guard duty” as defined in section 101(d)(1) and (d)(5) of title 10 in the United States Code and does not include active duty for training or attendance at a service school.
 
-*Non-governmental public service* means services provided by employees of a non-governmental qualified employer where the employer has devoted a majority of its full-time equivalent employees to working in at least one of the following areas (as defined in this section): emergency management, civilian service to military personnel military service, public safety, law enforcement, public interest law services, early childhood education, public service for individuals with disabilities or the elderly, public health, public education, public library services, school library, or other school-based services. Service as a member of the U.S. Congress is not qualifying public service employment for purposes of this section.
+*Non-governmental public service* means services provided by employees of a non-governmental qualified employer where the employer has devoted a majority of its full-time equivalent employees to working in at least one of the following areas (as defined in this section): emergency management, civilian service to military personnel, military service, public safety, law enforcement, public interest law services, early childhood education, public service for individuals with disabilities or the elderly, public health, public education, public library services, school library, or other school-based services. Service as a member of the U.S. Congress is not qualifying public service employment for purposes of this section.
 
 *Non-tenure track employment* means work performed by adjunct, contingent or part time faculty, teachers, or lecturers who are paid based on the credit hours they teach at institutions of higher education.
 
@@ -50,7 +50,7 @@
 
 *Public health* means those engaged in the following occupations (as those terms are defined by the Bureau of Labor Statistics): physicians, nurse practitioners, nurses in a clinical setting, health care practitioners, health care support, counselors, social workers, and other community and social service specialists.
 
-*Public interest law* is legal services that are funded in whole or in part by a local, State, Federal, or Tribal government.
+*Public interest law* means legal services that are funded in whole or in part by a local, State, Federal, or Tribal government.
 
 *Public library service* means the operation of public libraries or services that support their operation.
 
@@ -154,7 +154,7 @@
 
 (f) *Application not required.* The Secretary forgives a loan under this section without an application from the borrower if the Secretary has sufficient information in the Secretary's possession to determine the borrower has satisfied the requirements for forgiveness under this section.
 
-(g) *Reconsideration process.* (1) Within 90 days of the date the Secretary sent the notice of denial of forgiveness under paragraph (e)(8) of this section to the borrower, the borrower may request that the Secretary reconsider whether the borrower's employer or any payment meets the requirements for credit toward forgiveness by requesting reconsideration on a form approved by the Secretary. Borrowers who were denied loan forgiveness under this section after October 1, 2017, and prior to [EFFECTIVE DATE OF FINAL RULE], have 180 days from the effective date of this Final Rule to request reconsideration.
+(g) *Reconsideration process.* (1) Within 90 days of the date the Secretary sent the notice of denial of forgiveness under paragraph (e)(8) of this section to the borrower, the borrower may request that the Secretary reconsider whether the borrower's employer or any payment meets the requirements for credit toward forgiveness by requesting reconsideration on a form approved by the Secretary. Borrowers who were denied loan forgiveness under this section after October 1, 2017, and prior to July 1, 2023, have 180 days from the effective date of this Final Rule to request reconsideration.
 
 (2) To evaluate a reconsideration request, the Secretary considers—
 
@@ -174,4 +174,4 @@
 
 (ii) Otherwise qualified for a $0 payment on an income-driven repayment plan under § 685.209 and income-based repayment plan under § 685.221.
 
-[87 FR 66063, Nov. 1, 2022]
+[87 FR 66063, Nov. 1, 2022; 88 FR 43065, July 6, 2023]

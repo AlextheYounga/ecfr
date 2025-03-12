@@ -44,10 +44,12 @@
 
 (3) An individual claim under § 685.403 that is included in a group claim under § 685.402 will be subject to the adjudication timeline for that group under paragraph (g)(1)(i) of this section, and any timelines associated with individual adjudication in paragraph (g)(1)(ii) of this section will be tolled until the Secretary renders a decision on the claim under § 685.402.
 
-(4) The Department official will provide an interim update to the individual borrower submitting a claim under § 685.403, the third-party requestor requesting a group process under § 685.402, and the institution contacted for the institutional response under § 685.405 no later than 1 year after the dates in paragraph (g)(1) of this section. Such notification will—
+(4) The Department official will provide an interim update to the individual borrower submitting a claim under § 685.403, the third-party requestor requesting a group process under § 685.402, and the institution contacted for the institutional response under § 685.405 no later than 1 year after receipt of a materially complete application. Such notification will—
 
 (i) Indicate the Department official's progress in adjudicating the claim or claims; and,
 
 (ii) Provide an expected timeline for rendering a decision on the claim.
 
 (5) If the Secretary does not issue a written decision under paragraph (e) of this section on loans covered by certain claims by the dates identified in paragraph (g)(1) of this section, the loans, or portion of the loans in the case of a Direct Consolidation Loan, will not be enforceable by the Department against the borrower and the school will not be liable for the loan amount.
+
+[87 FR 66068, Nov. 1, 2022; 88 FR 43065, July 6, 2023]

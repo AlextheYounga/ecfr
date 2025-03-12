@@ -34,7 +34,7 @@
 
 (A) Received the proceeds of a loan, in whole or in part, on or after January 1, 1986, to attend a school;
 
-(B) Did not complete the program of study at that school because the school closed while the student was enrolled, or the student withdrew from the school not more than 180 calendar days before the school closed. The Secretary may extend the 180-day period if the Secretary determines that exceptional circumstances, as described in paragraph (i) of this section, justify an extension; and
+(B) Did not complete the program of study at that school because the school closed while the student was enrolled, or the student withdrew from the school not more than 180 calendar days before the school closed. The Secretary may extend the 180-day period if the Secretary determines that exceptional circumstances, as described in paragraph (h) of this section, justify an extension; and
 
 (C) On or after July 1, 2023, state that the borrower did not complete the program at another branch or location of the school or through a teach-out agreement at another school, approved by the school's accrediting agency and, if applicable, the school's State authorizing agency.
 
@@ -44,7 +44,7 @@
 
 (A) Agrees to provide to the Secretary upon request other documentation reasonably available to the borrower that demonstrates that the borrower meets the qualifications for discharge under this section; and
 
-(B) Agrees to cooperate with the Secretary in enforcement actions in accordance with paragraph (d) of this section and to transfer any right to recovery against a third party to the Secretary in accordance with paragraph (e) of this section.
+(B) Agrees to cooperate with the Secretary in enforcement actions in accordance with paragraph (e) of this section and to transfer any right to recovery against a third party to the Secretary in accordance with paragraph (f) of this section.
 
 (2) [Reserved]
 
@@ -80,7 +80,7 @@
 
 (6) If the Secretary determines that a borrower who requests a discharge meets the qualifications for a discharge, the Secretary notifies the borrower in writing of that determination.
 
-(7) If the Secretary determines that a borrower who requests a discharge does not meet the qualifications for a discharge, the Secretary notifies that borrower in writing of that determination and the reasons for the determination.
+(7) If the Secretary determines that a borrower who requests a discharge does not meet the qualifications for a discharge, the Secretary notifies the borrower in writing of that determination and the reasons for the determination.
 
 (h) *Exceptional circumstances.* For purposes of this section, exceptional circumstances include, but are not limited to—
 
@@ -106,4 +106,4 @@
 
 (11) The school was placed on the heightened cash monitoring payment method as defined in § 668.162(d)(2) of this chapter.
 
-(Approved by the Office of Management and Budget under control number 1845-0021)[59 FR 61690, Dec. 1, 1994, as amended at 59 FR 66134, Dec. 22, 1994; 64 FR 58972, Nov. 1, 1999. Redesignated at 65 FR 65629, Nov. 1, 2000, as amended at 66 FR 34765, June 29, 2001; 78 FR 65834, Nov. 1, 2013; 81 FR 76081, Nov. 1, 2016; 84 FR 49930, Sept. 23, 2019; 87 FR 66060, Nov. 1, 2022]
+(Approved by the Office of Management and Budget under control number 1845-0021)[59 FR 61690, Dec. 1, 1994, as amended at 59 FR 66134, Dec. 22, 1994; 64 FR 58972, Nov. 1, 1999. Redesignated at 65 FR 65629, Nov. 1, 2000, as amended at 66 FR 34765, June 29, 2001; 78 FR 65834, Nov. 1, 2013; 81 FR 76081, Nov. 1, 2016; 84 FR 49930, Sept. 23, 2019; 87 FR 66060, Nov. 1, 2022; 88 FR 43065, July 6, 2023]

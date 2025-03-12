@@ -126,7 +126,7 @@
 
 (ii) For the purposes of this section—
 
-(A) If a school has closed, the school's closure date is the earlier of: the date, determined by the Secretary, that the school ceased to provide educational instruction in programs in which most students at the school were enrolled, or a determined by the Secretary that reflects when the school ceased to provide educational instruction for all of its students;
+(A) If a school has closed, the school's closure date is the earlier of: the date, determined by the Secretary, that the school ceased to provide educational instruction in programs in which most students at the school were enrolled, or a date determined by the Secretary that reflects when the school ceased to provide educational instruction for all of its students;
 
 (B) “School” means a school's main campus or any location or branch of the main campus regardless of whether the school or its location or branch is considered title IV eligible;
 
@@ -240,4 +240,4 @@
 
 (xi) The Department placed the school on the heightened cash monitoring payment method as defined in § 668.162(d)(2).
 
-(Approved by the Office of Management and Budget under control number 1845-0019)(Authority:20 U.S.C. 1087dd)[52 FR 45754, Dec. 1, 1987, as amended at 57 FR 32345, July 21, 1992; 57 FR 60706, Dec. 21, 1992; 59 FR 61409, Nov. 30, 1994; 60 FR 61814, Dec. 1, 1995; 62 FR 50848, Sept. 26, 1997; 64 FR 58309, Oct. 28, 1999; 67 FR 67076, Nov. 1, 2002; 74 FR 55660, Oct. 28, 2009; 78 FR 65805, Nov. 1, 2013; 81 FR 76078, Nov. 1, 2016; 84 FR 58933, Nov. 1, 2019; 87 FR 66042, Nov. 1, 2022]
+(Approved by the Office of Management and Budget under control number 1845-0019)(Authority:20 U.S.C. 1087dd)[52 FR 45754, Dec. 1, 1987, as amended at 57 FR 32345, July 21, 1992; 57 FR 60706, Dec. 21, 1992; 59 FR 61409, Nov. 30, 1994; 60 FR 61814, Dec. 1, 1995; 62 FR 50848, Sept. 26, 1997; 64 FR 58309, Oct. 28, 1999; 67 FR 67076, Nov. 1, 2002; 74 FR 55660, Oct. 28, 2009; 78 FR 65805, Nov. 1, 2013; 81 FR 76078, Nov. 1, 2016; 84 FR 58933, Nov. 1, 2019; 87 FR 66042, Nov. 1, 2022; 88 FR 43065, July 6, 2023]
