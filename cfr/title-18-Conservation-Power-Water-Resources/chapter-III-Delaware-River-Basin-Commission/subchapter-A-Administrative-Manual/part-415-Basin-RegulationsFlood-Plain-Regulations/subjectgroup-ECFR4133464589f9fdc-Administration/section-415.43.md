@@ -1,0 +1,7 @@
+##### § 415.43 Mapped and unmapped delineations. #####
+
+(a) Whenever an official flood plain map providing the pertinent information is available with respect to a given project, the map shall be used for the delineation of the flood hazard area, floodway, flood fringe and determination of flood protection elevation.
+
+(b) Whenever an official flood plain map providing the required information is not available with respect to a given project, the administrative agency shall require the project landowner to submit details concerning the proposed uses as needed to determine the floodway and flood fringe limits at the proposed site, including: cross-sections of the stream channel and overbanks, stream profile, and factors involved in determining obstructions to flow. From the data submitted, soil surveys, historic flood maps, high water marks and other empirical data, the applicant, subject to verification by the administrative agency, shall calculate flood hazard areas, and establish the flood protection elevation for the particular site.
+
+(c) Pending the preparation and completion of flood plain mapping, a “general flood plain” area shall be prescribed by the administrative agency to delineate for public guidance the areal limits of site locations which are required to be submitted for review under this regulation.

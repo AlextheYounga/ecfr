@@ -1,0 +1,11 @@
+##### § 1302.12 Effect on other regulations; supervision and coordination. #####
+
+(a) *Effect on other regulations.* All regulations, orders, or like directions heretofore issued by TVA which impose requirements designed to prohibit any discrimination against individuals on the ground of race, color, or national origin to which this regulation applies, and which authorize the suspension or termination of or refusal to grant or to continue financial assistance to any recipient of such assistance under such program for failure to comply with such requirements, are hereby superseded to the extent that such discrimination is prohibited by this part, except that nothing in this part shall be deemed to relieve any person of any obligation assumed or imposed under any such superseded regulation, order, instruction, or like direction prior to the effective date of this part. Nothing in this part, however, shall be deemed to supersede any of the following (including future amendments thereof):
+
+(1) Executive Order 12250 and regulations issued thereunder, or
+
+(2) Any other regulations or instructions, insofar as they prohibit discrimination on the ground of race, color, or national origin in any program or situation to which this regulation is inapplicable, or prohibit discrimination on any other ground.
+
+(b) *Supervision and coordination.* TVA may from time to time assign to officials of other departments or agencies of the Government with the consent of such departments or agencies, responsibilities in connection with the effectuation of the purposes of Title VI of the Act and this part (other than responsibility for final decision as provided in § 1302.9), including the achievement of effective coordination and maximum uniformity within the Executive Branch of the Government in the application of Title VI and this part to similar programs and in similar situations. Any action taken, determination made, or requirement imposed by an official of another department or agency acting pursuant to an assignment of responsibility under this subsection shall have the same effect as though such action had been taken by TVA.
+
+[38 FR 17945, July 5, 1973. Redesignated at 44 FR 30682, May 29, 1979. Redesignated and amended at 49 FR 20484, May 15, 1984; 68 FR 51355, Aug. 26, 2003]

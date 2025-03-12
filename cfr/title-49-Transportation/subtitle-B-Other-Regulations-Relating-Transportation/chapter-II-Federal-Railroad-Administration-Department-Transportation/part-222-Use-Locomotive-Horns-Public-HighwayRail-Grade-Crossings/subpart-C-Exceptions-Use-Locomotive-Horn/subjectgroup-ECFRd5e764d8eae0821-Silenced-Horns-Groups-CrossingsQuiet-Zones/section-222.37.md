@@ -1,0 +1,7 @@
+##### § 222.37 Who may establish a quiet zone? #####
+
+(a) A public authority may establish quiet zones that are consistent with the provisions of this part. If a proposed quiet zone includes public highway-rail grade crossings under the authority and control of more than one public authority (such as a county road and a State highway crossing the railroad tracks at different crossings), both public authorities must agree to establishment of the quiet zone, and must jointly, or by delegation provided to one of the authorities, take such actions as are required by this part.
+
+(b) A public authority may establish quiet zones irrespective of State laws covering the subject matter of sounding or silencing locomotive horns at public highway-rail grade crossings. Nothing in this part, however, is meant to affect any other applicable role of State agencies or the Federal Highway Administration in decisions regarding funding or construction priorities for grade crossing safety projects, selection of traffic control devices, or engineering standards for roadways or traffic control devices.
+
+(c) A State agency may provide administrative and technical services to public authorities by advising them, acting on their behalf, or acting as a central contact point in dealing with FRA; however, any public authority eligible to establish a quiet zone under this part may do so.

@@ -1,0 +1,5 @@
+##### § 1242.31 Lease rentals—debit and credit and other rents—debit and credit (accounts 31-17-00, 31-18-00, 31-19-00, 32-17-00, 32-18-00, 32-19-00, 35-17-00, 35-18-00, 35-19-00, 36-17-00, 36-18-00, and 36-19-00). #####
+
+(a) Separate common debit expense accounts in each subactivity (running, switching and other) in proportion to the separation of solely related freight or passenger service in each account. If there are no solely related expenses in an account or if the solely related expenses are assignable entirely to freight or to passenger service, separate common debit expense accounts on the basis of the same percentages calculated for the separation of administration—other (account XX-19-06).
+
+(b) Separate all common credit expense accounts on the same percentages calculated for the separation of administration—other (account XX-19-06).

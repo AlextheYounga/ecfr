@@ -1,0 +1,5 @@
+##### § 1243.2 Condensed balance sheet. #####
+
+Commencing with reports for the 3 months beginning January 1, 1972, and for subsequent quarters thereafter, until further ordered, all class I railroads, except switching and terminal companies, subject to the provisions of Part I of the Interstate Commerce Act, be, and they are hereby, required to compile and file quarterly reports of balance sheet items in accordance with quarterly report Form CBS, and instructions thereon. Such quarterly reports shall be submitted, in paper or electronically, to the Office of Economics, Surface Transportation Board, Washington, DC, within 30 days after the end of the quarter to which they relate.
+
+[37 FR 5503, Mar. 16, 1972, as amended at 67 FR 57534, Sept. 11, 2002; 81 FR 8856, Feb. 23, 2016]

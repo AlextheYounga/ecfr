@@ -1,5 +1,7 @@
 ##### § 275.204-2 Books and records to be maintained by investment advisers. #####
 
+Link to an amendment published at 88 FR 13954, Mar. 6, 2023.
+
 (a) Every investment adviser registered or required to be registered under section 203 of the Act (15 U.S.C. 80b-3) shall make and keep true, accurate and current the following books and records relating to its investment advisory business;
 
 (1) A journal or journals, including cash receipts and disbursements, records, and any other records of original entry forming the basis of entries in any ledger.
@@ -148,7 +150,7 @@
 
 (f) An investment adviser subject to paragraph (a) of this section, before ceasing to conduct or discontinuing business as an investment adviser shall arrange for and be responsible for the preservation of the books and records required to be maintained and preserved under this section for the remainder of the period specified in this section, and shall notify the Commission in writing, at its principal office, Washington, D.C. 20549, of the exact address where such books and records will be maintained during such period.
 
-(g) *Micrographic and electronic storage permitted* - (1) *General.* The records required to be maintained and preserved pursuant to this part may be maintained and preserved for the required time by an investment adviser on:
+(g) *Micrographic and electronic storage permitted*—(1) *General.* The records required to be maintained and preserved pursuant to this part may be maintained and preserved for the required time by an investment adviser on:
 
 (i) Micrographic media, including microfilm, microfiche, or any similar medium; or
 

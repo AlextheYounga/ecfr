@@ -1,0 +1,3 @@
+##### § 705.3 Application of this part. #####
+
+This part applies to any program for which Federal financial assistance is authorized under a law administered by the Water Resources Council. It applies to money paid, property transferred, or other Federal financial assistance extended under any such program after the date of this part pursuant to an application whether approved before or after such date. This part does not apply to (a) any Federal financial assistance by way of insurance or guaranty contracts, or (b) any employment practice except to the extent described in § 705.4(c).

@@ -1,0 +1,11 @@
+##### § 260.51 Conditions of guarantee. #####
+
+(a) The percentage of the obligation for which Applicant seeks a guarantee is a matter of negotiation between the Lender and the Applicant, subject to the Administrator's approval. The maximum percentage of the total obligation that the Administrator will guarantee is 80 percent. The amount of guarantee allowed will depend on the total credit quality of the transaction and the level of risk believed to be assumed by the Administrator.
+
+(b) A guarantee under this part constitutes an obligation supported by the full faith and credit of the United States and is incontestable except for fraud or misrepresentation of which a Lender or Holder has actual knowledge at the time it becomes such Lender or Holder or which a Lender or Holder participates in or condones. In addition, the guarantee will be unenforceable by the Lender or the Holder to the extent any loss is occasioned by the violation of usury laws, negligent servicing, or failure to obtain the required security regardless of the time at which the Administrator acquires knowledge thereof. Any losses occasioned will be unenforceable to the extent that loan funds are used for purposes other than those specifically approved by FRA in its guarantee.
+
+(c) The Administrator may guarantee an Applicant's obligation to any Lender provided such Lender can establish to the satisfaction of the Administrator that it has the legal authority and sufficient expertise and financial strength to operate a successful lending program. Loan guarantees will only be approved for Lenders with adequate experience and expertise to make, secure, service, and collect the loans.
+
+(d) The Lender may sell all of the guaranteed portion of the loan on the secondary market, provided the loan is not in default, or retain the entire loan.
+
+(e) When a guaranteed portion of a loan is sold to a Holder, the Holder shall succeed to all rights of the Lender under the loan guarantee to the extent of the portion purchased. The Lender will remain bound to all obligations under the loan guarantee and the provisions of this part. In the event of material fraud, negligence or misrepresentation by the Lender or the Lender's participation in or condoning of such material fraud, negligence or misrepresentation, the Lender will be liable for payments made by the Agency to any Holder.

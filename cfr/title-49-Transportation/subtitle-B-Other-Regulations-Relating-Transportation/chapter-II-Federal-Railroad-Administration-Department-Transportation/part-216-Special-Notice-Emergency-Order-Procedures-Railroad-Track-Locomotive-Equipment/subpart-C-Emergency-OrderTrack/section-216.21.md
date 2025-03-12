@@ -1,0 +1,5 @@
+##### § 216.21 Notice of track conditions. #####
+
+(a) When an FRA Track Inspector or State Track Inspector finds track conditions which may require the issuance of an Emergency order removing the track from service under section 203, Public Law No. 91-458, 84 Stat. 972 (45 U.S.C. 432), the Inspector may issue a notice to the railroad owning the track. The notice sets out and describes the conditions found by the Inspector and specifies the location of defects on the affected track segment. The Inspector provides a copy to the FRA Regional Track Engineer and the FRA Regional Administrator.
+
+(b) In the event the railroad immediately commences repairs on the affected track and so advises the FRA Regional Track Engineer, the Regional Track Engineer assigns an Inspector to reinspect the track immediately on the completion of repairs. If upon reinspection the Inspector determines that necessary repairs have been completed, he withdraws the Notice of Track Conditions.

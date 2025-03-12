@@ -1,0 +1,3 @@
+##### § 1242.67 Switch crews; controlling operations; yard and terminal clerical; locomotive fuel; electric power purchased/produced for motive power; operating switches signals, retarders, and humps; and servicing locomotives (accounts XX-52-64, XX-52-65, XX-52-66, XX-52-59, XX-52-67, XX-52-68 and XX-52-69). #####
+
+Separate common expenses on the basis of the distribution of freight and passenger yard-switching hours in those yards common to both freight and passenger services.

@@ -1,0 +1,3 @@
+##### § 568.6 Requirements for final-stage manufacturers. #####
+
+Each final-stage manufacturer shall complete the vehicle in such a manner that it conforms to the applicable standards in effect on the date selected by the final-stage manufacturer, including the date of manufacture of the incomplete vehicle, the date of final completion, or a date between those two dates. This requirement shall, however, be superseded by any conflicting provisions of a standard that applies by its terms to vehicles manufactured in two or more stages.

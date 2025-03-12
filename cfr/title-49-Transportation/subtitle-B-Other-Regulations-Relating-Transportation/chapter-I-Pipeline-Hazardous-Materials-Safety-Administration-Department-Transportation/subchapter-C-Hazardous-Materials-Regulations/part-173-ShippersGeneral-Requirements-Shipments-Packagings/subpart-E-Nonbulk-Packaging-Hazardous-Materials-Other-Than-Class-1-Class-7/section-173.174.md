@@ -1,0 +1,3 @@
+##### § 173.174 Refrigerating machines. #####
+
+A refrigerating machine assembled for shipment and containing 7 kg (15 pounds) or less of a flammable liquid for its operation in a strong, tight receptacle is excepted from labeling (except when offered for transportation or transported by air) and the specification packaging requirements of this subchapter. In addition. shipments are not subject to subpart F of part 172 of this subchapter (Placarding), to part 174 of this subchapter (Carriage by rail) except § 174.24 (Shipping papers) and to part 177 (Carriage by highway) of this subchapter except § 177.817 (Shipping papers).

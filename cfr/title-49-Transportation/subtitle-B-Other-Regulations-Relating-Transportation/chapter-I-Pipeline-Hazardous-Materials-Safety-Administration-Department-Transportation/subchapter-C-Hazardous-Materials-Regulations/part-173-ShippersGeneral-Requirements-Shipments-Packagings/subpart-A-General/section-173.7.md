@@ -1,0 +1,25 @@
+##### § 173.7 Government operations and materials. #####
+
+(a) Hazardous materials offered for transportation by, for, or to the Department of Defense (DOD) of the U.S. Government, including commercial shipments pursuant to a DOD contract, must be packaged in accordance with the regulations in this subchapter or in packagings of equal or greater strength and efficiency as certified by DOD in accordance with the procedures prescribed by “Packaging of Hazardous Material, DLAR 4145.41/AR 700-143/NAVSUPINST 4030.55D/AFMAN 24-210\_\_IP/MCO 4030.40C (IBR, see § 171.7 of this subchapter).” Hazardous materials offered for transportation by DOD under this provision may be reshipped by any shipper to any consignee provided the original packaging has not been damaged or altered in any manner.
+
+(1) Hazardous materials sold by the DOD in packagings that are not marked in accordance with the requirements of this subchapter may be shipped from DOD installations if the DOD certifies in writing that the packagings are equal to or greater in strength and efficiency than the packaging prescribed in this subchapter. The shipper shall obtain such a certification in duplicate for each shipment. He shall give one copy to the originating carrier and retain the other for no less than 1 year.
+
+(2) [Reserved]
+
+(b) Shipments of hazardous materials, made by or under the direction or supervision of the U.S. Department of Energy (DOE) or the Department of Defense (DOD), for the purpose of national security, and which are escorted by personnel specifically designated by or under the authority of those agencies, are not subject to the requirements of this subchapter. For transportation by a motor vehicle or a rail car, the escorts must be in a separate transport vehicle from the transport vehicle carrying the hazardous materials that are excepted by this paragraph. A document certifying that the shipment is for the purpose of national security must be in the possession of the person in charge of providing security during transportation.
+
+(c) Shipments of explosive samples, not exceeding 1 g net weight, offered by and consigned to the Bureau of Alcohol, Tobacco and Firearms (ATF) of the Department of the Treasury are not otherwise subject to the regulations in parts 110-189 of this subchapter when placed in a specifically designed multi-unit assembly packed in a strong outer packaging. The packaging must be of a type accepted by ATF as capable of precluding a propagation of any explosion outside the packaging. The second component from the outside of the packaging must be marked or tagged to indicate the presence of an explosive.
+
+(d) Notwithstanding the requirements of §§ 173.416 and 173.417 of this subchapter, packagings made by or under the direction of the U.S. Department of Energy may be used for the transportation of Class 7 materials when evaluated, approved, and certified by the Department of Energy against packaging standards equivalent to those specified in 10 CFR part 71. Packages shipped in accordance with this paragraph shall be marked and otherwise prepared for shipment in a manner equivalent to that required by this subchapter for packagings approved by the Nuclear Regulatory Commission.
+
+(e) Class 1 (explosive) materials owned by the Department of Defense and packaged prior to January 1, 1990, in accordance with the requirements of this subchapter in effect at that time, are excepted from the marking and labeling requirements of part 172 of this subchapter and the packaging and package marking requirements of part 178 of this subchapter, provided the packagings have maintained their integrity and the explosive material is declared as “government-owned goods packaged prior to January 1, 1990” on the shipping papers. In addition, packages of these materials owned by the Department of Defense that are marked and labeled in conformance with the requirements of the HMR that were in effect at the time they were originally marked and labeled are excepted from the current marking and labeling requirements.
+
+(f) The requirements of this subchapter do not apply to shipments of hazardous materials carried aboard an aircraft that is not owned by a government or engaged in carrying persons or property for commercial purposes, but is under the exclusive direction and control of the government for a period of not less than 90 days as specified in a written contract or lease. An aircraft is under the exclusive direction and control of a government when the government exercises responsibility for:
+
+(1) Approving crew members and determining they are qualified to operate the aircraft;
+
+(2) Determining the airworthiness and directing maintenance of the aircraft; and
+
+(3) Dispatching the aircraft, including the times of departure, airports to be used, and type and amount of cargo to be carried.
+
+[29 FR 18671, Dec. 29, 1964. Redesignated at 32 FR 5606, Apr. 5, 1967]Editorial Note:For Federal Register citations affecting § 173.7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -190,7 +190,7 @@ Attenuation in dB = −11.5(Δf + 3.6);Where: Δf = frequency difference in MHz 
 |    Sierra Vista    |                        21                         |   |
 |      Tolleson      |                        31                         |   |
 |       Tucson       |         9, 16, 19, 23, 25, \*28, \*30, 32         |   |
-|        Yuma        |                      11, 13                       |   |
+|        Yuma        |                      13, 27                       |   |
 |      Arkansas      |                                                   |   |
 |    Arkadelphia     |                       \*13                        |   |
 |       Camden       |                        18                         |   |

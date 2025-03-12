@@ -1,0 +1,15 @@
+##### § 173.155 Exceptions for Class 9 (miscellaneous hazardous materials). #####
+
+(a) *General.* Exceptions for hazardous materials shipments in the following paragraphs are permitted only if this section is referenced for the specific hazardous material in the § 172.101 table of this subchapter.
+
+(b) *Limited quantities of Class 9 materials.* Limited quantities of miscellaneous hazardous materials in Packing Groups II and III are excepted from labeling requirements, unless the material is offered for transportation or transported by aircraft, and are excepted from the specification packaging requirements of this subchapter when packaged in combination packagings according to this paragraph. Unless otherwise specified in paragraph (c) of this section, packages of limited quantities intended for transportation by aircraft must conform to the applicable requirements (*e.g.,* authorized materials, inner packaging quantity limits and closure securement) of § 173.27 of this part. A limited quantity package that conforms to the provisions of this section is not subject to the shipping paper requirements of subpart C of part 172 of this subchapter, unless the material meets the definition of a hazardous substance, hazardous waste, marine pollutant, or is offered for transportation and transported by aircraft or vessel, and is eligible for the exceptions provided in § 173.156 of this part. In addition, packages of limited quantities are not subject to subpart F (Placarding) of part 172 of this subchapter. Each package must conform to the packaging requirements of subpart B of this part and may not exceed 30 kg (66 pounds) gross weight. Except for transportation by aircraft, the following combination packagings are authorized:
+
+(1) For miscellaneous materials in Packing Group II, inner packagings not over 1.0 L (0.3 gallon) net capacity each for liquids or not over 1.0 kg (2.2 pounds) net capacity each for solids, packed in a strong outer packaging.
+
+(2) For miscellaneous materials in Packing Group III, inner packagings not over 5.0 L (1.3 gallons) net capacity each for liquids or not over 5.0 kg (11 lbs) net capacity each for solids, packed in a strong outer packaging.
+
+(c) [Reserved]
+
+(d) *Reverse logistics.* Except for Lithium batteries, hazardous materials meeting the definition of “reverse logistics” under § 171.8 of this subchapter and in compliance with paragraph (b) of this section may be offered for transport and transported in highway transportation in accordance with § 173.157.
+
+[Amdt. 173-224, 55 FR 52634, Dec. 21, 1990, as amended at 56 FR 66270, Dec. 20, 1991; Amdt. 173-231, 57 FR 52940, Nov. 5, 1992; Amdt. 173-253, 61 FR 27174, May 30, 1996; 71 FR 14603, Mar. 22, 2006; 76 FR 3375, Jan. 19, 2011; 78 FR 1114, Jan. 7, 2013; 81 FR 18540, Mar. 31, 2016; 87 FR 79776, Dec. 27, 2022]

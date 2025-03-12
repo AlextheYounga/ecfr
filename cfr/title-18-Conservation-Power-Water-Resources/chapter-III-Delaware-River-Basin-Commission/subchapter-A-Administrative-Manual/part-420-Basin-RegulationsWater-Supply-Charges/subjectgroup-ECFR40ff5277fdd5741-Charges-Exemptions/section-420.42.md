@@ -1,0 +1,3 @@
+##### § 420.42 Contracts; minimum charge. #####
+
+Subject to the exclusions for certificates of entitlement and exempt uses, the Executive Director may require contracts for any taking, use, withdrawal or diversion of waters of the basin. Each contract shall provide for a minimum annual payment in accordance with an estimated annual demand schedule, regardless of use, withdrawal or diversion. The failure of any person to execute a contract under this section shall not affect the application of other requirements of this resolution.

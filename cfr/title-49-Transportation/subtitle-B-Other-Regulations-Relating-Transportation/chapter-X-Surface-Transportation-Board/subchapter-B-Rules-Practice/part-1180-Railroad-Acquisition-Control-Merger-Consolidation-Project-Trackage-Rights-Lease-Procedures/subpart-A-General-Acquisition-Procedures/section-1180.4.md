@@ -124,13 +124,13 @@
 
 (3) No replies to a petition for waiver will be permitted, except where a proceeding involving the same parties and a related transaction is pending before us.1 When a reply is permitted, the petition shall be served by first-class mail on all parties to the pending proceedings, with a reply due within 10 days of service. Replies to a petition for clarification shall be permitted within 10 days of the petition's filing.
 
-1 See *Itel Corp. - Control-Green Bay and W. R. Co.,* 354 I.C.C. 232, 233 (1978).
+1 See *Itel Corp.—Control-Green Bay and W. R. Co.,* 354 I.C.C. 232, 233 (1978).
 
 (4) A waiver or clarification granted to any applicant in a proceeding shall apply to any other party to the proceeding unless otherwise indicated.
 
 (5) All petitions for waiver or clarification must specify the sections for which waiver or clarification is sought and give the specific reasons why each waiver or clarification is necessary.
 
-(g) *Notice of exemption.*(1) To qualify for an exemption under § 1180.2(d), a railroad must file a verified notice of the transaction with the Board. Except for verified notices filed under § 1180.2(d)(9), all verified notices under § 1180.2(d) must be filed at least 30 days before the transaction is consummated, indicating the proposed consummation date. Verified notices filed under § 1180.2(d)(9) will become effective upon service of notice of the transaction by the Board. Before a verified notice is filed, the railroad shall obtain a docket number from the Board's Section of Administration, Office of Proceedings.
+(g) *Notice of exemption.* (1) To qualify for an exemption under § 1180.2(d), a railroad must file a verified notice of the transaction with the Board. Except for verified notices filed under § 1180.2(d)(9), all verified notices under § 1180.2(d) must be filed at least 30 days before the transaction is consummated, indicating the proposed consummation date. Verified notices filed under § 1180.2(d)(9) will become effective upon service of notice of the transaction by the Board. Before a verified notice is filed, the railroad shall obtain a docket number from the Board's Section of Administration, Office of Proceedings.
 
 (i) All notices filed under § 1180.2(d) shall contain the information required in § 1180.6(a)(1)(i) through (iii), (a)(5) and (6), and (a)(7)(ii), and indicate the level of labor protection to be imposed.
 

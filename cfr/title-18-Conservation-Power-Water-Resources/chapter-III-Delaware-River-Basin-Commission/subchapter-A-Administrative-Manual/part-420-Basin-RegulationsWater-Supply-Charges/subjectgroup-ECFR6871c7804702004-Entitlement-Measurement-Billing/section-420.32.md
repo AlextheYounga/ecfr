@@ -1,0 +1,9 @@
+##### § 420.32 Measurement and billing of water taken. #####
+
+(a) The quantity and volume of waters used by each person shall be determined by meters, or other methods approved by the Commission, installed, maintained and read by or on behalf of the taker. Meters or other methods of measurement shall be subject to approval and inspection by the Commission as to installation, maintenance and reading.
+
+(b) Each user of surface water who is not exceeding the quantity specified in his “certificate of entitlement” shall annually, on or before January 31, file with the Commission, on a form to be prescribed by the Executive Director, a report of the user's physical capability, as defined, permit limitations, and the volume of water used during the preceding year.
+
+(c) Each user of surface water who is taking a quantity of water greater than the amount specified in his “certificate of entitlement” shall report his usage to the Commission on or before April 30, July 31, October 31 and January 31, of each year covering the next preceding calendar quarter, respectively, on forms to be prescribed by the Executive Director. The amount due for water usage in excess of the legal entitlement for each of the first three quarters of a calendar year shall be computed and paid by the user, together with the report.
+
+(d) The Commission will render a statement of the net amount due based on the fourth quarter report, including a negative or positive adjustment, so that the net total billing and payment for four quarters will equal the total water used during the four quarters less the user's legal entitlement, if any.

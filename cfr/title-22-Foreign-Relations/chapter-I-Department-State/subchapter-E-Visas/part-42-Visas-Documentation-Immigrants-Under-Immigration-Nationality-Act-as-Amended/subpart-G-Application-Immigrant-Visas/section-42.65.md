@@ -1,5 +1,7 @@
 ##### § 42.65 Supporting documents. #####
 
+Link to an amendment published at 88 FR 13696, Mar. 6, 2023.
+
 (a) *Authority to require documents.* The consular officer is authorized to require documents considered necessary to establish the alien's eligibility to receive an immigrant visa. All such documents submitted and other evidence presented by the alien, including briefs submitted by attorneys or other representatives, shall be considered by the officer.
 
 (b) *Basic documents required.* An alien applying for an immigrant visa shall be required to furnish, if obtainable: A copy of a police certificate or certificates; a certified copy of any existing prison record, military record, and record of birth; and a certified copy of all other records or documents which the consular officer considers necessary.

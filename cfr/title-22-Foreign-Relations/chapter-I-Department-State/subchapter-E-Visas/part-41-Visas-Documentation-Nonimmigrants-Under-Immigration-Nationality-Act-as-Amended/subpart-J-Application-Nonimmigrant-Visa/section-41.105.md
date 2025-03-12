@@ -1,6 +1,8 @@
 ##### § 41.105 Supporting documents and fingerprinting. #####
 
-(a) *Supporting documents* - (1) *Authority to require documents.* The consular officer is authorized to require documents considered necessary to establish the alien's eligibility to receive a nonimmigrant visa. All documents and other evidence presented by the alien, including briefs submitted by attorneys or other representatives, shall be considered by the consular officer.
+Link to an amendment published at 88 FR 13696, Mar. 6, 2023.
+
+(a) *Supporting documents*—(1) *Authority to require documents.* The consular officer is authorized to require documents considered necessary to establish the alien's eligibility to receive a nonimmigrant visa. All documents and other evidence presented by the alien, including briefs submitted by attorneys or other representatives, shall be considered by the consular officer.
 
 (2) *Unobtainable documents.* If the consular officer is satisfied that a document or record required under the authority of this section is unobtainable, the consular officer may accept satisfactory alternative pertinent evidence. A document or other record shall be considered unobtainable if it cannot be procured without causing the applicant or a member of the applicant's family actual hardship as distinct from normal delay and inconvenience.
 

@@ -1,7 +1,5 @@
 ##### § 1111.12 Streamlined market dominance. #####
 
-Link to an amendment published at 88 FR 318, Jan. 4, 2023.
-
 (a) A complainant may elect to pursue the streamlined market dominance approach to market dominance if the challenged movement satisfies the factors listed in paragraphs (a)(1) through (7) of this section. The Board will find a complainant has made a prima facie showing on market dominance when it can demonstrate the following with regard to the traffic subject to the challenged rate:
 
 (1) The movement has an R/VC ratio of 180% or greater;
@@ -20,12 +18,12 @@ Link to an amendment published at 88 FR 318, Jan. 4, 2023.
 
 (b) A complainant may rely on any competent evidence, including a verified statement from an appropriate official(s) with knowledge of the facts, in demonstrating the factors set out in paragraph (a) of this section. An appropriate official is any individual who has either direct or supervisory responsibility for, or otherwise has knowledge or understanding of, the complainant's transportation needs and options. The official(s) should provide his or her title and a short description of his or her duties in the verified statement. In demonstrating the revenue to variable cost ratio, a complainant must show its quantitative calculations.
 
-(c) A defendant's reply evidence under the streamlined market dominance approach may address the factors in paragraph (a) of this section and any other issues relevant to market dominance. A complainant may elect to submit rebuttal evidence on market dominance issues. Reply and rebuttal filings under the streamlined market dominance approach are each limited to 50 pages, inclusive of exhibits and verified statements.
+(c) A defendant's reply evidence under the streamlined market dominance approach may address the factors in paragraph (a) of this section and any other issues relevant to market dominance. A complainant may elect to submit rebuttal evidence on market dominance issues except in cases under Final Offer Rate Review, which does not provide for rebuttal. Reply and rebuttal filings under the streamlined market dominance approach are each limited to 50 pages, inclusive of exhibits and verified statements.
 
-(d)(1) Pursuant to the authority under § 1011.6 of this chapter, an administrative law judge will hold a telephonic evidentiary hearing on the market dominance issues at the discretion of the complainant in lieu of the submission of a written rebuttal on market dominance issues.
+(d)(1) Pursuant to the authority under § 1011.6 of this chapter, an administrative law judge will hold a telephonic evidentiary hearing on the market dominance issues at the discretion of the complainant in lieu of the submission of a written rebuttal on market dominance issues. In cases under Final Offer Rate Review, which does not provide for rebuttal, the telephonic evidentiary hearing is at the discretion of the complainant.
 
-(2) The hearing will be held on or about the date that the complainant's rebuttal evidence on rate reasonableness is due. The complainant shall inform the Board by letter submitted in the docket, no later than 10 days after defendant's reply is due, whether it elects an evidentiary hearing of lieu of the submission of a written rebuttal on market dominance issues.
+(2) The hearing will be held on or about the date that the complainant's rebuttal evidence on rate reasonableness is due, except in cases under Final Offer Rate Review, where the hearing will be held 14 days after replies are due unless the parties agree on an earlier date. The complainant shall inform the Board by letter submitted in the docket, no later than 10 days after defendant's reply is due, whether it elects an evidentiary hearing in lieu of the submission of a written rebuttal on market dominance issues. In cases under Final Offer Rate Review, the complainant shall inform the Board by letter submitted in the docket, no later than 7 days after defendant's reply is due, whether it elects an evidentiary hearing on market dominance issues.
 
 (3) The Board will provide an unofficial copy of the hearing transcript no later than 5 days after the conclusion of the hearing. The Board will provide the official hearing transcript shortly thereafter. The hearing transcript will be part of the docket in the proceeding.
 
-[85 FR 47697, Aug. 6, 2020]
+[85 FR 47697, Aug. 6, 2020, as amended at 88 FR 318, Jan. 4, 2023]

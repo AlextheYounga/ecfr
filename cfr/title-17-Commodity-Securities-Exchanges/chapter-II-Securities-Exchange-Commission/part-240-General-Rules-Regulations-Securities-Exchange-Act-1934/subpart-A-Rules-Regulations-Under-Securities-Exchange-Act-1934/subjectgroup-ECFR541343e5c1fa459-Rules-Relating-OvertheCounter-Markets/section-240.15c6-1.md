@@ -1,5 +1,7 @@
 ##### § 240.15c6-1 Settlement cycle. #####
 
+Link to an amendment published at 88 FR 13952, Mar. 6, 2023.
+
 (a) Except as provided in paragraphs (b), (c), and (d) of this section, a broker or dealer shall not effect or enter into a contract for the purchase or sale of a security (other than an exempted security, government security, municipal security, commercial paper, bankers' acceptances, or commercial bills) that provides for payment of funds and delivery of securities later than the second business day after the date of the contract unless otherwise expressly agreed to by the parties at the time of the transaction.
 
 (b) Paragraphs (a) and (c) of this section shall not apply to contracts:
