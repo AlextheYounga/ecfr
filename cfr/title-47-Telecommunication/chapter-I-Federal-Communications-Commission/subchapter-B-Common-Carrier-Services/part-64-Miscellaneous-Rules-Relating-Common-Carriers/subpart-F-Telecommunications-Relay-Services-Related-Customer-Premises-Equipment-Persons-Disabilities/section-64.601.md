@@ -1,5 +1,7 @@
 ##### § 64.601 Definitions and provisions of general applicability. #####
 
+Link to an amendment published at 84 FR 8461, Mar. 8, 2019.
+
 (a) For purposes of this subpart, the terms *Public Safety Answering Point (PSAP), statewide default answering point,* and *appropriate local emergency authority* are defined in 47 CFR 64.3000; the terms *pseudo-ANI* and *Wireline E911 Network* are defined in 47 CFR 9.3; the term *affiliate* is defined in 47 CFR 52.12(a)(1)(i), and the terms *majority* and *debt* are defined in 47 CFR 52.12(a)(1)(ii).
 
 (1) *711.* The abbreviated dialing code for accessing relay services anywhere in the United States.

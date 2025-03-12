@@ -14,9 +14,9 @@
 
 (iv) For ceiling fan light kits with medium screw base sockets that are packaged with incandescent lamps, determine the represented values of each basic model of lamp packaged with the ceiling fan light kit in accordance with § 429.27.
 
-(v) For ceiling fan light kits with sockets or packaged with lamps other than those described in paragraphs (a)(2)(i), (ii), (iii), or (iv) of this section, each unit must comply with the applicable design standard in § 430.32(s)(4) of this chapter.
+(v) For ceiling fan light kits with sockets or packaged with lamps other than those described in paragraphs (a)(2)(i), (ii), (iii), or (iv) of this section, each unit must comply with the applicable design standard in § 430.32(s)(5) of this chapter.
 
-(3) For ceiling fan light kits that require compliance with the January 7, 2019 energy conservation standards:
+(3) For ceiling fan light kits that require compliance with the January 21, 2020 energy conservation standards:
 
 (i) Determine the represented values of each basic model of lamp packaged with each basic model of ceiling fan light kit, in accordance with the specified section:
 
@@ -60,4 +60,4 @@ And x is the sample mean; s is the sample standard deviation; n is the number of
 
 (c) *Rounding requirements.* Any represented value of initial lamp efficacy of CFLKs as described in paragraph (a)(3)(i)(E); system efficacy of CFLKs as described in paragraph (a)(2)(iii); luminaire efficacy of CFLKs as described in paragraph (a)(3)(ii) of this section must be expressed in lumens per watt and rounded to the nearest tenth of a lumen per watt.
 
-[76 FR 12451, Mar. 7, 2011; 76 FR 24772, May 2, 2011, as amended at 80 FR 80225, Dec. 24, 2015; 81 FR 632, Jan. 6, 2016; 81 FR 43425, July 1, 2016]
+[76 FR 12451, Mar. 7, 2011; 76 FR 24772, May 2, 2011, as amended at 80 FR 80225, Dec. 24, 2015; 81 FR 632, Jan. 6, 2016; 81 FR 43425, July 1, 2016; 84 FR 8413, Mar. 8, 2019]

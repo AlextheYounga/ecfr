@@ -1,7 +1,5 @@
 ##### § 229.407 (Item 407) Corporate governance. #####
 
-Link to an amendment published at 84 FR 2425, Feb. 6, 2019.
-
 (a) *Director independence.* Identify each director and, when the disclosure called for by this paragraph is being presented in a proxy or information statement relating to the election of directors, each nominee for director, that is independent under the independence standards applicable to the registrant under paragraph (a)(1) of this Item. In addition, if such independence standards contain independence requirements for committees of the board of directors, identify each director that is a member of the compensation, nominating or audit committee that is not independent under such committee independence standards. If the registrant does not have a separately designated audit, nominating or compensation committee or committee performing similar functions, the registrant must provide the disclosure of directors that are not independent with respect to all members of the board of directors applying such committee independence standards.
 
 (1) In determining whether or not the director or nominee for director is independent for the purposes of paragraph (a) of this Item, the registrant shall use the applicable definition of independence, as follows:
@@ -250,6 +248,26 @@ b. If the security holder has filed a Schedule 13D (§ 240.13d-101 of this chapt
 
 (h) *Board leadership structure and role in risk oversight.* Briefly describe the leadership structure of the registrant's board, such as whether the same person serves as both principal executive officer and chairman of the board, or whether two individuals serve in those positions, and, in the case of a registrant that is an investment company, whether the chairman of the board is an “interested person” of the registrant as defined in section 2(a)(19) of the Investment Company Act (15 U.S.C. 80a-2(a)(19)). If one person serves as both principal executive officer and chairman of the board, or if the chairman of the board of a registrant that is an investment company is an “interested person” of the registrant, disclose whether the registrant has a lead independent director and what specific role the lead independent director plays in the leadership of the board. This disclosure should indicate why the registrant has determined that its leadership structure is appropriate given the specific characteristics or circumstances of the registrant. In addition, disclose the extent of the board's role in the risk oversight of the registrant, such as how the board administers its oversight function, and the effect that this has on the board's leadership structure.
 
+(i) *Employee, officer and director hedging.* In proxy or information statements with respect to the election of directors:
+
+(1) Describe any practices or policies that the registrant has adopted regarding the ability of employees (including officers) or directors of the registrant, or any of their designees, to purchase financial instruments (including prepaid variable forward contracts, equity swaps, collars, and exchange funds), or otherwise engage in transactions, that hedge or offset, or are designed to hedge or offset, any decrease in the market value of registrant equity securities -
+
+(i) Granted to the employee or director by the registrant as part of the compensation of the employee or director; or
+
+(ii) Held, directly or indirectly, by the employee or director.
+
+(2) A description provided pursuant to paragraph (1) shall provide a fair and accurate summary of the practices or policies that apply, including the categories of persons covered, or disclose the practices or policies in full.
+
+(3) A description provided pursuant to paragraph (1) shall also describe any categories of hedging transactions that are specifically permitted and any categories of such transactions specifically disallowed.
+
+(4) If the registrant does not have any such practices or policies regarding hedging, the registrant shall disclose that fact or state that the transactions described in paragraph (1) above are generally permitted.
+
+*Instructions to Item 407(i).*
+
+1. For purposes of this Item 407(i), “registrant equity securities” means those equity securities as defined in section 3(a)(11) of the Exchange Act (15 U.S.C. 78c(a)(11)) and § 240.3a11-1 of this chapter) that are issued by the registrant or by any parent or subsidiary of the registrant or any subsidiary of any parent of the registrant.
+
+2. The information required by this Item 407(i) will not be deemed to be incorporated by reference into any filing under the Securities Act or the Exchange Act, except to the extent that the registrant specifically incorporates it by reference.
+
 *Instructions to Item 407.* 1. For purposes of this Item:
 
 a. *Listed issuer* means a listed issuer as defined in § 240.10A-3 of this chapter;
@@ -262,4 +280,4 @@ d. *National securities association* means a national securities association reg
 
 2. With respect to paragraphs (c)(2)(i), (d)(1) and (e)(2) of this Item, disclose whether a current copy of the applicable committee charter is available to security holders on the registrant's Web site, and if so, provide the registrant's Web site address. If a current copy of the charter is not available to security holders on the registrant's Web site, include a copy of the charter in an appendix to the registrant's proxy or information statement that is provided to security holders at least once every three fiscal years, or if the charter has been materially amended since the beginning of the registrant's last fiscal year. If a current copy of the charter is not available to security holders on the registrant's Web site, and is not included as an appendix to the registrant's proxy or information statement, identify in which of the prior fiscal years the charter was so included in satisfaction of this requirement.
 
-[71 FR 53254, Sept. 8, 2006, as amended at 73 FR 964, Jan. 4, 2008; 73 FR 57238, Oct. 2, 2008; 74 FR 68364, Dec. 23, 2009; 77 FR 38453, July 27, 2012]
+[71 FR 53254, Sept. 8, 2006, as amended at 73 FR 964, Jan. 4, 2008; 73 FR 57238, Oct. 2, 2008; 74 FR 68364, Dec. 23, 2009; 77 FR 38453, July 27, 2012; 84 FR 2425, Mar. 8, 2019]

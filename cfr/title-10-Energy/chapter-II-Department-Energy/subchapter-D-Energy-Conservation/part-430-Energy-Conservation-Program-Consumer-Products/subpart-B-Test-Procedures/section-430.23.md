@@ -442,7 +442,7 @@ M, MWS, N, EF, and ETLP are defined in paragraph (c)(1)(i) of this section, and 
 
 (iv) For a ceiling fan light kit with medium screw base sockets that is packaged with incandescent lamps, measure lamp efficacy in accordance with paragraph (r) of this section.
 
-(2) For each ceiling fan light kit that requires compliance with the January 7, 2019 energy conservation standards:
+(2) For each ceiling fan light kit that requires compliance with the January 21, 2020 energy conservation standards:
 
 (i) For a ceiling fan light kit packaged with compact fluorescent lamps, measure lamp efficacy, lumen maintenance at 1,000 hours, lumen maintenance at 40 percent of lifetime, rapid cycle stress test, and time to failure in accordance with paragraph (y) of this section for each lamp basic model.
 
