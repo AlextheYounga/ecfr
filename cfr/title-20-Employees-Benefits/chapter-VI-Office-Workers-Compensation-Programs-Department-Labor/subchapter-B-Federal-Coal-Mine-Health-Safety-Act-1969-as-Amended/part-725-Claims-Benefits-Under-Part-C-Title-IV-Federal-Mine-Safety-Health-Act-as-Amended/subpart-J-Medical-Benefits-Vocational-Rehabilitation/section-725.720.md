@@ -1,0 +1,3 @@
+##### § 725.720 How does a miner request vocational rehabilitation assistance? #####
+
+Each miner who has been determined entitled to receive benefits under part C of title IV of the Act must be informed by OWCP of the availability and advisability of vocational rehabilitation services. If such miner chooses to avail himself or herself of vocational rehabilitation, his or her request will be processed and referred by OWCP vocational rehabilitation advisors pursuant to the provisions of §§ 702.501 through 702.508 of this chapter as is appropriate.

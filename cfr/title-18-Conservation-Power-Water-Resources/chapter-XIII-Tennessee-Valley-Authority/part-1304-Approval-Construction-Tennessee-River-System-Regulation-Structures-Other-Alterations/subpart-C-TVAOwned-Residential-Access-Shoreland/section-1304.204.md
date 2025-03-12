@@ -1,5 +1,7 @@
 ##### § 1304.204 Docks, piers, and boathouses. #####
 
+Link to an amendment published at 83 FR 44474, Aug. 31, 2018.
+
 Applicants are responsible for submitting plans for proposed docks, piers, and boathouses that conform to the size standards specified in this section. Where and if site constraints at the proposed construction location preclude a structure of the maximum size, TVA shall determine the size of facility that may be approved. Applicants are required to submit accurate drawings with dimensions of all proposed facilities.
 
 (a) Docks, piers, boathouses, and all other residential water-use facilities shall not exceed a total footprint area of greater than 1000 square feet.

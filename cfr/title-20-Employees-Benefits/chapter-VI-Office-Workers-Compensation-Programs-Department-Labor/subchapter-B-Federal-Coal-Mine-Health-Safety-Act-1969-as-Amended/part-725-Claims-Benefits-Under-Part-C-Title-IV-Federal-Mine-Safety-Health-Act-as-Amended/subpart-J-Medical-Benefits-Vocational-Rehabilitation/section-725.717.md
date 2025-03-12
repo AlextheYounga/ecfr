@@ -1,0 +1,3 @@
+##### § 725.717 What are the time limitations for requesting payment or reimbursement for covered medical services or treatments? #####
+
+OWCP will pay providers and reimburse miners promptly for all bills received on an approved form and in a timely manner. However, absent good cause, no bill will be paid for expenses incurred if the bill is submitted more than one year beyond the end of the calendar year in which the expense was incurred or the service or supply was provided, or more than one year beyond the end of the calendar year in which the miner's eligibility for benefits is finally adjudicated, whichever is later. A provider may not request reimbursement from a miner for a bill denied by OWCP due to late submission of the bill by the provider.

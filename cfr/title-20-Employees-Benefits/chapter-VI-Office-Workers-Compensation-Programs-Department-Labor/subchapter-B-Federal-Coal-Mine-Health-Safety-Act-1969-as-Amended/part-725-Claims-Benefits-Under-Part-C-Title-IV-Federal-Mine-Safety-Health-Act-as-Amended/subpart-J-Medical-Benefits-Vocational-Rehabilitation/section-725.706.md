@@ -1,7 +1,5 @@
-##### § 725.706 Authorization to provide medical services. #####
+##### § 725.706 What reports must a medical provider give to OWCP? #####
 
-(a) Except as provided in paragraph (b) of this section, medical services from an authorized provider which are payable under § 725.701 shall not require prior approval of the Office or the responsible operator.
+(a) Within 30 days following the first medical or surgical treatment provided under § 725.701, the provider must furnish to OWCP and the responsible operator or its insurance carrier, if any, a report of such treatment.
 
-(b) Except where emergency treatment is required, prior approval of the Office or the responsible operator shall be obtained before any hospitalization or surgery, or before ordering an apparatus for treatment where the purchase price exceeds $300. A request for approval of non-emergency hospitalization or surgery shall be acted upon expeditiously, and approval or disapproval will be given by telephone if a written response cannot be given within 7 days following the request. No employee of the Department of Labor, other than a district director or the Chief, Branch of Medical Analysis and Services, DCMWC, is authorized to approve a request for hospitalization or surgery by telephone.
-
-(c) Payment for medical services, treatment, or an apparatus shall be made at no more than the rate prevailing in the community in which the providing physician, medical facility or supplier is located.
+(b) In order to permit continuing supervision of the medical care provided to the miner with respect to the necessity, character and sufficiency of any medical care furnished or to be furnished, the provider, operator or carrier must submit such reports in addition to those required by paragraph (a) of this section as OWCP may from time to time require. Within the discretion of OWCP, payment may be refused to any medical provider who fails to submit any report required by this section.

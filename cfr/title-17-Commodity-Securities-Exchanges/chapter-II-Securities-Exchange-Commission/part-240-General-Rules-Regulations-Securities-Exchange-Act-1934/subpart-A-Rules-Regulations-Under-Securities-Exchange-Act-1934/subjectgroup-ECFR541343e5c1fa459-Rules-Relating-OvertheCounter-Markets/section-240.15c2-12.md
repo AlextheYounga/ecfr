@@ -1,6 +1,7 @@
 ##### § 240.15c2-12 Municipal securities disclosure. #####
 
-Preliminary Note:
+Link to an amendment published at 83 FR
+44742, Aug. 31, 2018.Preliminary Note:
 
 For a discussion of disclosure obligations relating to municipal securities, issuers, brokers, dealers, and municipal securities dealers should refer to Securities Act Release No. 7049, Securities Exchange Act Release No. 33741, FR-42 (March 9, 1994). For a discussion of the obligations of underwriters to have a reasonable basis for recommending municipal securities, brokers, dealers, and municipal securities dealers should refer to Securities Exchange Act Release No. 26100 (Sept. 22, 1988) and Securities Exchange Act Release No. 26985 (June 28, 1989).
 

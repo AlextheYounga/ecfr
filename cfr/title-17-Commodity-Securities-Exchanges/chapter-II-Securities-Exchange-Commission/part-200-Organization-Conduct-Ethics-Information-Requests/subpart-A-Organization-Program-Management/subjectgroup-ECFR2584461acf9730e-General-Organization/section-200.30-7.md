@@ -32,6 +32,8 @@ Pursuant to the provisions of Pub. L. 87-592, 76 Stat. 394 (15 U.S.C. 78d-1), th
 
 (c) To authenticate all Commission documents produced for administrative or judicial proceedings.
 
-(d) Notwithstanding anything in the foregoing, in any case in which the Secretary of the Commission believes it appropriate he or she may submit the matter to the Commission.
+(d) The functions otherwise delegated to the General Counsel under § 200.30-14(i), with respect to any proceeding in which the Chairman or the General Counsel has determined, pursuant to § 200.30-14(j), that separation of functions requirements or other circumstances would make inappropriate the General Counsel's exercise of such delegated functions.
+
+(e) Notwithstanding anything in the foregoing, in any case in which the Secretary of the Commission believes it appropriate he or she may submit the matter to the Commission.
 
 [35 FR 17989, Nov. 24, 1970. Redesignated at 37 FR 16792, Aug. 19, 1972]Editorial Note:For Federal Register citations affecting § 200.30-7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

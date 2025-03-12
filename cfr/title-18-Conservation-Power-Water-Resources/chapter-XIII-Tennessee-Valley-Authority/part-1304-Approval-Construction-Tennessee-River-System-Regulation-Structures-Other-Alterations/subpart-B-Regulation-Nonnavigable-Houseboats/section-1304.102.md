@@ -1,5 +1,7 @@
 ##### § 1304.102 Numbering of nonnavigable houseboats and transfer of ownership. #####
 
+Link to an amendment published at 83 FR 44473, Aug. 31, 2018.
+
 (a) All approved nonnavigable houseboats shall display a number assigned by TVA. The owner of the nonnavigable houseboat shall paint or attach a facsimile of the number on a readily visible part of the outside of the facility in letters at least three inches high.
 
 (b) The transferee of any nonnavigable houseboat approved pursuant to the regulations in this subpart shall, within thirty (30) days of the transfer transaction, report the transfer to TVA.

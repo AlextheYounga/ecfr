@@ -1,5 +1,7 @@
 ##### § 1304.101 Nonnavigable houseboats. #####
 
+Link to an amendment published at 83 FR 44473, Aug. 31, 2018.
+
 (a) Any houseboat failing to comply with the following criteria shall be deemed a non-navigable houseboat and may not be moored, anchored, installed, or operated in any TVA reservoir except as provided in paragraph (b) of this section:
 
 (1) Built on a boat hull or on two or more pontoons;

@@ -1,0 +1,3 @@
+##### § 725.713 If a fee is reduced, may a provider bill the claimant for the balance? #####
+
+Where a provider submits a bill to OWCP and OWCP has reduced the provider's fee, the miner is not responsible for any additional payment for services or treatments covered under this subpart. Thus, a provider whose fee for service is partially paid by OWCP as a result of the application of the provisions of §§ 725.707-725.711 or otherwise in accordance with this subpart may not request reimbursement from the miner for additional amounts.

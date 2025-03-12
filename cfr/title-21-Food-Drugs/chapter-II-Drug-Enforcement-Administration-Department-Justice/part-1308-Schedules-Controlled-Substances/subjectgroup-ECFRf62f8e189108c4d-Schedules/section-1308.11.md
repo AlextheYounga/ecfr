@@ -286,6 +286,7 @@ signation (for purposes of paragraph (b)(34) only, the term isomer includes the 
 |(33) 1-(4-cyanobutyl)-N-(2-phenylpropan-2-yl)-1H-indazole-3-carboxamide, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: 4-CN-CUMYL-BUTINACA; 4-cyano-CUMYL-BUTINACA; 4-CN-CUMYL BINACA; CUMYL-4CN-BINACA; SGT-78)|(7089)|
 |                             (34) methyl 2-(1-(cyclohexylmethyl)-1H-indole-3-carboxamido)-3-methylbutanoate, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: MMB-CHMICA, AMB-CHMICA)                              |(7044)|
 |                            (35) 1-(5-fluoropentyl)-N-(2-phenylpropan-2-yl)-1H-pyrrolo[2,3-b]pyridine-3-carboxamide, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: 5F-CUMYL-P7AICA)                             |(7085)|
+|                                      (36) N-Ethylpentylone, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: ephylone, 1-(1,3-benzodioxol-5-yl)-2-(ethylamino)-pentan-1-one)                                      |(7543)|
 
 [39 FR 22141, June 20, 1974]Editorial Note:For Federal Register citations affecting § 1308.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Notes:At 82 FR 20547, May 3, 2017, § 1308.11 was amended by adding (h)(16), effective May 3, 2017, until May 3, 2019. At 82 FR 47974, Oct. 16, 2017, § 1308.11 was amended by redesignating (h)(16) as paragraph (h)(13).
 
@@ -304,3 +305,5 @@ signation (for purposes of paragraph (b)(34) only, the term isomer includes the 
 8. At 83 FR 10368, Mar. 9, 2018, § 1308.11 was amended by revising paragraphs (h)(23) and (h)(29), effective Mar. 9, 2018, through Feb. 1, 2020.
 
 9. At 83 FR 31882, July 10, 2018, § 1308.11 was amended by adding paragraphs (h)(31) through (h)(35) effective July 10, 2018 through July 10, 2020.
+
+10. At 83 FR 44478, Aug. 31, 2018, § 1308.11 was amended by adding paragraph (h)(36) effective Aug. 31, 2018 through Aug. 31, 2020.

@@ -1,0 +1,3 @@
+##### § 725.719 What is the objective of vocational rehabilitation? #####
+
+The objective of vocational rehabilitation is the return of a miner who is totally disabled by pneumoconiosis to gainful employment commensurate with such miner's physical impairment. This objective may be achieved through a program of re-evaluation and redirection of the miner's abilities, or retraining in another occupation, and selective job placement assistance.
