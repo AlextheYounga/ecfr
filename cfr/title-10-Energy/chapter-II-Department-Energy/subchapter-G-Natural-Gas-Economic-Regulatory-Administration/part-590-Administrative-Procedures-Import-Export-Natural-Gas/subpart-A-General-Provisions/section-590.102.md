@@ -1,7 +1,5 @@
 ##### § 590.102 Definitions. #####
 
-Link to an amendment published at 83 FR 35119, July 25, 2018.
-
 As used in this part:
 
 (a) *Assistant Secretary* means the Assistant Secretary for Fossil Energy or any employee of the DOE who has been delegated final decisional authority.
@@ -38,4 +36,12 @@ As used in this part:
 
 (o) *Proceeding* means the process and activity, and any part thereof, instituted by FE either in response to an application, petition, motion or other filing under this part, or on its own initiative, by which FE develops and considers the relevant facts, policy and applicable law concerning the importation or exportation of natural gas and which may lead to the issuance of an order by the Assistant Secretary under subparts D and E.
 
-(p) *State commission* means the regulatory body of a state or municipality having jurisdiction to regulate rates and charges for the sale of natural gas to consumers within the state or municipality, or having any regulatory jurisdiction over parties involved in the import or export arrangement.
+(p) *Small-scale natural gas export* means an export of natural gas to nations with which there is not in effect a free trade agreement with the United States requiring national treatment for trade in natural gas and with which trade is not prohibited by U.S. law or policy, provided that the application for such export authority satisfies the following two criteria:
+
+(1) The application proposes to export natural gas in a volume up to and including 51.75 billion cubic feet per year, and
+
+(2) DOE's approval of the application does not require an environmental impact statement or an environmental assessment under the National Environmental Policy Act, 42 U.S.C. 4321 *et seq.*
+
+(q) *State commission* means the regulatory body of a state or municipality having jurisdiction to regulate rates and charges for the sale of natural gas to consumers within the state or municipality, or having any regulatory jurisdiction over parties involved in the import or export arrangement.
+
+[54 FR 53531, Dec. 29, 1989, as amended at 83 FR 35119, July 25, 2018]

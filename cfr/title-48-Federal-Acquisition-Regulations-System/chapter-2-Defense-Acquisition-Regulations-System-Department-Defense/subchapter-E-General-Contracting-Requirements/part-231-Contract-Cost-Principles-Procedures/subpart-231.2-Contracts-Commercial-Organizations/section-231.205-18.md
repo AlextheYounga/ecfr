@@ -40,15 +40,9 @@
 
 (*1*) The IR&D projects generating the costs must be reported to the Defense Technical Information Center (DTIC) using the DTIC's online input form and instructions at *http://www.defenseinnovationmarketplace.mil/;*
 
-(*2*) The inputs must be updated at least annually and when the project is completed;
+(*2*) The inputs must be updated at least annually and when the project is completed; and
 
-(*3*) Copies of the input and updates must be made available for review by the cognizant administrative contracting officer (ACO) and the cognizant Defense Contract Audit Agency auditor to support the allowability of the costs; and
-
-(*4*) For IR&D projects initiated in the contractor's fiscal year 2017 and later, as a prerequisite for the subsequent determination of allowability, the contractor shall -
-
-(*i*) Engage in a technical interchange with a technical or operational DoD Government employee before IR&D costs are generated so that contractor plans and goals for IR&D projects benefit from the awareness of and feedback by a DoD Government employee who is informed of related ongoing and future potential interest opportunities. If the contractor does not have a point of contact for the technical interchange, the contractor may contact the Office of the Assistant Secretary of Defense for Research and Engineering (OASD R&E). Contact information for OASD R&E can be found at *http://www.acq.osd.mil/rd/contacts/;* and
-
-(*ii*) Use the online input form for IR&D projects reported to DTIC to document the technical interchange, which includes the name of the DoD Government employee and the date the technical interchange occurred.
+(*3*) Copies of the input and updates must be made available for review by the cognizant administrative contracting officer (ACO) and the cognizant Defense Contract Audit Agency auditor to support the allowability of the costs.
 
 (iv) Contractors not meeting the threshold of a major contractor are encouraged to use the DTIC online input form to report IR&D projects to provide DoD with visibility into the technical content of the contractors' IR&D activities.
 
@@ -60,4 +54,4 @@
 
 (vi) The cognizant contract administration office shall furnish contractors with guidance on financial information needed to support IR&D/B&P costs and on technical information needed from major contractors to support the potential interest to DoD determination (also see 242.771-3).
 
-[64 FR 8729, Feb. 23, 1999, as amended at 77 FR 4636, Jan. 30, 2012; 81 FR 78011, Nov. 4, 2016]
+[64 FR 8729, Feb. 23, 1999, as amended at 77 FR 4636, Jan. 30, 2012; 81 FR 78011, Nov. 4, 2016; 83 FR 42788, Aug. 24, 2018]

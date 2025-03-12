@@ -1,6 +1,6 @@
 ##### 252.247-7007 Liability and insurance. #####
 
-As prescribed in 247.270-4(g), use the following clause:
+As prescribed in 247.270-4(f), use the following clause:
 
 Liability and Insurance (DEC 1991)
 
@@ -56,4 +56,4 @@ Liability and Insurance (DEC 1991)
 
 (3) Furnish the Government, upon the request of the Contracting Officer, at the Government's expense, all reasonable assistance and cooperation in obtaining recovery, including the prosecution of suit and the execution of instruments of assignment in favor of the Government.
 
-(End of clause)[56 FR 36479, July 31, 1991, as amended at 65 FR 50148, Aug. 17, 2000; 75 FR 51418, Aug. 20, 2010]
+(End of clause)[56 FR 36479, July 31, 1991, as amended at 65 FR 50148, Aug. 17, 2000; 75 FR 51418, Aug. 20, 2010; 83 FR 42789, Aug. 24, 2018]

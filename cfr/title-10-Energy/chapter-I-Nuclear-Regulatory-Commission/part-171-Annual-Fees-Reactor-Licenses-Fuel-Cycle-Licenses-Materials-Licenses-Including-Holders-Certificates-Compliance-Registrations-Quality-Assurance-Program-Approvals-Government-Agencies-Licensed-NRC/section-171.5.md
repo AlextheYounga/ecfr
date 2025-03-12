@@ -1,7 +1,5 @@
 ##### § 171.5 Definitions. #####
 
-Link to an amendment published at 83 FR 29652, June 25, 2018.
-
 *Budget* means the funds appropriated by Congress for the NRC for each fiscal year, and if that appropriation is not passed on or before September 1 for that fiscal year, the funds most recently appropriated by Congress for the most recent fiscal year.
 
 *Budget authority* means the authority, in the form of appropriations, provided by law and becoming available during the year, to enter into obligations that will result in immediate or future outlays involving Federal government funds. The appropriation is an authorization by an Act of Congress that permits the NRC to incur obligations and to make payments out of the Treasury for specified purposes. Fees assessed pursuant to Public Law 101-508 are based on NRC budget authority.
@@ -51,16 +49,6 @@ Link to an amendment published at 83 FR 29652, June 25, 2018.
 *Nuclear reactor* means an apparatus, other than an atomic weapon, used to sustain fission in a self-supporting chain reaction.
 
 *Operating license* means having a license issued pursuant to § 50.57 of this chapter. It does not include licenses that only authorize possession of special nuclear material after the Commission has received a request from the licensee to amend its licensee to permanently withdraw its authority to operate or the Commission has permanently revoked such authority.
-
-*Overhead* and *general and administrative costs* means:
-
-(1) The Government benefits for each employee such as leave and holidays, retirement and disability benefits, health and life insurance costs, and social security costs;
-
-(2) Travel costs;
-
-(3) Direct overhead [e.g., supervision and support staff that directly support the NRC safety mission areas; administrative support costs (e.g., rental of space, equipment, telecommunications and supplies)]; and
-
-(4) Indirect costs that would include, but not be limited to, NRC central policy direction, legal and executive management services for the Commission and special and independent reviews, investigations, and enforcement and appraisal of NRC programs and operations. Some of the organizations included, in whole or in part, are the Commissioners, Secretary, Executive Director for Operations, General Counsel, Congressional and Public Affairs (except for international safety and safeguards programs), Inspector General, Investigations, Enforcement, Small and Disadvantaged Business Utilization and Civil Rights, the Technical Training Center, Advisory Committees on Nuclear Waste and Reactor Safeguards, and the Atomic Safety and Licensing Board Panel. The Commission views these budgeted costs as support for all its regulatory services provided to applicants, licensees, and certificate holders, and these costs must be recovered under Public Law 101-508.
 
 *Person* means:
 
@@ -116,4 +104,4 @@ Source material does not include special nuclear material.
 
 *Variable rate* means a per-MWt fee factor applied to all bundled units on site with a licensed thermal power rating less than or equal to 2,000 MWt. For the first bundled unit on a site with a licensed thermal power rating greater than 250 MWt and less than or equal to 2,000 MWt, the variable rate is based on the difference between the maximum fee and the minimum fee, divided by 1,750 MWt (the variable fee licensed thermal rating range). For additional bundled units with a licensed thermal power rating less than or equal to 2,000 MWt, the variable rate is based on the maximum fee divided by 2,000 MWt.
 
-[51 FR 33230, Sept. 18, 1986, as amended at 53 FR 52652, Dec. 29, 1988; 56 FR 31505, July 10, 1991; 57 FR 32714, July 23, 1992; 58 FR 38695, July 20, 1993; 65 FR 36964, June 12, 2000; 66 FR 32474, June 14, 2001; 67 FR 42634, June 24, 2002; 71 FR 30752, May 30, 2006; 72 FR 35936, Oct. 1, 2007; 81 FR 32627, May 24, 2016; 81 FR 45964, July 15, 2016]
+[51 FR 33230, Sept. 18, 1986, as amended at 53 FR 52652, Dec. 29, 1988; 56 FR 31505, July 10, 1991; 57 FR 32714, July 23, 1992; 58 FR 38695, July 20, 1993; 65 FR 36964, June 12, 2000; 66 FR 32474, June 14, 2001; 67 FR 42634, June 24, 2002; 71 FR 30752, May 30, 2006; 72 FR 35936, Oct. 1, 2007; 81 FR 32627, May 24, 2016; 81 FR 45964, July 15, 2016; 83 FR 29652, June 25, 2018]

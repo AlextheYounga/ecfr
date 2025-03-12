@@ -1,10 +1,8 @@
 ##### § 171.17 Proration. #####
 
-Link to an amendment published at 83 FR 29657, June 25, 2018.
-
 Annual fees will be prorated for NRC licensees as follows:
 
-(a) Reactors, 10 CFR part 72 licensees who do not hold 10 CFR part 50 licenses, and materials licenses with annual fees of $100,000 or greater for a single fee category.
+(a) Reactors, 10 CFR part 72 licensees who do not hold 10 CFR part 50 licenses, and materials licenses with annual fees of $100,000 or greater for a single fee category. The NRC will base the proration of annual fees for terminated and downgraded licensees on the fee rule in effect at the time the action is official. The NRC will base the determinations on the proration requirements under paragraphs (a)(2) and (3) of this section.
 
 (1) *New licenses.* The annual fees for new licenses for power reactors, non-power reactors, 10 CFR part 72 licensees who do not hold a 10 CFR part 50 license, and materials licenses with annual fees of $100,000 or greater for a single fee category for the current FY, that are subject to fees under this part and are granted a license to operate on or after October 1 of a FY, are prorated on the basis of the number of days remaining in the FY. Thereafter, the full annual fee is due and payable each subsequent FY.
 
@@ -28,4 +26,4 @@ Annual fees will be prorated for NRC licensees as follows:
 
 (iii) Licenses for which applications to downgrade are filed on or after April 1 of the FY are assessed the full fee for that FY.
 
-[72 FR 31431, June 6, 2007, as amended at 77 FR 35835, June 15, 2012]
+[72 FR 31431, June 6, 2007, as amended at 77 FR 35835, June 15, 2012; 83 FR 29657, June 25, 2018]

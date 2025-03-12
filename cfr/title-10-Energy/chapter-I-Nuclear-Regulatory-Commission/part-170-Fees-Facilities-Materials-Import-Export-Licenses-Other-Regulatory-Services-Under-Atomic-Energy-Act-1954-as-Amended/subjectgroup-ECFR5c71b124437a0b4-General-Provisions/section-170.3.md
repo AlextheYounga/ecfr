@@ -1,10 +1,10 @@
 ##### § 170.3 Definitions. #####
 
-Link to an amendment published at 83 FR 29645, June 25, 2018.
-
 As used in this part:
 
 *Act* means the Atomic Energy Act of 1954 (68 Stat. 919) including any amendments thereto;
+
+*Agency support (corporate support and the IG)* means resources located in executive, administrative, and other support offices such as the Office of the Commission, the Office of the Secretary, the Office of the Executive Director for Operations, the Offices of Congressional and Public Affairs, the Office of the Inspector General, the Office of Administration, the Office of the Chief Financial Officer, the Office of the Chief Information Officer, the Office of the Chief Human Capital Officer and the Office of Small Business and Civil Rights. These resources administer the corporate or shared efforts that more broadly support the activities of the agency. These resources also include information technology services, human capital services, financial management, and administrative support.
 
 *Agreement State* means any State with which the Commission or the Atomic Energy Commission has entered into an effective agreement under subsection 274b of the Act. “Nonagreement State” means any other State.
 
@@ -56,6 +56,10 @@ As used in this part:
 
 *Materials license* means a license, certificate, approval, registration, or other form of permission issued or granted by the NRC under the regulations in 10 CFR Parts 30, 31 through 36, 39, 40, 61, 70, 72, and 76.
 
+*Mission-direct program salaries and benefits* means resources that are allocated to perform core work activities committed to fulfilling the agency's mission of protecting the public health and safety, promoting the common defense and security, and protecting the environment. These resources include the core work activities assigned within the major program business lines (Operating Reactors, New Reactors, Fuel Facilities, Nuclear Materials Users, Decommissioning and Low-Level Waste, and Spent Fuel Storage and Transportation).
+
+*Mission-indirect program support* means resources that support the core mission-direct activities. These resources include supervisory and nonsupervisory support and mission travel and training. Supervisory and nonsupervisory support and mission travel and training resources assigned under direct business line structure are considered mission-indirect due to their supporting role of the core mission activities.
+
 *Nonprofit educational institution* means a public or nonprofit educational institution whose primary function is education, whose programs are accredited by a nationally recognized accrediting agency or association, who is legally authorized to provide a program of organized instruction or study, who provides an educational program for which it awards academic degrees, and whose educational programs are available to the public.
 
 *Nuclear reactor* means an apparatus, other than an atomic weapon, designed or used to sustain nuclear fission in a self-supporting chain reaction.
@@ -63,16 +67,6 @@ As used in this part:
 *Nuclear Steam Supply System* consists of the reactor core, reactor coolant system, and related auxiliary systems including the emergency core cooling system; decay heat removal system; and chemical volume and control system.
 
 *Other production or utilization facility* means a facility other than a nuclear reactor licensed by the Commission under the authority of section 103 or 104 of the Atomic Energy Act of 1954, as amended (the Act), and pursuant to the provisions of part 50 of this chapter.
-
-*Overhead and general and administrative costs* means:
-
-(1) The Government benefits for each employee such as leave and holidays, retirement and disability benefits, health and life insurance costs, and social security costs;
-
-(2) Travel costs;
-
-(3) Overhead [e.g., supervision and support staff that directly support the NRC's Nuclear Reactor Safety Program and Nuclear Materials Safety and Waste Program; administrative support costs (e.g., rental of space, equipment, telecommunications, and supplies)]; and
-
-(4) Indirect costs that would include, but not be limited to, NRC central policy direction, legal, and executive management services for the Commission, and special and independent reviews, investigations, and enforcement, and appraisal of NRC programs and operations. Some of the organizations included, in whole or in part, are the Commissioners, Secretary, Executive Director for Operations, General Counsel, Congressional and Public Affairs (except for international safety and safeguards programs), Inspector General, Investigations, Enforcement, Small Business and Civil Rights, the Technical Training Center, Advisory Committee on Reactor Safeguards, and the Atomic Safety and Licensing Board Panel. The Commission views these budgeted costs as support for all its regulatory services provided to applicants, licensees, and certificate holders, and these costs must be recovered under Public Law 101-508.
 
 *Part 55 Reviews* as used in this part means those services provided by the Commission to administer requalification and replacement examinations and tests for reactor operators licensed pursuant to 10 CFR part 55 of the Commission's regulations and employed by part 50 licensees. These services also include related items such as the preparation, review, and grading of the examinations and tests.
 

@@ -1,7 +1,5 @@
 ##### § 170.11 Exemptions. #####
 
-Link to an amendment published at 83 FR 29645, June 25, 2018.
-
 (a) No application fees, license fees, renewal fees, inspection fees, or special project fees shall be required for:
 
 (1) A special project that is a request/report submitted to the NRC -
@@ -47,5 +45,7 @@ Link to an amendment published at 83 FR 29645, June 25, 2018.
 (13) All fee exemption requests must be submitted in writing to the Chief Financial Officer in accordance with § 170.5, and the Chief Financial Officer will grant or deny such requests in writing.
 
 (b) The Commission may, upon application by an interested person, or upon its own initiative, grant such exemptions from the requirements of this part as it determines are authorized by law and are otherwise in the public interest. Applications for exemption under this paragraph may include activities such as, but not limited to, the use of licensed materials for educational or noncommercial public displays or scientific collections.
+
+(c) For purposes of paragraph (a)(1) of this section, a request for a fee exemption must be submitted to the CFO within 90 days of the date of the NRC's receipt of the work.
 
 [33 FR 10924, Aug. 1, 1968]Editorial Note:For Federal Register citations affecting § 170.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
