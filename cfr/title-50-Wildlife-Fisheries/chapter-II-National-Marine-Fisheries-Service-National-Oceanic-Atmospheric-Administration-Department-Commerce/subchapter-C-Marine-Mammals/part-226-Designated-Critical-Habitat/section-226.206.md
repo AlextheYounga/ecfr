@@ -1,5 +1,7 @@
 ##### § 226.206 Critical habitat for the Southern Resident killer whale (Orcinus orca). #####
 
+Link to an amendment published at 86 FR 41695, Aug. 2, 2021.
+
 Critical habitat is designated for the Southern Resident killer whale as described in this section. The textual descriptions of critical habitat in this section are the definitive source for determining the critical habitat boundaries. The overview map is provided for general guidance purposes only, and not as a definitive source for determining critical habitat boundaries.
 
 (a) *Critical Habitat Boundaries.* Critical habitat includes three specific marine areas of Puget Sound, Washington, within the following counties: Clallam, Jefferson, King, Kitsap, Island, Mason, Pierce, San Juan, Skagit, Snohomish, Thurston, and Whatcom. Critical habitat includes all waters relative to a contiguous shoreline delimited by the line at a depth of 20 feet (6.1 m) relative to extreme high water in each of the following areas:

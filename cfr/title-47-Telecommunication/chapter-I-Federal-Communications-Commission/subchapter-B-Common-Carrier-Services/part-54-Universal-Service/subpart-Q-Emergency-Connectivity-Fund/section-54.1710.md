@@ -22,7 +22,7 @@
 
 (ix) The school, library, or consortia is not seeking Emergency Connectivity Fund support or reimbursement for eligible equipment or services that have been purchased and reimbursed in full with other Federal pandemic-relief funding, targeted state funding, other external sources of targeted funding or targeted gifts, or eligible for discounts from the schools and libraries universal service support mechanism or other universal service support mechanism.
 
-(x) The applicant or the relevant student, school staff member, or library patron has received, or the applicant has ordered the equipment and services for which funding is sought.
+(x) The applicant or the relevant student, school staff member, or library patron has received, or the applicant has ordered or will order, the equipment and services for which funding is sought.
 
 (xi) The equipment and services the school, library, or consortium purchases or will purchase using Emergency Connectivity Fund support will be used primarily for educational purposes and will not be sold, resold, or transferred in consideration for money or any other thing of value, except as allowed by § 54.1713.
 
@@ -50,4 +50,4 @@
 
 (c) *Mixed eligibility equipment and services.* If equipment or service includes both ineligible and eligible components, the applicant must remove the cost of the ineligible components of the equipment or service from the request for funding submitted to the Administrator.
 
-[86 FR 29158, May 28, 2021, as amended at 86 FR 38570, July 22, 2021]
+[86 FR 29158, May 28, 2021, as amended at 86 FR 38570, July 22, 2021; 86 FR 41409, Aug. 2, 2021]

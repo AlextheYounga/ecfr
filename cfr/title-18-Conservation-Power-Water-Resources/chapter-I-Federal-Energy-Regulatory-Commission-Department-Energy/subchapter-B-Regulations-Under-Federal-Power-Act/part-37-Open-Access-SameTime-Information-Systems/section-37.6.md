@@ -1,7 +1,5 @@
 ##### § 37.6 Information to be posted on the OASIS. #####
 
-Link to an amendment published at 86 FR 29502, June 2, 2021.
-
 (a) The information posted on the OASIS must be in such detail and the OASIS must have such capabilities as to allow Transmission Customers to:
 
 (1) Make requests for transmission services offered by Transmission Providers, Resellers and other providers of ancillary services, request the designation of a network resource, and request the termination of the designation of a network resource;
@@ -36,7 +34,7 @@ Link to an amendment published at 86 FR 29502, June 2, 2021.
 
 (viii) *Transmission Reliability Margin* or *TRM* means the amount of TTC necessary to provide reasonable assurance that the interconnected transmission network will be secure, or such definition as contained in Commission-approved Reliability Standards.
 
-(2) *Calculation methods, availability of information, and requests.* (i) Information used to calculate any posting of ATC and TTC must be dated and time-stamped and all calculations shall be performed according to consistently applied methodologies referenced in the Transmission Provider's transmission tariff and shall be based on Commission-approved Reliability Standards as well as current industry practices, standards and criteria.
+(2) *Calculation methods, availability of information, and requests.* (i) Information used to calculate any posting of ATC and TTC must be dated and time-stamped and all calculations shall be performed according to consistently applied methodologies referenced in the Transmission Provider's transmission tariff and shall be based on Commission-approved Reliability Standards, business practice and electronic communication standards, and related implementation documents, as well as current industry practices, standards and criteria. Such calculations shall be conducted in a manner that is transparent, consistent with anticipated system conditions and outages for the relevant timeframe, and not unduly discriminatory or preferential.
 
 (ii) On request, the Responsible Party must make all data used to calculate ATC, TTC, CBM, and TRM for any constrained posted paths publicly available (including the limiting element(s) and the cause of the limit (*e.g.*, thermal, voltage, stability), as well as load forecast assumptions) in electronic form within one week of the posting. The information is required to be provided only in the electronic format in which it was created, along with any necessary decoding instructions, at a cost limited to the cost of reproducing the material. This information is to be retained for six months after the applicable posting period.
 
@@ -44,7 +42,7 @@ Link to an amendment published at 86 FR 29502, June 2, 2021.
 
 (3) *Posting.* The ATC, TTC, CBM, and TRM for all Posted Paths must be posted in megawatts by specific direction and in the manner prescribed in this subsection.
 
-(i) *Constrained posted paths* - (A) *For firm ATC and TTC.*
+(i) *Constrained posted paths*—(A) *For firm ATC and TTC.*
 
 (*1*) The posting shall show ATC, TTC, CBM, and TRM for a 30-day period. For this period postings shall be: by the hour, for the current hour and the 168 hours next following; and thereafter, by the day. If the Transmission Provider charges separately for on-peak and off-peak periods in its tariff, ATC, TTC, CBM, and TRM will be posted daily for each period.
 
@@ -98,7 +96,7 @@ Link to an amendment published at 86 FR 29502, June 2, 2021.
 
 (5) Any entity offering an ancillary service shall have the right to post the offering of that service on the OASIS if the service is one required to be offered by the Transmission Provider under the *pro forma* tariff prescribed by part 35 of this chapter. Any entity may also post any other interconnected operations service voluntarily offered by the Transmission Provider. Postings by customers and third parties must be on the same page, and in the same format, as postings of the Transmission Provider.
 
-(e) *Posting specific transmission and ancillary service requests and responses* - (1) *General rules.* (i) All requests for transmission and ancillary service offered by Transmission Providers under the *pro forma* tariff, including requests for discounts, and all requests to designate or terminate a network resource, must be made on the OASIS and posted prior to the Transmission Provider responding to the request, except as discussed in paragraphs (e)(1)(ii) and (iii) of this section. The Transmission Provider must post all requests for transmission service, for ancillary service, and for the designation or termination of a network resource comparably. Requests for transmission service, ancillary service, and to designate and terminate a network resource, as well as the responses to such requests, must be conducted in accordance with the Transmission Provider's tariff, the Federal Power Act, and Commission regulations.
+(e) *Posting specific transmission and ancillary service requests and responses*—(1) *General rules.* (i) All requests for transmission and ancillary service offered by Transmission Providers under the *pro forma* tariff, including requests for discounts, and all requests to designate or terminate a network resource, must be made on the OASIS and posted prior to the Transmission Provider responding to the request, except as discussed in paragraphs (e)(1)(ii) and (iii) of this section. The Transmission Provider must post all requests for transmission service, for ancillary service, and for the designation or termination of a network resource comparably. Requests for transmission service, ancillary service, and to designate and terminate a network resource, as well as the responses to such requests, must be conducted in accordance with the Transmission Provider's tariff, the Federal Power Act, and Commission regulations.
 
 (ii) The requirement in paragraph (e)(1)(i) of this section, to post requests for transmission and ancillary service offered by Transmission Providers under the *pro forma* tariff, including requests for discounts, prior to the Transmission Provider responding to the request, does not apply to requests for next-hour service made during Phase I.
 
@@ -230,4 +228,4 @@ Link to an amendment published at 86 FR 29502, June 2, 2021.
 
 (k) *Posting of historical area control error data.* The Transmission Provider must post on OASIS historical one-minute and ten-minute area control error data for the most recent calendar year, and update this posting once per year.
 
-[Order 889, 61 FR 21764, May 10, 1996, as amended by Order 889-A, 62 FR 12503, Mar. 14, 1997; Order 605, 64 FR 34124, June 25, 1999; Order 2004, 68 FR 69157, Dec. 11, 2003; Order 890, 72 FR 12493, Mar. 15, 2007; Order 890-A, 73 FR 3111, Jan. 16, 2008; Order 784, 78 FR 46210, July 30, 2013]
+[Order 889, 61 FR 21764, May 10, 1996, as amended by Order 889-A, 62 FR 12503, Mar. 14, 1997; Order 605, 64 FR 34124, June 25, 1999; Order 2004, 68 FR 69157, Dec. 11, 2003; Order 890, 72 FR 12493, Mar. 15, 2007; Order 890-A, 73 FR 3111, Jan. 16, 2008; Order 784, 78 FR 46210, July 30, 2013; Order 676-J, 86 FR 29502, June 2, 2021]

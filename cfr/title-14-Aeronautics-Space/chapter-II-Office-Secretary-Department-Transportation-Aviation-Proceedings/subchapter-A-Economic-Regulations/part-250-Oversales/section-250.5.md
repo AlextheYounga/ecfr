@@ -14,9 +14,9 @@
 
 (2) Compensation shall be at least 200 percent of the fare to the passenger's destination or first stopover, or $775, whichever is lower, if the carrier offers alternate transportation that, at the time the arrangement is made, is planned to arrive at the airport of the passenger's first stopover, or if not, the airport of the passenger's final destination more than one hour but less than four hours after the planned arrival time of the passenger's original flight; and
 
-(3) Compensation shall be at least 400 percent of the fare to the passenger's destination or first stopover, or $1,350, whichever is lower, if the carrier does not offer alternate transportation that, at the time the arrangement is made, is planned to arrive at the airport of the passenger's first stopover, or if not, the airport of the passenger's final destination less than four hours after the planned arrival time of the passenger's original flight.
+(3) Compensation shall be at least 400 percent of the fare to the passenger's destination or first stopover, or $1,550, whichever is lower, if the carrier does not offer alternate transportation that, at the time the arrangement is made, is planned to arrive at the airport of the passenger's first stopover, or if not, the airport of the passenger's final destination less than four hours after the planned arrival time of the passenger's original flight.
 
-(c) Carriers may offer free or reduced rate air transportation in lieu of the cash or check due under paragraphs (a) and (b) of this section, if -
+(c) Carriers may offer free or reduced rate air transportation in lieu of the cash or check due under paragraphs (a) and (b) of this section, if—
 
 (1) The value of the transportation benefit offered, excluding any fees or other mandatory charges applicable for using the free or reduced rate air transportation, is equal to or greater than the cash/check payment otherwise required;
 
@@ -38,4 +38,4 @@
 
 (g) Nothing in this part prohibits carriers from offering denied boarding compensations in an amount more than the amount calculated according to paragraphs (a) through (d) of this section, or more than the denied boarding compensation liability limit amounts effective at the time of denied boarding.
 
-[Doc. No. DOT-OST-2010-0140, 76 FR 23162, Apr. 25, 2011, as amended by Doc. No. DOT-OST-2015-0104, 80 FR 30147, May 27, 2015; Doc. No. DOT-OST-2014-0056, 81 FR 76827, Nov. 3, 2016; Doc. No. DOT-OST-2020-0251, 86 FR 2538, Jan. 13, 2021]
+[Doc. No. DOT-OST-2010-0140, 76 FR 23162, Apr. 25, 2011, as amended by Doc. No. DOT-OST-2015-0104, 80 FR 30147, May 27, 2015; Doc. No. DOT-OST-2014-0056, 81 FR 76827, Nov. 3, 2016; Doc. No. DOT-OST-2020-0251, 86 FR 2538, Jan. 13, 2021; 86 FR 41381, Aug. 2, 2021]

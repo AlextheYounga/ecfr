@@ -1,7 +1,5 @@
 ##### § 702.402 Full and fair disclosure of financial condition. #####
 
-Link to an amendment published at 86 FR 34932, July 1, 2021.
-
 (a) *Full and fair disclosure defined.* “Full and fair disclosure” is the level of disclosure which a prudent person would provide to a member of a federally insured credit union, to NCUA, or, at the discretion of the board of directors, to creditors to fairly inform them of the financial condition and the results of operations of the credit union.
 
 (b) *Full and fair disclosure implemented.* The financial statements of a federally insured credit union shall provide for full and fair disclosure of all assets, liabilities, and members' equity, including such valuation (allowance) accounts as may be necessary to present fairly the financial condition; and all income and expenses necessary to present fairly the statement of income for the reporting period.
@@ -10,7 +8,13 @@ Link to an amendment published at 86 FR 34932, July 1, 2021.
 
 (d) *Charges for loan losses.* Full and fair disclosure demands that a credit union properly address charges for loan losses as follows:
 
-(1) Charges for loan losses shall be made in accordance with generally accepted accounting principles (GAAP);
+(1)(i) Federally insured credit unions with total assets of $10 million or greater shall make charges for loan losses in accordance with generally accepted accounting principles (GAAP);
+
+(ii) Federally insured credit unions with total assets of less than $10 million shall make charges for loan losses in accordance either with either:
+
+(A) Any reasonable reserve methodology (incurred loss) provided it adequately covers known and probable loan losses; or
+
+(B) In the case of Federally insured, State-chartered credit unions, any other applicable standard under State law or regulation;
 
 (2) The allowance for loan and lease losses (ALL) established for loans must fairly present the probable losses for all categories of loans and the proper valuation of loans. The valuation allowance must encompass specifically identified loans, as well as estimated losses inherent in the loan portfolio, such as loans and pools of loans for which losses have been incurred but are not identifiable on a specific loan-by-loan basis;
 
@@ -19,3 +23,5 @@ Link to an amendment published at 86 FR 34932, July 1, 2021.
 (4) The maintenance of an ALL shall not affect the requirement to transfer earnings to a credit union's regular reserve when required under subparts B or C of this part; and
 
 (5) At a minimum, adjustments to the ALL shall be made prior to the distribution or posting of any dividend to the accounts of members.
+
+[65 FR 8584, Feb. 18, 2000, as amended at 86 FR 34932, July 1, 2021]

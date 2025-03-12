@@ -1,7 +1,5 @@
 ##### § 270.23c-3 Repurchase offers by closed-end companies. #####
 
-Link to an amendment published at 85 FR 33360, June 1, 2020.
-
 (a) *Definitions.* For purposes of this section:
 
 (1) *Periodic interval* shall mean an interval of three, six, or twelve months.
@@ -124,4 +122,6 @@ Link to an amendment published at 85 FR 33360, June 1, 2020.
 
 (d) *Exemption from the definition of redeemable security.* A company that makes repurchase offers pursuant to paragraph (b) or (c) of this section shall not be deemed thereby to be an issuer of redeemable securities within section 2(a)(32) [15 U.S.C. 80a-2(a)(32)].
 
-[58 FR 19343, Apr. 14, 1993; 58 FR 29695, May 21, 1993, as amended at 66 FR 3759, Jan. 16, 2001; 69 FR 46390, Aug. 2, 2004]
+(e) *Registration of an indefinite amount of securities.* A company that makes repurchase offers pursuant to paragraph (b) of this section shall be deemed to have registered an indefinite amount of securities pursuant to Section 24(f) of the Act (15 U.S.C. 80a-24(f)) upon the effective date of its registration statement.
+
+[58 FR 19343, Apr. 14, 1993; 58 FR 29695, May 21, 1993, as amended at 66 FR 3759, Jan. 16, 2001; 69 FR 46390, Aug. 2, 2004; 85 FR 33360, June 1, 2020]

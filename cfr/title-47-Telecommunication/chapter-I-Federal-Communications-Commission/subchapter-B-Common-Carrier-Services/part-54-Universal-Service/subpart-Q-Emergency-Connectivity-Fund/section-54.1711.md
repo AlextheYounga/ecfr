@@ -55,3 +55,7 @@
 (c) *Reimbursement and invoice processing.* The Administrator shall accept and review requests for reimbursement and invoices subject to the invoice filing deadlines provided in paragraph (d) of this section.
 
 (d) *Invoice filing deadline.* Invoices must be submitted to the Administrator within 60 days from the date of the funding commitment decision letter; a revised funding commitment decision letter approving a post-commitment change or a successful appeal of previously denied or reduced funding; or service delivery date, whichever is later.
+
+(e) *Service delivery date.* For the initial filing window set forth in § 54.1708(b), the service delivery date for equipment and other non-recurring services if the equipment or services have not been received or ordered when the applicant submits the request for funding is June 30, 2022.
+
+[, as amended at 86 FR 41409, Aug. 2, 2021]

@@ -1,7 +1,5 @@
 ##### § 230.457 Computation of fee. #####
 
-Link to an amendment published at 85 FR 33356, June 1, 2020.
-
 (a) If a filing fee based on a bona fide estimate of the maximum offering price, computed in accordance with this rule where applicable, has been paid, no additional filing fee shall be required as a result of changes in the proposed offering price. If the number of shares or other units of securities, or the principal amount of debt securities to be offered is increased by an amendment filed prior to the effective date of the registration statement, an additional filing fee, computed on the basis of the offering price of the additional securities, shall be paid. There will be no refund once the statement is filed.
 
 (b) A required fee shall be reduced in an amount equal to any fee paid with respect to such transaction pursuant to sections 13(e) and 14(g) of the Securities Exchange Act of 1934 or any applicable provision of this section; the fee requirements under sections 13(e) and 14(g) shall be reduced in an amount equal to the fee paid the Commission with respect to a transaction under this section. No part of a filing fee is refundable.
@@ -56,4 +54,18 @@ Link to an amendment published at 85 FR 33356, June 1, 2020.
 
 (t) Where the security to be offered is a collateral certificate or is a special unit of beneficial interest, underlying asset-backed securities (as defined in § 229.1101(c) of this chapter) which are being registered concurrently, no separate fee for the certificate or the special unit of beneficial interest shall be payable.
 
-[47 FR 11442, Mar. 16, 1982, as amended at 48 FR 12347, Mar. 24, 1983; 51 FR 2475, Jan. 17, 1986; 55 FR 23924, June 13, 1990; 57 FR 48976, Oct. 29, 1992; 59 FR 21650, Apr. 26, 1994; 60 FR 26617, May 17, 1995; 66 FR 8896, Feb. 5, 2001; 70 FR 44818, Aug. 3, 2005; 79 FR 57331, Sept. 24, 2014]
+(u) Where an issuer elects to register an offering of an indeterminate amount of exchange-traded vehicle securities in accordance with § 230.456(d) (Rule 456(d)), the registration fee is to be calculated in the following manner:
+
+(1) Determine the aggregate sale price of securities sold during the fiscal year.
+
+(2) Determine the sum of:
+
+(i) The aggregate redemption or repurchase price of securities redeemed or repurchased during the fiscal year; and
+
+(ii) The aggregate redemption or repurchase price of securities redeemed or repurchased during any prior fiscal year ending no earlier than August 1, 2021, that were not used previously to reduce registration fees payable to the Commission.
+
+(3) Subtract the amount in paragraph (u)(2) of this section from the amount in paragraph (u)(1) of this section. If the resulting amount is positive, the amount is the net sales amount. If the resulting amount is negative, it is the amount of redemption credits available for use in future years to offset sales.
+
+(4) The registration fee is calculated by multiplying the net sales amount by the fee payment rate in effect on the date of the fee payment. If the issuer determines that it had net redemptions or repurchases for the fiscal year, no registration fee is due.
+
+[47 FR 11442, Mar. 16, 1982, as amended at 48 FR 12347, Mar. 24, 1983; 51 FR 2475, Jan. 17, 1986; 55 FR 23924, June 13, 1990; 57 FR 48976, Oct. 29, 1992; 59 FR 21650, Apr. 26, 1994; 60 FR 26617, May 17, 1995; 66 FR 8896, Feb. 5, 2001; 70 FR 44818, Aug. 3, 2005; 79 FR 57331, Sept. 24, 2014; 86 FR 33356, June 1, 2020]

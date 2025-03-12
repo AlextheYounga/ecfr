@@ -1,10 +1,8 @@
 ##### § 91.225 Certifications. #####
 
-Link to an amendment published at 86 FR 30792, June 10, 2021.
-
 (a) *General.* The following certifications, satisfactory to HUD, must be included in the annual submission to HUD. (See definition of “certification” in § 91.5.)
 
-(1) *Affirmatively furthering fair housing.* Each jurisdiction is required to submit a certification that it will affirmatively further fair housing. This includes certification that the grantee will affirmatively further fair housing, consistent with §§ 5.150 and 5.151 of this chapter.
+(1) Affirmatively furthering fair housing. Each jurisdiction is required to submit a certification, consistent with §§ 5.151 and 5.152 of this title, that it will affirmatively further fair housing.
 
 (2) *Anti-displacement and relocation plan.* Each jurisdiction is required to submit a certification that it has in effect and is following a residential antidisplacement and relocation assistance plan in connection with any activity assisted with funding under the CDBG or HOME programs.
 
@@ -88,4 +86,4 @@ Link to an amendment published at 86 FR 30792, June 10, 2021.
 
 (ii) For a period of not less than three years in the case of assistance involving non-substantial rehabilitation or repair of a building or structure.
 
-(Approved by the Office of Management and Budget under control number 2506-0117)[60 FR 1896, Jan. 5, 1995; 60 FR 4861, Jan. 25, 1995, as amended at 64 FR 50224, Sept. 15, 1999; 71 FR 6967, Feb. 9, 2006; 72 FR 73493, Dec. 27, 2007; 76 FR 75970, Dec. 5, 2011; 80 FR 42365, July 16, 2015; 85 FR 47909, Aug. 7, 2020; 85 FR 61567, Sept. 29, 2020]
+(Approved by the Office of Management and Budget under control number 2506-0117)[60 FR 1896, Jan. 5, 1995; 60 FR 4861, Jan. 25, 1995, as amended at 64 FR 50224, Sept. 15, 1999; 71 FR 6967, Feb. 9, 2006; 72 FR 73493, Dec. 27, 2007; 76 FR 75970, Dec. 5, 2011; 80 FR 42365, July 16, 2015; 85 FR 47909, Aug. 7, 2020; 85 FR 61567, Sept. 29, 2020; 86 FR 30792, June 10, 2021; 86 FR 30792, June 10, 2021.]

@@ -1,7 +1,5 @@
 ##### § 92.508 Recordkeeping. #####
 
-Link to an amendment published at 86 FR 30792, June 10, 2021.Link to an amendment published at 86 FR 32767, June 23, 2021.Link to a correction published at 86 FR 34943, July 1, 2021.
-
 (a) *General.* Each participating jurisdiction must establish and maintain sufficient records to enable HUD to determine whether the participating jurisdiction has met the requirements of this part. At a minimum, the following records are needed:
 
 (1) *Records concerning designation as a participating jurisdiction.* (i) For a consortium, the consortium agreement among the participating member units of general local government as required by § 92.101.
@@ -92,9 +90,9 @@ Link to an amendment published at 86 FR 30792, June 10, 2021.Link to an amendmen
 
 (iv) Records documenting required inspections, monitoring reviews and audits, and the resolution of any findings or concerns.
 
-(7) *Records concerning other Federal requirements* - (i) *Equal opportunity and fair housing records.* (A) Data on the extent to which each racial and ethnic group and single-headed households (by gender of household head) have applied for, participated in, or benefited from, any program or activity funded in whole or in part with HOME funds.
+(7) *Records concerning other Federal requirements*—(i) *Equal opportunity and fair housing records.* (A) Data on the extent to which each racial and ethnic group and single-headed households (by gender of household head) have applied for, participated in, or benefited from, any program or activity funded in whole or in part with HOME funds.
 
-(B) Documentation that the participating jurisdiction submitted a certification that it will affirmatively further fair housing, consistent with §§ 5.150 and 5.151 of this chapter.
+(B) Documentation of the actions the participating jurisdiction has taken to affirmatively further fair housing pursuant to §§ 5.151, 5.152, 91.225, 91.325, and 91.425 of this title.
 
 (ii) Affirmative marketing and MBE/WBE records.
 
@@ -140,4 +138,4 @@ Link to an amendment published at 86 FR 30792, June 10, 2021.Link to an amendmen
 
 (2) HUD and the Comptroller General of the United States, any of their representatives, have the right of access to any pertinent books, documents, papers or other records of the participating jurisdiction, state recipients, and subrecipients, in order to make audits, examinations, excerpts, and transcripts.
 
-[61 FR 48750, Sept. 16, 1996, as amended at 64 FR 50224, Sept. 15, 1999; 67 FR 61757, Oct. 1, 2002; 72 FR 73493, Dec. 27, 2007; 78 FR 44682, July 24, 2013; 80 FR 42366, July 16, 2015; 80 FR 75935, Dec. 7, 2015; 81 FR 80805, Nov. 16, 2016; 85 FR 47910, Aug. 7, 2020; 85 FR 61567, Sept. 29, 2020; 85 FR 82137, Dec. 17, 2020]
+[61 FR 48750, Sept. 16, 1996, as amended at 64 FR 50224, Sept. 15, 1999; 67 FR 61757, Oct. 1, 2002; 72 FR 73493, Dec. 27, 2007; 78 FR 44682, July 24, 2013; 80 FR 42366, July 16, 2015; 80 FR 75935, Dec. 7, 2015; 81 FR 80805, Nov. 16, 2016; 85 FR 47910, Aug. 7, 2020; 85 FR 61567, Sept. 29, 2020; 85 FR 82137, Dec. 17, 2020; 86 FR 30792, June 10, 2021; 86 FR 34943, July 1, 2021; 86 FR 30792, June 10, 2021]

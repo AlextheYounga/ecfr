@@ -8,6 +8,8 @@ Example 1 to paragraph (b):A passenger books a nonstop flight on a foreign carri
 
 (c) As a foreign carrier, you are not subject to the requirements of this part with respect to flights between two foreign points, even with respect to flights involving code-sharing arrangements with U.S. carriers. As a U.S. carrier that participates in a code-sharing arrangement with a foreign carrier with respect to flights between two foreign points, you (as distinct from the foreign carrier) are responsible for ensuring compliance with the service provisions of subparts A through C, E through H, and K of this part, with respect to passengers traveling under your code on such a flight.
 
+Example 1 to paragraph (c):A passenger buys a ticket from a U.S. carrier for a journey from New York to Prague. The ticket carries the U.S. carrier's code and flight number throughout the entire journey. There is a change of carrier and aircraft in Frankfurt, and a foreign carrier operates the Frankfurt-Prague segment. The foreign carrier is not subject to the provisions of Part 382 for the Frankfurt-Prague segment. However, the U.S. carrier must ensure compliance with the applicable provisions of Part 382 on the Frankfurt-Prague segment with respect to passengers flying under its code, and the Department could take enforcement action against the U.S. carrier for acts or omissions by the foreign carrier.
+
 (d) As a foreign carrier, if you operate a charter flight from a foreign airport to a U.S. airport, and return to a foreign airport, and you do not pick up any passengers in the U.S., the charter flight is not a flight subject to the requirements of this part.
 
 (e) Unless a provision of this Part specifies application to a U.S. carrier or a foreign carrier, the provision applies to both U.S. and foreign carriers.
@@ -16,4 +18,4 @@ Example 1 to paragraph (b):A passenger books a nonstop flight on a foreign carri
 
 (g) Notwithstanding any provisions of this part, you must comply with all FAA safety regulations, TSA security regulations, and foreign safety and security regulations having legally mandatory effect that apply to you.
 
-[Doc. No. DOT-OST-2004-19482, 73 FR 27665, May 13, 2008, as amended at 74 FR 11471, Mar. 18, 2009; 75 FR 44887, July 30, 2010; Doc. No. DOT-OST-2018-0068, 85 FR 79774, Dec. 10, 2020]
+[Doc. No. DOT-OST-2004-19482, 73 FR 27665, May 13, 2008, as amended at 74 FR 11471, Mar. 18, 2009; 75 FR 44887, July 30, 2010; Doc. No. DOT-OST-2018-0068, 85 FR 79774, Dec. 10, 2020; 86 FR 41382, Aug. 2, 2021]
