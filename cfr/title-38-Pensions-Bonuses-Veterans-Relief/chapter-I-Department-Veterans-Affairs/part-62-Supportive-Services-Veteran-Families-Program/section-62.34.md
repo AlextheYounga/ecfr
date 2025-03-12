@@ -1,5 +1,7 @@
 ##### § 62.34 Other supportive services. #####
 
+Link to an amendment published at 84 FR 45076, Aug. 28, 2019.
+
 Grantees may provide the following services which are necessary for maintaining independent living in permanent housing and housing stability:
 
 (a) *Rental assistance.* Payment of rent, penalties or fees to help the participant remain in permanent housing or obtain permanent housing.

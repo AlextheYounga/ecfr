@@ -46,10 +46,12 @@
 
 (iii) If a recipient submits a request to roll over funds into a new advance, and CCC does not approve the rollover of some or all of the funds, such funds must be returned to CCC.
 
-(iv) If a recipient must return funds to CCC in accordance with paragraph (e)(6) of this section, the recipient must return the funds by the later of five business days after the 91st day after the funds were advanced, or five business days after the date on which the recipient receives notice from CCC that it has denied the recipient's request to roll over the funds; provided, however, that CCC may specify a different date for the return of funds in a written communication to the recipient.
+(iv) If a recipient must return funds to CCC in accordance with paragraph (f)(6) of this section, the recipient must return the funds by the later of five business days after the 91st day after the funds were advanced, or five business days after the date on which the recipient receives notice from CCC that it has denied the recipient's request to roll over the funds; provided, however, that CCC may specify a different date for the return of funds in a written communication to the recipient.
 
 (7) Except as may otherwise be provided in the agreement, a recipient must deposit and maintain in an insured bank account located in the United States all funds advanced by CCC. The account must be interest-bearing, unless one of the exceptions in 2 CFR 200.305(b)(8) applies or CCC determines that this requirement would constitute an undue burden. A recipient will not be required to maintain a separate bank account for advance payments of CCC-provided funds. However, a recipient must be able to separately account for the receipt, obligation, and expenditure of funds under each agreement.
 
 (8) A recipient may retain, for administrative purposes, up to $500 per Federal fiscal year of any interest earned on funds advanced under an agreement. The recipient must remit to the U.S. Department of Health and Human Services, Payment Management System, any additional interest earned during the Federal fiscal year on such funds, in accordance with the procedures in 2 CFR 200.305(b)(9).
 
 (g) If a recipient is required to pay funds to CCC in connection with an agreement, the recipient must make such payment in U.S. dollars, unless otherwise approved in advance by CCC.
+
+[81 FR 62605, Sept. 12, 2016, as amended at 84 FR 45059, Aug. 28, 2019]

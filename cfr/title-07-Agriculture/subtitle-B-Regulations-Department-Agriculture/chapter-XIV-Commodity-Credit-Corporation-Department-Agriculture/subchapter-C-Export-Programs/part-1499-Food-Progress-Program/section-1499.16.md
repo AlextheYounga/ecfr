@@ -14,4 +14,6 @@
 
 (2) Is responsible for any sale proceeds, CCC-provided funds, interest, or program income that have not been disbursed and must use or return them only as agreed to by CCC; and
 
-(3) Must comply with the closeout and post-closeout provisions specified in the agreement and 2 CFR 200.343 and 200.344.
+(3) Must comply with any closeout and post-closeout provisions specified in the agreement and 2 CFR 200.343 and 200.344.
+
+[81 FR 62605, Sept. 12, 2016, as amended at 84 FR 45060, Aug. 28, 2019]

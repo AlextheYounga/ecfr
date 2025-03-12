@@ -1,6 +1,6 @@
 ##### § 3555.10 Definitions and abbreviations. #####
 
-Link to an amendment published at 84 FR 35006, July 22, 2019.
+Link to an amendment published at 84 FR 35006, July 22, 2019.Link to a delay in the effective date of the above amendment published at 84 FR 42799, August 19, 2019.
 
 The definitions and abbreviations in this section apply to this part.
 

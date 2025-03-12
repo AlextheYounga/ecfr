@@ -1,6 +1,6 @@
 ##### § 3555.104 Loan terms. #####
 
-Link to an amendment published at 84 FR 35006, July 22, 2019.
+Link to an amendment published at 84 FR 35006, July 22, 2019.Link to a delay in the effective date of the above amendment published at 84 FR 42799, August 19, 2019.
 
 (a) *Interest rate.* The loan must be written at an interest rate that:
 

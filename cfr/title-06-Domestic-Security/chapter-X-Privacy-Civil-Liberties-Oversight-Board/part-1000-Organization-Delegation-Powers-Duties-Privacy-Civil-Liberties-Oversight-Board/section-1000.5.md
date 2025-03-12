@@ -10,7 +10,9 @@
 
 (4) Redelegation to one or more Board members or staff of those responsibilities delegated to the Chairman in § 1000.3(b), in the event of a vacancy.
 
-(5) Any authority that is not delegated by the Board in this part, or otherwise vested in officials other than the Board, is reserved to the Board. Except as otherwise provided, the Board may exercise powers and duties delegated or assigned to individuals other than the Board.
+(5) Formulation and implementation of policies designed to assure the effective administration of the Board's operations and the efficient operations of the staff.
+
+(6) Any authority that is not delegated by the Board in this part, or otherwise vested in officials other than the Board, is reserved to the Board. The Board may reverse delegations at any time, and all delegated authority reverts to the Board upon the termination or expiration of the delegation.
 
 (b) *The Chairman.* The Chairman is the executive and administrative head of the Board. The Chairman has the authority, duties, and responsibilities assigned to the Chairman under 42 U.S.C. 2000ee(h)(5) and (j)(1) and is responsible for the agency's day-to-day operations. The Chairman is delegated the authority to:
 
@@ -22,39 +24,23 @@
 
 (4) Convene and preside at all meetings of the Board and ensure that every vote and official act of the Board required by law to be recorded is accurately and promptly recorded by the General Counsel;
 
-(5) Act as the Board's spokesman on all matters where an official expression of the Board is required, or as otherwise directed by the Board;
+(5) Redelegate to one or more Board staff persons those responsibilities to the Executive Director or General Counsel under this part, in the event that either position is unfilled.
 
-(6) Approve for publication all publicly issued documents, except:
+(6) Authorize any officer or employee of the Board to perform a function vested in, delegated, or otherwise designated to the Chairman.
 
-(i) Those authorized by an individual Board Member;
+(c) *Executive Director.* The Executive Director manages the staff and assists with the day-to-day operation of the agency. The Executive Director is delegated authority to—
 
-(ii) Decisions or informal opinions of the Board; and
+(1) Manage the Board's mission-related projects in accordance with the priorities set by the Board;
 
-(iii) The semi-annual report required to be published by the Board under 42 U.S.C. 2000ee(e).
+(2) Supervise the Board's mission staff; and
 
-(7) Serve as the Board's Chief FOIA Officer under 5 U.S.C. 552(j).
+(3) Authorize any officer or employee of the Board to perform a function vested in, delegated, or otherwise designated to the Executive Director.
 
-(8) Serves as the Board's Equal Employment Opportunity Director, as described in 29 CFR part 1614.
-
-(9) Redelegate to one or more Board staff persons those responsibilities delegated to the Executive Director or General Counsel under this part, in the event that either position is unfilled.
-
-(10) Authorize any officer, employee, or administrative unit of the Board to perform a function vested in, delegated, or otherwise designated to the Chairman.
-
-(c) *Executive Director.* The Executive Director manages the staff and assists the Chairman with the day-to-day operation of the Board. The Executive Director is delegated authority to:
-
-(1) Formulate and implement plans and policies designed to assure the effective administration of the Board's operations and the efficient operations of the staff;
-
-(2) Serve as the Board's Senior Agency Official for Privacy;
-
-(3) Administer the Board's programs under the Freedom of Information Act, 5 U.S.C. 552, and the Privacy Act of 1974, 5 U.S.C. 552a.; and
-
-(4) Authorize any officer or employee of the Board to perform a function vested in, delegated, or otherwise designated to the Executive Director.
-
-(d) *General Counsel.* The General Counsel is the Board's chief legal officer, and serves as legal advisor to the Board. The General Counsel is delegated authority to:
+(d) *General Counsel.* The General Counsel is the Board's chief legal officer, and serves as the Board's legal advisor. The General Counsel is delegated authority to—
 
 (1) Serve as the Board's Designated Ethics Official in accordance with 5 CFR 2638.202;
 
-(2) Certify Board votes consistent with Board policies and procedures; and
+(2) Certify Board votes and conduct other necessary corporate secretary functions consistent with Board policies and procedures; and
 
 (3) Authorize any officer or employee of the Board to perform a function vested in, delegated, or otherwise designated to the General Counsel.
 
@@ -62,4 +48,4 @@
 
 (f) *Exercise of authority.* In carrying out any functions delegated under this part, members and staff are governed in the exercise of those functions by all applicable Federal statutes and regulations, and by the regulations, orders, and rules of the Board.
 
-[78 FR 33689, June 5, 2013, as amended at 78 FR 38811, June 28, 2013]
+[78 FR 33689, June 5, 2013, as amended at 78 FR 38811, June 28, 2013; 84 FR 36456, July 29, 2019]

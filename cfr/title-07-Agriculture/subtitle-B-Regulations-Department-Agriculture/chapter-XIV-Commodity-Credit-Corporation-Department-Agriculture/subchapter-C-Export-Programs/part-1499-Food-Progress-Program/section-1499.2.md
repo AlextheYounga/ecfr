@@ -10,6 +10,8 @@ These are definitions for terms used in this part. The definitions in 2 CFR part
 
 *CCC-provided funds* means U.S. dollars provided under an agreement to a recipient, or through a subagreement to a subrecipient, for expenses authorized in the agreement, such as expenses for the internal transportation, storage and handling of the donated commodities; expenses involved in the administration, monitoring, and evaluation of the activities under the agreement; and technical assistance related to the monetization of the donated commodities.
 
+*College* or *university* means an educational institution in any State which admits as regular students only persons having a certificate of graduation from a school providing secondary education, or the recognized equivalent of such a certificate; is legally authorized within such State to provide a program of education beyond secondary education; provides an educational program for which a bachelor's degree or any other higher degree is awarded; is a public or other nonprofit institution; and is accredited by a nationally recognized accrediting agency or association. The terms include a research foundation maintained by such a college or university. As used in this definition, State will have the meaning given in 7 U.S.C. 3103(16).
+
 *Commodities* mean agricultural commodities, or products of agricultural commodities, that are produced in the United States.
 
 *Cooperative* means a private sector organization whose members own and control the organization and share in its services and its profits and that provides business services and outreach in cooperative development for its membership.
@@ -43,3 +45,5 @@ These are definitions for terms used in this part. The definitions in 2 CFR part
 *USDA* means the United States Department of Agriculture.
 
 *Voluntary committed cost sharing or matching contributions* means cost sharing or matching contributions specifically pledged on a voluntary basis by an applicant or recipient, which become binding as part of an agreement. Voluntary committed cost sharing or matching contributions may be provided in the form of cash or in-kind contributions.
+
+[81 FR 62605, Sept. 12, 2016, as amended at 84 FR 45059, Aug. 28, 2019]

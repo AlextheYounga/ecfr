@@ -1,6 +1,6 @@
 ##### § 3555.105 Combination construction and permanent loans. #####
 
-Link to an amendment published at 84 FR 35006, July 22, 2019.
+Link to an amendment published at 84 FR 35006, July 22, 2019.Link to a delay in the effective date of the above amendment published at 84 FR 42799, August 19, 2019.
 
 Guarantees of combination construction and permanent loans are subject to the following conditions:
 
