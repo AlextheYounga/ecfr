@@ -1,5 +1,7 @@
 ##### § 715.4 Audit responsibility of the Supervisory Committee. #####
 
+Link to an amendment published at 84 FR 53307, Oct. 7, 2019.
+
 (a) *Annual audit requirement.* A federally-insured credit union is required to obtain an annual supervisory committee audit which occurs at least once every calendar year (period of performance) and must cover the period elapsed since the last audit period (period effectively covered).
 
 (b) *Financial statement audit option.* Any federally-insured credit union, whether Federally- or State-chartered and regardless of asset size, may choose to fulfill its Supervisory Committee audit responsibility by obtaining an annual audit of its financial statements performed in accordance with GAAS by an independent person who is licensed to do so by the State or jurisdiction in which the credit union is principally located. (A “financial statement audit” is distinct from a “supervisory committee audit,” although a financial statement audit is included among the options for fulfilling the supervisory committee audit requirement. *Compare* § 715.2(c) and (j).)

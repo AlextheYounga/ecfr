@@ -2,7 +2,7 @@
 
 (a) *Specifications* - (1) Each tablet contains:
 
-(i) 2.7, 68.0, or 136.0 milligrams (mg) enrofloxacin; or
+(i) 22.7, 68.0, or 136.0 milligrams (mg) enrofloxacin; or
 
 (ii) 22.7, 68.0, 136.0, or 272 mg enrofloxacin.
 
@@ -26,4 +26,4 @@
 
 (3) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian. Federal law prohibits the extralabel use of this drug in food-producing animals.
 
-[78 FR 30197, May 22, 2013, as amended at 78 FR 52853, Aug. 27, 2013; 84 FR 8972, Mar. 13, 2019]
+[78 FR 30197, May 22, 2013, as amended at 78 FR 52853, Aug. 27, 2013; 84 FR 8972, Mar. 13, 2019; 84 FR 53310, Oct. 7, 2019]

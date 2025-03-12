@@ -88,7 +88,7 @@ Category II
 |     Sulfaquinoxaline     |                98-106                 |            11.2 g/lb (2.5%)             |                                  85-115.                                  |
 |      Thiabendazole       |                94-106                 |            45.4 g/lb (10.0%)            |                         \>7% 85-115; \<7% 90-110.                         |
 |Tiamulin hydrogen fumarate|                90-115                 |                 10 g/lb                 |                              90-115/70-130.                               |
-|        Tilmicosin        |                90-110                 |            37.9 g/lb (8.35%)            |                                  85-115.                                  |
+|        Tilmicosin        |                90-110                 |            37.9 g/lb (8.35%)            |                       Swine Type B/C feed: 85-115.                        |
 |        Zilpaterol        |                90-110                 |            680 g/t (0.075%)             |                              80-110/75-115.                               |
 
 <sup>1</sup> Percent of labeled amount.

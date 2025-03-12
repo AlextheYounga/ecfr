@@ -28,6 +28,7 @@
 |                                                  Aurora Pharmaceutical, Inc., 1196 Highway 3 South, Northfield, MN 55057-3009                                                  |     051072      |
 |                                               Axcentive SARL, Chemin de Champouse, Quartier Violesi, 13320 Bouc Bel Air, France                                                |     086009      |
 |                                                             B.L. Mitchell, Inc., 103 Hwy. 82 E., Leland, MS 38756                                                              |     067188      |
+|                                                   Bausch Health US, LLC, 400 Somerset Corporate Blvd., Bridgewater, NJ 08807                                                   |     099207      |
 |                                             Bayer HealthCare LLC, Animal Health Division, P.O. Box 390, Shawnee Mission, KS 66201                                              |     000859      |
 |                                                      Belcher Pharmaceuticals, LLC, 6911 Bryan Dairy Rd., Largo, FL 33777                                                       |     062250      |
 |                                         Bimeda Animal Health Ltd., 1B The Herbert Building, The Park, Carrickmines, Dublin 18, Ireland                                         |     061133      |
@@ -63,7 +64,6 @@
 |                                                            LFB USA, Inc., 175 Crossing Blvd., Framingham, MA 01702                                                             |     086047      |
 |                                                             Lloyd, Inc., 604 W. Thomas Ave., Shenandoah, IA 51601                                                              |     061690      |
 |                                                       Med-Pharmex, Inc., 2727 Thompson Creek Rd., Pomona, CA 91767-1861                                                        |     054925      |
-|                                                    Medicis Dermatologics, Inc., 8125 North Hayden Rd., Scottsdale, AZ 85258                                                    |     099207      |
 |                                                   Modern Veterinary Therapeutics, LLC, 14343 SW 119th Ave., Miami, FL 33186                                                    |     015914      |
 |                                                    Mylan Institutional, Inc., 12720 Dairy Ashford Rd., Sugar Land, TX 77478                                                    |     051079      |
 |                                                         Mylan Institutional LLC, 4901 Hiawatha Dr., Rockford, IL 61103                                                         |     063286      |
@@ -208,7 +208,7 @@
 |     086072      |                                                         VetDC, Inc., 320 E Vine Dr., suite 218, Fort Collins, CO 80524.                                                         |
 |     086073      |                                                Anzac Animal Health, LLC, 218 Millwell Dr., Suite B, Maryland Heights, MO 63043.                                                 |
 |     086078      |                                                 Kindred Biosciences, Inc., 1555 Bayshore Hwy., Suite 200, Burlingame, CA 94010.                                                 |
-|     099207      |                                                    Medicis Dermatologics, Inc., 8125 North Hayden Rd., Scottsdale, AZ 85258.                                                    |
+|     099207      |                                                   Bausch Health US, LLC, 400 Somerset Corporate Blvd., Bridgewater, NJ 08807.                                                   |
 
 [40 FR 13807, Mar. 27, 1975]Editorial Notes:1. For Federal Register citations affecting § 510.600, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 

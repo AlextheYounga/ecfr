@@ -8,9 +8,9 @@
 
 (b) *Sponsors.* See sponsor numbers in § 510.600(c) of this chapter:
 
-(1) Nos. 000859 and 055529 for use of product described in paragraph (a)(1) of this section as in paragraph (e)(1) of this section, and use of product described in paragraph (a)(2) of this section as in paragraphs (e)(2) and (3) of this section.
+(1) Nos. 000859, 026637, and 055529 for use of product described in paragraph (a)(1) as in paragraph (e)(1); and
 
-(2) No. 026637 for use of product described in paragraph (a)(1) as in paragraph (e)(1) of this section.
+(2) Nos. 000859, 055529, and 061133 for use of product described in paragraph (a)(2) as in paragraphs (e)(2) and (3) of this section.
 
 (c) *Related tolerance.* See § 556.226 of this chapter.
 
@@ -42,4 +42,4 @@
 
 (ii) *Limitations.* Animals intended for human consumption must not be slaughtered within 5 days of receiving a single-injection dose.
 
-[72 FR 10597, Mar. 9, 2007, as amended at 73 FR 17890, Apr. 2, 2008; 73 FR 21819, Apr. 23, 2008; 76 FR 22611, Apr. 22, 2011; 77 FR 55415, Sept. 10, 2012; 77 FR 76863, Dec. 31, 2012; 78 FR 19987, Apr. 3, 2013; 79 FR 37620, July 2, 2014; 80 FR 13229, Mar. 13, 2015; 80 FR 18776, Apr. 8, 2015; 80 FR 61296, Oct. 13, 2015; 84 FR 8973, Mar. 13, 2019]
+[72 FR 10597, Mar. 9, 2007, as amended at 73 FR 17890, Apr. 2, 2008; 73 FR 21819, Apr. 23, 2008; 76 FR 22611, Apr. 22, 2011; 77 FR 55415, Sept. 10, 2012; 77 FR 76863, Dec. 31, 2012; 78 FR 19987, Apr. 3, 2013; 79 FR 37620, July 2, 2014; 80 FR 13229, Mar. 13, 2015; 80 FR 18776, Apr. 8, 2015; 80 FR 61296, Oct. 13, 2015; 84 FR 8973, Mar. 13, 2019; 84 FR 53311, Oct. 7, 2019]

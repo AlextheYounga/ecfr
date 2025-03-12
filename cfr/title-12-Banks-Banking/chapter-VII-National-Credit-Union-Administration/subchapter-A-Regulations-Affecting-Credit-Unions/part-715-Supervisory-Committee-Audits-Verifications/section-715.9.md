@@ -1,5 +1,7 @@
 ##### § 715.9 Assistance from outside, compensated person. #####
 
+Link to an amendment published at 84 FR 53308, Oct. 7, 2019.
+
 (a) *Unrelated to officials.* A compensated auditor who performs a Supervisory Committee audit on behalf of a credit union shall not be related by blood or marriage to any management employee, member of either the board of directors, the Supervisory Committee or the credit committee, or loan officer of that credit union.
 
 (b) *Engagement letter.* The engagement of a compensated auditor to perform all or a portion of the scope of a financial statement audit or supervisory committee audit shall be evidenced by an engagement letter. In all cases, the engagement must be contracted directly with the Supervisory Committee. The engagement letter must be signed by the compensated auditor and acknowledged therein by the Supervisory Committee prior to commencement of the engagement.

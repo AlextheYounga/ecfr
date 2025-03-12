@@ -173,7 +173,7 @@
 
 |Monensin in  <br/>grams/ton|                                           Indications for use                                           |                                                                              Limitations                                                                              |Sponsor|
 |---------------------------|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
-|        (i) 5 to 40        |For the prevention of coccidiosis caused by Eimeria crandallis, E. christenseni, and E. ninakohlyakimovae|Feed only to goats being fed in confinement. Do not feed to lactating goats. See paragraph (d)(13) of this section for provisions for monensin liquid Type C goat feeds|058198 |
+|          (i) 20           |For the prevention of coccidiosis caused by Eimeria crandallis, E. christenseni, and E. ninakohlyakimovae|Feed only to goats being fed in confinement. Do not feed to lactating goats. See paragraph (d)(13) of this section for provisions for monensin liquid Type C goat feeds|058198 |
 |      (ii) [Reserved]      |                                                                                                         |                                                                                                                                                                       |       |
 
 (7) Monensin may also be used in combination with:
@@ -184,20 +184,22 @@
 
 (iii) Decoquinate as in § 558.195.
 
-(iv) Lincomycin as in § 558.325.
+(iv) Lubabegron as in § 558.330.
 
-(v) Melengestrol acetate as in § 558.342.
+(v) Lincomycin as in § 558.325.
 
-(vi) Oxytetracycline as in § 558.450.
+(vi) Melengestrol acetate as in § 558.342.
 
-(vii) Ractopamine alone or in combination as in § 558.500.
+(vii) Oxytetracycline as in § 558.450.
 
-(viii) Tilmicosin as in § 558.618.
+(viii) Ractopamine alone or in combination as in § 558.500.
 
-(ix) Tylosin as in § 558.625.
+(ix) Tilmicosin as in § 558.618.
 
-(x) Virginiamycin as in § 558.635.
+(x) Tylosin as in § 558.625.
 
-(xi) Zilpaterol alone or in combination as in § 558.665.
+(xi) Virginiamycin as in § 558.635.
+
+(xii) Zilpaterol alone or in combination as in § 558.665.
 
 [40 FR 13959, Mar. 27, 1975]Editorial Note:For Federal Register citations affecting § 558.355, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

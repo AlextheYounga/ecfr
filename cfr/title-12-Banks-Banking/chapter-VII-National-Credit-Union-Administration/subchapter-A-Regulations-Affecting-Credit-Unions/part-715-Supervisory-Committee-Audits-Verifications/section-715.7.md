@@ -1,5 +1,7 @@
 ##### § 715.7 Supervisory Committee audit alternatives to a financial statement audit. #####
 
+Link to an amendment published at 84 FR 53308, Oct. 7, 2019.
+
 A credit union which is not required to obtain a financial statement audit may fulfill its supervisory committee responsibility by any one of the following engagements:
 
 (a) *Balance sheet audit.* A balance sheet audit, as defined in § 715.2(a), performed by a person who is licensed to do so by the State or jurisdiction in which the credit union is principally located; or

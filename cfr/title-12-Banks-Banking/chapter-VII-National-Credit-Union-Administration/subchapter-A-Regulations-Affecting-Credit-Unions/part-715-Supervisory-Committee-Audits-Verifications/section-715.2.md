@@ -1,5 +1,7 @@
 ##### § 715.2 Definitions used in this part. #####
 
+Link to an amendment published at 84 FR 53307, Oct. 7, 2019.
+
 As used in this part:
 
 (a) *Balance sheet audit* refers to the examination of a credit union's assets, liabilities, and equity under generally accepted auditing standards (GAAS) by an independent public accountant for the purpose of opining on the fairness of the presentation on the balance sheet. Credit unions required to file call reports consistent with GAAP should ensure the audited balance sheet is likewise prepared on a GAAP basis. The opinion under this type of engagement would not address the fairness of the presentation of the credit union's income statement, statement of changes in equity (including comprehensive income), or statement of cash flows.
