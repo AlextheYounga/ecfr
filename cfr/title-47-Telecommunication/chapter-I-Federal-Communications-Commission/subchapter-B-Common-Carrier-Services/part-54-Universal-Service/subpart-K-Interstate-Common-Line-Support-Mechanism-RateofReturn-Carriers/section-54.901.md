@@ -1,7 +1,5 @@
 ##### § 54.901 Calculation of Connect America Fund Broadband Loop Support. #####
 
-Link to an amendment published at 84 FR 4733, Feb. 19, 2019.
-
 (a) Connect America Fund Broadband Loop Support (CAF BLS) available to a rate-of-return carrier shall equal the Interstate Common Line Revenue Requirement per Study Area, plus the Consumer Broadband-Only Revenue Requirement per Study Area as calculated in accordance with part 69 of this chapter, minus:
 
 (1) The study area revenues obtained from end user common line charges at their allowable maximum as determined by § 69.104(n) and (o) of this chapter;
@@ -40,12 +38,12 @@ Link to an amendment published at 84 FR 4733, Feb. 19, 2019.
 
 (1) On May 1 of each year, the Administrator will publish a target amount for CAF BLS in the aggregate and the amount of CAF BLS that each study area will receive during the upcoming July 1 to June 30 tariff year. The target amount shall be the forecasted disbursement amount times a reduction factor. The reduction factor shall be the budget amount divided by the total forecasted disbursement amount for both High Cost Loop Support and CAF BLS for recipients in the aggregate. The forecasted disbursement for CAF BLS is the forecasted total disbursements for all recipients of CAF BLS, including both projections and true-ups in the upcoming July 1 to June 30 tariff year.
 
-(2) The Administrator shall apply a per-line reduction to each carrier's CAF BLS equal to one-half the difference between the forecasted disbursement amount and the target amount divided by the total number of loops eligible for support. To the extent that per-line reduction is greater than the amount of CAF BLS per loop for a given carrier, that excess amount shall be subject to reduction through the method described in paragraph (f)(3) of this section.
+(2) [Reserved]
 
-(3) The Administrator shall apply an additional pro rata reduction to CAF BLS for each recipient of CAF BLS as necessary to achieve the target amount.
+(3) The Administrator shall apply a pro rata reduction to CAF BLS for each recipient of CAF BLS as necessary to achieve the target amount.
 
 (4) This paragraph (f) shall not apply to support provided from July 1, 2017 to June 30, 2018.
 
 (g) For purposes of this subpart and consistent with § 69.132 of this chapter, a consumer broadband-only loop is a line provided by a rate-of-return incumbent local exchange carrier to a customer without regulated local exchange voice service, for use in connection with fixed Broadband Internet access service, as defined in § 8.2 of this chapter.
 
-[81 FR 24342, Apr. 25, 2016, as amended at 82 FR 14340, Mar. 20, 2017; 83 FR 18964, May 1, 2018]
+[81 FR 24342, Apr. 25, 2016, as amended at 82 FR 14340, Mar. 20, 2017; 83 FR 18964, May 1, 2018; 84 FR 4733, Feb. 19, 2019]

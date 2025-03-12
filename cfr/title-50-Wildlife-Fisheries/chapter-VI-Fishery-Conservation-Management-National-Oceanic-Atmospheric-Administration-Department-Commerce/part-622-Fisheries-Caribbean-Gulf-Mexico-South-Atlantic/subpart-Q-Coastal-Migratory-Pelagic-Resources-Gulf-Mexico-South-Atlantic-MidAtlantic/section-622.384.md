@@ -1,12 +1,10 @@
 ##### § 622.384 Quotas. #####
 
-Link to an amendment published at 84 FR 4736, Feb. 19, 2019.
-
 See § 622.8 for general provisions regarding quota applicability and closure and reopening procedures. See § 622.369 for the descriptions of the zones. This section provides quotas and specific quota closure restrictions for coastal migratory pelagic fish. All weights are in round and eviscerated weight combined, unless specified otherwise.
 
 (a) King and Spanish mackerel quotas apply to persons who fish under commercial vessel permits for king or Spanish mackerel, as required under § 622.370(a)(1) or (3). A fish is counted against the quota for the area where it is caught, not where it is landed.
 
-(b) King mackerel - (1) *Gulf migratory group.* The Gulf migratory group is divided into zones. The description of the zones is specified in § 622.369(a). Quotas for the western, northern, and southern zones are as follows:
+(b) *King mackerel* - (1) *Gulf migratory group.* The Gulf migratory group is divided into zones. The description of the zones is specified in § 622.369(a). Quotas for the western, northern, and southern zones are as follows:
 
 (i) *Western zone.* The quota is 1,180,000 lb (535,239 kg) for the 2016-2017 fishing year, 1,136,000 lb (515,281 kg) for the 2017-2018 fishing year, 1,116,000 lb (506,209 kg) for the 2018-2019 fishing year, and 1,096,000 lb (497,137 kg) for the 2019-2020 fishing year and subsequent fishing years.
 
@@ -66,10 +64,10 @@ See § 622.8 for general provisions regarding quota applicability and closure an
 
 (ii) *Florida east coast zone.* The following quota applies to persons who fish for cobia and sell their catch. The quota for the Gulf migratory group of cobia in the Florida east coast zone is 70,000 lb (31,751 kg).
 
-(2) *Atlantic migratory group.* The following quotas apply to persons who fish for cobia and sell their catch. For the 2014 and 2015 fishing years, the quota for the Atlantic migratory group of cobia is 60,000 lb (27,216 kg). The quota for the 2016 fishing year and subsequent fishing years is 50,000 lb (22,680 kg).
+(2) [Reserved]
 
 (e) *Restrictions applicable after a quota closure.* (1) If the recreational sector for the applicable species, migratory group, zone, or gear is open, the bag and possession limits for king and Spanish mackerel specified in § 622.382(a) apply to all harvest or possession for the closed species, migratory group, zone, or gear in or from the EEZ. If the recreational sector for the applicable species, migratory group, zone, or gear is closed, all applicable harvest or possession in or from the EEZ is prohibited.
 
 (2) The sale or purchase of king mackerel, Spanish mackerel, or cobia of the closed species, migratory group, zone, or gear type is prohibited, including any king or Spanish mackerel taken under the bag and possession limits specified in § 622.382(a), or cobia taken under the limited-harvest species possession limit specified in § 622.383(b). The prohibition on the sale or purchase during a closure for coastal migratory pelagic fish does not apply to coastal migratory pelagic fish that were harvested, landed ashore, and sold prior to the effective date of the closure and were held in cold storage by a dealer or processor.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 79 FR 69060, Nov. 20, 2014; 80 FR 4221, Jan. 27, 2015; 82 FR 17397, Apr. 11, 2017; 82 FR 35660, Aug. 1, 2017]
+[78 FR 22952, Apr. 17, 2013, as amended at 79 FR 69060, Nov. 20, 2014; 80 FR 4221, Jan. 27, 2015; 82 FR 17397, Apr. 11, 2017; 82 FR 35660, Aug. 1, 2017; 84 FR 4736, Feb. 19, 2019]

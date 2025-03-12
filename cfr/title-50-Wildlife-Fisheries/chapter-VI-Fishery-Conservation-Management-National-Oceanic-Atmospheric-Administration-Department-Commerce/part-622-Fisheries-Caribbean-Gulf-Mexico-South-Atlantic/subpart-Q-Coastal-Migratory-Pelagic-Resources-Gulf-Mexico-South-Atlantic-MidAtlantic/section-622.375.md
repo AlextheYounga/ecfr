@@ -1,24 +1,18 @@
 ##### § 622.375 Authorized and unauthorized gear. #####
 
-Link to an amendment published at 84 FR 4736, Feb. 19, 2019.
+(a) *Authorized gear*—(1) *King and Spanish mackerel.* Subject to the prohibitions on gear/methods specified in § 622.9, the following are the only fishing gears that may be used in the Gulf, Mid-Atlantic, and South Atlantic EEZ in directed fisheries for king and Spanish mackerel:
 
-(a) *Authorized gear* - (1) *King and Spanish mackerel.* Subject to the prohibitions on gear/methods specified in § 622.9, the following are the only fishing gears that may be used in the Gulf, Mid-Atlantic, and South Atlantic EEZ in directed fisheries for king and Spanish mackerel:
+(i) *King mackerel, Atlantic migratory group*—(A) North of 34°37.3′ N. lat., the latitude of Cape Lookout Light, NC—all gear except drift gillnet and long gillnet.
 
-(i) *King mackerel, Atlantic migratory group* - (A) North of 34°37.3′ N. lat., the latitude of Cape Lookout Light, NC - all gear except drift gillnet and long gillnet.
+(B) South of 34°37.3′ N. lat.—automatic reel, bandit gear, handline, and rod and reel.
 
-(B) South of 34°37.3′ N. lat. - automatic reel, bandit gear, handline, and rod and reel.
+(ii) *King mackerel, Gulf migratory group*—hook-and-line gear and, in the southern zone only, run-around gillnet. (See § 622.369(a)(1)(iii) for a description of the southern zone.)
 
-(ii) *King mackerel, Gulf migratory group* - hook-and-line gear and, in the southern zone only, run-around gillnet. (See § 622.369(a)(1)(iii) for a description of the southern zone.)
+(iii) *Spanish mackerel, Atlantic migratory group*—automatic reel, bandit gear, handline, rod and reel, cast net, run-around gillnet, and stab net.
 
-(iii) *Spanish mackerel, Atlantic migratory group* - automatic reel, bandit gear, handline, rod and reel, cast net, run-around gillnet, and stab net.
+(iv) *Spanish mackerel, Gulf migratory group*—all gear except drift gillnet, long gillnet, and purse seine.
 
-(iv) *Spanish mackerel, Gulf migratory group* - all gear except drift gillnet, long gillnet, and purse seine.
-
-(2) *Cobia.* Subject to the prohibitions on gear/methods specified in § 622.9, the following are the only fishing gears that may be used in the Gulf, Mid-Atlantic, and South Atlantic EEZ for cobia.
-
-(i) *Cobia in the Mid-Atlantic and South Atlantic EEZ* - automatic reel, bandit gear, handline, rod and reel, pelagic longline, and spear (including powerheads).
-
-(ii) *Cobia in the Gulf EEZ* - all gear except drift gillnet and long gillnet.
+(2) *Cobia, Gulf migratory group.* Subject to the prohibitions on gear/methods specified in § 622.9, the following are the only fishing gears that may be used in the Gulf EEZ, and in the South Atlantic EEZ south of a line extending due east from the Florida/Georgia border for cobia—all gear except drift gillnet and long gillnet.
 
 (b) *Unauthorized gear.* Gear types other than those specified in paragraph (a) of this section are unauthorized gear and the following possession limitations apply:
 
@@ -36,4 +30,4 @@ Link to an amendment published at 84 FR 4736, Feb. 19, 2019.
 
 (iii) If such a vessel has unauthorized gear on board other than a drift gillnet in the Gulf EEZ, a long gillnet, or a run-around gillnet in an area other than the southern zone, the possession of king mackerel taken incidentally is restricted only by the closure provisions of § 622.384(e) and the trip limits specified in § 622.385(a). See also § 622.379 regarding the purse seine catch allowances of king mackerel.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 80 FR 4221, Jan. 27, 2015; 82 FR 17394, Apr. 11, 2017]
+[78 FR 22952, Apr. 17, 2013, as amended at 80 FR 4221, Jan. 27, 2015; 82 FR 17396, Apr. 11, 2017; 84 FR 4736, Feb. 19, 2019]

@@ -1,7 +1,5 @@
 ##### § 622.388 Annual catch limits (ACLs), annual catch targets (ACTs), and accountability measures (AMs). #####
 
-Link to an amendment published at 84 FR 4737, Feb. 19, 2019.
-
 All weights are in round and eviscerated weight combined, unless specified otherwise.
 
 (a) *Gulf migratory group king mackerel* - (1) *Commercial sector.* (i) If commercial landings, as estimated by the SRD, reach or are projected to reach the applicable quota specified in § 622.384(b)(1), the AA will file a notification with the Office of the Federal Register to close the commercial sector for that zone, or gear type for the remainder of the fishing year.
@@ -64,14 +62,4 @@ All weights are in round and eviscerated weight combined, unless specified other
 
 (iii) The stock ACLs for Florida east coast zone cobia are 880,000 lb (399,161 kg) for 2014, 900,000 lb (408,233 kg) for 2015, and 930,000 lb (421,841 kg) for 2016 and subsequent fishing years.
 
-(f) *Atlantic migratory group cobia.* (1) The following ACLs and AMs apply to cobia that are sold (commercial sector):
-
-(i) If the sum of the cobia landings that are sold, as estimated by the SRD, reach or are projected to reach the quota specified in § 622.384(d)(2) (ACL), the AA will file a notification with the Office of the Federal Register to prohibit the sale and purchase of cobia for the remainder of the fishing year.
-
-(ii) In addition to the measures specified in paragraph (f)(1)(i) of this section, if the sum of the cobia landings that are sold and not sold in or from the Atlantic migratory group, as estimated by the SRD, exceeds the stock ACL, as specified in paragraph (f)(3) of this section, and Atlantic migratory group cobia are overfished, based on the most recent status of U.S. Fisheries Report to Congress, the AA will file a notification with the Office of the Federal Register, at or near the beginning of the following fishing year to reduce the applicable quota (ACL), as specified in paragraph (f)(1)(i) of this section, for that following year by the amount of any applicable sector-specific ACL overage in the prior fishing year.
-
-(2) The following ACLs and AMs apply to cobia that are not sold (recreational sector). If recreational landings for cobia, as estimated by the SRD, exceed both the recreational ACL of 620,000 lb (281,227 kg), and the stock ACL, as specified paragraph (f)(3) of this section, then during the following fishing year, recreational landings will be monitored for a persistence in increased landings, and, if necessary, the AA will file a notification with the Office of the Federal Register to reduce the recreational vessel limit, specified in § 622.382(a)(1)(vi), to no less than 2 fish per vessel to ensure recreational landings achieve the recreational ACT, but do not exceed the recreational ACL in that fishing year. Any recreational vessel limit reduction that is implemented as described in this paragraph is only applicable for the fishing year in which it is implemented. Additionally, if the reduction in the recreational vessel limit is determined by the AA to be insufficient to ensure that recreational landings will not exceed the recreational ACL, the AA will also reduce the length of the recreational fishing season by the amount necessary to ensure recreational landings do not exceed the recreational ACL in that fishing year. The recreational vessel limit and the length of the recreational fishing season will not be reduced if NMFS determines, based on the best scientific information available, that a recreational vessel limit and fishing season reduction are unnecessary. The recreational ACT is 500,000 lb (226,796 kg).
-
-(3) The stock ACL for Atlantic migratory group cobia is 670,000 lb (303,907 kg).
-
-[78 FR 22952, Apr. 17, 2013, as amended at 79 FR 69060, Nov. 20, 2014; 80 FR 4222, Jan. 27, 2015; 80 FR 10007, Feb. 25, 2015; 80 FR 78675, Dec. 17, 2015; 82 FR 17399, Apr. 11, 2017; 82 FR 36347, Aug. 4, 2017]
+[78 FR 22952, Apr. 17, 2013, as amended at 79 FR 69060, Nov. 20, 2014; 80 FR 4222, Jan. 27, 2015; 80 FR 10007, Feb. 25, 2015; 80 FR 78675, Dec. 17, 2015; 82 FR 17399, Apr. 11, 2017; 82 FR 36347, Aug. 4, 2017; 84 FR 4737, Feb. 19, 2019]

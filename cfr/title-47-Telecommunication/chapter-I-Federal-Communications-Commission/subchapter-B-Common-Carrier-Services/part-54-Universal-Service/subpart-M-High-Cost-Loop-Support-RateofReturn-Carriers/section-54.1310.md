@@ -1,7 +1,5 @@
 ##### § 54.1310 Expense adjustment. #####
 
-Link to an amendment published at 84 FR 4733, Feb. 19, 2019.
-
 (a) Until June 30, 2015, for study areas reporting 200,000 or fewer working loops pursuant to § 54.1305(h), the expense adjustment (additional interstate expense allocation) is equal to the sum of paragraphs (a)(1) and (2) of this section.
 
 (1) Sixty-five percent of the study area average unseparated loop cost per working loop as calculated pursuant to § 54.1309(b) in excess of 115 percent of the national average for this cost but not greater than 150 percent of the national average for this cost as calculated pursuant to § 54.1309(a) multiplied by the number of working loops reported in § 54.1305(h) for the study area; and
@@ -20,14 +18,8 @@ Link to an amendment published at 84 FR 4733, Feb. 19, 2019.
 
 (1) On May 1 of each year, the Administrator will publish an annual target amount for High-Cost Loop Support in the aggregate. The target amount shall be the forecasted disbursement amount times a reduction factor. The reduction factor shall be the budget amount divided by the total forecasted disbursement amount for both High Cost Loop Support and Broadband Loop Support for recipients in the aggregate. The forecasted disbursement for High Cost Loop Support is the High Cost Loop Support cap determined pursuant to § 54.1302 as reflected in the most recent annual filing pursuant to § 54.1305.
 
-(2) Each quarter, the Administrator shall adjust each carrier's High Cost Loop Support disbursements as follows:
-
-(i) The Administrator shall apply a per-line reduction to each carrier's High Cost Loop Support equal to one-half the difference between the forecasted disbursement amount and the target amount divided by the total number of loops eligible for support. To the extent that per-line reduction is greater than the amount of High Cost Loop Support per loop for a given carrier, that excess amount will be subject to reduction through the method described in paragraph (d)(2)(ii) of this section.
-
-(ii) The Administrator shall apply an additional pro rata reduction to High Cost Loop Support for each recipient of High Cost Loop Support as necessary to achieve the target amount.
-
-[80 FR 4479, Jan. 27, 2015, as amended at 81 FR 24344, Apr. 25, 2016]
+(2) Each January 1 and July 1, the Administrator shall apply a pro rata reduction to High Cost Loop Support for each recipient of High Cost Loop Support as necessary to achieve the target amount.
 
 (3) This paragraph (d) shall not apply to support provided from July 1, 2017 to June 30, 2018.
 
-[80 FR 4479, Jan. 27, 2015, as amended at 81 FR 24344, Apr. 25, 2016; 83 FR 18965, May 1, 2018]
+[80 FR 4479, Jan. 27, 2015, as amended at 81 FR 24344, Apr. 25, 2016; 83 FR 18965, May 1, 2018; 84 FR 4733, Feb. 19, 2019]

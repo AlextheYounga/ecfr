@@ -39,5 +39,3 @@ Example.Assume that life insurance company P is organized on January 1, 1958, an
 (g) *Dividends received.* No deduction shall be allowed under sections 243, 244, and 245 for dividends received since section 809(d)(8) allows a deduction for such dividends.
 
 [T.D. 6535, 26 FR 529, Jan. 20, 1961, as amended by T.D. 7207, 37 FR 20797, Oct. 5, 1972]
-
-##### § 1.809-6 [Reserved] #####

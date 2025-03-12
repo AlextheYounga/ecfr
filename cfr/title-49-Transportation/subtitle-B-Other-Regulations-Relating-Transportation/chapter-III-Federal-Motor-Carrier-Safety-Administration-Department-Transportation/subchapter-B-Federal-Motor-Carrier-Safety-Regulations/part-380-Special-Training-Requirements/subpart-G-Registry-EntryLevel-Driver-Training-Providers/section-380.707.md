@@ -1,6 +1,6 @@
 ##### § 380.707 Entry-level training provider. #####
 
-Link to an amendment published at 84 FR 8040, Mar. 6, 2019.
+Link to an amendment published at 84 FR 8040, Mar. 6, 2019.Link to a correction published at 84 FR 10437, Mar. 21, 2019.
 
 (a) Training providers must require all accepted applicants for behind-the-wheel (BTW) training to certify that they will comply U.S. Department of Transportation regulations in parts 40, 382, 383, and 391, as well as State and/or local laws, related to controlled substances testing, age, medical certification, licensing, and driving record. Training providers must verify that all accepted BTW applicants hold a valid commercial learner's permit or commercial driver's license, as applicable.
 

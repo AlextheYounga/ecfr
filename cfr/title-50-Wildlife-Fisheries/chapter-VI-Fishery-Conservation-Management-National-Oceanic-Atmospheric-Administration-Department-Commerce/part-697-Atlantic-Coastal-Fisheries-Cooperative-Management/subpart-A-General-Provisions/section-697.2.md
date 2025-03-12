@@ -1,7 +1,5 @@
 ##### § 697.2 Definitions. #####
 
-Link to an amendment published at 84 FR 4737, Feb. 19, 2019.
-
 (a) In addition to the definitions in the Magnuson-Stevens Act and in §§ 600.10 and 648.2 of this chapter, for the purposes of this part, the following terms have the following meanings:
 
 *American lobster* or lobster means *Homarus americanus.*
@@ -9,6 +7,8 @@ Link to an amendment published at 84 FR 4737, Feb. 19, 2019.
 *Approved TED* means any approved TED as defined at § 217.12 of this title.
 
 *Atlantic Coastal Act* means the Atlantic Coastal Fisheries Cooperative Management Act, as amended (16 U.S.C. 5101 *et seq.*).
+
+*Atlantic migratory group cobia,* means *Rachycentron canadum,* a whole fish or a part thereof, bounded by a line extending from the intersection point of New York, Connecticut, and Rhode Island (41°18′16.249″ N lat. and 71°54′28.477″ W long) southeast to 37°22′32.75″ N lat. and the intersection point with the outward boundary of the EEZ and south to a line extending due east of the Florida/Georgia border (30°42′45.6″ N lat.).
 
 *Atlantic red drum*, also called redfish, means *Sciaenops ocellatus*, or a part thereof, found in the waters of the Atlantic Ocean off the Atlantic coastal states, to the outer boundary of the EEZ, as specified in § 600.10 of this chapter, from the boundary of the United States and Canada, to the boundary between the South Atlantic Fishery Management Council and the Gulf of Mexico Fishery Management Council, as specified in § 600.105(c) of this chapter.
 
@@ -134,4 +134,4 @@ Link to an amendment published at 84 FR 4737, Feb. 19, 2019.
 
 (b) [Reserved]
 
-[64 FR 68248, Dec. 6, 1999, as amended at 66 FR 8911, Feb. 5, 2001; 66 FR 14501, Mar. 13, 2001; 68 FR 14925, Mar. 27, 2003; 68 FR 56790, Oct. 2, 2003; 71 FR 13037, Mar. 14, 2006; 73 FR 58061, Oct. 6, 2008; 74 FR 37549, July 29, 2009; 80 FR 2033, Jan. 15, 2015]
+[64 FR 68248, Dec. 6, 1999, as amended at 66 FR 8911, Feb. 5, 2001; 66 FR 14501, Mar. 13, 2001; 68 FR 14925, Mar. 27, 2003; 68 FR 56790, Oct. 2, 2003; 71 FR 13037, Mar. 14, 2006; 73 FR 58061, Oct. 6, 2008; 74 FR 37549, July 29, 2009; 80 FR 2033, Jan. 15, 2015; 84 FR 4737, Feb. 19, 2019]

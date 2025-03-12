@@ -1,5 +1,7 @@
 ##### § 206.48 Factors considered when evaluating a Governor's request for a major disaster declaration. #####
 
+Link to an amendment published at 84 FR 10663, Mar. 21, 2019.
+
 When we review a Governor's request for major disaster assistance under the Stafford Act, these are the primary factors in making a recommendation to the President whether assistance is warranted. We consider other relevant information as well.
 
 (a) *Public Assistance Program.* We evaluate the following factors to evaluate the need for assistance under the Public Assistance Program.

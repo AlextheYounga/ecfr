@@ -1,7 +1,5 @@
 ##### § 697.7 Prohibitions. #####
 
-Link to an amendment published at 84 FR 4737, Feb. 19, 2019.
-
 (a) *Atlantic Coast weakfish fishery.* In addition to the prohibitions set forth in § 600.725 of this chapter, it is unlawful for any person to do any of the following:
 
 (1) Fish for, harvest, or possess any weakfish less than 12 inches (30.5 cm) in total length (measured as a straight line along the bottom of the fish from the tip of the lower jaw with the mouth closed to the end of the lower tip of the tail) from the EEZ.
@@ -262,4 +260,28 @@ Link to an amendment published at 84 FR 4737, Feb. 19, 2019.
 
 (2) Fail to release immediately without further harm, all Atlantic red drum caught in the EEZ area described in paragraph (f)(1) of this section.
 
-[64 FR 68248, Dec. 6, 1999, as amended at 66 FR 8911, Feb. 5, 2001; 66 FR 14502, Mar. 13, 2001; 68 FR 56790, Oct. 2, 2003; 71 FR 13037, Mar. 14, 2006; 73 FR 11563, Mar. 4, 2008; 73 FR 58061, Oct. 6, 2008; 74 FR 37551, July 29, 2009; 79 FR 22449, Apr. 22, 2014; 79 FR 19025, Apr. 7, 2014; 79 FR 73852, Dec. 12, 2014; 80 FR 2033, Jan. 15, 2015; 80 FR 69622, Nov. 10, 2015]
+(g) *Atlantic migratory group cobia.* In addition to the prohibitions set forth in § 600.725 of this chapter, it is unlawful for any person to do any of the following:
+
+(1) Use or possess prohibited gear or methods or possess fish in association with possession or use of prohibited gear, as specified in this part.
+
+(2) Fish in violation of the prohibitions, restrictions, and requirements applicable to seasonal and/or area closures, including but not limited to: Prohibition of all fishing, gear restrictions, restrictions on take or retention of fish, fish release requirements, and restrictions on use of an anchor or grapple, as specified in this part or as may be specified under this part.
+
+(3) Possess undersized fish, fail to release undersized fish, or sell or purchase undersized fish, as specified in this part.
+
+(4) Fail to maintain a fish intact through offloading ashore, as specified in this part.
+
+(5) Exceed a bag or possession limit, as specified in this part.
+
+(6) Fail to comply with the species-specific limitations, as specified in this part.
+
+(7) Fail to comply with the restrictions that apply after closure of a fishery, sector, or component of a fishery, as specified in this part.
+
+(8) Possess on board a vessel or land, purchase, or sell fish in excess of the commercial trip limits, as specified in this part.
+
+(9) Fail to comply with the restrictions on sale/purchase, as specified in this part.
+
+(10) Interfere with fishing or obstruct or damage fishing gear or the fishing vessel of another, as specified in this part.
+
+(11) Fail to comply with any other requirement or restriction specified in this part or violate any provision(s) in this part.
+
+[64 FR 68248, Dec. 6, 1999, as amended at 66 FR 8911, Feb. 5, 2001; 66 FR 14502, Mar. 13, 2001; 68 FR 56790, Oct. 2, 2003; 71 FR 13037, Mar. 14, 2006; 73 FR 11563, Mar. 4, 2008; 73 FR 58061, Oct. 6, 2008; 74 FR 37551, July 29, 2009; 79 FR 22449, Apr. 22, 2014; 79 FR 19025, Apr. 7, 2014; 79 FR 73852, Dec. 12, 2014; 80 FR 2033, Jan. 15, 2015; 80 FR 69622, Nov. 10, 2015; 84 FR 4737, Feb. 19, 2019]

@@ -1,10 +1,9 @@
 ##### § 54.308 Broadband public interest obligations for recipients of high-cost support. #####
 
-Link to an amendment published at 84 FR 4730, Feb. 19, 2019.
-
 (a) Rate-of-return carrier recipients of high-cost support are required to offer broadband service, at speeds described below, with latency suitable for real-time applications, including Voice over Internet Protocol, and usage capacity that is reasonably comparable to comparable offerings in urban areas, at rates that are reasonably comparable to rates for comparable offerings in urban areas. For purposes of determining reasonable comparability of rates, recipients are presumed to meet this requirement if they offer rates at or below the applicable benchmark to be announced annually by public notice issued by the Wireline Competition Bureau.
 
-(1) Carriers that elect to receive Connect America Fund-Alternative Connect America Cost Model (CAF-ACAM) support pursuant to § 54.311 are required to offer broadband service at actual speeds of at least 10 Mbps downstream/1 Mbps upstream to a defined number of locations as specified by public notice, with a minimum usage allowance of 150 GB per month, subject to the requirement that usage allowances remain consistent with median usage in the United States over the course of the ten-year term. In addition, such carriers must offer other speeds to subsets of locations, as specified below:
+(1) Carriers that elect to receive Connect America Fund-Alternative Connect America Cost Model (CAF-ACAM) support pursuant to § 54.311 are required to offer broadband service at actual speeds of at least 10 Mbps downstream/1 Mbps upstream to a defined number of locations as specified by public notice, with a minimum usage allowance of 150 GB per month, subject to the requirement that usage allowances remain consistent with median usage in the United States over the course of the term.
+In addition, such carriers must offer other speeds to subsets of locations, as specified below:
 
 (i) *Fully funded locations.* Fully funded locations are those locations identified by the Alternative-Connect America Cost Model (A-CAM) where the average cost is above the funding benchmark and at or below the funding cap. Carriers are required to offer broadband speeds to locations that are fully funded, as specified by public notice at the time of authorization, as follows:
 
@@ -22,29 +21,37 @@ Link to an amendment published at 84 FR 4730, Feb. 19, 2019.
 
 (C) Carriers shall provide to all other capped locations, upon reasonable request, broadband at actual speeds of at least 4 Mbps downstream/1 Mbps upstream.
 
-(2) Rate-of-return recipients of Connect America Fund Broadband Loop Support (CAF BLS) shall be required to offer broadband service at actual speeds of at least 10 Mbps downstream/1 Mbps upstream, over a five-year period, to a defined number of unserved locations as specified by public notice, as determined by the following methodology:
+(iii) Revised A-CAM I carriers, as defined by § 54.311(a)(2), must offer the following broadband speeds to locations that are fully funded, as specified by public notice at the time of the authorizations, as follows:
 
-(i) *Percentage of CAF BLS.* Each rate-of-return carrier is required to target a defined percentage of its five-year forecasted CAF-BLS support to the deployment of broadband service to locations that are unserved with 10 Mbps downstream/1 Mbps upstream broadband service as follows:
+(A) Revised A-CAM I carriers with a state-level density of more than 10 housing units per square mile, as specified by public notice at the time of election, are required to offer broadband speeds of at least 25 Mbps downstream/3 Mbps upstream to 85 percent of all fully funded locations in the state by the end of the term.
 
-(A) Rate-of-return carriers with less than 20 percent deployment of 10/1 Mbps broadband service in their study areas, as determined by the Wireline Competition Bureau, will be required to utilize 35 percent of their five-year forecasted CAF-BLS support to extend broadband service where it is currently lacking.
+(B) Revised A-CAM I carriers with a state-level density of 10 or fewer, but more than five, housing units per square mile, as specified by public notice at the time of election, are required to offer broadband speeds of at least 25 Mbps downstream/3 Mbps upstream to 65 percent of fully funded locations in the state by the end of the term.
 
-(B) Rate-of-return carriers with more than 20 percent but less than 40 percent deployment of 10/1 Mbps broadband service in their study areas, as determined by the Wireline Competition Bureau, will be required to utilize 25 percent of their five-year forecasted CAF-BLS support to extend broadband service where it is currently lacking.
+(C) Revised A-CAM I carriers with a state-level density of five or fewer housing units per square mile, as specified by public notice at the time of election, are required to offer broadband speeds of at least 25 Mbps downstream/3 Mbps upstream to 50 percent of fully funded locations in the state by the end of the term.
 
-(C) Rate-of-return carriers with more than 40 percent but less than 80 percent deployment of 10/1 Mbps broadband service in their study areas, as determined by the Wireline Competition Bureau, will be required to utilize 20 percent of their five-year forecasted CAF-BLS support to extend broadband service where it is currently lacking.
+(iv) A-CAM II carriers, as defined by § 54.311(a)(3), must offer broadband speeds of at least 25 Mbps downstream/3 Mbps upstream to 100 percent of fully funded locations in the state by the end of the term, and therefore have no additional 10/1 Mbps obligation.
+
+(2) Rate-of-return recipients of Connect America Fund Broadband Loop Support (CAF BLS) shall be required to offer broadband service at actual speeds of at least 25 Mbps downstream/3 Mbps upstream, over a five-year period, to a defined number of unserved locations as specified by public notice, as determined by the following methodology:
+
+(i) *Percentage of CAF BLS.* Each rate-of-return carrier is required to target a defined percentage of its five-year forecasted CAF BLS support to the deployment of broadband service to locations that are unserved with 25 Mbps downstream/3 Mbps upstream broadband service as follows:
+
+(A) Rate-of-return carriers with less than 20 percent deployment of 25/3 Mbps broadband service in their study areas, as determined by the Bureau, will be required to use 35 percent of their five-year forecasted CAF BLS support to extend broadband service where it is currently lacking.
+
+(B) Rate-of-return carriers with more than 20 percent but less than 40 percent deployment of 25/3 Mbps broadband service in their study areas, as determined by the Bureau, will be required to use 25 percent of their five-year forecasted CAF BLS support to extend broadband service where it is currently lacking.
+
+(C) Rate-of-return carriers with more than 40 percent deployment of 25/3 Mbps broadband service in their study areas, as determined by the Bureau, will be required to use 20 percent of their five-year forecasted CAF BLS support to extend broadband service where it is currently lacking.
 
 (ii) *Cost per location.* The deployment obligation shall be determined by dividing the amount of support set forth in paragraph (a)(2)(i) of this section by a cost per location figure based on one of two methodologies, at the carrier's election:
 
 (A) The higher of:
 
-(*1*) The weighted average unseparated cost per loop for carriers of similar density that offer 10/1 Mbps or better broadband service to at least 95 percent of locations, based on the most current FCC Form 477 data as determined by the Wireline Competition Bureau, but excluding carriers subject to the current $250 per line per month cap set forth in § 54.302 and carriers subject to limitations on operating expenses set forth in § 54.303; *or*
+(*1*) The weighted average unseparated cost per loop for carriers of similar density that offer 25/3 Mbps or better broadband service to at least 95 percent of locations, based on the most current FCC Form 477 data as determined by the Bureau, but excluding carriers subject to the current per-line per-month cap set forth in § 54.302 and carriers subject to limitations on operating expenses set forth in § 54.303; *or*
 
-(*2*) 150% of the weighted average of the cost per loop for carriers of similar density, but excluding carriers subject to the current $250 per line per month cap set forth in § 54.302 and carriers subject to limitations on operating expenses set forth in § 54.303, with a similar level of deployment of 10/1 Mbps or better broadband based on the most current FCC Form 477 data, as determined by Wireline Competition Bureau; or
+(*2*) 150% of the weighted average of the cost per loop for carriers of similar density, but excluding carriers subject to the per line per month cap set forth in § 54.302 and carriers subject to limitations on operating expenses set forth in § 54.303, with a similar level of deployment of 25/3 Mbps or better broadband based on the most current FCC Form 477 data, as determined by Bureau; or
 
-(B) The average cost per location for census blocks lacking 10/1 Mbps broadband service in the carrier's study area as determined by the A-CAM.
+(B) The average cost per location for census blocks lacking 25/3 Mbps broadband service in the carrier's study area as determined by the A-CAM.
 
-(iii) *Restrictions on deployment obligations.* (A) No rate-of-return carrier shall deploy terrestrial wireline technology in any census block if doing so would result in total support per line in the study area to exceed the $250 per-line per-month cap in § 54.302.
-
-(B) No rate-of-return carrier shall deploy terrestrial wireline technology to unserved locations to meet this obligation if that would exceed the per location/per project capital investment allowance set forth in § 54.303(f)(1).
+(iii) *Restrictions on deployment obligations.* No rate-of-return carrier shall deploy terrestrial wireline technology in any census block if doing so would result in total support per line in the study area to exceed the per-line per-month cap in § 54.302.
 
 (iv) *Future deployment obligations.* Prior to publishing the deployment obligations for subsequent five-year periods, the Administrator shall update the unseparated average cost per loop amounts for carriers with 95 percent or greater deployment of the then-current standard, based on the then-current NECA cost data, and the Wireline Competition Bureau shall examine the density groupings and make any necessary adjustments based on then-current U.S. Census data.
 
@@ -58,4 +65,4 @@ Link to an amendment published at 84 FR 4730, Feb. 19, 2019.
 
 (2) Offered for the same or a lower rate than the matching plan in the CMA for Anchorage.
 
-[80 FR 4477, Jan. 27, 2015, as amended at 80 FR 5987, Feb. 4, 2015; 81 FR 24339, Apr. 25, 2016; 81 FR 69712, Oct. 7, 2016; 82 FR 14339, Mar. 20, 2017]
+[80 FR 4477, Jan. 27, 2015, as amended at 80 FR 5987, Feb. 4, 2015; 81 FR 24339, Apr. 25, 2016; 81 FR 69712, Oct. 7, 2016; 82 FR 14339, Mar. 20, 2017; 84 FR 4730, Feb. 19, 2019]
