@@ -1,5 +1,7 @@
 ##### § 101.100 Food; exemptions from labeling. #####
 
+Link to an amendment published at 87 FR 2546, Jan. 18, 2022.
+
 (a) The following foods are exempt from compliance with the requirements of section 403(i)(2) of the act (requiring a declaration on the label of the common or usual name of each ingredient when the food is fabricated from two or more ingredients).
 
 (1) An assortment of different items of food, when variations in the items that make up different packages packed from such assortment normally occur in good packing practice and when such variations result in variations in the ingredients in different packages, with respect to any ingredient that is not common to all packages. Such exemption, however, shall be on the condition that the label shall bear, in conjunction with the names of such ingredients as are common to all packages, a statement (in terms that are as informative as practicable and that are not misleading) indicating by name other ingredients which may be present.

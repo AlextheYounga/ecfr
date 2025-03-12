@@ -1,7 +1,5 @@
 ##### § 810.800 Prohibited acts. #####
 
-Link to an amendment published at 87 FR 2335, Jan. 14, 2022.
-
 (a) *Discrimination.* (1) It is unlawful to intimidate, threaten, restrain, coerce, blacklist, discharge, or in any other manner discriminate against any person because the person has -
 
 (i) Disclosed information to a federal agency or to any person relating to a verification of the producer's compliance with the LVC requirements, or
@@ -24,7 +22,7 @@ Link to an amendment published at 87 FR 2335, Jan. 14, 2022.
 
 (3) The Administrator's determination shall:
 
-(i) Set forth the determination of the Administrator and the reason or reasons therefore, and in the case of a finding of violation(s), prescribe any remedies, including monetary relief, injunctive relief, civil money penalties of up to $50,000 per violation, and/or any other remedies assessed.
+(i) Set forth the determination of the Administrator and the reason or reasons therefore, and in the case of a finding of violation(s), prescribe any remedies, including monetary relief, injunctive relief, civil money penalties of up to $53,111 per violation, and/or any other remedies assessed.
 
 (ii) Inform the interested parties that they may request a hearing pursuant to paragraph (d) of this section.
 
@@ -45,3 +43,5 @@ Link to an amendment published at 87 FR 2335, Jan. 14, 2022.
 (e) *Appeal of a decision of the administrative law judge.* Any party desiring review of the decision of the administrative law judge may appeal that decision by filing a petition for review with the Administrative Review Board within 30 days of the date of the administrative law judge's decision. If a petition for review is filed, the decision of the administrative law judge shall be inoperative unless and until the Administrative Review Board issues an order affirming the decision, or unless and until 30 calendar days have passed after the Administrative Review Board's receipt of the petition for review and the Administrative Review Board has not issued notice to the parties that the Administrative Review Board will review the administrative law judge's decision.
 
 (f) *Review of an order of the Administrative Review Board.* An order of the Administrative Review Board under this subpart is subject to discretionary review by the Secretary of Labor (as provided in Secretary of Labor's Order 01-2020 or any successor to that order).
+
+[85 FR 39810, July 1, 2020, as amended at 87 FR 2335, Jan. 14, 2022]

@@ -38,11 +38,11 @@ United States Department of AgricultureFederal Crop Insurance CorporationCoarse 
 
 (i) On or before the acreage reporting date, you may elect to insure:
 
-(A) One enterprise unit for all FAC or NFAC cropping practices provided you meet the requirements in section 34(a)(4), and basic or optional units for the other cropping practice, whichever you report on your acreage report and qualify for; or
+(A) One enterprise unit for all FAC or NFAC cropping practices provided you meet the requirements in section 34(a)(4), and basic or optional units for the other cropping practice, whichever you report on your acreage report and qualify for;
 
 (B) One enterprise unit for all acreage of the crop in the county provided you meet the requirements in section 34(a)(4); or
 
-(C) Basic or optional units for all acreage of the crop in the county, whichever you report on your acreage report and qualify for;
+(C) Basic or optional units for all acreage of the crop in the county, whichever you report on your acreage report and qualify for; or
 
 (ii) At any time after the acreage reporting date, your unit structure will be one enterprise unit for all acreage of the crop in the county provided you meet the requirements in section 34(a)(4). Otherwise, we will assign the basic unit structure.
 
@@ -131,7 +131,7 @@ In addition to the provisions of section 9 of the Basic Provisions, any acreage 
 In accordance with the provisions of section 11 of the Basic Provisions, unless otherwise specified in the actuarial documents, the calendar date for the end of the insurance period is the date immediately following planting as follows:
 
 |                                                                                      (a) For corn insured as grain:                                                                                       |             |
-|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------|
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
 |                          (1) Val Verde, Edwards, Kerr, Kendall, Bexar, Wilson, Karnes, Goliad, Victoria, and Jackson Counties, Texas, and all Texas counties lying south thereof                          |September 30.|
 |                        (2) Clark, Cowlitz, Grays Harbor, Island, Jefferson, King, Kitsap, Lewis, Pierce, Skagit, Snohomish, Thurston, Wahkiakum, and Whatcom Counties, Washington                         | October 31. |
 |                                                                                     (3) All other counties and states                                                                                     |December 10. |
