@@ -1,5 +1,7 @@
 ##### § 679.40 Sablefish and halibut QS. #####
 
+Link to an amendment published at 83 FR 47831, Sept. 21, 2018.
+
 The Regional Administrator shall annually divide the annual commercial fishing catch limit of halibut as defined in § 300.61 of this title and published in the Federal Register pursuant to § 300.62 of this title, among qualified halibut quota share holders. The Regional Administrator shall annually divide the TAC of sablefish that is apportioned to the fixed gear fishery pursuant to § 679.20, minus the CDQ reserve, among qualified sablefish quota share holders.
 
 (a) *Initial allocation of QS* - (1) *General.* The Regional Administrator shall initially assign to qualified persons, on or after October 18, 1994, halibut and sablefish fixed gear fishery QS that are specific to IFQ regulatory areas and vessel categories. QS will be assigned as a block in the appropriate IFQ regulatory area and vessel category, if that QS would have resulted in an allocation of less than 20,000 lb (9 mt) of IFQ for halibut or sablefish based on the 1994 TAC for fixed gear in those fisheries for specific IFQ regulatory areas and the QS pools of those fisheries for specific IFQ regulatory areas as of October 17, 1994.

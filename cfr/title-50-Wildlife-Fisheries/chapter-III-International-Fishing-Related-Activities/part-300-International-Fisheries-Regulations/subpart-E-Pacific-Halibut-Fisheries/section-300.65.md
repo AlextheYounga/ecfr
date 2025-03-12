@@ -1,5 +1,7 @@
 ##### § 300.65 Catch sharing plan and domestic management measures in waters in and off Alaska. #####
 
+Link to an amendment published at 83 FR 47829, Sept. 21, 2018.
+
 (a) A catch sharing plan (CSP) may be developed by the North Pacific Fishery Management Council and approved by NMFS for portions of the fishery. Any approved CSP may be obtained from the Administrator, Alaska Region, NMFS.
 
 (b) The catch sharing plan for Commission regulatory area 4 allocates the annual commercial catch limit among Areas 4C, 4D, and 4E and will be adopted by the Commission as annual management measures and published in the Federal Register as required in § 300.62.

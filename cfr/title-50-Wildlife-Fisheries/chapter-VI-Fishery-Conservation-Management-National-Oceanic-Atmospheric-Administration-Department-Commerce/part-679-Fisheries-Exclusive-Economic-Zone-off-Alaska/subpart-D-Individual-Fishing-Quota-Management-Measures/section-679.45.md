@@ -1,5 +1,7 @@
 ##### § 679.45 IFQ cost recovery program. #####
 
+Link to an amendment published at 83 FR 47833, Sept. 21, 2018.
+
 (a) *Cost recovery fees* - (1) *Responsibility.* An IFQ permit holder is responsible for cost recovery fees for landings of his or her IFQ halibut and sablefish, including any halibut landed as guided angler fish (GAF), as defined in § 300.61 of this title, derived from his or her IFQ accounts. An IFQ permit holder must comply with the requirements of this section.
 
 (2) *IFQ Fee Liability Determination* - (i) *General.* IFQ fee liability means a cost recovery liability based on the value of all landed IFQ and GAF derived from the permit holder's IFQ permit(s).

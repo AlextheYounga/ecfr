@@ -1,5 +1,7 @@
 ##### § 1653.5 Payment. #####
 
+Link to an amendment published at 83 FR 47547, Sept. 20, 2018.
+
 (a) *Payment date.* Payment pursuant to a qualifying retirement benefits court order will generally be made:
 
 (1) 60 days after the date of the TSP decision letter when the payee is the current or former spouse of the participant. The payee can request to receive the payment sooner than 60 days, but in no event earlier than 30 days after the date of the TSP decision letter, if:

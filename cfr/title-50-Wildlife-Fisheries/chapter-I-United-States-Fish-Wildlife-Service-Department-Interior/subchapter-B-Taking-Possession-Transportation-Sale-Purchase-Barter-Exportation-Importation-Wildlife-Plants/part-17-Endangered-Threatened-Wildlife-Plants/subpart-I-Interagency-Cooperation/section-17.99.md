@@ -12089,7 +12089,7 @@ Nihoa 4 - *Sesbania tomentosa,* and Necker 1 - *Sesbania tomentosa,* identified 
 
 (2) Elevations between sea level and 84 m (0 and 276 ft).
 
-Editorial Note:The remainder of § 17.99 appears in 50 Part 17, § 17.99(i)-end of part 17.Link to an amendment published at 83 FR 42424, Aug. 21, 2018.
+Editorial Note:The remainder of § 17.99 appears in 50 Part 17, § 17.99(i)-end of part 17.
 
 (i) *Oahu.* Critical habitat units are described below. Maps were created in GIS, with coordinates in UTM Zone 4 with units in meters using North American Datum of 1983 (NAD83). The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's Internet site, *http://www.fws.gov/pacificislands*; at *http://www.regulations.gov* at Docket No. FWS-R1-ES-2010-0043; and at the field office responsible for the designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2. Existing manmade features and structures, such as buildings, roads, railroads, airports, runways, other paved areas, lawns, and other urban landscaped areas, existing trails, campgrounds and their immediate surrounding landscaped area, scenic lookouts, remote helicopter landing sites, and existing fences are not included in the critical habitat designation. Federal actions limited to those areas, therefore, would not trigger a consultation under section 7 of the Act unless they may affect the species or physical or biological features in adjacent critical habitat.
 
@@ -17789,11 +17789,11 @@ Oahu - Lowland Dry - Unit 6 and Oahu - Lowland Dry - Unit 7, identified in the l
 
 (vi) Understory: *Alyxia, Artemisia, Bidens, Chenopodium, Nephrolepis, Peperomia, Sicyos.*
 
-(k) *Maps and critical habitat unit descriptions for the island of Hawaii, HI.* The following sections contain the legal descriptions of the critical habitat units designated for the island of Hawaii. Existing manmade features and structures within the boundaries of the mapped unit, such as buildings, roads, aqueducts and other water system features (including but not limited to pumping stations, irrigation ditches, pipelines, siphons, tunnels, water tanks, gaging stations, intakes, reservoirs, diversions, flumes, and wells; existing trails), campgrounds and their immediate surrounding landscaped area, scenic lookouts, remote helicopter landing sites, existing fences, telecommunications towers and associated structures and equipment, electrical power transmission lines and distribution and communication facilities and regularly maintained associated rights-of-way and access ways, radars, telemetry antennas, missile launch sites, arboreta and gardens, heiau (indigenous places of worship or shrines) and other archaeological sites, airports, other paved areas, and lawns and other rural residential landscaped areas do not contain the primary constituent elements described for each species in paragraph (l) of this section and therefore are not included in the critical habitat designations. Coordinates are in UTM Zone 5 with units in meters using North American Datum of 1983 (NAD83). The following map shows the general locations of the 99 critical habitat units designated on the island of Hawaii.
+(k) *Maps and critical habitat unit descriptions for the island of Hawaii, HI.* Critical habitat units are described below. Coordinates are in UTM Zone 4 with units in meters using North American Datum of 1983 (NAD83). The following map shows the general locations of the critical habitat units designated on the island of Hawaii. Existing manmade features and structures, such as buildings, roads, railroads, airports, runways, utility facilities and infrastructure and their designated and maintained rights-of-way, other paved areas, lawns, and other urban landscaped areas are not included in the critical habitat designation. Federal actions limited to those areas, therefore, would not trigger a consultation under section 7 of the Act unless they may affect the species or physical or biological features in adjacent critical habitat.
 
-(1) Note: Map 1 - Index map follows:
+(1)*Note:* Map 1, Index map, follows:
 
-![](/graphics/er02jy03.001.gif)(2) Hawaii 1 - *Clermontia lindseyana* - a (1,337 ha, 3,303 ac)
+![](/graphics/er21au18.000.gif)(2) Hawaii 1 - *Clermontia lindseyana* - a (1,337 ha, 3,303 ac)
 
 (i) [Reserved]
 
@@ -18031,31 +18031,39 @@ Oahu - Lowland Dry - Unit 6 and Oahu - Lowland Dry - Unit 7, identified in the l
 
 (ii) Map 39 follows:
 
-![](/graphics/er02jy03.039.gif)(40) Hawaii 10 - *Bonamia menziesii* - a (163 ha, 402 ac)
+![](/graphics/er02jy03.039.gif)
+
+(40) Hawaii 10 - *Bidens micrantha* ssp. *ctenophylla* - a (1,179 ha; 2,914 ac).
+
+(i) This unit is also critical habitat for Hawaii 10 - *Isodendrion pyrifolium* - a and Hawaii 10 - *Mezoneuron kavaiense* - a (see paragraphs (k)(46) and (47), respectively, of this section).
+
+(ii) *Note:* Map 39a follows:
+
+![](/graphics/er21au18.001.gif)(41) Hawaii 10 - *Bonamia menziesii* - a (163 ha, 402 ac)
 
 (i) [Reserved]
 
 (ii) Map 40 follows:
 
-![](/graphics/er02jy03.040.gif)(41) Hawaii 10 - *Colubrina oppositifolia* - a (1,918 ha, 4,740 ac)
+![](/graphics/er02jy03.040.gif)(42) Hawaii 10 - *Colubrina oppositifolia* - a (1,918 ha, 4,740 ac)
 
 (i) [Reserved]
 
 (ii) Map 41 follows:
 
-![](/graphics/er02jy03.041.gif)(42) Hawaii 10 - *Delissea undulata* - a (92 ha, 227 ac)
+![](/graphics/er02jy03.041.gif)(43) Hawaii 10 - *Delissea undulata* - a (92 ha, 227 ac)
 
 (i) [Reserved]
 
 (ii) Map 42 follows:
 
-![](/graphics/er02jy03.042.gif)(43) Hawaii 10 - *Delissea undulata* - b (379 ha, 938 ac)
+![](/graphics/er02jy03.042.gif)(44) Hawaii 10 - *Delissea undulata* - b (379 ha, 938 ac)
 
 (i) [Reserved]
 
 (ii) Map 43 follows:
 
-![](/graphics/er02jy03.043.gif)(44) Hawaii 10 - *Hibiscadelphus hualalaiensis* - a (3,979 ha, 9,831 ac)
+![](/graphics/er02jy03.043.gif)(45) Hawaii 10 - *Hibiscadelphus hualalaiensis* - a (3,979 ha, 9,831 ac)
 
 (i) [Reserved]
 
@@ -18063,49 +18071,55 @@ Oahu - Lowland Dry - Unit 6 and Oahu - Lowland Dry - Unit 7, identified in the l
 
 (iii) Map 44 follows:
 
-![](/graphics/er02jy03.044.gif)(45) Hawaii 10 - *Hibiscus brackenridgei* - a (196 ha, 485 ac)
+![](/graphics/er02jy03.044.gif)
+
+(46) Hawaii 10 - *Isodendrion pyrifolium* - a (1,179 ha; 2,914 ac). See paragraph (k)(40)(ii) of this section for the map of this unit.
+
+(47) Hawaii 10 - *Mezoneuron kavaiense* - a (1,179 ha; 2,914 ac). See paragraph (k)(40)(ii) of this section for the map of this unit.
+
+(48) Hawaii 10 - *Hibiscus brackenridgei* - a (196 ha, 485 ac)
 
 (i) [Reserved]
 
 (ii) Map 45 follows:
 
-![](/graphics/er02jy03.045.gif)(46) Hawaii 10 - *Neraudia ovata* - a (1,859 ha, 4,593 ac)
+![](/graphics/er02jy03.045.gif)(49) Hawaii 10 - *Neraudia ovata* - a (1,859 ha, 4,593 ac)
 
 (i) [Reserved]
 
 (ii) Map 46 follows:
 
-![](/graphics/er02jy03.046.gif)(47) Hawaii 10 - *Nothocestrum breviflorum* - c (3,627 ha, 8,964 ac)
+![](/graphics/er02jy03.046.gif)(50) Hawaii 10 - *Nothocestrum breviflorum* - c (3,627 ha, 8,964 ac)
 
 (i) [Reserved]
 
 (ii) Map 47 follows:
 
-![](/graphics/er02jy03.047.gif)(48) Hawaii 10 - *Pleomele hawaiiensis* - b (1,338 ha, 3,306 ac)
+![](/graphics/er02jy03.047.gif)(51) Hawaii 10 - *Pleomele hawaiiensis* - b (1,338 ha, 3,306 ac)
 
 (i) [Reserved]
 
 (ii) Map 48 follows:
 
-![](/graphics/er02jy03.048.gif)(49) Hawaii 10 - *Solanum incompletum* - a (705 ha, 1,741 ac)
+![](/graphics/er02jy03.048.gif)(52) Hawaii 10 - *Solanum incompletum* - a (705 ha, 1,741 ac)
 
 (i) [Reserved]
 
 (ii) Map 49 follows:
 
-![](/graphics/er02jy03.049.gif)(50) Hawaii 10 - *Zanthoxylum dipetalum* ssp. *tomentosum* - a (1,685 ha, 4,164 ac)
+![](/graphics/er02jy03.049.gif)(53) Hawaii 10 - *Zanthoxylum dipetalum* ssp. *tomentosum* - a (1,685 ha, 4,164 ac)
 
 (i) [Reserved]
 
 (ii) Map 50 follows:
 
-![](/graphics/er02jy03.050.gif)(51) Hawaii 11 - *Cyanea hamatiflora* ssp. *carlsonii* - a (92 ha, 227 ac)
+![](/graphics/er02jy03.050.gif)(54) Hawaii 11 - *Cyanea hamatiflora* ssp. *carlsonii* - a (92 ha, 227 ac)
 
 (i) [Reserved]
 
 (ii) Map 51 follows:
 
-![](/graphics/er02jy03.051.gif)(52) Hawaii 11 - *Solanum incompletum* - b (57 ha, 141 ac)
+![](/graphics/er02jy03.051.gif)(55) Hawaii 11 - *Solanum incompletum* - b (57 ha, 141 ac)
 
 (i) [Reserved]
 
@@ -18113,7 +18127,7 @@ Oahu - Lowland Dry - Unit 6 and Oahu - Lowland Dry - Unit 7, identified in the l
 
 ![](/graphics/er02jy03.052.gif)
 
-(53)-(56) [Reserved]
+(56) [Reserved]
 
 (57) Hawaii 14 - *Cyanea hamatiflora* ssp. *carlsonii* - b (597 ha, 1,475 ac)
 
@@ -18359,9 +18373,9 @@ Oahu - Lowland Dry - Unit 6 and Oahu - Lowland Dry - Unit 7, identified in the l
 
 (i) [Reserved]
 
-(ii) Map 97 follows:
+(ii) *Note:* Map 97 follows:
 
-![](/graphics/er02jy03.093.gif)(98) Hawaii 30 - *Cyanea stictophylla* - d (623 ha, 1,539 ac)
+![](/graphics/er21au18.002.gif)(98) Hawaii 30 - *Cyanea stictophylla* - d (623 ha, 1,539 ac)
 
 (i) [Reserved]
 
@@ -18373,134 +18387,192 @@ Oahu - Lowland Dry - Unit 6 and Oahu - Lowland Dry - Unit 7, identified in the l
 
 (ii) Map 99 follows:
 
-![](/graphics/er02jy03.095.gif)(100) Hawaii 30 - *Phyllostegia racemosa* - c (267 ha, 659 ac)
+![](/graphics/er02jy03.095.gif)(100) Hawaii 30 - *Phyllostegia racemosa* - c (267 ha, 659 ac).
 
-(i) Unit consists of the following 10 boundary points: Start at 255001, 2163655; 256020, 2163968; 257634, 2163912; 257384, 2163319; 257871, 2163010; 257756, 2162804; 256542, 2162680; 256379, 2162447; 256238, 2162463; 256081, 2162615; return to starting point.
+(i) [Reserved]
 
-(ii) Note: Map 100 follows:
+(ii) *Note:* Map 100 follows:
 
-![](/graphics/er02jy03.096.gif)(101) Hawaii 30 - *Phyllostegia velutina* - b (1,180 ha, 2,916 ac)
+![](/graphics/er21au18.003.gif)(101) Hawaii 30 - *Phyllostegia velutina* - b (1,180 ha, 2,916 ac).
 
-(i) Unit consists of the following 25 boundary points: Start at 255001, 2163655; 256020, 2163968; 257556, 2163812; 257342, 2163356; 258145, 2162834; 258761, 2162325; 259766, 2162727; 259792, 2162339; 260155, 2161636; 260142, 2160687; 260553, 2160880; 260676, 2160624; 260669, 2159628; 260010, 2158695; 259835, 2158111; 258895, 2159775; 258845, 2159864; 258808, 2159929; 258780, 2159981; 258748, 2160040; 258707, 2160080; 258644, 2160142; 258562, 2160221; 258544, 2160239; 256081, 2162615; return to starting point.
+(i) [Reserved]
 
-(ii) Note: Map 101 follows:
+(ii) *Note:* Map 101 follows:
 
-![](/graphics/er02jy03.097.gif)(102) Hawaii 30 - *Plantago hawaiensis* - c (1,219 ha, 3,012 ac)
+![](/graphics/er21au18.004.gif)(102) Hawaii 30 - *Plantago hawaiensis* - c (1,219 ha, 3,012 ac).
 
-(i) Unit consists of the following 13 boundary points: Start at 254476, 2168522; 254473, 2168510; 254874, 2167383; 256572, 2166997; 257174, 2165685; 257971, 2164620; 258044, 2164337; 257576, 2163925; 256125, 2164018; 255434, 2163788; 255099, 2163685; 254488, 2164250; 253207, 2168032; return to starting point.
+(i) [Reserved]
 
-(ii) Note: Map 102 follows:
+(ii) *Note:* Map 102 follows:
 
-![](/graphics/er02jy03.098.gif)(103) Hawaii 30 - *Sicyos alba* - a (6,266 ha, 15,483 ac)
+![](/graphics/er21au18.005.gif)(103) Hawaii 30 - *Sicyos alba* - a (6,266 ha, 15,483 ac)
 
 (i) [Reserved]
 
 (ii) Map 103 follows:
 
-![](/graphics/er02jy03.099.gif)(104) Table of Protected Species Within Each Critical Habitat Unit for the Island of Hawaii
+![](/graphics/er02jy03.099.gif)
 
-|                      Unit name                      |          Species occupied           |        Species unoccupied        |
-|-----------------------------------------------------|-------------------------------------|----------------------------------|
-|          Hawaii 9 - Achyranthes mutica - a          |                                     |       Achyranthes mutica.        |
-|          Hawaii 9 - Achyranthes mutica - b          |         Achyranthes mutica          |                                  |
-|          Hawaii 9 - Achyranthes mutica - c          |                                     |       Achyranthes mutica.        |
-|          Hawaii 9 - Achyranthes mutica - d          |                                     |       Achyranthes mutica.        |
-|          Hawaii 9 - Achyranthes mutica - e          |                                     |       Achyranthes mutica.        |
-|          Hawaii 9 - Achyranthes mutica - f          |                                     |       Achyranthes mutica.        |
-|          Hawaii 9 - Achyranthes mutica - g          |                                     |       Achyranthes mutica.        |
-|          Hawaii 9 - Achyranthes mutica - h          |                                     |       Achyranthes mutica.        |
-|          Hawaii 9 - Achyranthes mutica - i          |                                     |       Achyranthes mutica.        |
-|          Hawaii 9 - Achyranthes mutica - j          |                                     |       Achyranthes mutica.        |
-|         Hawaii 28 - Adenophorus periens - a         |         Adenophorus periens         |                                  |
-|        Hawaii 10 - Argyroxiphium kauense - a        |                                     |      Argyroxiphium kauense.      |
-|        Hawaii 24 - Argyroxiphium kauense - b        |        Argyroxiphium kauense        |                                  |
-|        Hawaii 25 - Argyroxiphium kauense - c        |        Argyroxiphium kauense        |                                  |
-|        Hawaii 30 - Argyroxiphium kauense - d        |        Argyroxiphium kauense        |                                  |
-| Hawaii 24 - Asplenium peruvianum var. insulare - a  | Asplenium peruvianum var. insulare  |                                  |
-|          Hawaii 10 - Bonamia menziesii - a          |                                     |        Bonamia menziesii.        |
-|       Hawaii 8 - Clermontia drepanomorpha - a       |      Clermontia drepanomorpha       |                                  |
-|        Hawaii 1 - Clermontia lindseyana - a         |        Clermontia lindseyana        |                                  |
-|        Hawaii 2 - Clermontia lindseyana - b         |        Clermontia lindseyana        |                                  |
-|        Hawaii 30 - Clermontia lindseyana - c        |        Clermontia lindseyana        |                                  |
-|          Hawaii 1 - Clermontia peleana - a          |         Clermontia peleana          |                                  |
-|          Hawaii 3 - Clermontia peleana - b          |         Clermontia peleana          |                                  |
-|         Hawaii 29 - Clermontia peleana - c          |         Clermontia peleana          |                                  |
-|         Hawaii 1 - Clermontia pyrularia - a         |                                     |      Clermontia pyrularia.       |
-|         Hawaii 2 - Clermontia pyrularia - b         |        Clermontia pyrularia         |                                  |
-|       Hawaii 10 - Colubrina oppositifolia - a       |       Colubrina oppositifolia       |                                  |
-|       Hawaii 18 - Colubrina oppositifolia - b       |       Colubrina oppositifolia       |                                  |
-|  Hawaii 11 - Cyanea hamatiflora ssp. carlsonii - a  |  Cyanea hamatiflora ssp. carlsonii  |                                  |
-|  Hawaii 14 - Cyanea hamatiflora ssp. carlsonii - b  |                                     |Cyanea hamatiflora ssp. carlsonii.|
-|  Hawaii 15 - Cyanea hamatiflora ssp. carlsonii - c  |                                     |Cyanea hamatiflora ssp. carlsonii.|
-|  Hawaii 16 - Cyanea hamatiflora ssp. carlsonii - d  |  Cyanea hamatiflora ssp. carlsonii  |                                  |
-|          Hawaii 3 - Cyanea platyphylla - a          |         Cyanea platyphylla          |                                  |
-|         Hawaii 29 - Cyanea platyphylla - b          |         Cyanea platyphylla          |                                  |
-|           Hawaii 1 - Cyanea shipmanii - a           |          Cyanea shipmanii           |                                  |
-|          Hawaii 30 - Cyanea shipmanii - b           |          Cyanea shipmanii           |                                  |
-|          Hawaii 30 - Cyanea shipmanii - c           |                                     |        Cyanea shipmanii.         |
-|         Hawaii 15 - Cyanea stictophylla - a         |         Cyanea stictophylla         |                                  |
-|         Hawaii 16 - Cyanea stictophylla - b         |         Cyanea stictophylla         |                                  |
-|         Hawaii 24 - Cyanea stictophylla - c         |                                     |       Cyanea stictophylla.       |
-|         Hawaii 30 - Cyanea stictophylla - d         |                                     |       Cyanea stictophylla.       |
-|         Hawaii 3 - Cyrtandra giffardii - a          |         Cyrtandra giffardii         |                                  |
-|         Hawaii 29 - Cyrtandra giffardii - b         |                                     |       Cyrtandra giffardii.       |
-|         Hawaii 30 - Cyrtandra giffardii - c         |         Cyrtandra giffardii         |                                  |
-|        Hawaii 3 - Cyrtandra tintinnabula - a        |       Cyrtandra tintinnabula        |                                  |
-|       Hawaii 29 - Cyrtandra tintinnabula - b        |                                     |     Cyrtandra tintinnabula.      |
-|          Hawaii 10 - Delissea undulata - a          |                                     |        Delissea undulata.        |
-|          Hawaii 10 - Delissea undulata - b          |          Delissea undulata          |                                  |
-|        Hawaii 17 - Asplenium dielerectum - a        |       Asplenium dielerectium        |                                  |
-|        Hawaii 18 - Asplenium dielerectum - b        |       Asplenium dielerectium        |                                  |
-|         Hawaii 17 - Flueggea neowawraea - a         |         Flueggea neowawraea         |                                  |
-|         Hawaii 18 - Flueggea neowawraea - b         |         Flueggea neowawraea         |                                  |
-|          Hawaii 18 - Gouania vitifolia - a          |          Gouania vitifolia          |                                  |
-|     Hawaii 26 - Hibiscadelphus giffardianus - a     |     Hibiscadelphus giffardianus     |                                  |
-|    Hawaii 10 - Hibiscadelphus hualalaiensis - a     |    Hibiscadelphus hualalaiensis     |                                  |
-|       Hawaii 10 - Hibiscus brackenridgei - a        |       Hibiscus brackenridgei        |                                  |
-|          Hawaii 21 - Ischaemum byrone - a           |                                     |        Ischaemum byrone.         |
-|          Hawaii 22 - Ischaemum byrone - b           |          Ischaemum byrone           |                                  |
-|         Hawaii 4 - Isodendrion hosakae - a          |                                     |       Isodendrion hosakae.       |
-|         Hawaii 4 - Isodendrion hosakae - b          |                                     |       Isodendrion hosakae.       |
-|         Hawaii 4 - Isodendrion hosakae - c          |                                     |       Isodendrion hosakae.       |
-|         Hawaii 4 - Isodendrion hosakae - d          |                                     |       Isodendrion hosakae.       |
-|         Hawaii 4 - Isodendrion hosakae - e          |                                     |       Isodendrion hosakae.       |
-|         Hawaii 4 - Isodendrion hosakae - f          |         Isodendrion hosakae         |                                  |
-|           Hawaii 19 - Cyperus fauriei - a           |           Cyperus fauriei           |                                  |
-|       Hawaii 24 - Melicope zahlbruckneri - a        |                                     |     Melicope zahlbruckneri.      |
-|       Hawaii 26 - Melicope zahlbruckneri - b        |       Melicope zahlbruckneri        |                                  |
-|           Hawaii 10 - Neraudia ovata - a            |                                     |         Neraudia ovata.          |
-|           Hawaii 18 - Neraudia ovata - d            |           Neraudia ovata            |                                  |
-|       Hawaii 5 - Nothocestrum breviflorum - a       |                                     |    Nothocestrum breviflorum.     |
-|       Hawaii 6 - Nothocestrum breviflorum - b       |      Nothocestrum breviflorum       |                                  |
-|      Hawaii 10 - Nothocestrum breviflorum - c       |      Nothocestrum breviflorum       |                                  |
-|        Hawaii 1 - Phyllostegia racemosa - a         |        Phyllostegia racemosa        |                                  |
-|        Hawaii 2 - Phyllostegia racemosa - b         |        Phyllostegia racemosa        |                                  |
-|        Hawaii 30 - Phyllostegia racemosa - c        |                                     |      Phyllostegia racemosa.      |
-|        Hawaii 24 - Phyllostegia velutina - a        |        Phyllostegia velutina        |                                  |
-|        Hawaii 30 - Phyllostegia velutina - b        |        Phyllostegia velutina        |                                  |
-|       Hawaii 3 - Phyllostegia warshaueri - a        |       Phyllostegia warshaueri       |                                  |
-|       Hawaii 8 - Phyllostegia warshaueri - b        |       Phyllostegia warshaueri       |                                  |
-|         Hawaii 24 - Plantago hawaiensis - a         |         Plantago hawaiensis         |                                  |
-|         Hawaii 25 - Plantago hawaiensis - b         |         Plantago hawaiensis         |                                  |
-|         Hawaii 30 - Plantago hawaiensis - c         |         Plantago hawaiensis         |                                  |
-|         Hawaii 7 - Pleomele hawaiiensis - a         |        Pleomele hawaiiensis         |                                  |
-|        Hawaii 10 - Pleomele hawaiiensis - b         |        Pleomele hawaiiensis         |                                  |
-|        Hawaii 18 - Pleomele hawaiiensis - c         |        Pleomele hawaiiensis         |                                  |
-|        Hawaii 23 - Pleomele hawaiiensis - d         |        Pleomele hawaiiensis         |                                  |
-|        Hawaii 27 - Portulaca sclerocarpa - a        |        Portulaca sclerocarpa        |                                  |
-|         Hawaii 20 - Sesbania tomentosa - a          |         Sesbania tomentosa          |                                  |
-|         Hawaii 23 - Sesbania tomentosa - b          |         Sesbania tomentosa          |                                  |
-|             Hawaii 30 - Sicyos alba - a             |             Sicyos alba             |                                  |
-|         Hawaii 25 - Silene hawaiiensis - a          |         Silene hawaiiensis          |                                  |
-|         Hawaii 27 - Silene hawaiiensis - b          |         Silene hawaiiensis          |                                  |
-|         Hawaii 10 - Solanum incompletum - a         |                                     |       Solanum incompletum.       |
-|         Hawaii 11 - Solanum incompletum - b         |                                     |       Solanum incompletum.       |
-|          Hawaii 4 - Vigna o-wahuensis - a           |                                     |        Vigna o-wahuensis.        |
-|          Hawaii 4 - Vigna o-wahuensis - b           |                                     |        Vigna o-wahuensis.        |
-|          Hawaii 4 - Vigna o-wahuensis - c           |                                     |        Vigna o-wahuensis.        |
-|Hawaii 10 - Zanthoxylum dipetalum ssp. tomentosum - a|Zanthoxylum dipetalum ssp. tomentosum|                                  |
+(104) Hawaii 31 - *Bidens micrantha* ssp. *ctenophylla* - b (2,860 ha; 7,066 ac).
 
-(105) Critical habitat unit descriptions and maps, and a description of primary constituent elements, for Family Malvaceae: *Kokia drynariodes* on the island of Hawaii is provided in 50 CFR 17.96(a).
+(i) This unit is also critical habitat for Hawaii 31 - *Isodendrion pyrifolium* - b and Hawaii 31 - *Mezoneuron kavaiense* - b (see paragraphs (k)(105) and (106), respectively, of this section).
+
+(ii) *Note:* Map 104 follows:
+
+![](/graphics/er21au18.006.gif)
+
+(105) Hawaii 31 - *Isodendrion pyrifolium* - b (2,860 ha; 7,066 ac). See paragraph (k)(104)(ii) of this section for the map of this unit.
+
+(106) Hawaii 31 - *Mezoneuron kavaiense* - b (2,860 ha; 7,066 ac). See paragraph (k)(104)(ii) of this section for the map of this unit.
+
+(107) Hawaii 33 - *Bidens micrantha* ssp. *ctenophylla* - d (400 ha; 989 ac).
+
+(i) This unit is also critical habitat for Hawaii 33-*Isodendrion pyrifolium* - d and Hawaii 33 - *Mezoneuron kavaiense* - d (see paragraphs (k)(108) and (109), respectively, of this section).
+
+(ii) *Note:* Map 105 follows:
+
+![](/graphics/er21au18.007.gif)
+
+(108) Hawaii 33 - *Isodendrion pyrifolium* - d (400 ha; 989 ac). See paragraph (k)(107)(ii) of this section for the map of this unit.
+
+(109) Hawaii 33 - *Mezoneuron kavaiense* - d (400 ha; 989 ac). See paragraph (k)(107)(ii) of this section for the map of this unit.
+
+(110) Hawaii 34 - *Bidens micrantha* ssp. *ctenophylla* - e (371 ha; 917 ac).
+
+(i) This unit is also critical habitat for Hawaii 34 - *Isodendrion pyrifolium* - e and Hawaii 34 - *Mezoneuron kavaiense* - e (see paragraphs (k)(111) and (112), respectively, of this section).
+
+(ii) See paragraph (k)(107)(ii) of this section for the map of this unit.
+
+(111) Hawaii 34 - *Isodendrion pyrifolium* - e (371 ha; 917 ac). See paragraph (k)(107)(ii) of this section for the map of this unit.
+
+(112) Hawaii 34 - *Mezoneuron kavaiense* - e (371 ha; 917 ac). See paragraph (k)(107)(ii) of this section for the map of this unit.
+
+(113) Hawaii 36 - *Bidens micrantha* ssp. *ctenophylla* - g (163 ha; 402 ac).
+
+(i) This unit is also critical habitat for Hawaii 36 - *Isodendrion pyrifolium* - g (see paragraph (k)(114) of this section).
+
+(ii) See paragraph (k)(107)(ii) of this section for the map of this unit.
+
+(114) Hawaii 36 - *Isodendrion pyrifolium* - g (163 ha; 402 ac). See paragraph (k)(107)(ii) of this section for the map of this unit.
+
+(115) Table of Protected Species Within Each Critical Habitat Unit for the Island of Hawaii.
+
+|                      Unit name                      |          Species occupied           |          Species unoccupied          |
+|-----------------------------------------------------|-------------------------------------|--------------------------------------|
+|        Hawaii 1 - Clermontia lindseyana - a         |        Clermontia lindseyana        |        Clermontia lindseyana.        |
+|          Hawaii 1 - Clermontia peleana - a          |         Clermontia peleana          |         Clermontia peleana.          |
+|         Hawaii 1 - Clermontia pyrularia - a         |                                     |        Clermontia pyrularia.         |
+|           Hawaii 1 - Cyanea shipmanii - a           |          Cyanea shipmanii           |          Cyanea shipmanii.           |
+|        Hawaii 1 - Phyllostegia racemosa - a         |        Phyllostegia racemosa        |        Phyllostegia racemosa.        |
+|        Hawaii 2 - Clermontia lindseyana - b         |        Clermontia lindseyana        |        Clermontia lindseyana.        |
+|         Hawaii 2 - Clermontia pyrularia - b         |        Clermontia pyrularia         |        Clermontia pyrularia.         |
+|        Hawaii 2 - Phyllostegia racemosa - b         |        Phyllostegia racemosa        |        Phyllostegia racemosa.        |
+|          Hawaii 3 - Clermontia peleana - b          |         Clermontia peleana          |         Clermontia peleana.          |
+|          Hawaii 3 - Cyanea platyphylla - a          |         Cyanea platyphylla          |         Cyanea platyphylla.          |
+|         Hawaii 3 - Cyrtandra giffardii - a          |         Cyrtandra giffardii         |         Cyrtandra giffardii.         |
+|        Hawaii 3 - Cyrtandra tintinnabula - a        |       Cyrtandra tintinnabula        |       Cyrtandra tintinnabula.        |
+|       Hawaii 3 - Phyllostegia warshaueri - a        |       Phyllostegia warshaueri       |       Phyllostegia warshaueri.       |
+|         Hawaii 4 - Isodendrion hosakae - a          |                                     |         Isodendrion hosakae.         |
+|         Hawaii 4 - Isodendrion hosakae - b          |                                     |         Isodendrion hosakae.         |
+|         Hawaii 4 - Isodendrion hosakae - c          |                                     |         Isodendrion hosakae.         |
+|         Hawaii 4 - Isodendrion hosakae - d          |                                     |         Isodendrion hosakae.         |
+|         Hawaii 4 - Isodendrion hosakae - e          |                                     |         Isodendrion hosakae.         |
+|         Hawaii 4 - Isodendrion hosakae - f          |         Isodendrion hosakae         |         Isodendrion hosakae.         |
+|          Hawaii 4 - Vigna o-wahuensis - a           |                                     |          Vigna o-wahuensis.          |
+|          Hawaii 4 - Vigna o-wahuensis - b           |                                     |          Vigna o-wahuensis.          |
+|          Hawaii 4 - Vigna o-wahuensis - c           |                                     |          Vigna o-wahuensis.          |
+|       Hawaii 5 - Nothocestrum breviflorum - a       |                                     |      Nothocestrum breviflorum.       |
+|       Hawaii 6 - Nothocestrum breviflorum - b       |      Nothocestrum breviflorum       |      Nothocestrum breviflorum.       |
+|         Hawaii 7 - Pleomele hawaiiensis - a         |        Pleomele hawaiiensis         |        Pleomele hawaiiensis.         |
+|       Hawaii 8 - Clermontia drepanomorpha - a       |      Clermontia drepanomorpha       |      Clermontia drepanomorpha.       |
+|       Hawaii 8 - Phyllostegia warshaueri - b        |       Phyllostegia warshaueri       |       Phyllostegia warshaueri.       |
+|          Hawaii 9 - Achyranthes mutica - a          |                                     |         Achyranthes mutica.          |
+|          Hawaii 9 - Achyranthes mutica - b          |         Achyranthes mutica          |         Achyranthes mutica.          |
+|          Hawaii 9 - Achyranthes mutica - c          |                                     |         Achyranthes mutica.          |
+|          Hawaii 9 - Achyranthes mutica - d          |                                     |         Achyranthes mutica.          |
+|          Hawaii 9 - Achyranthes mutica - e          |                                     |         Achyranthes mutica.          |
+|          Hawaii 9 - Achyranthes mutica - f          |                                     |         Achyranthes mutica.          |
+|          Hawaii 9 - Achyranthes mutica - g          |                                     |         Achyranthes mutica.          |
+|          Hawaii 9 - Achyranthes mutica - h          |                                     |         Achyranthes mutica.          |
+|          Hawaii 9 - Achyranthes mutica - i          |                                     |         Achyranthes mutica.          |
+|          Hawaii 9 - Achyranthes mutica - j          |                                     |         Achyranthes mutica.          |
+|        Hawaii 10 - Argyroxiphium kauense - a        |                                     |        Argyroxiphium kauense.        |
+|  Hawaii 10 - Bidens micrantha ssp. ctenophylla - a  |                                     |  Bidens micrantha ssp. ctenophylla.  |
+|          Hawaii 10 - Bonamia menziesii - a          |                                     |          Bonamia menziesii.          |
+|       Hawaii 10 - Colubrina oppositifolia - a       |       Colubrina oppositifolia       |       Colubrina oppositifolia.       |
+|          Hawaii 10 - Delissea undulata - a          |                                     |          Delissea undulata.          |
+|          Hawaii 10 - Delissea undulata - b          |          Delissea undulata          |          Delissea undulata.          |
+|    Hawaii 10 - Hibiscadelphus hualalaiensis - a     |    Hibiscadelphus hualalaiensis     |    Hibiscadelphus hualalaiensis.     |
+|       Hawaii 10 - Hibiscus brackenridgei - a        |       Hibiscus brackenridgei        |       Hibiscus brackenridgei.        |
+|       Hawaii 10 - Isodendrion pyrifolium - a        |                                     |       Isodendrion pyrifolium.        |
+|        Hawaii 10 - Mezoneuron kavaiense - a         |        Mezoneuron kavaiense         |        Mezoneuron kavaiense.         |
+|           Hawaii 10 - Neraudia ovata - a            |                                     |           Neraudia ovata.            |
+|      Hawaii 10 - Nothocestrum breviflorum - c       |      Nothocestrum breviflorum       |      Nothocestrum breviflorum.       |
+|        Hawaii 10 - Pleomele hawaiiensis - b         |        Pleomele hawaiiensis         |        Pleomele hawaiiensis.         |
+|         Hawaii 10 - Solanum incompletum - a         |                                     |         Solanum incompletum.         |
+|Hawaii 10 - Zanthoxylum dipetalum ssp. tomentosum - a|Zanthoxylum dipetalum ssp. tomentosum|Zanthoxylum dipetalum ssp. tomentosum.|
+|  Hawaii 11 - Cyanea hamatiflora ssp. carlsonii - a  |  Cyanea hamatiflora ssp. carlsonii  |  Cyanea hamatiflora ssp. carlsonii.  |
+|         Hawaii 11 - Solanum incompletum - b         |                                     |         Solanum incompletum.         |
+|  Hawaii 14 - Cyanea hamatiflora ssp. carlsonii - b  |                                     |  Cyanea hamatiflora ssp. carlsonii.  |
+|  Hawaii 15 - Cyanea hamatiflora ssp. carlsonii - c  |                                     |  Cyanea hamatiflora ssp. carlsonii.  |
+|         Hawaii 15 - Cyanea stictophylla - a         |         Cyanea stictophylla         |         Cyanea stictophylla.         |
+|  Hawaii 16 - Cyanea hamatiflora ssp. carlsonii - d  |  Cyanea hamatiflora ssp. carlsonii  |  Cyanea hamatiflora ssp. carlsonii.  |
+|         Hawaii 16 - Cyanea stictophylla - b         |         Cyanea stictophylla         |         Cyanea stictophylla.         |
+|           Hawaii 17 - Diellia erecta - a            |           Diellia erecta            |           Diellia erecta.            |
+|         Hawaii 17 - Flueggea neowawraea - a         |         Flueggea neowawraea         |         Flueggea neowawraea.         |
+|       Hawaii 18 - Colubrina oppositifolia - b       |       Colubrina oppositifolia       |       Colubrina oppositifolia.       |
+|           Hawaii 18 - Diellia erecta - b            |           Diellia erecta            |           Diellia erecta.            |
+|         Hawaii 18 - Flueggea neowawraea - b         |         Flueggea neowawraea         |         Flueggea neowawraea.         |
+|          Hawaii 18 - Gouania vitifolia - a          |          Gouania vitifolia          |          Gouania vitifolia.          |
+|           Hawaii 18 - Neraudia ovata - d            |           Neraudia ovata            |           Neraudia ovata.            |
+|        Hawaii 18 - Pleomele hawaiiensis - c         |        Pleomele hawaiiensis         |        Pleomele hawaiiensis.         |
+|          Hawaii 19 - Mariscus fauriei - a           |          Mariscus fauriei           |          Mariscus fauriei.           |
+|         Hawaii 20 - Sesbania tomentosa - a          |         Sesbania tomentosa          |         Sesbania tomentosa.          |
+|          Hawaii 21 - Ischaemum byrone - a           |                                     |          Ischaemum byrone.           |
+|          Hawaii 22 - Ischaemum byrone - b           |          Ischaemum byrone           |          Ischaemum byrone.           |
+|        Hawaii 23 - Pleomele hawaiiensis - d         |        Pleomele hawaiiensis         |        Pleomele hawaiiensis.         |
+|         Hawaii 23 - Sesbania tomentosa - b          |         Sesbania tomentosa          |         Sesbania tomentosa.          |
+|        Hawaii 24 - Argyroxiphium kauense - b        |        Argyroxiphium kauense        |        Argyroxiphium kauense.        |
+|   Hawaii 24 - Asplenium fragile var. insulare - a   |   Asplenium fragile var. insulare   |   Asplenium fragile var. insulare.   |
+|         Hawaii 24 - Cyanea stictophylla - c         |                                     |         Cyanea stictophylla.         |
+|       Hawaii 24 - Melicope zahlbruckneri - a        |                                     |       Melicope zahlbruckneri.        |
+|        Hawaii 24 - Phyllostegia velutina - a        |        Phyllostegia velutina        |        Phyllostegia velutina.        |
+|         Hawaii 24 - Plantago hawaiensis - a         |         Plantago hawaiensis         |         Plantago hawaiensis.         |
+|        Hawaii 25 - Argyroxiphium kauense - c        |        Argyroxiphium kauense        |        Argyroxiphium kauense.        |
+|         Hawaii 25 - Plantago hawaiensis - b         |         Plantago hawaiensis         |         Plantago hawaiensis.         |
+|         Hawaii 25 - Silene hawaiiensis - a          |         Silene hawaiiensis          |         Silene hawaiiensis.          |
+|     Hawaii 26 - Hibiscadelphus giffardianus - a     |     Hibiscadelphus giffardianus     |     Hibiscadelphus giffardianus.     |
+|       Hawaii 26 - Melicope zahlbruckneri - b        |       Melicope zahlbruckneri        |       Melicope zahlbruckneri.        |
+|        Hawaii 27 - Portulaca sclerocarpa - a        |        Portulaca sclerocarpa        |        Portulaca sclerocarpa.        |
+|         Hawaii 27 - Silene hawaiiensis - b          |         Silene hawaiiensis          |         Silene hawaiiensis.          |
+|         Hawaii 28 - Adenophorus periens - a         |         Adenophorus periens         |         Adenophorus periens.         |
+|         Hawaii 29 - Clermontia peleana - c          |         Clermontia peleana          |         Clermontia peleana.          |
+|         Hawaii 29 - Cyanea platyphylla - b          |         Cyanea platyphylla          |         Cyanea platyphylla.          |
+|         Hawaii 29 - Cyrtandra giffardii - b         |                                     |         Cyrtandra giffardii.         |
+|       Hawaii 29 - Cyrtandra tintinnabula - b        |                                     |       Cyrtandra tintinnabula.        |
+|        Hawaii 30 - Argyroxiphium kauense - d        |        Argyroxiphium kauense        |        Argyroxiphium kauense.        |
+|        Hawaii 30 - Clermontia lindseyana - c        |        Clermontia lindseyana        |        Clermontia lindseyana.        |
+|          Hawaii 30 - Cyanea shipmanii - b           |          Cyanea shipmanii           |          Cyanea shipmanii.           |
+|          Hawaii 30 - Cyanea shipmanii - c           |                                     |          Cyanea shipmanii.           |
+|         Hawaii 30 - Cyanea stictophylla - d         |                                     |         Cyanea stictophylla.         |
+|         Hawaii 30 - Cyrtandra giffardii - c         |         Cyrtandra giffardii         |         Cyrtandra giffardii.         |
+|        Hawaii 30 - Phyllostegia racemosa - c        |                                     |        Phyllostegia racemosa.        |
+|        Hawaii 30 - Phyllostegia velutina - b        |        Phyllostegia velutina        |        Phyllostegia velutina.        |
+|         Hawaii 30 - Plantago hawaiensis - c         |         Plantago hawaiensis         |         Plantago hawaiensis.         |
+|             Hawaii 30 - Sicyos alba - a             |             Sicyos alba             |             Sicyos alba.             |
+|  Hawaii 31 - Bidens micrantha ssp. ctenophylla - b  |                                     |  Bidens micrantha ssp. ctenophylla.  |
+|       Hawaii 31 - Isodendrion pyrifolium - b        |                                     |       Isodendrion pyrifolium.        |
+|        Hawaii 31 - Mezoneuron kavaiense - b         |        Mezoneuron kavaiense         |        Mezoneuron kavaiense.         |
+|  Hawaii 33 - Bidens micrantha ssp. ctenophylla - d  |                                     |  Bidens micrantha ssp. ctenophylla.  |
+|       Hawaii 33 - Isodendrion pyrifolium - d        |                                     |       Isodendrion pyrifolium.        |
+|        Hawaii 33 - Mezoneuron kavaiense - d         |                                     |        Mezoneuron kavaiense.         |
+|  Hawaii 34 - Bidens micrantha ssp. ctenophylla - e  |                                     |  Bidens micrantha ssp. ctenophylla.  |
+|       Hawaii 34 - Isodendrion pyrifolium - e        |                                     |       Isodendrion pyrifolium.        |
+|        Hawaii 34 - Mezoneuron kavaiense - e         |                                     |        Mezoneuron kavaiense.         |
+|  Hawaii 36 - Bidens micrantha ssp. ctenophylla - g  |  Bidens micrantha ssp. ctenophylla  |  Bidens micrantha ssp. ctenophylla.  |
+|       Hawaii 36 - -Isodendrion pyrifolium - g       |                                     |       Isodendrion pyrifolium.        |
+
+(116) Critical habitat unit descriptions and maps, and a description of primary constituent elements, for Family Malvaceae: *Kokia drynariodes* on the island of Hawaii is provided in 50 CFR 17.96(a).
 
 (l) *Plants on the island of Hawaii; Constituent elements* - (1) *Flowering plants.*
 
@@ -18519,6 +18591,22 @@ Hawaii 10 - *Argyroxiphium kauense* - a, Hawaii 24 - *Argyroxiphium kauense* - b
 (i) Moist, open forest; subalpine mesic shrubland; bogs; and weathered, old pahoehoe (smooth) or aa (rough) lava with well-developed pockets of soil, and containing one or more of the following associated native plant species: *Asplenium peruvianum* var. *insulare, Carex alligata, Carex* sp., *Coprosma ernodeoides, Coprosma montana, Deschampsia nubigena, Dodonaea viscosa, Dubautia ciliolata, Gahnia gahniiformis, Geranium cuneatum, Leptecophylla tameiameiae, Metrosideros polymorpha, Plantago hawaiensis, Rhynchospora chinensis, Silene hawaiiensis,* or *Vaccinium reticulatum;* and
 
 (ii) Elevations between 1,583 and 2,246 m (5,193 and 8,024 ft).
+
+Family Asteraceae: *Bidens micrantha* ssp. *ctenophylla* (KOOKOOLAU)
+
+Hawaii 10 - *Bidens micrantha* ssp. *ctenophylla* - a, Hawaii 31 - *Bidens micrantha* ssp. *ctenophylla* - b, Hawaii 33 - *Bidens micrantha* ssp. *ctenophylla* - d, Hawaii 34 - *Bidens micrantha* ssp. *ctenophylla* - e, and Hawaii 36 - *Bidens micrantha* ssp. *ctenophylla* - g, identified in the legal descriptions in paragraph (k) of this section, constitute critical habitat for *Bidens micrantha* ssp. *ctenophylla* on Hawaii Island. In units Hawaii 10 - *Bidens micrantha* ssp. *ctenophylla* - a, Hawaii 31 - *Bidens micrantha* ssp. *ctenophylla* - b, Hawaii 33 - *Bidens micrantha* ssp. *ctenophylla* - d, Hawaii 34 - *Bidens micrantha* ssp. *ctenophylla* - e, and Hawaii 36 - *Bidens micrantha* ssp. *ctenophylla* - g, the physical and biological features of critical habitat are:
+
+(i) Elevation: Less than 3,300 ft (1,000 m).
+
+(ii) Annual precipitation: Less than 50 in (130 cm).
+
+(iii) Substrate: Weathered silty loams to stony clay, rocky ledges, little-weathered lava.
+
+(iv) Canopy: *Diospyros, Erythrina,**Metrosideros, Myoporum, Pleomele, Santalum, Sapindus.*
+
+(v) Subcanopy: *Chamaesyce, Dodonaea, Osteomeles, Psydrax, Scaevola, Wikstroemia.*
+
+(vi) Understory: *Alyxia, Artemisia, Bidens, Capparis, Chenopodium, Nephrolepis, Peperomia, Sicyos.*
 
 Family Campanulaceae: Clermontia drepanomorpha (oha wai)
 
@@ -18631,6 +18719,22 @@ Hawaii 17 - *Flueggea neowawraea* - a and Hawaii 18 - *Flueggea neowawraea* - b,
 (i) Mesic *Metrosideros polymorpha* forest, containing one or more of the following associated native plant species: *Antidesma platyphyllum, Antidesma pulvinatum, Diospyros sandwicensis, Nephrolepis* spp., *Nestegis sandwicensis, Pipturus albidus, Pisonia* spp., *Pittosporum hosmeri, Psychotria hawaiiensis,* or *Psydrax odorata;* and
 
 (ii) Elevations between 499 and 818 m (1,637 and 2,684 ft).
+
+Family Fabaceae: *Mezoneuron kavaiense* (uhiuhi)
+
+Hawaii 10 - *Mezoneuron kavaiense* - a, Hawaii 31 - *Mezoneuron kavaiense* - b, Hawaii 33 - *Mezoneuron kavaiense* - d, and Hawaii 34 - *Mezoneuron kavaiense* - e, identified in the legal descriptions in paragraph (k) of this section, constitute critical habitat for *Mezoneuron kavaiense* on Hawaii Island. In units Hawaii 10 - *Mezoneuron kavaiense* - a, Hawaii 31 - *Mezoneuron kavaiense* - b, Hawaii 33 - *Mezoneuron kavaiense* - d, and Hawaii 34 - *Mezoneuron kavaiense* - e, the physical and biological features of critical habitat are:
+
+(i) Elevation: Less than 3,300 ft (1,000 m).
+
+(ii) Annual precipitation: Less than 50 in (130 cm).
+
+(iii) Substrate: Weathered silty loams to stony clay, rocky ledges, little-weathered lava.
+
+(iv) Canopy: *Diospyros, Erythrina,**Metrosideros, Myoporum, Pleomele, Santalum, Sapindus.*
+
+(v) Subcanopy: *Chamaesyce, Dodonaea, Osteomeles, Psydrax, Scaevola, Wikstroemia.*
+
+(vi) Understory: *Alyxia, Artemisia, Bidens, Capparis, Chenopodium, Nephrolepis, Peperomia, Sicyos.*
 
 Family Fabaceae: Sesbania tomentosa (ohai)
 
@@ -18808,15 +18912,21 @@ Hawaii 4 - *Isodendrion hosakae* - a, Hawaii 4 - *Isodendrion hosakae* - b, Hawa
 
 (ii) Elevations between 717 and 1,242 m (2,352 and 4,074 ft).
 
-Family Violaceae: Isodendrion pyrifolium (wahine noho kula)
+Family Violaceae: *Isodendrion pyrifolium* (WAHINE NOHO KULA)
 
-Hawaii 12 - *Isodendrion pyrifolium* - a and Hawaii 13 - *Isodendrion pyrifolium* - b, identified in the legal descriptions in paragraph (k) of this section, constitute critical habitat for *Isodendrion pyrifolium* on Hawaii. Within these unit, the currently known primary constituent elements of critical habitat include, but are not limited to, the habitat components provided by:
+Hawaii 10 - *Isodendrion pyrifolium* - a, Hawaii 31 - *Isodendrion pyrifolium* - b, Hawaii 33 - -*Isodendrion pyrifolium* - d, Hawaii 34 - *Isodendrion pyrifolium* - e, and Hawaii 36 - *Isodendrion pyrifolium* - g, identified in the legal descriptions in paragraph (k) of this section, constitute critical habitat for *Isodendrion pyrfolium* on Hawaii Island. In units Hawaii 10 - *Isodendrion pyrifolium* - a, Hawaii 31 - *Isodendrion pyrifolium* - b, Hawaii 33 - -*Isodendrion pyrifolium* - d, Hawaii 34 - *Isodendrion pyrifolium* - e, and Hawaii 36 - *Isodendrion pyrifolium* - g, the physical and biological features of critical habitat are:
 
-(i) Lowland dry forests containing one or more of the following native plant species: *Myoporum sandwicense, Psydrax odorata, Sida fallax, Sophora chrysophylla,* or *Waltheria indica;* and
+(i) Elevation: Less than 3,300 ft (1,000 m).
 
-(ii) Elevations between 29 and 128 m (94 and 420 ft).
+(ii) Annual precipitation: Less than 50 in (130 cm).
 
-(2) *Ferns and allies.*
+(iii) Substrate: Weathered silty loams to stony clay, rocky ledges, little-weathered lava.
+
+(iv) Canopy: *Diospyros, Erythrina,**Metrosideros, Myoporum, Pleomele, Santalum, Sapindus.*
+
+(v) Subcanopy: *Chamaesyce, Dodonaea, Osteomeles, Psydrax, Scaevola, Wikstroemia.*
+
+(vi) Understory: *Alyxia, Artemisia, Bidens, Capparis, Chenopodium, Nephrolepis, Peperomia, Sicyos.*
 
 Family Aspleniaceae: Asplenium peruvianum var. insulare (NCN)
 
@@ -18827,7 +18937,6 @@ Hawaii 24 - *Asplenium peruvianum* var. *insulare* - a, identified in the legal 
 (ii) Elevations between 1,313 and 2,194 m (4,306 and 7,198 ft).
 
 Family Aspleniaceae: Diellia erecta (asplenium-leaved diellia)
-you've got 3 *s and 1*
 
 Hawaii 17 - *Asplenium dielerectum - a* and Hawaii 18 - *Asplenium dielerectum - b*, identified in the legal descriptions in paragraph (k) of this section, constitute critical habitat for *Asplenium dielerectum* on Hawaii. Within these units, the currently known primary constituent elements of critical habitat include, but are not limited to, the habitat components provided by:
 

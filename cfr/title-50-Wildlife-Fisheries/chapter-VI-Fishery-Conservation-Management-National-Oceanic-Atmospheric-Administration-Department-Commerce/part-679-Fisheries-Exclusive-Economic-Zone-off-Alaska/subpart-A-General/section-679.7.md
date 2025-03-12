@@ -1,5 +1,7 @@
 ##### § 679.7 Prohibitions. #####
 
+Link to an amendment published at 83 FR 47831, Sept. 21, 2018.
+
 In addition to the general prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to do any of the following:
 
 (a) *Groundfish of the GOA and BSAI* - (1) *Federal Fisheries Permit (FFP).* (i) Fish for groundfish in the BSAI or GOA with a vessel of the United States that does not have on board a legible copy of a valid FFP issued under § 679.4.
