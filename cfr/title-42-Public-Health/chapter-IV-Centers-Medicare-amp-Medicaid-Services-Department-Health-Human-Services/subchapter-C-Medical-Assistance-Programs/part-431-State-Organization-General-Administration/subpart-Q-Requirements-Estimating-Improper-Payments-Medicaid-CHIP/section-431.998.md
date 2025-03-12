@@ -1,37 +1,25 @@
 ##### § 431.998 Difference resolution and appeal process. #####
 
-Link to an amendment published at 82 FR 31187, July 5, 2017.
+##### § 431.998 Difference resolution and appeal process. #####
 
-(a) The State may file, in writing, a request with the Federal contractor to resolve differences in the Federal contractor's findings based on medical or data processing reviews on FFS and managed care claims in Medicaid or CHIP within 20 business days after the disposition report of claims review findings is posted on the contractor's Web site. The State must complete all of the following:
+(a) The State may file, in writing, a request with the relevant Federal contractor to resolve differences in the Federal contractor's findings based on medical, data processing, or eligibility reviews in Medicaid or CHIP.
 
-(1) Have a factual basis for filing the difference.
+(b) The State must file requests to resolve differences based on the medical, data processing, or eligibility reviews within 25 business days after the report of review findings is shared with the State.
 
-(2) Provide the Federal contractor with valid evidence directly related to the error finding to support the State's position that the claim was properly paid.
+(c) To file a difference resolution request, the State must be able to demonstrate all of the following:
 
-(b) For a claim in which the State and the Federal contractor cannot resolve the difference in findings, the State may appeal to CMS for final resolution, filing the appeal within 10 business days from the date the contractor's finding as a result of the difference resolution is posted on the contractor's Web site. There is no minimum dollar threshold required to appeal a difference in findings.
+(1) Have a factual basis for filing the request.
 
-(c) For eligibility error determinations made by the agency with personnel functionally and physically separate from the State Medicaid and CHIP agencies with personnel that are responsible for Medicaid and CHIP policy and operations, the State may appeal error determinations by filing an appeal request.
+(2) Provide the appropriate Federal contractor with valid evidence directly related to the finding(s) to support the State's position.
 
-(1) *Filing an appeal request.* The State may -
+(d) For a finding in which the State and the Federal contractor cannot resolve the difference in findings, the State may appeal to CMS for final resolution by filing an appeal within 15 business days from the date the relevant Federal contractor's finding as a result of the difference resolution is shared with the State. There is no minimum dollar threshold required to appeal a difference in findings.
 
-(i) File its appeal request with the appropriate State agency or entity; or
+(e) To file an appeal request, the State must be able to demonstrate all of the following:
 
-(ii) If no appeals process is in place at the State level, differences in findings -
+(1) Have a factual basis for filing the request.
 
-(A) Must be documented in writing and submitted directly to the agency responsible for the PERM eligibility review for its consideration;
+(2) Provide CMS with valid evidence directly related to the finding(s) to support the State's position.
 
-(B) May be resolved through document exchange facilitated by CMS, whereby CMS will act as intermediary by receiving the written documentation supporting the State's appeal from the State agency and submitting that documentation to the agency responsible for the PERM eligibility review; or
+(f) All differences, including those pending in CMS for final decision that are not overturned in time for improper payment rate calculation, will be considered as errors in the improper payment rate calculation in order to meet the reporting requirements of the IPIA.
 
-(C) Any unresolved differences may be addressed by CMS between the final month of payment data submission and error rate calculation.
-
-(2) *After the filing of an appeals request.* (i) Any changes in error findings must be reported to CMS by the deadline for submitting final eligibility review findings.
-
-(ii) Any appeals of determinations based on interpretations of Federal policy may be referred to CMS.
-
-(iii) CMS's eligibility error resolution decision is final.
-
-(iv) If CMS's or the State-level appeal board's decision causes an erroneous payment finding to be made, if the final adjudicated claim is actually a payment error in accordance with documented State policies and procedures, any resulting recoveries are governed by § 431.1002 of this subchapter.
-
-(d) All differences, including those pending in CMS for final decision that are not resolved in time to be included in the error rate calculation, will be considered as errors for meeting the reporting requirements of the IPIA. Upon State request, CMS will calculate a subsequent State-specific error rate that reflects any reversed disposition of the unresolved claims.
-
-[71 FR 51081, Aug. 28, 2006, as amended at 75 FR 48851, Aug. 11, 2010]
+[82 FR 31187, July 5, 2017]

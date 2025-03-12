@@ -1,65 +1,74 @@
 ##### § 431.958 Definitions and use of terms. #####
 
-Link to an amendment published at 82 FR 31184, July 5, 2017.
-
-*Active case* means a case containing information on a beneficiary who is enrolled in the Medicaid or CHIP program in the month that eligibility is reviewed.
-
-*Active fraud investigation* means a beneficiary or a provider has been referred to the State Medicaid Fraud Control Unit or similar Federal or State investigative entity including a Federal oversight agency and the unit is currently actively pursuing an investigation to determine whether the beneficiary or the provider committed health care fraud. This definition applies to both the claims and eligibility review for PERM.
-
 *Adjudication date* means either the date on which money was obligated to pay a claim or the date the decision was made to deny a claim.
 
-*Agency* means, for purposes of the PERM eligibility reviews under this part, the entity that performs the Medicaid and CHIP eligibility reviews under PERM and excludes the State Medicaid or CHIP agency as defined in the regulation.
+*Annual sample size* means the number of fee-for-service claims, managed care payments, or eligibility cases that will be sampled for review in a given PERM cycle.
 
-*Annual sample size* means the number of fee-for-service claims, managed care payments, or eligibility cases necessary to meet precision requirements in a given PERM cycle.
-
-*Application* means an application form for Medicaid or CHIP benefits deemed complete by the State, with respect to which such State approved or denied eligibility.
+*Appeals* means a process that allows the State to dispute the PERM Review Contractor and Eligibility Review Contractor findings with CMS after the difference resolution process has been exhausted.
 
 *Beneficiary* means an applicant for, or beneficiary of, Medicaid or CHIP program benefits.
 
-*Case* means an individual beneficiary or family enrolled in Medicaid or CHIP or who has been denied enrollment or has been terminated from Medicaid or CHIP. The case as a sampling unit only applies to the eligibility component.
-
-*Case error rate* means an error rate that reflects the number of cases in error in the eligibility sample for the active cases plus the number of cases in error in the eligibility sample for the negative cases expressed as a percentage of the total number of cases examined in the sample.
-
-*Case record* means either a hardcopy or electronic file that contains information on a beneficiary regarding program eligibility.
-
 *Children's Health Insurance Program (CHIP)* means the program authorized and funded under Title XXI of the Act.
+
+*Corrective action* means actions to be taken by the State to reduce errors or other vulnerabilities for the purpose of reducing improper payments in Medicaid and CHIP.
+
+*Deficiency* means a finding in which a claim or payment had a medical, data processing, and/or eligibility error that did not result in federal and/or state improper payment.
+
+*Difference resolution* means a process that allows the State to dispute the PERM Review Contractor and Eligibility Review Contractor findings directly with the contractor.
+
+*Disallowance* means the percentage of Federal medical assistance funds the State is required to return to CMS in accordance with section 1903(u) of the Act.
 
 *Eligibility* means meeting the State's categorical and financial criteria for receipt of benefits under the Medicaid or CHIP programs.
 
+*Eligibility Review Contractor (ERC)* means the CMS contractor responsible for conducting state eligibility reviews for the PERM Program.
+
+*Federal contractor* means the ERC, RC, or SC which support CMS in executing the requirements of the PERM program.
+
+*Federally Facilitated Exchange (FFE)* means the health insurance exchange established by the Federal government with responsibilities that include making Medicaid and CHIP determinations for states that delegate authority to the FFE.
+
+*Federally Facilitated Exchange—Determination (FFE-D)* means cases determined by the FFE in states that have delegated the authority to make Medicaid/CHIP eligibility determinations to the FFE.
+
+*Federal financial participation* means the Federal Government's share of the State's expenditures under the Medicaid program and CHIP.
+
+*Finding* means errors and/or deficiencies identified through the medical, data processing, and eligibility reviews.
+
 *Improper payment* means any payment that should not have been made or that was made in an incorrect amount (including overpayments and underpayments) under statutory, contractual, administrative, or other legally applicable requirements; and includes any payment to an ineligible beneficiary, any duplicate payment, any payment for services not received, any payment incorrectly denied, and any payment that does not account for credits or applicable discounts.
 
-*Last action* means the most recent date on which the State agency took action to grant, deny, or terminate program benefits based on the State agency's eligibility determination; and is the point in time for the PERM eligibility reviews unless the last action occurred outside of 12 months prior to the sample month.
+*Improper payment rate* means an annual estimate of improper payments made under Medicaid and CHIP equal to the sum of the overpayments and underpayments in the sample, that is, the absolute value of such payments, expressed as a percentage of total payments made in the sample.
+
+*Lower limit* means the lower bound of the 95-percent confidence interval for the State's eligibility improper payment rate.
 
 *Medicaid* means the joint Federal and State program, authorized and funded under Title XIX of the Act, that provides medical care to people with low incomes and limited resources.
 
-*Negative case* means a case containing information on a beneficiary who applied for benefits and was denied or whose program benefits were terminated, based on the State agency's eligibility determination or on a completed redetermination.
-
 *Payment* means any payment to a provider, insurer, or managed care organization for a Medicaid or CHIP beneficiary for which there is Medicaid or CHIP Federal financial participation. It may also mean a direct payment to a Medicaid or CHIP beneficiary in limited circumstances permitted by CMS regulation or policy.
 
-*Payment error rate* means an annual estimate of improper payments made under Medicaid and CHIP equal to the sum of the overpayments and underpayments in the sample, that is, the absolute value of such payments, expressed as a percentage of total payments made in the sample.
-
-*Payment review* means the process by which payments for services are associated with cases reviewed for eligibility. Payments are collected for services received in the review month or in the sample month, depending on the case reviewed.
+*Payment error* means any claim or payment where federal and/or state dollars were paid improperly based on medical, data processing, and/or eligibility reviews.
 
 *PERM* means the Payment Error Rate Measurement process to measure improper payment in Medicaid and CHIP.
+
+*PERM review period* means the timeframe in which claims and eligibility are reviewed for national annual improper payment rate calculation purposes, July through June.
 
 *Provider* means any qualified provider recognized under Medicaid and CHIP statute and regulations.
 
 *Provider error* includes, but is not limited to, medical review errors as described in § 431.960(c) of this subpart, as determined in accordance with documented State or Federal policies or both.
 
-*Review cycle* means the complete timeframe to complete the improper payments measurement including the fiscal year being measured; generally this timeframe begins in October of the fiscal year reviewed and ends in August of the following fiscal year.
+*Recoveries* mean those monies for which the State is responsible to pay back to CMS based on the identification of Federal improper payments.
 
-*Review month* means the month in which eligibility is reviewed and is usually when the State took its last action to grant or redetermine eligibility. If the State's last action was taken beyond 12 months prior to the sample month, the review month shall be the sample month.
+*Review Contractor (RC)* means the CMS contractor responsible for conducting state data processing and medical record reviews for the PERM Program.
 
-*Review year* means the Federal fiscal year being analyzed for errors by Federal contractors or the State.
+*Review year* means the year being analyzed for improper payments under the PERM Program.
 
-*Sample month* means the month the State selects a case from the sample for an eligibility review.
+*State eligibility system* means any system, within the State or with a state-delegated contractor, that is used by the state to determine Medicaid and/or CHIP eligibility and/or that maintains documentation related to Medicaid and/or CHIP eligibility determinations.
 
-*State agency* means the State agency that is responsible for determining program eligibility for Medicaid and CHIP, as applicable, based on applications and redeterminations.
+*State error* includes, but is not limited to, data
+processing errors and eligibility errors as described in § 431.960(b) and (d), as determined in accordance with documented State and Federal policies. State errors do not include the errors described in paragraph § 431.960(e)(2).
 
-*State error* includes, but is not limited to, data processing errors and eligibility errors as described in § 431.960(b) and (d) of this subpart, as determined in accordance with documented State or Federal policies or both.
+*State payment system* means any system within the State or with a state-delegated contractor that is used to adjudicate and pay Medicaid and/or CHIP FFS claims and/or managed care payments.
+
+*State-specific sample size* means the sample size determined by CMS that is required from each individual State to support national improper payment rate precision requirements.
+
+*Statistical Contractor (SC)* means the contractor responsible for collecting and sampling fee-for-service claims and managed care capitation payment data, as well as calculating Medicaid and CHIP state and national improper payment rates.
 
 *States* means the 50 States and the District of Columbia.
 
-*Undetermined* means a beneficiary case subject to a Medicaid or CHIP eligibility determination under this regulation about which a definitive determination of eligibility could not be made.
-
-[71 FR 51081, Aug. 28, 2006, as amended at 75 FR 48847, Aug. 11, 2010]
+[71 FR 51081, Aug. 28, 2006, as amended at 75 FR 48847, Aug. 11, 2010; 82 FR 31184, July 5, 2017]

@@ -1,6 +1,6 @@
 ##### § 9.6 Conduct of the trial. #####
 
-(a) *Pretrial procedures* - (1) Preparation of the Charges. The Prosecution shall prepare charges for approval by the Appointing Authority, as provided in § 9.4(b)(2)(i).
+(a) *Pretrial procedures* - (1) *Preparation of the Charges.* The Prosecution shall prepare charges for approval by the Appointing Authority, as provided in § 9.4(b)(2)(i).
 
 (2) *Referral to the Commission.* The Appointing Authority may approve and refer for trial any charge against an individual or individuals within the jurisdiction of a Commission in accordance with § 9.3(a) and alleging an offense within the jurisdiction of a Commission in accordance with § 9.3(b).
 

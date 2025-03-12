@@ -64,4 +64,4 @@
 
 (ii) Maintain a configuration management process for the CAC and its related components to monitor DoD compliance with FIPS Publication 201-2.
 
-[79 FR 709, Jan. 6, 2014, as amended at 81 FR 74875, Oct. 27, 2016]
+[79 FR 709, Jan. 6, 2014, as amended at 81 FR 74878, Oct. 27, 2016]

@@ -1,7 +1,6 @@
 ##### § 57.6 Procedures. #####
 
-(a) *Procedures for the Provision of EIS for Infants and Toddlers with Disabilities* - (1) *General*.
-
+(a) *Procedures for the Provision of EIS for Infants and Toddlers with Disabilities*—(1) *General*.
 (i) There is an urgent and substantial need to:
 
 (A) Enhance the development of infants and toddlers with disabilities to minimize their potential for developmental delay and to recognize the significant brain development that occurs during a child's first 3 years of life.
@@ -34,7 +33,7 @@
 
 (C) If EDIS determines that an evaluation is not necessary based on screening results, EDIS will provide written notice to the parents in accordance with paragraph (a)(9) of this section.
 
-(3) *Assessment and evaluation* - (i) *Assessments and evaluations.* The assessment and evaluation of each infant and toddler must:
+(3) *Assessment and evaluation*—(i) *Assessments and evaluations.* The assessment and evaluation of each infant and toddler must:
 
 (A) Be conducted by a multidisciplinary team.
 
@@ -282,7 +281,7 @@
 
 (10) *Mediation and due process procedures.* Mediation and due process procedures, described in paragraph (d) of this section, except the requirement to conduct a resolution meeting, are applicable to early intervention when the Military Department concerned and the parents will be the parties in the dispute.
 
-(b) *Procedures for the provision of educational programs and services for children with disabilities, ages 3 through 21 years, inclusive* - (1) *Parent involvement and general provisions.* (i) The CSC shall take reasonable steps to provide for the participation of the parent(s) in the special education program of his or her child. School officials shall use devices or hire interpreters or other intermediaries who might be necessary to foster effective communications between the school and the parent about the child. Special education parental rights and responsibilities will be provided in the parent's native language, unless it is clearly not feasible to do so, e.g., low incidence language or not a written language.
+(b) *Procedures for the provision of educational programs and services for children with disabilities, ages 3 through 21 years, inclusive*—(1) *Parent involvement and general provisions.* (i) The CSC shall take reasonable steps to provide for the participation of the parent(s) in the special education program of his or her child. School officials shall use devices or hire interpreters or other intermediaries who might be necessary to foster effective communications between the school and the parent about the child. Special education parental rights and responsibilities will be provided in the parent's native language, unless it is clearly not feasible to do so, e.g., low incidence language or not a written language.
 
 (ii) The CSC shall afford the child's parents the opportunity to participate in CSC meetings to determine their child's initial or continuing eligibility for special education and related services, to prepare or change the child's IEP, or to determine or change the child's placement.
 
@@ -422,7 +421,7 @@
 
 (D) Observations by teachers and related services providers.
 
-(xi) On the basis of that review and input from the child`s parents, identify what additional data, if any, are needed to determine:
+(xi) On the basis of that review and input from the child's parents, identify what additional data, if any, are needed to determine:
 
 (A) Whether the child has a particular category of disability or, in the case of a reevaluation of a child, whether the child continues to have such a disability.
 
@@ -486,7 +485,7 @@
 
 (*4*) Recommendations on how to assist the child in meeting the child's post-secondary goals.
 
-(8) *IEP* - (i) *IEP development.* (A) DoDEA shall ensure that the CSC develops and implements an IEP to provide FAPE for each child with a disability who requires special education and related services as determined by the CSC. An IEP shall be in effect at the beginning of each school year for each child with a disability eligible for special education and related services under the IDEA and this part.
+(8) *IEP*—(i) *IEP development.* (A) DoDEA shall ensure that the CSC develops and implements an IEP to provide FAPE for each child with a disability who requires special education and related services as determined by the CSC. An IEP shall be in effect at the beginning of each school year for each child with a disability eligible for special education and related services under the IDEA and this part.
 
 (B) In developing the child's IEP, the CSC shall consider:
 
@@ -646,7 +645,7 @@
 
 (ii) Unilaterally limit the type, amount, or duration of ESY services.
 
-(12) *Discipline* - (i) *School discipline.* All regular disciplinary rules and procedures applicable to children attending a DoDEA school shall apply to children with disabilities who violate school rules and regulations or disrupt regular classroom activities, except that:
+(12) *Discipline*—(i) *School discipline.* All regular disciplinary rules and procedures applicable to children attending a DoDEA school shall apply to children with disabilities who violate school rules and regulations or disrupt regular classroom activities, except that:
 
 (A) A manifestation determination must be conducted for discipline proposed for children with disabilities in accordance with DoDEA disciplinary rules and regulations and paragraph (b)(12)(v) of this section, and
 
@@ -772,7 +771,7 @@
 
 (v) If the child is determined to be a child with a disability, taking into consideration information from the evaluation conducted by the agency and information provided by the parents, the school must provide special education and related services in accordance with an IEP.
 
-(14) *Referral to and action by law enforcement and judicial authorities* - (i) *Rule of construction.* Nothing prohibits a school from reporting a crime threatened or committed by a child with a disability to appropriate authorities, or prevents military, host-nation, or State law enforcement and judicial authorities from exercising their responsibilities with regard to the application of Federal, host-nation, and State law to crimes committed or threatened by a child with a disability.
+(14) *Referral to and action by law enforcement and judicial authorities*—(i) *Rule of construction.* Nothing prohibits a school from reporting a crime threatened or committed by a child with a disability to appropriate authorities, or prevents military, host-nation, or State law enforcement and judicial authorities from exercising their responsibilities with regard to the application of Federal, host-nation, and State law to crimes committed or threatened by a child with a disability.
 
 (ii) *Transmittal of records.* An agency reporting a crime in accordance with this paragraph may transmit copies of the child's special education and disciplinary records only to the extent that the transmission is in accordance with 32 CFR part 285.
 
@@ -816,7 +815,7 @@
 
 (16) *Confidentiality of the records.* The DoDEA school and EDIS officials shall maintain all student records in accordance with 32 CFR part 310.
 
-(17) *Parental consent* - (i) *Consent requirements.* The consent of a parent of a child with a disability or suspected of having a disability shall be obtained before:
+(17) *Parental consent*—(i) *Consent requirements.* The consent of a parent of a child with a disability or suspected of having a disability shall be obtained before:
 
 (A) Initiation of formal evaluation procedures to determine whether the child qualifies as a child with a disability and prior to conducting a reevaluation;
 
@@ -872,7 +871,7 @@
 
 (C) If the parent and the school members of the CSC disagree as to whether the child would be provided a FAPE if the child did not receive a particular service, the parent may use the mediation or due process procedures under this part to obtain a determination as to whether the service with which the parent disagrees is or is not appropriate to his or her child and whether it is necessary to FAPE, but the school may not cease the provision of a particular service.
 
-(19) *Procedural safeguards* - (i) *Parental rights.* Parents of children, ages 3 through 21 inclusive, with disabilities must be afforded procedural safeguards with respect to the provision of FAPE which shall include:
+(19) *Procedural safeguards*—(i) *Parental rights.* Parents of children, ages 3 through 21 inclusive, with disabilities must be afforded procedural safeguards with respect to the provision of FAPE which shall include:
 
 (A) The right to confidentiality of personally identifiable information in accordance with Federal law and DoD regulations.
 
@@ -956,7 +955,7 @@
 
 (*iii*) There is written evidence that the requirements above have been met.
 
-(iii) *Independent Educational Evaluation (IEE)* - (A) *Obtaining an IEE.* The DoDEA school system shall provide to the parents, upon request for an IEE, information about the requirements to meet the DoDEA school system criteria, as set forth in paragraph (b)(19)(iii)(F) of this section, and identification of qualified resources available to meet the requirements of paragraph (b)(iii)(F)(2) of this section.
+(iii) *Independent Educational Evaluation (IEE)*—(A) *Obtaining an IEE.* The DoDEA school system shall provide to the parents, upon request for an IEE, information about the requirements to meet the DoDEA school system criteria, as set forth in paragraph (b)(19)(iii)(F) of this section, and identification of qualified resources available to meet the requirements of paragraph (b)(iii)(F)(2) of this section.
 
 (B) *Right to IEE.* The parents of a child with a disability have a right to an IEE at the DoDEA school system expense if the parent disagrees with an evaluation obtained by the DoDEA school system, subject to paragraph (b)(19)(iii)(C) to (H) of this section.
 
@@ -1008,7 +1007,7 @@
 
 (D) When a child with a disability who has not been determined to be incompetent, but who does not have the ability to provide informed consent with respect to his or her educational program reaches the age of majority, the DoD shall appoint a parent or the parents of the child to represent the educational interests of the child throughout the period of eligibility for special education services.
 
-(c) *Procedures for provision of related services by the military departments to students with disabilities in a DoDDS* - (1) *Evaluation procedures.* (i) Upon request by a CSC, the responsible EDIS shall ensure that a qualified medical authority conducts or verifies a medical evaluation for use by the CSC in determining the medically related disability that results in a child's need for special education and related services, and shall oversee an EDIS evaluation used in determining a child's need for related services.
+(c) *Procedures for provision of related services by the military departments to students with disabilities in a DoDDS*—(1) *Evaluation procedures.* (i) Upon request by a CSC, the responsible EDIS shall ensure that a qualified medical authority conducts or verifies a medical evaluation for use by the CSC in determining the medically related disability that results in a child's need for special education and related services, and shall oversee an EDIS evaluation used in determining a child's need for related services.
 
 (ii) The medical or related services evaluation, including necessary consultation with other medical personnel, shall be supervised by a physician or other qualified healthcare provider.
 
@@ -1044,7 +1043,7 @@
 
 (viii) An EDIS provider shall serve on the CSC when eligibility, placement, or requirements for related services that EDIS provides are to be determined.
 
-(2) *IEP* - (i) EDIS shall be provided the opportunity to participate in the IEP meeting.
+(2) *IEP*—(i) EDIS shall be provided the opportunity to participate in the IEP meeting.
 
 (ii) EDIS shall provide related services assigned to EDIS that are listed on the IEP.
 
@@ -1058,7 +1057,7 @@
 
 (iv) Participate with school personnel in developing and delivering in-service training programs that include familiarization with various conditions that impair a child's educational endeavors, the relationship of medical findings to educational functioning, related services, and the requirements of the IDEA and this part.
 
-(d) *Dispute resolution and due process procedures* - (1) *General.* This section establishes requirements for resolving disputes regarding the provision of EIS to an infant or toddler up to 3 years of age, or the identification, evaluation, or educational placement of a child (ages 3 through 21, inclusive), or the provision of a FAPE to such child in accordance with the IDEA and this part.
+(d) *Dispute resolution and due process procedures*—(1) *General.* This section establishes requirements for resolving disputes regarding the provision of EIS to an infant or toddler up to 3 years of age, or the identification, evaluation, or educational placement of a child (ages 3 through 21, inclusive), or the provision of a FAPE to such child in accordance with the IDEA and this part.
 
 (2) *Conferences.* Whenever possible, parties are encouraged to resolve disputes through the use of conferences at the lowest level possible between the parents and EDIS or the DoDEA school.
 
@@ -1354,7 +1353,7 @@
 
 (B) Upon receipt of that notification by the presiding hearing officer, no due process hearing shall proceed on the issues resolved.
 
-(8) *The due process hearing* - (i) *Purpose.* The purpose of the due process hearing is to establish the relevant facts necessary for the hearing officer to reach a fair and impartial determination of the case.
+(8) *The due process hearing*—(i) *Purpose.* The purpose of the due process hearing is to establish the relevant facts necessary for the hearing officer to reach a fair and impartial determination of the case.
 
 (ii) *Hearing officer duties.* The hearing officer shall be the presiding officer, with judicial powers to manage the proceeding and conduct the hearing. Those powers shall include, but are not limited to, the authority to:
 
@@ -1520,7 +1519,7 @@
 
 (21) *Civil actions.* Any party aggrieved by the final administrative decision of a due process complaint shall have the right to file a civil action in a district court of the United States of competent jurisdiction without regard to the amount in controversy. The party bringing the civil action shall have 90 days from the date of the decision of the hearing officer or, if applicable, the date of the decision of the DOHA Appeal Board, to file a civil action.
 
-(e) *DoD-CC on early intervention, special education, and related services* - (1) *Committee membership.* The DoD-CC shall meet at least annually to facilitate collaboration in early intervention, special education, and related services in the Department of Defense. The Secretary of Defense shall appoint representatives to serve on the DoD-CC who shall be full-time or permanent part-time government employees or military members from:
+(e) *DoD-CC on early intervention, special education, and related services*—(1) *Committee membership.* The DoD-CC shall meet at least annually to facilitate collaboration in early intervention, special education, and related services in the Department of Defense. The Secretary of Defense shall appoint representatives to serve on the DoD-CC who shall be full-time or permanent part-time government employees or military members from:
 
 (i) USD(P&R), who shall serve as the Chair.
 
@@ -1552,7 +1551,7 @@
 
 (F) Perform other duties as assigned by the USD(P&R), including oversight for monitoring the delivery of services consistent with the IDEA and this part.
 
-(f) *Monitoring* - (1) *Program monitoring and oversight.* (i) The USD(P&R) shall monitor the implementation of the provisions of the IDEA and this part in the programs operated by the Department of Defense. The USD(P&R) will carry out his or her responsibilities under this section primarily through the DoD-CC.
+(f) *Monitoring*—(1) *Program monitoring and oversight.* (i) The USD(P&R) shall monitor the implementation of the provisions of the IDEA and this part in the programs operated by the Department of Defense. The USD(P&R) will carry out his or her responsibilities under this section primarily through the DoD-CC.
 
 (ii) The primary focus of monitoring shall be on:
 

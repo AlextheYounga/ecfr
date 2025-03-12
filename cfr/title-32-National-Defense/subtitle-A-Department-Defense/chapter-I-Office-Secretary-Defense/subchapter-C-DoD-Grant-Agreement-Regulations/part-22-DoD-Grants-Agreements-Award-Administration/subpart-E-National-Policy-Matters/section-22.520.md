@@ -20,7 +20,7 @@
 
 (ii) Date and place of birth, levels of education, academic majors, degrees received, and the most recent educational institution enrolled in by the student.
 
-(d) *Policy.* (1) *Applicability to cooperative agreements.* As a matter of DoD policy, the restrictions of 10 U.S.C. 983, as implemented by 32 CFR part 216, apply to cooperative agreements, as well as grants.
+(d) *Policy* - (1) *Applicability to cooperative agreements.* As a matter of DoD policy, the restrictions of 10 U.S.C. 983, as implemented by 32 CFR part 216, apply to cooperative agreements, as well as grants.
 
 (2) *Deviations.* Grants officers may not deviate from any provision of this section without obtaining the prior approval of the Director of Defense Research and Engineering. Requests for deviations shall be submitted, through appropriate channels, to: Director for Basic Sciences, ODUSD(LABS), 3040 Defense Pentagon, Washington, D.C. 20301-3040.
 

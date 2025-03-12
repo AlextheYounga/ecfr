@@ -1,5 +1,7 @@
 ##### § 488.301 Definitions. #####
 
+Link to an amendment published at 82 FR 36635, Aug. 4, 2017.
+
 As used in this subpart -
 
 *Abbreviated standard survey* means a survey other than a standard survey that gathers information primarily through resident-centered techniques on facility compliance with the requirements for participation. An abbreviated standard survey may be premised on complaints received; a change of ownership, management, or director of nursing; or other indicators of specific concern.

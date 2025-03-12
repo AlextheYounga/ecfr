@@ -1,5 +1,7 @@
 ##### § 413.333 Definitions. #####
 
+Link to an amendment published at 82 FR 36633, Aug. 4, 2017.
+
 As used in this subpart -
 
 *Case-mix index* means a scale that measures the relative difference in resource intensity among different groups in the resident classification system.

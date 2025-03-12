@@ -1,5 +1,7 @@
 ##### § 622.382 Bag and possession limits. #####
 
+Link to an amendment published at 82 FR 36347, Aug. 4, 2017.
+
 Section 622.11(a) provides the general applicability for bag and possession limits.
 
 (a) *King and Spanish mackerel* - (1) *Bag limits.* (i) Atlantic migratory group king mackerel -

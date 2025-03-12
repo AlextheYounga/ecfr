@@ -1,5 +1,7 @@
 ##### § 488.308 Survey frequency. #####
 
+Link to an amendment published at 82 FR 36635, Aug. 4, 2017.
+
 (a) *Basic period.* The survey agency must conduct a standard survey of each SNF and NF not later than 15 months after the last day of the previous standard survey.
 
 (b) *Statewide average interval.* (1) The statewide average interval between standard surveys must be 12 months or less, computed in accordance with paragraph (d) of this section.

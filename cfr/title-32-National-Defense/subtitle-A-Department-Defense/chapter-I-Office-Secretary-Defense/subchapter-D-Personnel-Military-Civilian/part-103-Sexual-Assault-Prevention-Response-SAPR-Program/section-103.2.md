@@ -8,7 +8,7 @@ This part applies to:
 
 (c) Military dependents 18 years of age and older who are eligible for treatment in the military healthcare system, at installations in the continental United States and outside of the continental United States (OCONUS), and who were victims of sexual assault perpetrated by someone other than a spouse or intimate partner.
 
-(d) The following non-military personnel, who are only eligible for limited healthcare (medical and mental), services in the form of emergency care (see § 103.3 of this part), unless otherwise eligible to receive treatment in a military medical treatment facility. They will also be offered the limited SAPR services of a SARC and a SAPR VA while undergoing emergency care OCONUS. Refer to DoDI 6495.02 for any additional SAPR and heatlhcare services provided. These limited care and SAPR services shall be provided to:
+(d) The following non-military personnel, who are only eligible for limited healthcare (medical and mental), services in the form of emergency care (see § 103.3 of this part), unless otherwise eligible to receive treatment in a military medical treatment facility. They will also be offered the limited SAPR services of a SARC and a SAPR VA while undergoing emergency care OCONUS. Refer to DoDI 6495.02 for any additional SAPR and healthcare services provided. These limited healthcare and SAPR services shall be provided to:
 
 (1) DoD civilian employees and their family dependents 18 years of age and older when they are stationed or performing duties OCONUS and eligible for treatment in the military healthcare system at military installations or facilities OCONUS. Refer to DoDI 6495.02 for reporting options available to DoD civilians and their family dependents 18 years of age and older; and
 

@@ -61,7 +61,6 @@ Unless otherwise noted, these terms and their definitions are for the purpose of
 (4) Licensed registered nurses practicing in the MHS who meet the requirements for performing a SAFE as determined by the local privileging authority. This additional capability shall be noted as a competency, not as a credential or privilege.
 
 (5) A psychologist, social worker or psychotherapist licensed and privileged to provide mental health are or other counseling services in a DoD or DoD-sponsored facility.
-=
 
 *Hospital facilities (Level 3).* Minimum operational functions required for a Level 3 hospital include: command, control, and communications; patient administration; nutritional care; supply and services; triage; emergency medical treatment; preoperative care; orthopedics; general surgery; operating rooms and central materiel and supply services; anesthesia, nursing services (to include intensive and intermediate care wards); pharmacy; clinical laboratory and blood banking; radiology services; and hospital ministry team services.
 

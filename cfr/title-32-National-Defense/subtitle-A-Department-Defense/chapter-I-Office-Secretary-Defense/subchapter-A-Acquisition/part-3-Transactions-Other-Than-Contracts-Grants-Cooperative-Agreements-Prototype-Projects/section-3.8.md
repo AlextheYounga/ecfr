@@ -2,11 +2,11 @@
 
 (a) *Applicability.* This section provides policy concerning DoD access to awardee and subawardee records on OT agreements for prototype projects. This access is separate and distinct from Comptroller General access.
 
-(1) *Fixed-price type OT agreements.* (i) *General* - DoD access to records is not generally required for fixed-price type OT agreements. In order for an agreement to be considered a fixed-price type OT agreement, it must adequately specify the effort to be accomplished for a fixed amount and provide for defined payable milestones, with no provision for financial or cost reporting that would be a basis for making adjustment in either the work scope or price of the effort.
+(1) *Fixed-price type OT agreements.* (i) *General*—DoD access to records is not generally required for fixed-price type OT agreements. In order for an agreement to be considered a fixed-price type OT agreement, it must adequately specify the effort to be accomplished for a fixed amount and provide for defined payable milestones, with no provision for financial or cost reporting that would be a basis for making adjustment in either the work scope or price of the effort.
 
 (ii) *Termination considerations.* The need to provide for DoD access to records in the case of termination of a fixed-price type OT can be avoided by limiting potential termination settlements to an amount specified in the original agreement or to payment for the last completed milestone. However, if a fixed-price agreement provides that potential termination settlement amounts may be based on amounts generated from cost or financial records and the agreement exceeds the specified threshold, the OT should provide that DoD will have access to records in the event of termination.
 
-(2) *Cost-type OT agreements.* (i) *Single Audit Act* - In accordance with the requirements of Public Law 98-502, as amended by Public Law 104-156, 110 STAT. 1396-1404, when a business unit that will perform the OT agreement, or a subawardee, meets the criteria for an audit pursuant to the Single Audit Act, the DoD must have sufficient access to the entity's records to assure compliance with the provisions of the Act.
+(2) *Cost-type OT agreements.* (i) *Single Audit Act*—In accordance with the requirements of Public Law 98-502, as amended by Public Law 104-156, 110 STAT. 1396-1404, when a business unit that will perform the OT agreement, or a subawardee, meets the criteria for an audit pursuant to the Single Audit Act, the DoD must have sufficient access to the entity's records to assure compliance with the provisions of the Act.
 
 (ii) *Traditional Defense contractors.* The DoD shall have access to records on cost-type OT agreements with traditional Defense contractors that provide for total Government payments in excess of $5,000,000. The content of the access to records clause shall be in accordance with paragraph (c) of this section. The value establishing the threshold is the total value of the agreement including all options.
 
@@ -22,7 +22,7 @@
 
 (3) *Subawardees.* When a DoD access to records provision is included in the OT agreement, the awardee shall use the criteria established in paragraphs (a)(2)(i) through (a)(2)(iii) of this section to determine whether DoD access to records clauses should be included in subawards.
 
-(b) *Exceptions* - (1) *Nontraditional Defense contractors* - (i) The Agreements Officers may deviate, in part or in whole, from the application of this access to records policy for a nontraditional Defense contractor when application of the policy would adversely impact the government's ability to incorporate commercial technology or execute the prototype project.
+(b) *Exceptions*—(1) *Nontraditional Defense contractors*—(i) The Agreements Officers may deviate, in part or in whole, from the application of this access to records policy for a nontraditional Defense contractor when application of the policy would adversely impact the government's ability to incorporate commercial technology or execute the prototype project.
 
 (ii) The Agreements Officer will document:
 
@@ -60,7 +60,7 @@
 
 (1) *Frequency of audits.* Audits will be performed when the Agreements Officer determines it is necessary to verify statutory cost share or to verify amounts generated from financial or cost records that will be used as the basis for payment or adjustment of payment.
 
-(2) *Means of accomplishing audits.* (i) *Business units subject to the Single Audit Act* - When the awardee or subawardee is a state government, local government, or nonprofit organization whose Federal cost reimbursement contracts and financial assistance agreements are subject to the Single Audit Act (Public Law 98-502, as amended by Public Law 104-156, 110 STAT. 1396-1404), the clause must apply the provisions of that Act for purposes of performing audits of the awardee or subawardee under the agreement.
+(2) *Means of accomplishing audits.* (i) *Business units subject to the Single Audit Act*—When the awardee or subawardee is a state government, local government, or nonprofit organization whose Federal cost reimbursement contracts and financial assistance agreements are subject to the Single Audit Act (Public Law 98-502, as amended by Public Law 104-156, 110 STAT. 1396-1404), the clause must apply the provisions of that Act for purposes of performing audits of the awardee or subawardee under the agreement.
 
 (ii) *Business units not subject to the Single Audit Act currently performing on procurement contracts.* The clause must provide that DCAA will perform any necessary audits if, at the time of agreement award, the awardee or subawardee is not subject to the Single Audit Act and is performing a procurement contract that is subject to the Cost Principles Applicable to Commercial Organizations (48 CFR part 31.2) and/or the Cost Accounting Standards (48 CFR part 99).
 
@@ -86,7 +86,7 @@
 
 (3) *Scope of audit.* The Agreements Officer should coordinate with the auditor regarding the nature of any audit envisioned.
 
-(4) *Length and extent of access.* (i) *Clauses that do not provide for use of an IPA* - The clause must provide for the Agreements Officer's authorized representative to have access to directly pertinent records of those business units of the awardee or subawardee's performing effort under the OT agreement, when needed to verify the actual costs or reporting used as the basis for payment or to verify statutorily required cost share under the agreement.
+(4) *Length and extent of access*—(i) *Clauses that do not provide for use of an IPA.* The clause must provide for the Agreements Officer's authorized representative to have access to directly pertinent records of those business units of the awardee or subawardee's performing effort under the OT agreement, when needed to verify the actual costs or reporting used as the basis for payment or to verify statutorily required cost share under the agreement.
 
 (ii) *Clauses that provide for use of an IPA to perform the audits.* The clause must:
 

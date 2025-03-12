@@ -1,5 +1,7 @@
 ##### § 413.337 Methodology for calculating the prospective payment rates. #####
 
+Link to an amendment published at 82 FR 36633, Aug. 4, 2017.
+
 (a) *Data used.* (1) To calculate the prospective payment rates, CMS uses -
 
 (i) Medicare data on allowable costs from freestanding and hospital-based SNFs for cost reporting periods beginning in fiscal year 1995. SNFs that received “new provider” exemptions under § 413.30(e)(2) are excluded from the data base used to compute the Federal payment rates. In addition, allowable costs related to exceptions payments under § 413.30(f) are excluded from the data base used to compute the Federal payment rates;

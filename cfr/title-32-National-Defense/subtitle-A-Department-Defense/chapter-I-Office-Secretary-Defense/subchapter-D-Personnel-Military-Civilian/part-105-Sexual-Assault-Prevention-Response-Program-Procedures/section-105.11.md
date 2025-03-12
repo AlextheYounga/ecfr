@@ -1,10 +1,10 @@
 ##### § 105.11 Healthcare provider procedures. #####
 
-This section provides guidance on medical management of victims of sexual assault to ensure standardized, timely, accessible, and comprehensive healthcare for victims of sexual assault, to include the ability to elect a SAFE Kit. This policy is applicable to all MHS personnel who provide or coordinate medical care for victims of sexual assault covered by this part in accordance with § 105.14 and section 539 of Public Law 113-291.
+This section provides guidance on medical management of victims of sexual assault to ensure standardized, timely, accessible, and comprehensive healthcare for victims of sexual assault, to include the ability to elect a SAFE Kit. This policy is applicable to all MHS personnel who provide or coordinate medical care for victims of sexual assault covered by this part.
 
 (a) *Standardized medical care.* To ensure standardized healthcare, the Surgeons General of the Military Departments shall:
 
-(1) Require the recommendations for conducting forensic exams of adult sexual assault victims in the U.S. Department of Justice Protocol be used to establish minimum standards for healthcare intervention for victims of sexual assault. Training for military sexual assault medical examiners and healthcare providers shall be provided to maintain optimal readiness.
+(1) Require the recommendations for conducting forensic exams of adult sexual assault victims in the U.S. Department of Justice Protocol be used to establish minimum standards for healthcare intervention for victims of sexual assault. Training for military sexual assault medical examiners and healthcare providers shall be provided to maintain optimal readiness in accordance with § 105.14 and section 539 of Public Law 113-291.
 
 (2) Require that a SARC is immediately notified when a victim discloses a sexual assault so that the SARC can inform the victim of both reporting options (Restricted and Unrestricted) and all available services (*e.g.,* SVC/VLC, Expedited Transfers, Military Protective Orders, document retention mandates). The victim can then make an informed decision as to which reporting option to elect and which services to request (or none at all). The victim is able to decline services in whole or in part at any time.
 

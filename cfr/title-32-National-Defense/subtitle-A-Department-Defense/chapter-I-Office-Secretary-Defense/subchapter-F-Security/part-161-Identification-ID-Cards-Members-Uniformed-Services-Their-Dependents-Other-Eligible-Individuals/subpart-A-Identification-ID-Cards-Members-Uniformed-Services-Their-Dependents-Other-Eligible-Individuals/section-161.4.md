@@ -10,4 +10,4 @@
 
 (e) ID cards, in a form distinct from the CAC, shall be issued and will serve as proof of identity and DoD affiliation for eligible communities that do not require the Federal PIV card that complies with Homeland Security Presidential Directive 12 and FIPS Publication 201-2, “Personal Identity Verification (PIV) of Federal Employees and Contractors” (available at *http://dx.doi.org/10.6028/NIST.FIPS.201-2*).
 
-[79 FR 709, Jan. 6, 2014, as amended at 81 FR 74875, Oct. 27, 2016]
+[79 FR 709, Jan. 6, 2014, as amended at 81 FR 74877, Oct. 27, 2016]

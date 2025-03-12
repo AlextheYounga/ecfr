@@ -1,5 +1,7 @@
 ##### § 488.314 Survey teams. #####
 
+Link to an amendment published at 82 FR 36636, Aug. 4, 2017.
+
 (a) *Team composition.* (1) Surveys must be conducted by an interdisciplinary team of professionals, which must include a registered nurse.
 
 (2) Examples of professionals include, but are not limited to, physicians, physician assistants, nurse practitioners, physical, speech, or occupational therapists, registered professional nurses, dieticians, sanitarians, engineers, licensed practical nurses, or social workers.

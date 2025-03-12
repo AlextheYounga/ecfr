@@ -22,10 +22,8 @@
 
 (2) The population categories that are not registered via an authorized data source feed will be registered in DEERS via the RAPIDS using the DD Form 1172-2 or via the TASS (formerly known as CVS, as described in § 161.8 of this subpart.
 
-(c) *Background Investigation.* In accordance with this subpart and DoDI 5200.46, “DoD Investigative and Adjudicative Guidance for Issuing the Common Access Card (CAC)” (available at: *http://www.dtic.mil/whs/directives/corres/pdf/520046p.pdf*), a background investigation is required for those individuals eligible for a CAC.
-. A background investigation is not currently required for those eligible for other forms of DoD ID cards. The use of the CAC, as the DoD Federal personal identity verification (PIV) card, is governed and supported by additional policies when compared to non-CAC ID cards.
+(c) *Background Investigation.* In accordance with this subpart and DoDI 5200.46, “DoD Investigative and Adjudicative Guidance for Issuing the Common Access Card (CAC)” (available at: *http://www.dtic.mil/whs/directives/corres/pdf/520046p.pdf*), a background investigation is required for those individuals eligible for a CAC. A background investigation is not currently required for those eligible for other forms of DoD ID cards. The use of the CAC, as the DoD Federal personal identity verification (PIV) card, is governed and supported by additional policies when compared to non-CAC ID cards.
 Sponsored CAC applicants shall not be issued a CAC without the required background investigation stipulated in DoDI 5200.46 and FIPS Publication 201-2.
-.
 
 (1) A background investigation shall be initiated by the sponsoring organization before a CAC can be issued. The mechanisms required to verify completion of background investigation activities for DoD, military, and civilian CAC populations are managed within the DoD human resources and personnel security communities and are linked to the CAC issuance process. An automated means is not currently in place to confirm the vetting for populations other than DoD military and civilian personnel such as CAC-eligible contractors and non-DoD Federal civilian affiliates. When data is not available within the CAC issuance infrastructure on the background investigation status for an applicant, the sponsor shall be responsible for confirming that the required background investigation procedures comply with the DoD Instruction 5200.46 and FIPS Publication 201-2 before a CAC is authorized for issuance.
 
@@ -79,7 +77,7 @@ Sponsored CAC applicants shall not be issued a CAC without the required backgrou
 
 (ix) Wards.
 
-(2) *Expiration dates.* - (i) *CACs.* Except as noted in paragraphs (e)(2)(i)(A) and (B) of this section, CACs shall be issued for a period not to exceed 3 years from the date of issuance or contract expiration date, whichever is shorter. Unfunded contract options shall be considered in the determination of the length of contract. For example, a contractor hired under DoD contract with a base year plus 2 option years shall be issued a CAC with a 3-year expiration. The expiration date of the PKI certificates on the CAC shall match the expiration date on the card.
+(2) *Expiration dates* - (i) *CACs.* Except as noted in paragraphs (e)(2)(i)(A) and (B) of this section, CACs shall be issued for a period not to exceed 3 years from the date of issuance or contract expiration date, whichever is shorter. Unfunded contract options shall be considered in the determination of the length of contract. For example, a contractor hired under DoD contract with a base year plus 2 option years shall be issued a CAC with a 3-year expiration. The expiration date of the PKI certificates on the CAC shall match the expiration date on the card.
 
 (A) CACs issued to DoD civilian employees, contractors, and other eligible personnel assigned overseas or deploying in support of contingency operations shall have an expiration date coinciding with their deployment period end date.
 
