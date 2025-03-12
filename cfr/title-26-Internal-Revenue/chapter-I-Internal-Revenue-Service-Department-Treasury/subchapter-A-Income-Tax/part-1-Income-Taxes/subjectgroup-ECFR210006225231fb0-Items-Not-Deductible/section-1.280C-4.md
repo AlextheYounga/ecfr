@@ -1,17 +1,15 @@
 ##### § 1.280C-4 Credit for increasing research activities. #####
 
-Link to an amendment published at 83 FR 13185, Mar. 28, 2018.
-
 (a) *In general.* An election under section 280C(c)(3) to have the provisions of section 280C(c)(1) and (c)(2) not apply and elect the reduced research credit under section 280C(c)(3)(B) shall be made on Form 6765, “Credit for Increasing Research Activities” (or any successor form). In order for the election to be effective, the Form 6765 must clearly indicate the taxpayer's intent to make the section 280C(c)(3) election, and must be filed with an original return for the taxable year filed on or before the due date (including extensions) for filing the income tax return for such year, regardless of whether any research credits are claimed on the original return. An election, once made for any taxable year, is irrevocable for that taxable year.
 
 (b) *Controlled groups of corporations; trades or businesses under common control* - (1) *In general.* A member of a controlled group of corporations (within the meaning of section 41(f)(5)), or a trade or business which is treated as being under common control with other trades or businesses (within the meaning of section 41(f)(1)(B)), may make the election under section 280C(c)(3). However, only the common parent (within the meaning of § 1.1502-77(a)(1)(i)) of a consolidated group may make the election on behalf of the members of a consolidated group. A member or trade or business shall make the election on Form 6765 and by the time prescribed in paragraph (a) of this section.
 
-(2) [Reserved]. For further guidance, see § 1.280C-4T(b)(2).
+(2) *Example.* The following example illustrates an application of paragraph (b) of this section: A, B, and C, all of which are calendar year taxpayers, are members of a controlled group of corporations (within the meaning of section 41(f)(5)). A, B, and C each attach a statement to the 2012 Form 6765, “Credit for Increasing Research Activities,” showing A and C were the only members of the controlled group to have qualified research expenses when calculating the group credit. A and C report their allocated portions of the group credit on the 2012 Form 6765 and B reports no research credit on Form 6765. Pursuant to paragraph (a) of this section, A and B, but not C, each make an election for the reduced credit under section 280C(c)(3)(B) on the 2012 Form 6765. In December 2013, B determines it had qualified research expenses in 2012 resulting in an increased group credit. On an amended 2012 Form 6765, A, B, and C each report their allocated portions of the group credit. B reports its credit as a regular credit under section 41(a) and reduces the credit under section 280C(c)(3)(B). C may not reduce its credit under section 280C(c)(3)(B) because C did not make an election for the reduced credit with its original return.
 
 (c)(1) *Effective/applicability date.* This section applies to taxable years ending on or after July 27, 2011.
 
-(2) [Reserved]. For further guidance, see § 1.280C-4T(c)(2).
+(2) *Taxable years beginning after December 31, 2011.* Paragraphs (b)(2) and (c)(2) and (3) of this section apply to taxable years beginning on or after April 2, 2018. For taxable years ending before April 2, 2018, see § 1.280C-4T as contained in 26 CFR part 1, as revised April 1, 2017.
 
-(3) [Reserved]. For further guidance, see § 1.280C-4T(c)(3).
+(3) *For taxable years ending before January 1, 2012.* See § 1.280C-4 as contained in 26 CFR part 1, revised April 1, 2014.
 
-[T.D. 9539, 76 FR 44801, July 27, 2011, as amended by T.D. 9717, 80 FR 18099, Apr. 3, 2015]
+[T.D. 9539, 76 FR 44801, July 27, 2011, as amended by T.D. 9717, 80 FR 18099, Apr. 3, 2015; T.D. 9832, 83 FR 13185, Mar. 28, 2018]

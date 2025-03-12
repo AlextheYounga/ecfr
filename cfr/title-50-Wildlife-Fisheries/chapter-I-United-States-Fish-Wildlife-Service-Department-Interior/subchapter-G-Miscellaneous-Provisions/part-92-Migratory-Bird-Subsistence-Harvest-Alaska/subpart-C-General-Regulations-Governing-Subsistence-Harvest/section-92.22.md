@@ -1,20 +1,18 @@
 ##### § 92.22 Subsistence migratory bird species. #####
 
-Link to an amendment published at 83 FR 13688, March 30, 2018.
-
 You may harvest birds or gather eggs from the following species, listed in taxonomic order, within all included areas except Southeast Alaska, which is restricted to Glaucous-winged gull egg harvesting only. When birds are listed at the species level, all subspecies existing in Alaska are also open to harvest. All bird species not listed are closed to harvesting and egg gathering.
 
 (a) *Family Anatidae.* (1) Greater White-fronted Goose (*Anser albifrons*).
 
 (2) Snow Goose (*Chen caerulescens*).
 
-(3) Canada goose (*Branta canadensis*).
+(3) Emperor goose (*Chen canagica*).
 
-(4) [Reserved]
+(4) Canada goose (*Branta canadensis*).
 
 (5) Canada goose, subspecies Aleutian goose - except in the Semidi Islands.
 
-(6) Canada goose, subspecies cackling goose - except no egg gathering is permitted.
+(6) Canada goose, subspecies cackling goose.
 
 (7) Black Brant (*Branta bernicla nigricans*) - except no egg gathering is permitted in the Yukon/Kuskokwim Delta and the North Slope regions.
 
@@ -194,4 +192,4 @@ You may harvest birds or gather eggs from the following species, listed in taxon
 
 (2) Snowy owl (*Bubo scandiacus*).
 
-[73 FR 13791, Mar. 14, 2008, as amended at 81 FR 18787, Apr. 1, 2016; 82 FR 16304, Apr. 4, 2017]
+[73 FR 13791, Mar. 14, 2008, as amended at 81 FR 18787, Apr. 1, 2016; 82 FR 16304, Apr. 4, 2017; 83 FR 13688, Mar. 30, 2018]
