@@ -1,5 +1,7 @@
 ##### § 655.731 What is the first LCA requirement, regarding wages? #####
 
+Link to an amendment published at 86 FR 3672, Jan. 14, 2021.Link to an amendment published at 86 FR 13994, Mar. 12, 2021, delaying the above amendment.
+
 An employer seeking to employ H-1B nonimmigrants in a specialty occupation or as a fashion model of distinguished merit and ability shall state on Form ETA 9035 or 9035E that it will pay the H-1B nonimmigrant the required wage rate. For the purposes of this section, “H-1B” includes “E-3 and H-1B1” as well.
 
 (a) *Establishing the wage requirement.* The first LCA requirement shall be satisfied when the employer signs Form ETA 9035 or 9035E attesting that, for the entire period of authorized employment, the required wage rate will be paid to the H-1B nonimmigrant(s); that is, that the wage shall be the greater of the actual wage rate (as specified in paragraph (a)(1) of this section) or the prevailing wage (as specified in paragraph (a)(2) of this section). The wage requirement includes the employer's obligation to offer benefits and eligibility for benefits provided as compensation for services to H-1B nonimmigrants on the same basis, and in accordance with the same criteria, as the employer offers to U.S. workers.
