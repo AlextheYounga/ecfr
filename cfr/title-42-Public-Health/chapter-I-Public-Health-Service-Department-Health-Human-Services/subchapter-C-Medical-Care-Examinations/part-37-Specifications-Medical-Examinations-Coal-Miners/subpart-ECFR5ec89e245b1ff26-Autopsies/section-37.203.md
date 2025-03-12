@@ -1,5 +1,7 @@
 ##### § 37.203 Autopsy specifications. #####
 
+Link to an amendment published at 86 FR 24339, May 6, 2021.
+
 (a) Every autopsy for which a claim for payment is submitted pursuant to this part:
 
 (1) Shall be performed consistent with standard autopsy procedures such as those, for example, set forth in the “Autopsy Manual” prepared by the Armed Forces Institute of Pathology, July 1, 1960. (Technical Manual No. 8-300. NAVMED P-5065, Air Force Manual No. 160-19.) Copies of this document may be borrowed from ALFORD.

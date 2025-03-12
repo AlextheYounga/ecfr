@@ -1,6 +1,6 @@
 ##### § 64.1200 Delivery restrictions. #####
 
-Link to an amendment published at 86 FR 11448, Feb. 25, 2021.Link to an amendment published at 86 FR 17734, Apr. 6, 2021.Link to an amendment published at 86 FR 17735, Apr. 6, 2021.
+Link to an amendment published at 86 FR 11448, Feb. 25, 2021.Link to an amendment published at 86 FR 17735, Apr. 6, 2021.
 
 (a) No person or entity may:
 
@@ -304,13 +304,31 @@ The requirement in paragraph 64.1200(c)(2)(i)(D) for persons or entities to empl
 
 (4) A provider may block voice calls or cease to accept traffic from an originating or intermediate provider without liability under the Communications Act or the Commission's rules where the originating or intermediate provider, when notified by the Commission, fails to effectively mitigate illegal traffic within 48 hours or fails to implement effective measures to prevent new and renewing customers from using its network to originate illegal calls. Prior to initiating blocking, the provider shall provide the Commission with notice and a brief summary of the basis for its determination that the originating or intermediate provider meets one or more of these two conditions for blocking.
 
-(5) A provider may not block a voice call under paragraphs (k)(1) through (4) of this section if the call is an emergency call placed to 911.
+(5) A provider may not block a voice call under paragraph (k)(1) through (4) or (11) of this section if the call is an emergency call placed to 911.
 
-(6) A provider may not block calls under paragraphs (k)(1) through (4) of this section unless that provider makes all reasonable efforts to ensure that calls from public safety answering points and government emergency numbers are not blocked.
+(6) A provider may not block a voice call under paragraph (k)(1) through (4) or (11) of this section unless that provider makes all reasonable efforts to ensure that calls from public safety answering points and government emergency numbers are not blocked.
 
 (7) For purposes of this section, a provider may rely on Caller ID information to determine the purported originating number without regard to whether the call, in fact originated from that number.
 
-(8) Any terminating provider blocking pursuant to this subsection must provide a single point of contact, readily available on the terminating provider's public-facing website, for handling call blocking error complaints and must resolve disputes within a reasonable time. When a caller makes a credible claim of erroneous blocking and the terminating provider determines that the calls should not have been blocked, the terminating provider must promptly cease blocking calls from that number unless circumstances change. The terminating provider may not impose any charge on callers for reporting, investigating, or resolving blocking error complaints.
+(8) Each terminating provider that blocks calls pursuant to this section or utilizes caller ID authentication information in determining how to deliver calls must provide a single point of contact, readily available on the terminating provider's public-facing website, for receiving call blocking error complaints and verifying the authenticity of the calls of a calling party that is adversely affected by information provided by caller ID authentication. The terminating provider must resolve disputes pertaining to caller ID authentication information within a reasonable time and, at a minimum, provide a status update within 24 hours. When a caller makes a credible claim of erroneous blocking and the terminating provider determines that the calls should not have been blocked, or the call delivery decision is not appropriate, the terminating provider must promptly cease the call treatment for that number unless circumstances change. The terminating provider may not impose any charge on callers for reporting, investigating, or resolving either category of complaints, so long as the complaint is made in good faith.
+
+(9)-(10) [Reserved]
+
+(11) A terminating provider may block calls without liability under the Communications Act and the Commission's rules, without giving consumers the opportunity to opt out of such blocking, so long as:
+
+(i) The provider reasonably determines, based on reasonable analytics that include consideration of caller ID authentication information where available, that calls are part of a particular call pattern that is highly likely to be illegal;
+
+(ii) The provider manages its network-based blocking with human oversight and network monitoring sufficient to ensure that it blocks only calls that are highly likely to be illegal, which must include a process that reasonably determines that the particular call pattern is highly likely to be illegal before initiating blocking of calls that are part of that pattern;
+
+(iii) The provider ceases blocking calls that are part of the call pattern as soon as the provider has actual knowledge that the blocked calls are likely lawful;
+
+(iv) The provider discloses to consumers that it is engaging in such blocking;
+
+(v) All analytics are applied in a non-discriminatory, competitively neutral manner;
+
+(vi) Blocking services are provided with no additional line-item charge to consumers; and
+
+(vii) The terminating provider provides, without line item charge to the caller, the redress requirements set forth in subparagraphs 8 and 9.
 
 (l) A reporting carrier subject to § 52.15(f) of this title shall:
 
@@ -328,4 +346,12 @@ The requirement in paragraph 64.1200(c)(2)(i)(D) for persons or entities to empl
 
 (2) The person's call to the number was the result of the database erroneously returning a response of “no” to the person's query consisting of the number for which prior express consent was obtained as required in paragraph (a)(1), (2), or (3) of this section and the date on which such prior express consent was obtained.
 
-[68 FR 44177, July 25, 2003, as amended at 68 FR 59131, Oct. 14, 2003; 69 FR 60316, Oct. 8, 2004; 70 FR 19337, Apr. 13, 2005; 71 FR 25977, May 3, 2006; 71 FR 56893, Sept. 28, 2006; 71 FR 75122, Dec. 14, 2006; 73 FR 40185, July 14, 2008; 77 FR 34246, June 11, 2012; 83 FR 1577, Jan. 12, 2018; 84 FR 10267, Mar. 20, 2019; 84 FR 11232, Mar. 26, 2019; 85 FR 56534, Sept. 14, 2020; 86 FR 2563, Jan. 13, 2021; 86 FR 11447, Feb. 25, 2021]
+(n) A voice service provider must:
+
+(1) Respond fully and in a timely matter to all traceback requests from the Commission, civil law enforcement, criminal law enforcement, and the industry traceback consortium;
+
+(2) [Reserved]
+
+(3) Take affirmative, effective measures to prevent new and renewing customers from using its network to originate illegal calls, including knowing its customers and exercising due diligence in ensuring that its services are not used to originate illegal traffic.
+
+[68 FR 44177, July 25, 2003, as amended at 68 FR 59131, Oct. 14, 2003; 69 FR 60316, Oct. 8, 2004; 70 FR 19337, Apr. 13, 2005; 71 FR 25977, May 3, 2006; 71 FR 56893, Sept. 28, 2006; 71 FR 75122, Dec. 14, 2006; 73 FR 40185, July 14, 2008; 77 FR 34246, June 11, 2012; 83 FR 1577, Jan. 12, 2018; 84 FR 10267, Mar. 20, 2019; 84 FR 11232, Mar. 26, 2019; 85 FR 56534, Sept. 14, 2020; 86 FR 2563, Jan. 13, 2021; 86 FR 11447, Feb. 25, 2021; 86 FR 17734, Apr. 6, 2021]

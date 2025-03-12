@@ -2009,7 +2009,7 @@ ut terminals of the transmitter (including any filters that may be employed). In
 |       Laredo       |                     8, 13, 19                     |
 |       Llano        |                        27                         |
 |      Longview      |                      26, 31                       |
-|      Lubbock       |             11, 16, 27, 35, \*39, 40              |
+|      Lubbock       |             16, 27, 35, 36, \* 39, 40             |
 |       Lufkin       |                         9                         |
 |      Mcallen       |                        49                         |
 |      Midland       |                      18, 26                       |

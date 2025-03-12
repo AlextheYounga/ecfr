@@ -1,5 +1,7 @@
 ##### § 37.202 Payment for autopsy. #####
 
+Link to an amendment published at 86 FR 24339, May 6, 2021.
+
 (a) The Secretary will pay up to $200 to any pathologist who, after the effective date of the regulations in this part and with legal consent:
 
 (1) Performs an autopsy on a miner in accordance with this subpart; and

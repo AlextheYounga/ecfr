@@ -1,5 +1,7 @@
 ##### § 37.204 Procedure for obtaining payment. #####
 
+Link to an amendment published at 86 FR 24339, May 6, 2021.
+
 Every claim for payment under this subpart must be submitted to NIOSH and must include:
 
 (a) An invoice (in duplicate) on the pathologist's letterhead or billhead indicating the date of autopsy, the amount of the claim and a signed statement that the pathologist is not receiving any other specific compensation for the autopsy from the miner's widow, his surviving next-of-kin, the estate of the miner, or any other source.
