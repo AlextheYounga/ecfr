@@ -4,7 +4,17 @@ The following provisions supplement the requirements of § 1926.21 regarding the
 
 (a) *Training personnel.* Training required by this section shall be provided by a qualified person(s).
 
-(b) *Fall hazard training.* The employer shall train each employee exposed to a fall hazard in accordance with the requirements of this section. The employer shall institute a training program and ensure employee participation in the program.
+(b) *Fall hazard training.* The employer shall train each employee exposed to a fall hazard in accordance with the requirements of this section. The employer shall institute a training program and ensure employee participation in the program. The program shall include training and instruction in the following areas:
+
+(1) The recognition and identification of fall hazards in the work area;
+
+(2) The use and operation of guardrail systems (including perimeter safety cable systems), personal fall arrest systems, positioning device systems, fall restraint systems, safety net systems, and other protection to be used;
+
+(3) The correct procedures for erecting, maintaining, disassembling, and inspecting the fall protection systems to be used;
+
+(4) The procedures to be followed to prevent falls to lower levels and through or into holes and openings in walking/working surfaces and walls; and
+
+(5) The fall protection requirements of this subpart.
 
 (c) *Special training programs.* In addition to the training required in paragraphs (a) and (b) of this section, the employer shall provide special training to employees engaged in the following activities.
 
@@ -26,4 +36,4 @@ The following provisions supplement the requirements of § 1926.21 regarding the
 
 (ii) The establishment, access, proper installation techniques and work practices required by § 1926.760(c) and § 1926.754(e).
 
-[66 FR 5265, Jan. 18, 2001, as amended at 73 FR 75589, Dec. 12, 2008]
+[66 FR 5265, Jan. 18, 2001, as amended at 73 FR 75589, Dec. 12, 2008; 85 FR 8745, Feb. 18, 2020]

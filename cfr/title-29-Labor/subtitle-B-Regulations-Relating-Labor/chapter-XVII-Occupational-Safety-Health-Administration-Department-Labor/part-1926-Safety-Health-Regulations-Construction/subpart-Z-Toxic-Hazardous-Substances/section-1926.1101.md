@@ -122,7 +122,7 @@
 
 (3) *Access.* Access to regulated areas shall be limited to authorized persons and to persons authorized by the Act or regulations issued pursuant thereto.
 
-(4) *Respirators.* All persons entering a regulated area where employees are required pursuant to paragraph (h)(1) of this section to wear respirators shall be supplied with a respirator selected in accordance with paragraph (h)(2) of this section.
+(4) *Respirators.* All persons entering a regulated area where employees are required pursuant to paragraph (h)(1) of this section to wear respirators shall be supplied with a respirator selected in accordance with paragraph (h)(3) of this section.
 
 (5) *Prohibited activities.* The employer shall ensure that employees do not eat, drink, smoke, chew tobacco or gum, or apply cosmetics in the regulated area.
 
@@ -150,7 +150,7 @@
 
 (ii) All operations under the standard other than Class I and II operations. The employer shall conduct periodic monitoring of all work where exposures are expected to exceed a PEL, at intervals sufficient to document the validity of the exposure prediction.
 
-(iii) Exception: When all employees required to be monitored daily are equipped with supplied-air respirators operated in the pressure demand mode, or other positive pressure mode respirator, the employer may dispense with the daily monitoring required by this paragraph. However, employees performing Class I work using a control method which is not listed in paragraph (g)(4) (i), (ii), or (iii) of this section or using a modification of a listed control method, shall continue to be monitored daily even if they are equipped with supplied-air respirators.
+(iii) Exception: When all employees required to be monitored daily are equipped with supplied-air respirators operated in the pressure demand mode, or other positive pressure mode, the employer may dispense with the daily monitoring required by this paragraph. However, employees performing Class I work using a control method which is not listed in paragraph (g)(4)(i), (ii), or (iii) of this section or using a modification of a listed control method, shall continue to be monitored daily even if they are equipped with supplied-air respirators.
 
 (4) *Termination of monitoring.* (i) If the periodic monitoring required by paragraph (f)(3) of this section reveals that employee exposures, as indicated by statistically reliable measurements, are below the permissible exposure limit and excursion limit the employer may discontinue monitoring for those employees whose exposures are represented by such monitoring.
 
@@ -344,7 +344,7 @@
 
 (B) The evaluation of employee exposure required in paragraph (g)(6) of this section, shall include and be based on sampling and analytical data representing employee exposure during the use of such method under worst-case conditions and by employees whose training and experience are equivalent to employees who are to perform the current job.
 
-(7) Work Practices and Engineering Controls for Class II work.
+(7) *Work Practices and Engineering Controls for Class II work.*
 
 (i) All Class II work shall be supervised by a competent person as defined in paragraph (b) of this section.
 
@@ -424,7 +424,7 @@
 
 (D) Any scraping to remove residue must be performed wet.
 
-(v) When performing any other Class II removal of asbestos containing material for which specific controls have not been listed in paragraph (g)(8)(iv) (A) through (D) of this section, the employer shall ensure that the following work practices are complied with.
+(v) When performing any other Class II removal of asbestos containing material for which specific controls have not been listed in paragraph (g)(8)(i) through (iv) of this section, the employer shall ensure that the following work practices are complied with.
 
 (A) The material shall be thoroughly wetted with amended water prior to and during its removal.
 
@@ -818,9 +818,9 @@ DANGERCONTAINS ASBESTOS FIBERSAVOID CREATING DUSTCANCER AND LUNG DISEASE HAZARD
 
 (F) Name and exposure of the employees whose exposures are represented.
 
-(iii) The employer shall maintain this record for at least thirty (30) years, in accordance with 29 CFR 1910.33.
+(iii) The employer shall maintain this record for at least thirty (30) years, in accordance with § 1910.1020 of this chapter
 
-(3) *Medical surveillance.* (i) The employer shall establish and maintain an accurate record for each employee subject to medical surveillance by paragraph (m) of this section, in accordance with 29 CFR 1910.33.
+(3) *Medical surveillance.* (i) The employer shall establish and maintain an accurate record for each employee subject to medical surveillance by paragraph (m) of this section, in accordance with § 1910.1020 of this chapter.
 
 (ii) The record shall include at least the following information:
 
@@ -834,7 +834,7 @@ DANGERCONTAINS ASBESTOS FIBERSAVOID CREATING DUSTCANCER AND LUNG DISEASE HAZARD
 
 (E) A copy of the information provided to the physician as required by paragraph (m) of this section.
 
-(iii) The employer shall ensure that this record is maintained for the duration of employment plus thirty (30) years, in accordance with 29 CFR 1910.33.
+(iii) The employer shall ensure that this record is maintained for the duration of employment plus thirty (30) years, in accordance with § 1910.1020 of this chapter.
 
 (4) *Training records.* The employer shall maintain all employee training records for one (1) year beyond the last date of employment by that employer.
 
@@ -880,7 +880,7 @@ DANGERCONTAINS ASBESTOS FIBERSAVOID CREATING DUSTCANCER AND LUNG DISEASE HAZARD
 
 (ii) For Class III and IV asbestos work, the competent person shall be trained in aspects of asbestos handling appropriate for the nature of the work, to include procedures for setting up glove bags and mini-enclosures, practices for reducing asbestos exposures, use of wet methods, the contents of this standard, and the identification of asbestos. Such training shall include successful completion of a course that is consistent with EPA requirements for training of local education agency maintenance and custodial staff as set forth at 40 CFR 763.92(a)(2), or its equivalent in stringency, content and length. Competent persons for Class III and IV work, may also be trained pursuant to the requirements of paragraph (o)(4)(i) of this section.
 
-(p) *Appendices.* (1) Appendices A, C, D, and E to this section are incorporated as part of this section and the contents of these appendices are mandatory.
+(p) *Appendices.* (1) Appendices A, D, and E to this section are incorporated as part of this section and the contents of these appendices are mandatory.
 
 (2) Appendices B, F, H, I, J, and K to this section are informational and are not intended to create any additional obligations not otherwise imposed or to detract from any existing obligations.
 
@@ -1804,7 +1804,7 @@ The analysis of asbestos samples can be divided into two major parts: sample pre
 
 (d) Samples that have been heated in the muffle furnace or the drying oven may be hot. Handle them with tongs until they are cool enough to handle.
 
-(e) Some of the solvents used, such as THF (tetrahydrofuran), are toxic and should only be handled in an appropriate fume hood and according to instructions given in the Material Safety Data Sheet (MSDS).
+(e) Some of the solvents used, such as THF (tetrahydrofuran), are toxic and should only be handled in an appropriate fume hood and according to instructions given in the Safety Data Sheet (SDS).
 
 3.2. Equipment
 

@@ -8,58 +8,31 @@
 
 (4) The employer shall ensure that each affected employee uses equipment with filter lenses that have a shade number that provides appropriate protection from injurious light radiation. Table I-1 is a listing of appropriate shade numbers for various operations. If filter lenses are used in goggles worn under a helmet which has a lens, the shade number of the lens in the helmet may be reduced so that the shade numbers of the two lenses will equal the value as shown in Table I-1, § 1915.153.
 
-Table I-1 - Filter Lenses for Protection Against Radiant Energy
+|                                                            Operations                                                            |              Electrode size 1/32 in               |                     Arc current                     |Minimum \*  <br/>protective  <br/>shade|
+|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|-----------------------------------------------------|---------------------------------------|
+|                                                    Shielded metal arc welding                                                    | Less than 3  <br/>3-5  <br/>5-8  <br/>More than 8 |Less than 60  <br/>60-160  <br/>160-250  <br/>250-550|      7  <br/>8  <br/>10  <br/>11      |
+|                                         Gas metal arc welding and flux cored arc welding                                         |                                                   |Less than 60  <br/>60-160  <br/>160-250  <br/>250-500|     7  <br/>10  <br/>10  <br/>10      |
+|                                                     Gas Tungsten arc welding                                                     |                                                   |       Less than 50  <br/>50-150  <br/>150-500       |          8  <br/>8  <br/>10           |
+|                                                            Air carbon                                                            |                      (Light)                      |                    Less than 500                    |                  10                   |
+|                                                           Arc cutting                                                            |                      (Heavy)                      |                      500-1000                       |                  11                   |
+|                                                        Plasma arc welding                                                        |                                                   |Less than 20  <br/>20-100  <br/>100-400  <br/>400-800|      6  <br/>8  <br/>10  <br/>11      |
+|                                                        Plasma arc cutting                                                        |(light) \*\*  <br/>(medium) \*\*  <br/>(heavy) \*\*|      Less than 300  <br/>300-400  <br/>400-800      |          8  <br/>9  <br/>10           |
+|                                                          Torch brazing                                                           |                                                   |                                                     |                   3                   |
+|                                                         Torch soldering                                                          |                                                   |                                                     |                   2                   |
+|                                                        Carbon arc welding                                                        |                                                   |                                                     |                  14                   |
+|\*\* These values apply where the actual arc is clearly seen. Lighter filters may be used when the arc is hidden by the workpiece.|                                                   |                                                     |                                       |
 
-|                   Operations                   |Electrode size1/32 in.| Arc current |Minimum protective shade|
-|------------------------------------------------|----------------------|-------------|------------------------|
-|           Shielded metal arc welding           |     Less than 3      |  Less than  |           7            |
-|                                                |         3-5          |     60      |           8            |
-|                                                |         5-8          |   60-160    |           10           |
-|                                                |     More than 8      |   160-250   |           11           |
-|                                                |                      |   250-550   |                        |
-|Gas metal arc welding and flux cored arc welding|                      |  Less than  |           7            |
-|                                                |                      |     60      |           10           |
-|                                                |                      |   60-160    |           10           |
-|                                                |                      |   160-250   |           10           |
-|                                                |                      |   250-500   |                        |
-|            Gas Tungsten arc welding            |                      |  Less than  |           8            |
-|                                                |                      |     50      |           8            |
-|                                                |                      |   50-150    |           10           |
-|                                                |                      |   150-500   |                        |
-|                   Air carbon                   |       (Light)        |  Less than  |           10           |
-|                  Arc cutting                   |       (Heavy)        |     500     |           11           |
-|                                                |                      |  500-1000   |                        |
-|               Plasma arc welding               |                      |  Less than  |           6            |
-|                                                |                      |     20      |           8            |
-|                                                |                      |     20−     |           10           |
-|                                                |                      |     100     |           11           |
-|                                                |                      |    100−     |                        |
-|                                                |                      |     400     |                        |
-|                                                |                      |    400−     |                        |
-|                                                |                      |     800     |                        |
-|               Plasma arc cutting               |     (light)\*\*      |Less than 300|           8            |
-|                                                |     (medium)\*\*     |   300-400   |           9            |
-|                                                |     (heavy)\*\*      |   400-800   |           10           |
-|                 Torch brazing                  |                      |             |           3            |
-|                Torch soldering                 |                      |             |           2            |
-|               Carbon Arc welding               |                      |             |           14           |
-
-\*\* These values apply where the actual arc is clearly seen. Lighter filters may be used when the arc is hidden by the workpiece.
-
-Filter Lenses for Protection Against Radiant Energy
-
-|  Operations  |Plate thickness - inches|Plate thickness - mm|Minimum\* protective shade|
-|--------------|------------------------|--------------------|--------------------------|
-| Gas welding: |                        |                    |                          |
-|    Light     |        Under1/8        |     Under 3.2      |            4             |
-|    Medium    |       1/8 to1/2        |    3.2 to 12.7     |            5             |
-|    Heavy     |        Over1/2         |     Over 12.7      |            6             |
-|Oxygen cutting|                        |                    |                          |
-|    Light     |        Under 1         |      Under 25      |            3             |
-|    Medium    |         1 to 6         |     25 to 150      |            4             |
-|    Heavy     |         Over 6         |      Over 150      |            5             |
-
-\* As a rule of thumb, start with a shade that is too dark to see the weld zone. Then go to a lighter shade which gives sufficient view of the weld zone without going below the minimum. In oxyfuel gas welding or cutting where the torch produces a high yellow light, it is desirable to use a filter lens that absorbs the yellow or sodium line in the visible light of the (spectrum) operation.
+|                                                                                                                                                                                              Operations                                                                                                                                                                                               |Plate thickness—inches|Plate thickness—mm|Minimum \*  <br/>protective  <br/>shade|
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|------------------|---------------------------------------|
+|                                                                                                                                                                                             Gas Welding:                                                                                                                                                                                              |                      |                  |                                       |
+|                                                                                                                                                                                                 Light                                                                                                                                                                                                 |      Under 1/8       |    Under 3.2     |                   4                   |
+|                                                                                                                                                                                                Medium                                                                                                                                                                                                 |      1/8 to 1/2      |   3.2 to 12.7    |                   5                   |
+|                                                                                                                                                                                                 Heavy                                                                                                                                                                                                 |       Over 1/2       |    Over 12.7     |                   6                   |
+|                                                                                                                                                                                            Oxygen cutting:                                                                                                                                                                                            |                      |                  |                                       |
+|                                                                                                                                                                                                 Light                                                                                                                                                                                                 |       Under 1        |     Under 25     |                   3                   |
+|                                                                                                                                                                                                Medium                                                                                                                                                                                                 |        1 to 6        |    25 to 150     |                   4                   |
+|                                                                                                                                                                                                 Heavy                                                                                                                                                                                                 |        Over 6        |     Over 150     |                   5                   |
+|\* As a rule of thumb, start with a shade that is too dark to see the weld zone. Then go to a lighter shade which gives sufficient view of the weld zone without going below the minimum. In oxyfuel gas welding or cutting where the torch produces a high yellow light, it is desirable to use a filter lens that absorbs the yellow or sodium line in the visible light of the (spectrum) operation.|                      |                  |                                       |
 
 (b) *Criteria for protective eye and face devices.* (1) Protective eye and face protection devices must comply with any of the following consensus standards:
 
@@ -71,4 +44,4 @@ Filter Lenses for Protection Against Radiant Energy
 
 (2) Eye and face protection devices that the employer demonstrates are at least as effective as protective as eye and face protection devices that are constructed in accordance with one of the above consensus standards will be deemed to be in compliance with the requirements of this section.
 
-[61 FR 26352, May 24, 1996,, as amended at 74 FR 46358, Sept. 9, 2009; 81 FR 16091, Mar. 25, 2016]
+[61 FR 26352, May 24, 1996,, as amended at 74 FR 46358, Sept. 9, 2009; 81 FR 16091, Mar. 25, 2016; 85 FR 8732, Feb. 18, 2020]

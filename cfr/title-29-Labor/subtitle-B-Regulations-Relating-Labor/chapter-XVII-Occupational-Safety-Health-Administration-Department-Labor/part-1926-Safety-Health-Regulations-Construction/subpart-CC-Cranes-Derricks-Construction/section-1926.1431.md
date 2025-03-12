@@ -2,7 +2,7 @@
 
 The requirements of this section are supplemental to the other requirements in this subpart and apply when one or more employees are hoisted.
 
-(a) The use of equipment to hoist employees is prohibited except where the employer demonstrates that the erection, use, and dismantling of conventional means of reaching the work area, such as a personnel hoist, ladder, stairway, aerial lift, elevating work platform, or scaffold, would be more hazardous, or is not possible because of the project's structural design or worksite conditions. This paragraph does not apply to work covered by subpart R (Steel Erection) of this part.
+(a) The use of equipment to hoist employees is prohibited except where the employer demonstrates that the erection, use, and dismantling of conventional means of reaching the work area, such as a personnel hoist, ladder, stairway, aerial lift, elevating work platform, or scaffold, would be more hazardous, or is not possible because of the project's structural design or worksite conditions. This paragraph does not apply to work covered by subpart R (Steel Erection) of this part and also does not apply to routine personnel access to an underground worksite via shaft as covered by § 1926.800 (Underground Construction) of this part.
 
 (b) *Use of personnel platform.* (1) When using equipment to hoist employees, the employees must be in a personnel platform that meets the requirements of paragraph (e) of this section.
 
@@ -325,3 +325,5 @@ Free fall of the load line hoist is prohibited (*see* § 1926.1426(d); the use o
 (v) The boatswain's chair itself (excluding the personal fall arrest system anchorages), must be capable of supporting, without failure, its own weight and at least five times the maximum intended load.
 
 (vi) No more than one person must be hoisted at a time.
+
+[5 FR 48135, Aug. 9, 2010, as amended at 85 FR 8746, Feb. 18, 2020]

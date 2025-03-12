@@ -6,7 +6,7 @@ In addition to the applicable requirements of § 1926.451, the following require
 
 (2) Crossbracing shall be installed between the inner and outer sets of poles on double pole scaffolds.
 
-(3) Diagonal bracing in both directions shall be installed across the entire inside face of double-pole scaffolds used to support loads equivalent to a uniformly distributed load of 50 pounds (222 kg) or more per square foot (929 square cm).
+(3) Diagonal bracing in both directions shall be installed across the entire inside face of double-pole scaffolds used to support loads equivalent to a uniformly distributed load of 50 pounds (22.7 kg) or more per square foot (929 square cm).
 
 (4) Diagonal bracing in both directions shall be installed across the entire outside face of all double- and single-pole scaffolds.
 
@@ -120,7 +120,7 @@ In addition to the applicable requirements of § 1926.451, the following require
 
 (k) *Ladder jack scaffolds.* (1) Platforms shall not exceed a height of 20 feet (6.1 m).
 
-(2) All ladders used to support ladder jack scaffolds shall meet the requirements of subpart X of this part - Stairways and Ladders, except that job-made ladders shall not be used to support ladder jack scaffolds.
+(2) All ladders used to support ladder jack scaffolds shall meet the requirements of subpart X of this part—Stairways and Ladders, except that job-made ladders shall not be used to support ladder jack scaffolds.
 
 (3) The ladder jack shall be so designed and constructed that it will bear on the side rails and ladder rungs or on the ladder rungs alone. If bearing on rungs only, the bearing area shall include a length of at least 10 inches (25.4 cm) on each rung.
 
@@ -140,7 +140,7 @@ In addition to the applicable requirements of § 1926.451, the following require
 
 (n) *Step, platform, and trestle ladder scaffolds.* (1) Scaffold platforms shall not be placed any higher than the second highest rung or step of the ladder supporting the platform.
 
-(2) All ladders used in conjunction with step, platform and trestle ladder scaffolds shall meet the pertinent requirements of subpart X of this part - Stairways and Ladders, except that job-made ladders shall not be used to support such scaffolds.
+(2) All ladders used in conjunction with step, platform and trestle ladder scaffolds shall meet the pertinent requirements of subpart X of this part—Stairways and Ladders, except that job-made ladders shall not be used to support such scaffolds.
 
 (3) Ladders used to support step, platform, and trestle ladder scaffolds shall be placed, fastened, or equipped with devices to prevent slipping.
 
@@ -246,7 +246,7 @@ In addition to the applicable requirements of § 1926.451, the following require
 
 (i) The surface on which the scaffold is being moved is within 3 degrees of level, and free of pits, holes, and obstructions;
 
-(ii) The height to base width ratio of the scaffold during movement is two to one or less, unless the scaffold is designed and constructed to meet or exceed nationally recognized stability test requirements such as those listed in paragraph (x) of appendix A to this subpart (ANSI/SIA A92.5 and A92.6);
+(ii) The height to base width ratio of the scaffold during movement is two to one or less, unless the scaffold is designed and constructed to meet or exceed nationally recognized stability test requirements such as those listed in paragraph 2.(w) of appendix A to this subpart;
 
 (iii) Outrigger frames, when used, are installed on both sides of the scaffold;
 
@@ -293,3 +293,5 @@ In addition to the applicable requirements of § 1926.451, the following require
 (3) Surfaces on which stilts are used shall be flat and free of pits, holes and obstructions, such as debris, as well as other tripping and falling hazards.
 
 (4) Stilts shall be properly maintained. Any alteration of the original equipment shall be approved by the manufacturer.
+
+[61 FR 46104, Aug. 30, 1996, as amended at 85 FR 8736, Feb. 18, 2020]

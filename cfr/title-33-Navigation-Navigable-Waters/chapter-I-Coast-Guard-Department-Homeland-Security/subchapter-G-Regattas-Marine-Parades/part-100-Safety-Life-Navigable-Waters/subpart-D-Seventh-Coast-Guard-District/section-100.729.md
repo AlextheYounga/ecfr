@@ -1,5 +1,7 @@
 ##### § 100.729 Columbus Day Regatta, Biscayne Bay, Miami, FL. #####
 
+Link to an amendment published at 85 FR 8404, Feb. 14, 2020.
+
 (a) *Regulated area.* A regulated area is established for the Columbus Day Regatta, Biscayne Bay, Miami, Florida. The regulated area encompasses all waters within the following points:
 
 | Latitude  | Longitude  |

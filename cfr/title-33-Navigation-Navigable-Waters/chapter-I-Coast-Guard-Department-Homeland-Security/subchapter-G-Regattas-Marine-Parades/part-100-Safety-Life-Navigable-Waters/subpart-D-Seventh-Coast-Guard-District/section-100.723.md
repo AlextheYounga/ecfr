@@ -1,5 +1,7 @@
 ##### § 100.723 Special Local Regulation; Fort Lauderdale Grand Prix of the Seas; Fort Lauderdale, FL. #####
 
+Link to an amendment published at 85 FR 8404, Feb. 14, 2020.
+
 (a) *Location.* The following regulated area is established as a special local regulation. All navigable waters contained within an imaginary line connecting the following points: beginning at Point 1 in position 26°6′21″ N., 080°5′51″ W.; thence west to Point 2 in position 26°6′21″ N., 080°6′13″ W.; thence north to Point 3 in position 26°6′57″ N., 080°6′13″ W.; thence east to Point 4 in position 26°6′57″ N., 080°5′52″ W., thence back to origin at point 1. All coordinates are North American Datum 1983.
 
 (b) *Definition.* The following definitions apply to this section:

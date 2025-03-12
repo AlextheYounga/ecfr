@@ -54,177 +54,171 @@
 
 (3) On steel joists that do not require erection bridging under Tables A and B, only one employee shall be allowed on the joist until all bridging is installed and anchored.
 
-Table A - Erection Bridging for Short Span Joists
+|                   Joist                    |Span|
+|--------------------------------------------|----|
+|                    8L1                     | NM |
+|                    10K1                    | NM |
+|                    12K1                    |23-0|
+|                    12K3                    | NM |
+|                    12K5                    | NM |
+|                    14K1                    |27-0|
+|                    14K3                    | NM |
+|                    14K4                    | NM |
+|                    14K6                    | NM |
+|                    16K2                    |29-0|
+|                    16K3                    |30-0|
+|                    16K4                    |32-0|
+|                    16K5                    |32-0|
+|                    16K6                    | NM |
+|                    16K7                    | NM |
+|                    16K9                    | NM |
+|                    18K3                    |31-0|
+|                    18K4                    |32-0|
+|                    18K5                    |33-0|
+|                    18K6                    |35-0|
+|                    18K7                    | NM |
+|                    18K9                    | NM |
+|                   18K10                    | NM |
+|                    20K3                    |32-0|
+|                    20K4                    |34-0|
+|                    20K5                    |34-0|
+|                    20K6                    |36-0|
+|                    20K7                    |39-0|
+|                    20K9                    |39-0|
+|                   20K10                    | NM |
+|                    22K4                    |34-0|
+|                    22K5                    |35-0|
+|                    22K6                    |36-0|
+|                    22K7                    |40-0|
+|                    22K9                    |40-0|
+|                   22K10                    |40-0|
+|                   22K11                    |40-0|
+|                    24K4                    |36-0|
+|                    24K5                    |38-0|
+|                    24K6                    |39-0|
+|                    24K7                    |43-0|
+|                    24K8                    |43-0|
+|                    24K9                    |44-0|
+|                   24K10                    | NM |
+|                   24K12                    | NM |
+|                    26K5                    |38-0|
+|                    26K6                    |39-0|
+|                    26K7                    |43-0|
+|                    26K8                    |44-0|
+|                    26K9                    |45-0|
+|                   26K10                    |49-0|
+|                   26K12                    | NM |
+|                    28K6                    |40-0|
+|                    28K7                    |43-0|
+|                    28K8                    |44-0|
+|                    28K9                    |45-0|
+|                   28K10                    |49-0|
+|                   28K12                    |53-0|
+|                    30K7                    |44-0|
+|                    30K8                    |45-0|
+|                    30K9                    |45-0|
+|                   30K10                    |50-0|
+|                   30K11                    |52-0|
+|                   30K12                    |54-0|
+|                   10KCS1                   | NM |
+|                   10KCS2                   | NM |
+|                   10KCS3                   | NM |
+|                   12KCS1                   | NM |
+|                   12KCS2                   | NM |
+|                   12KCS3                   | NM |
+|                   14KCS1                   | NM |
+|                   14KCS2                   | NM |
+|                   14KCS3                   | NM |
+|                   16KCS2                   | NM |
+|                   16KCS3                   | NM |
+|                   16KCS4                   | NM |
+|                   16KCS5                   | NM |
+|                   18KCS2                   |35-0|
+|                   18KCS3                   | NM |
+|                   18KCS4                   | NM |
+|                   18KCS5                   | NM |
+|                   20KCS2                   |36-0|
+|                   20KCS3                   |39-0|
+|                   20KCS4                   | NM |
+|                   20KCS5                   | NM |
+|                   22KCS2                   |36-0|
+|                   22KCS3                   |40-0|
+|                   22KCS4                   | NM |
+|                   22KCS5                   | NM |
+|                   24KCS2                   |39-0|
+|                   24KCS3                   |44-0|
+|                   24KCS4                   | NM |
+|                   24KCS5                   | NM |
+|                   26KCS2                   |39-0|
+|                   26KCS3                   |44-0|
+|                   26KCS4                   | NM |
+|                   26KCS5                   | NM |
+|                   28KCS2                   |40-0|
+|                   28KCS3                   |45-0|
+|                   28KCS4                   |53-0|
+|                   28KCS5                   |53-0|
+|                   30KC53                   |45-0|
+|                   30KCS4                   |54-0|
+|                   30KCS5                   |54-0|
+|NM = diagonal bolted bridging not mandatory.|    |
 
-|Joist |Span|
-|------|----|
-| 8L1  | NM |
-| 10K1 | NM |
-| 12K1 |23-0|
-| 12K3 | NM |
-| 12K5 | NM |
-| 14K1 |27-0|
-| 14K3 | NM |
-| 14K4 | NM |
-| 14K6 | NM |
-| 16K2 |29-0|
-| 16K3 |30-0|
-| 16K4 |32-0|
-| 16K5 |32-0|
-| 16K6 | NM |
-| 16K7 | NM |
-| 16K9 | NM |
-| 18K3 |31-0|
-| 18K4 |32-0|
-| 18K5 |33-0|
-| 18K6 |35-0|
-| 18K7 | NM |
-| 18K9 | NM |
-|18K10 | NM |
-| 20K3 |32-0|
-| 20K4 |34-0|
-| 20K5 |34-0|
-| 20K6 |36-0|
-| 20K7 |39-0|
-| 20K9 |39-0|
-|20K10 | NM |
-| 22K4 |34-0|
-| 22K5 |35-0|
-| 22K6 |36-0|
-| 22K7 |40-0|
-| 22K9 |40-0|
-|22K10 |40-0|
-|22K11 |40-0|
-| 24K4 |36-0|
-| 24K5 |38-0|
-| 24K6 |39-0|
-| 24K7 |43-0|
-| 24K8 |43-0|
-| 24K9 |44-0|
-|24K10 | NM |
-|24K12 | NM |
-| 26K5 |38-0|
-| 26K6 |39-0|
-| 26K7 |43-0|
-| 26K8 |44-0|
-| 26K9 |45-0|
-|26K10 |49-0|
-|26K12 | NM |
-| 28K6 |40-0|
-| 28K7 |43-0|
-| 28K8 |44-0|
-| 28K9 |45-0|
-|28K10 |49-0|
-|28K12 |53-0|
-| 30K7 |44-0|
-| 30K8 |45-0|
-| 30K9 |45-0|
-|30K10 |50-0|
-|30K11 |52-0|
-|30K12 |54-0|
-|10KCS1| NM |
-|10KCS2| NM |
-|10KCS3| NM |
-|12KCS1| NM |
-|12KCS2| NM |
-|12KCS3| NM |
-|14KCS1| NM |
-|14KCS2| NM |
-|14KCS3| NM |
-|16KCS2| NM |
-|16KCS3| NM |
-|16KCS4| NM |
-|16KCS5| NM |
-|18KCS2|35-0|
-|18KCS3| NM |
-|18KCS4| NM |
-|18KCS5| NM |
-|20KCS2|36-0|
-|20KCS3|39-0|
-|20KCS4| NM |
-|20KCS5| NM |
-|22KCS2|36-0|
-|22KCS3|40-0|
-|22KCS4| NM |
-|22KCS5| NM |
-|24KCS2|39-0|
-|24KCS3|44-0|
-|24KCS4| NM |
-|24KCS5| NM |
-|26KCS2|39-0|
-|26KCS3|44-0|
-|26KCS4| NM |
-|26KCS5| NM |
-|28KCS2|40-0|
-|28KCS3|45-0|
-|28KCS4|53-0|
-|28KCS5|53-0|
-|30KC53|45-0|
-|30KCS4|54-0|
-|30KCS5|54-0|
-
-NM = diagonal bolted bridging not mandatory for joists under 40 feet.
-
-Table B - Erection Bridging for Long Span Joists
-
-|Joist |       Span       |
-|------|------------------|
-|18LH02|      33-0.       |
-|18LH03|       NM.        |
-|18LH04|       NM.        |
-|18LH05|       NM.        |
-|18LH06|       NM.        |
-|18LH07|       NM.        |
-|18LH08|       NM.        |
-|18LH09|       NM.        |
-|20LH02|      33-0.       |
-|20LH03|      38-0.       |
-|20LH04|       NM.        |
-|20LH05|       NM.        |
-|20LH06|       NM.        |
-|20LH07|       NM.        |
-|20LH08|       NM.        |
-|20LH09|       NM.        |
-|20LH10|       NM.        |
-|24LH03|      35-0.       |
-|24LH04|      39-0.       |
-|24LH05|      40-0.       |
-|24LH06|      45-0.       |
-|24LH07|       NM.        |
-|24LH08|       NM.        |
-|24LH09|       NM.        |
-|24LH10|       NM.        |
-|24LH11|       NM.        |
-|28LH05|      42-0.       |
-|28LH06|      42-0.       |
-|28LH07|       NM.        |
-|28LH08|       NM.        |
-|28LH09|       NM.        |
-|28LH10|       NM.        |
-|28LH11|       NM.        |
-|28LH12|       NM.        |
-|28LH13|       NM.        |
-|32LH06|47-0 through 60-0.|
-|32LH07|47-0 through 60-0.|
-|32LH08|55-0 through 60-0.|
-|32LH09| NM through 60-0. |
-|32LH10| NM through 60-0. |
-|32LH11| NM through 60-0. |
-|32LH12| NM through 60-0. |
-|32LH13| NM through 60-0. |
-|32LH14| NM through 60-0. |
-|32LH15| NM through 60-0. |
-|36LH07|47-0 through 60-0.|
-|36LH08|47-0 through 60-0.|
-|36LH09|57-0 through 60-0.|
-|36LH10| NM through 60-0. |
-|36LH11| NM through 60-0. |
-|36LH12| NM through 60-0. |
-|36LH13| NM through 60-0. |
-|36LH14| NM through 60-0. |
-|36LH15| NM through 60-0. |
-
-NM = diagonal bolted bridging not mandatory for joists under 40 feet.
+|                   Joist                    |       Span       |
+|--------------------------------------------|------------------|
+|                   18LH02                   |      33-0.       |
+|                   18LH03                   |       NM.        |
+|                   18LH04                   |       NM.        |
+|                   18LH05                   |       NM.        |
+|                   18LH06                   |       NM.        |
+|                   18LH07                   |       NM.        |
+|                   18LH08                   |       NM.        |
+|                   18LH09                   |       NM.        |
+|                   20LH02                   |      33-0.       |
+|                   20LH03                   |      38-0.       |
+|                   20LH04                   |       NM.        |
+|                   20LH05                   |       NM.        |
+|                   20LH06                   |       NM.        |
+|                   20LH07                   |       NM.        |
+|                   20LH08                   |       NM.        |
+|                   20LH09                   |       NM.        |
+|                   20LH10                   |       NM.        |
+|                   24LH03                   |      35-0.       |
+|                   24LH04                   |      39-0.       |
+|                   24LH05                   |      40-0.       |
+|                   24LH06                   |      45-0.       |
+|                   24LH07                   |       NM.        |
+|                   24LH08                   |       NM.        |
+|                   24LH09                   |       NM.        |
+|                   24LH10                   |       NM.        |
+|                   24LH11                   |       NM.        |
+|                   28LH05                   |      42-0.       |
+|                   28LH06                   |      42-0.       |
+|                   28LH07                   |       NM.        |
+|                   28LH08                   |       NM.        |
+|                   28LH09                   |       NM.        |
+|                   28LH10                   |       NM.        |
+|                   28LH11                   |       NM.        |
+|                   28LH12                   |       NM.        |
+|                   28LH13                   |       NM.        |
+|                   32LH06                   |47-0 through 60-0.|
+|                   32LH07                   |47-0 through 60-0.|
+|                   32LH08                   |55-0 through 60-0.|
+|                   32LH09                   | NM through 60-0. |
+|                   32LH10                   | NM through 60-0. |
+|                   32LH11                   | NM through 60-0. |
+|                   32LH12                   | NM through 60-0. |
+|                   32LH13                   | NM through 60-0. |
+|                   32LH14                   | NM through 60-0. |
+|                   32LH15                   | NM through 60-0. |
+|                   36LH07                   |47-0 through 60-0.|
+|                   36LH08                   |47-0 through 60-0.|
+|                   36LH09                   |57-0 through 60-0.|
+|                   36LH10                   | NM through 60-0. |
+|                   36LH11                   | NM through 60-0. |
+|                   36LH12                   | NM through 60-0. |
+|                   36LH13                   | NM through 60-0. |
+|                   36LH14                   | NM through 60-0. |
+|                   36LH15                   | NM through 60-0. |
+|NM = diagonal bolted bridging not mandatory.|                  |
 
 (4) Employees shall not be allowed on steel joists where the span of the steel joist is equal to or greater than the span shown in Tables A and B except in accordance with § 1926.757(d).
 
@@ -293,3 +287,5 @@ NM = diagonal bolted bridging not mandatory for joists under 40 feet.
 (vi) Placement of the bundle of decking shall be in accordance with paragraph (e)(5) of this section.
 
 (5) The edge of the construction load shall be placed within 1 foot (.30 m) of the bearing surface of the joist end.
+
+[66 FR 5265, Jan. 18, 2001, as amended at 85 FR 8745, Feb. 18, 2020]

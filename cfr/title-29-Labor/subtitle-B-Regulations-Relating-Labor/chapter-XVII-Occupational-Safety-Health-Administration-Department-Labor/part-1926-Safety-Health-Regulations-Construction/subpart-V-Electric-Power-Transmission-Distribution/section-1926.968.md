@@ -104,9 +104,9 @@ An atmospheric concentration of any substance that is not capable of causing dea
 
 (5) Any other atmospheric condition that is immediately dangerous to life or health.
 
-Note to the definition of “hazardous atmosphere” (5):
+Note to the Definition of “Hazardous Atmosphere” (5):
 
-For air contaminants for which the Occupational Safety and Health Administration has not determined a dose or permissible exposure limit, other sources of information, such as Material Safety Data Sheets that comply with the Hazard Communication Standard, § 1926.59, published information, and internal documents can provide guidance in establishing acceptable atmospheric conditions.
+For air contaminants for which the Occupational Safety and Health Administration has not determined a dose or permissible exposure limit, other sources of information, such as Safety Data Sheets (SDS) that comply with the Hazard Communication Standard, § 1910.1200, published information, and internal documents can provide guidance in establishing acceptable atmospheric conditions.
 
 *High-power tests.* Tests in which the employer uses fault currents, load currents, magnetizing currents, and line-dropping currents to test equipment, either at the equipment's rated voltage or at lower voltages.
 
@@ -196,4 +196,4 @@ Except under § 1926.954(b)(3)(iii), an employee who is undergoing on-the-job tr
 
 *Work-positioning equipment.* A body belt or body harness system rigged to allow an employee to be supported on an elevated vertical surface, such as a utility pole or tower leg, and work with both hands free while leaning.
 
-[79 FR 20696, Apr. 11, 2014, as amended at 79 FR 56962, Sept. 24, 2014; 80 FR 25518, May 4, 2015]
+[79 FR 20696, Apr. 11, 2014, as amended at 79 FR 56962, Sept. 24, 2014; 80 FR 25518, May 4, 2015; 85 FR 8745, Feb. 18, 2020]

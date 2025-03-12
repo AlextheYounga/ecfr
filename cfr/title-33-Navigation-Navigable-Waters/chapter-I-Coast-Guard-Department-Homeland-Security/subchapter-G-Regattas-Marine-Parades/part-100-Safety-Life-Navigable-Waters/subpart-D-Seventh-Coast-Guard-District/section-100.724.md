@@ -1,5 +1,7 @@
 ##### § 100.724 Annual Augusta Invitational Rowing Regatta; Savannah River, Augusta, GA. #####
 
+Link to an amendment published at 85 FR 8404, Feb. 14, 2020.
+
 (a) *Definitions* - (1) *Regulated area.* The regulated area is formed by a line drawn directly across the Savannah River at U.S. Highway 1 (Fifth Street) Bridge at mile marker 199.45 and directly across the Savannah River at Eliot's Fish Camp at mile marker 197. The regulated area includes the width of the Savannah River between these two lines.
 
 (2) *Coast Guard Patrol Commander.* The Coast Guard patrol Commander is a commissioned, warrant, or petty officer of the Coast Guard who been designated by the Commander, Coast Guard Sector Charleston, SC.

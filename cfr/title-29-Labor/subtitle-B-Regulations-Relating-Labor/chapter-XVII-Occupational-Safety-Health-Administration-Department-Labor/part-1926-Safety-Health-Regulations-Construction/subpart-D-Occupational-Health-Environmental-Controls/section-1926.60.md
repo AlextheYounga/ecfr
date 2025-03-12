@@ -76,7 +76,7 @@
 
 (d) *Communication among employers.* On multi-employer worksites, an employer performing work involving the application of MDA or materials containing MDA for which establishment of one or more regulated areas is required shall inform other employers on the site of the nature of the employer's work with MDA and of the existence of, and requirements pertaining to, regulated areas.
 
-(e) *Emergency situations* - (1) *Written plan.* (i) A written plan for emergency situations shall be developed for each construction operation where there is a possibility of an emergency. The plan shall include procedures where the employer identifies emergency escape routes for his employees at each construction site before the construction operation begins. Appropriate portions of the plan shall be implemented in the event of an emergency.
+(e) *Emergency situations*—(1) *Written plan.* (i) A written plan for emergency situations shall be developed for each construction operation where there is a possibility of an emergency. The plan shall include procedures where the employer identifies emergency escape routes for his employees at each construction site before the construction operation begins. Appropriate portions of the plan shall be implemented in the event of an emergency.
 
 (ii) The plan shall specifically provide that employees engaged in correcting emergency conditions shall be equipped with the appropriate personal protective equipment and clothing as required in paragraphs (i) and (j) of this section until the emergency is abated.
 
@@ -84,7 +84,7 @@
 
 (2) *Alerting employees.* Where there is the possibility of employee exposure to MDA due to an emergency, means shall be developed to promptly alert employees who have the potential to be directly exposed. Affected employees not engaged in correcting emergency conditions shall be evacuated immediately in the event that an emergency occurs. Means shall also be developed for alerting other employees who may be exposed as a result of the emergency.
 
-(f) *Exposure monitoring* - (1) *General.* (i) Determinations of employee exposure shall be made from breathing zone air samples that are representative of each employee's exposure to airborne MDA over an eight (8) hour period. Determination of employee exposure to the STEL shall be made from breathing zone air samples collected over a 15 minute sampling period.
+(f) *Exposure monitoring*—(1) *General.* (i) Determinations of employee exposure shall be made from breathing zone air samples that are representative of each employee's exposure to airborne MDA over an eight (8) hour period. Determination of employee exposure to the STEL shall be made from breathing zone air samples collected over a 15 minute sampling period.
 
 (ii) Representative employee exposure shall be determined on the basis of one or more samples representing full shift exposure for each shift for each job classification in each work area where exposure to MDA may occur.
 
@@ -124,7 +124,7 @@
 
 (iii) Maintain records of the corrective actions in accordance with paragraph (o) of this section.
 
-(g) *Regulated areas* - (1) *Establishment* - (i) *Airborne exposures.* The employer shall establish regulated areas where airborne concentrations of MDA exceed or can reasonably be expected to exceed, the permissible exposure limits.
+(g) *Regulated areas*—(1) *Establishment*—(i) *Airborne exposures.* The employer shall establish regulated areas where airborne concentrations of MDA exceed or can reasonably be expected to exceed, the permissible exposure limits.
 
 (ii) *Dermal exposures.* Where employees are subject to “dermal exposure to MDA” the employer shall establish those work areas as regulated areas.
 
@@ -136,7 +136,7 @@
 
 (5) *Prohibited activities.* The employer shall ensure that employees do not eat, drink, smoke, chew tobacco or gum, or apply cosmetics in regulated areas.
 
-(h) *Methods of compliance* - (1) *Engineering controls and work practices and respirators.* (i) The employer shall use one or any combination of the following control methods to achieve compliance with the permissible exposure limits prescribed by paragraph (c) of this section:
+(h) *Methods of compliance*—(1) *Engineering controls and work practices and respirators.* (i) The employer shall use one or any combination of the following control methods to achieve compliance with the permissible exposure limits prescribed by paragraph (c) of this section:
 
 (A) Local exhaust ventilation equipped with HEPA filter dust collection systems;
 
@@ -158,7 +158,7 @@
 
 (ii) Upon request this written program shall be furnished for examination and copying to the Assistant Secretary, the Director, affected employees and designated employee representatives. The employer shall review and, as necessary, update such plans at least once every 12 months to make certain they reflect the current status of the program.
 
-(i) *Respiratory protection* - (1) *General.* For employees who use respirators required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
+(i) *Respiratory protection*—(1) *General.* For employees who use respirators required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
 
 (i) Periods necessary to install or implement feasible engineering and work-practice controls.
 
@@ -182,7 +182,7 @@
 
 (ii) An employee who cannot use a negative-pressure respirator must be given the option of using a positive-pressure respirator, or a supplied-air respirator operated in the continuous-flow or pressure-demand mode.
 
-(j) *Protective work clothing and equipment* - (1) *Provision and use.* Where employees are subject to dermal exposure to MDA, where liquids containing MDA can be splashed into the eyes, or where airborne concentrations of MDA are in excess of the PEL, the employer shall provide, at no cost to the employee, and ensure that the employee uses, appropriate protective work clothing and equipment which prevent contact with MDA such as, but not limited to:
+(j) *Protective work clothing and equipment*—(1) *Provision and use.* Where employees are subject to dermal exposure to MDA, where liquids containing MDA can be splashed into the eyes, or where airborne concentrations of MDA are in excess of the PEL, the employer shall provide, at no cost to the employee, and ensure that the employee uses, appropriate protective work clothing and equipment which prevent contact with MDA such as, but not limited to:
 
 (i) Aprons, coveralls or other full-body work clothing;
 
@@ -216,7 +216,7 @@
 
 (ii) When rips or tears are detected, the protective equipment or clothing shall be repaired and replaced immediately.
 
-(k) *Hygiene facilities and practices* - (1) *General.* (i) The employer shall provide decontamination areas for employees required to work in regulated areas or required by paragraph (j)(1) of this section to wear protective clothing. *Exception:* In lieu of the decontamination area requirement specified in paragraph (k)(1)(i) of this section, the employer may permit employees engaged in small scale, short duration operations, to clean their protective clothing or dispose of the protective clothing before such employees leave the area where the work was performed.
+(k) *Hygiene facilities and practices*—(1) *General.* (i) The employer shall provide decontamination areas for employees required to work in regulated areas or required by paragraph (j)(1) of this section to wear protective clothing. *Exception:* In lieu of the decontamination area requirement specified in paragraph (k)(1)(i) of this section, the employer may permit employees engaged in small scale, short duration operations, to clean their protective clothing or dispose of the protective clothing before such employees leave the area where the work was performed.
 
 (ii) *Change areas.* The employer shall ensure that change areas are equipped with separate storage facilities for protective clothing and street clothing, in accordance with 29 CFR 1910.141(e).
 
@@ -232,9 +232,9 @@
 
 (iii) The employer shall ensure that employees do not enter lunch facilities with contaminated protective work clothing or equipment.
 
-(l) *Communication of hazards to employees* - (1) *Hazard communication.* The employer shall include Methylenedianiline (MDA) in the program established to comply with the Hazard Communication Standard (HCS) (§ 1910.1200). The employer shall ensure that each employee has access to labels on containers of MDA and safety data sheets, and is trained in accordance with the provisions of HCS and paragraph (l)(3) of this section. The employer shall ensure that at least the following hazards are addressed: Cancer; liver effects; and skin sensitization.
+(l) *Communication of hazards to employees*—(1) *Hazard communication.* The employer shall include Methylenedianiline (MDA) in the program established to comply with the Hazard Communication Standard (HCS) (§ 1910.1200). The employer shall ensure that each employee has access to labels on containers of MDA and safety data sheets, and is trained in accordance with the provisions of HCS and paragraph (l)(3) of this section. The employer shall ensure that at least the following hazards are addressed: Cancer; liver effects; and skin sensitization.
 
-(2) *Signs and labels* - (i) *Signs.* (A) The employer shall post and maintain legible signs demarcating regulated areas and entrances or access-ways to regulated areas that bear the following legend:
+(2) *Signs and labels*—(i) *Signs.* (A) The employer shall post and maintain legible signs demarcating regulated areas and entrances or access-ways to regulated areas that bear the following legend:
 
 DANGERMDAMAY CAUSE CANCERCAUSES DAMAGE TO THE LIVERRESPIRATORY PROTECTION AND PROTECTIVE CLOTHING MAY BE REQUIRED IN THIS AREAAUTHORIZED PERSONNEL ONLY
 
@@ -282,7 +282,7 @@ DANGERCONTAINS MDACONTAINS MATERIALS WHICH MAY CAUSE CANCERLIVER TOXIN
 
 (6) Waste, scrap, debris, bags, containers, equipment, and clothing contaminated with MDA shall be collected and disposed of in a manner to prevent the re-entry of MDA into the workplace.
 
-(n) *Medical surveillance* - (1) *General.* (i) The employer shall make available a medical surveillance program for employees exposed to MDA under the following circumstances:
+(n) *Medical surveillance*—(1) *General.* (i) The employer shall make available a medical surveillance program for employees exposed to MDA under the following circumstances:
 
 (A) Employees exposed at or above the action level for 30 or more days per year;
 
@@ -380,7 +380,7 @@ DANGERCONTAINS MDACONTAINS MATERIALS WHICH MAY CAUSE CANCERLIVER TOXIN
 
 (ii) The written opinion obtained by the employer shall not reveal specific findings or diagnoses unrelated to occupational exposures.
 
-(9) *Medical removal* - (i) *Temporary medical removal of an employee* - (A) *Temporary removal resulting from occupational exposure.* The employee shall be removed from work environments in which exposure to MDA is at or above the action level or where dermal exposure to MDA may occur, following an initial examination (paragraph (n)(2) of this section), periodic examinations (paragraph (n)(3) of this section), an emergency situation (paragraph (n)(4) of this section), or an additional examination (paragraph (n)(5) of this section) in the following circumstances:
+(9) *Medical removal*—(i) *Temporary medical removal of an employee*—(A) *Temporary removal resulting from occupational exposure.* The employee shall be removed from work environments in which exposure to MDA is at or above the action level or where dermal exposure to MDA may occur, following an initial examination (paragraph (n)(2) of this section), periodic examinations (paragraph (n)(3) of this section), an emergency situation (paragraph (n)(4) of this section), or an additional examination (paragraph (n)(5) of this section) in the following circumstances:
 
 (*1*) When the employee exhibits signs and/or symptoms indicative of acute exposure to MDA; or
 
@@ -412,7 +412,7 @@ DANGERCONTAINS MDACONTAINS MATERIALS WHICH MAY CAUSE CANCERLIVER TOXIN
 
 (*2*) The employee has been on removal status for the preceding six months as a result of exposure to MDA, then the employer shall await a final medical determination.
 
-(v) *Medical removal protection benefits* - (A) *Provisions of medical removal protection benefits.* The employer shall provide to an employee up to six (6) months of medical removal protection benefits on each occasion that an employee is removed from exposure to MDA or otherwise limited pursuant to this section.
+(v) *Medical removal protection benefits*—(A) *Provisions of medical removal protection benefits.* The employer shall provide to an employee up to six (6) months of medical removal protection benefits on each occasion that an employee is removed from exposure to MDA or otherwise limited pursuant to this section.
 
 (B) *Definition of medical removal protection benefits.* For the purposes of this section, the requirement that an employer provide medical removal protection benefits means that the employer shall maintain the earnings, seniority, and other employment rights and benefits of an employee as though the employee had not been removed from normal exposure to MDA or otherwise limited.
 
@@ -434,7 +434,7 @@ DANGERCONTAINS MDACONTAINS MATERIALS WHICH MAY CAUSE CANCERLIVER TOXIN
 
 (vi) *Voluntary removal or restriction of an employee.* Where an employer, although not required by this section to do so, removes an employee from exposure to MDA or otherwise places limitations on an employee due to the effects of MDA exposure on the employee's medical condition, the employer shall provide medical removal protection benefits to the employee equal to that required by paragraph (n)(9)(v) of this section.
 
-(o) *Recordkeeping* - (1) *Objective data for exempted operations.* (i) Where the employer has relied on objective data that demonstrate that products made from or containing MDA are not capable of releasing MDA or do not present a dermal exposure problem under the expected conditions of processing, use, or handling to exempt such operations from the initial monitoring requirements under paragraph (f)(2) of this section, the employer shall establish and maintain an accurate record of objective data reasonably relied upon in support of the exemption.
+(o) *Recordkeeping*—(1) *Objective data for exempted operations.* (i) Where the employer has relied on objective data that demonstrate that products made from or containing MDA are not capable of releasing MDA or do not present a dermal exposure problem under the expected conditions of processing, use, or handling to exempt such operations from the initial monitoring requirements under paragraph (f)(2) of this section, the employer shall establish and maintain an accurate record of objective data reasonably relied upon in support of the exemption.
 
 (ii) The record shall include at least the following information:
 
@@ -514,25 +514,25 @@ DANGERCONTAINS MDACONTAINS MATERIALS WHICH MAY CAUSE CANCERLIVER TOXIN
 
 (8) *Transfer of records.* The employer shall comply with the requirements concerning transfer of records set forth in 29 CFR 1910.1020(h).
 
-(p) *Observation of monitoring* - (1) *Employee observation.* The employer shall provide affected employees, or their designated representatives, an opportunity to observe the measuring or monitoring of employee exposure to MDA conducted pursuant to paragraph (f) of this section.
+(p) *Observation of monitoring*—(1) *Employee observation.* The employer shall provide affected employees, or their designated representatives, an opportunity to observe the measuring or monitoring of employee exposure to MDA conducted pursuant to paragraph (f) of this section.
 
 (2) *Observation procedures.* When observation of the measuring or monitoring of employee exposure to MDA requires entry into areas where the use of protective clothing and equipment or respirators is required, the employer shall provide the observer with personal protective clothing and equipment or respirators required to be worn by employees working in the area, assure the use of such clothing and equipment or respirators, and require the observer to comply with all other applicable safety and health procedures.
 
 (q) *Appendices.* The information contained in appendices A, B, C, and D of this section is not intended, by itself, to create any additional obligations not otherwise imposed by this standard nor detract from any existing obligation.
 
-Appendix A to § 1926.60 - Substance Data Sheet, for 4-4′ MethylenedianilineNote:
+Appendix A to § 1926.60—Substance Data Sheet, for 4-4′ MethylenedianilineNote:
 
 The requirements applicable to construction work under this appendix A are identical to those set forth in appendix A to § 1910.1050 of this chapter.
 
-Appendix B to § 1926.60 - Substance Technical Guidelines, MDANote:
+Appendix B to § 1926.60—Substance Technical Guidelines, MDANote:
 
 The requirements applicable to construction work under this appendix B are identical to those set forth in appendix B to § 1910.1050 of this chapter.
 
-Appendix C to § 1926.60 - Medical Surveillance Guidelines for MDANote:
+Appendix C to § 1926.60—Medical Surveillance Guidelines for MDANote:
 
 The requirements applicable to construction work under this appendix C are identical to those set forth in appendix C to § 1910.1050 of this chapter.
 
-Appendix D to § 1926.60 - Sampling and Analytical Methods for MDA Monitoring and Measurement ProceduresNote:
+Appendix D to § 1926.60—Sampling and Analytical Methods for MDA Monitoring and Measurement ProceduresNote:
 
 The requirements applicable to construction work under this appendix D are identical to those set forth in appendix D to § 1910.1050 of this chapter.
 

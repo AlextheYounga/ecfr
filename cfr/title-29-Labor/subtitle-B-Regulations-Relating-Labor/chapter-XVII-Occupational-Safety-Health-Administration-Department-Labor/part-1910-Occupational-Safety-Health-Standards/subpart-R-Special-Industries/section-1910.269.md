@@ -1,6 +1,6 @@
 ##### § 1910.269 Electric power generation, transmission, and distribution. #####
 
-(a) *General* - (1) *Application.* (i) This section covers the operation and maintenance of electric power generation, control, transformation, transmission, and distribution lines and equipment. These provisions apply to:
+(a) *General*—(1) *Application.* (i) This section covers the operation and maintenance of electric power generation, control, transformation, transmission, and distribution lines and equipment. These provisions apply to:
 
 (A) Power generation, transmission, and distribution installations, including related equipment for the purpose of communication or metering that are accessible only to qualified employees;
 
@@ -174,7 +174,7 @@ For the purposes of this paragraph, the host employer need only provide informat
 
 (3) *First-aid kits.* The employer shall maintain each first-aid kit, shall ensure that it is readily available for use, and shall inspect it frequently enough to ensure that expended items are replaced. The employer also shall inspect each first aid kit at least once per year.
 
-(c) *Job briefing* - (1) *Before each job.* (i) In assigning an employee or a group of employees to perform a job, the employer shall provide the employee in charge of the job with all available information that relates to the determination of existing characteristics and conditions required by paragraph (a)(4) of this section.
+(c) *Job briefing*—(1) *Before each job.* (i) In assigning an employee or a group of employees to perform a job, the employer shall provide the employee in charge of the job with all available information that relates to the determination of existing characteristics and conditions required by paragraph (a)(4) of this section.
 
 (ii) The employer shall ensure that the employee in charge conducts a job briefing that meets paragraphs (c)(2), (c)(3), and (c)(4) of this section with the employees involved before they start each job.
 
@@ -198,7 +198,7 @@ The briefing must address all the subjects listed in paragraph (c)(2) of this se
 
 (5) *Working alone.* An employee working alone need not conduct a job briefing. However, the employer shall ensure that the tasks to be performed are planned as if a briefing were required.
 
-(d) *Hazardous energy control (lockout/tagout) procedures* - (1) *Application.* The provisions of paragraph (d) of this section apply to the use of lockout/tagout procedures for the control of energy sources in installations for the purpose of electric power generation, including related equipment for communication or metering. Locking and tagging procedures for the deenergizing of electric energy sources which are used exclusively for purposes of transmission and distribution are addressed by paragraph (m) of this section.
+(d) *Hazardous energy control (lockout/tagout) procedures*—(1) *Application.* The provisions of paragraph (d) of this section apply to the use of lockout/tagout procedures for the control of energy sources in installations for the purpose of electric power generation, including related equipment for communication or metering. Locking and tagging procedures for the deenergizing of electric energy sources which are used exclusively for purposes of transmission and distribution are addressed by paragraph (m) of this section.
 
 Note to paragraph (d)(1):
 
@@ -440,7 +440,7 @@ Entries into enclosed spaces conducted in accordance with the permit-space entry
 
 (f) *Excavations.* Excavation operations shall comply with subpart P of part 1926 of this chapter.
 
-(g) *Personal protective equipment* - (1) *General.* Personal protective equipment shall meet the requirements of subpart I of this part.
+(g) *Personal protective equipment*—(1) *General.* Personal protective equipment shall meet the requirements of subpart I of this part.
 
 Note to paragraph (g)(1) of this section:
 
@@ -489,8 +489,6 @@ Positioning straps that pass direct-current tests at equivalent voltages are con
 (*4*) A buckle-tear test with a load of 4.4 kilonewtons (1,000 pounds-force); and
 
 (*5*) A flammability test in accordance with Table R-2.
-
-Table R-2 - Flammability Test
 
 |                                                                            Test method                                                                            |                                                       Criteria for passing the test                                                        |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
@@ -581,7 +579,7 @@ Wood-pole fall-restriction devices meeting American Society of Testing and Mater
 
 (*5*) To any object that is incompatibly shaped or dimensioned in relation to the snaphook such that accidental disengagement could occur should the connected object sufficiently depress the snaphook keeper to allow release of the object.
 
-(h) *Portable ladders and platforms* - (1) *General.* Requirements for portable ladders contained in subpart D of this part apply in addition to the requirements of paragraph (h) of this section, except as specifically noted in paragraph (h)(2) of this section.
+(h) *Portable ladders and platforms*—(1) *General.* Requirements for portable ladders contained in subpart D of this part apply in addition to the requirements of paragraph (h) of this section, except as specifically noted in paragraph (h)(2) of this section.
 
 (2) *Special ladders and platforms.* Portable ladders used on structures or conductors in conjunction with overhead line work need not meet § 1910.23(c)(4) and (9). Portable ladders and platforms used on structures or conductors in conjunction with overhead line work shall meet the following requirements:
 
@@ -595,7 +593,7 @@ Wood-pole fall-restriction devices meeting American Society of Testing and Mater
 
 (3) *Conductive ladders.* Portable metal ladders and other portable conductive ladders may not be used near exposed energized lines or equipment. However, in specialized high-voltage work, conductive ladders shall be used when the employer demonstrates that nonconductive ladders would present a greater hazard to employees than conductive ladders.
 
-(i) *Hand and portable power equipment* - (1) *General.* Paragraph (i)(2) of this section applies to electric equipment connected by cord and plug. Paragraph (i)(3) of this section applies to portable and vehicle-mounted generators used to supply cord- and plug-connected equipment. Paragraph (i)(4) of this section applies to hydraulic and pneumatic tools.
+(i) *Hand and portable power equipment*—(1) *General.* Paragraph (i)(2) of this section applies to electric equipment connected by cord and plug. Paragraph (i)(3) of this section applies to portable and vehicle-mounted generators used to supply cord- and plug-connected equipment. Paragraph (i)(4) of this section applies to hydraulic and pneumatic tools.
 
 (2) *Cord- and plug-connected equipment.* Cord- and plug-connected equipment not covered by subpart S of this part shall comply with one of the following instead of § 1910.243(a)(5):
 
@@ -637,7 +635,7 @@ Use of hydraulic lines that do not have check valves and that have a separation 
 
 (vii) Hoses may not be kinked.
 
-(j) *Live-line tools* - (1) *Design of tools.* Live-line tool rods, tubes, and poles shall be designed and constructed to withstand the following minimum tests:
+(j) *Live-line tools*—(1) *Design of tools.* Live-line tool rods, tubes, and poles shall be designed and constructed to withstand the following minimum tests:
 
 (i) If the tool is made of fiberglass-reinforced plastic (FRP), it shall withstand 328,100 volts per meter (100,000 volts per foot) of length for 5 minutes, or
 
@@ -679,7 +677,7 @@ Note to paragraph (j)(2):
 
 Guidelines for the examination, cleaning, repairing, and in-service testing of live-line tools are specified in the Institute of Electrical and Electronics Engineers' *IEEE Guide for Maintenance Methods on Energized Power Lines,* IEEE Std 516-2009.
 
-(k) *Materials handling and storage* - (1) *General.* Materials handling and storage shall comply with applicable material-handling and material-storage requirements in this part, including those in subpart N of this part.
+(k) *Materials handling and storage*—(1) *General.* Materials handling and storage shall comply with applicable material-handling and material-storage requirements in this part, including those in subpart N of this part.
 
 (2) *Materials storage near energized lines or equipment.* (i) In areas to which access is not restricted to qualified persons only, materials or equipment may not be stored closer to energized lines or exposed energized parts of equipment than the following distances, plus a distance that provides for the maximum sag and side swing of all conductors and for the height and movement of material-handling equipment:
 
@@ -827,52 +825,40 @@ See appendix E to this section for further information on the selection of appro
 
 (ii) The employer shall ensure that devices used by employees to close circuits under load conditions are designed to safely carry the current involved.
 
-Table R-3 - AC Live-Line Work Minimum Approach Distance
+|                                                                                                                          For phase-to-phase system voltages of 50 V to 300 V: <sup>1</sup>                                                                                                                           |                                                          |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
+|                                                                                                                                                 MAD = avoid contact                                                                                                                                                  |                                                          |
+|                                                                                                                          For phase-to-phase system voltages of 301 V to 5 kV: <sup>1</sup>                                                                                                                           |                                                          |
+|                                                                                                                                                  MAD = M + D, where                                                                                                                                                  |                                                          |
+|                                                                                                                                                      D = 0.02 m                                                                                                                                                      |the electrical component of the minimum approach distance.|
+|                                                                                                                               M = 0.31 m for voltages up to 750 V and 0.61 m otherwise                                                                                                                               |             the inadvertent movement factor.             |
+|                                                                                                                  For phase-to-phase system voltages of 5.1 kV to 72.5 kV: <sup>1</sup><sup>4</sup>                                                                                                                   |                                                          |
+|                                                                                                                                                 MAD = M + AD, where                                                                                                                                                  |                                                          |
+|                                                                                                                                                      M = 0.61 m                                                                                                                                                      |             the inadvertent movement factor.             |
+|                                                                                                                                       A = the applicable value from Table R-5                                                                                                                                        |             the altitude correction factor.              |
+|                                                 D = the value from Table R-4 corresponding to the voltage and exposure or the value of the electrical component of the minimum approach distance calculated using the method provided in appendix B to this section                                                  |the electrical component of the minimum approach distance.|
+|                                                                                                              For phase-to-phase system voltages of more than 72.5 kV, nominal: <sup>2</sup><sup>4</sup>                                                                                                              |                                                          |
+|                                                                                                                                  MAD = 0.3048(C + a)V<sub><em>L-G</em></sub>TA + M                                                                                                                                   |                                                          |
+|                                                                                           C = 0.01 for phase-to-ground exposures that the employer can demonstrate consist only of air across the approach distance (gap),                                                                                           |                                                          |
+|                                                                             0.01 for phase-to-phase exposures if the employer can demonstrate that no insulated tool spans the gap and that no large conductive object is in the gap, or                                                                             |                                                          |
+|                                                                                                                                                   0.011 otherwise                                                                                                                                                    |                                                          |
+|                                                                                                                                 V<sub>L-G</sub> = phase-to-ground rms voltage, in kV                                                                                                                                 |                                                          |
+|T = maximum anticipated per-unit transient overvoltage; for phase-to-ground exposures, T equals T<sub>L-G</sub>, the maximum per-unit transient overvoltage, phase-to-ground, determined by the employer under paragraph (l)(3)(ii) of this section; for phase-to-phase exposures, T equals 1.35T<sub>L-G</sub> + 0.45|                                                          |
+|                                                                                                                                    A = altitude correction factor from Table R-5                                                                                                                                     |                                                          |
+|                                                                                                                                     M = 0.31 m, the inadvertent movement factor                                                                                                                                      |                                                          |
+|                                                                                                                                          a = saturation factor, as follows:                                                                                                                                          |                                                          |
 
-[The minimum approach distance (MAD; in meters) shall conform to the following equations.]
-
-|                                                                                                                For phase-to-phase system voltages of 50 V to 300 V:<sup>1</sup>                                                                                                                |                                                          |
-|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
-|                                                                                                                                      MAD = avoid contact                                                                                                                                       |                                                          |
-|                                                                                                                For phase-to-phase system voltages of 301 V to 5 kV:<sup>1</sup>                                                                                                                |                                                          |
-|                                                                                                                                       MAD = M + D, where                                                                                                                                       |                                                          |
-|                                                                                                                                           D = 0.02 m                                                                                                                                           |the electrical component of the minimum approach distance.|
-|                                                                                                                    M = 0.31 m for voltages up to 750 V and 0.61 m otherwise                                                                                                                    |             the inadvertent movement factor.             |
-|                                                                                                        For phase-to-phase system voltages of 5.1 kV to 72.5 kV:<sup>1</sup><sup>4</sup>                                                                                                        |                                                          |
-|                                                                                                                                      MAD = M + AD, where                                                                                                                                       |                                                          |
-|                                                                                                                                           M = 0.61 m                                                                                                                                           |             the inadvertent movement factor.             |
-|                                                                                                                            A = the applicable value from Table R-5                                                                                                                             |             the altitude correction factor.              |
-|                                      D = the value from Table R-4 corresponding to the voltage and exposure or the value of the electrical component of the minimum approach distance calculated using the method provided in appendix B to this section                                       |the electrical component of the minimum approach distance.|
-|                                                                                                   For phase-to-phase system voltages of more than 72.5 kV, nominal:<sup>2</sup><sup>4</sup>                                                                                                    |                                                          |
-|                                                                                                                                 MAD = 0.3048(C + a)VL-GTA + M                                                                                                                                  |                                                          |
-|                                                                                C = 0.01 for phase-to-ground exposures that the employer can demonstrate consist only of air across the approach distance (gap),                                                                                |                                                          |
-|                                                                  0.01 for phase-to-phase exposures if the employer can demonstrate that no insulated tool spans the gap and that no large conductive object is in the gap, or                                                                  |                                                          |
-|                                                                                                                                        0.011 otherwise                                                                                                                                         |                                                          |
-|                                                                                                                           VL-G = phase-to-ground rms voltage, in kV                                                                                                                            |                                                          |
-|T = maximum anticipated per-unit transient overvoltage; for phase-to-ground exposures, T equals TL-G, the maximum per-unit transient overvoltage, phase-to-ground, determined by the employer under paragraph (l)(3)(ii) of this section; for phase-to-phase exposures, T equals 1.35TL-G + 0.45|                                                          |
-|                                                                                                                         A = altitude correction factor from Table R-5                                                                                                                          |                                                          |
-|                                                                                                                          M = 0.31 m, the inadvertent movement factor                                                                                                                           |                                                          |
-|                                                                                                                               a = saturation factor, as follows:                                                                                                                               |                                                          |
-
-|     Phase-to-Ground Exposures      |              |                   |                     |                   |                     |
-|:----------------------------------:|--------------|-------------------|---------------------|-------------------|---------------------|
-|         VPeak = TL-GVL-G√2         |635 kV or less|  635.1 to 915 kV  |  915.1 to 1,050 kV  |More than 1,050 kV |                     |
-|                 a                  |      0       |(VPeak-635)/140,000| (VPeak-645)/135,000 |(VPeak-675)/125,000|                     |
-|Phase-to-Phase Exposures<sup>3</sup>|              |                   |                     |                   |                     |
-|  VPeak = (1.35TL-G + 0.45)VL-G√2   |630 kV or less|  630.1 to 848 kV  |  848.1 to 1,131 kV  |1,131.1 to 1,485 kV| More than 1,485 kV  |
-|                 a                  |      0       |(VPeak-630)/155,000|(VPeak-633.6)/152,207|(VPeak-628)/153,846|(VPeak-350.5)/203,666|
-
-<sup>1</sup> Employers may use the minimum approach distances in Table R-6. If the worksite is at an elevation of more than 900 meters (3,000 feet), see footnote 1 to Table R-6.
-
-<sup>2</sup> Employers may use the minimum approach distances in Table R-7, except that the employer may not use the minimum approach distances in Table R-7 for phase-to-phase exposures if an insulated tool spans the gap or if any large conductive object is in the gap. If the worksite is at an elevation of more than 900 meters (3,000 feet), see footnote 1 to Table R-7. Employers may use the minimum approach distances in Table 14 through Table 21 in appendix B to this section, which calculated MAD for various values of T, provided the employer follows the notes to those tables.
-
-<sup>3</sup> Use the equations for phase-to-ground exposures (with VPeak for phase-to-phase exposures) unless the employer can demonstrate that no insulated tool spans the gap and that no large conductive object is in the gap.
-
-<sup>4</sup> Until March 31, 2015, employers may use the minimum approach distances in Table 6 through Table 13 in Appendix B to this section.
-
-Table R-4 - Electrical Component of the Minimum Approach Distance at 5.1 to 72.5 kV
-
-[D; In meters]
+|                                                                                                                                                                                                                                                                                       Phase-to-Ground Exposures                                                                                                                                                                                                                                                                                       |              |                                       |                                         |                                       |                                         |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|---------------------------------------|-----------------------------------------|---------------------------------------|-----------------------------------------|
+|                                                                                                                                                                                                                                                            V<sub><em>Peak</em></sub> = T<sub><em>L-G</em></sub>V<sub><em>L-G</em></sub>√2                                                                                                                                                                                                                                                             |635 kV or less|            635.1 to 915 kV            |            915.1 to 1,050 kV            |          More than 1,050 kV           |                                         |
+|                                                                                                                                                                                                                                                                                                   a                                                                                                                                                                                                                                                                                                   |      0       |(V<sub><em>Peak</em></sub>-635)/140,000| (V<sub><em>Peak</em></sub>-645)/135,000 |(V<sub><em>Peak</em></sub>-675)/125,000|                                         |
+|                                                                                                                                                                                                                                                                                 Phase-to-Phase Exposures <sup>3</sup>                                                                                                                                                                                                                                                                                 |              |                                       |                                         |                                       |                                         |
+|                                                                                                                                                                                                                                                      V<sub><em>Peak</em></sub> = (1.35T<sub><em>L-G</em></sub> + 0.45)V<sub><em>L-G</em></sub>√2                                                                                                                                                                                                                                                      |630 kV or less|            630.1 to 848 kV            |            848.1 to 1,131 kV            |          1,131.1 to 1,485 kV          |           More than 1,485 kV            |
+|                                                                                                                                                                                                                                                                                                   a                                                                                                                                                                                                                                                                                                   |      0       |(V<sub><em>Peak</em></sub>-630)/155,000|(V<sub><em>Peak</em></sub>-633.6)/152,207|(V<sub><em>Peak</em></sub>-628)/153,846|(V<sub><em>Peak</em></sub>-350.5)/203,666|
+|                                                                                                                                                                                                           <sup>1</sup> Employers may use the minimum approach distances in Table R-6. If the worksite is at an elevation of more than 900 meters (3,000 feet), see footnote 1 to Table R-6.                                                                                                                                                                                                           |              |                                       |                                         |                                       |                                         |
+|<sup>2</sup> Employers may use the minimum approach distances in Table R-7, except that the employer may not use the minimum approach distances in Table R-7 for phase-to-phase exposures if an insulated tool spans the gap or if any large conductive object is in the gap. If the worksite is at an elevation of more than 900 meters (3,000 feet), see footnote 1 to Table R-7. Employers may use the minimum approach distances in Table 14 through Table 21 in appendix B to this section, which calculated MAD for various values of T, provided the employer follows the notes to those tables.|              |                                       |                                         |                                       |                                         |
+|                                                                                                                                                                        <sup>3</sup> Use the equations for phase-to-ground exposures (with V<sub><em>Peak</em></sub> for phase-to-phase exposures) unless the employer can demonstrate that no insulated tool spans the gap and that no large conductive object is in the gap.                                                                                                                                                                         |              |                                       |                                         |                                       |                                         |
+|                                                                                                                                                                                                                            <sup>4</sup> Until March 31, 2015, employers may use the minimum approach distances in Table 6 through Table 13 in Appendix B to this section.                                                                                                                                                                                                                             |              |                                       |                                         |                                       |                                         |
 
 |Nominal voltage (kV)  <br/>phase-to-phase|Phase-to-ground exposure|Phase-to-phase exposure|
 |-----------------------------------------|------------------------|-----------------------|
@@ -881,8 +867,6 @@ Table R-4 - Electrical Component of the Minimum Approach Distance at 5.1 to 72.5
 |              15.1 to 36.0               |          0.16          |         0.28          |
 |              36.1 to 46.0               |          0.23          |         0.37          |
 |              46.1 to 72.5               |          0.39          |         0.59          |
-
-Table R-5 - Altitude Correction Factor
 
 |Altitude above sea level  <br/>(m)| A  |
 |----------------------------------|----|
@@ -900,59 +884,43 @@ Table R-5 - Altitude Correction Factor
 |          4,801 to 5,400          |1.39|
 |          5,401 to 6,000          |1.44|
 
-Table R-6 - Alternative Minimum Approach Distances for Voltages of 72.5 kV and Less<sup>1</sup>
+|                                                                                                                                                                                                    Nominal voltage (kV)  <br/>phase-to-phase                                                                                                                                                                                                     |       Distance        |             |    |    |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|----|----|
+|                                                                                                                                                                                                             Phase-to-ground exposure                                                                                                                                                                                                             |Phase-to-phase exposure|             |    |    |
+|                                                                                                                                                                                                                        m                                                                                                                                                                                                                         |          ft           |      m      | ft |    |
+|                                                                                                                                                                                                           0.050 to 0.300 <sup>2</sup>                                                                                                                                                                                                            |     Avoid Contact     |Avoid Contact|    |    |
+|                                                                                                                                                                                                           0.301 to 0.750 <sup>2</sup>                                                                                                                                                                                                            |         0.33          |    1.09     |0.33|1.09|
+|                                                                                                                                                                                                                   0.751 to 5.0                                                                                                                                                                                                                   |         0.63          |    2.07     |0.63|2.07|
+|                                                                                                                                                                                                                   5.1 to 15.0                                                                                                                                                                                                                    |         0.65          |    2.14     |0.68|2.24|
+|                                                                                                                                                                                                                   15.1 to 36.0                                                                                                                                                                                                                   |         0.77          |    2.53     |0.89|2.92|
+|                                                                                                                                                                                                                   36.1 to 46.0                                                                                                                                                                                                                   |         0.84          |    2.76     |0.98|3.22|
+|                                                                                                                                                                                                                   46.1 to 72.5                                                                                                                                                                                                                   |         1.00          |    3.29     |1.20|3.94|
+|<sup>1</sup> Employers may use the minimum approach distances in this table provided the worksite is at an elevation of 900 meters (3,000 feet) or less. If employees will be working at elevations greater than 900 meters (3,000 feet) above mean sea level, the employer shall determine minimum approach distances by multiplying the distances in this table by the correction factor in Table R-5 corresponding to the altitude of the work.|                       |             |    |    |
+|                                                                                                                                                                                          <sup>2</sup> For single-phase systems, use voltage-to-ground.                                                                                                                                                                                           |                       |             |    |    |
 
-|Nominal voltage (kV)  <br/>phase-to-phase|       Distance        |             |    |    |
-|-----------------------------------------|-----------------------|-------------|----|----|
-|        Phase-to-ground exposure         |Phase-to-phase exposure|             |    |    |
-|                    m                    |          ft           |      m      | ft |    |
-|       0.050 to 0.300<sup>2</sup>        |     Avoid Contact     |Avoid Contact|    |    |
-|       0.301 to 0.750<sup>2</sup>        |         0.33          |    1.09     |0.33|1.09|
-|              0.751 to 5.0               |         0.63          |    2.07     |0.63|2.07|
-|               5.1 to 15.0               |         0.65          |    2.14     |0.68|2.24|
-|              15.1 to 36.0               |         0.77          |    2.53     |0.89|2.92|
-|              36.1 to 46.0               |         0.84          |    2.76     |0.98|3.22|
-|              46.1 to 72.5               |         1.00          |    3.29     |1.20|3.94|
+|                                                                                                                                                                                                        Voltage range phase to phase (kV)                                                                                                                                                                                                         |Phase-to-ground exposure|Phase-to-phase exposure|     |     |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----------------------|-----|-----|
+|                                                                                                                                                                                                                        m                                                                                                                                                                                                                         |           ft           |           m           | ft  |     |
+|                                                                                                                                                                                                                  72.6 to 121.0                                                                                                                                                                                                                   |          1.13          |         3.71          |1.42 |4.66 |
+|                                                                                                                                                                                                                  121.1 to 145.0                                                                                                                                                                                                                  |          1.30          |         4.27          |1.64 |5.38 |
+|                                                                                                                                                                                                                  145.1 to 169.0                                                                                                                                                                                                                  |          1.46          |         4.79          |1.94 |6.36 |
+|                                                                                                                                                                                                                  169.1 to 242.0                                                                                                                                                                                                                  |          2.01          |         6.59          |3.08 |10.10|
+|                                                                                                                                                                                                                  242.1 to 362.0                                                                                                                                                                                                                  |          3.41          |         11.19         |5.52 |18.11|
+|                                                                                                                                                                                                                  362.1 to 420.0                                                                                                                                                                                                                  |          4.25          |         13.94         |6.81 |22.34|
+|                                                                                                                                                                                                                  420.1 to 550.0                                                                                                                                                                                                                  |          5.07          |         16.63         |8.24 |27.03|
+|                                                                                                                                                                                                                  550.1 to 800.0                                                                                                                                                                                                                  |          6.88          |         22.57         |11.38|37.34|
+|<sup>1</sup> Employers may use the minimum approach distances in this table provided the worksite is at an elevation of 900 meters (3,000 feet) or less. If employees will be working at elevations greater than 900 meters (3,000 feet) above mean sea level, the employer shall determine minimum approach distances by multiplying the distances in this table by the correction factor in Table R-5 corresponding to the altitude of the work.|                        |                       |     |     |
+|                                                                                                                              <sup>2</sup> Employers may use the phase-to-phase minimum approach distances in this table provided that no insulated tool spans the gap and no large conductive object is in the gap.                                                                                                                              |                        |                       |     |     |
+|                                                                                                                                                                <sup>3</sup> The clear live-line tool distance shall equal or exceed the values for the indicated voltage ranges.                                                                                                                                                                 |                        |                       |     |     |
 
-<sup>1</sup> Employers may use the minimum approach distances in this table provided the worksite is at an elevation of 900 meters (3,000 feet) or less. If employees will be working at elevations greater than 900 meters (3,000 feet) above mean sea level, the employer shall determine minimum approach distances by multiplying the distances in this table by the correction factor in Table R-5 corresponding to the altitude of the work.
-
-<sup>2</sup> For single-phase systems, use voltage-to-ground.
-
-Table R-7 - Alternative Minimum Approach Distances for Voltages of More Than 72.5 kV<sup>1</sup><sup>2</sup><sup>3</sup>
-
-|Voltage range phase to phase (kV)|Phase-to-ground exposure|Phase-to-phase exposure|     |     |
-|---------------------------------|------------------------|-----------------------|-----|-----|
-|                m                |           ft           |           m           | ft  |     |
-|          72.6 to 121.0          |          1.13          |         3.71          |1.42 |4.66 |
-|         121.1 to 145.0          |          1.30          |         4.27          |1.64 |5.38 |
-|         145.1 to 169.0          |          1.46          |         4.79          |1.94 |6.36 |
-|         169.1 to 242.0          |          2.01          |         6.59          |3.08 |10.10|
-|         242.1 to 362.0          |          3.41          |         11.19         |5.52 |18.11|
-|         362.1 to 420.0          |          4.25          |         13.94         |6.81 |22.34|
-|         420.1 to 550.0          |          5.07          |         16.63         |8.24 |27.03|
-|         550.1 to 800.0          |          6.88          |         22.57         |11.38|37.34|
-
-<sup>1</sup> Employers may use the minimum approach distances in this table provided the worksite is at an elevation of 900 meters (3,000 feet) or less. If employees will be working at elevations greater than 900 meters (3,000 feet) above mean sea level, the employer shall determine minimum approach distances by multiplying the distances in this table by the correction factor in Table R-5 corresponding to the altitude of the work.
-
-<sup>2</sup> Employers may use the phase-to-phase minimum approach distances in this table provided that no insulated tool spans the gap and no large conductive object is in the gap.
-
-<sup>3</sup> The clear live-line tool distance shall equal or exceed the values for the indicated voltage ranges.
-
-Table R-8 - DC Live-Line Minimum Approach Distance with Overvoltage Factor<sup>1</sup>
-
-[In meters]
-
-|Maximum anticipated per-unit  <br/>transient overvoltage|Distance (m)  <br/>maximum line-to-ground voltage (kV)|    |    |    |    |
-|--------------------------------------------------------|------------------------------------------------------|----|----|----|----|
-|                          250                           |                         400                          |500 |600 |750 |    |
-|                      1.5 or less                       |                         1.12                         |1.60|2.06|2.62|3.61|
-|                          1.6                           |                         1.17                         |1.69|2.24|2.86|3.98|
-|                          1.7                           |                         1.23                         |1.82|2.42|3.12|4.37|
-|                          1.8                           |                         1.28                         |1.95|2.62|3.39|4.79|
-
-<sup>1</sup> The distances specified in this table are for air, bare-hand, and live-line tool conditions. If employees will be working at elevations greater than 900 meters (3,000 feet) above mean sea level, the employer shall determine minimum approach distances by multiplying the distances in this table by the correction factor in Table R-5 corresponding to the altitude of the work.
-
-Table R-9 - Assumed Maximum Per-Unit Transient Overvoltage
+|                                                                                                                                                                     Maximum anticipated per-unit  <br/>transient overvoltage                                                                                                                                                                      |Distance (m)  <br/>maximum line-to-ground voltage (kV)|    |    |    |    |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|----|----|----|----|
+|                                                                                                                                                                                                250                                                                                                                                                                                                |                         400                          |500 |600 |750 |    |
+|                                                                                                                                                                                            1.5 or less                                                                                                                                                                                            |                         1.12                         |1.60|2.06|2.62|3.61|
+|                                                                                                                                                                                                1.6                                                                                                                                                                                                |                         1.17                         |1.69|2.24|2.86|3.98|
+|                                                                                                                                                                                                1.7                                                                                                                                                                                                |                         1.23                         |1.82|2.42|3.12|4.37|
+|                                                                                                                                                                                                1.8                                                                                                                                                                                                |                         1.28                         |1.95|2.62|3.39|4.79|
+|<sup>1</sup> The distances specified in this table are for air, bare-hand, and live-line tool conditions. If employees will be working at elevations greater than 900 meters (3,000 feet) above mean sea level, the employer shall determine minimum approach distances by multiplying the distances in this table by the correction factor in Table R-5 corresponding to the altitude of the work.|                                                      |    |    |    |    |
 
 |Voltage range  <br/>(kV)|Type of current  <br/>(ac or dc)|Assumed  <br/>maximum per-unit transient  <br/>overvoltage|
 |------------------------|--------------------------------|----------------------------------------------------------|
@@ -961,7 +929,7 @@ Table R-9 - Assumed Maximum Per-Unit Transient Overvoltage
 |     550.1 to 800.0     |               ac               |                           2.5                            |
 |       250 to 750       |               dc               |                           1.8                            |
 
-(m) *Deenergizing lines and equipment for employee protection* - (1) *Application.* Paragraph (m) of this section applies to the deenergizing of transmission and distribution lines and equipment for the purpose of protecting employees. See paragraph (d) of this section for requirements on the control of hazardous energy sources used in the generation of electric energy. Conductors and parts of electric equipment that have been deenergized under procedures other than those required by paragraph (d) or (m) of this section, as applicable, shall be treated as energized.
+(m) *Deenergizing lines and equipment for employee protection*—(1) *Application.* Paragraph (m) of this section applies to the deenergizing of transmission and distribution lines and equipment for the purpose of protecting employees. See paragraph (d) of this section for requirements on the control of hazardous energy sources used in the generation of electric energy. Conductors and parts of electric equipment that have been deenergized under procedures other than those required by paragraph (d) or (m) of this section, as applicable, shall be treated as energized.
 
 (2) *General.* (i) If a system operator is in charge of the lines or equipment and their means of disconnection, the employer shall designate one employee in the crew to be in charge of the clearance and shall comply with all of the requirements of paragraph (m)(3) of this section in the order specified.
 
@@ -1017,7 +985,7 @@ Table R-9 - Assumed Maximum Per-Unit Transient Overvoltage
 
 (xiii) The employer shall ensure that no one initiates action to reenergize the lines or equipment at a point of disconnection until all protective grounds have been removed, all crews working on the lines or equipment release their clearances, all employees are clear of the lines and equipment, and all protective tags are removed from that point of disconnection.
 
-(n) *Grounding for the protection of employees* - (1) *Application.* Paragraph (n) of this section applies to grounding of generation, transmission, and distribution lines and equipment for the purpose of protecting employees. Paragraph (n)(4) of this section also applies to protective grounding of other equipment as required elsewhere in this section.
+(n) *Grounding for the protection of employees*—(1) *Application.* Paragraph (n) of this section applies to grounding of generation, transmission, and distribution lines and equipment for the purpose of protecting employees. Paragraph (n)(4) of this section also applies to protective grounding of other equipment as required elsewhere in this section.
 
 Note to paragraph (n)(1):
 
@@ -1057,7 +1025,7 @@ American Society for Testing and Materials *Standard Specifications for Temporar
 
 (8) *Removal of grounds for test.* The employer may permit employees to remove grounds temporarily during tests. During the test procedure, the employer shall ensure that each employee uses insulating equipment, shall isolate each employee from any hazards involved, and shall implement any additional measures necessary to protect each exposed employee in case the previously grounded lines and equipment become energized.
 
-(o) *Testing and test facilities* - (1) *Application.* Paragraph (o) of this section provides for safe work practices for high-voltage and high-power testing performed in laboratories, shops, and substations, and in the field and on electric transmission and distribution lines and equipment. It applies only to testing involving interim measurements using high voltage, high power, or combinations of high voltage and high power, and not to testing involving continuous measurements as in routine metering, relaying, and normal line work.
+(o) *Testing and test facilities*—(1) *Application.* Paragraph (o) of this section provides for safe work practices for high-voltage and high-power testing performed in laboratories, shops, and substations, and in the field and on electric transmission and distribution lines and equipment. It applies only to testing involving interim measurements using high voltage, high power, or combinations of high voltage and high power, and not to testing involving continuous measurements as in routine metering, relaying, and normal line work.
 
 Note to paragraph (o)(1):
 
@@ -1133,7 +1101,7 @@ See appendix C to this section for information on measures that employers can ta
 
 (F) Proper separation between signal, ground, and power cables.
 
-(p) *Mechanical equipment* - (1) *General requirements.* (i) The critical safety components of mechanical elevating and rotating equipment shall receive a thorough visual inspection before use on each shift.
+(p) *Mechanical equipment*—(1) *General requirements.* (i) The critical safety components of mechanical elevating and rotating equipment shall receive a thorough visual inspection before use on each shift.
 
 Note to paragraph (p)(1)(i):
 
@@ -1405,7 +1373,7 @@ Paragraph (e)(2)(vi) of § 1910.266 prohibits drop starting of chain saws.
 
 (8) *Fall protection.* Each employee shall be tied in with a climbing rope and safety saddle when the employee is working above the ground in a tree, unless he or she is ascending into the tree.
 
-(s) *Communication facilities* - (1) *Microwave transmission.* (i) The employer shall ensure that no employee looks into an open waveguide or antenna connected to an energized microwave source.
+(s) *Communication facilities*—(1) *Microwave transmission.* (i) The employer shall ensure that no employee looks into an open waveguide or antenna connected to an energized microwave source.
 
 (ii) If the electromagnetic-radiation level within an accessible area associated with microwave communications systems exceeds the radiation-protection guide specified by § 1910.97(a)(2), the employer shall post the area with warning signs containing the warning symbol described in § 1910.97(a)(3). The lower half of the warning symbol shall include the following statements, or ones that the employer can demonstrate are equivalent: “Radiation in this area may exceed hazard limitations and special precautions are required. Obtain specific instruction before entering.”
 
@@ -1541,7 +1509,7 @@ American National Standard *National Electrical Safety Code,* ANSI/IEEE C2-2012 
 
 (*1*) The live parts are enclosed within grounded, metal-enclosed equipment whose only openings are designed so that foreign objects inserted in these openings will be deflected from energized parts, or
 
-(*2* The live parts are installed at a height, above ground and any other working surface, that provides protection at the voltage on the live parts corresponding to the protection provided by a 2.4-meter (8-foot) height at 50 volts.
+(*2*) The live parts are installed at a height, above ground and any other working surface, that provides protection at the voltage on the live parts corresponding to the protection provided by a 2.4-meter (8-foot) height at 50 volts.
 
 (ii) Fences, screens, partitions, or walls shall enclose the rooms and other spaces so as to minimize the possibility that unqualified persons will enter.
 
@@ -1655,7 +1623,7 @@ Locations that are hazardous because of the presence of combustible dust are cla
 
 (12) *Hydroplants and equipment.* Employees working on or close to water gates, valves, intakes, forebays, flumes, or other locations where increased or decreased water flow or levels may pose a significant hazard shall be warned and shall vacate such dangerous areas before water flow changes are made.
 
-(w) *Special conditions* - (1) *Capacitors.* The following additional requirements apply to work on capacitors and on lines connected to capacitors.
+(w) *Special conditions*—(1) *Capacitors.* The following additional requirements apply to work on capacitors and on lines connected to capacitors.
 
 Note to paragraph (w)(1):
 
@@ -1811,7 +1779,7 @@ An atmospheric concentration of any substance that is not capable of causing dea
 
 Note to the definition of “hazardous atmosphere” (5):
 
-For air contaminants for which the Occupational Safety and Health Administration has not determined a dose or permissible exposure limit, other sources of information, such as Material Safety Data Sheets that comply with the Hazard Communication Standard, § 1910.1200, published information, and internal documents can provide guidance in establishing acceptable atmospheric conditions.
+For air contaminants for which the Occupational Safety and Health Administration has not determined a dose or permissible exposure limit, other sources of information, such as Safety Data Sheets (SDS) that comply with the Hazard Communication Standard, § 1910.1200, published information, and internal documents can provide guidance in establishing acceptable atmospheric conditions.
 
 *High-power tests.* Tests in which the employer uses fault currents, load currents, magnetizing currents, and line-dropping currents to test equipment, either at the equipment's rated voltage or at lower voltages.
 
@@ -1839,7 +1807,7 @@ The Occupational Safety and Health Administration will treat the electric utilit
 
 Note to the definition of “immediately dangerous to life or health”:
 
-Some materials - hydrogen fluoride gas and cadmium vapor, for example - may produce immediate transient effects that, even if severe, may pass without medical attention, but are followed by sudden, possibly fatal collapse 12-72 hours after exposure. The victim “feels normal” from recovery from transient effects until collapse. Such materials in hazardous quantities are considered to be “immediately” dangerous to life or health.
+Some materials—hydrogen fluoride gas and cadmium vapor, for example—may produce immediate transient effects that, even if severe, may pass without medical attention, but are followed by sudden, possibly fatal collapse 12-72 hours after exposure. The victim “feels normal” from recovery from transient effects until collapse. Such materials in hazardous quantities are considered to be “immediately” dangerous to life or health.
 
 *Insulated.* Separated from other conducting surfaces by a dielectric (including air space) offering a high resistance to the passage of current.
 
@@ -1863,15 +1831,15 @@ A line-clearance tree trimmer is not considered to be a “qualified employee”
 
 *Line-clearance tree trimming.* The pruning, trimming, repairing, maintaining, removing, or clearing of trees, or the cutting of brush, that is within the following distance of electric supply lines and equipment:
 
-(1) For voltages to ground of 50 kilovolts or less - 3.05 meters (10 feet);
+(1) For voltages to ground of 50 kilovolts or less—3.05 meters (10 feet);
 
-(2) For voltages to ground of more than 50 kilovolts - 3.05 meters (10 feet) plus 0.10 meters (4 inches) for every 10 kilovolts over 50 kilovolts.
+(2) For voltages to ground of more than 50 kilovolts—3.05 meters (10 feet) plus 0.10 meters (4 inches) for every 10 kilovolts over 50 kilovolts.
 
 Note to the definition of “line-clearance tree trimming”:
 
 This section applies only to line-clearance tree trimming performed for the purpose of clearing space around electric power generation, transmission, or distribution lines or equipment and on behalf of an organization that operates, or that controls the operating procedures for, those lines or equipment. See paragraph (a)(1) of this section. Tree trimming performed on behalf of a homeowner or commercial entity other than an organization that operates, or that controls the operating procedures for, electric power generation, transmission, or distribution lines or equipment is not directly associated with an electric power generation, transmission, or distribution installation and is outside the scope of this section. In addition, tree trimming that is not for the purpose of clearing space around electric power generation, transmission, or distribution lines or equipment is not directly associated with an electric power generation, transmission, or distribution installation and is outside the scope of this section. Such tree trimming may be covered by other applicable standards. See, for example, §§ 1910.268 and 1910.331 through 1910.335.
 
-*Lines* - (1) *Communication lines.* The conductors and their supporting or containing structures which are used for public or private signal or communication service, and which operate at potentials not exceeding 400 volts to ground or 750 volts between any two points of the circuit, and the transmitted power of which does not exceed 150 watts. If the lines are operating at less than 150 volts, no limit is placed on the transmitted power of the system. Under certain conditions, communication cables may include communication circuits exceeding these limitations where such circuits are also used to supply power solely to communication equipment.
+*Lines*—(1) *Communication lines.* The conductors and their supporting or containing structures which are used for public or private signal or communication service, and which operate at potentials not exceeding 400 volts to ground or 750 volts between any two points of the circuit, and the transmitted power of which does not exceed 150 watts. If the lines are operating at less than 150 volts, no limit is placed on the transmitted power of the system. Under certain conditions, communication cables may include communication circuits exceeding these limitations where such circuits are also used to supply power solely to communication equipment.
 
 Note to the definition of “communication lines”:
 
@@ -1915,43 +1883,39 @@ Except under (g)(2)(iv)(C)(2) and (g)(2)(iv)(C)(3) of this section, an employee 
 
 *Work-positioning equipment.* A body belt or body harness system rigged to allow an employee to be supported on an elevated vertical surface, such as a utility pole or tower leg, and work with both hands free while leaning.
 
-Appendix A to § 1910.269 - Flow Charts
+Appendix A to § 1910.269—Flow Charts
 
 This appendix presents information, in the form of flow charts, that illustrates the scope and application of § 1910.269. This appendix addresses the interface between § 1910.269 and Subpart S of this Part (Electrical), between § 1910.269 and § 1910.146 (Permit-required confined spaces), and between § 1910.269 and § 1910.147 (The control of hazardous energy (lockout/tagout)). These flow charts provide guidance for employers trying to implement the requirements of § 1910.269 in combination with other General Industry Standards contained in Part 1910. Employers should always consult the relevant standards, in conjunction with this appendix, to ensure compliance with all applicable requirements.
 
-![](/graphics/er11ap14.018.gif)Appendix A-2 to § 1910.269 - Application of § 1910.269 and Subpart S of this Part to Electrical Safety-Related Work Practices1![](/graphics/er24se14.004.gif)
+![](/graphics/er11ap14.018.gif)Appendix A-2 to § 1910.269—Application of § 1910.269 and Subpart S of this Part to Electrical Safety-Related Work Practices1![](/graphics/er24se14.004.gif)
 
-Table 1 - Electrical Safety Requirements in § 1910.269
+|                                                                                                                             Compliance with Subpart S will comply with these paragraphs of § 1910.269 <sup>1</sup>                                                                                                                             |Paragraphs that apply regardless of compliance with Subpart S <sup>2</sup>|
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
+|                                                                                                                                                        (d), electric-shock hazards only                                                                                                                                                        |                        (a)(2), (a)(3) and (a)(4).                        |
+|                                                                                                                                                                     (h)(3)                                                                                                                                                                     |                                   (b)                                    |
+|                                                                                                                                                               (i)(2) and (i)(3)                                                                                                                                                                |                                   (c)                                    |
+|                                                                                                                                                                      (k)                                                                                                                                                                       |               (d), for other than electric-shock hazards.                |
+|                                                                                                                                           (l)(1) through (l)(5), (l)(7), and (l)(10) through (l)(12)                                                                                                                                           |                                   (e)                                    |
+|                                                                                                                                                                      (m)                                                                                                                                                                       |                                   (f)                                    |
+|                                                                                                                                                                     (p)(4)                                                                                                                                                                     |                                   (g)                                    |
+|                                                                                                                                                                     (s)(2)                                                                                                                                                                     |                            (h)(1) and (h)(2).                            |
+|                                                                                                                                                        (u)(1) and (u)(3) through (u)(5)                                                                                                                                                        |                                  (i)(4)                                  |
+|                                                                                                                                                             (v)(3) through (v)(5)                                                                                                                                                              |                                   (j)                                    |
+|                                                                                                                                                               (w)(1) and (w)(7)                                                                                                                                                                |                        (l)(6), (l)(8) and (l)(9).                        |
+|                                                                                                                                                                                                                                                                                                                                                |                                   (n)                                    |
+|                                                                                                                                                                                                                                                                                                                                                |                                   (o)                                    |
+|                                                                                                                                                                                                                                                                                                                                                |                          (p)(1) through (p)(3).                          |
+|                                                                                                                                                                                                                                                                                                                                                |                                   (q)                                    |
+|                                                                                                                                                                                                                                                                                                                                                |                                   (r)                                    |
+|                                                                                                                                                                                                                                                                                                                                                |                                  (s)(1)                                  |
+|                                                                                                                                                                                                                                                                                                                                                |                                   (t)                                    |
+|                                                                                                                                                                                                                                                                                                                                                |                            (u)(2) and (u)(6)                             |
+|                                                                                                                                                                                                                                                                                                                                                |               (v)(1), (v)(2), and (v)(6) through (v)(12).                |
+|                                                                                                                                                                                                                                                                                                                                                |                (w)(2) through (w)(6), (w)(8), and (w)(9).                |
+|<sup>1</sup> If the electrical installation meets the requirements of §§ 1910.302 through 1910.308 of this part, then the electrical installation and any associated electrical safety-related work practices conforming to §§ 1910.332 through 1910.335 of this part are considered to comply with these provisions of § 1910.269 of this part.|                                                                          |
+|                                                                                             <sup>2</sup> These provisions include electrical safety and other requirements that must be met regardless of compliance with subpart S of this part.                                                                                              |                                                                          |
 
-|Compliance with Subpart S will comply with these paragraphs of § 1910.269<sup>1</sup>|Paragraphs that apply regardless of compliance with Subpart S<sup>2</sup>|
-|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
-|                          (d), electric-shock hazards only                           |                       (a)(2), (a)(3) and (a)(4).                        |
-|                                       (h)(3)                                        |                                   (b)                                   |
-|                                  (i)(2) and (i)(3)                                  |                                   (c)                                   |
-|                                         (k)                                         |               (d), for other than electric-shock hazards.               |
-|             (l)(1) through (l)(5), (l)(7), and (l)(10) through (l)(12)              |                                   (e)                                   |
-|                                         (m)                                         |                                   (f)                                   |
-|                                       (p)(4)                                        |                                   (g)                                   |
-|                                       (s)(2)                                        |                           (h)(1) and (h)(2).                            |
-|                          (u)(1) and (u)(3) through (u)(5)                           |                                 (i)(4)                                  |
-|                                (v)(3) through (v)(5)                                |                                   (j)                                   |
-|                                  (w)(1) and (w)(7)                                  |                       (l)(6), (l)(8) and (l)(9).                        |
-|                                                                                     |                                   (n)                                   |
-|                                                                                     |                                   (o)                                   |
-|                                                                                     |                         (p)(1) through (p)(3).                          |
-|                                                                                     |                                   (q)                                   |
-|                                                                                     |                                   (r)                                   |
-|                                                                                     |                                 (s)(1)                                  |
-|                                                                                     |                                   (t)                                   |
-|                                                                                     |                            (u)(2) and (u)(6)                            |
-|                                                                                     |               (v)(1), (v)(2), and (v)(6) through (v)(12).               |
-|                                                                                     |               (w)(2) through (w)(6), (w)(8), and (w)(9).                |
-
-<sup>1</sup> If the electrical installation meets the requirements of §§ 1910.302 through 1910.308 of this part, then the electrical installation and any associated electrical safety-related work practices conforming to §§ 1910.332 through 1910.335 of this part are considered to comply with these provisions of § 1910.269 of this part.
-
-<sup>2</sup> These provisions include electrical safety and other requirements that must be met regardless of compliance with subpart S of this part.
-
-![](/graphics/er05oc15.000.gif)![](/graphics/er11ap14.022.gif)![](/graphics/er05oc15.001.gif)Appendix B to § 1910.269 - Working on Exposed Energized PartsI. Introduction
+![](/graphics/er05oc15.000.gif)![](/graphics/er11ap14.022.gif)![](/graphics/er05oc15.001.gif)Appendix B to § 1910.269—Working on Exposed Energized PartsI. Introduction
 
 Electric utilities design electric power generation, transmission, and distribution installations to meet National Electrical Safety Code (NESC), ANSI C2, requirements. Electric utilities also design transmission and distribution lines to limit line outages as required by system reliability criteria1 and to withstand the maximum overvoltages impressed on the system. Conditions such as switching surges, faults, and lightning can cause overvoltages. Electric utilities generally select insulator design and lengths and the clearances to structural parts so as to prevent outages from contaminated line insulation and during storms. Line insulator lengths and structural clearances have, over the years, come closer to the minimum approach distances used by workers. As minimum approach distances and structural clearances converge, it is increasingly important that system designers and system operating and maintenance personnel understand the concepts underlying minimum approach distances.
 
@@ -1995,7 +1959,7 @@ Unless the employee is using electrical protective equipment, air is the insulat
 
 Normal system design may provide or include a means (such as lightning arrestors) to control maximum anticipated transient overvoltages, or the employer may use temporary devices (portable protective gaps) or measures (such as preventing automatic circuit breaker reclosing) to achieve the same result. Paragraph (l)(3)(ii) of § 1910.269 requires the employer to determine the maximum anticipated per-unit transient overvoltage, phase-to-ground, through an engineering analysis or assume a maximum anticipated per-unit transient overvoltage, phase-to-ground, in accordance with Table R-9, which specifies the following maximums for ac systems:
 
-72.6 to 420.0 kilovolts - 3.5 per unit420.1 to 550.0 kilovolts - 3.0 per unit550.1 to 800.0 kilovolts - 2.5 per unit
+72.6 to 420.0 kilovolts—3.5 per unit420.1 to 550.0 kilovolts—3.0 per unit550.1 to 800.0 kilovolts—2.5 per unit
 
 See paragraph IV.A.2, later in this appendix, for additional discussion of maximum transient overvoltages.
 
@@ -2006,8 +1970,6 @@ III. Determination of Minimum Approach Distances for AC Voltages Greater Than 30
 A. *Voltages of 301 to 5,000 volts.* Test data generally forms the basis of minimum air insulation distances. The lowest voltage for which sufficient test data exists is 5,000 volts, and these data indicate that the minimum air insulation distance at that voltage is 20 millimeters (1 inch). Because the minimum air insulation distance increases with increasing voltage, and, conversely, decreases with decreasing voltage, an assumed minimum air insulation distance of 20 millimeters will protect against sparkover at voltages of 301 to 5,000 volts. Thus, 20 millimeters is the electrical component of the minimum approach distance for these voltages.
 
 B. *Voltages of 5.1 to 72.5 kilovolts.* For voltages from 5.1 to 72.5 kilovolts, the Occupational Safety and Health Administration bases the methodology for calculating the electrical component of the minimum approach distance on Institute of Electrical and Electronic Engineers (IEEE) Standard 4-1995, *Standard Techniques for High-Voltage Testing.* Table 1 lists the critical sparkover distances from that standard as listed in IEEE Std 516-2009, *IEEE Guide for Maintenance Methods on Energized Power Lines.*
-
-Table 1 - Sparkover Distance for Rod-to-Rod Gap
 
 |60 Hz Rod-to-Rod sparkover  <br/>(kV peak)|Gap spacing from IEEE Std 4-1995  <br/>(cm)|
 |------------------------------------------|-------------------------------------------|
@@ -2030,8 +1992,7 @@ Table 1 - Sparkover Distance for Rod-to-Rod Gap
 |                   243                    |                    45                     |
 |                   270                    |                    50                     |
 |                   322                    |                    60                     |
-
-Source: IEEE Std 516-2009.
+|        Source: IEEE Std 516-2009.        |                                           |
 
 To use this table to determine the electrical component of the minimum approach distance, the employer must determine the peak phase-to-ground transient overvoltage and select a gap from the table that corresponds to that voltage as a withstand voltage rather than a critical sparkover voltage. To calculate the electrical component of the minimum approach distance for voltages between 5 and 72.5 kilovolts, use the following procedure:
 
@@ -2049,8 +2010,6 @@ To use this table to determine the electrical component of the minimum approach 
 
 Table 2 illustrates how to derive the electrical component of the minimum approach distance for voltages from 5.1 to 72.5 kilovolts, before the application of any altitude correction factor, as explained later.
 
-Table 2 - Calculating the Electrical Component of MAD 751 V to 72.5 kV
-
 |              Step              |Maximum system phase-to-phase voltage (kV)|               |                 |                 |
 |--------------------------------|------------------------------------------|---------------|-----------------|-----------------|
 |               15               |                    36                    |      46       |      72.5       |                 |
@@ -2063,33 +2022,30 @@ Table 2 - Calculating the Electrical Component of MAD 751 V to 72.5 kV
 
 C. *Voltages of 72.6 to 800 kilovolts.* For voltages of 72.6 kilovolts to 800 kilovolts, this section bases the electrical component of minimum approach distances, before the application of any altitude correction factor, on the following formula:
 
-Equation 1 - For Voltages of 72.6 kV to 800 kV*D* = 0.3048(*C* + *a*) *V*L-G*T*Where:*D* = Electrical component of the minimum approach distance in air in meters;*C* = a correction factor associated with the variation of gap sparkover with voltage;*a* = A factor relating to the saturation of air at system voltages of 345 kilovolts or higher;4
+Equation 1—For Voltages of 72.6 kV to 800 kV*D* = 0.3048(*C* + *a*) *V*L-G*T*Where:*D* = Electrical component of the minimum approach distance in air in meters;*C* = a correction factor associated with the variation of gap sparkover with voltage;*a* = A factor relating to the saturation of air at system voltages of 345 kilovolts or higher;4
 
 4 Test data demonstrates that the saturation factor is greater than 0 at peak voltages of about 630 kilovolts. Systems operating at 345 kilovolts (or maximum system voltages of 362 kilovolts) can have peak maximum transient overvoltages exceeding 630 kilovolts. Table R-3 sets equations for calculating *a* based on peak voltage.
 
-*V*L-G = Maximum system line-to-ground rms voltage in kilovolts - it should be the “actual” maximum, or the normal highest voltage for the range (for example, 10 percent above the nominal voltage); and*T* = Maximum transient overvoltage factor in per unit.
+*V*L-G = Maximum system line-to-ground rms voltage in kilovolts—it should be the “actual” maximum, or the normal highest voltage for the range (for example, 10 percent above the nominal voltage); and*T* = Maximum transient overvoltage factor in per unit.
 
 In Equation 1, *C* is 0.01: (1) For phase-to-ground exposures that the employer can demonstrate consist only of air across the approach distance (gap) and (2) for phase-to-phase exposures if the employer can demonstrate that no insulated tool spans the gap and that no large conductive object is in the gap. Otherwise, *C* is 0.011.
 
 In Equation 1, the term *a* varies depending on whether the employee's exposure is phase-to-ground or phase-to-phase and on whether objects are in the gap. The employer must use the equations in Table 3 to calculate *a.* Sparkover test data with insulation spanning the gap form the basis for the equations for phase-to-ground exposures, and sparkover test data with only air in the gap form the basis for the equations for phase-to-phase exposures. The phase-to-ground equations result in slightly higher values of *a,* and, consequently, produce larger minimum approach distances, than the phase-to-phase equations for the same value of VPeak.
 
-Table 3 - Equations for Calculating the Surge Factor, a
+|                               **Phase-to-ground exposures**                               |                                       |                                        |                                         |
+|-------------------------------------------------------------------------------------------|---------------------------------------|----------------------------------------|-----------------------------------------|
+|      V<sub><em>Peak</em></sub> = T<sub><em>L-G</em></sub>V<sub><em>L-G</em></sub> √2      |            635 kV or less             |            635.1 to 915 kV             |            915.1 to 1,050 kV            |
+|                                             a                                             |                   0                   |(V<sub><em>Peak</em></sub>- 635)/140,000| (V<sub><em>Peak</em></sub>-645)/135,000 |
+|      V<sub><em>Peak</em></sub> = T<sub><em>L-G</em></sub>V<sub><em>L-G</em></sub>√2       |          More than 1,050 kV           |                                        |                                         |
+|                                             a                                             |(V<sub><em>Peak</em></sub>-675)/125,000|                                        |                                         |
+|                         **Phase-to-phase exposures <sup>1</sup>**                         |                                       |                                        |                                         |
+|V<sub><em>Peak</em></sub> = (1.35T<sub><em>L-G</em></sub> + 0.45)V<sub><em>L-G</em></sub>√2|            630 kV or less             |            630.1 to 848 kV             |            848.1 to 1,131 kV            |
+|                                             a                                             |                   0                   |(V<sub><em>Peak</em></sub>-630)/155,000 |(V<sub><em>Peak</em></sub>-633.6)/152,207|
 
-|     Phase-to-ground exposures      |                   |                    |                     |
-|:----------------------------------:|-------------------|--------------------|---------------------|
-|        VPeak = TL-GVL-G √2         |  635 kV or less   |  635.1 to 915 kV   |  915.1 to 1,050 kV  |
-|                 a                  |         0         |(VPeak- 635)/140,000| (VPeak-645)/135,000 |
-|         VPeak = TL-GVL-G√2         |More than 1,050 kV |                    |                     |
-|                 a                  |(VPeak-675)/125,000|                    |                     |
-|Phase-to-phase exposures<sup>1</sup>|                   |                    |                     |
-|  VPeak = (1.35TL-G + 0.45)VL-G√2   |  630 kV or less   |  630.1 to 848 kV   |  848.1 to 1,131 kV  |
-|                 a                  |         0         |(VPeak-630)/155,000 |(VPeak-633.6)/152,207|
-
-|VPeak = (1.35TL-G + 0.45)VL-G√2|1,131.1 to 1,485 kV| More than 1,485 kV  |
-|:------------------------------|:-----------------:|:-------------------:|
-|               a               |(VPeak-628)/153,846|(VPeak-350.5)/203,666|
-
-<sup>1</sup> Use the equations for phase-to-ground exposures (with VPeak for phase-to-phase exposures) unless the employer can demonstrate that no insulated tool spans the gap and that no large conductive object is in the gap.
+|                                                                                  V<sub><em>Peak</em></sub> = (1.35T<sub><em>L-G</em></sub> + 0.45)V<sub>L-G</sub>√2                                                                                  |          1,131.1 to 1,485 kV          |           More than 1,485 kV            |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-----------------------------------------|
+|                                                                                                                          a                                                                                                                           |(V<sub><em>Peak</em></sub>-628)/153,846|(V<sub><em>Peak</em></sub>-350.5)/203,666|
+|<sup>1</sup> Use the equations for phase-to-ground exposures (with V<sub><em>Peak</em></sub> for phase-to-phase exposures) unless the employer can demonstrate that no insulated tool spans the gap and that no large conductive object is in the gap.|                                       |                                         |
 
 In Equation 1, *T* is the maximum transient overvoltage factor in per unit. As noted earlier, § 1910.269(l)(3)(ii) requires the employer to determine the maximum anticipated per-unit transient overvoltage, phase-to-ground, through an engineering analysis or assume a maximum anticipated per-unit transient overvoltage, phase-to-ground, in accordance with Table R-9. For phase-to-ground exposures, the employer uses this value, called *T*L-G, as *T* in Equation 1. IEEE Std 516-2009 provides the following formula to calculate the phase-to-phase maximum transient overvoltage, *T*L-L, from *T*L-G:
 
@@ -2111,16 +2067,13 @@ The location of the worker and the type of work methods the worker is using also
 
 Table 4 summarizes the ergonomic component of the minimum approach distance for various voltage ranges.
 
-Table 4 - Ergonomic Component of Minimum Approach Distance
-
-|Voltage range (kV)|Distance|   |
-|------------------|--------|---|
-|        m         |   ft   |   |
-|  0.301 to 0.750  |  0.31  |1.0|
-|  0.751 to 72.5   |  0.61  |2.0|
-|   72.6 to 800    |  0.31  |1.0|
-
-Note: The employer must add this distance to the electrical component of the minimum approach distance to obtain the full minimum approach distance.
+|                                                                   Voltage range (kV)                                                                   |Distance|   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------|--------|---|
+|                                                                           m                                                                            |   ft   |   |
+|                                                                     0.301 to 0.750                                                                     |  0.31  |1.0|
+|                                                                     0.751 to 72.5                                                                      |  0.61  |2.0|
+|                                                                      72.6 to 800                                                                       |  0.31  |1.0|
+|**Note:** The employer must add this distance to the electrical component of the minimum approach distance to obtain the full minimum approach distance.|        |   |
 
 The ergonomic component of the minimum approach distance accounts for errors in maintaining the minimum approach distance (which might occur, for example, if an employee misjudges the length of a conductive object he or she is holding), and for errors in judging the minimum approach distance. The ergonomic component also accounts for inadvertent movements by the employee, such as slipping. In contrast, the working position selected to properly maintain the minimum approach distance must account for all of an employee's reasonably likely movements and still permit the employee to adhere to the applicable minimum approach distance. (See Figure 1.) Reasonably likely movements include an employee's adjustments to tools, equipment, and working positions and all movements needed to perform the work. For example, the employee should be able to perform all of the following actions without straying into the minimum approach distance:
 
@@ -2156,8 +2109,6 @@ In developing requirements for minimum approach distances, the Occupational Safe
 
 3. *Typical magnitude of overvoltages.* Table 5 lists the magnitude of typical transient overvoltages.
 
-Table 5 - Magnitude of Typical Transient Overvoltages
-
 |                        Cause                         |Magnitude  <br/>(per unit)|
 |------------------------------------------------------|--------------------------|
 |  Energized 200-mile line without closing resistors   |           3.5            |
@@ -2169,7 +2120,7 @@ Table 5 - Magnitude of Typical Transient Overvoltages
 |          Fault initiation adjacent circuit           |           2.5            |
 |                    Fault clearing                    |        1.7 to 1.9        |
 
-4. *Standard deviation - air-gap withstand.* For each air gap length under the same atmospheric conditions, there is a statistical variation in the breakdown voltage. The probability of breakdown against voltage has a normal (Gaussian) distribution. The standard deviation of this distribution varies with the wave shape, gap geometry, and atmospheric conditions. The withstand voltage of the air gap is three standard deviations (3σ) below the critical sparkover voltage. (The critical sparkover voltage is the crest value of the impulse wave that, under specified conditions, causes sparkover 50 percent of the time. An impulse wave of three standard deviations below this value, that is, the withstand voltage, has a probability of sparkover of approximately 1 in 1,000.)
+4. *Standard deviation—air-gap withstand.* For each air gap length under the same atmospheric conditions, there is a statistical variation in the breakdown voltage. The probability of breakdown against voltage has a normal (Gaussian) distribution. The standard deviation of this distribution varies with the wave shape, gap geometry, and atmospheric conditions. The withstand voltage of the air gap is three standard deviations (3σ) below the critical sparkover voltage. (The critical sparkover voltage is the crest value of the impulse wave that, under specified conditions, causes sparkover 50 percent of the time. An impulse wave of three standard deviations below this value, that is, the withstand voltage, has a probability of sparkover of approximately 1 in 1,000.)
 
 5. *Broken Insulators.* Tests show reductions in the insulation strength of insulator strings with broken skirts. Broken units may lose up to 70 percent of their withstand capacity. Because an employer cannot determine the insulating capability of a broken unit without testing it, the employer must consider damaged units in an insulator to have no insulating value. Additionally, the presence of a live-line tool alongside an insulator string with broken units may further reduce the overall insulating strength. The number of good units that must be present in a string for it to be “insulated” as defined by § 1910.269(x) depends on the maximum overvoltage possible at the worksite.
 
@@ -2277,171 +2228,138 @@ However, due to system stability considerations, it may not always be feasible t
 
 A. *Legacy tables.* Employers may use the minimum approach distances in Table 6 through Table 13 until March 31, 2015.
 
-Table 6 - Minimum Approach Distances Until December 31, 2014
+|                                      Voltage range phase to phase (kV)                                      |Phase-to-ground exposure|Phase-to-phase exposure|    |     |
+|-------------------------------------------------------------------------------------------------------------|------------------------|-----------------------|----|-----|
+|                                                      m                                                      |           ft           |           m           | ft |     |
+|                                                 0.05 to 1.0                                                 |     Avoid Contact      |     Avoid Contact     |    |     |
+|                                                 1.1 to 15.0                                                 |          0.64          |         2.10          |0.66|2.20 |
+|                                                15.1 to 36.0                                                 |          0.72          |         2.30          |0.77|2.60 |
+|                                                36.1 to 46.0                                                 |          0.77          |         2.60          |0.85|2.80 |
+|                                                46.1 to 72.5                                                 |          0.90          |         3.00          |1.05|3.50 |
+|                                                 72.6 to 121                                                 |          0.95          |         3.20          |1.29|4.30 |
+|                                                 138 to 145                                                  |          1.09          |         3.60          |1.50|4.90 |
+|                                                 161 to 169                                                  |          1.22          |         4.00          |1.71|5.70 |
+|                                                 230 to 242                                                  |          1.59          |         5.30          |2.27|7.50 |
+|                                                 345 to 362                                                  |          2.59          |         8.50          |3.80|12.50|
+|                                                 500 to 550                                                  |          3.42          |         11.30         |5.50|18.10|
+|                                                 765 to 800                                                  |          4.53          |         14.90         |7.91|26.00|
+|**Note:** The clear live-line tool distance must equal or exceed the values for the indicated voltage ranges.|                        |                       |    |     |
 
-|Voltage range phase to phase (kV)|Phase-to-ground exposure|Phase-to-phase exposure|    |     |
-|---------------------------------|------------------------|-----------------------|----|-----|
-|                m                |           ft           |           m           | ft |     |
-|           0.05 to 1.0           |     Avoid Contact      |     Avoid Contact     |    |     |
-|           1.1 to 15.0           |          0.64          |         2.10          |0.66|2.20 |
-|          15.1 to 36.0           |          0.72          |         2.30          |0.77|2.60 |
-|          36.1 to 46.0           |          0.77          |         2.60          |0.85|2.80 |
-|          46.1 to 72.5           |          0.90          |         3.00          |1.05|3.50 |
-|           72.6 to 121           |          0.95          |         3.20          |1.29|4.30 |
-|           138 to 145            |          1.09          |         3.60          |1.50|4.90 |
-|           161 to 169            |          1.22          |         4.00          |1.71|5.70 |
-|           230 to 242            |          1.59          |         5.30          |2.27|7.50 |
-|           345 to 362            |          2.59          |         8.50          |3.80|12.50|
-|           500 to 550            |          3.42          |         11.30         |5.50|18.10|
-|           765 to 800            |          4.53          |         14.90         |7.91|26.00|
+|                                                                                                       T (p.u.)                                                                                                        |Phase-to-ground exposure|Phase-to-phase exposure|    |    |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----------------------|----|----|
+|                                                                                                           m                                                                                                           |           ft           |           m           | ft |    |
+|                                                                                                          2.0                                                                                                          |          0.74          |         2.42          |1.09|3.58|
+|                                                                                                          2.1                                                                                                          |          0.76          |         2.50          |1.09|3.58|
+|                                                                                                          2.2                                                                                                          |          0.79          |         2.58          |1.12|3.67|
+|                                                                                                          2.3                                                                                                          |          0.81          |         2.67          |1.14|3.75|
+|                                                                                                          2.4                                                                                                          |          0.84          |         2.75          |1.17|3.83|
+|                                                                                                          2.5                                                                                                          |          0.84          |         2.75          |1.19|3.92|
+|                                                                                                          2.6                                                                                                          |          0.86          |         2.83          |1.22|4.00|
+|                                                                                                          2.7                                                                                                          |          0.89          |         2.92          |1.24|4.08|
+|                                                                                                          2.8                                                                                                          |          0.91          |         3.00          |1.24|4.08|
+|                                                                                                          2.9                                                                                                          |          0.94          |         3.08          |1.27|4.17|
+|                                                                                                          3.0                                                                                                          |          0.97          |         3.17          |1.30|4.25|
+|**Note 1:** The employer may apply the distance specified in this table only where the employer determines the maximum anticipated per-unit transient overvoltage by engineering analysis. (Table 6 applies otherwise.)|                        |                       |    |    |
+|                                                        **Note 2:** The distances specified in this table are the air, bare-hand, and live-line tool distances.                                                        |                        |                       |    |    |
 
-Note: The clear live-line tool distance must equal or exceed the values for the indicated voltage ranges.
+|                                                                                                       T (p.u.)                                                                                                        |Phase-to-ground exposure|Phase-to-phase exposure|    |    |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----------------------|----|----|
+|                                                                                                           m                                                                                                           |           ft           |           m           | ft |    |
+|                                                                                                          2.0                                                                                                          |          0.84          |         2.75          |1.24|4.08|
+|                                                                                                          2.1                                                                                                          |          0.86          |         2.83          |1.27|4.17|
+|                                                                                                          2.2                                                                                                          |          0.89          |         2.92          |1.30|4.25|
+|                                                                                                          2.3                                                                                                          |          0.91          |         3.00          |1.32|4.33|
+|                                                                                                          2.4                                                                                                          |          0.94          |         3.08          |1.35|4.42|
+|                                                                                                          2.5                                                                                                          |          0.97          |         3.17          |1.37|4.50|
+|                                                                                                          2.6                                                                                                          |          0.99          |         3.25          |1.40|4.58|
+|                                                                                                          2.7                                                                                                          |          1.02          |         3.33          |1.42|4.67|
+|                                                                                                          2.8                                                                                                          |          1.04          |         3.42          |1.45|4.75|
+|                                                                                                          2.9                                                                                                          |          1.07          |         3.50          |1.47|4.83|
+|                                                                                                          3.0                                                                                                          |          1.09          |         3.58          |1.50|4.92|
+|**Note 1:** The employer may apply the distance specified in this table only where the employer determines the maximum anticipated per-unit transient overvoltage by engineering analysis. (Table 6 applies otherwise.)|                        |                       |    |    |
+|                                                        **Note 2:** The distances specified in this table are the air, bare-hand, and live-line tool distances.                                                        |                        |                       |    |    |
 
-Table 7 - Minimum Approach Distances Until March 31, 2015 - 72.6 to 121.0 kV With Overvoltage Factor
+|                                                                                                       T (p.u.)                                                                                                        |Phase-to-ground exposure|Phase-to-phase exposure|    |    |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----------------------|----|----|
+|                                                                                                           m                                                                                                           |           ft           |           m           | ft |    |
+|                                                                                                          2.0                                                                                                          |          0.91          |         3.00          |1.42|4.67|
+|                                                                                                          2.1                                                                                                          |          0.97          |         3.17          |1.45|4.75|
+|                                                                                                          2.2                                                                                                          |          0.99          |         3.25          |1.47|4.83|
+|                                                                                                          2.3                                                                                                          |          1.02          |         3.33          |1.50|4.92|
+|                                                                                                          2.4                                                                                                          |          1.04          |         3.42          |1.52|5.00|
+|                                                                                                          2.5                                                                                                          |          1.07          |         3.50          |1.57|5.17|
+|                                                                                                          2.6                                                                                                          |          1.12          |         3.67          |1.60|5.25|
+|                                                                                                          2.7                                                                                                          |          1.14          |         3.75          |1.63|5.33|
+|                                                                                                          2.8                                                                                                          |          1.17          |         3.83          |1.65|5.42|
+|                                                                                                          2.9                                                                                                          |          1.19          |         3.92          |1.68|5.50|
+|                                                                                                          3.0                                                                                                          |          1.22          |         4.00          |1.73|5.67|
+|**Note 1:** The employer may apply the distance specified in this table only where the employer determines the maximum anticipated per-unit transient overvoltage by engineering analysis. (Table 6 applies otherwise.)|                        |                       |    |    |
+|                                                        **Note 2:** The distances specified in this table are the air, bare-hand, and live-line tool distances.                                                        |                        |                       |    |    |
 
-|T (p.u.)|Phase-to-ground exposure|Phase-to-phase exposure|    |    |
-|--------|------------------------|-----------------------|----|----|
-|   m    |           ft           |           m           | ft |    |
-|  2.0   |          0.74          |         2.42          |1.09|3.58|
-|  2.1   |          0.76          |         2.50          |1.09|3.58|
-|  2.2   |          0.79          |         2.58          |1.12|3.67|
-|  2.3   |          0.81          |         2.67          |1.14|3.75|
-|  2.4   |          0.84          |         2.75          |1.17|3.83|
-|  2.5   |          0.84          |         2.75          |1.19|3.92|
-|  2.6   |          0.86          |         2.83          |1.22|4.00|
-|  2.7   |          0.89          |         2.92          |1.24|4.08|
-|  2.8   |          0.91          |         3.00          |1.24|4.08|
-|  2.9   |          0.94          |         3.08          |1.27|4.17|
-|  3.0   |          0.97          |         3.17          |1.30|4.25|
+|                                                                                                       T (p.u.)                                                                                                        |Phase-to-ground exposure|Phase-to-phase exposure|    |    |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----------------------|----|----|
+|                                                                                                           m                                                                                                           |           ft           |           m           | ft |    |
+|                                                                                                          2.0                                                                                                          |          1.17          |         3.83          |1.85|6.08|
+|                                                                                                          2.1                                                                                                          |          1.22          |         4.00          |1.91|6.25|
+|                                                                                                          2.2                                                                                                          |          1.24          |         4.08          |1.93|6.33|
+|                                                                                                          2.3                                                                                                          |          1.30          |         4.25          |1.98|6.50|
+|                                                                                                          2.4                                                                                                          |          1.35          |         4.42          |2.01|6.58|
+|                                                                                                          2.5                                                                                                          |          1.37          |         4.50          |2.06|6.75|
+|                                                                                                          2.6                                                                                                          |          1.42          |         4.67          |2.11|6.92|
+|                                                                                                          2.7                                                                                                          |          1.47          |         4.83          |2.13|7.00|
+|                                                                                                          2.8                                                                                                          |          1.50          |         4.92          |2.18|7.17|
+|                                                                                                          2.9                                                                                                          |          1.55          |         5.08          |2.24|7.33|
+|                                                                                                          3.0                                                                                                          |          1.60          |         5.25          |2.29|7.50|
+|**Note 1:** The employer may apply the distance specified in this table only where the employer determines the maximum anticipated per-unit transient overvoltage by engineering analysis. (Table 6 applies otherwise.)|                        |                       |    |    |
+|                                                        **Note 2:** The distances specified in this table are the air, bare-hand, and live-line tool distances.                                                        |                        |                       |    |    |
 
-Note 1: The employer may apply the distance specified in this table only where the employer determines the maximum anticipated per-unit transient overvoltage by engineering analysis. (Table 6 applies otherwise.)
+|                                                                                                       T (p.u.)                                                                                                        |Phase-to-ground exposure|Phase-to-phase exposure|    |     |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----------------------|----|-----|
+|                                                                                                           m                                                                                                           |           ft           |           m           | ft |     |
+|                                                                                                          2.0                                                                                                          |          1.60          |         5.25          |2.62|8.58 |
+|                                                                                                          2.1                                                                                                          |          1.65          |         5.42          |2.69|8.83 |
+|                                                                                                          2.2                                                                                                          |          1.75          |         5.75          |2.79|9.17 |
+|                                                                                                          2.3                                                                                                          |          1.85          |         6.08          |2.90|9.50 |
+|                                                                                                          2.4                                                                                                          |          1.93          |         6.33          |3.02|9.92 |
+|                                                                                                          2.5                                                                                                          |          2.03          |         6.67          |3.15|10.33|
+|                                                                                                          2.6                                                                                                          |          2.16          |         7.08          |3.28|10.75|
+|                                                                                                          2.7                                                                                                          |          2.26          |         7.42          |3.40|11.17|
+|                                                                                                          2.8                                                                                                          |          2.36          |         7.75          |3.53|11.58|
+|                                                                                                          2.9                                                                                                          |          2.49          |         8.17          |3.68|12.08|
+|                                                                                                          3.0                                                                                                          |          2.59          |         8.50          |3.81|12.50|
+|**Note 1:** The employer may apply the distance specified in this table only where the employer determines the maximum anticipated per-unit transient overvoltage by engineering analysis. (Table 6 applies otherwise.)|                        |                       |    |     |
+|                                                        **Note 2:** The distances specified in this table are the air, bare-hand, and live-line tool distances.                                                        |                        |                       |    |     |
 
-Note 2: The distances specified in this table are the air, bare-hand, and live-line tool distances.
+|                                                                                                       T (p.u.)                                                                                                        |Phase-to-ground exposure|Phase-to-phase exposure|    |     |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----------------------|----|-----|
+|                                                                                                           m                                                                                                           |           ft           |           m           | ft |     |
+|                                                                                                          1.5                                                                                                          |          1.83          |         6.00          |2.24|7.33 |
+|                                                                                                          1.6                                                                                                          |          1.98          |         6.50          |2.67|8.75 |
+|                                                                                                          1.7                                                                                                          |          2.13          |         7.00          |3.10|10.17|
+|                                                                                                          1.8                                                                                                          |          2.31          |         7.58          |3.53|11.58|
+|                                                                                                          1.9                                                                                                          |          2.46          |         8.08          |4.01|13.17|
+|                                                                                                          2.0                                                                                                          |          2.67          |         8.75          |4.52|14.83|
+|                                                                                                          2.1                                                                                                          |          2.84          |         9.33          |4.75|15.58|
+|                                                                                                          2.2                                                                                                          |          3.02          |         9.92          |4.98|16.33|
+|                                                                                                          2.3                                                                                                          |          3.20          |         10.50         |5.23|17.17|
+|                                                                                                          2.4                                                                                                          |          3.43          |         11.25         |5.51|18.08|
+|**Note 1:** The employer may apply the distance specified in this table only where the employer determines the maximum anticipated per-unit transient overvoltage by engineering analysis. (Table 6 applies otherwise.)|                        |                       |    |     |
+|                                                        **Note 2:** The distances specified in this table are the air, bare-hand, and live-line tool distances.                                                        |                        |                       |    |     |
 
-Table 8 - Minimum Approach Distances Until March 31, 2015 - 121.1 to 145.0 kV With Overvoltage Factor
-
-|T (p.u.)|Phase-to-ground exposure|Phase-to-phase exposure|    |    |
-|--------|------------------------|-----------------------|----|----|
-|   m    |           ft           |           m           | ft |    |
-|  2.0   |          0.84          |         2.75          |1.24|4.08|
-|  2.1   |          0.86          |         2.83          |1.27|4.17|
-|  2.2   |          0.89          |         2.92          |1.30|4.25|
-|  2.3   |          0.91          |         3.00          |1.32|4.33|
-|  2.4   |          0.94          |         3.08          |1.35|4.42|
-|  2.5   |          0.97          |         3.17          |1.37|4.50|
-|  2.6   |          0.99          |         3.25          |1.40|4.58|
-|  2.7   |          1.02          |         3.33          |1.42|4.67|
-|  2.8   |          1.04          |         3.42          |1.45|4.75|
-|  2.9   |          1.07          |         3.50          |1.47|4.83|
-|  3.0   |          1.09          |         3.58          |1.50|4.92|
-
-Note 1: The employer may apply the distance specified in this table only where the employer determines the maximum anticipated per-unit transient overvoltage by engineering analysis. (Table 6 applies otherwise.)
-
-Note 2: The distances specified in this table are the air, bare-hand, and live-line tool distances.
-
-Table 9 - Minimum Approach Distances Until March 31, 2015 - 145.1 to 169.0 kV With Overvoltage Factor
-
-|T (p.u.)|Phase-to-ground exposure|Phase-to-phase exposure|    |    |
-|--------|------------------------|-----------------------|----|----|
-|   m    |           ft           |           m           | ft |    |
-|  2.0   |          0.91          |         3.00          |1.42|4.67|
-|  2.1   |          0.97          |         3.17          |1.45|4.75|
-|  2.2   |          0.99          |         3.25          |1.47|4.83|
-|  2.3   |          1.02          |         3.33          |1.50|4.92|
-|  2.4   |          1.04          |         3.42          |1.52|5.00|
-|  2.5   |          1.07          |         3.50          |1.57|5.17|
-|  2.6   |          1.12          |         3.67          |1.60|5.25|
-|  2.7   |          1.14          |         3.75          |1.63|5.33|
-|  2.8   |          1.17          |         3.83          |1.65|5.42|
-|  2.9   |          1.19          |         3.92          |1.68|5.50|
-|  3.0   |          1.22          |         4.00          |1.73|5.67|
-
-Note 1: The employer may apply the distance specified in this table only where the employer determines the maximum anticipated per-unit transient overvoltage by engineering analysis. (Table 6 applies otherwise.)
-
-Note 2: The distances specified in this table are the air, bare-hand, and live-line tool distances.
-
-Table 10 - Minimum Approach Distances Until March 31, 2015 - 169.1 to 242.0 kV With Overvoltage Factor
-
-|T (p.u.)|Phase-to-ground exposure|Phase-to-phase exposure|    |    |
-|--------|------------------------|-----------------------|----|----|
-|   m    |           ft           |           m           | ft |    |
-|  2.0   |          1.17          |         3.83          |1.85|6.08|
-|  2.1   |          1.22          |         4.00          |1.91|6.25|
-|  2.2   |          1.24          |         4.08          |1.93|6.33|
-|  2.3   |          1.30          |         4.25          |1.98|6.50|
-|  2.4   |          1.35          |         4.42          |2.01|6.58|
-|  2.5   |          1.37          |         4.50          |2.06|6.75|
-|  2.6   |          1.42          |         4.67          |2.11|6.92|
-|  2.7   |          1.47          |         4.83          |2.13|7.00|
-|  2.8   |          1.50          |         4.92          |2.18|7.17|
-|  2.9   |          1.55          |         5.08          |2.24|7.33|
-|  3.0   |          1.60          |         5.25          |2.29|7.50|
-
-Note 1: The employer may apply the distance specified in this table only where the employer determines the maximum anticipated per-unit transient overvoltage by engineering analysis. (Table 6 applies otherwise.)
-
-Note 2: The distances specified in this table are the air, bare-hand, and live-line tool distances.
-
-Table 11 - Minimum Approach Distances Until March 31, 2015 - 242.1 to 362.0 kV With Overvoltage Factor
-
-|T (p.u.)|Phase-to-ground exposure|Phase-to-phase exposure|    |     |
-|--------|------------------------|-----------------------|----|-----|
-|   m    |           ft           |           m           | ft |     |
-|  2.0   |          1.60          |         5.25          |2.62|8.58 |
-|  2.1   |          1.65          |         5.42          |2.69|8.83 |
-|  2.2   |          1.75          |         5.75          |2.79|9.17 |
-|  2.3   |          1.85          |         6.08          |2.90|9.50 |
-|  2.4   |          1.93          |         6.33          |3.02|9.92 |
-|  2.5   |          2.03          |         6.67          |3.15|10.33|
-|  2.6   |          2.16          |         7.08          |3.28|10.75|
-|  2.7   |          2.26          |         7.42          |3.40|11.17|
-|  2.8   |          2.36          |         7.75          |3.53|11.58|
-|  2.9   |          2.49          |         8.17          |3.68|12.08|
-|  3.0   |          2.59          |         8.50          |3.81|12.50|
-
-Note 1: The employer may apply the distance specified in this table only where the employer determines the maximum anticipated per-unit transient overvoltage by engineering analysis. (Table 6 applies otherwise.)
-
-Note 2: The distances specified in this table are the air, bare-hand, and live-line tool distances.
-
-Table 12 - Minimum Approach Distances Until March 31, 2015 - 362.1 to 552.0 kV With Overvoltage Factor
-
-|T (p.u.)|Phase-to-ground exposure|Phase-to-phase exposure|    |     |
-|--------|------------------------|-----------------------|----|-----|
-|   m    |           ft           |           m           | ft |     |
-|  1.5   |          1.83          |         6.00          |2.24|7.33 |
-|  1.6   |          1.98          |         6.50          |2.67|8.75 |
-|  1.7   |          2.13          |         7.00          |3.10|10.17|
-|  1.8   |          2.31          |         7.58          |3.53|11.58|
-|  1.9   |          2.46          |         8.08          |4.01|13.17|
-|  2.0   |          2.67          |         8.75          |4.52|14.83|
-|  2.1   |          2.84          |         9.33          |4.75|15.58|
-|  2.2   |          3.02          |         9.92          |4.98|16.33|
-|  2.3   |          3.20          |         10.50         |5.23|17.17|
-|  2.4   |          3.43          |         11.25         |5.51|18.08|
-
-Note 1: The employer may apply the distance specified in this table only where the employer determines the maximum anticipated per-unit transient overvoltage by engineering analysis. (Table 6 applies otherwise.)
-
-Note 2: The distances specified in this table are the air, bare-hand, and live-line tool distances.
-
-Table 13 - Minimum Approach Distances Until March 31, 2015 - 552.1 to 800.0 kV With Overvoltage Factor
-
-|T (p.u.)|Phase-to-ground exposure|Phase-to-phase exposure|    |     |
-|--------|------------------------|-----------------------|----|-----|
-|   m    |           ft           |           m           | ft |     |
-|        |                        |                       |    |     |
-|  1.5   |          2.95          |         9.67          |3.68|12.08|
-|  1.6   |          3.25          |         10.67         |4.42|14.50|
-|  1.7   |          3.56          |         11.67         |5.23|17.17|
-|  1.8   |          3.86          |         12.67         |6.07|19.92|
-|  1.9   |          4.19          |         13.75         |6.99|22.92|
-|  2.0   |          4.55          |         14.92         |7.92|26.00|
-
-Note 1: The employer may apply the distance specified in this table only where the employer determines the maximum anticipated per-unit transient overvoltage by engineering analysis. (Table 6 applies otherwise.)
-
-Note 2: The distances specified in this table are the air, bare-hand, and live-line tool distances.
+|                                                                                                       T (p.u.)                                                                                                        |Phase-to-ground exposure|Phase-to-phase exposure|    |     |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----------------------|----|-----|
+|                                                                                                           m                                                                                                           |           ft           |           m           | ft |     |
+|                                                                                                                                                                                                                       |                        |                       |    |     |
+|                                                                                                          1.5                                                                                                          |          2.95          |         9.67          |3.68|12.08|
+|                                                                                                          1.6                                                                                                          |          3.25          |         10.67         |4.42|14.50|
+|                                                                                                          1.7                                                                                                          |          3.56          |         11.67         |5.23|17.17|
+|                                                                                                          1.8                                                                                                          |          3.86          |         12.67         |6.07|19.92|
+|                                                                                                          1.9                                                                                                          |          4.19          |         13.75         |6.99|22.92|
+|                                                                                                          2.0                                                                                                          |          4.55          |         14.92         |7.92|26.00|
+|**Note 1:** The employer may apply the distance specified in this table only where the employer determines the maximum anticipated per-unit transient overvoltage by engineering analysis. (Table 6 applies otherwise.)|                        |                       |    |     |
+|                                                        **Note 2:** The distances specified in this table are the air, bare-hand, and live-line tool distances.                                                        |                        |                       |    |     |
 
 B. *Alternative minimum approach distances.* Employers may use the minimum approach distances in Table 14 through Table 21 provided that the employer follows the notes to those tables.
-
-Table 14 - AC Minimum Approach Distances - 72.6 to 121.0 kV
 
 |T (p.u.)|Phase-to-ground exposure|Phase-to-phase exposure|    |   |
 |--------|------------------------|-----------------------|----|---|
@@ -2468,8 +2386,6 @@ Table 14 - AC Minimum Approach Distances - 72.6 to 121.0 kV
 |  3.4   |          1.11          |          3.6          |1.39|4.6|
 |  3.5   |          1.13          |          3.7          |1.42|4.7|
 
-Table 15 - AC Minimum Approach Distances - 121.1 to 145.0 kV
-
 |T (p.u.)|Phase-to-ground exposure|Phase-to-phase exposure|    |   |
 |--------|------------------------|-----------------------|----|---|
 |   m    |           ft           |           m           | ft |   |
@@ -2494,8 +2410,6 @@ Table 15 - AC Minimum Approach Distances - 121.1 to 145.0 kV
 |  3.3   |          1.24          |          4.1          |1.57|5.2|
 |  3.4   |          1.27          |          4.2          |1.60|5.2|
 |  3.5   |          1.30          |          4.3          |1.64|5.4|
-
-Table 16 - AC Minimum Approach Distances - 145.1 to 169.0 kV
 
 |T (p.u.)|Phase-to-ground exposure|Phase-to-phase exposure|    |   |
 |--------|------------------------|-----------------------|----|---|
@@ -2522,8 +2436,6 @@ Table 16 - AC Minimum Approach Distances - 145.1 to 169.0 kV
 |  3.4   |          1.43          |          4.7          |1.88|6.2|
 |  3.5   |          1.46          |          4.8          |1.94|6.4|
 
-Table 17 - AC Minimum Approach Distances - 169.1 to 242.0 kV
-
 |T (p.u.)|Phase-to-ground exposure|Phase-to-phase exposure|    |    |
 |--------|------------------------|-----------------------|----|----|
 |   m    |           ft           |           m           | ft |    |
@@ -2548,8 +2460,6 @@ Table 17 - AC Minimum Approach Distances - 169.1 to 242.0 kV
 |  3.3   |          1.88          |          6.2          |2.86|9.4 |
 |  3.4   |          1.95          |          6.4          |2.97|9.7 |
 |  3.5   |          2.01          |          6.6          |3.08|10.1|
-
-Table 18 - AC Minimum Approach Distances - 242.1 to 362.0 kV
 
 |T (p.u.)|Phase-to-ground exposure|Phase-to-phase exposure|    |    |
 |--------|------------------------|-----------------------|----|----|
@@ -2576,8 +2486,6 @@ Table 18 - AC Minimum Approach Distances - 242.1 to 362.0 kV
 |  3.4   |          3.27          |         10.7          |5.32|17.5|
 |  3.5   |          3.41          |         11.2          |5.52|18.1|
 
-Table 19 - AC Minimum Approach Distances - 362.1 to 420.0 kV
-
 |T (p.u.)|Phase-to-ground exposure|Phase-to-phase exposure|    |    |
 |--------|------------------------|-----------------------|----|----|
 |   m    |           ft           |           m           | ft |    |
@@ -2603,8 +2511,6 @@ Table 19 - AC Minimum Approach Distances - 362.1 to 420.0 kV
 |  3.4   |          4.07          |         13.4          |6.56|21.5|
 |  3.5   |          4.25          |         13.9          |6.81|22.3|
 
-Table 20 - AC Minimum Approach Distances - 420.1 to 550.0 kV
-
 |T (p.u.)|Phase-to-ground exposure|Phase-to-phase exposure|    |    |
 |--------|------------------------|-----------------------|----|----|
 |   m    |           ft           |           m           | ft |    |
@@ -2625,32 +2531,26 @@ Table 20 - AC Minimum Approach Distances - 420.1 to 550.0 kV
 |  2.9   |          4.81          |         15.8          |7.88|25.9|
 |  3.0   |          5.07          |         16.6          |8.24|27.0|
 
-Table 21 - AC Minimum Approach Distances - 550.1 to 800.0 kV
+|                                                                                                                                          T (p.u.)                                                                                                                                          |Phase-to-ground exposure|Phase-to-phase exposure|     |    |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----------------------|-----|----|
+|                                                                                                                                             m                                                                                                                                              |           ft           |           m           | ft  |    |
+|                                                                                                                                            1.5                                                                                                                                             |          3.16          |         10.4          |5.97 |19.6|
+|                                                                                                                                            1.6                                                                                                                                             |          3.46          |         11.4          |6.43 |21.1|
+|                                                                                                                                            1.7                                                                                                                                             |          3.78          |         12.4          |6.92 |22.7|
+|                                                                                                                                            1.8                                                                                                                                             |          4.12          |         13.5          |7.42 |24.3|
+|                                                                                                                                            1.9                                                                                                                                             |          4.47          |         14.7          |7.93 |26.0|
+|                                                                                                                                            2.0                                                                                                                                             |          4.83          |         15.8          |8.47 |27.8|
+|                                                                                                                                            2.1                                                                                                                                             |          5.21          |         17.1          |9.02 |29.6|
+|                                                                                                                                            2.2                                                                                                                                             |          5.61          |         18.4          |9.58 |31.4|
+|                                                                                                                                            2.3                                                                                                                                             |          6.02          |         19.8          |10.16|33.3|
+|                                                                                                                                            2.4                                                                                                                                             |          6.44          |         21.1          |10.76|35.3|
+|                                                                                                                                            2.5                                                                                                                                             |          6.88          |         22.6          |11.38|37.3|
+|                                                                                                                          **Notes to Table 14 through Table 21:**                                                                                                                           |                        |                       |     |    |
+|1. The employer must determine the maximum anticipated per-unit transient overvoltage, phase-to-ground, through an engineering analysis, as required by § 1910.269(l)(3)(ii), or assume a maximum anticipated per-unit transient overvoltage, phase-to-ground, in accordance with Table R-9.|                        |                       |     |    |
+|                                                                   2. For phase-to-phase exposures, the employer must demonstrate that no insulated tool spans the gap and that no large conductive object is in the gap.                                                                   |                        |                       |     |    |
+|                                                                                                3. The worksite must be at an elevation of 900 meters (3,000 feet) or less above sea level.                                                                                                 |                        |                       |     |    |
 
-|T (p.u.)|Phase-to-ground exposure|Phase-to-phase exposure|     |    |
-|--------|------------------------|-----------------------|-----|----|
-|   m    |           ft           |           m           | ft  |    |
-|  1.5   |          3.16          |         10.4          |5.97 |19.6|
-|  1.6   |          3.46          |         11.4          |6.43 |21.1|
-|  1.7   |          3.78          |         12.4          |6.92 |22.7|
-|  1.8   |          4.12          |         13.5          |7.42 |24.3|
-|  1.9   |          4.47          |         14.7          |7.93 |26.0|
-|  2.0   |          4.83          |         15.8          |8.47 |27.8|
-|  2.1   |          5.21          |         17.1          |9.02 |29.6|
-|  2.2   |          5.61          |         18.4          |9.58 |31.4|
-|  2.3   |          6.02          |         19.8          |10.16|33.3|
-|  2.4   |          6.44          |         21.1          |10.76|35.3|
-|  2.5   |          6.88          |         22.6          |11.38|37.3|
-
-Notes to Table 14 through Table 21:
-
-1. The employer must determine the maximum anticipated per-unit transient overvoltage, phase-to-ground, through an engineering analysis, as required by § 1910.269(l)(3)(ii), or assume a maximum anticipated per-unit transient overvoltage, phase-to-ground, in accordance with Table R-9.
-
-2. For phase-to-phase exposures, the employer must demonstrate that no insulated tool spans the gap and that no large conductive object is in the gap.
-
-3. The worksite must be at an elevation of 900 meters (3,000 feet) or less above sea level.
-
-Appendix C to § 1910.269 - Protection From Hazardous Differences in Electric PotentialI. Introduction
+Appendix C to § 1910.269—Protection From Hazardous Differences in Electric PotentialI. Introduction
 
 Current passing through an impedance impresses voltage across that impedance. Even conductors have some, albeit low, value of impedance. Therefore, if a “grounded”1 object, such as a crane or deenergized and grounded power line, results in a ground fault on a power line, voltage is impressed on that grounded object. The voltage impressed on the grounded object depends largely on the voltage on the line, on the impedance of the faulted conductor, and on the impedance to “true,” or “absolute,” ground represented by the object. If the impedance of the object causing the fault is relatively large, the voltage impressed on the object is essentially the phase-to-ground system voltage. However, even faults to grounded power lines or to well grounded transmission towers or substation structures (which have relatively low values of impedance to ground) can result in hazardous voltages.2 In all cases, the degree of the hazard depends on the magnitude of the current through the employee and the time of exposure. This appendix discusses methods of protecting workers against the possibility that grounded objects, such as cranes and other mechanical equipment, will contact energized power lines and that deenergized and grounded power lines will become accidentally energized.
 
@@ -2742,7 +2642,7 @@ i. *Maintenance of grounding equipment.* It is essential that the employer prope
 
 ii. *Grounding cable length and movement.* The electromagnetic forces on grounding cables during a fault increase with increasing cable length. These forces can cause the cable to move violently during a fault and can be high enough to damage the cable or clamps and cause the cable to fail. In addition, flying cables can injure workers. Consequently, cable lengths should be as short as possible, and grounding cables that might carry high fault current should be in positions where the cables will not injure workers during a fault.
 
-Appendix D to § 1910.269 - Methods of Inspecting and Testing Wood PolesI. Introduction
+Appendix D to § 1910.269—Methods of Inspecting and Testing Wood PolesI. Introduction
 
 When employees are to perform work on a wood pole, it is important to determine the condition of the pole before employees climb it. The weight of the employee, the weight of equipment to be installed, and other working stresses (such as the removal or retensioning of conductors) can lead to the failure of a defective pole or a pole that is not designed to handle the additional stresses.1 For these reasons, it is essential that, before an employee climbs a wood pole, the employer ascertain that the pole is capable of sustaining the stresses of the work. The determination that the pole is capable of sustaining these stresses includes an inspection of the condition of the pole.
 
@@ -2780,7 +2680,7 @@ A. *Hammer test.* Rap the pole sharply with a hammer weighing about 1.4 kg (3 po
 
 B. *Rocking test.* Apply a horizontal force to the pole and attempt to rock it back and forth in a direction perpendicular to the line. Exercise caution to avoid causing power lines to swing together. Apply the force to the pole either by pushing it with a pike pole or pulling the pole with a rope. If the pole cracks during the test, it is unsafe.
 
-Appendix E to § 1910.269 - Protection From Flames and Electric ArcsI. Introduction
+Appendix E to § 1910.269—Protection From Flames and Electric ArcsI. Introduction
 
 Paragraph (l)(8) of § 1910.269 addresses protecting employees from flames and electric arcs. This paragraph requires employers to: (1) Assess the workplace for flame and electric-arc hazards (paragraph (l)(8)(i)); (2) estimate the available heat energy from electric arcs to which employees would be exposed (paragraph (l)(8)(ii)); (3) ensure that employees wear clothing that will not melt, or ignite and continue to burn, when exposed to flames or the estimated heat energy (paragraph (l)(8)(iii)); and (4) ensure that employees wear flame-resistant clothing1 and protective clothing and other protective equipment that has an arc rating greater than or equal to the available heat energy under certain conditions (paragraphs (l)(8)(iv) and (l)(8)(v)). This appendix contains information to help employers estimate available heat energy as required by § 1910.269(l)(8)(ii), select protective clothing and other protective equipment with an arc rating suitable for the available heat energy as required by § 1910.269(l)(8)(v), and ensure that employees do not wear flammable clothing that could lead to burn injury as addressed by §§ 1910.269(l)(8)(iii) and (l)(8)(iv).
 
@@ -2822,10 +2722,8 @@ B. Examples
 
 Table 1 provides task-based examples of exposure assessments.
 
-Table 1 - Example Assessments for Various Tasks
-
 |                                          Task                                          |                                                                         Is employee exposed to flame or electric-arc hazard?                                                                         |    |
-|:--------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
+|----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
 |      Normal operation of enclosed equipment, such as closing or opening a switch       |                                            The employer properly installs and maintains enclosed equipment, and there is no evidence of impending failure                                            |No. |
 |                                                                                        |                                                                              There is evidence of arcing or overheating                                                                              |Yes.|
 |                                                                                        |                                            Parts of the equipment are loose or sticking, or the equipment otherwise exhibits signs of lack of maintenance                                            |Yes.|
@@ -2839,58 +2737,38 @@ III. Protection Against Burn InjuryA. Estimating Available Heat Energy
 
 *Calculation methods.* Paragraph (l)(8)(ii) of § 1910.269 provides that, for each employee exposed to an electric-arc hazard, the employer must make a reasonable estimate of the heat energy to which the employee would be exposed if an arc occurs. Table 2 lists various methods of calculating values of available heat energy from an electric circuit. The Occupational Safety and Health Administration does not endorse any of these specific methods. Each method requires the input of various parameters, such as fault current, the expected length of the electric arc, the distance from the arc to the employee, and the clearing time for the fault (that is, the time the circuit protective devices take to open the circuit and clear the fault). The employer can precisely determine some of these parameters, such as the fault current and the clearing time, for a given system. The employer will need to estimate other parameters, such as the length of the arc and the distance between the arc and the employee, because such parameters vary widely.
 
-Table 2 - Methods of Calculating Incident Heat Energy From an Electric Arc
-
-|                                                                                                                                                                                                                                                                                |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |                                                               1. Standard for Electrical Safety Requirements for Employee Workplaces, NFPA 70E-2012, Annex D, “Sample Calculation of Flash Protection Boundary.”                                                               |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |2. Doughty, T.E., Neal, T.E., and Floyd II, H.L., “Predicting Incident Energy to Better Manage the Electric Arc Hazard on 600 V Power Distribution Systems,” Record of Conference Papers IEEE IAS 45th Annual Petroleum and Chemical Industry Conference, September 28-30, 1998.|
 |                                     3. Guide for Performing Arc-Flash Hazard Calculations, IEEE Std 1584-2002, 1584a-2004 (Amendment 1 to IEEE Std 1584-2002), and 1584b-2011 (Amendment 2: Changes to Clause 4 of IEEE Std 1584-2002).\*                                      |
 |                                                                                         4. ARCPRO, a commercially available software program developed by Kinectrics, Toronto, ON, CA.                                                                                         |
-
-\* This appendix refers to IEEE Std 1584-2002 with both amendments as IEEE Std 1584b-2011.
+|                                                                                           \* This appendix refers to IEEE Std 1584-2002 with both amendments as IEEE Std 1584b-2011.                                                                                           |
 
 The amount of heat energy calculated by any of the methods is approximately inversely proportional to the square of the distance between the employee and the arc. In other words, if the employee is very close to the arc, the heat energy is very high; but if the employee is just a few more centimeters away, the heat energy drops substantially. Thus, estimating the distance from the arc to the employee is key to protecting employees.
 
 The employer must select a method of estimating incident heat energy that provides a reasonable estimate of incident heat energy for the exposure involved. Table 3 shows which methods provide reasonable estimates for various exposures.
 
-Table 3 - Selecting a Reasonable Incident-Energy Calculation Method<sup>1</sup>
-
-| Incident-energy calculation method |600 V and Less<sup>2</sup>|601 V to 15 kV<sup>2</sup>|More than 15 kV|   |   |   |             |             |             |
-|------------------------------------|--------------------------|--------------------------|---------------|---|---|---|-------------|-------------|-------------|
-|                 1Φ                 |           3Φa            |           3Φb            |      1Φ       |3Φa|3Φb|1Φ |     3Φa     |     3Φb     |             |
-|NFPA 70E-2012 Annex D (Lee equation)|           Y-C            |            Y             |       N       |Y-C|Y-C| N |N<sup>3</sup>|N<sup>3</sup>|N<sup>3</sup>|
-|      Doughty, Neal, and Floyd      |           Y-C            |            Y             |       Y       | N | N | N |      N      |      N      |      N      |
-|        IEEE Std 1584b-2011         |            Y             |            Y             |       Y       | Y | Y | Y |      N      |      N      |      N      |
-|               ARCPRO               |            Y             |            N             |       N       | Y | N | N |      Y      |Y<sup>4</sup>|Y<sup>4</sup>|
-
-Key:
-
-1Φ: Single-phase arc in open air.
-
-3Φa: Three-phase arc in open air.
-
-3Φb: Three-phase arc in an enclosure (box).
-
-Y: Acceptable; produces a reasonable estimate of incident heat energy from this type of electric arc.
-
-N: Not acceptable; does not produce a reasonable estimate of incident heat energy from this type of electric arc.
-
-Y-C: Acceptable; produces a reasonable, but conservative, estimate of incident heat energy from this type of electric arc.
-
-Notes:
-
-<sup>1</sup> Although the Occupational Safety and Health Administration will consider these methods reasonable for enforcement purposes when employers use the methods in accordance with this table, employers should be aware that the listed methods do not necessarily result in estimates that will provide full protection from internal faults in transformers and similar equipment or from arcs in underground manholes or vaults.
-
-<sup>2</sup> At these voltages, the presumption is that the arc is three-phase unless the employer can demonstrate that only one phase is present or that the spacing of the phases is sufficient to prevent a multiphase arc from occurring.
-
-<sup>3</sup> Although the Occupational Safety and Health Administration will consider this method acceptable for purposes of assessing whether incident energy exceeds 2.0 cal/cm<sup>2</sup>, the results at voltages of more than 15 kilovolts are extremely conservative and unrealistic.
-
-<sup>4</sup> The Occupational Safety and Health Administration will deem the results of this method reasonable when the employer adjusts them using the conversion factors for three-phase arcs in open air or in an enclosure, as indicated in the program's instructions.
+|                                                                                                                                                                                                    Incident-energy calculation method                                                                                                                                                                                                     |600 V and Less <sup>2</sup>|601 V to 15 kV <sup>2</sup>|More than 15 kV|   |   |   |              |              |              |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|---------------------------|---------------|---|---|---|--------------|--------------|--------------|
+|                                                                                                                                                                                                                    1Φ                                                                                                                                                                                                                     |            3Φa            |            3Φb            |      1Φ       |3Φa|3Φb|1Φ |     3Φa      |     3Φb      |              |
+|                                                                                                                                                                                                   NFPA 70E-2012 Annex D (Lee equation)                                                                                                                                                                                                    |            Y-C            |             Y             |       N       |Y-C|Y-C| N |N <sup>3</sup>|N <sup>3</sup>|N <sup>3</sup>|
+|                                                                                                                                                                                                         Doughty, Neal, and Floyd                                                                                                                                                                                                          |            Y-C            |             Y             |       Y       | N | N | N |      N       |      N       |      N       |
+|                                                                                                                                                                                                            IEEE Std 1584b-2011                                                                                                                                                                                                            |             Y             |             Y             |       Y       | Y | Y | Y |      N       |      N       |      N       |
+|                                                                                                                                                                                                                  ARCPRO                                                                                                                                                                                                                   |             Y             |             N             |       N       | Y | N | N |      Y       |Y <sup>4</sup>|Y <sup>4</sup>|
+|                                                                                                                                                                                                                   Key:                                                                                                                                                                                                                    |                           |                           |               |   |   |   |              |              |              |
+|                                                                                                                                                                                                     1Φ: Single-phase arc in open air.                                                                                                                                                                                                     |                           |                           |               |   |   |   |              |              |              |
+|                                                                                                                                                                                                     3Φa: Three-phase arc in open air.                                                                                                                                                                                                     |                           |                           |               |   |   |   |              |              |              |
+|                                                                                                                                                                                                3Φb: Three-phase arc in an enclosure (box).                                                                                                                                                                                                |                           |                           |               |   |   |   |              |              |              |
+|                                                                                                                                                                   Y: Acceptable; produces a reasonable estimate of incident heat energy from this type of electric arc.                                                                                                                                                                   |                           |                           |               |   |   |   |              |              |              |
+|                                                                                                                                                             N: Not acceptable; does not produce a reasonable estimate of incident heat energy from this type of electric arc.                                                                                                                                                             |                           |                           |               |   |   |   |              |              |              |
+|                                                                                                                                                        Y-C: Acceptable; produces a reasonable, but conservative, estimate of incident heat energy from this type of electric arc.                                                                                                                                                         |                           |                           |               |   |   |   |              |              |              |
+|                                                                                                                                                                                                                **Notes:**                                                                                                                                                                                                                 |                           |                           |               |   |   |   |              |              |              |
+|<sup>1</sup> Although the Occupational Safety and Health Administration will consider these methods reasonable for enforcement purposes when employers use the methods in accordance with this table, employers should be aware that the listed methods do not necessarily result in estimates that will provide full protection from internal faults in transformers and similar equipment or from arcs in underground manholes or vaults.|                           |                           |               |   |   |   |              |              |              |
+|                                                                                               <sup>2</sup> At these voltages, the presumption is that the arc is three-phase unless the employer can demonstrate that only one phase is present or that the spacing of the phases is sufficient to prevent a multiphase arc from occurring.                                                                                               |                           |                           |               |   |   |   |              |              |              |
+|                                                                       <sup>3</sup> Although the Occupational Safety and Health Administration will consider this method acceptable for purposes of assessing whether incident energy exceeds 2.0 cal/cm<sup>2</sup>, the results at voltages of more than 15 kilovolts are extremely conservative and unrealistic.                                                                        |                           |                           |               |   |   |   |              |              |              |
+|                                                                                <sup>4</sup> The Occupational Safety and Health Administration will deem the results of this method reasonable when the employer adjusts them using the conversion factors for three-phase arcs in open air or in an enclosure, as indicated in the program's instructions.                                                                                |                           |                           |               |   |   |   |              |              |              |
 
 *Selecting a reasonable distance from the employee to the arc.* In estimating available heat energy, the employer must make some reasonable assumptions about how far the employee will be from the electric arc. Table 4 lists reasonable distances from the employee to the electric arc. The distances in Table 4 are consistent with national consensus standards, such as the Institute of Electrical and Electronic Engineers' *National Electrical Safety Code,* ANSI/IEEE C2-2012, and *IEEE Guide for Performing Arc-Flash Hazard Calculations,* IEEE Std 1584b-2011. The employer is free to use other reasonable distances, but must consider equipment enclosure size and the working distance to the employee in selecting a distance from the employee to the arc. The Occupational Safety and Health Administration will consider a distance reasonable when the employer bases it on equipment size and working distance.
-
-Table 4 - Selecting a Reasonable Distance From the Employee to the Electric Arc
 
 |                               Class of equipment                                |        Single-phase arc mm  <br/>(inches)        |Three-phase arc mm  <br/>(inches)|
 |---------------------------------------------------------------------------------|--------------------------------------------------|---------------------------------|
@@ -2901,34 +2779,26 @@ Table 4 - Selecting a Reasonable Distance From the Employee to the Electric Arc
 |                                15-kV switchgear                                 |                        NA                        |            910 (36)             |
 |Single conductors in air (up to 46 kilovolts), work with rubber insulating gloves|                     380 (15)                     |               NA                |
 | Single conductors in air, work with live-line tools and live-line barehand work |MAD − (2 × kV × 2.54)  <br/>(MAD − (2 × kV /10)) †|               NA                |
-
-\* NA = not applicable.
-
-† The terms in this equation are:
-
-MAD = The applicable minimum approach distance, and
-
-kV = The system voltage in kilovolts.
+|                             \* NA = not applicable.                             |                                                  |                                 |
+|                        † The terms in this equation are:                        |                                                  |                                 |
+|               MAD = The applicable minimum approach distance, and               |                                                  |                                 |
+|                      kV = The system voltage in kilovolts.                      |                                                  |                                 |
 
 *Selecting a reasonable arc gap.* For a single-phase arc in air, the electric arc will almost always occur when an energized conductor approaches too close to ground. Thus, an employer can determine the arc gap, or arc length, for these exposures by the dielectric strength of air and the voltage on the line. The dielectric strength of air is approximately 10 kilovolts for every 25.4 millimeters (1 inch). For example, at 50 kilovolts, the arc gap would be 50 ÷ 10 × 25.4 (or 50 × 2.54), which equals 127 millimeters (5 inches).
 
 For three-phase arcs in open air and in enclosures, the arc gap will generally be dependent on the spacing between parts energized at different electrical potentials. Documents such as IEEE Std 1584b-2011 provide information on these distances. Employers may select a reasonable arc gap from Table 5, or they may select any other reasonable arc gap based on sparkover distance or on the spacing between (1) live parts at different potentials or (2) live parts and grounded parts (for example, bus or conductor spacings in equipment). In any event, the employer must use an estimate that reasonably resembles the actual exposures faced by the employee.
 
-Table 5 - Selecting a Reasonable Arc Gap
-
-|           Class of equipment            |                        Single-phase arc mm  <br/>(inches)                         |Three-phase arc mm<sup>1</sup>  <br/>(inches)|
-|-----------------------------------------|-----------------------------------------------------------------------------------|---------------------------------------------|
-|                  Cable                  |                                  NA<sup>2</sup>                                   |                  13 (0.5).                  |
-|    Low voltage MCCs and panelboards     |                                        NA                                         |                  25 (1.0).                  |
-|         Low-voltage switchgear          |                                        NA                                         |                 32 (1.25).                  |
-|             5-kV switchgear             |                                        NA                                         |                 104 (4.0).                  |
-|            15-kV switchgear             |                                        NA                                         |                 152 (6.0).                  |
-|Single conductors in air, 15 kV and less.|                                     51 (2.0)                                      |          Phase conductor spacing.           |
-|Single conductor in air, more than 15 kV |Voltage in kV × 2.54  <br/>(Voltage in kV × 0.1), but no less than 51 mm (2 inches)|          Phase conductor spacing.           |
-
-<sup>1</sup> Source: IEEE Std 1584b-2011.
-
-<sup>2</sup> NA = not applicable.
+|           Class of equipment            |                        Single-phase arc mm  <br/>(inches)                         |Three-phase arc mm <sup>1</sup>  <br/>(inches)|
+|-----------------------------------------|-----------------------------------------------------------------------------------|----------------------------------------------|
+|                  Cable                  |                                  NA <sup>2</sup>                                  |                  13 (0.5).                   |
+|    Low voltage MCCs and panelboards     |                                        NA                                         |                  25 (1.0).                   |
+|         Low-voltage switchgear          |                                        NA                                         |                  32 (1.25).                  |
+|             5-kV switchgear             |                                        NA                                         |                  104 (4.0).                  |
+|            15-kV switchgear             |                                        NA                                         |                  152 (6.0).                  |
+|Single conductors in air, 15 kV and less.|                                     51 (2.0)                                      |           Phase conductor spacing.           |
+|Single conductor in air, more than 15 kV |Voltage in kV × 2.54  <br/>(Voltage in kV × 0.1), but no less than 51 mm (2 inches)|           Phase conductor spacing.           |
+|<sup>1</sup> Source: IEEE Std 1584b-2011.|                                                                                   |                                              |
+|    <sup>2</sup> NA = not applicable.    |                                                                                   |                                              |
 
 *Making estimates over multiple system areas.* The employer need not estimate the heat-energy exposure for every job task performed by each employee. Paragraph (l)(8)(ii) of § 1910.269 permits the employer to make broad estimates that cover multiple system areas provided that: (1) The employer uses reasonable assumptions about the energy-exposure distribution throughout the system, and (2) the estimates represent the maximum exposure for those areas. For example, the employer can use the maximum fault current and clearing time to cover several system areas at once.
 
@@ -2944,157 +2814,128 @@ Table 7 presents similar estimates for employees using live-line tools to perfor
 
 The employer will need to use other methods for estimating available heat energy in situations not addressed by Table 6 or Table 7. The calculation methods listed in Table 2 and the guidance provided in Table 3 will help employers do this. For example, employers can use IEEE Std 1584b-2011 to estimate the available heat energy (and to select appropriate protective equipment) for many specific conditions, including lower-voltage, phase-to-phase arc, and enclosed arc exposures.
 
-Table 6 - Incident Heat Energy for Various Fault Currents, Clearing Times, and Voltages of 4.0 to 46.0 kV: Rubber Insulating Glove Exposures Involving Phase-to-Ground Arcs in Open Air Only \* † ‡
+|                                                                                                                 Voltage range  <br/>(kV) \*\*                                                                                                                 |Fault current  <br/>(kA)|Maximum clearing time (cycles)|                     |   |   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|------------------------------|---------------------|---|---|
+|                                                                                                                     4 cal/cm<sup>2</sup>                                                                                                                      |  5 cal/cm<sup>2</sup>  |     8 cal/cm<sup>2</sup>     |12 cal/cm<sup>2</sup>|   |   |
+|                                                                                                                          4.0 to 15.0                                                                                                                          |           5            |              46              |         58          |92 |138|
+|                                                                                                                                                                                                                                                               |           10           |              18              |         22          |36 |54 |
+|                                                                                                                                                                                                                                                               |           15           |              10              |         12          |20 |30 |
+|                                                                                                                                                                                                                                                               |           20           |              6               |          8          |13 |19 |
+|                                                                                                                         15.1 to 25.0                                                                                                                          |           5            |              28              |         34          |55 |83 |
+|                                                                                                                                                                                                                                                               |           10           |              11              |         14          |23 |34 |
+|                                                                                                                                                                                                                                                               |           15           |              7               |          8          |13 |20 |
+|                                                                                                                                                                                                                                                               |           20           |              4               |          5          | 9 |13 |
+|                                                                                                                         25.1 to 36.0                                                                                                                          |           5            |              21              |         26          |42 |62 |
+|                                                                                                                                                                                                                                                               |           10           |              9               |         11          |18 |26 |
+|                                                                                                                                                                                                                                                               |           15           |              5               |          6          |10 |16 |
+|                                                                                                                                                                                                                                                               |           20           |              4               |          4          | 7 |11 |
+|                                                                                                                         36.1 to 46.0                                                                                                                          |           5            |              16              |         20          |32 |48 |
+|                                                                                                                                                                                                                                                               |           10           |              7               |          9          |14 |21 |
+|                                                                                                                                                                                                                                                               |           15           |              4               |          5          | 8 |13 |
+|                                                                                                                                                                                                                                                               |           20           |              3               |          4          | 6 | 9 |
+|                                                      **Notes:**\* This table is for open-air, phase-to-ground electric-arc exposures. It is not for phase-to-phase arcs or enclosed arcs (arc in a box).                                                      |                        |                              |                     |   |   |
+|† The table assumes that the employee will be 380 mm (15 in.) from the electric arc. The table also assumes the arc length to be the sparkover distance for the maximum transient overvoltage of each voltage range (see Appendix B to § 1910.269), as follows:|                        |                              |                     |   |   |
+|                                                                                                                 4.0 to 15.0 kV 51 mm (2 in.)                                                                                                                  |                        |                              |                     |   |   |
+|                                                                                                                15.1 to 25.0 kV 102 mm (4 in.)                                                                                                                 |                        |                              |                     |   |   |
+|                                                                                                                25.1 to 36.0 kV 152 mm (6 in.)                                                                                                                 |                        |                              |                     |   |   |
+|                                                                                                                36.1 to 46.0 kV 229 mm (9 in.)                                                                                                                 |                        |                              |                     |   |   |
+|                                                               ‡The Occupational Safety and Health Administration calculated the values in this table using the ARCPRO method listed in Table 2.                                                               |                        |                              |                     |   |   |
+|                                                                                                 \*\* The voltage range is the phase-to-phase system voltage.                                                                                                  |                        |                              |                     |   |   |
 
-|Voltage range  <br/>(kV) \*\*|Fault current  <br/>(kA)|Maximum clearing time (cycles)|                     |   |   |
-|-----------------------------|------------------------|------------------------------|---------------------|---|---|
-|    4 cal/cm<sup>2</sup>     |  5 cal/cm<sup>2</sup>  |     8 cal/cm<sup>2</sup>     |12 cal/cm<sup>2</sup>|   |   |
-|         4.0 to 15.0         |           5            |              46              |         58          |92 |138|
-|                             |           10           |              18              |         22          |36 |54 |
-|                             |           15           |              10              |         12          |20 |30 |
-|                             |           20           |              6               |          8          |13 |19 |
-|        15.1 to 25.0         |           5            |              28              |         34          |55 |83 |
-|                             |           10           |              11              |         14          |23 |34 |
-|                             |           15           |              7               |          8          |13 |20 |
-|                             |           20           |              4               |          5          | 9 |13 |
-|        25.1 to 36.0         |           5            |              21              |         26          |42 |62 |
-|                             |           10           |              9               |         11          |18 |26 |
-|                             |           15           |              5               |          6          |10 |16 |
-|                             |           20           |              4               |          4          | 7 |11 |
-|        36.1 to 46.0         |           5            |              16              |         20          |32 |48 |
-|                             |           10           |              7               |          9          |14 |21 |
-|                             |           15           |              4               |          5          | 8 |13 |
-|                             |           20           |              3               |          4          | 6 | 9 |
-
-Notes:\* This table is for open-air, phase-to-ground electric-arc exposures. It is not for phase-to-phase arcs or enclosed arcs (arc in a box).
-
-† The table assumes that the employee will be 380 mm (15 in.) from the electric arc. The table also assumes the arc length to be the sparkover distance for the maximum transient overvoltage of each voltage range (see Appendix B to § 1910.269), as follows:
-
-4.0 to 15.0 kV 51 mm (2 in.)
-
-15.1 to 25.0 kV 102 mm (4 in.)
-
-25.1 to 36.0 kV 152 mm (6 in.)
-
-36.1 to 46.0 kV 229 mm (9 in.)
-
-‡The Occupational Safety and Health Administration calculated the values in this table using the ARCPRO method listed in Table 2.
-
-\*\* The voltage range is the phase-to-phase system voltage.
-
-Table 7 - Incident Heat Energy for Various Fault Currents, Clearing Times, and Voltages: Live-Line Tool Exposures Involving Phase-to-Ground Arcs in Open Air Only \* † ‡ #
-
-|Voltage range  <br/>(kV) \*\*|Fault current  <br/>(kA)|Maximum clearing time (cycles)|                     |   |   |
-|-----------------------------|------------------------|------------------------------|---------------------|---|---|
-|    4 cal/cm<sup>2</sup>     |  5 cal/cm<sup>2</sup>  |     8 cal/cm<sup>2</sup>     |12 cal/cm<sup>2</sup>|   |   |
-|         4.0 to 15.0         |           5            |             197              |         246         |394|591|
-|                             |           10           |              73              |         92          |147|220|
-|                             |           15           |              39              |         49          |78 |117|
-|                             |           20           |              24              |         31          |49 |73 |
-|        15.1 to 25.0         |           5            |             197              |         246         |394|591|
-|                             |           10           |              75              |         94          |150|225|
-|                             |           15           |              41              |         51          |82 |122|
-|                             |           20           |              26              |         33          |52 |78 |
-|        25.1 to 36.0         |           5            |             138              |         172         |275|413|
-|                             |           10           |              53              |         66          |106|159|
-|                             |           15           |              30              |         37          |59 |89 |
-|                             |           20           |              19              |         24          |38 |58 |
-|        36.1 to 46.0         |           5            |             129              |         161         |257|386|
-|                             |           10           |              51              |         64          |102|154|
-|                             |           15           |              29              |         36          |58 |87 |
-|                             |           20           |              19              |         24          |38 |57 |
-|        46.1 to 72.5         |           20           |              18              |         23          |36 |55 |
-|                             |           30           |              10              |         13          |20 |30 |
-|                             |           40           |              6               |          8          |13 |19 |
-|                             |           50           |              4               |          6          | 9 |13 |
-|        72.6 to 121.0        |           20           |              10              |         12          |20 |30 |
-|                             |           30           |              6               |          7          |11 |17 |
-|                             |           40           |              4               |          5          | 7 |11 |
-|                             |           50           |              3               |          3          | 5 | 8 |
-|       121.1 to 145.0        |           20           |              12              |         15          |24 |35 |
-|                             |           30           |              7               |          9          |15 |22 |
-|                             |           40           |              5               |          6          |10 |15 |
-|                             |           50           |              4               |          5          | 8 |11 |
-|       145.1 to 169.0        |           20           |              12              |         15          |24 |36 |
-|                             |           30           |              7               |          9          |15 |22 |
-|                             |           40           |              5               |          7          |10 |16 |
-|                             |           50           |              4               |          5          | 8 |12 |
-|       169.1 to 242.0        |           20           |              13              |         17          |27 |40 |
-|                             |           30           |              8               |         10          |17 |25 |
-|                             |           40           |              6               |          7          |12 |17 |
-|                             |           50           |              4               |          5          | 9 |13 |
-|       242.1 to 362.0        |           20           |              25              |         32          |51 |76 |
-|                             |           30           |              16              |         19          |31 |47 |
-|                             |           40           |              11              |         14          |22 |33 |
-|                             |           50           |              8               |         10          |16 |25 |
-|       362.1 to 420.0        |           20           |              12              |         15          |25 |37 |
-|                             |           30           |              8               |         10          |15 |23 |
-|                             |           40           |              5               |          7          |11 |16 |
-|                             |           50           |              4               |          5          | 8 |12 |
-|       420.1 to 550.0        |           20           |              23              |         29          |47 |70 |
-|                             |           30           |              14              |         18          |29 |43 |
-|                             |           40           |              10              |         13          |20 |30 |
-|                             |           50           |              8               |          9          |15 |23 |
-|       550.1 to 800.0        |           20           |              25              |         31          |50 |75 |
-|                             |           30           |              15              |         19          |31 |46 |
-|                             |           40           |              11              |         13          |21 |32 |
-|                             |           50           |              8               |         10          |16 |24 |
-
-Notes:
-
-\* This table is for open-air, phase-to-ground electric-arc exposures. It is not for phase-to-phase arcs or enclosed arcs (arc in a box).
-
-† The table assumes the arc length to be the sparkover distance for the maximum phase-to-ground voltage of each voltage range (see Appendix B to this section). The table also assumes that the employee will be the minimum approach distance minus twice the arc length from the electric arc.
-
-‡ The Occupational Safety and Health Administration calculated the values in this table using the ARCPRO method listed in Table 2.
-
-\# For voltages of more than 72.6 kV, employers may use this table only when the minimum approach distance established under § 1910.269(l)(3)(i) is greater than or equal to the following values:
-
-72.6 to 121.0 kV 1.02 m.
-
-121.1 to 145.0 kV 1.16 m.
-
-145.1 to 169.0 kV 1.30 m.
-
-169.1 to 242.0 kV 1.72 m.
-
-242.1 to 362.0 kV 2.76 m.
-
-362.1 to 420.0 kV 2.50 m.
-
-420.1 to 550.0 kV 3.62 m.
-
-550.1 to 800.0 kV 4.83 m.
-
-\*\* The voltage range is the phase-to-phase system voltage.
+|                                                                                                                                 Voltage range  <br/>(kV) \*\*                                                                                                                                  |Fault current  <br/>(kA)|Maximum clearing time (cycles)|                     |   |   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|------------------------------|---------------------|---|---|
+|                                                                                                                                      4 cal/cm<sup>2</sup>                                                                                                                                      |  5 cal/cm<sup>2</sup>  |     8 cal/cm<sup>2</sup>     |12 cal/cm<sup>2</sup>|   |   |
+|                                                                                                                                          4.0 to 15.0                                                                                                                                           |           5            |             197              |         246         |394|591|
+|                                                                                                                                                                                                                                                                                                |           10           |              73              |         92          |147|220|
+|                                                                                                                                                                                                                                                                                                |           15           |              39              |         49          |78 |117|
+|                                                                                                                                                                                                                                                                                                |           20           |              24              |         31          |49 |73 |
+|                                                                                                                                          15.1 to 25.0                                                                                                                                          |           5            |             197              |         246         |394|591|
+|                                                                                                                                                                                                                                                                                                |           10           |              75              |         94          |150|225|
+|                                                                                                                                                                                                                                                                                                |           15           |              41              |         51          |82 |122|
+|                                                                                                                                                                                                                                                                                                |           20           |              26              |         33          |52 |78 |
+|                                                                                                                                          25.1 to 36.0                                                                                                                                          |           5            |             138              |         172         |275|413|
+|                                                                                                                                                                                                                                                                                                |           10           |              53              |         66          |106|159|
+|                                                                                                                                                                                                                                                                                                |           15           |              30              |         37          |59 |89 |
+|                                                                                                                                                                                                                                                                                                |           20           |              19              |         24          |38 |58 |
+|                                                                                                                                          36.1 to 46.0                                                                                                                                          |           5            |             129              |         161         |257|386|
+|                                                                                                                                                                                                                                                                                                |           10           |              51              |         64          |102|154|
+|                                                                                                                                                                                                                                                                                                |           15           |              29              |         36          |58 |87 |
+|                                                                                                                                                                                                                                                                                                |           20           |              19              |         24          |38 |57 |
+|                                                                                                                                          46.1 to 72.5                                                                                                                                          |           20           |              18              |         23          |36 |55 |
+|                                                                                                                                                                                                                                                                                                |           30           |              10              |         13          |20 |30 |
+|                                                                                                                                                                                                                                                                                                |           40           |              6               |          8          |13 |19 |
+|                                                                                                                                                                                                                                                                                                |           50           |              4               |          6          | 9 |13 |
+|                                                                                                                                         72.6 to 121.0                                                                                                                                          |           20           |              10              |         12          |20 |30 |
+|                                                                                                                                                                                                                                                                                                |           30           |              6               |          7          |11 |17 |
+|                                                                                                                                                                                                                                                                                                |           40           |              4               |          5          | 7 |11 |
+|                                                                                                                                                                                                                                                                                                |           50           |              3               |          3          | 5 | 8 |
+|                                                                                                                                         121.1 to 145.0                                                                                                                                         |           20           |              12              |         15          |24 |35 |
+|                                                                                                                                                                                                                                                                                                |           30           |              7               |          9          |15 |22 |
+|                                                                                                                                                                                                                                                                                                |           40           |              5               |          6          |10 |15 |
+|                                                                                                                                                                                                                                                                                                |           50           |              4               |          5          | 8 |11 |
+|                                                                                                                                         145.1 to 169.0                                                                                                                                         |           20           |              12              |         15          |24 |36 |
+|                                                                                                                                                                                                                                                                                                |           30           |              7               |          9          |15 |22 |
+|                                                                                                                                                                                                                                                                                                |           40           |              5               |          7          |10 |16 |
+|                                                                                                                                                                                                                                                                                                |           50           |              4               |          5          | 8 |12 |
+|                                                                                                                                         169.1 to 242.0                                                                                                                                         |           20           |              13              |         17          |27 |40 |
+|                                                                                                                                                                                                                                                                                                |           30           |              8               |         10          |17 |25 |
+|                                                                                                                                                                                                                                                                                                |           40           |              6               |          7          |12 |17 |
+|                                                                                                                                                                                                                                                                                                |           50           |              4               |          5          | 9 |13 |
+|                                                                                                                                         242.1 to 362.0                                                                                                                                         |           20           |              25              |         32          |51 |76 |
+|                                                                                                                                                                                                                                                                                                |           30           |              16              |         19          |31 |47 |
+|                                                                                                                                                                                                                                                                                                |           40           |              11              |         14          |22 |33 |
+|                                                                                                                                                                                                                                                                                                |           50           |              8               |         10          |16 |25 |
+|                                                                                                                                         362.1 to 420.0                                                                                                                                         |           20           |              12              |         15          |25 |37 |
+|                                                                                                                                                                                                                                                                                                |           30           |              8               |         10          |15 |23 |
+|                                                                                                                                                                                                                                                                                                |           40           |              5               |          7          |11 |16 |
+|                                                                                                                                                                                                                                                                                                |           50           |              4               |          5          | 8 |12 |
+|                                                                                                                                         420.1 to 550.0                                                                                                                                         |           20           |              23              |         29          |47 |70 |
+|                                                                                                                                                                                                                                                                                                |           30           |              14              |         18          |29 |43 |
+|                                                                                                                                                                                                                                                                                                |           40           |              10              |         13          |20 |30 |
+|                                                                                                                                                                                                                                                                                                |           50           |              8               |          9          |15 |23 |
+|                                                                                                                                         550.1 to 800.0                                                                                                                                         |           20           |              25              |         31          |50 |75 |
+|                                                                                                                                                                                                                                                                                                |           30           |              15              |         19          |31 |46 |
+|                                                                                                                                                                                                                                                                                                |           40           |              11              |         13          |21 |32 |
+|                                                                                                                                                                                                                                                                                                |           50           |              8               |         10          |16 |24 |
+|                                                                                                                                           **Notes:**                                                                                                                                           |                        |                              |                     |   |   |
+|                                                                           \* This table is for open-air, phase-to-ground electric-arc exposures. It is not for phase-to-phase arcs or enclosed arcs (arc in a box).                                                                            |                        |                              |                     |   |   |
+|† The table assumes the arc length to be the sparkover distance for the maximum phase-to-ground voltage of each voltage range (see Appendix B to this section). The table also assumes that the employee will be the minimum approach distance minus twice the arc length from the electric arc.|                        |                              |                     |   |   |
+|                                                                               ‡ The Occupational Safety and Health Administration calculated the values in this table using the ARCPRO method listed in Table 2.                                                                               |                        |                              |                     |   |   |
+|                                               \# For voltages of more than 72.6 kV, employers may use this table only when the minimum approach distance established under § 1910.269(l)(3)(i) is greater than or equal to the following values:                                               |                        |                              |                     |   |   |
+|                                                                                                                                    72.6 to 121.0 kV 1.02 m.                                                                                                                                    |                        |                              |                     |   |   |
+|                                                                                                                                   121.1 to 145.0 kV 1.16 m.                                                                                                                                    |                        |                              |                     |   |   |
+|                                                                                                                                   145.1 to 169.0 kV 1.30 m.                                                                                                                                    |                        |                              |                     |   |   |
+|                                                                                                                                   169.1 to 242.0 kV 1.72 m.                                                                                                                                    |                        |                              |                     |   |   |
+|                                                                                                                                   242.1 to 362.0 kV 2.76 m.                                                                                                                                    |                        |                              |                     |   |   |
+|                                                                                                                                   362.1 to 420.0 kV 2.50 m.                                                                                                                                    |                        |                              |                     |   |   |
+|                                                                                                                                   420.1 to 550.0 kV 3.62 m.                                                                                                                                    |                        |                              |                     |   |   |
+|                                                                                                                                   550.1 to 800.0 kV 4.83 m.                                                                                                                                    |                        |                              |                     |   |   |
+|                                                                                                                  \*\* The voltage range is the phase-to-phase system voltage.                                                                                                                  |                        |                              |                     |   |   |
 
 B. Selecting Protective Clothing and Other Protective Equipment
 
 Paragraph (l)(8)(v) of § 1910.269 requires employers, in certain situations, to select protective clothing and other protective equipment with an arc rating that is greater than or equal to the incident heat energy estimated under § 1910.269(l)(8)(ii). Based on laboratory testing required by ASTM F1506-10a, the expectation is that protective clothing with an arc rating equal to the estimated incident heat energy will be capable of preventing second-degree burn injury to an employee exposed to that incident heat energy from an electric arc. Note that actual electric-arc exposures may be more or less severe than the estimated value because of factors such as arc movement, arc length, arcing from reclosing of the system, secondary fires or explosions, and weather conditions. Additionally, for arc rating based on the fabric's arc thermal performance value5 (ATPV), a worker exposed to incident energy at the arc rating has a 50-percent chance of just barely receiving a second-degree burn. Therefore, it is possible (although not likely) that an employee will sustain a second-degree (or worse) burn wearing clothing conforming to § 1910.269(l)(8)(v) under certain circumstances. However, reasonable employer estimates and maintaining appropriate minimum approach distances for employees should limit burns to relatively small burns that just barely extend beyond the epidermis (that is, just barely a second-degree burn). Consequently, protective clothing and other protective equipment meeting § 1910.269(l)(8)(v) will provide an appropriate degree of protection for an employee exposed to electric-arc hazards.
 
-5 ASTM F1506-10a defines “arc thermal performance value” as “the incident energy on a material or a multilayer system of materials that results in a 50% probability that sufficient heat transfer through the tested specimen is predicted to cause the onset of a second-degree skin burn injury based on the Stoll [footnote] curve, cal/cm2.” The footnote to this definition reads: “Derived from: Stoll, A. M., and Chianta, M. A., `Method and Rating System for Evaluations of Thermal Protection,' Aerospace Medicine, Vol 40, 1969, pp. 1232-1238 and Stoll, A. M., and Chianta, M. A., `Heat Transfer through Fabrics as Related to Thermal Injury,' Transactions - New York Academy of Sciences, Vol 33(7), Nov. 1971, pp. 649-670.”
+5 ASTM F1506-10a defines “arc thermal performance value” as “the incident energy on a material or a multilayer system of materials that results in a 50% probability that sufficient heat transfer through the tested specimen is predicted to cause the onset of a second-degree skin burn injury based on the Stoll [footnote] curve, cal/cm2.” The footnote to this definition reads: “Derived from: Stoll, A. M., and Chianta, M. A., `Method and Rating System for Evaluations of Thermal Protection,' Aerospace Medicine, Vol 40, 1969, pp. 1232-1238 and Stoll, A. M., and Chianta, M. A., `Heat Transfer through Fabrics as Related to Thermal Injury,' Transactions—New York Academy of Sciences, Vol 33(7), Nov. 1971, pp. 649-670.”
 
 Paragraph (l)(8)(v) of § 1910.269 does not require arc-rated protection for exposures of 2 cal/cm2 or less. Untreated cotton clothing will reduce a 2-cal/cm2 exposure below the 1.2- to 1.5-cal/cm2 level necessary to cause burn injury, and this material should not ignite at such low heat energy levels. Although § 1910.269(l)(8)(v) does not require clothing to have an arc rating when exposures are 2 cal/cm2 or less, § 1910.269(l)(8)(iv) requires the outer layer of clothing to be flame resistant under certain conditions, even when the estimated incident heat energy is less than 2 cal/cm2, as discussed later in this appendix. Additionally, it is especially important to ensure that employees do not wear undergarments made from fabrics listed in the note to § 1910.269(l)(8)(iii) even when the outer layer is flame resistant or arc rated. These fabrics can melt or ignite easily when an electric arc occurs. Logos and name tags made from non-flame-resistant material can adversely affect the arc rating or the flame-resistant characteristics of arc-rated or flame-resistant clothing. Such logos and name tags may violate § 1910.269(l)(8)(iii), (l)(8)(iv), or (l)(8)(v).
 
 Paragraph (l)(8)(v) of § 1910.269 requires that arc-rated protection cover the employee's entire body, with limited exceptions for the employee's hands, feet, face, and head. Paragraph (l)(8)(v)(A) of § 1910.269 provides that arc-rated protection is not necessary for the employee's hands under the following conditions:
 
 |                  For any estimated incident heat energy                   |                              When the employee is wearing rubber insulating gloves with protectors.                              |
-|:--------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------|
+|---------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
 |If the estimated incident heat energy does not exceed 14 cal/cm<sup>2</sup>|When the employee is wearing heavy-duty leather work gloves with a weight of at least 407 gm/m<sup>2</sup> (12 oz/yd<sup>2</sup>).|
 
 Paragraph (l)(8)(v)(B) of § 1910.269 provides that arc-rated protection is not necessary for the employee's feet when the employee is wearing heavy-duty work shoes or boots. Finally, § 1910.269(l)(8)(v)(C), (l)(8)(v)(D), and (l)(8)(v)(E) require arc-rated head and face protection as follows:
 
-|       Exposure       |                     Minimum head and face protection                     |                                           |                                  |
-|----------------------|--------------------------------------------------------------------------|-------------------------------------------|----------------------------------|
-|       None \*        |Arc-rated faceshield with a minimum  <br/>rating of 8 cal/cm<sup>2</sup>\*|Arc-rated hood or faceshield with balaclava|                                  |
-|Single-phase, open air|                          2-8 cal/cm<sup>2</sup>                          |          9-12 cal/cm<sup>2</sup>          |13 cal/cm<sup>2</sup> or higher †.|
-|     Three-phase      |                          2-4 cal/cm<sup>2</sup>                          |          5-8 cal/cm<sup>2</sup>           |9 cal/cm<sup>2</sup> or higher ‡. |
-
-\* These ranges assume that employees are wearing hardhats meeting the specifications in § 1910.135 or § 1926.100(b)(2), as applicable.
-
-† The arc rating must be a minimum of 4 cal/cm<sup>2</sup> less than the estimated incident energy. Note that § 1910.269(l)(8)(v)(E) permits this type of head and face protection, with a minimum arc rating of 4 cal/cm<sup>2</sup> less than the estimated incident energy, at any incident energy level.
-
-‡ Note that § 1910.269(l)(8)(v) permits this type of head and face protection at any incident energy level.
+|                                                                                                                                                  Exposure                                                                                                                                                  |                     Minimum head and face protection                     |                                           |                                  |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|-------------------------------------------|----------------------------------|
+|                                                                                                                                                  None \*                                                                                                                                                   |Arc-rated faceshield with a minimum  <br/>rating of 8 cal/cm<sup>2</sup>\*|Arc-rated hood or faceshield with balaclava|                                  |
+|                                                                                                                                           Single-phase, open air                                                                                                                                           |                          2-8 cal/cm<sup>2</sup>                          |          9-12 cal/cm<sup>2</sup>          |13 cal/cm<sup>2</sup> or higher †.|
+|                                                                                                                                                Three-phase                                                                                                                                                 |                          2-4 cal/cm<sup>2</sup>                          |          5-8 cal/cm<sup>2</sup>           |9 cal/cm<sup>2</sup> or higher ‡. |
+|                                                                                  \* These ranges assume that employees are wearing hardhats meeting the specifications in § 1910.135 or § 1926.100(b)(2), as applicable.                                                                                   |                                                                          |                                           |                                  |
+|† The arc rating must be a minimum of 4 cal/cm<sup>2</sup> less than the estimated incident energy. Note that § 1910.269(l)(8)(v)(E) permits this type of head and face protection, with a minimum arc rating of 4 cal/cm<sup>2</sup> less than the estimated incident energy, at any incident energy level.|                                                                          |                                           |                                  |
+|                                                                                                ‡ Note that § 1910.269(l)(8)(v) permits this type of head and face protection at any incident energy level.                                                                                                 |                                                                          |                                           |                                  |
 
 IV. Protection Against Ignition
 
@@ -3114,7 +2955,7 @@ Non-flame-resistant clothing can ignite even when the heat energy from an electr
 
 9 Static wires and pole grounds are examples of grounding conductors that might not be capable of carrying fault current without failure. Grounds that can carry the maximum available fault current are not a concern, and employers need not consider such grounds a possible electric arc source.
 
-Appendix F to § 1910.269 - Work-Positioning Equipment Inspection GuidelinesI. Body Belts
+Appendix F to § 1910.269—Work-Positioning Equipment Inspection GuidelinesI. Body Belts
 
 Inspect body belts to ensure that:
 
@@ -3164,8 +3005,8 @@ F. Gaffs are properly sharpened; and
 
 G. There are no broken straps or buckles.
 
-Appendix G to § 1910.269 - Reference Documents
+Appendix G to § 1910.269—Reference Documents
 
 The references contained in this appendix provide information that can be helpful in understanding and complying with the requirements contained in § 1910.269. The national consensus standards referenced in this appendix contain detailed specifications that employers may follow in complying with the more performance-based requirements of § 1910.269. Except as specifically noted in § 1910.269, however, the Occupational Safety and Health Administration will not necessarily deem compliance with the national consensus standards to be compliance with the provisions of § 1910.269.
 
-ANSI/SIA A92.2-2009, *American National Standard for Vehicle-Mounted Elevating and Rotating Aerial Devices.*ANSI Z133-2012, *American National Standard Safety Requirements for Arboricultural Operations - Pruning, Trimming, Repairing, Maintaining, and Removing Trees, and Cutting Brush.*ANSI/IEEE Std 935-1989, *IEEE Guide on Terminology for Tools and Equipment to Be Used in Live Line Working.*ASME B20.1-2012, *Safety Standard for Conveyors and Related Equipment.*ASTM D120-09, *Standard Specification for Rubber Insulating Gloves.*ASTM D149-09 (2013), *Standard Test Method for Dielectric Breakdown Voltage and Dielectric Strength of Solid Electrical Insulating Materials at Commercial Power Frequencies.*ASTM D178-01 (2010), *Standard Specification for Rubber Insulating Matting.*ASTM D1048-12, *Standard Specification for Rubber Insulating Blankets.*ASTM D1049-98 (2010), *Standard Specification for Rubber Insulating Covers.*ASTM D1050-05 (2011), *Standard Specification for Rubber Insulating Line Hose.*ASTM D1051-08, *Standard Specification for Rubber Insulating Sleeves.*ASTM F478-09, *Standard Specification for In-Service Care of Insulating Line Hose and Covers.*ASTM F479-06 (2011), *Standard Specification for In-Service Care of Insulating Blankets.*ASTM F496-08, *Standard Specification for In-Service Care of Insulating Gloves and Sleeves.*ASTM F711-02 (2007), *Standard Specification for Fiberglass-Reinforced Plastic (FRP) Rod and Tube Used in Live Line Tools.*ASTM F712-06 (2011), *Standard Test Methods and Specifications for Electrically Insulating Plastic Guard Equipment for Protection of Workers.*ASTM F819-10, *Standard Terminology Relating to Electrical Protective Equipment for Workers.*ASTM F855-09, *Standard Specifications for Temporary Protective Grounds to Be Used on De-energized Electric Power Lines and Equipment.*ASTM F887-12e1, *Standard Specifications for Personal Climbing Equipment.*ASTM F914/F914M-10, *Standard Test Method for Acoustic Emission for Aerial Personnel Devices Without Supplemental Load Handling Attachments.*ASTM F1116-03 (2008), *Standard Test Method for Determining Dielectric Strength of Dielectric Footwear.*ASTM F1117-03 (2008), *Standard Specification for Dielectric Footwear.*ASTM F1236-96 (2012), *Standard Guide for Visual Inspection of Electrical Protective Rubber Products.*ASTM F1430/F1430M-10, *Standard Test Method for Acoustic Emission Testing of Insulated and Non-Insulated Aerial Personnel Devices with Supplemental Load Handling Attachments.*ASTM F1505-10, *Standard Specification for Insulated and Insulating Hand Tools.*ASTM F1506-10a, *Standard Performance Specification for Flame Resistant and Arc Rated Textile Materials for Wearing Apparel for Use by Electrical Workers Exposed to Momentary Electric Arc and Related Thermal Hazards.*ASTM F1564-13, *Standard Specification for Structure-Mounted Insulating Work Platforms for Electrical Workers.*ASTM F1701-12, *Standard Specification for Unused Polypropylene Rope with Special Electrical Properties.*ASTM F1742-03 (2011), *Standard Specification for PVC Insulating Sheeting.*ASTM F1796-09, *Standard Specification for High Voltage Detectors - Part 1 Capacitive Type to be Used for Voltages Exceeding 600 Volts AC.*ASTM F1797-09ε1, *Standard Test Method for Acoustic Emission Testing of Insulated and Non-Insulated Digger Derricks.*ASTM F1825-03 (2007), *Standard Specification for Clampstick Type Live Line Tools.*ASTM F1826-00 (2011), *Standard Specification for Live Line and Measuring Telescoping Tools.*ASTM F1891-12, *Standard Specification for Arc and Flame Resistant Rainwear.*ASTM F1958/F1958M-12, *Standard Test Method for Determining the Ignitability of Non-flame-Resistant Materials for Clothing by Electric Arc Exposure Method Using Mannequins.*ASTM F1959/F1959M-12, *Standard Test Method for Determining the Arc Rating of Materials for Clothing.*IEEE Stds 4-1995, 4a-2001 (Amendment to *IEEE Standard Techniques for High-Voltage Testing*), *IEEE Standard Techniques for High-Voltage Testing.*IEEE Std 62-1995, *IEEE Guide for Diagnostic Field Testing of Electric Power Apparatus - Part 1: Oil Filled Power Transformers, Regulators, and Reactors.*IEEE Std 80-2000, *Guide for Safety in AC Substation Grounding.*IEEE Std 100-2000, *The Authoritative Dictionary of IEEE Standards Terms Seventh Edition.*IEEE Std 516-2009, *IEEE Guide for Maintenance Methods on Energized Power Lines.*IEEE Std 524-2003, *IEEE Guide to the Installation of Overhead Transmission Line Conductors* .IEEE Std 957-2005, *IEEE Guide for Cleaning Insulators.*IEEE Std 1048-2003, *IEEE Guide for Protective Grounding of Power Lines.*IEEE Std 1067-2005, *IEEE Guide for In-Service Use, Care, Maintenance, and Testing of Conductive Clothing for Use on Voltages up to 765 kV AC and ±750 kV DC.*IEEE Std 1307-2004, *IEEE Standard for Fall Protection for Utility Work.*IEEE Stds 1584-2002, 1584a-2004 (Amendment 1 to IEEE Std 1584-2002), and 1584b-2011 (Amendment 2: Changes to Clause 4 of IEEE Std 1584-2002), *IEEE Guide for Performing Arc-Flash Hazard Calculations.*IEEE C2-2012, *National Electrical Safety Code.*NFPA 70E-2012, *Standard for Electrical Safety in the Workplace.*[79 FR 20633, Apr. 11, 2014, as amended at 79 FR 56960, Sept. 24, 2014; 80 FR 60036, Oct. 5, 2015; 81 FR 83006, Nov. 18, 2016; 84 FR 68797, Dec. 17, 2019]
+ANSI/SIA A92.2-2009, *American National Standard for Vehicle-Mounted Elevating and Rotating Aerial Devices.*ANSI Z133-2012, *American National Standard Safety Requirements for Arboricultural Operations—Pruning, Trimming, Repairing, Maintaining, and Removing Trees, and Cutting Brush.*ANSI/IEEE Std 935-1989, *IEEE Guide on Terminology for Tools and Equipment to Be Used in Live Line Working.*ASME B20.1-2012, *Safety Standard for Conveyors and Related Equipment.*ASTM D120-09, *Standard Specification for Rubber Insulating Gloves.*ASTM D149-09 (2013), *Standard Test Method for Dielectric Breakdown Voltage and Dielectric Strength of Solid Electrical Insulating Materials at Commercial Power Frequencies.*ASTM D178-01 (2010), *Standard Specification for Rubber Insulating Matting.*ASTM D1048-12, *Standard Specification for Rubber Insulating Blankets.*ASTM D1049-98 (2010), *Standard Specification for Rubber Insulating Covers.*ASTM D1050-05 (2011), *Standard Specification for Rubber Insulating Line Hose.*ASTM D1051-08, *Standard Specification for Rubber Insulating Sleeves.*ASTM F478-09, *Standard Specification for In-Service Care of Insulating Line Hose and Covers.*ASTM F479-06 (2011), *Standard Specification for In-Service Care of Insulating Blankets.*ASTM F496-08, *Standard Specification for In-Service Care of Insulating Gloves and Sleeves.*ASTM F711-02 (2007), *Standard Specification for Fiberglass-Reinforced Plastic (FRP) Rod and Tube Used in Live Line Tools.*ASTM F712-06 (2011), *Standard Test Methods and Specifications for Electrically Insulating Plastic Guard Equipment for Protection of Workers.*ASTM F819-10, *Standard Terminology Relating to Electrical Protective Equipment for Workers.*ASTM F855-09, *Standard Specifications for Temporary Protective Grounds to Be Used on De-energized Electric Power Lines and Equipment.*ASTM F887-12e1, *Standard Specifications for Personal Climbing Equipment.*ASTM F914/F914M-10, *Standard Test Method for Acoustic Emission for Aerial Personnel Devices Without Supplemental Load Handling Attachments.*ASTM F1116-03 (2008), *Standard Test Method for Determining Dielectric Strength of Dielectric Footwear.*ASTM F1117-03 (2008), *Standard Specification for Dielectric Footwear.*ASTM F1236-96 (2012), *Standard Guide for Visual Inspection of Electrical Protective Rubber Products.*ASTM F1430/F1430M-10, *Standard Test Method for Acoustic Emission Testing of Insulated and Non-Insulated Aerial Personnel Devices with Supplemental Load Handling Attachments.*ASTM F1505-10, *Standard Specification for Insulated and Insulating Hand Tools.*ASTM F1506-10a, *Standard Performance Specification for Flame Resistant and Arc Rated Textile Materials for Wearing Apparel for Use by Electrical Workers Exposed to Momentary Electric Arc and Related Thermal Hazards.*ASTM F1564-13, *Standard Specification for Structure-Mounted Insulating Work Platforms for Electrical Workers.*ASTM F1701-12, *Standard Specification for Unused Polypropylene Rope with Special Electrical Properties.*ASTM F1742-03 (2011), *Standard Specification for PVC Insulating Sheeting.*ASTM F1796-09, *Standard Specification for High Voltage Detectors—Part 1 Capacitive Type to be Used for Voltages Exceeding 600 Volts AC.*ASTM F1797-09ε1, *Standard Test Method for Acoustic Emission Testing of Insulated and Non-Insulated Digger Derricks.*ASTM F1825-03 (2007), *Standard Specification for Clampstick Type Live Line Tools.*ASTM F1826-00 (2011), *Standard Specification for Live Line and Measuring Telescoping Tools.*ASTM F1891-12, *Standard Specification for Arc and Flame Resistant Rainwear.*ASTM F1958/F1958M-12, *Standard Test Method for Determining the Ignitability of Non-flame-Resistant Materials for Clothing by Electric Arc Exposure Method Using Mannequins.*ASTM F1959/F1959M-12, *Standard Test Method for Determining the Arc Rating of Materials for Clothing.*IEEE Stds 4-1995, 4a-2001 (Amendment to *IEEE Standard Techniques for High-Voltage Testing*), *IEEE Standard Techniques for High-Voltage Testing.*IEEE Std 62-1995, *IEEE Guide for Diagnostic Field Testing of Electric Power Apparatus—Part 1: Oil Filled Power Transformers, Regulators, and Reactors.*IEEE Std 80-2000, *Guide for Safety in AC Substation Grounding.*IEEE Std 100-2000, *The Authoritative Dictionary of IEEE Standards Terms Seventh Edition.*IEEE Std 516-2009, *IEEE Guide for Maintenance Methods on Energized Power Lines.*IEEE Std 524-2003, *IEEE Guide to the Installation of Overhead Transmission Line Conductors* .IEEE Std 957-2005, *IEEE Guide for Cleaning Insulators.*IEEE Std 1048-2003, *IEEE Guide for Protective Grounding of Power Lines.*IEEE Std 1067-2005, *IEEE Guide for In-Service Use, Care, Maintenance, and Testing of Conductive Clothing for Use on Voltages up to 765 kV AC and ±750 kV DC.*IEEE Std 1307-2004, *IEEE Standard for Fall Protection for Utility Work.*IEEE Stds 1584-2002, 1584a-2004 (Amendment 1 to IEEE Std 1584-2002), and 1584b-2011 (Amendment 2: Changes to Clause 4 of IEEE Std 1584-2002), *IEEE Guide for Performing Arc-Flash Hazard Calculations.*IEEE C2-2012, *National Electrical Safety Code.*NFPA 70E-2012, *Standard for Electrical Safety in the Workplace.*[79 FR 20633, Apr. 11, 2014, as amended at 79 FR 56960, Sept. 24, 2014; 80 FR 60036, Oct. 5, 2015; 81 FR 83006, Nov. 18, 2016; 84 FR 68797, Dec. 17, 2019; 85 FR 8732, Feb. 18, 2020]

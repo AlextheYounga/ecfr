@@ -88,6 +88,6 @@
 
 (3) *Transition rules* - (i) *Reporting under sections 6038, 6038B, and 6046A*. For transfers occurring on or after August 6, 2015, and for transfers that occurred before August 6, 2015 resulting from an entity classification election made under § 301.7701-3 of this chapter that was effective on or before August 6, 2015 but was filed on or after August 6, 2015, a U.S. transferor (or a domestic partnership in which a U.S. transferor is a direct or indirect partner) must fulfill any reporting requirements imposed under sections 6038, 6038B, and 6046A with respect to the contribution of the section 721(c) property to the section 721(c) partnership.
 
-(ii) *Reporting using statements instead of prescribed forms and schedules.* For tax returns filed before March 17, 2020, reporting that met the requirements of § 1.721(c)-6T (see 26 CFR part 1, revised as of April 1, 2019) as in effect before January 1, 2020, will be deemed to satisfy the corresponding requirements of this section.
+(ii) *Reporting using statements instead of prescribed forms and schedules.* For tax returns filed before July 17, 2020, reporting that met the requirements of § 1.721(c)-6T (see 26 CFR part 1, revised as of April 1, 2019) as in effect before January 1, 2020, will be deemed to satisfy the corresponding requirements of this section.
 
-[T.D. 9891, 85 FR 3844, Jan. 23, 2020]
+[T.D. 9891, 85 FR 3844, Jan. 23, 2020; 85 FR 8726, Feb. 18, 2020]

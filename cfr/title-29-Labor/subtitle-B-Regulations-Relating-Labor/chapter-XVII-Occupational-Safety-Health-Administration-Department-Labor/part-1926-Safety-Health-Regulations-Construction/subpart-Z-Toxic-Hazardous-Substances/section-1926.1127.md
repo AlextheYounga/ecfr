@@ -44,7 +44,9 @@
 
 (c) *Permissible Exposure Limit (PEL).* The employer shall assure that no employee is exposed to an airborne concentration of cadmium in excess of five micrograms per cubic meter of air (5 µg/m3), calculated as an eight-hour time-weighted average exposure (TWA).
 
-(d) *Exposure Monitoring* - (1) *General.* (i) Prior to the performance of any construction work where employees may be potentially exposed to cadmium, the employer shall establish the applicability of this standard by determining whether cadmium is present in the workplace and whether there is the possibility that employee exposures will be at or above the action level. The employer shall designate a competent person who shall make this determination. Investigation and material testing techniques shall be used, as appropriate, in the determination. Investigation shall include a review of relevant plans, past reports, material safety data sheets, and other available records, and consultations with the property owner and discussions with appropriate individuals and agencies.
+(d) *Exposure Monitoring* - (1) *General.*
+
+(i) Prior to the performance of any construction work where employees may be potentially exposed to cadmium, the employer shall establish the applicability of this standard by determining whether cadmium is present in the workplace and whether there is the possibility that employee exposures will be at or above the action level. The employer shall designate a competent person who shall make this determination. Investigation and material testing techniques shall be used, as appropriate, in the determination. Investigation shall include a review of relevant plans, past reports, Safety Data Sheets (SDS), and other available records, and consultations with the property owner and discussions with appropriate individuals and agencies.
 
 (ii) Where cadmium has been determined to be present in the workplace, and it has been determined that there is a possibility the employee's exposure will be at or above the action level, the competent person shall identify employees potentially exposed to cadmium at or above the action level.
 
@@ -512,7 +514,7 @@ DANGERCONTAINS CADMIUMCANCER HAZARDAVOID CREATING DUSTCAN CAUSE LUNG AND KIDNEY 
 
 (F) Any exposure monitoring or objective data that were used and the levels.
 
-(iii) The employer shall maintain this record for at least thirty (30) years, in accordance with § 1926.33 of this part.
+(iii) The employer shall maintain this record for at least thirty (30) years, in accordance with § 1910.1020 of this chapter.
 
 (iv) The employer shall also provide a copy of the results of an employee's air monitoring prescribed in paragraph (d) of this section to an industry trade association and to the employee's union, if any, or, if either of such associations or unions do not exist, to another comparable organization that is competent to maintain such records and is reasonably accessible to employers and employees in the industry.
 
@@ -534,15 +536,13 @@ DANGERCONTAINS CADMIUMCANCER HAZARDAVOID CREATING DUSTCAN CAUSE LUNG AND KIDNEY 
 
 (E) A copy of the information provided to the physician as required by paragraph (l)(9) of this section.
 
-(iii) The employer shall assure that this record is maintained for the duration of employment plus thirty (30) years, in accordance with § 1926.33 of this part.
+(iii) The employer shall assure that this record is maintained for the duration of employment plus thirty (30) years, in accordance with § 1910.1020 of this chapter.
 
 (iv) At the employee's request, the employer shall promptly provide a copy of the employee's medical record, or update as appropriate, to a medical doctor or a union specified by the employee.
 
 (4) *Availability.* (i) Except as otherwise provided for in this section, access to all records required to be maintained by paragraphs (n)(1) through (3) of this section shall be in accordance with the provisions of 29 CFR 1910.1020.
 
 (ii) Within 15 days after a request, the employer shall make an employee's medical records required to be kept by paragraph (n)(3) of this section available for examination and copying to the subject employee, to designated representatives, to anyone having the specific written consent of the subject employee, and after the employee's death or incapacitation, to the employee's family members.
-
-(5) *Transfer of records.* Whenever an employer ceases to do business and there is no successor employer or designated organization to receive and retain records for the prescribed period, the employer shall comply with the requirements concerning transfer of records set forth in § 1926.33 (h) of this part.
 
 (o) *Observation of monitoring* - (1) *Employee observation.* The employer shall provide affected employees or their designated representatives an opportunity to observe any monitoring of employee exposure to cadmium.
 
@@ -572,4 +572,4 @@ Appendix F to § 1926.1127 - Nonmandatory Protocol for Biological MonitoringNote
 
 The requirements applicable to construction work under this appendix F are identical to those set forth in appendix F to § 1910.1027 of this chapter.
 
-[57 FR 42452, Sept. 14, 1992, as amended at 57 FR 49272, Oct. 30, 1992; 58 FR 21787, Apr. 23, 1993. Redesignated and amended at 59 FR 215, Jan. 3, 1994; 61 FR 5510, Feb. 13, 1996; 61 FR 31433, 31434, June 20, 1996; 63 FR 1298, Jan. 8, 1998; 70 FR 1144, Jan. 5, 2005; 71 FR 16675, Apr. 3, 2006; 71 FR 50192, Aug. 24, 2006; 73 FR 75589, Dec. 12, 2008; 76 FR 33612, June 8, 2011; 77 FR 17895, Mar. 26, 2012; 84 FR 21597, May 14, 2019]
+[57 FR 42452, Sept. 14, 1992, as amended at 57 FR 49272, Oct. 30, 1992; 58 FR 21787, Apr. 23, 1993. Redesignated and amended at 59 FR 215, Jan. 3, 1994; 61 FR 5510, Feb. 13, 1996; 61 FR 31433, 31434, June 20, 1996; 63 FR 1298, Jan. 8, 1998; 70 FR 1144, Jan. 5, 2005; 71 FR 16675, Apr. 3, 2006; 71 FR 50192, Aug. 24, 2006; 73 FR 75589, Dec. 12, 2008; 76 FR 33612, June 8, 2011; 77 FR 17895, Mar. 26, 2012; 84 FR 21597, May 14, 2019; 85 FR 8746, Feb. 18, 2020]

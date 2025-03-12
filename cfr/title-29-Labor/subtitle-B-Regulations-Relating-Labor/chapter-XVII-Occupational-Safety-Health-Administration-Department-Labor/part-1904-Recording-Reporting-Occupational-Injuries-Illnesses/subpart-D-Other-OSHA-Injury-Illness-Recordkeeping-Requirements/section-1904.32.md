@@ -10,7 +10,7 @@
 
 (4) Post the annual summary.
 
-(b) *Implementation* - (1) *How extensively do I have to review the OSHA 300 Log entries at the end of the year?* You must review the entries as extensively as necessary to make sure that they are complete and correct.
+(b) *Implementation*—(1) *How extensively do I have to review the OSHA 300 Log entries at the end of the year?* You must review the entries as extensively as necessary to make sure that they are complete and correct.
 
 (2) *How do I complete the annual summary?* You must:
 
@@ -18,7 +18,7 @@
 
 (ii) Enter the calendar year covered, the company's name, establishment name, establishment address, annual average number of employees covered by the OSHA 300 Log, and the total hours worked by all employees covered by the OSHA 300 Log.
 
-(iii) If you are using an equivalent form other than the OSHA 300-A summary form, as permitted under § 1904.6(b)(4), the summary you use must also include the employee access and employer penalty statements found on the OSHA 300-A Summary form.
+(iii) If you are using an equivalent form other than the OSHA 300-A summary form, as permitted under § 1904.29(b)(4), the summary you use must also include the employee access and employer penalty statements found on the OSHA 300-A Summary form.
 
 (3) *How do I certify the annual summary?* A company executive must certify that he or she has examined the OSHA 300 Log and that he or she reasonably believes, based on his or her knowledge of the process by which the information was recorded, that the annual summary is correct and complete.
 
@@ -36,4 +36,4 @@
 
 (6) *When do I have to post the annual summary?* You must post the summary no later than February 1 of the year following the year covered by the records and keep the posting in place until April 30.
 
-[66 FR 6122, Jan. 19, 2001, as amended at 81 FR 91810, Dec. 19, 2016; 82 FR 20548, May 3, 2017]
+[66 FR 6122, Jan. 19, 2001, as amended at 81 FR 91810, Dec. 19, 2016; 82 FR 20548, May 3, 2017; 85 FR 8731, Feb. 18, 2020]

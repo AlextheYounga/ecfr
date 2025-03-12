@@ -80,7 +80,7 @@ The National Electrical Code, ANSI/NFPA 70, in Article 400, Table 400-4, lists v
 
 (B) Where run through holes in walls, ceilings, or floors;
 
-(C) Where run through doorways, windows, or similar openings, except as permitted in paragraph (a)(2)(ii)(1) of this section;
+(C) Where run through doorways, windows, or similar openings, except as permitted in paragraph (a)(2)(ii)(I) of this section;
 
 (D) Where attached to building surfaces; or
 
@@ -212,4 +212,4 @@ The National Electrical Code, ANSI/NFPA 70, in Article 400, Table 400-4, lists v
 
 (*3*) Switching procedure prominently displayed at the switching location.
 
-[51 FR 25318, July 11, 1986, as amended at 61 FR 5510, Feb. 13, 1996]
+[51 FR 25318, July 11, 1986, as amended at 61 FR 5510, Feb. 13, 1996; 85 FR 8736, Feb. 18, 2020]

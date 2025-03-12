@@ -12,7 +12,9 @@
 
 (v) Emergency response operations for releases of, or substantial threats of releases of, hazardous substances without regard to the location of the hazard.
 
-(2) *Application.* (i) All requirements of part 1910 and part 1926 of title 29 of the Code of Federal Regulations apply pursuant to their terms to hazardous waste and emergency response operations whether covered by this section or not. If there is a conflict or overlap, the provision more protective of employee safety and health shall apply without regard to 29 CFR 1926.20(e)(1).
+(2) *Application.*
+
+(i) All requirements of 29 CFR parts 1910 and 1926 apply pursuant to their terms to hazardous waste and emergency response operations whether covered by this section or not. If there is a conflict or overlap, the provision more protective of employee safety and health shall apply without regard to 29 CFR 1926.20(e).
 
 (ii) Hazardous substance clean-up operations within the scope of paragraphs (a)(1)(i) through (a)(1)(iii) of this section must comply with all paragraphs of this section except paragraphs (p) and (q).
 
@@ -360,7 +362,7 @@ Engineering controls which may be feasible include the use of pressurized cabs o
 
 (iv) The provisions of subpart D shall be followed.
 
-(2) *Engineering controls, work practices, and PPE for substances not regulated either in § 1926.55, elsewhere in subpart D, or in other pertinent sections of this part.* An appropriate combination of engineering controls, work practices and personal protective equipment shall be used to reduce and maintain employee exposure to or below published exposure levels for hazardous substances and health hazards not regulated either in § 1926.55, elsewhere in subpart D, or in other pertinent sections of this part. The employer may use the published literature and MSDS as a guide in making the employer's determination as to what level of protection the employer believes is appropriate for hazardous substances and health hazards for which there is no permissible exposure limit or published exposure limit.
+(2) *Engineering controls, work practices, and PPE for substances not regulated either in § 1926.55, elsewhere in subpart D, or in other pertinent sections of this Part.* An appropriate combination of engineering controls, work practices, and personal protective equipment shall be used to reduce and maintain employee exposure to or below published exposure levels for hazardous substances and health hazards not regulated either in § 1926.55, elsewhere in subpart D, or in other pertinent sections of this part. The employer may use the published literature and Safety Data Sheets (SDS) as a guide in making the employer's determination as to what level of protection the employer believes is appropriate for hazardous substances and health hazards for which there is no permissible exposure limit or published exposure limit.
 
 (3) *Personal protective equipment selection.* (i) Personal protective equipment (PPE) shall be selected and used which will protect employees from the hazards and potential hazards they are likely to encounter as identified during the site characterization and analysis.
 
@@ -576,7 +578,7 @@ Caution: Shipping of shock sensitive wastes may be prohibited under U.S. Departm
 
 (v) The site emergency response plan shall be reviewed periodically and, as necessary, be amended to keep it current with new or changing site conditions or information.
 
-(vi) An employee alarm system shall be installed in accordance with 29 CFR 1926.159 to notify employees of an emergency situation; to stop work activities if necessary; to lower background noise in order to speed communication; and to begin emergency procedures.
+(vi) An employee alarm system shall be installed to notify employees of an emergency situation; to stop work activities if necessary; to lower background noise in order to speed communication; and to begin emergency procedures.
 
 (vii) Based upon the information available at time of the emergency, the employer shall evaluate the incident and the site response capabilities and proceed with the appropriate steps to implement the site emergency response plan.
 
@@ -721,7 +723,7 @@ The exemption for hazardous waste provided in § 1926.59 is applicable to this s
 
 (D) The site emergency response plan shall be reviewed periodically and, as necessary, be amended to keep it current with new or changing site conditions or information.
 
-(E) An employee alarm system shall be installed in accordance with 29 CFR 1926.159 to notify employees of an emergency situation; to stop work activities if necessary; to lower background noise in order to speed communication; and to begin emergency procedures.
+(E) An employee alarm system shall be installed to notify employees of an emergency situation; to stop work activities if necessary; to lower background noise in order to speed communication; and to begin emergency procedures.
 
 (F) Based upon the information available at time of the emergency, the employer shall evaluate the incident and the site response capabilities and proceed with the appropriate steps to implement the site emergency response plan.
 
@@ -763,7 +765,7 @@ The *senior official* at an emergency response is the most senior official on th
 
 (ii) The individual in charge of the ICS shall identify, to the extent possible, all hazardous substances or conditions present and shall address as appropriate site analysis, use of engineering controls, maximum exposure limits, hazardous substance handling procedures, and use of any new technologies.
 
-(iii) Based on the hazardous substances and/or conditions present, the individual in charge of the ICS shall implement appropriate emergency operations, and assure that the personal protective equipment worn is appropriate for the hazards to be encountered. However, personal protective equipment shall meet, at a minimum, the criteria contained in 29 CFR 1926.97 when worn while performing fire fighting operations beyond the incipient stage for any incident.
+(iii) Based on the hazardous substances and/or conditions present, the individual in charge of the ICS shall implement appropriate emergency operations, and assure that the personal protective equipment worn is appropriate for the hazards to be encountered.
 
 (iv) Employees engaged in emergency response and exposed to hazardous substances presenting an inhalation hazard or potential inhalation hazard shall wear positive pressure self-contained breathing apparatus while engaged in emergency response, until such time that the individual in charge of the ICS determines through the use of air monitoring that a decreased level of respiratory protection will not result in hazardous exposures to employees.
 
@@ -1005,7 +1007,7 @@ B. Totally-encapsulating chemical protective suit qualitative leak test
 
 5.0 - Safety precautions
 
-5.1 Concentrated aqueous ammonium hydroxide, NH4 OH, is a corrosive volatile liquid requiring eye, skin, and respiratory protection. The person conducting the test shall review the MSDS for aqueous ammonia.
+5.1 Concentrated aqueous ammonium hydroxide, NH4 OH, is a corrosive volatile liquid requiring eye, skin, and respiratory protection. The person conducting the test shall review the Safety Data Sheet (SDS) for aqueous ammonia.
 
 5.2 Since the established permissible exposure limit for ammonia is 35 ppm as a 15 minute STEL, only persons wearing a positive pressure self-contained breathing apparatus or a positive pressure supplied air respirator shall be in the chamber. Normally only the person wearing the totally-encapsulating suit will be inside the chamber. A stand-by person shall have a positive pressure self-contained breathing apparatus, or a positive pressure supplied air respirator available to enter the test area should the suited individual need assistance.
 
@@ -1967,4 +1969,4 @@ Therefore, any emergency responder expected to perform as an incident commander 
 
 (E) Ability to adjust the response plan to the conditions of the response and to notify higher levels of response when required by the changes to the response plan.
 
-[58 FR 35129, June 30, 1993, as amended at 59 FR 43275, Aug. 22, 1994: 61 FR 5510, Feb. 13, 1996; 77 FR 17890, Mar. 26, 2012; 78 FR 9315, Feb. 8, 2013]
+[58 FR 35129, June 30, 1993, as amended at 59 FR 43275, Aug. 22, 1994: 61 FR 5510, Feb. 13, 1996; 77 FR 17890, Mar. 26, 2012; 78 FR 9315, Feb. 8, 2013; 85 FR 8736, Feb. 18, 2020]

@@ -1,6 +1,6 @@
 ##### § 1910.5 Applicability of standards. #####
 
-(a) Except as provided in paragraph (b) of this section, the standards contained in this part shall apply with respect to employments performed in a workplace in a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, Trust Territory of the Pacific Islands, Wake Island, Outer Continental Shelf lands defined in the Outer Continental Shelf Lands Act, Johnston Island, and the Canal Zone.
+(a) Except as provided in paragraph (b) of this section, the standards contained in this Part shall apply with respect to employments performed in a workplace in a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, Wake Island, Outer Continental Shelf lands defined in the Outer Continental Shelf Lands Act, and Johnston Island.
 
 (b) None of the standards in this part shall apply to working conditions of employees with respect to which Federal agencies other than the Department of Labor, or State agencies acting under section 274 of the Atomic Energy Act of 1954, as amended (42 U.S.C. 2021), exercise statutory authority to prescribe or enforce standards or regulations affecting occupational safety or health.
 
@@ -14,4 +14,4 @@
 
 (f) An employer who is in compliance with any standard in this part shall be deemed to be in compliance with the requirement of section 5(a)(1) of the Act, but only to the extent of the condition, practice, means, method, operation, or process covered by the standard.
 
-[39 FR 23502, June 27, 1974, as amended at 58 FR 35308, June 30, 1993]
+[39 FR 23502, June 27, 1974, as amended at 58 FR 35308, June 30, 1993; 85 FR 8732, Feb. 18, 2020]

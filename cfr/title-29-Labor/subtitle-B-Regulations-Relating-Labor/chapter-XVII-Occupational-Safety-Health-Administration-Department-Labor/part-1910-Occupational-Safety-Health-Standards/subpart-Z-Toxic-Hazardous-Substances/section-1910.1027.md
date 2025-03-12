@@ -22,7 +22,7 @@
 
 (c) *Permissible Exposure Limit (PEL).* The employer shall assure that no employee is exposed to an airborne concentration of cadmium in excess of five micrograms per cubic meter of air (5 µg/m3), calculated as an eight-hour time-weighted average exposure (TWA).
 
-(d) *Exposure monitoring* - (1) *General.* (i) Each employer who has a workplace or work operation covered by this section shall determine if any employee may be exposed to cadmium at or above the action level.
+(d) *Exposure monitoring*—(1) *General.* (i) Each employer who has a workplace or work operation covered by this section shall determine if any employee may be exposed to cadmium at or above the action level.
 
 (ii) Determinations of employee exposure shall be made from breathing zone air samples that reflect the monitored employee's regular, daily 8-hour TWA exposure to cadmium.
 
@@ -46,7 +46,7 @@
 
 (6) *Accuracy of measurement.* The employer shall use a method of monitoring and analysis that has an accuracy of not less than plus or minus 25 percent (±25%), with a confidence level of 95 percent, for airborne concentrations of cadmium at or above the action level, the permissible exposure limit (PEL), and the separate engineering control air limit (SECAL).
 
-(e) *Regulated areas* - (1) *Establishment.* The employer shall establish a regulated area wherever an employee's exposure to airborne concentrations of cadmium is, or can reasonably be expected to be in excess of the permissible exposure limit (PEL).
+(e) *Regulated areas*—(1) *Establishment.* The employer shall establish a regulated area wherever an employee's exposure to airborne concentrations of cadmium is, or can reasonably be expected to be in excess of the permissible exposure limit (PEL).
 
 (2) *Demarcation.* Regulated areas shall be demarcated from the rest of the workplace in any manner that adequately establishes and alerts employees of the boundaries of the regulated area.
 
@@ -56,24 +56,21 @@
 
 (5) *Prohibited activities.* The employer shall assure that employees do not eat, drink, smoke, chew tobacco or gum, or apply cosmetics in regulated areas, carry the products associated with these activities into regulated areas, or store such products in those areas.
 
-(f) *Methods of compliance* - (1) *Compliance hierarchy.* (i) Except as specified in paragraphs (f)(1) (ii), (iii) and (iv) of this section the employer shall implement engineering and work practice controls to reduce and maintain employee exposure to cadmium at or below the PEL, except to the extent that the employer can demonstrate that such controls are not feasible.
+(f) *Methods of compliance*—(1) *Compliance hierarchy.* (i) Except as specified in paragraphs (f)(1) (ii), (iii) and (iv) of this section the employer shall implement engineering and work practice controls to reduce and maintain employee exposure to cadmium at or below the PEL, except to the extent that the employer can demonstrate that such controls are not feasible.
 
 (ii) Except as specified in paragraphs (f)(1) (iii) and (iv) of this section, in industries where a separate engineering control air limit (SECAL) has been specified for particular processes (See Table 1 in this paragraph (f)(1)(ii)), the employer shall implement engineering and work practice controls to reduce and maintain employee exposure at or below the SECAL, except to the extent that the employer can demonstrate that such controls are not feasible.
 
-Table I - Separate Engineering Control Airborne Limits (SECALs) for Processes in Selected Industries
-
-|       Industry        |                             Process                              |SECAL (µg/m<sup>3</sup>)|
-|-----------------------|------------------------------------------------------------------|------------------------|
-|Nickel cadmium battery |                 Plate making, plate preparation                  |           50           |
-|                       |                       All other processes                        |           15           |
-|Zinc/Cadmium refining\*|Cadmium refining, casting, melting, oxide production, sinter plant|           50           |
-|  Pigment manufacture  |               Calcine, crushing, milling, blending               |           50           |
-|                       |                       All other processes                        |           15           |
-|     Stabilizers\*     |        Cadmium oxide charging, crushing, drying, blending        |           50           |
-|    Lead smelting\*    |         Sinter plant, blast furnace, baghouse, yard area         |           50           |
-|       Plating\*       |                        Mechanical plating                        |           15           |
-
-\*Processes in these industries that are not specified in this table must achieve the PEL using engineering controls and work practices as required in f(1)(i).
+|                                                                           Industry                                                                            |                             Process                              |SECAL (µg/m<sup>3</sup>)|
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|------------------------|
+|                                                                    Nickel cadmium battery                                                                     |                 Plate making, plate preparation                  |           50           |
+|                                                                                                                                                               |                       All other processes                        |           15           |
+|                                                                    Zinc/Cadmium refining\*                                                                    |Cadmium refining, casting, melting, oxide production, sinter plant|           50           |
+|                                                                      Pigment manufacture                                                                      |               Calcine, crushing, milling, blending               |           50           |
+|                                                                                                                                                               |                       All other processes                        |           15           |
+|                                                                         Stabilizers\*                                                                         |        Cadmium oxide charging, crushing, drying, blending        |           50           |
+|                                                                        Lead smelting\*                                                                        |         Sinter plant, blast furnace, baghouse, yard area         |           50           |
+|                                                                           Plating\*                                                                           |                        Mechanical plating                        |           15           |
+|\*Processes in these industries that are not specified in this table must achieve the PEL using engineering controls and work practices as required in f(1)(i).|                                                                  |                        |
 
 (iii) The requirement to implement engineering and work practice controls to achieve the PEL or, where applicable, the SECAL does not apply where the employer demonstrates the following:
 
@@ -117,7 +114,7 @@ Table I - Separate Engineering Control Airborne Limits (SECALs) for Processes in
 
 (iv) Procedures shall be developed and implemented to minimize employee exposure to cadmium when maintenance of ventilation systems and changing of filters is being conducted.
 
-(g) *Respiratory protection* - (1) *General.* For employees who use respirators required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
+(g) *Respiratory protection*—(1) *General.* For employees who use respirators required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
 
 (i) Periods necessary to install or implement feasible engineering and work-practice controls when employee exposure levels exceed the PEL.
 
@@ -151,7 +148,7 @@ Table I - Separate Engineering Control Airborne Limits (SECALs) for Processes in
 
 (h) *Emergency situations.* The employer shall develop and implement a written plan for dealing with emergency situations involving substantial releases of airborne cadmium. The plan shall include provisions for the use of appropriate respirators and personal protective equipment. In addition, employees not essential to correcting the emergency situation shall be restricted from the area and normal operations halted in that area until the emergency is abated.
 
-(i) *Protective work clothing and equipment* - (1) *Provision and use.* If an employee is exposed to airborne cadmium above the PEL or where skin or eye irritation is associated with cadmium exposure at any level, the employer shall provide at no cost to the employee, and assure that the employee uses, appropriate protective work clothing and equipment that prevents contamination of the employee and the employee's garments. Protective work clothing and equipment includes, but is not limited to:
+(i) *Protective work clothing and equipment*—(1) *Provision and use.* If an employee is exposed to airborne cadmium above the PEL or where skin or eye irritation is associated with cadmium exposure at any level, the employer shall provide at no cost to the employee, and assure that the employee uses, appropriate protective work clothing and equipment that prevents contamination of the employee and the employee's garments. Protective work clothing and equipment includes, but is not limited to:
 
 (i) Coveralls or similar full-body work clothing;
 
@@ -177,7 +174,7 @@ Table I - Separate Engineering Control Airborne Limits (SECALs) for Processes in
 
 (v) The employer shall inform any person who launders or cleans protective clothing or equipment contaminated with cadmium of the potentially harmful effects of exposure to cadmium and that the clothing and equipment should be laundered or cleaned in a manner to effectively prevent the release of airborne cadmium in excess of the PEL.
 
-(j) *Hygiene areas and practices* - (1) *General.* For employees whose airborne exposure to cadmium is above the PEL, the employer shall provide clean change rooms, handwashing facilities, showers, and lunchroom facilities that comply with 29 CFR 1910.141.
+(j) *Hygiene areas and practices*—(1) *General.* For employees whose airborne exposure to cadmium is above the PEL, the employer shall provide clean change rooms, handwashing facilities, showers, and lunchroom facilities that comply with 29 CFR 1910.141.
 
 (2) *Change rooms.* The employer shall assure that change rooms are equipped with separate storage facilities for street clothes and for protective clothing and equipment, which are designed to prevent dispersion of cadmium and contamination of the employee's street clothes.
 
@@ -203,9 +200,9 @@ Table I - Separate Engineering Control Airborne Limits (SECALs) for Processes in
 
 (7) Waste, scrap, debris, bags, containers, personal protective equipment, and clothing contaminated with cadmium and consigned for disposal shall be collected and disposed of in sealed impermeable bags or other closed, impermeable containers. These bags and containers shall be labeled in accordance with paragraph (m) of this section.
 
-(l) *Medical surveillance* - (1) *General* - (i) *Scope.* (A) Currently exposed - The employer shall institute a medical surveillance program for all employees who are or may be exposed to cadmium at or above the action level unless the employer demonstrates that the employee is not, and will not be, exposed at or above the action level on 30 or more days per year (twelve consecutive months); and,
+(l) *Medical surveillance*—(1) *General*—(i) *Scope.* (A) Currently exposed—The employer shall institute a medical surveillance program for all employees who are or may be exposed to cadmium at or above the action level unless the employer demonstrates that the employee is not, and will not be, exposed at or above the action level on 30 or more days per year (twelve consecutive months); and,
 
-(B) Previously exposed - The employer shall also institute a medical surveillance program for all employees who prior to the effective date of this section might previously have been exposed to cadmium at or above the action level by the employer, unless the employer demonstrates that the employee did not prior to the effective date of this section work for the employer in jobs with exposure to cadmium for an aggregated total of more than 60 months.
+(B) Previously exposed—The employer shall also institute a medical surveillance program for all employees who prior to the effective date of this section might previously have been exposed to cadmium at or above the action level by the employer, unless the employer demonstrates that the employee did not prior to the effective date of this section work for the employer in jobs with exposure to cadmium for an aggregated total of more than 60 months.
 
 (ii) To determine an employee's fitness for using a respirator, the employer shall provide the limited medical examination specified in paragraph (l)(6) of this section.
 
@@ -371,7 +368,7 @@ Table I - Separate Engineering Control Airborne Limits (SECALs) for Processes in
 
 (iii) The employer shall instruct the physician not to reveal orally or in the written medical opinion given to the employer specific findings or diagnoses unrelated to occupational exposure to cadmium.
 
-(11) *Medical Removal Protection (MRP)* - (i) *General.* (A) The employer shall temporarily remove an employee from work where there is excess exposure to cadmium on each occasion that medical removal is required under paragraph (l)(3), (l)(4), or (l)(6) of this section and on each occasion that a physician determines in a written medical opinion that the employee should be removed from such exposure. The physician's determination may be based on biological monitoring results, inability to wear a respirator, evidence of illness, other signs or symptoms of cadmium-related dysfunction or disease, or any other reason deemed medically sufficient by the physician.
+(11) *Medical Removal Protection (MRP)*—(i) *General.* (A) The employer shall temporarily remove an employee from work where there is excess exposure to cadmium on each occasion that medical removal is required under paragraph (l)(3), (l)(4), or (l)(6) of this section and on each occasion that a physician determines in a written medical opinion that the employee should be removed from such exposure. The physician's determination may be based on biological monitoring results, inability to wear a respirator, evidence of illness, other signs or symptoms of cadmium-related dysfunction or disease, or any other reason deemed medically sufficient by the physician.
 
 (B) The employer shall medically remove an employee in accordance with paragraph (l)(11) of this section regardless of whether at the time of removal a job is available into which the removed employee may be transferred.
 
@@ -435,7 +432,7 @@ Table I - Separate Engineering Control Airborne Limits (SECALs) for Processes in
 
 (16) *Reporting.* In addition to other medical events that are required to be reported on the OSHA Form No. 200, the employer shall report any abnormal condition or disorder caused by occupational exposure to cadmium associated with employment as specified in Chapter (V)(E) of the Reporting Guidelines for Occupational Injuries and Illnesses.
 
-(m) *Communication of cadmium hazards to employees* - (1) *Hazard communication. - general.* (i) Chemical manufacturers, importers, distributors and employers shall comply with all requirements of the Hazard Communication Standard (HCS) (§ 1910.1200) for cadmium.
+(m) *Communication of cadmium hazards to employees*—(1) *Hazard communication.—general.* (i) Chemical manufacturers, importers, distributors and employers shall comply with all requirements of the Hazard Communication Standard (HCS) (§ 1910.1200) for cadmium.
 
 (ii) In classifying the hazards of cadmium at least the following hazards are to be addressed: Cancer; lung effects; kidney effects; and acute toxicity effects.
 
@@ -493,7 +490,7 @@ DANGERCONTAINS CADMIUMCANCER HAZARDAVOID CREATING DUSTCAN CAUSE LUNG AND KIDNEY 
 
 (B) The employer shall provide to the Assistant Secretary or the Director, upon request, all materials relating to the employee information and the training program.
 
-(n) *Recordkeeping* - (1) *Exposure monitoring.* (i) The employer shall establish and keep an accurate record of all air monitoring for cadmium in the workplace.
+(n) *Recordkeeping*—(1) *Exposure monitoring.* (i) The employer shall establish and keep an accurate record of all air monitoring for cadmium in the workplace.
 
 (ii) This record shall include at least the following information:
 
@@ -533,13 +530,11 @@ DANGERCONTAINS CADMIUMCANCER HAZARDAVOID CREATING DUSTCAN CAUSE LUNG AND KIDNEY 
 
 (ii) Within 15 days after a request, the employer shall make an employee's medical records required to be kept by paragraph (n)(3) of this section available for examination and copying to the subject employee, to designated representatives, to anyone having the specific written consent of the subject employee, and after the employee's death or incapacitation, to the employee's family members.
 
-(6) *Transfer of records.* Whenever an employer ceases to do business and there is no successor employer to receive and retain records for the prescribed period or the employer intends to dispose of any records required to be preserved for at least 30 years, the employer shall comply with the requirements concerning transfer of records set forth in 29 CFR 1910.1020 (h).
-
-(o) *Observation of monitoring* - (1) *Employee observation.* The employer shall provide affected employees or their designated representatives an opportunity to observe any monitoring of employee exposure to cadmium.
+(o) *Observation of monitoring*—(1) *Employee observation.* The employer shall provide affected employees or their designated representatives an opportunity to observe any monitoring of employee exposure to cadmium.
 
 (2) *Observation procedures.* When observation of monitoring requires entry into an area where the use of protective clothing or equipment is required, the employer shall provide the observer with that clothing and equipment and shall assure that the observer uses such clothing and equipment and complies with all other applicable safety and health procedures.
 
-(p) *Dates* - (1) *Effective date.* This section shall become effective December 14, 1992.
+(p) *Dates*—(1) *Effective date.* This section shall become effective December 14, 1992.
 
 (2) *Start-up dates.* All obligations of this section commence on the effective date except as follows:
 
@@ -563,7 +558,7 @@ DANGERCONTAINS CADMIUMCANCER HAZARDAVOID CREATING DUSTCAN CAUSE LUNG AND KIDNEY 
 
 (q) *Appendices.* Except where portions of appendices A, B, D, E, and F to this section are expressly incorporated in requirements of this section, these appendices are purely informational and are not intended to create any additional obligations not otherwise imposed or to detract from any existing obligations.
 
-Appendix A to § 1910.1027 - Substance Safety Data SheetCadmiumI. Substance Identification
+Appendix A to § 1910.1027—Substance Safety Data SheetCadmiumI. Substance Identification
 
 A. Substance: Cadmium.
 
@@ -571,7 +566,7 @@ B. 8-Hour, Time-weighted-average, Permissible Exposure Limit (TWA PEL):
 
 1. TWA PEL: Five micrograms of cadmium per cubic meter of air 5 µg/m3, time-weighted average (TWA) for an 8-hour workday.
 
-C. Appearance: Cadmium metal - soft, blue-white, malleable, lustrous metal or grayish-white powder. Some cadmium compounds may also appear as a brown, yellow, or red powdery substance.
+C. Appearance: Cadmium metal—soft, blue-white, malleable, lustrous metal or grayish-white powder. Some cadmium compounds may also appear as a brown, yellow, or red powdery substance.
 
 II. Health Hazard Data
 
@@ -615,7 +610,7 @@ B. Employer Requirements.
 
 3. Observation of Monitoring: Your employer is required to perform measurements that are representative of your exposure to cadmium and you or your designated representative are entitled to observe the monitoring procedure. You are entitled to observe the steps taken in the measurement procedure, and to record the results obtained. When the monitoring procedure is taking place in an area where respirators or personal protective clothing and equipment are required to be worn, you or your representative must also be provided with, and must wear the protective clothing and equipment.
 
-C. Employee Requirements - You will not be able to smoke, eat, drink, chew gum or tobacco, or apply cosmetics while working with cadmium in regulated areas. You will also not be able to carry or store tobacco products, gum, food, drinks or cosmetics in regulated areas because these products easily become contaminated with cadmium from the workplace and can therefore create another source of unnecessary cadmium exposure.
+C. Employee Requirements—You will not be able to smoke, eat, drink, chew gum or tobacco, or apply cosmetics while working with cadmium in regulated areas. You will also not be able to carry or store tobacco products, gum, food, drinks or cosmetics in regulated areas because these products easily become contaminated with cadmium from the workplace and can therefore create another source of unnecessary cadmium exposure.
 
 Some workers will have to change out of work clothes and shower at the end of the day, as part of their workday, in order to wash cadmium from skin and hair. Handwashing and cadmium-free eating facilities shall be provided by the employer and proper hygiene should always be performed before eating. It is also recommended that you do not smoke or use tobacco products, because among other things, they naturally contain cadmium. For further information, read the labeling on such products.
 
@@ -721,7 +716,7 @@ c. The following articles and exhibits in particular from that docket (H-057A):
 |--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    8-447     |                                                     Lauwerys et. al., Guide for physicians, “Health Maintenance of Workers Exposed to Cadmium,” published by the Cadmium Council.                                                     |
 |     4-67     |                                     Takenaka, S., H. Oldiges, H. Konig, D. Hochrainer, G. Oberdorster. “Carcinogenicity of Cadmium Chloride Aerosols in Wistar Rats”. JNCI 70:367-373, 1983. (32)                                     |
-|     4-68     |                               Thun, M.J., T.M. Schnoor, A.B. Smith, W.E. Halperin, R.A. Lemen. “Mortality Among a Cohort of U.S. Cadmium Production Workers - An Update.” JNCI 74(2):325-33, 1985. (8)                                |
+|     4-68     |                                Thun, M.J., T.M. Schnoor, A.B. Smith, W.E. Halperin, R.A. Lemen. “Mortality Among a Cohort of U.S. Cadmium Production Workers—An Update.” JNCI 74(2):325-33, 1985. (8)                                 |
 |     4-25     |                                                 Elinder, C.G., Kjellstrom, T., Hogstedt, C., et al., “Cancer Mortality of Cadmium Workers.” Brit. J. Ind. Med. 42:651-655, 1985. (14)                                                 |
 |     4-26     |                           Ellis, K.J. et al., “Critical Concentrations of Cadmium in Human Renal Cortex: Dose Effect Studies to Cadmium Smelter Workers.” J. Toxicol. Environ. Health 7:691-703, 1981. (76)                           |
 |     4-27     |                   Ellis, K.J., S.H. Cohn and T.J. Smith. “Cadmium Inhalation Exposure Estimates: Their Significance with Respect to Kidney and Liver Cadmium Burden.” J. Toxicol. Environ. Health 15:173-187, 1985.                   |
@@ -735,7 +730,7 @@ V. Information Sheet
 
 The information sheet (appendix A Attachment-3.) or an equally explanatory one should be provided to you after any biological monitoring results are reviewed by the physician, or where applicable, after any medical examination.
 
-Attachment 1 - Appendix A Summary Chart and Tables A and B of Actions Triggered by Biological MonitoringAppendix A Summary Chart: Section (1)(3) Medical SurveillanceCategorizing Biological Monitoring Results
+Attachment 1—Appendix A Summary Chart and Tables A and B of Actions Triggered by Biological MonitoringAppendix A Summary Chart: Section (1)(3) Medical SurveillanceCategorizing Biological Monitoring Results
 
 (A) Biological monitoring results categories are set forth in appendix A Table A for the periods ending December 31, 1998 and for the period beginning January 1, 1999.
 
@@ -759,76 +754,68 @@ Actions Triggered by Biological Monitoring
 
 (B) The user of appendix A Tables A and B should know that these tables are provided only to facilitate understanding of the relevant provisions of paragraph (l)(3) of this section. appendix A Tables A and B are not meant to add to or subtract from the requirements of those provisions.
 
-Appendix A Table A - Categorization of Biological Monitoring Results
+Appendix A Table A—Categorization of Biological Monitoring Results
 
-Applicable Through 1998 Only
+|                                                                                                                                Biological marker                                                                                                                                |Monitoring result categories|               |        |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|---------------|--------|
+|                                                                                                                                        A                                                                                                                                        |             B              |       C       |        |
+|                                                                                                                    Cadmium in urine (CdU) (µg/g creatinine)                                                                                                                     |             ≤3             |  \>3 and ≤15  |  \>15  |
+|                                                                                                         β<sub>2</sub>-microglobulin (β<sub>2</sub>-M) (µg/g creatinine)                                                                                                         |            ≤300            |\>300 and ≤1500|\>1500\*|
+|                                                                                                                  Cadmium in blood (CdB) (µg/liter whole blood)                                                                                                                  |             ≤5             |  \>5 and ≤15  |  \>15  |
+|\* If an employee's β<sub>2</sub>-M levels are above 1,500 µg/g creatinine, in order for mandatory medical removal to be required (See appendix A Table B.), either the employee's CdU level must also be \>3 µg/g creatinine or CdB level must also be \>5 µg/liter whole blood.|                            |               |        |
 
-|              Biological marker              |Monitoring result categories|               |        |
-|---------------------------------------------|----------------------------|---------------|--------|
-|                      A                      |             B              |       C       |        |
-|  Cadmium in urine (CdU) (µg/g creatinine)   |             ≤3             |  \>3 and ≤15  |  \>15  |
-|  β2-microglobulin (β2-M) (µg/g creatinine)  |            ≤300            |\>300 and ≤1500|\>1500\*|
-|Cadmium in blood (CdB) (µg/liter whole blood)|             ≤5             |  \>5 and ≤15  |  \>15  |
+|                                                                                                                               Biological marker                                                                                                                               |Monitoring result categories|              |       |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|--------------|-------|
+|                                                                                                                                       A                                                                                                                                       |             B              |      C       |       |
+|                                                                                                                   Cadmium in urine (CdU) (µg/g creatinine)                                                                                                                    |             ≤3             |  \>3 and ≤7  |  \>7  |
+|                                                                                                        β<sub>2</sub>-microglobulin (β<sub>2</sub>-M) (µg/g creatinine)                                                                                                        |            ≤300            |\>300 and ≤750|\>750\*|
+|                                                                                                                 Cadmium in blood (CdB) (µg/liter whole blood)                                                                                                                 |             ≤5             | \>5 and ≤10  | \>10  |
+|\* If an employee's β<sub>2</sub>-M levels are above 750 µg/g creatinine, in order for mandatory medical removal to be required (See appendix A Table B.), either the employee's CdU level must also be \>3 µg/g creatinine or CdB level must also be \>5 µg/liter whole blood.|                            |              |       |
 
-\* If an employee's β2-M levels are above 1,500 µg/g creatinine, in order for mandatory medical removal to be required (See appendix A Table B.), either the employee's CdU level must also be \>3 µg/g creatinine or CdB level must also be \>5 µg/liter whole blood.
-
-Applicable Beginning January 1, 1999
-
-|              Biological marker              |Monitoring result categories|              |       |
-|---------------------------------------------|----------------------------|--------------|-------|
-|                      A                      |             B              |      C       |       |
-|  Cadmium in urine (CdU) (µg/g creatinine)   |             ≤3             |  \>3 and ≤7  |  \>7  |
-|  β2-microglobulin (β2-M) (µg/g creatinine)  |            ≤300            |\>300 and ≤750|\>750\*|
-|Cadmium in blood (CdB) (µg/liter whole blood)|             ≤5             | \>5 and ≤10  | \>10  |
-
-\* If an employee's β2-M levels are above 750 µg/g creatinine, in order for mandatory medical removal to be required (See appendix A Table B.), either the employee's CdU level must also be \>3 µg/g creatinine or CdB level must also be \>5 µg/liter whole blood.
-
-Appendix A Table B - Actions Determined by Biological Monitoring
+Appendix A Table B—Actions Determined by Biological Monitoring
 
 This table presents the actions required based on the monitoring result in appendix A Table A. Each item is a separate requirement in citing non-compliance. For example, a medical examination within 90 days for an employee in category B is separate from the requirement to administer a periodic medical examination for category B employees on an annual basis.
 
-|        Required actions         |Monitoring result category|             |             |
-|---------------------------------|--------------------------|-------------|-------------|
-|          A<sup>1</sup>          |      B<sup>1</sup>       |C<sup>1</sup>|             |
-|   (1) Biological monitoring:    |                          |             |             |
-|           (a) Annual.           |            X             |             |             |
-|         (b) Semiannual          |                          |      X      |             |
-|          (c) Quarterly          |                          |             |      X      |
-|    (2) Medical examination:     |                          |             |             |
-|          (a) Biennial           |            X             |             |             |
-|           (b) Annual.           |                          |      X      |             |
-|         (c) Semiannual.         |                          |             |      X      |
-|       (d) Within 90 days        |                          |      X      |      X      |
-|  (3) Assess within two weeks:   |                          |             |             |
-|   (a) Excess cadmium exposure   |                          |      X      |      X      |
-|       (b) Work practices        |                          |      X      |      X      |
-|      (c) Personal hygiene       |                          |      X      |      X      |
-|      (d) Respirator usage       |                          |      X      |      X      |
-|       (e) Smoking history       |                          |      X      |      X      |
-|     (f) Hygiene facilities      |                          |      X      |      X      |
-|    (g) Engineering controls     |                          |      X      |      X      |
-|   (h) Correct within 30 days    |                          |      X      |      X      |
-|(i) Periodically assess exposures|                          |             |      X      |
-|(4) Discretionary medical removal|                          |      X      |      X      |
-|  (5) Mandatory medical removal  |                          |             |X<sup>2</sup>|
+|                                                                                                                                                                             Required actions                                                                                                                                                                              |Monitoring result category|              |              |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|--------------|--------------|
+|                                                                                                                                                                              A <sup>1</sup>                                                                                                                                                                               |      B <sup>1</sup>      |C <sup>1</sup>|              |
+|                                                                                                                                                                        (1) Biological monitoring:                                                                                                                                                                         |                          |              |              |
+|                                                                                                                                                                                (a) Annual.                                                                                                                                                                                |            X             |              |              |
+|                                                                                                                                                                              (b) Semiannual                                                                                                                                                                               |                          |      X       |              |
+|                                                                                                                                                                               (c) Quarterly                                                                                                                                                                               |                          |              |      X       |
+|                                                                                                                                                                         (2) Medical examination:                                                                                                                                                                          |                          |              |              |
+|                                                                                                                                                                               (a) Biennial                                                                                                                                                                                |            X             |              |              |
+|                                                                                                                                                                                (b) Annual.                                                                                                                                                                                |                          |      X       |              |
+|                                                                                                                                                                              (c) Semiannual.                                                                                                                                                                              |                          |              |      X       |
+|                                                                                                                                                                            (d) Within 90 days                                                                                                                                                                             |                          |      X       |      X       |
+|                                                                                                                                                                       (3) Assess within two weeks:                                                                                                                                                                        |                          |              |              |
+|                                                                                                                                                                        (a) Excess cadmium exposure                                                                                                                                                                        |                          |      X       |      X       |
+|                                                                                                                                                                            (b) Work practices                                                                                                                                                                             |                          |      X       |      X       |
+|                                                                                                                                                                           (c) Personal hygiene                                                                                                                                                                            |                          |      X       |      X       |
+|                                                                                                                                                                           (d) Respirator usage                                                                                                                                                                            |                          |      X       |      X       |
+|                                                                                                                                                                            (e) Smoking history                                                                                                                                                                            |                          |      X       |      X       |
+|                                                                                                                                                                          (f) Hygiene facilities                                                                                                                                                                           |                          |      X       |      X       |
+|                                                                                                                                                                         (g) Engineering controls                                                                                                                                                                          |                          |      X       |      X       |
+|                                                                                                                                                                        (h) Correct within 30 days                                                                                                                                                                         |                          |      X       |      X       |
+|                                                                                                                                                                     (i) Periodically assess exposures                                                                                                                                                                     |                          |              |      X       |
+|                                                                                                                                                                     (4) Discretionary medical removal                                                                                                                                                                     |                          |      X       |      X       |
+|                                                                                                                                                                       (5) Mandatory medical removal                                                                                                                                                                       |                          |              |X <sup>2</sup>|
+|<sup>1</sup> For all employees covered by medical surveillance exclusively because of exposures prior to the effective date of this standard, if they are in Category A, the employer shall follow the requirements of paragraphs (l)(3)(i)(B) and (l)(4)(v)(A). If they are in Category B or C, the employer shall follow the requirements of paragraphs (l)(4)(v)(B)-(C).|                          |              |              |
+|                                                                                                                                                               <sup>2</sup> See footnote appendix A Table A.                                                                                                                                                               |                          |              |              |
 
-<sup>1</sup> For all employees covered by medical surveillance exclusively because of exposures prior to the effective date of this standard, if they are in Category A, the employer shall follow the requirements of paragraphs (l)(3)(i)(B) and (l)(4)(v)(A). If they are in Category B or C, the employer shall follow the requirements of paragraphs (l)(4)(v)(B)-(C).
-
-<sup>2</sup> See footnote appendix A Table A.
-
-Appendix A - Attachment 2 - List of Medications
+Appendix A—Attachment 2—List of Medications
 
 A list of the more common medications that a physician, and the employee, may wish to review is likely to include some of the following: (1) Anticonvulsants: Paramethadione, phenytoin, trimethadone; (2) antihypertensive drugs: Captopril, methyldopa; (3) antimicrobials: Aminoglycosides, amphotericin B, cephalosporins, ethambutol; (4) antineoplastic agents: Cisplatin, methotrexate, mitomycin-C, nitrosoureas, radiation; (4) sulfonamide diuretics: Acetazolamide, chlorthalidone, furosemide, thiazides; (5) halogenated alkanes, hydrocarbons, and solvents that may occur in some settings: Carbon tetrachloride, ethylene glycol, toluene; iodinated radiographic contrast media; nonsteroidal anti-inflammatory drugs; and, (7) other miscellaneous compounds: Acetominophen, allopurinol, amphetamines, azathioprine, cimetidine, cyclosporine, lithium, methoxyflurane, methysergide, D-penicillamine, phenacetin, phenendione. A list of drugs associated with acute interstitial nephritis includes: (1) Antimicrobial drugs: Cephalosporins, chloramphenicol, colistin, erythromycin, ethambutol, isoniazid, para-aminosalicylic acid, penicillins, polymyxin B, rifampin, sulfonamides, tetracyclines, and vancomycin; (2) other miscellaneous drugs: Allopurinol, antipyrene, azathioprine, captopril, cimetidine, clofibrate, methyldopa, phenindione, phenylpropanolamine, phenytoin, probenecid, sulfinpyrazone, sulfonamid diuretics, triamterene; and, (3) metals: Bismuth, gold.
 
 This list have been derived from commonly available medical textbooks (e.g., Ex. 14-18). The list has been included merely to facilitate the physician's, employer's, and employee's understanding. The list does not represent an official OSHA opinion or policy regarding the use of these medications for particular employees. The use of such medications should be under physician discretion.
 
-Attachment 3 - Biological Monitoring and Medical Examination ResultsEmployeeTesting Date
+Attachment 3—Biological Monitoring and Medical Examination ResultsEmployeeTesting Date
 
-Cadmium in Urine \_\_\_ µg/g Cr - Normal Levels: ≤3 µg/g Cr.
+Cadmium in Urine \_\_\_ µg/g Cr—Normal Levels: ≤3 µg/g Cr.
 
-Cadmium in Blood \_\_\_ µg/lwb - Normal Levels: ≤5 µg/lwb.
+Cadmium in Blood \_\_\_ µg/lwb—Normal Levels: ≤5 µg/lwb.
 
-Beta-2-microglobulin in Urine \_\_\_ µg/g Cr - Normal Levels: ≤300 µg/g Cr.
+Beta-2-microglobulin in Urine \_\_\_ µg/g Cr—Normal Levels: ≤300 µg/g Cr.
 
 Physical Examination Results: N/A \_\_\_ Satisfactory \_\_\_ Unsatisfactory \_\_\_ (see physician again).
 
@@ -848,7 +835,7 @@ Even if cadmium causes permanent changes in the kidney's ability to reabsorb bet
 
 For anyone with even a slight increase of beta-2-microglobulin, cadmium in the urine, or cadmium in the blood, it is very important to protect the kidney from further damage. Kidney damage can come from other sources than excess cadmium-exposure so it is also recommended that if a worker's levels are “high” he/she should receive counseling about drinking more water; avoiding cadmium-tainted tobacco and certain medications (nephrotoxins, acetaminophen); controlling diet, vitamin intake, blood pressure and diabetes; etc.
 
-Appendix B to § 1910.1027 - Substance Technical Guidelines for CadmiumI. Cadmium Metal
+Appendix B to § 1910.1027—Substance Technical Guidelines for CadmiumI. Cadmium Metal
 
 A. *Physical and Chemical Data.*
 
@@ -1056,7 +1043,7 @@ C. *Spill Leak and Disposal Procedures.*
 
 1. *Steps to be taken if the materials is released or spilled.* Do not touch spilled material. Stop leak if you can do it without risk. For small, dry spills, with a clean shovel place material into clean, dry container and cover. Move containers from spill area. For larger spills, dike far ahead of spill for later disposal. Keep unnecessary people away. Isolate hazard and deny entry. The Superfund Amendments and Reauthorization Act of 1986 Section 304 requires that a release equal to or greater than the reportable quantity for this substance (100 pounds) must be immediately reported to the local emergency planning committee, the state emergency response commission, and the National Response Center (800) 424-8802; in Washington, DC Metropolitan area (202) 426-2675.
 
-Appendix C to § 1910.1027 [Reserved]Appendix D to § 1910.1027 - Occupational Health History Interview With Reference to Cadmium Exposure![](/graphics/er14my19.017.gif)![](/graphics/er14my19.018.gif)![](/graphics/er14my19.019.gif)![](/graphics/er14my19.020.gif)![](/graphics/er14my19.021.gif)![](/graphics/er14my19.022.gif)![](/graphics/er14my19.023.gif)![](/graphics/er14my19.024.gif)![](/graphics/er14my19.025.gif)![](/graphics/er14my19.026.gif)![](/graphics/er14my19.027.gif)![](/graphics/er14my19.028.gif)![](/graphics/er14my19.029.gif)Appendix E to § 1910.1027 - Cadmium in Workplace AtmospheresMethod Number: ID-189Matrix: AirOSHA Permissible Exposure Limits: 5 µg/m3 (TWA), 2.5 µg/m3 (Action Level TWA)Collection Procedure: A known volume of air is drawn through a 37-mm diameter filter cassette containing a 0.8-µm mixed cellulose ester membrane filter (MCEF).Recommended Air Volume: 960 LRecommended Sampling Rate: 2.0 L/minAnalytical Procedure: Air filter samples are digested with nitric acid. After digestion, a small amount of hydrochloric acid is added. The samples are then diluted to volume with deionized water and analyzed by either flame atomic absorption spectroscopy (AAS) or flameless atomic absorption spectroscopy using a heated graphite furnace atomizer (AAS-HGA).Detection Limits:Qualitative: 0.2 µg/m3 for a 200 L sample by Flame AAS, 0.007 µg/m3 for a 60 L sample by AAS-HGAQuantitative: 0.70 µg/m3 for a 200 L sample by Flame AAS, 0.025 µg/m3 for a 60 L sample by AAS-HGAPrecision and Accuracy: (Flame AAS Analysis and AAS-HGA Analysis):Validation Level: 2.5 to 10 µg/m3 for a 400 L air vol, 1.25 to 5.0 µg/m3 for a 60 L air volCV1 (pooled): 0.010, 0.043Analytical Bias: + 4.0%, −5.8%Overall Analytical Error:±6.0%, ±14.2%Method Classification: ValidatedDate: June, 1992
+Appendix C to § 1910.1027 [Reserved]Appendix D to § 1910.1027—Occupational Health History Interview With Reference to Cadmium Exposure![](/graphics/er14my19.017.gif)![](/graphics/er14my19.018.gif)![](/graphics/er14my19.019.gif)![](/graphics/er14my19.020.gif)![](/graphics/er14my19.021.gif)![](/graphics/er14my19.022.gif)![](/graphics/er14my19.023.gif)![](/graphics/er14my19.024.gif)![](/graphics/er14my19.025.gif)![](/graphics/er14my19.026.gif)![](/graphics/er14my19.027.gif)![](/graphics/er14my19.028.gif)![](/graphics/er14my19.029.gif)Appendix E to § 1910.1027—Cadmium in Workplace AtmospheresMethod Number: ID-189Matrix: AirOSHA Permissible Exposure Limits: 5 µg/m3 (TWA), 2.5 µg/m3 (Action Level TWA)Collection Procedure: A known volume of air is drawn through a 37-mm diameter filter cassette containing a 0.8-µm mixed cellulose ester membrane filter (MCEF).Recommended Air Volume: 960 LRecommended Sampling Rate: 2.0 L/minAnalytical Procedure: Air filter samples are digested with nitric acid. After digestion, a small amount of hydrochloric acid is added. The samples are then diluted to volume with deionized water and analyzed by either flame atomic absorption spectroscopy (AAS) or flameless atomic absorption spectroscopy using a heated graphite furnace atomizer (AAS-HGA).Detection Limits:Qualitative: 0.2 µg/m3 for a 200 L sample by Flame AAS, 0.007 µg/m3 for a 60 L sample by AAS-HGAQuantitative: 0.70 µg/m3 for a 200 L sample by Flame AAS, 0.025 µg/m3 for a 60 L sample by AAS-HGAPrecision and Accuracy: (Flame AAS Analysis and AAS-HGA Analysis):Validation Level: 2.5 to 10 µg/m3 for a 400 L air vol, 1.25 to 5.0 µg/m3 for a 60 L air volCV1 (pooled): 0.010, 0.043Analytical Bias: + 4.0%, −5.8%Overall Analytical Error:±6.0%, ±14.2%Method Classification: ValidatedDate: June, 1992
 
 Inorganic Service Branch II, OSHA Salt Lake Technical Center, Salt Lake City, Utah
 
@@ -1432,7 +1419,7 @@ The experiments performed in this evaluation show the two atomic absorption anal
 
 5. References
 
-5.1. Slavin, W. Graphite Furnace AAS - A Source Book; Perkin-Elmer Corp., Spectroscopy Div.: Ridgefield, CT, 1984; p. 18 and pp. 83-90.
+5.1. Slavin, W. Graphite Furnace AAS—A Source Book; Perkin-Elmer Corp., Spectroscopy Div.: Ridgefield, CT, 1984; p. 18 and pp. 83-90.
 
 5.2. Grosser, Z., Ed.; Techniques in Graphite Furnace Atomic Absorption Spectrophotometry; Perkin-Elmer Corp., Spectroscopy Div.: Ridgefield, CT, 1985.
 
@@ -1456,13 +1443,9 @@ The experiments performed in this evaluation show the two atomic absorption anal
 
 5.12. Occupational Safety and Health Administration Analytical Laboratory: Precision and Accuracy Data Protocol for Laboratory Validations. In OSHA Analytical Methods Manual 1st ed. Cincinnati, OH: American Conference of Governmental Industrial Hygienists (Pub. No. ISBN: 0-936712-66-X), 1985.
 
-5.13. Long, G.L. and J.D. Winefordner: Limit of Detection - A Closer Look at the IUPAC Definition. Anal.Chem. 55:712A-724A (1983).
+5.13. Long, G.L. and J.D. Winefordner: Limit of Detection—A Closer Look at the IUPAC Definition. Anal.Chem. 55:712A-724A (1983).
 
 5.14. American Conference of Governmental Industrial Hygienists: Documentation of Threshold Limit Values and Biological Exposure Indices. 5th ed. Cincinnati, OH: American Conference of Governmental Industrial Hygienists, 1986.
-
-Table I - Cd Detection Limit Study
-
-[Flame AAS Analysis]
 
 | STD (µg/mL) |Absorbance reading at 228.8 nm|                       Statistical analysis                       |
 |-------------|------------------------------|------------------------------------------------------------------|
@@ -1475,10 +1458,6 @@ Table I - Cd Detection Limit Study
 |    0.050    |42 42  <br/>42 42  <br/>42 45 |n = 6.  <br/>mean = 42.5.  <br/>std dev = 1.22.  <br/>CV = 0.029. |
 |    0.10     |     84  <br/>80  <br/>83     |n = 3.  <br/>mean = 82.3.  <br/>std dev = 2.08.  <br/>CV = 0.025. |
 
-Table II - Cd Standard Working Range Study
-
-[Flame AAS Analysis]
-
 | STD (µg/mL) |Absorbance reading at 228.8 nm|                       Statistical analysis                        |
 |-------------|------------------------------|-------------------------------------------------------------------|
 |Reagent blank|   5 2  <br/>4 3  <br/>4 3    | n = 6.  <br/>mean = 3.50.  <br/>std dev = 1.05.  <br/>CV = 0.30.  |
@@ -1490,10 +1469,6 @@ Table II - Cd Standard Working Range Study
 |    1.00     |   760  <br/>748  <br/>752    |n = 3.  <br/>mean = 753.3.  <br/>std dev = 6.11.  <br/>CV = 0.008. |
 |    2.00     |  1416  <br/>1426  <br/>1401  |n = 3.  <br/>mean = 1414.3.  <br/>std dev = 12.6.  <br/>CV = 0.009.|
 
-Table III - Cd Detection Limit Study
-
-[AAS-HGA Analysis]
-
 | STD (ng/mL) |Peak area readings × 10<sup>3</sup> at 228.8 nm|                      Statistical analysis                       |
 |-------------|-----------------------------------------------|-----------------------------------------------------------------|
 |Reagent blank|            0 0  <br/>0 1  <br/>0 0            |n = 6.  <br/>mean = 0.167.  <br/>std dev = 0.41.  <br/>CV = 2.45.|
@@ -1502,10 +1477,6 @@ Table III - Cd Detection Limit Study
 |     0.5     |         28 33  <br/>26 28  <br/>28 30         |n = 6.  <br/>mean = 28.8.  <br/>std dev = 2.4.  <br/>CV = 0.083. |
 |     1.0     |         52 55  <br/>56 58  <br/>54 54         |n = 6.  <br/>mean = 54.8.  <br/>std dev = 2.0.  <br/>CV = 0.037. |
 |     2.0     |      101 112  <br/>110 110  <br/>110 110      |n = 6.  <br/>mean = 108.8.  <br/>std dev = 3.9.  <br/>CV = 0.036.|
-
-Table IV - Cd Standard Working Range Study
-
-[AAS-HGA Analysis]
 
 |STD (ng/mL)|Peak area readings × 10<sup>3</sup> at 228.8 nm|                       Statistical analysis                       |
 |-----------|-----------------------------------------------|------------------------------------------------------------------|
@@ -1519,10 +1490,6 @@ Table IV - Cd Standard Working Range Study
 |   30.0    |   1269 1291  <br/>1303 1307  <br/>1295 1290   |n = 6.  <br/>mean = 1293.  <br/>std dev = 13.3.  <br/>CV = 0.010. |
 |   40.0    |   1505 1567  <br/>1535 1567  <br/>1566 1572   |n = 6.  <br/>mean = 1552.  <br/>std dev = 26.6.  <br/>CV = 0.017. |
 
-Table V - Analytical Method Recovery
-
-[Flame AAS Analysis]
-
 |Test level| 0.5 ×  |Percent rec.|µg taken|1.0 × |Percent rec.|µg taken|2.0 × |Percent rec.|
 |----------|--------|------------|--------|------|------------|--------|------|------------|
 | µg taken |µg found|  µg found  |µg found|      |            |        |      |            |
@@ -1533,14 +1500,13 @@ Table V - Analytical Method Recovery
 |   1.00   | 1.0715 |   107.2    |  2.00  |2.0174|   100.9    |  4.00  |4.1504|   103.8    |
 |   1.00   | 1.0842 |   108.4    |  2.00  |2.0045|   100.2    |  4.00  |4.1899|   104.7    |
 
-|         n=         |   |  5  |   |   |  6  |   |   |  6  |
-|:-------------------|--:|----:|--:|--:|----:|--:|--:|----:|
-|       mean =       |   |107.9|   |   |101.6|   |   |103.1|
-|     std dev =      |   |0.657|   |   |1.174|   |   |1.199|
-|        CV1=        |   |0.006|   |   |0.011|   |   |0.012|
-|CV1 (pooled) = 0.010|   |     |   |   |     |   |   |     |
-
-\* Rejected as an outlier - this value did not pass the outlier T-test at the 99% confidence level.
+|                                               n=                                                |   |  5  |   |   |  6  |   |   |  6  |
+|-------------------------------------------------------------------------------------------------|---|-----|---|---|-----|---|---|-----|
+|                                             mean =                                              |   |107.9|   |   |101.6|   |   |103.1|
+|                                            std dev =                                            |   |0.657|   |   |1.174|   |   |1.199|
+|                                         CV<sub>1</sub>=                                         |   |0.006|   |   |0.011|   |   |0.012|
+|                                 CV<sub>1</sub> (pooled) = 0.010                                 |   |     |   |   |     |   |   |     |
+|\* Rejected as an outlier—this value did not pass the outlier T-test at the 99% confidence level.|   |     |   |   |     |   |   |     |
 
 |Test level| 0.1 ×  |Percent rec.|
 |----------|--------|------------|
@@ -1552,15 +1518,11 @@ Table V - Analytical Method Recovery
 |  0.200   | 0.2258 |   112.9    |
 |  0.200   | 0.1881 |    94.1    |
 
-|   n=    |   |  6  |
-|:--------|--:|----:|
-| mean =  |   |118.2|
-|std dev =|   |15.1 |
-|  CV1=   |   |0.128|
-
-Table VI - Analytical Method Recovery
-
-[AAS-HGA analysis]
+|      n=       |   |  6  |
+|---------------|---|-----|
+|    mean =     |   |118.2|
+|   std dev =   |   |15.1 |
+|CV<sub>1</sub>=|   |0.128|
 
 |Test level| 0.5 ×  |Percent rec.|ng taken|1.0 × |Percent rec.|ng taken|2.0 × |Percent rec.|
 |----------|--------|------------|--------|------|------------|--------|------|------------|
@@ -1572,18 +1534,16 @@ Table VI - Analytical Method Recovery
 |    75    | 78.32  |   104.4    |  150   |145.17|    96.8    |  300   |261.74|    87.2    |
 |    75    | 71.96  |    95.9    |  150   |144.88|    96.6    |  300   |277.22|    92.4    |
 
-|        n=         |   |  6  |   |   |  6  |   |   |  6  |
-|:------------------|--:|----:|--:|--:|----:|--:|--:|----:|
-|      mean =       |   |97.9 |   |   |94.4 |   |   |90.3 |
-|     std dev =     |   |4.66 |   |   |2.98 |   |   |4.30 |
-|       CV1=        |   |0.048|   |   |0.032|   |   |0.048|
-|CV1(pooled) = 0.043|   |     |   |   |     |   |   |     |
+|              n=               |   |  6  |   |   |  6  |   |   |  6  |
+|-------------------------------|---|-----|---|---|-----|---|---|-----|
+|            mean =             |   |97.9 |   |   |94.4 |   |   |90.3 |
+|           std dev =           |   |4.66 |   |   |2.98 |   |   |4.30 |
+|        CV<sub>1</sub>=        |   |0.048|   |   |0.032|   |   |0.048|
+|CV<sub>1</sub> (pooled) = 0.043|   |     |   |   |     |   |   |     |
 
-Attachment 1Instrumental Parameters for Flame AAS AnalysisAtomic Absorption Spectrophotometer (Perkin-Elmer Model 603)Flame: Air/Acetylene - lean, blueOxidant Flow: 55Fuel Flow: 32Wavelength: 228.8 nmSlit: 4 (0.7 nm)Range: UVSignal: Concentration (4 exp)Integration Time: 3 secAttachment 2Instrumental Parameters for HGA AnalysisAtomic Absorption Spectrophotometer (Perkin-Elmer Model 5100)Signal Type: Zeeman AASlitwidth: 0.7 nmWavelength: 228.8 nmMeasurement: Peak AreaIntegration Time: 6.0 sec*BOC Time: 5 sec*
+Attachment 1Instrumental Parameters for Flame AAS AnalysisAtomic Absorption Spectrophotometer (Perkin-Elmer Model 603)Flame: Air/Acetylene—lean, blueOxidant Flow: 55Fuel Flow: 32Wavelength: 228.8 nmSlit: 4 (0.7 nm)Range: UVSignal: Concentration (4 exp)Integration Time: 3 secAttachment 2Instrumental Parameters for HGA AnalysisAtomic Absorption Spectrophotometer (Perkin-Elmer Model 5100)Signal Type: Zeeman AASlitwidth: 0.7 nmWavelength: 228.8 nmMeasurement: Peak AreaIntegration Time: 6.0 sec*BOC Time: 5 sec*
 
 BOC = Background Offset Correction.
-
-Zeeman Graphite Furnace (Perkin-Elmer Model HGA-600)
 
 |    Step    |Ramp time (sec)|Hold time (sec)|Temp. (°C)|Argon flow (mL/min)|Read (sec)|
 |------------|---------------|---------------|----------|-------------------|----------|
@@ -1594,13 +1554,13 @@ Zeeman Graphite Furnace (Perkin-Elmer Model HGA-600)
 | 5) Atomize |       0       |       5       |   1600   |         0         |    −1    |
 | 6) Burnout |       1       |       8       |   2500   |        300        |          |
 
-Appendix F to § 1910.1027 - Nonmandatory Protocol for Biological Monitoring1.00 Introduction
+Appendix F to § 1910.1027—Nonmandatory Protocol for Biological Monitoring1.00 Introduction
 
 Under the final OSHA cadmium rule (29 CFR part 1910), monitoring of biological specimens and several periodic medical examinations are required for eligible employees. These medical examinations are to be conducted regularly, and medical monitoring is to include the periodic analysis of cadmium in blood (CDB), cadmium in urine (CDU) and beta-2-microglobulin in urine (B2MU). As CDU and B2MU are to be normalized to the concentration of creatinine in urine (CRTU), then CRTU must be analyzed in conjunction with CDU and B2MU analyses.
 
 The purpose of this protocol is to provide procedures for establishing and maintaining the quality of the results obtained from the analyses of CDB, CDU and B2MU by commercial laboratories. Laboratories conforming to the provisions of this nonmandatory protocol shall be known as “participating laboratories.” The biological monitoring data from these laboratories will be evaluated by physicians responsible for biological monitoring to determine the conditions under which employees may continue to work in locations exhibiting airborne-cadmium concentrations at or above defined actions levels (see paragraphs (l)(3) and (l)(4) of the final rule). These results also may be used to support a decision to remove workers from such locations.
 
-Under the medical monitoring program for cadmium, blood and urine samples must be collected at defined intervals from workers by physicians responsible for medical monitoring; these samples are sent to commerical laboratories that perform the required analyses and report results of these analyses to the responsible physicians. To ensure the accuracy and reliability of these laboratory analyses, the laboratories to which samples are submitted should participate in an ongoing and efficacious proficiency testing program. Availability of proficiency testing programs may vary with the analyses performed.
+Under the medical monitoring program for cadmium, blood and urine samples must be collected at defined intervals from workers by physicians responsible for medical monitoring; these samples are sent to commercial laboratories that perform the required analyses and report results of these analyses to the responsible physicians. To ensure the accuracy and reliability of these laboratory analyses, the laboratories to which samples are submitted should participate in an ongoing and efficacious proficiency testing program. Availability of proficiency testing programs may vary with the analyses performed.
 
 To test proficiency in the analysis of CDB, CDU and B2MU, a laboratory should participate either in the interlaboratory comparison program operated by the Centre de Toxicologie du Quebec (CTQ) or an equivalent program. (Currently, no laboratory in the U.S. performs proficiency testing on CDB, CDU or B2MU.) Under this program, CTQ sends participating laboratories 18 samples of each analyte (CDB, CDU and/or B2MU) annually for analysis. Participating laboratories must return the results of these analyses to CTQ within four to five weeks after receiving the samples.
 
@@ -1681,8 +1641,6 @@ This protocol provides procedures for characterizing and maintaining the quality
 3.1 Overview
 
 The goal of this protocol is to assure that medical monitoring data are of sufficient quality to facilitate proper interpretation. The data quality objectives (DQOs) defined for the medical monitoring program are summarized in Table 1. Based on available information, the DQOs presented in Table 1 should be achievable by the majority of laboratories offering the required analyses commercially; OSHA recommends that only laboratories meeting these DQOs be used for the analysis of biological samples collected for monitoring cadmium exposure.
-
-Table 1 - Recommended Data Quality Objectives (DQOs) for the Cadmium Medical Monitoring Program
 
 |         Analyte/concentration pool          |Limit of detection |Precision (CV) (%)|         Accuracy          |
 |---------------------------------------------|-------------------|------------------|---------------------------|
@@ -1898,8 +1856,6 @@ To satisfy reporting requirements for commercial analyses of CDB, CDU and/or B2M
 
 Participating laboratories should maintain these documents: QA/QC program plans; QA/QC status reports; CTQ proficiency program reports; and, analytical data reports. The information that should be included in these reports is summarized in Table 2; a copy of each report should be sent to the responsible physician.
 
-Table 2 - Reporting Procedures for Laboratories Participating in the Cadmium Medical Monitoring Program
-
 |         Report         |    Frequency (time frame)     |                                                                                                      Contents                                                                                                       |
 |------------------------|-------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |  1 QA/QC Program Plan  |       Once (initially)        |                                           A detailed description of the QA/QC protocol to be established by the laboratory to maintain control of analyte determinations.                                           |
@@ -2099,8 +2055,6 @@ Methods for quantifying cadmium in blood have improved over the last 40 years pr
 
 5.1.1 Analytical Techniques Used To Monitor Cadmium in Biological Matrices
 
-Table 3 - Comparison of Analytical Procedures/Instrumentation for Determination of Cadmium in Biological Samples
-
 |                          Analytical procedure                          |Limit of detection [ng/(g or ml)]|Specified biological matrix|         Reference          |                                                                            Comments                                                                             |
 |------------------------------------------------------------------------|---------------------------------|---------------------------|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |              Flame Atomic Absorption Spectroscopy (FAAS)               |              ≥1.0               |        Any matrix         |    Perkin-Elmer (1982)     |                   Not sensitive enough for biomonitoring without extensive sample digestion, metal chelation and organic solvent extraction.                    |
@@ -2197,35 +2151,26 @@ Numerous studies have been conducted examining CDB concentrations in the general
 
 Table 4 presents results of recent studies reporting CDB levels for the general U.S. population not exposed occupationally to cadmium. Other surveys of tissue cadmium using U.S. samples and conducted as part of a cooperative effort among Japan, Sweden and the U.S., did not collect CDB data because standard analytical methodologies were unavailable, and because of analytic problems (Kjellstrom 1979; SWRI 1978).
 
-Table 4 - Blood Cadmium Concentrations of U.S. Population Not Occupationally Exposed to Cadmium<sup>a</sup>
-
-|Study No.|No. in study (n)|Sex|  Age  |Smoking habits<sup>b</sup>|Arithmetic mean (±S.D.)<sup>c</sup>|Absolute range or (95% CI)<sup>d</sup>|Geometric mean (±GSD)<sup>e</sup>|Lower 95th percentile of distribution<sup>f</sup>|Upper 95th percentile of distribution<sup>f</sup>|         Reference         |
-|---------|----------------|---|-------|--------------------------|-----------------------------------|--------------------------------------|---------------------------------|-------------------------------------------------|-------------------------------------------------|---------------------------|
-|    1    |       80       | M |4 to 69|           NS,S           |               1.13                |               0.35-3.3               |            0.98±1.71            |                       0.4                       |                       2.4                       |   Kowal et al. (1979).    |
-|         |       88       | F |4 to 69|           NS,S           |               1.03                |               0.21-3.3               |            0.91±1.63            |                       0.4                       |                       2.0                       |                           |
-|         |      115       |M/F|4 to 69|            NS            |               0.95                |               0.21-3.3               |            0.85±1.59            |                       0.4                       |                       1.8                       |                           |
-|         |       31       |M/F|4 to 69|            S             |               1.54                |               0.4-3.3                |            1.37±1.65            |                       0.6                       |                       3.2                       |                           |
-|    2    |       10       | M |Adults |           (?)            |              2.0±2.1              |              (0.5-5.0)               |                                 |                <sup>g</sup> (0)                 |               <sup>g</sup> (5.8)                |   Ellis et al. (1983).    |
-|    3    |       24       | M |Adults |            NS            |                                   |                                      |            0.6±1/87             |                       0.2                       |                       1.8                       |Frieberg and Vahter (1983).|
-|         |       20       | M |Adults |            S             |                                   |                                      |            1.2±2.13             |                       0.3                       |                       4.4                       |                           |
-|         |       64       | F |Adults |            NS            |                                   |                                      |            0.5±1.85             |                       0.2                       |                       1.4                       |                           |
-|         |       39       | F |Adults |            S             |                                   |                                      |            0.8±2.22             |                       0.2                       |                       3.1                       |                           |
-|    4    |       32       | M |Adults |           S,NS           |                                   |                                      |             1.2±2.0             |                       0.4                       |                       3.9                       |    Thun et al. (1989).    |
-|    5    |       35       | M |Adults |           (?)            |              2.1±2.1              |              (0.5-7.3)               |                                 |                <sup>g</sup> (0)                 |               <sup>g</sup> (5.6)                |  Mueller et al. (1989).   |
-
-<sup>a</sup> Concentrations reported in µg Cd/l blood unless otherwise stated.
-
-<sup>b</sup> NS - never smoked; S - current cigarette smoker.
-
-<sup>c</sup> S.D. - Arithmetic Standard Deviation.
-
-<sup>d</sup> C.I. - Confidence interval.
-
-<sup>e</sup> GSD - Geometric Standard Deviation.
-
-<sup>f</sup> Based on an assumed lognormal distribution.
-
-<sup>g</sup> Based on an assumed normal distribution.
+|                                  Study No.                                   |No. in study (n)|Sex|  Age  |Smoking habits <sup>b</sup>|Arithmetic mean (±S.D.) <sup>c</sup>|Absolute range or (95% CI) <sup>d</sup>|Geometric mean (±GSD) <sup>e</sup>|Lower 95th percentile of distribution <sup>f</sup>|Upper 95th percentile of distribution <sup>f</sup>|         Reference         |
+|------------------------------------------------------------------------------|----------------|---|-------|---------------------------|------------------------------------|---------------------------------------|----------------------------------|--------------------------------------------------|--------------------------------------------------|---------------------------|
+|                                      1                                       |       80       | M |4 to 69|           NS,S            |                1.13                |               0.35-3.3                |            0.98±1.71             |                       0.4                        |                       2.4                        |   Kowal et al. (1979).    |
+|                                                                              |       88       | F |4 to 69|           NS,S            |                1.03                |               0.21-3.3                |            0.91±1.63             |                       0.4                        |                       2.0                        |                           |
+|                                                                              |      115       |M/F|4 to 69|            NS             |                0.95                |               0.21-3.3                |            0.85±1.59             |                       0.4                        |                       1.8                        |                           |
+|                                                                              |       31       |M/F|4 to 69|             S             |                1.54                |                0.4-3.3                |            1.37±1.65             |                       0.6                        |                       3.2                        |                           |
+|                                      2                                       |       10       | M |Adults |            (?)            |              2.0±2.1               |               (0.5-5.0)               |                                  |                 <sup>g</sup> (0)                 |                <sup>g</sup> (5.8)                |   Ellis et al. (1983).    |
+|                                      3                                       |       24       | M |Adults |            NS             |                                    |                                       |             0.6±1/87             |                       0.2                        |                       1.8                        |Frieberg and Vahter (1983).|
+|                                                                              |       20       | M |Adults |             S             |                                    |                                       |             1.2±2.13             |                       0.3                        |                       4.4                        |                           |
+|                                                                              |       64       | F |Adults |            NS             |                                    |                                       |             0.5±1.85             |                       0.2                        |                       1.4                        |                           |
+|                                                                              |       39       | F |Adults |             S             |                                    |                                       |             0.8±2.22             |                       0.2                        |                       3.1                        |                           |
+|                                      4                                       |       32       | M |Adults |           S,NS            |                                    |                                       |             1.2±2.0              |                       0.4                        |                       3.9                        |    Thun et al. (1989).    |
+|                                      5                                       |       35       | M |Adults |            (?)            |              2.1±2.1               |               (0.5-7.3)               |                                  |                 <sup>g</sup> (0)                 |                <sup>g</sup> (5.6)                |  Mueller et al. (1989).   |
+|<sup>a</sup> Concentrations reported in µg Cd/l blood unless otherwise stated.|                |   |       |                           |                                    |                                       |                                  |                                                  |                                                  |                           |
+|          <sup>b</sup> NS—never smoked; S—current cigarette smoker.           |                |   |       |                           |                                    |                                       |                                  |                                                  |                                                  |                           |
+|               <sup>c</sup> S.D.—Arithmetic Standard Deviation.               |                |   |       |                           |                                    |                                       |                                  |                                                  |                                                  |                           |
+|                    <sup>d</sup> C.I.—Confidence interval.                    |                |   |       |                           |                                    |                                       |                                  |                                                  |                                                  |                           |
+|                <sup>e</sup> GSD—Geometric Standard Deviation.                |                |   |       |                           |                                    |                                       |                                  |                                                  |                                                  |                           |
+|           <sup>f</sup> Based on an assumed lognormal distribution.           |                |   |       |                           |                                    |                                       |                                  |                                                  |                                                  |                           |
+|            <sup>g</sup> Based on an assumed normal distribution.             |                |   |       |                           |                                    |                                       |                                  |                                                  |                                                  |                           |
 
 Arithmetic and/or geometric means and standard deviations are provided in Table 4 for measurements among the populations defined in each study listed. The range of reported measurements and/or the 95% upper and lower confidence intervals for the means are presented when this information was reported in a study. For studies reporting either an arithmetic or geometric standard deviation along with a mean, the lower and upper 95th percentile for the distribution also were derived and reported in the table.
 
@@ -2241,43 +2186,34 @@ Table 5 is a summary of results from studies reporting CDB levels among workers 
 
 CDB levels reported in table 5 are higher among those showing signs of cadmium-related kidney damage than those showing no such damage. Lauwerys et al. (1976) report CDB levels among workers with kidney lesions that generally are above the levels reported for workers without kidney lesions. Ellis et al. (1983) report a similar observation comparing workers with and without renal dysfunction, although they found more overlap between the 2 groups than Lauwerys et al.
 
-Table 5 - Blood Cadmium in Workers Exposed to Cadmium in the Workplace
-
-|           Study number            |         Work environment (worker population monitored)          |        Number in study         |                   Employment in years (mean)                   |    Mean concentration of cadmium in air (µg/m<sup>3</sup>)     |Concentrations of Cadmium in blood<sup>a</sup>|        |       |     |     |                       |
-|-----------------------------------|-----------------------------------------------------------------|--------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------|--------|-------|-----|-----|-----------------------|
-|Arithmetic mean (±S.D.)<sup>b</sup>|            Absolute range or (95% C.I.)<sup>c</sup>             |Geometric mean (GSD)<sup>d</sup>|Lower 95th percentile of range<sup>e</sup>  <br/>( )<sup>f</sup>|Upper 95th percentile of range<sup>e</sup>  <br/>( )<sup>f</sup>|                  Reference                   |        |       |     |     |                       |
-|                 1                 |          Ni-Cd battery plant and Cd production plant:           |                                |                              3-40                              |                              ≤90                               |                                              |        |       |     |     | Lauwerys et al. 1976. |
-|                                   |                 (Workers without kidney lesions)                |               96               |                                                                |                                                                |                   21.4±1.9                   |        |       |(18) |(25) |                       |
-|                                   |                  (Workers with kidney lesions)                  |               25               |                                                                |                                                                |                   38.8±3.8                   |        |       |(32) |(45) |                       |
-|                 2                 |                      Ni-Cd battery plant:                       |                                |                                                                |                                                                |                                              |        |       |     |     |Adamsson et al. (1979).|
-|                                   |                            (Smokers)                            |               7                |                              (5)                               |                              10.1                              |                     22.7                     |7.3-67.2|       |     |     |                       |
-|                                   |                          (Nonsmokers)                           |               8                |                              (9)                               |                              7.0                               |                     7.0                      |4.9-10.5|       |     |     |                       |
-|                 3                 |                      Cadmium alloy plant:                       |                                |                                                                |                                                                |                                              |        |       |     |     |  Sukuri et al. 1982.  |
-|                                   |                      (High exposure group)                      |               7                |                             (10.6)                             |                         [1,000-5 yrs;                          |                   20.8±7.1                   |        |       |(7.3)|(34) |                       |
-|                                   |                       (Low exposure group)                      |               9                |                             (7.3)                              |                           40-5 yrs]                            |                   7.1±1.1                    |        |       |(5.1)|(9.1)|                       |
-|                 4                 |       Retrospective study of workers with renal problems:       |               19               |                             15-41                              |                                                                |                                              |        |       |     |     |  Roels et al. 1982.   |
-|                                   |                         (Before removal)                        |                                |                             (27.2)                             |                                                                |                   39.9±3.7                   | 11-179 |       |(34) |(46) |                       |
-|                                   |                         (After removal)                         |                                |                       <sup>g</sup>(4.2)                        |                                                                |                   14.1±5.6                   |5.7-27.4|       |(4.4)|(24) |                       |
-|                 5                 |                    Cadmium production plant:                    |                                |                                                                |                                                                |                                              |        |       |     |     |  Ellis et al. 1983.   |
-|                                   |               (Workers without renal dysfunction)               |               33               |                              1-34                              |                                                                |                    15±5.7                    |  7-31  |       |(5.4)|(25) |                       |
-|                                   |                 (Workers with renal dysfunction)                |               18               |                             10-34                              |                                                                |                    24±8.5                    | 10-34  |       |(9.3)|(39) |                       |
-|                 6                 |                        Cd-Cu alloy plant                        |               75               |                            Up to 39                            |                                                                |                                              |        |8.8±1.1| 7.5 | 10  |  Mason et al. 1988.   |
-|                 7                 |Cadmium recovery operation - Current (19) and former (26) workers|               45               |                             (19.0)                             |                                                                |                                              |        |7.9±2.0| 2.5 | 25  |   Thun et al. 1989.   |
-|                 8                 |                   Cadmium recovery operation                    |               40               |                                                                |                                                                |                   10.2±5.3                   |2.2-18.8|       |(1.3)|(19) | Mueller et al. 1989.  |
-
-<sup>a</sup> Concentrations reported in µg Cd/l blood unless otherwise stated.
-
-<sup>b</sup> S.D. - Standard Deviation.
-
-<sup>c</sup> C.I. - Confidence Interval.
-
-<sup>d</sup> GSD - Geometric Standard Deviation.
-
-<sup>e</sup> Based on an assumed lognormal distribution.
-
-<sup>f</sup> Based on an assumed normal distribution.
-
-<sup>g</sup> Years following removal.
+|                                 Study number                                 |        Work environment (worker population monitored)         |         Number in study         |                    Employment in years (mean)                    |     Mean concentration of cadmium in air (µg/m<sup>3</sup>)      |Concentrations of Cadmium in blood <sup>a</sup>|        |       |     |     |                       |
+|------------------------------------------------------------------------------|---------------------------------------------------------------|---------------------------------|------------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------|--------|-------|-----|-----|-----------------------|
+|                     Arithmetic mean (±S.D.) <sup>b</sup>                     |           Absolute range or (95% C.I.) <sup>c</sup>           |Geometric mean (GSD) <sup>d</sup>|Lower 95th percentile of range <sup>e</sup>  <br/>( ) <sup>f</sup>|Upper 95th percentile of range <sup>e</sup>  <br/>( ) <sup>f</sup>|                   Reference                   |        |       |     |     |                       |
+|                                      1                                       |         Ni-Cd battery plant and Cd production plant:          |                                 |                               3-40                               |                               ≤90                                |                                               |        |       |     |     | Lauwerys et al. 1976. |
+|                                                                              |                (Workers without kidney lesions)               |               96                |                                                                  |                                                                  |                   21.4±1.9                    |        |       |(18) |(25) |                       |
+|                                                                              |                 (Workers with kidney lesions)                 |               25                |                                                                  |                                                                  |                   38.8±3.8                    |        |       |(32) |(45) |                       |
+|                                      2                                       |                     Ni-Cd battery plant:                      |                                 |                                                                  |                                                                  |                                               |        |       |     |     |Adamsson et al. (1979).|
+|                                                                              |                           (Smokers)                           |                7                |                               (5)                                |                               10.1                               |                     22.7                      |7.3-67.2|       |     |     |                       |
+|                                                                              |                         (Nonsmokers)                          |                8                |                               (9)                                |                               7.0                                |                      7.0                      |4.9-10.5|       |     |     |                       |
+|                                      3                                       |                     Cadmium alloy plant:                      |                                 |                                                                  |                                                                  |                                               |        |       |     |     |  Sukuri et al. 1982.  |
+|                                                                              |                     (High exposure group)                     |                7                |                              (10.6)                              |                          [1,000-5 yrs;                           |                   20.8±7.1                    |        |       |(7.3)|(34) |                       |
+|                                                                              |                      (Low exposure group)                     |                9                |                              (7.3)                               |                            40-5 yrs]                             |                    7.1±1.1                    |        |       |(5.1)|(9.1)|                       |
+|                                      4                                       |      Retrospective study of workers with renal problems:      |               19                |                              15-41                               |                                                                  |                                               |        |       |     |     |  Roels et al. 1982.   |
+|                                                                              |                        (Before removal)                       |                                 |                              (27.2)                              |                                                                  |                   39.9±3.7                    | 11-179 |       |(34) |(46) |                       |
+|                                                                              |                        (After removal)                        |                                 |                        <sup>g</sup> (4.2)                        |                                                                  |                   14.1±5.6                    |5.7-27.4|       |(4.4)|(24) |                       |
+|                                      5                                       |                   Cadmium production plant:                   |                                 |                                                                  |                                                                  |                                               |        |       |     |     |  Ellis et al. 1983.   |
+|                                                                              |              (Workers without renal dysfunction)              |               33                |                               1-34                               |                                                                  |                    15±5.7                     |  7-31  |       |(5.4)|(25) |                       |
+|                                                                              |                (Workers with renal dysfunction)               |               18                |                              10-34                               |                                                                  |                    24±8.5                     | 10-34  |       |(9.3)|(39) |                       |
+|                                      6                                       |                       Cd-Cu alloy plant                       |               75                |                             Up to 39                             |                                                                  |                                               |        |8.8±1.1| 7.5 | 10  |  Mason et al. 1988.   |
+|                                      7                                       |Cadmium recovery operation—Current (19) and former (26) workers|               45                |                              (19.0)                              |                                                                  |                                               |        |7.9±2.0| 2.5 | 25  |   Thun et al. 1989.   |
+|                                      8                                       |                  Cadmium recovery operation                   |               40                |                                                                  |                                                                  |                   10.2±5.3                    |2.2-18.8|       |(1.3)|(19) | Mueller et al. 1989.  |
+|<sup>a</sup> Concentrations reported in µg Cd/l blood unless otherwise stated.|                                                               |                                 |                                                                  |                                                                  |                                               |        |       |     |     |                       |
+|                    <sup>b</sup> S.D.—Standard Deviation.                     |                                                               |                                 |                                                                  |                                                                  |                                               |        |       |     |     |                       |
+|                    <sup>c</sup> C.I.—Confidence Interval.                    |                                                               |                                 |                                                                  |                                                                  |                                               |        |       |     |     |                       |
+|                <sup>d</sup> GSD—Geometric Standard Deviation.                |                                                               |                                 |                                                                  |                                                                  |                                               |        |       |     |     |                       |
+|           <sup>e</sup> Based on an assumed lognormal distribution.           |                                                               |                                 |                                                                  |                                                                  |                                               |        |       |     |     |                       |
+|            <sup>f</sup> Based on an assumed normal distribution.             |                                                               |                                 |                                                                  |                                                                  |                                               |        |       |     |     |                       |
+|                    <sup>g</sup> Years following removal.                     |                                                               |                                 |                                                                  |                                                                  |                                               |        |       |     |     |                       |
 
 The data in table 5 also indicate that CDB levels are higher among those experiencing current occupational exposure than those who have been removed from such exposure. Roels et al. (1982) indicate that CDB levels observed among workers experiencing ongoing exposure in the work place are almost entirely above levels observed among workers removed from such exposure. This finding suggests that CDB levels decrease once cadmium exposure has ceased.
 
@@ -2341,7 +2277,7 @@ Analytical techniques used for CDU determinations are similar to those employed 
 
 5.2.3 Methods Developed for CDU Determinations
 
-Princi (1947), Smith et al. (1955), Smith and Kench (1957), and Tsuchiya (1967) used colorimetric procedures similar to those described in the CDB section above to estimate CDU concentrations. In these methods, urine (50 ml) is reduced to dryness by heating in a sand bath and digested (wet ashed) with mineral acids. Cadmium then is complexed with dithiazone, extracted with chloroform and quantified by spectrophotometry. These early studies typically report reagent blank values equivalent to 0.3 µg Cd/l, and CDU concentrations among nonexposed control groups at maximum levels of 10 µg Cd/l - erroneously high values when compared to more recent surveys of cadmium concentrations in the general population.
+Princi (1947), Smith et al. (1955), Smith and Kench (1957), and Tsuchiya (1967) used colorimetric procedures similar to those described in the CDB section above to estimate CDU concentrations. In these methods, urine (50 ml) is reduced to dryness by heating in a sand bath and digested (wet ashed) with mineral acids. Cadmium then is complexed with dithiazone, extracted with chloroform and quantified by spectrophotometry. These early studies typically report reagent blank values equivalent to 0.3 µg Cd/l, and CDU concentrations among nonexposed control groups at maximum levels of 10 µg Cd/l—erroneously high values when compared to more recent surveys of cadmium concentrations in the general population.
 
 By the mid-1970s, most analytical procedures for CDU analysis used either wet ashing (mineral acid) or high temperatures (\>400 °C) to digest the organic matrix of urine, followed by cadmium chelation with APDC or DDTC solutions and extraction with MIBK. The resulting aliquots were analyzed by flame or graphite-furnace AAS (Kjellstrom 1979).
 
@@ -2387,40 +2323,33 @@ Based on further statistical examination of these data, including the lifestyle 
 
 CDU levels presented in Table 6 are adjusted for age and gender. Results suggest that CDU levels may be slightly different among men and women (*i.e.*, higher among men when values are unadjusted, but lower among men when the values are adjusted, for specific gravity or CRTU). Mean differences among men and women are small compared to the standard deviations, and therefore may not be significant. Levels of CDU also appear to increase with age. The data in Table 6 suggest as well that reporting CDU levels adjusted for specific gravity or as a function of CRTU results in reduced variability.
 
-Table 6 - Urine Cadmium Concentrations in the U.S. Adult Population: Normal and Concentration-Adjusted Values by Age and Sex<sup>1</sup>
+|                                                          |Geometric means (and geometric standard deviations)|                        |          |
+|----------------------------------------------------------|---------------------------------------------------|------------------------|----------|
+|                    Unadjusted (µg/l)                     |      SG-adjusted <sup>2</sup> µg/l at 1.020)      |Creatine-adjusted (µg/g)|          |
+|                           Sex:                           |                                                   |                        |          |
+|                      Male (n = 484)                      |                    0.55 (2.9)                     |       0.73 (2.6)       |0.55 (2.7)|
+|                     Female (n = 498)                     |                    0.49 (3.0)                     |       0.86 (2.7)       |0.78 (2.7)|
+|                           Age:                           |                                                   |                        |          |
+|                     20-29 (n = 222)                      |                    0.32 (3.0)                     |       0.43 (2.7)       |0.32 (2.7)|
+|                     30-39 (n = 141)                      |                    0.46 (3.2)                     |       0.70 (2.8)       |0.54 (2.7)|
+|                     40-49 (n = 142)                      |                    0.50 (3.0)                     |       0.81 (2.6)       |0.70 (2.7)|
+|                     50-59 (n = 117)                      |                    0.61 (2.9)                     |       0.99 (2.4)       |0.90 (2.3)|
+|                     60-69 (n = 272)                      |                    0.76 (2.6)                     |       1.16 (2.3)       |1.03 (2.3)|
+|         <sup>1</sup> From Kowal and Zirkes 1983.         |                                                   |                        |          |
+|<sup>2</sup> SC-adjusted is adjusted for specific gravity.|                                                   |                        |          |
 
-|                 |Geometric means (and geometric standard deviations)|                        |          |
-|-----------------|---------------------------------------------------|------------------------|----------|
-|Unadjusted (µg/l)|      SG-adjusted<sup>2</sup> µg/l at 1.020)       |Creatine-adjusted (µg/g)|          |
-|      Sex:       |                                                   |                        |          |
-| Male (n = 484)  |                    0.55 (2.9)                     |       0.73 (2.6)       |0.55 (2.7)|
-|Female (n = 498) |                    0.49 (3.0)                     |       0.86 (2.7)       |0.78 (2.7)|
-|      Age:       |                                                   |                        |          |
-| 20-29 (n = 222) |                    0.32 (3.0)                     |       0.43 (2.7)       |0.32 (2.7)|
-| 30-39 (n = 141) |                    0.46 (3.2)                     |       0.70 (2.8)       |0.54 (2.7)|
-| 40-49 (n = 142) |                    0.50 (3.0)                     |       0.81 (2.6)       |0.70 (2.7)|
-| 50-59 (n = 117) |                    0.61 (2.9)                     |       0.99 (2.4)       |0.90 (2.3)|
-| 60-69 (n = 272) |                    0.76 (2.6)                     |       1.16 (2.3)       |1.03 (2.3)|
-
-<sup>1</sup> From Kowal and Zirkes 1983.
-
-<sup>2</sup> SC-adjusted is adjusted for specific gravity.
-
-Table 7 - Urine Cadmium Concentrations in the U.S. Adult Population: Cumulative Frequency Distribution of Urinary Cadmium (N = 982)<sup>1</sup>
-
-|Range of concentrations|Unadjusted (µg/l) percent|SG-adjusted (µg/l at 1.020) percent|Creatine-adjusted (µg/g) percent|
-|-----------------------|-------------------------|-----------------------------------|--------------------------------|
-|         \<0.5         |          43.9           |               28.0                |              35.8              |
-|        0.6-1.0        |          71.7           |               56.4                |              65.6              |
-|        1.1-1.5        |          84.4           |               74.9                |              81.4              |
-|        1.6-2.0        |          91.3           |               84.7                |              88.9              |
-|        2.1-3.0        |          97.3           |               94.4                |              95.8              |
-|        3.1-4.0        |          98.8           |               97.4                |              97.2              |
-|        4.1-5.0        |          99.4           |               98.2                |              97.9              |
-|        5.1-10.0       |          99.6           |               99.4                |              99.3              |
-|       10.0-20.0       |          99.8           |               99.6                |              99.6              |
-
-<sup>1</sup> Source: Kowal and Zirkes (1983).
+|           Range of concentrations           |Unadjusted (µg/l) percent|SG-adjusted (µg/l at 1.020) percent|Creatine-adjusted (µg/g) percent|
+|---------------------------------------------|-------------------------|-----------------------------------|--------------------------------|
+|                    \<0.5                    |          43.9           |               28.0                |              35.8              |
+|                   0.6-1.0                   |          71.7           |               56.4                |              65.6              |
+|                   1.1-1.5                   |          84.4           |               74.9                |              81.4              |
+|                   1.6-2.0                   |          91.3           |               84.7                |              88.9              |
+|                   2.1-3.0                   |          97.3           |               94.4                |              95.8              |
+|                   3.1-4.0                   |          98.8           |               97.4                |              97.2              |
+|                   4.1-5.0                   |          99.4           |               98.2                |              97.9              |
+|                   5.1-10.0                  |          99.6           |               99.4                |              99.3              |
+|                  10.0-20.0                  |          99.8           |               99.6                |              99.6              |
+|<sup>1</sup> Source: Kowal and Zirkes (1983).|                         |                                   |                                |
 
 The data in the Table 6 indicate the geometric mean of CDU levels observed among the general population is 0.52 µ/g Cd/l urine (unadjusted), with a geometric standard deviation of 3.0. Normalized for creatinine, the geometric mean for the population is 0.66 µ/g CRTU, with a geometric standard deviation of 2.7. Table 7 provides the distributions of CDU concentrations for the general population studied by Kowal and Zirkes. The data in this table indicate that 95% of the CDU levels observed among those not occupationally exposed to cadmium are below 3 µ/g CRTU.
 
@@ -2428,44 +2357,34 @@ The data in the Table 6 indicate the geometric mean of CDU levels observed among
 
 Table 8 is a summary of results from available studies of CDU concentrations observed among cadmium-exposed workers. In this table, arithmetic and/or geometric means and standard deviations are provided if reported in these studies. The absolute range for the data in each study, or the 95% confidence interval around the mean of each study, also are provided when reported. The lower and upper 95th percentile of the distribution are presented for each study in which a mean and corresponding standard deviation were reported. Table 8 also provides estimates of the years of exposure, and the levels of exposure, to cadmium in the work place if reported in these studies. Concentrations reported in this table are in µ/g CRTU, unless otherwise stated.
 
-Table 8 - Urine Cadmium Concentrations in Workers Exposed to Cadmium in the Workplace
-
-|           Study number            |  Work environment (worker population monitored)  |      Number in Study (n)       |                   Employment in years (mean)                   |    Mean Concentration of cadmium in air (µg/m<sup>3</sup>)     |Concentration of cadmium in Urine<sup>a</sup>|        |         |     |     |                       |
-|-----------------------------------|--------------------------------------------------|--------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------|--------|---------|-----|-----|-----------------------|
-|Arithmetic mean (±S.D.)<sup>b</sup>|     Absolute range or (95% C.I.)<sup>c</sup>     |Geometric mean (GSD)<sup>d</sup>|Lower 95th percentile of range<sup>e</sup>  <br/>( )<sup>f</sup>|Upper 95th percentile of range<sup>e</sup>  <br/>( )<sup>f</sup>|                  Reference                  |        |         |     |     |                       |
-|                 1                 |   Ni-Cd battery plant and Cd production plant    |                                |                              3-40                              |                              ≤90                               |                                             |        |         |     |     | Lauwerys et al. 1976. |
-|                                   |         (Workers without kidney lesions)         |               96               |                                                                |                                                                |                  16.3±16.7                  |        |         | (0) |(44) |                       |
-|                                   |           (Workers with kidney lesions)          |               25               |                                                                |                                                                |                  48.2±42.6                  |        |         | (0) |(120)|                       |
-|                 2                 |               Ni-Cd battery plant                |                                |                                                                |                                                                |                                             |        |         |     |     |Adamsson et al. (1979).|
-|                                   |                     (Smokers)                    |               7                |                              (5)                               |                              10.1                              |                     5.5                     |1.0-14.7|         |     |     |                       |
-|                                   |                   (Nonsmokers)                   |               8                |                              (9)                               |                              7.0                               |                     3.6                     |0.5-9.3 |         |     |     |                       |
-|                 3                 |        Cadmium salts production facility         |              148               |                             (15.4)                             |                                                                |                    15.8                     | 2-150  |         |     |     | Butchet et al. 1980.  |
-|                 4                 |Retrospective study of workers with renal problems|               19               |                             15-41                              |                                                                |                                             |        |         |     |     |  Roels et al. 1982.   |
-|                                   |                 (Before removal)                 |                                |                             (27.2)                             |                                                                |                  39.4±28.1                  |10.8-117|         | (0) |(88) |                       |
-|                                   |                  (After removal)                 |                                |                       (4.2)<sup>g</sup>                        |                                                                |                  16.4±9.0                   |80-42.3 |         |(1.0)|(32) |                       |
-|                 5                 |             Cadmium production plant             |                                |                                                                |                                                                |                                             |        |         |     |     |  Ellis et al. 1983.   |
-|                                   |        (Workers without renal dysfunction)       |               33               |                              1-34                              |                                                                |                   9.4±6.9                   |  2-27  |         | (0) |(21) |                       |
-|                                   |         (Workers with renal dysfunction)         |               18               |                             10-34                              |                                                                |                  22.8±12.7                  |  8-55  |         | (1) |(45) |                       |
-|                 6                 |                Cd-Cu alloy plant                 |               75               |                            Up to 39                            |                             Note h                             |                   6.9±9.4                   |        |         | (0) |(23) |  Mason et al. 1988.   |
-|                 7                 |            Cadmium recovery operation            |               45               |                              (19)                              |                               87                               |                   9.3±6.9                   |        |         | (0) |(21) |   Thun et al. 1989.   |
-|                 8                 |           Pigment manufacturing plant            |               29               |                             (12.8)                             |                            0.18-3.0                            |                                             |0.2-9.5 |   1.1   |     |     | Mueller et al. 1989.  |
-|                 9                 |           Pigment manufacturing plant            |               26               |                             (12.1)                             |                              ≤3.0                              |                                             |        |1.25±2.45| 0.3 |  6  |  Kawada et al. 1990.  |
-
-<sup>a</sup> Concentrations reported in µg/g Cr.
-
-<sup>b</sup> S.D. - Standard Deviation.
-
-<sup>c</sup> C.I. - Confidence Interval.
-
-<sup>d</sup> GSD - Geometric Standard Deviation.
-
-<sup>e</sup> Based on an assumed lognormal distribution.
-
-<sup>f</sup> Based on an assumed normal distribution.
-
-<sup>g</sup> Years following removal.
-
-<sup>h</sup> Equivalent to 50 for 20-22 yrs
+|                      Study number                      |  Work environment (worker population monitored)  |       Number in Study (n)       |                    Employment in years (mean)                    |     Mean Concentration of cadmium in air (µg/m<sup>3</sup>)      |Concentration of cadmium in Urine <sup>a</sup>|        |         |     |     |                       |
+|--------------------------------------------------------|--------------------------------------------------|---------------------------------|------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------------------|--------|---------|-----|-----|-----------------------|
+|          Arithmetic mean (±S.D.) <sup>b</sup>          |    Absolute range or (95% C.I.) <sup>c</sup>     |Geometric mean (GSD) <sup>d</sup>|Lower 95th percentile of range <sup>e</sup>  <br/>( ) <sup>f</sup>|Upper 95th percentile of range <sup>e</sup>  <br/>( ) <sup>f</sup>|                  Reference                   |        |         |     |     |                       |
+|                           1                            |   Ni-Cd battery plant and Cd production plant    |                                 |                               3-40                               |                               ≤90                                |                                              |        |         |     |     | Lauwerys et al. 1976. |
+|                                                        |         (Workers without kidney lesions)         |               96                |                                                                  |                                                                  |                  16.3±16.7                   |        |         | (0) |(44) |                       |
+|                                                        |           (Workers with kidney lesions)          |               25                |                                                                  |                                                                  |                  48.2±42.6                   |        |         | (0) |(120)|                       |
+|                           2                            |               Ni-Cd battery plant                |                                 |                                                                  |                                                                  |                                              |        |         |     |     |Adamsson et al. (1979).|
+|                                                        |                     (Smokers)                    |                7                |                               (5)                                |                               10.1                               |                     5.5                      |1.0-14.7|         |     |     |                       |
+|                                                        |                   (Nonsmokers)                   |                8                |                               (9)                                |                               7.0                                |                     3.6                      |0.5-9.3 |         |     |     |                       |
+|                           3                            |        Cadmium salts production facility         |               148               |                              (15.4)                              |                                                                  |                     15.8                     | 2-150  |         |     |     | Butchet et al. 1980.  |
+|                           4                            |Retrospective study of workers with renal problems|               19                |                              15-41                               |                                                                  |                                              |        |         |     |     |  Roels et al. 1982.   |
+|                                                        |                 (Before removal)                 |                                 |                              (27.2)                              |                                                                  |                  39.4±28.1                   |10.8-117|         | (0) |(88) |                       |
+|                                                        |                  (After removal)                 |                                 |                        (4.2) <sup>g</sup>                        |                                                                  |                   16.4±9.0                   |80-42.3 |         |(1.0)|(32) |                       |
+|                           5                            |             Cadmium production plant             |                                 |                                                                  |                                                                  |                                              |        |         |     |     |  Ellis et al. 1983.   |
+|                                                        |        (Workers without renal dysfunction)       |               33                |                               1-34                               |                                                                  |                   9.4±6.9                    |  2-27  |         | (0) |(21) |                       |
+|                                                        |         (Workers with renal dysfunction)         |               18                |                              10-34                               |                                                                  |                  22.8±12.7                   |  8-55  |         | (1) |(45) |                       |
+|                           6                            |                Cd-Cu alloy plant                 |               75                |                             Up to 39                             |                              Note h                              |                   6.9±9.4                    |        |         | (0) |(23) |  Mason et al. 1988.   |
+|                           7                            |            Cadmium recovery operation            |               45                |                               (19)                               |                                87                                |                   9.3±6.9                    |        |         | (0) |(21) |   Thun et al. 1989.   |
+|                           8                            |           Pigment manufacturing plant            |               29                |                              (12.8)                              |                             0.18-3.0                             |                                              |0.2-9.5 |   1.1   |     |     | Mueller et al. 1989.  |
+|                           9                            |           Pigment manufacturing plant            |               26                |                              (12.1)                              |                               ≤3.0                               |                                              |        |1.25±2.45| 0.3 |  6  |  Kawada et al. 1990.  |
+|    <sup>a</sup> Concentrations reported in µg/g Cr.    |                                                  |                                 |                                                                  |                                                                  |                                              |        |         |     |     |                       |
+|         <sup>b</sup> S.D.—Standard Deviation.          |                                                  |                                 |                                                                  |                                                                  |                                              |        |         |     |     |                       |
+|         <sup>c</sup> C.I.—Confidence Interval.         |                                                  |                                 |                                                                  |                                                                  |                                              |        |         |     |     |                       |
+|     <sup>d</sup> GSD—Geometric Standard Deviation.     |                                                  |                                 |                                                                  |                                                                  |                                              |        |         |     |     |                       |
+|<sup>e</sup> Based on an assumed lognormal distribution.|                                                  |                                 |                                                                  |                                                                  |                                              |        |         |     |     |                       |
+| <sup>f</sup> Based on an assumed normal distribution.  |                                                  |                                 |                                                                  |                                                                  |                                              |        |         |     |     |                       |
+|         <sup>g</sup> Years following removal.          |                                                  |                                 |                                                                  |                                                                  |                                              |        |         |     |     |                       |
+|      <sup>h</sup> Equivalent to 50 for 20-22 yrs       |                                                  |                                 |                                                                  |                                                                  |                                              |        |         |     |     |                       |
 
 Data in Table 8 from Lauwerys et al. (1976) and Ellis et al. (1983) indicate that CDU concentrations are higher among those exhibiting kidney lesions or dysfunction than among those lacking these symptoms. Data from the study by Roels et al. (1982) indicate that CDU levels decrease among workers removed from occupational exposure to cadmium in comparison to workers experiencing ongoing exposure. In both cases, however, the distinction between the 2 groups is not as clear as with CDB; there is more overlap in CDU levels observed among each of the paired populations than is true for corresponding CDB levels. As with CDB levels, the data in Table 8 suggest increased CDU concentrations among workers who experienced increased overall exposure.
 
@@ -2555,53 +2474,39 @@ As indicated in Section 4.3, the concentration of B2MU may serve as an early ind
 
 Most of the studies listed in Table 9 report B2MU levels for those who were not occupationally exposed to cadmium. Studies noted in the second column of this table (which contain the footnote “d”) reported B2MU concentrations among cadmium-exposed workers who, nonetheless, showed *no* signs of proteinuria. These latter studies are included in this table because, as indicated in Section 4.3, monitoring B2MU is intended to provide advanced warning of the onset of kidney dysfunction associated with cadmium exposure, rather than to distinguish relative exposure. This table, therefore, indicates the range of B2MU levels observed among those who had no symptoms of renal dysfunction (including cadmium-exposed workers with none of these symptoms).
 
-Table 9 - B-2-Microglobulin Concentrations Observed in Urine Among Those not Occupationally Exposed to Cadmium
-
-|Study No.|  No. in study   |     Geometric mean      |Geometric standard deviation|Lower 95th percentile of distribution<sup>a</sup>|Upper 95th percentile of distribution<sup>a</sup>|       Reference        |
-|---------|-----------------|-------------------------|----------------------------|-------------------------------------------------|-------------------------------------------------|------------------------|
-|    1    |133 m<sup>b</sup>|  115 µg/g<sup>c</sup>   |            4.03            |                       12                        |             1,140 µg/g<sup>c</sup>              | Ishizaki et al. 1989.  |
-|    2    |161 f<sup>b</sup>|  146 µg/g<sup>c</sup>   |            3.11            |                       23                        |              940 µg/g<sup>c</sup>               | Ishizaki et al. 1989.  |
-|    3    |       10        |         84 µg/g         |                            |                                                 |                                                 |   Ellis et al. 1983.   |
-|    4    |       203       |         76 µg/l         |                            |                                                 |                                                 |Stewart and Hughes 1981.|
-|    5    |        9        |        103 µg/g         |                            |                                                 |                                                 |   Chia et al. 1989.    |
-|    6    | 47<sup>d</sup>  |         86 µg/L         |            1.9             |                     30 µg/1                     |                    250 µg/L                     |Kjellstrom et al. 1977. |
-|    7    |1,000<sup>e</sup>|68.1 µg/gr Cr<sup>f</sup>|         3.1 m & f          |            \<10 µg/gr Cr<sup>h</sup>            |            320 µg/gr Cr<sup>h</sup>             |      Kowal 1983.       |
-|    8    |       87        |   71 µg/g<sup>i</sup>   |                            |                  7<sup>h</sup>                  |                 200<sup>h</sup>                 |  Buchet et al. 1980.   |
-|    9    |       10        |      0.073 mg/24h       |                            |                                                 |                                                 |   Evrin et al. 1971.   |
-|   10    |       59        |        156 µg/g         |      1.1<sup>j</sup>       |                       130                       |                       180                       |   Mason et al. 1988.   |
-|   11    |        8        |        118 µg/g         |                            |                                                 |                                                 |   Iwao et al. 1980.    |
-|   12    |       34        |         79 µg/g         |                            |                                                 |                                                 |  Wibowo et al. 1982.   |
-|   13    |      41 m       |                         |                            |                                                 |            400 µg/gr Cr<sup>k</sup>             |   Falck et al. 1983.   |
-|   14    | 35<sup>n</sup>  |           67            |                            |                                                 |                                                 |   Roels et al. 1991.   |
-|   15    | 31<sup>d</sup>  |           63            |                            |                                                 |                                                 |   Roels et al. 1991.   |
-|   16    | 36<sup>d</sup>  |     77<sup>i</sup>      |                            |                                                 |                                                 |  Miksche et al. 1981.  |
-|   17    | 18<sup>n</sup>  |           130           |                            |                                                 |                                                 |  Kawada et al. 1989.   |
-|   18    | 32<sup>p</sup>  |           122           |                            |                                                 |                                                 |  Kawada et al. 1989.   |
-|   19    | 18<sup>d</sup>  |           295           |            1.4             |                       170                       |                       510                       |   Thun et al. 1989.    |
-
-a - Based on an assumed lognormal distribution.
-
-b - m = males, f = females.
-
-c - Aged general population from non-polluted area; 47.9% population aged 50-69; 52.1% ≥70 years of age; values reported in study.
-
-d - Exposed workers without proteinuria.
-
-e - 492 females, 484 male.
-
-f - Creatinine adjusted; males = 68.1 µg/g Cr, females = 64.3 µg/g Cr.
-
-h - Reported in the study.
-
-i - Arithmetic mean.
-
-j - Geometric standard error.
-
-k - Upper 95% tolerance limits: for Falck this is based on the 24 hour urine sample.
-
-n - Controls.
-
-p - Exposed synthetic resin and pigment workers without proteinuria; Cadmium in urine levels up to 10 µg/g Cr.
+|                                                           Study No.                                                            |   No. in study   |      Geometric mean      |Geometric standard deviation|Lower 95th percentile of distribution <sup>a</sup>|Upper 95th percentile of distribution <sup>a</sup>|       Reference        |
+|--------------------------------------------------------------------------------------------------------------------------------|------------------|--------------------------|----------------------------|--------------------------------------------------|--------------------------------------------------|------------------------|
+|                                                               1                                                                |133 m <sup>b</sup>|  115 µg/g <sup>c</sup>   |            4.03            |                        12                        |             1,140 µg/g <sup>c</sup>              | Ishizaki et al. 1989.  |
+|                                                               2                                                                |161 f <sup>b</sup>|  146 µg/g <sup>c</sup>   |            3.11            |                        23                        |              940 µg/g <sup>c</sup>               | Ishizaki et al. 1989.  |
+|                                                               3                                                                |        10        |         84 µg/g          |                            |                                                  |                                                  |   Ellis et al. 1983.   |
+|                                                               4                                                                |       203        |         76 µg/l          |                            |                                                  |                                                  |Stewart and Hughes 1981.|
+|                                                               5                                                                |        9         |         103 µg/g         |                            |                                                  |                                                  |   Chia et al. 1989.    |
+|                                                               6                                                                | 47 <sup>d</sup>  |         86 µg/L          |            1.9             |                     30 µg/1                      |                     250 µg/L                     |Kjellstrom et al. 1977. |
+|                                                               7                                                                |1,000 <sup>e</sup>|68.1 µg/gr Cr <sup>f</sup>|         3.1 m & f          |            \<10 µg/gr Cr <sup>h</sup>            |            320 µg/gr Cr <sup>h</sup>             |      Kowal 1983.       |
+|                                                               8                                                                |        87        |   71 µg/g <sup>i</sup>   |                            |                  7 <sup>h</sup>                  |                 200 <sup>h</sup>                 |  Buchet et al. 1980.   |
+|                                                               9                                                                |        10        |       0.073 mg/24h       |                            |                                                  |                                                  |   Evrin et al. 1971.   |
+|                                                               10                                                               |        59        |         156 µg/g         |      1.1 <sup>j</sup>      |                       130                        |                       180                        |   Mason et al. 1988.   |
+|                                                               11                                                               |        8         |         118 µg/g         |                            |                                                  |                                                  |   Iwao et al. 1980.    |
+|                                                               12                                                               |        34        |         79 µg/g          |                            |                                                  |                                                  |  Wibowo et al. 1982.   |
+|                                                               13                                                               |       41 m       |                          |                            |                                                  |            400 µg/gr Cr <sup>k</sup>             |   Falck et al. 1983.   |
+|                                                               14                                                               | 35 <sup>n</sup>  |            67            |                            |                                                  |                                                  |   Roels et al. 1991.   |
+|                                                               15                                                               | 31 <sup>d</sup>  |            63            |                            |                                                  |                                                  |   Roels et al. 1991.   |
+|                                                               16                                                               | 36 <sup>d</sup>  |     77 <sup>i</sup>      |                            |                                                  |                                                  |  Miksche et al. 1981.  |
+|                                                               17                                                               | 18 <sup>n</sup>  |           130            |                            |                                                  |                                                  |  Kawada et al. 1989.   |
+|                                                               18                                                               | 32 <sup>p</sup>  |           122            |                            |                                                  |                                                  |  Kawada et al. 1989.   |
+|                                                               19                                                               | 18 <sup>d</sup>  |           295            |            1.4             |                       170                        |                       510                        |   Thun et al. 1989.    |
+|                                         a—Based on an assumed lognormal distribution.                                          |                  |                          |                            |                                                  |                                                  |                        |
+|                                                   b—m = males, f = females.                                                    |                  |                          |                            |                                                  |                                                  |                        |
+|c—Aged general population from non-polluted area; 47.9% population aged 50-69; 52.1% ≥70 years of age; values reported in study.|                  |                          |                            |                                                  |                                                  |                        |
+|                                             d—Exposed workers without proteinuria.                                             |                  |                          |                            |                                                  |                                                  |                        |
+|                                                    e—492 females, 484 male.                                                    |                  |                          |                            |                                                  |                                                  |                        |
+|                              f—Creatinine adjusted; males = 68.1 µg/g Cr, females = 64.3 µg/g Cr.                              |                  |                          |                            |                                                  |                                                  |                        |
+|                                                    h—Reported in the study.                                                    |                  |                          |                            |                                                  |                                                  |                        |
+|                                                       i—Arithmetic mean.                                                       |                  |                          |                            |                                                  |                                                  |                        |
+|                                                  j—Geometric standard error.                                                   |                  |                          |                            |                                                  |                                                  |                        |
+|                       k—Upper 95% tolerance limits: for Falck this is based on the 24 hour urine sample.                       |                  |                          |                            |                                                  |                                                  |                        |
+|                                                          n—Controls.                                                           |                  |                          |                            |                                                  |                                                  |                        |
+|          p—Exposed synthetic resin and pigment workers without proteinuria; Cadmium in urine levels up to 10 µg/g Cr.          |                  |                          |                            |                                                  |                                                  |                        |
 
 To the extent possible, the studies listed in Table 9 provide geometric means and geometric standard deviations for measurements among the groups defined in each study. For studies reporting a geometric standard deviation along with a mean, the lower and upper 95th percentile for these distributions were derived and reported in the table.
 
@@ -2613,43 +2518,33 @@ Determining a reasonable upper limit from the range of B2M concentrations observ
 
 Table 10 presents results from studies reporting B2MU determinations among those occupationally exposed to cadmium in the work place; in some of these studies, kidney dysfunction was observed among exposed workers, while other studies did not make an effort to distinguish among exposed workers based on kidney dysfunction. As with Table 9, this table provides geometric means and geometric standard deviations for the groups defined in each study if available. For studies reporting a geometric standard deviation along with a mean, the lower and upper 95th percentiles for the distributions are derived and reported in the table.
 
-Table 10 - B-2-Microglobulin Concentrations Observed in Urine Among Occupationally-Exposed workers
-
-|            Study No.            |       N       |Concentration of B-2-Microglobulin in urine|        Reference         |                |                   |                        |
-|---------------------------------|---------------|-------------------------------------------|--------------------------|----------------|-------------------|------------------------|
-|Geometric mean (µg/g)<sup>a</sup>| Geom std dev  |        L 95% of range<sup>b</sup>         |U 95% of range<sup>b</sup>|                |                   |                        |
-|                1                | 1,42  <br/>4  |                    160                    |           6.19           |      8.1       |       3,300       | Ishizaki et al., 1989. |
-|                2                | 1,75  <br/>4  |                    260                    |           6.50           |       12       |       5,600       | Ishizaki et al., 1989. |
-|                3                |      33       |                    210                    |                          |                |                   |  Ellis et al., 1983.   |
-|                4                |      65       |                    210                    |                          |                |                   |   Chia et al., 1989.   |
-|                5                |<sup>c</sup> 44|                   5,700                   |           6.49           |<sup>d</sup> 300|<sup>d</sup> 98,000|Kjellstrom et al., 1977.|
-|                6                |      148      |             <sup>e</sup> 180              |                          |<sup>f</sup> 110| <sup>f</sup> 280  |  Buchet et al., 1980.  |
-|                7                |      37       |                    160                    |           3.90           |       17       |       1,500       |Kenzaburo et al., 1979. |
-|                8                |<sup>c</sup> 45|                   3,300                   |           8.7            |<sup>d</sup> 310|<sup>d</sup> 89,000|  Mason et al., 1988.   |
-|                9                |<sup>c</sup> 10|                   6,100                   |           5.99           |<sup>f</sup> 650|<sup>f</sup> 57,000|  Falck et al., 1983.   |
-|               10                |<sup>c</sup> 11|                   3,900                   |           2.96           |<sup>d</sup> 710|<sup>d</sup> 15,000| Elinder et al., 1985.  |
-|               11                |<sup>c</sup> 12|                    300                    |                          |                |                   |  Roels et al., 1991.   |
-|               12                |<sup>g</sup> 8 |                   7,400                   |                          |                |                   |  Roels et al., 1991.   |
-|               13                |<sup>c</sup> 23|            <sup>h</sup> 1,800             |                          |                |                   |  Roels et al., 1989.   |
-|               14                |      10       |                    690                    |                          |                |                   |   Iwao et al., 1980.   |
-|               15                |      34       |                    71                     |                          |                |                   |  Wibowo et al., 1982.  |
-|               16                |<sup>c</sup> 15|                   4,700                   |           6.49           |<sup>d</sup> 590|<sup>d</sup> 93,000|   Thun et al., 1989.   |
-
-<sup>a</sup> Unless otherwise stated.
-
-<sup>b</sup> Based on an assumed lognormal distribution.
-
-<sup>c</sup> Among workers diagnosed as having renal dysfunction; for Elinder this means β 2 levels greater than 300 micrograms per gram creatinine (µg/gr Cr); for Roels, 1991, range = 31 − 35, 170 µgβ2/gr Cr and geometric mean = 63 among healthy workers; for Mason β2 \>300 µg/gr Cr.
-
-<sup>d</sup> Based on a detailed review of the data by OSHA.
-
-<sup>e</sup> Arthmetic mean.
-
-<sup>f</sup> Reported in the study.
-
-<sup>g</sup> Retired workers.
-
-<sup>h</sup> 1,800 µgβ2/gr Cr for first survey; second survey = 1,600; third survey = 2,600; fourth survey = 2,600; fifth survey = 2,600.
+|                                                                                                                                                    Study No.                                                                                                                                                     |       N       |Concentration of B-2-Microglobulin in urine|         Reference         |                |                   |                        |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|-------------------------------------------|---------------------------|----------------|-------------------|------------------------|
+|                                                                                                                                        Geometric mean (µg/g) <sup>a</sup>                                                                                                                                        | Geom std dev  |        L 95% of range <sup>b</sup>        |U 95% of range <sup>b</sup>|                |                   |                        |
+|                                                                                                                                                         1                                                                                                                                                        | 1,42  <br/>4  |                    160                    |           6.19            |      8.1       |       3,300       | Ishizaki et al., 1989. |
+|                                                                                                                                                         2                                                                                                                                                        | 1,75  <br/>4  |                    260                    |           6.50            |       12       |       5,600       | Ishizaki et al., 1989. |
+|                                                                                                                                                         3                                                                                                                                                        |      33       |                    210                    |                           |                |                   |  Ellis et al., 1983.   |
+|                                                                                                                                                         4                                                                                                                                                        |      65       |                    210                    |                           |                |                   |   Chia et al., 1989.   |
+|                                                                                                                                                         5                                                                                                                                                        |<sup>c</sup> 44|                   5,700                   |           6.49            |<sup>d</sup> 300|<sup>d</sup> 98,000|Kjellstrom et al., 1977.|
+|                                                                                                                                                         6                                                                                                                                                        |      148      |             <sup>e</sup> 180              |                           |<sup>f</sup> 110| <sup>f</sup> 280  |  Buchet et al., 1980.  |
+|                                                                                                                                                         7                                                                                                                                                        |      37       |                    160                    |           3.90            |       17       |       1,500       |Kenzaburo et al., 1979. |
+|                                                                                                                                                         8                                                                                                                                                        |<sup>c</sup> 45|                   3,300                   |            8.7            |<sup>d</sup> 310|<sup>d</sup> 89,000|  Mason et al., 1988.   |
+|                                                                                                                                                         9                                                                                                                                                        |<sup>c</sup> 10|                   6,100                   |           5.99            |<sup>f</sup> 650|<sup>f</sup> 57,000|  Falck et al., 1983.   |
+|                                                                                                                                                        10                                                                                                                                                        |<sup>c</sup> 11|                   3,900                   |           2.96            |<sup>d</sup> 710|<sup>d</sup> 15,000| Elinder et al., 1985.  |
+|                                                                                                                                                        11                                                                                                                                                        |<sup>c</sup> 12|                    300                    |                           |                |                   |  Roels et al., 1991.   |
+|                                                                                                                                                        12                                                                                                                                                        |<sup>g</sup> 8 |                   7,400                   |                           |                |                   |  Roels et al., 1991.   |
+|                                                                                                                                                        13                                                                                                                                                        |<sup>c</sup> 23|            <sup>h</sup> 1,800             |                           |                |                   |  Roels et al., 1989.   |
+|                                                                                                                                                        14                                                                                                                                                        |      10       |                    690                    |                           |                |                   |   Iwao et al., 1980.   |
+|                                                                                                                                                        15                                                                                                                                                        |      34       |                    71                     |                           |                |                   |  Wibowo et al., 1982.  |
+|                                                                                                                                                        16                                                                                                                                                        |<sup>c</sup> 15|                   4,700                   |           6.49            |<sup>d</sup> 590|<sup>d</sup> 93,000|   Thun et al., 1989.   |
+|                                                                                                                                      <sup>a</sup> Unless otherwise stated.                                                                                                                                       |               |                                           |                           |                |                   |                        |
+|                                                                                                                             <sup>b</sup> Based on an assumed lognormal distribution.                                                                                                                             |               |                                           |                           |                |                   |                        |
+|<sup>c</sup> Among workers diagnosed as having renal dysfunction; for Elinder this means β 2 levels greater than 300 micrograms per gram creatinine (µg/gr Cr); for Roels, 1991, range = 31 − 35, 170 µgβ<sub>2</sub>/gr Cr and geometric mean = 63 among healthy workers; for Mason β<sub>2</sub> \>300 µg/gr Cr.|               |                                           |                           |                |                   |                        |
+|                                                                                                                           <sup>d</sup> Based on a detailed review of the data by OSHA.                                                                                                                           |               |                                           |                           |                |                   |                        |
+|                                                                                                                                           <sup>e</sup> Arthmetic mean.                                                                                                                                           |               |                                           |                           |                |                   |                        |
+|                                                                                                                                       <sup>f</sup> Reported in the study.                                                                                                                                        |               |                                           |                           |                |                   |                        |
+|                                                                                                                                          <sup>g</sup> Retired workers.                                                                                                                                           |               |                                           |                           |                |                   |                        |
+|                                                                               <sup>h</sup> 1,800 µgβ<sub>2</sub>/gr Cr for first survey; second survey = 1,600; third survey = 2,600; fourth survey = 2,600; fifth survey = 2,600.                                                                               |               |                                           |                           |                |                   |                        |
 
 The data provided in Table 10 indicate that the mean B2MU concentration observed among workers experiencing occupational exposure to cadmium (but with undefined levels of proteinuria) is 160-7400 µg/g CRTU. One of these studies reports geometric means lower than this range (*i.e.*, as low as 71 µg/g CRTU); an explanation for this wide spread in average concentrations is not available.
 
@@ -2859,7 +2754,7 @@ Pharmacia Diagnostics. (1990). Pharmacia DELFIA system B-2-microglobulin kit ins
 
 Piscator M. (1962). Proteinuria in chronic cadmium poisoning. *Archives of Environmental Health,5,* 55-62.
 
-Potts, C.L. (1965). Cadmium Proteinuria - The Health Battery Workers Exposed to Cadmium Oxide dust. Ann Occup Hyg, 3:55-61, 1965.
+Potts, C.L. (1965). Cadmium Proteinuria—The Health Battery Workers Exposed to Cadmium Oxide dust. Ann Occup Hyg, 3:55-61, 1965.
 
 Princi F. (1947). A study of industrial exposures to cadmium. *Journal of Industrial Hygiene and Toxicology, 29,* 315-320.
 
@@ -2899,7 +2794,7 @@ Takenaka et al. (1983). *Carcinogencity of Cd Chloride Aerosols in White Rates.*
 
 Thun M, Osorio A, Schober S, Hannon W, Lewis B, and Halperin W. (1989). Nephropathy in cadmium workers: Assessment of risk from airborne occupational exposure to cadmium. *British Journal of Industrial Medicine, 46,* 689-697.
 
-Thun M, Schnorr T, Smith A, Halperin W, and Lemen R. (1985). Mortality among a cohort of US cadmium production workers - an update. *Journal of the National Cancer Institute, 74,* 325-333.
+Thun M, Schnorr T, Smith A, Halperin W, and Lemen R. (1985). Mortality among a cohort of US cadmium production workers—an update. *Journal of the National Cancer Institute, 74,* 325-333.
 
 Travis D and Haddock A. (1980). Interpretation of the observed age-dependency of cadmium body burdens in man. *Environmental Research, 22,* 46-60.
 
@@ -2921,7 +2816,7 @@ Weber J. (1991b). Personal communication about interlaboratory program and shipp
 
 Wibowo A, Herber R, van Deyck W, and Zielhuis R. (1982). Biological assessment of exposure in factories with second degree usage of cadmium compounds. *International Archives of Occupational Environmental Health, 49,* 265-273.
 
-Attachment 1 - Nonmandatory Protocol for an Internal Quality Assurance/Quality Control Program
+Attachment 1—Nonmandatory Protocol for an Internal Quality Assurance/Quality Control Program
 
 The following is an example of the type of internal quality assurance/quality control program that assures adequate control to satisfy OSHA requirements under this protocol. However, other approaches may also be acceptable.
 
@@ -2979,10 +2874,8 @@ There should be at least one set of quality control samples run with any analysi
 
 Control charts for each pool of an analyte (and for each instrument in the laboratory to be used for analysis of compliance samples) should be established by plotting F/T versus date as the quality control sample results are reported. On the graph there should be lines representing the control limits for the pool, the mean F/T limits for the pool, and the theoretical F/T of 1.000. Lines representing plus or minus (±) σ should also be represented on the charts. A theoretical example of a control chart is presented in Figure 1.
 
-Figure 1 - Theoretical Example of a Control Chart for a Pool of an Analyte
-
 |     |   |   |   |   |   |   |   |   |   |   |   |1.162 (Upper Control Limit)|
-|:----|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:--------------------------|
+|-----|---|---|---|---|---|---|---|---|---|---|---|---------------------------|
 |     |   |   |   |   |   | X |   |   |   |   |   |                           |
 |     |   |   |   |   |   |   |   |   |   |   |   |   1.096 (Upper 2σ Line)   |
 |     |   | X |   |   |   |   |   |   |   |   |   |                           |
@@ -3015,7 +2908,7 @@ Corrective actions
 
 Corrective action is the term used to describe the identification and remediation of errors occurring within an analysis. Corrective action is necessary whenever the result of the analysis of any quality control sample falls outside of the established control limits. The steps involved may include simple things like checking calculations of basic instrument maintenance, or it may involve more complicated actions like major instrument repair. Whatever the source of error, it must be identified and corrected (and a Corrective Action Report (CAR) must be completed. CARs should be kept on file by the laboratory.
 
-Attachment 2 - Creatinine in Urine (Jaffe Procedure)
+Attachment 2—Creatinine in Urine (Jaffe Procedure)
 
 Intended use: The CREA pack is used in the Du Pont ACA ® discrete clinical analyzer to quantitatively measure creatinine in serum and urine.
 
@@ -3033,16 +2926,13 @@ Principles of Procedure: In the presence of a strong base such as NaOH, picrate 
 
 Reagents:
 
-|Compartment<sup>a</sup>| Form |             Ingredient             |Quantity<sup>b</sup>|
-|-----------------------|------|------------------------------------|--------------------|
-|     No. 2, 3, & 4     |Liquid|              Picrate               |     0.11 mmol.     |
-|           6           |Liquid|NaOH (for pH adjustment)<sup>c</sup>|                    |
-
-a. Compartments are numbered 1-7, with compartment #7 located closest to pack fill position #2.
-
-b. Nominal value at manufacture.
-
-c. See Precautions.
+|                                   Compartment <sup>a</sup>                                    | Form |             Ingredient              |Quantity <sup>b</sup>|
+|-----------------------------------------------------------------------------------------------|------|-------------------------------------|---------------------|
+|                                         No. 2, 3, & 4                                         |Liquid|               Picrate               |     0.11 mmol.      |
+|                                               6                                               |Liquid|NaOH (for pH adjustment) <sup>c</sup>|                     |
+|a. Compartments are numbered 1-7, with compartment #7 located closest to pack fill position #2.|      |                                     |                     |
+|                               b. Nominal value at manufacture.                                |      |                                     |                     |
+|                                      c. See Precautions.                                      |      |                                     |                     |
 
 Precautions: Compartment #6 contains 75µL of 10 N NaOH; avoid contact; skin irritant; rinse contacted area with water. Comply with OSHA'S Bloodborne Pathogens Standard while handling biological samples (29 CFR 1910.1039).
 
@@ -3051,8 +2941,6 @@ Used packs contain human body fluids; handle with appropriate care.
 FOR IN VITRO DIAGNOSTIC USEMixing and Diluting:
 
 Mixing and diluting are automatically performed by the ACA ® discrete clinical analyzer. The sample cup must contain sufficient quantity to accommodate the sample volume plus the “dead volume”; precise cup filling is not required.
-
-Sample Cup Volumes (µL)
 
 |Analyzer|Standard|Microsystem|     |   |
 |--------|--------|-----------|-----|---|
@@ -3069,7 +2957,7 @@ Specimen Collection: Serum or urine can be collected and stored by normal proced
 
 Known Interfering Substances3
 
-• Serum Protein Influence - Serum protein levels exert a direct influence on the CREA assay. The following should be taken into account when this method is used for urine samples and when it is calibrated:
+• Serum Protein Influence—Serum protein levels exert a direct influence on the CREA assay. The following should be taken into account when this method is used for urine samples and when it is calibrated:
 
 Aqueous creatinine standards or urine specimens will give CREA results depressed by approximately 0.7 mg/dL [62 µmol/L]d and will be less precise than samples containing more than 3 g/dL [30 g/L] protein.
 
@@ -3081,23 +2969,23 @@ All urine specimens should be diluted with an albumin solution to give a final p
 
 • The following cephalosporin antibiotics do not interfere with the CREA method when present at the concentrations indicated. Systematic inaccuracies (bias) due to these substances are less than or equal to 0.1 mg/dL [8.84 µmol/L] at CREA concentrations of approximately 1 mg/dL [88 µmol/L].
 
-| Antibiotic  |Peak serum level<sup>7 8 9</sup>|Drug concentration|        |    |
-|-------------|--------------------------------|------------------|--------|----|
-|    mg/dL    |            [mmol/L]            |      mg/dL       |[mmol/L]|    |
-|Cephaloridine|              1.4               |       0.3        |   25   |6.0 |
-| Cephalexin  |            0.6-2.0             |     0.2-0.6      |   25   |7.2 |
-|Cephamandole |            1.3-2.5             |     0.3-0.5      |   25   |4.9 |
-| Cephapirin  |              2.0               |       D0.4       |   25   |5.6 |
-| Cephradine  |            1.5-2.0             |     0.4-0.6      |   25   |7.1 |
-|  Cefazolin  |            2.5-5.0             |     0.55-1.1     |   50   |11.0|
+| Antibiotic  |Peak serum level <sup>7 8 9</sup>|Drug concentration|        |    |
+|-------------|---------------------------------|------------------|--------|----|
+|    mg/dL    |            [mmol/L]             |      mg/dL       |[mmol/L]|    |
+|Cephaloridine|               1.4               |       0.3        |   25   |6.0 |
+| Cephalexin  |             0.6-2.0             |     0.2-0.6      |   25   |7.2 |
+|Cephamandole |             1.3-2.5             |     0.3-0.5      |   25   |4.9 |
+| Cephapirin  |               2.0               |       D0.4       |   25   |5.6 |
+| Cephradine  |             1.5-2.0             |     0.4-0.6      |   25   |7.1 |
+|  Cefazolin  |             2.5-5.0             |     0.55-1.1     |   50   |11.0|
 
 • The following cephalosporin antibiotics have been shown to affect CREA results when present at the indicated concentrations. System inaccuracies (bias) due to these substances are greater that 0.1 mg/dL [8.84 µmol/L] at CREA concentrations of:
 
-|Antibiotic |Peak serum level<sup>8 10</sup>|Drug concentration|        |      |       |
-|-----------|-------------------------------|------------------|--------|------|-------|
-|   mg/dL   |           [mmol/L]            |      mg/dL       |[mmol/L]|Effect|       |
-|Cephalothin|              1-6              |     0.2-1.5      |  100   | 25.2 |↓20-25%|
-|Cephoxitin |              2.0              |       0.5        |  5.0   | 1.2  |↑35-40%|
+|Antibiotic |Peak serum level <sup>8 10</sup>|Drug concentration|        |      |       |
+|-----------|--------------------------------|------------------|--------|------|-------|
+|   mg/dL   |            [mmol/L]            |      mg/dL       |[mmol/L]|Effect|       |
+|Cephalothin|              1-6               |     0.2-1.5      |  100   | 25.2 |↓20-25%|
+|Cephoxitin |              2.0               |       0.5        |  5.0   | 1.2  |↑35-40%|
 
 • The single wavelength measurement used in this method eliminates interference from chromophores whose 510 nm absorbance is constant throughout the measurement period.
 
@@ -3106,8 +2994,6 @@ All urine specimens should be diluted with an albumin solution to give a final p
 d. Systeme International d'unites (S.I. Units) are in brackets.
 
 Procedure:
-
-Test Materials
 
 |             Item              |II, III Du Pont Cat. No.|IV, SX Du Pont Cat. No.|V Du Pont Cat. No.|
 |-------------------------------|------------------------|-----------------------|------------------|
@@ -3123,7 +3009,7 @@ Test Materials
 
 Test Steps: The operator need only load the sample kit and appropriate test pack(s) into a properly prepared ACA ® discrete clinical analyzer. It automatically advances the pack(s) through the test steps and prints a result(s). See the Instrument Manual of the ACA ® analyzer for details of mechanical travel of the test pack(s).
 
-Preset Creatinine (CREA) - Test Conditions• Sample Volume: 200 µL• Diluent: Purified Water• Temperature: 37.0 ±0.1 °C• Reaction Period: 29 seconds• Type of Measurement: Rate• Measurement Period: 17.07 seconds• Wavelength: 510 nm• Units: mg/dL [µmol/L]
+Preset Creatinine (CREA)—Test Conditions• Sample Volume: 200 µL• Diluent: Purified Water• Temperature: 37.0 ±0.1 °C• Reaction Period: 29 seconds• Type of Measurement: Rate• Measurement Period: 17.07 seconds• Wavelength: 510 nm• Units: mg/dL [µmol/L]
 
 CALIBRATION: The general calibration procedure is described in the Calibration/Verification chapter of the Manuals.
 
@@ -3137,17 +3023,15 @@ f. Refer to the Creatinine Standard Preparation and Calibration Procedure availa
 
 g. If the Du Pont Chemistry Controls are being used, prepare them according to the instructions on the product insert sheets.
 
-Preset Creatinine (CREA) Test Conditions
-
-|          Item          |         ACA ® II analyzer          |ACA ® III, IV, SX, V analyzer|
-|------------------------|------------------------------------|-----------------------------|
-|        Count by        |      One (1)  <br/>[Five (5)]      |             NA              |
-|     Decimal Point      |             0.0 mg/dL              |         000.0 mg/dL         |
-|        Location        |           [000.0 µmol/L]           |        [000 µmol/L]         |
-|   Assigned Starting    |               999.8                |          −1.000 E1          |
-|   Point or Offset Co   |              [9823.]               |         [−8.840 E2]         |
-|Scale Factor or Assigned|0.2000  <br/>mg/dL/count<sup>h</sup>|    2.004 E-1<sup>h</sup>    |
-|    Linear Term C1 h    |       [0.3536 µmol/L/count]        |          [1.772E1]          |
+|            Item             |          ACA ® II analyzer          |ACA ® III, IV, SX, V analyzer|
+|-----------------------------|-------------------------------------|-----------------------------|
+|          Count by           |      One (1)  <br/>[Five (5)]       |             NA              |
+|        Decimal Point        |              0.0 mg/dL              |         000.0 mg/dL         |
+|          Location           |           [000.0 µmol/L]            |        [000 µmol/L]         |
+|      Assigned Starting      |                999.8                |          −1.000 E1          |
+|Point or Offset C<sub>o</sub>|               [9823.]               |         [−8.840 E2]         |
+|  Scale Factor or Assigned   |0.2000  <br/>mg/dL/count <sup>h</sup>|   2.004 E-1 <sup>h</sup>    |
+| Linear Term C<sub>1</sub> h |        [0.3536 µmol/L/count]        |          [1.772E1]          |
 
 h. The preset scale factor (linear term) was derived from the molar absorptivity of the indicator and is based on an absorbance to activity relationship (sensitivity) of 0.596 (mA/min)/(U/L). Due to small differences in filters and electronic components between instruments, the actual scale factor (linear term) may differ slightly from that given above.
 
@@ -3178,21 +3062,19 @@ The reporting system contains error messages to warn the operator of specific ma
 
 Reference Interval
 
-|Serum:<sup>11 i</sup>|                                         |
-|:--------------------|:----------------------------------------|
-|        Males        |   0.8-1.3 md/dL  <br/>[71-115 µmol/L]   |
-|       Females       |   0.6-1.0 md/dL  <br/>[53-88 µmol/L]    |
-| Urine:<sup>12</sup> |                                         |
-|        Males        |0.6-2.5 g/24 hr  <br/>[53-221 mmol/24 hr]|
-|       Females       |0.6-1.5 g/24 hr  <br/>[53-133 mmol/24 hr]|
+|Serum: <sup>11 i</sup>|                                         |
+|----------------------|-----------------------------------------|
+|        Males         |   0.8-1.3 md/dL  <br/>[71-115 µmol/L]   |
+|       Females        |   0.6-1.0 md/dL  <br/>[53-88 µmol/L]    |
+| Urine: <sup>12</sup> |                                         |
+|        Males         |0.6-2.5 g/24 hr  <br/>[53-221 mmol/24 hr]|
+|       Females        |0.6-1.5 g/24 hr  <br/>[53-133 mmol/24 hr]|
 
 i. Reference interval data obtained from 200 apparently healthy individuals (71 males, 129 females) between the ages of 19 and 72.
 
 Each laboratory should establish its own reference intervals for CREA as performed on the analyzer.
 
 Specific Performance Characteristicsj
-
-Reproducibility<sup>k</sup>
 
 | Material  |   Mean    |Standard deviation (% CV)|          |
 |-----------|-----------|-------------------------|----------|
@@ -3201,8 +3083,6 @@ Reproducibility<sup>k</sup>
 |  Control  |   [115]   |          [4.4]          |  [4.4]   |
 |Lyophilized|   20.6    |       0.12 (0.6)        |0.37 (1.8)|
 |  Control  |  [1821]   |         [10.6]          |  [32.7]  |
-
-Correlation - Regression Statistics<sup>l</sup>
 
 |Comparative method|Slope|Intercept|Correlation coefficient| n |
 |------------------|-----|---------|-----------------------|---|
@@ -3248,7 +3128,7 @@ Bibliography
 
 12 Dicht, JJ, Reference Intervals for Serum Amylase and Urinary Creatinine on the Du Pont ACA ® Discrete Clinical Analyzer, Du Pont Company, Wilmington, DE (November 1984).
 
-Attachment 3 - Analysis of Creatinine for the Normalization of Cadmium and Beta-2-Microglobulin Concentrations in Urine (OSLTC Procedure).
+Attachment 3—Analysis of Creatinine for the Normalization of Cadmium and Beta-2-Microglobulin Concentrations in Urine (OSLTC Procedure).
 
 Matrix: Urine.
 
@@ -3264,9 +3144,7 @@ David B. Armitage,Duane Lee,
 
 *Chemists.*
 
-Organic Service Branch II, OSHA Technical Center, Salt Lake City, Utah1. General Discussion1.1 Background1.1.1. History of procedureCreatinine has been analyzed by several methods in the past. The earliest methods were of the wet chemical type. As an example, creatinine reacts with sodium picrate in basic solution to form a red complex, which is then analyzed colorimetrically (Refs. 5.1. and 5.2.).Since industrial hygiene laboratories will be analyzing for Cd and B2M in urine, they will be normalizing those concentrations to the concentration of creatinine in urine. A literature search revealed several HPLC methods (Refs. 5.3., 5.4., 5.5. and 5.6.) for creatinine in urine and because many industrial hygiene laboratories have HPLC equipment, it was desirable to develop an industrial hygiene HPLC method for creatinine in urine. The method of Hausen, Fuchs, and Wachter was chosen as the starting point for method development. SEP-PAKs were used for sample clarification and cleanup in this method to protect the analytical column. The urine aliquot which has been passed through the SEP-PAK is then analyzed by reverse-phase HPLC using ion-pair techniques.This method is very similar to that of Ogata and Taguchi (Ref. 5.6.), except they used centrifugation for sample clean-up. It is also of note that they did a comparison of their HPLC results to those of the Jaffe method (a picric acid method commonly used in the health care industry) and found a linear relationship of close to 1:1. This indicates that either HPLC or colorimetric methods may be used to measure creatinine concentrations in urine.1.1.2. Physical properties (Ref. 5.7.)Molecular weight: 113.12Molecular formula: C4-H7-N3-0Chemical name: 2-amino-1,5-dihydro-1-methyl-4H-imidazol-4-oneCAS No.: 60-27-5Melting point: 300 °C (decomposes)Appearance: white powderSolubility: soluble in water; slightly soluble in alcohol; practically insoluble in acetone, ether, and chloroformSynonyms: 1-methylglycocyamidine, 1-methylhydantoin-2-imideStructure: see Figure #1![](/graphics/ec28oc91.015.gif)1.2. Advantages1.2.1. This method offers a simple, straightforward, and specific alternative method to the Jaffe method.1.2.2. HPLC instrumentation is commonly found in many industrial hygiene laboratories.2. Sample stabilization procedure2.1. ApparatusMetal-free plastic container for urine sample.2.2. Reagents2.2.1. Stabilizing Solution -(1) Nitric acid (10%, high purity with low Cd background levels) for stabilizing urine for Cd analysis or(2) NaOH, 0.11 N, for stabilizing urine for B2M analysis.2.2.2. HPLC grade water2.3. Technique2.3.1. Stabilizing solution is added to the urine sample (see section 2.2.1.). The stabilizing solution should be such that for each 10 mL of urine, add exactly 1.0 mL of stabilizer solution. (Never add water or urine to acid or base. Always add acid or base to water or urine.) Exactly 1.0 mL of 0.11 N NaOH added to 10 mL of urine should result in a pH of 7. Or add 1.0 mL of 10% nitric acid to 10 mL of urine.2.3.2. After sample collection seal the plastic bottle securely and wrap it with an appropriate seal. Urine samples should be frozen and then shipped by overnight mail (if shipping is necessary) in an insulated container. (Do not fill plastic bottle too full. This will allow for expansion of contents during the freezing process.)2.4. The Effect of Preparation and Stabilization Techniques on Creatinine ConcentrationsThree urine samples were prepared by making one sample acidic, not treating a second sample, and adjusting a third sample to pH 7. The samples were analyzed in duplicate by two different procedures. For the first procedure a 1.0 mL aliquot of urine was put in a 100-mL volumetric flask, diluted to volume with HPLC grade water, and then analyzed directly on an HPLC. The other procedure used SEP-PAKs. The SEP-PAK was rinsed with approximately 5 mL of methanol followed by approximately 10 mL of HPLC grade water and both rinses were discarded. Then, 1.0 mL of the urine sample was put through the SEP-PAK, followed by 30 mL of HPLC grade water. The urine and water were transferred to a 100-mL volumetric flask, diluted to volume with HPLC grade water, and analyzed by HPLC. These three urine samples were analyzed on the day they were obtained and then frozen. The results show that whether the urine is acidic, untreated or adjusted to pH 7, the resulting answer for creatinine is essentially unchanged. The purpose of stabilizing the urine by making it acidic or neutral is for the analysis of Cd or B2M respectively.
-
-Comparison of Preparation & Stabilization Techniques
+Organic Service Branch II, OSHA Technical Center, Salt Lake City, Utah1. General Discussion1.1 Background1.1.1. History of procedureCreatinine has been analyzed by several methods in the past. The earliest methods were of the wet chemical type. As an example, creatinine reacts with sodium picrate in basic solution to form a red complex, which is then analyzed colorimetrically (Refs. 5.1. and 5.2.).Since industrial hygiene laboratories will be analyzing for Cd and B2M in urine, they will be normalizing those concentrations to the concentration of creatinine in urine. A literature search revealed several HPLC methods (Refs. 5.3., 5.4., 5.5. and 5.6.) for creatinine in urine and because many industrial hygiene laboratories have HPLC equipment, it was desirable to develop an industrial hygiene HPLC method for creatinine in urine. The method of Hausen, Fuchs, and Wachter was chosen as the starting point for method development. SEP-PAKs were used for sample clarification and cleanup in this method to protect the analytical column. The urine aliquot which has been passed through the SEP-PAK is then analyzed by reverse-phase HPLC using ion-pair techniques.This method is very similar to that of Ogata and Taguchi (Ref. 5.6.), except they used centrifugation for sample clean-up. It is also of note that they did a comparison of their HPLC results to those of the Jaffe method (a picric acid method commonly used in the health care industry) and found a linear relationship of close to 1:1. This indicates that either HPLC or colorimetric methods may be used to measure creatinine concentrations in urine.1.1.2. Physical properties (Ref. 5.7.)Molecular weight: 113.12Molecular formula: C4-H7-N3-0Chemical name: 2-amino-1,5-dihydro-1-methyl-4H-imidazol-4-oneCAS No.: 60-27-5Melting point: 300 °C (decomposes)Appearance: white powderSolubility: soluble in water; slightly soluble in alcohol; practically insoluble in acetone, ether, and chloroformSynonyms: 1-methylglycocyamidine, 1-methylhydantoin-2-imideStructure: see Figure #1![](/graphics/ec28oc91.015.gif)1.2. Advantages1.2.1. This method offers a simple, straightforward, and specific alternative method to the Jaffe method.1.2.2. HPLC instrumentation is commonly found in many industrial hygiene laboratories.2. Sample stabilization procedure2.1. ApparatusMetal-free plastic container for urine sample.2.2. Reagents2.2.1. Stabilizing Solution—(1) Nitric acid (10%, high purity with low Cd background levels) for stabilizing urine for Cd analysis or(2) NaOH, 0.11 N, for stabilizing urine for B2M analysis.2.2.2. HPLC grade water2.3. Technique2.3.1. Stabilizing solution is added to the urine sample (see section 2.2.1.). The stabilizing solution should be such that for each 10 mL of urine, add exactly 1.0 mL of stabilizer solution. (Never add water or urine to acid or base. Always add acid or base to water or urine.) Exactly 1.0 mL of 0.11 N NaOH added to 10 mL of urine should result in a pH of 7. Or add 1.0 mL of 10% nitric acid to 10 mL of urine.2.3.2. After sample collection seal the plastic bottle securely and wrap it with an appropriate seal. Urine samples should be frozen and then shipped by overnight mail (if shipping is necessary) in an insulated container. (Do not fill plastic bottle too full. This will allow for expansion of contents during the freezing process.)2.4. The Effect of Preparation and Stabilization Techniques on Creatinine ConcentrationsThree urine samples were prepared by making one sample acidic, not treating a second sample, and adjusting a third sample to pH 7. The samples were analyzed in duplicate by two different procedures. For the first procedure a 1.0 mL aliquot of urine was put in a 100-mL volumetric flask, diluted to volume with HPLC grade water, and then analyzed directly on an HPLC. The other procedure used SEP-PAKs. The SEP-PAK was rinsed with approximately 5 mL of methanol followed by approximately 10 mL of HPLC grade water and both rinses were discarded. Then, 1.0 mL of the urine sample was put through the SEP-PAK, followed by 30 mL of HPLC grade water. The urine and water were transferred to a 100-mL volumetric flask, diluted to volume with HPLC grade water, and analyzed by HPLC. These three urine samples were analyzed on the day they were obtained and then frozen. The results show that whether the urine is acidic, untreated or adjusted to pH 7, the resulting answer for creatinine is essentially unchanged. The purpose of stabilizing the urine by making it acidic or neutral is for the analysis of Cd or B2M respectively.
 
 | Sample  |w/o SEP-PAK g/L creatinine|with SEP-PAK g/L creatinine|
 |---------|--------------------------|---------------------------|
@@ -3278,8 +3156,6 @@ Comparison of Preparation & Stabilization Techniques
 |  pH 7   |           1.11           |           1.08            |
 
 2.5. StorageAfter 4 days and 54 days of storage in a freezer, the samples were thawed, brought to room temperature and analyzed using the same procedures as in section 2.4. The results of several days of storage show that the resulting answer of creatinine is essentially unchanged.
-
-Storage Data
 
 |          Sample          |          4 days           |         54 days          |                           |    |
 |--------------------------|---------------------------|--------------------------|---------------------------|----|
@@ -3298,4 +3174,4 @@ Storage Data
 
 The determination of creatinine in urine by HPLC is a good alternative to the Jaffe method for industrial hygiene laboratories. Sample clarification with SEP-PAKs did not change the amount of creatinine found in urine samples. However, it does protect the analytical column. The results of this creatinine in urine procedure are unaffected by the pH of the urine sample under the conditions tested by this procedure. Therefore, no special measures are required for creatinine analysis whether the urine sample has been stabilized with 10% nitric acid for the Cd analysis or brought to a pH of 7 with 0.11 N NaOH for the B2M analysis.
 
-5. References5.1. Clark, L.C.; Thompson, H.L.; *Anal. Chem.* 1949, 21, 1218.5.2. Peters, J.H.; *J. Biol. Chem.* 1942, 146, 176.5.3. Hausen, V.A.; Fuchs, D.; Wachter, H.; *J. Clin. Chem. Clin. Biochem.* 1981, 19, 373-378.5.4. Clark, P.M.S.; Kricka L.J.; Patel, A.; *J. Liq. Chrom.* 1980, 3(7), 1031-1046.5.5. Ballerini, R.; Chinol, M.; Cambi, A.; *J. Chrom.* 1979, 179, 365-369.5.6. Ogata, M.; Taguchi, T.; *Industrial Health* 1987, 25, 225-228.5.7. “Merck Index”, 11th ed.; Windholz, Martha Ed.; Merck: Rahway, N.J., 1989; p 403.5.8. Kimberly, M.; *“Determination of Cadmium in Urine by Graphite Furnace Atomic Absorption Spectrometry with Zeeman Background Correction.”,* Centers for Disease Control, Atlanta, Georgia, unpublished, update 1990.[57 FR 42389, Sept. 14, 1992, as amended at 57 FR 49272, Oct. 30, 1992; 58 FR 21781, Apr. 23, 1993; 61 FR 5508, Feb. 13, 1996; 63 FR 1288, Jan. 8, 1998; 70 FR 1142, Jan. 5, 2005; 71 FR 16672, 16673, Apr. 3, 2006; 71 FR 50189, Aug. 24, 2006; 73 FR 75585, Dec. 12, 2008; 76 FR 33608, June 8, 2011; 77 FR 17781, Mar. 26, 2012; 84 FR 21477, May 14, 2019]
+5. References5.1. Clark, L.C.; Thompson, H.L.; *Anal. Chem.* 1949, 21, 1218.5.2. Peters, J.H.; *J. Biol. Chem.* 1942, 146, 176.5.3. Hausen, V.A.; Fuchs, D.; Wachter, H.; *J. Clin. Chem. Clin. Biochem.* 1981, 19, 373-378.5.4. Clark, P.M.S.; Kricka L.J.; Patel, A.; *J. Liq. Chrom.* 1980, 3(7), 1031-1046.5.5. Ballerini, R.; Chinol, M.; Cambi, A.; *J. Chrom.* 1979, 179, 365-369.5.6. Ogata, M.; Taguchi, T.; *Industrial Health* 1987, 25, 225-228.5.7. “Merck Index”, 11th ed.; Windholz, Martha Ed.; Merck: Rahway, N.J., 1989; p 403.5.8. Kimberly, M.; *“Determination of Cadmium in Urine by Graphite Furnace Atomic Absorption Spectrometry with Zeeman Background Correction.”,* Centers for Disease Control, Atlanta, Georgia, unpublished, update 1990.[57 FR 42389, Sept. 14, 1992, as amended at 57 FR 49272, Oct. 30, 1992; 58 FR 21781, Apr. 23, 1993; 61 FR 5508, Feb. 13, 1996; 63 FR 1288, Jan. 8, 1998; 70 FR 1142, Jan. 5, 2005; 71 FR 16672, 16673, Apr. 3, 2006; 71 FR 50189, Aug. 24, 2006; 73 FR 75585, Dec. 12, 2008; 76 FR 33608, June 8, 2011; 77 FR 17781, Mar. 26, 2012; 84 FR 21477, May 14, 2019; 85 FR 8732, Feb. 18, 2020]

@@ -10,7 +10,7 @@
 
 (ii) Each business is engaged in a different economic activity;
 
-(iii) No one industry description in the Standard Industrial Classification Manual (1987) applies to the joint activities of the establishments; and
+(iii) No one industry description in the North American Industry Classification System (2007) codes applies to the joint activities of the establishments; and
 
 (iv) Separate reports are routinely prepared for each establishment on the number of employees, their wages and salaries, sales or receipts, and other business information. For example, if an employer operates a construction company at the same location as a lumber yard, the employer may consider each business to be a separate establishment.
 
@@ -29,3 +29,5 @@
 *Physician or Other Licensed Health Care Professional.* A physician or other licensed health care professional is an individual whose legally permitted scope of practice (*i.e.,* license, registration, or certification) allows him or her to independently perform, or be delegated the responsibility to perform, the activities described by this regulation.
 
 *You.* “You” means an employer as defined in section 3 of the Occupational Safety and Health Act of 1970 (29 U.S.C. 652).
+
+[66 FR 6122, Jan. 19, 2001, as amended at 85 FR 8731, Feb. 18, 2020]

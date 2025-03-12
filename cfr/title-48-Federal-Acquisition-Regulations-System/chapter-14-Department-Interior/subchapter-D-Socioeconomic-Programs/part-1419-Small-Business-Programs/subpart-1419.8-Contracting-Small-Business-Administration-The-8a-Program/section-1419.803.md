@@ -1,3 +1,1 @@
-##### 1419.803 Selecting acquisitions for the 8(a) Program. #####
-
-The CO shall first screen the acquisition for suitability for award to SBA under the Section 8(a) program, before taking action under FAR 19.501, 19.502 or 1419.503-70. After selecting acquisitions suitable for the 8(a) program, the contracting office shall provide SBA appropriate advance acquisition planning information for all acquisitions found to be suitable for the 8(a) program (*See* also 1407.1).
+##### 1419.803 [Reserved] #####
