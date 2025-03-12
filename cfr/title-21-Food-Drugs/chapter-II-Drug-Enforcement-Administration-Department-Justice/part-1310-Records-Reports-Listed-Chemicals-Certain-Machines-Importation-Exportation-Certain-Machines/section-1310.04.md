@@ -1,7 +1,5 @@
 ##### § 1310.04 Maintenance of records. #####
 
-Link to an amendment published at 85 FR 20828, Apr. 15, 2020.
-
 (a) Every record required to be kept subject to § 1310.03 for a List I chemical, a tableting machine, or an encapsulating machine shall be kept by the regulated person for 2 years after the date of the transaction.
 
 (b) Every record required to be kept subject to Section 1310.03 for List II chemical shall be kept by the regulated person for two years after the date of the transaction.
@@ -105,15 +103,19 @@ Link to an amendment published at 85 FR 20828, Apr. 15, 2020.
 
 (vi) Iodine
 
-(vii) N-phenethyl-4-piperidone (NPP)
+(vii) *N*-(1-benzylpiperidin-4-yl)-*N*-phenylpropionamide (benzylfentanyl) and its salts
 
-(viii) Pseudoephedrine, its salts, optical isomers, and salts of optical isomers
+(viii) N-phenethyl-4-piperidone (NPP)
 
-(ix) Phenylpropanolamine, its salts, optical isomers, and salts of optical isomers
+(ix) *N*-phenylpiperidin-4-amine (4-anilinopiperidine; *N*-phenyl-4-piperidinamine; 4-AP), its amides, its carbamates, and its salts
 
-(x) Red phosphorus
+(x) Pseudoephedrine, its salts, optical isomers, and salts of optical isomers
 
-(xi) White phosphorus (Other names: Yellow Phosphorus)
+(xi) Phenylpropanolamine, its salts, optical isomers, and salts of optical isomers
+
+(xii) Red phosphorus
+
+(xiii) White phosphorus (Other names: Yellow Phosphorus)
 
 (2) [Reserved]
 

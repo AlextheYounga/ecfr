@@ -82,7 +82,7 @@
 
 (ii) *Affiliated groups.* In the case of an affiliated group, the period referred to in paragraph (e)(1) of this section shall commence as of the latest taxable year in which any member of the group has changed methods.
 
-(3) *Change of method for taxable years beginning after December 31, 2017, and before January 1, 2020.* A taxpayer otherwise subject to the binding election described in paragraph (e)(1) of this section may change its method for each taxable year beginning after December 31, 2017, and before January 1, 2020, without the prior consent of the Commissioner. The taxpayer's use of a new method constitutes a binding election to use the new method for its return filed for its last year that begins before January 1, 2020, and for four taxable years thereafter.
+(3) *Change of method for taxable years beginning after December 31, 2017, and before January 1, 2020.* A taxpayer otherwise subject to the binding election described in paragraph (e)(1) of this section may change its method (on an original or an amended return) either for all taxable years beginning after December 31, 2017, and before January 1, 2020, or for its last taxable year beginning before January 1, 2020, without the prior consent of the Commissioner. The taxpayer's use of a new method constitutes a binding election to use the new method for its return filed for its last year that begins before January 1, 2020, and for four taxable years thereafter.
 
 (f) *Special rules for partnerships* - (1) *Research and experimental expenditures.* For purposes of applying this section, if research and experimental expenditures are incurred by a partnership in which the taxpayer is a partner, the taxpayer's research and experimental expenditures shall include the taxpayer's distributive share of the partnership's research and experimental expenditures.
 
@@ -210,4 +210,4 @@ Example 6.(i) *Facts.* X, a domestic corporation, is engaged in continuous resea
 
 (i) *Applicability date.* This section applies to taxable years that both begin after December 31, 2017, and end on or after December 4, 2018.
 
-[T.D. 8646, 60 FR 66503, Dec. 22, 1995, as amended by T.D. 9441, 74 FR 390, Jan. 5, 2009; T.D. 9568, 76 FR 80136, Dec. 22, 2011; T.D. 9882, 84 FR 69074, Dec. 17, 2019]
+[T.D. 8646, 60 FR 66503, Dec. 22, 1995, as amended by T.D. 9441, 74 FR 390, Jan. 5, 2009; T.D. 9568, 76 FR 80136, Dec. 22, 2011; T.D. 9882, 84 FR 69074, Dec. 17, 2019; T.D. 9882, 85 FR 29323, May 15, 2020]

@@ -36,10 +36,10 @@
 
 (A) The market test expires (including any extension period granted); or
 
-(B) The market test is expected to exceed any authorized limitation specified in §§ 3035.15 and 3035.16 §§ 3045.15 and 3045.16 during any fiscal year, whichever is earlier.
+(B) The market test is expected to exceed any authorized limitation specified in §§ 3045.15 and 3045.16 during any fiscal year, whichever is earlier.
 
 (ii) In all other instances, the Postal Service must file a request under this section at least 60 days before the requested date for the Commission's decision.
 
 (e) The Postal Service shall also file a notice of a request filed under this section in the market test proceeding's docket if the market test proceeding's docket is an active case before the Commission. This notice shall include the applicable docket number(s) for the proceeding evaluating the request.
 
-[84 FR 975, Feb. 1, 2019, as amended at 85 FR 9659, Feb. 19, 2020]
+[84 FR 975, Feb. 1, 2019, as amended at 85 FR 9659, Feb. 19, 2020; 85 FR 29325, May 15, 2020]

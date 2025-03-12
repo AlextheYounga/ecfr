@@ -1,7 +1,5 @@
 ##### § 1310.02 Substances covered. #####
 
-Link to an amendment published at 85 FR 20828, Apr. 15, 2020.
-
 The following chemicals have been specifically designated by the Administrator of the Drug Enforcement Administration as the listed chemicals subject to the provisions of this part and parts 1309 and 1313 of this chapter. Each chemical has been assigned the DEA Chemical Code Number set forth opposite it.
 
 (a) List I chemicals
@@ -38,6 +36,8 @@ The following chemicals have been specifically designated by the Administrator o
 |                                                                                           (29) N-phenethyl-4-piperidone (NPP)                                                                                           |8332|
 |                                                                                                       (30) Iodine                                                                                                       |6699|
 |                                                                                             (31) Ergocristine and its salts                                                                                             |8612|
+|                                                                   (32)N-(1-benzylpiperidin-4-yl)-N-phenylpropionamide (benzylfentanyl) and its salts                                                                    |8334|
+|                                             (33)N-phenylpiperidin-4-amine(4-anilinopiperidine; N-phenyl-4-piperidinamine; 4-AP), its amides, its carbamates, and its salts                                              |8335|
 
 (b) List II chemicals:
 
@@ -76,4 +76,4 @@ The following chemicals have been specifically designated by the Administrator o
 
 (h) If a petition is granted or the Administrator, upon his own motion, proposes to add or delete substances as listed chemicals as set forth in paragraph (c) of this section, he shall issue and publish in the Federal Register a proposal to add or delete a substance as a listed chemical. The Administrator shall permit any interested person to file written comments regarding the proposal within 30 days of the date of publication of his order in the Federal Register. The Administrator will consider any comments filed by interested persons and publish a final rule in accordance with his decision in the matter.
 
-[54 FR 31665, Aug. 1, 1989, as amended at 56 FR 48733, Sept. 26, 1991; 57 FR 43615, Sept. 22, 1992; 60 FR 19510, Apr. 19, 1995; 60 FR 32460, June 22, 1995; 62 FR 5917, Feb. 10, 1997; 65 FR 21647, Apr. 24, 2000; 65 FR 47316, Aug. 2, 2000; 66 FR 52675, Oct. 17, 2001; 71 FR 60826, Oct. 17, 2006; 72 FR 20046, Apr. 23, 2007; 72 FR 35391, July 2, 2007; 72 FR 40238, July 24, 2007; 76 FR 17781, Mar. 31, 2011; 82 FR 32460, July 14, 2017]
+[54 FR 31665, Aug. 1, 1989, as amended at 56 FR 48733, Sept. 26, 1991; 57 FR 43615, Sept. 22, 1992; 60 FR 19510, Apr. 19, 1995; 60 FR 32460, June 22, 1995; 62 FR 5917, Feb. 10, 1997; 65 FR 21647, Apr. 24, 2000; 65 FR 47316, Aug. 2, 2000; 66 FR 52675, Oct. 17, 2001; 71 FR 60826, Oct. 17, 2006; 72 FR 20046, Apr. 23, 2007; 72 FR 35391, July 2, 2007; 72 FR 40238, July 24, 2007; 76 FR 17781, Mar. 31, 2011; 82 FR 32460, July 14, 2017; 85 FR 20828, Apr. 15, 2020]

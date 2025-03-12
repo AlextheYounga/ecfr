@@ -48,7 +48,7 @@ This section lists the headings for §§ 1.904(g)-1 through 1.904(g)-3.
 
 (d) Effective/applicability date.
 
-§ 1.904(g)-3 Ordering rules for the allocation of net operating losses, net capital losses, U.S. source losses, and separate limitation losses, and for recapture of separate limitation losses, overall foreign losses, and overall domestic losses.
+§ 1.904(g)-3 Ordering rules for the allocation of net operating losses, net capital losses, U.S. source losses, and separate limitation losses, and for the recapture of separate limitation losses, overall foreign losses, and overall domestic losses.
 
 (a) In general.
 
@@ -82,4 +82,4 @@ This section lists the headings for §§ 1.904(g)-1 through 1.904(g)-3.
 
 (l) Applicability date.
 
-[T.D. 9371, 72 FR 72599, Dec. 21, 2007, as amended by T.D. 9595, 77 FR 37580, June 22, 2012; T.D 9882, 84 FR 69102, Dec. 17, 2019]
+[T.D. 9371, 72 FR 72599, Dec. 21, 2007, as amended by T.D. 9595, 77 FR 37580, June 22, 2012; T.D 9882, 84 FR 69102, Dec. 17, 2019; T.D. 9882, 85 FR 29323, May 15, 2020]
