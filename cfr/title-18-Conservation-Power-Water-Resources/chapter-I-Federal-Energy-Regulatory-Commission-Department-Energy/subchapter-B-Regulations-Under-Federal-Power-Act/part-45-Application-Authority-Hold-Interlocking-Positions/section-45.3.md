@@ -1,9 +1,7 @@
 ##### § 45.3 Timing of filing application. #####
 
-Link to an amendment published at 84 FR 7282, Mar. 4, 2019.
-
-(a) The holding of positions within the purview of section 305(b) of the Act shall be unlawful unless the holding shall have been authorized by order of the Commission. Nothing in this part shall be construed as authorizing the holding of positions within the purview of section 305(b) of the Act prior to order of the Commission on application therefor. Applications must be filed and authorization must be granted prior to holding any interlocking positions within the purview of section 305(b) of the Act; late-filed applications will be denied. The term “holding”, as used in this part, shall mean acting as, serving as, voting as, or otherwise performing or assuming the duties and responsibilities of officer or director within the purview of section 305(b) of the Act.
+(a) The holding of positions within the purview of section 305(b) of the Act shall be unlawful unless the holding shall have been authorized by order of the Commission. Nothing in this part shall be construed as authorizing the holding of positions within the purview of section 305(b) of the Act prior to order of the Commission on application therefor. Applications must be filed and authorization must be granted prior to holding any interlocking positions within the purview of section 305(b) of the Act; the Commission will consider late-filed applications on a case-by-case basis. The term “holding,” as used in this part, shall mean acting as, serving as, voting as, or otherwise performing or assuming the duties and responsibilities of officer or director within the purview of section 305(b) of the Act.
 
 (b) Absent Commission action within 60 days of a completed application to hold interlocking positions, an application will be deemed granted. Such authorization is subject to revocation by the Commission after due notice to applicant and opportunity for hearing. In any such proceeding, the burden of proof shall be upon the applicant to show that neither public nor private interests will be adversely affected by the holding of such positions.
 
-[Order 664, 70 FR 55723, Sept. 23, 2005]
+[Order 664, 70 FR 55723, Sept. 23, 2005, as amended by Order 856, 84 FR 7282, Mar. 4, 2019]

@@ -1,9 +1,9 @@
 ##### § 45.5 Supplemental information. #####
 
-Link to an amendment published at 84 FR 7282, Mar. 4, 2019.
-
 (a) *Required by Commission.* Applicants under this part shall upon request of the Commission and within such time as may be allowed, supplement any application or any supplemental application with any information required by the Commission.
 
-(b) *Notice of changes.* In the event of the applicant's resignation, withdrawal, or failure of reelection or appointment in respect to any of the positions for which authorization has been granted by the Commission, or in the event of any other material or substantial change therein, the applicant shall within 30 days after any such change occurs, give notice thereof to the Commission setting forth the position corporation, and date of termination therewith, or other material or substantial change.
+(b) *Notice of changes.* In the event of the applicant's resignation, withdrawal, or failure of reelection or appointment in respect to any of the positions for which authorization has been granted by the Commission, or in the event of any other material or substantial change therein, the applicant shall, within 60 days after any such change occurs, give notice thereof to the Commission setting forth the position, corporation, and date of termination therewith, or other material or substantial change. In the case of interlocking positions that qualify for automatic authorization pursuant to § 45.9(a), a notice of change under this section will not be required if the only change to be reported is a resignation or withdrawal from fewer than all positions held between or among affiliated public utilities, a reelection or reappointment to a position that was previously authorized, or holding a different or additional interlocking position that would qualify for automatic authorization pursuant to § 45.9(a).
 
 (c) *Reports.* All persons holding positions by authorization of the Commission under section 305(b) of the Act may be required to file such periodic or special reports as the Commission may deem necessary.
+
+[Order 141, 12 FR 8501, Dec. 19, 1947, as amended by Order 856, 84 FR 7282, Mar. 4, 2019]

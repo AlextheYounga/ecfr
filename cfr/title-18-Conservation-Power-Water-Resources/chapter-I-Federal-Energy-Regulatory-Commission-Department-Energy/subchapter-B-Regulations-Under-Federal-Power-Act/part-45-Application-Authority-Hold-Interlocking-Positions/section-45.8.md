@@ -1,7 +1,5 @@
 ##### § 45.8 Contents of application. #####
 
-Link to an amendment published at 84 FR 7282, Mar. 4, 2019.
-
 Each application shall state the following:
 
 (a) *Identification of applicant.* (1) Full name, business address and state of residence.
@@ -20,7 +18,7 @@ Each application shall state the following:
 
 (c) *Data as to positions with each public utility mentioned in paragraph* (*b*) *of this section.* (The format should be adapted to the information submitted, in keeping with completeness and conciseness. In the case of public utilities of the same holding company system, brevity will generally be promoted by submitting the information for all of the utilities involved under each subsection progressively in the order of the subsections, utilizing tables when feasible.)
 
-(1) Name of utility.
+(1) Name of utility, unless said utility does not have officers or directors.
 
 (2) Date elected or appointed, or anticipated date of election or appointment, to each position not previously authorized.
 
@@ -112,6 +110,6 @@ Each application shall state the following:
 
 (h) *Data as to the public utility holding company system.* The names of the public utility holding company systems of which each public utility listed in paragraph (b) of this section is a part, with a chart showing the corporate relationships existing between and among the corporations within the holding company systems.
 
-[Order 246, 27 FR 4912, May 25, 1962, as amended by Order 427, 36 FR 5598, Mar. 25, 1971; Order 374, 49 FR 20479, 20480, May 15, 1984; Order 435, 50 FR 40358, Oct. 3, 1985; Order 737, 75 FR 43404, July 26, 2010]Cross Reference:
+[Order 246, 27 FR 4912, May 25, 1962, as amended by Order 427, 36 FR 5598, Mar. 25, 1971; Order 374, 49 FR 20479, 20480, May 15, 1984; Order 435, 50 FR 40358, Oct. 3, 1985; Order 737, 75 FR 43404, July 26, 2010; Order 856, 84 FR 7282, Mar. 4, 2019]Cross Reference:
 
 For rules and regulations of the Securities and Exchange Commission, see 17 CFR, chap. II.
