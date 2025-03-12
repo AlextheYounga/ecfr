@@ -1,5 +1,7 @@
 ##### § 648.55 Specifications and framework adjustments to management measures. #####
 
+Link to an amendment published at 87 FR 1699, Jan. 12, 2022.
+
 (a) *Specifications.* (1) The Scallop Plan Development Team (PDT) shall meet at least every two years to assess the status of the scallop resource and to develop and recommend the following specifications for a period of up to 2 years, as well as second or third-year default measures, for consideration by the New England Fishery Management Council's Atlantic Sea Scallop Oversight Committee and Advisory Panel: OFL, overall ABC/ACL, sub-ACLs, sub-ACTs, DAS open area allocations, possession limits, modifications to rotational area management (*e.g.,* schedule, rotational closures and openings, seasonal restrictions, modifications to boundaries, etc.), access area limited access poundage allocations and LAGC IFQ fleet-wide trip allocations, annual incidental catch target TAC, and NGOM TAC.
 
 (2) Based on the PDT recommendations and any public comments received, the Atlantic Sea Scallop Oversight Committee shall recommend appropriate specifications to the New England Fishery Management Council.

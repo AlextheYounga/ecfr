@@ -1,7 +1,5 @@
 ##### § 233.3 Definitions. #####
 
-Link to an amendment published at 86 FR 70748, Dec. 13, 2021.
-
 Terms used in this part are defined in DoD Dictionary of Military Terms (available at *http://www.jcs.mil/Doctrine*) and this section. These terms and their definitions are for the purpose of this part.
 
 *Eligible voter.* Any of the following:
@@ -34,10 +32,10 @@ Terms used in this part are defined in DoD Dictionary of Military Terms (availab
 
 *State election.* Any non-Federal election held solely, or in part, for selecting, nominating, or electing any candidate for any State office, such as Governor, Lieutenant Governor, State Attorney General, or State Legislator, or on issues of Statewide interest.
 
-*Uniformed services.* The Army, Navy, Air Force, Marine Corps, and Coast Guard, the commissioned corps of the Public Health Service, and the commissioned corps of the National Oceanic and Atmospheric Administration.
+*Uniformed services.* The Army, Navy, Air Force, Marine Corps, Space Force, and Coast Guard, the commissioned corps of the Public Health Service, and the commissioned corps of the National Oceanic and Atmospheric Administration.
 
 *Voter registration agency.* An office designated pursuant to 52 U.S.C. 20506 to perform voter registration activities. Pursuant to 52 U.S.C. 20506(c), a recruitment office of the Military Services is considered to be a voter registration agency. All IVA offices are also designated as voter registration agencies pursuant to 52 U.S.C. 20506(a)(2).
 
 *Voting assistance officer (VAO).* An individual responsible for voting assistance.
 
-[77 FR 57487, Sept. 18, 2012, as amended at 84 FR 59722, Nov. 6, 2019]
+[77 FR 57487, Sept. 18, 2012, as amended at 84 FR 59722, Nov. 6, 2019; 86 FR 70748, Dec. 13, 2021]

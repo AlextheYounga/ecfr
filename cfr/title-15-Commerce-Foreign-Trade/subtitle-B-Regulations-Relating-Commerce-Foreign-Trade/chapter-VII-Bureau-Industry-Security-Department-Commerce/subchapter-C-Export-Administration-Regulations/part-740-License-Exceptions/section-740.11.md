@@ -1,6 +1,6 @@
 ##### § 740.11 Governments, international organizations, international inspections under the Chemical Weapons Convention, and the International Space Station (GOV). #####
 
-Link to an amendment published at 86 FR 58209, Oct. 21, 2021.
+Link to an amendment published at 86 FR 58209, Oct. 21, 2021.This amendment was delayed until Mar. 7, 2022, at 87 FR 1670, Jan. 12, 2022.
 
 This License Exception authorizes exports and reexports for international nuclear safeguards; U.S. government agencies or personnel; agencies of cooperating governments; international inspections under the Chemical Weapons Convention; and the International Space Station. Commodities listed in ECCN 0A501 are eligible only for transactions described in paragraphs (b)(2)(i) and (ii) of this section. Any item listed in a 0x5zz ECCN for export, reexport, or transfer (in-country) to an E:1 country is eligible only for transactions described in paragraphs (b)(2)(i) and (ii) solely for U.S. Government official use of this section.
 

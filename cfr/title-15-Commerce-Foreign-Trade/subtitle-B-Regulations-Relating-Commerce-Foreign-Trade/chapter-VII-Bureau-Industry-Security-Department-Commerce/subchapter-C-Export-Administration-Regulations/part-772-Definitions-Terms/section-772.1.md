@@ -1,6 +1,6 @@
 ##### § 772.1 Definitions of terms as used in the Export Administration Regulations (EAR). #####
 
-Link to an amendment published at 86 FR 58210, Oct. 21, 2021.
+Link to an amendment published at 86 FR 58210, Oct. 21, 2021.This amendment was delayed until Mar. 7, 2022, at 87 FR 1670, Jan. 12, 2022.
 
 The following are definitions of terms as used in the Export Administration Regulations (EAR). In this part, references to the EAR are references to 15 CFR chapter VII, subchapter C. Those terms in quotation marks refer to terms used on the Commerce Control List (CCL) (supplement no. 1 to part 774 of the EAR). Parenthetical references following the terms in quotation marks (i.e., (Cat 5)) refer to the CCL category in which that term is found. If a term is used in only one Export Control Classification Number (ECCN) on the CCL, then that term will *not* appear in this part, but will be defined in the Related Definitions paragraph in the List of Items Controlled Section of that ECCN.
 
