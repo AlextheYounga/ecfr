@@ -1,7 +1,5 @@
 ##### § 425.603 Resetting, adjusting, and updating the benchmark for a subsequent agreement period beginning on or before January 1, 2019. #####
 
-Link to an amendment published at 85 FR 85042, Dec. 28, 2020.
-
 (a) An ACO's benchmark is reset at the start of each subsequent agreement period.
 
 (b) For second agreement periods beginning in 2016, CMS establishes, adjusts, and updates the rebased historical benchmark in accordance with § 425.602(a) and (b) with the following modifications:
@@ -12,7 +10,7 @@ Link to an amendment published at 85 FR 85042, Dec. 28, 2020.
 
 (c) For second or subsequent agreement periods beginning in 2017, 2018 and on January 1, 2019, CMS establishes the rebased historical benchmark by determining the per capita Parts A and B fee-for-service expenditures for beneficiaries who would have been assigned to the ACO in any of the 3 most recent years before the agreement period using the certified ACO participant list submitted before the start of the agreement period as required under § 425.118. CMS does all of the following:
 
-(1) Calculates the payment amounts included in Parts A and B fee-for-service claims using a 3-month claims run out with a completion factor. The calculation -
+(1) Calculates the payment amounts included in Parts A and B fee-for-service claims using a 3-month claims run out with a completion factor. The calculation—
 
 (i) Excludes IME and DSH payments; and
 
@@ -60,11 +58,11 @@ Link to an amendment published at 85 FR 85042, Dec. 28, 2020.
 
 (7) Weights each benchmark year equally.
 
-(8) The ACO's benchmark will be adjusted in accordance with § 425.118(b) for the addition and removal of ACO participants or ACO providers/suppliers during the term of the agreement period. To adjust the benchmark, CMS does the following:
+(8) The ACO's benchmark is adjusted for the following, as applicable: For the addition and removal of ACO participants or ACO providers/suppliers in accordance with § 425.118(b), and for a change to the beneficiary assignment methodology specified in subpart E of this part. To adjust the benchmark, CMS does the following:
 
-(i) Takes into account the expenditures for beneficiaries who would have been assigned to the ACO in any of the 3 most recent years prior to the agreement period using the most recent certified ACO participant list for the relevant performance year.
+(i) Takes into account the expenditures for beneficiaries who would have been assigned to the ACO in any of the 3 most recent years prior to the start of the agreement period.
 
-(ii) Redetermines the regional adjustment amount under paragraph (c)(9) of this section, according to the ACO's assigned beneficiaries for BY3 resulting from the most recent certified ACO participant list for the relevant performance year.
+(ii) Redetermines the regional adjustment amount under paragraph (c)(9) of this section, according to the ACO's assigned beneficiaries for BY3.
 
 (9) Adjusts the historical benchmark based on the ACO's regional service area expenditures, making separate calculations for the following populations of beneficiaries: ESRD, disabled, aged/dual eligible Medicare and Medicaid beneficiaries, and aged/non-dual eligible Medicare and Medicaid beneficiaries. CMS does all of the following:
 
@@ -112,7 +110,7 @@ Link to an amendment published at 85 FR 85042, Dec. 28, 2020.
 
 (*iii*) If the resulting sum is a net positive value, the ACO is considered to have lower spending compared to the ACO's regional service area. If the resulting sum is a net negative value, the ACO is considered to have higher spending compared to the ACO's regional service area.
 
-(*iv*) If CMS adjusts the ACO's benchmark for the addition or removal of ACO participants or ACO providers/suppliers during the term of the agreement period as specified in paragraph (c)(8) of this section, CMS redetermines whether the ACO is considered to have lower spending or higher spending compared to the ACO's regional service area for purposes of determining the percentage used in calculating the adjustment in paragraphs (c)(9)(ii)(B)(*1*) and (*2*) of this section.
+(*iv*) If CMS adjusts the ACO's benchmark, as specified in paragraph (c)(8) of this section, CMS redetermines whether the ACO is considered to have lower spending or higher spending compared to the ACO's regional service area for purposes of determining the percentage used in calculating the adjustment in paragraphs (c)(9)(ii)(B)(*1*) and (*2*) of this section.
 
 (10) The historical benchmark is further adjusted at the time of reconciliation for a performance year to account for changes in severity and case mix for newly and continuously assigned beneficiaries using prospective HCC risk scores and demographic factors as described under §§ 425.604(a)(1) through (3), 425.606(a)(1) through (3), and 425.610(a)(1) through (3).
 
@@ -154,7 +152,7 @@ Link to an amendment published at 85 FR 85042, Dec. 28, 2020.
 
 (D) Aged/non-dual eligible Medicare and Medicaid beneficiaries.
 
-(2) Calculates assignable beneficiary expenditures using the payment amounts included in Parts A and B fee-for-service claims with dates of service in the 12-month calendar year for the relevant benchmark or performance year, using a 3-month claims run out with a completion factor. The calculation -
+(2) Calculates assignable beneficiary expenditures using the payment amounts included in Parts A and B fee-for-service claims with dates of service in the 12-month calendar year for the relevant benchmark or performance year, using a 3-month claims run out with a completion factor. The calculation—
 
 (i) Excludes IME and DSH payments; and
 
@@ -178,7 +176,7 @@ Link to an amendment published at 85 FR 85042, Dec. 28, 2020.
 
 (iv) Aged/non-dual eligible Medicare and Medicaid beneficiaries.
 
-(f) For second or subsequent agreement periods beginning in 2017, 2018, and on January 1, 2019, CMS calculates an ACO's risk adjusted regional expenditures by -
+(f) For second or subsequent agreement periods beginning in 2017, 2018, and on January 1, 2019, CMS calculates an ACO's risk adjusted regional expenditures by—
 
 (1) Weighting the risk-adjusted county-level fee-for-service expenditures determined under paragraph (e) of this section according to the ACO's proportion of assigned beneficiaries in the county, determined by the number of the ACO's assigned beneficiaries in the applicable population (according to Medicare enrollment type) residing in the county in relation to the ACO's total number of assigned beneficiaries in the applicable population (according to Medicare enrollment type) for the relevant benchmark or performance year for each of the following populations of beneficiaries:
 
@@ -200,4 +198,4 @@ Link to an amendment published at 85 FR 85042, Dec. 28, 2020.
 
 (2) When updating the benchmark using the methodology set forth in paragraph (d) of this section and § 425.609(b), CMS updates the benchmark based on growth between BY3 and CY 2019.
 
-[81 FR 38014, June 10, 2016, as amended at 82 FR 53370, Nov. 15, 2017; 83 FR 60094, Nov. 23, 2018; 83 FR 68074, Dec. 31, 2018]
+[81 FR 38014, June 10, 2016, as amended at 82 FR 53370, Nov. 15, 2017; 83 FR 60094, Nov. 23, 2018; 83 FR 68074, Dec. 31, 2018; 85 FR 85042, Dec. 28, 2020]

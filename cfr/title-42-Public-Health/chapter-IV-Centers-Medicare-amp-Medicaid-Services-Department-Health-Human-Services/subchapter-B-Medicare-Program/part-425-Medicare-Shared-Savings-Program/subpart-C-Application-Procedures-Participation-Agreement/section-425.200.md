@@ -54,7 +54,7 @@ Link to an amendment published at 85 FR 85038, Dec. 28, 2020.
 
 (3) For an ACO that entered an agreement period with a start date of July 1, 2019, the ACO's first performance year of the agreement period is defined as the 6-month period between July 1, 2019, and December 31, 2019.
 
-(d) *Submission of measures.* For each performance year of the agreement period, ACOs must submit measures in the form and manner required by CMS according to § 425.500(c), and as applicable according to §§ 425.608 and 425.609.
+(d) *Submission of measures.* For each performance year of the agreement period, ACOs must submit measures in the form and manner required by CMS according to § 425.500(c) or § 425.510, as applicable, and as applicable according to §§ 425.608 and 425.609.
 
 (e) *Optional fourth year.* (1) To qualify for a fourth performance year as described in paragraph (b)(3)(ii) of this section, the ACO must meet all of the following conditions:
 
@@ -76,4 +76,4 @@ Link to an amendment published at 85 FR 85038, Dec. 28, 2020.
 
 (ii) Not eligible to participate in the Shared Savings Program again until after the date on which the term of that second agreement period would have expired if the ACO had not terminated its participation, consistent with § 425.222.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32837, June 9, 2015; 81 FR 38013, June 10, 2016; 83 FR 60092, Nov. 23, 2018; 83 FR 68063, Dec. 31, 2018; 85 FR 27625, May 8, 2020]
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32837, June 9, 2015; 81 FR 38013, June 10, 2016; 83 FR 60092, Nov. 23, 2018; 83 FR 68063, Dec. 31, 2018; 85 FR 27625, May 8, 2020; 85 FR 85038, Dec. 28, 2020]

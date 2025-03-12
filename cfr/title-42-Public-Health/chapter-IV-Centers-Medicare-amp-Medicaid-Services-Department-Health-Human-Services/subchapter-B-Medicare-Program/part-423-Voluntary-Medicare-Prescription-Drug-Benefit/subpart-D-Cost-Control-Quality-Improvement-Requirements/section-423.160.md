@@ -1,6 +1,6 @@
 ##### § 423.160 Standards for electronic prescribing. #####
 
-Link to an amendment published at 84 FR 23883, May 23, 2019.Link to an amendment published at 85 FR 85037, Dec. 28, 2020.Link to an amendment published at 85 FR 86835, Dec. 31, 2020.
+Link to an amendment published at 85 FR 86835, Dec. 31, 2020.Link to a delay of the above amendment published at 86 FR 7813, Feb. 2, 2021.
 
 (a) *General rules.* (1) Part D sponsors must establish and maintain an electronic prescription drug program that complies with the applicable standards in paragraph (b) of this section when transmitting, directly or through an intermediary, prescriptions and prescription-related information using electronic media for covered Part D drugs for Part D eligible individuals.
 
@@ -19,6 +19,8 @@ Link to an amendment published at 84 FR 23883, May 23, 2019.Link to an amendment
 (i) Is contrary to the standards or restricts the ability to carry out Part D of Title XVIII of the Act; and
 
 (ii) Pertains to the electronic transmission of medication history and of information on eligibility, benefits, and prescriptions with respect to covered Part D drugs under Part D of Title XVIII of the Act.
+
+(5) On January 1, 2021, prescribers must, except in circumstances in which the Secretary waives the requirement, conduct all prescribing for all Schedule II, III, IV, and V controlled substances electronically using the applicable standards in paragraph (b) of this section. Compliance actions against those not in compliance with this requirement will commence January 1, 2022.
 
 (b) *Standards.* (1) Entities described in paragraph (a) of this section must comply with the following adopted standards for transactions under this section:
 
@@ -188,6 +190,8 @@ Link to an amendment published at 84 FR 23883, May 23, 2019.Link to an amendment
 
 (6) *Provider identifier.* The National Provider Identifier (NPI), as defined at 45 CFR 162.406, to identify an individual health care provider to Medicare Part D sponsors, prescribers and dispensers, in electronically transmitted prescriptions or prescription-related materials for Medicare Part D covered drugs for Medicare Part D eligible individuals.
 
+(7) *Real time benefit tools.* No later than January 1, 2021, implement one or more electronic real-time benefit tools (RTBT) that are capable of integrating with at least one prescriber's e-Prescribing (eRx) system or electronic health record (EHR) to provide complete, accurate, timely, clinically appropriate, patient-specific formulary and benefit information to the prescriber in real time for assessing coverage under the Part D plan. Such information must include enrollee cost-sharing information, clinically appropriate formulary alternatives, when available, and the formulary status of each drug presented including any utilization management requirements applicable to each alternative drug.
+
 (c) *Incorporation by reference.* The Director of the Federal Register approves, in accordance with 5 U.S.C. 552(a) and 1 CFR part 51, the incorporation by reference of certain publications into this section. You may inspect copies of these publications at the headquarters of the Centers for Medicare & Medicaid Services (CMS), 7500 Security Boulevard, Baltimore, Maryland 21244, Monday through Friday from 8:30 a.m. to 4 p.m. or at the National Archives and Records Administration (NARA). For more information on the availability of this material at NARA, call (202) 741-6030, or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* The publications approved for incorporation by reference and their original sources are as follows:
 
 (1) National Council for Prescription Drug Programs, Incorporated, 9240 E. Raintree Drive, Scottsdale, AZ 85260-7518; Telephone (480) 477-1000; and Facsimile (480) 767-1042 or *http://www.ncpdp.org.*
@@ -212,4 +216,4 @@ Link to an amendment published at 84 FR 23883, May 23, 2019.Link to an amendment
 
 (ii) [Reserved]
 
-(Authority: Section 1860D-4(e) of the Social Security Act (42 U.S.C. 1395w-104(e)))[70 FR 67593, Nov. 7, 2005, as amended at 71 FR 36023, June 23, 2006; 72 FR 66405, Nov. 27, 2007; 73 FR 18941, Apr. 7, 2008; 73 FR 69938, Nov. 19, 2008; 75 FR 38030, July 1, 2010; 77 FR 29030, May 16, 2012; 77 FR 69371, Nov. 16, 2012; 78 FR 74822, Dec. 10, 2013; 83 FR 16743, Apr. 16, 2018; 83 FR 27915, June 15, 2018]
+(Authority: Section 1860D-4(e) of the Social Security Act (42 U.S.C. 1395w-104(e)))[70 FR 67593, Nov. 7, 2005, as amended at 71 FR 36023, June 23, 2006; 72 FR 66405, Nov. 27, 2007; 73 FR 18941, Apr. 7, 2008; 73 FR 69938, Nov. 19, 2008; 75 FR 38030, July 1, 2010; 77 FR 29030, May 16, 2012; 77 FR 69371, Nov. 16, 2012; 78 FR 74822, Dec. 10, 2013; 83 FR 16743, Apr. 16, 2018; 83 FR 27915, June 15, 2018; 84 FR 23883, May 23, 2019; 85 FR 85037, Dec. 28, 2020]

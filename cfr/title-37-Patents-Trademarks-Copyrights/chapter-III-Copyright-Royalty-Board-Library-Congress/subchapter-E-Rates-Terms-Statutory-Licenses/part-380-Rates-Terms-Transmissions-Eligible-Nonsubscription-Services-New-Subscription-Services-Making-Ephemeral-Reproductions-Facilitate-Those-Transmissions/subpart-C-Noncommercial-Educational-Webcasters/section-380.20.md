@@ -1,9 +1,17 @@
-##### § 380.20 General. #####
+##### § 380.20 Definitions. #####
 
-(a) *Scope.* This subpart establishes rates and terms, including requirements for royalty payments, recordkeeping and reports of use, for the public performance of sound recordings in certain digital transmissions made by Noncommercial Educational Webcasters as set forth herein in accordance with the provisions of 17 U.S.C. 114, and the making of Ephemeral Recordings by Noncommercial Educational Webcasters as set forth herein in accordance with the provisions of 17 U.S.C. 112(e), during the period January 1, 2016, through December 31, 2020.
+For purposes of this subpart, the following definitions apply:
 
-(b) *Legal compliance.* Noncommercial Educational Webcasters relying upon the statutory licenses set forth in 17 U.S.C. 112(e) and 114 shall comply with the requirements of those sections, the rates and terms of this subpart, and any other applicable regulations not inconsistent with the rates and terms set forth herein.
+*Educational Transmission* means an eligible nonsubscription transmission (as defined in 17 U.S.C. 114(j)(6)) made by a Noncommercial Educational Webcaster over the internet.
 
-(c) *Relationship to voluntary agreements.* Notwithstanding the royalty rates and terms established in this subpart, the rates and terms of any license agreements entered into by Copyright Owners and digital audio services shall apply in lieu of the rates and terms of this subpart to transmissions within the scope of such agreements.
+*Noncommercial Educational Webcaster* means a noncommercial webcaster (as defined in 17 U.S.C. 114(f)(4)(E)(i)) that:
 
-[79 FR 23127, Apr. 25, 2014, as amended at 80 FR 58205, Sept. 28, 2015]
+(1) Has obtained a compulsory license under 17 U.S.C. 112(e) and 114 and the implementing regulations therefor to make Educational Transmissions and related Ephemeral Recordings;
+
+(2) Complies with all applicable provisions of Sections 112(e) and 114 and applicable regulations in 37 CFR part 380;
+
+(3) Is directly operated by, or is affiliated with and officially sanctioned by, and the digital audio transmission operations of which are staffed substantially by students enrolled at, a domestically accredited primary or secondary school, college, university or other post-secondary degree-granting educational institution;
+
+(4) Is not a “public broadcasting entity” (as defined in 17 U.S.C. 118(f)) qualified to receive funding from the Corporation for Public Broadcasting pursuant to its criteria; and
+
+(5) Takes affirmative steps not to make total transmissions in excess of 159,140 Aggregate Tuning Hours (ATH) on any individual channel or station in any month, if in any previous calendar year it has made total transmissions in excess of 159,140 ATH on any individual channel or station in any month.

@@ -1,7 +1,5 @@
 ##### § 679.23 Seasons. #####
 
-Link to an amendment published at 85 FR 38100, June 25, 2020.
-
 (a) *Groundfish, general.* Fishing for groundfish in the GOA and BSAI is authorized from 0001 hours, A.l.t., January 1, through 2400 hours, A.l.t., December 31, subject to the other provisions of this part, except as provided in paragraph (c) of this section.
 
 (b) *Time of groundfish openings and closures.* The time of all openings and closures of fishing seasons, other than the beginning and end of the calendar fishing year, is 1200 hours, A.l.t.
@@ -10,15 +8,11 @@ Link to an amendment published at 85 FR 38100, June 25, 2020.
 
 (d) *GOA groundfish seasons* - (1) *Directed fishing for trawl rockfish.* Directed fishing for rockfish with trawl gear is authorized from 1200 hours, A.l.t., on the first day of the third quarterly reporting period of a fishing year through 2400 hours, A.l.t., December 31, subject to other provisions of this part.
 
-(2) *Directed fishing for pollock.* Subject to other provisions of this part, directed fishing for pollock in the Western and Central Regulatory Areas is authorized only during the following four seasons:
+(2) *Directed fishing for pollock.* Subject to other provisions of this part, directed fishing for pollock in the Western and Central Regulatory Areas is authorized only during the following two seasons:
 
-(i) *A season.* From 1200 hours, A.l.t., January 20 through 1200 hours, A.l.t., March 10;
+(i) *A season.* From 1200 hours, A.l.t., January 20 through 1200 hours, A.l.t., May 31; and
 
-(ii) *B season.* From 1200 hours, A.l.t., March 10 through 1200 hours, A.l.t., May 31;
-
-(iii) *C season.* From 1200 hours, A.l.t., August 25 through 1200 hours, A.l.t., October 1; and
-
-(iv) *D season.* From 1200 hours, A.l.t., October 1 through 1200 hours, A.l.t., November 1.
+(ii) *B season.* From 1200 hours, A.l.t., September 1 through 1200 hours, A.l.t., November 1.
 
 (3) *Directed fishing for Pacific cod* (i) *Hook-and-line or pot gear.* Subject to other provisions of this part, directed fishing for Pacific cod with hook-and-line or pot gear in the Western and Central GOA Regulatory Areas is authorized only during the following two seasons:
 

@@ -1,8 +1,6 @@
 ##### § 210.3-09 Separate financial statements of subsidiaries not consolidated and 50 percent or less owned persons. #####
 
-Link to an amendment published at 85 FR 54062, Aug. 31, 2020.
-
-(a) If any of the conditions set forth in § 210.1-02(w), substituting 20 percent for 10 percent in the tests used therein to determine a significant subsidiary, are met for a majority-owned subsidiary not consolidated by the registrant or by a subsidiary of the registrant, separate financial statements of such subsidiary shall be filed. Similarly, if either the first or third condition set forth in § 210.1-02(w), substituting 20 percent for 10 percent, is met by a 50 percent or less owned person accounted for by the equity method either by the registrant or a subsidiary of the registrant, separate financial statements of such 50 percent or less owned person shall be filed.
+(a) If any of the conditions set forth in § 210.1-02(w), substituting 20 percent for 10 percent in the tests used therein to determine a significant subsidiary, are met for a majority-owned subsidiary not consolidated by the registrant or by a subsidiary of the registrant, separate financial statements of such subsidiary must be filed. Similarly, if either the first or third condition set forth in § 210.1-02(w)(1), substituting 20 percent for 10 percent, is met by a 50 percent or less owned person accounted for by the equity method either by the registrant or a subsidiary of the registrant, separate financial statements of such 50 percent or less owned person must be filed.
 
 (b) Insofar as practicable, the separate financial statements required by this section shall be as of the same dates and for the same periods as the audited consolidated financial statements required by §§ 210.3-01 and 3-02. However, these separate financial statements are required to be audited only for those fiscal years in which either the first or third condition set forth in § 210.1-02(w), substituting 20 percent for 10 percent, is met. For purposes of a filing on Form 10-K (§ 249.310 of this chapter):
 
@@ -30,4 +28,4 @@ Link to an amendment published at 85 FR 54062, Aug. 31, 2020.
 
 (d) If the 50 percent or less owned person is a foreign business, financial statements of the business meeting the requirements of Item 17 of Form 20-F (§ 249.220f of this chapter) will satisfy this section.
 
-[46 FR 56179, Nov. 16, 1981, as amended at 47 FR 29837, July 9, 1982; 57 FR 45292, Oct. 1, 1992; 59 FR 65636, Dec. 20, 1994; 67 FR 58504, Sept. 16, 2002; 69 FR 68235, Nov. 23, 2004; 70 FR 76640, Dec. 27, 2005]
+[46 FR 56179, Nov. 16, 1981, as amended at 47 FR 29837, July 9, 1982; 57 FR 45292, Oct. 1, 1992; 59 FR 65636, Dec. 20, 1994; 67 FR 58504, Sept. 16, 2002; 69 FR 68235, Nov. 23, 2004; 70 FR 76640, Dec. 27, 2005; 85 FR 54062, Aug. 31, 2020]

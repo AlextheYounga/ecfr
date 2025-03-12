@@ -1,7 +1,5 @@
 ##### § 424.518 Screening levels for Medicare providers and suppliers. #####
 
-Link to an amendment published at 85 FR 70355, Nov. 4, 2020.Link to an amendment published at 85 FR 85038, Dec. 28, 2020.
-
 A Medicare contractor is required to screen all initial applications, including applications for a new practice location, and any applications received in response to a revalidation request based on a CMS assessment of risk and assignment to a level of “limited,” “moderate,” or “high.”
 
 (a) *Limited categorical risk* - (1) *Limited categorical risk: Provider and supplier categories.* CMS has designated the following providers and suppliers as “limited” categorical risk:
@@ -18,25 +16,29 @@ A Medicare contractor is required to screen all initial applications, including 
 
 (vi) Histocompatibility laboratories.
 
-(vii) Hospitals, including critical access hospitals, Department of Veterans Affairs hospitals, and other federally owned hospital facilities.
+(vii) Home infusion therapy suppliers.
 
-(viii) Health programs operated by an Indian Health Program (as defined in section 4(12) of the Indian Health Care Improvement Act) or an urban Indian organization (as defined in section 4(29) of the Indian Health Care Improvement Act) that receives funding from the Indian Health Service pursuant to Title V of the Indian Health Care Improvement Act.
+(viii) Hospitals, including critical access hospitals, Department of Veterans Affairs hospitals, and other federally owned hospital facilities.
 
-(ix) Mammography screening centers.
+(ix) Health programs operated by an Indian Health Program (as defined in section 4(12) of the Indian Health Care Improvement Act) or an urban Indian organization (as defined in section 4(29) of the Indian Health Care Improvement Act) that receives funding from the Indian Health Service pursuant to Title V of the Indian Health Care Improvement Act.
 
-(x) Mass immunization roster billers
+(x) Mammography screening centers.
 
-(xi) Organ procurement organizations.
+(xi) Mass immunization roster billers
 
-(xii) Pharmacies newly enrolling or revalidating via the CMS-855B application.
+(xii) Opioid treatment programs (if § 424.67(b)(3)(ii) applies).
 
-(xiii) Radiation therapy centers.
+(xiii) Organ procurement organizations.
 
-(xiv) Religious non-medical health care institutions.
+(xiv) Pharmacies newly enrolling or revalidating via the CMS-855B application.
 
-(xv) Rural health clinics.
+(xv) Radiation therapy centers.
 
-(xvi) Skilled nursing facilities.
+(xvi) Religious non-medical health care institutions.
+
+(xvii) Rural health clinics.
+
+(xviii) Skilled nursing facilities.
 
 (2) *Limited screening level: Screening requirements.* When CMS designates a provider or supplier as a “limited” categorical level of risk, the Medicare contractor does all of the following:
 
@@ -134,4 +136,4 @@ A Medicare contractor is required to screen all initial applications, including 
 
 (ii) Revoked under § 424.535(a)(1).
 
-[76 FR 5963, Feb. 2, 2011, as amended at 82 FR 53368, Nov. 15, 2017; 84 FR 63203, Nov. 15, 2019]
+[76 FR 5963, Feb. 2, 2011, as amended at 82 FR 53368, Nov. 15, 2017; 84 FR 63203, Nov. 15, 2019; 85 FR 70355, Nov. 4, 2020; 85 FR 85038, Dec. 28, 2020]

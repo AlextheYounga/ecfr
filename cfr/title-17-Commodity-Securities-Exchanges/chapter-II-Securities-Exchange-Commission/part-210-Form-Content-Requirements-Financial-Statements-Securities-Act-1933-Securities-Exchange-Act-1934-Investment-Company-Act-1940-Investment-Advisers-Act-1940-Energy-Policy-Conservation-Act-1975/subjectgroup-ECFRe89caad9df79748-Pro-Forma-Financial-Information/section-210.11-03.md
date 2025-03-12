@@ -1,12 +1,10 @@
 ##### § 210.11-03 Presentation of financial forecast. #####
 
-Link to an amendment published at 85 FR 54069, Aug. 31, 2020.
-
-(a) A financial forecast may be filed in lieu of the pro forma condensed statements of comprehensive income required by § 210.11-02(b)(1).
+(a) A financial forecast may be filed in lieu of the pro forma condensed statements of comprehensive income required by § 210.11-02(a)(1).
 
 (1) The financial forecast shall cover a period of at least 12 months from the latest of (i) the most recent balance sheet included in the filing or (ii) the consummation date or estimated consummation date of the transaction.
 
-(2) The forecasted statement of comprehensive income shall be presented in the same degree of detail as the pro forma condensed statement of comprehensive income required by § 210.11-02(b)(3).
+(2) The forecasted statement of comprehensive income shall be presented in the same degree of detail as the pro forma condensed statement of comprehensive income required by § 210.11-02(a)(3).
 
 (3) Assumptions particularly relevant to the transaction and effects thereof should be clearly set forth.
 
@@ -16,6 +14,6 @@ Link to an amendment published at 85 FR 54069, Aug. 31, 2020.
 
 (c) Forecasted earnings per share data shall be substituted for pro forma per share data.
 
-(d) This rule does not permit the filing of a financial forecast in lieu of pro forma information required by generally accepted accounting principles.
+(d) This section does not permit the filing of a financial forecast in lieu of pro forma information required by U.S. GAAP or IFRS-IASB.
 
-[47 FR 29837, July 9, 1982, as amended at 83 FR 50208, Oct. 4, 2018]
+[47 FR 29837, July 9, 1982, as amended at 83 FR 50208, Oct. 4, 2018; 85 FR 54069, Aug. 31, 2020]

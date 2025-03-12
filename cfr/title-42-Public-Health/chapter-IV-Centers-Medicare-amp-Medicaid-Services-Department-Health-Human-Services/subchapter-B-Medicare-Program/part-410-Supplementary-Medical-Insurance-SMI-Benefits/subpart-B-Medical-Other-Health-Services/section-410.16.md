@@ -1,8 +1,16 @@
 ##### § 410.16 Initial preventive physical examination: Conditions for and limitations on coverage. #####
 
-Link to an amendment published at 85 FR 85025, Dec. 28, 2020.
-
 (a) *Definitions.* As used in this section, the following definitions apply:
+
+*A review of any current opioid prescriptions* means, with respect to the individual determined to have a current prescription for opioids, all of the following:
+
+(i) A review of the potential risk factors to the individual for opioid use disorder;
+
+(ii) An evaluation of the individual's severity of pain and current treatment plan;
+
+(iii) The provision of information on non-opioid treatment options; and
+
+(iv) A referral to a specialist, as appropriate.
 
 *Eligible beneficiary* means, for the purposes of this section, an individual who receives his or her initial preventive examination not more than 1 year after the effective date of his or her first Medicare Part B coverage period.
 
@@ -24,9 +32,13 @@ Link to an amendment published at 85 FR 85025, Dec. 28, 2020.
 
 (5) End-of-life planning as that term is defined in this section upon agreement with the individual.
 
-(6) Education, counseling, and referral, as deemed appropriate by the physician or qualified nonphysician practitioner, based on the results of the review and evaluation services described in this section.
+(6) A review of any current opioid prescriptions as defined in this section.
 
-(7) Education, counseling, and referral, including a brief written plan such as a checklist provided to the individual for obtaining an electrocardiogram, as appropriate, and the appropriate screening and other preventive services that are covered as separate Medicare Part B benefits as described in sections 1861(s)(10), (jj), (nn), (oo), (pp), (qq)(1), (rr), (uu), (vv), (xx)(1), (yy), (bbb), and (ddd) of the Act.
+(7) Screening for potential substance use disorders to include a review of the individual's potential risk factors for substance use disorder and referral for treatment as appropriate.
+
+(8) Education, counseling, and referral, as deemed appropriate by the physician or qualified nonphysician practitioner, based on the results of the review and evaluation services described in this section.
+
+(9) Education, counseling, and referral, including a brief written plan such as a checklist provided to the individual for obtaining an electrocardiogram, as appropriate, and the appropriate screening and other preventive services that are covered as separate Medicare Part B benefits as described in sections 1861(s)(10), (jj), (nn), (oo), (pp), (qq)(1), (rr), (uu), (vv), (xx)(1), (yy), (bbb), and (ddd) of the Act.
 
 *Medical history* is defined to include, at a minimum, the following:
 
@@ -62,4 +74,4 @@ A *physician* for purposes of this section means a doctor of medicine or osteopa
 
 (c) *Limitations on coverage of initial preventive physical examinations.* Payment may not be made for an initial preventive physical preventive examination that is performed for an individual who is not an eligible beneficiary as described in this section.
 
-[69 FR 66420, Nov. 15, 2004, as amended at 71 FR 69783, Dec. 1, 2006; 73 FR 69932, Nov. 19, 2008]
+[69 FR 66420, Nov. 15, 2004, as amended at 71 FR 69783, Dec. 1, 2006; 73 FR 69932, Nov. 19, 2008; 85 FR 85025, Dec. 28, 2020]

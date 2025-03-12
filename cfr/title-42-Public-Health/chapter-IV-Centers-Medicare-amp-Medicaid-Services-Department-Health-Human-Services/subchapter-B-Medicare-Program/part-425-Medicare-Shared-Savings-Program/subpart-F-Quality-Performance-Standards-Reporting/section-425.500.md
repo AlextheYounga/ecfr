@@ -1,6 +1,4 @@
-##### § 425.500 Measures to assess the quality of care furnished by an ACO. #####
-
-Link to an amendment published at 85 FR 85040, Dec. 28, 2020.
+##### § 425.500 Measures to assess the quality of care furnished by an ACO for performance years (or a performance period) beginning on or before January 1, 2020. #####
 
 (a) *General.* CMS establishes quality performance measures to assess the quality of care furnished by the ACO. If the ACO demonstrates to CMS that it has satisfied the quality performance requirements in this subpart, and the ACO meets all other applicable requirements, the ACO is eligible for shared savings.
 
@@ -12,7 +10,9 @@ Link to an amendment published at 85 FR 85040, Dec. 28, 2020.
 
 (c) ACOs must submit data on the measures determined under paragraph (b) of this section according to the method of submission established by CMS.
 
-(d) *Patient experience of care survey.* For performance years beginning in 2014 and for subsequent performance years, ACOs must select a CMS-certified vendor to administer the survey and report the results accordingly.
+(d) *Patient experience of care survey.* (1) For performance years (or a performance period) beginning in 2014 through 2019, ACOs must select a CMS-certified vendor to administer the survey and report the results accordingly.
+
+(2) For performance year 2020, CMS waives the CAHPS for ACOs reporting requirement and will assign all ACOs automatic credit for the CAHPS for ACOs survey measures.
 
 (e) *Audit and validation of data.* CMS retains the right to audit and validate quality data reported by an ACO.
 
@@ -24,4 +24,4 @@ Link to an amendment published at 85 FR 85040, Dec. 28, 2020.
 
 (f) Failure to report quality measure data accurately, completely, and timely (or to timely correct such data) may subject the ACO to termination or other sanctions, as described in §§ 425.216 and 425.218.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 81 FR 80559, Nov. 15, 2016; 82 FR 53370, Nov. 15, 2017]Editorial Note:At 82 FR 53370, Nov. 15, 2017, § 425.500 was amended; however, a portion of the amendment could not be incorporated due to inaccurate amendatory instruction.
+[76 FR 67973, Nov. 2, 2011, as amended at 81 FR 80559, Nov. 15, 2016; 82 FR 53370, Nov. 15, 2017; 85 FR 85040, Dec. 28, 2020]Editorial Note:At 82 FR 53370, Nov. 15, 2017, § 425.500 was amended; however, a portion of the amendment could not be incorporated due to inaccurate amendatory instruction.

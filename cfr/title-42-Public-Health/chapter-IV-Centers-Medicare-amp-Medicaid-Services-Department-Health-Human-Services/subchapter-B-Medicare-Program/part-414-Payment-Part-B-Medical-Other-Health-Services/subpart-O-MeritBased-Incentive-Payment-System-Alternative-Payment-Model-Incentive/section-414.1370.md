@@ -1,8 +1,6 @@
 ##### § 414.1370 APM scoring standard under MIPS. #####
 
-Link to an amendment published at 85 FR 85031, Dec. 28, 2020.
-
-(a) *General.* The APM scoring standard is the MIPS scoring methodology applicable for MIPS eligible clinicians identified on the Participation List for the performance period of an APM Entity participating in a MIPS APM.
+(a) *General.* For the 2019 through 2022 MIPS payment years, the APM scoring standard is the MIPS scoring methodology applicable for MIPS eligible clinicians identified on the Participation List for the performance period of an APM Entity participating in a MIPS APM.
 
 (b) *Criteria for MIPS APMs.* MIPS APMs are those in which:
 
@@ -42,7 +40,7 @@ Link to an amendment published at 85 FR 85031, Dec. 28, 2020.
 
 (2) MIPS eligible clinicians who participate in a group or have elected to participate in a virtual group and who are also on a MIPS APM Participation List will be included in the assessment under MIPS for purposes of producing a group or virtual group score and under the APM scoring standard for purposes of producing an APM Entity score. The MIPS payment adjustment for these eligible clinicians is based solely on their APM Entity score; if the APM Entity group is exempt from MIPS all eligible clinicians within that APM Entity group are also exempt from MIPS.
 
-(g) *MIPS performance category scoring under the APM scoring standard* - (1) *Quality.* Beginning in the 2020 Performance year -
+(g) *MIPS performance category scoring under the APM scoring standard*—(1) *Quality.* Beginning in the 2020 Performance year—
 
 (i) *MIPS APMs that require APM Entities to submit quality data through a MIPS submission mechanism.* The MIPS quality performance category score for a performance period will be calculated for the APM Entity using the data submitted for the APM Entity through a MIPS submission mechanism in accordance with § 414.1335.
 
@@ -108,4 +106,4 @@ Link to an amendment published at 85 FR 85031, Dec. 28, 2020.
 
 (i) *Total APM Entity Score.* CMS scores each performance category and then multiplies each performance category score by the applicable performance category weight. CMS then calculates the sum of each weighted performance category score and then applies all applicable adjustments. APM Entities will receive MIPS bonuses applied to the final score as set forth in § 414.1380(b).
 
-[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53953, Nov. 16, 2017; 83 FR 23610, May 22, 2018; 83 FR 60080, Nov. 23, 2018; 84 FR 63196, Nov. 15, 2019]
+[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53953, Nov. 16, 2017; 83 FR 23610, May 22, 2018; 83 FR 60080, Nov. 23, 2018; 84 FR 63196, Nov. 15, 2019; 85 FR 85031, Dec. 28, 2020]

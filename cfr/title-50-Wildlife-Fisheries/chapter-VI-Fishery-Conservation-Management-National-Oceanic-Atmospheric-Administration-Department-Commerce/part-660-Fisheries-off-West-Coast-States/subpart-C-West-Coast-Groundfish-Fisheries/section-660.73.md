@@ -1,7 +1,5 @@
 ##### § 660.73 Latitude/longitude coordinates defining the 100 fm (183 m) through 150 fm (274 m) depth contours. #####
 
-Link to an amendment published at 85 FR 79893, Dec. 11, 2020.
-
 Boundaries for some GCAs are defined by straight lines connecting a series of latitude/longitude coordinates. This section provides coordinates for the 100 fm (183 m) through 150 fm (274 m) depth contours.
 
 (a) The 100-fm (183-m) depth contour used between the U.S. border with Canada and the U.S. border with Mexico is defined by straight lines connecting all of the following points in the order stated:
@@ -584,7 +582,7 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (289) 34°04.70′ N. lat., 119°15.38′ W. long.;
 
-(2902) 34°03.33′ N. lat., 119°12.93′ W. long.;
+(290) 34°03.33′ N lat., 119°12.93′ W long.;
 
 (291) 34°02.72′ N. lat., 119°07.01′ W. long.;
 
@@ -622,49 +620,63 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (308) 33°07.06′ N. lat., 117°22.71′ W. long.;
 
-(309) 32°59.28′ N. lat., 117°19.69′ W. long.;
+(309) 33°2.81′ N lat., 117°21.17′ W long.;
 
-(310) 32°55.36′ N. lat., 117°19.54′ W. long.;
+(310) 33°1.76′ N lat., 117°20.51′ W long.;
 
-(311) 32°53.35′ N. lat., 117°17.05′ W. long.;
+(311) 32°59.90′ N lat., 117°19.38′ W long.;
 
-(312) 32°53.36′ N. lat., 117°19.97′ W. long.;
+(312) 32°57.29′ N lat., 117°18.94′ W long.;
 
-(313) 32°46.39′ N. lat., 117°23.45′ W. long.;
+(313) 32°56.15′ N lat., 117°19.54′ W long.;
 
-(314) 32°42.79′ N. lat., 117°21.16′ W. long.; and
+(314) 32°55.30′ N lat., 117°19.38′ W long.; and
 
-(315) 32°34.22′ N. lat., 117°21.20′ W. long.
+(315) 32°54.27′ N lat., 117°17.17′ W long.
+
+(316) 32°52.94′ N lat., 117°17.11′ W long.;
+
+(317) 32°52.66′ N lat., 117°19.67′ W long.;
+
+(318) 32°50.95′ N lat., 117°21.17′ W long.;
+
+(319) 32°47.11′ N lat., 117°22.98′ W long.;
+
+(320) 32°45.60′ N lat., 117°22.64′ W long.; and
+
+(321) 32°42.79′ N lat., 117°21.16′ W long.;
 
 (b) The 100 fm (183 m) depth contour around San Clemente Island off the state of California is defined by straight lines connecting all of the following points in the order stated:
 
-(1) 33°04.73′ N. lat., 118°37.98′ W. long.;
+(1) 33°04.80′ N lat., 118°37.90′ W long.;
 
-(2) 33°02.67′ N. lat., 118°34.06′ W. long.;
+(2) 33°02.65′ N lat., 118°34.08′ W long.;
 
-(3) 32°55.80′ N. lat., 118°28.92′ W. long.;
+(3) 32°55.80′ N lat., 118°28.92′ W long.;
 
-(4) 32°49.78′ N. lat., 118°20.88′ W. long.;
+(4) 32°55.04′ N lat., 118°27.68′ W long.;
 
-(5) 32°48.01′ N. lat., 118°19.49′ W. long.;
+(5) 32°49.79′ N lat., 118°20.87′ W long.;
 
-(6) 32°47.53′ N. lat., 118°21.76′ W. long.;
+(6) 32°48.05′ N lat., 118°19.62′ W long.;
 
-(7) 32°44.03′ N. lat., 118°24.70′ W. long.;
+(7) 32°47.41′ N lat., 118°21.86′ W long.;
 
-(8) 32°49.75′ N. lat., 118°32.10′ W. long.;
+(8) 32°44.03′ N lat., 118°24.70′ W long.;
 
-(9) 32°53.36′ N. lat., 118°33.23′ W. long.;
+(9) 32°47.81′ N lat., 118°30.20′ W long.;
 
-(10) 32°55.17′ N. lat., 118°34.64′ W. long.;
+(10) 32°49.79′ N lat., 118°32.00′ W long.;
 
-(11) 32°55.13′ N. lat., 118°35.31′ W. long.;
+(11) 32°53.36′ N lat., 118°33.23′ W long.;
 
-(12) 33°00.22′ N. lat., 118°38.68′ W. long.;
+(12) 32°55.13′ N lat., 118°35.31′ W long.;
 
-(13) 33°03.13′ N. lat., 118°39.59′ W. long.; and
+(13) 33°00.22′ N lat., 118°38.68′ W long.;
 
-(14) 33°04.73′ N. lat., 118°37.98′ W. long.
+(14) 33°03.13′ N lat., 118°39.59′ W long.; and
+
+(15) 33°04.80′ N lat., 118°37.90′ W long.
 
 (c) The 100 fm (183 m) depth contour around Santa Catalina Island off the state of California is defined by straight lines connecting all of the following points in the order stated:
 
@@ -686,15 +698,15 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (9) 33°16.09′ N. lat., 118°15.46′ W. long.;
 
-(10) 33°18.10′ N. lat., 118°27.95′ W. long.;
+(10) 33°18.14′ N lat., 118°27.94′ W long.;
 
-(11) 33°19.84′ N. lat., 118°32.16′ W. long.;
+(11) 33°19.84′ N lat., 118°32.22′ W long.;
 
-(12) 33°20.83′ N. lat., 118°32.83′ W. long.;
+(12) 33°20.81′ N lat., 118°32.91′ W long.;
 
-(13) 33°21.91′ N. lat., 118°31.98′ W. long.;
+(13) 33°21.94′ N lat., 118°32.03′ W long.;
 
-(14) 33°23.05′ N. lat., 118°30.11′ W. long.;
+(14) 33°23.14′ N lat., 118°30.12′ W long.;
 
 (15) 33°24.87′ N. lat., 118°32.45′ W. long.;
 
@@ -702,7 +714,73 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (17) 33°28.23′ N. lat., 118°39.38′ W. long.
 
-(d) The 125-fm (229-m) depth contour used between the U.S. border with Canada and the U.S. border with Mexico is defined by straight lines connecting all of the following points in the order stated:
+(d) The 100 fm (183 m) depth contour around the northern Channel Islands off the state of California is defined by straight lines connecting all of the following points in the order stated:
+
+(1) 34°12.89′ N lat., 120°29.31′ W long.;
+
+(2) 34°10.96′ N lat., 120°25.19′ W long.;
+
+(3) 34°08.74′ N lat., 120°18.00′ W long.;
+
+(4) 34°07.02′ N lat., 120°10.45′ W long.;
+
+(5) 34°06.75′ N lat., 120°05.09′ W long.;
+
+(6) 34°08.15′ N lat., 119°54.96′ W long.;
+
+(7) 34°′07.17 N lat., 119°48.54′ W long.;
+
+(8) 34°05.66′ N lat., 119°37.58′ W long.;
+
+(9) 34°04.76′ N lat., 119°26.28′ W long.;
+
+(10) 34°02.93′ N lat., 119°18.06′ W long.;
+
+(11) 34°00.97′ N lat., 119°18.78′ W long.;
+
+(12) 33°59.38′ N lat., 119°21.71′ W long.;
+
+(13) 33°58.62′ N lat., 119°32.05′ W long.;
+
+(14) 33°57.69′ N lat., 119°33.38′ W long.;
+
+(15) 33°57.40′ N lat., 119°35.84′ W long.;
+
+(16) 33°56.07′ N lat., 119°41.10′ W long.
+
+(17) 33°55.54′ N lat., 119°47.99′ W long.;
+
+(18) 33°56.60′ N lat., 119°51.40′ W long.;
+
+(19) 33°55.56′ N lat., 119°53.87′ W long.;
+
+(20) 33°54.40′ N lat., 119°53.74′ W long.;
+
+(21) 33°52.72′ N lat., 119°54.62′ W long.;
+
+(22) 33°47.95′ N lat., 119°53.50′ W long.;
+
+(23) 33°45.75′ N lat., 119°51.04′ W long.;
+
+(24) 33°40.18′ N lat., 119°50.36′ W long.;
+
+(25) 33°38.19′ N lat., 119°57.85′ W long.;
+
+(26) 33°44.92′ N lat., 120°02.95′ W long.;
+
+(27) 33°48.90′ N lat., 120°05.34′ W long.;
+
+(28) 33°51.64′ N lat., 120°08.11′ W long.;
+
+(29) 33°58.31′ N lat., 120°27.99′ W long.;
+
+(30) 34°03.23′ N lat., 120°34.34′ W long.;
+
+(31) 34°09.42′ N lat., 120°37.64′ W long.; and
+
+(32) 34°12.89′ N lat., 120°29.31′ W long.
+
+(e) The 125-fm (229-m) depth contour used between the U.S. border with Canada and the U.S. border with Mexico is defined by straight lines connecting all of the following points in the order stated:
 
 (1) 48°15.00′ N. lat., 125°41.13′ W. long.;
 
@@ -1430,7 +1508,7 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (363) 32°34.54′ N lat., 117°23.04′ W long.
 
-(e) The 125 fm (229 m) depth contour around San Clemente Island off the state of California is defined by straight lines connecting all of the following points in the order stated:
+(f) The 125 fm (229 m) depth contour around San Clemente Island off the state of California is defined by straight lines connecting all of the following points in the order stated:
 
 (1) 33°04.73′ N. lat., 118°37.99′ W. long.;
 
@@ -1460,7 +1538,7 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (14) 33°04.73′ N. lat., 118°37.99′ W. long.
 
-(f) The 125 fm (229 m) depth contour around Santa Catalina Island off the state of California is defined by straight lines connecting all of the following points in the order stated:
+(g) The 125 fm (229 m) depth contour around Santa Catalina Island off the state of California is defined by straight lines connecting all of the following points in the order stated:
 
 (1) 33°28.42′ N. lat., 118°39.85′ W. long.;
 
@@ -1498,7 +1576,7 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (18) 33°28.42′ N. lat., 118°39.85′ W. long.
 
-(g) The 125 fm (229 m) depth contour around Lasuen Knoll off the state of California is defined by straight lines connecting all of the following points in the order stated:
+(h) The 125 fm (229 m) depth contour around Lasuen Knoll off the state of California is defined by straight lines connecting all of the following points in the order stated:
 
 (1) 33°24.57′ N. lat., 118°00.15′ W. long.;
 
@@ -1510,7 +1588,7 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (5) 33°24.57′ N. lat., 118°00.15′ W. long.
 
-(h) The 150-fm (274-m) depth contour used between the U.S. border with Canada and the U.S. border with Mexico is defined by straight lines connecting all of the following points in the order stated:
+(i) The 150-fm (274-m) depth contour used between the U.S. border with Canada and the U.S. border with Mexico is defined by straight lines connecting all of the following points in the order stated:
 
 (1) 48°14.96′ N. lat., 125°41.24′ W. long.;
 
@@ -2144,7 +2222,7 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (316) 32°34.83′ N lat., 117°24.69′ W long.
 
-(i) The 150 fm (274 m) depth contour used around San Clemente Island off the state of California is defined by straight lines connecting all of the following points in the order stated:
+(j) The 150 fm (274 m) depth contour used around San Clemente Island off the state of California is defined by straight lines connecting all of the following points in the order stated:
 
 (1) 32°47.95′ N. lat., 118°19.31′ W. long.;
 
@@ -2172,7 +2250,7 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (13) 32°47.95′ N. lat., 118°19.31′ W. long.
 
-(j) The 150 fm (274 m) depth contour used around Santa Catalina Island off the state of California is defined by straight lines connecting all of the following points in the order stated:
+(k) The 150 fm (274 m) depth contour used around Santa Catalina Island off the state of California is defined by straight lines connecting all of the following points in the order stated:
 
 (1) 33°17.24′ N. lat., 118°12.94′ W. long.;
 
@@ -2202,7 +2280,7 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (14) 33°17.24′ N. lat., 118°12.94′ W. long.
 
-(k) The 150 fm (274 m) depth contour used around Lasuen Knoll off the state of California is defined by straight lines connecting all of the following points in the order stated:
+(l) The 150 fm (274 m) depth contour used around Lasuen Knoll off the state of California is defined by straight lines connecting all of the following points in the order stated:
 
 (1) 33°24.99′ N. lat., 117°59.32′ W. long.;
 
@@ -2214,7 +2292,7 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (5) 33°24.99′ N. lat., 117°59.32′ W. long.
 
-(l) The 150 fm (274 m) depth contour used between the U.S. border with Canada and 40°10′ N. lat., modified to allow fishing in petrale sole areas, is defined by straight lines connecting all of the following points in the order stated:
+(m) The 150 fm (274 m) depth contour used between the U.S. border with Canada and 40°10′ N. lat., modified to allow fishing in petrale sole areas, is defined by straight lines connecting all of the following points in the order stated:
 
 (1) 48°14.96′ N. lat., 125°41.24′ W. long.;
 
@@ -2584,4 +2662,4 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (184) 40°10.00′ N. lat., 124°22.96′ W. long.
 
-[69 FR 77059, Dec. 23, 2004; 70 FR 13119, Mar. 18, 2005, as amended at 70 FR 16149, Mar. 30, 2005; 71 FR 8500, Feb. 17, 2006; 71 FR 78678, Dec. 29, 2006; 74 FR 9905, Mar. 6, 2009. Redesignated at 75 FR 60995, Oct. 1, 2010; 76 FR 27531, May 11, 2011; 76 FR 54714, Sept. 2, 2011; 78 FR 589, Jan. 3, 2013; 80 FR 12573, Mar. 10, 2015; 82 FR 9640, Feb. 7, 2017; 83 FR 63992, Dec. 12, 2018; 83 FR 66639, Dec. 27, 2018; 84 FR 63974, Nov. 19, 2019]
+[69 FR 77059, Dec. 23, 2004; 70 FR 13119, Mar. 18, 2005, as amended at 70 FR 16149, Mar. 30, 2005; 71 FR 8500, Feb. 17, 2006; 71 FR 78678, Dec. 29, 2006; 74 FR 9905, Mar. 6, 2009. Redesignated at 75 FR 60995, Oct. 1, 2010; 76 FR 27531, May 11, 2011; 76 FR 54714, Sept. 2, 2011; 78 FR 589, Jan. 3, 2013; 80 FR 12573, Mar. 10, 2015; 82 FR 9640, Feb. 7, 2017; 83 FR 63992, Dec. 12, 2018; 83 FR 66639, Dec. 27, 2018; 84 FR 63974, Nov. 19, 2019; 85 FR 79893, Dec. 11, 2020]

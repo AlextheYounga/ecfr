@@ -1,0 +1,3 @@
+##### § 217.42 Permissible methods of taking. #####
+
+Under LOAs issued pursuant to §§ 216.106 of this chapter and 217.46, the Holder of the LOAs (hereinafter “AGDC”) may incidentally, but not intentionally, take marine mammals within the area described in § 217.40(b) by Level A harassment and Level B harassment associated with pile driving and pipe laying activities, provided the activity is in compliance with all terms, conditions, and requirements of the regulations in this subpart and the applicable LOAs.

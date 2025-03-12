@@ -6,7 +6,7 @@ Link to an amendment published at 85 FR 85035, Dec. 28, 2020.
 
 (2) CMS provides notice of the amount of the APM Incentive Payment to QPs as soon as practicable following the calculation and validation of the APM Incentive Payment amount, but in any event no later than 1 year after the incentive payment base period.
 
-(b) *APM Incentive Payment amount.* (1) The amount of the APM Incentive Payment is equal to 5 percent of the estimated aggregate payments for covered professional services as defined in section 1848(k)(3)(A) of the Act furnished during the calendar year immediately preceding the payment year.
+(b) *APM Incentive Payment amount.*(1) The amount of the APM Incentive Payment is equal to 5 percent of the estimated aggregate payments for covered professional services as defined in section 1848(k)(3)(A) of the Act furnished during the calendar year immediately preceding the payment year. CMS uses the paid amounts on claims for covered professional services to calculate the estimated aggregate payments on which CMS will calculate the APM Incentive Payment.
 
 (2) The estimated aggregate payment amount for covered professional services includes all such payments to any and all of the TIN/NPI combinations associated with the NPI of the QP.
 
@@ -30,11 +30,23 @@ Link to an amendment published at 85 FR 85035, Dec. 28, 2020.
 
 (8) For payment amounts that are affected by a cash flow mechanism, the payment amounts that would have occurred if the cash flow mechanism were not in place are used in calculating the APM Incentive Payment amount.
 
-(c) *APM Incentive Payment recipient.* (1) CMS pays the entire APM Incentive Payment amount to the TIN associated with the QP's participation in the Advanced APM entity that met the applicable QP threshold during the QP Performance Period.
+(c) *APM Incentive Payment recipient.* CMS will pay the APM Incentive Payment amount for a payment year to a solvent TIN or TINs associated with the QP identified at a specific step in the following hierarchy. If no TIN or TINs with which the QP has an association can be identified at a step, CMS will move to the next and successive steps listed in paragraphs (c)(1) through (8) of this section until CMS identifies a TIN or TINs with which the QP is associated, and to which CMS will make the APM Incentive Payment.
 
-(2) In the event that an eligible clinician is no longer affiliated with the TIN associated with the QP's participation in the Advanced APM Entity that met the applicable QP threshold during the QP Performance Period at the time of the APM Incentive Payment distribution, CMS makes the APM Incentive Payment to the TIN listed on the eligible clinician's CMS-588 EFT Application form on the date that the APM Incentive Payment is distributed.
+(1) Any TIN associated with the QP that, during the QP Performance Period, is associated with an APM Entity through which the eligible clinician achieved QP status;
 
-(3) In the event that an eligible clinician becomes a QP through participation in multiple Advanced APMs, CMS divides the APM Incentive Payment amount between the TINs associated with the QP's participation in each Advanced APM during the QP Performance Period. Such payments will be divided in proportion to the amount of payments associated with each TIN that the eligible clinician received for covered professional services during the QP Performance Period.
+(2) Any TIN associated with the QP that, during the APM Incentive Payment base period, is associated with an APM Entity through which the eligible clinician achieved QP status;
+
+(3) Any TIN associated with the QP that, during the APM Incentive Payment base period, is associated with an APM Entity participating in an Advanced APM through which the eligible clinician had achieved QP status;
+
+(4) Any TIN associated with the QP that, during the APM Incentive Payment base period, participated in an APM Entity in an Advanced APM;
+
+(5) Any TIN associated with the QP that, during the APM Incentive Payment base period, participated with an APM Entity in any track of the APM through which the eligible clinician achieved QP status;
+
+(6) Any TIN associated with the QP that, during the APM Incentive Payment base period, participated with an APM Entity in an APM other than an Advanced APM;
+
+(7) Any TIN associated with the QP that submitted a claim for covered professional services furnished by the QP during the APM Incentive Payment base period, even if such TIN has no relationship to any APM Entity or APM; then
+
+(8) If we have not identified any TIN associated with the QP to which we can make the APM Incentive Payment, we will attempt to contact the QP via a public notice to request their Medicare payment information. The QPs identified in the public notice, or any other eligible clinicians who believe that they are entitled to an APM Incentive Payment must then notify CMS of their claim as directed in the public notice by November 1 of the payment year, or 60 days after CMS announces that initial payments for the year have been made, whichever is later. After that time, any claims by a QP to an APM Incentive Payment will be forfeited for such payment year.
 
 (d) *Timing of the APM Incentive Payment.* APM Incentive Payments made under this section are made as soon as practicable following the calculation and validation of the APM Incentive Payment amount, but in any event no later than 1 year after the incentive payment base period.
 
@@ -43,3 +55,5 @@ Link to an amendment published at 85 FR 85035, Dec. 28, 2020.
 (2) APM Incentive Payments made under this section are not included in calculations for the purposes of rebasing benchmarks in an APM.
 
 (f) *Treatment of APM Incentive Payment for other Medicare incentive payments and payment adjustments.* APM Incentive Payments made under this section will not be included in determining the amount of incentive payment made to eligible clinicians under section 1833(m), (x), and (y) of the Act.
+
+[81 FR 77537, Nov. 4, 2016, as amended at 85 FR 85035, Dec. 28, 2020]

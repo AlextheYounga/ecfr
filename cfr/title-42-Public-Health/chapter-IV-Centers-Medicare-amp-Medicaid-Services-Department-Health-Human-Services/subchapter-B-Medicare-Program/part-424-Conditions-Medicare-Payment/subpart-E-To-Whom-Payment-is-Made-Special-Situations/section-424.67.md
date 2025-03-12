@@ -1,12 +1,10 @@
 ##### § 424.67 Enrollment requirements for opioid treatment programs (OTP). #####
 
-Link to an amendment published at 85 FR 85038, Dec. 28, 2020.
-
 (a) *General enrollment requirement.* In order for a program or eligible professional (as that term is defined in section 1848(k)(3)(B) of the Act) to receive Medicare payment for the provision of opioid use disorder treatment services, the provider must qualify as an OTP (as that term is defined in § 8.2 of this title) and enroll in the Medicare program under the provisions of this section and of subpart P of this part.
 
 (b) *Specific requirements and standards for enrollment.* To enroll in the Medicare program, an OTP must meet all of the following requirements and standards:
 
-(1) Fully complete and submit the Form CMS-855B application (or its successor application) and any applicable supplement or attachment thereto to its applicable Medicare contractor. This includes, but is not limited to, the following:
+(1) Fully complete and submit, as applicable, the Form CMS-855A or Form CMS-855B application (or their successor applications) and any applicable supplement or attachment thereto to its applicable Medicare contractor. This includes, but is not limited to, the following:
 
 (i) Maintain and submit to CMS (via the applicable supplement or attachment) a list of all physicians, other eligible professionals, and pharmacists (regardless of whether the individual is a W-2 employee of the OTP) who are legally authorized to prescribe, order, or dispense controlled substances on behalf of the OTP. The list must include the physician's, other eligible professional's, or pharmacist's:
 
@@ -18,17 +16,19 @@ Link to an amendment published at 85 FR 85038, Dec. 28, 2020.
 
 (D) License number (if applicable).
 
-(ii) Certifying via the Form CMS-855B and/or the applicable supplement or attachment thereto that the OTP meets and will continue to meet the specific requirements and standards for enrollment described in paragraphs (b) and (d) of this section.
+(ii) Certifying via the Form CMS-855A or Form CMS-855B (as applicable) and/or the applicable supplement or attachment thereto that the OTP meets and will continue to meet the specific requirements and standards for enrollment described in paragraphs (b) and (e) of this section.
 
-(2) Comply with the application fee requirements in § 424.514.
+(2) Comply with the application fee requirements in § 424.514. (This includes OTPs enrolling under the circumstances described in paragraph (c)(2) of this section.)
 
-(3) Successfully complete the assigned categorical risk level screening required under, as applicable, § 424.518(b) and (c).
+(3)(i) Except as stated in paragraph (b)(3)(ii) of this section, successfully complete the assigned categorical risk level screening required under, as applicable, § 424.518(b) and (c).
+
+(ii) For currently enrolled OTPs that are changing their OTP enrollment from a Form CMS-855B enrollment to a Form CMS-855A enrollment, or vice versa, successfully complete the limited level of categorical screening under § 424.518(a) if the OTP has already completed, as applicable, the moderate or high level of categorical screening under § 424.518(b) or (c), respectively.
 
 (4)(i) Have a current, valid certification by SAMHSA for an opioid treatment program consistent with the provisions and requirements of § 8.11 of this title.
 
 (ii) A provisional certification under § 8.11(e) of this title does not meet the requirements of paragraph (b)(4)(i) of this section.
 
-(5) Report on the Form CMS-855B and/or any applicable supplement all OTP staff who meet the definition of “managing employee” in § 424.502. Such individuals include, but are not limited to, the following:
+(5) Report on the Form CMS-855A or Form CMS-855B (as applicable) and/or any applicable supplement all OTP staff who meet the definition of “managing employee” in § 424.502. Such individuals include, but are not limited to, the following:
 
 (i) Medical director (as described in § 8.2 of this title).
 
@@ -52,7 +52,11 @@ Link to an amendment published at 85 FR 85038, Dec. 28, 2020.
 
 (8) Comply with all other applicable requirements for enrollment specified in this section and in subpart P of this part.
 
-(c) *Denial of enrollment.* CMS may deny an OTP's enrollment application on any of the following grounds:
+(c) *Clarification of required enrollment forms.* (1) An OTP may only be enrolled as an OTP via the Form CMS-855A or Form CMS-855B but not both.
+
+(2) If a currently enrolled OTP is changing its OTP enrollment from a Form CMS-855B enrollment to a Form CMS-855A enrollment, or vice versa, the effective date of billing that was established for the OTP's prior enrollment under §§ 424.520(d) and 424.521(a) is applied to the OTP's new enrollment.
+
+(d) *Denial of enrollment.* CMS may deny an OTP's enrollment application on any of the following grounds:
 
 (1)(i) The provider does not have a current, valid certification by SAMHSA as required under paragraph (b)(4)(i) of this section or fails to meet any other applicable requirement in this section.
 
@@ -60,7 +64,7 @@ Link to an amendment published at 85 FR 85038, Dec. 28, 2020.
 
 (2) An OTP may appeal the denial of its enrollment application under part 498 of this chapter.
 
-(d) *Continued compliance, standards, and reasons for revocation.* (1) Upon and after enrollment, an OTP -
+(e) *Continued compliance, standards, and reasons for revocation.* (1) Upon and after enrollment, an OTP—
 
 (i) Must remain validly certified by SAMHSA as required under § 8.11 of this title.
 
@@ -70,22 +74,22 @@ Link to an amendment published at 85 FR 85038, Dec. 28, 2020.
 
 (2) CMS may revoke an OTP's enrollment on any of the following grounds:
 
-(i) The provider does not have a current, valid certification by SAMHSA as required under paragraph (b)(4)(i) or fails to meet any other applicable requirement or standard in this section, including, but not limited to, the OTP standards in paragraphs (b)(6) and (d)(1) of this section.
+(i) The provider does not have a current, valid certification by SAMHSA as required under paragraph (b)(4)(i) of this section or fails to meet any other applicable requirement or standard in this section, including, but not limited to, the OTP standards in paragraphs (b)(6) and (e)(1) of this section.
 
 (ii) Any of the revocation reasons in § 424.535 applies.
 
 (3) An OTP may appeal the revocation of its enrollment under part 498 of this title.
 
-(e) *Claim payment.* For an OTP to receive payment for furnished drugs:
+(f) *Claim payment.* For an OTP to receive payment for furnished drugs:
 
 (1) The prescribing or medication ordering physician's or other eligible professional's National Provider Identifier must be listed on Field 17 of the Form CMS-1500; and
 
 (2) All other applicable requirements of this section, this part, and part 8 of this title must be met.
 
-(f) *Relation to part 8 of this title.* Nothing in this section shall be construed as:
+(g) *Relation to part 8 of this title.* Nothing in this section shall be construed as:
 
 (1) Supplanting any of the provisions in part 8 of this title; or
 
 (2) Eliminating an OTP's obligation to maintain compliance with all applicable provisions in part 8 of this title.
 
-[84 FR 63202, Nov. 15, 2019]
+[84 FR 63202, Nov. 15, 2019, as amended at 85 FR 85038, Dec. 28, 2020]

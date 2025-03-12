@@ -1,7 +1,5 @@
 ##### § 438.400 Statutory basis, definitions, and applicability. #####
 
-Link to an amendment published at 84 FR 15844, Apr. 16, 2019.
-
 (a) *Statutory basis.* This subpart is based on the following statutory sections:
 
 (1) Section 1902(a)(3) of the Act requires that a State plan provide an opportunity for a fair hearing to any person whose claim for assistance is denied or not acted upon promptly.
@@ -9,6 +7,8 @@ Link to an amendment published at 84 FR 15844, Apr. 16, 2019.
 (2) Section 1902(a)(4) of the Act requires that the State plan provide for methods of administration that the Secretary finds necessary for the proper and efficient operation of the plan.
 
 (3) Section 1932(b)(4) of the Act requires Medicaid managed care organizations to establish internal grievance procedures under which Medicaid enrollees, or providers acting on their behalf, may challenge the denial of coverage of, or payment for, medical assistance.
+
+(4) Section 1859(f)(8)(B) of the Act requires that the Secretary, to the extent feasible, establish procedures unifying grievances and appeals procedures under sections 1852(f), 1852(g), 1902(a)(3), 1902(a)(5), and 1932(b)(4) of the Act for items and services provided, by specialized Medicare Advantage plans for special needs individuals described in section 1859(b)(6)(B)(ii), under Titles XVIII and XIX of the Act.
 
 (b) *Definitions.* As used in this subpart, the following terms have the indicated meanings:
 
@@ -36,6 +36,8 @@ Link to an amendment published at 84 FR 15844, Apr. 16, 2019.
 
 *State fair hearing* means the process set forth in subpart E of part 431 of this chapter.
 
-(c) *Applicability.* This subpart applies to the rating period for contracts with MCOs, PIHPs, and PAHPs beginning on or after July 1, 2017. Until that applicability date, states, MCOs, PIHPs, and PAHPs are required to continue to comply with subpart F contained in the 42 CFR parts 430 to 481, edition revised as of October 1, 2015.
+(c) *Applicability.* (1) Subject to paragraph (c)(2) of this section, this subpart applies to the rating period for contracts with MCOs, PIHPs, and PAHPs beginning on or after July 1, 2017. Until that applicability date, States, MCOs, PIHPs, and PAHPs are required to continue to comply with subpart F contained in the 42 CFR parts 430 to 481, edition revised as of October 1, 2015.
 
-[81 FR 27853, May 6, 2016, as amended at 85 FR 72842, Nov. 13, 2020]
+(2) Provisions in this part affecting applicable integrated plans, as defined in § 422.561 of this chapter, are applicable no later than January 1, 2021.
+
+[81 FR 27853, May 6, 2016, as amended at 84 FR 15844, Apr. 16, 2019; 85 FR 72842, Nov. 13, 2020]

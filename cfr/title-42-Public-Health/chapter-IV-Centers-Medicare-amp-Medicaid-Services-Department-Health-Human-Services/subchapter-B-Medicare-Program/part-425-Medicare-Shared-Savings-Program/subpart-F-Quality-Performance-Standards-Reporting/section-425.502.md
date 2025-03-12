@@ -1,6 +1,4 @@
-##### § 425.502 Calculating the ACO quality performance score. #####
-
-Link to an amendment published at 85 FR 85040, Dec. 28, 2020.
+##### § 425.502 Calculating the ACO quality performance score for performance years (or a performance period) beginning on or before January 1, 2020. #####
 
 (a) *Establishing a quality performance standard.* CMS designates the quality performance standard in each performance year. The quality performance standard is the overall standard the ACO must meet in order to be eligible for shared savings.
 
@@ -98,7 +96,7 @@ Link to an amendment published at 85 FR 85040, Dec. 28, 2020.
 
 (ii) If the ACO completely and accurately reports all quality measures, CMS uses the higher of the ACO's quality performance score or the mean quality performance score for all Shared Savings Program ACOs.
 
-(3) CMS applies determinations made under the Quality Payment Program with respect to -
+(3) CMS applies determinations made under the Quality Payment Program with respect to—
 
 (i) Whether an extreme and uncontrollable circumstance has occurred; and
 
@@ -106,4 +104,4 @@ Link to an amendment published at 85 FR 85040, Dec. 28, 2020.
 
 (4) CMS has sole discretion to determine the time period during which an extreme and uncontrollable circumstance occurred, the percentage of the ACO's assigned beneficiaries residing in the affected areas, and the location of the ACO legal entity.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 78 FR 74823, Dec. 10, 2013; 79 FR 68008, Nov. 13, 2014; 80 FR 71386, Nov. 16, 2015; 81 FR 80560, Nov. 15, 2016; 82 FR 53370, Nov. 15, 2017; 82 FR 60918, Dec. 26, 2017; 83 FR 60093, Nov. 23, 2018; 83 FR 68069, Dec. 31, 2018; 85 FR 19291, Apr. 6, 2020]
+[76 FR 67973, Nov. 2, 2011, as amended at 78 FR 74823, Dec. 10, 2013; 79 FR 68008, Nov. 13, 2014; 80 FR 71386, Nov. 16, 2015; 81 FR 80560, Nov. 15, 2016; 82 FR 53370, Nov. 15, 2017; 82 FR 60918, Dec. 26, 2017; 83 FR 60093, Nov. 23, 2018; 83 FR 68069, Dec. 31, 2018; 85 FR 19291, Apr. 6, 2020; 85 FR 85040, Dec. 28, 2020]

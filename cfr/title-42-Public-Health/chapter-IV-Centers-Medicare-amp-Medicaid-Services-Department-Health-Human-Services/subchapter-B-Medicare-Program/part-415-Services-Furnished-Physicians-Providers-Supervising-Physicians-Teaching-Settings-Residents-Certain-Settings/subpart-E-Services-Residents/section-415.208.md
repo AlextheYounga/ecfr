@@ -1,12 +1,10 @@
 ##### § 415.208 Services of moonlighting residents. #####
 
-Link to an amendment published at 85 FR 85037, Dec. 28, 2020.
-
 (a) *Definition.* For purposes of this section, the term *services of moonlighting residents* refers to services that licensed residents perform that are outside the scope of an approved GME program.
 
-(b) *Services in GME program hospitals.* (1) The services of residents to inpatients of hospitals in which the residents have their approved GME program are not covered as physician services and are payable under §§ 413.75 through 413.83 regarding direct GME payments.
+(b) *Services in teaching hospitals.* (1) The services of residents to inpatients of hospitals in which the residents have their approved GME program are not covered as physician services and are payable under §§ 413.75 through 413.83 regarding direct GME payments.
 
-(2) Services of residents that are not related to their approved GME programs and are performed in an outpatient department or emergency department of a hospital in which they have their training program are covered as physician services and payable under the physician fee schedule if criteria in paragraphs (b)(2)(i) through (iii) of this section are met. During a Public Health Emergency, as defined in § 400.200 of this chapter, the services of residents that are not related to their approved GME programs and are furnished to inpatients of a hospital in which they have their training program are covered as physician services and payable under the physician fee schedule if criteria in paragraphs (b)(2)(i) through (iii) of this section are met.
+(2) Services of residents that are not related to their approved GME programs and are performed in an outpatient department or emergency department of a hospital in which they have their training program are covered as physician services and payable under the physician fee schedule if criteria in paragraphs (b)(2)(i) through (iii) of this section are met. The services of residents that are not related to their approved GME programs and are furnished to inpatients of a hospital in which they have their training program are covered as physician services and payable under the physician fee schedule if criteria in paragraphs (b)(2)(i) through (iii) of this section are met. The medical record must include documentation to demonstrate in each case that these criteria are satisfied.
 
 (i) The services are identifiable physician services and meet the conditions for payment of physician services to beneficiaries in providers in § 415.102(a).
 
@@ -20,4 +18,4 @@ Link to an amendment published at 85 FR 85037, Dec. 28, 2020.
 
 (c) *Other settings.* Moonlighting services of a licensed resident in an approved GME program furnished outside the scope of that program in a hospital or other setting that does not participate in the approved GME program are payable under the physician fee schedule as set forth in § 415.206(b)(1).
 
-[60 FR 63178, Dec. 8, 1995, as amended at 70 FR 47490, Aug. 12, 2005; 85 FR 19289, Apr. 6, 2020]
+[60 FR 63178, Dec. 8, 1995, as amended at 70 FR 47490, Aug. 12, 2005; 85 FR 19289, Apr. 6, 2020; 85 FR 85037, Dec. 28, 2020]

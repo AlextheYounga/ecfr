@@ -1,7 +1,5 @@
 ##### § 425.400 General. #####
 
-Link to an amendment published at 85 FR 85040, Dec. 28, 2020.
-
 (a)(1) *General.* CMS employs the assignment methodology described in § 425.402 and § 425.404 for purposes of benchmarking, preliminary prospective assignment (including quarterly updates), retrospective reconciliation, and prospective assignment.
 
 (i) A Medicare fee-for-service beneficiary is assigned to an ACO if the -
@@ -104,7 +102,7 @@ Link to an amendment published at 85 FR 85040, Dec. 28, 2020.
 
 (C) Revenue center codes 0521, 0522, 0524, and 0525 submitted by FQHCs (for services furnished prior to January 1, 2011), or by RHCs.
 
-(iv) For performance years starting on January 1, 2019, and subsequent performance years as follows:
+(iv) For performance years (or a performance period) during 2019, and performance year 2020 as follows:
 
 (A) CPT codes:
 
@@ -137,7 +135,6 @@ Link to an amendment published at 85 FR 85040, Dec. 28, 2020.
 (*3*) G0463 for services furnished in ETA hospitals.
 
 (*4*) G0506 (code for chronic care management).
-.
 
 (*5*) G0444 (codes for annual depression screening service).
 
@@ -145,18 +142,76 @@ Link to an amendment published at 85 FR 85040, Dec. 28, 2020.
 
 (*7*) G0443 (code for alcohol misuse counseling service).
 
-(2) For the performance year starting on January 1, 2020, and for any subsequent performance year that starts during the COVID-19 Public Health Emergency defined in § 400.200, in determining beneficiary assignment, we use the primary care service codes identified in paragraph (c)(1) of this section, and additional primary care service codes as follows:
+(v) For the performance year starting on January 1, 2021, and subsequent performance years as follows:
 
-(i) CPT codes:
+(A) CPT codes:
 
-(A) 99421, 99422, and 99423 (codes for online digital evaluation and management services).
+(*1*) 96160 and 96161 (codes for administration of health risk assessment).
 
-(B) 99441, 99442, and 99443 (codes for telephone evaluation and management services).
+(*2*) 99201 through 99215 (codes for office or other outpatient visit for the evaluation and management of a patient).
 
-(ii) HCPCS codes:
+(*3*) 99304 through 99318 (codes for professional services furnished in a nursing facility; professional services or services reported on an FQHC or RHC claim identified by these codes are excluded when furnished in a SNF).
 
-(A) G2010 (code for remote evaluation of patient video/images).
+(*4*) 99319 through 99340 (codes for patient domiciliary, rest home, or custodial care visit).
 
-(B) G2012 (code for virtual check-in).
+(*5*) 99341 through 99350 (codes for evaluation and management services furnished in a patient's home for claims identified by place of service modifier 12).
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32840, June 9, 2015; 82 FR 53369, Nov. 15, 2017; 83 FR 60092, Nov. 23, 2018; 83 FR 68069, Dec. 31, 2018; 85 FR 27625, May 8, 2020]
+(*6*) 99354 and 99355 (add-on codes, for prolonged evaluation and management or psychotherapy services beyond the typical service time of the primary procedure; when the base code is also a primary care service code under this paragraph (c)(1)(v)).
+
+(*7*) 99421, 99422, and 99423 (codes for online digital evaluation and management).
+
+(*8*) 99439 (code for non-complex chronic care management).
+
+(*9*) 99483 (code for assessment of and care planning for patients with cognitive impairment).
+
+(*10*) 99484, 99492, 99493 and 99494 (codes for behavioral health integration services).
+
+(*11*) 99487, 99489, 99490 and 99491 (codes for chronic care management).
+
+(*12*) 99495 and 99496 (codes for transitional care management services).
+
+(*13*) 99497 and 99498 (codes for advance care planning; services identified by these codes furnished in an inpatient setting are excluded).
+
+(B) HCPCS codes:
+
+(*1*) G0402 (code for the Welcome to Medicare visit).
+
+(*2*) G0438 and G0439 (codes for the annual wellness visits).
+
+(*3*) G0442 (code for alcohol misuse screening service).
+
+(*4*) G0443 (code for alcohol misuse counseling service).
+
+(*5*) G0444 (code for annual depression screening service).
+
+(*6*) G0463 (code for services furnished in ETA hospitals).
+
+(*7*) G0506 (code for chronic care management).
+
+(*8*) G2010 (code for the remote evaluation of patient video/images).
+
+(*9*) G2012 (code for virtual check-in).
+
+(*10*) G2058 (code for non-complex chronic care management).
+
+(*11*) G2064 and G2065 (codes for principal care management services).
+
+(*12*) G2214 (code for psychiatric collaborative care model).
+
+(2)(i) When the assignment window (as defined in § 425.20) for a benchmark or performance year includes any month(s) during the COVID-19 Public Health Emergency defined in § 400.200 of this chapter, in determining beneficiary assignment, we use the primary care service codes identified in paragraph (c)(1) of this section, and additional primary care service codes as follows:
+
+(A) CPT codes:
+
+(*1*) 99421, 99422, and 99423 (codes for online digital evaluation and management services).
+
+(*2*) 99441, 99442, and 99443 (codes for telephone evaluation and management services).
+
+(B) HCPCS codes:
+
+(*1*) G2010 (code for the remote evaluation of patient video/images).
+
+(*2*) G2012 (code for virtual check-in).
+
+(ii) The additional primary care service codes specified in paragraph (c)(2)(i) of this section are applicable to all months of the assignment window (as defined in § 425.20), when the assignment window includes any month(s) during the COVID-19 Public Health Emergency defined in § 400.200 of this chapter.
+
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32840, June 9, 2015; 82 FR 53369, Nov. 15, 2017; 83 FR 60092, Nov. 23, 2018; 83 FR 68069, Dec. 31, 2018; 85 FR 27625, May 8, 2020; 85 FR 85040, Dec. 28, 2020]

@@ -1,12 +1,10 @@
 ##### § 425.800 Preclusion of administrative and judicial review. #####
 
-Link to an amendment published at 85 FR 85044, Dec. 28, 2020.
-
 (a) There is no reconsideration, appeal, or other administrative or judicial review of the following determinations under this part:
 
-(1) The specification of quality and performance standards under § 425.500 and § 425.502.
+(1) The specification of quality and performance standards under §§ 425.500, 425.502, 425.510, and 425.512.
 
-(2) The assessment of the quality of care furnished by an ACO under the performance standards established in § 425.502.
+(2) The assessment of the quality of care furnished by an ACO under the performance standards established in § 425.502 or § 425.512, as applicable.
 
 (3) The assignment of Medicare fee-for-service beneficiaries under Subpart E of this part.
 
@@ -14,10 +12,10 @@ Link to an amendment published at 85 FR 85044, Dec. 28, 2020.
 
 (5) The percent of shared savings specified by the Secretary and the limit on the total amount of shared savings established under §§ 425.604, 425.605, 425.606, and 425.610.
 
-(6) The termination of an ACO for failure to meet the quality performance standards established under § 425.502.
+(6) The termination of an ACO for failure to meet the quality performance standards established under § 425.502 or § 425.512, as applicable.
 
 (7) The termination of a beneficiary incentive program established under § 425.304(c).
 
 (b) [Reserved]
 
-[76 FR 67973, Nov. 2, 2011, as amended at 81 FR 38017, June 10, 2016; 83 FR 68082, Dec. 31, 2018]
+[76 FR 67973, Nov. 2, 2011, as amended at 81 FR 38017, June 10, 2016; 83 FR 68082, Dec. 31, 2018; 85 FR 85044, Dec. 28, 2020]

@@ -1,8 +1,16 @@
 ##### § 410.15 Annual wellness visits providing Personalized Prevention Plan Services: Conditions for and limitations on coverage. #####
 
-Link to an amendment published at 85 FR 85025, Dec. 28, 2020.
+(a) *Definitions.* For purposes of this section—
 
-(a) *Definitions.* For purposes of this section -
+*A review of any current opioid prescriptions* means, with respect to the individual determined to have a current prescription for opioids, all of the following:
+
+(i) A review of the potential risk factors to the individual for opioid use disorder;
+
+(ii) An evaluation of the individual's severity of pain and current treatment plan;
+
+(iii) The provision of information on non-opioid treatment options; and
+
+(iv) A referral to a specialist, as appropriate.
 
 *Detection of any cognitive impairment* means assessment of an individual's cognitive function by direct observation, with due consideration of information obtained by way of patient report, concerns raised by family members, friends, caretakers or others.
 
@@ -42,9 +50,13 @@ Link to an amendment published at 85 FR 85025, Dec. 28, 2020.
 
 (x) At the discretion of the beneficiary, furnish advance care planning services to include discussion about future care decisions that may need to be made, how the beneficiary can let others know about care preferences, and explanation of advance directives which may involve the completion of standard forms.
 
-(xi) Any other element determined appropriate through the national coverage determination process.
+(xi) Furnishing of a review of any current opioid prescriptions as that term is defined in this section.
 
-*Health professional* means -
+(xii) Screening for potential substance use disorders including a review of the individual's potential risk factors for substance use disorder and referral for treatment as appropriate.
+
+(xiii) Any other element determined appropriate through the national coverage determination process.
+
+*Health professional* means—
 
 (i) A physician who is a doctor of medicine or osteopathy (as defined in section 1861(r)(1) of the Act); or
 
@@ -108,11 +120,15 @@ Link to an amendment published at 85 FR 85025, Dec. 28, 2020.
 
 (viii) At the discretion of the beneficiary, furnish advance care planning services to include discussion about future care decisions that may need to be made, how the beneficiary can let others know about care preferences, and explanation of advance directives which may involve the completion of standard forms.
 
-(ix) Any other element determined appropriate through the national coverage determination process.
+(ix) Furnishing of a review of any current opioid prescriptions as that term is defined in this section.
+
+(x) Screening for potential substance use disorders including a review of the individual's potential risk factors for substance use disorder and referral for treatment as appropriate.
+
+(xi) Any other element determined appropriate through the national coverage determination process.
 
 (b) *Conditions for coverage of annual wellness visits providing personalized prevention plan services.* Medicare Part B pays for first and subsequent annual wellness visits providing personalized prevention plan services that are furnished to an eligible beneficiary, as described in this section, if they are furnished by a health professional, as defined in this section.
 
-(c) *Limitations on coverage of an annual wellness visit providing personalized prevention plan services.* Payment may not be made for either a first or a subsequent annual wellness visit providing personalized prevention plan services that is performed for an individual who is -
+(c) *Limitations on coverage of an annual wellness visit providing personalized prevention plan services.* Payment may not be made for either a first or a subsequent annual wellness visit providing personalized prevention plan services that is performed for an individual who is—
 
 (1) Not an eligible beneficiary as described in this section.
 
@@ -120,4 +136,4 @@ Link to an amendment published at 85 FR 85025, Dec. 28, 2020.
 
 (d) *Effective date.* Coverage for an annual wellness visit providing personalized prevention plan services is effective for services furnished on or after January 1, 2011.
 
-[75 FR 73613, Nov. 29, 2010, as amended at 76 FR 1367, Jan. 10, 2011; 76 FR 73470, Nov. 28, 2011; 80 FR 71372, Nov. 16, 2015]
+[75 FR 73613, Nov. 29, 2010, as amended at 76 FR 1367, Jan. 10, 2011; 76 FR 73470, Nov. 28, 2011; 80 FR 71372, Nov. 16, 2015; 85 FR 85025, Dec. 28, 2020]

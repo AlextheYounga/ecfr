@@ -1,12 +1,10 @@
 ##### § 411.362 Additional requirements concerning physician ownership and investment in hospitals. #####
 
-Link to an amendment published at 85 FR 86299, Dec. 29, 2020.
+(a) *Definitions.* For purposes of this section—
 
-(a) *Definitions.* For purposes of this section -
+*Baseline number of operating rooms, procedure rooms, and beds* means the number of operating rooms, procedure rooms, and beds for which the applicable hospital or high Medicaid facility is licensed as of March 23, 2010 (or, in the case of a hospital that did not have a provider agreement in effect as of such date, but does have a provider agreement in effect on December 31, 2010, the date of effect of such agreement). For purposes of determining the number of beds in a hospital's baseline number of operating rooms, procedure rooms, and beds, a bed is included if the bed is considered licensed for purposes of State licensure, regardless of the specific number of beds identified on the physical license issued to the hospital by the State.
 
-*Baseline number of operating rooms, procedure rooms, and beds* means the number of operating rooms, procedure rooms, and beds for which the applicable hospital or high Medicaid facility is licensed as of March 23, 2010 (or, in the case of a hospital that did not have a provider agreement in effect as of such date, but does have a provider agreement in effect on December 31, 2010, the date of effect of such agreement).
-
-*External data source* means a data source that -
+*External data source* means a data source that—
 
 (1) Is generated, maintained, or under the control of a State Medicaid agency;
 
@@ -22,7 +20,7 @@ Link to an amendment published at 85 FR 86299, Dec. 29, 2020.
 
 (1) A direct ownership or investment interest in a hospital exists if the ownership or investment interest in the hospital is held without any intervening persons or entities between the hospital and the owner or investor.
 
-(2) An indirect ownership or investment interest in a hospital exists if -
+(2) An indirect ownership or investment interest in a hospital exists if—
 
 (i) Between the owner or investor and the hospital there exists an unbroken chain of any number (but no fewer than one) of persons or entities having ownership or investment interests; and
 
@@ -42,7 +40,7 @@ Link to an amendment published at 85 FR 86299, Dec. 29, 2020.
 
 (3) *Disclosure of conflicts of interest.* (i) At such time and in such manner as specified by CMS, the hospital must submit an annual report to CMS containing a detailed description of the identity of each owner or investor in the hospital and the nature and extent of all ownership and investment interests in the hospital.
 
-(ii) The hospital must -
+(ii) The hospital must—
 
 (A) Require each referring physician owner or investor who is a member of the hospital's medical staff to agree, as a condition of continued medical staff membership or admitting privileges, to provide written disclosure of his or her ownership or investment interest in the hospital (and, if applicable, the ownership or investment interest of any treating physician) to all patients whom the physician refers to the hospital. Disclosure must be required by a time that permits the patient to make a meaningful decision regarding the receipt of care.
 
@@ -74,7 +72,7 @@ Link to an amendment published at 85 FR 86299, Dec. 29, 2020.
 
 (6) *Prohibition on conversion from an ambulatory surgery center.* The hospital must not have been converted from an ambulatory surgical center to a hospital on or after March 23, 2010.
 
-(c) *Criteria for an individual hospital seeking an exception to the prohibition on facility expansion* - (1) *General.* An applicable hospital or high Medicaid facility may request an exception from the prohibition on facility expansion up to once every 2 years from the date of a CMS decision on the hospital's most recent request.
+(c) *Criteria for an individual hospital seeking an exception to the prohibition on facility expansion*— (1) *General.* An applicable hospital may request an exception from the prohibition on facility expansion up to once every 2 years from the date of a CMS decision on the hospital's most recent request. A high Medicaid facility may request an exception from the prohibition on facility expansion at any time, provided that it has not submitted another request for an exception to the prohibition on facility expansion for which CMS has not issued a decision.
 
 (2) *Criteria for applicable hospital.* An applicable hospital is a hospital that satisfies all of the following criteria:
 
@@ -124,19 +122,19 @@ Link to an amendment published at 85 FR 86299, Dec. 29, 2020.
 
 (5) *Community input and timing of complete request*. Upon submitting a request for an exception and until the hospital receives a CMS decision, the hospital must disclose on any public Web site for the hospital that it is requesting an exception and must also provide actual notification that it is requesting an exception, in either electronic or hard copy form, directly to hospitals whose data are part of the comparisons in paragraphs (c)(2)(ii) and (c)(3)(ii) of this section. Individuals and entities in the hospital's community may provide input with respect to the hospital's request no later than 30 days after CMS publishes notice of the hospital's request in the Federal Register. Such input must take the form of written comments. The written comments must be either mailed or submitted electronically to CMS. If CMS receives written comments from the community, the hospital has 30 days after CMS notifies the hospital of the written comments to submit a rebuttal statement.
 
-(i) If only filed Medicare hospital cost report data are used in the hospital's request, the written comments, and the hospital's rebuttal statement -
+(i) If only filed Medicare hospital cost report data are used in the hospital's request, the written comments, and the hospital's rebuttal statement—
 
 (A) A request will be deemed complete at the end of the 30-day comment period if CMS does not receive written comments from the community.
 
 (B) A request will be deemed complete at the end of the 30-day rebuttal period, regardless of whether the hospital submits a rebuttal statement, if CMS receives written comments from the community.
 
-(ii) If data from an external data source are used in the hospital's request, the written comments, or the hospital's rebuttal statement -
+(ii) If data from an external data source are used in the hospital's request, the written comments, or the hospital's rebuttal statement—
 
 (A) A request will be deemed complete no later than 180 days after the end of the 30-day comment period if CMS does not receive written comments from the community.
 
 (B) A request will be deemed complete no later than 180 days after the end of the 30-day rebuttal period, regardless of whether the hospital submits a rebuttal statement, if CMS receives written comments from the community.
 
-(6) A permitted increase under this section -
+(6) *Permitted increase in facility capacity.* With respect to an applicable hospital only, a permitted increase under this section—
 
 (i) May not result in the number of operating rooms, procedure rooms, and beds for which the hospital is licensed exceeding 200 percent of the hospital's baseline number of operating rooms, procedure rooms, and beds; and
 
@@ -146,4 +144,4 @@ Link to an amendment published at 85 FR 86299, Dec. 29, 2020.
 
 (8) *Limitation on review.* There shall be no administrative or judicial review under section 1869, section 1878, or otherwise of the process under this section (including the establishment of such process).
 
-[75 FR 72260, Nov. 24, 2010, as amended at 76 FR 74581, Nov. 30, 2011; 79 FR 67029, Nov. 10, 2014; 80 FR 71378, Nov. 16, 2015]
+[75 FR 72260, Nov. 24, 2010, as amended at 76 FR 74581, Nov. 30, 2011; 79 FR 67029, Nov. 10, 2014; 80 FR 71378, Nov. 16, 2015; 85 FR 86299, Dec. 29, 2020]

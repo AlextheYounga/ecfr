@@ -1,7 +1,5 @@
 ##### § 410.32 Diagnostic x-ray tests, diagnostic laboratory tests, and other diagnostic tests: Conditions. #####
 
-Link to an amendment published at 85 FR 85026, Dec. 28, 2020.
-
 (a) *Ordering diagnostic tests.* Except as otherwise provided in this section, all diagnostic x-ray tests, diagnostic laboratory tests, and other diagnostic tests must be ordered by the physician who is treating the beneficiary, that is, the physician who furnishes a consultation or treats a beneficiary for a specific medical problem and who uses the results in the management of the beneficiary's specific medical problem. Tests not ordered by the physician who is treating the beneficiary are not reasonable and necessary (see § 411.15(k)(1) of this chapter).
 
 (1) *Mammography exception.* A physician who meets the qualification requirements for an interpreting physician under section 354 of the Public Health Service Act as provided in § 410.34(a)(7) may order a diagnostic mammogram based on the findings of a screening mammogram even though the physician does not treat the beneficiary.
@@ -10,7 +8,8 @@ Link to an amendment published at 85 FR 85026, Dec. 28, 2020.
 
 (3) *Public Health Emergency exceptions.* During the Public Health Emergency for COVID-19, as defined in § 400.200 of this chapter, the order of a physician or other applicable practitioner is not required for one otherwise covered diagnostic laboratory test for COVID-19 and for one otherwise covered diagnostic laboratory test each for influenza virus or similar respiratory condition needed to obtain a final COVID-19 diagnosis when performed in conjunction with COVID-19 diagnostic laboratory test in order to rule-out influenza virus or related diagnosis. Subsequent otherwise covered COVID-19 and related tests described in the previous sentence are reasonable and necessary when ordered by a physician or nonphysician practitioner in accordance with this paragraph (a), or when ordered by a pharmacist or other healthcare professional who is authorized under applicable state law to order diagnostic laboratory tests. FDA-authorized COVID-19 serology tests are included as covered tests subject to the same order requirements during the Public Health Emergency for COVID-19, as defined in § 400.20 of this chapter, as they are reasonable and necessary under section 1862(a)(1)(A) of the Act for beneficiaries with known current or known prior COVID-19 infection or suspected current or suspected prior COVID-19 infection.
 
-(b) *Diagnostic x-ray and other diagnostic tests* - (1) *Basic rule.* Except as indicated in paragraph (b)(2) of this section, all diagnostic x-ray and other diagnostic tests covered under section 1861(s)(3) of the Act and payable under the physician fee schedule must be furnished under the appropriate level of supervision by a physician as defined in section 1861(r) of the Act or, during the Public Health Emergency as defined in § 400.200 of this chapter, for the COVID-19 pandemic, by a nurse practitioner, clinical nurse specialist, physician assistant or a certified nurse-midwife to the extent that they are authorized to do so under applicable state law. Services furnished without the required level of supervision are not reasonable and necessary (see § 411.15(k)(1) of this chapter).
+(b) *Diagnostic x-ray and other diagnostic tests* -
+(1) *Basic rule.* Except as indicated in paragraph (b)(2) of this section, all diagnostic x-ray and other diagnostic tests covered under section 1861(s)(3) of the Act and payable under the physician fee schedule must be furnished under the appropriate level of supervision by a physician as defined in section 1861(r) of the Act or, to the extent that they are authorized to do so under their scope of practice and applicable State law, by a nurse practitioner, clinical nurse specialist, physician assistant, certified registered nurse anesthetist, or a certified nurse-midwife. Services furnished without the required level of supervision are not reasonable and necessary (see § 411.15(k)(1) of this chapter).
 
 (2) *Exceptions.* The following diagnostic tests payable under the physician fee schedule are excluded from the basic rule set forth in paragraph (b)(1) of this section:
 
@@ -22,7 +21,7 @@ Link to an amendment published at 85 FR 85026, Dec. 28, 2020.
 
 (A) Personally furnished by a clinical psychologist or an independently practicing psychologist as defined in program instructions; or
 
-(B) Furnished under the general supervision of a physician, clinical psychologist, or during the Public Health Emergency, as defined in § 400.200 of this chapter, for the COVID-19 pandemic, by a nurse practitioner, clinical nurse specialist, physician assistant or a certified nurse-midwife, to the extent that they are authorized to perform the tests under applicable State law.
+(B) Furnished under the general supervision of a physician or clinical psychologist; or under the general supervision of a nurse practitioner, clinical nurse specialist, physician assistant, certified registered nurse anesthetist or certified nurse-midwife, to the extent they are authorized to perform the tests under their scope of practice and applicable State laws.
 
 (iv) Diagnostic tests (as established through program instructions) personally performed by a physical therapist who is certified by the American Board of Physical Therapy Specialties as a qualified electrophysiologic clinical specialist and permitted to provide the service under State law.
 
@@ -34,11 +33,13 @@ Link to an amendment published at 85 FR 85026, Dec. 28, 2020.
 
 (viii) During the COVID-19 Public Health Emergency as defined in § 400.200 of this chapter, diagnostic tests performed by a physician assistant authorized to perform the tests under applicable State law.
 
+(ix) Diagnostic tests performed by a physician assistant authorized to perform the tests under their scope of practice and applicable State laws.
+
 (3) *Levels of supervision.* Except where otherwise indicated, all diagnostic x-ray and other diagnostic tests subject to this provision and payable under the physician fee schedule must be furnished under at least a general level of supervision as defined in paragraph (b)(3)(i) of this section. In addition, some of these tests also require either direct or personal supervision as defined in paragraph (b)(3)(ii) or (iii) of this section, respectively. When direct or personal supervision is required, supervision at the specified level is required throughout the performance of the test.
 
 (i) *General supervision* means the procedure is furnished under the physician's overall direction and control, but the physician's presence is not required during the performance of the procedure. Under general supervision, the training of the nonphysician personnel who actually perform the diagnostic procedure and the maintenance of the necessary equipment and supplies are the continuing responsibility of the physician.
 
-(ii) *Direct supervision* in the office setting means the physician must be present in the office suite and immediately available to furnish assistance and direction throughout the performance of the procedure. It does not mean that the physician must be present in the room when the procedure is performed. During a PHE, as defined in § 400.200 of this chapter, the presence of the physician includes virtual presence through audio/video real-time communications technology when use of such technology is indicated to reduce exposure risks for the beneficiary or health care provider.
+(ii) *Direct supervision* in the office setting means the physician (or other supervising practitioner) must be present in the office suite and immediately available to furnish assistance and direction throughout the performance of the procedure. It does not mean that the physician (or other supervising practitioner) must be present in the room when the procedure is performed. Until the later of the end of the calendar year in which the PHE as defined in § 400.200 of this chapter ends or, December 31, 2021, the presence of the physician (or other practitioner) includes virtual presence through audio/video real-time communications technology (excluding audio-only).
 
 (iii) *Personal supervision* means a physician must be in attendance in the room during the performance of the procedure.
 
@@ -114,4 +115,4 @@ Link to an amendment published at 85 FR 85026, Dec. 28, 2020.
 
 (e) *Diagnostic laboratory tests furnished in hospitals and CAHs.* The provisions of paragraphs (a) and (d)(2) through (d)(4) of this section, inclusive, of this section apply to all diagnostic laboratory test furnished by hospitals and CAHs to outpatients.
 
-[62 FR 59098, Oct. 31, 1997, as amended at 63 FR 26308, May 12, 1998; 63 FR 53307, Oct. 5, 1998; 63 FR 58906, Nov. 2, 1998; 64 FR 59440, Nov. 2, 1999; 66 FR 58809, Nov. 23, 2001; 69 FR 66421, Nov. 15, 2004; 72 FR 66398, Nov. 27, 2007; 75 FR 73615, Nov. 29, 2010; 77 FR 69361, Nov. 16, 2012; 83 FR 60073, Nov. 23, 2018; 85 FR 19286, Apr. 6, 2020; 85 FR 27620, May 8, 2020; 85 FR 54871, Sept. 2, 2020]
+[62 FR 59098, Oct. 31, 1997, as amended at 63 FR 26308, May 12, 1998; 63 FR 53307, Oct. 5, 1998; 63 FR 58906, Nov. 2, 1998; 64 FR 59440, Nov. 2, 1999; 66 FR 58809, Nov. 23, 2001; 69 FR 66421, Nov. 15, 2004; 72 FR 66398, Nov. 27, 2007; 75 FR 73615, Nov. 29, 2010; 77 FR 69361, Nov. 16, 2012; 83 FR 60073, Nov. 23, 2018; 85 FR 19286, Apr. 6, 2020; 85 FR 27620, May 8, 2020; 85 FR 54871, Sept. 2, 2020; 85 FR 85026, Dec. 28, 2020]

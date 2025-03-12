@@ -1,6 +1,6 @@
 ##### § 1544.211 Use of X-ray systems. #####
 
-(a) *TSA authorization required.* No aircraft operator may use any X-ray system within the United States or under the aircraft operator's operational control outside the United States to inspect accessible property or checked baggage, unless specifically authorized under its security program. No aircraft operator may use such a system in a manner contrary to its security program. TSA authorizes aircraft operators to use X-ray systems for inspecting accessible property or checked baggage under a security program if the aircraft operator shows that -
+(a) *TSA authorization required.* No aircraft operator may use any X-ray system within the United States or under the aircraft operator's operational control outside the United States to inspect accessible property or checked baggage, unless specifically authorized under its security program. No aircraft operator may use such a system in a manner contrary to its security program. TSA authorizes aircraft operators to use X-ray systems for inspecting accessible property or checked baggage under a security program if the aircraft operator shows that—
 
 (1) The system meets the standards for cabinet X-ray systems primarily for the inspection of baggage issued by the Food and Drug Administration (FDA) and published in 21 CFR 1020.40;
 
@@ -22,13 +22,13 @@
 
 (4) If requested by individuals, their photographic equipment and film packages must be inspected without exposure to an X-ray system.
 
-(f) *Radiation survey verification after installation or moving.* Each aircraft operator must maintain at least one copy of the results of the most recent radiation survey conducted under paragraph (b) or (c) of this section and must make it available for inspection upon request by TSA at each of the following locations -
+(f) *Radiation survey verification after installation or moving.* Each aircraft operator must maintain at least one copy of the results of the most recent radiation survey conducted under paragraph (b) or (c) of this section and must make it available for inspection upon request by TSA at each of the following locations—
 
 (1) The aircraft operator's principal business office; and
 
 (2) The place where the X-ray system is in operation.
 
-(g) *Incorporation by reference.* The American Society for Testing and Materials (ASTM) Standard F792-88 (Reapproved 1993), “Standard Practice for Design and Use of Ionizing Radiation Equipment for the Detection of Items Prohibited in Controlled Access Areas,” is approved for incorporation by reference by the Director of the Federal Register pursuant to 5 U.S.C. 552(a) and l CFR part 51. ASTM Standard F792-88 may be examined at the Department of Transportation (DOT) Docket, 400 Seventh Street SW, Room Plaza 401, Washington, DC 20590, or on DOT's Docket Management System (DMS) web page at *http://dms.dot.gov/search* (under docket number FAA-2001-8725). Copies of the standard may be examined also at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.\\n.* In addition, ASTM Standard F792-88 (Reapproved 1993) may be obtained from the American Society for Testing and Materials, 100 Barr Harbor Drive, West Conshohocken, PA 19428-2959.
+(g) *Incorporation by reference.* The American Society for Testing and Materials (ASTM) Standard F792-88 (Reapproved 1993), “Standard Practice for Design and Use of Ionizing Radiation Equipment for the Detection of Items Prohibited in Controlled Access Areas,” is approved for incorporation by reference by the Director of the Federal Register pursuant to 5 U.S.C. 552(a) and l CFR part 51. ASTM Standard F792-88 may be examined at the Department of Transportation (DOT) Docket, 400 Seventh Street SW, Room Plaza 401, Washington, DC 20590, or on DOT's Docket Management System (DMS) web page at *http://dms.dot.gov/search* (under docket number FAA-2001-8725). Copies of the standard may be examined also at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* In addition, ASTM Standard F792-88 (Reapproved 1993) may be obtained from the American Society for Testing and Materials, 100 Barr Harbor Drive, West Conshohocken, PA 19428-2959.
 
 (h) *Duty time limitations.* Each aircraft operator must comply with the X-ray operator duty time limitations specified in its security program.
 

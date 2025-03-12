@@ -1,20 +1,18 @@
 ##### § 413.237 Outliers. #####
 
-Link to an amendment published at 85 FR 71487, Nov. 9, 2020.
-
 (a) The following definitions apply to this section.
 
 (1) *ESRD outlier services* are the following items and services that are included in the ESRD PPS bundle:
 
-(i) Renal dialysis drugs and biological products that were or would have been, prior to January 1, 2011, separately billable under Medicare Part B;
+(i) Renal dialysis drugs and biological products that were or would have been, prior to January 1, 2011, separately billable under Medicare Part B.
 
-(ii) Renal dialysis laboratory tests that were or would have been, prior to January 1, 2011, separately billable under Medicare Part B;
+(ii) Renal dialysis laboratory tests that were or would have been, prior to January 1, 2011, separately billable under Medicare Part B.
 
-(iii) Renal dialysis medical/surgical supplies, including syringes, used to administer renal dialysis drugs and biological products that were or would have been, prior to January 1, 2011, separately billable under Medicare Part B;
+(iii) Renal dialysis medical/surgical supplies, including syringes, used to administer renal dialysis drugs and biological products that were or would have been, prior to January 1, 2011, separately billable under Medicare Part B.
 
-(iv) Renal dialysis drugs and biological products that were or would have been, prior to January 1, 2011, covered under Medicare Part D, including renal dialysis oral-only drugs effective January 1, 2025; and
+(iv) Renal dialysis drugs and biological products that were or would have been, prior to January 1, 2011, covered under Medicare Part D, including renal dialysis oral-only drugs effective January 1, 2025.
 
-(v) Renal dialysis equipment and supplies that receive the transitional add-on payment adjustment as specified in § 413.236 after the payment period has ended.
+(v) Renal dialysis equipment and supplies, except for capital-related assets that are home dialysis machines (as defined in § 413.236(a)(2)), that receive the transitional add-on payment adjustment as specified in § 413.236, after the payment period has ended.
 
 (vi) As of January 1, 2012, the laboratory tests that comprise the Automated Multi-Channel Chemistry panel are excluded from the definition of outlier services.
 
@@ -28,7 +26,7 @@ Link to an amendment published at 85 FR 71487, Nov. 9, 2020.
 
 (6) *Outlier Percentage:* This term has the meaning set forth in § 413.220(b)(4).
 
-(b) *Eligibility for outlier payments* - (1) *Adult beneficiaries.* An ESRD facility will receive an outlier payment for a treatment furnished to an adult beneficiary if the ESRD facility's per-treatment imputed MAP amount for ESRD outlier services exceeds the adult predicted ESRD outlier services MAP amount plus the adult fixed dollar loss amount. To calculate the ESRD facility's per-treatment imputed MAP amount for an adult beneficiary, CMS divides the ESRD facility's monthly imputed MAP amount of providing ESRD outlier services to the adult beneficiary by the number of dialysis treatments furnished to the adult beneficiary in the relevant month. A beneficiary is considered an adult beneficiary if the beneficiary is 18 years old or older.
+(b) *Eligibility for outlier payments*—(1) *Adult beneficiaries.* An ESRD facility will receive an outlier payment for a treatment furnished to an adult beneficiary if the ESRD facility's per-treatment imputed MAP amount for ESRD outlier services exceeds the adult predicted ESRD outlier services MAP amount plus the adult fixed dollar loss amount. To calculate the ESRD facility's per-treatment imputed MAP amount for an adult beneficiary, CMS divides the ESRD facility's monthly imputed MAP amount of providing ESRD outlier services to the adult beneficiary by the number of dialysis treatments furnished to the adult beneficiary in the relevant month. A beneficiary is considered an adult beneficiary if the beneficiary is 18 years old or older.
 
 (2) *Pediatric beneficiaries.* An ESRD facility will receive an outlier payment for a treatment furnished to a pediatric beneficiary if the ESRD facility's per-treatment imputed MAP amount for ESRD outlier services exceeds the pediatric predicted ESRD outlier services MAP amount plus the pediatric fixed dollar loss amount. To calculate the ESRD facility's per-treatment imputed MAP amount for a pediatric beneficiary, CMS divides the ESRD facility's monthly imputed MAP amount of providing ESRD outlier services to the pediatric beneficiary by the number of dialysis treatments furnished to the pediatric beneficiary in the relevant month. A beneficiary is considered a pediatric beneficiary if the beneficiary is under 18 years old.
 
@@ -38,4 +36,4 @@ Link to an amendment published at 85 FR 71487, Nov. 9, 2020.
 
 (2) The adult or pediatric predicted ESRD outlier services MAP amount plus the adult or pediatric fixed dollar loss amount, as applicable.
 
-[75 FR 49201, Aug. 12, 2010, as amended at 76 FR 70314, Nov. 10, 2011; 78 FR 72252, Dec. 2, 2013; 79 FR 66262, Nov. 6, 2014; 80 FR 69077, Nov. 6, 2015; 84 FR 60806, Nov. 8, 2019]
+[75 FR 49201, Aug. 12, 2010, as amended at 76 FR 70314, Nov. 10, 2011; 78 FR 72252, Dec. 2, 2013; 79 FR 66262, Nov. 6, 2014; 80 FR 69077, Nov. 6, 2015; 84 FR 60806, Nov. 8, 2019; 85 FR 71487, Nov. 9, 2020]

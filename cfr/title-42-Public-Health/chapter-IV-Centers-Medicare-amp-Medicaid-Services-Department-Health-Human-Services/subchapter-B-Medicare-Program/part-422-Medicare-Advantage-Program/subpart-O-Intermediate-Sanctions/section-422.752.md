@@ -1,7 +1,5 @@
 ##### § 422.752 Basis for imposing intermediate sanctions and civil money penalties. #####
 
-Link to an amendment published at 84 FR 15839, April 16, 2019.
-
 (a) *All intermediate sanctions.* For the violations listed in this paragraph, CMS may impose one or more of the sanctions specified in § 422.750(a) of this subpart on any MA organization with a contract. The MA organization may also be subject to other remedies authorized under law.
 
 (1) Fails substantially to provide medically necessary items and services that are required (under law or under the contract) to be provided to an individual covered under the contract, if the failure has adversely affected (or has the substantial likelihood of adversely affecting) the individual.
@@ -12,7 +10,7 @@ Link to an amendment published at 84 FR 15839, April 16, 2019.
 
 (4) Engages in any practice that would reasonably be expected to have the effect of denying or discouraging enrollment (except as permitted by this part) by eligible individuals with the organization whose medical condition or history indicates a need for substantial future medical services.
 
-(5) Misrepresents or falsifies information that it furnishes -
+(5) Misrepresents or falsifies information that it furnishes—
 
 (i) To CMS; or
 
@@ -56,4 +54,6 @@ Link to an amendment published at 84 FR 15839, April 16, 2019.
 
 (ii) Determinations made under § 422.510(a)(4)(i).
 
-[63 FR 35115, June 26, 1998; 63 FR 52614, Oct. 1, 1998, as amended at 69 FR 78338, Dec. 30, 2004; 70 FR 4741, Jan. 28, 2005; 70 FR 52027, Sept. 1, 2005; 72 FR 68725, Dec. 5, 2007; 75 FR 19814, Apr. 15, 2010; 79 FR 29959, May 23, 2014; 81 FR 80557, Nov. 15, 2016; 83 FR 16734, Apr. 16, 2018]
+(d) *Special rule for non-compliant dual eligible special needs plans.* Notwithstanding any other provision of this section, CMS must impose during plan years 2021 through 2025 intermediate sanctions specified at § 422.750(a) on an MA organization with a contract to operate a dual eligible special needs plan if CMS determines that the dual eligible special needs plan fails to comply with at least one of the criteria for the integration of Medicare and Medicaid benefits provided in the definition of a dual eligible special needs plan at § 422.2. If CMS imposes such an intermediate sanction, the MA organization must submit to CMS a corrective action plan in a form, manner, and timeframe established by CMS. The procedures outlined in § 422.756 apply to the imposition of the intermediate sanction under this provision.
+
+[63 FR 35115, June 26, 1998; 63 FR 52614, Oct. 1, 1998, as amended at 69 FR 78338, Dec. 30, 2004; 70 FR 4741, Jan. 28, 2005; 70 FR 52027, Sept. 1, 2005; 72 FR 68725, Dec. 5, 2007; 75 FR 19814, Apr. 15, 2010; 79 FR 29959, May 23, 2014; 81 FR 80557, Nov. 15, 2016; 83 FR 16734, Apr. 16, 2018; 84 FR 15839, April 16, 2019]

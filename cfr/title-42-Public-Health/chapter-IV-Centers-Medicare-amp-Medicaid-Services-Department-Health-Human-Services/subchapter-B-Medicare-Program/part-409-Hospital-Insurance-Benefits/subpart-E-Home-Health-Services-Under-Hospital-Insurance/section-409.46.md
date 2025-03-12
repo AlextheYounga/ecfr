@@ -1,7 +1,5 @@
 ##### § 409.46 Allowable administrative costs. #####
 
-Link to an amendment published at 85 FR 70354, Nov. 4, 2020.
-
 Services that are allowable as administrative costs but are not separately billable include, but are not limited to, the following:
 
 (a) *Registered nurse initial evaluation visits.* Initial evaluation visits by a registered nurse for the purpose of assessing a beneficiary's health needs, determining if the agency can meet those health needs, and formulating a plan of care for the beneficiary are allowable administrative costs. If a physician or allowed practitioner specifically orders that a particular skilled service be furnished during the evaluation in which the agency accepts the beneficiary for treatment and all other coverage criteria are met, the visit is billable as a skilled nursing visit. Otherwise it is considered to be an administrative cost.
@@ -12,6 +10,6 @@ Services that are allowable as administrative costs but are not separately billa
 
 (d) *Dietary and nutrition personnel.* If dieticians or nutritionists are used to provide overall training or consultative advice to HHA staff and incidentally provide dietetic or nutritional services to beneficiaries in their homes, the costs of these professional services are allowable as administrative costs. Visits by a dietician or nutritionist to a beneficiary's home are not separately billable.
 
-(e) *Remote patient monitoring.* Remote patient monitoring is defined as the collection of physiologic data (for example, ECG, blood pressure, or glucose monitoring) digitally stored and transmitted by the patient or caregiver or both to the home health agency. If remote patient monitoring is used by the home health agency to augment the care planning process, the costs of the equipment, set-up, and service related to this system are allowable only as administrative costs. Visits to a beneficiary's home for the sole purpose of supplying, connecting, or training the patient on the remote patient monitoring equipment, without the provision of a skilled service are not separately billable.
+(e) *Telecommunications technology.* Telecommunications technology, as indicated on the plan of care, can include: remote patient monitoring, defined as the collection of physiologic data (for example, ECG, blood pressure, glucose monitoring) digitally stored and/or transmitted by the patient or caregiver or both to the home health agency; teletypewriter (TTY); and 2-way audio-video telecommunications technology that allows for real-time interaction between the patient and clinician. The costs of any equipment, set-up, and service related to the technology are allowable only as administrative costs. Visits to a beneficiary's home for the sole purpose of supplying, connecting, or training the patient on the technology, without the provision of a skilled service, are not separately billable.
 
-[59 FR 65496, Dec. 20, 1994, as amended at 82 FR 4578, Jan. 13, 2017; 83 FR 56627, Nov. 13, 2018; 85 FR 27620, May 8, 2020]
+[59 FR 65496, Dec. 20, 1994, as amended at 82 FR 4578, Jan. 13, 2017; 83 FR 56627, Nov. 13, 2018; 85 FR 27620, May 8, 2020; 85 FR 70354, Nov. 4, 2020]

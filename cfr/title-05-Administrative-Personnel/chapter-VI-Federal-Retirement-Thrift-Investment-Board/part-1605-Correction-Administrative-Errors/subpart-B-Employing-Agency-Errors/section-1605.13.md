@@ -1,7 +1,5 @@
 ##### § 1605.13 Back pay awards and other retroactive pay adjustments. #####
 
-Link to an amendment published at 85 FR 72914, Nov. 16, 2020.
-
 (a) *Participant not employed.* The following rules apply to participants who receive a back pay award or other retroactive pay adjustment for a period during which the participant was separated from Government service or was not appointed to a position that is covered by FERS, CSRS, or an equivalent system under which TSP participation is authorized:
 
 (1) If the participant is reinstated or retroactively appointed to a position that is covered by FERS, CSRS, or an equivalent system under which TSP participation is authorized, immediately upon reinstatement or retroactive appointment the employing agency must give the participant the opportunity to submit a contribution election to make current contributions. The contribution election will be effective as soon as administratively feasible, but no later than the first day of the first full pay period after it is received.
@@ -30,7 +28,7 @@ Link to an amendment published at 85 FR 72914, Nov. 16, 2020.
 
 (1) Must be computed before the back pay award or other retroactive pay adjustment is paid, deducted from the back pay or other retroactive pay adjustment, and submitted to the TSP record keeper;
 
-(2) Must not cause the participant to exceed the annual contribution limit(s) contained in sections 402(g) and 415(c) of the I.R.C. (26 U.S.C. 402(g) and 415(c)) for the year(s) with respect to which the contributions are being made, taking into consideration the TSP contributions already made in (or with respect to) that year; and
+(2) Must not cause the participant to exceed the annual contribution limit(s) contained in sections 402(g), 415(c), or 414(v) of the I.R.C. (26 U.S.C. 402(g), 415(c), 414(v)) for the year(s) with respect to which the contributions are being made, taking into consideration the TSP contributions already made in (or with respect to) that year; and
 
 (3) Must be accompanied by attributable agency matching contributions. In any event, regardless of whether a participant elects to make up employee contributions, the employing agency must make all appropriate agency automatic (1%) contributions associated with the back pay award or other retroactive pay adjustment.
 
@@ -38,4 +36,4 @@ Link to an amendment published at 85 FR 72914, Nov. 16, 2020.
 
 (e) Participants who are covered by paragraph (d) of this section and who elect to return funds that were withdrawn may also elect to reinstate a loan which was previously declared to be a taxable distribution.
 
-[66 FR 44277, Aug. 22, 2001, as amended at 68 FR 35500, June 13, 2003; 68 FR 74451, Dec. 23, 2003; 70 FR 32211, June 1, 2005; 76 FR 78094, Dec. 16, 2011; 80 FR 57069, Sept. 22, 2015]
+[66 FR 44277, Aug. 22, 2001, as amended at 68 FR 35500, June 13, 2003; 68 FR 74451, Dec. 23, 2003; 70 FR 32211, June 1, 2005; 76 FR 78094, Dec. 16, 2011; 80 FR 57069, Sept. 22, 2015; 85 FR 72914, Nov. 16, 2020]

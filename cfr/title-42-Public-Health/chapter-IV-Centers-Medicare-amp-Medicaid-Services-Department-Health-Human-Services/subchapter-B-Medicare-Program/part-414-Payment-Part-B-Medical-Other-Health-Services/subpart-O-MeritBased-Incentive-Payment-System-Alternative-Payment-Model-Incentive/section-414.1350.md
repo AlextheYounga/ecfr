@@ -1,7 +1,5 @@
 ##### § 414.1350 Cost performance category. #####
 
-Link to an amendment published at 85 FR 85031, Dec. 28, 2020.
-
 (a) *Specification of cost measures.* For purposes of assessing performance of MIPS eligible clinicians on the cost performance category, CMS specifies cost measures for a performance period.
 
 (b) *Attribution.* (1) Cost measures are attributed at the TIN/NPI level for the 2017 thorough 2019 performance periods.
@@ -38,5 +36,8 @@ Link to an amendment published at 85 FR 85031, Dec. 28, 2020.
 
 (3) 15 percent of a MIPS eligible clinician's final score for MIPS payment years 2021 and 2022.
 
-[83 FR 60079, Nov. 23, 2018, as amended at 84 FR 63195, Nov. 15, 2019]
-]
+(4) 20 percent of the MIPS final score for MIPS payment year 2023.
+
+(5) 30 percent of the MIPS final score for MIPS payment year 2024 and each subsequent MIPS payment year.
+
+[83 FR 60079, Nov. 23, 2018, as amended at 84 FR 63195, Nov. 15, 2019, 85 FR 85031, Dec. 28, 2020 ]

@@ -1,7 +1,5 @@
 ##### § 409.49 Excluded services. #####
 
-Link to an amendment published at 85 FR 70354, Nov. 4, 2020.
-
 (a) *Drugs and biologicals.* Drugs and biologicals are excluded from payment under the Medicare home health benefit.
 
 (1) A drug is any chemical compound that may be used on or administered to humans or animals as an aid in the diagnosis, treatment or prevention of disease or other condition or for the relief of pain or suffering or to control or improve any physiological pathologic condition.
@@ -20,4 +18,6 @@ Link to an amendment published at 85 FR 70354, Nov. 4, 2020.
 
 (g) *Medical social services provided to family members.* Except as provided in § 409.45(c)(2), medical social services provided solely to members of the beneficiary's family and that are not incidental to covered medical social services being provided to the beneficiary are not covered.
 
-[59 FR 65497, Dec. 20, 1994; 60 FR 39123, Aug. 1, 1995]
+(h) *Services covered under the home infusion therapy benefit.* Services that are covered under the home infusion therapy benefit as outlined at § 486.525 of this chapter, including any home infusion therapy services furnished to a Medicare beneficiary that is under a home health plan of care, are excluded from coverage under the Medicare home health benefit. Excluded home infusion therapy services pertain to the items and services for the provision of home infusion drugs, as defined at § 486.505 of this chapter. Services for the provision of drugs and biologicals not covered under this definition may continue to be provided under the Medicare home health benefit.
+
+[59 FR 65497, Dec. 20, 1994; 60 FR 39123, Aug. 1, 1995; 85 FR 70354, Nov. 4, 2020]

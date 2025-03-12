@@ -1,7 +1,5 @@
 ##### § 425.224 Application procedures for renewing ACOs and re-entering ACOs. #####
 
-Link to an amendment published at 85 FR 85039, Dec. 28, 2020.
-
 (a) *General rules.* A renewing ACO or a re-entering ACO may apply to enter a new participation agreement with CMS for participation in the Shared Savings Program.
 
 (1) In order to obtain a determination regarding whether it meets the requirements to participate in the Shared Savings Program, the ACO must submit a complete application in the form and manner and by the deadline specified by CMS.
@@ -18,13 +16,7 @@ Link to an amendment published at 85 FR 85039, Dec. 28, 2020.
 
 (ii) The ACO's history of noncompliance with the requirements of the Shared Savings Program, including, but not limited to, the following factors:
 
-(A)(*1*) For an ACO that entered into a participation agreement for a 3-year period, we consider whether the ACO failed to meet the quality performance standard during 1 of the first 2 performance years of the previous agreement period.
-
-(*2*) For an ACO that entered into a participation agreement for a period longer than 3 years, we consider whether the ACO failed to meet the quality performance standard in either of the following:
-
-(*i*) In 2 consecutive performance years and was terminated as specified in § 425.316(c)(2).
-
-(*ii*) For 2 or more performance years of the previous agreement period, regardless of whether the years are in consecutive order.
+(A) Whether the ACO demonstrated a pattern of failure to meet the quality performance standards or met any of the criteria for termination under § 425.316(c)(1)(ii) or (c)(2)(ii).
 
 (B) For 2 performance years of the ACO's previous agreement period, regardless of whether the years are in consecutive order, whether the average per capita Medicare Parts A and B fee-for-service expenditures for the ACO's assigned beneficiary population exceeded its updated benchmark by an amount equal to or exceeding either of the following:
 
@@ -60,4 +52,4 @@ Link to an amendment published at 85 FR 85039, Dec. 28, 2020.
 
 (ii) Informs the ACO of its right to request reconsideration review in accordance with the procedures specified in subpart I of this part.
 
-[80 FR 32839, June 9, 2015, as amended at 83 FR 68065, Dec. 31, 2018]
+[80 FR 32839, June 9, 2015, as amended at 83 FR 68065, Dec. 31, 2018; 85 FR 85039, Dec. 28, 2020]

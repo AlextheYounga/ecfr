@@ -92,13 +92,15 @@ Link to an amendment published at 85 FR 85038, Dec. 28, 2020.
 
 (3) An ACO that will participate under a two-sided model of the Shared Savings Program must submit for CMS approval documentation that it is capable of repaying shared losses that it may incur during its agreement period, including details supporting the adequacy of the repayment mechanism.
 
-(i) An ACO participating in Track 2 must demonstrate the adequacy of its repayment mechanism at such times as requested by CMS.
+(i) An ACO participating in Track 2 must demonstrate the adequacy of its repayment mechanism prior to any change in the terms and type of the repayment mechanism, and at such other times as requested by CMS.
 
-(ii) An ACO entering an agreement period in Levels C, D, or E of the BASIC track or the ENHANCED track must demonstrate the adequacy of its repayment mechanism prior to the start of its agreement period and at such other times as requested by CMS.
+(ii) An ACO entering an agreement period in Levels C, D, or E of the BASIC track or the ENHANCED track must demonstrate the adequacy of its repayment mechanism prior to the start of its agreement period, prior to any change in the terms and type of the repayment mechanism, and at such other times as requested by CMS.
 
-(iii) An ACO entering an agreement period in Level A or Level B of the BASIC track must demonstrate the adequacy of its repayment mechanism prior to the start of any performance year in which it either elects to participate in, or is automatically transitioned to a two-sided model, Level C, Level D, or Level E, of the BASIC track, and at such other times as requested by CMS.
+(iii) An ACO entering an agreement period in Level A or Level B of the BASIC track must demonstrate the adequacy of its repayment mechanism prior to the start of any performance year in which it either elects to participate in, or is automatically transitioned to, a two-sided model, Level C, Level D, or Level E of the BASIC track, prior to any change in the terms and type of the repayment mechanism, and at such other times as requested by CMS.
 
-(iv) An ACO that has submitted a request to renew its participation agreement must submit as part of the renewal request documentation demonstrating the adequacy of the repayment mechanism that could be used to repay any shared losses incurred for performance years in the next agreement period. The repayment mechanism applicable to the new agreement period may be the same repayment mechanism currently used by the ACO, provided that the ACO submits documentation establishing that the amount and duration of the existing repayment mechanism have been revised to comply with paragraphs (f)(6)(i) and (ii) of this section.
+(iv) An ACO that has submitted a request to renew its participation agreement must submit as part of the renewal request documentation demonstrating the adequacy of the repayment mechanism that could be used to repay any shared losses incurred for performance years in the next agreement period. The repayment mechanism applicable to the new agreement period may be the same repayment mechanism currently used by the ACO, provided that the ACO submits documentation establishing that the duration of the existing repayment mechanism has been revised to comply with paragraph (f)(6)(ii) of this section, and the amount of the repayment mechanism complies with paragraph (f)(4) of this section.
+
+(v) As part of its application, a re-entering ACO must submit documentation demonstrating the adequacy of the repayment mechanism that could be used to repay any shared losses incurred for performance years in the next agreement period. The repayment mechanism applicable to the new agreement period may be the same repayment mechanism currently used by the re-entering ACO, provided that the ACO is the same legal entity as an ACO that previously participated in the program, and the ACO submits documentation establishing that the duration of the existing repayment mechanism has been revised to comply with paragraph (f)(6)(ii) of this section and the amount of the repayment mechanism complies with paragraph (f)(4) of this section.
 
 (4) CMS calculates the amount of the repayment mechanism as follows:
 
@@ -116,13 +118,17 @@ Link to an amendment published at 85 FR 85038, Dec. 28, 2020.
 
 (B) Within 90 days after receipt of such written notice from CMS, the ACO must submit for CMS approval documentation that the amount of its repayment mechanism has been increased to the amount specified by CMS.
 
-(iv) In the case of an ACO that has submitted a request to renew its participation agreement and wishes to use its existing repayment mechanism to establish its ability to repay any shared losses incurred for performance years in the new agreement period, the amount of the repayment mechanism must be equal to the greater of the following:
+(iv)(A) In the case of an ACO that has submitted a request to enter a new participation agreement for an agreement period starting on or after January 1, 2022 and is a renewing ACO or a re-entering ACO that is the same legal entity as an ACO that previously participated in the program: If the ACO wishes to use its existing repayment mechanism to establish its ability to repay any shared losses incurred for performance years in the new agreement period, the amount of the repayment mechanism must be equal to at least the amount calculated by CMS in accordance with paragraph (f)(4)(ii) of this section.
 
-(A) The amount calculated by CMS in accordance with paragraph (f)(4)(ii) of this section.
+(B) Under the following circumstances, an ACO that renewed its participation agreement for an agreement period beginning on July 1, 2019, or January 1, 2020, may elect to decrease the amount of its repayment mechanism.
 
-(B) The repayment mechanism amount that the ACO was required to maintain during the last performance year of the participation agreement it seeks to renew.
+(*1*) The ACO elected to continue to use its existing repayment mechanism for the agreement period beginning on July 1, 2019, or January 1, 2020, and the amount of that repayment mechanism was greater than the repayment mechanism amount estimated at the time of renewal application according to paragraph (f)(4)(ii) of this section.
 
-(5) After the repayment mechanism has been used to repay any portion of shared losses owed to CMS, the ACO must replenish the amount of funds available through the repayment mechanism within 90 days.
+(*2*) The repayment mechanism amount for performance year 2021, as recalculated pursuant to paragraph (f)(4)(iii) of this section, is less than the existing repayment mechanism amount.
+
+(*3*) CMS will notify the ACO in writing if the ACO may elect to decrease the amount of its repayment mechanism pursuant to this paragraph (f)(4)(iv)(B). The ACO must submit such election, together with revised repayment mechanism documentation, in a form and manner and by a deadline specified by CMS. CMS will review the revised repayment mechanism documentation and may reject the election if the repayment mechanism documentation does not comply with the requirements of this paragraph (f).
+
+(5) After the repayment mechanism has been used to repay any portion of shared losses owed to CMS, the ACO must replenish the amount of funds available through the repayment mechanism within 90 days. The resulting amount available through the repayment mechanism must be at least the amount specified by CMS in accordance with paragraph (f)(4) of this section.
 
 (6) The repayment mechanism must be in effect for the duration of the ACO's participation under a two-sided model plus 12 months following the conclusion of the agreement period, except as otherwise specified in this section.
 
@@ -132,7 +138,7 @@ Link to an amendment published at 85 FR 85038, Dec. 28, 2020.
 
 (B) The repayment mechanism covers a term of at least the first two performance years in which the ACO is participating under a two-sided model and provides for automatic, annual 12-month extensions of the repayment mechanism such that the repayment mechanism will eventually remain in effect for the duration of the agreement period plus 12 months following the conclusion of the agreement period.
 
-(ii) For a renewing ACO that wishes to use its existing repayment mechanism to establish its ability to repay any shared losses incurred for performance years in the new agreement period, the existing repayment mechanism must be amended to meet one of the following criteria.
+(ii) For a renewing ACO, or a re-entering ACO that is the same legal entity as an ACO that previously participated in the program, that wishes to use its existing repayment mechanism to establish its ability to repay any shared losses incurred for performance years in the new agreement period, the existing repayment mechanism must be amended to meet one of the following criteria.
 
 (A) The duration of the existing repayment mechanism is extended by an amount of time that covers the duration of the new agreement period plus 12 months following the conclusion of the new agreement period.
 
@@ -170,4 +176,4 @@ Link to an amendment published at 85 FR 85038, Dec. 28, 2020.
 
 (ii) Documentation sufficient to demonstrate that the acquired entity's TIN was merged with or purchased by the ACO participant.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32837, June 9, 2015; 81 FR 80559, Nov. 15, 2016; 82 FR 53369, Nov. 15, 2017; 83 FR 68063, Dec. 31, 2018]
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32837, June 9, 2015; 81 FR 80559, Nov. 15, 2016; 82 FR 53369, Nov. 15, 2017; 83 FR 68063, Dec. 31, 2018; 85 FR 85038, Dec. 28, 2020]

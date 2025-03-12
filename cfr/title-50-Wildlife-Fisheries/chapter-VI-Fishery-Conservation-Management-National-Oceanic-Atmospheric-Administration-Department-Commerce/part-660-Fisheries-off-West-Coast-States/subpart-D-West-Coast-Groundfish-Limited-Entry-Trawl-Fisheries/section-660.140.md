@@ -1,7 +1,5 @@
 ##### § 660.140 Shorebased IFQ Program. #####
 
-Link to an amendment published at 85 FR 79916, Dec. 11, 2020.
-
 (a) *General.* The regulations in this section apply to the Shorebased IFQ Program. The Shorebased IFQ Program includes a system of transferable QS for most groundfish species or species groups, IBQ for Pacific halibut, and trip limits or set-asides for the remaining groundfish species or species groups. NMFS will issue a QS permit to eligible participants and will establish a QS account for each QS permit owner to track the amount of QS or IBQ and QP or IBQ pounds owned by that owner. QS permit owners may own QS or IBQ for IFQ species, expressed as a percent of the allocation to the Shorebased IFQ Program for that species. NMFS will issue QP or IBQ pounds to QS permit owners, expressed in pounds, on an annual basis, to be deposited in the corresponding QS account. NMFS will establish a vessel account for each eligible vessel owner participating in the Shorebased IFQ Program, which is independent of the QS permit and QS account. In order to use QP or IBQ pounds, a QS permit owner must transfer the QP or IBQ pounds from the QS account into the vessel account for the vessel to which the QP or IBQ pounds is to be assigned. Harvests of IFQ species may only be delivered to an IFQ first receiver with a first receiver site license. In addition to the requirements of this section, the Shorebased IFQ Program is subject to the following groundfish regulations of subparts C and D:
 
 (1) Regulations set out in the following sections of subpart C: § 660.11 Definitions, § 660.12 Prohibitions, § 660.13 Recordkeeping and reporting, § 660.14 VMS requirements, § 660.15 Equipment requirements, § 660.16 Groundfish observer program, § 660.20 Vessel and gear identification, § 660.25 Permits, § 660.55 Allocations, § 660.60 Specifications and management measures, § 660.65 Groundfish harvest specifications, and §§ 660.70 through 660.79 Closed areas.
@@ -122,41 +120,9 @@ Link to an amendment published at 85 FR 79916, Dec. 11, 2020.
 
 (*2*) In years where the Pacific halibut total constant exploitation yield is not known by January 1, NMFS will issue QP in two parts. On or about January 1, NMFS will deposit QP based on some portion of the International Pacific Halibut Commission's staff recommended total constant exploitation yield from their interim meeting. After the final Pacific halibut total constant exploitation yield is established from the International Pacific Halibut Commission's annual meeting, NMFS will deposit additional QP to the QS account.
 
-(D) *Pacific whiting and non-whiting QP shorebased trawl allocations.* For the trawl fishery, NMFS will issue QP based on the following shorebased trawl allocations:
+(D) For the trawl fishery, NMFS will issue QP based on the following shorebased trawl allocations:
 
-Table 1 To Paragraph (d)(1)(ii)(D)
-
-|        IFQ species         |        Area         |2019 Shorebased  <br/>trawl allocation  <br/>(mt)|2020 Shorebased  <br/>trawl allocation  <br/>(mt)|
-|----------------------------|---------------------|-------------------------------------------------|-------------------------------------------------|
-|    Arrowtooth flounder     |      Coastwide      |                    12,735.1                     |                    10,052.3                     |
-|          Bocaccio          |South of 40°10′ N lat|                      800.7                      |                      767.1                      |
-|      Canary rockfish       |      Coastwide      |                      953.6                      |                      894.3                      |
-|        Chilipepper         |South of 40°10′ N lat|                     1,838.3                     |                     1,743.8                     |
-|           COWCOD           |South of 40°10′ N lat|                       2.2                       |                       3.2                       |
-|   Darkblotched rockfish    |      Coastwide      |                      658.4                      |                      703.4                      |
-|         Dover sole         |      Coastwide      |                    45,979.2                     |                    45,979.2                     |
-|        English sole        |      Coastwide      |                     9,375.1                     |                     9,417.9                     |
-|          Lingcod           |North of 40°10′ N lat|                     2,051.9                     |                     1,903.4                     |
-|          Lingcod           |South of 40°10′ N lat|                      462.5                      |                      386.0                      |
-|    Longspine thornyhead    |North of 34°27′ N lat|                     2,420.0                     |                     2,293.6                     |
-|Minor Shelf Rockfish complex|North of 40°10′ N lat|                     1,155.2                     |                     1,151.6                     |
-|Minor Shelf Rockfish complex|South of 40°10′ N lat|                      188.6                      |                      188.6                      |
-|Minor Slope Rockfish complex|North of 40°10′ N lat|                     1,248.8                     |                     1,237.5                     |
-|Minor Slope Rockfish complex|South of 40°10′ N lat|                      456.0                      |                      455.4                      |
-|   Other Flatfish complex   |      Coastwide      |                     5,603.7                     |                     5,192.4                     |
-|        Pacific cod         |      Coastwide      |                     1,034.1                     |                     1,034.1                     |
-|    Pacific ocean perch     |North of 40°10′ N lat|                     3,697.3                     |                     3,602.2                     |
-|      Pacific whiting       |      Coastwide      |                    152,326.5                    |                     146,567                     |
-|        Petrale sole        |      Coastwide      |                     2,453.0                     |                     2,393.2                     |
-|         Sablefish          | North of 36° N lat  |                     2,581.3                     |                     2,636.8                     |
-|         Sablefish          | South of 36° N lat  |                      834.0                      |                      851.7                      |
-|   Shortspine thornyhead    |North of 34°27′ N lat|                     1,506.8                     |                     1,493.5                     |
-|   Shortspine thornyhead    |South of 34°27′ N lat|                      50.0                       |                      50.0                       |
-|     Splitnose rockfish     |South of 40°10′ N lat|                     1,646.7                     |                     1,628.7                     |
-|      Starry flounder       |      Coastwide      |                      211.6                      |                      211.6                      |
-|       Widow rockfish       |      Coastwide      |                     9,928.8                     |                     9,387.1                     |
-|     YELLOWEYE ROCKFISH     |      Coastwide      |                       3.4                       |                       3.4                       |
-|    Yellowtail rockfish     |North of 40°10′ N lat|                     4,305.8                     |                     4,048.0                     |
+![](/graphics/er11de20.053.gif)![](/graphics/er11de20.054.gif)
 
 (2) *Eligibility and registration* - (i) *Eligibility.* Only the following persons are eligible to own QS permits:
 

@@ -1,16 +1,14 @@
 ##### § 414.510 Laboratory date of service for clinical laboratory and pathology specimens. #####
 
-Link to an amendment published at 85 FR 86301, Dec. 29, 2020.
-
 The date of service for either a clinical laboratory test or the technical component of physician pathology service is as follows:
 
 (a) Except as provided under paragraph (b) of this section, the date of service of the test must be the date the specimen was collected.
 
 (b)(1) If a specimen was collected over a period that spans 2 calendar days, then the date of service must be the date the collection ended.
 
-(2) In the case of a test performed on a stored specimen, if a specimen was stored for -
+(2) In the case of a test performed on a stored specimen, if a specimen was stored for—
 
-(i) Less than or equal to 30 calendar days from the date it was collected, the date of service of the test must be the date the test was performed only if -
+(i) Less than or equal to 30 calendar days from the date it was collected, the date of service of the test must be the date the test was performed only if—
 
 (A) The test is ordered by the patient's physician at least 14 days following the date of the patient's discharge from the hospital;
 
@@ -24,7 +22,7 @@ The date of service for either a clinical laboratory test or the technical compo
 
 (ii) More than 30 calendar days before testing, the specimen is considered to have been archived and the date of service of the test must be the date the specimen was obtained from storage.
 
-(3) In the case of a chemotherapy sensitivity test performed on live tissue, the date of service of the test must be the date the test was performed only if -
+(3) In the case of a chemotherapy sensitivity test performed on live tissue, the date of service of the test must be the date the test was performed only if—
 
 (i) The decision regarding the specific chemotherapeutic agents to test is made at least 14 days after discharge;
 
@@ -38,7 +36,7 @@ The date of service for either a clinical laboratory test or the technical compo
 
 (4) For purposes of this section, “chemotherapy sensitivity test” means a test identified by the Secretary as a test that requires a fresh tissue sample to test the sensitivity of tumor cells to various chemotherapeutic agents. The Secretary identifies such tests through program instructions.
 
-(5) In the case of a molecular pathology test performed by a laboratory other than a blood bank or center, or a test designated by CMS as an ADLT under paragraph (1) of the definition of an advanced diagnostic laboratory test in § 414.502, the date of service of the test must be the date the test was performed only if -
+(5) In the case of a molecular pathology test performed by a laboratory other than a blood bank or center, a test designated by CMS as an ADLT under paragraph (1) of the definition of an advanced diagnostic laboratory test in § 414.502, a test that is a cancer-related protein-based Multianalyte Assays with Algorithmic Analyses, or the test described by CPT code 81490, the date of service of the test must be the date the test was performed only if—
 
 (i) The test was performed following a hospital outpatient's discharge from the hospital outpatient department;
 
@@ -50,4 +48,4 @@ The date of service for either a clinical laboratory test or the technical compo
 
 (v) The test was reasonable and medically necessary for the treatment of an illness.
 
-[71 FR 69786, Dec. 1, 2006, as amended at 72 FR 66402, Nov. 27, 2007; 82 FR 52636, Nov. 13, 2017; 82 FR 59496, Dec. 14, 2017; 84 FR 61490, Nov. 12, 2019]
+[71 FR 69786, Dec. 1, 2006, as amended at 72 FR 66402, Nov. 27, 2007; 82 FR 52636, Nov. 13, 2017; 82 FR 59496, Dec. 14, 2017; 84 FR 61490, Nov. 12, 2019; 85 FR 86301, Dec. 29, 2020]

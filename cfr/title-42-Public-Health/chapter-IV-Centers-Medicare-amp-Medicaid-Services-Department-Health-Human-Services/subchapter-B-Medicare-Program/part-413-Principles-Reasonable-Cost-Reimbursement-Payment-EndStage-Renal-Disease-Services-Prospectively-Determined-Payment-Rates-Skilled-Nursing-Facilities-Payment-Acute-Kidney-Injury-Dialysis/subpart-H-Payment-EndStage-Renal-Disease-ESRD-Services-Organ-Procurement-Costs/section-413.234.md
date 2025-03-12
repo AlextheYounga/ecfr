@@ -1,7 +1,5 @@
 ##### § 413.234. Drug designation process. #####
 
-Link to an amendment published at 85 FR 71485, Nov. 9, 2020.
-
 (a) *Definitions.* For purposes of this section, the following definitions apply:
 
 *ESRD PPS functional category.* A distinct grouping of drugs or biological products, as determined by CMS, whose end action effect is the treatment or management of a condition or conditions associated with ESRD.
@@ -146,4 +144,24 @@ Link to an amendment published at 85 FR 71485, Nov. 9, 2020.
 
 (ii) [Reserved]
 
-[80 FR 69077, Nov. 6, 2015, as amended at 83 FR 57070, Nov. 14, 2018; 84 FR 60803, Nov. 8, 2019]
+(f) *Methodology for modifying the ESRD PPS base rate to account for the costs of calcimimetics in the ESRD PPS bundled payment.* Beginning January 1, 2021, payment for calcimimetics is included in the ESRD PPS base rate using the following data sources and methodology:
+
+(1) The methodology specified in paragraph (f)(2) of this section for determining the average per treatment payment amount for calcimimetics that is added to the ESRD PPS base rate uses the following data sources:
+
+(i) Total units of oral and injectable calcimimetics and total number of paid hemodialysis-equivalent dialysis treatments furnished, as derived from Medicare ESRD facility claims, that is, the 837-institutional form with bill type 072X, for the third and fourth quarters of calendar year 2018 and for the full calendar year 2019.
+
+(ii) The weighted average ASP based on the most recent determinations by CMS.
+
+(2) CMS uses the following methodology to calculate the average per treatment payment amount for calcimimetics that is added to the ESRD PPS base rate:
+
+(i) Determines utilization of oral and injectable calcimimetics by aggregating the total units of oral and injectable calcimimetics in paragraph (f)(1) of this section.
+
+(ii) Determines a price for each form of the drug by calculating 100 percent of the values from the most recent calendar quarter ASP calculations available to the public for the oral and injectable calcimimetic.
+
+(iii) Calculates the total calcimimetic expenditure amount by multiplying the utilization of the oral and injectable calcimimetics determined in paragraph (f)(2)(i) of this section by their respective prices determined in paragraph (f)(2)(ii) of this section and adding the expenditure amount for both forms.
+
+(iv) Calculates the average per treatment payment amount by dividing the total calcimimetic expenditure amount determined in paragraph (f)(2)(iii) of this section by the total number of paid hemodialysis-equivalent dialysis treatments in the third and fourth quarter of calendar year 2018 and the full calendar year 2019.
+
+(v) Calculates the amount added to the ESRD PPS base rate by reducing the average per treatment payment amount determined in paragraph (f)(2)(iv) of this section by 1 percent to account for the outlier policy under § 413.237.
+
+[80 FR 69077, Nov. 6, 2015, as amended at 83 FR 57070, Nov. 14, 2018; 84 FR 60803, Nov. 8, 2019; 85 FR 71485, Nov. 9, 2020]

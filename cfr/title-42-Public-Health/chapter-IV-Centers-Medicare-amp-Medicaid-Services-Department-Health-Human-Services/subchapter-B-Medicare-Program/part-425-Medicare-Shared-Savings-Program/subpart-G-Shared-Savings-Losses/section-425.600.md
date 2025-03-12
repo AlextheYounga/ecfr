@@ -1,7 +1,5 @@
 ##### § 425.600 Selection of risk model. #####
 
-Link to an amendment published at 85 FR 85041, Dec. 28, 2020.
-
 (a) An ACO may elect to operate under one of the following tracks:
 
 (1) *Track 1.* For agreement periods beginning before July 1, 2019, an ACO in Track 1 operates under the one-sided model (as described under § 425.604) for the agreement period.
@@ -102,10 +100,10 @@ Link to an amendment published at 85 FR 85041, Dec. 28, 2020.
 
 (4) For purposes of this paragraph (f), program requirements that phase in over multiple agreement periods are as follows:
 
-(i) The quality performance standard as described in § 425.502(a).
+(i) The quality performance standard as described in § 425.502(a) or § 425.512(a), as applicable.
 
 (ii) The weight used in calculating the regional adjustment to the ACO's historical benchmark as described in § 425.601(f).
 
 (iii) The use of equal weights to weight each benchmark year as specified in § 425.601(e).
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32841, June 9, 2015; 83 FR 68069, Dec. 31, 2018; 85 FR 27625, May 8, 2020]
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32841, June 9, 2015; 83 FR 68069, Dec. 31, 2018; 85 FR 27625, May 8, 2020; 85 FR 85041, Dec. 28, 2020]

@@ -1,7 +1,5 @@
 ##### § 410.79 Medicare Diabetes Prevention Program expanded model: Conditions of coverage. #####
 
-Link to an amendment published at 85 FR 85027, Dec. 28, 2020.
-
 (a) Medicare Diabetes Prevention Program (MDPP) services will be available beginning on April 1, 2018.
 
 (b) *Definitions.* For purposes of this section, the following definitions apply:
@@ -102,9 +100,15 @@ Link to an amendment published at 85 FR 85027, Dec. 28, 2020.
 
 (ii) Subject to paragraph (c)(3) of this section, the ongoing services period, which consists of up to four 3-month ongoing maintenance session intervals offered during months 13 through 24 of the MDPP services period.
 
-(3) *Limitations on the MDPP services period.* (i) The MDPP services period ends upon completion of the core services period described in paragraph (c)(2)(i) of this section, unless the MDPP beneficiary qualifies for the first ongoing maintenance session interval, in accordance with paragraph (c)(1)(ii) of this section.
+(3) *Limitations on the MDPP services period.*
 
-(ii) If the MDPP beneficiary qualifies for the first ongoing maintenance session interval as described in paragraph (c)(3)(i) of this section, the MDPP services period ends upon completion of this first ongoing maintenance session interval or any subsequent ongoing maintenance session interval, unless the beneficiary meets the eligibility requirements under paragraph (c)(1)(iii) of this section.
+(i) Except as set forth in paragraph (c)(3)(ii) of this section -
+
+(A) The MDPP services period ends upon completion of the core services period described in paragraph (c)(2)(i) of this section, unless the MDPP beneficiary qualifies for the first ongoing maintenance session interval, in accordance with paragraph (c)(1)(ii) of this section.
+
+(B) If the MDPP beneficiary qualifies for the first ongoing maintenance session interval as described in paragraph (c)(1)(ii) of this section, the MDPP services period ends upon completion of that maintenance session interval, unless the MDPP beneficiary qualifies for a subsequent ongoing maintenance session interval, in accordance with paragraph (c)(1)(iii) of this section, in which case the MDPP service period ends upon completion of the last ongoing maintenance session interval for which the beneficiary qualified.
+
+(ii) In the case of an applicable 1135 waiver event as defined in paragraph (e) of this section, the MDPP services period may be suspended and resumed or restarted in accordance with paragraph (e) of this section.
 
 (iii) Unless sooner ended in accordance with this paragraph (c)(3), the MDPP services period ends automatically upon the completion of the fourth ongoing maintenance session interval.
 
@@ -134,44 +138,64 @@ Link to an amendment published at 85 FR 85027, Dec. 28, 2020.
 
 (ii) The MDPP beneficiary receives no more than 3 virtual make-up sessions that are ongoing maintenance sessions.
 
-(e) *MDPP expanded model emergency policy.* (1) Notwithstanding paragraphs (a) through (d) of this section, the policies described in this paragraph (e) apply during the Public Health Emergency (PHE), as defined in § 400.200 of this chapter.
+(e) *MDPP expanded model emergency policy.* (1) Notwithstanding paragraphs (a) through (d) of this section, the policies described in this paragraph (e) apply during the Public Health Emergency (PHE) as defined in § 400.200 of this chapter and during any future 1135 waiver event that CMS determines may disrupts in-person MDPP services (an “applicable 1135 waiver event”). For purposes of this paragraph (e), “1135 waiver event” means an emergency period and emergency area, as such terms are defined in section 1135(g) of the Act, for which the Secretary has authorized one or more waivers under section 1135 of the Act.
 
-(2) MDPP requirement changes described in paragraph (e)(1) of this section are applicable to:
+(2)(i) CMS determines that an 1135 waiver event may disrupt in-person MDPP services if MDPP suppliers would likely be unable to conduct classes in-person, or MDPP beneficiaries would likely be unable to attend in-person classes, for reasons related to health, safety, or site availability or suitability. Health and safety reasons may include, but are not limited to, the avoidance of transmission of contagious diseases, compliance with laws and regulations during an 1135 waiver event, or the physical safety of MDPP beneficiaries and MDPP coaches, as defined in § 424.205(a) of this chapter, during an 1135 waiver event.
 
-(i) Organizations that are enrolled as an MDPP supplier as defined in paragraph (b) of this section, as of March 1, 2020; and
+(ii) If CMS determines that an 1135 waiver event may disrupt in-person MDPP services, CMS will communicate such determination for purposes of the policies described in this paragraph (e), to all affected MDPP suppliers.
 
-(ii) MDPP beneficiaries as defined in paragraph (b) of this section, who are receiving the MDPP set of services as of March 1, 2020.
+(3) The following changes apply under this paragraph (e), when CMS has determined that an 1135 waiver event may disrupt in-person MDPP services:
 
-(3) The following changes apply under this paragraph (e):
+(i) The in-person attendance requirements of paragraphs (c)(1)(ii)(A) and (c)(1)(iii)(A) of this section do not apply.
 
-(i) The in-person attendance requirements of paragraphs (c)(1)(ii)(A), (c)(1)(iii)(A), and (c)(3)(ii) of this section are waived. MDPP suppliers shall not start new cohorts with MDPP beneficiaries who are unable to attend the first core session in-person;
+(ii) MDPP suppliers may start new cohorts during the PHE as defined in § 400.200 of this chapter or an applicable 1135 waiver event only if a baseline weight measurement can be obtained as described in paragraph (e)(3)(iii) of this section.
 
-(ii) The limit described in paragraphs (d)(2) and (d)(3)(i) and (ii) of this section to the number of virtual make-up sessions is waived for MDPP suppliers with capabilities to provide services virtually so long as the provision of virtual services complies with the following:
+(iii) MDPP suppliers can obtain weight measurements for MDPP beneficiaries for the baseline weight and any weight loss based performance achievement goals in the following manner:
 
-(A) The curriculum furnished during the virtual make-up session must address the same CDC-approved DPP curriculum topic as the regularly scheduled session;
+(A) In-person, when the weight measurement can be obtained safely and in compliance with all applicable laws and regulations;
 
-(B) The MDPP supplier furnishes to the MDPP beneficiary a maximum of one session on the same day as a regularly scheduled session;
+(B) Via digital technology, such as scales that transmit weights securely via wireless or cellular transmission; or
 
-(C) The MDPP supplier furnishes to the MDPP beneficiary a maximum of one virtual make-up session per week;
+(C) Self-reported weight measurements from the at-home digital scale of the MDPP beneficiary. Self-reported weights must be obtained during live, synchronous online video technology, such as video chatting or video conferencing, wherein the MDPP coach observes the beneficiary weighing themselves and views the weight indicated on the at-home digital scale, a date-stamped photo or video recording of the beneficiary's weight with the beneficiary visible on the scale, or a recording of the beneficiary's weight, with the beneficiary visible on the scale, submitted by the MDPP beneficiary to the MDPP supplier. The photo or video must clearly document the weight of the MDPP beneficiary as it appears on his/her digital scale on the date associated with the billable MDPP session.
 
-(D) Virtual make-up sessions must be furnished in a manner consistent with the DPRP standards for virtual sessions;
+(iv) The virtual session limits described in paragraphs (d)(2) and (d)(3)(i) and (ii) of this section do not apply, and MDPP suppliers may provide all MDPP sessions virtually during the PHE as defined in § 400.200 of this chapter or applicable 1135 waiver event. If the beneficiary began the MDPP services period virtually, or changed from in-person to virtual services during the PHE as defined in § 400.200 of this chapter or applicable 1135 waiver event, he/she may continue to receive the MDPP set of services virtually even after the PHE or 1135 waiver event has concluded, until the end of the beneficiary's MDPP services period, so long as the provision of virtual services complies with all of the following requirements:
 
-(E) Virtual make-up sessions can only be furnished to achieve attendance goals and cannot be furnished to achieve weight-loss goals;
+(A) The curriculum furnished during the virtual session addresses the same CDC-approved DPP curriculum topic as the regularly scheduled session.
 
-(F) An MDPP supplier can only offer virtual make-up sessions upon an individual MDPP beneficiary's request; and
+(B) The MDPP supplier furnishes to the MDPP beneficiary a maximum of one virtual make-up session on the same day as a regularly scheduled session.
 
-(G) An MDPP supplier can offer to an MDPP beneficiary:
+(C) The MDPP supplier furnishes to the MDPP beneficiary a maximum of one virtual make-up session per week.
 
-(*1*) No more than 15 virtual make-up sessions offered weekly during the core session period, months 1 through 6 of the MDPP services period;
+(D) Virtual sessions are furnished in a manner consistent with the DPRP standards for virtual sessions.
 
-(*2*) No more than 6 virtual make-up sessions offered monthly during the core maintenance session interval periods, months 7 through 12 of the MDPP services period; and
+(E) The MDPP supplier offers virtual sessions only upon an individual MDPP beneficiary's request or agreement to receive services virtually.
 
-(*3*) No more than 12 virtual make-up sessions offered monthly during the ongoing maintenance session interval periods, months 13 through 24;
+(F) The MDPP supplier offers to an MDPP beneficiary:
 
-(iii) The once per lifetime requirement as described in paragraph (c)(1)(i)(B) of this section is waived to permit MDPP beneficiaries whose sessions were paused or cancelled due to the PHE to obtain the set of MDPP services more than once per lifetime by electing to restart the MDPP set of services or resume with the most recent attendance session of record;
+(*1*) No more than 16 virtual sessions offered weekly during the core session period, months 1 through 6 of the MDPP services period;
 
-(iv) The minimum weight loss requirements for beneficiary eligibility in the ongoing maintenance session intervals described in paragraphs (c)(1)(ii)(B) and (c)(1)(iii)(B) of this section are waived; and
+(*2*) No more than 6 virtual sessions offered monthly during the core maintenance session interval periods, months 7 through 12 of the MDPP services period; and
 
-(v) MDPP suppliers may pause or delay the delivery of the MDPP set of services and subsequently resume services on a delayed schedule. The time periods and intervals must be consistent with the MDPP requirements as described in paragraphs (c)(1)(i)(B), (c)(1)(ii)(A), (c)(1)(iii)(A), (c)(2)(i)(A) and (B), and (c)(3)(i) and (ii) of this section.
+(*3*) No more than 12 virtual sessions offered monthly during the ongoing maintenance session intervals, months 13 through 24.
 
-[81 FR 80552, Nov. 15, 2016; 81 FR 81698, Nov. 18, 2016, as amended at 82 FR 53358, Nov. 15, 2017; 85 FR 19287, Apr. 6, 2020]
+(v) MDPP suppliers may suspend the in-person delivery of the set of MDPP services, when necessary due to the applicable 1135 waiver event, and subsequently resume in-person services either upon the end date of the 1135 waiver event emergency period or an effective date specified by CMS. Upon resumption of the set of MDPP services on an in-person basis, the following paragraphs apply:
+
+(A) Beneficiaries who were receiving MDPP services as of March 31, 2020 whose in-person sessions are suspended due to the PHE as defined in § 400.200 of this chapter may elect to restart the set of MDPP services at the beginning or resume with the most recent attendance session of record.
+
+(B) Beneficiaries who begin the set of MDPP services on or after January 1, 2021 who are in the first 12 months of the set of MDPP services as of the start of an applicable 1135 waiver event, whose in-person sessions are suspended due to the applicable 1135 waiver event, and who elect not to continue with MDPP services virtually, may elect to restart the set of MDPP services at the beginning or may resume with the most recent attendance session of record.
+
+(C) Beneficiaries who began the set of MDPP services on or after January 1, 2021 who are in the second year of the set of MDPP services as of the start of an applicable 1135 waiver event, whose in-person sessions are suspended due to the applicable 1135 waiver event, and who elect not to continue with MDPP services virtually, may restart the ongoing maintenance session interval in which they were participating at the start of the applicable 1135 waiver event or may resume with the most recent attendance session of record.
+
+(D) Beneficiaries whose in-person sessions are suspended due to the applicable 1135 waiver event who elect to continue with MDPP services virtually, as described in paragraph (e)(2)(i) of this section, are not eligible to restart the set of MDPP services at a later date, but may elect to suspend the virtual set of MDPP services and resume the set of in-person MDPP services with the most recent attendance session of record.
+
+(E) Beneficiaries may make an election as described in paragraph (e)(3)(v)(A), (B), (C), or (D) of this section, as applicable, only one time per applicable1135 waiver event.
+
+(F) Beneficiary eligibility, as described in paragraph (c)(1)(i) of this section, will not be impacted by any changes to the beneficiary's body mass index (BMI) or reduction in hemoglobin A1c, fasting plasma glucose, or 2-hour plasma glucose test values achieved during the set of MDPP services or any intervening time in which a beneficiary has suspended the set of MDPP services. MDPP suppliers will utilize the following weight measurements as the baseline weight for purposes of determining all weight-loss achievements:
+
+(*1*) For an MDPP beneficiary who began receiving the set of MDPP services before March 31, 2020, has suspended services during an applicable 1135 waiver event, and then elects to restart the set of MDPP services at the first core session, the MDPP supplier must record a new baseline weight on the date of first core session that restarts the set of MDPP services.
+
+(*2*) For an MDPP beneficiary who began receiving the set of MDPP services on or after January 1, 2021, has suspended services during an applicable 1135 waiver event, and then resumes the set of MDPP services either at the most recent attendance session of record or restarts the ongoing maintenance session interval in which they were participating at the start of the applicable 1135 waiver event, the MDPP supplier must use the baseline weight recorded at the beneficiary's first core session.
+
+(vi) The minimum weight loss requirements for beneficiary eligibility in the ongoing maintenance session intervals described in paragraphs (c)(1)(ii)(B) and (c)(1)(iii)(B) of this section are waived only for MDPP beneficiaries who were receiving the MDPP set of services prior to January 1, 2021.
+
+[81 FR 80552, Nov. 15, 2016; 81 FR 81698, Nov. 18, 2016, as amended at 82 FR 53358, Nov. 15, 2017; 85 FR 19287, Apr. 6, 2020; 85 FR 85027, Dec. 28, 2020]

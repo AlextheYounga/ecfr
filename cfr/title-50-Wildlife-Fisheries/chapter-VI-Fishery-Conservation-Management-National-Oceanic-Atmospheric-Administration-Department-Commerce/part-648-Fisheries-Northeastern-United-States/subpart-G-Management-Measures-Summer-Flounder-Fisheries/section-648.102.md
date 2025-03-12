@@ -1,7 +1,5 @@
 ##### § 648.102 Summer flounder specifications. #####
 
-Link to an amendment published at 85 FR 80666, Dec. 14, 2020.
-
 (a) *Commercial quota, recreational landing limits, research set-asides, and other specification measures.* The Summer Flounder Monitoring Committee shall recommend to the MAFMC, through the specifications process, for use in conjunction with each ACL and ACT, a sector-specific research set-aside, estimates of sector-related discards, recreational harvest limit, and commercial quota, along with other measures, as needed, that are projected to ensure the sector-specific ACL for an upcoming fishing year or years will not be exceeded. The measures to be considered by the Summer Flounder Monitoring Committee are:
 
 (1) Research quota set from a range of 0 to 3 percent of the allowable landings level for both the commercial and recreational sectors.
@@ -30,9 +28,9 @@ Link to an amendment published at 85 FR 80666, Dec. 14, 2020.
 
 (c) After such review, the Regional Administrator will publish a proposed rule in the Federal Register to implement a coastwide commercial quota, a recreational harvest limit, research set-aside, adjustments to ACL or ACT resulting from AMs, and additional management measures for the commercial fishery. After considering public comment, NMFS will publish a final rule in the Federal Register.
 
-(1) *Distribution of annual commercial quota.* (i) The annual commercial quota will be distributed to the states, based upon the following percentages; state followed by percent share in parenthesis: Maine (0.04756); New Hampshire (0.00046); Massachusetts (6.82046); Rhode Island (15.68298); Connecticut (2.25708); New York (7.64699); New Jersey (16.72499); Delaware (0.01779); Maryland (2.03910); Virginia (21.31676); North Carolina (27.44584).
+(1) *Distribution of annual commercial quota.* (i) For years when the annual commercial quota is at or below 9,550,000 lb (4,332 mt), the quota will be distributed to the states, based upon the following percentages (state followed by percent share in parenthesis): Maine (0.04756); New Hampshire (0.00046); Massachusetts (6.82046); Rhode Island (15.68298); Connecticut (2.25708); New York (7.64699); New Jersey (16.72499); Delaware (0.01779); Maryland (2.03910); Virginia (21.31676); and North Carolina (27.44584).
 
-(ii) [Reserved]
+(ii) For years when the annual commercial quota is greater than 9,550,000 lb (4,332 mt), the quota up to this amount will be distributed as outlined in paragraph (c)(1)(i) of this section, and the additional quota above 9,550,000 lb (4,332 mt) will be distributed based upon the following percentages (state followed by percent share in parenthesis): Maine (0.333); New Hampshire (0.333); Massachusetts (12.375); Rhode Island (12.375); Connecticut (12.375); New York (12.375); New Jersey (12.375); Delaware (0.333); Maryland (12.375); Virginia (12.375); and North Carolina (12.375).
 
 (2) *Quota transfers and combinations.* Any state implementing a state commercial quota for summer flounder may request approval from the Regional Administrator to transfer part or its entire annual quota to one or more states. Two or more states implementing a state commercial quota for summer flounder may request approval from the Regional Administrator to combine their quotas, or part of their quotas, into an overall regional quota. Requests for transfer or combination of commercial quotas for summer flounder must be made by individual or joint letter(s) signed by the principal state official with marine fishery management responsibility and expertise, or his/her previously named designee, for each state involved. The letter(s) must certify that all pertinent state requirements have been met and identify the states involved and the amount of quota to be transferred or combined.
 
@@ -66,4 +64,4 @@ Link to an amendment published at 85 FR 80666, Dec. 14, 2020.
 
 (e) *Research quota.* See § 648.22(g).
 
-[76 FR 60626, Sept. 29, 2011, as amended at 76 FR 81849, Dec. 29, 2011; 80 FR 37196, June 30, 2015; 84 FR 65702, Nov. 29, 2019; 85 FR 36803, June 18, 2020]
+[76 FR 60626, Sept. 29, 2011, as amended at 76 FR 81849, Dec. 29, 2011; 80 FR 37196, June 30, 2015; 84 FR 65702, Nov. 29, 2019; 85 FR 36803, June 18, 2020; 85 FR 80666, Dec. 14, 2020]

@@ -1,6 +1,6 @@
 ##### § 210.8-03 Interim financial statements. #####
 
-Link to an amendment published at 85 FR 22000, Apr. 20, 2020.Link to an amendment published at 85 FR 54065, Aug. 31, 2020.
+Link to an amendment published at 85 FR 22000, Apr. 20, 2020.
 
 Interim financial statements may be unaudited; however, before filing, interim financial statements included in quarterly reports on Form 10-Q (§ 249.308(a) of this chapter) must be reviewed by an independent public accountant using applicable professional standards and procedures for conducting such reviews, as may be modified or supplemented by the Commission. If, in any filing, the issuer states that interim financial statements have been reviewed by an independent public accountant, a report of the accountant on the review must be filed with the interim financial statements. Interim financial statements shall include a balance sheet as of the end of the issuer's most recent fiscal quarter, a balance sheet as of the end of the preceding fiscal year, and statements of comprehensive income and statements of cash flows for the interim period up to the date of such balance sheet and the comparable period of the preceding fiscal year.
 
@@ -22,8 +22,8 @@ Interim financial statements may be unaudited; however, before filing, interim f
 
 (3) *Significant equity investees.* Sales, gross profit, net income (loss) from continuing operations, net income, and net income attributable to the investee must be disclosed for equity investees that constitute 20 percent or more of a registrant's consolidated assets, equity or income from continuing operations attributable to the registrant.
 
-(4) *Significant dispositions.* If a significant disposition has occurred during the most recent interim period and the transaction required the filing of a Form 8-K (§ 249.308 of this chapter), pro forma data must be presented that reflects revenue, income from continuing operations, net income, net income attributable to the registrant and income per share for the current interim period and the corresponding interim period of the preceding fiscal year.
+(4) [Reserved]
 
 (5) *Material accounting changes.* The registrant's independent accountant must provide a letter in the first Form 10-Q (§ 249.308a of this chapter) filed after the change indicating whether or not the change is to a preferable method. Disclosure must be provided of any retroactive change to prior period financial statements, including the effect of any such change on income and income per share.
 
-*Instruction 1 to § 210.8-03.* Where §§ 210.8-01 through 210.8-08 (Article 8 of this part) are applicable to a Form 10-Q (§ 249.308a of this chapter) and the interim period is more than one quarter, statements of comprehensive income must also be provided for the most recent interim quarter and the comparable quarter of the preceding fiscal year.[73 FR 953, Jan. 4, 2008, as amended at 74 FR 18615, Apr. 23, 2009; 83 FR 50204, Oct. 4, 2018]
+*Instruction 1 to § 210.8-03.* Where §§ 210.8-01 through 210.8-08 (Article 8 of this part) are applicable to a Form 10-Q (§ 249.308a of this chapter) and the interim period is more than one quarter, statements of comprehensive income must also be provided for the most recent interim quarter and the comparable quarter of the preceding fiscal year.[73 FR 953, Jan. 4, 2008, as amended at 74 FR 18615, Apr. 23, 2009; 83 FR 50204, Oct. 4, 2018; 85 FR 54065, Aug. 31, 2020]

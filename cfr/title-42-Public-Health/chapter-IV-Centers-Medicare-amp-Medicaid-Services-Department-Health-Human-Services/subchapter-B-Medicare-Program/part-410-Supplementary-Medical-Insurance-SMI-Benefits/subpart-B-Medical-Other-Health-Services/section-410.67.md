@@ -1,8 +1,6 @@
 ##### § 410.67 Medicare coverage and payment of Opioid use disorder treatment services furnished by Opioid treatment programs. #####
 
-Link to an amendment published at 85 FR 85026, Dec. 28, 2020.
-
-(a) *Basis and scope.* (1) *Basis.* This section implements sections 1861(jjj), 1861(s)(2)(HH), 1833(a)(1)(CC) and 1834(w) of the Act which provide for coverage of opioid use disorder treatment services furnished by an opioid treatment program and the payment of a bundled payment under Part B to an opioid treatment program for opioid use disorder treatment services that are furnished to a beneficiary during an episode of care beginning on or after January 1, 2020.
+(a) *Basis and scope -*  (1) *Basis.* This section implements sections 1861(jjj), 1861(s)(2)(HH), 1833(a)(1)(CC) and 1834(w) of the Act which provide for coverage of opioid use disorder treatment services furnished by an opioid treatment program and the payment of a bundled payment under Part B to an opioid treatment program for opioid use disorder treatment services that are furnished to a beneficiary during an episode of care beginning on or after January 1, 2020.
 
 (2) *Scope.* This section sets forth the criteria for an opioid treatment program, the scope of opioid use disorder treatment services, and the methodology for determining the bundled payments to opioid treatment programs for furnishing opioid use disorder treatment services.
 
@@ -26,7 +24,9 @@ Link to an amendment published at 85 FR 85026, Dec. 28, 2020.
 
 (6) Intake activities, including initial medical examination services required under § 8.12(f)(2) of this title and initial assessment services required under § 8.12(f)(4) of this title.
 
-(7) Periodic assessment services required under § 8.12(f)(4) of this title. During the Public Health Emergency for the COVID-19 pandemic, as defined in § 400.200 of this chapter, these periodic assessments can be furnished via two-way interactive audio-video communication technology, as clinically appropriate, and in compliance with all other applicable requirements. In cases where a beneficiary does not have access to two-way audio-video communications technology, periodic assessments can be furnished using audio-only telephone calls rather than via two-way interactive audio-video communication technology if all other applicable requirements are met.
+(7) Periodic assessment services required under § 8.12(f)(4) of this title, that are furnished during a face-to-face encounter, including services furnished via two-way interactive audio-video communication technology, as clinically appropriate, and in compliance with all applicable requirements. During the Public Health Emergency, as defined in § 400.200 of this chapter, in cases where a beneficiary does not have access to two-way audio-video communications technology, periodic assessments can be furnished using audio-only telephone calls if all other applicable requirements are met.
+
+(8) Opioid antagonist medications that are approved by the Food and Drug Administration under section 505 of the Federal Food, Drug, and Cosmetic Act for the emergency treatment of known or suspected opioid overdose and overdose education furnished in conjunction with opioid antagonist medication.
 
 (c) *Requirements for opioid treatment programs.* To participate in the Medicare program and receive payment, an opioid treatment program must meet all of the following:
 
@@ -38,9 +38,7 @@ Link to an amendment published at 85 FR 85026, Dec. 28, 2020.
 
 (4) Have in effect a provider agreement under part 489 of this title.
 
-(d) *Bundled payments for opioid use disorder treatment services furnished by opioid treatment programs.*
-
-(1) CMS will establish categories of bundled payments for opioid treatment programs for an episode of care as follows:
+(d) *Bundled payments for opioid use disorder treatment services furnished by opioid treatment programs.* (1) CMS will establish categories of bundled payments for opioid treatment programs for an episode of care as follows:
 
 (i) Categories for each type of opioid agonist and antagonist treatment medication;
 
@@ -52,7 +50,7 @@ Link to an amendment published at 85 FR 85026, Dec. 28, 2020.
 
 (i) *Drug component.* The payment for the drug component for an episode of care will be determined as follows, using the most recent data available at time of ratesetting for the applicable calendar year:
 
-(A) For implantable and injectable medications, the payment is determined using the methodology set forth in section 1847A of the Act, except that the payment amount shall be 100 percent of the ASP, if ASP is used.
+(A) *Implantable and injectable medications.* For implantable and injectable medications, the payment is determined using the methodology set forth in section 1847A of the Act, except that the payment amount must be 100 percent of the ASP, if ASP is used; and the payment must be 100 percent of the wholesale acquisition cost (WAC), if WAC is used.
 
 (B) For oral medications, if ASP data are available, the payment amount is 100 percent of ASP, which will be determined based on ASP data that have been calculated consistent with the provisions in part 414, subpart 800 of this chapter and voluntarily submitted by drug manufacturers. If ASP data are not available, the payment amount for methadone will be based on the TRICARE rate and for buprenorphine will be calculated using the National Average Drug Acquisition Cost.
 
@@ -92,6 +90,8 @@ Link to an amendment published at 85 FR 85026, Dec. 28, 2020.
 
 (D) Additional take home supply of oral drugs of up to 21 days, in increments of 7 days, an adjustment will be made when oral medications are dispensed.
 
+(E) Take-home supply of opioid antagonist medications that are approved by the Food and Drug Administration under section 505 of the Federal, Food, Drug and Cosmetic Act for the emergency treatment of known or suspected opioid overdose and overdose education furnished in conjunction with opioid antagonist medication, an adjustment will be made when these medications are dispensed. This adjustment will be limited to once every 30 days, except when a further take home supply of these medications is medically reasonable and necessary. The opioid treatment program must document in the medical record the reason(s) for the exception. The amount of the drug component of the adjustment will be determined using the methodology in paragraph (d)(2)(i) of this section. The amount of the non-drug component of the adjustment will be determined based on the CY 2020 Medicare payment rate for CPT code 96161.
+
 (ii) The payment amounts for the non-drug component of the bundled payment for an episode of care, and the adjustments for counseling or therapy, intake activities and periodic assessments will be geographically adjusted using the Geographic Adjustment Factor described in § 414.26 of this chapter.
 
 (iii) The payment amounts for the non-drug component of the bundled payment for an episode of care, and the adjustments for counseling or therapy, intake activities and periodic assessments will be updated annually using the Medicare Economic Index described in § 405.504(d) of this chapter.
@@ -100,4 +100,4 @@ Link to an amendment published at 85 FR 85026, Dec. 28, 2020.
 
 (e) *Beneficiary cost-sharing.* A beneficiary copayment amount of zero will apply.
 
-[84 FR 63189, Nov. 15, 2019, as amended at 85 FR 19286, Apr. 6, 2020; 85 FR 27620, May 8, 2020]
+[84 FR 63189, Nov. 15, 2019, as amended at 85 FR 19286, Apr. 6, 2020; 85 FR 27620, May 8, 2020; 85 FR 85026, Dec. 28, 2020]

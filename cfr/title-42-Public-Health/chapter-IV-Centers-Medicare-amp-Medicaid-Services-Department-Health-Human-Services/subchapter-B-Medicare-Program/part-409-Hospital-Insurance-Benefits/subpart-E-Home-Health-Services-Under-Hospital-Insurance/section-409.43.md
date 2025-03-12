@@ -1,14 +1,18 @@
 ##### § 409.43 Plan of care requirements. #####
 
-Link to an amendment published at 85 FR 70354, Nov. 4, 2020.
-
-(a) *Contents.* An individualized plan of care must be established and periodically reviewed by the certifying physician or allowed practitioner, as defined at § 484.2 of this chapter.
+(a) *Contents.* An individualized plan of care must be established and periodically reviewed by the certifying physician or allowed practitioner.
 
 (1) The HHA must be acting upon a plan of care that meets the requirements of this section for HHA services to be covered.
 
 (2) For HHA services to be covered, the individualized plan of care must specify the services necessary to meet the patient-specific needs identified in the comprehensive assessment.
 
-(3) The plan of care must include the identification of the responsible discipline(s) and the frequency and duration of all visits, as well as those items listed in § 484.60(a) of this chapter that establish the need for such services. All care provided must be in accordance with the plan of care. During a PHE, as defined in § 400.200 of this chapter, the plan of care must include any provision of remote patient monitoring or other services furnished via a telecommunications system and such services must be tied to the patient-specific needs as identified in the comprehensive assessment, cannot substitute for a home visit ordered as part of the plan of care, and cannot be considered a home visit for the purposes of patient eligibility or payment. The plan of care must include a description of how the use of such technology will help to achieve the goals outlined on the plan of care.
+(3)(i) The plan of care must include all of the following:
+
+(A) The identification of the responsible discipline(s) and the frequency and duration of all visits as well as those items listed in § 484.60(a) of this chapter that establish the need for such services.
+
+(B) Any provision of remote patient monitoring or other services furnished via telecommunications technology (as defined in § 409.46(e)) or audio-only technology. Such services must be tied to the patient-specific needs as identified in the comprehensive assessment, cannot substitute for a home visit ordered as part of the plan of care, and cannot be considered a home visit for the purposes of patient eligibility or payment.
+
+(ii) All care provided must be in accordance with the plan of care.
 
 (b) *Physician's orders.* The physician or allowed practitioner's orders for services in the plan of care must specify the medical treatments to be furnished as well as the type of home health discipline that will furnish the ordered services and at what frequency the services will be furnished. Orders for services to be provided “as needed” or “PRN” must be accompanied by a description of the beneficiary's medical signs and symptoms that would occasion the visit and a specific limit on the number of those visits to be made under the order before an additional physician or allowed practitioner order would have to be obtained. Orders for care may indicate a specific range in frequency of visits to ensure that the most appropriate level of services is furnished. If a range of visits is ordered, the upper limit of the range is considered the specific frequency.
 
@@ -48,4 +52,4 @@ Link to an amendment published at 85 FR 70354, Nov. 4, 2020.
 
 (f) *Termination of the plan of care.* The plan of care is considered to be terminated if the beneficiary does not receive at least one covered skilled nursing, physical therapy, speech-language pathology services, or occupational therapy visit in a 60-day period unless the physician or allowed practitioner documents that the interval without such care is appropriate to the treatment of the beneficiary's illness or injury.
 
-[59 FR 65494, Dec. 20, 1994, as amended at 65 FR 41210, July 3, 2000; 74 FR 58133, Nov. 10, 2009; 80 FR 68717, Nov. 5, 2015; 82 FR 4578, Jan. 13, 2017; 83 FR 56627, Nov. 13, 2018; 84 FR 60642, Nov. 8, 2019; 85 FR 19285, Apr. 6, 2020; 85 FR 27619, May 8, 2020]
+[59 FR 65494, Dec. 20, 1994, as amended at 65 FR 41210, July 3, 2000; 74 FR 58133, Nov. 10, 2009; 80 FR 68717, Nov. 5, 2015; 82 FR 4578, Jan. 13, 2017; 83 FR 56627, Nov. 13, 2018; 84 FR 60642, Nov. 8, 2019; 85 FR 19285, Apr. 6, 2020; 85 FR 27619, May 8, 2020; 85 FR 70354, Nov. 4, 2020]

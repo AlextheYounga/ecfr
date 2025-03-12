@@ -42,9 +42,13 @@ Link to an amendment published at 85 FR 85042, Dec. 28, 2020.
 
 ![](/graphics/er31de18.023.gif)
 
-(c) *Qualification for shared savings payment.* In order to qualify for shared savings, an ACO must meet or exceed its minimum savings rate determined under paragraph (b) of this section, meet the minimum quality performance standards established under § 425.502, and otherwise maintain its eligibility to participate in the Shared Savings Program under this part.
+(c) *Qualification for shared savings payment* - (1) *For performance years (or a performance period) beginning on or before January 1, 2020.* In order to qualify for shared savings, an ACO must meet or exceed its minimum savings rate determined under paragraph (b) of this section, meet the minimum quality performance standards established under § 425.502, and otherwise maintain its eligibility to participate in the Shared Savings Program under this part.
 
-(d) *Final sharing rate.* An ACO that meets all the requirements for receiving shared savings payments under the one-sided model will receive a shared savings payment of up to 50 percent of all savings under the updated benchmark, as determined on the basis of its quality performance under § 425.502 of this part (up to the performance payment limit described in paragraph (e)(2) of this section).
+(2) *For the performance year beginning on January 1, 2021.* To qualify for shared savings, an ACO must meet or exceed its minimum savings rate determined under paragraph (b) of this section, meet the quality performance standard established under § 425.512, and otherwise maintain its eligibility to participate in the Shared Savings Program under this part.
+
+(d) *Final sharing rate* - (1) *For performance years (or a performance period) beginning on or before January 1, 2020.* An ACO that meets all the requirements for receiving shared savings payments under the one-sided model will receive a shared savings payment of up to 50 percent of all savings under the updated benchmark, as determined on the basis of its quality performance under § 425.502 (up to the performance payment limit described in paragraph (e)(2) of this section).
+
+(2) *For the performance year beginning on January 1, 2021.* An ACO that meets all the requirements for receiving shared savings payments under Track 1 will receive a shared savings payment of 50 percent of all the savings under the updated benchmark (up to the performance payment limit described in paragraph (e)(2) of this section).
 
 (e) *Performance payment.* (1) If an ACO qualifies for savings by meeting or exceeding the MSR, the final sharing rate will apply to an ACO's savings on a first dollar basis.
 
@@ -54,4 +58,4 @@ Link to an amendment published at 85 FR 85042, Dec. 28, 2020.
 
 (g) *January 1, 2019 through June 30, 2019 performance year.* Shared savings for the January 1, 2019 through June 30, 2019 performance year are calculated as described in § 425.609.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 81 FR 38016, June 10, 2016; 82 FR 53370, Nov. 15, 2017; 83 FR 60094, Nov. 23, 2018; 83 FR 68074, Dec. 31, 2018]
+[76 FR 67973, Nov. 2, 2011, as amended at 81 FR 38016, June 10, 2016; 82 FR 53370, Nov. 15, 2017; 83 FR 60094, Nov. 23, 2018; 83 FR 68074, Dec. 31, 2018; 85 FR 85042, Dec. 28, 2020]

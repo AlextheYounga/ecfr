@@ -1,7 +1,5 @@
 ##### § 660.11 General definitions. #####
 
-Link to an amendment published at 85 FR 79892, Dec. 11, 2020.
-
 These definitions are specific to the fisheries covered in subparts C through G of this part.
 
 *Acceptable Biological Catch (ABC)* means a harvest specification that is set below the overfishing limit to account for scientific uncertainty in the estimate of OFL, and other scientific uncertainty.
@@ -391,7 +389,7 @@ These definitions are specific to the fisheries covered in subparts C through G 
 
 (xvii) Cape Vizcaino, CA - 39°44.00′ N. lat.
 
-(xviii) Point Arena, CA - 38°57.50′ N. lat.
+(xviii) Point Arena, CA - management line - 38°57.50′ N lat.
 
 (xvix) Point San Pedro, CA - 37°35.67′ N. lat.
 
@@ -531,4 +529,4 @@ These definitions are specific to the fisheries covered in subparts C through G 
 
 *Vessel owner or owner of a vessel,* as used in subparts C through G of this part, means a person identified as the current owner in the Certificate of Documentation (CG-1270) issued by the USCG for a documented vessel, or in a registration certificate issued by a state or the USCG for an undocumented vessel.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78373, Dec. 15, 2010; 76 FR 27529, May 11, 2011; 76 FR 53834, Aug. 30, 2011; 76 FR 74733, Dec. 1, 2011; 78 FR 587, Jan. 3, 2013; 78 FR 68767, Nov. 15, 2013; 78 FR 75278, Dec. 11, 2013; 80 FR 12571, Mar. 10, 2015; 80 FR 22279, Apr. 21, 2015; 80 FR 71980, Nov. 18, 2015; 80 FR 77270, Dec. 14, 2015; 81 FR 36807, June 8, 2016; 81 FR 84425, Nov. 23, 2016; 82 FR 9638, Feb. 7, 2017; 82 FR 60569, Dec. 21, 2017; 83 FR 62275, Dec. 3, 2018; 83 FR 63990, Dec. 12, 2018; 84 FR 49961, Sept. 24, 2019; 84 FR 63972, Nov. 19, 2019; 85 FR 35600, June 11, 2020]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78373, Dec. 15, 2010; 76 FR 27529, May 11, 2011; 76 FR 53834, Aug. 30, 2011; 76 FR 74733, Dec. 1, 2011; 78 FR 587, Jan. 3, 2013; 78 FR 68767, Nov. 15, 2013; 78 FR 75278, Dec. 11, 2013; 80 FR 12571, Mar. 10, 2015; 80 FR 22279, Apr. 21, 2015; 80 FR 71980, Nov. 18, 2015; 80 FR 77270, Dec. 14, 2015; 81 FR 36807, June 8, 2016; 81 FR 84425, Nov. 23, 2016; 82 FR 9638, Feb. 7, 2017; 82 FR 60569, Dec. 21, 2017; 83 FR 62275, Dec. 3, 2018; 83 FR 63990, Dec. 12, 2018; 84 FR 49961, Sept. 24, 2019; 84 FR 63972, Nov. 19, 2019; 85 FR 35600, June 11, 2020; 85 FR 79892, Dec. 11, 2020]

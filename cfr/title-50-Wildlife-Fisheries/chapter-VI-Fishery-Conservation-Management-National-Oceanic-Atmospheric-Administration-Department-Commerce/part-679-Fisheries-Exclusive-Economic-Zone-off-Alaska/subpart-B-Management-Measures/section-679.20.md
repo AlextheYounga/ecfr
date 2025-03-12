@@ -1,7 +1,5 @@
 ##### § 679.20 General limitations. #####
 
-Link to an amendment published at 85 FR 38100, June 25, 2020.Link to a correction published at 85 FR 79140, Dec. 9, 2020.
-
 This section applies to vessels engaged in directed fishing for groundfish in the GOA and/or the BSAI and to vessels engaged in commercial fishing for Arctic fish in the Arctic Management Area.
 
 (a) *Harvest limits* - (1) *OY* - (i) *BSAI and GOA.* The OY for BSAI and GOA target species is a range or specific amount that can be harvested consistently with this part, plus the amounts of “nonspecified species” taken incidentally to the harvest of target species. The species categories are defined in Table 1 of the specifications as provided in paragraph (c) of this section.
@@ -116,7 +114,7 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (iv) *GOA* - (A) *Apportionment by area.* The TAC for pollock in the combined GOA Western and Central Regulatory Areas will be apportioned among statistical areas 610, 620, and 630 in proportion to the distribution of the pollock biomass as determined by the most recent NMFS surveys.
 
-(B) *GOA Western and Central Regulatory Areas seasonal apportionments.* Each apportionment established under paragraph (a)(5)(iv)(A) of this section will be divided into four seasonal apportionments corresponding to the four fishing seasons specified in § 679.23(d)(2) as follows: A Season, 25 percent; B Season, 25 percent; C Season, 25 percent; and D Season, 25 percent. Within any fishing year, underharvest or overharvest of a seasonal apportionment may be added to or subtracted from remaining seasonal apportionments in a manner to be determined by the Regional Administrator, provided that any revised seasonal apportionment does not exceed 20 percent of the seasonal TAC apportionment for the statistical area. The reapportionment of underharvest will be applied to the subsequent season within the same statistical area up to the 20 percent limit specified in this paragraph. Any underharvest remaining beyond the 20 percent limit may be further apportioned to the subsequent season in the other statistical areas, in proportion to estimated biomass and in an amount no more than 20 percent of the seasonal TAC apportionment for the statistical area.
+(B) *GOA Western and Central Regulatory Areas seasonal apportionments.* Each apportionment established under paragraph (a)(5)(iv)(A) of this section will be divided into two seasonal apportionments corresponding to the two fishing seasons specified in § 679.23(d)(2) as follows: A Season, 50 percent; and B Season, 50 percent. Within any fishing year, underharvest or overharvest of a seasonal apportionment may be added to or subtracted from remaining seasonal apportionments in a manner to be determined by the Regional Administrator, provided that any revised seasonal apportionment does not exceed 20 percent of the seasonal TAC apportionment for the statistical area. The reapportionment of underharvest will be applied to the subsequent season within the same statistical area up to the 20 percent limit specified in this paragraph. Any underharvest remaining beyond the 20 percent limit may be further apportioned to the subsequent season in the other statistical areas, in proportion to estimated biomass and in an amount no more than 20 percent of the seasonal TAC apportionment for the statistical area.
 
 (6) *GOA inshore/offshore allocations* - (i) *GOA pollock.* The apportionment of pollock in all GOA regulatory areas for each seasonal allowance described in paragraph (a)(5)(iv) of this section will be allocated entirely to vessels harvesting pollock for processing by the inshore component in the GOA after subtraction of an amount that is projected by the Regional Administrator to be caught by, or delivered to, the offshore component in the GOA incidental to directed fishing for other groundfish species.
 
@@ -293,7 +291,7 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (11) *All other groundfish TAC.* The initial TAC for each target species and the “other species” category will be 85 percent of the TAC as provided under paragraph (b) of this section.
 
-(12) *GOA Pacific cod TAC* - (i) *Seasonal allowances by sector.* The Western and Central GOA Pacific cod TACs will be seasonally apportioned to each sector such that: 60 percent of the TAC is apportioned to the A season and 40 percent of the TAC is apportioned to the B season, as specified in § 679.23(d)(3).
+(12) *GOA Pacific cod TAC* - (i) *Seasonal allowances by sector.* The Western and Central GOA Pacific cod TACs will be seasonally apportioned to the jig sector such that 60 percent of the TAC is apportioned to the A season and 40 percent of the TAC is apportioned to the B season, as specified in § 679.23(d)(3), before TAC is apportioned among other non-jig sectors. The Western and Central GOA Pacific cod TACs will be seasonally apportioned among the non-jig sectors such that 63.84 percent of the Western GOA TAC is apportioned to the A season and 36.16 percent of the Western GOA TAC is apportioned to the B season, and 64.16 percent of the Central GOA TAC is apportioned to the A season and 35.84 percent of the Central GOA TAC is apportioned to the B season, as specified in § 679.23(d)(3).
 
 (A) *Western GOA Regulatory Area* - *Jig sector.* A portion of the annual Pacific cod TAC will be allocated to vessels with an FFP that use jig gear, as determined in the annual harvest specification under paragraph (c)(7) of this section, before TAC is apportioned among other non-jig sectors. Other Pacific cod sector allowances are apportioned after allocation to the jig sector based on gear type and operation type as follows:
 
@@ -302,7 +300,7 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 |A season  <br/>(in percent)|B season  <br/>(in percent)|                                    |                   |     |
 |            (1)            |       Hook-and-Line       |           Catcher vessel           |       0.70        |0.70 |
 |            (2)            |       Hook-and-Line       |         Catcher/Processor          |       10.90       |8.90 |
-|            (3)            |           Trawl           |           Catcher vessel           |       27.70       |10.70|
+|            (3)            |           Trawl           |           Catcher vessel           |       31.54       |6.86 |
 |            (4)            |           Trawl           |         Catcher/Processor          |       0.90        |1.50 |
 |            (5)            |            Pot            |Catcher Vessel and Catcher/Processor|       19.80       |18.20|
 |            (6)            |         Nontrawl          |                Any                 |       0.00        |0.00 |
@@ -315,7 +313,7 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 |            (1)            |       Hook-and-Line       |           Catcher vessel           |         \<50         |      9.31552      |5.28678 |
 |            (2)            |       Hook-and-Line       |           Catcher vessel           |         ≥50          |      5.60935      |1.09726 |
 |            (3)            |       Hook-and-Line       |         Catcher/Processor          |         Any          |      4.10684      |0.99751 |
-|            (4)            |           Trawl           |           Catcher vessel           |         Any          |     21.13523      |20.44888|
+|            (4)            |           Trawl           |           Catcher vessel           |         Any          |     25.29364      |16.29047|
 |            (5)            |           Trawl           |         Catcher/Processor          |         Any          |      2.00334      |2.19451 |
 |            (6)            |            Pot            |Catcher Vessel and Catcher/Processor|         Any          |     17.82972      |9.97506 |
 |            (7)            |         Nontrawl          |                Any                 |         Any          |       0.00        |  0.00  |

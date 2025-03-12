@@ -1,8 +1,6 @@
 ##### § 425.112 Required processes and patient-centeredness criteria. #####
 
-Link to an amendment published at 85 FR 85038, Dec. 28, 2020.
-
-(a) *General.* (1) An ACO must -
+(a) *General.* (1) An ACO must—
 
 (i) Promote evidence-based medicine and beneficiary engagement, internally report on quality and cost metrics, and coordinate care;
 
@@ -12,7 +10,7 @@ Link to an amendment published at 85 FR 85038, Dec. 28, 2020.
 
 (2) An ACO must have a qualified healthcare professional responsible for the ACO's quality assurance and improvement program, which must include the defined processes included in paragraphs (b)(1) through (4) of this section.
 
-(3) For each process specified in paragraphs (b)(1) through (4) of this section, the ACO must -
+(3) For each process specified in paragraphs (b)(1) through (4) of this section, the ACO must—
 
 (i) Require ACO participants and ACO providers/suppliers to comply with and implement each process (and subelement thereof), including the remedial processes and penalties (including the potential for expulsion) applicable to ACO participants and ACO providers/suppliers for failure to comply with and implement the required process; and
 
@@ -24,7 +22,7 @@ Link to an amendment published at 85 FR 85038, Dec. 28, 2020.
 
 (2) Promote patient engagement. These processes must address the following areas:
 
-(i) Compliance with patient experience of care survey requirements in § 425.500.
+(i) Compliance with patient experience of care survey requirements in § 425.500 or § 425.510, as applicable.
 
 (ii) Compliance with beneficiary representative requirements in § 425.106.
 
@@ -42,7 +40,7 @@ Link to an amendment published at 85 FR 85038, Dec. 28, 2020.
 
 (3) Develop an infrastructure for its ACO participants and ACO providers/suppliers to internally report on quality and cost metrics that enables the ACO to monitor, provide feedback, and evaluate its ACO participants and ACO provider(s)/supplier(s) performance and to use these results to improve care over time.
 
-(4) Coordinate care across and among primary care physicians, specialists, and acute and post-acute providers and suppliers. The ACO must -
+(4) Coordinate care across and among primary care physicians, specialists, and acute and post-acute providers and suppliers. The ACO must—
 
 (i) Define its methods and processes established to coordinate care throughout an episode of care and during its transitions, such as discharge from a hospital or transfer of care from a primary care physician to a specialist (both inside and outside the ACO); and
 
@@ -64,4 +62,4 @@ Link to an amendment published at 85 FR 85038, Dec. 28, 2020.
 
 (D) Partner with long-term and post-acute care providers, both inside and outside the ACO, to improve care coordination for its assigned beneficiaries.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32835, June 9, 2015; 82 FR 53368, Nov. 15, 2017]
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32835, June 9, 2015; 82 FR 53368, Nov. 15, 2017; 85 FR 85038, Dec. 28, 2020]

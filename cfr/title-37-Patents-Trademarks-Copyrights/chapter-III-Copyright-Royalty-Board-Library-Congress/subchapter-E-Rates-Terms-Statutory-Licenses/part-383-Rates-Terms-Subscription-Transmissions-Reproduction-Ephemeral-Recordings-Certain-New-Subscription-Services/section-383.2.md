@@ -1,14 +1,12 @@
 ##### § 383.2 Definitions. #####
 
-Link to an amendment published at 85 FR 9664, Feb. 20, 2020.
-
 For purposes of this part, the following definitions shall apply:
 
 (a) *Bundled Contracts* means contracts between the Licensee and a Provider in which the Service is not the only content licensed by the Licensee to the Provider.
 
 (b) *Copyright Owner* means a sound recording copyright owner, or a rights owner under 17 U.S.C. 1401(l)(2), who is entitled to receive royalty payments made under this part pursuant to the statutory licenses under 17 U.S.C. 112(e) and 114.
 
-(c) *License Period* means the period commencing January 1, 2016, and continuing through December 31, 2020.
+(c) *License Period* means the period commencing January 1, 2021, and continuing through December 31, 2025.
 
 (d) *Licensee* is a person that has obtained statutory licenses under 17 U.S.C. 112(e) and 114, and the implementing regulations, to make digital audio transmissions as part of a Service (as defined in paragraph (f) of this section), and ephemeral recordings for use in facilitating such transmissions.
 
@@ -26,4 +24,4 @@ For purposes of this part, the following definitions shall apply:
 
 (h) *Stand-Alone Contracts* means contracts between the Licensee and a Provider in which the only content licensed to the Provider is the Service.
 
-[72 FR 72254, Dec. 20, 2007, as amended at 75 FR 14075, Mar. 24, 2010; 80 FR 36928, June 29, 2015; 84 FR 32313, July 8, 2019]
+[72 FR 72254, Dec. 20, 2007, as amended at 75 FR 14075, Mar. 24, 2010; 80 FR 36928, June 29, 2015; 84 FR 32313, July 8, 2019; 85 FR 9664, Feb. 20, 2020]

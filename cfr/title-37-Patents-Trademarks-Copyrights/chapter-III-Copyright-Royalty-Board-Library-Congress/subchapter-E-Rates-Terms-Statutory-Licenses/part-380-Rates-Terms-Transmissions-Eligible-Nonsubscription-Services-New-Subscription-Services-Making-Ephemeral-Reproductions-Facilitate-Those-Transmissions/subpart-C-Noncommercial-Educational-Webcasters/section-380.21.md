@@ -1,43 +1,27 @@
-##### § 380.21 Definitions. #####
+##### § 380.21 Royalty fees for the public performance of sound recordings and for ephemeral recordings. #####
 
-For purposes of this subpart, the following definitions shall apply:
+(a) *Minimum fee for eligible Noncommercial Educational Webcasters.* Each Noncommercial Educational Webcaster that did not exceed 159,140 total ATH for any individual channel or station for more than one calendar month in the immediately preceding calendar year and does not expect to make total transmissions in excess of 159,140 ATH on any individual channel or station in any calendar month during the applicable calendar year shall pay an annual, nonrefundable minimum fee in the amount set forth in paragraphs (a)(1) through (5) of this section (the “Minimum Fee”) for each of its individual channels, including each of its individual side channels, and each of its individual stations, through which (in each case) it makes Educational Transmissions, for each calendar year it makes Educational Transmissions subject to this subpart. For clarity, each individual stream (*e.g.,* HD radio side channels, different stations owned by a single licensee) will be treated separately and be subject to a separate Minimum Fee. The Minimum Fee shall constitute the annual per channel or per station royalty for all Educational Transmissions totaling not more than 159,140 ATH in a month on any individual channel or station, and for Ephemeral Recordings to enable such Educational Transmissions. In addition, a Noncommercial Educational Webcaster electing the reporting waiver described in § 380.22(d)(1) shall pay a $100 annual fee (the “Proxy Fee”) to the Collective (for purposes of this subpart, the term “Collective” refers to SoundExchange, Inc.). The Minimum Fee for each year of the royalty period is:
 
-*ATH or Aggregate Tuning Hours* means the total hours of programming that a Noncommercial Educational Webcaster has transmitted during the relevant period to all listeners within the United States over all channels and stations that provide audio programming consisting, in whole or in part, of Eligible Transmissions, including from any archived programs, less the actual running time of any sound recordings for which the Noncommercial Educational Webcaster has obtained direct licenses apart from 17 U.S.C. 114(d)(2) or which do not require a license under title 17, United States Code. By way of example, if a Noncommercial Educational Webcaster transmitted one hour of programming to 10 simultaneous listeners, the Noncommercial Educational Webcaster's Aggregate Tuning Hours would equal 10. If three minutes of that hour consisted of transmission of a directly licensed recording, the Noncommercial Educational Webcaster's Aggregate Tuning Hours would equal 9 hours and 30 minutes. As an additional example, if one listener listened to a Noncommercial Educational Webcaster for 10 hours (and none of the recordings transmitted during that time was directly licensed), the Noncommercial Educational Webcaster's Aggregate Tuning Hours would equal 10.
+(1) 2021: $550;
 
-*Collective* is the collection and distribution organization specified in § 380.2.
+(2) 2022: $600;
 
-*Copyright Owners* are sound recording copyright owners, and rights owners under 17 U.S.C. 1401(l)(2), who are entitled to royalty payments made under this subpart pursuant to the statutory licenses under 17 U.S.C. 112(e) and 114(f).
+(3) 2023: $650;
 
-*Eligible Transmission* means an eligible nonsubscription transmission made by a Noncommercial Educational Webcaster over the Internet.
+(4) 2024: $700; and
 
-*Ephemeral Recording* is a phonorecord created for the purpose of facilitating an Eligible Transmission of a public performance of a sound recording under a statutory license in accordance with 17 U.S.C. 114(f), and subject to the limitations specified in 17 U.S.C. 112(e).
+(5) 2025: $750.
 
-*Noncommercial Educational Webcaster* means a Noncommercial Webcaster (as defined in 17 U.S.C. 114(f)(5)(E)(i)) that
+(b) *Consequences of unexpectedly exceeding ATH cap.* In the case of a Noncommercial Educational Webcaster eligible to pay royalties under paragraph (a) of this section that unexpectedly makes total transmissions in excess of 159,140 ATH on any individual channel or station in any calendar month during the applicable calendar year:
 
-(1) Has obtained a compulsory license under 17 U.S.C. 112(e) and 114 and the implementing regulations therefor to make Eligible Transmissions and related ephemeral recordings;
+(1) The Noncommercial Educational Webcaster shall, for such month and the remainder of the calendar year in which such month occurs, pay royalties in accordance, and otherwise comply, with the provisions of subpart B of this part applicable to Noncommercial Webcasters;
 
-(2) Complies with all applicable provisions of Sections 112(e) and 114 and applicable regulations;
+(2) The Minimum Fee paid by the Noncommercial Educational Webcaster for such calendar year will be credited to the amounts payable under the provisions of subpart B of this part applicable to Noncommercial Webcasters; and
 
-(3) Is directly operated by, or is affiliated with and officially sanctioned by, and the digital audio transmission operations of which are staffed substantially by students enrolled at, a domestically accredited primary or secondary school, college, university or other post-secondary degree-granting educational institution;
+(3) The Noncommercial Educational Webcaster shall, within 45 days after the end of each month, notify the Collective if it has made total transmissions in excess of 159,140 ATH on a channel or station during that month; pay the Collective any amounts due under the provisions of subpart B of this part applicable to Noncommercial Webcasters; and provide the Collective a statement of account pursuant to subpart A of this part.
 
-(4) Is not a “public broadcasting entity” (as defined in 17 U.S.C. 118(f)) qualified to receive funding from the Corporation for Public Broadcasting pursuant to the criteria set forth in 47 U.S.C. 396; and
+(c) *Royalties for other Noncommercial Educational Webcasters.* A Noncommercial Educational Webcaster that is not eligible to pay royalties under paragraph (a) of this section shall pay royalties in accordance, and otherwise comply, with the provisions of subpart B of this part applicable to Noncommercial Webcasters.
 
-(5) Takes affirmative steps not to make total transmissions in excess of 159,140 Aggregate Tuning Hours on any individual channel or station in any month, if in any previous calendar year it has made total transmissions in excess of 159,140 Aggregate Tuning Hours on any individual channel or station in any month.
+(d) *Estimation of performances.* In the case of a Noncommercial Educational Webcaster that is required to pay royalties under paragraph (b) or (c) of this section on a per-Performance basis, that is unable to calculate actual total performances, and that is not required to report actual total performances under § 380.22(d)(3), the Noncommercial Educational Webcaster may pay its applicable royalties on an ATH basis, provided that the Noncommercial Educational Webcaster shall calculate such royalties at the applicable per-Performance rates based on the assumption that the number of sound recordings performed is 12 per hour. The Collective may distribute royalties paid on the basis of ATH hereunder in accordance with its generally applicable methodology for distributing royalties paid on such basis. In addition, and for the avoidance of doubt, a Noncommercial Educational Webcaster offering more than one channel or station shall pay per-Performance royalties on a per-channel or -station basis.
 
-*Performance* is each instance in which any portion of a sound recording is publicly performed to a listener by means of a digital audio transmission (*e.g.,* the delivery of any portion of a single track from a compact disc to one listener) but excluding the following:
-
-(1) A performance of a sound recording that does not require a license (*e.g.,* a sound recording that is not subject to protection under title 17, United States Code);
-
-(2) A performance of a sound recording for which the Noncommercial Educational Webcaster has previously obtained a license from the Copyright Owner of such sound recording; and
-
-(3) An incidental performance that both:
-
-(i) Makes no more than incidental use of sound recordings, including, but not limited to, brief musical transitions in and out of commercials or program segments, brief performances during news, talk and sports programming, brief background performances during disk jockey announcements, brief performances during commercials of sixty seconds or less in duration, or brief performances during sporting or other public events; and
-
-(ii) Other than ambient music that is background at a public event, does not contain an entire sound recording and does not feature a particular sound recording of more than thirty seconds (as in the case of a sound recording used as a theme song).
-
-*Performers* means the independent administrators identified in 17 U.S.C. 114(g)(2)(B) and (C) and the parties identified in 17 U.S.C. 114(g)(2)(D).
-
-*Qualified Auditor* is a Certified Public Accountant.
-
-[79 FR 23127, Apr. 25, 2014, as amended at 80 FR 58205, Sept. 28, 2015; 84 FR 32313, July 8, 2019]
+(e) *Allocation between ephemeral recordings and performance royalty fees.* The Collective must credit 5% of all royalty payments as payment for Ephemeral Recordings and credit the remaining 95% to section 114 royalties. All Ephemeral Recordings that a Licensee makes which are necessary and commercially reasonable for making Educational Transmissions are included in the 5%.

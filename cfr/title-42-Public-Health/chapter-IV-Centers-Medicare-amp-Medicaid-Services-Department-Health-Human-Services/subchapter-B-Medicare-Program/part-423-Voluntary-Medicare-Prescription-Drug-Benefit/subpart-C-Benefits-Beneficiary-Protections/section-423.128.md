@@ -1,7 +1,5 @@
 ##### § 423.128 Dissemination of Part D plan information. #####
 
-Link to an amendment published at 84 FR 23883, May 23, 2019.
-
 (a) *Detailed description.* A Part D sponsor must disclose the information specified in paragraph (b) of this section in the manner specified by CMS -
 
 (1) To each enrollee of a Part D plan offered by the Part D sponsor under this part;
@@ -132,9 +130,11 @@ Link to an amendment published at 84 FR 23883, May 23, 2019.
 
 (4) Include the cumulative, year-to-date total of incurred costs to the extent practicable.
 
-(5) Include any applicable formulary changes for which Part D plans are required to provide notice as described in § 423.120(b)(5).
+(5) For each prescription drug claim, must include the cumulative percentage increase (if any) in the negotiated price since the first claim of the current benefit year and therapeutic alternatives with lower cost-sharing, when available as determined by the plan, from the applicable approved plan formulary.
 
-(6) Be provided no later than the end of the month following any month when prescription drug benefits are provided under this part, including the covered Part D spending between the initial coverage limit described in § 423.104(d)(3) and the out-of-pocket threshold described in § 423.104(d)(5)(iii).
+(6) Include any applicable formulary changes for which Part D plans are required to provide notice as described in § 423.120(b)(5).
+
+(7) Be provided no later than the end of the month following any month when prescription drug benefits are provided under this part, including the covered Part D spending between the initial coverage limit described in § 423.104(d)(3) and the out-of-pocket threshold described in § 423.104(d)(5)(iii).
 
 (f) *Disclosure requirements.* CMS may require a Part D plan sponsor to disclose to its enrollees or potential enrollees, the Part D plan sponsor's performance and contract compliance deficiencies in a manner specified by CMS.
 
@@ -146,4 +146,4 @@ Link to an amendment published at 84 FR 23883, May 23, 2019.
 
 (3) Provide notice of all other changes in accordance with notice requirements as specified in this part.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 54222, Sept. 18, 2008; 74 FR 1544, Jan. 12, 2009; 75 FR 19818, Apr. 15, 2010; 76 FR 21573, Apr. 15, 2011; 80 FR 7963, Feb. 12, 2015; 83 FR 16739, Apr. 16, 2018]
+[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 54222, Sept. 18, 2008; 74 FR 1544, Jan. 12, 2009; 75 FR 19818, Apr. 15, 2010; 76 FR 21573, Apr. 15, 2011; 80 FR 7963, Feb. 12, 2015; 83 FR 16739, Apr. 16, 2018; 84 FR 23883, May 23, 2019]

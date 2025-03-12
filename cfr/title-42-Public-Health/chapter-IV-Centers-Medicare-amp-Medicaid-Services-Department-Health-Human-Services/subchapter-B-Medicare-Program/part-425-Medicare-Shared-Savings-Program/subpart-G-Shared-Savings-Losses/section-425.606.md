@@ -1,7 +1,5 @@
 ##### § 425.606 Calculation of shared savings and losses under Track 2. #####
 
-Link to an amendment published at 85 FR 85043, Dec. 28, 2020.
-
 (a) *General rule.* For each performance year, CMS determines whether the estimated average per capita Medicare expenditures under the ACO for Medicare fee-for-service beneficiaries for Parts A and B services are above or below the updated benchmark determined under § 425.602 or § 425.603. In order to qualify for a shared savings payment under Track 2, or to be responsible for sharing losses with CMS, an ACO's average per capita Medicare expenditures under the ACO for Medicare fee-for-service beneficiaries for Parts A and B services for the performance year must be below or above the updated benchmark, respectively, by at least the minimum savings or loss rate under paragraph (b) of this section.
 
 (1) *Newly assigned beneficiaries.* CMS uses an ACO's HCC prospective risk score to adjust the benchmark for changes in severity and case mix in this population.
@@ -52,19 +50,39 @@ Link to an amendment published at 85 FR 85043, Dec. 28, 2020.
 
 (3) To be responsible for sharing losses with the Medicare program, an ACO's average per capita Medicare expenditures for the performance year must be above its updated benchmark costs for the year by at least the MLR established for the ACO.
 
-(c) *Qualification for shared savings payment.* To qualify for shared savings, an ACO must meet the minimum savings rate requirement established under paragraph (b) of this section, meet the minimum quality performance standards established under § 425.502 of this part, and otherwise maintain its eligibility to participate in the Shared Savings Program under this part.
+(c) *Qualification for shared savings payment*—(1) *For performance years (or a performance period) beginning on or before January 1, 2020.* To qualify for shared savings, an ACO must meet the minimum savings rate requirement established under paragraph (b) of this section, meet the minimum quality performance standards established under § 425.502, and otherwise maintain its eligibility to participate in the Shared Savings Program under this part.
 
-(d) *Final sharing rate.* An ACO that meets all the requirements for receiving shared savings payments under Track 2 will receive a shared savings payment of up to 60 percent of all the savings under the updated benchmark, as determined on the basis of its quality performance under § 425.502 of this part (up to the performance payment limit described in paragraph (e)(2) of this section).
+(2) *For the performance year beginning on January 1, 2021.* To qualify for shared savings, an ACO must meet the minimum savings rate requirement established under paragraph (b) of this section, meet the quality performance standard established under § 425.512, and otherwise maintain its eligibility to participate in the Shared Savings Program under this part.
+
+(d) *Final sharing rate*—(1) *For performance years (or a performance period) beginning on or before January 1, 2020.* An ACO that meets all the requirements for receiving shared savings payments under Track 2 will receive a shared savings payment of up to 60 percent of all the savings under the updated benchmark, as determined on the basis of its quality performance under § 425.502 (up to the performance payment limit described in paragraph (e)(2) of this section).
+
+(2) *For the performance year beginning on January 1, 2021.* An ACO that meets all the requirements for receiving shared savings payments under Track 2 will receive a shared savings payment of 60 percent of all the savings under the updated benchmark (up to the performance payment limit described in paragraph (e)(2) of this section).
 
 (e) *Performance payment.* (1) If an ACO qualifies for savings by meeting or exceeding the MSR, the final sharing rate will apply to an ACO's savings on a first dollar basis.
 
 (2) The amount of shared savings an eligible ACO receives under Track 2 may not exceed 15 percent of its updated benchmark.
 
-(f) *Shared loss rate.* The shared loss rate -
+(f) *Shared loss rate*—(1) *For performance years (or a performance period) beginning on or before January 1, 2020.* For an ACO that is required to share losses with the Medicare program for expenditures over the updated benchmark, the amount of shared losses is determined based on the inverse of its final sharing rate described in paragraph (d)(1) of this section (that is, 1 minus the final shared savings rate determined under paragraph (d)(1) of this section). The shared loss rate—
 
-(1) For an ACO that is required to share losses with the Medicare program for expenditures over the updated benchmark, the amount of shared losses is determined based on the inverse of its final sharing rate described in § 425.606(d) (that is, 1 minus the final shared savings rate determined under § 425.606(d) of this part); and
+(i) May not exceed 60 percent; and
 
-(2) May not exceed 60 percent.
+(ii) May not be less than 40 percent.
+
+(2) *For the performance year beginning on January 1, 2021.* For an ACO that is required to share losses with the Medicare program for expenditures over the updated benchmark, the amount of shared losses is determined as follows:
+
+(i) If the ACO meets the quality performance standard established in § 425.512, CMS determines the shared loss rate as follows:
+
+(A) Calculate the quotient of the MIPS Quality performance category points earned divided by the total MIPS Quality performance category points available.
+
+(B) Calculate the product of the quotient determined in paragraph (f)(2)(i)(A) of this section and 60 percent.
+
+(C) Calculate the shared loss rate as 1 minus the product determined in paragraph (f)(2)(i)(B) of this section. The shared loss rate—
+
+(*1*) May not exceed 60 percent; and
+
+(*2*) May not be less than 40 percent.
+
+(ii) If the ACO fails to meet the quality performance standard established in § 425.512, the shared loss rate is 60 percent.
 
 (g) *Loss recoupment limit.* The amount of shared losses for which an eligible ACO is liable may not exceed the following percentages of its updated benchmark as determined under § 425.602 or § 425.603:
 
@@ -90,7 +108,7 @@ Link to an amendment published at 85 FR 85043, Dec. 28, 2020.
 
 (ii) [Reserved]
 
-(3) CMS applies determinations made under the Quality Payment Program with respect to -
+(3) CMS applies determinations made under the Quality Payment Program with respect to—
 
 (i) Whether an extreme and uncontrollable circumstance has occurred; and
 
@@ -100,4 +118,4 @@ Link to an amendment published at 85 FR 85043, Dec. 28, 2020.
 
 (j) *January 1, 2019 through June 30, 2019.* Shared savings or shared losses for the January 1, 2019 through June 30, 2019 performance year are calculated as described in § 425.609.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32842, June 9, 2015; 81 FR 38017, June 10, 2016; 82 FR 53370, Nov. 15, 2017; 82 FR 60918, Dec. 26, 2017; 83 FR 60094, Nov. 23, 2018; 83 FR 68077, Dec. 31, 2018]
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32842, June 9, 2015; 81 FR 38017, June 10, 2016; 82 FR 53370, Nov. 15, 2017; 82 FR 60918, Dec. 26, 2017; 83 FR 60094, Nov. 23, 2018; 83 FR 68077, Dec. 31, 2018; 85 FR 85043, Dec. 28, 2020]

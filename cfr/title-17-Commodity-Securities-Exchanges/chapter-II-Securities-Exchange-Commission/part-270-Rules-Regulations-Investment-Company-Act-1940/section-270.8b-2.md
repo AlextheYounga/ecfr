@@ -1,7 +1,5 @@
 ##### § 270.8b-2 Definitions. #####
 
-Link to an amendment published at 85 FR 54073, Aug. 31, 2020.
-
 Unless the context otherwise requires, the terms in paragraphs (a) through (m) of this section, when used in the rules contained in §§ 270.8b-1 through 270.8b-32, in the rules under section 30(a) or (b) of the Act or in the forms for registration statements and reports pursuant to section 8 or 30(a) or (b) of the Act, shall have the respective meanings indicated in this section. The terms “EDGAR,” “EDGAR Filer Manual,” “electronic filer,” “electronic filing,” “electronic format,” “electronic submission,” “paper format,” and “signature” shall have the meanings assigned to such terms in part 232 of this chapter (Regulation S-T - General Rules for Electronic Filings).
 
 (a) *Amount.* The term “amount”, when used in regard to securities, means the principal amount if relating to evidences of indebtedness, the number of shares if relating to shares, and the number of units if relating to any other kind of security.
@@ -24,13 +22,15 @@ Unless the context otherwise requires, the terms in paragraphs (a) through (m) o
 
 (j) *Share.* The term “share” means a share of stock in a corporation or unit of interest in an unincorporated person.
 
-(k) *Significant subsidiary.* The term “significant subsidiary” means a subsidiary meeting any one of the following conditions:
+(k) *Significant subsidiary.* The term “significant subsidiary” means a subsidiary, including its subsidiaries, which meets any of the following conditions, using amounts determined under U.S. Generally Accepted Accounting Principles and, if applicable, section 2(a)(41) of the Act:
 
-(1) The value of the investments in and advances to the subsidiary by its parent and the parent's other subsidiaries, if any exceed 10 percent of the value of the assets of the parent or, if a consolidated balance sheet is filed, the value of the assets of the parent and its consolidated subsidiaries.
+(1) *Investment test.* The value of the registrant's and its other subsidiaries' investments in and advances to the tested subsidiary exceed 10 percent of the value of the total investments of the registrant and its subsidiaries consolidated as of the end of the most recently completed fiscal year; or
 
-(2) The total investment income of the subsidiary or, in the case of a noninvestment company subsidiary, the net income exceeds 10 percent of the total investment income of the parent or, if consolidated statements are filed, 10 percent of the total investment income of the parent and its consolidated subsidiaries.
+(2) *Income test.* The absolute value of the sum of combined investment income from dividends, interest, and other income, the net realized gains and losses on investments, and the net change in unrealized gains and losses on investments from the tested subsidiary, for the most recently completed fiscal year exceeds:
 
-(3) The subsidiary is the parent of one or more subsidiaries and, together with such subsidiaries would, if considered in the aggregate, constitute a significant subsidiary.
+(i) 80 percent of the absolute value of the change in net assets resulting from operations of the registrant and its subsidiaries consolidated for the most recently completed fiscal year; or
+
+(ii) 10 percent of the absolute value of the change in net assets resulting from operations of the registrant and its subsidiaries consolidated for the most recently completed fiscal year and the investment test (paragraph (k)(1) of this section) condition exceeds 5 percent. However, if the absolute value of the change in net assets resulting from operations of the registrant and its subsidiaries consolidated is at least 10 percent lower than the average of the absolute value of such amounts for each of its last five fiscal years, then the registrant may compute both conditions of the income test using the average of the absolute value of such amounts for the registrant and its subsidiaries consolidated for each of its last five fiscal years.
 
 (l) *Subsidiary.* A “subsidiary” of a specified person is an affiliated person who is controlled by the specified person, directly or indirectly, through one or more intermediaries.
 

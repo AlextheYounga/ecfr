@@ -1,14 +1,12 @@
 ##### § 425.611 Adjustments to Shared Savings Program calculations to address the COVID-19 pandemic. #####
 
-Link to an amendment published at 85 FR 85044, Dec. 28, 2020.
-
 (a) *General.* This section describes adjustments CMS makes to Shared Savings Program calculations to address the impact of the COVID-19 pandemic.
 
 (b) *Episodes of care for treatment of COVID-19.* (1) CMS identifies an episode of care for treatment of COVID-19 based on either of the following:
 
 (i) Discharges for inpatient services eligible for the 20 percent adjustment under section 1886(d)(4)(C) of the Act.
 
-(ii) Discharges for acute care inpatient services for treatment of COVID-19 from facilities that are not paid under the inpatient prospective payment system, such as CAHs, when the date of admission occurs within the Public Health Emergency as defined in § 400.200 of this chapter.
+(ii) Discharges for acute care inpatient services for treatment of COVID-19 from facilities that are not paid under the inpatient prospective payment system, such as CAHs, when the date of discharge occurs within the Public Health Emergency as defined in § 400.200 of this chapter.
 
 (2) CMS defines the episode of care as starting in the month in which the inpatient stay begins as identified by the admission date, all months during the inpatient stay, and the month following the end of the inpatient stay as indicated by the discharge date.
 
@@ -38,4 +36,4 @@ Link to an amendment published at 85 FR 85044, Dec. 28, 2020.
 
 (5) Calculation or recalculation of the amount of the ACO's repayment mechanism arrangement according to § 425.204(f)(4).
 
-[85 FR 27625, May 8, 2020]
+[85 FR 27625, May 8, 2020, as amended at 85 FR 85044, Dec. 28, 2020]

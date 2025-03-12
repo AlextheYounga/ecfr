@@ -1,10 +1,8 @@
 ##### § 210.6-03 Special rules of general application to registered investment companies and business development companies. #####
 
-Link to an amendment published at 85 FR 54064, Aug. 31, 2020.
+The financial statements filed for persons to which §§ 210.6-01 through 210.6-11 are applicable shall be prepared in accordance with the following special rules in addition to the general rules in §§ 210.1-01 to 210.4-10 (Articles 1, 2, 3, and 4). Where the requirements of a special rule differ from those prescribed in a general rule, the requirements of the special rule shall be met.
 
-The financial statements filed for persons to which §§ 210.6-01 to 210.6-10 are applicable shall be prepared in accordance with the following special rules in addition to the general rules in §§ 210.1-01 to 210.4-10 (Articles 1, 2, 3, and 4). Where the requirements of a special rule differ from those prescribed in a general rule, the requirements of the special rule shall be met.
-
-(a) *Content of financial statements.* The financial statements shall be prepared in accordance with the requirements of this part (Regulation S-X) notwithstanding any provision of the articles of incorporation, trust indenture or other governing legal instruments specifying certain accounting procedures inconsistent with those required in §§ 210.6-01 to 210.6-10.
+(a) *Content of financial statements.* The financial statements shall be prepared in accordance with the requirements of this part (Regulation S-X) notwithstanding any provision of the articles of incorporation, trust indenture or other governing legal instruments specifying certain accounting procedures inconsistent with those required in §§ 210.6-01 through 210.6-11.
 
 (b) *Audited financial statements.* Where, under Article 3 of this part, financial statements are required to be audited, the independent accountant shall have been selected and ratified in accordance with section 32 of the Investment Company Act of 1940 (15 U.S.C. 80a-31).
 
@@ -88,4 +86,4 @@ Note to paragraphs (h)(2)(i) and (ii): The information required by paragraphs (h
 
 (3) A general description of the effects of swing pricing.
 
-[81 FR 82010, Nov. 18, 2016, as amended at 81 FR 82137, Nov. 18, 2016; 83 FR 50202, Oct. 4, 2018]
+[81 FR 82010, Nov. 18, 2016, as amended at 81 FR 82137, Nov. 18, 2016; 83 FR 50202, Oct. 4, 2018; 85 FR 54064, Aug. 31, 2020]
