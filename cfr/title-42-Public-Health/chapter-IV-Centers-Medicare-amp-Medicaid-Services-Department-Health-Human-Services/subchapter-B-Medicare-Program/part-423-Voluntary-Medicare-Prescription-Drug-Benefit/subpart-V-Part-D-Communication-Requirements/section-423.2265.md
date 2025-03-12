@@ -1,5 +1,7 @@
 ##### § 423.2265 Websites. #####
 
+Link to an amendment published at 87 FR 27901, May 9, 2022.
+
 As required under § 423.128(d)(2), Part D sponsors must have a website.
 
 (a) *General website requirements.* (1) Part D sponsor websites must meet all of the following requirements:

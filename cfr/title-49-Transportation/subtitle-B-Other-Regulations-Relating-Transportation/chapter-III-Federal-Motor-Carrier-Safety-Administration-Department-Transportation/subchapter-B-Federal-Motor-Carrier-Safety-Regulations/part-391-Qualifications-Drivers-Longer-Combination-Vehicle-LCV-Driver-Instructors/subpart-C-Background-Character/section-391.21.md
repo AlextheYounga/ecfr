@@ -1,7 +1,5 @@
 ##### § 391.21 Application for employment. #####
 
-Link to an amendment published at 87 FR 13208, Mar. 9, 2022.
-
 (a) Except as provided in subpart G of this part, a person shall not drive a commercial motor vehicle unless he/she has completed and furnished the motor carrier that employs him/her with an application for employment that meets the requirements of paragraph (b) of this section.
 
 (b) The application for employment shall be made on a form furnished by the motor carrier. Each application form must be completed by the applicant, must be signed by him/her, and must contain the following information:
@@ -14,7 +12,7 @@ Link to an amendment published at 87 FR 13208, Mar. 9, 2022.
 
 (4) The date on which the application is submitted;
 
-(5) The issuing State, number, and expiration date of each unexpired commercial motor vehicle operator's license or permit that has been issued to the applicant;
+(5) The issuing driver's licensing authority, number, and expiration date of each unexpired commercial motor vehicle operator's license or permit that has been issued to the applicant;
 
 (6) The nature and extent of the applicant's experience in the operation of motor vehicles, including the type of equipment (such as buses, trucks, truck tractors, semitrailers, full trailers, and pole trailers) which he/she has operated;
 
@@ -46,4 +44,4 @@ This certifies that this application was completed by me, and that all entries o
 
 (d) Before an application is submitted, the motor carrier must inform the applicant that the information he/she provides in accordance with paragraph (b)(10) of this section may be used, and the applicant's previous employers will be contacted, for the purpose of investigating the applicant's safety performance history information as required by paragraphs (d) and (e) of § 391.23. The prospective employer must also notify the driver in writing of his/her due process rights as specified in § 391.23(i) regarding information received as a result of these investigations.
 
-[35 FR 6460, Apr. 22, 1970, as amended at 35 FR 17420, Nov. 13, 1970; 52 FR 20589, June 1, 1987; 60 FR 38744, July 28, 1995; 69 FR 16719, Mar. 30, 2004]
+[35 FR 6460, Apr. 22, 1970, as amended at 35 FR 17420, Nov. 13, 1970; 52 FR 20589, June 1, 1987; 60 FR 38744, July 28, 1995; 69 FR 16719, Mar. 30, 2004; 87 FR 13208, Mar. 9, 2022]

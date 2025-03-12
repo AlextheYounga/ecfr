@@ -1,5 +1,7 @@
 ##### § 422.2274 Agent, broker, and other third party requirements. #####
 
+Link to an amendment published at 87 FR 27899, May 9, 2022.
+
 If an MA organization uses agents and brokers to sell its Medicare plans, the requirements in paragraphs (a) through (e) of this section are applicable. If an MA organization makes payments to third parties, the requirements in paragraph (f) of this section are applicable.
 
 (a) *Definitions.* For purposes of this section, the following definitions are applicable:

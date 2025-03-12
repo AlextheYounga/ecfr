@@ -1,7 +1,5 @@
 ##### § 2.4 Definitions. #####
 
-Link to an amendment published at 87 FR 20696, Apr. 8, 2022.
-
 As used in this part,
 
 *ACRS* means the Advisory Committee on Reactor Safeguards established by the Act.
@@ -14,7 +12,7 @@ As used in this part,
 
 *Commission* means the Commission of five members or a quorum thereof sitting as a body, as provided by section 201 of the Energy Reorganization Act of 1974 (88 Stat. 1242), or any officer to whom has been delegated authority pursuant to section 161n of the Act.
 
-*Commission adjudicatory employee* means -
+*Commission adjudicatory employee* means—
 
 (1) The Commissioners and members of their personal staffs;
 
@@ -26,13 +24,13 @@ As used in this part,
 
 (5) Special assistants (as defined in § 2.322);
 
-(6) The General Counsel, the Solicitor, the Deputy General Counsel for Rulemaking and Policy Support, and employees of the Office of the General Counsel under the supervision of the Solicitor;
+(6) The General Counsel, the Solicitor, the Deputy General Counsel for Legislation, Rulemaking, and Agency Administration, and employees of the Office of the General Counsel under the supervision of the Solicitor;
 
 (7) The Secretary and employees of the Office of the Secretary; and
 
 (8) Any other Commission officer or employee who is appointed by the Commission, the Secretary, or the General Counsel to participate or advise in the Commission's consideration of an initial or final decision in a proceeding. Any other Commission officer or employee who, as permitted by § 2.348, participates or advises in the Commission's consideration of an initial or final decision in a proceeding must be appointed as a Commission adjudicatory employee under this paragraph and the parties to the proceeding must be given written notice of the appointment.
 
-*Contested proceeding* means - (1) A proceeding in which there is a controversy between the NRC staff and the applicant for a license or permit concerning the issuance of the license or permit or any of the terms or conditions thereof;
+*Contested proceeding* means—(1) A proceeding in which there is a controversy between the NRC staff and the applicant for a license or permit concerning the issuance of the license or permit or any of the terms or conditions thereof;
 
 (2) A proceeding in which the NRC is imposing a civil penalty or other enforcement action, and the subject of the civil penalty or enforcement action is an applicant for or holder of a license or permit, or is or was an applicant for a standard design certification under part 52 of this chapter; and
 
@@ -56,7 +54,7 @@ As used in this part,
 
 *Guidance for Electronic Submissions to the NRC* means the document issued by the Commission that sets forth the transmission methods and formatting standards for filing and service under E-Filing. The document can be obtained by visiting the NRC's Web site at *http://www.nrc.gov.*
 
-*Investigative or litigating function* means -
+*Investigative or litigating function* means—
 
 (1) Personal participation in planning, conducting, or supervising an investigation; or
 

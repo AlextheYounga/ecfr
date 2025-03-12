@@ -1,5 +1,7 @@
 ##### § 423.184 Adding, updating, and removing measures. #####
 
+Link to an amendment published at 87 FR 27899, May 9, 2022.
+
 (a) *General.* CMS adds, updates, and removes measures used to calculate the Star Ratings as provided in this section. CMS lists the measures used for a particular Star Rating each year in the Technical Notes or similar guidance document with publication of the Star Ratings.
 
 (b) *Review of data quality.* CMS reviews the quality of the data on which performance, scoring and rating of a measure is based before using the data to score and rate performance or in calculating a Star Rating. This includes review of variation in scores among MA organizations and Part D plan sponsors, and the accuracy, reliability, and validity of measures and performance data before making a final determination about inclusion of measures in each year's Star Ratings.

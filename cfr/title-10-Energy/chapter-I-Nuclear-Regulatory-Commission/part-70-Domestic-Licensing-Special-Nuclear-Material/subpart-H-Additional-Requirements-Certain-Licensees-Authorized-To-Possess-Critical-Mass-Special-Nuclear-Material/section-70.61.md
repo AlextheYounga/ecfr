@@ -1,10 +1,8 @@
 ##### § 70.61 Performance requirements. #####
 
-Link to an amendment published at 87 FR 20697, Apr. 8, 2022.
-
 (a) Each applicant or licensee shall evaluate, in the integrated safety analysis performed in accordance with § 70.62, its compliance with the performance requirements in paragraphs (b), (c), and (d) of this section.
 
-(b) The risk of each credible high-consequence event must be limited. Engineered controls, administrative controls, or both, shall be applied to the extent needed to reduce the likelihood of occurrence of the event so that, upon implementation of such controls, the event is highly unlikely or its consequences are less severe than those in paragrahs (b)(1)-(4) of this section. High consequence events are those internally or externally initiated events that result in:
+(b) The risk of each credible high-consequence event must be limited. Engineered controls, administrative controls, or both, shall be applied to the extent needed to reduce the likelihood of occurrence of the event so that, upon implementation of such controls, the event is highly unlikely or its consequences are less severe than those in paragraphs (b)(1) through (4) of this section. High consequence events are those internally or externally initiated events that result in:
 
 (1) An acute worker dose of 1 Sv (100 rem) or greater total effective dose equivalent;
 
@@ -41,3 +39,5 @@ Link to an amendment published at 87 FR 20697, Apr. 8, 2022.
 (1) Demonstrates and documents, in the integrated safety analysis, that the risk for those individuals at the location of their activities does not exceed the performance requirements of paragraphs (b)(2), (b)(3), (b)(4)(ii), (c)(2), and (c)(4)(ii) of this section; or
 
 (2) Provides training that satisfies 10 CFR 19.12(a)(1)-(5) to these individuals and ensures that they are aware of the risks associated with accidents involving the licensed activities as determined by the integrated safety analysis, and conspicuously posts and maintains notices stating where the information in 10 CFR 19.11(a) may be examined by these individuals. Under these conditions, the performance requirements for workers specified in paragraphs (b) and (c) of this section may be applied to these individuals.
+
+[65 FR 56226, Sept. 18, 2000, as amended at 87 FR 20697, Apr. 8, 2022]

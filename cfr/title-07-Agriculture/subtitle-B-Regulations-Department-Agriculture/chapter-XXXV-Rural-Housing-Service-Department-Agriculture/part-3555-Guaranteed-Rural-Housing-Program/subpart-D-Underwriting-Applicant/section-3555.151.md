@@ -1,7 +1,5 @@
 ##### § 3555.151 Eligibility requirements. #####
 
-Link to an amendment published at 87 FR 6776, Feb. 7, 2022.
-
 (a) *Income eligibility.* At the time of loan approval, the household's adjusted income must not exceed the applicable moderate income limit. The lender is responsible for documenting the household's income to determine eligibility for the SFHGLP.
 
 (b) *Citizenship status.* Applicants must provide evidence acceptable to the Agency of their status as United States citizens, U.S. non-citizen nationals, or qualified aliens, as defined in § 3555.10.
@@ -40,7 +38,7 @@ Link to an amendment published at 87 FR 6776, Feb. 7, 2022.
 
 (iv) Except for obligations specifically excluded by State law, the debts of non-purchasing spouse must be included in the applicant's repayment ratios if the applicant resides in a community property state.
 
-(2) The repayment ratio may exceed the percentage specified in paragraph (h)(1) of this section if certain compensating factors exist. The handbook will define when a debt ratio waiver may be granted. The automated underwriting system will take into account any compensating factors in determining whether the variance is appropriate. For manually underwritten loans, the lender must document compensating factors demonstrating that the household has higher repayment ability based on its capacity, willingness and ability to pay mortgage payments in a timely manner. The presence of compensating factors does not strengthen a ratio exception when multiple layers of risk, such as a marginal credit history, are present in the application. Acceptable compensating factors and supporting documentation for a proposed debt ratio waiver will be further defined and clarified in the handbook. Compensating factors include, but are not limited to:
+(2) The repayment ratio may exceed the percentage in paragraph (h)(1) of this section when certain compensating factors exist. The handbook, HB-1-3555, Appendix I, located at *https://www.rd.usda.gov/sites/default/files/hb-1-3555.pdf,* will provide examples of when a debt ratio waiver may be granted. The automated underwriting system will consider any compensating factors in determining when the variance is appropriate. Loans downgraded in the automated underwriting system which must be manually underwritten will require the lender to document compensating factors. The presence of compensating factors does not strengthen a ratio exception when multiple layers of risk are present in the application. Acceptable compensating factors, supporting documentation, and maximum ratio thresholds, will be further defined and clarified in the handbook. Compensating factors include but are not limited to:
 
 (i) A credit score at an acceptable level of 680 or higher for any applicants, unless otherwise provided by the Agency. The Agency reserves the right to change the acceptable level of credit score.
 
@@ -106,4 +104,4 @@ Link to an amendment published at 87 FR 6776, Feb. 7, 2022.
 
 (j) *Obtaining credit.* The applicant must be unable to obtain traditional conventional mortgage credit, as defined by the Agency, for the subject loan.
 
-[78 FR 73941, Dec. 9, 2013, as amended at 81 FR 6429, Feb. 8, 2016]
+[78 FR 73941, Dec. 9, 2013, as amended at 81 FR 6429, Feb. 8, 2016; 87 FR 6776, Feb. 7, 2022]

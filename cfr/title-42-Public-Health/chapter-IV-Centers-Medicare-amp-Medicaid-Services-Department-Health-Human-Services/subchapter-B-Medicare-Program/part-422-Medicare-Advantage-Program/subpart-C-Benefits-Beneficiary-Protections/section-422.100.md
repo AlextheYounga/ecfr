@@ -1,6 +1,6 @@
 ##### § 422.100 General requirements. #####
 
-Link to an amendment published at 87 FR 22423, Apr. 14, 2022.
+Link to an amendment published at 87 FR 22423, Apr. 14, 2022.Link to an amendment published at 87 FR 27893, May 9, 2022.
 
 (a) *Basic rule.* Subject to the conditions and limitations set forth in this subpart, an MA organization offering an MA plan must provide enrollees in that plan with coverage of the basic benefits described in paragraph (c)(1) of this section (except that additional telehealth benefits may be, but are not required to be, offered by the MA plan) and, to the extent applicable, supplemental benefits as described in paragraph (c)(2) of this section, by furnishing the benefits directly or through arrangements, or by paying for the benefits. CMS reviews these benefits subject to the requirements of this section and the requirements in subpart G of this part.
 

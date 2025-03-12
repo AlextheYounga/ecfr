@@ -1,5 +1,7 @@
 ##### § 621.8 Application of payments and income recognition on nonaccrual loans. #####
 
+Link to an amendment published at 87 FR 27492, May 9, 2022.
+
 Each institution shall employ the following practices with respect to application of cash payments on nonaccrual loans:
 
 (a) If the ultimate collectibility of the recorded investment, in whole or in part, is in doubt, any payment received on such loan shall be applied to reduce the recorded investment to the extent necessary to eliminate such doubt.

@@ -1,5 +1,7 @@
 ##### § 422.252 Terminology. #####
 
+Link to an amendment published at 87 FR 27895, May 9, 2022.
+
 *Annual MA capitation rate* means a county payment rate for an MA local area (county) for a calendar year. The terms “per capita rate” and “capitation rate” are used interchangeably to refer to the annual MA capitation rate.
 
 *Low enrollment contract* means a contract that could not undertake Healthcare Effectiveness Data and Information Set (HEDIS) and Health Outcome Survey (HOS) data collections because of a lack of a sufficient number of enrollees to reliably measure the performance of the health plan.

@@ -1,6 +1,6 @@
 ##### § 422.101 Requirements relating to basic benefits. #####
 
-Link to an amendment published at 87 FR 22427, Apr. 14, 2022.
+Link to an amendment published at 87 FR 22427, Apr. 14, 2022.Link to an amendment published at 87 FR 27894, May 9, 2022.
 
 Except as specified in § 422.318 (for entitlement that begins or ends during a hospital stay) and § 422.320 (with respect to hospice care), each MA organization must meet the following requirements:
 

@@ -1,5 +1,7 @@
 ##### § 611.1250 Preliminary exit fee estimate. #####
 
+Link to an amendment published at 87 FR 27492, May 9, 2022.
+
 (a) *Preliminary exit fee estimate - terminating association.* You must provide a preliminary exit fee estimate to us when you submit the plan of termination under § 611.1221. Calculate the preliminary exit fee estimate in the following order:
 
 (1) Base your exit fee calculation on the average daily balances of assets and liabilities for the 12-month period as of the quarter end immediately before the date you send us your plan of termination.

@@ -1,5 +1,7 @@
 ##### § 615.5201 Definitions. #####
 
+Link to an amendment published at 87 FR 27492, May 9, 2022.
+
 For the purpose of this subpart, the following definitions apply:
 
 *Allocated investment* means earnings allocated but not paid in cash by a System bank to an association or other recipient.

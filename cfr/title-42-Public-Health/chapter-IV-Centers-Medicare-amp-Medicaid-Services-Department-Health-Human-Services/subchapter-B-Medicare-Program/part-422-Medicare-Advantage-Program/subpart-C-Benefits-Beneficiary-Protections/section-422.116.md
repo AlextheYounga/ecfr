@@ -1,5 +1,7 @@
 ##### § 422.116 Network adequacy. #####
 
+Link to an amendment published at 87 FR 27895, May 9, 2022.
+
 (a) *General rules* - (1) *Access.* (i) A network-based MA plan, as described in § 422.114(a)(3)(ii) but not including MSA plans, must demonstrate that it has an adequate contracted provider network that is sufficient to provide access to covered services in accordance with access standards described in section 1852(d)(1) of the Act and in §§ 422.112(a) and 422.114(a)(1) and by meeting the standard in paragraph (a)(2) of this section. When required by CMS, an MA organization must attest that it has an adequate network for access and availability of a specific provider or facility type that CMS does not independently evaluate in a given year.
 
 (ii) CMS does not require information, other than an attestation, regarding compliance with § 422.116 as part of an application for a new or expanding service area and will not deny application on the basis of an evaluation of the applicant's network for the new or expanding service area.

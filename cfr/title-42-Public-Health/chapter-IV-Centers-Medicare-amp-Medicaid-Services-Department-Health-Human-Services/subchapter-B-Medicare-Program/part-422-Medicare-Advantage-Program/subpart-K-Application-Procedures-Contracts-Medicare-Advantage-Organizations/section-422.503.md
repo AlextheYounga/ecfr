@@ -1,5 +1,7 @@
 ##### § 422.503 General provisions. #####
 
+Link to an amendment published at 87 FR 27896, May 9, 2022.
+
 (a) *Basic rule.* In order to qualify as an MA organization, enroll beneficiaries in any MA plans it offers, and be paid on behalf of Medicare beneficiaries enrolled in those plans, an MA organization must enter into a contract with CMS.
 
 (b) *Conditions necessary to contract as an MA organization.* Any entity seeking to contract as an MA organization must:

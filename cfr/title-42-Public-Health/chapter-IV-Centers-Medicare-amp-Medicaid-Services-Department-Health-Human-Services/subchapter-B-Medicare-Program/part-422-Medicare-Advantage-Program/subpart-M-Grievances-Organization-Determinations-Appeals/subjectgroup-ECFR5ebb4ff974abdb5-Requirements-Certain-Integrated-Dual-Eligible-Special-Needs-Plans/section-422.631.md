@@ -1,5 +1,7 @@
 ##### § 422.631 Integrated organization determinations. #####
 
+Link to an amendment published at 87 FR 27897, May 9, 2022.
+
 (a) *General rule.* An applicable integrated plan must adopt and implement a process for enrollees to request that the plan make an integrated organization determination. The process for requesting that the applicable integrated plan make an integrated organization determination must be the same for all covered benefits. Timeframes and notice requirements for integrated organization determinations for Part B drugs are governed by the provisions for Part B drugs in §§ 422.568(b)(2), 422.570(d)(2), and 422.572(a)(2).
 
 (b) *Requests.* The enrollee, or a provider on behalf of an enrollee, may request an integrated organization determination orally or in writing, except for requests for payment, which must be in writing (unless the applicable integrated plan or entity responsible for making the determination has implemented a voluntary policy of accepting verbal payment requests).

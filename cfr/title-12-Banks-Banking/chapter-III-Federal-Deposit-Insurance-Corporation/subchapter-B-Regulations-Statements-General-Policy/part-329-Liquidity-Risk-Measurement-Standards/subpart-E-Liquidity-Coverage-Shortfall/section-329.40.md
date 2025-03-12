@@ -1,6 +1,6 @@
 ##### § 329.40 Liquidity coverage shortfall: Supervisory framework. #####
 
-(a) *Notification requirements.* must notify the FDIC on any business day when its liquidity coverage ratio is calculated to be less than the minimum requirement in § 329.10.
+(a) *Notification requirements.* An FDIC-supervised institution must notify the FDIC on any business day when its liquidity coverage ratio is calculated to be less than the minimum requirement in § 329.10.
 
 (b) *Liquidity plan.* (1) For the period during which an FDIC-supervised institution must calculate a liquidity coverage ratio on the last business day of each applicable calendar month under subpart F of this part, if the FDIC-supervised institution's liquidity coverage ratio is below the minimum requirement in § 329.10 for any calculation date that is the last business day of the applicable calendar month, or if the FDIC has determined that the FDIC-supervised institution is otherwise materially noncompliant with the requirements of this part, the FDIC-supervised institution must promptly consult with the FDIC to determine whether the FDIC-supervised institution must provide to the FDIC a plan for achieving compliance with the minimum liquidity requirement in § 329.10 and all other requirements of this part.
 

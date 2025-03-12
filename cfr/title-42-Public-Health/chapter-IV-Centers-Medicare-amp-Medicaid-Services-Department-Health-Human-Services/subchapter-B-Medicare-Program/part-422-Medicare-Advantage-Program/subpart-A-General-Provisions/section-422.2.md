@@ -1,5 +1,7 @@
 ##### § 422.2 Definitions. #####
 
+Link to an amendment published at 87 FR 27893, May 9, 2022.
+
 As used in this part -
 
 *Aligned enrollment* refers to the enrollment in a dual eligible special needs plan of full-benefit dual eligible individuals whose Medicaid benefits are covered under a Medicaid managed care organization contract under section 1903(m) of the Act between the applicable State and: the dual eligible special needs plan's (D-SNP's) MA organization, the D-SNP's parent organization, or another entity that is owned and controlled by the D-SNP's parent organization. When State policy limits a D-SNP's membership to individuals with aligned enrollment, this condition is referred to as exclusively aligned enrollment.

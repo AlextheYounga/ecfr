@@ -1,5 +1,7 @@
 ##### § 620.5 Contents of the annual report to shareholders. #####
 
+Link to an amendment published at 87 FR 27492, May 9, 2022.
+
 The report must contain the following items in substantially the same order:
 
 (a) *Description of business.* The description must include a brief discussion of the following items:

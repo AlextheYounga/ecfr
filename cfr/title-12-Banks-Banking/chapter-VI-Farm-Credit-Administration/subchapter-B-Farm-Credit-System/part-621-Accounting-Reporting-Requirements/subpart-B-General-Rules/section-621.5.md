@@ -1,5 +1,7 @@
 ##### § 621.5 Accounting for the allowance for loan losses and chargeoffs. #####
 
+Link to an amendment published at 87 FR 27492, May 9, 2022.
+
 Each institution shall:
 
 (a) Maintain at all times an allowance for loan losses that is determined according to generally accepted accounting principles.

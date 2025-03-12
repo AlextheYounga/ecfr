@@ -1,10 +1,8 @@
 ##### § 390.5T Definitions. #####
 
-Link to an amendment published at 87 FR 13208, Mar. 9, 2022.
-
 Unless specifically defined elsewhere, in this subchapter:
 
-*Accident* means -
+*Accident* means—
 
 (1) Except as provided in paragraph (2) of this definition, an occurrence involving a commercial motor vehicle operating on a highway in interstate or intrastate commerce which results in:
 
@@ -33,13 +31,13 @@ Unless specifically defined elsewhere, in this subchapter:
 *Charter transportation of passengers* means transportation, using a bus, of a group of persons who pursuant to a common purpose, under a single contract, at a fixed charge for the motor vehicle, have acquired the exclusive use of the motor vehicle to travel together under an itinerary either specified in advance or modified after having left the place of origin.
 
 *Coerce* or *Coercion* means
-either -
+either—
 
 (1) A threat by a motor carrier, shipper, receiver, or transportation intermediary, or their respective agents, officers or representatives, to withhold business, employment or work opportunities from, or to take or permit any adverse employment action against, a driver in order to induce the driver to operate a commercial motor vehicle under conditions which the driver stated would require him or her to violate one or more of the regulations, which the driver identified at least generally, that are codified at 49 CFR parts 171 through 173, 177 through 180, 380 through 383, or 390 through 399, or § 385.415 or § 385.421T of this chapter, or the actual withholding of business, employment, or work opportunities or the actual taking or permitting of any adverse employment action to punish a driver for having refused to engage in such operation of a commercial motor vehicle; or
 
 (2) A threat by a motor carrier, or its agents, officers or representatives, to withhold business, employment or work opportunities or to take or permit any adverse employment action against a driver in order to induce the driver to operate a commercial motor vehicle under conditions which the driver stated would require a violation of one or more of the regulations, which the driver identified at least generally, that are codified at 49 CFR parts 356, 360, or 365 through 379, or the actual withholding of business, employment or work opportunities or the actual taking or permitting of any adverse employment action to punish a driver for refusing to engage in such operation of a commercial motor vehicle.
 
-*Commercial motor vehicle* means any self-propelled or towed motor vehicle used on a highway in interstate commerce to transport passengers or property when the vehicle -
+*Commercial motor vehicle* means any self-propelled or towed motor vehicle used on a highway in interstate commerce to transport passengers or property when the vehicle—
 
 (1) Has a gross vehicle weight rating or gross combination weight rating, or gross vehicle weight or gross combination weight, of 4,536 kg (10,001 pounds) or more, whichever is greater; or
 
@@ -51,9 +49,9 @@ either -
 
 *Conviction* means an unvacated adjudication of guilt, or a determination that a person has violated or failed to comply with the law in a court of original jurisdiction or by an authorized administrative tribunal, an unvacated forfeiture of bail or collateral deposited to secure the person's appearance in court, a plea of guilty or nolo contendere accepted by the court, the payment of a fine or court cost, or violation of a condition of release without bail, regardless of whether or not the penalty is rebated, suspended, or probated.
 
-*Covered farm vehicle* means -
+*Covered farm vehicle* means—
 
-(1) A straight truck or articulated vehicle -
+(1) A straight truck or articulated vehicle—
 
 (i) Registered in a State with a license plate or other designation issued by the State of registration that allows law enforcement officials to identify it as a farm vehicle;
 
@@ -127,11 +125,11 @@ either -
 
 *Exempt motor carrier* means a person engaged in transportation exempt from economic regulation by the Federal Motor Carrier Safety Administration (FMCSA) under 49 U.S.C. 13506. “Exempt motor carriers” are subject to the safety regulations set forth in this subchapter.
 
-*Farm vehicle driver* means a person who drives only a commercial motor vehicle that is -
+*Farm vehicle driver* means a person who drives only a commercial motor vehicle that is—
 
 (1) Controlled and operated by a farmer as a private motor carrier of property;
 
-(2) Being used to transport either -
+(2) Being used to transport either—
 
 (i) Agricultural products; or
 
@@ -143,7 +141,7 @@ either -
 
 (5) Being used within 150 air-miles of the farmer's farm.
 
-*Farmer* means any person who operates a farm or is directly involved in the cultivation of land, crops, or livestock which -
+*Farmer* means any person who operates a farm or is directly involved in the cultivation of land, crops, or livestock which—
 
 (1) Are owned by that person; or
 
@@ -173,7 +171,7 @@ either -
 
 *Highway* means any road, street, or way, whether on public or private property, open to public travel. “Open to public travel” means that the road section is available, except during scheduled periods, extreme weather or emergency conditions, passable by four-wheel standard passenger cars, and open to the general public for use without restrictive gates, prohibitive signs, or regulation other than restrictions based on size, weight, or class of registration. Toll plazas of public toll roads are not considered restrictive gates.
 
-*Interchange* means -
+*Interchange* means—
 
 (1) The act of providing intermodal equipment to a motor carrier pursuant to an intermodal equipment interchange agreement for the purpose of transporting the equipment for loading or unloading by any person or repositioning the equipment for the benefit of the equipment provider, but it does not include the leasing of equipment to a motor carrier for primary use in the motor carrier's freight hauling operations; or
 
@@ -187,7 +185,7 @@ either -
 
 *Intermodal equipment provider* means any person that interchanges intermodal equipment with a motor carrier pursuant to a written interchange agreement or has a contractual responsibility for the maintenance of the intermodal equipment.
 
-*Interstate commerce* means trade, traffic, or transportation in the United States -
+*Interstate commerce* means trade, traffic, or transportation in the United States—
 
 (1) Between a place in a State and a place outside of such State (including a place outside of the United States);
 
@@ -217,7 +215,7 @@ either -
 
 *Motor vehicle* means any vehicle, machine, tractor, trailer, or semitrailer propelled or drawn by mechanical power and used upon the highways in the transportation of passengers or property, or any combination thereof determined by the Federal Motor Carrier Safety Administration, but does not include any vehicle, locomotive, or car operated exclusively on a rail or rails, or a trolley bus operated by electric power derived from a fixed overhead wire, furnishing local passenger transportation similar to street-railway service.
 
-*Motor vehicle record* means the report of the driving status and history of a driver generated from the driver record, provided to users, such as, drivers or employers, and subject to the provisions of the Driver Privacy Protection Act, 18 U.S.C. 2721-2725.
+*Motor vehicle record* means the report of the driving status and history of a driver generated from the driver record that is provided to users, such as drivers or employers, and, for drivers licensed by a State, is subject to the provisions of the Driver Privacy Protection Act, 18 U.S.C. 2721-2725.
 
 *Multiple-employer driver* means a driver, who in any period of 7 consecutive days, is employed or used as a driver by more than one motor carrier.
 
@@ -265,7 +263,7 @@ either -
 
 *Single-employer driver* means a driver who, in any period of 7 consecutive days, is employed or used as a driver solely by a single motor carrier. This term includes a driver who operates a commercial motor vehicle on an intermittent, casual, or occasional basis.
 
-*Special agent.* See appendix B to this subchapter - Special agents.
+*Special agent.* See appendix B to this subchapter—Special agents.
 
 *State* means a State of the United States and the District of Columbia and includes a political subdivision of a State.
 
@@ -309,4 +307,4 @@ either -
 
 *Written or in writing* means printed, handwritten, or typewritten either on paper or other tangible medium, or by any method of electronic documentation that meets the requirements of 49 CFR 390.32.
 
-[82 FR 5311, Jan. 17, 2017, as amended at 83 FR 16226, Apr. 16, 2018; 83 FR 22878, May 17, 2018; 83 FR 24228, May 25, 2018; 83 FR 26860, June 11, 2018; 83 FR 48726, Sept. 27, 2018; 84 FR 40294, Aug. 14, 2019; 86 FR 35642, July 7, 2021; 86 FR 57073, Oct. 14, 2021]
+[82 FR 5311, Jan. 17, 2017, as amended at 83 FR 16226, Apr. 16, 2018; 83 FR 22878, May 17, 2018; 83 FR 24228, May 25, 2018; 83 FR 26860, June 11, 2018; 83 FR 48726, Sept. 27, 2018; 84 FR 40294, Aug. 14, 2019; 86 FR 35642, July 7, 2021; 86 FR 57073, Oct. 14, 2021; 87 FR 13208, Mar. 9, 2022]

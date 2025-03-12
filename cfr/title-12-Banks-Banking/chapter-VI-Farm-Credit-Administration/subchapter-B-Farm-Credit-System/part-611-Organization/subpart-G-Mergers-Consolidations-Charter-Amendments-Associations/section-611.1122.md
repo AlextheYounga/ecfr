@@ -1,5 +1,7 @@
 ##### § 611.1122 Requirements for association mergers or consolidations. #####
 
+Link to an amendment published at 87 FR 27492, May 9, 2022.
+
 (a) Where two or more associations plan to merge or consolidate, or where the funding bank board has adopted a reorganization plan for the associations in the district, the associations involved must jointly submit a request to the funding bank containing the following:
 
 (1) In the case of a merger, a copy of the charter of the continuing association reflecting any proposed amendments. In the case of consolidation, a copy of the proposed charter of the new association;

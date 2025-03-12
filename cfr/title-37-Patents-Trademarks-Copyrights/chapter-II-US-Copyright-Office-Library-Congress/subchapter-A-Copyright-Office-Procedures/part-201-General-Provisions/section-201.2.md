@@ -1,10 +1,8 @@
 ##### § 201.2 Information given by the Copyright Office. #####
 
-Link to an amendment published at 87 FR 20713, Apr. 8, 2022.
-
 (a) *In general.* (1) Information relative to the operations of the Copyright Office is supplied without charge. A search of the records, indexes, and deposits will be made for such information as they may contain relative to copyright claims upon application and payment of the statutory fee. The Copyright Office, however, does not undertake the making of comparisons of copyright deposits to determine similarity between works.
 
-(2) The Copyright Office does not furnish the names of copyright attorneys, publishers, agents, or other similar information.
+(2) The Copyright Office does not furnish the names of copyright attorneys, publishers, agents, or other similar information to the public, except that it may provide a directory of *pro bono* representation available to participants in proceedings before the Copyright Claims Board.
 
 (3) In the administration of the Copyright Act in general, the Copyright Office interprets the Act. The Copyright Office, however, does not give specific legal advice on the rights of persons, whether in connection with particular uses of copyrighted works, cases of alleged foreign or domestic copyright infringement, contracts between authors and publishers, or other matters of a similar nature.
 
@@ -142,4 +140,4 @@ Link to an amendment published at 87 FR 20713, Apr. 8, 2022.
 
 (f) *Requests for removal of extraneous PII from the public record.* Upon written request, the Office will remove driver's license numbers, social security numbers, banking information, credit card information, and other extraneous PII that was erroneously included on a registration application from the public record. There is no fee for this service. To make a request, the author, claimant, or the authorized representative of the author or claimant, must submit the request in writing using the contact information listed in § 201.1(c). Such a request must name the author and/or claimant, provide the registration number(s) associated for the record in question, and give a description of the extraneous PII that is to be removed. Once the request is received, the Office will remove the extraneous information from both its online and offline public records. The Office will not include any notation of this action in its records.
 
-[50 FR 30170, July 24, 1985, as amended at 51 FR 30062, Aug. 22, 1986; 62 FR 35421, July 1, 1997; 64 FR 29520, June 1, 1999; 69 FR 39332, June 30, 2004; 69 FR 70377, Dec. 6, 2004; 73 FR 37838, July 2, 2008; 78 FR 42873, July 18, 2013; 82 FR 9007, Feb. 2, 2017; 82 FR 9355, Feb. 6, 2017; 82 FR 21697, May 10, 2017; 85 FR 19667, Apr. 8, 2020]
+[50 FR 30170, July 24, 1985, as amended at 51 FR 30062, Aug. 22, 1986; 62 FR 35421, July 1, 1997; 64 FR 29520, June 1, 1999; 69 FR 39332, June 30, 2004; 69 FR 70377, Dec. 6, 2004; 73 FR 37838, July 2, 2008; 78 FR 42873, July 18, 2013; 82 FR 9007, Feb. 2, 2017; 82 FR 9355, Feb. 6, 2017; 82 FR 21697, May 10, 2017; 85 FR 19667, Apr. 8, 2020; 87 FR 20713, Apr. 8, 2022]

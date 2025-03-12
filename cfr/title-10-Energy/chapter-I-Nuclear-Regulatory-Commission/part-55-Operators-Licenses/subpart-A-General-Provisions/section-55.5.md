@@ -1,10 +1,8 @@
 ##### § 55.5 Communications. #####
 
-Link to an amendment published at 87 FR 20697, Apr. 8, 2022.
-
 (a) Except as provided under a regional licensing program identified in paragraph (b) of this section, an applicant or licensee or facility licensee shall submit any communication or report concerning the regulations in this part and shall submit any application filed under these regulations to the Commission as follows:
 
-(1) By mail addressed to - Director, Office of Nuclear Reactor Regulation, U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001; or
+(1) By mail addressed to—Director, Office of Nuclear Reactor Regulation, U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001; or
 
 (2) By delivery in person to the NRC's offices at 11555 Rockville Pike, Rockville, Maryland, or
 
@@ -14,7 +12,7 @@ Link to an amendment published at 87 FR 20697, Apr. 8, 2022.
 
 (2) Any application for a license or license renewal filed under the regulations in this part involving a nuclear power reactor licensed under 10 CFR part 50 or part 52 of this chapter and any related inquiry, communication, information, or report must be submitted to the Regional Administrator by an appropriate method listed in paragraph (a) of this section. The Regional Administrator or the Administrator's designee will transmit to the Director, Office of Nuclear Reactor Regulation, any matter that is not within the scope of the Regional Administrator's delegated authority.
 
-(i) If the nuclear power reactor is located in Region I, submissions must be made to the Regional Administrator of Region I. Submissions by mail or hand delivery must be addressed to the Administrator at U.S. Nuclear Regulatory Commission, 2100 Renaissance Boulevard, Suite 100, King of Prussia, PA 19406-2713; where email is appropriate it should be addressed to *RidsRgn1MailCenter.Resource@nrc.gov.*
+(i) If the nuclear power reactor is located in Region I, submissions must be made to the Regional Administrator of Region I. Submissions by mail or hand delivery must be addressed to the Administrator at U.S. Nuclear Regulatory Commission, 475 Allendale Road, Suite 102, King of Prussia, PA 19406-1415; where email is appropriate it should be addressed to *RidsRgn1MailCenter.Resource@nrc.gov.*
 
 (ii) If the nuclear power reactor is located in Region II, submissions must be made to the Regional Administrator of Region II. Submissions by mail or hand delivery must be addressed to the Regional Administrator at U.S. Nuclear Regulatory Commission, 245 Peachtree Center Avenue, NE., Suite 1200, Atlanta, Georgia 30303-1257. Where e-mail is appropriate, it should be addressed to *RidsRgn2MailCenter@nrc.gov.*
 

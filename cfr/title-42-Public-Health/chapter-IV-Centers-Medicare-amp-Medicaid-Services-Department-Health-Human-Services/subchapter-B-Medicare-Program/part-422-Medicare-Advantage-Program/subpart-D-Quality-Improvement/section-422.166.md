@@ -1,5 +1,7 @@
 ##### § 422.166 Calculation of Star Ratings. #####
 
+Link to an amendment published at 87 FR 27895, May 9, 2022.
+
 (a) *Measure Star Ratings* - (1) *Cut points.* CMS will determine cut points for the assignment of a Star Rating for each numeric measure score by applying either a clustering or a relative distribution and significance testing methodology. For the Part D measures, CMS will determine MA-PD and PDP cut points separately.
 
 (2) *Clustering algorithm for all measures except CAHPS measures.* (i) The method maximizes differences across the star categories and minimizes the differences within star categories using mean resampling with the hierarchal clustering of the current year's data. Effective for the Star Ratings issued in October 2022 and subsequent years, CMS will add a guardrail so that the measure-threshold-specific cut points for non-CAHPS measures do not increase or decrease more than the value of the cap from 1 year to the next. Effective for the Star Ratings issued in October 2023 and subsequent years, prior to applying mean resampling with hierarchal clustering, Tukey outer fence outliers are removed. The cap is equal to 5 percentage points for measures having a 0 to 100 scale (absolute percentage cap) or 5 percent of the restricted range for measures not having a 0 to 100 scale (restricted range cap). New measures that have been in the Part C and D Star Rating program for 3 years or less use the hierarchal clustering methodology with mean resampling with no guardrail for the first 3 years in the program.

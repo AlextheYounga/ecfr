@@ -1,5 +1,6 @@
-##### § 393.60 Glazing in specified openings.
-manufactured on or after December 25, 1968, shall at a minimum meet the requirements of Federal Motor Vehicle Safety Standard (FMVSS) No. 205 in effect on the date of manufacture of the motor vehicle. The glazing material shall be marked in accordance with FMVSS No. 205 (49 CFR 571.205, S6). #####
+##### § 393.60 Glazing in specified openings. #####
+
+(a) *Glazing material.* Glazing material used in windshields, windows, and doors on a motor vehicle manufactured on or after December 25, 1968, shall at a minimum meet the requirements of Federal Motor Vehicle Safety Standard (FMVSS) No. 205 in effect on the date of manufacture of the motor vehicle. The glazing material shall be marked in accordance with FMVSS No. 205 (49 CFR 571.205, S6).
 
 (b) *Windshields required.* Each bus, truck and truck-tractor shall be equipped with a windshield. Each windshield or portion of a multi-piece windshield shall be mounted using the full periphery of the glazing material.
 
@@ -13,7 +14,7 @@ manufactured on or after December 25, 1968, shall at a minimum meet the requirem
 
 (d) *Coloring or tinting of windshields and windows.* Coloring or tinting of windshields and the windows to the immediate right and left of the driver is allowed, provided the parallel luminous transmittance through the colored or tinted glazing is not less than 70 percent of the light at normal incidence in those portions of the windshield or windows which are marked as having a parallel luminous transmittance of not less than 70 percent. The transmittance restriction does not apply to other windows on the commercial motor vehicle.
 
-(e) *Prohibition on obstructions to the driver's field of view - (1) Devices mounted on the interior of the windshield.* (i) Antennas, and similar devices must not be mounted more than 152 mm (6 inches) below the upper edge of the windshield. These devices must be located outside the area swept by the windshield wipers, and outside the driver's sight lines to the road and highway signs and signals.
+(e) *Prohibition on obstructions to the driver's field of view—(1) Devices mounted on the interior of the windshield.* (i) Antennas, and similar devices must not be mounted more than 152 mm (6 inches) below the upper edge of the windshield. These devices must be located outside the area swept by the windshield wipers, and outside the driver's sight lines to the road and highway signs and signals.
 
 (ii) Paragraph (e)(1)(i) of this section does not apply to *vehicle safety technologies,* as defined in § 393.5, that are mounted on the interior of a windshield. Devices with vehicle safety technologies must be mounted:
 

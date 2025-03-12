@@ -8,15 +8,15 @@
 
 (ii) Periodically monetizing a sample of HQLA that reasonably reflects the composition of the FDIC-supervised institution's eligible HQLA, including with respect to asset type, maturity, and counterparty characteristics;
 
-(2) The FDIC-supervised institution” in its place wherever it appears. must implement policies that require eligible HQLA to be under the control of the management function in the FDIC-supervised institution” in its place wherever it appears. that is charged with managing liquidity risk, and this management function must evidence its control over the HQLA by either:
+(2) The FDIC-supervised institution must implement policies that require eligible HQLA to be under the control of the management function in the FDIC-supervised institution that is charged with managing liquidity risk, and this management function must evidence its control over the HQLA by either:
 
 (i) Segregating the HQLA from other assets, with the sole intent to use the HQLA as a source of liquidity; or
 
-(ii) Demonstrating the ability to monetize the assets and making the proceeds available to the liquidity management function without conflicting with a business or risk management strategy of the FDIC-supervised institution” in its place wherever it appears.;
+(ii) Demonstrating the ability to monetize the assets and making the proceeds available to the liquidity management function without conflicting with a business or risk management strategy of the FDIC-supervised institution;
 
 (3) The fair value of the eligible HQLA must be reduced by the outflow amount that would result from the termination of any specific transaction hedging eligible HQLA;
 
-(4) The FDIC-supervised institution” in its place wherever it appears. must implement and maintain policies and procedures that determine the composition of its eligible HQLA on each calculation date, by:
+(4) The FDIC-supervised institution must implement and maintain policies and procedures that determine the composition of its eligible HQLA on each calculation date, by:
 
 (i) Identifying its eligible HQLA by legal entity, geographical location, currency, account, or other relevant identifying factors as of the calculation date;
 
@@ -24,7 +24,7 @@
 
 (iii) Ensuring the appropriate diversification of the eligible HQLA by asset type, counterparty, issuer, currency, borrowing capacity, or other factors associated with the liquidity risk of the assets; and
 
-(5) The FDIC-supervised institution” in its place wherever it appears.must have a documented methodology that results in a consistent treatment for determining that the FDIC-supervised institution's eligible HQLA meet the requirements set forth in this section.
+(5) The FDIC-supervised institution must have a documented methodology that results in a consistent treatment for determining that the FDIC-supervised institution's eligible HQLA meet the requirements set forth in this section.
 
 (b) *Generally applicable criteria for eligible HQLA.* A FDIC-supervised institution's eligible HQLA must meet all of the following criteria:
 

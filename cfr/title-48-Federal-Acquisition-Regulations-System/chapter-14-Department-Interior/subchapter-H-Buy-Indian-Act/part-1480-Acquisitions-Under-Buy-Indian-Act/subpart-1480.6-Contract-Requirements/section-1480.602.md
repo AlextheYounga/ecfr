@@ -1,0 +1,3 @@
+##### 1480.602 Performance and payment bonds. #####
+
+Solicitations requiring performance and payment bonds must conform to FAR part 28 and may authorize use of any of the types of security acceptable in accordance with FAR subpart 28.2 or 25 U.S.C. 1497a. In accordance with FAR 28.102 and 25 U.S.C. 47a, the CO may accept alternative forms of security in lieu of performance and payment bonds if a determination is made that such forms of security provide the Government with adequate security for performance and payment.

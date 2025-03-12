@@ -1,5 +1,7 @@
 ##### § 611.1255 Exit fee calculation. #####
 
+Link to an amendment published at 87 FR 27492, May 9, 2022.
+
 (a) *Final exit fee calculation - terminating association.* Calculate the final exit fee in the following order:
 
 (1) Base your exit fee calculation on the average daily balances of assets and liabilities for the 12-month period preceding the termination date. Assume for this calculation that you have not paid or accrued the items described in paragraph (a)(4)(ii) and (iii) of this section.

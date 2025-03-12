@@ -1,5 +1,7 @@
 ##### § 615.5050 Collateral requirements. #####
 
+Link to an amendment published at 87 FR 27492, May 9, 2022.
+
 (a) Each bank shall have on hand at the time of issuance of any notes, bonds, debentures, or other similar obligations, and at all times thereafter maintain, free from any lien or other pledge, assets consisting of notes and other obligations representing loans made under the authority of the Act, real or personal property acquired in connection with loans made under the Act, obligations of the United States or any agency thereof direct or fully guaranteed, other bank assets (including marketable securities) approved by the Farm Credit Administration, cash, or cash equivalents approved by the Farm Credit Administration, in an aggregate value equal to the total amount of notes, bonds, debentures, or other similar obligations outstanding for which the bank is primarily liable.
 
 (b) The collateral value of eligible investments (as defined in § 615.5140) shall be the lower of cost or market value.

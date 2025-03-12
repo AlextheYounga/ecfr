@@ -1,5 +1,7 @@
 ##### § 423.2260 Definitions. #####
 
+Link to an amendment published at 87 FR 27901, May 9, 2022.
+
 The definitions in this section apply for this subpart unless the context indicates otherwise.
 
 *Advertisement (Ad) means* a read, written, visual, oral, watched, or heard bid for, or call to attention. Advertisements can be considered communication or marketing based on the intent and content of the message.

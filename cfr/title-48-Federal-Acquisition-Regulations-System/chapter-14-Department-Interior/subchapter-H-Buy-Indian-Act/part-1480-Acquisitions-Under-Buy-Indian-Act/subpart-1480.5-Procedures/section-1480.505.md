@@ -1,0 +1,3 @@
+##### 1480.505 Debarment and suspension. #####
+
+A misrepresentation by an offeror of its status as an IEE, failure to notify the CO of any change in IEE status that would make the contractor ineligible as an IEE, or any violation of the regulations in this part by an offeror or an awardee may be cause for debarment or suspension in accordance with FAR 9.406 and 9.407 and DIAR 1409.406 and 1409.407. IA must refer recommendations for debarment or suspension to the Director, Office of Acquisition and Property Management, Department of the Interior, in accordance with DIAR 1409.406 and 1409.407, through the Head of the Contracting Activity.

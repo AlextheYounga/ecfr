@@ -1,5 +1,7 @@
 ##### § 422.2460 Reporting requirements. #####
 
+Link to an amendment published at 87 FR 27899, May 9, 2022.
+
 (a) For each contract year, from 2014 through 2017, each MA organization must submit to CMS, in a timeframe and manner specified by CMS, a report that includes but is not limited to the data needed by the MA organization to calculate and verify the MLR and remittance amount, if any, for each contract, under this part, such as incurred claims, total revenue, expenditures on quality improving activities, non-claims costs, taxes, licensing and regulatory fees, and any remittance owed to CMS under § 422.2410.
 
 (b) For contract year 2018 and for each subsequent contract year, each MA organization must submit to CMS, in a timeframe and manner specified by CMS, the following information:

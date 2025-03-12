@@ -159,11 +159,11 @@ Table 16 to Paragraph (p)
 
 Table 17 to Paragraph (q)
 
-|                                    |       |
-|------------------------------------|-------|
-|     By a micro entity (§ 1.29)     |$165.00|
-|   By a small entity (§ 1.27(a))    |330.00 |
-|By other than a small or micro entit|660.00 |
+|                                     |       |
+|-------------------------------------|-------|
+|     By a micro entity (§ 1.29)      |$165.00|
+|    By a small entity (§ 1.27(a))    |330.00 |
+|By other than a small or micro entity|660.00 |
 
 (r) Examination fee for each application for the reissue of a patent:
 

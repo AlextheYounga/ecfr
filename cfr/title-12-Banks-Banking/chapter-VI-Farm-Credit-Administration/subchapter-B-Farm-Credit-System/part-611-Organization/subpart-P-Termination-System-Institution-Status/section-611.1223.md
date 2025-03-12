@@ -1,5 +1,7 @@
 ##### § 611.1223 Plan of termination - contents. #####
 
+Link to an amendment published at 87 FR 27492, May 9, 2022.
+
 (a) *Disclaimer.* Place the following statement in boldface type in the material to be sent to equity holders, either on the notice of meeting or the first page of the plan of termination:
 
 *The Farm Credit Administration has not determined if this information is accurate or complete. You should not rely on any statement to the contrary.*

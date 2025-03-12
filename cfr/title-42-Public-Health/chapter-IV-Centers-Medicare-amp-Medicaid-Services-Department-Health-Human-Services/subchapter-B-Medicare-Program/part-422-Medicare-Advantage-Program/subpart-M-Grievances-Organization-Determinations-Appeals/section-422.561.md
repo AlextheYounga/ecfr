@@ -1,5 +1,7 @@
 ##### § 422.561 Definitions. #####
 
+Link to an amendment published at 87 FR 27897, May 9, 2022.
+
 As used in this subpart, unless the context indicates otherwise -
 
 *Appeal* means any of the procedures that deal with the review of adverse organization determinations on the health care services the enrollee believes he or she is entitled to receive, including delay in providing, arranging for, or approving the health care services (such that a delay would adversely affect the health of the enrollee), or on any amounts the enrollee must pay for a service, as defined under § 422.566(b). These procedures include reconsiderations by the MA organization, and if necessary, an independent review entity, hearings before ALJs, review by the Medicare Appeals Council (Council), and judicial review.

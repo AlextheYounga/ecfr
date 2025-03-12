@@ -1,30 +1,32 @@
 ##### § 3555.107 Application for and issuance of the loan guarantee. #####
 
-Link to an amendment published at 87 FR 6776, Feb. 7, 2022.
-
 (a) *Processing of applications.* Except as provided in this section, Rural Development will process loan guarantee applications in the order that completed applications are received. Application forms and instruction procedures are available at any Rural Development office.
 
 (1) If analysis of the utilization of funds during the fiscal year indicates that, at the rate of current utilization, funds may not be sufficient to sustain that level of activity for the remainder of the fiscal year, the Agency may determine a shortage of funds exists.
 
 (2) When there is a shortage of funds, the Agency will limit SFHGLP loans to first-time homebuyers or veterans. First-time homebuyers and veterans will be served in the order their applications are received.
 
-(b) *Automated underwriting.* Rural Development will offer approved lenders an automated system, if available; to process Rural Development guaranteed loans under this part. The automated underwriting system is a tool to help evaluate credit risk, but does not substitute or replace the careful judgment of experienced underwriters, and shall not be the exclusive basis for a determination on whether to extend credit. The lender must apply for and receive approval from Rural Development to utilize the automated underwriting system. Application forms are available from Rural Development. Lenders using the automated underwriting system shall do so in accordance with SFHGLP regulations and guidelines. Rural Development reserves the right to terminate the lender's use of the automated underwriting system.
+(b) *Automated underwriting.* Approved lenders are required to process SFHGLP loans using Rural Development's automated systems. The automated underwriting system is a tool to help evaluate credit risk but does not substitute or replace the careful judgment of experienced underwriters and shall not be the exclusive determination on extending credit. The lender must apply for and receive approval from Rural Development to utilize the automated underwriting system. Rural Development reserves the right to terminate the lender's use of the automated underwriting system.
 
-(1) Lenders who utilize the Rural Development automated underwriting system remain responsible for ensuring all data is true and accurately represented.
+(1) Lenders are responsible for ensuring all data is true and accurately represented in the automated underwriting system.
 
 (2) Full documentation and verification, in accordance with Subparts C, D and E of this part, will be retained in the lender's permanent loan file and must confirm the applicant's eligibility, creditworthiness, repayment ability, eligible loan purpose, sufficient collateral, and all other regulatory requirements.
 
-(3) Lenders who utilize the Rural Development automated underwriting system will be subject to indemnification requirements in accordance with § 3555.108.
+(3) The use of Rural Development's automated underwriting system subjects the lender to indemnification requirements in accordance with § 3555.108.
 
 (4) If a loan receives an “Accept” underwriting recommendation, the lender is generally permitted to submit minimal documentation including the appraisal, flood hazard determination and fully executed request for guarantee, unless the lender is instructed to provide other documentation.
 
 (5) Loan requests that receive a “Refer” or “Refer with Caution” underwriting recommendation require further review and manual underwriting by the lender to determine whether the applicant meets SFHGLP eligibility requirements.
 
-(6) Lenders who utilize Rural Development's automated underwriting system will validate findings, based upon the output report of the underwriting system.
+(6) Lenders will validate findings based on the output report of the automated underwriting system.
 
 (7) The final submission of the last scoring event must be retained in the lender's permanent loan file.
 
-(c) *Manual underwriting.* Lenders may utilize a manual underwriting method. Full documentation and verification, in accordance with Subparts C, D and E of this part will be submitted to Rural Development when requesting a guarantee and maintained in the lender's file. The documentation will confirm the applicant's eligibility, creditworthiness, repayment ability, eligible loan purpose, adequate collateral, and satisfaction of other regulatory requirements.
+(c) *Manual underwriting.* Loans requiring manual underwriting (manually underwritten loans) are described in paragraphs (c)(1) and (2) of this section. For manually underwritten loans, full documentation, and verification in accordance with subparts C, D, and E of this part will be submitted to Rural Development when requesting a guarantee and maintained in the lender's file. The documentation will confirm the applicant's eligibility, creditworthiness, repayment ability, eligible loan purpose, adequate collateral, and satisfaction of other regulatory requirements. The following types of loans require manual underwriting:
+
+(1) Loans downgraded by Rural Development's automated system. These loans are manually underwritten by the lender and submitted utilizing Rural Development's automated system.
+
+(2) Loans that are not supported by Rural Development's automated systems. These loans are manually underwritten by the lender and submitted by secure email or other electronic means approved by the Agency.
 
 (d) *Appraisals.* The lender must supply a current appraisal report of the property for which the guarantee is requested.
 
@@ -66,7 +68,7 @@ Link to an amendment published at 87 FR 6776, Feb. 7, 2022.
 
 (3) The lender will maintain evidence of hazard insurance and, if applicable, flood insurance.
 
-(4) Evidence of documentation supporting the properly closed loan may be submitted to the Agency through regular mail, express mail, facsimile or secure email. Rural Development may offer approved lenders an automated method of submitting properly closed loans.
+(4) For all loan submissions, evidence of documentation supporting the properly closed loan will be submitted using Rural Development's automated systems.
 
 (5) Lenders will submit full documentation supporting a closed loan or evidence of self-certification status, as described in this section. Self-certified lenders must still submit the settlement statement and promissory note. Lenders must obtain written authorization from the Agency prior to submitting evidence of self-certification in lieu of full documentation. Authorization for self-certification may be granted by the Agency if:
 
@@ -90,4 +92,4 @@ Link to an amendment published at 87 FR 6776, Feb. 7, 2022.
 
 (5) Rural Development issues the loan guarantee document.
 
-[78 FR 73941, Dec. 9, 2013, as amended at 81 FR 6429, Feb. 8, 2016]
+[78 FR 73941, Dec. 9, 2013, as amended at 81 FR 6429, Feb. 8, 2016; 87 FR 6776, Feb. 7, 2022]

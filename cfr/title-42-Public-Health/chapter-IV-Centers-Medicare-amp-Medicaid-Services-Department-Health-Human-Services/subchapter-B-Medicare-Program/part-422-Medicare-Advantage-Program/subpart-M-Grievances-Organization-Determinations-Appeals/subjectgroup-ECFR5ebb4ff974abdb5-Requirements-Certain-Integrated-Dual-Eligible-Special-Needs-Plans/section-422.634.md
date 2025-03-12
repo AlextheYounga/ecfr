@@ -1,5 +1,7 @@
 ##### § 422.634 Effect. #####
 
+Link to an amendment published at 87 FR 27898, May 9, 2022.
+
 (a) *Failure of the applicable integrated plan to send timely notice of a determination.* If the applicable integrated plan fails to adhere to the notice and timing for an integrated organization determination or integrated reconsideration, this failure constitutes an adverse determination for the enrollee.
 
 (1) For an integrated organization determination, this means that the enrollee may request an integrated reconsideration.

@@ -1,5 +1,7 @@
 ##### § 611.1130 Inter-System transfer of funds and equities. #####
 
+Link to an amendment published at 87 FR 27492, May 9, 2022.
+
 (a) Section 5.17(a)(6) of the Act authorizes the FCA to regulate the borrowing, repayment, and transfer of funds and equities between institutions of the System, including banks, associations, and service corporations chartered under the Act. This section sets forth the circumstances and procedures under which the FCA may direct such a transfer of funds and equities based on its determination with respect to the financial condition of one or more institutions of the System. For purposes of this section, the term “bond” refers to long-term notes, bonds, debentures, or other similar obligations, or short-term discount notes issued by one or more banks pursuant to section 4.2 of the Act.
 
 (b) The FCA may direct a transfer of funds or equities by one or more banks of the System to another bank of the System where it determines that:

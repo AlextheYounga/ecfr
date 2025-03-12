@@ -1,6 +1,8 @@
 ##### § 423.2305 Definitions. #####
 
-As used in this subpart, unless otherwise specified -
+Link to an amendment published at 87 FR 27902, May 9, 2022.
+
+As used in this subpart, unless otherwise specified—
 
 *Applicable discount* means 50 percent or, with respect to a plan year after plan year 2018, 70 percent of the portion of the negotiated price (as defined in this section) of the applicable drug of a manufacturer that falls within the coverage gap and that remains after such negotiated price is reduced by any supplemental benefits that are available.
 
@@ -20,7 +22,7 @@ As used in this subpart, unless otherwise specified -
 
 *National Drug Code* (NDC) means the unique identifying prescription drug product number that is listed with the Food and Drug Administration (FDA) identifying the product and package size and type.
 
-*Negotiated price* for purposes of the Discount Program, means the price for a covered Part D drug that -
+*Negotiated price* for purposes of the Discount Program, means the price for a covered Part D drug that—
 
 (1) The Part D sponsor (or other intermediary contracting organization) and the network dispensing pharmacy or other network dispensing provider have negotiated as the amount such network entity will receive, in total, for a particular drug;
 

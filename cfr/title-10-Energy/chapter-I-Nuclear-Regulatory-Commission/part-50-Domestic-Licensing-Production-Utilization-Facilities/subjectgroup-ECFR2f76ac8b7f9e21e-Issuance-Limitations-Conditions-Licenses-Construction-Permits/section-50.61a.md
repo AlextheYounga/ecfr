@@ -136,65 +136,51 @@
 
 ![](/graphics/er03fe10.000.gif)![](/graphics/er03fe10.001.gif)![](/graphics/er03fe10.002.gif)![](/graphics/er03fe10.003.gif)![](/graphics/er03fe10.004.gif)![](/graphics/er03fe10.005.gif)![](/graphics/er03fe10.006.gif)Where:P [wt-&%] = phosphorus contentMn [wt-%] = manganese contentNi [wt-%] = nickel contentCu [wt-%] = copper contentA = 1.140 × 10−7 for forgingsA = 1.561 × 10−7 for platesA = 1.417 × 10−7 for weldsB = 102.3 for forgingsB = 102.5 for plates in non-Combustion Engineering manufactured vesselsB = 135.2 for plates in Combustion Engineering vesselsB = 155.0 for weldsφte = φt for φ ≥4.39 × 1010 n/cm2/secφte = φt × (4.39 × 1010/φ)0.2595 for φ \<4.39 × 1010 n/cm2/secWhere:φ [n/cm2/sec] = average neutron fluxt [sec] = time that the reactor has been in full power operationφt [n/cm2] = φ × tf(Cue,P) = 0 for Cu ≤0.072f(Cue,P) = [Cue−0.072]0.668 for Cu \>0.072 and P ≤0.008f(Cue,P) = [Cue−0.072 + 1.359 × (P−0.008)]0.668 for Cu \>0.072 and P \>0.008Where:Cue = 0 for Cu ≤0.072Cue = MIN (Cu, maximum Cue) for Cu \>0.072maximum Cue = 0.243 for Linde 80 weldsmaximum Cue = 0.301 for all other materialsg(Cue,Ni,φte) = 0.5 + (0.5 × tanh {[log10(φte) + (1.1390 × Cue)−(0.448 × Ni)−18.120]/0.629}Equation 8: Residual (r) = measured ΔT30−predicted ΔT30 (by Equations 5, 6 and 7)![](/graphics/er03fe10.007.gif)Equation 10: Maximum credible heat-average residual = 2.33σ/n0.5Where:n = number of surveillance data points (sample size) in the specific data setσ = standard deviation of the residuals about the model for a relevant material group given in Table 5.![](/graphics/er03fe10.008.gif)Where:*m* is the slope of a plot of all of the r values (estimated using Equation 8) versus the base 10 logarithm of the neutron fluence for each r value. The slope shall be estimated using the method of least squares.*se(m)* is the least squares estimate of the standard-error associated with the estimated slope value *m.*![](/graphics/er03fe10.009.gif)Where:*r* is defined using Equation 8 and σ is given in Table 5
 
-Table 1 - PTS Screening Criteria
+|                                                                  Product form and RT<sub>MAX-X</sub>  <br/>values                                                                  |RT<sub>MAX-X</sub> limits [ °F] for different vessel wall thicknesses <sup>6</sup> (T<sub>WALL</sub>)|                                           |   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-------------------------------------------|---|
+|                                                                             T<sub>WALL</sub> ≤9.5 in.                                                                              |                             9.5 in. \<T<sub>WALL</sub>  <br/>≤10.5 in.                              |10.5 in. \<T<sub>WALL</sub>  <br/>≤11.5 in.|   |
+|                                                                           Axial Weld—RT<sub>MAX-AW</sub>                                                                           |                                                 269                                                 |                    230                    |222|
+|                                                                             Plate—RT<sub>MAX-PL</sub>                                                                              |                                                 356                                                 |                    305                    |293|
+|                                                          Forging without underclad cracks—RT<sub>MAX-FO</sub><sup>7</sup>                                                          |                                                 356                                                 |                    305                    |293|
+|                                                           Axial Weld and Plate—RT<sub>MAX-AW</sub> + RT<sub>MAX-PL</sub>                                                           |                                                 538                                                 |                    476                    |445|
+|                                                                Circumferential Weld—RT<sub>MAX-CW</sub><sup>8</sup>                                                                |                                                 312                                                 |                    277                    |269|
+|                                                           Forging with underclad cracks—RT<sub>MAX-FO</sub><sup>9</sup>                                                            |                                                 246                                                 |                    241                    |239|
+|                                              <sup>6</sup> Wall thickness is the beltline wall thickness including the clad thickness.                                              |                                                                                                     |                                           |   |
+|<sup>7</sup> Forgings without underclad cracks apply to forgings for which no underclad cracks have been detected and that were fabricated in accordance with Regulatory Guide 1.43.|                                                                                                     |                                           |   |
+|                                  <sup>8</sup> RT<sub>PTS</sub> limits contribute 1 × 10<sup>−8</sup> per reactor year to the reactor vessel TWCF.                                  |                                                                                                     |                                           |   |
+|        <sup>9</sup> Forgings with underclad cracks apply to forgings that have detected underclad cracking or were not fabricated in accordance with Regulatory Guide 1.43.        |                                                                                                     |                                           |   |
 
-|         Product form and RTMAX-X  <br/>values         |RTMAX-X limits [ °F] for different vessel wall thicknesses<sup>6</sup> (TWALL)|                                |   |
-|-------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------|---|
-|                    TWALL ≤9.5 in.                     |                       9.5 in. \<TWALL  <br/>≤10.5 in.                        |10.5 in. \<TWALL  <br/>≤11.5 in.|   |
-|                 Axial Weld - RTMAX-AW                 |                                     269                                      |              230               |222|
-|                   Plate - RTMAX-PL                    |                                     356                                      |              305               |293|
-|Forging without underclad cracks - RTMAX-FO<sup>7</sup>|                                     356                                      |              305               |293|
-|      Axial Weld and Plate - RTMAX-AW + RTMAX-PL       |                                     538                                      |              476               |445|
-|      Circumferential Weld - RTMAX-CW<sup>8</sup>      |                                     312                                      |              277               |269|
-| Forging with underclad cracks - RTMAX-FO<sup>9</sup>  |                                     246                                      |              241               |239|
+|Through-wall extent, TWE [in.]|Maximum number of flaws per 1,000-inches of weld length in the inspection volume that are greater than or equal to TWE<sub>MIN</sub> and less than TWE<sub>MAX</sub>|         |
+|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
+|      TWE<sub>MIN</sub>       |                                                                         TWE<sub>MAX</sub>                                                                          |         |
+|              0               |                                                                               0.075                                                                                |No Limit.|
+|            0.075             |                                                                               0.475                                                                                | 166.70. |
+|            0.125             |                                                                               0.475                                                                                | 90.80.  |
+|            0.175             |                                                                               0.475                                                                                | 22.82.  |
+|            0.225             |                                                                               0.475                                                                                |  8.66.  |
+|            0.275             |                                                                               0.475                                                                                |  4.01.  |
+|            0.325             |                                                                               0.475                                                                                |  3.01.  |
+|            0.375             |                                                                               0.475                                                                                |  1.49.  |
+|            0.425             |                                                                               0.475                                                                                |  1.00.  |
+|            0.475             |                                                                              Infinite                                                                              |  0.00.  |
 
-<sup>6</sup> Wall thickness is the beltline wall thickness including the clad thickness.
-
-<sup>7</sup> Forgings without underclad cracks apply to forgings for which no underclad cracks have been detected and that were fabricated in accordance with Regulatory Guide 1.43.
-
-<sup>8</sup> RTPTS limits contribute 1 × 10−8 per reactor year to the reactor vessel TWCF.
-
-<sup>9</sup> Forgings with underclad cracks apply to forgings that have detected underclad cracking or were not fabricated in accordance with Regulatory Guide 1.43.
-
-Table 2 - Allowable Number of Flaws in Welds
-
-|Through-wall extent, TWE [in.]|Maximum number of flaws per 1,000-inches of weld length in the inspection volume that are greater than or equal to TWEMIN and less than TWEMAX|         |
-|------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|---------|
-|            TWEMIN            |                                                                    TWEMAX                                                                    |         |
-|              0               |                                                                    0.075                                                                     |No Limit.|
-|            0.075             |                                                                    0.475                                                                     | 166.70. |
-|            0.125             |                                                                    0.475                                                                     | 90.80.  |
-|            0.175             |                                                                    0.475                                                                     | 22.82.  |
-|            0.225             |                                                                    0.475                                                                     |  8.66.  |
-|            0.275             |                                                                    0.475                                                                     |  4.01.  |
-|            0.325             |                                                                    0.475                                                                     |  3.01.  |
-|            0.375             |                                                                    0.475                                                                     |  1.49.  |
-|            0.425             |                                                                    0.475                                                                     |  1.00.  |
-|            0.475             |                                                                   Infinite                                                                   |  0.00.  |
-
-Table 3 - Allowable Number of Flaws in Plates and Forgings
-
-|Through-wall extent, TWE [in.]|Maximum number of flaws per 1,000 square-inches of inside surface area in the inspection volume that are greater than or equal to TWEMIN and less than TWEMAX. This flaw density does not include underclad cracks in forgings|         |
-|------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
-|            TWEMIN            |                                                                                                            TWEMAX                                                                                                            |         |
-|              0               |                                                                                                            0.075                                                                                                             |No Limit.|
-|            0.075             |                                                                                                            0.375                                                                                                             |  8.05.  |
-|            0.125             |                                                                                                            0.375                                                                                                             |  3.15.  |
-|            0.175             |                                                                                                            0.375                                                                                                             |  0.85.  |
-|            0.225             |                                                                                                            0.375                                                                                                             |  0.29.  |
-|            0.275             |                                                                                                            0.375                                                                                                             |  0.08.  |
-|            0.325             |                                                                                                            0.375                                                                                                             |  0.01.  |
-|            0.375             |                                                                                                           Infinite                                                                                                           |  0.00.  |
-
-Table 4 - Conservative Estimates for Chemical Element Weight Percentages
+|Through-wall extent, TWE [in.]|Maximum number of flaws per 1,000 square-inches of inside surface area in the inspection volume that are greater than or equal to TWE<sub>MIN</sub> and less than TWE<sub>MAX</sub>. This flaw density does not include underclad cracks in forgings|         |
+|------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
+|      TWE<sub>MIN</sub>       |                                                                                                                 TWE<sub>MAX</sub>                                                                                                                  |         |
+|              0               |                                                                                                                       0.075                                                                                                                        |No Limit.|
+|            0.075             |                                                                                                                       0.375                                                                                                                        |  8.05.  |
+|            0.125             |                                                                                                                       0.375                                                                                                                        |  3.15.  |
+|            0.175             |                                                                                                                       0.375                                                                                                                        |  0.85.  |
+|            0.225             |                                                                                                                       0.375                                                                                                                        |  0.29.  |
+|            0.275             |                                                                                                                       0.375                                                                                                                        |  0.08.  |
+|            0.325             |                                                                                                                       0.375                                                                                                                        |  0.01.  |
+|            0.375             |                                                                                                                      Infinite                                                                                                                      |  0.00.  |
 
 |Materials|  P  | Mn |
 |---------|-----|----|
 | Plates  |0.014|1.45|
 |Forgings |0.016|1.11|
 |  Welds  |0.019|1.63|
-
-Table 5 - Maximum Heat-Average Residual [ °F] for Relevant Material Groups by Number of Available Data Points (Significance Level = 1%)
 
 |           Material group            |σ [ °F]|Number of available data points|    |    |    |    |    |
 |-------------------------------------|-------|-------------------------------|----|----|----|----|----|
@@ -204,25 +190,21 @@ Table 5 - Maximum Heat-Average Residual [ °F] for Relevant Material Groups by N
 |      Forgings, for Cu \>0.072       | 19.6  |             26.4              |22.8|20.4|18.6|17.3|16.1|
 |Weld, Plate or Forging, for Cu ≤0.072| 18.6  |             25.0              |21.7|19.4|17.7|16.4|15.3|
 
-Table 6 - TMAX Values for the Slope Deviation Test (Significance Level = 1%)
-
-|Number of available  <br/>data points (n)|TMAX |
-|-----------------------------------------|-----|
-|                    3                    |31.82|
-|                    4                    |6.96 |
-|                    5                    |4.54 |
-|                    6                    |3.75 |
-|                    7                    |3.36 |
-|                    8                    |3.14 |
-|                    9                    |3.00 |
-|                   10                    |2.90 |
-|                   11                    |2.82 |
-|                   12                    |2.76 |
-|                   13                    |2.72 |
-|                   14                    |2.68 |
-|                   15                    |2.65 |
-
-Table 7 - Threshold Values for the Outlier Deviation Test (Significance Level = 1%)
+|Number of available  <br/>data points (n)|T<sub>MAX</sub>|
+|-----------------------------------------|---------------|
+|                    3                    |     31.82     |
+|                    4                    |     6.96      |
+|                    5                    |     4.54      |
+|                    6                    |     3.75      |
+|                    7                    |     3.36      |
+|                    8                    |     3.14      |
+|                    9                    |     3.00      |
+|                   10                    |     2.90      |
+|                   11                    |     2.82      |
+|                   12                    |     2.76      |
+|                   13                    |     2.72      |
+|                   14                    |     2.68      |
+|                   15                    |     2.65      |
 
 |Number of available data points (n)|Second largest allowable normalized residual value (r\*)|Largest allowable normalized residual value (r\*)|
 |-----------------------------------|--------------------------------------------------------|-------------------------------------------------|

@@ -1,5 +1,7 @@
 ##### § 423.2274 Agent, broker, and other third party requirements. #####
 
+Link to an amendment published at 87 FR 27901, May 9, 2022.
+
 If a Part D sponsor uses agents and brokers to sell its Medicare Part D plans, the requirements in paragraphs (a) through (e) of this section are applicable. If a Part D sponsor makes payments to third parties, the requirements in paragraph (f) of this section are applicable.
 
 (a) *Definitions.* For purposes of this section, the following definitions are applicable:

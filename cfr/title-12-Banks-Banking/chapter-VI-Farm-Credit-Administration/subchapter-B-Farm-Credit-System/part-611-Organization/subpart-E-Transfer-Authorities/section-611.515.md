@@ -1,5 +1,7 @@
 ##### § 611.515 Information statement. #####
 
+Link to an amendment published at 87 FR 27492, May 9, 2022.
+
 (a) The bank and association shall prepare an information statement which will inform stockholders about the provisions of the proposed transfer of authorities and the effect of the proposal on the bank and the association.
 
 (b) The information statement for each institution involved shall contain the following materials as applicable to the institution:
