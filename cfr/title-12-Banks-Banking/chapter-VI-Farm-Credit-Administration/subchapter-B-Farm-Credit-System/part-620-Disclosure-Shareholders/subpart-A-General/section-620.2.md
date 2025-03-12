@@ -1,5 +1,7 @@
 ##### § 620.2 Preparing and filing reports. #####
 
+Link to an amendment published at 85 FR 63430, Oct. 8, 2020.
+
 For the purposes of this part, the following shall apply:
 
 (a) Copies of each report required by this part, including financial statements and related schedules, exhibits, and all other papers and documents that are a part of the report, must be sent to the Farm Credit Administration according to our instructions. Submissions must comply with the requirements of § 620.3 of this part. The Farm Credit Administration must receive the report within the period prescribed under applicable subpart sections.

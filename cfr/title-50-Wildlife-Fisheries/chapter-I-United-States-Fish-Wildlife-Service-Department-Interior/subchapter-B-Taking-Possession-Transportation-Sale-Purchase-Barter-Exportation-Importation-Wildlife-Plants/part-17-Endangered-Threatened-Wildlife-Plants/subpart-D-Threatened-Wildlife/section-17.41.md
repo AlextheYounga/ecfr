@@ -1,5 +1,7 @@
 ##### § 17.41 Special rules - birds. #####
 
+Link to an amendment published at 85 FR 63802, Oct. 8, 2020.
+
 (a) Streaked horned lark (*Eremophila alpestris strigata*). (1) *Which populations of the streaked horned lark are covered by this special rule?* The components of this special rule that apply to airport management and noxious weed control cover the rangewide distribution of this bird; the agricultural component applies only to the Willamette Valley in Oregon.
 
 (2) *What activities are prohibited?* Except as noted in paragraphs (a)(3), (4), and (5) of this section, all prohibitions of § 17.31 apply to the streaked horned lark.

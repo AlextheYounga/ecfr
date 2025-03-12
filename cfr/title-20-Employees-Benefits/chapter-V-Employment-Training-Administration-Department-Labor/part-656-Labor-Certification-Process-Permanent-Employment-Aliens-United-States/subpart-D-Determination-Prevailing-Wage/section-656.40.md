@@ -1,14 +1,26 @@
 ##### § 656.40 Determination of prevailing wage for labor certification purposes. #####
 
-(a) *Application process.* The employer must request a PWD from the NPC, on a form or in a manner prescribed by OFLC. Prior to January 1, 2010, the SWA having jurisdiction over the area of intended employment shall continue to receive and process prevailing wage determination requests in accordance with the regulatory provisions and Department guidance in effect prior to January 1, 2009. On or after January 1, 2010, the NPC shall receive and process prevailing wage determination requests in accordance with these regulations and with Department guidance. The NPC will provide the employer with an appropriate prevailing wage rate. The NPC shall determine the wage in accordance with sec. 212(t) of the INA. Unless the employer chooses to appeal the center's PWD under § 656.41(a) of this part, it files the Application for Permanent Employment Certification either electronically or by mail with the processing center of jurisdiction and maintains the PWD in its files. The determination shall be submitted to the CO, if requested.
+(a) *Application process.* The employer must request a PWD from the NPC, on a form or in a manner prescribed by OFLC. The NPC shall receive and process prevailing wage determination requests in accordance with these regulations and with Department guidance. The NPC will provide the employer with an appropriate prevailing wage rate. The NPC shall determine the wage in accordance with sec. 212(p) of the INA. Unless the employer chooses to appeal the center's PWD under § 656.41(a), it files the Application for Permanent Employment Certification either electronically or by mail with the processing center of jurisdiction and maintains the PWD in its files. The determination shall be submitted to the CO, if requested.
 
 (b) *Determinations.* The National Processing Center will determine the appropriate prevailing wage as follows:
 
 (1) Except as provided in paragraphs (e) and (f) of this section, if the job opportunity is covered by a collective bargaining agreement (CBA) that was negotiated at arms-length between the union and the employer, the wage rate set forth in the CBA agreement is considered as not adversely affecting the wages of U.S. workers similarly employed, that is, it is considered the “prevailing wage” for labor certification purposes.
 
-(2) If the job opportunity is not covered by a CBA, the prevailing wage for labor certification purposes shall be the arithmetic mean, except as provided in paragraph (b)(3) of this section, of the wages of workers similarly employed in the area of intended employment. The wage component of the DOL Occupational Employment Statistics Survey shall be used to determine the arithmetic mean, unless the employer provides an acceptable survey under paragraph (g) of this section.
+(2) If the job opportunity is not covered by a CBA, the prevailing wage for labor certification purposes shall be based on the wages of workers similarly employed using the wage component of the Bureau of Labor Statistics (BLS) Occupational Employment Statistics Survey (OES) in accordance with paragraph (b)(2)(i) of this section, unless the employer provides an acceptable survey under paragraphs (b)(3) and (g) of this section or elects to utilize a wage permitted under paragraph (b)(4) of this section.
 
-(3) If the employer provides a survey acceptable under paragraph (g) of this section that provides a median and does not provide an arithmetic mean, the prevailing wage applicable to the employer's job opportunity shall be the median of the wages of workers similarly employed in the area of intended employment.
+(i) The BLS shall provide the OFLC Administrator with the OES wage data by occupational classification and geographic area, which is computed and assigned at four levels set commensurate with the education, experience, and level of supervision of similarly employed workers, as determined by the Department. Based on this determination, the prevailing wage shall be provided by the OFLC Administrator at four levels:
+
+(A) The Level I Wage shall be computed as the arithmetic mean of the fifth decile of the OES wage distribution and assigned for the most specific occupation and geographic area available.
+
+(B) The Level II Wage shall be determined by first dividing the difference between Level I and IV by three and then adding the quotient to the computed value for Level I and assigned for the most specific occupation and geographic area available.
+
+(C) The Level III Wage shall be determined by first dividing the difference between Level I and IV by three and then subtracting the quotient from the computed value for Level IV and assigned for the most specific occupation and geographic area available.
+
+(D) The Level IV Wage shall be computed as the arithmetic mean of the upper decile of the OES wage distribution and assigned for the most specific occupation and geographic area available.
+
+(ii) The OFLC Administrator will publish, at least once in each calendar year, on a date to be determined by the OFLC Administrator, the prevailing wage levels under paragraph (b)(2)(i) of this section as a notice posted on the OFLC website.
+
+(3) If the employer provides a survey acceptable under paragraph (g) of this section, the prevailing wage for labor certification purposes shall be the arithmetic mean of the wages of workers similarly employed in the area of intended employment. If an otherwise acceptable survey provides a median and does not provide an arithmetic mean, the prevailing wage applicable to the employer's job opportunity shall be the median of the wages of workers similarly employed in the area of intended employment.
 
 (4) The employer may utilize a current wage determination in the area under the Davis-Bacon Act, 40 U.S.C. 276a *et seq.,* 29 CFR part 1, or the McNamara-O'Hara Service Contract Act, 41 U.S.C. 351 *et seq.*
 
@@ -72,4 +84,4 @@
 
 (j) *Fees prohibited.* No SWA or SWA employee may charge a fee in connection with the filing of a request for a PWD, responding to such a request, or responding to a request for a review of a SWA prevailing wage determination under § 656.41.
 
-[69 FR 77386, Dec. 27, 2004, as amended at 73 FR 78068, Dec. 19, 2008]
+[69 FR 77386, Dec. 27, 2004, as amended at 73 FR 78068, Dec. 19, 2008; 85 FR 63915, Oct. 8, 2020]

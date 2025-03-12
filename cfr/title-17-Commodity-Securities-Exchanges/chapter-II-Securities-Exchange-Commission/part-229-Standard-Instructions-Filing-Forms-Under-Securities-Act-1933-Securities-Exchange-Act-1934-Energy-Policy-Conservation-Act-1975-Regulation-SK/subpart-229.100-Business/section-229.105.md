@@ -1,5 +1,7 @@
 ##### § 229.105 (Item 105) Risk factors. #####
 
+Link to an amendment published at 85 FR 63761, Oct. 8, 2020.
+
 Where appropriate, provide under the caption “Risk Factors” a discussion of the most significant factors that make an investment in the registrant or offering speculative or risky. This discussion must be concise and organized logically. Do not present risks that could apply generically to any registrant or any offering. Explain how the risk affects the registrant or the securities being offered. Set forth each risk factor under a subcaption that adequately describes the risk. If the risk factor discussion is included in a registration statement, it must immediately follow the summary section. If you do not include a summary section, the risk factor section must immediately follow the cover page of the prospectus or the pricing information section that immediately follows the cover page. Pricing information means price and price-related information that you may omit from the prospectus in an effective registration statement based on Rule 430A (§ 230.430A(a) of this chapter). The registrant must furnish this information in plain English. See § 230.421(d) of Regulation C of this chapter.
 
 [84 FR 12716, Apr. 2, 2019]

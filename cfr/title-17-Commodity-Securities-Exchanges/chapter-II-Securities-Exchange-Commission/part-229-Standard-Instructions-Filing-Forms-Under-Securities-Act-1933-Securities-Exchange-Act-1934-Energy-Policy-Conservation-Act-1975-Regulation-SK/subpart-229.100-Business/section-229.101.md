@@ -1,5 +1,7 @@
 ##### § 229.101 (Item 101) Description of business. #####
 
+Link to an amendment published at 85 FR 63759, Oct. 8, 2020.
+
 (a) *General development of business.* Describe the general development of the business of the registrant, its subsidiaries and any predecessor(s) during the past five years, or such shorter period as the registrant may have been engaged in business. Information shall be disclosed for earlier periods if material to an understanding of the general development of the business.
 
 (1) In describing developments, information shall be given as to matters such as the following: the year in which the registrant was organized and its form of organization; the nature and results of any bankruptcy, receivership or similar proceedings with respect to the registrant or any of its significant subsidiaries; the nature and results of any other material reclassification, merger or consolidation of the registrant or any of its significant subsidiaries; the acquisition or disposition of any material amount of assets otherwise than in the ordinary course of business; and any material changes in the mode of conducting the business.

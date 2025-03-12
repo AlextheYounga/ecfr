@@ -1,5 +1,7 @@
 ##### § 229.103 (Item 103) Legal proceedings. #####
 
+Link to an amendment published at 85 FR 63760, Oct. 8, 2020.
+
 Describe briefly any material pending legal proceedings, other than ordinary routine litigation incidental to the business, to which the registrant or any of its subsidiaries is a party or of which any of their property is the subject. Include the name of the court or agency in which the proceedings are pending, the date instituted, the principal parties thereto, a description of the factual basis alleged to underlie the proceeding and the relief sought. Include similar information as to any such proceedings known to be contemplated by governmental authorities.
 
 *Instructions to Item 103:* 1. If the business ordinarily results in actions for negligence or other claims, no such action or claim need be described unless it departs from the normal kind of such actions.
