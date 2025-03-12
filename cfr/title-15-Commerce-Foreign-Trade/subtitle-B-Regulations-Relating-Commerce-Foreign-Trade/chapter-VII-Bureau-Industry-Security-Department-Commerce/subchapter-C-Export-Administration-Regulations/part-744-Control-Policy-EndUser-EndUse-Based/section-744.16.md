@@ -18,4 +18,4 @@ The Entity List (supplement no. 4 to part 744) identifies persons reasonably bel
 
 (2) *BIS action.* The Deputy Assistant Secretary for Export Administration will convey the decision on the request to the requester in writing. That decision will be the final agency action on the request.
 
-[81 FR 64695, Sept. 20, 2016]
+[81 FR 64695, Sept. 20, 2016, as amended at 85 FR 51337, Aug. 20, 2020]
