@@ -1,12 +1,8 @@
 ##### § 126.103 What definitions are important in the HUBZone program? #####
 
-Link to an amendment published at 88 FR 21088, Apr. 10, 2023.
-
 *Administrator* means the Administrator of the United States Small Business Administration (SBA).
 
 *AA/BD* means SBA's Associate Administrator for Business Development.
-
-*AA/GC&BD* means Associate Administrator, Office of Government Contracting & Business Development.
 
 *Agricultural commodity* has the same meaning as in section 102 of the Agricultural Trade Act of 1978 (7 U.S.C. 5602).
 
@@ -45,8 +41,6 @@ Link to an amendment published at 88 FR 21088, Apr. 10, 2023.
 *Contracting Officer (CO)* has the meaning given that term in 41 U.S.C. 423(f)(5), which defines a CO as a person who, by appointment in accordance with applicable regulations, has the authority to enter into a Federal agency procurement contract on behalf of the Government and to make determinations and findings with respect to such a contract.
 
 *County* means the political subdivisions recognized as a county by a state or commonwealth or which is an equivalent political subdivision such as a parish, borough, independent city, or *municipio,* where such subdivisions are not subdivisions within counties.
-
-*DAA/GC&BD* means SBA's Deputy Associate Administrator for Government Contracting and Business Development.
 
 *D/HUB* means the Director of SBA's Office of HUBZone.
 
@@ -182,4 +176,4 @@ Link to an amendment published at 88 FR 21088, Apr. 10, 2023.
 
 *Small business concern (SBC)* means a concern that, with its affiliates, meets the size standard for its primary industry, pursuant to part 121 of this chapter.
 
-[63 FR 31908, June 11, 1998, as amended at 66 FR 4645, Jan. 18, 2001; 69 FR 29421, May 24, 2004; 70 FR 51248, Aug. 30, 2005; 72 FR 50041, Aug. 30, 2007; 74 FR 45754, Sept. 4, 2009; 74 FR 56702, Nov. 3, 2009; 78 FR 61144, Oct. 2, 2013; 81 FR 51313, Aug. 4, 2016; 82 FR 48904, Oct. 23, 2017; 84 FR 62449, Nov. 15, 2019; 84 FR 65239, Nov. 26, 2019; 86 FR 23864, May 5, 2021]
+[63 FR 31908, June 11, 1998, as amended at 66 FR 4645, Jan. 18, 2001; 69 FR 29421, May 24, 2004; 70 FR 51248, Aug. 30, 2005; 72 FR 50041, Aug. 30, 2007; 74 FR 45754, Sept. 4, 2009; 74 FR 56702, Nov. 3, 2009; 78 FR 61144, Oct. 2, 2013; 81 FR 51313, Aug. 4, 2016; 82 FR 48904, Oct. 23, 2017; 84 FR 62449, Nov. 15, 2019; 84 FR 65239, Nov. 26, 2019; 86 FR 23864, May 5, 2021; 88 FR 21088, Apr. 10, 2023]

@@ -1,0 +1,5 @@
+##### § 134.1316 Can a Judge reconsider an appeal decision? #####
+
+(a) Any party who has appeared in the proceeding, or SBA, may request reconsideration of the OHA appeal decision by filing with the Judge and serving a petition for reconsideration on all the parties to the appeal within twenty (20) calendar days after service of the written decision. The request for reconsideration must clearly show an error of fact or law material to the decision. The Judge may also reconsider a decision on the Judge's own initiative, within twenty (20) calendar days after issuance of the written decision.
+
+(b) The Judge may remand a proceeding to the D/HUB for a new HUBZone status protest determination if the D/HUB fails to address issues of decisional significance sufficiently, does not address all the relevant evidence, or does not identify specifically the evidence upon which it relied. Once remanded, OHA no longer has jurisdiction over the matter, unless a new appeal is filed as a result of the new HUBZone status protest determination.

@@ -1,0 +1,3 @@
+##### § 134.1303 What time limits apply to filing an appeal from a HUBZone status protest determination? #####
+
+Appeals from a HUBZone status protest determination must be commenced by filing and serving an appeal petition within ten (10) business days after the appellant receives the HUBZone status protest determination (*see* § 134.204 for filing and service requirements). OHA shall dismiss any untimely appeal.

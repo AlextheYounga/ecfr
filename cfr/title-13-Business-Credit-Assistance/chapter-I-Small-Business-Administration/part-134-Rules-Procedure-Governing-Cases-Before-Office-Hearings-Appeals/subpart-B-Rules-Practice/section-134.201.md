@@ -1,7 +1,5 @@
 ##### § 134.201 Scope of the rules in this subpart. #####
 
-Link to an amendment published at 88 FR 21089, Apr. 10, 2023.
-
 (a) The rules of practice in this subpart apply to all OHA proceedings except:
 
 (1) Where another subpart of this part, pertaining to a specific type of OHA proceeding, provides a different rule; or
@@ -26,10 +24,12 @@ Link to an amendment published at 88 FR 21089, Apr. 10, 2023.
 
 (8) For protests of eligibility for inclusion in the Veteran Small Business Certification Program, in subpart J of this part;
 
-(9) For appeals of denials of certification and decertification in the Veteran Small Business Certification Program, in subpart K of this part; and
+(9) For appeals of denials of certification and decertification in the Veteran Small Business Certification Program, in subpart K of this part;
 
-(10) For proceedings under the Program Fraud Civil Remedies Act, in part 142 of this chapter.
+(10) For appeals of protest determinations regarding the status of a concern as a certified HUBZone small business concern, in subpart M of this part; and
+
+(11) For proceedings under the Program Fraud Civil Remedies Act, in part 142 of this chapter.
 
 (c) If a rule in this subpart conflicts with a rule pertaining to OHA in another subpart of this part or in another part of this chapter, the latter rule shall govern.
 
-[75 FR 47438, Aug. 6, 2010, as amended at 82 FR 25506, June 2, 2017; 83 FR 13629, Mar. 30, 2018; 87 FR 73425, Nov. 29, 2022]
+[75 FR 47438, Aug. 6, 2010, as amended at 82 FR 25506, June 2, 2017; 83 FR 13629, Mar. 30, 2018; 87 FR 73425, Nov. 29, 2022; 88 FR 21089, Apr. 10, 2023]
