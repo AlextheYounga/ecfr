@@ -181,17 +181,17 @@ In accordance with section 11 of the Basic Provisions, and subject to any provis
 
 (iv) Whenever the Special Provisions designate a spring type, any spring barley, oat, or wheat acreage damaged before such final planting date, to the extent that producers in the area would normally not further care for the crop, must be replanted to a spring type of the insured crop unless we agree that replanting is not practical.
 
-(v) Whenever the Special Provisions designate only a spring final planting date, any acreage of fall planted barley or fall planted wheat is not insured unless you request such coverage on or before the spring sales closing date, and we determine, in writing, that the acreage has an adequate stand in the spring to produce the yield used to determine your production guarantee. However, if we fail to inspect the acreage by the spring final planting date, insurance will attach as specified in section 7(a)(2)(v)(C).
+(v) Whenever the Special Provisions designate only a spring type, any winter barley, oat, or wheat acreage will not be insured unless you request such coverage on or before the spring sales closing date, and we inspect and give written confirmation that the acreage has an adequate stand in the spring to produce the yield used to determine your production guarantee. However, if we fail to inspect the acreage by the spring final planting date, insurance will attach as specified in section 7(a)(2)(v)(C).
 
-(A) Your request for coverage must include the location and number of acres of fall planted barley or wheat.
+(A) Your request for coverage must include the location and number of acres of winter barley, oats, or wheat.
 
-(B) The fall planted barley or fall planted wheat will be insured as a spring type for the purpose of the production guarantee, premium, projected price, and harvest price, if applicable.
+(B) The winter barley, oats, or wheat will be insured as a spring type for the purpose of the production guarantee, premium, projected price, and harvest price, if applicable.
 
 (C) Insurance will attach to such acreage on the date we determine an adequate stand exists or on the spring final planting date if we do not determine adequacy of the stand by the spring final planting date.
 
-(D) Any acreage of such fall planted barley or fall planted wheat that is damaged after it is accepted for insurance but before the spring final planting date, to the extent that growers in the area would normally not further care for the crop, must be replanted to a spring type of the insured crop unless we agree it is not practical to replant.
+(D) Any such winter barley, oats, or wheat acreage that is damaged after it is accepted for insurance but before the spring final planting date, to the extent that producers in the area would normally not further care for the crop, must be replanted to a spring type of the insured crop unless we agree it is not practical to replant.
 
-(E) If fall planted acreage is not to be insured it must be recorded on the acreage report as uninsured fall planted acreage.
+(E) If winter-planted acreage is not to be insured it must be recorded on the acreage report as uninsured winter-planted acreage.
 
 (b) The calendar date for the end of the insurance period is the following applicable date:
 
@@ -425,4 +425,4 @@ A late planting period is applicable to small grains, except to any barley or wh
 
 Your prevented planting coverage will be a percentage specified in the actuarial documents of your production guarantee for timely planted acreage. If you have additional coverage and pay an additional premium, you may increase your prevented planting coverage if such additional coverage is specified in the actuarial documents. In counties for which the Special Provisions designate a spring type, your prevented planting production guarantee will be based on your approved yield for spring-planted acreage of the insured crop.
 
-[59 FR 9391, Feb. 28, 1994, as amended at 60 FR 62723, Dec. 7, 1995; 62 FR 65164, Dec. 10, 1997; 67 FR 43526, June 28, 2002; 68 FR 34268, June 9, 2003; 75 FR 15875, Mar. 30, 2010; 81 FR 84398, Nov. 23, 2016; 86 FR 33849, June 25, 2021]Editorial Note:At 86 FR 33489, June 25, 2021, § 457.101, in section 7 of the clause, paragraphs (c)(2)(v) introductory text, and (c)(2)(v)(A), (B), (D), and (E) were revised. However, due to an inaccurate amendatory instruction, the amendments could not be incorporated.
+[59 FR 9391, Feb. 28, 1994, as amended at 60 FR 62723, Dec. 7, 1995; 62 FR 65164, Dec. 10, 1997; 67 FR 43526, June 28, 2002; 68 FR 34268, June 9, 2003; 75 FR 15875, Mar. 30, 2010; 81 FR 84398, Nov. 23, 2016; 86 FR 33849, June 25, 2021; 86 FR 38537, July 22, 2021]Editorial Note:At 86 FR 33489, June 25, 2021, § 457.101, in section 7 of the clause, paragraphs (c)(2)(v) introductory text, and (c)(2)(v)(A), (B), (D), and (E) were revised. However, due to an inaccurate amendatory instruction, the amendments could not be incorporated.

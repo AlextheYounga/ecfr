@@ -1,8 +1,6 @@
-##### § 201.3 Fees for registration, recordation, and related services, special services, and services performed by the Licensing Division. #####
+##### § 201.3 Fees for registration, recordation, and related services, special services, and services performed by the Licensing Section. #####
 
-Link to an amendment published at 86 FR 32641, June 22, 2021.
-
-(a) *General.* This section prescribes the fees for registration, recordation, and related services, special services, and services performed by the Licensing Division.
+(a) *General.* This section prescribes the fees for registration, recordation, and related services, special services, and services performed by the Licensing Section.
 
 (b) *Definitions.* For purposes of this section, the following definitions apply:
 
@@ -10,7 +8,7 @@ Link to an amendment published at 86 FR 32641, June 22, 2021.
 
 (2) *Special service fee.* This is a fee for a special service not specified in title 17, which the Register of Copyrights may fix at any time on the basis of the cost of providing the service, as provided by 17 U.S.C. 708(a).
 
-(3) *Licensing Division service fee.* This is a fee for a service performed by the Licensing Division.
+(3) *Licensing Section service fee.* This is a fee for a service performed by the Licensing Section.
 
 (c) Registration, recordation, and related service fees. The Copyright Office has established fees for these services. To calculate the fee specified by paragraph (c)(20) of this section, for each work identified in a document: The first title and/or first registration number provided for that particular work constitutes a work; and each additional title and registration number provided for that particular work beyond the first constitutes an alternate identifier. The fees are as follows:
 
@@ -50,7 +48,7 @@ Table 1 to Paragraph (c)
 |                                                  (16) Registration of a claim in a vessel design (Form D/VH)                                                  |     500      |
 |                                                  (17) Provision of an additional certificate of registration                                                  |      55      |
 |                                   (18) Certification of other Copyright Office records, including search reports (per hour)                                   |     200      |
-|                      (19) Search report prepared from official records other than Licensing Division records (per hour, 2 hour minimum)                       |     200      |
+|                       (19) Search report prepared from official records other than Licensing Section records (per hour, 2 hour minimum)                       |     200      |
 |                                        (20) Estimate of retrieval or search fee (credited to retrieval or search fee)                                         |     200      |
 |                            (21) Retrieval of in-process or completed Copyright Office records or other Copyright Office materials:                            |              |
 |                                                   (i) Retrieval of paper records (per hour, 1 hour minimum)                                                   |     200      |
@@ -110,11 +108,11 @@ Table 1 to Paragraph (d)
 |                               (16) Service charge for Federal Express mailing                                |      45      |
 |            (17) Service charge for delivery of documents via facsimile (per page, 7 page maximum)            |      1       |
 
-(e) *Licensing Division service fees.* The Copyright Office has established the following fees for specific services of the Licensing Division:
+(e) *Licensing Section service fees.* The Copyright Office has established the following fees for specific services of the Licensing Section:
 
 Table 1 to Paragraph (e)
 
-|                                                                     Licensing division services                                                                     |Fees  <br/>($)|
+|                                                                     Licensing section services                                                                      |Fees  <br/>($)|
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
 |                                   (1)(i) Recordation of a notice of intention to make and distribute phonorecords (17 U.S.C. 115)                                   |      75      |
 |                                                 (ii) Additional titles (per group of 1 to 10 titles) (paper filing)                                                 |      20      |
@@ -127,8 +125,8 @@ Table 1 to Paragraph (e)
 |                                                                            (ii) Form SA2                                                                            |      20      |
 |                                                                           (iii) Form SA3                                                                            |     725      |
 |                 (6) Processing of a statement of account based on secondary transmissions of primary transmissions pursuant to 17 U.S.C. 119 or 122                 |     725      |
-|                                        (7) Search report prepared from Licensing Division records (per hour, 2 hour minimum)                                        |     200      |
+|                                        (7) Search report prepared from Licensing Section records (per hour, 2 hour minimum)                                         |     200      |
 
 (f) *Fees for travel in connection with educational activities.* For travel expenses in connection with Copyright Office educational activities when participation by Copyright Office personnel has been requested by another organization or person and that organization or person has agreed to pay such expenses, collection of the fee shall be subject to, and the amount of the fee shall be no greater than, the amount authorized under the Federal Travel Regulations found in Chapters 300 through 304 of Title 41.
 
-[64 FR 29520, June 1, 1999, as amended at 64 FR 36574, July 7, 1999; 65 FR 39819, June 28, 2000; 67 FR 38005, May 31, 2002; 71 FR 31090, June 1, 2006; 71 FR 46402, Aug. 14, 2006; 72 FR 33691, June 19, 2007; 74 FR 12556, Mar. 25, 2009, 74 FR 32807, July 9, 2009; 77 FR 18705, Mar. 28, 2012; 77 FR 18707, Mar. 28, 2012; 78 FR 71501, Nov. 29, 2013; 79 FR 15918, Mar. 24, 2014; 79 FR 24334, Apr. 30, 2014; 79 FR 68623, Nov. 18, 2014; 81 FR 75707, Nov. 1, 2016; 82 FR 9008, Feb. 2, 2017; 82 FR 9356, Feb. 6, 2017; 82 FR 26853, June 12, 2017; 82 FR 29413, June 29, 2017; 82 FR 52223, Nov. 13, 2017; 83 FR 2547, Jan. 18, 2018; 83 FR 4146, Jan. 30, 2018; 83 FR 52153, Oct. 16, 2018; 83 FR 61549, Nov. 30, 2018; 83 FR 66628, Dec. 27, 2018; 84 FR 3697, Feb. 13, 2019; 84 FR 10684, Mar. 22, 2019; 84 FR 14255, Apr. 9, 2019; 84 FR 20273, May 9, 2019; 85 FR 9386, Feb. 19, 2020; 85 FR 37346, June 22, 2020; 86 FR 10825, Feb. 23, 2021]
+[64 FR 29520, June 1, 1999, as amended at 64 FR 36574, July 7, 1999; 65 FR 39819, June 28, 2000; 67 FR 38005, May 31, 2002; 71 FR 31090, June 1, 2006; 71 FR 46402, Aug. 14, 2006; 72 FR 33691, June 19, 2007; 74 FR 12556, Mar. 25, 2009, 74 FR 32807, July 9, 2009; 77 FR 18705, Mar. 28, 2012; 77 FR 18707, Mar. 28, 2012; 78 FR 71501, Nov. 29, 2013; 79 FR 15918, Mar. 24, 2014; 79 FR 24334, Apr. 30, 2014; 79 FR 68623, Nov. 18, 2014; 81 FR 75707, Nov. 1, 2016; 82 FR 9008, Feb. 2, 2017; 82 FR 9356, Feb. 6, 2017; 82 FR 26853, June 12, 2017; 82 FR 29413, June 29, 2017; 82 FR 52223, Nov. 13, 2017; 83 FR 2547, Jan. 18, 2018; 83 FR 4146, Jan. 30, 2018; 83 FR 52153, Oct. 16, 2018; 83 FR 61549, Nov. 30, 2018; 83 FR 66628, Dec. 27, 2018; 84 FR 3697, Feb. 13, 2019; 84 FR 10684, Mar. 22, 2019; 84 FR 14255, Apr. 9, 2019; 84 FR 20273, May 9, 2019; 85 FR 9386, Feb. 19, 2020; 85 FR 37346, June 22, 2020; 86 FR 10825, Feb. 23, 2021; 86 FR 32641, June 22, 2021]

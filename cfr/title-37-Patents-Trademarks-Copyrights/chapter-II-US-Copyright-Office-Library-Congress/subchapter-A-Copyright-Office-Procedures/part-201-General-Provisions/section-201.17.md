@@ -1,7 +1,5 @@
 ##### § 201.17 Statements of Account covering compulsory licenses for secondary transmissions by cable systems. #####
 
-Link to an amendment published at 86 FR 32642, June 22, 2021.
-
 (a) *General.* This section prescribes rules pertaining to the deposit of Statements of Account and royalty fees in the Copyright Office as required by 17 U.S.C. 111(d)(1) in order for secondary transmissions of cable systems to be subject to compulsory licensing.
 
 (b) *Definitions.* (1) *Gross receipts* for the “basic service of providing secondary transmissions of primary broadcast transmitters” include the full amount of monthly (or other periodic) service fees for any and all services or tiers of services which include one or more secondary transmissions of television or radio broadcast signals, for additional set fees, and for converter fees. In no case shall gross receipts be less than the cost of obtaining the signals of primary broadcast transmitters for subsequent retransmission. All such gross receipts shall be aggregated and the distant signal equivalent (DSE) calculations shall be made against the aggregated amount. Gross receipts for secondary transmission services do not include installation (including connection, relocation, disconnection, or reconnection) fees, separate charges for security, alarm or facsimile services, charges for late payments, or charges for pay cable or other program origination services: *Provided* That, the origination services are not offered in combination with secondary transmission service for a single fee.
@@ -49,9 +47,9 @@ Thereafter, the Office will examine the Statement and fee for obvious errors or 
 
 (2) The forms prescribed by the Copyright Office are designated “Statement of Account for Secondary Transmissions By Cable Systems”:
 
-(i) Form SA1-2 - “Short Form” for use by cable systems whose semiannual gross receipts for secondary transmission total less than $527,600; and
+(i) Form SA1-2—“Short Form” for use by cable systems whose semiannual gross receipts for secondary transmission total less than $527,600; and
 
-(ii) Form SA3 - “Long Form” for use by cable systems whose semiannual gross receipts for secondary transmission total $527,600 or more.
+(ii) Form SA3—“Long Form” for use by cable systems whose semiannual gross receipts for secondary transmission total $527,600 or more.
 
 (e) *Contents.* Each Statement of Account shall contain the following information:
 
@@ -209,7 +207,7 @@ If the signals of that primary transmitter are carried on a part-time basis beca
 
 (5) For the purposes of computing DSE values, specialty primary television transmitters in the United States and all Canadian and Mexican primary television transmitters shall be assigned a value of one.
 
-(g) *Computation of copyright royalty fee: subscriber groups.* (1) If a cable system provides a secondary transmission of a primary transmitter to some, but not all, communities served by that cable system -
+(g) *Computation of copyright royalty fee: subscriber groups.* (1) If a cable system provides a secondary transmission of a primary transmitter to some, but not all, communities served by that cable system—
 
 (i) The gross receipts and the distant signal equivalent values for such secondary transmission shall be derived solely on the basis of the subscribers in those communities where the cable system provides such secondary transmission; and
 
@@ -297,15 +295,15 @@ If the signals of that primary transmitter are carried on a part-time basis beca
 
 (vii) Number of Statements of Account that the EFT covers;
 
-(viii) ID numbers assigned by the Licensing Division;
+(viii) ID numbers assigned by the Licensing Section;
 
 (ix) Legal name of the owner for each Statement of Account;
 
 (x) Identification of the first community served (city and state).
 
-(2) The remittance advice shall be attached to the Statement(s) of Account. In addition, a copy of the remittance advice shall be emailed or sent by facsimile to the Licensing Division.
+(2) The remittance advice shall be attached to the Statement(s) of Account. In addition, a copy of the remittance advice shall be emailed or sent by facsimile to the Licensing Section.
 
-(3) The Office may waive the requirement for payment by electronic funds transfer as set forth in paragraph (i)(1) of this section. To obtain a waiver, the remitter shall submit to the Licensing Division at least 60 days prior to the royalty fee due date a certified statement setting forth the reasons explaining why payment by an electronic funds transfer would be virtually impossible or, alternatively, why it would impose a financial or other hardship on the remitter. The certified statement must be signed by a duly authorized representative of the entity making the payment. A waiver shall cover only a single payment period. Failure to obtain a waiver may result in the remittance being returned to the remitter.
+(3) The Office may waive the requirement for payment by electronic funds transfer as set forth in paragraph (i)(1) of this section. To obtain a waiver, the remitter shall submit to the Licensing Section at least 60 days prior to the royalty fee due date a certified statement setting forth the reasons explaining why payment by an electronic funds transfer would be virtually impossible or, alternatively, why it would impose a financial or other hardship on the remitter. The certified statement must be signed by a duly authorized representative of the entity making the payment. A waiver shall cover only a single payment period. Failure to obtain a waiver may result in the remittance being returned to the remitter.
 
 (4) Royalty fee payments submitted as a result of late or amended filings shall include interest. Interest shall begin to accrue beginning on the first day after the close of the period for filing statements of account for all late payments and underpayments of royalties for the cable statutory license occurring within that accounting period. The accrual period shall end on the date the electronic payment submitted by a cable operator is received. The accrual period shall end on the date the electronic payment submitted by a satellite carrier is received by the Copyright Office. In cases where a waiver of the electronic funds transfer requirement is approved by the Copyright Office, and royalties payments are either late or underpaid, the accrual period shall end on the date the payment is postmarked. If the payment is not received by the Copyright Office within five business days of its date, then the accrual period shall end on the date of the actual receipt by the Copyright Office. Interest is not required to be paid on any royalty underpayment or late payment from a particular accounting period if the interest charge is less than or equal to five dollars.
 
@@ -319,7 +317,7 @@ If the signals of that primary transmitter are carried on a part-time basis beca
 
 (3) Corrections to Statements of Account will not be placed on record, supplemental royalty fee payments will not be received for deposit, and refunds will not be issued, where the information in the Statements of Account, the royalty fee calculations, or the payments were correct as of the date on which the accounting period ended, but changes (for example, addition or deletion of a distant signal) took place later.
 
-(4) Requests that corrections to a Statement of Account be placed on record, that fee payments be accepted, or requests for the issuance of refunds, shall be made only in the cases mentioned in paragraph (m)(2) of this section. Such requests shall be addressed to the Licensing Division of the Copyright Office, and shall meet the following conditions:
+(4) Requests that corrections to a Statement of Account be placed on record, that fee payments be accepted, or requests for the issuance of refunds, shall be made only in the cases mentioned in paragraph (m)(2) of this section. Such requests shall be addressed to the Licensing Section of the Copyright Office, and shall meet the following conditions:
 
 (i) The request must be in writing, must clearly identify its purpose, and, in the case of a request for a refund, must be received in the Copyright Office before the expiration of 60 days from the last day of the applicable Statement of Account filing period, or before the expiration of 60 days from the date of receipt at the Copyright Office of the royalty payment that is the subject of the request, whichever time period is longer. Telephone or similar unsigned requests that meet these conditions may be permitted, where a follow-up written request detailing the same information is received by the Copyright Office within fourteen days after the required sixty-day period.
 
@@ -337,7 +335,7 @@ If the signals of that primary transmitter are carried on a part-time basis beca
 
 (v) All requests submitted under this paragraph (m) must be signed by the cable system owner named in the Statement of Account, or the duly authorized agent of the owner, in accordance with paragraph (e)(14) of this section.
 
-(vi) A request for a refund is not necessary where the Licensing Division, during its examination of a Statement of Account or related document, discovers an error that has resulted in a royalty overpayment. In this case, the Licensing Division will forward the royalty refund to the cable system owner named in the Statement of Account without regard to the time limitations provided for in paragraph (m)(4)(i) of this section.
+(vi) A request for a refund is not necessary where the Licensing Section, during its examination of a Statement of Account or related document, discovers an error that has resulted in a royalty overpayment. In this case, the Licensing Section will forward the royalty refund to the cable system owner named in the Statement of Account without regard to the time limitations provided for in paragraph (m)(4)(i) of this section.
 
 (5) Following final processing, all requests submitted under this paragraph (m) will be filed with the original Statement of Account in the records of the Copyright Office. Nothing contained in this paragraph shall be considered to relieve cable systems from their full obligations under title 17 of the United States Code, and the filing of a correction or supplemental payment shall have only such effect as may be attributed to it by a court of competent jurisdiction.
 

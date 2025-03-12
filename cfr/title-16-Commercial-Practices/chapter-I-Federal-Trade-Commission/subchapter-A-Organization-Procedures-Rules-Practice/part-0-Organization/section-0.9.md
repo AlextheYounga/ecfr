@@ -1,5 +1,5 @@
 ##### § 0.9 Organization structure. #####
 
-The Federal Trade Commission comprises the following principal units: Office of the Executive Director; Office of the General Counsel; Office of the Secretary; Office of the Inspector General; Office of the Administrative Law Judges; Office of International Affairs; Bureau of Competition; Bureau of Consumer Protection; Bureau of Economics; and the Regional Offices.
+The Federal Trade Commission includes the following principal units: Office of the Executive Director; Office of the General Counsel; Office of the Secretary; Office of the Inspector General; Office of Administrative Law Judges; Bureau of Competition; Bureau of Consumer Protection; Bureau of Economics; and Office of International Affairs.
 
-[72 FR 9434, Mar. 2, 2007]
+[86 FR 38546, July 22, 2021]

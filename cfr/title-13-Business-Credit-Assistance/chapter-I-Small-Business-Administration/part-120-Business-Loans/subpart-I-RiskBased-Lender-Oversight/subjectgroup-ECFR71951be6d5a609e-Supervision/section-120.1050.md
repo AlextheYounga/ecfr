@@ -28,4 +28,4 @@
 
 (d) *Other reviews or examinations.* SBA may perform other reviews/examinations as needed as determined by SBA in its discretion.
 
-[73 FR 75519, Dec. 11, 2008, as amended at 82 FR 39504, Aug. 21, 2017, as amended at 85 FR 14781, Mar. 16, 2020]
+[73 FR 75519, Dec. 11, 2008, as amended at 82 FR 39504, Aug. 21, 2017; 85 FR 14781, Mar. 16, 2020]

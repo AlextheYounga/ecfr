@@ -1,7 +1,5 @@
 ##### § 201.29 Access to, and confidentiality of, Statements of Account, Verification Auditor's Reports, and other verification information filed in the Copyright Office for digital audio recording devices or media. #####
 
-Link to an amendment published at 86 FR 32642, June 22, 2021.
-
 (a) *General.* This section prescribes rules covering access to DART Statements of Account, including the Primary Auditor's Reports, filed under 17 U.S.C. 1003(c) and access to a Verifying Auditor's Report or other information that may be filed in the Office in a DART verification procedure as set out in § 201.30. It also prescribes rules to ensure confidential disclosure of these materials to appropriate parties.
 
 (b) *Definitions.* (1) *Access* includes inspection of and supervised making of notes on information contained in Statements of Account including Primary Auditor's Reports, Verification Auditor's Reports, and any other verification information.
@@ -30,7 +28,7 @@ Link to an amendment published at 86 FR 32642, June 22, 2021.
 
 (4) Staff of the Copyright Office or the Library of Congress who require access in the performance of their duties under title 17 U.S.C. 1001 *et seq.;*
 
-(e) *Requests for access.* An interested copyright party, manufacturing party, importing party, representative, or Verifying Auditor seeking access to any DART confidential material must complete and sign a “DART Access Form.” The requestor must submit a copy of the completed DART Access Form to the Licensing Specialist, Licensing Division. The form must be received in the Licensing Division at least five working days before the date an appointment is requested. The form may be faxed to the Licensing Division to expedite scheduling, but a copy of the form with the original signature must be filed with the Office.
+(e) *Requests for access.* An interested copyright party, manufacturing party, importing party, representative, or Verifying Auditor seeking access to any DART confidential material must complete and sign a “DART Access Form.” The requestor must submit a copy of the completed DART Access Form to the Licensing Specialist, Licensing Section. The form must be received in the Licensing Section at least five working days before the date an appointment is requested. The form may be faxed to the Licensing Section to expedite scheduling, but a copy of the form with the original signature must be filed with the Office.
 
 (1) A representative of an interested copyright party, a manufacturing party or an importing party shall submit an affidavit of his or her authority (e.g., in the form of a letter of authorization from the interested copyright party or the manufacturing or importing party).
 
@@ -62,4 +60,4 @@ Link to an amendment published at 86 FR 32642, June 22, 2021.
 
 (7) The actual signature of the party or the representative of the party requesting access certifying that the information will be held in confidence and used only for the purpose specified by the Audio Home Recording Act and these regulations.
 
-[60 FR 25998, May 16, 1995, as amended at 63 FR 30635, June 5, 1998; 64 FR 36575, July 7, 1999; 73 FR 37839, July 2, 2008; 78 FR 42874, July 18, 2013; 82 FR 9358, Feb. 6, 2017]
+[60 FR 25998, May 16, 1995, as amended at 63 FR 30635, June 5, 1998; 64 FR 36575, July 7, 1999; 73 FR 37839, July 2, 2008; 78 FR 42874, July 18, 2013; 82 FR 9358, Feb. 6, 2017; 86 FR 32642, June 22, 2021]

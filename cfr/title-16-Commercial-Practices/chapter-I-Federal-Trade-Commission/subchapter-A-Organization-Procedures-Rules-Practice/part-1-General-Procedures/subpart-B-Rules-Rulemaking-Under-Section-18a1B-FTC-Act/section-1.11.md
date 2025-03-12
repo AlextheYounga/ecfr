@@ -1,20 +1,24 @@
 ##### § 1.11 Commencement of a rulemaking proceeding. #####
 
-(a) *Initial notice.* A trade regulation rule proceeding shall commence with an initial notice of proposed rulemaking. Such notice shall be published in the Federal Register not sooner than 30 days after it has been submitted to the Committee on Commerce, Science, and Transportation of the Senate and to the Committee on Interstate and Foreign Commerce of the House of Representatives. The initial notice shall include:
+(a) *Notice of proposed rulemaking.* A trade regulation rule proceeding will commence with a notice of proposed rulemaking (NPRM). An NPRM will be published in the Federal Register not sooner than 30 days after it has been submitted to the Committee on Commerce, Science, and Transportation of the Senate and to the Committee on Energy and Commerce of the House of Representatives.
 
-(1) The text of the proposed rule including any alternatives which the Commission proposes to promulgate;
+(b) *Contents of NPRM.* The NPRM will include:
+
+(1) A statement containing, with particularity, the text of the proposed rule, including any alternatives, which the Commission proposes to promulgate;
 
 (2) Reference to the legal authority under which the rule is proposed;
 
-(3) A statement describing with particularity the reason for the proposed rule;
+(3) A statement describing the reason for the proposed rule;
 
-(4) An invitation to all interested persons to propose issues which meet the criteria of § 1.13(d)(1)(i) for consideration in accordance with § 1.13 (d)(5) and (d)(6);
+(4) An invitation to comment on the proposed rule, as provided in paragraph (d) of this section;
 
-(5) An invitation to all interested persons to comment on the proposed rule; and
+(5) A list of disputed issues of material fact designated by the Commission as necessary to be resolved, if any;
 
-(6) A statement of the manner in which the public may obtain copies of the preliminary regulatory analysis.
+(6) An explanation of the opportunity for an informal hearing and instructions for submissions relating to such a hearing, as provided in paragraph (e) of this section; and
 
-(b) *Preliminary regulatory analysis.* Except as otherwise provided by statute, the Commission shall, when commencing a rulemaking proceeding, issue a preliminary regulatory analysis which shall contain:
+(7) A statement of the manner in which the public may obtain copies of the preliminary regulatory analysis, if that analysis is not in the notice.
+
+(c) *Preliminary regulatory analysis.* Except as otherwise provided by statute, the Commission must, when commencing a rulemaking proceeding, issue a preliminary regulatory analysis, which must contain:
 
 (1) A concise statement of the need for, and the objectives of, the proposed rule;
 
@@ -24,4 +28,14 @@
 
 (4) The information required by the Regulatory Flexibility Act, 5 U.S.C. 601-612, and the Paperwork Reduction Act, 44 U.S.C. 3501-3520, if applicable.
 
-[46 FR 26288, May 12, 1981, as amended at 50 FR 53303, Dec. 31, 1985; 63 FR 36340, July 6, 1998]
+(d) *Written comments.* The Commission will accept written submissions of data, views, and arguments on all issues of fact, law, and policy. The Commission may in its discretion provide for a separate rebuttal period following the comment period. The subject matter of any rebuttal comments must be confined to subjects and issues identified by the Commission in its notice or by other interested persons in comments and must not introduce new issues into the record. The NPRM will establish deadlines for filing written comments and for filing rebuttal comments on the proposed rule.
+
+(e) *Opportunity for hearing.* The Commission will provide an opportunity for an informal hearing if an interested person requests to present their position orally or if the Commission in its discretion elects to hold an informal hearing. Any such request regarding an informal hearing must be submitted to the Commission no later than the close of the written comment period, including a rebuttal period, if any, and must include:
+
+(1) A request to make an oral submission, if desired;
+
+(2) A statement identifying the interested person's interests in the proceeding; and
+
+(3) Any proposals to add disputed issues of material fact beyond those identified in the notice.
+
+[86 FR 38548, July 22, 2021]

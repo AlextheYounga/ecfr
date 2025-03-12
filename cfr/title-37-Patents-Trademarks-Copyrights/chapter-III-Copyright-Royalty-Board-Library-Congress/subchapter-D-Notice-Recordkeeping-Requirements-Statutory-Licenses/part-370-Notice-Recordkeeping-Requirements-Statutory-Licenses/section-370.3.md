@@ -1,10 +1,8 @@
 ##### § 370.3 Reports of use of sound recordings under statutory license for preexisting subscription services. #####
 
-Link to an amendment published at 86 FR 32643, June 22, 2021.
-
 (a) *General.* This section prescribes the rules for the maintenance and delivery of reports of use for sound recordings under section 112(e) or section 114(d)(2) of title 17 of the United States Code, or both, by preexisting subscription services.
 
-(b) *Delivery.* Reports of Use shall be delivered to Collectives that are identified in the records of the Licensing Division of the Copyright Office as having been designated by determination of the Copyright Royalty Judges. Reports of Use shall be delivered on or before the forty-fifth day after the close of each month.
+(b) *Delivery.* Reports of Use shall be delivered to Collectives that are identified in the records of the Licensing Section of the Copyright Office as having been designated by determination of the Copyright Royalty Judges. Reports of Use shall be delivered on or before the forty-fifth day after the close of each month.
 
 (c) *Posting.* In the event that no Collective is designated under the statutory license, or if all designated Collectives have terminated collection and distribution operations, a preexisting subscription service transmitting sound recordings under statutory license shall post and make available online its Reports of Use. Preexisting subscription services shall post their Reports of Use online on or before the forty-fifth day after the close of each month, and continue to make them available thereafter to all sound recording copyright owners for a period of 90 days. Preexisting subscription services may require use of passwords for access to posted Reports of Use, but must make passwords available in a timely manner and free of charge or other restrictions. Preexisting subscription services may predicate provision of a password upon:
 
@@ -60,4 +58,4 @@ Link to an amendment published at 86 FR 32643, June 22, 2021.
 
 (i) In any case in which a preexisting subscription service has not provided a report of use required under this section for use of sound recordings under section 112(e) or section 114 of title 17 of the United States Code, or both, prior to January 1, 2010, reports of use for the corresponding calendar year filed by other preexisting subscription services shall serve as the reports of use for the non-reporting service, solely for purposes of distribution of any corresponding royalties by the Collective.
 
-[74 FR 52423, Oct. 13, 2009, as amended at 76 FR 45696, Aug. 1, 2011]
+[74 FR 52423, Oct. 13, 2009, as amended at 76 FR 45696, Aug. 1, 2011; 86 FR 32643, June 22, 2021]

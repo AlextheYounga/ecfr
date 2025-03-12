@@ -12,7 +12,7 @@
 
 (iv) The school meets the statutory definition of “elementary school” or “secondary school” as defined in § 54.1700, does not operate as for-profit businesses, and does not have endowments exceeding $50 million.
 
-(v) The library or library consortia eligible for assistance from a State library administrative agency under the Library Services and Technology Act of 1996, does not operate as for-profit businesses, and their budgets are completely separate from any school (including, but not limited to, elementary and secondary schools, colleges, and universities).
+(v) The library or library consortia eligible is for assistance from a State library administrative agency under the Library Services and Technology Act, does not operate as for-profit businesses, and their budgets are completely separate from any school (including, but not limited to, elementary and secondary schools, colleges, and universities).
 
 (vi) The school, library, or consortia listed on the FCC Form 471 application has complied with all applicable state, local, or Tribal local laws regarding procurement of services for which support is being sought.
 
@@ -22,9 +22,9 @@
 
 (ix) The school, library, or consortia is not seeking Emergency Connectivity Fund support or reimbursement for eligible equipment or services that have been purchased and reimbursed in full with other Federal pandemic-relief funding, targeted state funding, other external sources of targeted funding or targeted gifts, or eligible for discounts from the schools and libraries universal service support mechanism or other universal service support mechanism.
 
-(x) The applicant or the relevant student, school staff member, or library patron has received the equipment and services for which funding is sought.
+(x) The applicant or the relevant student, school staff member, or library patron has received, or the applicant has ordered the equipment and services for which funding is sought.
 
-(xi) The equipment and services the school, library, or consortium purchases using Emergency Connectivity Fund support will be used primarily for educational purposes and will not be sold, resold, or transferred in consideration for money or any other thing of value, except as allowed by § 54.1713.
+(xi) The equipment and services the school, library, or consortium purchases or will purchase using Emergency Connectivity Fund support will be used primarily for educational purposes and will not be sold, resold, or transferred in consideration for money or any other thing of value, except as allowed by § 54.1713.
 
 (xii) The school, library, or consortium will create and maintain an equipment and service inventory as required by § 54.1715.
 
@@ -49,3 +49,5 @@
 (3) In the event that an equipment or service substitution results in a change in the amount of support, support shall be based on the lower of either the price for the equipment or service for which support was originally requested or the price of the new, substituted equipment or service. Reimbursement for substitutions shall only be provided after the Administrator has approved a written request for substitution.
 
 (c) *Mixed eligibility equipment and services.* If equipment or service includes both ineligible and eligible components, the applicant must remove the cost of the ineligible components of the equipment or service from the request for funding submitted to the Administrator.
+
+[86 FR 29158, May 28, 2021, as amended at 86 FR 38570, July 22, 2021]

@@ -1,7 +1,5 @@
 ##### § 202.23 Full term retention of copyright deposits. #####
 
-Link to an amendment published at 86 FR 32642, June 22, 2021.
-
 (a) *General.* (1) This section prescribes conditions under which a request for full term retention, under the control of the Copyright Office, of copyright deposits (copies, phonorecords, or identifying material) of published works may be made and granted or denied pursuant to section 704(e) of title 17 of the United States Code. Only copies, phonorecords, or identifying material deposited in connection with registration of a claim to copyright under title 17 of the United States Code are within the provisions of this section. Only the depositor or the copyright owner of record of the work identified by the copyright deposit, or a duly authorized agent of the depositor or copyright owner, may request full term retention. A fee for this service is fixed by this section pursuant to section 708(a) of title 17 of the United States Code.
 
 (2) For purposes of this section, *under the control of the Copyright Office* shall mean within the confines of Copyright Office buildings and under the control of Copyright Office employees, including retention in a Federal records center, but does not include transfer to the Library of Congress collections.
@@ -12,7 +10,7 @@ Link to an amendment published at 86 FR 32642, June 22, 2021.
 
 (b) *Form and content of request for full term retention* - (1) *Forms.* The Copyright Office does not provide printed forms for the use of persons requesting full term retention of copyright deposits.
 
-(2) Requests for full term retention must be made in writing addressed to the Director of the Office of Public Records and Repositories in the manner prescribed specified in § 201.1(b)(1) of this chapter, and shall include a legally binding signature, including an electronic signature as defined in 15 U.S.C. 7006, of or on behalf of the depositor or copyright owner of record, and clearly indicate that full term retention is desired.
+(2) Requests for full term retention must be made in writing addressed to the Director of the Office of Copyright Records in the manner prescribed specified in § 201.1(b)(1) of this chapter, and shall include a legally binding signature, including an electronic signature as defined in 15 U.S.C. 7006, of or on behalf of the depositor or copyright owner of record, and clearly indicate that full term retention is desired.
 
 (3) The request for full term retention must adequately identify the particular copyright deposit to be retained, preferably by including the title used in the registration application, the name of the depositor or copyright owner of record, the publication date, and, if registration was completed earlier, the registration number.
 
@@ -48,4 +46,4 @@ Link to an amendment published at 86 FR 32642, June 22, 2021.
 
 (g) *Termination of full term storage.* Full term storage will cease 75 years after the date of publication of the work identified by the copyright deposit retained, and the copyright deposit will be disposed of in accordance with section 704, paragraphs (b) through (d), of title 17 of the United States Code.
 
-[52 FR 28822, Aug. 4, 1987, as amended at 60 FR 34168, June 30, 1995; 63 FR 29139, May 28, 1998; 64 FR 29522, June 1, 1999; 64 FR 36575, July 7, 1999; 65 FR 39819, June 28, 2000; 73 FR 37839, July 2, 2008; 82 FR 9362, Feb. 6, 2017; 85 FR 19668, Apr. 8, 2020]
+[52 FR 28822, Aug. 4, 1987, as amended at 60 FR 34168, June 30, 1995; 63 FR 29139, May 28, 1998; 64 FR 29522, June 1, 1999; 64 FR 36575, July 7, 1999; 65 FR 39819, June 28, 2000; 73 FR 37839, July 2, 2008; 82 FR 9362, Feb. 6, 2017; 85 FR 19668, Apr. 8, 2020; 86 FR 32642, June 22, 2021]

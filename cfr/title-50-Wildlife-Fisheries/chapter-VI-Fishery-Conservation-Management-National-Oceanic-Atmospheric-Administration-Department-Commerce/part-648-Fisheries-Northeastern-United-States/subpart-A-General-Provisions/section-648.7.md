@@ -152,7 +152,7 @@
 
 (f) *Submitting reports* - (1) *Dealer or processor reports.* (i) Detailed reports required by paragraph (a)(1)(i) of this section must be received by midnight of the first Tuesday following the end of the reporting week. If no fish are purchased or received during a reporting week, the report so stating required under paragraph (a)(1)(i) of this section must be received by midnight of the first Tuesday following the end of the reporting week.
 
-(ii) [Reserved]
+(ii) From July 15 through December 31, dealer or processor reports documenting *Illex* squid landings greater than 10,000 pounds (4.5 mt) must be received with 48 hours of landing.
 
 (iii) Dealers who want to make corrections to their trip-level reports via the electronic editing features may do so for up to 3 business days following submission of the initial report. If a correction is needed more than 3 business days following the submission of the initial trip-level report, the dealer must contact NMFS directly to request an extension of time to make the correction.
 

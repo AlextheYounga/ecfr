@@ -99,7 +99,7 @@ In accordance with section 2 of the Basic Provisions (§ 457.8), the cancellatio
 
 6. Report of Acreage
 
-For contract seed beans only, in addition to the requirements of section 6 (Report of Acreage) of the Basic Provisions (§ 457.8), you must submit a copy of the seed bean processor contract on or before the acreage reporting date.
+For contract seed beans only, in addition to the requirements of section 6 of the Basic Provisions (§ 457.8), you must submit a copy of the seed bean processor contract on or before the acreage reporting date.
 
 7. Insured Crop
 

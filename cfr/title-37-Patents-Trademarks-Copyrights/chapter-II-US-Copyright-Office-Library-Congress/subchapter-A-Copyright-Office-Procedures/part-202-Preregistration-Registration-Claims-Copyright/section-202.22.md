@@ -1,7 +1,5 @@
 ##### § 202.22 Acquisition and deposit of unpublished audio and audiovisual transmission programs. #####
 
-Link to an amendment published at 86 FR 32642, June 22, 2021.
-
 (a) *General.* This section prescribes rules pertaining to the acquisition of phonorecords and copies of unpublished audio and audiovisual transmission programs by the Library of Congress under section 407(e) of title 17 of the United States Code, as amended. It also prescribes rules pertaining to the use of such phonorecords and copies in the registration of claims to copyright, under section 408(b).
 
 (b) *Definitions.* For purposes of this section:
@@ -72,7 +70,7 @@ Link to an amendment published at 86 FR 32642, June 22, 2021.
 
 (ii) Make adjustments in the scope of the demand; or
 
-(iii) Make adjustments in the method of fulfilling the demand. Any decision as to whether to allow such extension or adjustments shall be made by the Register of Copyrights after consultation with other appropriate officials of the Library of Congress and shall be made as reasonably warranted by the circumstances. Requests for special relief under paragraph (d) of this section shall be made in writing to the Copyright Acquisitions Division, shall be signed by or on behalf of the owner of the right of transmission in the United States and shall set forth the specific reasons why the request should be granted.
+(iii) Make adjustments in the method of fulfilling the demand. Any decision as to whether to allow such extension or adjustments shall be made by the Register of Copyrights after consultation with other appropriate officials of the Library of Congress and shall be made as reasonably warranted by the circumstances. Requests for special relief under paragraph (d) of this section shall be made in writing to Acquisitions and Deposits, shall be signed by or on behalf of the owner of the right of transmission in the United States and shall set forth the specific reasons why the request should be granted.
 
 (e) *Disposition and use of copies and phonorecords.* (1) All copies and phonorecords acquired under this section shall be maintained by the Motion Picture, Broadcasting and Recorded Sound Division of the Library of Congress. The Library may make one archival copy or phonorecord of a program which it has fixed under the provisions of section 407(e)(1) of title 17 of the United States Code and paragraph (c) of this section.
 
@@ -90,4 +88,4 @@ Link to an amendment published at 86 FR 32642, June 22, 2021.
 
 (2) Any such agreement may be terminated without notice by the Library of Congress.
 
-(17 U.S.C. 407, 408, 702)[48 FR 37208, Aug. 17, 1983, as amended at 56 FR 7815, Feb. 26, 1991; 60 FR 34168, June 30, 1995; 64 FR 36575, July 7, 1999; 66 FR 34373, June 28, 2001; 69 FR 62411, Oct. 26, 2004; 82 FR 9362, Feb. 6, 2017]
+(17 U.S.C. 407, 408, 702)[48 FR 37208, Aug. 17, 1983, as amended at 56 FR 7815, Feb. 26, 1991; 60 FR 34168, June 30, 1995; 64 FR 36575, July 7, 1999; 66 FR 34373, June 28, 2001; 69 FR 62411, Oct. 26, 2004; 82 FR 9362, Feb. 6, 2017; 86 FR 32642, June 22, 2021]

@@ -1,7 +1,5 @@
 ##### § 210.7 Annual statements of account. #####
 
-Link to an amendment published at 86 FR 32643, June 22, 2021.
-
 (a) *Forms.* The Copyright Office does not provide printed forms for the use of persons serving Annual Statements of Account.
 
 (b) *Annual period.* Any Annual Statement of Account shall cover the full fiscal year of the compulsory licensee.
@@ -26,7 +24,7 @@ Link to an amendment published at 86 FR 32643, June 22, 2021.
 
 (9) Any late fees, if applicable, included in any payment associated with the Annual Statement.
 
-(d) *Specific content of annual statements* - (1) *Accounting of phonorecords subject to a cents rate royalty structure.* The information called for by paragraph (c)(5) of this section shall, with respect to each nondramatic musical work as to which the compulsory licensee has made and distributed phonorecords subject to applicable provisions of part 385 of this title, or any other provisions, requiring computation of applicable royalties on a cents-per-unit basis, include a separate listing of each of the following items of information:
+(d) *Specific content of annual statements*—(1) *Accounting of phonorecords subject to a cents rate royalty structure.* The information called for by paragraph (c)(5) of this section shall, with respect to each nondramatic musical work as to which the compulsory licensee has made and distributed phonorecords subject to applicable provisions of part 385 of this title, or any other provisions, requiring computation of applicable royalties on a cents-per-unit basis, include a separate listing of each of the following items of information:
 
 (i) The number of phonorecords made through the end of the fiscal year covered by the Annual Statement, including any made during earlier years.
 
@@ -130,7 +128,7 @@ Link to an amendment published at 86 FR 32643, June 22, 2021.
 
 (4) In any case where the amount required to be stated in the Annual Statement of Account under paragraph (c)(6) of this section (*i.e.,* the total royalty payable) is greater than the amount stated in that Annual Statement under paragraph (c)(7) of this section (*i.e.,* the total sum paid), the difference between such amounts shall also be served on or before the 20th day of the sixth month following the end of the fiscal year covered by the Annual Statement. The Annual Statement and payment may be sent together or separately, but if sent separately, the payment must include information reasonably sufficient to allow the payee to match the Annual Statement and the payment. The delivery of such sum does not require the copyright owner to accept such sum, or to forego any right, relief, or remedy which may be available under law. In any case where the amount required to be stated in the Annual Statement of Account under paragraph (c)(6) of this section is less than the amount stated in that Annual Statement under paragraph (c)(7) of this section, the difference between such amounts shall be available to the compulsory licensee as a credit.
 
-(5)(i) In any case where an Annual Statement of Account is sent by mail or by reputable courier service and is returned to the sender because the copyright owner or agent is no longer located at that address or has refused to accept delivery, or the Annual Statement of Account is sent by electronic mail and is undeliverable, or in any case where an address for the copyright owner is not known, the Annual Statement of Account, together with any evidence of mailing or attempted delivery by courier service or electronic mail, may be filed in the Licensing Division of the Copyright Office. Any Annual Statement of Account submitted for filing shall be accompanied by a brief statement of the reason why it was not served on the copyright owner. A written acknowledgment of receipt and filing will be provided to the sender.
+(5)(i) In any case where an Annual Statement of Account is sent by mail or by reputable courier service and is returned to the sender because the copyright owner or agent is no longer located at that address or has refused to accept delivery, or the Annual Statement of Account is sent by electronic mail and is undeliverable, or in any case where an address for the copyright owner is not known, the Annual Statement of Account, together with any evidence of mailing or attempted delivery by courier service or electronic mail, may be filed in the Licensing Section of the Copyright Office. Any Annual Statement of Account submitted for filing shall be accompanied by a brief statement of the reason why it was not served on the copyright owner. A written acknowledgment of receipt and filing will be provided to the sender.
 
 (ii) The Copyright Office will not accept any royalty fees submitted with Annual Statements of Account under paragraph (g)(5)(i) of this section.
 
@@ -142,4 +140,4 @@ Link to an amendment published at 86 FR 32643, June 22, 2021.
 
 (h) *Annual Statements for periods before the effective date of this regulation.* If a copyright owner did not receive an Annual Statement of Account from a compulsory licensee for any fiscal year ending after March 1, 2009 and before November 17, 2014, the copyright owner may, at any time before May 17, 2015, make a request in writing to that compulsory licensee requesting an Annual Statement of Account for the relevant fiscal year conforming to the requirements of this section. If such a request is made, the compulsory licensee shall provide the Annual Statement of Account within six months after receiving the request. If such a circumstance and request applies to more than one of the compulsory licensee's fiscal years, such years may be combined on a single statement.
 
-[79 FR 56206, Sept. 18, 2014, as amended at 79 FR 60978, Oct. 9, 2014; 82 FR 9365, Feb. 6, 2017; 84 FR 10686, Mar. 22, 2019. Redesignated at 85 FR 58143, Sept. 17, 2020]
+[79 FR 56206, Sept. 18, 2014, as amended at 79 FR 60978, Oct. 9, 2014; 82 FR 9365, Feb. 6, 2017; 84 FR 10686, Mar. 22, 2019. Redesignated at 85 FR 58143, Sept. 17, 2020; 86 FR 32643, June 22, 2021]

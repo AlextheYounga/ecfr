@@ -1,7 +1,5 @@
 ##### § 370.4 Reports of use of sound recordings under statutory license for nonsubscription transmission services, preexisting satellite digital audio radio services, new subscription services and business establishment services. #####
 
-Link to an amendment published at 86 FR 32643, June 22, 2021.
-
 (a) *General.* This section prescribes rules for the maintenance and delivery of Reports of Use of sound recordings under section 112(e) or section 114 of title 17 of the United States Code, or both, by nonsubscription transmission services, preexisting satellite digital audio radio services, new subscription services, and business establishment services.
 
 (b) *Definitions.* For purposes of this section, the following definitions apply:
@@ -46,7 +44,7 @@ Link to an amendment published at 86 FR 32643, June 22, 2021.
 
 *Play frequency* means the number of times a sound recording is publicly performed by a Service during the relevant period, without respect to the number of listeners receiving the sound recording. If a particular sound recording is transmitted to listeners on a particular channel or program only once during the reporting period, then the play frequency is one. If the sound recording is transmitted 10 times during the reporting period, then the play frequency is 10.
 
-(c) *Delivery.* Reports of Use shall be delivered to Collectives that are identified in the records of the Licensing Division of the Copyright Office as having been designated by determination of the Copyright Royalty Judges. Reports of Use shall be delivered on or before the forty-fifth day after the close of each reporting period identified in paragraph (d)(3) of this section.
+(c) *Delivery.* Reports of Use shall be delivered to Collectives that are identified in the records of the Licensing Section of the Copyright Office as having been designated by determination of the Copyright Royalty Judges. Reports of Use shall be delivered on or before the forty-fifth day after the close of each reporting period identified in paragraph (d)(3) of this section.
 
 (d) *Report of Use.* (1) *Separate reports not required.* A nonsubscription transmission service, preexisting satellite digital audio radio service or a new subscription service that transmits sound recordings pursuant to the statutory license set forth in section 114(d)(2) of title 17 of the United States Code and makes ephemeral phonorecords of sound recordings pursuant to the statutory license set forth in section 112(e) of title 17 of the United States Code need not maintain a separate Report of Use for each statutory license during the relevant reporting periods.
 
@@ -206,4 +204,4 @@ Link to an amendment published at 86 FR 32643, June 22, 2021.
 
 (f) In any case in which a nonsubscription transmission service, preexisting satellite digital audio radio service, new subscription service, or business establishment service has not provided a report of use required under this section for use of sound recordings under section 112(e) or section 114 of title 17 of the United States Code, or both, prior to January 1, 2010, reports of use for the corresponding calendar year filed by other services of the same type shall serve as the reports of use for the non-reporting service, solely for purposes of distribution of any corresponding royalties by the Collective.
 
-[74 FR 52423, Oct. 13, 2009, as amended at 76 FR 45696, Aug. 1, 2011; 81 FR 31510, May 19, 2016; 81 FR 40190, June 21, 2016; 81 FR 89868, Dec. 13, 2016; 84 FR 32312, July 8, 2019]
+[74 FR 52423, Oct. 13, 2009, as amended at 76 FR 45696, Aug. 1, 2011; 81 FR 31510, May 19, 2016; 81 FR 40190, June 21, 2016; 81 FR 89868, Dec. 13, 2016; 84 FR 32312, July 8, 2019; 86 FR 32643, June 22, 2021]

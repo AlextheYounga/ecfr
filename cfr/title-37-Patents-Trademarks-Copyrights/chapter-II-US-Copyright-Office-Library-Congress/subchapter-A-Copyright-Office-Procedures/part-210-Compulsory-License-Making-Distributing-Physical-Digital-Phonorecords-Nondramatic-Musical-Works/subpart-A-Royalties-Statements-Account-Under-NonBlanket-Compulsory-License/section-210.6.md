@@ -1,7 +1,5 @@
 ##### § 210.6 Monthly statements of account. #####
 
-Link to an amendment published at 86 FR 32643, June 22, 2021.
-
 (a) *Forms.* The Copyright Office does not provide printed forms for the use of persons serving Monthly Statements of Account.
 
 (b) *General content.* A Monthly Statement of Account shall be clearly and prominently identified as a “Monthly Statement of Account Under Compulsory License for Making and Distributing Phonorecords,” and shall include a clear statement of the following information:
@@ -23,7 +21,7 @@ Link to an amendment published at 86 FR 32643, June 22, 2021.
 (8) Detailed instructions on how to request records of any promotional or free trial uses of the copyright owner's works that are required to be maintained or provided under applicable provisions of part 385 of this title, or any other provisions, including, where applicable, records required to be maintained or provided by any third parties that were authorized by the compulsory licensee to engage in such uses during any part of the month.
 If this information is provided, Monthly Statements need not reflect phonorecords subject to any promotional or free trial royalty rate of zero that may be provided in part 385 of this title.
 
-(c) *Specific content of monthly statements* - (1) *Accounting of phonorecords subject to a cents rate royalty structure.* The information called for by paragraph (b)(4) of this section shall, with respect to each nondramatic musical work as to which the compulsory licensee has made and distributed phonorecords subject to applicable provisions of part 385 of this title, or any other provisions, requiring computation of applicable royalties on a cents-per-unit basis, include a separate listing of each of the following items of information:
+(c) *Specific content of monthly statements*—(1) *Accounting of phonorecords subject to a cents rate royalty structure.* The information called for by paragraph (b)(4) of this section shall, with respect to each nondramatic musical work as to which the compulsory licensee has made and distributed phonorecords subject to applicable provisions of part 385 of this title, or any other provisions, requiring computation of applicable royalties on a cents-per-unit basis, include a separate listing of each of the following items of information:
 
 (i) The number of phonorecords made during the month covered by the Monthly Statement.
 
@@ -81,7 +79,7 @@ If this information is provided, Monthly Statements need not reflect phonorecord
 
 (ix) Identification of the relevant phonorecord configuration (for example: compact disc, permanent digital download, ringtone) or offering (for example: limited download, music bundle) for which the royalty was calculated, including, if applicable and except for physical phonorecords, the name of the third-party distributor of the configuration or offering.
 
-(d) *Royalty payment and accounting* - (1) *In general.* The total royalty called for by paragraph (b)(5) of this section shall be computed so as to include every phonorecord “distributed” during the month covered by the Monthly Statement.
+(d) *Royalty payment and accounting*—(1) *In general.* The total royalty called for by paragraph (b)(5) of this section shall be computed so as to include every phonorecord “distributed” during the month covered by the Monthly Statement.
 
 (2) *Phonorecords subject to a cents rate royalty structure.* For phonorecords subject to applicable provisions of part 385 of this title, or any other provisions, requiring computation of applicable royalties on a cents-per-unit basis, the amount of the royalty payment shall be calculated as follows:
 
@@ -141,7 +139,7 @@ If this information is provided, Monthly Statements need not reflect phonorecord
 
 (3) When a compulsory licensee receives a request to deliver or make available Monthly Statements of Account in electronic form, or a request to revert back to service by mail or reputable courier service, the compulsory licensee shall make such a change effective with the first accounting period ending at least 30 days after the compulsory licensee's receipt of the request and any information (such as a postal or email address, as the case may be) that is necessary for the compulsory licensee to make the change.
 
-(4)(i) In any case where a Monthly Statement of Account is sent by mail or reputable courier service and the Monthly Statement of Account is returned to the sender because the copyright owner or agent is no longer located at that address or has refused to accept delivery, or the Monthly Statement of Account is sent by electronic mail and is undeliverable, or in any case where an address for the copyright owner is not known, the Monthly Statement of Account, together with any evidence of mailing or attempted delivery by courier service or electronic mail, may be filed in the Licensing Division of the Copyright Office. Any Monthly Statement of Account submitted for filing in the Copyright Office shall be accompanied by a brief statement of the reason why it was not served on the copyright owner. A written acknowledgment of receipt and filing will be provided to the sender.
+(4)(i) In any case where a Monthly Statement of Account is sent by mail or reputable courier service and the Monthly Statement of Account is returned to the sender because the copyright owner or agent is no longer located at that address or has refused to accept delivery, or the Monthly Statement of Account is sent by electronic mail and is undeliverable, or in any case where an address for the copyright owner is not known, the Monthly Statement of Account, together with any evidence of mailing or attempted delivery by courier service or electronic mail, may be filed in the Licensing Section of the Copyright Office. Any Monthly Statement of Account submitted for filing in the Copyright Office shall be accompanied by a brief statement of the reason why it was not served on the copyright owner. A written acknowledgment of receipt and filing will be provided to the sender.
 
 (ii) The Copyright Office will not accept any royalty fees submitted with Monthly Statements of Account under this section.
 
@@ -157,4 +155,4 @@ If this information is provided, Monthly Statements need not reflect phonorecord
 
 (8) If a Monthly Statement of Account is sent by certified mail or registered mail, a mailing receipt shall be sufficient to prove that service was timely. If a Monthly Statement of Account is sent by a reputable courier, documentation from the courier showing the first date of attempted delivery shall be sufficient to prove that service was timely. If a Monthly Statement of Account or a link thereto is sent by electronic mail, a return receipt shall be sufficient to prove that service was timely. In the absence of the foregoing, the compulsory licensee shall bear the burden of proving that the Monthly Statement of Account was served in a timely manner.
 
-[79 FR 56206, Sept. 18, 2014, as amended at 79 FR 60978, Oct. 9, 2014; 83 FR 63065, Dec. 7, 2018; 84 FR 10686, Mar. 22, 2019. Redesignated at 85 FR 58143, Sept. 17, 2020]
+[79 FR 56206, Sept. 18, 2014, as amended at 79 FR 60978, Oct. 9, 2014; 83 FR 63065, Dec. 7, 2018; 84 FR 10686, Mar. 22, 2019. Redesignated at 85 FR 58143, Sept. 17, 2020; 86 FR 32643, June 22, 2021]

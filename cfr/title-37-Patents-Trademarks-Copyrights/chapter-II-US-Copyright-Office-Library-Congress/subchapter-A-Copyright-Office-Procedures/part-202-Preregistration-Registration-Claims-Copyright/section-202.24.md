@@ -1,7 +1,5 @@
 ##### § 202.24 Deposit of published electronic works available only online. #####
 
-Link to an amendment published at 86 FR 32642, June 22, 2021.
-
 (a) Pursuant to authority under 17 U.S.C. 407(d), the Register of Copyrights may make written demand to deposit one complete copy or a phonorecord of an electronic work published in the United States and available only online upon the owner of copyright or of the exclusive right of publication in the work, under the following conditions:
 
 (1) Demands may be made only for works in those categories identified in § 202.19(c)(5) as being subject to demand.
@@ -32,6 +30,6 @@ Link to an amendment published at 86 FR 32642, June 22, 2021.
 
 (2) Any decision as to whether to grant such special relief, and the conditions under which special relief is to be granted, shall be made by the Register of Copyrights after consultation with other appropriate officials of the Library of Congress, and shall be based upon the acquisition policies of the Library of Congress then in force.
 
-(3) Requests for special relief under this section shall be made in writing to the Copyright Acquisitions Division, shall be signed by or on behalf of the owner of copyright or of the exclusive right of publication in the work, and shall set forth specific reasons why the request should be granted.
+(3) Requests for special relief under this section shall be made in writing to Acquisitions and Deposits, shall be signed by or on behalf of the owner of copyright or of the exclusive right of publication in the work, and shall set forth specific reasons why the request should be granted.
 
-[75 FR 3869, Jan. 25, 2010, as amended at 82 FR 9362, Feb. 6, 2017; 85 FR 71837, Nov. 12, 2020]
+[75 FR 3869, Jan. 25, 2010, as amended at 82 FR 9362, Feb. 6, 2017; 85 FR 71837, Nov. 12, 2020; 86 FR 32642, June 22, 2021]

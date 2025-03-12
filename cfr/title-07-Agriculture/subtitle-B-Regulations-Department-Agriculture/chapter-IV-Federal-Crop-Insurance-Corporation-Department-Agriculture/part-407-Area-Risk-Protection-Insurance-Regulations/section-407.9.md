@@ -1026,7 +1026,7 @@ Unless specified otherwise in the Crop Provisions, coverage begins at the later 
 
 (e) The final county yield determined by FCIC is considered final for the purposes of establishing whether an indemnity is due and will not be revised for any reason.
 
-(f) Yields used under this insurance program for a crop may be based on crop insurance data, other USDA data, or other data sources, if elected by FCIC
+(f) Yields used under this insurance program for a crop may be based on crop insurance data, other USDA data, or other data sources, if elected by FCIC.
 
 16. Assignment of Indemnity
 

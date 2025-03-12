@@ -1,6 +1,6 @@
 ##### § 126.616 What requirements must a joint venture satisfy to submit an offer and be eligible to perform on a HUBZone contract? #####
 
-(a) *General.* A certified HUBZone small business concern may enter into a joint venture agreement with one or more other small business concerns, or with an approved mentor authorized by § 125.9 of this chapter , for the purpose of submitting an offer for a HUBZone contract. The joint venture itself need not be a certified HUBZone small business concern.
+(a) *General.* A certified HUBZone small business concern may enter into a joint venture agreement with one or more other small business concerns, or with an approved mentor authorized by § 125.9 of this chapter, for the purpose of submitting an offer for a HUBZone contract. The joint venture itself need not be a certified HUBZone small business concern.
 
 (b) *Size.* (1) A joint venture of at least one certified HUBZone small business concern and one or more other business concerns may submit an offer as a small business for a HUBZone procurement or sale so long as each concern is small under the size standard corresponding to the NAICS code assigned to the procurement or sale.
 
@@ -46,7 +46,7 @@
 
 (ii) The amount of work done by the partners will be aggregated and the work done by the certified HUBZone small business concern partner must be at least 40% of the total done by the partners. In determining the amount of work done by a mentor participating in a joint venture with a HUBZone qualified protégé, all work done by the mentor and any of its affiliates at any subcontracting tier will be counted.
 
-(e) *Certification of compliance* - (1) *At time of offer.* If submitting an offer as a joint venture for a HUBZone contract, at the time of initial offer (and if applicable, final offer), each certified HUBZone small business concern joint venture partner must make the following certifications to the contracting officer separately under its own name:
+(e) *Certification of compliance*—(1) *At time of offer.* If submitting an offer as a joint venture for a HUBZone contract, at the time of initial offer (and if applicable, final offer), each certified HUBZone small business concern joint venture partner must make the following certifications to the contracting officer separately under its own name:
 
 (i) It is a certified HUBZone small business concern that appears in DSBS (or successor system) as a certified HUBZone small business concern and it met the eligibility requirements in § 126.200 at the time of its initial certification or, if applicable, at the time of its most recent recertification;
 
