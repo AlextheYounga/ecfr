@@ -1,8 +1,6 @@
 ##### § 381.4 Performance of musical compositions by PBS, NPR and other public broadcasting entities engaged in the activities set forth in 17 U.S.C. 118(c). #####
 
-The following schedule of rates and terms shall apply to the performance by PBS, NPR and other public broadcasting entities engaged in activities set forth in 17 U.S.C. 118(c) of copyrighted published nondramatic musical compositions, except for public broadcasting entities covered by §§ 381.5 and 381.6, and except for compositions which are the subject of voluntary license agreements.
-
-(a) *Determination of royalty rate.*
+(a) *Determination of royalty rate.* The following rates and terms shall apply to the performance by PBS, NPR and other public broadcasting entities engaged in activities set forth in 17 U.S.C. 118(c) of copyrighted published nondramatic musical compositions, except for public broadcasting entities covered by §§ 381.5 and 381.6, and except for compositions which are the subject of voluntary license agreements: The royalty shall be $1.
 
 |                 (1) For performance of such work in a feature presentation of PBS:                  |       |
 |:----------------------------------------------------------------------------------------------------|------:|
@@ -28,8 +26,6 @@ The following schedule of rates and terms shall apply to the performance by PBS,
 
 (b) *Payment of royalty rate.* The required royalty rate shall be paid to each known copyright owner not later than July 31 of each calendar year for uses during the first six months of that calendar year, and not later than January 31 for uses during the last six months of the preceding calendar year.
 
-(c) *Records of use.* PBS and NPR shall, upon the request of a copyright owner of a published musical work who believes a musical composition of such owner has been performed under the terms of this schedule, permit such copyright owner a reasonable opportunity to examine their standard cue sheets listing the nondramatic performances of musical compositions on PBS and NPR programs. Any local PBS and NPR station that shall be required by the provisions of any voluntary license agreement with ASCAP, BMI or SESAC covering the license period January 1, 2013, to December 31, 2017, to provide a music use report shall, upon request of a copyright owner who believes a musical composition of such owner has been performed under the terms of this schedule, permit such copyright owner to examine the report.
+(c) *Records of use.* PBS and NPR shall, upon the request of a copyright owner of a published musical work who believes a musical composition of such owner has been performed under the terms of this schedule, permit such copyright owner a reasonable opportunity to examine their standard cue sheets listing the nondramatic performances of musical compositions on PBS and NPR programs. Any local PBS and NPR station that shall be required by the provisions of any voluntary license agreement with ASCAP, BMI or SESAC covering the license period January 1, 2018, to December 31, 2022, to provide a music use report shall, upon request of a copyright owner who believes a musical composition of such owner has been performed under the terms of this schedule, permit such copyright owner to examine the report.
 
-(d) *Terms of use.* The fees provided in this schedule for the performance of a musical work in a program shall cover performances of such work in such program for a period of four years following the first performance.
-
-[72 FR 67647, Nov. 30, 2007, as amended at 77 FR 71105, Nov. 29, 2012]
+[72 FR 67647, Nov. 30, 2007, as amended at 77 FR 71105, Nov. 29, 2012; 83 FR 2740, Jan. 19, 2018]
