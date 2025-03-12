@@ -1,6 +1,6 @@
 ##### § 723.7 Prohibited activities. #####
 
-Link to an amendment published at 80 FR 66723, Oct. 29, 2015.
+Link to an amendment published at 80 FR 66723, Oct. 29, 2015.This amendment was delayed until Jan. 1, 2020, at 83 FR 55467, Nov. 6, 2018.
 
 (a) *Ineligible borrowers.* A federally insured credit union may not grant a commercial loan to the following:
 

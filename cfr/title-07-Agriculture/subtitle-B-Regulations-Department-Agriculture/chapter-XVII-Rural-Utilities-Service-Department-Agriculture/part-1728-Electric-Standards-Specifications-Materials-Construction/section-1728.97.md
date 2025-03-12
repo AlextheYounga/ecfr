@@ -50,7 +50,7 @@ The materials listed below are incorporated by reference in the corresponding se
 
 (23) Bulletin 1728F-804 (D-804), Specification and Drawings for 12.47/7.2 kV Line Construction, October 2005, incorporation approved for § 1728.98.
 
-(24) Bulletin 1728F-806 (D-806), Specifications and Drawings for Underground Electric Distribution, June 2000, incorporation approved for § 1728.98.
+(24) Bulletin 1728F-806 (D-806) Specifications and Drawings for Underground Electric Distribution, October 11, 2018, incorporation approved for § 1728.98.
 
 (25) Bulletin 1728F-810, Electric Transmission Specifications and Drawings, 34.5 kV to 69 kV (3-98), incorporation approved for §§ 1728.98 and 1728.201.
 
@@ -150,4 +150,4 @@ The materials listed below are incorporated by reference in the corresponding se
 
 (2) [Reserved]
 
-[76 FR 36963, June 24, 2011, as amended at 77 FR 19528, Apr. 2, 2012]
+[76 FR 36963, June 24, 2011, as amended at 77 FR 19528, Apr. 2, 2012; 83 FR 55467, Nov. 6, 2018]

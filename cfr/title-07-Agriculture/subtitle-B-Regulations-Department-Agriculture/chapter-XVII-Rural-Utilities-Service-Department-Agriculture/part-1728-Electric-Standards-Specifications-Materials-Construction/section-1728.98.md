@@ -48,7 +48,7 @@
 
 (23) Bulletin 1728F-804 (D-804), Specification and Drawings for 12.47/7.2 kV Line Construction, October 2005.
 
-(24) Bulletin 1728F-806 (D-806), Specifications and Drawings for Underground Electric Distribution, June 2000.
+(24) Bulletin 1728F-806 (D-806) Specifications and Drawings for Underground Electric Distribution), October 11, 2018.
 
 (25) Bulletin 1728F-810, Electric Transmission Specifications and Drawings, 34.5 kV to 69 kV (3-98).
 
@@ -56,4 +56,4 @@
 
 (b) The terms “RUS form”, “RUS standard form”, “RUS specification”, and “RUS bulletin” have the same meanings as the terms “REA form”, “REA standard form”, “REA specification”, and “REA bulletin”, respectively unless otherwise indicated.
 
-[76 FR 36964, June 24, 2011]
+[76 FR 36964, June 24, 2011, as amended at 83 FR 55467, Nov. 6, 2018]

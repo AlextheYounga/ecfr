@@ -1,6 +1,6 @@
 ##### § 747.2002 Review of orders imposing discretionary supervisory action. #####
 
-Link to an amendment published at 80 FR 66723, Oct. 29, 2015.
+Link to an amendment published at 80 FR 66723, Oct. 29, 2015.This amendment was delayed until Jan. 1, 2020, at 83 FR 55467, Nov. 6, 2018.
 
 (a) *Notice of intent to issue directive* - (1) *Generally.* Whenever the NCUA Board intends to issue a directive imposing a discretionary supervisory action under §§ 702.202(b), 702.203(b) and 702.204(b) of this chapter on a credit union classified “undercapitalized” or lower, or under § 702.304(b) or § 702.305(b) of this chapter on a new credit union classified “moderately capitalized” or lower, it must give the credit union prior notice of the proposed action and an opportunity to respond.
 

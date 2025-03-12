@@ -1,6 +1,6 @@
 ##### § 700.2 Definitions. #####
 
-Link to an amendment published at 80 FR 66706, Oct. 29, 2015.
+Link to an amendment published at 80 FR 66706, Oct. 29, 2015.This amendment was delayed until Jan. 1, 2020, at 83 FR 55467, Nov. 6, 2018.
 
 As used in this chapter:
 

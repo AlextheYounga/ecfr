@@ -1,6 +1,6 @@
 ##### § 702.2 Definitions. #####
 
-Link to an amendment published at 80 FR 66706, Oct. 29, 2015.
+Link to an amendment published at 80 FR 66706, Oct. 29, 2015.This amendment was delayed until Jan. 1, 2020, at 83 FR 55467, Nov. 6, 2018.
 
 Except as provided below, the terms used in this part have the same meanings as set forth in FCUA sections 101 and 216, 12 U.S.C. 1752, 1790d.
 

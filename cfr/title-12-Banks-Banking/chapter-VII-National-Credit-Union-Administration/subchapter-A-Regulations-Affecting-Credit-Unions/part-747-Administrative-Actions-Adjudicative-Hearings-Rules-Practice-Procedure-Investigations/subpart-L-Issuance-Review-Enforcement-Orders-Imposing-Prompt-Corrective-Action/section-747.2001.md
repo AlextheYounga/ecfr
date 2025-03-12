@@ -1,6 +1,6 @@
 ##### § 747.2001 Scope. #####
 
-Link to an amendment published at 80 FR 66723, Oct. 29, 2015.
+Link to an amendment published at 80 FR 66723, Oct. 29, 2015.This amendment was delayed until Jan. 1, 2020, at 83 FR 55467, Nov. 6, 2018.
 
 (a) *Independent review process.* The rules and procedures set forth in this subpart apply to federally-insured credit unions, whether federally- or state-chartered (other than corporate credit unions), which are subject to discretionary supervisory actions under part 702 of this chapter, and to reclassification under §§ 702.102(b) and 702.302(d) of this chapter, to facilitate prompt corrective action under section 216 of the Federal Credit Union Act, 12 U.S.C. 1790d; and to senior executive officers and directors of such credit unions who are dismissed pursuant to a discretionary supervisory action imposed under part 702. NCUA staff decisions to impose discretionary supervisory actions under part 702 shall be considered material supervisory determinations for purposes of 12 U.S.C. 1790d(k). Section 747.2002 of this subpart provides an independent appellate process to challenge such decisions.
 

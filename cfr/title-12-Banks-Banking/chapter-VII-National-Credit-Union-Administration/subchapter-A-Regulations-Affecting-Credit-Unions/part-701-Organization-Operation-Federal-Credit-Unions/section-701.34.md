@@ -1,6 +1,6 @@
 ##### § 701.34 Designation of low income status; Acceptance of secondary capital accounts by low-income designated credit unions. #####
 
-Link to an amendment published at 80 FR 66706, Oct. 29, 2015.
+Link to an amendment published at 80 FR 66706, Oct. 29, 2015.This amendment was delayed until Jan. 1, 2020, at 83 FR 55467, Nov. 6, 2018.
 
 (a) *Designation of low-income status.* (1) Based on data obtained through examinations, NCUA will notify a federal credit union that it qualifies for designation as a low-income credit union if a majority of its membership qualifies as low-income members. A federal credit union that wishes to receive the designation must notify NCUA in writing within 90 days of receipt of any NCUA notifications.
 

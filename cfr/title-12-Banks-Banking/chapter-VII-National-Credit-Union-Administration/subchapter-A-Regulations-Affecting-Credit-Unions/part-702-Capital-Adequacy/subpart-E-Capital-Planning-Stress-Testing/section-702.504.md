@@ -1,6 +1,6 @@
 ##### § 702.504 Capital planning. #####
 
-Link to an amendment published at 80 FR 66722, Oct. 29, 2015.
+Link to an amendment published at 80 FR 66722, Oct. 29, 2015.This amendment was delayed until Jan. 1, 2020, at 83 FR 55467, Nov. 6, 2018.
 
 (a) *Annual capital planning.* (1) A covered credit union must develop and maintain a capital plan. Tier I and tier II credit unions must complete this plan and their capital policy by December 31 each year, but are not required to submit this plan to the NCUA. For tier I and tier II credit unions, the plan must be based on the credit union's financial data from either of the two calendar quarters preceding the quarter in which the plan is approved by the credit union's board of directors (or a designated committee of the board). A tier III credit union must submit this plan and its capital policy to NCUA by May 31 each year, or such later date as directed by NCUA. For tier III credit unions, the plan must be based on the credit union's financial data as of December 31 of the preceding calendar year, or such other date as directed by NCUA.
 

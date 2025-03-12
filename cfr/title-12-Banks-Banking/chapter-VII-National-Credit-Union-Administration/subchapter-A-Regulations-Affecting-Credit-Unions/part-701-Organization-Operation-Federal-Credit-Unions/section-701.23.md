@@ -1,6 +1,6 @@
 ##### § 701.23 Purchase, sale, and pledge of eligible obligations. #####
 
-Link to an amendment published at 80 FR 66706, Oct. 29, 2015.
+Link to an amendment published at 80 FR 66706, Oct. 29, 2015.This amendment was delayed until Jan. 1, 2020, at 83 FR 55467, Nov. 6, 2018.
 
 This section governs a federal credit union's purchase, sale, or pledge of all or part of a loan to one of its own members, subject to a limited exception for certain well capitalized federal credit unions, where no continuing contractual obligation between the seller and purchaser is contemplated. For purchases of eligible obligations, except as described in paragraph (b)(2) of this section, the borrower must be a member of the purchasing federal credit union before the purchase is made. A federal credit union may not purchase a non-member loan to hold in its portfolio.
 

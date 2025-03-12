@@ -1,6 +1,6 @@
 ##### § 723.1 Purpose and scope. #####
 
-Link to an amendment published at 80 FR 66723, Oct. 29, 2015.
+Link to an amendment published at 80 FR 66723, Oct. 29, 2015.This amendment was delayed until Jan. 1, 2020, at 83 FR 55467, Nov. 6, 2018.
 
 (a) *Purpose.* This part is intended to accomplish two broad objectives. First, it sets out policy and program responsibilities that a federally insured credit union must adopt and implement as part of a safe and sound commercial lending program. Second, it incorporates the statutory limit on the aggregate amount of member business loans that a federally insured credit union may make pursuant to Section 107A of the Federal Credit Union Act. The rule distinguishes between these two distinct objectives.
 

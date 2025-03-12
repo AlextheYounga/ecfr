@@ -1,5 +1,7 @@
 ##### § 702.103 Applicability of risk-based net worth requirement. #####
 
+Link to an amendment published at 83 FR 55478, Nov. 6, 2018.
+
 For purposes of § 702.102, a credit union is defined as “complex” and a risk-based net worth requirement is applicable only if the credit union meets both of the following criteria as reflected in its most recent Call Report:
 
 (a) *Minimum asset size.* Its quarter-end total assets exceed fifty million dollars ($50,000,000); and

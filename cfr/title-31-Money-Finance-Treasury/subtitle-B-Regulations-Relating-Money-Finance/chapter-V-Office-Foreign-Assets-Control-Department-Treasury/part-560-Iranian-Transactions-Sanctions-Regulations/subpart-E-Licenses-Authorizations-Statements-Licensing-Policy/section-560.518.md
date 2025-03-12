@@ -9,3 +9,9 @@ Except for transactions involving the Government of Iran, an Iranian financial i
 (c) Exportation of Iranian-origin household and personal effects from the United States incident to the relocation of United States persons outside the United States; and
 
 (d) The use or disposition by a United States person of Iranian-origin household and personal effects that are located outside the United States and that have been acquired by the United States person in transactions not prohibited by part 535 or this part.
+
+Note to § 560.518:
+
+*See* § 560.543 for an authorization to engage in all transactions necessary and ordinarily incident to the sale of certain real and personal property located in Iran.
+
+[77 FR 64666, Oct. 22, 2012, as amended at 83 FR 55271, Nov. 5, 2018]

@@ -4,19 +4,35 @@
 
 (b) All property and interests in property of any Iranian financial institution, including the Central Bank of Iran, that are in the United States, that hereafter come within the United States, or that are or hereafter come within the possession or control of any United States person, including any foreign branch, are blocked and may not be transferred, paid, exported, withdrawn, or otherwise dealt in.
 
-(c) All property and interests in property that are in the United States, that hereafter come within the United States, or that are or hereafter come within the possession or control of any United States person, including any foreign branch, of the following persons are blocked and may not be transferred, paid, exported, withdrawn, or otherwise dealt in:
+(c)(1) All property and interests in property that are in the United States, that hereafter come within the United States, or that are or hereafter come within the possession or control of any United States person, including any foreign branch, of the following persons are blocked and may not be transferred, paid, exported, withdrawn, or otherwise dealt in:
 
-(1) Any person determined by the Secretary of the Treasury, in consultation with the Secretary of State, to be owned or controlled by, or to have acted or purported to act for or on behalf of, directly or indirectly, any person whose property and interests in property are blocked pursuant to paragraphs (a) through (c)(1) of this section;
+(i) Any person determined by the Secretary of the Treasury, in consultation with the Secretary of State, to be owned or controlled by, or to have acted or purported to act for or on behalf of, directly or indirectly, any person whose property and interests in property are blocked pursuant to paragraphs (a) through (c)(1)(i) of this section; or
 
-(2) [Reserved]
+(ii) Any person determined by the Secretary of the Treasury, in consultation with the Secretary of State:
+
+(A) To have, on or after August 7, 2018, materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services in support of, the purchase or acquisition of U.S. bank notes or precious metals by the Government of Iran; or
+
+(B) To have, on or after November 5, 2018, materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services in support of, the National Iranian Oil Company (NIOC); the Naftiran Intertrade Company (NICO); any entity owned or controlled by, or operating for or on behalf of, NIOC or NICO; or the Central Bank of Iran.
+
+(2) Paragraph (c)(1)(ii) of this section shall not apply with respect to any person for conducting or facilitating a transaction involving a project—
+
+(i) For the development of natural gas and the construction and operation of a pipeline to transport natural gas from Azerbaijan to Turkey and Europe;
+
+(ii) That provides to Turkey and countries in Europe energy security and energy independence from the Government of the Russian Federation and the Government of Iran; and
+
+(iii) That was initiated before August 10, 2012 pursuant to a production-sharing agreement, or an ancillary agreement necessary to further a production-sharing agreement, entered into with, or a license granted by, the government of a country other than Iran before August 10, 2012.
+
+Note to paragraph (c)(2) of § 560.211:
+
+The natural gas development and pipeline project referred to in this paragraph is the project to develop the Shah Deniz natural gas field in Azerbaijan's sector of the Caspian Sea and related pipeline projects to bring the gas from Azerbaijan to Europe and Turkey.
 
 Note 1 to paragraphs (a) through (c) of § 560.211:
 
-The names of persons identified by the Office of Foreign Assets Control (OFAC) as blocked solely pursuant to Executive Order 13599 of February 5, 2012 (“Blocking Property of the Government Iran and Iranian Financial Institutions”) (E.O. 13599) because they meet the definition of the terms “Government of Iran” or “Iranian financial institution,” whose property and interests in property therefore are blocked pursuant to this section, are published in the Federal Register and incorporated into the “List of Persons Identified as Blocked Solely Pursuant to Executive Order 13599”) (E.O. 13599 List). The E.O. 13599 List is accessible through the following page on OFAC's Web site: *www.treasury.gov/resource-center/sanctions/Programs/Pages/13599\_list.aspx.* The names of persons identified as blocked or designated for blocking pursuant to both this part and one or more other parts of this chapter are published in the Federal Register and incorporated into OFAC's Specially Designated Nationals and Blocked Persons List (SDN List) with the identifier “[IRAN]” as well as the relevant identifier(s) for the other sanctions program(s) pursuant to which the persons' property and interests in property are blocked. The SDN List is accessible through the following page on OFAC's Web site: *www.treasury.gov/sdn.* Additional information pertaining to the E.O. 13599 List and the SDN List can be found in appendix A to this chapter. *See* § 560.425 concerning entities that may not be listed on the E.O. 13599 List or on the SDN List but whose property and interests in property are nevertheless blocked pursuant to this section. E.O. 13599 blocks the property and interests in property of the Government of Iran and Iranian financial institutions as defined in §§ 560.304 and 560.324, respectively. The property and interests in property of persons falling within the definition of the terms *Government of Iran* and *Iranian financial institution* are blocked pursuant to this section regardless of whether the names of such persons are published in the Federal Register or incorporated into the E.O. 13599 List or the SDN List.
+The names of persons that the Office of Foreign Assets Control (OFAC) has designated or identified pursuant to Executive Order 13599 (E.O. 13599) or sections 1(a)(i) or 1(a)(ii) of Executive Order 13846, whose property and interests in property therefore are blocked pursuant to this section, are published in the Federal Register and incorporated into OFAC's Specially Designated Nationals and Blocked Persons List (SDN List) with the identifier “[IRAN].” The SDN List is accessible through the following page on OFAC's website: *www.treasury.gov/sdn*. Additional information pertaining to the SDN List can be found in appendix A to this chapter. *See* § 560.425 concerning entities that may not be listed on the SDN List but whose property and interests in property are nevertheless blocked pursuant to this section. E.O. 13599 blocks the property and interests in property of the Government of Iran and Iranian financial institutions, as defined in § 560.304 and § 560.324, respectively. The property and interests in property of persons who meet the definitions of the terms *Government of Iran* or *Iranian financial institution* are blocked pursuant to this section regardless of whether the names of such persons are published in the Federal Register or incorporated into the SDN List.
 
 Note 2 to paragraphs (a) through (c) of § 560.211:
 
-The International Emergency Economic Powers Act (50 U.S.C. 1701-1706), in section 203 (50 U.S.C. 1702), authorizes the blocking of property and interests in property of a person during the pendency of an investigation. The names of persons whose property and interests in property are blocked pending investigation pursuant to this section also are published in the Federal Register and incorporated into the E.O. 13599 List or the SDN List, as appropriate, with the identifier “[BPI-IRAN].”
+The International Emergency Economic Powers Act (50 U.S.C. 1701-1706), in section 203 (50 U.S.C. 1702), authorizes the blocking of property and interests in property of a person during the pendency of an investigation. The names of persons whose property and interests in property are blocked pending investigation pursuant to this section also are published in the Federal Register and incorporated into the SDN List with the identifier “[BPI-IRAN].”
 
 (d) The prohibitions in paragraphs (a) through (c) of this section include, but are not limited to, prohibitions on the following transactions:
 
@@ -28,4 +44,4 @@ The International Emergency Economic Powers Act (50 U.S.C. 1701-1706), in sectio
 
 (f) The prohibitions in paragraphs (a) through (c) of this section apply except to the extent transactions are authorized by regulations, orders, directives, rulings, instructions, licenses, or otherwise, and notwithstanding any contracts entered into or any license or permit granted prior to the effective date.
 
-[77 FR 64666, Oct. 22, 2012, as amended at 77 FR 75847, Dec. 26, 2012; 81 FR 3332, Jan. 21, 2016]
+[77 FR 64666, Oct. 22, 2012, as amended at 77 FR 75847, Dec. 26, 2012; 81 FR 3332, Jan. 21, 2016; 83 FR 55270, Nov. 5, 2018]
