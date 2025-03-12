@@ -1,5 +1,7 @@
 ##### § 894.101 Definitions. #####
 
+Link to an amendment published at 83 FR 32193, July 12, 2018.
+
 This part is written as if the reader were an applicant or enrollee. Accordingly, the terms “you,” “your,” etc., refer, as appropriate, to the applicant or enrollee.
 
 *Acquiring an eligible child* means one of the following:

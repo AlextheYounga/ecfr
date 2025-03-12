@@ -10,7 +10,7 @@
 
 (c) *Definitions.* The following definitions apply to this section:
 
-Designated Representative - a “designated representative” is any Coast Guard commissioned, warrant or petty officer of the U.S. Coast Guard who has been designated by the Captain of the Port, to act on his or her behalf.
+Designated Representative—a “designated representative” is any Coast Guard commissioned, warrant or petty officer of the U.S. Coast Guard who has been designated by the Captain of the Port, to act on his or her behalf.
 
 (d) *Regulations.* (1) The general regulations contained in 33 CFR 165.23, as well as the following regulations, apply.
 
@@ -18,4 +18,4 @@ Designated Representative - a “designated representative” is any Coast Guard
 
 (3) Vessel operators desiring to enter or operate within any of the regulated areas shall contact the COTP or the designated representative via VHF channel 16 or 907-463-2990 (Sector Juneau command center) to obtain permission to do so.
 
-[USCG-2013-0078, 78 FR 38202, June 26, 2013]Editorial Note:At 79 FR 6470, Feb. 4, 2014, § 165.1712 was added; however, the amendment could not be incorporated since that section already exists.
+[USCG-2013-0078, 78 FR 38202, June 26, 2013]

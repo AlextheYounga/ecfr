@@ -1,5 +1,7 @@
 ##### § 892.101 Definitions. #####
 
+Link to an amendment published at 83 FR 32192, July 12, 2018.
+
 *Days* mean calendar days.
 
 *Dependent* means a family member who is both eligible for coverage under the FEHB Program and either a dependent as defined in section 152 of the Internal Revenue Code or a child as defined in section 152(f)(1) of the Internal Revenue Code who is under age 27 as of the end of the employee's taxable year.

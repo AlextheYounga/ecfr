@@ -2,7 +2,9 @@
 
 Link to an amendment published at 83 FR 27300, June 12, 2018.
 
-(a) *Commercial vessel owners and operators.* The owner or operator of a vessel for which a commercial permit for Gulf reef fish has been issued, as required under § 622.20(a)(1), or whose vessel fishes for or lands reef fish in or from state waters adjoining the Gulf EEZ, who is selected to report by the SRD must maintain a fishing record on a form available from the SRD. These completed fishing records must be submitted to the SRD postmarked not later than 7 days after the end of each fishing trip. If no fishing occurred during a calendar month, a report so stating must be submitted on one of the forms postmarked not later than 7 days after the end of that month. Information to be reported is indicated on the form and its accompanying instructions.
+(a) *Commercial vessel owners and operators.* (1) The owner or operator of a vessel for which a commercial permit for Gulf reef fish has been issued, as required under § 622.20(a)(1), or whose vessel fishes for or lands reef fish in or from state waters adjoining the Gulf EEZ, who is selected to report by the SRD must maintain a fishing record on a form available from the SRD. These completed fishing records must be submitted to the SRD postmarked no later than 7 days after the end of each fishing trip. If no fishing occurred during a calendar month, a report so stating must be submitted on one of the forms postmarked no later than 7 days after the end of that month. Information to be reported is indicated on the form and its accompanying instructions.
+
+(2) [Reserved]
 
 (b) *Charter vessel/headboat owners and operators* - (1) *General reporting requirement* - (i) *Charter vessels.* The owner or operator of a charter vessel for which a charter vessel/headboat permit for Gulf reef fish has been issued, as required under § 622.20(b), or whose vessel fishes for or lands such reef fish in or from state waters adjoining the Gulf EEZ, who is selected to report by the SRD must maintain a fishing record for each trip, or a portion of such trips as specified by the SRD, on forms provided by the SRD and must submit such record as specified in paragraph (b)(2) of this section.
 
@@ -20,4 +22,4 @@ Link to an amendment published at 83 FR 27300, June 12, 2018.
 
 (2) The operator of a vehicle that is used to pick up from a fishing vessel Gulf reef fish must maintain a record containing the name of each fishing vessel from which reef fish on the vehicle have been received. The vehicle operator must provide such record for inspection upon the request of an authorized officer.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 79 FR 6099, Feb. 3, 2014; 79 FR 19494, Apr. 9, 2014]
+[78 FR 22952, Apr. 17, 2013, as amended at 79 FR 6099, Feb. 3, 2014; 79 FR 19494, Apr. 9, 2014; 83 FR 27300, June 12, 2018]

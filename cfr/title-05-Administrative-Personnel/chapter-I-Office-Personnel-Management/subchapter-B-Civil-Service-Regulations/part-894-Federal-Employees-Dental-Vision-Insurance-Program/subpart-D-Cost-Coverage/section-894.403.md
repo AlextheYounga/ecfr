@@ -1,5 +1,7 @@
 ##### § 894.403 Are FEDVIP premiums paid on a pre-tax basis? #####
 
+Link to an amendment published at 83 FR 32193, July 12, 2018.
+
 (a) Your FEDVIP premiums are paid on a pre-tax basis (called premium conversion) if you are an active *employee*, your salary is sufficient to make the premium allotments, and your agency is able to make pre-tax allotments. However, if your enrollment covers a stepchild who is the child of a domestic partner as defined in § 894.101, and that stepchild does not qualify for favorable tax treatment under applicable tax laws, the allotted amount of premium that represents the fair market value of the FEDVIP coverage provided to the stepchild will be separately imputed to the employee as income and subject to applicable taxes.
 
 (b) Your FEDVIP premiums are *not* paid on a pre-tax basis if:

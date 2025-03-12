@@ -1,0 +1,23 @@
+##### § 1.7874-11 Rules regarding inversion gain. #####
+
+(a) *Scope.* This section provides rules for determining the inversion gain of an expatriated entity for purposes of section 7874. Paragraph (b) of this section provides rules for determining the inversion gain of an expatriated entity. Paragraph (c) of this section provides special rules with respect to certain foreign partnerships in which an expatriated entity owns an interest. Paragraph (d) of this section provides additional definitions. Paragraph (e) of this section provides an example that illustrates the rules of this section. Paragraph (f) of this section provides the applicability dates.
+
+(b) *Inversion gain*—(1) *General rule.* Except as provided in paragraphs (b)(2) and (3) of this section, inversion gain includes income (including an amount treated as a dividend under section 78) or gain recognized by an expatriated entity for any taxable year that includes any portion of the applicable period by reason of a direct or indirect transfer of stock or other properties or license of any property either as part of the domestic entity acquisition, or after such acquisition if the transfer or license is to a specified related person.
+
+(2) *Exception for property described in section 1221(a)(1).* Inversion gain does not include income or gain recognized by reason of the transfer or license, after the domestic entity acquisition, of property that is described in section 1221(a)(1) in the hands of the transferor or licensor.
+
+(3) *Treatment of partnerships.* Except to the extent provided in paragraph (c) of this section and section 7874(e)(2), inversion gain does not include income or gain recognized by reason of the transfer or license of property by a partnership.
+
+(c) *Transfers and licenses by partnerships.* If a partnership that is a foreign related person transfers or licenses property, a partner of the partnership shall be treated as having transferred or licensed its proportionate share of that property, as determined under the rules and principles of sections 701 through 777, for purposes of determining the inversion gain of an expatriated entity. See section 7874(e)(2) for rules regarding the treatment of transfers and licenses by domestic partnerships and transfers of interests in certain domestic partnerships.
+
+(d) *Definitions.* The definitions provided in § 1.7874-12 apply for purposes of this section.
+
+(e) *Example.* The following example illustrates the rules of this section.
+
+Example.—(i) *Facts.* On July 1, 2016, FA, a foreign corporation, acquires all the stock of DT, a domestic corporation, in an inversion transaction. When the inversion transaction occurred, DT wholly owned FS, a foreign corporation that is a controlled foreign corporation (within the meaning of section 957(a)). During the applicable period, FS sells to FA property that is not described in section 1221(a)(1) in the hands of FS. Under section 951(a)(1)(A), DT has a $80x gross income inclusion that is attributable to FS's gain from the sale of the property. Under section 960(a)(1), DT is deemed to have paid $20x of the post-1986 foreign income taxes of FS by reason of this income inclusion and includes $20x in gross income as a deemed dividend under section 78. Accordingly, DT recognizes $100x ($80x + $20x) of gross income because of FS's sale of property to FA.
+
+(ii) *Analysis.* Pursuant to section 7874(a)(2)(A), DT is an expatriated entity. Under paragraph (b)(1) of this section, DT's $100x gross income recognized under sections 951(a)(1)(A) and 78 is inversion gain, because it is income recognized by an expatriated entity during the applicable period by reason of an indirect transfer of property by DT (through its wholly-owned CFC, FS) after the inversion transaction to a specified related person (FA). Sections 7874(a)(1) and (e) therefore prevent the use of certain tax attributes (such as net operating losses) to reduce the U.S. tax owed with respect to DT's $100x gross income recognized under sections 951(a)(1)(A) and 78.
+
+(f) *Applicability dates.* Except as otherwise provided in this paragraph (f), this section applies to transfers and licenses of property completed on or after November 19, 2015, but only if the inversion transaction was completed on or after September 22, 2014. For inversion transactions completed on or after September 22, 2014, however, taxpayers may elect to apply paragraph (b) of this section by excluding the phrase “(including an amount treated as a dividend under section 78)” for transfers and licenses of property completed on or after November 19, 2015, and before April 4, 2016.
+
+[T.D. 9834, 83 FR 32559, July 12, 2018]

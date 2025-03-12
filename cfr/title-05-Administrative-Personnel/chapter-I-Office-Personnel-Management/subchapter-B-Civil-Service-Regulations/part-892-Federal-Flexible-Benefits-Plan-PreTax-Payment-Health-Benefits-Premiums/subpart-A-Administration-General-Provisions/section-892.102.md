@@ -1,5 +1,7 @@
 ##### § 892.102 What is premium conversion and how does it work? #####
 
+Link to an amendment published at 83 FR 32192, July 12, 2018.
+
 Premium conversion is a method of reducing your taxable income by the amount of your contribution to your FEHB insurance premium. If you are a participant in the premium conversion plan, Section 125 of the Internal Revenue Code allows you to reduce your salary (through an employer allotment) and provide that portion of your salary back to your employer. Instead of being paid to you as taxable income, this allotted amount is used to purchase your FEHB insurance for you. The effect is that your taxable income is reduced. Because taxable income is reduced, the amount of tax you pay is reduced. You save on Federal income tax, Social Security and Medicare tax and in most States and localities, State and local income taxes. There is one exception, however. If your FEHB enrollment covers a stepchild who is the child of a domestic partner as defined in part 890 of this chapter, and that stepchild does not qualify for favorable tax treatment under applicable tax laws, then the portion of the allotted amount described above that represents the employee's contribution toward the fair market value of FEHB coverage provided to the child will be separately imputed to the employee as income and subject to applicable taxes.
 
 [65 FR 44646, July 19, 2000, as amended at 78 FR 64878, Oct. 30, 2013]
