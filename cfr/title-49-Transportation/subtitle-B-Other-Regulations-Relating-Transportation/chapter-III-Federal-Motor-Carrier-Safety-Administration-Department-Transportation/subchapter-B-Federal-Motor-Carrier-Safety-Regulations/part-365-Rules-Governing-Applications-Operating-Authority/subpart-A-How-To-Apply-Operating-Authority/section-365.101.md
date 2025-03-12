@@ -22,4 +22,4 @@ These rules govern the handling of applications for operating authority of the f
 
 (j) The rules in this part do not apply to “pipeline welding trucks” as defined in 49 CFR 390.38(b).
 
-[59 FR 63728, Dec. 9, 1994, as amended at 60 FR 63981, Dec. 13, 1995; 62 FR 49940, Sept. 24, 1997; 67 FR 12714, Mar. 19, 2002; 67 FR 61820, Oct. 2, 2002; 73 FR 76488, Dec. 16, 2008; 74 FR 2901, Jan. 16, 2009; 81 FR 47720, July 22, 2016; 81 FR 49553, Oct. 21, 2015]Effective Date Note:At 82 FR 5299, Jan. 17, 2017, § 365.101 was suspended, effective Jan. 14, 2017.
+[59 FR 63728, Dec. 9, 1994, as amended at 60 FR 63981, Dec. 13, 1995; 62 FR 49940, Sept. 24, 1997; 67 FR 12714, Mar. 19, 2002; 67 FR 61820, Oct. 2, 2002; 73 FR 76488, Dec. 16, 2008; 74 FR 2901, Jan. 16, 2009; 81 FR 47720, July 22, 2016; 80 FR 63704, Oct. 21, 2015]Effective Date Note:At 82 FR 5299, Jan. 17, 2017, § 365.101 was suspended, effective Jan. 14, 2017.

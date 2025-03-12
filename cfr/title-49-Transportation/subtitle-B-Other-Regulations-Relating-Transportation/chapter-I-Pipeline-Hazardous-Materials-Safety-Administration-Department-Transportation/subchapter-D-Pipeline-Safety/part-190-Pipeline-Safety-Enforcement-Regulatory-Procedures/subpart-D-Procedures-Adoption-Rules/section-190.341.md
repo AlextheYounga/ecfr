@@ -34,7 +34,7 @@
 
 (8) Any other information PHMSA may need to process the application including environmental analysis where necessary.
 
-(d) *How does PHMSA handle special permit applications?* - (1) *Public notice.* Upon receipt of an application or renewal of a special permit, PHMSA will provide notice to the public of its intent to consider the application and invite comment. In addition, PHMSA may consult with other Federal agencies before granting or denying an application or renewal on matters that PHMSA believes may have significance for proceedings under their areas of responsibility.
+(d) *How does PHMSA handle special permit applications?*—(1) *Public notice.* Upon receipt of an application or renewal of a special permit, PHMSA will provide notice to the public of its intent to consider the application and invite comment. In addition, PHMSA may consult with other Federal agencies before granting or denying an application or renewal on matters that PHMSA believes may have significance for proceedings under their areas of responsibility.
 
 (2) *Grants, renewals, and denials.* If the Associate Administrator determines that the application complies with the requirements of this section and that the waiver of the relevant regulation or standard is not inconsistent with pipeline safety, the Associate Administrator may grant the application, in whole or in part, for a period of time from the date granted. Conditions may be imposed on the grant if the Associate Administrator concludes they are necessary to assure safety, environmental protection, or are otherwise in the public interest. If the Associate Administrator determines that the application does not comply with the requirements of this section or that a waiver is not justified, the application will be denied. Whenever the Associate Administrator grants or denies an application, notice of the decision will be provided to the applicant. PHMSA will post all special permits on its Web site at *http://www.phmsa.dot.gov/.*
 
@@ -52,9 +52,9 @@
 
 (ii) Name, mailing address and telephone number of the special permit grantee;
 
-(iii) Location of special permit - areas on the pipeline where the special permit is applicable including: Diameter, mile posts, county, and state;
+(iii) Location of special permit—areas on the pipeline where the special permit is applicable including: Diameter, mile posts, county, and state;
 
-(iv) Applicable usage of the special permit - original and future; and
+(iv) Applicable usage of the special permit—original and future; and
 
 (v) Data for the special permit segment and area identified in the special permit as needing additional inspections to include, as applicable:
 
@@ -100,7 +100,7 @@
 
 (4) A description of any proposed alternatives to compliance with the regulation (e.g., additional inspections and tests, shortened reassessment intervals); and
 
-(5) A description of any measures to be taken after the emergency situation or permit expires - whichever comes first - to confirm long-term operational reliability of the pipeline facility.
+(5) A description of any measures to be taken after the emergency situation or permit expires—whichever comes first—to confirm long-term operational reliability of the pipeline facility.
 
 Note to paragraph (g):
 
@@ -134,6 +134,6 @@ If PHMSA determines that handling of the application on an emergency basis is no
 
 (l) *Are documents related to an application for a special permit available for public inspection?* Documents related to an application, including the application itself, are available for public inspection on regulations.gov or the Docket Operations Facility to the extent such documents do not include information exempt from public disclosure under 5 U.S.C. 552(b). Applicants may request confidential treatment under part 7 of this title.
 
-(k) *Am I subject to enforcement action for non-compliance with the terms and conditions of a special permit?* Yes. PHMSA inspects for compliance with the terms and conditions of special permits and if a probable violation is identified, PHMSA will initiate one or more of the enforcement actions under subpart B of this part.
+(m) *Am I subject to enforcement action for non-compliance with the terms and conditions of a special permit?* Yes. PHMSA inspects for compliance with the terms and conditions of special permits and if a probable violation is identified, PHMSA will initiate one or more of the enforcement actions under subpart B of this part.
 
 [73 FR 16568, Mar. 28, 2008, as amended at 74 FR 2893, Jan. 16, 2009; Amdt. 190-16, 78 FR 58914, Sept. 25, 2013; Amdt. 190-19, 82 FR 7995, Jan. 23, 2017]

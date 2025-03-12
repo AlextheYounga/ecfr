@@ -1,5 +1,7 @@
 ##### § 635.23 Retention limits for bluefin tuna. #####
 
+Link to an amendment published at 82 FR 57550, Dec. 6, 2017.
+
 The retention limits in this section are subject to the quotas and closure provisions in §§ 635.27 and 635.28.
 
 (a) *General category.* (1) No person aboard a vessel that has a General category Atlantic Tunas permit may possess, retain, land, or sell a BFT in the school, large school, or small medium size class.

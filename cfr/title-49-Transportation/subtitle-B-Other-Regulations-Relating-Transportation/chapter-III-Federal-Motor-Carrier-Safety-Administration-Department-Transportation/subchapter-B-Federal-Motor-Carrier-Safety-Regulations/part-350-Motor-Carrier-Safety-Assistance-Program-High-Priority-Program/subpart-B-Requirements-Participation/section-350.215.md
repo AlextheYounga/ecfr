@@ -24,4 +24,4 @@
 
 (f) Any State aggrieved by an adverse decision under this section may seek judicial review under 5 U.S.C. chapter 7.
 
-[65 FR 15102, Mar. 21, 2000, as amended at 81 FR 81 FR 71014, Oct. 14, 2016
+[65 FR 15102, Mar. 21, 2000, as amended at 81 FR 81 FR 71014, Oct. 14, 2016]

@@ -1,6 +1,6 @@
 ##### § 635.19 Authorized gears. #####
 
-Link to an amendment published at 82 FR 16506, Apr. 4, 2017.
+Link to an amendment published at 82 FR 16506, Apr. 4, 2017.Link to an amendment published at 82 FR 57549, Dec. 6, 2017.
 
 (a) *General.* No person may fish for, catch, possess, or retain any Atlantic HMS with gears other than the primary gears specifically authorized in this part. Consistent with § 635.21(a), secondary gears may be used at boat side to aid and assist in subduing, or bringing on board a vessel, Atlantic HMS that have first been caught or captured using primary gears. For purposes of this part, secondary gears include, but are not limited to, dart harpoons, gaffs, flying gaffs, tail ropes, etc. Secondary gears may not be used to capture, or attempt to capture, free-swimming or undersized HMS. Except for vessels permitted under § 635.4(o) or as specified in this section, a vessel using or having onboard in the Atlantic Ocean any unauthorized gear may not possess an Atlantic HMS on board.
 

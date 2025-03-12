@@ -98,4 +98,4 @@ A large volume customer may receive similar volumes of gas as a distribution cen
 
 *Welding operator* means a person who operates machine or automatic welding equipment.
 
-[Amdt. 192-13, 38 FR 9084, Apr. 10, 1973, as amended by Amdt. 192-27, 41 FR 34605, Aug. 16, 1976; Amdt. 192-58, 53 FR 1635, Jan. 21, 1988; Amdt. 192-67, 56 FR 63771, Dec. 5, 1991; Amdt. 192-72, 59 FR 17281, Apr. 12, 1994; Amdt. 192-78, 61 FR 28783, June 6, 1996; Amdt. 192-81, 62 FR 61695, Nov. 19, 1997; Amdt. 192-85, 63 FR 37501, July 13, 1998; Amdt. 192-89, 65 FR 54443, Sept. 8, 2000; 68 FR 11749, Mar. 12, 2003; Amdt. 192-93, 68 FR 53900, Sept. 15, 2003; Amdt. 192-98, 69 FR 48406, Aug. 10, 2004; Amdt. 192-94, 69 FR 54592, Sept. 9, 2004; 70 FR 3148, Jan. 21, 2005; 70 FR 11139, Mar. 8, 2005; Amdt. 192-112, 74 FR 63326, Dec. 3, 2009; Amdt. 192-114, 75 FR 48601, Aug. 11, 2010; Amdt. 192-120, 80 FR 12777, Mar. 11, 2015; Amdt. 192-122, 81 FR 91872, Dec. 19, 2016]
+[Amdt. 192-13, 38 FR 9084, Apr. 10, 1973]Editorial Note:For Federal Register citations affecting § 192.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

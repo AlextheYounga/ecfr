@@ -243,4 +243,4 @@
 
 (2) Sending the notification by mail to ATTN: Information Resources Manager, DOT/PHMSA/OPS, East Building, 2nd Floor, E22-321, 1200 New Jersey Ave SE., Washington, DC 20590.
 
-[Amdt. 195-70, 65 FR 75406, Dec. 1, 2000, as amended by Amdt. 195-74, 67 FR 1660, 1661, Jan. 14, 2002; Amdt. 195-76, 67 FR 2143, Jan. 16, 2002; 67 FR 46911, July 17, 2002; 70 FR 11140, Mar. 8, 2005; Amdt. 195-85, 70 FR 61576, Oct. 25, 2005; Amdt. 195-87, 72 FR 39017, July 17, 2007; 73 FR 16571, Mar. 28, 2008; 73 FR 31646, June 3, 2008; Amdt. 195-94, 75 FR 48607, Aug. 11, 2010; Amdt. 195-99, 80 FR 188, Jan. 5, 2015; Amdt. 195-100, 80 FR 12781, Mar. 11, 2015; Amdt. 195-101, 82 FR 7999, Jan. 23, 2017]
+[Amdt. 195-70, 65 FR 75406, Dec. 1, 2000]Editorial Note:For Federal Register citations affecting § 195.452, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -84,4 +84,4 @@
 
 (B) Offer read-only access for inquiries on individual items of intermodal equipment, without requiring advance user registration, a password, or a usage fee.
 
-[65 FR 35296, June 2, 2000, as amended at 73 FR 76821, Dec. 17, 2008; 74 FR 68708, Dec. 29, 2009; 77 FR 59827, Oct. 1, 2012; 78 FR 58482, Sept. 24, 2013; 80 FR 30178, May 27, 2015; 80 FR 63712, Oct. 21, 2015]Effective Date Note:At 82 FR 5316, Jan. 17, 2017, § 360.21 was suspended, effective Jan. 14, 2017.
+[65 FR 35296, June 2, 2000, as amended at 73 FR 76821, Dec. 17, 2008; 74 FR 68708, Dec. 29, 2009; 77 FR 59827, Oct. 1, 2012; 78 FR 58482, Sept. 24, 2013; 80 FR 30178, May 27, 2015; 80 FR 63712, Oct. 21, 2015]Effective Date Note:At 82 FR 5316, Jan. 17, 2017, § 390.21 was suspended, effective Jan. 14, 2017.

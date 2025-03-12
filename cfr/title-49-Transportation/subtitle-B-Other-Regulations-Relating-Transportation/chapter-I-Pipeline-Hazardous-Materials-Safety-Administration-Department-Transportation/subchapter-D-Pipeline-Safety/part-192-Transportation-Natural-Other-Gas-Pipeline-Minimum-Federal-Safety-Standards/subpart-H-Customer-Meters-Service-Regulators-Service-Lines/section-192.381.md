@@ -10,7 +10,7 @@
 
 (i) Close at, or not more than 50 percent above, the rated closure flow rate specified by the manufacturer; and
 
-(ii) Upon closure, reduce gas flow -
+(ii) Upon closure, reduce gas flow—
 
 (A) For an excess flow valve designed to allow pressure to equalize across the valve, to no more than 5 percent of the manufacturer's specified closure flow rate, up to a maximum of 20 cubic feet per hour (0.57 cubic meters per hour); or
 
@@ -26,4 +26,4 @@
 
 (e) An operator should not install an excess flow valve on a service line where the operator has prior experience with contaminants in the gas stream, where these contaminants could be expected to cause the excess flow valve to malfunction or where the excess flow valve would interfere with necessary operation and maintenance activities on the service, such as blowing liquids from the line.
 
-[Amdt. 192-79, 61 FR 31459, June 20, 1996, as amended by Amdt. 192-80, 62 FR 2619, Jan. 17, 1997; Amdt. 192-85, 63 FR 37504, July 13, 1998; 81 FR 71001, Oct. 14, 2016]
+[Amdt. 192-79, 61 FR 31459, June 20, 1996, as amended by Amdt. 192-80, 62 FR 2619, Jan. 17, 1997; Amdt. 192-85, 63 FR 37504, July 13, 1998; Amdt. 192-121, 81 FR 71001, Oct. 14, 2016]

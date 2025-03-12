@@ -12,10 +12,10 @@
 
 (1) Have its surety or insurance provider file proof of financial responsibility in the form of certificates of insurance, surety bonds, and endorsements, as required by § 387.7(e)(2), § 387.31(e)(2), and § 387.301 of this subchapter, as applicable; and
 
-(2) File or have its process agent(s) electronically submit, Form BOC-3 - Designation of Agents - Motor Carriers, Brokers and Freight Forwarders, as required by part 366 of this subchapter.
+(2) File or have its process agent(s) electronically submit, Form BOC-3—Designation of Agents—Motor Carriers, Brokers and Freight Forwarders, as required by part 366 of this subchapter.
 
 (f) A non-North America-domiciled motor carrier must comply with all provisions of the safety monitoring system in part 385, subpart I of this subchapter, including successfully passing North American Standard commercial motor vehicle inspections at least every 90 days and having safety decals affixed to each commercial motor vehicle operated in the United States as required by § 385.703(c) of this subchapter.
 
 (g) FMCSA may not re-designate a non-North America-domiciled carrier's registration from new entrant to permanent prior to 18 months after the date its USDOT Number is issued and subject to successful completion of the safety monitoring system for non-North America-domiciled carriers set out in part 385, subpart I of this subchapter. Successful completion includes obtaining a Satisfactory safety rating as the result of a compliance review.
 
-[73 FR 76491, Dec. 16, 2008, as amended at 80 FR 63708, Oct. 21, 2015]Efctive Date Note:At 82 FR 5306, Jan. 17, 2017, § 385.607 was suspended, effective Jan. 14, 2017.
+[73 FR 76491, Dec. 16, 2008, as amended at 80 FR 63708, Oct. 21, 2015]Effective Date Note:At 82 FR 5306, Jan. 17, 2017, § 385.607 was suspended, effective Jan. 14, 2017.

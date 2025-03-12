@@ -79,15 +79,14 @@
 (xi) Kauai 4 - *Cyanea recta* - b (351 ha; 868 ac)
 
 (A) [Reserved]
-Unit consists of the following 15 boundary points: Start at 458861, 2446942; 459372, 2446687; 459490, 2446382; 459454, 2446075; 459242, 2445757; 458486, 2445521; 457390, 2445835; 457139, 2445925; 457088, 2445921; 456838, 2445992; 456525, 2446628; 457027, 2447344; 458020, 2447254; 457900, 2446720; 458214, 2446760; return to starting point.
 
-(B) Note: Map 8 follows:
+(B) Map 8 follows:
 
 ![](/graphics/er27fe03.008.gif)
 
 (xii) Kauai 4 - *Cyanea remyi* - a (353 ha; 873 ac)
 
-(A)
+(A) [Reserved]
 
 (B) Map 9 follows:
 
@@ -975,6 +974,8 @@ Unit consists of the following 15 boundary points: Start at 458861, 2446942; 459
 
 (cxxxvii) Kauai 11 - *Chamaesyce halemanui* - a (108 ha; 267 ac)
 
+(A) [Reserved]
+
 (B) Map 68 follows:
 
 ![](/graphics/er27fe03.067.gif)
@@ -1705,7 +1706,7 @@ Unit consists of the following 15 boundary points: Start at 458861, 2446942; 459
 
 (ccxxxv) Kauai 11-*Lysimachia daphnoides*-b
 
-(A) See paragraph (a)(1)(cxxx)(A) of this section for the textual description of this unit.
+(A) [Reserved]
 
 (B) See paragraph (a)(1)(cxxx)(B) of this section for the map of this unit.
 
@@ -2694,7 +2695,6 @@ Unit consists of the following 15 boundary points: Start at 458861, 2446942; 459
 (ccclxiii) Kauai 19-*Cyanea dolichopoda*-e
 
 (A) [Reserved]
-See paragraph (a)(1)(ccclxi)(A) of this section for the textual description of this unit.
 
 (B) See paragraph (a)(1)(ccclxi)(B) of this section for the map of this unit.
 

@@ -1,6 +1,6 @@
 ##### § 635.71 Prohibitions. #####
 
-Link to an amendment published at 82 FR 16508, Apr. 4, 2017.
+Link to an amendment published at 82 FR 16508, Apr. 4, 2017.Link to an amendment published at 82 FR 57551, Dec. 6, 2017.
 
 In addition to the prohibitions specified in § 600.725 of this chapter, it is unlawful for any person subject to the jurisdiction of the United States to violate any provision of this part, ATCA, the Magnuson-Stevens Act, or any other rules promulgated under ATCA or the Magnuson-Stevens Act.
 

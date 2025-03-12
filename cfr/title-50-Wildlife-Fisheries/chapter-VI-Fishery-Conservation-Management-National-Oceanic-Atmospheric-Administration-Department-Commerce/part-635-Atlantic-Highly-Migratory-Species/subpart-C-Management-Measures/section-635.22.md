@@ -1,6 +1,6 @@
 ##### § 635.22 Recreational retention limits. #####
 
-Link to an amendment published at 82 FR 16507, Apr. 4, 2017.
+Link to an amendment published at 82 FR 16507, Apr. 4, 2017.Link to an amendment published at 82 FR 57549, Dec. 6, 2017.
 
 (a) *General.* (1) Atlantic HMS caught, possessed, retained, or landed under these recreational limits may not be sold or transferred to any person for a commercial purpose. Recreational retention limits apply to a longbill spearfish taken or possessed shoreward of the outer boundary of the Atlantic EEZ, to a shark taken from or possessed in the Atlantic Ocean including the Gulf of Mexico and Caribbean Sea, to a North Atlantic swordfish taken from or possessed in the Atlantic Ocean, and to bluefin and yellowfin tuna taken from or possessed in the Atlantic Ocean. The operator of a vessel for which a retention limit applies is responsible for the vessel retention limit and for the cumulative retention limit based on the number of persons aboard. Federal recreational retention limits may not be combined with any recreational retention limit applicable in state waters.
 

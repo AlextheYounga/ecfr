@@ -1,6 +1,6 @@
 ##### § 339.104 Definitions. #####
 
-For purposes of this part -
+For purposes of this part—
 
 *Accommodation* means *reasonable accommodation* as described in the ADA.
 
@@ -26,7 +26,7 @@ For purposes of this part -
 
 *Medical evaluation program* means a program of recurring medical examinations or tests established by written agency policy or directive, to safeguard the health of employees whose work may subject them or others to significant health or safety risks due to occupational or environmental exposure or demands. For example, an agency policy or directive may include medical clearances and medical surveillance to test for occupational exposure to biological, chemical, and/or radiological hazardous agents, occupational diseases, and occupational risk.
 
-*Medical restriction* is a medical determination that an applicant or employee is limited, or prevented from performing a certain type or duration of work or activity (*e.g.,* standing and/or ability to concentrate) or motion (*e.g.,* bending, lifting, pulling), because of a particular medical condition or physical limitation. The purpose of a medical restriction is to try to prevent aggravation, acceleration, exacerbation, or permanent worsening of the medical condition or physical limitation.
+*Medical restriction* is a medical determination that an applicant or employee is limited, or prevented from performing a certain type or duration of work or activity (e.g., standing and/or ability to concentrate) or motion (e.g., bending, lifting, pulling), because of a particular medical condition or physical limitation. The purpose of a medical restriction is to try to prevent aggravation, acceleration, exacerbation, or permanent worsening of the medical condition or physical limitation.
 
 *Medical standard* is a written description of the minimum medical requirements necessary for an applicant or employee to perform essential job duties as a condition of employment.
 

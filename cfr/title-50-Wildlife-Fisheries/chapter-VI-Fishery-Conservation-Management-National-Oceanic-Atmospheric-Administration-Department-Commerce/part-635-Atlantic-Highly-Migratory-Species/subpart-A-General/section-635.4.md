@@ -1,6 +1,6 @@
 ##### § 635.4 Permits and fees. #####
 
-Link to an amendment published at 82 FR 16505, Apr. 4, 2017.
+Link to an amendment published at 82 FR 16505, Apr. 4, 2017.Link to an amendment published at 82 FR 57548, Dec. 6, 2017.
 
 Information on permits and permit requirements may be obtained from the Division Chief or where otherwise stated in this part.
 
