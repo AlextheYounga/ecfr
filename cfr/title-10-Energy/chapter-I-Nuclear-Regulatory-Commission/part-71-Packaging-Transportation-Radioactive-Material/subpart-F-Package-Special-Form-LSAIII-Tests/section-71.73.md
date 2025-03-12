@@ -2,7 +2,7 @@
 
 (a) *Test procedures.* Evaluation for hypothetical accident conditions is to be based on sequential application of the tests specified in this section, in the order indicated, to determine their cumulative effect on a package or array of packages. An undamaged specimen may be used for the water immersion tests specified in paragraph (c)(6) of this section.
 
-(b) *Test conditions.* With respect to the initial conditions for the tests, except for the water immersion tests, to demonstrate compliance with the requirements of this part during testing, the ambient air temperature before and after the tests must remain constant at that value between −29 °C (−20 °F) and + 38 °C ( + 100 °F) which is most unfavorable for the feature under consideration. The initial internal pressure within the containment system must be the maximum normal operating pressure, unless a lower internal pressure, consistent with the ambient temperature assumed to precede and follow the tests, is more unfavorable.
+(b) *Test conditions.* With respect to the initial conditions for the tests, except for the water immersion tests, to demonstrate compliance with the requirements of this part during testing, the ambient air temperature before and after the tests must remain constant at that value between −29 °C (−20 °F) and +38 °C (+100 °F) which is most unfavorable for the feature under consideration. The initial internal pressure within the containment system must be the maximum normal operating pressure, unless a lower internal pressure, consistent with the ambient temperature assumed to precede and follow the tests, is more unfavorable.
 
 (c) *Tests.* Tests for hypothetical accident conditions must be conducted as follows:
 

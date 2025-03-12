@@ -684,7 +684,7 @@ N.B. 2: This definition includes chip sets that are designed to operate together
 
 *Missile Technology Export Control Group (MTEC).* Chaired by the Department of State, the MTEC primarily reviews applications involving items controlled for Missile Technology (MT) reasons. The MTEC also reviews applications involving items not controlled for MT reasons, but destined for a country and/or end-use/end-user of concern.
 
-*“Missiles”.* (All) - Rocket systems (including ballistic missile systems, space launch vehicles, and sounding rockets) and unmanned air vehicle systems (including cruise missile systems, target drones, and reconnaissance drones) “capable of” delivering at least 500 kilograms payload to a range of at least 300 kilometers. See § 746.3 for definition of a “ballistic missile” to be exported or reexported to Iraq or transferred within Iraq.
+“*Missiles”.* (All) Rocket systems (including ballistic missiles, space launch vehicles, and sounding rockets) and unmanned aerial vehicle systems (including cruise missiles, target drones, and reconnaissance drones) “capable of” delivering at least 500 kilograms payload to a range of at least 300 kilometers. See § 746.3 for definition of a “ballistic missile” to be exported or reexported to Iraq or transferred within Iraq.
 
 *Monolithic integrated circuit.* (Cat 3) - A combination of passive or active “circuit elements” or both that:
 
@@ -1328,7 +1328,11 @@ This definition of “transfer” does not apply to § 750.10 of the EAR or Supp
 
 (c) A corporation or association created or organized under the laws of the United States, or of any State, Territory, or possession of the United States, of which the president and two-thirds of the board of directors and other managing officers thereof are such individuals and in which at least 75 percent of the voting interest is owned or controlled by persons who are citizens of the United States or of one of its possessions.
 
-*Unmanned aerial vehicle (“UAV”).* (Cat 9) Any “aircraft” capable of initiating flight and sustaining controlled flight and navigation without any human presence on board. In addition, according to section 744.3 of the EAR, unmanned air vehicles, which are the same as “unmanned aerial vehicles,” include, but are not limited to, cruise missile systems, target drones and reconnaissance drones.
+“*Unmanned aerial vehicle” (“UAV”).* (Cat 9) Any “aircraft” capable of initiating flight and sustaining controlled flight and navigation without any human presence on board.
+
+Note to definition of “Unmanned aerial vehicle” (“UAV”):
+
+For the purposes of § 744.3 of the EAR, unmanned air vehicles, which are the same as “unmanned aerial vehicles,” include, but are not limited to, cruise missiles, target drones and reconnaissance drones.
 
 *Usable in”, “usable for”, “usable as” or “Capable of”.* (MTCR context) - Equipment, parts, components, materials or “software” which are suitable for a particular purpose. There is no need for the equipment, parts, components, materials or “software” to have been configured, modified or specified for the particular purpose. For example, any military specification memory circuit would be “capable of” operation in a guidance system.
 

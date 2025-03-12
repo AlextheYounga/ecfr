@@ -6,7 +6,7 @@
 
 (c) Minimum and maximum civil monetary penalties within the jurisdiction of the FAA are as follows:
 
-Table of Minimum and Maximum Civil Monetary Penalty Amounts for Certain Violations Occurring on or After January 15, 2017
+Table of Minimum and Maximum Civil Monetary Penalty Amounts for Certain Violations Occurring on or after April 10, 2017
 
 | United States Code citation |                                                                        Civil monetary penalty description                                                                        |2016 minimum penalty amount|New minimum penalty amount|                                                       2016 maximum penalty amount                                                        |         New maximum penalty amount         |
 |-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|--------------------------|------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -29,4 +29,4 @@ Table of Minimum and Maximum Civil Monetary Penalty Amounts for Certain Violatio
 |       49 U.S.C. 47531       |                      Violation of 49 U.S.C. 47528-47530, relating to the prohibition of operating certain aircraft not complying with stage 3 noise levels                       |            N/A            |           N/A            |                                               See 49 U.S.C. 46301(a)(1) and (a)(5), above                                                |See 49 U.S.C. 46301(a)(1) and (a)(5), above.|
 
 [Docket No. 28762, 61 FR 67445, Dec. 20, 1996, as amended by
-Docket No. FAA-2016-7004, Amdt. 13-38, 81 FR 43467, July 5, 2016; 81 FR 51080, Aug. 5, 2016; Amdt. 13-39, 82 FR 17100, Apr. 10, 2017]
+Docket No. FAA-2016-7004, Amdt. 13-38, 81 FR 43467, July 5, 2016; 81 FR 51080, Aug. 5, 2016; Amdt. 13-39, 82 FR 17100, Apr. 10, 2017; Amdt. 13-39A, 82 FR 31440, July 7, 2017]

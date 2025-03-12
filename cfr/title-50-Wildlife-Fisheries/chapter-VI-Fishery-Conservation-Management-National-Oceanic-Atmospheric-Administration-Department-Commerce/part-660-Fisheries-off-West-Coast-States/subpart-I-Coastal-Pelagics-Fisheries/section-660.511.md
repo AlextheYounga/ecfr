@@ -4,7 +4,7 @@
 
 (b) The trip limit for harvesting vessels fishing in the CPS Limited Entry Zone for CPS other than live bait without a limited entry permit is 5 mt tons of all CPS finfish combined.
 
-(c)The trip limit for vessels with a limited entry permit on a fishing trip in which the vessel fishes or lands fish in the Limited Entry Zone is 125 mt of all CPS finfish combined.
+(c) The trip limit for vessels with a limited entry permit on a fishing trip in which the vessel fishes or lands fish in the Limited Entry Zone is 125 mt of all CPS finfish combined.
 
 (d) After the directed fishery for a CPS is closed under § 660.509, no person may take and retain, possess or land more of that species than the incidental trip limit set by the Regional Administrator.
 

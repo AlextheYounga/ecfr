@@ -1,6 +1,6 @@
 ##### § 166.227 How can Indian land be removed from an existing permit? #####
 
-(a)We will remove Indian land from the permit if:
+(a) We will remove Indian land from the permit if:
 
 (1) The trust status of the Indian land terminates;
 

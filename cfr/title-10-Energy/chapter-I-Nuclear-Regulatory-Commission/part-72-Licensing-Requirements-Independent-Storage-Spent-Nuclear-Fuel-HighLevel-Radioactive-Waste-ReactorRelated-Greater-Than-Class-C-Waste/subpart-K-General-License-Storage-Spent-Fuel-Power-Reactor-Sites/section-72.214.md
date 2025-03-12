@@ -1,6 +1,6 @@
 ##### § 72.214 List of approved spent fuel storage casks. #####
 
-Link to an amendment published at 82 FR 25935, June 6, 2017.Link to an amendment published at 82 FR 29229, June 28, 2017.
+Link to an amendment published at 82 FR 25935, June 6, 2017.Link to an amendment published at 82 FR 29229, June 28, 2017.Link to an amendment published at 82 FR 31439, July 7, 2017.
 
 The following casks are approved for storage of spent fuel under the conditions specified in their Certificates of Compliance.
 

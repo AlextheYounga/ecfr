@@ -8,4 +8,4 @@
 
 (d) *Commercially permitted vessel possession limits.* Owners and operators of otter trawl vessels issued a permit under § 648.4(a)(3) that fish with or possess nets or pieces of net on board that do not meet the minimum mesh requirements and that are not stowed in accordance with § 648.108(e), may not retain 100 lb (45.4 kg) or more of summer flounder from May 1 through October 31, or 200 lb (90.7 kg) or more of summer flounder from November 1 through April 30, unless the vessel possesses a valid summer flounder small-mesh exemption LOA and is fishing in the exemption area as specified in § 648.108(b). Summer flounder on board these vessels must be stored so as to be readily available for inspection in standard 100-lb (45.3-kg) totes or fish boxes having a liquid capacity of 18.2 gal (70 L), or a volume of not more than 4,320 in3 (2.5 ft3 or 70.79 cm3).
 
-[76 FR 60629, Sept. 29, 2011, as amended at 78 FR 37479, June 21, 2013; 80 FR 25258, June 19, 2015]
+[76 FR 60629, Sept. 29, 2011, as amended at 78 FR 37479, June 21, 2013; 80 FR 25258, June 19, 2015; 82 FR 31494, July 7, 2017]

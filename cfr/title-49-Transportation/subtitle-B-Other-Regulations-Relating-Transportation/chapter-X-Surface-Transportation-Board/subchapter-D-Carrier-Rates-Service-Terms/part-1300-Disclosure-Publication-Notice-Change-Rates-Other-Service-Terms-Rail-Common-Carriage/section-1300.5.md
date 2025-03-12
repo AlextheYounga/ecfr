@@ -1,5 +1,7 @@
 ##### § 1300.5 Additional publication requirement for agricultural products and fertilizer. #####
 
+Link to an amendment published at 82 FR 31277, July 6, 2017.
+
 (a) With respect to transportation of agricultural products (including grain, as defined in 7 U.S.C. 75, and all products thereof) and fertilizer, a rail carrier shall publish, make available, and retain for public inspection its currently effective rates, schedules of rates, charges, and other service terms, and any scheduled changes to such rates, charges, and service terms. This requirement is in addition to the requirements imposed by §§ 1300.2, 1300.3, and 1300.4 of this part.
 
 (b) The information published under this section must include an accurate description of the services offered to the public; must provide the specific applicable rates (or the basis for calculating the specific applicable rates), charges, and service terms; and must be arranged in a way that allows for the determination of the exact rate, charges, and service terms applicable to any given shipment (or to any given group of shipments). Increases, reductions and other changes must be symbolized or highlighted in some way to facilitate ready identification of the changes, the nature of those changes and their effective dates.
