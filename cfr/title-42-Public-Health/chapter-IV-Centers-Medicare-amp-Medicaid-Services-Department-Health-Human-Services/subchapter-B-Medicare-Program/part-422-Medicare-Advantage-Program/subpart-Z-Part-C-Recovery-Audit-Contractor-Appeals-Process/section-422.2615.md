@@ -20,4 +20,4 @@
 
 (2) If the CMS Administrator declines to review the hearing official's decision, the hearing official's decision is final and binding.
 
-(e) *CMS Administrator's review.* If the CMS Administrator agrees to review the hearing official's decision, he or she determines, based upon this decision, the hearing record, and any arguments submitted by the MA organization or CMS in accordance with this section, whether the determination should be upheld, reversed, or modified. The Administrator furnishes a written decision, which is final and binding, to the MA organization and to CMS. /
+(e) *CMS Administrator's review.* If the CMS Administrator agrees to review the hearing official's decision, he or she determines, based upon this decision, the hearing record, and any arguments submitted by the MA organization or CMS in accordance with this section, whether the determination should be upheld, reversed, or modified. The Administrator furnishes a written decision, which is final and binding, to the MA organization and to CMS.

@@ -1,5 +1,7 @@
 ##### § 73.872 Selection procedure for mutually exclusive LPFM applications. #####
 
+Link to an amendment published at 85 FR 7889, Feb. 12, 2020.
+
 (a) Following the close of each window for new LPFM stations and for modifications in the facilities of authorized LPFM stations, the Commission will issue a public notice identifying all groups of mutually exclusive applications. Such applications will be awarded points to determine the tentative selectee. Unless resolved by settlement pursuant to paragraph (e) of this section, the tentative selectee will be the applicant within each group with the highest point total under the procedure set forth in this section, except as provided in paragraphs (c) and (d) of this section .
 
 (b) Each mutually exclusive application will be awarded one point for each of the following criteria, based on certifications that the qualifying conditions are met and submission of any required documentation:

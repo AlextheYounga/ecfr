@@ -1,5 +1,7 @@
 ##### § 192.12 Underground natural gas storage facilities. #####
 
+Link to an amendment published at 85 FR 8126, Feb. 12, 2020.
+
 Underground natural gas storage facilities must meet the following requirements:
 
 (a) Each underground natural gas storage facility that uses a solution-mined salt cavern reservoir for gas storage constructed after July 18, 2017 must meet all requirements and recommendations of API RP 1170 (incorporated by reference, see § 192.7).

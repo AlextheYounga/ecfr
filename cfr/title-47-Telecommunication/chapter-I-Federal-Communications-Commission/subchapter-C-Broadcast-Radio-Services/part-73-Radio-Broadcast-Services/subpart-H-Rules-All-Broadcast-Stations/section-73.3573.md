@@ -1,5 +1,7 @@
 ##### § 73.3573 Processing FM broadcast station applications. #####
 
+Link to an amendment published at 85 FR 7890, Feb. 12, 2020.
+
 (a) Applications for FM broadcast stations are divided into two groups:
 
 (1) In the first group are applications for new stations or for major changes of authorized stations. A major change in ownership is any change where the original party or parties to the application do not retain more than 50 percent ownership interest in the application as originally filed. In the case of a Class D or an NCE FM reserved band channel station, a major facility change is any change in antenna location which would not continue to provide a 1 mV/m service to some portion of its previously authorized 1 mV/m service area. In the case of a Class D station, a major facility change is any change in community of license or any change in frequency other than to a first-, second-, or third-adjacent channel. A major facility change for a commercial or a noncommercial educational full service FM station, a winning auction bidder, or a tentative selectee authorized or determined under this part is any change in frequency or community of license which is not in accord with its current assignment, except for the following:

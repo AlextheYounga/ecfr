@@ -98,19 +98,12 @@
 
 Infant Meal Patterns
 
-|          Infants          |                    Birth through 5 months                    |                                                6 through 11 months                                                |
-|---------------------------|--------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-|Breakfast, Lunch, or Supper|4-6 fluid ounces breastmilk<sup>1</sup> or formula<sup>2</sup>|                        6-8 fluid ounces breastmilk<sup>1</sup> or formula;<sup>2</sup> and                        |
-|                           |                                                              |0-4 tablespoons infant cereal,<sup>3</sup> meat, fish, poultry, whole egg, cooked dry beans, or cooked dry peas; or|
-|                           |                                                              |                                             0-2 ounces of cheese; or                                              |
-|                           |                                                              |                                     0-4 ounces (volume) of cottage cheese; or                                     |
-|                           |                                                              |            0-4 ounces or1/2 cup of yogurt;<sup>4</sup> or a combination of the above;<sup>5</sup> and             |
-|                           |                                                              |                         0-2 tablespoons vegetable or fruit, or a combination of both.5 6                          |
-|           Snack           |4-6 fluid ounces breastmilk<sup>1</sup> or formula<sup>2</sup>|                        2-4 fluid ounces breastmilk<sup>1</sup> or formula<sup>2</sup>; and                        |
-|                           |                                                              |                                             0-1/2 slice bread; 3 7 or                                             |
-|                           |                                                              |                                               0-2 crackers; 3 7 or                                                |
-|                           |                                                              |                 0-4 tablespoons infant cereal 2 3 7 or ready-to-eat breakfast cereal; 3 5 7 8 and                 |
-|                           |                                                              |                         0-2 tablespoons vegetable or fruit, or a combination of both 5 6                          |
+|          Infants          |                  Age birth through 5 months                  |                                                                                                                                                                                                             Age 6 through 11 months                                                                                                                                                                                                             |
+|---------------------------|--------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Breakfast, Lunch, or Supper|4-6 fluid ounces breastmilk<sup>1</sup> or formula<sup>2</sup>|6-8 fluid ounces breastmilk<sup>1</sup> or formula;<sup>2</sup> and  <br/>0-4 tablespoons infant cereal,2 3 meat, fish, poultry, whole egg, cooked dry beans, or cooked dry peas; or  <br/>0-2 ounces of cheese; or  <br/>0-4 ounces (volume) of cottage cheese; or  <br/>0-4 ounces or1/2 cup of yogurt;<sup>4</sup> or a combination of the above;<sup>5</sup>  <br/>and  <br/>0-2 tablespoons vegetable or fruit, or a combination of both.5 6|
+|           Snack           |4-6 fluid ounces breastmilk<sup>1</sup> or formula<sup>2</sup>|                                                                             2-4 fluid ounces breastmilk<sup>1</sup> or formula;<sup>2</sup> and  <br/>0-1/2 slice bread; 3 7 or 0-2 crackers; 3 7 or  <br/>0-4 tablespoons infant cereal 2 3 or ready-to-eat breakfast cereal; 3 5 7 8 and  <br/>0-2 tablespoons vegetable or fruit, or a combination of both. 5 6                                                                              |
+
+Endnotes:
 
 <sup>1</sup> Breastmilk or formula, or portions of both, must be served; however, it is recommended that breastmilk be served in place of formula from birth through 11 months. For some breastfed infants who regularly consume less than the minimum amount of breastmilk per feeding, a serving of less than the minimum amount of breastmilk may be offered, with additional breastmilk offered at a later time if the infant will consume more.
 
@@ -334,4 +327,4 @@ Endnotes:
 
 (p) *Prohibition on using foods and beverages as punishments or rewards.* Meals served under this part must contribute to the development and socialization of children. Institutions and facilities must not use foods and beverages as punishments or rewards.
 
-[81 FR 24377, Apr. 25, 2016, as amended at 81 FR 75677, Nov. 1, 2016; 83 FR 56716, Nov. 30, 2017; 84 FR 50292, Sept. 25, 2019]
+[81 FR 24377, Apr. 25, 2016, as amended at 81 FR 75677, Nov. 1, 2016; 83 FR 56716, Nov. 30, 2017; 84 FR 50292, Sept. 25, 2019; 85 FR 7855, Feb. 12, 2020]

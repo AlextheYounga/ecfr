@@ -1,6 +1,4 @@
-##### § 110.8 Rules of practice. #####
-
-Link to an amendment published at 85 FR 7445, Feb. 10, 2020.
+##### § 110.8 Administrative procedures. #####
 
 (a) *Notice of violation.* If there is reason to believe that a person has violated or is violating any provision of this part, the complainant may file with the Presiding Officer a notice of violation signed by the complainant. The notice of violation shall state:
 
@@ -72,7 +70,7 @@ Link to an amendment published at 85 FR 7445, Feb. 10, 2020.
 
 (6) Actions taken as a result of a conference shall be reduced to a written appropriate order, unless the Presiding Officer concludes that a stenographic report shall suffice, or, the Presiding Officer elects to make a statement on the record at the hearing summarizing the actions taken.
 
-(h) *Procedure for hearing* - (1) *Request for hearing.* The complainant or respondent may request a hearing on the facts by including such a request in the notice of violation or answer, or by a separate request, in writing, filed with the Presiding Officer within the time in which an answer may be filed. Failure to request a hearing within the time allowed for the filing of the answer shall constitute a waiver of a hearing. In the event the respondent denies any material fact and fails to file a timely request for a hearing, the matter may be set down for hearing on motion of the complainant filed with the Presiding Officer or upon the Presiding Officer's own motion.
+(h) *Procedure for hearing*—(1) *Request for hearing.* The complainant or respondent may request a hearing on the facts by including such a request in the notice of violation or answer, or by a separate request, in writing, filed with the Presiding Officer within the time in which an answer may be filed. Failure to request a hearing within the time allowed for the filing of the answer shall constitute a waiver of a hearing. In the event the respondent denies any material fact and fails to file a timely request for a hearing, the matter may be set down for hearing on motion of the complainant filed with the Presiding Officer or upon the Presiding Officer's own motion.
 
 (2) *Time and place.* If any material issue of fact is joined by the pleading, the Presiding Officer, upon motion of any of the parties stating that the matter is at issue and is ready for hearing, shall set a time and place for hearing as soon as feasible with due regard for the public interest and the convenience and necessity of the parties. The Presiding Officer shall issue a notice stating the time and place of hearing. If any change in the time or place of the hearing is made, the Presiding Officer shall issue a notice of this change, which notice shall be served upon the complainant and respondent, unless it is made during the course of an oral hearing and made a part of the transcript, or actual notice is given to the parties.
 
@@ -104,7 +102,7 @@ Link to an amendment published at 85 FR 7445, Feb. 10, 2020.
 
 (13) *Transcript.* Hearings shall be recorded and transcribed verbatim.
 
-(i) *Post-hearing procedure* - (1) *Corrections to transcript.* (i) Within the period of time fixed by the Presiding Officer, any party may file a motion proposing corrections to the transcript.
+(i) *Post-hearing procedure*—(1) *Corrections to transcript.* (i) Within the period of time fixed by the Presiding Officer, any party may file a motion proposing corrections to the transcript.
 
 (ii) Unless a party files a motion proposing corrections to the transcript in the time fixed by the Presiding Officer, the transcript shall be presumed, except for obvious typographical errors, to be a true, correct, and complete transcript of the testimony given at the hearing and to contain an accurate description or reference to all exhibits received in evidence and made part of the hearing record and shall be deemed to be certified without further action by the Presiding Officer.
 
@@ -116,7 +114,7 @@ Link to an amendment published at 85 FR 7445, Feb. 10, 2020.
 
 (ii) The Presiding Officer's decision shall become effective without further proceedings 35 days after the date of service of the decision upon the respondent, unless there is an appeal to the Administrator by a party to the proceeding pursuant to paragraph (l) of this section.
 
-(j) *Motions and requests* - (1) *General.* All motions and requests shall be filed with the Presiding Officer, and served upon all the parties, except:
+(j) *Motions and requests*—(1) *General.* All motions and requests shall be filed with the Presiding Officer, and served upon all the parties, except:
 
 (i) requests for extensions of time pursuant to paragraph (m)(3) of this section; and
 
@@ -130,7 +128,7 @@ Link to an amendment published at 85 FR 7445, Feb. 10, 2020.
 
 (4) *Response to motions and requests.* Within 10 days after service of any written motion or request, or within a shorter or longer period as may be fixed by the Presiding Officer or the Administrator, an opposing party may file a response to the motion or request. The other party shall have no right to reply to the response; however, the Presiding Officer or the Administrator, in their discretion, may order that a reply be filed.
 
-(k) *Presiding Officer* - (1) *Assignment.* No Presiding Officer shall be assigned to serve in any proceeding who:
+(k) *Presiding Officer*—(1) *Assignment.* No Presiding Officer shall be assigned to serve in any proceeding who:
 
 (i) Has any pecuniary interest in any matter or business involved in the proceeding;
 
@@ -160,7 +158,7 @@ Link to an amendment published at 85 FR 7445, Feb. 10, 2020.
 
 (viii) Take all other actions authorized under this section.
 
-(l) *Appeal to the Administrator* - (1) *Filing of petition.* Within 30 days after receiving notice of the Presiding Officer's decision, a party who disagrees with the decision, or any part of the Presiding Officer's decision, or any ruling by the Presiding Officer or a party who alleges a deprivation of rights, may appeal the Presiding Officer's decision or rulings to the Administrator by filing an appeal petition with the Administrator. As provided in paragraph (h)(8) of this section, objections regarding evidence or a limitation regarding examination or cross examination or other ruling made before the Presiding Officer may be relied upon in an appeal. The appeal petition shall state the name and address of the person filing the appeal petition. Each issue set forth in the appeal petition, and the arguments on each issue, shall be separately numbered; shall be plainly and concisely stated; and shall contain detailed citations of the record, statutes, regulations, or authorities being relied upon in support of the argument. A brief may be filed in support of the appeal simultaneously with the appeal petition.
+(l) *Appeal to the Administrator*—(1) *Filing of petition.* Within 30 days after receiving notice of the Presiding Officer's decision, a party who disagrees with the decision, or any part of the Presiding Officer's decision, or any ruling by the Presiding Officer or a party who alleges a deprivation of rights, may appeal the Presiding Officer's decision or rulings to the Administrator by filing an appeal petition with the Administrator. As provided in paragraph (h)(8) of this section, objections regarding evidence or a limitation regarding examination or cross examination or other ruling made before the Presiding Officer may be relied upon in an appeal. The appeal petition shall state the name and address of the person filing the appeal petition. Each issue set forth in the appeal petition, and the arguments on each issue, shall be separately numbered; shall be plainly and concisely stated; and shall contain detailed citations of the record, statutes, regulations, or authorities being relied upon in support of the argument. A brief may be filed in support of the appeal simultaneously with the appeal petition.
 
 (2) *Response to appeal petition.* Within 20 days after the service of a copy of an appeal petition and any brief in support of the appeal petition, filed by a party to the proceeding, any other party may file with the Administrator a response in support of or in opposition to the appeal petition and, in such response any relevant issue, not presented in the appeal petition, may be raised.
 
@@ -168,7 +166,7 @@ Link to an amendment published at 85 FR 7445, Feb. 10, 2020.
 
 (4) *Decision of the Administrator on appeal.* As soon as practicable after the receipt of the record from the Presiding Officer, the Administrator, upon the basis of and after due consideration of the record and any matter of which official notice is taken, shall rule on the appeal. If the Administrator decides that no change or modification of the Presiding Officer's decision is warranted, the Administrator may adopt the Presiding Officer's decision as the final order in the proceeding, preserving any right of the party bringing the appeal to seek judicial review of such decision in the proper forum.
 
-(m) *Filing; service; extensions of time; and computation of time* - (1) *Filing; number of copies.* Except as otherwise provided in this section, all documents or papers required or authorized by this section to be filed with the Presiding Officer or Administrator shall be filed in quadruplicate: *Provided,* That where there are more than two parties in the proceeding, an additional copy shall be filed for each additional party.
+(m) *Filing; service; extensions of time; and computation of time*—(1) *Filing; number of copies.* Except as otherwise provided in this section, all documents or papers required or authorized by this section to be filed with the Presiding Officer or Administrator shall be filed in quadruplicate: *Provided,* That where there are more than two parties in the proceeding, an additional copy shall be filed for each additional party.
 
 (2) *Service; proof of service.* Copies of all documents or papers required or authorized by this section to be filed with the Presiding Officer or Administrator shall be served upon the parties by the person with whom such documents or papers are filed. Service shall be made either:
 

@@ -10,4 +10,4 @@
 
 (e) Separate penalties for violating a regulation prescribed under this subchapter and for violating an order issued under §§ 190.206, 190.213, 190.233, or 190.239 may not be imposed under this section if both violations are based on the same act.
 
-[Amdt. 190-16, 78 FR 58912, Sept. 25, 2013, as amended at 81 FR 42566, June 30, 2016; Amdt. 190-17, 82 FR 19328, Apr. 27, 2017; 83 FR 60744, Nov. 27, 2018; 84 FR 37071, July 31, 2019]
+[Amdt. 190-16, 78 FR 58912, Sept. 25, 2013, as amended at 81 FR 42566, June 30, 2016; Amdt. 190-17, 82 FR 19328, Apr. 27, 2017; 84 FR 37071, July 31, 2019]

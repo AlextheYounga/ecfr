@@ -40,4 +40,18 @@
 
 (c) No later than February 21, 2019, the Secretary or Director will publish and seek comment on a report evaluating the burden of this section on affected entities and duplication of activities in relation to mandatory passenger data submissions to DHS/CBP. The report will specifically recommend actions that streamline and facilitate use and transmission of any duplicate information collected.
 
-[82 FR 6975, Jan. 19, 2017, as amended at 82 FR 31728, July 10, 2017]
+(d) Notwithstanding paragraph (a) of this section, any airline with a flight arriving into the United States, including any intermediate stops between the flight's origin and final destination, shall collect and, within 24 hours of an order by the Director, transmit to the Director the data elements in paragraph (e) of this section, in a format acceptable to the Director, for the passengers or crew who may be at risk of exposure to a communicable disease, for the purposes of public health follow-up, such as health education, treatment, prophylaxis, or other appropriate public health interventions, including travel restrictions.
+
+(e) The data elements referred to in paragraph (d) of this section include, to the extent that such information exists for the individual:
+
+(1) Full name (last, first, and, if available, middle or others);
+
+(2) Address while in the United States (number and street, city, State, and zip code), except that U.S. citizens and lawful permanent residents will provide address of permanent residence in the U.S. (number and street, city, State, and zip code);
+
+(3) Primary contact phone number to include country code;
+
+(4) Secondary contact phone number to include country code; and
+
+(5) Email address.
+
+[82 FR 6975, Jan. 19, 2017, as amended at 82 FR 31728, July 10, 2017; 85 FR 7880, Feb. 12, 2020]

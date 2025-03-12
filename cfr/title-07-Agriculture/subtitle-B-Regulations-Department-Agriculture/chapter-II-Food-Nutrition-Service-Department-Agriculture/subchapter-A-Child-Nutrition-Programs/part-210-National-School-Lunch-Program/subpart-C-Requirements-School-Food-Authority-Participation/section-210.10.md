@@ -252,22 +252,22 @@ Preschool Snack Meal Pattern
 |--------------------------------------------------------------------------------------------------------|------------------|-------------------|
 |                                                Ages 1-2                                                |     Ages 3-5     |                   |
 |                                         Fluid Milk<sup>2</sup>                                         |  4 fluid ounces  |  4 fluid ounces.  |
-|                            Meat/meat alternates (edible portion as served):                            |                  |                   |
+|                            Meat/Meat Alternates (edible portion as served):                            |                  |                   |
 |                                      Lean meat, poultry, or fish                                       |    1/2 ounce     |    1/2 ounce.     |
-|                     Tofu, soy products, or alternate protein products.<sup>3</sup>                     |    1/2 ounce     |    1/2 ounce.     |
+|                     Tofu, soy products, or alternate protein products<sup>3</sup>                      |    1/2 ounce     |    1/2 ounce.     |
 |                                                 Cheese                                                 |    1/2 ounce     |    1/2 ounce.     |
 |                                               Large egg                                                |       1/2        |       1/2.        |
 |                                        Cooked dry beans or peas                                        |     1/8 cup      |     1/8 cup.      |
-|                      Peanut butter or soy nut butter or other nut or seed butters                      |      1 Tbsp      |      1 Tbsp.      |
-|                    Yogurt, plain or flavored unsweetened or sweetened.<sup>5</sup>                     |2 ounces or1/4 cup|2 ounces or1/4 cup.|
+|                      Peanut butter or soy nut butter or other nut or seed butters                      |   1 tablespoon   |   1 tablespoon.   |
+|                     Yogurt, plain or flavored unsweetened or sweetened<sup>4</sup>                     |2 ounces or1/4 cup|2 ounces or1/4 cup.|
 |                                 Peanuts, soy nuts, tree nuts, or seeds                                 |    1/2 ounce     |    1/2 ounce.     |
-|                                         Vegetables<sup>4</sup>                                         |     1/2 cup      |     1/2 cup.      |
-|                                           Fruits<sup>4</sup>                                           |     1/2 cup      |     1/2 cup.      |
-|                                Grains (oz eq) :<sup>6</sup><sup>7</sup>                                |                  |                   |
+|                                         Vegetables<sup>5</sup>                                         |     1/2 cup      |     1/2 cup.      |
+|                                           Fruits<sup>5</sup>                                           |     1/2 cup      |     1/2 cup.      |
+|                                     Grains (ounce equivalent): 6 7                                     |                  |                   |
 |                                   Whole grain-rich or enriched bread                                   |    1/2 slice     |    1/2 slice.     |
 |              Whole grain-rich or enriched bread product, such as biscuit, roll, or muffin              |   1/2 serving    |   1/2 serving.    |
 |Whole grain-rich, enriched, or fortified cooked breakfast cereal,<sup>8</sup> cereal grain, and/or pasta|     1/4 cup      |     1/4 cup.      |
-|         Whole grain-rich, enriched, or fortified ready-to-eat cereal (dry, cold):<sup>8</sup>          |                  |                   |
+|          Whole grain-rich, enriched, or fortified ready-to-eat cereal (dry, cold)<sup>8</sup>          |                  |                   |
 |                                            Flakes or rounds                                            |     1/2 cup      |     1/2 cup.      |
 |                                             Puffed cereal                                              |     3/4 cup      |     3/4 cup.      |
 |                                                Granola                                                 |     1/8 cup      |     1/8 cup.      |
@@ -280,9 +280,9 @@ Endnotes:
 
 <sup>3</sup> Alternate protein products must meet the requirements in Appendix A to Part 226 of this chapter.
 
-<sup>4</sup> Pasteurized full-strength juice may only be used to meet the vegetable or fruit requirement at one meal, including snack, per day.
+<sup>4</sup> Yogurt must contain no more than 23 grams of total sugars per 6 ounces.
 
-<sup>5</sup> Yogurt must contain no more than 23 grams of total sugars per 6 ounces.
+<sup>5</sup> Pasteurized full-strength juice may only be used to meet the vegetable or fruit requirement at one meal, including snack, per day.
 
 <sup>6</sup> At least one serving per day, across all eating occasions, must be whole grain-rich. Grain-based desserts do not count towards meeting the grains requirement.
 
@@ -296,9 +296,11 @@ Endnotes:
 
 Infant Snack Meal Pattern
 
-|                    Birth through 5 months                     |                                                                                                                                            6 through 11 months                                                                                                                                             |
-|---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|4-6 fluid ounces breastmilk<sup>1</sup> or formula.<sup>2</sup>|2-4 fluid ounces breastmilk<sup>1</sup> or  <br/>formula;<sup>2</sup> and  <br/>0-1/2 slice bread;3 4 or  <br/>0-2 crackers;3 4 or  <br/>0-4 tablespoons infant cereal 2 3 4 or  <br/>ready-to-eat breakfast cereal;3 4 5 6 and  <br/>0-2 tablespoons vegetable or fruit,  <br/>or a combination of both.6 7|
+|                  Age birth through 5 months                  |                                                                                                                                  Age 6 through 11 months                                                                                                                                   |
+|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|4-6 fluid ounces breastmilk<sup>1</sup> or formula<sup>2</sup>|2-4 fluid ounces breastmilk<sup>1</sup> or formula;<sup>2</sup> and  <br/>0-1/2 slice bread; 3 4 or  <br/>0-2 crackers; 3 4 or  <br/>0-4 tablespoons infant cereal 2 4 or ready-to-eat breakfast cereal; 3 4 5 6 and  <br/>0-2 tablespoons vegetable or fruit, or a combination of both. 6 7|
+
+Endnotes:
 
 <sup>1</sup> Breastmilk or formula, or portions of both, must be served; however, it is recommended that breastmilk be served in place of formula from birth through 11 months. For some breastfed infants who regularly consume less than the minimum amount of breastmilk per feeding, a serving of less than the minimum amount of breastmilk may be offered, with additional breastmilk offered at a later time if the infant will consume more.
 
@@ -368,9 +370,11 @@ Endnotes:
 
 Infant Lunch Meal Pattern
 
-|                    Birth through 5 months                    |                                                                                                                                                                                                                                         6 through 11 months                                                                                                                                                                                                                                          |
-|--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|4-6 fluid ounces breastmilk<sup>1</sup> or formula<sup>2</sup>|6-8 fluid ounces breastmilk<sup>1</sup> or  <br/>formula<sup>2</sup> and  <br/>0-4 tablespoons  <br/>infant cereal 2 3  <br/>meat,  <br/>fish,  <br/>poultry,  <br/>whole egg,  <br/>cooked dry beans, or  <br/>cooked dry peas; or  <br/>0-2 ounces of cheese; or  <br/>0-4 ounces (volume) of cottage cheese; or  <br/>0-4 ounces or1/2 cup of yogurt;<sup>4</sup> or  <br/>a combination of the above;<sup>5</sup> and  <br/>0-2 tablespoons vegetable or  <br/>fruit, or a combination of both 5 6|
+|                  Age birth through 5 months                  |                                                                                                                                                                                                          Age 6 through 11 months                                                                                                                                                                                                           |
+|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|4-6 fluid ounces breastmilk<sup>1</sup> or formula<sup>2</sup>|6-8 fluid ounces breastmilk<sup>1</sup> or formula;<sup>2</sup> and  <br/>0-4 tablespoons infant cereal, 2 3 meat, fish, poultry, whole egg, cooked dry beans, or cooked dry peas; or  <br/>0-2 ounces of cheese; or  <br/>0-4 ounces (volume) of cottage cheese; or  <br/>0-4 ounces or1/2 cup of yogurt;<sup>4</sup> or a combination of the above;<sup>5</sup> and  <br/>0-2 tablespoons vegetable or fruit, or a combination of both.5 6|
+
+Endnotes:
 
 <sup>1</sup> Breastmilk or formula, or portions of both, must be served; however, it is recommended that breastmilk be served in place of formula from birth through 11 months. For some breastfed infants who regularly consume less than the minimum amount of breastmilk per feeding, a serving of less than the minimum amount of breastmilk may be offered, with additional breastmilk offered at a later time if the infant will consume more.
 
@@ -384,4 +388,4 @@ Infant Lunch Meal Pattern
 
 <sup>6</sup> Fruit and vegetable juices must not be served.
 
-[77 FR 4143, Jan. 26, 2012, as amended at 78 FR 13448, Feb. 28, 2013; 78 FR 39090, June 28, 2013; 81 FR 24372, Apr. 25, 2016; 81 FR 50185, July 29, 2016; 81 FR 75671, Nov. 1, 2016; 82 FR 56713, Nov. 30, 2017; 83 FR 63789, Dec. 12, 2018; 84 FR 50289, Sept. 25, 2019]
+[77 FR 4143, Jan. 26, 2012, as amended at 78 FR 13448, Feb. 28, 2013; 78 FR 39090, June 28, 2013; 81 FR 24372, Apr. 25, 2016; 81 FR 50185, July 29, 2016; 81 FR 75671, Nov. 1, 2016; 82 FR 56713, Nov. 30, 2017; 83 FR 63789, Dec. 12, 2018; 84 FR 50289, Sept. 25, 2019; 85 FR 7853, Feb. 12, 2020]

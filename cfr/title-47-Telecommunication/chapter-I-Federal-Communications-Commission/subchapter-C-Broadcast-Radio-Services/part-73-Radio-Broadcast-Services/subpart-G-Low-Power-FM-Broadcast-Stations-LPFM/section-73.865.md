@@ -1,5 +1,7 @@
 ##### § 73.865 Assignment and transfer of LPFM licenses. #####
 
+Link to an amendment published at 85 FR 7889, Feb. 12, 2020.
+
 (a) *Assignment/Transfer:* No party may assign or transfer an LPFM license if:
 
 (1) Consideration promised or received exceeds the depreciated fair market value of the physical equipment and facilities; and/or

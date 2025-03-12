@@ -1,5 +1,7 @@
 ##### § 191.1 Scope. #####
 
+Link to an amendment published at 85 FR 8124, Feb. 12, 2020.
+
 (a) This part prescribes requirements for the reporting of incidents, safety-related conditions, annual pipeline summary data, National Operator Registry information, and other miscellaneous conditions by operators of underground natural gas storage facilities and natural gas pipeline facilities located in the United States or Puerto Rico, including underground natural gas storage facilities and pipelines within the limits of the Outer Continental Shelf as that term is defined in the Outer Continental Shelf Lands Act (43 U.S.C. 1331).
 
 (b) This part does not apply to -

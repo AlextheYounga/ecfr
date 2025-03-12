@@ -188,14 +188,11 @@ Endnotes:
 
 Infant Breakfast Meal Pattern
 
-|                    Birth through 5 months                    |                                           6 through 11 months                                            |
-|--------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-|4-6 fluid ounces breastmilk<sup>1</sup> or formula<sup>2</sup>|                   6-8 fluid ounces breastmilk<sup>1</sup> or formula;<sup>2</sup> and                    |
-|                                                              |0-4 tablespoons infant cereal 2 3 meat, fish, poultry, whole egg, cooked dry beans, or cooked dry peas; or|
-|                                                              |                                         0-2 ounces of cheese; or                                         |
-|                                                              |                                0-4 ounces (volume) of cottage cheese; or                                 |
-|                                                              |        0-4 ounces or1/2 cup of yogurt;<sup>4</sup> or a combination of the above<sup>5</sup>; and        |
-|                                                              |                     0-2 tablespoons vegetable or fruit, or a combination of both.5 6                     |
+|                  Age birth through 5 months                  |                                                                                                                                                                                                          Age 6 through 11 months                                                                                                                                                                                                          |
+|--------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|4-6 fluid ounces breastmilk<sup>1</sup> or formula<sup>2</sup>|6-8 fluid ounces breastmilk<sup>1</sup> or formula;<sup>2</sup> and  <br/>0-4 tablespoons infant cereal,2 3 meat, fish, poultry, whole egg, cooked dry beans, or cooked dry peas; or  <br/>0-2 ounces of cheese; or  <br/>0-4 ounces (volume) of cottage cheese; or  <br/>0-4 ounces or1/2 cup of yogurt;<sup>4</sup> or a combination of the above;<sup>5</sup> and  <br/>0-2 tablespoons vegetable or fruit, or a combination of both 5 6|
+
+Endnotes:
 
 <sup>1</sup> Breastmilk or formula, or portions of both, must be served; however, it is recommended that breastmilk be served in place of formula from birth through 11 months. For some breastfed infants who regularly consume less than the minimum amount of breastmilk per feeding, a serving of less than the minimum amount of breastmilk may be offered, with additional breastmilk offered at a later time if the infant will consume more.
 
@@ -209,4 +206,4 @@ Infant Breakfast Meal Pattern
 
 <sup>6</sup> Fruit and vegetable juices must not be served.
 
-[77 FR 4154, Jan. 26, 2012, as amended at 78 FR 39093, June 28, 2013; 81 FR 24375, Apr. 25, 2016; 81 FR 50193, July 29, 2016; 81 FR 75675, Nov. 1, 2016; 82 FR 56714, Nov. 30, 2017; 83 FR 63790, Dec. 12, 2018; 84 FR 50292, Sept. 25, 2019]
+[77 FR 4154, Jan. 26, 2012, as amended at 78 FR 39093, June 28, 2013; 81 FR 24375, Apr. 25, 2016; 81 FR 50193, July 29, 2016; 81 FR 75675, Nov. 1, 2016; 82 FR 56714, Nov. 30, 2017; 83 FR 63790, Dec. 12, 2018; 84 FR 50292, Sept. 25, 2019; 85 FR 7854, Feb. 12, 2020]

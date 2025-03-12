@@ -1,7 +1,5 @@
 ##### § 4.13 Exemption from registration as a commodity pool operator. #####
 
-Link to an amendment published at 84 FR 67368, Dec. 10, 2019.
-
 This section is organized as follows: Paragraph (a) of this section specifies the criteria that must be met to qualify for exemption from registration under this section; paragraph (b) of this section governs the notice that must be filed to claim exemption from registration; paragraph (c) of this section sets forth the continuing obligations of a person who has claimed exemption under this section; paragraph (d) of this section specifies information certain persons must provide if they subsequently register; paragraph (e) of this section specifies the effect of registration on a person who has claimed an exemption from registration under this section or who is eligible to claim an exemption from registration hereunder; and paragraph (f) of this section specifies the effect of this section on § 4.5 of this chapter.
 
 (a) A person is not required to register under the Act as a commodity pool operator if:
@@ -30,7 +28,7 @@ This section is organized as follows: Paragraph (a) of this section specifies th
 
 (3) For each pool for which the person claims exemption from registration under this paragraph (a)(3):
 
-(i) Interests in the pool are exempt from registration under the Securities Act of 1933, and such interests are offered and sold without marketing to the public in the United States;
+(i) Interests in the pool are exempt from registration under the Securities Act of 1933, and the interests are marketed and advertised to the public in the United States solely, if at all, in compliance with § 230.506(c) of this title, or with Rule 144A, § 230.144A of this title, as applicable;
 
 (ii) At all times, the pool meets one or the other of the following tests with respect to its commodity interest positions, including positions in security futures products, whether entered into for *bona fide* hedging purposes or otherwise:
 
@@ -48,11 +46,9 @@ This section is organized as follows: Paragraph (a) of this section specifies th
 
 (B) A trust that is not an accredited investor but that was formed by an accredited investor for the benefit of a family member;
 
-(C) A “knowledgeable employee,” as that term is defined in § 270.3c-5 of this title;
+(C) A “knowledgeable employee,” as that term is defined in § 270.3c-5 of this title; or
 
-(D) A “qualified eligible person,” as that term is defined in § 4.7(a)(2)(viii)(A) of this chapter; or
-
-(E) A person eligible to participate in a pool for which the pool operator can claim exemption from registration under paragraph (a)(4) of this section; and
+(D) A “qualified eligible person,” as that term is defined in § 4.7; and
 
 (iv) Participations in the pool are not marketed as or in a vehicle for trading in the commodity futures or commodity options markets; *Provided,* That nothing in paragraph (a)(3) of this section shall prohibit the person from claiming an exemption under this section if it additionally operates one or more pools for which it meets the criteria of paragraph (a)(4) of this section;
 
@@ -66,7 +62,15 @@ This section is organized as follows: Paragraph (a) of this section specifies th
 
 (iii) The registered pool operator of the pool is and will be liable for any violation of the Act or the Commission's regulations by the person in connection with the person's serving as a director or trustee with respect to the pool.
 
-(6)(i) Eligibility for exemption under paragraph (a)(1), (a)(2), (a)(3) or (a)(4) of this section is subject to the person furnishing in written communication physically delivered or delivered through electronic transmission to each prospective participant in the pool:
+(6) For each pool for which the person claims exemption under this paragraph (a)(6):
+
+(i) Interests in the pool are exempt from registration under the Securities Act of 1933, and such interests are offered and sold only to “family clients,” as defined in § 275.202(a)(11)(G)-1 of this title;
+
+(ii) The person qualifies as a “family office,” as defined in § 275.202(a)(11)(G)-1 of this title; and
+
+(iii) The person reasonably believes, at the time of investment, or in the case of an existing pool, at the time of conversion to a pool meeting the criteria of this paragraph (a)(6) of this section, that each person who participates in the pool is a “family client” of the “family office,” as defined in § 275.202(a)(11)(G)-1 of this title.
+
+(7)(i) Eligibility for exemption under paragraph (a)(1), (a)(2), (a)(3) or (a)(4) of this section is subject to the person furnishing in written communication physically delivered or delivered through electronic transmission to each prospective participant in the pool:
 
 (A) A statement that the person is exempt from registration with the Commission as a commodity pool operator and that therefore, unlike a registered commodity pool operator, it is not required to deliver a Disclosure Document and a certified annual report to participants in the pool; and
 
@@ -74,7 +78,7 @@ This section is organized as follows: Paragraph (a) of this section specifies th
 
 (ii) The person must make these disclosures by no later than the time it delivers a subscription agreement for the pool to a prospective participant in the pool.
 
-(b)(1) Any person who desires to claim the relief from registration provided by this section, must file electronically a notice of exemption from commodity pool operator registration with the National Futures Association through its electronic exemption filing system. The notice must:
+(b)(1) Any person who desires to claim the relief from registration provided by this section, except for any person claiming the exemption for family offices in paragraph (a)(6) of this section, must file electronically a notice of exemption from commodity pool operator registration with the National Futures Association through its electronic exemption filing system. The notice must:
 
 (i) Provide the name, main business address, main business telephone number, main facsimile number and main email address of the person claiming the exemption and the name of the pool for which it is claiming exemption;
 
@@ -90,7 +94,7 @@ This section is organized as follows: Paragraph (a) of this section specifies th
 
 (5) Each person who has filed a notice of exemption from registration under this section must, in the event that any of the information contained or representations made in the notice becomes inaccurate or incomplete, amend the notice through National Futures Association's electronic exemption filing system as may be necessary to render the notice accurate and complete. This amendment must be filed electronically within 15 business days after the pool operator becomes aware of the occurrence of such event.
 
-(c)(1) Each person who has filed a notice of exemption from registration under this section must:
+(c)(1) Each person who has claimed an exemption from registration under this section must:
 
 (i) Make and keep all books and records prepared in connection with its activities as a pool operator for a period of five years from the date of preparation;
 
@@ -122,4 +126,4 @@ This section is organized as follows: Paragraph (a) of this section specifies th
 
 (f) The filing of a notice of exemption from registration under this section will not affect the ability of a person to qualify for exclusion from the definition of the term “commodity pool operator” under § 4.5 in connection with its operation of another trading vehicle that is not covered under this § 4.13.
 
-(Approved by the Office of Management and Budget under control number 3038-0005)(Secs. 2(a)(1), 4c(a)-(d), 4d, 4f, 4g, 4k, 4m, 4n, 8a, 15 and 17, Commodity Exchange Act (7 U.S.C. 2, 4, 6c(a)-(d), 6f, 6g, 6k, 6m, 6n, 12a, 19 and 21; 5 U.S.C. 552 and 552b))[46 FR 26013, May 8, 1981, as amended at 46 FR 63035, Dec. 30, 1981; 47 FR 57011, Dec. 22, 1982; 50 FR 15883, Apr. 23, 1985; 67 FR 77411, Dec. 18, 2002; 68 FR 47231, Aug. 8, 2003; 68 FR 59113, Oct. 14, 2003; 69 FR 41426, July 9, 2004; 72 FR 1663, Jan. 16, 2007; 74 FR 57590, Nov. 9, 2009; 75 FR 55428, Sept. 10, 2010; 76 FR 28645, May 18, 2011; 77 FR 11284, Feb. 24, 2012; 77 FR 17329, Mar. 26, 2012]
+(Approved by the Office of Management and Budget under control number 3038-0005)(Secs. 2(a)(1), 4c(a)-(d), 4d, 4f, 4g, 4k, 4m, 4n, 8a, 15 and 17, Commodity Exchange Act (7 U.S.C. 2, 4, 6c(a)-(d), 6f, 6g, 6k, 6m, 6n, 12a, 19 and 21; 5 U.S.C. 552 and 552b))[46 FR 26013, May 8, 1981, as amended at 46 FR 63035, Dec. 30, 1981; 47 FR 57011, Dec. 22, 1982; 50 FR 15883, Apr. 23, 1985; 67 FR 77411, Dec. 18, 2002; 68 FR 47231, Aug. 8, 2003; 68 FR 59113, Oct. 14, 2003; 69 FR 41426, July 9, 2004; 72 FR 1663, Jan. 16, 2007; 74 FR 57590, Nov. 9, 2009; 75 FR 55428, Sept. 10, 2010; 76 FR 28645, May 18, 2011; 77 FR 11284, Feb. 24, 2012; 77 FR 17329, Mar. 26, 2012; 84 FR 67368, Dec. 10, 2019]

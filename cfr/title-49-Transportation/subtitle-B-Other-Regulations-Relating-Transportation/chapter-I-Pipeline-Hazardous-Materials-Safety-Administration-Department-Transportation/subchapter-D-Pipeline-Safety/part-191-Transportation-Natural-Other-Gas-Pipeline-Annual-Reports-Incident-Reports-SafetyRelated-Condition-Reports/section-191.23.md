@@ -1,6 +1,6 @@
 ##### § 191.23 Reporting safety-related conditions. #####
 
-Link to an amendment published at 84 FR 52242, Oct. 1, 2019.
+Link to an amendment published at 84 FR 52242, Oct. 1, 2019.Link to an amendment published at 85 FR 8125, Feb. 12, 2020.
 
 (a) Except as provided in paragraph (b) of this section, each operator shall report in accordance with § 191.25 the existence of any of the following safety-related conditions involving facilities in service:
 
