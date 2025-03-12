@@ -1,4 +1,4 @@
-##### § 578.505 Entries in certain accounts for normal service charges authorized. #####
+##### § 578.505 Entries in certain accounts for normal service charges. #####
 
 (a) A U.S. financial institution is authorized to debit any blocked account held at that financial institution in payment or reimbursement for normal service charges owed it by the owner of that blocked account.
 

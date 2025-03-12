@@ -1,7 +1,1 @@
-##### § 123.26 Recordkeeping for exemptions. #####
-
-Link to an amendment published at 87 FR 16424, Mar. 23, 2022.
-
-Any person engaging in any export, reexport, transfer, or retransfer of a defense article or defense service pursuant to an exemption must maintain records of each such export, reexport, transfer, or retransfer. The records shall, to the extent applicable to the transaction and consistent with the requirements of § 123.22 of this subchapter, include the following information: A description of the defense article, including technical data, or defense service; the name and address of the end-user and other available contact information (e.g., telephone number and electronic mail address); the name of the natural person responsible for the transaction; the stated end-use of the defense article or defense service; the date of the transaction; the Electronic Export Information (EEI) Internal Transaction Number (ITN); and the method of transmission. The person using or acting in reliance upon the exemption shall also comply with any additional recordkeeping requirements enumerated in the text of the regulations concerning such exemption (e.g., requirements specific to the Defense Trade Cooperation Treaties in § 126.16 and § 126.17 of this subchapter).
-
-[77 FR 16599, Mar. 21, 2012]
+##### § 123.26 [Reserved] #####

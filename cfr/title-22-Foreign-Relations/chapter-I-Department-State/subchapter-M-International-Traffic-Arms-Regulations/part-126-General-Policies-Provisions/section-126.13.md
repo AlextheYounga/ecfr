@@ -1,14 +1,12 @@
 ##### § 126.13 Required information. #####
 
-Link to an amendment published at 87 FR 16424, Mar. 23, 2022.
-
 (a) All applications for licenses (DSP-5, DSP-61, DSP-73, and DSP-85), all requests for approval of agreements and amendments thereto under part 124 of this subchapter, and all requests for other written authorizations (including requests for retransfer or reexport pursuant to § 123.9 of this subchapter) must include a letter signed by a responsible official empowered by the applicant and addressed to the Directorate of Defense Trade Controls, stating whether:
 
-(1) The applicant or the chief executive officer, president, vice-presidents, secretary, partner, member, other senior officers or officials (e.g., comptroller, treasurer, general counsel) or any member of the board of directors is the subject of an indictment or has been otherwise charged (e.g., by criminal information in lieu of indictment) for, or has been convicted of, violating any of the U.S. criminal statutes enumerated in § 120.27 of this subchapter;
+(1) The applicant or the chief executive officer, president, vice-presidents, secretary, partner, member, other senior officers or officials (e.g., comptroller, treasurer, general counsel) or any member of the board of directors is the subject of an indictment or has been otherwise charged (e.g., by criminal information in lieu of indictment) for, or has been convicted of, violating any of the U.S. criminal statutes enumerated in § 120.6 of this subchapter;
 
 (2) The applicant or the chief executive officer, president, vice-presidents, secretary, partner, member, other senior officers or officials (e.g., comptroller, treasurer, general counsel) or any member of the board of directors is ineligible to contract with, or to receive a license or other approval to temporarily import or export defense articles or defense services from any agency of the U.S. Government;
 
-(3) To the best of the applicant's knowledge, any party to the export as defined in § 126.7(e) has been convicted of violating any of the U.S. criminal statutes enumerated in § 120.27 of this subchapter, or is ineligible to contract with, or to receive a license or other approval to temporarily import or export defense articles or defense services from any agency of the U.S. government; and
+(3) To the best of the applicant's knowledge, any party to the export as defined in § 120.68(a) of this subchapter has been convicted of violating any of the U.S. criminal statutes enumerated in § 120.6, of this subchapter, or is ineligible to contract with, or to receive a license or other approval to temporarily import or export defense articles or defense services from any agency of the U.S. government; and
 
 (4) The natural person signing the application, notification, or other request for approval (including the statement required by this subchapter) is a citizen or national of the United States, has been lawfully admitted to the United States for permanent residence (and maintains such lawful permanent residence status) under the Immigration and Nationality Act, as amended (8 U.S.C. 1101(a)(20), 66 Stat. 163), or is an official of a foreign government entity in the United States, or is a foreign person making a request pursuant to § 123.9 of this subchapter.
 
@@ -16,4 +14,4 @@ Link to an amendment published at 87 FR 16424, Mar. 23, 2022.
 
 (c) In cases when natural foreign persons are employed at or assigned to security-cleared facilities, provision by the applicant of a technology control plan will facilitate processing.
 
-[58 FR 39312, July 22, 1993, as amended at 70 FR 50965, Aug. 29, 2005; 71 FR 20547, Apr. 21, 2006; 75 FR 52624, Aug. 27, 2010; 77 FR 16601, Mar. 21, 2012; 78 FR 52688, Aug. 26, 2013]
+[58 FR 39312, July 22, 1993, as amended at 70 FR 50965, Aug. 29, 2005; 71 FR 20547, Apr. 21, 2006; 75 FR 52624, Aug. 27, 2010; 77 FR 16601, Mar. 21, 2012; 78 FR 52688, Aug. 26, 2013; 87 FR 16424, Mar. 23, 2022]

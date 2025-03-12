@@ -1,6 +1,6 @@
 ##### § 83.01 Application (Rule 1). #####
 
-(a) These Rules apply to all vessels upon the inland waters of the United States, and to vessels of the United States on the Canadian waters of the Great Lakes to the extent that there is no conflict with Canadian law. The regulations in this subchapter (subchapter E, 33 CFR parts 83 through 90) have preemptive effect over State or local regulation within the same field.
+(a) These Rules apply to all vessels upon the inland waters of the United States, and to vessels of the United States on the Canadian waters of the Great Lakes to the extent that there is no conflict with Canadian law.
 
 (b)(i) These Rules constitute special rules made by an appropriate authority within the meaning of Rule 1(b) of the International Regulations for Preventing Collisions at Sea, 1972, including annexes currently in force for the United States (“International Regulations”).
 
@@ -15,3 +15,5 @@
 (f) The Secretary may accept a certificate of alternative compliance issued by a contracting party to the International Regulations if it determines that the alternative compliance standards of the contracting party are substantially the same as those of the United States.
 
 (g) The operator of each self-propelled vessel 12 meters or more in length shall carry, on board and maintain for ready reference, a copy of these Rules.
+
+[USCG-2012-0102, 79 FR 37912, July 2, 2014, as amended by USCG-2022-0071, 87 FR 54390, Sept. 6, 2022]

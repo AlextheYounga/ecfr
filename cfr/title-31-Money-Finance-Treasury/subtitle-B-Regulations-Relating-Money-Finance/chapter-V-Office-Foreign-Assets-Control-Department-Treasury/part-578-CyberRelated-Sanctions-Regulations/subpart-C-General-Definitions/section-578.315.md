@@ -1,0 +1,3 @@
+##### § 578.315 Significant activities undermining cybersecurity. #####
+
+The term *significant activities undermining cybersecurity* includes: significant efforts to deny access to or degrade, disrupt, or destroy an information and communications technology system or network; or to exfiltrate, degrade, corrupt, destroy, or release information from such a system or network without authorization for purposes of conducting influence operations; or causing a significant misappropriation of funds, economic resources, trade secrets, personal identifications, or financial information for commercial or competitive advantage or private financial gain; significant destructive malware attacks; and significant denial of service activities.

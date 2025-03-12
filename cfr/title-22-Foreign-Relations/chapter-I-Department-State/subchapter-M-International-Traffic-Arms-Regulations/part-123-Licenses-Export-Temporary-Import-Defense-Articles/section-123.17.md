@@ -1,7 +1,5 @@
 ##### § 123.17 Exemption for personal protective gear. #####
 
-Link to an amendment published at 87 FR 16424, Mar. 23, 2022.
-
 (a)-(e) [Reserved]
 
 (f) Port Directors of U.S. Customs and Border Protection (CBP) shall permit U.S. persons to export temporarily from the United States without a license one set of body armor covered by U.S. Munitions List Category X(a)(1), which may include one helmet covered by U.S. Munitions List Category X(a)(6), or one set of chemical agent protective gear covered by U.S. Munitions List Category XIV(f)(4), which may include one additional filter canister, provided:
@@ -24,6 +22,6 @@ Link to an amendment published at 87 FR 16424, Mar. 23, 2022.
 
 (j) If the articles temporarily exported pursuant to paragraphs (f) through (i) of this section are not returned to the United States, a detailed report must be submitted to the Office of Defense Trade Controls Compliance in accordance with the requirements of § 127.12(c)(2) of this subchapter.
 
-(k) To use the exemptions in this section, individuals are not required to be registered with the Department of State (the registration requirement is described in part 122 of this subchapter). All other entities must be registered and eligible, as provided in §§ 120.1(c) and (d) and part 122 of this subchapter.
+(k) To use the exemptions in this section, individuals are not required to be registered with the Department of State (the registration requirement is described in part 122 of this subchapter). All other entities must be registered and eligible, as provided in §§ 120.15(d) and 120.16(c) and part 122 of this subchapter.
 
-[58 FR 39299, July 22, 1993, as amended at 64 FR 17534, Apr. 12, 1999; 70 FR 50962, Aug. 29, 2005; 71 FR 20541, Apr. 21, 2006; 74 FR 39213, Aug. 6, 2009; 77 FR 25867, May 2, 2012; 78 FR 40631, July 8, 2013; 82 FR 18, Jan. 3, 2017; 85 FR 3832, Jan. 23, 2020]
+[58 FR 39299, July 22, 1993, as amended at 64 FR 17534, Apr. 12, 1999; 70 FR 50962, Aug. 29, 2005; 71 FR 20541, Apr. 21, 2006; 74 FR 39213, Aug. 6, 2009; 77 FR 25867, May 2, 2012; 78 FR 40631, July 8, 2013; 82 FR 18, Jan. 3, 2017; 85 FR 3832, Jan. 23, 2020; 87 FR 16424, Mar. 23, 2022]

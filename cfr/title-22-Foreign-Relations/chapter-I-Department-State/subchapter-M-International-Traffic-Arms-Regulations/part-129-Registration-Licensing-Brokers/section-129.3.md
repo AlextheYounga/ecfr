@@ -1,7 +1,5 @@
 ##### § 129.3 Requirement to register. #####
 
-Link to an amendment published at 87 FR 16426, Mar. 23, 2022.
-
 (a) Except as provided in paragraph (b) of this section, any person who engages in brokering activities (*see* § 129.2) is required to register with the Directorate of Defense Trade Controls. Registration under this section is generally a precondition for the issuance of approval for brokering activities required under this part 129 or the use of exemptions.
 
 (b) *Exemptions.* Registration, approval, recordkeeping, and reporting under this section are not required for:
@@ -12,8 +10,8 @@ Link to an amendment published at 87 FR 16426, Mar. 23, 2022.
 
 (c) Persons exempt from registration, approval, recordkeeping, and reporting as provided in § 129.3(b) are subject to the policy on embargoes and other proscriptions as outlined in § 129.7.
 
-(d) U.S. persons who are registered as a manufacturer or exporter in accordance with part 122 of this subchapter, including their U.S. or foreign subsidiaries and other affiliates listed on their Statement of Registration who are required to register under this part, are not required to submit a separate broker registration or pay a separate broker registration fee when more than 50 percent of the voting securities are owned by the registrant or such subsidiaries and affiliates are otherwise controlled by the registrant (*see* § 120.40 of this subchapter), and they are listed and identified as brokers within their manufacturer or exporter Statement of Registration. All other requirements of this part apply to such brokers and their brokering activities.
+(d) U.S. persons who are registered as a manufacturer or exporter in accordance with part 122 of this subchapter, including their U.S. or foreign subsidiaries and other affiliates listed on their Statement of Registration who are required to register under this part, are not required to submit a separate broker registration or pay a separate broker registration fee when more than 50 percent of the voting securities are owned by the registrant or such subsidiaries and affiliates are otherwise controlled by the registrant (see § 120.66 of this subchapter), and they are listed and identified as brokers within their manufacturer or exporter Statement of Registration. All other requirements of this part apply to such brokers and their brokering activities.
 
 (e) Registration under this section is a precondition for the issuance of approval for brokering activities required under this section or the use of exemptions, unless an exception is granted by the Directorate of Defense Trade Controls.
 
-[78 FR 52690, Aug. 26, 2013]
+[78 FR 52690, Aug. 26, 2013, as amended at 87 FR 16426, Mar. 23, 2022]

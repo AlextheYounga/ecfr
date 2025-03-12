@@ -1,3 +1,3 @@
-##### § 578.311 United States. #####
+##### § 578.311 Misappropriation. #####
 
-The term *United States* means the United States, its territories and possessions, and all areas under the jurisdiction or authority thereof.
+The term *misappropriation* includes any taking or obtaining by improper means, without permission or consent, or under false pretenses.

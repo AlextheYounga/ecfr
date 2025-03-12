@@ -495,12 +495,12 @@ ut terminals of the transmitter (including any filters that may be employed). In
 |      Slidell       |                        17                         |   |
 |    West Monroe     |                      19, 22                       |   |
 |       Maine        |                                                   |   |
-|      Augusta       |                       \*10                        |   |
+|      Augusta       |                       \*20                        |   |
 |       Bangor       |                     2, 7, 13                      |   |
 |     Biddeford      |                       \*36                        |   |
 |       Calais       |                       \*10                        |   |
 |      Lewiston      |                        24                         |   |
-|       Orono        |                        \*9                        |   |
+|       Orono        |                       \*22                        |   |
 |   Poland Spring    |                         8                         |   |
 |      Portland      |                    15, 31, 34                     |   |
 |    Presque Isle    |                      8, \*10                      |   |

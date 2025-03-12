@@ -1,3 +1,1 @@
-##### § 578.308 Person. #####
-
-The term *person* means an individual or entity.
+##### § 578.308 [Reserved] #####

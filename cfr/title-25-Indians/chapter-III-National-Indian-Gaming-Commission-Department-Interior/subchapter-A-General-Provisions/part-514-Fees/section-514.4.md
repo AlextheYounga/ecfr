@@ -1,5 +1,7 @@
 ##### § 514.4 How does a gaming operation calculate the amount of the annual fee it owes? #####
 
+Link to an amendment published at 87 FR 54367, Sept. 6, 2022.
+
 (a) The amount of annual fees owed shall be computed using:
 
 (1) The most recent rates of fees adopted by the Commission; and

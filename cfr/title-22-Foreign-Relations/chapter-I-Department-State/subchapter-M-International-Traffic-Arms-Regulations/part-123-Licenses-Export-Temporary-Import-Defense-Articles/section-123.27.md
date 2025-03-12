@@ -1,10 +1,8 @@
 ##### § 123.27 Special licensing regime for export to U.S. allies of commercial communications satellite components, systems, parts, accessories, attachments and associated technical data. #####
 
-Link to an amendment published at 87 FR 16424, Mar. 23, 2022.
-
 (a) U.S. persons engaged in the business of exporting specifically designed or modified components, systems, parts, accessories, attachments, associated equipment and certain associated technical data for commercial communications satellites, and who are so registered with the Directorate of Defense Trade Controls pursuant to part 122 of this subchapter, may submit license applications for multiple permanent and temporary exports and temporary imports of such articles for expeditious consideration without meeting the documentary requirements of § 123.1(c)(4) and (5) concerning purchase orders, letters of intent, contracts and non-transfer and end use certificates, or the documentary requirements of § 123.9, concerning approval of re-exports or re-transfers, when all of the following requirements are met:
 
-(1) The proposed exports or re-exports concern exclusively one or more countries of the North Atlantic Treaty Organization (see § 120.31 of this subchapter) and/or one or more countries which have been designated in accordance with section 517 of the Foreign Assistance Act of 1961 and with section 1206 of the Foreign Relations Authorization Act, Fiscal Year 2003 as a major non-NATO ally (see § 120.32 of this subchapter).
+(1) The proposed exports or re-exports concern exclusively one or more countries of the North Atlantic Treaty Organization and/or one or more countries which have been designated in accordance with section 517 of the Foreign Assistance Act of 1961 and with section 1206 of the Foreign Relations Authorization Act, Fiscal Year 2003 as a major non-NATO ally.
 
 (2) The proposed exports concern exclusively one or more foreign persons (e.g., companies or governments) located within the territories of the countries identified in paragraph (a)(1) of this section, and one or more commercial communications satellite programs included within a list of such persons and programs approved by the U.S. Government for purposes of this section, as signified in a list of such persons and programs that will be publicly available through the Internet Web site of the Directorate of Defense Trade Controls and by other means.
 
@@ -22,4 +20,4 @@ Link to an amendment published at 87 FR 16424, Mar. 23, 2022.
 
 (d) Registered U.S. exporters may request at the time of a license application submitted pursuant to this section that additional foreign persons or communications satellite programs be added to the lists referred to in paragraph (a)(2) of this section, which additions, if approved, will be included within the publicly available lists of authorized recipients and programs.
 
-[65 FR 34091, May 26, 2000, as amended at 67 FR 58988, Sept. 19, 2002; 69 FR 40314, July 2, 2004; 70 FR 50963, Aug. 29, 2005; 71 FR 20542, Apr. 21, 2006]
+[65 FR 34091, May 26, 2000, as amended at 67 FR 58988, Sept. 19, 2002; 69 FR 40314, July 2, 2004; 70 FR 50963, Aug. 29, 2005; 71 FR 20542, Apr. 21, 2006; 87 FR 16424, Mar. 23, 2022]

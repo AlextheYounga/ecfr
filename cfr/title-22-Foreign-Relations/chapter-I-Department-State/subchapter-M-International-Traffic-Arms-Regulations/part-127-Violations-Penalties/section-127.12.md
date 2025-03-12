@@ -1,8 +1,6 @@
 ##### § 127.12 Voluntary disclosures. #####
 
-Link to an amendment published at 87 FR 16425, Mar. 23, 2022.
-
-(a) *General policy.* The Department strongly encourages the disclosure of information to the Directorate of Defense Trade Controls by persons (see § 120.14 of this subchapter) that believe they may have violated any export control provision of the Arms Export Control Act, or any regulation, order, license, or other authorization issued under the authority of the Arms Export Control Act. The Department may consider a voluntary disclosure as a mitigating factor in determining the administrative penalties, if any, that should be imposed. Failure to report a violation may result in circumstances detrimental to U.S. national security and foreign policy interests, and will be an adverse factor in determining the appropriate disposition of such violations.
+(a) *General policy.* The Department strongly encourages the disclosure of information to the Directorate of Defense Trade Controls by persons that believe they may have violated any export control provision of the Arms Export Control Act, or any regulation, order, license, or other authorization issued under the authority of the Arms Export Control Act. The Department may consider a voluntary disclosure as a mitigating factor in determining the administrative penalties, if any, that should be imposed. Failure to report a violation may result in circumstances detrimental to U.S. national security and foreign policy interests, and will be an adverse factor in determining the appropriate disposition of such violations.
 
 (b) *Limitations.* (1) The provisions of this section apply only when information is provided to the Directorate of Defense Trade Controls for its review in determining whether to take administrative action under part 128 of this subchapter concerning a violation of the export control provisions of the Arms Export Control Act and these regulations.
 
@@ -26,9 +24,9 @@ Link to an amendment published at 87 FR 16425, Mar. 23, 2022.
 
 (c) *Notification.* (1) Any person wanting to disclose information that constitutes a voluntary disclosure should, in the manner outlined below, initially notify the Directorate of Defense Trade Controls immediately after a violation is discovered and then conduct a thorough review of all defense trade transactions where a violation is suspected.
 
-(i) If the notification does not contain all the information required by 127.12(c)(2) of this section, a full disclosure must be submitted within 60 calendar days of the notification, or the Directorate of Defense Trade Controls will not deem the notification to qualify as a voluntary disclosure.
+(i) If the notification does not contain all the information required by paragraph (c)(2) of this section, a full disclosure must be submitted within 60 calendar days of the notification, or the Directorate of Defense Trade Controls will not deem the notification to qualify as a voluntary disclosure.
 
-(ii) If the person is unable to provide a full disclosure within the 60 calendar day deadline, an empowered official (see § 120.25 of this subchapter) or a senior officer may request an extension of time in writing. A request for an extension must specify what information required by § 127.12(c)(2) of this section could not be immediately provided and the reasons why.
+(ii) If the person is unable to provide a full disclosure within the 60 calendar day deadline, an empowered official (see § 120.67 of this subchapter) or a senior officer may request an extension of time in writing. A request for an extension must specify what information required by paragraph (c)(2), of this section could not be immediately provided and the reasons why.
 
 (iii) Before approving an extension of time to provide the full disclosure, the Directorate of Defense Trade Controls may require the requester to certify in writing that they will provide the full disclosure within a specific time period.
 
@@ -60,7 +58,7 @@ Link to an amendment published at 87 FR 16425, Mar. 23, 2022.
 
 (3) Any other relevant documents must be retained by the person making the disclosure until the Directorate of Defense Trade Controls requests them or until a final decision on the disclosed information has been made.
 
-(e) *Certification.* A certification must be submitted stating that all of the representations made in connection with the voluntary disclosure are true and correct to the best of that person's knowledge and belief. Certifications should be executed by an empowered official (See § 120.25 of this subchapter), or by a senior officer (e.g. chief executive officer, president, vice-president, comptroller, treasurer, general counsel, or member of the board of directors). If the violation is a major violation, reveals a systemic pattern of violations, or reflects the absence of an effective compliance program, the Directorate of Defense Trade Controls may require that such certification be made by a senior officer of the company.
+(e) *Certification.* A certification must be submitted stating that all of the representations made in connection with the voluntary disclosure are true and correct to the best of that person's knowledge and belief. Certifications should be executed by an empowered official (see § 120.67 of this subchapter), or by a senior officer (e.g. chief executive officer, president, vice-president, comptroller, treasurer, general counsel, or member of the board of directors). If the violation is a major violation, reveals a systemic pattern of violations, or reflects the absence of an effective compliance program, the Directorate of Defense Trade Controls may require that such certification be made by a senior officer of the company.
 
 (f) *Oral presentations.* Oral presentation is generally not necessary to augment the written presentation. However, if the person making the disclosure believes a meeting is desirable, a request should be included with the written presentation.
 

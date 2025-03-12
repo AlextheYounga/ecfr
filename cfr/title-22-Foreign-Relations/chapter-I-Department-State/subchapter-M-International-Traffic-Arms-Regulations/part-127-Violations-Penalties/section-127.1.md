@@ -1,7 +1,5 @@
 ##### § 127.1 Violations. #####
 
-Link to an amendment published at 87 FR 16425, Mar. 23, 2022.
-
 (a) Without first obtaining the required license or other written approval from the Directorate of Defense Trade Controls, it is unlawful:
 
 (1) To export or attempt to export from the United States any defense article or technical data or to furnish or attempt to furnish any defense service for which a license or written approval is required by this subchapter;
@@ -24,7 +22,7 @@ Link to an amendment published at 87 FR 16425, Mar. 23, 2022.
 
 (c) Any person who is granted a license or other approval or acts pursuant to an exemption under this subchapter is responsible for the acts of employees, agents, brokers, and all authorized persons to whom possession of the defense article, which includes technical data, has been entrusted regarding the operation, use, possession, transportation, and handling of such defense article abroad. All persons abroad subject to U.S. jurisdiction who obtain custody of a defense article exported from the United States or produced under an agreement described in part 124 of this subchapter, and regardless of the number of intermediate transfers, are bound by the regulations of this subchapter in the same manner and to the same extent as the original owner or transferor.
 
-(d) A person who is ineligible pursuant to § 120.1(c)(2) of this subchapter, or a person with knowledge that another person is ineligible pursuant to § 120.1(c)(2) of this subchapter, may not, directly or indirectly, in any manner or capacity, without prior disclosure of the facts to and written authorization from the Directorate of Defense Trade Controls:
+(d) A person who is ineligible pursuant to § 120.16(c) of this subchapter, or a person with knowledge that another person is ineligible pursuant to § 120.16(c) of this subchapter, may not, directly or indirectly, in any manner or capacity, without prior disclosure of the facts to and written authorization from the Directorate of Defense Trade Controls:
 
 (1) Apply for, obtain, or use any export control document as defined in § 127.2(b) for such ineligible person; or
 
@@ -32,4 +30,4 @@ Link to an amendment published at 87 FR 16425, Mar. 23, 2022.
 
 (e) No person may knowingly or willfully attempt, solicit, cause, or aid, abet, counsel, demand, induce, procure, or permit the commission of any act prohibited by, or the omission of any act required by 22 U.S.C. 2778, 22 U.S.C. 2779, or any regulation, license, approval, or order issued thereunder.
 
-[77 FR 16641, Mar. 21, 2012, as amended at 78 FR 52688, Aug. 26, 2013; 79 FR 8088, Feb. 11, 2014]
+[77 FR 16641, Mar. 21, 2012, as amended at 78 FR 52688, Aug. 26, 2013; 79 FR 8088, Feb. 11, 2014; 87 FR 16425, Mar. 23, 2022]

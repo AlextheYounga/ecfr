@@ -1,5 +1,7 @@
 ##### § 0.231 Authority delegated. #####
 
+Link to an amendment published at 87 FR 54328, Sept. 6, 2022.
+
 (a) The Managing Director, or his designee, upon securing concurrence of the General Counsel, is delegated authority to act upon requests for waiver, reduction or deferment of fees, establish payment dates, and issue notices proposing amendments or adjustments to the fee schedules established under part 1, subpart G, of this chapter.
 
 (b) The Managing Director, or his designee, is delegated authority to make nonsubstantive, editorial revisions of the Commission's rules and regulations upon approval of the bureau or staff office primarily responsible for the particular part or section involved.

@@ -1,7 +1,5 @@
 ##### § 310.14 Department of the Air Force exemptions. #####
 
-Link to an amendment published at 87 FR 37999, June 27, 2022.
-
 (a) All systems of records maintained by the Department of the Air Force shall be exempt from the requirements of 5 U.S.C. 552a(d) pursuant to 5 U.S.C. 552a(k)(1) to the extent that the system contains any information properly classified under Executive Order 12958 and that is required by Executive Order to be kept classified in the interest of national defense or foreign policy. This exemption is applicable to parts of all systems of records including those not otherwise specifically designated for exemptions herein, which contain isolated items of properly classified information.
 
 (b) An individual is not entitled to have access to any information compiled in reasonable anticipation of a civil action or proceeding (5 U.S.C. 552a(d)(5)).
@@ -190,7 +188,7 @@ When claimed, this exemption allows limited protection of investigative reports 
 
 (4) *System identifier and name.* F036 AETC I, Cadet Records.
 
-(i) *Exemption.* Investigatory material compiled solely for the purpose of determining suitability, eligibility, or qualifications for federal civilian employment, military service, federal contracts, or access to classified information may be exempt pursuant to 5 U.S.C. 552a(k)(5), but only to the extent that such material would reveal the identity of a confidential source. Therefore, portions of this system of records may be exempt pursuant to 5 U.S.C. 552a(k)(5) (Detachment Professional Officer Course Selection Rating Sheets; Air Force Reserve Officer Training Corps Form 0-24 - Disenrollment Review; Memoranda for Record and Staff Papers with Staff Advice, Opinions, or Suggestions) may be exempt from the following subsections of 5 U.S.C. 552a(c)(3), (d), (e)(4)(G) and (H), and (f).
+(i) *Exemption.* Investigatory material compiled solely for the purpose of determining suitability, eligibility, or qualifications for federal civilian employment, military service, federal contracts, or access to classified information may be exempt pursuant to 5 U.S.C. 552a(k)(5), but only to the extent that such material would reveal the identity of a confidential source. Therefore, portions of this system of records may be exempt pursuant to 5 U.S.C. 552a(k)(5) (Detachment Professional Officer Course Selection Rating Sheets; Air Force Reserve Officer Training Corps Form 0-24—Disenrollment Review; Memoranda for Record and Staff Papers with Staff Advice, Opinions, or Suggestions) may be exempt from the following subsections of 5 U.S.C. 552a(c)(3), (d), (e)(4)(G) and (H), and (f).
 
 (ii) *Authority.* 5 U.S.C. 552a(k)(5).
 
@@ -274,21 +272,7 @@ When claimed, this exemption allows limited protection of investigative reports 
 
 (iii) *Reasons.* To maintain the candor and integrity of comments needed to evaluate a cadet for commissioning in the Air Force.
 
-(12) *System identifier and name.* F031 497IG A, Sensitive Compartmented Information Personnel Records.
-
-(i) *Exemption.* (A) Investigatory material compiled for law enforcement purposes, other than material within the scope of subsection 5 U.S.C. 552a(j)(2), may be exempt pursuant to 5 U.S.C. 552a(k)(2). However, if an individual is denied any right, privilege, or benefit for which he would otherwise be entitled by Federal law or for which he would otherwise be eligible, as a result of the maintenance of the information, the individual will be provided access to the information exempt to the extent that disclosure would reveal the identity of a confidential source.
-
-Note 1 to paragraph (f)(12)(i)(A).
-
-When claimed, this exemption allows limited protection of investigative reports maintained in a system of records used in personnel or administrative actions.
-
-(B) Investigatory material compiled solely for the purpose of determining suitability, eligibility, or qualifications for federal civilian employment, military service, federal contracts, or access to classified information may be exempt pursuant to 5 U.S.C. 552a(k)(5), but only to the extent that such material would reveal the identity of a confidential source.
-
-(C) Therefore, portions of this system of records may be exempt pursuant to 5 U.S.C. 552a(k)(2) and (k)(5) from the following subsections of 5 U.S.C. 552a(c)(3), (d), (e)(4)(G), (H), and (I), and (f).
-
-(ii) *Authority.* 5 U.S.C. 552a(k)(2) and (k)(5).
-
-(iii) *Reasons.* To protect the identity of sources to which proper promises of confidentiality have been made during investigations. Without these promises, sources will often be unwilling to provide information essential in adjudicating access in a fair and impartial manner.
+(12) [Reserved]
 
 (13) *System identifier and name.* F071 AF OSI B, Security and Related Investigative Records.
 
@@ -298,21 +282,7 @@ When claimed, this exemption allows limited protection of investigative reports 
 
 (iii) *Reasons.* To protect the identity of those who give information in confidence for personnel security and related investigations. Fear of harassment could cause sources to refuse to give this information in the frank and open way needed to pinpoint those areas in an investigation that should be expanded to resolve charges of questionable conduct.
 
-(14) *System identifier and name.* F031 497IG B, Special Security Case Files.
-
-(i) *Exemption.* Investigatory material compiled solely for the purpose of determining suitability, eligibility, or qualifications for federal civilian employment, military service, federal contracts, or access to classified information may be exempt pursuant to 5 U.S.C. 552a(k)(5), but only to the extent that such material would reveal the identity of a confidential source. Therefore, portions of this system of records may be exempt pursuant to 5 U.S.C. 552a(k)(5) from the following subsections of 5 U.S.C. 552a(c)(3), (d), (e)(4)(G), (H), and (I), and (f).
-
-(ii) *Authority.* 5 U.S.C. 552a(k)(5).
-
-(iii) *Reasons.* To protect the identity of those who give information in confidence for personnel security and related investigations. Fear of harassment could cause sources to refuse to give this information in the frank and open way needed to pinpoint those areas in an investigation that should be expanded to resolve charges of questionable conduct.
-
-(15) *System identifier and name.* F031 AF SP N, Special Security Files.
-
-(i) *Exemption.* Investigatory material compiled solely for the purpose of determining suitability, eligibility, or qualifications for federal civilian employment, military service, federal contracts, or access to classified information may be exempt pursuant to 5 U.S.C. 552a(k)(5), but only to the extent that such material would reveal the identity of a confidential source. Therefore, portions of this system of records may be exempt pursuant to 5 U.S.C. 552a(k)(5) from the following subsections of 5 U.S.C. 552a(c)(3), (d), (e)(4)(G), (H), and (I), and (f).
-
-(ii) *Authority.* 5 U.S.C. 552a(k)(5).
-
-(iii) *Reasons.* To protect the identity of those who give information in confidence for personnel security and related investigations. Fear of harassment could cause them to refuse to give this information in the frank and open way needed to pinpoint areas in an investigation that should be expanded to resolve charges of questionable conduct.
+(14)-(15) [Reserved]
 
 (16) *System identifier and name.* F036 AF PC P, Applications for Appointment and Extended Active Duty Files.
 
@@ -360,7 +330,7 @@ When claimed, this exemption allows limited protection of investigative reports 
 
 (19) [Reserved]
 
-(20) *System identifier and name.* F033 AF A, Information Requests - Freedom of Information Act.
+(20) *System identifier and name.* F033 AF A, Information Requests—Freedom of Information Act.
 
 (i) *Exemption.* During the processing of a Freedom of Information Act request, exempt materials from `other' systems of records may in turn become part of the case record in this system. To the extent that copies of exempt records from those other systems of records are entered into this system, the Department of the Air Force hereby claims the same exemptions for the records from those `other' systems that are entered into this system, as claimed for the original primary system of which they are a part.
 
@@ -449,3 +419,5 @@ When claimed, this exemption allows limited protection of investigative reports 
 (ii) *Authority.* 5 U.S.C. 552a(j)(2), (k)(1), (k)(2), (k)(3), (k)(4), (k)(5), (k)(6), and (k)(7).
 
 (iii) *Reasons.* Records are only exempt from pertinent provisions of 5 U.S.C. 552a to the extent such provisions have been identified and an exemption claimed for the original record, and the purposes underlying the exemption for the original record still pertain to the record which is now contained in this system of records. In general, the exemptions were claimed in order to protect properly classified information relating to national defense and foreign policy, to avoid interference during the conduct of criminal, civil, or administrative actions or investigations, to ensure protective services provided the President and others are not compromised, to protect the identity of confidential sources incident to Federal employment, military service, contract, and security clearance determinations, and to preserve the confidentiality and integrity of Federal evaluation materials. The exemption rule for the original records will identify the specific reasons why the records are exempt from specific provisions of 5 U.S.C. 552a.
+
+[84 FR 14730, Apr. 11, 2019, as amended at 87 FR 37999, June 27, 2022]

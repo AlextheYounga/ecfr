@@ -1,7 +1,5 @@
 ##### § 126.16 Exemption pursuant to the Defense Trade Cooperation Treaty between the United States and Australia. #####
 
-Link to an amendment published at 87 FR 16424, Mar. 23, 2022.
-
 (a) *Scope of exemption and required conditions* - (1) *Definitions.* (i) An *export* means, for purposes of this section only, the initial movement of defense articles or defense services from the United States Community to the Australian Community.
 
 (ii) A *transfer* means, for purposes of this section only, the movement of a previously exported defense article or defense service by a member of the Australian Community within the Australian Community, or between a member of the United States Community and a member of the Australian Community.
@@ -82,7 +80,7 @@ Link to an amendment published at 87 FR 16424, Mar. 23, 2022.
 
 (g) *Items eligible under this section.* With the exception of items listed in Supplement No. 1 to part 126 of this subchapter, defense articles and defense services may be exported under this section subject to the following:
 
-(1) An exporter authorized pursuant to paragraph (b)(2) of this section may market a defense article to members of the Australian Community if that exporter has been licensed by DDTC to export (as defined by § 120.17 of this subchapter) the identical type of defense article to any foreign person and end-use of the article is for an end-use identified in paragraph (e) of this section.
+(1) An exporter authorized pursuant to paragraph (b)(2) of this section may market a defense article to members of the Australian Community if that exporter has been licensed by DDTC to export (as defined by § 120.50 of this subchapter) the identical type of defense article to any foreign person and end-use of the article is for an end-use identified in paragraph (e) of this section.
 
 (2) The export of any defense article specific to the existence of (e.g., reveals the existence of or details of) anti-tamper measures made at U.S. Government direction always requires prior written approval from DDTC.
 
@@ -234,7 +232,7 @@ Link to an amendment published at 87 FR 16424, Mar. 23, 2022.
 
 (ii) A contract for the export of firearms controlled under Category I of the U.S. Munitions List of the International Traffic in Arms Regulations in an amount of $1,000,000 or more;
 
-(iii) A contract, regardless of value, for the manufacturing abroad of any item of significant military equipment (*see* § 120.7 of this subchapter); or
+(iii) A contract, regardless of value, for the manufacturing abroad of any item of significant military equipment see § 120.36 of this subchapter); or
 
 (iv) An amended contract that meets the requirements of paragraphs (o)(1)(i) through (o)(1)(iii) of this section.
 
@@ -250,4 +248,4 @@ Link to an amendment published at 87 FR 16424, Mar. 23, 2022.
 
 (3) The Department of State will notify the Congress of exports that meet the requirements of paragraph (o)(1) of this section.
 
-[78 FR 21526, Apr. 11, 2013, as amended at 81 FR 62008, Sept. 8, 2016; 82 FR 19, Jan. 3, 2017]
+[78 FR 21526, Apr. 11, 2013, as amended at 81 FR 62008, Sept. 8, 2016; 82 FR 19, Jan. 3, 2017; 87 FR 16424, Mar. 23, 2022]

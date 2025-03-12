@@ -1,0 +1,3 @@
+##### § 120.39 Foreign defense article or defense service. #####
+
+*Foreign defense article or defense service* means any article or service described on the U.S. Munitions List of non-U.S. origin. Unless otherwise provided in this subchapter, the terms defense article and defense service refer to both U.S. and foreign origin defense articles and defense services described on the U.S. Munitions List. A defense article or defense service is determined exclusively in accordance with the Arms Export Control Act and this subchapter, regardless of any designation (either affirming or contrary) that may be attributed to the same article or service by any foreign government or international organization.

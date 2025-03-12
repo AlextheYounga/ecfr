@@ -1,5 +1,7 @@
 ##### § 0.11 Functions of the Office. #####
 
+Link to an amendment published at 87 FR 54328, Sept. 6, 2022.
+
 (a) The Managing Director is appointed by the Chairman with the approval of the Commission. Under the supervision and direction of the Chairman, the Managing Director shall serve as the Commission's chief operating and executive official with the following duties and responsibilities:
 
 (1) Provide managerial leadership to and exercise supervision and direction over the Commission's Bureaus and Offices with respect to management and administrative matters but not substantive regulatory matters such as regulatory policy and rule making, authorization of service, administration of sanctions, and adjudication.

@@ -1,5 +1,7 @@
 ##### § 0.141 Functions of the Bureau. #####
 
+Link to an amendment published at 87 FR 54328, Sept. 6, 2022.
+
 The Consumer and Governmental Affairs Bureau develops and administers the Commission's consumer and governmental affairs policies and initiatives to enhance the public's understanding of the Commission's work and to facilitate the Agency's relationships with other governmental agencies and organizations. The Bureau is responsible for rulemaking proceedings regarding general consumer education policies and procedures and serves as the primary Commission entity responsible for communicating with the general public regarding Commission policies, programs, and activities in order to facilitate public participation in the Commission's decision-making processes. The Bureau also performs the following functions:
 
 (a) Advises and makes recommendations to the Commission, or acts for the Commission under delegated authority, in matters pertaining to consumers and governmental affairs. This includes policy development and coordination as well as adjudication and rulemaking.

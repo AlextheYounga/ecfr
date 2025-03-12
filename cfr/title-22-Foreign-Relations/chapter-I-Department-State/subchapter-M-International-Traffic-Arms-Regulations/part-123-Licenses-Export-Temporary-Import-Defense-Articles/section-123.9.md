@@ -1,7 +1,5 @@
 ##### § 123.9 Country of ultimate destination and approval of reexports or retransfers. #####
 
-Link to an amendment published at 87 FR 16423, Mar. 23, 2022.
-
 (a) The country designated as the country of ultimate destination on an application for an export license, or in an Electronic Export Information filing where an exemption is claimed under this subchapter, must be the country of ultimate end-use. The written approval of the Directorate of Defense Trade Controls must be obtained before reselling, transferring, reexporting, retransferring, transshipping, or disposing of a defense article to any end-user, end-use, or destination other than as stated on the export license, or in the Electronic Export Information filing in cases where an exemption is claimed under this subchapter, except in accordance with the provisions of an exemption under this subchapter that explicitly authorizes the resell, transfer, reexport, retransfer, transshipment, or disposition of a defense article without such approval. Exporters must determine the specific end-user, end-use, and destination prior to submitting an application to the Directorate of Defense Trade Controls or claiming an exemption under this subchapter.
 
 Note to paragraph (a):
@@ -24,7 +22,7 @@ Note to paragraph (b)(1)(iv):
 
 The phrase “or as otherwise authorized by U.S. law and regulations” is included because U.S. regulations contain specific exemptions from licensing requirements (e.g., ITAR exemptions, and EAR license exceptions and No License Required designations) and allow for certain amounts of U.S. origin content in foreign made items (see 15 CFR 734).
 
-(2) When exporting items subject to the EAR (see §§ 120.5, 120.42 and 123.1(b) of this subchapter) pursuant to a Department of State license or other approval, the U.S. exporter must also provide the end-user and consignees with the appropriate EAR classification information for each item. This includes the Export Control Classification Number (ECCN) or EAR99 designation.
+(2) When exporting items subject to the EARpursuant to a Department of State license or other approval, the U.S. exporter must also provide the end-user and consignees with the appropriate EAR classification information for each item. This includes the Export Control Classification Number (ECCN) or EAR99 designation.
 
 (c) Any U.S. person or foreign person requesting written approval from the Directorate of Defense Trade Controls for the reexport, retransfer, other disposition, or change in end-use, end-user, or destination of a defense article initially exported or transferred pursuant to a license or other written approval, or an exemption under this subchapter, must submit all the documentation required for a permanent export license (*see* § 123.1 of this subchapter) and shall also submit the following:
 
@@ -54,4 +52,4 @@ The phrase “or as otherwise authorized by U.S. law and regulations” is inclu
 
 (4) The original license or other approval of the Directorate of Defense Trade Controls did not include retransfer or reexport restrictions prohibiting use of this exemption.
 
-[58 FR 39299, July 22, 1993, as amended at 71 FR 20541, Apr. 21, 2006; 73 FR 15885, Mar. 26, 2008; 73 FR 38343, Aug. 3, 2009; 77 FR 16597, Mar. 21, 2012; 78 FR 22759, Apr. 16, 2013; 78 FR 61755, Oct. 3, 2013; 81 FR 54735, Aug. 17, 2016]
+[58 FR 39299, July 22, 1993, as amended at 71 FR 20541, Apr. 21, 2006; 73 FR 15885, Mar. 26, 2008; 73 FR 38343, Aug. 3, 2009; 77 FR 16597, Mar. 21, 2012; 78 FR 22759, Apr. 16, 2013; 78 FR 61755, Oct. 3, 2013; 81 FR 54735, Aug. 17, 2016; 87 FR 16423, Mar. 23, 2022]

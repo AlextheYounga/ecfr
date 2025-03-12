@@ -1,3 +1,3 @@
-##### § 578.302 Effective date. #####
+##### § 578.302 Critical infrastructure sector. #####
 
-The term *effective date* refers to the effective date of the applicable prohibitions and directives contained in this part, and, with respect to a person whose property and interests in property are blocked pursuant to § 578.201, is the earlier of the date of actual or constructive notice that such person's property and interests in property are blocked.
+The term *critical infrastructure sector* means any of the designated critical infrastructure sectors identified in Presidential Policy Directive 21 of February 12, 2013.

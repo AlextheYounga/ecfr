@@ -1,3 +1,11 @@
-##### § 578.310 Transfer. #####
+##### § 578.310 Licenses; general and specific. #####
 
-The term *transfer* means any actual or purported act or transaction, whether or not evidenced by writing, and whether or not done or performed within the United States, the purpose, intent, or effect of which is to create, surrender, release, convey, transfer, or alter, directly or indirectly, any right, remedy, power, privilege, or interest with respect to any property. Without limitation on the foregoing, it shall include the making, execution, or delivery of any assignment, power, conveyance, check, declaration, deed, deed of trust, power of attorney, power of appointment, bill of sale, mortgage, receipt, agreement, contract, certificate, gift, sale, affidavit, or statement; the making of any payment; the setting off of any obligation or credit; the appointment of any agent, trustee, or fiduciary; the creation or transfer of any lien; the issuance, docketing, or filing of, or levy of or under, any judgment, decree, attachment, injunction, execution, or other judicial or administrative process or order, or the service of any garnishment; the acquisition of any interest of any nature whatsoever by reason of a judgment or decree of any foreign country; the fulfillment of any condition; the exercise of any power of appointment, power of attorney, or other power; or the acquisition, disposition, transportation, importation, exportation, or withdrawal of any security.
+(a) Except as otherwise provided in this part, the term *license* means any license or authorization contained in or issued pursuant to this part.
+
+(b) The term *general license* means any license or authorization the terms of which are set forth in subpart E of this part or made available on OFAC's website: *www.treas.gov/ofac.*
+
+(c) The term *specific license* means any license or authorization issued pursuant to this part but not set forth in subpart E of this part or made available on OFAC's website: *www.treas.gov/ofac.*
+
+Note 1 to § 578.310.
+
+*See* § 501.801 of this chapter on licensing procedures.

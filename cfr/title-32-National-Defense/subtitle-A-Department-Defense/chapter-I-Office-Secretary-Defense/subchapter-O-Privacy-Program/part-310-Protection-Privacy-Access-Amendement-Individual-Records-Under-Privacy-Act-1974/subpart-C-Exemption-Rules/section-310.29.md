@@ -1,7 +1,5 @@
 ##### § 310.29 Office of the Secretary of Defense (OSD) exemptions. #####
 
-Link to an amendment published at 87 FR 37999, June 27, 2022.
-
 (a) *General information.* The Secretary of Defense designates those Office of the Secretary of Defense (OSD) systems of records which will be exempt from certain provisions of the Privacy Act. There are two types of exemptions, general and specific. The general exemption authorizes the exemption of a system of records from all but a few requirements of the Act. The specific exemption authorizes exemption of a system of records or portion thereof, from only a few specific requirements. If an OSD Component originates a new system of records for which it proposes an exemption, or if it proposes an additional or new exemption for an existing system of records, it shall submit the recommended exemption with the records system notice as outlined in § 311.6. No exemption of a system of records shall be considered automatic for all records in the system. The systems manager shall review each requested record and apply the exemptions only when this will serve significant and legitimate Government purpose.
 
 (b) *General exemptions.* The general exemption provided by 5 U.S.C. 552a(j)(2) may be invoked for protection of systems of records maintained by law enforcement activities. Certain functional records of such activities are not subject to access provisions of the Privacy Act of 1974. Records identifying criminal offenders and alleged offenders consisting of identifying data and notations of arrests, the type and disposition of criminal charges, sentencing, confinement, release, parole, and probation status of individuals are protected from disclosure. Other records and reports compiled during criminal investigations, as well as any other records developed at any stage of the criminal law enforcement process from arrest to indictment through the final release from parole supervision are excluded from release.
@@ -26,15 +24,7 @@ Link to an amendment published at 87 FR 37999, June 27, 2022.
 
 (c) *Specific exemptions:* All systems of records maintained by any OSD Component shall be exempt from the requirements of 5 U.S.C. 552a(d) pursuant to subsection (k)(1) of that section to the extent that the system contains any information properly classified under Executive Order 11265, `National Security Information,' dated June 28, 552a(d) pursuant to subsection (k)(1) of that section to the extent that the system contains any information properly classified under E.O. 11265, `National Security Information,' dated June 28, 1979, as amended, and required by the Executive Order to be kept classified in the interest of national defense or foreign policy. This exemption, which may be applicable to parts of all systems of records, is necessary because certain record systems not otherwise specifically designated for exemptions may contain isolated information which has been properly classified. The Secretary of Defense has designated the following OSD system of records described below specifically exempted from the appropriate provisions of the Privacy Act pursuant to the designated authority contained therein:
 
-(1) [Reserved]
-
-(2) *System identifier and name.* DWHS P28, The Office of the Secretary of Defense Clearance File.
-
-(i) *Exemption.* This system of records is exempt from subsections (c)(3) and (d) of 5 U.S.C. 552a, which would require the disclosure of investigatory material compiled solely for the purpose of determining access to classified information but only to the extent that disclosure of such material would reveal the identity of a source who furnished information to the Government under an expressed promise that the identity of the source would be held in confidence or, prior to September 27, 1975, under an implied promise that the identity of the source would be held in confidence. A determination will be made at the time of the request for a record concerning the specific information which would reveal the identity of the source.
-
-(ii) *Authority.* 5 U.S.C. 552a(k)(5).
-
-(iii) *Reasons.* This exemption is required to protect the confidentiality of the sources of information compiled for the purpose of determining access to classified information. This confidentiality helps maintain the Government's continued access to information from persons who would otherwise refuse to give it.
+(1)-(2) [Reserved]
 
 (3) *System identifier and name.* DGC 04, Industrial Personnel Security Clearance Case Files.
 
@@ -54,15 +44,7 @@ Link to an amendment published at 87 FR 37999, June 27, 2022.
 
 (iii) *Reasons.* It is imperative that the confidential nature of evaluation and investigatory material on teacher application files furnished the Department of Defense Dependent Schools (DoDDS) under promises of confidentiality be exempt from disclosure to the individual to insure the candid presentation of information necessary to make determinations involving applicants suitability for DoDDS teaching positions.
 
-(7) [Reserved]
-
-(8) *System identifier and name.* DWHS P29, Personnel Security Adjudications File.
-
-(i) *Exemption.* Portions of this system of records that fall within the provisions of 5 U.S.C. 552a(k)(5) may be exempt from the following subsections (d)(1) through (d)(5).
-
-(ii) *Authority.* 5 U.S.C. 552a(k)(5).
-
-(iii) *Reasons.* From (d)(1) through (d)(5) because the agency is required to protect the confidentiality of sources who furnished information to the Government under an expressed promise of confidentiality or, prior to September 27, 1975, under an implied promise that the identity of the source would be held in confidence. This confidentiality is needed to maintain the Government's continued access to information from persons who otherwise might refuse to give it. This exemption is limited to disclosures that would reveal the identity of a confidential source. At the time of the request for a record, a determination will be made concerning whether a right, privilege, or benefit is denied or specific information would reveal the identity of a source.
+(7)-8 [Reserved]
 
 (9) *System identifier and name.* JS004SECDIV, Joint Staff Security Clearance Files.
 
@@ -256,4 +238,4 @@ Link to an amendment published at 87 FR 37999, June 27, 2022.
 
 (iii) *Reasons.* From subsection 5 U.S.C. 552a(d) because granting access to information that is properly classified pursuant to E.O. 13526, as implemented by DoD Instruction 5200.01 and DoD Manual 5200.01, Volumes 1 and 3, may cause damage to the national security.
 
-[84 FR 14730, Apr. 11, 2019, as amended at 86 FR 26672, May 17, 2021; 86 FR 31431, June 14, 2021]
+[84 FR 14730, Apr. 11, 2019, as amended at 86 FR 26672, May 17, 2021; 86 FR 31431, June 14, 2021; 87 FR 37999, June 27, 2022]

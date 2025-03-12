@@ -1,0 +1,25 @@
+##### § 120.23 Organizations and arrangements. #####
+
+(a) *North Atlantic Treaty Organization.* North Atlantic Treaty Organization (NATO) refers to the organization of member states that are parties to the North Atlantic Treaty, which members include: Albania, Belgium, Bulgaria, Canada, Croatia, Czech Republic, Denmark, Estonia, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Lithuania, Luxembourg, Montenegro, the Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Turkey, the United Kingdom, the United States, and any state not included here that has deposited an instrument of accession in accordance with Article 10 of the North Atlantic Treaty.
+
+(b) *Major non-NATO ally.* (1) Major non-NATO ally, as defined in section 644(q) of the Foreign Assistance Act of 1961 (22 U.S.C. 2403(q)), means a country that is designated in accordance with section 517 of the Foreign Assistance Act of 1961 (22 U.S.C. 2321k) as a major non-NATO ally for purposes of the Foreign Assistance Act of 1961 and the Arms Export Control Act (22 U.S.C. 2151 *et seq.* and 22 U.S.C. 2751 *et seq.*).
+
+(2) The following countries are designated as major non-NATO allies: Afghanistan (see § 126.1(g) of this subchapter), Argentina, Australia, Bahrain, Brazil, Egypt, Israel, Japan, Jordan, Kuwait, Morocco, New Zealand, Pakistan, the Philippines, the Republic of Korea, Thailand, and Tunisia. Taiwan shall be treated as though it were designated a major non-NATO ally.
+
+(c) *Wassenaar Arrangement.* (1) The Wassenaar Arrangement refers to the Wassenaar Arrangement on Export Controls for Conventional Arms and Dual-Use Goods and Technologies among the United States, Argentina, Australia, Austria, Belgium, Bulgaria, Canada, Croatia, the Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, India Ireland, Italy, Japan, Latvia, Lithuania, Luxembourg, Malta, Mexico, Netherlands, New Zealand, Norway, Poland, Portugal, the Republic of Korea, Romania, the Russian Federation, Slovakia, Slovenia, South Africa, Spain, Sweden, Switzerland, Turkey, Ukraine, and the United Kingdom, established on 12 July 1996, to promote transparency and greater responsibility in transfers of conventional arms and dual-use goods and technologies.
+
+(2) The term Wassenaar Munitions List (WAML) refers to the list of military items for which all participants have agreed to maintain national export controls.
+
+(d) *Missile Technology Control Regime*—(1) *Regime.* Missile Technology Control Regime (MTCR) refers to the policy statement among the United States, the United Kingdom, the Federal Republic of Germany, France, Italy, Canada, and Japan, announced on April 16, 1987, to restrict sensitive missile-relevant transfers based on the MTCR Annex, and any amendments thereto.
+
+(2) *MTCR Annex.* The term MTCR Annex refers to the MTCR Guidelines and the Equipment, Software and Technology Annex of the MTCR, and any amendments thereto.
+
+(3) *List of all items on the MTCR Annex.* MTCR Annex items specified in the U.S. Munitions List shall be annotated by the parenthetical (MT) at the end of each applicable paragraph.
+
+(e) *Defense Trade Cooperation Treaty between the United States and Australia.* Defense Trade Cooperation Treaty between the United States and Australia refers to the Treaty between the Government of the United States of America and the Government of Australia Concerning Defense Trade Cooperation, done at Sydney, September 5, 2007. For additional information on making exports pursuant to this treaty, see § 126.16 of this subchapter.
+
+(f) *Australia Implementing Arrangement.* Australia Implementing Arrangement refers to the Implementing Arrangement Pursuant to the Treaty between the Government of the United States of America and the Government of Australia Concerning Defense Trade Cooperation, done at Washington, March 14, 2008, as it may be amended.
+
+(g) *Defense Trade Cooperation Treaty between the United States and the United Kingdom.* Defense Trade Cooperation Treaty between the United States and the United Kingdom refers to the Treaty between the Government of the United States of America and the Government of the United Kingdom of Great Britain and Northern Ireland Concerning Defense Trade Cooperation, done at Washington and London, June 21 and 26, 2007. For additional information on making exports pursuant to this treaty, see § 126.17 of this subchapter.
+
+(h) *United Kingdom Implementing Arrangement.* United Kingdom Implementing Arrangement refers to the Implementing Arrangement Pursuant to the Treaty between the Government of the United States of America and the Government of the United Kingdom of Great Britain and Northern Ireland Concerning Defense Trade Cooperation, done at Washington, February 14, 2008, as it may be amended.

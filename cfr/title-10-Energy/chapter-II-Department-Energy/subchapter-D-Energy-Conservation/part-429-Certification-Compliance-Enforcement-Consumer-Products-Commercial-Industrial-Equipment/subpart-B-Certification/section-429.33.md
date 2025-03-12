@@ -54,7 +54,7 @@ And x is the sample mean; s is the sample standard deviation; n is the number of
 
 (2) Pursuant to § 429.12(b)(13), a certification report shall include the following public product-specific information:
 
-(i) For ceiling fan light kits manufactured prior to January 1, 2020:
+(i) For ceiling fan light kits manufactured prior to January 21, 2020:
 
 (A) For ceiling fan light kits with sockets for medium screw base lamps: The rated wattage in watts (W) and the system's efficacy in lumens per watt (lm/W).
 
@@ -62,7 +62,7 @@ And x is the sample mean; s is the sample standard deviation; n is the number of
 
 (C) For ceiling fan light kits with any other socket type: The rated wattage in watts (W) and the number of individual sockets.
 
-(ii) For ceiling fan light kits manufactured on or after January 1, 2020:
+(ii) For ceiling fan light kits manufactured on or after January 21, 2020:
 
 (A) For each basic model of lamp and/or each basic model of integrated solid-state lighting (SSL) circuitry packaged with the ceiling fan light kit, the brand, basic model number, test sample size, kind of lamp (*i.e.,* general service fluorescent lamp (GSFL); fluorescent lamp with a pin base that is not a GSFL; compact fluorescent lamp (CFL) with a medium screw base; CFL with a base that is not medium screw base [*e.g.,* candelabra base]; other fluorescent lamp [not GSFL or CFL]; general service incandescent lamp (GSIL); candelabra base incandescent lamp; intermediate base incandescent lamp; incandescent reflector lamp; other incandescent lamp [not GSIL, IRL, candelabra base or intermediate base incandescent lamp]; integrated LED lamp; integrated SSL circuitry; other SSL products [not integrated LED lamp]; other lamp not specified), lumen output in lumens (lm), and efficacy in lumens per watt (lm/W).
 
@@ -70,9 +70,9 @@ And x is the sample mean; s is the sample standard deviation; n is the number of
 
 (3) Pursuant to § 429.12(b)(13), a certification report shall include the following additional product-specific information:
 
-(i) For ceiling fan light kits with any other socket type manufactured prior to January 1, 2020, a declaration that the basic model meets the applicable design requirement, and the features that have been incorporated into the ceiling fan light kit to meet the applicable design requirement (*e.g.,* circuit breaker, fuse, ballast).
+(i) For ceiling fan light kits with any other socket type manufactured prior to January 21, 2020, a declaration that the basic model meets the applicable design requirement, and the features that have been incorporated into the ceiling fan light kit to meet the applicable design requirement (*e.g.,* circuit breaker, fuse, ballast).
 
-(ii) For ceiling fan light kits manufactured on or after January 1, 2020:
+(ii) For ceiling fan light kits manufactured on or after January 21, 2020:
 
 (A) A declaration that the ceiling fan light kit is packaged with lamps sufficient to fill all of the lamp sockets;
 
@@ -90,4 +90,4 @@ And x is the sample mean; s is the sample standard deviation; n is the number of
 
 (5) Round lifetime to the nearest whole hour.
 
-[76 FR 12451, Mar. 7, 2011; 76 FR 24772, May 2, 2011, as amended at 80 FR 80225, Dec. 24, 2015; 81 FR 632, Jan. 6, 2016; 81 FR 43425, July 1, 2016; 84 FR 8413, Mar. 8, 2019; 87 FR 43978, July 22, 2022]
+[76 FR 12451, Mar. 7, 2011; 76 FR 24772, May 2, 2011, as amended at 80 FR 80225, Dec. 24, 2015; 81 FR 632, Jan. 6, 2016; 81 FR 43425, July 1, 2016; 84 FR 8413, Mar. 8, 2019; 87 FR 43978, July 22, 2022; 87 FR 54330, Sept. 6, 2022]
