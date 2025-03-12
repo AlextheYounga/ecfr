@@ -1,5 +1,7 @@
 ##### § 3282.601 Purpose and applicability. #####
 
+Link to an amendment published at 86 FR 2526, Jan. 12, 2021.
+
 (a) *Purpose of section.* Under HUD oversight, this section establishes the procedure for limited on-site completion of some aspects of construction that cannot be completed at the factory.
 
 (b) *Applicability.* This section may be applied when all requirements of this subpart are met. To be applicable a manufactured home must:

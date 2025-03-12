@@ -1,5 +1,7 @@
 ##### § 3280.11 Certification label. #####
 
+Link to an amendment published at 86 FR 2517, Jan. 12, 2021.
+
 (a) A permanent label shall be affixed to each transportable section of each manufactured home for sale or lease in the United States. This label shall be separate and distinct from the data plate which the manufacturer is required to provide under § 3280.5 of the standards.
 
 (b) The label shall be approximately 2 in. by 4 in. in size and shall be permanently attached to the manufactured home by means of 4 blind rivets, drive screws, or other means that render it difficult to remove without defacing it. It shall be etched on 0.32 in. thick aluminum plate. The label number shall be etched or stamped with a 3 letter designation which identifies the production inspection primary inspection agency and which the Secretary shall assign. Each label shall be marked with a 6 digit number which the label supplier shall furnish. The labels shall be stamped with numbers sequentially.

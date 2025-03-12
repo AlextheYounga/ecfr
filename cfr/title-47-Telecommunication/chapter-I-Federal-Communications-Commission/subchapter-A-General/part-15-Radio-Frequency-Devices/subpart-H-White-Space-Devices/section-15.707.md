@@ -1,5 +1,7 @@
 ##### § 15.707 Permissible channels of operation. #####
 
+Link to an amendment published at 86 FR 2291, Jan. 12, 2021.
+
 (a)(1) *470-698 MHz band.* All white space devices are permitted to operate on available channels in the frequency bands 470-698 MHz (TV channels 14-51), subject to the interference protection requirements in §§ 15.711 and 15.712.
 
 (2) *600 MHz duplex gap.* White space devices may operate in the 657-663 MHz segment of the 600 MHz duplex gap.

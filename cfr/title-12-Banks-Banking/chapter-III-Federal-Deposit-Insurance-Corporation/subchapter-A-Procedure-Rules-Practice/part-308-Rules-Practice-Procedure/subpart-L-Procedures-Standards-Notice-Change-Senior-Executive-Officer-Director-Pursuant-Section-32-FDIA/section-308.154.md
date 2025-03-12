@@ -6,8 +6,10 @@
 
 (c) A denial of the request for review pursuant to section 32 of the FDIA shall:
 
-(1) Inform the petitioner that a written request for a hearing, stating the relief desired and the grounds therefore, may be filed with the Executive Secretary within 15 days after the receipt of the denial; and
+(1) Inform the petitioner that a written request for a hearing, stating the relief desired and the grounds therefore, may be filed with the Administrative Officer within 15 days after the receipt of the denial; and
 
 (2) Summarize or cite the relevant considerations specified in § 308.152.
 
 (d) If a decision is not rendered within 30 days, the petitioner may file a request for a hearing within fifteen days from the date of expiration.
+
+[56 FR 37975, Aug. 9, 1991, as amended at 86 FR 2249, Jan. 12, 2021]

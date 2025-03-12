@@ -1,5 +1,7 @@
 ##### § 15.715 White space database administrator. #####
 
+Link to an amendment published at 86 FR 2296, Jan. 12, 2021.
+
 The Commission will designate one or more entities to administer the white space database(s). The Commission may, at its discretion, permit the functions of a white space database, such as a data repository, registration, and query services, to be divided among multiple entities; however, it will designate specific entities to be a database administrator responsible for coordination of the overall functioning of a database and providing services to white space devices. Each database administrator designated by the Commission shall:
 
 (a) Maintain a database that contains the information described in § 15.713.

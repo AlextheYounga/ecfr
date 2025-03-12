@@ -1,5 +1,7 @@
 ##### § 3280.209 Smoke alarm requirements. #####
 
+Link to an amendment published at 86 FR 2518, Jan. 12, 2021.
+
 (a) *Labeling.* Each smoke alarm required under paragraph (b) of this section must conform with the requirements of UL 217, Single and Multiple Station Smoke Alarms, dated January 4, 1999 (incorporated by reference, see § 3280.4), or UL 268, Smoke Detectors for Fire Protective Signaling Systems, dated January 4, 1999 (incorporated by reference, see § 3280.4), and must bear a label to evidence conformance.
 
 (b) *Required smoke alarm locations.* (1) At least one smoke alarm must be installed in each of the following locations:

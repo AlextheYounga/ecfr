@@ -1,5 +1,7 @@
 ##### § 15.709 General technical requirements. #####
 
+Link to an amendment published at 86 FR 2291, Jan. 12, 2021.
+
 (a) *Radiated power limits.* The maximum white space device EIRP per 6 MHz shall not exceed the limits of paragraphs (a)(2) through (4) of this section.
 
 (1) *General requirements.* (i) White space devices may be required to operate with less power than the maximum permitted to meet the co-channel and adjacent channel separation requirements of § 15.712 of this part.

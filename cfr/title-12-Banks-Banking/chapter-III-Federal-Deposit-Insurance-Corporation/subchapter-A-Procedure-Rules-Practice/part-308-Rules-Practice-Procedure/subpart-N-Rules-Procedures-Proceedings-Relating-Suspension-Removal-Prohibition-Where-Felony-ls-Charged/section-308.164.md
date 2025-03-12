@@ -1,8 +1,8 @@
 ##### § 308.164 Hearings. #####
 
-(a) *Hearing dates.* The Executive Secretary shall order a hearing to be commenced within 30 days after receipt of a request for hearing filed pursuant to § 308.163. Upon the request of the institution-affiliated party, the presiding officer or the Executive Secretary may order a later hearing date.
+(a) *Hearing dates.* The Administrative Officer shall order a hearing to be commenced within 30 days after receipt of a request for hearing filed pursuant to § 308.163. Upon the request of the institution-affiliated party, the presiding officer or the Administrative Officer may order a later hearing date.
 
-(b) *Hearing procedure.* (1) The hearing shall be held in Washington, DC, or at another designated place, before a presiding officer designated by the Executive Secretary.
+(b) *Hearing procedure.* (1) The hearing shall be held in Washington, DC, or at another designated place, before a presiding officer designated by the Administrative Officer.
 
 (2) The provisions of §§ 308.6 through 308.12, 308.16, and 308.21 of the Uniform Rules and §§ 308.101 through 308.102 and 308.104 through 308.106 of subpart B of the Local Rules shall apply to hearings held pursuant to this subpart.
 
@@ -18,7 +18,7 @@
 
 (8) The presiding officer shall make recommendations to the Board of Directors, where possible, within 10 days after the last day for the parties to submit additions to the record.
 
-(9) The presiding officer shall forward his or her recommendation to the Executive Secretary who shall promptly certify the entire record, including the recommendation to the Board of Directors. The Executive Secretary's certification shall close the record.
+(9) The presiding officer shall forward his or her recommendation to the Administrative Officer who shall promptly certify the entire record, including the recommendation to the Board of Directors. The Administrative Officer's certification shall close the record.
 
 (10) The institution-affiliated party has the burden of showing, by a preponderance of the evidence, that his or her continued service to or participation in the conduct of the affairs of a depository institution does not, or is not likely to, pose a threat to the interests of the depository institution's depositors or threaten to impair public confidence in the depository institution.
 
@@ -26,6 +26,6 @@
 
 (d) *Failure to request or appear at hearing.* Failure to request a hearing shall constitute a waiver of the opportunity for a hearing. Failure to appear at a hearing in person or through an authorized representative shall constitute a waiver of hearing. If a hearing is waived, the order shall be final and unappealable, and shall remain in full force and effect pursuant to § 308.163.
 
-(e) *Decision by Board of Directors or its designee.* Within 60 days following the Executive Secretary's certification of the record to the Board of Directors or its designee, the Board of Directors or its designee shall notify the institution-affiliated party whether the notice of suspension or prohibition or the order of removal or prohibition will be continued, terminated, or otherwise modified. The notification shall state the basis for any decision of the Board of Directors or its designee that is adverse to the institution-affiliated party. The Board of Directors or its designee shall promptly rescind or modify a notice of suspension or prohibition or an order of removal or prohibition where the decision is favorable to the institution-affiliated party.
+(e) *Decision by Board of Directors or its designee.* Within 60 days following the Administrative Officer's certification of the record to the Board of Directors or its designee, the Board of Directors or its designee shall notify the institution-affiliated party whether the notice of suspension or prohibition or the order of removal or prohibition will be continued, terminated, or otherwise modified. The notification shall state the basis for any decision of the Board of Directors or its designee that is adverse to the institution-affiliated party. The Board of Directors or its designee shall promptly rescind or modify a notice of suspension or prohibition or an order of removal or prohibition where the decision is favorable to the institution-affiliated party.
 
-[56 FR 37975, Aug. 9, 1991, as amended at 80 FR 5014, Jan. 30, 2015]
+[72 FR 67235, Nov. 28, 2007, as amended at 80 FR 5014, Jan. 30, 2015; 86 FR 2250, Jan. 12, 2021]

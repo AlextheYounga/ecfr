@@ -1,6 +1,6 @@
 ##### § 308.171 Responses to application. #####
 
-(a) *By FDIC.* (1) Within 20 days after service of an application, counsel for the FDIC may file with the Executive Secretary and serve on all parties an answer to the application. Unless counsel for the FDIC requests and is granted an extension of time for filing or files a statement of intent to negotiate under § 308.179 of this subpart, failure to file an answer within the 20-day period will be treated as a consent to the award requested.
+(a) *By FDIC.* (1) Within 20 days after service of an application, counsel for the FDIC may file with the Administrative Officer and serve on all parties an answer to the application. Unless counsel for the FDIC requests and is granted an extension of time for filing or files a statement of intent to negotiate under § 308.179, failure to file an answer within the 20-day period will be treated as a consent to the award requested.
 
 (2) The answer shall explain in detail any objections to the award requested and identify the facts relied on in support of the FDIC's position. If the answer is based on any alleged facts not already in the record of the proceeding, the answer shall include either supporting affidavits or a request for further proceedings under § 308.180.
 
@@ -10,4 +10,4 @@
 
 (d) *Additional response.* Additional filings in the nature of pleadings may be submitted only by leave of the administrative law judge.
 
-[56 FR 37975, Aug. 9, 1991, as amended at 64 FR 62102, Nov. 16, 1999]
+[56 FR 37975, Aug. 9, 1991, as amended at 64 FR 62102, Nov. 16, 1999; 86 FR 2250, Jan. 12, 2021]

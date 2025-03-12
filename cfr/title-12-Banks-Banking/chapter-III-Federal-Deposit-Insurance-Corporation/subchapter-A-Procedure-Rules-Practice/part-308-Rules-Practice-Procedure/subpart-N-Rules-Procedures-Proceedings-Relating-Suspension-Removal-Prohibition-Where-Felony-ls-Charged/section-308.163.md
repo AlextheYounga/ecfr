@@ -14,14 +14,14 @@
 
 (c) The notice of suspension or prohibition or the order of removal or prohibition shall:
 
-(1) Inform the institution-affiliated party that a written request for a hearing, stating the relief desired and grounds therefore, and any supporting evidence, may be filed with the Executive Secretary within 30 days after service of the written notice or order; and
+(1) Inform the institution-affiliated party that a written request for a hearing, stating the relief desired and grounds therefore, and any supporting evidence, may be filed with the Administrative Officer within 30 days after service of the written notice or order; and
 
 (2) Set forth the basis and facts in support of the notice or order and address the relevant considerations specified in § 308.162.
 
-(d) To obtain a hearing, the institution-affiliated party shall file with the Executive Secretary a written request for a hearing within 30 days after service of the notice of suspension or prohibition or the order of removal or prohibition, which shall:
+(d) To obtain a hearing, the institution-affiliated party shall file with the Administrative Officer a written request for a hearing within 30 days after service of the notice of suspension or prohibition or the order of removal or prohibition, which shall:
 
 (1) Admit or deny specifically each allegation in the notice or order, or state that the institution-affiliated party is without knowledge or information, which statement shall have the effect of a denial. Any allegation not denied shall be deemed to be admitted. When an institution-affiliated party intends in good faith to deny only a part of or to qualify an allegation, he shall specify so much of it as is true and shall deny only the remainder; and
 
 (2) Shall state whether the institution-affiliated party is requesting termination or modification of the notice or order, and shall state with particularity how he intends to show that his continued service to or participation in the conduct of the affairs of the depository institution would not, or is not likely to, pose a threat to the interests of its depositors or to impair public confidence in the depository institution.
 
-[56 FR 37975, Aug. 9, 1991, as amended at 80 FR 5014, Jan. 30, 2015]
+[72 FR 67235, Nov. 28, 2007, as amended at 80 FR 5014, Jan. 30, 2015; 86 FR 2250, Jan. 12, 2021]

@@ -1,10 +1,10 @@
 ##### § 308.158 Hearings. #####
 
-(a) *Hearing dates.* The Executive Secretary shall order a hearing to be commenced within 60 days after receipt of a request for hearing on an application filed under § 308.157. Upon the request of the applicant or FDIC enforcement counsel, the presiding officer or the Executive Secretary may order a later hearing date.
+(a) *Hearing dates.* The Administrative Officer shall order a hearing to be commenced within 60 days after receipt of a request for hearing on an application filed under § 308.157. Upon the request of the applicant or FDIC enforcement counsel, the presiding officer or the Administrative Officer may order a later hearing date.
 
 (b) *Burden of proof.* The burden of going forward with a *prima facie* case shall be upon the FDIC. The ultimate burden of proof shall be upon the person proposing to become or continue as an IAP with respect to an IDI; to own or control directly or indirectly an IDI; or to participate directly or indirectly in any manner in the conduct of the affairs of an IDI.
 
-(c) *Hearing procedure.* (1) The hearing shall be held in Washington, DC, or at another designated place, before a presiding officer designated by the Executive Secretary.
+(c) *Hearing procedure.* (1) The hearing shall be held in Washington, DC, or at another designated place, before a presiding officer designated by the Administrative Officer.
 
 (2) The provisions of §§ 308.6 through 308.12, 308.16, and 308.21 of the Uniform Rules (subpart A of this part) and §§ 308.101, 308.102, and 308.104 through 308.106 the Local Rules (subpart B of this part) shall apply to hearings held under this subpart.
 
@@ -20,10 +20,12 @@
 
 (8) The presiding officer shall make recommendations to the Board of Directors, where possible, within 20 days after the last day for the parties to submit additions to the record.
 
-(9) The presiding officer shall forward his or her recommendation to the Executive Secretary who shall promptly certify the entire record, including the recommendation to the Board of Directors or its designee. The Executive Secretary's certification shall close the record.
+(9) The presiding officer shall forward his or her recommendation to the Administrative Officer who shall promptly certify the entire record, including the recommendation to the Board of Directors or its designee. The Administrative Officer certification shall close the record.
 
 (d) *Written submissions in lieu of hearing.* The applicant or the IDI may in writing waive a hearing and elect to have the matter determined on the basis of written submissions.
 
 (e) *Failure to request or appear at hearing.* Failure to request a hearing shall constitute a waiver of the opportunity for a hearing. Failure to appear at a hearing in person or through an authorized representative shall constitute a waiver of a hearing. If a hearing is waived, the person shall remain barred under section 19.
 
-(f) *Decision by Board of Directors or its designee.* Within 60 days following the Executive Secretary's certification of the record to the Board of Directors or its designee, the Board of Directors or its designee shall notify the affected person whether the person shall remain barred under section 19. The notification shall state the basis for any decision of the Board of Directors or its designee that is adverse to the applicant.
+(f) *Decision by Board of Directors or its designee.* Within 60 days following the Administrative Officer's certification of the record to the Board of Directors or its designee, the Board of Directors or its designee shall notify the affected person whether the person shall remain barred under section 19. The notification shall state the basis for any decision of the Board of Directors or its designee that is adverse to the applicant.
+
+[85 FR 51323, Aug. 20, 2020, as amended at 86 FR 2250, Jan. 12, 2021]

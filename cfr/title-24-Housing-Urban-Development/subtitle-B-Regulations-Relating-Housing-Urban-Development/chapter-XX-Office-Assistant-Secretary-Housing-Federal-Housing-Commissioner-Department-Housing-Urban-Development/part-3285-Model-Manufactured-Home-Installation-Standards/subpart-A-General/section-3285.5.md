@@ -1,5 +1,7 @@
 ##### § 3285.5 Definitions. #####
 
+Link to an amendment published at 86 FR 2526, Jan. 12, 2021.
+
 The definitions contained in this section apply to the terms used in these Model Installation Standards. Where terms are not included, common usage of the terms applies. The definitions are as follows:
 
 *Act.* The National Manufactured Housing Construction and Safety Standards Act of 1974, 42 U.S.C. 5401-5426.

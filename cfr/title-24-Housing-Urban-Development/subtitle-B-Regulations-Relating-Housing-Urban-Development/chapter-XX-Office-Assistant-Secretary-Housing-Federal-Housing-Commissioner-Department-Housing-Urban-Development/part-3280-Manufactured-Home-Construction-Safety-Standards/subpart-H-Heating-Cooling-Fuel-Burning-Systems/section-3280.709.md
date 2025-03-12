@@ -1,5 +1,7 @@
 ##### § 3280.709 Installation of appliances. #####
 
+Link to an amendment published at 86 FR 2523, Jan. 12, 2021.
+
 (a) The installation of each appliance shall conform to the terms of its listing and the manufacturer's instructions. The installer shall leave the manufacturer's instructions attached to the appliance. Every appliance shall be secured in place to avoid displacement. For the purpose of servicing and replacement, each appliance shall be both accessible and removable.
 
 (b) Heat-producing appliances shall be so located that no doors, drapes, or other such material can be placed or swing closer to the front of the appliance than the clearances specified on the labeled appliances.

@@ -1,5 +1,7 @@
 ##### § 75.305 Payment. #####
 
+Link to an amendment published at 86 FR 2278, Jan. 12, 2021.
+
 (a)(1) For states, payments are governed by Treasury-State CMIA agreements and default procedures codified at 31 CFR part 205 and TFM 4A-2000 Overall Disbursing Rules for All Federal Agencies.
 
 (2) To the extent that Treasury-State CMIA agreements and default procedures do not address expenditure of program income, rebates, refunds, contract settlements, audit recoveries and interest earned on such funds, such funds must be expended before requesting additional cash payments.

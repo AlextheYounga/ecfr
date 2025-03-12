@@ -1,5 +1,7 @@
 ##### § 3280.611 Vents and venting. #####
 
+Link to an amendment published at 86 FR 2521, Jan. 12, 2021.
+
 (a) *General.* Each plumbing fixture trap shall be protected against siphonage and back pressure, and air circulation shall be ensured throughout all parts of the drainage system by means of vents installed in accordance with the requirements of this section and as otherwise required by this standard.
 
 (b) *Materials* - (1) *Pipe.* Vent piping must be standard weight galvanized steel, brass, copper tube DWV, listed Scheduled 40 ABS plastic, listed Scheduled 40 PVC plastic, cast iron, or other listed or approved materials.

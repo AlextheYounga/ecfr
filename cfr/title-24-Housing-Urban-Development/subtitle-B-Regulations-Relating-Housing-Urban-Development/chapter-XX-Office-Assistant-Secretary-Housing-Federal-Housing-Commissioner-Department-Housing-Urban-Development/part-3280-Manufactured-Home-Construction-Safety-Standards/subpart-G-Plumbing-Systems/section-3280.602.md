@@ -1,5 +1,7 @@
 ##### § 3280.602 Definitions. #####
 
+Link to an amendment published at 86 FR 2521, Jan. 12, 2021.
+
 The following definitions are applicable to subpart G only:
 
 *Accessible,* when applied to a fixture, connection, appliance or equipment, means having access thereto, but which may require removal of an access panel or opening of a door.

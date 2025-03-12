@@ -1,5 +1,7 @@
 ##### § 75.101 Applicability. #####
 
+Link to an amendment published at 86 FR 2278, Jan. 12, 2021.
+
 (a) *General applicability to Federal agencies.* The requirements established in this part apply to Federal agencies that make Federal awards to non-Federal entities. These requirements are applicable to all costs related to Federal awards.
 
 (b)(1) *Applicability to different types of Federal awards.* The following table describes what portions of this part apply to which types of Federal awards. The terms and conditions of Federal-awards (including this part) flow down to subawards to subrecipients unless a particular section of this part or the terms and conditions of the Federal award specifically indicate otherwise. This means that non-Federal entities must comply with requirements in this part regardless of whether the non-Federal entity is a recipient or subrecipient of a Federal award. Pass-through entities must comply with the requirements described in subpart D of this part, §§ 75.351 through 75.353, but not any requirements in this part directed towards Federal awarding agencies unless the requirements of this part or the terms and conditions of the Federal award indicate otherwise. This table must be read along with the other provisions in this section

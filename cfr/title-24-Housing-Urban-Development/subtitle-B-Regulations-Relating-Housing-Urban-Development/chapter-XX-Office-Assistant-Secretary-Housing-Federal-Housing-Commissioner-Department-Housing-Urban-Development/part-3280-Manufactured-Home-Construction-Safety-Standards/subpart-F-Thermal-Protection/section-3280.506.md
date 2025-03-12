@@ -1,5 +1,7 @@
 ##### § 3280.506 Heat loss/heat gain. #####
 
+Link to an amendment published at 86 FR 2521, Jan. 12, 2021.
+
 The manufactured home heat loss/heat gain shall be determined by methods outlined in §§ 3280.508 and 3280.509. The Uo (Coefficient of heat transmission) value zone for which the manufactured home is acceptable and the lowest outdoor temperature to which the installed heating equipment will maintain a temperature of 70 F shall be certified as specified in § 3280.510 of this subpart. The Uo value zone shall be determined from the map in figure 506.
 
 ![](/graphics/ec17oc91.005.gif)

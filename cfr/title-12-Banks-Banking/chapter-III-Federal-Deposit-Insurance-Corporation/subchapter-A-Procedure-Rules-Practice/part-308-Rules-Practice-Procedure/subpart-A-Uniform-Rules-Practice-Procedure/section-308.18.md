@@ -2,7 +2,7 @@
 
 (a) *Commencement of proceeding.* (1)(i) Except for change-in-control proceedings under section 7(j)(4) of the FDIA (12 U.S.C. 1817(j)(4)), a proceeding governed by this subpart is commenced by issuance of a notice by the FDIC.
 
-(ii) The notice must be served by the Executive Secretary upon the respondent and given to any other appropriate financial institution supervisory authority where required by law.
+(ii) The notice must be served by Enforcement Counsel upon the respondent and given to any other appropriate financial institution supervisory authority where required by law.
 
 (iii) The notice must be filed with the OFIA.
 
@@ -23,3 +23,5 @@
 (6) The time within which to request a hearing as required by law or regulation; and
 
 (7) That the answer and/or request for a hearing shall be filed with OFIA.
+
+[56 FR 37975, Aug. 9, 1991, as amended at 86 FR 2247, Jan. 12, 2021]

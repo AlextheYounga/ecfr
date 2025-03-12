@@ -14,4 +14,4 @@ The rules and procedures set forth in this subpart shall apply to the following:
 
 (2) A judgment of conviction or an agreement to enter a pre-trial diversion or other similar program has been entered against such party in connection with a crime described in paragraph (a)(2) of this section.
 
-[56 FR 37975, Aug. 9, 1991, as amended at 80 FR 5013, Jan. 30, 2015]
+[72 FR 67235, Nov. 28, 2007, as amended at 80 FR 5013, Jan. 30, 2015]

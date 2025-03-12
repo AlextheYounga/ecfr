@@ -1,5 +1,7 @@
 ##### § 3280.610 Drainage systems. #####
 
+Link to an amendment published at 86 FR 2521, Jan. 12, 2021.
+
 (a) *General.* (1) Each fixture directly connected to the drainage system shall be installed with a water seal trap (§ 3280.606(a)).
 
 (2) The drainage system shall be designed to provide an adequate circulation of air in all piping with no danger of siphonage, aspiration, or forcing of trap seals under conditions of ordinary use.

@@ -1,5 +1,7 @@
 ##### § 3280.612 Tests and inspection. #####
 
+Link to an amendment published at 86 FR 2521, Jan. 12, 2021.
+
 (a) *Water system.* All water piping in the water distribution system shall be subjected to a pressure test. The test shall be made by subjecting the system to air or water at 100 psi for 15 minutes without loss of pressure.
 
 (b) *Drainage and vent system and plumbing fixtures.* The waste and vent system shall be tested by one of the three following alternate methods for evidence or indication of leakage:

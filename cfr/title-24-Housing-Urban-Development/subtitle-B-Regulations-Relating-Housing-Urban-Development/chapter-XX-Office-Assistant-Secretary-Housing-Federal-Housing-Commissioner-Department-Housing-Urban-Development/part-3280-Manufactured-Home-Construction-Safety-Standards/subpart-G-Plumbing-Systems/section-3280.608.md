@@ -1,5 +1,7 @@
 ##### § 3280.608 Hangers and supports. #####
 
+Link to an amendment published at 86 FR 2521, Jan. 12, 2021.
+
 (a) *Strains and stresses.* Piping in a plumbing system shall be installed without undue strains and stresses, and provision shall be made for expansion, contraction, and structural settlement.
 
 (b) *Piping supports.* Piping shall be secured at sufficiently close intervals to keep the pipe in alignment and carry the weight of the pipe and contents. Unless otherwise stated in the standards for specific materials shown in the table in § 3280.604(a), or unless specified by the pipe manufacturer, plastic drainage piping shall be supported at intervals not to exceed 4 feet and plastic water piping shall be supported at intervals not to exceed 3 feet.

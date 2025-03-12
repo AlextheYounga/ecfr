@@ -1,10 +1,10 @@
 ##### § 308.155 Hearing. #####
 
-(a) *Hearing dates.* The Executive Secretary shall order a hearing to be commenced within 30 days after receipt of a request for a hearing filed pursuant to § 308.154. Upon request of the petitioner or the FDIC, the presiding officer or the Executive Secretary may order a later hearing date.
+(a) *Hearing dates.* The Administrative Officer shall order a hearing to be commenced within 30 days after receipt of a request for a hearing filed pursuant to § 308.154. Upon request of the petitioner or the FDIC, the presiding officer or the Administrative Officer may order a later hearing date.
 
 (b) *Burden of proof.* The ultimate burden of proof shall be upon the candidate for director or senior executive officer. The burden of going forward with a *prima facie* case shall be upon the FDIC.
 
-(c) *Hearing procedure.* (1) The hearing shall be held in Washington, DC or at another designated place, before a presiding officer designated by the Executive Secretary.
+(c) *Hearing procedure.* (1) The hearing shall be held in Washington, DC or at another designated place, before a presiding officer designated by the Administrative Officer.
 
 (2) The provisions of §§ 308.6 through 308.12, 308.16, and 308.21 of the Uniform Rules and §§ 308.101 through 308.102, and 308.104 through 308.106 of subpart B of the Local Rules shall apply to hearings held pursuant to this subpart.
 
@@ -20,12 +20,12 @@
 
 (8) The presiding officer shall make recommendations to the Board of Directors or its designee, where possible, within fifteen days after the last day for the parties to submit additions to the record.
 
-(9) The presiding officer shall forward his or her recommendation to the Executive Secretary who shall promptly certify the entire record, including the recommendation to the Board of Directors or its designee. The Executive Secretary's certification shall close the record.
+(9) The presiding officer shall forward his or her recommendation to the Administrative Officer who shall promptly certify the entire record, including the recommendation to the Board of Directors or its designee. The Administrative Officer's certification shall close the record.
 
 (d) *Written submissions in lieu of hearing.* The petitioner may in writing waive a hearing and elect to have the matter determined on the basis of written submissions.
 
 (e) *Failure to request or appear at hearing.* Failure to request a hearing shall constitute a waiver of the opportunity for a hearing. Failure to appear at a hearing in person or through an authorized representative shall constitute a waiver of hearing. If a hearing is waived, the order shall be final and unappealable, and shall remain in full force and effect.
 
-(f) *Decision by Board of Directors or its designee.* Within 45 days following the Executive Secretary's certification of the record to the Board of Directors or its designee, the Board of Directors or its designee shall notify the affected individual whether the denial of the notice will be continued, terminated, or otherwise modified. The notification shall state the basis for any decision of the Board of Directors or its designee that is adverse to the petitioner. The Board of Directors or its designee shall promptly rescind or modify the denial where the decision is favorable to the petitioner.
+(f) *Decision by Board of Directors or its designee.* Within 45 days following the Administrative Officer's certification of the record to the Board of Directors or its designee, the Board of Directors or its designee shall notify the affected individual whether the denial of the notice will be continued, terminated, or otherwise modified. The notification shall state the basis for any decision of the Board of Directors or its designee that is adverse to the petitioner. The Board of Directors or its designee shall promptly rescind or modify the denial where the decision is favorable to the petitioner.
 
-[56 FR 37975, Aug. 9, 1991, as amended at 64 FR 62101, Nov. 16, 1999]
+[56 FR 37975, Aug. 9, 1991, as amended at 64 FR 62101, Nov. 16, 1999; 86 FR 2249, Jan. 12, 2021]

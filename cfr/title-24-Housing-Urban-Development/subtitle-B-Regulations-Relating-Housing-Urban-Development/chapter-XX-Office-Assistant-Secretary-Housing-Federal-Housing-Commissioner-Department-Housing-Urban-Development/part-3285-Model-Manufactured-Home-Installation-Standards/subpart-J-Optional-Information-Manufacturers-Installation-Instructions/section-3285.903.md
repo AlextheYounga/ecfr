@@ -1,5 +1,7 @@
 ##### § 3285.903 Permits, alterations, and on-site structures. #####
 
+Link to an amendment published at 86 FR 2526, Jan. 12, 2021.
+
 It is recommended that the installation instructions include the following information related to permits, alterations, and on-site structures:
 
 (a) *Issuance of permits.* All necessary LAHJ fees should be paid and permits should be obtained, which may include verification that LAHJ requirements regarding encroachments in streets, yards, and courts are obeyed and that permissible setback and fire separation distances from property lines and public roads are met.

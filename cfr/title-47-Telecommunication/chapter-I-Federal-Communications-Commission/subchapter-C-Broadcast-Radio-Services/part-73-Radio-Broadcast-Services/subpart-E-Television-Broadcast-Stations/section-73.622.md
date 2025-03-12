@@ -1279,7 +1279,7 @@ ut terminals of the transmitter (including any filters that may be employed). In
 |    Green Valley    |                        46                         |
 |      Holbrook      |                       \*11                        |
 |      Kingman       |                        19                         |
-|        Mesa        |                        12                         |
+|        Mesa        |                        18                         |
 |      Phoenix       |      \*8, 10, 15, 17, 20, 24, 26, 33, 39, 49      |
 |      Prescott      |                         7                         |
 |    Sierra Vista    |                        44                         |

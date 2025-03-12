@@ -1,5 +1,7 @@
 ##### § 3282.7 Definitions. #####
 
+Link to an amendment published at 86 FR 2525, Jan. 12, 2021.
+
 The terms *Department, HUD,* and *Secretary* are defined in 24 CFR part 5.
 
 (a) *Act* means the National Manufactured Housing Construction and Safety Standards Act of 1974, title VI of the Housing and Community Development Act of 1974 (42 U.S.C. 5401 *et seq.*)

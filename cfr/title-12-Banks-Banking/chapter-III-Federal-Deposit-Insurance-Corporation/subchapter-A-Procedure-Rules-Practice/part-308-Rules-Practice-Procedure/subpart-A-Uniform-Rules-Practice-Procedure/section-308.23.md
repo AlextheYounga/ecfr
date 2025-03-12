@@ -8,12 +8,14 @@
 
 (b) *Oral motions.* A motion may be made orally on the record unless the administrative law judge directs that such motion be reduced to writing.
 
-(c) *Filing of motions.* Motions must be filed with the administrative law judge, except that following the filing of the recommended decision, motions must be filed with the Executive Secretary for disposition by the Board of Directors.
+(c) *Filing of motions.* Motions must be filed with the administrative law judge, except that following the filing of the recommended decision, motions must be filed with the Administrative Officer for disposition by the Board of Directors.
 
-(d) *Responses.* (1) Except as otherwise provided herein, within ten days after service of any written motion, or within such other period of time as may be established by the administrative law judge or the Executive Secretary, any party may file a written response to a motion. The administrative law judge shall not rule on any oral or written motion before each party has had an opportunity to file a response.
+(d) *Responses.* (1) Except as otherwise provided in this paragraph (d), within ten days after service of any written motion, or within such other period of time as may be established by the administrative law judge or the Administrative Officer, any party may file a written response to a motion. The administrative law judge shall not rule on any oral or written motion before each party has had an opportunity to file a response.
 
 (2) The failure of a party to oppose a written motion or an oral motion made on the record is deemed a consent by that party to the entry of an order substantially in the form of the order accompanying the motion.
 
 (e) *Dilatory motions.* Frivolous, dilatory or repetitive motions are prohibited. The filing of such motions may form the basis for sanctions.
 
 (f) *Dispositive motions.* Dispositive motions are governed by §§ 308.29 and 308.30.
+
+[56 FR 37975, Aug. 9, 1991, as amended at 86 FR 2247, Jan. 12, 2021]
