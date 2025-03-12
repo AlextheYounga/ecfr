@@ -1,0 +1,15 @@
+##### § 295.7 Miscellaneous. #####
+
+(a) *Disbursement cycle.* In honoring and complying with a court decree or property settlement, the Board shall not be required to disrupt its normal disbursement cycle, despite any special schedule of accrual or payment of amounts due the spouse or former spouse set forth in the decree or settlement. A decree or settlement received too late to be honored during the disbursement cycle in which it was received shall be honored with respect to the next payment due the employee.
+
+(b) *Liability for payments.* Neither the Board nor any of its employees shall be liable with respect to any payment made to any individual from moneys due from or payable by the Board pursuant to a court decree or property settlement regular on its face, if such payment is made in accordance with this part.
+
+(c) *Liability for disclosures.* No employee of the Board whose duties include responding to requirements contained in this part shall be subject under any law to any disciplinary action or civil or criminal liability or penalty for, or on account of, any disclosure of information made by such employee in connection with the performance of the employee's duties in making such response.
+
+(d) *Applicable law.* For purposes of a proceeding under this part, the Board will apply the law of the jurisdiction in which the court decree or property settlement was issued unless it comes to the attention of the Board that the state of issuance has no contact with the plaintiff or defendant in the action; in which case, the Board may, in its sole discretion, apply the law of any jurisdiction with significant interest in the matter.
+
+(e) *Erroneous payments.* (1) If a spouse or former spouse receives a payment pursuant to this part from an employee's benefit, and the Board later determines that the employee was not entitled to all or part of those benefits for any month, the amount of the employee's benefits which was paid to the spouse or former spouse in excess of the amount which was actually payable shall be an erroneous payment to the spouse or former spouse within the meaning of section 10 of the Railroad Retirement Act.
+
+(2) Where all documentation required by this part is in the Board's records pertaining to the employee prior to the time the employee annuity is awarded, but where the Board due to clerical oversight fails to withhold the amount awarded by the court order, then the Board shall begin deduction from the employee annuity with the month the error is discovered, and shall pay the amount which should have been withheld pursuant to this part to the spouse or former spouse. The amount paid to the spouse or former spouse representing months for which the amount under the order was not timely withheld shall be an erroneous payment to the employee within the meaning of section 10 of the Railroad Retirement Act. This section shall not apply where the Board has attempted to contact the spouse or former spouse at the time the employee annuity is awarded pursuant to § 295.4(d).
+
+[51 FR 12845, Apr. 16, 1986, as amended at 73 FR 47046, Aug. 13, 2008]

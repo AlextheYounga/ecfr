@@ -1,0 +1,3 @@
+##### § 1002.151 If the employer provides full or partial pay to the employee while he or she is on military leave, is the employer required to also provide the non-seniority rights and benefits ordinarily granted to similarly situated employees on furlough or leave of absence? #####
+
+Yes. If the employer provides additional benefits such as full or partial pay when the employee performs service, the employer is not excused from providing other rights and benefits to which the employee is entitled under the Act.

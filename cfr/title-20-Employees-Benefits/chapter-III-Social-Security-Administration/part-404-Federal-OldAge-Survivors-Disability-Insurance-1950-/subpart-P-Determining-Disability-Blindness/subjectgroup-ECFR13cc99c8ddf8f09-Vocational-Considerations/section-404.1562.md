@@ -1,0 +1,9 @@
+##### § 404.1562 Medical-vocational profiles showing an inability to make an adjustment to other work. #####
+
+(a) *If you have done only arduous unskilled physical labor.* If you have no more than a marginal education (*see* § 404.1564) and work experience of 35 years or more during which you did only arduous unskilled physical labor, and you are not working and are no longer able to do this kind of work because of a severe impairment(s) (*see* §§ 404.1520(c), 404.1521, and 404.1523), we will consider you unable to do lighter work, and therefore, disabled.
+
+Example to paragraph (a):B is a 58-year-old miner's helper with a fourth grade education who has a lifelong history of unskilled arduous physical labor. B says that he is disabled because of arthritis of the spine, hips, and knees, and other impairments. Medical evidence shows a “severe” combination of impairments that prevents B from performing his past relevant work. Under these circumstances, we will find that B is disabled.
+
+(b) *If you are at least 55 years old, have no more than a limited education, and have no past relevant work experience.* If you have a severe, medically determinable impairment(s) (*see* §§ 404.1520(c), 404.1521, and 404.1523), are of advanced age (age 55 or older, *see* § 404.1563), have a limited education or less (*see* § 404.1564), and have no past relevant work experience (*see* § 404.1565), we will find you disabled. If the evidence shows that you meet this profile, we will not need to assess your residual functional capacity or consider the rules in appendix 2 to this subpart.
+
+[68 FR 51163, Aug. 26, 2003]

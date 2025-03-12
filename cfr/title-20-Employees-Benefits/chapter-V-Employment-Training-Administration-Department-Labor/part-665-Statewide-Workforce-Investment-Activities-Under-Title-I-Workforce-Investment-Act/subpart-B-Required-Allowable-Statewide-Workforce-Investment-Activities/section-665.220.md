@@ -1,0 +1,3 @@
+##### § 665.220 Who is an “incumbent worker” for purposes of Statewide workforce investment activities? #####
+
+States may establish policies and definitions to determine which workers, or groups of workers, are eligible for incumbent worker services under this subpart. An incumbent worker is an individual who is employed, but an incumbent worker does not necessarily have to meet the eligibility requirements for intensive and training services for employed adults and dislocated workers at 20 CFR 663.220(b) and 663.310. (WIA sec. 134(a)(3)(A)(iv)(I).)

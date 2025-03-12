@@ -1,0 +1,3 @@
+##### § 664.510 Are Individual Training Accounts allowed for youth participants? #####
+
+No, however, individuals age 18 and above, who are eligible for training services under the adult and dislocated worker programs, may receive Individual Training Accounts through those programs. Requirements for concurrent participation requirements are set forth in § 664.500. To the extent possible, in order to enhance youth participant choice, youth participants should be involved in the selection of educational and training activities.

@@ -1,0 +1,3 @@
+##### § 395.38 Reports. #####
+
+At the end of each fiscal year, each property managing department, agency, or instrumentality of the United States shall report to the Secretary the total number of applications for vending facility locations received from State licensing agencies, the number accepted, the number denied, the number still pending, the total amount of vending machine income collected and the amount of such vending machine income disbursed to the State licensing agency in each State.

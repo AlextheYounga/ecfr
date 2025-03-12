@@ -1,0 +1,7 @@
+##### § 373.24 What are the special requirements pertaining to the protection, use, and release of personal information? #####
+
+(a) All personal information about individuals served by any project under this part, including lists of names, addresses, photographs, and records of evaluation, must be confidential.
+
+(b) The use of information and records concerning individuals must be limited only to purposes directly connected with the project, including project reporting and evaluation activities. This information may not be disclosed, directly or indirectly, other than in the administration of the project unless the consent of the agency providing the information and the individual to whom the information applies, or his or her representative, has been obtained in writing. The Secretary or other Federal officials responsible for enforcing legal requirements have access to this information without written consent being obtained. The final products of the project may not reveal any personal identifying information without written consent of the individual or his or her representative.
+
+(Authority: Sections 12(c) and 303(b)(2)(B) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 709(c), and 773(b)(2)(B))

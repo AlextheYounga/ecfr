@@ -1,0 +1,5 @@
+##### § 416.1203 Deeming of resources of an essential person. #####
+
+In the case of a qualified individual (as defined in § 416.221) whose payment standard has been increased because of the presence of an essential person (as defined in § 416.222), the resources of such qualified individual shall be deemed to include all the resources of such essential person with the exception of the resources explained in §§ 416.1210(t) and 416.1249. If such qualified individual would not meet the resource criteria for eligibility (as defined in §§ 416.1205 and 416.1260) because of the deemed resources, then the payment standard increase because of the essential person will be nullified and the provision of this section will not apply; essential person status is lost permanently. However, if such essential person is an ineligible spouse of a qualified individual or a parent (or spouse of a parent) of a qualified individual who is a child under age 21, then the resources of such person will be deemed to such qualified individual in accordance with the provision in § 416.1202.
+
+[39 FR 33797, Sept. 20, 1974, as amended at 51 FR 10616, Mar. 28, 1986; 70 FR 41138, July 18, 2005]

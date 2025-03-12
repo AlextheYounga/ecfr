@@ -1,0 +1,3 @@
+##### § 661.207 How does the State Board meet its requirement to conduct business in an open manner under the “sunshine provision” of WIA section 111(g)? #####
+
+The State Board must conduct its business in an open manner as required by WIA section 111(g), by making available to the public, on a regular basis through open meetings, information about the activities of the State Board. This includes information about the State Plan prior to submission of the plan; information about membership; the development of significant policies, interpretations, guidelines and definitions; and, on request, minutes of formal meetings of the State Board.

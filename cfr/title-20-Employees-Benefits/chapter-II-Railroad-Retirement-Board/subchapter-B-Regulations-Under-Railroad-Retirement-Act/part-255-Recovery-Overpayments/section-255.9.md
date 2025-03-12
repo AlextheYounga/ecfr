@@ -1,0 +1,3 @@
+##### § 255.9 Individual enrolled under supplementary medical insurance plan. #####
+
+Where recovery of the overpayment is by setoff as provided for in § 255.6 of this part, and where recovery of the overpayment by such means will be accomplished within a period of 5 months, and the individual from whom recovery is sought is an enrollee under Part B of Title XVIII of the Social Security Act (Supplementary Medical Insurance Benefits for the Aged and Disabled), an amount of such individual's monthly benefit which is equal to his or her obligation for supplementary medical insurance premiums will be applied toward payment of such premiums, and the balance of the monthly benefit will be applied toward recovery of the overpayment.

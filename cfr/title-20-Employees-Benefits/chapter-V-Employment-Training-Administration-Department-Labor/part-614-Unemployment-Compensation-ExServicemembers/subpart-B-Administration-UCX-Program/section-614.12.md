@@ -1,0 +1,9 @@
+##### § 614.12 Schedules of remuneration. #####
+
+(a) *Authority.* Section 8521(a)(2) of chapter 85, title 5 of the United States Code, 5 U.S.C. 8521(a)(2), requires the Secretary of Labor to issue from time to time, after consultation with the Secretary of Defense, a Schedule of Remuneration specifying the pay and allowances for each pay grade of members of the Armed Forces.
+
+(b) *Elements of schedule.* A schedule reflects representative amounts for appropriate elements of the pay and allowances, whether in cash or kind, for each pay grade of members of the Armed Forces, with a statement of the effective date of the schedule. Benefit amounts for the UCX Program are computed on the basis of the Federal military wages for the pay grade of the individual at the time of the individual's latest discharge or release from Federal military service, as specified in the schedule applicable at the time the individual files his or her first claim for compensation for the benefit year.
+
+(c) *Effective date.* Any new Schedule of Remuneration shall take effect beginning with the first week of the calendar quarter following the calendar quarter in which such schedule is issued, and shall remain applicable until a subsequent schedule becomes effective. Prior schedules shall continue to remain applicable for the periods they were in effect.
+
+(d) *Publication.* Any new Schedule of Remuneration shall be issued by the Secretary of Labor to the State agencies and the Federal military agencies. Promptly after the issuance of a new Schedule of Remuneration it shall be published as a notice in the Federal Register.

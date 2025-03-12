@@ -1,0 +1,3 @@
+##### § 658.600 Scope and purpose of subpart. #####
+
+This subpart sets forth the regulations governing review and assessment of State Workforce Agency (SWA) compliance with the ES regulations at this part and parts 651, 652, 653, and 654 of this chapter. All recordkeeping and reporting requirements contained in this part and part 653 of this chapter have been approved by the Office of Management and Budget as required by the Paperwork Reduction Act of 1980.

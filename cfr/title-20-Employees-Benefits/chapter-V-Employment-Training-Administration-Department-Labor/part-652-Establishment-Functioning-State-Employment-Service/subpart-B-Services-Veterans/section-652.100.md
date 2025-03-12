@@ -1,0 +1,3 @@
+##### § 652.100 Services for veterans. #####
+
+Veterans receive priority of service for all Department-funded employment and training programs as described in 20 CFR part 1010. The Department's Veterans' Employment and Training Service (VETS) administers the Jobs for Veterans State Grants (JVSG) program under chapter 41 of title 38 of the U.S. Code and other activities and training programs which provide services to specific populations of eligible veterans. VETS' general regulations are located in parts 1001, 1002, and 1010 of this title.

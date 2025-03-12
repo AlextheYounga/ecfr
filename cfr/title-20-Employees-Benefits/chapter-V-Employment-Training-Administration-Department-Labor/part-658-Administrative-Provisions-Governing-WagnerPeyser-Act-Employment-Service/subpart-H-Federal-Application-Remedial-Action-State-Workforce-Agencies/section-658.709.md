@@ -1,0 +1,9 @@
+##### § 658.709 Conduct of hearings. #####
+
+(a) Proceedings under this section are governed by secs. 5 through 8 of the Administrative Procedure Act, 5 U.S.C. 553 *et seq.* and the rules of practice and procedure at subpart A of 29 CFR part 18, except as otherwise specified in this section.
+
+(b) Technical rules of evidence do not apply, but rules or principles designed to assure production of the most credible evidence available and to subject testimony to test by cross-examination, must be applied if necessary by the ALJ conducting the hearing. The ALJ may exclude irrelevant, immaterial, or unduly repetitious evidence. All documents and other evidence offered or taken for the record must be open to examination by the parties. Opportunity must be given to refute facts and arguments advanced on either side of the issue. A transcript must be made of the oral evidence except to the extent the substance thereof is stipulated for the record.
+
+(c) Discovery may be conducted as provided in the rules of practice and procedure at 29 CFR 18.50 through 18.65.
+
+(d) When a public officer is a respondent in a hearing in an official capacity and during its pendency dies, resigns, or otherwise ceases to hold office, the proceeding does not abate and the officer's successor is automatically substituted as a party. Proceedings following the substitution must be in the name of the substituted party, but any misnomer not affecting the substantive rights of the parties must be disregarded. An order of substitution may be entered at any time, but the omission to enter such an order may not affect the substitution.

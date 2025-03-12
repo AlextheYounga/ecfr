@@ -1,0 +1,3 @@
+##### § 669.330 How are services delivered to the customer? #####
+
+To ensure that all services are focused on the customer's needs, services are provided through a case-management approach and may include: Core, intensive and training services; and related assistance, which includes emergency assistance and supportive services. The basic services and delivery of case-management activities are further described at §§ 669.340 through 669.410. Consistent with 20 CFR part 663, before receiving intensive services, a participant must receive at least one core service, and, prior to receiving training services, a participant must receive at least one intensive service.

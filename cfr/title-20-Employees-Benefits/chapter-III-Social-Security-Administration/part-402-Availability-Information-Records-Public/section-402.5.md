@@ -1,0 +1,3 @@
+##### § 402.5 Scope and purpose. #####
+
+The rules in this part relate to the availability to the public, pursuant to the Freedom of Information Act (FOIA) 5 U.S.C. 552, of records of the Social Security Administration (SSA). They describe how to make a FOIA request; who can release records and who can decide not to release; how much time it should take to make a determination regarding release; what fees may be charged; what records are available for public inspection; why some records are not released; and your right to appeal and then go to court if we refuse to release records. The rules in this part do not revoke, modify, or supersede the regulations of SSA relating to disclosure of information in part 401 of this chapter.

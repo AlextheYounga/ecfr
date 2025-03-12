@@ -1,0 +1,3 @@
+##### § 416.301 Introduction. #####
+
+This subpart contains the rules for filing a claim for supplemental security income (SSI) benefits. It tells you what an application is, who may sign it, who must file one to be eligible for benefits, the period of time it is in effect, and how it may be withdrawn. It also tells you when a written statement or an oral inquiry may be considered to establish an application filing date.

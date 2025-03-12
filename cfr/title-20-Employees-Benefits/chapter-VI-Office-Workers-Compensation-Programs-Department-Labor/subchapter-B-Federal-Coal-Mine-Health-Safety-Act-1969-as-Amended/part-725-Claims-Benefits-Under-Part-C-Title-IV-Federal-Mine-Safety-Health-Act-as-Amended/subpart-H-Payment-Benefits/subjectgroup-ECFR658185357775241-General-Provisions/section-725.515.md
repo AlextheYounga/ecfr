@@ -1,0 +1,5 @@
+##### § 725.515 Assignment and exemption from claims of creditors. #####
+
+(a) Except as provided by the Act and this part, no assignment, release, or commutation of benefits due or payable under this part by a responsible operator shall be valid, and all benefits shall be exempt from claims of creditors and from levy, execution, and attachment or other remedy or recovery or collection of a debt, which exemption may not be waived.
+
+(b) Notwithstanding any other provision of law, benefits due from, or payable by, the Black Lung Disability Trust Fund under the Act and this part to a claimant shall be subject to legal process brought for the enforcement against the claimant of his or her legal obligations to provide child support or make alimony payments to the same extent as if the fund was a private person.

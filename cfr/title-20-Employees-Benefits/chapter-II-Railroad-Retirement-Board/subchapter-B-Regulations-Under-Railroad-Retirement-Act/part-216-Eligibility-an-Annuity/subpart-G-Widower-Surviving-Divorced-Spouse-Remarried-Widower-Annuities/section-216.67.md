@@ -1,0 +1,5 @@
+##### § 216.67 “Child in care.” #####
+
+(a) *Railroad Retirement Act.* Part 222 of this chapter sets forth what is required to establish that a child is in an individual's care for purposes of the Railroad Retirement Act. This definition is used to establish eligibility for the tier II component of a female spouse or widow(er) annuity under that Act. Under this definition a child must be under age 18 or under a disability before any benefit is payable based upon having the child in care.
+
+(b) *Social Security Act.* In order to establish eligibility for the tier I components of a spouse or widow(er) annuity, and eligibility for a surviving divorced spouse annuity based upon having a child of the employee in care, the definition of “child in care” found in the Social Security Act is used. Under this definition, a child must be under age 16 or under a disability.

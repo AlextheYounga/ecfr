@@ -1,0 +1,3 @@
+##### § 670.975 How is the performance of the Job Corps program assessed? #####
+
+The performance of the Job Corps program as a whole, and the performance of individual program components, is assessed on an ongoing basis, in accordance with the regulations in this part and procedures and standards, including a national performance measurement system, issued by the Secretary. Annual performance assessments are done for each center operator and other service providers, including screening and admissions and placement agencies.

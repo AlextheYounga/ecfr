@@ -1,0 +1,11 @@
+##### § 463.510 How must the Memorandum of Understanding be negotiated? #####
+
+(a) WIOA emphasizes full and effective partnerships between Local WDBs, chief elected officials, and one-stop partners. Local WDBs and partners must enter into good-faith negotiations. Local WDBs, chief elected officials, and one-stop partners may also request assistance from a State agency responsible for administering the partner program, the Governor, State WDB, or other appropriate parties on other aspects of the MOU.
+
+(b) Local WDBs and one-stop partners must establish, in the MOU, how they will fund the infrastructure costs and other shared costs of the one-stop centers. If agreement regarding infrastructure costs is not reached when other sections of the MOU are ready, an interim infrastructure funding agreement may be included instead, as described in § 463.715(c). Once agreement on infrastructure funding is reached, the Local WDB and one-stop partners must amend the MOU to include the infrastructure funding of the one-stop centers. Infrastructure funding is described in detail in §§ 463.700 through 463.760.
+
+(c) The Local WDB must report to the State WDB, Governor, and relevant State agency when MOU negotiations with one-stop partners have reached an impasse.
+
+(1) The Local WDB and partners must document the negotiations and efforts that have taken place in the MOU. The State WDB, one-stop partner programs, and the Governor may consult with the appropriate Federal agencies to address impasse situations related to issues other than infrastructure funding after attempting to address the impasse. Impasses related to infrastructure cost funding must be resolved using the State infrastructure cost funding mechanism described in § 463.730.
+
+(2) The Local WDB must report failure to execute an MOU with a required partner to the Governor, State WDB, and the State agency responsible for administering the partner's program. Additionally, if the State cannot assist the Local WDB in resolving the impasse, the Governor or the State WDB must report the failure to the Secretary of Labor and to the head of any other Federal agency with responsibility for oversight of a partner's program.

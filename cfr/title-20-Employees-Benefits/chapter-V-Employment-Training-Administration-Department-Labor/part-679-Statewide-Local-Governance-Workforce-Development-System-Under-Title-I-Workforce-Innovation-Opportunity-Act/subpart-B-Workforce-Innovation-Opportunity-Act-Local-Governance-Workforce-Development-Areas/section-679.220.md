@@ -1,0 +1,5 @@
+##### § 679.220 What is the purpose of the local area? #####
+
+(a) The purpose of a local area is to serve as a jurisdiction for the administration of workforce development activities and execution of adult, dislocated worker, and youth funds allocated by the State. Such areas may be aligned with a region identified in WIOA sec. 106(a)(1) or may be components of a planning region, each with its own Local WDB. Also, significantly, local areas are the areas within which Local WDBs oversee their functions, including strategic planning, operational alignment and service delivery design, and a jurisdiction where partners align resources at a sub-State level to design and implement overall service delivery strategies.
+
+(b) The Governor must designate local areas (local areas) in order for the State to receive adult, dislocated worker, and youth funding under title I, subtitle B of WIOA.

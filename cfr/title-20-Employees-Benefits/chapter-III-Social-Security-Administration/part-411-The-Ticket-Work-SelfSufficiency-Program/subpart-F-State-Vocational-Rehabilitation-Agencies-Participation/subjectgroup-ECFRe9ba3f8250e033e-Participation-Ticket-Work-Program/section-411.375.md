@@ -1,0 +1,3 @@
+##### § 411.375 Does a State VR agency continue to provide services under the requirements of the State plan approved under title I of the Rehabilitation Act of 1973, as amended (29 U.S.C. 720 et seq.), when functioning as an EN? #####
+
+Yes. The State VR agency must continue to provide services under the requirements of the State plan approved under title I of the Rehabilitation Act of 1973, as amended (29 U.S.C. 720 *et seq.*), even when functioning as an EN.

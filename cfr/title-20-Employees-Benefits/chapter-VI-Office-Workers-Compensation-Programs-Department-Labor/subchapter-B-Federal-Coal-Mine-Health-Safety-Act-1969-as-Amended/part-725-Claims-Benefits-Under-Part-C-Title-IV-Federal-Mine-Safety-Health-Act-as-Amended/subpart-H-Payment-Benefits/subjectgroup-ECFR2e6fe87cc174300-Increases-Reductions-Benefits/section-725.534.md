@@ -1,0 +1,3 @@
+##### § 725.534 Reduction of State benefits. #####
+
+No benefits under section 415 of part B of title IV of the Act shall be payable to the residents of a State which, after December 31, 1969, reduces the benefits payable to persons eligible to receive benefits under section 415 of the Act under State laws applicable to its general work force with regard to workers' compensation (including compensation for occupational disease), unemployment compensation, or disability insurance benefits which are funded in whole or in part out of employer contributions.

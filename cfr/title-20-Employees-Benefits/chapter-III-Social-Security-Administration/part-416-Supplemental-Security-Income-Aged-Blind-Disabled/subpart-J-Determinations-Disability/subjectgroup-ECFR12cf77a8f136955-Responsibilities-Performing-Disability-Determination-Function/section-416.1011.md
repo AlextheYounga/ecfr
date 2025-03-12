@@ -1,0 +1,5 @@
+##### § 416.1011 How we notify a State whether it may perform the disability determination function. #####
+
+(a) If a State notifies us in writing that it wishes to perform the disability determination function, we will notify the State in writing whether or not it may perform the function. The State will begin performing the disability determination function beginning with the month we and the State agree upon.
+
+(b) If we have previously found that a State agency has substantially failed to make disability determinations in accordance with the law or these regulations and other written guidelines or if the State has previously notified us in writing that it does not wish to make disability determinations, the notice will advise the State whether the State agency may again make the disability determinations and, if so, the date and the conditions under which the State may again make them.

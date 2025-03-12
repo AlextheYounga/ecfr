@@ -1,0 +1,3 @@
+##### § 684.120 What obligation does the Department have to consult with the Indian and Native American grantee community in developing rules, regulations, and standards of accountability for Indian and Native American programs? #####
+
+The Department's primary consultation vehicle for INA programs is the Native American Employment and Training Council. In addition, the Department will consult with the INA program grantee community in developing policies for the INA programs, actively seeking and considering the views of INA program grantees prior to establishing INA program policies and regulations. The Department will follow the Department of Labor's tribal consultation policy and Executive Order 13175 of November 6, 2000.

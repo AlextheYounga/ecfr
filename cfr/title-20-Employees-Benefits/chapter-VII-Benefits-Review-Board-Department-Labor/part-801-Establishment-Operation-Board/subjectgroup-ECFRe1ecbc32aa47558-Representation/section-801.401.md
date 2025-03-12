@@ -1,0 +1,3 @@
+##### § 801.401 Representation before the Board. #####
+
+On any issues requiring representation of the Secretary, the Director, Office of Workers' Compensation Programs, a deputy commissioner, or an administrative law judge before the Board, such representation shall be provided by attorneys designated by the Solicitor of Labor. Representation of all other persons before the Board shall be as provided by the rules of practice and procedure promulgated under § 801.302 (see part 802 of this chapter).

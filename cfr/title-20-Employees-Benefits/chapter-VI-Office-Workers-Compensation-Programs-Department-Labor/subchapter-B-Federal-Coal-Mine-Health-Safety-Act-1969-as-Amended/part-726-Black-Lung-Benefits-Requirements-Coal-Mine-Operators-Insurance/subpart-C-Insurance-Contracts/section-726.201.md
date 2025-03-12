@@ -1,0 +1,3 @@
+##### § 726.201 Insurance contracts—generally. #####
+
+Each operator of a coal mine who has not obtained authorization as a self-insurer shall purchase a policy or enter into a contract with a commercial insurance carrier or State agency. Pursuant to authority contained in sections 422(a) and 423(b) and (c) of part C of title IV of the Act, this subpart describes a number of provisions which are required to be incorporated in a policy or contract of insurance obtained by a coal mine operator for the purpose of meeting the responsibility imposed upon such operator by the Act in respect of the total disability or death of miners due to pneumoconiosis.

@@ -1,0 +1,3 @@
+##### § 411.725 If an alternate participant becomes an EN and it has signed employment plans, both as an alternate participant and an EN, how will SSA pay for services provided under each employment plan? #####
+
+We will continue to abide by the programs for payments for VR services in cases where services are provided to a beneficiary under an employment plan signed prior to the date of implementation of the Ticket to Work program in the State. However, we will not pay an alternate participant under these programs for services provided on or after January 1, 2004. For those employment plans signed by a beneficiary and the EN after implementation of the program in the State, the EN's elected EN payment system under the Ticket to Work program applies.

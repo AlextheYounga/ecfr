@@ -1,0 +1,3 @@
+##### § 411.430 What should the PM do when it is informed that an EN has attempted to make a referral to a State VR agency without an agreement being in place? #####
+
+The PM will contact the EN to explain that a referral cannot be made to the State VR agency unless an agreement has been established that sets out the conditions under which services will be provided when a beneficiary's ticket is assigned to the EN and the EN is referring the beneficiary to the State VR agency for specific services.

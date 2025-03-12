@@ -1,0 +1,27 @@
+##### § 404.1287 Exceptions to the time limitations on assessments—for wages paid prior to 1987. #####
+
+(a)(1) *Extension by agreement.* The applicable time period described in § 404.1286 for assessment of an amount due may, before the expiration of such period, be extended for no more than 6 months by written agreement between the State and the Commissioner. The agreement must involve and identify a known issue or reporting error. It must also identify the periods involved, the time limitation which is being extended and the date to which it is being extended, and the coverage group(s) and position(s) or individual(s) to which the agreement applies. The extension of the period of limitation shall not become effective until the agreement is signed by the appropriate State official and the Commissioner. (See § 404.3(c) for the applicable rule where periods of limitation expire on nonwork days.) An assessment made by the Commissioner before the extended time limit ends shall be considered to have been made within the time period limitation specified in section 218(q)(2) of the Act as it read prior to the enactment of Pub. L. 99-509. (See § 404.1286.)
+
+(2) *Reextension.* An extension agreement provided for in paragraph (a)(1) of this section may be reextended by written agreement between the State and the Commissioner for no more than 6 months at a time beyond the expiration of the prior extension or reextension agreement, and only if one of the following conditions is met:
+
+(i) Litigation (including intrastate litigation) or a review under § 404.1290 or § 404.1297 involving wage reports or corrections on the same issue is pending; or
+
+(ii) The State is actively pursuing corrections of a known error which require additional time to complete; or
+
+(iii) The Social Security Administration is developing a coverage or wage issue which was being considered before the statute of limitations expired and additional time is needed to make a determination; or
+
+(iv) The Social Security Administration has not issued to the State a final audit statement on the State's wage or correction reports; or
+
+(v) There is pending Federal legislation which may substantially affect the issue in question, or the issue has national implications.
+
+(b) *The 365-day period.* If a State files a report before the applicable time limitation in § 404.1286 (or any extension under paragraph (a) of this section) ends and makes no payment or pays less than the correct amount due, the Commissioner may assess the State for the amount due after the applicable time limitation has ended. However, the Commissioner must make the assessment no later than the 365th day after the day the State makes payment to the Secretary of the Treasury. The Commissioner can only make this assessment on the wages paid to the reported individuals for the reported periods. The Commissioner, in making this assessment, credits the amount paid by the State on these individuals' wages for those reported periods.
+
+(c) *Revision of employee's earnings record.* If, under section 205(c)(5) (A) or (B) of the Act, the Commissioner credits wages to an individual's earnings record, the Commissioner may make an assessment for any amount due on those wages before the Commissioner's decision on revising the individual's earnings record becomes final. (Sections 404.822(c) (1) and (2) describe the time limits for revising an earnings record where an individual has applied for monthly benefits or a lump-sum death payment or requested that we correct his earnings record.)
+
+(d) *Overpayment of contributions on wages of employee having other wages in a period barred to assessment.* If the Commissioner allows a State a credit or refund of an overpayment for wages paid or alleged to have been paid an individual in a calendar year but the facts upon which the allowance is based establish that contributions are due on other wages paid that individual in that year which are barred to assessment, we may make an assessment notwithstanding the periods of limitation in § 404.1286. The assessment, however, must be made before or at the time we notify the State of the allowance of the credit or refund. In this situation, the Commissioner reduces the amount of the State's credit or refund by the assessed amount and notifies the State accordingly. For purposes of this paragraph, the assessment shall only include contributions and not interest as provided for in section 218(j) of the Act as it read prior to the enactment of Pub. L. 99-509.
+
+Example:The State files an adjustment report timely to correct an error in the amount reported as wages for an employee. The correction reduces the employee's wages for the year to less than the maximum amount creditable. The employee has other earnings in the same year which were not reported because of the previously reported maximum amounts. The applicable time limitation for assessing contributions on wages for the year has expired before the credit was allowed. The Commissioner may assess for the underpaid contributions but no later than the date of the notice to the State that its claim for a credit had been allowed.
+
+(e) *Evasion of payment.* The Commissioner may make an assessment of an amount due at any time where the State's failure to pay the amount due results from the fraudulent attempt of an officer or employee of the State or political subdivision to defeat or evade payment of that amount.
+
+[53 FR 32976, Aug. 29, 1988, as amended at 62 FR 38451, July 18, 1997]

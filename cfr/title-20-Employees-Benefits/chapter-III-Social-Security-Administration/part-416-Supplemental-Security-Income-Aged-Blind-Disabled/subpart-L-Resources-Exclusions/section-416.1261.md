@@ -1,0 +1,3 @@
+##### § 416.1261 Application of special resource provision. #####
+
+In determining the resources of an individual (and spouse, if any) who meets the conditions specified in § 416.1260(a), either the State plan resource limit and exclusions (as specified in § 416.1260) or the resource limit (as specified in § 416.1205) and exclusions (as specified in § 416.1210), whichever is most advantageous to the individual (and spouse, if any) will be used.

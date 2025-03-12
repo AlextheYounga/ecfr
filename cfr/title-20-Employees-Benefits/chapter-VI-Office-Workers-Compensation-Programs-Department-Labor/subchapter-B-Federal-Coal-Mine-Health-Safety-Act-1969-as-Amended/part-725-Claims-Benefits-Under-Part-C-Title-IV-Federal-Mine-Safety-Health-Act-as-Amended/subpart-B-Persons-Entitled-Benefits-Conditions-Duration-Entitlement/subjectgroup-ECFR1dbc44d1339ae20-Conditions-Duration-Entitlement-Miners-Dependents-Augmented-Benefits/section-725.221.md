@@ -1,0 +1,3 @@
+##### § 725.221 Determination of dependency; child. #####
+
+For the purposes of determining whether a child was dependent upon a deceased miner, the provisions of § 725.209 shall be applicable, except that for purposes of determining the eligibility of a child who is under a disability as defined in section 223(d) of the Social Security Act, such disability must have begun before the child attained age 22, or in the case of a student, before the child ceased to be a student.

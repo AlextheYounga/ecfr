@@ -1,0 +1,7 @@
+##### § 725.412 Operator's response. #####
+
+(a)(1) Within 30 days after the district director issues a schedule pursuant to § 725.410 of this part containing a designation of the responsible operator liable for the payment of benefits, that operator shall file a response with regard to its liability. The response shall specifically indicate whether the operator agrees or disagrees with the district director's designation.
+
+(2) If the responsible operator designated by the district director does not file a timely response, it shall be deemed to have accepted the district director's designation with respect to its liability, and to have waived its right to contest its liability in any further proceeding conducted with respect to the claim.
+
+(b) The responsible operator designated by the district director may also file a statement accepting claimant's entitlement to benefits. If that operator fails to file a timely response to the district director's designation, the district director shall, upon receipt of such a statement, issue a proposed decision and order in accordance with § 725.418 of this part. If the operator fails to file a statement accepting the claimant's entitlement to benefits within 30 days after the district director issues a schedule pursuant to § 725.410 of this part, the operator shall be deemed to have contested the claimant's entitlement.

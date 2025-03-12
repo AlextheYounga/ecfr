@@ -1,0 +1,3 @@
+##### § 668.270 What appeal rights are available to entities that are denied designation? #####
+
+Any entity that is denied designation in whole or in part for the area or population that it requested may appeal the denial to the Office of the Administrative Law Judges using the procedures at 20 CFR 667.800 or the alternative dispute resolution procedures at 20 CFR 667.840. The Grant Officer will provide an entity whose request for designation was denied, in whole or in part, with a copy of the appeal procedures.

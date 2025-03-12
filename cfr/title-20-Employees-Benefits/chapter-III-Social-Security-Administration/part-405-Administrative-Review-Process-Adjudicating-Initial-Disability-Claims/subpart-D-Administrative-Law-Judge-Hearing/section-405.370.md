@@ -1,0 +1,7 @@
+##### § 405.370 Decision by the administrative law judge. #####
+
+(a) The administrative law judge will make a decision based on all of the evidence, including the testimony adduced at the hearing. The administrative law judge will prepare a written decision that explains in clear and understandable language the specific reasons for the decision.
+
+(b) During the hearing, in certain categories of claims that we identify in advance, the administrative law judge may orally explain in clear and understandable language the specific reasons for, and enter into the record, a fully favorable decision. The administrative law judge will include in the record a document that sets forth the key data, findings of fact, and narrative rationale for the decision. Within five days after the hearing, if there are no subsequent changes to the analysis in the oral decision, we will send you a written decision that incorporates such oral decision by reference. If there is a change in the administrative law judge's analysis or decision, we will send you a written decision that is consistent with paragraph (a) of this section. Upon written request, we will provide you a record of the oral decision.
+
+[71 FR 16446, Mar. 31, 2006, as amended at 75 FR 33168, June 11, 2010; 76 FR 24809, May 3, 2011]

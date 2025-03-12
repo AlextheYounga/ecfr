@@ -1,0 +1,3 @@
+##### § 30.605 What rights does the United States have upon payment of compensation under EEOICPA? #####
+
+If an occupational illness or covered illness for which compensation is payable under EEOICPA is caused, wholly or partially, by someone other than a federal employee acting within the scope of his or her employment, a DOE contractor or subcontractor, a beryllium vendor, an atomic weapons employer or a RECA section 5 mine or mill, the United States is subrogated for the full amount of any payment of compensation under EEOICPA to any right or claim that the individual to whom the payment was made may have against any person or entity on account of such occupational illness or covered illness.

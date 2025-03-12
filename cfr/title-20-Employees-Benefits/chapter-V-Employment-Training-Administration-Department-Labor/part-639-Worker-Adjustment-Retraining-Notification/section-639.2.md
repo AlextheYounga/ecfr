@@ -1,0 +1,3 @@
+##### § 639.2 What does WARN require? #####
+
+WARN requires employers who are planning a plant closing or a mass layoff to give affected employees at least 60 days' notice of such an employment action. While the 60-day period is the minimum for advance notice, this provision is not intended to discourage employers from voluntarily providing longer periods of advance notice. Not all plant closings and layoffs are subject to the Act, and certain employment thresholds must be reached before the Act applies. WARN sets out specific exemptions, and provides for a reduction in the notification period in particular circumstances. Damages and civil penalties can be assessed against employers who violate the Act.

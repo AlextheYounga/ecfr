@@ -1,0 +1,3 @@
+##### § 429.108 What happens if I accept an award, compromise, or settlement under this subpart? #####
+
+If you, your agent, or your legal representative accept any award, compromise, or settlement under this subpart, your acceptance is final and conclusive on you, your agent or representative, and any other person on whose behalf or for whose benefit the claim was filed. The acceptance constitutes a complete release of any claim against the United States and against any employee of the Government whose act or omission gave rise to the claim, by reason of the same subject matter.

@@ -1,0 +1,43 @@
+##### § 903.4 Procedures for access to records and accountings of disclosures from records, regarding individuals. #####
+
+(a) *Access.* The Executive Director of the Joint Board shall, upon request by any individual to gain access to a record regarding him which is contained in a system of records maintained by the Joint Board, or to an accounting of a disclosure from such record made pursuant to 5 U.S.C. 552a(c)(1), permit that individual, and, upon his/her request, a person he/she chooses to accompany him/her, to review the record or any such accounting and have a copy made of all or any portion thereof in a form comprehensible to the individual, except that the Executive Director may require the individual to furnish a written statement authorizing discussion of that individual's record in the accompanying person's presence. Such request may be addressed to the Executive Director, Joint Board for the Enrollment of Actuaries, c/o U.S. Department of the Treasury, Washington, DC 20220. Requests may also be delivered personally to the Executive Director, Joint Board for the Enrollment of Actuaries, 2401 E Street, NW., suite 1537, Washington, DC, between the hours of 9 a.m. and 5 p.m. on workdays. Any such inquiry will be acknowledged in writing within 10 days (excluding Saturdays, Sundays and legal public holidays) of receipt of the request (see paragraph (e) of this section).
+
+(b) *Requests.* A request for access to records or accountings of disclosure from records, shall:
+
+(1) Be signed in writing by the person making the request, who must be the individual about whom the record is maintained, or his duly authorized representative (see § 903.7);
+
+(2) State that it is made pursuant to the Privacy Act, 5 U.S.C. 552a, or the regulations contained in this part;
+
+(3) Furnish the name of the system of records to which access is sought, or the name of the system for a disclosure from which an accounting is sought, as specified in the systems notices published in the Federal Register, Volume 40, No. 167;
+
+(4) Mark “Privacy Act Request” on the request and on the envelope in which the request is contained;
+
+(5) Be addressed as specified in paragraph (a) of this section, unless personally delivered;
+
+(6) State whether the requester wishes to inspect the records and/or accountings of disclosures therefrom, or desires to have a copy made and furnished without inspecting them;
+
+(7) State, if the requester desires to have a copy made, the requester's agreement to pay the fees for duplication as ultimately determined in accordance with § 903.6; and
+
+(8) Meet the requirements set forth in paragraph (c) of this section.
+
+(c) *Verification of identity.* Access to records contained in certain systems maintained by the Joint Board and/or accountings of disclosures from such records, will not be granted unless the individual requester's identity is verified. Where applicable, requirements for verification of identity are specified in the notices of systems published in the Federal Register, Volume 40, No. 167.
+
+(d) *Exemptions.* The procedures specified in paragraphs (a), (b) and (c) of this section shall not apply to: (1) Systems of records exempted pursuant to 5 U.S.C. 552a(k); (2) information compiled in reasonable anticipation of a civil action or proceeding (see 5 U.S.C. 552a(d)(5)); or (3) information regarding an individual which is contained in, and inseparable from, another individual's record.
+
+(e) *Date of receipt of request.* A request for access to records and/or accountings shall be considered to have been received on the date on which the requirements of paragraphs (a), (b) and (c) of this section have been satisfied. Requests for access, and any separate agreement to pay, shall be stamped with the date of receipt by the Office of the Executive Director. The latest of such stamped dates will be deemed to be the date of receipt of the request.
+
+(f) *Notification of determination*—(1) *In general.* Notification of determinations as to whether to grant access to records and/or accountings requested will be made by the Executive Director of the Joint Board. The notification of the determination shall be made within 30 days (excluding Saturdays, Sundays and legal public holidays) after the date of receipt of the request, as determined in accordance with paragraph (g) of this section. If it is not possible to respond within 30 days, the Executive Director will inform the requester, stating the reason(s) for the delay (e.g., volume of records requested, need to consult other agencies, or the difficulty of the legal issues involved) and when a response will be dispatched (See 5 U.S.C. 552a (d) and (f)).
+
+(2) *Granting of access.* (i) When it has been determined that the request for access will be granted—(A) and a copy requested; such copy in a form comprehensible to him shall be furnished promptly, together with a statement of the applicable fees for duplication as set forth elsewhere in these regulations (See § 903.6); and (B) and the right to inspect has been requested, the requester shall be promptly notified in writing of the determination, and when and where the requested records and/or accountings may be inspected.
+
+(ii) An individual seeking to inspect records concerning himself and/or accountings of disclosure from such records may be accompanied by another individual of his own choosing. The individual seeking access shall be required to sign the required form indicating that the Joint Board is authorized to discuss the contents of the subject record in the accompanying person's presence. If, after making the inspection, the individual making the request desires a copy of all or portion of the requested records, such copy in a form comprehensible to him shall be furnished upon payment of the applicable fees for duplication as prescribed by § 903.6. Fees shall not be charged where they would amount, in the aggregate, to less than $53.00. (See 5 U.S.C. 552a (d) and (f):
+
+(3) *Denial of request.* (i) When it is determined that the request for access to records will be denied (whether in whole or in part or subject to conditions or exceptions), the person making the request shall be so notified by mail in accordance with paragraph (f)(1) of this section. The letter of notification shall contain a statement of the reasons for not granting the request as made, set forth the name and title or position of the responsible official and advise the individual making the request of the right to file suit in accordance with 5 U.S.C. 552a(g)(1)(B).
+
+(ii) When it is determined that a request for access to accountings will be denied, the person making the request shall be so notified by mail in accordance with paragraph (f)(1)(4)(iii) of this section.
+
+(4) *Records exempt in whole or in part.* (i) When an individual requests records concerning himself which have been compiled in reasonable anticipation of a civil action or proceeding either in a court or before an administrative tribunal, the Executive Director will neither confirm nor deny the existence of the record but shall advise the individual only that no record available to him pursuant to the Privacy Act of 1974 has been identified.
+
+(ii) Requests for records which have been exempted from disclosure pursuant to 5 U.S.C. 552a(k)(2) shall be responded to in the manner provided in paragraph (f)(4)(i) of this section unless a review of the information indicates that the information has been used or is being used to deny the individual any right, privilege or benefit for which he is eligible or to which he would otherwise be entitled under Federal law. In that event, the individual shall be advised of the existence of the information but such information as would identify a confidential source shall be extracted or summarized in a manner which protects the source to the maximum degree possible and the summary extract shall be provided to the requesting individual.
+
+(iii) When an individual requests access to accountings of disclosure from records concerning himself which have been compiled in reasonable anticipation of a civil action or proceeding, either in a court or before an administrative tribunal, or which have been exempted from disclosure pursuant to 5 U.S.C. 552a(k)(2), the Executive Director will neither confirm nor deny the existence of the record or accountings of disclosure therefrom, but shall advise the individual that no accounting available to him pursuant to the Privacy Act of 1974 has been identified.

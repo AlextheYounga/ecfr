@@ -1,0 +1,7 @@
+##### § 405.325 Issues before an administrative law judge. #####
+
+(a) *General.* The issues before the administrative law judge include all the issues raised by your claim, regardless of whether or not the issues may have already been decided in your favor.
+
+(b) *New issues.* Any time after receiving the hearing request and before mailing notice of the hearing decision, the administrative law judge may consider a new issue if he or she, before deciding the issue, provides you an opportunity to address it. The administrative law judge or any party may raise a new issue; an issue may be raised even though it arose after the request for a hearing and even though it has not been considered in an initial or reconsidered determination.
+
+(c) *Collateral estoppel - issues previously decided.* In one of our previous and final determinations or decisions involving you, but arising under a different title of the Act or under the Federal Coal Mine Health and Safety Act, we already may have decided a fact that is an issue before the administrative law judge. If this happens, the administrative law judge will not consider the issue again, but will accept the factual finding made in the previous determination or decision, unless he or she has reason to believe that it was wrong, or reopens the previous determination or decision under subpart G of this part.

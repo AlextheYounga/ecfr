@@ -1,0 +1,3 @@
+##### § 661.325 What criteria will be used to establish the membership of the Local Board? #####
+
+The Local Board is appointed by the chief elected official(s) in the local area in accordance with State criteria established under WIA section 117(b), and is certified by the Governor every two years, in accordance with WIA section 117(c)(2). The criteria for certification must be described in the State Plan. (WIA sec. 117(c).)

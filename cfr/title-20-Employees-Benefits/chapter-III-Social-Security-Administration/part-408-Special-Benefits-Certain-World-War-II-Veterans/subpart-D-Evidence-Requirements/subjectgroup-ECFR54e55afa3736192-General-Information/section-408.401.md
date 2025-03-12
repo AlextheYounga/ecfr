@@ -1,0 +1,3 @@
+##### § 408.401 What is this subpart about? #####
+
+We cannot determine your entitlement to SVB based solely on your statements about your qualification for benefits or other facts concerning payments to you. We will ask you for specific evidence or additional information. We may verify the evidence you give us with other sources to ensure that it is correct. This subpart contains our rules about the evidence you need to give us when you claim SVB.

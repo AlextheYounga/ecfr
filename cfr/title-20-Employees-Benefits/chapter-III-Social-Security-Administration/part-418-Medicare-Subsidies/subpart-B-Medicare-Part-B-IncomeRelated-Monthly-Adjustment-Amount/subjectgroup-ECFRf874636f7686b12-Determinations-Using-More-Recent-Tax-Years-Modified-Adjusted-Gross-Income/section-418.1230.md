@@ -1,0 +1,9 @@
+##### § 418.1230 What is the effective date of an income-related monthly adjustment amount initial determination that is based on a more recent tax year? #####
+
+(a) Subject to paragraph (b) of this section, when your modified adjusted gross income for the more recent tax year is significantly reduced as a result of a major life-changing event, our initial determination is generally effective on January 1 of the year in which you make your request. If your first month of enrollment or reenrollment in Medicare Part B is after January of the year for which you make your request, our initial determination is effective on the first day of your Medicare Part B enrollment or reenrollment.
+
+(b) We will make a determination about your income-related monthly adjustment amount for the year preceding the year that you make your request in the limited circumstances explained in § 418.1310(a)(4). When we make a determination for the preceding year, our initial determination is generally effective on January 1 of that year. If your first month of enrollment or reenrollment in Medicare Part B is after January of that year, our initial determination is effective on the first day of your Medicare Part B enrollment or reenrollment.
+
+(c) Our initial determination will be effective January 1 of the year following the year you make your request, when your modified adjusted gross income will not be significantly reduced as a result of one or more of the events described in § 418.1205(a) through (g) until the year following the year you make your request.
+
+[71 FR 62931, Oct. 27, 2006, as amended at 75 FR 41086, July 15, 2010; 78 FR 57260, Sept. 28, 2013]

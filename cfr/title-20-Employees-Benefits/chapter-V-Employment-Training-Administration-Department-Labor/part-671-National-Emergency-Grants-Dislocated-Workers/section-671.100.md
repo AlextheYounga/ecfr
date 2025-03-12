@@ -1,0 +1,3 @@
+##### § 671.100 What is the purpose of national emergency grants under WIA section 173? #####
+
+The purpose of national emergency grants is to provide supplemental dislocated worker funds to States, Local Boards and other eligible entities in order to respond to the needs of dislocated workers and communities affected by major economic dislocations and other worker dislocation events which cannot be met with formula allotments.

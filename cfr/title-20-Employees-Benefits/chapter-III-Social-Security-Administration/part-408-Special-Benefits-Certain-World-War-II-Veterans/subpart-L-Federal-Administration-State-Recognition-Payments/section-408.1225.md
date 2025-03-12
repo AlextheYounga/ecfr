@@ -1,0 +1,3 @@
+##### § 408.1225 What happens if you receive an overpayment? #####
+
+If we determine that you received an overpayment, we will adjust future Federally administered State recognition payments you are entitled to. Our rules and requirements (see §§ 408.910 through 408.941) that apply to recovery (or waiver) of SVB overpayments also apply to the recovery (or waiver) of Federally administered State recognition overpayments. If your entitlement to State recognition payments ends before you have repaid the overpayment, we will annotate your record (specifying the amount of the overpayment) to permit us to recoup the overpaid amount if you become reentitled to recognition payments from the same State.

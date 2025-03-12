@@ -1,0 +1,5 @@
+##### § 10.401 When and how is compensation for total disability paid? #####
+
+(a) Compensation is payable when an employee starts to lose pay if the injury causes permanent disability or if pay loss continues for more than 14 calendar days. Otherwise, compensation is payable on the fourth day after pay stops pursuant to 5 U.S.C. 8117(a). Compensation may not be paid while an injured employee is in a continuation of pay status or receives pay for leave or, for Postal Service employees, for the first three days of temporary disability as described in 5 U.S.C. 8117(b) and § 10.200(c), except for medical or vocational rehabilitation benefits.
+
+(b) Compensation for total disability is payable at the rate of 662/3 percent of the pay rate if the employee has no dependents, or 75 percent of the pay rate if the employee has at least one dependent. (“Dependents” are defined at 5 U.S.C. 8110(a).)

@@ -1,0 +1,3 @@
+##### § 703.207 Kinds of negotiable securities that may be deposited; conditions of deposit; acceptance of deposits. #####
+
+An insurance carrier electing to deposit negotiable securities to secure its obligations under the Act in the amount fixed by the Office under the regulations in this part shall deposit any negotiable securities acceptable as security for the deposit of public monies of the United States under regulations issued by the Secretary of the Treasury. (*See* 31 CFR part 225.) The approval, valuation, acceptance, and custody of such securities is hereby committed to the several Federal Reserve Banks and the Treasurer of the United States.

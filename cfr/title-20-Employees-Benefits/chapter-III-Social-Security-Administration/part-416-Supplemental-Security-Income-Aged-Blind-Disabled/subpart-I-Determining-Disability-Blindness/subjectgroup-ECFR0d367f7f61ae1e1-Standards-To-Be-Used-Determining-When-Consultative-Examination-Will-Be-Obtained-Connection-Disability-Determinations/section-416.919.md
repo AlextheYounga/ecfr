@@ -1,0 +1,5 @@
+##### § 416.919 The consultative examination. #####
+
+A consultative examination is a physical or mental examination or test purchased for you at our request and expense from a treating source or another medical source, including a pediatrician when appropriate. The decision to purchase a consultative examination will be made on an individual case basis in accordance with the provisions of § 416.919a through § 416.919f. Selection of the source for the examination will be consistent with the provisions of § 416.903a and §§ 416.919g through 416.919j. The rules and procedures for requesting consultative examinations set forth in §§ 416.919a and 416.919b are applicable at the reconsideration and hearing levels of review, as well as the initial level of determination.
+
+[56 FR 36964, Aug. 1, 1991, as amended at 65 FR 11879, Mar. 7, 2000]

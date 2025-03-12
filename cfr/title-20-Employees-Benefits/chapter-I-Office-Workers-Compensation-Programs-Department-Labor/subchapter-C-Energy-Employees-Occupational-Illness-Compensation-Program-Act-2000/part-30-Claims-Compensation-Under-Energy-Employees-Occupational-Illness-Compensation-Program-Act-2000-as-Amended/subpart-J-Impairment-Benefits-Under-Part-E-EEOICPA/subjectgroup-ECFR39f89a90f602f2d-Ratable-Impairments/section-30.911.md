@@ -1,0 +1,5 @@
+##### § 30.911 Does maximum medical improvement always have to be reached for an impairment to be included in the impairment rating? #####
+
+(a) An impairment that is the result of a covered illness will be included in the employee's impairment rating determined by OWCP under § 30.901 only if OWCP concludes that the impairment has reached maximum medical improvement, which means that it is well-stabilized and unlikely to improve substantially with or without medical treatment.
+
+(b) Notwithstanding paragraph (a) of this section, if OWCP finds that an employee's covered illness is in the terminal stages, based upon probative medical evidence, an impairment that results from such covered illness will be included in the impairment rating for the employee even if it has not reached maximum medical improvement.

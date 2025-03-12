@@ -1,0 +1,3 @@
+##### § 361.110 What are the program-specific requirements in the Unified State Plan for the adult, dislocated worker, and youth programs authorized under Workforce Innovation and Opportunity Act title I? #####
+
+The program-specific requirements for the adult, dislocated worker, and youth programs that must be included in the Unified State Plan are described in sec. 102(b)(2)(D) of WIOA. Additional planning requirements may be explained in joint planning guidelines issued by the Secretaries of Labor and Education.

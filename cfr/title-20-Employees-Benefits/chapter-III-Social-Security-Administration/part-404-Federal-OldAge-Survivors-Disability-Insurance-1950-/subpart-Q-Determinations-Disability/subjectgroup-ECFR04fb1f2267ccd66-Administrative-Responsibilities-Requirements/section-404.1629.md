@@ -1,0 +1,3 @@
+##### § 404.1629 Participation in research and demonstration projects. #####
+
+We will invite State participation in federally funded research and demonstration projects to assess the effectiveness of the disability program and to ascertain the effect of program policy changes. Where we determine that State participation is necessary for the project to be complete, for example, to provide national uniformity in a claims process, State participation is mandatory.

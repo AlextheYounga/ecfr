@@ -1,0 +1,3 @@
+##### § 226.13 Cost-of-living increase in employee vested dual benefit. #####
+
+If the employee's annuity begins June 1, 1975 or later, a cost-of-living increase is added to the total vested dual benefit amount. This increase is based on the cost-of-living increases in social security benefits during the period from January 1, 1975, to the earlier of the date the employee's annuity begins or January 1, 1982. The increases are effective on June 1 of each year through 1981. The percentage increase for annuities that begin June 1, 1981, or later is 81 percent.

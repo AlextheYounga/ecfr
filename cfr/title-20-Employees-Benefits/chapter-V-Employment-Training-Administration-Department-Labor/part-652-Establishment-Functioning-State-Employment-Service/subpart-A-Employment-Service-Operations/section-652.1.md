@@ -1,0 +1,3 @@
+##### § 652.1 Introduction. #####
+
+These regulations implement the provisions of the Wagner-Peyser Act, known hereafter as the Wagner-Peyser Act, as amended by title III of the Workforce Innovation and Opportunity Act (WIOA), Public Law 113-128. The Wagner-Peyser Act Employment Service (ES) is a core program under the WIOA, and an integral component of the one-stop delivery system. Congress intended that the States exercise broad authority in implementing provisions of the Wagner-Peyser Act.

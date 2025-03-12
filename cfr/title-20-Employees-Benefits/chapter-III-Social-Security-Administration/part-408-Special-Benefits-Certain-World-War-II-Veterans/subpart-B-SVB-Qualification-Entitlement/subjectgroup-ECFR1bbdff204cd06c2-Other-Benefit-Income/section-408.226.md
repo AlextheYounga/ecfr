@@ -1,0 +1,3 @@
+##### § 408.226 What happens if you begin receiving other benefit income after you become entitled to SVB? #####
+
+If you begin receiving other benefit income after you become entitled to SVB, we will reduce your SVB by the amount of those payments only if you were receiving similar benefits from the same or a related source during the 12-month period before you filed for SVB. (See § 408.220(b) for a description of when we consider other benefit income to be from the same or a related source.)

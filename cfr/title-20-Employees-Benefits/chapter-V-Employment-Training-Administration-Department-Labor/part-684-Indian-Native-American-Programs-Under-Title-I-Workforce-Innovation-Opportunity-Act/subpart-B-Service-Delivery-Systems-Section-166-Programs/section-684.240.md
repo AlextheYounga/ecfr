@@ -1,0 +1,3 @@
+##### § 684.240 Are there any other ways in which an entity may be awarded a Workforce Innovation and Opportunity Act grant? #####
+
+Yes. For areas that would otherwise go unserved, the Grant Officer may designate an entity, which has not submitted a competitive application, but which meets the qualifications for a grant award, to serve the particular geographic area. Under such circumstances, DINAP will seek the views of INA leaders in the community that would otherwise go unserved before making the decision to designate the entity that would serve the community. DINAP will inform the Grant Officer of the INA leaders' views. The Grant Officer will accommodate views of INA leaders in such areas to the extent possible.

@@ -1,0 +1,3 @@
+##### § 30.317 Can the FAB request a further response from the claimant or return a claim to the district office? #####
+
+At any time before the issuance of its final decision, the FAB may request that the claimant submit additional evidence or argument, or return the claim to the district office for further development and/or issuance of a newly recommended decision without issuing a final decision, whether or not requested to do so by the claimant.

@@ -1,0 +1,3 @@
+##### § 30.607 How is a structured settlement (that is, a settlement providing for receipt of funds over a specified period of time) treated for purposes of reporting the recovery? #####
+
+In this situation, the recovery to be reported is the present value of the right to receive all of the payments included in the structured settlement, allocated in the case of multiple recipients in the same manner as single payment recoveries.

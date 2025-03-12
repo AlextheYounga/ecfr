@@ -1,0 +1,5 @@
+##### § 404.1780 Appeals Council's review of hearing officer's decision. #####
+
+(a) Upon request, the Appeals Council shall give the parties a reasonable time to file briefs or other written statements as to fact and law, and to appear before the Appeals Council to present oral argument.
+
+(b) If a party files a brief or other written statement with the Appeals Council, he or she shall send a copy to the opposing party and certify that the copy has been sent.

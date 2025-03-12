@@ -1,0 +1,3 @@
+##### § 220.48 If the claimant fails to submit medical or other evidence. #####
+
+The Board may request a claimant to submit medical or other evidence. If the claimant does not submit that evidence, the Board will make a decision on other evidence which is either already available in the claimant's case or which the Board may develop from other sources, including reports of consultative examinations.

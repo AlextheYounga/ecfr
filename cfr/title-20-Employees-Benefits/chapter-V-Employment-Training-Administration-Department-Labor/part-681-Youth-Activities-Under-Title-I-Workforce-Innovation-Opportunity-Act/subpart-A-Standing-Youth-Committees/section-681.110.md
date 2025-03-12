@@ -1,0 +1,7 @@
+##### § 681.110 Who is included on a standing youth committee? #####
+
+(a) If a Local WDB decides to form a standing youth committee, the committee must include a member of the Local WDB, who chairs the committee, members of community-based organizations with a demonstrated record of success in serving eligible youth, and other individuals with appropriate expertise and experience who are not members of the Local WDB.
+
+(b) The committee must reflect the needs of the local area. The committee members appointed for their experience and expertise may bring their expertise to help the committee address the employment, training, education, human and supportive service needs of eligible youth including out-of-school youth (OSY). Members may represent agencies such as secondary and postsecondary education, training, health, disability, mental health, housing, public assistance, and justice, or be representatives of philanthropic or economic and community development organizations, and employers. The committee may also include parents, participants, and youth.
+
+(c) A Local WDB may designate an existing entity such as an effective youth council as the standing youth committee if it fulfills the requirements above in paragraph (a) of this section.

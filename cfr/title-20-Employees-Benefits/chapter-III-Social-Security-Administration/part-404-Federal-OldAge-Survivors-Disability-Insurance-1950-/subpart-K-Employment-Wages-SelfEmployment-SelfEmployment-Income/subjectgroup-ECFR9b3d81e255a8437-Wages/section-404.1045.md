@@ -1,0 +1,3 @@
+##### § 404.1045 Employee expenses. #####
+
+Amounts that your employer pays you specifically—either as advances or reimbursements—for traveling or for other ordinary and necessary expenses incurred, or reasonably expected to be incurred, in your employer's business are not wages. The employer must identify these travel and other expenses either by making a separate payment or by specifically stating the separate amounts if both wages and expense allowances are combined in a single payment.

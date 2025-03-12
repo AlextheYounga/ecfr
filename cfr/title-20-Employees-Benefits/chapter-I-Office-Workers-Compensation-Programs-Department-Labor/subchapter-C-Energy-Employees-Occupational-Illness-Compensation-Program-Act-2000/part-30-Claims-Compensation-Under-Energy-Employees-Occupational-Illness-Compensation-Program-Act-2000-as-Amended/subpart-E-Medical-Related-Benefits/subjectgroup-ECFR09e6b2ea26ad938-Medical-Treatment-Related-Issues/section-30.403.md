@@ -1,0 +1,3 @@
+##### § 30.403 Will OWCP pay for the services of an attendant? #####
+
+OWCP will authorize payment for personal care services under section 7384t of the Act, whether or not such care includes medical services, so long as the personal care services have been determined to be medically necessary and are provided by a home health aide, licensed practical nurse, or similarly trained individual. If a claimant disagrees with the decision of OWCP that personal care services are not medically necessary, he or she may utilize the adjudicatory process described in subpart D of this part.

@@ -1,0 +1,9 @@
+##### § 10.111 What should the employer do when an employee files an initial claim for compensation due to disability or permanent impairment? #####
+
+(a) Except for employees covered by paragraph (d) of this section, when an employee is disabled by a work-related injury and loses pay for more than three calendar days, or has a permanent impairment or serious disfigurement as described in 5 U.S.C. 8107, the employer shall furnish the employee with Form CA-7 for the purpose of claiming compensation.
+
+(b) If the employee is receiving continuation of pay (COP), the employer should give Form CA-7 to the employee by the 30th day of the COP period and submit the form to OWCP by the 40th day of the COP period. If the employee has not returned the form to the employer by the 40th day of the COP period, the employer should ask him or her to submit it as soon as possible.
+
+(c) Upon receipt of Form CA-7 from the employee, or someone acting on his or her behalf, the employer shall complete the appropriate portions of the form. As soon as possible, but no more than five working days after receipt from the employee, the employer shall forward the completed Form CA-7 and any accompanying medical report to OWCP.
+
+(d) Postal Service employees are not entitled to compensation or continuation of pay for the waiting period, the first three days of disability. Such employees may use annual leave, sick leave or leave without pay during that period; however, if the disability exceeds 14 days, the employee may have their sick leave or annual leave reinstated or receive pay for the time spent on leave without pay. This waiting period does not apply to the provision of medical care, and days of time loss for medical treatment only with no work-related disability do not count as part of the waiting period. A Postal Service employee seeking wage loss compensation for this period should utilize Form CA-7 to claim such benefits.

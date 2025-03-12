@@ -1,0 +1,3 @@
+##### § 681.240 When do local youth programs verify dropout status? #####
+
+Local WIOA youth programs must verify a youth's dropout status at the time of WIOA youth program enrollment. An individual who is out of school at the time of enrollment, and subsequently placed in any school, is an OSY for the purposes of the 75 percent expenditure requirement for OSY throughout his/her participation in the program.

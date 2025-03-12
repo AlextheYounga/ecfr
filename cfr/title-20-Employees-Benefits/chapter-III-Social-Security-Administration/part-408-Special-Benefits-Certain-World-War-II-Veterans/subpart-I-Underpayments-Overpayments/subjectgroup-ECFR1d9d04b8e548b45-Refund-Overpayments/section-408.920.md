@@ -1,0 +1,3 @@
+##### § 408.920 When will we seek refund of an SVB overpayment? #####
+
+We will seek refund of an SVB overpayment in every case in which we have not waived recovery. An overpayment may be refunded by you or by anyone on your behalf. If you are receiving SVB currently and you have not refunded the overpayment, adjustment as set forth in § 408.922 will be proposed. If you die before we recover the full overpayment, we will seek refund of the balance from your estate.

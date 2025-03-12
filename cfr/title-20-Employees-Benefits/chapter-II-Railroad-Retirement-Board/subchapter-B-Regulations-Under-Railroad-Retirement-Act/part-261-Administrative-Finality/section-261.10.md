@@ -1,0 +1,3 @@
+##### § 261.10 Increase in future benefits where time period for reopening has expired. #####
+
+If, after the time period for reopening under § 261.2(b) of this part has expired, new evidence is furnished showing a different date of birth or new evidence is furnished which would cause a correction in a record of compensation as provided for in part 211 of this chapter and, as a result of the new evidence, increased benefits would be payable, the Board will pay increased benefits, but only for the months following the month the new evidence is received.

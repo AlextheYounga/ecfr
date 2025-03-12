@@ -1,0 +1,5 @@
+##### § 416.2047 Waiver of State supplementary payments. #####
+
+(a) *Waiver request in writing.* Any person who is eligible to receive State supplementary payments or who would be eligible to receive such State supplementary payments may waive his right to receive such payments if such person makes a written request for waiver of State supplementary payments. Any such request made at time of application for the Federal benefit shall be effective immediately. Any such request filed after the application is filed shall be effective the month the request is received in a social security office, or earlier if the recipient refunds to the Social Security Administration the amount of any supplementary payment(s) made to him for the subject period.
+
+(b) *Revocation of waiver.* Any individual who has waived State supplementary payments may revoke such waiver at any time by making a written request to any social security office. The revocation will be effective the month in which it is filed. The date such request is received in a social security office or the postmarked date, if the written request was mailed, will be the filing date, whichever is earlier.

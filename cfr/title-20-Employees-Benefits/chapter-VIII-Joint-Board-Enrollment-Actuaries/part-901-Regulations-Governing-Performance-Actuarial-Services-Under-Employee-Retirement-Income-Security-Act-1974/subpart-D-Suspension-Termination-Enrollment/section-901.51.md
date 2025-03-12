@@ -1,0 +1,3 @@
+##### § 901.51 Decision of the Joint Board. #####
+
+On appeal from or review of the initial decision of the Administrative Law Judge, the Joint Board for the Enrollment of Actuaries will make the final decision. In making its decision the Joint Board will review the record of such portions thereof as may be cited by the parties to permit limiting of the issues. A copy of the Joint Board's decision shall be transmitted to the respondent by the Executive Director.

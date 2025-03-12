@@ -1,0 +1,3 @@
+##### § 10.416 How does a change in the number of beneficiaries affect the amount of compensation paid to the other beneficiaries? #####
+
+If compensation to a beneficiary is terminated, the amount of compensation payable to one or more of the remaining beneficiaries may be reapportioned. Similarly, the birth of a posthumous child may result in a reapportionment of the amount of compensation payable to other beneficiaries. The parent, or someone acting on the child's behalf, shall promptly notify OWCP of the birth and submit a copy of the birth certificate.

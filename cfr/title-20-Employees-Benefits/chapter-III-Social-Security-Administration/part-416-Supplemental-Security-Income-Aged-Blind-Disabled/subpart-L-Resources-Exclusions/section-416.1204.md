@@ -1,0 +1,17 @@
+##### § 416.1204 Deeming of resources of the sponsor of an alien. #####
+
+The resources of an alien who first applies for SSI benefits after September 30, 1980, are deemed to include the resources of the alien's sponsor for 3 years after the alien's date of admission into the United States. The *date of admission* is the date established by the U.S. Citizenship and Immigration Services as the date the alien is admitted for permanent residence. The resources of the sponsor's spouse are included if the sponsor and spouse live in the same household. Deeming of these resources applies regardless of whether the alien and sponsor live in the same household and regardless of whether the resources are actually available to the alien. For rules that apply in specific situations, see § 416.1166a(d).
+
+(a) *Exclusions from the sponsor's resources.* Before we deem a sponsor's resources to an alien, we exclude the same kinds of resources that are excluded from the resources of an individual eligible for SSI benefits. The applicable exclusions from resources are explained in §§ 416.1210 (paragraphs (a) through (i), (k), and (m) through (t)) through 416.1239 and §§ 416.1247 through 416.1249. For resources excluded by Federal statutes other than the Social Security Act, as applicable to the resources of sponsors deemed to aliens, see the appendix to subpart K of part 416. We next allocate for the sponsor or for the sponsor and spouse (if living together). (The amount of the allocation is the applicable resource limit described in § 416.1205 for an eligible individual and an individual and spouse.)
+
+(b) *An alien sponsored by more than one sponsor.* The resources of an alien who has been sponsored by more than one person are deemed to include the resources of each sponsor.
+
+(c) *More than one alien sponsored by one individual.* If more than one alien is sponsored by one individual the deemed resources are deemed to each alien as if he or she were the only one sponsored by the individual.
+
+(d) *Alien has a sponsor and a parent or a spouse with deemable resources.* Resources may be deemed to an alien from both a sponsor and a spouse or parent (if the alien is a child) provided that the sponsor and the spouse or parent are not the same person and the conditions for each rule are met.
+
+(e) *Alien's sponsor is also the alien's ineligible spouse or parent.* If the sponsor is also the alien's ineligible spouse or parent who lives in the same household, the spouse-to-spouse or parent-to-child deeming rules apply instead of the sponsor-to-alien deeming rules. If the spouse or parent deeming rules cease to apply, the sponsor deeming rules will begin to apply. The spouse or parent rules may cease to apply if an alien child reaches age 18 or if either the sponsor who is the ineligible spouse or parent, or the alien moves to a separate household.
+
+(f) *Alien's sponsor also is the ineligible spouse or parent of another SSI beneficiary.* If the sponsor is also the ineligible spouse or ineligible parent of an SSI beneficiary other than the alien, the sponsor's resources are deemed to the alien under the rules in paragraph (a), and to the eligible spouse or child under the rules in §§ 416.1202, 1205, 1234, 1236, and 1237.
+
+[52 FR 8888, Mar. 20, 1987, as amended at 61 FR 1712, Jan. 23, 1996; 70 FR 41138, July 18, 2005; 73 FR 28036, May 15, 2008]

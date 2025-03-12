@@ -1,0 +1,3 @@
+##### § 418.1250 What evidence will you need to support your request that we use a more recent tax year? #####
+
+When you request that we use a more recent tax year to determine your income-related monthly adjustment amount, we will ask for evidence of the major life-changing event and how the event significantly reduced your modified adjusted gross income as described in §§ 418.1255 and 418.1265. Unless we have information in our records that raises a doubt about the evidence, additional evidence documenting the major life-changing event(s) will not be needed.

@@ -1,0 +1,3 @@
+##### § 220.27 What is needed to show an impairment. #####
+
+A physical or mental impairment must result from anatomical, physiological, or psychological abnormalities which can be shown by medically acceptable clinical and laboratory diagnostic techniques. A physical or mental impairment must be established by medical evidence consisting of signs, symptoms, and laboratory findings, not only by the claimant's statement of symptoms. (See § 220.113 for further information about what is meant by symptoms, signs, and laboratory findings.) (See also § 220.112 for the effect of a medical opinion about whether or not a claimant is disabled.)

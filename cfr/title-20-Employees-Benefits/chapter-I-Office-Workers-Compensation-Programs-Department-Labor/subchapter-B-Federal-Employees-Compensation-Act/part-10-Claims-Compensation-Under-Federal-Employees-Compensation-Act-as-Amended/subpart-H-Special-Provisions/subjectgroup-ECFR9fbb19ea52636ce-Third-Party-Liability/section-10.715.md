@@ -1,0 +1,3 @@
+##### § 10.715 Is a beneficiary required to pay interest on the amount of the refund due to the United States? #####
+
+If the refund due to the United States is not submitted within 30 days of receiving a request for payment from SOL or OWCP, interest shall accrue on the refund due to the United States from the date of the request. The rate of interest assessed shall be the rate of the current value of funds to the United States Treasury as published in the Federal Register (as of the date the request for payment is sent). Waiver of the collection of interest shall be in accordance with the provisions of the Department of Labor regulations on Federal Claims Collection governing waiver of interest, 29 CFR 20.61.

@@ -1,0 +1,3 @@
+##### § 10.10 Are all documents relating to claims filed under the FECA considered confidential? #####
+
+All records relating to claims for benefits, including copies of such records maintained by an employer, are considered confidential and may not be released, inspected, copied or otherwise disclosed except as provided in the Freedom of Information Act and the Privacy Act of 1974 or under the routine uses provided by DOL/GOVT-1 if such release is consistent with the purpose for which the record was created.

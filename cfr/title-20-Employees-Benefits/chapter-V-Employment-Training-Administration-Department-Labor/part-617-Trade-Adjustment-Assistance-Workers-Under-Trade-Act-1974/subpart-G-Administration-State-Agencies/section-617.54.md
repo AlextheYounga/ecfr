@@ -1,0 +1,5 @@
+##### § 617.54 State agency rulemaking. #####
+
+A State agency may establish supplemental procedures not inconsistent with the Act or this part 617 or procedures prescribed by the Department to further effective administration of this part 617. The exact text of such supplemental procedure or procedures, certified as accurate by a responsible official, employee, or counsel of the State agency, shall be submitted to the Department, on a form supplied by the Department. No supplemental procedure shall be effective unless and until approved by the Department. Approval may be granted on a temporary basis, not to exceed 90 days, in cases of administrative necessity. On reasonable notice to a State agency, approval of a supplemental procedure may be withdrawn at any time. If public notice and opportunity for hearing would be required under a State law for adoption of a similar or analogous procedure involving UI, such public notice and opportunity for hearing shall be afforded by the State agency as to the supplemental procedure.
+
+(Approved by the Office of Management and Budget under control number 1205-0222)

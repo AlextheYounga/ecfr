@@ -1,0 +1,5 @@
+##### § 655.1316 Job Service Complaint System; enforcement of work contracts. #####
+
+(a) Complaints arising under this subpart may be filed through the Job Service Complaint System, as described in 20 CFR part 658, Subpart E. Complaints which involve worker contracts must be referred by the SWA to ESA for appropriate handling and resolution, as described in 29 CFR part 501. As part of this process, ESA may report the results of its investigation to the Administrator, OFLC for consideration of employer penalties or such other action as may be appropriate.
+
+(b) Complaints alleging that an employer discouraged an eligible U.S. worker from applying, failed to hire, discharged, or otherwise discriminated against an eligible U.S. worker, or discovered violations involving the same, may be referred to the U.S. Department of Justice, Civil Rights Division, Office of Special Counsel for Unfair Immigration Related Employment Practices (OSC), in addition to any activity, investigation, and/or enforcement action taken by ETA or an SWA. Likewise, if OSC becomes aware of a violation of these regulations, it may provide such information to the appropriate SWA and the CO.

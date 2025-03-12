@@ -1,0 +1,3 @@
+##### § 408.432 What kind of evidence of your other benefit income do you need to give us? #####
+
+As evidence of your other benefit income, we may require a document such as an award notice or other letter from the paying agency or written notification from the former employer, insurance company, etc. The evidence should show the benefit payable, the current amount of the payment, and the date the payment began.

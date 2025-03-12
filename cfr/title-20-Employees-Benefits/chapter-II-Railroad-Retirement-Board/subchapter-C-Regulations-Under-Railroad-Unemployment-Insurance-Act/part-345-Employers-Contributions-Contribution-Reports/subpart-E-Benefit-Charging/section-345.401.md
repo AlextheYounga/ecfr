@@ -1,0 +1,3 @@
+##### § 345.401 General rule. #####
+
+Effective January 1, 1990, all benefits paid to an employee for his or her days of unemployment or days of sickness will be charged to the base year employer of such employee, except as hereinafter provided in this part. The Board will make the charge by adding the gross amount of the benefits payable to an employee on the basis of a claim for benefits to that employee's base year employer's cumulative benefit balance. The benefit charge does not depend on whether the employee receiving the benefit payment is a current employee of the base year employer.

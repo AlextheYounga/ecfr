@@ -1,0 +1,11 @@
+##### § 404.465 Conviction for subversive activities; effect on monthly benefits and entitlement to hospital insurance benefits. #####
+
+(a) *Effect of conviction.* Where an individual is convicted of any offense (committed after August 1, 1956) under chapter 37 (relating to espionage and censorship), chapter 105 (relating to sabotage), or chapter 115 (relating to treason, sedition, and subversive activities) of title 18 U.S.C., or under section 4, 112, or 113 of the Internal Security Act of 1950, as amended, the court, in addition to all other penalties provided by law, may order that, in determining whether any monthly benefit is payable to the individual for the month in which he is convicted or for any month thereafter, and in determining whether the individual is entitled to hospital insurance benefits under part A of title XVIII for any such month, and in determining the amount of the benefit for that month, the following are not to be taken into account:
+
+(1) Any wages paid to such individual, or to any other individual, in the calendar quarter in which such conviction occurred or in any prior calendar quarter, and
+
+(2) Any net earnings from self-employment derived by the individual, or any other individual, during the taxable year in which the conviction occurred or during any prior taxable year.
+
+(b) *Recalculation of benefit.* When notified by the Attorney General that the additional penalty as described in paragraph (a) of this section has been imposed against any individual entitled to benefits under section 202 or section 223 of the Act (see subpart D), the Administration, for the purposes of determining the individual's entitlement to such benefits as of the month in which convicted and the amount of the benefit, will exclude the applicable wages and net earnings in accordance with the order of the court.
+
+(c) *Effect of pardon.* In the event that an individual, with respect to whom the additional penalty as described in paragraph (a) of this section has been imposed, is granted a pardon of the offense by the President of the United States, such penalty is not applied in determining such individual's entitlement to benefits, and the amount of such benefit, for any month beginning after the date on which the pardon is granted.

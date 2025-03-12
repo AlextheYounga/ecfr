@@ -1,0 +1,7 @@
+##### § 702.315 Conclusion of conference; agreement on all matters with respect to the claim. #####
+
+(a) Following an informal conference at which agreement is reached on all issues, the district director must (within 10 days after conclusion of the conference), embody the agreement in a memorandum or within 30 days issue a formal compensation order, to be filed and served in accordance with § 702.349. If either party requests that a formal compensation order be issued, the district director must, within 30 days of such request, prepare, file, and serve such order in accordance with § 702.349. Where the problem was of such nature that it was resolved by telephone discussion or by exchange of written correspondence, the district director must prepare a memorandum or order setting forth the terms agreed upon and notify the parties either by telephone or in writing, as appropriate. In either instance, when the employer or carrier has agreed to pay, reinstate or increase monetary compensation benefits, or to restore or appropriately change medical care benefits, such action must be commenced immediately upon becoming aware of the agreement, and without awaiting receipt of the memorandum or the formal compensation order.
+
+(b) Where there are several conferences or discussions, the provisions of paragraph (a) of this section do not apply until the last conference. The district director must, however, prepare and place in his administrative file a short, succinct memorandum of each preceding conference or discussion.
+
+[80 FR 12930, Mar. 12, 2015]

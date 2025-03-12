@@ -1,0 +1,3 @@
+##### § 202.6 Casual service and the casual operation of equipment or facilities. #####
+
+The service rendered or the operation of equipment or facilities by a controlled company or person in connection with the transportation of passengers or property by railroad is “casual” whenever such service or operation is so irregular or infrequent as to afford no substantial basis for an inference that such service or operation will be repeated, or whenever such service or operation is insubstantial.

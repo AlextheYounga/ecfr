@@ -1,0 +1,3 @@
+##### § 30.606 Under what circumstances must a recovery of money or other property in connection with an illness for which benefits are payable under EEOICPA be reported to OWCP? #####
+
+Any person who has filed an EEOICPA claim that has been accepted by OWCP (whether or not compensation has been paid), or who has received EEOICPA benefits in connection with a claim filed by another, is required to notify OWCP of the receipt of money or other property as a result of a settlement or judgment in connection with the circumstances of that claim.

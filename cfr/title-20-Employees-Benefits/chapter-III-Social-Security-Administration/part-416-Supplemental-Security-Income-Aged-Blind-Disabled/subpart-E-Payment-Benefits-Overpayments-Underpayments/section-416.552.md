@@ -1,0 +1,11 @@
+##### § 416.552 Waiver of adjustment or recovery - without fault. #####
+
+*Without fault* relates only to the situation of the individual seeking relief from adjustment or recovery of an overpayment. The overpaid individual (and any other individual from whom the Social Security Administration seeks to recover the overpayment) is not relieved of liability and is not *without fault* solely because the Social Security Administration may have been at fault in making the overpayment. In determining whether an individual is without fault, the *fault* of the overpaid person and the *fault* of the individual seeking relief under the waiver provision are considered. Whether an individual is *without fault* depends on all the pertinent circumstances surrounding the overpayment in the particular case. The Social Security Administration considers the individual's understanding of the reporting requirements, the agreement to report events affecting payments, knowledge of the occurrence of events that should have been reported, efforts to comply with the reporting requirements, opportunities to comply with the reporting requirements, understanding of the obligation to return checks which were not due, and ability to comply with the reporting requirements (e.g., age, comprehension, memory, physical and mental condition). In determining whether an individual is without fault based on a consideration of these factors, the Social Security Administration will take into account any physical, mental, educational, or linguistic limitations (including any lack of facility with the English language) the individual may have. Although the finding depends on all of the circumstances in the particular case, an individual will be found to have been at fault in connection with an overpayment when an incorrect payment resulted from one of the following:
+
+(a) Failure to furnish information which the individual knew or should have known was material;
+
+(b) An incorrect statement made by the individual which he knew or should have known was incorrect (this includes the individual's furnishing his opinion or conclusion when he was asked for facts), or
+
+(c) The individual did not return a payment which he knew or could have been expected to know was incorrect.
+
+[40 FR 47763, Oct. 10, 1975, as amended at 59 FR 1636, Jan. 12, 1994]

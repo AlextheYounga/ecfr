@@ -1,0 +1,7 @@
+##### § 404.353 Child's benefit amounts. #####
+
+(a) *General.* Your child's monthly benefit is equal to one-half of the insured person's primary insurance amount if he or she is alive and three-fourths of the primary insurance amount if he or she has died. The amount of your monthly benefit may change as explained in § 404.304.
+
+(b) *Entitlement to more than one benefit.* If you are entitled to a child's benefit on more than one person's earnings record, you will ordinarily receive only the benefit payable on the record with the highest primary insurance amount. If your benefit before any reduction would be larger on an earnings record with a lower primary insurance amount and no other person entitled to benefits on any earnings record would receive a smaller benefit as a result of your receiving benefits on the record with the lower primary insurance amount, you will receive benefits on that record. See § 404.407(d) for a further explanation. If you are entitled to a child's benefit and to other dependent's or survivor's benefits, you can receive only the highest of the benefits.
+
+[44 FR 34481, June 15, 1979; 44 FR 56691, Oct. 2, 1979, as amended at 48 FR 21928, May 16, 1983; 51 FR 12606, Apr. 14, 1986; 61 FR 38363, July 24, 1996]

@@ -1,0 +1,5 @@
+##### § 71.7 Claim filing, processing, adjudication and time limits. #####
+
+(a) Claims for injury, disability or death benefits payable under section 5(f) of the said War Claims Act of 1948, originating in the United States or in its Territories or possessions, shall be filed by mailing to the Bureau of Employees' Compensation, United States Department of Labor, Washington, DC 20211. All claims originating in the Philippine Islands may be filed by mailing to the Bureau of Employees' Compensation, United States Department of Labor, Manila, P.I. All claims will be finally processed and adjudicated by the Bureau at its principal office in Washington, DC.
+
+(b) The limitation provisions for the filing of claims for disability or death benefits, as prescribed by applicable provisions of statute, shall not begin to run earlier than July 3, 1948.

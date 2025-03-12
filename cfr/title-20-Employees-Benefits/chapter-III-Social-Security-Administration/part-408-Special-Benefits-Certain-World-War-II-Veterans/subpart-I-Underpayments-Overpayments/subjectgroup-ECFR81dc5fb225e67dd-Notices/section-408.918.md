@@ -1,0 +1,5 @@
+##### § 408.918 What notices will you receive if you are overpaid or underpaid? #####
+
+(a) *Notice of overpayment or underpayment determination.* Whenever we determine that you were overpaid or underpaid for a given period, as defined in § 408.903, we will send you a written notice of the correct and incorrect amounts you received for each month in the period, even if part or all of the underpayment must be withheld in accordance with § 408.905. The notice of overpayment will advise you about recovery of the overpayment, as explained in §§ 408.920-408.923, and your rights to appeal the determination and to request waiver of recovery of the overpayment under the provisions of § 408.910.
+
+(b) *Notice of waiver determination.* Written notice of an initial determination regarding waiver of recovery will be mailed to you in accordance with § 408.1005 unless you were not given notice of the overpayment in accordance with paragraph (a) of this section.

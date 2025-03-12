@@ -1,0 +1,3 @@
+##### § 229.11 100 percent overall minimum. #####
+
+Section 3(f)(3) of the 1974 Act guarantees that the total annuities payable to the employee and spouse, including the vested dual benefits but not including a supplemental annuity, will not be less than 100 percent of the total family benefits payable under the Social Security Act if the employee's railroad service after 1936 were credited as social security earnings. Subpart F describes how the 100 percent overall minimum rate is computed.

@@ -1,0 +1,3 @@
+##### § 684.520 Must Indian and Native American program grantees give preference to Indian and Native American entities in the selection of contractors or service providers? #####
+
+Yes, INA program grantees must give as much preference as possible to Indian organizations and to Indian-owned economic enterprises, as defined in sec. 3 of the Indian Financing Act of 1974 (25 U.S.C. 1452), when awarding any contract or subgrant.

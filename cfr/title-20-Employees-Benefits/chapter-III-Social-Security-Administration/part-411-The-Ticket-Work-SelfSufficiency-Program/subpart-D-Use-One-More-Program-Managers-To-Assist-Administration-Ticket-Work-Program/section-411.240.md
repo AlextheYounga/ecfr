@@ -1,0 +1,3 @@
+##### § 411.240 What limitations are placed on a PM? #####
+
+A PM is prohibited from directly participating in the delivery of employment services, vocational rehabilitation services, or other support services to beneficiaries with tickets in the PM's designated service delivery area. A PM is also prohibited from holding a financial interest in an employment network (EN) or service provider that provides services under the Ticket to Work program in the PM's designated service delivery area.

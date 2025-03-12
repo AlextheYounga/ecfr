@@ -1,0 +1,5 @@
+##### § 10.525 What information must the employee report? #####
+
+(a) An employee who is receiving compensation for partial or total disability must advise OWCP immediately of any return to work, either part-time or full-time. An employee must report all outside employment, including any concurrent dissimilar employment held at the time of injury, even if the injury did not result in any lost time in that position. In addition, an employee who is receiving compensation for partial or total disability will periodically be required to submit a report of earnings from employment or self-employment, either part-time or full-time. (See § 10.5(g) for a definition of “earnings.”)
+
+(b) The employee must report even those earnings which do not seem likely to affect his or her level of benefits. Many kinds of income, though not all, will result in reduction of compensation benefits. While earning income will not necessarily result in a reduction of compensation, failure to report income may result in forfeiture of all benefits paid during the reporting period.

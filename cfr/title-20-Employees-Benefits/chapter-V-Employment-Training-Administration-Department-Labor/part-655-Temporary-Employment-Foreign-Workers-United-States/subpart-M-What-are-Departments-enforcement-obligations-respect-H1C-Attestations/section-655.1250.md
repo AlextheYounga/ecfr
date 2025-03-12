@@ -1,0 +1,3 @@
+##### § 655.1250 Who is the official record keeper for these administrative appeals? #####
+
+The official record of every completed administrative hearing procedure provided by subparts L and M of this part shall be maintained and filed under the custody and control of the Chief Administrative Law Judge. Upon receipt of a complaint seeking review of the final agency action in a United States District Court, the Chief Administrative Law Judge shall certify the official record and shall transmit such record to the clerk of the court.

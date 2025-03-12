@@ -1,0 +1,7 @@
+##### § 418.3630 How do you request administrative review? #####
+
+(a) *Time period for requesting review.* You must request administrative review within 60 days after the date you receive notice of the initial determination (or within the extended time period if we extend the time as provided in paragraph (c) of this section). You can request administrative review in person, by phone, fax, or mail. If you miss the time frame for requesting administrative review, you may ask us for more time to request a review. The process for requesting an extension is explained further in paragraph (c) of this section.
+
+(b) *Where to file your request.* You can request administrative review by mailing or faxing a request or calling or visiting any Social Security office.
+
+(c) *When we will extend the time period to request administrative review.* If you want a review of the initial determination but do not request one within 60 days after the date you receive notice of the initial determination, you may ask us for more time to request a review. Your request for an extension must explain why it was not filed within the stated time period. If you show us that you had good cause for missing the deadline, we will extend the time period. To determine whether good cause exists, we use the standards explained in § 418.3640.

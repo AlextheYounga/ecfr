@@ -1,0 +1,3 @@
+##### § 702.233 Penalty for failure to pay without an award. #####
+
+If any installment of compensation payable without an award is not paid within 14 days after it becomes due, there shall be added to such unpaid installment an amount equal to 10 per centum thereof which shall be paid at the same time as, but in addition to, such installment unless the employer files notice of controversion in accordance with § 702.261, or unless such nonpayment is excused by the district director after a showing by the employer that owing to conditions over which he had no control such installment could not be paid within the period prescribed for the payment.

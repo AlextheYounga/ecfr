@@ -1,0 +1,5 @@
+##### § 411.597 Will SSA periodically review the outcome payment system and the outcome-milestone payment system for possible modifications? #####
+
+(a) Yes. We will periodically review the system of payments and their programmatic results to determine if they provide an adequate incentive for ENs to assist beneficiaries to enter the work force, while providing for appropriate economies.
+
+(b) We will specifically review the limitation on monthly outcome payments as a percentage of the payment calculation base, the difference in total payments between the outcome-milestone payment system and the outcome payment system, the length of the outcome payment period, and the number and amount of milestone payments, as well as the benefit savings and numbers of beneficiaries going to work. We will consider altering the payment system conditions based upon the information gathered and our determination that an alteration would better provide for the incentives and economies noted above.

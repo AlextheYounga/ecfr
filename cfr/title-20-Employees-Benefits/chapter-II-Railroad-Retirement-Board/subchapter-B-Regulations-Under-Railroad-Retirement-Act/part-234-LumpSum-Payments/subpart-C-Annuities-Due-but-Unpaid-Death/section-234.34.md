@@ -1,0 +1,3 @@
+##### § 234.34 When an entitled relative of the employee dies before receiving payment of a due but unpaid annuity. #####
+
+If a person, who is entitled to unpaid annuities based upon his or her relationship to the employee, dies before negotiating the check in payment of the unpaid annuities, the amount to which he or she was entitled becomes payable to other relatives of the employee in the same degree of relationship. If no relatives in that degree of relationship survive, the amount becomes payable to relatives in the next degree of relationship.

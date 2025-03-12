@@ -1,0 +1,5 @@
+##### § 416.625 What information must a representative payee report to us? #####
+
+Anytime after we select a representative payee for you, we may ask your payee to give us information showing a continuing relationship with you, a continuing responsibility for your care, and how he/she used the payments on your behalf. If your representative payee does not give us the requested information within a reasonable period of time, we may stop sending your benefit payment to him/her—unless we determine that he/she had a satisfactory reason for not meeting our request and we subsequently receive the requested information. If we decide to stop sending your benefit payment to your representative payee, we will consider paying you directly (in accordance with § 416.611) while we look for a new payee.
+
+[69 FR 60238, Oct. 7, 2004]

@@ -1,0 +1,9 @@
+##### § 609.14 Payments to States. #####
+
+(a) *State entitlement.* Each State is entitled to be paid by the United States with respect to each individual whose base period wages included Federal wages, an amount bearing the same ratio to the total amount of compensation paid to such individual as the amount of the individual's Federal wages in the individual's base period bears to the total amount of the individual's base period wages.
+
+(b) *Payment.* Each State shall be paid, either in advance or by way of reimbursement, as may be determined by the Department, the sum that the Department estimates the State is entitled to receive under the Act and this part for each calendar month. The sum shall be reduced or increased by the amount which the Department finds that its estimate for an earlier calendar month was greater or less than the sum which should have been paid to the State. An estimate may be made on the basis of a statistical, sampling, or other method agreed on by the Department and the State agency.
+
+(c) *Certification by the Department.* The Department, from time to time, shall certify to the Secretary of the Treasury the sum payable to each State under this section. The Secretary of the Treasury, before audit or settlement by the General Accounting Office, shall pay the State in accordance with the certification from the funds for carrying out the purposes of the Act and this part.
+
+(d) *Use of money.* Money paid a State under the Act and this part may be used solely for the purposes for which it is paid. Money so paid which is not used solely for these purposes shall be returned, at the time specified by the Agreement, to the Treasury of the United States and credited to the current applicable appropriation, fund, or account from which payments to states under the Act and this part may be made.

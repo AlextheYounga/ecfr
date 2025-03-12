@@ -1,0 +1,7 @@
+##### § 641.400 What entities are eligible to apply to the Department for funds to administer SCSEP projects? #####
+
+(a) *National grants.* Entities eligible to apply for national grants include nonprofit organizations, Federal public agencies, and tribal organizations. These entities must provide information to establish that they are capable of administering a multi-State program, as required by the Secretary. State and local agencies may not apply for these funds.
+
+(b) *State grants.* (1) Section 506(e) of the OAA requires the Department to award each State a grant to provide SCSEP services. Governors, or highest government officials, designate an individual State agency as the organization to administer SCSEP funds.
+
+(2) If the State fails to meet its expected levels of performance for the core indicators for three consecutive years, it is not eligible to designate an agency to administer SCSEP funds in the following year. Instead, the State must conduct a competition to select an organization as the grantee of the funds allotted to the State under § 506(e). Public and nonprofit private agencies and organizations, State agencies other than the previously designated, failed agency, and tribal organizations, are eligible to be selected as a grantee for the funds. Other States may not be selected as a grantee for this funding.

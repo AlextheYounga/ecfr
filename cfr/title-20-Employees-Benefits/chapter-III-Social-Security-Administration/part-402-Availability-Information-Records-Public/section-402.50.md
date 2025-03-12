@@ -1,0 +1,3 @@
+##### § 402.50 Availability of administrative staff manuals. #####
+
+All administrative staff manuals of the Social Security Administration and instructions to staff personnel which contain policies, procedures, or interpretations that affect the public are available for inspection and copying. A complete listing of such materials is published in the Index of Administrative Staff Manuals and Instructions. These manuals are generally not printed in a sufficient quantity to permit sale or other general distribution to the public. Selected material is maintained at district offices and field offices and may be inspected there. See §§ 402.55 and 402.60 for a listing of this material.

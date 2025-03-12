@@ -1,0 +1,3 @@
+##### § 686.100 What is the scope of this part? #####
+
+The regulations in this part outline the requirements that apply to the Job Corps program. More detailed policies and procedures are contained in a Policy and Requirements Handbook issued by the Secretary. Throughout this part, “instructions (procedures) issued by the Secretary” and similar references refer to the Policy and Requirements Handbook and other Job Corps directives.

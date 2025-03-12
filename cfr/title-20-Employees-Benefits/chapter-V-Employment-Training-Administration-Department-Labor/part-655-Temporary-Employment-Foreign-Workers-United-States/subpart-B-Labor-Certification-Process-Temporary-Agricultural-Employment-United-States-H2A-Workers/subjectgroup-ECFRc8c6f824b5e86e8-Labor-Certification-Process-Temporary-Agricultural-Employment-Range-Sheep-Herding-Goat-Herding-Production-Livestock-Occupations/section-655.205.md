@@ -1,0 +1,3 @@
+##### § 655.205 Herding and range livestock job orders. #####
+
+The employer whose job opportunity has been determined to qualify for these procedures, whether individual, association, or H-2ALC, is not required to comply with the job order filing requirements in § 655.121(a) through (d). Rather, the employer must submit Form ETA-790, directly to the National Processing Center (NPC) designated by the Office of Foreign Labor Certification (OFLC Administrator) along with a completed *H-2A Application for Temporary Employment Certification,* Form ETA-9142A, as required in § 655.215.

@@ -1,0 +1,3 @@
+##### § 670.110 What is the Job Corps program? #####
+
+Job Corps is a national program that operates in partnership with States and communities, local Workforce Investment Boards, youth councils, One-Stop Centers and partners, and other youth programs to provide education and training, primarily in a residential setting, for low income young people. The objective of Job Corps is to provide young people with the skills they need to obtain and hold a job, enter the Armed Forces, or enroll in advanced training or further education.

@@ -1,0 +1,5 @@
+##### § 404.1406 Eligibility to railroad retirement benefits as a bar to payment of social security benefits. #####
+
+Notwithstanding the fact that, pursuant to the preceding provisions of this subpart, services rendered by an individual in the railroad industry are in employment, no lump-sum death payment or survivor monthly benefits shall be paid (except as provided in § 404.1407) under the regulations in this part on the basis of such individual's wages and self-employment income if any person, upon filing application therefor, would be entitled to an annuity under section 2 of the Railroad Retirement Act of 1974 or a lump-sum payment under section 6(b) of such Act with respect to the death of that individual; or for periods prior to 1975, would have been entitled to an annuity under section 5 or a lump-sum payment under section 5(f)(1) of the Railroad Retirement Act of 1937 with respect to the death of that individual.
+
+[42 FR 18273, Apr. 6, 1977]

@@ -1,0 +1,5 @@
+##### § 416.502 Manner of payment. #####
+
+For the month an individual reestablishes eligibility after a month of ineligibility, an SSI payment will be made on or after the day of the month on which the individual becomes reeligible to receive benefits. In all other months, a payment will be made on the first day of each month and represents payment for that month. If the first day of the month falls on a Saturday, Sunday, or legal holiday, payments will be made on the first day preceding such day which is not a Saturday, Sunday, or legal holiday. Unless otherwise indicated, the monthly amount for an eligible couple will be divided equally and paid separately to each individual. Section 416.520 explains emergency advance payments.
+
+[55 FR 4422, Feb. 8, 1990, as amended at 64 FR 31974, June 15, 1999]

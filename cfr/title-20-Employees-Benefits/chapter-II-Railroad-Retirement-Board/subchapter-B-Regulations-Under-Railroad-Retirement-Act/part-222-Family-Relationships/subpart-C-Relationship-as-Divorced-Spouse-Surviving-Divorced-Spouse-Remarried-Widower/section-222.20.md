@@ -1,0 +1,7 @@
+##### § 222.20 When determination of relationship as divorced spouse, surviving divorced spouse, or remarried widow(er) is made. #####
+
+(a) *Divorced spouse.* The claimant's relationship as the divorced spouse of an employee is determined when the purported divorced spouse applies for an annuity, or when there is a claim which would include a divorced spouse in the computation of the social security overall minimum provision. Such a determination is also made when a spouse annuitant age 62 or over secures a final divorce from the employee after 10 years of marriage.
+
+(b) *Surviving divorced spouse.* The claimant's relationship as the surviving divorced spouse of an employee is determined when the purported surviving divorced spouse applies for an annuity on the basis of age, disability, or having a child in care. Such a determination is also made when there is a divorced spouse annuitant and the employee dies.
+
+(c) *Remarried widow(er).* The claimant's relationship as a remarried widow(er) of an employee is determined when the purported remarried widow(er) applies for an annuity. Such a determination is also made when a widow(er) who is receiving an annuity remarries after age 60, or when a widow(er) who is receiving a disability annuity remarries after age 50.

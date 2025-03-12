@@ -1,0 +1,9 @@
+##### § 802.301 Scope of review. #####
+
+(a) The Benefits Review Board is not empowered to engage in a *de novo* proceeding or unrestricted review of a case brought before it. The Board is authorized to review the findings of fact and conclusions of law on which the decision or order appealed from was based. Such findings of fact and conclusions of law may be set aside only if they are not, in the judgment of the Board, supported by substantial evidence in the record considered as a whole or in accordance with law.
+
+(b) Parties shall not submit new evidence to the Board. Any evidence submitted by a party which is not part of the record developed at the hearing before the administrative law judge will be returned without being considered by the Board.
+
+(c) Any party who considers new evidence necessary to the adjudication of the claim may apply for modification pursuant to section 22 of the Longshore and Harbor Workers' Compensation Act, 33 U.S.C. 922. A party who files a petition for modification shall promptly notify the Board of such filing. Upon receipt of such notification, the Board shall dismiss the case without prejudice. Should the petition for modification be declined, the petitioner may file a request for reinstatement of his or her appeal with the Board within 30 days of the date the petition is declined. Should the petition for modification be accepted, any party adversely affected by the decision or order granting or denying modification may file a new appeal with the Board within 30 days of the date the decision or order on modification is filed.
+
+[52 FR 27292, July 20, 1987, as amended at 53 FR 16519, May 9, 1988]

@@ -1,0 +1,7 @@
+##### § 655.650 Decision and order of administrative law judge. #####
+
+(a) Within 90 calendar days after receipt of the transcript of the hearing, the administrative law judge shall issue a decision. If any party desires review of the decision, including judicial review, a petition for Secretary's review thereof shall be filed as provided in § 655.655 of this subpart. If a petition for review is filed, the decision of the administrative law judge shall be inoperative unless and until the Secretary issues an order affirming the decision, or, unless and until 30 calendar days have passed after the Secretary's receipt of the petition for review and the Secretary has not issued notice to the parties that the Secretary will review the administrative law judge's decision.
+
+(b) The decision of the administrative law judge shall include a statement of findings and conclusions, with reasons and basis therefor, upon each material issue presented on the record. The decision shall also include an appropriate order which may affirm, deny, reverse, or modify, in whole or in part, the determination of the Administrator; the reason or reasons for such order shall be stated in the decision. The administrative law judge shall not render determinations as to the legality of a regulatory provision or the constitutionality of a statutory provision.
+
+(c) The decision shall be served on all parties in person or by certified or regular mail.

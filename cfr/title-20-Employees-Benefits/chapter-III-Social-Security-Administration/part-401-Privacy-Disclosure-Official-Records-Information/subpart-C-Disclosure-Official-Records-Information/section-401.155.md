@@ -1,0 +1,9 @@
+##### § 401.155 Law enforcement purposes. #####
+
+(a) *General.* The Privacy Act allows us to disclose information for law enforcement purposes under certain conditions. Much of the information in our files is especially sensitive or very personal. Furthermore, participation in social security programs is mandatory, so people cannot limit what information is given to us. Therefore, we generally disclose information for law enforcement purposes only in limited situations. The Privacy Act allows us to disclose information if the head of the law enforcement agency makes a written request giving enough information to show that the conditions in paragraphs (b) or (c) of this section are met, what information is needed, and why it is needed. Paragraphs (b) and (c) of this section discuss the disclosures we generally make for these purposes.
+
+(b) *Serious crimes.* SSA may disclose information for criminal law enforcement purposes where a violent crime such as murder or kidnapping has been committed and the individual about whom the information is being sought has been indicted or convicted of that crime.
+
+(c) *Criminal activity involving the social security program or another program with the same purposes.* We disclose information when necessary to investigate or prosecute fraud or other criminal activity involving the social security program. We may also disclose information for investigation or prosecution of criminal activity in other income-maintenance or health-maintenance programs (e.g., other governmental pension programs, unemployment compensation, general assistance, Medicare or Medicaid) if the information concerns eligibility, benefit amounts, or other matters of benefit status in a social security program and is relevant to determining the same matters in the other program.
+
+[62 FR 4143, Jan. 29, 1997, as amended at 72 FR 20941, Apr. 27, 2007]

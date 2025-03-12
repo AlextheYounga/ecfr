@@ -1,0 +1,5 @@
+##### § 641.640 Should pilot, demonstration, and evaluation project entities coordinate with SCSEP grantees and sub-recipients, including area agencies on aging? #####
+
+(a) To the extent practicable, the Department will provide an opportunity, before the development of a demonstration or pilot project, for the appropriate area agency on aging and SCSEP grantees and sub-grantees to submit comments on the project in order to ensure coordination of SCSEP activities with activities carried out under this subpart.
+
+(b) To the extent practicable, entities carrying out pilot, demonstration, and evaluation projects must consult with appropriate area agencies on aging, SCSEP grantees and sub-grantees, and other appropriate agencies and entities to promote coordination of SCSEP and pilot, demonstration, and evaluation activities. (OAA § 502(e)).

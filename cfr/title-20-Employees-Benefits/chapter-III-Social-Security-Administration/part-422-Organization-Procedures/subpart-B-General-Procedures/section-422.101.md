@@ -1,0 +1,3 @@
+##### § 422.101 Material included in this subpart. #####
+
+This subpart describes the procedures relating to applications for and assignment of social security numbers, maintenance of earnings records of individuals by the Social Security Administration, requests for statements of earnings or for revision of earnings records, and general claims procedures, including filing of applications, submission of evidence, determinations, and reconsideration of initial determinations.

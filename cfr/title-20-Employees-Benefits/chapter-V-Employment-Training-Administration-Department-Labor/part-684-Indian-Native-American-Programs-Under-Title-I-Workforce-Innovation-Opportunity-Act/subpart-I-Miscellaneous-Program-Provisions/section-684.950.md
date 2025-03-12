@@ -1,0 +1,3 @@
+##### § 684.950 Does the Workforce Innovation and Opportunity Act provide any additional assistance to unique populations in Alaska and Hawaii? #####
+
+Yes. Notwithstanding any other provision of law, the Secretary is authorized to award grants, on a competitive basis, to entities with demonstrated experience and expertise in developing and implementing programs for the unique populations who reside in Alaska or Hawaii, including public and private nonprofit organizations, tribal organizations, American Indian tribal colleges or universities, institutions of higher education, or consortia of such organizations or institutions, to improve job training and workforce investment activities for such unique populations.

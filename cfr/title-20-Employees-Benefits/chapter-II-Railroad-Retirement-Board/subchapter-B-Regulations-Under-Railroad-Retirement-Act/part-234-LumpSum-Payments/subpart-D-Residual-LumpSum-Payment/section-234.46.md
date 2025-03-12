@@ -1,0 +1,3 @@
+##### § 234.46 Amount of the RLS payable. #####
+
+The gross RLS amount is equal to certain percentages of the employee's creditable compensation, including military service, as described in § 234.48. (Creditable compensation and military service are discussed in parts 211 and 212 of this chapter, respectively.) The amount of the RLS payable is equal to the gross RLS minus the sum of all retirement benefits that have been paid on the basis of the employee's railroad service and all survivor benefits based on the employee's earnings previously paid by either the Board or the Social Security Administration.

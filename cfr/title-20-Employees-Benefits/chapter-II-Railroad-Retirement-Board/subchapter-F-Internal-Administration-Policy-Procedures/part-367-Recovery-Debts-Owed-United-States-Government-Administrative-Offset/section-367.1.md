@@ -1,0 +1,5 @@
+##### § 367.1 Purpose and scope. #####
+
+The regulations in this part establish procedures to implement the Debt Collection Act of 1982 (Pub. L. 97-365), as amended by the Debt Collection Improvement Act of 1996 (Pub. L. 104-134), 31 U.S.C. 3716. The statute authorizes the Board to collect a claim arising under an agency program by means of administrative offset, and requires the Board to refer nontax debts over 180 days delinquent to the Department of Treasury for administrative offset (the “Treasury Offset Program”). No claim may be collected by such means if outstanding for more than 10 years after the Board's right to collection of the debt first accrued, unless facts material to the Government's right to collect the debt were not known and could not reasonably have been known by the official or officials of the government who were charged with the responsibility to discover and collect such debts. This part specifies the agency procedures that will be followed by the Board for referral and collection by administrative offset.
+
+[62 FR 19220, Apr. 21, 1997]

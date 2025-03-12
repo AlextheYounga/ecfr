@@ -1,0 +1,7 @@
+##### § 422.1 Organization and functions. #####
+
+(a) *General.* A complete description of the organization and functions of the Social Security Administration (pursuant to 5 U.S.C. 552(a), as amended by Pub. L. 90-23, the Public Information Act) was published in the Federal Register of July 15, 1967 (32 FR 10458), and was subsequently revised on April 16, 1968 (33 FR 5828), and amended on July 18, 1968 (33 FR 10292). Further amendments to or revisions of the description will be published in the Federal Register when and if required by changes in the organization or functions of the Social Security Administration. Such description (referred to as the SSA Statement of Organization, Functions, and Delegations of Authority) is printed and kept up to date in the Social Security Administration Organizational Manual, a copy of which is maintained in each district office and branch office of the Social Security Administration and is available for inspection and copying.
+
+(b) *Information included in description.* This description includes information about the organization and functions of each component of the Social Security Administration. It also includes a listing of all district offices and branch offices within the organization of the Bureau of District Office Operations, and a listing of field offices within the organization of the Bureau of Hearings and Appeals where the public may secure information, make submittals or requests, or obtain decisions.
+
+[34 FR 435, Jan. 11, 1969, as amended at 62 FR 38456, July 18, 1997]

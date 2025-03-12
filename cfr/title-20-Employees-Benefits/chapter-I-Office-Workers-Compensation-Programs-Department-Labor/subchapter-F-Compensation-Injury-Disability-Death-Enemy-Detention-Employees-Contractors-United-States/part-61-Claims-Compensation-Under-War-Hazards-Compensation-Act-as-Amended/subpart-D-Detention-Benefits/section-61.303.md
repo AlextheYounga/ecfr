@@ -1,0 +1,3 @@
+##### § 61.303 Determination of detention status. #####
+
+A determination that an employee has been detained by a hostile force or person may be made on the basis that the employee has disappeared under circumstances that make detention appear probable. In making the determination, the Office will consider the information and the conclusion of the Department or agency of the United States having knowledge of the circumstances surrounding the absence of the employee as prima facie evidence of the employee's status. The presumptive status of total disability of the missing person shall continue during the period of the absence, or until death is in fact established or can be legally presumed to have occurred.

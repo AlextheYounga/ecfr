@@ -1,0 +1,3 @@
+##### § 323.5 Submitting proposed plan for Board approval. #####
+
+An employer shall submit each proposed plan, or a proposed revision to an existing plan, to the Director of Unemployment and Sickness Insurance, Railroad Retirement Board, 844 Rush Street, Chicago, Illinois 60611. The Director shall determine whether the plan or revision conforms to this part. Approval shall be effective as of the effective date of the plan. If not approved, the Director will advise the employer in which particular respects the proposed plan or revision does not conform to this part.

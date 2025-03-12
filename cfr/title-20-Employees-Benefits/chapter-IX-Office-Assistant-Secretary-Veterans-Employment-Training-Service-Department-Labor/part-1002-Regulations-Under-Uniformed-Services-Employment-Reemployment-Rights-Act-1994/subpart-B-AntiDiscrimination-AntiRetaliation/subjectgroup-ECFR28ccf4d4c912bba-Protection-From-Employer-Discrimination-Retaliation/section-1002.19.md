@@ -1,0 +1,3 @@
+##### § 1002.19 What activity is protected from employer retaliation by USERRA? #####
+
+An employer must not retaliate against an individual by taking any adverse employment action against him or her because the individual has taken an action to enforce a protection afforded any person under USERRA; testified or otherwise made a statement in or in connection with a proceeding under USERRA; assisted or participated in a USERRA investigation: or, exercised a right provided for by USERRA.

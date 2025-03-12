@@ -1,0 +1,3 @@
+##### § 30.627 Under what circumstances will OWCP waive the statutory requirement to coordinate these benefits? #####
+
+A waiver to the requirement to coordinate Part E benefits with benefits paid under a state workers' compensation program may be granted if OWCP determines that the administrative costs and burdens of coordinating benefits in a particular case or class of cases justifies the waiver. This decision is exclusively within the discretion of OWCP.

@@ -1,0 +1,13 @@
+##### § 416.1167 Temporary absences and deeming rules. #####
+
+(a) *General.* During a temporary absence, we continue to consider the absent person a member of the household. A temporary absence occurs when—
+
+(1) You, your ineligible spouse, parent, or an ineligible child leaves the household but intends to and does return in the same month or the month immediately following; or
+
+(2) You enter a medical treatment facility and are eligible for either benefit payable under § 416.212. We consider your absence to be temporary through the last month benefits under § 416.212 were paid unless you were discharged from the facility in the following month. In that case, we consider your absence to be temporary through the date of discharge.
+
+(b) *Child away at school.* If you are an eligible child who is away at school but comes home on some weekends or lengthy holidays and if you are subject to the control of your parents, we consider you temporarily absent from your parents' household. However, if you are not subject to parental control, we do not consider your absence temporary and we do not deem parental income (or resources) to you. Being subject to parental control affects deeming to you only if you are away at school.
+
+(c) *Active duty military service.* If your ineligible spouse or parent is absent from the household due solely to a duty assignment as a member of the Armed Forces on active duty, we continue to consider that person to be living in the same household as you, absent evidence to the contrary. If we determine that during such an absence, evidence indicates that your spouse or parent should no longer be considered to be living in the same household as you, then deeming will cease. When such evidence exists, we determine the month in which your spouse or parent should no longer be considered to be living in the same household as you and stop deeming his or her income and resources beginning with the month following that month.
+
+Example:Tom is a child who receives SSI. In January 1996, Tom's father leaves the household due solely to an active duty assignment as a member of the Armed Forces. Five months later in June 1996, while Tom's father is still on an active duty assignment, Tom's parents file for divorce. As a result, Tom's father will not be returning to live in Tom's household. Therefore, Tom's father should no longer be considered to be living in the same household with Tom. Beginning July 1, 1996, deeming from Tom's father will cease.[50 FR 48579, Nov. 26, 1985, as amended at 61 FR 10280, Mar. 13, 1996; 62 FR 42411, Aug. 7, 1997; 72 FR 50874, Sept. 5, 2007]

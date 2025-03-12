@@ -1,0 +1,3 @@
+##### § 216.3 Other regulations related to this part. #####
+
+This part is related to a number of other parts. Part 217 of this chapter describes how to apply for an annuity. Part 218 indicates when annuities begin and when they terminate. Part 219 sets out what evidence is necessary to prove eligibility. Where eligibility for an annuity is based upon a family relationship to an employee (for example, a widow's annuity), the definition of such family relationship may be found in part 222 of this chapter. Part 225 of this chapter describes the computation of the primary insurance amount.

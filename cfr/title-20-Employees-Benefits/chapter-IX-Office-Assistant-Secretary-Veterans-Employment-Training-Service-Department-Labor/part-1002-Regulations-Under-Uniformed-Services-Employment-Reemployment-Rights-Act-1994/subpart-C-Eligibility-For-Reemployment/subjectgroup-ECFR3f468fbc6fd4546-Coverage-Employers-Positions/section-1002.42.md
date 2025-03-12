@@ -1,0 +1,7 @@
+##### § 1002.42 What rights does an employee have under USERRA if he or she is on layoff, on strike, or on a leave of absence? #####
+
+(a) If an employee is laid off with recall rights, on strike, or on a leave of absence, he or she is an employee for purposes of USERRA. If the employee is on layoff and begins service in the uniformed services, or is laid off while performing service, he or she may be entitled to reemployment on return if the employer would have recalled the employee to employment during the period of service. Similar principles apply if the employee is on strike or on a leave of absence from work when he or she begins a period of service in the uniformed services.
+
+(b) If the employee is sent a recall notice during a period of service in the uniformed services and cannot resume the position of employment because of the service, he or she still remains an employee for purposes of the Act. Therefore, if the employee is otherwise eligible, he or she is entitled to reemployment following the conclusion of the period of service even if he or she did not respond to the recall notice.
+
+(c) If the employee is laid off before or during service in the uniformed services, and the employer would not have recalled him or her during that period of service, the employee is not entitled to reemployment following the period of service simply because he or she is a covered employee. Reemployment rights under USERRA cannot put the employee in a better position than if he or she had remained in the civilian employment position.

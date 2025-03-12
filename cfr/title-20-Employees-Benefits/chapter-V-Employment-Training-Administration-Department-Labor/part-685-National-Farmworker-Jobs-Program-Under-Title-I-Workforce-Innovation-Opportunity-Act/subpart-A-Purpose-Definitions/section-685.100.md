@@ -1,0 +1,3 @@
+##### § 685.100 What is the purpose of the National Farmworker Jobs Program and the other services and activities established under the Workforce Innovation and Opportunity Act? #####
+
+The purpose of the NFJP and the other services and activities established under WIOA sec. 167 is to strengthen the ability of eligible migrant and seasonal farmworkers (MSFWs) and their dependents to obtain or retain unsubsidized employment, stabilize their unsubsidized employment and achieve economic self-sufficiency, including upgraded employment in agriculture. This part provides the regulatory requirements applicable to the expenditure of WIOA secs. 167 and 127(a)(1) funds for such programs, services, and activities.

@@ -1,0 +1,3 @@
+##### § 725.402 Approved State workers' compensation law. #####
+
+If a district director determines that any claim filed under this part is one subject to adjudication under a workers' compensation law approved under part 722 of this subchapter, he or she shall advise the claimant of this determination and of the Act's requirement that the claim must be filed under the applicable State workers' compensation law. The district director shall then prepare a proposed decision and order dismissing the claim for lack of jurisdiction pursuant to § 725.418 and proceed as appropriate.

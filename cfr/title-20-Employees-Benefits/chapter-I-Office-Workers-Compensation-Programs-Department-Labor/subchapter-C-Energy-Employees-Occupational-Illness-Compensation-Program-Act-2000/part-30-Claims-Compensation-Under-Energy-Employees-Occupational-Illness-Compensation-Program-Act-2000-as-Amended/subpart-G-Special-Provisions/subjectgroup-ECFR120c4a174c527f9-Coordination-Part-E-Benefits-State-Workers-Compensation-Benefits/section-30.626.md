@@ -1,0 +1,17 @@
+##### § 30.626 How will OWCP coordinate compensation payable under Part E of EEOICPA with benefits from state workers' compensation programs? #####
+
+(a) OWCP will reduce the compensation payable under Part E by the amount of benefits the claimant receives from a state workers' compensation program by reason of the same covered illness, after deducting the reasonable costs to the claimant of obtaining those benefits.
+
+(b) To determine the amount of any reduction of EEOICPA compensation, OWCP shall require the covered Part E employee or each eligible surviving beneficiary filing a claim under Part E to execute and provide affidavits reporting the amount of any benefit received pursuant to a claim filed in a state workers' compensation program for the same covered illness.
+
+(c) If a covered Part E employee or a survivor of such employee receives benefits through a state workers' compensation program pursuant to a claim for the same covered illness, OWCP shall reduce a portion of the dollar amount of such state workers' benefit from the compensation payable under Part E. OWCP will calculate the net amount of the state workers' compensation benefit amount to be subtracted from the compensation payment under Part E in the following manner:
+
+(1) OWCP will first determine the dollar value of the benefits received by that individual from a state workers' compensation program by including all benefits, other than medical and vocational rehabilitation benefits, received for the same covered illness or injury sustained as a consequence of a covered illness.
+
+(2) OWCP will then make certain deductions from the above dollar benefit received under a state workers' compensation program to arrive at the dollar amount that will be subtracted from any compensation payable under Part E of EEOICPA.
+
+(i) Allowable deductions consist of reasonable costs in obtaining state workers' compensation benefits incurred by that individual, including but not limited to attorney's fees OWCP deems reasonable and itemized costs of suit (out-of-pocket expenditures not part of the normal overhead of a law firm's operation like filing, travel expenses, witness fees, and court reporter costs for transcripts), provided that adequate supporting documentation is submitted to OWCP for its consideration.
+
+(ii) The EEOICPA benefits that will be reduced will consist of any unpaid monetary payments payable in the future and medical benefits payable in the future. In those cases where it has not yet paid EEOICPA benefits under Part E, OWCP will reduce such benefits on a dollar-for-dollar basis, beginning with the current monetary payments first. If the amount to be subtracted exceeds the monetary payments currently payable, OWCP will reduce ongoing EEOICPA medical benefits payable in the future by the amount of any remaining surplus. This means that OWCP will apply the amount it would otherwise pay to reimburse the covered Part E employee for any ongoing EEOICPA medical treatment to the remaining surplus until it is absorbed (or until further monetary benefits become payable that are sufficient to absorb the surplus).
+
+(3) The above coordination of benefits will not occur if the beneficiary under a state workers' compensation program receives state workers' compensation benefits for both a covered and a non-covered illness arising out of and in the course of the same work-related incident.

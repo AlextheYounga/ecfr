@@ -1,0 +1,3 @@
+##### § 718.206 Effect of findings by persons or agencies. #####
+
+Decisions, statements, reports, opinions, or the like, of agencies, organizations, physicians or other individuals, about the existence, cause, and extent of a miner's disability, or the cause of a miner's death, are admissible. If properly submitted, such evidence shall be considered and given the weight to which it is entitled as evidence under all the facts before the adjudication officer in the claim.

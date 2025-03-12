@@ -1,0 +1,7 @@
+##### § 620.4 Testing of unemployment compensation applicants for the unlawful use of a controlled substance. #####
+
+(a) States may conduct a drug test on an unemployment compensation applicant, as defined in § 620.2, for the unlawful use of controlled substances, as defined in § 620.2, as a condition of eligibility for unemployment compensation if the individual is one for whom suitable work, as defined in State law, as defined in § 620.2, is only available in an occupation that regularly conducts drug testing under § 620.3. Drug testing is permitted only of an applicant, and not of an individual filing a continued claim for unemployment compensation after initially being determined eligible. No State is required to apply drug testing to UC applicants under this part 620.
+
+(b) A State conducting drug testing as a condition of unemployment compensation eligibility as provided in paragraph (a) of this section may apply drug testing only to the occupations listed under § 620.3, but is not required to apply drug testing to any of them.
+
+(c) State standards governing drug testing of UC applicants must be in accordance with guidance, in the form of program letters or other issuances, issued by the Department of Labor.

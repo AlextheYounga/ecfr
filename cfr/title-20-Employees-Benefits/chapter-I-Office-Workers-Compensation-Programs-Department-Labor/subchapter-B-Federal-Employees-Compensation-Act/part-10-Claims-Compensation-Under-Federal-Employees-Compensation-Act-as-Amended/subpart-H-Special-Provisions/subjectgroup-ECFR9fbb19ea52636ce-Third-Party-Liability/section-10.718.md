@@ -1,0 +1,3 @@
+##### § 10.718 Are payments to a beneficiary as a result of an insurance policy which the beneficiary has purchased a gross recovery that must be reported to OWCP or SOL? #####
+
+Since payments received by a FECA beneficiary pursuant to an insurance policy purchased by someone other than a liable third party are not payments in satisfaction of liability for causing an injury covered by the FECA, they are not considered a gross recovery covered by section 8132 that requires filing a Statement of Recovery and paying any required refund.

@@ -1,0 +1,5 @@
+##### § 61.205 Burial expense. #####
+
+(a) When the death of a person listed in § 61.1(a) results from an injury caused by a war-risk hazard, the Office shall pay reasonable burial expenses up to the amount specified in section 9 of the Longshore and Harbor Workers' Compensation Act. If any part of the burial expense has been paid by any other agency of the United States, or by any person under obligation to discharge burial expenses, the amount so paid shall be deducted from the burial expense payable by the Office. Payment will be made directly (1) to the undertaker, (2) to the estate of the deceased if the estate is obligated to make payment, or (3) to any person who has paid such burial expenses and is entitled to such reimbursement.
+
+(b) If the employee's home is within the United States and death occurs away from the employee's home or outside the United States, the Office may pay an additional sum for transporting the remains to the home.

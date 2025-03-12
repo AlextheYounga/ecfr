@@ -1,0 +1,3 @@
+##### § 669.630 What are the requirements for designation as an “MSFW youth program grantee”? #####
+
+Any entity that meets the requirements described in the SGA may apply for designation as an “MSFW youth program grantee” consistent with requirements described in the SGA. The Department gives special consideration to an entity in any service area for which the entity has been designated as a WIA section 167 NFJP program grantee.

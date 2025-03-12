@@ -1,0 +1,3 @@
+##### § 703.208 Deposits of negotiable securities with Federal Reserve banks or the Treasurer of the United States; interest thereon. #####
+
+Deposits of negotiable securities provided for by the regulations in this part must be made with any Federal Reserve bank or any branch of a Federal Reserve bank designated by the Branch, or the Treasurer of the United States, and must be held subject to the order of the Branch. The Branch will authorize the insurance carrier to collect interest on the securities it deposits unless any of the conditions set forth at § 703.211(a) occur.

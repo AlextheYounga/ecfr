@@ -1,0 +1,9 @@
+##### § 356.1 Introduction. #####
+
+(a) The Federal Civil Penalties Inflation Adjustment Act, as amended by the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015 (28 U.S.C. 2461 note), requires that civil monetary penalties be adjusted on an annual basis by the percentage by which the Consumer Price Index for all Urban Consumers (CPI-U) for the month of October preceding the adjustment exceeds the CPI-U for the month of October of the calendar year prior to the October preceding the adjustment, with final amounts rounded to the nearest dollar. That Act also requires a one-time catch up adjustment in the amount of the percentage by which the CPI-U for October 2015 exceeds the CPI-U for the month of October of the calendar year during which the amount of civil monetary penalty was established or adjusted under a provision of law other than the Federal Civil Penalties Inflation Adjustment Act.
+
+(b) Other than adjustments under the Federal Civil Penalties Inflation Adjustment Act, the Board last established or adjusted civil monetary penalties in 1986. The CPI-U increased by 215.628 percent between October 1986 and October 2015.
+
+(c) Imposition of the increased civil monetary penalties are limited to actions occurring after the effective date of the increases.
+
+(d) The amount of the one-time catch up adjustment may not exceed 150 percent of the penalty amount or range as of November 2, 2015. The ten percent cap on increases imposed by the Debt Collection Improvements Act of 1996 was eliminated in the 2015 amendments to the Federal Civil Penalties Inflation Adjustment Act, and is no longer applicable.

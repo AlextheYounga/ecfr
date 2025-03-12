@@ -1,0 +1,3 @@
+##### § 10.716 If the required refund is not paid within 30 days of the request for repayment, can it be collected from payments due under the FECA? #####
+
+If the required refund is not paid within 30 days of the request for payment, OWCP can, in its discretion, collect the refund by withholding all or part of any payments currently payable to the beneficiary under the FECA with respect to any injury. The waiver provisions of §§ 10.432 through 10.440 do not apply to such determinations.

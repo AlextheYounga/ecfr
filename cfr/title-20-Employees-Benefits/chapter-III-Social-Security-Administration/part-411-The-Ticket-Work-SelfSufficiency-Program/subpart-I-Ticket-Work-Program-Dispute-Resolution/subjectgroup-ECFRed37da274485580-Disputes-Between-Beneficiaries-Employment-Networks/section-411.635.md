@@ -1,0 +1,3 @@
+##### § 411.635 Can a beneficiary be represented in the dispute resolution process under the Ticket to Work program? #####
+
+Yes. Both the beneficiary and the EN that is not a State VR agency may use an attorney or other individual of their choice to represent them at any step in the dispute resolution process. The P&A system in each State and U.S. Territory is available to provide assistance and advocacy services to beneficiaries seeking or receiving services under the Ticket to Work program, including assistance in resolving issues at any stage in the dispute resolution process.

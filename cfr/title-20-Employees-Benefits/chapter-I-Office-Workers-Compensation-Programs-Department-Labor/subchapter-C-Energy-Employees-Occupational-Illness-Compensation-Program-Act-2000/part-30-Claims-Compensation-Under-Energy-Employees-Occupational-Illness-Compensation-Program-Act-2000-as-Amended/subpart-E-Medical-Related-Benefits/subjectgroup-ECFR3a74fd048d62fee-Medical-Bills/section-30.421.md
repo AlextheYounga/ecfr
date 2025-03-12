@@ -1,0 +1,3 @@
+##### § 30.421 What are the time frames for submitting bills and reimbursement requests? #####
+
+To be considered for payment, bills and reimbursement requests must be submitted by the end of the calendar year after the year when the expense was incurred, or by the end of the calendar year after the year when OWCP first accepted the claim as compensable under subpart D of this part, whichever is later.

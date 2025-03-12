@@ -1,0 +1,14 @@
+##### § 404.439 Partial monthly benefits; excess earnings of the individual charged against his benefits and the benefits of persons entitled (or deemed entitled) to benefits on his earnings record. #####
+
+Deductions are made against the total family benefits where the excess earnings (as described in § 404.430) of an individual entitled to old-age insurance benefits are charged to a month and require deductions in an amount less than the total family benefits payable on his earnings record for that month (including the amount of a mother's or child's insurance benefit payable to a spouse who is deemed entitled on the individual's earnings record—see § 404.420). The difference between the total benefits payable and the deductions made under the annual earnings test for such month is paid (if otherwise payable under title II of the Act) to each person in the proportion that the benefit to which each is entitled (before the application of the reductions described in § 404.403 for the family maximum, § 404.407 for entitlement to more than one type of benefit, and section 202(q) of the Act for entitlement to benefits before retirement age) and before the application of § 404.304(f) to round to the next lower dollar bears to the total of the benefits to which all of them are entitled, except that the total amount payable to any such person may not exceed the benefits which would have been payable to that person if none of the insured individual's excess earnings had been charged to that month.
+
+Example:A is entitled to an old-age insurance benefit of $165 and his wife is entitled to $82.50 before rounding, making a total of $247.50. After A's excess earnings have been charged to the appropriate months, there remains a partial benefit of $200 payable for October, which is apportioned as follows:
+
+|                                                                                      |Original benefit|Fraction of original|Benefit<sup>1</sup>|
+|--------------------------------------------------------------------------------------|----------------|--------------------|-------------------|
+|                                          A                                           |      $165      |        2/3         |       $133        |
+|                                         Wife                                         |     82.50      |        1/3         |        66         |
+|                                        Total                                         |     247.50     |                    |        199        |
+|<sup>1</sup> After deductions for excess earnings and after rounding per § 404.304(f).|                |                    |                   |
+
+[38 FR 9429, Apr. 16, 1973, as amended at 38 FR 17717, July 3, 1973; 43 FR 8133, Feb. 28, 1978; 48 FR 46149, Oct. 11, 1983]

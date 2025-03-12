@@ -1,0 +1,3 @@
+##### § 403.155 Does SSA certify records? #####
+
+We can certify the authenticity of copies of records we disclose pursuant to 20 CFR parts 401 and 402, and this part. We will provide this service only in response to your written request. If we certify, we will do so at the time of the disclosure and will not certify copies of records that have left our custody. A request for certified copies of records previously released is considered a new request for records. Fees for this certification are set forth in 20 CFR 402.165(e).

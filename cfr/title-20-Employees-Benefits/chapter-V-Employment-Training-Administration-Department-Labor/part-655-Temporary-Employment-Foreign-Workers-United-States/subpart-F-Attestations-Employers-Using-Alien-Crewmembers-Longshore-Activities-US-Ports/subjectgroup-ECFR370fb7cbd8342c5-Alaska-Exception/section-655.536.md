@@ -1,0 +1,5 @@
+##### § 655.536 The third attestation element for locations in Alaska: No intention or design to influence bargaining representative election. #####
+
+(a) The employer shall attest that use of alien crewmembers to perform the longshore activity specified on the Form ETA 9033-A is not intended or designed to influence an election of a bargaining representative for workers in the State of Alaska.
+
+(b) *Documentation.* The employer need not develop nor maintain documentation to substantiate the statement referenced in paragraph (a) of this section. In the case of an investigation, however, the employer has the burden of proof to show that the use of alien crewmembers to perform the longshore activity specified on the Form ETA 9033-A was not intended nor designed to influence an election of a bargaining representative for workers in the State of Alaska.

@@ -1,0 +1,7 @@
+##### § 702.272 Informal recommendation by district director. #####
+
+(a) If the district director determines that the employee has been discharged or suffered discrimination and is able to resume his or her duties, the district director will recommend that the employer reinstate the employee and/or make such restitution as is indicated by the circumstances of the case, including compensation for any wage loss suffered as the result of the discharge or discrimination. The district director may also assess the employer an appropriate penalty, as determined under authority vested in the district director by the Act. If the district director determines that no violation occurred he must notify the parties of his findings and the reasons for recommending that the complaint be denied. If the employer and employee accept the district director's recommendation, within 10 days it will be incorporated in an order, to be filed and served in accordance with § 702.349.
+
+(b) If the parties do not agree to the recommendation, the district director must, within 10 days after receipt of the rejection, prepare a memorandum summarizing the disagreement, send a copy to all interested parties, and within 14 days thereafter, refer the case to the Office of the Chief Administrative Law Judge for hearing pursuant to § 702.317.
+
+[42 FR 45302, Sept. 9, 1977, as amended at 80 FR 12929, Mar. 12, 2015]

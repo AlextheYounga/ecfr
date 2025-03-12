@@ -1,0 +1,3 @@
+##### § 216.90 General. #####
+
+An individual may meet the eligibility provisions for more than one annuity described in this part. The Railroad Retirement Act generally requires that the total amount of annuities otherwise independently payable to one individual must be reduced if that individual is entitled to multiple annuities. Entitlement as a survivor includes entitlement as a widow(er), surviving divorced spouse, remarried widow(er), child, or parent.

@@ -1,0 +1,11 @@
+##### § 1001.130 Determination of compliance. #####
+
+(a) The ASVET shall have authority for applying the requirements and remedial actions necessary to implement 20 CFR part 658, subpart H. In the event of such application, references in 20 CFR part 658, subpart H, to “ETA” shall read instead “OASVET”; references to “Regional Administrator” shall read instead “RDVETS”; and references to “JS regulations” shall include this part.
+
+(b) The ASVET shall establish appropriate program and management measurement and appraisal mechanisms to ensure that the standards of performance set forth in §§ 1001.120-1001.125 of this part are met. Specific performance standards designed to measure State agency services provided to veterans and eligible persons required by § 1001.120(a) of this part will be developed administratively through negotiations between State agency administrators and SDVETS and numerical values of the standards will be published as public notices in the Federal Register. A full report of those State agencies in noncompliance with the standards of performance and their corrective action plans shall be incorporated into the Secretary's annual report to the Congress cited at § 1001.131 of this part.
+
+(c) Every effort should be made by the State agency administrator and the SDVETS to resolve all issues informally before proceeding with the formal process.
+
+(d) If it is determined by the ASVET that certain State agencies are not complying with the performance standards at §§ 1001.120-1001.125 of this part, such State agencies shall be required to provide documentary evidence to the ASVET that their failure is based on good cause. If good cause is not shown, the ASVET, pursuant to subpart H of 20 CFR part 658, shall formally designate the State agency as out of compliance, shall require it to submit a corrective action plan for the following program year, and may take other action against the State agency pursuant to subpart H of 20 CFR part 658.
+
+[49 FR 12919, Mar. 30, 1984. Redesignated and amended at 54 FR 39353, Sept. 26, 1989]

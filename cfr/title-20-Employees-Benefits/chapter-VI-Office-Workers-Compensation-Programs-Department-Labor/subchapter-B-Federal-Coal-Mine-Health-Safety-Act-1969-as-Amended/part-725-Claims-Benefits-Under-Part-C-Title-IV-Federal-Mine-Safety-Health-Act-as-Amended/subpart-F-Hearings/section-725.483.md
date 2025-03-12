@@ -1,0 +1,3 @@
+##### § 725.483 Costs in proceedings brought without reasonable grounds. #####
+
+If a United States court having jurisdiction of proceedings regarding any claim or final decision and order, determines that the proceedings have been instituted or continued before such court without reasonable ground, the costs of such proceedings shall be assessed against the party who has so instituted or continued such proceedings.

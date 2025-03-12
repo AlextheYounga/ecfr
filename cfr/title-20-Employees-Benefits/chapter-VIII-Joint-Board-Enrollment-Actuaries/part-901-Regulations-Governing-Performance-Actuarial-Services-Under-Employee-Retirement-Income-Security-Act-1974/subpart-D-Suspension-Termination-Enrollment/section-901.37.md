@@ -1,0 +1,7 @@
+##### § 901.37 Answer. #####
+
+(a) *Filing.* The respondent's answer shall be filed in writing within the time specified in the complaint or notice of initiation of the proceeding, unless, on application, the time is extended by the Executive Director or the Administrative Law Judge. The answer shall be filed in duplicate with the Executive Director.
+
+(b) *Contents.* The answer shall contain a statement of facts which constitute the grounds of defense and it shall specifically admit or deny each allegation set forth in the complaint, except that the respondent shall not deny a material allegation in the complaint which he/she knows to be true, or state that he/she is without sufficient information to form a belief when in fact the respondent possesses such information. The respondent may also state affirmatively special matters of defense.
+
+(c) *Failure to deny or answer allegations in the complaint.* Every allegation in the complaint which is not denied in the answer shall be deemed to be admitted and may be considered as proven, and no further evidence in respect of such allegation need be adduced at a hearing. Failure to file an answer within the time prescribed in the notice to the respondent, except as the time for answer is extended by the Executive Director or the Administrative Law Judge, shall constitute an admission of the allegations of the complaint and a waiver of hearing, and the Administrative Law Judge may make a decision by default, without a hearing or further procedure.

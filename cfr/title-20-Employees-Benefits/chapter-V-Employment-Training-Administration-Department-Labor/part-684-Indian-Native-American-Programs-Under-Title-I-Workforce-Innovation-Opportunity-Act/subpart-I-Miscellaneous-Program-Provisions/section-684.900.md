@@ -1,0 +1,3 @@
+##### § 684.900 Does the Workforce Innovation and Opportunity Act provide regulatory and/or statutory waiver authority? #####
+
+Yes, WIOA sec. 166(i)(3) permits waivers of any statutory or regulatory requirement of title I of WIOA that are inconsistent with the specific needs of the INA program grantee (except for the areas cited in § 684.920). Such waivers may include those necessary to facilitate WIOA support of long-term community development goals.

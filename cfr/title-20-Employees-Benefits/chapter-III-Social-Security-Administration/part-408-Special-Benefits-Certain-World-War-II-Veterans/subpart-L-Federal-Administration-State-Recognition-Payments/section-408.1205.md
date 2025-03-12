@@ -1,0 +1,3 @@
+##### § 408.1205 How can a State have SSA administer its State recognition payment program? #####
+
+A State (or political subdivision) may enter into a written agreement with SSA, under which SSA will make recognition payments on behalf of the State (or political subdivision). The regulations in effect for the SVB program also apply in the Federal administration of State recognition payments except as necessary for the effective and efficient administration of both the SVB program and the State's recognition payment program.

@@ -1,0 +1,5 @@
+##### § 672.100 What is YouthBuild? #####
+
+(a) YouthBuild is a workforce development program that provides employment, education, leadership development, and training opportunities to disadvantaged and low-income youth between the ages of 16 and 24, most of whom are secondary school drop outs and are either a member of a low-income family, a foster care youth, a youth offender, a youth with a disability, a child of an incarcerated parent, or a migrant youth.
+
+(b) Program participants receive education services that may lead to either a high school diploma or General Educational Development (GED). Further, they receive occupational skills training and are encouraged to pursue a post- secondary education or additional training, including registered apprenticeship programs. The program is designed to create a skilled workforce either in the construction industry, through the rehabilitation and construction of housing for homeless individuals and families and low- income families, as well as public facilities, or in other high wage, high-demand jobs. The program also benefits the larger community because it provides more new and rehabilitated affordable housing.

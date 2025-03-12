@@ -1,0 +1,5 @@
+##### § 498.104 Amount of assessment. #####
+
+A person subject to a penalty determined under § 498.102(a) may be subject, in addition, to an assessment of not more than twice the amount of benefits or payments paid under title II, title VIII or title XVI of the Social Security Act as a result of the statement, representation, omission, or withheld disclosure of a material fact which was the basis for the penalty. A representative payee subject to a penalty determined under § 498.102(b) may be subject, in addition, to an assessment of not more than twice the amount of benefits or payments received by the representative payee for the use and benefit of another individual and converted to a use other than for the use and benefit of such other individual. An assessment is in lieu of damages sustained by the United States because of such statement, representation, omission, withheld disclosure of a material fact, or conversion, as referred to in § 498.102(a) and (b).
+
+[71 FR 28581, May 17, 2006]

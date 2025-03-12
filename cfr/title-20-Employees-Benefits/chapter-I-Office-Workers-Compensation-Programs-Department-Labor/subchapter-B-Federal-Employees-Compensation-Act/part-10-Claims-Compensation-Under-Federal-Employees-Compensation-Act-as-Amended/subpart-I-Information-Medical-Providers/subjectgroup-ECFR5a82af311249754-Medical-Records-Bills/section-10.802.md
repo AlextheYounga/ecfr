@@ -1,0 +1,21 @@
+##### § 10.802 How should an employee prepare and submit requests for reimbursement for medical expenses, transportation costs, loss of wages, and incidental expenses? #####
+
+(a) If an employee has paid bills for medical, surgical or dental services, supplies or appliances due to an injury sustained in the performance of duty and seeks reimbursement for those expenses, he or she may submit a request for reimbursement on Form OWCP-915, together with an itemized bill on Form OWCP-1500, CMS-1500, OWCP-04 or UB-04 prepared by the provider and a medical report as provided in § 10.800, to OWCP.
+
+(1) The provider of such service shall state each diagnosed condition and furnish the applicable ICD-9-CM code, or as revised, and identify each service performed using the applicable HCPCS/CPT code, with a brief narrative description of the service performed, or, where no code is applicable, a detailed description of that service. If no code or description is received, OWCP will deny the reimbursement request and correction and resubmission will be required.
+
+(2) The reimbursement request must be accompanied by evidence that the provider received payment for the service from the employee and a statement of the amount paid. Acceptable evidence that payment was received includes, but is not limited to, a signed statement by the provider, a mechanical stamp or other device showing receipt of payment, a copy of the employee's canceled check (both front and back) or a copy of the employee's credit card receipt or a form indicating a balance of zero to the provider.
+
+(b) If services were provided by a hospital, pharmacy or nursing home, the employee should submit the bill in accordance with the provisions of § 10.801(a). Any request for reimbursement must be accompanied by evidence, as described in paragraph (a) of this section, that the provider received payment for the service from the employee and a statement of the amount paid.
+
+(c) OWCP may waive the requirements of paragraphs (a) and (b) of this section if extensive delays in the filing or the adjudication of a claim make it unusually difficult for the employee to obtain the required information.
+
+(d) OWCP will not accept copies of bills for reimbursement unless they bear the signature of the provider, with evidence of payment. Payment for medical and surgical treatment, appliances or supplies shall in general be no greater than the maximum allowable charge for such service determined by the Director, as set forth in § 10.805.
+
+(e) An employee will be only partially reimbursed for a medical expense if the amount he or she paid to a provider for the service exceeds the maximum allowable charge set by the Director's schedule. If this happens, OWCP shall advise the employee of the maximum allowable charge for the service in question and of his or her responsibility to ask the provider to refund to the employee, or credit to the employee's account, the amount he or she paid which exceeds the maximum allowable charge. The provider may request reconsideration of the fee determination as set forth in § 10.812.
+
+(f) If the provider fails to make appropriate refund to the employee, or to credit the employee's account, within 60 days after the employee requests a refund of any excess amount, or the date of a subsequent reconsideration decision which continues to disallow all or a portion of the appealed amount, the provider shall be subject to exclusion procedures as provided by § 10.815.
+
+(g) If the provider does not refund to the employee or credit to his or her account the amount of money paid in excess of the charge which OWCP allows, the employee should submit documentation of the attempt to obtain such refund or credit to OWCP. OWCP may make reasonable reimbursement to the employee after reviewing the facts and circumstances of the case.
+
+(h) If an employee seeks reimbursement for transportation costs, loss of wages or incidental expenses related to medical treatment under this part, that employee may submit such reimbursement request on the Medical Travel Refund Request OWCP-957 form to OWCP along with all proof of payment. Requests for reimbursement for lost wages under this subsection must include an official statement from the employing agency indicating the amount of wage loss.

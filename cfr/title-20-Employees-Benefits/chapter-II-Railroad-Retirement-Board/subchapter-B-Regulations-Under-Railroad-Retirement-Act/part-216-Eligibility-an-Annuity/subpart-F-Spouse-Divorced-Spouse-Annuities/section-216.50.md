@@ -1,0 +1,3 @@
+##### § 216.50 General. #####
+
+The Railroad Retirement Act provides annuities for the spouse, and divorced spouse, of an employee who is entitled to an employee annuity. A spouse may receive an annuity based on age, or on having a child of the employee in his or her care. A divorced spouse may only receive an annuity based on age. No spouse or divorced spouse annuity may be paid based upon disability.

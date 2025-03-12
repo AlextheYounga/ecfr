@@ -1,0 +1,3 @@
+##### § 672.535 What effect do payments to YouthBuild participants have on eligibility for other Federal need-based benefits? #####
+
+Under 20 CFR 667.272(c), allowances, earnings, and payments to individuals participating in programs under Title I of WIA are not considered as income for purposes of determining eligibility for and the amount of income transfer and in-kind aid furnished under any Federal or Federally-assisted program based on need other than as provided under the Social Security Act (42 U.S.C. 301).

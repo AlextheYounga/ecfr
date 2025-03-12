@@ -1,0 +1,5 @@
+##### § 663.200 What are intensive services for adults and dislocated workers? #####
+
+(a) Intensive services are listed in WIA section 134(d)(3)(C). The list in the Act is not all-inclusive and other intensive services, such as out-of-area job search assistance, literacy activities related to basic workforce readiness, relocation assistance, internships, and work experience may be provided, based on an assessment or individual employment plan.
+
+(b) For the purposes of paragraph (a) of this section, work experience is a planned, structured learning experience that takes place in a workplace for a limited period of time. Work experience may be paid or unpaid, as appropriate. A work experience workplace may be in the private for profit sector, the non-profit sector, or the public sector. Labor standards apply in any work experience where an employee/employer relationship, as defined by the Fair Labor Standards Act, exists.

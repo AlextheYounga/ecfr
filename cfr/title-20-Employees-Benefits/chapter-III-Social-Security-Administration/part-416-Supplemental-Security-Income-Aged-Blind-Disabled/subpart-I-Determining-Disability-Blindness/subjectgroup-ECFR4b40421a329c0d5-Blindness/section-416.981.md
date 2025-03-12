@@ -1,0 +1,3 @@
+##### § 416.981 Meaning of blindness as defined in the law. #####
+
+We will consider you blind under the law for payment of supplemental security income benefits if we determine that you are statutorily blind. Statutory blindness is central visual acuity of 20/200 or less in the better eye with the use of a correcting lens. An eye which has a limitation in the field of vision so that the widest diameter of the visual field subtends an angle no greater than 20 degrees is considered to have a central visual acuity of 20/200 or less.

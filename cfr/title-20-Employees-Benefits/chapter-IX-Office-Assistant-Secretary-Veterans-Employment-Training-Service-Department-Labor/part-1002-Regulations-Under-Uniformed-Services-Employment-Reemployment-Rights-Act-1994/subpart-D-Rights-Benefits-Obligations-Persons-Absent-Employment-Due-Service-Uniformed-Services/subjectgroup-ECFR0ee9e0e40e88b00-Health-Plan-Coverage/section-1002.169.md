@@ -1,0 +1,3 @@
+##### § 1002.169 Can the employee elect to delay reinstatement of health plan coverage until a date after the date he or she is reemployed? #####
+
+USERRA requires the employer to reinstate health plan coverage upon request at reemployment. USERRA permits but does not require the employer to allow the employee to delay reinstatement of health plan coverage until a date that is later than the date of reemployment.

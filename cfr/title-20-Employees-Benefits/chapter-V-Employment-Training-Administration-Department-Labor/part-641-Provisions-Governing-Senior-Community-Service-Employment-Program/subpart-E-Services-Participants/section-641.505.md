@@ -1,0 +1,3 @@
+##### § 641.505 When is eligibility determined? #####
+
+Initial eligibility is determined at the time individuals apply to participate in the SCSEP. Once individuals become SCSEP participants, the grantee or sub-recipient is responsible for verifying their continued eligibility at least once every 12 months. Grantees and sub-recipients may also verify an individual's eligibility as circumstances require, including instances when enrollment is delayed.

@@ -1,0 +1,5 @@
+##### § 681.590 What is the work experience priority and how will local youth programs track the work experience priority? #####
+
+(a) Local youth programs must expend not less than 20 percent of the funds allocated to them to provide ISY and OSY with paid and unpaid work experiences that fall under the categories listed in § 681.460(a)(3) and further defined in § 681.600.
+
+(b) Local WIOA youth programs must track program funds spent on paid and unpaid work experiences, including wages and staff costs for the development and management of work experiences, and report such expenditures as part of the local WIOA youth financial reporting. The percentage of funds spent on work experience is calculated based on the total local area youth funds expended for work experience rather than calculated separately for ISY and OSY. Local area administrative costs are not subject to the 20 percent minimum work experience expenditure requirement.

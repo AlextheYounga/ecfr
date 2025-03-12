@@ -1,0 +1,3 @@
+##### § 726.210 Agreement to be bound by report. #####
+
+Every carrier seeking to write insurance under the provisions of the Act shall be deemed to have agreed that the acceptance by the Office of a report of the issuance or renewal of a policy of insurance, as provided for by § 726.208 shall bind the carrier to full liability for the obligations under the Act of the operator named in said report. It shall be no defense to this agreement that the carrier failed or delayed to issue, cancel, or renew the policy to the operator covered by this report.

@@ -1,0 +1,5 @@
+##### § 75.714 Subgrants, contracts, and other agreements with faith-based organizations. #####
+
+If a grantee under a discretionary grant program of the Department has the authority under the grant to select a private organization to provide services supported by direct Federal financial assistance under the program by subgrant, contract, or other agreement, the grantee must ensure compliance with applicable Federal requirements governing contracts, grants, and other agreements with faith-based organizations, including, as applicable, §§ 75.52, 75.532, and 75.712-75.713, appendix A to this part, and 2 CFR 3474.15. If the intermediary is a nongovernmental organization, it retains all other rights of a nongovernmental organization under the program's statutory and regulatory provisions.
+
+(Authority: 20 U.S.C. 1221e-3 and 3474, E.O. 13559)[81 FR 19407, Apr. 4, 2016]

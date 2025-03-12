@@ -1,0 +1,5 @@
+##### § 404.1519m Diagnostic tests or procedures. #####
+
+We will request the results of any diagnostic tests or procedures that have been performed as part of a workup by your treating source or other medical source and will use the results to help us evaluate impairment severity or prognosis. However, we will not order diagnostic tests or procedures that involve significant risk to you, such as myelograms, arteriograms, or cardiac catheterizations for the evaluation of disability under the Social Security program. A State agency medical consultant must approve the ordering of any diagnostic test or procedure when there is a chance it may involve significant risk. The responsibility for deciding whether to perform the examination rests with the medical source designated to perform the consultative examination.
+
+[56 FR 36957, Aug. 1, 1991, as amended at 65 FR 11876, Mar. 7, 2000; 71 FR 16444, Mar. 31, 2006; 76 FR 24806, May 3, 2011]

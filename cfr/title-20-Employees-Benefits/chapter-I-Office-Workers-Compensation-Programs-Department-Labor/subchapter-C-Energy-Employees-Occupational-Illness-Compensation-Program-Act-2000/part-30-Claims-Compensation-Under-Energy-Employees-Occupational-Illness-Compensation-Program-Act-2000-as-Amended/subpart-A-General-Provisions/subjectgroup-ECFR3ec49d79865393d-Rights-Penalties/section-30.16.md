@@ -1,0 +1,5 @@
+##### § 30.16 What penalties may be imposed in connection with a claim under the Act? #####
+
+(a) Other statutory provisions make it a crime to file a false or fraudulent claim or statement with the federal government in connection with a claim under the Act. Included among these provisions is 18 U.S.C. 1001. Enforcement of criminal provisions that may apply to claims under the Act is within the jurisdiction of the Department of Justice.
+
+(b) In addition, administrative proceedings may be initiated under the Program Fraud Civil Remedies Act of 1986 (PFCRA), 31 U.S.C. 3801 *et seq.,* to impose civil penalties and assessments against persons or entities who make, submit or present, or cause to be made, submitted or presented, false, fictitious or fraudulent claims or written statements to OWCP in connection with a claim under EEOICPA. The Department's regulations implementing PFCRA are found at 29 CFR part 22.

@@ -1,0 +1,3 @@
+##### § 10.803 What are the time limitations on OWCP's payment of bills? #####
+
+OWCP will pay providers and reimburse employees promptly for all bills received on an approved form and in a timely manner. However, no bill will be paid for expenses incurred if the bill is submitted more than one year beyond the end of the calendar year in which the expense was incurred or the service or supply was provided, or more than one year beyond the end of the calendar year in which the claim was first accepted as compensable by OWCP, whichever is later.

@@ -1,0 +1,13 @@
+##### § 220.164 Employee end-of-year adjustment. #####
+
+(a) *General.* After the end of a year, the employee whose annuity was withheld for earnings over $400 in a month receives a form on which to report his or her earnings for the year.
+
+(b) *Earnings are less than $5000.* If the employee's yearly earnings are less than $5000, all annuity payments and penalties withheld during the year because of earnings over $4800 are paid.
+
+(c) *Earnings are $5000 or more.* (1) If the employee's yearly earnings are $5000 or more, the annuity payments are adjusted so that the employee does not have more than one regular deduction for every $400 of earnings over $4800. The last $200 or more of earnings over $4800 is treated as if it were $400. If the annuity rate changes during the year, any annuities due at the end of the year are paid first for months in which the annuity rate is higher. Penalty deductions may also apply as described in paragraph (c)(2) of this section.
+
+(2) If the employee's yearly earnings are $5000 or more and the employee failed to report monthly earnings over $400 within the time limit described in § 220.162(b), penalty deductions will also apply. If it is the employee's first failure to report, the penalty deduction is equal to one month's annuity. If it is the employee's second or later failure to report, the penalty deduction equals the annuity amount for each month in which the employee earned over $400 and failed to report it on time.
+
+(d) This section is illustrated by the following examples:
+
+Example 1:Employee is awarded a disability annuity based upon his inability to engage in his regular railroad occupation effective January 1, 1989. During that year, he works April through October, for which he receives $785 per month. He does not report these earnings to the Board until January of the following year. The employee is considered to have earned $5600 (7 × $785 = $5495, which is rounded up to the nearest $400). He forfeits three months of annuities:![](/graphics/ec14no91.107.gif)Example 2:The same employee in the following year also works April through October, for which he receives $785 per month. This time he reports the earnings on October 31. This year he forfeits 6 months of annuity payments, 2 due to earnings, computed as above, and 4 more due to penalty deductions for failure to report earnings over $400 for the months April through July. There are no penalty deductions with respect to the months August, September, and October, since the employee reported these earnings prior to accepting an annuity for the second month after the month of earnings in excess of $400.

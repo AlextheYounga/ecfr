@@ -1,0 +1,7 @@
+##### § 418.3415 How do we determine countable resources? #####
+
+(a) *General rule.* Your countable resources are determined as of the first moment of the month for which we determine your eligibility based on your application for a subsidy or for which we redetermine your eligibility for a subsidy. A resource determination is based on what assets you (and your living-with spouse, if any) have, what their values are, and whether they are excluded as of the first moment of the month. We will use this amount as your countable resources at the point when we determine your eligibility for the subsidy unless you report to us that the value of your resources has changed as described in § 418.3120.
+
+(b) *Equity value.* Resources, other than cash, are evaluated according to your (and your spouse's, if any) equity in the resources. For purposes of this subpart, the equity value of an item is defined as the price for which that item, minus any encumbrances, can reasonably be expected to sell on the open market in the particular geographic area involved.
+
+(c) *Relationship of income to resources.* Cash you receive during a month is evaluated under the rules for counting income during the month of receipt. If you retain the cash until the first moment of the following month, the cash is countable as a resource unless it is otherwise excludable.

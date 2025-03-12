@@ -1,0 +1,9 @@
+##### § 655.1150 What materials must be available to the public? #####
+
+(a) *Public examination at ETA.* ETA will make available, upon request, for public examination at the Office of Foreign Labor Certification, Employment Training Administration, U.S. Department of Labor, Room C-4312, 200 Constitution Avenue, NW., Washington, DC 20210, a list of facilities which have filed attestations; a copy of the facility's attestation(s) and any supporting documentation; and a copy of each of the facility's H-1C petitions (if any) to USCIS along with the USCIS approval notices (if any).
+
+(b) *Public examination at facility.* For the duration of the Attestation's validity and thereafter for so long as the facility employs any H-1C nurse under the Attestation, the facility must maintain a separate file containing a copy of the Attestation, a copy of the prevailing wage determination, a description of the facility pay system or a copy of the facility's pay schedule if either document exists, copies of the notices provided under § 655.1115 and § 655.1116, a description of the “timely and significant steps” as described in § 655.1114, and any other documentation required by this part to be contained in the public access file. The facility must make this file available to any interested parties within 72 hours upon written or oral request. If a party requests a copy of the file, the facility shall provide it and any charge for such copy shall not exceed the cost of reproduction.
+
+(c) *ETA Notice to public.* ETA will periodically publish a notice in the Federal Register announcing the names and addresses of facilities which have submitted Attestations; facilities which have Attestations on file; facilities which have submitted Attestations which have been rejected for filing; and facilities which have had Attestations suspended.
+
+[65 FR 51149, Aug. 22, 2000, as amended at 75 FR 10406, Mar. 5, 2010]

@@ -1,0 +1,3 @@
+##### § 725.539 More than one reduction event. #####
+
+If a reduction for receipt of State or Federal benefits and a reduction on account of excess earnings are chargeable to the same month, the benefit for such month is first reduced (but not below zero) by the amount of the State or Federal benefits, and the remainder of the benefit for such month, if any, is then reduced (but not below zero) by the amount of excess earnings chargeable to such month.

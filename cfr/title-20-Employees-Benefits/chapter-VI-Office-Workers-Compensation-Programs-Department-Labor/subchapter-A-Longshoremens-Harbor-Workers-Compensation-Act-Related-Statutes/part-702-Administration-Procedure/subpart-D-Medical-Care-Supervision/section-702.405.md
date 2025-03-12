@@ -1,0 +1,5 @@
+##### § 702.405 Selection of physician; emergencies. #####
+
+Whenever the nature of the injury is such that immediate medical care is required and the injured employee is unable to select a physician, the employer shall select a physician. Thereafter the employee may change physicians when he is able to make a selection. Such changes shall be made upon obtaining written authorization from the employer or, if consent is withheld, from the district director. The Director will direct reimbursement of medical claims for services rendered by physicians or health care providers who are on the list of those excluded from providing care under the Act, if such services were rendered in an emergency. (See §§ 702.417 and 702.435(b)).
+
+[38 FR 26861, Sept. 26, 1973, as amended at 50 FR 402, Jan. 3, 1985]

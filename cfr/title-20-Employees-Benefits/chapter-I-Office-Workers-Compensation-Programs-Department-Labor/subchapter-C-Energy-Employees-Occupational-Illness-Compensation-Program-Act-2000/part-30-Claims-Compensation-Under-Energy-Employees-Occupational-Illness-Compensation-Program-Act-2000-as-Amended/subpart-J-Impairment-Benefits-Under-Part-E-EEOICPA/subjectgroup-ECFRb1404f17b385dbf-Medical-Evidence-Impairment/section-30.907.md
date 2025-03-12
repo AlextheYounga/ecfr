@@ -1,0 +1,5 @@
+##### § 30.907 Can an impairment evaluation obtained by OWCP be challenged prior to issuance of the recommended decision? #####
+
+(a) An employee may submit arguments challenging an impairment evaluation, and/or additional medical evidence of impairment, before the district office issues a recommended decision on his or her claim. However, the district office will not consider an additional impairment evaluation, even if it differs from the impairment evaluation obtained under § 30.905 or § 30.906, if it does not meet the criteria listed in § 30.905(b)(1), (2) and (3).
+
+(b) If the district office obtains an additional impairment evaluation that differs from the impairment evaluation obtained under § 30.905 or § 30.906, the district office will base its recommended determinations regarding impairment upon the evidence it considers to have the greatest probative value, after evaluating all relevant evidence of impairment in the record, including evidence from directed impairment evaluations and referee impairment evaluations, if any, that it deems necessary pursuant to §§ 30.410 and 30.411 of this part.

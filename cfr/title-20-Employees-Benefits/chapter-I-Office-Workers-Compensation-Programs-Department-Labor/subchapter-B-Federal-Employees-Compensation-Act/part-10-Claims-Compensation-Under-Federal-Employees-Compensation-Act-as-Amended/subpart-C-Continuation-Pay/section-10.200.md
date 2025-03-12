@@ -1,0 +1,9 @@
+##### § 10.200 What is continuation of pay? #####
+
+(a) For most employees who sustain a traumatic injury, the FECA provides that the employer must continue the employee's regular pay during any periods of resulting disability, up to a maximum of 45 calendar days. This is called continuation of pay, or COP. The employer, not OWCP, pays COP. Unlike wage loss benefits, COP is subject to taxes and all other payroll deductions that are made from regular income.
+
+(b) The employer must continue the pay of an employee, except for Postal Service employees pursuant to 5 U.S.C. 8117 and as provided below in paragraph (c) of this section, who is eligible for COP, and may not require the employee to use his or her own sick or annual leave, unless the provisions of § 10.200(c), § 10.220, or § 10.222 apply. However, while continuing the employee's pay, the employer may controvert the employee's COP entitlement pending a final determination by OWCP. OWCP has the exclusive authority to determine questions of entitlement and all other issues relating to COP.
+
+(c) Postal Service employees are not entitled to continuation of pay for the first 3 days of temporary disability and may use annual, sick or leave without pay during that period, except that if the disability exceeds 14 days or is followed by permanent disability, the Postal Service employee may have that leave restored.
+
+(d) The FECA excludes certain persons from eligibility for COP. COP cannot be authorized for members of these excluded groups, which include but are not limited to: persons rendering personal service to the United States similar to the service of a civil officer or employee of the United States, without pay or for nominal pay; volunteers (for instance, in the Civil Air Patrol and Peace Corps); Job Corps and Youth Conservation Corps enrollees; individuals in work- study programs, and grand or petit jurors (unless otherwise Federal employees).

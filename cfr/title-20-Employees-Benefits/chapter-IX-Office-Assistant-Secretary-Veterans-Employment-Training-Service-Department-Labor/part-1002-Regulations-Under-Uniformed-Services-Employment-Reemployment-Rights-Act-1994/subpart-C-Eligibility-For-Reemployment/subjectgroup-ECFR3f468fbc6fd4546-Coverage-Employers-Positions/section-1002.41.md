@@ -1,0 +1,3 @@
+##### § 1002.41 Does an employee have rights under USERRA even though he or she holds a temporary, part-time, probationary, or seasonal employment position? #####
+
+USERRA rights are not diminished because an employee holds a temporary, part-time, probationary, or seasonal employment position. However, an employer is not required to reemploy an employee if the employment he or she left to serve in the uniformed services was for a brief, nonrecurrent period and there is no reasonable expectation that the employment would have continued indefinitely or for a significant period. The employer bears the burden of proving this affirmative defense.

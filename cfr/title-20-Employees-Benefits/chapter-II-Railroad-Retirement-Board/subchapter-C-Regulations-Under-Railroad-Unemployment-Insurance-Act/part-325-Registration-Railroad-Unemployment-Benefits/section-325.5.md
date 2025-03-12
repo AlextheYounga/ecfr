@@ -1,0 +1,3 @@
+##### § 325.5 Death of employee. #####
+
+If an employee dies before filing one or more of the required forms, the form or forms may be filed by or in behalf of the person or persons to whom benefits would be payable pursuant to section 2(g) of the Act. Such form or forms shall be filed within the time prescribed in § 325.3. Under these circumstances, the word “employee”, as used in this part, shall include the individual or individuals by or in behalf of whom the form is filed.

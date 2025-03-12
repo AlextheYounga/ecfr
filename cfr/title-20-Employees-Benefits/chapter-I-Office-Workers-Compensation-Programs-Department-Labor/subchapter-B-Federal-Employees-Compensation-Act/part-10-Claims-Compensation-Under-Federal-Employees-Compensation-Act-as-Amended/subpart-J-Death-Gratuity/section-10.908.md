@@ -1,0 +1,3 @@
+##### § 10.908 Can an employee designate alternate beneficiaries to receive a portion of the death gratuity payment? #####
+
+An employee may designate another person or persons to receive not more than 50 percent of the death gratuity payment pursuant to the designation procedures in § 10.909. Only living persons, rather than trusts, corporations or other legal entities, may be designated under this subsection. The balance of the death gratuity will be paid according to the order of precedence described in § 10.907.

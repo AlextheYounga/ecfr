@@ -1,0 +1,25 @@
+##### § 725.495 Criteria for determining a responsible operator. #####
+
+(a)(1) The operator responsible for the payment of benefits in a claim adjudicated under this part (the “responsible operator”) shall be the potentially liable operator, as determined in accordance with § 725.494, that most recently employed the miner.
+
+(2) If more than one potentially liable operator may be deemed to have employed the miner most recently, then the liability for any benefits payable as a result of such employment shall be assigned as follows:
+
+(i) First, to the potentially liable operator that directed, controlled, or supervised the miner;
+
+(ii) Second, to any potentially liable operator that may be considered a successor operator with respect to miners employed by the operator identified in paragraph (a)(2)(i) of this section; and
+
+(iii) Third, to any other potentially liable operator which may be deemed to have been the miner's most recent employer pursuant to § 725.493.
+
+(3) If the operator that most recently employed the miner may not be considered a potentially liable operator, as determined in accordance with § 725.494, the responsible operator shall be the potentially liable operator that next most recently employed the miner. Any potentially liable operator that employed the miner for at least one day after December 31, 1969 may be deemed the responsible operator if no more recent employer may be considered a potentially liable operator.
+
+(4) If the miner's most recent employment by an operator ended while the operator was authorized to self-insure its liability under part 726 of this title, and that operator no longer possesses sufficient assets to secure the payment of benefits, the provisions of paragraph (a)(3) shall be inapplicable with respect to any operator that employed the miner only before he was employed by such self-insured operator. If no operator that employed the miner after his employment with the self-insured operator meets the conditions of § 725.494, the claim of the miner or his survivor shall be the responsibility of the Black Lung Disability Trust Fund.
+
+(b) Except as provided in this section and § 725.408(a)(3), with respect to the adjudication of the identity of a responsible operator, the Director shall bear the burden of proving that the responsible operator initially found liable for the payment of benefits pursuant to § 725.410 (the “designated responsible operator”) is a potentially liable operator. It shall be presumed, in the absence of evidence to the contrary, that the designated responsible operator is capable of assuming liability for the payment of benefits in accordance with § 725.494(e).
+
+(c) The designated responsible operator shall bear the burden of proving either:
+
+(1) That it does not possess sufficient assets to secure the payment of benefits in accordance with § 725.606; or
+
+(2) That it is not the potentially liable operator that most recently employed the miner. Such proof must include evidence that the miner was employed as a miner after he or she stopped working for the designated responsible operator and that the person by whom he or she was employed is a potentially liable operator within the meaning of § 725.494. In order to establish that a more recent employer is a potentially liable operator, the designated responsible operator must demonstrate that the more recent employer possesses sufficient assets to secure the payment of benefits in accordance with § 725.606. The designated responsible operator may satisfy its burden by presenting evidence that the owner, if the more recent employer is a sole proprietorship; the partners, if the more recent employer is a partnership; or the president, secretary, and treasurer, if the more recent employer is a corporation that failed to secure the payment of benefits pursuant to part 726 of this subchapter, possess assets sufficient to secure the payment of benefits, provided such assets may be reached in a proceeding brought under subpart I of this part.
+
+(d) In any case referred to the Office of Administrative Law Judges pursuant to § 725.421 in which the operator finally designated as responsible pursuant to § 725.418(d) is not the operator that most recently employed the miner, the record shall contain a statement from the district director explaining the reasons for such designation. If the reasons include the most recent employer's failure to meet the conditions of § 725.494(e), the record shall also contain a statement that the Office has searched the files it maintains pursuant to part 726, and that the Office has no record of insurance coverage for that employer, or of authorization to self-insure, that meets the conditions of § 725.494(e)(1) or (e)(2). Such a statement shall be prima facie evidence that the most recent employer is not financially capable of assuming its liability for a claim. In the absence of such a statement, it shall be presumed that the most recent employer is financially capable of assuming its liability for a claim.

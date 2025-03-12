@@ -1,0 +1,3 @@
+##### § 725.460 Consolidated hearings. #####
+
+When two or more hearings are to be held, and the same or substantially similar evidence is relevant and material to the matters at issue at each such hearing, the Chief Administrative Law Judge may, upon motion by any party or on his or her own motion, order that a consolidated hearing be conducted. Where consolidated hearings are held, a single record of the proceedings shall be made and the evidence introduced in one claim may be considered as introduced in the others, and a separate or joint decision shall be made, as appropriate.

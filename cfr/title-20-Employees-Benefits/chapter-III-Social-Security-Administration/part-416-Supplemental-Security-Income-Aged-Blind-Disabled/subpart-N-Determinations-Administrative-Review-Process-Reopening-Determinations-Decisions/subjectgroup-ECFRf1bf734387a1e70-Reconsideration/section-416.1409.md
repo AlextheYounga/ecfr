@@ -1,0 +1,5 @@
+##### § 416.1409 How to request reconsideration. #####
+
+(a) We shall reconsider an initial determination if you or any other party to the reconsideration files a written request at one of our offices within 60 days after the date you receive notice of the initial determination (or within the extended time period if we extend the time as provided in paragraph (b) of this section).
+
+(b) *Extension of time to request a reconsideration.* If you want a reconsideration of the initial determination but do not request one in time, you may ask us for more time to request a reconsideration. Your request for an extension of time must be in writing and it must give the reasons why the request for reconsideration was not filed within the stated time period. If you show us that you had good cause for missing the deadline, we will extend the time period. To determine whether good cause exists, we use the standards explained in § 416.1411.

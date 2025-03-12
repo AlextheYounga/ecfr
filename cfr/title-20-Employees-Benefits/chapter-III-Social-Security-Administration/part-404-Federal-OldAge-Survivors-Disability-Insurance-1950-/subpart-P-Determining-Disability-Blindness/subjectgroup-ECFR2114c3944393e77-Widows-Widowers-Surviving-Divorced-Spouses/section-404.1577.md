@@ -1,0 +1,5 @@
+##### § 404.1577 Disability defined for widows, widowers, and surviving divorced spouses for monthly benefits payable for months prior to January 1991. #####
+
+For monthly benefits payable for months prior to January 1991, the law provides that to be entitled to a widow's or widower's benefit as a disabled widow, widower, or surviving divorced spouse, you must have a medically determinable physical or mental impairment which can be expected to result in death or has lasted or can be expected to last for a continuous period of not less than 12 months. The impairment(s) must have been of a level of severity to prevent a person from doing any gainful activity. To determine whether you were disabled, we consider only your physical or mental impairment(s). We do not consider your age, education, and work experience. We also do not consider certain felony-related and prison-related impairments, as explained in § 404.1506. (For monthly benefits payable for months after December 1990, see § 404.1505(a).)
+
+[57 FR 30120, July 8, 1992]

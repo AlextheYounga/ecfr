@@ -1,0 +1,3 @@
+##### § 1002.62 Does USERRA cover a member of the Commissioned Corps of the National Oceanic and Atmospheric Administration, the Civil Air Patrol, or the Coast Guard Auxiliary? #####
+
+No. Although the Commissioned Corps of the National Oceanic and Atmospheric Administration (NOAA) is a “uniformed service” for some purposes, it is not included in USERRA's definition of this term. Service in the Civil Air Patrol and the Coast Guard Auxiliary similarly is not considered “service in the uniformed services” for purposes of USERRA. Consequently, service performed in the Commissioned Corps of the National Oceanic and Atmospheric Administration (NOAA), the Civil Air Patrol, and the Coast Guard Auxiliary is not protected by USERRA.

@@ -1,0 +1,3 @@
+##### § 255.5 Recovery by cash payment. #####
+
+The Board shall have the right to require that an overpayment to an individual be immediately and fully repaid in cash by that individual. However, if the Board determines that the individual is financially unable to pay the amount of the indebtedness in a lump sum, payment may be accepted in regular installments in accordance with the Federal Claims Collection Standards, found in 4 CFR chapter 2. These standards provide that whenever possible installment payments should be sufficient in amounts and frequency to liquidate the debt in not more than 3 years.

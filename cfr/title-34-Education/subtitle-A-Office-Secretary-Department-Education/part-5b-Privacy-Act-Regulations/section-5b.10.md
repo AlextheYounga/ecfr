@@ -1,0 +1,3 @@
+##### § 5b.10 Parents and guardians. #####
+
+For the purpose of this part, a parent or guardian of any minor or the legal guardian or any individual who has been declared incompetent due to physical or mental incapacity or age by a court of competent jurisdiction is authorized to act on behalf of an individual or a subject individual. Except as provided in paragraph (b)(2) of § 5b.5, of this part governing procedures for verifying an individual's identity, an individual authorized to act on behalf of a minor or legal incompetent will be viewed as if he were the individual or subject individual.

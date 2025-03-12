@@ -1,0 +1,3 @@
+##### § 725.227 Time of determination of relationship and dependency of survivors. #####
+
+The determination as to whether an individual purporting to be an entitled survivor of a miner or beneficiary was related to, or dependent upon, the miner is made after such individual files a claim for benefits as a survivor. Such determination is based on the facts and circumstances with respect to a reasonable period of time ending with the miner's death. A prior determination that such individual was, or was not, a dependent for the purposes of augmenting the miner's benefits for a certain period, is not determinative of the issue of whether the individual is a dependent survivor of such miner.

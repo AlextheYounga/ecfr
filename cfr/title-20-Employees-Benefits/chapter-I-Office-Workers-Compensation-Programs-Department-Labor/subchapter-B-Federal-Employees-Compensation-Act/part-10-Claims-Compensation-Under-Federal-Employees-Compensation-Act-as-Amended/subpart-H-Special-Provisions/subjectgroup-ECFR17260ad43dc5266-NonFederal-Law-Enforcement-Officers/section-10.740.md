@@ -1,0 +1,5 @@
+##### § 10.740 In what situations will OWCP automatically presume that a law enforcement officer is covered by the FECA? #####
+
+(a) Where an officer is detailed by a competent State or local authority to assist a Federal law enforcement authority in the protection of the President of the United States, or any other person actually provided or entitled to U.S. Secret Service protection, coverage will be extended.
+
+(b) Coverage for officers of the U.S. Park Police and those officers of the Uniformed Division of the U.S. Secret Service who participate in the District of Columbia Retirement System is adjudicated under the principles set forth in paragraph (a) of this section, and does not extend to numerous tangential activities of law enforcement (for example, reporting to work, changing clothes). However, officers of the Non-Uniformed Division of the U.S. Secret Service who participate in the District of Columbia Retirement System are covered under the FECA during the performance of all official duties.

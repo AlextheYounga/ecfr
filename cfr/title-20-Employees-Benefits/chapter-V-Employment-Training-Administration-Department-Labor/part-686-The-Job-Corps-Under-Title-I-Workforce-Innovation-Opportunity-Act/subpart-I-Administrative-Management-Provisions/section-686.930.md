@@ -1,0 +1,5 @@
+##### § 686.930 Are Job Corps operators and service providers authorized to pay State or local taxes on gross receipts? #####
+
+(a) A private for-profit or a non-profit Job Corps service provider is not liable, directly or indirectly, to any State or subdivision for any gross receipts taxes, business privilege taxes measured by gross receipts, or any similar taxes in connection with any payments made to or by such service provider for operating a center or other Job Corps program or activity. The service provider is not liable to any State or subdivision to collect or pay any sales, excise, use, or similar tax imposed upon the sale to or use by such deliverer of any property, service, or other item in connection with the operation of a center or other Job Corps program or activity.
+
+(b) If a State or local authority compels a center operator or other service provider to pay such taxes, the center operator or service provider may pay the taxes with Federal funds, but must document and report the State or local requirement according to procedures issued by the Secretary.

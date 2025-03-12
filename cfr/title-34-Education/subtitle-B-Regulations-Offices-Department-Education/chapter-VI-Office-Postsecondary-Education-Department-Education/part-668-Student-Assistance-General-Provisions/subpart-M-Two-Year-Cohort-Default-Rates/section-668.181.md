@@ -1,0 +1,7 @@
+##### § 668.181 Purpose of this subpart. #####
+
+(a) *General.* Your cohort default rate is a measure we use to determine your eligibility to participate in various Title IV, HEA programs. We may also use it for determining your eligibility for exemptions, such as those for certain disbursement requirements under the FFEL and Direct Loan Programs. This subpart applies solely to cohorts, as defined in §§ 668.182(a) and 668.183(b), for fiscal years through 2011. For these cohorts, this subpart describes how cohort default rates are calculated, some of the consequences of cohort default rates, and how you may request changes to your cohort default rates or appeal their consequences. Under this subpart, you submit a “challenge” after you receive your draft cohort default rate, and you request an “adjustment” or “appeal” after your official cohort default rate is published.
+
+(b) *Cohort Default Rates.* Notwithstanding anything to the contrary in this subpart, we will issue annually two sets of draft and official cohort default rates for fiscal years 2009, 2010, and 2011. For each of these years, you will receive one set of draft and official cohort default rates under this subpart and another set of draft and official cohort default rates under subpart N of this part.
+
+(Approved by the Office of Management and Budget under control number 1845-0022)(Authority: 20 U.S.C. 1082, 1085, 1094, 1099c)[74 FR 55649, Oct. 28, 2009]

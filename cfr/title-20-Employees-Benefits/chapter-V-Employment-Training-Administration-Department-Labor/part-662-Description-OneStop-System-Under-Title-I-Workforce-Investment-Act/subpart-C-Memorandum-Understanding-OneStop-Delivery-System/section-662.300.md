@@ -1,0 +1,5 @@
+##### § 662.300 What is the Memorandum of Understanding (MOU)? #####
+
+(a) The Memorandum of Understanding (MOU) is an agreement developed and executed between the Local Board, with the agreement of the chief elected official, and the One-Stop partners relating to the operation of the One-Stop delivery system in the local area.
+
+(b) The MOU must contain the provisions required by WIA section 121(c)(2). These provisions cover services to be provided through the One-Stop delivery system; the funding of the services and operating costs of the system; and methods for referring individuals between the One-Stop operators and partners. The MOU's provisions also must determine the duration and procedures for amending the MOU, and may contain any other provisions that are consistent with WIA title I and the WIA regulations agreed to by the parties. (WIA sec. 121(c).)

@@ -1,0 +1,5 @@
+##### § 726.300 Purpose and scope. #####
+
+Any operator which is required to secure the payment of benefits under section 423 of the Act and § 726.4 and which fails to secure such benefits, shall be subject to a civil penalty of not more than $1,000, as adjusted by the Federal Civil Penalties Inflation Adjustment Act of 1990, as amended, for each day during which such failure occurs. If the operator is a corporation, the president, secretary, and treasurer of the operator shall also be severally liable for the penalty based on the operator's failure to secure the payment of benefits. This subpart defines those terms necessary for administration of the civil money penalty provisions, describes the criteria for determining the amount of penalty to be assessed, and sets forth applicable procedures for the assessment and contest of penalties.
+
+[81 FR 43449, July 1, 2016]

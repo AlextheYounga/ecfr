@@ -1,0 +1,5 @@
+##### § 683.620 How are complaints and reports of criminal fraud and abuse addressed under the Workforce Innovation and Opportunity Act? #####
+
+(a) Information and complaints involving criminal fraud, waste, abuse or other criminal activity must be reported immediately through the Department's Incident Reporting System to the Department of Labor Office of Inspector General, Office of Investigations, Room S5514, 200 Constitution Avenue NW., Washington, DC 20210, or to the corresponding Regional Inspector General for Investigations, with a copy simultaneously provided to the Employment and Training Administration. The Hotline number is 1-800-347-3756. The Web site is *http://www.oig.dol.gov/contact.htm.*
+
+(b) Complaints of a non-criminal nature may be handled under the procedures set forth in § 683.600 or through the Department's Incident Reporting System.

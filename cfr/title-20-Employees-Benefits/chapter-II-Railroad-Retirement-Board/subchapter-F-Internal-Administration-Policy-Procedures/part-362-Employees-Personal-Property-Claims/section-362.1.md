@@ -1,0 +1,5 @@
+##### § 362.1 Purposes. #####
+
+(a) This part prescribes regulations under the Military Personnel and Civilian Employees' Claims Act of 1964, as amended, for the settlement of a claim against the United States made by an officer or employee of the Railroad Retirement Board for damage to, or loss of, personal property incident to his service. In accordance with that Act, the possession of such property must be reasonable, useful, or proper under the circumstances.
+
+(b) The Railroad Retirement Board is not an insurer of its officers' or employees' personal property and does not underwrite the damage or loss of such property that may be sustained by an officer or employee. Officers and employees of the Board are encouraged to carry private insurance to the maximum extent practicable to avoid large losses or losses which may not be recoverable from the Board. The procedures set forth in this section are designed to enable the claimant to obtain the maximum amount of otherwise unreimbursed or uninsured compensation for his loss or damage. Failure of the claimant to comply with these procedures may reduce or preclude payment of his claim under this part.

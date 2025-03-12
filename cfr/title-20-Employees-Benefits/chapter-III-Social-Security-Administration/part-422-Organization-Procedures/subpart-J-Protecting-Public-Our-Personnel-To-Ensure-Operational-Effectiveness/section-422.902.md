@@ -1,0 +1,3 @@
+##### § 422.902 Definition of personnel for purposes of this subpart. #####
+
+We will construe the term “personnel” broadly to mean persons responsible for or engaged in carrying out the responsibilities, programs, or services of or on behalf of the agency. Personnel includes, but is not limited to, our employees, contractors, consultants, and examiners and State disability determination services (DDS) employees, contractors, consultants, and examiners.

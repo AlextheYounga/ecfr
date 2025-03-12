@@ -1,0 +1,7 @@
+##### § 10.18 Can a beneficiary who is incarcerated based on a felony conviction still receive benefits? #####
+
+(a) Whenever a beneficiary is incarcerated in a State or Federal jail, prison, penal institution or other correctional facility due to a State or Federal felony conviction, he or she forfeits all rights to compensation benefits during the period of incarceration. A beneficiary's right to compensation benefits for the period of his or her incarceration is not restored after such incarceration ends, even though payment of compensation benefits may resume. A beneficiary has an affirmative duty to provide notice of any conviction and imprisonment. The employing agency shall provide OWCP any information or documentation they may have concerning such matters.
+
+(b) If the beneficiary has eligible dependents, OWCP will pay compensation to such dependents at a reduced rate during the period of his or her incarceration, by applying the percentages of 5 U.S.C. 8133(a)(1) through (5) to the beneficiary's gross current entitlement rather than to the beneficiary's monthly pay.
+
+(c) If OWCP's decision on entitlement is pending when the period of incarceration begins, and compensation is due for a period of time prior to such incarceration, payment for that period will only be made to the beneficiary following his or her release.

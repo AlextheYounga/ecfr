@@ -1,0 +1,3 @@
+##### § 204.2 Employment relation—determination by the Board. #####
+
+The existence or non-existence of an employment relation, as defined in this part, is a conclusion which must be reached by the Board or its authorized officers or employees upon the basis of the evidence before the agency. The employer and the employee are the principal sources of evidence with respect to a determination whether an employment relation existed, but the Board will not be bound by the mere conclusion of the employer or the employee that the employee had or did not have an employment relation.

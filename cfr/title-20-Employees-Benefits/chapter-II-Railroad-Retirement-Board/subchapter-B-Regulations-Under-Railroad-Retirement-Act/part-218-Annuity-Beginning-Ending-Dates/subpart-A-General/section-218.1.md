@@ -1,0 +1,3 @@
+##### § 218.1 Introduction. #####
+
+This part tells when a person's entitlement to a monthly railroad retirement annuity begins and ends. Ordinarily, an annuity begins on the earliest date permitted under the Railroad Retirement Act (Act). This part also tells when and how a person may select a later beginning date. Included is an explanation of how work and certain types of special payments affect the beginning date of an employee or spouse annuity.

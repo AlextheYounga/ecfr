@@ -1,0 +1,3 @@
+##### § 641.110 What is the SCSEP? #####
+
+The Senior Community Service Employment Program (SCSEP) is a program administered by the Department of Labor that serves unemployed low-income persons who are 55 years of age and older and who have poor employment prospects by training them in part-time community service assignments and by assisting them in developing skills and experience to facilitate their transition to unsubsidized employment.

@@ -1,0 +1,7 @@
+##### § 663.700 What are the requirements for on-the-job training (OJT)? #####
+
+(a) On-the-job training (OJT) is defined at WIA section 101(31). OJT is provided under a contract with an employer in the public, private non-profit, or private sector. Through the OJT contract, occupational training is provided for the WIA participant in exchange for the reimbursement of up to 50 percent of the wage rate to compensate for the employer's extraordinary costs. (WIA sec. 101(31)(B).)
+
+(b) The local program must not contract with an employer who has previously exhibited a pattern of failing to provide OJT participants with continued long-term employment with wages, benefits, and working conditions that are equal to those provided to regular employees who have worked a similar length of time and are doing the same type of work. (WIA sec. 195(4).)
+
+(c) An OJT contract must be limited to the period of time required for a participant to become proficient in the occupation for which the training is being provided. In determining the appropriate length of the contract, consideration should be given to the skill requirements of the occupation, the academic and occupational skill level of the participant, prior work experience, and the participant's individual employment plan. (WIA sec. 101(31)(C).)

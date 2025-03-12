@@ -1,0 +1,3 @@
+##### § 226.3 Other regulations related to this part. #####
+
+This part is closely related to part 216 of this chapter, which describes when an employee, spouse, or divorced spouse is eligible for an annuity, part 225 of this chapter, which explains the primary insurance amounts (PIA's) used in computing the employee, spouse and divorced spouse annuity rates, and part 229 of this chapter, which describes when and how employee and spouse annuities can be increased under the social security overall minimum. The creditable service and compensation used in determining the years of service and average monthly compensation are explained in parts 210 and 211 of this chapter. The beginning and ending dates of annuities are explained in part 218 of this chapter.

@@ -1,0 +1,7 @@
+##### § 702.336 Formal hearings; new issues. #####
+
+(a) If, during the course of the formal hearing, the evidence presented warrants consideration of an issue or issues not previously considered, the hearing may be expanded to include the new issue. If in the opinion of the administrative law judge the new issue requires additional time for preparation, the parties shall be given a reasonable time within which to prepare for it. If the new issue arises from evidence that has not been considered by the district director, and such evidence is likely to resolve the case without the need for a formal hearing, the administrative law judge may remand the case to the district director for his or her evaluation and recommendation pursuant to, § 702.316.
+
+(b) At any time prior to the filing of the compensation order in the case, the administrative law judge may in his discretion, upon the application of a party or upon his own motion, give notice that he will consider any new issue. The parties shall be given not less than 10 days' notice of the hearing on such new issue. The parties may stipulate that the issue may be heard at an earlier time and shall proceed to a hearing on the new issue in the same manner as on an issue initially considered.
+
+[38 FR 26861, Sept. 26, 1973, as amended at 42 FR 42552, Aug. 23, 1977]

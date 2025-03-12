@@ -1,0 +1,3 @@
+##### § 725.481 Right to appeal to the Benefits Review Board. #####
+
+Any party dissatisfied with a decision and order issued by an administrative law judge may, before the decision and order becomes final (see § 725.479), appeal the decision and order to the Benefits Review Board. A notice of appeal shall be filed with the Board. Proceedings before the Board shall be conducted in accordance with part 802 of this title.

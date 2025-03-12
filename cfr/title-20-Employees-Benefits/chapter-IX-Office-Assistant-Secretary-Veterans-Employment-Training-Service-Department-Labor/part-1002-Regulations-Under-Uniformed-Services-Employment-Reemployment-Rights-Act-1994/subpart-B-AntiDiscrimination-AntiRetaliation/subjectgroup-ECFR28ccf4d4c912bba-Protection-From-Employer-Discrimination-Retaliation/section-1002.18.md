@@ -1,0 +1,3 @@
+##### § 1002.18 What status or activity is protected from employer discrimination by USERRA? #####
+
+An employer must not deny initial employment, reemployment, retention in employment, promotion, or any benefit of employment to an individual on the basis of his or her membership, application for membership, performance of service, application for service, or obligation for service in the uniformed services.

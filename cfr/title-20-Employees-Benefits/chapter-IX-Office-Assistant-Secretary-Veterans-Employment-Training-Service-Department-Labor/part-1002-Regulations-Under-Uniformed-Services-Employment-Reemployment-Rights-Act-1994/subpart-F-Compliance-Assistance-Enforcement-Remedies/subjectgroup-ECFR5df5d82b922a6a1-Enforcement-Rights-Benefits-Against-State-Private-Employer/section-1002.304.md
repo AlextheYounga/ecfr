@@ -1,0 +1,3 @@
+##### § 1002.304 If an individual files a complaint with VETS and VETS' efforts do not resolve the complaint, can the individual pursue the claim on his or her own? #####
+
+Yes. If VETS notifies an individual that it is unable to resolve the complaint, the individual may pursue the claim on his or her own. The individual may choose to be represented by private counsel whether or not the Attorney General decides to represent him or her as to the complaint.

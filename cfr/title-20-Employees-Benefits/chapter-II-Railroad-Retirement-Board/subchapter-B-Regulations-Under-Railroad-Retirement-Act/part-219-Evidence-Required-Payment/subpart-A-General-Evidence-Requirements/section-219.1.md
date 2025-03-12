@@ -1,0 +1,3 @@
+##### § 219.1 Introduction. #####
+
+As described in parts 216 (Eligibility for an Annuity), 234 (Lump-Sum Payments), and 222 (Family Relationships), certain requirements must be met before benefits may be paid under the Railroad Retirement Act. This part contains the basic rules for evidence that is required to support a claimant's claim for monthly or lump-sum benefit payments under the Railroad Retirement Act. Part 219 describes when evidence is required and what types of documents can be used as evidence. Part 222 defines and explains family relationships for which evidence requirements are stated in part 219. Special evidence requirements for disability annuities are found in part 220 of this chapter.

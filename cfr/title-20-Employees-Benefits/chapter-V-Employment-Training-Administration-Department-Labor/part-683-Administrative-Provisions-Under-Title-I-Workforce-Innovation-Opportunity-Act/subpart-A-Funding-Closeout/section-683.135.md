@@ -1,0 +1,9 @@
+##### § 683.135 What reallotment procedures does the Secretary use? #####
+
+(a) The Secretary determines, during the second quarter of each program year, whether a State has obligated its required level of at least 80 percent of the funds allotted under secs. 127 and 132 of WIOA for programs serving youth, adults, and dislocated workers for the prior program year, as separately determined for each of the three funding streams. The amount to be recaptured from each State for reallotment, if any, is based on State obligations of the funds allotted to each State under secs. 127 and 132 of WIOA for programs serving youth, adults, or dislocated workers, less any amount reserved (up to five percent at the State level) for the costs of administration. The recapture amount, if any, is separately determined for each funding stream.
+
+(b) The Secretary reallots youth, adult and dislocated worker funds among eligible States in accordance with the provisions of secs. 127(c) and 132(c) of WIOA, respectively. To be eligible to receive a reallotment of youth, adult, or dislocated worker funds under the reallotment procedures, a State must have obligated at least 80 percent of the prior program year's allotment, less any amount reserved for the costs of administration at the State level of youth, adult, or dislocated worker funds. A State's eligibility to receive a reallotment is separately determined for each funding stream.
+
+(c) The term “obligation” is defined at 2 CFR 200.71.
+
+(d) Obligations must be reported on the required Department of Labor (the Department) financial form, such as the ETA-9130 form, unless otherwise noted in guidance.

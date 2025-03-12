@@ -1,0 +1,7 @@
+##### § 655.142 Submission of modified applications. #####
+
+(a) *Submission requirements and certification delays.* If the employer chooses to submit a modified *Application for Temporary Employment Certification,* the CO's Final Determination will be postponed by 1 calendar day for each day that passes beyond the 5 business-day period allowed under § 655.141(b) to submit a modified *Application for Temporary Employment Certification,* up to maximum of 5 days. The *Application for Temporary Employment Certification* will be deemed abandoned if the employer does not submit a modified *Application for Temporary Employment Certification* within 12 calendar days after the notice of deficiency was issued.
+
+(b) *Provisions for denial of modified Application for Temporary Employment Certification.* If the modified *Application for Temporary Employment Certification* is not approved, the CO will deny the *Application for Temporary Employment Certification* in accordance with the labor certification determination provisions in § 655.164.
+
+(c) *Appeal from denial of modified Application for Temporary Employment Certification.* The procedures for appealing a denial of a modified *Application for Temporary Employment Certification* are the same as for a non-modified *Application for Temporary Employment Certification* as long as the employer timely requests an expedited administrative review or de novo hearing before an ALJ by following the procedures set forth in § 655.171.

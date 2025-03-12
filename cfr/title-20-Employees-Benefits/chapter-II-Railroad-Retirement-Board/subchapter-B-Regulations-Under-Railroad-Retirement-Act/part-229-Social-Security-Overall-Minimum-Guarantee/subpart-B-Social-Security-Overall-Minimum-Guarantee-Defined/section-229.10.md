@@ -1,0 +1,3 @@
+##### § 229.10 What the social security overall minimum guarantee is. #####
+
+The social security overall minimum guarantee is the amount of total family benefits which would be paid under the Social Security Act if the employee's railroad service had been covered by that Act. A 100 percent overall minimum benefit may be paid, as described in § 229.11. A 100 percent overall minimum based on age (age O/M) may be payable when the employee is 62 years old. The age O/M is reduced for age for months in which the O/M is payable before the employee attains retirement age. An overall minimum may also be payable before age 62 based on an employee's disability (DIB O/M). The DIB O/M is not reduced for age.

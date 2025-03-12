@@ -1,0 +1,3 @@
+##### § 61.400 Custody of records relating to claims under the War Hazards Compensation Act. #####
+
+All records, medical and other reports, statements of witnesses and other papers filed with the Office with respect to the disability, death, or detention of any person coming within the purview of the Act, are the official records of the Office and are not records of the agency, establishment, Government department, employer, or individual making or having the care or use of such records.

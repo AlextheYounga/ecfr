@@ -1,0 +1,7 @@
+##### § 10.610 What is a review by the Director? #####
+
+The FECA specifies that an award for or against payment of compensation may be reviewed at any time on the Director's own motion. Such review may be made without regard to whether there is new evidence or information. If the Director determines that a review of the award is warranted (including, but not limited to circumstances indicating a mistake of fact or law or changed conditions), the Director (at any time and on the basis of existing evidence) may modify, rescind, decrease or increase compensation previously awarded, or award compensation previously denied. A review on the Director's own motion is not subject to a request or petition and none shall be entertained.
+
+(a) The decision whether or not to review an award under this section is solely within the discretion of the Director. The Director's exercise of this discretion is not subject to review by the ECAB, nor can it be the subject of a reconsideration or hearing request.
+
+(b) Where the Director reviews an award on his or her own motion, any resulting decision is subject as appropriate to reconsideration, a hearing and/or appeal to the ECAB. Jurisdiction on review or on appeal to ECAB is limited to a review of the merits of the resulting decision. The Director's determination to review the award is not reviewable.

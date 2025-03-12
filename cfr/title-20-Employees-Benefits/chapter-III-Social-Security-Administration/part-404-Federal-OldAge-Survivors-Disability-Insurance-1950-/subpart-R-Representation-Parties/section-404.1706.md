@@ -1,0 +1,5 @@
+##### § 404.1706 Notification of options for obtaining attorney representation. #####
+
+If you are not represented by an attorney and we make a determination or decision that is subject to the administrative review process provided under subpart J of this part and it does not grant all of the benefits or other relief you requested or it adversely affects any entitlement to benefits that we have established or may establish for you, we will include with the notice of that determination or decision information about your options for obtaining an attorney to represent you in dealing with us. We will also tell you that a legal services organization may provide you with legal representation free of charge if you satisfy the qualifying requirements applicable to that organization.
+
+[58 FR 64886, Dec. 10, 1993]

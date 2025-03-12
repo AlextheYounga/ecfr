@@ -1,0 +1,7 @@
+##### § 725.417 Action at the conclusion of conference. #####
+
+(a) At the conclusion of a conference, the district director shall prepare a stipulation of contested and uncontested issues which shall be signed by the parties and the district director. If a hearing is conducted with respect to the claim, this stipulation shall be submitted to the Office of Administrative Law Judges and placed in the claim record.
+
+(b) In appropriate cases, the district director may permit a reasonable time for the submission of additional evidence following a conference, provided that such evidence does not exceed the limits set forth in § 725.414. The district director may also notify additional operators of their potential liability pursuant to § 725.407, or issue another schedule for the submission of additional evidence pursuant to § 725.410, designating another potentially liable operator as the responsible operator liable for the payment of benefits, in order to allow that operator an opportunity to submit evidence relevant to its liability for benefits as well as the claimant's eligibility for benefits.
+
+(c) Within 20 days after the termination of all conference proceedings, the district director shall prepare and send to the parties a proposed decision and order pursuant to § 725.418 of this part.

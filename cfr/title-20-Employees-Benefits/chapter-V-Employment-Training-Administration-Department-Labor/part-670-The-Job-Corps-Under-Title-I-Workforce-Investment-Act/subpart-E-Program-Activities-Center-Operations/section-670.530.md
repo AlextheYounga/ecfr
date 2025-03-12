@@ -1,0 +1,3 @@
+##### § 670.530 Are Job Corps centers required to maintain a student accountability system? #####
+
+Yes, each Job Corps center must establish and operate an effective system to account for and document the whereabouts, participation, and status of students during their Job Corps enrollment. The system must enable center staff to detect and respond to instances of unauthorized or unexplained student absence. Each center must operate its student accountability system according to requirements and procedures issued by the Secretary.

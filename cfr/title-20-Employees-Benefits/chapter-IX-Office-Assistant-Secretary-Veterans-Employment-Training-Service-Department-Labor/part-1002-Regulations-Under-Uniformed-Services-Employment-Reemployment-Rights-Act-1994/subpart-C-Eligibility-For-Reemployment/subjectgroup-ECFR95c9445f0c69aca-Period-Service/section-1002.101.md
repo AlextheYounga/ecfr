@@ -1,0 +1,3 @@
+##### § 1002.101 Does the five-year service limit include periods of service that the employee performed when he or she worked for a previous employer? #####
+
+No. An employee is entitled to a leave of absence for uniformed service for up to five years with each employer for whom he or she works. When the employee takes a position with a new employer, the five-year period begins again regardless of how much service he or she performed while working in any previous employment relationship. If an employee is employed by more than one employer, a separate five-year period runs as to each employer independently, even if those employers share or co-determine the employee's terms and conditions of employment.

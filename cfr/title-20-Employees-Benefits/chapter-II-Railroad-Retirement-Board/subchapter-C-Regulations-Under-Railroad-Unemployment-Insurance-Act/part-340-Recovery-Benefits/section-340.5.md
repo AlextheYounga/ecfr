@@ -1,0 +1,3 @@
+##### § 340.5 Recovery by cash payment. #####
+
+The Board shall have the right to require that amounts recoverable be immediately and fully repaid in cash and any debtor shall have the absolute right to repay such amount recoverable in this manner. However if the debtor is financially unable to pay the indebtedness in a lump sum, payment may be accepted in regular installments. The amount and frequency of such installment payments should bear a reasonable relation to the size of the debt and the debtor's ability to pay. Whenever possible installment payments should be sufficient in amounts and frequency to liquidate the debt in not more than three years.

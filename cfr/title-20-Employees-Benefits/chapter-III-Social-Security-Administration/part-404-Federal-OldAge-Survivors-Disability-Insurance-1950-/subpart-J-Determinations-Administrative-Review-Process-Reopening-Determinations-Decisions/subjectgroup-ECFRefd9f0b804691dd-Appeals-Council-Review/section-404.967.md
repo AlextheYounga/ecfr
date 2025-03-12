@@ -1,0 +1,3 @@
+##### § 404.967 Appeals Council review—general. #####
+
+If you or any other party is dissatisfied with the hearing decision or with the dismissal of a hearing request, you may request that the Appeals Council review that action. The Appeals Council may deny or dismiss the request for review, or it may grant the request and either issue a decision or remand the case to an administrative law judge. The Appeals Council shall notify the parties at their last known address of the action it takes.

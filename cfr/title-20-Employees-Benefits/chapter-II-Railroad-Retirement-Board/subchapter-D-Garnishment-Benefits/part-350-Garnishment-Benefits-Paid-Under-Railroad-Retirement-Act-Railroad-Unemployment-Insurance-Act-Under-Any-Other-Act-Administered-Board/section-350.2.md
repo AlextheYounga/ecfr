@@ -1,0 +1,11 @@
+##### § 350.2 Definitions. #####
+
+(a) *Child support* means periodic payments of funds for the support and maintenance of a child or children; such term also includes attorney's fees, interest, and court costs, when and to the same extent that they are expressly made recoverable pursuant to a decree, order, or judgment issued in accordance with applicable state law by a court of competent jurisdiction.
+
+(b) *Alimony* means periodic payments of funds for the support and maintenance of a spouse or former spouse and, subject to and in accord with state law, includes but is not limited to, separate maintenance, alimony pendente lite, maintenance, and spousal support; such term also includes attorney's fees, interest, and court costs, when and to the extent that they are expressly made recoverable pursuant to a decree, order, or judgment issued in accord with applicable State law by a court of competent jurisdiction. Alimony does not include any payment or transfer of property or of its value in compliance with any community property settlement, equitable distribution of property, or other division of property, nor does it include any payment to an estate.
+
+(c) *Legal process* means any court order, summons, or other similar process, including administrative orders, in the nature of garnishment, which is directed to and the purpose of which is to compel the Board to make a payment from moneys which are otherwise payable to an individual, to another party in order to satisfy a legal obligation of such individual to provide child support or make alimony payments. For purposes of this subchapter, legal process additionally includes assignments in lieu of garnishment, but only where grounds for the issuance of legal process in the nature of garnishment exist. Such assignments are revocable.
+
+(d) *Legal obligation* means an obligation to pay alimony or child support which is enforceable under appropriate state law.
+
+[45 FR 28314, Apr. 29, 1980, as amended at 53 FR 35807, Sept. 15, 1988]

@@ -1,0 +1,3 @@
+##### § 670.610 When are students authorized to take leaves of absence from their Job Corps centers? #####
+
+Job Corps students are eligible for annual leaves, emergency leaves and other types of leaves of absence from their assigned centers according to criteria and requirements issued by the Secretary. Center operators and other service providers must account for student leave according to procedures issued by the Secretary.

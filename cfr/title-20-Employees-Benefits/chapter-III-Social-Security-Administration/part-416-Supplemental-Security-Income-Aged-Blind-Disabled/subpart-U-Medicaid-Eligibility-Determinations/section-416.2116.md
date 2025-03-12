@@ -1,0 +1,3 @@
+##### § 416.2116 Medicaid eligibility determinations. #####
+
+If a State requests, we may agree, under the conditions in this subpart, to make Medicaid eligibility determinations on behalf of the State. Under these agreements, we make the Medicaid determinations when determinations or redeterminations are necessary for SSI purposes. Our determinations may include non-SSI requirements that are mandated by Federal law. When we determine that a person is eligible for Medicaid in accordance with § 416.2111 or that we are not making the determination, we notify the State of that fact.

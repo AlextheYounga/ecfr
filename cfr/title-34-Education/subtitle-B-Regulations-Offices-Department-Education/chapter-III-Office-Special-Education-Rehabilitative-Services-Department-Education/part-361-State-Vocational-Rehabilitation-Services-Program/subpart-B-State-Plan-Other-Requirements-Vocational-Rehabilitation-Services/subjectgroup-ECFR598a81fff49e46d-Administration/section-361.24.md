@@ -1,0 +1,35 @@
+##### § 361.24 Cooperation and coordination with other entities. #####
+
+(a) *Interagency cooperation.* The vocational rehabilitation services portion of the Unified or Combined State Plan must describe the designated State agency's cooperation with and use of the services and facilities of Federal, State, and local agencies and programs, including the State programs carried out under section 4 of the Assistive Technology Act of 1998 (29 U.S.C. 3003), programs carried out by the Under Secretary for Rural Development of the Department of Agriculture, noneducational agencies serving out-of-school youth, and State use contracting programs, to the extent that such Federal, State, and local agencies and programs are not carrying out activities through the statewide workforce development system.
+
+(b) *Coordination with the Statewide Independent Living Council and independent living centers.* The vocational rehabilitation services portion of the Unified or Combined State Plan must assure that the designated State unit, the Statewide Independent Living Council established under title VII, chapter 1, part B of the Act, and the independent living centers established under title VII, Chapter 1, Part C of the Act have developed working relationships and coordinate their activities.
+
+(c) *Coordination with Employers.* The vocational rehabilitation services portion of the Unified or Combined State Plan must describe how the designated State unit will work with employers to identify competitive integrated employment opportunities and career exploration opportunities, in order to facilitate the provision of—
+
+(1) Vocational rehabilitation services; and
+
+(2) Transition services for youth with disabilities and students with disabilities, such as pre-employment transition services.
+
+(d) *Cooperative agreement with recipients of grants for services to American Indians*—(1) *General.* In applicable cases, the vocational rehabilitation services portion of the Unified or Combined State Plan must assure that the designated State agency has entered into a formal cooperative agreement with each grant recipient in the State that receives funds under part C of the Act (American Indian Vocational Rehabilitation Services).
+
+(2) *Contents of formal cooperative agreement.* The agreement required under paragraph (d)(1) of this section must describe strategies for collaboration and coordination in providing vocational rehabilitation services to American Indians who are individuals with disabilities, including—
+
+(i) Strategies for interagency referral and information sharing that will assist in eligibility determinations and the development of individualized plans for employment;
+
+(ii) Procedures for ensuring that American Indians who are individuals with disabilities and are living on or near a reservation or tribal service area are provided vocational rehabilitation services;
+
+(iii) Strategies for the provision of transition planning by personnel of the designated State unit, the State educational agency, and the recipient of funds under part C of the Act, that will facilitate the development and approval of the individualized plan for employment under § 361.45; and
+
+(iv) Provisions for sharing resources in cooperative studies and assessments, joint training activities, and other collaborative activities designed to improve the provision of services to American Indians who are individuals with disabilities.
+
+(e) *Reciprocal referral services between two designated State units in the same State.* If there is a separate designated State unit for individuals who are blind, the two designated State units must establish reciprocal referral services, use each other's services and facilities to the extent feasible, jointly plan activities to improve services in the State for individuals with multiple impairments, including visual impairments, and otherwise cooperate to provide more effective services, including, if appropriate, entering into a written cooperative agreement.
+
+(f) *Cooperative agreement regarding individuals eligible for home and community-based waiver programs.* The vocational rehabilitation services portion of the Unified or Combined State Plan must include an assurance that the designated State unit has entered into a formal cooperative agreement with the State agency responsible for administering the State Medicaid plan under title XIX of the Social Security Act (42 U.S.C. 1396 *et seq.*) and the State agency with primary responsibility for providing services and supports for individuals with intellectual disabilities and individuals with developmental disabilities, with respect to the delivery of vocational rehabilitation services, including extended services, for individuals with the most significant disabilities who have been determined to be eligible for home and community-based services under a Medicaid waiver, Medicaid State plan amendment, or other authority related to a State Medicaid program.
+
+(g) *Interagency cooperation.* The vocational rehabilitation services portion of the Unified or Combined State Plan shall describe how the designated State agency will collaborate with the State agency responsible for administering the State Medicaid plan under title XIX of the Social Security Act (42 U.S.C. 1396 *et seq.*), the State agency responsible for providing services for individuals with developmental disabilities, and the State agency responsible for providing mental health services, to develop opportunities for community-based employment in integrated settings, to the greatest extent practicable.
+
+(h) *Coordination with assistive technology programs.* The vocational rehabilitation services portion of the Unified or Combined State Plan must include an assurance that the designated State unit, and the lead agency and implementing entity (if any) designated by the Governor of the State under section 4 of the Assistive Technology Act of 1998 (29 U.S.C. 3003), have developed working relationships and will enter into agreements for the coordination of their activities, including the referral of individuals with disabilities to programs and activities described in that section.
+
+(i) *Coordination with ticket to work and self-sufficiency program.* The vocational rehabilitation services portion of the Unified or Combined State Plan must include an assurance that the designated State unit will coordinate activities with any other State agency that is functioning as an employment network under the Ticket to Work and Self-Sufficiency Program established under section 1148 of the Social Security Act (42 U.S.C. 1320b-19).
+
+(Approved by the Office of Management and Budget under control number 1205-0522)(Authority: Sections 12(c) and 101(a)(11) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 709(c) and 721(a)(11))

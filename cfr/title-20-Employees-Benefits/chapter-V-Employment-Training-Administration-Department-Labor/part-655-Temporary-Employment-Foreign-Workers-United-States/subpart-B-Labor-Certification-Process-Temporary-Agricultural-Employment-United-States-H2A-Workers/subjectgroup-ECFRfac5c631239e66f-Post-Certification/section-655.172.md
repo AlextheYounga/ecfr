@@ -1,0 +1,5 @@
+##### § 655.172 Withdrawal of job order and application for temporary employment certification. #####
+
+(a) Employers may withdraw a job order from intrastate posting if the employer no longer plans to file an *Application for Temporary Employment Certification.* However, a withdrawal of a job order does not nullify existing obligations to those workers recruited in connection with the placement of a job order pursuant to this subpart or the filing of an *Application for Temporary Employment Certification.*
+
+(b) Employers may withdraw an *Application for Temporary Employment Certification* once it has been formally accepted by the NPC. However, the employer is still obligated to comply with the terms and conditions of employment contained in the *Application for Temporary Employment Certification* with respect to workers recruited in connection with that application.

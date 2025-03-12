@@ -1,0 +1,3 @@
+##### § 10.708 Can a FECA beneficiary who refuses to comply with a request to assign a claim to the United States or to prosecute the claim in his or her own name be penalized? #####
+
+When a FECA beneficiary refuses a request to either assign a claim or prosecute a claim in his or her own name, OWCP may determine that he or she has forfeited his or her right to all past or future compensation for the injury with respect to which the request is made. Alternatively, OWCP may also suspend the FECA beneficiary's compensation payments until he or she complies with the request.

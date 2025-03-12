@@ -1,0 +1,7 @@
+##### § 725.510 Representative payee. #####
+
+(a) If the district director determines that the best interests of a beneficiary are served thereby, the district director may certify the payment of such beneficiary's benefits to a representative payee.
+
+(b) Before any amount shall be certified for payment to any representative payee for or on behalf of a beneficiary, such representative payee shall submit to the district director such evidence as may be required of his or her relationship to, or his or her responsibility for the care of, the beneficiary on whose behalf payment is to be made, or of his or her authority to receive such a payment. The district director may, at any time thereafter, require evidence of the continued existence of such relationship, responsibility, or authority. If a person requesting representative payee status fails to submit the required evidence within a reasonable period of time after it is requested, no further payments shall be certified to him or her on behalf of the beneficiary unless the required evidence is thereafter submitted.
+
+(c) All benefit payments made to a representative payee shall be available only for the use and benefit of the beneficiary, as defined in § 725.511.

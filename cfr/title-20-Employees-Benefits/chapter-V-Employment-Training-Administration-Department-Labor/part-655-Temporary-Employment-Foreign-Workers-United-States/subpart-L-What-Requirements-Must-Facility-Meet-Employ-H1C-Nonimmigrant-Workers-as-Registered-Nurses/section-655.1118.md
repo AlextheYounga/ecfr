@@ -1,0 +1,3 @@
+##### § 655.1118 Element VIII—What are the limitations as to where the H-1C nonimmigrant may be employed? #####
+
+The eighth attestation element requires that the facility attest that it will not authorize any H-1C nurse to perform services at any worksite not controlled by the facility or transfer any H-1C nurse from one worksite to another worksite, even if all of the worksites are controlled by the facility.

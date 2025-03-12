@@ -1,0 +1,3 @@
+##### § 404.302 Other regulations related to this subpart. #####
+
+This subpart is related to several others. Subpart H sets out what evidence you need to prove you qualify for benefits. Subpart P describes what is needed to prove you are disabled. Subpart E describes when your benefits may be reduced or stopped for a time. Subpart G describes the need for and the effect of an application for benefits. Part 410 describes when you may qualify for black lung benefits. Part 416 describes when you may qualify for supplemental security income. Also 42 CFR part 405 describes when you may qualify for hospital and medical insurance if you are aged, disabled, or have chronic kidney disease.

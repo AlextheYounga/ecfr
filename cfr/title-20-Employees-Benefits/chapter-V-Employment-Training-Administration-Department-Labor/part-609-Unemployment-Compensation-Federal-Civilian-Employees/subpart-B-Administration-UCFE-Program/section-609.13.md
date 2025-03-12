@@ -1,0 +1,7 @@
+##### § 609.13 Recordkeeping; disclosure of information. #####
+
+(a) *Recordkeeping.* Each State agency will make and maintain records pertaining to the administration of the UCFE Program as the Department requires, and will make all such records available for inspection, examination, and audit by such Federal officials or employees as the Department may designate or as may be required by law.
+
+(b) *Disclosure of Information.* Information in records maintained by a State agency in administering the UCFE Program shall be kept confidential, and information in such records may be disclosed only in the same manner and to the same extent as information with respect to State unemployment compensation and the entitlement of individuals thereto may be disclosed under the applicable State law. This provision on the confidentiality of information maintained in the administration of the UCFE Program shall not apply, however, to the Department or for the purposes of §§ 609.11 or 609.13, or in the case of information, reports and studies required pursuant to §§ 609.17 or 609.25, or where the result would be inconsistent with the Freedom of Information Act (5 U.S.C. 552), the Privacy Act of 1974, as amended (5 U.S.C. 552a), or regulations of the Department promulgated thereunder.
+
+[47 FR 54687, Dec. 3, 1982, as amended at 71 FR 35514, June 21, 2006]

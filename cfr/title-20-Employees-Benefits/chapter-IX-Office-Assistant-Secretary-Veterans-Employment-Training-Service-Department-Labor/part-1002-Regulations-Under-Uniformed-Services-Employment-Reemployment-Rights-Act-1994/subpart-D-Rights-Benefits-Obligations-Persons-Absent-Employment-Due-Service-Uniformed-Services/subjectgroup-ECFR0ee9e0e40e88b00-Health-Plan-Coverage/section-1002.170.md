@@ -1,0 +1,3 @@
+##### § 1002.170 In a multiemployer health plan, how is liability allocated for employer contributions and benefits arising under USERRA's health plan provisions? #####
+
+Liability under a multiemployer plan for employer contributions and benefits in connection with USERRA's health plan provisions must be allocated either as the plan sponsor provides, or, if the sponsor does not provide, to the employee's last employer before his or her service. If the last employer is no longer functional, liability for continuing coverage is allocated to the health plan.

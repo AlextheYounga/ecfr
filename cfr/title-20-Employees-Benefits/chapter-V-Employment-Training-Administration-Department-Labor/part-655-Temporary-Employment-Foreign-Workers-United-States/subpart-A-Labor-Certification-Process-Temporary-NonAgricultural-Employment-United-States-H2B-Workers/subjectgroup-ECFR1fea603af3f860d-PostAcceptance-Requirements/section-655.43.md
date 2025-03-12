@@ -1,0 +1,3 @@
+##### § 655.43 Contact with former U.S. employees. #####
+
+The employer must contact (by mail or other effective means) its former U.S. workers, including those who have been laid off within 120 calendar days before the date of need, employed by the employer in the occupation at the place of employment during the previous year (except those who were dismissed for cause or who abandoned the worksite), disclose the terms of the job order, and solicit their return to the job. The employer must maintain documentation sufficient to prove such contact in accordance with § 655.56.

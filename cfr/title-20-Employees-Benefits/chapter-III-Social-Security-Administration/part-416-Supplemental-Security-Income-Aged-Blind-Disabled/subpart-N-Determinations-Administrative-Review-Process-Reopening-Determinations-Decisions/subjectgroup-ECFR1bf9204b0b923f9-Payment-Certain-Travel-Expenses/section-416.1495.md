@@ -1,0 +1,5 @@
+##### § 416.1495 Payment of certain travel expenses—general. #####
+
+When you file a claim for supplemental security income (SSI) benefits, you may incur certain travel expenses in pursuing your claim. Sections 416.1496 through 416.1499 explain who may be reimbursed for travel expenses, the types of travel expenses that are reimbursable, and when and how to claim reimbursement. Generally, the agency that requests you to travel will be the agency that reimburses you. No later than when it notifies you of the examination or hearing described in § 416.1496(a), that agency will give you information about the right to travel reimbursement, the right to advance payment and how to request it, the rules on means of travel and unusual travel costs, and the need to submit receipts.
+
+[51 FR 8810, Mar. 14, 1986]

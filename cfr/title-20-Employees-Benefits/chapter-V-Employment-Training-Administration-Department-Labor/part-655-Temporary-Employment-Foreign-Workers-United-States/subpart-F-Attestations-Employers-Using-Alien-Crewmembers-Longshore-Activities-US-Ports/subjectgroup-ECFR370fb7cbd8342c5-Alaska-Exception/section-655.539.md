@@ -1,0 +1,3 @@
+##### § 655.539 Effective date and validity of filed attestations for locations in Alaska. #####
+
+An attestation is filed and effective as of the date it is accepted and signed by the Certifying Officer. Such attestation is valid for the 12-month period beginning on the date of acceptance for filing, unless suspended or invalidated pursuant to § 655.540 of this part. The filed attestation expires at the end of the 12-month period of validity.

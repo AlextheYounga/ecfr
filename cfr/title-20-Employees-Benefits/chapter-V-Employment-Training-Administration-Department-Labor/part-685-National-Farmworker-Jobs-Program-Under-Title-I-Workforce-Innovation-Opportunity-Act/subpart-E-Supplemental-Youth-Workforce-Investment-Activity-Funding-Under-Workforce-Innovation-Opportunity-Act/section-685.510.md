@@ -1,0 +1,3 @@
+##### § 685.510 What requirements apply to grants funded by the Workforce Innovation and Opportunity Act? #####
+
+The requirements in subparts A through D of this part apply to grants funded by WIOA sec. 127(a)(1), except that grants described in this subpart must be used only for workforce investment activities for eligible MSFW youth, as described in § 685.370 and WIOA sec. 167(d) (including related assistance and supportive services).

@@ -1,0 +1,3 @@
+##### § 625.17 Announcement of the beginning of a Disaster Assistance Period. #####
+
+Whenever a major disaster is declared in a State, the State agency shall promptly announce throughout the major disaster area by all appropriate news media that individuals who are unemployed as the result of the major disaster may be entitled to DUA; that they should file initial applications for DUA as soon as possible, but not later than the 30th day after the announcement date; the beginning date of the Disaster Assistance Period; and where individuals may obtain further information and file applications for DUA.

@@ -1,0 +1,3 @@
+##### § 404.260 Special minimum primary insurance amounts. #####
+
+Regardless of the method we use to compute your primary insurance amount, if the special minimum primary insurance amount described in § 404.261 is higher, then your benefits (and those of your dependents or survivors) will be based on the special minimum primary insurance amount. Special minimum primary insurance amounts are not based on a worker's average earnings, as are primary insurance amounts computed under other methods. Rather, the special minimum primary insurance amount is designed to provide higher benefits to people who worked for long periods in low-paid jobs covered by social security.

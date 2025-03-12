@@ -1,0 +1,3 @@
+##### § 226.92 Effect of recomputation on spouse and divorced spouse annuity. #####
+
+The annuity of a spouse or divorced spouse is recomputed to use the employee's recomputed tier I PIA and tier II rate, if the recomputation results in a lump-sum payment of more than $5 or an increase in the spouse or divorced spouse annuity rate of more than $1 a month. The spouse or divorced spouse annuity rate is recomputed beginning with the same date the employee's annuity rate is recomputed.

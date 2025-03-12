@@ -1,0 +1,3 @@
+##### § 423.5 Process against Social Security Administration officials in their individual capacities. #####
+
+Process to be served on Social Security Administration officials in their individual capacities must be served in compliance with the requirements for service of process on individuals who are not governmental officials. The Office of the General Counsel is authorized but not required to accept process to be served on Social Security Administration officials in their individual capacities if the suit relates to an employee's official duties.

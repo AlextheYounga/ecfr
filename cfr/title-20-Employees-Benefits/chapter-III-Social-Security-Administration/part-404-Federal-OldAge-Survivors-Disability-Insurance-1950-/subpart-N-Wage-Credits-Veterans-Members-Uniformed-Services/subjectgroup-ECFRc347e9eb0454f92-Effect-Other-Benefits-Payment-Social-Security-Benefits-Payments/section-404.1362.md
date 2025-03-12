@@ -1,0 +1,5 @@
+##### § 404.1362 Treatment of social security benefits or payments where Veterans Administration pension or compensation payable. #####
+
+(a) *Before we receive notice from the Veterans Administration.* If we certify your monthly benefit or a lump-sum death payment as determined under the deemed insured status provisions in § 404.1350 before we receive notice from the Veterans Administration that a pension or compensation is payable to you, our payments to you are erroneous only to the extent that they exceed the amount of the accrued pension of compensation payable.
+
+(b) *After we receive notice from the Veterans Administration.* If we certify your monthly benefit or lump-sum death payment as determined under the deemed insured status provisions in § 404.1350 after we receive notice from the Veterans Administration that a pension or compensation is payable to you, our payments to you are erroneous whether or not they exceed the amount of the accrued pension or compensation payable.

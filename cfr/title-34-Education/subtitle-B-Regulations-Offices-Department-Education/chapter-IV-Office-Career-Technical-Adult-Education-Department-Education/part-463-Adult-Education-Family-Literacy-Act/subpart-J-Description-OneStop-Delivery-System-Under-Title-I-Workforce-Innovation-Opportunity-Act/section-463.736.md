@@ -1,0 +1,3 @@
+##### § 463.736 How does the Governor establish a cost allocation methodology used to determine the one-stop partner programs' proportionate shares of infrastructure costs under the State one-stop infrastructure funding mechanism? #####
+
+Once the appropriate budget is determined for a local area through either method described in § 463.735 (by acceptance of a budget agreed upon in local negotiation or by the Governor applying the formula detailed in § 463.745), the Governor must determine the appropriate cost allocation methodology to be applied to the one-stop partners in such local area, consistent with the Federal cost principles permitted under 2 CFR part 200, to fund the infrastructure budget.

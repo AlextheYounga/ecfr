@@ -1,0 +1,3 @@
+##### § 684.940 What is the role of the Native American Employment and Training Council? #####
+
+The Native American Employment and Training Council is a body composed of representatives of the grantee community which advises the Secretary on the operation and administration of the INA employment and training program. WIOA sec. 166(i)(4) continues the Council essentially as it is currently constituted. The Department continues to support the Council.

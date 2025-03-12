@@ -1,0 +1,5 @@
+##### § 416.1080 Notice of right to hearing on proposed finding of substantial failure. #####
+
+If, following the mandatory performance support period and the 3-month adjustment period, a State agency again falls below two of three threshold levels (one being performance accuracy) in two consecutive quarters in the succeeding 12 months, we will notify the State in writing that we will find that the State agency has substantially failed to meet our standards unless the State submits a written request for a hearing with the Department of Health and Human Services' Departmental Appeals Board within 30 days after receiving the notice. The notice will identify the threshold levels that were not met by the State agency, the period during which the thresholds were not met, and the accuracy and processing time levels attained by the State agency during this period. If a hearing is not requested, the State agency will be found to have substantially failed to meet our standards, and we will implement our plans to assume the disability determination function.
+
+[56 FR 11024, Mar. 14, 1991]

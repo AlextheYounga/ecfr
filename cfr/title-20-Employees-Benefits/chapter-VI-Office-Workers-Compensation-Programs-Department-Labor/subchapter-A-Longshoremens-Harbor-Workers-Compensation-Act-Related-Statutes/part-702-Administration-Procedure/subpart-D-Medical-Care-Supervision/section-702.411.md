@@ -1,0 +1,9 @@
+##### § 702.411 Special examinations; nature of impartiality of specialists. #####
+
+(a) The special examinations required by § 702.408 shall be accomplished in a manner designed to preclude prejudgment by the impartial examiner. No physician previously connected with the case shall be present, nor may any other physician selected by the employer, carrier, or employee be present. The impartial examiner may be made aware, by any party or by the OWCP, of the opinions, reports, or conclusions of any prior examining physician with respect to the nature and extent of the impairment, its cause, or its effect upon the wage-earning capacity of the injured employee, if the district director determines that, for good cause, such opinions, reports, or conclusions shall be made available. Upon request, any party shall be given a copy of all materials made available to the impartial examiner.
+
+(b) The impartiality of the specialists shall not be considered to have been compromised if the district director deems it advisable to, and does, apprise the specialist by memorandum of those undisputed facts pertaining to the nature of the employee's employment, of the nature of the injury, of the post-injury employment activity, if any, and of any other facts which are not disputed and are deemed pertinent to the type of injury and/or the type of examination being conducted.
+
+(c) No physician selected to perform impartial examinations shall be, or shall have been for a period of 2 years prior to the examination, an employee of an insurance carrier or self-insured employer, or who has accepted or participated in any fee from an insurance carrier or self-insured employer, unless the parties in interest agree thereto.
+
+[38 FR 26861, Sept. 26, 1973, as amended at 42 FR 45303, Sept. 9, 1977]

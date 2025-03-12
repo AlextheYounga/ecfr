@@ -1,0 +1,3 @@
+##### § 901.38 Supplemental charges. #####
+
+If it appears to the Executive Director that the respondent in his/her answer falsely and in bad faith denies a material allegation of fact in the complaint or states that the respondent has no knowledge sufficient to form a belief when he/she in fact possesses such knowledge, or if it appears that the respondent has knowingly introduced false testimony during proceedings for suspension or termination of his/her enrollment, the Executive Director may file supplemental charges against the respondent. Such supplemental charges may be tried with other charges in the case, provided the respondent is given due notice thereof and is afforded an opportunity to prepare a defense thereto.

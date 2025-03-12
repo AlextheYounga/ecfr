@@ -1,0 +1,13 @@
+##### § 367.3 Board responsibilities. #####
+
+(a) The Board may delegate to an employee or employees the responsibility for collecting any claims owed the Board by means of administrative offset, except that all nontax debts over 120 days delinquent shall be referred to the Department of Treasury for administrative offset through the Treasury Offset Program as required by 31 U.S.C. 3716;
+
+(b) Except for mandatory referral of claims to the Department of Treasury or as otherwise directed by the Secretary of Treasury, before collecting a claim by means of administrative offset, the Board must ensure that administrative offset is feasible, allowable, and appropriate, and must notify the debtor of the Board's policies for collecting a claim by means of administrative offset.
+
+(c) Except for mandatory referral of claims to the Department of Treasury or as otherwise directed by the Secretary of Treasury, whether collection by administrative offset is feasible is a determination to be made on a case-by-case basis, in the exercise of its sound discretion. The Board shall consider not only whether administrative offset can be accomplished, both practically and legally, but also whether offset is best suited to further and protect all of the Government's interests. In appropriate circumstances, the Board may give due consideration to the debtor's financial condition, and is not required to use offset in every instance in which there is an available source of funds. The Board may also consider whether offset would substantially interfere with or defeat the purposes of the program authorizing the payments against which offset is contemplated.
+
+(d) Before advising the debtor that the delinquent debt will be subject to administrative offset, the agency official responsible for administering the program under which the debt arose shall review the claim and determine that the debt is valid and overdue.
+
+(e) Administrative offset shall be considered by the Board only after attempting to collect a claim under the statutes administered by the Board except that no claim under this Act that has been outstanding for more than 10 years after the Government's right to collect the debt first accrued may be collected by means of administrative offset, unless facts material to the right to collect the debt were not known and could not reasonably have been known by the official of the agency who was charged with the responsibility to discover and collect such debts.
+
+[56 FR 46375, Sept. 12, 1991, as amended at 62 FR 19220, Apr. 21, 1997; 81 FR 30173, May 16, 2016]

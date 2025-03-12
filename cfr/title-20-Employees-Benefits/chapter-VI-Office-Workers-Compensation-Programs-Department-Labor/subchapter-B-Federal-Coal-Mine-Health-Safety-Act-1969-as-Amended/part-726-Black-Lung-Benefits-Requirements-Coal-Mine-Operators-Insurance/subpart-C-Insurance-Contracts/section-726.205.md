@@ -1,0 +1,3 @@
+##### § 726.205 Other forms of endorsement and policies. #####
+
+Forms of endorsement or policies other than that described in § 726.203 may be entered into by operators to insure their liability under the Act. However, any form of endorsement or policy which materially alters or attempts to materially alter an operator's liability for the payment of any benefits under the Act shall be deemed insufficient to discharge such operator's duties and responsibilities as prescribed in part C of title IV of the Act. In any event, the failure of an operator to obtain an adequate policy or contract of insurance shall not affect such operator's liability for the payment of any benefits for which he is determined liable.

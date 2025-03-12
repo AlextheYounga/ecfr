@@ -1,0 +1,17 @@
+##### § 725.409 Denial of a claim by reason of abandonment. #####
+
+(a) A claim may be denied at any time by the district director by reason of abandonment where the claimant fails:
+
+(1) To undergo a required medical examination without good cause; or,
+
+(2) To submit evidence sufficient to make a determination of the claim; or,
+
+(3) To pursue the claim with reasonable diligence; or,
+
+(4) To attend an informal conference without good cause.
+
+(b)(1) If the district director determines that a denial by reason of abandonment under paragraphs (a)(1) through (3) of this section is appropriate, he or she shall notify the claimant of the reasons for such denial and of the action which must be taken to avoid a denial by reason of abandonment. If the claimant completes the action requested within the time allowed, the claim shall be developed, processed and adjudicated as specified in this part. If the claimant does not fully comply with the action requested by the district director, the district director shall notify the claimant that the claim has been denied by reason of abandonment. Such notification shall be served on the claimant and all other parties to the claim by certified mail.
+
+(2) In any case in which a claimant has failed to attend an informal conference and has not provided the district director with his reasons for failing to attend, the district director shall ask the claimant to explain his absence. In considering whether the claimant had good cause for his failure to attend the conference, the district director shall consider all relevant circumstances, including the age, education, and health of the claimant, as well as the distance between the claimant's residence and the location of the conference. If the district director concludes that the claimant had good cause for failing to attend the conference, he may continue processing the claim, including, where appropriate under § 725.416, the scheduling of an informal conference. If the claimant does not supply the district director with his reasons for failing to attend the conference within 30 days of the date of the district director's request, or the district director concludes that the reasons supplied by the claimant do not establish good cause, the district director shall notify the claimant that the claim has been denied by reason of abandonment. Such notification shall be served on the claimant and all other parties to the claim by certified mail.
+
+(c) The denial of a claim by reason of abandonment shall become effective and final unless, within 30 days after the denial is issued, the claimant requests a hearing. Following the expiration of the 30-day period, a new claim may be filed at any time pursuant to § 725.309. For purposes of § 725.309, a denial by reason of abandonment shall be deemed a finding that the claimant has not established any applicable condition of entitlement. If the claimant timely requests a hearing, the district director shall refer the case to the Office of Administrative Law Judges in accordance with § 725.421. Except upon the motion or written agreement of the Director, the hearing will be limited to the issue of whether the claim was properly denied by reason of abandonment. If the hearing is limited to the issue of abandonment and the administrative law judge determines that the claim was not properly denied by reason of abandonment, he shall remand the claim to the district director for the completion of administrative processing.

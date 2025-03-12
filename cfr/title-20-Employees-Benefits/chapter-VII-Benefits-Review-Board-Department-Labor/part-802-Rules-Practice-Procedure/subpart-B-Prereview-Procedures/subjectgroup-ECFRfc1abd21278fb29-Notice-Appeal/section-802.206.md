@@ -1,0 +1,15 @@
+##### § 802.206 Effect of motion for reconsideration on time for appeal. #####
+
+(a) A timely motion for reconsideration of a decision or order of an administrative law judge or deputy commissioner shall suspend the running of the time for filing a notice of appeal.
+
+(b)(1) In a case involving a claim filed under the Longshore and Harbor Workers' Compensation Act or its extensions (see § 802.101(b)(1)-(5)), a timely motion for reconsideration for purposes of paragraph (a) of this section is one which is filed not later than 10 days from the date the decision or order was filed in the Office of the Deputy Commissioner.
+
+(2) In a case involving a claim filed under title IV of the Federal Mine Safety and Health Act, as amended (see § 802.101(b)(6)), a timely motion for reconsideration for purposes of paragraph (a) of this section is one which is filed not later than 30 days from the date the decision or order was served on all parties by the administrative law judge and considered filed in the Office of the Deputy Commissioner (see §§ 725.478 and 725.479(b), (c) of this title).
+
+(c) If the motion for reconsideration is sent by mail and the fixing of the date of delivery as the date of filing would result in a loss or impairment of reconsideration rights, it will be considered to have been filed as of the date of mailing. The date appearing on the U.S. Postal Service postmark (when available and legible) shall be prima facie evidence of the date of mailing. If there is no such postmark or it is not legible, other evidence such as, but not limited to, certified mail receipts, certificates of service and affidavits may also be used to establish the mailing date.
+
+(d) If a motion for reconsideration is granted, the full time for filing an appeal commences on the date the subsequent decision or order on reconsideration is filed as provided in § 802.205.
+
+(e) If a motion for reconsideration is denied, the full time for filing an appeal commences on the date the order denying reconsideration is filed as provided in § 802.205.
+
+(f) If a timely motion for reconsideration of a decision or order of an administrative law judge or deputy commissioner is filed, any appeal to the Board, whether filed prior to or subsequent to the filing of the timely motion for reconsideration, shall be dismissed without prejudice as premature. Following decision by the administrative law judge or deputy commissioner pursuant to either paragraph (d) or (e) of this section, a new notice of appeal shall be filed with the Clerk of the Board by any party who wishes to appeal. During the pendency of an appeal to the Board, any party having knowledge that a motion for reconsideration of a decision or order of an administrative law judge or deputy commissioner has been filed shall notify the Board of such filing.

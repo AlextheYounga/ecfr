@@ -1,0 +1,3 @@
+##### § 702.133 Unapproved fees; solicitation of claimants; penalties. #####
+
+Under the provisions of section 28(e) of the Act, 33 U.S.C. 928(e), any person who receives any fees, other consideration, or any gratuity on account of services rendered as a representative of a claimant, unless such consideration or gratuity is approved under § 702.132, or who makes it a business to solicit employment for an attorney, or for himself in respect of any claim under the Act, shall upon conviction thereof, for each offense be punished by a fine of not more than $1,000 or by imprisonment for not more than 1 year, or by both fine and imprisonment.

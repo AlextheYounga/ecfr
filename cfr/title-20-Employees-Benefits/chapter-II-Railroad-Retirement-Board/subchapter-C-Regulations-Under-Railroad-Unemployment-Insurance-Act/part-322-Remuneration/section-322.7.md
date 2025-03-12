@@ -1,0 +1,7 @@
+##### § 322.7 Dismissal, coordination, and separation allowances. #####
+
+(a) *Coordination or dismissal allowance.* Coordination or dismissal allowances are payments made to an employee who has been furloughed for a specified period of time during which he or she continues in an employment relationship and remains subject to call. Such pay is remuneration with respect to each day in the month or other period for which it is payable. The employer shall be held liable to the Board for any benefits paid to the employee and found recoverable under section 2(f) of the Railroad Unemployment Insurance Act by reason of the payment of any such allowances or other pay for the same days for which the Board paid benefits.
+
+(b) *Separation allowance.* A separation allowance or severance payment made to an employee who voluntarily or involuntarily terminates his or her employment relationship is not remuneration with respect to any day after the employment relationship is severed. An employee who is paid a separation allowance, whether in a lump sum or in installments, is disqualified by section 4(a-1)(iii) of the Railroad Unemployment Insurance Act from receiving unemployment or sickness benefits for the period of time approximating the length of time it would have taken the employee to earn, at his or her “straight” time rate of pay, the amount of the separation allowance if he or she had continued working in the job from which he or she separated.
+
+[65 FR 14460, Mar. 17, 2000]

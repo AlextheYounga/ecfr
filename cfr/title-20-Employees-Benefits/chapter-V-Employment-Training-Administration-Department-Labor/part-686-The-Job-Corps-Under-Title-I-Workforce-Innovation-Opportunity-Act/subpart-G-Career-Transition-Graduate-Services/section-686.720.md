@@ -1,0 +1,3 @@
+##### § 686.720 Who provides career transition services? #####
+
+The one-stop delivery system must be used to the maximum extent practicable in placing graduates and former enrollees in jobs. Multiple other resources also may provide post-program services, including but not limited to Job Corps career transition service providers under a contract or other agreement with the Department of Labor, and State vocational rehabilitation agencies for individuals with disabilities.

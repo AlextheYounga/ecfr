@@ -1,0 +1,5 @@
+##### § 30.105 What must DOE do after an employee or survivor files a claim? #####
+
+(a) After it receives a claim for benefits described in § 30.100 or § 30.101, OWCP may request that DOE verify the employment history provided by the claimant. Upon receipt of such a request, DOE will complete Form EE-5 as soon as possible and transmit the completed form to OWCP. On this form, DOE will certify either that it concurs with the employment history provided by the claimant, that it disagrees with such history, or that it can neither concur nor disagree after making a reasonable search of its records and also making a reasonable effort to locate pertinent records not already in its possession.
+
+(b) Claims for additional impairment or wage-loss benefits under Part E of the Act described in § 30.102 will not require any verification of employment by DOE, since OWCP will have made any required findings on this particular issue when it adjudicated the employee's initial claim for benefits.

@@ -1,0 +1,3 @@
+##### § 404.242 Use of old-start primary insurance amount as guaranteed alternative. #####
+
+If your primary insurance amount as computed under the old-start method is higher than your primary insurance amount computed under the average-monthly-wage method, your old-start primary insurance amount will serve as the guaranteed alternative to your primary insurance amount computed under the average-indexed-monthly-earnings method, as described in § 404.230. However, earnings that you have in or after the year you reach age 62, or become disabled or die before age 62 are not used in an old-start computation in this situation.

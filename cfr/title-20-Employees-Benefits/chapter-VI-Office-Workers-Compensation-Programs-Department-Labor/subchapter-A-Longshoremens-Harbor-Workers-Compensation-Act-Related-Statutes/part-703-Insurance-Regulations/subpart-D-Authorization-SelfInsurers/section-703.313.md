@@ -1,0 +1,3 @@
+##### § 703.313 Revocation of authorization to self-insure. #####
+
+The Office may for good cause shown suspend or revoke the authorization of any self-insurer. Failure by a self-insurer to comply with any provision or requirement of law or of the regulations in this part, or with any lawful order or communication of the Office, or the failure or insolvency of the surety on its indemnity bond, or impairment of financial responsibility of such self-insurer, shall be deemed good cause for suspension or revocation.

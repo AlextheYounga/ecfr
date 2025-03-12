@@ -1,0 +1,7 @@
+##### § 222.42 When employee is contributing to support. #####
+
+(a) An employee is contributing to the support of a person if the employee gives cash, goods, or services to help support such person. Support includes food, clothing, housing, routine medical care, and other ordinary and necessary living expenses. The value of any goods which the employee contributes shall be based upon the replacement cost of those goods at the time they are contributed. If the employee provides services that would otherwise require monetary payment, the cash value of the employee's services may be considered a contribution to support.
+
+(b) The employee is contributing to the support of a person if that person receives an allotment, allowance, or benefit based upon the employee's military pay, veteran's pension or compensation, social security earnings, or railroad compensation.
+
+(c) Contributions must be made regularly and must be large enough to meet an important part of the person's ordinary and necessary living expenses. If the employee provides only occasional gifts or donations for special purposes, they will not be considered contributions for support. Although the employee's contributions must be made on a regular basis, temporary interruptions caused by circumstances beyond the employee's control, such as illness or unemployment, will be disregarded unless during these interruptions someone else assumes responsibility for support of the person on a regular basis.

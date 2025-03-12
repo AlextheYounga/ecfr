@@ -1,0 +1,3 @@
+##### § 801.103 Organizational placement. #####
+
+As prescribed by the statute, the functions of the Benefits Review Board are quasi-judicial in nature and involve review of decisions made in the course of the administration of the above statutes by the Employment Standards Administration in the Department of Labor. It is accordingly found appropriate for organizational purposes to place the Board in the Office of the Deputy Secretary and it is hereby established in that Office, which shall be responsible for providing necessary funds, personnel, supplies, equipment, and records services for the Board.

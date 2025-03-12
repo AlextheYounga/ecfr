@@ -1,0 +1,5 @@
+##### § 686.1050 How are the expected levels of performance for Job Corps centers, outreach and admissions providers and career transition service providers established? #####
+
+(a) The Secretary establishes expected levels of performance for Job Corps centers, outreach and admissions providers and career transition service providers and the Job Corps program relating to each of the primary indicators of performance described in §§ 686.1010, 686.1020, and 686.1030.
+
+(b) As described in § 686.1000, the Secretary will issue annual guidance describing the national performance management system and outcomes measurement system, which will communicate the expected levels of performance for each primary indicator of performance for each center, and each indicator of performance for each outreach and admission provider, and for each career transition service provider. Such guidance also will describe how the expected levels of performance were calculated.

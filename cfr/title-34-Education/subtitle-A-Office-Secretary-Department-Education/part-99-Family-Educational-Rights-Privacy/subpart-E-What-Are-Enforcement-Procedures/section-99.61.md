@@ -1,0 +1,5 @@
+##### § 99.61 What responsibility does an educational agency or institution, a recipient of Department funds, or a third party outside of an educational agency or institution have concerning conflict with State or local laws? #####
+
+If an educational agency or institution determines that it cannot comply with the Act or this part due to a conflict with State or local law, it must notify the Office within 45 days, giving the text and citation of the conflicting law. If another recipient of Department funds under any program administered by the Secretary or a third party to which personally identifiable information from education records has been non-consensually disclosed determines that it cannot comply with the Act or this part due to a conflict with State or local law, it also must notify the Office within 45 days, giving the text and citation of the conflicting law.
+
+(Authority: 20 U.S.C. 1232g(f))[76 FR 75642, Dec. 2, 2011]

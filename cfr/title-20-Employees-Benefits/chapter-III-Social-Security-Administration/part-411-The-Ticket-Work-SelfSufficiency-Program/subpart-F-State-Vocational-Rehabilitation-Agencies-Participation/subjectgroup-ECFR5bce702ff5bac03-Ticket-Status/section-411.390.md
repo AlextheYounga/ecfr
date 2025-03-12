@@ -1,0 +1,5 @@
+##### § 411.390 What does a State VR agency do if a beneficiary to whom it is already providing services has a ticket that is available for assignment? #####
+
+If a beneficiary who is receiving services from the State VR agency under an existing IPE becomes eligible for a ticket that is available for assignment, the State VR agency must submit the information required in § 411.385(a) to the PM. We require this information in order for the beneficiary's ticket to be considered in use. If a beneficiary who is receiving services from the State VR agency under an existing IPE becomes eligible for a ticket that is available for assignment, the State VR agency is limited to the cost reimbursement payment system, unless both the beneficiary and the State VR agency agree to have the ticket assigned to the State VR agency.
+
+[73 FR 29345, May 20, 2008]

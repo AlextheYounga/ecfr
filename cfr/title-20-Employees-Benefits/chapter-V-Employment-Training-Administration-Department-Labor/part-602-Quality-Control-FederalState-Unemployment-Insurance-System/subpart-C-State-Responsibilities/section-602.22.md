@@ -1,0 +1,3 @@
+##### § 602.22 Exceptions. #####
+
+If the Department determines that the QC program, or any constituent part of the QC program, is not necessary for the proper and efficient administration of a State law or in the Department's view is not cost effective, the Department shall use established procedures to advise the State that it is partially or totally excepted from the specified requirements of this part. Any determination under this section shall be made only after consultations with the State agency.

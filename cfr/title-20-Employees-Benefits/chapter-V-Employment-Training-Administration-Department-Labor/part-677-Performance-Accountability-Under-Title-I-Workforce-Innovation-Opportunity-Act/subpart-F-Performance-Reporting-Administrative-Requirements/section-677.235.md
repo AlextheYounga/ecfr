@@ -1,0 +1,7 @@
+##### § 677.235 What are the reporting requirements for individual records for core Workforce Innovation and Opportunity Act (WIOA) title I programs; the Wagner-Peyser Act Employment Service program, as amended by WIOA title III; and the Vocational Rehabilitation program authorized under title I of the Rehabilitation Act of 1973, as amended by WIOA title IV? #####
+
+(a) On a quarterly basis, each State must submit to the Secretary of Labor or the Secretary of Education, as appropriate, individual records that include demographic information, information on services received, and information on resulting outcomes, as appropriate, for each reportable individual in either of the following programs administered by the Secretary of Labor or Secretary of Education: A WIOA title I core program; the Employment Service program authorized under the Wagner-Peyser Act, as amended by WIOA title III; or the VR program authorized under title I of the Rehabilitation Act of 1973, as amended by WIOA title IV.
+
+(b) For individual records submitted to the Secretary of Labor, those records may be required to be integrated across all programs administered by the Secretary of Labor in one single file.
+
+(c) States must comply with the requirements of sec. 116(d)(2) of WIOA as explained in guidance issued by the Departments of Labor and Education.

@@ -1,0 +1,5 @@
+##### § 404.1065 Self-employment coverage. #####
+
+For an individual to have self-employment coverage under social security, the individual must be engaged in a trade or business and have net earnings from self-employment that can be counted as self-employment income for social security purposes. The rules explaining whether you are engaged in a trade or business are in §§ 404.1066 through 404.1077. What are net earnings from self-employment is discussed in §§ 404.1080 through 404.1095. Section 404.1096 describes the net earnings from self-employment that are counted as self-employment income for social security purposes. See § 404.1913 for the effect of a totalization agreement on self-employment coverage. An agreement may exempt an activity from coverage as well as extend coverage to an activity.
+
+[50 FR 36574, Sept. 9, 1985]

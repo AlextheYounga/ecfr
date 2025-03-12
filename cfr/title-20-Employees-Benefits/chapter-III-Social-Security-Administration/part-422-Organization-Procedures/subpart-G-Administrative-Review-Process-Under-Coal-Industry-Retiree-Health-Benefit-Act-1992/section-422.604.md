@@ -1,0 +1,11 @@
+##### § 422.604 Request for detailed information. #####
+
+(a) *General.* After you receive our notice of assignment listing the beneficiaries for whom you have premium responsibility, you may request detailed information as to the work histories of any of the listed miners and the basis for the assignment. Your request for detailed information must:
+
+(1) Be in writing;
+
+(2) Be filed with us within 30 days of receipt of that notice of assignment. Unless you submit evidence showing a later receipt of the notice, we will assume the notice was received by you within 5 days of the date appearing on the notice. We will consider the request to be filed as of the date we receive it. However, if we receive the request after the 30-day period, the postmark date on the envelope may be used as the filing date. If there is no postmark or the postmark is illegible, the filing date will be deemed to be the fifth day prior to the day we received the request; and
+
+(3) Identify the individual miners about whom you are requesting the detailed information.
+
+(b) *The detailed information we will provide.* We will send you detailed information as to the work history and the basis for the assignment for each miner about whom you requested such information. This information will include the name and address of each employer for whom the miner has worked since 1978 or since 1946 (whichever period is appropriate), the amount of wages paid by each employer and the period for which the wages were reported. We will send you the detailed information with a notice informing you that you have 30 days from the date you receive the information to submit to SSA evidence of a prima facie case of error (as defined in § 422.602) and request review of the assignment if you have not already requested review. The notice will also inform you that, if you are seeking evidence to make a case of prima facie error, you may include with a timely filed request for review a written request for additional time to obtain and submit such evidence to us. Under these circumstances, you will have 90 days from the date of your request to submit the evidence before we determine whether we will review the assignment.

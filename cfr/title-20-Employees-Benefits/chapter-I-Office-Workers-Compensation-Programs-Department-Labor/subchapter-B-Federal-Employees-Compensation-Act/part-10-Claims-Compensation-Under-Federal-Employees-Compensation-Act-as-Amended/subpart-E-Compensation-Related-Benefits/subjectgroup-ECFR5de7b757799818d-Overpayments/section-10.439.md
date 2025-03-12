@@ -1,0 +1,3 @@
+##### § 10.439 What is addressed at a pre-recoupment hearing? #####
+
+At a pre-recoupment hearing, the OWCP representative will consider all issues in the claim on which a formal decision has been issued. Such a hearing will thus fulfill OWCP's obligation to provide pre-recoupment rights and a hearing under 5 U.S.C. 8124(b). Pre-recoupment hearings shall be conducted in exactly the same manner as provided in § 10.615 through § 10.622.

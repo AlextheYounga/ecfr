@@ -1,0 +1,17 @@
+##### § 402.105 Exemption seven for withholding records: Law enforcement. #####
+
+We are not required to disclose information or records that the government has compiled for law enforcement purposes. The records may apply to actual or potential violations of either criminal or civil laws or regulations. We can withhold these records only to the extent that releasing them would cause harm in at least one of the following situations:
+
+(a) *Enforcement proceedings.* We may withhold information whose release could reasonably be expected to interfere with prospective or ongoing law enforcement proceedings. Investigations of fraud and mismanagement, employee misconduct, and civil rights violations may fall into this category. In certain cases—such as when a fraud investigation is likely—we may refuse to confirm or deny the existence of records that relate to the violations in order not to disclose that an investigation is in progress, or may be conducted.
+
+(b) *Fair trial or impartial adjudication.* We may withhold records whose release would deprive a person of a fair trial or an impartial adjudication because of prejudicial publicity.
+
+(c) *Personal privacy.* We are careful not to disclose information that could reasonably be expected to constitute an unwarranted invasion of personal privacy. When a name surfaces in an investigation, that person is likely to be vulnerable to innuendo, rumor, harassment, and retaliation.
+
+(d) *Confidential sources and information.* We may withhold records whose release could reasonably be expected to disclose the identity of a confidential source of information. A confidential source may be an individual; a State, local, or foreign government agency; or any private organization. The exemption applies whether the source provides information under an express promise of confidentiality or under circumstances from which such an assurance could be reasonably inferred. Also, where the record, or information in it, has been compiled by a law enforcement authority conducting a criminal investigation, or by an agency conducting a lawful national security investigation, the exemption also protects all information supplied by a confidential source. Also protected from mandatory disclosure is any information which, if disclosed, could reasonably be expected to jeopardize the system of confidentiality that assures a flow of information from sources to investigatory agencies.
+
+(e) *Techniques and procedures.* We may withhold records reflecting special techniques or procedures of investigation or prosecution, not otherwise generally known to the public. In some cases, it is not possible to describe even in general terms those techniques without disclosing the very material to be withheld. We may also withhold records whose release would disclose guidelines for law enforcement investigations or prosecutions if this disclosure could reasonably be expected to create a risk that someone could circumvent requirements of law or of regulation.
+
+(f) *Life and physical safety.* We may withhold records whose disclosure could reasonably be expected to endanger the life or physical safety of any individual. This protection extends to threats and harassment as well as to physical violence.
+
+[62 FR 4154, Jan. 29, 1997. Redesignated at 63 FR 35132, June 29, 1998]

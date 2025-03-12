@@ -1,0 +1,5 @@
+##### § 666.400 Under what circumstances are local areas eligible for State Incentive Grants? #####
+
+(a) States must use a portion of the funds reserved for Statewide workforce investment activities under WIA sections 128(a) and 133(a)(1) to provide Incentive Grants to local areas for regional cooperation among local boards (including local boards for a designated region, as described in WIA section 116(c)), for local coordination of activities carried out under this Act, and for exemplary performance on the local performance measures established under subpart C of this part.
+
+(b) The amount of funds used for Incentive Grants under paragraph (a) of this section and the criteria used for determining exemplary local performance levels to qualify for the incentive grants are determined by the Governor. (WIA sec. 134(a)(2)(B)(iii).)

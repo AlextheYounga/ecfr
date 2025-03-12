@@ -1,0 +1,3 @@
+##### § 220.140 General. #####
+
+The work that a claimant has done during any period in which the claimant believes he or she is disabled may show that the claimant is able to do work at the substantial gainful activity level. If the claimant is able to engage in substantial gainful activity, the Board will find that the claimant is not disabled for any regular employment under the Railroad Retirement Act. Even if the work the claimant has done was not substantial gainful activity, it may show that the claimant is able to do more work than he or she actually did. The Board will consider all of the medical and vocational evidence in the claimant's file to decide whether or not the claimant has the ability to engage in substantial gainful activity.

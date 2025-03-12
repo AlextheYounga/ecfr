@@ -1,0 +1,5 @@
+##### § 320.18 Hearings officer. #####
+
+Within a reasonable time after a party has filed a properly executed appeal, the Director of Hearings and Appeals shall appoint a hearings officer to act in the appeal. Such hearings officer shall not have any interest in the parties or in the outcome of the proceeding, shall not have directly participated in the initial determination from which the appeal is made, and shall not have any other interest in the matter which might prevent a fair and impartial hearing. In any case in which employee status or creditability of compensation is an issue, the hearings officer shall receive evidence and report to the Board thereon with recommendations. In all other cases, the hearings officer shall consider and decide the appeal; in each such case where the hearings officer determines that an issue of fact exists, the parties shall have the right to a hearing.
+
+[56 FR 65680, Dec. 18, 1991]

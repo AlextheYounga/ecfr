@@ -1,0 +1,3 @@
+##### § 229.84 Conviction for subversive activities. #####
+
+If a person is convicted of subversive activities (under chapter 37, 105, or 115 of title 18 of the U.S. Code or section 4, 112, or 113 of the Internal Security Act of 1950, as amended), the court may order that earnings in the year of the conviction and previous years are to be disregarded in determining whether the person is entitled to social security benefits. These earnings would also be ignored in determining entitlement to the age or DIB O/M.

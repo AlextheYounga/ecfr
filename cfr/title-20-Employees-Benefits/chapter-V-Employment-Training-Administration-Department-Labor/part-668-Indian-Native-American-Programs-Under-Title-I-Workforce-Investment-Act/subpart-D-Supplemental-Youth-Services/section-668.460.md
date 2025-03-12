@@ -1,0 +1,3 @@
+##### § 668.460 Are there performance measures and standards applicable to the supplemental youth services program? #####
+
+Yes, WIA section 166(e)(5) requires that the program plan contain a description of the performance measures to be used to assess the performance of grantees in carrying out the activities assisted under this section. We will develop specific indicators of performance and levels of performance for supplemental youth services activities in partnership with the Native American Employment and Training Council, and will transmit them to INA grantees as an administrative issuance.

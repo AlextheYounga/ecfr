@@ -1,0 +1,3 @@
+##### § 411.730 What happens if an alternate participant signed an employment plan with a beneficiary before Ticket to Work program implementation in the State and the required period of substantial gainful activity is not completed by January 1, 2004? #####
+
+The beneficiary does not have to complete the nine-month continuous period of substantial gainful activity (SGA) prior to January 1, 2004, in order for the costs of the services to be payable under the programs for payments for VR services. The nine-month SGA period can be completed after January 1, 2004. However, SSA will not pay an alternate participant under these programs for the costs of any services provided after December 31, 2003.

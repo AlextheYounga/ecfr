@@ -1,0 +1,3 @@
+##### § 270.1 What is the Equity Assistance Center Program? #####
+
+This program provides financial assistance to operate regional Equity Assistance Centers (EACs), to enable them to provide technical assistance (including training) at the request of school boards and other responsible governmental agencies in the preparation, adoption, and implementation of plans for the desegregation of public schools, and in the development of effective methods of coping with special educational problems occasioned by desegregation.

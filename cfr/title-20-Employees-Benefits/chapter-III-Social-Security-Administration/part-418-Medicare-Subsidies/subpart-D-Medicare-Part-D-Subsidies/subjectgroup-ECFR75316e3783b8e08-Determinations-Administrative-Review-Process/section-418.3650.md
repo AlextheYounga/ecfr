@@ -1,0 +1,3 @@
+##### § 418.3650 How do we make our decision upon review? #####
+
+After you request review of our initial determination, we will review the information that we considered in making the initial determination and any other information we receive. We will make our decision based on this information. The issues that we will review are the issues with which you disagree. We may consider other issues, but we will provide you with advance notice of these other issues as explained in § 418.3625. If you are dissatisfied with our final decision, you may file an action in Federal district court.

@@ -1,0 +1,5 @@
+##### § 654.12 Description of Executive Order 10582. #####
+
+(a) Under the Buy American Act, heads of executive agencies are required to determine, as a condition precedent to the purchase by their agencies of materials of foreign origin for public use within the United States, (1) that the price of like materials of domestic origin is unreasonable, or (2) that the purchase of like materials of domestic origin is inconsistent with the public interest.
+
+(b) Section 3(c) of Executive Order 10582 issued pursuant to the Buy American Act permits executive agencies to reject a bid or offer to furnish materials of foreign origin in any situation in which the domestic supplier, offering the lowest price for furnishing the desired materials, undertakes to produce substantially all of the materials in areas of substantial unemployment, as determined by the Secretary of Labor.

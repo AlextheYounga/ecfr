@@ -1,0 +1,3 @@
+##### § 416.1482 Extension of time to file action in Federal district court. #####
+
+Any party to the Appeals Council's decision or denial of review, or to an expedited appeals process agreement, may request that the time for filing an action in a Federal district court be extended. The request must be in writing and it must give the reasons why the action was not filed within the stated time period. The request must be filed with the Appeals Council, or if it concerns an expedited appeals process agreement, with one of our offices. If you show that you had good cause for missing the deadline, the time period will be extended. To determine whether good cause exists, we use the standards explained in § 416.1411.

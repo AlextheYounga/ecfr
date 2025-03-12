@@ -1,0 +1,3 @@
+##### § 655.3 Territory of Guam. #####
+
+This subpart does not apply to temporary employment in the Territory of Guam, except that an employer who applies for a temporary labor certification for a job opportunity on Guam will need to obtain a prevailing wage from the U.S. Department of Labor (DOL) in accordance with § 655.10, subject to the transfer of authority to set the prevailing wage for a job opportunity on Guam to DOL in title 8 of the Code of Federal Regulations. DOL does not certify to DHS the temporary employment of H-2B nonimmigrant foreign workers, or enforce compliance with the provisions of the H-2B visa program, in the Territory of Guam.

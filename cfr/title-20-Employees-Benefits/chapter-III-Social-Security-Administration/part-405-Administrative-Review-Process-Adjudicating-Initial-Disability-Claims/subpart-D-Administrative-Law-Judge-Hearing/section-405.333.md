@@ -1,0 +1,3 @@
+##### § 405.333 Submitting documents. #####
+
+All documents prepared and submitted by you, *i.e.*, not including medical or other evidence that is prepared by persons other than the claimant or his or her representative, should clearly designate the name of the claimant and the last four digits of the claimant's social security number. All such documents must be clear and legible to the fullest extent practicable and delivered or mailed to the administrative law judge within the time frames that he or she prescribes. Documents that are typewritten or produced with word processing software must use type face no smaller than 12 point font.

@@ -1,0 +1,5 @@
+##### § 901.70 Records. #####
+
+(a) *Availability.* There are made available for public inspection at the Office of the Executive Director of the Joint Board for the Enrollment of Actuaries a roster of all persons enrolled to perform actuarial services under ERISA and a roster of all persons whose enrollments to perform such services have been suspended or terminated. Other records may be disclosed upon specific request, in accordance with the applicable disclosure and privacy statutes.
+
+(b) *Disciplinary procedures.* A request by an enrolled actuary that a hearing in a disciplinary proceeding concerning him/her be public, and that the record thereof be made available for inspection by interested persons may be granted if written agreement is reached in advance to protect from disclosure tax information which is confidential, in accordance with applicable statutes and regulations.

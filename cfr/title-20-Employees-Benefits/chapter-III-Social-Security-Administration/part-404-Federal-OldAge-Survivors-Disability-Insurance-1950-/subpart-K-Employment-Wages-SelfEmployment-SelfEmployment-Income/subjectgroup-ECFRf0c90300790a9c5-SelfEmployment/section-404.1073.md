@@ -1,0 +1,11 @@
+##### § 404.1073 Public office. #####
+
+(a) *General.* The performance of the functions of a public office is not a trade or business except under the circumstances explained in paragraph (b) of this section. If you are an officer of a State or political subdivision, you are considered as employee of the State or political subdivision.
+
+(b) *State and local governmental employees paid by fees*—(1) *Voluntary coverage under section 218 of the Act.* The services of employees of States and political subdivisions, including those in positions paid solely on a fee-basis, may be covered as employment by a Federal-State agreement under section 218 of the Act (see subpart M of this part). States, when entering into these agreements, have the option of excluding under the agreement coverage of services in positions paid solely by fees. If you occupy a position paid solely on a fee-basis and the State has not covered your services under section 218 of the Act, you are considered to be engaged in a trade or business.
+
+(2) *Mandatory old-age, survivors, disability, and hospital insurance coverage.* Beginning with services performed after July 1, 1991, Social Security coverage (old-age, survivors, disability, and hospital insurance) is mandatory, with certain exceptions, for services performed by employees of a State, a political subdivision of a State, or of a wholly owned instrumentality of one or more of the foregoing, if the employees are not members of a retirement system of the State, political subdivision, or instrumentality. Among the exclusions from such mandatory coverage is service performed by an employee in a position compensated solely on a fee-basis which is treated pursuant to section 211(c)(2)(E) of the Act as a trade or business for purposes of inclusion of such fees in the net earnings from self-employment.
+
+(3) If you are a notary public, you are not a public officer even though you perform a public function. Your services as a notary public are not covered for social security purposes.
+
+[45 FR 20075, Mar. 27, 1980, as amended at 57 FR 59910, Dec. 17, 1992]

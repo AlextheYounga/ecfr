@@ -1,0 +1,3 @@
+##### § 266.15 Transfer of accumulated benefit payments. #####
+
+A representative payee who has conserved or invested funds from railroad retirement payments made to him or her on behalf of an annuitant shall, upon direction of the Board, transfer any such funds (including interest or dividends earned from investment of such funds) to a successor representative payee appointed by the Board, or, at the option of the Board, shall transfer such funds, including interest, to the Board for payment to a successor payee or to the annuitant.

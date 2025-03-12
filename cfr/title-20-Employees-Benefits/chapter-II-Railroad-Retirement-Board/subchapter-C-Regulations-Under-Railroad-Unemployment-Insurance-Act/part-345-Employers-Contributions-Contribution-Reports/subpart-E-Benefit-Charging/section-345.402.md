@@ -1,0 +1,3 @@
+##### § 345.402 Strikes or work stoppages. #####
+
+If benefits are payable to an employee for days of unemployment resulting from a strike or work stoppage growing out of a labor dispute, the Board will charge the benefit payment to the system unallocated charge balance, not to the cumulative benefit balance of the employee's base year employer. For the purposes of this section, the phrase “strike or work stoppage growing out of a labor dispute” does not include an employee's protected refusal to work under section 212(b) of the Federal Railroad Safety Act of 1970 (45 U.S.C. 441(b)).

@@ -1,0 +1,3 @@
+##### § 225.10 General. #####
+
+This subpart contains information about the PIA's that can be used in computing most employee, spouse and divorced spouse annuities. The Tier I PIA is used in computing the tier I component of an employee, spouse or divorced spouse annuity. The Combined Earnings Dual Benefit PIA, Social Security Earnings Dual Benefit PIA and Railroad Earnings Dual Benefit PIA are used in computing an employee's vested dual benefit component and a corresponding tier II component offset when entitlement to a vested dual benefit exists. Retirement annuity computations are discussed in part 226 of this chapter. The Overall Minimum PIA is used in computing the overall minimum guaranty formula rate as discussed in part 229 of this chapter.

@@ -1,0 +1,5 @@
+##### § 216.91 Entitlement as an employee and spouse, divorced spouse, or survivor. #####
+
+(a) *General.* If an individual is entitled to an annuity as a spouse, divorced spouse or survivor, and is also entitled to an employee annuity, then the spouse, divorced spouse or survivor annuity must be reduced by the amount of the employee annuity. However, this reduction does not apply (except as provided in paragraph (b) of this section) if the spouse, divorced spouse or survivor or the individual upon whose earnings record the spouse, divorced spouse or survivor annuity is based worked for a railroad employer or as an employee representative before January 1, 1975.
+
+(b) *Tier I reduction.* If an individual is entitled to an annuity as a spouse, divorced spouse or survivor, and is also entitled to an employee annuity, then the tier I component of the spouse, divorced spouse or survivor annuity must be reduced by the amount of the tier I component of the employee annuity. Where the spouse or survivor is entitled to a tier II component, then a portion of this reduction may be restored in the computation of this component.

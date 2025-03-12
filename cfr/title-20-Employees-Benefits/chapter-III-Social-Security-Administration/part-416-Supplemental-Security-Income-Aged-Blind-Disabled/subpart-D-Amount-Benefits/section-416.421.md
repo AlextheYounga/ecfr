@@ -1,0 +1,7 @@
+##### § 416.421 Determination of benefits; computation of prorated benefits. #####
+
+(a) In the month that you reacquire eligibility after a month or more of ineligibility (see § 416.1320(b)), your benefit will be prorated according to the number of days in the month that you are eligible beginning with the date on which you meet all eligibility requirements.
+
+(b) In determining the amount of your benefit for a month in which benefits are to be prorated, we first compute the amount of the benefit that you would receive for the month as if proration did not apply. We then determine the date on which you meet all factors of eligibility. (The income limits must be met based on the entire month and the resource limit must be as of the first day of the month.) We then count the number of days in the month beginning with the day on which you first meet all factors of eligibility through the end of the month. We then multiply the amount of your unprorated benefit for the month by the number of days for which you are eligible for benefits and divide that figure by the number of days in the month for which your benefit is being determined. The result is the amount of the benefit that you are due for the month in which benefits are to be prorated.
+
+[51 FR 13493, Apr. 14, 1986, as amended at 64 FR 31973, June 15, 1999]

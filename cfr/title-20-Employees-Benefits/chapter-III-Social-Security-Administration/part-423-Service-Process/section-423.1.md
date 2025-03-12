@@ -1,0 +1,7 @@
+##### § 423.1 Suits against the Social Security Administration and its employees in their official capacities. #####
+
+(a) *Suits involving claims arising under Titles II, VIII, and/or XVI.* In cases seeking judicial review of final Agency decisions on individual claims for benefits under titles II, VIII, and/or XVI of the Social Security Act, summonses and complaints to be served by mail on the Social Security Administration or the Commissioner of Social Security should be sent to the office in the Social Security Administration's Office of the General Counsel that is responsible for the processing and handling of litigation in the particular jurisdiction in which the complaint has been filed. The names, addresses, and jurisdictional responsibilities of these offices are published in the Federal Register, and are available on-line at the Social Security Administration's Internet site, *http://www.socialsecurity.gov.*
+
+(b) *Other suits.* In cases that do not involve claims described in paragraph (a) of this section, summonses and complaints to be served by mail on the Social Security Administration or the Commissioner of Social Security should be sent to the General Counsel, Social Security Administration, Room 617, Altmeyer Building, 6401 Security Boulevard, Baltimore, MD 21235.
+
+[70 FR 73136, Dec. 9, 2005]

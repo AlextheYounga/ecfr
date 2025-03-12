@@ -1,0 +1,3 @@
+##### § 668.860 What cash management procedures apply to INA grant funds? #####
+
+INA grantees must draw down funds only as they actually need them. The U.S. Department of Treasury regulations which implement the Cash Management Improvement Act, found at 31 CFR part 205, apply by law to most recipients of Federal funds. Special rules may apply to those grantees required to keep their funds in interest-bearing accounts, and to grantees participating in the demonstration under Public Law 102-477.

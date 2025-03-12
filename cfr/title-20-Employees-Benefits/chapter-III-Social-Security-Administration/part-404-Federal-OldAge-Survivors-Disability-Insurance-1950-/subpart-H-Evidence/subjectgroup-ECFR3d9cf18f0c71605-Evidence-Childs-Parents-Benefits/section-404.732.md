@@ -1,0 +1,3 @@
+##### § 404.732 Evidence you are a stepparent or stepchild. #####
+
+If you are the stepparent or stepchild of the insured person, we will ask for the evidence described in § 404.731 or § 404.733 that which shows your natural or adoptive relationship to the insured person's husband, wife, widow, or widower. We will also ask for evidence of the husband's, wife's, widow's, or widower's marriage to the insured person—see § 404.725.

@@ -1,0 +1,3 @@
+##### § 664.210 How is the “requires additional assistance to complete an educational program, or to secure and hold employment” criterion in § 664.200(c)(6) defined and documented? #####
+
+Definitions and eligibility documentation requirements regarding the “requires additional assistance to complete an educational program, or to secure and hold employment” criterion of § 664.200(c)(6) may be established at the State or local level. In cases where the State Board establishes State policy on this criterion, the policy must be included in the State Plan. (WIA sec. 101(13)(C)(iv).)

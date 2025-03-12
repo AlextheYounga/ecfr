@@ -1,0 +1,5 @@
+##### § 404.1284 Offsetting underpayments against overpayments—for wages paid prior to 1987. #####
+
+(a) *State fails to make adjustment for allowance of credit.* If SSA notifies a State that a credit is due the State, and the State does not make the adjustment for the allowance of the credit, SSA offsets the credit against any contributions or interest due. Before making the offset, SSA will give the State an opportunity to make the adjustment.
+
+(b) *State fails to make adjustment for underpayment of contributions or interest due.* If SSA notifies a State that contributions or interest are due, and the State does not pay the contributions or interest, SSA offsets the contributions or interest due against any credit due the State. Before making the offset, SSA will give the State an opportunity to pay the underpayment or interest due.

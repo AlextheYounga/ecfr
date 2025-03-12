@@ -1,0 +1,3 @@
+##### § 429.209 Are there any restrictions on attorney's fees? #####
+
+No more than 10 percent of the amount in settlement of each individual claim submitted and settled under this subpart shall be paid or delivered to, or received by, any agent or attorney on account of services rendered in connection with that claim. A person violating this subsection shall be fined not more than $1,000.00 (31 U.S.C. 3721(i)).

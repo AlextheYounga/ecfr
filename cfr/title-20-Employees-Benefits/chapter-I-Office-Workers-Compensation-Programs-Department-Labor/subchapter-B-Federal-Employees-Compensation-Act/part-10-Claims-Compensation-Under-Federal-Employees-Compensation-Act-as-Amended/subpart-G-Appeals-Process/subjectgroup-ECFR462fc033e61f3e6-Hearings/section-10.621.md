@@ -1,0 +1,5 @@
+##### § 10.621 What is the employer's role when an oral hearing has been requested? #####
+
+(a) The employer may send one (or more, if deemed appropriate by the hearing representative) representative(s) to observe the proceeding, but the agency representative cannot give testimony or argument or otherwise participate in the hearing, except where the claimant or the hearing representative specifically asks the agency representative to testify.
+
+(b) The hearing representative may deny a request by the claimant that the agency representative testify where the claimant cannot show that the testimony would be relevant or where the agency representative does not have the appropriate level of knowledge to provide such evidence at the hearing. The employer may also comment on the hearing transcript, as described in § 10.617(e).

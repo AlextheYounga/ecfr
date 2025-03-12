@@ -1,0 +1,7 @@
+##### § 416.1528 Proceedings before a State or Federal court. #####
+
+(a) *Representation of a party in court proceedings.* We shall not consider any service the representative gave you in any proceeding before a State or Federal court to be services as a representative in dealings with us. However, if the representative also has given service to you in the same connection in any dealings with us, he or she must specify what, if any, portion of the fee he or she wants to charge is for services performed in dealings with us. If the representative charges any fee for those services, he or she must file the request and furnish all of the information required by § 416.1525.
+
+(b) *Attorney fee allowed by a Federal court.* If a Federal court in any proceeding under title XVI of the Act makes a judgment in favor of the claimant who was represented before the court by an attorney, and the court, under section 1631(d)(2) of the Act, allows to the attorney as part of its judgment a fee not in excess of 25 percent of the total of past-due benefits to which the claimant is eligible by reason of the judgment, we may pay the attorney the amount of the fee out of, but not in addition to, the amount of the past-due benefits payable. We will not pay directly any other fee your representative may request.
+
+[72 FR 16725, Apr. 5, 2007]

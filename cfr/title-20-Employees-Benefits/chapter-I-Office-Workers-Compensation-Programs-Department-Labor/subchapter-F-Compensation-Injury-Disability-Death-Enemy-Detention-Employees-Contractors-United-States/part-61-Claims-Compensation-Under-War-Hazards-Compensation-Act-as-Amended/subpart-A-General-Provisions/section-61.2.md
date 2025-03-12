@@ -1,0 +1,5 @@
+##### § 61.2 Administration of the Act and this chapter. #####
+
+(a) Pursuant to 42 U.S.C. 1706, Secretary of Labor's Order 6-84, (49 FR 32473), and Employment Standards Order 78-1, (43 FR 51469), the responsibility for administration of the Act has been delegated to the Director, Office of Workers' Compensation Programs.
+
+(b) In administering the provisions of the Act, the Director may enter into agreements or cooperative working arrangements with other agencies of the United States or of any State (including the District of Columbia, Puerto Rico, and the Virgin Islands) or political subdivisions thereof, and with other public agencies and private persons, agencies, or institutions within and outside the United States. The Director may also contract with insurance carriers for the use of their service facilities to process claims filed under the Act

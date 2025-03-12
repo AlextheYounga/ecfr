@@ -1,0 +1,9 @@
+##### § 663.600 What priority must be given to low-income adults and public assistance recipients served with adult funds under title I? #####
+
+(a) WIA states, in section 134(d)(4)(E), that in the event that funds allocated to a local area for adult employment and training activities are limited, priority for intensive and training services funded with title I adult funds must be given to recipients of public assistance and other low-income individuals in the local area.
+
+(b) Since funding is generally limited, States and local areas must establish criteria by which local areas can determine the availability of funds and the process by which any priority will be applied under WIA section 134(d)(2)(E). Such criteria may include the availability of other funds for providing employment and training-related services in the local area, the needs of the specific groups within the local area, and other appropriate factors.
+
+(c) States and local areas must give priority for adult intensive and training services to recipients of public assistance and other low-income individuals, unless the local area has determined that funds are not limited under the criteria established under paragraph (b) of this section.
+
+(d) The process for determining whether to apply the priority established under paragraph (b) of this section does not necessarily mean that only the recipients of public assistance and other low income individuals may receive WIA adult funded intensive and training services when funds are determined to be limited in a local area. The Local Board and the Governor may establish a process that gives priority for services to the recipients of public assistance and other low income individuals and that also serves other individuals meeting eligibility requirements.

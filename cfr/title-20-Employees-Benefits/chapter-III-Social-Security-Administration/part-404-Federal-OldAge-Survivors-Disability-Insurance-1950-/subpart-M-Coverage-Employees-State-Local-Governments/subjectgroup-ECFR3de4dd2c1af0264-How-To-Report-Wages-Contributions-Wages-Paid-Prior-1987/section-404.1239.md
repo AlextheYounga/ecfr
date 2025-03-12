@@ -1,0 +1,13 @@
+##### § 404.1239 Wage reports for employees performing services in more than one coverage group—for wages paid prior to 1987. #####
+
+(a) *Employee of State in more than one coverage group.* If a State employee is in more than one coverage group, the State shall report the employee's total wages, up to the annual wage limitations in § 404.1047, as though the wages were paid by only one of the coverage groups.
+
+(b) *Employee of political subdivision in more than one coverage group.* If an employee of a political subdivision is in more than one coverage group, the State shall report the employee's total wages, up to the annual wage limitations in § 404.1047, as though the wages were paid by only one of the coverage groups.
+
+(c) *Employee of State and one or more political subdivisions.* If an individual performs covered services as an employee of the State and an employee of one or more political subdivisions and the State agreement does not provide for limiting contributions under section 218(e)(2) of the Act as it read prior to the enactment of Pub. L. 99-509, the State and each political subdivision shall report the amount of covered wages it paid the employee up to the annual wage limitations in § 404.1047.
+
+(d) *Employee of more than one political subdivision.* If an individual performs covered services as an employee of more than one political subdivision and the State agreement does not provide for limiting contributions under section 218(e)(2) of the Act as it read prior to the enactment of Pub. L. 99-509, each political subdivision shall report the covered wages it paid the employee up to the annual wage limitations in § 404.1047.
+
+(e) *Employee performing covered services for more than one political entity where section 218(e)(2) of the Act is applicable.* If an agreement provides for limiting contributions under section 218(e)(2) of the Act as it read prior to the enactment of Pub. L. 99-509, the reporting officials compute the total amount of wages paid the employee by two or more political subdivisions of a State, or a State and one or more of its political subdivisions, which were subject to section 218(e)(2) of the Act. The State reports the amount of wages paid up to the annual wage limitations in § 404.1047. The employee is treated as having only one employer. If the employee also had wages not subject to section 218(e)(2) of the Act, the State shall report those wages separately.
+
+(Approved by the Office of Management and Budget under control number 0960-0425)[53 FR 32976, Aug. 29, 1988, as amended at 66 FR 28836, May 25, 2001]

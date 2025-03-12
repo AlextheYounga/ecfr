@@ -1,0 +1,3 @@
+##### § 1002.56 What types of service in the National Disaster Medical System are considered “service in the uniformed services?” #####
+
+Under a provision of the Public Health Security and Bioterrorism Preparedness and Response Act of 2002, 42 U.S.C. 300hh 11(e)(3), “service in the uniformed services” includes service performed as an intermittent disaster-response appointee upon activation of the National Disaster Medical System or participation in an authorized training program, even if the individual is not a member of the uniformed services.

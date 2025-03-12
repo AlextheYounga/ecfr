@@ -1,0 +1,5 @@
+##### § 220.50 Consultative examinations at the Board's expense. #####
+
+A consultative examination is a physical or mental examination or test purchased for a claimant at the Board's request and expense. If the claimant's medical sources cannot provide sufficient medical evidence about the claimant's impairment(s) in order to enable the Board to determine whether the claimant is disabled, the Board may ask the claimant to have one or more consultative examinations or tests. The decision to purchase a consultative examination will be made on an individual case basis in accordance with the provisions of §§ 220.53 through 220.56. Selection of the source for the examination will be consistent with the provisions of § 220.64 (Program Integrity).
+
+(Approved by the Office of Management and Budget under control number 3220-0124)

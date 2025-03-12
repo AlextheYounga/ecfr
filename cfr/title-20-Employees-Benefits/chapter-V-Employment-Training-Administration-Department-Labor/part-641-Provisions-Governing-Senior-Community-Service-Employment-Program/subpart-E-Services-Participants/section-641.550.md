@@ -1,0 +1,3 @@
+##### § 641.550 What responsibility do grantees and sub-recipients have to place participants in unsubsidized employment? #####
+
+For those participants whose IEPs include a goal of unsubsidized employment, grantees and sub-recipients are responsible for working with participants to ensure that the participants are receiving services and taking actions designed to help them achieve this goal. Grantees and sub-recipients must contact private and public employers directly or through the One-Stop delivery system to develop or identify suitable unsubsidized employment opportunities. They must also encourage host agencies to assist participants in their transition to unsubsidized employment, including unsubsidized employment with the host agency.

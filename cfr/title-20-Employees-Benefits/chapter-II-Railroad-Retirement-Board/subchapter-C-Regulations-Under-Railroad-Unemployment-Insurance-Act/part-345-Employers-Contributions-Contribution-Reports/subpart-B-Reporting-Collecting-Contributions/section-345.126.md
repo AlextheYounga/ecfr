@@ -1,0 +1,3 @@
+##### § 345.126 Liens. #####
+
+If any employer, after demand, neglects or refuses to pay a contribution required under this part, the amount of such contribution (including any interest, penalties, additional amount, or additions to such contribution, together with any costs that may accrue in addition thereto) shall be a lien in favor of the United States upon all property and rights to property, whether real or personal, belonging to such employer.

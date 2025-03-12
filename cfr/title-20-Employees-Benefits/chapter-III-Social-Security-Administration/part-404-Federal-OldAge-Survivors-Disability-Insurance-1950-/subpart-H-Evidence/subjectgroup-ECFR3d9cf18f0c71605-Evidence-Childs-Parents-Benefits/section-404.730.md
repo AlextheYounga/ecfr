@@ -1,0 +1,3 @@
+##### § 404.730 When evidence of a parent or child relationship is needed. #####
+
+If you apply for parent's or child's benefits, we will ask for evidence showing your relationship to the insured person. What evidence we will ask for depends on whether you are the insured person's natural parent or child; or whether you are the stepparent, stepchild, grandchild, stepgrandchild, adopting parent or adopted child.

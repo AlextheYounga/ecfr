@@ -1,0 +1,9 @@
+##### § 408.942 Will you have a chance to present evidence showing that the overpayment is not past due or is not legally enforceable? #####
+
+(a) *Notification.* If you receive a notice as described in § 408.941 of this subpart, you have the right to present evidence that all or part of the overpayment is not past due or not legally enforceable. To exercise this right, you must notify us and present evidence regarding the overpayment within 60 calendar days from the date of our notice.
+
+(b) *Submission of evidence.* You may submit evidence showing that all or part of the debt is not past due or not legally enforceable as provided in paragraph (a) of this section. Failure to submit the notification and evidence within 60 calendar days will result in referral of the overpayment to the Department of the Treasury, unless, within this 60-day time period, you ask us to waive collection of the overpayment under § 408.910 and we have not yet determined whether we can grant the waiver request. If you ask us to waive collection of the overpayment, we may ask you to submit evidence to support your request.
+
+(c) *Review of the evidence.* If you submit evidence on a timely basis, we will consider all available evidence related to the overpayment. We will make findings based on a review of the written record, unless we determine that the question of indebtedness cannot be resolved by a review of the documentary evidence.
+
+(d) *Written findings.* We will issue our written findings including supporting rationale to you, your attorney or other representative. The findings will be our final action with respect to the past-due status and enforceability of the overpayment.

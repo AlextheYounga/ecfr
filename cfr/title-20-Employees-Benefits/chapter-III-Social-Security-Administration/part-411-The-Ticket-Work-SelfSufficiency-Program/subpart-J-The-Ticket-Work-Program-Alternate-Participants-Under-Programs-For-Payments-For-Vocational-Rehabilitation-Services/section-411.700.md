@@ -1,0 +1,3 @@
+##### § 411.700 What is an alternate participant? #####
+
+An alternate participant is any public or private agency (other than a participating State VR agency described in §§ 404.2104 and 416.2204 of this chapter), organization, institution, or individual with whom the Commissioner has entered into an agreement or contract to provide VR services to disabled beneficiaries under the programs described in subpart V of part 404 and subpart V of part 416 of this chapter. In this subpart J, we refer to these programs as the programs for payments for VR services.

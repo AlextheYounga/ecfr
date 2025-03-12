@@ -1,0 +1,3 @@
+##### § 219.54 When evidence of school attendance is required. #####
+
+If a child age 18 applies for payments as a student, the Board will require evidence that the child is attending elementary or secondary school. After the child has started his or her school attendance, the Board may also ask for evidence that he or she is continuing to attend school full time. To be acceptable to the Board, the child must submit the evidence of school attendance within 90 days of the date the evidence is requested by the Board.

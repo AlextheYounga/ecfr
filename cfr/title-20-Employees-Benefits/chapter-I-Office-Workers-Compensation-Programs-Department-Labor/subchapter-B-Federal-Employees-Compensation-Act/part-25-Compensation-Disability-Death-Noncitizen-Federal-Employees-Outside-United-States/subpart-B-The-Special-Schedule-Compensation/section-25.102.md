@@ -1,0 +1,31 @@
+##### § 25.102 How is compensation for death of a non-citizen non-resident employee paid? #####
+
+If the disability causes death, the compensation shall be payable in the amount and to or for the benefit of the following persons:
+
+(a) To the undertaker or person entitled to reimbursement, reasonable funeral expenses not exceeding $800.
+
+(b) To the surviving spouse, if there is no child, 30 percent of the monthly pay until his or her death or remarriage subject to the lump sum provisions of 5 U.S.C. 8135.
+
+(c) To the surviving spouse, if there is a child, the compensation payable under paragraph (b) of this section, and in addition thereto 10 percent of the monthly wage for each child, not to exceed a total of 50 percent of the monthly pay for such surviving spouse and children subject to the lump sum provisions of 5 U.S.C. 8135. If a child has a guardian other than the surviving spouse, the compensation payable on account of such child shall be paid to such guardian. The compensation entitlement of any child shall cease when he or she dies, marries or reaches the age of 18 years, or if over such age and incapable of self-support, becomes capable of self-support.
+
+(d) To the children, if there is no surviving spouse, 25 percent of the monthly pay for one child and 10 percent thereof for each additional child, not to exceed a total of 50 percent of the monthly pay thereof, divided among such children share and share alike subject to the lump sum provisions of 5 U.S.C. 8135. The compensation entitlement of each child shall cease when he or she dies, marries or reaches the age of 18, or if over such age and incapable of self-support, becomes capable of self-support. The compensation of a child under legal age shall be paid to its guardian, if there is one, otherwise to the person having the custody or care of such child, for such child, as the Director in his or her discretion shall determine.
+
+(e) To the parents, if one is wholly dependent for support upon the deceased employee at the time of his or her death and the other is not dependent to any extent, 20 percent of the monthly pay; if both are wholly dependent, 10 percent thereof to each; if one is or both are partly dependent, a proportionate amount in the discretion of the Director. The compensation to a parent or parents in the percentages specified shall be paid if there is no surviving spouse or child, but if there is a surviving spouse or child, there shall be paid so much of such percentages for a parent or parents as, when added to the total of the percentages of the surviving spouse and children, will not exceed a total of 50 percent of the monthly pay. These payments are subject to the lump sum provision of 5 U.S.C. 8135.
+
+(f) To the brothers, sisters, grandparents and grandchildren, if one is wholly dependent upon the deceased employee for support at the time of his or her death, 20 percent of the monthly pay to such dependent; if more than one are wholly dependent, 30 percent of such pay, divided among such dependents share and share alike; if there is no one of them wholly dependent, but one or more are partly dependent, 10 percent of such pay divided among such dependents share and share alike. The compensation to such beneficiaries shall be paid if there is no surviving spouse, child or dependent parent. If there is a surviving spouse, child or dependent parent, there shall be paid so much of the above percentages as, when added to the total of the percentages payable to the surviving spouse, children and dependent parents, will not exceed a total of 50 percent of such pay. These payments are subject to the lump sum provision of 5 U.S.C. 8135.
+
+(g) The compensation entitlement of each beneficiary under paragraphs (e) and (f) of this section shall be paid until he or she, if a parent or grandparent, dies, marries or ceases to be dependent, or, if a brother, sister or grandchild, dies, marries or reaches the age of 18 years, or if over such age and incapable of self-support, becomes capable of self-support. The compensation of a brother, sister or grandchild under legal age shall be paid to his or her guardian, if there is one, otherwise to the person having the custody or care of such person, for such person, as the Director in his or her discretion shall determine.
+
+(h) Upon the cessation of any person's compensation for death under this subpart, the compensation of any remaining person entitled to continuing compensation in the same case shall remain the same so that the continuing compensation shall be at the same rate each person previously received.
+
+(i) In cases where there are two or more classes of persons entitled to compensation for death under this subpart, and the apportionment of such compensation as provided in this section would result in injustice, the Director may in his or her discretion modify the apportionments to meet the requirements of the case.
+
+(j) Compensation for death shall be paid where practicable in a lump sum pursuant to section 8135.
+
+(k) In the event a beneficiary eligible for death benefits covered under subpart B can demonstrate that the amount payable under the special schedule would result in a payment that would be demonstrably less than the amount payable under the law of his home country, the Director retains the discretion to pay that amount of compensation under 5 U.S.C. 8137(a)(2)(A), not to exceed the amount payable under FECA. To request benefits under this paragraph, the beneficiary must submit the following:
+
+(1) Translated copies of the applicable local statute as well as any regulations, policies and procedures the beneficiary asserts are applicable; and
+
+(2) A translated copy of an opinion rendered by an attorney licensed in that jurisdiction or an advisory opinion from a court or administrative tribunal that explains the benefits payable to the beneficiary.
+
+(l) A FECA death gratuity of $65,000 may be payable for the death of a non-citizen non-resident employee should the death be a result of injury incurred in connection with service with an Armed Force in a contingency operation as set forth in subpart J of part 10.

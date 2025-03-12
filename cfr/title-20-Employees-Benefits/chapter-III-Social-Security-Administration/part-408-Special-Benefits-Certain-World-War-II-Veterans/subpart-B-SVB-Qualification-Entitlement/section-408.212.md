@@ -1,0 +1,3 @@
+##### § 408.212 What happens if you are a qualified individual already residing outside the United States? #####
+
+If you meet all the requirements for qualification listed in § 408.202 and if none of the conditions listed in § 408.204 exist, we will ask you for documents and information to establish your residence outside the United States. If you establish that you are residing outside the United States, we will send you a letter telling you that you are entitled to SVB and the first month for which SVB payments can be made to you. The letter will also tell you the amount of your monthly benefit payments, whether your payments are reduced because of your other benefit income, and what rights you have to a reconsideration of our determination.

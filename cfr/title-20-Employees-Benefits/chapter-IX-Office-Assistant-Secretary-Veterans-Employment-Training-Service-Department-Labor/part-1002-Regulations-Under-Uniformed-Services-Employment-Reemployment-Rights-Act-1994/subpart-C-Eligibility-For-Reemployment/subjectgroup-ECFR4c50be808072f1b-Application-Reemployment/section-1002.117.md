@@ -1,0 +1,5 @@
+##### § 1002.117 Are there any consequences if the employee fails to report for or submit a timely application for reemployment? #####
+
+(a) If the employee fails to timely report for or apply for reemployment, he or she does not automatically forfeit entitlement to USERRA's reemployment and other rights and benefits. Rather, the employee becomes subject to the conduct rules, established policy, and general practices of the employer pertaining to an absence from scheduled work.
+
+(b) If reporting or submitting an employment application to the employer is impossible or unreasonable through no fault of the employee, he or she may report to the employer as soon as possible (in the case of a period of service less than 31 days) or submit an application for reemployment to the employer by the next full calendar day after it becomes possible to do so (in the case of a period of service from 31 to 180 days), and the employee will be considered to have timely reported or applied for reemployment.

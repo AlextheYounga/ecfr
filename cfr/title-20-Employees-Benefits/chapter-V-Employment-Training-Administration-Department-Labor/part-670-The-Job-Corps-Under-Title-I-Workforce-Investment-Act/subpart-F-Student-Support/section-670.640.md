@@ -1,0 +1,3 @@
+##### § 670.640 Are students provided with clothing? #####
+
+Yes, Job Corps students are provided cash clothing allowances and/or articles of clothing, including safety clothing, when needed for their participation in Job Corps and their successful entry into the work force. Center operators and other service providers must issue clothing and clothing assistance to students according to rates, criteria, and procedures issued by the Secretary.

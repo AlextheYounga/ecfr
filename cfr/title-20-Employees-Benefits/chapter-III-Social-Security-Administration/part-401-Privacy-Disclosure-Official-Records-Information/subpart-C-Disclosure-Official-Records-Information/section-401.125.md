@@ -1,0 +1,3 @@
+##### § 401.125 Disclosures prohibited by law. #####
+
+We do not disclose information when a law specifically prohibits it. The Internal Revenue Code generally prohibits us from disclosing tax return information which we receive to maintain individual earnings records. This includes, for example, amounts of wages and contributions from employers. Other laws restrict our disclosure of certain information about drug and alcohol abuse which we collect to determine eligibility for social security benefits.

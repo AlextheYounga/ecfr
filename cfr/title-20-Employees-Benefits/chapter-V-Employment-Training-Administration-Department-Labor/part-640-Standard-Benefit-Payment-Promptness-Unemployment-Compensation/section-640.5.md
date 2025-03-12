@@ -1,0 +1,14 @@
+##### § 640.5 Criteria for compliance. #####
+
+The criteria in the schedule below shall apply in determining whether, in the administration of a State law, there has been substantial compliance with the provision required by section 303(a)(1) in the issuance of benefit payments to eligible claimants for the first compensable weeks of unemployment in their benefit years:
+
+|                                                                                                                                                                              |Percentage of first payments issued—days following end of first compensable week|                   |   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|-------------------|---|
+|                                                                         14 days, waiting week States                                                                         |                  21 days, nonwaiting week States <sup>1</sup>                  |35 days, all States|   |
+|                                                                            **Intrastate Claims**                                                                             |                                                                                |                   |   |
+|                                               Performance to be achieved for the 12-mo. period ending on March 31 of each year                                               |                                       87                                       |        87         |93 |
+|                                                                            **Interstate Claims**                                                                             |                                                                                |                   |   |
+|                                               Performance to be achieved for the 12-mo. period ending on March 31 of each year                                               |                                       70                                       |        70         |78 |
+|<sup>1</sup> A nonwaiting week State is any State whose law does not require that a non-compensable period of unemployment be served before the payment of benefits commences.|                                                                                |                   |   |
+
+A State will be deemed to comply substantially, as set out in §§ 640.2(b) and 640.3(b), if its average performance, for the period of review, meets or exceeds the applicable criteria set forth above.[43 FR 33225, July 28, 1978, as amended at 71 FR 35516, June 21, 2006]

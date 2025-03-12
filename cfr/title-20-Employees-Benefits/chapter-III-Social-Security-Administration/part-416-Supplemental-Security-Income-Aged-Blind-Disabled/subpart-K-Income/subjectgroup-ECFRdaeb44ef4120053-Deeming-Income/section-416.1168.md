@@ -1,0 +1,9 @@
+##### § 416.1168 How we deem income to you from your essential person. #####
+
+(a) *Essential person's income.* If you have an essential person, we deem all of that person's income (except any not counted because of other Federal statutes as described in § 416.1161(b)) to be your own unearned income. If your essential person is also your ineligible spouse, or if you are a child whose essential person is your ineligible parent, we apply the essential person deeming rules in this section. See § 416.1169 for the rules that apply when an ineligible spouse or parent ceases to be your essential person.
+
+(b) *Determining your eligibility for an SSI benefit.* We apply the exclusions to which you are entitled under §§ 416.1112 and 416.1124 to your earned income and to your unearned income which includes any income deemed from your essential person. After combining the remaining amounts of countable income, we compare the total with the Federal benefit rate for a qualified individual (see § 416.413) to determine whether you are eligible for an SSI benefit.
+
+(c) *Determining your SSI benefit amount.* We determine your SSI benefit amount in the same way that we determine your eligibility. However, in following the procedure in paragraphs (a) and (b) of this section we use your essential person's income that we deemed to you in the second month prior to the current month. *Exception:* Beginning with the month in which you no longer have your essential person, we do not use any of the income deemed to you from that essential person in a prior month to determine the amount of your benefit (see § 416.1160(a)(3)(ii)(C)). We use only your own countable income in a prior month.
+
+[45 FR 65547, Oct. 3, 1980, as amended at 50 FR 48579, Nov. 26, 1985]

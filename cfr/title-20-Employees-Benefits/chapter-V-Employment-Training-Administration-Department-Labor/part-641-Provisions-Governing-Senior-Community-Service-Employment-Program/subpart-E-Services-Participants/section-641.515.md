@@ -1,0 +1,7 @@
+##### § 641.515 How must grantees and sub-recipients recruit and select eligible individuals for participation in the SCSEP? #####
+
+(a) Grantees and sub-recipients must develop methods of recruitment and selection that assure that the maximum number of eligible individuals have an opportunity to participate in the program. To the extent feasible, grantees and sub-recipients should seek to enroll minority and Indian eligible individuals, eligible individuals with limited English proficiency, and eligible individuals with greatest economic need, at least in proportion to their numbers in the area, taking into consideration their rates of poverty and unemployment. (OAA § 502(b)(1)(M)).
+
+(b) Grantees and sub-recipients must use the One-Stop delivery system as one method in the recruitment and selection of eligible individuals to ensure that the maximum number of eligible individuals have an opportunity to participate in the project. (OAA § 502(b)(1)(H)).
+
+(c) States may enter into agreements among themselves to permit cross-border enrollment of eligible participants. Such agreements should cover both State and national grantee positions and must be submitted to the Department for approval in the grant application or a modification of the grant.

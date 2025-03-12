@@ -1,0 +1,5 @@
+##### § 404.1610 How a State notifies us that it wishes to perform the disability determination function. #####
+
+(a) *Deemed notice.* Any State that has in effect as of June 1, 1981, an agreement with us to make disability determinations will be deemed to have given us notice that it wishes to perform the disability determination function, in lieu of continuing the agreement in effect after June 1, 1981.
+
+(b) *Written notice.* After June 1, 1981, a State not making disability determinations that wishes to perform the disability determination function under these regulations must notify us in writing. The notice must be from an official authorized to act for the State for this purpose. The State will provide an opinion from the State's Attorney General verifying the authority of the official who sent the notice to act for the State.

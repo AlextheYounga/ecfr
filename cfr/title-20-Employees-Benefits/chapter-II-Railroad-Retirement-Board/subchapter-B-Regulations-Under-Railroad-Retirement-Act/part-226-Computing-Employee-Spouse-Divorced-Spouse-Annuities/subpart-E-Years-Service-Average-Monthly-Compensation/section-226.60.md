@@ -1,0 +1,3 @@
+##### § 226.60 General. #####
+
+The years of service and average monthly compensation used in computing an employee's tier II annuity rate are based on the employee's creditable railroad service and compensation as described in parts 210 and 211 of this chapter. In computing the average monthly compensation, the compensation for each year cannot be higher than twelve times the tier II monthly maximum creditable for that year, as described in part 211 of this chapter.

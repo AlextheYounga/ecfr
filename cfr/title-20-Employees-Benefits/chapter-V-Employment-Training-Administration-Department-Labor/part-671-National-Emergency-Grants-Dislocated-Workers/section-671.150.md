@@ -1,0 +1,5 @@
+##### § 671.150 How do statutory and workflex waivers apply to national emergency grants? #####
+
+(a) State and Local Board grantees may request and we may approve the application of existing general statutory or regulatory waivers and workflex waivers to a National Emergency Grant award. The application for grant funds must describe any statutory waivers which the applicant wishes to apply to the project that the State and/or Local Board, as applicable, have been granted under its waiver plan, or that the State has approved for implementation in the applicable local area under workflex waivers. We will consider such requests as part of the overall application review and decision process.
+
+(b) If, during the operation of the project, the grantee wishes to apply a waiver not identified in the application, the grantee must request a modification which includes the provision to be waived, the operational barrier to be removed and the effect upon the outcome of the project.

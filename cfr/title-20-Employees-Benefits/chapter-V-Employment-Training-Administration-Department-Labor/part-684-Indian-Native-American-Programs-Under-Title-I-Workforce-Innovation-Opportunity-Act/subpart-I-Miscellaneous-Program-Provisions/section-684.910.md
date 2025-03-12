@@ -1,0 +1,5 @@
+##### § 684.910 What information is required in a waiver request? #####
+
+(a) To request a waiver, an INA program grantee must submit a waiver request indicating how the waiver will improve the grantee's WIOA program activities. The waiver process will be generally consistent with, but not identical to, the waiver requirements under sec. 189(i)(3)(B) of WIOA. INA program grantees may submit a waiver request as part of the 4-year strategic plan.
+
+(b) A waiver may be requested at the beginning of a 4-year grant award cycle or anytime during a 4-year award cycle. However, all waivers expire at the end of the 4-year award cycle. INA program grantees seeking to continue an existing waiver in a new 4-year grant cycle must submit a new waiver request in accordance with paragraph (a) of this section.

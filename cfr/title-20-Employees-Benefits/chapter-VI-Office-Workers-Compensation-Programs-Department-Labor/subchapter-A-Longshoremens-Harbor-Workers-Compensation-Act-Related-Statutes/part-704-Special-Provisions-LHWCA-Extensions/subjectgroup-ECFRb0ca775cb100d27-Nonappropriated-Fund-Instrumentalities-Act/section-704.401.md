@@ -1,0 +1,3 @@
+##### § 704.401 Administration; compensation districts. #####
+
+For the purpose of administration of this Act within the continental United States, Hawaii, and Alaska, the compensation districts established for administration of the Longshoremen's and Harbor Workers' Compensation Act as set forth in part 702 of this subchapter are established as the administrative districts under this Act. For the purpose of administration of this Act outside the continental United States, Alaska, and Hawaii, the compensation districts established for such overseas administration of the Defense Base Act as set forth in § 704.101 are established as the administrative districts under this Act.

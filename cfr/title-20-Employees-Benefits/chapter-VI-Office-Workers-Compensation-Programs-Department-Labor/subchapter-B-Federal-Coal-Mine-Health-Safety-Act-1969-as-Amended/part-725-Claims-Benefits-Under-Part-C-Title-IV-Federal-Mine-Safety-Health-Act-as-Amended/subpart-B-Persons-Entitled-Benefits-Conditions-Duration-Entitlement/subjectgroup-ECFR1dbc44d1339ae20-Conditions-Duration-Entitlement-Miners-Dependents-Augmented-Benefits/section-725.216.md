@@ -1,0 +1,3 @@
+##### § 725.216 Determination of relationship; surviving divorced spouse. #####
+
+An individual will be considered to be the surviving divorced spouse of a deceased miner in a claim considered under this part or reviewed under part 727 of this subchapter (see § 725.4(d)), if such individual's marriage to the miner had been terminated by a final divorce on or after the 10th anniversary of the marriage unless, if such individual was married to and divorced from the miner more than once, such individual was married to such miner in each calendar year of the period beginning 10 years immediately before the date on which any divorce became final and ending with the year in which the divorce became final.

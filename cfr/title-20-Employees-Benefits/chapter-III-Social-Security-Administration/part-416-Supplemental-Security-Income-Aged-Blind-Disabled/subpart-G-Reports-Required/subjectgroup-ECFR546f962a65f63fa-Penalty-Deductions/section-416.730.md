@@ -1,0 +1,7 @@
+##### § 416.730 Penalty period: Three or more failures to report. #####
+
+(a) *Third (or a following) penalty period.* A third (or a following) penalty period begins the day after the last penalty period ends. This penalty period ends on the day we first learn that you should have made a required report during the penalty period, but did not do so within 10 days after the close of the month in which the event happened. (The event may have happened during an earlier penalty period, with the reporting due date in the third (or a following) penalty period. The due date and the failure to report on time are the important factors in establishing a penalty period.) There may be more than one required report overdue at the end of a penalty period, but we will impose no more than one penalty deduction for any one penalty period.
+
+(b) *Extension of third (or a following) penalty period.* Just as with the first and second penalty periods, if you have good cause for not making a report on time during the third (or a following) penalty period (see § 416.732), we will extend the penalty period to the day when we learn that you should have made another required report, but did not do so within 10 days after the close of the month in which the event happened. There may be more than one required report overdue at the end of an extended penalty period, but we will impose no more than one penalty deduction for any one extended penalty period.
+
+[46 FR 5873, Jan. 21, 1981, as amended at 50 FR 48573, Nov. 26, 1985]

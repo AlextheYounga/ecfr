@@ -1,0 +1,5 @@
+##### § 220.162 Earnings report. #####
+
+(a) *General.* Any annuitant receiving an annuity based on disability must report to the Board any work and earnings as described in §§ 220.160 and 220.161. The report may be a written or oral statement by the annuitant, or a person acting for the annuitant, made or sent to a representative of the Board. The report should include the name and address of the railroad or non-railroad employer, a description of the work and the amount of gross wages (before deductions) or the net income from self-employment (earnings after deducting business expenses).
+
+(b) *Employee reports.* In addition to the requirement described in (a), a report of earnings over $400 a month must be made before the employee accepts a disability annuity (the annuity payment is issued and not returned) for the second month after the first month in which earnings are over $400. Along with the report, the employee must return the annuity payment for any month in which he or she earns over $400.

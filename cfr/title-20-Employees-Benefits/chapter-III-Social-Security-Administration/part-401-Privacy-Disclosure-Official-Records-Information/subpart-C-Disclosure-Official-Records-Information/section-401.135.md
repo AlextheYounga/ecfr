@@ -1,0 +1,3 @@
+##### § 401.135 Other laws. #####
+
+When the FOIA does not apply, we may not disclose any personal information unless both the Privacy Act and section 1106 of the Social Security Act permit the disclosure. Section 1106 of the Social Security Act requires that disclosures which may be made must be set out in statute or regulations; therefore, any disclosure permitted by this part is permitted by section 1106.

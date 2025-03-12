@@ -1,0 +1,3 @@
+##### § 408.902 What is an overpayment? #####
+
+As used in this subpart, the term overpayment means payment of more than the amount due for any period. For purposes of this section, payment has been made when certified by the Social Security Administration to the Department of the Treasury. Payment is not considered to have been made where payment has not been received by the designated payee, or where payment was returned.

@@ -1,0 +1,7 @@
+##### § 422.135 Reports by beneficiaries. #####
+
+(a) A recipient of monthly benefits and a person for whom a period of disability has been established are obligated to report to the Social Security Administration the occurrence of certain events which may suspend or terminate benefits or which may cause a cessation of a period of disability. (See §§ 404.415 *et seq.* and 404.1571 of this chapter.)
+
+(b) A person who files an application for benefits receives oral and written instructions about events which may cause a suspension or termination, and also appropriate forms and instruction cards for reporting such events. Pursuant to section 203(h)(1)(A) of the Act, under certain conditions a beneficiary must, within 3 months and 15 days after the close of a taxable year, submit to the Social Security Administration and annual report of his earnings and of any substantial services in self-employment performed during such taxable year. The purpose of the annual report is to furnish the Social Security Administration with information for making final adjustments in the payment of benefits for that year. An individual may also be requested to submit other reports to the Social Security Administration from time to time.
+
+[32 FR 13653, Sept. 29, 1967, as amended at 65 FR 16816, Mar. 30, 2000]

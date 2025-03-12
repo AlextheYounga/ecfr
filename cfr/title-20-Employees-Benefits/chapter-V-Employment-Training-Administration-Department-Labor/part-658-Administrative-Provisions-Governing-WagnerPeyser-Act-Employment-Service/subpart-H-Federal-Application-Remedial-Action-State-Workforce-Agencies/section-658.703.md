@@ -1,0 +1,3 @@
+##### § 658.703 Emergency corrective action. #####
+
+In critical situations as determined by the Regional Administrator, where it is necessary to protect the integrity of the funds, or ensure the proper operation of the program, the Regional Administrator may impose immediate corrective action. Where immediate corrective action is imposed, the Regional Administrator must notify the SWA of the reason for imposing the emergency corrective action prior to providing the SWA an opportunity to comment.

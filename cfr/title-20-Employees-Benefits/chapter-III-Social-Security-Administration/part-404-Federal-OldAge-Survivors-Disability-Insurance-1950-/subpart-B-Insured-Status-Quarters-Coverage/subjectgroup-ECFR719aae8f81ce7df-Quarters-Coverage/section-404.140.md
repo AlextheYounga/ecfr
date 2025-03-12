@@ -1,0 +1,9 @@
+##### § 404.140 What is a quarter of coverage. #####
+
+(a) *General.* A quarter of coverage (QC) is the basic unit of social security coverage used in determining a worker's insured status. We credit you with QCs based on your earnings covered under social security.
+
+(b) *How we credit QCs based on earnings before 1978 (General).* Before 1978, wages were generally reported on a quarterly basis and self-employment income was reported on an annual basis. For the most part, we credit QCs for calendar years before 1978 based on your quarterly earnings. For these years, as explained in § 404.141, we generally credit you with a QC for each calendar quarter in which you were paid at least $50 in wages or were credited with at least $100 of self-employment income. Section 404.142 tells how self-employment income derived in a taxable year beginning before 1978 is credited to specific calendar quarters for purposes of § 404.141.
+
+(c) *How we credit QCs based on earnings after 1977 (General).* After 1977, both wages and self-employment income are generally reported on an annual basis. For calendar years after 1977, as explained in § 404.143, we generally credit you with a QC for each part of your total covered earnings in a calendar year that equals the amount required for a QC in that year. Section 404.143 also tells how the amount required for a QC will be increased in the future as average wages increase. Section 404.144 tells how self-employment income derived in a taxable year beginning after 1977 is credited to specific calendar years for purposes of § 404.143.
+
+(d) *When a QC is acquired and when a calendar quarter is not a QC (general).* Section 404.145 tells when a QC is acquired and § 404.146 tells when a calendar quarter cannot be a QC. These rules apply when we credit QCs under § 404.141 or § 404.143.

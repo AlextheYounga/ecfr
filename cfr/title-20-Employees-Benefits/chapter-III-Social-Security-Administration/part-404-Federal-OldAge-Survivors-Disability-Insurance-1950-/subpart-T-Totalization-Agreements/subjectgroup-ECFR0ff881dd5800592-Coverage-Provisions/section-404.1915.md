@@ -1,0 +1,3 @@
+##### § 404.1915 Payment of contributions. #####
+
+On or after the effective date of the agreement, to the extent that employment or self-employment (or service recognized as equivalent) under the U.S. social security system or foreign system is covered under the agreement, the agreement shall provide that the work or equivalent service be subject to payment of contributions or taxes under only one system (see sections 1401(c), 3101(c), and 3111(c) of the Internal Revenue Code of 1954). The system under which contributions or taxes are to be paid is the system under which there is coverage pursuant to the agreement.

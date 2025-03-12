@@ -1,0 +1,3 @@
+##### § 226.16 Supplemental annuity. #####
+
+A supplemental annuity is payable in addition to tiers I and II and the vested dual benefit to an employee who meets the requirements of § 216.41 of this chapter. The supplemental annuity is equal to $23 plus $4 for each full year of service, over 25 years of service, up to a maximum of $43. The supplemental annuity may be reduced by the railroad retirement family maximum as shown in §§ 226.50-226.52 of this part, or for the receipt of a private pension benefit as explained in part 227 of this chapter.

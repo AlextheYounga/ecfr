@@ -1,0 +1,3 @@
+##### § 10.808 Does the fee schedule apply to every kind of procedure? #####
+
+Where the time, effort and skill required to perform a particular procedure vary widely from one occasion to the next, the Director may choose not to assign a relative value to that procedure. In this case the allowable charge for the procedure will be set individually based on consideration of a detailed medical report and other evidence. At its discretion, OWCP may set fees without regard to schedule limits for specially authorized consultant examinations, for examinations performed under 5 U.S.C. 8123, and for other specially authorized services.

@@ -1,0 +1,3 @@
+##### § 404.994 Time and place to request a hearing on revised determination or decision. #####
+
+You or another party to a revised determination or decision may request, as appropriate, further review or a hearing on the revision by filing a request in writing at one of our offices within 60 days after the date you receive notice of the revision. Further review or a hearing will be held on the revision according to the rules of this subpart.

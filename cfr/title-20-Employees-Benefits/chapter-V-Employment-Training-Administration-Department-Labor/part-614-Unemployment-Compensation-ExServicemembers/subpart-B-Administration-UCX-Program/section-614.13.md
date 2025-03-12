@@ -1,0 +1,3 @@
+##### § 614.13 Inviolate rights to UCX. #####
+
+Except as specifically provided in this part, the rights of individuals to UCX shall be protected in the same manner and to the same extent as the rights of persons to State unemployment compensation are protected under the applicable State law. Such measures shall include protection of applicants for UCX from waiver, release, assignment, pledge, encumbrance, levy, execution, attachment, and garnishment of their rights to UCX, except as provided in § 614.11. In the same manner and to the same extent, individuals shall be protected from discrimination and obstruction in regard to seeking, applying for, and receiving any right to UCX.

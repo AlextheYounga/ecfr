@@ -1,0 +1,13 @@
+##### § 330.2 Computation of daily benefit rate. #####
+
+(a) *Basic formula.* A qualified employee's daily benefit rate for a given benefit year, as defined in part 302 of this chapter, is an amount equal to 60 percent of the employee's daily rate of compensation for his or her last railroad employment in the applicable base year, but such rate will not exceed the maximum amount set forth in paragraph (b) of this section nor will it be less than $12.70 per day.
+
+(b) *Maximum daily benefit rate.* The maximum daily benefit rate is the product of the monthly compensation base, as computed under part 302 of this chapter, for the base year immediately preceding the beginning of the benefit year, multiplied by five percent. If the maximum daily benefit rate so computed is not a multiple of $1.00, the Board will round it down to the nearest multiple of $1.00.
+
+(c) *When increase effective.* Whenever the annual application of the formula in paragraph (b) of this section triggers an increase in the maximum daily benefit rate, such increase will apply to days of unemployment or days of sickness in registration periods beginning after June 30 of the calendar year immediately following the base year referred to in paragraph (b) of this section.
+
+(d) *Notice.* Whenever the annual application of the formula in paragraph (b) of this section triggers an increase in the maximum daily benefit rate, or if the annual application of the formula does not trigger an increase, the Board will publish a notice in the Federal Register explaining how it computed the maximum daily benefit rate for the year. The Board will also notify each employer of the maximum amount of the daily benefit rate. The Board will make the computation as soon as it has computed the amount of the monthly compensation base under part 302 of this chapter and will publish notice as soon as possible thereafter, but in no event later than June 1 of each year. Information as to the current amount of the maximum daily benefit rate will also be available in any Board district or regional office.
+
+(e) *Sources of information.* In determining an employee's daily rate of compensation for the purpose of computing his or her daily benefit rate, the Board will rely on information furnished by the employee and his or her last employer in the base year. An employee's earnings from employment not covered by the Railroad Unemployment Insurance Act are not considered in computing his or her daily benefit rate.
+
+[56 FR 28702, June 24, 1991, as amended at 65 FR 19648, Apr. 12, 2000]

@@ -1,0 +1,5 @@
+##### § 422.527 Private printing and modification of prescribed applications, forms, and other publications. #####
+
+Any person, institution, or organization wishing to reproduce, reprint, or distribute any application, form, or publication prescribed by the Administration must obtain prior approval if he or she intends to charge a fee. Requests for approval must be in writing and include the reason or need for the reproduction, reprinting, or distribution; the intended users of the application, form, or publication; the fee to be charged; any proposed modification; the proposed format; the type of machinery (e.g., printer, burster, mail handling), if any, for which the application, form, or publication is being designed; estimated printing quantity; estimated printing cost per thousand; estimated annual usage; and any other pertinent information required by the Administration. Forward all requests for prior approval to: Office of Publications Management, 6401 Security Boulevard, Baltimore, MD 21235-6401.
+
+[72 FR 73261, Dec. 27, 2007]

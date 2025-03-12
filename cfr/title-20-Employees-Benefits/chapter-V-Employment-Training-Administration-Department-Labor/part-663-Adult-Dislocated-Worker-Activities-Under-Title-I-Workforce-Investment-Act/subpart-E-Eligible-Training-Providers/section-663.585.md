@@ -1,0 +1,3 @@
+##### § 663.585 May individuals choose training providers located outside of the local area? #####
+
+Yes, individuals may choose any of the eligible providers and programs on the State list. A State may also establish a reciprocal agreement with another State(s) to permit providers of eligible training programs in each State to accept individual training accounts provided by the other State. (WIA secs. 122(e)(4) and (e)(5).)

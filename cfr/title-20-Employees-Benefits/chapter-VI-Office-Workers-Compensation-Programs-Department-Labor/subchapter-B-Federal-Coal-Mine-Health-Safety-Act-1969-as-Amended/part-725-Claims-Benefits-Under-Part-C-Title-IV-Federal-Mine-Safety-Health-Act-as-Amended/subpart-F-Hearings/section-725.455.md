@@ -1,0 +1,9 @@
+##### § 725.455 Hearing procedures; generally. #####
+
+(a) *General.* The purpose of any hearing conducted under this subpart shall be to resolve contested issues of fact or law. Except as provided in § 725.421(b)(8), any findings or determinations made with respect to a claim by a district director shall not be considered by the administrative law judge.
+
+(b) *Evidence.* The administrative law judge shall at the hearing inquire fully into all matters at issue, and shall not be bound by common law or statutory rules of evidence, or by technical or formal rules of procedure, except as provided by 5 U.S.C. 554 and this subpart. The administrative law judge shall receive into evidence the testimony of the witnesses and parties, the evidence submitted to the Office of Administrative Law Judges by the district director under § 725.421, and such additional evidence as may be submitted in accordance with the provisions of this subpart. The administrative law judge may entertain the objections of any party to the evidence submitted under this section.
+
+(c) *Procedure.* The conduct of the hearing and the order in which allegations and evidence shall be presented shall be within the discretion of the administrative law judge and shall afford the parties an opportunity for a fair hearing.
+
+(d) *Oral argument and written allegations.* The parties, upon request, may be allowed a reasonable time for the presentation of oral argument at the hearing. Briefs or other written statements or allegations as to facts or law may be filed by any party with the permission of the administrative law judge. Copies of any brief or other written statement shall be filed with the administrative law judge and served on all parties by the submitting party.

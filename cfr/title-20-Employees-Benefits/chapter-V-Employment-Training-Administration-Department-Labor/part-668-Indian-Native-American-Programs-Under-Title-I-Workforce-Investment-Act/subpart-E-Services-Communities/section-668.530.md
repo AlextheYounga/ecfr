@@ -1,0 +1,3 @@
+##### § 668.530 What rules govern the issuance of contracts and/or subgrants? #####
+
+In general, INA grantees must follow the rules of OMB Circulars A-102 (for tribes) or A-110 (for private non-profits) when awarding contracts and/or subgrants under WIA section 166. The common rules implementing those circulars are codified for DOL-funded programs at 29 CFR part 97 (A-102) or 29 CFR part 95 (A-110), and covered in the WIA regulations at 20 CFR 667.200. These rules do not apply to OJT contract awards.

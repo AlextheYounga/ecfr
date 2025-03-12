@@ -1,0 +1,5 @@
+##### § 220.12 Evidence considered. #####
+
+The regulations explaining the employee's responsibility to provide evidence of disability, the kind of evidence, what medical evidence consists of, and the consequences of refusing or failing to provide evidence or to have a medical examination are found in § 220.45 through § 220.48. The regulations explaining when the employee may be requested to report for a consultative examination are found in § 220.50 and § 220.51. The regulations explaining how the Board evaluates conclusions by physicians concerning the employee's disability, how the Board evaluates the employee's symptoms, what medical findings consist of, and the need to follow prescribed treatment are found in § 220.112 through § 220.115.
+
+[56 FR 12980, Mar. 28, 1991. Redesignated at 63 FR 7541, Feb. 13, 1998]

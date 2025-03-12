@@ -1,0 +1,3 @@
+##### § 10.521 If an employee elects to receive retirement benefits instead of FECA benefits, what effect may such an election have on that employee's entitlement to FECA compensation? #####
+
+Where an employee is undergoing vocational rehabilitation, or where OWCP is attempting to otherwise place that employee in a suitable job, and that employee elects to receive retirement benefits from the Office of Personnel Management instead of benefits under the FECA, the OWCP may proceed with a loss of wage-earning capacity determination which may reduce FECA entitlement as long as the determination is based on the evidence of record at the time of such election.

@@ -1,0 +1,5 @@
+##### § 416.412 Amount of benefits; eligible couple. #####
+
+The benefit under this part for an eligible couple (including couples where one or both members of the couple are receiving benefits payable under the § 416.212 provisions), neither of whom is subject to suspension of benefits based on § 416.1325 or reduction of benefits based on § 416.414 nor is a qualified individual (as defined in § 416.221) shall be payable at the rate of $8,460 per year ($705 per month), effective for the period beginning January 1, 1996. This rate is the result of a 2.6 percent cost-of-living adjustment (see § 416.405) to the December 1995 rate. For the period January 1, through December 31, 1995, the rate payable, as increased by the 2.8 percent cost-of-living adjustment, was $8,224 per year ($687 per month). For the period January 1, through December 31, 1994, the rate payable, as increased by the 2.6 percent cost-of-living adjustment, was $8,028 per year ($669 per month). The monthly rate is reduced by the amount of the couple's income which is not excluded pursuant to subpart K of this part.
+
+[61 FR 10278, Mar. 13, 1996]

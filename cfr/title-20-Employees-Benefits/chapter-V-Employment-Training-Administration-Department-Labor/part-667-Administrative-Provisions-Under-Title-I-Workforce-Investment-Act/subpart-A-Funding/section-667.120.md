@@ -1,0 +1,3 @@
+##### § 667.120 What planning information must a State submit in order to receive a formula grant? #####
+
+Each State seeking financial assistance under WIA sections 127 (youth) or 132 (adults and dislocated workers) or under the Wagner-Peyser Act must submit a single State Plan. The requirements for the plan content and the plan review process are described in WIA section 112, Wagner-Peyser Act section 8, and 20 CFR 661.220, 661.240 and 652.211 through 652.214.

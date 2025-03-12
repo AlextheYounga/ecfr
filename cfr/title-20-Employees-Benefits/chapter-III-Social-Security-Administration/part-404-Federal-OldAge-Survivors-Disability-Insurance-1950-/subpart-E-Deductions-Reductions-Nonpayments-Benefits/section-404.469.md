@@ -1,0 +1,5 @@
+##### § 404.469 Nonpayment of benefits where individual has not furnished or applied for a Social Security number. #####
+
+No monthly benefits will be paid to an entitled individual unless he or she either furnishes to the Social Security Administration (SSA) satisfactory proof of his or her Social Security number, or, if the individual has not been assigned a number, he or she makes a proper application for a number (see § 422.103). An individual submits satisfactory proof of his or her Social Security number by furnishing to SSA the number and sufficient additional information that can be used to determine whether that Social Security number or another number has been assigned to the individual. Sufficient additional information may include the entitled individual's date and place of birth, mother's maiden name, and father's name. If the individual does not know his or her Social Security number, SSA will use this additional information to determine the Social Security number, if any, that it assigned to the individual. This rule applies to individuals who become entitled to benefits beginning on or after June 1, 1989.
+
+[56 FR 41789, Aug. 23, 1991]

@@ -1,0 +1,3 @@
+##### § 395.5 Approval of application for designation as State licensing agency. #####
+
+When the Secretary determines that an application submitted by a State vocational rehabilitation agency under § 395.2, and the accompanying rules and regulations indicate a plan of program operations which will stimulate and enlarge the economic opportunities for the blind, and which will meet all other requirements of this part, he shall approve the application and shall designate the applying State vocational rehabilitation agency as the State licensing agency.

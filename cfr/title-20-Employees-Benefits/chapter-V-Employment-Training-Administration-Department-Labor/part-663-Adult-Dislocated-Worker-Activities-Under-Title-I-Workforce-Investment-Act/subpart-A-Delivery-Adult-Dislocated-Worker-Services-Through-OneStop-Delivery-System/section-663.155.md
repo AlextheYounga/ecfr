@@ -1,0 +1,3 @@
+##### § 663.155 How are core services delivered? #####
+
+Core services must be provided through the One-Stop delivery system. Core services may be provided directly by the One-Stop operator or through contracts with service providers that are approved by the Local Board. The Local Board may only be a provider of core services when approved by the chief elected official and the Governor in accordance with the requirements of WIA section 117(f)(2) and 20 CFR 661.310.

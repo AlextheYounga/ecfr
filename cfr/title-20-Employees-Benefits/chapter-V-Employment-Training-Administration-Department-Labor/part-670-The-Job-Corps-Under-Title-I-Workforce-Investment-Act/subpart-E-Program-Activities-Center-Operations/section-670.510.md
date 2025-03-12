@@ -1,0 +1,3 @@
+##### § 670.510 Are Job Corps center operators responsible for providing all vocational training? #####
+
+No, in order to facilitate students' entry into the workforce, the Secretary may contract with national business, union, or union-affiliated organizations for vocational training programs at specific centers. Contractors providing such vocational training will be selected in accordance with the requirements of § 670.310.

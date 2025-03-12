@@ -1,0 +1,57 @@
+##### § 216.23 Work which does not affect eligibility. #####
+
+An individual may engage in any of the following without adversely affecting his or her annuity:
+
+(a) *Work for a railway labor organization.* An individual may work for a local lodge or division of a railway labor organization if the pay is under $25 a month, unless the work performed is solely for the purpose of collecting insurance premiums.
+
+(b) *Work without pay.* Work performed for any person or entity for which no pay is received, or where the pay merely constitutes reimbursement for out-of-pocket expenses, or where the amount received consists only of free will donations and there is no agreement that such donation shall constitute remuneration for services, does not affect entitlement to an annuity.
+
+(c) *Self-employment.* Self-employment is work performed in an individual's own business, trade or profession as an independent contractor, rather than as an employee. An individual is not self-employed if the business is incorporated. The designation or description of the relationship between the individual and another person as anything other than that of an employer and employee is immaterial. If the Board determines that an employer-employee relationship exists, the fact that the employee is designated as a partner, coadventurer, agent, independent contractor, or the like will be disregarded. An individual determined to be an employee of a railroad employer pursuant to part 203 of this chapter is not self-employed. Whether an individual performing services is an employee depends upon the degree to which the recipient of services controls the individual's work. Control is determined in accordance with general legal principles delineating an employer-employee relationship. Among the factors considered are:
+
+(1) *Instructions.* An individual required to comply with instructions about when, where, and how to work is ordinarily an employee. Instructions may be oral or in the form of manuals or written procedures which show how the desired result is to be accomplished. An individual who ordinarily works without receiving instructions because he or she is highly skilled or knowledgeable may nevertheless be an employee if the employer has a right to instruct the individual in performance of the work.
+
+(2) *Training.* Training provided an individual by an employer indicates that the employer wants the work to be performed in a particular method or manner, especially if the training is given periodically or at frequent intervals. An individual may be trained by an experienced employee working with him or her, by correspondence, by required attendance at meetings, or by other methods.
+
+(3) *Integration into the employer's business.* Integration of an individual's services into the business operations of an employer generally shows that the individual is subject to direction and control. When the success or continuation of a business depends to an appreciable degree upon the performance of certain services, the individuals who perform those services must necessarily be subject to a certain amount of control by the owner of the business.
+
+(4) *Services rendered personally.* A requirement that an individual personally work for the employer indicates that the employer is interested in the methods as well as the results, and that the employer intends to control the result by controlling who does the work.
+
+(5) *Hiring, supervising, and payment of assistants.* An employer generally hires, supervises, and pays assistants. An individual who hires, supervises, and pays other workers at the direction of the employer may be an employee acting as a representative of the employer. However, if an individual hires, supervises, and pays his or her own assistants pursuant to a contract under which the individual agrees to provide materials and labor and under which the individual is responsible only for the attainment of a result, this factor indicates an independent contractor status.
+
+(6) *Continuing work relationship.* A work relationship between an individual and an employer which continues over time indicates that the individual is an employee. A relationship may continue if the individual works at frequently recurring, though somewhat irregular intervals, either on call of the employer or when work is available.
+
+(7) *Set hours of work.* A requirement that an individual work for an employer during a specified period of the day, week, month or year, or for a specified number of hours daily indicates that the individual is an employee. An individual whose occupation renders fixed hours impractical may be an employee if required by the employer to work at certain times.
+
+(8) *Full time required.* A requirement that an individual devote full time to the employer's business indicates that the individual is an employee. What full time means may vary with the intent of the parties, the nature of the occupation, and customs in the locality. Full-time work may be required indirectly even though not specified in writing or orally. An individual required to produce a minimum volume of business for an employer may be compelled to devote full time to producing the work. Prohibiting work for any other employer may require an individual to work full time to earn a living However, part-time work performed on a regular basis, or on call of the employer, or when work is available, may also render an individual an employee.
+
+(9) *Working on employer's premises.* Working on the employer's premises may indicate that an individual is an employee where by nature the work could be done elsewhere, because the employer's place of business is physically within the employer's direction and supervision. Desk space, telephone, and stenographic services provided by an employer place the worker within the employer's direction and supervision unless the worker has the option not to use these facilities. Work done off the employer's premises does not by itself indicate that the worker is not an employee because some occupations require that work be performed away from the premises of the employer. Control over the place of work is indicated when the person or persons for whom the services are performed have the right to compel the worker to travel a designated route, to canvass a territory within a certain time, or to work at specific places as required.
+
+(10) *Order or sequence set.* Performing tasks in the order or sequence set by the employer indicates that the worker is an employee. Often, because of the nature of an occupation, the person or persons for whom the services are performed do not set the order of the services or set the order infrequently. It is sufficient to show control, however, if such person or persons retain the right to do so.
+
+(11) *Oral or written reports.* Regular oral or written reports submitted to the employer indicate that the worker is an employee, compelled to account to the employer for his or her actions.
+
+(12) *Payment by hour, week, month.* Payment at a fixed rate per hour, week, or month indicates that an individual is an employee. Payment by commission with a guaranteed minimum salary, or by a drawing account at stated intervals with no requirement to repay amounts which exceed the individual's earnings, also indicates that an individual is an employee. Payment in a lump sum for a completed job indicates that an individual is self-employed. The lump sum may be computed by the number of hours required to do the job at a fixed hourly rate, or by weekly or monthly installments toward a lump sum agreed upon in advance as the total cost. Payment made on a straight commission basis generally indicates that the worker is an independent contractor.
+
+(13) *Payment of business and/or traveling expenses.* Payment by the employer of expenses which an individual incurs in connection with the employer's business indicates that the individual is an employee.
+
+(14) *Furnishing of tools and materials.* The fact that the person or persons for whom the services are performed furnish significant tools, materials, and other equipment tends to show the existence of an employer-employee relationship.
+
+(15) *Investment in facilities.* If the worker invests in facilities which are used by the worker in performing services and which are not typically maintained by employees, such as an office rented by the worker from a party unrelated to the worker or to the employer, this factor tends to indicate that the worker is an independent contractor. On the other hand, if all facilities necessary to the work which an individual performs are furnished without charge by the employer, this factor indicates the existence of an employer-employee relationship. Facilities include equipment or premises necessary for the work, other than items such as tools, instruments, and clothing which may be commonly provided by an employee in a particular trade.
+
+(16) *Realization of profit or loss.* An individual not in a position to realize a profit or suffer a loss as a result of work performed for an employer is an employee. An individual has an opportunity for profit or loss if he or she:
+
+(i) Hires, directs, and pays assistants;
+
+(ii) Has his or her own office, equipment, materials, or other facilities for doing the work;
+
+(iii) Has continuing and recurring liabilities or obligations, and success or failure depends on the relation of receipts to expenditures; or
+
+(iv) Agrees to perform specific jobs for prices agreed upon in advance and pays expenses incurred in connection with the work.
+
+(17) *Working for more than one firm at a time.* If a worker performs more than *de minimis* services for a number of unrelated persons or firms at the same time, this factor generally indicates that the worker is an independent contractor. However, a worker who performs services for more than one person may be an employee of each of the persons, especially where such persons are part of the same service arrangement.
+
+(18) *Making service available to the general public.* The fact that an individual makes his or her services available to the general public on a regular and consistent basis rather than to one employer indicates that the individual is self-employed rather than an employee of any one firm. An individual may make services available to the public by working from his or her own office with assistants, from his or her own home, by holding business licenses, by a listing in a business directory, or by advertising.
+
+(19) *Employer's right to discharge.* The right to discharge a worker is a factor which indicates that the worker is an employee and the person who possesses the right is an employer. An employer exercises control through the threat of dismissal, which causes the worker to obey the employer's instructions. An employer's right to discharge exists even if it is restricted due to a collective bargaining agreement. An employer ordinarily cannot end a relationship without incurring liability with a self-employed individual who meets contract specifications.
+
+(20) *Employee's right to terminate.* The fact that an individual has the right to end his or her relationship with an employer at any time without incurring liability for work to be performed indicates that the individual is an employee. A self-employed individual is legally obligated to satisfactorily complete a specific job.

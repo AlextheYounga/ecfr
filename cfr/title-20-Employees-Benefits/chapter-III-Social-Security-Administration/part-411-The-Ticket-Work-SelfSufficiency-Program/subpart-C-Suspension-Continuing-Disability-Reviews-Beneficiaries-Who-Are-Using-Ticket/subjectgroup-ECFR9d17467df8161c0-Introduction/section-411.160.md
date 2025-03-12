@@ -1,0 +1,5 @@
+##### § 411.160 What does this subpart do? #####
+
+(a) This subpart explains our rules about continuing disability reviews for disability beneficiaries who are participating in the Ticket to Work program.
+
+(b) Continuing disability reviews are reviews that we conduct to determine if you are still disabled under our rules (see §§ 404.1589, 416.989 and 416.989a of this chapter for the rules on when we may conduct continuing disability reviews). For the purposes of this subpart, continuing disability reviews include the medical reviews we conduct to determine if your medical condition has improved (see §§ 404.1594 and 416.994 of this chapter), but not any review to determine if your disability has ended under § 404.1594(d)(5) of this chapter because you have demonstrated your ability to engage in substantial gainful activity (SGA), as defined in §§ 404.1571-404.1576 of this chapter.

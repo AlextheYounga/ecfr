@@ -1,0 +1,3 @@
+##### § 416.984 If you are statutorily blind and still working. #####
+
+There is no requirement that you be unable to work in order for us to find that you are blind. However, if you are working, your earnings will be considered under the income and resources rules in subparts K and L of this part. This means that if your income or resources exceed the limitations, you will not be eligible for benefits, even though you are blind.

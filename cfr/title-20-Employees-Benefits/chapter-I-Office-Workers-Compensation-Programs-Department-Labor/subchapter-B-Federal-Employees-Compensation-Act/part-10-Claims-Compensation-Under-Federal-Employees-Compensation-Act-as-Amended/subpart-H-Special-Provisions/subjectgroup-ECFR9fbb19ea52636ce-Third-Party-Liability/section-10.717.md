@@ -1,0 +1,3 @@
+##### § 10.717 Is a settlement or judgment received as a result of allegations of medical malpractice in treating an injury covered by the FECA a gross recovery that must be reported to OWCP or SOL? #####
+
+Since an injury caused by medical malpractice in treating an injury covered by the FECA is also an injury covered under the FECA, any recovery in a suit alleging such an injury is treated as a gross recovery that must be reported to OWCP or SOL.

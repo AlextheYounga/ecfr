@@ -1,0 +1,9 @@
+##### § 1002.139 Are there any circumstances in which the pre-service employer is excused from its obligation to reemploy the employee following a period of uniformed service? What statutory defenses are available to the employer in an action or proceeding for reemployment benefits? #####
+
+(a) Even if the employee is otherwise eligible for reemployment benefits, the employer is not required to reemploy him or her if the employer establishes that its circumstances have so changed as to make reemployment impossible or unreasonable. For example, an employer may be excused from reemploying the employee where there has been an intervening reduction in force that would have included that employee. The employer may not, however, refuse to reemploy the employee on the basis that another employee was hired to fill the reemployment position during the employee's absence, even if reemployment might require the termination of that replacement employee;
+
+(b) Even if the employee is otherwise eligible for reemployment benefits, the employer is not required to reemploy him or her if it establishes that assisting the employee in becoming qualified for reemployment would impose an undue hardship, as defined in § 1002.5(n) and discussed in § 1002.198, on the employer; or,
+
+(c) Even if the employee is otherwise eligible for reemployment benefits, the employer is not required to reemploy him or her if it establishes that the employment position vacated by the employee in order to perform service in the uniformed services was for a brief, nonrecurrent period and there was no reasonable expectation that the employment would continue indefinitely or for a significant period.
+
+(d) The employer defenses included in this section are affirmative ones, and the employer carries the burden to prove by a preponderance of the evidence that any one or more of these defenses is applicable.

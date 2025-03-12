@@ -1,0 +1,3 @@
+##### § 617.56 Inviolate rights to TAA. #####
+
+Except as specifically provided in this part 617, the rights of individuals to TAA shall be protected in the same manner and to the same extent as the rights of persons to UI are protected under the applicable State law. Such measures shall include protection of applicants for TAA from waiver, release, assignment, pledge, encumbrance, levy, execution, attachment, and garnishment of their rights to TAA, except as provided in § 617.55. In the same manner and to the same extent, individuals shall be protected from discrimination and obstruction in regard to seeking, applying for, and receiving any right to TAA.

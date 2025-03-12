@@ -1,0 +1,3 @@
+##### § 609.23 Furnishing additional information. #####
+
+On receipt of a request for additional information from a State agency, a Federal agency shall consider the information it supplied initially in connection with such request and shall review its findings. The Federal agency promptly shall forward to the State agency such additional findings as will respond to the request. The Federal agency shall, if possible, respond within four workdays after the receipt of a request under this section.

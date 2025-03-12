@@ -1,0 +1,9 @@
+##### § 618.890 Merit staffing. #####
+
+(a) *Merit-based State personnel.* The State must, subject to the transition period in paragraph (b) of this section, engage only State government personnel to perform Trade Adjustment Assistance (TAA)-funded functions undertaken to carry out the worker adjustment assistance provisions of the Trade Act of 1974, as amended, and must apply to such personnel the standards for a merit system of personnel administration applicable to personnel covered under 5 CFR part 900, subpart F.
+
+(b) *Transition period.* A State not already in compliance with the merit system requirement of paragraph (a) of this section must comply by December 15, 2010.
+
+(c) *Exemptions for States with employment service operation exemptions.* A State whose employment service received an exemption from merit staffing requirements from the Secretary of Labor (Secretary) under the Wagner-Peyser Act will retain an exemption from the requirements of paragraph (a) of this section. The exemption does not apply to the State's administration of trade readjustment allowances which remain subject to the requirements of paragraph (a) of this section. To the extent that a State with an authorized ES exemption provides TAA-funded services using staff not funded under the Wagner-Peyser Act, the exemption in this paragraph does not apply, and they remain subject to the requirements of paragraph (a) of this section.
+
+(d) *Exceptions for non-inherently governmental functions.* The requirements of paragraph (a) of this section do not prohibit a State from outsourcing functions that are not inherently governmental, as defined in Office of Management and Budget (OMB) Circular No. A-76 (Revised), in any supplemental OMB guidance or superseding authority, and in DOL guidance.

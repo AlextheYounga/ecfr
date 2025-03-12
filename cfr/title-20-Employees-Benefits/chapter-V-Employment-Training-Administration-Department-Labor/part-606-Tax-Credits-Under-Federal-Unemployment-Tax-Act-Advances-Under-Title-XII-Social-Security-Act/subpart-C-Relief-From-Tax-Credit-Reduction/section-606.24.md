@@ -1,0 +1,11 @@
+##### § 606.24 Application for avoidance. #####
+
+(a) *Application.* (1) The Governor of the State shall make application, addressed to the Secretary of Labor, no later than July 1 of a taxable year with respect to which a State requests avoidance of tax credit reduction. The Governor is required to notify the Department on or before October 15 of such taxable year of any action impacting upon the State's application occurring subsequent to the date of the initial application and on or before November 10.
+
+(2) The OWS Administrator will make a determination on the application as of November 10 of such taxable year, will notify the applicant and the Secretary of the Treasury of such determination, and will cause notice of such determination to be published in the Federal Register.
+
+(b) *Information.* (1) The application shall include a statement of the amount of advances repaid and to be repaid during the one-year period ending on November 9 of the taxable year for which avoidance is requested. If the amount repaid as of the date of the application is less than the amount required to satisfy the provisions of § 606.23(a)(1), the Governor shall provide a report later of the additional repayments that have been made in the remainder of the one-year period ending on November 9 of the taxable year, for the purposes of meeting the provisions of § 606.23(a)(1).
+
+(2) The application also shall include estimates of revenue receipts, benefit outlays, and end-of-month fund balance for each month in the period beginning with September of the taxable year for which avoidance is requested through the subsequent January. Actual data for the comparable period of the preceding year also shall be included in the application in order to determine the reasonableness of such estimates.
+
+(3) The application also shall include a description of State law changes, effective for the taxable year for which the avoidance is requested, which resulted in a net increase in the solvency of the State unemployment compensation system, and documentation which supports the State's estimate of the net increase in solvency for such taxable year.

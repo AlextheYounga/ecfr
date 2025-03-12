@@ -1,0 +1,7 @@
+##### § 219.8 Preferred evidence and other evidence. #####
+
+(a) *Preferred evidence.* When a claimant submits the type of evidence shown as preferred in subparts B and C of this part, the Board will generally find it is convincing evidence. This means that unless there is information in the Board's records that raises a doubt about the evidence, other evidence to prove the same fact will not be needed.
+
+(b) *Other evidence.* If preferred evidence is not available, the Board will consider any other evidence a claimant furnishes. If the other evidence consists of several different records or documents which all show the same information, the Board may determine that it is convincing evidence even though it is not preferred evidence. If the other evidence is not convincing by itself, the claimant will be asked to submit additional evidence. If the additional evidence shows the same information all the evidence considered together may be convincing evidence.
+
+(c) *Board decision.* When the Board has convincing evidence of the facts that must be proven, or when it is clear that the evidence provided does not prove the necessary facts, the Board will make a formal decision about the applicant's rights to benefits.

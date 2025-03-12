@@ -1,0 +1,9 @@
+##### § 1002.171 How does the continuation of health plan benefits apply to a multiemployer plan that provides health plan coverage through a health benefits account system? #####
+
+(a) Some employees receive health plan benefits provided pursuant to a multiemployer plan that utilizes a health benefits account system in which an employee accumulates prospective health benefit eligibility, also commonly referred to as “dollar bank,” “credit bank,” and “hour bank” plans. In such cases, where an employee with a positive health benefits account balance elects to continue the coverage, the employee may further elect either option below:
+
+(1) The employee may expend his or her health account balance during an absence from employment due to service in the uniformed services in lieu of paying for the continuation of coverage as set out in § 1002.166. If an employee's health account balance becomes depleted during the applicable period provided for in § 1002.164(a), the employee must be permitted, at his or her option, to continue coverage pursuant to § 1002.166. Upon reemployment, the plan must provide for immediate reinstatement of the employee as required by § 1002.168, but may require the employee to pay the cost of the coverage until the employee earns the credits necessary to sustain continued coverage in the plan.
+
+(2) The employee may pay for continuation coverage as set out in § 1002.166, in order to maintain intact his or her account balance as of the beginning date of the absence from employment due to service in the uniformed services. This option permits the employee to resume usage of the account balance upon reemployment.
+
+(b) Employers or plan administrators providing such plans should counsel employees of their options set out in this subsection.

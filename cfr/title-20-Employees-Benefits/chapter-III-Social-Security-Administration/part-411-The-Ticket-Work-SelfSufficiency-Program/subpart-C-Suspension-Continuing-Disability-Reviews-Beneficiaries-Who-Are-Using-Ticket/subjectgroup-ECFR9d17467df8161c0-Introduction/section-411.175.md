@@ -1,0 +1,7 @@
+##### § 411.175 What if a continuing disability review is begun before my ticket is in use? #####
+
+(a) If we begin a continuing disability review before the date on which your ticket is in use, you may still assign the ticket and receive services from an EN or a State VR agency acting as an EN under the Ticket to Work program, or you may still receive services from a State VR agency that elects the VR cost reimbursement option. However, we will complete the continuing disability review. If in this review we determine that you are no longer disabled, in most cases you will no longer be eligible to receive benefit payments. However, if your ticket was in use before we determined that you are no longer disabled, in certain circumstances you may continue to receive benefit payments (see §§ 404.316(c), 404.337(c), 404.352(d), and 416.1338 of this chapter). If you appeal the decision that you are no longer disabled, you may also choose to have your benefits continued pending reconsideration and/or a hearing before an administrative law judge on the cessation determination (see §§ 404.1597a and 416.996 of this chapter).
+
+(b) The date on which we begin the continuing disability review is the date on the notice we send you that tells you that we are beginning to review your disability case.
+
+[66 FR 67420, Dec. 28, 2001, as amended at 73 FR 29341, May 20, 2008]

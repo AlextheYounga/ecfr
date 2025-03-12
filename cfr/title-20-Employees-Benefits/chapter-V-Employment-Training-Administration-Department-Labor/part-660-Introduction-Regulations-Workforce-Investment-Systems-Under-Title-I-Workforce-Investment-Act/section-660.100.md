@@ -1,0 +1,3 @@
+##### § 660.100 What is the purpose of title I of the Workforce Investment Act of 1998? #####
+
+The purpose of title I of the Workforce Investment Act of 1998 (WIA) is to provide workforce investment activities that increase the employment, retention and earnings of participants, and increase occupational skill attainment by participants, which will improve the quality of the workforce, reduce welfare dependency, and enhance the productivity and competitiveness of the Nation's economy. These goals are achieved through the workforce investment system. (WIA sec. 106.)

@@ -1,0 +1,9 @@
+##### § 645.225 How do Welfare-to-Work activities relate to activities provided through TANF and other related programs? #####
+
+(a) Activities provided through WtW must be coordinated effectively at the State and local levels with activities being provided through TANF (section 403(a)(5)(A)(vii)(II)).
+
+(b) The operating entity must ensure that there is an assessment of skills, prior work experience, employability, and other relevant information in place for each WtW participant. Where appropriate, the assessment performed by the TANF agency or JTPA should be used for this purpose.
+
+(c) The operating entity must ensure that there is an individualized strategy for transition to unsubsidized employment in place for each participant which takes into account participant assessments, including the TANF assessment and any JTPA assessment. Where appropriate, the TANF individual responsibility plan (IRP), a WIA individual employment plan, or a JTPA individual service strategy should be used for this purpose.
+
+(d) Coordination of resources should include not only those available through WtW and TANF grant funds, and the Child Care and Development Block Grant, but also those available through other related activities and programs such as the WIA or JTPA programs (One-Stop systems), the State employment service, private sector employers, labor organizations, business and trade associations, education agencies, housing agencies, community development corporations, transportation agencies, community-based and faith-based organizations, disability community organizations, community action agencies, and colleges and universities which provide some of the assistance needed by the targeted population (section 402(a)(5)(A)).

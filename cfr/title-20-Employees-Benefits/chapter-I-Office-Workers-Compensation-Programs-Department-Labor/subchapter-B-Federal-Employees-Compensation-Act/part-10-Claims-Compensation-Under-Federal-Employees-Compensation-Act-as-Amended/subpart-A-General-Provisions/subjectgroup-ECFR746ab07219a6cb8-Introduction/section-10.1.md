@@ -1,0 +1,3 @@
+##### § 10.1 What rules govern the administration of the FECA and this chapter? #####
+
+In accordance with 5 U.S.C. 8145 and Secretary's Order 5-96, the responsibility for administering the FECA, except for 5 U.S.C. 8149 as it pertains to the Employees' Compensation Appeals Board, has been delegated to the Director of the Office of Workers' Compensation Programs (OWCP). Except as otherwise provided by law, the Director, OWCP and his or her designees have the exclusive authority to administer, interpret and enforce the provisions of the Act.

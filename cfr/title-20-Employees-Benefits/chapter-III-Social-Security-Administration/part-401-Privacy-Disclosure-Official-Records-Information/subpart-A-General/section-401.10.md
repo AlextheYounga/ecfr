@@ -1,0 +1,5 @@
+##### § 401.10 Applicability. #####
+
+(a) *SSA.* All SSA employees and components are governed by this part. SSA employees governed by this part include all regular and special government employees of SSA; experts and consultants whose temporary (not in excess of 1 year) or intermittent services have been procured by SSA by contract pursuant to 5 U.S.C. 3109; volunteers where acceptance of their services are authorized by law; those individuals performing gratuitous services as permitted under conditions prescribed by the Office of Personnel Management; and, participants in work-study or training programs.
+
+(b) *Other entities.* This part also applies to advisory committees and councils within the meaning of the Federal Advisory Committee Act which provide advice to: Any official or component of SSA; or the President and for which SSA has been delegated responsibility for providing services.

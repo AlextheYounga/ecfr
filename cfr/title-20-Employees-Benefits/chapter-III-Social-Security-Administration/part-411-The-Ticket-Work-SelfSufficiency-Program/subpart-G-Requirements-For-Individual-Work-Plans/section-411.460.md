@@ -1,0 +1,3 @@
+##### § 411.460 Who is responsible for determining what information is contained in the IWP? #####
+
+The beneficiary and the EN share the responsibility for determining the employment goal and the specific services needed to achieve that employment goal. The EN will present information and options in a way that affords the beneficiary the opportunity to exercise informed choice in selecting an employment goal and specific services needed to achieve that employment goal.

@@ -1,0 +1,3 @@
+##### § 1002.59 Are there any circumstances in which special categories of persons are considered to perform “service in the uniformed services?” #####
+
+Yes. In time of war or national emergency the President has authority to designate any category of persons as a “uniformed service” for purposes of USERRA. If the President exercises this authority, service as a member of that category of persons would be “service in the uniformed services” under USERRA.

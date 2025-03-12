@@ -1,0 +1,3 @@
+##### § 726.103 Application for authority to self-insure; effect of regulations contained in this part. #####
+
+As appropriate, each of the regulations, interpretations and requirements contained in this part 726 including those described in subpart C of this part shall be binding upon each applicant under this subpart, and the applicant's consent to be bound by all requirements of the said regulations shall be deemed to be included in and a part of the application, as fully as though written therein.

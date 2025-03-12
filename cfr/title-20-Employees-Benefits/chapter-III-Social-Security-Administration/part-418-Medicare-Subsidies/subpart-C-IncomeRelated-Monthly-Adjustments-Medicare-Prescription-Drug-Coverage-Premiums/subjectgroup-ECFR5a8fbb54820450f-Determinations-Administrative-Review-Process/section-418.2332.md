@@ -1,0 +1,3 @@
+##### § 418.2332 Can you request a reconsideration when you believe that the CMS information we used is incorrect? #####
+
+If you request a reconsideration solely because you believe that the information that CMS gave us about your participation in a Medicare prescription drug coverage plan is incorrect, we will dismiss your request for a reconsideration and notify you that you must contact CMS to get your records corrected. Our dismissal of your request for reconsideration is not an initial determination subject to further administrative or judicial review.

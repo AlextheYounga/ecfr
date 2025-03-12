@@ -1,0 +1,3 @@
+##### § 683.530 How long are funds used for Workforce Innovation and Opportunity Act Pay-for-Performance contract strategies available? #####
+
+Section 189(g)(2)(D) of WIOA authorizes funds used for WIOA Pay-for-Performance contract strategies to be available until expended. Under WIOA sec. 3(47)(C), funds that are obligated but not expended due to a contractor not achieving the levels of performance specified in a WIOA Pay-for-Performance contract may be reallocated for further activities related to WIOA Pay-for-Performance contract strategies only. The Secretary will issue additional guidance related to the funds availability and reallocation.

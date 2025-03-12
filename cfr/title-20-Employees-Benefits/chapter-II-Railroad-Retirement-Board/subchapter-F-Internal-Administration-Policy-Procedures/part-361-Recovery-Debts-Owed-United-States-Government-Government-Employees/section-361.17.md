@@ -1,0 +1,7 @@
+##### § 361.17 Coordination with other government agencies. #####
+
+(a) *Board is paying agency.* (1) If the Board receives a claim which meets the requirements of 5 CFR 550.1108 from another agency, deductions shall begin prospectively at the next officially established pay interval. The employee will receive written notice that the Board has received a certified debt claim from a creditor agency. The notice will contain the amount of the debt and the date deductions from salary will commence and the amount of such deductions.
+
+(2) If the Board receives a claim which does not meet the requirements of 5 CFR 550.1108, then the Board will return the claim to the creditor agency and inform the creditor agency that before any action is taken to collect the debt from the employee's current pay account, the procedures under 5 U.S.C. 5514 and 5 CFR part 550 must be followed and a claim which meets the requirements of 5 CFR 550.1108 must be received.
+
+(b) *Board is creditor agency.* When the Board is owed a debt by an employee of another agency, the other agency shall not initiate the requested offset until the Board provides the agency with a written certification that the procedures under this part have been followed and the Board has provided the other agency with a claim which meets the requirement of 5 CFR 550.1108.

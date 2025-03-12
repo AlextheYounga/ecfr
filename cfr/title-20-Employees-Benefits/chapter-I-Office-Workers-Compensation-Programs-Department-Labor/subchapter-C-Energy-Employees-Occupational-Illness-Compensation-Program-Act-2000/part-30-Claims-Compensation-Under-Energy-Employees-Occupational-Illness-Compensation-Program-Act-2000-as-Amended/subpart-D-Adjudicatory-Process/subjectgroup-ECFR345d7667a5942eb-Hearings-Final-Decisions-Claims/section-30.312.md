@@ -1,0 +1,3 @@
+##### § 30.312 What will the FAB do if the claimant objects to the recommended decision but does not request a hearing? #####
+
+If the claimant files a written statement that objects to the recommended decision within the period of time allotted in § 30.310 but does not request a hearing, the FAB will consider any objections by means of a review of the written record. If the claimant only objects to part of the recommended decision, the FAB may issue a final decision accepting the remaining part of the recommendation of the district office without first reviewing the written record (see § 30.316).

@@ -1,0 +1,3 @@
+##### § 683.115 What planning information must a State submit in order to receive a formula grant? #####
+
+Each State seeking financial assistance under subtitle B, chapter 2 (youth) or chapter 3 (adults and dislocated workers), of title I of WIOA, or under the Wagner-Peyser Act must submit a Unified State Plan under sec. 102 of WIOA or a Combined State Plan under WIOA sec. 103. The requirements for the plan content and the plan review process are described in secs. 102 and 103 of WIOA, sec. 8 of Wagner-Peyser Act, and §§ 676.100 through 676.145 of this chapter and §§ 652.211 through 652.214 of this chapter.

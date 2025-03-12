@@ -1,0 +1,3 @@
+##### § 725.450 Right to a hearing. #####
+
+Any party to a claim (see § 725.360) shall have a right to a hearing concerning any contested issue of fact or law unresolved by the district director. There shall be no right to a hearing until the processing and adjudication of the claim by the district director has been completed. There shall be no right to a hearing in a claim with respect to which a determination of the claim made by the district director has become final and effective in accordance with this part.

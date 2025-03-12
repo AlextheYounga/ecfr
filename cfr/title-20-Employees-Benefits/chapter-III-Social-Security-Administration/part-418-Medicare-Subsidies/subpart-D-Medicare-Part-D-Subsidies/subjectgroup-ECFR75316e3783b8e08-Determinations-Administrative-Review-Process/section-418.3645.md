@@ -1,0 +1,3 @@
+##### § 418.3645 Can you request that the decision-maker be disqualified? #####
+
+The person designated to conduct your hearing will not conduct the hearing if he or she is prejudiced or partial with respect to any party or has any interest in the matter pending for decision. If you object to the person who will be conducting your hearing, you must notify us at your earliest opportunity. The Commissioner or the Commissioner's designee will decide whether to appoint another person to conduct your hearing.

@@ -1,0 +1,3 @@
+##### § 669.610 What is the relationship between the MSFW youth program and the NFJP authorized at WIA section 167? #####
+
+The MSFW youth program is funded under WIA section 127(b)(1)(A)(iii) to provide farmworker youth activities under the auspices of WIA section 167. These funds are specifically earmarked for MSFW youth. Funds provided for the section 167 program may also be used for youth, but are not limited to this age group.

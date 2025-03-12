@@ -1,0 +1,3 @@
+##### § 234.51 Persons to whom a lump-sum refund payment is payable. #####
+
+Employees receive their lump-sum refund payment from the Board, without applying for it, at the time their regular annuity is awarded. If an employee dies without receiving payment of a regular annuity, the lump-sum refund payment is payable to the employee's survivors in the same order of priority as shown for the RLS in § 234.44.

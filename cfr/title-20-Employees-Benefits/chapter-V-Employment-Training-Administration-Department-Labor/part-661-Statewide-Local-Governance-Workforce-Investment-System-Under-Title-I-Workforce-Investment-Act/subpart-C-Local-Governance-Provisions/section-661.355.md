@@ -1,0 +1,3 @@
+##### § 661.355 When must a local plan be modified? #####
+
+The Governor must establish procedures governing the modification of local plans. Situations in which modifications may be required by the Governor include significant changes in local economic conditions, changes in the financing available to support WIA title I and partner-provided WIA services, changes to the Local Board structure, or a need to revise strategies to meet performance goals.

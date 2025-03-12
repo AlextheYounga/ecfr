@@ -1,0 +1,3 @@
+##### § 663.230 What criteria must be used to determine whether an employed worker needs intensive services to obtain or retain employment leading to “self-sufficiency”? #####
+
+State Boards or Local Boards must set the criteria for determining whether employment leads to self-sufficiency. At a minimum, such criteria must provide that self-sufficiency means employment that pays at least the lower living standard income level, as defined in WIA section 101(24). Self-sufficiency for a dislocated worker may be defined in relation to a percentage of the layoff wage. The special needs of individuals with disabilities or other barriers to employment should be taken into account when setting criteria to determine self-sufficiency.

@@ -1,0 +1,3 @@
+##### § 229.46 Spouse or divorced spouse benefit. #####
+
+If a spouse or divorced spouse is included in the computation of the overall minimum, a benefit of 50 percent times the Overall Minimum PIA is computed. In the case of a spouse, the benefit may be adjusted for the family maximum, age, or other benefits. In the case of a divorced spouse, the benefit may be adjusted only for age or other benefits.

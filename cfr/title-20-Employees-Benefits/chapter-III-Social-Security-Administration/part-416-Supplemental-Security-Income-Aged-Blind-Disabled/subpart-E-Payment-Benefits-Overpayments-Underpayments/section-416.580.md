@@ -1,0 +1,7 @@
+##### § 416.580 Referral of overpayments to the Department of the Treasury for tax refund offset—General. #####
+
+(a) The standards we will apply and the procedures we will follow before requesting the Department of the Treasury to offset income tax refunds due taxpayers who have an outstanding overpayment are set forth in §§ 416.580 through 416.586 of this subpart. These standards and procedures are authorized by the Deficit Reduction Act of 1984 [31 U.S.C. § 3720A], as implemented through Department of the Treasury regulations at 31 CFR 285.2.
+
+(b) We will use the Department of the Treasury tax refund offset procedure to collect overpayments that are certain in amount, past due and legally enforceable, and eligible for tax refund offset under regulations issued by the Secretary of the Treasury. We will use these procedures to collect overpayments only from persons who are not currently entitled to monthly supplemental security income benefits under title XVI of the Act. We refer overpayments to the Department of the Treasury for offset against Federal tax refunds regardless of the amount of time the debts have been outstanding.
+
+[62 FR 49439, Sept. 22, 1997, as amended at 76 FR 65108, Oct. 20, 2011]

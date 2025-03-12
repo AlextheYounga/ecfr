@@ -1,0 +1,3 @@
+##### § 702.416 Fees for medical services; disputes; hearings; necessary parties. #####
+
+At formal hearings held pursuant to § 702.415, the necessary parties shall be the person whose fee or cost charge is in question and the Director, or their representatives. The employer or carrier may also be represented, and other parties, or associations having an interest in the proceedings, may be heard, in the discretion of the administrative law judge.

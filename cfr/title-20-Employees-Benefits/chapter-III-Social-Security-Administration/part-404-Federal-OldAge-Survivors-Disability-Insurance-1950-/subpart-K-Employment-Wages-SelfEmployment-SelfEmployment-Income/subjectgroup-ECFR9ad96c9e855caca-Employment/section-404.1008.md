@@ -1,0 +1,17 @@
+##### § 404.1008 Agent-driver or commission-driver, full-time life insurance salesman, home worker, or traveling or city salesman. #####
+
+(a) *General.* In addition to common-law employees and corporation officers, we consider workers in the four types of jobs described in paragraphs (b) through (e) of this section to be employees if their services are performed under the following conditions:
+
+(1) Under the work arrangement the worker is expected to do substantially all of the work personally.
+
+(2) The worker must not have a substantial investment in the facilities used to do the work. Facilities include such things as a place to work, storage space, equipment, machinery and office furniture. However, facilities do not include tools, equipment or clothing of the kind usually provided by employees nor transportation such as a car or truck.
+
+(3) The work must be performed as part of a continuing work relationship between the worker and the person for whom the work is done. The work performed must not be a single transaction. Part-time and regular seasonal work may be performed as part of a continuing work relationship.
+
+(b) *Agent-driver or commission-driver.* This is a driver hired by another person to distribute meat products, vegetable products, fruit products, bakery products, beverages (other than milk), or laundry or dry-cleaning services. We consider you an agent-driver or commission-driver if you are paid a commission based on your sales or the difference between the price you charge your customers and the amount you pay for the goods or services. It makes no difference whether you drive your own truck or the company's truck or whether you solicit the customers you serve.
+
+(c) *Full-time life insurance salesman.* A full-time life insurance salesman's main activity is selling life insurance or annuity contracts, or both, mostly for one life insurance company. If you are a full-time life insurance salesman, you are probably provided office space, stenographic help, telephone, forms, rate books and advertising materials by the company or general agent, without cost to you.
+
+(d) *Home worker.* A home worker is a person who works away from the place of business of the person he or she works for, usually at home. If you are a home worker and you work according to the instructions of the person you work for, on material or goods furnished by that person, and are required to return the finished product to that person (or another person whom he or she designates), you are an employee.
+
+(e) *Traveling or city salesman.* The main activity of a traveling or city salesman is taking orders for merchandise for another person or firm. The salesman gets orders from wholesalers, retailers, contractors, or operators of hotels, restaurants or other firms whose main business is furnishing food or lodging or both. The salesman sells merchandise to others for resale or for use in their own business. We consider you a traveling or city salesman if most of your work is done for a single person or firm even though you have incidental sideline sales activities. However, you are not an employee under this paragraph as to those sideline sales. If you take orders for a number of persons or firms as a *multiple line* salesman, you are not a traveling or city salesman.

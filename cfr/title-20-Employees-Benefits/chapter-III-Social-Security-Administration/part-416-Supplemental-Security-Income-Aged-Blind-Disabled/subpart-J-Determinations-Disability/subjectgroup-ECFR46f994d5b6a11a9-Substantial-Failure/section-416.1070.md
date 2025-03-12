@@ -1,0 +1,5 @@
+##### § 416.1070 General. #####
+
+After a State agency falls below two of three established threshold levels, one being performance accuracy, for two consecutive quarters, and after the mandatory performance support period, we will give the State agency a 3-month adjustment period. During this 3-month period we will not require the State agency to meet the threshold levels. Following the adjustment period, if the State agency again falls below two of three threshold levels, one being performance accuracy, in two consecutive quarters during the next 12 months, we will notify the State that we propose to find that the State agency has substantially failed to comply with our standards and advise it that it may request a hearing on that issue. After giving the State notice and an opportunity for a hearing, if it is found that a State agency has substantially failed to make disability determinations consistent with the Act, our regulations, or other written guidelines, we will assume partial or complete responsibility for performing the disability determination function after we have complied with §§ 416.1090 and 416.1092.
+
+[56 FR 11024, Mar. 14, 1991]

@@ -1,0 +1,5 @@
+##### § 10.316 After selecting a treating physician, may an employee choose to be treated by another physician instead? #####
+
+(a) When the physician originally selected to provide treatment for a work-related injury refers the employee to a specialist for further medical care, the employee need not consult OWCP for approval. In all other instances, however, the employee must submit a written request to OWCP with his or her reasons for desiring a change of physician.
+
+(b) OWCP will approve the request if it determines that the reasons submitted are sufficient. Requests that are often approved include those for transfer of care from a general practitioner to a physician who specializes in treating conditions like the work-related one, or the need for a new physician when an employee has moved. The employer may not authorize a change of physicians.

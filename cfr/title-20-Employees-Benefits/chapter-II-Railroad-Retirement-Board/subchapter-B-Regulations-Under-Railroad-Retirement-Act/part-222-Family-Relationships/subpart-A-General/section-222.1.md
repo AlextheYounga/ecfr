@@ -1,0 +1,3 @@
+##### § 222.1 Introduction. #####
+
+This part sets forth and describes the family relationships that may make a claimant eligible for an annuity or lump-sum payment under the Railroad Retirement Act and furnishes the basic rules for determining when those relationships exist. Such relationships may result from a current or terminated marriage or through birth, death or adoption. Other relevant relationships are having a child in care, dependency or lack of it, contributing to support, living in the same household, and being under court order to contribute to support.

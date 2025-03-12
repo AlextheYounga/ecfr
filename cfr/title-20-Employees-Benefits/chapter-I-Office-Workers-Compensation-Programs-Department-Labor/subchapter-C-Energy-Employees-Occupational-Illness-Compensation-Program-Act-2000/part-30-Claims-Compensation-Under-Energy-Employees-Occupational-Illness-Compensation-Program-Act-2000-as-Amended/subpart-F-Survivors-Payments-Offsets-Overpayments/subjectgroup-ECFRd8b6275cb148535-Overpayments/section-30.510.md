@@ -1,0 +1,5 @@
+##### § 30.510 How does OWCP notify an individual of a payment made on a claim? #####
+
+(a) In addition to providing narrative descriptions to recipients of benefits paid or payable, OWCP includes on each check a clear indication of the reason the payment is being made. For payments sent by electronic funds transfer, a notification of the date and amount of payment appears on the statement from the recipient's financial institution.
+
+(b) By these means, OWCP puts the recipient on notice that a payment was made and the amount of the payment. If the amount received differs from the amount indicated on the written notice or bank statement, the recipient is responsible for notifying OWCP of the difference. Absent affirmative evidence to the contrary, the recipient will be presumed to have received the notice of payment, whether mailed or transmitted electronically.

@@ -1,0 +1,3 @@
+##### § 1002.313 Are there special damages provisions that apply to actions initiated in the name of the United States? #####
+
+Yes. In an action brought in the name of the United States, for which the relief includes compensation for lost wages, benefits, or liquidated damages, the compensation must be held in a special deposit account and must be paid, on order of the Attorney General, directly to the person. If the compensation is not paid to the individual because of the Federal Government's inability to do so within a period of three years, the compensation must be converted into the Treasury of the United States as miscellaneous receipts.

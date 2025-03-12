@@ -1,0 +1,5 @@
+##### § 364.39 What requirements apply to the administration of grants under the Centers for Independent Living program? #####
+
+In States in which State funding for centers equals or exceeds the amount of funds allotted to the State under part C of title VII of the Act, as determined pursuant to 34 CFR 366.29 and 366.31, and in which the State elects to administer the CIL program as provided in section 723 of the Act, the State plan must include policies, practices, and procedures, including the order of priorities that the State may establish pursuant to 34 CFR 366.34(a), that are consistent with section 723 of the Act to govern the awarding of grants to centers and the oversight of these centers.
+
+(Approved by the Office of Management and Budget under control number 1820-0527)(Authority: 29 U.S.C. 796c (g) and (h), 796f-1(d), and 796f-2(d))

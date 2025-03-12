@@ -1,0 +1,7 @@
+##### § 680.600 What priority must be given to low-income adults and public assistance recipients and individuals who are basic skills deficient served with adult funds under title I of the Workforce Innovation and Opportunity Act? #####
+
+(a) WIOA sec. 134(c)(3)(E) states that priority for individualized career services (*see* § 678.430(b) of this chapter) and training services funded with title I adult funds must be given to recipients of public assistance, other low-income individuals, and individuals who are basic skills deficient (as defined in WIOA sec. 3(5)(B)) in the local area.
+
+(b) States and local areas must establish criteria by which the one-stop center will apply the priority under WIOA sec. 134(c)(3)(E). Such criteria may include the availability of other funds for providing employment and training-related services in the local area, the needs of the specific groups within the local area, and other appropriate factors.
+
+(c) The priority established under paragraph (a) of this section does not necessarily mean that these services only may be provided to recipients of public assistance, other low-income individuals, and individuals who are basic skills deficient. The Local WDB and the Governor may establish a process that also gives priority to other individuals eligible to receive such services, provided that it is consistent with priority of service for veterans (*see* § 680.650) and the priority provisions of WIOA sec. 134(c)(3)(E), discussed above in paragraphs (a) and (b) of this section.

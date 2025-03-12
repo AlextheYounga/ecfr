@@ -1,0 +1,3 @@
+##### § 234.18 Payment of a deferred lump-sum to a widow(er). #####
+
+In certain cases, a deferred LSDP may be payable to the employee's widow(er), even if someone may be entitled to a monthly annuity in the month of the employee's death. A deferred LSDP is the difference between the amount of the LSDP and the total of the monthly survivor annuities paid during the 12-month period which begins in the month of the employee's death.

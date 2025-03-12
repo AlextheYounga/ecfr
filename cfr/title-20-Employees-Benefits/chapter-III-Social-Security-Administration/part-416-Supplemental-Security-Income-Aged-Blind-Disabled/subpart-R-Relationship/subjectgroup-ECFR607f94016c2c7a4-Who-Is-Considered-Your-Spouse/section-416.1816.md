@@ -1,0 +1,3 @@
+##### § 416.1816 Information we need concerning marriage when you apply for SSI. #####
+
+When you apply for SSI benefits, we will ask whether you are married. If you are married, we will ask whether you are living with your spouse. If you are unmarried or you are married but not living with your spouse, we will ask whether you are living in the same household with anyone of the opposite sex who is not related to you. If you are, we will ask whether you and that person lead other people to believe that you are husband and wife.

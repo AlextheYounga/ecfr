@@ -1,0 +1,3 @@
+##### § 685.220 What is the role of the grantee in the one-stop delivery system? #####
+
+In those local areas where the grantee operates its NFJP as described in its grant agreement, the grantee is a required one-stop partner, and is subject to the provisions relating to such partners described in part 678 of this chapter. Consistent with those provisions, the grantee and Local Workforce Development Board (WDB) must develop and enter into an MOU which meets the requirements of § 678.500 of this chapter, and which sets forth their respective responsibilities for providing access to the full range of NFJP services through the one-stop delivery system to eligible MSFWs.

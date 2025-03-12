@@ -1,0 +1,9 @@
+##### § 429.102 How do I file a claim under this subpart? #####
+
+(a) *Filing an initial claim.* You must either file your claim on a properly executed Standard Form 95 or you must submit a written notification of the incident accompanied by a claim for the money damages in a sum certain for damage to or loss of property you believe occurred because of the incident. For purposes of this subpart, we consider your claim to be filed on the date we receive it at the address specified in paragraph (c) of this section. If you mistakenly send your claim to another Federal agency, we will not consider it to be filed until the date that we receive it. If you mistakenly file a claim meant for another Federal agency with SSA, we will transfer it to the appropriate Federal agency, if possible. If we are unable to determine the appropriate agency, we will return the claim to you.
+
+(b) *Filing an amendment to your claim.* You may file an amendment to your properly filed claim at any time before the SSA Claims Officer (as defined in § 429.201(d)(3)) makes a final decision on your claim or before you bring suit under 28 U.S.C. 2675(a). You must submit an amendment in writing and sign it. If you file a timely amendment, SSA has 6 months in which to finally dispose of the amended claim. Your option to file suit does not begin until 6 months after you file the amendment.
+
+(c) *Where to obtain claims forms and file claims.* You can obtain claims forms by writing to the Social Security Administration, Office of the General Counsel, Office of General Law, 6401 Security Boulevard, Room 617 Altmeyer Building, Baltimore, Maryland 21235-6401. You may also file your claim with the Social Security Administration at this same address.
+
+[69 FR 48768, Aug. 11, 2004, as amended at 74 FR 16327, Apr. 10, 2009; 79 FR 7577, Feb. 10, 2014]

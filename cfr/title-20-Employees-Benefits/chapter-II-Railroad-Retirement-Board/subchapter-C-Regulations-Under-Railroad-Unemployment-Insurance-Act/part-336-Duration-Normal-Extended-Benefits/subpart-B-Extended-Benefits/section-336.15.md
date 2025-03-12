@@ -1,0 +1,3 @@
+##### § 336.15 How to claim extended benefits. #####
+
+An employee who has 10 or more years of railroad service who exhausts his or her rights to normal unemployment or normal sickness benefits and who wishes to claim extended unemployment or extended sickness benefits may do so by claiming benefits on the forms provided by the Board pursuant to parts 325 or 335 of this chapter. The claim forms provided for this purpose are the same as those provided for claiming normal benefits. No special application for extended benefits is required, and no waiting period applies to the payment of extended benefits.

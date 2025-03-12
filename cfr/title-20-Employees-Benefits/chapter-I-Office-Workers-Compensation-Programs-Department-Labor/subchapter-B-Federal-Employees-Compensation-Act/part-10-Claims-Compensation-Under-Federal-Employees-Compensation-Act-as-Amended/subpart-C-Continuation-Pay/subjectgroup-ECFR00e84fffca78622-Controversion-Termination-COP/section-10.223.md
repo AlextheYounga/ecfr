@@ -1,0 +1,3 @@
+##### § 10.223 Are there other circumstances under which OWCP will not authorize payment of COP? #####
+
+When OWCP finds that an employee or his or her representative refuses or obstructs a medical examination required by OWCP, the right to COP is suspended until the refusal or obstruction ceases. COP already paid or payable for the period of suspension is forfeited. If already paid, the COP may be charged to annual or sick leave or considered an overpayment of pay consistent with 5 U.S.C. 5584.

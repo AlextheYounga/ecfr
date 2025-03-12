@@ -1,0 +1,9 @@
+##### § 404.415 Deductions because of excess earnings. #####
+
+(a) *Deductions because of insured individual's earnings.* Under the annual earnings test, we will reduce your monthly benefits (except disability insurance benefits based on the beneficiary's disability) by the amount of your excess earnings (as described in § 404.434), for each month in a taxable year (calendar year or fiscal year) in which you are under full retirement age (as defined in § 404.409(a)).
+
+(b) *Deductions from husband's, wife's, and child's benefits because of excess earnings of the insured individual.* We will reduce husband's, wife's, and child's insurance benefits payable (or deemed payable—see § 404.420) on the insured individual's earnings record because of the excess earnings of the insured individual. However, beginning with January 1985, we will not reduce the benefits payable to a divorced wife or a divorced husband who has been divorced from the insured individual for at least 2 years.
+
+(c) *Deductions because of excess earnings of beneficiary other than the insured.* If benefits are payable to you (or deemed payable—see § 404.420) on the earnings record of an insured individual and you have excess earnings (as described in § 404.430) charged to a month, we will reduce only your benefits for that month under the annual earnings test. Child's insurance benefits payable by reason of being disabled will be evaluated using Substantial Gainful Activity guidelines (as described in § 404.1574 or § 404.1575). This deduction equals the amount of the excess earnings. (See § 404.434 for charging of excess earnings where both the insured individual and you, a beneficiary, have excess earnings.)
+
+[70 FR 28811, May 19, 2005]

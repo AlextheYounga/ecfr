@@ -1,0 +1,3 @@
+##### § 1002.102 Does the five-year service limit include periods of service that the employee performed before USERRA was enacted? #####
+
+It depends. USERRA provides reemployment rights to which an employee may become entitled beginning on or after December 12, 1994, but any uniformed service performed before December 12, 1994, that was counted against the service limitations of the previous law (the Veterans Reemployment Rights Act), also counts against USERRA's five-year limit.

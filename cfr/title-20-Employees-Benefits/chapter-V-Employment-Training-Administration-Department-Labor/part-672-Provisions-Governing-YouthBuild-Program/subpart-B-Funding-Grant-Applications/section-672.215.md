@@ -1,0 +1,3 @@
+##### § 672.215 How are eligible entities notified of approval for grant funds? #####
+
+The Secretary will, to the extent practicable, notify each eligible entity applying for funds no later than 5 months from the date the application is received, whether the application is approved or disapproved. In the event additional funds become available, ETA reserves the right to use such funds to select additional grantees from applications submitted in response to an SGA.

@@ -1,0 +1,3 @@
+##### § 680.820 Are there cost sharing requirements for local area incumbent worker training? #####
+
+Yes. Under WIOA secs. 134(d)(4)(C) and 134(d)(4)(D)(i)-(iii), employers participating in incumbent worker training are required to pay the non-Federal share of the cost of providing training to their incumbent workers. The amount of the non-Federal share depends upon the limits established under WIOA secs. 134(d)(4)(ii)(C) and (D).

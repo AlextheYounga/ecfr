@@ -1,0 +1,5 @@
+##### § 33.25 Fees. #####
+
+The party requesting a subpoena shall pay the cost of the fees and mileage of any witness subpoenaed in the amounts that would be payable to a witness in a proceeding in United States District Court. A check for witness fees and mileage must accompany the subpoena when served, except that if a subpoena is issued on behalf of the authority, a check for witness fees and mileage need not accompany the subpoena.
+
+(Authority: 31 U.S.C. 3804(b))

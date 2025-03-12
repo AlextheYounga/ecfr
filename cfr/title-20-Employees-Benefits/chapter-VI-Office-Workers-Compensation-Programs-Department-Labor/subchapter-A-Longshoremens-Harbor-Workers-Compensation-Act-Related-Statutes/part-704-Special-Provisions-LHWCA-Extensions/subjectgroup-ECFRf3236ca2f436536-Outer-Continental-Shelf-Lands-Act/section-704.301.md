@@ -1,0 +1,3 @@
+##### § 704.301 Administration; compensation districts. #####
+
+For the purpose of administration of this Act, the compensation districts established under the Longshoremen's and Harbor Workers' Compensation Act as set forth in part 702 of this subchapter shall administer this Act, and their jurisdiction for this purpose is extended, where appropriate, to include those parts of the Outer Continental Shelf adjacent to the State or States in such districts having adjacent shelf areas.

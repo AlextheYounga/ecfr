@@ -1,0 +1,7 @@
+##### § 403.120 How does a State reallocate funds under the Secondary School Vocational Education Program and the Postsecondary and Adult Vocational Education Programs? #####
+
+(a) In any fiscal or program year that an LEA, area vocational school, intermediate school district, or consortium of those entities, or an eligible institution, or consortium of eligible institutions, does not obligate all of the amounts it is allocated for that year under the Secondary School Vocational Education Program or the Postsecondary and Adult Vocational Education Programs, the LEA, area vocational education school, intermediate school district, or consortium of those entities, or the eligible institution, or consortium of eligible institutions, shall return any unobligated amounts to the State to be reallocated under § 403.112(b), § 403.113, or § 403.116(b), as applicable.
+
+(b) In any fiscal or program year in which amounts allocated under § 403.112(b), § 403.113, § 403.116(b), or § 403.118 are returned to the State and the State is unable to reallocate those amounts according to those sections in time for the amounts to be obligated in the fiscal or program year, the State shall retain the amounts to be distributed in combination with amounts reserved under § 403.112(b), § 403.113, § 403.116(b), or § 403.118 for the following fiscal or program year.
+
+(Authority: 20 U.S.C. 2341c)[57 FR 36735, Aug. 14, 1992, as amended at 59 FR 38513, July 28, 1994]

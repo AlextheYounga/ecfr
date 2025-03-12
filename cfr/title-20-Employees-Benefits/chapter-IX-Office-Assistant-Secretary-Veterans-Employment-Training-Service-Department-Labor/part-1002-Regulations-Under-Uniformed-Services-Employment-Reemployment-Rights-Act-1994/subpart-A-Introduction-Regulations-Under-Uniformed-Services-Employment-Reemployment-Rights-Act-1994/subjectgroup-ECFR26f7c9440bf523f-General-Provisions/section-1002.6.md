@@ -1,0 +1,3 @@
+##### § 1002.6 What types of service in the uniformed services are covered by USERRA? #####
+
+USERRA's definition of “service in the uniformed services” covers all categories of military training and service, including duty performed on a voluntary or involuntary basis, in time of peace or war. Although most often understood as applying to National Guard and reserve military personnel, USERRA also applies to persons serving in the active components of the Armed Forces. Certain types of service specified in 42 U.S.C. 300hh-11 by members of the National Disaster Medical System are covered by USERRA.

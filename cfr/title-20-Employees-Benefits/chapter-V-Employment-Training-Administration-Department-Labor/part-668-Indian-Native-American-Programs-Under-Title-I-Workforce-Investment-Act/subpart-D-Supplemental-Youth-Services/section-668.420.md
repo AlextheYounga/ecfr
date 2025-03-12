@@ -1,0 +1,3 @@
+##### § 668.420 What are the planning requirements for receiving supplemental youth services funding? #####
+
+Beginning with PY 2000, eligible INA grantees must describe the supplemental youth services which they intend to provide in their Two Year Plan (described more fully in §§ 668.710 and 668.720). This Plan includes the target population the grantee intends to serve, for example, drop-outs, juvenile offenders, and/or college students. It also includes the performance measures/standards to be utilized to measure program progress.

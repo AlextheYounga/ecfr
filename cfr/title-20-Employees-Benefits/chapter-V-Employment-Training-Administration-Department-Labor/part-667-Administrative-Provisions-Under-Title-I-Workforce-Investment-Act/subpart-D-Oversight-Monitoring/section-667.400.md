@@ -1,0 +1,9 @@
+##### § 667.400 Who is responsible for oversight and monitoring of WIA title I grants? #####
+
+(a) The Secretary is authorized to monitor all recipients and subrecipients of all grants awarded and funds expended under WIA title I to determine compliance with the Act and the WIA regulations, and may investigate any matter deemed necessary to determine such compliance. Federal oversight will be conducted primarily at the recipient level.
+
+(b) In each fiscal year, we will also conduct in-depth reviews in several States, including financial and performance audits, to assure that funds are spent in accordance with the Act. Priority for such in-depth reviews will be given to States not meeting annual adjusted levels of performance.
+
+(c)(1) Each recipient and subrecipient must continuously monitor grant-supported activities in accordance with the uniform administrative requirements at 29 CFR parts 95 and 97, as applicable, including the applicable cost principles indicated at 29 CFR 97.22(b) or 29 CFR 95.27, for all entities receiving WIA title I funds. For governmental units, the applicable requirements are at 29 CFR part 97. For non-profit organizations, the applicable requirements are at 29 CFR part 95.
+
+(2) In the case of grants under WIA sections 127 and 132, the Governor must develop a State monitoring system that meets the requirements of § 667.410(b). The Governor must monitor Local Boards annually for compliance with applicable laws and regulations in accordance with the State monitoring system. Monitoring must include an annual review of each local area's compliance with the uniform administrative requirements.

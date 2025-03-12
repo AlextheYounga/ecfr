@@ -1,0 +1,5 @@
+##### § 655.1117 Element VII—What are the limitations as to the number of H-1C nonimmigrants that a facility may employ? #####
+
+(a) The seventh attestation element requires that the facility attest that it will not, at any time, employ a number of H-1C nurses that exceeds 33% of the total number of registered nurses employed by the facility. The calculation of the population of nurses for purposes of this attestation includes only nurses who have an employer-employee relationship with the facility (as defined in § 655.1102).
+
+(b) The facility must maintain documentation (e.g., payroll records, copies of H-1C petitions) that demonstrates its compliance with this attestation. The facility must make such documentation available to the Administrator in the event of an enforcement action pursuant to subpart M of this part.

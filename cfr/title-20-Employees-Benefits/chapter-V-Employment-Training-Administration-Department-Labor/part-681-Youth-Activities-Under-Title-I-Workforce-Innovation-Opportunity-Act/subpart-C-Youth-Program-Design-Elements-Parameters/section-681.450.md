@@ -1,0 +1,3 @@
+##### § 681.450 For how long must a local Workforce Innovation and Opportunity Act youth program serve a participant? #####
+
+Local youth programs must provide service to a participant for the amount of time necessary to ensure successful preparation to enter postsecondary education and/or unsubsidized employment. While there is no minimum or maximum time a youth can participate in the WIOA youth program, programs must link participation to the individual service strategy and not the timing of youth service provider contracts or program years.

@@ -1,0 +1,3 @@
+##### § 6.4 Central records; confidentiality. #####
+
+Central files and records shall be maintained of all inventions, patents, and licenses in which the Department has an interest, together with a record of all licenses issued by the Department under such patents. Invention reports required from employees or others for the purpose of obtaining determinations of ownership, and documents and information obtained for the purpose of prosecuting patent applications shall be confidential and shall be disclosed only as required for official purposes or with the consent of the inventor.

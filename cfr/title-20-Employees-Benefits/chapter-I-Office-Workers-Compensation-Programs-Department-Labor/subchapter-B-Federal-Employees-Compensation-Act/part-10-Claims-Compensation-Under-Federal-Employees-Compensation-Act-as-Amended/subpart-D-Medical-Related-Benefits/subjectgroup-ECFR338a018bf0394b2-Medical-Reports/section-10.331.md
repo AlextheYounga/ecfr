@@ -1,0 +1,5 @@
+##### § 10.331 How and when should the medical report be submitted? #####
+
+(a) Form CA-16 may be used for the initial medical report; Form CA-20 may be used for the initial report and for subsequent reports; and Form CA-20a may be used where continued compensation is claimed. Use of medical report forms is not required, however. The report may also be made in narrative form on the physician's letterhead stationery. The report should bear the physician's signature or signature stamp. OWCP may require an original signature on the report.
+
+(b) The report shall be submitted directly to OWCP as soon as possible after medical examination or treatment is received, either by the employee or the physician. (See also § 10.210.) The employer may request a copy of the report from OWCP. The employer should use Form CA-17 to obtain interim reports concerning the duty status of an employee with a disabling injury.

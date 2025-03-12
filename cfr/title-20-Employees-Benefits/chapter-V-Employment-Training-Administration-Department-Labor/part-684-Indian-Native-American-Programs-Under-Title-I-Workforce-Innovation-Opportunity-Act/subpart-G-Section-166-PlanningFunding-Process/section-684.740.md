@@ -1,0 +1,5 @@
+##### § 684.740 Under what circumstances can the Department or the Indian and Native American grantee modify the terms of the grantee's plan(s)? #####
+
+(a) The Department may unilaterally modify the INA program grantee's plan to add funds or, if required by Congressional action, to reduce the amount of funds available for expenditure.
+
+(b) The INA program grantee may request approval to modify its plan to add, expand, delete, or diminish any service allowable under the regulations in this part. The INA program grantee may modify its plan without our approval, unless the modification reduces the total number of participants to be served annually under the grantee's program by a number which exceeds 25 percent of the participants previously proposed to be served, or by 25 participants, whichever is larger.

@@ -1,0 +1,11 @@
+##### § 228.51 Takeback amount. #####
+
+(a) The 1983 amendments to the Railroad Retirement Act provided that a portion of the cost-of-living increases payable on the tier I annuity component be offset from the amount of the tier II annuity. This amount is the takeback amount. The amount of the takeback and its application depends on the employee and survivor's annuity beginning dates.
+
+(b)(1) The tier II takeback amount for survivors whose annuity beginning date is January 1, 1984 or later is usually the amount of the employee's takeback amount. That amount is equal to 5 percent of the employee's primary insurance amount, less all applicable reductions (net tier I), on November 1, 1983. However, if the employee's annuity was reduced for a social security benefit but the survivor's annuity is not, the takeback amount is the amount the employee's annuity would have been reduced for the takeback if the employee's annuity had not been reduced for a social security benefit. If the employee's annuity had not been tiered or was being paid under the overall minimum, the Board will compute the amount of the tier II takeback that would have been applicable to the employee's annuity.
+
+(2) The tier II takeback amount for survivors whose annuity beginning date is before January 1, 1984 is equal to 5 percent of the survivor's net tier I annuity component, before deduction on account of work, on November 1, 1983.
+
+(3) The tier II takeback will be applied in accord with the above paragraphs in any case where the employee died or retired before January 1, 1984. If the employee died or retires after December 31, 1983, or the employee never retired and dies after December 31, 1993, no takeback will be applied to the survivor's annuity.
+
+(c) No takeback is applied if the survivor tier II annuity amount before the takeback is applied is $10.00 or less and cost-of-living increases have not increased the tier II annuity amount to more than $10.00 (the takeback may never reduce the tier II to an amount less than $10.00).

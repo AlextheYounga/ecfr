@@ -1,0 +1,5 @@
+##### § 228.20 Reduction for an employee annuity. #####
+
+(a) *General.* If an individual is entitled to an annuity as a survivor, and is also entitled to an employee annuity, then the survivor annuity must be reduced by the amount of the employee annuity. However, this reduction does not apply (except as provided in paragraph (b) of this section) if the survivor or the individual upon whose earnings record the survivor annuity is based worked for a railroad employer or as an employee representative before January 1, 1975.
+
+(b) *Tier I reduction.* If an individual is entitled to an annuity as a survivor, then the tier I component of the survivor annuity must be reduced by the amount of the tier I component of the employee annuity after reduction for age. Where the survivor is entitled to a tier II component and either the survivor or the employee had railroad earnings before 1975, a portion of this reduction may be restored in the computation of the tier II component (see § 228.52 of this part).

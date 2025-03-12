@@ -1,0 +1,7 @@
+##### § 404.1203 Evidence—for wages paid prior to 1987. #####
+
+(a) *State's responsibility for submitting evidence.* The State, under the provisions of the agreement, is responsible for accurately reporting the wages paid employees for services covered by the agreement and for paying the correct amount of contributions due on those wages. This responsibility includes submitting evidence to verify the accuracy of the reports and payments.
+
+(b) *Failure to submit requested evidence.* The State is required to submit information timely to SSA. If we request additional evidence to verify the accuracy of reports and payments, we specify when that evidence must be submitted. If we do not receive the evidence timely, and the State provides no satisfactory explanation for its failure to submit the evidence timely, we may proceed, if appropriate, on the basis of the information we have. Proceeding on the basis of the information we have permits us to credit the wage records of employees properly, where possible, while continuing to work with the State to resolve remaining discrepancies.
+
+(Approved by the Office of Management and Budget under control number 0960-0425)[53 FR 32976, Aug. 29, 1988, as amended at 66 FR 28836, May 25, 2001]

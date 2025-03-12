@@ -1,0 +1,3 @@
+##### § 219.34 When evidence that a marriage has ended is required. #####
+
+Evidence of how a previous marriage ended may be required to determine whether a later marriage is valid. If a widow or widower remarried after the employee's death and that marriage was annulled, evidence of the annulment is required. If the claimant is a divorced spouse or surviving divorced spouse, evidence to prove a final or absolute divorce from the employee may be required.

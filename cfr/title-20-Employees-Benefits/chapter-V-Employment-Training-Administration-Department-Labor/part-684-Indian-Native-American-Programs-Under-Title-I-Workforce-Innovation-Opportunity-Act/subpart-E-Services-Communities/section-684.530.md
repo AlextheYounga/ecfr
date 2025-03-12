@@ -1,0 +1,3 @@
+##### § 684.530 What rules govern the issuance of contracts and/or subgrants? #####
+
+In general, INA program grantees must follow the rules of Uniform Administrative Requirements, Cost Principles, & Audit Requirements for Federal Awards when awarding contracts and/or subgrants under WIOA sec. 166. These requirements are codified at 2 CFR part 200, subpart E (and Department modifications at 2 CFR part 2900), and covered in WIOA regulations at § 683.200 of this chapter. These rules do not apply to OJT contract awards.

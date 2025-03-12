@@ -1,0 +1,5 @@
+##### § 411.560 Is it possible to pay a milestone or outcome payment to more than one EN? #####
+
+It is possible for more than one EN (including a State VR agency acting as an EN) to receive payment based on the same milestone or outcome. If the beneficiary has assigned the ticket to more than one EN (or State VR agency acting as an EN) at different times, and more than one EN (or State VR agency) requests payment for the same milestone, outcome or reconciliation payment under its elected payment system, the PM will make a determination of the allocation of payment to each EN (or State VR agency acting as an EN). The PM will make this determination based upon the contribution of the services provided by each EN (or State VR agency acting as an EN) toward the achievement of the outcomes or milestones. Outcome and milestone payments will not be increased because the payments are shared between two or more ENs (including a State VR agency acting as an EN).
+
+[73 FR 29350, May 20, 2008]

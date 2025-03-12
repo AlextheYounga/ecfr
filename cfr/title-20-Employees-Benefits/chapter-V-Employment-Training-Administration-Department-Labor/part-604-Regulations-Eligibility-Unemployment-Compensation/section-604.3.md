@@ -1,0 +1,7 @@
+##### § 604.3 Able and available requirement—general principles. #####
+
+(a) A State may pay UC only to an individual who is able to work and available for work for the week for which UC is claimed.
+
+(b) Whether an individual is able to work and available for work under paragraph (a) of this section must be tested by determining whether the individual is offering services for which a labor market exists. This requirement does not mean that job vacancies must exist, only that, at a minimum, the type of services the individual is able and available to perform is generally performed in the labor market. The State must determine the geographical scope of the labor market for an individual under its UC law.
+
+(c) The requirement that an individual be able to work and available for work applies only to the week of unemployment for which UC is claimed. It does not apply to the reasons for the individual's separation from employment, although the separation may indicate the individual was not able to work or available for work during the week the separation occurred. This Part does not address the authority of States to impose disqualifications with respect to separations. This Part does not limit the States' ability to impose additional able and available requirements that are consistent with applicable Federal laws.

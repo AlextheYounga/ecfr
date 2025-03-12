@@ -1,0 +1,5 @@
+##### § 681.310 How does the Department define the “requires additional assistance to complete an educational program, or to secure and hold employment” criterion in this part for ISY? #####
+
+(a) Either the State or the local level may establish definitions and eligibility documentation requirements for the “requires additional assistance to complete an educational program, or to secure and hold employment” criterion of § 681.220(d)(8). In cases where the State WDB establishes State policy on this criterion, the State WDB must include the definition in the State Plan. In cases where the State WDB does not establish a policy, the Local WDB must establish a policy in its local plan if using this criterion.
+
+(b) In each local area, not more than five percent of the ISY newly enrolled in a given program year may be eligible based on the “requires additional assistance to complete an educational program or to secure or hold employment” criterion.

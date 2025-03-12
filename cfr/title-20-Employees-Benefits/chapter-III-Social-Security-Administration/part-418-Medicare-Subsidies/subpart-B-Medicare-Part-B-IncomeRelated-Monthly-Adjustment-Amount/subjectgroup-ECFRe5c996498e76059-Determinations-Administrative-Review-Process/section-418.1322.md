@@ -1,0 +1,5 @@
+##### § 418.1322 How will a Medicare prescription drug coverage income-related monthly adjustment amount determination for the effective year affect your Medicare Part B? #####
+
+If we make an income-related monthly adjustment amount determination for you for the effective year under subpart C of this part (Medicare Prescription Drug Coverage Income-Related Monthly Adjustment Amount), we will apply that income-related monthly adjustment amount determination under this subpart to determine your Part D income-related monthly adjustment amount for the same effective year. Therefore, if you become enrolled in Medicare Part B in the effective year after we make an income-related monthly adjustment amount determination about your Medicare prescription drug coverage, the income-related monthly adjustment amount determination for your Medicare prescription drug coverage will also be used to determine your Medicare Part B income-related monthly adjustment amount. Any change in your net benefit due will be accompanied by a letter explaining the change in your net benefit and your right to appeal the change.
+
+[75 FR 75890, Dec. 7, 2010]

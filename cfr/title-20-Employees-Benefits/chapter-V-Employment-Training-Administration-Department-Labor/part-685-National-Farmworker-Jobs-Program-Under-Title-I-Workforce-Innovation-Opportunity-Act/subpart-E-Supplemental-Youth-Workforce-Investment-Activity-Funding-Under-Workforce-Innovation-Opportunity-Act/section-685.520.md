@@ -1,0 +1,3 @@
+##### § 685.520 What is the application process for obtaining a grant funded by the Workforce Innovation and Opportunity Act? #####
+
+The Department will issue a separate FOA for grants funded by WIOA sec. 127(a)(1). The selection will be made in accordance with the procedures described in § 685.210, except that the Department reserves the right to provide priority to applicants that are WIOA sec. 167 grantees.

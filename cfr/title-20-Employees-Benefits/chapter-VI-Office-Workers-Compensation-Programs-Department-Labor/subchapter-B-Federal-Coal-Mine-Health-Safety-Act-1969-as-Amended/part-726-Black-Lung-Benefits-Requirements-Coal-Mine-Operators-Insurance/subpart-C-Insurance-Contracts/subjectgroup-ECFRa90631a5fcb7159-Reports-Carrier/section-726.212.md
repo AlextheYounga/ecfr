@@ -1,0 +1,3 @@
+##### § 726.212 Notice of cancellation. #####
+
+Cancellation of a contract or policy of insurance issued under authority of the Act shall not become effective otherwise than as provided by 33 U.S.C. 936(b); and notice of a proposed cancellation shall be given to the Office and to the operator in accordance with the provisions of 33 U.S.C. 912(c), 30 days before such cancellation is intended to be effective (see section 422(a) of part C of title IV of the Act).

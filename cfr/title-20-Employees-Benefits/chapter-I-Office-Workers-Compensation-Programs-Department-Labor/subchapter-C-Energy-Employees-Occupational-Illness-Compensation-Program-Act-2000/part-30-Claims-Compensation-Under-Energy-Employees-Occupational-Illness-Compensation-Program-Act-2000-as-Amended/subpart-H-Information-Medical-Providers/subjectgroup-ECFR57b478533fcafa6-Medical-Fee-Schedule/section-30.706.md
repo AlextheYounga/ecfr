@@ -1,0 +1,3 @@
+##### § 30.706 How are the maximum fees defined? #####
+
+For professional medical services, OWCP shall maintain a schedule of maximum allowable fees for procedures performed in a given locality. The schedule shall consist of: An assignment of a value to procedures identified by HCPCS/CPT code which represents the relative skill, effort, risk and time required to perform the procedure, as compared to other procedures of the same general class; an index based on a relative value scale that considers skill, labor, overhead, malpractice insurance and other related costs; and a monetary value assignment (conversion factor) for one unit of value in each of the categories of service.

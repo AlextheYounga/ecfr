@@ -1,0 +1,5 @@
+##### § 225.60 Adjustment at age 62 when employee is entitled to an annuity based on 30 years of railroad service. #####
+
+(a) *Description.* The Tier I PIA of an employee who is entitled to an age annuity based on 30 years of railroad service is adjusted when the employee reaches age 62. The Average Indexed Monthly Earnings on which the PIA is based is adjusted by using the year in which the employee attains age 62 as the eligibility year. This adjustment applies to any employee who attained age 60 or acquired 30 years of railroad service after June 30, 1984. The adjustment affects the tier I of the employee and spouse annuity.
+
+(b) *Effective date of adjustment.* A PIA adjustment based on the employee's attainment of age 62 is effective with the first full month in which the employee is age 62. For purposes of a spouse age annuity tier I, the adjusted PIA is used beginning with the first full month both the employee and spouse are age 62.

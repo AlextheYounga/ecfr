@@ -1,0 +1,7 @@
+##### § 1002.259 How does USERRA protect an employee's pension benefits? #####
+
+On reemployment, the employee is treated as not having a break in service with the employer or employers maintaining a pension plan, for purposes of participation, vesting and accrual of benefits, by reason of the period of absence from employment due to or necessitated by service in the uniformed services.
+
+(a) Depending on the length of the employee's period of service, he or she is entitled to take from one to ninety days following service before reporting back to work or applying for reemployment (See § 1002.115). This period of time must be treated as continuous service with the employer for purposes of determining participation, vesting and accrual of pension benefits under the plan.
+
+(b) If the employee is hospitalized for, or convalescing from, an illness or injury incurred in, or aggravated during, service, he or she is entitled to report to or submit an application for reemployment at the end of the time period necessary for him or her to recover from the illness or injury. This period, which may not exceed two years from the date the employee completed service, except in circumstances beyond his or her control, must be treated as continuous service with the employer for purposes of determining the participation, vesting and accrual of pension benefits under the plan.

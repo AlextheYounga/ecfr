@@ -1,0 +1,3 @@
+##### § 680.120 What are the eligibility criteria for career services for adults in the adult and dislocated worker programs? #####
+
+To be eligible to receive career services as an adult in the adult and dislocated worker programs, an individual must be 18 years of age or older. To be eligible for any dislocated worker programs, an eligible adult must meet the criteria of § 680.130. Eligibility criteria for training services are found at § 680.210.

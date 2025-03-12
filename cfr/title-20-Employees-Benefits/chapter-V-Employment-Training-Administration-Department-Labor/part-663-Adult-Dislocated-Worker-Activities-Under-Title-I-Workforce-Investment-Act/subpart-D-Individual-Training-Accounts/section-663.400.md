@@ -1,0 +1,3 @@
+##### § 663.400 How are training services provided? #####
+
+Except under the three conditions described in WIA section 134(d)(4)(G)(ii) and § 663.430(a), the Individual Training Account (ITA) is established for eligible individuals to finance training services. Local Boards may only provide training services under § 663.430 if they receive a waiver from the Governor and meet the requirements of 20 CFR 661.310 and WIA section 117(f)(1). (WIA sec. 134(d)(4)(G).)

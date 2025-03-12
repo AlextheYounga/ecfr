@@ -1,0 +1,3 @@
+##### § 10.605 What is reconsideration? #####
+
+The FECA provides that the Director may review an award for or against compensation upon application by an employee (or his or her representative) who receives an adverse decision. The employee shall exercise this right through a request to the district office. The request, along with the supporting statements and evidence, is called the “application for reconsideration.”

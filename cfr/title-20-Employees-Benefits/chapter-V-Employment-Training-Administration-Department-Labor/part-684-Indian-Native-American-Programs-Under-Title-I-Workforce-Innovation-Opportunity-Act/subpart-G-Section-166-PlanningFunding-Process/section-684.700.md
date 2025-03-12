@@ -1,0 +1,3 @@
+##### § 684.700 What is the process for submitting a 4-year plan? #####
+
+Every 4 years, INA program grantees must submit a 4-year strategy for meeting the needs of INAs in accordance with WIOA sec. 166(e). This plan will be part of, and incorporated with, the 4-year competitive process described in WIOA sec. 166(c) and § 684.220. Accordingly, specific requirements for the submission of a 4-year plan will be provided in a FOA and will include the information described at § 684.710.

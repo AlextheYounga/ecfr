@@ -1,0 +1,3 @@
+##### § 681.510 What is comprehensive guidance and counseling? #####
+
+Comprehensive guidance and counseling provides individualized counseling to participants. This includes drug and alcohol abuse counseling, mental health counseling, and referral to partner programs, as appropriate. When referring participants to necessary counseling that cannot be provided by the local youth program or its service providers, the local youth program must coordinate with the organization it refers to in order to ensure continuity of service.

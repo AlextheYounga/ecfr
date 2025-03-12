@@ -1,0 +1,3 @@
+##### § 661.317 Who may be selected to represent a particular One-Stop partner program on the Local Board when there is more than one partner program entity in the local area? #####
+
+When there is more than one grant recipient, administrative entity or organization responsible for administration of funds of a particular One-stop partner program in the local area, the chief elected official may appoint one or more members to represent all of those particular partner program entities. In making such appointments, the local elected official may solicit nominations from the partner program entities.

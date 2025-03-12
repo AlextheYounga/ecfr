@@ -1,0 +1,3 @@
+##### § 101.111 Conduct. #####
+
+Parties and their representatives are expected to conduct themselves with honor and dignity and observe judicial standards of practice and ethics in all proceedings. They should not indulge in offensive personalities, unseemly wrangling, or intemperate accusations or characterizations. A representative of any party whether or not a lawyer shall observe the traditional responsibilities of lawyers as officers of the court and use his best efforts to restrain his client from improprieties in connection with a proceeding.

@@ -1,0 +1,7 @@
+##### § 655.710 What is the procedure for filing a complaint? #####
+
+(a) Except as provided in paragraph (b) of this section, complaints concerning misrepresentation in the labor condition application or failure of the employer to meet a condition specified in the application shall be filed with the Administrator, Wage and Hour Division (Administrator), ESA, according to the procedures set forth in subpart I of this part. The Administrator shall investigate where appropriate, and after an opportunity for a hearing, assess appropriate sanctions and penalties, as described in subpart I of this part.
+
+(b) Complaints arising under section 212(n)(1)(G)(i)(II) of the INA, 8 U.S.C. 1182(n)(1)(G)(i)(II), alleging failure of the employer to offer employment to an equally or better qualified U.S. applicant, or an employer's misrepresentation regarding such offer(s) of employment, may be filed with the Department of Justice, Civil Rights Division, Office of Special Counsel for Immigration-Related Unfair Employment Practices, 950 Pennsylvania Avenue, NW., Washington, DC 20530, Telephone: 1-800-255-8155 (employers), 1-800-255-7688 (employees); Web address: *http://www.usdoj.gov/crt/osc.* The Department of Justice shall investigate where appropriate, and take action as appropriate under that Department's regulations and procedures.
+
+[65 FR 80210, Dec. 20, 2000, as amended at 70 FR 72561, Dec. 5, 2005]

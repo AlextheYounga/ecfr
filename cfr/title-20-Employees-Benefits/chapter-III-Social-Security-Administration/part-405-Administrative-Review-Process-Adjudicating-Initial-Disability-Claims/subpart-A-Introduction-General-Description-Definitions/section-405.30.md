@@ -1,0 +1,3 @@
+##### § 405.30 Discrimination complaints. #####
+
+At all levels of the administrative review process, we do not give inappropriate consideration to your race, color, national origin, age, sex, religion, or nature of your impairment(s). If you believe that an adjudicator has improperly discriminated against you, you may file a discrimination complaint with us. You must file any such complaint within 180 days of the date upon which you became aware that you may have been discriminated against.

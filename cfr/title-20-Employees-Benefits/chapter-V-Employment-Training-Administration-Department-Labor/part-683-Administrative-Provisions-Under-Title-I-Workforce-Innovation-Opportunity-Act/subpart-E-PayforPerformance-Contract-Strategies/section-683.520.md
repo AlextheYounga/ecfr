@@ -1,0 +1,5 @@
+##### § 683.520 What funds can be used to support Workforce Innovation and Opportunity Act Pay-for-Performance contract strategies? #####
+
+(a) For WIOA Pay-for-Performance contract strategies providing adult and dislocated worker training services, funds allocated under secs. 133(b)(2)-(3) of WIOA can be used. For WIOA Pay-for-Performance contract strategies providing youth activities, funds allocated under WIOA sec. 128(b) can be used.
+
+(b) No more than 10 percent of the total local adult and dislocated worker allocations can be reserved and used on the implementation of WIOA Pay-for-Performance contract strategies for adult training services described in sec. 134(c)(3) of WIOA. No more than 10 percent of the local youth allocation can be reserved and used on the implementation of WIOA Pay-for-Performance contract strategies for youth training services and other activities described in secs. 129(c)(2) of WIOA.

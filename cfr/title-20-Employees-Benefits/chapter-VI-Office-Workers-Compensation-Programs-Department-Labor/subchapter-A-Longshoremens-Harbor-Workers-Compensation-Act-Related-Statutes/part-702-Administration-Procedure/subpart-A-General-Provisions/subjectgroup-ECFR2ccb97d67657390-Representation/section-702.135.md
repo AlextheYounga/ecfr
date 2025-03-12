@@ -1,0 +1,3 @@
+##### § 702.135 Payment of claimant's witness fees and mileage in disputed claims. #####
+
+In cases where an attorney's fee is awarded against an employer or carrier there may be further assessed against such employer or carrier as costs, fees and mileage for necessary witnesses attending the hearing at the instance of claimant. Both the necessity for the witness and the reasonableness of the fees of expert witnesses must be approved by the hearing officer, the Board, or the court, as the case may be. The amounts awarded against an employer or carrier as attorney's fees, costs, fees and mileage for witnesses shall not in any respect affect or diminish the compensation payable under this Act (see Act, section 28 (d)).

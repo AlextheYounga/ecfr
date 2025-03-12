@@ -1,0 +1,3 @@
+##### § 664.710 Do Local Boards have the flexibility to offer services to area youth who are not eligible under the youth program through the One-Stop centers? #####
+
+Yes, however, One-Stop services for non-eligible youth must be funded by programs that are authorized to provide services to such youth. For example, basic labor exchange services under the Wagner-Peyser Act may be provided to any youth.

@@ -1,0 +1,5 @@
+##### § 416.906 Basic definition of disability for children. #####
+
+If you are under age 18, we will consider you disabled if you have a medically determinable physical or mental impairment or combination of impairments that causes marked and severe functional limitations, and that can be expected to cause death or that has lasted or can be expected to last for a continuous period of not less than 12 months. Notwithstanding the preceding sentence, if you file a new application for benefits and you are engaging in substantial gainful activity, we will not consider you disabled. We discuss our rules for determining disability in children who file new applications in §§ 416.924 through 416.924b and §§ 416.925 through 416.926a.
+
+[62 FR 6421, Feb. 11, 1997, as amended at 65 FR 54777, Sept. 11, 2000]

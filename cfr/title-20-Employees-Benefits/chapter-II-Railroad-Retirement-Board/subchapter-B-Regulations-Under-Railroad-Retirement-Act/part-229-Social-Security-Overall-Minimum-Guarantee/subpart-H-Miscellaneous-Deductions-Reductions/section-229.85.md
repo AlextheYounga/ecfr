@@ -1,0 +1,3 @@
+##### § 229.85 Substantial gainful activity by blind employee or child. #####
+
+A blind employee or child who is 55 years old or older is entitled to an O/M benefit based on disability while he or she is working in substantial gainful activity that does not require skills or ability used in his or her previous work. However, the DIB O/M or child's O/M benefit is not payable for any month in which the employee or child works in any type of substantial gainful activity which requires skills or abilities comparable to those of any gainful activity in which he or she has previously engaged with some regularity and over a substantial period of time.

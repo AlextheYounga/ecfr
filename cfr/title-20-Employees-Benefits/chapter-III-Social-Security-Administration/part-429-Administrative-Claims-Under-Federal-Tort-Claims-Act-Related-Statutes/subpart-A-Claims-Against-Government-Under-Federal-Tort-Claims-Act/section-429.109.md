@@ -1,0 +1,3 @@
+##### § 429.109 Are there any penalties for filing false claims? #####
+
+A person who files a false claim or makes a false or fraudulent statement in a claim against the United States may be imprisoned for not more than 5 years. (18 U.S.C. 287, 1001). In addition, that person may be liable for a civil penalty of not less than $5,000 and not more than $10,000 and damages of triple the loss or damage sustained by the United States, as well as the costs of a civil action brought to recover any penalty or damages. (31 U.S.C. 3729).

@@ -1,0 +1,5 @@
+##### § 702.171 Certification of exemption, general. #####
+
+An employer may apply to the Director or his/her designee to certify a particular facility as one engaged in the building, repairing or dismantling of exclusively small vessels, as defined. Once certified, injuries sustained at that facility would not be covered under the Act except for injuries which occur over the navigable waters of the United States including any adjoining pier, wharf, dock, facility over land for launching vessels or for hauling, lifting or drydocking vessels. A facility otherwise covered under the Act remains covered until certification of exemption is issued; a certification will be granted only upon submission of a complete application (described in § 702.174), and only for as long as a facility meets the requirements detailed in section 3(d) of the Act, 33 U.S.C. 903(d). This exemption from coverage is not intended to be used by employers whose facilities from time to time may temporarily meet the criteria for qualification but only for facilities which work on exclusively small vessels, as defined.
+
+[50 FR 396, Jan. 3, 1985]

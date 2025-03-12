@@ -1,0 +1,3 @@
+##### § 661.307 How does the Local Board meet its requirement to conduct business in an open manner under the “sunshine provision” of WIA section 117(e)? #####
+
+The Local Board must conduct its business in an open manner as required by WIA section 117(e), by making available to the public, on a regular basis through open meetings, information about the activities of the Local Board. This includes information about the Local Plan prior to submission of the plan; information about membership; the development of significant policies, interpretations, guidelines and definitions; and, on request, minutes of formal meetings of the Local Board.

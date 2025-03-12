@@ -1,0 +1,9 @@
+##### § 369.4 Inappropriate use of the seal. #####
+
+The Railroad Retirement Board shall not grant permission for use of the seal in those instances where use of the seal will give the unintended appearance of Agency endorsement or authentication. Situations where use of the seal of the Railroad Retirement Board would be inappropriate include, but are not limited to, the following examples:
+
+(a) A consulting firm makes arrangements with a railroad to conduct a retirement planning seminar for its employees. Included in the material distributed to the seminar attendees is a booklet, prepared by the consulting firm, which displays the seal of the Railroad Retirement Board on the cover and contains information regarding benefits payable under the Railroad Retirement Act.
+
+(b) A former employee of the Railroad Retirement Board owns a coffee and donut shop, frequented by present and past railroad workers. Many of the shop's customers know of the owner's prior employment with the Board and frequently ask him questions related to benefits payable under the Railroad Unemployment Insurance and Railroad Retirement Acts. The shop owner prepares and distributes to his customers a monthly flyer listing benefit questions presented to him during the month, as well as his answers to the questions. The flyer displays the seal of the Board.
+
+(c) A retired railroad employee works part-time in a train hobby shop. The shop owner, at the former railroad worker's suggestion, develops and sells items such as coffee mugs and computer mouse pads with text relevant to benefits paid by the Railroad Retirement Board. The text is taken from publications issued by the Railroad Retirement Board. The merchandise also bears the seal of the Railroad Retirement Board.

@@ -1,0 +1,3 @@
+##### § 418.1325 When may you request a reconsideration? #####
+
+If you are dissatisfied with our initial determination about your income-related monthly adjustment amount, you may request that we reconsider it. In addition, a person who shows that his or her rights may be adversely affected by the initial determination may request a reconsideration. We may accept requests for reconsideration that are filed by electronic or other means that we determine to be appropriate. Subject to the provisions of this section and § 418.1330, when you request a reconsideration, we will use the rules in §§ 404.907 through 404.922 of this chapter.

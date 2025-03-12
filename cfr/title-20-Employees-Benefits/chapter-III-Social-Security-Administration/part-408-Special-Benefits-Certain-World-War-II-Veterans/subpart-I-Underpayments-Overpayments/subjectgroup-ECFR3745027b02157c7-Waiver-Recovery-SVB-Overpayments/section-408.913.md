@@ -1,0 +1,3 @@
+##### § 408.913 When would overpayment recovery defeat the purpose of the title VIII program? #####
+
+We will waive recovery of an overpayment when you are without fault (as defined in § 408.912) and recovery of the overpayment would defeat the purpose of the title VIII program. Recovery of an overpayment would defeat the purpose of the title VIII program to the extent that our recovery action would deprive you of income and resources you need to meet your ordinary and necessary living expenses as described in § 404.508(a) of this chapter.

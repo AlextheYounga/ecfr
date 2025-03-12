@@ -1,0 +1,5 @@
+##### § 655.635 Rules of practice for administrative law judge proceedings. #####
+
+(a) Except as specifically provided in this subpart, and to the extent they do not conflict with the provisions of this subpart, the “Rules of Practice and Procedure for Administrative Hearings Before the Office of Administrative Law Judges” established by the Secretary at 29 CFR part 18 shall apply to administrative proceedings under this subpart.
+
+(b) As provided in the Administrative Procedure Act, 5 U.S.C. 556, any oral or documentary evidence may be received in proceedings under this part. The Federal Rules of Evidence and subpart B of the Rules of Practice and Procedure for Administrative Hearings Before the Office of Administrative Law Judges (29 CFR part 18, subpart B) shall not apply, but principles designed to ensure production of relevant and probative evidence shall guide the admission of evidence. The administrative law judge may exclude evidence which is immaterial, irrelevant, or unduly repetitive.

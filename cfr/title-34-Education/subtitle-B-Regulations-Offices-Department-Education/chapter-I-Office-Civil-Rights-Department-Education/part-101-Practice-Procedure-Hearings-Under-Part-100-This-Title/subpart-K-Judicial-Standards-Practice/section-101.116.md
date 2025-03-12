@@ -1,0 +1,3 @@
+##### § 101.116 Filing of ex parte communications. #####
+
+A prohibited communication in writing received by the Secretary, the reviewing authority, or by the presiding officer, shall be made public by placing it in the correspondence file of the docket in the case and will not be considered as part of the record for decision. If the prohibited communication is received orally a memorandum setting forth its substance shall be made and filed in the correspondence section of the docket in the case. A person referred to in such memorandum may file a comment for inclusion in the docket if he considers the memorandum to be incorrect.

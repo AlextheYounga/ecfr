@@ -1,0 +1,3 @@
+##### § 1002.99 Is there a limit on the total amount of service in the uniformed services that an employee may perform and still retain reemployment rights with the employer? #####
+
+Yes. In general, the employee may perform service in the uniformed services for a cumulative period of up to five (5) years and retain reemployment rights with the employer. The exceptions to this rule are described below.

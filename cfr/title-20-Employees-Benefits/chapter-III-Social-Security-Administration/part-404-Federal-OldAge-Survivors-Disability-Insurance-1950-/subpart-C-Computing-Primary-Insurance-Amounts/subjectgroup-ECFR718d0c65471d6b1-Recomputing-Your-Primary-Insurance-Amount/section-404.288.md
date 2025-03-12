@@ -1,0 +1,9 @@
+##### § 404.288 Recomputing when you are entitled to a monthly pension based on noncovered employment. #####
+
+(a) *After entitlement to old-age or disability insurance benefits.* If you first become eligible for old-age or disability insurance benefits after 1985 and you later become entitled to a monthly pension based on noncovered employment, we may recompute your primary insurance amount under the rules in § 404.213. When recomputing, we will use the amount of the pension to which you are entitled or deemed entitled in the first month that you are concurrently eligible for both the pension and old-age or disability insurance benefits. We will disregard the rule in § 404.284(e) that the recomputation must increase your primary insurance amount by at least $1.
+
+(b) *Already entitled to benefits and to a pension based on noncovered employment.* If we have already computed or recomputed your primary insurance amount to take into account your monthly pension, we may later recompute for one of the reasons explained in § 404.281. We will recompute your primary insurance amount under the rules in §§ 404.213 and 404.284. Any increase resulting from the recomputation under the rules of § 404.284 will be added to the most recent primary insurance amount which we had computed to take into account your monthly pension.
+
+(c) *After your death.* If one or more survivors are entitled to benefits after your death, we will recompute the primary insurance amount as though it had never been affected by your entitlement to a monthly pension based in whole or in part on noncovered employment.
+
+[52 FR 47918, Dec. 17, 1987]

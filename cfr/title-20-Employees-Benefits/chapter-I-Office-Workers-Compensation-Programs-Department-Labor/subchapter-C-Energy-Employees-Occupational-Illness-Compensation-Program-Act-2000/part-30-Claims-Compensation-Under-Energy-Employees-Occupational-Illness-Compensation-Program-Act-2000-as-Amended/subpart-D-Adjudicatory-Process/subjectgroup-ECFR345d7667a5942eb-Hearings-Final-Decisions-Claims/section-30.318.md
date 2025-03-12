@@ -1,0 +1,7 @@
+##### § 30.318 Can the FAB consider objections to HHS's reconstruction of a radiation dose or to the guidelines OWCP uses to determine if a claimed cancer was at least as likely as not related to employment? #####
+
+(a) If the claimant objects to HHS's reconstruction of the radiation dose to which the employee was exposed, the FAB will evaluate the factual findings upon which HHS based its dose reconstruction. If these factual findings do not appear to be supported by substantial evidence, the claim will be returned to the district office for referral to HHS for further consideration.
+
+(b) The methodology used by HHS in arriving at reasonable estimates of the radiation doses received by an employee, established by regulations issued by HHS at 42 CFR part 82, is binding on the FAB. The FAB reviewer may determine, however, that objections concerning the application of that methodology should be considered by HHS and may return the case to the district office for referral to HHS for such consideration.
+
+(c) The methodology that OWCP uses to determine if a claimed cancer was at least as likely as not related to employment at a DOE facility, an atomic weapons employer facility, or a RECA section 5 facility, established by regulations issued by HHS at 42 CFR part 81, is also binding on the FAB (see § 30.213). However, since OWCP applies this methodology when it makes these determinations, the FAB reviewer may consider objections to the manner in which OWCP applied HHS's regulatory guidelines.

@@ -1,0 +1,7 @@
+##### § 678.615 May an entity currently serving as one-stop operator compete to be a one-stop operator under the procurement requirements of this subpart? #####
+
+(a) Local WDBs may compete for and be selected as one-stop operators, as long as appropriate firewalls and conflict of interest policies and procedures are in place. These policies and procedures must conform to the specifications in § 679.430 of this chapter for demonstrating internal controls and preventing conflict of interest.
+
+(b) State and local agencies may compete for and be selected as one-stop operators by the Local WDB, as long as appropriate firewalls and conflict of interest policies and procedures are in place. These policies and procedures must conform to the specifications in § 679.430 of this chapter for demonstrating internal controls and preventing conflict of interest.
+
+(c) In the case of single-area States where the State WDB serves as the Local WDB, the State agency is eligible to compete for and be selected as operator as long as appropriate firewalls and conflict of interest policies are in place and followed for the competition. These policies and procedures must conform to the specifications in § 679.430 of this chapter for demonstrating internal controls and preventing conflicts of interest.

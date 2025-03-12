@@ -1,0 +1,3 @@
+##### § 725.365 Approval of representative's fees; lien against benefits. #####
+
+No fee charged for representation services rendered to a claimant with respect to any claim under this part shall be valid unless approved under this subpart. No contract or prior agreement for a fee shall be valid. In cases where the obligation to pay the attorney's fee is upon the claimant, the amount of the fee awarded may be made a lien upon the benefits due under an award and the adjudication officer shall fix, in the award approving the fee, such lien and the manner of payment of the fee. Any representative who is not an attorney may be awarded a fee for services under this subpart, except that no lien may be imposed with respect to such representative's fee.

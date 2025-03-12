@@ -1,0 +1,5 @@
+##### § 6.3 Licensing of Government-owned patents. #####
+
+(a) Licenses to practice inventions covered by patents and pending patent applications owned by the U.S. Government as represented by this Department will generally be royalty free, revocable and nonexclusive. They will normally be issued to all applicants and will generally contain no limitations or standards relating to the quality or testing of the products to be manufactured, sold, or distributed thereunder.
+
+(b) Where it appears however that the public interest will be served under the circumstances of the particular case by licenses which impose conditions, such as those relating to quality or testing of products, requirement of payment of royalties to the Government, etc., or by the issuance of limited exclusive licenses by the Secretary after notice and opportunity for hearing thereon, such licenses may be issued.

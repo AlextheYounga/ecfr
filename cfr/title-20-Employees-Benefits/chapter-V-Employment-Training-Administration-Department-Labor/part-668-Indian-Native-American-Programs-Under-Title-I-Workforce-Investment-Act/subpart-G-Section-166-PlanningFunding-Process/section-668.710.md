@@ -1,0 +1,3 @@
+##### § 668.710 What planning documents must an INA grantee submit? #####
+
+Each grantee receiving funds under WIA section 166 must submit to DINAP a comprehensive services plan and a projection of participant services and expenditures covering the two-year planning cycle. We will, in consultation with the Native American Advisory Council, issue budget and planning instructions which grantees must use when preparing their plan.

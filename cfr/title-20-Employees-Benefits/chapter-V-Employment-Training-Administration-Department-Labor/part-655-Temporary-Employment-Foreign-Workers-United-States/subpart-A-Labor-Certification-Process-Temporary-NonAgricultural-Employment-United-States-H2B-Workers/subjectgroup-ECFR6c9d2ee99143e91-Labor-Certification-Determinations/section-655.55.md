@@ -1,0 +1,5 @@
+##### § 655.55 Validity of temporary labor certification. #####
+
+(a) *Validity period.* A temporary labor certification is valid only for the period as approved on the *Application for Temporary Employment**Certification.* The certification expires on the last day of authorized employment.
+
+(b) *Scope of validity.* A temporary labor certification is valid only for the number of H-2B positions, the area of intended employment, the job classification and specific services or labor to be performed, and the employer specified on the approved *Application for Temporary Employment**Certification,* including any approved modifications. The temporary labor certification may not be transferred from one employer to another unless the employer to which it is transferred is a successor in interest to the employer to which it was issued.

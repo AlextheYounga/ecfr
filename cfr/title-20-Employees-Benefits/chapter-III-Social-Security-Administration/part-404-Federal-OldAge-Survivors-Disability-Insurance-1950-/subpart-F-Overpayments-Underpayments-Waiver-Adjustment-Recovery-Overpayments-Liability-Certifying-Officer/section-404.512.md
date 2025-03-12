@@ -1,0 +1,7 @@
+##### § 404.512 When adjustment or recovery of an overpayment will be waived. #####
+
+(a) *Adjustment or recovery deemed “against equity and good conscience.”* In the situations described in §§ 404.510(a), (b), and (c), and 404.510a, adjustment or recovery will be waived since it will be deemed such adjustment or recovery is *against equity and good conscience.* Adjustment or recovery will also be deemed *against equity and good conscience* in the situation described in § 404.510(e), but only as to a month in which the individual's earnings from wages do not exceed the total monthly benefits affected for that month.
+
+(b) *Adjustment or recovery considered to defeat the purpose of title II* or be *against equity and good conscience* under certain circumstances. In the situation described in § 404.510(e) (except in the case of an individual whose monthly earnings from wages in employment do not exceed the total monthly benefits affected for a particular month), and in the situations described in § 404.510 (f) through (n), adjustment or recovery shall be waived only where the evidence establishes that adjustment or recovery would work a financial hardship (see § 404.508) or would otherwise be inequitable (see § 404.509).
+
+[27 FR 1163, Feb. 8, 1962, as amended at 35 FR 6321, Apr. 18, 1970; 36 FR 23361, Dec. 9, 1971]

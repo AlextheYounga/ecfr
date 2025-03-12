@@ -1,0 +1,3 @@
+##### § 1002.199 What priority must the employer follow if two or more returning employees are entitled to reemployment in the same position? #####
+
+If two or more employees are entitled to reemployment in the same position and more than one employee has reported or applied for employment in that position, the employee who first left the position for uniformed service has the first priority on reemployment in that position. The remaining employee (or employees) is entitled to be reemployed in a position similar to that in which the employee would have been reemployed according to the rules that normally determine a reemployment position, as set out in §§ 1002.196 and 1002.197.

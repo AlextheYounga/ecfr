@@ -1,0 +1,3 @@
+##### § 641.210 What services, in addition to the applicable core services, must SCSEP grantees and sub-recipients provide through the One-Stop delivery system? #####
+
+In addition to providing core services, as defined at 20 CFR 662.240 of the WIA regulations, SCSEP grantees and sub-recipients must make arrangements through the One-Stop delivery system to provide eligible and ineligible individuals with referrals to WIA intensive and training services and access to other activities and programs carried out by other One-Stop partners.

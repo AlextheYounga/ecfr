@@ -1,0 +1,13 @@
+##### § 411.310 How does an entity other than a State VR agency apply to be an EN and who will determine whether an entity qualifies as an EN? #####
+
+(a) An entity other than a State VR agency applies by responding to our Request for Proposal (RFP), which we published in the Commerce Business Daily and which is available online through the Federal government's electronic posting system (*http://www.eps.gov*). This RFP also is available through SSA's website, *http://www.ssa.gov/work.* Since recruitment of ENs will be an ongoing process, the RFP is open and continuous. The entity must respond in a format prescribed in the RFP announcement. In its response, the entity must assure SSA that it is qualified to provide employment services, vocational rehabilitation services, or other support services to disabled beneficiaries, either directly or through arrangements with other entities.
+
+(b) The PM will solicit service providers and other qualified entities to respond to the RFP on an ongoing basis. (See § 411.115(k) for a definition of the PM.) The PM will conduct a preliminary review of responses to the RFP from applicants located in the PM's service delivery area and make recommendations to the Commissioner regarding selection. The Commissioner will decide which applicants will be approved to serve as ENs under the program.
+
+(c) State VR agencies must comply with the requirements in subpart F of this part to participate as an EN in the Ticket to Work program. (See §§ 411.360ff).
+
+(d) One-stop delivery systems established under subtitle B of title I of the Workforce Investment Act of 1998 (29 U.S.C. 2811 *et seq.*) may participate in the Ticket to Work program as ENs and do not need to respond to the RFP. However, in order to participate in the Ticket to Work program, the one-stop delivery system must enter into an agreement with the Commissioner to be an EN and must maintain compliance with general and specific selection criteria as described in § 411.315 in order to remain an EN.
+
+(e) Organizations administering Vocational Rehabilitation Services Projects for American Indians with Disabilities authorized under section 121 of part C of title I of the Rehabilitation Act of 1973, as amended (29 U.S.C. 741), may participate in the Ticket to Work program as ENs and do not need to respond to the RFP. However, in order to participate in the Ticket to Work program, the organization administering the project must enter into an agreement with the Commissioner to be an EN and must maintain compliance with general and specific selection criteria as described in § 411.315 in order to remain an EN.
+
+[66 FR 67420, Dec. 28, 2001, as amended at 73 FR 29344, May 20, 2008]

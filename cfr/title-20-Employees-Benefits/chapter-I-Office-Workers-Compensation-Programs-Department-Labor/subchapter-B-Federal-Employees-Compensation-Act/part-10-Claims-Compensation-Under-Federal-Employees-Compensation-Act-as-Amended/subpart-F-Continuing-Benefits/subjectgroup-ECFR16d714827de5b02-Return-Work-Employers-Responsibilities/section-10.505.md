@@ -1,0 +1,7 @@
+##### § 10.505 What actions must the employer take? #####
+
+Upon authorizing medical care, the employer should advise the employee in writing as soon as possible of his or her obligation to return to work under § 10.210 and as defined in this subpart. The term “return to work” as used in this subpart is not limited to returning to work at the employee's normal worksite or usual position, but may include returning to work at other locations and in other positions. In general, the employer should make all reasonable efforts to place the employee in his or her former or an equivalent position, in accordance with 5 U.S.C. 8151(b)(2), if the employee has fully recovered after one year. The Office of Personnel Management (not OWCP) administers this provision.
+
+(a) Where the employer has specific alternative positions available for partially disabled employees, the employer should advise the employee in writing of the specific duties and physical requirements of those positions.
+
+(b) Where the employer has no specific alternative positions available for an employee who can perform restricted or limited duties, the employer should advise the employee of any accommodations the agency can make to accommodate the employee's limitations due to the injury.

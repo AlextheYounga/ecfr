@@ -1,0 +1,17 @@
+##### § 702.441 Claims for loss of hearing. #####
+
+(a) Claims for hearing loss pending on or filed after September 28, 1984 (the date of enactment of Pub. L. 98-426) shall be adjudicated with respect to the determination of the degree of hearing impairment in accordance with these regulations.
+
+(b) An audiogram shall be presumptive evidence of the amount of hearing loss on the date administered if the following requirements are met:
+
+(1) The audiogram was administered by a licensed or certified audiologist, by a physician certified by the American Board of Otolaryngology, or by a technician, under an audiologist's or physician's supervision, certified by the Council of Accreditation on Occupational Hearing Conservation, or by any other person considered qualified by a hearing conservation program authorized pursuant to 29 CFR 1910.95(g)(3) promulgated under the Occupational Safety and Health Act of 1970 (29 U.S.C. 667). Thus, either a professional or trained technician may conduct audiometric testing. However, to be acceptable under this subsection, a licensed or certified audiologist or otolaryngologist, as defined, must ultimately interpret and certify the results of the audiogram. The accompanying report must set forth the testing standards used and describe the method of evaluating the hearing loss as well as providing an evaluation of the reliability of the test results.
+
+(2) The employee was provided the audiogram and a report thereon at the time it was administered or within thirty (30) days thereafter.
+
+(3) No one produces a contrary audiogram of equal probative value (meaning one performed using the standards described herein) made at the same time. “Same time” means within thirty (30) days thereof where noise exposure continues or within six (6) months where exposure to excessive noise levels does not continue. Audiometric tests performed prior to the enactment of Public Law 98-426 will be considered presumptively valid if the employer complied with the procedures in this section for administering audiograms.
+
+(c) In determining the amount of pre-employment hearing loss, an audiogram must be submitted which was performed prior to employment or within thirty (30) days of the date of the first employment-related noise exposure. Audiograms performed after December 27, 1984 must comply with the standards described in paragraph (d) of this section.
+
+(d) In determining the loss of hearing under the Act, the evaluators shall use the criteria for measuring and calculating hearing impairment as published and modified from time-to-time by the American Medical Association in the *Guides to the Evaluation of Permanent Impairment,* using the most currently revised edition of this publication. In addition, the audiometer used for testing the individual's threshold of hearing must be calibrated according to current American National Standard Specifications for Audiometers. Audiometer testing procedures required by hearing conservation programs pursuant to the Occupational Safety and Health Act of 1970 should be followed (as described at 29 CFR 1910.95 and appendices).
+
+(Approved by the Office of Management and Budget under control number 1215-0160)[50 FR 405, Jan. 3, 1985]

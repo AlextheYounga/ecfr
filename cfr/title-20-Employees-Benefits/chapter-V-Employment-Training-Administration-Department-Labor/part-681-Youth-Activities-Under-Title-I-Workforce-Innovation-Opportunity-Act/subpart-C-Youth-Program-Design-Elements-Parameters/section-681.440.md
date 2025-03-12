@@ -1,0 +1,3 @@
+##### § 681.440 How does a local youth program determine if an 18 to 24 year old is enrolled in the Workforce Innovation and Opportunity Act (WIOA) youth program or the WIOA adult program? #####
+
+A local program must determine the appropriate program for the participant based on the service needs of the participant and if the participant is career-ready based on an assessment of their occupational skills, prior work experience, employability, and the participant's needs.

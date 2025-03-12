@@ -1,0 +1,3 @@
+##### § 216.21 General. #####
+
+To be eligible for an employee, a spouse, or a divorced spouse annuity, the Railroad Retirement Act requires that an applicant must stop work for pay performed as an employee for a railroad employer. In addition, no employee, spouse or divorced spouse annuity may be paid for any month in which the employee, spouse or divorced spouse annuitant works for pay for any railroad employer after the date his or her annuity began. No annuity may be paid to a widow or widower, surviving divorced spouse, remarried widow or widower, child, or parent for any month such individual works for pay for a railroad employer.

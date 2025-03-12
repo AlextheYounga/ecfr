@@ -1,0 +1,3 @@
+##### § 404.1219 Dissolution of political subdivision. #####
+
+If a political subdivision whose employees are covered under the agreement is legally dissolved, the State shall give us satisfactory evidence of its dissolution or nonexistence. The evidence must establish that the entity is not merely inactive or dormant, but that it no longer legally exists. We will notify the State whether the evidence is satisfactory.

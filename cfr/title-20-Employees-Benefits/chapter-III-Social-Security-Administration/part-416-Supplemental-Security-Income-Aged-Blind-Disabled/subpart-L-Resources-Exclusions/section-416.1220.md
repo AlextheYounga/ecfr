@@ -1,0 +1,5 @@
+##### § 416.1220 Property essential to self-support; general. #####
+
+When counting the value of resources an individual (and spouse, if any) has, the value of property essential to self-support is not counted, within certain limits. There are different rules for considering this property depending on whether it is income-producing or not. Property essential to self-support can include real and personal property (for example, land, buildings, equipment and supplies, motor vehicles, and tools, etc.) used in a trade or business (as defined in § 404.1066 of part 404), nonbusiness income-producing property (houses or apartments for rent, land other than home property, etc.) and property used to produce goods or services essential to an individual's daily activities. Liquid resources other than those used as part of a trade or business are not property essential to self-support. If the individual's principal place of residence qualifies under the home exclusion, it is not considered in evaluating property essential to self-support.
+
+[50 FR 42687, Oct. 22, 1985]

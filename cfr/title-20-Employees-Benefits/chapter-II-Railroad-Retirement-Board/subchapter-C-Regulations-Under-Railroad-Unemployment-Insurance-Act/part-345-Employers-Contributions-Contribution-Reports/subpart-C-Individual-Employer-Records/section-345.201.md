@@ -1,0 +1,3 @@
+##### § 345.201 Individual employer record defined. #####
+
+Effective January 1, 1990, the Board will establish and maintain a record, hereinafter known as an Individual Employer Record, for each employer subject to this part. As used in this subpart, “Individual Employer Record” means a record of each employer's benefit ratio; reserve ratio; 1-year compensation base; 3-year compensation base; unallocated charge; reserve balance; net cumulative contribution balance; and cumulative benefit balance. See § 345.302 of this part for a definition of these terms. Whenever a new employer begins paying compensation with respect to which contributions are payable under this part, the Board will establish and maintain an individual employer record for such employer.

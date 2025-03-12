@@ -1,0 +1,5 @@
+##### § 10.811 When and how are fees reduced? #####
+
+(a) OWCP accepts a provider's designation of the code used to identify a billed procedure or service if the code is consistent with the medical and other evidence, and will pay no more than the maximum allowable fee for that procedure. If the code is not consistent with the medical evidence or where no code is supplied, the bill will be returned to the provider for correction and resubmission.
+
+(b) If the charge submitted for a service supplied to an injured employee exceeds the maximum amount determined to be reasonable according to the schedule, OWCP shall pay the amount allowed by the schedule for that service and shall notify the provider in writing that payment was reduced for that service in accordance with the schedule. OWCP shall also notify the provider of the method for requesting reconsideration of the balance of the charge.

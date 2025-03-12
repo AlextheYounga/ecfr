@@ -1,0 +1,5 @@
+##### § 1.1 Under what authority does the Office of Workers' Compensation Programs operate? #####
+
+(a) The Assistant Secretary of Labor for Employment Standards, by authority vested in him by the Secretary of Labor in Secretary's Order No. 13-71 (36 FR 8755), established in the Employment Standards Administration (ESA) an Office of Workers' Compensation Programs (OWCP) by Employment Standards Order No. 2-74 (39 FR 34722). The Assistant Secretary subsequently designated as the head thereof a Director who, under the general supervision of the Assistant Secretary, administered the programs assigned to OWCP by the Assistant Secretary.
+
+(b) Effective November 8, 2009, ESA was dissolved into its four component parts, including OWCP. Secretary of Labor's Order 10-2009 (74 FR 58834) cancelled or modified all prior orders and directives referencing ESA, devolved certain authorities and responsibilities of ESA to OWCP, and delegated authority to the Director, OWCP, to administer the programs now assigned directly to OWCP.

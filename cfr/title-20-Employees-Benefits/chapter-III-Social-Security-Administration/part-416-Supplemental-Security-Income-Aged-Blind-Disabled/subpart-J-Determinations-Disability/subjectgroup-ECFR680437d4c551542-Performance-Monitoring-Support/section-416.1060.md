@@ -1,0 +1,5 @@
+##### § 416.1060 How we will monitor. #####
+
+We will regularly analyze State agency combined title II and title XVI initial performance accuracy rate, title II initial processing time, and title XVI initial processing time. Within budgeted resources, we will also routinely conduct fiscal and administrative management reviews and special onsite reviews. A fiscal and administrative management review is a fact-finding mission to review particular aspects of State agency operations. During these reviews we will also review the quality assurance function. This regular monitoring and review program will allow us to determine the progress each State is making and the type and extent of performance support we will provide to help the State progress toward threshold, intermediate, and/or target levels.
+
+[56 FR 11023, Mar. 14, 1991]

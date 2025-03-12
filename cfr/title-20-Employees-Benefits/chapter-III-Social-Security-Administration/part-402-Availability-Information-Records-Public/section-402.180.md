@@ -1,0 +1,11 @@
+##### § 402.180 Procedure on assessing and collecting fees for providing records. #####
+
+(a) We will generally assume that when you send us a request, you agree to pay for the services needed to locate and send that record to you. You may specify in your request a limit on the amount you are willing to spend. If you do that or include with your request a payment that does not cover our fee, we will notify you if it appears that the fee will exceed that amount and ask whether you want us to continue to process your request. Also, before we start work on your request under § 402.140, we will generally notify you of our exact or estimated charge for the information, unless it is clear that you have a reasonable idea of the cost.
+
+(b) If you have failed to pay previous bills in a timely fashion, or if our initial review of your request indicates that we will charge you fees exceeding $250, we will require you to pay your past due fees and/or the estimated fees, or a deposit, before we start searching for the records you want. If so, we will let you know promptly upon receiving your request. In such cases, administrative time limits (*i.e.*, ten working days from receipt of initial requests and 20 working days from receipt of appeals from initial denials, plus permissible extensions of these time limits) will begin only after we come to an agreement with you over payment of fees, or decide that fee waiver or reduction is appropriate.
+
+(c) We will normally require you to pay all fees before we furnish the records to you. We may, at our discretion, send you a bill along with or following the furnishing of the records. For example, we may do this if you have a history of prompt payment. We may also, at our discretion, aggregate the charges for certain time periods in order to avoid sending numerous small bills to frequent requesters, or to businesses or agents representing requesters. For example, we might send a bill to such a requester once a month. Fees should be paid in accordance with the instructions furnished by the person who responds to your requests.
+
+(d) Payment of fees will be made by check or money order payable to “Social Security Administration”.
+
+[62 FR 4154, Jan. 29, 1997, as amended at 68 FR 60295, Oct. 22, 2003]

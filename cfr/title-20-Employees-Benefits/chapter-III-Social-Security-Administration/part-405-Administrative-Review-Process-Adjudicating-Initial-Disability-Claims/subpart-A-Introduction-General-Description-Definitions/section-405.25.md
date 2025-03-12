@@ -1,0 +1,3 @@
+##### § 405.25 Disqualification of disability adjudicators. #####
+
+Adjudicators at all levels of the administrative review process recognize the need for fair and impartial consideration of the merits of your claim. Any adjudicator who has any personal or financial interest in the matter pending for determination or decision will withdraw from conducting any proceeding with respect to your disability claim. If the adjudicator so withdraws, we will assign your claim to another adjudicator for a determination or decision.

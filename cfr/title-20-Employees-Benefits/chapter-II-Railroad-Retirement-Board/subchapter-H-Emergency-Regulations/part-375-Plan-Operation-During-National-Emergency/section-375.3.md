@@ -1,0 +1,3 @@
+##### § 375.3 Policy. #####
+
+To the greatest extent possible, payment of benefits shall be made and employment service functions shall be carried on through the period of a national emergency in strict conformance with the pertinent provisions of the Railroad Retirement Act, the Railroad Unemployment Insurance Act, and the regulations promulgated by the Board to administer those acts. Where the character of the national emergency is such as to prevent this, the stand-by regulations contained in this part shall obtain. It will be expected, however, that every effort shall be made to return to normal operating practices as quickly as possible thereafter.

@@ -1,0 +1,3 @@
+##### § 229.45 Employee benefit. #####
+
+The original employee 100 percent overall minimum amount, before adjustment for age, other family members, or other benefits, is the Overall Minimum PIA, as described in part 225 of this chapter. This is the PIA which would be used under the Social Security Act if the employee's railroad service had been covered under that Act instead of the Railroad Retirement Act. The Overall Minimum PIA may be recomputed for additional earnings and adjusted for cost-of-living increases. Delayed retirement credits are added to the Overall Minimum PIA as shown in part 225, subpart D of this chapter.

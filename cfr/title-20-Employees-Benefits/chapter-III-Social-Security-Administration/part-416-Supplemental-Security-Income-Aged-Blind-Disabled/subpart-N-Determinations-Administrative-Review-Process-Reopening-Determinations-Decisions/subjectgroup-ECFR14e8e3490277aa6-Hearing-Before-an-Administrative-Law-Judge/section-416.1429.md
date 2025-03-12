@@ -1,0 +1,7 @@
+##### § 416.1429 Hearing before an administrative law judge - general. #####
+
+Link to an amendment published at 81 FR 90995, December 16, 2016.
+
+If you are dissatisfied with one of the determinations or decisions listed in § 416.1430, you may request a hearing. The Deputy Commissioner for Disability Adjudication and Review, or his or her delegate, will appoint an administrative law judge to conduct the hearing. If circumstances warrant, the Deputy Commissioner, or his or her delegate, may assign your case to another administrative law judge. At the hearing, you may appear in person, by video teleconferencing, or, under certain extraordinary circumstances, by telephone. You may submit new evidence, examine the evidence used in making the determination or decision under review, and present and question witnesses. The administrative law judge who conducts the hearing may ask you questions. He or she will issue a decision based on the preponderance of the evidence in the hearing record. If you waive your right to appear at the hearing, in person, by video teleconferencing, or by telephone, the administrative law judge will make a decision based on the preponderance of the evidence that is in the file and any new evidence that may have been submitted for consideration.
+
+[79 FR 35933, June 25, 2014]

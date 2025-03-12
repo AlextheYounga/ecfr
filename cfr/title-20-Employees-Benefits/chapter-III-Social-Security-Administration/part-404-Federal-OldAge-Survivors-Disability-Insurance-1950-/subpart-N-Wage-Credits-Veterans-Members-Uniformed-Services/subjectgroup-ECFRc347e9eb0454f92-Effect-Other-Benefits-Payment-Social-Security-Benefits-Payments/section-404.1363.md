@@ -1,0 +1,3 @@
+##### § 404.1363 Treatment of social security benefits or payments where Federal benefit payable other than by Veterans Administration. #####
+
+If we certify your monthly benefit or lump-sum death payment based on World War II or post-World War II wage credits after we receive notice from another Federal agency or instrumentality of the United States (other than the Veterans Administration) that a Federal benefit is payable to you by that agency or instrumentality based on the veteran's World War II or post-World War II active service, our payments to you are erroneous to the extent the payments are based on the World War II or post-World War II wage credits. The payments are erroneous beginning with the first month you are eligible for the Federal benefit.

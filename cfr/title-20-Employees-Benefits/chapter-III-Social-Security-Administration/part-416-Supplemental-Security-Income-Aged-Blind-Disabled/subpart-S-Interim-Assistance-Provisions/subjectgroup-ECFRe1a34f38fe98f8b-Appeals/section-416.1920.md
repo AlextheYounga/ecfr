@@ -1,0 +1,3 @@
+##### § 416.1920 Your appeal rights in the State. #####
+
+Under its interim assistance agreement with us, the State must agree to give you an opportunity for a hearing if you disagree with the State's actions regarding repayment of interim assistance. For example, you are entitled to a hearing by the State if you disagree with the State regarding the amount of the repayment the State keeps or the amount of any excess the State pays to you. You are not entitled to a Federal hearing on the State's actions regarding repayment of interim assistance.

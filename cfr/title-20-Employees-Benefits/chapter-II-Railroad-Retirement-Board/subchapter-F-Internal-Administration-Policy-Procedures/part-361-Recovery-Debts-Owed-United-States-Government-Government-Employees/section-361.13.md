@@ -1,0 +1,7 @@
+##### § 361.13 Procedures for salary offset: Methods of collection. #####
+
+(a) *General.* A debt will be collected by deductions at officially-established pay intervals from an employee's current pay account, unless the employee and the Board agree to alternative arrangements for repayment. The alternative arrangement must be in writing, signed by both the employee and the Board.
+
+(b) *Installment deductions.* Installment deductions will be made over a period not greater than the anticipated period of employment. The size and frequency of installment deductions will bear a reasonable relation to the size of the debt and the employee's ability to pay. However, the amount deducted for any period will not exceed 15 percent of the disposable pay from which the deduction is made, unless the employee has agreed in writing to the deduction of a greater amount. If possible, the installment payment will be sufficient in size and frequency to liquidate the debt in three years. Installment payments of less than $25 per pay period or $50 a month will be accepted only in the most unusual circumstances.
+
+(c) *Sources of deductions.* The Board will make deductions only from basic pay, special pay, incentive pay, retired pay, retainer pay, or in the case of an employee not entitled to basic pay, other authorized pay.

@@ -1,0 +1,5 @@
+##### § 416.995 If we make a determination that your physical or mental impairment(s) has ceased, did not exist or is no longer disabling (Medical Cessation Determination). #####
+
+If we make a determination that the physical or mental impairment(s) on the basis of which disability or blindness benefits were payable has ceased, did not exist or is no longer disabling (a medical cessation determination), your benefits will stop. You will receive a written notice explaining this determination and the month your benefits will stop. The written notice will also explain your right to appeal if you disagree with our determination and your right to request that your disability or blindness benefits be continued under § 416.996. The continued benefit provisions of this section do not apply to an initial determination on an application for disability or blindness benefits or to a determination that you were disabled or blind only for a specified period of time.
+
+[53 FR 29023, Aug. 2, 1988]

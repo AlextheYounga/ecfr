@@ -1,0 +1,3 @@
+##### § 336.5 Notice to employee. #####
+
+The Board will notify an employee when it appears that his or her right to normal unemployment or normal sickness benefits will be exhausted. Such notice will include information about the availability of extended benefits under subpart B of this part if the employee has completed 10 years of railroad service and the availability of normal benefits for the next ensuing benefit year if the employee is not eligible for extended benefits.

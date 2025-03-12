@@ -1,0 +1,7 @@
+##### § 321.2 Filing claims for benefits electronically. #####
+
+(a) *Electronic filing.* A claim for benefits under the Railroad Unemployment Insurance Act may be filed electronically through the Board's Internet Web site, *http://www.rrb.gov,* utilizing a User ID and a PIN/Password.
+
+(b) *Adjudication of claims filed electronically.* A claim for benefits under the Railroad Unemployment Insurance Act filed electronically shall be adjudicated in accordance with the procedures set forth in this part.
+
+(c) *Date of filing.* The date of filing for a claim for benefits under the Railroad Unemployment Insurance Act filed electronically shall be the date that the electronic filing of the claim is accepted by the Board's electronic system. If an attempt to file a claim for benefits under the Railroad Unemployment Insurance Act is unsuccessful and is rejected by the Board's electronic system, the claimant must submit another claim for benefits. If the subsequent claim for benefits, either filed electronically or on paper, is received by the Board within 30 days from the date of the notification that the initial filing was rejected, the Board will establish the filing date of the subsequent claim as the date the rejected claim was attempted to be filed.

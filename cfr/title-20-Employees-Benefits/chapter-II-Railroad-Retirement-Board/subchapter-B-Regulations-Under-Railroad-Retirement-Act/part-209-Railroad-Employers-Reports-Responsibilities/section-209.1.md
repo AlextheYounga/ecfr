@@ -1,0 +1,3 @@
+##### § 209.1 General. #####
+
+Benefits under the Railroad Retirement Act are based in part upon an individual's years of service and amount of compensation credited to the individual under the Act. It is the duty of the Board to gather, keep and compile such records and data as may be necessary to assure proper administration of the Act. This part sets forth the types of reports employers are required to make to the Board and states the penalties that the Board may impose upon employers and employees who fail or refuse to make required reports.

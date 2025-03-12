@@ -1,0 +1,5 @@
+##### § 404.1012 Work excluded from employment. #####
+
+Certain kinds of work performed by an employee are excluded from employment. They are described in §§ 404.1014 through 404.1038 and are exceptions to the general rule in § 404.1004 on the kinds of work that are covered as employment. In general, if the work performed by an employee is excluded from employment, the work is not covered under social security. However, certain kinds of work performed by an employee, even though excluded from employment, are covered as self-employment for social security purposes. In addition, if part of the work performed by an employee for the same employer is included as employment and part is excluded from employment, all the work may be included or all may be excluded as described in § 404.1013.
+
+[45 FR 20075, Mar. 27, 1980, as amended at 61 FR 38365, July 24, 1996]

@@ -1,0 +1,5 @@
+##### § 602.1 Purpose. #####
+
+The purpose of this part is to prescribe a Quality Control (QC) program for the Federal-State unemployment compensation (UC) system, which is applicable to the State UC programs and the Federal unemployment benefit and allowance programs administered by the State unemployment compensation agencies under agreements between the States and the Secretary of Labor (Secretary). QC will be a major tool to assess the timeliness and accuracy of State administration of the UC program. It is designed to identify errors in claims processes and revenue collections (including payments in lieu of contributions and Extended Unemployment Compensation Account collections), analyze causes, and support the initiation of corrective action.
+
+[52 FR 33528, Sept. 3, 1987, as amended at 71 FR 35513, June 21, 2006]

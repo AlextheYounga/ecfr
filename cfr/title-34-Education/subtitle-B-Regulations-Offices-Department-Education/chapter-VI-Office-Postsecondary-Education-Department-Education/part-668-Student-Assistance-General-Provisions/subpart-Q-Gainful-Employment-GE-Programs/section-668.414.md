@@ -1,0 +1,25 @@
+##### § 668.414 Certification requirements for GE programs. #####
+
+(a) *Transitional certification for existing programs.* (1) Except as provided in paragraph (a)(2) of this section, an institution must provide to the Secretary no later than December 31 of the year in which this regulation takes effect, in accordance with procedures established by the Secretary, a certification signed by its most senior executive officer that each of its currently eligible GE programs included on its Eligibility and Certification Approval Report meets the requirements of paragraph (d) of this section. The Secretary accepts the certification as an addendum to the institution's program participation agreement with the Secretary under § 668.14.
+
+[, as amended at 79 FR 71958, Dec. 4, 2014]
+
+(2) If an institution makes the certification in its program participation agreement pursuant to paragraph (b) of this section between July 1 and December 31 of the year in which this regulation takes effect, it is not required to provide the transitional certification under this paragraph.
+
+(b) *Program participation agreement certification.* As a condition of its continued participation in the title IV, HEA programs, an institution must certify in its program participation agreement with the Secretary under § 668.14 that each of its currently eligible GE programs included on its Eligibility and Certification Approval Report meets the requirements of paragraph (d) of this section. An institution must update the certification within 10 days if there are any changes in the approvals for a program, or other changes for a program that make an existing certification no longer accurate.
+
+(c) *Establishing eligibility and disbursing funds.* (1) An institution establishes the eligibility for title IV, HEA program funds of a GE program by updating the list of the institution's eligible programs maintained by the Department to include that program, as provided under 34 CFR 600.21(a)(11)(i). By updating the list of the institution's eligible programs, the institution affirms that the program satisfies the certification requirements in paragraph (d) of this section. Except as provided in paragraph (c)(2) of this section, after the institution updates its list of eligible programs, the institution may disburse title IV, HEA program funds to students enrolled in that program.
+
+(2) An institution may not update its list of eligible programs to include a GE program, or a GE program that is substantially similar to a failing or zone program that the institution voluntarily discontinued or became ineligible as described in § 668.410(b)(2), that was subject to the three-year loss of eligibility under § 668.410(b)(2), until that three-year period expires.
+
+(d) *GE program eligibility certifications.* An institution certifies for each eligible program included on its Eligibility and Certification Approval Report, at the time and in the form specified in this section, that -
+
+(1) Each eligible GE program it offers is approved by a recognized accrediting agency or is otherwise included in the institution's accreditation by its recognized accrediting agency, or, if the institution is a public postsecondary vocational institution, the program is approved by a recognized State agency for the approval of public postsecondary vocational education in lieu of accreditation;
+
+(2) Each eligible GE program it offers is programmatically accredited, if such accreditation is required by a Federal governmental entity or by a governmental entity in the State in which the institution is located or in which the institution is otherwise required to obtain State approval under 34 CFR 600.9;
+
+(3) For the State in which the institution is located or in which the institution is otherwise required to obtain State approval under 34 CFR 600.9, each eligible program it offers satisfies the applicable educational prerequisites for professional licensure or certification requirements in that State so that a student who completes the program and seeks employment in that State qualifies to take any licensure or certification exam that is needed for the student to practice or find employment in an occupation that the program prepares students to enter; and
+
+(4) For a program for which the institution seeks to establish eligibility for title IV, HEA program funds, the program is not substantially similar to a program offered by the institution that, in the prior three years, became ineligible for title IV, HEA program funds under the D/E rates measure or was failing, or in the zone with respect to, the D/E rates measure and was voluntarily discontinued by the institution. The institution must include with its certification an explanation of how the new program is not substantially similar to any such ineligible or discontinued program.
+
+(Authority: 20 U.S.C. 1001, 1002, 1088, 1094, 1099c)[, as amended at 79 FR 71958, Dec. 4, 2014]

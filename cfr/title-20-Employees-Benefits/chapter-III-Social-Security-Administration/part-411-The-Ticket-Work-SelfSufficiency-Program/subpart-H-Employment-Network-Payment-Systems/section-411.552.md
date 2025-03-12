@@ -1,0 +1,5 @@
+##### § 411.552 What effect will the subsequent entitlement to title II benefits have on EN payments for title XVI beneficiaries after they assign their ticket? #####
+
+If a beneficiary is only eligible for title XVI benefits when we authorize the first milestone or outcome for which an EN can be paid, but the beneficiary later becomes entitled to title II benefits, we will continue to make payments as though the beneficiary were only a title XVI beneficiary, up to the maximum number of milestone and outcome payments payable for that ticket for title XVI beneficiaries. If a beneficiary who is eligible for title XVI disability benefits becomes entitled to title II disability benefits before we authorize the first milestone or outcome payment, we will make payments to the EN pursuant to the rate, payment calculation base and number of payments available for title II beneficiaries, as described in this subpart.
+
+[73 FR 29349, May 20, 2008]

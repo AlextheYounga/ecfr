@@ -1,0 +1,3 @@
+##### § 10.415 What must a beneficiary do if the number of beneficiaries decreases? #####
+
+The circumstances under which compensation on account of death shall be terminated are described in 5 U.S.C. 8133(b). A beneficiary in a claim for death benefits should promptly notify OWCP of any event which would affect his or her entitlement to continued compensation. The terms “marriage” and “remarriage” include common-law marriage as recognized and defined by State law in the State where the beneficiary resides. If a beneficiary, or someone acting on his or her behalf, receives a check or electronic payment which includes payment of compensation for any period after the date when entitlement ended, he or she must promptly return such funds to OWCP.

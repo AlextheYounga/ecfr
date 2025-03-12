@@ -1,0 +1,3 @@
+##### § 10.615 What is a hearing? #####
+
+A hearing is a review of an adverse decision by a hearing representative. Initially, the claimant can choose between two formats: An oral hearing or a review of the written record. At the discretion of the hearing representative, an oral hearing may be conducted by telephone, teleconference, videoconference or other electronic means. In addition to the evidence of record, the employee may submit new evidence to the hearing representative.

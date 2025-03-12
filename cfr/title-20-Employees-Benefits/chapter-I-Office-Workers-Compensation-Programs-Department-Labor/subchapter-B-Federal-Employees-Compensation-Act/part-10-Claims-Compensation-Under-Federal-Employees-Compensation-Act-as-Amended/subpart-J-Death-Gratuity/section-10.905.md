@@ -1,0 +1,3 @@
+##### § 10.905 If an employee incurs a covered injury in connection with his or her service with an Armed Force in a contingency operation but does not die of the injury until years later, does the death qualify for payment of the death gratuity? #####
+
+Yes—as long as the employee's death is a result of injuries incurred in connection with the employee's service with an Armed Force in a contingency operation, the death qualifies for the death gratuity of this subpart regardless of how long after the injury the employee's death occurs.

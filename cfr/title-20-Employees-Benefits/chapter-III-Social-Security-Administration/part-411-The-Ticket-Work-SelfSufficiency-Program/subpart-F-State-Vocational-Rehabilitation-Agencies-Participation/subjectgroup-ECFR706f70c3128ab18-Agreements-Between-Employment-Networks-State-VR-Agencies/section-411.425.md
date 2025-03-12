@@ -1,0 +1,3 @@
+##### § 411.425 What should a State VR agency do if it gets an attempted referral from an EN and no agreement has been established between the EN and the State VR agency? #####
+
+The State VR agency should contact the EN to discuss the need to establish an agreement. If the State VR agency and the EN are not able to negotiate acceptable terms for an agreement, the State VR agency should notify the PM that an attempted referral has been made without an agreement.

@@ -1,0 +1,5 @@
+##### § 302.6 Publication requirements. #####
+
+(a) *Publication of base year compensation requirement.* On or before December 1 of each year, the Railroad Retirement Board will compute the amount of base year compensation that an employee must have during the following calendar year in order to be a qualified employee on the basis of such compensation. Within 10 days of such computation, the Board will publish a notice in the Federal Register of the amount so computed and will notify each employer of that amount. Information as to such qualifying amount may also be obtained from any district or regional office of the Railroad Retirement Board or from the Bureau of Unemployment and Sickness Insurance.
+
+(b) *Notices.* The Board will provide employers with notices of their employees' rights to benefits under the Railroad Unemployment Insurance Act. The Board will arrange with employers to post such notices in such numbers and in such places as may be necessary to ensure that they will be seen by the greatest number of employees.

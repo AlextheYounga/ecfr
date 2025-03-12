@@ -1,0 +1,5 @@
+##### § 404.1640 General. #####
+
+The following sections provide the procedures and guidelines we use to determine whether the State agency is substantially complying with our regulations and other written guidelines, including meeting established national performance standards. We use performance standards to help assure effective and uniform administration of our disability programs and to measure whether the performance of the disability determination function by each State agency is acceptable. Also, the standards are designed to improve overall State agency performance in the disability determination process and to ensure that benefits are made available to all eligible persons in an accurate and efficient manner. We measure the performance of a State agency in two areas—processing time and quality of documentation and decisions on claims. State agency compliance is also judged by State agency adherence to other program requirements.
+
+[56 FR 11020, Mar. 14, 1991]

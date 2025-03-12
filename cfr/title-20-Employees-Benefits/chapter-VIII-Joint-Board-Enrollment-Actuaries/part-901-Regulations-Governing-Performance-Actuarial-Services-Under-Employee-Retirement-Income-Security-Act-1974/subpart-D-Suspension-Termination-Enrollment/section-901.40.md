@@ -1,0 +1,3 @@
+##### § 901.40 Proof; variance; amendment of pleadings. #####
+
+In the case of a variance between the allegations in a pleading and the evidence adduced in support of the pleading, the Administrative Law Judge may order or authorize amendment of the pleading to conform to the evidence, provided that the party who would otherwise be prejudiced by the amendment is given reasonable opportunity to meet the allegations of the pleading as amended. The Administrative Law Judge shall make findings on any issue presented by the pleadings as so amended.

@@ -1,0 +1,3 @@
+##### § 336.3 Duration of normal sickness benefits. #####
+
+The duration of normal sickness benefits is the same as the duration of normal unemployment benefits, as set forth in § 336.2 of this part. A qualified employee who has satisfied the benefit year waiting period and is otherwise eligible for sickness benefits may receive benefits for a maximum of 130 days of sickness within a benefit year, but the amount paid as sickness benefits may not exceed the amount of the employee's base year compensation, as computed under § 336.4 of this part.

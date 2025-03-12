@@ -1,0 +1,3 @@
+##### § 10.302 Should the employer authorize medical care if he or she doubts that the injury occurred, or that it is work-related? #####
+
+If the employer doubts that the injury occurred, or that it is work-related, he or she should authorize medical care by completing Form CA-16 and checking block 6B of the form. If the medical and factual evidence sent to OWCP shows that the condition treated is not work-related, OWCP will notify the employee, the employer, and the physician or hospital that OWCP will not authorize payment for any further treatment.

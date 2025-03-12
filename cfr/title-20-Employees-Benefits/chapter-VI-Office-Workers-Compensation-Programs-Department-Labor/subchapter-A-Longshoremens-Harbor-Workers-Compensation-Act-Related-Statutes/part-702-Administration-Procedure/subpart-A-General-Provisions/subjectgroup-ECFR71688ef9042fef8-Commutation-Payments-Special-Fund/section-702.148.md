@@ -1,0 +1,9 @@
+##### § 702.148 Insurance carriers' and self-insured employers' responsibilities. #####
+
+(a) Each carrier and self-insured employer shall make, keep, and preserve such records, and make such reports and provide such additional information as the Director prescribes or orders, which he considers necessary or appropriate to effectively carry out his responsibilities.
+
+(b) Consistent with their greater direct liability stemming from the amended assessment formula, employers and insurance carriers are given the authority to monitor their claims in the special fund as outlined in paragraph (c) of this section. For purposes of monitoring these claims, employers and insurance carriers remain parties in interest to the claim and are allowed access to all records relating to the claim. Similarly, employers and insurance carriers can initiate proceeding to modify an award of compensation after the special fund has assumed the liability to pay benefits. It is intended that employers and insurance carriers have neither a greater nor a lesser responsibility in this new role that they not have with regard to cases that remain their sole liability. (See § 702.373(d).)
+
+(c) An employer or insurance carrier may conduct any reasonable investigation regarding cases placed into the special fund by the employer or insurance carrier. Such investigation may include, but shall not be limited to, a semi-annual request for earnings information pursuant to section 8(j) of the Act, 33 U.S.C. 908(j) (See § 702.285) periodic medical examinations, vocational rehabilitation evaluations, and requests for any additional information needed to effectively monitor such a case.
+
+(Approved by the Office of Management and Budget under control number 1215-0118)(Pub. L. No. 96-511, 94 Stat. 2812 (44 U.S.C. 3501 *et seq.*))[38 FR 26861, Sept. 26, 1973, as amended at 47 FR 145, Jan. 5, 1982; 50 FR 395, Jan. 3, 1985]

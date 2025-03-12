@@ -1,0 +1,3 @@
+##### § 73.1 Cross-reference to employee ethical conduct standards and financial disclosure regulations. #####
+
+Employees of the Department of Education are subject to the executive branch-wide Standards of Ethical Conduct at 5 CFR part 2635 and to the Department of Education regulation at 5 CFR part 6301 which supplements the executive branch-wide standards with a requirement for employees to obtain prior approval to participate in certain outside activities. In addition, employees are subject to the executive branch-wide financial disclosure regulations at 5 CFR part 2634.

@@ -1,0 +1,3 @@
+##### § 802.309 Absence of parties. #####
+
+The unexcused absence of a party or his or her authorized representative at the time and place set for argument shall not be the occasion for delay of the proceeding. In such event, argument on behalf of other parties may be heard and the case shall be regarded as submitted on the record by the absent party. The presiding judge may, with the consent of the parties present, cancel the oral argument and treat the appeal as submitted on the written record.

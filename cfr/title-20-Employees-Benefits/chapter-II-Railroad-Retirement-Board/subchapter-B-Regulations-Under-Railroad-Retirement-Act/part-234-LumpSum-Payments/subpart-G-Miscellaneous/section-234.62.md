@@ -1,0 +1,3 @@
+##### § 234.62 Effect of conviction of a felony on entitlement. #####
+
+A person who has been convicted of a felony or an act in the nature of a felony of intentionally causing the employee's death shall not be entitled to any benefits under the Railroad Retirement Act. If a charge of felony is pending against an applicant for a lump-sum payment, the Board will make no payment until the applicant submits proof that the charge has been withdrawn, that no further action will be taken on the charge, or that he or she has been cleared of the charge.

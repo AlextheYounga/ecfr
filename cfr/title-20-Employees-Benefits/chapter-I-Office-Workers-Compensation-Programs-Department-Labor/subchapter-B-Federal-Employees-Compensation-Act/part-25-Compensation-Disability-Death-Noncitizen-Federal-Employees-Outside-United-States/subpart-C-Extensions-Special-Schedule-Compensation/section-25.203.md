@@ -1,0 +1,3 @@
+##### § 25.203 How is the Special Schedule applied to non-resident aliens in the Territory of Guam? #####
+
+The special schedule of compensation established by subpart B of this part shall apply to an injury or death occurring on or after August 29, 2011 in the Territory of Guam to non-resident alien employees recruited in foreign countries for employment by the military departments in the Territory of Guam. This schedule shall not apply to any employee who becomes a bona fide permanent resident as such claims will be decided in accordance with § 25.5.

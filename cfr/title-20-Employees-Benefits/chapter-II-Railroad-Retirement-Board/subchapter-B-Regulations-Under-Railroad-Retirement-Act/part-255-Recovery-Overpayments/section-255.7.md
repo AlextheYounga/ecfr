@@ -1,0 +1,3 @@
+##### § 255.7 Recovery by deduction in computation of death benefit. #####
+
+In computing the residual lump sum provided for in part 234, subpart D, of this chapter, the Board shall include in the benefits to be deducted from the applicable percentages of the aggregate compensation provided for in that part all overpayments, whether waived under § 255.10 of this part or otherwise not recovered, that were paid to the employee or to his or her spouse or to his or her survivors with respect to the employee's employment.

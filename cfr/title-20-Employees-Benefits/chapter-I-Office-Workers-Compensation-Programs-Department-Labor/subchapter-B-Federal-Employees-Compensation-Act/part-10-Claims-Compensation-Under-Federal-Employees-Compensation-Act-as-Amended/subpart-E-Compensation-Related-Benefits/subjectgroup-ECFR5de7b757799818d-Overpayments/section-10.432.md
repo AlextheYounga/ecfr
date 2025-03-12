@@ -1,0 +1,3 @@
+##### § 10.432 How can an individual present evidence to OWCP in response to a preliminary notice of an overpayment? #####
+
+The individual may present this evidence to OWCP in writing or at a pre-recoupment hearing. The evidence must be presented or the hearing requested within 30 days of the date of the written notice of overpayment. Failure to request the hearing within this 30-day time period shall constitute a waiver of that right.

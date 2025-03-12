@@ -1,0 +1,9 @@
+##### § 10.300 What are the basic rules for authorizing emergency medical care? #####
+
+(a) When an employee sustains a work-related traumatic injury that requires medical examination, medical treatment, or both, the employer shall authorize such examination and/or treatment by issuing a Form CA-16. This form may be used for occupational disease or illness only if the employer has obtained prior permission from OWCP.
+
+(b) The employer shall issue Form CA-16 within four hours of the claimed injury. If the employer gives verbal authorization for such care, he or she should issue a Form CA-16 within 48 hours. The employer is not required to issue a Form CA-16 more than one week after the occurrence of the claimed injury. The employer may not authorize examination or medical or other treatment in any case that OWCP has disallowed.
+
+(c) Form CA-16 must contain the full name and address of the qualified physician or qualified medical facility authorized to provide service. The authorizing official must sign and date the form and must state his or her title. Form CA-16 authorizes treatment for 60 days from the date of injury, unless OWCP terminates the authorization sooner.
+
+(d) The employer should advise the employee of the right to his or her initial choice of physician. The employer shall allow the employee to select a qualified physician, after advising him or her of those physicians excluded under subpart I of this part. The physician may be in private practice, including a health maintenance organization (HMO), or employed by a Federal agency such as the Department of the Army, Navy, Air Force, or Veterans Affairs. Any qualified physician may provide initial treatment of a work-related injury in an emergency. See also § 10.825(b).

@@ -1,0 +1,13 @@
+##### § 341.8 Termination of sickness benefits due to a settlement. #####
+
+(a) Sickness benefits payable to an eligible employee shall be paid without regard to whether any person or company may be liable for causing the employee's infirmity. However, the Board will terminate the payment of sickness benefits upon receipt of an oral or written report that a settlement or final judgment for the infirmity has been made. A railroad employer may file the required report by sending an electronic message in the manner prescribed by the agency.
+
+(b) A report of settlement shall be made to the Sickness and Unemployment Benefits Section and shall include the information required in § 341.6. Where the report is an oral report, and the informant is neither the employee nor his or her representative, the informant shall be told that written confirmation containing the information called for by § 341.6 must be submitted to the Board within 5 days from the date of the oral report. A railroad employer may fulfill the written report requirement by sending an electronic message in the manner prescribed by the agency.
+
+(c) If, in the case of an oral report, the written confirmation as described in paragraph (b) of this section is not received within five days, the Sickness and Unemployment Benefits Section shall take steps within five additional working days to verify whether there has been a settlement or final judgment. If there has been no settlement or final judgment, the payment of sickness benefits shall be reinstated.
+
+(d) Within five days of the notification of a settlement or final judgment, the Board shall inform the employee of the report of the settlement or final judgment. The notice to the employee shall state how the employee may inform the Board that there has not been a settlement or final judgment. If the employee states that there has not been a settlement or final judgment, the adjudicating office shall, within 10 days after the receipt of such a statement, make a determination as to the employee's rights to future sickness benefits and shall notify him or her accordingly.
+
+(e) An employee shall have the right to appeal from the determination of the amount of sickness benefits recoverable from the settlement or judgment.
+
+An employee shall also have the right to appeal the termination of his or her sickness benefits after the report of a settlement or final judgment made in accordance with the procedures provided in paragraphs (b), (c) and (d) of this section. Such appeals shall be filed and processed in accordance with part 320 of these regulations.[49 FR 570, Jan. 5, 1984, as amended at 71 FR 53005, Sept. 8, 2006]

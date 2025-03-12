@@ -1,0 +1,5 @@
+##### § 322.1 Introduction. #####
+
+The Railroad Unemployment Insurance Act provides benefits for a qualified employee's days of unemployment or days of sickness, as defined in section 1(k) of the Act. Under that section, no day can be a day of unemployment or a day of sickness for any employee if “remuneration” is payable or accrues to the employee for such day. In computing the amount of benefits payable to an employee for days of unemployment or days of sickness in any registration period, or in determining whether the employee has satisfied the waiting period requirement, the Board will not count any day with respect to which remuneration is payable or accrues to the employee. Section 322.2 defines the term “remuneration” and explains what types of payments to employees constitute remuneration.
+
+[65 FR 14459, Mar. 17, 2000]

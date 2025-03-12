@@ -1,0 +1,5 @@
+##### § 234.45 Payment to the employee's estate. #####
+
+(a) *When the employee's estate is paid.* If no designated beneficiaries or relatives survive the employee when the RLS becomes payable, the employee's estate may be paid the RLS. Employees may also designate their estates to receive all or a share of the RLS as beneficiaries.
+
+(b) *How the employee's estate is paid.* If a legal representative of the employee's estate has been appointed and has not been discharged, the Board will pay the RLS to the legal representative. When no legal representative of the employee's estate has been or is expected to be appointed, or the estate of the deceased employee has been closed and reopening is not expected, the Board will pay the RLS according to state statutory procedures applicable when no formal probate or administration occurs.

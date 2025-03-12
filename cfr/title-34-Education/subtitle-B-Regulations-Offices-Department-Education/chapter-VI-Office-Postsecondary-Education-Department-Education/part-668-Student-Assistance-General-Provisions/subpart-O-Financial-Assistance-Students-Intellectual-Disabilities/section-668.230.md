@@ -1,0 +1,5 @@
+##### § 668.230 Scope and purpose. #####
+
+This subpart establishes regulations that apply to an institution that offers comprehensive transition and postsecondary programs to students with intellectual disabilities. Students enrolled in these programs are eligible for Federal financial assistance under the Federal Pell Grant, FSEOG, and FWS programs. Except for provisions related to needs analysis, the Secretary may waive any Title IV, HEA program requirement related to the Federal Pell Grant, FSEOG, and FWS programs or institutional eligibility, to ensure that students with intellectual disabilities remain eligible for funds under these assistance programs. However, unless provided in this subpart or subsequently waived by the Secretary, students with intellectual disabilities and institutions that offer comprehensive transition and postsecondary programs are subject to the same regulations and procedures that otherwise apply to Title IV, HEA program participants.
+
+(Authority: 20 U.S.C. 1091)

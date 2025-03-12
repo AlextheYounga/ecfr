@@ -1,0 +1,3 @@
+##### § 725.464 Record of hearing. #####
+
+All hearings shall be open to the public and shall be mechanically or stenographically reported. All evidence upon which the administrative law judge relies for decision shall be contained in the transcript of testimony, either directly or by appropriate reference. All medical reports, exhibits, and any other pertinent document or record, either in whole or in material part, introduced as evidence, shall be marked for identification and incorporated into the record.

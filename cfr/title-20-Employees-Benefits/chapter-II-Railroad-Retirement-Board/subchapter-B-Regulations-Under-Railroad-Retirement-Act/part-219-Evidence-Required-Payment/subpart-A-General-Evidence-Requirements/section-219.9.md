@@ -1,0 +1,3 @@
+##### § 219.9 Evidence, information, and records filed with the Board. #####
+
+The Railroad Retirement Act provides criminal penalties for any persons who misrepresent the facts or make false statements to obtain payments for themselves or someone else. All evidence and documents given to the Board are kept confidential and are not disclosed to anyone but the person who submitted them, except under the rules described in part 200 of this chapter.

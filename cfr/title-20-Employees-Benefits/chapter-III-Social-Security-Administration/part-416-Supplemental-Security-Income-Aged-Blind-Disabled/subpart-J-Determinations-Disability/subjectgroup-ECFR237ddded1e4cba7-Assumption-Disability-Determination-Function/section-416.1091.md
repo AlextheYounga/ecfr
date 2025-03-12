@@ -1,0 +1,7 @@
+##### § 416.1091 Assumption when State no longer wishes to perform the disability determination function. #####
+
+(a) *Notice to the Commissioner.* If a State no longer wishes to perform the disability determination function, it will notify us in writing. The notice must be from an official authorized to act for the State for this purpose. The State will provide an opinion from the State's Attorney General verifying the authority of the official who gave the notice.
+
+(b) *Effective date of assumption.* The State agency will continue to perform whatever activities of the disability determination function it is performing at the time the notice referred to in paragraph (a) of this section is given for not less than 180 days or, if later, until we have complied with the requirements of § 416.1092. For example, if the State is not making disability determinations (because we previously assumed responsibility for making them) but is performing other activities related to the disability determination function at the time it gives notice, the State will continue to do these activities until the requirements of this paragraph are met. Thereafter, we will assume complete responsibility for performing the disability determination function.
+
+[46 FR 29211, May 29, 1981, as amended at 62 FR 38455, July 18, 1997]

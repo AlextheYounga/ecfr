@@ -1,0 +1,3 @@
+##### § 422.430 When will we refund amounts of your pay withheld by administrative wage garnishment? #####
+
+If we find that you do not owe the debt or that we have no right to collect it, we will promptly refund to you any amount withheld from your disposable pay under this subpart that we received and cancel any administrative wage garnishment order that we issued. Refunds under this section will not bear interest unless Federal law or contract requires interest.

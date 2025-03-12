@@ -1,0 +1,5 @@
+##### § 404.723 When evidence of marriage is required. #####
+
+If you apply for benefits as the insured person's husband or wife, widow or widower, divorced wife or divorced husband, we will ask for evidence of the marriage and where and when it took place. We may also ask for this evidence if you apply for child's benefits or for the lump-sum death payment as the widow or widower. If you are a widow, widower, or divorced wife who remarried after your marriage to the insured person ended, we may also ask for evidence of the remarriage. You may be asked for evidence of someone else's marriage if this is necessary to prove your marriage to the insured person was valid. In deciding whether the marriage to the insured person is valid or not, we will follow the law of the State where the insured person had his or her permanent home when you applied or, if earlier, when he or she died—see § 404.770. What evidence we will ask for depends upon whether the insured person's marriage was a ceremonial marriage, a common-law marriage, or a marriage we will deem to be valid.
+
+[43 FR 24795, June 7, 1978, as amended at 44 FR 34493, June 15, 1979]

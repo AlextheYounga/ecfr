@@ -1,0 +1,3 @@
+##### § 661.100 What is the workforce investment system? #####
+
+Under title I of WIA, the workforce investment system provides the framework for delivery of workforce investment activities at the State and local levels to individuals who need those services, including job seekers, dislocated workers, youth, incumbent workers, new entrants to the workforce, veterans, persons with disabilities, and employers. Each State's Governor is required, in accordance with the requirements of this part, to establish a State Board; to designate local workforce investment areas; and to oversee the creation of Local Boards and One-Stop service delivery systems in the State.

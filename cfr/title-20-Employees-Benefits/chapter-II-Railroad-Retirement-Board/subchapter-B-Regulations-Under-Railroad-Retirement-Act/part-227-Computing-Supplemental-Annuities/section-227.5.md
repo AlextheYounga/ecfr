@@ -1,0 +1,3 @@
+##### § 227.5 Employer tax credits. #####
+
+Employers are entitled to tax credits if they pay non-negotiated pensions to former employees whose supplemental annuities are reduced because of the pensions. Non-negotiated pensions are paid under pension plans that are not established by collective bargaining agreements. The tax credits for each month equal the sum of the reductions for employer pensions in the supplemental annuities of all former employees for that month. The Board sends a report of total tax credits to each employer after the end of each calendar quarter. The credits are applied to the man-hour supplemental annuity tax the employer pays the Internal Revenue Service under section 3221 of the Railroad Retirement Tax Act.

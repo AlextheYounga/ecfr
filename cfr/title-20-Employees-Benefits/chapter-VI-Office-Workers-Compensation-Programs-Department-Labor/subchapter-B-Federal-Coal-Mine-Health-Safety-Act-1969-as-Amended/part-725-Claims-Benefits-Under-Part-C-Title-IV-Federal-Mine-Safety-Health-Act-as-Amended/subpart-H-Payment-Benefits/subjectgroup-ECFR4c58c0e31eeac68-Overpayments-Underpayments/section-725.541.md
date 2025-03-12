@@ -1,0 +1,3 @@
+##### § 725.541 Notice of waiver of adjustment or recovery of overpayment. #####
+
+Whenever a determination is made that more than the correct amount of payment has been made, notice of the provisions of section 204(b) of the Social Security Act regarding waiver of adjustment or recovery shall be sent to the overpaid individual, to any other individual against whom adjustment or recovery of the overpayment is to be effected, and to any operator or carrier which may be liable to such overpaid individual.

@@ -1,0 +1,7 @@
+##### § 418.3220 When is your application considered filed? #####
+
+(a) *General rule.* We consider an application for a subsidy as described in § 418.3210 to be filed with us on the day it is received by either one of our employees at one of our offices or by one of our employees who is authorized to receive it at a place other than one of our offices or it is considered filed on the day it is submitted electronically through our Internet Web site. If a State Medicaid agency forwards to us a subsidy application that you gave to it, we will consider the date you submitted that application to the State Medicaid agency as the filing date. (See 42 CFR 423.774 for applications filed with a State Medicaid agency.)
+
+(b) *Exceptions.* (1) When we receive an application that is mailed, we will assume that we received it 5 days earlier (unless you can show us that you did not receive it within the 5 days) and use the earlier date as the application filing date if it would result in another month of subsidy eligibility.
+
+(2) We may consider an application to be filed on the date a written or oral inquiry about your subsidy eligibility is made, or the date we receive a partially completed Internet subsidy application from our Internet Web site where the requirements set forth in § 418.3230 are met.

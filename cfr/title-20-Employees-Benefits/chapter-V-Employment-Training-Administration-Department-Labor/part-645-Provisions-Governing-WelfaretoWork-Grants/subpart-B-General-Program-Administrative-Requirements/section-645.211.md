@@ -1,0 +1,3 @@
+##### § 645.211 How must Welfare-to-Work funds be spent by the operating entity? #####
+
+An operating entity, as described in § 645.210 of this subpart, may spend not more than 30 percent of the WtW funds allotted to or awarded to the operating entity to assist individuals who meet the “other eligibles” eligibility requirements under § 645.213 of this subpart. The remaining funds allotted to or awarded to the operating entity are to be spent to benefit individuals who meet the “general eligibility” and/or “noncustodial parents” eligibility requirements, under § 645.212 of this subpart. (section 403(a)(5)(C) of the Act).

@@ -1,0 +1,5 @@
+##### § 654.9 Filing of complaints. #####
+
+Complaints alleging that the Department of Labor has violated the labor surplus area regulations should be mailed to the Assistant Secretary for Employment and Training, U.S. Department of Labor, Washington, DC 20210. Such complaints should include: (a) The allegations of wrongdoing; (b) the date of the incident; and (c) any other relevant information available to the complainant. The Assistant Secretary shall make a determination and respond to the complainant after investigation of the incident. If the complaint is not resolved following this investigation, the Assistant Secretary, at his discretion, may offer, in writing by certified mail, the complainant a hearing before a Department of Labor Administrative Law Judge, provided that the complainant requests such a hearing from the Assistant Secretary within 20 working days of the certified date of receipt of the Assistant Secretary's offer of a hearing.
+
+[48 FR 15616, Apr. 12, 1983]

@@ -1,0 +1,3 @@
+##### § 725.703 Physician defined. #####
+
+The term “physician” includes only doctors of medicine (MD) and osteopathic practitioners within the scope of their practices as defined by State law. No treatment or medical services performed by any other practitioner of the healing arts is authorized by this part, unless such treatment or service is authorized and supervised both by a physician as defined in this section and the district director.

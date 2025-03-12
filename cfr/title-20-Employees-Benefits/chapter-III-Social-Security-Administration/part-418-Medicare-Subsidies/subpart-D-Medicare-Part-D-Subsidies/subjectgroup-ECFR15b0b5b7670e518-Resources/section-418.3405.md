@@ -1,0 +1,7 @@
+##### § 418.3405 What types of resources do we count? #####
+
+(a) We count liquid resources. Liquid resources are cash, financial accounts, and other financial instruments that can be converted to cash within 20 workdays, excluding certain non-workdays as explained in § 416.120(d) of this chapter. Examples of resources that are ordinarily liquid include: stocks, bonds, mutual fund shares, promissory notes, mortgages, life insurance policies (for claims filed before January 1, 2010, and redeterminations that are effective before January 1, 2010), financial institution accounts (including savings, checking, and time deposits, also known as certificates of deposit), retirement accounts (such as individual retirement accounts or 401(k) accounts), revocable trusts, funds in an irrevocable trust if the trust beneficiary can direct the use of the funds, and similar items. We will presume that these types of resources can be converted to cash within 20 workdays and are countable as resources for subsidy determinations. However, if you establish that a particular resource cannot be converted to cash within 20 workdays, we will not count it as a resource.
+
+(b) We count the equity value of real property as a resource regardless of whether it can be sold within 20 workdays. However, we do not count the home that is your principal place of residence and the land on which it is situated as a resource as defined in § 418.3425(a).
+
+[70 FR 77675, Dec. 30, 2005, as amended at 75 FR 81846, Dec. 29, 2010]

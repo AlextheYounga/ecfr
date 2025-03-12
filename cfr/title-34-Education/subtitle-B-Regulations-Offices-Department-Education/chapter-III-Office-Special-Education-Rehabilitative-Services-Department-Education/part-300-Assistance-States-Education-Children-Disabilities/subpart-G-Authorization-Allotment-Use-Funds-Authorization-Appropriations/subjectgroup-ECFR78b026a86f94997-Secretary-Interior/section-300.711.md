@@ -1,0 +1,7 @@
+##### § 300.711 Early intervening services. #####
+
+(a) The Secretary of the Interior may allow each elementary school and secondary school for Indian children operated or funded by the Secretary of the Interior to use not more than 15 percent of the amount the school receives under § 300.707(b) for any fiscal year, in combination with other amounts (which may include amounts other than education funds), to develop and implement coordinated, early intervening services, which may include interagency financing structures, for children in kindergarten through grade 12 (with a particular emphasis on children in kindergarten through grade three) who have not been identified as needing special education or related services but who need additional academic and behavioral support to succeed in a general education environment, in accordance with section 613(f) of the Act.
+
+(b) Each elementary school and secondary school for Indian children operated or funded by the Secretary of the Interior that develops and maintains coordinated early intervening services in accordance with section 613(f) of the Act and § 300.226 must annually report to the Secretary of the Interior in accordance with section 613(f) of the Act.
+
+(Authority: 20 U.S.C. 1411(h) and 1413(f))

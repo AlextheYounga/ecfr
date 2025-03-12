@@ -1,0 +1,3 @@
+##### § 801.302 Procedural rules. #####
+
+Procedural rules for performance by the Board of its review functions and for insuring an adequate record for any judicial review of its orders, and such amendments to the rules as may be necessary from time to time, shall be promulgated by the Deputy Secretary. Such rules shall incorporate and implement the procedural requirements of section 21(b) of the Longshore and Harbor Workers' Compensation Act.

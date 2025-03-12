@@ -1,0 +1,7 @@
+##### § 408.404 What happens if you fail to give us the evidence we ask for? #####
+
+(a) *You have not yet qualified for SVB.* Generally, we will ask you to give us specific evidence or information by a certain date to prove that you qualify for SVB or to prove your foreign residence. If we do not receive the evidence or information by that date, we may decide that you do not qualify for SVB or may not receive SVB and deny your claim.
+
+(b) *You have qualified for or become entitled to SVB.* If you have already qualified for or become entitled to SVB, we may ask you to give us information by a specific date to decide whether you should receive benefits or, if you are already receiving benefits, whether your benefits should be stopped or reduced. If you do not give us the requested evidence or information by the date given, we may decide that you are no longer entitled to benefits or that your benefits should be stopped or reduced.
+
+(c) *If you need more time.* You should let us know if you are unable to give us the evidence or information within the specified time and explain why there will be a delay. If this delay is due to illness, failure to receive timely evidence you have asked for from another source, or a similar circumstance, we will give you additional time to give us the evidence.

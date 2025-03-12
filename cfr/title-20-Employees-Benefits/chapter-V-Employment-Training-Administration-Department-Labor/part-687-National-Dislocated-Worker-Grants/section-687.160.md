@@ -1,0 +1,3 @@
+##### § 687.160 What is the timeframe for the Department to issue decisions on National Dislocated Worker Grant applications? #####
+
+The Department will issue a final decision on a DWG application within 45 calendar days of receipt of an application that meets the requirements of this part. Applicants are encouraged to review their DWG application submissions carefully and consult with the appropriate Employment and Training Administration Regional Office to ensure their applications meet the requirements established in this part and those that may be set forth in guidance.

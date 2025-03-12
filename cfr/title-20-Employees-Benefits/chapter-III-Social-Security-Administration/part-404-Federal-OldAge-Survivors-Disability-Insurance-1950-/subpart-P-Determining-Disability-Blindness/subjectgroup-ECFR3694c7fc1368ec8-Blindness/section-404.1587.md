@@ -1,0 +1,9 @@
+##### § 404.1587 Circumstances under which we may suspend and terminate your benefits before we make a determination. #####
+
+(a) *We will suspend your benefits if you are not disabled.* We will suspend your benefits if all of the information we have clearly shows that you are not disabled and we will be unable to complete a determination soon enough to prevent us from paying you more monthly benefits than you are entitled to. This may occur when you are blind as defined in the law and age 55 or older and you have returned to work similar to work you previously performed.
+
+(b) *We will suspend your benefits if you fail to comply with our request for necessary information.* We will suspend your benefits effective with the month in which it is determined in accordance with § 404.1596(b)(2)(i) that your disability benefits should stop due to your failure, without good cause (see § 404.911), to comply with our request for necessary information. When we have received the information, we will reinstate your benefits for any previous month for which they are otherwise payable, and continue with the CDR process.
+
+(c) *We will terminate your benefits.* We will terminate your benefits following 12 consecutive months of benefit suspension because you did not comply with our request for information in accordance with § 404.1596(b)(2)(i). We will count the 12-month suspension period from the start of the first month that you stopped receiving benefits (see paragraph (b) of this section). This termination is effective with the start of the 13th month after the suspension began because you failed to cooperate.
+
+[71 FR 60822, Oct. 17, 2006]

@@ -1,0 +1,3 @@
+##### § 903.6 Fees. #####
+
+Charges for copies of records made pursuant to part 903 of this chapter will be at the rate of $0.10 per copy. For records not susceptible to photocopying, e.g., over-size materials, photographs, etc., the amount charged will be the actual cost of copying. Only one copy of each record requested will be provided. No charge will be made unless the charge as computed above would exceed $3 for each request or related series of requests. If a fee in excess of $25 is required, the requester will be notified that the fee must be tendered before the records will be copied.

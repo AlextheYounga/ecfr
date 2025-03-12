@@ -1,0 +1,9 @@
+##### § 404.456 Current suspension of benefits because an individual works or engages in self-employment. #####
+
+(a) *Circumstances under which benefit payments may be suspended.* If, on the basis of information obtained by or submitted to the Administration, it is determined that an individual entitled to monthly benefits for any taxable year may reasonably be expected to have deductions imposed against his benefits (as described in § 404.415) by reason of his earnings for such year, the Administration may, before the close of the taxable year, suspend all or part, as the Administration may specify, of the benefits payable to the individual and to all other persons entitled (or deemed entitled—see § 404.420) to benefits on the basis of the individual's earnings record.
+
+(b) *Duration of suspension.* The suspension described in paragraph (a) of this section shall remain in effect with respect to the benefits for each month until the Administration has determined whether or not any deduction under § 404.415 applies for such month.
+
+(c) *When suspension of benefits becomes final.* For taxable years beginning after August 1958, if benefit payments were suspended (as described in paragraph (a) of this section) for all months of entitlement in an individual's taxable year, no benefit payment for any month in that year may be made after the expiration of the period of 3 years, 3 months, and 15 days following the close of the individual's taxable year unless, within that period, the individual, or any person entitled to benefits based on his earnings record, files with the Administration information showing that a benefit for a month is payable to the individual. Subject to the limitations of this paragraph, a determination about deductions may be reopened under the circumstances described in § 404.907.
+
+[32 FR 19159, Dec. 20, 1967, as amended at 65 FR 16813, Mar. 30, 2000]

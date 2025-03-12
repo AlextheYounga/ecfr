@@ -1,0 +1,13 @@
+##### § 61.203 Limitations on and deductions from benefits. #####
+
+(a) Compensation payable for injury, disability or death may not exceed the maximum limitations specified in section 6(b) of the Longshore and Harbor Workers' Compensation Act, as amended.
+
+(b) In determining benefits for disability or death, the Office shall not apply the minimum limits found in sections 6(b) and 9(e) of the Longshore and Harbor Workers' Compensation Act.
+
+(c) Compensation for death or permanent disability payable to persons who are not citizens of the United States and who are not residents of the United States or Canada is in the same amount as provided for residents, except that dependents in a foreign country are limited to the employee's spouse and children, or if there be no spouse or children, to the employee's father or mother whom the employee supported, either wholly or in part, for the period of one year immediately prior to the date of the injury. The Office may discharge its liability for all future payments of compensation to a noncitizen/nonresident by paying a limp sum representing one-half the commuted value of all future compensation as determined by the Office.
+
+(d) If any employee or beneficiary receives or claims wages, payments in lieu of wages, or insurance benefits for disability or loss of life (other than workers' compensation benefits), and the cost of these payments is provided in whole or in part by the United States, the Office shall credit the amount of the benefits against any payments to which the person is entitled under the Act. The Office shall apply credit only where the wages, payments, or benefits received are items for which the contractor is entitled to reimbursement from the United States, or where they are otherwise reimbursable by the United States.
+
+(e) If an employee who is receiving workers' compensation benefits on account of a prior accident or disease sustains an injury compensable under the Act, the employee is not entitled to any benefits under the Act during the period covered by other workers' compensation benefits unless the injury from a war-risk hazard increases the employee's disability. If the war-risk injury increases the disability, compensation under the Act is payable only for the amount of the increase in disability. This provision is applicable only to disability resulting jointly from two unrelated causes, namely, (1) prior industrial accident or disease, and (2) injury from a war-risk hazard.
+
+(f) Compensation for disability under this subchapter, with the exception of allowances for scheduled losses of members or functions of the body, may not be paid for the same period of time during which benefits for detention under this subchapter are paid or accrued.

@@ -1,0 +1,7 @@
+##### § 670.470 May a person who is determined to be ineligible or an individual who is denied enrollment appeal that decision? #####
+
+(a) A person who is determined to be ineligible to participate in Job Corps under § 670.400 or a person who is not selected for enrollment under § 670.410 may appeal the determination to the outreach and admissions agency or to the center within 60 days of the determination. The appeal will be resolved according to the procedures in §§ 670.990 and 670.991. If the appeal is denied by the outreach/admissions contractor or the center, the person may appeal the decision in writing to the Regional Director within 60 days the date of the denial. The Regional Director will decide within 60 days whether to reverse or approve the appealed decision. The decision by the Regional Director is the Department's final decision.
+
+(b) If an applicant believes that he or she has been determined ineligible or not selected for enrollment based upon a factor prohibited by WIA section 188, the individual may proceed under the applicable DOL nondiscrimination regulations implementing WIA section 188. These regulations may be found at 29 CFR part 37.
+
+(c) An applicant who is determined to be ineligible or a person who is denied enrollment must be referred to the appropriate One-Stop Center or other local service provider.

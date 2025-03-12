@@ -1,0 +1,3 @@
+##### § 641.815 May the period of availability be extended? #####
+
+SCSEP recipients may request in writing, and the Department may grant, an extension of the period during which SCSEP funds may be obligated or expended. SCSEP recipients requesting an extension must justify that an extension is necessary. (OAA § 517(b)). The Department will notify recipients in writing of the approval or disapproval of any such requests.

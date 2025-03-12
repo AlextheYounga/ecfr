@@ -1,0 +1,3 @@
+##### § 10.332 What additional medical information will OWCP require to support continuing payment of benefits? #####
+
+In all cases of serious injury or disease, especially those requiring hospital treatment or prolonged care, OWCP will request detailed narrative reports from the attending physician at periodic intervals. The physician will be asked to describe continuing medical treatment for the condition accepted by OWCP, a prognosis, a description of work limitations, if any, and the physician's opinion as to the continuing causal relationship between the employee's condition and factors of his or her Federal employment.

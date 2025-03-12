@@ -1,0 +1,3 @@
+##### § 641.495 When must a State compete its SCSEP award? #####
+
+If a State grantee fails to meet its expected levels of performance for three consecutive Program Years, the State must hold a full and open competition, under such conditions as the Secretary may provide, for the State SCSEP funds for the full Program Year following the determination of consecutive failure. (OAA § 513(d)(3)(B)(iii)). The incumbent (failed) grantee is not eligible to compete. Other states are also not eligible to compete for these funds. § 641.400(b)(2).

@@ -1,0 +1,5 @@
+##### § 411.581 Can an EN receive milestone and outcome payments for months after a beneficiary takes his or her ticket out of assignment? #####
+
+Yes. If an individual whose ticket is assigned to an EN (or State VR agency acting as an EN) takes his or her ticket out of assignment (see § 411.145), the EN (or State VR agency) can receive payments under its elected payment system for milestones or outcome payment months that occur after the ticket is taken out of assignment, provided the ticket has not terminated for any of the reasons listed in § 411.155. The PM will make a determination about eligibility for a payment based upon the contribution of services provided by an EN toward the achievement of the outcome or milestones. See § 411.560 for situations in which payment may be made to more than one EN or State VR agency based on the same milestone or outcome.
+
+[73 FR 29351, May 20, 2008]

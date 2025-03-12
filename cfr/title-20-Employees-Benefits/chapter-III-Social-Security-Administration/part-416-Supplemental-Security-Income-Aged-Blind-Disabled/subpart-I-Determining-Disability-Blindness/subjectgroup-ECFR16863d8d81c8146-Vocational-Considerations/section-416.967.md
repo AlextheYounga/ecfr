@@ -1,0 +1,13 @@
+##### § 416.967 Physical exertion requirements. #####
+
+To determine the physical exertion requirements of work in the national economy, we classify jobs as *sedentary, light, medium, heavy,* and *very heavy.* These terms have the same meaning as they have in the *Dictionary of Occupational Titles,* published by the Department of Labor. In making disability determinations under this subpart, we use the following definitions:
+
+(a) *Sedentary work.* Sedentary work involves lifting no more than 10 pounds at a time and occasionally lifting or carrying articles like docket files, ledgers, and small tools. Although a sedentary job is defined as one which involves sitting, a certain amount of walking and standing is often necessary in carrying out job duties. Jobs are sedentary if walking and standing are required occasionally and other sedentary criteria are met.
+
+(b) *Light work.* Light work involves lifting no more than 20 pounds at a time with frequent lifting or carrying of objects weighing up to 10 pounds. Even though the weight lifted may be very little, a job is in this category when it requires a good deal of walking or standing, or when it involves sitting most of the time with some pushing and pulling of arm or leg controls. To be considered capable of performing a full or wide range of light work, you must have the ability to do substantially all of these activities. If someone can do light work, we determine that he or she can also do sedentary work, unless there are additional limiting factors such as loss of fine dexterity or inability to sit for long periods of time.
+
+(c) *Medium work.* Medium work involves lifting no more than 50 pounds at a time with frequent lifting or carrying of objects weighing up to 25 pounds. If someone can do medium work, we determine that he or she can also do sedentary and light work.
+
+(d) *Heavy work.* Heavy work involves lifting no more than 100 pounds at a time with frequent lifting or carrying of objects weighing up to 50 pounds. If someone can do heavy work, we determine that he or she can also do medium, light, and sedentary work.
+
+(e) *Very heavy work.* Very heavy work involves lifting objects weighing more than 100 pounds at a time with frequent lifting or carrying of objects weighing 50 pounds or more. If someone can do very heavy work, we determine that he or she can also do heavy, medium, light, and sedentary work.

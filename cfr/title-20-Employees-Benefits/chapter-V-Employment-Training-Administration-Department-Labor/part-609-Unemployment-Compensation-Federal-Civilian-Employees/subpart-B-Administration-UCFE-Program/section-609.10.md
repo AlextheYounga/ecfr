@@ -1,0 +1,5 @@
+##### § 609.10 Restrictions on entitlement. #####
+
+(a) *Disqualification.* If the week of unemployment for which an individual claims UCFE is a week to which a disqualification for State unemployment compensation applies under the applicable State law, or would apply but for the fact that the individual has no right to such compensation, the individual shall not be entitled to a payment of UCFE for that week.
+
+(b) *Allocation of terminal annual leave payments.* Lump-sum terminal annual leave payments shall not be allocated by a Federal agency and shall be allocated by a State agency in the same manner as similar payments to individuals employed by private employers are allocated under the applicable State law. In a State in which a private employer has an option as to the period to which such payments shall be allocated, such payments shall be allocated to the date of separation from employment.

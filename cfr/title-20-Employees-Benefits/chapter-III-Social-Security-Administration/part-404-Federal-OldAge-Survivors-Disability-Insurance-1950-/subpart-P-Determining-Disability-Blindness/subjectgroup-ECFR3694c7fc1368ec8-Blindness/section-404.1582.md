@@ -1,0 +1,3 @@
+##### § 404.1582 A period of disability based on blindness. #####
+
+If we find that you are blind and you meet the insured status requirement, we may establish a period of disability for you regardless of whether you can do substantial gainful activity. A period of disability protects your earnings record under Social Security so that the time you are disabled will not count against you in determining whether you will have worked long enough to qualify for benefits and the amount of your benefits. However, you will not necessarily be entitled to receive disability insurance cash benefits even though you are blind. If you are a blind person under age 55, you must be unable to do any substantial gainful activity in order to be paid disability insurance cash benefits.

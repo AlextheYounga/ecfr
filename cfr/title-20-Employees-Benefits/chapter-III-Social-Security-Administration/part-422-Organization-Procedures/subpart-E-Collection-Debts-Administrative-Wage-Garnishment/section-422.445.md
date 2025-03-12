@@ -1,0 +1,5 @@
+##### § 422.445 May we bring a civil action against your employer for failure to comply with our administrative wage garnishment order? #####
+
+(a) We may bring a civil action against your employer for any amount that the employer fails to withhold from your disposable pay in accordance with § 422.435(d), (e) and (f). Your employer may also be liable for attorney fees, costs of the lawsuit and (in the court's discretion) punitive damages.
+
+(b) We will not file a civil action against your employer before we terminate collection action against you, unless earlier filing is necessary to avoid expiration of any applicable statute of limitations period. For purposes of this section, “terminate collection action” means that we have terminated collection action in accordance with the Federal Claims Collection Standards (31 CFR 903.3) or other applicable standards. In any event, we will consider that collection action has been terminated if we have not received any payments to satisfy the debt for a period of one year.

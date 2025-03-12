@@ -1,0 +1,7 @@
+##### § 718.101 General. #####
+
+(a) The Office of Workers' Compensation Programs (hereinafter OWCP or the Office) must develop the medical evidence necessary to determine each claimant's entitlement to benefits. Each miner who files a claim for benefits under the Act must be provided an opportunity to substantiate his or her claim by means of a complete pulmonary evaluation including, but not limited to, a chest radiograph (X-ray), physical examination, pulmonary function tests, and a blood-gas study.
+
+(b) The standards for the administration of clinical tests and examinations contained in this subpart shall apply to all evidence developed by any party after January 19, 2001 in connection with a claim governed by this part (see §§ 725.406(b), 725.414(a), 725.456(d)). These standards shall also apply to claims governed by part 727 (see 20 CFR 725.4(d)), but only for clinical tests or examinations conducted after January 19, 2001. Any clinical test or examination subject to these standards shall be in substantial compliance with the applicable standard in order to constitute evidence of the fact for which it is proffered. Unless otherwise provided, any evidence which is not in substantial compliance with the applicable standard is insufficient to establish the fact for which it is proffered.
+
+[65 FR 80045, Dec. 20, 2000, as amended at 78 FR 35555, June 13, 2013; 79 FR 21611, Apr. 17, 2014]

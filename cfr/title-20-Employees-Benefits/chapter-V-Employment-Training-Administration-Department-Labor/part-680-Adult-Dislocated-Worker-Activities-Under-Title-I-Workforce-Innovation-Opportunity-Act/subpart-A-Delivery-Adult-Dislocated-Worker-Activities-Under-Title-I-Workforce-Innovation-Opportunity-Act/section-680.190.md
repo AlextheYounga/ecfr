@@ -1,0 +1,3 @@
+##### § 680.190 What is a transitional job? #####
+
+A transitional job is one that provides a time-limited work experience, that is wage-paid and subsidized, and is in the public, private, or non-profit sectors for those individuals with barriers to employment who are chronically unemployed or have inconsistent work history, as determined by the Local WDB. These jobs are designed to enable an individual to establish a work history, demonstrate work success in an employee-employer relationship, and develop the skills that lead to unsubsidized employment.

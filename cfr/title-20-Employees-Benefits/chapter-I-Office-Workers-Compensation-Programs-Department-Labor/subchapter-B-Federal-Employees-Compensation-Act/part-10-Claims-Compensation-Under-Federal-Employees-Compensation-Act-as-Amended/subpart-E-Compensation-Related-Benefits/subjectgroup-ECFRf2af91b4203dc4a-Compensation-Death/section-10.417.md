@@ -1,0 +1,9 @@
+##### § 10.417 What reports are needed when compensation payments continue for children over age 18? #####
+
+(a) Compensation payable on behalf of a child, brother, sister, or grandchild, which would otherwise end when the person reaches 18 years of age, shall be continued if and for so long as he or she is not married and is either a student as defined in 5 U.S.C. 8101(17), or physically or mentally incapable of self-support.
+
+(b) At least once each year, OWCP will ask a beneficiary receiving compensation based on the student status of a dependent to provide proof of continuing entitlement to such compensation, including certification of school enrollment. The beneficiary is required to report any changes to student status in the interim.
+
+(c) Likewise, at least once each year unless otherwise provided in paragraph (d) of this section, OWCP will ask a beneficiary or legal guardian receiving compensation based on a dependent's physical or mental inability to support himself or herself to submit a medical report verifying that the dependent's medical condition persists and that it continues to preclude self-support. If there is a change in that condition, the beneficiary or legal guardian is required to immediately report that change to OWCP.
+
+(d) In the case of a dependent incapable of self support due to that dependent's physical or mental disability where the status of that dependent is unlikely to change, a beneficiary or legal guardian may establish the permanency of that condition by submitting a well rationalized medical report which describes that condition and the ongoing prognosis of that condition. If the permanency of that condition is established by such a report, OWCP will not seek further information regarding that condition; however, if there is a change in that condition, the beneficiary or legal guardian is required to immediately report that change to OWCP.

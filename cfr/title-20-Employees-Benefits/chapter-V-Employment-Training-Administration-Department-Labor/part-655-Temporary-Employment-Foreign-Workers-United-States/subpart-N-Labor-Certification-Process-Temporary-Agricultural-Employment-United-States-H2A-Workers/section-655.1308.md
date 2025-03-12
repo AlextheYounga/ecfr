@@ -1,0 +1,23 @@
+##### § 655.1308 Offered wage rate. #####
+
+(a) *Highest wage.* To comply with its obligation under § 655.105(g), an employer must offer a wage rate that is the highest of the AEWR in effect at the time recruitment for a position is begun, the prevailing hourly wage or piece rate, or the Federal or State minimum wage.
+
+(b) *Wage rate request.* The employer must request and obtain a wage rate determination from the NPC, on a form prescribed by ETA, before commencing any recruitment under this subpart, except where specifically exempted from this requirement by these regulations.
+
+(c) *Validity of wage rate.* The recruitment must begin within the validity period of the wage determination obtained from the NPC. Recruitment for this purpose begins when the job order is accepted by the SWA for posting.
+
+(d) *Wage offer.* The employer must offer and advertise in its recruitment a wage at least equal to the wage rate required by paragraph (a) of this section.
+
+(e) *Adverse effect wage rate.* The AEWR will be based on published wage data for the occupation, skill level, and geographical area from the Bureau of Labor Statistics (BLS), Occupational Employment Statistics (OES) survey. The NPC will obtain wage information on the AEWR using the On-line Wage Library (OWL) found on the Foreign Labor Certification Data Center Web site (*http://www.flcdatacenter.com/*). This wage shall not be less than the July 24, 2009 Federal minimum wage of $7.25.
+
+(f) *Wage determination.* The NPC must enter the wage rate determination on a form it uses, indicate the source, and return the form with its endorsement to the employer.
+
+(g) *Skill level.* (1) Level I wage rates are assigned to job offers for beginning level employees who have a basic understanding of the occupation. These employees perform routine tasks that require limited, if any, exercise of judgment. The tasks provide experience and familiarization with the employer's methods, practices, and programs. The employees may perform higher level work for training and developmental purposes. These employees work under close supervision and receive specific instructions on required tasks and results expected. Their work is closely monitored and reviewed for accuracy.
+
+(2) Level II wage rates are assigned to job offers for employees who have attained, through education or experience, a good understanding of the occupation. These employees perform moderately complex tasks that require limited judgment. An indicator that the job request warrants a wage determination at Level II would be a requirement for years of education and/or experience that are generally required as described in the O\*NET Job Zones.
+
+(3) Level III wage rates are assigned to job offers for employees who have a sound understanding of the occupation and have attained, either through education or experience, special skills or knowledge. These employees perform tasks that require exercising judgment and may coordinate the activities of other staff. They may have supervisory authority over those staff. A requirement for years of experience or educational degrees that are at the higher ranges indicated in the O\*NET Job Zones would be an indicator that a Level III wage should be considered. Frequently, key words in the job title can be used as indicators that an employer's job offer is for an experienced worker. Words such as lead, senior, crew chief, or journeyman would be indicators that a Level III wage should be considered.
+
+(4) Level IV wage rates are assigned to job offers for employees who have sufficient experience in the occupation to plan and conduct work requiring judgment and the independent evaluation, selection, modification, and application of standard procedures and techniques. Such employees receive only minimal guidance and their work is reviewed only for application of sound judgment and effectiveness in meeting the establishment's procedures and expectations. They generally have management and/or supervisory responsibilities.
+
+(h) *Retention of documentation.* An employer filing an *Application for Temporary Employment Certification* must maintain documentation of its wage determination from the NPC as required in this subpart and be prepared to submit this documentation with the filing of its application. The documentation required in this subpart must be retained for a period of no less than 3 years from the date of the certification. There is no record retention requirement for applications (and supporting documentation) that are denied.

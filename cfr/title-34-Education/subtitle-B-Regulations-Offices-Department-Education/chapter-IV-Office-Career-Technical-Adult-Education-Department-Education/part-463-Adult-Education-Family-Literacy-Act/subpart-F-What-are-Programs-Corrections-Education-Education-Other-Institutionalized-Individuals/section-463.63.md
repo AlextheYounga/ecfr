@@ -1,0 +1,5 @@
+##### § 463.63 How may funds under programs for Corrections Education and Education of other Institutionalized Individuals be used to support transition to re-entry initiatives and other post-release services with the goal of reducing recidivism? #####
+
+Funds under Programs for Corrections Education and the Education of Other Institutionalized Individuals may be used to support educational programs for transition to re-entry initiatives and other post-release services with the goal of reducing recidivism. Such use of funds may include educational counseling or case work to support incarcerated individuals' transition to re-entry and other post-release services. Examples include assisting incarcerated individuals to develop plans for post-release education program participation, assisting students in identifying and applying for participation in post-release programs, and performing direct outreach to community-based program providers on behalf of re-entering students. Such funds may not be used for costs for participation in post-release programs or services.
+
+(Authority: 29 U.S.C. 3305)

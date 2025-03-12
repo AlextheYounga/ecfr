@@ -1,0 +1,5 @@
+##### § 108.8 Assurances. #####
+
+An applicant for funds made available through the Department to which this part applies must submit an assurance that the applicant will comply with the Act and this part. The assurance shall be in effect for the period during which funds made available through the Department are extended. The Department specifies the form of the assurance, including the extent to which assurances will be required concerning the compliance obligations of subgrantees, contractors and subcontractors, and other participants, and provisions that give the United States a right to seek its judicial enforcement. An applicant may incorporate this assurance by reference in subsequent applications to the Department.
+
+(Approved by the Office of Management and Budget under control number 1870-0503)(Authority: 20 U.S.C. 7905)

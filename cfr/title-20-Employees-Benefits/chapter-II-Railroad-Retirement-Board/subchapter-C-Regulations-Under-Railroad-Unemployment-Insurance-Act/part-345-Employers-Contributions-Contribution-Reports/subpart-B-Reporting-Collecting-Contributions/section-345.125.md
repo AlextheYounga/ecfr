@@ -1,0 +1,5 @@
+##### § 345.125 Records. #####
+
+Every employer subject to the payment of contributions for any calendar quarter shall, with respect to each such quarter, keep such permanent records as are necessary to establish the total amount of compensation payable to its employees, for a period of at least five calendar years after the date the contribution report to which the compensation relates was required to be filed, or the date the contribution is paid, whichever is later. The record should be in such form as to contain the information required to be shown on the quarterly contribution report. All records required by the regulations in this part shall be kept at a safe and convenient location accessible to inspection by the Board or any of its officers or employees, or by the Inspector General of the Railroad Retirement Board. Such records shall be at all times open for inspection by such officers or employees.
+
+(Approved by the Office of Management and Budget under control number 3220-0012)

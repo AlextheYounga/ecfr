@@ -1,0 +1,3 @@
+##### § 30.215 How does a claimant establish that the employee has sustained an injury, illness, impairment or disease as a consequence of a diagnosed cancer? #####
+
+An injury, illness, impairment or disease sustained as a consequence of a diagnosed cancer covered by the provisions of § 30.210 must be established with a fully rationalized medical report by a physician that shows the relationship between the injury, illness, impairment or disease and the cancer. Neither the fact that the injury, illness, impairment or disease manifests itself after a diagnosis of a cancer, nor the belief of the claimant that the injury, illness, impairment or disease was caused by the cancer, is sufficient in itself to prove a causal relationship.

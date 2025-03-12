@@ -1,0 +1,11 @@
+##### § 702.222 Claims; exceptions to time limitations. #####
+
+(a) Where a person entitled to compensation under the Act is mentally incompetent or a minor, the time limitation provision of § 702.221 shall not apply to a mentally incompetent person so long as such person has no guardian or other authorized representative, but § 702.221 shall be applicable from the date of appointment of such guardian or other representative. In the case of minor who has no guardian before he or she becomes of age, time begins to run from the date he or she becomes of age.
+
+(b) Where a person brings a suit at law or in admiralty to recover damages in respect of an injury or death, or files a claim under a State workers' compensation act because such person is excluded from this Act's coverage by reason of section 2(3) or 3(d) of the Act (33 U.S.C. 902(3) or 903(d)), and recovery is denied because the person was an employee and defendant was an employer within the meaning of the Act, and such employer had secured compensation to such employee under the Act, the time limitation in § 702.221 shall not begin to run until the date of termination of such suit or proceeding.
+
+(c) Notwithstanding the provisions in paragraph (a) of this section, where the claim is one based on disability or death due to an occupational disease which does not immediately result in death or disability, it must be filed within two years after the employee or claimant becomes aware, or in the exercise of reasonable diligence or by reason of medical advice, should have been aware of the relationship between the employment, the disease and the death or disability, or within one year of the date of last payment of compensation, whichever is later. For purposes of occupational disease, therefore, the time limitation for filing a claim does not begin to run until the employee is disabled, or in the case of a retired employee, where a permanent impairment exists.
+
+(d) The time limitations set forth above do not apply to claims filed under section 49 of the Act, 33 U.S.C. 949.
+
+(Approved by the Office of Management and Budget under control number 1215-0160)[50 FR 398, Jan. 3, 1985]

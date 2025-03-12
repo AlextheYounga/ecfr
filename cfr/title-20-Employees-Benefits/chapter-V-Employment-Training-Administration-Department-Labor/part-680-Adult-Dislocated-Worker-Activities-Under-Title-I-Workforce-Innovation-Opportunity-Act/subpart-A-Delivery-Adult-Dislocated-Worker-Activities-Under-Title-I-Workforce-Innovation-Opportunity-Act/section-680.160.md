@@ -1,0 +1,3 @@
+##### § 680.160 How are career services delivered? #####
+
+Career services must be provided through the one-stop delivery system. Career services may be provided directly by the one-stop operator or through contracts with service providers that are approved by the Local WDB. The Local WDB only may be a provider of career services when approved by the chief elected official and the Governor in accordance with the requirements of WIOA sec. 107(g)(2) and § 679.410 of this chapter.

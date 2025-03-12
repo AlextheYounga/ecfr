@@ -1,0 +1,7 @@
+##### § 422.425 How will we conduct our review of the debt? #####
+
+(a) *You must request review and present evidence.* If you receive a notice described in § 422.405, you have the right to have us review the debt. To exercise this right, you must request review and give us evidence that you do not owe all or part of the debt or that we do not have the right to collect it. If you do not request review and give us this evidence within 60 calendar days from the date of our notice, we may issue the garnishment order to your employer without further delay. If you request review of the debt and present evidence within that 60 calendar-day period, we will not send a garnishment order to your employer unless and until we consider all of the evidence and send you our findings that all or part of the debt is overdue and we have the right to collect it.
+
+(b) *Review of the evidence.* If you request review of the debt, we will review our records related to the debt and any evidence that you present.
+
+(c) *Our findings.* Following our review of all of the evidence, we will send you written findings, including the supporting rationale for the findings. Issuance of these findings will be our final action on your request for review. If we find that you do not owe the debt, or the debt is not overdue, or we do not have the right to collect it, we will not send a garnishment order to your employer.

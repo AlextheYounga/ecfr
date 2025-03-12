@@ -1,0 +1,3 @@
+##### § 10.709 What happens if a beneficiary directed by OWCP or SOL to take action against a third party does not believe that a claim can be successfully prosecuted at a reasonable cost? #####
+
+If a beneficiary consults an attorney and is informed that a suit for damages against a third party for the injury or death for which benefits are payable is unlikely to prevail or that the costs of such a suit are not justified by the potential recovery, he or she should request that OWCP or SOL release him or her from the obligation to proceed. This request should be in writing and provide evidence of the attorney's opinion. If OWCP or SOL agrees, the beneficiary will not be required to take further action against the third party.

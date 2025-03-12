@@ -1,0 +1,13 @@
+##### § 104.44 Academic adjustments. #####
+
+(a) *Academic requirements.* A recipient to which this subpart applies shall make such modifications to its academic requirements as are necessary to ensure that such requirements do not discriminate or have the effect of discriminating, on the basis of handicap, against a qualified handicapped applicant or student. Academic requirements that the recipient can demonstrate are essential to the instruction being pursued by such student or to any directly related licensing requirement will not be regarded as discriminatory within the meaning of this section. Modifications may include changes in the length of time permitted for the completion of degree requirements, substitution of specific courses required for the completion of degree requirements, and adaptation of the manner in which specific courses are conducted.
+
+(b) *Other rules.* A recipient to which this subpart applies may not impose upon handicapped students other rules, such as the prohibition of tape recorders in classrooms or of dog guides in campus buildings, that have the effect of limiting the participation of handicapped students in the recipient's education program or activity.
+
+(c) *Course examinations.* In its course examinations or other procedures for evaluating students' academic achievement, a recipient to which this subpart applies shall provide such methods for evaluating the achievement of students who have a handicap that impairs sensory, manual, or speaking skills as will best ensure that the results of the evaluation represents the student's achievement in the course, rather than reflecting the student's impaired sensory, manual, or speaking skills (except where such skills are the factors that the test purports to measure).
+
+(d) *Auxiliary aids.* (1) A recipient to which this subpart applies shall take such steps as are necessary to ensure that no handicapped student is denied the benefits of, excluded from participation in, or otherwise subjected to discrimination because of the absence of educational auxiliary aids for students with impaired sensory, manual, or speaking skills.
+
+(2) Auxiliary aids may include taped texts, interpreters or other effective methods of making orally delivered materials available to students with hearing impairments, readers in libraries for students with visual impairments, classroom equipment adapted for use by students with manual impairments, and other similar services and actions. Recipients need not provide attendants, individually prescribed devices, readers for personal use or study, or other devices or services of a personal nature.
+
+[45 FR 30936, May 9, 1980, as amended at 65 FR 68055, Nov. 13, 2000]

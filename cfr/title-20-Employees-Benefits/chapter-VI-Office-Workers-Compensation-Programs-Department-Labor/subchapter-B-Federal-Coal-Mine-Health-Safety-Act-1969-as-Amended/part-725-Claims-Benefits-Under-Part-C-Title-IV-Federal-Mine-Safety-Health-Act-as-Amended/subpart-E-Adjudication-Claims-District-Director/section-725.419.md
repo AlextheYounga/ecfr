@@ -1,0 +1,9 @@
+##### § 725.419 Response to proposed decision and order. #####
+
+(a) Within 30 days after the date of issuance of a proposed decision and order, any party may, in writing, request a revision of the proposed decision and order or a hearing. If a hearing is requested, the district director shall refer the claim to the Office of Administrative Law Judges (see § 725.421).
+
+(b) Any response made by a party to a proposed decision and order shall specify the findings and conclusions with which the responding party disagrees, and shall be served on the district director and all other parties to the claim.
+
+(c) If a timely request for revision of a proposed decision and order is made, the district director may amend the proposed decision and order, as circumstances require, and serve the revised proposed decision and order on all parties or take such other action as is appropriate. If a revised proposed decision and order is issued, each party to the claim shall have 30 days from the date of issuance of that revised proposed decision and order within which to request a hearing.
+
+(d) If no response to a proposed decision and order is sent to the district director within the period described in paragraph (a) of this section, or if no response to a revised proposed decision and order is sent to the district director within the period described in paragraph (c) of this section, the proposed decision and order shall become a final decision and order, which is effective upon the expiration of the applicable 30-day period. Once a proposed decision and order or revised proposed decision and order becomes final and effective, all rights to further proceedings with respect to the claim shall be considered waived, except as provided in § 725.310.

@@ -1,0 +1,3 @@
+##### § 702.505 Vocational rehabilitation; referrals to other public and private agencies. #####
+
+Referrals to such other public and private agencies providing assistance to disabled persons such as public welfare agencies, Public Health Services facilities, social services units of the Veterans Administration, the Social Security Administration, and other such agencies, shall be made by the vocational rehabilitation adviser, where appropriate, on an individual basis when requested by disabled employees. Such referrals do not provide for a service cost reimbursement by the Department of Labor.

@@ -1,0 +1,9 @@
+##### § 702.147 Enforcement of special fund provisions. #####
+
+(a) As provided in section 44(d)(1) of the Act, 33 U.S.C. 944(d)(1), for the purpose of making rules, regulations, and determinations under the special fund provisions in section 44 and for providing enforcement thereof, the Director may investigate and gather appropriate data from each carrier and self-insured employer, and may enter and inspect such places and records (and make such transcriptions of records), question such employees, and investigate such facts, conditions, practices, or other matters as he may deem necessary or appropriate. The Director may require the employer to have audits performed of claims activity relating to this Act. The Director may also require detailed reports of payments made under the Act, and of estimated future liabilities under the Act, from any or all carriers of self-insurers. The Director may require that such reports be certified and verified in whatever manner is considered appropriate.
+
+(b) Pursuant to section 44(d)(3) of the Act, 33 U.S.C. 944(d)(3), for the purpose of any hearing or investigation related to determinations or the enforcement of the provisions of section 44 with respect to the special fund, the provisions of 15 U.S.C. 49 and 50 as amended (the Federal Trade Commission Act provisions relating to attendance of witnesses and the production of books, papers, and documents) are made applicable to the jurisdiction, powers, and duties of the Director, OWCP, as the Secretary's delegatee.
+
+(c) Civil penalties and unpaid assessments shall be collected by civil suits brought by and in the name of the Secretary.
+
+(Approved by the Office of Management and Budget under control number 1215-0160)[38 FR 26861, Sept. 26, 1973, as amended at 50 FR 395, Jan. 3, 1985]

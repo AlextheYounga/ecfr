@@ -1,0 +1,5 @@
+##### § 655.1311 Required departure. #####
+
+(a) *Limit to worker's stay.* As defined further in DHS regulations, a temporary labor certification limits the authorized period of stay for an H-2A worker. *See* 8 CFR 214.2(h). A foreign worker may not remain beyond his or her authorized period of stay, as established by DHS, which is based upon the validity period of the labor certification under which the H-2A worker is employed, nor beyond separation from employment prior to completion of the H-2A contract, absent an extension or change of such worker's status under DHS regulations.
+
+(b) *Notice to worker.* Upon establishment of a program by DHS for registration of departure, an employer must notify any H-2A worker that when the worker departs the U.S. by land at the conclusion of employment as provided in paragraph (a) of this section, the worker must register such departure at the place and in the manner prescribed by DHS.

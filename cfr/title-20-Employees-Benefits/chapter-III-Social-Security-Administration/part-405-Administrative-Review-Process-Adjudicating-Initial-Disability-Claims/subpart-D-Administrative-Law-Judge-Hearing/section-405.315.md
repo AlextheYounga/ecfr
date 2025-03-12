@@ -1,0 +1,27 @@
+##### § 405.315 Time and place for a hearing before an administrative law judge. #####
+
+(a) *General.* We may set the time and place for the hearing. We may change the time and place, if it is necessary. If we change the time and place of the hearing, we will send you reasonable notice of the change. We will notify you of the time and place of the hearing at least 75 days before the date of the hearing, unless you agree to a shorter notice period.
+
+(b) *Where we hold hearings.* We hold hearings in the 50 States, the District of Columbia, American Samoa, Guam, the Northern Mariana Islands, the Commonwealth of Puerto Rico, and the United States Virgin Islands. The “place” of the hearing is the hearing office or other site(s) at which you and any other parties to the hearing are located when you make your appearance(s) before the administrative law judge, whether in person, by video teleconferencing, or by telephone.
+
+(c) *Determining how appearances will be made.* In setting the time and place of the hearing, we will consider the following:
+
+(1) We will consult with the administrative law judge to determine the status of case preparation and to determine whether your appearance, or the appearance of any other party to the hearing, will be made in person or by video teleconferencing or, under extraordinary circumstances, by telephone. The administrative law judge will determine that your appearance, or the appearance of any other party to the hearing, be conducted by video teleconferencing if video teleconferencing equipment is available to conduct the appearance, use of video teleconferencing to conduct the appearance would be more efficient than conducting the appearance in person, and the administrative law judge determines that there is no circumstance in the particular case that prevents the use of video teleconferencing to conduct the appearance. The administrative law judge will direct you to appear by telephone when:
+
+(i) An appearance in person is not possible, such as if you are incarcerated, the facility will not allow a hearing to be held at the facility, and video teleconferencing is not available; or
+
+(ii) The administrative law judge determines, either on his or her own, or at your request or at the request of any other party to the hearing, that extraordinary circumstances prevent you or another party to the hearing from appearing at the hearing in person or by video teleconferencing.
+
+(2) The administrative law judge will determine whether any person other than you, including a medical expert or a vocational expert, will appear at the hearing in person, by video teleconferencing, or by telephone. If you object to any other person appearing by video teleconferencing or telephone, the administrative law judge will decide, either in writing or at the hearing, whether to have that person appear in person, by video teleconferencing, or by telephone. The administrative law judge will direct a person, other than you if you object to your appearing by video teleconferencing as provided in paragraph (c)(1) of this section, to appear by video teleconferencing or telephone when the administrative law judge determines:
+
+(i) Video teleconferencing or telephone equipment is available,
+
+(ii) Use of video teleconferencing or telephone equipment would be more efficient than conducting an examination of a witness in person, and
+
+(iii) The administrative law judge determines that there is no other reason why video teleconferencing or telephone should not be used.
+
+(d) *Consultation procedures.* Before we exercise the authority to set the time and place for an administrative law judge's hearings, we will consult with the appropriate hearing office chief administrative law judge to determine if there are any reasons why we should not set the time and place of the administrative law judge's hearings. If the hearing office chief administrative law judge does not state a reason that we believe justifies the limited number of hearings scheduled by the administrative law judge, we will then consult with the administrative law judge before deciding whether to begin to exercise our authority to set the time and place for the administrative law judge's hearings. If the hearing office chief administrative law judge states a reason that we believe justifies the limited number of hearings scheduled by the administrative law judge, we will not exercise our authority to set the time and place for the administrative law judge's hearings. We will work with the hearing office chief administrative law judge to identify those circumstances where we can assist the administrative law judge and address any impediment that may affect the scheduling of hearings.
+
+(e) *Pilot program.* The provisions in the first three sentences of paragraph (a), the first sentence of paragraph (c)(1), and paragraph (d) of this section are a pilot program. These provisions will no longer be effective on August 10, 2015, unless we terminate them earlier or extend them beyond that date by notice of a final rule in the Federal Register.
+
+[71 FR 16446, Mar. 31, 2006, as amended at 78 FR 29627, May 21, 2013; 79 FR 35932, June 25, 2014; 79 FR 44276, July 31, 2014]

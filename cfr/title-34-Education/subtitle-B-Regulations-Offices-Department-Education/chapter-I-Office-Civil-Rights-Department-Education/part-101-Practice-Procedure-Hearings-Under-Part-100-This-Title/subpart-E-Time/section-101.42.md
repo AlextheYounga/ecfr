@@ -1,0 +1,3 @@
+##### § 101.42 Extension of time or postponement. #####
+
+Requests for extension of time should be served on all parties and should set forth the reasons for the application. Applications may be granted upon a showing of good cause by the applicant. From the designation of a presiding officer until the issuance of his decision such requests should be addressed to him. Answers to such requests are permitted, if made promptly.

@@ -1,0 +1,11 @@
+##### § 655.1 Scope and purpose of this subpart. #####
+
+Section 214(c)(1) of the Immigration and Nationality Act (INA), 8 U.S.C. 1184(c)(1), requires the Secretary of Homeland Security to consult with appropriate agencies before authorizing the classification of aliens as H-2B workers. Department of Homeland Security (DHS) regulations at 8 CFR 214.2(h)(6)(iii)(D) designate the Secretary of Labor as an appropriate authority with whom DHS consults regarding the H-2B program, and specifies that the Secretary of Labor, in carrying out this consultative function, shall issue regulations regarding the issuance of temporary labor certifications. DHS regulations at 8 CFR 214.2(h)(6)(iv) further provide that an employer's petition to employ H-2B nonimmigrant workers for temporary non-agricultural employment in the United States (U.S.), except for Guam, must be accompanied by an approved temporary labor certification from the Secretary of Labor (Secretary).
+
+(a) *Purpose.* The temporary labor certification reflects a determination by the Secretary that:
+
+(1) There are not sufficient U.S. workers who are qualified and who will be available to perform the temporary services or labor for which an employer desires to hire foreign workers, and that
+
+(2) The employment of the H-2B worker(s) will not adversely affect the wages and working conditions of U.S. workers similarly employed.
+
+(b) *Scope.* This subpart sets forth the procedures governing the labor certification process for the temporary employment of nonimmigrant foreign workers in the H-2B nonimmigrant classification, as defined in 8 U.S.C. 1101(a)(15)(H)(ii)(b), section 101(a)(15)(H)(ii)(b) of the INA. It also establishes obligations with respect to the terms and conditions of the temporary labor certification with which H-2B employers must comply, as well as their obligations to H-2B workers and workers in corresponding employment. Additionally, this subpart sets forth integrity measures for ensuring employers' continued compliance with the terms and conditions of the temporary labor certification.

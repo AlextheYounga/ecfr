@@ -1,0 +1,3 @@
+##### § 1002.22 Who has the burden of proving discrimination or retaliation in violation of USERRA? #####
+
+The individual has the burden of proving that a status or activity protected by USERRA was one of the reasons that the employer took action against him or her, in order to establish that the action was discrimination or retaliation in violation of USERRA. If the individual succeeds in proving that the status or activity protected by USERRA was one of the reasons the employer took action against him or her, the employer has the burden to prove the affirmative defense that it would have taken the action anyway.

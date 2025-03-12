@@ -1,0 +1,3 @@
+##### § 702.339 Formal hearings; evidence. #####
+
+In making an investigation or inquiry or conducting a hearing, the administrative law judge shall not be bound by common law or statutory rules of evidence or by technical or formal rules of procedure, except as provided by 5 U.S.C. 554 and these regulations; but may make such investigation or inquiry or conduct such hearing in such a manner as to best ascertain the rights of the parties.

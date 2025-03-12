@@ -1,0 +1,3 @@
+##### § 416.220 General. #####
+
+If you are a *qualified* individual and have an essential person you may be eligible for increased benefits. You may be a qualified individual and have an essential person only if you received benefits under a State assistance plan approved under title I, X, XIV, or XVI (AABD) of the Act for December 1973. Definitions and rules that apply to qualified individuals and essential persons are discussed in §§ 416.221 through 416.223.

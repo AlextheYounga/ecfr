@@ -1,0 +1,3 @@
+##### § 217.27 Effect of cancellation. #####
+
+When a person cancels an application the effect is the same as though an application was never filed. When an employee cancels his or her application, any application filed by the employee's spouse is also cancelled. However, a request to cancel a survivor's application will cancel only the application of the survivor named in the written request. A person who cancels an application may reapply by filing a new application under this part.

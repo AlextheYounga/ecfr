@@ -1,0 +1,3 @@
+##### § 685.380 What related assistance services may be provided to eligible migrant and seasonal farmworkers? #####
+
+Related assistance may include short-term direct services and activities. Examples include emergency assistance, as defined in § 685.110, and those activities identified in WIOA sec. 167(d), such as: English language and literacy instruction; pesticide and worker safety training; housing (including permanent housing), as described in § 685.360 and as provided in the approved program plan; and school dropout prevention and recovery activities. Related assistance may be provided to eligible MSFWs not enrolled in career services, youth services, or training services.

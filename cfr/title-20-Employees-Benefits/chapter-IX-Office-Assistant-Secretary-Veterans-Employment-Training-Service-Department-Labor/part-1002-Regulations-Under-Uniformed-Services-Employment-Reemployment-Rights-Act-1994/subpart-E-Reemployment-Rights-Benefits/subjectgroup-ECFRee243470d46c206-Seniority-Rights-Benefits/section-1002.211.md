@@ -1,0 +1,3 @@
+##### § 1002.211 Does USERRA require the employer to use a seniority system? #####
+
+No. USERRA does not require the employer to adopt a formal seniority system. USERRA defines seniority as longevity in employment together with any employment benefits that accrue with, or are determined by, longevity in employment. In the absence of a formal seniority system, such as one established through collective bargaining, USERRA looks to the custom and practice in the place of employment to determine the employee's entitlement to any employment benefits that accrue with, or are determined by, longevity in employment.

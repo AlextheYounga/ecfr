@@ -1,0 +1,3 @@
+##### § 702.114 Copying of records of OWCP. #####
+
+Any party in interest may request copies of records he has been permitted to inspect. Such requests shall be addressed to the official custodian of the records sought to be copied. The official custodian shall provide the requested copies under the terms and conditions specified in the Department of Labor's regulations relating thereto (see 29 CFR part 70).

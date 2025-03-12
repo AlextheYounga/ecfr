@@ -1,0 +1,3 @@
+##### § 617.40 General. #####
+
+A relocation allowance shall be granted an adversely affected worker to assist the individual and the individual's family, if any, to relocate within the United States as stated in this subpart E. A relocation allowance may be granted an individual only once under a certification. A relocation allowance shall not be granted to more than one member of a family with respect to the same relocation. If applications for a relocation allowance are made by more than one member of a family as to the same relocation, the allowance shall be paid to the head of the family if otherwise eligible.

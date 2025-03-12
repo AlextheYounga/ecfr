@@ -1,0 +1,13 @@
+##### § 418.3320 How do we count your earned income? #####
+
+(a) *Wages.* We count your wages at the earliest of the following points: when you receive them, when they are credited to you, or when they are set aside for your use.
+
+(b) *Net earnings from self-employment.* We count net earnings from self-employment on a taxable year basis. If you have net losses from self-employment, we deduct them from your other earned income. We do not deduct the net losses from your unearned income.
+
+(c) *Payments for services performed in a sheltered workshop or work activities center.* We count payments you receive for services performed in a sheltered workshop or work activities center when you receive them or when they are set aside for your use.
+
+(d) *In-kind earned income.* We count the current market value of in-kind earned income. For purposes of this part, we use the definition of current market value in § 416.1101 of this chapter. If you receive an item that is not fully paid for and you are responsible for the unpaid balance, only the paid-up value is income to you (see example in § 416.1123(c) of this chapter).
+
+(e) *Certain honoraria and royalties.* We count honoraria for services rendered and royalty payments that you receive in connection with any publication of your work. We will consider these payments as available to you when you receive them, when they are credited to your account, or when they are set aside for your use, whichever is earliest.
+
+(f) *Period for which earned income is counted.* For purposes of determining subsidy eligibility and, if eligible, whether you should receive a full or partial subsidy, we consider all of the countable earned income you receive (or expect to receive) during the year for which we are determining your eligibility for this subsidy. However, in the first year that you or your spouse apply for the subsidy, we consider all of the countable earned income you and your living-with spouse receive (or expect to receive) starting in the month for which we determine your eligibility based on your application for a subsidy through the end of the year for which we are determining your eligibility. If we count your income for only a portion of the year, the income limit for subsidy eligibility will be adjusted accordingly. For example, if we count your income for 6 consecutive months of the year (July through December), the income limit for subsidy eligibility will be half of the income limit applicable for the full year.

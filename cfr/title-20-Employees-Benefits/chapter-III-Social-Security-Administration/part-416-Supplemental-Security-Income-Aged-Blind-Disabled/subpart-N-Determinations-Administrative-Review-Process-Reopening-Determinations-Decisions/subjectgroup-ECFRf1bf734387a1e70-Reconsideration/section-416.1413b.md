@@ -1,0 +1,5 @@
+##### § 416.1413b Reconsideration procedures for post-eligibility claims. #####
+
+If you are eligible for supplemental security income benefits and we notify you that we are going to suspend, reduce or terminate your benefits, you can appeal our determination within 60 days of the date you receive our notice. The 60-day period may be extended if you have good cause for an extension of time under the conditions stated in § 416.1411(b). If you appeal a suspension, reduction, or termination of benefits, the method of reconsideration we will use depends on the issue in your case. If the issue in your case is that you are no longer blind or disabled for medical reasons, you will receive an opportunity for a disability hearing. If any other issue is involved, you have the choice of a case review, informal conference or formal conference.
+
+[51 FR 305, Jan. 3, 1986]

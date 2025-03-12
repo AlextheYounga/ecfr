@@ -1,0 +1,5 @@
+##### § 61.403 Approval of claims for legal and other services. #####
+
+(a) No claim for legal services or for any other services rendered in respect to a claim or award for compensation under the Act to or on account of any person shall be valid unless approved by the Office. Any such claim approved by the Office shall, in the manner and to the extent fixed by the Office, be paid out of the compensation payable to the claimant.
+
+(b) The Office shall not recognize a contract for a stipulated fee or for a fee on a contingent basis. No fee for services shall be approved except upon application supported by a sufficient statement of the extent and character of the necessary work done on behalf of the claimant. Except where the claimant was advised that the representation would be rendered on a gratuitous basis, the fee approved shall be reasonably commensurate with the actual necessary work performed by the representative, and with due regard to the capacity in which the representative appeared, the amount of compensation involved, and the circumstances of the claimant.

@@ -1,0 +1,3 @@
+##### § 404.1035 Work for a communist organization. #####
+
+If you work as an employee of an organization which is registered, or which is required by a final order of the Subversive Activities Control Board to register under the Internal Security Act of 1950 as a communist action, communist-front, or communist-infiltrated organization, your work is excluded from employment. The exclusion is effective with the calendar year in which the organization is registered or the final order is in effect.

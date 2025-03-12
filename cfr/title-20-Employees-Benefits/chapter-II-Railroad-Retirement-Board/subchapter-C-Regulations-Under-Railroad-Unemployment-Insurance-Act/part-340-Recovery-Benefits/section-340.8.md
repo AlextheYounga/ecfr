@@ -1,0 +1,5 @@
+##### § 340.8 Recovery by adjustment in connection with subsequent payments under the Railroad Retirement Act. #####
+
+Recovery under this part may be made by permanently reducing the amount of any annuity payable to the overpaid individual (or an individual receiving an annuity based upon the same compensation record as that of the overpaid individual) under the Railroad Retirement Act. This method of recovery is called an actuarial adjustment of the annuity. The Board cannot require any individual to take an actuarial adjustment in order to recover an overpayment nor is an actuarial adjustment available as a matter of right. An actuarial adjustment does not become effective until the overpaid individual negotiates the first annuity check which reflects the annuity rate after actuarial adjustment.
+
+Example:An individual agrees to recovery of a $5,000 overpayment made to him by actuarial adjustment to an annuity awarded him under the Railroad Retirement Act. However, he dies before negotiating the first annuity check reflecting his actuarially reduced rate. The $5,000 is not considered recovered.[57 FR 1379, Jan. 14, 1992]

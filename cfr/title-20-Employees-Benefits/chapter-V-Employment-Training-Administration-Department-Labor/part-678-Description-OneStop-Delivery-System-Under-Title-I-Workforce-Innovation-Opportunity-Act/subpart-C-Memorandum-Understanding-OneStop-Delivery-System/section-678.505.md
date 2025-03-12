@@ -1,0 +1,5 @@
+##### § 678.505 Is there a single Memorandum of Understanding for the local area, or must there be different Memoranda of Understanding between the Local Workforce Development Board and each partner? #####
+
+(a) A single “umbrella” MOU may be developed that addresses the issues relating to the local one-stop delivery system for the Local WDB, chief elected official and all partners. Alternatively, the Local WDB (with agreement of chief elected official) may enter into separate agreements between each partner or groups of partners.
+
+(b) Under either approach, the requirements described in § 678.500 apply. Since funds are generally appropriated annually, the Local WDB may negotiate financial agreements with each partner annually to update funding of services and operating costs of the system under the MOU.

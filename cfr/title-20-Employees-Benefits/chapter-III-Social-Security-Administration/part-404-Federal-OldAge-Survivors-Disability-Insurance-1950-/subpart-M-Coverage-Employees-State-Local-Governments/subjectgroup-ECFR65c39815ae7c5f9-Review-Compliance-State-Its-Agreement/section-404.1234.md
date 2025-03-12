@@ -1,0 +1,3 @@
+##### § 404.1234 Reports of review's findings. #####
+
+We provide the State Social Security Administrator with reports of the review's findings. These reports may contain coverage questions which need development and resolution and reporting errors or omissions for the State to correct promptly. These reports may also recommend actions the State can take to improve its information gathering, recordkeeping, and wage reporting systems, and those of its political subdivisions.

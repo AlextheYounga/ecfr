@@ -1,0 +1,3 @@
+##### § 30.417 What additional medical information may OWCP require to support continuing payment of benefits? #####
+
+In all cases requiring hospital treatment or prolonged care, OWCP will request detailed narrative reports from the attending physician at periodic intervals. The physician will be asked to describe continuing medical treatment for the occupational illness or covered illness accepted by OWCP, a prognosis, and the physician's opinion as to the continuing causal relationship between the need for additional treatment and the occupational illness or covered illness.

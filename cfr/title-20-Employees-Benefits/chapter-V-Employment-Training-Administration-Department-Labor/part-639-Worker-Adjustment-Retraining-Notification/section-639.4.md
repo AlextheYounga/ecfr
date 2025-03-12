@@ -1,0 +1,13 @@
+##### § 639.4 Who must give notice? #####
+
+Section 3(a) of WARN states that “an employer shall not order a plant closing or mass layoff until the end of a 60-day period after the employer serves written notice of such an order \* \* \*.” Therefore, an employer who is anticipating carrying out a plant closing or mass layoff is required to give notice to affected employees or their representative(s), the State dislocated worker unit and the chief elected official of a unit of local government. (See definitions in § 639.3 of this part.)
+
+(a) It is the responsibility of the employer to decide the most appropriate person within the employer's organization to prepare and deliver the notice to affected employees or their representative(s), the State dislocated worker unit and the chief elected official of a unit of local government. In most instances, this may be the local site plant manager, the local personnel director or a labor relations officer.
+
+(b) An employer who has previously announced and carried out a short-term layoff (6 months or less) which is being extended beyond 6 months due to business circumstances (including unforeseeable changes in price or cost) not reasonably foreseeable at the time of the initial layoff is required to give notice when it becomes reasonably foreseeable that the extension is required. A layoff extending beyond 6 months from the date the layoff commenced for any other reason shall be treated as an employment loss from the date of its commencement.
+
+(c) In the case of the sale of part or all of a business, section 2(b)(1) of WARN defines who the “employer” is. The seller is responsible for providing notice of any plant closing or mass layoff which takes place up to and including the effective date (time) of the sale, and the buyer is responsible for providing notice of any plant closing or mass layoff that takes place thereafter. Affected employees are always entitled to notice; at all times the employer is responsible for providing notice.
+
+(1) If the seller is made aware of any definite plans on the part of the buyer to carry out a plant closing or mass layoff within 60 days of purchase, the seller may give notice to affected employees as an agent of the buyer, if so empowered. If the seller does not give notice, the buyer is, nevertheless, responsible to give notice. If the seller gives notice as the buyer's agent, the responsibility for notice still remains with the buyer.
+
+(2) It may be prudent for the buyer and seller to determine the impacts of the sale on workers, and to arrange between them for advance notice to be given to affected employees or their representative(s), if a mass layoff or plant closing is planned.

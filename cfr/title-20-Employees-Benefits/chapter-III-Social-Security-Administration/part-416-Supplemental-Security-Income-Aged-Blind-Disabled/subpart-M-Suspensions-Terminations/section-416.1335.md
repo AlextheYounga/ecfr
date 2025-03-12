@@ -1,0 +1,5 @@
+##### § 416.1335 Termination due to continuous suspension. #####
+
+We will terminate your eligibility for benefits following 12 consecutive months of benefit suspension for any reason beginning with the first month you were no longer eligible for regular SSI cash benefits, federally-administered State supplementation, special SSI cash benefits described in § 416.262, or special SSI eligibility status described in § 416.265. We will count the 12-month suspension period from the start of the first month that you are no longer eligible for SSI benefits (see § 416.1320(a)) or the start of the month after the month your special SSI eligibility status described in § 416.265 ended. This termination is effective with the start of the 13th month after the suspension began.
+
+[60 FR 8153, Feb. 10, 1995, as amended at 64 FR 31975, June 15, 1999]

@@ -1,0 +1,9 @@
+##### § 725.2 Purpose and applicability of this part. #####
+
+(a) This part sets forth the procedures to be followed and standards to be applied in filing, processing, adjudicating, and paying claims filed under part C of subchapter IV of the Act.
+
+(b) This part applies to all claims filed under part C of subchapter IV of the Act on or after June 30, 1982. Publication of certain provisions or parts of certain provisions that apply only to claims filed prior to June 30, 1982, or to claims subject to Section 435 of the Act, has been discontinued because those provisions affect an increasingly smaller number of claims. The version of Part 725 set forth in 20 CFR, parts 500 to end, edition revised as of April 1, 2010, applies to the adjudication of all claims filed prior to June 30, 1982, as appropriate.
+
+(c) The provisions of this part reflect revisions that became effective on January 19, 2001. This part applies to all claims filed after January 19, 2001 and all benefits payments made on such claims. With the exception of the following sections, this part also applies to the adjudication of claims that were pending on January 19, 2001 and all benefits payments made on such claims: §§ 725.101(a)(31), 725.204, 725.212(b), 725.213(c), 725.214(d), 725.219(d), 725.309, 725.310, 725.351, 725.360, 725.367, 725.406, 725.407, 725.408, 725.409, 725.410, 725.411, 725.412, 725.414, 725.415, 725.416, 725.417, 725.418, 725.421(b), 725.423, 725.454, 725.456, 725.457, 725.458, 725.459, 725.465, 725.491, 725.492, 725.493, 725.494, 725.495, 725.547, 725.701(e). The version of those sections set forth in 20 CFR, parts 500 to end, edition revised as of April 1, 1999, apply to the adjudications of claims that were pending on January 19, 2001. For purposes of construing the provisions of this section, a claim will be considered pending on January 19, 2001 if it was not finally denied more than one year prior to that date.
+
+[78 FR 59117, Sept. 25, 2013]

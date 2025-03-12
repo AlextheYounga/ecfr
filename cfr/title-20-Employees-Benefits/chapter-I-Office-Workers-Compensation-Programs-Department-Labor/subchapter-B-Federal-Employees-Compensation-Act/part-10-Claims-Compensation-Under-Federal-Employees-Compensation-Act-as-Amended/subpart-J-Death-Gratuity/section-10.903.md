@@ -1,0 +1,3 @@
+##### § 10.903 Is the death gratuity payment applicable retroactively? #####
+
+An employee's death qualifies for the death gratuity if the employee died on or after October 7, 2001, and before January 28, 2008, if the death was a result of injuries incurred in connection with the employee's service with an Armed Force in the theater of operations of Operation Enduring Freedom or Operation Iraqi Freedom.

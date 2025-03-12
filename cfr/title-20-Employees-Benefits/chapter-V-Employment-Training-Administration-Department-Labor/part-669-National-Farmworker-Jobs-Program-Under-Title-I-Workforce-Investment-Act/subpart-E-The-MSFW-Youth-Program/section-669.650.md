@@ -1,0 +1,3 @@
+##### § 669.650 How are MSFW youth funds allocated to section 167 youth grantees? #####
+
+The allocation of funds among entities designated as WIA section 167 MSFW Youth Program grantees is based on the comparative merits of the applications, in accordance with criteria set forth in the SGA. However, we may include criteria in the SGA that promote a geographical distribution of funds and that encourages both large- and small-scale programs.

@@ -1,0 +1,3 @@
+##### § 680.840 May funds provided to employers for work-based training and other work experiences be used to fill job openings as a result of a labor dispute? #####
+
+No. Funds provided to employers for work-based training, as described in this subpart and in subpart A of this part, may not be used to directly or indirectly aid in the filling of a job opening which is vacant because the former occupant is on strike, or is being locked out in the course of a labor dispute, or the filling of which is otherwise an issue in a labor dispute involving a work stoppage.

@@ -1,0 +1,3 @@
+##### § 664.230 Are the eligibility barriers for eligible youth the same as the eligibility barriers for the five percent of youth participants who do not have to meet income eligibility requirements? #####
+
+No, the barriers listed in §§ 664.200 and 664.220 are not the same. Both lists of eligibility barriers include school dropout, homeless or runaway, pregnant or parenting, and offender, but each list contains barriers not included on the other list.

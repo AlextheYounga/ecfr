@@ -1,0 +1,5 @@
+##### § 364.27 What are the requirements for coordinating Independent Living (IL) services? #####
+
+The State plan must describe how IL services funded under chapter 1 of title VII of the Act will be coordinated with, and complement, other services, to avoid unnecessary duplication with other Federal, State, and local programs, including the OIB program authorized by chapter 2 of title VII of the Act, that provide IL- or VR-related services. This description must include those services provided by State and local agencies administering the special education, vocational education, developmental disabilities services, public health, mental health, housing, transportation, and veterans' programs, and the programs authorized under titles XVIII through XX of the Social Security Act within the State.
+
+(Approved by the Office of Management and Budget under control number 1820-0527)(Authority: 29 U.S.C. 796c(j) and 752(i)(2)(C))

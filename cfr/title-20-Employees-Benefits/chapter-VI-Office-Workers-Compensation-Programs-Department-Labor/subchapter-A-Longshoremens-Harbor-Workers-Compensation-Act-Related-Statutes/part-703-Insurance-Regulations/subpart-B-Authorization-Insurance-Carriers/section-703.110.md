@@ -1,0 +1,3 @@
+##### § 703.110 Other forms of endorsements and policies. #####
+
+Where the form of endorsement prescribed by § 703.109 is not appropriate when used in conjunction with a form of policy approved for use by the Office no modification thereof shall be used unless specifically approved by the Office. Where the form of policy is designed to include therein the obligations of the insurer under said Act without the use of the appropriate endorsements, the policy shall contain the provisions required to be included in any of the endorsements. Such a policy, however, shall not be used until expressly approved by the Office.

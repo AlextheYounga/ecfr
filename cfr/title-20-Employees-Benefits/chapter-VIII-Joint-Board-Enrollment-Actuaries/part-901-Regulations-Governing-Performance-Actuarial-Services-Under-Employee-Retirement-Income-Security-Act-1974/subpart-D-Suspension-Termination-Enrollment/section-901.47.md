@@ -1,0 +1,5 @@
+##### § 901.47 Transcript. #####
+
+In cases where the hearing is stenographically reported by a Government contract reporter, copies of the transcript may be obtained from the reporter at rates not to exceed the maximum rates fixed by contract between the Government and the reporter. Where the hearing is stenographically reported by a regular employee of the Department of the Treasury, the Department of Labor, the Pension Benefit Guaranty Corporation, or the Joint Board, a copy thereof will be supplied to the respondent either without charge or upon the payment of a reasonable fee. Copies of exhibits introduced at the hearing or at the taking of depositions will be supplied to parties upon the payment of a reasonable fee (31 U.S.C. 9701).
+
+[43 FR 39757, Sept. 7, 1978, as amended at 76 FR 17776, Mar. 31, 2011]

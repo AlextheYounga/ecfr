@@ -1,0 +1,5 @@
+##### § 602.2 Scope. #####
+
+This part applies to all State laws approved by the Secretary under the Federal Unemployment Tax Act (section 3304 of the Internal Revenue Code of 1986, 26 U.S.C. section 3304), to the administration of the State laws, and to any Federal unemployment benefit and allowance program administered by the State unemployment compensation agencies under agreements between the States and the Secretary. QC is a requirement for all States, initially being applicable to the largest permanently authorized programs (regular UC including Combined-Wage-Claims) and federally-funded programs (Unemployment Compensation for Ex-Servicemembers and Unemployment Compensation for Federal Employees). Other elements of the QC program (e.g., interstate, extended benefit programs, benefit denials, and revenue collections) will be phased in under a schedule determined by the Department in consultation with State agencies.
+
+[52 FR 33528, Sept. 3, 1987, as amended at 71 FR 35513, June 21, 2006]

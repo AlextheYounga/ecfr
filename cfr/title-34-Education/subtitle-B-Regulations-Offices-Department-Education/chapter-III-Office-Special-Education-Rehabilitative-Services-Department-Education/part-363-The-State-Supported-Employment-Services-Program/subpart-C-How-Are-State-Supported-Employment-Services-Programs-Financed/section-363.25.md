@@ -1,0 +1,7 @@
+##### § 363.25 What is the period of availability of funds? #####
+
+(a) Except as provided in paragraph (b) of this section, any Federal award funds, including reallotted funds, that are appropriated for a fiscal year to carry out a program under this part that are not obligated by the State by the beginning of the succeeding fiscal year, and any program income received during a fiscal year that is not obligated or expended by the State prior to the beginning of the succeeding fiscal year in which the program income was received, remain available for obligation by the State during that succeeding fiscal year.
+
+(b) Federal funds appropriated for a fiscal year and reserved for the provision of supported employment services to youth with the most significant disabilities, in accordance with § 363.22 of this part, remain available for obligation in the succeeding fiscal year only to the extent that the State met the matching requirement, as described in § 363.23, for those Federal funds by obligating, in accordance with 34 CFR 76.707, the non-Federal share in the fiscal year for which the funds were appropriated. Any reserved funds carried over may only be obligated and expended in that succeeding Federal fiscal year for the provision of supported employment services to youth with the most significant disabilities.
+
+(Authority: Sections 12(c) and 19 of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 709(c) and 716)

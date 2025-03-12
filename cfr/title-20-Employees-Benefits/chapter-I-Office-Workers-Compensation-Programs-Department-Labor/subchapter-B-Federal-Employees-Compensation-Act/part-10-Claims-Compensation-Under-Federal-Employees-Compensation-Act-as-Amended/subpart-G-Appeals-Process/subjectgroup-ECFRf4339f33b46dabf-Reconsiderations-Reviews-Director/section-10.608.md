@@ -1,0 +1,5 @@
+##### § 10.608 How does OWCP decide whether to grant or deny the request for reconsideration? #####
+
+(a) A timely request for reconsideration may be granted if OWCP determines that the employee has presented evidence and/or argument that meets at least one of the standards described in § 10.606(b)(3). If reconsideration is granted, the case is reopened and the case is reviewed on its merits (see § 10.609).
+
+(b) Where the request is timely but fails to meet at least one of the standards described in § 10.606(b)(3), or where the request is untimely and fails to present any clear evidence of error, OWCP will deny the application for reconsideration without reopening the case for a review on the merits. A decision denying an application for reconsideration cannot be the subject of another application for reconsideration. The only review for this type of non-merit decision is an appeal to the ECAB (see § 10.625), and OWCP will not entertain a request for reconsideration or a hearing on this decision denying reconsideration.

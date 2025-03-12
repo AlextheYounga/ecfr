@@ -1,0 +1,3 @@
+##### § 216.40 General. #####
+
+An employee with a current connection with the railroad industry at the time of retirement may qualify for a supplemental annuity in addition to the regular employee annuity. Supplemental annuities are paid from a separate account funded by employer taxes in addition to those assessed for regular annuities. The Board reduces a supplemental annuity if the employee receives a private pension based on contributions from a railroad employer.

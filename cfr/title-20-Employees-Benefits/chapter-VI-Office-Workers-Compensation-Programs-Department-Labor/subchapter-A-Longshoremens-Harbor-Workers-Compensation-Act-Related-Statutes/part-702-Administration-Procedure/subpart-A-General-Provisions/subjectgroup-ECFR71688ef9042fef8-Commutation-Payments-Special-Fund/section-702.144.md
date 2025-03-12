@@ -1,0 +1,3 @@
+##### § 702.144 Purpose of the special fund. #####
+
+This special fund was established to give effect to a congressional policy determination that, under certain circumstances, the employer of a particular employee should not be required to bear the entire burden of paying for the compensation benefits due that employee under the Act. Instead, a substantial portion of such burden should be borne by the industry generally. Section 702.145 describes this special circumstance under which the particular employer is relieved of some of his burden. Section 702.146 describes the manner and circumstances of the input into the fund.

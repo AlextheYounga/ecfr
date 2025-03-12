@@ -1,0 +1,3 @@
+##### § 667.630 How are complaints and reports of criminal fraud and abuse addressed under WIA? #####
+
+Information and complaints involving criminal fraud, waste, abuse or other criminal activity must be reported immediately through the Department's Incident Reporting System to the DOL Office of Inspector General, Office of Investigations, Room S5514, 200 Constitution Avenue NW., Washington, D.C. 20210, or to the corresponding Regional Inspector General for Investigations, with a copy simultaneously provided to the Employment and Training Administration. The Hotline number is 1-800-347-3756. Complaints of a non-criminal nature are handled under the procedures set forth in § 667.505 or through the Department's Incident Reporting System.

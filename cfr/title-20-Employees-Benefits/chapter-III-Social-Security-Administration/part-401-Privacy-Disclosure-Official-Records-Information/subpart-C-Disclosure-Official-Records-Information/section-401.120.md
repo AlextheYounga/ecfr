@@ -1,0 +1,5 @@
+##### § 401.120 Disclosures required by law. #####
+
+We disclose information when a law specifically requires it. The Social Security Act requires us to disclose information for certain program purposes. These include disclosures to the SSA Office of Inspector General, the Federal Parent Locator Service, and to States pursuant to an arrangement regarding use of the Blood Donor Locator Service. Also, there are other laws which require that we furnish other agencies information which they need for their programs. These agencies include the Department of Veterans Affairs for its benefit programs, U.S. Citizenship and Immigration Services to carry out its duties regarding aliens, the Railroad Retirement Board for its benefit programs, and to Federal, State and local agencies administering Temporary Assistance for Needy Families, Medicaid, unemployment compensation, food stamps, and other programs.
+
+[62 FR 4143, Jan. 29, 1997, as amended at 72 FR 20941, Apr. 27, 2007]

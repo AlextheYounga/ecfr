@@ -1,0 +1,3 @@
+##### § 229.56 Reduction for child's social security benefit. #####
+
+A child's benefit under the overall minimum, after any adjustment for the family maximum, is reduced, but not below zero, by the amount of any social security benefit being paid to the child on other than the employee's earnings record. If the social security benefit is equal to or higher than the child's overall minimum benefit and the family maximum applies, the overall minimum rate is recomputed so that the child is not included, if it would result in a higher overall minimum rate.

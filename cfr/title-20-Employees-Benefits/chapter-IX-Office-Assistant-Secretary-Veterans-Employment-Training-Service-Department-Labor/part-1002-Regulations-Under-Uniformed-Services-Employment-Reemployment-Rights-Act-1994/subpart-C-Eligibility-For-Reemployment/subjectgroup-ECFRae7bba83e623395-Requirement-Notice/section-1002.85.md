@@ -1,0 +1,9 @@
+##### § 1002.85 Must the employee give advance notice to the employer of his or her service in the uniformed services? #####
+
+(a) Yes. The employee, or an appropriate officer of the uniformed service in which his or her service is to be performed, must notify the employer that the employee intends to leave the employment position to perform service in the uniformed services, with certain exceptions described below. In cases in which an employee is employed by more than one employer, the employee, or an appropriate office of the uniformed service in which his or her service is to be performed, must notify each employer that the employee intends to leave the employment position to perform service in the uniformed services, with certain exceptions described below.
+
+(b) The Department of Defense USERRA regulations at 32 CFR 104.3 provide that an “appropriate officer” can give notice on the employee's behalf. An “appropriate officer” is a commissioned, warrant, or non-commissioned officer authorized to give such notice by the military service concerned.
+
+(c) The employee's notice to the employer may be either verbal or written. The notice may be informal and does not need to follow any particular format.
+
+(d) Although USERRA does not specify how far in advance notice must be given to the employer, an employee should provide notice as far in advance as is reasonable under the circumstances. In regulations promulgated by the Department of Defense under USERRA, 32 CFR 104.6(a)(2)(i)(B), the Defense Department “strongly recommends that advance notice to civilian employers be provided at least 30 days prior to departure for uniformed service when it is feasible to do so.”

@@ -1,0 +1,3 @@
+##### § 1002.288 How does an individual file a USERRA complaint? #####
+
+If an individual is claiming entitlement to employment rights or benefits or reemployment rights or benefits and alleges that an employer has failed or refused, or is about to fail or refuse, to comply with the Act, the individual may file a complaint with VETS or initiate a private legal action in a court of law (*see* § 1002.303). A complaint may be filed with VETS either in writing, using VETS Form 1010, or electronically, using VETS Form e1010 (instructions and the forms can be accessed at *http://www.dol.gov/elaws/vets/userra/1010.asp*). A complaint must include the name and address of the employer, a summary of the basis for the complaint, and a request for relief.

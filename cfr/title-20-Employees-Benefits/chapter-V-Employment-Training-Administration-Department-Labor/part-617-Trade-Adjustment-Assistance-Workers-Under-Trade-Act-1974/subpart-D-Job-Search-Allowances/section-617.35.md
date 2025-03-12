@@ -1,0 +1,9 @@
+##### § 617.35 Time and method of payment. #####
+
+(a) *Determinations.* A State agency shall promptly make and record determinations necessary to assure entitlement of an individual to a job search allowance at any time, before or after a certification covering the individual is made. No job search allowance may be paid or advanced to an individual until the State agency determines that the individual is covered under a certification. A State agency shall make payment as promptly as possible upon determining that the individual is covered under a certification and is otherwise eligible.
+
+(b) *Payment.* Unless paragraph (a) of this section applies, a job search allowance shall be paid promptly after an individual completes a job search and complies with paragraph (d) of this section.
+
+(c) *Advances.* A State agency may advance an individual (except an individual not yet covered under a certification) 60 percent of the estimated amount of the job search allowance payable on completion of the job search, but not exceeding $360, within 5 days prior to commencement of a job search. Such advance shall be deducted from any payment under paragraph (b) of this section.
+
+(d) *Worker evidence.* On completion of a job search, the individual shall certify on forms furnished by the State agency as to employer contacts made and amounts expended daily for lodging and meals. Receipts shall be required for all lodging and purchased transportation expenses incurred by the individual pursuant to the job search. An adjustment shall be made if the amount of an advance is less or more than the amount to which the individual is entitled under § 617.34.

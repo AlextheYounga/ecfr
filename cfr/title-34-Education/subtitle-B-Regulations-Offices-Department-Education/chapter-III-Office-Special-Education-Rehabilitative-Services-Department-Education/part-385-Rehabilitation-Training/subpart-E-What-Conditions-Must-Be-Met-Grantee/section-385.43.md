@@ -1,0 +1,5 @@
+##### § 385.43 What requirements apply to the training of rehabilitation counselors and other rehabilitation personnel? #####
+
+Any grantee who provides training of rehabilitation counselors or other rehabilitation personnel must train those counselors and personnel on the services provided under this Act, and, in particular, services provided in accordance with amendments made to the Rehabilitation Act by the Workforce Innovation and Opportunity Act of 2014. The grantee must also furnish training to these counselors and personnel regarding applications of rehabilitation technology in vocational rehabilitation services, the applicability of section 504 of this Act, title I of the Americans with Disabilities Act of 1990, and the provisions of titles II and XVI of the Social Security Act that are related to work incentives for individuals with disabilities.
+
+(Authority: Sections 12(c), 101(a), and 302 of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 709(c), 721(a) and 772)

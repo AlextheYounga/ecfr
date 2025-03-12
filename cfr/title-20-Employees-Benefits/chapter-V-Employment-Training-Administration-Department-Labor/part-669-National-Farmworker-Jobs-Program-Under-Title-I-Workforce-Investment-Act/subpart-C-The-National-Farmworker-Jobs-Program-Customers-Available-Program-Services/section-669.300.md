@@ -1,0 +1,3 @@
+##### § 669.300 What are the general responsibilities of the NFJP grantees? #####
+
+Each grantee is responsible for providing needed services in accordance with a service delivery strategy described in its approved grant plan. These services must reflect the needs of the MSFW population in the service area and include the services and training activities that are necessary to achieve each participant's employment goals.

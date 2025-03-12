@@ -1,0 +1,3 @@
+##### § 668.130 What obligation do we have to consult with the INA grantee community in developing rules, regulations, and standards of accountability for INA programs? #####
+
+We will consult with the Native American grantee community as a full partner in developing policies for the INA programs. We will actively seek and consider the views of all INA grantees, and will discuss options with the grantee community prior to establishing policies and program regulations. The primary consultation vehicle is the Native American Employment and Training Council. (WIA sec. 166(h)(2).)

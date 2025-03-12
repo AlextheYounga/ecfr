@@ -1,0 +1,5 @@
+##### § 411.395 Is a State VR agency required to provide periodic reports? #####
+
+(a) For cases where a State VR agency provided services functioning as an EN, the State VR agency will be required to prepare periodic reports on the specific outcomes achieved with respect to the specific services the State VR agency provided to or secured for disabled beneficiaries whose tickets it accepted for assignment. These reports must be submitted to the PM at least annually.
+
+(b) Regardless of the payment method selected, a State VR agency must submit information to assist the PM conducting the reviews necessary to assess a beneficiary's timely progress toward self-supporting employment to determine if a beneficiary is using a ticket for purposes of suspending continuing disability reviews (see §§ 411.190, 411.195 and 411.200).

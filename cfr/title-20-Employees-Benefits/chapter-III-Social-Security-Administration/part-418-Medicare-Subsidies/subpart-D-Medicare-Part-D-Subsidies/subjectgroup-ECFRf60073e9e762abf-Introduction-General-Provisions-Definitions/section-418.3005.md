@@ -1,0 +1,3 @@
+##### § 418.3005 Purpose and administration of the program. #####
+
+The purpose of the subsidy program is to offer help with the costs of prescription drug coverage for individuals who meet certain income and resources requirements under the law as explained in this subpart. The Centers for Medicare & Medicaid Services (CMS) in the Department of Health and Human Services has responsibility for administration of the Medicare program, including the new Medicare Part D Voluntary Prescription Drug Benefit Program. We notify Medicare beneficiaries who appear to have limited income, based on our records, about the availability of the subsidy if they are not already eligible for this help, and take applications for and determine the eligibility of individuals for a subsidy.

@@ -1,0 +1,7 @@
+##### § 416.1460 Vacating a dismissal of a request for a hearing before an administrative law judge. #####
+
+(a) Except as provided in paragraph (b) of this section, an administrative law judge or the Appeals Council may vacate a dismissal of a request for a hearing if you request that we vacate the dismissal. If you or another party wish to make this request, you must do so within 60 days of the date you receive notice of the dismissal, and you must state why our dismissal of your request for a hearing was erroneous. The administrative law judge or Appeals Council will inform you in writing of the action taken on your request. The Appeals Council may also vacate a dismissal of a request for a hearing on its own motion. If the Appeals Council decides to vacate a dismissal on its own motion, it will do so within 60 days of the date we mail the notice of dismissal and will inform you in writing that it vacated the dismissal.
+
+(b) If you wish to proceed with a hearing after you received a fully favorable revised determination under the prehearing case review process in § 416.1441, you must follow the procedures in § 416.1441(d) to request that an administrative law judge vacate his or her order dismissing your request for a hearing.
+
+[76 FR 65371, Oct. 21, 2011]

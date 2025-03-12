@@ -1,0 +1,3 @@
+##### § 725.536 Reductions; excess earnings. #####
+
+In the case of a surviving parent, brother, or sister, whose claim was filed at any time, or of a miner whose claim was filed on or after January 1, 1982, benefit payments are reduced as appropriate by an amount equal to the deduction which would be made with respect to excess earnings under the provisions of sections 203 (b), (f), (g), (h), (j), and (l) of the Social Security Act (42 U.S.C. 403 (b), (f), (g), (h), (j), and (l)), as if such benefit payments were benefits payable under section 202 of the Social Security Act (42 U.S.C. 402) (see §§ 404.428 through 404.456 of this title).

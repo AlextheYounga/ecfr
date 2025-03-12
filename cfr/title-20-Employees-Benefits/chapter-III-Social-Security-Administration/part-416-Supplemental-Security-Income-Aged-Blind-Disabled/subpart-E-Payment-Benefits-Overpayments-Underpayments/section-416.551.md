@@ -1,0 +1,5 @@
+##### § 416.551 Waiver of adjustment or recovery—effect of. #####
+
+Waiver of adjustment or recovery of an overpayment from the overpaid person himself (or, after his death, from his estate) frees him and his eligible spouse from the obligation to repay the amount of the overpayment covered by the waiver. Waiver of adjustment or recovery of an overpayment from anyone other than the overpaid person himself or his estate (e.g., a surviving eligible spouse) does not preclude adjustment or recovery against the overpaid person or his estate.
+
+Example:The recipient was overpaid $390. It was found that the overpaid recipient was eligible for waiver of adjustment or recovery of $260 of that amount, and such action was taken. Only $130 of the overpayment remained to be recovered by adjustment, refund, or the like.[40 FR 47763, Oct. 10, 1975]

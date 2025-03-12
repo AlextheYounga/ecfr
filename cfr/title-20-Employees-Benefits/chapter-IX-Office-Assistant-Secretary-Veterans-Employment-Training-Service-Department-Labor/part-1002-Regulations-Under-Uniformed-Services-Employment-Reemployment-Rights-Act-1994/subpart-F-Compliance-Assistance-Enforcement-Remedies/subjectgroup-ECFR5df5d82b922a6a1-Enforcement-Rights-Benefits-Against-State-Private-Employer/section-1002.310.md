@@ -1,0 +1,3 @@
+##### § 1002.310 How are fees and court costs charged or taxed in an action under USERRA? #####
+
+No fees or court costs may be charged or taxed against an individual if he or she is claiming rights under the Act. If the individual obtains private counsel for any action or proceeding to enforce a provision of the Act, and prevails, the court may award reasonable attorney fees, expert witness fees, and other litigation expenses.

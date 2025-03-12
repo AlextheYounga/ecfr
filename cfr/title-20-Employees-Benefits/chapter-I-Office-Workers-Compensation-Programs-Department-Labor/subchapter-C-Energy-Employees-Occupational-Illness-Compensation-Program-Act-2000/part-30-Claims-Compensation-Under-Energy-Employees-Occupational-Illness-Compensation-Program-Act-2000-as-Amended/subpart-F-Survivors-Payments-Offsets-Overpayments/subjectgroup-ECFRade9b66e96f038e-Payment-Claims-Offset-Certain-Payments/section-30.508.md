@@ -1,0 +1,3 @@
+##### § 30.508 What is beryllium sensitivity monitoring? #####
+
+Beryllium sensitivity monitoring shall consist of medical examinations to confirm and monitor the extent and nature of a covered Part B employee's beryllium sensitivity. Monitoring shall also include regular medical examinations, with diagnostic testing, to determine if the covered Part B employee has established chronic beryllium disease.

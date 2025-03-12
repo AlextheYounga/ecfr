@@ -1,0 +1,3 @@
+##### § 681.470 Does the Department require local programs to use Workforce Innovation and Opportunity Act funds for each of the 14 program elements? #####
+
+No. The Department does not require local programs to use WIOA youth funds for each of the program elements. Local programs may leverage partner resources to provide some of the readily available program elements. However, the local area must ensure that if a program element is not funded with WIOA title I youth funds, the local program has an agreement in place with a partner organization to ensure that the program element will be offered. The Local WDB must ensure that the program element is closely connected and coordinated with the WIOA youth program.

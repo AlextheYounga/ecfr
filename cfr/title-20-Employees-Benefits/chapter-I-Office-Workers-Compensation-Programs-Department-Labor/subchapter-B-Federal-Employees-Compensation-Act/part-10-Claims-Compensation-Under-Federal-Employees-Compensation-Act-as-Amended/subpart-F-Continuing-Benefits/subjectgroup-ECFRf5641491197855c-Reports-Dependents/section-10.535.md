@@ -1,0 +1,7 @@
+##### § 10.535 How are dependents defined, and what information must the employee report? #####
+
+(a) Dependents in disability cases are defined in § 10.405. While the employee has one or more dependents, the employee's basic compensation for wage loss or for permanent impairment shall be augmented as provided in 5 U.S.C. 8110. (The rules for death claims are found in § 10.414.)
+
+(b) An employee who is receiving augmented compensation on account of dependents must advise OWCP immediately of any change in the number or status of dependents. The employee should also promptly refund to OWCP any amounts received on account of augmented compensation after the right to receive augmented compensation has ceased. Any difference between actual entitlement and the amount already paid beyond the date entitlement ended is an overpayment of compensation and may be recovered pursuant to 5 U.S.C. 8129 and other relevant statutes.
+
+(c) An employee who is receiving augmented compensation shall be periodically required to submit a statement as to any dependents, or to submit supporting documents such as birth or marriage certificates or court orders, to determine if he or she is still entitled to augmented compensation.

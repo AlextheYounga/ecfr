@@ -1,0 +1,5 @@
+##### § 606.26 Application for waiver and substitution. #####
+
+(a) *Application.* The Governor of the State shall make application addressed to the Secretary of Labor, no later than July 1 of a taxable year with respect to which a State requests waiver and substitution. Any such application shall contain the supportive data and information required by § 606.22(b) for the purposes of §§ 606.20(a)(2) and 606.21(b). The Governor is required to notify the Department on or before October 15 of such taxable year of action occurring after the date of the initial application and effective prior to October 1 of such year that would impact upon the State's application.
+
+(b) *Notification of determination.* The OWS Administrator will make a determination on the application as of November 10 of the taxable year, will notify the applicant and the Secretary of the Treasury of the resulting tax credit reduction to be applied, and will cause notice of such determination to be published in the Federal Register.

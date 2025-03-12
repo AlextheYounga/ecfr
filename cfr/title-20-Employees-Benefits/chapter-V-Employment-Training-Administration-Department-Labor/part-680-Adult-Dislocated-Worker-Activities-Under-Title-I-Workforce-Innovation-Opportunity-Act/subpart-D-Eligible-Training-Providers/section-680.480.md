@@ -1,0 +1,11 @@
+##### § 680.480 May an eligible training provider lose its eligibility? #####
+
+(a) Yes. A training provider must meet the Governors requirements for eligibility and provide accurate information in order to retain its status as an eligible training provider.
+
+(b) Providers determined to have intentionally supplied inaccurate information or to have substantially violated any provision of title I of WIOA or the WIOA regulations, including 29 CFR part 38, must be removed from the State list of eligible training providers and programs in accordance with the enforcement provisions of WIOA sec. 122(f). A provider whose eligibility is terminated under these conditions must be terminated for not less than 2 years and is liable to repay all youth, adult, and dislocated worker training funds it received during the period of noncompliance. The Governor must specify in the procedures which individual or entity is responsible for making these determinations and the process by which the determination will be made, which must include an opportunity for a hearing that meets the requirements of § 683.630(b) of this chapter.
+
+(c) As a part of the biennial review of eligibility established by the Governor, the State must remove programs of training services that fail to meet criteria established by the Governor to remain eligible, which may include failure to meet established minimum performance levels. Registered apprenticeship programs only may be removed for the reasons set forth in § 680.470.
+
+(d) The Governor must establish an appeals procedure for providers of training services to appeal a denial of eligibility under this subpart that meets the requirements of § 683.630(b) of this chapter, which explains the appeals process for denial or termination of eligibility of a provider of training services.
+
+(e) Where a Local WDB has established higher minimum performance standards, according to § 680.430(e), the Local WDB may remove a program of training services from the eligible programs in that local area for failure to meet those higher performance standards. Training providers may appeal a denial of eligibility under § 683.630(b) of this chapter.

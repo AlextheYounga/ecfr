@@ -1,0 +1,5 @@
+##### § 411.582 Can a State VR agency receive payment under the cost reimbursement payment system if a continuous 9-month period of substantial gainful activity is completed after the ticket is assigned to an EN? #####
+
+Yes. If a State VR agency provides services to a beneficiary under 34 CFR part 361, and elects payment under the cost reimbursement payment system under subpart V of part 404 (or subpart V of part 416) of this chapter, the State VR agency can receive payment under the cost reimbursement payment system for services provided to the beneficiary if all the requirements under subpart V of part 404 (or subpart V of part 416) of this chapter and § 411.585 are met even when these requirements are met after the ticket has been assigned to the EN. The EN can be paid during this period in accordance with §§ 411.525 and 411.535.
+
+[73 FR 29351, May 20, 2008]

@@ -1,0 +1,3 @@
+##### § 408.818 When does SVB entitlement terminate if your benefit payments have been in suspense for 12 consecutive months? #####
+
+We will terminate your SVB entitlement following 12 consecutive months of benefit suspension for any reason beginning with the first month you were no longer entitled to SVB. We will count the 12-month suspension period from the start of the first month that you are no longer entitled to SVB (*see* § 408.802(a)). This termination is effective with the first day of the 13th month after the suspension began.

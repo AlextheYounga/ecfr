@@ -1,0 +1,3 @@
+##### § 222.21 When marriage is terminated by final divorce. #####
+
+A final divorce, often referred to as an absolute divorce, completely dissolves the marriage relationship and restores the parties to the status of single persons. A legal separation, qualified or preliminary divorce, divorce from bed and board, interlocutory decree of divorce, or similar court order is not considered a final divorce for family relationship and benefit entitlement purposes.

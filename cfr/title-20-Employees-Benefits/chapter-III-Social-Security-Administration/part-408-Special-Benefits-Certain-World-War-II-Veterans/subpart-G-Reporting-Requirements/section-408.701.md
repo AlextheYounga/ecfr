@@ -1,0 +1,3 @@
+##### § 408.701 What is this subpart about? #####
+
+To achieve efficient administration of the Special Veterans Benefit (SVB) program, we require you (or your representative) to report certain events to us. It is important for us to know about these events because they may affect your right to receive SVB or the amount of your benefits. This subpart tells you what events you must report; what your reports must include; how you should make your report; and when reports are due.

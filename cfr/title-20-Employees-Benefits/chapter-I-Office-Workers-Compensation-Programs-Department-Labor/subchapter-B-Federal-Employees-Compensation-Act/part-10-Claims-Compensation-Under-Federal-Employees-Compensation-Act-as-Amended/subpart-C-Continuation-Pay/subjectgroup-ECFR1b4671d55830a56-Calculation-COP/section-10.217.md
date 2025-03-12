@@ -1,0 +1,3 @@
+##### § 10.217 Is COP charged if the employee continues to work, but in a different job that pays less? #####
+
+If the employee cannot perform the duties of his or her regular position, but instead works in another job with different duties with no loss in pay, then COP is not chargeable. COP must be paid and the days counted against the 45 days authorized by law whenever an actual reduction of pay results from the injury, including a reduction of pay for the employee's normal administrative workweek that results from a change or diminution in his or her duties following an injury. However, this does not include a reduction of pay that is due solely to an employer being prohibited by law from paying extra pay to an employee for work he or she does not actually perform.

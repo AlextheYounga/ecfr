@@ -1,0 +1,5 @@
+##### § 416.1180 General. #####
+
+One of the objectives of the SSI program is to help blind or disabled persons become self-supporting. If you are blind or disabled, we will pay you SSI benefits and will not count the part of your income (for example, your or a family member's wages, title II benefits, or pension income) that you use or set aside to use for expenses that we determine to be reasonable and necessary to fulfill an approved plan to achieve self-support. (See §§ 416.1112(c)(9) and 1124(c)(13).) You may develop a plan to achieve self-support on your own or with our help. As appropriate, we will refer you to a State rehabilitation agency or agency for the blind for additional assistance in developing a plan.
+
+[45 FR 65547, Oct. 3, 1980, as amended at 51 FR 10616, Mar. 28, 1986; 62 FR 59813, Nov. 5, 1997; 71 FR 28264, May 16, 2006]

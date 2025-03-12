@@ -1,0 +1,3 @@
+##### § 1002.165 How does the employee elect continuing health plan coverage? #####
+
+USERRA does not specify requirements for electing continuing coverage. Health plan administrators may develop reasonable requirements addressing how continuing coverage may be elected, consistent with the terms of the plan and the Act's exceptions to the requirement that the employee give advance notice of service in the uniformed services. For example, the employee cannot be precluded from electing continuing health plan coverage under circumstances where it is impossible or unreasonable for him or her to make a timely election of coverage.

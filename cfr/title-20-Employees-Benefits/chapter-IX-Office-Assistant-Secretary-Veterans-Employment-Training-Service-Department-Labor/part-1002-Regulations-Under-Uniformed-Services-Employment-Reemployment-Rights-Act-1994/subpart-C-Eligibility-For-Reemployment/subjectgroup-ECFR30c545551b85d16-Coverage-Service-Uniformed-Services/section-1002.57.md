@@ -1,0 +1,7 @@
+##### § 1002.57 Is all service as a member of the National Guard considered “service in the uniformed services?” #####
+
+The National Guard has a dual status. It is a Reserve component of the Army, or, in the case of the Air National Guard, of the Air Force. Simultaneously, it is a State military force subject to call-up by the State Governor for duty not subject to Federal control, such as emergency duty in cases of floods or riots. National Guard members may perform service under either Federal or State authority, but only Federal National Guard service is covered by USERRA.
+
+(a) National Guard service under Federal authority is protected by USERRA. Service under Federal authority includes active duty performed under Title 10 of the United States Code. Service under Federal authority also includes duty under Title 32 of the United States Code, such as active duty for training, inactive duty training, or full-time National Guard duty.
+
+(b) National Guard service under authority of State law is not protected by USERRA. However, many States have laws protecting the civilian job rights of National Guard members who serve under State orders. Enforcement of those State laws is not covered by USERRA or these regulations.

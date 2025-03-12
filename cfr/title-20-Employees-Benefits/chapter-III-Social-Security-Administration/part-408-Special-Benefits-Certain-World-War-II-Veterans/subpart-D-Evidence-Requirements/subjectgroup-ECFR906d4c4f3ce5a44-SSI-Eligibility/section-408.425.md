@@ -1,0 +1,3 @@
+##### § 408.425 How do we establish your eligibility for SSI? #####
+
+To qualify for SVB, you must have been eligible for SSI for the month of December 1999, the month in which Public Law 106-169 was enacted, and for the month in which you filed your application for SVB. You do not have to submit evidence of this. We will use our SSI record of your eligibility to determine if you meet these requirements.

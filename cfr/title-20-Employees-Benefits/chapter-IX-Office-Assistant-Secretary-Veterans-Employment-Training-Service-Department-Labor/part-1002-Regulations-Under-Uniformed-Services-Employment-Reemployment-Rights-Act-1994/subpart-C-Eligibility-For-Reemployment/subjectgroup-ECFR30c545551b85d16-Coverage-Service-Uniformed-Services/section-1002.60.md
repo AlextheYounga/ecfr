@@ -1,0 +1,3 @@
+##### § 1002.60 Does USERRA cover an individual attending a military service academy? #####
+
+Yes. Attending a military service academy is considered uniformed service for purposes of USERRA. There are four service academies: The United States Military Academy (West Point, New York), the United States Naval Academy (Annapolis, Maryland), the United States Air Force Academy (Colorado Springs, Colorado), and the United States Coast Guard Academy (New London, Connecticut).

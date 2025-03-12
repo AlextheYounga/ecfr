@@ -1,0 +1,7 @@
+##### § 408.940 When will we refer an SVB overpayment to the Department of the Treasury for tax refund offset? #####
+
+(a) *General.* The standards we will apply and the procedures we will follow before requesting the Department of the Treasury to offset income tax refunds due you to recover outstanding overpayments are set forth in §§ 408.940 through 408.946 of this subpart. These standards and procedures are authorized by 31 U.S.C. 3720A, as implemented through Department of the Treasury regulations at 31 CFR 285.2.
+
+(b) We will use the Department of the Treasury tax refund offset procedure to collect overpayments that are certain in amount, past due and legally enforceable and eligible for tax refund offset under regulations issued by the Secretary of the Treasury. We will use these procedures to collect overpayments from you only when you are not currently entitled to monthly SVB under title VIII of the Act, and we are not recovering your SVB overpayment from your monthly benefits payable under title II of the Act. We refer overpayments to the Department of the Treasury for offset against Federal tax refunds regardless of the amount of time the debts have been outstanding.
+
+[69 FR 25955, May 10, 2004, as amended at 76 FR 65108, Oct. 20, 2011]

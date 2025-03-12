@@ -1,0 +1,9 @@
+##### § 640.7 Benefit payment performance plans. #####
+
+(a) *Annual plan.* An annual benefit payment performance plan shall be submitted by a State agency to the Department of Labor when average performance over a 12-month period ending on March 31 of any year does not meet the criteria specified in § 640.5. An annual plan shall be submitted by July 31 following the applicable March 31, and shall be a plan for the fiscal year that begins on the succeeding October 1. An annual plan shall be subject to continuing appraisal during the period it is in effect, and shall be subject to modification from time to time as may be directed by the Department of Labor after consultation with the State agency.
+
+(b) *Periodic plan.* A periodic benefit payment performance plan shall be submitted by a State agency when directed by the Department of Labor. A periodic plan may be in addition to, or a modification of an annual plan and may be required even though an annual plan covering the same period is not required. A periodic plan shall be subject to continuing appraisal during the period it is in effect, and shall be subject to modification from time to time as may be directed by the Department of Labor.
+
+(c) *Content of plan.* An annual plan or periodic plan shall set forth such corrective actions, performance and evaluation plans, and other matters as the Department of Labor directs, after consultation with the State agency.
+
+(Approved by the Office of Management and Budget under control number 1205-0132)(Pub. L. No. 96-511)[43 FR 33225, July 28, 1978, as amended at 49 FR 18295, Apr. 30, 1984]

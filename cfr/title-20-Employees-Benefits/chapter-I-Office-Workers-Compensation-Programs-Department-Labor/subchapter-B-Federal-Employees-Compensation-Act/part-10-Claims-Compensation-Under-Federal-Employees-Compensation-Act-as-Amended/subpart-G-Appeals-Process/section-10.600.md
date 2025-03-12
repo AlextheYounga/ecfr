@@ -1,0 +1,3 @@
+##### § 10.600 How can final decisions of OWCP be reviewed? #####
+
+There are three methods for reviewing a formal decision of the OWCP (§§ 10.125 through 10.127 discuss how decisions are made). These methods are: reconsideration by the district office; a hearing before an OWCP hearing representative; and appeal to the Employees' Compensation Appeals Board (ECAB). For each method there are time limitations and other restrictions which may apply, and not all options are available for all decisions, so the employee should consult the requirements set forth below. Further rules governing appeals to the ECAB are found at part 501 of this title.

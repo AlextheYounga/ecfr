@@ -1,0 +1,3 @@
+##### § 672.505 How may grantees provide services under the YouthBuild program? #####
+
+Each recipient of a grant under the YouthBuild program may provide the services and activities described in these regulations either directly or through subgrants, contracts, or other arrangements with local educational agencies, postsecondary educational institutions, State or local housing development agencies, other public agencies, including agencies of Indian tribes, or private organizations.

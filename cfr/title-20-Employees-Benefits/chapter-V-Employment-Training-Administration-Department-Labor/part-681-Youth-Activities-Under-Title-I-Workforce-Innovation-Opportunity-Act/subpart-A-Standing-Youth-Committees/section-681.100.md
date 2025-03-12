@@ -1,0 +1,3 @@
+##### § 681.100 What is a standing youth committee? #####
+
+The Workforce Innovation and Opportunity Act (WIOA) eliminates the requirement for Local Workforce Development Boards (WDBs) to establish a youth council. However, the Department encourages Local WDBs to establish a standing committee to provide information and to assist with planning, operational, oversight, and other issues relating to the provision of services to youth. If the Local WDB does not designate a standing youth committee, it retains responsibility for all aspects of youth formula programs.

@@ -1,0 +1,9 @@
+##### § 404.1546 Responsibility for assessing your residual functional capacity. #####
+
+(a) *Responsibility for assessing residual functional capacity at the State agency.* When a State agency medical or psychological consultant and a State agency disability examiner make the disability determination as provided in § 404.1615(c)(1) of this part, a State agency medical or psychological consultant(s) is responsible for assessing your residual functional capacity. When a State agency disability examiner makes a disability determination alone as provided in § 404.1615(c)(3), the disability examiner is responsible for assessing your residual functional capacity.
+
+(b) *Responsibility for assessing residual functional capacity in the disability hearings process.* If your case involves a disability hearing under § 404.914, a disability hearing officer is responsible for assessing your residual functional capacity. However, if the disability hearing officer's reconsidered determination is changed under § 404.918, the Associate Commissioner for the Office of Disability Determinations or his or her delegate is responsible for assessing your residual functional capacity.
+
+(c) *Responsibility for assessing residual functional capacity at the administrative law judge hearing or Appeals Council level.* If your case is at the administrative law judge hearing level or at the Appeals Council review level, the administrative law judge or the administrative appeals judge at the Appeals Council (when the Appeals Council makes a decision) is responsible for assessing your residual functional capacity.
+
+[68 FR 51162, Aug. 26, 2003, as amended at 71 FR 16445, Mar. 31, 2006; 75 FR 62681, Oct. 13, 2010; 76 FR 24807, May 3, 2011]

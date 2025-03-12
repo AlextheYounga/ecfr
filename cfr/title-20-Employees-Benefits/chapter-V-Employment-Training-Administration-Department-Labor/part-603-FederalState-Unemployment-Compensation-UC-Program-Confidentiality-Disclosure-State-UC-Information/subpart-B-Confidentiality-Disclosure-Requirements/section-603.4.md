@@ -1,0 +1,7 @@
+##### § 603.4 What is the confidentiality requirement of Federal UC law? #####
+
+(a) *Statute.* Section 303(a)(1) of the SSA (42 U.S.C. 503(a)(1)) provides that, for the purposes of certification of payment of granted funds to a State under Section 302(a) (42 U.S.C. 502(a)), State law must include provision for such methods of administration as are found by the Secretary of Labor to be reasonably calculated to insure full payment of unemployment compensation when due.
+
+(b) *Interpretation.* The Department of Labor interprets Section 303(a)(1), SSA, to mean that “methods of administration” that are reasonably calculated to insure the full payment of UC when due must include provision for maintaining the confidentiality of any UC information which reveals the name or any identifying particular about any individual or any past or present employer or employing unit, or which could foreseeably be combined with other publicly available information to reveal any such particulars, and must include provision for barring the disclosure of any such information, except as provided in this part.
+
+(c) *Application.* Each State law must contain provisions that are interpreted and applied consistently with the interpretation in paragraph (b) of this section and with this subpart, and must provide penalties for any disclosure of confidential UC information that is inconsistent with any provision of this subpart.

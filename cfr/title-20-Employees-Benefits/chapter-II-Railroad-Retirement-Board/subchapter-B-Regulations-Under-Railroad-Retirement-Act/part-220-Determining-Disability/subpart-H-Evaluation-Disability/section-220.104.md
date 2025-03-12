@@ -1,0 +1,3 @@
+##### § 220.104 Multiple impairments. #####
+
+To determine whether the claimant's physical or mental impairment or impairments are of a sufficient medical severity that such impairment or impairments could be the basis of eligiblity under the law, the combined effect of all of the claimant's impairments are considered regardless of whether any such impairment, if considered separately, would be of sufficient severity. If a medically severe combination of impairments is found, it will be considered throughout the disability evaluation process. If a medically severe combination of impairments is not found, the claimant will be determined to be not disabled.

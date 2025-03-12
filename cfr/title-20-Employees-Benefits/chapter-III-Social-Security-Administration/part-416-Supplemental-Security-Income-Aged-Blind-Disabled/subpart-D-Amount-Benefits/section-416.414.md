@@ -1,0 +1,23 @@
+##### § 416.414 Amount of benefits; eligible individual or eligible couple in a medical treatment facility. #####
+
+(a) *General rule.* Except where the § 416.212 provisions provide for payment of benefits at the rates specified under §§ 416.410 and 416.412, reduced SSI benefits are payable to persons and couples who are in medical treatment facilities where a substantial part (more than 50 percent) of the cost of their care is paid by a State plan under title XIX of the Social Security Act (Medicaid). This reduced SSI benefit rate applies to persons who are in medical treatment facilities where a substantial part (more than 50 percent) of the cost would have been paid by an approved Medicaid State plan but for the application of section 1917(c) of the Social Security Act due to a transfer of assets for less than fair market value. This reduced SSI benefit rate also applies to children under age 18 who are in medical treatment facilities where a substantial part (more than 50 percent) of the cost of their care is paid by a health insurance policy issued by a private provider of such insurance, or where a substantial part (more than 50 percent) of the cost of their care is paid for by a combination of Medicaid payments and payments made under a health insurance policy issued by a private provider of such insurance. Persons and couples to whom these reduced benefits apply are—
+
+(1) Those who are otherwise eligible and who are in the medical treatment facility throughout a month. (By *throughout a month* we mean that you are in the medical treatment facility as of the beginning of the month and stay the entire month. If you are in a medical treatment facility you will be considered to have continuously been staying there if you are transferred from one medical treatment facility to another or if you are temporarily absent for a period of not more than 14 consecutive days.); and
+
+(2) Those who reside for part of a month in a public institution and for the rest of the month are in a public or private medical treatment facility where Medicaid pays or would have paid (but for the application of section 1917(c) of the Act) a substantial part (more than 50 percent) of the cost of their care; and
+
+(3) Children under age 18 who reside for part of a month in a public institution and for the rest of the month are in a public or private medical treatment facility where a substantial part (more than 50 percent) of the cost of their care is being paid under a health insurance policy issued by a private provider or by a combination of Medicaid and payments under a health insurance policy issued by a private provider.
+
+(b) *The benefit rates are*—(1) *Eligible individual.* For months after June 1988, the benefit rate for an eligible individual with no eligible spouse is $30 per month. The benefit payment is figured by subtracting the eligible individual's countable income (see subpart K) from the benefit rate as explained in § 416.420.
+
+(2) *Eligible couple both of whom are temporarily absent from home in medical treatment facilities as described in § 416.1149(c)(1).* For months after June 1988, the benefit rate for a couple is $60 a month. The benefit payment is figured by subtracting the couple's countable income (see subpart K) from the benefit rate as explained in § 416.420.
+
+(3) *Eligible couple with one spouse who is temporarily absent from home as described in § 416.1149(c)(1).* The couple's benefit rate equals:
+
+(i) For months after June 1988, $30 per month for the spouse in the medical treatment facility; plus
+
+(ii) The benefit rate for an eligible individual (see § 416.410) for the spouse who is not in the medical treatment facility. The benefit payment for each spouse is figured by subtracting each individual's own countable income in the appropriate month (see § 416.420) from his or her portion of the benefit rate shown in paragraphs (b)(3) (i) and (ii).
+
+(c) *Definition.* For purposes of this section, a *medical treatment facility* means an institution or that part of an institution that is licensed or otherwise approved by a Federal, State, or local government to provide inpatient medical care and services.
+
+[47 FR 3106, Jan. 22, 1982, as amended at 50 FR 48571, Nov. 26, 1985; 50 FR 51514, Dec. 18, 1985; 54 FR 19164, May 4, 1989; 58 FR 64894, Dec. 10, 1993; 60 FR 16374, Mar. 30, 1995; 61 FR 10278, Mar. 13, 1996; 62 FR 1056, Jan. 8, 1997; 72 FR 50874, Sept. 5, 2007; 72 FR 54350, Sept. 25, 2007]

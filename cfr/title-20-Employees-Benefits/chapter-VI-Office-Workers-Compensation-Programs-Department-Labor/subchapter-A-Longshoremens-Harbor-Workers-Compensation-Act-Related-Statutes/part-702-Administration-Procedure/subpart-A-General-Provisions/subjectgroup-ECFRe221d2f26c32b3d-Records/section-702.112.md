@@ -1,0 +1,3 @@
+##### § 702.112 Records of the OWCP. #####
+
+All reports, records, or other documents filed with the OWCP with respect to claims are the records of the OWCP. The Director shall be the official custodian of those records maintained by the OWCP at its national office, and the district director shall be the official custodian of those records maintained at the headquarters office in each compensation district.

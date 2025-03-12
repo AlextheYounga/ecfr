@@ -1,0 +1,9 @@
+##### § 303.510 Payor of last resort. #####
+
+(a) *Nonsubstitution of funds.* Except as provided in paragraph (b) of this section, funds under this part may not be used to satisfy a financial commitment for services that would otherwise have been paid for from another public or private source, including any medical program administered by the Department of Defense, but for the enactment of part C of the Act. Therefore, funds under this part may be used only for early intervention services that an infant or toddler with a disability needs but is not currently entitled to receive or have payment made from any other Federal, State, local, or private source (subject to §§ 303.520 and 303.521).
+
+(b) *Interim payments—reimbursement.* If necessary to prevent a delay in the timely provision of appropriate early intervention services to a child or the child's family, funds under this part may be used to pay the provider of services (for services and functions authorized under this part, including health services, as defined in § 303.16 (but not medical services), functions of the child find system described in §§ 303.115 through 303.117 and §§ 303.301 through 303.320, and evaluations and assessments in § 303.321), pending reimbursement from the agency or entity that has ultimate responsibility for the payment.
+
+(c) *Non-reduction of benefits.* Nothing in this part may be construed to permit a State to reduce medical or other assistance available in the State or to alter eligibility under Title V of the Social Security Act, 42 U.S.C. 701, *et seq.* (SSA) (relating to maternal and child health) or Title XIX of the SSA, 42 U.S.C. 1396 (relating to Medicaid), including section 1903(a) of the SSA regarding medical assistance for services furnished to an infant or toddler with a disability when those services are included in the child's IFSP adopted pursuant to part C of the Act.
+
+(Authority: 20 U.S.C. 1435(a)(10)(B), 1437(a)(2), 1440(a), 1440(c))

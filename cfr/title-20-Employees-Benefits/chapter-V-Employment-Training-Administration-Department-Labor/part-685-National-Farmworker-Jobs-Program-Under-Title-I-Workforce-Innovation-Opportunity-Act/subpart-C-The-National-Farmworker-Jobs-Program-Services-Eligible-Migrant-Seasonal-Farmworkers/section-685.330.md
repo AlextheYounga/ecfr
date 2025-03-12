@@ -1,0 +1,3 @@
+##### § 685.330 How are services delivered to eligible migrant and seasonal farmworkers? #####
+
+To ensure that all services are focused on the customer's needs, services are provided through a case-management approach emphasizing customer choice and may include: Appropriate career services and training; related assistance, which includes emergency assistance; and supportive services, which includes allowance payments. The basic services and delivery of case-management activities are further described in §§ 685.340 through 685.390.

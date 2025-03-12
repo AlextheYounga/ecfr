@@ -1,0 +1,3 @@
+##### § 219.62 When evidence of “good cause” is required. #####
+
+The principle of “good cause”, as defined in part 217 of this chapter, is applied by the Board in determining whether to allow an application which is submitted more than two years after the employee's death as acceptable for the lump-sum death payment or for an annuity unpaid at death, or to accept the proof of support required for entitlement to a parent's annuity if such proof is filed more than two years after the employee's death.

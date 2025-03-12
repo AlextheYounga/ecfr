@@ -1,0 +1,7 @@
+##### § 30.422 If an employee is only partially reimbursed for a medical expense, must the provider refund the balance of the amount paid to the employee? #####
+
+(a) The OWCP fee schedule sets maximum limits on the amounts payable for many services. The employee may be only partially reimbursed for out-of-pocket medical expenses because the amount he or she paid to the medical provider for a service exceeds the maximum allowable charge set by the OWCP fee schedule.
+
+(b) If this happens, the employee will be advised of the maximum allowable charge for the service in question and of his or her responsibility to ask the provider to refund to the employee, or credit to the employee's account, the amount he or she paid that exceeds the maximum allowable charge. The provider that the employee paid, but not the employee, may request reconsideration of the fee determination as set forth in § 30.712.
+
+(c) If the provider does not refund to the employee or credit to his or her account the amount of money paid in excess of the charge that OWCP allows, the employee should submit documentation of the attempt to obtain such refund or credit to OWCP. OWCP may authorize reasonable reimbursement to the employee after reviewing the facts and circumstances of the case.

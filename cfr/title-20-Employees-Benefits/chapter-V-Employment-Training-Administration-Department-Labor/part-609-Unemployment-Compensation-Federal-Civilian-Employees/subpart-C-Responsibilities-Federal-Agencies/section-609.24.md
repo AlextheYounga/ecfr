@@ -1,0 +1,3 @@
+##### § 609.24 Reconsideration of Federal findings. #####
+
+On receipt of a request for reconsideration of Federal findings from a State agency, the Federal agency shall consider the initial information supplied in connection with such request and shall review its findings. The Federal agency shall correct any errors or omissions in its findings and shall affirm, modify, or reverse any or all of its findings in writing. The Federal agency promptly shall forward its reconsidered findings to the requesting authority. The Federal agency shall, if possible, respond within four workdays after the receipt of a request under this section.

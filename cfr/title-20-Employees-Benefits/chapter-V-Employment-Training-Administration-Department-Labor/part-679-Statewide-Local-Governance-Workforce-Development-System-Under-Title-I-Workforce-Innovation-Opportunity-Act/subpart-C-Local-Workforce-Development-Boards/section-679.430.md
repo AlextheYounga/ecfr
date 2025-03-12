@@ -1,0 +1,3 @@
+##### § 679.430 How do entities performing multiple functions in a local area demonstrate internal controls and prevent conflict of interest? #####
+
+Local organizations often function simultaneously in a variety of roles, including local fiscal agent, Local WDB staff, one-stop operator, and direct provider of services. Any organization that has been selected or otherwise designated to perform more than one of these functions must develop a written agreement with the Local WDB and CEO to clarify how the organization will carry out its responsibilities while demonstrating compliance with WIOA and corresponding regulations, relevant Office of Management and Budget circulars, and the State's conflict of interest policy.

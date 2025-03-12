@@ -1,0 +1,5 @@
+##### § 404.1089 Figuring net earnings for residents and nonresidents of Puerto Rico. #####
+
+(a) *Residents.* If you are a resident of Puerto Rico, whether or not you are an alien, a citizen of the United States, or a citizen of Puerto Rico, you must figure your net earnings from self-employment in the same manner as would a citizen of the United States residing in the United States. In figuring your net earnings from self-employment you must include your income from sources in Puerto Rico even though you are a resident of Puerto Rico during the entire taxable year.
+
+(b) *Nonresidents.* A citizen of Puerto Rico, who is also a citizen of the United States and who is not a resident of Puerto Rico must figure net earnings from self-employment in the same manner as other citizens of the United States.

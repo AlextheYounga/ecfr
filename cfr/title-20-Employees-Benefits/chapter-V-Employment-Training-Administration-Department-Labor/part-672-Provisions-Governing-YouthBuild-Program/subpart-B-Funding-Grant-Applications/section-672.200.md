@@ -1,0 +1,3 @@
+##### § 672.200 How are YouthBuild grants funded and administered? #####
+
+The Secretary uses funds authorized for appropriation under sec. 173A of the Workforce Investment Act (WIA) to administer YouthBuild as a national program under Title I, Subtitle D of the Act. YouthBuild grants are awarded to eligible entities, as defined in § 672.110, through a competitive selection process described in § 672.205.

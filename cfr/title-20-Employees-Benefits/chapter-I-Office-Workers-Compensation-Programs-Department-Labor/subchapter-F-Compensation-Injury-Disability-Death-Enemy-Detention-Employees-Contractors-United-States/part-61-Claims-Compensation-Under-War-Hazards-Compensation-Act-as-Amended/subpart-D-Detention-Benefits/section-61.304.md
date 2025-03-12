@@ -1,0 +1,5 @@
+##### § 61.304 Limitations on and deductions from detention benefits. #####
+
+(a) In determining benefits for detention, the Office shall not apply the minimum limits found in sections 6(b) and 9(e) of the Longshore and Harbor Workers' Compensation Act.
+
+(b) If any employee or dependent receives or claims wages, payments in lieu of wages, or insurance benefits for the period of detention, and the cost of the wages, payments or benefits is provided in whole or in part by the United States, the Office shall credit the amount of the benefits against any detention payments to which the person is entitled under the Act. The Office shall apply credit only where the wages, payments, or benefits received are items for which the contractor is entitled to reimbursement from the United States, or where they are otherwise reimbursable by the United States.

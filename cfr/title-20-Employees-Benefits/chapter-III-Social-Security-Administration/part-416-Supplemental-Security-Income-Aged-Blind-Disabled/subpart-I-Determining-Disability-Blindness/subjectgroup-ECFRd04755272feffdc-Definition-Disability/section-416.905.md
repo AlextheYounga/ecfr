@@ -1,0 +1,7 @@
+##### § 416.905 Basic definition of disability for adults. #####
+
+(a) The law defines disability as the inability to do any substantial gainful activity by reason of any medically determinable physical or mental impairment which can be expected to result in death or which has lasted or can be expected to last for a continuous period of not less than 12 months. To meet this definition, you must have a severe impairment(s) that makes you unable to do your past relevant work (see § 416.960(b)) or any other substantial gainful work that exists in the national economy. If your severe impairment(s) does not meet or medically equal a listing in appendix 1 to subpart P of part 404 of this chapter, we will assess your residual functional capacity as provided in §§ 416.920(e) and 416.945. (*See* § 416.920(g)(2) and 416.962 for an exception to this rule.) We will use this residual functional capacity assessment to determine if you can do your past relevant work. If we find that you cannot do your past relevant work, we will use the same residual functional capacity assessment and your vocational factors of age, education, and work experience to determine if you can do other work. (*See* § 416.920(h) for an exception to this rule.)
+
+(b) There are different rules for determining disability for individuals who are statutorily blind. We discuss these in §§ 416.981 through 416.985.
+
+[45 FR 55621, Aug. 20, 1980, as amended at 56 FR 5553, Feb. 11, 1991; 68 FR 51164, Aug. 26, 2003; 77 FR 43495, July 25, 2012]

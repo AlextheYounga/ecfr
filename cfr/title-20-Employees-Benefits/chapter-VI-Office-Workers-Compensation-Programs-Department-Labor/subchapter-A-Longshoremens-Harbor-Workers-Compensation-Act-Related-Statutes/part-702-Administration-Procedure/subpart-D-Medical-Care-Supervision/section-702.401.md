@@ -1,0 +1,7 @@
+##### § 702.401 Medical care defined. #####
+
+(a) Medical care shall include medical, surgical, and other attendance or treatment, nursing and hospital services, laboratory, X-ray and other technical services, medicines, crutches, or other apparatus and prosthetic devices, and any other medical service or supply, including the reasonable and necessary cost of travel incident thereto, which is recognized as appropriate by the medical profession for the care and treatment of the injury or disease.
+
+(b) An employee may rely on treatment by prayer or spiritual means alone, in accordance with the tenets and practice of a recognized church or religious denomination, by an accredited practitioner of such recognized church or religious denomination, and nursing services rendered in accordance with such tenets and practice without loss or diminution of compensation or benefits under the Act. For purposes of this section, a recognized church or religious denomination shall be any religious organization: (1) That is recognized by the Social Security Administration for purposes of reimbursements for treatment under Medicare and Medicaid or (2) that is recognized by the Internal Revenue Service for purposes of tax exempt status.
+
+[38 FR 26861, Sept. 26, 1973, as amended at 50 FR 402, Jan. 3, 1985]

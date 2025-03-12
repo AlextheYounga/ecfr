@@ -1,0 +1,3 @@
+##### § 411.450 What is an Individual Work Plan? #####
+
+An individual work plan (IWP) is a required written document signed by an employment network (EN) (other than a State VR agency) and a beneficiary, or a representative of a beneficiary, with a ticket. It is developed and implemented in partnership when a beneficiary and an EN have come to a mutual understanding to work together to pursue the beneficiary's employment goal under the Ticket to Work program.

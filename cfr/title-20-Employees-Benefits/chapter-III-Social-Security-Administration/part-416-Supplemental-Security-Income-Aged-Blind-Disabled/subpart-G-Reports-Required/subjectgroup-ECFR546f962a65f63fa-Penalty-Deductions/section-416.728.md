@@ -1,0 +1,7 @@
+##### § 416.728 Penalty period: Second failure to report. #####
+
+(a) *Second penalty period.* The second penalty period begins on the day after the first penalty period ends. The second penalty period ends on the day we first learn that you should have made a required report, but did not do so within 10 days after the close of the month in which the event happened. (The event may have happened during the first penalty period, with the reporting due date in the second penalty period. The due date and the failure to report on time are the important factors in establishing a penalty period.) There may be more than one required report overdue at the end of the second penalty period, but we will impose no more than one penalty deduction for the period.
+
+(b) *Extension of second penalty period.* If you have good cause for not making a report on time (see § 416.732), we will extend the second penalty period to the day when we learn that you should have made another required report, but did not do so within 10 days after the close of the month in which the event happened. There may be more than one required report overdue at the end of the extended second penalty period, but we will impose no more than one penalty deduction for the extended period.
+
+[46 FR 5873, Jan. 21, 1981, as amended at 50 FR 48573, Nov. 26, 1985]

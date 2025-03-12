@@ -1,0 +1,11 @@
+##### § 682.709 Reimbursements, refunds, and offsets. #####
+
+(a) As part of a limitation or termination proceeding, the Secretary, or a designated Departmental official, may require a lender or third-party servicer to take reasonable corrective action to remedy a violation of applicable laws, regulations, special arrangements, agreements, or limitations entered into under the authority of statutes applicable to Title IV of the HEA.
+
+(b) The corrective action may include payment to the Secretary or recipients designated by the Secretary of any funds, and any interest thereon, that the lender, or, in the case of a third-party servicer, the servicer or the lender that has a contract with a third-party servicer, improperly received, withheld, disbursed, or caused to be disbursed. A third-party servicer may be held liable up to the amounts specified in § 682.413(a)(2).
+
+(c) If a final decision requires a lender, a lender that has a contract with a third-party servicer, or a third-party servicer to reimburse or make any payment to the Secretary, the Secretary may, without further notice or opportunity for a hearing, proceed to offset or arrange for another Federal agency to offset the amount due against any interest benefits, special allowance, or other payments due to the lender, the lender that has a contract with the third-party servicer, or the third-party servicer. A third-party servicer may be held liable up to the amounts specified in § 682.413(a)(2).
+
+(d) In any action under this part based on a violation of the prohibitions in section 435(d)(5) of the Act, if the Secretary, the designated Department official, or the hearing official finds that the lender provided or offered the payments or activities described in paragraph (5)(i) of the definition of “lender” in § 682.200(b), the Secretary or the official applies a rebuttable presumption that the payments or activities were offered or provided to secure applications for FFEL loans. To reverse the presumption, the lender must present evidence that the activities or payments were provided for a reason unrelated to securing applications for FFEL loans or securing FFEL loan volume.
+
+(Authority: 20 U.S.C. 1080, 1082, 1094)[59 FR 22459, Apr. 29, 1994, as amended at 78 FR 65822, Nov. 1, 2013]

@@ -1,0 +1,3 @@
+##### § 422.905 Appeal rights. #####
+
+You may appeal our decision to ban you. You must submit your appeal in writing to the address identified in the notice within 60 days of the date of the notice. You should identify your name, address, Social Security number, and the office that issued the notice of the ban. The appeal should clearly state why we should reconsider our decision and provide any supporting documentation. We may allow an additional 10 days for the late filing of an appeal if you show good cause for the late filing. The ban will remain in effect while the appeal is pending. We will notify you of our decision in writing.

@@ -1,0 +1,3 @@
+##### § 726.211 Name of one employer only shall be given in each report. #####
+
+A separate report of the issuance or renewal of a policy and endorsement, provided for by § 726.208, shall be made for each operator covered by a policy. If a policy is issued or renewed insuring more than one operator, a separate report for each operator so covered shall be sent to the Office with the name of only one operator on each such report.

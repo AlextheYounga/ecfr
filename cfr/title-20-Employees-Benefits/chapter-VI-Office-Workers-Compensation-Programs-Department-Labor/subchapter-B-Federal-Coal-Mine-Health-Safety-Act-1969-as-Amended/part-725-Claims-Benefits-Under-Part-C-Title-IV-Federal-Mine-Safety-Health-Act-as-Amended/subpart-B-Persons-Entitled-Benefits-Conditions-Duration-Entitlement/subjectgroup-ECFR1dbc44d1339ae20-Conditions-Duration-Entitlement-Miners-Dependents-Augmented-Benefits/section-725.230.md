@@ -1,0 +1,3 @@
+##### § 725.230 Legal impediment. #####
+
+For purposes of this subpart, “legal impediment” means an impediment resulting from the lack of dissolution of a previous marriage or otherwise arising out of such previous marriage or its dissolution or resulting from a defect in the procedure followed in connection with the purported marriage ceremony—for example, the solemnization of a marriage only through a religious ceremony in a country which requires a civil ceremony for a valid marriage.

@@ -1,0 +1,7 @@
+##### § 404.1408 Compensation to be treated as wages. #####
+
+(a) *General.* Where pursuant to the preceding provisions of this subpart, services rendered by an individual in the railroad industry are considered to be employment as defined in section 210 of the Social Security Act (see § 404.1027 of this part). Thus, any compensation (as defined in section 1(h) of the Railroad Retirement Act of 1974 or prior to the 1974 Act, section 1(h) of the Railroad Retirement Act of 1937) received by such individual for such services shall constitute wages, provided that the provisions of § 404.1406 do not operate to bar the payments of benefits under title II of the Social Security Act.
+
+(b) *Military service exception.* An exception to paragraph (a) of this section applies to any compensation attributable as having been paid during any month on account of military service creditable under section 1 of the Railroad Retirement Act of 1974 (or section 4 of the Railroad Retirement Act of 1937 prior to the 1974 Act). Such compensation shall not constitute wages for purposes of title II of the Social Security Act if, based on such services, wages are deemed to have been paid to such individual during such month under the provisions described in §§ 404.1350 through 404.1352 of this part.
+
+[65 FR 16813, Mar. 30, 2000]

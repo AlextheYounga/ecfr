@@ -1,0 +1,5 @@
+##### § 641.340 How often must the Governor, or the highest government official, update the State Plan? #####
+
+(a) Under instructions issued by the Department, the Governor, or the highest government official, must review the State Plan and submit an update to the State Plan to the Secretary for consideration and approval not less often than every two years. OAA § 503(a)(1). States are encouraged to review their State Plan more frequently than every two years, however, and make modifications as circumstances warrant, under § 641.345.
+
+(b) Before development of the update to the State Plan, the Governor, or the highest government official, must seek the advice and recommendations of the individuals and organizations identified in § 641.315 about what, if any, changes are needed, and must publish the State Plan, showing the changes, for public comment. OAA § section 503(a)(2), 503(a)(3).

@@ -1,0 +1,3 @@
+##### § 403.140 If the Commissioner authorizes testimony, what will be the scope and form of that testimony? #####
+
+The employee's testimony must be limited to matters that were specifically approved. We will provide testimony in the form that is least burdensome to SSA unless you provide sufficient information in your application for SSA to justify a different form. For example, we will provide an affidavit or declaration rather than a deposition and a deposition rather than trial testimony.

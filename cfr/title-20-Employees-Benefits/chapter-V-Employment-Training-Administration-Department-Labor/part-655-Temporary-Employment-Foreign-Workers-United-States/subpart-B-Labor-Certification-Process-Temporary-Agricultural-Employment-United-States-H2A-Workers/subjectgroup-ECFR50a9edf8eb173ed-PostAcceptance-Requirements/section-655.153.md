@@ -1,0 +1,3 @@
+##### § 655.153 Contact with former U.S. employees. #####
+
+The employer must contact, by mail or other effective means, its former U.S. workers (except those who were dismissed for cause or who abandoned the worksite) employed by the employer in the occupation at the place of employment during the previous year and solicit their return to the job. This contact must occur during the period of time that the job order is being circulated by the SWA(s) for interstate clearance and documentation sufficient to prove contact must be maintained in the event of an audit.

@@ -1,0 +1,3 @@
+##### § 639.8 How is the notice served? #####
+
+Any reasonable method of delivery to the parties listed under § 639.6 of this part which is designed to ensure receipt of notice of least 60 days before separation is acceptable (e.g., first class mail, personal delivery with optional signed receipt). In the case of notification directly to affected employees, insertion of notice into pay envelopes is another viable option. A ticketed notice, *i.e.*, preprinted notice regularly included in each employee's pay check or pay envelope, does not meet the requirements of WARN.

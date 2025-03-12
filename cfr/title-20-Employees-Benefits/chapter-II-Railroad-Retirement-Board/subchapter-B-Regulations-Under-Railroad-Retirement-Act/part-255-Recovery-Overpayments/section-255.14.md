@@ -1,0 +1,3 @@
+##### § 255.14 Waiver not available when recovery can be made from accrual of social security benefits. #####
+
+Where the overpayment is the result of a reduction of benefits payable under the Railroad Retirement Act due to the overpaid individual's entitlement to social security benefits and recovery of such overpayment may be made by offset against an accrual of social security benefits, it shall not be considered to be against equity or good conscience or contrary to the purpose of the Railroad Retirement Act to recover the overpayment by offset against the accrual. Consequently, in such a case recovery of an overpayment is not subject to waiver consideration.

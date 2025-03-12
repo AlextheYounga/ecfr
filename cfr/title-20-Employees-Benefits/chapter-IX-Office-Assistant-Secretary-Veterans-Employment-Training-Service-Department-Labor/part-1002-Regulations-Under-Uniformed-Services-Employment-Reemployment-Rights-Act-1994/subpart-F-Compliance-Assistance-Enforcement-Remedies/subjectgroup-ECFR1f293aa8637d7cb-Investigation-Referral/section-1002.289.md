@@ -1,0 +1,5 @@
+##### § 1002.289 How will VETS investigate a USERRA complaint? #####
+
+(a) In carrying out any investigation, VETS has, at all reasonable times, reasonable access to and the right to interview persons with information relevant to the investigation. VETS also has reasonable access to, for purposes of examination, the right to copy and receive any documents of any person or employer that VETS considers relevant to the investigation.
+
+(b) VETS may require by subpoena the attendance and testimony of witnesses and the production of documents relating to any matter under investigation. In case of disobedience of or resistance to the subpoena, the Attorney General may, at VETS' request, apply to any district court of the United States in whose jurisdiction such disobedience or resistance occurs for an order enforcing the subpoena. The district courts of the United States have jurisdiction to order compliance with the subpoena, and to punish failure to obey a subpoena as a contempt of court. This paragraph does not authorize VETS to seek issuance of a subpoena to the legislative or judicial branches of the United States.

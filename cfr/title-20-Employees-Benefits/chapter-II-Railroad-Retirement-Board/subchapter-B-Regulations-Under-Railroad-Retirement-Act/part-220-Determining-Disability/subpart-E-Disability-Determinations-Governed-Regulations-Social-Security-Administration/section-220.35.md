@@ -1,0 +1,3 @@
+##### § 220.35 Introduction. #####
+
+In addition to its authority to decide whether a claimant is disabled under the Railroad Retirement Act, the Board has authority in certain instances to decide whether a claimant is disabled as that term is defined in the Social Security Act. In making these decisions the Board must apply the regulations of the Social Security Administration in the same manner as does the Secretary of Health and Human Services in making disability decisions under the Social Security Act. Regulations of the Social Security Administration concerning disability are found at part 404, subpart P of this title.

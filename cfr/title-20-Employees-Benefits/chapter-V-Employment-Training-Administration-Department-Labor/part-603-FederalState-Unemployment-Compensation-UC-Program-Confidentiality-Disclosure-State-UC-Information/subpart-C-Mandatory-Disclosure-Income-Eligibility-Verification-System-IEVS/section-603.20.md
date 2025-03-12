@@ -1,0 +1,9 @@
+##### § 603.20 What is the purpose and scope of this subpart? #####
+
+(a) *Purpose.* Subpart C implements Section 303(f), SSA. Section 303(f) requires States to have in effect an income and eligibility verification system, which meets the requirements of Section 1137, SSA, under which information is requested and exchanged for the purpose of verifying eligibility for, and the amount of, benefits available under several federally assisted programs, including the Federal-State UC program.
+
+(b) *Scope.* This subpart C applies only to a State UC agency.
+
+Note to paragraph (b):
+
+Although not implemented in this part 603, Section 1137(a)(1), SSA, provides that each State must require claimants for compensation to furnish to the State UC agency their social security account numbers, as a condition of eligibility for compensation, and further requires States to utilize such account numbers in the administration of the State UC laws. Section 1137(a)(3), SSA, further provides that employers must make quarterly wage reports to a State UC agency, or an alternative agency, for use in verifying eligibility for, and the amount of, benefits. Section 1137(d)(1), SSA, provides that each State must require claimants for compensation, as a condition of eligibility, to declare in writing, under penalty of perjury, whether the individual is a citizen or national of the United States, and, if not, that the individual is in a satisfactory immigration status. Other provisions of Section 1137(d), SSA, not implemented in this regulation require the States to obtain, and individuals to furnish, information which shows immigration status, and require the States to verify immigration status with the Bureau of Citizenship and Immigration Services.

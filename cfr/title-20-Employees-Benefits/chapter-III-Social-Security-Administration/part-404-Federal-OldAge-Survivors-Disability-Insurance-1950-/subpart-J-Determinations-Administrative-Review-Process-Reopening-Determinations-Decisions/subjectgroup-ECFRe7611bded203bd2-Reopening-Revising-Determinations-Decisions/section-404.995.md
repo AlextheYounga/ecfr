@@ -1,0 +1,3 @@
+##### § 404.995 Finality of findings when later claim is filed on same earnings record. #####
+
+If two claims for benefits are filed on the same earnings records, findings of fact made in a determination on the first claim may be revised in determining or deciding the second claim, even though the time limit for revising the findings made in the first claim has passed. However, a finding in connection with a claim that a person was fully or currently insured at the time of filing an application, at the time of death, or any other pertinent time, may be revised only under the conditions stated in § 404.988.

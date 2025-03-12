@@ -1,0 +1,3 @@
+##### § 404.981 Effect of Appeals Council's decision or denial of review. #####
+
+The Appeals Council may deny a party's request for review or it may decide to review a case and make a decision. The Appeals Council's decision, or the decision of the administrative law judge if the request for review is denied, is binding unless you or another party file an action in Federal district court, or the decision is revised. You may file an action in a Federal district court within 60 days after the date you receive notice of the Appeals Council's action.

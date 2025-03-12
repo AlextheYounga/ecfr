@@ -1,0 +1,3 @@
+##### § 681.610 Does the Workforce Innovation and Opportunity Act require Local Workforce Development Boards to offer summer employment opportunities in the local youth program? #####
+
+No, WIOA does not require Local WDBs to offer summer youth employment opportunities as summer employment is no longer its own program element under WIOA. However, WIOA does require Local WDBs to offer work experience opportunities using at least 20 percent of their funding, which may include summer employment.

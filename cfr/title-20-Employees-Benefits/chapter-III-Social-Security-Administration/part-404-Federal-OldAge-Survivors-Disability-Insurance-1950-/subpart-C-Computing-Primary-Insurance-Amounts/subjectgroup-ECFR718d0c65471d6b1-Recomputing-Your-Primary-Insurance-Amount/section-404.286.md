@@ -1,0 +1,3 @@
+##### § 404.286 How to request an immediate recomputation. #####
+
+You may request that your primary insurance amount be recomputed sooner than it would be recomputed automatically. To do so, you must make the request in writing to us and provide acceptable evidence of your earnings not included in the first computation or earlier recomputation of your primary insurance amount. If doing so will increase your primary insurance amount, we will recompute it. However, we cannot begin paying higher benefits on the recomputed primary insurance amount any sooner than we could under an automatic recomputation, *i.e.*, for January of the year following the year in which the earnings were paid or derived.

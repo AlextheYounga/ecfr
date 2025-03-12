@@ -1,0 +1,5 @@
+##### § 661.120 What are the roles of the local and State governmental partner in the governance of the workforce investment system? #####
+
+(a) Local areas should establish policies, interpretations, guidelines and definitions to implement provisions of title I of WIA to the extent that such policies, interpretations, guidelines and definitions are not inconsistent with the Act and the regulations issued under the Act, Federal statutes and regulations governing One-Stop partner programs, and with State policies.
+
+(b) States should establish policies, interpretations, guidelines and definitions to implement provisions of title I of WIA to the extent that such policies, interpretations, guidelines and definitions are not inconsistent with the Act and the regulations issued under the Act, as well as Federal statutes and regulations governing One-Stop partner programs.

@@ -1,0 +1,11 @@
+##### § 655.800 Who will enforce the LCAs and how will they be enforced? #####
+
+(a) *Authority of Administrator.* Except as provided in § 655.807, the Administrator shall perform all the Secretary's investigative and enforcement functions under sections 212(n) and (t) of the INA (8 U.S.C. 1182(n) and (t)) and this subpart I and subpart H of this part.
+
+(b) *Conduct of investigations.* The Administrator, either pursuant to a complaint or otherwise, shall conduct such investigations as may be appropriate and, in connection therewith, enter and inspect such places and such records (and make transcriptions or copies thereof), question such persons and gather such information as deemed necessary by the Administrator to determine compliance regarding the matters which are the subject of the investigation.
+
+(c) *Employer cooperation/availability of records.* An employer shall at all times cooperate in administrative and enforcement proceedings. An employer being investigated shall make available to the Administrator such records, information, persons, and places as the Administrator deems appropriate to copy, transcribe, question, or inspect. No employer subject to the provisions of sections 212(n) or (t) of the INA and/or this subpart I or subpart H of this part shall interfere with any official of the Department of Labor performing an investigation, inspection or law enforcement function pursuant to 8 U.S.C. 1182(n) or (t) or this subpart I or subpart H of this part. Any such interference shall be a violation of the labor condition application and this subpart I and subpart H of this part, and the Administrator may take such further actions as the Administrator considers appropriate. (Federal criminal statutes prohibit certain interference with a Federal officer in the performance of official duties. 18 U.S.C. 111 and 18 U.S.C. 1114.)
+
+(d) *Confidentiality.* The Administrator shall, to the extent possible under existing law, protect the confidentiality of any person who provides information to the Department in confidence in the course of an investigation or otherwise under this subpart I or subpart H of this part.
+
+[65 FR 80233, Dec. 20, 2000, as amended at 69 FR 68228, Nov. 23, 2004]

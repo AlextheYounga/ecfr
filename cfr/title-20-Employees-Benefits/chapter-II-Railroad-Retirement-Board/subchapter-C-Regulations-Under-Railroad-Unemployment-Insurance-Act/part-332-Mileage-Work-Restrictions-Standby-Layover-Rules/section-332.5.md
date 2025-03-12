@@ -1,0 +1,5 @@
+##### § 332.5 Equivalent of full-time work. #####
+
+An employee who has the equivalent of full-time work with respect to service on days within a registration period is not eligible for unemployment benefits for any non-work days within such registration period. In determining whether an employee has the equivalent of full-time work, the Board will consider the provisions of labor-management agreements that prescribe the number of miles or hours of credit constituting a basic work day, week, or month in the employee's occupation or service. The Board will consider that an employee had the equivalent of full-time work if the number of miles or hours credited to the employee for service in the registration period is at least 10 times the number of miles or hours constituting a basic day in the employee's occupation or service. For this purpose, any miles or hours of credit not earned because the employee missed his or her turn and any penalty miles assessed to the employee shall be added to the miles or hours of credit actually earned on the basis of service on days within the registration period.
+
+[55 FR 1813, Jan. 19, 1990]

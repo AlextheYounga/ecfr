@@ -1,0 +1,3 @@
+##### § 725.506 Payment on behalf of another; “legal guardian” defined. #####
+
+Benefits are paid only to the beneficiary, his or her representative payee (see § 725.510) or his or her legal guardian. As used in this section, “legal guardian” means an individual who has been appointed by a court of competent jurisdiction or otherwise appointed pursuant to law to assume control of and responsibility for the care of the beneficiary, the management of his or her estate, or both.

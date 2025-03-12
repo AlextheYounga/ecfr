@@ -1,0 +1,5 @@
+##### § 260.2 Initial decisions on the amount of service and compensation credited to an employee. #####
+
+Within 30 days after receipt of a timely request by an employee for amendment with respect to the number of service months and amount of compensation credited to the employee by the Board under the Railroad Retirement Act and the Railroad Unemployment Insurance Act, the Board shall appoint a qualified employee to make a determination with respect to such matter. The employee appointed by the Board shall promptly render a decision. Written notice of such decision shall be communicated to the employee within 30 days after such decision is made. Such decision shall include notification of the employee's right to reconsideration of the initial decision as provided in § 260.3. For purposes of this section, a timely request to amend an employee's record of service months and compensation maintained under the Railroad Retirement Act shall be filed within four years after the date on which the report of service months and compensation was required to be made to the Board by the employee's employer. See § 211.16 of this chapter.
+
+[67 FR 77153, Dec. 17, 2002]

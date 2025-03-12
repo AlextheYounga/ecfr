@@ -1,0 +1,3 @@
+##### § 220.47 Purchase of existing medical evidence. #####
+
+The Board needs specific medical evidence to determine whether a claimant is disabled. The claimant is responsible for providing that evidence. However, at its discretion, the Board will pay the reasonable cost to obtain medical evidence that it needs and requests from physicians not employed by the Federal government and other non-Federal providers of medical services.

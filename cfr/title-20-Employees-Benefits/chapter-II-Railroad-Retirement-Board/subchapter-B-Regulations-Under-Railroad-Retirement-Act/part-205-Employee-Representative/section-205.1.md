@@ -1,0 +1,3 @@
+##### § 205.1 Introduction. #####
+
+This part sets out the various factors considered in determining an individual's status as an employee representative under section 1(b)(1) of the Railroad Retirement Act, and discusses the procedure for reporting and crediting of compensation and service as an employee representative under that Act. An employee representative is considered to be a covered employee under the provisions of the Railroad Retirement Act.

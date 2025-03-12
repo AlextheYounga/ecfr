@@ -1,0 +1,3 @@
+##### § 1002.119 To whom must the employee submit the application for reemployment? #####
+
+The application must be submitted to the pre-service employer or to an agent or representative of the employer who has apparent responsibility for receiving employment applications. Depending upon the circumstances, such a person could be a personnel or human resources officer, or a first-line supervisor. If there has been a change in ownership of the employer, the application should be submitted to the employer's successor-in-interest.

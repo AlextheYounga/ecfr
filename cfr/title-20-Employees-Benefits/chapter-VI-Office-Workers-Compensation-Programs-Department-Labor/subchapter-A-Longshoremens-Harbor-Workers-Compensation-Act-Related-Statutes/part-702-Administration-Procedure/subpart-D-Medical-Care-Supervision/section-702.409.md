@@ -1,0 +1,3 @@
+##### § 702.409 Evaluation of medical questions; results disputed. #####
+
+Any party who is dissatisfied with such report may request a review or reexamination of the employee by one or more different physicians employed by or selected by the Director, and such review or reexamination shall be granted unless it is found that it is clearly unwarranted. Such review shall be completed within 2 weeks from the date ordered unless it is impossible to complete the review and render a report thereon within such time period. Upon receipt of the report of this additional review and reexamination, such action as may be appropriate shall forthwith be taken.

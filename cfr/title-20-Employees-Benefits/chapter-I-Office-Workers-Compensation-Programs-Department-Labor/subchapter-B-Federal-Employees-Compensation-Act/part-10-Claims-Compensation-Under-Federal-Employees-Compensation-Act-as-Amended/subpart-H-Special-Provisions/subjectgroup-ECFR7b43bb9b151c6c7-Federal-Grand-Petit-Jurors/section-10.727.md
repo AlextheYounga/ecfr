@@ -1,0 +1,3 @@
+##### § 10.727 What is the pay rate of jurors for compensation purposes? #####
+
+For the purpose of computing compensation payable for disability or death, a juror is deemed to receive pay at the minimum rate for Grade GS-2 of the General Schedule unless his or her actual pay as an “employee” of the United States while serving on court leave is higher, in which case the pay rate for compensation purposes is determined in accordance with 5 U.S.C. 8114.

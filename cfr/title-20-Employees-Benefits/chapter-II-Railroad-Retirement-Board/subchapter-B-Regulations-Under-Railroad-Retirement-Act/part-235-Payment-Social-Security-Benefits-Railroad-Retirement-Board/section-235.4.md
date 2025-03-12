@@ -1,0 +1,5 @@
+##### § 235.4 How the Board pays social security benefits. #####
+
+(a) When an individual described in § 235.3 of this part is determined by the Social Security Administration to be entitled to social security benefits, the Social Security Administration certifies such benefits to the Board for payment by the Board. Once social security entitlement is certified to the Board, the Board then certifies the amount of the social security benefit to the Department of the Treasury for payment and makes any necessary adjustments in the individual's railroad retirement benefit.
+
+(b) The Board has no authority with respect to the adjudication of the benefit to be paid under the Social Security Act. Entitlement to and the computation of such benefits is a matter solely within the jurisdiction of the Social Security Administration.

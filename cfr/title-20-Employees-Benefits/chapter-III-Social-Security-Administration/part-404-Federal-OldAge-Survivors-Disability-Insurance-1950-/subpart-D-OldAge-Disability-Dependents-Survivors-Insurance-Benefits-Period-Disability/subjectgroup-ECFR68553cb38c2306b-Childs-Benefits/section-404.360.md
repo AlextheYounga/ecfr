@@ -1,0 +1,3 @@
+##### § 404.360 When a child is dependent upon the insured person. #####
+
+One of the requirements for entitlement to child's benefits is that you be dependent upon the insured. The evidence you need to prove your dependency is determined by how you are related to the insured. To prove your dependency you may be asked to show that at a specific time you lived with the insured, that you received contributions for your support from the insured, or that the insured provided at least one-half of your support. These dependency requirements, and the time at which they must be met, are explained in §§ 404.361 through 404.365. The terms *living with, contributions for support,* and *one-half support* are defined in § 404.366.

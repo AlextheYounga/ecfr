@@ -1,0 +1,3 @@
+##### § 901.52 Effect of suspension, termination or resignation of enrollment; surrender of enrollment certificate. #####
+
+If the respondent's enrollment is suspended, the respondent shall not thereafter be permitted to perform actuarial services under ERISA during the period of suspension. If the respondent's enrollment is terminated, the respondent shall not thereafter be permitted to perform actuarial serv- ices under ERISA unless and until authorized to do so by the Executive Director pursuant to § 901.54. The respondent shall surrender his/her enrollment certificate to the Executive Director for cancellation in the case of a termination or resignation of enrollment or for retention during a period of suspension.

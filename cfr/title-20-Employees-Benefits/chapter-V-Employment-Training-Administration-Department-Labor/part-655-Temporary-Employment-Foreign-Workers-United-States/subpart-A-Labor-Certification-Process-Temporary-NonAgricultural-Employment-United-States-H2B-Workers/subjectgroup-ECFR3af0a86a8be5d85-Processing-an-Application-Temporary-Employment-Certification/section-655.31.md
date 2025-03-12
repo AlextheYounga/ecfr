@@ -1,0 +1,13 @@
+##### § 655.31 Notice of deficiency. #####
+
+(a) *Notification timeline.* If the CO determines the *Application for Temporary Employment Certification* and/or job order is incomplete, contains errors or inaccuracies, or does not meet the requirements set forth in this subpart, the CO will notify the employer within 7 business days from the CO's receipt of the *Application for Temporary Employment Certification.* If applicable, the Notice of Deficiency will include job order deficiencies identified by the SWA under § 655.16. The CO will send a copy of the Notice of Deficiency to the SWA serving the area of intended employment identified by the employer on its job order, and if applicable, to the employer's attorney or agent.
+
+(b) *Notice content.* The Notice of Deficiency will:
+
+(1) State the reason(s) why the *Application for Temporary Employment Certification* or job order fails to meet the criteria for acceptance and state the modification needed for the CO to issue a Notice of Acceptance;
+
+(2) Offer the employer an opportunity to submit a modified *Application for Temporary Employment Certification* or job order within 10 business days from the date of the Notice of Deficiency. The Notice will state the modification needed for the CO to issue a Notice of Acceptance;
+
+(3) Offer the employer an opportunity to request administrative review of the Notice of Deficiency before an ALJ under provisions set forth in § 655.61. The Notice will inform the employer that it must submit a written request for review to the Chief ALJ of DOL within 10 business days from the date the Notice of Deficiency is issued by facsimile or other means normally assuring next day delivery, and that the employer must simultaneously serve a copy on the CO. The Notice will also state that the employer may submit any legal arguments that the employer believes will rebut the basis of the CO's action; and
+
+(4) State that if the employer does not comply with the requirements of this section by either submitting a modified application within 10 business days or requesting administrative review before an ALJ under § 655.61, the CO will deny the *Application for Temporary Employment Certification.* The Notice will inform the employer that the denial of the *Application for Temporary Employment Certification* is final, and cannot be appealed. The Department of Labor will not further consider that *Application for Temporary Employment Certification.*

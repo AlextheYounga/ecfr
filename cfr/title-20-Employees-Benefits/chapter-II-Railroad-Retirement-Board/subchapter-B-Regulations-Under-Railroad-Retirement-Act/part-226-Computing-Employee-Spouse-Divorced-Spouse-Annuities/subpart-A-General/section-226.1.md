@@ -1,0 +1,3 @@
+##### § 226.1 Introduction. #####
+
+This part explains how employee, spouse, and divorced spouse annuities are computed. It describes how to determine the years of railroad service and average monthly compensation used in computing the employee annuity rate. The railroad retirement family maximum, cost-of-living increases, and the recomputation of an annuity to include additional railroad earnings are also explained in this part.

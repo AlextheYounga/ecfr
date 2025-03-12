@@ -1,0 +1,3 @@
+##### § 602.42 Effect of failure to implement Quality Control program. #####
+
+Any State which the Secretary finds, after reasonable notice and opportunity for hearing, has not implemented or maintained a QC program in accordance with this part will not be eligible for any grants under title III of the Social Security Act until such time as the Secretary is satisfied that there is no longer any failure to conform or to comply substantially with any provision specified in this part. See sections 303(a)(1), 303(a)(6), and 303(b)(2), SSA, and 20 CFR 601.5.

@@ -1,0 +1,3 @@
+##### § 418.3105 Who does not need to file an application for a subsidy? #####
+
+Regulations in 42 CFR 423.773(c) explain who is deemed eligible and does not need to file an application for a subsidy to be eligible for this assistance. Full-benefit dual eligible beneficiaries are in this category. If beneficiaries have deemed eligibility status because they receive Medicaid coverage, are enrolled in a Medicare Savings Program within their State, or receive SSI and have Medicare, then their subsidy is effective with the first month they have deemed eligibility status.

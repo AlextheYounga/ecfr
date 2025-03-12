@@ -1,0 +1,3 @@
+##### § 204.7 Employment relation—service to a local lodge or division of a railway labor organization. #####
+
+Service by an individual to a local lodge or division of a railway labor organization shall be creditable under the Railroad Retirement Act only if, prior to such service, and on or after August 29, 1935, such individual performed compensated service for a carrier employer under part 202 of this chapter or was in an employment relation to such a carrier employer under the rules set forth in § 204.3 of this part.

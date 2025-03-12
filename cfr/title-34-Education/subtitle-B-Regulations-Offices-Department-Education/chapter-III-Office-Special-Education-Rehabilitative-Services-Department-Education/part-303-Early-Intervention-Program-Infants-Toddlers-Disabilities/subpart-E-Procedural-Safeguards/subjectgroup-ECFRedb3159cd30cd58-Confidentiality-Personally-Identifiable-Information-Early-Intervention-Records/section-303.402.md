@@ -1,0 +1,5 @@
+##### § 303.402 Confidentiality. #####
+
+The Secretary takes appropriate action, in accordance with section 444 of GEPA, to ensure the protection of the confidentiality of any personally identifiable data, information, and records collected, maintained, or used by the Secretary and by lead agencies and EIS providers pursuant to part C of the Act, and consistent with §§ 303.401 through 303.417. The regulations in §§ 303.401 through 303.417 ensure the protection of the confidentiality of any personally identifiable data, information, and records collected or maintained pursuant to this part by the Secretary and by participating agencies, including the State lead agency and EIS providers, in accordance with the Family Educational Rights and Privacy Act (FERPA), 20 U.S.C. 1232g, and 34 CFR part 99.
+
+(Authority: 20 U.S.C. 1417(c), 1435(a)(5), 1439(a)(2), 1442)

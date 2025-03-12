@@ -1,0 +1,3 @@
+##### § 404.287 Waiver of recomputation. #####
+
+If you or your family would be disadvantaged in some way by a recomputation of your primary insurance amount, or you and every member of your family do not want your primary insurance amount to be recomputed for any other reason, you may waive (that is, give up your right to) a recomputation, but you must do so in writing. That you waive one recomputation, however, does not mean that you also waive future recomputations for which you might be eligible.

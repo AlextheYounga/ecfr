@@ -1,0 +1,5 @@
+##### § 345.112 Final contribution reports. #####
+
+Upon termination of employer status, as determined under part 301 of this chapter, the last contribution report of the employer shall be so indicated by checking the box on the Form DC-1 entitled “Final Report”. Such contribution report shall be filed with the Board on or before the sixtieth day after the final date for which there is payable compensation with respect to which contribution is required. The period covered by each such contribution report shall be plainly written thereon, indicating the final date for which compensation is payable. There shall be executed as part of each such final contribution report a statement giving the address at which compensation records will be kept and the name of the person keeping the records.
+
+(Approved by the Office of Management and Budget under control number 3220-0012)

@@ -1,0 +1,3 @@
+##### § 366.3 Reasonable attempt to notify. #####
+
+In order to constitute a reasonable attempt to notify the debtor the Board must have used a mailing address for the debtor obtained from the Internal Revenue Service pursuant to section 6103 (m)(2) or (m)(4) of the Internal Revenue Code within a period of one year preceding the attempt to notify the debtor, whether or not the Board has used any other address maintained by the Board for the debtor.

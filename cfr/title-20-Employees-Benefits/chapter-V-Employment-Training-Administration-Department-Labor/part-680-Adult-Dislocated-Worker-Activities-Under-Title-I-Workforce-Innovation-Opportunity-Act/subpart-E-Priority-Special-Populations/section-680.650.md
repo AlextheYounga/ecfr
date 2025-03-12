@@ -1,0 +1,3 @@
+##### § 680.650 Do veterans receive priority of service under the Workforce Innovation and Opportunity Act? #####
+
+Yes, veterans, as defined under WIOA sec. 3(63)(A) and 38 U.S.C. 101, receive priority of service in all Department of Labor-funded training programs under 38 U.S.C. 4215 and described in 20 CFR part 1010. A veteran still must meet each program's eligibility criteria to receive services under the respective employment and training program. For income-based eligibility determinations, amounts paid while on active duty or paid by the Department of Veterans Affairs (VA) for vocational rehabilitation, disability payments, or related VA-funded programs are not to be considered as income, in accordance with 38 U.S.C. 4213 and § 683.230 of this chapter.

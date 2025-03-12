@@ -1,0 +1,3 @@
+##### § 618.930 Second distribution. #####
+
+The Department will distribute at least 90 percent of the total training funds for a fiscal year to the States no later than July 15 of that fiscal year. The Department will first fund all acceptable requests for reserve funds filed before June 1. If there are any funds remaining to be distributed after these reserve fund requests are satisfied, those funds will be distributed to those States that received an initial allocation in an amount greater than their hold harmless amount, using the methodology described in § 618.910.

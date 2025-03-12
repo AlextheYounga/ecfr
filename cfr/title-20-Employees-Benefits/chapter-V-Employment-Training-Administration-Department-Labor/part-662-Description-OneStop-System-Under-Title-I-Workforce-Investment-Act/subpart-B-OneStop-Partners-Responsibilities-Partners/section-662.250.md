@@ -1,0 +1,11 @@
+##### § 662.250 Where and to what extent must required One-Stop partners make core services available? #####
+
+(a) At a minimum, the core services that are applicable to the program of the partner under § 662.220, and that are in addition to the basic labor exchange services traditionally provided in the local area under the Wagner-Peyser program, must be made available at the comprehensive One-Stop center. These services must be made available to individuals attributable to the partner's program who seek assistance at the center. The adult and dislocated worker program partners are required to make all of the core services listed in § 662.240 available at the center in accordance with 20 CFR 663.100(b)(1).
+
+(b) The applicable core services may be made available by the provision of appropriate technology at the comprehensive One-Stop center, by co-locating personnel at the center, cross-training of staff, or through a cost reimbursement or other agreement between service providers at the comprehensive One-Stop center and the partner, as described in the MOU.
+
+(c) The responsibility of the partner for the provision of core services must be proportionate to the use of the services at the comprehensive One-Stop center by the individuals attributable to the partner's program. The specific method of determining each partner's proportionate responsibility must be described in the MOU.
+
+(d) For purposes of this part, individuals attributable to the partner's program may include individuals who are referred through the comprehensive One-Stop center and enrolled in the partner's program after the receipt of core services, who have been enrolled in the partner's program prior to receipt of the applicable core services at the center, who meet the eligibility criteria for the partner's program and who receive an applicable core service, or who meet an alternative definition described in the MOU.
+
+(e) Under the MOU, the provision of applicable core services at the center by the One-Stop partner may be supplemented by the provision of such services through the networks of affiliated sites and networks of One-Stop partners described in WIA section 134(c)(2).

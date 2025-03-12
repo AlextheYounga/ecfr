@@ -1,0 +1,5 @@
+##### § 725.522 Payments prior to final adjudication. #####
+
+(a) If an operator or carrier fails or refuses to commence the payment of benefits within 30 days of issuance of an initial determination of eligibility by the district director (see § 725.420), or fails or refuses to commence the payment of any benefits due pursuant to an effective order by a district director, administrative law judge, Benefits Review Board, or court, the fund shall commence the payment of such benefits and shall continue such payments as appropriate. In the event that the fund undertakes the payment of benefits on behalf of an operator or carrier, the provisions of §§ 725.601 through 725.609 shall be applicable to such operator or carrier.
+
+(b) If benefit payments are commenced prior to the final adjudication of the claim and it is later determined by an administrative law judge, the Board, or court that the claimant was ineligible to receive such payments, such payments shall be considered overpayments pursuant to § 725.540 and may be recovered in accordance with the provisions of this subpart.

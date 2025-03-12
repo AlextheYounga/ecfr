@@ -1,0 +1,3 @@
+##### § 722.1 Purpose. #####
+
+Section 421 of the Black Lung Benefits Act provides that a claim for benefits based on the total disability or death of a coal miner due to pneumoconiosis must be filed under a State workers' compensation law where such law provides adequate coverage for pneumoconiosis. A State workers' compensation law may be deemed to provide adequate coverage only when it is included on a list of such laws maintained by the Secretary. The purpose of this part is to set forth the procedures and criteria for inclusion on that list, and to provide that list.

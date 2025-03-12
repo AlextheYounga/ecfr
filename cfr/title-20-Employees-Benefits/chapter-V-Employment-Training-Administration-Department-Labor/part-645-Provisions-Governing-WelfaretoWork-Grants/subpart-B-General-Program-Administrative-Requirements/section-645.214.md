@@ -1,0 +1,11 @@
+##### § 645.214 How will Welfare-to-Work participant eligibility be determined? #####
+
+(a) The operating entity, as described in § 645.210(a)(1), (b)(1), and (c)(1) of this subpart, is accountable for ensuring that WtW funds are spent only on individuals eligible for WtW projects.
+
+(b) The operating entity must ensure that there are mechanisms in place to determine WtW eligibility for individuals who are receiving TANF assistance. These mechanisms:
+
+(1) Must include arrangements with the TANF agency to ensure that a WtW eligibility determination is based on information, current at the time of the WtW eligibility determination, about whether an individual is receiving TANF assistance, the length of receipt of TANF assistance, and when an individual may become ineligible for assistance, pursuant to §§ 645.212 and 645.213 of this part (section 403(a)(5)(I)(A)(ii)(dd)).
+
+(2) May include a determination of WtW eligibility for characteristics of long-term welfare dependence and for significant barriers to self-sufficiency under § 645.213(a) of this subpart, based on information collected by the operating entity and/or the TANF agency up to six months prior to the WtW eligibility determination.
+
+(c) The operating entity must ensure that there are mechanisms in place to determine WtW eligibility for individuals who have reached the time limit on receipt of TANF, under § 645.212(b) of this subpart; individuals who are not receiving TANF assistance (*i.e.*, noncustodial parents under § 645.212(c) of this subpart; individuals who are former foster care recipients under § 645.213(b) of this subpart, and low-income custodial parents under § 645.213(c) of this subpart). The mechanisms for establishing noncustodial parent eligibility must include a process for applying the preference required under § 645.215(a) of this subpart, and may include an objective standard to be used as a presumptive determination for establishing the eligibility of the minor child for the programs specified in § 645.212(c)(2)(iv) of this subpart.

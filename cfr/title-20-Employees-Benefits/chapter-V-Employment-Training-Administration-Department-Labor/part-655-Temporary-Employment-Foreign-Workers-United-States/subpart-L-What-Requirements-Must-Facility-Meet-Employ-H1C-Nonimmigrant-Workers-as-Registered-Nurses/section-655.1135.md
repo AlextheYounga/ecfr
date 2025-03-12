@@ -1,0 +1,29 @@
+##### § 655.1135 What appeals procedures are available concerning ETA's actions on a facility's Attestation? #####
+
+(a) *Appeals of acceptances or rejections.* Any interested party may appeal ETA's acceptance or rejection of an Attestation submitted by a facility for filing. However, such an appeal shall be limited to ETA's determination on one or more of the attestation elements for which ETA conducts a substantive review (as described in § 655.1130(a)). Such appeal must be filed no later than 30 days after the date of the acceptance or rejection, and will be considered under the procedures set forth at paragraphs (d) and (f) of this section.
+
+(b) *Appeal of invalidation or suspension.* An interested party may appeal ETA's invalidation or suspension of a filed Attestation due to a discovery by ETA that it made an error in its review of the Attestation, as described in § 655.1132.
+
+(c) *Parties to the appeal.* In the case of an appeal of an acceptance, the facility will be a party to the appeal; in the case of the appeal of a rejection, invalidation, or suspension, the collective bargaining representative (if any) representing nurses at the facility shall be a party to the appeal. Appeals shall be in writing; shall set forth the grounds for the appeal; shall state if *de novo* consideration by BALCA is requested; and shall be mailed by certified mail within 30 calendar days of the date of the action from which the appeal is taken (*i.e.,* the acceptance, rejection, suspension or invalidation of the Attestation).
+
+(d) *Where to file appeals.* Appeals made under this section must be in writing and must be mailed by certified mail to: U.S. Department of Labor, Employment and Training Administration, Office of Foreign Labor Certification, Chicago National Processing Center, 536 South Clark Street, Chicago, IL 60605-1509.
+
+(e) *Transmittal of the case file to BALCA.* Upon receipt of an appeal under this section, the Certifying Office shall send to BALCA a certified copy of the ETA case file, containing the Attestation and supporting documentation and any other information or data considered by ETA in taking the action being appealed. The administrative law judge chairing BALCA shall assign a panel of one or more administrative law judges who serve on BALCA to review the record for legal sufficiency and to consider and rule on the appeal.
+
+(f) *Consideration on the record; de novo hearings.* BALCA may not remand, dismiss, or stay the case, except as provided in paragraph (h) of this section, but may otherwise consider the appeal on the record or in a *de novo* hearing (on its own motion or on a party's request). Interested parties and *amici* curiae may submit briefs in accordance with a schedule set by BALCA. The ETA official who made the determination which was appealed will be represented by the Associate Solicitor for Employment and Training Legal Services, Office of the Solicitor, Department of Labor, or the Associate Solicitor's designee. If BALCA determines to hear the appeal on the record without a *de novo* hearing, BALCA shall render a decision within 30 calendar days after BALCA's receipt of the case file. If BALCA determines to hear the appeal through a *de novo* hearing, the procedures contained in 29 CFR part 18 will apply to such hearings, except that:
+
+(1) The appeal will not be considered to be a complaint to which an answer is required.
+
+(2) BALCA shall ensure that, at the request of the appellant, the hearing is scheduled to take place within a reasonable period after BALCA's receipt of the case file (see also the time period described in paragraph (f)(4) of this section).
+
+(3) Technical rules of evidence, such as the Federal Rules of Evidence and subpart B of the Rules of Practice and Procedure for Administrative Hearings Before the Office of Administrative Law Judges (29 CFR part 18, subpart B), will not apply to any hearing conducted pursuant to this subpart, but rules or principles designed to assure production of the most credible evidence available, and to subject testimony to test by cross-examination, shall be applied where reasonably necessary by BALCA in conducting the hearing. BALCA may exclude irrelevant, immaterial, or unduly repetitious evidence. The certified copy of the case file transmitted to BALCA by the Certifying Officer must be made part of the evidentiary record of the case and need not be moved into evidence.
+
+(4) BALCA's decision shall be rendered within 120 calendar days after BALCA's receipt of the case file.
+
+(g) *Dismissals and stays.* If BALCA determines that the appeal is solely a question of misrepresentation by the facility or is solely a complaint of the facility's nonperformance of the Attestation, BALCA shall dismiss the case and refer the matter to the Administrator, Wage and Hour Division, for action under subpart M. If BALCA determines that the appeal is partially a question of misrepresentation by the facility, or is partially a complaint of the facility's nonperformance of the Attestation, BALCA shall refer the matter to the Administrator, Wage and Hour Division, for action under subpart M of this part and shall stay BALCA consideration of the case pending final agency action on such referral. During such stay, the 120-day period described in paragraph (f)(1)(iv) of this section shall be suspended.
+
+(h) *BALCA's decision.* After consideration on the record or a *de novo* hearing, BALCA shall either affirm or reverse ETA's decision, and shall so notify the appellant; and any other parties.
+
+(i) *Decisions on Attestations.* With respect to an appeal of the acceptance, rejection, suspension or invalidation of an Attestation, the decision of BALCA shall be the final decision of the Secretary, and no further review shall be given to the matter by any DOL official.
+
+[65 FR 51149, Aug. 22, 2000, as amended at 75 FR 10406, Mar. 5, 2010]

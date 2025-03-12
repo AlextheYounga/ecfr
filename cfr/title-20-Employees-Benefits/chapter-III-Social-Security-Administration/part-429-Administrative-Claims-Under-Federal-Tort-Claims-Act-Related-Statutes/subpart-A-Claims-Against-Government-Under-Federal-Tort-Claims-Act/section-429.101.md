@@ -1,0 +1,5 @@
+##### § 429.101 What is this subpart about? #####
+
+(a) This subpart applies only to claims filed under the Federal Tort Claims Act, as amended, 28 U.S.C. 2671-2680 (FTCA), for money damages against the United States for damage to or loss of property or personal injury or death that is caused by the negligent or wrongful act or omission of an employee of the Social Security Administration (SSA). The loss, damage, injury or death must be caused by the employee in the performance of his or her official duties, under circumstances in which the United States, if a private person, would be liable in accordance with the law of the place where the act or omission occurred. This subpart does not apply to any tort claims excluded from the FTCA under 28 U.S.C. 2680.
+
+(b) This subpart is subject to and consistent with the regulations on administrative claims under the FTCA issued by the Attorney General at 28 CFR part 14.

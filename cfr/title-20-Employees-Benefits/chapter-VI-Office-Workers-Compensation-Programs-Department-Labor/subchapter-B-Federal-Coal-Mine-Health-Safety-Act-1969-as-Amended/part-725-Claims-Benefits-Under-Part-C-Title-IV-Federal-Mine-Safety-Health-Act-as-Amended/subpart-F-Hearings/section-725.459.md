@@ -1,0 +1,9 @@
+##### § 725.459 Witness fees. #####
+
+(a) A witness testifying at a hearing before an administrative law judge, or whose deposition is taken, shall receive the same fees and mileage as witnesses in courts of the United States. If the witness is an expert, he or she shall be entitled to an expert witness fee. Except as provided in paragraphs (b) and (c) of this section, such fees shall be paid by the proponent of the witness.
+
+(b) If the witness' proponent does not intend to call the witness to appear at a hearing or deposition, any other party may subpoena the witness for cross-examination. The administrative law judge (ALJ) shall authorize the least intrusive and expensive means of cross-examination as the ALJ deems appropriate and necessary to the full and true disclosure of the facts. If such witness is required to attend the hearing, give a deposition or respond to interrogatories for cross-examination purposes, the proponent of the witness shall pay the witness' fee. The fund shall remain liable for any costs associated with the cross-examination of the physician who performed the complete pulmonary evaluation pursuant to § 725.406.
+
+(c) If a claimant is determined entitled to benefits, there may be assessed as costs against a responsible operator, if any, or the fund, fees and mileage for necessary witnesses attending the hearing at the request of the claimant. Both the necessity for the witness and the reasonableness of the fees of any expert witness shall be approved by the administrative law judge. The amounts awarded against a responsible operator or the fund as attorney's fees, or costs, fees and mileage for witnesses, shall not in any respect affect or diminish benefits payable under the Act.
+
+[65 FR 80054, Dec. 20, 2000, as amended at 68 FR 69935, Dec. 15, 2003]

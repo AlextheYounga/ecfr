@@ -1,0 +1,5 @@
+##### § 219.3 When evidence is required. #####
+
+(a) *To prove initial eligibility.* The Board will ask for evidence to prove a claimant is eligible for benefits when he or she applies for benefits. Usually the Board will ask the claimant to furnish specific kinds of evidence or information by a certain date to prove initial eligibility for benefits. If evidence or information is not received by that date, the Board may decide that the claimant is not eligible for benefits and will deny his or her application.
+
+(b) *To prove continued entitlement.* After a claimant establishes entitlement to an annuity, the Board may ask that annuitant to produce by a certain date information or evidence needed to decide whether he or she may continue to receive an annuity or whether the annuity should be reduced or stopped. If the information is not received by the date specified, the Board may decide that the person is no longer entitled to benefits or that his or her annuity should be stopped or reduced.

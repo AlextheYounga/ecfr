@@ -1,0 +1,5 @@
+##### § 416.405 Cost-of-living adjustments in benefits. #####
+
+Whenever benefit amounts under title II of the Act (part 404 of this chapter) are increased by any percentage effective with any month as a result of a determination made under Section 215(i) of the Act, each of the dollar amounts in effect for such month under §§ 416.410, 416.412, and 416.413, as specified in such sections or as previously increased under this section or under any provision of the Act, will be increased. We will increase the unrounded yearly SSI benefit amount by the same percentage by which the title II benefits are being increased based on the Consumer Price Index, or, if greater, the percentage they would be increased if the rise in the Consumer Price Index were currently the basis for the title II increase. (See §§ 404.270-404.277 for an explanation of how the title II cost-of-living adjustment is computed.) If the increased annual SSI benefit amount is not a multiple of $12, it will be rounded to the next lower multiple of $12.
+
+[51 FR 12606, Apr. 21, 1986; 51 FR 16016, Apr. 30, 1986]

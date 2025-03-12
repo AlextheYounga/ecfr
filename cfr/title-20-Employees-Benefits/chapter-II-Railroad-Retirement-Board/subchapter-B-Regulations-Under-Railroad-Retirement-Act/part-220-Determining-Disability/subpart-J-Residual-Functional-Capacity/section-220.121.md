@@ -1,0 +1,5 @@
+##### § 220.121 Responsibility for assessing and determining residual functional capacity. #####
+
+(a) For cases at the initial or reconsideration level, the responsibility for determining residual functional capacity rests with the bureau of retirement claims. This assessment is based on all the evidence the Board has, including any statements regarding what the claimant can still do that have been provided by treating or examining physicians, consultative physicians, or any other physician designated by the Board. In any case where there is evidence which indicates the existence of a mental impairment, the bureau of retirement claims will not make a residual functional capacity determination without making every reasonable effort to ensure that a qualified psychiatrist or psychologist has provided a medical review of the case.
+
+(b) For cases at the hearing level or the three-member-Board review level, the responsibility for deciding residual functional capacity rests with the hearings officer or the three-member Board, respectively.

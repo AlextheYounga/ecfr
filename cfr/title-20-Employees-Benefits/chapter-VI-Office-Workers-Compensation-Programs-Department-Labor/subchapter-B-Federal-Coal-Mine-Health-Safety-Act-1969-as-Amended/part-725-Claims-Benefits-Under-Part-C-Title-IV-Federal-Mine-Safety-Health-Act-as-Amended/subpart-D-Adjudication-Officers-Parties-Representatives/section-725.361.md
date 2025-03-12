@@ -1,0 +1,3 @@
+##### § 725.361 Party amicus curiae. #####
+
+At the discretion of the Chief Administrative Law Judge or the administrative law judge assigned to the case, a person or entity which is not a party may be allowed to participate amicus curiae in a formal hearing only as to an issue of law. A person may participate amicus curiae in a formal hearing upon written request submitted with supporting arguments prior to the hearing. If the request is granted, the administrative law judge hearing the case will inform the party of the extent to which participation will be permitted. The request may, however, be denied summarily and without explanation.

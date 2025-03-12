@@ -1,0 +1,9 @@
+##### § 603.7 What requirements apply to subpoenas, other compulsory processes, and disclosure to officials with subpoena authority? #####
+
+(a) *In general.* Except as provided in paragraph (b) of this section, when a subpoena or other compulsory process is served upon a State UC agency or the State, any official or employee thereof, or any recipient of confidential UC information, which requires the production of confidential UC information or appearance for testimony upon any matter concerning such information, the State or State UC agency or recipient must file and diligently pursue a motion to quash the subpoena or other compulsory process if other means of avoiding the disclosure of confidential UC information are not successful or if the court has not already ruled on the disclosure. Only if such motion is denied by the court or other forum may the requested confidential UC information be disclosed, and only upon such terms as the court or forum may order, such as that the recipient protect the disclosed information and pay the State's or State UC agency's costs of disclosure.
+
+(b) *Exceptions.* The requirement of paragraph (a) of this section to move to quash subpoenas shall not be applicable, so that disclosure is permissible, where—
+
+(1) *Court Decision*—a subpoena or other compulsory legal process has been served and a court has previously issued a binding precedential decision that requires disclosures of this type, or a well-established pattern of prior court decisions have required disclosures of this type, or
+
+(2) *Official with subpoena authority*—Confidential UC information has been subpoenaed, by a local, State or Federal governmental official, other than a clerk of court on behalf of a litigant, with authority to obtain such information by subpoena under State or Federal law. The State or State UC agency may choose to disclose such confidential UC information to these officials without the actual issuance of a subpoena.

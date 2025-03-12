@@ -1,0 +1,5 @@
+##### § 404.722 Rebuttal of a presumption of death. #####
+
+A presumption of death made based on § 404.721(b) can be rebutted by evidence that establishes that the person is still alive or explains the individual's absence in a manner consistent with continued life rather than death.
+
+Example 1:Evidence in a claim for surviving child's benefits showed that the worker had wages posted to his earnings record in the year following the disappearance. It was established that the wages belonged to the worker and were for work done after his “disappearance.” In this situation, the presumption of death is rebutted by evidence (wages belonging to the worker) that the person is still alive after the disappearance.Example 2:Evidence shows that the worker left the family home shortly after a woman, whom he had been seeing, also disappeared, and that the worker phoned his wife several days after the disappearance to state he intended to begin a new life in California. In this situation the presumption of death is rebutted because the evidence explains the worker's absence in a manner consistent with continued life.[60 FR 19165, Apr. 17, 1995]

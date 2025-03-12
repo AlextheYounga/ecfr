@@ -1,0 +1,3 @@
+##### § 10.528 What action will OWCP take if the employee fails to file a report of activity indicating an ability to work? #####
+
+OWCP periodically requires each employee who is receiving compensation benefits to complete an affidavit as to any work, or activity indicating an ability to work, which the employee has performed for the prior 15 months. If an employee who is required to file such a report fails to do so within 30 days of the date of the request, his or her right to compensation for wage loss under 5 U.S.C. 8105 or 8106 is suspended until OWCP receives the requested report. At that time, OWCP will reinstate compensation retroactive to the date of suspension if the employee remains entitled to compensation.

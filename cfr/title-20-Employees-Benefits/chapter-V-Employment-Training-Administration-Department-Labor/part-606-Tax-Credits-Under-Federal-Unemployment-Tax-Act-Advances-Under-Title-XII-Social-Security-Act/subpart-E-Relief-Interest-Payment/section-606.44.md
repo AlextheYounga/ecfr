@@ -1,0 +1,3 @@
+##### § 606.44 Notification of determinations. #####
+
+The OWS Administrator will make determinations under §§ 606.41, 606.42, and 606.43 on or before September 10 of the taxable year, will promptly notify the applicants and the Secretary of the Treasury of such determinations, and will cause notice of such determinations to be published in the Federal Register. The OWS Administrator also will inform the Secretary of the Treasury and cause notice to be published in the Federal Register of information with respect to delayed payment of interest as provided in § 606.40.

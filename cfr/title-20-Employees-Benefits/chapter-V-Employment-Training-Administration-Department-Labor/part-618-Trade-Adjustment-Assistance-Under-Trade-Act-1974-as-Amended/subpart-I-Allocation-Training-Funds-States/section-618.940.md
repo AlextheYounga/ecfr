@@ -1,0 +1,3 @@
+##### § 618.940 Insufficient funds. #####
+
+If, during a fiscal year, the Department estimates that the amount of funds necessary to pay the costs of approved training will exceed the training cap under § 618.900, the Department will decide how the amount of available training funds that have not been distributed at the time of the estimate will be allocated among the States for the remainder of the fiscal year. That decision will be communicated through administrative notice.

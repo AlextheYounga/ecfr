@@ -1,0 +1,3 @@
+##### § 229.55 Reduction for spouse social security benefit. #####
+
+A spouse benefit under the overall minimum, after any adjustment for the family maximum and for age, is reduced, but not below zero, by the amount of any social security benefit being paid to the spouse on other than the employee's earnings record. If the social security benefit is equal to or higher than the spouse overall minimum benefit and the family maximum applies, the overall minimum rate is recomputed so that the spouse is not included, if it would result in a higher overall minimum rate.

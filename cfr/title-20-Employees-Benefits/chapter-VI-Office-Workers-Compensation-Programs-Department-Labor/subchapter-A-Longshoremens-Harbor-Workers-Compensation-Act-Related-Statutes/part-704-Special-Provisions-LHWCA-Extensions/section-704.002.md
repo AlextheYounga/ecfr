@@ -1,0 +1,3 @@
+##### § 704.002 Scope of part. #####
+
+The regulations governing the administration of the LHWCA as set forth in parts 702 and 703 of this subchapter govern the administration of the LHWCA extensions (see § 704.001) in nearly every respect, and are not repeated in this part 704. Such special provisions as are necessary to the proper administration of each of the extensions are set forth in this part. To the extent of any inconsistency between regulations in parts 702 and 703 of this subchapter and those in this part, the latter supersedes those in parts 702 and 703 of this subchapter.

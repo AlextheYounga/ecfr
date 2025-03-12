@@ -1,0 +1,3 @@
+##### § 641.600 What is the purpose of the pilot, demonstration, and evaluation projects authorized under § 502(e) of the OAA? #####
+
+The purpose of the pilot, demonstration, and evaluation projects authorized under § 502(e) of the OAA is to develop and implement techniques and approaches, and to demonstrate the effectiveness of these techniques and approaches, in addressing the employment and training needs of individuals eligible for SCSEP.

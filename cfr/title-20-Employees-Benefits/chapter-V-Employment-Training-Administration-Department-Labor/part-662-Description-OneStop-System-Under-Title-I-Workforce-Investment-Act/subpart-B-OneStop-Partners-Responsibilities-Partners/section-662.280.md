@@ -1,0 +1,3 @@
+##### § 662.280 Does title I require One-Stop partners to use their funds for individuals who are not eligible for the partner's program or for services that are not authorized under the partner's program? #####
+
+No, the requirements of the partner's program continue to apply. The Act intends to create a seamless service delivery system for individuals seeking workforce development services by linking the One-Stop partners in the One-Stop delivery system. While the overall effect is to provide universal access to core services, the resources of each partner may only be used to provide services that are authorized and provided under the partner's program to individuals who are eligible under such program. (WIA sec. 121(b)(1).)

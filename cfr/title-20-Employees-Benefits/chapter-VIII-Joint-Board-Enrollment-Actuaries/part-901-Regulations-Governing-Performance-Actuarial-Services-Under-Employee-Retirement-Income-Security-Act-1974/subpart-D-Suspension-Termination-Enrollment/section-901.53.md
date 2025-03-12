@@ -1,0 +1,3 @@
+##### § 901.53 Notice of suspension, termination or resignation of enrollment. #####
+
+Upon the resignation or the issuance of a final order suspending or terminating the enrollment of an actuary, the Executive Director shall give notice thereof to appropriate officers and employees of the Department of the Treasury, the Department of Labor, the Pension Benefit Guaranty Corporation, and to other interested departments and agencies of the Federal Government.

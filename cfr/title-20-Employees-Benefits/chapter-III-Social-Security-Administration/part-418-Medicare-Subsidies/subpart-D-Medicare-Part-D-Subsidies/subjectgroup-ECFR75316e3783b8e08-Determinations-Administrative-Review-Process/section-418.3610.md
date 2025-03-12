@@ -1,0 +1,3 @@
+##### § 418.3610 Is there administrative or judicial review for administrative actions that are not initial determinations? #####
+
+Administrative actions that are not initial determinations may be reviewed by us, but they are not subject to the administrative or judicial review process as provided by these sections. For example, changes in your prescription drug program or voluntary disenrollment in the Part D program are not initial determinations that are subject to the administrative review process.

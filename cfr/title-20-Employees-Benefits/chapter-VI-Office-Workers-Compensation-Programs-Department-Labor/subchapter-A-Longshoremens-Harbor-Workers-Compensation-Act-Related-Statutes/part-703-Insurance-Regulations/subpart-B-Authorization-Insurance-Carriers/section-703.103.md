@@ -1,0 +1,3 @@
+##### § 703.103 Stock companies holding Treasury certificates of authority. #####
+
+A stock company furnishing evidence that it is authorized to write workmen's compensation insurance under the laws of the United States or of any State, which holds a certificate of authority from the Secretary of the Treasury as an acceptable surety on Federal bonds, unless requested to do so, need not transmit to the Office with its application copies of such financial reports as are on file in the Department of the Treasury. The acceptance by that Department of such a company will be considered by the Office in conjunction with the application of such company, provided there has been compliance with the other requirements of the regulations in this part.

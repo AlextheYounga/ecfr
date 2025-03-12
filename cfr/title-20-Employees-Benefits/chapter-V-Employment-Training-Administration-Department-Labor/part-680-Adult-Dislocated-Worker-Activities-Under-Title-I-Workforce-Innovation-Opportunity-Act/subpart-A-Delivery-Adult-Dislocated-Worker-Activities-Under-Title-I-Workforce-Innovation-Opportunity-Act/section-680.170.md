@@ -1,0 +1,3 @@
+##### § 680.170 What is the individual employment plan? #####
+
+The individual employment plan (IEP) is an individualized career service, under WIOA sec. 134(c)(2)(A)(xii)(II), that is developed jointly by the participant and career planner when determined appropriate by the one-stop center or one-stop partner. The plan is an ongoing strategy to identify employment goals, achievement objectives, and an appropriate combination of services for the participant to achieve the employment goals.

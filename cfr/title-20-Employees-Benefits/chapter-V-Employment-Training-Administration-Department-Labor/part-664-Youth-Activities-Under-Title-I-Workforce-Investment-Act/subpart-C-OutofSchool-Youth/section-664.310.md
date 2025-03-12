@@ -1,0 +1,3 @@
+##### § 664.310 When is dropout status determined, particularly for youth attending alternative schools? #####
+
+A school dropout is defined as an individual who is no longer attending any school and who has not received a secondary school diploma or its recognized equivalent. A youth's dropout status is determined at the time of registration. A youth attending an alternative school at the time of registration is not a dropout. An individual who is out-of school at the time of registration and subsequently placed in an alternative school, may be considered an out-of-school youth for the purposes of the 30 percent expenditure requirement for out-of-school youth. (WIA sec. 101(39).)

@@ -1,0 +1,3 @@
+##### § 408.945 When will we suspend tax refund offset? #####
+
+If, within 60 days of the date of the notice described in § 408.941 of this subpart, you notify us that you are exercising a right described in § 408.942(a) of this subpart and submit evidence pursuant to § 408.942(b) of this subpart or request a waiver under § 408.910 of this subpart, we will suspend any notice to the Department of the Treasury until we have issued written findings that affirm that an overpayment is past due and legally enforceable and, if applicable, make a determination that a waiver request cannot be granted.

@@ -1,0 +1,11 @@
+##### § 416.214 You are disabled and drug addiction or alcoholism is a contributing factor material to the determination of disability. #####
+
+(a) *If you do not comply with treatment requirements.* If you receive benefits because you are disabled and drug addiction or alcoholism is a contributing factor material to the determination of disability (see § 416.935), you must avail yourself of any appropriate treatment for your drug addiction or alcoholism at an approved institution or facility when this treatment is available and make progress in your treatment. You are not eligible for SSI benefits beginning with the month after the month you are notified in writing that we determined that you have failed to comply with the treatment requirements. If your benefits are suspended because you failed to comply with treatment requirements, you will not be eligible to receive benefits until you have demonstrated compliance with treatment for a period of time, as specified in § 416.1326. The rules regarding treatment for drug addiction and alcoholism are in subpart I of this part.
+
+(b) *If you previously received 36 months of SSI or Social Security benefits.* You are not eligible for SSI benefits by reason of disability on the basis of drug addiction or alcoholism as described in § 416.935 if—
+
+(1) You previously received a total of 36 months of SSI benefits on the basis of disability and drug addiction or alcoholism was a contributing factor material to the determination of disability for months beginning March 1995, as described in § 416.935. Not included in these 36 months are months before March 1995 and months for which your benefits were suspended for any reason. The 36-month limit is no longer effective for months beginning after September 2004; or
+
+(2) You previously received a total of 36 months of Social Security benefits counted in accordance with the provisions of §§ 404.316, 404.337, and 404.352 by reason of disability on the basis of drug addiction or alcoholism as described in § 404.1535.
+
+[60 FR 8149, Feb. 10, 1995. Redesignated at 61 FR 10277, Mar. 13, 1996]

@@ -1,0 +1,3 @@
+##### § 726.105 Fixing the amount of security. #####
+
+The Office shall require the amount of security which it deems necessary and sufficient to secure the performance by the applicant of all obligations imposed upon him as an operator by the Act. In determining the amount of security required, the factors that the Office will consider include, but are not limited to, the operator's net worth, the existence of a guarantee by a parent corporation, and the operator's existing liability for benefits. The Office shall also consider such other factors as it considers relevant to any particular case. The amount of security which shall be required may be increased or decreased when experience or changed conditions so warrant.

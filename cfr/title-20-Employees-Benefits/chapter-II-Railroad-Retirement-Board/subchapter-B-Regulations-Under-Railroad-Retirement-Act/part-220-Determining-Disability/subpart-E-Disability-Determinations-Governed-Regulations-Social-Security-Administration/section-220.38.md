@@ -1,0 +1,3 @@
+##### § 220.38 When a widow(er)'s disability determination is governed by the regulations of the Social Security Administration. #####
+
+In order to receive an annuity based upon disability, a widow(er) must be found disabled under the Railroad Retirement Act. However, in addition to this determination, the widow(er) must be found disabled under the Social Security Act in order to qualify for early Medicare based upon disability.

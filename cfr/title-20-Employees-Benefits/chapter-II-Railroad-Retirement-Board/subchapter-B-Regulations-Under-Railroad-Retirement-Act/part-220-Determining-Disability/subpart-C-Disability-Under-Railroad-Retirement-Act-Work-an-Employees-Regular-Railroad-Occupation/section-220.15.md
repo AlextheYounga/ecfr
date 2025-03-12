@@ -1,0 +1,5 @@
+##### § 220.15 Effects of work on occupational disability. #####
+
+(a) *Disability onset when the employee works despite impairment.* An employee who has stopped work in his or her regular occupation due to a permanent physical or mental impairment(s) may make an effort to return to work in his or her regular occupation. If the employee is subsequently forced to stop that work after a short time because of his or her impairment(s), the Board will generally consider that work as an unsuccessful work attempt. In this situation, the Board may determine that the employee became disabled for work in his or her regular occupation before the last date the employee worked in his or her regular occupation. No annuity will be payable, however, until after the last date worked.
+
+(b) *Occupational disability annuitant work restrictions.* The restrictions which apply to an annuitant who is disabled for work in his or her regular occupation are found in §§ 220.160 through 220.164.

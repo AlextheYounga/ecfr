@@ -1,0 +1,3 @@
+##### § 703.307 Deposits of negotiable securities with Federal Reserve banks or the Treasurer of the United States; interest thereon. #####
+
+Deposits of negotiable securities provided for by the regulations in this part shall be made with any Federal Reserve bank or any branch of a Federal Reserve bank designated by the Office, or the Treasurer of the United States, and shall be held subject to the order of the Office. The Office will authorize the self-insurer to collect interest on the securities deposited by it unless any of the conditions set forth at § 703.304(a)(4) occur.

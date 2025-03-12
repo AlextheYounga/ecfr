@@ -1,0 +1,3 @@
+##### § 220.184 If the annuitant becomes disabled by another impairment(s). #####
+
+If a new severe impairment(s) begins in or before the month in which the last impairment(s) ends, the Board will find that disability is continuing. The impairment(s) need not be expected to last 12 months or to result in death, but it must be severe enough to keep the annuitant from doing substantial gainful activity, or severe enough so that he or she is still disabled.

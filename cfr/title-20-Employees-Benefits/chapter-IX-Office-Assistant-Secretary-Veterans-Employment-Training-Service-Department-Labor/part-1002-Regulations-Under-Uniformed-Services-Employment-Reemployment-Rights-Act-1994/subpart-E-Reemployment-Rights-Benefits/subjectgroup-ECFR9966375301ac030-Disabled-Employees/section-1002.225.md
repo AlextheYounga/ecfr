@@ -1,0 +1,7 @@
+##### § 1002.225 Is the employee entitled to any specific reemployment benefits if he or she has a disability that was incurred in, or aggravated during, the period of service? #####
+
+Yes. A disabled service member is entitled, to the same extent as any other individual, to the escalator position he or she would have attained but for uniformed service. If the employee has a disability incurred in, or aggravated during, the period of service in the uniformed services, the employer must make reasonable efforts to accommodate that disability and to help the employee become qualified to perform the duties of his or her reemployment position. If the employee is not qualified for reemployment in the escalator position because of a disability after reasonable efforts by the employer to accommodate the disability and to help the employee to become qualified, the employee must be reemployed in a position according to the following priority. The employer must make reasonable efforts to accommodate the employee's disability and to help him or her to become qualified to perform the duties of one of these positions:
+
+(a) A position that is equivalent in seniority, status, and pay to the escalator position; or,
+
+(b) A position that is the nearest approximation to the equivalent position, consistent with the circumstances of the employee's case, in terms of seniority, status, and pay. A position that is the nearest approximation to the equivalent position may be a higher or lower position, depending on the circumstances.

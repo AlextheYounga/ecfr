@@ -1,0 +1,11 @@
+##### § 416.532 Method of payment when the essential person resides with more than one eligible person. #####
+
+(a) When an essential person lives with an eligible individual and an eligible spouse, the State may report that the person is essential to one or both members of the couple. In either event, the income and resources of the essential person will be considered to be available to the family unit. The payment increment attributable to the essential person will be added to the rate of payment for the couple, the countable income subtracted, and the resulting total benefit divided equally between the eligible individual and the eligible spouse.
+
+(b) Where the essential person lives with two eligible individuals (as opposed to an eligible individual and eligible spouse), one of whom has been designated the qualified individual, the income and resources of the essential person will be considered to be available only to the qualified individual (as defined in § 416.221) and any increase in payment will be made to such qualified individual.
+
+(c) In those instances where the State has designated the essential person as essential to two or more eligible individuals so that both are qualified individuals, the payment increment attributable to the essential person must be shared equally, and the income and resources of the essential person divided and counted equally against each qualified individual.
+
+(d) When an essential person lives with an eligible individual and an eligible spouse (or two or more eligible individuals) only one of whom is the qualified individual, essential person status is not automatically retained upon the death of the qualified individual or upon the separation from the qualified individual. A review of the State records established on or before December 31, 1973, will provide the basis for a determination as to whether the remaining eligible individual or eligible spouse meets the definition of qualified individual. Payment in consideration of the essential person will be dependent on whether the essential person continues to live with a qualified individual. If the essential person does reside with a qualified individual, status as an essential person is retained.
+
+[39 FR 33796, Sept. 20, 1974, as amended at 50 FR 48572, Nov. 26, 1985; 51 FR 10616, Mar. 28, 1986; 60 FR 16375, Mar. 30, 1995]

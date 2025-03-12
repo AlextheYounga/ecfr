@@ -1,0 +1,5 @@
+##### § 230.1 What is the Troops-to-Teacher program? #####
+
+Under the Troops-to-Teachers program, the Secretary of Education transfers funds to the Department of Defense for the Defense Activity for Non-Traditional Education Support (DANTES) to provide assistance, including a stipend of up to $5,000, to an eligible member of the Armed Forces so that he or she can obtain certification or licensing as an elementary school teacher, secondary school teacher, or vocational/technical teacher and become a highly qualified teacher by demonstrating competency in each of the subjects he or she teaches. In addition, the program helps the individual find employment in a high-need local educational agency or public charter school. In lieu of a stipend, DANTES may pay a bonus of $10,000 to a participant who agrees to teach in a high-need school.
+
+(Authority: 20 U.S.C. 1221e-3, 3474, and 6671-6677)

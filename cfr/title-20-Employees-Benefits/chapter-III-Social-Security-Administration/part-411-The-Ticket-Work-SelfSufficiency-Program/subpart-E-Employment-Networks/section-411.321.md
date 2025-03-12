@@ -1,0 +1,3 @@
+##### § 411.321 Under what conditions will SSA terminate an agreement with an EN due to inadequate performance? #####
+
+We will terminate our agreement with an EN if it does not comply with the requirements under §§ 411.320, § 411.325, or the conditions in the agreement between SSA and the EN, including minimum performance standards relating to beneficiaries achieving self-supporting employment and leaving the benefit rolls.

@@ -1,0 +1,3 @@
+##### § 101.55 Consolidation. #####
+
+The responsible Department official may provide for proceedings in the Department to be joined or consolidated for hearing with proceedings in other Federal departments or agencies, by agreement with such other departments or agencies. All parties to any proceeding consolidated subsequently to service of the notice of hearing or opportunity for hearing shall be promptly served with notice of such consolidation.

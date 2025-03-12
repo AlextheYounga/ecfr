@@ -1,0 +1,13 @@
+##### § 404.1036 Certain nonresident aliens. #####
+
+(a) *Foreign students.* (1) Foreign students (nonimmigrant aliens) may be temporarily in the United States under subparagraph (F) of section 101(a)(15) of the Immigration and Nationality Act to attend a school or other recognized place of study approved by the Attorney General. On-campus work or work under permission granted by the Immigration and Naturalization Service which is done by these students is excluded from employment. Other work done by these foreign students is not excluded from employment under this section.
+
+(2) Foreign students (nonimmigrant aliens) may be temporarily in the United States under subparagraph (M) of section 101(a)(15) of the Immigration and Nationality Act to pursue a vocational or nonacademic technical education approved by the Attorney General. Work done by these students to carry out the purpose for which they were admitted is excluded from employment. Other work done by these foreign students is not excluded from employment under this section.
+
+(b) *Exchange visitors.* (1) Exchange visitors (nonimmigrant aliens) may be temporarily in the United States under subparagraph (J) of section 101(a)(15) of the Immigration and Nationality Act to participate in exchange visitor programs designated by the Director of the United States Information Agency. Work done by these exchange visitors to carry out the purpose for which they were admitted and for which permission has been granted by the sponsor, is excluded from employment. Other work done by these exchange visitors is not excluded from employment under this section.
+
+(2) Exchange visitors (nonimmigrant aliens) may be temporarily in the United States under subparagraph (Q) of section 101(a)(15) of the Immigration and Nationality Act to participate in an international cultural exchange program approved by the Attorney General. Effective October 1, 1994, work done by these exchange visitors to carry out the purpose for which they were admitted is excluded from employment. Other work done by these exchange visitors is not excluded from employment under this section.
+
+(c) *Spouse and children.* Work done by a foreign student's or exchange visitor's alien spouse or minor child who is also temporarily in the United States under subparagraph (F), (J), (M), or (Q) of section 101(a)(15) of the Immigration and Nationality Act is not excluded from employment under this section unless that spouse or child and the work that is done meets the conditions of paragraph (a) or (b) of this section.
+
+[61 FR 38366, July 24, 1996]

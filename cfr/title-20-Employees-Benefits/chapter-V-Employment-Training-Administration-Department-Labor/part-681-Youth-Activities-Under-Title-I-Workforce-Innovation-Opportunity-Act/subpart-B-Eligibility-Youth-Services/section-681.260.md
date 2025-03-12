@@ -1,0 +1,3 @@
+##### § 681.260 How does the Department define “high poverty area” for the purposes of the special regulation for low-income youth in the Workforce Innovation and Opportunity Act? #####
+
+A youth who lives in a high poverty area is automatically considered to be a low-income individual. A high poverty area is a Census tract, a set of contiguous Census tracts, an American Indian Reservation, Oklahoma Tribal Statistical Area (as defined by the U.S. Census Bureau), Alaska Native Village Statistical Area or Alaska Native Regional Corporation Area, Native Hawaiian Homeland Area, or other tribal land as defined by the Secretary in guidance or county that has a poverty rate of at least 25 percent as set every 5 years using American Community Survey 5-Year data.

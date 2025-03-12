@@ -1,0 +1,3 @@
+##### § 340.11 Waiver of methods of recovery. #####
+
+The Board may waive any right to recover all or any part of an amount recoverable by any one or more methods without waiving the right to recover by some other method or methods if, in the judgment of the Board, the individual is without fault and if, in the judgment of the Board, recovery by the methods waived would be against equity and good conscience and recovery by such other methods would not be against equity and good conscience.

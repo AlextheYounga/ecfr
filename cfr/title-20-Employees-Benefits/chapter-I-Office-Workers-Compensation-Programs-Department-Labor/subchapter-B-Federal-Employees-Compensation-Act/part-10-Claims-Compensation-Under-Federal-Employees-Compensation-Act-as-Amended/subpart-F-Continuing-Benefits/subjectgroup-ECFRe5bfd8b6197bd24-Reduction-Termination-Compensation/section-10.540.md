@@ -1,0 +1,11 @@
+##### § 10.540 When and how is compensation reduced or terminated? #####
+
+(a) Except as provided in paragraphs (c), (d), and (e) of this section, where the evidence establishes that compensation should be either reduced or terminated, OWCP will provide the beneficiary with written notice of the proposed action and give him or her 30 days to submit relevant evidence or argument to support entitlement to continued payment of compensation.
+
+(b) Notice provided under this section will include a description of the reasons for the proposed action and a copy of the specific evidence upon which OWCP is basing its determination. Payment of compensation will continue until any evidence or argument submitted has been reviewed and an appropriate decision has been issued, or until 30 days have elapsed if no additional evidence or argument is submitted.
+
+(c) OWCP will not provide such written notice when the beneficiary has no reasonable basis to expect that payment of compensation will continue. For example, when a claim has been made for a specific period of time and that specific period expires, no written notice will be given.
+
+(d) Written notice will also not be given when a beneficiary dies, when OWCP either reduces or terminates compensation upon an employee's return to work, when OWCP terminates only medical benefits after a physician indicates that further medical treatment is not necessary or has ended, or when OWCP denies payment for a particular medical expense.
+
+(e) OWCP will also not provide such written notice when compensation is terminated, suspended or forfeited due to one of the following: A beneficiary's conviction for fraud in connection with a claim under the FECA; a beneficiary's incarceration based on any felony conviction; an employee's failure to report earnings from employment or self-employment; an employee's failure or refusal to either continue performing suitable work or to accept an offer of suitable work; or an employee's refusal to undergo or obstruction of a directed medical examination or treatment for substance abuse.

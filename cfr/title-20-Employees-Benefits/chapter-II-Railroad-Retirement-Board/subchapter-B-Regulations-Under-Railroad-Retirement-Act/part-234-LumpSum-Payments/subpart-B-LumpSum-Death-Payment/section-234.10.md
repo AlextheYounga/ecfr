@@ -1,0 +1,5 @@
+##### § 234.10 General. #####
+
+A lump-sum death payment (LSDP) is payable when an employee with ten or more years of railroad service and a current connection with the railroad industry dies and is not survived by an individual who is eligible for a monthly annuity in the month the employee died. The amount of the LSDP and the priority for payment depend upon when the employee acquired his or her 120th month of railroad service. If the employee acquired the 120th month of railroad service after 1974, a 1974 Act lump-sum death payment is payable to the employee's widow(er). If the employee acquired the 120th month of railroad service before 1975, a 1937 Act lump-sum death payment is payable to the employee's widow(er), the funeral home or the payer of the employee's burial expenses. An application for an LSDP must be filed within two years after the employee's death.
+
+(Approved by the Office of Management and Budget under control number 3220-0031)[51 FR 3036, Jan. 23, 1986, as amended at 52 FR 11017, Apr. 6, 1987]

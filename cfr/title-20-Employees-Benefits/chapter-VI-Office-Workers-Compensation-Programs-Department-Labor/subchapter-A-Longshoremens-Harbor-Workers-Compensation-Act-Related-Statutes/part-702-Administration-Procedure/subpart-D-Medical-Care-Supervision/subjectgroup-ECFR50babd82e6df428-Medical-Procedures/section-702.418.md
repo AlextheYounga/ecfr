@@ -1,0 +1,7 @@
+##### § 702.418 Procedure for requesting medical care; employee's duty to notify employer. #####
+
+(a) As soon as practicable, but within 30 days after occurrence of an injury covered by the Act, or within 30 days after an employee becomes aware, or in the exercise of reasonable diligence should be aware, of the relationship between an injury or disease and his employment, the injured employee or someone on his behalf shall give written notice thereof to the district director having jurisdiction over the place where the injury occurred and to the employer. If a form has been prescribed for such purpose it shall be used, if available and practicable under the circumstances. Notices filed under subpart B of this part, if on the form prescribed by the Director for such purpose, satisfy the written notice requirements of this subpart.
+
+(b) In the case of an occupational disease which does not immediately result in a disability or death, such notice shall be given within one year after the employee becomes aware, or in the exercise of reasonable diligence or by reason of medical advice should have been aware, of the relationship between the employment, the disease, and the death or disability. Notice shall be given: (1) To the district director in the compensation district in which the injury or death occurred, and (2) to the employer.
+
+(Approved by the Office of Management and Budget under control number 1215-0160)[50 FR 403, Jan. 3, 1985]

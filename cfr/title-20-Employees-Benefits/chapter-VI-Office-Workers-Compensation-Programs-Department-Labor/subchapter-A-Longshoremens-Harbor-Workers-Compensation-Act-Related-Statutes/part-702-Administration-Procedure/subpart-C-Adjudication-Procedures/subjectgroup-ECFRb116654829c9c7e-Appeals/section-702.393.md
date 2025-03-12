@@ -1,0 +1,3 @@
+##### § 702.393 Appeals; time limitations. #####
+
+The notice of appeal (see § 702.391) shall be filed with the district director within 30 days of the filing of the decision or order complained of, as defined and described in §§ 802.205 and 802.206 of this title. A petition for review of the decision or order is required to be filed within 30 days after receipt of the Board's acknowledgment of the notice of appeal, as provided in § 802.210 of this title.

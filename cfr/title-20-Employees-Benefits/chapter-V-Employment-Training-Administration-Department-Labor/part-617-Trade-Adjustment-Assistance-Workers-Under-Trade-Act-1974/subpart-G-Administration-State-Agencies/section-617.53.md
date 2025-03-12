@@ -1,0 +1,3 @@
+##### § 617.53 Subpoenas. #####
+
+A State agency may issue subpoenas for attendance of witnesses and production of records on the same terms and conditions as under the State law. Compliance may be enforced on the same terms and conditions as under the State law, or, if a State court declines to enforce a subpoena issued under this section, the State agency may petition for an order requiring compliance with such subpoena to the United States District Court within the jurisdiction of which the relevant proceeding under this part 617 is conducted.

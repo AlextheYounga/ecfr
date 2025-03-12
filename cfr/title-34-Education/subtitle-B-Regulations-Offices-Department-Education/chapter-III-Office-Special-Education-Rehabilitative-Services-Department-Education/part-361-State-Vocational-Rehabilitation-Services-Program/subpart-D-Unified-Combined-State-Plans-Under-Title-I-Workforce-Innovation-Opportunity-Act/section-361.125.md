@@ -1,0 +1,3 @@
+##### § 361.125 What are the program-specific requirements in the Unified State Plan for the State Vocational Rehabilitation program authorized under title I of the Rehabilitation Act of 1973, as amended by Workforce Innovation and Opportunity Act title IV? #####
+
+The program specific-requirements for the vocational rehabilitation services portion of the Unified or Combined State Plan are set forth in sec. 101(a) of the Rehabilitation Act of 1973, as amended. All submission requirements for the vocational rehabilitation services portion of the Unified or Combined State Plan are in addition to the jointly developed strategic and operational content requirements prescribed by sec. 102(b) of WIOA.

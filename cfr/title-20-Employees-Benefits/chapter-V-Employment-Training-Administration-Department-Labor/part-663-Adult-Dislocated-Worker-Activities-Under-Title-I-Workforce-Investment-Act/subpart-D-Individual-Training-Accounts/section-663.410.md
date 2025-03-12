@@ -1,0 +1,3 @@
+##### § 663.410 What is an Individual Training Account (ITA)? #####
+
+The ITA is established on behalf of a participant. WIA title I adult and dislocated workers purchase training services from eligible providers they select in consultation with the case manager. Payments from ITA's may be made in a variety of ways, including the electronic transfer of funds through financial institutions, vouchers, or other appropriate methods. Payments may also be made incrementally; through payment of a portion of the costs at different points in the training course. (WIA sec. 134(d)(4)(G).)

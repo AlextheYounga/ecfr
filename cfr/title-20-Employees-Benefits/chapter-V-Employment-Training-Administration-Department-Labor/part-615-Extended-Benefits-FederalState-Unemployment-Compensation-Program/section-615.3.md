@@ -1,0 +1,5 @@
+##### § 615.3 Effective period of the program. #####
+
+An Extended Benefit Program conforming with EUCA and this part shall be a requirement for a State law effective on and after January 1, 1972, pursuant to section 3304(a)(11) of the Internal Revenue Code of 1986, (26 U.S.C. 3304(a)(11)). Continuation of the program by a State in conformity and substantial compliance with EUCA and this part, throughout any 12-month period ending on October 31 of a year subsequent to 1972, shall be a condition of the certification of the State with respect to such 12-month period under section 3304(c) of the Internal Revenue Code of 1986 (26 U.S.C. 3304(c)). Conformity with EUCA and this part in the payment of regular compensation, regular extended compensation, and high unemployment extended compensation (if State law so provides) to any individual is a continuing requirement, applicable to every week as a condition of a State's entitlement to payment for any compensation as provided in EUCA and this part.
+
+[53 FR 27937, July 25, 1988, as amended at 81 FR 57781, Aug. 24, 2016]

@@ -1,0 +1,5 @@
+##### § 373.1 What is the purpose of the Rehabilitation National Activities program? #####
+
+The purpose of this program is to provide competitive grants, including cooperative agreements, to, or enter into contracts with, eligible entities to expand and improve the provision of vocational rehabilitation and other services authorized under the Rehabilitation Act of 1973, as amended (Act), or to further the purposes and policies in sections 2(b) and (c) of the Act by supporting activities that increase the provision, extent, availability, scope, and quality of rehabilitation services under the Act, including related research and evaluation activities.
+
+(Authority: Sections 2(b) and (c), 7(40), 12(c), and 303(b) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 701(b) and (c), 705(40), 709(c), and 773(b))

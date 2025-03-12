@@ -1,0 +1,3 @@
+##### § 686.430 What entities conduct outreach and admissions activities for the Job Corps program? #####
+
+The Secretary makes arrangements with outreach and admissions providers to perform Job Corps recruitment, screening and admissions functions according to standards and procedures issued by the Secretary. Entities eligible to receive funds to provide outreach and admissions services are identified in § 686.300.

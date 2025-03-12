@@ -1,0 +1,15 @@
+##### § 345.105 Definitions. #####
+
+(a) *Chief Financial Officer.* References in this part to the Board's Chief Financial Officer mean the Chief Financial Officer, Railroad Retirement Board, 844 North Rush Street, Chicago, Illinois 60611. The Chief Financial Officer shall be responsible for assessing, collecting, and depositing contributions due from employers under this part.
+
+(b) *Monthly compensation base.* For the purposes of this part, the monthly compensation base (MCB) is the maximum monthly amount of compensation per employee that is subject to contribution pursuant to this part. On or before December 1 of each year, the Board will compute the amount of the MCB in accordance with section 1(i) of the Railroad Unemployment Insurance Act and part 302 of this chapter, and will publish notice of the amount so computed in the Federal Register within 10 days after such computation has been made. Information as to the amount of the MCB should be requested from the Board's Chief Financial Officer.
+
+(c) *Month defined.* (1) For the purposes of this part, if the date prescribed for filing a report or paying a contribution is the last day of a calendar month, each succeeding calendar month or fraction thereof during which the failure to file or pay the contribution continues shall constitute a month.
+
+(2) If the date prescribed for filing the report or paying the contribution is a date other than the last day of a calendar month, the period that terminates with the date numerically corresponding thereto in the succeeding calendar month and each such successive period shall constitute a month. If, in the month of February, there is no date corresponding to the date prescribed for filing the report or paying, the period from such date in January through the last day of February shall constitute a month. Thus, if a report is due on January 30, the first month shall end on February 28 (or 29 if a leap year), and the succeeding months shall end on March 30, April 30, etc.
+
+(3) If a report is not timely filed or a contribution is not timely paid, the fact that the date prescribed for filing the report or paying the contribution, or the corresponding date in any succeeding calendar month, falls on a Saturday, Sunday, or a legal holiday is immaterial in determining the number of months.
+
+(d) *Reference to forms.* Any reference in this part to any prescribed reporting or other form of the Board includes a reference to any other form of the Board prescribed in substitution for such prescribed form.
+
+(e) *Showing reasonable cause.* For purposes of this part if an employer exercised ordinary business care and prudence and was nevertheless unable to file the return within the prescribed time, then the delay is due to reasonable cause. A failure to pay any amount due under this part within the prescribed time will be considered to be due to reasonable cause to the extent that the employer has made a satisfactory showing that he exercised ordinary business care and prudence in providing for payment but nevertheless was unable to pay on time.

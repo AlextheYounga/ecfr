@@ -1,0 +1,3 @@
+##### § 678.630 Can State merit staff still work in a one-stop center where the operator is not a governmental entity? #####
+
+Yes. State merit staff can continue to perform functions and activities in the one-stop center. The Local WDB and one-stop operator must establish a system for management of merit staff in accordance with State policies and procedures. Continued use of State merit staff for the provision of Wagner-Peyser Act services or services from other programs with merit staffing requirements must be included in the competition for and final contract with the one-stop operator when Wagner-Peyser Act services or services from other programs with merit staffing requirements are being provided.

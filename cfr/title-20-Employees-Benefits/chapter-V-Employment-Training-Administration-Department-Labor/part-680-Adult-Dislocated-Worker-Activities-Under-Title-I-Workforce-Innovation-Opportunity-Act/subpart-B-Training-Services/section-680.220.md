@@ -1,0 +1,7 @@
+##### § 680.220 Are there particular career services an individual must receive before receiving training services under the Workforce Innovation and Opportunity Act? #####
+
+(a) Yes, except as provided by paragraph (b) of this section, an individual must at a minimum receive either an interview, evaluation, or assessment, and career planning or any other method through which the one-stop center or partner can obtain enough information to make an eligibility determination to be determined eligible for training services under WIOA sec. 134(c)(3)(A)(i) and § 680.210. Where appropriate, a recent interview, evaluation, or assessment, may be used for the assessment purpose.
+
+(b) The case file must contain a determination of need for training services under § 680.210 as determined through the interview, evaluation, or assessment, and career planning informed by local labor market information and training provider performance information, or through any other career service received. There is no requirement that career services be provided as a condition to receipt of training services; however, if career services are not provided before training, the Local WDB must document the circumstances that justified its determination to provide training without first providing the services described in paragraph (a) of this section.
+
+(c) There is no Federally required minimum time period for participation in career services before receiving training services.

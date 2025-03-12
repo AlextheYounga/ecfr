@@ -1,0 +1,3 @@
+##### § 71.3 Deductions from benefits. #####
+
+If a civilian American citizen or his dependents receives or has received from the United States any payments on account of the same injury or death, or from his employer in the form of wages or payments in lieu of wages, or in any form of support or compensation (including workmen's compensation) in respect to the same objects, the benefits under this subchapter shall be diminished in the case of an injured person by the amount of payments such injured person received on account of the same injury or disability, or in the case of dependents, by the amount of payments such dependents of the deceased civilian American citizen received on account of the same death, as the case may be.

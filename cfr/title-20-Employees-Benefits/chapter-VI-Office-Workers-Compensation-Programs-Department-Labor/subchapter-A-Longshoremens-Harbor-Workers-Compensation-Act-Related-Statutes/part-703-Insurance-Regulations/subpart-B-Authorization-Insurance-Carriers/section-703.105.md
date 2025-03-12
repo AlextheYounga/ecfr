@@ -1,0 +1,3 @@
+##### § 703.105 Copies of forms of policies to be submitted with application. #####
+
+With each application for authority to write insurance there shall be submitted for the approval of the Office copies of the forms of policies which the applicant proposes to issue in writing insurance under the LHWCA, or its extensions, to which shall be attached the appropriate endorsement to be used in connection therewith.

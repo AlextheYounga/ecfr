@@ -1,0 +1,5 @@
+##### § 404.2112 Payment for VR services in a case where an individual continues to receive disability payments based on participation in an approved VR program. #####
+
+Sections 404.1586(g), 404.316(c), 404.337(c), and 404.352(c) explain the criteria we will use in determining if an individual whose disability has ceased should continue to receive disability benefits from us because of his or her continued participation in a VR program. A VR agency or alternate participant can be paid for the cost of VR services provided to an individual if the individual was receiving benefits in a month or months, after October 1984, based on § 404.316(c), 404.337(c), or 404.352(c). If this requirement is met, a VR agency or alternate participant can be paid for the costs of VR services provided within the period specified in § 404.2115, subject to the other payment and administrative provisions of this subpart.
+
+[55 FR 8455, Mar. 8, 1990]

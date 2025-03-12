@@ -1,0 +1,5 @@
+##### § 408.943 What happens after we make our determination on your request for review or your request for waiver? #####
+
+(a) If we make a determination that all or part of the overpayment is past due and legally enforceable and/or your waiver request cannot be granted, we will refer the overpayment to the Department of the Treasury for recovery from any Federal income tax refund due you. We will not suspend our referral of the overpayment to the Department of the Treasury under § 408.945 of this subpart pending any further administrative review of the waiver determination that you may seek.
+
+(b) We will not refer the overpayment to the Department of the Treasury if we reverse our prior finding that the overpayment is past due and legally enforceable or, upon consideration of a waiver request, we determine that waiver of recovery of the overpayment is appropriate.

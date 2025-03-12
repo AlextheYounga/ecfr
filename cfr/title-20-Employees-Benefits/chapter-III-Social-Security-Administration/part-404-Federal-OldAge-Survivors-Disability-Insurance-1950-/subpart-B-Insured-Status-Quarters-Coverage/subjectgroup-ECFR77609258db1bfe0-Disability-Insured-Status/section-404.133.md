@@ -1,0 +1,3 @@
+##### § 404.133 When we give you quarters of coverage based on military service to establish a period of disability. #####
+
+For purposes of establishing a period of disability only, we give you quarters of coverage (QCs) for your military service before 1957 (see subpart N of this part). We do this even though we may not use that military service for other purposes of title II of the Act because a periodic benefit is payable from another Federal agency based in whole or in part on the same period of military service.

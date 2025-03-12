@@ -1,0 +1,3 @@
+##### § 664.240 May a local program use eligibility for free lunches under the National School Lunch Program as a substitute for the income eligibility criteria under title I of WIA? #####
+
+No, the criteria for income eligibility under the National School Lunch Program are not the same as the Act's income eligibility criteria. Therefore, the school lunch list may not be used as a substitute for income eligibility to determine who is eligible for services under the Act.

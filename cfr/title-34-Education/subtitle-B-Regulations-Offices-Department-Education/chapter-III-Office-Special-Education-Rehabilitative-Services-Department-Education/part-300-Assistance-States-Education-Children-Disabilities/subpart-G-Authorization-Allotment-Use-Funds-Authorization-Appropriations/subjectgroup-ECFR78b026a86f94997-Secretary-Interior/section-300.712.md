@@ -1,0 +1,17 @@
+##### § 300.712 Payments for education and services for Indian children with disabilities aged three through five. #####
+
+(a) *General.* With funds appropriated under section 611(i) of the Act, the Secretary makes payments to the Secretary of the Interior to be distributed to tribes or tribal organizations (as defined under section 4 of the Indian Self-Determination and Education Assistance Act) or consortia of tribes or tribal organizations to provide for the coordination of assistance for special education and related services for children with disabilities aged three through five on reservations served by elementary schools and secondary schools for Indian children operated or funded by the Department of the Interior. The amount of the payments under paragraph (b) of this section for any fiscal year is equal to 20 percent of the amount allotted under § 300.701(b).
+
+(b) *Distribution of funds.* The Secretary of the Interior must distribute the total amount of the payment under paragraph (a) of this section by allocating to each tribe, tribal organization, or consortium an amount based on the number of children with disabilities aged three through five residing on reservations as reported annually, divided by the total of those children served by all tribes or tribal organizations.
+
+(c) *Submission of information.* To receive a payment under this section, the tribe or tribal organization must submit the figures to the Secretary of the Interior as required to determine the amounts to be allocated under paragraph (b) of this section. This information must be compiled and submitted to the Secretary.
+
+(d) *Use of funds.* (1) The funds received by a tribe or tribal organization must be used to assist in child find, screening, and other procedures for the early identification of children aged three through five, parent training, and the provision of direct services. These activities may be carried out directly or through contracts or cooperative agreements with the BIA, LEAs, and other public or private nonprofit organizations. The tribe or tribal organization is encouraged to involve Indian parents in the development and implementation of these activities.
+
+(2) The tribe or tribal organization, as appropriate, must make referrals to local, State, or Federal entities for the provision of services or further diagnosis.
+
+(e) *Biennial report.* To be eligible to receive a grant pursuant to paragraph (a) of this section, the tribe or tribal organization must provide to the Secretary of the Interior a biennial report of activities undertaken under this section, including the number of contracts and cooperative agreements entered into, the number of children contacted and receiving services for each year, and the estimated number of children needing services during the two years following the year in which the report is made. The Secretary of the Interior must include a summary of this information on a biennial basis in the report to the Secretary required under section 611(h) of the Act. The Secretary may require any additional information from the Secretary of the Interior.
+
+(f) *Prohibitions.* None of the funds allocated under this section may be used by the Secretary of the Interior for administrative purposes, including child count and the provision of technical assistance.
+
+(Authority: 20 U.S.C. 1411(h)(4))

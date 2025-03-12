@@ -1,0 +1,3 @@
+##### § 665.100 What are the Statewide workforce investment activities under title I of WIA? #####
+
+Statewide workforce investment activities include Statewide employment and training activities for adults and dislocated workers, as described in WIA section 134(a), and Statewide youth activities, as described in WIA section 129(b). They include both required and allowable activities. In accordance with the requirements of this subpart, the State may develop policies and strategies for use of Statewide workforce investment funds. Descriptions of these policies and strategies must be included in the State Plan. (WIA secs. 129(b), 134(a).)

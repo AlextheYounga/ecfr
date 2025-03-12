@@ -1,0 +1,9 @@
+##### § 655.732 What is the second LCA requirement, regarding working conditions? #####
+
+An employer seeking to employ H-1B nonimmigrants in specialty occupations or as fashion models of distinguished merit and ability shall state on Form ETA 9035 or 9035E that the employment of H-1B nonimmigrants will not adversely affect the working conditions of workers similarly employed in the area of intended employment. For the purposes of this section, “H-1B” includes “E-3 and H-1B1” as well.
+
+(a) *Establishing the working conditions requirement.* The second LCA requirement shall be satisfied when the employer affords working conditions to its H-1B nonimmigrant employees on the same basis and in accordance with the same criteria as it affords to its U.S. worker employees who are similarly employed, and without adverse effect upon the working conditions of such U.S. worker employees. Working conditions include matters such as hours, shifts, vacation periods, and benefits such as seniority-based preferences for training programs and work schedules. The employer's obligation regarding working conditions shall extend for the longer of two periods: the validity period of the certified LCA, or the period during which the H-1B nonimmigrant(s) is(are) employed by the employer.
+
+(b) *Documentation of the working condition statement.* In the event of an enforcement action pursuant to subpart I of this part, the employer shall produce documentation to show that it has afforded its H-1B nonimmigrant employees working conditions on the same basis and in accordance with the same criteria as it affords its U.S. worker employees who are similarly employed.
+
+[65 FR 80221, Dec. 20, 2000, as amended at 66 FR 63302, Dec. 5, 2001; 73 FR 19949, Apr. 11, 2008]

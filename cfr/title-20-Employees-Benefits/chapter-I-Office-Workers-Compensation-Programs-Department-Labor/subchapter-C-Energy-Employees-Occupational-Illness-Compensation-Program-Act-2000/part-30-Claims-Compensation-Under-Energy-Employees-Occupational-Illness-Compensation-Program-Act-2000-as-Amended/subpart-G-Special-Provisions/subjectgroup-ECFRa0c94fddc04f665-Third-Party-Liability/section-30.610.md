@@ -1,0 +1,3 @@
+##### § 30.610 Are payments to a covered Part B employee, a covered Part E employee or an eligible surviving beneficiary as a result of an insurance policy which the employee or eligible surviving beneficiary has purchased a recovery that must be reported to OWCP? #####
+
+Since payments received by a covered Part B employee, a covered Part E employee or an eligible surviving beneficiary pursuant to an insurance policy purchased by someone other than a liable third party are not payments in satisfaction of liability for causing an occupational illness or covered illness compensable under the Act, they are not considered a recovery that must be reported to OWCP.

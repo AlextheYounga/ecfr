@@ -1,0 +1,5 @@
+##### § 10.900 What is the death gratuity under this subpart? #####
+
+(a) The death gratuity authorized by 5 U.S.C. 8102a and payable pursuant to the provisions of this subpart is a payment to a claimant who is an eligible survivor (as defined in §§ 10.906 and 10.907) or a designated alternate beneficiary (as defined in §§ 10.908 and 10.909) of an employee who dies of injuries incurred in connection with the employee's service with an Armed Force in a contingency operation. This payment was authorized by section 1105 of Public Law 110-181 (2008). For the purposes of this subchapter, the term “Armed Force” means the Army, Navy, Air Force, Marine Corps, and Coast Guard.
+
+(b) This death gratuity payment is a FECA benefit, as defined by § 10.5(a) of this part. All the provisions and definitions in this part apply to claims for payment under this subpart unless otherwise specified.

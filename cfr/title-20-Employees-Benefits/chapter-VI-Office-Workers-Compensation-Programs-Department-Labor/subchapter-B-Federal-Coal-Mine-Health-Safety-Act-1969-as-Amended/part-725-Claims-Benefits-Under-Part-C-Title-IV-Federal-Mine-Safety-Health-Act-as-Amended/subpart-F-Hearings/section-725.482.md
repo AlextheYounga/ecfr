@@ -1,0 +1,5 @@
+##### § 725.482 Judicial review. #####
+
+(a) Any person adversely affected or aggrieved by a final order of the Benefits Review Board may obtain a review of that order in the U.S. court of appeals for the circuit in which the injury occurred by filing in such court within 60 days following the issuance of such Board order a written petition praying that the order be modified or set aside. The payment of the amounts required by an award shall not be stayed pending final decision in any such proceeding unless ordered by the court. No stay shall be issued unless the court finds that irreparable injury would otherwise ensue to an operator or carrier.
+
+(b) The Director, Office of Workers' Compensation Program, as designee of the Secretary of Labor responsible for the administration and enforcement of the Act, shall be considered the proper party to appear and present argument on behalf of the Secretary of Labor in all review proceedings conducted pursuant to this part and the Act, either as petitioner or respondent.

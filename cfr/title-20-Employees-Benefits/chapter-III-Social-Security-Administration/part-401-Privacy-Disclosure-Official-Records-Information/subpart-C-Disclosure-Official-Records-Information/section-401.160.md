@@ -1,0 +1,3 @@
+##### § 401.160 Health or safety. #####
+
+The Privacy Act allows us to disclose information in compelling circumstances where an individual's health or safety is affected. For example, if we learn that someone has been exposed to an excessive amount of radiation, we may notify that person and appropriate health officials. If we learn that someone has made a threat against someone else, we may notify that other person and law enforcement officials. When we make these disclosures, the Privacy Act requires us to send a notice of the disclosure to the last known address of the person whose record was disclosed.

@@ -1,0 +1,9 @@
+##### § 1002.266 What are the obligations of a multiemployer pension benefit plan under USERRA? #####
+
+A multiemployer pension benefit plan is one to which more than one employer is required to contribute, and which is maintained pursuant to one or more collective bargaining agreements between one or more employee organizations and more than one employer. The Act uses ERISA's definition of a multiemployer plan. In addition to the provisions of USERRA that apply to all pension benefit plans, there are provisions that apply specifically to multiemployer plans, as follows:
+
+(a) The last employer that employed the employee before the period of service is responsible for making the employer contribution to the multiemployer plan, if the plan sponsor does not provide otherwise. If the last employer is no longer functional, the plan must nevertheless provide coverage to the employee.
+
+(b) An employer that contributes to a multiemployer plan and that reemploys the employee pursuant to USERRA must provide written notice of reemployment to the plan administrator within 30 days after the date of reemployment. The returning service member should notify the reemploying employer that he or she has been reemployed pursuant to USERRA. The 30-day period within which the reemploying employer must provide written notice to the multiemployer plan pursuant to this subsection does not begin until the employer has knowledge that the employee was reemployed pursuant to USERRA.
+
+(c) The employee is entitled to the same employer contribution whether he or she is reemployed by the pre-service employer or by a different employer contributing to the same multiemployer plan, provided that the pre-service employer and the post-service employer share a common means or practice of hiring the employee, such as common participation in a union hiring hall.

@@ -1,0 +1,3 @@
+##### § 702.348 Formal hearings; preparation of final decision and order; content. #####
+
+Within 20 days after the official termination of the hearing as defined by § 702.347, the administrative law judge shall have prepared a final decision and order, in the form of a compensation order, with respect to the claim, making an award to the claimant or rejecting the claim. The compensation order shall contain appropriate findings of facts and conclusions of law with respect thereto, and shall be concluded with one or more paragraphs containing the order of the administrative law judge, his signature, and the date of issuance.

@@ -1,0 +1,3 @@
+##### § 225.26 Residual Lump-Sum PIA. #####
+
+The Residual Lump-Sum PIA (RLS PIA) is used to compute the regular retirement annuity amounts to be deducted from the gross residual lump-sum amount in determining the amount of the residual lump-sum payable, as explained in part 234 of this chapter. The RLS PIA is determined in accordance with section 215 of the Social Security Act using the employee's railroad compensation after 1950 (or after 1936, if a higher PIA would result) as if it were social security earnings. The RLS PIA is computed just like the retirement Tier I PIA described in subpart B of this part, except that social security earnings are not used to compute the RLS PIA.

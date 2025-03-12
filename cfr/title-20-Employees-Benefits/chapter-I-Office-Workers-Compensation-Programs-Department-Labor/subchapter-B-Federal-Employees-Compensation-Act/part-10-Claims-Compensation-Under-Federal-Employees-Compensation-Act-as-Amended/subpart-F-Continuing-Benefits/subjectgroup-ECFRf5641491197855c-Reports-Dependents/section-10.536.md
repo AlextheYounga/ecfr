@@ -1,0 +1,3 @@
+##### § 10.536 What is the penalty for failing to submit a report of dependents? #####
+
+If an employee fails to submit a requested statement or supporting document within 30 days of the date of the request, OWCP will suspend his or her right to augmented compensation until OWCP receives the requested statement or supporting document. At that time, OWCP will reinstate augmented compensation retroactive to the date of suspension, provided that the employee is entitled to receive augmented compensation.

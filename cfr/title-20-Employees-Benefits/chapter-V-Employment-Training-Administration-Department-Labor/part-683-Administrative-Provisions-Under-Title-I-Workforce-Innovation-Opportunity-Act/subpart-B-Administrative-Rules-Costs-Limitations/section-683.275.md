@@ -1,0 +1,9 @@
+##### § 683.275 What wage and labor standards apply to participants in activities under title I of the Workforce Innovation and Opportunity Act? #####
+
+(a) Individuals in on-the-job training or individuals employed in activities under title I of WIOA must be compensated at the same rates, including periodic increases, as trainees or employees who are similarly situated in similar occupations by the same employer and who have similar training, experience, and skills. Such rates must be in accordance with applicable law, but may not be less than the higher of the rate specified in sec. 6(a)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(a)(1)) or the applicable State or local minimum wage law.
+
+(b) The reference in paragraph (a) of this section to sec. 6(a)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(a)(1)) is not applicable for individuals in territorial jurisdictions in which sec. 6(a)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(a)(1)) does not apply.
+
+(c) Individuals in on-the-job training or individuals employed in programs and activities under title I of WIOA must be provided benefits and working conditions at the same level and to the same extent as other trainees or employees working a similar length of time and doing the same type of work.
+
+(d) Allowances, earnings, and payments to individuals participating in programs under title I of WIOA are not considered as income for purposes of determining eligibility for and the amount of income transfer and in-kind aid furnished under any Federal or Federally-assisted program based on need, other than as provided under the Social Security Act (42 U.S.C. 301 *et seq.*).

@@ -1,0 +1,3 @@
+##### § 411.455 What is the purpose of an IWP? #####
+
+The purpose of an IWP is to outline the specific employment services, vocational rehabilitation services and other support services that the EN and beneficiary have determined are necessary to achieve the beneficiary's stated employment goal. An IWP provides written documentation for both the EN and beneficiary. Both parties should develop and implement the IWP in partnership. The EN shall develop and implement the plan in a manner that gives the beneficiary the opportunity to exercise informed choice in selecting an employment goal. Specific services needed to achieve the designated employment goal are discussed and agreed to by both parties.

@@ -1,0 +1,9 @@
+##### § 692.10 How does the Secretary allot funds to the States? #####
+
+(a)(1) The Secretary allots to each State participating in the LEAP program an amount which bears the same ratio to the Federal LEAP funds appropriated as the number of students in that State who are “deemed eligible” to participate in the State's LEAP program bears to the total number of students in all States who are “deemed eligible” to participate in the LEAP program, except that no State may receive less than it received in fiscal year 1979 for the programs under this part.
+
+(2) For the programs under this part, if the Federal funds appropriated for a fiscal year are not sufficient to allot to each State the amount of Federal funds it received in fiscal year 1979, the Secretary allots to each State an amount which bears the same ratio to the amount of Federal funds appropriated as the amount of Federal funds that State received in fiscal year 1979 bears to the amount of Federal funds all States received in fiscal year 1979.
+
+(b) For the purpose of paragraph (a)(1) of this section, the Secretary determines the number of students “deemed eligible” to participate in a State's LEAP Program by dividing the amount of that State's LEAP expenditures, including both its Federal allotment and the State funds matching the allotment, by the average grant award per student of all participating States. The Secretary determines the “average grant award per student” by dividing the total number of student recipients for all States into the total amount of LEAP expenditures for all States, including both the Federal allotments and the State funds matching those allotments. In making this determination, the Secretary uses the most current available data reported by each State.
+
+(Authority: 20 U.S.C. 1070c, 1070c-2)[52 FR 45433, Nov. 27, 1987, as amended at 59 FR 4223, Jan. 28, 1994; 65 FR 38730, June 22, 2000; 74 FR 55952, Oct. 29, 2009]

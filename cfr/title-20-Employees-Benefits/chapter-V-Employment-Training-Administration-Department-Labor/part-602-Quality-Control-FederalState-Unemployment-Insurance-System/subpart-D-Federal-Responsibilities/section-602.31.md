@@ -1,0 +1,3 @@
+##### § 602.31 Oversight. #####
+
+The Department shall review QC operational procedures and samples, and validate QC methodology to ensure uniformity in the administration of the QC program and to ensure compliance with the requirements of this part. The Department shall, for purposes of determining eligibility for grants described in § 602.40, annually review the adequacy of the administration of a State's QC program.

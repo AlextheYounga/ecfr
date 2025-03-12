@@ -1,0 +1,9 @@
+##### § 1001.163 What is the national entered employment rate (EER) and what is a State's program year EER for purposes of this part? #####
+
+(a) For purposes of this part, we use the EER for veterans and eligible persons. This is the EER as applied to veterans (as defined in § 1001.162) and eligible persons (as defined in § 1001.161) who are participants in State employment service delivery systems.
+
+(b) The EER for veterans and eligible persons measures the number of the participants described in paragraph (a) of this section who are employed after exiting an employment service delivery system compared to the total number of those participants who exited. We will issue policy guidance to establish the method of calculating the EER.
+
+(c) The national EER for veterans and eligible persons is the EER achieved by the national State employment service delivery system for those veterans and eligible persons who are participants in all of the State employment service delivery systems for the program year under review. The national EER resulting from this calculation is expressed as a percentage that is rounded to the nearest tenth of a percent.
+
+(d) A State's program year EER is the EER for veterans and eligible persons (as calculated in paragraph (b) of this section) achieved by a single State's employment service delivery system for those veterans and eligible persons who are included in the EER measure for that State's employment service delivery system for the program year under review. The program year EER resulting from this calculation is expressed as a percentage that is rounded to the nearest tenth of a percent.

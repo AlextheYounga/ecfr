@@ -1,0 +1,3 @@
+##### § 332.4 Restrictions in extra service. #####
+
+Mileage or work restrictions shall be considered to exist in rotating extra board, pool, or chain gang service when there is in effect an arrangement between the employer and its employees for increasing or decreasing the number of employees in such service according to the amount of work available. When the arrangement is such that an employee in extra board, pool, or chain gang service gets the equivalent of full-time work, his lack of remuneration on any non-work day shall, subject to the provisions of § 332.2(b), be considered as due solely to the application to him of a mileage or work restriction.

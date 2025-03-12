@@ -1,0 +1,3 @@
+##### § 30.700 What kinds of medical records must providers keep? #####
+
+Federal Government medical officers, private physicians and hospitals are required to keep records of all cases treated by them under EEOICPA so they can supply OWCP with a history of the claimed occupational illness or covered illness, a description of the nature and extent of the claimed occupational illness or covered illness, the results of any diagnostic studies performed, and the nature of the treatment rendered. This requirement terminates after a provider has supplied OWCP with the above-noted information, and otherwise terminates ten years after the record was created.

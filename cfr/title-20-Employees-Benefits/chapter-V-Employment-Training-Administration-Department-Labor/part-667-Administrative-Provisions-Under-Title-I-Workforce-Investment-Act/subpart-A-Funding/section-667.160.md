@@ -1,0 +1,7 @@
+##### § 667.160 What reallocation procedures must the Governors use? #####
+
+(a) The Governor may reallocate youth, adult, and dislocated worker funds among local areas within the State in accordance with the provisions of sections 128(c) and 133(c) of the Act. If the Governor chooses to reallocate funds, the provisions in paragraphs (b) and (c) of this section apply.
+
+(b) For the youth, adult and dislocated worker programs, the amount to be recaptured from each local area for purposes of reallocation, if any, must be based on the amount by which the prior year's unobligated balance of allocated funds exceeds 20 percent of that year's allocation for the program, less any amount reserved (up to 10 percent) for the costs of administration. Unobligated balances must be determined based on allocations adjusted for any allowable transfer between funding streams. This amount, if any, must be separately determined for each funding stream.
+
+(c) To be eligible to receive youth, adult or dislocated worker funds under the reallocation procedures, a local area must have obligated at least 80 percent of the prior program year's allocation, less any amount reserved (up to 10 percent) for the costs of administration, for youth, adult, or dislocated worker activities, as separately determined. A local area's eligibility to receive a reallocation must be separately determined for each funding stream.

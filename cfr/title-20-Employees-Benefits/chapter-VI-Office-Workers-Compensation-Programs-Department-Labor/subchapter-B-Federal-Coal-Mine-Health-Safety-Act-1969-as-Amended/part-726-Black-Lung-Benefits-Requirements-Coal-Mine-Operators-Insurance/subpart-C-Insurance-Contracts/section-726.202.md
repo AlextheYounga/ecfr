@@ -1,0 +1,3 @@
+##### § 726.202 Who may underwrite an operator's liability. #####
+
+Each coal mine operator who is not authorized to self-insure shall insure and keep insured the payment of benefits as required by the Act with any stock company or mutual company or association, or with any other person, or fund, including any State fund while such company, association, person, or fund is authorized under the law of any State to insure workmen's compensation.

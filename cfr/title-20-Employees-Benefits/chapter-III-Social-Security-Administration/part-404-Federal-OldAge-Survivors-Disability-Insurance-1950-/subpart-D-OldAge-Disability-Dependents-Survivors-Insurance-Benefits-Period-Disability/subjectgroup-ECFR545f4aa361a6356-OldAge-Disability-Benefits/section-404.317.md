@@ -1,0 +1,5 @@
+##### § 404.317 How is the amount of my disability benefit calculated? #####
+
+Your monthly benefit is equal to the primary insurance amount (PIA). This amount is computed under the rules in subpart C of this part as if it was an old-age benefit, and as if you were 62 years of age at the beginning of the 5-month waiting period mentioned in § 404.315(a). If the 5-month waiting period is not required because of your previous entitlement, your PIA is figured as if you were 62 years old when you become entitled to benefits this time. Your monthly benefit amount may be reduced if you receive workers' compensation or public disability payments before you attain full retirement age (as defined in § 404.409) (see § 404.408). Your benefits may also be reduced if you were entitled to other retirement-age benefits before you attained full retirement age (as defined in § 404.409).
+
+[68 FR 4704, Jan. 30, 2003, as amended at 81 FR 10033, Apr. 4, 2016]

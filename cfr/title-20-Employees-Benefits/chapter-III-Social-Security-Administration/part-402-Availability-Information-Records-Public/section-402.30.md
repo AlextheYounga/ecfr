@@ -1,0 +1,29 @@
+##### § 402.30 Definitions. #####
+
+As used in this part,
+
+*Agency* means any executive department, military department, government corporation, government controlled corporation, or other establishment in the executive branch of the Federal Government, or any independent regulatory agency. A private organization is not an agency even if it is performing work under contract with the Government or is receiving Federal financial assistance. Grantee and contractor records are not subject to the FOIA unless they are in the possession or under the control of SSA or its agents. Solely for the purpose of disclosure under the FOIA, we consider records of individual beneficiaries located in the State Disability Determination Services (DDS) to be agency records.
+
+*Commercial use* means, when referring to a request, that the request is from or on behalf of one who seeks information for a use or purpose that furthers the commercial, trade, or profit interests of the requester or of a person on whose behalf the request is made. Whether a request is for a commercial use depends on the purpose of the request and the use to which the records will be put. The identity of the requester (individual, non-profit corporation, for-profit corporation) and the nature of the records, while in some cases indicative of that purpose or use, are not necessarily determinative. When a request is from a representative of the news media, a purpose or use supporting the requester's news dissemination function is not a commercial use.
+
+*Duplication* means the process of making a copy of a record and sending it to the requester, to the extent necessary to respond to the request. Such copies include paper copy, microfilm, audio-visual materials, and magnetic tapes, cards, and discs.
+
+*Educational institution* means a preschool, elementary or secondary school, institution of undergraduate or graduate higher education, or institution of professional or vocational education, which operates a program of scholarly research.
+
+*Freedom of Information Act* or *FOIA* means 5 U.S.C. 552.
+
+*Freedom of Information Officer* means an SSA official who has been delegated the authority to authorize disclosure of or withhold records and assess, waive, or reduce fees in response to FOIA requests.
+
+*Non-commercial scientific institution* means an institution that is not operated substantially for purposes of furthering its own or someone else's business, trade, or profit interests, and that is operated for purposes of conducting scientific research whose results are not intended to promote any particular product or industry.
+
+*Records* means any information maintained by an agency, regardless of forms or characteristics, that is made or received in connection with official business. This includes handwritten, typed, or printed documents (such as memoranda, books, brochures, studies, writings, drafts, letters, transcripts, and minutes) and material in other forms, such as punchcards; magnetic tapes; cards; computer discs or other electronic formats; paper tapes; audio or video recordings; maps; photographs; slides; microfilm; and motion pictures. It does not include objects or articles such as exhibits, models, equipment, and duplication machines, audiovisual processing materials, or computer software. It does not include personal records of an employee, or books, magazines, pamphlets, or other reference material in formally organized and officially designated SSA libraries, where such materials are available under the rules of the particular library.
+
+*Representative of the news media* means a person actively gathering information for an entity organized and operated to publish or broadcast news to the public. News media entities include television and radio broadcasters, publishers of periodicals who distribute their products to the general public or who make their products available for purchase or subscription by the general public, and entities that may disseminate news through other media (e.g., electronic dissemination of text). We will treat freelance journalists as representatives of a news media entity if they can show a likelihood of publication through such an entity. A publication contract is such a basis, and the requester's past publication record may show such a basis.
+
+*Request* means asking for records, whether or not you refer specifically to the FOIA. Requests from Federal agencies and court orders for documents are not included within this definition.
+
+*Review* means, when used in connection with processing records for a commercial use request, examining the records to determine what portions, if any, may be withheld, and any other processing that is necessary to prepare the records for release. It includes only the examining and processing that are done the first time we analyze whether a specific exemption applies to a particular record or portion of a record. It does not include examination done in the appeal stage with respect to an exemption that was applied at the initial request stage. However, if we initially withhold a record under one exemption, and on appeal we determine that that exemption does not apply, then examining the record in the appeal stage for the purpose of determining whether a different exemption applies is included in *review.* It does not include the process of researching or resolving general legal or policy issues regarding exemptions.
+
+*Search* means looking for records or portions of records responsive to a request. It includes reading and interpreting a request, and also page-by-page and line-by-line examination to identify responsive portions of a document. However, it does not include line-by-line examination where merely duplicating the entire page would be a less expensive and quicker way to comply with the request.
+
+[62 FR 4154, Jan. 29, 1997, as amended at 63 FR 35132, June 29, 1998, 66 FR 2809, Jan. 12, 2001]

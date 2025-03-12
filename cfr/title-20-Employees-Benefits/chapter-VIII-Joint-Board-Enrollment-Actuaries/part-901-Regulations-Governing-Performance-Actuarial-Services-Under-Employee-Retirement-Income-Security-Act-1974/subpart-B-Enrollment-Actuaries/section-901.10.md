@@ -1,0 +1,9 @@
+##### § 901.10 Application for enrollment. #####
+
+(a) *Form.* As a requirement for enrollment, an applicant shall file with the Executive Director of the Joint Board a properly executed application on a form or forms specified by the Joint Board, and shall agree to comply with these regulations and any other guidance as required by the Joint Board. A reasonable non-refundable fee may be charged for each application for enrollment filed.
+
+(b) *Additional information.* The Joint Board or Executive Director, as a condition to consideration of an application for enrollment, may require the applicant to file additional information and to submit to written or oral examination under oath or otherwise.
+
+(c) *Denial of application.* If the Joint Board proposes to deny an application for enrollment, the Executive Director shall notify the applicant in writing of the proposed denial and the reasons therefor, of his rights to request reconsideration, of the address to which such request should be made and the date by which such request must be made. The applicant may, within 30 days from the date of the written proposed denial, file a written request for reconsideration therefrom, together with his reasons in support thereof, to the Joint Board. The Joint Board may afford an applicant the opportunity to make a personal appearance before the Joint Board. A decision on the request for reconsideration shall be rendered by the Joint Board as soon as practicable. In the absence of a request for reconsideration within the aforesaid 30 days, the proposed denial shall, without further proceeding, constitute a final decision of denial by the Joint Board.
+
+[42 FR 39200, Aug. 3, 1977, as amended at 76 FR 17769, Mar. 31, 2011]

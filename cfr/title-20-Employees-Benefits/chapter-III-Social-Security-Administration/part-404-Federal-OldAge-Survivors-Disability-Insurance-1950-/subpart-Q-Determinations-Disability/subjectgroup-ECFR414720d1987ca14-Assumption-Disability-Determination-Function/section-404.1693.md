@@ -1,0 +1,3 @@
+##### § 404.1693 Limitation on State expenditures after notice. #####
+
+The State agency may not, after it receives the notice referred to in § 404.1690, or gives the notice referred to in § 404.1691, make any new commitments to spend funds allocated to it for performing the disability determination function without the approval of the appropriate SSA regional commissioner. The State will make every effort to close out as soon as possible all existing commitments that relate to performing the disability determination function.

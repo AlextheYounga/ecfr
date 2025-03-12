@@ -1,0 +1,3 @@
+##### § 395.12 Access to program and financial information. #####
+
+Each blind vendor under this part shall be provided access to all financial data of the State licensing agency relevant to the operation of the State vending facility program, including quarterly and annual financial reports, provided that such disclosure does not violate applicable Federal or State laws pertaining to the disclosure of confidential information. Insofar as practicable, such data shall be made available in braille or recorded tape. At the request of a blind vendor State licensing agency staff shall arrange a convenient time to assist in the interpretation of such financial data.

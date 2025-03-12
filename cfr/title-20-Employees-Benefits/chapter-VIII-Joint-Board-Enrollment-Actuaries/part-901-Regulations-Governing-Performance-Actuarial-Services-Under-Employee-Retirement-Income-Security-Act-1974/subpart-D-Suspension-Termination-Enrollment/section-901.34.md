@@ -1,0 +1,5 @@
+##### § 901.34 Conferences. #####
+
+(a) *In general.* The Executive Director may confer with an enrolled actuary concerning allegations of his/her misconduct whether or not a proceeding for suspension or termination has been initiated against him/her. If the conference results in agreement as to certain facts or other matters in connection with such a proceeding, such agreement may be entered in the record at the request of the actuary or the Executive Director.
+
+(b) *Voluntary suspension or termination of enrollment.* An enrolled actuary, in order to avoid the initiation or conclusion of a suspension or termination proceeding, may offer his/her consent to suspension or termination of enrollment or may offer his/her resignation. The Executive Director may accept the offered resignation or may suspend or terminate enrollment in accordance with the consent offered.

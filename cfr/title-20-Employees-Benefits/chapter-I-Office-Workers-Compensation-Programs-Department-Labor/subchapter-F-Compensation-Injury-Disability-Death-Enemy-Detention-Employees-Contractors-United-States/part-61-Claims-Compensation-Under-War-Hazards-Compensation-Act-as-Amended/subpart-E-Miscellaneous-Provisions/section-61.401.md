@@ -1,0 +1,3 @@
+##### § 61.401 Confidentiality of records. #####
+
+Records of the Office pertaining to injury, death, or detention are confidential, and are exempt from disclosure to the public under section 552(b)(6) of title 5, U.S. Code. No official or employee of the United States who has investigated or secured statements from witnesses and others pertaining to any case within the purview of the Act, or any person having the care or use of such records, shall disclose information from or pertaining to such records to any person, except in accordance with applicable regulations (see 29 CFR part 70a).

@@ -1,0 +1,3 @@
+##### § 641.330 How should the State Plan reflect community service needs? #####
+
+The Governor, or the highest government official, must ensure that the State Plan identifies the types of community services that are needed and the places where these services are most needed. The State Plan should specifically identify the needs and locations of those individuals most in need of community services and the groups working to meet their needs. (OAA § 503(a)(4)(E)).

@@ -1,0 +1,19 @@
+##### § 30.702 How should an employee prepare and submit requests for reimbursement for medical expenses, transportation costs, loss of wages, and incidental expenses? #####
+
+(a) If an employee has paid bills for medical, surgical or other services, supplies or appliances provided by a professional due to an occupational illness or a covered illness, he or she must submit a request for reimbursement on Form OWCP-915, together with an itemized bill on Form OWCP-1500 or CMS-1500 prepared by the provider and a medical report as provided in § 30.700, for consideration.
+
+(1) The provider of such service shall state each diagnosed condition and furnish the applicable ICD-9-CM code and identify each service performed using the applicable HCPCS/CPT code, with a brief narrative description of the service performed, or, where no code is applicable, a detailed description of that service.
+
+(2) The reimbursement request must be accompanied by evidence that the provider received payment for the service from the employee and a statement of the amount paid. Acceptable evidence that payment was received includes, but is not limited to, a signed statement by the provider, a mechanical stamp or other device showing receipt of payment, a copy of the employee's canceled check (both front and back) or a copy of the employee's credit card receipt.
+
+(b) If a hospital, pharmacy or nursing home provided services for which the employee paid, the employee must also use Form OWCP-915 to request reimbursement and should submit the request in accordance with the provisions of § 30.701(a). Any such request for reimbursement must be accompanied by evidence, as described in paragraph (a)(2) of this section, that the provider received payment for the service from the employee and a statement of the amount paid.
+
+(c) The requirements of paragraphs (a) and (b) of this section may be waived if extensive delays in the filing or the adjudication of a claim make it unusually difficult for the employee to obtain the required information.
+
+(d) Copies of bills submitted for reimbursement will not be accepted unless they bear the original signature of the provider and evidence of payment. Payment for medical and surgical treatment, appliances or supplies shall in general be no greater than the maximum allowable charge for such service determined by OWCP, as set forth in § 30.705. The decision of OWCP whether to reimburse an employee for out-of-pocket medical expenses, and the amount of any reimbursement, is final when issued and is not subject to the adjudicatory process described in subpart D of this part.
+
+(e) An employee will be only partially reimbursed for a medical expense if the amount he or she paid to a provider for the service exceeds the maximum allowable charge set by OWCP's schedule. If this happens, the employee will be advised of the maximum allowable charge for the service in question and of his or her responsibility to ask the provider to refund to the employee, or credit to the employee's account, the amount he or she paid which exceeds the maximum allowable charge. The provider that the employee paid, but not the employee, may request reconsideration of the fee determination as set forth in § 30.712.
+
+(f) If the provider fails to make appropriate refund to the employee, or to credit the employee's account, within 60 days after the employee requests a refund of any excess amount, or the date of a subsequent reconsideration decision which continues to disallow all or a portion of the disputed amount, OWCP will initiate exclusion procedures as provided by § 30.715.
+
+(g) If the provider does not refund to the employee or credit to his or her account the amount of money paid in excess of the allowed charge, the employee should submit documentation of the attempt to obtain such refund or credit to OWCP. OWCP may authorize reasonable reimbursement to the employee after reviewing the facts and circumstances of the case.

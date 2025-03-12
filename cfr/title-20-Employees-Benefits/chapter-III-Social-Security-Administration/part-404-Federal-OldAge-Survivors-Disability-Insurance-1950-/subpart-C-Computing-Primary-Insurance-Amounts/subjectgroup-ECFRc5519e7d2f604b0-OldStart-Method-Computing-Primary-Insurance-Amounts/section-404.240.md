@@ -1,0 +1,5 @@
+##### § 404.240 Old-start method—general. #####
+
+If you had all or substantially all your social security earnings before 1951, your primary insurance amount computed under the “1977 simplified old-start” method may be higher than any other primary insurance amount computed for you under any other method for which you are eligible. As explained in § 404.242, if you reach age 62 after 1978, your primary insurance amount computed under the old-start method is used, for purposes of the guaranteed alternative described in § 404.230, if the old-start primary insurance amount is higher than the one found under the average-monthly-wage method. We may use a modified computation, as explained in § 404.243, if you are entitled to a pension based on your employment which was not covered by Social Security.
+
+[47 FR 30734, July 15, 1982, as amended at 52 FR 47917, Dec. 17, 1987]

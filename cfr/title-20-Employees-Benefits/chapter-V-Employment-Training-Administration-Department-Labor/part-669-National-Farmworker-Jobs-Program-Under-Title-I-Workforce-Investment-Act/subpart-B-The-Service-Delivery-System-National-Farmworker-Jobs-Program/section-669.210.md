@@ -1,0 +1,3 @@
+##### § 669.210 How does an eligible entity become an NFJP grantee? #####
+
+To become an NFJP grantee and receive a grant under this subpart, an applicant must respond to a Solicitation for Grant Applications (SGA). The SGA may contain additional requirements for the grant application or the grantee's two-year plan. Under the SGA, grantees will be selected using standard Federal Government competitive procedures. The entity's proposal must describe a two-year strategy for meeting the needs of eligible migrant and seasonal farmworkers in the geographic area the entity seeks to serve.

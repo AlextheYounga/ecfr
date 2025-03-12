@@ -1,0 +1,5 @@
+##### § 411.135 What do I do when I receive a ticket? #####
+
+Your participation in the Ticket to Work program is voluntary. When you receive your ticket, you are free to choose when and whether to assign it (see § 411.140 for information on assigning your ticket). If you want to participate in the program, you can take your ticket to any EN you choose or to your State VR agency. You may choose either to assign your ticket to an EN by signing an individual work plan (see §§ 411.450 through 411.470) or receive services from your State VR agency by entering into and signing an individualized plan for employment. If the State VR agency provides services to you, it will decide whether to accept your ticket. If it accepts your ticket, you will have assigned your ticket to the State VR agency and it will receive payment as an EN. If the State VR agency decides to be paid under the cost reimbursement payment system, you have not assigned your ticket and you may assign your ticket after the State VR agency has closed your case.
+
+[73 FR 29339, May 20, 2008]

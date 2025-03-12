@@ -1,0 +1,3 @@
+##### § 216.11 General. #####
+
+A current connection with the railroad industry is required to qualify for certain types of railroad retirement benefits. The existence of a current connection is clear in most cases where entitlement or death immediately follows continuous years of railroad employment. However, there are cases in which the employee did not work for a railroad employer for a period of time before entitlement or death. In these situations, special tests are applied to determine whether the employee can be considered to have a current connection with the railroad industry for the purpose of determining his or her eligibility for an annuity or other benefits.

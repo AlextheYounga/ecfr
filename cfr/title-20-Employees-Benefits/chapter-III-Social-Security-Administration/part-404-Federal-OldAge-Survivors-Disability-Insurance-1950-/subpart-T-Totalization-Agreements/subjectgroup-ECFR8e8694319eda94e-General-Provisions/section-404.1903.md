@@ -1,0 +1,3 @@
+##### § 404.1903 Negotiating totalization agreements. #####
+
+An agreement shall be negotiated with the national government of the foreign country for the entire country. However, agreements may only be negotiated with foreign countries that have a social security system of general application in effect. The system shall be considered to be in effect if it is collecting social security taxes or paying social security benefits.

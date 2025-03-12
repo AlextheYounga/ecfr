@@ -1,0 +1,3 @@
+##### § 725.531 Receipt for payment. #####
+
+Any individual receiving benefits under the Act in his or her own right, or as a representative payee, or as the duly appointed agent for the estate of a deceased beneficiary, shall execute receipts for benefits paid by any operator which shall be produced by such operator for inspection whenever the district director requires. A canceled check shall be considered adequate receipt of payment for purposes of this section. No operator or carrier shall be required to retain receipts for payments made for more than 5 years after the date on which such receipt was executed.

@@ -1,0 +1,3 @@
+##### § 411.380 What does a State VR agency do if the State VR agency wants to determine whether a person seeking services has a ticket? #####
+
+A State VR agency can contact the Program Manager (PM) to determine if a person seeking VR services has a ticket and, if so, whether the ticket may be assigned to the State VR agency (see § 411.140) or reassigned to the State VR agency (see § 411.150). (See § 411.115(k) for a definition of the PM.)

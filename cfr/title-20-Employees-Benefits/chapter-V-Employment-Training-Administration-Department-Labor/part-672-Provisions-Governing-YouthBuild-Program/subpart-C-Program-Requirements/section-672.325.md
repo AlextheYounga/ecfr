@@ -1,0 +1,3 @@
+##### § 672.325 What timeframes apply for follow-up services? #####
+
+Follow-up services must be provided to all YouthBuild participants for a period of not less than 9 months but no more than 12 months after participants exit a YouthBuild program. These are services that assist participants in obtaining or retaining employment, or applying for and transitioning to post-secondary education or training.

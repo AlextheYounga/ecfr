@@ -1,0 +1,3 @@
+##### § 228.40 Cost of living increase applicable to the tier I annuity component. #####
+
+The tier I annuity component of a survivor annuity is increased at the same time and by the same percentage as the increase provided for under section 215(i) of the Social Security Act. The amount of the increase is published in the Federal Register annually. The cost-of-living increase is payable beginning with the benefit for the month of December of the year for which the increase is due. The increase is paid in the January payment.

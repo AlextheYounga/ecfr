@@ -1,0 +1,3 @@
+##### § 684.410 What entities are eligible to receive supplemental youth services funding? #####
+
+Entities eligible to receive supplemental youth services funding are limited to: Those tribal, Alaska Native, Native Hawaiian and Oklahoma tribal grantees funded under WIOA sec. 166(d)(2)(A)(i) or other grantees serving those areas, and entities serving the populations specified in § 684.400 that received funding under sec. 166(d)(2)(A)(ii) of the Workforce Investment Act.

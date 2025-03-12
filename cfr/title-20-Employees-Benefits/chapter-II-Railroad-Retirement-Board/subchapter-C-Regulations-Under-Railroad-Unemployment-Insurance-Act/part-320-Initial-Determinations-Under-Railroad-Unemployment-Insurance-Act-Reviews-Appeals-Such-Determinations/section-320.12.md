@@ -1,0 +1,9 @@
+##### § 320.12 Appeal to the Bureau of Hearings and Appeals. #####
+
+(a) Any party aggrieved by a decision under § 320.10 of this part or a claimant aggrieved by a decision under § 320.11 of this part may appeal such decision to the Bureau of Hearings and Appeals. Such an appeal shall be made by filing the form prescribed by the Board for such purpose. The appeal must be filed with the Bureau of Hearings and Appeals within 60 days from the date upon which notice of the decision on reconsideration or waiver of recovery was mailed to either a claimant or the base year employer(s). Any written request stating an intent to appeal which is received within the 60-day period will protect the claimant's or base-year employer's right to appeal, *Provided that* the claimant or base-year employer files the appeal form within the later of the 60-day period from the date of the reconsideration decision, or the 30-day period following the date of the Board's letter sending the appeal form to the claimant or base-year employer.
+
+(b) If no appeal is filed within the time limits specified in paragraph (a) of this section, the decision of the adjudicating office under §§ 320.10 or 320.11 of this part shall be considered final and no further review of such decision shall be available unless the hearings officer finds that there was good cause for the failure to file a timely appeal as described in § 320.10 of this part.
+
+(c) Where a timely appeal seeking waiver of recovery of an erroneous payment has been filed with the Bureau of Hearings and Appeals, the Board shall not commence recovery of the erroneous payment by suspension or reduction of a monthly benefit payable by the Board until a decision with respect to such appeal seeking waiver has been made and notice thereof has been mailed to the claimant.
+
+[67 FR 77157, Dec. 17, 2002]

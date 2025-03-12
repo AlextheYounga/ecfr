@@ -1,0 +1,3 @@
+##### § 30.717 When are OWCP's exclusion procedures initiated? #####
+
+Upon receipt of information indicating that a physician, hospital or provider of medical services or supplies (hereinafter the provider) has engaged in activities enumerated in paragraphs (c) through (h) of § 30.715, the Regional Director, after completion of inquiries he or she deems appropriate, may initiate procedures to exclude the provider from participation in the EEOICPA program. For the purposes of these procedures, “Regional Director” may include any officer designated to act on his or her behalf.

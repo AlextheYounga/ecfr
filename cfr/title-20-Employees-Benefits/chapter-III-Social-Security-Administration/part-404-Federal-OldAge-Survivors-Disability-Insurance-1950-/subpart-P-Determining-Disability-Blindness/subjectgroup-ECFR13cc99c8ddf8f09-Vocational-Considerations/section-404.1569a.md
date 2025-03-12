@@ -1,0 +1,25 @@
+##### § 404.1569a Exertional and nonexertional limitations. #####
+
+(a) *General.* Your impairment(s) and related symptoms, such as pain, may cause limitations of function or restrictions which limit your ability to meet certain demands of jobs. These limitations may be exertional, nonexertional, or a combination of both. Limitations are classified as exertional if they affect your ability to meet the strength demands of jobs. The classification of a limitation as exertional is related to the United States Department of Labor's classification of jobs by various exertional levels (sedentary, light, medium, heavy, and very heavy) in terms of the strength demands for sitting, standing, walking, lifting, carrying, pushing, and pulling. Sections 404.1567 and 404.1569 explain how we use the classification of jobs by exertional levels (strength demands) which is contained in the Dictionary of Occupational Titles published by the Department of Labor, to determine the exertional requirements of work which exists in the national economy. Limitations or restrictions which affect your ability to meet the demands of jobs other than the strength demands, that is, demands other than sitting, standing, walking, lifting, carrying, pushing or pulling, are considered nonexertional. When we decide whether you can do your past relevant work (*see* §§ 404.1520(f) and 404.1594(f)(7)), we will compare our assessment of your residual functional capacity with the demands of your past relevant work. If you cannot do your past relevant work, we will use the same residual functional capacity assessment along with your age, education, and work experience to decide if you can adjust to any other work which exists in the national economy. (*See* §§ 404.1520(g) and 404.1594(f)(8).) Paragraphs (b), (c), and (d) of this section explain how we apply the medical-vocational guidelines in appendix 2 of this subpart in making this determination, depending on whether the limitations or restrictions imposed by your impairment(s) and related symptoms, such as pain, are exertional, nonexertional, or a combination of both.
+
+(b) *Exertional limitations.* When the limitations and restrictions imposed by your impairment(s) and related symptoms, such as pain, affect only your ability to meet the strength demands of jobs (sitting, standing, walking, lifting, carrying, pushing, and pulling), we consider that you have only exertional limitations. When your impairment(s) and related symptoms only impose exertional limitations and your specific vocational profile is listed in a rule contained in appendix 2 of this subpart, we will directly apply that rule to decide whether you are disabled.
+
+(c) *Nonexertional limitations.* (1) When the limitations and restrictions imposed by your impairment(s) and related symptoms, such as pain, affect only your ability to meet the demands of jobs other than the strength demands, we consider that you have only nonexertional limitations or restrictions. Some examples of nonexertional limitations or restrictions include the following:
+
+(i) You have difficulty functioning because you are nervous, anxious, or depressed;
+
+(ii) You have difficulty maintaining attention or concentrating;
+
+(iii) You have difficulty understanding or remembering detailed instructions;
+
+(iv) You have difficulty in seeing or hearing;
+
+(v) You have difficulty tolerating some physical feature(s) of certain work settings, e.g., you cannot tolerate dust or fumes; or
+
+(vi) You have difficulty performing the manipulative or postural functions of some work such as reaching, handling, stooping, climbing, crawling, or crouching.
+
+(2) If your impairment(s) and related symptoms, such as pain, only affect your ability to perform the nonexertional aspects of work-related activities, the rules in appendix 2 do not direct factual conclusions of disabled or not disabled. The determination as to whether disability exists will be based on the principles in the appropriate sections of the regulations, giving consideration to the rules for specific case situations in appendix 2.
+
+(d) *Combined exertional and nonexertional limitations.* When the limitations and restrictions imposed by your impairment(s) and related symptoms, such as pain, affect your ability to meet both the strength and demands of jobs other than the strength demands, we consider that you have a combination of exertional and nonexertional limitations or restrictions. If your impairment(s) and related symptoms, such as pain, affect your ability to meet both the strength and demands of jobs other than the strength demands, we will not directly apply the rules in appendix 2 unless there is a rule that directs a conclusion that you are disabled based upon your strength limitations; otherwise the rules provide a framework to guide our decision.
+
+[56 FR 57943, Nov. 14, 1991, as amended at 68 FR 51163, Aug. 26, 2003]

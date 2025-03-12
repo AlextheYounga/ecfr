@@ -1,0 +1,15 @@
+##### § 422.823 Debtor rights to review or copy records, submit repayment proposals, or request administrative review. #####
+
+(a) A debtor who intends to review or copy our records with respect to the debt must notify us in writing within 30 days of the date of the notice as described in section § 422.822. In response, we will notify the debtor of the location, time, and any other conditions for reviewing and copying. The debtor may be liable for reasonable copying expenses.
+
+(b) In response to the notice as described in section § 422.822, the debtor may propose a written agreement to repay the debt as an alternative to Administrative Offset. Any debtor who wishes to do this must submit a written proposal for repayment of the debt, which we must receive within 30 days of the date of the notice as described in section § 422.822 or 15 days after the date of a decision adverse to the debtor. In response, we will notify the debtor whether we need additional information, for example, financial status information. We will obtain any necessary authorization required to approve the agreement, and we will issue a written determination whether the proposed agreement is acceptable. In exercising our discretion, we will balance the Government's interest in collecting the debt against fairness to the debtor.
+
+(c) A debtor must request an administrative review of the debt within 30 days of the date of the notice as described in section § 422.822 for purposes of a proposed collection by non-centralized Administrative Offset pursuant to § 422.824. A debtor must request an administrative review of the debt within 60 days of the date of the notice as described in section § 422.822 for purposes of a proposed collection by centralized Administrative Offset for offset against other Federal payments that would include tax refunds pursuant to § 422.825.
+
+(1) For purposes of this section, whenever we are required to provide a debtor a review within the agency, we will give the debtor a reasonable opportunity for an oral hearing, either by telephone or in person, when the debtor requests reconsideration of the debt and we determine that the question of the indebtedness cannot be resolved by review of the documentary evidence.
+
+(2) Unless otherwise required by law, an oral hearing under this section is not required to be a formal evidentiary hearing, although we will carefully document all significant matters discussed at the hearing.
+
+(3) An oral hearing is not required with respect to debts where determinations of indebtedness rarely involve issues of credibility or veracity, and we have determined that a review of the written record is adequate to correct prior mistakes.
+
+(4) In those cases when an oral hearing is not required by this section, we will provide the debtor a paper hearing, that is, a determination of the request for reconsideration based upon a review of the written record.

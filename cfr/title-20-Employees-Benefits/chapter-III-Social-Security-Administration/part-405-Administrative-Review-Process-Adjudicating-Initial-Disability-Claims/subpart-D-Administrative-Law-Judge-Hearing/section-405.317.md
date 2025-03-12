@@ -1,0 +1,17 @@
+##### § 405.317 Objections. #####
+
+(a) *Objecting to appearing by video teleconferencing.* Prior to scheduling your hearing, we will notify you that we may schedule you to appear by video teleconferencing. If you object to appearing by video teleconferencing, you must notify us in writing within 30 days after the date you receive the notice. If you notify us within that time period and your residence does not change while your request for hearing is pending, we will set your hearing for a time and place at which you may make your appearance before the administrative law judge in person.
+
+(1) Notwithstanding any objections you may have to appearing by video teleconferencing, if you change your residence while your request for hearing is pending, we may determine how you will appear, including by video teleconferencing, as provided in § 405.315(c). For us to consider your change of residence when we schedule your hearing, you must submit evidence verifying your new residence.
+
+(2) If you notify us that you object to appearing by video teleconferencing more than 30 days after the date you receive our notice, we will extend the time period if you show you had good cause for missing the deadline. To determine whether good cause exists for extending the deadline, we use the standards explained in § 405.20.
+
+(b) Objecting to the *time and place of the hearing.* If you object to the time or place of your hearing, you must:
+
+(1) Notify us in writing at the earliest possible opportunity before the date set for the hearing, but not later than 30 days after receiving notice of the hearing. If you notify us that you object to the time or place of hearing more than 30 days after receiving notice of the hearing, we will extend the time period if you show you had good cause for missing the deadline. To determine whether good cause exists for extending the deadline, we use the standards explained in § 405.20; and
+
+(2) State the reason(s) for your objection and state the time and place you want the hearing to be held. The administrative law judge will consider your reason(s) for requesting the change, the facts supporting it, and the impact of the proposed change on the efficient administration of the hearing process. Factors affecting the impact of the change include, but are not limited to, the effect on the processing of other scheduled hearings, delays that might occur in rescheduling your hearing, and whether we previously granted you any changes in the time or place of your hearing. However, an objection to the time or place of your hearing will not change the assignment of the administrative law judge for your case, unless we determine reassignment will promote more efficient administration of the hearing process.
+
+(c) *Issues.* If you believe that the issues contained in the hearing notice are incorrect, you should notify the administrative law judge in writing at the earliest possible opportunity, but you must notify him or her no later than 5 business days before the date set for the hearing. You must state the reason(s) for your objection. The administrative law judge will make a decision on your objection either at the hearing or in writing before the hearing.
+
+[79 FR 35933, June 25, 2014]

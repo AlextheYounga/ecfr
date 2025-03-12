@@ -1,0 +1,5 @@
+##### § 71.2 Computation of benefits. #####
+
+(a) For the purpose of determining the benefits under this subchapter, the average weekly wage of any such civilian American citizen, whether employed, self-employed, or not employed, shall be deemed to have been $37.50. The provisions of this subchapter are applicable and benefits are payable whether or not such civilian American citizen was employed. Monthly compensation in cases involving partial disability shall be determined by the percentage which the degree of partial disability bears to total disability, and shall not be determined with respect to the extent of loss of wage-earning capacity.
+
+(b) Notwithstanding any of the provisions of part 61 of this chapter, total maximum aggregate compensation for disability payable under this subchapter is limited to $7,500 in case of injury and $7,500 in case of death, such sum being exclusive of medical costs and funeral and burial expenses.

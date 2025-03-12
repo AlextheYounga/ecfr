@@ -1,0 +1,3 @@
+##### § 416.1266 Individual under special resource provision dies after December 1973. #####
+
+Where only one person, either the eligible individual or the eligible spouse, meets the conditions specified in § 416.1260 and that person dies after December 1973, the State plan resource limitation and exclusions will not be applied to determine the amount of resources of the surviving individual. The resource limitation (as specified in § 416.1205) and exclusions (as specified in § 416.1210) will be applied for the now eligible individual beginning with the month such person is considered the eligible individual as defined in subpart A of this part.

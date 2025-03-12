@@ -1,0 +1,5 @@
+##### § 10.16 What criminal and civil penalties may be imposed in connection with a claim under the FECA? #####
+
+(a) A number of statutory provisions make it a crime to file a false or fraudulent claim or statement with the Government in connection with a claim under the FECA, or to wrongfully impede a FECA claim. Included among these provisions are 18 U.S.C. 287, 1001, 1920, and 1922. Furthermore, a civil action to recover benefits paid erroneously under the FECA may be maintained under the False Claims Act, 31 U.S.C. 3729-3733. Enforcement of such provisions that may apply to claims under the FECA is within the jurisdiction of the Department of Justice.
+
+(b) In addition, administrative proceedings may be initiated under the Program Fraud Civil Remedies Act of 1986 (PFCRA), 31 U.S.C. 3801-12, to impose civil penalties and assessments against persons who make, submit, or present, or cause to be made, submitted or presented, false, fictitious or fraudulent claims or written statements to OWCP in connection with a claim under the FECA. The Department of Labor's regulations implementing the PFRCA are found at 29 CFR part 22.

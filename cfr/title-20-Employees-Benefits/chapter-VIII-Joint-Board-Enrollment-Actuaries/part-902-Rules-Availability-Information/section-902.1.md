@@ -1,0 +1,3 @@
+##### § 902.1 Scope. #####
+
+This part is issued by the Joint Board for the Enrollment of Actuaries (the “Joint Board”) pursuant to the requirements of section 552 of title 5 of the United States Code, including the requirements that every Federal agency shall publish in the Federal Register, for the guidance of the public, descriptions of the established places at which, the officers from whom, and the methods whereby, the public may obtain information, make submittals or requests, or obtain decisions.

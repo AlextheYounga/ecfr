@@ -1,0 +1,3 @@
+##### § 702.391 Appeals; where. #####
+
+Appeals may be taken to the Benefits Review Board, U.S. Department of Labor, Washington, D.C. 20210, by filing a notice of appeals with the office of the district director for the compensation district in which the decision or order appealed from was filed and by submitting to the Board a petition for review of such decision or order, in accordance with the provisions of part 802 of this title 20.

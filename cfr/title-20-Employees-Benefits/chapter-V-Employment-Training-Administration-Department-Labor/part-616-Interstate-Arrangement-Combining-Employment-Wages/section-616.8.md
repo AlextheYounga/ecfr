@@ -1,0 +1,33 @@
+##### § 616.8 Responsibilities of the paying State. #####
+
+(a) *Transfer of employment and wages—payment of benefits.* The paying State shall request the transfer of a Combined-Wage Claimant's employment and wages in all States during its base period, and shall determine the claimant's entitlement to benefits (including additional benefits, extended benefits and dependents' allowances when applicable) under the provisions of its law based on employment and wages in the paying State, and all such employment and wages transferred to it hereunder. The paying State shall apply all the provisions of its law to each determination made hereunder, except that the paying State may not determine an issue which has previously been adjudicated by a transferring State. Such exception shall not apply, however, if the transferring State's determination of the issue resulted in making the Combined-Wage Claim possible under § 616.7(b)(2). If the paying State fails to establish a benefit year for the Combined-Wage Claimant, or if the claimant withdraws his/her claim as provided herein, it shall return to each transferring State all employment and wages thus unused.
+
+(b) *Notices of determination.* The paying State shall give to the claimant a notice of each of its determinations on his/her Combined-Wage Claim that he/she is required to receive under the Secretary's Claim Determinations Standard and the contents of such notice shall meet such Standard. When the claimant is filing his/her Combined-Wage Claims in a State other than the paying State, the paying State shall send a copy of each such notice to the local office in which the claimant filed such claims.
+
+(c) *Redeterminations.* (1) Redeterminations may be made by the paying State in accordance with its law based on additional or corrected information received from any source, including a transferring State, except that such information shall not be used as a basis for changing the paying State if benefits have been paid under the Combined-Wage Claim.
+
+(2) When a determination is made, as provided in paragraph (a) of this section, which suspends the use of wages earned in employment with an educational institution during a prescribed period between successive academic years or terms or other periods as prescribed in the law of the paying State in accordance with section 3304(a)(6)(A)(i)-(iv) of the Internal Revenue Code of 1986, the paying State shall furnish each transferring State involved in the combined-Wage Claim an adjusted determination used to recompute each State's proportionate share of any charges that may accumulate for benefits paid during the period of suspended use of school wages. Wages which are suspended shall be retained by the paying State for possible future reinstatement to the Combined-Wage Claim and shall not be returned to the transferring State.
+
+(d) *Appeals.* (1) Except as provided in paragraph (d)(3) of this section, where the claimant files his/her Combined-Wage Claim in the paying State, any protest, request for redetermination or appeal shall be in accordance with the law of such State.
+
+(2) Where the claimant files his/her Combined-Wage Claim in a State other than the paying State, or under the circumstances described in paragraph (d)(3) of this section, any protest, request for redetermination or appeal shall be in accordance with the Interstate Benefit Payment Plan.
+
+(3) To the extent that any protest, request for redetermination or appeal involves a dispute as to the coverage of the employing unit or services in a transferring State, or otherwise involves the amount of employment and wages subject to transfer, the protest, request for redetermination or appeal shall be decided by the transferring State in accordance with its law.
+
+(e) *Recovery of prior overpayments.* If there is an overpayment outstanding in a transferring State and such transferring State so requests, the overpayment shall be deducted from any benefits the paying State would otherwise pay to the claimant on his/her Combined-Wage Claim except to the extent prohibited by the law of the paying State. The paying State shall transmit the amount deducted to the transferring State or credit the deduction against the transferring State's required reimbursement under this arrangement. This paragraph shall apply to overpayments only if the transferring State certifies to the paying State that the determination of overpayment was made within 3 years before the Combined-Wage Claim was filed and that repayment by the claimant is legally required and enforceable against him/her under the law of the transferring State.
+
+(f) *Statement of benefit charges.* (1) At the close of each calendar quarter, the paying State shall send each transferring State a statement of benefits charged during such quarter to such State as to each Combined-Wage Claimant.
+
+(2) Except as provided in paragraphs (c)(2), (f)(3), and (f)(5) of this section, each such charge shall bear the same ratio to the total benefits paid to the Combined-Wage Claimant by the paying State as the claimant's wages transferred by the transferring State bear to the total wages used in such determination. Each such ratio shall be computed as a percentage, to three or more decimal places.
+
+(3) Charges to the transferring State shall not include the costs of any benefits paid which are funded or reimbursed from the Federal Unemployment Benefits and Allowances account in the U.S. Department of Labor appropriation, including:
+
+(i) Benefits paid pursuant to 5 U.S.C. 8501-8525; and
+
+(ii) Benefits which are reimbursable under part B of title II of the Emergency Jobs and Unemployment Assistance Act of 1974 (Pub. L. 93-567).
+
+(4) Except as provided in paragraphs (f)(3) and (f)(5) of this section, all transferring States will be charged by the paying State for Extended Benefits in the same manner as for regular benefits.
+
+(5) The United States shall be charged directly by the paying State, in the same manner as is provided in paragraphs (f)(1) and (f)(2) of this section, in regard to Federal civilian service and wages and Federal military service and wages assigned or transferred to the paying State and included in Combined-Wage Claims in accordance with this part and parts 609 and 614 of this chapter.
+
+(26 U.S.C. 3304(a)(9)(B); Secretary's Order No. 4-75, (40 FR 18515))[36 FR 24992, Dec. 28, 1971, as amended at 43 FR 2625, Jan. 17, 1978; 45 FR 47109, July 11, 1980; 71 FR 35515, June 21, 2006; 73 FR 63072, Oct. 23, 2008]

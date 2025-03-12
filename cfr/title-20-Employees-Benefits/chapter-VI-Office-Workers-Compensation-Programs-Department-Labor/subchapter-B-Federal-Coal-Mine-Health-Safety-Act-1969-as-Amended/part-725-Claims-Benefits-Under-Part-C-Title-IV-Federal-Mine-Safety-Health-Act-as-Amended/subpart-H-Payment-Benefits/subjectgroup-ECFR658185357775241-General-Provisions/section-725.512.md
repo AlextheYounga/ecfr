@@ -1,0 +1,3 @@
+##### § 725.512 Support of legally dependent spouse, child, or parent. #####
+
+If current maintenance needs of a beneficiary are being reasonably met, a relative or other person to whom payments are certified as representative payee on behalf of the beneficiary may use part of the payments so certified for the support of the legally dependent spouse, a legally dependent child, or a legally dependent parent of the beneficiary.

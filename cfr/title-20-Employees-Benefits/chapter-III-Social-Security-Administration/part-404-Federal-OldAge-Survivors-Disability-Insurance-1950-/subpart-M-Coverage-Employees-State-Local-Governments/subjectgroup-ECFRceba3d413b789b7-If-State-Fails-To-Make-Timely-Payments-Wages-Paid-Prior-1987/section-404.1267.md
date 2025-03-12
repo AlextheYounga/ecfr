@@ -1,0 +1,5 @@
+##### § 404.1267 Failure to make timely payments—for wages paid prior to 1987. #####
+
+If a State does not pay its contributions when due, the Commissioner has the authority under section 218(j) of the Act as it read prior to the enactment of Pub. L. 99-509 to deduct the amounts of the unpaid contributions plus interest at the rate prescribed from any amounts certified by her or him to the Secretary of the Treasury for payments to the State under any other provision of the Social Security Act. The Commissioner notifies the Secretary of the Treasury of the amounts deducted and requests that the amount be credited to the Trust Funds. Amounts deducted are considered paid to the State under the other provision of the Social Security Act.
+
+[53 FR 32976, Aug. 29, 1988, as amended at 62 FR 38451, July 18, 1997]

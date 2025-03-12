@@ -1,0 +1,3 @@
+##### § 703.104 Applicants currently authorized to write insurance under the extensions of the LHWCA. #####
+
+Any applicant currently authorized by the Office to write insurance under any extension of the LHWCA need not support its application under the LHWCA or any other LHWCA extension with the evidence required by the regulations in this part, except the form of policy and endorsement which it proposes to use, unless specifically requested by the Office, but instead its application may refer to the fact that it has been so authorized.

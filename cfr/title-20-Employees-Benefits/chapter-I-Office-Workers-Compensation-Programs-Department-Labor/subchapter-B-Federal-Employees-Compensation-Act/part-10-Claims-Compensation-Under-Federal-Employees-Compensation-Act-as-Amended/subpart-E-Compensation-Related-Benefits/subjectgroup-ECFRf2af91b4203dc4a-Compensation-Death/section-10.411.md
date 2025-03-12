@@ -1,0 +1,5 @@
+##### § 10.411 What are the maximum and minimum rates of compensation in death cases? #####
+
+(a) Compensation for death may not exceed the employee's pay or 75 percent of the basic monthly pay of the highest step of grade 15 of the General Schedule, except that compensation may exceed the employee's basic monthly pay if such excess is created by authorized cost-of-living increases. (Basic monthly pay does not include locality adjustments.) However, the maximum limit does not apply when the death occurred during an assassination of a Federal official described under 18 U.S.C. 351(a) or 18 U.S.C. 1751(a).
+
+(b) Compensation for death is computed on a minimum pay rate equal to the basic monthly pay of an employee at the first step of grade 2 of the General Schedule. (Basic monthly pay does not include locality adjustments.)

@@ -1,0 +1,9 @@
+##### § 10.741 How are benefits calculated in LEO claims? #####
+
+(a) Except for continuation of pay, eligible officers and survivors are entitled to the same benefits as if the officer had been an employee under 5 U.S.C. 8101. However, such benefits may be reduced or adjusted as OWCP in its discretion may deem appropriate to reflect comparable benefits which the officer or survivor received or would have been entitled to receive by virtue of the officer's employment.
+
+(b) For the purpose of this section, a comparable benefit includes any benefit that the officer or survivor is entitled to receive because of the officer's employment, including pension and disability funds, State workers' compensation payments, Public Safety Officers' Benefits Act payments, and State and local lump-sum payments. Health benefits coverage and proceeds of life insurance policies purchased by the employer are not considered to be comparable benefits.
+
+(c) The FECA provides that, where an officer receives comparable benefits, compensation benefits are to be reduced proportionally in a manner that reflects the relative percentage contribution of the officer and the officer's employer to the fund which is the source of the comparable benefit. Where the source of the comparable benefit is a retirement or other system which is not fully funded, the calculation of the amount of the reduction will be based on a per capita comparison between the contribution by the employer and the contribution by all covered officers during the year prior to the officer's injury or death.
+
+(d) The non-receipt of compensation during a period where a dual benefit (such as a lump-sum payment on the death of an officer) is being offset against compensation entitlement does not result in an adjustment of the respective benefit percentages of remaining beneficiaries because of a cessation of compensation under 5 U.S.C. 8133(c).

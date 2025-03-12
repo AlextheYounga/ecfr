@@ -1,0 +1,3 @@
+##### § 418.1145 How do we determine your income-related monthly adjustment amount if IRS does not provide information about your modified adjusted gross income? #####
+
+In general, if we do not receive any information for you from IRS showing that you had modified adjusted gross income above the threshold in the tax year we request, we will not make an income-related monthly adjustment amount determination.

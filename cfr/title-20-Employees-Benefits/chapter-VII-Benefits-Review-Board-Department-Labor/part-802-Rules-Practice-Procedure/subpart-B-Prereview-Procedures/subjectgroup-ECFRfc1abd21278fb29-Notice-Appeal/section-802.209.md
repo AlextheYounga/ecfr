@@ -1,0 +1,3 @@
+##### § 802.209 Transmittal of record to the Board. #####
+
+Upon receipt of a copy of the notice of appeal or upon request of the Board, the deputy commissioner or other office having custody of such record shall immediately forward to the Clerk of the Board the official record of the case, which record includes the transcript or transcripts of all formal proceedings with exhibits, all decisions and orders rendered in the case.

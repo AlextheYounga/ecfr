@@ -1,0 +1,3 @@
+##### § 10.904 Does a death as a result of occupational disease qualify for payment of the death gratuity? #####
+
+Yes—throughout this subpart, the word “injury” is defined as it is in 5 U.S.C. 8101(5), which includes a disease proximately caused by employment. If an employee's death results from an occupational disease incurred in connection with the employee's service in a contingency operation, the death qualifies for payment of the death gratuity under this subpart.

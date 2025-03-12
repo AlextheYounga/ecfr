@@ -1,0 +1,3 @@
+##### § 10.324 May an employer require an employee to undergo a physical examination in connection with a work-related injury? #####
+
+The employer may have authority independent of the FECA to require the employee to undergo a medical examination to determine whether he or she meets the medical requirements of the position held or can perform the duties of that position. Nothing in the FECA or in this part affects such authority. However, no agency-required examination or related activity shall interfere with the employee's initial choice of physician or the provision of any authorized examination or treatment, including the issuance of Form CA-16.

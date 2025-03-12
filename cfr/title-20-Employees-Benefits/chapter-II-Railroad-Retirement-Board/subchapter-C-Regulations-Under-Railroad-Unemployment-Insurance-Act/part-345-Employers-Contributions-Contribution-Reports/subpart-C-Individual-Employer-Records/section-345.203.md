@@ -1,0 +1,5 @@
+##### § 345.203 Merger or combination of employers. #####
+
+In the event of a merger or combination of two or more employers, or an employer and non-employer, the individual employer record of the employer surviving the merger (or any person that becomes an employer as the result of the merger or combination) shall consist of the combination of the individual employer records of the entities participating in the merger. Where the person surviving the merger is an existing employer under part 202 of this chapter, the individual employer record for the surviving employer will not be updated to reflect the combined record until the calendar year following the year of the Board's determination. Where the entity surviving the merger becomes an employer under part 202 of this chapter by virtue of the merger, the individual employer record shall consist of the combined record effective with its employer effective date.
+
+[70 FR 42489, July 25, 2005]

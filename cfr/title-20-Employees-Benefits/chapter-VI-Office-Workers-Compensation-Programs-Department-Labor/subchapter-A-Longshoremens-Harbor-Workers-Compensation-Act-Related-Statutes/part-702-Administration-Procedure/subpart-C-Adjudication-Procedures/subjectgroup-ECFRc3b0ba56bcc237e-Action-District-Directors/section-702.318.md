@@ -1,0 +1,3 @@
+##### § 702.318 The record; what constitutes; nontransferability of the administrative file. #####
+
+For the purpose of any further proceedings under the Act, the formal record of proceedings shall consist of the hearing record made before the administrative law judge (see § 702.344). When transferring the case for hearing pursuant to § 702.317, the district director shall not transfer the administrative file under any circumstances.

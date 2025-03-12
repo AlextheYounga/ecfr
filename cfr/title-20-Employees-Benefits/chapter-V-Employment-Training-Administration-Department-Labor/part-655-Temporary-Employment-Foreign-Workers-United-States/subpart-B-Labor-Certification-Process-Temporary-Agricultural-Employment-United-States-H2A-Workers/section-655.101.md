@@ -1,0 +1,3 @@
+##### § 655.101 Authority of the Office of Foreign Labor Certification (OFLC) Administrator. #####
+
+The Secretary has delegated her authority to make determinations under 8 U.S.C. 1188 to the Assistant Secretary for the Employment and Training Administration (ETA), who in turn has delegated that authority to the Office of Foreign Labor Certification (OFLC). The determinations are made by the OFLC Administrator who, in turn, may delegate this responsibility to designated staff members; e.g., a Certifying Officer (CO).

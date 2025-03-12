@@ -1,0 +1,3 @@
+##### § 641.507 How is applicant income computed? #####
+
+An applicant's income is computed by calculating the includable income received by the applicant during the 12-month period ending on the date an individual submits an application to participate in the SCSEP, or the annualized income for the 6-month period ending on the application date. The Department requires grantees to use whichever method is more favorable to the individual. (OAA § 518(a)(4)).

@@ -1,0 +1,3 @@
+##### § 645.135 What is the effective date for spending Federal Welfare-to-Work formula funds on newly eligible participants and newly authorized services? #####
+
+States and local areas may expend matching funds beginning July 1, 2000. States and local areas may incur unpaid obligations within the normal course of business, beginning July 1, 2000, provided that the timing of those transactions ensures that drawdown of federal Welfare-to-Work formula funds to liquidate the obligations did not occur until October 1, 2000.

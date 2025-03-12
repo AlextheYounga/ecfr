@@ -1,0 +1,3 @@
+##### § 663.595 What requirements apply to providers of OJT and customized training? #####
+
+For OJT and customized training providers, One-Stop operators in a local area must collect such performance information as the Governor may require, determine whether the providers meet such performance criteria as the Governor may require, and disseminate a list of providers that have met such criteria, along with the relevant performance information about them, through the One-Stop delivery system. Providers determined to meet the criteria are considered to be identified as eligible providers of training services. These providers are not subject to the other requirements of WIA section 122 or this subpart.

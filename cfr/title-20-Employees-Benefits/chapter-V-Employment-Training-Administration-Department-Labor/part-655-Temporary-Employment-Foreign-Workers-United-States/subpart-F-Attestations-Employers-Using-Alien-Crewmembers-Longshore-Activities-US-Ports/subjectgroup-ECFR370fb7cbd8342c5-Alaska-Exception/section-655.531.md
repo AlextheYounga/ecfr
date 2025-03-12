@@ -1,0 +1,3 @@
+##### § 655.531 Who may submit attestations for locations in Alaska? #####
+
+In order to use alien crewmembers to perform longshore activities at a particular location in the State of Alaska an employer shall submit an attestation on Form ETA 9033-A. As noted at § 655.502, “Definitions,” for purposes of §§ 655.530 through 655.541, which govern the performance of longshore activities by alien crewmembers under the Alaska exception, “employer” includes any agent or representative designated by the employer. An employer may file a single attestation for multiple locations in the State of Alaska.

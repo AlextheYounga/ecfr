@@ -1,0 +1,3 @@
+##### § 219.52 When evidence of having a child in care is required. #####
+
+A person who applies for a spouse's, widow's or widower's, or surviving divorced spouse's annuity on the basis of caring for a child, or for an increase under the social security overall minimum guaranty provision based on caring for a child, is required to furnish evidence that he or she has in care an eligible child of the employee as described in part 222 of this chapter. What evidence the Board will require depends upon whether the child is living with the applicant or with someone else.

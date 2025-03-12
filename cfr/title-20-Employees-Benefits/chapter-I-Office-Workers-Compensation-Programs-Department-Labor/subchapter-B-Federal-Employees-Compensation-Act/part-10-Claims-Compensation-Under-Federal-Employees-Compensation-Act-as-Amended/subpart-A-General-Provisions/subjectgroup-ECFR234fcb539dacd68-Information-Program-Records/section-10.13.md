@@ -1,0 +1,3 @@
+##### § 10.13 What process is used by a person who wants to correct FECA-related documents? #####
+
+Any request to amend a record covered by DOL/GOVT-1 should be directed to the district office having custody of the official file. No employer has the authority to issue determinations with regard to requests for the correction of records contained in or covered by DOL/GOVT-1. Any request for correction received by an employer must be referred to OWCP for review and decision.

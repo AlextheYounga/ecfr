@@ -1,0 +1,23 @@
+##### § 202.15 Railway labor organizations. #####
+
+Railway labor organizations, national in scope, which have been or may be organized in accordance with the provisions of the Railway Labor Act, as amended, and their State and National legislative committees and their general committees and their insurance departments and their local lodges and divisions, established pursuant to the constitution and bylaws of such organizations, shall be employers within the meaning of the act.
+
+(a) An organization doing business on or after June 21, 1934, which establishes, in accordance with paragraph (a)(1), (2), or (3) of this section a right, under section 3 “First” (a) of the Railway Labor Act, as amended (48 Stat. 1189; 45 U.S.C. 153 “First” (a)), to participate in the selection of labor members of the National Railroad Adjustment Board, will be presumed, in the absence of clear and convincing evidence to the contrary, to be, from and after the date on which such right is thus established, a labor organization, national in scope and organized in accordance with the provisions of the Railway Labor Act, as amended. Such an organization can establish that it is an employer by establishing, in accordance with paragraph (b) of this section, that, as a labor organization, national in scope and organized in accordance with the provisions of the Railway Labor Act, as amended, it is a “railway” organization. An organization, doing business on or after June 21, 1934, which has not established such a right of participation, will be presumed not to be a labor organization, national in scope and organized in accordance with the provisions of the Railway Labor Act, as amended, and such presumption can be rebutted only by clear and convincing evidence satisfactory to the Board showing that the reasons for the organization's failure to establish such a right have no relation to its being a labor organization, national in scope and organized in accordance with the provisions of the Railway Labor Act, as amended. Only after such presumption has thus been rebutted will further evidence as to whether the organization is an employer be considered. (The establishment or nonestablishment of such a right of participation will not raise any presumption as to whether an organization is, or is not, a “railway” organization. The existence of this qualification shall be determined in accordance with paragraph (b) of this section.) An organization will have established such a right of participation if:
+
+(1) It has in fact participated in the selection of labor members of the National Railroad Adjustment Board and has continued to participate in such selection; or
+
+(2) It has been found, under section 3 “First” (f) of the Railway Labor Act, as amended (48 Stat. 1190; 45 U.S.C. 153 “First” (f)), to be qualified to participate in the selection of labor members of the National Railroad Adjustment Board; or
+
+(3) It is recognized by all organizations, qualified under paragraphs (a)(1) or (2) of this section, as having the right to participate in the selection of labor members of the National Railroad Adjustment Board.
+
+(b) The question as to whether a labor organization, national in scope, and organized in accordance with the provisions of the Railway Labor Act, as amended, is, as such a national labor organization, a “railway” labor organization, will be determined by the Board on the basis of considerations such as the following:
+
+(1) The extent to which it is, and has been recognized as, representative of crafts or classes of employees in the railroad industry.
+
+(2) The extent to which its purposes and business are and have been to promote the interests of employees in the railroad industry.
+
+(c) A labor organization which ceased doing business before June 21, 1934, will have been an employer if its characteristics were substantially the same as those of labor organizations, doing business on or after June 21, 1934, which are established as employers in accordance with paragraphs (a) and (b) of this section.
+
+(d) An organization which establishes, to the satisfaction of the Board, that it is a labor organization, as defined in paragraph (e) of this section, and that is composed of labor organizations which are established as employers in accordance with paragraphs (a), (b), and (c) of this section, is thereby established as being an employer.
+
+(e) For the purposes of the regulations in this chapter, a labor organization is an organization whose business is to promote the interests of employees in their capacity as employees, either directly or through their organizations.

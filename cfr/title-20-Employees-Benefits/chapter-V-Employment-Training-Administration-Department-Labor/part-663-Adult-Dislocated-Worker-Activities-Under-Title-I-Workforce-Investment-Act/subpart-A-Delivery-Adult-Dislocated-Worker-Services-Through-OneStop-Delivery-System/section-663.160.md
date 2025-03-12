@@ -1,0 +1,5 @@
+##### § 663.160 Are there particular core services an individual must receive before receiving intensive services under WIA section 134(d)(3)? #####
+
+(a) Yes, at a minimum, an individual must receive at least one core service, such as an initial assessment or job search and placement assistance, before receiving intensive services. The initial assessment provides preliminary information about the individual's skill levels, aptitudes, interests, and supportive services needs. The job search and placement assistance helps the individual determine whether he or she is unable to obtain employment, and thus requires more intensive services to obtain employment. The decision on which core services to provide, and the timing of their delivery, may be made on a case-by-case basis at the local level depending upon the needs of the participant.
+
+(b) A determination of the need for intensive services under § 663.220, as established by the initial assessment or the individual's inability to obtain employment through the core services provided, must be contained in the participant's case file.

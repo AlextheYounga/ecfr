@@ -1,0 +1,3 @@
+##### § 702.344 Formal hearings; record of hearing. #####
+
+All formal hearings shall be open to the public and shall be stenographically reported. All evidence upon which the administrative law judge relies for his final decision shall be contained in the transcript of testimony either directly or by appropriate reference. All medical reports, exhibits, and any other pertinent document or record, in whole or in material part, shall be incorporated into the record either by reference or as an appendix.

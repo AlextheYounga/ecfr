@@ -1,0 +1,3 @@
+##### § 606.40 May/September delay. #####
+
+Subsection (b)(3)(B) of section 1202 of the Social Security Act permits a State to delay payment of interest accrued on advances made during the last five months of the Federal fiscal year (May, June, July, August, and September) to no later than December 31 of the next succeeding calendar year. If the payment is delayed, interest on the delayed payment will accrue from the normal due date (*i.e.*, September 30) and in the same manner as if the interest due on the advance(s) was an advance made on such due date. The Governor of a State which has decided to delay such interest payment shall notify the Secretary of Labor no later than September 1 of the year with respect to which the delay is applicable.

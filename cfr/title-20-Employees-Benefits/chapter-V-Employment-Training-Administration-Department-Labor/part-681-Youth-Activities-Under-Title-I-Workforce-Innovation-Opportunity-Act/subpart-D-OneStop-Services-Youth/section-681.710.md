@@ -1,0 +1,3 @@
+##### § 681.710 Do Local Workforce Development Boards have the flexibility to offer services to area youth who are not eligible under the youth program through the one-stop centers? #####
+
+Yes. However, Local WDBs must ensure one-stop centers fund services for non-eligible youth through programs authorized to provide services to such youth. For example, one-stop centers may provide basic labor exchange services under the Wagner-Peyser Act to any youth.

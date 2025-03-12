@@ -1,0 +1,7 @@
+##### § 404.358 Who is the insured's grandchild or stepgrandchild? #####
+
+(a) *Grandchild and stepgrandchild defined.* You may be eligible for benefits as the insured's grandchild or stepgrandchild if you are the natural child, adopted child, or stepchild of a person who is the insured's child as defined in §§ 404.355 through 404.357, or § 404.359. Additionally, for you to be eligible as a grandchild or stepgrandchild, your natural or adoptive parents must have been either deceased or under a disability, as defined in § 404.1501(a), at the time your grandparent or stepgrandparent became entitled to old-age or disability benefits or died; or if your grandparent or stepgrandparent had a period of disability that continued until he or she became entitled to benefits or died, at the time the period of disability began. If your parent is deceased, for purposes of determining whether the conditions of entitlement are met *throughout* the first month as stated in § 404.352(a)(2)(i), your parent will be considered to be deceased as of the first day of the month of death.
+
+(b) *Legally adopted grandchild or stepgrandchild.* If you are the insured's grandchild or stepgrandchild and you are legally adopted by the insured or by the insured's surviving spouse after his or her death, you are considered an adopted child and the dependency requirements of § 404.362 must be met.
+
+[44 FR 34481, June 15, 1979, as amended at 48 FR 21928, May 16, 1983]

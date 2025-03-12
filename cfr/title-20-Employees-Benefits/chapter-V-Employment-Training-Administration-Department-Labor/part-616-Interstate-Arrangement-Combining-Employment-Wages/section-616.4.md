@@ -1,0 +1,3 @@
+##### § 616.4 Rules, regulations, procedures, forms—resolution of disagreements. #####
+
+All State agencies shall operate in accordance with such rules, regulations, and procedures, and shall use such forms, as shall be prescribed by the Secretary in consultation with the State unemployment compensation agencies. All rules, regulations, and standards prescribed by the Secretary with respect to intrastate claims will apply to claims filed under this arrangement unless they are clearly inconsistent with the arrangement. The Secretary shall resolve any disagreement between State agencies concerning the operation of the arrangement, with the advice of the duly designated representatives of the State agencies.

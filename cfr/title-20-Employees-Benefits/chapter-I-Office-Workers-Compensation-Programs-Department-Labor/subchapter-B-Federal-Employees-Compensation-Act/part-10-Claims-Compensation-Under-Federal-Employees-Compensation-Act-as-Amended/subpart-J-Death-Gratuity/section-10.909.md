@@ -1,0 +1,9 @@
+##### § 10.909 How does an employee designate a variation in the order or percentage of gratuity payable to survivors and how does the employee designate alternate beneficiaries? #####
+
+(a) Form CA-40 must be used to make a variation in the order or percentages of survivors under § 10.907 and/or to make an alternate beneficiary designation under § 10.908. A designation may be made at any time before the employee's death, regardless of the time of injury. The form will not be valid unless it is signed by the employee and received and signed prior to the death of the employee by the supervisor of the employee or by another official of the employing agency authorized to do so.
+
+(b) Alternatively, any paper executed prior to the effective date of this regulation that specifies an alternate beneficiary of the death gratuity payment will serve as a valid designation if it is in writing, completed before the employee's death, signed by the employee, and signed prior to the death of the employee by the supervisor of the employee or by another official of the employing agency authorized to do so.
+
+(c) If an employee makes a survivor designation under § 10.907(c), but does not designate the portions to be received by each designated survivor, the death gratuity will be disbursed to the survivors in equal shares.
+
+(d) An alternate beneficiary designation made under § 10.908 must indicate the percentage of the death gratuity, in 10 percent increments up to the maximum of 50 percent, that the designated person(s) will receive. No more than five alternate beneficiaries may be designated. If the designation fails to indicate the percentage to be paid to an alternate beneficiary, the designation to that person will be invalid.

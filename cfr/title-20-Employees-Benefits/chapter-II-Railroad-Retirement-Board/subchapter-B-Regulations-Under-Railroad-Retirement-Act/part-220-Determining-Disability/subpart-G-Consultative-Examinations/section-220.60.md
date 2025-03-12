@@ -1,0 +1,3 @@
+##### § 220.60 Diagnostic surgical procedures. #####
+
+The Board will not order diagnostic surgical procedures such as myelograms and arteriograms for the evaluation of disability under the Board's disability program. In addition, the Board will not order procedures such as cardiac catheterization and surgical biopsy. However, if any of these procedures have been performed as part of a workup by the claimant's treating physician or other medical source, the results may be secured and used to help evaluate an impairment(s)'s severity.

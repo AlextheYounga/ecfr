@@ -1,0 +1,5 @@
+##### § 678.315 Can a stand-alone Wagner-Peyser Act Employment Service office be designated as an affiliated one-stop site? #####
+
+(a) Separate stand-alone Wagner-Peyser Act Employment Service offices are not permitted under WIOA, as also described in § 652.202 of this chapter.
+
+(b) If Wagner-Peyser Act employment services are provided at an affiliated site, there must be at least one or more other partners in the affiliated site with a physical presence of combined staff more than 50 percent of the time the center is open. Additionally, the other partner must not be the partner administering local veterans' employment representatives, disabled veterans' outreach program specialists, or unemployment compensation programs. If Wagner-Peyser Act employment services and any of these 3 programs are provided at an affiliated site, an additional partner or partners must have a presence of combined staff in the center more than 50 percent of the time the center is open.

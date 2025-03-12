@@ -1,0 +1,3 @@
+##### § 684.230 What appeal rights are available to entities that are denied a grant award? #####
+
+Any entity that is denied a grant award for which it applied in whole or in part may appeal the denial to the Office of the Administrative Law Judges using the procedures at § 683.800 of this chapter or the alternative dispute resolution procedures at § 683.840 of this chapter. The Grant Officer will provide an entity whose request for a grant award was denied, in whole or in part, with a copy of the appeal procedures.

@@ -1,0 +1,9 @@
+##### § 702.132 Fees for services. #####
+
+(a) Any person seeking a fee for services performed on behalf of a claimant with respect to claims filed under the Act shall make application therefor to the district director, administrative law judge, Board, or court, as the case may be, before whom the services were performed (See 33 U.S.C. 928(c)). The application shall be filed and serviced upon the other parties within the time limits specified by such district director, administrative law judge, Board, or court. The application shall be supported by a complete statement of the extent and character of the necessary work done, described with particularity as to the professional status (e.g., attorney, paralegal, law clerk, or other person assisting an attorney) of each person performing such work, the normal billing rate for each such person, and the hours devoted by each such person to each category of work. Any fee approved shall be reasonably commensurate with the necessary work done and shall take into account the quality of the representation, the complexity of the legal issues involved, and the amount of benefits awarded, and when the fee is to be assessed against the claimant, shall also take into account the financial circumstances of the claimant. No contract pertaining to the amount of a fee shall be recognized.
+
+(b) No fee shall be approved for a representative whose name appears on the Secretary's list of disqualified representatives under § 702.131(b).
+
+(c) Where fees are included in a settlement agreement submitted under § 702.241, *et seq.* approval of that agreement shall be deemed approval of attorney fees for purposes of this subsection for work performed before the Administrative Law Judge or district director approving the settlement.
+
+[50 FR 394, Jan. 3, 1985]

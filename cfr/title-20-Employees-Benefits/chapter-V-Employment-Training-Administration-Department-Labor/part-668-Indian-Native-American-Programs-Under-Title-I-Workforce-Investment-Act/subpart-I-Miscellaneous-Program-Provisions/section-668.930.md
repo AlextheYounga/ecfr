@@ -1,0 +1,3 @@
+##### § 668.930 May INA grantees combine or consolidate their employment and training funds? #####
+
+Yes, INA grantees may consolidate their employment and training funds under WIA with assistance received from related programs in accordance with the provisions of the Indian Employment, Training and Related Services Demonstration Act of 1992 (Public Law 102-477) (25 U.S.C. 3401 *et seq.*). Also, Federally-recognized tribes that administer INA funds and funds provided by more than one State under other sections of WIA title I may enter into an agreement with the Governors to transfer the State funds to the INA program. (WIA sec. 166(f) and (h)(6).)

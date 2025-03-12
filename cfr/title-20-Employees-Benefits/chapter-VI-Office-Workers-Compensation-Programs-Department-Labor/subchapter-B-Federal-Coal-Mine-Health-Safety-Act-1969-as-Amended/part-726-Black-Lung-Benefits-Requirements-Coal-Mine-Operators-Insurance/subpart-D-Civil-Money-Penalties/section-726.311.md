@@ -1,0 +1,5 @@
+##### § 726.311 Evidence. #####
+
+(a) Except as specifically provided in this subpart, and to the extent they do not conflict with the provisions of this subpart, the Rules of Practice and Procedure for Administrative Hearings Before the Office of Administrative Law Judges established by the Secretary at 29 CFR part 18 shall apply to administrative proceedings under this subpart.
+
+(b) Notwithstanding 29 CFR 18.1101(b)(2), subpart B of the Rules of Practice and Procedure for Administrative Hearings Before the Office of Administrative Law Judges shall apply to administrative proceedings under this part, except that documents contained in Department of Labor files and offered on behalf of the Director shall be admissible in proceedings under this subpart without regard to their compliance with the Rules of Practice and Procedure.

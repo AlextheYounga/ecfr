@@ -1,0 +1,5 @@
+##### § 726.3 Relationship of this part to other parts in this subchapter. #####
+
+(a) This part 726 implements and effectuates responsibilities for the payment of black lung benefits placed upon coal mine operators by sections 415 and 422 of the Act and the regulations of the Secretary in this subchapter, particularly those set forth in part 725 of this subchapter. All definitions, usages, procedures, and other rules affecting the responsibilities of coal mine operators prescribed in part 725 of this subchapter are hereby made applicable, as appropriate, to this part 726.
+
+(b) If the provisions of this part appear to conflict with any provision of any other part in this subchapter, the apparently conflicting provisions should be read harmoniously to the fullest extent possible. If a harmonious interpretation is not possible, the provisions of this part should be applied to govern the responsibilities and obligations of coal mine operators to secure the payment of black lung benefits as prescribed by the Act. The provisions of this part do not apply to matters falling outside the scope of this part.

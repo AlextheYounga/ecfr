@@ -1,0 +1,3 @@
+##### § 362.9 Fraudulent claims. #####
+
+Claims are not payable for items fraudulently claimed. When investigation discloses that an employee, an agent of the employee, or a survivor of the employee has intentionally misrepresented an item claimed, as to cost, condition, cost of repair or other significant information, the claim as to that item will be disallowed in its entirety even though some actual loss or damage may have been sustained. However, if the remainder of the claim is proper it will be paid as to other items. This section does not preclude appropriate prosecution and disciplinary action if warranted.

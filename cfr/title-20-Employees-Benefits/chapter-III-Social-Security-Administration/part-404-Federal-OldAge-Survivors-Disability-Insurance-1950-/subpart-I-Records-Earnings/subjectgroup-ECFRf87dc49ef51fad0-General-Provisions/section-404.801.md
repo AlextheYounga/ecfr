@@ -1,0 +1,3 @@
+##### § 404.801 Introduction. #####
+
+The Social Security Administration (SSA) keeps a record of the earnings of all persons who work in employment or self-employment covered under social security. We use these earnings records to determine entitlement to and the amount of benefits that may be payable based on a person's earnings under the retirement, survivors', disability and health insurance program. This subpart tells what is evidence of earnings, how you can find out what the record of your earnings shows, and how and under what circumstances the record of your earnings may be changed to correct errors.

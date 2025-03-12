@@ -1,0 +1,3 @@
+##### § 725.710 Objective of vocational rehabilitation. #####
+
+The objective of vocational rehabilitation is the return of a miner who is totally disabled for work in or around a coal mine and who is unable to utilize those skills which were employed in the miner's coal mine employment to gainful employment commensurate with such miner's physical impairment. This objective may be achieved through a program of re-evaluation and redirection of the miner's abilities, or retraining in another occupation, and selective job placement assistance.

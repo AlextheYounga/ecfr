@@ -1,0 +1,5 @@
+##### § 363.4 Exemptions. #####
+
+(a) The portion of any payment due to a Board employee which is subject to legal process to enforce any order for the support of any person shall not exceed 65 percent. Where the individual is supporting a spouse or dependent child, other than a spouse or child with respect to whose support that legal process is issued, the portion subject to legal process is reduced by 10 percent. Where the alimony or support arrearage is less than 12 weeks old, the portion subject to legal process is reduced by 5 percent. If a lower limitation is provided by applicable state or local law, then that lower limitation shall be applied.
+
+(b) In the absence of some evidence to the contrary, it will be assumed that the defendant is not supporting a spouse or dependent child other than a spouse or child with respect to whose support the legal process is issued.

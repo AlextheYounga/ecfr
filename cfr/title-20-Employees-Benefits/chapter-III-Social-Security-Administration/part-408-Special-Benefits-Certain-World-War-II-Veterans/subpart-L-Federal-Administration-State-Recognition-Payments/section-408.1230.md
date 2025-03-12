@@ -1,0 +1,5 @@
+##### § 408.1230 Can you waive State recognition payments? #####
+
+(a) *Waiver request in writing.* You may waive your right to receive State recognition payments if you make a written request. If you make your request before you become entitled to SVB, you will not be entitled to State recognition payments. If you make your request after you become entitled to SVB, your request will be effective with the month we receive your request, or with an earlier month if you refund to us the amount of any recognition payment(s) we made to you for the earlier period.
+
+(b) *Cancelling your waiver.* You may cancel your waiver of State recognition payments at any time by making a written request with us. The cancellation will be effective the month in which it is filed. The date your request is received in a Social Security office or the postmarked date, if the written request was mailed, will be the filing date, whichever is earlier.

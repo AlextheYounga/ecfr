@@ -1,0 +1,7 @@
+##### § 655.540 Suspension or invalidation of filed attestations for locations in Alaska. #####
+
+Suspension or invalidation of an attestation may result from enforcement action(s) under subpart G of this part (*i.e.,* investigation(s) conducted by the Administrator or cease and desist order(s) issued by the Administrator regarding the employer's misrepresentation in or failure to carry out its attestation); or from a discovery by ETA that it made an error in accepting the attestation because such attestation falls within one of the categories set forth in § 655.538(b).
+
+(a) *Result of Wage and Hour Division action.* Upon the determination of a violation under subpart G of this part, the Administrator shall, pursuant to § 655.665(b), notify the DHS of the violation and of the Administrator's notice to ETA.
+
+(b) *Result of ETA action.* If, after accepting an attestation for filing, ETA finds that the attestation is unacceptable because it falls within one of the categories set forth at § 655.538(b) and, as a result, ETA suspends or invalidates the attestation, ETA shall notify the DHS of such suspension or invalidation and shall return a copy of the attestation form to the employer, or the employer's agent or representative at a U.S. address. ETA shall notify the employer, in writing, of the reason(s) that the attestation is suspended or invalidated.

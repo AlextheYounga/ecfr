@@ -1,0 +1,3 @@
+##### § 408.911 What happens when we waive recovery of an SVB overpayment? #####
+
+Waiver of recovery of an overpayment from you (or, after your death, from your estate) frees you and your estate from the obligation to repay the amount of the overpayment covered by the waiver. *Example:* You filed for waiver of recovery of a $600 overpayment. We found that you are eligible for waiver of recovery of $260 of that amount. Only $340 of the overpayment would be recoverable from you or your estate.

@@ -1,0 +1,3 @@
+##### § 652.206 May a State use funds authorized under the Wagner-Peyser Act to provide applicable “career services,” as defined in the Workforce Innovation and Opportunity Act? #####
+
+Yes, funds authorized under sec. 7(a) of the Wagner-Peyser Act must be used to provide basic career services as identified in § 678.430(a) of this chapter and secs. 134(c)(2)(A)(i)-(xi) of WIOA, and may be used to provide individualized career services as identified in § 678.430(b) of this chapter and sec. 134(c)(2)(A)(xii) of WIOA. Funds authorized under sec. 7(b) of the Wagner-Peyser Act may be used to provide career services. Career services must be provided consistent with the requirements of the Wagner-Peyser Act.

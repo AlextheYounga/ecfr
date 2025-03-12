@@ -1,0 +1,3 @@
+##### § 672.205 How does an eligible entity apply for grant funds to operate a YouthBuild program? #####
+
+The Secretary announces the availability of grant funds through a Solicitation for Grant Applications (SGA). The SGA contains instructions for what is required in the grant application, describes eligibility requirements, the rating criteria that will be used in reviewing grant applications, and special reporting requirements to operate a YouthBuild project.

@@ -1,0 +1,7 @@
+##### § 404.1028 Student working for a school, college, or university. #####
+
+(a) For purposes of this section, a *school, college, or university* has its usual accepted meaning. It does not, however, include any school, college, or university that is an instrumentality or integral part of a State or a political subdivision of a State for which work can only be covered by an agreement under section 218 of the Act. (See subpart M of this part.)
+
+(b) If you are a student, any work you do as an employee of a school, college or university is excluded from employment, if you are enrolled in and regularly attending classes at that school, college, or university. The exclusion also applies to work you do for a private nonprofit auxiliary organization of the school, college, or university if it is organized and operated exclusively for the benefit of, to perform functions of, or to carry out the purposes of the school, college, or university. The organization must be operated, supervised, or controlled by, or in connection with, the school, college, or university.
+
+(c) Whether you are a student for purposes of this section depends on your relationship with your employer. If your main purpose is pursuing a course of study rather than earning a livelihood, we consider you to be a student and your work is not considered employment.

@@ -1,0 +1,3 @@
+##### § 602.20 Organization. #####
+
+Each State shall establish a QC unit independent of, and not accountable to, any unit performing functions subject to evaluation by the QC unit. The organizational location of this unit shall be positioned to maximize its objectivity, to facilitate its access to information necessary to carry out its responsibilities, and to minimize organizational conflict of interest.

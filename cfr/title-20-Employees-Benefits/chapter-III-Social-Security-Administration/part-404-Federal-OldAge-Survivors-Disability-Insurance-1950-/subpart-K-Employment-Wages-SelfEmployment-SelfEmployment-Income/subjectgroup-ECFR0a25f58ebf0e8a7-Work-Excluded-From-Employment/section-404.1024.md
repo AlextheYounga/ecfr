@@ -1,0 +1,3 @@
+##### § 404.1024 Election of coverage by religious orders. #####
+
+A religious order whose members are required to take a vow of poverty, or any autonomous subdivision of that religious order, may elect to have social security coverage extended to the work performed by its members in the exercise of duties required by that order or subdivision. The rules on the election of coverage by these religious orders are described in 26 CFR 31.3121(r). The rules on determining the wages of members of religious orders for which an election of coverage has been made are described in § 404.1046.

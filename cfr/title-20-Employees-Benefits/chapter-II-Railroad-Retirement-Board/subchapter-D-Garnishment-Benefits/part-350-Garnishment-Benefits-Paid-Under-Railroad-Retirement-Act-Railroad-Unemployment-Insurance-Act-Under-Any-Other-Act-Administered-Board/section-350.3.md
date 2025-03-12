@@ -1,0 +1,11 @@
+##### § 350.3 Procedure. #####
+
+(a) Service of legal process brought for the enforcement of an individual's obligation to provide child support or make alimony payments shall be accomplished by certified or registered mail, return receipt requested, directed to the Deputy General Counsel of the Board, 844 Rush Street, Chicago, Illinois 60611, or by personal service upon the Deputy General Counsel.
+
+(b) Where the Deputy General Counsel is effectively served with legal process relating to an individual's legal obligation to provide child support or to make alimony payments, he shall, as soon as possible and not later than 15 days after the date of effective service of such process, send written notice that such process has been so served, together with a copy thereof, to the individual whose moneys are affected thereby; and, if response to such process is required, shall respond within 30 days, or within such longer period as may be prescribed by state law, after the date effective service is made. These requirements do not apply in the case of an assignment in lieu of garnishment or an assignment of a portion, attributable to the existence of the annuitant's family members, of a railroad retirement annuity computed under the social security minimum guaranty provision of the Railroad Retirement Act.
+
+(c) Included with the legal process issued to the Board should be the name of the individual against whom the legal obligation to provide child support or to make alimony payments is sought to be enforced and, if available, the individual's social security or railroad retirement number, the individual's address, and the type of benefit that the individual is receiving from the Board.
+
+(d) Legal process which refers to a payment in terms of a percentage of some other amount must also refer to that payment in terms of a specific amount or amounts. In connection with any legal process which does not refer to a payment in terms of a specific amount or amounts, the Board may compute the amount or may comply with that portion of the legal process which specifies an amount or amounts and withhold compliance with the balance of the process pending clarification from the issuing court or from the party which procured that process.
+
+[45 FR 28314, Apr. 29, 1980, as amended at 48 FR 51448, Nov. 9, 1983]

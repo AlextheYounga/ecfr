@@ -1,0 +1,5 @@
+##### § 405.360 Official record. #####
+
+All hearings will be recorded. All evidence upon which the administrative law judge relies for the decision must be contained in the record, either directly or by appropriate reference. The official record will include the applications, written statements, certificates, reports, affidavits, medical records, and other documents that were used in making the decision under review and any additional evidence or written statements that the administrative law judge admits into the record under §§ 405.320(a) and 405.331. All exhibits introduced as evidence must be marked for identification and incorporated into the record. The official record of your claim will contain all of the marked exhibits and a verbatim recording of all testimony offered at the hearing; it also will include any prior initial determinations or decisions on your claim. Subject to § 405.401(c), the official record closes once the administrative law judge issues his or her decision regardless of whether it becomes our final decision.
+
+[71 FR 16446, Mar. 31, 2006, as amended at 76 FR 24809, May 3, 2011]

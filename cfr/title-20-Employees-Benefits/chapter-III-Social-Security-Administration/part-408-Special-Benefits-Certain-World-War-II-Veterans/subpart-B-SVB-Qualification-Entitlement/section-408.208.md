@@ -1,0 +1,3 @@
+##### § 408.208 What happens if you establish residence outside the United States within 4 calendar months? #####
+
+If you begin residing outside the United States within 4 calendar months after the month in which your SVB qualification notice is dated, we will send you a letter telling you that you are entitled to SVB and the first month for which SVB payments can be made to you. The letter will also tell you the amount of your monthly benefit payments, whether your payments are reduced because of your other benefit income, and what rights you have to a reconsideration of our determination.

@@ -1,0 +1,5 @@
+##### § 408.802 When will we suspend your SVB payments? #####
+
+(a) *When suspension is proper.* Suspension of SVB payments is required when you no longer meet the SVB qualification requirements (*see* subpart B of this part) and termination in accordance with §§ 408.814 through 408.818 does not apply. (This subpart does not cover suspension of payments for administrative reasons, as, for example, when mail is returned as undeliverable by the Postal Service and we do not have a valid mailing address for you or when your representative payee dies and a search is underway for a substitute representative payee.)
+
+(b) *Effect of suspension.* When we correctly suspend your SVB payments, we will not resume them until you again meet all qualification requirements except the filing of a new application. If you request reinstatement, you are required to submit the evidence necessary to establish that you again meet all requirements for eligibility under this part. Your SVB payments will be reinstated effective with the first month in which you meet all requirements for eligibility except the filing of a new application.

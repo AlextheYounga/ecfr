@@ -1,0 +1,5 @@
+##### § 416.501 Payment of benefits: General. #####
+
+Payment of SSI benefits will be made for the month after the month of initial eligibility and for each subsequent month provided all requirements for eligibility (see § 416.202) and payment (see § 416.420) are met. In the month the individual re-establishes eligibility after at least a month of ineligibility, benefits are paid for such a month beginning with the date in the month on which the individual meets all eligibility requirements. In some months, while the factors of eligibility based on the current month may be established, it is possible to receive no payment for that month if the factors of eligibility for payment are not met. Payment of benefits may not be made for any period that precedes the first month following the date on which an application is filed or, if later, the first month following the date all conditions for eligibility are met.
+
+[64 FR 31973, June 15, 1999]

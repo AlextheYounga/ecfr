@@ -1,0 +1,3 @@
+##### § 361.7 Written decision following a hearing. #####
+
+Within thirty days after the hearing, the administrative law judge or hearing official shall issue a written decision stating the facts evidencing the nature and origin of the alleged debt; the amount and validity of the alleged debt; and the judge or hearing official's analysis, findings and conclusions with respect to the employee's position on liability for the debt and with respect to his or her eligibility for waiver. The decision of the administrative law judge or hearing official shall be the final agency decision.

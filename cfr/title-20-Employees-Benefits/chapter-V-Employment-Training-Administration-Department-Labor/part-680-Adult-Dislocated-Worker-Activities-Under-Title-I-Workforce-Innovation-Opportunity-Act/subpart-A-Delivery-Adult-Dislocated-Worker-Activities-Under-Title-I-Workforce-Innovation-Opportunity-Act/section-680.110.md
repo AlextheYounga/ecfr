@@ -1,0 +1,7 @@
+##### § 680.110 When must adults and dislocated workers be registered and considered a participant? #####
+
+(a) Registration is the process for collecting information to support a determination of eligibility. This information may be collected through methods that include electronic data transfer, personal interview, or an individual's application. Individuals are considered participants when they have received a Workforce Innovation and Opportunity Act (WIOA) service other than self-service or information-only activities and have satisfied all applicable programmatic requirements for the provision of services, such as eligibility determination (*see* § 677.150(a) of this chapter).
+
+(b) Adults and dislocated workers who receive services funded under WIOA title I other than self-service or information-only activities must be registered and must be a participant.
+
+(c) EO data, as defined in § 675.300 of this chapter, must be collected on every individual who is interested in being considered for WIOA title I financially assisted aid, benefits, services, or training by a recipient, and who has signified that interest by submitting personal information in response to a request from the grant recipient or designated service provider.

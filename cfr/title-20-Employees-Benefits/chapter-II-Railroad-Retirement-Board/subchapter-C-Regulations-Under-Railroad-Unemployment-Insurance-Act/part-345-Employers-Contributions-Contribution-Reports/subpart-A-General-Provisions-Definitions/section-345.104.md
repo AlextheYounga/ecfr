@@ -1,0 +1,3 @@
+##### § 345.104 Employees and employee representatives not liable. #####
+
+The amount of contributions for which an employer is liable under this part shall not be deducted from an employee's compensation, and the Board will not recognize any agreement under which an employee assumes liability for such contributions. Employee representatives under part 205 of this chapter are not employees for purposes of the Railroad Unemployment Insurance Act and are not liable for payment of contributions under this part.

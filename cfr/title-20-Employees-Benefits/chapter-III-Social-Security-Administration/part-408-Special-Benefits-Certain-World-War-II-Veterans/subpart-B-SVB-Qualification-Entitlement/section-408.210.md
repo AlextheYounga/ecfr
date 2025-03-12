@@ -1,0 +1,3 @@
+##### § 408.210 What happens if you do not establish residence outside the United States within 4 calendar months? #####
+
+If you do not establish residence outside the United States within 4 calendar months after the month in which your SVB qualification notice is dated, we will deny your SVB claim. We will send you a notice explaining what rights you have to a reconsideration of our determination. You will have to file a new application and meet all the requirements for qualification and entitlement based on the new application to become entitled to SVB.

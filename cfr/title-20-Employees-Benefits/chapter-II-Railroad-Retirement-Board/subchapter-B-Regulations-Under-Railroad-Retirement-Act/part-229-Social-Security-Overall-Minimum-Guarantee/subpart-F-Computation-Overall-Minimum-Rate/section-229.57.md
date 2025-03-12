@@ -1,0 +1,3 @@
+##### § 229.57 Reduction in spouse overall minimum benefit for employee annuity. #####
+
+If an annuitant is entitled to both an employee annuity on his or her own earnings record and a spouse annuity on a different earnings record, the total overall minimum rates on both earnings records must be higher than the total railroad formula rates for the overall minimum to apply. The spouse overall minimum benefit amount, after adjustment for the family maximum and for age, is reduced by the employee-only overall minimum rate on the spouse's own earnings record (the employee benefit adjusted for age and social security benefits) plus the amount of any social security benefit payable to the spouse on other than the empoyee's earnings record.

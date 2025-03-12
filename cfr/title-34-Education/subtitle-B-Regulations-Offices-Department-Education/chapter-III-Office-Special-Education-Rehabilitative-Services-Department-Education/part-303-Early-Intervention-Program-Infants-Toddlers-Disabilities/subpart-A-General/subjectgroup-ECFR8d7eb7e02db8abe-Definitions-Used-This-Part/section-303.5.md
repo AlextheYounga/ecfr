@@ -1,0 +1,5 @@
+##### § 303.5 At-risk infant or toddler. #####
+
+*At-risk infant or toddler* means an individual under three years of age who would be at risk of experiencing a substantial developmental delay if early intervention services were not provided to the individual. At the State's discretion, *at-risk infant or toddler* may include an infant or toddler who is at risk of experiencing developmental delays because of biological or environmental factors that can be identified (including low birth weight, respiratory distress as a newborn, lack of oxygen, brain hemorrhage, infection, nutritional deprivation, a history of abuse or neglect, and being directly affected by illegal substance abuse or withdrawal symptoms resulting from prenatal drug exposure).
+
+(Authority: 20 U.S.C. 1432(1), 1432(5)(B)(i) and 1437(a)(6))

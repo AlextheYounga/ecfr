@@ -1,0 +1,3 @@
+##### § 10.739 What kind of objective evidence of a potential Federal crime must exist for coverage to be extended? #####
+
+Based on the facts available at the time of the event, the officer must have an awareness of sufficient information which would lead a reasonable officer, under the circumstances, to conclude that a Federal crime was in progress, or was about to occur. This awareness need not extend to the precise particulars of the crime (the section of Title 18, United States Code, for example), but there must be sufficient evidence that the officer was in fact engaged in actual or attempted apprehension of a Federal criminal or prevention of a Federal crime.

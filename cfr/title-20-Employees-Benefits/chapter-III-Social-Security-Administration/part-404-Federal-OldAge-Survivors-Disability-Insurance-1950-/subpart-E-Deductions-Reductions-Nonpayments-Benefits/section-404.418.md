@@ -1,0 +1,7 @@
+##### § 404.418 “Noncovered remunerative activity outside the United States,” defined. #####
+
+An individual is engaged in noncovered remunerative activity outside the United States for purposes of deductions described in § 404.417 if:
+
+(a) He performs services outside the United States as an employee and the services do not constitute employment as defined in subpart K of this part and, for taxable years ending after 1955, the services are not performed in the active military or naval service of the United States; or
+
+(b) He carries on a trade or business outside the United States (other than the performance of services as an employee) the net income or loss of which is not includable in computing his net earnings from self-employment (as defined in § 404.1050) for a taxable year and would not be excluded from net earnings from self-employment (see § 404.1052) if the trade or business were carried on in the United States. When used in the preceding sentence with respect to a trade or business, the term *United States* does not include the Commonwealth of Puerto Rico, the Virgin Islands and, with respect to taxable years beginning after 1960, Guam or American Samoa, in the case of an alien who is not a resident of the United States (including the Commonwealth of Puerto Rico, the Virgin Islands and, with respect to taxable years beginning after 1960, Guam and American Samoa), and the term *trade or business* shall have the same meaning as when used in section 162 of the Internal Revenue Code of 1954.

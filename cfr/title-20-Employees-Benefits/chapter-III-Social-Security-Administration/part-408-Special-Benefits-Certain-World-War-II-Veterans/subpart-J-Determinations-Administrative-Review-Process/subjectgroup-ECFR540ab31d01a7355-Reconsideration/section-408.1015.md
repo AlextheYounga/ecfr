@@ -1,0 +1,3 @@
+##### § 408.1015 What procedures apply if you request reconsideration of an initial determination that results in suspension, reduction, or termination of your SVB? #####
+
+If you have been entitled to SVB and we notify you that we are going to suspend, reduce or terminate your benefit payments, you can appeal our determination within 60 days of the date you receive our notice. The 60-day period may be extended if you have good cause for an extension of time under the conditions stated in § 408.1011(b). If you appeal, you have the choice of a case review, informal conference or formal conference.

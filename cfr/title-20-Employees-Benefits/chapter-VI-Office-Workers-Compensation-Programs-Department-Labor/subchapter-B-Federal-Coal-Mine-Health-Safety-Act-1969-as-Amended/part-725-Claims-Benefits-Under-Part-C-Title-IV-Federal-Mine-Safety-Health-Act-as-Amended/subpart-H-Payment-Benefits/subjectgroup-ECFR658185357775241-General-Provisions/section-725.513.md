@@ -1,0 +1,5 @@
+##### § 725.513 Accountability; transfer. #####
+
+(a) The district director may require a representative payee to submit periodic reports including a full accounting of the use of all benefit payments certified to a representative payee. If a requested report or accounting is not submitted within the time allowed, the district director shall terminate the certification of the representative payee and thereafter payments shall be made directly to the beneficiary. A certification which is terminated under this section may be reinstated for good cause, provided that all required reports are supplied to the district director.
+
+(b) A representative payee who has conserved or invested funds from payments under this part shall, upon the direction of the district director, transfer any such funds (including interest) to a successor payee appointed by the district director or, at the option of the district director, shall transfer such funds to the Office for recertification to a successor payee or the beneficiary.

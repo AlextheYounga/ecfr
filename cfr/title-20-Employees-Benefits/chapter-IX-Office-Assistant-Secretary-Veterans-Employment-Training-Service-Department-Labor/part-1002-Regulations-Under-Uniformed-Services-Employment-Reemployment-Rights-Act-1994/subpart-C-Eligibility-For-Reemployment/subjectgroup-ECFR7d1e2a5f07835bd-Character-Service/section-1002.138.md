@@ -1,0 +1,3 @@
+##### § 1002.138 If the employee receives a retroactive upgrade in the characterization of service, will that entitle him or her to claim back wages and benefits lost as of the date of separation from service? #####
+
+No. A retroactive upgrade allows the employee to obtain reinstatement with the former employer, provided the employee otherwise meets the Act's eligibility criteria. Back pay and other benefits such as pension plan credits attributable to the time period between discharge and the retroactive upgrade are not required to be restored by the employer in this situation.

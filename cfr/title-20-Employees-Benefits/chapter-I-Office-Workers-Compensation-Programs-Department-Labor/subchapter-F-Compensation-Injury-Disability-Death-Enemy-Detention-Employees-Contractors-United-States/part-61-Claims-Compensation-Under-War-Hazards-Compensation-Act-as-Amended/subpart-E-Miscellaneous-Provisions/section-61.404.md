@@ -1,0 +1,3 @@
+##### § 61.404 Assignments; creditors. #####
+
+The right of any person to benefits under the Act is not transferable of assignable at law or in equity except to the United States, and none of the moneys paid or payable (except money paid as reimbursement for funeral expenses), or rights existing under the Act are subject to execution, levy, attachment, garnishment, or other legal process or to the operation of any bankruptcy or insolvency law.

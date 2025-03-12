@@ -1,0 +1,13 @@
+##### § 416.535 Underpayments and overpayments. #####
+
+(a) *General.* When an individual receives SSI benefits of less than the correct amount, adjustment is effected as described in §§ 416.542 and 416.543, and the additional rules in § 416.545 may apply. When an individual receives more than the correct amount of SSI benefits, adjustment is effected as described in § 416.570. Refund of overpayments is discussed in § 416.560 and waiver of recovery of overpayments is discussed in §§ 416.550 through 416.555.
+
+(b) *Additional rules for individuals whose drug addiction or alcoholism is a contributing factor material to the determination of disability.* When an individual whose drug addiction or alcoholism is a contributing factor material to the determination of disability, as described in § 416.935, receives less than the correct amount of SSI benefits, adjustment is effected as described in §§ 416.542 and 416.543 and the additional rule described in § 416.544 applies.
+
+(c) *Additional rules for eligible individuals under age 18 who have a representative payee.* When an eligible individual under age 18 has a representative payee and receives less than the correct amount of SSI benefits, the additional rules in § 416.546 may apply.
+
+(d) *Additional rules for eligible aliens and for their sponsors.* When an individual who is an alien is overpaid SSI benefits during the 3-year period in which deeming from a sponsor applies (see § 416.1160(a)(3)), the sponsor and the alien may be jointly and individually liable for repayment of the overpayment. The sponsor is liable for the overpayment if he or she failed to report correct information that affected the alien's eligibility or payment amount. This means information about the income and resources of the sponsor and, if they live together, of the sponsor's spouse. However, the sponsor is not liable for repayment if the sponsor was without fault or had good cause for failing to report correctly. A special rule that applies to adjustment of other benefits due the alien and the sponsor to recover an overpayment is described in § 416.570(b).
+
+(e) *Sponsor without fault or good cause exists for failure to report.* Without fault or good cause will be found to exist if the failure to report was not willful. To establish willful failure, the evidence must show that the sponsor knowingly failed to supply pertinent information regarding his or her income and resources.
+
+[52 FR 8881, Mar. 20, 1987, as amended at 60 FR 8149, Feb. 10, 1995; 61 FR 67205, Dec. 20, 1996]

@@ -1,0 +1,3 @@
+##### § 411.715 If an alternate participant becomes an EN, will beneficiaries for whom an employment plan was signed prior to implementation be covered under the Ticket to Work program payment provisions? #####
+
+No. When an alternate participant becomes an EN in a State in which the Ticket to Work program is implemented, those beneficiaries for whom an employment plan was signed prior to the date of implementation of the program in the State, will continue to be covered for a limited time under the programs for payments for VR services (see § 411.730).

@@ -1,0 +1,3 @@
+##### § 661.260 What are the requirements for automatic designation of workforce investment areas relating to units of local government with a population of 500,000 or more? #####
+
+The requirements for automatic designation relating to units of local government with a population of 500,000 or more and to rural concentrated employment programs are contained in WIA section 116(a)(2). The Governor has authority to determine the source of population data to use in making these designations.

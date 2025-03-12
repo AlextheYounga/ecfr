@@ -1,0 +1,23 @@
+##### § 655.1112 Element II—What does “no adverse effect on wages and working conditions” mean? #####
+
+(a) The second attestation element requires that the facility attest that “the employment of the alien will not adversely affect the wages and working conditions of registered nurses similarly employed.”
+
+(b) For purposes of this program, “employment” is full-time employment as defined in § 655.1102; part-time employment of H-1C nurses is not authorized.
+
+(c) *Wages.* To meet the requirement of no adverse effect on wages, the facility must attest that it will pay each nurse employed by the facility at least the prevailing wage for the occupation in the geographic area. The facility must pay the higher of the wage required under this paragraph or the wage required under § 655.1113 (*i.e.,* the third attestation element: facility wage).
+
+(1) *Collectively bargained wage rates.* Where wage rates for nurses at a facility are the result of arms-length collective bargaining, those rates shall be considered “prevailing” for that facility for the purposes of this subpart.
+
+(2) Determination of prevailing wage for H-1C purposes. In the absence of collectively bargained wage rates, the National Processing Center (NPC) having jurisdiction as determined by OFLC shall determine the prevailing wage for similarly employed nurses in the geographic area in accordance with administrative guidelines issued by ETA for prevailing wage determination requests submitted on or after the effective date of these regulations.
+
+(i) Prior to the effective date of these regulations, the SWA having jurisdiction over the area of intended employment shall continue to receive and process prevailing wage determination requests in accordance with the regulatory provisions and Department guidance in effect prior to January 1, 2009. On or after the effective date of these regulations, the NPC shall receive and process prevailing wage determination requests in accordance with these regulations and with Department guidance. A facility seeking to determine the prevailing wage must request a prevailing wage determination from the NPC having jurisdiction for providing the prevailing wage over the proposed area of intended employment not more than 90 days prior to the date the attestation is submitted to the Department. The NPC must enter its wage determination on the form it uses and return the form with its endorsement to the employer. Once a facility obtains a prevailing wage determination from the NPC and files an attestation supported by that prevailing wage determination, the facility shall be deemed to have accepted the prevailing wage determination as accurate and appropriate (as to both the occupational classification and the wage rate) and thereafter shall not contest the legitimacy of that prevailing wage determination in an investigation or enforcement action pursuant to subpart M of this part.
+
+(ii) A facility may challenge the prevailing wage determination with the NPC having provided such determination according to administrative guidelines issued by ETA, but must obtain a final ruling prior to filing an attestation.
+
+(3) *Total compensation package.* The prevailing wage under this paragraph relates to wages only. Employers are cautioned that each item in the total compensation package for U.S. nurses, H-1C, and other nurses employed by the facility must be the same within a given facility, including such items as housing assistance and fringe benefits.
+
+(4) *Documentation of pay and total compensation.* The facility must maintain in its public access file a copy of the prevailing wage, which shall be either the collective bargaining agreement or the determination that was obtained from the NPC. The facility must maintain payroll records, as specified in § 655.1113, and make such records available to the Administrator in the event of an enforcement action pursuant to subpart M.
+
+(d) *Working conditions.* To meet the requirement of no adverse effect on working conditions, the facility must attest that it will afford equal treatment to U.S. and H-1C nurses with the same seniority, with respect to such working conditions as the number and scheduling of hours worked (including shifts, straight days, weekends); vacations; wards and clinical rotations; and overall staffing-patient patterns. In the event of an enforcement action pursuant to subpart M, the facility must provide evidence substantiating compliance with this attestation.
+
+[65 FR 51149, Aug. 22, 2000, as amended at 73 FR 78068, Dec. 19, 2008]

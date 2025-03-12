@@ -1,0 +1,3 @@
+##### § 10.119 What action will OWCP take with respect to information submitted by the employer? #####
+
+OWCP will consider all evidence submitted appropriately, and OWCP will inform the employee, the employee's representative, if any, and the employer of any action taken. Where an employer contests a claim within 30 days of the initial submittal and the claim is later approved, OWCP will notify the employer of the rationale for approving the claim.

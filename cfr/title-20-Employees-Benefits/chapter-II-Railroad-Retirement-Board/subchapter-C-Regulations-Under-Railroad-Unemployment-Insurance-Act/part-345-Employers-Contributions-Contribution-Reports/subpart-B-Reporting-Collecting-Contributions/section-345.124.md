@@ -1,0 +1,7 @@
+##### § 345.124 Right to appeal the amount of a contribution, interest, or penalty. #####
+
+(a) Except as otherwise provided, an employer may seek administrative review of any determination with respect to any contribution, interest, or penalty made under this part by filing a request for reconsideration with the Chief Financial Officer within 30 days after the mailing of notice of such determination. An employer shall have a right to appeal to the Board from any reconsideration decision under this section by filing notice of appeal to the Secretary to the Board within 14 days after the mailing of the decision on reconsideration. Upon receipt of a notice of an appeal, the Board may designate one of its officers or employees to receive evidence and report to the Board under the procedures set forth in part 319 of this chapter. An appeal of the contribution rate is made under § 345.307 of this part.
+
+(b) Any appeal filed under this part shall not relieve the employer from filing any reports or paying any contribution required under this part nor stay the collection thereof. Upon the request of an employer, the Board may relieve the employer of any obligation required under this part pending an appeal. Unless specifically provided by the Board, such relief shall not stay the accrual of interest on any disputed amount as provided for in § 345.122 of this part.
+
+[67 FR 13568, Mar. 25, 2002]

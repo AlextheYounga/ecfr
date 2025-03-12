@@ -1,0 +1,3 @@
+##### § 725.206 Determination of relationship; divorced spouse. #####
+
+For the purposes of augmenting benefits with respect to any claim considered or reviewed under this part or part 727 of this subchapter (see § 725.4(d)), an individual will be considered to be the divorced spouse of a miner if the individual's marriage to the miner has been terminated by a final divorce on or after the 10th anniversary of the marriage unless, if such individual was married to and divorced from the miner more than once, such individual was married to the miner in each calendar year of the period beginning 10 years immediately before the date on which any divorce became final.

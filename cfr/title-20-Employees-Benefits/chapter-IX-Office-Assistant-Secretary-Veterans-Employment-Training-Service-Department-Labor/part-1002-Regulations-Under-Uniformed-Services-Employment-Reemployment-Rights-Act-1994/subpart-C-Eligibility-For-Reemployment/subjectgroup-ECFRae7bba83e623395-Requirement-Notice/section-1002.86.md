@@ -1,0 +1,7 @@
+##### § 1002.86 When is the employee excused from giving advance notice of service in the uniformed services? #####
+
+The employee is required to give advance notice of pending service unless giving such notice is prevented by military necessity, or is otherwise impossible or unreasonable under all the circumstances.
+
+(a) Only a designated authority can make a determination of “military necessity,” and such a determination is not subject to judicial review. Guidelines for defining “military necessity” appear in regulations issued by the Department of Defense at 32 CFR 104.3. In general, these regulations cover situations where a mission, operation, exercise or requirement is classified, or could be compromised or otherwise adversely affected by public knowledge. In certain cases, the Secretary of Homeland Security, in consultation with the Secretary of Defense, can make a determination that giving of notice by intermittent disaster-response appointees of the National Disaster Medical System is precluded by “military necessity.” See 42 U.S.C. 300hh-11(e)(3)(B).
+
+(b) It may be impossible or unreasonable to give advance notice under certain circumstances. Such circumstances may include the unavailability of the employee's employer or the employer's representative, or a requirement that the employee report for uniformed service in an extremely short period of time.

@@ -1,0 +1,3 @@
+##### § 320.48 Representatives of parties. #####
+
+In the event a party to any proceeding within the Board, under the preceding regulations in this part, desires to be represented by another person, he shall file with the Board prior to the time of such representation a power of attorney signed by him and naming such other person as the person authorized to represent him: *Provided, however,* That without requiring such power of attorney the Board may recognize as the duly authorized representative of the claimant the person designated by the claimant's railway labor organization to act in behalf of members of that organization on such matters whenever such representative acts or appears for such claimant.

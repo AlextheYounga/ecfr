@@ -1,0 +1,5 @@
+##### § 645.221 For what activities and services must local boards use contracts or vouchers? #####
+
+(a) Local boards and PIC's must provide the following activities and services through vouchers or contracts with public or private providers: the job readiness activities described in § 645.220(a) of this subpart, the job placement services described in § 645.220(d) of this subpart, and the post-employment services described in § 645.220(e) of this subpart. Job placement services provided with contracts or vouchers are subject to the payment requirements at § 645.230(a)(3) of this subpart. If an operating entity is not a local board or a PIC, it may provide such services directly.
+
+(b) Local boards and PIC's which are directly providing job readiness activities or job placement and/or post-employment services must conform to the requirement in paragraph (a) of this section, to provide such services through contract or voucher, by February 12, 2001.

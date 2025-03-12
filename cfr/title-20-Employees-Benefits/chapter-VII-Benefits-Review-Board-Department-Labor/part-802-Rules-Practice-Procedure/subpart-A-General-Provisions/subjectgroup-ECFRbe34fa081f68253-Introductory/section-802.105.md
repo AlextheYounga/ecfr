@@ -1,0 +1,7 @@
+##### § 802.105 Stay of payment pending appeal. #####
+
+(a) As provided in section 14(f) of the LHWCA and sections 415 and 422 of the Black Lung Benefits Act, the payment of the amounts required by an award of compensation or benefits shall not be stayed or in any way delayed beyond ten days after it becomes due pending final decision in any proceeding before the Board unless so ordered by the Board. No stay shall be issued unless irreparable injury would otherwise ensue to the employer, coal mine operator or insurance carrier. Any order of the Board permitting any stay shall contain a specific finding, based upon evidence submitted to the Board and identified by reference thereto, that irreparable injury would result to such employer, operator or insurance carrier, and specify the nature and extent of the injury.
+
+(b) When circumstances require, the Board, in its discretion, may issue a temporary order not to exceed 30 days granting a motion for stay of payment prior to the expiration of the ten-day period allowed for filing responses to motions pursuant to § 802.219(e). Following receipt of a response to the motion or expiration of the response time provided in § 802.219(e), the Board will issue a subsequent order ruling on the motion for stay of payment.
+
+[52 FR 27292, July 20, 1987, as amended at 53 FR 16519, May 9, 1988]

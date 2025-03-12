@@ -1,0 +1,5 @@
+##### § 404.1920 Supplementing the U.S. benefit if the total amount of the combined benefits is less than the U.S. minimum benefit. #####
+
+If a resident of the U.S. receives benefits under an agreement from both the U.S. and from the foreign country, the total amount of the two benefits may be less than the amount for which the resident would qualify under the U.S. system based on the minimum PIA as in effect for persons first becoming eligible for benefits before January 1982. An agreement may provide that in the case of an individual who first becomes eligible for benefits before January 1982, the U.S. will supplement the total amount to raise it to the amount for which the resident would have qualified under the U.S. system based on the minimum PIA. (The minimum benefit will be based on the first figure in column IV in the table in section 215(a) of the Act for a person becoming eligible for the benefit before January 1, 1979, or the PIA determined under section 215(a)(1)(C)(i)(I) of the Act (as in effect in December 1981) for a person becoming eligible for the benefit after December 31, 1978.)
+
+[49 FR 29777, July 24, 1984]

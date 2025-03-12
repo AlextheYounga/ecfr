@@ -1,0 +1,3 @@
+##### § 411.400 Can an EN to which a beneficiary's ticket is assigned refer the beneficiary to a State VR agency for services? #####
+
+Yes. An EN may refer a beneficiary it is serving under the Ticket to Work program to a State VR agency for services. However, a referral can be made only if the State VR agency and the EN have an agreement that specifies the conditions under which services will be provided by the State VR agency. This agreement must be in writing and signed by the State VR agency and the EN prior to the EN referring any beneficiary to the State VR agency for services.

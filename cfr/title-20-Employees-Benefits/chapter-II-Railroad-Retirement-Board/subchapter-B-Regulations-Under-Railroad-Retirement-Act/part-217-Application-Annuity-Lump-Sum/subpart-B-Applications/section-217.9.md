@@ -1,0 +1,19 @@
+##### § 217.9 Effective period of application. #####
+
+(a) *When effective period ends.* The effective period of an application ends on the date of the notice of an initial decision denying the claim. If a timely appeal is made (see part 260 of this chapter) the effective period of the application ends on the date of the notice of the decision of the referee, on the date of the notice of the final decision of the Board, or when court review of the denial has been completed. After the effective period of an application ends, the person must file a new application for any annuity or lump sum to which the claimant believes he or she is eligible.
+
+(b) *Application filed before claimant is eligible*—(1) *General rule.* Except as shown in paragraph (b)(2) and paragraph (b)(3) of this section, an application for an annuity must be denied if it is filed with the Board more than three months before the date an annuity can begin.
+
+(2) *Application for disability annuity.* If the Board determines that a claimant for a disability annuity is disabled under part 220 of this chapter, beginning with a date after the application is filed and before a final decision is made, the application is treated as though it were filed on the date the claimant became disabled. The claimant may be an employee, widow(er), surviving divorced spouse, remarried widow(er), or surviving child.
+
+(3) *Application for spouse annuity filed simultaneously with employee disability annuity application.* When the qualifying employee's annuity application effective period is determined by the preceding paragraph (b)(2) of this section, a spouse who meets all eligibility requirements may file an annuity application on the same date as the employee claimant. The spouse application will be treated as though it were filed on the later of the actual filing date or the employee's annuity beginning date.
+
+(c) *Application filed after the claimant is eligible*—(1) *Application for lump-sum death payment.* An application for a lump-sum death payment under part 234 of this chapter must be filed within two years after the death of the employee. This period may be extended under the Soldiers' and Sailors' Civil Relief Act of 1940, or when the applicant can prove “good cause” under § 217.11 of this chapter for not filing within the time limit.
+
+(2) *Application for annuity unpaid at death.* An application for an annuity due but unpaid at death under part 234 of this chapter must be filed within two years after the death of the person entitled to the annuity. This period may be extended under the Soldiers' and Sailors' Civil Relief Act of 1940, or when the applicant can prove “good cause” under § 217.11 of this chapter for not filing within the time limit.
+
+(3) *Application for residual lump sum.* An application for a residual lump sum under part 234 of this chapter may be filed at any time after the death of the employee.
+
+(4) *Application for a period of disability.* In order to be entitled to a period of disability under part 220 of this chapter, an employee must apply while he or she is disabled under part 220 or not later than 12 months after the month in which the period of disability ends except that an employee who is unable to apply within the 12-month period after the period of disability ends because his or her physical condition limited his or her activities to the extent that he or she could not complete and sign an application or because he or she was mentally incompetent, may apply no later than 36 months after the period of disability ends.
+
+(Approved by the Office of Management and Budget under control number 3220-0002)[47 FR 7647, Feb. 22, 1982, as amended at 54 FR 13363, Apr. 3, 1989; 67 FR 42714, June 25, 2002]

@@ -1,0 +1,7 @@
+##### § 259.3 Reconsideration of initial determinations with respect to employer or employee status. #####
+
+(a) A party to an initial decision issued under § 259.1 shall have the right to request reconsideration of that decision. A request for reconsideration shall be in writing and must be filed with the Secretary to the Board within one year following the date on which the initial determination was issued. Where a request for reconsideration has been timely filed, the Secretary to the Board shall notify all other parties to the initial determination of such request. The party who requested reconsideration and any other party shall have the right to submit briefs or written argument, as well as any documentary evidence pertinent to the issue under consideration. The General Counsel or his or her designee shall review the material furnished all parties and shall submit it to the Board with a recommendation as to the determination upon reconsideration. The Board shall then issue a determination with respect to the request for reconsideration. The Secretary to the Board shall promptly notify all parties and other interested persons or entities of the determination upon reconsideration.
+
+(b) A party who claims to be aggrieved by an initial decision of the Board but who fails to timely request reconsideration under this section shall forfeit any further right to appeal under this part.
+
+[57 FR 4366, Feb. 5, 1992]

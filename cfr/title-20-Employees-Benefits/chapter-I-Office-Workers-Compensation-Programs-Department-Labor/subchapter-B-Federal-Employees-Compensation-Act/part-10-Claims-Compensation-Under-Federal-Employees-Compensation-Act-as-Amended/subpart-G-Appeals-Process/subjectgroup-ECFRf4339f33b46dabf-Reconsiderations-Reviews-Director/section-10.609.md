@@ -1,0 +1,9 @@
+##### § 10.609 How does OWCP decide whether new evidence requires modification of the prior decision? #####
+
+When application for reconsideration is granted, OWCP will review the decision for which reconsideration is sought on the merits and determine whether the new evidence or argument requires modification of the prior decision.
+
+(a) After OWCP decides to grant reconsideration, but before undertaking the review, OWCP will send a copy of the reconsideration application to the employer, which will have 20 days from the date sent to comment or submit relevant documents. OWCP will provide any such comments to the employee, who will have 20 days from the date the comments are sent to him or her within which to comment. If no comments are received from the employer, OWCP will proceed with the merit review of the case. Where a reconsideration request pertains only to a medical issue (such as disability or a schedule award) not requiring comment from the employing agency, the employing agency will be notified that a request for reconsideration has been received, but OWCP is not required to wait 20 days for comment before reaching a determination, except when that claimant is deployed in an area of armed conflict.
+
+(b) A claims examiner who did not participate in making the contested decision will conduct the merit review of the claim. When all evidence has been reviewed, OWCP will issue a new merit decision, based on all the evidence in the record. A copy of the decision will be provided to the agency.
+
+(c) An employee dissatisfied with this new merit decision may again request reconsideration under this subpart or appeal to the ECAB. An employee may not request a hearing on this decision.

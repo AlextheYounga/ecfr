@@ -1,0 +1,5 @@
+##### § 404.716 Type of evidence of age to be given. #####
+
+(a) *Preferred evidence.* The best evidence of your age, if you can obtain it, is either: a birth certificate or hospital birth record recorded before age 5; or a religious record which shows your date of birth and was recorded before age 5.
+
+(b) *Other evidence of age.* If you cannot obtain the preferred evidence of your age, you will be asked for other convincing evidence that shows your date of birth or age at a certain time such as: an original family bible or family record; school records; census records; a statement signed by the physician or midwife who was present at your birth; insurance policies; a marriage record; a passport; an employment record; a delayed birth certificate, your child's birth certificate; or an immigration or naturalization record.

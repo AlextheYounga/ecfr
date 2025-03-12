@@ -1,0 +1,17 @@
+##### § 725.418 Proposed decision and order. #####
+
+(a) Within 20 days after the termination of all informal conference proceedings, or, if no informal conference is held, at the conclusion of the period permitted by § 725.410(b) for the submission of evidence, the district director will issue a proposed decision and order. A proposed decision and order is a document, issued by the district director after the evidentiary development of the claim is completed and all contested issues, if any, are joined, which purports to resolve a claim on the basis of the evidence submitted to or obtained by the district director. A proposed decision and order will be considered a final adjudication of a claim only as provided in § 725.419. A proposed decision and order may be issued by the district director at any time during the adjudication of any claim if:
+
+(1) Issuance is authorized or required by this part;
+
+(2) The district director determines that its issuance will expedite the adjudication of the claim; or
+
+(3) The district director determines that the claimant is a survivor who is entitled to benefits under 30 U.S.C. 932(l). In such cases, the district director may designate the responsible operator in the proposed decision and order regardless of whether the requirements of paragraph (d) of this section have been met. Any operator identified as liable for benefits under this paragraph may challenge the finding of liability by timely requesting revision of the proposed decision and order and specifically indicating disagreement with that finding. *See* 20 CFR 725.419(a) and (b). In such cases, the district director must allow all parties 30 days within which to submit liability evidence. At the end of this period, the district director must issue a new proposed decision and order.
+
+(b) A proposed decision and order must contain findings of fact and conclusions of law. It must be served on all parties to the claim by certified mail.
+
+(c) The proposed decision and order must contain a notice of the right of any interested party to request a formal hearing before the Office of Administrative Law Judges. If the proposed decision and order is a denial of benefits, and the claimant has previously filed a request for a hearing, the proposed decision and order must notify the claimant that the case will be referred for a hearing pursuant to the previous request unless the claimant notifies the district director that he no longer desires a hearing. If the proposed decision and order is an award of benefits, and the designated responsible operator has previously filed a request for a hearing, the proposed decision and order must notify the operator that the case will be referred for a hearing pursuant to the previous request unless the operator notifies the district director that it no longer desires a hearing.
+
+(d) The proposed decision and order must reflect the district director's final designation of the responsible operator liable for the payment of benefits. Except as provided in paragraph (a)(3) of this section, no operator may be finally designated as the responsible operator unless it has received notification of its potential liability pursuant to § 725.407, and the opportunity to submit additional evidence pursuant to § 725.410. The district director must dismiss, as parties to the claim, all other potentially liable operators that received notification pursuant to § 725.407 and that were not previously dismissed pursuant to § 725.410(a)(3).
+
+[78 FR 59118, Sept. 25, 2013]

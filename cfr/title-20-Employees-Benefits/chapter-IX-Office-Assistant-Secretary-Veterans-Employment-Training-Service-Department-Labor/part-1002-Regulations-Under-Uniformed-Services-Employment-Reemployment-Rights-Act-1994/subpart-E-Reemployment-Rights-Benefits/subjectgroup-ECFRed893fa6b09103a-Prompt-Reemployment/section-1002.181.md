@@ -1,0 +1,3 @@
+##### § 1002.181 How is “prompt reemployment” defined? #####
+
+“Prompt reemployment” means as soon as practicable under the circumstances of each case. Absent unusual circumstances, reemployment must occur within two weeks of the employee's application for reemployment. For example, prompt reinstatement after a weekend National Guard duty generally means the next regularly scheduled working day. On the other hand, prompt reinstatement following several years of active duty may require more time, because the employer may have to reassign or give notice to another employee who occupied the returning employee's position.

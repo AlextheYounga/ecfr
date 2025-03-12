@@ -1,0 +1,5 @@
+##### § 366.1 Notification to Internal Revenue Service. #####
+
+Upon entering into an agreement with the Internal Revenue Service and the Financial Management Service with regard to its participation in the tax refund offset program, the Board may notify the Internal Revenue Service, pursuant to the terms of such agreement, of past-due legally enforceable debts owed to the Board that are to be collected by tax refund offset. The Board's notification to the Internal Revenue Service will be as prescribed by the Internal Revenue Service in regard to information included and format, and will be made by such dates as prescribed by the Internal Revenue Service. The Board will provide the Internal Revenue Service with a toll-free or collect telephone number which the Internal Revenue Service may furnish to debtors whose refunds have been offset for use in obtaining information from the Board concerning the offset.
+
+[54 FR 397, Jan. 6, 1989, as amended at 60 FR 66073, Dec. 21, 1995]

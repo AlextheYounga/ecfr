@@ -1,0 +1,3 @@
+##### § 901.54 Petition for reinstatement. #####
+
+Any individual whose enrollment has been terminated may petition the Executive Director for reinstatement after the expiration of five years following such termination. Reinstatement may not be granted unless the Executive Director, with the approval of the Joint Board, is satisfied that the petitioner is not likely to conduct himself/herself thereafter contrary to the regulations in this part, and that granting such reinstatement would not be contrary to the public interest.

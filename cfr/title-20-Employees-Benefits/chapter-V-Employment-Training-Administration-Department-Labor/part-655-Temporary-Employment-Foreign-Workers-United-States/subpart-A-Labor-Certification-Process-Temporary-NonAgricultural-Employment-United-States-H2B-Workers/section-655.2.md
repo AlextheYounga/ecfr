@@ -1,0 +1,7 @@
+##### § 655.2 Authority of the agencies, offices, and divisions in the Department of Labor. #####
+
+(a) *Authority and role of the Office of Foreign Labor Certification (OFLC).* The Secretary has delegated authority to make determinations under this subpart, pursuant to 8 CFR 214.2(h)(6)(iii)(D) and (h)(6)(iv), to the Assistant Secretary for the Employment and Training Administration (ETA), who in turn has delegated that authority to OFLC. Determinations on an *Application for Temporary Employment Certification* in the H-2B program are made by the Administrator, OFLC who, in turn, may delegate this responsibility to designated staff members, e.g., a Certifying Officer (CO).
+
+(b) *Authority of the Wage and Hour Division (WHD).* Pursuant to its authority under section 214(c)(14)(B) of the INA, 8 U.S.C. 1184(c)(l4)(B), DHS has delegated to the Secretary certain investigatory and enforcement functions with respect to terms and conditions of employment in the H-2B program. The Secretary has, in turn, delegated that authority to WHD. The regulations governing WHD investigation and enforcement functions, including those related to the enforcement of temporary labor certifications, issued under this subpart, may be found in 29 CFR part 503.
+
+(c) *Concurrent authority.* OFLC and WHD have concurrent authority to impose a debarment remedy under § 655.73 or under 29 CFR 503.24.

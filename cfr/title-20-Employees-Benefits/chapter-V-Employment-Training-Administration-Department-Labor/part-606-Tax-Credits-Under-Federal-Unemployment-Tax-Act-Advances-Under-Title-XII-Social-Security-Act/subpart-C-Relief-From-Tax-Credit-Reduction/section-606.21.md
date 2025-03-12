@@ -1,0 +1,13 @@
+##### § 606.21 Criteria for cap. #####
+
+(a) *Reduction in unemployment tax effort.* (1) For purposes of paragraph (a)(1) of § 606.20, a reduction in a State's unemployment tax effort will have occurred with respect to a taxable year if any action is or was taken (legislative, judicial, or administrative,) that is effective during the 12-month period ending on September 30 of such taxable year, which has resulted in or will result in a reduction of the amount of contributions paid or payable or the amounts that were or would have been paid or payable but for such action.
+
+(2) Actions that will result in a reduction in tax effort include, but are not limited to, a reduction in the taxable wage base, the tax rate schedule, tax rates, or taxes payable (including surtaxes) that would not have gone into effect but for the legislative, judicial, or administrative action taken. Notwithstanding the foregoing criterion, a reduction in unemployment tax effort resulting from any provision of the State law enacted prior to August 13, 1981, will not be taken into account as a reduction in the State's unemployment tax effort for the purposes of this section.
+
+(b) *Net decrease in solvency.* For purposes of paragraph (a)(2) of § 606.20, a net decrease in the solvency of the State's unemployment compensation system will have occurred with respect to a taxable year if any action is or was taken (legislative, judicial, or administrative), that is effective during the 12-month period ending on September 30 of such taxable year, which has resulted in or will result in an increase in benefits without at least an equal increase in taxes, or a decrease in taxes without at least an equal decrease in benefits. Notwithstanding the foregoing criterion, a decrease in solvency resulting from any provision of the State law enacted prior to August 13, 1981, will not be taken into account as a reduction in solvency of the State's unemployment compensation system for the purposes of this section.
+
+(c) *State unemployment tax rate.* For purposes of paragraph (a)(3) of § 606.20, the State unemployment tax rate is defined in § 606.3. If such percentage is not a multiple of 0.1 percent, the percentage shall remain unrounded.
+
+(d) *State five-year average benefit cost ratio.* The average benefit-cost ratio for the 5 preceding calendar years is the percentage determined by dividing the sum of the benefit-cost ratios for the 5 years by five. If such percentage is not a multiple of 0.1 percent, the percentage shall remain unrounded.
+
+[53 FR 37429, Sept. 26, 1988, as amended at 75 FR 57156, Sept. 17, 2010]

@@ -1,0 +1,3 @@
+##### § 418.3670 How will you be notified of the dismissal? #####
+
+We will mail a written notice of the dismissal of your request for administrative review to you at your last known address. The dismissal is not subject to judicial review and is binding on you unless we vacate it. The decision-maker may vacate any dismissal of your request for administrative review if, within 60 days after the date you receive the dismissal notice, you request that the dismissal be vacated and show good cause why the request should not be dismissed. The decision-maker shall advise you in writing of any action he or she takes.

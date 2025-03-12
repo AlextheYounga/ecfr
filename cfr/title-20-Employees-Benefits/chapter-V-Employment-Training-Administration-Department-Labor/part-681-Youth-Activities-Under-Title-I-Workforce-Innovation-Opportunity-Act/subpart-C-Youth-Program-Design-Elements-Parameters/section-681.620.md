@@ -1,0 +1,3 @@
+##### § 681.620 How are summer employment opportunities administered? #####
+
+Summer employment opportunities are a component of the work experience program element. If youth service providers administer the work experience program element, they must be selected by the Local WDB according to the requirements of WIOA sec. 123 and § 681.400, based on criteria contained in the State Plan. However, the summer employment administrator does not need to select the employers who are providing the employment opportunities through a competitive process.

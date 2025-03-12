@@ -1,0 +1,5 @@
+##### § 416.903a Program integrity. #####
+
+We will not use in our program any individual or entity, except to provide existing medical evidence, who is currently excluded, suspended, or otherwise barred from participation in the Medicare or Medicaid programs, or any other Federal or Federally-assisted program; whose license to provide health care services is currently revoked or suspended by any State licensing authority pursuant to adequate due process procedures for reasons bearing on professional competence, professional conduct, or financial integrity; or who until a final determination is made has surrendered such a license while formal disciplinary proceedings involving professional conduct are pending. By individual or entity we mean a medical or psychological consultant, consultative examination provider, or diagnostic test facility. Also see §§ 416.919 and 416.919g(b).
+
+[56 FR 36963, Aug. 1, 1991]

@@ -1,0 +1,3 @@
+##### § 30.507 What compensation will be provided to covered Part B employees who only establish beryllium sensitivity under Part B of EEOICPA? #####
+
+The establishment of beryllium sensitivity does not entitle a covered Part B employee, or the eligible surviving beneficiary or beneficiaries of a deceased covered Part B employee, to any lump-sum payment provided for under Part B. Instead, a covered Part B employee whose sole accepted occupational illness is beryllium sensitivity shall receive beryllium sensitivity monitoring, as well as medical benefits for the treatment of this occupational illness in accordance with § 30.400 of these regulations.

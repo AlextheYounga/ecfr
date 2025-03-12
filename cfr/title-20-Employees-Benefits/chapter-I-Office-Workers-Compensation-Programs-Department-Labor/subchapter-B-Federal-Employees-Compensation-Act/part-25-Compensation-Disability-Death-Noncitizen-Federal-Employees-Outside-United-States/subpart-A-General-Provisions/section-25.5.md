@@ -1,0 +1,3 @@
+##### § 25.5 How does OWCP adjudicate claims of non-citizen residents of possessions or territories? #####
+
+An employee who is a bona fide permanent resident of any United States possession, territory, commonwealth, or trust territory will receive the full benefits of the FECA, as amended, except that the application of the minimum benefit provisions provided therein shall be governed by the restrictions set forth in 5 U.S.C. 8138.

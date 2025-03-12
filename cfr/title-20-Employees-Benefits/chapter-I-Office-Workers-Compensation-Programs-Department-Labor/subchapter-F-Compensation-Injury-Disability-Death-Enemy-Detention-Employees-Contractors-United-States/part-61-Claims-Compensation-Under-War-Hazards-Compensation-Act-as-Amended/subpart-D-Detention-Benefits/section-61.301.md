@@ -1,0 +1,5 @@
+##### § 61.301 Filing a claim for detention benefits. #####
+
+(a) A claim for detention benefits shall contain the following information: Name, address, and occupation of the missing employee; name, address and relation to the employee of any dependent making claim; name and address of the employer; contract number under which employed; date, place and circumstances of capture or detention; date, place and circumstances of release (if applicable). The employer shall provide information about the circumstances of the detention and the employee's payrate at the time of capture. Dependents making claim for detention benefits may be required to submit all evidence available to them concerning the employment status of the missing person and the circumstances surrounding his or her absence.
+
+(b) A claim filed by a dependent or by the employee upon his or her release should be sent with any supporting documentation to the U.S. Department of Labor, Office of Workers' Compensation Programs, Branch of Special Claims, P.O. Box 37117, Washington, DC 20013-7117.

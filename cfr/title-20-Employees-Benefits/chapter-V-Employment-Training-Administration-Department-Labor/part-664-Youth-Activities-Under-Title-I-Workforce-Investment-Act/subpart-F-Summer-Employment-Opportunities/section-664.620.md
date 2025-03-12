@@ -1,0 +1,3 @@
+##### § 664.620 Do the core indicators described in 20 CFR 666.100(a)(3) apply to participation in summer employment activities? #####
+
+Yes, the summer employment opportunities element is one of a number of activities authorized by the WIA youth program. WIA section 136(b)(2) (A)(ii) and(B) provides specific core indicators of performance for youth, and requires that all participating youth be included in the determination of whether the local levels of performance are met. Program operators can help ensure positive outcomes for youth participants by providing them with continuity of services.

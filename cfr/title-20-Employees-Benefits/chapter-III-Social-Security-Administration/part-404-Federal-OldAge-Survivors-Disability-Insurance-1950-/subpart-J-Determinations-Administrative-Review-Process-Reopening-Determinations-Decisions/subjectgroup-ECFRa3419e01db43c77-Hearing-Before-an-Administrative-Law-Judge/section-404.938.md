@@ -1,0 +1,11 @@
+##### § 404.938 Notice of a hearing before an administrative law judge. #####
+
+Link to an amendment published at 81 FR 90993, December 16, 2016.
+
+(a) *Issuing the notice.* After we set the time and place of the hearing, we will mail notice of the hearing to you at your last known address, or give the notice to you by personal service, unless you have indicated in writing that you do not wish to receive this notice. The notice will be mailed or served at least 20 days before the hearing.
+
+(b) *Notice information.* The notice of hearing will contain a statement of the specific issues to be decided and tell you that you may designate a person to represent you during the proceedings. The notice will also contain an explanation of the procedures for requesting a change in the time or place of your hearing, a reminder that if you fail to appear at your scheduled hearing without good cause the administrative law judge may dismiss your hearing request, and other information about the scheduling and conduct of your hearing. You will also be told if your appearance or that of any other party or witness is scheduled to be made in person, by video teleconferencing, or by telephone. If we have scheduled you to appear at the hearing by video teleconferencing, the notice of hearing will tell you that the scheduled place for the hearing is a video teleconferencing site and explain what it means to appear at your hearing by video teleconferencing.
+
+(c) *Acknowledging the notice of hearing.* The notice of hearing will ask you to return a form to let us know that you received the notice. If you or your representative do not acknowledge receipt of the notice of hearing, we will attempt to contact you for an explanation. If you tell us that you did not receive the notice of hearing, an amended notice will be sent to you by certified mail. *See* § 404.936 for the procedures we will follow in deciding whether the time or place of your scheduled hearing will be changed if you do not respond to the notice of hearing.
+
+[68 FR 5219, Feb. 3, 2003, as amended at 75 FR 39160, July 8, 2010; 78 FR 29627, May 21, 2013; 79 FR 35932, June 25, 2014]

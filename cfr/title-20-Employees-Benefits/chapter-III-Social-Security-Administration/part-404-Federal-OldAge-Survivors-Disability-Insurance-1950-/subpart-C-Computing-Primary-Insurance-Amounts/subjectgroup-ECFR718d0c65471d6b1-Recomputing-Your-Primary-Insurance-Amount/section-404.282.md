@@ -1,0 +1,5 @@
+##### § 404.282 Effective date of recomputations. #####
+
+Most recomputations are effective beginning with January of the calendar year after the year in which the additional earnings used in the recomputation were paid. However, a recomputation to include earnings in the year of death (whether or not paid before death) is effective for the month of death. Additionally if you first became eligible for old-age or disability insurance benefits after 1985 and you later also become entitled to a monthly pension based on noncovered employment, we will recompute your primary insurance amount under the rules in § 404.213; this recomputed Social Security benefit amount is effective for the first month you are entitled to the pension. Finally, if your primary insurance amount was affected by your entitlement to a pension, we will recompute the amount to disregard the pension, effective with the month of your death.
+
+[47 FR 30734, July 15, 1982, as amended at 52 FR 47918, Dec. 17, 1987]

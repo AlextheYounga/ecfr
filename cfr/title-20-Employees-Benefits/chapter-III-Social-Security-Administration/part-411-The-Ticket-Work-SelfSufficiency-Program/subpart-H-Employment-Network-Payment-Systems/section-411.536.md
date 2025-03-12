@@ -1,0 +1,5 @@
+##### § 411.536 Under what circumstances can we make a reconciliation payment under the outcome-milestone payment system? #####
+
+When the beneficiary's outcome payment period begins before the beneficiary has attained all Phase 1 and Phase 2 milestones, we will pay the EN (or a State VR agency acting as an EN) a reconciliation payment. The reconciliation payment will equal the total amount of the milestone payments that were available with respect to that ticket, when the ticket was first assigned, but that have not yet been paid. The reconciliation payment will be based on the payment calculation base for the calendar year in which the first month of the beneficiary's outcome period occurs, rounded to the nearest whole dollar. The payment will be made after an EN has qualified for 12 outcome payments. Where multiple ENs had the ticket assigned at some time, the PM will apply the rule under § 411.560 to determine the allocation of the reconciliation payment.
+
+[73 FR 29347, May 20, 2008]

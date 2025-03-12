@@ -1,0 +1,3 @@
+##### § 401.75 Rights of parents or legal guardians. #####
+
+For purposes of this part, a parent or guardian of any minor or the legal guardian of any individual who has been declared incompetent due to physical or mental incapacity or age by a court of competent jurisdiction is authorized to act on behalf of a minor or incompetent individual. Except as provided in § 401.45, governing procedures for verifying an individual's identity, and § 401.55(c) governing special procedures for notification of or access to a minor's medical records, if you are authorized to act on behalf of a minor or legal incompetent, you will be viewed as if you were the individual or subject individual.

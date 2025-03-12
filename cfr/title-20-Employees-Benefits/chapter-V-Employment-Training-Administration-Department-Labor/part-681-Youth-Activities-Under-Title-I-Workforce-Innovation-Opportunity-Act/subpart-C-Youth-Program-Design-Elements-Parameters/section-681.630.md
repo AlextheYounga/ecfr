@@ -1,0 +1,3 @@
+##### § 681.630 What does education offered concurrently with and in the same context as workforce preparation activities and training for a specific occupation or occupational cluster mean? #####
+
+This program element reflects an integrated education and training model and describes how workforce preparation activities, basic academic skills, and hands-on occupational skills training are to be taught within the same time frame and connected to training in a specific occupation, occupational cluster, or career pathway.

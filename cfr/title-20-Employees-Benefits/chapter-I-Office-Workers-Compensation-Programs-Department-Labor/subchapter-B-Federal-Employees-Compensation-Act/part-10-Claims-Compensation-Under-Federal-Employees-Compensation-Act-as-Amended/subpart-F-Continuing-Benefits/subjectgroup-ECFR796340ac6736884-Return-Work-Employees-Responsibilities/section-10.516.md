@@ -1,0 +1,3 @@
+##### § 10.516 How will an employee know if OWCP considers a job to be suitable? #####
+
+OWCP shall advise the employee that it has found the offered work to be suitable and afford the employee 30 days to accept the job or present any reasons to counter OWCP's finding of suitability. If the employee presents such reasons, and OWCP determines that the reasons are unacceptable, it will notify the employee of that determination and that he or she has 15 days in which to accept the offered work without penalty. At that point in time, OWCP's notification need not state the reasons for finding that the employee's reasons are not acceptable.

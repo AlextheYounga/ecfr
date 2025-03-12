@@ -1,0 +1,5 @@
+##### § 429.106 What happens if my claim is denied? #####
+
+(a) If your claim is denied, the SSA Claims Officer will send you, your agent, or your legal representative a written notice by certified or registered mail. The notice will include an explanation of why your claim was denied and will advise you of your right to file suit in an appropriate U.S. District Court not later than 6 months after the date of the mailing of the notice if you disagree with the determination.
+
+(b) Before filing suit and before expiration of the 6-month period after the date of the mailing of the denial notice, you, your duly authorized agent, or your legal representative may file a written request with SSA for reconsideration by certified or registered mail. If you file a timely request for reconsideration, SSA has 6 months from the date you file your request in which to finally dispose of your claim. Your right to file suit will not begin until 6 months after you file your request for reconsideration. Final SSA action on your request for reconsideration will occur in accordance with the provisions of paragraph (a) of this section.

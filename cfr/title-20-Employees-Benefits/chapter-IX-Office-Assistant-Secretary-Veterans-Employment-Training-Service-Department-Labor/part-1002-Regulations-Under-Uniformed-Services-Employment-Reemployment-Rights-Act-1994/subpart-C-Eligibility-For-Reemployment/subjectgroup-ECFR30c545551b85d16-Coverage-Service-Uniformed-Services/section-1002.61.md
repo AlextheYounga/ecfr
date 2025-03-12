@@ -1,0 +1,7 @@
+##### § 1002.61 Does USERRA cover a member of the Reserve Officers Training Corps? #####
+
+Yes, under certain conditions.
+
+(a) Membership in the Reserve Officers Training Corps (ROTC) or the Junior ROTC is not “service in the uniformed services.” However, some Reserve and National Guard enlisted members use a college ROTC program as a means of qualifying for commissioned officer status. National Guard and Reserve members in an ROTC program may at times, while participating in that program, be receiving active duty and inactive duty training service credit with their unit. In these cases, participating in ROTC training sessions is considered “service in the uniformed services,” and qualifies a person for protection under USERRA's reemployment and anti-discrimination provisions.
+
+(b) Typically, an individual in a College ROTC program enters into an agreement with a particular military service that obligates such individual to either complete the ROTC program and accept a commission or, in case he or she does not successfully complete the ROTC program, to serve as an enlisted member. Although an individual does not qualify for reemployment protection, except as specified in (a) above, he or she is protected under USERRA's anti-discrimination provisions because, as a result of the agreement, he or she has applied to become a member of the uniformed services and has incurred an obligation to perform future service.

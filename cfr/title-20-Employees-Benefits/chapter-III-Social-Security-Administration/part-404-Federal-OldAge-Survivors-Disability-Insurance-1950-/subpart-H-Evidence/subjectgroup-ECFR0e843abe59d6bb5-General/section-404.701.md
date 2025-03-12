@@ -1,0 +1,3 @@
+##### § 404.701 Introduction. #####
+
+This subpart contains the Social Security Administration's basic rules about what evidence is needed when a person claims old-age, disability, dependents' and survivors' insurance benefits as described in subpart D. In addition, there are special evidence requirements for disability benefits. These are contained in subpart P. Evidence of a person's earnings under social security is described in subpart I. Evidence needed to obtain a social security number card is described in part 422. Evidence requirements for the supplemental security income program are contained in part 416.

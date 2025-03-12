@@ -1,0 +1,3 @@
+##### § 404.404 How reduction for maximum affects insured individual and other persons entitled on his earnings record. #####
+
+If a reduction of monthly benefits is required under the provisions of § 404.403, the monthly benefit amount of each of the persons entitled to a monthly benefits on the same earnings record (with the exception of the individual entitled to old-age or disability insurance benefits) is proportionately reduced so that the total benefits that can be paid in 1 month (including an amount equal to the primary insurance amount of the old-age or disability insurance beneficiary, when applicable) does not exceed the maximum family benefit (except as provided in § 404.405 where various savings clause provisions are described).

@@ -1,0 +1,3 @@
+##### § 1002.21 Do the Act's prohibitions against discrimination and retaliation apply to all employment positions? #####
+
+The prohibitions against discrimination and retaliation apply to all covered employers (including hiring halls and potential employers, see sections 1002.36 and .38) and employment positions, including those that are for a brief, nonrecurrent period, and for which there is no reasonable expectation that the employment position will continue indefinitely or for a significant period. However, USERRA's reemployment rights and benefits do not apply to such brief, nonrecurrent positions of employment.

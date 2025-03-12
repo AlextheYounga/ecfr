@@ -1,0 +1,13 @@
+##### § 655.130 Application filing requirements. #####
+
+All agricultural employers who desire to hire H-2A foreign agricultural workers must apply for a certification from the Secretary by filing an *Application for Temporary Employment Certification* with the NPC designated by the OFLC Administrator. The following section provides the procedures employers must follow when filing.
+
+(a) *What to file.* An employer, whether individual, association, or an H-2ALC, that desires to apply for temporary employment certification of one or more nonimmigrant foreign workers must file a completed *Application for Temporary Employment Certification* form and, unless a specific exemption applies, a copy of Form ETA-790, submitted to the SWA serving the area of intended employment, as set forth in § 655.121(a).
+
+(b) *Timeliness.* A completed *Application for Temporary Employment Certification* must be filed no less than 45 calendar days before the employer's date of need.
+
+(c) *Location and method of filing.* The employer may send the *Application for Temporary Employment Certification* and all required supporting documentation by U.S. Mail or private mail courier to the NPC. The Department will publish a Notice in the Federal Register identifying the address(es), and any future address changes, to which *Applications for Temporary Employment Certification* must be mailed, and will also post these addresses on the OFLC Internet Web site at *http://www.foreignlaborcert.doleta.gov/.* The Department may also require *Applications for Temporary Employment Certification,* at a future date, to be filed electronically in addition to or instead of by mail, notice of which will be published in the Federal Register.
+
+(d) *Original signature.* The *Application for Temporary Employment Certification* must bear the original signature of the employer (and that of the employer's authorized attorney or agent if the employer is represented by an attorney or agent). An association filing a master application as a joint employer may sign on behalf of its employer members. An association filing as an agent may not sign on behalf of its members but must obtain each member's signature on each *Application for Temporary Employment Certification* prior to filing.
+
+(e) Information received in the course of processing *Applications for Temporary Employment Certification* and program integrity measures such as audits may be forwarded from OFLC to Wage and Hour Division (WHD) for enforcement purposes.

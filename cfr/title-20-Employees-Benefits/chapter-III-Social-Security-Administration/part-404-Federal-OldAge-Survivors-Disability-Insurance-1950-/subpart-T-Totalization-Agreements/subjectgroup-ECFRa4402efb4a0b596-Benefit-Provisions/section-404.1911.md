@@ -1,0 +1,3 @@
+##### § 404.1911 Effects of a totalization agreement on entitlement to hospital insurance benefits. #####
+
+A person may not become entitled to hospital insurance benefits under section 226 or section 226A of the Act by combining the person's periods of coverage under the social security system of the United States with the person's periods of coverage under the social security system of the foreign country. Entitlement to hospital insurance benefits is not precluded if the person otherwise meets the requirements.

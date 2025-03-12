@@ -1,0 +1,3 @@
+##### § 229.81 Refusal to accept vocational rehabilitation. #####
+
+The DIB O/M is not payable for any month in which the disabled employee refuses, without good reason, to accept vocational rehabilitation services available under an approved state program. A disabled child's benefit under the O/M is not payable for any month in which the child refuses, without good reason, to accept such vocational rehabilitation services, unless the child is a full-time student.

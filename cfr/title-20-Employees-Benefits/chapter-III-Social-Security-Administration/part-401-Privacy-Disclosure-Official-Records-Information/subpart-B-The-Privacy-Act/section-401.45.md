@@ -1,0 +1,23 @@
+##### § 401.45 Verifying your identity. #####
+
+(a) *When required.* Unless you are making a request for notification of or access to a record in person, and you are personally known to the SSA representative, you must verify your identity in accordance with paragraph (b) of this section if:
+
+(1) You make a request for notification of a record and we determine that the mere notice of the existence of the record would be a clearly unwarranted invasion of privacy if disclosed to someone other than the subject individual; or,
+
+(2) You make a request for access to a record which is not required to be disclosed to the general public under the Freedom of Information Act, 5 U.S.C. 552, and part 402 of this chapter.
+
+(b) *Manner of verifying identity*—(1) *Request in person.* If you make a request to us in person, you must provide at least one piece of tangible identification such as a driver's license, passport, alien or voter registration card, or union card to verify your identity. If you do not have identification papers to verify your identity, you must certify in writing that you are the individual who you claim to be and that you understand that the knowing and willful request for or acquisition of a record pertaining to an individual under false pretenses is a criminal offense.
+
+(2) *Request by telephone.* If you make a request by telephone, you must verify your identity by providing identifying particulars which parallel the record to which notification or access is being sought. If we determine that the particulars provided by telephone are insufficient, you will be required to submit your request in writing or in person. We will not accept telephone requests where an individual is requesting notification of or access to sensitive records such as medical records.
+
+(3) *Electronic requests.* If you make a request by computer or other electronic means, e.g., over the Internet, we require you to verify your identity by using identity confirmation procedures that are commensurate with the sensitivity of the information that you are requesting. If we cannot confirm your identity using our identity confirmation procedures, we will not process the electronic request. When you cannot verify your identity through our procedures, we will require you to submit your request in writing.
+
+(4) *Electronic disclosures.* When we collect or provide personally identifiable information over open networks such as the Internet, we use encryption in all of our automated online transaction systems to protect the confidentiality of the information. When we provide an online access option, such as a standard e-mail comment form on our Web site, and encryption is not being used, we alert you that personally identifiable information (such as your social security number) should not be included in your message.
+
+(5) *Requests not made in person.* Except as provided in paragraphs (b)(2) of this section, if you do not make a request in person, you must submit a written request to SSA to verify your identify or you must certify in your request that you are the individual you claim to be. You must also sign a statement that you understand that the knowing and willful request for or acquisition of a record pertaining to an individual under false pretenses is a criminal offense.
+
+(6) *Requests on behalf of another.* If you make a request on behalf of a minor or legal incompetent as authorized under § 401.40, you must verify your relationship to the minor or legal incompetent, in addition to verifying your own identity, by providing a copy of the minor's birth certificate, a court order, or other competent evidence of guardianship to SSA; except that you are not required to verify your relationship to the minor or legal incompetent when you are not required to verify your own identity or when evidence of your relationship to the minor or legal incompetent has been previously given to SSA.
+
+(7) *Medical records—additional verification.* You need to further verify your identity if you are requesting notification of or access to sensitive records such as medical records. Any information for further verification must parallel the information in the record to which notification or access is being sought. Such further verification may include such particulars as the date or place of birth, names of parents, name of employer or the specific times the individual received medical treatment.
+
+[62 FR 4143, Jan. 29, 1997, as amended at 72 FR 20939, Apr. 27, 2007]

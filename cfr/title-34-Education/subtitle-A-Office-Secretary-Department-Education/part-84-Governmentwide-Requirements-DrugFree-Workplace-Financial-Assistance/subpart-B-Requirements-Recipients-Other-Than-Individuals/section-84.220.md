@@ -1,0 +1,11 @@
+##### § 84.220 By when must I publish my drug-free workplace statement and establish my drug-free awareness program? #####
+
+If you are a new recipient that does not already have a policy statement as described in § 84.205 and an ongoing awareness program as described in § 84.215, you must publish the statement and establish the program by the time given in the following table:
+
+|                                                                              If . . .                                                                               |                                                                          then you . . .                                                                          |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                    (a) The performance period of the award is less than 30 days                                                     |          must have the policy statement and program in place as soon as possible, but before the date on which performance is expected to be completed.          |
+|                                                     (b) The performance period of the award is 30 days or more                                                      |                                         must have the policy statement and program in place within 30 days after award.                                          |
+|(c) You believe there are extraordinary circumstances that will require more than 30 days for you to publish the policy statement and establish the awareness program|may ask the ED awarding official to give you more time to do so. The amount of additional time, if any, to be given is at the discretion of the awarding official.|
+
+(Authority: E.O.s 12549 and 12689; 20 U.S.C. 1082, 1094, 1221e-3 and 3474; and Sec. 2455, Pub. L. 103-355, 108 Stat. 3243 at 3327)

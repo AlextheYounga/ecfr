@@ -1,0 +1,5 @@
+##### § 684.250 Can an Indian and Native American grantee's grant award be terminated? #####
+
+(a) Yes, the Grant Officer can terminate a grantee's award for cause, or the Secretary or another Department of Labor official confirmed by the Senate can terminate a grantee's award in emergency circumstances where termination is necessary to protect the integrity of Federal funds or ensure the proper operation of the program under sec. 184(e) of WIOA.
+
+(b) The Grant Officer may terminate a grantee's award for cause only if there is a substantial or persistent violation of the requirements in WIOA or the WIOA regulations. The grantee must be provided with written notice 60 days before termination, stating the specific reasons why termination is proposed. The appeal procedures at § 683.800 of this chapter apply.

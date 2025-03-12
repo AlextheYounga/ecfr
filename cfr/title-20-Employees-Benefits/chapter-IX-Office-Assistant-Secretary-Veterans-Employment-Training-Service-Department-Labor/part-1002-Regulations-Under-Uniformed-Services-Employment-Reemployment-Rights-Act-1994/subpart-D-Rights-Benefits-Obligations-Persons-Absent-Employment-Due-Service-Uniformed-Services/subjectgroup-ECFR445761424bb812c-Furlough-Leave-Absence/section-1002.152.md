@@ -1,0 +1,3 @@
+##### § 1002.152 If employment is interrupted by a period of service in the uniformed services, are there any circumstances under which the employee is not entitled to the non-seniority rights and benefits ordinarily granted to similarly situated employees on furlough or leave of absence? #####
+
+If employment is interrupted by a period of service in the uniformed services and the employee knowingly provides written notice of intent not to return to the position of employment after service in the uniformed services, he or she is not entitled to those non-seniority rights and benefits. The employee's written notice does not waive entitlement to any other rights to which he or she is entitled under the Act, including the right to reemployment after service.

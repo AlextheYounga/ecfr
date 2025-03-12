@@ -1,0 +1,3 @@
+##### § 30.609 Is a settlement or judgment received as a result of allegations of medical malpractice in treating an illness covered by EEOICPA a recovery that must be reported to OWCP? #####
+
+Since an injury caused by medical malpractice in treating an occupational illness or covered illness compensable under EEOICPA is also covered under EEOICPA, any recovery in a suit alleging such an injury is treated as a recovery that must be reported to OWCP.

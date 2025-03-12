@@ -1,0 +1,7 @@
+##### § 418.3225 How long will your application remain in effect? #####
+
+(a) Your application will remain in effect until our determination or decision has become final and binding under § 418.3620. If you appeal our initial determination, the determination does not become final until we issue a decision on any appeal you have filed under § 418.3655 (see § 418.3675) or dismiss the request for a hearing under § 418.3670.
+
+(b) If, at the time your application is filed or before our determination or decision becomes final and binding, you meet all the requirements for a subsidy as described in 42 CFR 423.773 except for enrollment in a Medicare Part D plan or Medicare Advantage plan with prescription drug coverage, we will send you a notice advising you of your eligibility for the subsidy and the requirement to enroll in such a plan.
+
+(c) If you are not entitled to Medicare Part A and/or enrolled in Medicare Part B at the time your subsidy application is filed but you appear to be in an enrollment period, we will send you a notice advising you that we will not make a determination on your application until you become entitled to Medicare Part A and/or enrolled in Medicare Part B. If you are not entitled to Medicare Part A and/or enrolled in Medicare Part B at the time your application is filed and you do not appear to be in an enrollment period, we will send you a notice advising you that you are not eligible for the subsidy because you are not entitled to Medicare Part A and/or enrolled in Medicare Part B and explain your appeal rights.

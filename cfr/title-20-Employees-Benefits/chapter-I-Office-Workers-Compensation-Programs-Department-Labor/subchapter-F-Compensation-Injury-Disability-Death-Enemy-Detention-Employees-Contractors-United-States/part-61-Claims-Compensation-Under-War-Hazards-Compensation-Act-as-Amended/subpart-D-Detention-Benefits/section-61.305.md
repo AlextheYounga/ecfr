@@ -1,0 +1,3 @@
+##### § 61.305 Responsibilities of dependents receiving detention benefits. #####
+
+A dependent having knowledge of a change of status of a missing employee shall promptly inform the Office of the change. The Office must be advised immediately by the dependent if the employee is returned home or to the place of his or her employment, or is able to be returned to the jurisdiction of the United States.

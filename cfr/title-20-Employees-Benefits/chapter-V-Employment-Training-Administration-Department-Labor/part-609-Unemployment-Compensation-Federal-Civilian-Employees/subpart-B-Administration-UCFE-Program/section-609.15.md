@@ -1,0 +1,3 @@
+##### § 609.15 Public access to Agreements. #####
+
+The State agency of a State will make available to any individual or organization a true copy of the Agreement with the State for inspection and copying. Copies of an Agreement may be furnished on request to any individual or organization upon payment of the same charges, if any, as apply to the furnishing of copies of other records of the State agency.

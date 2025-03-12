@@ -1,0 +1,3 @@
+##### § 682.100 What are the statewide employment and training activities under title I of the Workforce Innovation and Opportunity Act? #####
+
+Statewide employment and training activities include those activities for adults and dislocated workers, as described in WIOA sec. 134(a), and statewide youth activities, as described in the Workforce Innovation and Opportunity Act (WIOA) sec. 129(b). They include both required and allowable activities. In accordance with the requirements of this subpart, the State may develop policies and strategies for use of statewide employment and training funds. Descriptions of these policies and strategies must be included in the State Plan.

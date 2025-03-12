@@ -1,0 +1,3 @@
+##### § 418.2330 Can you request a reconsideration when you believe that the IRS information we used is incorrect? #####
+
+If you request a reconsideration solely because you believe that the information that the IRS gave us is incorrect, we will dismiss your request for a reconsideration and notify you to obtain proof of a correction from the IRS and request a new initial determination (§ 418.2335). Our dismissal of your request for reconsideration is not an initial determination subject to further administrative or judicial review.

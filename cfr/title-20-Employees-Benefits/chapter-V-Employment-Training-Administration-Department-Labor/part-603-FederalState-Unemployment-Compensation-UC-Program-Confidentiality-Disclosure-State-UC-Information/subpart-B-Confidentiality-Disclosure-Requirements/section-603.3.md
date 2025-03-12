@@ -1,0 +1,3 @@
+##### § 603.3 What is the purpose and scope of this subpart? #####
+
+This subpart implements the basic confidentiality requirement derived from Section 303(a)(1), SSA, and the disclosure requirements of Sections 303(a)(7), (c)(1), (d), (e), (h), and (i), SSA, and Section 3304(a)(16), Federal Unemployment Tax Act (FUTA). This subpart also establishes uniform minimum requirements for the payment of costs, safeguards, and data-sharing agreements when UC information is disclosed, and for conformity and substantial compliance with this proposed rule. This subpart applies to States and State UC agencies, as defined in § 603.2(f) and (g), respectively.

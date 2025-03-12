@@ -1,0 +1,3 @@
+##### § 411.105 What is the purpose of the Ticket to Work program? #####
+
+The purpose of the Ticket to Work program is to expand the universe of service providers available to individuals who are entitled to Social Security benefits based on disability or eligible for Supplemental Security Income (SSI) benefits based on disability or blindness in obtaining the services necessary to find, enter and retain employment. Expanded employment opportunities for these individuals also will increase the likelihood that these individuals will reduce their dependency on Social Security and SSI cash benefits.

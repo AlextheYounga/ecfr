@@ -1,0 +1,13 @@
+##### § 209.15 Compensation reportable when paid. #####
+
+(a) *General.* In preparing a report required under this part, an employer may report compensation in the report required for the year in which the compensation was paid even though such compensation was earned by the employee in a previous year. If compensation is reported with respect to the year in which it was paid, it shall be credited by the Board to the employee in such year unless within the four year period provided in § 211.15 of this chapter the employee requests that such compensation be credited to the year in which it was earned. If the employee makes such a request, and the Board determines that the compensation should be credited to the year in which it was earned, the reporting employer must file an adjustment report as required by § 209.9 of this part which reports such compensation in the year in which it was earned. The employee may revoke his or her request anytime prior to the filing of the adjustment report. Upon the Board's receipt of the adjustment report, the request becomes irrevocable.
+
+(b) *Pay for time lost.* Compensation which is pay for time lost, as provided in § 211.3 of this chapter, shall be reported with respect to the period in which the time and compensation were lost. For example, if an employee is off work because of an on-the-job injury for a period of months in a given year and in a later year receives a payment from his or her employer to compensate for wages lost during the period of absence, the employer must, by way of adjustment provided for in § 209.9 of this part, report the compensation with respect to the year in which the time and compensation were lost.
+
+(c) *Separation allowance or severance pay.* A separation allowance or severance payment shall be reported in accordance with § 209.14 of this part.
+
+(d) *Miscellaneous pay.* Miscellaneous pay, as defined in § 211.11 of this chapter, shall be reported in the year paid and reported on the annual report of compensation as provided for in § 209.8 of this part.
+
+(e) *Vacation pay.* Vacation pay may be reported in accordance with this section except that any payments made in the year following the year in which the employee resigns or is discharged shall be reported by way of adjustment under § 209.9 of this part as paid in the year of resignation or discharge.
+
+[58 FR 45250, Aug. 27, 1993, as amended at 63 FR 32614, June 15, 1998]

@@ -1,0 +1,3 @@
+##### § 10.527 Does OWCP verify reports of earnings? #####
+
+To make proper determinations of an employee's entitlement to benefits, OWCP may verify the earnings reported by the employee through a variety of means, including but not limited to computer matches with the Office of Personnel Management and inquiries to the Social Security Administration. Also, OWCP may perform computer matches with records of State agencies, including but not limited to workers' compensation administrations, to determine whether private employers are paying workers' compensation insurance premiums for recipients of benefits under the FECA.

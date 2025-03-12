@@ -1,0 +1,25 @@
+##### § 220.135 Exertional and nonexertional limitations. #####
+
+(a) *General.* The claimant's impairment(s) and related symptoms, such as pain, may cause limitations of function or restrictions which limit the claimant's ability to meet certain demands of jobs. These limitations may be exertional, nonexertional, or a combination of both. Limitations are classified as exertional if they affect the claimant's ability to meet the strength demands of jobs. The classification of a limitation as exertional is related to the United States Department of Labor's classification of jobs by various exertional levels (sedentary, light, medium, heavy, and very heavy) in terms of the strength demands for sitting, standing, walking, lifting, carrying, pushing, and pulling. Sections 220.132 and 220.134 of this part explain how the Board uses the classification of jobs by exertional levels (strength demands) which is contained in the Dictionary of Occupational Titles published by the Department of Labor, to determine the exertional requirements of work which exists in the national economy. Limitations or restrictions which affect the claimant's ability to meet the demands of jobs other than the strength demands, that is, demands other than sitting, standing, walking, lifting, carrying, pushing or pulling, are considered nonexertional. Sections 220.100(b)(5) and 220.180(h) of this part explain that if the claimant can no longer do the claimant's past relevant work because of a severe medically determinable impairment(s), the Board must determine whether the claimant's impairment(s), when considered along with the claimant's age, education, and work experience, prevents the claimant from doing any other work which exists in the national economy in order to decide whether the claimant is disabled or continues to be disabled. Paragraphs (b), (c), and (d) of this section explain how the Board applies the medical-vocational guidelines in appendix 2 of this part in making this determination, depending on whether the limitations or restrictions imposed by the claimant's impairment(s) and related symptoms, such as pain, are exertional, nonexertional, or a combination of both.
+
+(b) *Exertional limitations.* When the limitations and restrictions imposed by the claimant's impairment(s) and related symptoms, such as pain, affect only the claimant's ability to meet the strength demands of jobs (sitting, standing, walking, lifting, carrying, pushing, and pulling), the Board considers that the claimant has only exertional limitations. When the claimant's impairment(s) and related symptoms only impose exertional limitations and the claimant's specific vocational profile is listed in a rule contained in appendix 2 of this part, the Board will directly apply that rule to decide whether the claimant is disabled.
+
+(c) *Nonexertional limitations.* (1) When the limitations and restrictions imposed by the claimant's impairment(s) and related symptoms, such as pain, affect only the claimant's ability to meet the demands of jobs other than the strength demands, the Board considers that the claimant has only nonexertional limitations or restrictions. Some examples of nonexertional limitations or restrictions include the following:
+
+(i) Difficulty functioning because the claimant is nervous, anxious, or depressed;
+
+(ii) Difficulty maintaining attention or concentration;
+
+(iii) Difficulty understanding or remembering detailed instructions;
+
+(iv) Difficulty in seeing or hearing;
+
+(v) Difficulty tolerating some physical feature(s) of certain work settings, *e.g.,* the claimant cannot tolerate dust or fumes; or
+
+(vi) Difficulty performing the manipulative or postural functions of some work such as reaching, handling, stooping, climbing, crawling, or crouching.
+
+(2) If the claimant's impairment(s) and related symptoms, such as pain, only affect the claimant's ability to perform the nonexertional aspects of work-related activities, the rules in appendix 2 do not direct factual conclusions of disabled or not disabled. The determination as to whether disability exists will be based on the principles in the appropriate sections of the regulations, giving consideration to the rules for specific case situations in appendix 2 of this part.
+
+(d) *Combined exertional and nonexertional limitations.* When the limitations and restrictions imposed by the claimant's impairment(s) and related symptoms, such as pain, affect the claimant's ability to meet both the strength and demands of jobs other than the strength demands, the Board considers that the claimant has a combination of exertional and nonexertional limitations or restrictions. If the claimant's impairment(s) and related symptoms, such as pain, affect the claimant's ability to meet both the strength and demands of jobs other than the strength demands, the Board will not directly apply the rules in appendix 2 unless there is a rule that directs a conclusion that the claimant is disabled based upon the claimant's strength limitations; otherwise the rules provide a framework to guide the Board's decision.
+
+[68 FR 60294, Oct. 22, 2003]

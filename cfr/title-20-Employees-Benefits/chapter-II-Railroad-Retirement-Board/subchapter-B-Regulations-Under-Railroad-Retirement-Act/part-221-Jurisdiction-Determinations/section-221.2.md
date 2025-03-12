@@ -1,0 +1,5 @@
+##### § 221.2 Railroad Retirement Board jurisdiction. #####
+
+(a) *Life cases.* The Board has jurisdiction to pay monthly benefits to each living employee who has completed at least ten years (120 months) of creditable service under the Railroad Retirement Act, and to his or her eligible spouse. Creditable service is described in part 220 of this chapter.
+
+(b) *Death cases.* The Board has jurisdiction to pay monthly benefits or lump-sum death benefits to eligible survivors of a deceased employee, when the deceased employee has at least ten years (120 months) of service that is creditable under the Railroad Retirement Act and a current connection as described in part 216 of this chapter. Lump-sum death benefits are described in part 234 of this chapter. The Board also has jurisdiction to pay any residual benefits that may become payable at the death of an employee. Residual benefits are described in part 234 of this chapter. The Board retains jurisdiction to pay any residual that may be payable even after jurisdiction has been transferred to the Social Security Administration as described in § 221.3.

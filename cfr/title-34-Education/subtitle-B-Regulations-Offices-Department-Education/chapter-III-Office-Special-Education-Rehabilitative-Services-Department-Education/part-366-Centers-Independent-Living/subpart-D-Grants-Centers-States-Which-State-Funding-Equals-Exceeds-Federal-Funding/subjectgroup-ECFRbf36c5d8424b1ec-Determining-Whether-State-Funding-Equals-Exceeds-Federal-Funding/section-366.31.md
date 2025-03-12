@@ -1,0 +1,5 @@
+##### § 366.31 What happens if the amount of earmarked funds does not equal or exceed the amount of Federal funds for a preceding fiscal year? #####
+
+If the State submits an application to administer the CIL program under section 723 of the Act and this subpart for a fiscal year, but did not earmark the amount of State funds required by § 366.29(a)(2) in the preceding fiscal year, the State shall be ineligible to make grants under section 723 of the Act and this subpart after the end of the fiscal year succeeding the preceding fiscal year and for each succeeding fiscal year.
+
+Example:A State meets the earmarking requirement in FY 1994. It also meets this requirement in FY 1995. However, in reviewing the State's application to administer the CIL program in FY 1998, the Secretary determines that the State failed to meet the earmarking requirement in FY 1996. The State may continue to award grants in FY 1997 but may not do so in FY 1998 and succeeding fiscal years.(Authority: 29 U.S.C. 796f-2(a)(1)(B))

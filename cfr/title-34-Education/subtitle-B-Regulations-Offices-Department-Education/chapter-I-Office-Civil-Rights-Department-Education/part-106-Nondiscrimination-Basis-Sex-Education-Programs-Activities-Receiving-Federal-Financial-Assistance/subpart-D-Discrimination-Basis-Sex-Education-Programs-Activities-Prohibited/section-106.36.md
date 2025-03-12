@@ -1,0 +1,9 @@
+##### § 106.36 Counseling and use of appraisal and counseling materials. #####
+
+(a) *Counseling.* A recipient shall not discriminate against any person on the basis of sex in the counseling or guidance of students or applicants for admission.
+
+(b) *Use of appraisal and counseling materials.* A recipient which uses testing or other materials for appraising or counseling students shall not use different materials for students on the basis of their sex or use materials which permit or require different treatment of students on such basis unless such different materials cover the same occupations and interest areas and the use of such different materials is shown to be essential to eliminate sex bias. Recipients shall develop and use internal procedures for ensuring that such materials do not discriminate on the basis of sex. Where the use of a counseling test or other instrument results in a substantially disproportionate number of members of one sex in any particular course of study or classification, the recipient shall take such action as is necessary to assure itself that such disproportion is not the result of discrimination in the instrument or its application.
+
+(c) *Disproportion in classes.* Where a recipient finds that a particular class contains a substantially disproportionate number of individuals of one sex, the recipient shall take such action as is necessary to assure itself that such disproportion is not the result of discrimination on the basis of sex in counseling or appraisal materials or by counselors.
+
+(Authority: Secs. 901, 902, Education Amendments of 1972, 86 Stat. 373, 374; 20 U.S.C. 1681, 1682)

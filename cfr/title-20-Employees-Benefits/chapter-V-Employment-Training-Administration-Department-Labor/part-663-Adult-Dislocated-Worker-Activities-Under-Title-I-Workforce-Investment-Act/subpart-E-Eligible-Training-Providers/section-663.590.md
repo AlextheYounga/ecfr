@@ -1,0 +1,3 @@
+##### § 663.590 May a community-based organization (CBO) be included on an eligible provider list? #####
+
+Yes, CBO's may apply and they and their programs may be determined eligible providers of training services, under WIA section 122 and this subpart. As eligible providers, CBO's provide training through ITA's and may also receive contracts for training special participant populations when the requirements of § 663.430 are met.

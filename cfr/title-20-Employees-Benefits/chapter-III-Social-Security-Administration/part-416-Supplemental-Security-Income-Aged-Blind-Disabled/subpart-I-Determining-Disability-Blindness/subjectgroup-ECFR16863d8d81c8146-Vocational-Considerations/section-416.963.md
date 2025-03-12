@@ -1,0 +1,15 @@
+##### § 416.963 Your age as a vocational factor. #####
+
+(a) *General.* “Age” means your chronological age. When we decide whether you are disabled under § 416.920(g)(1), we will consider your chronological age in combination with your residual functional capacity, education, and work experience. We will not consider your ability to adjust to other work on the basis of your age alone. In determining the extent to which age affects a person's ability to adjust to other work, we consider advancing age to be an increasingly limiting factor in the person's ability to make such an adjustment, as we explain in paragraphs (c) through (e) of this section. If you are unemployed but you still have the ability to adjust to other work, we will find that you are not disabled. In paragraphs (b) through (e) of this section and in appendix 2 of subpart P of part 404 of this chapter, we explain in more detail how we consider your age as a vocational factor.
+
+(b) *How we apply the age categories.* When we make a finding about your ability to do other work under § 416.920(f)(1), we will use the age categories in paragraphs (c) through (e) of this section. We will use each of the age categories that applies to you during the period for which we must determine if you are disabled. We will not apply the age categories mechanically in a borderline situation. If you are within a few days to a few months of reaching an older age category, and using the older age category would result in a determination or decision that you are disabled, we will consider whether to use the older age category after evaluating the overall impact of all the factors of your case.
+
+(c) *Younger person.* If you are a younger person (under age 50), we generally do not consider that your age will seriously affect your ability to adjust to other work. However, in some circumstances, we consider that persons age 45-49 are more limited in their ability to adjust to other work than persons who have not attained age 45. See Rule 201.17 in appendix 2 of subpart P of part 404 of this chapter.
+
+(d) *Person closely approaching advanced age.* If you are closely approaching advanced age (age 50-54), we will consider that your age along with a severe impairment(s) and limited work experience may seriously affect your ability to adjust to other work.
+
+(e) *Person of advanced age.* We consider that at advanced age (age 55 or older), age significantly affects a person's ability to adjust to other work. We have special rules for persons of advanced age and for persons in this category who are closely approaching retirement age (age 60 or older). See § 416.968(d)(4).
+
+(f) *Information about your age.* We will usually not ask you to prove your age. However, if we need to know your exact age to determine whether you get disability benefits, we will ask you for evidence of your age.
+
+[45 FR 55621, Aug. 20, 1980, as amended at 65 FR 18001, Apr. 6, 2000; 68 FR 51166, Aug. 26, 2003; 73 FR 64197, Oct. 29, 2008]

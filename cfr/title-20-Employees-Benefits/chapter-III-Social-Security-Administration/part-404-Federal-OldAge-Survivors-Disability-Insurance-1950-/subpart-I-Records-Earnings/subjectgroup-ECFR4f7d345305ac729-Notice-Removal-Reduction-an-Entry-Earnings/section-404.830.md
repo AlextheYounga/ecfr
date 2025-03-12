@@ -1,0 +1,3 @@
+##### § 404.830 Notice of removal or reduction of your wages. #####
+
+If we remove or reduce an amount of wages entered on the record of your earnings, we will notify you of this correction if we previously notified you of the amount of your wages for the period involved. We will notify your survivor if we previously notified you or your survivor of the amount of your earnings for the period involved.

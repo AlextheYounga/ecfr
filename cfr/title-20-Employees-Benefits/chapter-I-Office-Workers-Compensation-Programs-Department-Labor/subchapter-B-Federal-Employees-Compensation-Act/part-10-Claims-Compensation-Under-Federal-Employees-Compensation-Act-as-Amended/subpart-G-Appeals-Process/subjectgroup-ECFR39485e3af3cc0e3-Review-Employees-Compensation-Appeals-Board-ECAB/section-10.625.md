@@ -1,0 +1,3 @@
+##### § 10.625 What kinds of decisions may be appealed? #####
+
+Only final decisions of OWCP may be appealed to the ECAB. However, certain types of final decisions, described in this part as not subject to further review, cannot be appealed to the ECAB. Decisions that are not appealable to the ECAB include: Decisions concerning the amounts payable for medical services, decisions concerning exclusion and reinstatement of medical providers, decisions by the Director to review an award on his or her own motion, and denials of subpoenas independent of the appeal of the underlying decision. In appeals before the ECAB, attorneys from the Office of the Solicitor of Labor shall represent OWCP.

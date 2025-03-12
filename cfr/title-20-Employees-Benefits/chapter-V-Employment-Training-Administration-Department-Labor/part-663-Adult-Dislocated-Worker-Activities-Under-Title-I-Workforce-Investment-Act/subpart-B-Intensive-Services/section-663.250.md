@@ -1,0 +1,3 @@
+##### § 663.250 How long must an individual participant be in intensive services to be eligible for training services? #####
+
+There is no Federally-required minimum time period for participation in intensive services before receiving training services. The period of time an individual spends in intensive services should be sufficient to prepare the individual for training or employment. (WIA sec. 134(d)(4)(A)(i).)

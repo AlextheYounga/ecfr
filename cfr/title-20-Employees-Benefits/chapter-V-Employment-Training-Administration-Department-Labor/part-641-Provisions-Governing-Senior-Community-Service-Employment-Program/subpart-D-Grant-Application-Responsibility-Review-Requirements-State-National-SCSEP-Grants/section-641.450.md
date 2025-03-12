@@ -1,0 +1,3 @@
+##### § 641.450 How will the Department examine the responsibility of eligible entities? #####
+
+The Department will review available records to assess each applicant's overall fiscal and administrative ability to manage Federal funds. The Department's responsibility review may consider all relevant information, including the organization's history of managing other grants awarded by the Department or by other Federal agencies. (OAA § 514(d)(1) and (d)(2)).

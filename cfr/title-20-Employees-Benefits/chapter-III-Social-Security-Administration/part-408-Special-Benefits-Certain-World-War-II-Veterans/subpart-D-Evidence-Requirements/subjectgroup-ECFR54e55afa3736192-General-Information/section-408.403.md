@@ -1,0 +1,3 @@
+##### § 408.403 Where should you give us your evidence? #####
+
+You should give your evidence to the people at a Social Security Administration office. In the Philippines, you should give your evidence to the people at the Veterans Affairs Regional Office. Elsewhere outside the United States, you should give your evidence to the people at the nearest U.S. Social Security office or a United States Foreign Service Office.

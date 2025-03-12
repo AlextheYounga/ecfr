@@ -1,0 +1,3 @@
+##### § 668.280 Are there any other ways in which an entity may be designated as an INA grantee? #####
+
+Yes, for an area which would otherwise go unserved. The Grant Officer may designate an entity, which has not submitted an NOI, but which meets the qualifications for designation, to serve the particular geographic area. Under such circumstances, DINAP will seek the views of Native American leaders in the area involved about the decision to designate the entity to serve that community. DINAP will inform the Grant Officer of their views. The Grant Officer will accommodate their views to the extent possible.

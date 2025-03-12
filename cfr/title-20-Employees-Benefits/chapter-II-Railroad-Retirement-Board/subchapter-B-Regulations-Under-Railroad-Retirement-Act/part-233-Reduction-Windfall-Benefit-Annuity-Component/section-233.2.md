@@ -1,0 +1,3 @@
+##### § 233.2 Computation of reduction. #####
+
+The amount of the reduction to be made in the windfall benefit components of annuities shall be determined in the following manner: the balance in the Dual Benefits Payments Account as determined under § 233.1 shall be divided by the amount of the estimated windfall benefits that would be payable for the fiscal year as determined under § 233.1 to obtain a percentage. This percentage of the unreduced windfall benefit component shall be the amount of that component to which persons are entitled under the Railroad Retirement Act. In no event, however, shall the amount of the windfall benefit exceed the amount that would be payable under the Railroad Retirement Act without regard to this section.

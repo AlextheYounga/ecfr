@@ -1,0 +1,3 @@
+##### § 404.1010 Farm crew leader as employer. #####
+
+A farm crew leader furnishes workers to do agricultural labor for another person, usually a farm operator. If the crew leader pays the workers (the money can be the crew leader's or the farm operator's), the crew leader is deemed to be the employer of the workers and is self-employed. However, the crew leader is not deemed the employer of the workers if there is a written agreement between the crew leader and the farm operator naming the crew leader as an employee. If the crew leader does not have this agreement and does not pay the workers, we use the common-law rules to determine the crew leader's status.

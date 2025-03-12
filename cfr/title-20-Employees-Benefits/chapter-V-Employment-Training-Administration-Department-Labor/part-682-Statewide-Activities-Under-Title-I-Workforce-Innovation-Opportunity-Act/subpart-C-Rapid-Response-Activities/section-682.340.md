@@ -1,0 +1,5 @@
+##### § 682.340 May other activities be undertaken as part of rapid response? #####
+
+(a) Yes, in order to conduct layoff aversion activities, or to prepare for and respond to dislocation events, in addition to the activities required under § 682.330, a State or designated entity may devise rapid response strategies or conduct activities that are intended to minimize the negative impacts of dislocation on workers, businesses, and communities and ensure rapid reemployment for workers affected by layoffs.
+
+(b) When circumstances allow, rapid response may provide guidance and/or financial assistance to establish community transition teams to assist the impacted community in organizing support for dislocated workers and in meeting the basic needs of their families, including heat, shelter, food, clothing and other necessities and services that are beyond the resources and ability of the one-stop delivery system to provide.

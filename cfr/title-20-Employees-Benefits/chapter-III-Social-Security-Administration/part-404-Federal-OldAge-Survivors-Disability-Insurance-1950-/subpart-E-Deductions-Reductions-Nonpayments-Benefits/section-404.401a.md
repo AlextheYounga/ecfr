@@ -1,0 +1,5 @@
+##### § 404.401a When we do not pay benefits because of a disability beneficiary's work activity. #####
+
+If you are receiving benefits because you are disabled or blind as defined in title II of the Social Security Act, we will stop your monthly benefits even though you have a disabling impairment (§ 404.1511), if you engage in substantial gainful activity during the reentitlement period (§ 404.1592a) following completion of the trial work period (§ 404.1592). You will, however, be paid benefits for the first month after the trial work period in which you do substantial gainful activity and the two succeeding months, whether or not you do substantial gainful activity in those two months. If anyone else is receiving monthly benefits based on your earnings record, that individual will not be paid benefits for any month for which you cannot be paid benefits during the reentitlement period. Except as provided in § 404.471, earnings from work activity during a trial work period will not stop your benefits.
+
+[49 FR 22271, May 29, 1984, as amended at 58 FR 64883, Dec. 10, 1993; 71 FR 66865, Nov. 17, 2006]

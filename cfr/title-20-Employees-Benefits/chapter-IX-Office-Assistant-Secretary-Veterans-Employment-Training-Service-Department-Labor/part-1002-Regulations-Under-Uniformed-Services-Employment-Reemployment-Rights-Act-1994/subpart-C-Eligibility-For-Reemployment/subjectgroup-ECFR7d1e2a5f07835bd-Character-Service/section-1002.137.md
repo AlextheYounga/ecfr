@@ -1,0 +1,3 @@
+##### § 1002.137 If the employee receives a disqualifying discharge or release from uniformed service and it is later upgraded, will reemployment rights be restored? #####
+
+Yes. A military review board has the authority to prospectively or retroactively upgrade a disqualifying discharge or release. A retroactive upgrade would restore reemployment rights providing the employee otherwise meets the Act's eligibility criteria.

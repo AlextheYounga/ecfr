@@ -1,0 +1,5 @@
+##### § 220.103 Two or more unrelated impairments—initial claims. #####
+
+(a) *Unrelated severe impairments.* Two or more unrelated severe impairments cannot be combined to meet the 12-month duration test. If the claimant has a severe impairment(s) and then develops another unrelated severe impairment(s) but neither one is expected to last for 12 months, he or she cannot be found disabled even though the 2 impairments in combination last for 12 months.
+
+(b) *Concurrent impairments.* If the claimant has 2 or more concurrent impairments which, when considered in combination, are severe, the board must also determine whether the combined effect of the impairments can be expected to continue to be severe for 12 months. If 1 or more of the claimant's impairments improves or is expected to improve within 12 months, so that the combined effect of the claimant's impairments is no longer severe, he or she will be found to not meet the 12-month duration test.

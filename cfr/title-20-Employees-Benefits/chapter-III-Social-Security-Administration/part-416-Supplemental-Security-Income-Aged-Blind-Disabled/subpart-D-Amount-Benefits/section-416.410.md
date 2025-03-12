@@ -1,0 +1,5 @@
+##### § 416.410 Amount of benefits; eligible individual. #####
+
+The benefit under this part for an eligible individual (including the eligible individual receiving benefits payable under the § 416.212 provisions) who does not have an eligible spouse, who is not subject to either benefit suspension under § 416.1325 or benefit reduction under § 416.414, and who is not a qualified individual (as defined in § 416.221) shall be payable at the rate of $5,640 per year ($470 per month) effective for the period beginning January 1, 1996. This rate is the result of a 2.6 percent cost-of-living adjustment (see § 416.405) to the December 1995 rate. For the period January 1, through December 31, 1995, the rate payable, as increased by the 2.8 percent cost-of-living adjustment, was $5,496 per year ($458 per month). For the period January 1, through December 31, 1994, the rate payable, as increased by the 2.6 percent cost-of-living adjustment, was $5,352 per year ($446 per month). The monthly rate is reduced by the amount of the individual's income which is not excluded pursuant to subpart K of this part.
+
+[61 FR 10278, Mar. 13, 1996]

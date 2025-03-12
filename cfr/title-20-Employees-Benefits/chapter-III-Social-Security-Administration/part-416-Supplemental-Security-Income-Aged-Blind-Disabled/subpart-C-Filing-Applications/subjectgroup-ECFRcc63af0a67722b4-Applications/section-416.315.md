@@ -1,0 +1,11 @@
+##### § 416.315 Who may sign an application. #####
+
+We will determine who may sign an application according to the following rules:
+
+(a) If you are 18 years old or over, mentally competent, and physically able, you must sign your own application. If you are 16 years old or older and under age 18, you may sign the application if you are mentally competent, have no court appointed representative, and are not in the care of any other person or institution.
+
+(b) If the claimant is under age 18, or is mentally incompetent, or is physically unable to sign the application, a court appointed representative or a person who is responsible for the care of the claimant, including a relative, may sign the application. If the claimant is in the care of an institution, the manager or principal officer of the institution may sign the application.
+
+(c) To prevent a claimant from losing benefits because of a delay in filing an application when there is a good reason why the claimant cannot sign an application, we may accept an application signed by someone other than a person described in this section.
+
+Example:Mr. Smith comes to a Social Security office to file an application for SSI disability benefits for Mr. Jones. Mr. Jones, who lives alone, just suffered a heart attack and is in the hospital. He asked Mr. Smith, whose only relationship is that of a neighbor and friend, to file the application for him. We will accept an application signed by Mr. Smith since it would not be possible to have Mr. Jones sign and file the application at this time. SSI benefits can be paid starting with the first day of the month following the month the individual first meets all eligibility requirements for such benefits, including having filed an application. If Mr. Smith could not sign an application for Mr. Jones, a loss of benefits would result if it is later determined that Mr. Jones is in fact disabled.[45 FR 48120, July 18, 1980, as amended at 51 FR 13492, Apr. 21, 1986; 64 FR 31972, June 15, 1999]

@@ -1,0 +1,5 @@
+##### § 726.320 Collection and recovery of penalty. #####
+
+(a) When the determination of the amount of any civil money penalty provided for in this part becomes final, in accordance with the administrative assessment thereof, or pursuant to the decision and order of an Administrative Law Judge, or following the decision of the Secretary, the amount of the penalty as thus determined is immediately due and payable to the U.S. Department of Labor on behalf of the Black Lung Disability Trust Fund. The person against whom such penalty has been assessed or imposed shall promptly remit the amount thereof, as finally determined, to the Secretary by certified check or by money order, made payable to the order of U.S. Department of Labor, Black Lung Program. Such remittance shall be delivered or mailed to the Director.
+
+(b) If such remittance is not received within 30 days after it becomes due and payable, it may be recovered in a civil action brought by the Secretary in any court of competent jurisdiction, in which litigation the Secretary shall be represented by the Solicitor of Labor.

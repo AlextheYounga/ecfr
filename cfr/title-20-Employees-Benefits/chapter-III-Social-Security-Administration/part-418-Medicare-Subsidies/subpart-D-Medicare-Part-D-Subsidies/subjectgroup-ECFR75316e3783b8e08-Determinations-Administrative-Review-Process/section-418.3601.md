@@ -1,0 +1,3 @@
+##### § 418.3601 When do you have the right to administrative review? #####
+
+You have the right to an administrative review of the initial determination we make about your eligibility and about your continuing eligibility for a subsidy and any other matter that gives you the right to further review as discussed in § 418.3605. If you are married and living with your spouse and your spouse's eligibility for a subsidy may be adversely affected by our decision upon review, we will notify your spouse before our review and give him or her the opportunity to present additional information for us to consider.

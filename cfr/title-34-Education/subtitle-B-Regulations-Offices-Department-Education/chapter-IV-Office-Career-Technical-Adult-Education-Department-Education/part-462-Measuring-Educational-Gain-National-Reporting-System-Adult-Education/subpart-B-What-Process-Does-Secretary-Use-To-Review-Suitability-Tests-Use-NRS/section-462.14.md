@@ -1,0 +1,7 @@
+##### § 462.14 How often and under what circumstances must a test be reviewed by the Secretary? #####
+
+(a) The Secretary's determination that a test is suitable for use in the NRS is in effect for a period of seven years from the date of the Secretary's written notification to the test publisher, unless otherwise indicated by the Secretary. After that time, if the test publisher wants the test to be used in the NRS, the test must be reviewed again by the Secretary so that the Secretary can determine whether the test continues to be suitable for use in the NRS.
+
+(b) If a test that the Secretary has determined is suitable for use in the NRS is substantially revised—for example, by changing its mode of administration, administration procedures, structure, number of items, content specifications, item types, forms, sub-tests, or number of hours between pre- and post-testing—and the test publisher wants the test to continue to be used in the NRS, the test publisher must submit, as provided in § 462.11(j)(4), the substantially revised test or version of the test to the Secretary for review so that the Secretary can determine whether the test continues to be suitable for use in the NRS.
+
+(Authority: 29 U.S.C. 3292)[73 FR 2315, Jan. 14, 2008, as amended at 81 FR 55552, Aug. 19, 2016]

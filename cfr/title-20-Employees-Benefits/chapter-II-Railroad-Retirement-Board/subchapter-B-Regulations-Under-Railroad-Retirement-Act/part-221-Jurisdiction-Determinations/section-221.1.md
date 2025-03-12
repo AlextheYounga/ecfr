@@ -1,0 +1,3 @@
+##### § 221.1 Introduction. #####
+
+This part explains the factors involved in deciding whether the Social Security Administration or the Railroad Retirement Board will pay benefits to a railroad employee, and his or her eligible family members, both before and after the employee's death. The agency that has jurisdiction over the payment of benefits also has jurisdiction of the applicant's medicare coverage (see part 270 of this chapter). The Board is responsible for making this decision.

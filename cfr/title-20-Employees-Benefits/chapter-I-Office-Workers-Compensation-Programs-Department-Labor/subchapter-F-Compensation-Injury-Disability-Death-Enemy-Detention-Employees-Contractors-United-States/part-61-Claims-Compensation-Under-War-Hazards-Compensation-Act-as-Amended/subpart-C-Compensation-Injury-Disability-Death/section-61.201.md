@@ -1,0 +1,3 @@
+##### § 61.201 Filing of notice and claim. #####
+
+An employee or his or her survivors may file a claim under section 101(a) of the Act only after a determination has been made that no benefits are payable under the Defense Base Act administered by the Office's Division of Longshore and Harbor Workers' Compensation, Notice and claim may be filed on standard Longshore or Federal Employees' Compensation Act forms. The claimant shall submit notice and claim, along with any supporting documentation, to the U.S. Department of Labor, Office of Workers' Compensation Programs, Branch of Special Claims, P.O. Box 37117, Washington, DC 20013-7117.

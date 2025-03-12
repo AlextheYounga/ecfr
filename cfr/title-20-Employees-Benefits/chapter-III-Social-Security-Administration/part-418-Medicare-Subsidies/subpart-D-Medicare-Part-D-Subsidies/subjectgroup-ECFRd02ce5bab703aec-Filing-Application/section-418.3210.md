@@ -1,0 +1,3 @@
+##### § 418.3210 What is a prescribed application for a subsidy? #####
+
+If you choose to apply with SSA, you must file for the subsidy on an application prescribed by us. A prescribed application may include a printed form, an application our employees complete on computer screens, or an application available online on our Internet Web site (*www.socialsecurity.gov*). See § 418.3220 for places where an application for the subsidy may be filed and when it is considered filed.

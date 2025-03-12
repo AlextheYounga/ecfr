@@ -1,0 +1,7 @@
+##### § 404.467 Nonpayment of benefits; individual entitled to disability insurance benefits or childhood disability benefits based on statutory blindness is engaging in substantial gainful activity. #####
+
+(a) *Disability insurance benefits.* An individual who has attained age 55 and who meets the definition of disability for disability insurance benefits purposes based on *statutory blindness,* as defined in § 404.1581, may be entitled to disability insurance benefits for months in which he is engaged in certain types of substantial gainful activity. No payment, however, may be made to the individual or to beneficiaries entitled to benefits on his earnings record for any month in which such individual engages in any type of substantial gainful activity.
+
+(b) *Childhood disability benefits.* An individual who has attained age 55 and who meets the definition of disability prescribed in § 404.1583 for childhood disability benefits on the basis of statutory blindness may be entitled to childhood disability benefits for months in which he engages in certain types of substantial gainful activity. However, no payment may be made to such individual for any month after December 1972 in which such individual engages in substantial gainful activity.
+
+[39 FR 43715, Dec. 18, 1974, as amended at 51 FR 10616, Mar. 28, 1986]

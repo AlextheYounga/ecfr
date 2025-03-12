@@ -1,0 +1,21 @@
+##### § 617.59 Agreements with State agencies. #####
+
+(a) *Authority.* Before performing any function or exercising any jurisdiction under the Act and this part 617, a State or State agency (as defined in § 617.3(ii)) shall execute an Agreement with the Secretary meeting the requirements of the Act.
+
+(b) *Execution.* An Agreement under paragraph (a) of this section shall be signed on behalf of a State or State agency by an authorized official of the State or such State agency, and the signature shall be dated. The authority of the State or State agency official shall be certified by the Attorney General of the State or counsel for the State agency, unless the Agreement is signed by the Governor of the State. An agreement will be executed on behalf of the United States by the Secretary.
+
+(c) *Public access to Agreements.* The State agency will make available to any individual or organization an accurate copy of the Agreement with the Agency for inspection and copying. Copies of an Agreement may be furnished on request to any individual or organization upon payment of the same charges, if any, as apply to the furnishing of copies of other records of the State agency.
+
+(d) *Amended Agreement.* A State or State agency shall execute an amended Agreement with the Secretary prior to administering any amendments to the TAA provisions of the Trade Act of 1974.
+
+(e) *Agent of United States.* In making determinations, redeterminations, and in connection with proceedings for review thereof, a State or State agency which has executed an Agreement as provided in this section shall be an agent of the United States and shall carry out fully the purposes of the Act and this part 617.
+
+(f) *Breach.* If the Secretary finds that a State or State agency has not fulfilled its commitments under its Agreement under this section, section 3302(c)(3) of the Internal Revenue Code of 1986 shall apply. A State or State agency shall receive reasonable notice and opportunity for hearing before a finding is made under section 3302(c)(3) whether there has been a failure to fulfill the commitments under the Agreement.
+
+(g) *Secretary's review of State agency compliance.* The appropriate Regional Administrator shall be initially responsible for the periodic monitoring and reviewing of State and State agency compliance with the Agreement entered into under this section.
+
+(h) *Program coordination.* State agencies providing employment services, training and supplemental assistance under Subpart C of this part shall, in accordance with their Agreements under this section, coordinate such services and payments with programs and services provided by the Workforce Investment Act and with the State agency administering the State law.
+
+(i) *Administration absent State Agreement.* In any State in which no Agreement under this section is in force, the Secretary shall administer the Act and this part 617 and pay TAA hereunder through appropriate arrangements made by the Department, and for this purpose the Secretary or the Department shall be substituted for the State or cooperating State agency wherever appropriate in this part 617. Such arrangements shall include the requirement that TAA be administered in accordance with this part 617, and the provisions of the applicable State law except to the extent that such State law is inconsistent with any provision of this part 617 or section 303 of the Social Security Act (42 U.S.C. 503) or section 3304(a) of the Internal Revenue Code of 1986 (26 U.S.C. 3304(a)), and shall also include provision for a fair hearing for any individual whose application for TAA is denied. A final determination under paragraph (i) of this section as to entitlement to TAA shall be subject to review by the courts in the same manner and to the same extent as is provided by section 205(g) of the Social Security Act (42 U.S.C. 405(g)).
+
+[51 FR 45848, Dec. 22, 1986, as amended at 53 FR 32351, Aug. 24, 1988; 59 FR 941, Jan. 6, 1994; 71 FR 35516, June 21, 2006]

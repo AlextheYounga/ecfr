@@ -1,0 +1,3 @@
+##### § 61.204 Furnishing of medical treatment. #####
+
+All medical services, appliances, drugs and supplies which in the opinion of the Office are necessary for the treatment of an injury coming within the purview of section 101(a) of the Act shall be furnished to the same extent, and wherever practicable in the same manner and under the same regulations, as are prescribed for the furnishing of medical treatment under the Federal Employees' Compensation Act, as amended (5 U.S.C. 8101 *et seq.*).

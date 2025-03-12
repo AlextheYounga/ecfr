@@ -1,0 +1,5 @@
+##### § 668.650 Can INA grantees exclude segments of the eligible population? #####
+
+(a) No, INA grantees cannot exclude segments of the eligible population. INA grantees must document in their Two Year Plan that a system is in place to afford all members of the eligible population within the service area for which the grantee was designated an equitable opportunity to receive WIA services and activities.
+
+(b) Nothing in this section restricts the ability of INA grantees to target subgroups of the eligible population (for example, the disabled, substance abusers, TANF recipients, or similar categories), as outlined in an approved Two Year Plan. However, it is unlawful to target services to subgroups on grounds prohibited by WIA section 188 and 29 CFR part 37, including tribal affilitation (which is considered national origin). Outreach efforts, on the other hand, may be targeted to any subgroups.

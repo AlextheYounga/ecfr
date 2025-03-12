@@ -1,0 +1,3 @@
+##### § 30.420 How should medical bills and reimbursement requests be submitted? #####
+
+Usually, medical providers submit their bills directly for processing. The rules for submitting and processing provider bills and reimbursement requests are stated in subpart H of this part. An employee requesting reimbursement for out-of-pocket medical expenses must submit a Form OWCP-915 and meet the requirements described in § 30.702.

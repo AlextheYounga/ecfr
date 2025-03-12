@@ -1,0 +1,3 @@
+##### § 402.85 Exemption three for withholding records: Records exempted by other statutes. #####
+
+We are not required to release records if another statute specifically allows or requires us to withhold them. We may use another statute to justify withholding only if it absolutely prohibits disclosure or if it sets forth criteria to guide our decision on releasing or identifies particular types of material to be withheld. We often use this exemption to withhold information regarding a worker's earnings which is tax return information under section 6103 of the Internal Revenue Code.

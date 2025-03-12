@@ -1,0 +1,3 @@
+##### § 10.737 How is a LEO claim filed, and who can file a LEO claim? #####
+
+A claim for injury or occupational disease should be filed on Form CA-721; a death claim should be filed on Form CA-722. All claims should be submitted to the officer's employer for completion and forwarding to OWCP. A claim may be filed by the officer, the officer's survivor, or any person or association authorized to act on behalf of an officer or an officer's survivors.

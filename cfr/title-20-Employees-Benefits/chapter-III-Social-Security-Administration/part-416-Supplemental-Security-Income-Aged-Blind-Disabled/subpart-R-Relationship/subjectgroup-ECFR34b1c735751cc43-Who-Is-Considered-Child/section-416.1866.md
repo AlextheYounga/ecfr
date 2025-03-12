@@ -1,0 +1,5 @@
+##### § 416.1866 Deciding whether you are a child: Are you the head of a household? #####
+
+(a) *Meaning of head of household.* You are the head of a household if you have left your parental home on a permanent basis and you are responsible for the day-to-day decisions on the operation of your own household. If you live with your parent(s) or stepparents, we will ordinarily assume you are not the head of a household. However, we will consider you to be the head of a household if for some reason (such as your parent's illness) you are the one who makes the day-to-day decisions. You need not have someone living with you to be the head of a household.
+
+(b) *If you share decision-making equally.* If you live with one or more people and everyone has an equal voice in the decision-making (for example, a group of students who share off-campus housing), that group is not a household. Each person who has left the parental home on a permanent basis is the head of his or her own household.

@@ -1,0 +1,3 @@
+##### § 226.70 General. #####
+
+For any month an employee disability annuitant is entitled to workers' compensation or a public disability benefit, the tier I benefit of the spouse or divorced spouse is reduced due to receipt of such benefits. (If both spouse and divorced spouse annuities are payable, the reduction amount is divided and applied in equal amounts to both the spouse and divorced spouse tier I benefits.) The employee tier I is reduced by the difference between the total reduction amount, described in § 226.71 of this part, and the reduction in the spouse and divorced spouse tier I benefits.

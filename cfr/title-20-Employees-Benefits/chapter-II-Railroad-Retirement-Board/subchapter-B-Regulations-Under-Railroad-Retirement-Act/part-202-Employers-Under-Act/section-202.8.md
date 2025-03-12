@@ -1,0 +1,3 @@
+##### § 202.8 Controlled company or person principally engaged in service or operation in connection with railroad transportation. #####
+
+Any company or person owned or controlled by one or more carriers or under common control therewith, whose principal business is the operation of equipment or facilities or the performance of service (other than trucking service) in connection with the transportation of passengers or property by railroad, shall be an employer.

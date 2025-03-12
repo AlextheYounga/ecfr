@@ -1,0 +1,3 @@
+##### § 228.11 Computation of the tier I annuity component of a widow(er) with a child in care, remarried widow(er) with a child in care, or a surviving divorced spouse with a child in care. #####
+
+The tier I annuity component of a widow(er), remarried widow(er), or a surviving divorced spouse with a child of the employee in his or her care is 75 percent of the PIA computed under § 228.10 of this part. The amount may be adjusted for certain reductions and deductions described in §§ 228.15-228.20 of this part and is subject to the family maximum. See § 228.14 of this part.

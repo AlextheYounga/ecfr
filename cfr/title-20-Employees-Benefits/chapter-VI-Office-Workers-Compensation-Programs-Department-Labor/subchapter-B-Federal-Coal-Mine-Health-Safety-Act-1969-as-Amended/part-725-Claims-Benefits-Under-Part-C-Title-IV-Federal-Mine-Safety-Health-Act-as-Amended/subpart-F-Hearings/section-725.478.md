@@ -1,0 +1,3 @@
+##### § 725.478 Filing and service of decision and order. #####
+
+On the date of issuance of a decision and order under § 725.477, the administrative law judge shall serve the decision and order on all parties to the claim by certified mail. On the same date, the original record of the claim shall be sent to the DCMWC in Washington, D.C. Upon receipt by the DCMWC, the decision and order shall be considered to be filed in the office of the district director, and shall become effective on that date.

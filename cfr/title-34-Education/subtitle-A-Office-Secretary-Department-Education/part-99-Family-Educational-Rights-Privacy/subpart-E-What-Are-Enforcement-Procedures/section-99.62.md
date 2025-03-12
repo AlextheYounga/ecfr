@@ -1,0 +1,5 @@
+##### § 99.62 What information must an educational agency or institution or other recipient of Department funds submit to the Office? #####
+
+The Office may require an educational agency or institution, other recipient of Department funds under any program administered by the Secretary to which personally identifiable information from education records is non-consensually disclosed, or any third party outside of an educational agency or institution to which personally identifiable information from education records is non-consensually disclosed to submit reports, information on policies and procedures, annual notifications, training materials, or other information necessary to carry out the Office's enforcement responsibilities under the Act or this part.
+
+(Authority: 20 U.S.C. 1232g(b)(4)(B), (f), and (g))[76 FR 75643, Dec. 2, 2011]

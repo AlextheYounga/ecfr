@@ -1,0 +1,3 @@
+##### § 669.100 What is the purpose of the National Farmworker Jobs Program (NFJP) and the other services and activities established under WIA section 167? #####
+
+The purpose of the NFJP, and the other services and activities established under WIA section 167, is to strengthen the ability of eligible migrant and seasonal farmworkers and their families to achieve economic self-sufficiency. This part provides the regulatory requirements applicable to the expenditure of WIA section 167 funds for such programs, services and activities.

@@ -1,0 +1,7 @@
+##### § 640.3 Interpretation of Federal law requirements. #####
+
+(a) *Section 303(a)(1).* The Secretary interprets section 303(a)(1) of the Social Security Act to require that a State law include provision for such methods of administration as will reasonable insure the full payment of unemployment benefits to eligible claimants with the greatest promptness that is administratively feasible.
+
+(b) *Section 303(b)(2).* (1) The Secretary interprets section 303(b)(2) of the Social Security Act to require that, in the administration of a State law, there shall be substantial compliance with the provision required by section 303(a)(1).
+
+(2) The greatest promptness that is administratively feasible will depend upon the circumstances in each State that impacts upon its performance in paying benefits. Factors reasonably beyond a State's control may cause its performance to drop below the level of adequacy expressed in the table below as criteria for substantial compliance applicable to all States. Where it is demonstrated that failure to meet the criteria of adequacy is attributable to factors reasonably beyond the State's control and, in light of those factors, the State has performed at the highest level administratively feasible, it will be considered that the State is in substantial compliance with the Standard for conformity. Whether or not the State is in substantial compliance, the remedial provisions of §§ 640.7 and 640.8 will be applicable when the pertinent criteria are not met.

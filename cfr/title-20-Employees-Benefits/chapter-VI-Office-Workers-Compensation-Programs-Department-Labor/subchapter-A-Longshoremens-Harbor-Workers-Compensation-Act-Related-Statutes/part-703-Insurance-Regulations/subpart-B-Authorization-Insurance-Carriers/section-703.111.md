@@ -1,0 +1,3 @@
+##### § 703.111 Submission of new forms of policies for approval; other endorsements. #####
+
+No new forms of policies or modification of existing forms of policies shall be used by an insurer authorized by the Office under the regulations in this part to write insurance under said Act except after submission to and approval by the Office. No endorsement altering any provisions of a policy approved by the Office shall be used except after submission to and approval by the Office.

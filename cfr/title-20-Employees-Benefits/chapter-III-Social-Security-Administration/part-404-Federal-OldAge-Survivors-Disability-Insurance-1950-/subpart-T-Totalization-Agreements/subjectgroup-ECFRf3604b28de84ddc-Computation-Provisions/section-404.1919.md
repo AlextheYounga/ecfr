@@ -1,0 +1,5 @@
+##### § 404.1919 How benefits are recomputed. #####
+
+Unless otherwise provided in an agreement, we will recompute benefits in accordance with this section. We will recompute the pro rata PIA only if the inclusion of the additional earnings results in an increase in the benefits payable by the U.S. to all persons receiving benefits on the basis of the worker's earnings. Subject to this limitation, the pro rata PIA will be automatically recomputed (see § 404.285) to include additional earnings under the U.S. system. In so doing, a new REP will be established for the worker, taking the additional earnings into account, and assumed earnings in the computation base years used in the original computation will be refigured using the new REP. Assumed earnings will also be determined for the year of additional earnings using the new REP. The additional U.S. earnings will also be used in refiguring the ratio described in § 404.1918(d)(2).
+
+[49 FR 29777, July 24, 1984]

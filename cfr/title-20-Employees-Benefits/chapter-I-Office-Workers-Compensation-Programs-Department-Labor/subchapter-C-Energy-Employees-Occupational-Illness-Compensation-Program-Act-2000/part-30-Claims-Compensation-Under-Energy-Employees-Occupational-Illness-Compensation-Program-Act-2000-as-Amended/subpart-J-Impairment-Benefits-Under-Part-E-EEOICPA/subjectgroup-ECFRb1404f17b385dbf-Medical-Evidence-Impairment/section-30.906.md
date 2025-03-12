@@ -1,0 +1,5 @@
+##### § 30.906 Who will pay for an impairment evaluation? #####
+
+(a) OWCP will pay for one impairment evaluation obtained by an employee if it meets the criteria set out in § 30.905(b), unless it was performed by a physician prior to the date that the claim for Part E benefits is filed, or obtained for a claim in which OWCP finds that the employee did not contract a covered illness. At its discretion, OWCP may direct that the employee undergo additional evaluations. OWCP will pay for any such additional evaluations and will reimburse the employee for any reasonable and necessary costs incident to the evaluations, as described in §§ 30.404 and 30.412 of this part.
+
+(b) Except for one impairment evaluation obtained pursuant to § 30.905(b) and meeting the criteria set out in § 30.905(b)(1), (2) and (3), the employee must pay for any impairment evaluations not directed by OWCP.

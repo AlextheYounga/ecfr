@@ -1,0 +1,3 @@
+##### § 10.526 Must the employee report volunteer activities? #####
+
+An employee who is receiving compensation for partial or total disability is periodically required to report volunteer activity or any other kind of activity which shows that the employee is no longer totally disabled for work. The fact that the employee did not receive any salary for this work is not a basis for failing to report this activity; instead the employee must report the cost if any to have someone else do the work or activity.

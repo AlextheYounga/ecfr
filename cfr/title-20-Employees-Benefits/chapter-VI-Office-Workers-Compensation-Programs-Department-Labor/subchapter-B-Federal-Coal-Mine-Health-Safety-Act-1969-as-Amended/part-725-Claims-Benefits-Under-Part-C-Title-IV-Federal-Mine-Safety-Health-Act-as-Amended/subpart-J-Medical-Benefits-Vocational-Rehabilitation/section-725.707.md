@@ -1,0 +1,5 @@
+##### § 725.707 Reports of physicians and supervision of medical care. #####
+
+(a) Within 30 days following the first medical or surgical treatment provided under § 725.701, the treating physician or facility shall furnish to the Office and the responsible operator, if any, a report of such treatment.
+
+(b) In order to permit continuing supervision of the medical care provided to the miner with respect to the necessity, character and sufficiency of any medical care furnished or to be furnished, the treating physician, facility, employer or carrier shall provide such reports in addition to those required by paragraph (a) of this section as the Office may from time to time require. Within the discretion of the district director, payment may be refused to any medical provider who fails to submit any report required by this section.

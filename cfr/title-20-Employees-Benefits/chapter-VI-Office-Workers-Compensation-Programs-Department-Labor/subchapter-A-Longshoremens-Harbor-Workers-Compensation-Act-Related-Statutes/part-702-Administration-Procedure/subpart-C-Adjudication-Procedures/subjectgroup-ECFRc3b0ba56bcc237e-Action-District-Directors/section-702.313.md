@@ -1,0 +1,3 @@
+##### § 702.313 Informal conferences; how called; when called. #####
+
+Informal conferences may be called upon not less than 10 days' notice to the parties, unless the parties agree to meet at an earlier date. The notice may be given by telephone, but shall be confirmed by use of a written notice on a form prescribed by the Director. The notice shall indicate the date, time and place of the conference, and shall also specify the matters to be discussed. For good cause shown conferences may be rescheduled. A copy of such notice shall be placed in the administrative file.

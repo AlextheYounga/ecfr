@@ -1,0 +1,3 @@
+##### § 725.537 Reductions; retroactive effect of an additional claim for benefits. #####
+
+Except as provided in § 725.212(b), beginning with the month in which a person other than a miner files a claim and becomes entitled to benefits, the benefits of other persons entitled to benefits with respect to the same miner, are adjusted downward, if necessary, so that no more than the permissible amount of benefits (the maximum amount for the number of beneficiaries involved) will be paid.

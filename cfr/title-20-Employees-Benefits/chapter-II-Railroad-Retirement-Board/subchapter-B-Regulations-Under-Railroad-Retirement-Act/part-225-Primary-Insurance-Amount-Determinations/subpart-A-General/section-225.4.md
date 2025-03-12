@@ -1,0 +1,3 @@
+##### § 225.4 Limitation on amount of earnings used to compute a PIA. #####
+
+Certain PIA's used by the Board are based on a combination of compensation and wages, while other PIA's used by the Board are based solely on either compensation or wages. For purposes of crediting earnings when computing any PIA, compensation is always treated as wages. Regardless of whether a PIA is based on a combination of compensation and wages or exclusively on either compensation or wages, the total earnings for each year used in computing a PIA cannot be higher than the maximum social security earnings creditable in that year under sections 209(a) and 211(b) of the Social Security Act. The various PIA's used by the Board are described in subparts B and C of this part.

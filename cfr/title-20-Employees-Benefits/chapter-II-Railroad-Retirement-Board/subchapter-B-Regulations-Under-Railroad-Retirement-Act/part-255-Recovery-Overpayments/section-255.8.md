@@ -1,0 +1,9 @@
+##### § 255.8 Recovery by adjustment in connection with subsequent payments. #####
+
+(a) Recovery of an overpayment may be made by permanently reducing the amount of any annuity payable to the individual or individuals from whom recovery is sought. This method of recovery is called an actuarial adjustment of the annuity. The Board cannot require any individual to take an actuarial adjustment in order to recover an overpayment nor is an actuarial adjustment available as a matter of right. An actuarial adjustment becomes effective and the debt is considered recovered when, in the case of an individual paid by electronic funds transfer, the first annuity payment reflecting the annuity rate after actuarial adjustment is deposited to the account of the overpaid individual, or, in the case of an individual paid by check, the first annuity check reflecting the annuity rate after actuarial adjustment is negotiated.
+
+Example.An annuitant agrees to recovery of a $5,000 overpayment by actuarial adjustment. However, the annuitant dies before negotiating the first annuity check reflecting the actuarially-reduced rate. The $5,000 is not considered recovered. If the annuitant had negotiated the check before he died, the $5,000 would be considered fully recovered.
+
+(b) In calculating any adjustment under this section, beginning with the first day of January after the tables and long-term or ultimate interest rate go into effect under section 15(g) of the Railroad Retirement Act (the triennial evaluation), the Board shall use those tables and long-term or ultimate interest rate.
+
+[63 FR 29548, June 1, 1998]

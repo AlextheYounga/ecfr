@@ -1,0 +1,3 @@
+##### § 663.110 What are the eligibility criteria for core services for adults in the adult and dislocated worker programs? #####
+
+To be eligible to receive core services as an adult in the adult and dislocated worker programs, an individual must be 18 years of age or older. To be eligible for the dislocated worker programs, an eligible adult must meet the criteria of § 663.115. Eligibility criteria for intensive and training services are found at §§ 663.220 and 663.310.

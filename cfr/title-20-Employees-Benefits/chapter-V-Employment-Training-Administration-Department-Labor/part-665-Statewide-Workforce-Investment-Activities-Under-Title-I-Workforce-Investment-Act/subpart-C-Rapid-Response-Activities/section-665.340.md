@@ -1,0 +1,3 @@
+##### § 665.340 What is meant by “provision of additional assistance” in WIA section 134(a)(2)(A)(ii)? #####
+
+Up to 25 percent of dislocated worker funds may be reserved for rapid response activities. Once the State has reserved adequate funds for rapid response activities, such as those described in §§ 665.310 and 665.320, the remainder of the funds may be used by the State to provide funds to local areas, that experience increased numbers of unemployed individuals due to natural disasters, plant closings, mass layoffs or other events, for provision of direct services to participants (such as intensive, training, and other services) if there are not adequate local funds available to assist the dislocated workers.

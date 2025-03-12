@@ -1,0 +1,5 @@
+##### § 243.4 Taxation of benefits. #####
+
+(a) Annuities paid by the Board are subject to Federal income tax in accord with the Internal Revenue Code. The annuity portion equivalent to the amount of the benefit that the person would have actually received under the Social Security Act if railroad service had been creditable under that Act is treated for Federal income tax purposes the same way as a social security benefit. Annuity payments computed under the social security overall minimum provision contained in section 3(f)(3) of the Railroad Retirement Act (see § 243.5 of this part) are also treated as social security benefits for Federal income tax purposes. Railroad retirement annuity amounts exceeding social security equivalent payments, vested dual benefits, and supplemental annuities are taxed in the same manner as benefits provided under an employer plan which meets the requirements of section 401(a) of the Internal Revenue Code.
+
+(b) Pursuant to section 14 of the Railroad Retirement Act, no annuity or supplemental annuity, in whole or in part, is subject to any tax by any state or any political subdivision thereof.

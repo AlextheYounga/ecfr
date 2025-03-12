@@ -1,0 +1,3 @@
+##### § 416.2140 Liability for erroneous Medicaid eligibility determinations. #####
+
+If the State suffers any financial loss, directly or indirectly, through using any information we provide under an agreement described in this subpart, we will not be responsible for that loss. However, if we erroneously tell a State that a person is eligible for Medicaid and the State therefore makes erroneous Medicaid payments, the State will be paid the Federal share of those payments under the Medicaid program as if they were correct.

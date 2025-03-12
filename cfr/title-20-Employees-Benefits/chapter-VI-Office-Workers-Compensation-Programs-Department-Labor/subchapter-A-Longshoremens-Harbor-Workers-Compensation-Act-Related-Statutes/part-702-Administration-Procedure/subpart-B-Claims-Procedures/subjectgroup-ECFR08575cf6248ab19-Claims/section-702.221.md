@@ -1,0 +1,7 @@
+##### § 702.221 Claims for compensation; time limitations. #####
+
+(a) Claims for compensation for disability or death shall be in writing and filed with the district director for the compensation district in which the injury or death occurred. The Social Security Number (SSN) of the injured employee and, in cases of death, the SSN of the person seeking survivor benefits shall also be set forth on each claim. Claims may be filed anytime after the seventh day of disability or anytime following the death of the employee. Except as provided below, the right to compensation is barred unless a claim is filed within one year of the injury or death, or (where payment is made without an award) within one year of the date on which the last compensation payment was made.
+
+(b) In the case of a hearing loss claim, the time for filing a claim does not begin to run until the employee receives an audiogram with the accompanying report which indicates the employee has sustained a hearing loss that is related to his or her employment. (See § 702.441).
+
+(Approved by the Office of Management and Budget under control number 1215-0160)[50 FR 398, Jan. 3, 1985, as amended at 51 FR 4284, Feb. 3, 1986; 58 FR 68032, Dec. 23, 1993]

@@ -1,0 +1,3 @@
+##### § 220.163 Employee penalty deductions. #####
+
+If the employee earns over $400 in a month and does not report it within the time limit shown in § 220.162(b), a penalty is imposed. The penalty deduction for the first failure to report equals the annuity amount for the first month in which the employee earned over $400. The deduction for a second or later failure to report equals the annuity amount for each month in which the employee earned over $400 and failed to report it on time.

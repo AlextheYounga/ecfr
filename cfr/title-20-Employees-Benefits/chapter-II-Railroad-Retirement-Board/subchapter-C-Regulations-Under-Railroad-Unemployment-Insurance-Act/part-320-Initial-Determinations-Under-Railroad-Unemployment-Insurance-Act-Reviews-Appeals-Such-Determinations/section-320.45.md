@@ -1,0 +1,5 @@
+##### § 320.45 Judicial review. #####
+
+Upon being notified of a decision of the Board made (a) upon review, on the Board's own motion, of a decision of a hearings officer, or (b) upon an appeal to the Board, an aggrieved party may obtain judicial review of such final decision, by filing a petition for review within ninety days after the date on which notice of such decision was mailed to him, or within such further time as the Board may allow, in the U.S. Court of Appeals for the circuit in which the party resides or will have had his principal place of business or principal executive office, or in the U.S. Court of Appeals for the Seventh Circuit or in the Court of Appeals for the District of Columbia.
+
+[Board Order 58-142, 23 FR 9090, Nov. 22, 1958, as amended at 56 FR 65682, Dec. 18, 1991]

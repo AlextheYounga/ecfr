@@ -1,0 +1,5 @@
+##### § 405.366 Posthearing conferences. #####
+
+(a) The administrative law judge may decide, on his or her own initiative or at your request, to hold a posthearing conference to facilitate the hearing decision. A posthearing conference normally will be held by telephone unless the administrative law judge decides that conducting it in another manner would be more efficient and effective in addressing the issues raised. We will give you reasonable notice of the time, place, and manner of the conference. A record of the conference will be made and placed in the hearing record.
+
+(b) If neither you nor the person you designate to act as your representative appears at the posthearing conference, and under § 405.380(b), you do not have a good reason for failing to appear, we will issue a decision based on the information available in your claim.

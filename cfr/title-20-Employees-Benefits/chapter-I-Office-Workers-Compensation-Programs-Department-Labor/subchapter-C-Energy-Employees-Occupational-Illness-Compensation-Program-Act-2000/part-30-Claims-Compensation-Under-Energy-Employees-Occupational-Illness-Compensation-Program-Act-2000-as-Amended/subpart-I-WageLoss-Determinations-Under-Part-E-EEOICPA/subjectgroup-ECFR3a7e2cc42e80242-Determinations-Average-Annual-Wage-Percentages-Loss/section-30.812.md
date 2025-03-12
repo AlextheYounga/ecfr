@@ -1,0 +1,3 @@
+##### § 30.812 May a covered Part E employee claim for subsequent periods of compensable wage-loss? #####
+
+A covered Part E employee previously awarded compensation for wage-loss under § 30.811 may file for additional compensation for wage-loss suffered by the employee during periods subsequent to a period for which a wage-loss claim for the employee has already been adjudicated by OWCP. However, no compensation for wage-loss shall be awarded for any period following the year during which the covered Part E employee attained normal retirement age for purposes of the Social Security Act as described in § 30.801(b).

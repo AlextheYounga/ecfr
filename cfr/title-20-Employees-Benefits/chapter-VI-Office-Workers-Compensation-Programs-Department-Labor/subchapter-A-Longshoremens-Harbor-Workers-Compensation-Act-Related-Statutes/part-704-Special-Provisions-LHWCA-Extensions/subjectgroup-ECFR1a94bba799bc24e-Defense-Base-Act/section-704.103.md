@@ -1,0 +1,3 @@
+##### § 704.103 Removal of certain minimums when computing or paying compensation. #####
+
+The minimum limitation on weekly compensation for disability established by section 6 of the LHWCA, 33 U.S.C. 906, and the minimum limit on the average weekly wages on which death benefits are to be computed under section 9 of the LHWCA, 33 U.S.C. 909, shall not apply in computing compensation and death benefits under this Act; section 2(a), 42 U.S.C. 1652(a).

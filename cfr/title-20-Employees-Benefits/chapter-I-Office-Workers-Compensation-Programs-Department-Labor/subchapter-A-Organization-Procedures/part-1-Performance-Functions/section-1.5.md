@@ -1,0 +1,3 @@
+##### § 1.5 When was the former Bureau of Employees' Compensation abolished? #####
+
+By Secretary of Labor's Order issued September 23, 1974 (39 FR 34723), issued concurrently with Employment Standards Order 2-74 (39 FR 34722), the Secretary revoked the prior Secretary's Order No. 18-67 (32 FR 12979), which had delegated authority and assigned responsibility for the various workers' compensation programs enumerated in § 1.2, except the Black Lung Benefits Program and the Energy Employees Occupational Illness Compensation Program not then in existence, to the Director of the former Bureau of Employees' Compensation.

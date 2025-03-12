@@ -1,0 +1,5 @@
+##### § 652.4 Allotment of funds and grant agreement. #####
+
+(a) *Allotments.* The Secretary must provide planning estimates in accordance with sec. 6(b)(5) of the Wagner-Peyser Act. Within 30 days of receipt of planning estimates from the Secretary, the State must make public the sub-State resource distributions, and describe the process and schedule under which these resources will be issued, planned, and committed. This notification must include a description of the procedures by which the public may review and comment on the sub-State distributions, including a process by which the State will resolve any complaints.
+
+(b) *Grant agreement.* To establish a continuing relationship under the Wagner-Peyser Act, the Governor and the Secretary must sign a grant agreement, including a statement assuring that the State must comply with the Wagner-Peyser Act and all applicable rules and regulations. Consistent with this agreement and sec. 6 of the Wagner-Peyser Act, State allotments will be obligated through a notification of obligation.

@@ -1,0 +1,3 @@
+##### § 10.413 May a schedule award be paid after an employee's death? #####
+
+For a schedule award to be paid following the death of an employee, the employee must have filed a valid claim specifically for a schedule award prior to death; in addition, the employee must have died from a cause other than the injury before the end of the period specified in the schedule. The balance of the schedule award may be paid to an employee's survivors pursuant to the proportions and order of precedence described in 5 U.S.C. 8109.

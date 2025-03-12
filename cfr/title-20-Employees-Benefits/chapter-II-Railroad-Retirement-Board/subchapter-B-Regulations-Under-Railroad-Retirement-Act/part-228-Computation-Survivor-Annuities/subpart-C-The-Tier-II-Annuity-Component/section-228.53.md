@@ -1,0 +1,3 @@
+##### § 228.53 Spouse minimum guarantee. #####
+
+The Railroad Retirement Act provides that a spouse should receive no less as a widow(er) than he or she received as a spouse. However, if the widow(er) becomes entitled to a social security benefit, thus reducing his or her annuity, the spouse minimum guarantee is payable only to the extent that it guarantees the amount that the widow(er) would have received as a spouse had he or she been entitled to a social security benefit in the month preceding the employee's death in an amount equal to the amount of the social security benefit payable at the time the widow(er) first became entitled to the social security benefit.

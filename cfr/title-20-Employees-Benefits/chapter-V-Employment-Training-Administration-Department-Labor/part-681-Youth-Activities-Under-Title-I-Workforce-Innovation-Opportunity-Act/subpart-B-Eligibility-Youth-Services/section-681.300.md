@@ -1,0 +1,3 @@
+##### § 681.300 How does the Department define the “requires additional assistance to enter or complete an educational program, or to secure and hold employment” criterion in this part for OSY? #####
+
+Either the State or the local level may establish definitions and eligibility documentation requirements for the “requires additional assistance to enter or complete an educational program, or to secure and hold employment” criterion of § 681.210(c)(9). In cases where the State WDB establishes State policy on this criterion, the State WDB must include the definition in the State Plan. In cases where the State WDB does not establish a policy, the Local WDB must establish a policy in its local plan if using this criterion.

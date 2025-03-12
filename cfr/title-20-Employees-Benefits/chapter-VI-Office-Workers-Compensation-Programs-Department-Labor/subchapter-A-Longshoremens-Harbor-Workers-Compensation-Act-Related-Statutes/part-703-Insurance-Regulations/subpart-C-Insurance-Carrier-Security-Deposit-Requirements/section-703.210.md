@@ -1,0 +1,5 @@
+##### § 703.210 Increase or reduction in security deposit amount. #####
+
+(a) Whenever the Office considers the security deposited by an insurance carrier insufficient to fully secure the carrier's LHWCA obligations, the carrier must, upon demand by the Branch, deposit additional security in accordance with the regulations in this part in an amount fixed by the Branch. The Branch will issue its decision requiring additional security in accordance with § 703.204, and the procedures set forth at §§ 703.204(d) and 703.205 for requesting a hearing and complying with the Office's decision will apply as appropriate.
+
+(b) The Branch may reduce the required security at any time on its own initiative, or upon application of a carrier, when in the Branch's opinion the facts warrant a reduction. A carrier seeking a reduction must furnish any information the Office requests regarding its outstanding LHWCA obligations for any State in which it does business, its obligations not secured by a State guaranty fund in each of these States, and any other evidence as the Branch considers necessary.

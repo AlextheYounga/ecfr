@@ -1,0 +1,3 @@
+##### § 1002.39 Are States (and their political subdivisions), the District of Columbia, the Commonwealth of Puerto Rico, and United States territories, considered employers? #####
+
+Yes. States and their political subdivisions, such as counties, parishes, cities, towns, villages, and school districts, are considered employers under USERRA. The District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, and territories of the United States, are also considered employers under the Act.

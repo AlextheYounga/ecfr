@@ -1,0 +1,9 @@
+##### § 30.404 Will OWCP pay for transportation to obtain medical treatment? #####
+
+(a) The employee is entitled to reimbursement for reasonable and necessary expenses, including transportation, incident to obtaining authorized medical services, appliances or supplies. To determine what is a reasonable distance to travel, OWCP will consider the availability of services, the employee's condition, and the means of transportation. Generally, a roundtrip distance of up to 200 miles is considered a reasonable distance to travel.
+
+(b) If travel of more than 200 miles is contemplated, or air transportation or overnight accommodations will be needed, the employee must submit a written request to OWCP for prior authorization with information describing the circumstances and necessity for such travel expenses. OWCP will approve the request if it determines that the travel expenses are reasonable and necessary, and are incident to obtaining authorized medical services, appliances or supplies. Requests for travel expenses that are often approved include those resulting from referrals to a specialist for further medical treatment, and those involving air transportation of an employee who lives in a remote geographical area with limited local medical services.
+
+(c) If a claimant disagrees with the decision of OWCP that requested travel expenses are either not reasonable or necessary, or are not incident to obtaining authorized medical services, appliances or supplies, he or she may utilize the adjudicatory process described in subpart D of this part.
+
+(d) The standard form designated for medical travel refund requests is Form OWCP-957 and must be used to seek reimbursement under this section. This form can be obtained from OWCP.

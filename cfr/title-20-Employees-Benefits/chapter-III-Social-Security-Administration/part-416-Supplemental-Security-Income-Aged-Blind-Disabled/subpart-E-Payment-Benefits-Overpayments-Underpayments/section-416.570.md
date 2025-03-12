@@ -1,0 +1,11 @@
+##### § 416.570 Adjustment. #####
+
+(a) *General.* When a recipient has been overpaid, the overpayment has not been refunded, and waiver of adjustment or recovery is not applicable, any payment due the overpaid recipient or his or her eligible spouse (or recovery from the estate of either or both when either or both die before adjustment is completed) is adjusted for recovery of the overpayment. Adjustment will generally be accomplished by withholding each month the amount set forth in § 416.571 from the benefit payable to the individual except that, when the overpayment results from the disposition of resources as provided by §§ 416.1240(b) and 416.1244, the overpayment will be recovered by withholding any payments due the overpaid recipient or his or her eligible spouse before any further payment is made. Absent a specific request from the person from whom recovery is sought, no overpayment made under title XVIII of the Act will be recovered by adjusting SSI benefits. In no case shall an overpayment of SSI benefits be adjusted against title XVIII benefits. No funds properly deposited into a dedicated account (see §§ 416.546 and 416.640(e)) can be used to repay an overpayment while the overpaid individual remains subject to the provisions of those sections.
+
+(b) *Overpayment made to representative payee after the recipient's death.* A representative payee or his estate is solely liable for repaying an overpayment made to the representative payee on behalf of a recipient after the recipient's death. In such case, we will recover the overpayment according to paragraph (a) of this section, except that:
+
+(1) We will not adjust any other payment due to the eligible spouse of the overpaid representative payee to recover the overpayment, and
+
+(2) If the overpaid representative payee dies before we complete adjustment, we will not seek to recover the overpayment from the eligible spouse or the estate of the eligible spouse.
+
+[70 FR 16, Jan. 3, 2005, as amended at 73 FR 65543, Nov. 4, 2008]

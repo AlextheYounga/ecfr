@@ -1,0 +1,3 @@
+##### § 404.461 Nonpayment of lump sum after death of alien outside United States for more than 6 months. #####
+
+Where an individual dies outside the United States after January 1957 and no monthly benefit was or could have been paid to him for the month preceding the month in which he died because of the provisions described in § 404.460, no lump-sum death payment may be made upon the basis of the individual's earnings record.

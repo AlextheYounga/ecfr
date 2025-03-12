@@ -1,0 +1,3 @@
+##### § 681.270 May a local program use eligibility for free or reduced price lunches under the National School Lunch Program as a substitute for the income eligibility criteria under title I of the Workforce Innovation and Opportunity Act? #####
+
+Yes, WIOA sec. 3(36) defines a low-income individual to include an individual who receives (or is eligible to receive) a free or reduced price lunch under the Richard B. Russell National School Lunch Act.

@@ -1,0 +1,3 @@
+##### § 101.85 Offer of proof. #####
+
+An offer of proof made in connection with an objection taken to any ruling of the presiding officer rejecting or excluding proffered oral testimony shall consist of a statement of the substance of the evidence which counsel contends would be adduced by such testimony; and, if the excluded evidence consists of evidence in documentary or written form or of reference to documents or records, a copy of such evidence shall be marked for identification and shall accompany the record as the offer of proof.

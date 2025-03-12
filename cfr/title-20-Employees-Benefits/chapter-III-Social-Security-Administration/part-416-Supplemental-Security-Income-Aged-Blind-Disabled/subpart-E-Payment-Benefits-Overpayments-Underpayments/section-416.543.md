@@ -1,0 +1,5 @@
+##### § 416.543 Underpayments—applied to reduce overpayments. #####
+
+We apply any underpayment due an individual to reduce any overpayment to that individual that we determine to exist (see § 416.558) for a different period, unless we have waived recovery of the overpayment under the provisions of §§ 416.550 through 416.556. Similarly, when an underpaid recipient dies, we first apply any amounts due the deceased recipient that would be payable to a survivor under § 416.542(b) against any overpayment to the survivor unless we have waived recovery of such overpayment under the provisions of §§ 416.550 through 416.556.
+
+Example:A disabled child, eligible for payments under title XVI, and his parent, also an eligible individual receiving payments under title XVI, were living together. The disabled child dies at a time when he was underpaid $100. The deceased child's underpaid benefit is payable to the surviving parent. However, since the parent must repay an SSI overpayment of $225 on his own record, the $100 underpayment will be applied to reduce the parent's own overpayment to $125.[58 FR 52913, Oct. 13, 1993]

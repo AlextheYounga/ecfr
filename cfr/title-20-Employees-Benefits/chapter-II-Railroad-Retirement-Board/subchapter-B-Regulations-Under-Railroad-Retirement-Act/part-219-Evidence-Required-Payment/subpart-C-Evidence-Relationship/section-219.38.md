@@ -1,0 +1,3 @@
+##### § 219.38 Evidence of stepparent or stepchild relationship. #####
+
+If the claimant is a stepparent or stepchild of the employee, the Board will ask for the evidence described in § 219.37 or § 219.39 which shows the person's natural or adoptive relationship to the employee's husband, wife, widow, or widower. The Board will also ask for evidence of the husband's, wife's, widow's or widower's marriage to the employee (See §§ 219.30-219.33).

@@ -1,0 +1,9 @@
+##### § 1002.74 Must the employee begin service in the uniformed services immediately after leaving his or her employment position in order to have USERRA reemployment rights? #####
+
+No. At a minimum, an employee must have enough time after leaving the employment position to travel safely to the uniformed service site and arrive fit to perform the service. Depending on the specific circumstances, including the duration of service, the amount of notice received, and the location of the service, additional time to rest, or to arrange affairs and report to duty, may be necessitated by reason of service in the uniformed services. The following examples help to explain the issue of the period of time between leaving civilian employment and beginning of service in the uniformed services:
+
+(a) If the employee performs a full overnight shift for the civilian employer and travels directly from the work site to perform a full day of uniformed service, the employee would not be considered fit to perform the uniformed service. An absence from that work shift is necessitated so that the employee can report for uniformed service fit for duty.
+
+(b) If the employee is ordered to perform an extended period of service in the uniformed services, he or she may require a reasonable period of time off from the civilian job to put his or her personal affairs in order, before beginning the service. Taking such time off is also necessitated by the uniformed service.
+
+(c) If the employee leaves a position of employment in order to enlist or otherwise perform service in the uniformed services and, through no fault of his or her own, the beginning date of the service is delayed, this delay does not terminate any reemployment rights.

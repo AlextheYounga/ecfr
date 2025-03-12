@@ -1,0 +1,9 @@
+##### § 655.165 Partial certification. #####
+
+The CO may issue a partial certification, reducing either the period of need or the number of H-2A workers being requested or both for certification, based upon information the CO receives during the course of processing the *Application for Temporary Employment Certification,* an audit, or otherwise. The number of workers certified will be reduced by one for each referred U.S. worker who is able, willing, and qualified, and who will be available at the time and place needed and has not been rejected for lawful job-related reasons, to perform the services or labor. If a partial labor certification is issued, the Final Determination letter will:
+
+(a) State the reason(s) why either the period of need and/or the number of H-2A workers requested has been reduced;
+
+(b) Offer the applicant an opportunity to request an expedited administrative review, or a de novo administrative hearing before an ALJ, of the decision. The notice will state that in order to obtain such a review or hearing, the employer, within 7 calendar days of the date of the notice, will file by facsimile or other means normally assuring next day delivery a written request to the Chief ALJ of DOL (giving the address) and simultaneously serve a copy on the CO. The notice will also state that the employer may submit any legal arguments which the employer believes will rebut the basis of the CO's action; and
+
+(c) State that if the employer does not request an expedited administrative judicial review or a de novo hearing before an ALJ within the 7 calendar days, the partial certification is final and the Department will not further consider that *Application for Temporary Employment Certification.*

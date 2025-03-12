@@ -1,0 +1,3 @@
+##### § 416.802 Type of evidence to be submitted. #####
+
+Where an individual is required to submit evidence of date of birth as indicated in § 416.801, he shall submit a public record of birth or a religious record of birth or baptism established or recorded before his fifth birthday, if available. Where no such document recorded or established before age 5 is available the individual shall submit as evidence of age another document or documents which may serve as the basis for a determination of the individual's date of birth provided such evidence is corroborated by other evidence or by information in the records of the Administration.

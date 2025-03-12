@@ -1,0 +1,7 @@
+##### § 661.110 What is the role of the Department of Labor as the Federal governmental partner in the governance of the workforce investment system? #####
+
+(a) Successful governance of the workforce investment system will be achieved through cooperation and coordination of Federal, State and local governments.
+
+(b) The Department of Labor sees as one of its primary roles providing leadership and guidance to support a system that meets the objectives of title I of WIA, and in which State and local partners have flexibility to design systems and deliver services in a manner designed to best achieve the goals of WIA based on their particular needs. The WIA regulations provide the framework in which State and local officials can exercise such flexibility within the confines of the statutory requirements. Wherever possible, system features such as design options and categories of services are broadly defined, and are subject to State and local interpretation.
+
+(c) The Secretary, in consultation with other Federal Agencies, as appropriate, may publish guidance on interpretations of statutory and regulatory provisions. State and local policies, interpretations, guidelines and definitions that are consistent with interpretations contained in such guidance will be considered to be consistent with the Act for purposes of § 661.120.

@@ -1,0 +1,3 @@
+##### § 61.103 Examination of records of carrier. #####
+
+Whenever it is deemed necessary, the Office may request submission of case records or may inspect the records and accounts of a carrier for the purpose of verifying any allegation, fact or payment stated in the claim. The carrier shall furnish the records and permit or authorize their inspection as requested. The right of inspection shall also relate to records and data necessary for the determination of whether any premium or other charge was made with respect to the reimbursement claimed.

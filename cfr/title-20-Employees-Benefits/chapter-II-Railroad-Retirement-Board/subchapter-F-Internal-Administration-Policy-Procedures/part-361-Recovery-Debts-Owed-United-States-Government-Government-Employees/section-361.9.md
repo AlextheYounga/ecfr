@@ -1,0 +1,3 @@
+##### § 361.9 Exception to requirement that a hearing be offered. #####
+
+When an employee is overpaid due to the hours worked reported on the payroll exceeding the actual hours worked, no pre-offset hearing must be granted since in such cases there is no question regarding credibility and veracity. In these cases the Board will make its determination under this part based upon review of the written record.

@@ -1,0 +1,3 @@
+##### § 725.451 Request for hearing. #####
+
+After the completion of proceedings before the district director, or as is otherwise indicated in this part, any party may in writing request a hearing on any contested issue of fact or law (see § 725.419). A district director may on his or her own initiative refer a case for hearing. If a hearing is requested, or if a district director determines that a hearing is necessary to the resolution of any issue, the claim shall be referred to the Chief Administrative Law Judge for a hearing under § 725.421.

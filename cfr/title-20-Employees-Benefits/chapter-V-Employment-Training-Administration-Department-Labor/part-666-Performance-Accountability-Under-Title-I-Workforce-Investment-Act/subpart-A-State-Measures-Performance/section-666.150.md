@@ -1,0 +1,7 @@
+##### § 666.150 What responsibility do States have to use quarterly wage record information for performance accountability? #####
+
+(a) States must, consistent with State laws, use quarterly wage record information in measuring the progress on State and local performance measures. In order to meet this requirement the use of social security numbers from registered participants and such other information as is necessary to measure the progress of those participants through quarterly wage record information is authorized.
+
+(b) The State must include in the State Plan a description of the State's performance accountability system, and a description of the State's strategy for using quarterly wage record information to measure the progress on State and local performance measures. The description must identify the entities that may have access to quarterly wage record information for this purpose.
+
+(c) “Quarterly wage record information” means information regarding wages paid to an individual, the social security account number (or numbers, if more than one) of the individual and the name, address, State, and (when known) the Federal employer identification number of the employer paying the wages to the individual. (WIA sec. 136(f)(2).)

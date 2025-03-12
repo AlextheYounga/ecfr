@@ -1,0 +1,5 @@
+##### § 640.6 Review of State compliance. #####
+
+(a) *Annual reviews.* The administration of each State law shall be reviewed annually for compliance, as set out in §§ 640.2(b) and 640.3(b). Annual reviews shall be for the 12-month period ending on March 31 of each year. An annual review with respect to any State shall be based upon the monthly reports of performance submitted to the Department by the State agency, any special reports of performance submitted to the Department by the State agency, any benefit payment performance plan applicable to the period being reviewed, any study or anylysis of performance relevant to the period being reviewed, and any other audit, study, or analysis as directed by the Department of Labor.
+
+(b) *Periodic review.* The administration of any State law may be reviewed at any other time, when there is reason to believe that there may be failure of compliance as set out in §§ 640.2(b) and 640.3(b). Such a review shall be based upon the same elements as may be required for an annual review.

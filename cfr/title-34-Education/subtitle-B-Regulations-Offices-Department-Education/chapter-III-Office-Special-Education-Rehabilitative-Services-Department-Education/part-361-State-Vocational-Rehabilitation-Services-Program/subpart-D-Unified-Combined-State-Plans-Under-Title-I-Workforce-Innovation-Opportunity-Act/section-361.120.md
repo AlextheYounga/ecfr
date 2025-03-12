@@ -1,0 +1,3 @@
+##### § 361.120 What are the program-specific requirements in the Unified State Plan for the Employment Service program authorized under the Wagner-Peyser Act, as amended by Workforce Innovation and Opportunity Act title III? #####
+
+The Employment Service program authorized under the Wagner-Peyser Act of 1933, as amended by WIOA title III, is subject to requirements in sec. 102(b) of WIOA, including any additional requirements imposed by the Secretary of Labor under secs. 102(b)(2)(C)(viii) and 102(b)(2)(D)(iv) of WIOA, as explained in joint planning guidelines issued by the Secretaries of Labor and Education.

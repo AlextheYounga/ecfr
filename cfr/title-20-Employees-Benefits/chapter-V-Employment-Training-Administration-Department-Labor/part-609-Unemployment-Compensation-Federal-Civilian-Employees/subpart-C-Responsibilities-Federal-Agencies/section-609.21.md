@@ -1,0 +1,7 @@
+##### § 609.21 Findings of Federal agency. #####
+
+(a) *Answering request.* Within four workdays after receipt from a State agency of a request for Federal findings on a form furnished by the State agency, and prescribed by the Department, a Federal agency shall make such Federal findings, complete all copies of the form, and transmit the completed copies to the State agency. If documents necessary for completion of the form have been assigned to an agency records center or the Federal Records Center in St. Louis, the Federal agency shall obtain the necessary information from the records center. Any records center shall give priority to such a request.
+
+(b) *Failure to meet time limit.* If a completed form containing the Federal agency's findings cannot be returned within four workdays of receipt, the Federal agency immediately shall inform the State agency, and shall include an estimated date by which the completed form will be returned.
+
+(c) *Administrative control.* Each Federal agency shall maintain a control of all requests for Federal findings received by it, and the Federal agency's response to each request. The records shall be maintained so as to enable the Federal agency to ascertain at any time the number of such forms that have not been returned to State agencies, and the dates of the Federal agency's receipt of such unreturned forms.

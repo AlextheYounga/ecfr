@@ -1,0 +1,3 @@
+##### § 10.312 What are the special rules for the services of clinical psychologists? #####
+
+A clinical psychologist may serve as a physician only within the scope of his or her practice as defined by State law. Therefore, a clinical psychologist may not serve as a physician for conditions that include a physical component unless the applicable State law allows clinical psychologists to treat physical conditions. A clinical psychologist may also perform testing, evaluation and other services under the direction of a qualified physician.

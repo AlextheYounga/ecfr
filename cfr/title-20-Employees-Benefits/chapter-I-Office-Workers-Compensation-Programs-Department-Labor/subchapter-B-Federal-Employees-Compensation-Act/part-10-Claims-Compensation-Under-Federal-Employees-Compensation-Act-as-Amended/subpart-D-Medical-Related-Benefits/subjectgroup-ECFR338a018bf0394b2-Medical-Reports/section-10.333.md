@@ -1,0 +1,3 @@
+##### § 10.333 What additional medical information will OWCP require to support a claim for a schedule award? #####
+
+To support a claim for a schedule award, a medical report must contain accurate measurements of the function of the organ or member, in accordance with the American Medical Association's *Guides to the Evaluation of Permanent Impairment* as described in § 10.404. These measurements may include: The actual degree of loss of active or passive motion or deformity; the amount of atrophy; the decrease, if any, in strength; the disturbance of sensation; pain due to nerve impairment; the diagnosis of the condition; and functional impairment ratings.

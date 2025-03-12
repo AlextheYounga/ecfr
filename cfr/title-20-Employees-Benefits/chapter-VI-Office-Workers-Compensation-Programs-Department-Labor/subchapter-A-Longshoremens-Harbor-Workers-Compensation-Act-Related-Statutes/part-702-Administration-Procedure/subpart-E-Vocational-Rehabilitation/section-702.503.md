@@ -1,0 +1,3 @@
+##### § 702.503 Vocational rehabilitation; action by adviser. #####
+
+The vocational rehabilitation adviser, upon receipt of the referral, shall promptly consider the feasibility of a vocational referral or request for cooperative services from available resources or facilities, to include counseling, vocational survey, selective job placement assistance, and retraining. Public or private agencies may be utilized in arranging necessary vocational rehabilitation services under the Federal Vocational Rehabilitation Act, 29 U.S.C. 31 *et seq.*

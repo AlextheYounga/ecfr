@@ -1,0 +1,3 @@
+##### § 418.3315 What is earned income? #####
+
+Earned income is defined in § 416.1110 of this chapter and may be in cash or in kind. We may count more of your earned income than you actually receive. We count gross income, which is more than you actually receive, if amounts are withheld from earned income because of a garnishment, or to pay a debt or other legal obligation such as taxes, or to make any other similar payments.

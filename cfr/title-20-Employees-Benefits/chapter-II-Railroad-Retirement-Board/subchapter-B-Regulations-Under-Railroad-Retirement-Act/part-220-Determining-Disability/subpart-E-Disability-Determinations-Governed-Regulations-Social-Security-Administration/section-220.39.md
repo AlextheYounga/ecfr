@@ -1,0 +1,3 @@
+##### § 220.39 Disability determination for a surviving divorced spouse or remarried widow(er). #####
+
+A surviving divorced spouse or a remarried widow(er) must be found disabled under the Social Security Act in order to qualify for both an annuity under the Railroad Retirement Act and early Medicare based upon disability. Disability determinations for surviving divorced spouses and remarried widow(er)s are governed by the applicable regulations of the Social Security Administration, found at § 404.1577 of this title.

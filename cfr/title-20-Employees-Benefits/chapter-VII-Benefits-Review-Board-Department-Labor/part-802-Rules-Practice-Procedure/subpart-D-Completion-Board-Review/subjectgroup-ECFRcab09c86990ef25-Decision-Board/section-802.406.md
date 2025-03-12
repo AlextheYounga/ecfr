@@ -1,0 +1,3 @@
+##### § 802.406 Finality of Board decisions. #####
+
+A decision rendered by the Board pursuant to this subpart shall become final 60 days after the issuance of such decision unless a written petition for review praying that the order be modified or set aside, pursuant to section 21(c) of the LHWCA, is filed in the appropriate U.S. court of appeals prior to the expiration of the 60-day period herein described, or unless a timely request for reconsideration by the Board has been filed as provided in § 802.407. If a timely request for reconsideration has been filed, the 60-day period for filing such petition for review will run from the issuance of the Board's decision on reconsideration.

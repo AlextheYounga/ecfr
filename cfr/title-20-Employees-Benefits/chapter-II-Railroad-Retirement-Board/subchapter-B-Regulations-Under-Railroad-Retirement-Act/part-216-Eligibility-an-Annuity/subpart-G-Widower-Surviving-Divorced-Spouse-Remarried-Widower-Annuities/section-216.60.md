@@ -1,0 +1,3 @@
+##### § 216.60 General. #####
+
+The Railroad Retirement Act provides annuities for the widow(er), surviving divorced spouse, or remarried widow(er) of an employee. The deceased employee must have completed 10 years of railroad service and have had a current connection with the railroad industry at the time of his or her death. A widow(er), surviving divorced spouse, or remarried widow(er) may receive an annuity based on age, on disability, or on having a child of the employee in his or her care.

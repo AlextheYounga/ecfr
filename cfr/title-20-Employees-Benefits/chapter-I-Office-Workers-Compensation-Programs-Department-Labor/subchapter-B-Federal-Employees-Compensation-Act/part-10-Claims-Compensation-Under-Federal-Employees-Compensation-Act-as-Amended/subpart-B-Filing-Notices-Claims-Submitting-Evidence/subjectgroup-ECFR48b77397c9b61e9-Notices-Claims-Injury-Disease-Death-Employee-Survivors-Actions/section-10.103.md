@@ -1,0 +1,3 @@
+##### § 10.103 How and when is a claim for permanent impairment filed? #####
+
+Form CA-7 is used to claim compensation for impairment to a body part covered under the schedule established by 5 U.S.C. 8107. All such notices should be submitted electronically wherever feasible to facilitate processing of such claims. All employers that currently do not have such capability should create such a method by December 31, 2012. If Form CA-7 has already been filed to claim disability compensation, an employee may file a claim for such impairment by sending a letter to OWCP which specifies the nature of the benefit claimed. OWCP may create a form specifically for schedule award claims; if that form is created, only that form may be used to file a claim under 5 U.S.C. 8107.

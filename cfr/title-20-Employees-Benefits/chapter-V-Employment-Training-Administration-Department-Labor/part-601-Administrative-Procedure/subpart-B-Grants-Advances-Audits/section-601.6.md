@@ -1,0 +1,13 @@
+##### § 601.6 Grants for administration of unemployment compensation laws and employment service. #####
+
+Grants of funds for administration of State unemployment compensation laws and public employment service programs are made to States under section 302(a) of the Social Security Act, the Wagner-Peyser Act, and the Appropriation Acts.
+
+(a) *Requests for funds.* The forms and instructions used by State agencies in requesting funds are available on the ETA Web site (*http://www.ows.doleta.gov/rjm*). The forms and instructions call for detailed information for each budgetary period concerning the specific amounts requested for personal services and other current expenses of State agencies, supported by workload and unit-cost estimates. Supplementary budget requests are processed in the same manner as regular requests. The Administration's representatives in the regional offices furnish assistance to the State agencies in preparing requests for funds.
+
+(b) *Processing of requests.* (1) State agencies send their requests for funds to the Regional Administrator who reviews the requests and forwards them to the ETA National Office with his/her recommendation as to the amounts necessary for proper and efficient administration of the State unemployment compensation law and employment service program.
+
+(2) The ETA National Office appraises the requests and the recommendations of the regional representatives from a nationwide point of view, examining each State's request in the light of the experience of other States to insure equitable treatment among the States in the allocation of funds made available by Congress for the administration of State unemployment compensation laws and public employment service programs.
+
+(c) *Action by ETA National Office.* If the ETA National Office approves the State's budget request, the State agency is notified; and, provided the conditions precedent to grants continue during the budgetary period, certifications for payment, under the approved budget, stating the amounts, are made by the ETA National Office to the Secretary of the Treasury quarterly. Upon denial of a request, in whole or in part, the State agency is notified and the Regional Administrator is instructed to negotiate with the State with a view to removing the basis for denial.
+
+(Approved by the Office of Management and Budget under control number 1205-0132)[15 FR 5886, Aug. 31, 1950, as amended at 42 FR 4724, Jan. 25, 1977; 49 FR 18295, Apr. 30, 1984; 71 FR 35513, June 21, 2006]

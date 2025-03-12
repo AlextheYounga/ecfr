@@ -1,0 +1,3 @@
+##### § 1001.167 In addition to the procedures specified in this part, will the Department be conducting any other monitoring of compliance regarding services to veterans? #####
+
+Yes. We will continue to monitor compliance with the regulations on veterans' priority of service at 20 CFR 1010.240(b) jointly with the ETA. If a State's program year EER is determined to be deficient for a given program year, that deficiency would constitute information to be considered in monitoring priority of service, since failure to fully implement priority of service could be one of the contributors to a deficient program year EER.

@@ -1,0 +1,43 @@
+##### § 404.985 Application of circuit court law. #####
+
+The procedures which follow apply to administrative determinations or decisions on claims involving the application of circuit court law.
+
+(a) *General.* We will apply a holding in a United States Court of Appeals decision that we determine conflicts with our interpretation of a provision of the Social Security Act or regulations unless the Government seeks further judicial review of that decision or we relitigate the issue presented in the decision in accordance with paragraphs (c) and (d) of this section. We will apply the holding to claims at all levels of the administrative review process within the applicable circuit unless the holding, by its nature, applies only at certain levels of adjudication.
+
+(b) *Issuance of an Acquiescence Ruling.* When we determine that a United States Court of Appeals holding conflicts with our interpretation of a provision of the Social Security Act or regulations and the Government does not seek further judicial review or is unsuccessful on further review, we will issue a Social Security Acquiescence Ruling. The Acquiescence Ruling will describe the administrative case and the court decision, identify the issue(s) involved, and explain how we will apply the holding, including, as necessary, how the holding relates to other decisions within the applicable circuit. These Acquiescence Rulings will generally be effective on the date of their publication in the Federal Register and will apply to all determinations and decisions made on or after that date unless an Acquiescence Ruling is rescinded as stated in paragraph (e) of this section. The process we will use when issuing an Acquiescence Ruling follows:
+
+(1) We will release an Acquiescence Ruling for publication in the Federal Register for any precedential circuit court decision that we determine contains a holding that conflicts with our interpretation of a provision of the Social Security Act or regulations no later than 120 days from the receipt of the court's decision. This timeframe will not apply when we decide to seek further judicial review of the circuit court decision or when coordination with the Department of Justice and/or other Federal agencies makes this timeframe no longer feasible.
+
+(2) If we make a determination or decision on your claim between the date of a circuit court decision and the date we publish an Acquiescence Ruling, you may request application of the published Acquiescence Ruling to the prior determination or decision. You must demonstrate that application of the Acquiescence Ruling could change the prior determination or decision in your case. You may demonstrate this by submitting a statement that cites the Acquiescence Ruling or the holding or portion of a circuit court decision which could change the prior determination or decision in your case. If you can so demonstrate, we will readjudicate the claim in accordance with the Acquiescence Ruling at the level at which it was last adjudicated. Any readjudication will be limited to consideration of the issue(s) covered by the Acquiescence Ruling and any new determination or decision on readjudication will be subject to administrative and judicial review in accordance with this subpart. Our denial of a request for readjudication will not be subject to further administrative or judicial review. If you file a request for readjudication within the 60-day appeal period and we deny that request, we shall extend the time to file an appeal on the merits of the claim to 60 days after the date that we deny the request for readjudication.
+
+(3) After we receive a precedential circuit court decision and determine that an Acquiescence Ruling may be required, we will begin to identify those claims that are pending before us within the circuit and that might be subject to readjudication if an Acquiescence Ruling is subsequently issued. When an Acquiescence Ruling is published, we will send a notice to those individuals whose cases we have identified which may be affected by the Acquiescence Ruling. The notice will provide information about the Acquiescence Ruling and the right to request readjudication under that Acquiescence Ruling, as described in paragraph (b)(2) of this section. It is not necessary for an individual to receive a notice in order to request application of an Acquiescence Ruling to his or her claim, as described in paragraph (b)(2) of this section.
+
+(c) *Relitigation of court's holding after publication of an Acquiescence Ruling.* After we have published an Acquiescence Ruling to reflect a holding of a United States Court of Appeals on an issue, we may decide under certain conditions to relitigate that issue within the same circuit. We may relitigate only when the conditions specified in paragraphs (c)(2) and (3) of this section are met, and, in general, one of the events specified in paragraph (c)(1) of this section occurs.
+
+(1) Activating events:
+
+(i) An action by both Houses of Congress indicates that a circuit court decision on which an Acquiescence Ruling was based was decided inconsistently with congressional intent, such as may be expressed in a joint resolution, an appropriations restriction, or enactment of legislation which affects a closely analogous body of law;
+
+(ii) A statement in a majority opinion of the same circuit indicates that the court might no longer follow its previous decision if a particular issue were presented again;
+
+(iii) Subsequent circuit court precedent in other circuits supports our interpretation of the Social Security Act or regulations on the issue(s) in question; or
+
+(iv) A subsequent Supreme Court decision presents a reasonable legal basis for questioning a circuit court holding upon which we base an Acquiescence Ruling.
+
+(2) The General Counsel of the Social Security Administration, after consulting with the Department of Justice, concurs that relitigation of an issue and application of our interpretation of the Social Security Act or regulations to selected claims in the administrative review process within the circuit would be appropriate.
+
+(3) We publish a notice in the Federal Register that we intend to relitigate an Acquiescence Ruling issue and that we will apply our interpretation of the Social Security Act or regulations within the circuit to claims in the administrative review process selected for relitigation. The notice will explain why we made this decision.
+
+(d) *Notice of relitigation.* When we decide to relitigate an issue, we will provide a notice explaining our action to all affected claimants. In adjudicating claims subject to relitigation, decisionmakers throughout the SSA administrative review process will apply our interpretation of the Social Security Act and regulations, but will also state in written determinations or decisions how the claims would have been decided under the circuit standard. Claims not subject to relitigation will continue to be decided under the Acquiescence Ruling in accordance with the circuit standard. So that affected claimants can be readily identified and any subsequent decision of the circuit court or the Supreme Court can be implemented quickly and efficiently, we will maintain a listing of all claimants who receive this notice and will provide them with the relief ordered by the court.
+
+(e) *Rescission of an Acquiescence Ruling.* We will rescind as obsolete an Acquiescence Ruling and apply our interpretation of the Social Security Act or regulations by publishing a notice in the Federal Register when any of the following events occurs:
+
+(1) The Supreme Court overrules or limits a circuit court holding that was the basis of an Acquiescence Ruling;
+
+(2) A circuit court overrules or limits itself on an issue that was the basis of an Acquiescence Ruling;
+
+(3) A Federal law is enacted that removes the basis for the holding in a decision of a circuit court that was the subject of an Acquiescence Ruling; or
+
+(4) We subsequently clarify, modify or revoke the regulation or ruling that was the subject of a circuit court holding that we determined conflicts with our interpretation of the Social Security Act or regulations, or we subsequently publish a new regulation(s) addressing an issue(s) not previously included in our regulations when that issue(s) was the subject of a circuit court holding that conflicted with our interpretation of the Social Security Act or regulations and that holding was not compelled by the statute or Constitution.
+
+[63 FR 24932, May 6, 1998]

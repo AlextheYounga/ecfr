@@ -1,0 +1,3 @@
+##### § 302.1 Introduction. #####
+
+This part sets forth the base year service and compensation required of an employee to qualify for benefits under the Railroad Unemployment Insurance Act with respect to a benefit year. Under the Act, only employees who satisfy the qualifying conditions of section 3 of the Act may be paid benefits. No provision is made for payment of dependents benefits for an employee's spouse or children. A qualified employee who claims benefits must demonstrate that he or she is eligible for benefits in accordance with the other provisions of the Act and this chapter. However, a qualified employee who is disqualified under any of the provisions of section 4 of the Act does not forfeit his or her status as a qualified employee.

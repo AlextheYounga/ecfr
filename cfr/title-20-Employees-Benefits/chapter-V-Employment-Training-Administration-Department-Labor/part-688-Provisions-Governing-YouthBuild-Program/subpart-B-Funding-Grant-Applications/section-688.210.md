@@ -1,0 +1,3 @@
+##### § 688.210 How does an eligible entity apply for grant funds to operate a YouthBuild program? #####
+
+The Secretary announces the availability of grant funds through a Funding Opportunity Announcement (FOA). The FOA contains instructions for what the Department requires in the grant application, describes eligibility requirements, the rating criteria that the Department will use in reviewing grant applications, and special reporting requirements to operate a YouthBuild project. The FOA, along with the requisite forms needed to apply for grant funds, can be found at*http://www.doleta.gov/grants/find\_grants.cfm**.*

@@ -1,0 +1,3 @@
+##### § 641.130 What is the scope of this part? #####
+
+The regulations in this part address the requirements that apply to the SCSEP. More detailed policies and procedures are contained in administrative guidelines issued by the Department. Throughout this part, phrases such as, “according to instructions (procedures) issued by the Department” or “additional guidance will be provided through administrative issuance” refer to the documents issued under the Secretary's authority to administer the SCSEP, such as Training and Employment Guidance Letters (TEGLs), Training and Employment Notices (TENs), previously issued SCSEP Older Worker Bulletins that are still in effect, technical assistance guides, and other SCSEP guidance.

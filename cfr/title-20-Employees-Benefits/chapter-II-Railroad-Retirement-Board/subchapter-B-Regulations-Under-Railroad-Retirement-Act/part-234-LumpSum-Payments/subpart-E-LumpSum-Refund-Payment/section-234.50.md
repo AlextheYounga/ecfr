@@ -1,0 +1,3 @@
+##### § 234.50 General. #####
+
+Under the 1974 Act, railroad employees with 10 or more years of railroad service, who are not entitled to a vested dual benefit payment, may be eligible for a lump-sum refund payment if they had concurrent railroad and social security earnings within the period 1951 through 1974. The combined earnings from the railroad retirement and social security systems in any of those years must exceed the maximums given in § 234.53. The lump-sum refund is payable to either the employee or the employee's survivors.

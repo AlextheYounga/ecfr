@@ -1,0 +1,3 @@
+##### § 10.626 Who has jurisdiction of cases on appeal to the ECAB? #####
+
+While a case is on appeal to the ECAB, OWCP has no jurisdiction over the claim with respect to issues which directly relate to the issue or issues on appeal. The OWCP continues to administer the claim and retains jurisdiction over issues unrelated to the issue or issues on appeal and issues which arise after the appeal as a result of ongoing administration of the case. Such issues would include, for example, the ability to terminate benefits where an individual returns to work while an appeal is pending at the ECAB. ECAB's rules of procedure are found at part 501 of this title.

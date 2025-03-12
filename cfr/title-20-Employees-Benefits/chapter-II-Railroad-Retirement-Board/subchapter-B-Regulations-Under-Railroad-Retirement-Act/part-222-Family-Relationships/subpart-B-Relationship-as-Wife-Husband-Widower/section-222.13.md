@@ -1,0 +1,3 @@
+##### § 222.13 Common-law marriage relationship. #####
+
+Under the laws of some States, a common-law marriage is one which is not solemnized in a formal ceremony, but is generally evidenced by a consummated agreement to marry between two persons legally capable of making a marriage contract, followed by cohabitation. The laws of the various States which recognize common-law marriage delineate specific factors which must be present in order to establish a valid common-law marriage in those States.

@@ -1,0 +1,3 @@
+##### § 355.44 Right to administrative offset. #####
+
+The amount of any penalty or assessment which has become final, or for which a judgment has been entered under § 355.42 or § 355.43, or any amount agreed upon in a compromise or settlement under § 355.46, may be collected by administrative offset under 31 U.S.C. 3716, except that an administrative offset may not be made under this subsection against a refund of an overpayment of Federal taxes, then or later owing by the United States to the defendant.

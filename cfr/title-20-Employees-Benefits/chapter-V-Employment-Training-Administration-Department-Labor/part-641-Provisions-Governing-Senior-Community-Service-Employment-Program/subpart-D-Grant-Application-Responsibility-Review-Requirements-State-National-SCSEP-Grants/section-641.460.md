@@ -1,0 +1,3 @@
+##### § 641.460 What factors will the Department consider in selecting national grantees? #####
+
+The Department will select national grantees from among applicants that are able to meet the eligibility and responsibility review criteria at § 514 of the OAA. (Section 641.420 contains the eligibility criteria and §§ 641.430 and 641.440 contain the responsibility criteria.) The Department also will take the rating criteria described in the Solicitation for Grant Applications or other instrument into consideration. These rating criteria will include relevant past performance.

@@ -1,0 +1,5 @@
+##### § 416.992 What happens if you fail to comply with our request for information. #####
+
+We will suspend your payments before we make a determination regarding your continued eligibility for disability payments if you fail to comply, without good cause (see § 416.1411), with our request for information for your continuing disability review or age-18 redetermination. The suspension is effective with the month in which it is determined in accordance with § 416.1322 that your eligibility for disability payments has ended due to your failure to comply with our request for necessary information. When we have received the information, we will reinstate your payments for any previous month for which they are otherwise payable, and continue with the CDR or age-18 redetermination process. We will terminate your eligibility for payments following 12 consecutive months of payment suspension as discussed in § 416.1335.
+
+[71 FR 60823, Oct. 17, 2006]

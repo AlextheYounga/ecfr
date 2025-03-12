@@ -1,0 +1,3 @@
+##### § 1002.134 What type of discharge or separation from service is required for an employee to be entitled to reemployment under USERRA? #####
+
+USERRA does not require any particular form of discharge or separation from service. However, even if the employee is otherwise eligible for reemployment, he or she will be disqualified if the characterization of service falls within one of four categories. USERRA requires that the employee not have received one of these types of discharge.

@@ -1,0 +1,7 @@
+##### § 702.136 Requests for information and assistance. #####
+
+(a) *General assistance.* The Director shall, upon request, provide persons covered by the Act with information and assistance relating to the Act's coverage and compensation and the procedures for obtaining such compensation including assistance in processing a claim.
+
+(b) *Legal assistance to claimants.* The Secretary may, upon request, provide a claimant with legal assistance in processing a claim under the Act. Such assistance may be made available to a claimant in the discretion of the Solicitor of Labor or his designee at any time prior to or during which the claim is being processed and shall be furnished without charge to the claimant. Legal representation of the claimant in adjudicatory proceedings may be furnished in cases in which the Secretary's interest in the case is not adverse to that of the claimant.
+
+(c) *Other assistance.* The district directors and their staff, as designees of the Director, shall promptly and fully comply with the request of a claimant receiving compensation for information about, and assistance in obtaining, medical, manpower, and vocational rehabilitation services (see also subparts D and E of this part).

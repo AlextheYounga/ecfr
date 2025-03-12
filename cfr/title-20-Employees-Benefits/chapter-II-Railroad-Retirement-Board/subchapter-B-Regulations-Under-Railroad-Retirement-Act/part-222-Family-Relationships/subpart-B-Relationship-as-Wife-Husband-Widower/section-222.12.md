@@ -1,0 +1,3 @@
+##### § 222.12 Ceremonial marriage relationship. #####
+
+A valid ceremonial marriage is one which would be recognized as valid by the courts of the State in which the marriage ceremony took place. Generally, State law provides various procedures which must be followed, such as designation of who may perform the marriage ceremony, what licenses or witnesses are required, and similar rules. A ceremonial marriage may be a civil or religious ceremony, or a ceremony which follows tribal customs, Chinese customs, or similar traditional procedures.

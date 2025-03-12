@@ -1,0 +1,5 @@
+##### § 603.11 How do States notify claimants and employers about the uses of their information? #####
+
+(a) *Claimants.* Every claimant for compensation must be notified, at the time of application, and periodically thereafter, that confidential UC information pertaining to the claimant may be requested and utilized for other governmental purposes, including, but not limited to, verification of eligibility under other government programs. Notice on or attached to subsequent additional claims will satisfy the requirement for periodic notice thereafter.
+
+(b) *Employers.* Every employer subject to a State's law must be notified that wage information and other confidential UC information may be requested and utilized for other governmental purposes, including, but not limited to, verification of an individual's eligibility for other government programs.

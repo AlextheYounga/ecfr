@@ -1,0 +1,3 @@
+##### § 725.210 Duration of augmented benefits. #####
+
+Augmented benefits payable on behalf of a spouse or divorced spouse, or a child, shall begin with the first month in which the dependent satisfies the conditions of relationship and dependency set forth in this subpart. Augmentation of benefits on account of a dependent continues through the month before the month in which the dependent ceases to satisfy these conditions, except in the case of a child who qualifies as a dependent because such child is a student. In the latter case, benefits continue to be augmented through the month before the first month during no part of which such child qualifies as a student.

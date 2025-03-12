@@ -1,0 +1,3 @@
+##### § 401.130 Freedom of Information Act. #####
+
+The FOIA requires us to disclose any information in our records upon request from the public, unless one of several exemptions in the FOIA applies. When the FOIA requires disclosure (see part 402 of this chapter), the Privacy Act permits it. *The public* does not include Federal agencies, courts, or the Congress, but does include State agencies, individuals, corporations, and most other parties. The FOIA does not apply to requests that are not from *the public* (e.g., from a Federal agency). However, we apply FOIA principles to requests from these other sources for disclosure of program information.

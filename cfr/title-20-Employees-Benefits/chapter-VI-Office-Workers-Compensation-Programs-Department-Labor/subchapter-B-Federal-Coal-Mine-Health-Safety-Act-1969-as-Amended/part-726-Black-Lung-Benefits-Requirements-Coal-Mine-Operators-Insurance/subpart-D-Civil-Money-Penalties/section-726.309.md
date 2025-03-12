@@ -1,0 +1,7 @@
+##### § 726.309 Referral to the Office of Administrative Law Judges. #####
+
+(a) Upon receipt of a timely notice of contest filed in accordance with § 726.307, the Director, by the Associate Solicitor for Black Lung Benefits or the Regional Solicitor for the Region in which the violation occurred, may file a complaint with the Office of Administrative Law Judges. The Director may, in the complaint, reduce the total penalty amount requested. A copy of the notice of initial assessment issued by the Director and all notices of contest filed in accordance with § 726.307 shall be attached. A notice of contest shall be given the effect of an answer to the complaint for purposes of the administrative proceeding, subject to any amendment that may be permitted under this subpart and 29 CFR part 18.
+
+(b) A copy of the complaint and attachments thereto shall be served by counsel for the Director on the person who filed the notice of contest.
+
+(c) The Director, by counsel, may withdraw a complaint filed under this section at any time prior to the date upon which the decision of the Department becomes final by filing a motion with the Office of Administrative Law Judges or the Secretary, as appropriate. If the Director makes such a motion prior to the date on which an administrative law judge renders a decision in accordance § 726.313, the dismissal shall be without prejudice to further assessment against the operator for the period in question.

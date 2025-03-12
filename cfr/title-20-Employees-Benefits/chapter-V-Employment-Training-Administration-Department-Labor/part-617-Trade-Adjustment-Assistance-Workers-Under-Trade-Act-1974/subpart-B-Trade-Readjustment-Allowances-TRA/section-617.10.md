@@ -1,0 +1,11 @@
+##### § 617.10 Applications for TRA. #####
+
+(a) *Before and after certification.* An individual covered under a certification or a petition for certification may apply to a State agency for TRA. A determination shall be made at any time to the extent necessary to establish or protect an individual's entitlement to TRA or other TAA, but no payment of TRA or other TAA may be made by a State agency until a certification is made and the State agency determines that the individual is covered thereunder.
+
+(b) *Timing of applications.* An initial application for TRA, and applications for TRA for weeks of unemployment beginning before the initial application for TRA is filed, may be filed within a reasonable period of time after publication of the determination certifying the appropriate group of workers under section 223 of the Act. However, an application for TRA for a week of unemployment beginning after the initial application is filed shall be filed within the time limit applicable to claims for regular compensation under the applicable State law. For purposes of this paragraph (b), a reasonable period of time means such period of time as the individual had good cause for not filing earlier, which shall include, but not be limited to, the individual's lack of knowledge of the certification or misinformation supplied the individual by the State agency.
+
+(c) *Applicable procedures.* Applications shall be filed in accordance with this subpart B and on forms which shall be furnished to individuals by the State agency. The procedures for reporting and filing applications for TRA shall be consistent with this part 617 and the Secretary's “Standard for Claim Filing, Claimant Reporting, Job Finding and Employment Services”, *Employment Security Manual,* part V, sections 5000 *et seq.* (Appendix A of this part).
+
+(d) *Advising workers to apply for training.* State agencies shall advise each worker of the qualifying requirements for entitlement to TRA and other TAA benefits at the time the worker files an initial claim for State UI, and shall advise each adversely affected worker to apply for training under subpart C of this part before, or at the same time, the worker applies for TRA, as required by § 617.4(e)(1) and (3).
+
+[51 FR 45848, Dec. 22, 1986, as amended at 59 FR 928, 943, Jan. 6, 1994]

@@ -1,0 +1,3 @@
+##### § 101.91 Official transcript. #####
+
+The Department will designate the official reporter for all hearings. The official transcripts of testimony taken, together with any exhibits, briefs, or memoranda of law filed therewith shall be filed with the Department. Transcripts of testimony in hearings may be obtained from the official reporter by the parties and the public at rates not to exceed the maximum rates fixed by the contract between the Department and the reporter. Upon notice to all parties, the presiding officer may authorize corrections to the transcript which involve matters of substance.

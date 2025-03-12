@@ -1,0 +1,5 @@
+##### § 404.1519 The consultative examination. #####
+
+A consultative examination is a physical or mental examination or test purchased for you at our request and expense from a treating source or another medical source, including a pediatrician when appropriate. The decision to purchase a consultative examination will be made on an individual case basis in accordance with the provisions of §§ 404.1519a through 404.1519f. Selection of the source for the examination will be consistent with the provisions of § 404.1503a and §§ 404.1519g through 404.1519j. The rules and procedures for requesting consultative examinations set forth in §§ 404.1519a and 404.1519b are applicable at the reconsideration and hearing levels of review, as well as the initial level of determination.
+
+[56 FR 36956, Aug. 1, 1991, as amended at 65 FR 11875, Mar. 7, 2000]

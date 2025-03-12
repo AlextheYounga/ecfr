@@ -1,0 +1,3 @@
+##### § 404.1320 Who is a post-World War II veteran. #####
+
+You are a post-World War II veteran if you were in the active service of the United States during the post-World War II period and, if no longer in active service, you were separated from the service under conditions other than dishonorable after at least 90 days of active service. The 90-day active service requirement is discussed in § 404.1321.

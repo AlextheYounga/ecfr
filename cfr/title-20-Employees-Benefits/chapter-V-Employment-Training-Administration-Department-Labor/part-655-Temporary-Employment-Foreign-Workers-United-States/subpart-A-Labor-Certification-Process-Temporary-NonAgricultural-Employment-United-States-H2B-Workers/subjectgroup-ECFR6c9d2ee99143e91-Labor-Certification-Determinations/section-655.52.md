@@ -1,0 +1,3 @@
+##### § 655.52 Approved certification. #####
+
+If a temporary labor certification is granted, the CO will send the approved *Application for Temporary Employment Certification* and a Final Determination letter to the employer by means normally assuring next day delivery, including electronic mail, and a copy, if applicable, to the employer's attorney or agent. If the *Application for Temporary Employment Certification* is electronically filed, the employer must sign the certified *Application for Temporary Employment Certification* as directed by the CO. The employer must retain a signed copy of the *Application for Temporary Employment Certification* and the original signed Appendix B of the Application, as required by § 655.56.

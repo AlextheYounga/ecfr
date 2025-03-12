@@ -1,0 +1,3 @@
+##### § 10.412 Will OWCP pay the costs of burial and transportation of the remains? #####
+
+In a case accepted for death benefits, OWCP will pay up to $800 for funeral and burial expenses. When an employee's home is within the United States and the employee dies outside the United States, or away from home or the official duty station, an additional amount may be paid for transporting the remains to the employee's home as set forth in 5 U.S.C. 8134. An additional amount of $200 is paid to the personal representative of the decedent for reimbursement of the costs of terminating the decedent's status as an employee of the United States in accordance with 5 U.S.C. 8133.

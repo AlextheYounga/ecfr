@@ -1,0 +1,5 @@
+##### § 10.117 What happens if, in any claim, the employer contests any of the facts as stated by the claimant? #####
+
+(a) An employer who has reason to disagree with any aspect of the claimant's report shall submit a statement to OWCP that specifically describes the factual allegation or argument with which it disagrees and provide evidence or argument to support its position. The employer may include supporting documents such as witness statements, medical reports or records, or any other relevant information.
+
+(b) Any such statement shall be submitted to OWCP with the notice of traumatic injury or death, or within 30 calendar days from the date notice of occupational disease or death is received from the claimant. If the employer does not submit a written explanation to support the disagreement, OWCP may accept the claimant's report of injury as established. The employer may not use a disagreement with an aspect of the claimant's report to delay forwarding the claim to OWCP or to compel or induce the claimant to change or withdraw the claim.

@@ -1,0 +1,3 @@
+##### § 404.1281 Credits or refunds for periods of time during which no liability exists—for wages paid prior to 1987. #####
+
+If a State pays contributions for any period of time for which contributions are not due, but the State is liable for contributions for another period, we credit the amount paid against the amount of contributions for which the State is liable. We refund any balance to the State.

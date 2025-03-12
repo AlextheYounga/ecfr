@@ -1,0 +1,3 @@
+##### § 670.545 How does Job Corps ensure that students receive due process in disciplinary actions? #####
+
+The center operator must ensure that all students receive due process in disciplinary proceedings according to procedures developed by the Secretary. These procedures must include, at a minimum, center fact-finding and behavior review boards, a code of sanctions under which the penalty of separation from Job Corps might be imposed, and procedures for students to appeal a center's decision to discharge them involuntarily from Job Corps to a regional appeal board.

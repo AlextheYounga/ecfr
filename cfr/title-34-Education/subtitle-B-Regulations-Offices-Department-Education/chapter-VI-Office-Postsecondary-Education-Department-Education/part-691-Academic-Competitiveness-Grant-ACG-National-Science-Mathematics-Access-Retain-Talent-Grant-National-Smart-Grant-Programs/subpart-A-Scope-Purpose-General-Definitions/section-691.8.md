@@ -1,0 +1,31 @@
+##### § 691.8 Enrollment status for students taking regular and correspondence courses. #####
+
+(a) If, in addition to regular coursework, a student takes correspondence courses from either his or her own institution or another institution having an agreement for this purpose with the student's institution, the correspondence work may be included in determining the student's enrollment status to the extent permitted under paragraph (b) of this section.
+
+(b) Except as noted in paragraph (c) of this section, the correspondence work that may be included in determining a student's enrollment status is that amount of work that -
+
+(1) Applies toward a student's degree or certificate or is remedial work taken by the student to help in his or her eligible program;
+
+(2) Is completed within the period of time required for regular coursework; and
+
+(3) Does not exceed the amount of a student's regular coursework for the payment period for which the student's enrollment status is being calculated.
+
+(c)(1) Notwithstanding the limitation in paragraph (b)(3) of this section, a student who would be a half-time student based solely on his or her correspondence work is considered a half-time student unless the calculation in paragraph (b) of this section produces an enrollment status greater than half-time.
+
+(2) A student who would be a less-than-half-time student based solely on his or her correspondence work or based on a combination of his or her correspondence work and regular coursework is considered a less-than-half-time student and is ineligible for an ACG or a National SMART Grant.
+
+(d) The following chart provides examples of the application of the regulations set forth in this section. It assumes that the institution of higher education defines full-time enrollment as 12 credits per term, making half-time enrollment equal to six credits per term.
+
+|Under § 691.8 |Number of credit hours regular work|Number of credit hours  <br/>correspondence|Total course load in credit hours to determine enrollment status| Enrollment status  |
+|--------------|-----------------------------------|-------------------------------------------|----------------------------------------------------------------|--------------------|
+|    (b)(3)    |                 3                 |                     3                     |                               6                                |     Half-time.     |
+|    (b)(3)    |                 3                 |                     6                     |                               6                                |     Half-time.     |
+|    (b)(3)    |                 3                 |                     9                     |                               6                                |     Half-time.     |
+|    (b)(3)    |                 6                 |                     3                     |                               9                                |Three-quarter-time. |
+|    (b)(3)    |                 6                 |                     6                     |                               12                               |     Full-time.     |
+|(b)(3) and (c)|                 2                 |                     6                     |                               6                                |     Half-time.     |
+|    (c) \*    |                                   |                                           |                                                                |Less-than-half-time.|
+
+\* Any combination of regular and correspondence work that is greater than zero, but less than six hours. A less-than-half-time student would be ineligible for an ACG or a National SMART Grant.
+
+(Authority: 20 U.S.C. 1070a-1)[71 FR 38004, July 3, 2006, as amended at 72 FR 62034, Nov. 1, 2007; 74 FR 20222, May 1, 2009]

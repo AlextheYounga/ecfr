@@ -1,0 +1,3 @@
+##### § 402.70 Reasons for withholding some records. #####
+
+Section 552(b) of the Freedom of Information Act contains nine exemptions to the mandatory disclosure of records. We describe these exemptions in §§ 402.75 through 402.110 of this part and explain how we apply them to disclosure determinations. (In some cases more than one exemption may apply to the same document.) Information obtained by the agency from any individual or organization, furnished in reliance on a provision for confidentiality authorized by applicable statute or regulation, will not be disclosed, to the extent it can be withheld under one of these exemptions. This section does not itself authorize the giving of any pledge of confidentiality by any officer or employee of the agency.

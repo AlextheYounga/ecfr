@@ -1,0 +1,7 @@
+##### § 702.372 Supplementary compensation orders. #####
+
+(a) In any case in which the employer or insurance carrier is in default in the payment of compensation due under any award of compensation, for a period of 30 days after the compensation is due and payable, the person to whom such compensation is payable may, within 1 year after such default, apply in writing to the district director for a supplementary compensation order declaring the amount of the default. Upon receipt of such application, the district director will institute proceedings with respect to such application as if such application were an original claim for compensation, and the matter will be disposed of as provided for in § 702.315, or if agreement on the issue is not reached, then as in §§ 702.316 through 702.319.
+
+(b) If, after disposition of the application as provided for in paragraph (a) of this section, a supplementary compensation order is entered declaring the amount of the default, which amount may be the whole of the award notwithstanding that only one or more installments is in default, a copy of such supplementary order must be filed and served in accordance with § 702.349. Thereafter, the applicant may obtain and file with the clerk of the Federal district court for the judicial district where the injury occurred or the district in which the employer has his principal place of business or maintains an office, a certified copy of said order and may seek enforcement thereof as provided for by section 18 of the Act, 33 U.S.C. 918.
+
+[80 FR 12932, Mar. 12, 2015]

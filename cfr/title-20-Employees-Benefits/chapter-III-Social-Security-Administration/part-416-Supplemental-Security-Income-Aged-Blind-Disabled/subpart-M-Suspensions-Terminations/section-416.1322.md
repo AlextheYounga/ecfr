@@ -1,0 +1,7 @@
+##### § 416.1322 Suspension due to failure to comply with request for information. #####
+
+(a) Suspension of benefit payments is required effective with the month following the month in which it is determined in accordance with § 416.714(b) that the individual is ineligible for payment due to his or her failure to comply with our request for necessary information. When we have information to establish that benefit payments are again payable, the benefit payments will be reinstated for any previous month for which the individual continued to meet the eligibility requirements of § 416.202. If the reason that an individual's benefits were suspended was failure to comply with our request for information, the payments for the months that benefits are reinstated will not be prorated under § 416.421.
+
+(b) A suspension of payment for failure to comply with our request for information will not apply with respect to any month for which a determination as to eligibility for or amount of payment can be made based on information on record, whether or not furnished by an individual specified in § 416.704(a). Where it is determined that the information of record does not permit a determination with respect to eligibility for or amount of payment, notice of a suspension of payment due to a recipient's failure to comply with a request for information will be sent in accordance with §§ 416.1336 and 416.1404.
+
+[51 FR 13494, Apr. 21, 1986]

@@ -1,0 +1,3 @@
+##### § 225.58 Waiver of recomputation. #####
+
+If the employee or the employee's family are disadvantaged in any way by a recomputation of a PIA to consider additional earnings, a request can be made to waive or give up the right to the recomputation. Such a request must be in writing and be made by every entitled family member. A request for waiver of a recomputation applies only to that recomputation for which the request is made.

@@ -1,0 +1,3 @@
+##### § 725.546 Relation to provisions for reductions or increases. #####
+
+The amount of an overpayment or an underpayment is the difference between the amount to which the beneficiary was actually entitled and the amount paid. Overpayment and underpayment simultaneously outstanding against the same beneficiary shall first be adjusted against one another before adjustment pursuant to the other provisions of this subpart.

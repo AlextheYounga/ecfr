@@ -1,0 +1,3 @@
+##### § 30.806 May a claimant submit factual evidence in support of a different determination of average annual wage and/or wage-loss than that found by OWCP? #####
+
+A claimant who disagrees with the evidence OWCP has obtained under § 30.805(a) and alleges a different average annual wage for the covered Part E employee, or that there was a greater duration or extent of wage-loss, may submit records that were produced in the ordinary course of business due to the employee's employment to rebut that evidence, to the extent that such records are determined to be authentic by OWCP by a preponderance of the evidence. The average annual wage and/or wage-loss of the covered Part E employee will then be determined by OWCP in the exercise of its discretion.

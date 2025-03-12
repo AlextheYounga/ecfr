@@ -1,0 +1,3 @@
+##### § 222.4 Homicide of employee. #####
+
+No person convicted of the felonious and intentional homicide of an employee can be entitled to an annuity or lump-sum payment based on the employee's earnings record (service and compensation). Further, the convicted person is considered not to exist in deciding the rights of other persons to annuity or lump-sum payments. A minor may be denied a survivor annuity or lump-sum payment on the earnings record of a parent if the minor was convicted of intentionally causing the parent's death by an act which would be considered a felony if committed by an adult.

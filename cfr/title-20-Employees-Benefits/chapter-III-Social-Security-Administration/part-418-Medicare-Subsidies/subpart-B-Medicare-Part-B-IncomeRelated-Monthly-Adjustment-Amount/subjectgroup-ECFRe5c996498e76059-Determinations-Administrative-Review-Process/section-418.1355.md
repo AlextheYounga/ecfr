@@ -1,0 +1,3 @@
+##### § 418.1355 What are the rules for reopening a decision by an administrative law judge of the Office of Medicare Hearings and Appeals (OMHA) or by the Medicare Appeals Council (MAC)? #####
+
+The rules in 42 CFR 405.980 through 405.986 govern reopenings of decisions by an administrative law judge of the OMHA and decisions by the MAC. A decision by an administrative law judge of the OMHA may be reopened by the administrative law judge or by the MAC. A decision by the MAC may be reopened only by the MAC.

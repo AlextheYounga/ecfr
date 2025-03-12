@@ -1,0 +1,3 @@
+##### § 402.10 Policy. #####
+
+As a general policy, SSA follows a balanced approach in administering FOIA. We not only recognize the right of public access to information in the possession of SSA, but also protect the integrity of internal processes. In addition, we recognize the legitimate interests of organizations or persons who have submitted records to SSA or who would otherwise be affected by release of records. For example, we have no discretion to release certain records, such as trade secrets and confidential commercial information, prohibited from release by law. This policy calls for the fullest responsible disclosure consistent with those requirements of administrative necessity and confidentiality which are recognized in the FOIA.

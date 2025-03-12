@@ -1,0 +1,3 @@
+##### § 202.4 Control. #####
+
+A company or person is controlled by one or more carriers, whenever there exists in one or more such carriers the right or power by any means, method or circumstance, irrespective of stock ownership to direct, either directly or indirectly, the policies and business of such a company or person and in any case in which a carrier is in fact exercising direction of the policies and business of such a company or person.

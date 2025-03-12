@@ -1,0 +1,13 @@
+##### § 404.434 Excess earnings; method of charging. #####
+
+(a) *Months charged.* If you have not yet reached your year of full retirement age, and if your estimated earnings for a year result in estimated excess earnings (as described in § 404.430), we will charge these excess earnings to your full benefit each month from the beginning of the year, until all of the estimated excess earnings have been charged. Excess earnings, however, are not charged to any month described in §§ 404.435 and 404.436.
+
+(b) *Amount of excess earnings charged*—(1) *Insured individual's excess earnings.* For each $1 of your excess earnings we will decrease by $1 the benefits to which you and all others are entitled (or deemed entitled—see § 404.420) on your earnings record. (See § 404.439 where the excess earnings for a month are less than the total benefits payable for that month.) (See 404.415(b) for the effect on divorced wife's and divorced husband's benefits.)
+
+(2) *Excess earnings of beneficiary other than insured individual.* We will charge a beneficiary, other than the insured, $1 for each $1 of the beneficiary's excess earnings (see § 404.437). These excess earnings, however, are charged only against that beneficiary's own benefits.
+
+(3) *You, the insured individual, and a person entitled (or deemed entitled) on your earnings record both have excess earnings.* If both you and a person entitled (or deemed entitled) on your earnings record have excess earnings (as described in § 404.430), your excess earnings are charged first against the total family benefits payable (or deemed payable) on your earnings record, as described in paragraph (b)(1) of this section. Next, the excess earnings of a person entitled on your earnings record are charged against his or her own benefits remaining after part of your excess earnings have been charged against his/her benefits (because of the reduction in the total family benefits payable). See § 404.441 for an example of this process and the manner in which partial monthly benefits are apportioned.
+
+(c) *Earnings test applicability.* Public Law 106-182 eliminated the Social Security earnings test, beginning with the month in which a person attains full retirement age (as defined in § 404.409(a)), for taxable years after 1999. In the year that you reach full retirement age, the annual earnings test amount is applied to the earnings amounts of the months that precede your month of full retirement age. (See § 404.430). The reduction rate for these months is $1 of benefits for every $3 you earned above the earnings limit in these months. The earnings threshold amount will be increased in conjunction with increases in average wages.
+
+[70 FR 28813, May 19, 2005]

@@ -1,0 +1,9 @@
+##### § 408.234 Can you continue to receive SVB payments if you stay in the United States for more than 1 full calendar month? #####
+
+(a) *When we will consider your foreign residence to continue.* We will continue to consider you to be a foreign resident and will continue to pay you SVB payments even if you have been in the United States for more than 1 full calendar month if you—
+
+(1) Made a good faith effort to return to your home abroad within that 1-month period but were prevented from doing so by circumstances beyond your control (e.g., sickness, a death in the family, a transportation strike, etc.); or
+
+(2) Are exercising your option to be personally present in the United States to present testimony and other evidence in the appeal of an SSA decision on a claim filed under any SSA-administered program. This extension applies only as long as you are participating in activities where you are providing testimony and other evidence in connection with a determination or decision at a specific level of the appeals process (e.g., a hearing before an administrative law judge).
+
+(b) *When you must return to your home abroad.* When the circumstance/event that was the basis for the continuation of your SVB payments ceases to exist, you must return to your home abroad within 1 full calendar month. If you do not return to your home abroad within this 1-calendar-month period, we will consider you to have lost or abandoned your foreign resident status for SVB purposes and we will stop your SVB payments with the first day of the month following the first full calendar month you remain in the United States.

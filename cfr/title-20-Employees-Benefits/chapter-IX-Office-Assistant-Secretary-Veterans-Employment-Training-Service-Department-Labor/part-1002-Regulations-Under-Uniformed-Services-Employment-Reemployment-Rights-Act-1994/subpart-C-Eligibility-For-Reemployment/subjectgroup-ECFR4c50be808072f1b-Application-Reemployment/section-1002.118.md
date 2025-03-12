@@ -1,0 +1,3 @@
+##### § 1002.118 Is an application for reemployment required to be in any particular form? #####
+
+An application for reemployment need not follow any particular format. The employee may apply orally or in writing. The application should indicate that the employee is a former employee returning from service in the uniformed services and that he or she seeks reemployment with the pre-service employer. The employee is permitted but not required to identify a particular reemployment position in which he or she is interested.

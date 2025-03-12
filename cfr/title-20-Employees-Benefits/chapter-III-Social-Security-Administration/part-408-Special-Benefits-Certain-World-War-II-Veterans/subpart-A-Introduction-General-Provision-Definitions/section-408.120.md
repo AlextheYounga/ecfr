@@ -1,0 +1,3 @@
+##### § 408.120 Periods of limitations ending on Federal nonworkdays. #####
+
+Title VIII of the Act and the regulations in this part require you to take certain actions within specified time periods or you may lose your right to a portion or all of your benefits. If any such period ends on a Saturday, Sunday, Federal legal holiday, or any other day all or part of which is declared to be a nonworkday for Federal employees by statute or Executive Order, you will have until the next Federal workday to take the prescribed action.

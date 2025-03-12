@@ -1,0 +1,3 @@
+##### § 609.12 Inviolate rights to UCFE. #####
+
+Except as specifically provided in this part, the rights of individuals to UCFE shall be protected in the same manner and to the same extent as the rights of persons to State unemployment compensation are protected under the applicable State law. Such measures shall include protection of applicants for UCFE from waiver, release, assignment, pledge, encumbrance, levy, execution, attachment, and garnishment of their rights to UCFE, except as provided in § 609.11. In the same manner and to the same extent, individuals shall be protected from discrimination and obstruction in regard to seeking, applying for, and receiving any right to UCFE.

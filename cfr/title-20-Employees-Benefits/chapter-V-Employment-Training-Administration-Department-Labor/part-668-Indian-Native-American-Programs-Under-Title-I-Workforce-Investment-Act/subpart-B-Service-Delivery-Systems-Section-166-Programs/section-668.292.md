@@ -1,0 +1,3 @@
+##### § 668.292 How does a designated entity become an INA grantee? #####
+
+A designated entity becomes a grantee on the effective date of an executed grant agreement, signed by the authorized official of the grantee organization and the Grant Officer. The grant agreement includes a set of certifications and assurances that the grantee will comply with the terms of the Act, the WIA regulations, and other appropriate requirements. Funds are released to the grantee upon approval of the required planning documents, as described in §§ 668.710 through 668.740.

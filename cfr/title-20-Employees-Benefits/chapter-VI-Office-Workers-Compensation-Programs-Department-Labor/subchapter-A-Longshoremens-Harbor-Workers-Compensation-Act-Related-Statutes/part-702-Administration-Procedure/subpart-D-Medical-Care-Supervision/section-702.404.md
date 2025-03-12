@@ -1,0 +1,5 @@
+##### § 702.404 Physician defined. #####
+
+The term *physician* includes doctors of medicine (MD), surgeons, podiatrists, dentists, clinical psychologists, optometrists, chiropractors, and osteopathic practitioners within the scope of their practice as defined by State law. The term includes chiropractors only to the extent that their reimbursable services are limited to treatment consisting of manual manipulation of the spine to correct a subluxation shown by X-ray or clinical findings. Physicians defined in this part may interpret their own X-rays. All physicians in these categories are authorized by the Director to render medical care under the Act. Naturopaths, faith healers, and other practitioners of the healing arts which are not listed herein are not included within the term “physician” as used in this part.
+
+[42 FR 45303, Sept. 9, 1977]

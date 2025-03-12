@@ -1,0 +1,3 @@
+##### § 402.80 Exemption two for withholding records: Internal personnel rules and practices. #####
+
+We are not required to release records that are “related solely to the internal personnel rules and practices of an agency.” Under this exemption, we may withhold routine internal agency practices and procedures. For example, we may withhold guard schedules and rules governing parking facilities or lunch periods. Also under this exemption, we may withhold internal records whose release would help some persons circumvent the law or agency regulations. For example, we ordinarily do not disclose manuals that instruct our investigators or auditors how to investigate possible violations of law, to the extent that this release would help some persons circumvent the law.

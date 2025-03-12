@@ -1,0 +1,5 @@
+##### § 801.202 Interim appointments. #####
+
+(a) *Acting Chairman.* In the event that the Chairman of the Board is temporarily disabled or unavailable to perform his or her duties as prescribed in this chapter VII, he or she shall designate a permanent member to serve as Acting Chairman until such time as the Secretary designates an Acting Chairman. In the event that the Chairman is physically unable to make such designation, the next senior permanent member shall serve as Acting Chairman until such time as the Secretary of Labor designates an Acting Chairman.
+
+(b) *Interim members.* In the event that a permanent member of the Board is temporarily unable to carry out his or her responsibilities because of disqualification, illness, or for any other reason, the Secretary of Labor may, in his or her discretion, appoint a qualified individual to serve in the place of such permanent member for the duration of that permanent member's inability to serve.

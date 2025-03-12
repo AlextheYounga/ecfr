@@ -1,0 +1,3 @@
+##### § 255.6 Recovery by setoff. #####
+
+An overpayment may be recovered by setoff from any subsequent payment determined to be payable under any statute administered by the Board to the individual who received the overpayment. An overpayment may be recovered from someone other than the overpaid individual by setoff from a subsequent payment determined to be payable to that other individual on the basis of the same record of compensation as that of the overpaid individual.

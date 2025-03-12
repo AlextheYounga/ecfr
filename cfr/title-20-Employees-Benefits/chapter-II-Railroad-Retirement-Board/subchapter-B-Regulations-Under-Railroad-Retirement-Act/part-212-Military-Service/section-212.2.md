@@ -1,0 +1,3 @@
+##### § 212.2 Military service defined. #####
+
+Military service is the performance of active service by an individual in the armed forces of the United States. An individual is considered to be in active military service when commissioned or enrolled in the land, naval or air forces of the United States until resignation or discharge therefrom. The service of an individual in any reserve component of the land, naval or air forces of the United States, during any period in which ordered to active duty, even though less than thirty days, is also considered active service. However, service in the Army Specialist Corps and the Merchant Marine is not creditable under the Railroad Retirement Act.

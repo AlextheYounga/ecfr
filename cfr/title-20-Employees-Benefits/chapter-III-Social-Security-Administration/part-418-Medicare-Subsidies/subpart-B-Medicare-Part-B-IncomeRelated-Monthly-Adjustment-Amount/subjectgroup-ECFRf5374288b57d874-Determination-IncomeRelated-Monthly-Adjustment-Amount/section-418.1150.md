@@ -1,0 +1,3 @@
+##### § 418.1150 When will we use your amended tax return filed with IRS? #####
+
+You may provide your amended tax return for a tax year we used within 3 calendar years following the close of the tax year for which you filed the amended tax return. You must provide us with your retained copy of your amended U.S. Individual Income Tax Return on the required IRS form and a copy of the IRS letter confirming the amended tax return was filed or a transcript from IRS if they did not send a letter. If you cannot provide your retained copy of the amended tax return, you must obtain a copy of the return from IRS. We will then make any necessary retroactive corrections as defined in § 418.1110(c) to your income-related monthly adjustment amount.

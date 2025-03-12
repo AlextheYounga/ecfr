@@ -1,0 +1,3 @@
+##### § 418.1305 What is not an initial determination regarding your income-related monthly adjustment amount? #####
+
+Administrative actions that are not initial determinations may be reviewed by us, but they are not subject to the administrative review process as provided by §§ 418.1320 through 418.1325 and §§ 418.1340 through 418.1355, and they are not subject to judicial review. These actions include, but are not limited to, our dismissal of a request for reconsideration as described in § 418.1330 and our dismissal of a request for a new initial determination as described in § 418.1310(d).

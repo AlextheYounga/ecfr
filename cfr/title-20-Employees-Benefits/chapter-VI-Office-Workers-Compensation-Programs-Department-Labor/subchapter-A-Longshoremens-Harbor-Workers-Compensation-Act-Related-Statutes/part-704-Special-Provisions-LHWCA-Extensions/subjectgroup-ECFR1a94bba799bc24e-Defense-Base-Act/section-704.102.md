@@ -1,0 +1,3 @@
+##### § 704.102 Commutation of payments to aliens and nonresidents. #####
+
+Authority to commute payments to aliens and nonnationals who are not residents of the United States and Canada, section 2(b) of the Defense Base Act, 42 U.S.C. 1652(b), though separately stated in this Act, is identical in language to section 9(g) of the Longshoremen's Act. Thus, except for the different statutory citation, the LHWCA regulation at § 702.142 of this subchapter shall apply.

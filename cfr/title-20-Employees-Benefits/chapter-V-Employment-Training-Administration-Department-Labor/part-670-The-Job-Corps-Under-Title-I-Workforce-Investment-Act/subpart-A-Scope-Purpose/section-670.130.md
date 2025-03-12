@@ -1,0 +1,3 @@
+##### § 670.130 What is the role of the Job Corps Director? #####
+
+The Job Corps Director has been delegated the authority to carry out the responsibilities of the Secretary under Subtitle I-C of the Act. Where the term “Secretary” is used in this part 670 to refer to establishment or issuance of guidelines and standards directly relating to the operation of the Job Corps program, the Job Corps Director has that responsibility.

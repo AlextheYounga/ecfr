@@ -1,0 +1,5 @@
+##### § 669.500 What performance measures and standards apply to the NFJP? #####
+
+(a) The NFJP will use the core indicators of performance common to the adult and youth programs, described in 20 CFR part 666. The levels of performance for the farmworker indicators will be established in a negotiation between the Department and the grantee. The levels must take into account the characteristics of the population to be served and the economic conditions in the service area. Proposed levels of performance must be included in the grantee plan submission, and the agreed-upon levels must be included in the approved plan.
+
+(b) We may develop additional performance indicators with appropriate levels of performance for evaluating programs that serve farmworkers and which reflect the State service area economy and local demographics of eligible MSFW's. The levels of performance for these additional indicators must be negotiated with the grantee and included in the approved plan.

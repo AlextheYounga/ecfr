@@ -1,0 +1,3 @@
+##### § 662.260 What services, in addition to the applicable core services, are to be provided by One-Stop partners through the One-Stop delivery system? #####
+
+In addition to the provision of core services, One-Stop partners must provide access to the other activities and programs carried out under the partner's authorizing laws. The access to these services must be described in the local MOU. 20 CFR part 663 describes the specific requirements relating to the provision of core, intensive, and training services through the One-Stop system that apply to the adult and the dislocated worker programs authorized under title I of WIA. Additional requirements apply to the provision of all labor exchange services under the Wagner-Peyser Act. (WIA sec. 134(c)(1)(D).)

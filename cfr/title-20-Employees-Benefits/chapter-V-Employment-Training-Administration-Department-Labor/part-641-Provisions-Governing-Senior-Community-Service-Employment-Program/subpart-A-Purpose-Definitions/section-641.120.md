@@ -1,0 +1,3 @@
+##### § 641.120 What are the purposes of the SCSEP? #####
+
+The purposes of the SCSEP are to foster individual economic self-sufficiency and promote useful part-time opportunities in community service assignments for unemployed low-income persons who are 55 years of age or older, particularly persons who have poor employment prospects, and to increase the number of older persons who may enjoy the benefits of unsubsidized employment in both the public and private sectors. (OAA § 502(a)(1)).

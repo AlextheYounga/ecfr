@@ -1,0 +1,5 @@
+##### § 10.705 When must an employee or other FECA beneficiary take action against a third party? #####
+
+(a) If an injury or death for which benefits are payable under the FECA is caused, wholly or partially, by someone other than a Federal employee acting within the scope of his or her employment, the claimant can be required to take action against that third party.
+
+(b) The Office of the Solicitor of Labor (SOL) is hereby delegated authority to administer the subrogation aspects of certain FECA claims for OWCP. Either OWCP or SOL can require a FECA beneficiary to assign his or her claim for damages to the United States or to prosecute the claim in his or her own name. All information regarding subrogation claims administered by SOL should be submitted to Chief, Subrogation Unit, U.S. Department of Labor, Office of the Solicitor, 200 Constitution Avenue, NW., Room S4325, Washington, DC 20210.

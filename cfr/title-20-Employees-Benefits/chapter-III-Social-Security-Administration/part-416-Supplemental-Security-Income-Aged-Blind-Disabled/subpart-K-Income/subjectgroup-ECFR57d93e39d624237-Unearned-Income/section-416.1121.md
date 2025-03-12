@@ -1,0 +1,23 @@
+##### § 416.1121 Types of unearned income. #####
+
+Some types of unearned income are—
+
+(a) *Annuities, pensions, and other periodic payments.* This unearned income is usually related to prior work or service. It includes, for example, private pensions, social security benefits, disability benefits, veterans benefits, worker's compensation, railroad retirement annuities and unemployment insurance benefits.
+
+(b) *Alimony and support payments.* For SSI purposes, alimony and support payments are cash or in-kind contributions to meet some or all of a person's needs for food or shelter. Support payments may be made voluntarily or because of a court order. Alimony (sometimes called *maintenance*) is an allowance made by a court from the funds of one spouse to the other spouse in connection with a suit for separation or divorce.
+
+(c) *Dividends, interest, and certain royalties.* Dividends and interest are returns on capital investments, such as stocks, bonds, or savings accounts. Royalties are compensation paid to the owner for the use of property, usually copyrighted material or natural resources such as mines, oil wells, or timber tracts. Royalty compensation may be expressed as a percentage of receipts from using the property or as an amount per unit produced. (See § 416.1110(b) if you receive royalties as part of your trade or business and § 416.1110(e) if you receive royalties in connection with the publication of your work.)
+
+(d) *Rents.* Rents are payments you receive for the use of real or personal property such as land, housing, or machinery. We deduct from rental payments your ordinary and necessary expenses in the same taxable year. These include only those expenses necessary for the production or collection of the rental income and they must be deducted when paid, not when they are incurred. Some examples of deductible expenses are interest on debts, State and local taxes on real and personal property and on motor fuels, general sales taxes, and expenses of managing or maintaining the property. (Sections 163, 164, and 212 of the Internal Revenue Code of 1954 and related regulations explain this in more detail.) We do not consider depreciation or depletion of property a deductible expense. (See § 416.1110(b) for rules on rental income that is earned from self-employment. For example, you may be in the business of renting properties.)
+
+(e) *Death benefits.* We count payments you get which were occasioned by the death of another person except for the amount of such payments that you spend on the deceased person's last illness and burial expenses. Last illness and burial expenses include related hospital and medical expenses, funeral, burial plot and interment expenses, and other related costs.
+
+Example:If you receive $2,000 from your uncle's life insurance policy and you spend $900 on his last illness and burial expenses, the balance, $1,100, is unearned income. If you spend the entire $2,000 for the last illness and burial, there is no unearned income.
+
+(f) *Prizes and awards.* A prize is generally something you win in a contest, lottery or game of chance. An award is usually something you receive as the result of a decision by a court, board of arbitration, or the like.
+
+(g) *Gifts and inheritances.* A gift is something you receive which is not repayment to you for goods or services you provided and which is not given to you because of a legal obligation on the giver's part. An inheritance is something that comes to you as a result of someone's death. It can be in cash or in kind, including any right in real or personal property. Gifts and inheritances occasioned by the death of another person, to the extent that they are used to pay the expenses of the deceased's last illness and burial, as defined in paragraph (e) of this section, are not considered income.
+
+(h) *Support and maintenance in kind.* This is food, or shelter furnished to you. Our rules for valuing this income depend on your living arrangement. We use one rule if you are living in the household of a person who provides you with both food and shelter. We use different rules for other situations where you receive food or shelter. We discuss all of the rules in §§ 416.1130 through 416.1147.
+
+[45 FR 65547, Oct. 3, 1980, as amended at 56 FR 36000, July 30, 1991; 59 FR 43471, Aug. 24, 1994; 70 FR 6345, Feb. 7, 2005]

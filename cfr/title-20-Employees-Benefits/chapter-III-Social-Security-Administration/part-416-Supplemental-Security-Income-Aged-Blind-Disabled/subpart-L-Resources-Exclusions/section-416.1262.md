@@ -1,0 +1,7 @@
+##### § 416.1262 Special resource provision applicable in cases involving essential persons. #####
+
+(a) *Essential persons continuously meet criteria of eligibility.* In determining the resources of an individual (and spouse, if any) who meet the conditions specified in § 416.1260 and whose payment standard is increased because such individual has in his home an essential person (as defined in § 416.222), either the State plan resource limit and exclusions (as specified in § 416.1260) applicable to cases in which the needs of an essential person are taken into account in determining the individual's needs, or the resource limit as specified in § 416.1205 and exclusions as specified in § 416.1210, whichever is most advantageous to the individual (and spouse), will be used.
+
+(b) *Essential person fails to meet criteria of eligibility.* If for any month after December 1973 a person fails to meet the criteria for an essential person as specified in § 416.222, in determining the resources of an individual (and spouse, if any) either the State plan resource limit and criteria as specified in § 416.1260 applicable to the individual or individual and spouse, as the case may be, or the resource limit as specified in § 416.1205 and exclusions as specified in § 416.1210, whichever is most advantageous to the individual (and spouse), will be used.
+
+[39 FR 33797, Sept. 20, 1974, as amended at 51 FR 10616, Mar. 28, 1986]

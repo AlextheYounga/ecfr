@@ -1,0 +1,3 @@
+##### § 703.101 Types of companies which may be authorized by the OWCP. #####
+
+The OWCP will consider for the granting of authority to write insurance under the Longshoremen's and Harbor Workers' Compensation Act and its extensions the application of any stock company, mutual company or association, or any other person or fund, while authorized under the laws of the United States or for any State to insure workmen's compensation. The term “carrier” as used in this part means any person or fund duly authorized to insure workmen's compensation benefits under said Act, or its extensions.

@@ -1,0 +1,3 @@
+##### § 411.410 Does each referral from an EN to a State VR agency require its own agreement? #####
+
+No. The agreements between ENs and State VR agencies should be broad-based and apply to all beneficiaries who may be referred by the EN to the State VR agency for services, although an EN and a State VR agency may want to enter into an individualized agreement to meet the needs of a single beneficiary.

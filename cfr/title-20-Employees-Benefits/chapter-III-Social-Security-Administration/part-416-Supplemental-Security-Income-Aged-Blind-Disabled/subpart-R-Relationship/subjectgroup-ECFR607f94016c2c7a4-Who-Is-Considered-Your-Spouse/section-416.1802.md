@@ -1,0 +1,17 @@
+##### § 416.1802 Effects of marriage on eligibility and amount of benefits. #####
+
+(a) *If you have an ineligible spouse*—(1) *Counting income.* If you apply for or receive SSI benefits, and you are married to someone who is not eligible for SSI benefits and are living in the same household as that person, we may count part of that person's income as yours. Counting part of that person's income as yours may reduce the amount of your benefits or even make you ineligible. Section 416.410 discusses the amount of benefits and § 416.1163 explains how we count income for an individual with an ineligible spouse.
+
+(2) *Counting resources.* If you are married to someone who is not eligible for SSI benefits and are living in the same household as that person, we will count the value of that person's resources (money and property), minus certain exclusions, as yours when we determine your eligibility. Section 416.1202(a) gives a more detailed statement of how we count resources and § 416.1205(a) gives the limit of resources allowed for eligibility of a person with an ineligible spouse.
+
+(b) *If you have an eligible spouse*—(1) *Counting income.* If you apply for or receive SSI benefits and have an eligible spouse as defined in § 416.1801(c), we will count your combined income and calculated the benefit amount for you as a couple. Section 416.412 gives a detailed statement of the amount of benefits and subpart K of this part explains how we count income for an eligible couple.
+
+(2) *Counting resources.* If you have an eligible spouse as defined in § 416.1801(c), we will count the value of your combined resources (money and property), minus certain exclusions, and use the couple's resource limit when we determine your eligibility. Section 416.1205(b) gives a detailed statement of the resource limit for an eligible couple.
+
+(c) *If you are married, we do not consider you a child.* The rules for counting income and resources are different for children than for adults. (Section 416.1851 discusses the effects of being considered a child on eligibility and amount of benefits.) Regardless of your age, if you are married we do not consider you to be a child.
+
+(d)(1) *General rule:* Benefits depend on whether you are married or not married at the beginning of each month. If you get married, even on the first day of a month we will treat you as single until the next month. If your marriage ends, even on the first day of a month, we will treat you as married until the next month.
+
+(2) *Exception: If you both meet eligibility requirements after your date of marriage or after your marriage ends.* If, in the month that you marry, each of you first meets all eligibility requirements after the date of your marriage, we will treat you as an eligible couple for that month. If, in the month that your marriage ends, each of you first meets all eligibility requirements after the date your marriage ends, we will treat you as eligible individuals. (See subparts D and E regarding how your benefits will be prorated.)
+
+[45 FR 71795, Oct. 30, 1980. Redesignated at 46 FR 29211, May 29, 1981; 46 FR 42063, Aug. 19, 1981, and amended at 51 FR 13495, Apr. 21, 1986; 60 FR 16376, Mar. 30, 1995]

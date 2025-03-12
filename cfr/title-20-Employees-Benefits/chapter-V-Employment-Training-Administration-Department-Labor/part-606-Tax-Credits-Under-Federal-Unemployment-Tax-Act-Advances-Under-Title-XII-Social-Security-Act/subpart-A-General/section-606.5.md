@@ -1,0 +1,3 @@
+##### § 606.5 Verification of estimates and review of determinations. #####
+
+The Department of Labor (hereinafter “Department”) shall verify all information and data provided by a State under this part, and the State shall comply with such provisions as the Department considers necessary to assure the correctness and verification of such information and data. The State agency of a State affected by a determination made by the OWS Administrator under this part may seek review of such determination by a higher level official of the Employment and Training Administration.

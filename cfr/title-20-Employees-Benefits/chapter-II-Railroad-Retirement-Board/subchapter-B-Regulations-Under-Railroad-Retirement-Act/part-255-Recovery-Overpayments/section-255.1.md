@@ -1,0 +1,3 @@
+##### § 255.1 Introduction. #####
+
+Section 10 of the Railroad Retirement Act provides for the recovery of an overpayment of benefits to an individual. This part explains when an overpayment must be recovered, from whom an overpayment may be recovered, and when recovery of the overpayment may be waived or administrative relief from recovery granted, and circumstances under which the overpayment may be compromised, or circumstances under which recovery of the overpayment may be suspended or terminated.

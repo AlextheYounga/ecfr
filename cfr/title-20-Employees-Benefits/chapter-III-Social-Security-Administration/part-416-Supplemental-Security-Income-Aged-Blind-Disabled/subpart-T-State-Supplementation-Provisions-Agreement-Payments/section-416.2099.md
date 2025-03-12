@@ -1,0 +1,21 @@
+##### § 416.2099 Compliance with pass-along. #####
+
+(a) *Information regarding compliance.* Any State required to enter into a pass-along agreement with the Commissioner shall provide appropriate and timely information to demonstrate to the Commissioner's satisfaction that the State is meeting the pass-along requirements. The information shall include, where relevant—
+
+(1) The State's December 1976 supplementary payment levels, any subsequent supplementary payment levels, and any change in State eligibility requirements. If the State made no supplementary payments in December 1976, it shall provide such information about the first month in which it makes supplementary payments;
+
+(2) The State's March 1983 supplementary payment levels, any subsequent supplementary payment levels, and any changes in State eligibility requirements;
+
+(3) The total State expenditures for supplementary payments in the 12-month period beginning July 1976 through June 1977, in each subsequent 12-month period, and in any other 12-month period beginning on the effective date of a Federal SSI benefit increase. The State shall also submit advance estimates of its total supplementary payments in each 12-month period covered by the agreement;
+
+(4) The total State expenditures for supplementary payments in the 6-month periods July 1, 1982 through December 31, 1982 and July 1, 1983 through December 31, 1983; and
+
+(5) The State supplementary payment level payable to residents of Medicaid facilities (see § 416.2096(d)) on October 1, 1987 (or, if a State first makes such supplementary payments after October 1, 1987, but before July 1, 1988, the level for the month the State first makes such supplementary payments). The State shall also report all changes in such payment levels.
+
+(b) *Records.* Except where the Commissioner administers the State supplementary payments, the State shall maintain records about its supplementary payment levels and total 12-month (or 6-month where applicable) expenditures for supplementary payments and permit inspection and audit by the Commissioner or someone designated by the Commissioner.
+
+(c) *Noncompliance by the States.* Any State that makes supplementary payments on or after June 30, 1977, and does not have a pass-along agreement with the Commissioner in effect, shall be determined by the Commissioner to be ineligible for payments under title XIX of the Act. A State does not have an agreement in effect if it has not entered into an agreement or has not complied with the terms of the agreement. Ineligibility shall apply to total expenditures for any calendar quarter beginning after June 30, 1977, for which a State has not entered into an agreement. A State that enters into an agreement but does not maintain its payment levels or meet the total-expenditures test in a particular 12-month or transitional 6-month period, shall be determined by the Commissioner not to have an agreement in effect for any month that the State did not meet the pass-along requirements during that particular period. The State shall then be ineligible for title XIX payments for any calendar quarter containing a month for which an agreement was not in effect. If a State first makes supplementary payments beginning with a month after June 1977, ineligibility shall apply to any calendar quarter beginning after the calendar quarter in which the State first makes payments.
+
+(d) *Notices to States about potential noncompliance.* Within 90 days after the end of the relevant 12-month period, the Commissioner shall send a notice to any State that has not maintained its supplementary payment levels and that appears not to have maintained its total expenditures during the period. The notice will advise the State of the available methods of compliance and the time within which corrective action must be taken (see §§ 416.2096(b)(3) and 416.2096(c)(2)) in order to avoid a determination of noncompliance. If the State fails to take the corrective action, the Commissioner shall make a timely determination of noncompliance.
+
+(Approved by the Office of Management and Budget under control number 0960-0240)[52 FR 36244, Sept. 28, 1987, as amended at 54 FR 19165, May 4, 1989; 62 FR 38455, July 18, 1997]

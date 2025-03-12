@@ -1,0 +1,3 @@
+##### § 416.2055 Mandatory minimum supplementation reduced. #####
+
+If for any month after December 1973 there is a change with respect to any special need or special circumstance which, if such change had existed in December 1973, would have caused a reduction in the amount of such individual's aid or assistance payment, then, for such month and for each month thereafter, the amount of the mandatory minimum supplement payable to such individual may, at the option of the State, be reduced in accordance with the terms and conditions of the State's plan approved under title I, X, XIV, or XVI of the Act in effect for the month of June 1973.

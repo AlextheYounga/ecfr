@@ -1,0 +1,3 @@
+##### § 641.200 What is the relationship between the SCSEP and the Workforce Investment Act? #####
+
+The SCSEP is a required partner under the Workforce Investment Act. As such, it is a part of the One-Stop delivery system. When acting in their capacity as WIA partners, SCSEP grantees and sub-recipients are required to follow all applicable rules under WIA and its regulations. (29 U.S.C. 2841(b)(1)(B)(vi) and 20 CFR 662.200 through 662.280).

@@ -1,0 +1,35 @@
+##### § 725.310 Modification of awards and denials. #####
+
+(a) Upon his or her own initiative, or upon the request of any party on grounds of a change in conditions or because of a mistake in a determination of fact, the district director may, at any time before one year from the date of the last payment of benefits, or at any time before one year after the denial of a claim, reconsider the terms of an award or denial of benefits.
+
+(b) Modification proceedings must be conducted in accordance with the provisions of this part as appropriate, except that the claimant and the operator, or group of operators or the fund, as appropriate, are each entitled to submit no more than one additional chest X-ray interpretation, one additional pulmonary function test, one additional arterial blood gas study, and one additional medical report in support of its affirmative case along with such rebuttal evidence and additional statements as are authorized by paragraphs (a)(2)(ii) and (a)(3)(ii) of § 725.414. Modification proceedings may not be initiated before an administrative law judge or the Benefits Review Board.
+
+(c) At the conclusion of modification proceedings before the district director, the district director may issue a proposed decision and order (§ 725.418) or, if appropriate, deny the claim by reason of abandonment (§ 725.409). In any case in which the district director has initiated modification proceedings on his own initiative to alter the terms of an award or denial of benefits issued by an administrative law judge, the district director must, at the conclusion of modification proceedings, forward the claim for a hearing (§ 725.421). In any case forwarded for a hearing, the administrative law judge assigned to hear such case must consider whether any additional evidence submitted by the parties demonstrates a change in condition and, regardless of whether the parties have submitted new evidence, whether the evidence of record demonstrates a mistake in a determination of fact.
+
+(d) An order issued following the conclusion of modification proceedings may terminate, continue, reinstate, increase or decrease benefit payments or award benefits. Such order must not affect any benefits previously paid, except that an order increasing the amount of benefits payable based on a finding of a mistake in a determination of fact may be made effective on the date from which benefits were determined payable by the terms of an earlier award. In the case of an award which is decreased, no payment made in excess of the decreased rate prior to the date upon which the party requested reconsideration under paragraph (a) of this section will be subject to collection or offset under subpart H of this part, provided the claimant is without fault as defined by § 725.543. In the case of an award which is decreased following the initiation of modification by the district director, no payment made in excess of the decreased rate prior to the date upon which the district director initiated modification proceedings under paragraph (a) will be subject to collection or offset under subpart H of this part, provided the claimant is without fault as defined by § 725.543. In the case of an award which has become final and is thereafter terminated, no payment made prior to the date upon which the party requested reconsideration under paragraph (a) will be subject to collection or offset under subpart H of this part. In the case of an award which has become final and is thereafter terminated following the initiation of modification by the district director, no payment made prior to the date upon which the district director initiated modification proceedings under paragraph (a) will be subject to collection or offset under subpart H of this part.
+
+(e)(1) In this paragraph, an order is “effective” as described in § 725.502(a) and “final” as described in §§ 725.419(d), 725.479(a) or 802.406.
+
+(2) Any modification request by an operator must be denied unless the operator proves that at the time of the request, the operator has:
+
+(i) Paid to the claimant all monetary benefits, including retroactive benefits and interest under § 725.502(b)(2), due under any effective order;
+
+(ii) Paid to the claimant all additional compensation (*see* § 725.607) due under an effective order;
+
+(iii) Paid all medical benefits (*see* § 725.701 *et seq.*) due under any effective award, but only if the order awards payment of specific medical expenses;
+
+(iv) Paid all final orders awarding attorney's fees and expenses under § 725.367 and witness fees under § 725.459, but only if the underlying benefits order is final (*see* § 725.367(b)); and
+
+(v) Reimbursed the Black Lung Disability Trust Fund, with interest, for all benefits paid under the orders described in paragraphs (e)(2)(i) or (iii) of this section and the costs for the medical examination under § 725.406.
+
+(3) The requirements of paragraph (e)(2) of this section are inapplicable to any benefits owed pursuant to an effective but non-final order if the payment of such benefits has been stayed by the Benefits Review Board or appropriate court under 33 U.S.C. 921.
+
+(4) Except as provided by paragraph (e)(5) of this section, the operator must submit all documentary evidence pertaining to its compliance with the requirements of paragraph (e)(2) of this section to the district director concurrently with its request for modification. The claimant is also entitled to submit any relevant evidence to the district director. Absent extraordinary circumstances, no documentary evidence pertaining to the operator's compliance with the requirements of paragraph (e)(2) at the time of the modification request will be admitted into the hearing record or otherwise considered at any later stage of the proceeding.
+
+(5) The requirements imposed by paragraph (e)(2) of this section are continuing in nature. If at any time during the modification proceedings the operator fails to meet the payment obligations described, the adjudication officer must issue an order to show cause why the operator's modification request should not be denied and afford all parties time to respond to such order. Responses may include evidence pertaining to the operator's continued compliance with the requirements of paragraph (e)(2). If, after the time for response has expired, the adjudication officer determines that the operator is not meeting its obligations, the adjudication officer must deny the operator's modification request.
+
+(6) The denial of a request for modification under this section will not bar any future modification request by the operator, so long as the operator satisfies the requirements of paragraph (e)(2) of this section with each future modification petition.
+
+(7) The provisions of this paragraph apply to all modification requests filed on or after May 26, 2016.
+
+[65 FR 80054, Dec. 20, 2000, as amended at 81 FR 24479, Apr. 26, 2016]

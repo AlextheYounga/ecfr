@@ -1,0 +1,5 @@
+##### § 61.306 Transportation of persons released from detention and return of employees. #####
+
+(a) The Office may furnish the cost of transporting an employee from the point of the employee's release from detention to his or her home, the place of employment, or other place within the jurisdiction of the United States. The Office shall not pay for transportation if the employee is furnished the transportation under any agreement with his or her employer or under any other provision of law.
+
+(b) The Office may furnish the cost of transportation under circumstances not involving detention, if the furnishing of transportation is an obligation of the United States or its contractor, and the United States or its contractor fails to return the employee to his or her home or to the place of employment.

@@ -1,0 +1,9 @@
+##### § 10.420 How are cost-of-living adjustments applied? #####
+
+(a) In cases of disability, a beneficiary is eligible for cost-of-living adjustments under 5 U.S.C. 8146a where injury-related disability began more than one year prior to the date the cost-of-living adjustment took effect. The employee's use of continuation of pay as provided by 5 U.S.C. 8118, or of sick or annual leave, during any part of the period of disability does not affect the computation of the one-year period.
+
+(b) Where an injury does not result in disability but compensation is payable for permanent impairment of a covered member, organ or function of the body, a beneficiary is eligible for cost-of-living adjustments under 5 U.S.C. 8146a where the award for such impairment began more than one year prior to the date the cost-of-living adjustment took effect.
+
+(c) In cases of recurrence of disability, where the pay rate for compensation purposes is the pay rate at the time disability recurs, a beneficiary is eligible for cost-of-living adjustments under 5 U.S.C. 8146a where the effective date of that pay rate began more than one year prior to the date the cost-of-living adjustment took effect.
+
+(d) In cases of death, entitlement to cost-of-living adjustments under 5 U.S.C. 8146a begins with the first such adjustment occurring more than one year after the date of death. However, if the death was preceded by a period of injury-related disability, compensation payable to the survivors will be increased by the same percentages as the cost-of-living adjustments paid or payable to the deceased employee for the period of disability, as well as by subsequent cost-of-living adjustments to which the survivors would otherwise be entitled.

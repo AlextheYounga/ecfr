@@ -1,0 +1,3 @@
+##### § 653.500 Purpose and scope of subpart. #####
+
+This subpart includes the requirements for the acceptance of intrastate and interstate job clearance orders which seek U.S. workers to perform farmwork on a temporary, less than year-round basis. Orders seeking workers to perform farmwork on a year-round basis are not subject to the requirements of this subpart. This subpart affects all job orders for workers who are recruited through the ES intrastate and interstate clearance systems for less than year-round farmwork, including both MSFWs and non-MSFW job seekers.
