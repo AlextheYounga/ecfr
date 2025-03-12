@@ -1,7 +1,5 @@
 ##### § 17.44 Special rules—fishes. #####
 
-Link to an amendment published at 88 FR 41854, June 28, 2023.
-
 (a) Lahontan cutthroat trout, Paiute cutthroat trout, and Arizona trout (*Salmo clarki henshawi, Salmo clarki seleniris,* and *Salmo apache*). (1) All the provisions of § 17.31 apply to these species, except that they may be taken in accordance with applicable State law.
 
 (2) Violation of State law will also be a violation of the Act.
@@ -414,27 +412,7 @@ A listing of all countries that have not designated either a Management Authorit
 
 ![](/graphics/er01se10.000.gif)
 
-(bb) Okaloosa darter (*Etheostoma okaloosae*).
-
-(1) Except as noted in paragraphs (bb)(2) and (bb)(3) of this section, all prohibitions of 50 CFR 17.31 and exemptions of 50 CFR 17.32 apply to the Okaloosa darter.
-
-(i) No person may possess, sell, deliver, carry, transport, ship, import, or export, by any means whatsoever, any Okaloosa darters taken in violation of this section or in violation of applicable State fish and wildlife conservation laws or regulations.
-
-(ii) It is unlawful for any person to attempt to commit, solicit another to commit, or cause to be committed, any offense listed in this special rule.
-
-(2) The following activities, which may result in incidental take of the Okaloosa darter, are allowed on Eglin Air Force Base (AFB), provided that the activities occur in accordance with applicable Federal, State, and local laws, and are consistent with a Service-approved Integrated Natural Resources Management Plan by Eglin AFB and with Eglin AFB's Threatened and Endangered Species Component Plan:
-
-(i) Prescribed fire for land management to promote a healthy ecosystem;
-
-(ii) Instream habitat restoration;
-
-(iii) Unpaved range road stabilization; and
-
-(iv) Removal or replacement of culverts for the purpose of road decommissioning, improving fish passage, or enhancing stream habitat.
-
-(3) Scientific research and monitoring activities that may result in incidental take of the Okaloosa darter are allowed, provided these activities are consistent with a Service-approved Okaloosa darter recovery plan, or otherwise approved by the Service, whether those activities occur on or off of Eglin AFB.
-
-(4) Take caused by any activities not listed in paragraph (bb)(2) and (bb)(3) of this section is prohibited.
+(bb) [Reserved]
 
 (cc) June sucker (*Chasmistes liorus*).
 

@@ -106,7 +106,11 @@
 
 (B) [Reserved]
 
-(ii) [Reserved]
+(ii) Pursuant to subsection (k)(2) of the Privacy Act:
+
+(A) OCSE Federal Case Registry of Child Support Orders (FCR), HHS/ACF/OCSE, 09-80-0385; only records marked with the Family Violence Indicator are exempt, based on the requirements of 42 U.S.C. 653(b)(2).
+
+(B) [Reserved]
 
 (c) *Notification of or access to records in exempt systems of records.* (1) Where a system of records is exempt as provided in paragraph (b) of this section, any individual may nonetheless request notification of or access to a record in that system. An individual shall make requests for notification of or access to a record in an exempt system of records in accordance with the procedures of §§ 5b.5 and 5b.6 of this part.
 
@@ -120,4 +124,4 @@
 
 (d) *Discretionary actions by the responsible Department official.* Unless disclosure of a record to the general public is otherwise prohibited by law, the responsible Department official may in his discretion grant notification of or access to a record in a system of records which is exempt under paragraph (b) of this section. Discretionary notification of or access to a record in accordance with this paragraph will not be a precedent for discretionary notification of or access to a similar or related record and will not obligate the responsible Department official to exercise his discretion to grant notification of or access to any other record in a system of records which is exempt under paragraph (b) of this section.
 
-[40 FR 47409, Oct. 8, 1975, as amended at 43 FR 40229, Sept. 11, 1978; 47 FR 57040, Dec. 22, 1982; 49 FR 14108, Apr. 10, 1984; 51 FR 41352, Nov. 14, 1986; 59 FR 36717, July 19, 1994; 65 FR 34988, June 1, 2000; 65 FR 37289, June 14, 2000; 68 FR 62751, Nov. 6, 2003; 73 FR 55775, Sept. 26, 2008; 76 FR 72327, Nov. 23, 2011; 78 FR 39186, 39188, July 1, 2013; 78 FR 47211, Aug. 5, 2013; 83 FR 14185, Apr. 3, 2018; 84 FR 14624, Apr. 11, 2019; 87 FR 8959, Feb. 17, 2022]
+[40 FR 47409, Oct. 8, 1975]Editorial Note:For Federal Register citations affecting § 5b.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
