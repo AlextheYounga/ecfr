@@ -1,6 +1,6 @@
 ##### § 121.1 The United States Munitions List. #####
 
-Link to an amendment published at 86 FR 48022, Aug. 27, 2021.Link to an amendment published at 88 FR 25491, Apr. 27, 2023.
+Link to an amendment published at 86 FR 48022, Aug. 27, 2021.
 
 (a)-(b) [Reserved]
 
@@ -1602,7 +1602,8 @@ The definition of “type” in this paragraph is that provided in 14 CFR § 1.1
 
 (xxii) Radar employing automatic target recognition (ATR) (*i.e.,* recognition of target using structural features (e.g., tank versus car) of the target with system resolution better than (less than) 0.3 m);
 
-(xxiii) Radar that sends interceptor guidance commands or provides illumination keyed to an interceptor seeker;
+(xxiii) Radar that sends interceptor guidance commands or provides
+illumination keyed to an interceptor seeker;
 
 (xxiv) Radar employing waveform generation for LPI other than frequency modulated continuous wave (FMCW) with linear ramp modulation;
 
@@ -1766,11 +1767,23 @@ Note 8 to paragraph (c)(4):
 
 Fractional bandwidth is the bandwidth over which output power remains constant within 3 dB (without the adjustment of other operating parameters), divided by the center frequency, and multiplied by 100. Fractional bandwidth is expressed as a percentage.
 
-(5) High-energy storage capacitors with a repetition rate of 6 discharges or more per minute and full energy life greater than or equal to 10,000 discharges, at greater than 0.2 Amps per Joule peak current, that have any of the following:
+(5) High-energy storage capacitors that:
 
-(i) Volumetric energy density greater than or equal to 1.5 J/cc; or
+(i) Are capable of operating at greater than one hundred twenty-five volts (125 V);
 
-(ii) Mass energy density greater than or equal to 1.3 kJ/kg;
+(ii) Have a repetition rate greater than or equal to six (6) discharges per minute;
+
+(iii) Have a full energy life greater than or equal to 10,000 discharges at greater than 0.2 Amps per Joule peak current; and
+
+(iv) Have any of the following:
+
+(A) Volumetric energy density greater than or equal to 1.5 J/cc; or
+
+(B) Mass energy density greater than or equal to 1.3 kJ/kg;
+
+Note to paragraph (c)(5):
+
+*Volumetric energy density* is Energy per unit Volume. *Mass energy density* is Energy per unit Mass, sometimes referred to as *Gravimetric energy density* or *Specific energy. Energy* (E =1/2CV2, where C is Capacitance and V is the Voltage rating) in these calculations must not be confused with useful energy or extractable energy.
 
 (6) Radio frequency circulators of any dimension equal to or less than one quarter (1/4) wavelength of the highest operating frequency and isolation greater than 30 dB;
 

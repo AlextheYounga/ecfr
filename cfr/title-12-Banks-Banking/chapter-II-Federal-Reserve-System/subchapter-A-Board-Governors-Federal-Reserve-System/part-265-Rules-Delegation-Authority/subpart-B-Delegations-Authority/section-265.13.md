@@ -12,8 +12,10 @@ The Director of the Division of Financial Stability (or the Director's delegatee
 
 (b) *Capital plans.* (1) Jointly with the Director of the Division of Supervision and Regulation, with the concurrence of the Vice Chair for Supervision:
 
-(i) To provide a firm subject to the Board's capital plan rules with notice of its stress capital buffer requirement and an explanation of the results of the supervisory stress test pursuant to §§ 225.8(h)(1) of Regulation Y (12 CFR 115.8(h)(1)) and 238.170(h)(1) of Regulation LL (12 CFR 238.170(h)(1)); and
+(i) To provide a firm subject to the Board's capital plan rules with notice of its stress capital buffer requirement and an explanation of the results of the supervisory stress test pursuant to §§ 225.8(h)(1) of Regulation Y (12 CFR 225.8(h)(1)) and 238.170(h)(1) of Regulation LL (12 CFR 238.170(h)(1)); and
 
 (ii) To provide a firm subject to the Board's capital plan rules with its final stress capital buffer requirement and confirmation of its final planned capital distributions pursuant to §§ 225.8(h)(4)(i) of Regulation Y (12 CFR 225.8(h)(4)(i)) and 238.170(h)(4)(i) of Regulation LL (12 CFR 238.170(h)(4)(i)).
 
 (2) [Reserved]
+
+[87 FR 54003, Sept. 1, 2022, as amended at 88 FR 32622, May 22, 2023]

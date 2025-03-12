@@ -1,7 +1,5 @@
 ##### § 17.38 Medical benefits package. #####
 
-Link to an amendment published at 88 FR 24483, Apr. 21, 2023.
-
 (a) Subject to paragraphs (b) and (c) of this section, the following hospital, outpatient, and extended care services constitute the “medical benefits package” (basic care and preventive care):
 
 (1) Basic care.
@@ -58,6 +56,8 @@ Link to an amendment published at 88 FR 24483, Apr. 21, 2023.
 
 (ix) Periodic reexamination of members of high-risk groups for selected diseases and for functional decline of sensory organs, and the services to treat these diseases and functional declines.
 
+(x) Chiropractic services.
+
 (b) *Provision of the “medical benefits package”.* Care referred to in the “medical benefits package” will be provided to individuals only if it is determined by appropriate health care professionals that the care is needed to promote, preserve, or restore the health of the individual and is in accord with generally accepted standards of medical practice.
 
 (1) *Promote health.* Care is deemed to promote health if the care will enhance the quality of life or daily functional level of the veteran, identify a predisposition for development of a condition or early onset of disease which can be partly or totally ameliorated by monitoring or early diagnosis and treatment, and prevent future disease.
@@ -84,4 +84,4 @@ Link to an amendment published at 88 FR 24483, Apr. 21, 2023.
 
 (6) Membership in spas and health clubs.
 
-[64 FR 54217, Oct. 6, 1999, as amended at 67 FR 35039, May 17, 2002; 73 FR 36798, June 30, 2008; 75 FR 54030, Sept. 3, 2010; 76 FR 11339, Mar. 2, 1011; 76 FR 26172, May 5, 2011; 76 FR 78571, Dec. 19, 2011; 82 FR 6275, Jan. 19, 2017; 84 FR 26306, June 5, 2019; 86 FR 84259, Dec. 28, 2020; 87 FR 55296, Sept. 9, 2022]
+[64 FR 54217, Oct. 6, 1999, as amended at 67 FR 35039, May 17, 2002; 73 FR 36798, June 30, 2008; 75 FR 54030, Sept. 3, 2010; 76 FR 11339, Mar. 2, 1011; 76 FR 26172, May 5, 2011; 76 FR 78571, Dec. 19, 2011; 82 FR 6275, Jan. 19, 2017; 84 FR 26306, June 5, 2019; 86 FR 84259, Dec. 28, 2020; 87 FR 55296, Sept. 9, 2022; 88 FR 24483, Apr. 21, 2023]

@@ -160,7 +160,7 @@ The Director of the Division of Supervision and Regulation (or the Director's de
 
 (D) *Risk management.* Approve an alternative reporting structure for a U.S. chief risk officer based on circumstances specific to the foreign banking organization under §§ 252.144(c)(3)(iii) and 252.155(b)(3)(iii) of Regulation YY (12 CFR 252.144(c)(3)(iii) and 252.155(b)(3)(iii));
 
-(E) *Liquidity.* (*1*) Require a foreign banking organization to calculate the collateral positions for its combined U.S. operations more frequently than required under § 252.156(g)(l)(i) of Regulation YY (12 CFR 252.156(g)(l)(i));
+(E) *Liquidity.* (*1*) Require a foreign banking organization to calculate the collateral positions for its combined U.S. operations more frequently than required under § 252.156(g)(1)(i) of Regulation YY (12 CFR 252.156(g)(1)(i));
 
 (*2*) Require a foreign banking organization to perform stress testing more frequently than is required under § 252.157(a)(2) of Regulation YY (12 CFR 252.157(a)(2)); and
 
@@ -183,6 +183,16 @@ The Director of the Division of Supervision and Regulation (or the Director's de
 (ii) To determine, in connection with acting on a proposal pursuant to delegated authority as set forth in paragraph (e)(7)(i) of this section, that the aggregate amount of a State member bank's public welfare investments will not pose a significant risk to the deposit insurance fund in accordance with section 9(23) of the Federal Reserve Act (12 U.S.C. 338a).
 
 (8) *Prior approval for capital distributions.* With the concurrence of the Vice Chair for Supervision, to approve (but not deny) a request to make a distribution pursuant to § 217.303(g) of the Board's Regulation Q (12 CFR 217.303(g)).
+
+(9) *Bank-affiliate transactions.* With the concurrence of the General Counsel, to approve, or to make the requisite findings for approval of, requests for an exemption from the requirements of section 23A of the Federal Reserve Act (12 U.S.C. 371c) and the Board's Regulation W (12 CFR part 223) for the purchase of assets by a State bank or other insured depository institution from an affiliate, provided that the purchase of assets is:
+
+(i) Part of a one-time corporate reorganization;
+
+(ii) Does not involve the purchase of low-quality assets;
+
+(iii) Is accompanied by a commitment to repurchase any assets that have become low quality within two years of the transfer; and
+
+(iv) Has been approved by the Federal Deposit Insurance Corporation and the institution's appropriate Federal banking agency.
 
 (f) *Securities*—(1) *Registration statements by member banks.* Under section 12(g) of the Securities Exchange Act of 1934 (15 U.S.C. 78*l*(g)):
 
@@ -266,7 +276,7 @@ The Director of the Division of Supervision and Regulation (or the Director's de
 
 (3) Jointly with the Director of the Division of Financial Stability, with the concurrence of the Vice Chair for Supervision:
 
-(i) To provide a firm subject to the Board's capital plan rules with notice of its stress capital buffer requirement and an explanation of the results of the supervisory stress test pursuant to §§ 225.8(h)(1) of Regulation Y (12 CFR 115.8(h)(1)) and 238.170(h)(1) of Regulation LL (12 CFR 238.170(h)(1)); and
+(i) To provide a firm subject to the Board's capital plan rules with notice of its stress capital buffer requirement and an explanation of the results of the supervisory stress test pursuant to §§ 225.8(h)(1) of Regulation Y (12 CFR 225.8(h)(1)) and 238.170(h)(1) of Regulation LL (12 CFR 238.170(h)(1)); and
 
 (ii) To provide a firm subject to the Board's capital plan rules with its final stress capital buffer requirement and confirmation of its final planned capital distributions pursuant to §§ 225.8(h)(4)(i) of Regulation Y (12 CFR 225.8(h)(4)(i)) and 238.170(h)(4)(i) of Regulation LL (12 CFR 238.170(h)(4)(i)).
 
@@ -308,7 +318,7 @@ The Director of the Division of Supervision and Regulation (or the Director's de
 
 (3) *Delegations regarding the definition of capital in subpart C of Regulation Q (12 CFR part 217, subpart C).* (i) With the concurrence of the Chair of the Committee on Supervision and Regulation, and after consultation with the General Counsel, to act on a request from a company under § 217.20(e)(1) of Regulation Q (12 CFR 217.20(e)(1)) to include a capital element in its common equity tier 1 capital, additional tier 1 capital, or tier 2 capital.
 
-(ii)(A) To determine under § 217.20(c)(l)(v)(C) and (d)(l)(v)(C) of Regulation Q (12 CFR 217.20(c)(l)(v)(C) and (d)(l)(v)(C)) whether a company would continue to hold capital commensurate to its risk following the exercise of a call option;
+(ii)(A) To determine under § 217.20(c)(1)(v)(C) and (d)(1)(v)(C) of Regulation Q (12 CFR 217.20(c)(1)(v)(C) and (d)(1)(v)(C)) whether a company would continue to hold capital commensurate to its risk following the exercise of a call option;
 
 (B) To consult with the other banking agencies under § 217.20(e)(2) of Regulation Q (12 CFR 217.20(e)(2)) when considering whether a company may include a regulatory capital element in its common equity tier 1 capital, additional tier 1 capital, or tier 2 capital;
 
@@ -332,9 +342,9 @@ The Director of the Division of Supervision and Regulation (or the Director's de
 
 (J) To determine under § 217.22(h)(3)(iii)(C) of Regulation Q (12 CFR 217.22(h)(3)(iii)(C)) whether a company's internal control process is adequate.
 
-(iii)(A) To act on a company's request under § 217.20(b)(l)(iii), (c)(l)(vi), or (d)(l)(x) of Regulation Q (12 CFR 217.20(b)(l)(iii), (c)(l)(vi), (d)(l)(x)) to redeem a security; and
+(iii)(A) To act on a company's request under § 217.20(b)(1)(iii), (c)(1)(vi), or (d)(1)(x) of Regulation Q (12 CFR 217.20(b)(1)(iii), (c)(1)(vi), (d)(1)(x)) to redeem a security; and
 
-(B) To act on a company's request under § 217.20(c)(l)(v)(A) or (d)(l)(v)(A) of Regulation Q (12 CFR 217.20(c)(l)(v)(A), (d)(l)(v)(A)) to exercise a call option.
+(B) To act on a company's request under § 217.20(c)(1)(v)(A) or (d)(1)(v)(A) of Regulation Q (12 CFR 217.20(c)(1)(v)(A), (d)(1)(v)(A)) to exercise a call option.
 
 (4) *Delegations regarding the standardized approach in subpart D of Regulation Q* (12 CFR part 217, subpart D). (i) After consultation with the General Counsel, to determine under § 217.35(d)(3)(i)(E) of Regulation Q (12 CFR 217.35(d)(3)(i)(E)) that a risk weight higher than 20 percent for variable RW in formula KCCP is more appropriate based on the specific characteristics of the QCCP and its clearing members.
 
@@ -390,7 +400,7 @@ The Director of the Division of Supervision and Regulation (or the Director's de
 
 (L) To determine under § 217.123(b) of Regulation Q (12 CFR 217.123(b)) whether a company's plan to return to compliance with the qualification requirements in § 217.122 of Regulation Q (12 CFR 217.122) is satisfactory;
 
-(M) To establish requirements under § 217.131(e)(l)(i) of Regulation Q (12 CFR 217.131(e)(l)(i)) for the estimation of a margin loan's probability of default (“PD”) and loss given default (“LGD”);
+(M) To establish requirements under § 217.131(e)(1)(i) of Regulation Q (12 CFR 217.131(e)(1)(i)) for the estimation of a margin loan's probability of default (“PD”) and loss given default (“LGD”);
 
 (N) In the case of a system-wide failure of a settlement or clearing system, or a central counterparty, to waive under § 217.136(c) of Regulation Q (12 CFR 217.136(c)) risk-based capital requirements for unsettled and failed transactions; and
 
@@ -531,3 +541,9 @@ The Director of the Division of Supervision and Regulation (or the Director's de
 (7) To act on a request under § 217.133(d)(6)(vi) of Regulation Q (12 CFR 217.133(d)(6)(vi)) from a banking organization to determine the risk-weighted asset amount for a default fund contribution to a QCCP according to § 217.35(d)(3)(ii) (12 CFR 217.35(d)(3)(ii)) rather than § 217.133(d) (12 CFR 217.133(d)).
 
 (q) *Insurance Policy Advisory Committee.* To organize and administer the Insurance Policy Advisory Committee (“IPAC”), including by publishing future requests for IPAC applications in the Federal Register.
+
+(r) *Submission of reports.* (1) With the concurrence of the General Counsel, to prepare and submit to Congress reports under section 165(b)(5) of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5365(b)(5)).
+
+(2) With the concurrence of the General Counsel, to prepare and submit to Congress reports under section 37(c) of the Federal Deposit Insurance Act (12 U.S.C. 1831n(c)), and to submit such reports to the Federal Register for publication.
+
+[87 FR 54003, Sept. 1, 2022, as amended at 88 FR 32622, May 22, 2023]

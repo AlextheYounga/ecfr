@@ -1,7 +1,5 @@
 ##### § 61.3 Requirement for certificates, ratings, and authorizations. #####
 
-Link to an amendment published at 87 FR 71236, Nov. 22, 2022.
-
 (a) *Required pilot certificate for operating a civil aircraft of the United States.* No person may serve as a required pilot flight crewmember of a civil aircraft of the United States, unless that person:
 
 (1) Has in the person's physical possession or readily accessible in the aircraft when exercising the privileges of that pilot certificate or authorization—
@@ -58,7 +56,11 @@ Link to an amendment published at 87 FR 71236, Nov. 22, 2022.
 
 (B) Has not had his or her most recently issued medical certificate suspended or revoked or most recent Authorization for a Special Issuance of a Medical Certificate withdrawn.
 
-(vi) Is holding a pilot certificate with a balloon class rating and is piloting or providing training in a balloon as appropriate;
+(vi) Is holding a pilot certificate with a balloon class rating and that person—
+
+(A) Is exercising the privileges of a private pilot certificate in a balloon; or
+
+(B) Is providing flight training in a balloon in accordance with § 61.133(a)(2)(ii);
 
 (vii) Is holding a pilot certificate or a flight instructor certificate with a glider category rating, and is piloting or providing training in a glider, as appropriate;
 
@@ -204,4 +206,4 @@ Link to an amendment published at 87 FR 71236, Nov. 22, 2022.
 
 (4) An authorized representative of the Transportation Security Administration.
 
-[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40894, July 30, 1997; Amdt. 61-111, 67 FR 65861, Oct. 28, 2002; Amdt. 61-110, 69 FR 44864, July 27, 2004; Amdt. 61-123, 74 FR 34234, July 15, 2009; Amdt. 61-124, 74 FR 42546, Aug. 21, 2009; Amdt. 61-124A, 74 FR 53644, Oct. 20, 2009; Amdt. 61-131, 78 FR 56828, Sept. 16, 2013; Amdt. 61-134, 80 FR 33400, June 12, 2015; Docket FAA-2010-1127, Amdt. 61-135, 81 FR 1306, Jan. 12, 2016; Doc. No. FAA-2016-9157, Amdt. 61-140, 82 FR 3164, Jan. 11, 2017; Amdt. 60-6, 83 FR 30276, June 27, 2018; Docket No. FAA-2021-1040, Amdt. Nos. 61-152, 87 FR 71236, Nov. 22, 2022]
+[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40894, July 30, 1997; Amdt. 61-111, 67 FR 65861, Oct. 28, 2002; Amdt. 61-110, 69 FR 44864, July 27, 2004; Amdt. 61-123, 74 FR 34234, July 15, 2009; Amdt. 61-124, 74 FR 42546, Aug. 21, 2009; Amdt. 61-124A, 74 FR 53644, Oct. 20, 2009; Amdt. 61-131, 78 FR 56828, Sept. 16, 2013; Amdt. 61-134, 80 FR 33400, June 12, 2015; Docket FAA-2010-1127, Amdt. 61-135, 81 FR 1306, Jan. 12, 2016; Doc. No. FAA-2016-9157, Amdt. 61-140, 82 FR 3164, Jan. 11, 2017; Amdt. 60-6, 83 FR 30276, June 27, 2018; Docket No. FAA-2021-1040, Amdt. Nos. 61-152, 87 FR 71236, Nov. 22, 2022; Docket No. FAA-2021-1040; Amdt. No. 61-152, 87 FR 71236, Nov. 22, 2022]

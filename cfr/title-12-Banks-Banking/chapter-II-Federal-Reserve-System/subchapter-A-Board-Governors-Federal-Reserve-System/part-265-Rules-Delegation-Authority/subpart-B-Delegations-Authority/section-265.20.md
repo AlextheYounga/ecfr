@@ -14,7 +14,7 @@ Except as otherwise provided in this section, each Federal Reserve Bank is autho
 
 (6) *Bank holding company divestiture of DPC interests.* To extend the time within which a bank holding company or any of its subsidiaries must divest itself of interests acquired in satisfaction of a debt previously contracted:
 
-(i) Under section 4(c)(2) of the Bank Holding Company Act (12 U.S.C. 1843(c)(2)) or § 225.22(c)(1) of Regulation Y (12 CFR 225.22(c)(1)); or
+(i) Under section 4(c)(2) of the Bank Holding Company Act (12 U.S.C. 1843(c)(2)) or § 225.22(d)(1) of Regulation Y (12 CFR 225.22(d)(1)); or
 
 (ii) Under sections 2(a)(5)(D) and 3(a) of the Bank Holding Company Act (12 U.S.C. 1841(a)(5)(D) and 1842(a)).
 
@@ -90,7 +90,7 @@ Except as otherwise provided in this section, each Federal Reserve Bank is autho
 
 (D) If the proposal involves shares of a State member bank or a bank holding company controlling a State member bank, the appropriate bank supervisory authorities have indicated that they have no objection to the proposal, or no objection has been received from them within the time allowed by the act; and
 
-(E) No significant policy issue under the Change in Bank Control Act (12 U.S.C. 1817(j)), § 225.41 of Regulation Y (12 CFR 225.41), or § 238.31 of Regulation LL (12 CFR 238.41) is raised by the proposal as to which the Board has not expressed its view.
+(E) No significant policy issue under the Change in Bank Control Act (12 U.S.C. 1817(j)), § 225.41 of Regulation Y (12 CFR 225.41), or § 238.31 of Regulation LL (12 CFR 238.31) is raised by the proposal as to which the Board has not expressed its view.
 
 (7) *Failure to comply with publication requirement under the Change in Bank Control Act.* To waive, dispense with, modify, or excuse the failure to comply with the requirement for publication and solicitation of public comment regarding a notice filed under the Change in Bank Control Act (12 U.S.C. 1817(j)), with the concurrence of the Director of the Division of Supervision and Regulation and the General Counsel, provided that a written finding is made that such disclosure or solicitation would seriously threaten the safety or soundness of a bank holding company, savings and loan holding company, savings association, or bank under paragraph (2) of the Change in Bank Control Act (12 U.S.C. 1817(j)(2)).
 
@@ -179,6 +179,14 @@ Except as otherwise provided in this section, each Federal Reserve Bank is autho
 (xiv) To approve requests from subsidiary holding companies of mutual holding companies to conduct stock issuances pursuant to § 239.24 of Regulation MM (12 CFR 239.24), persons other than its mutual holding company parent pursuant to § 239.24 of Regulation MM (12 CFR 239.24), including approval of nonconforming stock issuances pursuant to § 239.24(c)(6)(ii) of Regulation MM (12 CFR 239.24(c)(6)(ii)) and determinations that certain procedural and substantive requirements are inapplicable pursuant to § 239.24(d) of Regulation MM (12 CFR 239.24(d)), where such requests do not raise any significant legal, policy, or supervisory issues.
 
 (xv) To approve plans of dissolution filed by mutual holding companies and subsidiary holding companies of mutual holding companies pursuant to § 239.16 of Regulation MM (12 CFR 239.16), if no significant legal, policy, or supervisory issues are raised by the proposal.
+
+(xvi) To grant a request to waive the application of § 239.59(d)(1), (h), (j), and (p)(2) of Regulation MM (12 CFR 239.59(d)(1), (h), (j), and (p)(2)) as those provisions relate to applications and notices seeking the Board's prior approval to conduct a stock issuance pursuant to § 239.24 of Regulation MM (12 CFR 239.24) related to a reorganization to mutual holding company form pursuant to section 10(o)(3) of the Home Owners' Loan Act (12 U.S.C. 1467a(o)(3)), or subsequent to a mutual holding company reorganization, and that do not raise any significant legal, policy, or supervisory concerns, except that the authority to grant waiver requests under this paragraph (c)(14)(xvi) is limited to requests by firms that—
+
+(A) Do not qualify for federal preemption of state securities filing requirements;
+
+(B) Propose to register their shares in states with ten or more eligible account holders, as that term is defined in § 239.52(c) of Regulation MM (12 CFR 239.52(c)); and
+
+(C) Would make a proposed stock offering available to account holders eligible to participate in the offering in states where the offering would qualify for an exemption from state securities filing requirements.
 
 (d) *International banking*—(1) *Member bank, Edge corporation, or agreement corporation establishing foreign branch.* With regard to a prior notice to establish a branch in a foreign country under § 211.3 of Regulation K (12 CFR 211.3)—
 
@@ -344,9 +352,9 @@ Except as otherwise provided in this section, each Federal Reserve Bank is autho
 
 (l) *Regulatory capital rule*—(1) *Delegations regarding the definition of capital.* (i) With the concurrence of the Director of the Division of Supervision and Regulation, to:
 
-(A) Act on a company's request under § 217.20(b)(l)(iii), § 217.20(c)(l)(vi), or § 217.20(d)(l)(x) of Regulation Q (12 CFR 217.20(b)(l)(iii), 217.20(c)(l)(vi), or 217.20(d)(l)(x)) to redeem a security; and
+(A) Act on a company's request under § 217.20(b)(1)(iii), § 217.20(c)(1)(vi), or § 217.20(d)(1)(x) of Regulation Q (12 CFR 217.20(b)(1)(iii), 217.20(c)(1)(vi), or 217.20(d)(1)(x)) to redeem a security; and
 
-(B) Act on a company's request under § 217.20(c)(l)(v)(A) or § 217.20(d)(l)(v)(A) of Regulation Q (12 CFR 217.20(c)(l)(v)(A) and 217.20(d)(l)(v)(A)) to exercise a call option.
+(B) Act on a company's request under § 217.20(c)(1)(v)(A) or § 217.20(d)(1)(v)(A) of Regulation Q (12 CFR 217.20(c)(1)(v)(A) and 217.20(d)(1)(v)(A)) to exercise a call option.
 
 (2) *Delegations regarding standardized approach risk-weighted assets.* (i) With the concurrence of the Director of the Division of Supervision and Regulation, to:
 
@@ -437,3 +445,5 @@ Except as otherwise provided in this section, each Federal Reserve Bank is autho
 (N) Determine under § 217.210(e)(3) of Regulation Q (12 CFR 217.210(e)(3)) whether an index is a main index because the equities represented by the index have comparable liquidity, depth of market, and size of bid-ask spreads as equities in the Standard & Poor's 500 Index and FTSE All-World Index; and
 
 (O) Determine under § 217.210(f)(1) of Regulation Q (12 CFR 217.210(f)(1)) whether or not a company has demonstrated a comprehensive understanding of the features of a securitization exposure.
+
+[87 FR 54003, Sept. 1, 2022, as amended at 88 FR 32622, May 22, 2023]

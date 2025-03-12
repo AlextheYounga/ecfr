@@ -1,18 +1,16 @@
 ##### § 17.30 Definitions. #####
 
-Link to an amendment published at 88 FR 24483, Apr. 21, 2023.
-
 When used in Department of Veterans Affairs medical regulations, each of the following terms shall have the meaning ascribed to it in this section:
 
-(a) *Medical services.* The term *medical services* includes, in addition to medical examination, treatment, and rehabilitative services:
+(a) *Medical services.* The term *medical services* includes the following:
 
-(1) Surgical services, dental services and appliances as authorized in §§ 17.160 through 17.166, optometric and podiatric services, (in the case of a person otherwise receiving care or services under this chapter) the preventive health care services set forth in 38 U.S.C. 1701(9), noninstitutional extended care, wheelchairs, artificial limbs, trusses and similar appliances, special clothing made necessary by the wearing of prosthetic appliances, and such other supplies or services as are medically determined to be reasonable and necessary.
+(1) Medical examination, treatment, and rehabilitative services (as defined in 38 U.S.C. 1701(8)).
 
-(Authority: 38 U.S.C. 1701(6)(A)(i))
+(2) Surgical services, dental services and appliances as authorized in §§ 17.160 through 17.166, optometric and podiatric services, chiropractic services, preventive health care services set forth in 38 U.S.C. 1701(9), noninstitutional extended care, and items and services as authorized in §§ 17.3200 through 17.3250.
 
-(2) Consultation, professional counseling, marriage and family counseling, training, and mental health services for the members of the immediate family or legal guardian of the veteran or the individual in whose household the veteran certifies an intention to live, as necessary in connection with the veteran's treatment.
+(3) Consultation, professional counseling, marriage and family counseling, training, and mental health services for the members of the immediate family or legal guardian of the veteran or the individual in whose household the veteran certifies an intention to live, as necessary in connection with the veteran's treatment.
 
-(3) Transportation and incidental expenses for any person entitled to such benefits under the provisions of § 70.10 of this chapter.
+(4) Transportation and incidental expenses for any person entitled to such benefits under the provisions of § 70.10 of this chapter.
 
 (Authority: 38 U.S.C. 1701(6))
 

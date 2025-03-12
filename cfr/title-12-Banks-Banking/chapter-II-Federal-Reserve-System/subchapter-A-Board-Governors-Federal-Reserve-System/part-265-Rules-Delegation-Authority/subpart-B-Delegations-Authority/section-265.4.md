@@ -8,7 +8,7 @@
 
 (3) *Disclosures related to emergency lending programs.* To approve:
 
-(i) Periodic reports to Congress under section 13(3)(C)(ii) of the Federal Reserve Act (12 U.S.C. 343(3)(C)(ii)) for the Primary Dealer Credit Facility, Money Market Liquidity Facility, Commercial Paper Funding Facility, Paycheck Protection Program Liquidity Facility, Secondary Market Corporate Credit Facility, Municipal Liquidity Facility, Term Asset-Backed Securities Loan Facility, Main Street New Loan Facility, Main Street Expanded Loan Facility, Main Street Priority Loan Facility, Nonprofit Organization New Loan Facility, and Nonprofit Organization Expanded Loan Facility, and to approve technical or minor changes to the scope of information included in such reports; and
+(i) Periodic reports to Congress under section 13(3)(C)(ii) of the Federal Reserve Act (12 U.S.C. 343(3)(C)(ii)) for the Bank Term Funding Program, Primary Dealer Credit Facility, Money Market Liquidity Facility, Commercial Paper Funding Facility, Paycheck Protection Program Liquidity Facility, Secondary Market Corporate Credit Facility, Municipal Liquidity Facility, Term Asset-Backed Securities Loan Facility, Main Street New Loan Facility, Main Street Expanded Loan Facility, Main Street Priority Loan Facility, Nonprofit Organization New Loan Facility, and Nonprofit Organization Expanded Loan Facility, and to approve technical or minor changes to the scope of information included in such reports; and
 
 (ii) Seven-day reports to Congress under section 13(3)(C)(i) of the Federal Reserve Act (12 U.S.C. 343(3)(C)(ii)).
 
@@ -45,3 +45,5 @@
 (2) [Reserved]
 
 (g) *Reports to Congress pursuant to the Small Business Regulatory Enforcement Fairness Act of 1996.* The Assistant to the Board, Congressional Liaison Office, Division of Board Members, is authorized, in consultation with the General Counsel, to approve and submit the annual report to Congress describing the status of the Board's compliance with sections 212(a)(1) through (5) of the Small Business Regulatory Enforcement Fairness Act of 1996 (5 U.S.C. 601 note), pursuant to section 212(a)(6) of the Act.
+
+[87 FR 54003, Sept. 1, 2022, as amended at 88 FR 32622, May 22, 2023]
