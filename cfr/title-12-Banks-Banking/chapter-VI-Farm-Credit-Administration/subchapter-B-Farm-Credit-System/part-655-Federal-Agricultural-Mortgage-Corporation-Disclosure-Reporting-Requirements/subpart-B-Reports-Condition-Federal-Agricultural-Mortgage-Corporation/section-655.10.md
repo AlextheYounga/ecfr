@@ -1,5 +1,7 @@
 ##### § 655.10 Reports of condition. #####
 
+Link to an amendment published at 86 FR 27798, May 24, 2021.
+
 (a) *General.* The Corporation must prepare and publish annual reports to its shareholders of its condition, including financial statements and related schedules, exhibits, and other documents that are part of the reports. The contents of each report must be equivalent in content to the annual report to shareholders required by the Securities Act unless we issue instructions otherwise.
 
 (b) *Signatures and certification.* Each report issued under this subpart must be signed. The Corporation must designate the representatives who will sign each report. The name and position title of each person signing the report must be printed beneath his or her signature. The signatories must certify the report by using the SEC rules on certifications for disclosures in annual reports to shareholders.

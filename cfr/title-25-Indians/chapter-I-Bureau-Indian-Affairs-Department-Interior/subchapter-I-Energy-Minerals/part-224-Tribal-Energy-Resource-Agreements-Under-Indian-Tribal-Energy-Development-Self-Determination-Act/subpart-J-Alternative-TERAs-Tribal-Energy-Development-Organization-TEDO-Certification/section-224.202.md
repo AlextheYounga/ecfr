@@ -1,3 +1,5 @@
-##### § 224.202 How must a TEDO submit an application for certification? #####
+##### § 224.202 How must a Tribe submit an application for certification of a TEDO? #####
 
-A TEDO must submit an application and all supporting documents in a searchable portable document format (PDF) to *TERA@bia.gov.*
+A Tribe must submit an application for certification of a TEDO and all supporting documents in a searchable portable document format (PDF) to *TERA@bia.gov*.
+
+[86 FR 27808, May 24, 2021]
