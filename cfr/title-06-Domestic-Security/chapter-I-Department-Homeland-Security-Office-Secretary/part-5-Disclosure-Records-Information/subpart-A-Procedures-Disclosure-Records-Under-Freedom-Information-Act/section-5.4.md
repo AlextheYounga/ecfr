@@ -22,7 +22,7 @@
 
 (h) *Agreements regarding consultations and referrals.* Components may establish agreements with other components or agencies to eliminate the need for consultations or referrals with respect to particular types of records.
 
-(i) *Electronic records and searches-*(1) *Significant interference.* The FOIA allows components to not conduct a search for responsive documents if the search would cause significant interference with the operation of the component's automated information system.
+(i) *Electronic records and searches—*(1) *Significant interference.* The FOIA allows components to not conduct a search for responsive documents if the search would cause significant interference with the operation of the component's automated information system.
 
 (2) *Business as usual approach.* A “business as usual” approach exists when the component has the capability to process a FOIA request for electronic records without a significant expenditure of monetary or personnel resources. Components are not required to conduct a search that does not meet this business as usual criterion.
 
