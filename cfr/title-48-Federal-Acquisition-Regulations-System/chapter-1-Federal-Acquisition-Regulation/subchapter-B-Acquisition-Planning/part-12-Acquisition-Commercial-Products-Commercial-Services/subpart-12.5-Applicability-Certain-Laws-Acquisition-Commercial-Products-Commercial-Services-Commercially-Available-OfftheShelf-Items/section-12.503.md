@@ -1,7 +1,5 @@
 ##### 12.503 Applicability of certain laws to Executive agency contracts for the acquisition of commercial products and commercial services. #####
 
-Link to an amendment published at 87 FR 58231, Sept. 23, 2022.
-
 (a) The following laws are not applicable to Executive agency contracts for the acquisition of commercial products or commercial services:
 
 (1) 10 U.S.C. 983, Institutions of Higher Education that Prevent ROTC Access or Military Recruiting on Campus: Denial of Grants and Contracts from Department of Defense, Department of Education, and Certain Other Departments and Agencies (see 9.110).
@@ -21,6 +19,8 @@ Link to an amendment published at 87 FR 58231, Sept. 23, 2022.
 (8) 41 U.S.C. chapter 81, Drug-Free Workplace (see 23.501).
 
 (9) Section 806(a)(3) of Public Law 102-190, as amended by sections 2091 and 8105 of Public Law 103-355 (10 U.S.C. 2302 note), Payment Protections for Subcontractors and Suppliers (see 28.106-6).
+
+(10) 15 U.S.C. 644(w), Solicitation Notice Regarding Administration of Change Orders for Construction (see 36.211).
 
 (b) Certain requirements of the following laws are not applicable to executive agency contracts for the acquisition of commercial products or commercial services:
 

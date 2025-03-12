@@ -1,1 +1,1 @@
-##### 211.275 Passive radio frequency identification. #####
+##### 211.275 [Reserved] #####

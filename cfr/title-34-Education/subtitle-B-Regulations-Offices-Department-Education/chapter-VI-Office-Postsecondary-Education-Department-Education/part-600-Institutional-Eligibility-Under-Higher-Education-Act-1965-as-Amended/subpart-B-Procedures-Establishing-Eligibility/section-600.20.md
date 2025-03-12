@@ -1,16 +1,18 @@
 ##### § 600.20 Notice and application procedures for establishing, reestablishing, maintaining, or expanding institutional eligibility and certification. #####
 
+Link to an amendment published at 87 FR 65487, Oct. 28, 2022.
+
 (a) *Initial eligibility application.* (1) An institution that wishes to establish its eligibility to participate in any HEA program must submit an application to the Secretary for a determination that it qualifies as an eligible institution under this part. The Secretary must ensure prompt action is taken by the Department on any materially complete application required under this section.
 
 (2) If the institution also wishes to be certified to participate in the title IV, HEA programs, it must indicate that intent on the application, and submit all the documentation indicated on the application to enable the Secretary to determine that it satisfies the relevant certification requirements contained in 34 CFR part 668, subparts B and L.
 
-(3) A freestanding foreign graduate medical school, or a foreign institution that includes a foreign graduate medical school, must include in its application to participate -
+(3) A freestanding foreign graduate medical school, or a foreign institution that includes a foreign graduate medical school, must include in its application to participate—
 
 (i)(A) A list of all medical school educational sites and where they are located, including all sites at which its students receive clinical training, except those clinical training sites that are not used regularly, but instead are chosen by individual students who take no more than two electives at the location for no more than a total of eight weeks; and
 
 (B) The type of clinical training (core, required clinical rotation, not required clinical rotation) offered at each site listed on the application in accordance with paragraph (a)(3)(i)(A) of this section; and
 
-(ii) Whether the school offers -
+(ii) Whether the school offers—
 
 (A) Only post-baccalaureate/equivalent medical programs, as defined in § 600.52;
 
@@ -22,7 +24,7 @@
 
 (b) *Reapplication.* (1) A currently designated eligible institution that is not participating in the title IV, HEA programs must apply to the Secretary for a determination that the institution continues to meet the requirements in this part if the Secretary requests the institution to reapply. If the institution chooses to be certified to participate in the title IV, HEA programs, it must submit an application to the Secretary and must submit all the supporting documentation indicated on the application to enable the Secretary to determine that it satisfies the relevant certification requirements contained in subparts B and L of 34 CFR part 668.
 
-(2)(i) A currently designated eligible institution that participates in the title IV, HEA programs must apply to the Secretary for a determination that the institution continues to meet the requirements in this part and in 34 CFR part 668 if the institution chooses to -
+(2)(i) A currently designated eligible institution that participates in the title IV, HEA programs must apply to the Secretary for a determination that the institution continues to meet the requirements in this part and in 34 CFR part 668 if the institution chooses to—
 
 (A) Continue to participate in the title IV, HEA programs beyond the scheduled expiration of the institution's current eligibility and certification designation;
 
@@ -32,13 +34,13 @@
 
 (ii) The Secretary must ensure prompt action is taken by the Department on any materially complete application required under paragraph (a)(2)(i) of this section.
 
-(3) A freestanding foreign graduate medical school, or a foreign institution that includes a foreign graduate medical school, must include in its reapplication to participate -
+(3) A freestanding foreign graduate medical school, or a foreign institution that includes a foreign graduate medical school, must include in its reapplication to participate—
 
 (i)(A) A list of all of the foreign graduate medical school's educational sites and where they are located, including all sites at which its students receive clinical training, except those clinical training sites that are not used regularly, but instead are chosen by individual students who take no more than two electives at the location for no more than a total of eight weeks; and
 
 (B) The type of clinical training (core, required clinical rotation, not required clinical rotation) offered at each site listed on the application in accordance with paragraph (b)(3)(i)(A) of this section; and
 
-(ii) Whether the school offers -
+(ii) Whether the school offers—
 
 (A) Only post-baccalaureate/equivalent medical programs, as defined in § 600.52;
 
@@ -48,7 +50,7 @@
 
 (iii) Copies of the formal affiliation agreements with hospitals or clinics providing all or a portion of a clinical training program required under § 600.55(e)(1).
 
-(c) *Application to expand eligibility.* A currently designated eligible institution that wishes to expand the scope of its eligibility and certification and disburse title IV, HEA Program funds to students enrolled in that expanded scope must apply to the Secretary and wait for approval to -
+(c) *Application to expand eligibility.* A currently designated eligible institution that wishes to expand the scope of its eligibility and certification and disburse title IV, HEA Program funds to students enrolled in that expanded scope must apply to the Secretary and wait for approval to—
 
 (1) Add an educational program or a location at which the institution offers or will offer 50 percent or more of an educational program if one of the following conditions applies, otherwise it must report to the Secretary under § 600.21:
 
@@ -72,7 +74,7 @@
 
 (6) Convert an eligible location to a branch campus.
 
-(d) *Notice and application* - (1) *Notice and application procedures.* (i) To satisfy the requirements of paragraphs (a), (b), and (c) of this section, an institution must notify the Secretary of its intent to offer an additional educational program, or provide an application to expand its eligibility, in a format prescribed by the Secretary and provide all the information and documentation requested by the Secretary to make a determination of its eligibility and certification.
+(d) *Notice and application*—(1) *Notice and application procedures.* (i) To satisfy the requirements of paragraphs (a), (b), and (c) of this section, an institution must notify the Secretary of its intent to offer an additional educational program, or provide an application to expand its eligibility, in a format prescribed by the Secretary and provide all the information and documentation requested by the Secretary to make a determination of its eligibility and certification.
 
 (ii)(A) An institution that notifies the Secretary of its intent to offer an educational program under paragraph (c)(3) of this section must ensure that the Secretary receives the notice described in paragraph (d)(2) of this section at least 90 days before the first day of class of the educational program.
 
@@ -94,7 +96,7 @@
 
 (*2*) If the Secretary denies the institution's application to add an additional educational program, the Secretary will permit the institution to respond to the reasons for the denial and request reconsideration of the denial.
 
-(2) *Notice format.* An institution that notifies the Secretary of its intent to offer an additional educational program under paragraph (c)(3) of this section must at a minimum -
+(2) *Notice format.* An institution that notifies the Secretary of its intent to offer an additional educational program under paragraph (c)(3) of this section must at a minimum—
 
 (i) Describe in the notice how the institution determined the need for the program and how the program was designed to meet local market needs, or for an online program, regional or national market needs. This description must contain any wage analysis the institution may have performed, including any consideration of Bureau of Labor Statistics data related to the program;
 
@@ -104,13 +106,13 @@
 
 (iv) Provide the date of the first day of class of the new program.
 
-(e) *Secretary's response to applications.* (1) If the Secretary receives an application under paragraph (a) or (b)(1) of this section, the Secretary notifies the institution -
+(e) *Secretary's response to applications.* (1) If the Secretary receives an application under paragraph (a) or (b)(1) of this section, the Secretary notifies the institution—
 
 (i) Whether the applicant institution qualifies in whole or in part as an eligible institution under the appropriate provisions in §§ 600.4 through 600.7; and
 
 (ii) Of the locations and educational programs that qualify as the eligible institution if only a portion of the applicant qualifies as an eligible institution.
 
-(2) If the Secretary receives an application under paragraph (a) or (b) of this section and that institution applies to participate in the title IV, HEA programs, the Secretary notifies the institution -
+(2) If the Secretary receives an application under paragraph (a) or (b) of this section and that institution applies to participate in the title IV, HEA programs, the Secretary notifies the institution—
 
 (i) Whether the institution is certified to participate in those programs;
 
@@ -146,11 +148,11 @@
 
 (g) *Application for provisional extension of certification.* (1) If a private nonprofit institution, a private for-profit institution, or a public institution participating in the title IV, HEA programs undergoes a change in ownership that results in a change of control as described in § 600.31, the Secretary may continue the institution's participation in those programs on a provisional basis, if the institution under the new ownership submits a “materially complete application” that is received by the Secretary no later than 10 business days after the day the change occurs.
 
-(2) For purposes of this section, a private nonprofit institution, a private for-profit institution, or a public institution submits a materially complete application if it submits a fully completed application form designated by the Secretary supported by -
+(2) For purposes of this section, a private nonprofit institution, a private for-profit institution, or a public institution submits a materially complete application if it submits a fully completed application form designated by the Secretary supported by—
 
-(i) A copy of the institution's State license or equivalent document that - as of the day before the change in ownership - authorized or will authorize the institution to provide a program of postsecondary education in the State in which it is physically located;
+(i) A copy of the institution's State license or equivalent document that—as of the day before the change in ownership—authorized or will authorize the institution to provide a program of postsecondary education in the State in which it is physically located;
 
-(ii) A copy of the document from the institution's accrediting association that - as of the day before the change in ownership - granted or will grant the institution accreditation status, including approval of any non-degree programs it offers;
+(ii) A copy of the document from the institution's accrediting association that—as of the day before the change in ownership—granted or will grant the institution accreditation status, including approval of any non-degree programs it offers;
 
 (iii) Audited financial statements of the institution's two most recently completed fiscal years that are prepared and audited in accordance with the requirements of 34 CFR 668.23; and
 
@@ -158,7 +160,7 @@
 
 (h) *Terms of the extension.* (1) If the Secretary approves the institution's materially complete application, the Secretary provides the institution with a provisional Program Participation Agreement (PPA). The provisional PPA extends the terms and conditions of the program participation agreement that were in effect for the institution before its change of ownership.
 
-(2) The provisional PPA expires on the earlier of -
+(2) The provisional PPA expires on the earlier of—
 
 (i) The date on which the Secretary signs a new program participation agreement;
 
@@ -166,7 +168,7 @@
 
 (iii) The last day of the month following the month in which the change of ownership occurred, unless the provisions of paragraph (h)(3) of this section apply.
 
-(3) If the provisional PPA will expire under the provisions of paragraph (h)(2)(iii) of this section, the Secretary extends the provisional PPA on a month-to-month basis after the expiration date described in paragraph (h)(2)(iii) of this section if, prior to that expiration date, the institution provides the Secretary with -
+(3) If the provisional PPA will expire under the provisions of paragraph (h)(2)(iii) of this section, the Secretary extends the provisional PPA on a month-to-month basis after the expiration date described in paragraph (h)(2)(iii) of this section if, prior to that expiration date, the institution provides the Secretary with—
 
 (i) A “same day” balance sheet showing the financial position of the institution, as of the date of the ownership change, that is prepared in accordance with Generally Accepted Accounting Principles (GAAP) published by the Financial Accounting Standards Board and audited in accordance with Generally Accepted Government Auditing Standards (GAGAS) published by the U.S. General Accounting Office;
 

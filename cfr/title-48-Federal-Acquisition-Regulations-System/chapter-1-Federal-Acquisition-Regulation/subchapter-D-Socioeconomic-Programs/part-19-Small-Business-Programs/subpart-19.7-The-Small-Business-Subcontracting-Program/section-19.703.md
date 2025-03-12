@@ -1,14 +1,12 @@
 ##### 19.703 Eligibility requirements for participating in the program. #####
 
-Link to an amendment published at 87 FR 58224, Sept. 23, 2022.
-
 (a) Except as provided in paragraph (c) of this section, to be eligible as a subcontractor under the program, a concern must represent itself as a small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, or women-owned small business concern.
 
 (1) To represent itself as a small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, or women-owned small business concern, a concern must meet the appropriate definition (see 2.101 and 19.001). For subcontracting purposes, a concern is small if it does not exceed the size standard for the NAICS code that the prime contractor determines best describes the product or service being acquired by the subcontract.
 
-(2)(i) The prime contractor may accept a subcontractor's written representations of its size and socioeconomic status as a small business, small disadvantaged business, veteran-owned small business, service-disabled veteran-owned small business, or a women-owned small business, if the subcontractor represents that the size and socioeconomic status representation with its offer are current, accurate, and complete as of the date of the offer for the subcontracts; or
+(2)(i) The prime contractor may accept a subcontractor's written representations of its size and socioeconomic status as a small business, small disadvantaged business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, or a women-owned small business, if the subcontractor represents that the size and socioeconomic status representation with its offer are current, accurate, and complete as of the date of the offer for the subcontracts; or
 
-(ii) The prime contractor may accept a subcontractor's representation of its size and socioeconomic status as a small business, small disadvantaged business, veteran-owned small business, service-disabled veteran-owned small business, or a women-owned small business in the System for Award Management (SAM) if -
+(ii) The prime contractor may accept a subcontractor's representation of its size and socioeconomic status as a small business, small disadvantaged business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, or a women-owned small business in the System for Award Management (SAM) if—
 
 (A) The subcontractor is registered in SAM; and
 
@@ -36,15 +34,7 @@ Link to an amendment published at 87 FR 58224, Sept. 23, 2022.
 
 (2) A contractor acting in good faith may rely on the written representation of an ANC or an Indian tribe as to the status of the ANC or Indian tribe unless an interested party challenges its status or the contracting officer has independent reason to question its status. In the event of a challenge of a representation of an ANC or Indian tribe, the interested parties shall follow the procedures at 26.103(b) through (e).
 
-(d)(1) The contractor shall confirm that a subcontractor representing itself as a HUBZone small business concern is certified by SBA as a HUBZone small business concern by accessing the SAM or by contacting the SBA. Options for contacting the SBA include -
-
-(i) HUBZone small business database search application Web page at *http://dsbs.sba.gov/dsbs/dsp\_searchhubzone.cfm* or
-
-(ii) In writing to the Director/HUBZone Program, U.S. Small Business Administration, 409 3rd Street, SW., Washington DC 20416; or
-
-(iii) E-mail at *hubzone@sba.gov.*
-
-(2) Protests challenging the socioeconomic status of a HUBZone small business concern must be filed in accordance with 13 CFR 126.801.
+(d) Protests challenging the socioeconomic status of a HUBZone small business concern must be filed in accordance with 13 CFR 126.801.
 
 (e) The contracting officer or the SBA may protest the disadvantaged status of a proposed subcontractor. Protests challenging a subcontractor's small disadvantaged business representation must be filed in accordance with 13 CFR 124.1007 through 124.1014. Other interested parties may submit information to the contracting officer or the SBA in an effort to persuade the contracting officer or the SBA to initiate a protest. Such protests, in order to be considered timely, must be submitted to the SBA prior to completion of performance by the intended subcontractor.
 

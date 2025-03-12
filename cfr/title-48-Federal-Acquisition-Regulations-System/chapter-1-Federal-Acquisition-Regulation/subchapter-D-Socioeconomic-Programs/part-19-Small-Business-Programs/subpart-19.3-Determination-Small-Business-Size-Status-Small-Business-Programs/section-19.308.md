@@ -1,7 +1,5 @@
 ##### 19.308 Protesting a firm's status as an economically disadvantaged women-owned small business concern or women-owned small business concern eligible under the Women-Owned Small Business Program. #####
 
-Link to an amendment published at 87 FR 58240, Sept. 23, 2022.
-
 (a) *Definition. Interested party,* as used in this section, has the meaning given in 13 CFR 127.102.
 
 (b)(1) For sole source acquisitions, the contracting officer or SBA may protest the offeror's status as an economically disadvantaged women-owned small business (EDWOSB) concern or as a WOSB concern eligible under the WOSB Program. For all other acquisitions, an interested party (see 13 CFR 127.102) may protest the apparent successful offeror's EDWOSB or WOSB status.
@@ -16,11 +14,9 @@ Link to an amendment published at 87 FR 58240, Sept. 23, 2022.
 
 (i) The protest presents evidence that the concern is not at least 51 percent owned and controlled by one or more women who are United States citizens; or
 
-(ii) The protest presents evidence that the concern is not at least 51 percent owned and controlled by one or more economically disadvantaged women, when it is in connection with an EDWOSB contract.
+(ii) The protest presents evidence that the concern is not at least 51 percent owned and controlled by one or more economically disadvantaged women who are United States citizens, when it is in connection with an EDWOSB contract.
 
-(2) SBA shall consider protests by a contracting officer when the apparent successful offeror has failed to provide all of the required documents, as set forth in 19.1503(c).
-
-(3) Assertions that a protested concern is not a EDWOSB or WOSB concern eligible under the WOSB Program, without setting forth specific facts or allegations, will not be considered by SBA (see 13 CFR 127.603(a)).
+(2) Assertions that a protested concern is not an EDWOSB or WOSB concern eligible under the WOSB Program, without setting forth specific facts or allegations, will not be considered by SBA (see 13 CFR 127.603(a)).
 
 (e) *Protest by an interested party.* (1) An offeror shall submit its protest to the contracting officer -
 
@@ -30,7 +26,7 @@ Link to an amendment published at 87 FR 58240, Sept. 23, 2022.
 
 (2) Any protest received after the designated time limit is untimely, unless it is from the contracting officer or SBA.
 
-(f)(1) The contracting officer shall forward all protests to SBA. The protests are to be submitted to SBA's Director for Government Contracting, U.S. Small Business Administration, 409 Third Street SW., Washington, DC 20416 or by fax to 202-205-6390, Attn: Women-owned Small Business Status Protest.
+(f)(1) The contracting officer shall forward all protests to SBA. The protests are to be submitted to SBA's Director for Government Contracting by email at *wosbprotest@sba.gov.*
 
 (2) The protest shall include a referral letter written by the contracting officer with information pertaining to the solicitation. The referral letter must include the following information to allow SBA to determine timeliness and standing:
 
@@ -78,7 +74,7 @@ Link to an amendment published at 87 FR 58240, Sept. 23, 2022.
 
 (ii) The contracting officer shall update the FPDS to reflect the final SBA decision; and
 
-(iii) The concern must remove its designation in SAM as an EDWOSB or WOSB concern eligible under the WOSB Program, and shall not submit an offer as an EDWOSB concern or WOSB concern eligible under the WOSB Program, until SBA issues a decision that the ineligibility is resolved.
+(iii) SBA will remove the concern's designation in the Dynamic Small Business Search (DSBS) as an EDWOSB or WOSB concern eligible under the WOSB Program. The concern shall not submit an offer as an EDWOSB concern or WOSB concern eligible under the WOSB Program, until SBA issues a decision that the ineligibility is resolved.
 
 (4) If the contracting officer has made a written determination in accordance with (h)(1)(ii) or (h)(3) of this section, contract award has occurred, SBA has sustained the protest and determined that the concern is not eligible under the WOSB Program, and a timely OHA appeal has been filed, then the contracting officer shall consider whether performance can be suspended until an OHA decision is rendered.
 
@@ -88,7 +84,7 @@ Link to an amendment published at 87 FR 58240, Sept. 23, 2022.
 
 (ii) The contracting officer shall update the FPDS to reflect OHA's decision; and
 
-(iii) The concern must remove its designation in SAM as an EDWOSB or WOSB concern eligible under the WOSB Program, and shall not submit an offer as an EDWOSB concern or WOSB concern eligible under the WOSB Program, until SBA issues a decision that the ineligibility is resolved or OHA finds the concern is eligible on appeal.
+(iii) SBA will remove the concern's designation in DSBS as an EDWOSB or WOSB concern eligible under the WOSB Program. The concern shall not submit an offer as an EDWOSB concern or WOSB concern eligible under the WOSB Program, until SBA issues a decision that the ineligibility is resolved or OHA finds the concern is eligible on appeal.
 
 (j) *Appeals of EDWOSB or WOSB concerns eligible under the WOSB Program status determinations.* (1) The protested EDWOSB concern or WOSB concern eligible under the WOSB program, the protester, or the contracting officer may file an appeal of a WOSB or EDWOSB status protest determination with OHA.
 
@@ -102,12 +98,12 @@ Link to an amendment published at 87 FR 58240, Sept. 23, 2022.
 
 (1) The contracting officer;
 
-(2) Director, Office of Government Contracting, U.S. Small Business Administration, 409 Third Street SW., Washington, DC 20416, facsimile 202-205-6390;
+(2) Director, Office of Government Contracting, U.S. Small Business Administration, by email at *wosbprotest@sba.gov”*;
 
 (3) The protested EDWOSB concern or WOSB concern eligible under the WOSB program, or the original protester, as appropriate; and
 
-(4) SBA's Office of General Counsel, Associate General Counsel for Procurement Law, U.S. Small Business Administration, 409 Third Street SW., Washington, DC 20416, facsimile 202-205-6873, or email at *OPLService@sba.gov.*
+(4) SBA's Office of General Counsel, Associate General Counsel for Procurement Law, U.S. Small Business Administration, 409 Third Street SW., Washington, DC 20416, or email at *OPLService@sba.gov.*
 
 (m) OHA will make its decision within 15 business days of the receipt of the appeal, if practicable. SBA will provide a copy of the decision to the contracting officer, the protester, and the protested EDWOSB concern or WOSB concern eligible under the WOSB program. The OHA decision is the final agency decision and is binding on the parties.
 
-[79 FR 43587, July 25, 2014, as amended at 80 FR 81891, Dec. 31, 2015; 83 FR 48697, Sept. 26, 2018]
+[79 FR 43587, July 25, 2014, as amended at 80 FR 81891, Dec. 31, 2015; 83 FR 48697, Sept. 26, 2018; 87 FR 58240, Sept. 23, 2022]

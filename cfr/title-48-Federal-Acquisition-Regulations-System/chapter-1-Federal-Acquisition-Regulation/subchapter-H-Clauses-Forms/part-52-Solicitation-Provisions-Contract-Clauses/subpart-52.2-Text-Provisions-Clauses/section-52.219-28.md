@@ -1,10 +1,8 @@
 ##### 52.219-28 Post-Award Small Business Program Rerepresentation. #####
 
-Link to an amendment published at 87 FR 58227, Sept. 23, 2022.Link to an amendment published at 87 FR 58243, Sept. 23, 2022.
-
 As prescribed in 19.309(c)(1), insert the following clause:
 
-Post-Award Small Business Program Rerepresentation (SEP 2021)
+Post-Award Small Business Program Rerepresentation (OCT 2022)
 
 (a) *Definitions.* As used in this clause -
 
@@ -12,7 +10,7 @@ Post-Award Small Business Program Rerepresentation (SEP 2021)
 
 *Small business concern* -
 
-(1) Means a concern, including its affiliates, that is independently owned and operated, not dominant in the field of operation in which it is bidding on Government contracts, and qualified as a small business under the criteria in 13 CFR part 121 and the size standard in paragraph (d) of this clause. Such a concern is “not dominant in its field of operation” when it does not exercise a controlling or major influence on a national basis in a kind of business activity in which a number of business concerns are primarily engaged. In determining whether dominance exists, consideration shall be given to all appropriate factors, including volume of business, number of employees, financial resources, competitive status or position, ownership or control of materials, processes, patents, license agreements, facilities, sales territory, and nature of business activity.
+(1) Means a concern, including its affiliates, that is independently owned and operated, not dominant in its field of operation, and qualified as a small business under the criteria in 13 CFR part 121 and the size standard in paragraph (d) of this clause.
 
 (2) *Affiliates,* as used in this definition, means business concerns, one of whom directly or indirectly controls or has the power to control the others, or a third party or parties control or have the power to control the others. In determining whether affiliation exists, consideration is given to all appropriate factors including common ownership, common management, and contractual relationships. SBA determines affiliation based on the factors set forth at 13 CFR 121.103.
 
@@ -52,17 +50,9 @@ Post-Award Small Business Program Rerepresentation (SEP 2021)
 
 (3) [*Complete only if the Contractor represented itself as a small business concern in paragraph (h)(1) of this clause.*] The Contractor represents that it □ is, □ is not a women-owned small business concern.
 
-(4) Women-owned small business (WOSB) concern eligible under the WOSB Program. [*Complete only if the Contractor represented itself as a women-owned small business concern in paragraph (h)(3) of this clause*.] The Contractor represents that -
+(4) Women-owned small business (WOSB) joint venture eligible under the WOSB Program. The Contractor represents that it □ is, □ is not a joint venture that complies with the requirements of 13 CFR 127.506(a) through (c). [*The Contractor shall enter the name and unique entity identifier of each party to the joint venture:*\_\_ .]
 
-(i) It □ is, □ is not a WOSB concern eligible under the WOSB Program, has provided all the required documents to the WOSB Repository, and no change in circumstances or adverse decisions have been issued that affects its eligibility; and
-
-(ii) It □ is, □ is not a joint venture that complies with the requirements of 13 CFR part 127, and the representation in paragraph (h)(4)(i) of this clause is accurate for each WOSB concern eligible under the WOSB Program participating in the joint venture. [*The Contractor shall enter the name or names of the WOSB concern eligible under the WOSB Program and other small businesses that are participating in the joint venture:* \_\_\_\_\_\_\_\_\_\_.] Each WOSB concern eligible under the WOSB Program participating in the joint venture shall submit a separate signed copy of the WOSB representation.
-
-(5) Economically disadvantaged women-owned small business (EDWOSB) concern. [*Complete only if the Contractor represented itself as a women-owned small business concern eligible under the WOSB Program in (h)(4) of this clause*.] The Contractor represents that -
-
-(i) It □ is, □ is not an EDWOSB concern eligible under the WOSB Program, has provided all the required documents to the WOSB Repository, and no change in circumstances or adverse decisions have been issued that affects its eligibility; and
-
-(ii) It □ is, □ is not a joint venture that complies with the requirements of 13 CFR part 127, and the representation in paragraph (h)(5)(i) of this clause is accurate for each EDWOSB concern participating in the joint venture. [*The Contractor shall enter the name or names of the EDWOSB concern and other small businesses that are participating in the joint venture:* \_\_\_\_\_\_\_\_\_\_.] Each EDWOSB concern participating in the joint venture shall submit a separate signed copy of the EDWOSB representation.
+(5) Economically disadvantaged women-owned small business (EDWOSB) joint venture. The Contractor represents that it □ is, □ is not a joint venture that complies with the requirements of 13 CFR 127.506(a) through (c). [*The Contractor shall enter the name and unique entity identifier of each party to the joint venture:*\_\_ .]
 
 (6) [*Complete only if the Contractor represented itself as a small business concern in paragraph (h)(1) of this clause*.] The Contractor represents that it □ is, □ is not a veteran-owned small business concern.
 
@@ -90,4 +80,4 @@ Post-Award Small Business Program Rerepresentation (SEP 2021)
 
 [Contracting Officer to insert NAICS codes.]
 
-[72 FR 36856, July 5, 2007, as amended at 74 FR 11825, Mar. 19, 2009; 74 FR 14493, Mar. 31, 2009; 76 FR 18314, Apr. 1, 2011; 77 FR 23371, Apr. 18, 2012; 78 FR 37683, June 21, 2013; 79 FR 61754, Oct. 14, 2014; 85 FR 11771, Feb. 27, 2020; 85 FR 27101, May 6, 2020; 85 FR 67617, Oct. 23, 2020; 86 FR 44246, Aug. 11, 2021]
+[72 FR 36856, July 5, 2007, as amended at 74 FR 11825, Mar. 19, 2009; 74 FR 14493, Mar. 31, 2009; 76 FR 18314, Apr. 1, 2011; 77 FR 23371, Apr. 18, 2012; 78 FR 37683, June 21, 2013; 79 FR 61754, Oct. 14, 2014; 85 FR 11771, Feb. 27, 2020; 85 FR 27101, May 6, 2020; 85 FR 67617, Oct. 23, 2020; 86 FR 44246, Aug. 11, 2021; 87 FR 58227, 58243, Sept. 23, 2022]

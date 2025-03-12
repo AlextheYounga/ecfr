@@ -1,7 +1,5 @@
 ##### 52.212-5 Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Products and Commercial Services. #####
 
-Link to an amendment published at 87 FR 58225, Sept. 23, 2022.Link to an amendment published at 87 FR 58236, Sept. 23, 2022.Link to an amendment published at 87 FR 58242, Sept. 23, 2022.
-
 As prescribed in 12.301(b)(4), insert the following clause:
 
 Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Products and Commercial Services (OCT 2022)
@@ -42,9 +40,9 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (10) [Reserved]
 
-\_\_ (11) 52.219-3, Notice of HUBZone Set-Aside or Sole-Source Award (SEP 2021) (15 U.S.C. 657a).
+\_\_ (11) 52.219-3, Notice of HUBZone Set-Aside or Sole-Source Award (OCT 2022) (15 U.S.C. 657a).
 
-\_\_ (12) 52.219-4, Notice of Price Evaluation Preference for HUBZone Small Business Concerns (SEP 2021) (if the offeror elects to waive the preference, it shall so indicate in its offer) (15 U.S.C. 657a).
+\_\_ (12) 52.219-4, Notice of Price Evaluation Preference for HUBZone Small Business Concerns (OCT 2022) (if the offeror elects to waive the preference, it shall so indicate in its offer) (15 U.S.C. 657a).
 
 \_\_ (13) [Reserved]
 
@@ -56,9 +54,9 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (ii) Alternate I (MAR 2020) of 52.219-7.
 
-\_\_ (16) 52.219-8, Utilization of Small Business Concerns (OCT 2018) (15 U.S.C. 637(d)(2) and (3)).
+\_\_ (16) 52.219-8, Utilization of Small Business Concerns (OCT 2022) (15 U.S.C. 637(d)(2) and (3)).
 
-\_\_ (17)(i) 52.219-9, Small Business Subcontracting Plan (NOV 2021) (15 U.S.C. 637(d)(4)).
+\_\_ (17)(i) 52.219-9, Small Business Subcontracting Plan (OCT 2022) (15 U.S.C. 637(d)(4)).
 
 \_\_ (ii) Alternate I (NOV 2016) of 52.219-9.
 
@@ -72,19 +70,19 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (ii) Alternate I (MAR 2020) of 52.219-13.
 
-\_\_ (19) 52.219-14, Limitations on Subcontracting (SEP 2021) (15 U.S.C. 657s).
+\_\_ (19) 52.219-14, Limitations on Subcontracting (OCT 2022) (15 U.S.C. 657s).
 
 \_\_ (20) 52.219-16, Liquidated Damages - Subcontracting Plan (SEP 2021) (15 U.S.C. 637(d)(4)(F)(i)).
 
-\_\_ (21) 52.219-27, Notice of Service-Disabled Veteran-Owned Small Business Set-Aside (SEP 2021) (15 U.S.C. 657f).
+\_\_ (21) 52.219-27, Notice of Service-Disabled Veteran-Owned Small Business Set-Aside (OCT 2022) (15 U.S.C. 657f).
 
-\_\_ (22)(i) 52.219-28, Post-Award Small Business Program Rerepresentation (SEP 2021) (15 U.S.C. 632(a)(2)).
+\_\_ (22)(i) 52.219-28, Post-Award Small Business Program Rerepresentation (OCT 2022) (15 U.S.C. 632(a)(2)).
 
 \_\_ (ii) Alternate I (MAR 2020) of 52.219-28.
 
-\_\_ (23) 52.219-29, Notice of Set-Aside for, or Sole-Source Award to, Economically Disadvantaged Women-Owned Small Business Concerns (SEP 2021) (15 U.S.C. 637(m)).
+\_\_ (23) 52.219-29, Notice of Set-Aside for, or Sole-Source Award to, Economically Disadvantaged Women-Owned Small Business Concerns (OCT 2022) (15 U.S.C. 637(m)).
 
-\_\_ (24) 52.219-30, Notice of Set-Aside for, or Sole-Source Award to, Women-Owned Small Business Concerns Eligible Under the Women-Owned Small Business Program (SEP 2021) (15 U.S.C. 637(m)).
+\_\_ (24) 52.219-30, Notice of Set-Aside for, or Sole-Source Award to, Women-Owned Small Business Concerns Eligible Under the Women-Owned Small Business Program (OCT 2022) (15 U.S.C. 637(m)).
 
 \_\_ (25) 52.219-32, Orders Issued Directly Under Small Business Reserves (MAR 2020) (15 U.S.C. 644(r)).
 
@@ -224,7 +222,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 (3) As used in this clause, records include books, documents, accounting procedures and practices, and other data, regardless of type and regardless of form. This does not require the Contractor to create or maintain any record that the Contractor does not maintain in the ordinary course of business or pursuant to a provision of law.
 
-(e)(1) Notwithstanding the requirements of the clauses in paragraphs (a), (b), (c), and (d) of this clause, the Contractor is not required to flow down any FAR clause, other than those in this paragraph (e)(1) of this paragraph in a subcontract for commercial products or commercial services. Unless otherwise indicated below, the extent of the flow down shall be as required by the clause -
+(e)(1) Notwithstanding the requirements of the clauses in paragraphs (a), (b), (c), and (d) of this clause, the Contractor is not required to flow down any FAR clause, other than those in this paragraph (e)(1), in a subcontract for commercial products or commercial services. Unless otherwise indicated below, the extent of the flow down shall be as required by the clause -
 
 (i) 52.203-13, Contractor Code of Business Ethics and Conduct (NOV 2021) (41 U.S.C. 3509).
 
@@ -234,7 +232,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 (iv) 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment. (NOV 2021) (Section 889(a)(1)(A) of Pub. L. 115-232).
 
-(v) 52.219-8, Utilization of Small Business Concerns (OCT 2018) (15 U.S.C. 637(d)(2) and (3)), in all subcontracts that offer further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
+(v) 52.219-8, Utilization of Small Business Concerns (OCT 2022) (15 U.S.C. 637(d)(2) and (3)), in all subcontracts that offer further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
 
 (vi) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
 
@@ -280,7 +278,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 *Alternate I* (JULY 2014). As prescribed in 12.301(b)(4)(i), delete paragraph (d) from the basic clause, redesignate paragraph (e) as paragraph (d), and revise the reference to “paragraphs (a), (b), (c), or (d) of this clause” in the redesignated paragraph (d) to read “paragraphs (a), (b), and (c) of this clause”.
 
-*Alternate II* (MAY 2022). As prescribed in 12.301(b)(4)(ii), substitute the following paragraphs (d)(1) and (e)(1) for paragraphs (d)(1) and (e)(1) of the basic clause as follows:
+*Alternate II* (OCT 2022). As prescribed in 12.301(b)(4)(ii), substitute the following paragraphs (d)(1) and (e)(1) for paragraphs (d)(1) and (e)(1) of the basic clause as follows:
 
 (d)(1) The Comptroller General of the United States, an appropriate Inspector General appointed under section 3 or 8G of the Inspector General Act of 1978 (5 U.S.C. App.), or an authorized representative of either of the foregoing officials shall have access to and right to -
 
@@ -302,7 +300,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 (D) 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment. (NOV 2021) (Section 889(a)(1)(A) of Pub. L. 115-232).
 
-(E) 52.219-8, Utilization of Small Business Concerns (OCT 2018) (15 U.S.C. 637(d)(2) and (3)), in all subcontracts that offer further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
+(E) 52.219-8, Utilization of Small Business Concerns (OCT 2022) (15 U.S.C. 637(d)(2) and (3)), in all subcontracts that offer further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
 
 (F) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
 

@@ -2,15 +2,17 @@
 
 (c) Include an evaluation factor regarding supply chain risk (see subpart 239.73) when acquiring information technology, whether as a service or as a supply, that is a covered system, is a part of a covered system, or is in support of a covered system, as defined in 239.7301.
 
-(f) The following additional provisions and clauses apply to DoD solicitations and contracts using FAR part 12 procedures for the acquisition of commercial items. If the offeror has completed any of the following provisions listed in this paragraph electronically as part of its annual representations and certifications at *https:// https://www.sam.gov,* the contracting officer shall consider this information instead of requiring the offeror to complete these provisions for a particular solicitation.
+(f) The following additional provisions and clauses apply to DoD solicitations and contracts using FAR part 12 procedures for the acquisition of commercial items. If the offeror has completed any of the following provisions listed in this paragraph electronically as part of its annual representations and certifications at *https://www.sam.gov,* the contracting officer shall consider this information instead of requiring the offeror to complete these provisions for a particular solicitation.
 
 (i) *Part 203 - Improper Business Practices and Personal Conflicts of Interest.* (A) Use the FAR clause at 52.203-3, Gratuities, as prescribed in FAR 3.202, to comply with 10 U.S.C. 2207.
 
 (B) Use the clause at 252.203-7000, Requirements Relating to Compensation of Former DoD Officials, as prescribed in 203.171-4(a), to comply with section 847 of Pub. L. 110-181.
 
-(C) Use the clause at 252.203-7003, Agency Office of the Inspector General, as prescribed in 203.1004(a), to comply with section 6101 of Pub. L. 110-252 and 41 U.S.C. 3509.
+(C) Use the clause at 252.203-7002, Requirement to Inform Employees of Whistleblower Rights, as prescribed in 203.970, to comply with 10 U.S.C. 2409.
 
-(D) Use the provision at 252.203-7005, Representation Relating to Compensation of Former DoD Officials, as prescribed in 203.171-4(b).
+(D) Use the clause at 252.203-7003, Agency Office of the Inspector General, as prescribed in 203.1004(a), to comply with section 6101 of Pub. L. 110-252 and 41 U.S.C. 3509.
+
+(E) Use the provision at 252.203-7005, Representation Relating to Compensation of Former DoD Officials, as prescribed in 203.171-4(b).
 
 (ii) *Part 204 - Administrative and Information Matters.*
 
@@ -50,11 +52,9 @@
 
 (iv) *Part 211 - Describing Agency Needs.* (A) Use the clause at 252.211-7003, Item Unique Identification and Valuation, as prescribed in 211.274-6(a)(1).
 
-(B) Use the provision at 252.211-7006, Passive Radio Frequency Identification, as prescribed in 211.275-3.
+(B) Use the clause at 252.211-7007, Reporting of Government-Furnished Property, as prescribed in 211.274-6.
 
-(C) Use the clause at 252.211-7007, Reporting of Government-Furnished Property, as prescribed in 211.274-6.
-
-(D) Use the clause at 252.211-7008, Use of Government-Assigned Serial Numbers, as prescribed in 211.274-6(c).
+(C) Use the clause at 252.211-7008, Use of Government-Assigned Serial Numbers, as prescribed in 211.274-6(c).
 
 (v) *Part 213 - Simplified Acquisition Procedures.* Use the provision at 252.213-7000, Notice to Prospective Suppliers on Use of Supplier Performance Risk System in Past Performance Evaluations, as prescribed in 213.106-2-70.
 
@@ -214,7 +214,9 @@
 
 (C) Use the clause at 252.227-7037, Validation of Restrictive Markings on Technical Data, as prescribed in 227.7102-4(c).
 
-(xiii) *Part 232 - Contract Financing.* (A) Use the clause at 252.232-7003, Electronic Submission of Payment Requests and Receiving Reports, as prescribed in 232.7004, to comply with 10 U.S.C. 2227.
+(xiii) *Part 229 - Taxes.* Use the clause at 252.229-7014, Full Exemption from Two-Percent Excise Tax on Certain Foreign Procurements, as prescribed at 229.402-70, to comply with 26 U.S.C. 5000C.
+
+(xiv) *Part 232 - Contract Financing.* (A) Use the clause at 252.232-7003, Electronic Submission of Payment Requests and Receiving Reports, as prescribed in 232.7004, to comply with 10 U.S.C. 2227.
 
 (B) Use the clause at 252.232-7006, Wide Area WorkFlow Payment Instructions, as prescribed in 232.7004(b).
 
@@ -228,11 +230,15 @@
 
 (G) Use the clause at 252.232-7017, Accelerating Payments to Small Business Subcontractors - Prohibition on Fees and Consideration, as prescribed in 232.009-2(2), to comply with 10 U.S.C. 2307(a).
 
-(xiv) *Part 237 - Service Contracting.* (A) Use the clause at 252.237-7010, Prohibition on Interrogation of Detainees by Contractor Personnel, as prescribed in 237.173-5, to comply with section 1038 of Pub. L. 111-84.
+(xv) *Part 237 - Service Contracting.* (A) Use the clause at 252.237-7010, Prohibition on Interrogation of Detainees by Contractor Personnel, as prescribed in 237.173-5, to comply with section 1038 of Pub. L. 111-84.
 
 (B) Use the clause at 252.237-7019, Training for Contractor Personnel Interacting with Detainees, as prescribed in 237.171-4, to comply with section 1092 of Pub. L. 108-375.
 
-(xv) *Part 239 - Acquisition of Information Technology.* (A) Use the provision 252.239-7009, Representation of Use of Cloud Computing, as prescribed in 239.7604(a).
+(C) Use the provision at 252.237-7025, Preaward Transparency Requirements for Firms Offering to Support Department of Defense Audits - Representation and Disclosure, as prescribed in 237.270(e)(3), to comply with section 1006 of the National Defense Authorization Act for Fiscal Year 2019 (Pub. L. 115-232) and section 1011 of the National Defense Authorization Act for Fiscal Year 2020 (Pub. L. 116-92).
+
+(D) Use the clause at 252.237-7026, Postaward Transparency Requirements for Firms that Support Department of Defense Audits, as prescribed in 237.270(e)(4), to comply with section 1006 of the National Defense Authorization Act for Fiscal Year 2019 (Pub. L. 115-232) and section 1011 of the National Defense Authorization Act for Fiscal Year 2020 (Pub. L. 116-92).
+
+(xvi) *Part 239 - Acquisition of Information Technology.* (A) Use the provision 252.239-7009, Representation of Use of Cloud Computing, as prescribed in 239.7604(a).
 
 (B) Use the clause 252.239-7010, Cloud Computing Services, as prescribed in 239.7604(b).
 
@@ -240,17 +246,17 @@
 
 (D) Use the clause at 252.239-7018, Supply Chain Risk, as prescribed in 239.7306(b), to comply with 10 U.S.C. 2339a.
 
-(xvi) *Part 243 - Contract Modifications.* Use the clause at 252.243-7002, Requests for Equitable Adjustment, as prescribed in 243.205-71, to comply with 10 U.S.C. 2410.
+(xvii) *Part 243 - Contract Modifications.* Use the clause at 252.243-7002, Requests for Equitable Adjustment, as prescribed in 243.205-71, to comply with 10 U.S.C. 2410.
 
-(xvii) *Part 244 - Subcontracting Policies and Procedures.* Use the clause at 252.244-7000, Subcontracts for Commercial Items, as prescribed in 244.403.
+(xviii) *Part 244 - Subcontracting Policies and Procedures.* Use the clause at 252.244-7000, Subcontracts for Commercial Items, as prescribed in 244.403.
 
-(xviii) *Part 246 - Quality Assurance.* (A) Use the clause at 252.246-7003, Notification of Potential Safety Issues, as prescribed in246.370(a).
+(xix) *Part 246 - Quality Assurance.* (A) Use the clause at 252.246-7003, Notification of Potential Safety Issues, as prescribed in246.370(a).
 
 (B) Use the clause at 252.246-7004, Safety of Facilities, Infrastructure, and Equipment for Military Operations, as prescribed in 246.270-4, to comply with section 807 of Pub. L. 111-84.
 
 (C) Use the clause at 252.246-7008, Sources of Electronic Parts, as prescribed in 246.870-3(b), to comply with section 818(c)(3) of Public Law 112-81, as amended by section 817 of the National Defense Authorization Act for Fiscal Year 2015 (Pub. L. 113-291 and section 885 of the National Defense Authorization Act for Fiscal Year 2016 (Pub. L. 114-92).
 
-(xix) *Part 247 - Transportation.* (A) Use the clause at 252.247-7003, Pass-Through of Motor Carrier Fuel Surcharge Adjustment to the Cost Bearer, as prescribed in 247.207, to comply with section 884 of Pub. L. 110-417.
+(xx) *Part 247 - Transportation.* (A) Use the clause at 252.247-7003, Pass-Through of Motor Carrier Fuel Surcharge Adjustment to the Cost Bearer, as prescribed in 247.207, to comply with section 884 of Pub. L. 110-417.
 
 (B) Use the provision at 252.247-7022, Representation of Extent of Transportation by Sea, as prescribed in 247.574(a).
 
@@ -270,4 +276,4 @@
 
 (G) Use the clause at 252.247-7028, Application for U.S. Government Shipping Documentation/Instructions, as prescribed in 247.207.
 
-[80 FR 2019, Jan. 15, 2015, as amended at 80 FR 4999, Jan. 29, 2015; 80 FR 30116, 30118, May 26, 2015; 80 FR 36901, June 26, 2015; 80 FR 51743, 51749, Aug. 26, 2015; 80 FR 56929, Sept. 21, 2015; 80 FR 67251, Oct. 30, 2015; 80 FR 72603, Nov. 20, 2015; 80 FR 81469, Dec. 30, 2015; 81 FR 17046, Mar. 25, 2016; 81 FR 28728, 28730, May 10, 2016; 81 FR 50647, Aug. 2, 2016; 82 FR 61480, Dec. 28, 2017; 83 FR 4443, Jan. 31, 2018; 83 FR 16002, Apr. 13, 2018; 83 FR 19645, May 4, 2018; 83 FR 24887, 24888, May 30, 2018; 83 FR 30825, June 29, 2018; 83 FR 62499, Dec. 4, 2018; 83 FR 66063, 66071, Dec. 21, 2018; 84 FR 4363, 4369, 4371, Feb. 15, 2019; 84 FR 18158, Apr. 30, 2019; 84 FR 48508, 48510, Sept. 13, 2019; 84 FR 58332, Oct. 31, 2019; 84 FR 72237, 72559, Dec. 31, 2019; 85 FR 19697, Apr. 8, 2020; 85 FR 61501, 61520, Sept. 29, 2020; 85 FR 74612, Nov. 23, 2020; 85 FR 61520, Sept. 29, 2020; 86 FR 3836, Jan. 15, 2021; 86 FR 27277, May 20, 2021; 86 FR 36236, July 9, 2021; 86 FR 48338, Aug. 30, 2021; 87 FR 15810, Mar. 18, 2022; 87 FR 52347, Aug. 25, 2022]
+[80 FR 2019, Jan. 15, 2015, as amended at 80 FR 4999, Jan. 29, 2015; 80 FR 30116, 30118, May 26, 2015; 80 FR 36901, June 26, 2015; 80 FR 51743, 51749, Aug. 26, 2015; 80 FR 56929, Sept. 21, 2015; 80 FR 67251, Oct. 30, 2015; 80 FR 72603, Nov. 20, 2015; 80 FR 81469, Dec. 30, 2015; 81 FR 17046, Mar. 25, 2016; 81 FR 28728, 28730, May 10, 2016; 81 FR 50647, Aug. 2, 2016; 82 FR 61480, Dec. 28, 2017; 83 FR 4443, Jan. 31, 2018; 83 FR 16002, Apr. 13, 2018; 83 FR 19645, May 4, 2018; 83 FR 24887, 24888, May 30, 2018; 83 FR 30825, June 29, 2018; 83 FR 62499, Dec. 4, 2018; 83 FR 66063, 66071, Dec. 21, 2018; 84 FR 4363, 4369, 4371, Feb. 15, 2019; 84 FR 18158, Apr. 30, 2019; 84 FR 48508, 48510, Sept. 13, 2019; 84 FR 58332, Oct. 31, 2019; 84 FR 72237, 72559, Dec. 31, 2019; 85 FR 19697, Apr. 8, 2020; 85 FR 61501, 61520, Sept. 29, 2020; 85 FR 74612, Nov. 23, 2020; 85 FR 61520, Sept. 29, 2020; 86 FR 3836, Jan. 15, 2021; 86 FR 27277, May 20, 2021; 86 FR 36236, July 9, 2021; 86 FR 48338, Aug. 30, 2021; 87 FR 15810, Mar. 18, 2022; 87 FR 52347, Aug. 25, 2022; 87 FR 65501, 65512, 65514, 65517, Oct. 28, 2022]

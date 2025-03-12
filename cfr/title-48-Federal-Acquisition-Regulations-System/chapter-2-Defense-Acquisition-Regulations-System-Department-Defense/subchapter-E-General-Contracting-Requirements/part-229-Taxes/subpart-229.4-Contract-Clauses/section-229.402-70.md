@@ -10,13 +10,13 @@
 
 (c)(1) Use the clause at 252.229-7003, Tax Exemptions (Italy), in solicitations and contracts when contract performance will be in Italy.
 
-(2) Use the provision at 252.229-7012, Tax Exemptions (Italy) - Representation, in solicitations that contain the clause at 252.229-7003, Tax Exemptions (Italy). If the solicitation includes the provision at FAR 52.204-7, do not separately list 252.229-7012 in the solicitation.
+(2) Use the provision at 252.229-7012, Tax Exemptions (Italy)—Representation, in solicitations that contain the clause at 252.229-7003, Tax Exemptions (Italy). If the solicitation includes the provision at FAR 52.204-7, do not separately list 252.229-7012 in the solicitation.
 
 (d) Use the clause at 252.229-7004, Status of Contractor as a Direct Contractor (Spain), in solicitations and contracts requiring the import into Spain of supplies for construction, development, maintenance, or operation of Spanish-American installations and facilities.
 
 (e)(1) Use the clause at 252.229-7005, Tax Exemptions (Spain). If the solicitation includes the provision at FAR 52.204-7, do not separately list 252.229-7013 in the solicitation., in solicitations and contracts when contract performance will be in Spain.
 
-(2) Use the provision at 252.229-7013, Tax Exemptions (Spain) - Representation, in solicitations that contain the clause at 252.229-7005, Tax Exemptions (Spain).
+(2) Use the provision at 252.229-7013, Tax Exemptions (Spain)—Representation, in solicitations that contain the clause at 252.229-7005, Tax Exemptions (Spain).
 
 (f) Use the clause at 252.229-7006, Value Added Tax Exclusion (United Kingdom), in solicitations and contracts when contract performance will be in the United Kingdom.
 
@@ -28,4 +28,10 @@
 
 (j) Use the clause at 252.229-7010, Relief from Customs Duty on Fuel (United Kingdom), in solicitations issued and contracts awarded in the United Kingdom that require the use of fuels (gasoline or diesel) and lubricants in taxis or vehicles other than passenger vehicles.
 
-[62 FR 34125, June 24, 1997, 77 FR 19130, Mar. 30, 2012; 78 FR 37989, June 25, 2013; 78 FR 40043, July 3, 2013; 79 FR 58700, Sept. 30, 2014; 80 FR 81469, Dec. 30, 2015; 85 FR 74612, Nov. 23, 2020]
+(k) Use the clause at 252.229-7014, Full Exemption from Two-Percent Excise Tax on Certain Foreign Procurements, in contracts that include the clause at FAR 52.229-12, Tax on Certain Foreign Procurements, when the contractor has—
+
+(1) Represented that it is a foreign person in response to the provision at FAR 52.229-11, Tax on Certain Foreign Procurements—Notice and Representation; and
+
+(2) Indicated that it is fully exempt from the tax for reasons cited on their IRS Form W-14, Certificate of Foreign Contracting Party Receiving Federal Procurement Payments.
+
+[62 FR 34125, June 24, 1997, 77 FR 19130, Mar. 30, 2012; 78 FR 37989, June 25, 2013; 78 FR 40043, July 3, 2013; 79 FR 58700, Sept. 30, 2014; 80 FR 81469, Dec. 30, 2015; 85 FR 74612, Nov. 23, 2020; 87 FR 65517, Oct. 28, 2022]

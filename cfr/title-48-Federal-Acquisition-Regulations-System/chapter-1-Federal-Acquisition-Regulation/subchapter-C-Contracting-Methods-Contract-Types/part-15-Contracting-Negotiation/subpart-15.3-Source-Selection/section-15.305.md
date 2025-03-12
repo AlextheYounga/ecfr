@@ -1,7 +1,5 @@
 ##### 15.305 Proposal evaluation. #####
 
-Link to an amendment published at 87 FR 58223, Sept. 23, 2022.
-
 (a) Proposal evaluation is an assessment of the proposal and the offeror's ability to perform the prospective contract successfully. An agency shall evaluate competitive proposals and then assess their relative qualities solely on the factors and subfactors specified in the solicitation. Evaluations may be conducted using any rating method or combination of methods, including color or adjectival ratings, numerical weights, and ordinal rankings. The relative strengths, deficiencies, significant weaknesses, and risks supporting proposal evaluation shall be documented in the contract file.
 
 (1) *Cost or price evaluation.* Normally, competition establishes price reasonableness. Therefore, when contracting on a firm-fixed-price or fixed-price with economic price adjustment basis, comparison of the proposed prices will usually satisfy the requirement to perform a price analysis, and a cost analysis need not be performed. In limited situations, a cost analysis may be appropriate to establish reasonableness of the otherwise successful offeror's price (see 15.403-1(c)(1)(i)(C)).
@@ -17,7 +15,9 @@ When contracting on a cost-reimbursement basis, evaluations shall include a cost
 
 (v) The evaluation should include the past performance of offerors in complying with subcontracting plan goals for small disadvantaged business (SDB) concerns (see subpart 19.7).
 
-(3) *Technical evaluation.* When tradeoffs are performed (see 15.101-1), the source selection records shall include -
+(vi) For offerors that are joint ventures, the evaluation shall take into account past performance of the joint venture. If the joint venture does not demonstrate past performance for award, the contracting officer shall consider the past performance of each party to the joint venture.
+
+(3) *Technical evaluation.* When tradeoffs are performed (see 15.101-1), the source selection records shall include—
 
 (i) An assessment of each offeror's ability to accomplish the technical requirements; and
 
@@ -31,4 +31,4 @@ When contracting on a cost-reimbursement basis, evaluations shall include a cost
 
 (c) For restrictions on the use of support contractor personnel in proposal evaluation, see 37.203(d).
 
-[62 FR 51230, Sept. 30, 1997, as amended at 63 FR 36121, July 1, 1998; 64 FR 51842, 51850, Sept. 24, 1999; 65 FR 46054, July 26, 2000; 74 FR 65615, Dec. 10, 2009; 79 FR 61750, Oct. 14, 2014; 84 FR 27496, June 12, 2019]
+[62 FR 51230, Sept. 30, 1997, as amended at 63 FR 36121, July 1, 1998; 64 FR 51842, 51850, Sept. 24, 1999; 65 FR 46054, July 26, 2000; 74 FR 65615, Dec. 10, 2009; 79 FR 61750, Oct. 14, 2014; 84 FR 27496, June 12, 2019; 87 FR 58223, Sept. 23, 2022]

@@ -14,7 +14,7 @@
 
 (b) *Price analysis for commercial and noncommercial items.* (i) In the absence of adequate price competition in response to the solicitation, pricing based on market prices is the preferred method to establish a fair and reasonable price (see PGI 215.404-1(b)(i)).
 
-(ii) If the contracting officer determines that the information obtained through market research is insufficient to determine the reasonableness of price, the contracting officer shall consider information submitted by the offeror of recent purchase prices paid by the Government and commercial customers for the same or similar commercial items under comparable terms and conditions in establishing price reasonableness on a subsequent purchase if the contracting officer is satisfied that the prices previously paid remain a valid reference for comparison. The contracting officer shall consider the totality of other relevant factors such as the time elapsed since the prior purchase and any differences in the quantities purchased (section 853 of the National Defense Authorization Act for Fiscal Year 2016 (Pub. L. 114-92)).
+(ii) If the contracting officer determines that the information obtained through market research is insufficient to determine the reasonableness of price, the contracting officer shall consider information submitted by the offeror of recent purchase prices paid by the Government and commercial customers for the same or similar commercial items under comparable terms and conditions in establishing price reasonableness on a subsequent purchase if the contracting officer is satisfied that the prices previously paid remain a valid reference for comparison. Price reasonableness shall not be based solely on historical prices paid by the Government (see 215.403-3(a)(1)). The contracting officer shall consider the totality of other relevant factors such as the time elapsed since the prior purchase and any differences in the quantities purchased (10 U.S.C. 2306a(b)(5)).
 
 (iii) If the contracting officer determines that the offeror cannot provide sufficient information as described in paragraph (b)(ii) of this section to determine the reasonableness of price, the contracting officer should request the offeror to submit information on -
 
@@ -28,7 +28,7 @@
 
 (iv) If the contracting officer determines that the pricing information submitted is not sufficient to determine the reasonableness of price, the contracting officer shall request other relevant information, to include cost data. However, no cost data may be required in any case in which there are sufficient non-Government sales of the same item to establish reasonableness of price (section 831 of the National Defense Authorization Act for Fiscal Year 2013 (Pub. L. 112-239)).
 
-(v) When evaluating pricing data, the contracting officer shall consider materially differing terms and conditions, quantities, and market and economic factors. For similar items, the contracting officer shall also consider material differences between the similar item and the item being procured (see FAR 15.404-1(b)(2)(ii)(B) and PGI 215.404-1(b)(v)). Material differences are those that could reasonably be expected to influence the contracting officer's determination of price reasonableness. The contracting officer shall consider the following factors when evaluating the relevance of the information available:
+(v) When evaluating pricing data, the contracting officer shall consider materially differing terms and conditions, quantities, and market and economic factors (see PGI 215.404-1(b)(v)). For similar items, the contracting officer shall also consider material differences between the similar item and the item being procured (see FAR 15.404-1(b)(2)(ii)(B)). Material differences are those that could reasonably be expected to influence the contracting officer's determination of price reasonableness. The contracting officer shall consider the following factors when evaluating the relevance of the information available:
 
 (A) *Market prices.*
 
@@ -48,4 +48,4 @@
 
 (h) *Review and justification of pass-through contracts.* Follow the procedures at PGI 215.404-1(h)(2) when considering alternative approaches or making the determination that the contracting approach selected is in the best interest of the Government, as required by FAR 15.404-1(h)(2).
 
-[63 FR 55040, Oct. 14, 1998, as amended at 71 FR 69494, Dec. 1, 2006; 72 FR 30278, May 31, 2007; 77 FR 76940, Dec. 31, 2012; 83 FR 4444, Jan. 31, 2018; 84 FR 72563, Dec. 31, 2019]
+[63 FR 55040, Oct. 14, 1998, as amended at 71 FR 69494, Dec. 1, 2006; 72 FR 30278, May 31, 2007; 77 FR 76940, Dec. 31, 2012; 83 FR 4444, Jan. 31, 2018; 84 FR 72563, Dec. 31, 2019; 87 FR 65504, Oct. 28, 2022]

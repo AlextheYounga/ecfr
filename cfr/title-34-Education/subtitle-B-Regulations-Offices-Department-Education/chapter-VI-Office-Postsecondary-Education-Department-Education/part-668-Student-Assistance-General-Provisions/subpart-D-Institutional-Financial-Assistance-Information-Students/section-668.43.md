@@ -1,8 +1,10 @@
 ##### § 668.43 Institutional information. #####
 
-(a) Institutional information that the institution must make readily available to enrolled and prospective students under this subpart includes, but is not limited to -
+Link to an amendment published at 87 FR 65495, Oct. 28, 2022.
 
-(1) The cost of attending the institution, including -
+(a) Institutional information that the institution must make readily available to enrolled and prospective students under this subpart includes, but is not limited to—
+
+(1) The cost of attending the institution, including—
 
 (i) Tuition and fees charged to full-time and part-time students;
 
@@ -20,7 +22,7 @@
 
 (4) A summary of the requirements under § 668.22 for the return of title IV grant or loan assistance;
 
-(5) The academic program of the institution, including -
+(5) The academic program of the institution, including—
 
 (i) The current degree programs and other educational and training programs;
 
@@ -30,7 +32,7 @@
 
 (iv) Any plans by the institution for improving the academic program of the institution, upon a determination by the institution that such a plan exists; and
 
-(v) If an educational program is designed to meet educational requirements for a specific professional license or certification that is required for employment in an occupation, or is advertised as meeting such requirements, information regarding whether completion of that program would be sufficient to meet licensure requirements in a State for that occupation, including -
+(v) If an educational program is designed to meet educational requirements for a specific professional license or certification that is required for employment in an occupation, or is advertised as meeting such requirements, information regarding whether completion of that program would be sufficient to meet licensure requirements in a State for that occupation, including—
 
 (A) A list of all States for which the institution has determined that its curriculum meets the State educational requirements for licensure or certification;
 
@@ -46,7 +48,7 @@
 
 (9) A statement that a student's enrollment in a program of study abroad approved for credit by the home institution may be considered enrollment at the home institution for the purpose of applying for assistance under the title IV, HEA programs;
 
-(10) Institutional policies and sanctions related to copyright infringement, including -
+(10) Institutional policies and sanctions related to copyright infringement, including—
 
 (i) A statement that explicitly informs its students that unauthorized distribution of copyrighted material, including unauthorized peer-to-peer file sharing, may subject the students to civil and criminal liabilities;
 
@@ -54,7 +56,7 @@
 
 (iii) A description of the institution's policies with respect to unauthorized peer-to-peer file sharing, including disciplinary actions that are taken against students who engage in illegal downloading or unauthorized distribution of copyrighted materials using the institution's information technology system;
 
-(11) A description of the transfer of credit policies established by the institution, which must include a statement of the institution's current transfer of credit policies that includes, at a minimum -
+(11) A description of the transfer of credit policies established by the institution, which must include a statement of the institution's current transfer of credit policies that includes, at a minimum—
 
 (i) Any established criteria the institution uses regarding the transfer of credit earned at another institution and any types of institutions or sources from which the institution will not accept credits;
 
@@ -62,7 +64,7 @@
 
 (iii) Written criteria used to evaluate and award credit for prior learning experience including, but not limited to, service in the armed forces, paid or unpaid employment, or other demonstrated competency or learning;
 
-(12) A description in the program description of written arrangements the institution has entered into in accordance with § 668.5, including, but not limited to, information on -
+(12) A description in the program description of written arrangements the institution has entered into in accordance with § 668.5, including, but not limited to, information on—
 
 (i) The portion of the educational program that the institution that grants the degree or certificate is not providing;
 
@@ -72,7 +74,7 @@
 
 (iv) Estimated additional costs students may incur as the result of enrolling in an educational program that is provided, in part, under the written arrangement;
 
-(13) The percentage of those enrolled, full-time students at the institution who -
+(13) The percentage of those enrolled, full-time students at the institution who—
 
 (i) Are male;
 

@@ -1,20 +1,18 @@
 ##### 52.219-14 Limitations on Subcontracting. #####
 
-Link to an amendment published at 87 FR 58226, Sept. 23, 2022.
-
 As prescribed in 19.507(e), insert the following clause:
 
-Limitations on Subcontracting (SEP 2021)
+Limitations on Subcontracting (OCT 2022)
 
 (a) This clause does not apply to the unrestricted portion of a partial set-aside.
 
-(b) *Definition. Similarly situated entity,* as used in this clause, means a first-tier subcontractor, including an independent contractor, that -
+(b) *Definition. Similarly situated entity,* as used in this clause, means a first-tier subcontractor, including an independent contractor, that—
 
 (1) Has the same small business program status as that which qualified the prime contractor for the award (*e.g.,* for a small business set-aside contract, any small business concern, without regard to its socioeconomic status); and
 
 (2) Is considered small for the size standard under the North American Industry Classification System (NAICS) code the prime contractor assigned to the subcontract.
 
-(c) *Applicability.* This clause applies only to -
+(c) *Applicability.* This clause applies only to—
 
 (1) Contracts that have been set aside for any of the small business concerns identified in 19.000(a)(3);
 
@@ -22,13 +20,13 @@ Limitations on Subcontracting (SEP 2021)
 
 (3) Contracts that have been awarded on a sole-source basis in accordance with subparts 19.8, 19.13, 19.14, and 19.15;
 
-(4) Orders expected to exceed the simplified acquisition threshold and that are -
+(4) Orders expected to exceed the simplified acquisition threshold and that are—
 
 (i) Set aside for small business concerns under multiple-award contracts, as described in 8.405-5 and 16.505(b)(2)(i)(F); or
 
 (ii) Issued directly to small business concerns under multiple-award contracts as described in 19.504(c)(1)(ii);
 
-(5) Orders, regardless of dollar value, that are -
+(5) Orders, regardless of dollar value, that are—
 
 (i) Set aside in accordance with subparts 19.8, 19.13, 19.14, or 19.15 under multiple-award contracts, as described in 8.405-5 and 16.505(b)(2)(i)(F); or
 
@@ -38,7 +36,7 @@ Limitations on Subcontracting (SEP 2021)
 
 (d) *Independent contractors.* An independent contractor shall be considered a subcontractor.
 
-(e) *Limitations on subcontracting.* By submission of an offer and execution of a contract, the Contractor agrees that in performance of a contract assigned a North American Industry Classification System (NAICS) code for -
+(e) *Limitations on subcontracting.* By submission of an offer and execution of a contract, the Contractor agrees that in performance of a contract assigned a North American Industry Classification System (NAICS) code for—
 
 (1) Services (except construction), it will not pay more than 50 percent of the amount paid by the Government for contract performance to subcontractors that are not similarly situated entities. Any work that a similarly situated entity further subcontracts will count towards the prime contractor's 50 percent subcontract amount that cannot be exceeded. When a contract includes both services and supplies, the 50 percent limitation shall apply only to the service portion of the contract;
 
@@ -50,7 +48,7 @@ Limitations on Subcontracting (SEP 2021)
 
 (f) The Contractor shall comply with the limitations on subcontracting as follows:
 
-(1) For contracts, in accordance with paragraphs (c)(1), (2), (3) and (6) of this clause -
+(1) For contracts, in accordance with paragraphs (c)(1), (2), (3) and (6) of this clause—
 
 [*Contracting Officer check as appropriate.*]
 
@@ -62,4 +60,8 @@ Limitations on Subcontracting (SEP 2021)
 
 (g) A joint venture agrees that, in the performance of the contract, the applicable percentage specified in paragraph (e) of this clause will be performed by the aggregate of the joint venture participants.
 
-(End of clause)[86 FR 44245, Aug. 11, 2021]
+(1) In a joint venture comprised of a small business protégé and its mentor approved by the Small Business Administration, the small business protégé shall perform at least 40 percent of the work performed by the joint venture. Work performed by the small business protégé in the joint venture must be more than administrative functions.
+
+(2) In an 8(a) joint venture, the 8(a) participant(s) shall perform at least 40 percent of the work performed by the joint venture. Work performed by the 8(a) participants in the joint venture must be more than administrative functions.
+
+(End of clause)[86 FR 44245, Aug. 11, 2021, as amended at 87 FR 58226, Sept. 23, 2022]

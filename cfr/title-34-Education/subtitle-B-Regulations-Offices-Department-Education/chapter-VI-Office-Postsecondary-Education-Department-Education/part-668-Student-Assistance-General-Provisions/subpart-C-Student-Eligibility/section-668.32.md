@@ -1,4 +1,6 @@
-##### § 668.32 Student eligibility - general. #####
+##### § 668.32 Student eligibility—general. #####
+
+Link to an amendment published at 87 FR 65495, Oct. 28, 2022.
 
 A student is eligible to receive Title IV, HEA program assistance if the student either meets all of the requirements in paragraphs (a) through (m) of this section or meets the requirement in paragraph (n) of this section as follows:
 
@@ -14,7 +16,7 @@ A student is eligible to receive Title IV, HEA program assistance if the student
 
 (c)(1) For purposes of the ACG, National SMART Grant, and FSEOG programs, does not have a baccalaureate or first professional degree;
 
-(2) For purposes of the Federal Pell Grant Program -
+(2) For purposes of the Federal Pell Grant Program—
 
 (i)(A) Does not have a baccalaureate or first professional degree; or
 
@@ -24,7 +26,7 @@ A student is eligible to receive Title IV, HEA program assistance if the student
 
 (3) For purposes of the Federal Perkins Loan, FFEL, and Direct Loan programs, is not incarcerated; and
 
-(4) For the purposes of the TEACH Grant program -
+(4) For the purposes of the TEACH Grant program—
 
 (i) For an undergraduate student other than a student enrolled in a post-baccalaureate program, has not completed the requirements for a first baccalaureate degree; or
 
@@ -38,7 +40,7 @@ A student is eligible to receive Title IV, HEA program assistance if the student
 
 (3) Is enrolled in an eligible institution that participates in a State “process” approved by the Secretary under subpart J of this part;
 
-(4) Was home-schooled, and either -
+(4) Was home-schooled, and either—
 
 (i) Obtained a secondary school completion credential for home school (other than a high school diploma or its recognized equivalent) provided for under State law; or
 
@@ -48,7 +50,7 @@ A student is eligible to receive Title IV, HEA program assistance if the student
 
 (f) Maintains satisfactory academic progress in his or her course of study according to the institution's published standards of satisfactory academic progress that meet the requirements of § 668.34.
 
-(g) Except as provided in § 668.35 -
+(g) Except as provided in § 668.35—
 
 (1) Is not in default, and certifies that he or she is not in default, on a loan made under any title IV, HEA loan program;
 
@@ -64,7 +66,7 @@ A student is eligible to receive Title IV, HEA program assistance if the student
 
 (j) Satisfies the Selective Service registration requirements contained in § 668.37, and, if applicable, satisfies the requirements of § 668.38 and § 668.39 involving enrollment in telecommunication and correspondence courses and a study abroad program, respectively.
 
-(k) Satisfies the program specific requirements contained in -
+(k) Satisfies the program specific requirements contained in—
 
 (1) 34 CFR 674.9 for the Federal Perkins Loan program;
 

@@ -1,12 +1,14 @@
 ##### § 600.2 Definitions. #####
 
+Link to an amendment published at 87 FR 65485, Oct. 28, 2022.
+
 The following definitions apply to terms used in this part:
 
-*Academic engagement:* Active participation by a student in an instructional activity related to the student's course of study that -
+*Academic engagement:* Active participation by a student in an instructional activity related to the student's course of study that—
 
 (1) Is defined by the institution in accordance with any applicable requirements of its State or accrediting agency;
 
-(2) Includes, but is not limited to -
+(2) Includes, but is not limited to—
 
 (i) Attending a synchronous class, lecture, recitation, or field or laboratory activity, physically or online, where there is an opportunity for interaction between the instructor and students;
 
@@ -20,7 +22,7 @@ The following definitions apply to terms used in this part:
 
 (vi) Interacting with an instructor about academic matters; and
 
-(3) Does not include, for example -
+(3) Does not include, for example—
 
 (i) Living in institutional housing;
 
@@ -36,7 +38,7 @@ The following definitions apply to terms used in this part:
 
 *Award year:* The period of time from July 1 of one year through June 30 of the following year.
 
-*Branch campus:* An additional location of an institution that is geographically apart and independent of the main campus of the institution. The Secretary considers a location of an institution to be independent of the main campus if the location -
+*Branch campus:* An additional location of an institution that is geographically apart and independent of the main campus of the institution. The Secretary considers a location of an institution to be independent of the main campus if the location—
 
 (1) Is permanent in nature;
 
@@ -46,7 +48,7 @@ The following definitions apply to terms used in this part:
 
 (4) Has its own budgetary and hiring authority.
 
-*Clock hour:* (1) A period of time consisting of -
+*Clock hour:* (1) A period of time consisting of—
 
 (i) A 50- to 60-minute class, lecture, or recitation in a 60-minute period;
 
@@ -54,7 +56,7 @@ The following definitions apply to terms used in this part:
 
 (iii) Sixty minutes of preparation in a correspondence course; or
 
-(iv) In distance education, 50 to 60 minutes in a 60-minute period of attendance in -
+(iv) In distance education, 50 to 60 minutes in a 60-minute period of attendance in—
 
 (A) A synchronous or asynchronous class, lecture, or recitation where there is opportunity for direct interaction between the instructor and students; or
 
@@ -70,9 +72,9 @@ The following definitions apply to terms used in this part:
 
 (3) A correspondence course is not distance education.
 
-*Credit hour:* Except as provided in 34 CFR 668.8(k) and (l), a credit hour is an amount of student work defined by an institution, as approved by the institution's accrediting agency or State approval agency, that is consistent with commonly accepted practice in postsecondary education and that -
+*Credit hour:* Except as provided in 34 CFR 668.8(k) and (l), a credit hour is an amount of student work defined by an institution, as approved by the institution's accrediting agency or State approval agency, that is consistent with commonly accepted practice in postsecondary education and that—
 
-(1) Reasonably approximates not less than -
+(1) Reasonably approximates not less than—
 
 (i) One hour of classroom or direct faculty instruction and a minimum of two hours of out-of-class student work each week for approximately fifteen weeks for one semester or trimester hour of credit, or ten to twelve weeks for one quarter hour of credit, or the equivalent amount of work over a different period of time; or
 
@@ -82,7 +84,7 @@ The following definitions apply to terms used in this part:
 
 *Distance education:* (1) Education that uses one or more of the technologies listed in paragraphs (2)(i) through (iv) of this definition to deliver instruction to students who are separated from the instructor or instructors and to support regular and substantive interaction between the students and the instructor or instructors, either synchronously or asynchronously.
 
-(2) The technologies that may be used to offer distance education include -
+(2) The technologies that may be used to offer distance education include—
 
 (i) The internet;
 
@@ -94,7 +96,7 @@ The following definitions apply to terms used in this part:
 
 (3) For purposes of this definition, an instructor is an individual responsible for delivering course content and who meets the qualifications for instruction established by an institution's accrediting agency.
 
-(4) For purposes of this definition, substantive interaction is engaging students in teaching, learning, and assessment, consistent with the content under discussion, and also includes at least two of the following -
+(4) For purposes of this definition, substantive interaction is engaging students in teaching, learning, and assessment, consistent with the content under discussion, and also includes at least two of the following—
 
 (i) Providing direct instruction;
 
@@ -106,7 +108,7 @@ The following definitions apply to terms used in this part:
 
 (v) Other instructional activities approved by the institution's or program's accrediting agency.
 
-(5) An institution ensures regular interaction between a student and an instructor or instructors by, prior to the student's completion of a course or competency -
+(5) An institution ensures regular interaction between a student and an instructor or instructors by, prior to the student's completion of a course or competency—
 
 (i) Providing the opportunity for substantive interactions with the student on a predictable and scheduled basis commensurate with the length of time and the amount of content in the course or competency; and
 
@@ -120,9 +122,9 @@ The following definitions apply to terms used in this part:
 
 (2) The Secretary does not consider that an institution provides an educational program if the institution does not provide instruction itself (including a course of independent study) but merely gives credit for one or more of the following: Instruction provided by other institutions or schools; examinations or direct assessments provided by agencies or organizations; or other accomplishments such as “life experience.”
 
-*Eligible institution:* An institution that -
+*Eligible institution:* An institution that—
 
-(1) Qualifies as -
+(1) Qualifies as—
 
 (i) An institution of higher education, as defined in § 600.4;
 
@@ -136,7 +138,7 @@ The following definitions apply to terms used in this part:
 
 *Incarcerated student:* A student who is serving a criminal sentence in a Federal, State, or local penitentiary, prison, jail, reformatory, work farm, juvenile justice facility, or other similar correctional institution. A student is not considered incarcerated if that student is in a half-way house or home detention or is sentenced to serve only weekends. For purposes of Pell Grant eligibility under 34 CFR 668.32(c)(2)(ii), a student who is incarcerated in a juvenile justice facility, or in a local or county facility, is not considered to be incarcerated in a Federal or State penal institution, regardless of which governmental entity operates or has jurisdiction over the facility, including the Federal Government or a State, but is considered incarcerated for the purposes of determining costs of attendance under section 472 of the HEA in determining eligibility for and the amount of the Pell Grant.
 
-*Juvenile justice facility:* A public or private residential facility that is operated primarily for the care and rehabilitation of youth who, under State juvenile justice laws -
+*Juvenile justice facility:* A public or private residential facility that is operated primarily for the care and rehabilitation of youth who, under State juvenile justice laws—
 
 (1) Are accused of committing a delinquent act;
 
@@ -146,7 +148,7 @@ The following definitions apply to terms used in this part:
 
 *Nationally recognized accrediting agency:* An agency or association that the Secretary recognizes as a reliable authority to determine the quality of education or training offered by an institution or a program offered by an institution. The Secretary recognizes these agencies and associations under the provisions of 34 CFR part 602 and publishes a list of the recognized agencies in the Federal Register.
 
-*Nonprofit institution:* An institution that -
+*Nonprofit institution:* An institution that—
 
 (1)(i) Is owned and operated by one of more nonprofit corporations or associations, no part of the net earnings of which benefits any private shareholder or individual;
 
@@ -154,7 +156,7 @@ The following definitions apply to terms used in this part:
 
 (iii) Is determined by the U.S. Internal Revenue Service to be an organization to which contributions are tax-deductible in accordance with section 501(c)(3) of the Internal Revenue Code (26 U.S.C. 501(c)(3)); or
 
-(2) For a foreign institution -
+(2) For a foreign institution—
 
 (i) An institution that is owned and operated only by one or more nonprofit corporations or associations; and
 
@@ -166,7 +168,7 @@ The following definitions apply to terms used in this part:
 
 *Preaccreditation:* The status of accreditation and public recognition that a nationally recognized accrediting agency grants to an institution or program for a limited period of time that signifies the agency has determined that the institution or program is progressing toward full accreditation and is likely to attain full accreditation before the expiration of that limited period of time (sometimes referred to as “candidacy”).
 
-*Recognized equivalent of a high school diploma:* The following are the equivalent of a high school diploma -
+*Recognized equivalent of a high school diploma:* The following are the equivalent of a high school diploma—
 
 (1) A General Education Development Certificate (GED);
 
@@ -176,7 +178,7 @@ The following definitions apply to terms used in this part:
 
 (4) For a person who is seeking enrollment in an educational program that leads to at least an associate degree or its equivalent and who has not completed high school but who excelled academically in high school, documentation that the student excelled academically in high school and has met the formalized, written policies of the institution for admitting such students.
 
-*Recognized occupation:* An occupation that is -
+*Recognized occupation:* An occupation that is—
 
 (1) Identified by a Standard Occupational Classification (SOC) code established by the Office of Management and Budget (OMB) or an Occupational Information Network O\*Net-SOC code established by the Department of Labor, which is available at *www.onetonline.org* or its successor site; or
 

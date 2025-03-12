@@ -1,5 +1,7 @@
 ##### § 668.11 Scope. #####
 
+Link to an amendment published at 87 FR 65490, Oct. 28, 2022.
+
 (a) This subpart establishes standards that an institution must meet in order to participate in any Title IV, HEA program.
 
 (b) Noncompliance with these standards by an institution already participating in any Title IV, HEA program or with applicable standards in this subpart by a third-party servicer that contracts with the institution may subject the institution or servicer, or both, to proceedings under subpart G of this part. These proceedings may lead to any of the following actions:

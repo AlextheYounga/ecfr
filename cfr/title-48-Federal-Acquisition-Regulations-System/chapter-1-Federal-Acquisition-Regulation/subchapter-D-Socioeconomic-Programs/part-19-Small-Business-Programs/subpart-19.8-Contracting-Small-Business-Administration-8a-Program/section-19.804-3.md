@@ -1,7 +1,5 @@
 ##### 19.804-3 SBA acceptance. #####
 
-Link to an amendment published at 87 FR 58224, Sept. 23, 2022.
-
 (a) Upon receipt of the contracting office's offering letter, SBA will determine whether to accept the requirement for the 8(a) program. SBA's decision whether to accept the requirement will be transmitted to the contracting office in writing within 10 working days of receipt of the offer if the contract is likely to exceed the simplified acquisition threshold and within two working days of receipt if the contract is at or below the simplified acquisition threshold. The contracting office may grant an extension of these time periods, if requested by SBA.
 
 (1) For acquisitions exceeding the simplified acquisition threshold, if SBA does not respond to an offering letter within ten working days, the contracting office may seek SBA's acceptance through the Associate Administrator for Business Development. The contracting office may assume that SBA has accepted the requirement into the 8(a) program if it does not receive a reply from the Associate Administrator for Business Development within five calendar days of receipt of the contracting office's request.
@@ -14,7 +12,7 @@ Link to an amendment published at 87 FR 58224, Sept. 23, 2022.
 
 (2) If SBA and the contracting officer are unable to agree on a NAICS code designation for the requirement, SBA may refuse to accept the requirement for the 8(a) program, appeal the contracting officer's determination to the head of the agency pursuant to 19.810, or appeal the NAICS code designation to the SBA Office of Hearings and Appeals under subpart C of 13 CFR part 134.
 
-(c) *Sole source 8(a) awards.* If an appropriate match exists, SBA will advise the contracting officer whether it will participate in contract negotiations or whether SBA will authorize the contracting officer to negotiate directly with the identified 8(a) participant. Where SBA has delegated its contract execution functions to a contracting agency, SBA will also identify that delegation in its acceptance letter.
+(c) *Sole source 8(a) awards.* If an appropriate match exists, SBA will advise the contracting officer whether it will participate in contract negotiations or whether SBA will authorize the contracting officer to negotiate directly with the identified 8(a) participant. Where SBA has delegated its contract execution functions to a contracting agency, SBA will also identify that delegation in its acceptance letter. For a joint venture, SBA will determine eligibility as part of its acceptance of a sole-source requirement and will approve the joint venture agreement prior to award in accordance with 13 CFR 124.513(e).
 
 (1) *Sole source award where the contracting officer nominates a specific 8(a) participant.* SBA will determine whether an appropriate match exists where the contracting officer identifies a particular participant for a sole source award.
 
@@ -24,4 +22,4 @@ Link to an amendment published at 87 FR 58224, Sept. 23, 2022.
 
 (2) *Sole source award where the contracting officer does not nominate a specific 8(a) participant.* When a contracting officer does not nominate an 8(a) participant for performance of a sole source 8(a) contract, SBA will select an 8(a) participant for possible award from among two or more eligible and qualified 8(a) participants. The selection will be based upon relevant factors, including business development needs, compliance with competitive business mix requirements (if applicable), financial condition, management ability, technical capability, and whether award will promote the equitable distribution of 8(a) contracts. (For construction requirements see 13 CFR 124.503(d)(1)).
 
-[82 FR 4727, Jan. 13, 2017]
+[82 FR 4727, Jan. 13, 2017, as amended at 87 FR 58224, Sept. 23, 2022]

@@ -1,12 +1,10 @@
 ##### 52.219-4 Notice of Price Evaluation Preference for HUBZone Small Business Concerns. #####
 
-Link to an amendment published at 87 FR 58226, Sept. 23, 2022.Link to an amendment published at 87 FR 58237, Sept. 23, 2022.
-
 As prescribed in 19.1309(b), insert the following clause:
 
-Notice of Price Evaluation preference for HUBZone Small Business Concerns (SEP 2021)
+Notice of Price Evaluation Preference for HUBZone Small Business Concerns (OCT 2022)
 
-(a) *Evaluation preference.* (1) Offers will be evaluated by adding a factor of 10 percent to the price of all offers, except -
+(a) *Evaluation preference.* (1) Offers will be evaluated by adding a factor of 10 percent to the price of all offers, except—
 
 (i) Offers from HUBZone small business concerns that have not waived the evaluation preference; and
 
@@ -20,6 +18,6 @@ Notice of Price Evaluation preference for HUBZone Small Business Concerns (SEP 2
 
 □ Offeror elects to waive the evaluation preference.
 
-(c) *Notice.* The HUBZone small business offeror acknowledges that a prospective HUBZone awardee must be a HUBZone small business concern at the time of award of this contract. The HUBZone offeror shall provide the Contracting Officer a copy of the notice required by 13 CFR 126.501 if material changes occur before contract award that could affect its HUBZone eligibility. If the apparently successful HUBZone offeror is not a HUBZone small business concern at the time of award of this contract, the Contracting Officer will proceed to award to the next otherwise successful HUBZone small business concern or other offeror.
+(c) *Joint venture.* A HUBZone joint venture agrees that, in the performance of the contract, at least 40 percent of the aggregate work performed by the joint venture shall be completed by the HUBZone small business parties to the joint venture. Work performed by the HUBZone small business parties to the joint venture must be more than administrative functions.
 
-(End of clause)[63 FR 70275, Dec. 18, 1998, as amended at 69 FR 59704, Oct. 5, 2004; 70 FR 33661, June 8, 2005; 75 FR 77732, Dec. 13, 2010; 79 FR 61753, Oct. 14, 2014; 85 FR 11770, Feb. 27, 2020; 86 FR 44245, Aug. 11, 2021]
+(End of clause)[63 FR 70275, Dec. 18, 1998, as amended at 69 FR 59704, Oct. 5, 2004; 70 FR 33661, June 8, 2005; 75 FR 77732, Dec. 13, 2010; 79 FR 61753, Oct. 14, 2014; 85 FR 11770, Feb. 27, 2020; 86 FR 44245, Aug. 11, 2021; 87 FR 58226, 58237, Sept. 23, 2022]

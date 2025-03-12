@@ -1,7 +1,5 @@
 ##### 5.205 Special situations. #####
 
-Link to an amendment published at 87 FR 58231, Sept. 23, 2022.
-
 (a) *Research and development (R&D) advance notices.* Contracting officers may transmit to the GPE advance notices of their interest in potential R&D programs whenever market research does not produce a sufficient number of concerns to obtain adequate competition. Advance notices must not be used where security considerations prohibit such publication. Advance notices will enable potential sources to learn of R&D programs and provide these sources with an opportunity to submit information which will permit evaluation of their capabilities. Contracting officers must consider potential sources which respond to advance notices for a subsequent solicitation. Advanced notices must be entitled “Research and Development Sources Sought” and include the name and telephone number of the contracting officer or other contracting activity official from whom technical details of the project can be obtained. This will enable sources to submit information for evaluation of their R&D capabilities. Contracting officers must synopsize (see 5.201) all subsequent solicitations for R&D contracts, including those resulting from a previously synopsized advance notice, unless one of the exceptions in 5.202 applies.
 
 (b) *Federally Funded Research and Development Centers.* Before establishing a Federally Funded Research and Development Center (FFRDC) (see Part 35) or before changing its basic purpose and mission, the sponsor must transmit at least three notices over a 90-day period to the GPE and the Federal Register, indicating the agency's intention to sponsor an FFRDC or change the basic purpose and mission of an FFRDC. The notice must indicate the scope and nature of the effort to be performed and request comments. Notice is not required where the action is required by law.
@@ -18,7 +16,7 @@ Link to an amendment published at 87 FR 58231, Sept. 23, 2022.
 
 (2) The contracting officer shall announce the end of the streamlined or standard competition by making a formal public announcement of the performance decision. (See OMB Circular A-76.)
 
-(f) *Section 8(a) competitive acquisition.* When a requirement is being considered for competitive acquisition limited to eligible 8(a) participants under subpart 19.8, the contracting officer must transmit a synopsis of the proposed contract action to the GPE. The synopsis may be transmitted to the GPE concurrent with submission of the agency offering (see 19.804-2) to the Small Business Administration (SBA). The synopsis should also include information -
+(f) *Section 8(a) competitive acquisition.* When a requirement is being considered for competitive acquisition limited to eligible 8(a) participants under subpart 19.8, the contracting officer must transmit a synopsis of the proposed contract action to the GPE. The synopsis may be transmitted to the GPE concurrent with submission of the agency offering (see 19.804-2) to the Small Business Administration (SBA). The synopsis should also include information—
 
 (1) Advising that the acquisition is being offered for competition limited to eligible 8(a) participants;
 
@@ -32,4 +30,6 @@ Link to an amendment published at 87 FR 58231, Sept. 23, 2022.
 
 (2) The agency is encouraged to provide notification of the rationale for any bundled requirement to the GPE before issuing the solicitation of any bundled requirement (see 7.107-5(b)).
 
-[66 FR 27411, May 16, 2001, as amended at 68 FR 43856, July 24, 2003; 68 FR 56678, Oct. 1, 2003; 71 FR 20299, Apr. 19, 2006; 73 FR 10961, Feb. 28, 2008; 75 FR 53132, Aug. 30, 2010; 81 FR 67769, Sept. 30, 2016; 82 FR 4726, Jan. 13, 2017; 85 FR 40076, July 2, 2020; 86 FR 61040, Nov. 4, 2021]
+(h) *Notice regarding timely definitization of equitable adjustments for change orders under construction contracts.* When the contracting officer anticipates award of a contract to a small business pursuant to a solicitation for construction, the contracting officer must transmit in the solicitation notice on the GPE information regarding definitization of equitable adjustments for change orders under construction contracts (see 36.211).
+
+[66 FR 27411, May 16, 2001, as amended at 68 FR 43856, July 24, 2003; 68 FR 56678, Oct. 1, 2003; 71 FR 20299, Apr. 19, 2006; 73 FR 10961, Feb. 28, 2008; 75 FR 53132, Aug. 30, 2010; 81 FR 67769, Sept. 30, 2016; 82 FR 4726, Jan. 13, 2017; 85 FR 40076, July 2, 2020; 86 FR 61040, Nov. 4, 2021; 87 FR 58231, Sept. 23, 2022]

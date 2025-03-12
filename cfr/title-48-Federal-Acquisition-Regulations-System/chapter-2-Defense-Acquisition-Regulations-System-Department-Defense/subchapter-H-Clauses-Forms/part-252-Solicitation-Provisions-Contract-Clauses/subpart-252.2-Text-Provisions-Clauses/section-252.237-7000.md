@@ -1,6 +1,6 @@
 ##### 252.237-7000 Notice of special standards of responsibility. #####
 
-As prescribed in 237.270(d)(1), use the following provision:
+As prescribed in 237.270(e)(1), use the following provision:
 
 Notice of Special Standards of Responsibility (DEC 1991)
 
@@ -16,4 +16,4 @@ Notice of Special Standards of Responsibility (DEC 1991)
 
 (c) The apparently successful Offeror, before award, shall give the Contracting Officer evidence that it is licensed by the cognizant licensing authority in the state or other political jurisdiction where the Offeror operates its professional practice.
 
-(End of provision)[56 FR 36479, July 31, 1991, as amended at 66 FR 49861, Oct. 1, 2001]
+(End of provision)[56 FR 36479, July 31, 1991, as amended at 66 FR 49861, Oct. 1, 2001; 87 FR 65501, Oct. 28, 2022]

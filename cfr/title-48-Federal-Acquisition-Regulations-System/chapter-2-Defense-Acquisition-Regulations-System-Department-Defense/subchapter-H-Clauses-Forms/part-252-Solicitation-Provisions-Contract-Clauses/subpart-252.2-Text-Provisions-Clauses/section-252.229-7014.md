@@ -1,17 +1,11 @@
-##### 252.229-7014 Taxes - Foreign Contracts in Afghanistan. #####
+##### 252.229-7014 Full Exemption from Two-Percent Excise Tax on Certain Foreign Procurements. #####
 
 As prescribed in 229.402-70(k), use the following clause:
 
-Taxes - Foreign Contracts in Afghanistan (DEC 2015)
+Full Exemption From Two-Percent Excise Tax on Certain Foreign Procurements (OCT 2022)
 
-(a) This acquisition is covered by the Security and Defense Cooperation Agreement (the Agreement) between the Islamic Republic of Afghanistan and the United States of America signed on September 30, 2014, and entered into force on January 1, 2015.
+(a) As the Contractor represented in its offer, any item, including any item delivered under subcontract; any service; or any combination thereof delivered under this contract is fully exempt from the 2-percent excise tax withholding imposed by 26 U.S.C. 5000C and implemented by Federal Acquisition Regulation (FAR) 52.229-12, Tax on Certain Foreign Procurements.
 
-(b) The Agreement exempts the Department of Defense (DoD), and its contractors and subcontractors (other than those that are Afghan legal entities or residents), from paying any tax or similar charge assessed on activities associated with this contract within Afghanistan. The Agreement also exempts the acquisition, importation, exportation, reexportation, transportation, and use of supplies and services in Afghanistan, by or on behalf of DoD, from any taxes, customs, duties, fees, or similar charges in Afghanistan.
+(b) If the full exemption no longer applies due to a change in circumstances during the performance of the contract, causing the Contractor to become subject to the withholding for the 2-percent excise tax as imposed by 26 U.S.C. 5000C, then the Contractor shall immediately comply with the notification and billing requirements of FAR clause 52.229-12.
 
-(c) The Contractor shall exclude any Afghan taxes, customs, duties, fees, or similar charges from the contract price, other than those charged to Afghan legal entities or residents.
-
-(d) The Agreement does not exempt Afghan employees of DoD contractors and subcontractors from Afghan tax laws. To the extent required by Afghan law, the Contractor shall withhold tax from the wages of these employees and remit those payments to the appropriate Afghanistan taxing authority. These withholdings are an individual's liability, not a tax against the Contractor.
-
-(e) The Contractor shall include the substance of this clause, including this paragraph (e), in all subcontracts, including subcontracts for commercial items.
-
-(End of clause)[80 FR 81469, Dec. 30, 2015]
+(End of clause)[87 FR 65517, Oct. 28, 2022]

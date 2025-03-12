@@ -1,18 +1,16 @@
 ##### 52.212-3 Offeror Representations and Certifications - Commercial Products and Commercial Services. #####
 
-Link to an amendment published at 87 FR 58224, Sept. 23, 2022.Link to an amendment published at 87 FR 58236, Sept. 23, 2022.Link to an amendment published at 87 FR 58242, Sept. 23, 2022.
-
 As prescribed in 12.301(b)(2), insert the following provision:
 
 Offeror Representations and Certifications - Commercial Products and Commercial Services (OCT 2022)
 
-The Offeror shall complete only paragraph (b) of this provision if the Offeror has completed the annual representations and certification electronically in the System for Award Management (SAM) accessed through *https://www.sam.gov.* If the Offeror has not completed the annual representations and certifications electronically, the Offeror shall complete only paragraphs (c) through (v)) of this provision.
+The Offeror shall complete only paragraph (b) of this provision if the Offeror has completed the annual representations and certification electronically in the System for Award Management (SAM) accessed through *https://www.sam.gov.* If the Offeror has not completed the annual representations and certifications electronically, the Offeror shall complete only paragraphs (c) through (v) of this provision.
 
 (a) *Definitions.* As used in this provision -
 
 *Covered telecommunications equipment or services* has the meaning provided in the clause 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment.
 
-*Economically disadvantaged women-owned small business (EDWOSB) concern* means a small business concern that is at least 51 percent directly and unconditionally owned by, and the management and daily business operations of which are controlled by, one or more women who are citizens of the United States and who are economically disadvantaged in accordance with 13 CFR part 127. It automatically qualifies as a women-owned small business eligible under the WOSB Program.
+*Economically disadvantaged women-owned small business (EDWOSB) concern* means a small business concern that is at least 51 percent directly and unconditionally owned by, and the management and daily business operations of which are controlled by, one or more women who are citizens of the United States and who are economically disadvantaged in accordance with 13 CFR part 127, and the concern is certified by SBA or an approved third-party certifier in accordance with 13 CFR 127.300. It automatically qualifies as a women-owned small business eligible under the WOSB Program.
 
 *Forced or indentured child labor* means all work or service -
 
@@ -88,7 +86,7 @@ The Offeror shall complete only paragraph (b) of this provision if the Offeror h
 
 (2) *Service-disabled veteran* means a veteran, as defined in 38 U.S.C. 101(2), with a disability that is service-connected, as defined in 38 U.S.C. 101(16).
 
-*Small business concern* - (1) Means a concern, including its affiliates, that is independently owned and operated, not dominant in the field of operation in which it is bidding on Government contracts, and qualified as a small business under the criteria in 13 CFR part 121 and size standards in this solicitation.
+*Small business concern* - (1) Means a concern, including its affiliates, that is independently owned and operated, not dominant in its field of operation, and qualified as a small business under the criteria in 13 CFR part 121 and size standards in this solicitation.
 
 (2) *Affiliates,* as used in this definition, means business concerns, one of whom directly or indirectly controls or has the power to control the others, or a third party or parties control or have the power to control the others. In determining whether affiliation exists, consideration is given to all appropriate factors including common ownership, common management, and contractual relationships. SBA determines affiliation based on the factors set forth at 13 CFR 121.103.
 
@@ -124,7 +122,7 @@ The Offeror shall complete only paragraph (b) of this provision if the Offeror h
 
 (2) Whose management and daily business operations are controlled by one or more women.
 
-*Women-owned small business (WOSB) concern eligible under the WOSB Program* (in accordance with 13 CFR part 127), means a small business concern that is at least 51 percent directly and unconditionally owned by, and the management and daily business operations of which are controlled by, one or more women who are citizens of the United States.
+*Women-owned small business (WOSB) concern eligible under the WOSB Program* (in accordance with 13 CFR part 127), means a small business concern that is at least 51 percent directly and unconditionally owned by, and the management and daily business operations of which are controlled by, one or more women who are citizens of the United States, and the concern is certified by SBA or an approved third-party certifier in accordance with 13 CFR 127.300.
 
 (b)(1) *Annual Representations and Certifications.* Any changes provided by the Offeror in paragraph (b)(2) of this provision do not automatically change the representations and certifications in SAM.
 
@@ -138,27 +136,25 @@ The Offeror shall complete only paragraph (b) of this provision if the Offeror h
 
 (c) Offerors must complete the following representations when the resulting contract is for supplies to be delivered or services to be performed in the United States or its outlying areas, or when the contracting officer has applied part 19 in accordance with 19.000(b)(1)(ii). Check all that apply.
 
-(1) *Small business concern.* The offeror represents as part of its offer that it □ is, □ is not a small business concern.
+(1) *Small business concern.* The offeror represents as part of its offer that -
 
-(2) *Veteran-owned small business concern.* [*Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.*] The offeror represents as part of its offer that it □ is, □ is not a veteran-owned small business concern.
+(i) It □ is, □ is not a small business concern; or
 
-(3) *Service-disabled veteran-owned small business concern.* [*Complete only if the offeror represented itself as a veteran-owned small business concern in paragraph (c)(2) of this provision.*] The offeror represents as part of its offer that it □ is, □ is not a service-disabled veteran-owned small business concern.
+(ii) It □ is, □ is not a small business joint venture that complies with the requirements of 13 CFR 121.103(h) and 13 CFR 125.8(a) and (b). [*The offeror shall enter the name and unique entity identifier of each party to the joint venture:* \_\_.]
+
+(3) *Service-disabled veteran-owned small business concern.* [*Complete only if the offeror represented itself as a veteran-owned small business concern in paragraph (c)(2) of this provision.*] The offeror represents as part of its offer that -
+
+(i) It □ is, □ is not a service-disabled veteran-owned small business concern; or
+
+(ii) It □ is, □ is not a joint venture that complies with the requirements of 13 CFR 125.18(b)(1) and (2). [*The offeror shall enter the name and unique entity identifier of each party to the joint venture:* \_\_.] Each service-disabled veteran-owned small business concern participating in the joint venture shall provide representation of its service-disabled veteran-owned small business concern status.
 
 (4) *Small disadvantaged business concern. [Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.]* The offeror represents that it □ is, □ is not a small disadvantaged business concern as defined in 13 CFR 124.1002.
 
 (5) *Women-owned small business concern. [Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.]* The offeror represents that it □ is, □ is not a women-owned small business concern.
 
-(6) WOSB concern eligible under the WOSB Program. [*Complete only if the offeror represented itself as a women-owned small business concern in paragraph (c)(5) of this provision.*] The offeror represents that -
+(6) *WOSB joint venture eligible under the WOSB Program.* The offeror represents that it □ is, □ is not a joint venture that complies with the requirements of 13 CFR 127.506(a) through (c). [*The offeror shall enter the name and unique entity identifier of each party to the joint venture:*\_\_.]
 
-(i) It □ is, □ is not a WOSB concern eligible under the WOSB Program, has provided all the required documents to the WOSB Repository, and no change in circumstances or adverse decisions have been issued that affects its eligibility; and
-
-(ii) It □ is, □ is not a joint venture that complies with the requirements of 13 CFR part 127, and the representation in paragraph (c)(6)(i) of this provision is accurate for each WOSB concern eligible under the WOSB Program participating in the joint venture. [*The offeror shall enter the name or names of the WOSB concern eligible under the WOSB Program and other small businesses that are participating in the joint venture:* \_\_\_\_\_\_\_\_.] Each WOSB concern eligible under the WOSB Program participating in the joint venture shall submit a separate signed copy of the WOSB representation.
-
-(7) Economically disadvantaged women-owned small business (EDWOSB) concern. [*Complete only if the offeror represented itself as a WOSB concern eligible under the WOSB Program in (c)(6) of this provision.*] The offeror represents that -
-
-(i) It □ is, □ is not an EDWOSB concern, has provided all the required documents to the WOSB Repository, and no change in circumstances or adverse decisions have been issued that affects its eligibility; and
-
-(ii) It □ is, □ is not a joint venture that complies with the requirements of 13 CFR part 127, and the representation in paragraph (c)(7)(i) of this provision is accurate for each EDWOSB concern participating in the joint venture. [*The offeror shall enter the name or names of the EDWOSB concern and other small businesses that are participating in the joint venture:* \_\_\_\_\_\_\_\_.] Each EDWOSB concern participating in the joint venture shall submit a separate signed copy of the EDWOSB representation.
+(7) *Economically disadvantaged women-owned small business (EDWOSB) joint venture.* The offeror represents that it □ is, □ is not a joint venture that complies with the requirements of 13 CFR 127.506(a) through (c). [*The offeror shall enter the name and unique entity identifier of each party to the joint venture:*\_\_.]
 
 Note to paragraphs (c)(8) and (9):
 
@@ -168,11 +164,11 @@ Complete paragraphs (c)(8) and (9) only if this solicitation is expected to exce
 
 (9) *Tie bid priority for labor surplus area concerns.* If this is an invitation for bid, small business offerors may identify the labor surplus areas in which costs to be incurred on account of manufacturing or production (by offeror or first-tier subcontractors) amount to more than 50 percent of the contract price:
 
-(10) *HUBZone small business concern.* [Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.] The offeror represents, as part of its offer, that -
+(10) *HUBZone small business concern.* [*Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.*] The offeror represents, as part of its offer, that -
 
-(i) It □ is, □ is not a HUBZone small business concern listed, on the date of this representation, on the List of Qualified HUBZone Small Business Concerns maintained by the Small Business Administration, and no material changes in ownership and control, principal office, or HUBZone employee percentage have occurred since it was certified in accordance with 13 CFR Part 126; and
+(i) It □ is, □ is not a HUBZone small business concern listed, on the date of this representation, as having been certified by SBA as a HUBZone small business concern in the Dynamic Small Business Search and SAM, and will attempt to maintain an employment rate of HUBZone residents of 35 percent of its employees during performance of a HUBZone contract (see 13 CFR 126.200(e)(1)); and
 
-(ii) It □ is, □ is not a HUBZone joint venture that complies with the requirements of 13 CFR Part 126, and the representation in paragraph (c)(10)(i) of this provision is accurate for each HUBZone small business concern participating in the HUBZone joint venture. [*The offeror shall enter the names of each of the HUBZone small business concerns participating in the HUBZone joint venture: \_\_\_\_.*] Each HUBZone small business concern participating in the HUBZone joint venture shall submit a separate signed copy of the HUBZone representation.
+(ii) It □ is, □ is not a HUBZone joint venture that complies with the requirements of 13 CFR 126.616(a) through (c). [*The offeror shall enter the name and unique entity identifier of each party to the joint venture:*\_\_.] Each HUBZone small business concern participating in the HUBZone joint venture shall provide representation of its HUBZone status.
 
 (d) Representations required to implement provisions of Executive Order 11246 -
 

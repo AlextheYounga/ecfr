@@ -1,14 +1,20 @@
 ##### 19.301-1 Representation by the offeror. #####
 
-Link to an amendment published at 87 FR 58223, Sept. 23, 2022.Link to an amendment published at 87 FR 58235, Sept. 23, 2022.
+(a)(1) To be eligible for award as a small business concern identified in 19.000(a)(3), an offeror is required to represent in good faith -
 
-(a) To be eligible for award as a small business concern identified in 19.000(a)(3), an offeror is required to represent in good faith -
+(i)(A) That it meets the small business size standard corresponding to the North American Industry Classification System (NAICS) code identified in the solicitation; or
 
-(1)(i) That it meets the small business size standard corresponding to the North American Industry Classification System (NAICS) code identified in the solicitation; or
+(B) For a multiple-award contract where there is more than one NAICS code assigned, that it meets the small business size standard for each distinct portion or category (*e.g.,* line item numbers, Special Item Numbers (SINs), sectors, functional areas, or the equivalent) for which it submits an offer. If the small business concern submits an offer for the entire multiple-award contract, it must meet the size standard for each distinct portion or category (*e.g.,* line item number, SIN, sector, functional area, or equivalent); and
 
-(ii) For a multiple-award contract where there is more than one NAICS code assigned, that it meets the small business size standard for each distinct portion or category (e.g., line item numbers, Special Item Numbers (SINs), sectors, functional areas, or the equivalent) for which it submits an offer. If the small business concern submits an offer for the entire multiple-award contract, it must meet the size standard for each distinct portion or category (e.g., line item number, SIN, sector, functional area, or equivalent); and
+(ii) The Small Business Administration (SBA) has not issued a written determination stating otherwise pursuant to 13 CFR 121.1009.
 
-(2) The Small Business Administration (SBA) has not issued a written determination stating otherwise pursuant to 13 CFR 121.1009.
+(2)(i) A joint venture may qualify as a small business concern if the joint venture complies with the requirements of 13 CFR 121.103(h) and 13 CFR 125.8(a) and (b) and if -
+
+(A) Each party to the joint venture qualifies as small under the size standard for the solicitation; or
+
+(B) The protégé is small under the size standard for the solicitation in a joint venture comprised of a mentor and protégé with an approved mentor-protégé agreement under an SBA mentor-protégé program.
+
+(ii) A joint venture may qualify for an award under the socioeconomic programs as described in subparts 19.8, 19.13, 19.14, and 19.15.
 
 (b) An offeror is required to represent its size and socioeconomic status in writing to the contracting officer at the time of initial offer, including offers for -
 
@@ -18,7 +24,7 @@ Link to an amendment published at 87 FR 58223, Sept. 23, 2022.Link to an amendme
 
 (c) To be eligible for an award of an order under a basic ordering agreement or a BPA issued pursuant to part 13 as a small business concern identified in 19.000(a)(3), the offeror must be a small business concern identified in 19.000(a)(3) at the time of award of the order.
 
-(d) To be eligible for an award under the HUBZone Program (see subpart 19.13), a HUBZone small business concern must be a HUBZone small business concern both at the time of initial offer and at the time of contract award.
+(d) To be eligible for an award under the HUBZone Program (see subpart 19.13), a HUBZone small business concern must be a HUBZone small business concern at the time of initial offer.
 
 (e) Multiple-award contract representations:
 
@@ -32,4 +38,4 @@ Link to an amendment published at 87 FR 58223, Sept. 23, 2022.Link to an amendme
 
 (h) If the SBA determines that the status of a concern as a small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, or women-owned small business has been misrepresented in order to obtain a set-aside contract, an 8(a) subcontract, a subcontract that is to be included as part or all of a goal contained in a subcontracting plan, or a prime or subcontract to be awarded as a result, or in furtherance of any other provision of Federal law that specifically references Section 8(d) of the Small Business Act for a definition of program eligibility, the SBA may take action as specified in Sections 16(a) or 16(d) of the Act. If the SBA declines to take action, the agency may initiate the process. The SBA's regulations on penalties for misrepresentations and false statements are contained in 13 CFR 121.108 for small business, 13 CFR 124.501 for 8(a) small business, 13 CFR 124.1004 for small disadvantaged business, 13 CFR 125.29 for veteran or service-disabled veteran-owned small business, 13 CFR 126.900 for HUBZone small business, and 13 CFR 127.700 for economically disadvantaged women-owned small business concerns and women-owned small business (WOSB) concerns eligible under the WOSB Program.
 
-[48 FR 42240, Sept. 19, 1983, as amended at 55 FR 3882, Feb. 5, 1990; 60 FR 48261, Sept. 18, 1995; 62 FR 236, Jan. 2, 1997; 63 FR 70268, Dec. 18, 1998; 65 FR 60545, Oct. 11, 2000; 69 FR 25276, May 5, 2004. Redesignated at 72 FR 36855, July 5, 2007; 75 FR 77738, Dec. 13, 2010; 76 FR 18309, Apr. 1, 2011; 85 FR 11759, Feb. 27, 2020]
+[48 FR 42240, Sept. 19, 1983, as amended at 55 FR 3882, Feb. 5, 1990; 60 FR 48261, Sept. 18, 1995; 62 FR 236, Jan. 2, 1997; 63 FR 70268, Dec. 18, 1998; 65 FR 60545, Oct. 11, 2000; 69 FR 25276, May 5, 2004. Redesignated at 72 FR 36855, July 5, 2007; 75 FR 77738, Dec. 13, 2010; 76 FR 18309, Apr. 1, 2011; 85 FR 11759, Feb. 27, 2020; 87 FR 58223, 58235, Sept. 23, 2022]

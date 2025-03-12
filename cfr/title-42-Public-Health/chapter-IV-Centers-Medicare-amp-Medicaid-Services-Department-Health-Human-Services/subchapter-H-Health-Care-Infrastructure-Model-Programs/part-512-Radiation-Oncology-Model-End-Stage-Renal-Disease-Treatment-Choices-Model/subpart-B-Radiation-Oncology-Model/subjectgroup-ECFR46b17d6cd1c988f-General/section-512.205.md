@@ -1,7 +1,5 @@
 ##### § 512.205 Definitions. #####
 
-Link to an amendment published at 87 FR 52704, Aug. 29, 2022.
-
 For purposes of this subpart, the following definitions apply:
 
 *Aggregate quality score (AQS)* means the numeric score calculated for each RO participant based on its performance on, and reporting of, quality measures and clinical data. The AQS is used to determine an RO participant's quality reconciliation payment amount.
@@ -68,7 +66,7 @@ For purposes of this subpart, the following definitions apply:
 
 *MIPS* means Merit based Incentive Payment System.
 
-*Model performance period* means the five performance years (PYs) during which RO episodes must initiate and terminate. The model performance period begins on January 1, 2022 and ends on December 31, 2026, unless the RO Model is prohibited by law from starting on January 1, 2022, in which case the model performance period begins on the earliest date permitted by law that is January 1, April 1, or July 1.
+*Model performance period* means the 5 performance years (PYs) during which RO episodes initiate and terminate. CMS will establish the start and end dates of the model performance period for the RO Model through future rulemaking.
 
 *National base rate* means the total payment amount for the relevant component of an RO episode, before application of the trend factor, discount factor, adjustments, and applicable withholds, for each of the included cancer types.
 
@@ -134,4 +132,4 @@ For purposes of this subpart, the following definitions apply:
 
 *True-up reconciliation* means the process to calculate additional reconciliation payments or repayment amounts for incomplete episodes and duplicate RT services that are identified after the initial reconciliation and after a 12-month claims run-out for all RO episodes initiated in the applicable PY.
 
-[85 FR 61362, Sept. 29, 2020, as amended at 85 FR 86304, Dec. 29, 2020; 86 FR 63994, Nov. 16, 2021]Editorial Note:At 85 FR 86304, Dec. 29, 2020, this section was amended, effective Dec. 4, 2020; however, due to a publication error, the amendments were codified at 86 FR 33902, June 28, 2021.
+[85 FR 61362, Sept. 29, 2020, as amended at 85 FR 86304, Dec. 29, 2020; 86 FR 63994, Nov. 16, 2021; 87 FR 52704, Aug. 29, 2022]Editorial Note:At 85 FR 86304, Dec. 29, 2020, this section was amended, effective Dec. 4, 2020; however, due to a publication error, the amendments were codified at 86 FR 33902, June 28, 2021.

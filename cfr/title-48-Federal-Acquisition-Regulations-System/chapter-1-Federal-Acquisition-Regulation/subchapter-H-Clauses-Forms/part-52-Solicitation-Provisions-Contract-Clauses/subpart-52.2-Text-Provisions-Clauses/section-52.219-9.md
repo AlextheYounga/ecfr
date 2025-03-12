@@ -1,14 +1,12 @@
 ##### 52.219-9 Small Business Subcontracting Plan. #####
 
-Link to an amendment published at 87 FR 58226, Sept. 23, 2022.Link to an amendment published at 87 FR 58237, Sept. 23, 2022.
-
 As prescribed in 19.708(b), insert the following clause:
 
-Small Business Subcontracting Plan (NOV 2021)
+Small Business Subcontracting Plan (OCT 2022)
 
 (a) This clause does not apply to small business concerns.
 
-(b) *Definitions.* As used in this clause -
+(b) *Definitions.* As used in this clause—
 
 *Alaska Native Corporation (ANC)* means any Regional Corporation, Village Corporation, Urban Corporation, or Group Corporation organized under the laws of the State of Alaska in accordance with the Alaska Native Claims Settlement Act, as amended (43 U.S.C. 1601, *et seq.*) and which is considered a minority and economically disadvantaged concern under the criteria at 43 U.S.C. 1626(e)(1). This definition also includes ANC direct and indirect subsidiary corporations, joint ventures, and partnerships that meet the requirements of 43 U.S.C. 1626(e)(2).
 
@@ -38,7 +36,7 @@ Small Business Subcontracting Plan (NOV 2021)
 
 (2)(i) The Contractor may accept a subcontractor's written representations of its size and socioeconomic status as a small business, small disadvantaged business, veteran-owned small business, service-disabled veteran-owned small business, or a women-owned small business if the subcontractor represents that the size and socioeconomic status representations with its offer are current, accurate, and complete as of the date of the offer for the subcontract.
 
-(ii) The Contractor may accept a subcontractor's representations of its size and socioeconomic status as a small business, small disadvantaged business, veteran-owned small business, service-disabled veteran-owned small business, or a women-owned small business in the System for Award Management (SAM) if -
+(ii) The Contractor may accept a subcontractor's representations of its size and socioeconomic status as a small business, small disadvantaged business, veteran-owned small business, service-disabled veteran-owned small business, or a women-owned small business in the System for Award Management (SAM) if—
 
 (A) The subcontractor is registered in SAM; and
 
@@ -50,7 +48,7 @@ Small Business Subcontracting Plan (NOV 2021)
 
 (d) The Offeror's subcontracting plan shall include the following:
 
-(1) Separate goals, expressed in terms of total dollars subcontracted, and as a percentage of total planned subcontracting dollars, for the use of small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns as subcontractors. For individual subcontracting plans, and if required by the Contracting Officer, goals shall also be expressed in terms of percentage of total contract dollars, in addition to the goals expressed as a percentage of total subcontract dollars. The Offeror shall include all subcontracts that contribute to contract performance, and may include a proportionate share of products and services that are normally allocated as indirect costs. In accordance with 43 U.S.C. 1626 -
+(1) Separate goals, expressed in terms of total dollars subcontracted, and as a percentage of total planned subcontracting dollars, for the use of small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns as subcontractors. For individual subcontracting plans, and if required by the Contracting Officer, goals shall also be expressed in terms of percentage of total contract dollars, in addition to the goals expressed as a percentage of total subcontract dollars. The Offeror shall include all subcontracts that contribute to contract performance, and may include a proportionate share of products and services that are normally allocated as indirect costs. In accordance with 43 U.S.C. 1626—
 
 (i) Subcontracts awarded to an ANC or Indian tribe shall be counted towards the subcontracting goals for small business and small disadvantaged business concerns, regardless of the size or Small Business Administration certification status of the ANC or Indian tribe; and
 
@@ -64,7 +62,7 @@ Small Business Subcontracting Plan (NOV 2021)
 
 (D) If the Contracting Officer does not receive a copy of the ANC's or the Indian tribe's written designation within 30 days of the subcontract award, the Contractor that awarded the subcontract to the ANC or Indian tribe will be considered the designated Contractor.
 
-(2) A statement of -
+(2) A statement of—
 
 (i) Total dollars planned to be subcontracted for an individual subcontracting plan; or the Offeror's total projected sales, expressed in dollars, and the total value of projected subcontracts, including all indirect costs except as described in paragraph (g) of this clause, to support the sales for a commercial plan;
 
@@ -80,7 +78,7 @@ Small Business Subcontracting Plan (NOV 2021)
 
 (vii) Total dollars planned to be subcontracted to women-owned small business concerns.
 
-(3) A description of the principal types of supplies and services to be subcontracted, and an identification of the types planned for subcontracting to -
+(3) A description of the principal types of supplies and services to be subcontracted, and an identification of the types planned for subcontracting to—
 
 (i) Small business concerns;
 
@@ -98,7 +96,7 @@ Small Business Subcontracting Plan (NOV 2021)
 
 (5) A description of the method used to identify potential sources for solicitation purposes (e.g., existing company source lists, SAM, veterans service organizations, the National Minority Purchasing Council Vendor Information Service, the Research and Information Division of the Minority Business Development Agency in the Department of Commerce, or small, HUBZone, small disadvantaged, and women-owned small business trade associations). A firm may rely on the information contained in SAM as an accurate representation of a concern's size and ownership characteristics for the purposes of maintaining a small, veteran-owned small, service-disabled veteran-owned small, HUBZone small, small disadvantaged, and women-owned small business source list. Use of SAM as its source list does not relieve a firm of its responsibilities (e.g., outreach, assistance, counseling, or publicizing subcontracting opportunities) in this clause.
 
-(6) A statement as to whether or not the Offeror included indirect costs in establishing subcontracting goals, and a description of the method used to determine the proportionate share of indirect costs to be incurred with -
+(6) A statement as to whether or not the Offeror included indirect costs in establishing subcontracting goals, and a description of the method used to determine the proportionate share of indirect costs to be incurred with—
 
 (i) Small business concerns (including ANC and Indian tribes);
 
@@ -118,7 +116,7 @@ Small Business Subcontracting Plan (NOV 2021)
 
 (9) Assurances that the Offeror will include the clause of this contract entitled “Utilization of Small Business Concerns” in all subcontracts that offer further subcontracting opportunities, and that the Offeror will require all subcontractors (except small business concerns) that receive subcontracts in excess of the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, with further subcontracting possibilities to adopt a subcontracting plan that complies with the requirements of this clause.
 
-(10) Assurances that the Offeror will -
+(10) Assurances that the Offeror will—
 
 (i) Cooperate in any studies or surveys as may be required;
 
@@ -140,7 +138,7 @@ Small Business Subcontracting Plan (NOV 2021)
 
 (ii) Organizations contacted in an attempt to locate sources that are small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, or women-owned small business concerns.
 
-(iii) Records on each subcontract solicitation resulting in an award of more than the simplified acquisition threshold, as defined in FAR 2.101 on the date of subcontract award, indicating -
+(iii) Records on each subcontract solicitation resulting in an award of more than the simplified acquisition threshold, as defined in FAR 2.101 on the date of subcontract award, indicating—
 
 (A) Whether small business concerns were solicited and, if not, why not;
 
@@ -156,7 +154,7 @@ Small Business Subcontracting Plan (NOV 2021)
 
 (G) If applicable, the reason award was not made to a small business concern.
 
-(iv) Records of any outreach efforts to contact -
+(iv) Records of any outreach efforts to contact—
 
 (A) Trade associations;
 
@@ -166,7 +164,7 @@ Small Business Subcontracting Plan (NOV 2021)
 
 (D) Veterans service organizations.
 
-(v) Records of internal guidance and encouragement provided to buyers through -
+(v) Records of internal guidance and encouragement provided to buyers through—
 
 (A) Workshops, seminars, training, etc.; and
 
@@ -174,7 +172,7 @@ Small Business Subcontracting Plan (NOV 2021)
 
 (vi) On a contract-by-contract basis, records to support award data submitted by the offeror to the Government, including the name, address, and business size of each subcontractor. Contractors having commercial plans need not comply with this requirement.
 
-(12) Assurances that the Offeror will make a good faith effort to acquire articles, equipment, supplies, services, or materials, or obtain the performance of construction work from the small business concerns that it used in preparing the bid or proposal, in the same or greater scope, amount, and quality used in preparing and submitting the bid or proposal. Responding to a request for a quote does not constitute use in preparing a bid or proposal. The Offeror used a small business concern in preparing the bid or proposal if -
+(12) Assurances that the Offeror will make a good faith effort to acquire articles, equipment, supplies, services, or materials, or obtain the performance of construction work from the small business concerns that it used in preparing the bid or proposal, in the same or greater scope, amount, and quality used in preparing and submitting the bid or proposal. Responding to a request for a quote does not constitute use in preparing a bid or proposal. The Offeror used a small business concern in preparing the bid or proposal if—
 
 (i) The Offeror identifies the small business concern as a subcontractor in the bid or proposal or associated small business subcontracting plan, to furnish certain supplies or perform a portion of the subcontract; or
 
@@ -194,7 +192,7 @@ Small Business Subcontracting Plan (NOV 2021)
 
 (3) Counsel and discuss subcontracting opportunities with representatives of small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business firms.
 
-(4) Confirm that a subcontractor representing itself as a HUBZone small business concern is certified by SBA as a HUBZone small business concern in accordance with 52.219-8(d)(2).
+(4) Confirm that a subcontractor representing itself as a HUBZone small business concern is certified by SBA as a HUBZone small business concern by accessing SAM or by accessing the Dynamic Small Business Search (DSBS) at *https://web.sba.gov/pro-net/search/dsp\_dsbs.cfm.*
 
 (5) Provide notice to subcontractors concerning penalties and remedies for misrepresentations of business status as small, veteran-owned small business, HUBZone small, small disadvantaged, or women-owned small business for the purpose of obtaining a subcontract that is to be included as part or all of a goal contained in the Contractor's subcontracting plan.
 
@@ -202,7 +200,7 @@ Small Business Subcontracting Plan (NOV 2021)
 
 (7) Assign each subcontract the NAICS code and corresponding size standard that best describes the principal purpose of the subcontract.
 
-(f) A master subcontracting plan on a plant or division-wide basis that contains all the elements required by paragraph (d) of this clause, except goals, may be incorporated by reference as a part of the subcontracting plan required of the Offeror by this clause; provided -
+(f) A master subcontracting plan on a plant or division-wide basis that contains all the elements required by paragraph (d) of this clause, except goals, may be incorporated by reference as a part of the subcontracting plan required of the Offeror by this clause; provided—
 
 (1) The master subcontracting plan has been approved;
 
@@ -216,7 +214,7 @@ Small Business Subcontracting Plan (NOV 2021)
 
 (i) A contract may have no more than one subcontracting plan. When a contract modification exceeds the subcontracting plan threshold in FAR 19.702(a), or an option is exercised, the goals of the existing subcontracting plan shall be amended to reflect any new subcontracting opportunities. When the goals in a subcontracting plan are amended, these goal changes do not apply retroactively.
 
-(j) Subcontracting plans are not required from subcontractors when the prime contract contains the clause at FAR 52.212-5, Contract Terms and Conditions Required to Implement Statutes or Executive Orders - Commercial Products and Commercial Services, or when the subcontractor provides a commercial product or commercial service subject to the clause at FAR 52.244-6, Subcontracts for Commercial Products and Commercial Services, under a prime contract.
+(j) Subcontracting plans are not required from subcontractors when the prime contract contains the clause at FAR 52.212-5, Contract Terms and Conditions Required to Implement Statutes or Executive Orders—Commercial Products and Commercial Services, or when the subcontractor provides a commercial product or commercial service subject to the clause at FAR 52.244-6, Subcontracts for Commercial Products and Commercial Services, under a prime contract.
 
 (k) The failure of the Contractor or subcontractor to comply in good faith with (1) the clause of this contract entitled “Utilization Of Small Business Concerns,” or (2) an approved plan required by this clause, shall be a material breach of the contract and may be considered in any past performance evaluation of the Contractor.
 
@@ -232,7 +230,7 @@ Small Business Subcontracting Plan (NOV 2021)
 
 (iii) When a subcontracting plan includes indirect costs in the goals, these costs must be included in this report.
 
-(iv) The authority to acknowledge receipt or reject the ISR resides -
+(iv) The authority to acknowledge receipt or reject the ISR resides—
 
 (A) In the case of the prime Contractor, with the Contracting Officer; and
 
@@ -274,7 +272,7 @@ Small Business Subcontracting Plan (NOV 2021)
 
 *Alternate III* (JUN 2020). As prescribed in 19.708(b)(1)(iii), substitute the following paragraphs (d)(10) and (l) for paragraphs (d)(10) and (l) in the basic clause:
 
-(d)(10) Assurances that the Offeror will -
+(d)(10) Assurances that the Offeror will—
 
 (i) Cooperate in any studies or surveys as may be required;
 
@@ -326,7 +324,7 @@ Small Business Subcontracting Plan (NOV 2021)
 
 (2)(i) The prime Contractor may accept a subcontractor's written representations of its size and socioeconomic status as a small business, small disadvantaged business, veteran-owned small business, service-disabled veteran-owned small business, or a women-owned small business if the subcontractor represents that the size and socioeconomic status representations with its offer are current, accurate, and complete as of the date of the offer for the subcontract.
 
-(ii) The Contractor may accept a subcontractor's representations of its size and socioeconomic status as a small business, small disadvantaged business, veteran-owned small business, service-disabled veteran-owned small business, or a women-owned small business in the System for Award Management (SAM) if -
+(ii) The Contractor may accept a subcontractor's representations of its size and socioeconomic status as a small business, small disadvantaged business, veteran-owned small business, service-disabled veteran-owned small business, or a women-owned small business in the System for Award Management (SAM) if—
 
 (A) The subcontractor is registered in SAM; and
 
@@ -338,7 +336,7 @@ Small Business Subcontracting Plan (NOV 2021)
 
 (d) The Contractor's subcontracting plan shall include the following:
 
-(1) Separate goals, expressed in terms of total dollars subcontracted and as a percentage of total planned subcontracting dollars, for the use of small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns as subcontractors. For individual subcontracting plans, and if required by the Contracting Officer, goals shall also be expressed in terms of percentage of total contract dollars, in addition to the goals expressed as a percentage of total subcontract dollars. The Contractor shall include all subcontracts that contribute to contract performance, and may include a proportionate share of products and services that are normally allocated as indirect costs. In accordance with 43 U.S.C. 1626 -
+(1) Separate goals, expressed in terms of total dollars subcontracted and as a percentage of total planned subcontracting dollars, for the use of small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns as subcontractors. For individual subcontracting plans, and if required by the Contracting Officer, goals shall also be expressed in terms of percentage of total contract dollars, in addition to the goals expressed as a percentage of total subcontract dollars. The Contractor shall include all subcontracts that contribute to contract performance, and may include a proportionate share of products and services that are normally allocated as indirect costs. In accordance with 43 U.S.C. 1626—
 
 (i) Subcontracts awarded to an ANC or Indian tribe shall be counted towards the subcontracting goals for small business and small disadvantaged business concerns, regardless of the size or Small Business Administration certification status of the ANC or Indian tribe; and
 
@@ -352,7 +350,7 @@ Small Business Subcontracting Plan (NOV 2021)
 
 (D) If the Contracting Officer does not receive a copy of the ANC's or the Indian tribe's written designation within 30 days of the subcontract award, the Contractor that awarded the subcontract to the ANC or Indian tribe will be considered the designated Contractor.
 
-(2) A statement of -
+(2) A statement of—
 
 (i) Total dollars planned to be subcontracted for an individual subcontracting plan; or the Contractor's total projected sales, expressed in dollars, and the total value of projected subcontracts to support the sales for a commercial plan, including all indirect costs, with the exception of those such as the following: Employee salaries and benefits; payments for petty cash; depreciation; interest; income taxes; property taxes; lease payments; bank fees; fines, claims, and dues; original equipment manufacturer relationships during warranty periods (negotiated up front with the product); utilities and other services purchased from a municipality or an entity solely authorized by the municipality to provide those services in a particular geographical region; and philanthropic contributions;
 
@@ -368,7 +366,7 @@ Small Business Subcontracting Plan (NOV 2021)
 
 (vii) Total dollars planned to be subcontracted to women-owned small business concerns.
 
-(3) A description of the principal types of supplies and services to be subcontracted, and an identification of the types planned for subcontracting to -
+(3) A description of the principal types of supplies and services to be subcontracted, and an identification of the types planned for subcontracting to—
 
 (i) Small business concerns;
 
@@ -386,7 +384,7 @@ Small Business Subcontracting Plan (NOV 2021)
 
 (5) A description of the method used to identify potential sources for solicitation purposes (e.g., existing company source lists, SAM, veterans service organizations, the National Minority Purchasing Council Vendor Information Service, the Research and Information Division of the Minority Business Development Agency in the Department of Commerce, or small, HUBZone, small disadvantaged, and women-owned small business trade associations). The Contractor may rely on the information contained in SAM as an accurate representation of a concern's size and ownership characteristics for the purposes of maintaining a small, veteran-owned small, service-disabled veteran-owned small, HUBZone small, small disadvantaged, and women-owned small business source list. Use of SAM as its source list does not relieve a firm of its responsibilities (e.g., outreach, assistance, counseling, or publicizing subcontracting opportunities) in this clause.
 
-(6) A statement as to whether or not the Contractor included indirect costs in establishing subcontracting goals, and a description of the method used to determine the proportionate share of indirect costs to be incurred with -
+(6) A statement as to whether or not the Contractor included indirect costs in establishing subcontracting goals, and a description of the method used to determine the proportionate share of indirect costs to be incurred with—
 
 (i) Small business concerns (including ANC and Indian tribes);
 
@@ -406,7 +404,7 @@ Small Business Subcontracting Plan (NOV 2021)
 
 (9) Assurances that the Contractor will include the clause of this contract entitled “Utilization of Small Business Concerns” in all subcontracts that offer further subcontracting opportunities, and that the Contractor will require all subcontractors (except small business concerns) that receive subcontracts in excess of the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, with further subcontracting possibilities to adopt a subcontracting plan that complies with the requirements of this clause.
 
-(10) Assurances that the Contractor will -
+(10) Assurances that the Contractor will—
 
 (i) Cooperate in any studies or surveys as may be required;
 
@@ -428,7 +426,7 @@ Small Business Subcontracting Plan (NOV 2021)
 
 (ii) Organizations contacted in an attempt to locate sources that are small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, or women-owned small business concerns.
 
-(iii) Records on each subcontract solicitation resulting in an award of more than the simplified acquisition threshold, as defined in FAR 2.101 on the date of subcontract award, indicating -
+(iii) Records on each subcontract solicitation resulting in an award of more than the simplified acquisition threshold, as defined in FAR 2.101 on the date of subcontract award, indicating—
 
 (A) Whether small business concerns were solicited and, if not, why not;
 
@@ -444,7 +442,7 @@ Small Business Subcontracting Plan (NOV 2021)
 
 (G) If applicable, the reason award was not made to a small business concern.
 
-(iv) Records of any outreach efforts to contact -
+(iv) Records of any outreach efforts to contact—
 
 (A) Trade associations;
 
@@ -454,7 +452,7 @@ Small Business Subcontracting Plan (NOV 2021)
 
 (D) Veterans service organizations.
 
-(v) Records of internal guidance and encouragement provided to buyers through -
+(v) Records of internal guidance and encouragement provided to buyers through—
 
 (A) Workshops, seminars, training, *etc.;* and
 
@@ -462,7 +460,7 @@ Small Business Subcontracting Plan (NOV 2021)
 
 (vi) On a contract-by-contract basis, records to support award data submitted by the Contractor to the Government, including the name, address, and business size of each subcontractor. Contractors having commercial plans need not comply with this requirement.
 
-(12) Assurances that the Contractor will make a good faith effort to acquire articles, equipment, supplies, services, or materials, or obtain the performance of construction work from the small business concerns that it used in preparing the proposal for the modification, in the same or greater scope, amount, and quality used in preparing and submitting the modification proposal. Responding to a request for a quote does not constitute use in preparing a proposal. The Contractor used a small business concern in preparing the proposal for a modification if -
+(12) Assurances that the Contractor will make a good faith effort to acquire articles, equipment, supplies, services, or materials, or obtain the performance of construction work from the small business concerns that it used in preparing the proposal for the modification, in the same or greater scope, amount, and quality used in preparing and submitting the modification proposal. Responding to a request for a quote does not constitute use in preparing a proposal. The Contractor used a small business concern in preparing the proposal for a modification if—
 
 (i) The Contractor identifies the small business concern as a subcontractor in the proposal or associated small business subcontracting plan, to furnish certain supplies or perform a portion of the subcontract; or
 

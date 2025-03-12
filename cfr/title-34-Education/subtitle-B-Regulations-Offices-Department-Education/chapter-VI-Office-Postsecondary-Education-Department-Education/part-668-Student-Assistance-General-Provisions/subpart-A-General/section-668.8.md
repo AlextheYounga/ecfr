@@ -1,14 +1,16 @@
 ##### § 668.8 Eligible program. #####
 
-(a) *General.* An eligible program is an educational program that -
+Link to an amendment published at 87 FR 65490, Oct. 28, 2022.
+
+(a) *General.* An eligible program is an educational program that—
 
 (1) Is provided by a participating institution; and
 
 (2) Satisfies the other relevant requirements contained in this section.
 
-(b) *Definitions.* For purposes of this section -
+(b) *Definitions.* For purposes of this section—
 
-(1) The Secretary considers the “equivalent of an associate degree” to be -
+(1) The Secretary considers the “equivalent of an associate degree” to be—
 
 (i) An associate degree; or
 
@@ -20,7 +22,7 @@
 
 (ii) Instructional time does not include any vacation periods, homework, or periods of orientation or counseling.
 
-(c) *Institution of higher education.* An eligible program provided by an institution of higher education must -
+(c) *Institution of higher education.* An eligible program provided by an institution of higher education must—
 
 (1) Lead to an associate, bachelor's, professional, or graduate degree;
 
@@ -28,7 +30,7 @@
 
 (3) Be at least a one-academic-year training program that leads to a certificate, or other nondegree recognized credential, and prepares students for gainful employment in a recognized occupation.
 
-(d) *Proprietary institution of higher education and postsecondary vocational institution.* An eligible program provided by a proprietary institution of higher education or postsecondary vocational institution -
+(d) *Proprietary institution of higher education and postsecondary vocational institution.* An eligible program provided by a proprietary institution of higher education or postsecondary vocational institution—
 
 (1)(i) Must require a minimum of 15 weeks of instruction, beginning on the first day of classes and ending on the last day of classes or examinations;
 
@@ -38,7 +40,7 @@
 
 (iv) May admit as regular students persons who have not completed the equivalent of an associate degree;
 
-(2) Must -
+(2) Must—
 
 (i) Require a minimum of 10 weeks of instruction, beginning on the first day of classes and ending on the last day of classes or examinations;
 
@@ -50,7 +52,7 @@
 
 (B) Admit as regular students only persons who have completed the equivalent of an associate degree;
 
-(3) For purposes of the FFEL and Direct Loan programs only, must -
+(3) For purposes of the FFEL and Direct Loan programs only, must—
 
 (i) Require a minimum of 10 weeks of instruction, beginning on the first day of classes and ending on the last day of classes or examinations;
 
@@ -62,13 +64,13 @@
 
 (v) Satisfy the requirements of paragraph (e) of this section; or
 
-(4) For purposes of a proprietary institution of higher education only, is a program leading to a baccalaureate degree in liberal arts, as defined in 34 CFR 600.5(e), that -
+(4) For purposes of a proprietary institution of higher education only, is a program leading to a baccalaureate degree in liberal arts, as defined in 34 CFR 600.5(e), that—
 
 (i) Is provided by an institution that is accredited by a recognized accrediting agency or association that was defined as a regional accrediting agency or association on October 1, 2007, and has held such accreditation since October 1, 2007, or earlier; and
 
 (ii) The institution has provided continuously since January 1, 2009.
 
-(e) *Qualitative factors.* (1) An educational program that satisfies the requirements of paragraphs (d)(3)(i) through (iv) of this section qualifies as an eligible program only if -
+(e) *Qualitative factors.* (1) An educational program that satisfies the requirements of paragraphs (d)(3)(i) through (iv) of this section qualifies as an eligible program only if—
 
 (i) The program has a substantiated completion rate of at least 70 percent, as calculated under paragraph (f) of this section;
 
@@ -100,7 +102,7 @@
 
 (iii) Divide the number of students determined under paragraph (g)(1)(ii) of this section by the total obtained under paragraph (g)(1)(i) of this section.
 
-(2) An institution shall document that each student described in paragraph (g)(1)(ii) of this section obtained gainful employment in the recognized occupation for which he or she was trained or in a related comparable recognized occupation. Examples of satisfactory documentation of a student's gainful employment include, but are not limited to -
+(2) An institution shall document that each student described in paragraph (g)(1)(ii) of this section obtained gainful employment in the recognized occupation for which he or she was trained or in a related comparable recognized occupation. Examples of satisfactory documentation of a student's gainful employment include, but are not limited to—
 
 (i) A written statement from the student's employer;
 
@@ -108,7 +110,7 @@
 
 (iii) Written evidence of payments of Social Security taxes.
 
-(h) *Eligibility for Federal Pell Grant, ACG, National SMART Grant, TEACH Grant, and FSEOG Programs.* In addition to satisfying other relevant provisions of the section -
+(h) *Eligibility for Federal Pell Grant, ACG, National SMART Grant, TEACH Grant, and FSEOG Programs.* In addition to satisfying other relevant provisions of the section—
 
 (1) An educational program qualifies as an eligible program for purposes of the Federal Pell Grant Program only if the educational program is an undergraduate program or a postbaccalaureate teacher certificate or licensing program as described in 34 CFR 690.6(c);
 
@@ -118,7 +120,7 @@
 
 (i) *Flight training.* In addition to satisfying other relevant provisions of this section, for a program of flight training to be an eligible program, it must have a current valid certification from the Federal Aviation Administration.
 
-(j) *English as a second language (ESL).* (1) In addition to satisfying the relevant provisions of this section, an educational program that consists solely of instruction in ESL qualifies as an eligible program if -
+(j) *English as a second language (ESL).* (1) In addition to satisfying the relevant provisions of this section, an educational program that consists solely of instruction in ESL qualifies as an eligible program if—
 
 (i) The institution admits to the program only students who the institution determines need the ESL instruction to use already existing knowledge, training, or skills; and
 
@@ -128,23 +130,23 @@
 
 (3) An ESL program that qualifies as an eligible program under this paragraph is eligible for purposes of the Federal Pell Grant Program only.
 
-(k) *Undergraduate educational program in credit hours.* If an institution offers an undergraduate educational program in credit hours, the institution must use the formula contained in paragraph (l) of this section to determine whether that program satisfies the requirements contained in paragraph (c)(3) or (d) of this section, and the number of credit hours in that educational program for purposes of the title IV, HEA programs, unless -
+(k) *Undergraduate educational program in credit hours.* If an institution offers an undergraduate educational program in credit hours, the institution must use the formula contained in paragraph (l) of this section to determine whether that program satisfies the requirements contained in paragraph (c)(3) or (d) of this section, and the number of credit hours in that educational program for purposes of the title IV, HEA programs, unless—
 
 (1) The program is at least two academic years in length and provides an associate degree, a bachelor's degree, a professional degree, or an equivalent degree as determined by the Secretary; or
 
-(2) Each course within the program is acceptable for full credit toward completion of an eligible program offered by the institution that provides an associate degree, bachelor's degree, professional degree, or equivalent degree as determined by the Secretary, provided that -
+(2) Each course within the program is acceptable for full credit toward completion of an eligible program offered by the institution that provides an associate degree, bachelor's degree, professional degree, or equivalent degree as determined by the Secretary, provided that—
 
 (i) The eligible program requires at least two academic years of study; and
 
 (ii) The institution can demonstrate that least one student graduated from the program during the current award year or the two preceding award years.
 
-(l) *Formula.* For purposes of determining whether a program described in paragraph (h) of this section satisfies the requirements contained in paragraph (c)(3) or (d) of this section, and the number of credit hours in that educational program for the purposes of the title IV, HEA programs -
+(l) *Formula.* For purposes of determining whether a program described in paragraph (h) of this section satisfies the requirements contained in paragraph (c)(3) or (d) of this section, and the number of credit hours in that educational program for the purposes of the title IV, HEA programs—
 
 (1) A semester or trimester hour must include at least 30 clock hours of instruction; and
 
 (2) A quarter hour must include at least 20 clock hours of instruction.
 
-(m) An otherwise eligible program that is offered in whole or in part through telecommunications is eligible for title IV, HEA program purposes if the program is offered by an institution, other than a foreign institution, that has been evaluated and is accredited for its effective delivery of distance education programs by an accrediting agency or association that -
+(m) An otherwise eligible program that is offered in whole or in part through telecommunications is eligible for title IV, HEA program purposes if the program is offered by an institution, other than a foreign institution, that has been evaluated and is accredited for its effective delivery of distance education programs by an accrediting agency or association that—
 
 (1) Is recognized by the Secretary under subpart 2 of part H of the HEA; and
 

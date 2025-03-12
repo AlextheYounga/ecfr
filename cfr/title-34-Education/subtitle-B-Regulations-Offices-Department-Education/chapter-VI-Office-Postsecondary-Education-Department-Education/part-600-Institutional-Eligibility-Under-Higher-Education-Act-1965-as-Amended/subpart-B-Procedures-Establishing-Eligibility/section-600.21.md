@@ -1,5 +1,7 @@
 ##### § 600.21 Updating application information. #####
 
+Link to an amendment published at 87 FR 65488, Oct. 28, 2022.
+
 (a) *Reporting requirements.* Except as provided in paragraph (b) of this section, an eligible institution must report to the Secretary in a manner prescribed by the Secretary no later than 10 days after the change occurs, of any change in the following:
 
 (1) Its name, the name of a branch, or the name of a previously reported location.
@@ -12,7 +14,7 @@
 
 (5) A decrease in the level of program offering (*e.g.* the institution drops its graduate programs).
 
-(6) A person's ability to affect substantially the actions of the institution if that person did not previously have this ability. The Secretary considers a person to have this ability if the person -
+(6) A person's ability to affect substantially the actions of the institution if that person did not previously have this ability. The Secretary considers a person to have this ability if the person—
 
 (i) Holds alone or together with another member or members of his or her family, at least a 25 percent “ownership interest” in the institution as defined in § 600.31(b);
 
@@ -28,7 +30,7 @@
 
 (10) For a freestanding foreign graduate medical school, or a foreign institution that includes a foreign graduate medical school, the school adds a location that offers all or a portion of the school's clinical rotations that are not required, except for those that are included in the accreditation of a medical program accredited by the Liaison Committee on Medical Education (LCME) or the American Osteopathic Association (AOA), or that are not used regularly, but instead are chosen by individual students who take no more than two electives at the location for no more than a total of eight weeks.
 
-(11) For any program that is required to provide training that prepares a student for gainful employment in a recognized occupation -
+(11) For any program that is required to provide training that prepares a student for gainful employment in a recognized occupation—
 
 (i) Establishing the eligibility or reestablishing the eligibility of the program;
 
@@ -52,7 +54,7 @@
 
 (e) *Consequence of failure to report.* An institution's failure to inform the Secretary of a change described in paragraph (a) of this section within the time period stated in that paragraph may result in adverse action against the institution.
 
-(f) *Definition.* A family member includes a person's -
+(f) *Definition.* A family member includes a person's—
 
 (1) Parent or stepparent, sibling or step-sibling, spouse, child or stepchild, or grandchild or step-grandchild;
 

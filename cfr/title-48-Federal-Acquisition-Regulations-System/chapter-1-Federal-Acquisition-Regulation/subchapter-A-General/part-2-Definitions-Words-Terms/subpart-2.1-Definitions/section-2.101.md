@@ -1,7 +1,5 @@
 ##### 2.101 Definitions. #####
 
-Link to an amendment published at 87 FR 58223, Sept. 23, 2022.Link to an amendment published at 87 FR 58234, Sept. 23, 2022.Link to an amendment published at 87 FR 58240, Sept. 23, 2022.
-
 (a) A word or a term, defined in this section, has the same meaning throughout this regulation (48 CFR chapter 1), unless -
 
 (1) The context in which the word or term is used clearly requires a different meaning; or
@@ -158,7 +156,7 @@ Link to an amendment published at 87 FR 58223, Sept. 23, 2022.Link to an amendme
 
 *Commercially available off-the-shelf (COTS) item -*  (1) Means any item of supply (including construction material) that is -
 
-(i) A commercial product (as defined in paragraph (1) of the definition of “commercial product” in this section );
+(i) A commercial product (as defined in paragraph (1) of the definition of “commercial product” in this section);
 
 (ii) Sold in substantial quantities in the commercial marketplace; and
 
@@ -416,11 +414,11 @@ Link to an amendment published at 87 FR 58223, Sept. 23, 2022.Link to an amendme
 
 *Historically black college or university* means an institution determined by the Secretary of Education to meet the requirements of 34 CFR 608.2.
 
-*HUBZone* means a historically underutilized business zone that is an area located within one or more qualified census tracts, qualified nonmetropolitan counties, lands within the external boundaries of an Indian reservation, qualified base closure areas, or redesignated areas, as defined in 13 CFR 126.103.
+*HUBZone* means a historically underutilized business zone that is an area located within one or more qualified census tracts, qualified nonmetropolitan counties, lands within the external boundaries of an Indian reservation, qualified base closure areas, redesignated areas, governor-designated covered areas, or qualified disaster areas, as defined in 13 CFR 126.103.
 
 *HUBZone contract* means a contract awarded to a Small Business Administration certified “HUBZone small business concern” through any of the following procurement methods:
 
-(1) A sole source award to a HUBZone small business concern.
+(1) A sole-source award to a HUBZone small business concern.
 
 (2) Set-aside awards based on competition restricted to HUBZone small business concerns.
 
@@ -428,7 +426,7 @@ Link to an amendment published at 87 FR 58223, Sept. 23, 2022.Link to an amendme
 
 (4) Awards based on a reserve for HUBZone small business concerns in a solicitation for a multiple-award contract.
 
-*HUBZone small business concern* means a small business concern, certified by the Small Business Administration (SBA), that appears on the List of Qualified HUBZone Small Business Concerns maintained by the SBA (13 CFR 126.103).
+*HUBZone small business concern* means a small business concern that meets the requirements described in 13 CFR 126.200, is certified by the Small Business Administration (SBA) and designated by SBA as a HUBZone small business concern in the Dynamic Small Business Search (DSBS) (13 CFR 126.103). SBA's designation also appears in SAM.
 
 *Humanitarian or peacekeeping operation* means a military operation in support of the provision of humanitarian or foreign disaster assistance or in support of a peacekeeping operation under chapter VI or VII of the Charter of the United Nations. The term does not include routine training, force rotation, or stationing (10 U.S.C. 2302(8) and 41 U.S.C. 153(2)).
 
@@ -820,7 +818,7 @@ Link to an amendment published at 87 FR 58223, Sept. 23, 2022.Link to an amendme
 
 *Small business concern* -
 
-(1) Means a concern, including its affiliates, that is independently owned and operated, not dominant in the field of operation in which it is bidding on Government contracts, and qualified as a small business under the criteria and size standards in 13 CFR part 121 (see 19.102). Such a concern is “not dominant in its field of operation” when it does not exercise a controlling or major influence on a national basis in a kind of business activity in which a number of business concerns are primarily engaged. In determining whether dominance exists, consideration must be given to all appropriate factors, including volume of business, number of employees, financial resources, competitive status or position, ownership or control of materials, processes, patents, license agreements, facilities, sales territory, and nature of business activity. (See 15 U.S.C. 632.)
+(1) Means a concern, including its affiliates, that is independently owned and operated, not dominant in its field of operation, and qualified as a small business under the criteria and size standards in 13 CFR part 121 (see 19.102).
 
 (2) *Affiliates,* as used in this definition, means business concerns, one of whom directly or indirectly controls or has the power to control the others, or a third party or parties control or have the power to control the others. In determining whether affiliation exists, consideration is given to all appropriate factors including common ownership, common management, and contractual relationships. SBA determines affiliation based on the factors set forth at 13 CFR 121.103.
 
@@ -1040,15 +1038,15 @@ Link to an amendment published at 87 FR 58223, Sept. 23, 2022.Link to an amendme
 
 (2) A small business concern eligible under the Women-Owned Small Business Program in accordance with 13 CFR part 127 (see subpart 19.15).
 
-*Women-Owned Small Business (WOSB) Program.* (1) *Women-Owned Small Business (WOSB) Program* means a program that authorizes contracting officers to limit competition, including award on a sole source basis, to -
+*Women-Owned Small Business (WOSB) Program.* (1) *Women-Owned Small Business (WOSB) Program* means a program that authorizes contracting officers to limit competition, including award on a sole-source basis, to -
 
 (i) Economically disadvantaged women-owned small business (EDWOSB) concerns eligible under the WOSB Program for Federal contracts assigned a North American Industry Classification Systems (NAICS) code in an industry in which the Small Business Administration (SBA) has determined that WOSB concerns are underrepresented in Federal procurement; and
 
 (ii) WOSB concerns eligible under the WOSB Program for Federal contracts assigned a NAICS code in an industry in which SBA has determined that WOSB concerns are substantially underrepresented in Federal procurement.
 
-(2) *Economically disadvantaged women-owned small business (EDWOSB) concern* means a small business concern that is at least 51 percent directly and unconditionally owned by, and the management and daily business operations of which are controlled by, one or more women who are citizens of the United States and who are economically disadvantaged in accordance with 13 CFR part 127. It automatically qualifies as a women-owned small business (WOSB) concern eligible under the WOSB Program.
+(2) *Economically disadvantaged women-owned small business (EDWOSB) concern* means a small business concern that is at least 51 percent directly and unconditionally owned by, and the management and daily business operations of which are controlled by, one or more women who are citizens of the United States and who are economically disadvantaged in accordance with 13 CFR part 127, and the concern is certified by SBA or an approved third-party certifier in accordance with 13 CFR 127.300. It automatically qualifies as a women-owned small business (WOSB) concern eligible under the WOSB Program.
 
-(3) *Women-owned small business (WOSB) concern eligible under the WOSB Program* means a small business concern that is at least 51 percent directly and unconditionally owned by, and the management and daily business operations of which are controlled by, one or more women who are citizens of the United States (13 CFR part 127).
+(3) *Women-owned small business (WOSB) concern eligible under the WOSB Program* means a small business concern that is at least 51 percent directly and unconditionally owned by, and the management and daily business operations of which are controlled by, one or more women who are citizens of the United States, and the concern is certified by SBA or an approved third-party certifier in accordance with 13 CFR 127.300.
 
 *Writing* or *written* (see “in writing”).
 

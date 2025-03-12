@@ -1,14 +1,12 @@
 ##### 52.219-27 Notice of Service-Disabled Veteran-Owned Small Business Set-Aside. #####
 
-Link to an amendment published at 87 FR 58227, Sept. 23, 2022.
-
 As prescribed in 19.1408, insert the following clause:
 
-Notice of Service-Disabled Veteran-Owned Small Business Set-Aside (SEP 2021)
+Notice of Service-Disabled Veteran-Owned Small Business Set-Aside (OCT 2022)
 
-(a) *Definition. Service-disabled veteran-owned small business concern* -
+(a) *Definition. Service-disabled veteran-owned small business concern*—
 
-(1) Means a small business concern -
+(1) Means a small business concern—
 
 (i) Not less than 51 percent of which is owned by one or more service-disabled veterans or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more service-disabled veterans; and
 
@@ -16,7 +14,7 @@ Notice of Service-Disabled Veteran-Owned Small Business Set-Aside (SEP 2021)
 
 (2) *Service-disabled veteran* means a veteran, as defined in 38 U.S.C. 101(2), with a disability that is service-connected, as defined in 38 U.S.C. 101(16).
 
-(b) *Applicability.* This clause applies only to -
+(b) *Applicability.* This clause applies only to—
 
 (1) Contracts that have been set aside for service-disabled veteran-owned small business concerns;
 
@@ -30,18 +28,12 @@ Notice of Service-Disabled Veteran-Owned Small Business Set-Aside (SEP 2021)
 
 (2) Any award resulting from this solicitation will be made to a service-disabled veteran-owned small business concern.
 
-(d) A joint venture may be considered a service-disabled veteran owned small business concern if -
+(d) A joint venture may be considered a service-disabled veteran owned small business concern if—
 
-(1) At least one member of the joint venture is a service-disabled veteran-owned small business concern, and makes the following representations:
+(1) At least one party to the joint venture complies with the criteria defined in paragraph (a) of this clause and 13 CFR 125.18(b)(2); and
 
-(i) That it is a service-disabled veteran-owned small business concern, and
+(2) Each party to the joint venture is small under the size standard corresponding to the NAICS code assigned to the procurement, or the protégé is small under the size standard corresponding to the NAICS code assigned to the procurement in a joint venture comprised of a mentor and protégé with an approved mentor-protégé agreement under an SBA mentor-protégé program.
 
-(ii) That it is a small business concern under the North American Industry Classification Systems (NAICS) code assigned to the procurement;
+(e) In a joint venture that complies with paragraph (f) of this clause, the service-disabled veteran-owned small business party or parties to the joint venture shall perform at least 40 percent of the work performed by the joint venture. Work performed by the service-disabled veteran-owned small business party or parties to the joint venture must be more than administrative functions.
 
-(2) Each other concern is small under the size standard corresponding to the NAICS code assigned to the procurement;
-
-(3) The joint venture meets the requirements of 13 CFR 121.103(h); and
-
-(4) The joint venture meets the requirements of 13 CFR 125.15(b).
-
-(End of clause)[69 FR 25279, May 5, 2004, as amended at 76 FR 68037, Nov. 2, 2011; 84 FR 47864, Sept. 10, 2019; 85 FR 11771, Feb. 27, 2020; 86 FR 44245, Aug. 11, 2021]
+(End of clause)[69 FR 25279, May 5, 2004, as amended at 76 FR 68037, Nov. 2, 2011; 84 FR 47864, Sept. 10, 2019; 85 FR 11771, Feb. 27, 2020; 86 FR 44245, Aug. 11, 2021; 87 FR 58227, Sept. 23, 2022]

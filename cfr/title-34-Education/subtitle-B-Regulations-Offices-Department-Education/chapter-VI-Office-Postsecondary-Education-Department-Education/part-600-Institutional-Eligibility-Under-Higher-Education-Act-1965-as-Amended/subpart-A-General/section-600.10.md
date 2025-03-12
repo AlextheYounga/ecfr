@@ -1,6 +1,8 @@
 ##### § 600.10 Date, extent, duration, and consequence of eligibility. #####
 
-(a) *Date of eligibility.* (1) If the Secretary determines that an applicant institution satisfies all the statutory and regulatory eligibility requirements, the Secretary considers the institution to be an eligible institution as of the date -
+Link to an amendment published at 87 FR 65487, Oct. 28, 2022.
+
+(a) *Date of eligibility.* (1) If the Secretary determines that an applicant institution satisfies all the statutory and regulatory eligibility requirements, the Secretary considers the institution to be an eligible institution as of the date—
 
 (i) The Secretary signs the institution's program participation agreement described in 34 CFR part 668, subpart B, for purposes of participating in any title IV, HEA program; and
 
@@ -12,13 +14,13 @@
 
 (2) If the Secretary determines that only certain educational programs or certain locations of an applicant institution satisfy the applicable requirements of this part, the Secretary extends eligibility only to those educational programs and locations that meet those requirements and identifies the eligible educational programs and locations in the eligibility notice sent to the institution under § 600.21.
 
-(3) Eligibility does not extend to any location that an institution establishes after it receives its eligibility designation if the institution provides at least 50 percent of an educational program at that location, unless -
+(3) Eligibility does not extend to any location that an institution establishes after it receives its eligibility designation if the institution provides at least 50 percent of an educational program at that location, unless—
 
 (i) The Secretary approves that location under § 600.20(e)(4); or
 
 (ii) The location is licensed and accredited, the institution does not have to apply to the Secretary for approval of that location under § 600.20(c), and the institution has reported to the Secretary that location under § 600.21.
 
-(c) *Educational programs.* (1) An eligible institution that seeks to establish the eligibility of an educational program must -
+(c) *Educational programs.* (1) An eligible institution that seeks to establish the eligibility of an educational program must—
 
 (i) Pursuant to a requirement regarding additional programs included in the institution's program participation agreement under 34 CFR 668.14, obtain the Secretary's approval;
 
@@ -28,7 +30,7 @@
 
 (2) Except as provided under § 600.20(c), an eligible institution does not have to obtain the Secretary's approval to establish the eligibility of any program that is not described in paragraph (c)(1) of this section.
 
-(3) An institution must repay to the Secretary all HEA program funds received by the institution for an educational program, and all the title IV, HEA program funds received by or on behalf of students who enrolled in that program if the institution -
+(3) An institution must repay to the Secretary all HEA program funds received by the institution for an educational program, and all the title IV, HEA program funds received by or on behalf of students who enrolled in that program if the institution—
 
 (i) Fails to comply with the requirements in paragraph (c)(1) of this section; or
 
