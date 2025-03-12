@@ -1,5 +1,7 @@
 ##### § 171.5 Definitions. #####
 
+Link to an amendment published at 86 FR 32177, June 16, 2021.
+
 *Budget* means the funds appropriated by Congress for the NRC for each fiscal year, and if that appropriation is not passed on or before September 1 for that fiscal year, the funds most recently appropriated by Congress for the most recent fiscal year.
 
 *Budget authority* means the authority, in the form of appropriations, provided by law and becoming available during the year, to enter into obligations that will result in immediate or future outlays involving Federal government funds. The appropriation is an authorization by an Act of Congress that permits the NRC to incur obligations and to make payments out of the Treasury for specified purposes. Fees assessed pursuant to Public Law 101-508 are based on NRC budget authority.

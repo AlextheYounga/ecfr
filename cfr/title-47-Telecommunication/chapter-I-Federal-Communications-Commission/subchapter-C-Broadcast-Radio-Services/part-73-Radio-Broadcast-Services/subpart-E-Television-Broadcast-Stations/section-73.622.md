@@ -1688,7 +1688,7 @@ ut terminals of the transmitter (including any filters that may be employed). In
 |      MISSOURI      |                                                   |
 |   Cape Girardeau   |                      22, 32                       |
 |      Columbia      |                      17, 27                       |
-|      Hannibal      |                         7                         |
+|      Hannibal      |                        22                         |
 |   Jefferson City   |                      20, 29                       |
 |       Joplin       |                   \*25, 43, 46                    |
 |    Kansas City     |         \*18, 24, 29, 30, 31, 34, 42, 47          |

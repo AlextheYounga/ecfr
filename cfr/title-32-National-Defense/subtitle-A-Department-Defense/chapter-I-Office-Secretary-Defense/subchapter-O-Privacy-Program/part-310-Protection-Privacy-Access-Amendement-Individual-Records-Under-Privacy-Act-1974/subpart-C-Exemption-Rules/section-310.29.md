@@ -1,6 +1,6 @@
 ##### § 310.29 Office of the Secretary of Defense (OSD) exemptions. #####
 
-Link to an amendment published at 86 FR 26672, May 17, 2021.Link to an amendment published at 86 FR 31431, June 14, 2021.
+Link to an amendment published at 86 FR 31431, June 14, 2021.
 
 (a) *General information.* The Secretary of Defense designates those Office of the Secretary of Defense (OSD) systems of records which will be exempt from certain provisions of the Privacy Act. There are two types of exemptions, general and specific. The general exemption authorizes the exemption of a system of records from all but a few requirements of the Act. The specific exemption authorizes exemption of a system of records or portion thereof, from only a few specific requirements. If an OSD Component originates a new system of records for which it proposes an exemption, or if it proposes an additional or new exemption for an existing system of records, it shall submit the recommended exemption with the records system notice as outlined in § 311.6. No exemption of a system of records shall be considered automatic for all records in the system. The systems manager shall review each requested record and apply the exemptions only when this will serve significant and legitimate Government purpose.
 
@@ -355,3 +355,13 @@ Link to an amendment published at 86 FR 26672, May 17, 2021.Link to an amendment
 (iii) *Reasons.* (A) From subsections (c)(3) and (d) when access to accounting disclosure and access to or amendment of records would cause the identity of a confidential source to be revealed. Disclosure of the source's identity not only will result in the Department breaching the promise of confidentiality made to the source but it will impair the Department's future ability to compile investigatory material for the purpose of determining suitability, eligibility, or qualifications for Federal civilian employment, Federal contracts, or access to classified information. Unless sources can be assured that a promise of confidentiality will be honored, they will be less likely to provide information considered essential to the Department in making the required determinations.
 
 (B) From subsection (e)(1) because in the collection of information for investigatory purposes, it is not always possible to determine the relevance and necessity of particular information in the early stages of the investigation. It is only after the information is evaluated in light of other information that its relevance and necessity becomes clear. Such information permits more informed decision-making by the Department when making required suitability, eligibility, and qualification determinations.
+
+(28) *System identifier and name.* DMDC 18 DoD, Synchronized Predeployment and Operational Tracker Enterprise Suite (SPOT-ES) Records.
+
+(i) *Exemption.* Information classified under E.O. 13526, as implemented by DoD Instruction (DoDI) 5200.01 and DoD Manual (DoDM) 5200.01, Volumes 1 and 3, may be exempt pursuant to 5 U.S.C. 552a(k)(1).
+
+(ii) *Authority.* 5 U.S.C. 552a(k)(1).
+
+(iii) *Reasons.* From subsection 5 U.S.C. 552a(d) because granting access to information that is properly classified pursuant to E.O. 13526, as implemented by DoD Instruction 5200.01 and DoD Manual 5200.01, Volumes 1 and 3, may cause damage to the national security.
+
+[84 FR 14730, Apr. 11, 2019, as amended at 86 FR 26672, May 17, 2021]

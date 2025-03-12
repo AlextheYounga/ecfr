@@ -1,5 +1,7 @@
 ##### § 15.53 Reasons for suspending collection action. #####
 
+Link to an amendment published at 86 FR 32169, June 16, 2021.
+
 The NRC may suspend collection activity when:
 
 (a) The NRC cannot locate the debtor;
