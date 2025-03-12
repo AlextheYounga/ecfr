@@ -62,7 +62,7 @@ VAR Models
 
 (e) An OTC derivatives dealer's VAR model must meet the following qualitative and quantitative requirements:
 
-(1) *Qualitative requirements.* An OTC derivatives dealerapplying this appendix F must have a VAR model that meets the following minimum qualitative requirements:
+(1) *Qualitative requirements.* An OTC derivatives dealer applying this appendix F must have a VAR model that meets the following minimum qualitative requirements:
 
 (i) The OTC derivatives dealer's VAR model must be integrated into the firm's daily risk management process;
 
@@ -77,8 +77,6 @@ VAR Models
 (B) Once each quarter, the OTC derivatives dealer must identify the number of exceptions, that is, the number of business days for which the actual daily net trading loss, if any, exceeded the corresponding daily VAR measure; and
 
 (C) An OTC derivatives dealer must use the multiplication factor indicated in Table 1 of this appendix F in determining its capital charge for market risk until it obtains the next quarter's backtesting results, unless the Commission determines that a different adjustment or other action is appropriate.
-
-Table 5 - Multiplication Factor Based on Results of Backtesting
 
 |Number of exceptions|Multiplication factor|
 |--------------------|---------------------|

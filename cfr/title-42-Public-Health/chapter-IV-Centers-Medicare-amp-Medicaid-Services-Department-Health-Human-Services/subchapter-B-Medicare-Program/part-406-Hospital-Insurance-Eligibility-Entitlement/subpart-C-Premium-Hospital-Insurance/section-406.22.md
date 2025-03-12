@@ -1,5 +1,7 @@
 ##### § 406.22 Effect of month of enrollment on entitlement. #####
 
+Link to an amendment published at 87 FR 66503, Nov. 3, 2022.
+
 (a) *Individual age 65 or over.* For an individual who has attained age 65, the following rules apply:
 
 (1) If the individual enrolls during the 3 months before the first month of eligibility, entitlement begins with the first month of eligibility.

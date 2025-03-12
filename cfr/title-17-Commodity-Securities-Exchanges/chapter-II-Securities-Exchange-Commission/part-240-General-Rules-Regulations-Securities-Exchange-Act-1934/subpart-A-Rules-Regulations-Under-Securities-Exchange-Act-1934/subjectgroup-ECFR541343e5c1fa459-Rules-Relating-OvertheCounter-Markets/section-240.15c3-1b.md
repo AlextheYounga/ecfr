@@ -44,15 +44,15 @@ Net Capital
 
 (ix) In the case of all inventory, fixed price commitments and forward contracts, except for inventory and forward contracts in the inter-bank market in those foreign currencies which are purchased or sold for further delivery on or subject to the rules of a contract market and covered by an open futures contract for which there will be no charge, deduct the applicable percentage of the net position specified below:
 
-(A) Inventory which is currently registered as deliverable on a contract market and covered by an open futures contract or by a commodity option on a physical - No charge.
+(A) Inventory which is currently registered as deliverable on a contract market and covered by an open futures contract or by a commodity option on a physical—No charge.
 
-(B) Inventory which is covered by an open futures contract or commodity option - 5% of the market value.
+(B) Inventory which is covered by an open futures contract or commodity option—5% of the market value.
 
-(C) Inventory which is not covered - 20% of the market value.
+(C) Inventory which is not covered—20% of the market value.
 
-(D) Fixed price commitments (open purchases and sales) and forward contracts which are covered by an open futures contract or commodity option - 10% of the market value.
+(D) Fixed price commitments (open purchases and sales) and forward contracts which are covered by an open futures contract or commodity option—10% of the market value.
 
-(E) Fixed price commitments (open purchases and sales) and forward contracts which are not covered by an open futures contract or commodity option - 20% of the market value.
+(E) Fixed price commitments (open purchases and sales) and forward contracts which are not covered by an open futures contract or commodity option—20% of the market value.
 
 (x) Deduct 4% of the market value of commodity options granted (sold) by option customers on or subject to the rules of a contract market.
 
@@ -62,7 +62,7 @@ Net Capital
 
 (xiii) Deduct for undermargined non-customer and omnibus commodity futures accounts the amount of funds required in each such account to meet maintenance margin requirements of the applicable board of trade or, if there are no such maintenance margin requirements, clearing organization margin requirements applicable to such positions, after application of calls for margin, or other required deposits which are outstanding two business days or less. If there are no such maintenance margin requirements or clearing organization margin requirements, then deduct the amount of funds required to provide margin equal to the amount necessary after application of calls for margin, or other required deposits outstanding two days or less to restore original margin when the original margin has been depleted by 50 percent or more. *Provided,* To the extent a deficit is deducted from net worth in accordance with paragraph (a)(3)(ii) of this appendix B such amount shall not also be deducted under this paragraph (a)(3)(xiii). In the event that an owner of a non-customer or omnibus account has deposited an asset other than cash to margin, guarantee or secure his account, the value attributable to such asset for purposes of this paragraph shall be the lesser of (A) the value attributable to such asset pursuant to the margin rules of the applicable board of trade, or (B) the market value of such asset after application of the percentage deductions specified in paragraph (a)(3)(ix) of this appendix B or, where appropriate, specified in paragraph (c)(2)(vi) or (c)(2)(vii) of § 240.15c3-1 of this chapter;
 
-(xiv) In the case of open futures contracts and granted (sold) commodity options held in proprietary accounts carried by the broker or dealer which are not covered by a position held by the broker or dealer or which are not the result of a “changer trade made in accordance with the rules of a contract market, deduct:
+(xiv) In the case of open futures contracts and granted (sold) commodity options held in proprietary accounts carried by the broker or dealer which are not covered by a position held by the broker or dealer or which are not the result of a “changer trade” made in accordance with the rules of a contract market, deduct:
 
 (A) For a broker or dealer which is a clearing member of a contract market for the positions on such contract market cleared by such member, the applicable margin requirement of the applicable clearing organization;
 
@@ -96,11 +96,9 @@ Net Capital
 
 (1) *Cleared swaps.* In the case of a cleared swap held in a proprietary account of the broker or dealer, deducting the amount of the applicable margin requirement of the derivatives clearing organization or, if the swap references an equity security index, the broker or dealer may take a deduction using the method specified in § 240.15c3-1a.
 
-(2) *Non-cleared swaps* - (i) *Credit default swaps referencing broad-based security indices.* In the case of a non-cleared credit default swap for which the deductions in § 240.15c3-1e do not apply:
+(2) *Non-cleared swaps*—(i) *Credit default swaps referencing broad-based security indices.* In the case of a non-cleared credit default swap for which the deductions in § 240.15c3-1e do not apply:
 
 (A) *Short positions (selling protection).* In the case of a non-cleared swap that is a short credit default swap referencing a broad-based security index, deducting the percentage of the notional amount based upon the current basis point spread of the credit default swap and the maturity of the credit default swap in accordance table 1 to § 240.15c3-1a(b)(2)(i)(A):
-
-Table 1 to § 240.15c3-1a(b)(2)(i)(A)
 
 |Length of time to maturity of credit default swap contract|Basis point spread|                 |                 |                 |                     |     |
 |----------------------------------------------------------|------------------|-----------------|-----------------|-----------------|---------------------|-----|

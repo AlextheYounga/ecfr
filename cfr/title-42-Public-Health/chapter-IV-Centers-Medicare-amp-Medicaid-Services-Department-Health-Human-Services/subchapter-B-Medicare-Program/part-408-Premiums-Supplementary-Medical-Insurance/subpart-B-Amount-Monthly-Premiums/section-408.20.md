@@ -1,5 +1,7 @@
 ##### § 408.20 Monthly premiums. #####
 
+Link to an amendment published at 87 FR 66509, Nov. 3, 2022.
+
 (a) *Statutory provisions.* (1) The law established a monthly premium of $3 for the initial period of the program. It also set forth criteria and procedures for the Secretary to follow each December, beginning with December 1968, to determine and promulgate the standard monthly premium for the 12-month period beginning with July of the following year.
 
 (2) The law was amended in 1983 to require that the Secretary promulgate the standard monthly premium in September of that year, and each year thereafter, to be effective for the 12 months beginning with the following January.

@@ -1,5 +1,7 @@
 ##### § 406.13 Individual who has end-stage renal disease. #####
 
+Link to an amendment published at 87 FR 66503, Nov. 3, 2022.
+
 (a) *Statutory basis and applicability.* This section explains the conditions of entitlement to hospital insurance benefits on the basis of end-stage renal disease, and specifies the beginning and end of the period of entitlement. It implements section 226A of the Social Security Act.
 
 (b) *Definitions.* As used in this section:

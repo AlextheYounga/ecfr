@@ -1,5 +1,7 @@
 ##### § 407.47 Beginning of coverage under a State buy-in agreement. #####
 
+Link to an amendment published at 87 FR 66508, Nov. 3, 2022.
+
 (a) *General rule.* The beginning of an individual's coverage period depends on two factors:
 
 (1) The individual's meeting the SMI eligibility requirements and the requirements for being a member of the buy-in group; and

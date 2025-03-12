@@ -1,5 +1,7 @@
 ##### § 423.30 Eligibility and enrollment. #####
 
+Link to an amendment published at 87 FR 66510, Nov. 3, 2022.
+
 (a) *General rule.* (1) An individual is eligible for Part D if he or she does all of the following:
 
 (i) Is entitled to Medicare benefits under Part A or enrolled in Medicare Part B.

@@ -1,5 +1,7 @@
 ##### § 406.21 Individual enrollment. #####
 
+Link to an amendment published at 87 FR 66503, Nov. 3, 2022.
+
 (a) *Basic provision.* An individual who meets the requirements of § 406.20 (b) or (c) may enroll for premium hospital insurance only during his or her “initial enrollment period”, a “general enrollment period”, a “special enrollment period”, or, for HMO/CMP enrollees, a “transfer enrollment period”, as set forth in paragraphs (b) through (f) of this section.
 
 (b) *Initial enrollment periods* - (1) *Initial enrollment period for individual age 65 or over.* The initial enrollment period extends for 7 months, from the third month before the month the individual first meets the requirements of § 406.20 (b)(1) through (b)(3) through the third month after that first month of eligibility.

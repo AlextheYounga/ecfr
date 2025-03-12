@@ -1,5 +1,7 @@
 ##### § 407.25 Beginning of entitlement: Individual enrollment. #####
 
+Link to an amendment published at 87 FR 66506, Nov. 3, 2022.
+
 The following apply whether an individual is self-enrolled or automatically enrolled in SMI:
 
 (a) *Enrollment during initial enrollment period.* (1) If an individual enrolls during the first three months of the initial enrollment period, entitlement begins with the first month of eligibility.

@@ -1,5 +1,7 @@
 ##### § 407.42 Buy-in groups available to the 50 States, the District of Columbia, and the Northern Mariana Islands. #####
 
+Link to an amendment published at 87 FR 66507, Nov. 3, 2022.
+
 (a) *Categories included in the buy-in groups.* The buy-in groups that are available to the 50 States, the District of Columbia, and the Northern Mariana Islands are specified in paragraph (b) of this section in terms of the following categories:
 
 (1) *Category A:* Individuals who -

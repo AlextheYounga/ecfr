@@ -1,5 +1,7 @@
 ##### § 407.48 Termination of coverage under a State buy-in agreement. #####
 
+Link to an amendment published at 87 FR 66508, Nov. 3, 2022.
+
 An individual's coverage under a buy-in agreement terminates with the earliest of the following events:
 
 (a) *Death.* Coverage ends on the last day of the month in which the individual dies.

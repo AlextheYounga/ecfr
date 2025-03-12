@@ -1,5 +1,7 @@
 ##### § 406.33 Determination of months to be counted for premium increase: Enrollment. #####
 
+Link to an amendment published at 87 FR 66505, Nov. 3, 2022.
+
 (a) *Enrollment before April 1, 1981, or after September 30, 1981.* The months to be counted for premium increase are the months from the end of the initial enrollment period through the end of the general enrollment period, the special enrollment period, or the transfer enrollment period in which the individual enrolls, excluding the following:
 
 (1) Any months before September 1973.

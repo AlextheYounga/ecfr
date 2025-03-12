@@ -1,5 +1,7 @@
 ##### § 431.625 Coordination of Medicaid with Medicare part B. #####
 
+Link to an amendment published at 87 FR 66510, Nov. 3, 2022.
+
 (a) *Basis and purpose.* (1) Section 1843(a) of the Act requires the Secretary to have entered into an agreement with any State that requested that agreement before January 1, 1970, or during calendar year 1981, under which the State could enroll certain Medicare-eligible beneficiaries under Medicare Part B and agree to pay their premiums.
 
 (2) Section 1902(a)(10) of the Act (in clause (II) following subparagraph (D)), allows the State to pay the premium, deductibles, cost sharing, and other charges for beneficiaries enrolled under Medicare Part B without obligating itself to provide the range of Part B benefits to other beneficiaries; and

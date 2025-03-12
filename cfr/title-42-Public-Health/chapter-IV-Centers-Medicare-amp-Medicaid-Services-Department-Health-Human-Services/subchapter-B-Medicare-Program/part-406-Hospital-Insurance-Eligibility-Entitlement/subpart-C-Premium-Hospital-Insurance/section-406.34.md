@@ -1,5 +1,7 @@
 ##### § 406.34 Determination of months to be counted for premium increase: Reenrollment. #####
 
+Link to an amendment published at 87 FR 66505, Nov. 3, 2022.
+
 (a) *First reenrollment before April 1, 1981 or after September 30, 1981.* The months to be counted for premium increase are:
 
 (1) The months specified in § 406.33(a) or (b); plus

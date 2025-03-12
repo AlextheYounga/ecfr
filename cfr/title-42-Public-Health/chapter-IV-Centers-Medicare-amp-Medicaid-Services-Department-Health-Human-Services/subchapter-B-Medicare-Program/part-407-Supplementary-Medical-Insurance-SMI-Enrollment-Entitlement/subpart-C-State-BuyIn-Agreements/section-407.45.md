@@ -1,5 +1,7 @@
 ##### § 407.45 Termination of State buy-in agreements. #####
 
+Link to an amendment published at 87 FR 66508, Nov. 3, 2022.
+
 (a) *Termination by the State* - (1) *Termination after advance notice.* A State may terminate its buy-in agreement after giving CMS 3 months, advance notice.
 
 (2) *Termination without advance notice.* A State may terminate its buy-in agreement without advance notice if -

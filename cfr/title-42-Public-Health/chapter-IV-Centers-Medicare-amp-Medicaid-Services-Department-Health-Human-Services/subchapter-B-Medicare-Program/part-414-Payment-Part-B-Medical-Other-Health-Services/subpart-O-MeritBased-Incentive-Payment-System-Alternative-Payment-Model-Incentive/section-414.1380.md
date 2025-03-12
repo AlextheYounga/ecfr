@@ -227,7 +227,7 @@ Table 1 to Paragraph (c) Introductory Text
 
 (*iii*) For the 2024 MIPS payment year, the MIPS eligible clinician is a clinical social worker. In the event that a MIPS eligible clinician submits data for the Promoting Interoperability performance category, the scoring weight specified in paragraph (c)(1) of this section will be applied and its weight will not be redistributed.
 
-(*5*) {Reserved]
+(*5*) [Reserved]
 
 (*6*) Beginning with the 2020 MIPS payment year, for the quality, cost, and improvement activities performance categories, the MIPS eligible clinician demonstrates through an application submitted to CMS that they were subject to extreme and uncontrollable circumstances that prevented the clinician from collecting information that the clinician would submit for a performance category or submitting information that would be used to score a performance category for an extended period of time. Beginning with the 2021 MIPS payment year, in the event that a MIPS eligible clinician submits data for the quality, cost, or improvement activities performance categories, the scoring weight specified in paragraph (c)(1) of this section will be applied and its weight will not be redistributed, unless an exception applies. Exception: for the 2021 MIPS payment year only, if a MIPS eligible clinician demonstrates through an application submitted to CMS that they have been adversely affected by the Public Health Emergency for the COVID-19 pandemic and also submits data for the quality, cost, or improvement activities performance categories, the preceding sentence will not apply.
 

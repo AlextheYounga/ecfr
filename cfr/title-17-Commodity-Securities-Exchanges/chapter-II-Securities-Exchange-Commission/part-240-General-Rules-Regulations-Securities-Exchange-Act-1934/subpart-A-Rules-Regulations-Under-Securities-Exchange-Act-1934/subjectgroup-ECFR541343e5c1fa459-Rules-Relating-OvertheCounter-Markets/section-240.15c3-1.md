@@ -24,7 +24,7 @@ Futures Commission Merchants
 
 Minimum Requirements
 
-See Appendix E (§ 240.15c3-1E) for temporary minimum requirements.
+See Appendix E (§ 240.15c3-1e) for temporary minimum requirements.
 
 Brokers or Dealers That Carry Customer Accounts
 
@@ -112,7 +112,7 @@ Alternative Net Capital Computation for Broker-Dealers Authorized to Use Models
 
 (8) *Municipal securities brokers' brokers.* (i) A municipal securities brokers' brokers, as defined in subsection (ii) of this paragraph (a)(8), may elect not to be subject to the limitations of paragraph (c)(2)(ix) of this section provided that such brokers' broker complies with the requirements set out in paragraphs (a)(8) (iii), (iv) and (v) of this section.
 
-(ii) The term municipal securities *brokers' broker* shall mean a municipal securities broker or dealer who acts exclusively as an undisclosed agent in the purchase or sale of municipal securities for a registered broker or dealer or registered municipal securities dealer, who has no “customers” as defined in this rule and who does not have or maintain any municipal securities in its proprietary or other accounts.
+(ii) The term *municipal securities brokers' broker* shall mean a municipal securities broker or dealer who acts exclusively as an undisclosed agent in the purchase or sale of municipal securities for a registered broker or dealer or registered municipal securities dealer, who has no “customers” as defined in this rule and who does not have or maintain any municipal securities in its proprietary or other accounts.
 
 (iii) In order to qualify to operate under this paragraph (a)(8), a brokers' broker shall at all times have and maintain net capital of not less than $150,000.
 
@@ -298,14 +298,13 @@ Certain Unsecured and Partly Secured Receivables
 
 (v)(A) Deducting the market value of all short securities differences (which shall include securities positions reflected on the securities record which are not susceptible to either count or confirmation) unresolved after discovery in accordance with the following schedule:
 
-|Differences<sup>1</sup>|Numbers of business days after discovery|
-|-----------------------|----------------------------------------|
-|      25 percent       |                   7                    |
-|      50 percent       |                   14                   |
-|      75 percent       |                   21                   |
-|      100 percent      |                   28                   |
-
-<sup>1</sup> Percentage of market value of short securities differences.
+|                        Differences <sup>1</sup>                        |Numbers of business days after discovery|
+|------------------------------------------------------------------------|----------------------------------------|
+|                               25 percent                               |                   7                    |
+|                               50 percent                               |                   14                   |
+|                               75 percent                               |                   21                   |
+|                              100 percent                               |                   28                   |
+|<sup>1</sup> Percentage of market value of short securities differences.|                                        |
 
 (B) Deducting the market value of any long securities differences, where such securities have been sold by the broker or dealer before they are adequately resolved, less any reserves established therefor;
 
@@ -319,35 +318,35 @@ Securities Haircuts
 
 Category 1
 
-(*i*) Less than 3 months to maturity - 0 percent.
+(*i*) Less than 3 months to maturity—0 percent.
 
-(*ii*) 3 months but less than 6 months to maturity -1/2 of 1 percent.
+(*ii*) 3 months but less than 6 months to maturity—1/2 of 1 percent.
 
-(*iii*) 6 months but less than 9 months to maturity -3/4 of 1 percent.
+(*iii*) 6 months but less than 9 months to maturity—3/4 of 1 percent.
 
-(*iv*) 9 months but less than 12 months to maturity - 1 percent.
+(*iv*) 9 months but less than 12 months to maturity—1 percent.
 
 Category 2
 
-(*i*) 1 year but less than 2 years to maturity - 11/2 percent.
+(*i*) 1 year but less than 2 years to maturity—11/2 percent.
 
-(*ii*) 2 years but less than 3 years to maturity - 2 percent.
+(*ii*) 2 years but less than 3 years to maturity—2 percent.
 
 Category 3
 
-(*i*) 3 years but less than 5 years to maturity - 3%.
+(*i*) 3 years but less than 5 years to maturity—3%.
 
-(*ii*) 5 years but less than 10 years to maturity - 4%.
+(*ii*) 5 years but less than 10 years to maturity—4%.
 
 Category 4
 
-(*i*) 10 years but less than 15 years to maturity - 41/2%.
+(*i*) 10 years but less than 15 years to maturity—41/2%.
 
-(*ii*) 15 years but less than 20 years to maturity - 5%.
+(*ii*) 15 years but less than 20 years to maturity—5%.
 
-(*iii*) 20 years but less than 25 years to maturity - 51/2%.
+(*iii*) 20 years but less than 25 years to maturity—51/2%.
 
-(*iv*) 25 years or more to maturity - 6%.
+(*iv*) 25 years or more to maturity—6%.
 
 Brokers or dealers shall compute a deduction for each category above as follows: Compute the deductions for the net long or short positions in each subcategory above. The deduction for the category shall be the net of the aggregate deductions on the long positions and the aggregate deductions on the short positions in each category plus 50% of the lesser of the aggregate deductions on the long or short positions.
 
@@ -371,39 +370,39 @@ Brokers or dealers shall compute a deduction for each category above as follows:
 
 (B)(*1*) In the case of any municipal security which has a scheduled maturity at date of issue of 731 days or less and which is issued at par value and pays interest at maturity, or which is issued at a discount, and which is not traded flat or in default as to principal or interest, the applicable percentages of the market value on the greater of the long or short position in each of the categories specified below are:
 
-(*i*) Less than 30 days to maturity - 0%.
+(*i*) Less than 30 days to maturity—0%.
 
-(*ii*) 30 days but less than 91 days to maturity -1/8 of 1%.
+(*ii*) 30 days but less than 91 days to maturity—1/8 of 1%.
 
-(*iii*) 91 days but less than 181 days to maturity -1/4 of 1%.
+(*iii*) 91 days but less than 181 days to maturity—1/4 of 1%.
 
-(*iv*) 181 days but less than 271 days to maturity -3/8 of 1%.
+(*iv*) 181 days but less than 271 days to maturity—3/8 of 1%.
 
-(*v*) 271 days but less than 366 days to maturity -1/2 of 1%.
+(*v*) 271 days but less than 366 days to maturity—1/2 of 1%.
 
-(*vi*) 366 days but less than 456 days to maturity -3/4 of 1%.
+(*vi*) 366 days but less than 456 days to maturity—3/4 of 1%.
 
-(*vii*) 456 days but less than 732 days to maturity - 1%.
+(*vii*) 456 days but less than 732 days to maturity—1%.
 
 (*2*) In the case of any municipal security, other than those specified in paragraph (c)(2)(vi)(B)(*1*), which is not traded flat or in default as to principal or interest, the applicable percentages of the market value of the greater of the long or short position in each of the categories specified below are:
 
-(*i*) Less than 1 year to maturity - 1%.
+(*i*) Less than 1 year to maturity—1%.
 
-(*ii*) 1 year but less than 2 years to maturity - 2%.
+(*ii*) 1 year but less than 2 years to maturity—2%.
 
-(*iii*) 2 years but less than 31/2 years to maturity - 3%.
+(*iii*) 2 years but less than 31/2 years to maturity—3%.
 
-(*iv*) 31/2 years but less than 5 years to maturity - 4%.
+(*iv*) 31/2 years but less than 5 years to maturity—4%.
 
-(*v*) 5 years but less than 7 years to maturity - 5%.
+(*v*) 5 years but less than 7 years to maturity—5%.
 
-(*vi*) 7 years but less than 10 years to maturity - 51/2%.
+(*vi*) 7 years but less than 10 years to maturity—51/2%.
 
-(*vii*) 10 years but less than 15 years to maturity - 6%.
+(*vii*) 10 years but less than 15 years to maturity—6%.
 
-(*viii*) 15 years but less than 20 years to maturity - 61/2%.
+(*viii*) 15 years but less than 20 years to maturity—61/2%.
 
-(*ix*) 20 years or more to maturity - 7%.
+(*ix*) 20 years or more to maturity—7%.
 
 (C) *Canadian Debt Obligations.* In the case of any security issued or unconditionally guaranteed as to principal and interest by the Government of Canada, the percentages of market value to be deducted shall be the same as in paragraph (A) of this section.
 
@@ -415,7 +414,7 @@ Brokers or dealers shall compute a deduction for each category above as follows:
 
 (E) *Commercial paper, bankers' acceptances and certificates of deposit.* In the case of any short term promissory note or evidence of indebtedness which has a fixed rate of interest or is sold at a discount, which has a maturity date at date of issuance not exceeding nine months exclusive of days of grace, or any renewal thereof, the maturity of which is likewise limited and has only a minimal amount of credit risk, or in the case of any negotiable certificates of deposit or bankers' acceptance or similar type of instrument issued or guaranteed by any bank as defined in section 3(a)(6) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(6)), the applicable percentage of the market value of the greater of the long or short position in each of the categories specified below are:
 
-(*1*) Less than 30 days to maturity - 0 percent.
+(*1*) Less than 30 days to maturity—0 percent.
 
 (*2*) 30 days but less than 91 days to maturity1/8 of 1 percent.
 
@@ -429,23 +428,23 @@ Brokers or dealers shall compute a deduction for each category above as follows:
 
 (F)(*1*) *Nonconvertible debt securities.* In the case of nonconvertible debt securities having a fixed interest rate and a fixed maturity date, which are not traded flat or in default as to principal or interest and which have only a minimal amount of credit risk, the applicable percentages of the market value of the greater of the long or short position in each of the categories specified below are:
 
-(*i*) Less than 1 year to maturity - 2%
+(*i*) Less than 1 year to maturity—2%
 
-(*ii*) 1 year but less than 2 years to maturity - 3%
+(*ii*) 1 year but less than 2 years to maturity—3%
 
-(*iii*) 2 years but less than 3 years to maturity - 5%
+(*iii*) 2 years but less than 3 years to maturity—5%
 
-(*iv*) 3 years but less than 5 years to maturity - 6%
+(*iv*) 3 years but less than 5 years to maturity—6%
 
-(*v*) 5 years but less than 10 years to maturity - 7%
+(*v*) 5 years but less than 10 years to maturity—7%
 
-(*vi*) 10 years but less than 15 years to maturity - 71/2%
+(*vi*) 10 years but less than 15 years to maturity—71/2%
 
-(*vii*) 15 years but less than 20 years to maturity - 8%
+(*vii*) 15 years but less than 20 years to maturity—8%
 
-(*viii*) 20 years but less than 25 years to maturity - 81/2%
+(*viii*) 20 years but less than 25 years to maturity—81/2%
 
-(*ix*) 25 years or more to maturity - 9%
+(*ix*) 25 years or more to maturity—9%
 
 (*2*) A broker or dealer may elect to exclude from the above categories long or short positions that are hedged with short or long positions in securities issued by the United States or any agency thereof or nonconvertible debt securities having a fixed interest rate and a fixed maturity date and which are not traded flat or in default as to principal or interest, and which have only a minimal amount of credit risk if such securities have maturity dates:
 
@@ -461,23 +460,23 @@ The broker-dealer shall deduct the amounts specified in paragraphs (c)(2)(vi)(F)
 
 (*3*) With respect to those positions described in paragraph (c)(2)(vi)(F)(*2*) of this section that include a long or short position in securities issued by the United States or any agency thereof, the broker or dealer shall exclude the hedging short or long United States or agency securities position from the applicable haircut category under paragraph (c)(2)(vi)(A) of this section. The broker or dealer shall deduct the percentage of the market value of the hedged long or short position in nonconvertible debt securities as specified in each of the categories below:
 
-(*i*) Less than 5 years to maturity - 11/2%
+(*i*) Less than 5 years to maturity—11/2%
 
-(*ii*) 5 years but less than 10 years to maturity - 21/2%
+(*ii*) 5 years but less than 10 years to maturity—21/2%
 
-(*iii*) 10 years but less than 15 years to maturity - 23/4%
+(*iii*) 10 years but less than 15 years to maturity—23/4%
 
-(*iv*) 15 years or more to maturity - 3%
+(*iv*) 15 years or more to maturity—3%
 
 (*4*) With respect to those positions described in paragraph (c)(2)(vi)(F)(*2*) of this section that include offsetting long and short positions in nonconvertible debt securities, the broker or dealer shall deduct a percentage of the market value of the hedged long or short position in nonconvertible debt securities as specified in each of the categories below:
 
-(*i*) Less than 5 years to maturity - 13/4%
+(*i*) Less than 5 years to maturity—13/4%
 
-(*ii*) 5 years but less than 10 years to maturity - 3%
+(*ii*) 5 years but less than 10 years to maturity—3%
 
-(*iii*) 10 years but less than 15 years to maturity - 31/4%
+(*iii*) 10 years but less than 15 years to maturity—31/4%
 
-(*iv*) 15 years or more to maturity - 31/2%
+(*iv*) 15 years or more to maturity—31/2%
 
 (*5*) In computing deductions under paragraph (c)(2)(vi)(F)(*3*) of this section, a broker or dealer may include in the categories specified in paragraph (c)(2)(vi)(F)(*3*) of this section, long or short positions in securities issued by the United States or any agency thereof that are deliverable against long or short positions in futures contracts relating to Government securities, traded on a recognized contract market approved by the Commodity Futures Trading Commission, which are held in the proprietary or other accounts of the broker or dealer. The value of the long or short positions included in the categories shall be determined by the contract value of the futures contract held in the account.
 
@@ -525,9 +524,7 @@ Undue Concentration
 
 (O) *Cleared security-based swaps.* In the case of a cleared security-based swap held in a proprietary account of the broker or dealer, deducting the amount of the applicable margin requirement of the clearing agency or, if the security-based swap references an equity security, the broker or dealer may take a deduction using the method specified in § 240.15c3-1a.
 
-(P) *Non-cleared security-based swaps* - (*1*) *Credit default swaps* - (*i*) *Short positions (selling protection).* In the case of a non-cleared security-based swap that is a short credit default swap, deducting the percentage of the notional amount based upon the current basis point spread of the credit default swap and the maturity of the credit default swap in accordance with table 1 to § 240.15c3-1(c)(2)(vi)(P)(*1*)(*i*):
-
-Table 1 to § 240.15c3-1(c)(2)(vi)(P)(1)(i )
+(P) *Non-cleared security-based swaps*—(*1*) *Credit default swaps*—(*i*) *Short positions (selling protection).* In the case of a non-cleared security-based swap that is a short credit default swap, deducting the percentage of the notional amount based upon the current basis point spread of the credit default swap and the maturity of the credit default swap in accordance with table 1 to § 240.15c3-1(c)(2)(vi)(P)(*1*)(*i*):
 
 |Length of time to maturity of credit default swap contract|Basis point spread|               |               |               |                   |     |
 |----------------------------------------------------------|------------------|---------------|---------------|---------------|-------------------|-----|
@@ -600,7 +597,7 @@ Brokers or Dealers Carrying Accounts of Listed Options Specialists
 
 (xiv) *Deduction from net worth for excess deductible amounts related to fidelity bond coverage.* Deducting the amount specified by rule of the Examining Authority for the broker or dealer with respect to a requirement to maintain fidelity bond coverage.
 
-(xv) *Deduction from net worth in lieu of collecting collateral for non-cleared security-based swap and swap transactions* - (A) *Security-based swaps.* Deducting the initial margin amount calculated pursuant to § 240.18a-3(c)(1)(i)(B) for the account of a counterparty at the broker or dealer that is subject to a margin exception set forth in § 240.18a-3(c)(1)(iii), less the margin value of collateral held in the account.
+(xv) *Deduction from net worth in lieu of collecting collateral for non-cleared security-based swap and swap transactions*—(A) *Security-based swaps.* Deducting the initial margin amount calculated pursuant to § 240.18a-3(c)(1)(i)(B) for the account of a counterparty at the broker or dealer that is subject to a margin exception set forth in § 240.18a-3(c)(1)(iii), less the margin value of collateral held in the account.
 
 (B) *Swaps.* Deducting the initial margin amount calculated pursuant to the margin rules of the Commodity Futures Trading Commission in the account of a counterparty at the broker or dealer that is subject to a margin exception in those rules, less the margin value of collateral held in the account.
 

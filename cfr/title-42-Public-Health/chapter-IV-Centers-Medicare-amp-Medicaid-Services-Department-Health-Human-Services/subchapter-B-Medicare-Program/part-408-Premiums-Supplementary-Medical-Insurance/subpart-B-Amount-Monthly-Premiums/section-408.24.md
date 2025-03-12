@@ -1,5 +1,7 @@
 ##### § 408.24 Individuals who enrolled or reenrolled before April 1, 1981 or after September 30, 1981. #####
 
+Link to an amendment published at 87 FR 66509, Nov. 3, 2022.
+
 (a) *Enrollment.* For an individual who first enrolled before April 1, 1981 or after September 30, 1981, the period *includes* the number of months elapsed between the close of the individual's initial enrollment period and the close of the enrollment period in which he or she first enrolled, and *excludes* the following:
 
 (1) The three months of January through March 1968, if the individual first enrolled before April 1968.

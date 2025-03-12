@@ -1,5 +1,7 @@
 ##### § 407.1 Basis and scope. #####
 
+Link to an amendment published at 87 FR 66505, Nov. 3, 2022.
+
 (a) *Statutory basis.* The supplementary medical insurance (SMI) program is authorized by Part B of title XVIII of the Social Security Act.
 
 (1) Section 1831 of the Act establishes the program.

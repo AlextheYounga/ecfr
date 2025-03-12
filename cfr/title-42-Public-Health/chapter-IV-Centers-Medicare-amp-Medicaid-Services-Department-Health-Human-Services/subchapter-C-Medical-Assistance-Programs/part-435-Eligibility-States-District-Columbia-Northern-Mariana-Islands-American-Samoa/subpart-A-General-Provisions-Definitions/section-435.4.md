@@ -1,5 +1,7 @@
 ##### § 435.4 Definitions and use of terms. #####
 
+Link to an amendment published at 87 FR 66510, Nov. 3, 2022.
+
 As used in this part -
 
 *AABD* means aid to the aged, blind, and disabled under title XVI of the Act;
