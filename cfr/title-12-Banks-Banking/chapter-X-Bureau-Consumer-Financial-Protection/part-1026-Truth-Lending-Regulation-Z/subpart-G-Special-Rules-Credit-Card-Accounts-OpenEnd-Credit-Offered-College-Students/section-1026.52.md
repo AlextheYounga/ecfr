@@ -1,5 +1,7 @@
 ##### § 1026.52 Limitations on fees. #####
 
+Link to an amendment published at 86 FR 60360, Nov. 2, 2021.
+
 (a) *Limitations during first year after account opening* - (1) *General rule.* Except as provided in paragraph (a)(2) of this section, the total amount of fees a consumer is required to pay with respect to a credit card account under an open-end (not home-secured) consumer credit plan during the first year after account opening must not exceed 25 percent of the credit limit in effect when the account is opened. For purposes of this paragraph, an account is considered open no earlier than the date on which the account may first be used by the consumer to engage in transactions.
 
 (2) *Fees not subject to limitations.* Paragraph (a) of this section does not apply to:

@@ -1,5 +1,7 @@
 ##### 532.905-70 Final payment - construction and building service contracts. #####
 
+Link to an amendment published at 86 FR 60372, Nov. 2, 2021.
+
 The following procedures apply to construction and building service contracts:
 
 (a) The Government shall pay the final amount due the Contractor under this contract after the documentation in the payment clauses of the contract is submitted. This includes the final release prescribed for construction at FAR 52.232-5, and for building services at GSAR 552.232-72.
