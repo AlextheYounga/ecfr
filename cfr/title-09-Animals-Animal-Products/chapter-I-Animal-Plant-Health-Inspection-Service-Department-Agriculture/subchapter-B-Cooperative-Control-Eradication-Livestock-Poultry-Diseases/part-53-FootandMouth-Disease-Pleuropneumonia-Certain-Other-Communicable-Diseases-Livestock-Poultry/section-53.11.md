@@ -1,5 +1,7 @@
 ##### § 53.11 Highly pathogenic avian influenza; conditions for payment. #####
 
+Link to an amendment published at 83 FR 40438, Aug. 15, 2018.
+
 (a) When poultry or eggs have been destroyed pursuant to this part, the Administrator may pay claims to any party with whom the owner of the poultry or eggs has entered into a contract for the growing or care of the poultry or eggs. The indemnity the Administrator may pay to such a party or parties shall be determined as by the following method:
 
 (1) Divide the value in dollars of the contract the owner entered into with the contractor by the duration in days of the contract as it was signed prior to the highly pathogenic avian influenza outbreak;

@@ -1,8 +1,6 @@
 ##### § 803.5 Affidavits required. #####
 
-Link to an amendment published at 83 FR 32771, July 16, 2018.
-
-(a)(1) *Section 801.30 acquisitions.* For acquisitions to which § 801.30 applies, the notification required by the act from each acquiring person shall contain an affidavit, attached to the front of the notification, or with the DVD submission, attesting that the issuer whose voting securities are to be acquired has received notice in writing by certified or registered mail, by wire or by hand delivery, at its principal executive offices, of:
+(a)(1) *Section 801.30 acquisitions.* For acquisitions to which § 801.30 applies, the notification required by the Act from each acquiring person shall contain an affidavit, attached to the front of the notification, or with the DVD submission, attesting that the issuer or unincorporated entity whose voting securities or non-corporate interests are to be acquired has received written notice delivered to an officer (or a person exercising similar functions in the case of an entity without officers) by email, certified or registered mail, wire, or hand delivery, at its principal executive offices, of:
 
 (i) The identity of the acquiring person;
 
@@ -16,9 +14,11 @@ Link to an amendment published at 83 FR 32771, July 16, 2018.
 
 (vi) The fact that the person within which the issuer or unincorporated entity is included may be required to file notification under the act.
 
+Example to paragraph (a)(1)(vi):1. Company A intends to acquire voting securities of Company B. “A” sends, via email, a notice letter to a general email account, *information@CompanyB.com.* “A” has not provided sufficient notice. Alternatively, “A” sends, via email, a notice letter to “B's” President, Jane Doe, at *Jane.Doe@CompanyB.com.* “A” has provided email notice to a specific officer of “B.”
+
 (2) The affidavit required by this paragraph must also state the good faith intention of the person filing notification to make the acquisition, and, in the case of a tender offer, that the intention to make the tender offer has been publicly announced.
 
-Example:1. This paragraph permits the tender offeror to file notification at any time after the intention to make the tender offer has been publicly announced.
+Examples to paragraph (a)(2)1. This paragraph permits the tender offeror to file notification at any time after the intention to make the tender offer has been publicly announced.
 
 In examples 2-5 assume that one percent of B's shares are valued at $15 million.
 
@@ -34,4 +34,5 @@ In examples 2-5 assume that one percent of B's shares are valued at $15 million.
 
 (b) *Non-section 801.30 acquisitions.* For acquisitions to which § 801.30 does not apply, the notification required by the act shall contain an affidavit, attached to the front of the notification, or with the DVD submission, attesting that a contract, agreement in principle or letter of intent to merge or acquire has been executed, and further attesting to the good faith intention of the person filing notification to complete the transaction..
 
-[43 FR 33548, July 31, 1978, as amended at 48 FR 34439, July 29, 1983; 52 FR 7082, Mar. 6, 1987; 66 FR 8695, Feb. 1, 2001; 70 FR 4996, Jan. 31, 2005; 71 FR 35998, June 23, 2006; 76 FR 42483, July 19, 2011; 81 FR 60259, Sept. 1, 2016]
+[43 FR 33548, July 31, 1978, as amended at 48 FR 34439, July 29, 1983; 52 FR 7082, Mar. 6, 1987; 66 FR 8695, Feb. 1, 2001; 70 FR 4996, Jan. 31, 2005; 71 FR 35998, June 23, 2006; 76 FR 42483, July 19, 2011; 81 FR 60259, Sept. 1, 2016;
+83 FR 32771, July 16, 2018]

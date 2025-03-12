@@ -1,7 +1,5 @@
 ##### § 801.1 Definitions. #####
 
-Link to an amendment published at 83 FR 32770, July 16, 2018.
-
 When used in the act and these rules -
 
 (a)(1) *Person.* Except as provided in paragraphs (a) and (b) of § 801.12, the term *person* means an ultimate parent entity and all entities which it controls directly or indirectly.
@@ -34,7 +32,7 @@ Examples:1. If corporation A holds 100 percent of the stock of subsidiary B, and
 
 (ii) In the case of an unincorporated entity, having the right to 50 percent or more of the profits of the entity, or having the right in the event of dissolution to 50 percent or more of the assets of the entity; or
 
-(2) Having the contractual power presently to designate 50 percent or more of the directors of a for-profit or not-for-profit corporation, or in the case of trusts that are irrevocable and/or in which the settlor does not retain a reversionary interest, the trustees of such a trust.
+(2) Having the contractual power presently to designate 50 percent or more of the directors of a for-profit or not-for-profit corporation, or 50 percent or more of the trustees in the case of trusts that are irrevocable and/or in which the settlor does not retain a reversionary interest.
 
 Examples:1. Corporation A holds 100 percent of the stock of corporation B, 75 percent of the stock of corporation C, 50 percent of the stock of corporation D, and 30 percent of the stock of corporation E. Corporation A controls corporations B, C and D, but not corporation E. Corporation A is the ultimate parent entity of a person comprised of corporations A, B, C and D, and each of these corporations (but not corporation E) is “included within the person.”
 
@@ -178,4 +176,4 @@ Example:If a person holds stock “solely for the purpose of investment” and t
 
 (q) *Co-rights.* For purposes of paragraph (o) of this section and paragraph (g) of § 801.2, the term co-rights means shared rights retained by the patent holder to assist the recipient of the exclusive patent rights in developing and commercializing the product covered by the patent. These co-rights include, but are not limited to, co-development, co-promotion, co-marketing and co-commercialization.
 
-[43 FR 33537, July 31, 1978, as amended at 48 FR 34429, July 29, 1983; 52 FR 20063, May 29, 1987; 66 FR 8687, Feb. 1, 2001; 66 FR 23565, May 9, 2001; 68 FR 2430, Jan. 17, 2003; 70 FR 4990, Jan. 31, 2005; 70 FR 11510, Mar. 8, 2005; 70 FR 73372, Dec. 12, 2005; 70 FR 77313, Dec. 30, 2005; 76 FR 42479, July 19, 2011; 78 FR 68712, Nov. 15, 2013]
+[43 FR 33537, July 31, 1978, as amended at 48 FR 34429, July 29, 1983; 52 FR 20063, May 29, 1987; 66 FR 8687, Feb. 1, 2001; 66 FR 23565, May 9, 2001; 68 FR 2430, Jan. 17, 2003; 70 FR 4990, Jan. 31, 2005; 70 FR 11510, Mar. 8, 2005; 70 FR 73372, Dec. 12, 2005; 70 FR 77313, Dec. 30, 2005; 76 FR 42479, July 19, 2011; 78 FR 68712, Nov. 15, 2013; 83 FR 32770, July 16, 2018]

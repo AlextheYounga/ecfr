@@ -100,4 +100,4 @@
 
 (ii) The default will be evidenced by a letter issued by the Chief of the Wireline Competition Bureau or the Wireless Telecommunications Bureau, or their respective designees, which letter, attached to a standby letter of credit draw certificate, shall be sufficient for a draw on the standby letter of credit for the entire amount of the standby letter of credit.
 
-[81 FR 44449, July 7, 2016, as amended at 83 FR 15994, Apr. 13, 2018; 83 FR 18454, Apr. 27, 2018]Effective Date Note:At 83 FR 15994, Apr. 13, 2018, § 54.315 was amended by revising paragraph (c)(1)(ii). This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[81 FR 44449, July 7, 2016, as amended at 83 FR 15994, Apr. 13, 2018; 83 FR 18454, Apr. 27, 2018]

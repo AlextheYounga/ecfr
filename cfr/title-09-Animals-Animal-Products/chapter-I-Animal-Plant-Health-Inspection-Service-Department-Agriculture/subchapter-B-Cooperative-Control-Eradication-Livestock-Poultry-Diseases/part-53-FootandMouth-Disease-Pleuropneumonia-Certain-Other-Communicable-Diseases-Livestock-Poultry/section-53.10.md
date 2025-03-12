@@ -1,5 +1,7 @@
 ##### § 53.10 Claims not allowed. #####
 
+Link to an amendment published at 83 FR 40438, Aug. 15, 2018.
+
 (a) The Department will not allow claims arising under the terms of this part if the payee has not complied with all quarantine requirements.
 
 (b) Expenses for the care and feeding of animals held for destruction will not be paid by the Department, unless the payment of such expense is specifically authorized or approved by the Administrator.

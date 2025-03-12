@@ -1,7 +1,5 @@
 ##### § 802.30 Intraperson transactions. #####
 
-Link to an amendment published at 83 FR 32771, July 16, 2018.
-
 (a) An acquisition (other than the formation of a corporation or unincorporated entity under § 801.40 or § 801.50 of this chapter) in which the acquiring and at least one of the acquired persons are, the same person by reason of § 801.1(b)(1) of this chapter, or in the case of a not-for-profit corporation which has no outstanding voting securities, by reason of § 801.1(b)(2) of this chapter, is exempt from the requirements of the Act.
 
 Examples to paragraph (a):1. A and B each have the right to 50% of the profits of partnership X. A also holds 100% of the voting securities of corporation Y. A pays B in excess of $50 million in cash (as adjusted) and transfers certain assets of X to Y. Because A is the acquiring person through its control of Y, pursuant to § 801.1(b)(1)(i), and one of the acquired persons through its control of X pursuant to § 801.1(b)(1)(ii), the acquisition of assets is exempt under § 802.30(a).
@@ -10,7 +8,7 @@ Examples to paragraph (a):1. A and B each have the right to 50% of the profits o
 
 (b) The formation of any wholly owned entity is exempt from the requirements of the Act.
 
-(c) For purposes of applying Sec. 802.4(a) to an acquisition that may be reportable under Sec. 801.40 or Sec. 801.50, assets or voting securities contributed by the acquiring person to a new entity upon its formation are assets or voting securities whose acquisition by that acquiring person is exempt from the requirements of the Act.
+(c) For purposes of applying § 802.4(a) to an acquisition that may be reportable under § 801.40 or § 801.50, assets, voting securities, or non-corporate interests contributed by the acquiring person to a new entity upon its formation are assets, voting securities, or non- corporate interests whose acquisition by that acquiring person is exempt from the requirements of the Act.
 
 Examples to paragraph (c):1. A and B form a new partnership to which A contributes a manufacturing plant valued at $102 million and acquires a 51% interest in the partnership. B contributes $98 million in cash and acquires a 49% interest. B is not acquiring non-corporate interests which confer control of the partnership and therefore is not making a reportable acquisition. A is acquiring non-corporate interests which confer control of the partnership, however, the manufacturing plant it is contributing to the formation is exempt under § 802.30(c) and the cash contributed by B is excluded under § 801.21, therefore, the acquisition of non-corporate interests by A is exempt under § 802.4.
 
@@ -18,4 +16,4 @@ Examples to paragraph (c):1. A and B form a new partnership to which A contribut
 
 3. A and B form a 50/50 partnership. A contributes a plant valued at $100 million and B contributes a plant valued at $40 million and $60 million in cash. Because with respect to A, the new partnership has non-exempt assets of $40 million (the plant contributed by B), A's acquisition of non-corporate interests is exempt under § 802.4. With respect to B, the new partnership holds in excess of $50 million (as adjusted) in non-exempt assets (the plant contributed by A), therefore B's acquisition of non-corporate interests would not be exempt under § 802.4.
 
-[70 FR 11513, Mar. 8, 2005]
+[70 FR 11513, Mar. 8, 2005, as amended at 83 FR 32771, July 16, 2018]
