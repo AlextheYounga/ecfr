@@ -1,3 +1,13 @@
 ##### 801.104-70 Exclusions. #####
 
-The FAR and VAAR do not apply to purchases and contracts that use General Post Funds if using the FAR and the VAAR would infringe upon a donor's right to specify the exact item to be purchased and/or the source of supply (38 U.S.C. 8303).
+(a) *Restricted gifts.* The FAR and VAAR do not apply to purchases and contracts that use General Post Funds if using the FAR and the VAAR would infringe upon a donor's right to specify the exact item to be purchased and/or the source of supply (38 U.S.C. 8303).
+
+(b) *Procurement of prosthetic appliances.* The VA may procure prosthetic appliances and necessary services required in the fitting, supplying, and training and use of prosthetic appliances by purchase, manufacture, contract, or in such other manner as the VA may determine to be proper, without regard to any other provision of law (38 U.S.C. 8123).
+
+(c) *Sharing of health-care resources.* (1) To secure health-care resources which otherwise might not be feasibly available, or to effectively utilize certain other health-care resources, the VA may, when the VA determines it to be in the best interest of the prevailing standards of the Department medical care program, make arrangements, by contract or other form of agreement for the mutual use, or exchange of use, of health-care resources between Department health-care facilities and any health-care provider, or other entity or individual.
+
+(2) The VA may enter into a contract or other agreement under paragraph (c)(1) of this section if such resources are not, or would not be, used to their maximum effective capacity.
+
+(3)(i) If the health-care resource required is a commercial service, the use of medical equipment or space, or research, and is to be acquired from an institution affiliated with the Department in accordance with 38 U.S.C. 7302, including medical practice groups and other entities associated with affiliated institutions, blood banks, organ banks, or research centers, the VA may make arrangements for acquisition of the resource without regard to any law or regulation (including any Executive order, circular, or other administrative policy) that would otherwise require the use of competitive procedures for acquiring the resource.
+
+(ii) If the health-care resource required is a commercial service or the use of medical equipment or space, and is not to be acquired from an entity described in paragraph (c)(3)(i) of this section, any procurement of the resource may be conducted without regard to any law or regulation that would otherwise require the use of competitive procedures for procuring the resource, but only if the procurement is conducted in accordance with the simplified procedures prescribed in part 873. (38 U.S.C. 8153).

@@ -1,7 +1,5 @@
-##### § 552.510 Official activities of international organizations. #####
+##### § 552.510 Official business of the United States Government. #####
 
-All transactions and activities otherwise prohibited by this part that are for the conduct of the official business of the United Nations and its Specialized Agencies, Programmes, Funds, and Related Organizations by employees, contractors, or grantees thereof are authorized.
+All transactions prohibited by this part that are for the conduct of the official business of the United States Government by employees, grantees, or contractors thereof are authorized.
 
-Note 1 to § 552.510.
-
-For an organizational chart listing the Specialized Agencies, Programmes, Funds, and Related Organizations of the United Nations, see the following page on the United Nations website: *http://www.unsceb.org/directory.*
+[87 FR 78475, Dec. 21, 2022]

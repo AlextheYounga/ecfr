@@ -1,18 +1,3 @@
 ##### 801.106 OMB approval under the Paperwork Reduction Act. #####
 
-In accordance with the Paperwork Reduction Act of 1995 (44 U.S.C. 3501-3521), the Office of Management and Budget (OMB) has approved the reporting or recordkeeping provisions that are included in the VAAR and has given VA the following approval numbers:
-
-|48 CFR part or section where identified and described|Current OMB  <br/>control No.|48 CFR part  <br/>or section  <br/>where  <br/>identified  <br/>and described|Current OMB  <br/>No.|
-|-----------------------------------------------------|-----------------------------|-----------------------------------------------------------------------------|---------------------|
-|                      809.106-1                      |          2900-0418          |                                 852.228-71                                  |      2900-0590      |
-|                     809.504(d)                      |          2900-0418          |                            852.232-70-852.232-71                            |      2900-0422      |
-|                         813                         |          2900-0393          |                                 852.236-72                                  |      2900-0422      |
-|                      832.202-4                      |          2900-0688          |                                 852.236-79                                  |      2900-0208      |
-|                     836.606-71                      |          2900-0208          |                             852.236-80 (Alt. I)                             |      2900-0422      |
-|                     852.207-70                      |          2900-0590          |                                 852.236-88                                  |      2900-0422      |
-|                     852.209-70                      |          2900-0418          |                                 852.237-70                                  |      2900-0590      |
-|                     852.211-70                      |          2900-0587          |                                 852.237-73                                  |      2900-0863      |
-|                     852.211-72                      |          2900-0586          |                                 852.246-76                                  |      2900-0589      |
-|                                                     |                             |                                  852.270-3                                  |      2900-0589      |
-
-[73 FR 2717, Jan. 15, 2008, as amended at 83 FR 16207, Apr. 16, 2018; 83 FR 49304, Oct. 1, 2018; 84 FR 9971, Mar. 19, 2019; 84 FR 14625, Apr. 11, 2019; 84 FR 46452, Sept. 4, 2019]
+See VA Acquisition Manual (VAAM) M801.106 for a list of the information collection and recordkeeping requirements contained in this part that have been approved by the Office of Management and Budget.

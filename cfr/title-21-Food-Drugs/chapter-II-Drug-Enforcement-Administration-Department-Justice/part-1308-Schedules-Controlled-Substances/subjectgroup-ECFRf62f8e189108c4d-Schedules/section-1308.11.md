@@ -1,6 +1,6 @@
 ##### § 1308.11 Schedule I. #####
 
-Link to an amendment published at 87 FR 70721, Nov. 21, 2022.Link to an amendment published at 87 FR 71250, Nov. 22, 2022.Link to an amendment published at 87 FR 75473, Dec. 9, 2022.
+Link to an amendment published at 87 FR 71250, Nov. 22, 2022.Link to an amendment published at 87 FR 75473, Dec. 9, 2022.
 
 (a) Schedule I shall consist of the drugs and other substances, by whatever official name, common or usual name, chemical name, or brand name designated, listed in this section. Each drug or substance has been assigned the DEA Controlled Substances Code Number set forth opposite it.
 
@@ -99,6 +99,7 @@ Link to an amendment published at 87 FR 70721, Nov. 21, 2022.Link to an amendmen
 |                                                                     (89) Trimeperidine                                                                      |9646|
 |                                        (90) U-47700 (3,4-dichloro-N-[2-(dimethylamino)cyclohexyl]-N-methylbenzamide)                                        |9547|
 |                                          (91) Valeryl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenylpentanamide)                                          |9840|
+|                                 (92) Zipeprol (1-methoxy-3-[4-(2-methoxy-2-phenylethyl)piperazin-1-yl]-1-phenylpropan-2-ol)                                 |9873|
 
 (c) *Opium derivatives.* Unless specifically excepted or unless listed in another schedule, any of the following opium derivatives, its salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation:
 

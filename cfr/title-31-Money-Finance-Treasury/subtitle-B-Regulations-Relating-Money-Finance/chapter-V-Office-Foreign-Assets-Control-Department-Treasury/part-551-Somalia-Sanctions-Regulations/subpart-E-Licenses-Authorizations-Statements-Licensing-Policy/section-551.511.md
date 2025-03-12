@@ -1,7 +1,17 @@
-##### § 551.511 Official activities of international organizations. #####
+##### § 551.511 Official business of certain international organizations and entities. #####
 
-All transactions and activities prohibited by this part that are for the conduct of the official business of the United Nations and its Specialized Agencies, Programmes, Funds, and Related Organizations by employees, contractors, or grantees thereof are authorized.
+All transactions prohibited by this part that are for the conduct of the official business of the following entities by employees, grantees, or contractors thereof are authorized:
 
-Note 1 to § 551.511.
+(a) The United Nations, including its Programmes, Funds, and Other Entities and Bodies, as well as its Specialized Agencies and Related Organizations;
 
-For an organizational chart listing the Specialized Agencies, Programmes, Funds, and Related Organizations of the United Nations, see the following page on the United Nations website: *http://www.unsceb.org/directory.*
+(b) The International Centre for Settlement of Investment Disputes (ICSID) and the Multilateral Investment Guarantee Agency (MIGA);
+
+(c) The African Development Bank Group, the Asian Development Bank, the European Bank for Reconstruction and Development, and the Inter-American Development Bank Group (IDB Group), including any fund entity administered or established by any of the foregoing;
+
+(d) The International Committee of the Red Cross and the International Federation of Red Cross and Red Crescent Societies;
+
+(e) Gavi, the Vaccine Alliance; and
+
+(f) The Intergovernmental Authority on Development (IGAD).
+
+[87 FR 78475, Dec. 21, 2022]

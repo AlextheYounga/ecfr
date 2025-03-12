@@ -1,5 +1,7 @@
 ##### § 107.705 Registrations, reports, and applications for approval. #####
 
+Link to an amendment published at 87 FR 78010, Dec. 21, 2022.
+
 (a) A person filing a registration, report, or application for an approval, or a renewal or modification of an approval subject to the provisions of this subpart must -
 
 (1) File the registration, report, or application with the Associate Administrator for Hazardous Materials Safety (Attention: Approvals, PHH-32), Pipeline and Hazardous Materials Safety Administration, U.S. Department of Transportation, East Building, 1200 New Jersey Avenue, SE., Washington, DC 20590-0001. Alternatively, the document with any attached supporting documentation in an appropriate format may be filed by facsimile (fax) to: (202) 366-3753 or (202) 366-3308 or by electronic mail (e-mail) to: *approvals@dot.gov.*

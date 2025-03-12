@@ -1,3 +1,3 @@
 ##### 801.103 Authority. #####
 
-The Secretary issues the VAAR under the authority of 40 U.S.C. 121(c), Title 48 of the Code of Federal Regulations (CFR) 1.301 through 1.304, and other authorities as cited.
+The VA issues the VAAR under the authority of 41 U.S.C. 1707 and 48 CFR 1.301 through 1.304, and other authorities as cited.

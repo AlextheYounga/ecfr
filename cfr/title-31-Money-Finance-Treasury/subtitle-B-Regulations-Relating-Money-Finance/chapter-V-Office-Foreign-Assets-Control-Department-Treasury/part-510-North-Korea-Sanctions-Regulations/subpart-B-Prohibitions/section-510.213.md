@@ -20,11 +20,7 @@ Note 2 to paragraph (d):
 
 As of September 1, 2017, the U.S. Department of State has restricted the use of U.S. passports to travel into, in, or through North Korea. See 22 CFR 51.63. U.S. nationals who wish to travel to or within North Korea for the extremely limited purposes that are set forth in federal regulations must apply for a passport with a special validation from the Department of State. See *travel.state.gov* for additional details.
 
-(e) *Official business.* The prohibitions contained in §§ 510.201(a)(1), 510.201(a)(3)(iv) through (vi) and (d), 510.206, and 510.208 through 510.211 do not apply to transactions for the conduct of the official business of the Federal Government or the United Nations and its Specialized Agencies, Programmes, Funds, and Related Organizations by employees, grantees, or contractors thereof.
-
-Note 3 to paragraph (e):
-
-For an organizational chart listing the Specialized Agencies, Programmes, Funds, and Related Organizations of the United Nations, see the following page on the United Nations website: *http://www.unsceb.org/directory.*
+(e) *Official business.* The prohibitions contained in §§ 510.201(a)(1), 510.201(a)(3)(iv) through (vi) and (d), 510.206, and 510.208 through 510.211 do not apply to transactions for the conduct of the official business of the United States Government or the United Nations and its Specialized Agencies, Programmes, Funds, and Related Organizations by employees, grantees, or contractors thereof.
 
 (f) *Exemptions under the North Korea Sanctions and Policy Enhancement Act of 2016, as amended by the Countering America's Adversaries Through Sanctions Act and the National Defense Authorization Act for Fiscal Year 2020.* The prohibitions contained in §§ 510.201(a)(3)(vii) through (x), 510.210(c), and 510.214 do not apply to the following activities:
 
@@ -34,4 +30,4 @@ For an organizational chart listing the Specialized Agencies, Programmes, Funds,
 
 (3) Any activities incidental to the POW/MIA accounting mission in North Korea, including activities by the Defense POW/MIA Accounting Agency and other governmental or nongovernmental organizations tasked with identifying or recovering the remains of members of the United States Armed Forces in North Korea.
 
-[83 FR 9187, Mar. 5, 2018, as amended at 85 FR 20161, Apr. 10, 2020]
+[83 FR 9187, Mar. 5, 2018, as amended at 85 FR 20161, Apr. 10, 2020; 87 FR 78471, Dec. 21, 2022]

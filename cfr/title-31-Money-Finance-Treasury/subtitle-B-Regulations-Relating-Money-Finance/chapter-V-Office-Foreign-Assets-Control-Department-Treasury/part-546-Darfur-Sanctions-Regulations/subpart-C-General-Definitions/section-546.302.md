@@ -4,4 +4,6 @@ The terms *blocked account* and blocked property shall mean any account or prope
 
 Note to § 546.302:
 
-See § 546.411 concerning the blocked status of property and interests in property of an entity that is 50 percent or more owned by a person whose property and interests in property are blocked pursuant to § 546.201(a).
+See § 546.411 concerning the blocked status of property and interests in property of an entity that is directly or indirectly owned, whether individually or in the aggregate, 50 percent or more by one or more persons and interests in property are blocked pursuant to § 546.201(a).
+
+[74 FR 25432, May 28, 2009, as amended at 87 FR 78473, Dec. 21, 2022]

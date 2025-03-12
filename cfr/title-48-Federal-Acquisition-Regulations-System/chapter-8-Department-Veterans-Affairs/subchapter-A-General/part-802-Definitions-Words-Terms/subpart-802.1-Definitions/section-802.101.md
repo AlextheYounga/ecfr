@@ -1,7 +1,5 @@
 ##### 802.101 Definitions. #####
 
-Link to an amendment published at 87 FR 70748, Nov. 21, 2022.
-
 *A/E* means architect/engineer.
 
 *Chief Acquisition Officer* (CAO) means the Principal Executive Director, Office of Acquisition, Logistics, and Construction.
@@ -15,6 +13,8 @@ Link to an amendment published at 87 FR 70748, Nov. 21, 2022.
 *HCA* means the Head of the Contracting Activity, an individual appointed in writing by the SPE.
 
 *OGC* means the Office of the General Counsel.
+
+*Ordering officer* means the VA official authorized to order supplies and services against a FAR-based contract or agreement in accordance with the ordering limits identified in the contract or agreement or the specific ordering guide in accordance with 801.601(b).
 
 *Public Law (Pub. L.) 109-461* means the Veterans Benefits, Health Care and Information Technology Act of 2006, as codified in 38 U.S.C. 8127 and 8128.
 
@@ -56,4 +56,4 @@ Link to an amendment published at 87 FR 70748, Nov. 21, 2022.
 
 *VISN* means Veterans Integrated Service Network, an integrated network of VA facilities that are focused on pooling and aligning resources to best meet local needs in the most cost-effective manner and provide greater access to care.
 
-[73 FR 2717, Jan. 15, 2008, as amended at 74 FR 64629, Dec. 8, 2009; 83 FR 16208, Apr. 16, 2018; 85 FR 60074, Sept. 24, 2020; 86 FR 54403, Oct. 1, 2021; 87 FR 63002, Nov. 17, 2022]
+[73 FR 2717, Jan. 15, 2008, as amended at 74 FR 64629, Dec. 8, 2009; 83 FR 16208, Apr. 16, 2018; 85 FR 60074, Sept. 24, 2020; 86 FR 54403, Oct. 1, 2021; 87 FR 63002, Nov. 17, 2022; 87 FR 70748, Nov. 21, 2022]

@@ -1,5 +1,7 @@
 ##### § 171.24 Additional requirements for the use of the ICAO Technical Instructions. #####
 
+Link to an amendment published at 87 FR 78010, Dec. 21, 2022.
+
 (a) A hazardous material that is offered for transportation or transported within the United States by aircraft, and by motor vehicle or rail either before or after being transported by aircraft in accordance with the ICAO Technical Instructions (IBR, see § 171.7), as authorized in paragraph (a) of § 171.22, must conform to the requirements in § 171.22, as applicable, and this section.
 
 (b) Any person who offers for transportation or transports a hazardous material in accordance with the ICAO Technical Instructions must comply with the following additional conditions and requirements:

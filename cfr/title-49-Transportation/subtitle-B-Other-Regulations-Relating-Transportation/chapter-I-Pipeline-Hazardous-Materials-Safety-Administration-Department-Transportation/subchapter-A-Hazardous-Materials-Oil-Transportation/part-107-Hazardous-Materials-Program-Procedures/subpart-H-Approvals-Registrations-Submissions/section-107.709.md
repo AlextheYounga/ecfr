@@ -1,5 +1,7 @@
 ##### § 107.709 Processing of an application for approval, including an application for renewal or modification. #####
 
+Link to an amendment published at 87 FR 78010, Dec. 21, 2022.
+
 (a) No public hearing or other formal proceeding is required under this subpart before the disposition of an application.
 
 (b) The Associate Administrator will review an application for an approval, modification of an approval, or renewal of an approval in conformance with the standard operating procedures specified in appendix A of this part (“Standard Operating Procedures for Special Permits and Approvals”). At any time during the processing of an application, the Associate Administrator may request additional information from the applicant. If the applicant does not respond to a written request for additional information within 30 days of the date the request was received, the Associate Administrator may deem the application incomplete and deny it. The Associate Administrator may grant a 30-day extension to respond to the written request for additional information if the applicant makes such a request in writing.

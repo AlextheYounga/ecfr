@@ -1,0 +1,3 @@
+##### 801.304 Agency control and compliance procedures. #####
+
+The Principal Executive Director of VA's Office of Acquisition, Logistics and Construction is designated as the Department's Chief Acquisition Officer. The Executive Director for the Office of Acquisition and Logistics (OAL) is designated as the Department's Senior Procurement Executive (SPE). The SPE is responsible for amending the VAAR for compliance with FAR 1.304.

@@ -18,7 +18,7 @@ Note 2 to paragraph (b)(3) of § 542.211:
 
 (c) *Travel.* Except as set forth in paragraph (e) of this section, the prohibitions contained in this part do not apply to transactions ordinarily incident to travel to or from any country, including importation or exportation of accompanied baggage for personal use, maintenance within any country including payment of living expenses and acquisition of goods or services for personal use, and arrangement or facilitation of such travel including nonscheduled air, sea, or land voyages.
 
-(d) *Official business.* The prohibitions contained in this part, other than those in § 542.201(a)(2), do not apply to transactions for the conduct of the official business of the Federal Government by employees, grantees, or contractors thereof.
+(d) *Official business.* The prohibitions contained in this part, other than those in § 542.201(a)(2), do not apply to transactions for the conduct of the official business of the United States Government by employees, grantees, or contractors thereof.
 
 Note to paragraph (d) of § 542.211:
 
@@ -29,3 +29,5 @@ Note to paragraph (d) of § 542.211:
 Note to paragraph (e) of § 542.211:
 
 As of the date of publication in the Federal Register, no persons have been designated by OFAC pursuant to E.O. 13399.
+
+[79 FR 25416, May 2, 2014, as amended at 87 FR 78473, Dec. 21, 2022]
