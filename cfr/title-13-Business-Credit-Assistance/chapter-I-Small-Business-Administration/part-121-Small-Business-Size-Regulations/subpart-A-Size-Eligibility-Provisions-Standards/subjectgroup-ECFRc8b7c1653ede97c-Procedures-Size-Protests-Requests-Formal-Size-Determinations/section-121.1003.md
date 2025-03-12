@@ -1,0 +1,3 @@
+##### § 121.1003 Where should a size protest be filed? #####
+
+A protest involving a government procurement or sale must be filed with the contracting officer for the procurement or sale, who must forward the protest to the SBA Government Contracting Area Office serving the area in which the headquarters of the protested concern is located, regardless of the location of any parent company or affiliates.

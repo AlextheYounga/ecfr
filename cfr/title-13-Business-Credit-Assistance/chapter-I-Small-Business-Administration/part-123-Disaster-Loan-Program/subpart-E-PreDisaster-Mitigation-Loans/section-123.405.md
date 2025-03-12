@@ -1,0 +1,3 @@
+##### § 123.405 How much can your business borrow with a pre-disaster mitigation loan? #####
+
+Your business, together with its affiliates, may borrow up to $50,000 each fiscal year. This loan amount may be used to fund only those projects that were a part of your business' approved loan request. SBA will consider mitigation measures costing more than $50,000 per year if your business can identify, as a part of its Pre-Disaster Mitigation Small Business Loan Application, sources that will fund the cost above $50,000.

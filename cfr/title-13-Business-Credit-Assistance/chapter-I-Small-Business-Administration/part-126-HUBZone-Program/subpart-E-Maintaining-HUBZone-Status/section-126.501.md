@@ -1,0 +1,5 @@
+##### § 126.501 What are a qualified HUBZone SBC's ongoing obligations to SBA? #####
+
+A qualified HUBZone SBC must immediately notify SBA of any material change that could affect its eligibility. Material change includes, but is not limited to, a change in the ownership, business structure, or principal office of the concern, or a failure to meet the 35% HUBZone residency requirement (*See* § 126.200 for certain eligibility requirements). The notification must be in writing, and must be sent or delivered to the D/HUB to comply with this requirement. Failure of a qualified HUBZone SBC to notify SBA of such a material change may result in decertification and removal from the List pursuant to § 126.504. In addition, SBA may seek the imposition of penalties under § 126.900. If the concern later becomes eligible for the program, it must apply for certification pursuant to §§ 126.300 through 126.306.
+
+[69 FR 29424, May 24, 2004]

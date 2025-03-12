@@ -1,0 +1,7 @@
+##### § 105.301 Assistance to officers or employees of other Government organizations. #####
+
+(a) SBA must receive a written statement of no objection by the pertinent Department or military service before it gives any SBA Assistance, other than Disaster loans under subparagraphs (1) and (2) of section 7(b) of the Small Business Act, to a person when its sole proprietor, partner, officer, director or stockholder with a 10 percent or more interest, or a household member, is an employee of another Government Department or Agency having a grade of at least GS-13 or its equivalent.
+
+(b) The Standards of Conduct Committee must approve an SBA contract with an entity if a sole proprietor, general partner, officer, director, or stockholder with a 10 or more percent interest (or a household member of such individuals) is an employee of a Government Department or Agency. See also 48 CFR part 35, subpart 3.6.
+
+(c) The Standards of Conduct Committee must approve SBA Assistance, other than disaster loans under subparagraphs (1) and (2) of section 7(b) of the Small Business Act, to a person if its sole proprietor, general partner, officer, director or stockholder with a 10 percent or more interest (or a household member of such individual) is a member of Congress or an appointed official or employee of the legislative or judicial branch of the Government.

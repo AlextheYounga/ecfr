@@ -1,0 +1,3 @@
+##### § 134.704 What are the effects of the appeal on the procurement at issue? #####
+
+Appellate decisions apply to the procurement in question. If a timely OHA appeal has been filed after contract award, the contracting officer must consider whether performance can be suspended until an appellate decision is rendered. If OHA affirms the D/GC's determination finding that the protested concern is ineligible, the contracting officer shall either terminate the contract, not exercise the next option or not award further task or delivery orders. If OHA overturns the D/GC's dismissal or determination that the concern is an eligible EDWOSB or WOSB, the contracting officer may apply the OHA decision to the procurement in question.

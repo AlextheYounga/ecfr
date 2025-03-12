@@ -1,0 +1,9 @@
+##### § 123.9 What happens if I don't use loan proceeds for the intended purpose? #####
+
+(a) For disaster loans authorized under Section 7(b), when SBA approves each application, it issues a loan authorization which specifies the amount of the loan, repayment terms, any collateral requirements, and the permitted use of loan proceeds. If you wrongfully misapply the proceeds of a disaster loan authorized under Section 7(b), you will be liable to SBA for one and one-half times the proceeds disbursed to you as of the date SBA learns of your wrongful misapplication. Wrongful misapplication means the willful use of any loan proceeds without SBA approval contrary to the loan authorization. If you fail to use loan proceeds for authorized purposes for 60 days or more after receiving a loan disbursement check, such non-use also is considered a wrongful misapplication of the proceeds.
+
+(b) If SBA learns that you may have misapplied your loan proceeds from a disaster loan authorized under Section 7(b), SBA will notify you at your last known address, by certified mail, return receipt requested. You will be given at least 30 days to submit to SBA evidence that you have not misapplied the loan proceeds or that you have corrected any such misapplication. Any failure to respond in time will be considered an admission that you misapplied the proceeds. If SBA finds a wrongful misapplication, it will cancel any undisbursed loan proceeds, call the loan, and begin collection measures to collect your outstanding loan balance and the civil penalty.
+
+(c) If you misapply loan proceeds of any disaster loan under this Part, including an IDAP loan, you may face criminal prosecution or civil or administrative action.
+
+[61 FR 3304, Jan. 31, 1996, as amended at 75 FR 60598, Oct. 1, 2010]

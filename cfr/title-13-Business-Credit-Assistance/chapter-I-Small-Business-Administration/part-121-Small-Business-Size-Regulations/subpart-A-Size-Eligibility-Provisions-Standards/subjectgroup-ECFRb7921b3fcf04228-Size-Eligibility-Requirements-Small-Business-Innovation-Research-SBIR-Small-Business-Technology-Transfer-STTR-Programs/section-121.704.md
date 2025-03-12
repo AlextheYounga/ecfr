@@ -1,0 +1,15 @@
+##### § 121.704 When does SBA determine the size and eligibility status of a business concern? #####
+
+(a) The size and eligibility status of a concern for the purpose of a funding agreement award under the SBIR and STTR programs is determined at the time of award for both Phase I and Phase II SBIR and STTR awards, or on the date of the request for a size determination, if an award is pending.
+
+(b) A concern that qualified as a small business at the time it receives an SBIR or STTR funding agreement is considered a small business throughout the life of that specific funding agreement. Where a concern grows to be other than small, the funding agreement agency may exercise the options on the award that is a contract, grant or cooperative agreement or issue a continuation on a grant or cooperative agreement and still count the award as an award to a small business under the SBIR or STTR program. However, the following exceptions apply:
+
+(1) In the case of a merger or acquisition, the awardee must, within 30 days of the transaction becoming final (or the approved funding agreement novation if a novation is required), recertify its small business size status to the funding agreement agency or inform the funding agreement agency that it is other than small. If the awardee is other than small, the agency can no longer fund the options or issue a continuation pursuant to the funding agreement, from that point forward, with SBIR or STTR funds. Funding agreement novations for reasons other than a merger or acquisition do not necessarily require re-certification. The funding agreement agency and the awardee must immediately revise all applicable Federal contract and grant databases to reflect the new size status from that point forward.
+
+(2) For the purposes of SBIR and STTR funding agreements with durations of more than five years, a funding agreement officer must request that a business concern re-certify its small business size status no more than 120 days prior to the end of the fifth year of the funding agreement, and no more than 120 days prior to exercising any option or issuing any continuation. If the awardee certifies that it is other than small, the funding agreement agency can no longer fund the options or issue a continuation pursuant to the funding agreement with SBIR or STTR funds. The funding agreement agency and the awardee must immediately revise all applicable Federal contract and grant databases to reflect the new size status from that point forward.
+
+(c) Re-certification does not change the terms and conditions of the funding agreement. The requirements in effect at the time of award remain in effect throughout the life of the funding agreement.
+
+(d) A request for a size re-certification shall include the size standard in effect at the time of re-certification.
+
+[77 FR 76226, Dec. 27, 2012]

@@ -1,0 +1,3 @@
+##### § 123.400 What is the Pre-Disaster Mitigation Loan Program? #####
+
+The Pre-Disaster Mitigation Loan Program allows SBA to make low interest, fixed rate loans to small businesses for the purpose of implementing mitigation measures to protect their commercial real property (building) or leasehold improvements or contents from disaster related damage. This program supports the Federal Emergency Management Agency (FEMA's) Pre-Disaster Mitigation Program. This pilot program is authorized for 5 fiscal years (October - September), from 2000 through 2004, and has only been approved for limited funding. Therefore, approved loan requests are funded on a first come, first served basis up to the limit of program funds available (see § 123.411).

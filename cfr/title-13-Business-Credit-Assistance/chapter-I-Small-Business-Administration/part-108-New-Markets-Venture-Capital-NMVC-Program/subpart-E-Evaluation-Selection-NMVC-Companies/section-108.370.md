@@ -1,0 +1,3 @@
+##### § 108.370 Conditional approval. #####
+
+From among the Applicants submitting eligible and complete applications, SBA will select a number of Applicants and will conditionally approve such selected Applicants to participate in the NMVC program. SBA will give each such Conditionally Approved NMVC Company a specific period of time, not to exceed two years, to satisfy the requirements to become a NMVC Company.

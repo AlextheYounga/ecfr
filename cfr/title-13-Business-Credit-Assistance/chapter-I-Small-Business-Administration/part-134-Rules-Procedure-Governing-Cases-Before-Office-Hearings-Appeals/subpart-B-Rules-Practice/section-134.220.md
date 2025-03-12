@@ -1,0 +1,3 @@
+##### § 134.220 Prohibition against ex parte communications. #####
+
+No person shall consult or communicate with a Judge concerning any fact, question of law, or SBA policy relevant to the merits of a case before that Judge except on prior notice to all parties, and with the opportunity for all parties to participate. In the event of such prohibited consultation or communication, the Judge will disclose the occurrence in accordance with 5 U.S.C. 557(d)(1), and may impose such sanctions as he or she deems appropriate.

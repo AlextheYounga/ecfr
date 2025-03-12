@@ -1,0 +1,9 @@
+##### § 107.560 Subordination of SBA's creditor position. #####
+
+(a) *Debentures purchased or guaranteed on or before July 1, 1991.* Under the terms of any Debenture purchased or guaranteed by SBA on or before July 1, 1991, SBA's unsecured claims against you, as a Debenture-holder or as subrogee, are subordinated in favor of all your other creditors, except to the extent that such claims may be subject to equitable subordination in SBA's favor.
+
+(b) *Debentures purchased or guaranteed after July 1, 1991, including refinancings of Debentures previously purchased or guaranteed.* (1) Under the terms of any Debenture purchased or guaranteed by SBA after July 1, 1991, SBA's unsecured claims against you, as a Debenture-holder or as subrogee, are subordinated only in favor of non-Associate lenders; and, to the extent that your indebtedness to such lenders exceeds the lesser of $10,000,000 or 200 percent of your Regulatory Capital (determined as of the date your Debentures were purchased or guaranteed), SBA's unsecured claims enjoy parity with those of other unsecured creditors, except with respect to indebtedness created on or before July 1, 1991.
+
+(2) In order to induce others to lend you money after your Debenture has been purchased or guaranteed, SBA may agree in writing on a case-by-case basis to subordinate its unsecured claims, on such terms as it may determine, in favor of one or more of your Associates, or in favor of other lenders in excess of the amounts mentioned in paragraph (b)(1) of this section.
+
+(3) SBA reserves the authority to refuse to subordinate its claims if it determines, at the time you request your Debenture be purchased or guaranteed, that the exercise of reasonable investment prudence and your financial condition warrant such refusal.

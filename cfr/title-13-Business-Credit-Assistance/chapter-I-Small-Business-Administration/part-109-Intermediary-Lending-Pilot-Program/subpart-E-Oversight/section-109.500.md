@@ -1,0 +1,3 @@
+##### § 109.500 SBA access to ILP Intermediary files. #####
+
+The ILP Intermediary must allow SBA's authorized representatives, including other officers of any other Federal agency and representatives authorized by the SBA Inspector General, during normal business hours, timely access to its facility and files to review, inspect, and copy all records and documents, including electronic and hard copy, relating to the operations of the ILP Intermediary, the ILP Loan, and the loans made from the ILP Relending Fund and other records and documents as requested for oversight of the ILP Intermediary.

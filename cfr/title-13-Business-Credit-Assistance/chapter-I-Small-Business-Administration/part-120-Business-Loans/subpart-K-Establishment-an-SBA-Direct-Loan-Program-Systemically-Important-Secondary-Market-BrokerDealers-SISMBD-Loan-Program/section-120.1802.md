@@ -1,0 +1,3 @@
+##### § 120.1802 How does a broker-dealer participate in the SISMBD Loan Program? #####
+
+A Pool Assembler must meet the eligibility requirements in § 120.1820, submit an SISMBD Loan Application to SBA that includes the information specified in § 120.1822, obtain a written loan commitment from SBA, execute, among other documents, Loan Agreements, and satisfy all other SBA requirements. The Loan Agreements provide further details on the requirements that apply to an SISMBD seeking an SISMBD Loan.

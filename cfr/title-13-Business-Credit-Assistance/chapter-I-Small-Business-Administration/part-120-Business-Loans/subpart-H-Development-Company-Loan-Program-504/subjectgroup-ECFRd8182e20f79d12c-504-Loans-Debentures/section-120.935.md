@@ -1,0 +1,3 @@
+##### § 120.935 Deposit from the Borrower that a CDC may require. #####
+
+At the time of application for a 504 loan, the CDC may require a deposit from the Borrower of $2,500 or 1 percent of the Net Debenture Proceeds, whichever is less. The deposit may be applied to the loan processing fee if the application is accepted, but must be refunded if the application is denied. If the small business withdraws its application, the CDC may deduct from the deposit reasonable costs incurred in packaging and processing the application.

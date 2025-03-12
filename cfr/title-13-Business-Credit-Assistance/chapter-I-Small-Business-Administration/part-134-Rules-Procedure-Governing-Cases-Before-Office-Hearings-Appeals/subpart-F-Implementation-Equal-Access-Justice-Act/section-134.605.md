@@ -1,0 +1,7 @@
+##### § 134.605 Under what circumstances are fees and expenses reimbursable? #####
+
+(a) If you are a prevailing eligible party, you may receive an award for reasonable fees and expenses unless the position of the agency in the proceeding is found by the ALJ to be “substantially justified”, or special circumstances exist which make an award unjust. The “position of the agency” includes not only the position taken by SBA in the administrative proceeding, but also the position which it took in the action which led to the administrative proceeding. No presumption arises that SBA's position was not substantially justified simply because it did not prevail in a proceeding. However, upon your assertion that the position of SBA was not substantially justified, SBA will be required to establish that its position was reasonable in fact and law.
+
+(b) The ALJ may reduce or deny an award for reimbursement if you have unreasonably protracted the administrative proceeding or if other special circumstances would make the award unjust.
+
+(c) Awards for fees and expenses incurred before the date on which an administrative proceeding was initiated are allowable only if you can demonstrate that they were reasonably incurred in preparation for the proceeding.

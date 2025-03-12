@@ -1,0 +1,3 @@
+##### § 124.1 What is the purpose of the 8(a) Business Development program? #####
+
+Sections 8(a) and 7(j) of the Small Business Act authorize a Minority Small Business and Capital Ownership Development program (designated the 8(a) Business Development or “8(a) BD” program for purposes of the regulations in this part). The purpose of the 8(a) BD program is to assist eligible small disadvantaged business concerns compete in the American economy through business development.

@@ -1,0 +1,3 @@
+##### § 108.700 Compliance with size standards in part 121 of this chapter as a condition of Assistance. #####
+
+You are permitted to provide financial assistance and management services only to a Small Business. To determine whether an applicant meets the size standards for a Small Business, you may use either the financial size standards in § 121.301(c)(1) of this chapter or the industry standard covering the industry in which the applicant is primarily engaged, as set forth in § 121.301(c)(2) of this chapter.

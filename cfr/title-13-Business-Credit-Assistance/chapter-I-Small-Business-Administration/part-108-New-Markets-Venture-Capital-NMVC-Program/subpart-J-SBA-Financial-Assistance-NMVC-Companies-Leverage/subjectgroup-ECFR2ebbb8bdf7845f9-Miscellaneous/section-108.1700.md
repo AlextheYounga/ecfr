@@ -1,0 +1,3 @@
+##### § 108.1700 Transfer by SBA of its interest in a NMVC Company's Leverage security. #####
+
+Upon such conditions and for such consideration as it deems reasonable, SBA may sell, assign, transfer, or otherwise dispose of any Debenture held by or on behalf of SBA. Upon notice by SBA, a NMVC Company will make all payments of principal and interest as shall be directed by SBA. A NMVC Company will be liable for all damage or loss which SBA may sustain by reason of such disposal, up to the amount of the NMVC Company's liability under such security, plus court costs and reasonable attorney's fees incurred by SBA.

@@ -1,0 +1,3 @@
+##### § 107.1170 Maximum amount of Participating Securities for any Licensee. #####
+
+The maximum amount of Participating Securities you may have outstanding at any time is 200 percent of your Leverageable Capital. If you are a Section 301(d) Licensee, the maximum combined amount of Participating Securities and Preferred Securities you may have outstanding at any time is 200 percent of your Leverageable Capital.

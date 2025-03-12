@@ -1,0 +1,3 @@
+##### § 134.618 How are awards paid? #####
+
+If you are seeking payment of an award, you must submit a copy of the final decision, along with your certification that you are not seeking judicial review of either the decision in the adversary adjudication, or of the award, to the following address: Chief Financial Officer, Office of Financial Operations, SBA, P.O. Box 205, Denver, CO 80201-0205. SBA will pay you the amount awarded within 60 days of receipt of your request unless it is notified that you or another party has sought judicial review of the underlying decision or the award.

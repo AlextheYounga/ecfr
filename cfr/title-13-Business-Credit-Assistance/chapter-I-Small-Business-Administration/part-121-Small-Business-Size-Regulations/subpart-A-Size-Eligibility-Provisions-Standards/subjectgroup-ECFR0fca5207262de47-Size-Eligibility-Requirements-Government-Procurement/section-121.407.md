@@ -1,0 +1,3 @@
+##### § 121.407 What are the size procedures for multiple item procurements? #####
+
+If a procurement calls for two or more specific end items or types of services with different size standards and the offeror may submit an offer on any or all end items or types of services, the offeror must meet the size standard for each end item or service item for which it submits an offer. If the procurement calls for more than one specific end item or type of service and an offeror is required to submit an offer on all items, the offeror may qualify as a small business for the procurement if it meets the size standard of the item which accounts for the greatest percentage of the total contract value.

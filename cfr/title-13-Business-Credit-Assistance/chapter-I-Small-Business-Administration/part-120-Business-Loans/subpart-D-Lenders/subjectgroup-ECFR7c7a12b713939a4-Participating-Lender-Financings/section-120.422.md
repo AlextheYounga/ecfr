@@ -1,0 +1,3 @@
+##### § 120.422 Are all securitizations subject to this subpart? #####
+
+All securitizations are subject to this subpart. Until additional regulations are promulgated, SBA will consider securitizations involving multiple Lenders on a case by case basis, using the conditions in § 120.425 as a starting point. SBA will consider securitizations by affiliates as single Lender securitizations for purposes of this subpart.

@@ -1,0 +1,3 @@
+##### § 120.523 What is the “earliest uncured payment default”? #####
+
+The earliest uncured payment default is the date of the earliest failure by a Borrower to pay a regular installment of principal and/or interest when due. Payments made by the Borrower before a Lender makes its request to SBA to purchase are applied to the earliest uncured payment default. If the installment is paid in full, the earliest uncured payment default date will advance to the next unpaid installment date. If a Borrower makes any payment after the Lender makes its request to SBA to purchase, the earliest uncured payment default date does not change because the Lender has already exercised its right to request purchase.

@@ -1,0 +1,5 @@
+##### § 103.2 Who may conduct business with SBA? #####
+
+(a) If you are an Applicant, a Participant, a partner of an Applicant or Participant partnership, or serve as an officer of an Applicant, Participant corporation, or limited liability company, you may conduct business with SBA without a representative.
+
+(b) If you are an Agent, you may conduct business with SBA on behalf of an Applicant, Participant or lender, unless representation is otherwise prohibited by law or the regulations in this part or any other part in this chapter. For example, persons debarred under the SBA or Government-wide debarment regulations may not conduct business with SBA. SBA may request that any Agent supply written evidence of his or her authority to act on behalf of an Applicant, Participant, or lender as a condition of revealing any information about the Applicant's, Participant's, or lender's current or prior dealings with SBA.

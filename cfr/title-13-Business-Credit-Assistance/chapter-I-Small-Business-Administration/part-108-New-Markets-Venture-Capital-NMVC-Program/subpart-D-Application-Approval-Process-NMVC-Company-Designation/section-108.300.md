@@ -1,0 +1,5 @@
+##### § 108.300 When and how to apply for designation as a NMVC Company. #####
+
+(a) *Notice of Funds Availability (“NOFA”).* SBA will publish a NOFA in the Federal Register, advising potential applicants of the availability of funds for the NMVC program. An entity may then submit an application for designation as a NMVC Company. When submitting its application, an Applicant must comply with both these regulations and any requirements specified in the NOFA, including submission deadlines. The NOFA may specify limitations, special rules, procedures, and restrictions for a particular funding round.
+
+(b) *Application form.* An Applicant must apply for designation as a NMVC Company using the application packet provided by SBA. Upon receipt of an application, SBA may request clarifying or technical information on the materials submitted as part of the application.

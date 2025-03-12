@@ -1,0 +1,5 @@
+##### § 302.1 Environment. #####
+
+EDA will undertake environmental reviews of Projects in accordance with the requirements of the National Environmental Policy Act of 1969, as amended (Pub. L. 91-190; 42 U.S.C. 4321 *et seq.,* as implemented under 40 CFR chapter V) (“*NEPA*”), and all applicable Federal environmental statutes, regulations, and Executive Orders. These authorities include the implementing regulations of NEPA requiring EDA to provide public notice of the availability of Project-specific environmental documents, such as environmental impact statements, environmental assessments, findings of no significant impact, and records of decision, to the affected or interested public, as specified in 40 CFR 1506.6(b). Depending on the Project's location, environmental information concerning specific Projects may be obtained from the individual serving as the Environmental Officer in the appropriate EDA regional office listed in the applicable FFO.
+
+[79 FR 76128, Dec. 19, 2014]

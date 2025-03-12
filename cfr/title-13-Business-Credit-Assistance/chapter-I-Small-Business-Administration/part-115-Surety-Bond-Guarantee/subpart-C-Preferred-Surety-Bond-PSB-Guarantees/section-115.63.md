@@ -1,0 +1,9 @@
+##### § 115.63 Allotment of guarantee authority. #####
+
+(a) *General.* SBA allots to each PSB Surety a periodic maximum guarantee authority. No SBA guarantee attaches to bonds approved by a PSB Surety if the bonds exceed the allotted authority for the period in which the bonds are approved. No reliance on future authority is permitted. An allotment can be increased only by prior written permission of SBA.
+
+(b) *Execution of Bid Bonds.* When the PSB Surety Executes a Bid Bond, SBA debits the Surety's allotment for an amount equal to the guarantee percentage of the estimated penal sum of the Final Bond SBA would guarantee if the Contract were awarded. If the Contract is then awarded for an amount other than the bid amount, or if the bid is withdrawn or the Bid Bond guarantee has expired (see § 115.12(c)), SBA debits or credits the Surety's allotment accordingly.
+
+(c) *Execution of Final Bonds.* If the PSB Surety Executes a guaranteed Final Bond, but not the related Bid Bond, SBA debits the Surety's allotment for an amount equal to the guarantee percentage of the penal sum of the Final Bond. SBA will debit the allotment for increases, and credit the allotment for decreases, in the bond amount.
+
+(d) *Release and non-issuance of Final Bonds.* The release of Final Bonds upon completion of the Contract does not restore the corresponding allotment. If, however, a PSB Surety approves a Final Bond but never issues the bond, SBA will credit the Surety's allotment for an amount equal to the guarantee percentage of the penal sum of the bond. In that event, the Surety must notify SBA as soon as possible, but in no event later than 5 business days after the non-issuance has been determined. Until the Surety has so notified SBA, it cannot rely on such credit.

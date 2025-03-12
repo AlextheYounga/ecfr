@@ -1,0 +1,3 @@
+##### § 120.940 Prepayment of the 504 loan or Debenture. #####
+
+The Borrower may prepay its 504 loan, if it pays the entire principal balance, unpaid interest, any unpaid fees, and any prepayment premium established in the note. If the Borrower prepays, the CDC must prepay the corresponding Debenture with interest and premium. If one of the Debentures in a Debenture Pool is prepaid, the Investors in that Debenture Pool must be paid pro rata, and SBA's guarantee on the entire Debenture Pool must be proportionately reduced. If the entire Debenture Pool is paid off, SBA may call all Certificates backed by the Pool for redemption.

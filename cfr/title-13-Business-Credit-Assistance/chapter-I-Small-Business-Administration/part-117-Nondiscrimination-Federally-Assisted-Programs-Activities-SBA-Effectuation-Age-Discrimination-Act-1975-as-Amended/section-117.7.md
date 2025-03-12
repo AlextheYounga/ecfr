@@ -1,0 +1,3 @@
+##### § 117.7 Assurances required. #####
+
+An application for financial assistance administered by the Small Business Administration shall, as a condition of its approval and the extension of such assistance, contain or be accompanied by an assurance that the recipient will comply with this part. SBA shall specify the form of the foregoing assurance, and the extent to which like assurances will be required of contractors and subcontractors, transferees, successors, and other participants.

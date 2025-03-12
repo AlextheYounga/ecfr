@@ -1,0 +1,3 @@
+##### § 120.170 Flood insurance. #####
+
+Under the Flood Disaster Protection Act of 1973 (Sec. 205(b) of Pub. L. 93-234; 87 Stat. 983 (42 U.S.C. 4000 *et seq.*)), a loan recipient must obtain flood insurance if any building (including mobile homes), machinery, or equipment acquired, installed, improved, constructed, or renovated with the proceeds of SBA financial assistance is located in a special flood hazard area. The requirement applies also to any inventory (business loan program), fixtures or furnishings contained or to be contained in the building. Mobile homes on a foundation are buildings. SBA, Lenders, CDCs, and Intermediaries must notify Borrowers that flood insurance must be maintained.

@@ -1,0 +1,3 @@
+##### § 120.104 Are businesses financed by SBICs eligible? #####
+
+SBA may make or guarantee loans to a business financed by an SBIC if SBA's collateral position will be superior to that of the SBIC. SBA may also make or guarantee a loan to an otherwise eligible small business which temporarily is owned or controlled by an SBIC under the regulations in part 107 of this chapter. SBA neither guarantees SBIC loans nor makes loans jointly with SBICs.

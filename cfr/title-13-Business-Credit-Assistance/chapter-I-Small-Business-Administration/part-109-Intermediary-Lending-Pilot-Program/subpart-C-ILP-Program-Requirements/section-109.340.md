@@ -1,0 +1,5 @@
+##### § 109.340 Lending requirements. #####
+
+(a) *Initial lending requirement.* The ILP Intermediary must commit 100% of its ILP Loan funds to Eligible Small Business Concerns within two years of the date of the ILP Note. The Associate Administrator for Capital Access (AA/CA) or designee may approve extensions to the initial lending requirement on a case-by-case basis.
+
+(b) *Ongoing relending requirement.* After meeting the initial lending requirement, the ILP Intermediary must relend the funds in the ILP Relending Fund so that the total principal balance of loans outstanding to Eligible Small Business Concerns does not fall below 75% of the outstanding principal balance of the ILP Loan at any time while the ILP Loan is outstanding. Exceptions to this requirement will be considered by the AA/CA or designee on a case by case basis based on the particular facts and circumstances of the ILP Intermediary.

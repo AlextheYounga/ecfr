@@ -1,0 +1,3 @@
+##### § 120.1724 Servicing and liquidation expenses. #####
+
+All ordinary and reasonable expenses of servicing and liquidating Seller's Pool Loan shall be paid by, or be recoverable from, Obligor, and all such ordinary and reasonable expenses incurred by Seller or SBA which are not recoverable from Obligor shall be shared ratably by Seller, SBA, and the Pool Originator pursuant to the applicable percentages set forth in the First Lien Position 504 Loan Pool Guarantee Agreement.

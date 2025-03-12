@@ -1,0 +1,3 @@
+##### § 305.11 Contract awards; early construction start. #####
+
+EDA must determine that the award of all contracts necessary for design and construction of the Project facilities is in compliance with the terms and conditions of the Investment award in order for the costs to be eligible for EDA reimbursement. Pending this determination, the Recipient may issue a notice permitting construction under the contract to commence. If construction commences prior to EDA's determination, the Recipient proceeds at its own risk until EDA review and concurrence. The EDA regional office will advise the Recipient of the requirements necessary to obtain EDA's determination.

@@ -1,0 +1,3 @@
+##### § 120.912 Borrowed contributions. #####
+
+The Borrower may borrow its cash contribution from the CDC or a third party. If any of the contribution is borrowed, the interest rate must be reasonable. If the loan is secured by any of the Project assets, the loan must be subordinate to the liens securing the 504 Loan, and the loan may not be repaid at a faster rate than the 504 Loan unless SBA gives prior written approval. A third party lender may not receive voting rights, stock options, or any other actual or potential voting interest in the small business.

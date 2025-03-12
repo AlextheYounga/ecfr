@@ -1,0 +1,3 @@
+##### § 134.703 When must a person file an appeal from an WOSB or EDWOSB protest determination? #####
+
+Appeals from a WOSB or EDWOSB protest determination must be commenced by filing and serving an appeal petition within ten (10) business days after the appellant receives the WOSB or EDWOSB protest determination (see § 134.204 for filing and service requirements). An untimely appeal must be dismissed.

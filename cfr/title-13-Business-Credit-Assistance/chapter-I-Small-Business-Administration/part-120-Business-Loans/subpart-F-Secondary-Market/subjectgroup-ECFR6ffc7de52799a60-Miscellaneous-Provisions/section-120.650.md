@@ -1,0 +1,3 @@
+##### § 120.650 Registration duties of FTA in Secondary Market. #####
+
+The FTA registers all Certificates. This means it issues, transfers title to, and redeems them. All financial transactions relating to a guaranteed portion of a loan flow through the FTA. In fulfilling its obligation to keep the central registry current, the FTA may, with SBA's approval, obtain any necessary information from the parties involved in the Secondary Market.

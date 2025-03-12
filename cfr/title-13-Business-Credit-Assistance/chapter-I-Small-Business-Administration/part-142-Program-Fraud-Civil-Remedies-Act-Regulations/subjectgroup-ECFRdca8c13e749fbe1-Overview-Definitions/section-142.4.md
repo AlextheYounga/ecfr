@@ -1,0 +1,3 @@
+##### § 142.4 What is a statement? #####
+
+A “statement” means any written representation, certification, affirmation, document, record, or accounting or bookkeeping entry made with respect to a claim or with respect to a contract, bid or proposal for a contract, grant, loan or other benefit from SBA. “From SBA” means that SBA provides some portion of the money or property in connection with the contract, bid, grant, loan, or benefit, or is potentially liable to another party for some portion of the money or property under such contract, bid, grant, loan, or benefit. A statement is made, presented, or submitted to SBA when it is received by SBA or an agent, fiscal intermediary, or other entity acting for SBA.

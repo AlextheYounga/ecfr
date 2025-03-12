@@ -1,0 +1,5 @@
+##### § 120.1701 Program purpose. #####
+
+As authorized by the American Recovery and Reinvestment Act of 2009 (Recovery Act), SBA establishes the Program to authorize an entity to apply for SBA's guarantee of Pools comprised of portions of First Lien Position 504 Loans backing Pool Certificates to be sold to Pool Investors. The purpose of the Program is to temporarily provide a federal guarantee for Pools of First Lien Position 504 Loans to facilitate the sale of such loans and increase the liquidity of the lenders holding the loans so that the lenders can use the sale proceeds to fund more such loans. The Program's authorization expires on September 23, 2012 and the Administrator may guarantee not more than $3,000,000,000 of pools under this authority pursuant to section 503(c)(B)(iii) of the Recovery Act, as amended by section 1119 of the Small Business Jobs Act of 2010.
+
+[61 FR 3235, Jan. 31, 1996, as amended at 76 FR 63547, Oct. 12, 2011]

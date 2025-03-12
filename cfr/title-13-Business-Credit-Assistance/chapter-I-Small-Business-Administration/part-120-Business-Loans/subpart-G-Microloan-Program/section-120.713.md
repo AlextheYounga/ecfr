@@ -1,0 +1,3 @@
+##### § 120.713 Does SBA provide technical assistance to Intermediaries? #####
+
+SBA may procure technical assistance for an Intermediary to improve its knowledge, skill, and understanding of microlending by awarding a grant to a more experienced Intermediary. SBA may also obtain such assistance for prospective Intermediaries in areas of the country that are either not served or underserved by an existing Intermediary.

@@ -1,0 +1,3 @@
+##### § 142.24 Can witnesses be subpoenaed? #####
+
+A party seeking the appearance and testimony of any individual or the production of documents or records at a hearing may request in writing that the ALJ issue a subpoena. Any such request must be filed with the ALJ not less than 15 days before the scheduled hearing date unless otherwise allowed by the ALJ for good cause. A subpoena shall be issued by the ALJ in the manner specified by § 134.214 of this chapter.

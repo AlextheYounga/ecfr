@@ -1,0 +1,3 @@
+##### § 106.204 Who has the authority to approve and sign a Cosponsorship Agreement? #####
+
+The Administrator, or upon his/her written delegation, the Deputy Administrator, an associate or assistant administrator, after consultation with the General Counsel (or designee), has the authority to approve each Cosponsored Activity and sign each Cosponsorship Agreement. This authority cannot be re-delegated.

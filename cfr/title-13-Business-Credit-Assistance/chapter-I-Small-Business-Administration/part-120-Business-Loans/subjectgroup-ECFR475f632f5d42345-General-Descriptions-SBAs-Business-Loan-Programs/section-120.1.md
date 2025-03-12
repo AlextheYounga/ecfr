@@ -1,0 +1,3 @@
+##### § 120.1 Which loan programs does this part cover? #####
+
+This part regulates SBA's financial assistance to small businesses under its general business loan programs (“7(a) loans”) authorized by section 7(a) of the Small Business Act (“the Act”), 15 U.S.C. 636(a), its microloan demonstration loan program (“Microloans”) authorized by section 7(m) of the Act, 15 U.S.C. 636(m), and its development company program (“504 loans”) authorized by Title V of the Small Business Investment Act, 15 U.S.C. 695 to 697f (“Title V”). These three programs constitute the business loan programs of the SBA.

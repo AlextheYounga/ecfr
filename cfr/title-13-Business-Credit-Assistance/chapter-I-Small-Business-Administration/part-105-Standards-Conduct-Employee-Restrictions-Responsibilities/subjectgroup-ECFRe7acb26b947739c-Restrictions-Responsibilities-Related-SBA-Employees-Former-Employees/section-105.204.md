@@ -1,0 +1,3 @@
+##### § 105.204 Assistance to SBA employees or members of their household. #####
+
+Without the prior written approval of the Standards of Conduct Committee, no SBA Assistance, other than Disaster loans under subparagraphs (1) and (2) of section 7(b) of the Small Business Act, shall be furnished to a person when the sole proprietor, partner, officer, director or significant stockholder of the person is an SBA employee or a household member.

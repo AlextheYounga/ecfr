@@ -1,0 +1,3 @@
+##### § 120.105 Special consideration for veterans. #####
+
+SBA will give special consideration to a small business owned by a veteran or, if the veteran chooses not to apply, to a business owned or controlled by one of the veteran's dependents. If the veteran is deceased or permanently disabled, SBA will give special consideration to one survivor or dependent. SBA will process the application of a business owned or controlled by a veteran or dependent promptly, resolve close questions in the applicant's favor, and pay particular attention to maximum loan maturity. For SBA loans, a veteran is a person honorably discharged from active military service.

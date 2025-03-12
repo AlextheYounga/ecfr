@@ -1,0 +1,5 @@
+##### § 120.956 Suspension or revocation of brokers and dealers. #####
+
+The appropriate Office of Capital Access official in accordance with Delegations of Authority may suspend or revoke the privilege of any broker or dealer to participate in the sale or marketing of Debentures and Certificates for actions or conduct bearing negatively on the broker's fitness to participate in the securities market. SBA must give the broker or dealer written notice, stating the reasons, at least 10 business days prior to the effective date of the suspension or revocation. A broker or dealer may appeal the suspension or revocation made under this section pursuant to the procedures set forth in part 134 of this chapter. The action of this official will remain in effect pending resolution of the appeal.
+
+[73 FR 75519, Dec. 11, 2008]

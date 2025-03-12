@@ -1,0 +1,3 @@
+##### § 121.1002 Who makes a formal size determination? #####
+
+The responsible Government Contracting Area Director or designee makes all formal size determinations in response to either a size protest or a request for a formal size determination, with the exception of size determinations for purposes of the Disaster Loan Program, which will be made by the Disaster Area Office Director or designee responsible for the area in which the disaster occurred.

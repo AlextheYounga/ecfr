@@ -1,0 +1,3 @@
+##### § 120.1715 Seller's Pool Loan liquidation. #####
+
+Subject to § 120.1718 of this subpart J, the Seller must liquidate and conduct debt collection litigation for Seller's Pool Loan in a prompt, cost-effective and commercially reasonable manner, consistent with prudent lending standards, in accordance with applicable Program Rules and Regulations, and with SBA approval of a liquidation plan and any litigation plan, and any amendment of either such a plan, if applicable.

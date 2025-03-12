@@ -1,0 +1,3 @@
+##### § 142.39 How are civil penalties and assessments collected? #####
+
+31 U.S.C. 3806 and 3808(b) authorize the Attorney General to bring specific actions for collection of such civil penalties and assessments including administrative offset under 31 U.S.C. 3716. The penalties and assessments may not, however, be administratively offset against an overpayment of federal taxes (then or later owed) to the defendant by the United States.

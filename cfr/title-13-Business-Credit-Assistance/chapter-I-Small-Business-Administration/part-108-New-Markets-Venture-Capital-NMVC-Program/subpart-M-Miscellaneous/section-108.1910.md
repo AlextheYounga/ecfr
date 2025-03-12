@@ -1,0 +1,3 @@
+##### § 108.1910 Non-waiver of SBA's rights or terms of Leverage security. #####
+
+SBA's failure to exercise or delay in exercising any right or remedy under the Act or the regulations in this part does not constitute a waiver of such right or remedy. SBA's failure to require you to perform any term or provision of your Leverage does not affect SBA's right to enforce such term or provision. Similarly, SBA's waiver of, or failure to enforce, any term or provision of your Leverage or of any event or condition set forth in § 108.1810 does not constitute a waiver of any succeeding breach of such term or provision or condition.

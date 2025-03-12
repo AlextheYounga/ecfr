@@ -1,0 +1,3 @@
+##### § 123.103 What happens if I am forced to move from my home? #####
+
+If you must relocate inside or outside the business area because local authorities will not allow you to repair your damaged property, SBA considers this to be a total loss and a mandatory relocation. In this case, your loan would be an amount that SBA considers sufficient to replace your residence at your new location, plus funds to cover losses of personal property and eligible refinancing.

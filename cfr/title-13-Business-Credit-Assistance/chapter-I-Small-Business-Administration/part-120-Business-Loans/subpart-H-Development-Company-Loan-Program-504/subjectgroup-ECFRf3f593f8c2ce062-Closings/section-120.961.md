@@ -1,0 +1,3 @@
+##### § 120.961 Construction escrow accounts. #####
+
+The CSA, title company, CDC attorney, or bank may hold Debenture proceeds in escrow to complete Project components such as landscaping and parking lots, and acquire machinery and equipment if the component or acquisition is a minor portion of the total Project and has been contracted for completion or delivery at a specified price and specific future date. The escrow agent must disburse funds upon approval by the CDC and the SBA, supported by invoices and payable jointly to the small business and the designated contractor.

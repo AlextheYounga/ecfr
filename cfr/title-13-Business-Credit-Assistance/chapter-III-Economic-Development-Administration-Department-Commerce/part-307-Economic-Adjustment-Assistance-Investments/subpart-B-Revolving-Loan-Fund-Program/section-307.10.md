@@ -1,0 +1,9 @@
+##### § 307.10 Pre-loan requirements. #####
+
+(a) RLF Recipients must adopt procedures to review the impacts of prospective loan proposals on the physical environment. The Plan must provide for compliance with applicable environmental laws and other regulations, including parts 302 and 314 of this chapter. The RLF Recipient also must adopt procedures to comply, and ensure that potential borrowers comply, with applicable environmental laws and regulations.
+
+(b) RLF Recipients must ensure that prospective borrowers, consultants, or contractors are aware of and comply with the Federal statutory and regulatory requirements that apply to activities carried out with RLF loans. Accordingly, RLF loan agreements shall include applicable Federal requirements to ensure compliance and RLF Recipients must adopt procedures to diligently correct instances of non-compliance, including loan call stipulations.
+
+(c) All RLF loan documents and procedures must protect and hold the Federal government harmless from and against all liabilities that the Federal government may incur as a result of providing an RLF Grant to assist directly or indirectly in site preparation or construction, as well as the direct or indirect renovation or repair of any facility or site. These protections apply to the extent that the Federal government may become potentially liable as a result of ground water, surface, soil or other natural or man-made conditions on the property caused by operations of the RLF Recipient or any of its borrowers, predecessors or successors.
+
+[71 FR 56675, Sept. 27, 2006, as amended at 79 FR 76133, Dec. 19, 2014]

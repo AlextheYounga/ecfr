@@ -1,0 +1,3 @@
+##### § 101.300 What is the Inspector General's authority to conduct audits, investigations, and inspections? #####
+
+The Inspector General Act of 1978, as amended (5 U.S.C. App. 3) authorizes SBA's Inspector General to provide policy direction for, and to conduct, supervise, and coordinate such audits, investigations, and inspections relating to the programs and operations of SBA as appears necessary or desirable.

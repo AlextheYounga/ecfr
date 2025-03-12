@@ -1,0 +1,3 @@
+##### § 120.191 The contents of a business loan application. #####
+
+For most business loans, SBA requires that an application for a business loan contain, among other things, a description of the history and nature of the business, the amount and purpose of the loan, the collateral offered for the loan, current financial statements, historical financial statements (or tax returns if appropriate) for the past three years, IRS tax verification, and a business plan, when applicable. Personal histories and financial statements will be required from principals of the applicant (and the Operating Company, if applicable).

@@ -1,0 +1,5 @@
+##### § 112.8 Assurances required. #####
+
+An application for any of the financial assistance described in § 112.2(a) shall, as a condition to its approval and the extension of such assistance, contain or be accompanied by an assurance that the recipient will comply with this part. Such an assurance shall contain provisions authorizing the acceleration of the maturity of the recipient's financial obligation to the SBA in the event of a failure to comply, and provisions which give the United States a right to seek judicial enforcement of the terms of the assurance. SBA shall specify the form of the foregoing assurance, and the extent to which like assurances will be required of contractors and subcontractors, transferees, successors in interest, and other participants.
+
+[30 FR 298, Jan. 9, 1965, as amended at 68 FR 51349, Aug. 26, 2003]

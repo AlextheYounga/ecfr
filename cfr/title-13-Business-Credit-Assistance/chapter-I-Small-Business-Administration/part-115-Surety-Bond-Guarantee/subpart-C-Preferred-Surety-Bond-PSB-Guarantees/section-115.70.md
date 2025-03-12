@@ -1,0 +1,9 @@
+##### § 115.70 Claims for reimbursement of Losses. #####
+
+(a) *How claims are submitted.* A PSB Surety must submit claims for reimbursement on a form approved by SBA no later than 90 days from the date the Surety paid the amount. Loss is determined as of the date of receipt by SBA of the claim for reimbursement, or as of such later date as additional information requested by SBA is received. Subject to the offset provisions of part 140, SBA pays its share of Loss within 45 days of receipt of the requisite information. Claims for reimbursement and any additional information submitted are subject to review and audit by SBA.
+
+(b) *Surety responsibilities.* The PSB Surety must take all necessary steps to mitigate Losses when legal action against a bond has been instituted, when the Obligee has declared a default, and when the Surety has established a claim reserve. The Surety may dispose of collateral at fair market value only. Unless SBA notifies the Surety otherwise, the Surety must take charge of all claims or suits arising from a defaulted bond, and compromise, settle or defend the suits. The Surety must handle and process all claims under the bond and all settlements and recoveries in the same manner as it does on non-guaranteed bonds.
+
+(c) *Reservation of SBA's rights.* The payment by SBA of a PSB Surety's claim does not waive or invalidate any of the terms of the PSB Agreement, the regulations in this part 115, or any defense SBA may have against the Surety. Within 30 days of receipt of notification that a claim or any portion of a claim should not have been paid by SBA, the Surety must repay the specified amounts to SBA.
+
+[61 FR 3271, Jan. 31, 1996, as amended at 79 FR 2087, Jan. 13, 2014]

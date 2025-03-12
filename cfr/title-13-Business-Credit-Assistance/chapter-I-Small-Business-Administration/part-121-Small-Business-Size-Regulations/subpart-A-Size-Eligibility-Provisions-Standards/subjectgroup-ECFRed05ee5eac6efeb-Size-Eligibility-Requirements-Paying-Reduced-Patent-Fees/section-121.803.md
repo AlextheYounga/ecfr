@@ -1,0 +1,3 @@
+##### § 121.803 Are formal size determinations binding on parties? #####
+
+Size determinations by authorized SBA officials are formal actions, based upon a specific patent application pursuant to the rules of the Patent and Trademark Office, Department of Commerce, and are binding upon the parties. Other SBA opinions provided to patent applicants or others are only advisory, and are not binding or appealable.

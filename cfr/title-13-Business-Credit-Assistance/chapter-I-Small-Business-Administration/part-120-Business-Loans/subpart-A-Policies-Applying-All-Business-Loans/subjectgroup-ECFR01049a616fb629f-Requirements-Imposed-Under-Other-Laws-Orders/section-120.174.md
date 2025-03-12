@@ -1,0 +1,3 @@
+##### § 120.174 Earthquake hazards. #####
+
+When loan proceeds are used to construct a new building or an addition to an existing building, the construction must conform with the “National Earthquake Hazards Reduction Program (“NEHRP”) Recommended Provisions for the Development of Seismic Regulations for New Buildings” (which can be obtained from the Federal Emergency Management Agency, Publications Office, Washington, DC) or a code identified by SBA as being substantially equivalent.

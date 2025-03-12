@@ -1,0 +1,3 @@
+##### § 120.1801 Program purpose. #####
+
+Section 509 of the American Recovery and Reinvestment Act of 2009 (Recovery Act) authorizes SBA to temporarily make direct loans to broker-dealers to ensure the continued operation of the SBA Secondary Market for 7(a) small business loans guaranteed by SBA. Such broker-dealers are referred to in the Recovery Act as Systemically Important SBA Secondary Market Broker-Dealers.

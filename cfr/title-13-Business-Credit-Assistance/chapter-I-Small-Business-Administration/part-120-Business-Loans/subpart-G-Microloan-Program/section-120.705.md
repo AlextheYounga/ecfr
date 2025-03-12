@@ -1,0 +1,5 @@
+##### § 120.705 What is a Specialized Intermediary? #####
+
+At the end of an Intermediary's first year of participation in the program, SBA will determine whether it qualifies as a Specialized Intermediary. An Intermediary qualifies as a Specialized Intermediary if it maintains a portfolio of Microloans averaging $10,000 or less. Specialized Intermediaries qualify for more favorable interest rates on SBA loans. If, after the first year, an Intermediary qualifies as a Specialized Intermediary, the special interest rate is applied retroactively to SBA loans made to the Intermediary. After the first year SBA will determine an Intermediary's qualifications as a Specialized Intermediary annually, based on its lending practices during the term of its participation in the program. Specialized Intermediaries also qualify for a greater amount of technical assistance grant funding.
+
+[61 FR 3235, Jan. 31, 1996, as amended at 66 FR 47878, Sept. 14, 2001]

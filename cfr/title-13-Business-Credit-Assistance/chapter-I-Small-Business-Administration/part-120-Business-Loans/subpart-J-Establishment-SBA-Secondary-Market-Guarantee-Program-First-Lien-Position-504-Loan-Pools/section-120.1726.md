@@ -1,0 +1,3 @@
+##### § 120.1726 Pool Certificates a Seller cannot purchase. #####
+
+Neither a Seller, nor any of its Program Associates or Affiliates, may purchase a Pool Certificate that is backed by a Loan Interest in a Pool Loan that the Seller, or any of its Program Associates or Affiliates, originated or owned, and, in the event such purchase occurs, SBA's guarantee shall not be in effect with respect to any such Pool Certificate.

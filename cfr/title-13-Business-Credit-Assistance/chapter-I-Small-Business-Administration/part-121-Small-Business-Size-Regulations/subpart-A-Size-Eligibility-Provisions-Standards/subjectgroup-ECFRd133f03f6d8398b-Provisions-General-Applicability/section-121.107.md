@@ -1,0 +1,3 @@
+##### § 121.107 How does SBA determine a concern's “primary industry”? #####
+
+In determining the primary industry in which a concern or a concern combined with its affiliates is engaged, SBA considers the distribution of receipts, employees and costs of doing business among the different industries in which business operations occurred for the most recently completed fiscal year. SBA may also consider other factors, such as the distribution of patents, contract awards, and assets.

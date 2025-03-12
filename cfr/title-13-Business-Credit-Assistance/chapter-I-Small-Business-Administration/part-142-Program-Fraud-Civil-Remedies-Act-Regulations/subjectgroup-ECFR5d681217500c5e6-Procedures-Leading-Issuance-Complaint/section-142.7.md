@@ -1,0 +1,3 @@
+##### § 142.7 Who investigates program fraud? #####
+
+The Inspector General, or his designee, is responsible for investigating allegations that a false claim or statement has been made. In this regard, the Inspector General has authority under the Program Fraud Civil Remedies Act and the Inspector General Act of 1978 (5 U.S.C. App. 3), as amended, to issue administrative subpoenas for the production of records and documents. The methods for serving a subpoena are set forth in part 101 of this chapter.

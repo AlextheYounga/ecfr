@@ -1,0 +1,5 @@
+##### § 105.302 Assistance to employees or members of quasi-Government organizations. #####
+
+(a) The Standards of Conduct Committee must approve SBA Assistance, other than Disaster loans under subparagraphs (1) and (2) of section 7(b) of the Small Business Act, to a person if its sole proprietor, general partner, officer, director or stockholder with a 10 percent or more interest (or a household member) is a member or employee of a Small Business Advisory Council or is a SCORE volunteer.
+
+(b) In reviewing requests for approval, factors the Standards of Conduct Committee may consider include whether the granting of the SBA Assistance might result in or create the appearance of giving preferential treatment, the loss of complete independence or impartiality, or adversely affect the confidence of the public in the integrity of the Government.

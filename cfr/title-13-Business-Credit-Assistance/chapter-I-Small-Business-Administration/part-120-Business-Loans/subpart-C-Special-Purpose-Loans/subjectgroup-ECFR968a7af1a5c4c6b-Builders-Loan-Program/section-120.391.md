@@ -1,0 +1,3 @@
+##### § 120.391 What is the Builders Loan Program? #####
+
+Under section 7(a)(9) of the Act, SBA may make or guarantee loans to finance small general contractors to construct or rehabilitate residential or commercial property for resale. This program provides an exception under specified conditions to the general rule against financing investment property. “Construct” and “rehabilitate” mean only work done on-site to the structure, utility connections and landscaping.

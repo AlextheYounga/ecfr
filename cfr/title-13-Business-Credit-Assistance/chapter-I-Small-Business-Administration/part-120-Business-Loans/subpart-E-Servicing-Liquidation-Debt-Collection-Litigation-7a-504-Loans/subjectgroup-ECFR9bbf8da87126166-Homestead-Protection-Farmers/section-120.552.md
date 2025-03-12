@@ -1,0 +1,3 @@
+##### § 120.552 Lease. #####
+
+If approved, the applicant must personally occupy the residence during the term of the lease and pay a reasonable rent to SBA. The lease will be for a period of at least 3 years, but no more than 5 years. A lease of less than 5 years may be renewed, but not beyond 5 years from the original lease date. During or at the end of the lease period, the lessee has a right of first refusal to reacquire the homestead property under terms and conditions no less favorable than those offered to any other purchaser.

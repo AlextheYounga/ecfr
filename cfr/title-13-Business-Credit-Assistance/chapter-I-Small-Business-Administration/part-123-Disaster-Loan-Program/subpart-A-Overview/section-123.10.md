@@ -1,0 +1,3 @@
+##### § 123.10 What happens if I cannot use my insurance proceeds to make repairs? #####
+
+If you must pay insurance proceeds to the holder of a recorded lien or encumbrance against your damaged property instead of using them to make repairs, you may apply to SBA for the full amount needed to make such repairs. If you voluntarily pay insurance proceeds to a recorded lienholder, your loan eligibility is reduced by the amount of the voluntary payment.

@@ -1,0 +1,3 @@
+##### § 315.15 Conflicts of interest. #####
+
+EDA will provide no Adjustment Assistance to any Firm under this part unless the owners, partners, or officers execute an agreement binding them and the Firm for a period of two years after such Adjustment Assistance is provided, to refrain from employing, tendering any office or employment to, or retaining for professional services any Person who, on the date such assistance or any part thereof was provided, or within one year prior thereto, shall have served as an officer, attorney, agent, or employee occupying a position or engaging in activities which involved discretion with respect to the provision of such Adjustment Assistance.

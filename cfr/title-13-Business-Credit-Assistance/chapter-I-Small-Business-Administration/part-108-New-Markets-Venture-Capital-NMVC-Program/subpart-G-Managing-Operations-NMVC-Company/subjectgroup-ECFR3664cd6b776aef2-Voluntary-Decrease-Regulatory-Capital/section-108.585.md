@@ -1,0 +1,3 @@
+##### § 108.585 Voluntary decrease in NMVC Company's Regulatory Capital. #####
+
+You must obtain SBA's prior written approval to reduce your Regulatory Capital by more than two percent in any fiscal year. At all times, you must retain sufficient Regulatory Capital to meet the minimum capital requirements in the Act and § 108.210, and sufficient Leverageable Capital to avoid having excess Leverage in violation of section 355(d) of the Act.

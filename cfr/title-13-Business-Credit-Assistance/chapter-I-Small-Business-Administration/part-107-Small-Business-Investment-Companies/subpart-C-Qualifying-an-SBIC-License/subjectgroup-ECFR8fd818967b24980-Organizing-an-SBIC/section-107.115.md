@@ -1,0 +1,3 @@
+##### § 107.115 1940 Act and 1980 Act Companies. #####
+
+A 1940 Act or 1980 Act Company is eligible to apply for an SBIC license, and an existing Licensee is eligible to apply for SBA's approval to convert to a 1940 Act or 1980 Act Company. In either case, the 1940 Act or 1980 Act Company may elect to be taxed as a regulated investment company under section 851 of the Internal Revenue Code of 1986, as amended (26 U.S.C. 851). However, a Licensee making such election may make Distributions only as permitted under the applicable sections of this part (see the definition of Retained Earnings Available for Distribution, § 107.585, and §§ 107.1540 through 107.1580).

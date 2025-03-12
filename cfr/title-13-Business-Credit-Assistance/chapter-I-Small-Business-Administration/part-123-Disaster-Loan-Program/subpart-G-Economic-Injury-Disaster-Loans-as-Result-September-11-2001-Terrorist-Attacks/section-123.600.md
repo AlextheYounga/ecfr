@@ -1,0 +1,3 @@
+##### § 123.600 Are economic injury disaster loans under this subpart limited to the geographic areas contiguous to the declared disaster areas? #####
+
+No. Notwithstanding § 123.4, SBA may make economic injury disaster loans outside the declared disaster areas and the contiguous geographic areas to small business concerns that have suffered substantial economic injury as a direct result of the destruction of the World Trade Center or the damage to the Pentagon on September 11, 2001, or as a direct result of any related federal action taken between September 11, 2001 and October 22, 2001.

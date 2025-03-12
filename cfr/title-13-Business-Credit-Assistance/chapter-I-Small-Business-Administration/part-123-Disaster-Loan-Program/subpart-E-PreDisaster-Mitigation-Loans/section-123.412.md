@@ -1,0 +1,3 @@
+##### § 123.412 What happens if SBA declines your business' pre-disaster mitigation loan request? #####
+
+If SBA declines your business' loan request, SBA will notify your business in writing giving specific reasons for decline. If your business disagrees with SBA's decision, it may respond in accordance with § 123.13. If SBA reverses its decision, SBA will use the date it received your business' last request for reconsideration or appeal as the basis for determining the order of funding.

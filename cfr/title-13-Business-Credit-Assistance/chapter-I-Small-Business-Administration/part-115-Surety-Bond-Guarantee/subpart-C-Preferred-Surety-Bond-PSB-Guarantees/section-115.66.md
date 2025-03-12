@@ -1,0 +1,3 @@
+##### § 115.66 Fees. #####
+
+The PSB Surety must pay SBA a certain percentage of the Premium it charges on Final Bonds. The PSB Surety must also remit to SBA the Principal's payment for its guarantee fee, equal to a certain percentage of the Contract amount. The fee percentages are determined by SBA and are published in Notices in the Federal Register from time to time. Each fee is rounded to the nearest dollar. The Surety must remit SBA's Premium share and the Principal's guarantee fee with the bordereau listing the related Final Bond, as required in the PSB Agreement.

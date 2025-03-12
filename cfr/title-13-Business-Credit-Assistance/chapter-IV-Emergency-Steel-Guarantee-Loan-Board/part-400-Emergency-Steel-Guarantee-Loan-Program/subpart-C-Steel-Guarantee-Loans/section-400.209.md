@@ -1,0 +1,3 @@
+##### § 400.209 Funding for the Program. #####
+
+The Act provides funding for the costs incurred by the Government as a result of granting Guarantees under the Program. While pursuing the goals of the Act, it is the intent of the Board to minimize the cost of the Program to the Government. The Board will estimate the risk posed by the guaranteed loans to the funds appropriated for the costs of the Guarantees under the Program and operate the Program accordingly.

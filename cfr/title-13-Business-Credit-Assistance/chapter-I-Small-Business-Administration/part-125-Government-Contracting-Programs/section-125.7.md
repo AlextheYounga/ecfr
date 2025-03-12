@@ -1,0 +1,5 @@
+##### § 125.7 Acquisition-related dollar thresholds. #####
+
+The Federal Acquisition Regulatory Council (FAR Council) has the responsibility of adjusting each acquisition-related dollar threshold on October 1, of each year that is evenly divisible by five. Acquisition-related dollar thresholds are defined as dollar thresholds that are specified in law as a factor in defining the scope of the applicability of a policy, procedure, requirement, or restriction provided in that law to the procurement of property or services by an executive agency as determined by the FAR Council. 41 U.S.C. 431a(c). Part 125, Government Contracting Programs, contains acquisition-related dollar thresholds subject to inflationary adjustments. The FAR Council shall publish a notice of the adjusted dollar thresholds in the Federal Register. The adjusted dollar thresholds shall take effect on the date of publication.
+
+[74 FR 46887, Sept. 14, 2009]

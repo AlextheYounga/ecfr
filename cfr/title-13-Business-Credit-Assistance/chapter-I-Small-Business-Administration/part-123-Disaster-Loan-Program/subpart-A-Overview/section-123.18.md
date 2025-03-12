@@ -1,0 +1,7 @@
+##### § 123.18 Can I request an increase in the amount of a physical disaster loan? #####
+
+(a) Generally, SBA will consider your request for an increase in your loan if you can show that the eligible cost of repair or replacement of damages increased because of events occurring after the loan approval that were beyond your control. An eligible cost is one which is related to the disaster for which SBA issued the original loan. For example, if you discover hidden damage within a reasonable time after SBA approved your original disaster loan and before repair, renovation, or reconstruction is complete, you may request an increase. Or, if applicable building code requirements were changed since SBA approved your original loan, you may request an increase in your loan amount.
+
+(b) For all disasters occurring on or after November 25, 2015, you may also request an increase in your loan if you suffered substantial economic damage or substantial risks to health or safety as a result of malfeasance in connection with the repair or replacement of real property or business machinery and equipment for which SBA made a disaster loan. See § 123.105 for limits on home loan amounts and § 123.202 for limits on business loan amounts. Malfeasance may include, but is not limited to, nonperformance of all or any portion of the work for which a contractor was paid, work that does not meet acceptable standards, or use of substandard materials.
+
+[63 FR 15072, Mar. 30, 1998, as amended at 81 FR 67903, Oct. 3, 2016]

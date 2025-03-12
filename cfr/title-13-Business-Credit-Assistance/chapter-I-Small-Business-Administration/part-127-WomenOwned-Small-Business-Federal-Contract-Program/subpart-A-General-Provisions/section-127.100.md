@@ -1,0 +1,3 @@
+##### § 127.100 What is the purpose of this part? #####
+
+Section 8(m) of the Small Business Act authorizes certain procurement mechanisms to ensure that Women-Owned Small Businesses (WOSBs) have an equal opportunity to participate in Federal contracting. This part implements these mechanisms and ensures that the program created, referred to as the WOSB Program, is substantially related to this important Congressional goal in accordance with applicable law.

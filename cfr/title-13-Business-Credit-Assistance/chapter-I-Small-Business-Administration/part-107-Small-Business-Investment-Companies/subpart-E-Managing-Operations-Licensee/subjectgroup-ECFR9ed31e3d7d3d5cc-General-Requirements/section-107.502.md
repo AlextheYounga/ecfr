@@ -1,0 +1,3 @@
+##### § 107.502 Representations to the public. #####
+
+You may not represent or imply to anyone that the SBA, the U.S. Government or any of its agencies or officers has approved any ownership interests you have issued or obligations you have incurred. Be certain to include a statement to this effect in any solicitation to investors. Example: You may not represent or imply that “SBA stands behind the Licensee” or that “Your capital is safe because SBA's experts review proposed investments to make sure they are safe for the Licensee.”

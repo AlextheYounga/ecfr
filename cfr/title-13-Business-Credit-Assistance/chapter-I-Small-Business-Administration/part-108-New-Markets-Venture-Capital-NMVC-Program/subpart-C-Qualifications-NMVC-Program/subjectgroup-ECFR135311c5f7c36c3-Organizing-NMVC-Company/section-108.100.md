@@ -1,0 +1,3 @@
+##### § 108.100 Business form. #####
+
+A NMVC Company must be a newly formed for-profit entity or, subject to § 108.150, a newly formed for-profit subsidiary of an existing entity. It must be organized under State law solely for the purpose of performing the functions and conducting the activities contemplated under the Act. It may be organized as a corporation (“Corporate NMVC Company”), a limited partnership (“Partnership NMVC Company”), or a limited liability company (“LLC NMVC Company”).

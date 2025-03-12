@@ -1,0 +1,3 @@
+##### § 123.411 What if SBA determines that your business loan request meets the selection criteria of § 123.409 but SBA is unable to fund it because SBA has already allocated all program funds? #####
+
+If SBA determines that your business' loan request meets the selection criteria of § 123.409 but we are unable to fund it because we have already allocated all available program funds, your request will be given priority status, based on the original acceptance date, once more program funds become available. However, if more than 6 months pass since SBA determined to fund your request, SBA may request updated or additional financial information.

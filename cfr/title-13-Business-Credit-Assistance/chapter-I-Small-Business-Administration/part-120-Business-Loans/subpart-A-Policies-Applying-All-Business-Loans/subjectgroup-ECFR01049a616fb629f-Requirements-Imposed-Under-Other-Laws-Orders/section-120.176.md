@@ -1,0 +1,3 @@
+##### § 120.176 Compliance with other laws. #####
+
+All SBA loans are subject to all applicable laws, including (without limitation) the civil rights laws (*see* parts 112, 113, 117 and 136 of this chapter), prohibiting discrimination on the grounds of race, color, national origin, religion, sex, marital status, disability or age. SBA requests agreements or evidence to support or document compliance with these laws, including reports required by applicable statutes or the regulations in this chapter.

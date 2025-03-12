@@ -1,0 +1,5 @@
+##### § 305.1 Purpose and scope. #####
+
+Public Works and Economic Development Investments (“*Public Works Investments”*) intend to help the nation's most distressed communities revitalize, expand, and upgrade their physical infrastructure (as defined in § 301.11 of this chapter) to attract new industry, encourage business expansion, diversify local economies, and generate or retain long-term private sector jobs and investments. The primary goal of these Investments is to create new or retain existing, long-term private sector job opportunities in communities experiencing significant economic distress as evidenced by chronic high unemployment, underemployment, low per capita income, outmigration, or a Special Need. These Investments also intend to assist communities in attracting private capital investment and new and better job opportunities and to promote the successful long-term economic recovery of a Region.
+
+[79 FR 76131, Dec. 19, 2014]

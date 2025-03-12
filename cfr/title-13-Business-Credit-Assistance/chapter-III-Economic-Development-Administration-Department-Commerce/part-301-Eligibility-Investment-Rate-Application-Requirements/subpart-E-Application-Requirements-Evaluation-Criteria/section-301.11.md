@@ -1,0 +1,17 @@
+##### § 301.11 Infrastructure. #####
+
+(a) EDA will fund both construction and non-construction infrastructure necessary to meet a Region's strategic economic development goals and needs, which in turn results in job creation. This includes infrastructure used to develop and upgrade basic economic development assets as described in §§ 305.1 and 305.2 of this chapter, as well as infrastructure that supports innovation and entrepreneurship. The following are examples of innovation and entrepreneurship-related infrastructure that support job creation:
+
+(1) *Business Incubation.* Business incubation includes both physical facilities and business support services to advance the successful development of start-up companies by providing entrepreneurs with an array of targeted resources and services.
+
+(2) *Business Acceleration.* Business acceleration includes both physical facilities and an array of business support services to help new and existing businesses develop new processes or products, get products and services to market more efficiently, expand market opportunities, or increase sales and exports.
+
+(3) *Venture Development Organization.* A venture development organization (“*VDO*”) works to ensure that Regional economies operate as smoothly and efficiently as possible in support of innovation-based entrepreneurship. A VDO may make strategic investments of time, talent, and other resources toward innovation, entrepreneurship, and technology to help nurture and grow promising companies and ideas, thereby promoting and taking advantage of the innovation assets of a Region and addressing the needs of the high-growth, innovation-oriented start-up companies in the Region.
+
+(4) *Proof of Concept Center.* A proof of concept center serves as a hub of collaborative and entrepreneurial activity designed to accelerate the commercialization of innovations into the marketplace. Such centers support innovation-based, high growth entrepreneurship through a range of services, including technology and market evaluation, business planning and mentorship, network development, and early stage access to capital.
+
+(5) *Technology Transfer.* Technology transfer is the process of transferring scientific findings from one organization to another for the purpose of further development and commercialization. The process typically includes: Identifying new technologies; protecting technologies through patents and copyrights; and forming development and commercialization strategies, such as marketing and licensing, for existing private sector companies or creating start-up companies based on the technology.
+
+(b) In general, successful Projects, including innovation and entrepreneurship-related infrastructure, require the engagement of a broad range of Regional stakeholders and resources. Therefore through appropriate FFOs and program requirements, EDA will seek to advance interagency coordination by funding Projects that demonstrate effective leveraging of other Federal Agency resources based on a Region's strategic economic development goals and needs. For all types of Projects, EDA assistance may not be used to provide direct venture capital to a for-profit entity because of the restrictions set out in section 217 of PWEDA (42 U.S.C. 3154c) and part 309 of this chapter. Nonetheless, EDA may consider an application more competitive if it includes measures to address the need to provide entrepreneurs with access to early stage capital outside of the proposed EDA Project budget. *See* § 301.8(b).
+
+[79 FR 76127, Dec. 19, 2014]

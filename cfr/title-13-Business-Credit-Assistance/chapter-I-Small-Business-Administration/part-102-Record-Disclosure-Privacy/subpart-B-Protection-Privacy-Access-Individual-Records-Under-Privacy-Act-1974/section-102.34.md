@@ -1,0 +1,3 @@
+##### § 102.34 Contracts for the operation of record systems. #####
+
+When SBA contracts for the operation or maintenance of a system of records or a portion of a system of records by a contractor, the record system or the portion of the record affected, are considered to be maintained by the SBA, and subject to this subpart. The SBA is responsible for applying the requirements of this subpart to the contractor. The contractor and its employees are to be considered employees of the SBA for purposes of the sanction provisions of the Privacy Act during performance of the contract.

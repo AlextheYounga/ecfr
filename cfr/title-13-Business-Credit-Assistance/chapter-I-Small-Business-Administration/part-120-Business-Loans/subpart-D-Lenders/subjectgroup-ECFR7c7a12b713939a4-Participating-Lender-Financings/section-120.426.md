@@ -1,0 +1,5 @@
+##### § 120.426 What action will SBA take if a securitizer transfers the subordinated tranche prior to the termination of the holding period? #####
+
+If a securitizer transfers the subordinated tranche prior to the termination of the holding period, SBA will suspend immediately the securitizer's ability to make new 7(a) loans. The securitizer will have 30 calendar days to submit an explanation to Lender Oversight Committee (“Committee”). The Committee will have 30 calendar days to review the explanation and determine whether to lift the suspension. If an explanation is not received within 30 calendar days or the explanation is not satisfactory to the Committee, SBA may transfer the servicing of the applicable securitized loans, including the securitizers' servicing fee on the guaranteed and unguaranteed portions and the premium protection fee on the guaranteed portion, to another SBA participating Lender.
+
+[64 FR 6507, Feb. 10, 1999, as amended at 73 FR 75511, Dec. 11, 2008]

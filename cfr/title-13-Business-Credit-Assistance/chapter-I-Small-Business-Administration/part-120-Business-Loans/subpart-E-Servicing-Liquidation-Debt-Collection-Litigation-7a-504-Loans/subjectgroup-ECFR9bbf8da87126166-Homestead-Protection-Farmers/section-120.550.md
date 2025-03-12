@@ -1,0 +1,3 @@
+##### § 120.550 What is homestead protection for farmers? #####
+
+SBA may lease to a farmer-Borrower the farm residence occupied by the Borrower and a reasonable amount of adjoining property (no more than 10 acres and seven farm buildings), if they were acquired by SBA as a result of a defaulted farm loan made or guaranteed by SBA (*see* the Consolidated Farm and Rural Development Act, 7 U.S.C. 1921, for qualifying loan purposes).

@@ -1,0 +1,5 @@
+##### § 134.715 Can a Judge reconsider his decision? #####
+
+(a) The Judge may reconsider an appeal decision within twenty (20) calendar days after issuance of the written decision. Any party who has appeared in the proceeding, or SBA, may request reconsideration by filing with the Judge and serving a petition for reconsideration on all the parties to the appeal within twenty (20) calendar days after service of the written decision. The request for reconsideration must clearly show an error of fact or law material to the decision. The Judge may also reconsider a decision on his or her own initiative.
+
+(b) The Judge may remand a proceeding to the D/GC for a new WOSB or EDWOSB determination if the D/GC fails to address issues of decisional significance sufficiently, does not address all the relevant evidence, or does not identify specifically the evidence upon which it relied. Once remanded, OHA no longer has jurisdiction over the matter, unless a new appeal is filed as a result of the new WOSB or EDWOSB determination.

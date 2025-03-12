@@ -1,0 +1,33 @@
+##### § 121.411 What are the size procedures for SBA's Section 8(d) Subcontracting Program? #####
+
+Link to an amendment published at 81 FR 94250, Dec. 23, 2016.
+
+(a) Prime contractors may rely on the information contained in the System for Award Management (SAM) (or any successor system or equivalent database maintained or sanctioned by SBA) as an accurate representation of a concern's size and ownership characteristics for purposes of maintaining a small business source list.
+
+(b) Even if a concern is on a small business source list, it must still qualify and self-certify as a small business at the time it submits its offer as a section 8(d) subcontractor. Prime contractors may accept a subcontractor's electronic self-certifications as to size, if the subcontract contains a clause which provides that the subcontractor verifies by submission of the offer that the size or socioeconomic representations and certifications made in SAM (or any successor system) are current, accurate and complete as of the date of the offer for the subcontract. Prime contractors or subcontractors may not require the use of SAM (or any successor system) for purposes of representing size or socioeconomic status in connection with a subcontract.
+
+(c) Upon determination of the successful subcontract offeror for a competitive subcontract, but prior to award, the prime contractor must inform each unsuccessful subcontract offeror in writing of the name and location of the apparent successful offeror.
+
+(d) The self-certification of a concern subcontracting or proposing to subcontract under section 8(d) of the Small Business Act may be protested by the contracting officer, the prime contractor, the appropriate SBA official or any other interested party.
+
+(e) *Presumption of Loss Based on the Total Amount Expended.* In every contract, subcontract, cooperative agreement, cooperative research and development agreement, or grant which is set aside, reserved, or otherwise classified as intended for award to small business concerns, there shall be a presumption of loss to the United States based on the total amount expended on the contract, subcontract, cooperative agreement, cooperative research and development agreement, or grant whenever it is established that a business concern other than a small business concern willfully sought and received the award by misrepresentation.
+
+(f) *Deemed Certifications.* The following actions shall be deemed affirmative, willful and intentional certifications of small business size and status:
+
+(1) Submission of a bid, proposal, application or offer for a Federal grant, contract, subcontract, cooperative agreement, or cooperative research and development agreement reserved, set aside, or otherwise classified as intended for award to small business concerns.
+
+(2) Submission of a bid, proposal, application or offer for a Federal grant, contract, subcontract, cooperative agreement or cooperative research and development agreement which in any way encourages a Federal agency to classify the bid or proposal, if awarded, as an award to a small business concern.
+
+(3) Registration on any Federal electronic database for the purpose of being considered for award of a Federal grant, contract, subcontract, cooperative agreement, or cooperative research and development agreement, as a small business concern.
+
+(g) *Signature Requirement.* Each offer, proposal, bid, or application for a Federal contract, subcontract, or grant shall contain a certification concerning the small business size and status of a business concern seeking the Federal contract, subcontract or grant. An authorized official must sign the certification on the same page containing the size status claimed by the concern.
+
+(h) *Limitation of Liability.* Paragraphs (d) through (f) of this section may be determined not to apply in the case of unintentional errors, technical malfunctions, and other similar situations that demonstrate that a misrepresentation of size was not affirmative, intentional, willful or actionable under the False Claims Act, 31 U.S.C. §§ 3729, et seq. A prime contractor acting in good faith should not be held liable for misrepresentations made by its subcontractors regarding the subcontractors' size. Relevant factors to consider in making this determination may include the firm's internal management procedures governing size representation or certification, the clarity or ambiguity of the representation or certification requirement, and the efforts made to correct an incorrect or invalid representation or certification in a timely manner. An individual or firm may not be held liable where government personnel have erroneously identified a concern as small without any representation or certification having been made by the concern and where such identification is made without the knowledge of the individual or firm.
+
+(i) *Penalties for Misrepresentation.* (1) *Suspension or debarment.* The SBA suspension and debarment official or the agency suspension and debarment official may suspend or debar a person or concern for misrepresenting a firm's size status pursuant to the procedures set forth in 48 CFR subpart 9.4.
+
+(2) *Civil Penalties.* Persons or concerns are subject to severe penalties under the False Claims Act, 31 U.S.C. 3729-3733, the Program Fraud Civil Remedies Act, 31 U.S.C. 3801-3812 and any other applicable laws or regulations, including 13 CFR part 142.
+
+(3) *Criminal Penalties.* Persons or concerns are subject to severe criminal penalties for knowingly misrepresenting the small business size status of a concern in connection with procurement programs pursuant to section 16(d) of the Small Business Act, 15 U.S.C. 645(d), as amended, 18 U.S.C. 1001, 18 U.S.C. 287, and any other applicable laws. Persons or concerns are subject to criminal penalties for knowingly making false statements or misrepresentations to SBA for the purpose of influencing any actions of SBA pursuant to section 16(a) of the Small Business Act, 15 U.S.C. 645(a), as amended, including failure to correct “continuing representations” that are no longer true.
+
+[61 FR 3286, Jan. 31, 1996, as amended at 69 FR 29205, May 21, 2004; 78 FR 42403, July 16, 2013; 78 FR 38817, June 28, 2013; 79 FR 29661, May 23, 2014; 81 FR 31491, May 19, 2016]

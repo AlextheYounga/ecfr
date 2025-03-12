@@ -1,0 +1,3 @@
+##### § 107.1640 SBA access to records of the CRA, Brokers, Dealers and Pool or Trust assemblers. #####
+
+The CRA and any broker, dealer and Pool or Trust assembler operating under the regulations in this part shall make all books, records and related materials associated with Debentures, Participating Securities and TCs available to SBA for review and copying purposes. Such access shall be at such party's primary place of business during normal business hours.

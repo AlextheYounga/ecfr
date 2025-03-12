@@ -1,0 +1,3 @@
+##### § 120.412 Other services Lenders may provide Borrowers. #####
+
+Subject to § 120.140 Lenders, their Associates or the designees of either may provide services to and contract for goods with a Borrower only after full disbursement of the loan to the small business or to an account not controlled by the Lender, its Associate, or the designee. A Lender, an Associate, or a designee providing such services must do so under a written contract with the small business, based on time and hourly charges, and must maintain time and billing records for examination by SBA. Fees cannot exceed those charged by established professional consultants providing similar services. *See also* § 120.195.

@@ -1,0 +1,7 @@
+##### § 120.131 Leasing part of new construction or existing building to another business. #####
+
+(a) If the SBA financing (whether 7(a) or 504) is for the construction of a new building, a Borrower may permanently lease up to 20 percent of the Rentable Property to one or more tenants if the Borrower permanently occupies and uses no less than 60 percent of the Rentable Property, and plans to permanently occupy and use within three years some of the remaining space not immediately occupied and not permanently leased and plans to permanently occupy and use within ten years all of the remaining space not permanently leased. If the Borrower is an Eligible Passive Company which leases 100 percent of the new building's space to one or more Operating Companies, the Operating Company, or Operating Companies together, must follow the same rules set forth in this paragraph.
+
+(b) If the SBA financing (whether 7(a) or 504) is for the acquisition, renovation, or reconstruction of an existing building, the Borrower may permanently lease up to 49 percent of the Rentable Property if the Borrower permanently occupies and uses no less than 51 percent of the Rentable Property. If the Borrower is an Eligible Passive Company which leases 100 percent of the space of the existing building to one or more Operating Companies, the Operating Company, or Operating Companies together, must follow the same rules set forth in this paragraph.
+
+[68 FR 51679, Aug. 28, 2003]

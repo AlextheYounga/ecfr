@@ -1,0 +1,3 @@
+##### § 134.508 What is the standard of review? #####
+
+The standard of review for an appeal of a SDVO SBC protest determination is whether the D/GC's determination was based on clear error of fact or law. With respect to status determinations on whether the owner is a veteran, service-disabled veteran, or veteran with a permanent and severe disability, the Judge will not review the determinations made by the U.S. Department of Veteran's Affairs, U.S. Department of Defense, or such determinations identified by documents provided by the U.S. National Archives and Records Administration.

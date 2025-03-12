@@ -1,0 +1,5 @@
+##### § 109.450 SBA review of ILP Intermediary loans to Eligible Small Business Concerns. #####
+
+(a) *Review restrictions.* SBA does not review loans made by an ILP Intermediary under this program before approval of the loan by the ILP Intermediary. The ILP Intermediary is responsible for all loan decisions regarding eligibility (including size).
+
+(b) *Subsequent review.* SBA will periodically review loans made by an ILP Intermediary after approval of the loan by the ILP Intermediary as part of the on-site and off-site reviews described in § 109.510. If SBA discovers that an ILP Intermediary has made a loan under this program to an ineligible business or for an ineligible purpose, SBA will require the ILP Intermediary to refinance the ineligible loan with non-ILP program funds and to deposit into its ILP Relending Fund an amount equal to the outstanding principal balance on the ineligible loan.

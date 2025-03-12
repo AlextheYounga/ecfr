@@ -1,0 +1,3 @@
+##### § 103.3 May SBA suspend or revoke an Agent's privilege? #####
+
+The Administrator of SBA or designee may, for good cause, suspend or revoke the privilege of any Agent to conduct business with SBA. Part 134 of this chapter states the procedures for appealing the decision to suspend or revoke the privilege. The suspension or revocation remains in effect during the pendency of any administrative proceedings under part 134 of this chapter.

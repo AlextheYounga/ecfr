@@ -1,0 +1,5 @@
+##### § 114.108 What if my claim is approved? #####
+
+SBA will notify you in writing if it approves your claim. The District Counsel or Disaster Area Counsel investigating your claim will forward to you, your agent or legal representative the forms necessary to indicate satisfaction of your claim and your acceptance of the payment. Acceptance by you, your agent or your legal representative of any award, compromise or settlement releases all your claims against the United States under the Federal Tort Claims Act. This means that it binds you, your agent or your legal representative, and any other person on whose behalf or for whose benefit the claim was presented. It also constitutes a complete release of your claim against the United States and its employees. If you are represented by counsel, SBA will designate you and your counsel as joint payees and will deliver the check to counsel. Payment is contingent upon the waiver of your claim and is subject to the availability of appropriated funds.
+
+[64 FR 40283, July 26, 1999]

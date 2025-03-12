@@ -1,0 +1,3 @@
+##### § 107.1700 Transfer by SBA of its interest in Licensee's Leverage security. #####
+
+Upon such conditions and for such consideration as it deems reasonable, SBA may sell, assign, transfer, or otherwise dispose of any Preferred Security, Debenture, Participating Security, or other security held by or on behalf of SBA in connection with Leverage. Upon notice by SBA, Licensee will make all payments of principal, dividends, interest, Prioritized Payments, and redemptions as shall be directed by SBA. Licensee will be liable for all damage or loss which SBA may sustain by reason of such disposal, up to the amount of Licensee's liability under such security, plus court costs and reasonable attorney's fees incurred by SBA.

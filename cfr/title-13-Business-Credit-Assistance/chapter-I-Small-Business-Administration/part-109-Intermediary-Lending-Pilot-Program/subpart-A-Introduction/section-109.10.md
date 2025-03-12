@@ -1,0 +1,3 @@
+##### § 109.10 Description of the Intermediary Lending Pilot program. #####
+
+The Small Business Intermediary Lending Pilot program (ILP program) provides direct loans to ILP Intermediaries to make loans of up to $200,000 to startup, newly established, or growing small businesses. ILP Intermediaries continue to relend a portion of the payments received on small business loans made under the program until they have fully repaid their loans to SBA.

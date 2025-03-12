@@ -1,0 +1,3 @@
+##### § 134.221 Prehearing conferences. #####
+
+Prior to a hearing, the Judge, at his or her own initiative, or upon the motion of any party, may direct the parties or their attorneys to appear, by telephone or in person, in order to consider any matter which may assist in the efficient, prompt, and fair determination of the case. The conference may be recorded verbatim at the discretion of the Judge, and, if so, a party may purchase a transcript, at its own expense, from the recording service.

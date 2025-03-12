@@ -1,0 +1,3 @@
+##### § 108.400 Changes in ownership of 10 percent or more of NMVC Company but no change of Control. #####
+
+You must obtain SBA's prior written approval for any proposed transfer or issuance of ownership interests that results in the ownership (beneficial or of record) by any Person, or group of Persons acting in concert, of at least 10 percent of any class of your stock, partnership capital or membership interests.

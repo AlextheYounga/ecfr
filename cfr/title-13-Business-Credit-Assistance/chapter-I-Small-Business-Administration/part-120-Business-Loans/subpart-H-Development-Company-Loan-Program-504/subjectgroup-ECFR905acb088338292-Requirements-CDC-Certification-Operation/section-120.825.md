@@ -1,0 +1,5 @@
+##### § 120.825 Financial ability to operate. #####
+
+A CDC must be able to sustain its operations continuously, with reliable sources of funds (such as income from services rendered and contributions from government or other sponsors). Any funds generated from 503 and 504 loan activity by a CDC remaining after payment of staff and overhead expenses must be retained by the CDC as a reserve for future operations or for investment in other local economic development activity in its Area of Operations. If a CDC is operating as a Multi-State CDC, it must maintain a separate accounting for each State of all 504 fee income and expenses and provide, upon SBA's request, evidence that the funds resulting from its Multi-State CDC operations are being invested in economic development activities in each State in which they were generated.
+
+[65 FR 42633, July 11, 2000]

@@ -1,0 +1,3 @@
+##### § 120.1718 SBA's right to assume Seller's responsibilities. #####
+
+SBA may, in its sole discretion, undertake the servicing, liquidation and/or litigation of Seller's Pool Loan at any time and, in such event, Seller must take any steps necessary to facilitate the assumption by SBA of such responsibilities, which can be transferred by SBA at its discretion to a contractor, agent or other entity, and such steps shall include, among other things, providing or assigning to SBA any documents requested by SBA within 15 calendar days of Seller's receipt of such request. SBA will notify the Obligor of the change in servicing.

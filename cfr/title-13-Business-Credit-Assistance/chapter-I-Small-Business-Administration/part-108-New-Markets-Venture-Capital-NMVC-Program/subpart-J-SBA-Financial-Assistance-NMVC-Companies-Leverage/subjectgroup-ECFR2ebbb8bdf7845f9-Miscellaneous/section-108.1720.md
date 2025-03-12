@@ -1,0 +1,3 @@
+##### § 108.1720 Characteristics of SBA's guarantee. #####
+
+If SBA agrees to guarantee a NMVC Company's Debentures, such guarantee will be unconditional, irrespective of the validity, regularity or enforceability of the Debentures or any other circumstances that might constitute a legal or equitable discharge or defense of a guarantor. Pursuant to its guarantee, SBA will make timely payments of principal and interest on the Debentures.

@@ -1,0 +1,9 @@
+##### § 120.1880 How will the loan be repaid? #####
+
+(a)The monthly payments of principal and interest, any partial or full repayments, and any Lender purchases of defaulted loans on Certificates that have been pledged as collateral to secure an SISMBD Loan will be assigned by the SISMBD and will be paid by the Lender into a segregated account at the FTA under SBA's ownership and control. The FTA will forward such payments to SBA or its loan servicing agent as directed by SBA. The payments will be used to repay the SISMBD Loan.
+
+(b) When the SISMBD forms a Pool with Certificates pledged as Collateral for an SISMBD Loan or transfers a pledged Certificate, all proceeds, including the principal and accrued interest balance of the SISMBD Loan associated with the pledged Certificates, must be repaid to SBA as payment on the SISMBD Loan before SBA will approve the transfer, release any Collateral and terminate its security interest therein. SBA will not approve any transfers of Guaranteed Portions or Certificates at less than the par value or the original purchase price of the specific Guaranteed Portion or Certificate.
+
+(c) To the extent that SBA is required to make a payment on its guaranty of a Certificate, SBA will reduce the SISMBD Loan balance.
+
+(d) If the SISMBD Loan has a balance when a payment is required or when the SISMBD Loan matures, the SISMBD may make any required payment, pay the loan in full if it has matured and obtain possession of the Collateral, or SBA may exercise its rights under the Loan Agreements which may include terminating availability under the loan, accelerating the loan and demanding full repayment from the SISMBD, and selling all Collateral. The proceeds from the sale of the Collateral will be used to repay the SISMBD Loan and the SISMBD will be responsible for any remaining unpaid loan deficiency balance.

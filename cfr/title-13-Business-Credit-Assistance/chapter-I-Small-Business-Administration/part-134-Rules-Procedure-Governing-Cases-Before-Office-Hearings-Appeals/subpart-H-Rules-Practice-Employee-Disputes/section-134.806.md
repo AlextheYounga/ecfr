@@ -1,0 +1,3 @@
+##### § 134.806 Mediation. #####
+
+Either the Employee or the SBA may request mediation, or OHA may offer mediation. OHA may designate a Judge or an OHA attorney to serve as a mediator. If the parties reach a settlement through mediation, they may file a joint motion to dismiss the appeal based on that settlement. If the parties do not reach a settlement, the mediation will conclude and the appeal will go to adjudication. An OHA-provided mediator will not be involved in a subsequent adjudication.

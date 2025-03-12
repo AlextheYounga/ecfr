@@ -1,0 +1,3 @@
+##### § 115.1 Overview of regulations. #####
+
+The regulations in this part cover the SBA's Surety Bond Guarantee Programs under Part B of Title IV of the Small Business Investment Act of 1958, as amended. Subpart A of this part contains regulations common to both the program requiring prior SBA approval of each bond guarantee (the Prior Approval Program) and the program not requiring prior approval (the PSB Program). Subpart B of this part contains the regulations applicable only to the Prior Approval Program. Subpart C of this part contains the regulations applicable only to the PSB Program.

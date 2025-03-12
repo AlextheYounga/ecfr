@@ -1,0 +1,3 @@
+##### § 101.100 What is the purpose of SBA? #####
+
+The U.S. Small Business Administration (SBA) aids, counsels, assists, and protects the interests of small business concerns, and advocates on their behalf within the Government. It also helps victims of disasters. It provides financial assistance, contractual assistance, and business development assistance. For a more detailed description of the functions of SBA see The United States Government Manual, a special publication of the Federal Register, which is available from Superintendent of Documents, P.O. Box 371954, Pittsburgh, PA 15250-7954.

@@ -1,0 +1,3 @@
+##### § 127.601 May a protest challenging the size and status of a concern as an EDWOSB or WOSB be filed together? #####
+
+An interested party seeking to protest both the size and the EDWOSB or WOSB status of an apparent successful offeror on an EDWOSB or WOSB requirement must file two separate protests, one size protest pursuant to part 121 of this chapter and one EDWOSB or WOSB status protest pursuant to this subpart. An interested party seeking to protest only the size of an apparent successful EDWOSB or WOSB offeror must file a size protest to the contracting officer pursuant to part 121 of this chapter.

@@ -1,0 +1,3 @@
+##### § 500.106 Ex parte communications. #####
+
+Oral or written communication, not on the public record, between the Board, or any member of the Board, and any party or parties interested in any matter pending before the Board concerning the substance of that matter is prohibited. This section also applies to the Board's staff and employees of the constituent agencies who are or reasonably may be expected to be involved in the decisional process of the matter pending before the Board.

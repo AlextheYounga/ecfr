@@ -1,0 +1,3 @@
+##### § 120.1831 Is there a limit to the number of SISMBD Loans or advances that an SISMBD may request from SBA? #####
+
+No, there is no limit to the frequency in which an SISMBD may borrow under the Secondary Market Loan Program unless the Administrator determines that doing so would create an undue risk of loss to SBA or the United States. In order to mitigate the risk of loss, SBA has determined that an SISMBD may request an unlimited number of loans or advances as long as the balance outstanding on the SISMBD Loan does not exceed the total dollar limit stated in the Commitment Letter. SISMBD Loans will be structured as a revolving line of credit.

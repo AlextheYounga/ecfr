@@ -1,0 +1,7 @@
+##### § 115.15 Underwriting and servicing standards. #####
+
+(a) *Underwriting.* (1) Sureties must evaluate the credit, capacity, and character of a Principal using standards generally accepted by the surety industry and in accordance with SBA's Standard Operating Procedures on underwriting and the Surety's principles and practices on unguaranteed bonds. The Principal must satisfy the eligibility requirements set forth in § 115.13. The Surety must reasonably expect that the Principal will successfully perform the Contract to be bonded.
+
+(2) The terms and conditions of the bond and the Contract must be reasonable in light of the risks involved and the extent of the Surety's participation. The bond must satisfy the eligibility requirements set forth in § 115.12(b). The Surety must be satisfied as to the reasonableness of cost and the feasibility of successful completion of the Contract.
+
+(b) *Servicing.* The Surety must ensure that the Principal remains viable and eligible for SBA's Surety Bond Guarantee Program, must monitor the Principal's progress on bonded Contracts guaranteed by SBA, and must request job status reports from Obligees of Final Bonds guaranteed by SBA. Documentation of the job status requests must be maintained by the Surety.

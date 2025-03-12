@@ -1,0 +1,3 @@
+##### § 123.410 Which loan requests will SBA fund? #####
+
+SBA will date stamp each application (loan request) as it is received. SBA will fund loan requests which meet the selection criteria specified in § 123.409 on a first come, first served basis using this date stamp, until it has allocated all available program funds. Multiple applications received on the same day will be ranked by a computer based random selection system to determine their funding order. SBA will notify you in writing of its funding decision.

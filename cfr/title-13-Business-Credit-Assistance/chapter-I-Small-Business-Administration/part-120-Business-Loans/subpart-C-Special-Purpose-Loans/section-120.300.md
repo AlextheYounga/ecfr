@@ -1,0 +1,3 @@
+##### § 120.300 Statutory authority. #####
+
+Congress has authorized several special purpose programs in various subsections of section 7(a) of the Act. Generally, 7(a) loan policies, eligibility requirements and credit criteria enumerated in subpart B of this part apply to these programs. The sections of this subpart prescribe the special conditions applying to each special purpose program. As with other business loans, special purpose loans are available only to the extent funded by annual appropriations.

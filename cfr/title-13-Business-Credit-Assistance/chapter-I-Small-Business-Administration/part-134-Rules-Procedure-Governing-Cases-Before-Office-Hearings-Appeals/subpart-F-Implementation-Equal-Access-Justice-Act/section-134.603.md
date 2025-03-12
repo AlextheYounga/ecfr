@@ -1,0 +1,3 @@
+##### § 134.603 What is an adversary adjudication? #####
+
+For purposes of this subpart, adversary adjudications are administrative proceedings before OHA which involve SBA as a party and which are required to be conducted by an Administrative Law Judge (“ALJ”). These adjudications (“administrative proceedings”) include those proceedings listed in § 134.102 (a), (i), and (j)(1), but do not include other OHA proceedings such as those listed in § 134.102(k). In order for an administrative proceeding to qualify, SBA must have been represented by counsel or by another representative who enters an appearance and participates in the proceeding.

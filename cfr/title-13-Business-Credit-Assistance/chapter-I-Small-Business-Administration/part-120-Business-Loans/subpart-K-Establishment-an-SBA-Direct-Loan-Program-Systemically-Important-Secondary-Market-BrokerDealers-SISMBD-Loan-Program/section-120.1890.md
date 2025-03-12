@@ -1,0 +1,3 @@
+##### § 120.1890 What is the maturity on a SISMBD Loan from SBA? #####
+
+The maximum maturity for an SISMBD Loan will be determined by SBA but must be no later than February 16, 2013. If the maturity of the Collateral is shorter than the maturity of the SISMBD Loan, the SISMBD Loan will be due and payable upon payment in full of the Collateral. If the SISMBD Loan has a balance on its maturity date, the SISMBD must pay the loan in full or SBA will exercise any or all of its rights as described in § 120.1830(g) or § 120.1882(a).

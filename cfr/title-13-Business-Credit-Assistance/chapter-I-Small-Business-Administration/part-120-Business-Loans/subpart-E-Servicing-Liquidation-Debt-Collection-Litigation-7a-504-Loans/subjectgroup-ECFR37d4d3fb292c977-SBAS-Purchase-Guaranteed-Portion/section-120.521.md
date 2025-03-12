@@ -1,0 +1,3 @@
+##### § 120.521 What interest rate applies after SBA purchases its guaranteed portion? #####
+
+When SBA purchases the guaranteed portion of a fixed interest rate loan, the rate of interest remains as stated in the note. On loans with a fluctuating interest rate, the interest rate that the Borrower owes will be at the rate in effect at the time of the earliest uncured payment default, or the rate in effect at the time of purchase (where no default has occurred).

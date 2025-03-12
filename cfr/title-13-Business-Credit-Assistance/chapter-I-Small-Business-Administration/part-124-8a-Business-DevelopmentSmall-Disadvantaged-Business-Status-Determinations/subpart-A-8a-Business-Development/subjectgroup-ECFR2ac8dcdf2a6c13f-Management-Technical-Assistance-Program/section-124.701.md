@@ -1,0 +1,3 @@
+##### § 124.701 What is the purpose of the 7(j) management and technical assistance program? #####
+
+Section 7(j)(1) of the Small Business Act, 15 U.S.C. 636(j)(1), authorizes SBA to enter into grants, cooperative agreements, or contracts with public or private organizations to pay all or part of the cost of technical or management assistance for individuals or concerns eligible for assistance under sections 7(a)(11), 7(j)(10), or 8(a) of the Small Business Act.

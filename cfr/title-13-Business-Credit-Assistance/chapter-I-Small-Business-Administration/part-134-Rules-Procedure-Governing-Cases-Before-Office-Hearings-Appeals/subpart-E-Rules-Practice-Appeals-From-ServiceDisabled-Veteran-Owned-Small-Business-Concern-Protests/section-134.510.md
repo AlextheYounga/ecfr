@@ -1,0 +1,3 @@
+##### § 134.510 Who can file a response to an appeal petition and when must such a response be filed? #####
+
+Although not required, any person served with an appeal petition may file and serve a response supporting or opposing the appeal if he or she wishes to do so. If a person decides to file a response, the response must be filed within 7 business days after service of the appeal petition. The response should present argument.

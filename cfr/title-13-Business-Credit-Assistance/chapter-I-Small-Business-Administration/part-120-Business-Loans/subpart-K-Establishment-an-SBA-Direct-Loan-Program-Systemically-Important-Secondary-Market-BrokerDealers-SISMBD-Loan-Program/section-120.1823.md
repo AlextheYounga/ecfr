@@ -1,0 +1,5 @@
+##### § 120.1823 Creditworthiness. #####
+
+(a) Prior to approval of any SISMBD Loan Application or any advance under an SISMBD Loan, SBA shall consider the creditworthiness of the SISMBD. The SISMBD must be creditworthy in order to be approved for an SISMBD Loan or any advance under an SISMBD Loan.
+
+(b) Specific evidence of a lack of creditworthiness includes but is not limited to: Insolvency as defined in the Bankruptcy Code, failure to adhere to the terms of a previous SISMBD Loan, excessive dependence on borrowed funds, violations of the SBA Secondary Market rules, regulations and procedures, the effect any affiliates of the SISMBD may have on the ultimate repayment ability of the SISMBD, or any other relevant factor indicating a less than satisfactory condition or lack of repayment ability. The presence of one or more of these characteristics will not necessarily mean that an SISMBD is not creditworthy but may cause the partial or complete denial of a SISMBD Loan application.

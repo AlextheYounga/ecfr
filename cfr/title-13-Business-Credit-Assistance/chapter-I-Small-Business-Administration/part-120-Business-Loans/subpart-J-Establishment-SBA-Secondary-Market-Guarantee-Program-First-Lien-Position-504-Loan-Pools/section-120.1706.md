@@ -1,0 +1,3 @@
+##### § 120.1706 Pool Originator's retained interest in Pool. #####
+
+The Pool Originator must retain an ownership interest in any Pool it has formed that is equal to at least 5% of the aggregate of the total outstanding principal balance of each Pool Loan with a Loan Interest in the Pool as calculated at the time of Pool formation. Such interest will decline with Loan Interest payments, prepayments, defaults and any other early termination. At Pool formation, the CSA will issue the Pool Originator a Pool Originator Receipt evidencing the Pool Originator's retained interest in the Pool. The Pool Originator may not sell, pledge, participate, or otherwise transfer its Pool Originator Receipt or any interest therein for the life of the Pool.

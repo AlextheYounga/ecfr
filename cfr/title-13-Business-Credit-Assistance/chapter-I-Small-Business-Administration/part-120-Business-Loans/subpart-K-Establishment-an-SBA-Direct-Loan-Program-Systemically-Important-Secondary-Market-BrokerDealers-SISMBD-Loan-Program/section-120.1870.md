@@ -1,0 +1,3 @@
+##### § 120.1870 How does the SISMBD provide funds for the Premium? #####
+
+If the SISMBD is paying a Premium for a Guaranteed Portion, an Individual Certificate or a Pool Certificate, it must use its own funds or other borrowed funds to cover the Premium. The SISMBD must send Premium payments to the FTA on or before the settlement date. The FTA will forward Premium payments to the selling SBA Lender or Registered Holder along with the SISMBD Loan funds. In this program, “Premium” is defined as any amount in excess of the principal balance of a Guaranteed Portion or of a Certificate balance.

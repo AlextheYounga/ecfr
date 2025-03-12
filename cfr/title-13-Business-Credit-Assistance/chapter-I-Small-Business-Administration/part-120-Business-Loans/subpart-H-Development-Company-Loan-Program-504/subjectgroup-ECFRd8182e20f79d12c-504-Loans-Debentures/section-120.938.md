@@ -1,0 +1,5 @@
+##### § 120.938 Default. #####
+
+(a) Upon occurrence of an event of default specified in the 504 note which requires automatic acceleration, the note becomes due and payable. Upon occurrence of an event of default which does not require automatic acceleration, SBA may forbear acceleration of the note and attempt to resolve the default. If the default is not cured subsequently, the note shall be accelerated. In either case, upon acceleration of the note, the Debenture which funded it is also due immediately, and SBA must honor its guarantee of the Debenture. SBA shall not reimburse the investor for any premium paid.
+
+(b) If a CDC defaults on a Debenture, SBA generally shall limit its recovery to the payments made by the small business to the CDC on the loan made from the Debenture proceeds, and the collateral securing the defaulted loan. However, SBA will look to the CDC for the entire amount of the Debenture in the case of fraud, negligence, or misrepresentation by the CDC.

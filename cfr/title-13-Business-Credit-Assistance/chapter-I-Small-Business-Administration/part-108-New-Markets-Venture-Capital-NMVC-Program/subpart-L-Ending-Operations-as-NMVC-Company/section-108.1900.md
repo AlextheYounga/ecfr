@@ -1,0 +1,3 @@
+##### § 108.1900 Termination of participation as a NMVC Company. #####
+
+You may not terminate your participation as a NMVC Company without SBA's prior written approval. Your request for approval must be accompanied by an offer of immediate repayment of all of your outstanding Leverage (including any prepayment penalties thereon), or by a plan satisfactory to SBA for the orderly liquidation of the NMVC Company.

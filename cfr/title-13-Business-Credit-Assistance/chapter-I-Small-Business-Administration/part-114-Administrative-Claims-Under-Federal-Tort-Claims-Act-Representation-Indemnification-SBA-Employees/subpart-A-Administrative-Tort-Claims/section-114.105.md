@@ -1,0 +1,9 @@
+##### § 114.105 Who investigates and considers my claim? #####
+
+(a) SBA may investigate, or ask another Federal agency to investigate, your claim. SBA also may request any Federal agency to conduct a physical examination of you and provide a report to SBA. SBA will reimburse the Federal agency for the costs of that examination when authorized or required by statute or regulation.
+
+(b) In those cases in which SBA investigates your claim, and which arise out of the acts or omissions of employees other than employees of the Disaster Assistance Program, the SBA District Counsel in the office with jurisdiction over the site where the action giving rise to the claim occurred will investigate and make recommendations or determination with respect to your claim. In those cases in which SBA investigates your claim, and which arise out of acts or omissions of Disaster Assistance Program employees, the SBA Disaster Area Counsel in the office with jurisdiction over the site where the action giving rise to the claim occurred will investigate and make recommendations or a determination with respect to your claim. The District Counsel, or Disaster Area Counsel, where appropriate, may negotiate with you, and is authorized to use alternative dispute resolution mechanisms, which are nonbinding on SBA, when they may promote the prompt, fair and efficient resolution of your claim.
+
+(c) If your claim is for $5,000 or less, the District Counsel or Disaster Area Counsel who investigates your claim may deny the claim, or may recommend approval, compromise, or settlement of the claim to the Associate General Counsel for Litigation, who will in such a case take final action.
+
+[61 FR 2401, Jan. 26, 1996, as amended at 64 FR 40283, July 26, 1999]

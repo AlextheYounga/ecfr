@@ -1,0 +1,3 @@
+##### § 136.151 Program accessibility: New construction and alterations. #####
+
+Each building or part of a building that is constructed or altered by, on behalf if, or for the use of the Agency shall be designed, constructed, or altered so as to be readily accessible to and usable by individuals with handicaps. The definitions, requirements, and standards of the Architectural Barriers Act (42 U.S.C. 4151-4157), as established in 41 CFR 101-19.600—101-19.607, apply to buildings covered by this section.

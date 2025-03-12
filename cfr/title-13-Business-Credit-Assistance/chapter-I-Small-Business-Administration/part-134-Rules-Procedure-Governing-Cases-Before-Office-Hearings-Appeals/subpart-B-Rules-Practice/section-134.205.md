@@ -1,0 +1,15 @@
+##### § 134.205 The appeal file, confidential information, and protective orders. #####
+
+(a) *The appeal file.* The appeal file includes: all pleadings and other submissions; all admitted evidence; any recordings and transcripts of proceedings; the solicitation and amendments; in the case of an appeal of an SBA determination, the entire record on which that determination was based (*i.e.,* the administrative record, protest file, area office file); and any orders and decisions that have been issued.
+
+(b) *Confidential business and financial information.* An appeal file usually contains confidential business and financial information pertaining to the party whose eligibility (as a small business, SDVO SBC, etc.) is at issue. A party may redact its own confidential business and financial information from the copies of its submissions it must serve on other non-government parties (usually protesters). A party served with redacted submissions must file and serve any objections to the redactions within two business days of its receipt of the submissions. The Judge then will rule on the objections and, if necessary, order the service of revised submissions.
+
+(c) *Public access.* Except for confidential business and financial information, source selection sensitive information, income tax returns, and other exempt information, the appeal file is available to the public pursuant to the Freedom of Information Act (FOIA), 5 U.S.C. 552.
+
+(d) *Party access.* A party in a pending appeal may examine and copy the party's own submissions as well as any information in the appeal file that is not exempt from disclosure under the FOIA. Party access to the appeal file in a pending appeal does not require a FOIA request or a protective order.
+
+(e) *Counsel's access under a protective order.* On request, OHA will issue a protective order under which outside counsel for a non-government party in a pending appeal may be admitted, to examine and copy the appeal file (except for tax returns and privileged information). The protective order will set out the terms to which counsel must agree. The terms will restrict counsel's use of the protected information to the pending appeal and will prohibit any further disclosure. Violations of the terms of a protective order may result in sanctions to the party and referral of the attorney to bar disciplinary authorities. OHA's Web site contains detailed information on the protective order procedure.
+
+(f) *Decisions.* OHA decisions are normally published without redactions on OHA's Web site. A decision may contain confidential business and financial information where that information is either decisionally-significant or otherwise necessary for a comprehensible decision. Where no protective order is in place, a party may request a redacted public decision by contacting OHA. Where a protective order is in place, the Judge will usually issue the unredacted decision under the protective order and then a redacted version for public release.
+
+[75 FR 47440, Aug. 6, 2010]

@@ -1,0 +1,3 @@
+##### § 108.350 Eligibility and completeness. #####
+
+SBA will not consider any application that is not complete or that is submitted by an Applicant that does not meet the eligibility criteria described in subpart C of this part. SBA, at its sole discretion, may request from an Applicant additional information concerning eligibility criteria or easily completed portions of the application in order to allow SBA to consider that Applicant's application.

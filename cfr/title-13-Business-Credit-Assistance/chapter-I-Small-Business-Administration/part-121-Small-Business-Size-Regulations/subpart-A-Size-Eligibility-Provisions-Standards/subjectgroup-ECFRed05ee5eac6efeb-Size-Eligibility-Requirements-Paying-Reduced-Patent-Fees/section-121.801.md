@@ -1,0 +1,3 @@
+##### § 121.801 May patent fees be reduced if a concern is small? #####
+
+These sections apply to size status for the purpose of paying reduced patent fees authorized by Pub. L. 97-247, 96 Stat. 317. The eligibility requirements for independent inventors and nonprofit organizations for the purpose of paying reduced patent fees are set forth in regulations of the Patent and Trademark Office of the Department of Commerce, 37 CFR 1.9, 1.27, 1.28.
