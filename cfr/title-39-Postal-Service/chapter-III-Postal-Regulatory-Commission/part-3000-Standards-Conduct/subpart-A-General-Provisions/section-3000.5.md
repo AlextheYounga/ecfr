@@ -1,5 +1,7 @@
 ##### § 3000.5 Post-employment restrictions. #####
 
+Link to an amendment published at 85 FR 9616, Feb. 19, 2020.
+
 All former employees of the Postal Regulatory Commission (Commission) are subject to the following restrictions on appearance and practice before the Commission on behalf of any participant, including the United States Postal Service (Postal Service):
 
 (a) No former employee of the Commission may practice or act as an attorney, expert witness, or representative in connection with any proceeding or matter before the Commission that the former employee has handled, advised, or participated in the consideration of while in the service of the Commission.

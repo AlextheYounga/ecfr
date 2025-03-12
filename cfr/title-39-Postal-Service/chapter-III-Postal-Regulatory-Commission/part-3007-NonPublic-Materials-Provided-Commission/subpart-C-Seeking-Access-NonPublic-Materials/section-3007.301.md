@@ -1,5 +1,7 @@
 ##### § 3007.301 Motion for access to non-public materials. #####
 
+Link to an amendment published at 85 FR 9642, Feb. 19, 2020.
+
 (a) *Filing requirements.* A request for access to non-public materials shall be made by filing a motion with the Commission. Any part of the motion revealing non- public information shall be filed in accordance with subpart B of this part. The motion shall be filed in the docket in which the materials were filed or in the docket in which the materials will be used; in all other circumstances, the motion shall be filed in the G docket for the applicable fiscal year.
 
 (b) *Content requirements.* The motion shall:

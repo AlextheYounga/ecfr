@@ -1,5 +1,7 @@
 ##### § 3010.4 Type 1-A rate adjustment - in general. #####
 
+Link to an amendment published at 85 FR 9657, Feb. 19, 2020.
+
 (a) A Type 1-A rate adjustment is an adjustment based on the annual limitation.
 
 (b) A Type 1-A rate adjustment may result in a rate adjustment that is less than or equal to the annual limitation, but may not exceed the annual limitation.

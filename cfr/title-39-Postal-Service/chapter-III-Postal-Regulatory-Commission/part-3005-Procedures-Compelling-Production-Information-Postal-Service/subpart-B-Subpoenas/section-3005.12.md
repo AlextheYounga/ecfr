@@ -1,5 +1,7 @@
 ##### § 3005.12 Subpoenas issued without receipt of a third-party request. #####
 
+Link to an amendment published at 85 FR 9645, Feb. 19, 2020.
+
 (a) A subpoena duly authorized by a majority of the Commissioners then holding office may be issued by the Chairman, a designated Commissioner, or an administrative law judge under § 3005.11 without a request having been made by a third party under § 3005.13.
 
 (b) Except as provided in paragraph (c) of this section, a subpoena shall not be issued until after the covered person has been provided an opportunity to produce the requested information voluntarily.

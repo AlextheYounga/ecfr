@@ -1,5 +1,7 @@
 ##### § 3035.15 Dollar amount limitation. #####
 
+Link to an amendment published at 85 FR 9659, Feb. 19, 2020.Link to an amendment published at 85 FR 9660, Feb. 19, 2020.
+
 (a) The Consumer Price Index used for calculations under this part is the CPI-U index, as specified in §§ 3010.21(a) and 3010.22(a) of this chapter.
 
 (b) An experimental product may only be tested if total revenues that are anticipated or received by the Postal Service do not exceed $10,000,000 in any fiscal year, as adjusted for the change in the CPI-U index, as specified in paragraph (d) of this section ($10 Million Adjusted Limitation). Total revenues anticipated or received may exceed the $10 Million Adjusted Limitation in any fiscal year if an exemption is granted pursuant to § 3035.16.

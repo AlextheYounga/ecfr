@@ -1,5 +1,7 @@
 ##### § 3010.30 De minimis rate increases. #####
 
+Link to an amendment published at 85 FR 9658, Feb. 19, 2020.
+
 (a) The Postal Service may elect to file a Type 1-A notice of rate adjustment as a *de minimis* rate increase if:
 
 (1) For each affected class, the rate increases contained within the notice of a Type 1-A rate adjustment do not result in the percentage change in rates for the class equaling or exceeding 0.001 percent; and

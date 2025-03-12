@@ -1,5 +1,7 @@
 ##### § 3035.3 Contents of notice. #####
 
+Link to an amendment published at 85 FR 9659, Feb. 19, 2020.
+
 (a) Notices of proposed market tests shall include:
 
 (1) The basis for the Postal Service's determination that the market test is governed by 39 U.S.C. 3641, which shall:

@@ -1,5 +1,7 @@
 ##### § 3010.23 Calculation of percentage change in rates. #####
 
+Link to an amendment published at 85 FR 9657, Feb. 19, 2020.
+
 (a) *Definitions.* In this section:
 
 (1) *Current rate* - (i) *In general.* Except as provided in paragraphs (a)(1)(ii) and (iii) of this section, the term *current rate* means the rate in effect when the Postal Service files the notice of rate adjustment.

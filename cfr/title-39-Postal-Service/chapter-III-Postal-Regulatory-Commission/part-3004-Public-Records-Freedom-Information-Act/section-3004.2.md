@@ -1,5 +1,7 @@
 ##### § 3004.2 Presumption of openness. #####
 
+Link to an amendment published at 85 FR 9617, Feb. 19, 2020.Link to an amendment published at 85 FR 9660, Feb. 19, 2020.
+
 (a) The Commission shall be proactive and timely in identifying and posting public records and other frequently requested records to its Web site.
 
 (b) It is the stated policy of the Commission that FOIA requests shall be administered with a clear presumption of openness. The Commission will only withhold information if it reasonably foresees that disclosure would harm an interest protected by a FOIA exemption, as enumerated in § 3004.11, or disclosure is otherwise prohibited by law.

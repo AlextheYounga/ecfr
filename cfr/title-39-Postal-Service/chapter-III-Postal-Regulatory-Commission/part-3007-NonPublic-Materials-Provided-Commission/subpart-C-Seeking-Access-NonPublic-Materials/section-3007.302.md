@@ -1,5 +1,7 @@
 ##### § 3007.302 Non-dissemination, use, and care of non-public materials. #####
 
+Link to an amendment published at 85 FR 9642, Feb. 19, 2020.
+
 (a) No person who has been granted access to non-public materials in accordance with § 3007.300 or § 3007.301 may disseminate the materials or the information contained therein, in whole or in part, to any person not allowed access pursuant to § 3007.300 or § 3007.301.
 
 (b) Persons with access to non-public materials under § 3007.300 or § 3007.301 shall use non-public materials only for the purposes for which the non-public materials are supplied.

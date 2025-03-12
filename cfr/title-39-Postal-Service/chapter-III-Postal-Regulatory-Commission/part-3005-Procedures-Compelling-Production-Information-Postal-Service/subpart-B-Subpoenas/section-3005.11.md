@@ -1,5 +1,7 @@
 ##### § 3005.11 General rule - subpoenas. #####
 
+Link to an amendment published at 85 FR 9645, Feb. 19, 2020.
+
 (a) Subject to the provisions of this part, the Chairman, any designated Commissioner, and any administrative law judge may issue a subpoena to any covered person.
 
 (b) The written concurrence of a majority of the Commissioners then holding office shall be required before any subpoena may be issued under this subpart. When duly authorized by a majority of the Commissioners then holding office, a subpoena shall be issued by the Chairman, a designated Commissioner, or an administrative law judge.

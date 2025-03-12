@@ -1,5 +1,7 @@
 ##### § 3008.2 Definition of ex parte communications. #####
 
+Link to an amendment published at 85 FR 9645, Feb. 19, 2020.
+
 (a) Subject to the exceptions specified in paragraph (b) of this section, ex parte communications include all communications, oral or written (including electronic), between Commission decision-making personnel, and the Postal Service or public stakeholders regarding matters before the Commission.
 
 (b) Ex parte communications do not include:

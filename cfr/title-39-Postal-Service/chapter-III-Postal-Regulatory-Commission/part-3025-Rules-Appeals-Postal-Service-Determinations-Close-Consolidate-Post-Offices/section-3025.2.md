@@ -1,5 +1,7 @@
 ##### § 3025.2 Applicability. #####
 
+Link to an amendment published at 85 FR 9655, Feb. 19, 2020.
+
 (a) The rules in this part apply when:
 
 (1) The Postal Service decides to close or consolidate a post office, and

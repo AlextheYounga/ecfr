@@ -1,5 +1,7 @@
 ##### § 3004.51 Fees - request category. #####
 
+Link to an amendment published at 85 FR 9617, Feb. 19, 2020.
+
 (a) The level of fee charged depends on the request category.
 
 (1) *Commercial use.* A request appearing to be for commercial use will be charged the full direct costs of searching for, reviewing, and duplicating the records sought.

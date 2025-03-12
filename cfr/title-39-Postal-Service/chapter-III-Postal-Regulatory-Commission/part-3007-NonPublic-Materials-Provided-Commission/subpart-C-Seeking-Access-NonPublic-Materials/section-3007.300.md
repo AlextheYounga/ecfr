@@ -1,5 +1,7 @@
 ##### § 3007.300 Eligibility for access to non-public materials. #####
 
+Link to an amendment published at 85 FR 9642, Feb. 19, 2020.
+
 (a) The following persons may access non-public materials without an order issued pursuant to § 3007.301(e):
 
 (1) Members of the Commission;

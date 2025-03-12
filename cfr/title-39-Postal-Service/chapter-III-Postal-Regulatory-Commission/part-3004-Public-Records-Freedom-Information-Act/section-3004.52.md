@@ -1,5 +1,7 @@
 ##### § 3004.52 Fees - general provisions. #####
 
+Link to an amendment published at 85 FR 9617, Feb. 19, 2020.
+
 (a) The Commission may charge search fees even if no records are found or if the records found are exempt from disclosure.
 
 (b) Except in the case of commercial use requesters, the first 100 pages of duplication and the first 2 hours of search time are provided without charge.

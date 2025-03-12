@@ -1,5 +1,7 @@
 ##### § 3010.27 Calculation of unused rate adjustment authority for Type 1-C rate adjustments. #####
 
+Link to an amendment published at 85 FR 9658, Feb. 19, 2020.
+
 (a) For a notice of Type 1-C rate adjustment, unused rate adjustment authority for a class is calculated in two steps. First, the difference between the annual limitation calculated pursuant to § 3010.21 or § 3010.22 for the most recent notice of Type 1-A or Type 1-B rate adjustment and the percentage change in rates for the class calculated pursuant to § 3010.23(b)(2) is calculated. Second, the unused rate adjustment authority generated in the most recent Type 1-A or Type 1-B rate adjustment is subtracted from that result.
 
 (b) Unused rate adjustment authority generated under paragraph (a) of this section lapses 5 years after the date of filing of the most recent notice of Type 1-A or Type 1-B rate adjustment.

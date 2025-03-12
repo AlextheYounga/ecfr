@@ -1,3 +1,21 @@
-##### § 240.18a-9 xxx #####
+##### § 240.18a-9 Quarterly security counts to be made by certain security-based swap dealers. #####
 
-Link to an amendment published at 84 FR 68668, Dec. 16, 2019.
+This section applies to a security-based swap dealer registered pursuant to section 15F of the Act (15 U.S.C. 78*o*-10) that does not have a prudential regulator and that is not also a broker or dealer, including an *OTC derivatives dealer* as that term is defined in § 240.3b-12, registered pursuant to section 15 of the Act (15 U.S.C. 78*o*). Section 240.17a-13 (rather than this section) applies to the following entities (if not exempt under the provisions of § 240.17a-13): A member of a national securities exchange who transacts a business in securities directly with others than members of a national securities exchange; a broker or dealer who transacts a business in securities through the medium of a member of a national securities exchange; a broker or dealer, including an OTC derivatives dealer, registered pursuant to section 15 of the Act; a security-based swap dealer registered pursuant to section 15F of the Act that is also a broker or dealer, including an OTC derivatives dealer, registered pursuant to section 15 of the Act; and a major security-based swap participant that is also a broker or dealer, including an OTC derivatives dealer, registered pursuant to section 15 of the Act.
+
+(a) Any security-based swap dealer that is subject to the provisions of this section must at least once in each calendar quarter-year:
+
+(1) Physically examine and count all securities held including securities that are the subjects of repurchase or reverse repurchase agreements;
+
+(2) Account for all securities in transfer, in transit, pledged, loaned, borrowed, deposited, failed to receive, failed to deliver, subject to repurchase or reverse repurchase agreements or otherwise subject to its control or direction but not in its physical possession by examination and comparison of the supporting detailed records with the appropriate ledger control accounts;
+
+(3) Verify all securities in transfer, in transit, pledged, loaned, borrowed, deposited, failed to receive, failed to deliver, subject to repurchase or reverse repurchase agreements or otherwise subject to its control or direction but not in its physical possession, where such securities have been in said status for longer than thirty days;
+
+(4) Compare the results of the count and verification with its records; and
+
+(5) Record on the books and records of the security-based swap dealer all unresolved differences setting forth the security involved and date of comparison in a security count difference account no later than 7 business days after the date of each required quarterly security examination, count, and verification in accordance with the requirements provided in paragraph (b) of this section. *Provided, however,* that no examination, count, verification, and comparison for the purpose of this section is within 2 months of or more than 4 months following a prior examination, count, verification, and comparison made under this paragraph (a)(5).
+
+(b) The examination, count, verification, and comparison may be made either as of a date certain or on a cyclical basis covering the entire list of securities. In either case the recordation must be effected within 7 business days subsequent to the examination, count, verification, and comparison of a particular security. In the event that an examination, count, verification, and comparison is made on a cyclical basis, it may not extend over more than 1 calendar quarter-year, and no security may be examined, counted, verified, or compared for the purpose of this section within 2 months of or more than 4 months after a prior examination, count, verification, and comparison.
+
+(c) The examination, count, verification, and comparison must be made or supervised by persons whose regular duties do not require them to have direct responsibility for the proper care and protection of the securities or the making or preservation of the subject records.
+
+[84 FR 68668, Dec. 16, 2019]

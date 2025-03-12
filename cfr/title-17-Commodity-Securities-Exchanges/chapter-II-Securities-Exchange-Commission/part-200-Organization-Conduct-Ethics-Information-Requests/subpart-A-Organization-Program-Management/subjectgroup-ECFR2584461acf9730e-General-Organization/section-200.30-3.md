@@ -1,7 +1,5 @@
 ##### § 200.30-3 Delegation of authority to Director of Division of Trading and Markets. #####
 
-Link to an amendment published at 84 FR 68646, Dec. 16, 2019.
-
 Pursuant to the provisions of Pub. L. 87-592, 76 Stat. 394, 15 U.S.C. 78d-1, 78d-2), the Securities and Exchange Commission hereby delegates, until the Commission orders otherwise, the following functions to the Director of the Division of Trading and Markets to be performed by him or under his direction by such person or persons as may be designated from time to time by the Chairman of the Commission:
 
 (a) With respect to the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*):
@@ -22,7 +20,7 @@ Pursuant to the provisions of Pub. L. 87-592, 76 Stat. 394, 15 U.S.C. 78d-1, 78d
 
 (ii) To extend the time for Commission consideration of notices for admission to membership or participation in a self-regulatory organization or association with a member of persons subject to a statutory disqualification pursuant to paragraph (a)(7) of that rule.
 
-(5) Pursuant to Rule 17a-5(1)(3) (§ 240.17a-5(1)(3) of this chapter), to consider applications, by brokers and dealers for exemptions from, and extension of time within which to file, reports required by Rule 17a-5 (§ 240.17a-5 of this chapter), and to grant, and to authorize the issuance of orders denying, such applications provided such applicant is advised of his right to have such denial reviewed by the Commission.
+(5) Pursuant to § 240.17a-5(m)(3) of this chapter (Rule 17a-5(m)(3)), to consider applications by brokers and dealers for exemptions from, and extension of time within which to file, reports required by § 240.17a-5 of this chapter (Rule 17a-5) and to grant, and to authorize the issuance of orders denying, such applications, provided such applicant is advised of his right to have such denial reviewed by the Commission.
 
 (6) Pursuant to Rules 14e-4(c), 14e-5(d), and 15c2-11(h) (§§ 240.14e-4(c), 240.14e-5(d), and 240.15c2-11(h) of this chapter), and Rules 101(d), 102(e), 104(j), and 105(c) of Regulation M (§§ 242.101(d), 242.102(e), 242.104(j), and 242.105(c) of this chapter), to grant requests for exemptions from Rules 14e-4, 14e-5, and 15c2-11 (§§ 240.14e-4, 240.14e-5, and 240.15c2-11 of this chapter), and Rules 101, 102, 104, and 105 of Regulation M (§§ 242.101, 242.102, 242.104, and 242.105 of this chapter).
 
@@ -112,7 +110,7 @@ Pursuant to the provisions of Pub. L. 87-592, 76 Stat. 394, 15 U.S.C. 78d-1, 78d
 
 (29) To issue supplemental orders modifying the terms upon which self-regulatory organizations are authorized to act jointly in planning, developing, operating or regulating facilities of a national market system in accordance with the terms of amendments to plans which plans have been previously approved by the Commission under section 11A(a)(3)(B) of the Securities Exchange Act of 1934.
 
-(30) Pursuant to section 17(a) of the Act, 15 U.S.C. 78q, to approve amendments to the plans which are consistent with the reporting structure of Rules 17a-5(a)(4) and 17a-10(b) filed by self-regulatory organizations pursuant to Rules 17a-5(a)(4) and 17a-10(b).
+(30) Pursuant to section 17(a) of the Act, 15 U.S.C. 78q, to approve amendments to the plans which are consistent with the reporting structure of §§ 240.17a-5(a)(2) and 240.17a-10(b) of this chapter (Rules 17a-5(a)(2) and 17a-10(b)) filed by self-regulatory organizations pursuant to §§ 240.17a-5(a)(3) and 240.17a-10(b) of this chapter (Rules 17a-5(a)(3) and 17a-10(b)).
 
 (31) Pursuant to section 19(b)(2)(A) of the Act, 15 U.S.C. 78s(b)(2)(A), to extend for a period not exceeding 90 days from the date of publication of notice of the filing of a proposed rule change pursuant to section 19(b)(1) of the Act, 15 U.S.C. 78s(b)(1), the period during which the Commission must by order approve or disapprove the proposed rule change or institute proceedings to determine whether the proposed rule change should be disapproved and to determine whether such longer period is appropriate and publish the reasons for such determination.
 
@@ -200,7 +198,7 @@ Pursuant to the provisions of Pub. L. 87-592, 76 Stat. 394, 15 U.S.C. 78d-1, 78d
 
 (65) Pursuant to § 240.17a-12 of this chapter:
 
-(i) To authorize the issuance of orders requiring OTC derivatives dealers to file, pursuant to § 240.17a-12(a)(ii) of this chapter, monthly, or at such times as shall be specified, Part IIB of Form X-17A-5 (§ 249.617 of this chapter) and such other financial and operational information as shall be specified.
+(i) To authorize the issuance of orders requiring over-the-counter (OTC) derivatives dealers to file, pursuant to § 240.17a-12(a)(1)(ii) of this chapter, monthly, or at least at such times as shall be specified, Part II of Form X-17A-5 (§ 249.617 of this chapter) and such other financial and operational information as shall be specified.
 
 (ii) Pursuant to § 240.17a-12(n) of this chapter, to consider applications by OTC derivatives dealers for exemptions from, and extensions of time within which to file, reports required by § 240.17a-12 of this chapter, and to grant or deny such applications.
 

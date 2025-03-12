@@ -1,5 +1,7 @@
 ##### § 3001.10 Form and number of copies of documents. #####
 
+Link to an amendment published at 85 FR 9660, Feb. 19, 2020.
+
 (a) *Documents.* Each document filed with the Commission must be submitted through Filing Online by an account holder, unless a waiver is obtained.
 
 (1) The text of documents filed with the Commission shall be formatted in not less than one and one-half spaced lines except that footnotes and quotations may be single spaced. Documents must be submitted in Arial 12 point font, or such program, format, or font as the presiding officer may designate.

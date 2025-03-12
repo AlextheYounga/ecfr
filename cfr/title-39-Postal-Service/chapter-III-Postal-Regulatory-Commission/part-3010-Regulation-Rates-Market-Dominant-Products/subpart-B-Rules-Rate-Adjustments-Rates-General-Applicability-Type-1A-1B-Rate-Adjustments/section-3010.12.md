@@ -1,5 +1,7 @@
 ##### § 3010.12 Contents of notice of rate adjustment. #####
 
+Link to an amendment published at 85 FR 9657, Feb. 19, 2020.
+
 (a) A Type 1-A, Type 1-B, or Type 1-C notice of rate adjustment must include the following information:
 
 (1) A schedule of the planned rates;

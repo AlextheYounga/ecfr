@@ -1,5 +1,7 @@
 ##### § 3030.12 Pleadings filed in response to a complaint. #####
 
+Link to an amendment published at 85 FR 9656, Feb. 19, 2020.
+
 (a) Unless otherwise ordered by the Commission, the Postal Service shall file its answer to a complaint within 20 days after the complaint is filed.
 
 (b) If appropriate, the Postal Service may file a dispositive motion or otherwise move to delay disposition of the complaint. If the Postal Service files such a motion, unless otherwise ordered by the Commission, the period of time for filing its answer is altered as follows:

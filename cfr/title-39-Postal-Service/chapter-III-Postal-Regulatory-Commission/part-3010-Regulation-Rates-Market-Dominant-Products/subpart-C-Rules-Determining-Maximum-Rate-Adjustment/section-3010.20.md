@@ -1,5 +1,7 @@
 ##### § 3010.20 Calculation of maximum rate adjustment. #####
 
+Link to an amendment published at 85 FR 9657, Feb. 19, 2020.
+
 (a) Rate adjustments for each class of market dominant products in any 12-month period are limited.
 
 (b) Type 1-A and Type 1-B rate adjustments are subject to an inflation-based annual limitation computed using CPI-U values as detailed in §§ 3010.21(a) and 3010.22(a).

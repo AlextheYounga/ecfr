@@ -1,5 +1,7 @@
 ##### § 3060.21 Income report. #####
 
+Link to an amendment published at 85 FR 9660, Feb. 19, 2020.
+
 The Postal Service shall file an Income Report in the form and content of Table 1, below.
 
 Table 1 - Competitive Products Income Statement - PRC Form CP-01

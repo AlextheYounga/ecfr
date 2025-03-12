@@ -1,5 +1,7 @@
 ##### § 3003.3 Procedures for requesting inspection, copying, or correction. #####
 
+Link to an amendment published at 85 FR 9616, Feb. 19, 2020.
+
 (a) An individual who -
 
 (1) Wishes to know whether a Commission system of records contains a record about him or her,

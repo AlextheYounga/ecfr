@@ -1,5 +1,7 @@
 ##### § 3004.41 Electronic requests for records and for expedited processing. #####
 
+Link to an amendment published at 85 FR 9617, Feb. 19, 2020.
+
 (a) An electronic request for records must:
 
 (1) Be submitted using the Commission's online FOIA request form at *http://www.prc.gov*;

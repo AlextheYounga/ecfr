@@ -1,5 +1,7 @@
 ##### § 3004.70 Submission of non-public materials by a person other than the Postal Service. #####
 
+Link to an amendment published at 85 FR 9618, Feb. 19, 2020.
+
 (a) *Overlap with treatment of non-public materials.* Any person who submits materials to the Commission (submitter) that the submitter reasonably believes to be exempt from public disclosure shall follow the procedures described in subpart B of part 3007 of this chapter.
 
 (b) *Notice of request.* Except as provided in § 3004.30(d), if a FOIA request seeks materials designated as non-public materials, the Commission will provide the submitter with notice of the request. The Commission may also provide notice when it has reason to believe that materials submitted by a person other than the Postal Service are possibly exempt from disclosure and may fall within the scope of any FOIA request.

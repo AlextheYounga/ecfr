@@ -1,5 +1,7 @@
 ##### § 3020.90 Minor corrections to product descriptions. #####
 
+Link to an amendment published at 85 FR 9659, Feb. 19, 2020.
+
 (a) The Postal Service shall ensure that product descriptions in the Mail Classification Schedule accurately represent the current offerings of the Postal Service.
 
 (b) The Postal Service shall submit minor corrections to product descriptions in the Mail Classification Schedule by filing notice with the Commission no later than 15 days prior to the effective date of the proposed corrections.

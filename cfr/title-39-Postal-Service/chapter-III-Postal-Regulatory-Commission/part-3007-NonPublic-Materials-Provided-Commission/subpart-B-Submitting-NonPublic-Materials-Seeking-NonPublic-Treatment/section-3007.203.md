@@ -1,5 +1,7 @@
 ##### § 3007.203 Unredacted version of the non-public materials. #####
 
+Link to an amendment published at 85 FR 9641, Feb. 19, 2020.
+
 (a) Each page or portion of the unredacted version of the materials for which non-public treatment is sought shall be marked in a manner reasonably calculated to alert custodians to the confidential nature of the materials.
 
 (b) The Filing Online method that results in posting a document that is available to the public, which is accessible through the Commission's website (*http://www.prc.gov*) described under §§ 3001.9 and 3001.10 of this chapter may not be used to submit the unredacted version of non-public materials.

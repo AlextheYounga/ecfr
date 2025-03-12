@@ -1,5 +1,7 @@
 ##### § 3035.18 Request to add a non-experimental product or price category based on an experimental product to the product list. #####
 
+Link to an amendment published at 85 FR 9659, Feb. 19, 2020.
+
 (a) If the Postal Service seeks to add a non-experimental product or price category based on a former or current experimental product to the market dominant or competitive product list, the Postal Service shall file a request, pursuant to 39 U.S.C. 3642 and part 3020, subpart B of this chapter, to add a non-experimental product or price category to the applicable product list.
 
 (b) The Postal Service shall comply with the requirements specified in paragraphs (c) through (e) of this section of this section if the proposed non-experimental product or price category:

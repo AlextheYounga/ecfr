@@ -1,5 +1,7 @@
 ##### § 3010.26 Calculation of unused rate adjustment authority for Type 1-A and Type 1-B rate adjustments. #####
 
+Link to an amendment published at 85 FR 9658, Feb. 19, 2020.
+
 (a) Unused rate adjustment authority accrues during the entire period between notices of Type 1-A and Type 1-B rate adjustments. When notices of Type 1-A or Type 1-B rate adjustments are filed 12 months apart or less, the unused rate adjustment authority is the annual unused rate adjustment authority calculated under paragraph (b) of this section. When notices of Type 1-A or Type 1-B rate adjustments are filed more than 12 months apart, unused rate adjustment authority is the sum of the annual unused rate adjustment calculated under paragraph (b) of this section plus the interim unused rate adjustment authority calculated under paragraph (c)(2) of this section, less any interim unused rate adjustment authority used in accordance with paragraph (d) of this section.
 
 (b) When notices of Type 1-A or Type 1-B rate adjustments are filed 12 months apart or less, annual unused rate adjustment authority will be calculated. Annual unused rate adjustment authority for a class is equal to the difference between the annual limitation calculated pursuant to § 3010.21 or § 3010.22 and the percentage change in rates for the class calculated pursuant to § 3010.23(b)(1).

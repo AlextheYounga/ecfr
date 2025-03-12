@@ -1,5 +1,7 @@
 ##### § 3008.7 Penalty for violation of ex parte communication rules. #####
 
+Link to an amendment published at 85 FR 9645, Feb. 19, 2020.
+
 (a) The penalties for violation of ex parte communication rules specified in this section are applicable only to:
 
 (1) Nature of postal service proceedings conducted pursuant to 39 U.S.C. 3661(c);

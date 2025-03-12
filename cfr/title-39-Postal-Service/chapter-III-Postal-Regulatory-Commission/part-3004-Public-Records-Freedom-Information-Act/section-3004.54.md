@@ -1,5 +1,7 @@
 ##### § 3004.54 Procedure for assessing and collecting fees. #####
 
+Link to an amendment published at 85 FR 9618, Feb. 19, 2020.
+
 (a) Advance payment may be required if the requester failed to pay previous bills in a timely fashion or when the fees are likely to exceed $250.
 
 (1) Where the requester has previously failed to pay within 30 days of the billing date, the Commission may require the requester to pay an advance payment of the estimated fee together with either the past due fees (plus applicable interest) or proof that the past fees were paid.

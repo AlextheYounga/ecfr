@@ -1,5 +1,7 @@
 ##### § 3004.10 Public records. #####
 
+Link to an amendment published at 85 FR 9617, Feb. 19, 2020.
+
 (a) Except as provided in § 3004.11 and in § 3007.10 of this chapter, the public records of the Commission include all submissions and filings as follows:
 
 (1) Requests of the Postal Service for decisions or advisory opinions, notices, public reports, complaints (both formal and informal), and other papers seeking Commission action;

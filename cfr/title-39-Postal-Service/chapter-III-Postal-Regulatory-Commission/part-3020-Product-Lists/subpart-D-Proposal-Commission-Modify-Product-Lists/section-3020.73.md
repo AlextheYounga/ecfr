@@ -1,5 +1,7 @@
 ##### § 3020.73 Docket and notice. #####
 
+Link to an amendment published at 85 FR 9660, Feb. 19, 2020.
+
 The Commission will establish a docket for each request to modify the market dominant list or the competitive product list, promptly publish notice of the request in the Federal Register, and post the filing on its Web site. The notice shall include:
 
 (a) The general nature of the proceeding;

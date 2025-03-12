@@ -1,5 +1,7 @@
 ##### § 3008.4 Definitions of persons subject to ex parte communication rules. #####
 
+Link to an amendment published at 85 FR 9645, Feb. 19, 2020.
+
 (a) Commission decision-making personnel include:
 
 (1) The Commissioners and their staffs;

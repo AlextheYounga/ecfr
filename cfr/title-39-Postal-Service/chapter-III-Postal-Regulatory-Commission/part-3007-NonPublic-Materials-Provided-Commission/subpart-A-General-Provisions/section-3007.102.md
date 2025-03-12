@@ -1,5 +1,7 @@
 ##### § 3007.102 Treatment of non-public materials. #####
 
+Link to an amendment published at 85 FR 9641, Feb. 19, 2020.
+
 (a) Except as described in part 3007 or part 3004 of this chapter, the Commission will neither disclose nor grant access to any non-public materials (and the non-public information contained therein).
 
 (b) To accord appropriate confidentiality to non-public information and non-public materials during any stage of a proceeding before the Commission, or in connection with any other purpose under title 39 of the U.S. Code, the Commission may, based on Federal Rule of Civil Procedure 26(c):

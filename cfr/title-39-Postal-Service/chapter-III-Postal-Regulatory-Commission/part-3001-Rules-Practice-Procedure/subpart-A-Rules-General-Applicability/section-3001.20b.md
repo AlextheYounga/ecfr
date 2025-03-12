@@ -1,5 +1,7 @@
 ##### § 3001.20b Informal expression of views by persons not parties or limited participators (commenters). #####
 
+Link to an amendment published at 85 FR 9660, Feb. 19, 2020.
+
 Notwithstanding the provisions of §§ 3001.20 and 3001.20a, any person may file with the Commission, in any case that is noticed for a hearing pursuant to § 3001.17(a), an informal statement of views in writing, in accordance with the following provisions:
 
 (a) *Form of statement.* A statement filed pursuant to this section may be submitted as a hardcopy letter mailed to the Secretary or an electronic message entered under the “Contact Us” link on the Commission's Web site, *http://www.prc.gov.*

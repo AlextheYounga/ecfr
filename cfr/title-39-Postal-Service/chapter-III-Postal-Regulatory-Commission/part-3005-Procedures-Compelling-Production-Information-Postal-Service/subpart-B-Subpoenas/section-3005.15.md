@@ -1,5 +1,7 @@
 ##### § 3005.15 Duties in responding to a subpoena. #####
 
+Link to an amendment published at 85 FR 9646, Feb. 19, 2020.
+
 (a) A covered person responding to a subpoena to produce documents shall produce them as they are kept in the usual course of business or shall organize and label them to correspond with the categories in the subpoena.
 
 (b) If a subpoena does not specify the form or forms for producing electronically stored information, a covered person responding to a subpoena must produce the information in a form or forms in which the covered person ordinarily maintains it or in a form or forms that are reasonably usable.

@@ -1,5 +1,7 @@
 ##### § 3030.30 Beginning proceedings on complaints. #####
 
+Link to an amendment published at 85 FR 9656, Feb. 19, 2020.
+
 (a) Within 90 days after receiving a properly filed complaint under this part, the Commission will issue:
 
 (1) A notice and order in accordance with § 3001.17 of this chapter that finds the complaint raises one or more material issues of fact or law and begin proceedings on the complaint; or

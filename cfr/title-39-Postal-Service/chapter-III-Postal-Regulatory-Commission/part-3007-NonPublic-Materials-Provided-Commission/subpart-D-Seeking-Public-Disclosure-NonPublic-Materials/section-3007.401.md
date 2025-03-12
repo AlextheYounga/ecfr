@@ -1,5 +1,7 @@
 ##### § 3007.401 Materials for which non-public treatment has expired. #####
 
+Link to an amendment published at 85 FR 9644, Feb. 19, 2020.
+
 (a) *Expiration of non-public treatment.* Ten years after the date of submission to the Commission, non-public materials shall lose non-public status unless otherwise provided by the Commission.
 
 (b) *Request for Disclosure of Materials for Which Non-Public Treatment has Expired.* Any person may request that materials for which non-public treatment has expired under paragraph (a) of this section be publicly disclosed. Any part of the request revealing non-public information shall be filed in accordance with subpart B of this part. The request shall identify the materials requested and date(s) that materials were originally submitted under seal. The template Request for Materials for Which Non-public Treatment Has Expired in appendix A to this subpart may be used and modified to comply with this requirement. The request shall be filed in the docket in which the materials were filed or in the docket in which the materials will be used; in all other circumstances, the request shall be filed in the G docket for the applicable fiscal year. All documents are treated in accordance with the Commission's record retention schedule, which may reduce the availability of some non-public information.

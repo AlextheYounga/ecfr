@@ -1,5 +1,7 @@
 ##### § 3010.44 Proceedings for Type 2 rate adjustments. #####
 
+Link to an amendment published at 85 FR 9660, Feb. 19, 2020.
+
 (a) The Commission will establish a docket for each notice of Type 2 rate adjustment filed, promptly publish notice of the filing in the Federal Register, and post the filing on its Web site. The notice shall include:
 
 (1) The general nature of the proceeding;

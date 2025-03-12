@@ -1,5 +1,7 @@
 ##### § 3010.9 Schedule for Regular and Predictable Rate Adjustments. #####
 
+Link to an amendment published at 85 FR 9660, Feb. 19, 2020.
+
 (a) The Postal Service shall maintain on file with the Commission a Schedule for Regular and Predictable Rate Adjustments. The Commission shall display the Schedule for Regular and Predictable Rate Adjustments on the Commission Web site, *http://www.prc.gov.*
 
 (b) The Schedule for Regular and Predictable Rate Adjustments shall provide mailers with estimated implementation dates for future Type 1-A rate adjustments for each separate class of mail, should such adjustments be necessary and appropriate. Rate adjustments will be scheduled at specified regular intervals.

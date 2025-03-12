@@ -1,5 +1,7 @@
 ##### § 3001.12 Service of documents. #####
 
+Link to an amendment published at 85 FR 9660, Feb. 19, 2020.
+
 (a) *Service by account holders.* Each document filed in a proceeding via the Internet by an Account Holder shall be deemed served on all participants when it is accepted by the Secretary and posted on the Commission's Web site, except that:
 
 (1) A document that must be served on a participant that the Commission or presiding officer has determined is unable to receive service through the Commission's Web site shall be served on such participant by the Secretary by First-Class Mail.

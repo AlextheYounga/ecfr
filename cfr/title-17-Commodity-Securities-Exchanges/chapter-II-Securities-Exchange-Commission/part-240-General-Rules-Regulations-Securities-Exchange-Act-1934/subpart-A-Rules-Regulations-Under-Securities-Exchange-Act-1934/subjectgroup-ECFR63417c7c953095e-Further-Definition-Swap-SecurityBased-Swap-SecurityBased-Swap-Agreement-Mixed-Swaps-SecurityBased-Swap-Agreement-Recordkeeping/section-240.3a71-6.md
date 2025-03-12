@@ -1,6 +1,6 @@
 ##### § 240.3a71-6 Substituted compliance for security-based swap dealers and major security-based swap participants. #####
 
-Link to an amendment published at 84 FR 68646, Dec. 16, 2019.Link to an amendment published at 85 FR 6412, Feb. 4, 2020.
+Link to an amendment published at 85 FR 6412, Feb. 4, 2020.
 
 (a) *Determinations* - (1) *In general.* Subject to paragraph (a)(2) of this section, the Commission may, conditionally or unconditionally, by order, make a determination with respect to a foreign financial regulatory system that compliance with specified requirements under such foreign financial regulatory system by a registered security-based swap dealer and/or by a registered major security-based swap participant (each a “security-based swap entity”), or class thereof, may satisfy the corresponding requirements identified in paragraph (d) of this section that would otherwise apply to such security-based swap entity (or class thereof).
 
@@ -44,4 +44,6 @@ Link to an amendment published at 84 FR 68646, Dec. 16, 2019.Link to an amendmen
 
 (ii) *Major security-based swap participants.* The margin requirements of section 15F(e) of the Act (15 U.S.C. 78o-10(e)) and § 240.18a-3; provided, however, that prior to making such substituted compliance determination, the Commission intends to consider (in addition to any conditions imposed) whether the foreign financial regulatory system requires registrants to adequately cover their current exposure to over-the-counter derivatives counterparties, and ensures registrants' safety and soundness, in a manner comparable to the applicable provisions arising under the Act and its rules and regulations.
 
-[81 FR 30143, May 13, 2016, as amended at 81 FR 39844, June 17, 2016; 84 FR 44041, Aug. 22, 2019]
+(6) *Recordkeeping and reporting.* The recordkeeping and reporting requirements of Section 15F of the Act (15 U.S.C. 78*o*-10) and §§ 240.18a-5 through 240.18a-9; provided, however, that prior to making such a substituted compliance determination the Commission intends to consider (in addition to any conditions imposed), whether the foreign financial regulatory system's required records and reports, the timeframes for recording or reporting information, the accounting standards governing the records and reports, and the required format of the records and reports are comparable to applicable provisions arising under the Act and its rules and regulations and would permit the Commission to examine and inspect regulated firms' compliance with the applicable securities laws.
+
+[81 FR 30143, May 13, 2016, as amended at 81 FR 39844, June 17, 2016; 84 FR 44041, Aug. 22, 2019; 84 FR 68646, Dec. 16, 2019]

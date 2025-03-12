@@ -1,5 +1,7 @@
 ##### § 3002.10 The Commission and its offices. #####
 
+Link to an amendment published at 85 FR 9616, Feb. 19, 2020.
+
 (a) *The Commissioners.* The Postal Regulatory Commission is an independent establishment of the executive branch of the federal government created by the Postal Accountability and Enhancement Act (39 U.S.C. 501).
 
 (b) *The Chairman and Vice-Chairman.* The Chairman has the administrative responsibility for assigning the business of the Commission to the other Commissioners and to the offices and employees of the Commission. He/She has the administrative duty to preside at the meetings and sessions of the Commission and to represent the Commission in matters specified by statute or executive order or as the Commission directs. The Commission shall elect annually a member of the Commission to serve as Vice-Chairman of the Commission for a term of one year or until a successor is elected. In case of a vacancy in the Office of the Chairman of the Commission, or in the absence or inability of the Chairman to serve, the Vice-Chairman, unless otherwise directed by the Chairman, shall have the administrative responsibilities and duties of the Chairman during the period of vacancy, absence, or inability.

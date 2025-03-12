@@ -1,5 +1,7 @@
 ##### § 3004.53 Fee schedule. #####
 
+Link to an amendment published at 85 FR 9618, Feb. 19, 2020.
+
 (a) Fees will be calculated as follows:
 
 (1) *Manual search.* At the salary rate (basic pay plus 16 percent) of the employee(s) making the search. Search time may be charged for even if the Commission fails to locate records or if records located are exempt from disclosure.

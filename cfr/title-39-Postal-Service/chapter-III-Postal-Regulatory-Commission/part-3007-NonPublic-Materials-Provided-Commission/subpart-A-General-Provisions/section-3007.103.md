@@ -1,5 +1,7 @@
 ##### § 3007.103 Commission action to determine non-public treatment. #####
 
+Link to an amendment published at 85 FR 9641, Feb. 19, 2020.
+
 (a) Information requests as described in subpart E of part 3001 of this chapter, preliminary notices, or interim orders may be issued to help the Commission determine the non-public treatment, if any, to be accorded to the materials claimed by any person to be non-public.
 
 (b) Upon motion by any person, the Commission may issue an order containing a description of and timeframe for the non-public treatment, if any, to be accorded to materials claimed by any person to be non-public.

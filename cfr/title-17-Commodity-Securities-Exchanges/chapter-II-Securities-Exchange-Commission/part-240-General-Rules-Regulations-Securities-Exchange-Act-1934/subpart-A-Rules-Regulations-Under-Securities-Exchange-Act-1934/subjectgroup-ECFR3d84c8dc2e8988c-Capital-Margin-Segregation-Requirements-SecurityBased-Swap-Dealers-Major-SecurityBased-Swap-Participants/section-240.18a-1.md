@@ -1,7 +1,5 @@
 ##### § 240.18a-1 Net capital requirements for security-based swap dealers for which there is not a prudential regulator. #####
 
-Link to an amendment published at 84 FR 68656, Dec. 16, 2019.
-
 Sections 240.18a-1, 240.18a-1a, 240.18a-1b, 240.18a-1c, and 240.18a-1d apply to a security-based swap dealer registered under section 15F of the Act (15 U.S.C. 78*o*-10), including a security-based swap dealer that is an *OTC derivatives dealer* as that term is defined in § 240.3b-12. A security-based swap dealer registered under section 15F of the Act (15 U.S.C. 78*o*-10) that is also a broker or dealer registered under section 15 of the Act (15 U.S.C. 78o), other than an OTC derivatives dealer, is subject to the net capital requirements in § 240.15c3-1 and its appendices. A security-based swap dealer registered under section 15F of the Act that has a prudential regulator is not subject to § 240.18a-1, 240.18a-1a, 240.18a-1b, 240.18a-1c, and 240.18a-1d.
 
 (a) *Minimum requirements.* Every registered security-based swap dealer must at all times have and maintain net capital no less than the greater of the highest minimum requirements applicable to its business under paragraph (a)(1) or (2) of this section, and tentative net capital no less than the minimum requirement under paragraph (a)(2) of this section.
@@ -102,9 +100,7 @@ Sections 240.18a-1, 240.18a-1a, 240.18a-1b, 240.18a-1c, and 240.18a-1d apply to 
 
 (vi)(A) *Cleared security-based swaps.* In the case of a cleared security-based swap held in a proprietary account of the security-based swap dealer, deducting the amount of the applicable margin requirement of the clearing agency or, if the security-based swap references an equity security, the security-based swap dealer may take a deduction using the method specified in § 240.18a-1a.
 
-(B) *Non-cleared security-based swaps* - (*1*) *Credit default swaps* - (*i*) *Short positions (selling protection).* In the case of a non-cleared security-based swap that is a short credit default swap, deducting the percentage of the notional amount based upon the current basis point spread of the credit default swap and the maturity of the credit default swap in accordance with table 1 to § 240.18a-1(c)(1)(vi)(B)(*1*)(*i*):
-
-Table 1 to § 240.18a-1(c)(1)(vi)(B)(1)(i)
+(B) *Non-cleared security-based swaps*—(*1*) *Credit default swaps*—(*i*) *Short positions (selling protection).* In the case of a non-cleared security-based swap that is a short credit default swap, deducting the percentage of the notional amount based upon the current basis point spread of the credit default swap and the maturity of the credit default swap in accordance with table 1 to § 240.18a-1(c)(1)(vi)(B)(*1*)(*i*):
 
 |Length of time to maturity of credit default swap contract|Basis point spread|                 |                 |                 |                     |     |
 |----------------------------------------------------------|------------------|-----------------|-----------------|-----------------|---------------------|-----|
@@ -133,7 +129,7 @@ Table 1 to § 240.18a-1(c)(1)(vi)(B)(1)(i)
 
 (viii) *Deduction from net worth for certain undermargined accounts.* Deducting the amount of cash required in the account of each security-based swap and swap customer to meet the margin requirements of a clearing agency, the Commission, derivatives clearing organization, or the Commodity Futures Trading Commission, as applicable, after application of calls for margin, marks to the market, or other required deposits which are outstanding within the required time frame to collect the margin, mark to the market, or other required deposits.
 
-(ix) *Deduction from net worth in lieu of collecting collateral for non-cleared security-based swap and swap transactions* - (A) *Security-based swaps.* Deducting the initial margin amount calculated pursuant to § 240.18a-3(c)(1)(i)(B) for the account of a counterparty at the security-based swap dealer that is subject to a margin exception set forth in § 240.18a-3(c)(1)(iii), less the margin value of collateral held in the account.
+(ix) *Deduction from net worth in lieu of collecting collateral for non-cleared security-based swap and swap transactions*—(A) *Security-based swaps.* Deducting the initial margin amount calculated pursuant to § 240.18a-3(c)(1)(i)(B) for the account of a counterparty at the security-based swap dealer that is subject to a margin exception set forth in § 240.18a-3(c)(1)(iii), less the margin value of collateral held in the account.
 
 (B) *Swaps.* Deducting the initial margin amount calculated pursuant to the margin rules of the Commodity Futures Trading Commission in the account of a counterparty at the security-based swap dealer that is subject to a margin exception in those rules, less the margin value of collateral held in the account.
 
@@ -147,16 +143,13 @@ Table 1 to § 240.18a-1(c)(1)(vi)(B)(1)(i)
 
 (x)(A) Deducting the market value of all short securities differences (which shall include securities positions reflected on the securities record which are not susceptible to either count or confirmation) unresolved after discovery in accordance with the schedule in table 2 to § 240.18a-1(c)(1)(x)(A):
 
-Table 2 to § 240.18a-1(c)(1)(x)(A)
-
-|Differences<sup>1</sup>|Number of business days after discovery|
-|-----------------------|---------------------------------------|
-|      25 percent       |                   7                   |
-|      50 percent       |                  14                   |
-|      75 percent       |                  21                   |
-|      100 percent      |                  28                   |
-
-<sup>1</sup> Percentage of market value of short securities differences.
+|                        Differences <sup>1</sup>                        |Number of business days after discovery|
+|------------------------------------------------------------------------|---------------------------------------|
+|                               25 percent                               |                   7                   |
+|                               50 percent                               |                  14                   |
+|                               75 percent                               |                  21                   |
+|                              100 percent                               |                  28                   |
+|<sup>1</sup> Percentage of market value of short securities differences.|                                       |
 
 (B) Deducting the market value of any long securities differences, where such securities have been sold by the security-based swap dealer before they are adequately resolved, less any reserves established therefor;
 
@@ -248,8 +241,6 @@ Table 2 to § 240.18a-1(c)(1)(x)(A)
 
 (*3*) The security-based swap dealer must use the multiplication factor indicated in table 3 to § 240.18a-1(d)(9)(i)(C)(*3*) in determining its market risk until it obtains the next quarter's backtesting results;
 
-Table 3 to § 240.18a-1(d)(9)(i)(C)(3) - Multiplication Factor Based on the Number of Backtesting Exceptions of the VaR model
-
 |Number of exceptions|Multiplication factor|
 |--------------------|---------------------|
 |     4 or fewer     |        3.00         |
@@ -300,7 +291,9 @@ Table 3 to § 240.18a-1(d)(9)(i)(C)(3) - Multiplication Factor Based on the Numb
 
 (iii) *Additional conditions.* As a condition for the security-based swap dealer to use this paragraph (d) to calculate certain of its capital charges, the Commission may impose additional conditions on the security-based swap dealer, which may include, but are not limited to restricting the security-based swap dealer's business on a product-specific, category-specific, or general basis; submitting to the Commission a plan to increase the security-based swap dealer's net capital or tentative net capital; filing more frequent reports with the Commission; modifying the security-based swap dealer's internal risk management control procedures; or computing the security-based swap dealer's deductions for market and credit risk in accordance with paragraphs (c)(1)(iii), (iv), (vi), (vii), and (c)(1)(ix)(A) and (B), as appropriate, and § 240.18a-1b, as appropriate. If the Commission finds it is necessary or appropriate in the public interest or for the protection of investors, the Commission may impose additional conditions on the security-based swap dealer, if:
 
-(A)-(B) [Reserved];
+(A) The security-based swap dealer fails to meet the reporting requirements set forth in § 240.18a-7;
+
+(B) Any event specified in § 240.18a-8 occurs;
 
 (C) There is a material deficiency in the internal risk management control system or in the mathematical models used to price securities or to calculate deductions for market and credit risk or allowances for market and credit risk, as applicable, of the security-based swap dealer;
 
@@ -308,7 +301,7 @@ Table 3 to § 240.18a-1(d)(9)(i)(C)(3) - Multiplication Factor Based on the Numb
 
 (E) The Commission finds that imposition of other conditions is necessary or appropriate in the public interest or for the protection of investors.
 
-(e) *Models to compute deductions for market risk and credit risk* - (1) *Market risk.* A security-based swap dealer whose application, including amendments, has been approved under paragraph (d) of this section, shall compute a deduction for market risk in an amount equal to the sum of the following:
+(e) *Models to compute deductions for market risk and credit risk*—(1) *Market risk.* A security-based swap dealer whose application, including amendments, has been approved under paragraph (d) of this section, shall compute a deduction for market risk in an amount equal to the sum of the following:
 
 (i) For positions for which the Commission has approved the security-based swap dealer's use of VaR models, the VaR of the positions multiplied by the appropriate multiplication factor determined according to paragraph (d) of this section, except that the initial multiplication factor shall be three, unless the Commission determines, based on a review of the security-based swap dealer's application or an amendment to the application under paragraph (d) of this section, including a review of its internal risk management control system and practices and VaR models, that another multiplication factor is appropriate;
 
@@ -388,7 +381,7 @@ Table 3 to § 240.18a-1(d)(9)(i)(C)(3) - Multiplication Factor Based on the Numb
 
 (2) The partnership agreement provides that capital contributed pursuant to a satisfactory subordination agreement as defined in § 240.18a-1d shall in all respects be partnership capital subject to the provisions restricting the withdrawal thereof required by paragraph (h) of this section.
 
-(h) *Provisions relating to the withdrawal of equity capital* - (1) *Notice provisions relating to limitations on the withdrawal of equity capital.* No equity capital of the security-based swap dealer or a subsidiary or affiliate consolidated pursuant to § 240.18a-1c may be withdrawn by action of a stockholder or a partner or by redemption or repurchase of shares of stock by any of the consolidated entities or through the payment of dividends or any similar distribution, nor may any unsecured advance or loan be made to a stockholder, partner, employee or affiliate without written notice given in accordance with paragraph (h)(1)(iv) of this section:
+(h) *Provisions relating to the withdrawal of equity capital*—(1) *Notice provisions relating to limitations on the withdrawal of equity capital.* No equity capital of the security-based swap dealer or a subsidiary or affiliate consolidated pursuant to § 240.18a-1c may be withdrawn by action of a stockholder or a partner or by redemption or repurchase of shares of stock by any of the consolidated entities or through the payment of dividends or any similar distribution, nor may any unsecured advance or loan be made to a stockholder, partner, employee or affiliate without written notice given in accordance with paragraph (h)(1)(iv) of this section:
 
 (i) Two business days prior to any withdrawals, advances or loans if those withdrawals, advances or loans on a net basis exceed in the aggregate in any 30 calendar day period, 30 percent of the security-based swap dealer's excess net capital. A security-based swap dealer, in an emergency situation, may make withdrawals, advances or loans that on a net basis exceed 30 percent of the security-based swap dealer's excess net capital in any 30 calendar day period without giving the advance notice required by this paragraph, with the prior approval of the Commission. Where a security-based swap dealer makes a withdrawal with the consent of the Commission, it shall in any event comply with paragraph (h)(1)(ii) of this section; or
 
@@ -420,4 +413,4 @@ Table 3 to § 240.18a-1(d)(9)(i)(C)(3) - Multiplication Factor Based on the Numb
 
 (iv) For the purpose of this paragraph (h), any transactions between a security-based swap dealer and a stockholder, partner, employee or affiliate that results in a diminution of the security-based swap dealer's net capital shall be deemed to be an advance or loan of net capital.
 
-[84 FR 44052, Aug. 22, 2019]
+[84 FR 44052, Aug. 22, 2019, as amended at 85 FR 68656, Dec. 16, 2019]

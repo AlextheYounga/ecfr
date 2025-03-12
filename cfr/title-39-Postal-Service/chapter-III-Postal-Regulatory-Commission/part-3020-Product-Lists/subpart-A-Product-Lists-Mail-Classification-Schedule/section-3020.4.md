@@ -1,5 +1,7 @@
 ##### § 3020.4 Mail Classification Schedule. #####
 
+Link to an amendment published at 85 FR 9660, Feb. 19, 2020.
+
 (a) The Postal Regulatory Commission shall publish a Mail Classification Schedule (including both current and previous versions) on its Web site at *http://www.prc.gov.* Copies of the Mail Classification Schedule also shall be available during regular business hours for reference and public inspection at the Postal Regulatory Commission located at 901 New York Avenue NW., Suite 200, Washington, DC 20268-0001.
 
 (b) The Mail Classification Schedule shall include, but shall not be limited to:

@@ -4,7 +4,7 @@
 
 (1) *711.* The abbreviated dialing code for accessing relay services anywhere in the United States.
 
-(2) *ACD platform.* The hardware and/or software that comprise the essential call center function of call distribution, and that are a necessary core component of Internet-based TRS.
+(2) *ACD platform.* The hardware and/or software that comprise the essential call center function of call distribution, and that are a necessary core component of internet-based TRS.
 
 (3) *American Sign Language (ASL).* A visual language based on hand shape, position, movement, and orientation of the hands in relation to each other and the body.
 
@@ -20,7 +20,7 @@
 
 (9) *Common carrier or carrier.* Any common carrier engaged in interstate Communication by wire or radio as defined in section 3(h) of the Communications Act of 1934, as amended (the Act), and any common carrier engaged in intrastate communication by wire or radio, notwithstanding sections 2(b) and 221(b) of the Act.
 
-(10) *Communications assistant (CA).* A person who transliterates or interprets conversation between two or more end users of TRS. CA supersedes the term “TDD operator.”
+(10) *Communications assistant* (*CA).* A person who transliterates or interprets conversation between two or more end users of TRS. CA supersedes the term “TDD operator.”
 
 (11) *Default provider.* The iTRS provider that registers and assigns a ten-digit telephone number to an iTRS user pursuant to § 64.611.
 
@@ -32,19 +32,19 @@
 
 (15) *Hearing carry over (HCO).* A form of TRS where the person with the speech disability is able to listen to the other end user and, in reply, the CA speaks the text as typed by the person with the speech disability. The CA does not type any conversation. Two-line HCO is an HCO service that allows TRS users to use one telephone line for hearing and the other for sending TTY messages. HCO-to-TTY allows a relay conversation to take place between an HCO user and a TTY user. HCO-to-HCO allows a relay conversation to take place between two HCO users.
 
-(16) *Hearing point-to-point video user.* A hearing individual who has been assigned a ten-digit NANP number that is entered in the TRS Numbering Directory to access point-to-point service.
+(16) Hearing point-to-point video user. A hearing individual who has been assigned a ten-digit NANP number that is entered in the TRS Numbering Directory to access point-to-point service.
 
 (17) *Interconnected VoIP service.* The term “interconnected VoIP service” has the meaning given such term under § 9.3 of this chapter, as such section may be amended from time to time.
 
-(18) *Internet-based TRS (iTRS).* A telecommunications relay service (TRS) in which an individual with a hearing or a speech disability connects to a TRS communications assistant using an Internet Protocol-enabled device via the Internet, rather than the public switched telephone network. Except as authorized or required by the Commission, Internet-based TRS does not include the use of a text telephone (TTY) or RTT over an interconnected voice over Internet Protocol service.
+(18) *internet*-*based TRS (iTRS).* A telecommunications relay service (TRS) in which an individual with a hearing or a speech disability connects to a TRS communications assistant using an internet Protocol-enabled device via the internet, rather than the public switched telephone network. Except as authorized or required by the Commission, internet-based TRS does not include the use of a text telephone (TTY) or RTT over an interconnected voice over internet Protocol service.
 
-(19) *Internet Protocol Captioned Telephone Service (IP CTS).* A telecommunications relay service that permits an individual who can speak but who has difficulty hearing over the telephone to use a telephone and an Internet Protocol-enabled device via the Internet to simultaneously listen to the other party and read captions of what the other party is saying. With IP CTS, the connection carrying the captions between the relay service provider and the relay service user is via the Internet, rather than the public switched telephone network.
+(19) *internet Protocol Captioned Telephone Service (IP CTS).* A telecommunications relay service that permits an individual who can speak but who has difficulty hearing over the telephone to use a telephone and an internet Protocol-enabled device via the internet to simultaneously listen to the other party and read captions of what the other party is saying. With IP CTS, the connection carrying the captions between the relay service provider and the relay service user is via the internet, rather than the public switched telephone network.
 
-(20) *Internet Protocol Relay Service (IP Relay).* A telecommunications relay service that permits an individual with a hearing or a speech disability to communicate in text using an Internet Protocol-enabled device via the Internet, rather than using a text telephone (TTY) and the public switched telephone network.
+(20) *internet Protocol Relay Service (IP Relay).* A telecommunications relay service that permits an individual with a hearing or a speech disability to communicate in text using an internet Protocol-enabled device via the internet, rather than using a text telephone (TTY) and the public switched telephone network.
 
-(21) *IP Relay access technology.* Any equipment, software, or other technology issued, leased, or provided by an Internet-based TRS provider that can be used to make and receive an IP Relay call.
+(21) *IP Relay access technology.* Any equipment, software, or other technology issued, leased, or provided by an internet-based TRS provider that can be used to make and receive an IP Relay call.
 
-(22) *iTRS access technology.* Any equipment, software, or other technology issued, leased, or provided by an Internet-based TRS provider that can be used to make and receive an Internet-based TRS call.
+(22) *iTRS access technology.* Any equipment, software, or other technology issued, leased, or provided by an internet-based TRS provider that can be used to make and receive an internet-based TRS call.
 
 (23) *New default provider.* An iTRS provider that, either directly or through its numbering partner, initiates or implements the process to become the iTRS user's default provider by replacing the iTRS user's original default provider.
 
@@ -54,13 +54,13 @@
 
 (i) Means a service that -
 
-(A) Enables real-time voice communications that originate from or terminate to the user's location using Internet protocol or any successor protocol; and
+(A) Enables real-time voice communications that originate from or terminate to the user's location using internet protocol or any successor protocol; and
 
-(B) Requires Internet protocol compatible customer premises equipment; and
+(B) Requires internet protocol compatible customer premises equipment; and
 
 (ii) Does not include any service that is an interconnected VoIP service.
 
-(26) *Numbering partner.* Any entity with which an Internet-based TRS provider has entered into a commercial arrangement to obtain North American Numbering Plan telephone numbers.
+(26) *Numbering partner.* Any entity with which an internet-based TRS provider has entered into a commercial arrangement to obtain North American Numbering Plan telephone numbers.
 
 (27) *Original default provider.* An iTRS provider that is the iTRS user's default provider immediately before that iTRS user's default provider is changed.
 
@@ -74,7 +74,7 @@
 
 (32) *Qualified interpreter.* An interpreter who is able to interpret effectively, accurately, and impartially, both receptively and expressively, using any necessary specialized vocabulary.
 
-(33) *Real-Time Text (RTT).* The term *real-time text* shall have the meaning set forth in § 67.1 of this chapter.
+(33) *Real-Time Text (RTT).* The term real-time text shall have the meaning set forth in § 67.1 of this chapter.
 
 (34) *Registered internet-based TRS user.* An individual who has registered with a VRS, IP Relay, or IP CTS provider as described in § 64.611.
 
@@ -94,7 +94,7 @@
 
 (42) *TRS Numbering Administrator.* The neutral administrator of the TRS Numbering Directory selected based on a competitive bidding process.
 
-(43) *TRS Numbering Directory.* The database administered by the TRS Numbering Administrator, the purpose of which is to map each registered Internet-based TRS user's NANP telephone number to his or her end device.
+(43) *TRS Numbering Directory.* The database administered by the TRS Numbering Administrator, the purpose of which is to map each registered internet-based TRS user's NANP telephone number to his or her end device.
 
 (44) *TRS User Registration Database.* A system of records containing TRS user identification data capable of:
 
@@ -118,10 +118,8 @@
 
 (49) *Voice carry over (VCO).* A form of TRS where the person with the hearing disability is able to speak directly to the other end user. The CA types the response back to the person with the hearing disability. The CA does not voice the conversation. Two-line VCO is a VCO service that allows TRS users to use one telephone line for voicing and the other for receiving TTY messages. A VCO-to-TTY TRS call allows a relay conversation to take place between a VCO user and a TTY user. VCO-to-VCO allows a relay conversation to take place between two VCO users.
 
-(50) *VRS access technology.* Any equipment, software, or other technology issued, leased, or provided by an Internet-based TRS provider that can be used to make and receive a VRS call.
+(50) *VRS access technology.* Any equipment, software, or other technology issued, leased, or provided by an internet-based TRS provider that can be used to make and receive a VRS call.
 
 (51) *VRS Access Technology Reference Platform.* A software product procured by or on behalf of the Commission that provides VRS functionality, including the ability to make and receive VRS and point-to-point calls, dial-around functionality, and the ability to update user registration location, and against which providers may test their own VRS access technology and platforms for compliance with the Commission's interoperability and portability rules.
 
-(b) For purposes of this subpart, all regulations and requirements applicable to common carriers shall also be applicable to providers of interconnected VoIP service.
-
-[68 FR 50976, Aug. 25, 2003, as amended at 69 FR 53351, Sept. 1, 2004; 72 FR 43559, Aug. 6, 2007; 73 FR 41294, July 18, 2008; 76 FR 24400, May 2, 2011; 76 FR 65969, Oct. 25, 2011; 78 FR 40605, July 5, 2013; 82 FR 7707, Jan. 23, 2017; 82 FR 17761, Apr. 13, 2017; 82 FR 39682, Aug. 22, 2017; 84 FR 8461, Mar. 8, 2019; 84 FR 26369, June 6, 2019; 84 FR 66779, Dec. 5, 2019; 85 FR 1127, Jan. 9, 2020]Editor's Note:At 84 FR 66779, Dec. 5, 2019, effective Jan. 6, 2020, paragraph (a) was revised, removing paragraphs (a)(1) through (51). At 85 FR 1127, Jan. 9, 2020, effective Feb. 10, 2020, paragraph (a)(39) was revised. While revising paragraph (a)(39), paragraphs (a)(1) through (38) and (40) through (51) were incorrectly added due to a technical error. A document correctly adding paragraphs (a)(1) through (51) will be published in the Federal Register at a later date.
+[68 FR 50976, Aug. 25, 2003, as amended at 69 FR 53351, Sept. 1, 2004; 72 FR 43559, Aug. 6, 2007; 73 FR 41294, July 18, 2008; 76 FR 24400, May 2, 2011; 76 FR 65969, Oct. 25, 2011; 78 FR 40605, July 5, 2013; 82 FR 7707, Jan. 23, 2017; 82 FR 17761, Apr. 13, 2017; 82 FR 39682, Aug. 22, 2017; 84 FR 8461, Mar. 8, 2019; 84 FR 26369, June 6, 2019; 84 FR 66779, Dec. 5, 2019; 85 FR 1127, Jan. 9, 2020; 85 FR 9390, Feb. 19, 2020]

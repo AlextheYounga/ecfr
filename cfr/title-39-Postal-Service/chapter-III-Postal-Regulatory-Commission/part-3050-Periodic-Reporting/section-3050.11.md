@@ -1,5 +1,7 @@
 ##### § 3050.11 Proposals to change an accepted analytical principle applied in the Postal Service's annual periodic reports to the Commission. #####
 
+Link to an amendment published at 85 FR 9660, Feb. 19, 2020.
+
 (a) To improve the quality, accuracy, or completeness of the data or analysis of data contained in the Postal Service's annual periodic reports to the Commission, the Commission, acting on its own behalf, may issue a notice of proceeding to change an accepted analytical principle. In addition, any interested person, including the Postal Service or a public representative, may submit a petition to the Commission to initiate such a proceeding.
 
 (b) *Form and content of notice or petition.* The notice of proceeding or petition shall identify the accepted analytical principle proposed for review, explain its perceived deficiencies, and suggest how those deficiencies should be remedied.

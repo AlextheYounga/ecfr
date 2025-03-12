@@ -1,5 +1,7 @@
 ##### § 3032.5 Postal Service rules that create an unfair competitive advantage. #####
 
+Link to an amendment published at 85 FR 9656, Feb. 19, 2020.
+
 (a) A complaint alleging a violation of 30 U.S.C. 404(a)(a)(1) must show that a Postal Service rule, regulation, or standard has the effect of:
 
 (1) Precluding competition; or

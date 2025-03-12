@@ -1,5 +1,7 @@
 ##### § 3010.11 Proceedings for Type 1-A, Type 1-B, and Type 1-C rate adjustment filings. #####
 
+Link to an amendment published at 85 FR 9657, Feb. 19, 2020.Link to an amendment published at 85 FR 9660, Feb. 19, 2020.
+
 (a) The Commission will establish a docket for each notice of Type 1-A, Type 1-B, or Type 1-C rate adjustment filing, promptly publish notice of the filing in the Federal Register, and post the filing on its Web site. The notice shall include:
 
 (1) The general nature of the proceeding;

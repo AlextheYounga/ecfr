@@ -1,5 +1,7 @@
 ##### § 3002.12 Office of Accountability and Compliance. #####
 
+Link to an amendment published at 85 FR 9616, Feb. 19, 2020.
+
 (a) The Office of Accountability and Compliance is responsible for technical analysis and the formulation of policy recommendations for the Commission in both domestic and international matters, including those governed by the Universal Postal Union.
 
 (b) The Office of Accountability and Compliance provides the analytic support to the Commission for the review of rate changes, negotiated service agreements, classification of products, the Annual Compliance Determination, the Annual Report, changes to postal services, post office closings and other issues which come before the Commission.” The functional areas of expertise within this office are:

@@ -1,5 +1,7 @@
 ##### § 3005.13 Subpoenas issued in response to a third-party request. #####
 
+Link to an amendment published at 85 FR 9645, Feb. 19, 2020.
+
 (a) *Procedure for requesting and issuing subpoenas when hearings have been ordered.* A participant in any proceeding in which a hearing has been ordered by the Commission may request the issuance of a subpoena to a covered person pursuant to § 3005.11.
 
 (1) Subpoenas may be requested to enforce an order to compel previously issued pursuant to the rules of practice with which the Postal Service has failed to comply.

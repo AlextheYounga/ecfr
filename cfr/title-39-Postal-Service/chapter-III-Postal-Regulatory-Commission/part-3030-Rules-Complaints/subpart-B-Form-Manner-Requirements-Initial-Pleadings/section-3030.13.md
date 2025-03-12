@@ -1,5 +1,7 @@
 ##### § 3030.13 Conditions for applying rate or service inquiry procedures to complaints. #####
 
+Link to an amendment published at 85 FR 9656, Feb. 19, 2020.
+
 (a) This section applies to complaints that concern rate or service matters that are isolated incidents affecting few mail users provided that the complaint does not either:
 
 (1) Raise unfair competition issues;

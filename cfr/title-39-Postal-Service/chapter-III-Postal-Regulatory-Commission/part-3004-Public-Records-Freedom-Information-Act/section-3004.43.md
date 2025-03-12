@@ -1,5 +1,7 @@
 ##### § 3004.43 Response to requests. #####
 
+Link to an amendment published at 85 FR 9617, Feb. 19, 2020.
+
 (a) *Determination.* Within 20 days (excluding Saturdays, Sundays, and legal holidays) after receipt of a request for a Commission record, the Chief FOIA Officer or his/her designee will notify the requester of its determination to grant or deny the request and the right to seek assistance from the Commission's FOIA Public Liaison. In the case of an adverse determination, the Commission will notify the requester of his/her right to appeal and right to seek dispute resolution services from the Commission's FOIA Public Liaison or the Office of Government Information Services.
 
 (b) *Granting request.* If granting the request, the Chief FOIA Officer or his/her designee will notify the requester of any fees that must be paid.

@@ -1,5 +1,7 @@
 ##### § 3010.65 Special procedures applicable to exigent requests. #####
 
+Link to an amendment published at 85 FR 9658, Feb. 19, 2020.Link to an amendment published at 85 FR 9660, Feb. 19, 2020.
+
 (a) The Commission will establish a docket for each exigent request, promptly publish notice of the request in the Federal Register, and post the filing on its Web site. The notice shall include:
 
 (1) The general nature of the proceeding;

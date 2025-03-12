@@ -1,5 +1,7 @@
 ##### § 3025.13 Deadlines for appeals. #####
 
+Link to an amendment published at 85 FR 9655, Feb. 19, 2020.
+
 (a) *In general.* If the Postal Service has issued a final determination to close or consolidate a post office, an appeal is due within 30 days of the final determination being made available in conformance with § 3025.3(b).
 
 (b) *Appeals sent by mail.* If sent by mail, a Petition for Review must be postmarked no later than 30 days after the final determination has been made available.

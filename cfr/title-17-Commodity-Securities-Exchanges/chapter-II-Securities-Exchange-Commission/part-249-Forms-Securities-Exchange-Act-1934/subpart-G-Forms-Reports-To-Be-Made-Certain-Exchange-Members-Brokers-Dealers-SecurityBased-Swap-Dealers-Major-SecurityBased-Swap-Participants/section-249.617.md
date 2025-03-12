@@ -1,0 +1,5 @@
+##### § 249.617 Form X-17A-5, information required of certain brokers, dealers, security-based swap dealers, and major security-based swap participants pursuant to sections 15F and 17 of the Securities Exchange Act of 1934 and §§ 240.17a-5, 240.17a-10, 240.17a-11, 240.17a-12, and 240.18a-79 of this chapter, as applicable. #####
+
+Appropriate parts of Form X-17A-5, as applicable, shall be used by brokers, dealers, security-based swap dealers, and major security-based swap participants required to file reports under §§ 240.17a-5, 240.17a-10, 240.17a-11, 240.17a-12, and 240.18a-7 of this chapter, as applicable.
+
+[84 FR 68669, Dec. 16, 2019]Editorial Note:For Federal Register citations affecting Form X-17A-5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
