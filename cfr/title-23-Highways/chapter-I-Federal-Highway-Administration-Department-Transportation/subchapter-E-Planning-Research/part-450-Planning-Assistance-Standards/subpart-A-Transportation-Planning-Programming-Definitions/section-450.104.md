@@ -1,5 +1,7 @@
 ##### § 450.104 Definitions. #####
 
+Link to an amendment published at 82 FR 56542, Nov. 29, 2017.
+
 Unless otherwise specified, the definitions in 23 U.S.C. 101(a) and 49 U.S.C. 5302 are applicable to this part.
 
 *Administrative modification* means a minor revision to a long-range statewide or metropolitan transportation plan, Transportation Improvement Program (TIP), or Statewide Transportation Improvement Program (STIP) that includes minor changes to project/project phase costs, minor changes to funding sources of previously included projects, and minor changes to project/project phase initiation dates. An administrative modification is a revision that does not require public review and comment, a redemonstration of fiscal constraint, or a conformity determination (in nonattainment and maintenance areas).

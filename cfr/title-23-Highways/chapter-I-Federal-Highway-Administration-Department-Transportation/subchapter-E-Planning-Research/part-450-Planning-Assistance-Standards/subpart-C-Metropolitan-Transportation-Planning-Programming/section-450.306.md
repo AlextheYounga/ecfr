@@ -1,5 +1,7 @@
 ##### § 450.306 Scope of the metropolitan transportation planning process. #####
 
+Link to an amendment published at 82 FR 56543, Nov. 29, 2017.
+
 (a) To accomplish the objectives in § 450.300 and § 450.306(b), metropolitan planning organizations designated under § 450.310, in cooperation with the State and public transportation operators, shall develop long-range transportation plans and TIPs through a performance-driven, outcome-based approach to planning for metropolitan areas of the State.
 
 (b) The metropolitan transportation planning process shall be continuous, cooperative, and comprehensive, and provide for consideration and implementation of projects, strategies, and services that will address the following factors:

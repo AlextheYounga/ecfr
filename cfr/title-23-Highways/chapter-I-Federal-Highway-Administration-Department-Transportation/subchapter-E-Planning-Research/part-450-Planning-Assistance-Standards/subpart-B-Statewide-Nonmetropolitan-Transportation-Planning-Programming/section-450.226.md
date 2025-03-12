@@ -1,5 +1,7 @@
 ##### § 450.226 Phase-in of new requirements. #####
 
+Link to an amendment published at 82 FR 56543, Nov. 29, 2017.
+
 (a) Prior to May 27, 2018, a State may adopt a long-range statewide transportation plan that has been developed using the SAFETEA-LU requirements or the provisions and requirements of this part. On or after May 27, 2018, a State may only adopt a long-range statewide transportation plan that it has developed according to the provisions and requirements of this part.
 
 (b) Prior to May 27, 2018 (2 years after the publication date of this rule), FHWA/FTA may approve a STIP update or amendment that has been developed using the SAFETEA-LU requirements or the provisions and requirements of this part. On or after May 27, 2018, FHWA/FTA may only approve a STIP update or amendment that a State has developed according to the provisions and requirements of this part, regardless of when the State developed the STIP.

@@ -1,7 +1,5 @@
 ##### § 571.136 Standard No. 136; Electronic stability control systems for heavy vehicles. #####
 
-Link to an amendment published at 82 FR 50092, Oct. 30, 2017.
-
 S1 *Scope.* This standard establishes performance and equipment requirements for electronic stability control (ESC) systems on heavy vehicles.
 
 S2 *Purpose.* The purpose of this standard is to reduce crashes caused by rollover or by directional loss-of-control.
@@ -72,9 +70,13 @@ S4 *Definitions.*
 
 *Stop-request system* means a vehicle-integrated system for passenger use to signal to a vehicle operator that they are requesting a stop.
 
+*Tandem axle* means a group or set of two or more axles placed in close arrangement, one behind the other, with the centerlines of adjacent axles not more than 72 inches apart.
+
 *Transit bus* means a bus that is equipped with a stop-request system sold for public transportation provided by, or on behalf of, a State or local government and that is not an over-the-road bus.
 
 *Understeer* means a condition in which the vehicle's yaw rate is less than the yaw rate that would occur at the vehicle's speed as result of the Ackerman Steer Angle.
+
+*Wheelbase* means the longitudinal distance between the center of the front axle and the center of the rear axle. For vehicles with tandem axles, the center of the axle is the midpoint between the centers of the most forward and most rearward tandem axles, measured when all liftable axles are in the lowered position.
 
 *Yaw Rate* means the rate of change of the vehicle's heading angle measure in degrees per second of rotation about a vertical axis through the vehicle's center of gravity.
 
@@ -142,7 +144,7 @@ S6.2.4 *J-Turn Test Maneuver Test Course.* The test course for the J-Turn test m
 
 S6.2.4.1 The test course consists of a straight entrance lane with a length of 22.9 meters (75 feet) tangentially connected to a curved lane section with a radius of 45.7 meters (150 feet) measured from the center of the lane.
 
-S6.2.4.2 For truck tractors, the lane width of the test course is 3.7 meters (12 feet). For buses, the lane width of the test course is 3.7 meters (12 feet) for the straight section and is 4.3 meters (14 feet) for the curved section.
+S6.2.4.2 For truck tractors, the lane width of the test course is 3.7 meters (12 feet). At the manufacturer's option, for truck tractors with a wheelbase equal to or greater than 7112 mm (280 inches) the lane width of the test course is 3.7 meters (12 feet) for the straight section and is 4.3 meters (14 feet) for the curved section. For buses, the lane width of the test course is 3.7 meters (12 feet) for the straight section and is 4.3 meters (14 feet) for the curved section.
 
 S6.2.4.3 The start gate is the tangent point on the radius (the intersection of the straight lane and the curved lane sections) and is designated as zero degrees of radius of arc angle. The end gate is the point on the radius that is 120 degrees of radius arc angle measured from the tangent point.
 
@@ -272,4 +274,4 @@ S8.2.1 All three-axle truck tractors with a front axle that has a GAWR of 6,622 
 
 S8.2.2 All truck tractors manufactured on or after August 1, 2019 must comply with this standard.
 
-[80 FR 36105, June 23, 2015]
+[80 FR 36105, June 23, 2015, as amended at 82 FR 50092, Oct. 30, 2017]

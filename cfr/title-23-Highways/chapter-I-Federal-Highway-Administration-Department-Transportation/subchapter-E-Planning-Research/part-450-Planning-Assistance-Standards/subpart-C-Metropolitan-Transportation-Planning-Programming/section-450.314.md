@@ -1,5 +1,7 @@
 ##### § 450.314 Metropolitan planning agreements. #####
 
+Link to an amendment published at 82 FR 56544, Nov. 29, 2017.
+
 (a) The MPO(s), the State(s), and the providers of public transportation shall cooperatively determine their mutual responsibilities in carrying out the metropolitan transportation planning process. These responsibilities shall be clearly identified in written agreements among the MPO(s), the State(s), and the providers of public transportation serving the MPA. To the extent possible, a single agreement among all responsible parties should be developed. The written agreement(s) shall include specific provisions for the development of financial plans that support the metropolitan transportation plan (see § 450.324) and the metropolitan TIP (see § 450.326), and development of the annual listing of obligated projects (see § 450.334).
 
 (b) The MPO(s), the State(s), and the providers of public transportation should periodically review and update the agreement, as appropriate, to reflect effective changes.

@@ -1,5 +1,7 @@
 ##### § 450.336 Self-certifications and Federal certifications. #####
 
+Link to an amendment published at 82 FR 56545, Nov. 29, 2017.
+
 (a) For all MPAs, concurrent with the submittal of the entire proposed TIP to the FHWA and the FTA as part of the STIP approval, the State and the MPO shall certify at least every 4 years that the metropolitan transportation planning process is being carried out in accordance with all applicable requirements including:
 
 (1) 23 U.S.C. 134, 49 U.S.C. 5303, and this subpart;

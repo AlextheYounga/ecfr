@@ -1,5 +1,7 @@
 ##### § 450.324 Development and content of the metropolitan transportation plan. #####
 
+Link to an amendment published at 82 FR 56544, Nov. 29, 2017.
+
 (a) The metropolitan transportation planning process shall include the development of a transportation plan addressing no less than a 20-year planning horizon as of the effective date. In formulating the transportation plan, the MPO(s) shall consider factors described in § 450.306 as the factors relate to a minimum 20-year forecast period. In nonattainment and maintenance areas, the effective date of the transportation plan shall be the date of a conformity determination issued by the FHWA and the FTA. In attainment areas, the effective date of the transportation plan shall be its date of adoption by the MPO(s).
 
 (b) The transportation plan shall include both long-range and short-range strategies/actions that provide for the development of an integrated multimodal transportation system (including accessible pedestrian walkways and bicycle transportation facilities) to facilitate the safe and efficient movement of people and goods in addressing current and future transportation demand.

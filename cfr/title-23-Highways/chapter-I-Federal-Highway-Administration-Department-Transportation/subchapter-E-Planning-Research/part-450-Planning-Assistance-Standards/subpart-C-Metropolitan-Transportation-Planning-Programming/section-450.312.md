@@ -1,5 +1,7 @@
 ##### § 450.312 Metropolitan Planning Area boundaries. #####
 
+Link to an amendment published at 82 FR 56543, Nov. 29, 2017.
+
 (a) At a minimum, the boundaries of an MPA shall encompass the entire existing UZA (as defined by the Bureau of the Census) plus the contiguous area expected to become urbanized within a 20-year forecast period for the metropolitan transportation plan.
 
 (1) Subject to this minimum requirement, the boundaries of an MPA shall be determined through an agreement between the MPO and the Governor.

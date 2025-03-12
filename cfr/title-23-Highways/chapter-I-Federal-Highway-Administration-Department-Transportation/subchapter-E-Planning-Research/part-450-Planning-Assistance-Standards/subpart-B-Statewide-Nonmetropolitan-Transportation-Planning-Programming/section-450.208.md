@@ -1,5 +1,7 @@
 ##### § 450.208 Coordination of planning process activities. #####
 
+Link to an amendment published at 82 FR 56542, Nov. 29, 2017.
+
 (a) In carrying out the statewide transportation planning process, each State shall, at a minimum:
 
 (1) Coordinate planning carried out under this subpart with the metropolitan transportation planning activities carried out under subpart C of this part for metropolitan areas of the State. When carrying out transportation planning activities under this part, the State and MPOs shall coordinate on information, studies, or analyses for portions of the transportation system located in MPAs. The State(s), the MPO(s), and the operators of public transportation must have a current metropolitan planning agreement, which will identify coordination strategies that support cooperative decisionmaking and the resolution of disagreements;

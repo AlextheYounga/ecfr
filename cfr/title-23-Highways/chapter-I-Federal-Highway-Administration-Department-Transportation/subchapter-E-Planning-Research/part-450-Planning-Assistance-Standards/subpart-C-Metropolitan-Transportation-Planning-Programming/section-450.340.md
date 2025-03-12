@@ -1,5 +1,7 @@
 ##### § 450.340 Phase-in of new requirements. #####
 
+Link to an amendment published at 82 FR 56545, Nov. 29, 2017.
+
 (a) Prior to May 27, 2018, an MPO or MPOs may adopt a metropolitan transportation plan that has been developed using the SAFETEA-LU requirements or the provisions and requirements of this part. On or after May 27, 2018, an MPO or MPOs may not adopt a metropolitan transportation plan that has not been developed according to the provisions and requirements of this part.
 
 (b) Prior to May 27, 2018 (2 years after the publication date of this rule), FHWA/FTA may determine the conformity of, or approve as part of a STIP, a TIP that has been developed using SAFETEA-LU requirements or the provisions and requirements of this part. On or after May 27, 2018 (2 years after the publication date of this rule), FHWA/FTA may only determine the conformity of, or approve as part of a STIP, a TIP that has been developed according to the provisions and requirements of this part, regardless of when the MPO developed the TIP.

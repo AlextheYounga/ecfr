@@ -1,5 +1,7 @@
 ##### § 450.330 TIP action by the FHWA and the FTA. #####
 
+Link to an amendment published at 82 FR 56545, Nov. 29, 2017.
+
 (a) The FHWA and the FTA shall jointly find that each metropolitan TIP is consistent with the metropolitan transportation plan produced by the continuing and comprehensive transportation process carried on cooperatively by the MPO(s), the State(s), and the public transportation operator(s) in accordance with 23 U.S.C. 134 and 49 U.S.C. 5303. This finding shall be based on the self-certification statement submitted by the State and MPO(s) under § 450.336, a review of the metropolitan transportation plan by the FHWA and the FTA, and upon other reviews as deemed necessary by the FHWA and the FTA.
 
 (b) In nonattainment and maintenance areas, the MPO, as well as the FHWA and the FTA, shall determine conformity of any updated or amended TIP, in accordance with 40 CFR part 93. After the FHWA and the FTA issue a conformity determination on the TIP, the TIP shall be incorporated, without change, into the STIP, directly or by reference.

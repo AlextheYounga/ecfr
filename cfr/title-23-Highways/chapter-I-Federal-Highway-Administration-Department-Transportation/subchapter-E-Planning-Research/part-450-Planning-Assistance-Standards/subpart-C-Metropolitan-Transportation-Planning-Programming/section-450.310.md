@@ -1,5 +1,7 @@
 ##### § 450.310 Metropolitan planning organization designation and redesignation. #####
 
+Link to an amendment published at 82 FR 56543, Nov. 29, 2017.
+
 (a) To carry out the metropolitan transportation planning process under this subpart, an MPO shall be designated for each urbanized area with a population of more than 50,000 individuals (as determined by the Bureau of the Census).
 
 (b) MPO designation shall be made by agreement between the Governor and units of general purpose local government that together represent at least 75 percent of the affected population (including the largest incorporated city, based on population, as named by the Bureau of the Census) or in accordance with procedures established by applicable State or local law.

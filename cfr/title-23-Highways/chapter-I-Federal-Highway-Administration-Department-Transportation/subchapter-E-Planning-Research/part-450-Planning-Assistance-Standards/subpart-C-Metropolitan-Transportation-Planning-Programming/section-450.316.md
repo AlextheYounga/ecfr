@@ -1,5 +1,7 @@
 ##### § 450.316 Interested parties, participation, and consultation. #####
 
+Link to an amendment published at 82 FR 56544, Nov. 29, 2017.
+
 (a) The MPO shall develop and use a documented participation plan that defines a process for providing individuals, affected public agencies, representatives of public transportation employees, public ports, freight shippers, providers of freight transportation services, private providers of transportation (including intercity bus operators, employer-based commuting programs, such as carpool program, vanpool program, transit benefit program, parking cash-out program, shuttle program, or telework program), representatives of users of public transportation, representatives of users of pedestrian walkways and bicycle transportation facilities, representatives of the disabled, and other interested parties with reasonable opportunities to be involved in the metropolitan transportation planning process.
 
 (1) The MPO shall develop the participation plan in consultation with all interested parties and shall, at a minimum, describe explicit procedures, strategies, and desired outcomes for:
