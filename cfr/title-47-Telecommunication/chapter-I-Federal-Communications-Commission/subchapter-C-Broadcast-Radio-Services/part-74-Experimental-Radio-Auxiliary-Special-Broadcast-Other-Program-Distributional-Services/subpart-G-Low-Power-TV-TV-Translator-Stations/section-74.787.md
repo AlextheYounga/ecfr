@@ -1,5 +1,7 @@
 ##### § 74.787 Licensing. #####
 
+Link to an amendment published at 88 FR 30670, May 12, 2023.
+
 (a) *Applications for low power television and television translator stations.*
 
 (1)-(2) [Reserved]

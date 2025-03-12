@@ -1,5 +1,7 @@
 ##### § 74.783 Station identification. #####
 
+Link to an amendment published at 88 FR 30670, May 12, 2023.
+
 (a) Each low power TV and TV translator station not originating local programming as defined by § 74.701(h) operating over 0.001 kw peak visual power (0.002 kw when using circularly polarized antennas) must transmit its station identification as follows:
 
 (1) By transmitting the call sign in International Morse Code at least once each hour. This transmission may be accomplished by means of an automatic device as required by § 74.750(c)(7). Call sign transmission shall be made at a code speed not in excess of 20 words per minute; or

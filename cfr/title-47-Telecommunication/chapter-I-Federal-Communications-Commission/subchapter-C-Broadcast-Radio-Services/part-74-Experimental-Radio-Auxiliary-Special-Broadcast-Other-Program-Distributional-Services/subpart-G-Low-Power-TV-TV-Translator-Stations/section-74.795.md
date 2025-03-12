@@ -1,5 +1,7 @@
 ##### § 74.795 Low power TV and TV translator transmission system facilities. #####
 
+Link to an amendment published at 88 FR 30671, May 12, 2023.
+
 (a) A low power TV or TV translator station shall operate with a transmitter that is either certificated for licensing based on the following provisions or has been modified for digital operation pursuant to § 74.796.
 
 (b) The following requirements must be met before low power TV and TV translator transmitter will be certificated by the FCC:

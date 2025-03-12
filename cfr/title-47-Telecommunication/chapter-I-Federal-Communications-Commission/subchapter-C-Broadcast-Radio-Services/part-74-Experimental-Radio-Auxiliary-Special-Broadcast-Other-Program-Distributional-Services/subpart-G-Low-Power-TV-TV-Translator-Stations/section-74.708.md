@@ -1,5 +1,7 @@
 ##### § 74.708 Class A TV and digital Class A TV station protection. #####
 
+Link to an amendment published at 88 FR 30668, May 12, 2023.
+
 (a) The Class A TV and digital Class A TV station protected contours are specified in § 73.6010 of this chapter.
 
 (b) An application to construct a new low power TV, TV translator, or TV booster station or change the facilities of an existing station will not be accepted if it fails to protect an authorized Class A TV or digital Class A TV station or an application for such a station filed prior to the date the low power TV, TV translator, or TV booster application is filed.

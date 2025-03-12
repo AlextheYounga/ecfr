@@ -1,5 +1,7 @@
 ##### § 74.791 Call signs. #####
 
+Link to an amendment published at 88 FR 30670, May 12, 2023.
+
 (a) *Low power stations.* Call signs for low power stations will be made up of a prefix consisting of the initial letter K or W followed by the channel number assigned to the station and two additional letters and a suffix consisting of the letters -D.
 
 (b) *Television translator stations.* Call signs for digital television translator stations will be made up of a prefix consisting of the initial letter K or W followed by the channel number assigned to the station and two additional letters and a suffix consisting of the letter -D.

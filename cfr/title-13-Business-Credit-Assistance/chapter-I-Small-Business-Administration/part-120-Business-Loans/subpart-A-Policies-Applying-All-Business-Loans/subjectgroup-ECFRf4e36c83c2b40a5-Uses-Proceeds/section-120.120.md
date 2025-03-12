@@ -1,8 +1,6 @@
 ##### § 120.120 What are eligible uses of proceeds? #####
 
-Link to an amendment published at 88 FR 21899, Apr. 12, 2023.
-
-A small business must use an SBA business loan for sound business purposes. The uses of proceeds are prescribed in each loan's Authorization.
+A small business must use an SBA business loan for sound business purposes.
 
 (a) A Borrower may use loan proceeds from any SBA loan to:
 
@@ -30,4 +28,4 @@ A small business must use an SBA business loan for sound business purposes. The 
 
 (c) A Borrower may use 7(a) loan proceeds for refinancing certain outstanding debts.
 
-[61 FR 3235, Jan. 31, 1996, as amended at 77 FR 19533, Apr. 2, 2012]
+[61 FR 3235, Jan. 31, 1996, as amended at 77 FR 19533, Apr. 2, 2012; 88 FR 21899, Apr. 12, 2023]

@@ -1,5 +1,7 @@
 ##### § 74.789 Broadcast regulations applicable to low power television and television translator stations. #####
 
+Link to an amendment published at 88 FR 30670, May 12, 2023.
+
 The following sections are applicable to low power television and television translator stations:
 
 (a) Section 74.600—Eligibility for license.

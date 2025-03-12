@@ -1,7 +1,5 @@
 ##### § 120.842 ALP Express Loans. #####
 
-Link to an amendment published at 88 FR 21900, Apr. 12, 2023.
-
 (a) *Definition.* For the purposes of this section, an *ALP Express Loan:*
 
 (1) Means a 504 loan in an amount that is not more than $500,000; and
@@ -16,9 +14,9 @@ Link to an amendment published at 88 FR 21900, Apr. 12, 2023.
 
 (ii) *Credit decisions.* The ALP CDC is responsible for properly determining the applicant's creditworthiness and establishing the terms and conditions under which the ALP Express Loan will be made in accordance with SBA's Loan Program Requirements and prudent lending standards. The ALP CDC's determination regarding creditworthiness will not be subject to SBA review.
 
-(4) *Submission of loan documents.* An ALP CDC must notify SBA of its credit decision on an ALP Express Loan by submitting to SBA all required documentation. SBA will review these documents to determine whether the applicant and the ALP Express Loan are eligible and whether SBA funds are available for the ALP Express Loan. If approved, SBA will notify the ALP CDC of the loan number assigned to the loan and provide the CDC with a signed copy of the Loan Authorization.
+(4) *Submission of loan documents.* An ALP CDC must notify SBA of its credit decision on an ALP Express Loan by submitting to SBA all required documentation. SBA will review these documents to determine whether the applicant and the ALP Express Loan are eligible and whether SBA funds are available for the ALP Express Loan. If approved, SBA will notify the ALP CDC of the loan number assigned to the loan.
 
-(5) *Loan and Debenture closing.* After receiving notification of the loan number and a signed copy of the Loan Authorization from SBA, the ALP CDC is responsible for properly undertaking all actions necessary to close the ALP Express Loan and Debenture in accordance with the expedited loan closing procedures applicable to a Priority CDC and with § 120.960.
+(5) *Loan and Debenture closing.* After receiving notification of the loan number from SBA, the ALP CDC is responsible for properly undertaking all actions necessary to close the ALP Express Loan and Debenture in accordance with the expedited loan closing procedures applicable to a Priority CDC and with § 120.960, and in compliance with all applicable Loan Program Requirements.
 
 (6) *Servicing.* The ALP CDC is responsible for servicing its ALP Express Loans in accordance with § 120.970. SBA may in certain circumstances, in its discretion, elect to handle such duties with respect to a particular ALP Express Loan or Loans. Additional servicing requirements are set forth in subpart E of this part. The CDC must promptly notify SBA when it approves any servicing action delegated to the CDC under Loan Program Requirements.
 
@@ -26,4 +24,4 @@ Link to an amendment published at 88 FR 21900, Apr. 12, 2023.
 
 (d) *Applicability.* The authority to make ALP Express Loans is available for applications submitted to the ALP CDC on or after June 27, 2022 and approved through September 30, 2023.
 
-[87 FR 37982, June 27, 2022]
+[87 FR 37982, June 27, 2022, as amended at 88 FR 21900, Apr. 12, 2023]

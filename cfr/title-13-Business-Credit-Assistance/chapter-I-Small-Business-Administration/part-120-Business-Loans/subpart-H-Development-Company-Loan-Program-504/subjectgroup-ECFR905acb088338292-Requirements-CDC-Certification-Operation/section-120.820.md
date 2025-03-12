@@ -1,7 +1,5 @@
 ##### § 120.820 CDC Affiliation. #####
 
-Link to an amendment published at 88 FR 21900, Apr. 12, 2023.
-
 (a) A CDC must be independent and must not be affiliated (as determined in accordance with § 121.103 of this chapter) with any Person (as defined in § 120.10) except as permitted under this section.
 
 (b) A CDC may be affiliated with an entity (other than a 7(a) Lender or another CDC) whose function is economic development in the same Area of Operations and that is either a non-profit entity or a State or local government or political subdivision (e.g., council of governments).
@@ -14,4 +12,6 @@ Link to an amendment published at 88 FR 21900, Apr. 12, 2023.
 
 (f) A CDC must not directly or indirectly invest in a Licensee (as defined in § 107.50 of this chapter) licensed by SBA under the SBIC program authorized in Part A of Title III of the Small Business Investment Act, 15 U.S.C. 681 et seq. A CDC that has an SBA-approved investment in a Licensee as of November 6, 2003 may retain such investment.
 
-[79 FR 15649, Mar. 21, 2014]
+(g) Notwithstanding paragraphs (b), (c), and (e) of this section, a CDC may be affiliated with a Community Advantage SBLC. Additionally, CDCs that are also Community Advantage Pilot Program Lenders as of May 11, 2023 may be licensed as Community Advantage SBLCs.
+
+[79 FR 15649, Mar. 21, 2014, as amended at 88 FR 21900, Apr. 12, 2023]

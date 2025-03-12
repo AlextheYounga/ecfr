@@ -1,12 +1,14 @@
 ##### § 120.471 What are the minimum capital requirements for SBLCs? #####
 
-Link to an amendment published at 88 FR 21899, Apr. 12, 2023.
-
 (a) *Minimum capital requirements.* (1) Beginning on January 4, 2024, each SBLC that makes or acquires a 7(a) loan must maintain, at a minimum, unencumbered paid-in capital and paid-in surplus of at least $5,000,000, or 10 percent of the aggregate of its share of all outstanding loans, whichever is greater.
 
 (2) Any SBLC approved on or after January 4, 2021, including in the event of a change of ownership or control, must maintain the minimum capital requirement set forth in paragraph (a)(1) of this section.
 
 (3) Unless subject to paragraph (a)(1) or (2) of this section, an SBLC must comply with the minimum capital requirements that were in effect on January 3, 2021.
+
+(4) A Community Advantage SBLC must maintain a minimum amount of capital as determined at the discretion of the Administrator in consultation with SBA's Associate Administrator for the Office of Capital Access (AA/OCA), or their designee(s). The minimum capital amount as published in Loan Program Requirements will ensure sufficient risk protection for SBA and lenders while not burdening smaller lenders with large capital requirements.
+
+(5) Community Advantage SBLCs must maintain a loan loss reserve account as determined at the discretion of the Administrator in consultation with SBA's Associate Administrator for the Office of Capital Access (AA/OCA), or their designee(s) as published in Loan Program Requirements.
 
 (b) *Composition of capital.* For purposes of complying with paragraph (a) of this section, capital consists only of one or more of the following:
 
@@ -26,4 +28,4 @@ Link to an amendment published at 88 FR 21899, Apr. 12, 2023.
 
 (d) *Issuance of securities.* Without prior written SBA approval, an SBLC must not issue any securities (including stock options and debt securities) except stock dividends.
 
-[73 FR 75516, Dec. 11, 2008, as amended at 85 FR 78215, Dec. 4, 2020]
+[73 FR 75516, Dec. 11, 2008, as amended at 85 FR 78215, Dec. 4, 2020; 88 FR 21899, Apr. 12, 2023]

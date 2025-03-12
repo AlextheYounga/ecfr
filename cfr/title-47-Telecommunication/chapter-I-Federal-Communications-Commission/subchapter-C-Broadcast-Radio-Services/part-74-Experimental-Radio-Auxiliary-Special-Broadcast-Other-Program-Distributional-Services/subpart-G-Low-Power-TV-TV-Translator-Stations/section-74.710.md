@@ -1,5 +1,7 @@
 ##### § 74.710 Digital low power TV and TV translator station protection. #####
 
+Link to an amendment published at 88 FR 30668, May 12, 2023.
+
 (a) An application to construct a new low power TV, TV translator, or TV booster station or change the facilities of an existing station will not be accepted if it fails to protect an authorized digital low power TV or TV translator station or an application for such station filed prior to the date the low power TV, TV translator, or TV booster application is filed.
 
 (b) Applications for low power TV, TV translator and TV booster stations shall protect digital low power TV and TV translator stations pursuant to the following requirements:

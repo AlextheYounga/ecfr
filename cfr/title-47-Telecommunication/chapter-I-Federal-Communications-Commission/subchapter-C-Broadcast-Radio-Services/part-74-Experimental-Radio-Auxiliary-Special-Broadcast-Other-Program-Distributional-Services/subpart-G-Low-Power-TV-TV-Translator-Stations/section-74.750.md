@@ -1,5 +1,7 @@
 ##### § 74.750 Transmission system facilities. #####
 
+Link to an amendment published at 88 FR 30669, May 12, 2023.
+
 (a) A low power TV, TV translator, or TV booster station shall operate with a transmitter that is either certificated for licensing under the provisions of this subpart or type notified for use under part 73 of this chapter.
 
 (b) Transmitting antennas, antennas used to receive the signals to be rebroadcast, and transmission lines are not certificated by the FCC. External preamplifiers also may be used provided that they do not cause improper operation of the transmitting equipment, and use of such preamplifiers is not necessary to meet the provisions of paragraph (c) of this section.

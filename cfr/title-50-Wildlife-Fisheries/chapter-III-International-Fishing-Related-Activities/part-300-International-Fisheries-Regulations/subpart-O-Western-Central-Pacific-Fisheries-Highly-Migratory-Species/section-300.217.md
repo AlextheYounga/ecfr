@@ -1,5 +1,7 @@
 ##### § 300.217 Vessel identification. #####
 
+Link to an amendment published at 88 FR 30678, May 12, 2023.
+
 (a) *General.* (1) A fishing vessel must be marked in accordance with the requirements of this section in order for a WCPFC Area Endorsement to be issued for the fishing vessel.
 
 (2) Any fishing vessel of the United States with a WCPFC Area Endorsement or for which a WCPFC Area Endorsement is required shall be marked for identification purposes in accordance with this section, and all parts of such markings shall be clear, distinct, uncovered, and unobstructed.

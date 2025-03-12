@@ -1,8 +1,6 @@
 ##### § 120.801 How a 504 Project is financed. #####
 
-Link to an amendment published at 88 FR 21899, Apr. 12, 2023.
-
-(a) One or more small businesses may apply for 504 financing through a CDC serving the area where the 504 Project is located. SBA issues an Authorization if it agrees to guarantee part of the funding for a Project.
+(a) One or more small businesses may apply for 504 financing through a CDC serving the area where the 504 Project is located. SBA issues a loan number if it agrees to guarantee part of the funding for a Project.
 
 (b) Usually, a Project requires interim financing from an interim lender (often the same lender that later provides a portion of the permanent financing).
 
@@ -16,4 +14,4 @@ Link to an amendment published at 88 FR 21899, Apr. 12, 2023.
 
 (d) The Debenture is guaranteed 100 percent by SBA (with the full faith and credit of the United States), and sold to Underwriters who form Debenture Pools. Investors purchase interests in Debenture Pools and receive Certificates representing ownership of all or part of a Debenture Pool. SBA and CDCs use various agents to facilitate the sale and service of the Certificates and the orderly flow of funds among the parties.
 
-[61 FR 3235, Jan. 31, 1996, as amended at 64 FR 2118, Jan. 13, 1999]
+[61 FR 3235, Jan. 31, 1996, as amended at 64 FR 2118, Jan. 13, 1999; 88 FR 21899, Apr. 12, 2023]

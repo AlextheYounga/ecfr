@@ -1,5 +1,7 @@
 ##### § 74.763 Time of operation. #####
 
+Link to an amendment published at 88 FR 30669, May 12, 2023.
+
 (a) A low power TV or TV translator station is not required to adhere to any regular schedule of operation. However, the licensee of a TV translator station is expected to provide service to the extent that such is within its control and to avoid unwarranted interruptions in the service provided.
 
 (b) In the event that causes beyond the control of the low power TV or TV translator station licensee make it impossible to continue operating, the licensee may discontinue operation for a period of not more than 30 days without further authority from the FCC. Notification must be sent to the FCC in Washington, DC, Attention: Video Division, Media Bureau, not later than the 10th day of discontinued operation. During such period, the licensee shall continue to adhere to the requirements in the station license pertaining to the lighting of antenna structures. In the event normal operation is restored prior to the expiration of the 30 day period, the FCC in Washington, DC, Attention: Video Division, Media Bureau, shall be notified in writing of the date normal operations resumed. If causes beyond the control of the licensee make it impossible to comply within the allowed period, a request for Special Temporary Authority (see § 73.1635 of this chapter) shall be made to the FCC no later than the 30th day for such additional time as may be deemed necessary.

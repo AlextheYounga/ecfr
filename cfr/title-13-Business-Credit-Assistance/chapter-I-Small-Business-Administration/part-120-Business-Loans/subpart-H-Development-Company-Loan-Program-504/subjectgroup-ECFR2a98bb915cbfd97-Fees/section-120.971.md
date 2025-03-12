@@ -1,10 +1,8 @@
 ##### § 120.971 Allowable fees paid by Borrower. #####
 
-Link to an amendment published at 88 FR 21900, Apr. 12, 2023.
-
 (a) *CDC fees.* The fees a CDC may charge the Borrower in connection with a 504 loan and Debenture are limited to the following:
 
-(1) *Processing fee.* The CDC may charge up to 1.5 percent of the net Debenture proceeds to process the financing. Two-thirds of this fee will be considered earned and may be collected by the CDC when the Authorization for the Debenture is issued by SBA. The portion of the processing fee paid by the Borrower may be reimbursed from the Debenture proceeds;
+(1) *Processing fee.* The CDC may charge up to 1.5 percent of the net Debenture proceeds to process the financing. Two-thirds of this fee will be considered earned and may be collected by the CDC when the loan number is issued by SBA. The portion of the processing fee paid by the Borrower may be reimbursed from the Debenture proceeds;
 
 (2) *Closing fee.* The CDC may charge a reasonable closing fee sufficient to reimburse it for the expenses of its in-house or outside legal counsel, and other miscellaneous closing costs (CDC Closing Fee). Some closing costs may be funded out of the Debenture proceeds (see § 120.883 for limitations);
 
@@ -24,4 +22,4 @@ Link to an amendment published at 88 FR 21900, Apr. 12, 2023.
 
 (e) *Miscellaneous fees.* A funding fee not to exceed 0.25 percent of the Debenture may be charged to cover costs incurred by the trustee, fiscal agent, transfer agent.
 
-[61 FR 3235, Jan. 31, 1996, as amended at 64 FR 2119, Jan. 13, 1999; 68 FR 57988, Oct. 7, 2003]
+[61 FR 3235, Jan. 31, 1996, as amended at 64 FR 2119, Jan. 13, 1999; 68 FR 57988, Oct. 7, 2003; 88 FR 21900, Apr. 12, 2023]

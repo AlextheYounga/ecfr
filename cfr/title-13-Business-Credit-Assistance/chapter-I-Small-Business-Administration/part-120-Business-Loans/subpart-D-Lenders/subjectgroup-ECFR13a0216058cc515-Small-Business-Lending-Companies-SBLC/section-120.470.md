@@ -1,16 +1,14 @@
 ##### § 120.470 What are SBA's additional requirements for SBLCs? #####
 
-Link to an amendment published at 88 FR 21899, Apr. 12, 2023.
+In addition to complying with SBA's requirements for SBA Lenders and SBA Supervised Lenders, an SBLC (including a Community Advantage SBLC) must meet the requirements contained in this regulation and the SBLC regulations that follow.
 
-In addition to complying with SBA's requirements for SBA Lenders and SBA Supervised Lenders, an SBLC must meet the requirements contained in this regulation and the SBLC regulations that follow.
-
-(a) *Lending.* An SBLC may only make:
+(a) *Lending.* An SBLC or Community Advantage SBLC may make:
 
 (1) Loans under section 7(a) (except section 7(a)(13) of the Act in participation with SBA); and/or
 
 (2) SBA guaranteed loans to Intermediaries (see subpart G of this part). Such loans are subject to the same conditions as guaranteed loans made to Intermediaries by 7(a) Lenders.
 
-(b) *Business structure.* An SBLC must be a corporation (profit or non-profit) or a limited liability company or limited partnership.
+(b) *Business structure.* An SBLC must be a corporation (profit or nonprofit) or a limited liability company or limited partnership, except for a Community Advantage SBLC, which must either be a nonprofit corporation or have been a Community Advantage Pilot Program participant.
 
 (c) *Written agreement.* An SBLC must sign a written agreement with SBA.
 
@@ -20,7 +18,7 @@ In addition to complying with SBA's requirements for SBA Lenders and SBA Supervi
 
 (2) There must be two or more bonded officers, or one bonded officer and a bonded employee to open safe deposit boxes or withdraw securities from safekeeping. The SBLC must furnish to each depository bank, custodian, or entity providing safe deposit boxes a certified copy of the resolution implementing control procedures.
 
-(e) *Fidelity insurance.* An SBLC must maintain a Brokers Blanket Bond, Standard Form 14, or Finance Companies Blanket Bond, Standard Form 15, or such other form of coverage as SBA may approve, in a minimum amount of $2,000,000 executed by a surety holding a certificate of authority from the Secretary of the Treasury pursuant to 31 U.S.C. 9304-9308.
+(e) *Fidelity insurance.* An SBLC, except for a Community Advantage SBLC, must maintain a Brokers Blanket Bond, Standard Form 14, or Finance Companies Blanket Bond, Standard Form 15, or such other form of coverage as SBA may approve, in a minimum amount of $2,000,000 executed by a surety holding a certificate of authority from the Secretary of the Treasury pursuant to 31 U.S.C. 9304-9308. SBA's Administrator, in consultation with SBA's Associate Administrator for the Office of Capital Access (AA/OCA), or their designee(s), at their discretion, will determine the appropriate bond coverage levels for Community Advantage SBLCs as published in Loan Program Requirements.
 
 (f) *Common control.* (1) An SBLC must not control, be controlled by, or be under common control with another SBLC.
 
@@ -36,4 +34,4 @@ In addition to complying with SBA's requirements for SBA Lenders and SBA Supervi
 
 (g) *Borrowed funds.* In general, an SBLC may not be capitalized with borrowed funds. Shareholders owning 10 percent or more of any class of its stock must not use personally-borrowed funds to purchase the stock unless the net worth of the shareholder is at least twice the amount borrowed or unless the shareholder receives SBA's prior written approval for a lower ratio.
 
-[73 FR 75515, Dec. 11, 2008, as amended at 85 FR 78215, Dec. 4, 2020; 87 FR 38909, June 30, 2022]
+[73 FR 75515, Dec. 11, 2008, as amended at 85 FR 78215, Dec. 4, 2020; 87 FR 38909, June 30, 2022; 88 FR 21899, Apr. 12, 2023]
