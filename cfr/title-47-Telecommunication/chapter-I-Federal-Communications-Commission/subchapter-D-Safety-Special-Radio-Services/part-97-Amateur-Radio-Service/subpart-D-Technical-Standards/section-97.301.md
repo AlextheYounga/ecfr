@@ -137,10 +137,4 @@ The following transmitting frequency bands are available to an amateur station l
 |-----|---------|---------|---------|--------|
 |23 cm|1270-1295|1270-1295|1270-1295|(d), (o)|
 
-[75 FR 27201, May 14, 2010, as amended at 75 FR 78171, Dec. 15, 2010; 80 FR 38911, July 7, 2015; 82 FR 27214, June 14, 2017]Effective Date Note: At 82 FR 27214, June 14, 2017, § 97.301 was amended in the tables in each of paragraphs (b), (c), and (d) as follows:
-
-a. Add the sub-heading “LF” and the entry for the “2200 m” wavelength band; and
-
-b. Under the existing sub-heading “MF” add the entry for the “630 m” wavelength band.
-
-This text contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[75 FR 27201, May 14, 2010, as amended at 75 FR 78171, Dec. 15, 2010; 80 FR 38911, July 7, 2015; 82 FR 27214, June 14, 2017]

@@ -6,4 +6,4 @@
 
 (c) Antennas used to transmit in the 2200 m and 630 m bands must not exceed 60 meters in height above ground level.
 
-[64 FR 53242, Oct. 1, 1999, as amended at 82 FR 27214, June 14, 2017]Effective Date Note: At 82 FR 27214, June 14, 2017, § 97.15 was amended by adding paragraphs (c). This text contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[64 FR 53242, Oct. 1, 1999, as amended at 82 FR 27214, June 14, 2017]

@@ -164,4 +164,4 @@ Multiply ERP by 1.64 to convert to equivalent isotropically radiated power.
 
 (9) *Test.* Emissions containing no information having the designators with N as the third symbol. Test does not include pulse emissions with no information or modulation unless pulse emissions are also authorized in the frequency band.
 
-[54 FR 25857, June 20, 1989]Editorial Note:For Federal Register citations affecting § 97.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Note: At 82 FR 27214, June 14, 2017, § 97.3 was amended by revising paragraphs (b)(1) through (11) and adding paragraphs (b)(12) through (14). This text contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[54 FR 25857, June 20, 1989]Editorial Note:For Federal Register citations affecting § 97.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

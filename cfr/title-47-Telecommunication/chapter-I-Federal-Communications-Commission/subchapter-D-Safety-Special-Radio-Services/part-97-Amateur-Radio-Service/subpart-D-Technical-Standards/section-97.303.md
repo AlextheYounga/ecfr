@@ -126,4 +126,4 @@ Note to § 97.303:
 
 The Table of Frequency Allocations contains the complete, unabridged, and legally binding frequency sharing requirements that pertain to the Amateur Radio Service. *See* 47 CFR 2.104, 2.105, and 2.106. The United States, Puerto Rico, and the U.S. Virgin Islands are in Region 2 and other U.S. insular areas are in either Region 2 or 3; see appendix 1 to part 97.
 
-[75 FR 27203, May 14, 2010, as amended at 77 FR 5412, Feb. 3, 2012; 80 FR 38912, July 7, 2015; 82 FR 27215, June 14, 2017]Effective Date Note: At 82 FR 27215, June 14, 2017, § 97.303 was amended by adding paragraphs (g). This text contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[75 FR 27203, May 14, 2010, as amended at 77 FR 5412, Feb. 3, 2012; 80 FR 38912, July 7, 2015; 82 FR 27215, June 14, 2017]
