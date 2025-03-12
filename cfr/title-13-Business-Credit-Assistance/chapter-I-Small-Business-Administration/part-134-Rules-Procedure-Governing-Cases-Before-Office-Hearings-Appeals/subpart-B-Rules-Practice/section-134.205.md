@@ -1,5 +1,7 @@
 ##### § 134.205 The appeal file, confidential information, and protective orders. #####
 
+Link to an amendment published at 85 FR 14784, Mar. 16, 2020.
+
 (a) *The appeal file.* The appeal file includes: all pleadings and other submissions; all admitted evidence; any recordings and transcripts of proceedings; the solicitation and amendments; in the case of an appeal of an SBA determination, the entire record on which that determination was based (*i.e.,* the administrative record, protest file, area office file); and any orders and decisions that have been issued.
 
 (b) *Confidential business and financial information.* An appeal file usually contains confidential business and financial information pertaining to the party whose eligibility (as a small business, SDVO SBC, etc.) is at issue. A party may redact its own confidential business and financial information from the copies of its submissions it must serve on other non-government parties (usually protesters). A party served with redacted submissions must file and serve any objections to the redactions within two business days of its receipt of the submissions. The Judge then will rule on the objections and, if necessary, order the service of revised submissions.

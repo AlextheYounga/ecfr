@@ -1,7 +1,5 @@
 ##### § 679.41 Transfer of quota shares and IFQ. #####
 
-Link to an amendment published at 85 FR 8481, Feb. 14, 2020.
-
 (a) *General.* (1) Except as provided in paragraph (a)(2) of this section, transfer of QS or IFQ means any transaction requiring QS, or the use thereof in the form of IFQ, to pass from one person to another, permanently or for a fixed period of time.
 
 (2) Transactions requiring IFQ permits to be issued in the name of a hired master employed by an individual or a corporation are not transfers of QS or IFQ.
@@ -224,11 +222,11 @@ Link to an amendment published at 85 FR 8481, Feb. 14, 2020.
 
 QN = (QC × QSPN × RATE)/(SUMCDQ − [RATE × SUMTAC]) ([1 − RATE] × TACAVE)(QSPC × [CDQ PCT − RATE])Where:QN = quota share in non-CDQ areaQC = quota share in CDQ areaQSPN = quota share pool in non-CDQ area (as existing on January 31, 1995)RATE = SUMCDQ/average of the TAC (1988-1994) for all CDQ and non-CDQ areasTACAVE = average of the TAC (1988-1994) for CDQ areaQSPC = quota share pool in CDQ area (as existing on January 31, 1995)CDQPCT = CDQ percentage for CDQ areaSUMCDQ = sum [TACAVE × CDQPCT]SUMTAC = sum [TACAVE]
 
-(k) *Survivorship transfer privileges* - (1) On the death of an individual who holds QS or IFQ, the surviving spouse or, in the absence of a surviving spouse, a beneficiary designated pursuant to paragraph (k)(2) of this section, receives all QS and IFQ held by the decedent by right of survivorship, unless a contrary intent was expressed by the decedent in a will. The Regional Administrator will approve an Application for Transfer to the surviving spouse or designated beneficiary when sufficient evidence has been provided to verify the death of the individual.
+(k) *Survivorship transfer privileges* - (1) On the death of an individual who holds QS or IFQ, the surviving spouse or, in the absence of a surviving spouse, a beneficiary designated pursuant to paragraph (k)(2) of this section or the estate representative, receives all QS and IFQ held by the decedent by right of survivorship, unless a contrary intent was expressed by the decedent in a will. The Regional Administrator will approve an Application for Transfer to the surviving spouse, designated beneficiary, or estate representative when sufficient evidence has been provided to verify the death of the individual.
 
 (2) QS holders may provide the Regional Administrator with the name of a designated beneficiary from the QS holder's immediate family to receive survivorship transfer privileges in the event of the QS holder's death and in the absence of a surviving spouse.
 
-(3) The Regional Administrator will approve, for 3 calendar years following the date of death of an individual, an Application for Transfer of IFQ from the surviving spouse or, in the absence of a surviving spouse, from a beneficiary from the QS holder's immediate family designated pursuant to paragraph (k)(2) of this section to a person eligible to receive IFQ under the provisions of this section, notwithstanding the limitations on transfers of IFQ in paragraph (h)(2) of this section.
+(3) The Regional Administrator will approve an Application for Transfer of IFQ for a period of 3 calendar years following the date of death of an individual to a designated beneficiary. NMFS will allow the transfer of IFQ only resulting from the QS transferred to the surviving spouse or, in the absence of a surviving spouse, from a beneficiary from the QS holder's immediate family designated pursuant to paragraph (k)(2) of this section or from an estate representative to a person eligible to receive IFQ under the provisions of this section, notwithstanding the limitations on transfers of IFQ in paragraph (h)(2) of this section.
 
 (l) *Transfer of QS to CQEs.* (1) Each eligible community must designate a CQE to transfer and hold QS on behalf of that community.
 

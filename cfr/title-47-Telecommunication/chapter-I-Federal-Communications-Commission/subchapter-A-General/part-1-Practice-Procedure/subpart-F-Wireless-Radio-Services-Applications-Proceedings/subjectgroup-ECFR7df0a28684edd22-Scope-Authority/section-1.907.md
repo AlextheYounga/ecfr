@@ -1,6 +1,6 @@
 ##### § 1.907 Definitions. #####
 
-Link to an amendment published at 84 FR 57363, October 25, 2019.
+Link to an amendment published at 84 FR 57363, Oct. 25, 2019.
 
 *Antenna structure.* The term antenna structure includes the radiating and receiving elements, its supporting structures, towers, and all appurtenances mounted thereon.
 

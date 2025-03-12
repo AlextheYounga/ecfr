@@ -1,3 +1,5 @@
 ##### § 120.101 Credit not available elsewhere. #####
 
+Link to an amendment published at 85 FR 14780, Mar. 16, 2020.
+
 SBA provides business loan assistance only to applicants for whom the desired credit is not otherwise available on reasonable terms from non-Federal sources. SBA requires the Lender or CDC to certify or otherwise show that the desired credit is unavailable to the applicant on reasonable terms and conditions from non-Federal sources without SBA assistance, taking into consideration the prevailing rates and terms in the community in or near where the applicant conducts business, for similar purposes and periods of time. Submission of an application to SBA by a Lender or CDC constitutes certification by the Lender or CDC that it has examined the availability of credit to the applicant, has based its certification upon that examination, and has substantiation in its file to support the certification.

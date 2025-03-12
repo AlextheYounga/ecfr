@@ -1,7 +1,5 @@
 ##### § 679.42 Limitations on use of QS and IFQ. #####
 
-Link to an amendment published at 85 FR 8481, Feb. 14, 2020.
-
 (a) *IFQ regulatory area and vessel category.* (1) The QS or IFQ specified for one IFQ regulatory area must not be used in a different IFQ regulatory area, except for the following:
 
 (i) All or part of the QS and IFQ specified for regulatory area 4C may be harvested in either Area 4C or Area 4D.
@@ -50,35 +48,33 @@ Link to an amendment published at 85 FR 8481, Feb. 14, 2020.
 
 (B) Not qualify for a hired master exception under paragraph (i)(1) of this section.
 
-(iii) *Application.* A QS holder may apply for a medical transfer by submitting a medical transfer application to the Alaska Region, NMFS. A QS holder who has received an approved medical transfer from RAM may transfer the IFQ derived from his or her own QS to an individual eligible to receive IFQ. A medical transfer application is available at *http://alaskafisheries.noaa.gov* or by calling 1-800-304-4846. Completed applications must be mailed to: Restricted Access Management Program, NMFS, Alaska Region, P.O. Box 21668, Juneau, AK 99802-1668. A complete application must include:
+(iii) *Application.* A QS holder may apply for a medical transfer by submitting a medical transfer application to the Alaska Region, NMFS. A QS holder who has received an approved medical transfer from RAM may transfer the IFQ derived from his or her own QS to an individual eligible to receive IFQ. A medical transfer application is available at *https://alaskafisheries.noaa.gov/region/alaska* or by calling 1-800-304-4846. Completed applications must be mailed to: Restricted Access Management Program, NMFS, Alaska Region, P.O. Box 21668, Juneau, AK 99802-1668. A complete application must include:
 
-(A) The applicant's (transferor's) identity including his or her full name, NMFS person ID, date of birth, Social Security Number or Tax ID, permanent business mailing address, business telephone and fax numbers, and e-mail address (if any). A temporary mailing address may be provided, if appropriate;
+(A) The applicant's (transferor's) identity including his or her full name, NMFS person ID, date of birth, permanent business mailing address, business telephone and fax numbers, and email address (if any). A temporary mailing address may be provided, if appropriate;
 
-(B) The recipient's (transferee's) identity including his or her full name, NMFS person ID, date of birth, Social Security Number or Tax ID, permanent business mailing address, business telephone and fax numbers, and e-mail address (if any). A temporary mailing address may be provided, if appropriate;
+(B) The recipient's (transferee's) identity including his or her full name, NMFS person ID, date of birth, permanent business mailing address, business telephone and fax numbers, and email address (if any). A temporary mailing address may be provided, if appropriate;
 
-(C) The identification characteristics of the IFQ including whether the transfer is for halibut or sablefish IFQ, IFQ regulatory area, number of units, range of serial numbers for IFQ to be transferred, actual number of IFQ pounds, transferor (seller) IFQ permit number, and fishing year;
+(C) The identification characteristics of the IFQ including whether the transfer is for halibut or sablefish IFQ, IFQ regulatory area, actual number of IFQ pounds, transferor (seller) IFQ permit number, and fishing year;
 
-(D) The price per pound (including leases) and total amount paid for the IFQ in the requested transaction, including all fees;
+(D) The price per pound (including leases), or other method of compensation, and total amount paid for the IFQ in the requested transaction, including all fees;
 
 (E) The primary source of financing for the transfer, how the IFQ was located, and the transferee's (buyer's) relationship to the transferor (seller);
 
-(F) A written declaration from a licensed medical doctor, advanced nurse practitioner, or primary community health aide as those persons are defined in § 679.2. The declaration must include:
+(F) A written declaration from a health care provider as defined in § 679.2. The declaration must include:
 
-(*1*) The identity of the licensed medical doctor, advanced nurse practitioner, or primary community health aide including his or her full name, business telephone, permanent business mailing address (number and street, city and state, zip code), and whether the individual is a licensed medical doctor, advanced nurse practitioner, or primary community health aide;
+(*1*) The identity of the health care provider including his or her full name, business telephone, and permanent business mailing address (number and street, city and state, zip code);
 
-(*2*) A concise description of the medical condition affecting the applicant or applicant's family member including verification that the applicant is unable to participate in the IFQ fishery for which he or she holds IFQ permits during the IFQ season because of the medical condition and, for an affected family member, a description of the care required; and
+(*2*) A statement of the condition affecting the applicant or the applicant's immediate family member, that the applicant is unable to participate; and
 
-(*3*) The dated signature of the licensed medical doctor, advanced nurse practitioner, or primary community health aide who conducted the medical examination;
+(*3*) The dated signature of the health care provider who conducted the medical examination; and
 
-(G) The signatures and printed names of the transferor and transferee, and date; and
-
-(H) The signature, seal, and commission expiration of a notary public.
+(G) The signatures and printed names of the transferor and transferee, and date.
 
 (iv) *Restrictions.* (A) A medical transfer shall be valid only during the calendar year for which the permit is issued;
 
-(B) A medical transfer will be issued only for the IFQ derived from the QS held by the applicant;
+(B) A medical transfer will be issued only for the IFQ derived from the QS held by the applicant; and
 
-(C) NMFS will not approve a medical transfer if the applicant has received a medical transfer in any 2 of the previous 5 years for the same medical condition.
+(C) NMFS will not approve a medical transfer if the applicant has received a medical transfer in any 3 of the previous 7 calendar years for any medical condition.
 
 (v) *Medical transfer evaluations and appeals* - (A) *Initial evaluation.* The Regional Administrator will evaluate an application for a medical transfer submitted in accordance with paragraphs (d)(2)(iii) and (d)(2)(iv) of this section. An applicant who fails to submit the information specified in the application for a medical transfer will be provided a reasonable opportunity to submit the specified information or submit a revised application.
 

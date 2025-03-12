@@ -1,14 +1,12 @@
 ##### § 56.6000 Definitions. #####
 
-Link to an amendment published at 85 FR 2027, Jan. 14, 2020.
-
 The following definitions apply in this subpart.
 
 *Blasting agent.* Any substance classified as a blasting agent by the Department of Transportation in 49 CFR 173.114a(a). This document is available at any MSHA Metal and Nonmetal Safety and Health district office.
 
 *Detonating cord.* A flexible cord containing a center core of high explosives which may be used to initiate other explosives.
 
-*Detonator.* Any device containing a detonating charge used to initiate an explosive. These devices include electric or nonelectric instantaneous or delay blasting caps and delay connectors. The term “detonator” does not include detonating cord. Detonators may be either “Class A” detonators or “Class C” detonators, as classified by the Department of Transportation in 49 CFR 173.53, and 173.100. This document is available at any MSHA Metal and Nonmetal Safety and Health district office.
+*Detonator.* Any device containing a detonating charge used to initiate an explosive. These devices include electronic detonators, electric or nonelectric instantaneous or delay blasting caps, and delay connectors. The term “detonator” does not include detonating cord. Detonators may be either “Class A” detonators or “Class C” detonators, as classified by the Department of Transportation in 49 CFR 173.53 and 173.100, which is available at any MSHA Metal and Nonmetal Safety and Health district office.
 
 *Flash point.* The minimum temperature at which sufficient vapor is released by a liquid to form a flammable vapor-air mixture near the surface of the liquid.
 
@@ -26,4 +24,4 @@ The following definitions apply in this subpart.
 
 *Water gel.* An explosive material containing substantial portions of water, oxidizers, and fuel, plus a cross-linking agent.
 
-[50 FR 4054, Jan. 29, 1985, as amended at 67 FR 38385, June 4, 2002; 68 FR 32361, May 30, 2003; 69 FR 38840, June 29, 2004]
+[50 FR 4054, Jan. 29, 1985, as amended at 67 FR 38385, June 4, 2002; 68 FR 32361, May 30, 2003; 69 FR 38840, June 29, 2004; 85 FR 2027, Jan. 14, 2020]

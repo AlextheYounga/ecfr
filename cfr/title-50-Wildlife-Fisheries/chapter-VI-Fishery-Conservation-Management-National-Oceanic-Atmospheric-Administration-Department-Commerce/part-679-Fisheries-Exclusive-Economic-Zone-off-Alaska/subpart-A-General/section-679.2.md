@@ -1,7 +1,5 @@
 ##### § 679.2 Definitions. #####
 
-Link to an amendment published at 85 FR 8481, Feb. 14, 2020.
-
 In addition to the definitions in the Magnuson-Stevens Act and in part 600 of this chapter, the terms used in this part have the following meanings:
 
 *ABC reserve* means, for purposes of flathead sole, rock sole, and yellowfin sole in the BSAI, an amount, not to exceed the ABC surplus, that may be reduced for social, economic, or ecological considerations according to § 679.20(b)(1)(iii).
@@ -17,8 +15,6 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 *ADF&G fish ticket number* means a nine-digit number designated by one alphabet letter (*i.e.*, G = groundfish), two numbers that identify the year (*i.e.*, 98), followed by six numbers.
 
 *ADF&G processor code* means State of Alaska Department of Fish & Game (ADF&G) Intent to operate processor license number (example: F12345).
-
-*Advanced nurse practitioner* means a registered nurse authorized to practice in any state who, because of specialized education and experience, is certified to perform acts of medical diagnosis and the prescription and dispensing of medical, therapeutic, or corrective measures under regulations adopted by the state Board of Nursing.
 
 *AFA catcher/processor* means:
 
@@ -726,6 +722,8 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 *Headrope* means a rope bordering the top front end of a trawl.
 
+*Health care provider* means an individual licensed to provide health care services by the state where he or she practices and performs within the scope of his or her specialty to diagnose and treat medical conditions as defined by applicable Federal, state, or local laws and regulations. A health care provider located outside of the United States and its territories who is licensed to practice medicine by the applicable medical authorities is included in this definition.
+
 *Herring Savings Area* means any of three areas in the BSAI presented in Figure 4 to this part (see also § 679.21(b)(4) for additional closure information).
 
 *Hook-and-line catcher/processor* means a catcher/processor vessel that is named on a valid LLP license that is noninterim and transferable, or that is interim and subsequently becomes noninterim and transferable, and that is endorsed for any of the following areas: Bering Sea, Aleutian Islands, and/or any area in the Gulf of Alaska; and endorsed for catcher/processor fishing activity, catcher/processor Pacific cod, and hook-and-line gear.
@@ -763,6 +761,22 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 *IFQ standard ex-vessel value* means the total U.S. dollar amount of IFQ halibut or IFQ sablefish landings as calculated by multiplying the number of landed IFQ equivalent pounds plus landed GAF in IFQ equivalent pounds by the appropriate IFQ standard price determined by the Regional Administrator.
 
 *IFQ standard price* means a price, expressed in U.S. dollars per IFQ equivalent pound, for landed IFQ halibut and IFQ sablefish determined annually by the Regional Administrator and documented in an IFQ standard price list published by NMFS.
+
+*Immediate family member* includes an individual with any of the following relationships to the QS holder:
+
+(1) Spouse, and parents thereof;
+
+(2) Sons and daughters, and spouses thereof;
+
+(3) Parents, and spouses thereof;
+
+(4) Brothers and sisters, and spouses thereof;
+
+(5) Grandparents and grandchildren, and spouses thereof;
+
+(6) Domestic partner and parents thereof, including domestic partners of any individual in paragraphs (1) through (5) of this definition; and
+
+(7) Any individual related by blood or affinity whose close association with the QS holder is the equivalent of a family relationship.
 
 *Incidental catch or incidental species* means fish caught and retained while targeting on some other species, but does not include discard of fish that were returned to the sea.
 
@@ -813,8 +827,6 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 *License holder* means the person who is named on a currently valid groundfish license, crab species license, or scallop license.
 
 *License limitation groundfish* means target species specified annually pursuant to § 679.20(a)(2), except that demersal shelf rockfish east of 140 W. longitude, sablefish managed under the IFQ program, sablefish managed under the fixed gear sablefish CDQ reserve, and pollock allocated to the Aleutian Islands directed pollock fishery and harvested by vessels 60 ft (18.3 m) LOA or less, are not considered license limitation groundfish.
-
-*Licensed medical doctor* means a person who is licensed, certified, and/or registered in accordance with applicable Federal, state, or local laws and regulations, and is authorized to conduct the practice of medicine as defined by the state in which the person resides.
 
 *Limited Access System Administrative Fund (LASAF)* means the administrative account used for depositing cost recovery fee payments into the U.S. Treasury as described in the Magnuson-Stevens Act under section 304(d)(2)(C)(i) and established under section 305(h)(5)(B).
 
@@ -939,8 +951,6 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 *Pot catcher/processor* means a catcher/processor vessel that is named on a valid LLP license that is noninterim and transferable, or that is interim and subsequently becomes noninterim and transferable, and that is endorsed for Bering Sea, Aleutian Islands, and/or Gulf of Alaska catcher/processor fishing activity, catcher/processor Pacific cod, and pot gear.
 
 *Preponderance of the evidence,* for purposes of subpart E of this part, means proof by information that, compared with that opposing it, leads to the conclusion that the fact at issue is more probably true than not.
-
-*Primary community health aide* means a person who has completed the first of three levels of community health aide training offered by the Norton Sound Health Corporation at the Nome Hospital, the Kuskokwim Community College in Bethel, the Alaska Area Native Health Service in Anchorage, or another accredited training center.
 
 *Primary product* (see Table 1 to this part).
 

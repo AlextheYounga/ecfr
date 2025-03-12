@@ -1,0 +1,3 @@
+##### § 315.15 Affirmative findings. #####
+
+Whenever the International Trade Commission makes an affirmative finding under section 202(b) of the Trade Act (19 U.S.C. 2252) that increased imports are a substantial cause of serious injury or threat thereof with respect to an industry, EDA will notify the TAACs and provide expedited review of petitions and Adjustment Proposals from Firms within the specified industry.

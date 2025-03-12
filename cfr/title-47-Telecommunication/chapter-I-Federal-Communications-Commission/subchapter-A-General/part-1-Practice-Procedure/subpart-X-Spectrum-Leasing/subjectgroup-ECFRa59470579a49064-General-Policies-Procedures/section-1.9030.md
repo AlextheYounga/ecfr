@@ -1,6 +1,6 @@
 ##### § 1.9030 Long-term de facto transfer leasing arrangements. #####
 
-Link to an amendment published at 84 FR 57364, October 25, 2019.
+Link to an amendment published at 84 FR 57364, Oct. 25, 2019.
 
 (a) *Overview.* Under the provisions of this section, a licensee (in any of the included services) and a spectrum lessee may enter into a long-term *de facto* transfer leasing arrangement in which the licensee retains *de jure* control of the license while *de facto* control of the leased spectrum is transferred to the spectrum lessee for the duration of the spectrum leasing arrangement, subject to prior Commission consent pursuant to the application procedures set forth in this section. A “long-term” *de facto* transfer leasing arrangement has an individual term, or series of combined terms, of more than one year. The term of a long-term *de facto* transfer leasing arrangement may be no longer than the term of the license authorization.
 

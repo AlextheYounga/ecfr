@@ -1,5 +1,7 @@
 ##### § 120.1050 Reviews and examinations. #####
 
+Link to an amendment published at 85 FR 14781, Mar. 16, 2020.
+
 (a) *Reviews.* SBA may conduct reviews of the SBA loan operations of SBA Lenders. The review may include, but is not limited to, an evaluation of the following:
 
 (1) Portfolio performance;

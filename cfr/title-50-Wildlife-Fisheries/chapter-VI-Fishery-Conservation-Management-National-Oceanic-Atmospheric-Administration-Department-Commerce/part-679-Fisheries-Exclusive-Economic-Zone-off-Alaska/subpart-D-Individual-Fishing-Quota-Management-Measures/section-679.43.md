@@ -1,18 +1,16 @@
 ##### § 679.43 Determinations and appeals. #####
 
-Link to an amendment published at 85 FR 8481, Feb. 14, 2020.
-
 (a) *General.* This section describes the procedure for appealing initial administrative determinations made in this title under parts 300, 679, 680, and subpart E of part 300 of this chapter.
 
 (b) *Who may appeal.* Any person whose interest is directly and adversely affected by an initial administrative determination may file a written appeal. For purposes of this section, such persons will be referred to as “applicant” or “appellant.”
 
-(c) *Submission of appeals.* Appeals must be in writing and must be mailed to the: National Marine Fisheries Service, Office of Administrative Appeals (OAA), P. O. Box 21668, Juneau, AK 99802-1668, or delivered to National Marine Fisheries Service, Attention: Appeals (OAA), 709 W. 9th Street, Room 453, Juneau, AK 99801.
+(c) *Submission of appeals.* An appeal to an initial administrative determination must be submitted under the appeals procedure set out at 15 CFR part 906.
 
 (d) *Timing of appeals.* (1) If an applicant appeals an initial administrative determination, the appeal must be filed not later than 60 days after the date the determination is issued.
 
 (2) The time period within which an appeal may be filed begins to run on the date the initial administrative determination is issued. If the last day of the time period is a Saturday, Sunday, or Federal holiday, the time period will extend to the close of business on the next business day.
 
-(e) *Address of record.**General* - NMFS will establish as the address of record the address used by the applicant in initial correspondence to NMFS concerning the application. Notifications of all actions affecting the applicant after establishing an address of record will be mailed to that address, unless the applicant provides NMFS, in writing, with any changes to that address. NMFS bears no responsibility if a notification is sent to the address of record and is not received because the applicant's actual address has changed without notification to NMFS.
+(e) *Address of record.**General*—NMFS will establish as the address of record the address used by the applicant in initial correspondence to NMFS concerning the application. Notifications of all actions affecting the applicant after establishing an address of record will be mailed to that address, unless the applicant provides NMFS, in writing, with any changes to that address. NMFS bears no responsibility if a notification is sent to the address of record and is not received because the applicant's actual address has changed without notification to NMFS.
 
 (f) *Statement of reasons for appeals.* Applicants must timely submit a full written statement in support of the appeal, including a concise statement of the reasons the initial administrative determination has a direct and adverse effect on the applicant and should be reversed or modified. If the applicant requests a hearing on any issue presented in the appeal, such request for hearing must be accompanied by a concise written statement raising genuine and substantial issues of adjudicative fact for resolution and a list of available and specifically identified reliable evidence upon which the factual issues can be resolved. The appellate officer will limit his/her review to the issues stated in the appeal; all issues not set out in the appeal will be waived.
 
@@ -132,4 +130,4 @@ Link to an amendment published at 85 FR 8481, Feb. 14, 2020.
 
 (p) *Issuance of a non-transferable license.* A non-transferable license will be issued to a person upon acceptance of his or her appeal of an initial administrative determination denying an application for a license for license limitation groundfish, crab species under § 679.4(k) or scallops under § 679.4(g). This non-transferable license authorizes a person to conduct directed fishing for groundfish, crab species, or catch and retain scallops and will have specific endorsements and designations based on the person's claims in his or her application for a license. This non-transferable license expires upon the resolution of the appeal.
 
-[61 FR 31230, June 19, 1996, as amended at 62 FR 17753, Apr. 11, 1997; 63 FR 52657, Oct. 1, 1998; 63 FR 64879, Nov. 24, 1998; 65 FR 78118, Dec. 14, 2000; 66 FR 27911, May 21, 2001; 67 FR 4148, Jan. 28, 2002; 67 FR 64317, Oct. 18, 2002; 67 FR 72611, Dec. 6, 2002; 68 FR 44487, July 29, 2003; 70 FR 10238, Mar. 2, 2005; 70 FR 16754, Apr. 1, 2005; 77 FR 6501, Feb. 8, 2012]
+[61 FR 31230, June 19, 1996, as amended at 62 FR 17753, Apr. 11, 1997; 63 FR 52657, Oct. 1, 1998; 63 FR 64879, Nov. 24, 1998; 65 FR 78118, Dec. 14, 2000; 66 FR 27911, May 21, 2001; 67 FR 4148, Jan. 28, 2002; 67 FR 64317, Oct. 18, 2002; 67 FR 72611, Dec. 6, 2002; 68 FR 44487, July 29, 2003; 70 FR 10238, Mar. 2, 2005; 70 FR 16754, Apr. 1, 2005; 77 FR 6501, Feb. 8, 2012; 85 FR 8481, Feb. 14, 2020]
