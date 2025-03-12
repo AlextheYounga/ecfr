@@ -6,7 +6,7 @@ Earned Value Management System (NOV 2016)
 
 (a) The Contractor shall use an earned value management system (EVMS) that has been determined by the Cognizant Federal Agency (CFA) to be compliant with the guidelines in Electronic Industries Alliance Standard 748 (EIA-748) (current version at the time of award) to manage this contract. If the Contractor's current EVMS has not been determined compliant at the time of award, see paragraph (b) of this clause. The Contractor shall submit reports in accordance with the requirements of this contract.
 
-(b) If, at the time of award, the Contractor's EVM System has not been determined by the CFA as complying with EVMS guidelines or the Contractor does not have an existing cost/schedule control system that is compliant with the guidelines in EIA-748 (current version at time of award), the Contractor shall -
+(b) If, at the time of award, the Contractor's EVM System has not been determined by the CFA as complying with EVMS guidelines or the Contractor does not have an existing cost/schedule control system that is compliant with the guidelines in EIA-748 (current version at time of award), the Contractor shall—
 
 (1) Apply the current system to the contract; and
 
@@ -14,7 +14,7 @@ Earned Value Management System (NOV 2016)
 
 (c) The Government will conduct an Integrated Baseline Review (IBR). If a pre-award IBR has not been conducted, a post award IBR shall be conducted as early as practicable after contract award.
 
-(d) The Contracting Officer may require an IBR at -
+(d) The Contracting Officer may require an IBR at—
 
 (1) Exercise of significant options; or
 
@@ -25,11 +25,5 @@ Earned Value Management System (NOV 2016)
 (f) The Contractor shall provide access to all pertinent records and data requested by the Contracting Officer or an authorized representative as necessary to permit Government surveillance to ensure that the EVMS conforms, and continues to conform, with the performance criteria referenced in paragraph (a) of this clause.
 
 (g) The Contractor shall require the subcontractors specified below to comply with the requirements of this clause: [*Insert list of applicable subcontractors.*]
-
-\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_
 
 (End of clause)[71 FR 38246, July 5, 2006, as amended at 79 FR 24224, Apr. 29, 2014; 81 FR 83104, Nov. 18, 2016]

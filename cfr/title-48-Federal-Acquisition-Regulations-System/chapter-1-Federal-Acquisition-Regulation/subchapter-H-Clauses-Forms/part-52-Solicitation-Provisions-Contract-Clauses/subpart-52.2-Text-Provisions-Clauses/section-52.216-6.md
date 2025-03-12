@@ -8,7 +8,7 @@ Price Redetermination - Retroactive (OCT 1997)
 
 (b) *Definition. Costs,* as used in this clause, means allowable costs in accordance with part 31 of the Federal Acquisition Regulation (FAR) in effect on the date of this contract.
 
-(c) *Data submission.* (1) Within \_ [*Contracting Officer insert number of days*] days after delivery of all supplies to be delivered and completion of all services to be performed under this contract, the Contractor shall submit -
+(c) *Data submission.* (1) Within \_\_ [*Contracting Officer insert number of days*] days after delivery of all supplies to be delivered and completion of all services to be performed under this contract, the Contractor shall submit -
 
 (i) Proposed prices;
 

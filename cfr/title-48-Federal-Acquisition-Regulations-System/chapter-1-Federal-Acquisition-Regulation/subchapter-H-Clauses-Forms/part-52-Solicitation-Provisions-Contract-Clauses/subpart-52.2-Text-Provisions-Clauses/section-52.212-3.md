@@ -224,7 +224,7 @@ Other Foreign End ProductsLine Item No.:Country of Origin:
 
 Canadian End Products:Line Item No.
 
-$(*List as necessary*)
+(*List as necessary*)
 
 (3) *Buy American - Free Trade Agreements - Israeli Trade Act Certificate, Alternate II.* If *Alternate II* to the clause at FAR 52.225-3 is included in this solicitation, substitute the following paragraph (g)(1)(ii) for paragraph (g)(1)(ii) of the basic provision:
 
@@ -232,7 +232,7 @@ $(*List as necessary*)
 
 Canadian or Israeli End Products:Line Item No.Country of Origin
 
-$(*List as necessary*)
+(*List as necessary*)
 
 (g)(4) *Buy American - Free Trade Agreements - Israeli Trade Act Certificate, Alternate III.* If Alternate III to the clause at FAR 52.225-3 is included in this solicitation, substitute the following paragraph (g)(1)(ii) for paragraph (g)(1)(ii) of the basic provision:
 
@@ -255,7 +255,7 @@ Free Trade Agreement Country End Products (Other than Bahrainian, Korean, Morocc
 
 Other End Products:
 
-|   Line item No.   |   |Country of origin|
+|   Line Item No.   |   |Country of Origin|
 |-------------------|---|-----------------|
 |                   |   |                 |
 |                   |   |                 |
@@ -478,16 +478,16 @@ Predecessor legal name: \_\_\_\_.
 
 (11) (Complete if the offeror has represented itself as disadvantaged in paragraph (c)(4) of this provision.)
 
-\_Black American.
+\_\_ Black American.
 
-\_Hispanic American.
+\_\_ Hispanic American.
 
-\_Native American (American Indians, Eskimos, Aleuts, or Native Hawaiians).
+\_\_ Native American (American Indians, Eskimos, Aleuts, or Native Hawaiians).
 
 \_Asian-Pacific American (persons with origins from Burma, Thailand, Malaysia, Indonesia, Singapore, Brunei, Japan, China, Taiwan, Laos, Cambodia (Kampuchea), Vietnam, Korea, The Philippines, Republic of Palau, Republic of the Marshall Islands, Federated States of Micronesia, the Commonwealth of the Northern Mariana Islands, Guam, Samoa, Macao, Hong Kong, Fiji, Tonga, Kiribati, Tuvalu, or Nauru).
 
-\_Subcontinent Asian (Asian-Indian) American (persons with origins from India, Pakistan, Bangladesh, Sri Lanka, Bhutan, the Maldives Islands, or Nepal).
+\_\_ Subcontinent Asian (Asian-Indian) American (persons with origins from India, Pakistan, Bangladesh, Sri Lanka, Bhutan, the Maldives Islands, or Nepal).
 
-\_Individual/concern, other than one of the preceding.
+\_\_ Individual/concern, other than one of the preceding.
 
 (End of provision)[60 FR 48252, Sept. 18, 1995]Editorial Note:For Federal Register citations affecting section 52.212-3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

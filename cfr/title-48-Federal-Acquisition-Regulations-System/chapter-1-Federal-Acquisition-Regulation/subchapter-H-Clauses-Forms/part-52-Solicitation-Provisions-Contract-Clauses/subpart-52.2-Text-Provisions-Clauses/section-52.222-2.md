@@ -4,7 +4,7 @@ As prescribed in 22.103-5(b), insert the following clause:
 
 Payment for Overtime Premiums (JUL 1990)
 
-(a) The use of overtime is authorized under this contract if the overtime premium cost does not exceed \*\_\_ or the overtime premium is paid for work -
+(a) The use of overtime is authorized under this contract if the overtime premium cost does not exceed \*\_\_\_ or the overtime premium is paid for work—
 
 \*Insert either “zero” or the dollar amount agreed to during negotiations.
 
@@ -16,7 +16,7 @@ Payment for Overtime Premiums (JUL 1990)
 
 (4) That will result in lower overall costs to the Government.
 
-(b) Any request for estimated overtime premiums that exceeds the amount specified above shall include all estimated overtime for contract completion and shall -
+(b) Any request for estimated overtime premiums that exceeds the amount specified above shall include all estimated overtime for contract completion and shall—
 
 (1) Identify the work unit; e.g., department or section in which the requested overtime will be used, together with present workload, staffing, and other data of the affected unit sufficient to permit the Contracting Officer to evaluate the necessity for the overtime;
 

@@ -14,10 +14,4 @@ Government Property Installation Operation Services (APR 2012)
 
 (e) Government property provided under this clause:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 (End of clause)[72 FR 27390, May 15, 2007, as amended at 75 FR 38683, July 2, 2010; 77 FR 12946, Mar. 2, 2012]

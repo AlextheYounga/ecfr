@@ -8,7 +8,7 @@ Allowable Cost and Payment (JUN 2013)
 
 (2) Contract financing payments are not subject to the interest penalty provisions of the Prompt Payment Act. Interim payments made prior to the final payment under the contract are contract financing payments, except interim payments if this contract contains *Alternate I* to the clause at 52.232-25.
 
-(3) The designated payment office will make interim payments for contract financing on the \_\_\_\_[Contracting Officer insert day as prescribed by agency head; if not prescribed, insert “30th”] day after the designated billing office receives a proper payment request.
+(3) The designated payment office will make interim payments for contract financing on the \_\_ [Contracting Officer insert day as prescribed by agency head; if not prescribed, insert “30th”] day after the designated billing office receives a proper payment request.
 
 In the event that the Government requires an audit or other review of a specific payment request to ensure compliance with the terms and conditions of the contract, the designated payment office is not compelled to make payment by the specified due date.
 

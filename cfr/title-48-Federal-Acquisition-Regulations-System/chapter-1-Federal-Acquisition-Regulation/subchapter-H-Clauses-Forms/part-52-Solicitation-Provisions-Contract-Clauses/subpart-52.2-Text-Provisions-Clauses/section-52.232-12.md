@@ -4,7 +4,7 @@ As prescribed in 32.412(a), insert the following clause:
 
 Advance Payments (MAY 2001)
 
-(a) *Requirements for payment.* Advance payments will be made under this contract (1) upon submission of properly certified invoices or vouchers by the Contractor, and approval by the administering office, \_\_\_ [*Insert the name of the office designated under agency procedures*], or (2) under a letter of credit. The amount of the invoice or voucher submitted plus all advance payments previously approved shall not exceed $\_\_ If a letter of credit is used, the Contractor shall withdraw cash only when needed for disbursements acceptable under this contract and report cash disbursements and balances as required by the administering office. The Contractor shall apply terms similar to this clause to any advance payments to subcontractors.
+(a) *Requirements for payment.* Advance payments will be made under this contract (1) upon submission of properly certified invoices or vouchers by the Contractor, and approval by the administering office, \_\_\_\_ [*Insert the name of the office designated under agency procedures*], or (2) under a letter of credit. The amount of the invoice or voucher submitted plus all advance payments previously approved shall not exceed $\_\_\_ If a letter of credit is used, the Contractor shall withdraw cash only when needed for disbursements acceptable under this contract and report cash disbursements and balances as required by the administering office. The Contractor shall apply terms similar to this clause to any advance payments to subcontractors.
 
 (b) *Special account.* Until (1) the Contractor has liquidated all advance payments made under the contract and related interest charges and (2) the administering office has approved in writing the release of any funds due and payable to the Contractor, all advance payments and other payments under this contract shall be made by check payable to the Contractor marked for deposit only in the Contractor's special account with the \_\_\_\_ [*insert the name of the financial institution*]. None of the funds in the special account shall be mingled with other funds of the Contractor. Withdrawals from the special account may be made only by check of the Contractor countersigned by the Contracting Officer or a Government countersigning agent designated in writing by the Contracting Officer.
 
@@ -12,9 +12,9 @@ Advance Payments (MAY 2001)
 
 (d) *Repayment to the Government.* At any time, the Contractor may repay all or any part of the funds advanced by the Government. Whenever requested in writing to do so by the administering office, the Contractor shall repay to the Government any part of unliquidated advance payments considered by the administering office to exceed the Contractor's current requirements or the amount specified in paragraph (a) above. If the Contractor fails to repay the amount requested by the administering office, all or any part of the unliquidated advance payments may be withdrawn from the special account by check signed by only the countersigning agent and applied to reduction of the unliquidated advance payments under this contract.
 
-(e) *Maximum payment.* When the sum of all unliquidated advance payments, unpaid interest charges, and other payments exceed \_ percent of the contract price, the Government shall withhold further payments to the Contractor. On completion or termination of the contract, the Government shall deduct from the amount due to the Contractor all unliquidated advance payments and all interest charges payable. If previous payments to the Contractor exceed the amount due, the excess amount shall be paid to the Government on demand. For purposes of this paragraph, the contract price shall be considered to be the stated contract price of $\_\_, less any subsequent price reductions under the contract, plus (1) any price increases resulting from any terms of this contract for price redetermination or escalation, and (2) any other price increases that do not, in the aggregate, exceed $\_\_ [*Insert an amount not higher than 10 percent of the stated contract amount inserted in this paragraph*]. Any payments withheld under this paragraph shall be applied to reduce the unliquidated advance payments. If full liquidation has been made, payments under the contract shall resume.
+(e) *Maximum payment.* When the sum of all unliquidated advance payments, unpaid interest charges, and other payments exceed \_ percent of the contract price, the Government shall withhold further payments to the Contractor. On completion or termination of the contract, the Government shall deduct from the amount due to the Contractor all unliquidated advance payments and all interest charges payable. If previous payments to the Contractor exceed the amount due, the excess amount shall be paid to the Government on demand. For purposes of this paragraph, the contract price shall be considered to be the stated contract price of $\_\_\_, less any subsequent price reductions under the contract, plus (1) any price increases resulting from any terms of this contract for price redetermination or escalation, and (2) any other price increases that do not, in the aggregate, exceed $\_\_\_ [*Insert an amount not higher than 10 percent of the stated contract amount inserted in this paragraph*]. Any payments withheld under this paragraph shall be applied to reduce the unliquidated advance payments. If full liquidation has been made, payments under the contract shall resume.
 
-(f) *Interest.* (1) The Contractor shall pay interest to the Government on the daily unliquidated advance payments at the daily rate specified in subparagraph (f)(3) below. Interest shall be computed at the end of each calendar month for the actual number of days involved. For the purpose of computing the interest charge -
+(f) *Interest.* (1) The Contractor shall pay interest to the Government on the daily unliquidated advance payments at the daily rate specified in subparagraph (f)(3) below. Interest shall be computed at the end of each calendar month for the actual number of days involved. For the purpose of computing the interest charge—
 
 (i) Advance payments shall be considered as increasing the unliquidated balance as of the date of the advance payment check;
 
@@ -38,13 +38,13 @@ Advance Payments (MAY 2001)
 
 (3) If, at any time during the progress of the work on the contract, it becomes necessary to deliver to a third person any items or materials on which the Government has a lien, the Contractor shall notify the third person of the lien and shall obtain from the third person a receipt in duplicate acknowledging the existence of the lien. The Contractor shall provide a copy of each receipt to the Contracting Officer.
 
-(4) If, under the termination clause, the Contracting Officer authorizes the Contractor to sell or retain termination inventory, the approval shall constitute a release of the Government's lien to the extent that -
+(4) If, under the termination clause, the Contracting Officer authorizes the Contractor to sell or retain termination inventory, the approval shall constitute a release of the Government's lien to the extent that—
 
 (i) The termination inventory is sold or retained; and
 
 (ii) The sale proceeds or retention credits are applied to reduce any outstanding advance payments.
 
-(j) *Insurance.* (1) The Contractor shall maintain with responsible insurance carriers -
+(j) *Insurance.* (1) The Contractor shall maintain with responsible insurance carriers—
 
 (i) Insurance on plant and equipment against fire and other hazards, to the extent that similar properties are usually insured by others operating plants and properties of similar character in the same general locality;
 
@@ -52,7 +52,7 @@ Advance Payments (MAY 2001)
 
 (iii) Adequate insurance under all applicable workers' compensation laws.
 
-(2) Until work under this contract has been completed and all advance payments made under the contract have been liquidated, the Contractor shall -
+(2) Until work under this contract has been completed and all advance payments made under the contract have been liquidated, the Contractor shall—
 
 (i) Maintain this insurance;
 
@@ -64,7 +64,7 @@ Advance Payments (MAY 2001)
 
 (i) Termination of this contract for a fault of the Contractor.
 
-(ii) A finding by the administering office that the Contractor has failed to -
+(ii) A finding by the administering office that the Contractor has failed to—
 
 (A) Observe any of the conditions of the advance payment terms;
 
@@ -118,7 +118,7 @@ Advance Payments (MAY 2001)
 
 (8) These representations shall be continuing and shall be considered to have been repeated by the submission of each invoice for advance payments.
 
-(p) *Covenants.* To the extent the Government considers it necessary while any advance payments made under this contract remain outstanding, the Contractor, without the prior written consent of the administering office, shall not -
+(p) *Covenants.* To the extent the Government considers it necessary while any advance payments made under this contract remain outstanding, the Contractor, without the prior written consent of the administering office, shall not—
 
 (1) Mortgage, pledge, or otherwise encumber or allow to be encumbered, any of the assets of the Contractor now owned or subsequently acquired, or permit any preexisting mortgages, liens, or other encumbrances to remain on or attach to any assets of the Contractor which are allocated to performing this contract and with respect to which the Government has a lien under this contract;
 
@@ -134,7 +134,7 @@ Advance Payments (MAY 2001)
 
 (7) Permit a writ of attachment or any similar process to be issued against its property without getting a release or bonding the property within 30 days after the entry of the writ of attachment or other process;
 
-(8) Pay any remuneration in any form to its directors, officers, or key employees higher than rates provided in existing agreements of which notice has been given to the administering office; accrue excess remuneration without first obtaining an agreement subordinating it to all claims of the Government; or employ any person at a rate of compensation over $\_\_ a year;
+(8) Pay any remuneration in any form to its directors, officers, or key employees higher than rates provided in existing agreements of which notice has been given to the administering office; accrue excess remuneration without first obtaining an agreement subordinating it to all claims of the Government; or employ any person at a rate of compensation over $\_\_\_ a year;
 
 (9) Change substantially the management, ownership, or control of the corporation;
 
@@ -142,9 +142,9 @@ Advance Payments (MAY 2001)
 
 (12) Create or incur indebtedness for advances, other than advances to be made under the terms of this contract, or for borrowings;
 
-(13) Make or covenant for capital expenditures exceeding $\_\_ in total;
+(13) Make or covenant for capital expenditures exceeding $\_\_\_ in total;
 
-(14) Permit its net current assets, computed in accordance with generally accepted accounting principles, to become less than $\_\_; or
+(14) Permit its net current assets, computed in accordance with generally accepted accounting principles, to become less than $\_\_\_; or
 
 (15) Make any payments on account of the obligations listed below, except in the manner and to the extent provided in this contract:
 
@@ -156,9 +156,9 @@ However, for this contract, countersignature on behalf of the Government will no
 
 *Alternate II* (MAY 2001). If used in a cost-reimbursement contract, substitute the following paragraphs (c) and (e), and subparagraphs (f)(1) and (f)(2) for paragraphs (c) and (e) and subparagraphs (f) (1) and (2) of the basic clause:
 
-(c) *Use of funds.* The Contractor shall withdraw funds from the special account only to pay for allowable costs as prescribed by the \_\_ clause of this contract. Payment for any other types of expenses shall be approved in writing by the administering office.
+(c) *Use of funds.* The Contractor shall withdraw funds from the special account only to pay for allowable costs as prescribed by the \_\_\_\_ clause of this contract. Payment for any other types of expenses shall be approved in writing by the administering office.
 
-(e) *Maximum payment.* When the sum of all unliquidated advance payments, unpaid interest charges, and other payments equal the total estimated cost of $\_\_ (not including fixed-fee, if any) for the work under this contract, the Government shall withhold further payments to the Contractor. Upon completion or termination of the contract, the Government shall deduct from the amount due to the Contractor all unliquidated advance payments and interest charges payable. The Contractor shall pay any deficiency to the Government upon demand. For purposes of this paragraph, the estimated cost shall be considered to be the stated estimated cost, less any subsequent reductions of the estimated cost, plus any increases in the estimated costs that do not, in the aggregate, exceed $\_\_ [*Insert an amount not higher than 10 percent of the stated estimated cost inserted in this paragraph.*] The estimated cost shall include, without limitation, any reimbursable cost (as estimated by the Contracting Officer) incident to a termination for the convenience of the Government. Any payments withheld under this paragraph shall be applied to reduce the unliquidated advance payments. If full liquidation has been made, payments under the contract shall resume.
+(e) *Maximum payment.* When the sum of all unliquidated advance payments, unpaid interest charges, and other payments equal the total estimated cost of $\_\_\_ (not including fixed-fee, if any) for the work under this contract, the Government shall withhold further payments to the Contractor. Upon completion or termination of the contract, the Government shall deduct from the amount due to the Contractor all unliquidated advance payments and interest charges payable. The Contractor shall pay any deficiency to the Government upon demand. For purposes of this paragraph, the estimated cost shall be considered to be the stated estimated cost, less any subsequent reductions of the estimated cost, plus any increases in the estimated costs that do not, in the aggregate, exceed $\_\_\_ [*Insert an amount not higher than 10 percent of the stated estimated cost inserted in this paragraph.*] The estimated cost shall include, without limitation, any reimbursable cost (as estimated by the Contracting Officer) incident to a termination for the convenience of the Government. Any payments withheld under this paragraph shall be applied to reduce the unliquidated advance payments. If full liquidation has been made, payments under the contract shall resume.
 
 (f) *Interest.* (1) The Contractor shall pay interest to the Government on the daily unliquidated advance payments at the daily rate specified in subparagraph (f)(3) below. Interest shall be computed at the end of each calendar month for the actual number of days involved. For the purpose of computing the interest charge, the following shall be observed:
 
@@ -172,7 +172,7 @@ However, for this contract, countersignature on behalf of the Government will no
 
 *Alternate III* (APR 1984). If the agency considers a more rapid liquidation appropriate, add the following sentence as the first sentence of paragraph (e) of the basic clause with the appropriate percentage specified:
 
-To liquidate the principal amount of any advance payment made to the Contractor, there shall be deductions of \_ percent from all payments made by the Government under the contracts involved.
+To liquidate the principal amount of any advance payment made to the Contractor, there shall be deductions of \_\_\_ percent from all payments made by the Government under the contracts involved.
 
 *Alternate IV* (APR 1984). If the agency provides advance payments under the contract at no interest to the prime contractor, add the following sentences as the beginning sentences of paragraph (f) of the clause:
 
@@ -196,7 +196,7 @@ Advance Payments Without Special Account (MAY 2001)
 
 (d) *Maximum payment.* When the sum of all unliquidated advance payments, unpaid interest charges, and other payments exceed \_\_ percent of the contract price, the Government shall withhold further payments to the Contractor. On completion or termination of the contract, the Government shall deduct from the amount due to the Contractor all unliquidated advance payments and all interest charges payable. If previous payments to the Contractor exceed the amount due, the excess amount shall be paid to the Government on demand. For purposes of this paragraph, the contract price shall be considered to be the stated contract price of $\_\_\_, less any subsequent price reductions under the contract, plus (1) any price increases resulting from any terms of this contract for price redetermination or escalation, and (2) any other price increases that do not, in the aggregate, exceed $\_\_\_ [*insert an amount not higher than 10 percent of the stated contract amount inserted in this paragraph*]. Any payments withheld under this paragraph shall be applied to reduce the unliquidated advance payments. If full liquidation has been made, payments under the contract shall resume.
 
-(e) *Interest.* (1) The Contractor shall pay interest to the Government on the daily unliquidated advance payments at the daily rate in subparagraph (e)(3) of this clause. Interest shall be computed at the end of each calendar month for the actual number of days involved. For the purpose of computing the interest charge -
+(e) *Interest.* (1) The Contractor shall pay interest to the Government on the daily unliquidated advance payments at the daily rate in subparagraph (e)(3) of this clause. Interest shall be computed at the end of each calendar month for the actual number of days involved. For the purpose of computing the interest charge—
 
 (i) Advance payments shall be considered as increasing the unliquidated balance as of the date of the advance payment check;
 
@@ -216,13 +216,13 @@ Advance Payments Without Special Account (MAY 2001)
 
 (3) If, at any time during the progress of the work on the contract, it becomes necessary to deliver to a third person any items or materials on which the Government has a lien, the Contractor shall notify the third person of the lien and shall obtain from the third person a receipt in duplicate acknowledging the existence of the lien. The Contractor shall provide a copy of each receipt to the Contracting Officer.
 
-(4) If, under the termination clause, the Contracting Officer authorizes the contractor to sell or retain termination inventory, the approval shall constitute a release of the Government's lien to the extent that -
+(4) If, under the termination clause, the Contracting Officer authorizes the contractor to sell or retain termination inventory, the approval shall constitute a release of the Government's lien to the extent that—
 
 (i) The termination inventory is sold or retained; and
 
 (ii) The sale proceeds or retention credits are applied to reduce any outstanding advance payments.
 
-(g) *Insurance.* (1) The Contractor shall maintain with responsible insurance carriers -
+(g) *Insurance.* (1) The Contractor shall maintain with responsible insurance carriers—
 
 (i) Insurance on plant and equipment against fire and other hazards, to the extent that similar properties are usually insured by others operating plants and properties of similar character in the same general locality;
 
@@ -230,7 +230,7 @@ Advance Payments Without Special Account (MAY 2001)
 
 (iii) Adequate insurance under all applicable workers' compensation laws.
 
-(2) Until work under this contract has been completed and all advance payments made under the contract have been liquidated, the Contractor shall -
+(2) Until work under this contract has been completed and all advance payments made under the contract have been liquidated, the Contractor shall—
 
 (i) Maintain this insurance;
 
@@ -242,7 +242,7 @@ Advance Payments Without Special Account (MAY 2001)
 
 (i) Termination of this contract for a fault of the Contractor.
 
-(ii) A finding by the administering office that the Contractor has failed to -
+(ii) A finding by the administering office that the Contractor has failed to—
 
 (A) Observe any of the conditions of the advance payment terms;
 
@@ -292,7 +292,7 @@ Advance Payments Without Special Account (MAY 2001)
 
 (8) These representations shall be continuing and shall be considered to have been repeated by the submission of each invoice for advance payments.
 
-(m) *Covenants.* To the extent the Government considers it necessary while any advance payments made under this contract remain outstanding, the Contractor, without the prior written consent of the administering office, shall not -
+(m) *Covenants.* To the extent the Government considers it necessary while any advance payments made under this contract remain outstanding, the Contractor, without the prior written consent of the administering office, shall not—
 
 (1) Mortgage, pledge, or otherwise encumber or allow to be encumbered, any of the assets of the Contractor now owned or subsequently acquired, or permit any preexisting mortgages, liens, or other encumbrances to remain on or attach to any assets of the Contractor which are allocated to performing this contract and with respect to which the Government has a lien under this contract;
 

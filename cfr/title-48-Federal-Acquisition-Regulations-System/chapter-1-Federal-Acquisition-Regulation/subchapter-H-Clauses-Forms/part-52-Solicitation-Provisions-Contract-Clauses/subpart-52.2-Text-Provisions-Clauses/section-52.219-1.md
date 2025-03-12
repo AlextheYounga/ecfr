@@ -46,7 +46,7 @@ Small Business Program Representations (OCT 2014)
 
 (b)(1) The North American Industry Classification System (NAICS) code for this acquisition is - \_\_\_\_\_\_[*insert NAICS code*].
 
-(2) The small business size standard is \_\_\_[*insert size standard*].
+(2) The small business size standard is \_\_\_\_[*insert size standard*].
 
 (3) The small business size standard for a concern which submits an offer in its own name, other than on a construction or service contract, but which proposes to furnish a product which it did not itself manufacture, is 500 employees.
 
@@ -106,4 +106,4 @@ Small Business Program Representations (OCT 2014)
 
 \_\_ Individual/concern, other than one of the preceding.
 
-[60 FR 48264, Sept. 18, 1995]Editorial Note:For Federal Register citations affecting section 52.219-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[60 FR 48264, Sept. 18, 1995]Editorial Note:For Federal Register citations affecting section 52.219-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

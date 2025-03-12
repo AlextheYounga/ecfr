@@ -8,7 +8,7 @@ Variation in Quantity (APR 1984)
 
 (b) The permissible variation shall be limited to:
 
-\_ Percent increase [*Contracting Officer insert percentage*]\_ Percent decrease [*Contracting Officer insert percentage*]
+\_\_ Percent increase [*Contracting Officer insert percentage*]\_\_ Percent decrease [*Contracting Officer insert percentage*]
 
 This increase or decrease shall apply to \_\_ \*
 

@@ -10,9 +10,9 @@ The Small Business Administration (SBA) agrees to the following:
 
 (b) That in the event SBA does not award a subcontract for all or a part of the work hereunder, this contract may be terminated either in whole or in part without cost to either party.
 
-(c) Except for novation agreements, delegates to the \_\_ [*insert name of contracting agency*] the responsibility for administering the subcontract to be awarded hereunder with complete authority to take any action on behalf of the Government under the terms and conditions of the subcontract; *provided, however,* that the \_\_ [*insert name of contracting agency*] shall give advance notice to the SBA before it issues a final notice terminating the right of a subcontractor to proceed with further performance, either in whole or in part, under the subcontract for default or for the convenience of the Government.
+(c) Except for novation agreements, delegates to the \_\_\_\_ [*insert name of contracting agency*] the responsibility for administering the subcontract to be awarded hereunder with complete authority to take any action on behalf of the Government under the terms and conditions of the subcontract; *provided, however,* that the \_\_\_\_ [*insert name of contracting agency*] shall give advance notice to the SBA before it issues a final notice terminating the right of a subcontractor to proceed with further performance, either in whole or in part, under the subcontract for default or for the convenience of the Government.
 
-(d) That payments to be made under any subcontract awarded under this contract will be made directly to the subcontractor by the \_\_ [*insert name of contracting agency*].
+(d) That payments to be made under any subcontract awarded under this contract will be made directly to the subcontractor by the \_\_\_\_ [*insert name of contracting agency*].
 
 (e) That the subcontractor awarded a subcontract hereunder shall have the right of appeal from decisions of the Contracting Officer cognizable under the *Disputes* clause of said subcontract.
 

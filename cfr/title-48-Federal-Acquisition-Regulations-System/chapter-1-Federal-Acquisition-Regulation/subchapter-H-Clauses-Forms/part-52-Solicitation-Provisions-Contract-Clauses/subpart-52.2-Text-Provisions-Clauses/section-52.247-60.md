@@ -16,17 +16,17 @@ Guaranteed Shipping Characteristics (JAN 2017)
 
 (iv) Number of items per container \_\_ Each;
 
-(v) Gross weight of container and contents\_\_ LBS
+(v) Gross weight of container and contents \_\_ LBS
 
 (vi) Palletized/skidded \_\_ Yes \_\_ No;
 
 (vii) Number of containers per pallet/skid \_\_;
 
-(viii) Weight of empty pallet bottom/skid and sides\_\_ LBS;
+(viii) Weight of empty pallet bottom/skid and sides \_\_ LBS;
 
 (ix) Size of pallet/skid and contents \_\_ LBS Cube \_\_;
 
-(x) Number of containers or pallets/skid per railcar \_\_\* -
+(x) Number of containers or pallets/skid per railcar \_\_\*—
 
 \*Number of complete units (contract line item) to be shipped in carrier's equipment.
 
@@ -34,7 +34,7 @@ Size of railcar \_\_
 
 Type of railcar \_\_
 
-(xi) Number of containers or pallets/skids per trailer \_\_\* -
+(xi) Number of containers or pallets/skids per trailer \_\_\*—
 
 Size of trailer \_\_ FT
 

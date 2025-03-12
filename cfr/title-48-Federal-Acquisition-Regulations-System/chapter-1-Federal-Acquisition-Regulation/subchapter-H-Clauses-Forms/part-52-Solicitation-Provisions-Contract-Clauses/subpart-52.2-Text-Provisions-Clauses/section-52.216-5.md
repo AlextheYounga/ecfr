@@ -10,7 +10,7 @@ Price Redetermination - Prospective (OCT 1997)
 
 (c) *Price redetermination periods.* For the purpose of price redetermination, performance of this contract is divided into successive periods. The first period shall extend from the date of the contract to \_\_, [*see Note (1)*] and the second and each succeeding period shall extend for \_\_ [*insert appropriate number*] months from the end of the last preceding period, except that the parties may agree to vary the length of the final period. The first day of the second and each succeeding period shall be the effective date of price redetermination for that period.
 
-(d) *Data submission.* (1) Not more than \_ nor less than \_ [*see Note (2)*] days before the end of each redetermination period, except the last, the Contractor shall submit -
+(d) *Data submission.* (1) Not more than \_\_ nor less than \_\_ [*see Note (2)*] days before the end of each redetermination period, except the last, the Contractor shall submit -
 
 (i) Proposed prices for supplies that may be delivered or services that may be performed in the next succeeding period, and -
 

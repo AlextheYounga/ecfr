@@ -12,7 +12,7 @@ Patent Indemnity (APR 1984)
 
 *Alternate I* (APR 1984). As prescribed in 27.201-2(c)(2), add the following paragraph (c) to the basic clause:
 
-(c) This patent indemnification shall not apply to the following items: \_\_\_ [*Contracting Officer list and/or identify the items to be excluded from this indemnity*]
+(c) This patent indemnification shall not apply to the following items: \_\_\_\_ [*Contracting Officer list and/or identify the items to be excluded from this indemnity*]
 
 *Alternate II* (APR 1984). As prescribed in 27.201-2(c)(2), add the following paragraph (c) to the basic clause:
 

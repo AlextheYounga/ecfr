@@ -4,7 +4,7 @@ As prescribed in 37.304(c), insert the following clause in solicitations and con
 
 Incremental Payment by Contractor to Government (APR 1984)
 
-(a) The Contractor shall perform the work called for under this contract and within \_ days of receipt of notice of award, unless otherwise provided in the Schedule, and before proceeding with the work, shall pay \_\_ [*fill in amount*]. Thereafter, the Contractor shall make payment to the Government in the amount and frequency specified in the Schedule. Checks shall be made payable to the office designated in the contract and shall be forwarded to the Contracting Officer.
+(a) The Contractor shall perform the work called for under this contract and within \_\_ days of receipt of notice of award, unless otherwise provided in the Schedule, and before proceeding with the work, shall pay \_\_\_\_ [*fill in amount*]. Thereafter, the Contractor shall make payment to the Government in the amount and frequency specified in the Schedule. Checks shall be made payable to the office designated in the contract and shall be forwarded to the Contracting Officer.
 
 (b) Upon the Government's receipt of each increment of payment, the Contractor shall receive title to such property as the Contracting Officer determines to be fair and reasonable for that increment of payment. Upon receipt of the Contractor's final payment, all title that has not passed to the Contractor shall vest in the Contractor, unless specifically designated in the Schedule as being retained by the Government. The Government shall not be responsible for the condition of, or any loss or damage to, the property.
 

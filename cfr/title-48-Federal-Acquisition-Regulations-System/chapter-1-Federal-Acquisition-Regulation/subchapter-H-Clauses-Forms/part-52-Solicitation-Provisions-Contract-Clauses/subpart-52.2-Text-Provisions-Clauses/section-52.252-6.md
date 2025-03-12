@@ -6,6 +6,6 @@ Authorized Deviations in Clauses (APR 1984)
 
 (a) The use in this solicitation or contract of any Federal Acquisition Regulation (48 CFR Chapter 1) clause with an authorized deviation is indicated by the addition of $(*DEVIATION*) after the date of the clause.
 
-(b) The use in this solicitation or contract of any \_\_ [*insert regulation name*] (48 CFR \_) clause with an authorized deviation is indicated by the addition of $(*DEVIATION*) after the name of the regulation.
+(b) The use in this solicitation or contract of any \_\_\_\_ [*insert regulation name*] (48 CFR \_\_) clause with an authorized deviation is indicated by the addition of $(*DEVIATION*) after the name of the regulation.
 
 (End of clause)

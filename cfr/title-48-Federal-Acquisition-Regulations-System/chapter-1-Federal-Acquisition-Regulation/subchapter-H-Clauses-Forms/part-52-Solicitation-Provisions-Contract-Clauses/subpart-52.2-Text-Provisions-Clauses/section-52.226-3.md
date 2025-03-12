@@ -6,15 +6,15 @@ Disaster or Emergency Area Representation (NOV 2007)
 
 (a) *Set-aside area.* The area covered in this contract is: \_\_\_\_\_\_\_\_\_\_\_ [*Contracting Officer to fill in with definite geographic boundaries.*]
 
-(b) *Representations.* The offeror represents that it \_\_\_does \_\_\_\_ does not reside or primarily do business in the set-aside area.
+(b) *Representations.* The offeror represents that it \_\_\_ does \_\_\_ does not reside or primarily do business in the set-aside area.
 
-(c) An offeror is considered to be residing or primarily doing business in the set-aside area if, during the last twelve months -
+(c) An offeror is considered to be residing or primarily doing business in the set-aside area if, during the last twelve months—
 
 (1) The offeror had its main operating office in the area; and
 
 (2) That office generated at least half of the offeror's gross revenues and employed at least half of the offeror's permanent employees.
 
-(d) If the offeror does not meet the criteria in paragraph (c) of this provision, factors to be considered in determining whether an offeror resides or primarily does business in the set-aside area include -
+(d) If the offeror does not meet the criteria in paragraph (c) of this provision, factors to be considered in determining whether an offeror resides or primarily does business in the set-aside area include—
 
 (1) Physical location(s) of the offeror's permanent office(s) and date any office in the set-aside area(s) was established;
 

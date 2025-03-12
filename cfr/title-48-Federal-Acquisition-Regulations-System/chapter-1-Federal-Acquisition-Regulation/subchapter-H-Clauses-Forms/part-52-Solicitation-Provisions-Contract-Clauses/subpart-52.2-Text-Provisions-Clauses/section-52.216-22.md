@@ -10,6 +10,6 @@ Indefinite Quantity (OCT 1995)
 
 (c) Except for any limitations on quantities in the Order Limitations clause or in the Schedule, there is no limit on the number of orders that may be issued. The Government may issue orders requiring delivery to multiple destinations or performance at multiple locations.
 
-(d) Any order issued during the effective period of this contract and not completed within that period shall be completed by the Contractor within the time specified in the order. The contract shall govern the Contractor's and Government's rights and obligations with respect to that order to the same extent as if the order were completed during the contract's effective period; *provided,* that the Contractor shall not be required to make any deliveries under this contract after \_\_ [*insert date*].
+(d) Any order issued during the effective period of this contract and not completed within that period shall be completed by the Contractor within the time specified in the order. The contract shall govern the Contractor's and Government's rights and obligations with respect to that order to the same extent as if the order were completed during the contract's effective period; *provided,* that the Contractor shall not be required to make any deliveries under this contract after \_\_\_ [*insert date*].
 
 (End of clause)[48 FR 42478, Sept. 19, 1983, as amended at 55 FR 38518, Sept. 18, 1990; 60 FR 49727, Sept. 26, 1995]

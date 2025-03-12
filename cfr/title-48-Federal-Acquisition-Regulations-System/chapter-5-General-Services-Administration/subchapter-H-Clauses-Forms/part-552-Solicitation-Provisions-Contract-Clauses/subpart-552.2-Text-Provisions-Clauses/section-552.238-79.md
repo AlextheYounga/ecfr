@@ -1,4 +1,4 @@
-##### 552.238-79 Use of Federal Supply Schedule Contracts by Non-Federal Entities #####
+##### 552.238-79 Use of Federal Supply Schedule Contracts by Non-Federal Entities. #####
 
 As prescribed in 538.7004(c), insert the following clause:
 

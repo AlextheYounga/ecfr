@@ -10,7 +10,7 @@ Contract Definitization (OCT 2010)
 
 (c) If agreement on a definitive contract to supersede this letter contract is not reached by the target date in paragraph (b) above, or within any extension of it granted by the Contracting Officer, the Contracting Officer may, with the approval of the head of the contracting activity, determine a reasonable price or fee in accordance with subpart 15.4 and part 31 of the FAR, subject to Contractor appeal as provided in the Disputes clause. In any event, the Contractor shall proceed with completion of the contract, subject only to the Limitation of Government Liability clause.
 
-(1) After the Contracting Officer's determination of price or fee, the contract shall be governed by -
+(1) After the Contracting Officer's determination of price or fee, the contract shall be governed by—
 
 (i) All clauses required by the FAR on the date of execution of this letter contract for either fixed-price or cost-reimbursement contracts, as determined by the Contracting Officer under this paragraph (c);
 
@@ -24,6 +24,6 @@ Contract Definitization (OCT 2010)
 
 *Alternate I* (APR 1984). In letter contracts awarded on the basis of price competition, add the following paragraph (d) to the basic clause:
 
-(d) The definitive contract resulting from this letter contract will include a negotiated \_\_ [*insert price ceiling* or *firm fixed price*] in no event to exceed \_\_ [*insert the proposed price upon which the award was based*].
+(d) The definitive contract resulting from this letter contract will include a negotiated \_\_\_ [*insert price ceiling* or *firm fixed price*] in no event to exceed \_\_\_ [*insert the proposed price upon which the award was based*].
 
 [48 FR 42478, Sept. 19, 1983, as amended at 60 FR 48221, Sept. 18, 1995; 62 FR 51271, Sept. 30, 1997; 75 FR 53152, Aug. 30, 2010]

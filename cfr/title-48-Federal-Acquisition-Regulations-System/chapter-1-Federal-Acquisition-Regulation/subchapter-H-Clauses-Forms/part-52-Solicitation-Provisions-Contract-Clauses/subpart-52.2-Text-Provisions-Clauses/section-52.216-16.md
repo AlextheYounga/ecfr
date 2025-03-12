@@ -4,11 +4,11 @@ As prescribed in 16.406(a), insert the following clause:
 
 Incentive Price Revision - Firm Target (OCT 1997)
 
-(a) *General.* The supplies or services identified in the Schedule as Items \_\_ [*Contracting Officer insert Schedule line item numbers*] are subject to price revision in accordance with this clause; *provided,* that in no event shall the total final price of these items exceed the ceiling price of \_\_ dollars ($\_\_). Any supplies or services that are to be (1) ordered separately under, or otherwise added to, this contract and (2) subject to price revision in accordance with the terms of this clause shall be identified as such in a modification to this contract.
+(a) *General.* The supplies or services identified in the Schedule as Items \_\_\_ [*Contracting Officer insert Schedule line item numbers*] are subject to price revision in accordance with this clause; *provided,* that in no event shall the total final price of these items exceed the ceiling price of \_\_\_ dollars ($\_\_\_). Any supplies or services that are to be (1) ordered separately under, or otherwise added to, this contract and (2) subject to price revision in accordance with the terms of this clause shall be identified as such in a modification to this contract.
 
 (b) *Definition. Costs,* as used in this clause, means allowable costs in accordance with part 31 of the Federal Acquisition Regulation (FAR) in effect on the date of this contract.
 
-(c) *Data submission.* (1) Within \_\_ [*Contracting Officer insert number of days*] days after the end of the month in which the Contractor has delivered the last unit of supplies and completed the services specified by item number in paragraph (a) of this clause, the Contractor shall sumbit in the format of Table 15-2, FAR 15.408, or in any other form on which the parties agree -
+(c) *Data submission.* (1) Within \_\_ [*Contracting Officer insert number of days*] days after the end of the month in which the Contractor has delivered the last unit of supplies and completed the services specified by item number in paragraph (a) of this clause, the Contractor shall submit in the format of Table 15-2, FAR 15.408, or in any other form on which the parties agree -
 
 (i) A detailed statement of all costs incurred up to the end of that month in performing all work under the items;
 
@@ -28,9 +28,9 @@ Incentive Price Revision - Firm Target (OCT 1997)
 
 (i) If the total final negotiated cost is equal to the total target cost, the adjustment is the total target profit.
 
-(ii) If the total final negotiated cost is greater than the total target cost, the adjustment is the total target profit, less \_ [*Contracting Officer insert percent*] percent of the amount by which the total final negotiated cost exceeds the total target cost.
+(ii) If the total final negotiated cost is greater than the total target cost, the adjustment is the total target profit, less \_\_\_ [*Contracting Officer insert percent*] percent of the amount by which the total final negotiated cost exceeds the total target cost.
 
-(iii) If the final negotiated cost is less than the total target cost, the adjustment is the total target profit plus \_ [*Contracting Officer insert percent*] percent of the amount by which the total final negotiated cost is less than the total target cost.
+(iii) If the final negotiated cost is less than the total target cost, the adjustment is the total target profit plus \_\_\_ [*Contracting Officer insert percent*] percent of the amount by which the total final negotiated cost is less than the total target cost.
 
 (e) *Contract modification.* The total final price of the items specified in paragraph (a) above shall be evidenced by a modification to this contract, signed by the Contractor and the Contracting Officer. This price shall not be subject to revision, notwithstanding any changes in the cost of performing the contract, except to the extent that -
 

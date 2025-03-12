@@ -4,7 +4,7 @@ As prescribed in 11.404(b), insert the following clause in solicitations and con
 
 Commencement, Prosecution, and Completion of Work (APR 1984)
 
-The Contractor shall be required to (a) commence work under this contract within \_ [*Contracting Officer insert number*] calendar days after the date the Contractor receives the notice to proceed, (b) prosecute the work diligently, and (c) complete the entire work ready for use not later than \_\_\*. The time stated for completion shall include final cleanup of the premises.
+The Contractor shall be required to (a) commence work under this contract within \_\_ [*Contracting Officer insert number*] calendar days after the date the Contractor receives the notice to proceed, (b) prosecute the work diligently, and (c) complete the entire work ready for use not later than \_\_\*. The time stated for completion shall include final cleanup of the premises.
 
 (End of clause)
 

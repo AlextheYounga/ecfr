@@ -4,7 +4,7 @@ As prescribed in 37.304(a), insert the following clause in solicitations and con
 
 Payment by Government to Contractor (APR 1984)
 
-(a) In \_\_ [*insert* full *if Alternate I is used; otherwise insert* partial] consideration of the performance of the work called for in the Schedule, the Government will pay to the Contractor \_\_ [*fill in amount*].
+(a) In \_\_\_ [*insert* full *if Alternate I is used; otherwise insert* partial] consideration of the performance of the work called for in the Schedule, the Government will pay to the Contractor \_\_\_ [*fill in amount*].
 
 (b) The Government shall make progress payments monthly as the work proceeds, or at more frequent intervals as determined by the Contracting Officer, on estimates approved by the Contracting Officer. Except as provided in paragraph (c) below, in making progress payments the Contracting Officer shall retain 10 percent of the estimated payment until final completion and acceptance of the contract work. However, if the Contracting Officer finds that satisfactory progress was achieved during any period for which a progress payment is to be made, the Contracting Officer may authorize such payment in full, without retaining a percentage. Also, on completion and acceptance of each unit or division for which the price is stated separately, the Contracting Officer may authorize full payment for that unit or division without retaining a percentage.
 

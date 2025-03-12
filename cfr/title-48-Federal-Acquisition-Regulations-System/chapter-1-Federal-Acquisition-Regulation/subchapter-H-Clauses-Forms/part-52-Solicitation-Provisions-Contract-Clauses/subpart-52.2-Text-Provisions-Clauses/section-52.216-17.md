@@ -4,11 +4,11 @@ As prescribed in 16.406(b), insert the following clause:
 
 Incentive Price Revision - Successive Targets (OCT 1997)
 
-(a) *General.* The supplies or services identified in the Schedule as Items \_\_ [*Contracting Officer insert line item numbers*] are subject to price revision in accordance with this clause; *provided,* that in no event shall the total final price of these items exceed the ceiling price of \_\_ dollars ($\_\_). The prices of these items shown in the Schedule are the initial target prices, which include an initial target profit of \_ [*Contracting Officer insert percent*] percent of the initial target cost. Any supplies or services that are to be (1) ordered separately under, or otherwise added to, this contract and (2) subject to price revision in accordance with this clause shall be identified as such in a modification to this contract.
+(a) *General.* The supplies or services identified in the Schedule as Items \_\_\_ [*Contracting Officer insert line item numbers*] are subject to price revision in accordance with this clause; *provided,* that in no event shall the total final price of these items exceed the ceiling price of \_\_\_ dollars ($\_\_\_). The prices of these items shown in the Schedule are the initial target prices, which include an initial target profit of \_\_\_ [*Contracting Officer insert percent*] percent of the initial target cost. Any supplies or services that are to be (1) ordered separately under, or otherwise added to, this contract and (2) subject to price revision in accordance with this clause shall be identified as such in a modification to this contract.
 
 (b) *Definition. Costs,* as used in this clause, means allowable costs in accordance with part 31 of the Federal Acquisition Regulation (FAR) in effect on the date of this contract.
 
-(c) *Submitting data for establishing the firm fixed price or a final profit adjustment formula.* (1) Within \_ [*Contracting Officer insert number of days*] days after the end of the month in which the Contractor has completed \_\_ [*see Note 1*], the Contractor shall submit the following data:
+(c) *Submitting data for establishing the firm fixed price or a final profit adjustment formula.* (1) Within \_\_ [*Contracting Officer insert number of days*] days after the end of the month in which the Contractor has completed \_\_\_ [*see Note 1*], the Contractor shall submit the following data:
 
 (i) A proposed firm fixed price or total firm target price for supplies delivered and to be delivered and services performed and to be performed.
 
@@ -40,7 +40,7 @@ Incentive Price Revision - Successive Targets (OCT 1997)
 
 (1) The parties shall negotiate a total firm target cost, based upon the data submitted under paragraph (c) above.
 
-(2) If the total firm target cost is more than the total initial target cost, the total initial target profit shall be decreased. If the total firm target cost is less than the total initial target cost, the total initial target profit shall be increased. The initial target profit shall be increased or decreased by \_ percent [*see Note 2*] of the difference between the total initial target cost and the total firm target cost. The resulting amount shall be the total firm target profit; *provided,* that in no event shall the total firm target profit be less than \_ percent or more than \_ percent [*Contracting Officer insert percents*] of the total initial target cost.
+(2) If the total firm target cost is more than the total initial target cost, the total initial target profit shall be decreased. If the total firm target cost is less than the total initial target cost, the total initial target profit shall be increased. The initial target profit shall be increased or decreased by \_\_ percent [*see Note 2*] of the difference between the total initial target cost and the total firm target cost. The resulting amount shall be the total firm target profit; *provided,* that in no event shall the total firm target profit be less than \_\_ percent or more than \_\_ percent [*Contracting Officer insert percents*] of the total initial target cost.
 
 (3) If the total firm target cost plus the total firm target profit represent a reasonable price for performing that part of the contract subject to price revision under this clause, the parties may agree on a firm fixed price, which shall be evidenced by a contract modification signed by the Contractor and the Contracting Officer.
 
@@ -48,9 +48,9 @@ Incentive Price Revision - Successive Targets (OCT 1997)
 
 (i) If the total final negotiated cost is equal to the total firm target cost, the adjustment is the total firm target profit.
 
-(ii) If the total final negotiated cost is greater than the total firm target cost, the adjustment is the total firm target profit, less \_ percent of the amount by which the total final negotiated cost exceeds the total firm target cost.
+(ii) If the total final negotiated cost is greater than the total firm target cost, the adjustment is the total firm target profit, less \_\_ percent of the amount by which the total final negotiated cost exceeds the total firm target cost.
 
-(iii) If the total final negotiated cost is less than the total firm target cost, the adjustment is the total firm target profit, plus \_ percent of the amount by which the total final negotiated cost is less than the total firm target cost.
+(iii) If the total final negotiated cost is less than the total firm target cost, the adjustment is the total firm target profit, plus \_\_ percent of the amount by which the total final negotiated cost is less than the total firm target cost.
 
 (iv) The total firm target cost, total firm target profit, and the profit adjustment formula for determining final profit shall be evidenced by a modification to this contract signed by the Contractor and the Contracting Officer.
 

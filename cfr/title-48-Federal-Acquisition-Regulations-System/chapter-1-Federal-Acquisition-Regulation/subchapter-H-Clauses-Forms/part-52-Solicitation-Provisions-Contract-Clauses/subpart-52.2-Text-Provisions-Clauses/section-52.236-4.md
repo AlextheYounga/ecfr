@@ -6,12 +6,12 @@ Physical Data (APR 1984)
 
 Data and information furnished or referred to below is for the Contractor's information. The Government shall not be responsible for any interpretation of or conclusion drawn from the data or information by the Contractor.
 
-(a) The indications of physical conditions on the drawings and in the specifications are the result of site investigations by \_\_\_ [*insert a description of investigational methods used, such as surveys, auger borings, core borings, test pits, probings, test tunnels*].
+(a) The indications of physical conditions on the drawings and in the specifications are the result of site investigations by \_\_\_\_ [*insert a description of investigational methods used, such as surveys, auger borings, core borings, test pits, probings, test tunnels*].
 
-(b) Weather conditions \_\_\_ [*insert a summary of weather records and warnings*].
+(b) Weather conditions \_\_\_\_ [*insert a summary of weather records and warnings*].
 
-(c) Transportation facilities \_\_\_ [*insert a summary of transportation facilities providing access from the site, including information about their availability and limitations*].
+(c) Transportation facilities \_\_\_\_ [*insert a summary of transportation facilities providing access from the site, including information about their availability and limitations*].
 
-(d) \_\_\_ [*Insert other pertinent information*].
+(d) \_\_\_\_ [*Insert other pertinent information*].
 
 (End of clause)

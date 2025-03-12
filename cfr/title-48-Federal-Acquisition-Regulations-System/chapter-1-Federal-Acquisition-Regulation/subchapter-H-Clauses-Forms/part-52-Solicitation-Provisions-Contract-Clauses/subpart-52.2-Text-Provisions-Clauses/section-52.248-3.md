@@ -66,7 +66,7 @@ Value Engineering - Construction (OCT 2015)
 
 (i) *Data.* The Contractor may restrict the Government's right to use any part of a VECP or the supporting data by marking the following legend on the affected parts:
 
-“These data, furnished under the Value Engineering - Construction clause of contract \_\_, shall not be disclosed outside the Government or duplicated, used, or disclosed, in whole or in part, for any purpose other than to evaluate a value engineering change proposal submitted under the clause. This restriction does not limit the Government's right to use information contained in these data if it has been obtained or is otherwise available from the Contractor or from another source without limitations.”
+“These data, furnished under the Value Engineering - Construction clause of contract \_\_\_\_, shall not be disclosed outside the Government or duplicated, used, or disclosed, in whole or in part, for any purpose other than to evaluate a value engineering change proposal submitted under the clause. This restriction does not limit the Government's right to use information contained in these data if it has been obtained or is otherwise available from the Contractor or from another source without limitations.”
 
 If a VECP is accepted, the Contractor hereby grants the Government unlimited rights in the VECP and supporting data, except that, with respect to data qualifying and submitted as limited rights technical data, the Government shall have the rights specified in the contract modification implementing the VECP and shall appropriately mark the data. (The terms *unlimited rights* and *limited rights* are defined in part 27 of the Federal Acquisition Regulation.)
 

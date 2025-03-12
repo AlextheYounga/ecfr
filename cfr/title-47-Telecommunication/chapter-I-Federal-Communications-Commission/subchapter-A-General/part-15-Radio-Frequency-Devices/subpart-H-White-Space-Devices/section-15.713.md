@@ -242,4 +242,4 @@
 
 (3) A white space database must not provide lists of available channels to uncertified white space devices for purposes of operation (it is acceptable for a white space database to distribute lists of available channels by means other than contact with white space devices to provide list of channels for operation). To implement this provision, a white space database administrator shall obtain a list of certified white space devices from the FCC Equipment Authorization System.
 
-[80 FR 73070, Nov. 23, 2015, as amended at 81 FR 4974, Jan. 29, 2016; 82 FR 41559, Sept. 1, 2017]Effective Date Note: At 81 FR 4974, Jan. 29, 2016, § 15.713(b)(2)(iv) and (j)(10) introductory text were revised. These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[80 FR 73070, Nov. 23, 2015, as amended at 81 FR 4974, Jan. 29, 2016; 82 FR 41559, Sept. 1, 2017]

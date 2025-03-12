@@ -1,14 +1,14 @@
-##### 52.227-13 Patent Rights - Ownership by the Government. #####
+##### 52.227-13 Patent Rights—Ownership by the Government. #####
 
 As prescribed at 27.303(e), insert the following clause:
 
-Patent Rights - Ownership by the Government (DEC 2007)
+Patent Rights—Ownership by the Government (DEC 2007)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 *Invention* means any invention or discovery that is or may be patentable or otherwise protectable under title 35 of the U.S. Code or any variety of plant that is or may be protectable under the Plant Variety Protection Act (7 U.S.C. 2321, *et seq.*)
 
-*Made* means -
+*Made* means—
 
 (1) When used in relation to any invention other than a plant variety, means the conception or first actual reduction to practice of the invention; or
 
@@ -18,7 +18,7 @@ Patent Rights - Ownership by the Government (DEC 2007)
 
 *Subject invention*, means any invention of the Contractor made in the performance of work under this contract.
 
-(b) *Ownership* - (1) *Assignment to the Government.* The Contractor shall assign to the Government title throughout the world to each subject invention, except to the extent that rights are retained under paragraphs (b)(2) and (d) of this clause.
+(b) *Ownership*—(1) *Assignment to the Government.* The Contractor shall assign to the Government title throughout the world to each subject invention, except to the extent that rights are retained under paragraphs (b)(2) and (d) of this clause.
 
 (2) *Greater rights determinations.* (i) The Contractor, or an employee-inventor after consultation with the Contractor, may request greater rights than the nonexclusive license provided in paragraph (d) of this clause. The request for a greater rights must be submitted to the Contracting Officer at the time of the first disclosure of the subject invention pursuant to paragraph (e)(2) of this clause, or not later than 8 months thereafter, unless a longer period is authorized in writing by the Contracting Officer for good cause shown in writing by the Contractor. Each determination of greater rights under this contract normally shall be subject to paragraph (c) of this clause, and to the reservations and conditions deemed to be appropriate by the agency.
 
@@ -34,7 +34,7 @@ Patent Rights - Ownership by the Government (DEC 2007)
 
 (iii) Upon request, the Contractor shall submit periodic reports no more frequently than annually on the utilization, or efforts to obtain utilization, of a subject invention by the Contractor or its licensees or assignees. The reports shall include information regarding the status of development, date of first commercial sale or use, gross royalties received by the Contractor, and any other data and information as the agency may reasonably specify. The Contractor also shall provide additional reports as may be requested by the agency in connection with any march-in proceedings undertaken by the agency in accordance with paragraph (c)(1)(ii) of this clause. To the extent data or information supplied under this section is considered by the Contractor, or its licensees, or assignees to be privileged and confidential and is so marked, the agency, to the extent permitted by law, will not disclose such information to persons outside the Government.
 
-(iv) When licensing a subject invention, the Contractor shall -
+(iv) When licensing a subject invention, the Contractor shall—
 
 (A) Ensure that no royalties are charged on acquisitions involving Government funds, including funds derived through a Military Assistance Program of the Government or otherwise derived through the Government;
 
@@ -66,7 +66,7 @@ Patent Rights - Ownership by the Government (DEC 2007)
 
 (5) Subject to FAR 27.302(i), the Contractor agrees that the Government may duplicate and disclose subject invention disclosures and all other reports and papers furnished or required to be furnished pursuant to this clause.
 
-(f) *Examination of records relating to inventions.* (1) The Contracting Officer or any authorized representative shall, until 3 years after final payment under this contract, have the right to examine any books (including laboratory notebooks), records, and documents of the Contractor relating to the conception or first actual reduction to practice of inventions in the same field of technology as the work under this contract to determine whether -
+(f) *Examination of records relating to inventions.* (1) The Contracting Officer or any authorized representative shall, until 3 years after final payment under this contract, have the right to examine any books (including laboratory notebooks), records, and documents of the Contractor relating to the conception or first actual reduction to practice of inventions in the same field of technology as the work under this contract to determine whether—
 
 (i) Any inventions are subject inventions;
 
@@ -78,7 +78,7 @@ Patent Rights - Ownership by the Government (DEC 2007)
 
 (3) Any examination of records under paragraph (f) of this clause will be subject to appropriate conditions to protect the confidentiality of the information involved.
 
-(g) *Withholding of payment.* (This paragraph does not apply to subcontracts.) (1) Any time before final payment under this contract, the Contracting Officer may, in the Government's interest, withhold payment until a reserve not exceeding $50,000 or 5 percent of the amount of this contract, whichever is less, shall have been set aside if, in the Contracting Officer's opinion, the Contractor fails to -
+(g) *Withholding of payment.* (This paragraph does not apply to subcontracts.) (1) Any time before final payment under this contract, the Contracting Officer may, in the Government's interest, withhold payment until a reserve not exceeding $50,000 or 5 percent of the amount of this contract, whichever is less, shall have been set aside if, in the Contracting Officer's opinion, the Contractor fails to—
 
 (i) Establish, maintain, and follow effective procedures for identifying and disclosing subject inventions pursuant to paragraph (e)(1) of this clause;
 
@@ -98,7 +98,7 @@ Patent Rights - Ownership by the Government (DEC 2007)
 
 (i) *Subcontracts.* (1) The Contractor shall include the substance of the patent rights clause required by FAR Subpart 27.3 in all subcontracts for experimental, developmental, or research work. The prescribed patent rights clause must be modified to identify the parties as follows: references to the Government are not changed, and the subcontractor has all rights and obligations of the Contractor in the clause. The Contractor shall not, as part of the consideration for awarding the subcontract, obtain rights in the subcontractor's subject inventions.
 
-(2) In the event of a refusal by a prospective subcontractor to accept the clause, the Contractor -
+(2) In the event of a refusal by a prospective subcontractor to accept the clause, the Contractor—
 
 (i) Shall promptly submit a written notice to the Contracting Officer setting forth the subcontractor's reasons for such refusal and other pertinent information that may expedite disposition of the matter; and
 
@@ -112,7 +112,7 @@ Patent Rights - Ownership by the Government (DEC 2007)
 
 *Alternate I* (JUN 1989). As prescribed in 27.303(e) (4), add the following sentence at the end of paragraph (c)(1)(i) of the basic clause:
 
-The license will include the right of the Government to sublicense foreign governments, their nationals, and international organizations pursuant to the following treaties or international agreements: \_\_\_\_\_\_\_\_\*
+The license will include the right of the Government to sublicense foreign governments, their nationals, and international organizations pursuant to the following treaties or international agreements: \_\_\_\_\_\_\_\_ \*
 
 [\* *Contracting Officer complete with the names of applicable existing treaties or international agreements. The above language is not intended to apply to treaties or agreements that are in effect on the date of the award but are not listed.*]
 

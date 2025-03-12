@@ -1,14 +1,14 @@
-##### 52.227-11 Patent Rights - Ownership by the Contractor. #####
+##### 52.227-11 Patent Rights—Ownership by the Contractor. #####
 
 As prescribed in 27.303(b)(1), insert the following clause:
 
-Patent Rights - Ownership by the Contractor (MAY 2014)
+Patent Rights—Ownership by the Contractor (MAY 2014)
 
-(a) As used in this clause -
+(a) As used in this clause—
 
 *Invention* means any invention or discovery that is or may be patentable or otherwise protectable under title 35 of the U.S. Code, or any variety of plant that is or may be protectable under the Plant Variety Protection Act (7 U.S.C. 2321, *et seq.*)
 
-*Made* means -
+*Made* means—
 
 (1) When used in relation to any invention other than a plant variety, the conception or first actual reduction to practice of the invention; or
 
@@ -34,7 +34,7 @@ Patent Rights - Ownership by the Contractor (MAY 2014)
 
 (4) The Contractor may request extensions of time for disclosure, election, or filing under paragraphs (c)(1), (c)(2), and (c)(3) of this clause.
 
-(d) *Government's rights* - (1) *Ownership.* The Contractor shall assign to the agency, on written request, title to any subject invention -
+(d) *Government's rights*—(1) *Ownership.* The Contractor shall assign to the agency, on written request, title to any subject invention—
 
 (i) If the Contractor fails to disclose or elect ownership to the subject invention within the times specified in paragraph (c) of this clause, or elects not to retain ownership; provided, that the agency may request title only within 60 days after learning of the Contractor's failure to disclose or elect within the specified times.
 
@@ -44,7 +44,7 @@ Patent Rights - Ownership by the Contractor (MAY 2014)
 
 (2) *License.* If the Contractor retains ownership of any subject invention, the Government shall have a nonexclusive, nontransferable, irrevocable, paid-up license to practice, or have practiced for or on its behalf, the subject invention throughout the world.
 
-(e) *Contractor action to protect the Government's interest.* (1) The Contractor shall execute or have executed and promptly deliver to the agency all instruments necessary to -
+(e) *Contractor action to protect the Government's interest.* (1) The Contractor shall execute or have executed and promptly deliver to the agency all instruments necessary to—
 
 (i) Establish or confirm the rights the Government has throughout the world in those subject inventions in which the Contractor elects to retain ownership; and
 
@@ -62,7 +62,7 @@ Patent Rights - Ownership by the Contractor (MAY 2014)
 
 (h) *March-in rights.* The Contractor acknowledges that, with respect to any subject invention in which it has retained ownership, the agency has the right to require licensing pursuant to 35 U.S.C. 203 and 210(c), and in accordance with the procedures in 37 CFR 401.6 and any supplemental regulations of the agency in effect on the date of contract award.
 
-(i) *Special provisions for contracts with nonprofit organizations.* If the Contractor is a nonprofit organization, it shall -
+(i) *Special provisions for contracts with nonprofit organizations.* If the Contractor is a nonprofit organization, it shall—
 
 (1) Not assign rights to a subject invention in the United States without the written approval of the agency, except where an assignment is made to an organization that has as one of its primary functions the management of inventions, *provided*, that the assignee shall be subject to the same provisions as the Contractor;
 
@@ -88,7 +88,7 @@ Patent Rights - Ownership by the Contractor (MAY 2014)
 
 *Alternate I* (JUN 1989). As prescribed in 27.303(b)(3), add the following sentence at the end of paragraph (d)(2) of the basic clause:
 
-The license shall include the right of the Government to sublicense foreign governments, their nationals and international organizations pursuant to the following treaties or international agreements: \_\_\_\_\_\_\_\*
+The license shall include the right of the Government to sublicense foreign governments, their nationals and international organizations pursuant to the following treaties or international agreements: \_\_\_\_\_\_\_ \*
 
 [*\* Contracting Officer complete with the names of applicable existing treaties or international agreements. The above language is not intended to apply to treaties or agreements that are in effect on the date of the award but are not listed.*]
 
@@ -98,11 +98,11 @@ The agency reserves the right to unilaterally amend this contract to identify sp
 
 *Alternate III* (JUN 1989). As prescribed in 27.303(b)(5), substitute the following paragraph (i)(3) in place of paragraph (i)(3) of the basic clause:
 
-(3) After payment of patenting costs, licensing costs, payments to inventors, and other expenses incidental to the administration of subject inventions, the balance of any royalties or income earned and retained by the Contractor during any fiscal year on subject inventions under this or any successor contract containing the same requirement, up to any amount equal to 5 percent of the budget of the facility for that fiscal year, shall be used by the Contractor for the scientific research, development, and education consistent with the research and development mission and objectives of the facility, including activities that increase the licensing potential of other inventions of the facility. If the balance exceeds 5 percent, 75 percent of the excess above 5 percent shall be paid by the Contractor to the Treasury of the United States and the remaining 25 percent shall be used by the Contractor only for the same purposes as described above. To the extent it provides the most effective technology transfer, the licensing of subject inventions shall be administered by Contractor employees on location at the facility.
+(i)(3) After payment of patenting costs, licensing costs, payments to inventors, and other expenses incidental to the administration of subject inventions, the balance of any royalties or income earned and retained by the Contractor during any fiscal year on subject inventions under this or any successor contract containing the same requirement, up to any amount equal to 5 percent of the budget of the facility for that fiscal year, shall be used by the Contractor for the scientific research, development, and education consistent with the research and development mission and objectives of the facility, including activities that increase the licensing potential of other inventions of the facility. If the balance exceeds 5 percent, 75 percent of the excess above 5 percent shall be paid by the Contractor to the Treasury of the United States and the remaining 25 percent shall be used by the Contractor only for the same purposes as described above. To the extent it provides the most effective technology transfer, the licensing of subject inventions shall be administered by Contractor employees on location at the facility.
 
 *Alternate IV* (JUN 1989). As prescribed in 27.303(b)(6), include the following paragraph (e)(5) in paragraph (e) of the basic clause:
 
-(5) The Contractor shall establish and maintain active and effective procedures to ensure that subject inventions are promptly identified and timely disclosed, and shall submit a description of the procedures to the Contracting Officer so that the Contracting Officer may evaluate and determine their effectiveness.
+(e)(5) The Contractor shall establish and maintain active and effective procedures to ensure that subject inventions are promptly identified and timely disclosed, and shall submit a description of the procedures to the Contracting Officer so that the Contracting Officer may evaluate and determine their effectiveness.
 
 *Alternate V.* (DEC 2007) As prescribed in 27.303(b)(7), include the following paragraph (d)(3) in paragraph (d) of the basic clause:
 

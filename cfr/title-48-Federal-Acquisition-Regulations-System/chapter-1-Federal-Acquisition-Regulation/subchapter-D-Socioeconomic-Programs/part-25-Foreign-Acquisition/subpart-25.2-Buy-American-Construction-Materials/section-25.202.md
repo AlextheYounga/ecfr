@@ -12,6 +12,6 @@
 
 (b) *Determination and findings.* When a determination is made for any of the reasons stated in this section that certain foreign construction materials may be used, the contracting officer must list the excepted materials in the contract. The agency must make the findings justifying the exception available for public inspection.
 
-(c) *Acquisitions under trade agreements.* For construction contracts with an estimated acquisition value of $7,358,000 or more, see subpart 25.4.
+(c) *Acquisitions under trade agreements.* For construction contracts with an estimated acquisition value of $6,932,000 or more, see subpart 25.4.
 
-[64 FR 72419, Dec. 27, 1999, as amended at 65 FR 36026, June 6, 2000; 67 FR 56123, Aug. 30, 2002; 69 FR 1053, Jan. 7, 2004; 70 FR 11743, Mar. 9, 2005; 71 FR 865, Jan. 5, 2006; 73 FR 10963, Feb. 28, 2008; 75 FR 38690, July 2, 2010; 75 FR 60267, Sept. 29, 2010; 77 FR 12934, Mar. 2, 2012; 78 FR 80380, Dec. 31, 2013; 79 FR 24209, Apr. 29, 2014; 80 FR 81895, Dec. 31, 2015]
+[64 FR 72419, Dec. 27, 1999, as amended at 65 FR 36026, June 6, 2000; 67 FR 56123, Aug. 30, 2002; 69 FR 1053, Jan. 7, 2004; 70 FR 11743, Mar. 9, 2005; 71 FR 865, Jan. 5, 2006; 73 FR 10963, Feb. 28, 2008; 75 FR 38690, July 2, 2010; 75 FR 60267, Sept. 29, 2010; 77 FR 12934, Mar. 2, 2012; 78 FR 80380, Dec. 31, 2013; 79 FR 24209, Apr. 29, 2014; 80 FR 81895, Dec. 31, 2015; 83 FR 3398, Jan. 24, 2018]

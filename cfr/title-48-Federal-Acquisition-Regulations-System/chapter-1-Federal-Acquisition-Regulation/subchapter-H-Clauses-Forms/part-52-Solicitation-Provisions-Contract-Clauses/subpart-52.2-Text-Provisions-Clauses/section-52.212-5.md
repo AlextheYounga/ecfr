@@ -2,7 +2,7 @@
 
 As prescribed in 12.301(b)(4), insert the following clause:
 
-Contract Terms and Conditions Required to Implement Statutes or Executive Orders - Commercial Items (NOV 2017)
+Contract Terms and Conditions Required to Implement Statutes or Executive Orders - Commercial Items (JAN 2018)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses, which are incorporated in this contract by reference, to implement provisions of law or Executive orders applicable to acquisitions of commercial items:
 
@@ -16,25 +16,25 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 (b) The Contractor shall comply with the FAR clauses in this paragraph (b) that the Contracting Officer has indicated as being incorporated in this contract by reference to implement provisions of law or Executive orders applicable to acquisitions of commercial items: [Contracting Officer check as appropriate.]
 
-\_\_\_(1) 52.203-6, Restrictions on Subcontractor Sales to the Government (SEP 2006), with *Alternate I* (OCT 1995) (41 U.S.C. 4704 and 10 U.S.C. 2402).
+\_\_ (1) 52.203-6, Restrictions on Subcontractor Sales to the Government (SEP 2006), with *Alternate I* (OCT 1995) (41 U.S.C. 4704 and 10 U.S.C. 2402).
 
-\_\_\_(2) 52.203-13, Contractor Code of Business Ethics and Conduct (Oct 2015) (41 U.S.C. 3509).
+\_\_ (2) 52.203-13, Contractor Code of Business Ethics and Conduct (Oct 2015) (41 U.S.C. 3509).
 
-\_\_\_(3) 52.203-15, Whistleblower Protections under the American Recovery and Reinvestment Act of 2009 (JUN 2010) (Section 1553 of Pub. L. 111-5). (Applies to contracts funded by the American Recovery and Reinvestment Act of 2009.)
+\_\_ (3) 52.203-15, Whistleblower Protections under the American Recovery and Reinvestment Act of 2009 (JUN 2010) (Section 1553 of Pub. L. 111-5). (Applies to contracts funded by the American Recovery and Reinvestment Act of 2009.)
 
-\_\_\_ (4) 52.204-10, Reporting Executive Compensation and First-Tier Subcontract Awards (Oct 2016) (Pub. L. 109-282) (31 U.S.C. 6101 note).
+\_\_ (4) 52.204-10, Reporting Executive Compensation and First-Tier Subcontract Awards (Oct 2016) (Pub. L. 109-282) (31 U.S.C. 6101 note).
 
-\_\_\_(5) [Reserved]
+\_\_ (5) [Reserved]
 
-\_\_\_ \_(6) 52.204-14, Service Contract Reporting Requirements (Oct 2016) (Pub. L. 111-117, section 743 of Div. C).
+\_\_ (6) 52.204-14, Service Contract Reporting Requirements (Oct 2016) (Pub. L. 111-117, section 743 of Div. C).
 
-\_\_\_ (7) 52.204-15, Service Contract Reporting Requirements for Indefinite-Delivery Contracts (Oct 2016) (Pub. L. 111-117, section 743 of Div. C).
+\_\_ (7) 52.204-15, Service Contract Reporting Requirements for Indefinite-Delivery Contracts (Oct 2016) (Pub. L. 111-117, section 743 of Div. C).
 
-\_\_\_ (8) 52.209-6, Protecting the Government's Interest When Subcontracting with Contractors Debarred, Suspended, or Proposed for Debarment. (Oct 2015) (31 U.S.C. 6101 note).
+\_\_ (8) 52.209-6, Protecting the Government's Interest When Subcontracting with Contractors Debarred, Suspended, or Proposed for Debarment. (Oct 2015) (31 U.S.C. 6101 note).
 
 \_\_ (9) 52.209-9, Updates of Publicly Available Information Regarding Responsibility Matters (JUL 2013) (41 U.S.C. 2313).
 
-\_\_(10) [Reserved]
+\_\_ (10) [Reserved]
 
 \_\_ (11)(i) 52.219-3, Notice of HUBZone Set-Aside or Sole-Source Award (NOV 2011) (15 U.S.C. 657a).
 
@@ -44,121 +44,121 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 \_\_ (ii) Alternate I (JAN 2011) of 52.219-4.
 
-\_\_\_(13) [Reserved]
+\_\_ (13) [Reserved]
 
-\_\_(14)(i) 52.219-6, Notice of Total Small Business Set-Aside (NOV 2011) (15 U.S.C. 644).
+\_\_ (14)(i) 52.219-6, Notice of Total Small Business Set-Aside (NOV 2011) (15 U.S.C. 644).
 
-\_\_(ii) Alternate I (NOV 2011).
+\_\_ (ii) Alternate I (NOV 2011).
 
-\_\_(iii) Alternate II (NOV 2011).
+\_\_ (iii) Alternate II (NOV 2011).
 
-\_\_\_(15)(i) 52.219-7, Notice of Partial Small Business Set-Aside (JUN 2003) (15 U.S.C. 644).
+\_\_ (15)(i) 52.219-7, Notice of Partial Small Business Set-Aside (JUN 2003) (15 U.S.C. 644).
 
-\_\_\_(ii) *Alternate I* (OCT 1995) of 52.219-7.
+\_\_ (ii) *Alternate I* (OCT 1995) of 52.219-7.
 
-\_\_\_(iii) *Alternate II* (MAR 2004) of 52.219-7.
+\_\_ (iii) *Alternate II* (MAR 2004) of 52.219-7.
 
-\_\_\_ (16) 52.219-8, Utilization of Small Business Concerns (Nov 2016) (15 U.S.C. 637(d)(2) and (3)).
+\_\_ (16) 52.219-8, Utilization of Small Business Concerns (Nov 2016) (15 U.S.C. 637(d)(2) and (3)).
 
-\_\_\_ (17)(i) 52.219-9, Small Business Subcontracting Plan (JAN 2017) (15 U.S.C. 637(d)(4)).
+\_\_ (17)(i) 52.219-9, Small Business Subcontracting Plan (JAN 2017) (15 U.S.C. 637(d)(4)).
 
-\_\_\_ (ii) Alternate I (Nov 2016) of 52.219-9.
+\_\_ (ii) Alternate I (Nov 2016) of 52.219-9.
 
-\_\_\_ (iii) Alternate II (Nov 2016) of 52.219-9.
+\_\_ (iii) Alternate II (Nov 2016) of 52.219-9.
 
-\_\_\_ (iv) Alternate III (Nov 2016) of 52.219-9.
+\_\_ (iv) Alternate III (Nov 2016) of 52.219-9.
 
-\_\_\_ (v) Alternate IV (Nov 2016) of 52.219-9.
+\_\_ (v) Alternate IV (Nov 2016) of 52.219-9.
 
-\_\_(18) 52.219-13, Notice of Set-Aside of Orders (NOV 2011) (15 U.S.C. 644(r)).
+\_\_ (18) 52.219-13, Notice of Set-Aside of Orders (NOV 2011) (15 U.S.C. 644(r)).
 
-\_\_\_ (19) 52.219-14, Limitations on Subcontracting (JAN 2017) (15 U.S.C. 637(a)(14)).
+\_\_ (19) 52.219-14, Limitations on Subcontracting (JAN 2017) (15 U.S.C. 637(a)(14)).
 
-\_\_\_(20) 52.219-16, Liquidated Damages - Subcontracting Plan (JAN 1999) (15 U.S.C. 637(d)(4)(F)(i)).
+\_\_ (20) 52.219-16, Liquidated Damages - Subcontracting Plan (JAN 1999) (15 U.S.C. 637(d)(4)(F)(i)).
 
-\_\_(21) *52.219-27,* Notice of Service-Disabled Veteran-Owned Small Business Set-Aside (NOV 2011) (15 U.S.C. 657f).
+\_\_ (21) *52.219-27,* Notice of Service-Disabled Veteran-Owned Small Business Set-Aside (NOV 2011) (15 U.S.C. 657f).
 
-\_\_\_\_ (22) 52.219-28, Post Award Small Business Program Rerepresentation (JUL 2013) (15 U.S.C. 632(a)(2)).
+\_\_ (22) 52.219-28, Post Award Small Business Program Rerepresentation (JUL 2013) (15 U.S.C. 632(a)(2)).
 
-\_\_\_ (23) 52.219-29, Notice of Set-Aside for, or Sole Source Award to, Economically Disadvantaged Women-Owned Small Business Concerns (Dec 2015) (15 U.S.C. 637(m)).
+\_\_ (23) 52.219-29, Notice of Set-Aside for, or Sole Source Award to, Economically Disadvantaged Women-Owned Small Business Concerns (Dec 2015) (15 U.S.C. 637(m)).
 
-\_\_\_ (24) 52.219-30, Notice of Set-Aside for, or Sole Source Award to, Women-Owned Small Business Concerns Eligible Under the Women-Owned Small Business Program (Dec 2015) (15 U.S.C. 637(m)).
+\_\_ (24) 52.219-30, Notice of Set-Aside for, or Sole Source Award to, Women-Owned Small Business Concerns Eligible Under the Women-Owned Small Business Program (Dec 2015) (15 U.S.C. 637(m)).
 
-\_\_\_(25) 52.222-3, Convict Labor (JUN 2003) (E.O. 11755).
+\_\_ (25) 52.222-3, Convict Labor (JUN 2003) (E.O. 11755).
 
-\_\_\_ (26) 52.222-19, Child Labor - Cooperation with Authorities and Remedies (Oct 2016) (E.O. 13126).
+\_\_ (26) 52.222-19, Child Labor - Cooperation with Authorities and Remedies (Jan 2018) (E.O. 13126).
 
-\_\_\_ (27) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
+\_\_ (27) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
 
-\_\_(28) 52.222-26, Equal Opportunity (Sept 2016) (E.O. 11246).
+\_\_ (28) 52.222-26, Equal Opportunity (Sept 2016) (E.O. 11246).
 
-\_\_\_ (29) 52.222-35, Equal Opportunity for Veterans (Oct 2015) (38 U.S.C. 4212).
+\_\_ (29) 52.222-35, Equal Opportunity for Veterans (Oct 2015) (38 U.S.C. 4212).
 
-\_\_(30) 52.222-36, Equal Opportunity for Workers with Disabilities (July 2014) (29 U.S.C. 793).
+\_\_ (30) 52.222-36, Equal Opportunity for Workers with Disabilities (July 2014) (29 U.S.C. 793).
 
-(31) \_\_52.222-37, Employment Reports on Veterans (FEB 2016) (38 U.S.C. 4212).
+\_\_ (31) 52.222-37, Employment Reports on Veterans (FEB 2016) (38 U.S.C. 4212).
 
-\_\_\_ (32) 52.222-40, Notification of Employee Rights Under the National Labor Relations Act (DEC 2010) (E.O. 13496).
+\_\_ (32) 52.222-40, Notification of Employee Rights Under the National Labor Relations Act (DEC 2010) (E.O. 13496).
 
-\_\_\_(33)(i) 52.222-50, Combating Trafficking in Persons (Mar 2015) (22 U.S.C. chapter 78 and E.O. 13627).
+\_\_ (33)(i) 52.222-50, Combating Trafficking in Persons (Mar 2015) (22 U.S.C. chapter 78 and E.O. 13627).
 
-\_\_(ii) *Alternate I* (Mar 2015) of 52.222-50 (22 U.S.C. chapter 78 and E.O. 13627).
+\_\_ (ii) *Alternate I* (Mar 2015) of 52.222-50 (22 U.S.C. chapter 78 and E.O. 13627).
 
-\_\_\_ (34) 52.222-54, Employment Eligibility Verification (Oct 2015). (E. O. 12989). (Not applicable to the acquisition of commercially available off-the-shelf items or certain other types of commercial items as prescribed in 22.1803.)
+\_\_ (34) 52.222-54, Employment Eligibility Verification (Oct 2015). (E. O. 12989). (Not applicable to the acquisition of commercially available off-the-shelf items or certain other types of commercial items as prescribed in 22.1803.)
 
-\_\_\_(35)(i) 52.223-9, Estimate of Percentage of Recovered Material Content for EPA-Designated Items (MAY 2008) (42 U.S.C. 6962(c)(3)(A)(ii)). (Not applicable to the acquisition of commercially available off-the-shelf items.)
+\_\_ (35)(i) 52.223-9, Estimate of Percentage of Recovered Material Content for EPA-Designated Items (MAY 2008) (42 U.S.C. 6962(c)(3)(A)(ii)). (Not applicable to the acquisition of commercially available off-the-shelf items.)
 
-\_\_\_(ii) Alternate I (MAY 2008) of 52.223-9 (42 U.S.C. 6962(i)(2)(C)). (Not applicable to the acquisition of commercially available off-the-shelf items.)
+\_\_ (ii) Alternate I (MAY 2008) of 52.223-9 (42 U.S.C. 6962(i)(2)(C)). (Not applicable to the acquisition of commercially available off-the-shelf items.)
 
 \_\_ (36) 52.223-11, Ozone-Depleting Substances and High Global Warming Potential Hydrofluorocarbons (June, 2016) (E.O. 13693).
 
 \_\_ (37) 52.223-12, Maintenance, Service, Repair, or Disposal of Refrigeration Equipment and Air Conditioners (June, 2016) (E.O. 13693).
 
-\_\_(38)(i) 52.223-13, Acquisition of EPEAT®-Registered Imaging Equipment (JUN 2014) (E.O.s 13423 and 13514).
+\_\_ (38)(i) 52.223-13, Acquisition of EPEAT®-Registered Imaging Equipment (JUN 2014) (E.O.s 13423 and 13514).
 
 \_\_ (ii) Alternate I (OCT 2015) of 52.223-13.
 
-\_\_(39)(i) 52.223-14, Acquisition of EPEAT®-Registered Televisions (Jun 2014) (E.O.s 13423 and 13514).
+\_\_ (39)(i) 52.223-14, Acquisition of EPEAT®-Registered Televisions (Jun 2014) (E.O.s 13423 and 13514).
 
 (ii) Alternate I (Jun 2014) of 52.223-14.
 
-\_\_\_(40) 52.223-15, Energy Efficiency in Energy-Consuming Products (DEC 2007) (42 U.S.C. 8259b).
+\_\_ (40) 52.223-15, Energy Efficiency in Energy-Consuming Products (DEC 2007) (42 U.S.C. 8259b).
 
-\_\_\_(41)(i) 52.223-16, Acquisition of EPEAT®-Registered Personal Computer Products (OCT 2015) (E.O.s 13423 and 13514).
+\_\_ (41)(i) 52.223-16, Acquisition of EPEAT®-Registered Personal Computer Products (OCT 2015) (E.O.s 13423 and 13514).
 
-\_\_\_ (ii) Alternate I (Jun 2014) of 52.223-16.
+\_\_ (ii) Alternate I (Jun 2014) of 52.223-16.
 
-\_\_\_(42) 52.223-18, Encouraging Contractor Policies to Ban Text Messaging While Driving (AUG 2011)
+\_\_ (42) 52.223-18, Encouraging Contractor Policies to Ban Text Messaging While Driving (AUG 2011)
 
-\_\_\_ (43) 52.223-20, Aerosols (June, 2016) (E.O. 13693).
+\_\_ (43) 52.223-20, Aerosols (June, 2016) (E.O. 13693).
 
-\_\_\_ (44) 52.223-21, Foams (June, 2016) (E.O. 13693).
+\_\_ (44) 52.223-21, Foams (June, 2016) (E.O. 13693).
 
-\_\_\_ (45)(i) 52.224-3, Privacy Training (JAN 2017) (5 U.S.C. 552a).
+\_\_ (45)(i) 52.224-3, Privacy Training (JAN 2017) (5 U.S.C. 552a).
 
-\_\_\_ (ii) Alternate I (JAN 2017) of 52.224-3.
+\_\_ (ii) Alternate I (JAN 2017) of 52.224-3.
 
-\_\_\_(46) 52.225-1, Buy American - Supplies (**MAY 2014**) (41 U.S.C. chapter 83).
+\_\_ (46) 52.225-1, Buy American - Supplies (**MAY 2014**) (41 U.S.C. chapter 83).
 
-\_\_\_(47)(i) 52.225-3, Buy American - Free Trade Agreements - Israeli Trade Act (**MAY 2014**) (41 U.S.C. chapter 83, 19 U.S.C. 3301 note, 19 U.S.C. 2112 note, 19 U.S.C. 3805 note, 19 U.S.C. 4001 note, Pub. L. 103-182, 108-77, 108-78, 108-286, 108-302, 109-53, 109-169, 109-283, 110-138, 112-41, 112-42, and 112-43.
+\_\_ (47)(i) 52.225-3, Buy American - Free Trade Agreements - Israeli Trade Act (**MAY 2014**) (41 U.S.C. chapter 83, 19 U.S.C. 3301 note, 19 U.S.C. 2112 note, 19 U.S.C. 3805 note, 19 U.S.C. 4001 note, Pub. L. 103-182, 108-77, 108-78, 108-286, 108-302, 109-53, 109-169, 109-283, 110-138, 112-41, 112-42, and 112-43.
 
-\_\_\_(ii) Alternate I (**MAY 2014**) of 52.225-3.
+\_\_ (ii) Alternate I (**MAY 2014**) of 52.225-3.
 
-\_\_\_(iii) Alternate II (**MAY 2014**) of 52.225-3.
+\_\_ (iii) Alternate II (**MAY 2014**) of 52.225-3.
 
-\_\_\_(iv) Alternate III (**MAY 2014**) of 52.225-3.
+\_\_ (iv) Alternate III (**MAY 2014**) of 52.225-3.
 
-\_ (48) 52.225-5, Trade Agreements (Oct 2016) (19 U.S.C. 2501, *et seq.,* 19 U.S.C. 3301 note). (49) 52.225-5, Trade Agreements (Oct 2016) (19 U.S.C. 2501, *et seq.,* 19 U.S.C. 3301 note).
+\_\_ (48) 52.225-5, Trade Agreements (Oct 2016) (19 U.S.C. 2501, *et seq.,* 19 U.S.C. 3301 note). (49) 52.225-5, Trade Agreements (Oct 2016) (19 U.S.C. 2501, *et seq.,* 19 U.S.C. 3301 note).
 
-\_\_\_(49) 52.225-13, Restrictions on Certain Foreign Purchases (JUN 2008) (E.O.'s, proclamations, and statutes administered by the Office of Foreign Assets Control of the Department of the Treasury).
+\_\_ (49) 52.225-13, Restrictions on Certain Foreign Purchases (JUN 2008) (E.O.'s, proclamations, and statutes administered by the Office of Foreign Assets Control of the Department of the Treasury).
 
-\_ (50) 52.225-26, Contractors Performing Private Security Functions Outside the United States (Oct 2016) (Section 862, as amended, of the National Defense Authorization Act for Fiscal Year 2008; 10 U.S.C. 2302 Note).
+\_\_ (50) 52.225-26, Contractors Performing Private Security Functions Outside the United States (Oct 2016) (Section 862, as amended, of the National Defense Authorization Act for Fiscal Year 2008; 10 U.S.C. 2302 Note).
 
-\_\_\_(51) 52.226-4, Notice of Disaster or Emergency Area Set-Aside (NOV 2007) (42 U.S.C. 5150).
+\_\_ (51) 52.226-4, Notice of Disaster or Emergency Area Set-Aside (NOV 2007) (42 U.S.C. 5150).
 
-\_\_\_(52) 52.226-5, Restrictions on Subcontracting Outside Disaster or Emergency Area (NOV 2007) (42 U.S.C. 5150).
+\_\_ (52) 52.226-5, Restrictions on Subcontracting Outside Disaster or Emergency Area (NOV 2007) (42 U.S.C. 5150).
 
-\_\_\_(53) 52.232-29, Terms for Financing of Purchases of Commercial Items (FEB 2002) (41 U.S.C.4505, 10 U.S.C. 2307(f)).
+\_\_ (53) 52.232-29, Terms for Financing of Purchases of Commercial Items (FEB 2002) (41 U.S.C.4505, 10 U.S.C. 2307(f)).
 
 \_\_ (54) 52.232-30, Installment Payments for Commercial Items (JAN 2017) (41 U.S.C. 4505, 10 U.S.C. 2307(f)).
 
@@ -170,33 +170,33 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 \_\_ (58) 52.242-5, Payments to Small Business Subcontractors (JAN 2017)(15 U.S.C. 637(d)(12)).
 
-\_\_\_(59)(i) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (FEB 2006) (46 U.S.C. Appx. 1241(b) and 10 U.S.C. 2631).
+\_\_ (59)(i) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (FEB 2006) (46 U.S.C. Appx. 1241(b) and 10 U.S.C. 2631).
 
-\_\_\_(ii) *Alternate I* (APR 2003) of 52.247-64.
+\_\_ (ii) *Alternate I* (APR 2003) of 52.247-64.
 
 (c) The Contractor shall comply with the FAR clauses in this paragraph (c), applicable to commercial services, that the Contracting Officer has indicated as being incorporated in this contract by reference to implement provisions of law or Executive orders applicable to acquisitions of commercial items: [Contracting Officer check as appropriate.]
 
-\_\_\_ (1) 52.222-17, Nondisplacement of Qualified Workers (May 2014) (E.O. 13495).
+\_\_ (1) 52.222-17, Nondisplacement of Qualified Workers (May 2014) (E.O. 13495).
 
-\_\_\_(2) 52.222-41, Service Contract Labor Standards (MAY 2014) (41 U.S.C. chapter 67).
+\_\_ (2) 52.222-41, Service Contract Labor Standards (MAY 2014) (41 U.S.C. chapter 67).
 
-\_\_\_(3) 52.222-42, Statement of Equivalent Rates for Federal Hires (MAY 2014) (29 U.S.C. 206 and 41 U.S.C. chapter 67).
+\_\_ (3) 52.222-42, Statement of Equivalent Rates for Federal Hires (MAY 2014) (29 U.S.C. 206 and 41 U.S.C. chapter 67).
 
-\_\_\_(4) 52.222-43, Fair Labor Standards Act and Service Contract Labor Standards - Price Adjustment (Multiple Year and Option Contracts) (MAY 2014) (29 U.S.C. 206 and 41 U.S.C. chapter 67).
+\_\_ (4) 52.222-43, Fair Labor Standards Act and Service Contract Labor Standards - Price Adjustment (Multiple Year and Option Contracts) (MAY 2014) (29 U.S.C. 206 and 41 U.S.C. chapter 67).
 
-\_\_\_(5) 52.222-44, Fair Labor Standards Act and Service Contract Labor Standards - Price Adjustment (MAY 2014) (29 U.S.C 206 and 41 U.S.C. chapter 67).
+\_\_ (5) 52.222-44, Fair Labor Standards Act and Service Contract Labor Standards - Price Adjustment (MAY 2014) (29 U.S.C 206 and 41 U.S.C. chapter 67).
 
-\_\_\_(6) 52.222-51, Exemption from Application of the Service Contract Labor Standards to Contracts for Maintenance, Calibration, or Repair of Certain Equipment - Requirements (MAY 2014) (41 U.S.C. chapter 67).
+\_\_ (6) 52.222-51, Exemption from Application of the Service Contract Labor Standards to Contracts for Maintenance, Calibration, or Repair of Certain Equipment - Requirements (MAY 2014) (41 U.S.C. chapter 67).
 
-\_\_\_(7) 52.222-53, Exemption from Application of the Service Contract Labor Standards to Contracts for Certain Services - Requirements (MAY 2014) (41 U.S.C. chapter 67).
+\_\_ (7) 52.222-53, Exemption from Application of the Service Contract Labor Standards to Contracts for Certain Services - Requirements (MAY 2014) (41 U.S.C. chapter 67).
 
-\_\_\_ (8) 52.222-55, Minimum Wages Under Executive Order 13658 (DEC 2015).
+\_\_ (8) 52.222-55, Minimum Wages Under Executive Order 13658 (DEC 2015).
 
-\_\_\_ (9) 52.222-62, Paid Sick Leave Under Executive Order 13706 (JAN 2017) (E.O. 13706).
+\_\_ (9) 52.222-62, Paid Sick Leave Under Executive Order 13706 (JAN 2017) (E.O. 13706).
 
-\_\_\_(10) 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations (MAY 2014) (42 U.S.C. 1792).
+\_\_ (10) 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations (MAY 2014) (42 U.S.C. 1792).
 
-\_\_\_(11) 52.237-11, Accepting and Dispensing of $1 Coin (SEP 2008) (31 U.S.C. 5112(p)(1)).
+\_\_ (11) 52.237-11, Accepting and Dispensing of $1 Coin (SEP 2008) (31 U.S.C. 5112(p)(1)).
 
 (d) *Comptroller General Examination of Record.* The Contractor shall comply with the provisions of this paragraph (d) if this contract was awarded using other than sealed bid, is in excess of the simplified acquisition threshold, and does not contain the clause at 52.215-2, Audit and Records - Negotiation.
 
@@ -231,9 +231,9 @@ If the subcontract (except subcontracts to small business concerns) exceeds $700
 
 (xi) 52.222-41, Service Contract Labor Standards (MAY 2014) (41 U.S.C. chapter 67).
 
-(xii) \_\_(A) 52.222-50, Combating Trafficking in Persons (Mar 2015) (22 U.S.C. chapter 78 and E.O. 13627).
+(xii) \_\_ (A) 52.222-50, Combating Trafficking in Persons (Mar 2015) (22 U.S.C. chapter 78 and E.O. 13627).
 
-\_\_(B) Alternate I (Mar 2015) of 52.222-50 (22 U.S.C. chapter 78 and E.O. 13627).
+\_\_ (B) Alternate I (Mar 2015) of 52.222-50 (22 U.S.C. chapter 78 and E.O. 13627).
 
 (xiii) 52.222-51, Exemption from Application of the Service Contract Labor Standards to Contracts for Maintenance, Calibration, or Repair of Certain Equipment - Requirements (MAY 2014) (41 U.S.C. chapter 67).
 

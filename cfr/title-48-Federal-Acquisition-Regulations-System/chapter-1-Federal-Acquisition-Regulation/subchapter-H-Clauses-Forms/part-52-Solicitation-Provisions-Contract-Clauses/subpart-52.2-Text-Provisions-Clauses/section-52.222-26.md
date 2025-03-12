@@ -4,13 +4,13 @@ As prescribed in 22.810(e), insert the following clause:
 
 Equal Opportunity (SEP 2016)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 *Compensation* means any payments made to, or on behalf of, an employee or offered to an applicant as remuneration for employment, including but not limited to salary, wages, overtime pay, shift differentials, bonuses, commissions, vacation and holiday pay, allowances, insurance and other benefits, stock options and awards, profit sharing, and retirement.
 
 *Compensation information* means the amount and type of compensation provided to employees or offered to applicants, including, but not limited to, the desire of the Contractor to attract and retain a particular employee for the value the employee is perceived to add to the Contractor's profit or productivity; the availability of employees with like skills in the marketplace; market research about the worth of similar jobs in the relevant marketplace; job analysis, descriptions, and evaluations; salary and pay structures; salary surveys; labor union agreements; and Contractor decisions, statements and policies related to setting or altering employee compensation.
 
-*Essential job functions* means the fundamental job duties of the employment position an individual holds. A job function may be considered essential if -
+*Essential job functions* means the fundamental job duties of the employment position an individual holds. A job function may be considered essential if—
 
 (1) The access to compensation information is necessary in order to perform that function or another routinely assigned business task; or
 
@@ -36,7 +36,7 @@ Equal Opportunity (SEP 2016)
 
 (5)(i) The Contractor shall not discharge or in any other manner discriminate against any employee or applicant for employment because such employee or applicant has inquired about, discussed, or disclosed the compensation of the employee or applicant or another employee or applicant. This prohibition against discrimination does not apply to instances in which an employee who has access to the compensation information of other employees or applicants as a part of such employee's essential job functions discloses the compensation of such other employees or applicants to individuals who do not otherwise have access to such information, unless such disclosure is in response to a formal complaint or charge, in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or is consistent with the Contractor's legal duty to furnish information.
 
-(ii) The Contractor shall disseminate the prohibition on discrimination in paragraph (c)(5)(i) of this clause, using language prescribed by the Director of the Office of Federal Contract Compliance Programs (OFCCP), to employees and applicants by -
+(ii) The Contractor shall disseminate the prohibition on discrimination in paragraph (c)(5)(i) of this clause, using language prescribed by the Director of the Office of Federal Contract Compliance Programs (OFCCP), to employees and applicants by—
 
 (A) Incorporation into existing employee manuals or handbooks; and
 
@@ -62,6 +62,6 @@ Equal Opportunity (SEP 2016)
 
 *Alternate I* (FEB 1999). As prescribed in 22.810(e), add the following as a preamble to the clause:
 
-*Notice.* The following terms of this clause are waived for this contract: \_\_\_ [*Contracting Officer shall list terms*].
+*Notice.* The following terms of this clause are waived for this contract: \_\_\_\_ [*Contracting Officer shall list terms*].
 
 [48 FR 42478, Sept. 19, 1983, as amended at 63 FR 70286, Dec. 18, 1998; 67 FR 13067, Mar. 20, 2002; 72 FR 13588, Mar. 22, 2007; 80 FR 19509, Apr. 10, 2015; 81 FR 67734, Sept. 30, 2016]

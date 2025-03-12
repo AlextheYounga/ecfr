@@ -8,11 +8,11 @@ Minimum Bid Acceptance Period (APR 1984)
 
 (b) This provision supersedes any language pertaining to the acceptance period that may appear elsewhere in this solicitation.
 
-(c) The Government requires a minimum acceptance period of \_ calendar days [*the Contracting Officer shall insert the number of days*].
+(c) The Government requires a minimum acceptance period of \_\_ calendar days [*the Contracting Officer shall insert the number of days*].
 
 (d) In the space provided immediately below, bidders may specify a longer acceptance period than the Government's minimum requirement.
 
-The bidder allows the following acceptance period: \_ calendar days.
+The bidder allows the following acceptance period: \_\_ calendar days.
 
 (e) A bid allowing less than the Government's minimum acceptance period will be rejected.
 

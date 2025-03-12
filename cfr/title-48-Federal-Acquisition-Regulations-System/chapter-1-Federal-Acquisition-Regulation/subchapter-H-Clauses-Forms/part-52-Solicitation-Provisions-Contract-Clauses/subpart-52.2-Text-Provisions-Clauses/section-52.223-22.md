@@ -14,6 +14,6 @@ Public Disclosure of Greenhouse Gas Emissions and Reduction Goals - Representati
 
 (3) A publicly accessible Web site includes the Offeror's own Web site or a recognized, third-party greenhouse gas emissions reporting program.
 
-(c) If the Offeror checked “does” in paragraphs (b)(1) or (b)(2) of this provision, respectively, the Offeror shall provide the publicly accessible Web site(s) where greenhouse gas emissions and/or reduction goals are reported:\_\_\_\_\_.
+(c) If the Offeror checked “does” in paragraphs (b)(1) or (b)(2) of this provision, respectively, the Offeror shall provide the publicly accessible Web site(s) where greenhouse gas emissions and/or reduction goals are reported: \_\_\_\_\_.
 
 (End of provision)[81 FR 83097, Nov. 18, 2016]

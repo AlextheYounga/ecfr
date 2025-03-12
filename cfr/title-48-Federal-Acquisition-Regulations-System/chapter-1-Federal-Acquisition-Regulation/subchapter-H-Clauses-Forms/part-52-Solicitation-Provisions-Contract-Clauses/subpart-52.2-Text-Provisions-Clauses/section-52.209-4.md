@@ -1,18 +1,18 @@
-##### 52.209-4 First Article Approval - Government Testing. #####
+##### 52.209-4 First Article Approval—Government Testing. #####
 
 As prescribed in 9.308-2 (a) and (b), insert the following clause:
 
-First Article Approval - Government Testing (SEP 1989)[*Contracting Officer shall insert details*]
+First Article Approval—Government Testing (SEP 1989)[*Contracting Officer shall insert details*]
 
-(a) The Contractor shall deliver \_ units(s) of Lot/Item \_\_ within \_ calendar days from the date of this contract to the Government at \_\_\_ [*insert name and address of the testing facility*] for first article tests. The shipping documentation shall contain this contract number and the Lot/Item identification. The characteristics that the first article must meet and the testing requirements are specified elsewhere in this contract.
+(a) The Contractor shall deliver \_\_ units(s) of Lot/Item \_\_ within \_\_ calendar days from the date of this contract to the Government at \_\_\_ [*insert name and address of the testing facility*] for first article tests. The shipping documentation shall contain this contract number and the Lot/Item identification. The characteristics that the first article must meet and the testing requirements are specified elsewhere in this contract.
 
-(b) Within \_ calendar days after the Government receives the first article, the Contracting Officer shall notify the Contractor, in writing, of the conditional approval, approval, or disapproval of the first article. The notice of conditional approval or approval shall not relieve the Contractor from complying with all requirements of the specifications and all other terms and conditions of this contract. A notice of conditional approval shall state any further action required of the Contractor. A notice of disapproval shall cite reasons for the disapproval.
+(b) Within \_\_ calendar days after the Government receives the first article, the Contracting Officer shall notify the Contractor, in writing, of the conditional approval, approval, or disapproval of the first article. The notice of conditional approval or approval shall not relieve the Contractor from complying with all requirements of the specifications and all other terms and conditions of this contract. A notice of conditional approval shall state any further action required of the Contractor. A notice of disapproval shall cite reasons for the disapproval.
 
 (c) If the first article is disapproved, the Contractor, upon Government request, shall submit an additional first article for testing. After each request, the Contractor shall make any necessary changes, modifications, or repairs to the first article or select another first article for testing. All costs related to these tests are to be borne by the Contractor, including any and all costs for additional tests following a disapproval. The Contractor shall furnish any additional first article to the Government under the terms and conditions and within the time specified by the Government. The Government shall act on this first article within the time limit specified in paragraph (b) above. The Government reserves the right to require an equitable adjustment of the contract price for any extension of the delivery schedule or for any additional costs to the Government related to these tests.
 
 (d) If the Contractor fails to deliver any first article on time, or the Contracting Officer disapproves any first article, the Contractor shall be deemed to have failed to make delivery within the meaning of the Default clause of this contract.
 
-(e) Unless otherwise provided in the contract, the Contractor -
+(e) Unless otherwise provided in the contract, the Contractor—
 
 (1) May deliver the approved first article as a part of the contract quantity, provided it meets all contract requirements for acceptance and was not consumed or destroyed in testing; and
 

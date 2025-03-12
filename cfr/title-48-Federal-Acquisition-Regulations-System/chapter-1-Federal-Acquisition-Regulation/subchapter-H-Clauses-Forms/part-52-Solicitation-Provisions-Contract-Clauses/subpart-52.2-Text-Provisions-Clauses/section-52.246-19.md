@@ -4,7 +4,7 @@ As prescribed in 46.710(c)(1), the contracting officer may insert a clause subst
 
 Warranty of Systems and Equipment Under Performance Specifications or Design Criteria (MAY 2001)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 *Acceptance* means the act of an authorized representative of the Government by which the Government assumes for itself, or as an agent of another, ownership of existing and identified supplies, or approves specific services rendered, as partial or complete performance of the contract.
 
@@ -12,17 +12,17 @@ Warranty of Systems and Equipment Under Performance Specifications or Design Cri
 
 *Supplies* means the end items furnished by the Contractor and related services required under this contract. Except when this contract includes the clause entitled Warranty of Data, supplies also mean “data.”
 
-(b) *Contractor's obligations.* (1) The Contractor's warranties under this clause shall apply only to those defects discovered by either the Government or the Contractor \_\_ [*Contracting Officer shall state the warranty period; e.g., at the time of delivery; within 45 days after delivery,* or the specified event whose occurrence will terminate the warranty period; e.g., the number of miles or hours of use, or combination of any applicable events or periods of time.]
+(b) *Contractor's obligations.* (1) The Contractor's warranties under this clause shall apply only to those defects discovered by either the Government or the Contractor \_\_\_\_ [*Contracting Officer shall state the warranty period; e.g., at the time of delivery; within 45 days after delivery,* or the specified event whose occurrence will terminate the warranty period; e.g., the number of miles or hours of use, or combination of any applicable events or periods of time.]
 
 (2) If the Contractor becomes aware at any time before acceptance by the Government (whether before or after tender to the Government) that a defect exists in any supplies or services, the Contractor shall (i) promptly correct the defect or (ii) promptly notify the Contracting Officer, in writing, of the defect, using the same procedures prescribed in paragraph (b)(3) of this clause.
 
-(3) If the Contracting Officer determines that a defect exists in any of the supplies or services accepted by the Government under this contract, the Contracting Officer shall promptly notify the Contractor of the defect, in writing, within \_\_ [*Contracting Officer shall insert the specific period of time in which notice shall be given to the Contractor; e.g., 30 days after delivery of the nonconforming supplies; 90 days of the last delivery under this contract;* or *90 days after discovery of the defect.*] Upon timely notification of the existence of a defect, or if the Contractor independently discovers a defect in accepted supplies or services, the Contractor shall submit to the Contracting Officer, in writing, within \_\_ [*Contracting Officer shall insert period of time*] a recommendation for corrective actions, together with supporting information in sufficient detail for the Contracting Officer to determine what corrective action, if any, shall be undertaken.
+(3) If the Contracting Officer determines that a defect exists in any of the supplies or services accepted by the Government under this contract, the Contracting Officer shall promptly notify the Contractor of the defect, in writing, within \_\_\_\_ [*Contracting Officer shall insert the specific period of time in which notice shall be given to the Contractor; e.g., 30 days after delivery of the nonconforming supplies; 90 days of the last delivery under this contract;* or *90 days after discovery of the defect.*] Upon timely notification of the existence of a defect, or if the Contractor independently discovers a defect in accepted supplies or services, the Contractor shall submit to the Contracting Officer, in writing, within \_\_\_\_ [*Contracting Officer shall insert period of time*] a recommendation for corrective actions, together with supporting information in sufficient detail for the Contracting Officer to determine what corrective action, if any, shall be undertaken.
 
 (4) The Contractor shall promptly comply with any timely written direction from the Contracting Officer to correct or partially correct a defect, at no increase in the contract price.
 
 (5) The Contractor shall also prepare and furnish to the Contracting Officer data and reports applicable to any correction required under this clause (including revision and updating of all other affected data called for under this contract) at no increase in the contract price.
 
-(6) In the event of timely notice of a decision not to correct or only to partially correct, the Contractor shall submit a technical and cost proposal within \_\_ [*Contracting Officer shall insert period of time*] to amend the contract to permit acceptance of the affected supplies or services in accordance with the revised requirement, and an equitable reduction in the contract price shall promptly be negotiated by the parties and be reflected in a supplemental agreement to this contract.
+(6) In the event of timely notice of a decision not to correct or only to partially correct, the Contractor shall submit a technical and cost proposal within \_\_\_\_ [*Contracting Officer shall insert period of time*] to amend the contract to permit acceptance of the affected supplies or services in accordance with the revised requirement, and an equitable reduction in the contract price shall promptly be negotiated by the parties and be reflected in a supplemental agreement to this contract.
 
 (7) Any supplies or parts thereof corrected or furnished in replacement and any services reperformed shall also be subject to the conditions of this clause to the same extent as supplies or services initially accepted. The warranty, with respect to these supplies, parts, or services, shall be equal in duration to that set forth in paragraph (b)(1) of this clause, and shall run from the date of delivery of the corrected or replaced supplies.
 
@@ -32,19 +32,19 @@ Warranty of Systems and Equipment Under Performance Specifications or Design Cri
 
 (10) All implied warranties of merchantability and *fitness for a particular purpose* are excluded from any obligation under this contract.
 
-(c) *Remedies available to the Government.* (1) The rights and remedies of the Government provided in this clause -
+(c) *Remedies available to the Government.* (1) The rights and remedies of the Government provided in this clause—
 
 (i) Shall not be affected in any way by any terms or conditions of this contract concerning the conclusiveness of inspection and acceptance; and
 
 (ii) Are in addition to, and do not limit, any rights afforded to the Government by any other clause of this contract.
 
-(2) Within \_\_ [*Contracting Officer shall insert period of time*] after receipt of the Contractor's recommendations for corrective action and adequate supporting information, the Contracting Officer, using sole discretion, shall give the Contractor written notice not to correct any defect, or to correct or partially correct any defect within a reasonable time at \_\_ [*Contracting Officer shall insert locations where corrections may be performed*].
+(2) Within \_\_\_\_ [*Contracting Officer shall insert period of time*] after receipt of the Contractor's recommendations for corrective action and adequate supporting information, the Contracting Officer, using sole discretion, shall give the Contractor written notice not to correct any defect, or to correct or partially correct any defect within a reasonable time at \_\_\_\_ [*Contracting Officer shall insert locations where corrections may be performed*].
 
 (3) In no event shall the Government be responsible for any extension or delays in the scheduled deliveries or periods of performance under this contract as a result of the Contractor's obligations to correct defects, nor shall there be any adjustment of the delivery schedule or period of performance as a result of the correction of defects unless provided by a supplemental agreement with adequate consideration.
 
 (4) This clause shall not be construed as obligating the Government to increase the contract price.
 
-(5)(i) The Contracting Officer shall give the Contractor a written notice, specifying any failure or refusal of the Contractor to -
+(5)(i) The Contracting Officer shall give the Contractor a written notice, specifying any failure or refusal of the Contractor to—
 
 (A) Present a detailed recommendation for corrective action as required by paragraph (b)(3) of this clause;
 
@@ -54,9 +54,9 @@ Warranty of Systems and Equipment Under Performance Specifications or Design Cri
 
 (ii) The notice shall specify a period of time following receipt of the notice by the Contractor in which the Contractor must remedy the failure or refusal specified in the notice.
 
-(6) If the Contractor does not comply with the Contracting Officer's written notice in paragraph (c)(5)(i) of this clause, the Contracting Officer may by contract or otherwise -
+(6) If the Contractor does not comply with the Contracting Officer's written notice in paragraph (c)(5)(i) of this clause, the Contracting Officer may by contract or otherwise—
 
-(i) Obtain detailed recommendations for corrective action and either -
+(i) Obtain detailed recommendations for corrective action and either—
 
 (A) Correct the supplies or services; or
 

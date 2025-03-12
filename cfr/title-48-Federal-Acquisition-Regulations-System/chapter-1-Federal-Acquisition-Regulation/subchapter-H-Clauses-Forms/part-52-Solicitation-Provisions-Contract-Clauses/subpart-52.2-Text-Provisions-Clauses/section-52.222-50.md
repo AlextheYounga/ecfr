@@ -212,10 +212,10 @@ Combating Trafficking in Persons (MAR 2015)
 
 (B) The following directive(s) or notice(s) applicable to employees performing work at the contract place(s) of performance as indicated below:
 
-| Document Title |Document may be obtained from:|Applies to performance in/at:|
-|----------------|------------------------------|-----------------------------|
-|\_\_\_\_\_\_\_\_|       \_\_\_\_\_\_\_\_       |      \_\_\_\_\_\_\_\_       |
-|\_\_\_\_\_\_\_\_|       \_\_\_\_\_\_\_\_       |      \_\_\_\_\_\_\_\_       |
+|     Document Title     |Document may be obtained from:|Applies to performance in/at:|
+|------------------------|------------------------------|-----------------------------|
+|\_\_\_\_\_\_\_\_\_\_\_\_|   \_\_\_\_\_\_\_\_\_\_\_\_   |  \_\_\_\_\_\_\_\_\_\_\_\_   |
+|\_\_\_\_\_\_\_\_\_\_\_\_|   \_\_\_\_\_\_\_\_\_\_\_\_   |  \_\_\_\_\_\_\_\_\_\_\_\_   |
 
 [*Contracting Officer shall insert title of directive/notice; indicate the document is attached or provide source (such as website link) for obtaining document; and, indicate the contract performance location outside the United States to which the document applies.*]
 

@@ -6,25 +6,19 @@ Time of Delivery (JUN 1997)
 
 (a) The Government requires delivery to be made according to the following schedule:
 
-REQUIRED DELIVERY SCHEDULE
-
-[Contracting Officer insert specific details]
-
-| ITEM NO. | QUANTITY |WITHIN DAYS AFTER DATE OF CONTRACT|
-|----------|----------|----------------------------------|
-|\_\_\_\_\_|\_\_\_\_\_|            \_\_\_\_\_            |
-|\_\_\_\_\_|\_\_\_\_\_|            \_\_\_\_\_            |
-|\_\_\_\_\_|\_\_\_\_\_|            \_\_\_\_\_            |
+|      ITEM NO.      |      QUANTITY      |WITHIN DAYS AFTER DATE OF CONTRACT|
+|--------------------|--------------------|----------------------------------|
+|\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_|       \_\_\_\_\_\_\_\_\_\_       |
+|\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_|       \_\_\_\_\_\_\_\_\_\_       |
+|\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_|       \_\_\_\_\_\_\_\_\_\_       |
 
 The Government will evaluate equally, as regards time of delivery, offers that propose delivery of each quantity within the applicable delivery period specified above. Offers that propose delivery that will not clearly fall within the applicable required delivery period specified above, will be considered nonresponsive and rejected. The Government reserves the right to award under either the required delivery schedule or the proposed delivery schedule, when an offeror offers an earlier delivery schedule than required above. If the offeror proposes no other delivery schedule, the required delivery schedule above will apply.
 
-OFFEROR'S PROPOSED DELIVERY SCHEDULE
-
-| ITEM NO. | QUANTITY |WITHIN DAYS AFTER DATE OF CONTRACT|
-|----------|----------|----------------------------------|
-|\_\_\_\_\_|\_\_\_\_\_|            \_\_\_\_\_            |
-|\_\_\_\_\_|\_\_\_\_\_|            \_\_\_\_\_            |
-|\_\_\_\_\_|\_\_\_\_\_|            \_\_\_\_\_            |
+|      ITEM NO.      |      QUANTITY      |WITHIN DAYS AFTER DATE OF CONTRACT|
+|--------------------|--------------------|----------------------------------|
+|\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_|       \_\_\_\_\_\_\_\_\_\_       |
+|\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_|       \_\_\_\_\_\_\_\_\_\_       |
+|\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_|       \_\_\_\_\_\_\_\_\_\_       |
 
 (b) Attention is directed to the Contract Award provision of the solicitation that provides that a written award or acceptance of offer mailed, or otherwise furnished to the successful offeror, results in a binding contract. The Government will mail or otherwise furnish to the offeror an award or notice of award not later than the day award is dated. Therefore, the offeror should compute the time available for performance beginning with the actual date of award, rather than the date the written notice of award is received from the Contracting Officer through the ordinary mails. However, the Government will evaluate an offer that proposes delivery based on the Contractor's date of receipt of the contract or notice of award by adding (1) five calendar days for delivery of the award through the ordinary mails, or (2) one working day if the solicitation states that the contract or notice of award will be transmitted electronically. (The term *working day* excludes weekends and U.S. Federal holidays.) If, as so computed, the offered delivery date is later than the required delivery date, the offer will be considered nonresponsive and rejected.
 

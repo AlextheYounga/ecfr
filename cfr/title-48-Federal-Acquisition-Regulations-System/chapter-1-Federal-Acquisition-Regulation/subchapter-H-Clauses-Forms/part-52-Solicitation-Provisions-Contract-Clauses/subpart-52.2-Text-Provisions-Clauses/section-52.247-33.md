@@ -4,9 +4,9 @@ As prescribed in 47.303-5(c), insert the following clause:
 
 F.o.b. Origin, With Differentials (FEB 2006)
 
-(a) The term *f.o.b. origin, with differentials,* as used in this clause, means -
+(a) The term *f.o.b. origin, with differentials,* as used in this clause, means—
 
-(1) Free of expense to the Government delivered -
+(1) Free of expense to the Government delivered—
 
 (i) On board the indicated type of conveyance of the carrier (or of the Government, if specified) at a designated point in the city, county, and State from which the shipments will be made and from which line-haul transportation service (as distinguished from switching, local drayage, or other terminal service) will begin;
 
@@ -18,7 +18,7 @@ F.o.b. Origin, With Differentials (FEB 2006)
 
 (2) Differentials for mode of transportation, type of vehicle, or place of delivery as indicated in Contractor's offer may be added to the contract price.
 
-(b) The Contractor shall -
+(b) The Contractor shall—
 
 (1)(i) Pack and mark the shipment to comply with contract specification; or
 
@@ -30,7 +30,7 @@ F.o.b. Origin, With Differentials (FEB 2006)
 
 (3) Deliver the shipment in good order and condition to the carrier, and load, stow, trim, block, and/or brace carload or truckload shipment (when loaded by the Contractor) on or in the carrier's conveyance as required by carrier rules and regulations;
 
-(4) Be responsible for any loss of and/or damage to the goods -
+(4) Be responsible for any loss of and/or damage to the goods—
 
 (i) Occurring before delivery to the carrier;
 
@@ -38,7 +38,7 @@ F.o.b. Origin, With Differentials (FEB 2006)
 
 (iii) Resulting from improper loading, stowing, trimming, blocking, and/or bracing of the shipment, if loaded by the Contractor on or in the carrier's conveyance;
 
-(5) Complete the Government bill of lading supplied by the ordering agency or, when a Government bill of lading is not supplied, prepare a commercial bill of lading or other transportation receipt. The bill of lading shall show -
+(5) Complete the Government bill of lading supplied by the ordering agency or, when a Government bill of lading is not supplied, prepare a commercial bill of lading or other transportation receipt. The bill of lading shall show—
 
 (i) A description of the shipment in terms of the governing freight classification or tariff (or Government rate tender) under which lowest freight rates are applicable;
 
@@ -62,4 +62,4 @@ F.o.b. Origin, With Differentials (FEB 2006)
 
 (4) Offeror's differentials in cents for each 100 pounds for optional mode of transportation, types of vehicle, transportation within a mode, or place of delivery, specified by the Government at the time of shipment and not included in the f.o.b. origin price indicated in the Schedule by the offeror, are as follows:
 
-\_\_\_ (*carload, truckload, less-load*,\_\_ *wharf, flatcar, driveaway, etc.*)(End of clause)[48 FR 42478, Sept. 19, 1983, as amended at 53 FR 17861, May 18, 1988; 71 FR 207, Jan. 3, 2006]
+\_\_\_\_\_ (*carload, truckload, less-load*,\_\_\_\_\_ *wharf, flatcar, driveaway, etc.*)(End of clause)[48 FR 42478, Sept. 19, 1983, as amended at 53 FR 17861, May 18, 1988; 71 FR 207, Jan. 3, 2006]

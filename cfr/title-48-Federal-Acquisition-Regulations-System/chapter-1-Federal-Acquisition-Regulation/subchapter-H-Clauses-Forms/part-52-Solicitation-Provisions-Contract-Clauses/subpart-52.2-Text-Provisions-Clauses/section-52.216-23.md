@@ -4,6 +4,6 @@ As prescribed in 16.603-4(b)(1), insert the following clause in solicitations an
 
 Execution and Commencement of Work (APR 1984)
 
-The Contractor shall indicate acceptance of this letter contract by signing three copies of the contract and returning them to the Contracting Officer not later than \_\_ [*insert date*]. Upon acceptance by both parties, the Contractor shall proceed with performance of the work, including purchase of necessary materials.
+The Contractor shall indicate acceptance of this letter contract by signing three copies of the contract and returning them to the Contracting Officer not later than \_\_\_ [*insert date*]. Upon acceptance by both parties, the Contractor shall proceed with performance of the work, including purchase of necessary materials.
 
 (End of clause)

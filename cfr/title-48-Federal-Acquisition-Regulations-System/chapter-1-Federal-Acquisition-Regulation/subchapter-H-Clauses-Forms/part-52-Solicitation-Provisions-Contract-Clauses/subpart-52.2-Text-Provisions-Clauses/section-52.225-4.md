@@ -10,26 +10,23 @@ Buy American - Free Trade Agreements - Israeli Trade Act Certificate (MAY 2014)
 
 Free Trade Agreement Country End Products (Other than Bahrainian, Moroccan, Omani, Panamanian, or Peruvian End Products) or Israeli End Products:
 
-|   Line Item No.   |   |Country of  <br/>Origin|
-|-------------------|---|-----------------------|
-|                   |   |                       |
-|                   |   |                       |
-|                   |   |                       |
-|[List as necessary]|   |                       |
+|   Line Item No.   |   |Country of Origin|
+|-------------------|---|-----------------|
+|                   |   |                 |
+|                   |   |                 |
+|                   |   |                 |
+|[List as necessary]|   |                 |
 
 (c) The offeror shall list those supplies that are foreign end products (other than those listed in paragraph (b) of this provision) as defined in the clause of this solicitation entitled “Buy American - Free Trade Agreements - Israeli Trade Act.” The offeror shall list as other foreign end products those end products manufactured in the United States that do not qualify as domestic end products, *i.e.*, an end product that is not a COTS item and does not meet the component test in paragraph (2) of the definition of “domestic end product.”
 
 Other Foreign End Products:
 
-LINE ITEM NO. COUNTRY OF ORIGIN
-
-\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_
-
-[List as necessary]
+|   Line Item No.   |   |Country of Origin|
+|-------------------|---|-----------------|
+|                   |   |                 |
+|                   |   |                 |
+|                   |   |                 |
+|[List as necessary]|   |                 |
 
 (d) The Government will evaluate offers in accordance with the policies and procedures of Part 25 of the Federal Acquisition Regulation.
 
@@ -57,10 +54,11 @@ Canadian or Israeli End ProductsLine Item No.:Country of Origin:
 
 Free Trade Agreement Country End Products (Other than Bahrainian, Korean, Moroccan, Omani, Panamanian, or Peruvian End Products) or Israeli End Products:
 
-|LINE ITEM NO.|   |COUNTRY OF ORIGIN|
-|-------------|---|-----------------|
-|             |   |                 |
-|             |   |                 |
-|             |   |                 |
+|   Line Item No.   |   |Country of Origin|
+|-------------------|---|-----------------|
+|                   |   |                 |
+|                   |   |                 |
+|                   |   |                 |
+|[List as necessary]|   |                 |
 
-[*List as necessary*][64 FR 72435, Dec. 27, 1999; 65 FR 4633, Jan. 31, 2000, as amended at 67 FR 21536, May 15, 2002; 68 FR 28086, May 22, 2003; 69 FR 1056, Jan. 7, 2004; 71 FR 36938, June 28, 2006; 71 FR 67777, Nov. 22, 2006; 72 FR 46358, Aug. 17, 2007; 74 FR 2723, Jan. 15, 2009; 74 FR 28429, June 15, 2009; 77 FR 13956, Mar. 7, 2012; 77 FR 69725, Nov. 20, 2012; 79 FR 24220, Apr. 29, 2014]
+[64 FR 72435, Dec. 27, 1999; 65 FR 4633, Jan. 31, 2000, as amended at 67 FR 21536, May 15, 2002; 68 FR 28086, May 22, 2003; 69 FR 1056, Jan. 7, 2004; 71 FR 36938, June 28, 2006; 71 FR 67777, Nov. 22, 2006; 72 FR 46358, Aug. 17, 2007; 74 FR 2723, Jan. 15, 2009; 74 FR 28429, June 15, 2009; 77 FR 13956, Mar. 7, 2012; 77 FR 69725, Nov. 20, 2012; 79 FR 24220, Apr. 29, 2014]

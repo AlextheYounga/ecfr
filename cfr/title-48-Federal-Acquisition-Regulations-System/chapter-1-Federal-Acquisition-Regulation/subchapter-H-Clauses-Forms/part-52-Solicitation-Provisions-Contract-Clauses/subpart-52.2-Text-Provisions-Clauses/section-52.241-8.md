@@ -6,7 +6,7 @@ Change in Rates or Terms and Conditions of Service for Unregulated Services (FEB
 
 (a) This clause applies to the extent that services furnished hereunder are not subject to regulation by a regulatory body.
 
-(b) After \_\_\_\_\_\_\_\_\_\_ [*insert date*], either party may request a change in rates or terms and conditions of service, unless otherwise provided in this contract. Both parties agree to enter in negotiations concerning such changes upon receipt of a written request detailing the proposed changes and specifying the reasons for the proposed changes.
+(b) After \_\_\_\_\_ [*insert date*], either party may request a change in rates or terms and conditions of service, unless otherwise provided in this contract. Both parties agree to enter in negotiations concerning such changes upon receipt of a written request detailing the proposed changes and specifying the reasons for the proposed changes.
 
 (c) The effective date of any change shall be as agreed to by the parties. The Contractor agrees that throughout the life of this contract the rates so negotiated will not be in excess of published and unpublished rates charged to any other customer of the same class under similar terms and conditions of use and service.
 

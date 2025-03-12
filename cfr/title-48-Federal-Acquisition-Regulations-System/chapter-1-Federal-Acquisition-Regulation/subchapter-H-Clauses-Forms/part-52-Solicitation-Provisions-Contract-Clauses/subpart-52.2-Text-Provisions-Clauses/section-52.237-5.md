@@ -8,6 +8,6 @@ Payment by Contractor to Government (APR 1984)
 
 (b) The Contractor shall promptly remove from the site all property acquired by the Contractor. The Government shall not permit storage of property on the site beyond the completion date. If the Contractor does not wish to remove from the site any of the property acquired, the Contracting Officer may, upon written request, grant the Contractor permission to leave the property on the premises. As a condition of the granting of the permission, the Contractor agrees to waive any right, title, claim, or interest in and to the property.
 
-(c) The Contractor shall perform the work called for under this contract and within \_ days of receipt of notice of award, unless otherwise provided in the Schedule and before proceeding with the work, shall pay \_\_\_\_\_ [*fill in amount*]. Checks shall be made payable to the office designated in the contract and shall be forwarded to the Contracting Officer.
+(c) The Contractor shall perform the work called for under this contract and within \_\_ days of receipt of notice of award, unless otherwise provided in the Schedule and before proceeding with the work, shall pay \_\_\_\_ [*fill in amount*]. Checks shall be made payable to the office designated in the contract and shall be forwarded to the Contracting Officer.
 
 (End of clause)

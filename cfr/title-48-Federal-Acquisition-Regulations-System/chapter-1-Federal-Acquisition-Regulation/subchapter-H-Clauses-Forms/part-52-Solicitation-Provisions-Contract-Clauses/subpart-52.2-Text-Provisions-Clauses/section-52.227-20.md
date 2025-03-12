@@ -1,14 +1,14 @@
-##### 52.227-20 Rights in Data - SBIR Program. #####
+##### 52.227-20 Rights in Data—SBIR Program. #####
 
 As prescribed in 27.409(h), insert the following clause:
 
-Rights in Data - SBIR Program (MAY 2014)
+Rights in Data—SBIR Program (MAY 2014)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 *Computer database* or *database* means a collection of recorded information in a form capable of, and for the purpose of, being stored in, processed, and operated on by a computer. The term does not include computer software.
 
-*Computer software* - (1) Means (i) Computer programs that comprise a series of instructions, rules, routines, or statements, regardless of the media in which recorded, that allow or cause a computer to perform a specific operation or series of operations; and
+*Computer software*—(1) Means (i) Computer programs that comprise a series of instructions, rules, routines, or statements, regardless of the media in which recorded, that allow or cause a computer to perform a specific operation or series of operations; and
 
 (ii) Recorded information comprising source code listings, design details, algorithms, processes, flow charts, formulas, and related material that would enable the computer program to be produced, created, or compiled.
 
@@ -32,7 +32,7 @@ Rights in Data - SBIR Program (MAY 2014)
 
 *Unlimited rights* means the right of the Government to use, disclose, reproduce, prepare derivative works, distribute copies to the public, and perform publicly and display publicly, in any manner and for any purpose whatsoever, and to have or permit others to do so.
 
-(b) *Allocation of rights.* (1) Except as provided in paragraph (c) of this clause regarding copyright, the Government shall have unlimited rights in -
+(b) *Allocation of rights.* (1) Except as provided in paragraph (c) of this clause regarding copyright, the Government shall have unlimited rights in—
 
 (i) Data specifically identified in this contract as data to be delivered without restriction;
 
@@ -42,7 +42,7 @@ Rights in Data - SBIR Program (MAY 2014)
 
 (iv) All other data delivered under this contract unless provided otherwise for SBIR data in accordance with paragraph (d) of this clause or for limited rights data or restricted computer software in accordance with paragraph (f) of this clause.
 
-(2) The Contractor shall have the right to -
+(2) The Contractor shall have the right to—
 
 (i) Assert copyright in data first produced in the performance of this contract to the extent provided in paragraph (c)(1) of this clause;
 
@@ -52,7 +52,7 @@ Rights in Data - SBIR Program (MAY 2014)
 
 (iv) Withhold from delivery those data which are limited rights data or restricted computer software to the extent provided in paragraph (f) of this clause.
 
-(c) *Copyright* - (1) *Data first produced in the performance of this contract.* (i) Except as otherwise specifically provided in this contract, the Contractor may assert copyright subsisting in any data first produced in the performance of this contract.
+(c) *Copyright*—(1) *Data first produced in the performance of this contract.* (i) Except as otherwise specifically provided in this contract, the Contractor may assert copyright subsisting in any data first produced in the performance of this contract.
 
 (ii) When asserting copyright, the Contractor shall affix the applicable copyright notice of 17 U.S.C. 401 or 402 and an acknowledgment of Government sponsorship (including contract number).
 
@@ -66,7 +66,7 @@ Rights in Data - SBIR Program (MAY 2014)
 
 SBIR Rights Notice (DEC 2007)
 
-These SBIR data are furnished with SBIR rights under Contract No.\_\_\_\_\_\_\_\_ (and subcontract \_\_\_\_\_\_\_\_, if appropriate). For a period of 4 years, unless extended in accordance with FAR 27.409(h), after acceptance of all items to be delivered under this contract, the Government will use these data for Government purposes only, and they shall not be disclosed outside the Government (including disclosure for procurement purposes) during such period without permission of the Contractor, except that, subject to the foregoing use and disclosure prohibitions, these data may be disclosed for use by support Contractors. After the protection period, the Government has a paid-up license to use, and to authorize others to use on its behalf, these data for Government purposes, but is relieved of all disclosure prohibitions and assumes no liability for unauthorized use of these data by third parties. This notice shall be affixed to any reproductions of these data, in whole or in part.
+These SBIR data are furnished with SBIR rights under Contract No. \_\_\_\_\_\_\_\_ (and subcontract \_\_\_\_\_\_\_\_, if appropriate). For a period of 4 years, unless extended in accordance with FAR 27.409(h), after acceptance of all items to be delivered under this contract, the Government will use these data for Government purposes only, and they shall not be disclosed outside the Government (including disclosure for procurement purposes) during such period without permission of the Contractor, except that, subject to the foregoing use and disclosure prohibitions, these data may be disclosed for use by support Contractors. After the protection period, the Government has a paid-up license to use, and to authorize others to use on its behalf, these data for Government purposes, but is relieved of all disclosure prohibitions and assumes no liability for unauthorized use of these data by third parties. This notice shall be affixed to any reproductions of these data, in whole or in part.
 
 (End of notice)
 
@@ -74,7 +74,7 @@ These SBIR data are furnished with SBIR rights under Contract No.\_\_\_\_\_\_\_\
 
 (e) *Omitted or incorrect markings.* (1) Data delivered to the Government without any notice authorized by paragraph (d) of this clause shall be deemed to have been furnished with unlimited rights. The Government assumes no liability for the disclosure, use, or reproduction of such data.
 
-(2) If the unmarked data has not been disclosed without restriction outside the Government, the Contractor may request, within 6 months (or a longer time approved by the Contracting Officer in writing for good cause shown) after delivery of the data, permission to have authorized notices placed on the data at the Contractor's expense, and the Contracting Officer may agree to do so if the Contractor -
+(2) If the unmarked data has not been disclosed without restriction outside the Government, the Contractor may request, within 6 months (or a longer time approved by the Contracting Officer in writing for good cause shown) after delivery of the data, permission to have authorized notices placed on the data at the Contractor's expense, and the Contracting Officer may agree to do so if the Contractor—
 
 (i) Identifies the data to which the omitted notice is to be applied;
 
@@ -84,7 +84,7 @@ These SBIR data are furnished with SBIR rights under Contract No.\_\_\_\_\_\_\_\
 
 (iv) Acknowledges that the Government has no liability with respect to the disclosure or use of any such data made prior to the addition of the notice or resulting from the omission of the notice.
 
-(3) If the data has been marked with an incorrect notice, the Contracting Officer may -
+(3) If the data has been marked with an incorrect notice, the Contracting Officer may—
 
 (i) Permit correction of the notice at the Contractor's expense, if the Contractor identifies the data and demonstrates that the correct notice is authorized, or
 

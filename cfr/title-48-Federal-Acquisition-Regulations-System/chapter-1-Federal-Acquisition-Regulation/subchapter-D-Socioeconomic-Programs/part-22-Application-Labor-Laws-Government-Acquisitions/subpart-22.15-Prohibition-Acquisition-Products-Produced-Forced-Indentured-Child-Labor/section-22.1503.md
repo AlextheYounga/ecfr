@@ -8,9 +8,9 @@
 
 (2) Israel, and the anticipated value of the acquisition is $50,000 or more (see 25.406);
 
-(3) Mexico, and the anticipated value of the acquisition is $77,533 or more (see subpart 25.4); or
+(3) Mexico, and the anticipated value of the acquisition is $80,317 or more (see subpart 25.4); or
 
-(4) Armenia, Aruba, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Italy, Japan, Korea, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan, Ukraine, or the United Kingdom and the anticipated value of the acquisition is $191,000 or more (see 25.402(b)).
+(4) Armenia, Aruba, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Italy, Japan, Korea, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan, Ukraine, or the United Kingdom and the anticipated value of the acquisition is $180,000 or more (see 25.402(b)).
 
 (c) Except as provided in paragraph (b) of this section, before the contracting officer may make an award for an end product (regardless of country of origin) of a type identified by country of origin on the List the offeror must certify that -
 
@@ -26,4 +26,4 @@
 
 (f) Proper certification will not prevent the head of an agency from imposing remedies in accordance with section 22.1504(a)(4) if it is later discovered that the contractor has furnished an end product or component that has in fact been mined, produced, or manufactured, wholly or in part, using forced or indentured child labor.
 
-[66 FR 5347, Jan. 18, 2001]Editorial Note:For Federal Register citations affecting § 22.1503, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[66 FR 5347, Jan. 18, 2001]Editorial Note:For Federal Register citations affecting § 22.1503, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

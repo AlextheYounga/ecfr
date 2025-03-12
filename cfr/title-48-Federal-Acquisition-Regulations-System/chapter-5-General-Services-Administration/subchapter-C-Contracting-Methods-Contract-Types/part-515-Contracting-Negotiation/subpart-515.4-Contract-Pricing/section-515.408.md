@@ -52,7 +52,7 @@ SIN \_\_\_\_\_\_ $\_\_\_\_\_\_SIN \_\_\_\_\_\_ $\_\_\_\_\_\_SIN \_\_\_\_\_\_ $\_
 
 (End of format)
 
-(c) When the contract contains the basic clause 552.238-74 Industrial Funding Fee and Sales Reporting, include the instructions for completing the commercial sales practices format in Figure 515.4-2 in solicitations issued under the MAS program.
+(c) When the contract contains the basic clause 552.238-74 Industrial Funding Fee and Sales Reporting, include the instructions for completing the commercial sales practices format in Figure 515.4-2 in solicitations issued under the MAS program. Offerors are not required to complete the commercial sales practices disclosure for order-level materials (See subpart 538.72).
 
 Figure 515.4 - Instructions for Commercial Sales Practices Format
 
@@ -94,4 +94,4 @@ If deviations from your written policies or standard commercial sales practices 
 
 (3) By submitting a request for modification, the Contractor grants the Contracting Officer or an authorized representative the right to examine, at any time before agreeing to a modification, books, record, documents, papers, and other directly pertinent records to verify the pricing, sales and other data related to the supplies or services proposed in order to determine the reasonableness of price(s). Access does not extent to Contractor's cost or profit information or other data related solely to the Contractor's determination of the prices to be offered in the catalog or marketplace.
 
-[64 FR 37214, July 9, 1999, as amended at 65 FR 11247, Mar. 2, 2000; 81 FR 41136, June 23, 2016]
+[64 FR 37214, July 9, 1999, as amended at 65 FR 11247, Mar. 2, 2000; 81 FR 41136, June 23, 2016; 83 FR 3279, Jan. 24, 2018]

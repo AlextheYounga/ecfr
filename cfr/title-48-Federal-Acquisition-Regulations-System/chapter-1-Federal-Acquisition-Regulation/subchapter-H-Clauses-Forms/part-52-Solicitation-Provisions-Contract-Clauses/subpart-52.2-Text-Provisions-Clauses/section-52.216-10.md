@@ -18,13 +18,13 @@ Incentive Fee (JUN 2011)
 
 (d) *Equitable adjustments.* When the work under this contract is increased or decreased by a modification to this contract or when any equitable adjustment in the target cost is authorized under any other clause, equitable adjustments in the target cost, target fee, minimum fee, and maximum fee, as appropriate, shall be stated in a supplemental agreement to this contract.
 
-(e) *Fee payable.* (1) The fee payable under this contract shall be the target fee increased by \_ [*Contracting Officer insert Contractor's participation*] cents for every dollar that the total allowable cost is less than the target cost or decreased by \_ [*Contracting Officer insert Contractor's participation*] cents for every dollar that the total allowable cost exceeds the target cost. In no event shall the fee be greater than \_ [*Contracting Officer insert percentage*] percent or less than \_ [*Contracting Officer insert percentage*] percent of the target cost.
+(e) *Fee payable.* (1) The fee payable under this contract shall be the target fee increased by \_\_\_ [*Contracting Officer insert Contractor's participation*] cents for every dollar that the total allowable cost is less than the target cost or decreased by \_\_\_ [*Contracting Officer insert Contractor's participation*] cents for every dollar that the total allowable cost exceeds the target cost. In no event shall the fee be greater than \_\_\_ [*Contracting Officer insert percentage*] percent or less than \_\_ [*Contracting Officer insert percentage*] percent of the target cost.
 
 (2) The fee shall be subject to adjustment, to the extent provided in paragraph (d) above, and within the minimum and maximum fee limitations in subparagraph (1) above, when the total allowable cost is increased or decreased as a consequence of (i) payments made under assignments or (ii) claims excepted from the release as required by paragraph (h)(2) of the Allowable Cost and Payment clause.
 
 (3) If this contract is terminated in its entirety, the portion of the target fee payable shall not be subject to an increase or decrease as provided in this paragraph. The termination shall be accomplished in accordance with other applicable clauses of this contract.
 
-(4) For the purpose of fee adjustment, *total allowable cost* shall not include allowable costs arising out of -
+(4) For the purpose of fee adjustment, *total allowable cost* shall not include allowable costs arising out of—
 
 (i) Any of the causes covered by the Excusable Delays clause to the extent that they are beyond the control and without the fault or negligence of the Contractor or any subcontractor;
 
@@ -32,7 +32,7 @@ Incentive Fee (JUN 2011)
 
 (iii) Any direct cost attributed to the Contractor's involvement in litigation as required by the Contracting Officer pursuant to a clause of this contract, including furnishing evidence and information requested pursuant to the Notice and Assistance Regarding Patent and Copyright Infringement clause;
 
-(iv) The purchase and maintenance of additional insurance not in the target cost and required by the Contracting Officer, or claims for reimbursement for liabilities to third persons pursuant to the Insurance - Liability to Third Persons clause;
+(iv) The purchase and maintenance of additional insurance not in the target cost and required by the Contracting Officer, or claims for reimbursement for liabilities to third persons pursuant to the Insurance—Liability to Third Persons clause;
 
 (v) Any claim, loss, or damage resulting from a risk for which the Contractor has been relieved of liability by the Government Property clause; or
 

@@ -4,13 +4,13 @@ As prescribed in 46.710(a)(1), insert a clause substantially as follows:
 
 Warranty of Supplies of a Noncomplex Nature (JUN 2003)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 *Acceptance* means the act of an authorized representative of the Government by which the Government assumes for itself, or as an agent of another, ownership of existing supplies, or approves specific services as partial or complete performance of the contract.
 
 *Supplies* means the end items furnished by the Contractor and related services required under this contract. The word does not include “data.”
 
-(b) *Contractor's obligations.* (1) Notwithstanding inspection and acceptance by the Government of supplies furnished under this contract, or any condition of this contract concerning the conclusiveness thereof, the Contractor warrants that for \_\_ [*Contracting Officer shall state specific period of time after delivery, or the specified event whose occurrence will terminate the warranty period; e.g., the number of miles or hours of use, or combinations of any applicable events or periods of time*] -
+(b) *Contractor's obligations.* (1) Notwithstanding inspection and acceptance by the Government of supplies furnished under this contract, or any condition of this contract concerning the conclusiveness thereof, the Contractor warrants that for \_\_\_\_ [*Contracting Officer shall state specific period of time after delivery, or the specified event whose occurrence will terminate the warranty period; e.g., the number of miles or hours of use, or combinations of any applicable events or periods of time*]—
 
 (i) All supplies furnished under this contract will be free from defects in material or workmanship and will conform with all requirements of this contract; and
 
@@ -22,15 +22,15 @@ Warranty of Supplies of a Noncomplex Nature (JUN 2003)
 
 (4) All implied warranties of merchantability and *fitness for a particular purpose* are excluded from any obligation contained in this contract.
 
-(c) *Remedies available to the Government.* (1) The Contracting Officer shall give written notice to the Contractor of any breach of warranties in paragraph (b)(1) of this clause within \_\_ [*Contracting Officer shall insert specific period of time; e.g., “45 days of the last delivery under this contract,” or “45 days after discovery of the defect”*].
+(c) *Remedies available to the Government.* (1) The Contracting Officer shall give written notice to the Contractor of any breach of warranties in paragraph (b)(1) of this clause within \_\_\_\_ [*Contracting Officer shall insert specific period of time; e.g., “45 days of the last delivery under this contract,” or “45 days after discovery of the defect”*].
 
-(2) Within a reasonable time after the notice, the Contracting Officer may either -
+(2) Within a reasonable time after the notice, the Contracting Officer may either—
 
 (i) Require, by written notice, the prompt correction or replacement of any supplies or parts thereof (including preservation, packaging, packing, and marking) that do not conform with the requirements of this contract within the meaning of paragraph (b)(1) of this clause; or
 
 (ii) Retain such supplies and reduce the contract price by an amount equitable under the circumstances.
 
-(3)(i) If the contract provides for inspection of supplies by sampling procedures, conformance of supplies or components subject to warranty action shall be determined by the applicable sampling procedures in the contract. The Contracting Officer -
+(3)(i) If the contract provides for inspection of supplies by sampling procedures, conformance of supplies or components subject to warranty action shall be determined by the applicable sampling procedures in the contract. The Contracting Officer—
 
 (A) May, for sampling purposes, group any supplies delivered under this contract;
 
@@ -50,7 +50,7 @@ Warranty of Supplies of a Noncomplex Nature (JUN 2003)
 
 (D) Return the supplies grouped for warranty action under this clause to the Contractor (irrespective of the f.o.b. point or the point of acceptance) for screening and correction or replacement.
 
-(4)(i) The Contracting Officer may, by contract or otherwise, correct or replace the nonconforming supplies with similar supplies from another source and charge to the Contractor the cost occasioned to the Government thereby if the Contractor -
+(4)(i) The Contracting Officer may, by contract or otherwise, correct or replace the nonconforming supplies with similar supplies from another source and charge to the Contractor the cost occasioned to the Government thereby if the Contractor—
 
 (A) Fails to make redelivery of the corrected or replaced supplies within the time established for their return; or
 
