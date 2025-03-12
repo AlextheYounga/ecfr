@@ -322,4 +322,4 @@ shall not be more favorable than the rates, terms and conditions for comparable 
 
 (4) *Accounting.* A federal credit union must account for financial options contracts transactions in accordance with generally accepted accounting principles.
 
-[49 FR 30685, Aug. 1, 1984]Editorial Note:For Federal Register citations affecting § 701.21, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[49 FR 30685, Aug. 1, 1984]Editorial Note:For Federal Register citations affecting § 701.21, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

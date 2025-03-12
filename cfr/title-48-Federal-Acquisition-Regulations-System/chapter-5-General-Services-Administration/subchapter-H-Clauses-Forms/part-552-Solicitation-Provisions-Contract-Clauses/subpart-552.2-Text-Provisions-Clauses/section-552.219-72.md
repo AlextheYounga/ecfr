@@ -1,5 +1,7 @@
 ##### 552.219-72 Preparation, Submission, and Negotiation of Subcontracting Plans. #####
 
+Link to an amendment published at 84 FR 1411, Feb. 4, 2019.
+
 As prescribed in 519.708-70(b), insert the following provision:
 
 Preparation, Submission, and Negotiation of Subcontracting Plans (OCT 2016)

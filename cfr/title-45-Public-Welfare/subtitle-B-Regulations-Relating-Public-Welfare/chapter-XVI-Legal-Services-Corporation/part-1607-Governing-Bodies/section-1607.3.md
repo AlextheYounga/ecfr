@@ -14,7 +14,7 @@
 
 (3) Appointments shall be made so as to insure that the attorney members reasonably reflect the diversity of the legal community and the population of the areas served by the recipient, including race, ethnicity, gender and other similar factors.
 
-(c) At least one-third of the members of a recipient's governing body shall be eligible clients when appointed. The members who are eligible clients shall be appointed by a variety of appropriate groups designated by the recipient that may include, but are not limited to, client and neighborhood associations and community-based organizations which advocate for or deliver services or resources to the client community served by the recipient. Recipients shall designate groups in a manner that reflects, to the extent possible, the variety of interests within the client community, and eligible client members should be selected so that they reasonably reflect the diversity of the eligible client population served by the recipient, including race, gender, ethnicity and other similar factors.
+(c) At least one-third of the members of a recipient's governing body must be eligible client members when initially appointed by the recipient. The recipient must solicit recommendations for eligible client members from a variety of appropriate groups designated by the recipient that may include, but are not limited to, client and neighborhood associations and community-based organizations that advocate for or deliver services or resources to the client community served by the recipient. Recipients should solicit recommendations from groups in a manner that reflects, to the extent possible, the variety of interests within the client community, and eligible client members should be selected so that they reasonably reflect the diversity of the eligible client population served by the recipient, including race, gender, ethnicity and other similar factors.
 
 (d) The remaining members of a governing body may be appointed by the recipient's governing body or selected in a manner described in the recipient's bylaws or policies, and the appointment or selection shall be made so that the governing body as a whole reasonably reflects the diversity of the areas served by the recipient, including race, ethnicity, gender and other similar factors.
 
@@ -31,3 +31,5 @@
 (2) The particular categories of board membership and the board as a whole meet the diversity requirements described in §§ 1607.3(b)(3), 1607.3(c) and 1607.3(d);
 
 (3) Appointees do not have actual and significant individual or institutional conflicts of interest with the recipient or the recipient's client community that could reasonably be expected to influence their ability to exercise independent judgment as members of the recipient's governing body.
+
+[59 FR 65254, Dec. 19, 1994, as amended at 84 FR 1407, Feb. 4, 2019]

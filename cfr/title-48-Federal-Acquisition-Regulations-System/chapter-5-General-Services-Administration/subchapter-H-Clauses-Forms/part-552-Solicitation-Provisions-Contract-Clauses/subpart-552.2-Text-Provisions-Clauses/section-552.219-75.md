@@ -1,5 +1,7 @@
 ##### 552.219-75 GSA Mentor-Protégé Program. #####
 
+Link to an amendment published at 84 FR 1411, Feb. 4, 2019.
+
 As prescribed in 519.7017(a), insert the following clause:
 
 GSA Mentor-ProtéGé Program (SEP 2009)

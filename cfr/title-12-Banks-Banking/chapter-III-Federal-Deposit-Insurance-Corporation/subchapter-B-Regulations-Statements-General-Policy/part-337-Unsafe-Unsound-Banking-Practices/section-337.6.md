@@ -1,5 +1,7 @@
 ##### § 337.6 Brokered deposits. #####
 
+Link to an amendment published at 84 FR 1353, Feb. 4, 2019.
+
 (a) *Definitions.* For the purposes of this § 337.6, the following definitions apply:
 
 (1) *Appropriate Federal banking agency* has the same meaning as provided under section 3(q) of the Federal Deposit Insurance Act (12 U.S.C. 1813(q)).

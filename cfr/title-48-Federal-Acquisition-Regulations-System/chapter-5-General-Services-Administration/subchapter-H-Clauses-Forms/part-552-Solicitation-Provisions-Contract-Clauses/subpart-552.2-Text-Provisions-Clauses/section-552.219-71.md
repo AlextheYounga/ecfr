@@ -1,5 +1,7 @@
 ##### 552.219-71 Notice to Offerors of Subcontracting Plan Requirements. #####
 
+Link to an amendment published at 84 FR 1411, Feb. 4, 2019.
+
 As prescribed in 519.708-70(a), insert the following provision:
 
 Notice to Offerrors of Subcontracting Plan Requirements (OCT 2016)

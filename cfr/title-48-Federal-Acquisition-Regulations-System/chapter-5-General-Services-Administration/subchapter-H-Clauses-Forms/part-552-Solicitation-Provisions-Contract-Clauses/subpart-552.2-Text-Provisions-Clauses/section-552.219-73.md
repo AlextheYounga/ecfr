@@ -1,5 +1,7 @@
 ##### 552.219-73 Goals for Subcontracting Plan. #####
 
+Link to an amendment published at 84 FR 1411, Feb. 4, 2019.
+
 As prescribed in 519.708-70(c), insert the following provision:
 
 Goals for Subcontracting Plan (JUN 2005)
