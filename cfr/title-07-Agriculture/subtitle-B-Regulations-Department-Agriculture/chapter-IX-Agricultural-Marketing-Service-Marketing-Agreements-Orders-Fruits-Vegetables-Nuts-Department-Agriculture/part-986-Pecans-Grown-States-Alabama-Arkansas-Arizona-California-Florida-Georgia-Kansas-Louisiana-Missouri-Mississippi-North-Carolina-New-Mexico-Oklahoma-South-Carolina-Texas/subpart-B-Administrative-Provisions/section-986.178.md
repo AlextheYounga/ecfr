@@ -1,5 +1,7 @@
 ##### § 986.178 Other reports. #####
 
+Link to an amendment published at 85 FR 19655, Apr. 8, 2020.
+
 (a) *Report of shipments and inventory on hand.* Handlers shall submit to the Council, by the tenth day of the month following the month of activity, a report of all shipments, inventory, and committed inventory for pecans. Should the tenth day of the month fall on a weekend or holiday, reports are due by the first business day following the tenth day of the month. The report shall be submitted to the Council on APC Form 2 and contain the following information:
 
 (1) The name and address of the handler;

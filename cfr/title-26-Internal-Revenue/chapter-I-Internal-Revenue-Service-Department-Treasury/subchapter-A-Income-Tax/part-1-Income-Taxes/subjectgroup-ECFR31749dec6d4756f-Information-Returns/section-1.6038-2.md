@@ -94,6 +94,10 @@ The constructive ownership rules of section 318(a) apply only for purposes of de
 
 (12) *Accrued payments and receipts.* For purposes of the required summary under paragraph (f)(11) of this section, a corporation that uses an accrual method of accounting shall use accrued payments and accrued receipts for purposes of computing the total amount of each of the types of transactions listed.
 
+(13) *Amounts involving hybrid transactions or hybrid entities under section 267A.* If for the annual accounting period, the corporation pays or accrues interest or royalties for which a deduction is disallowed under section 267A and the regulations in this part under section 267A of the Internal Revenue Code, then Form 5471 (or successor form) must contain such information about the disallowance in the form and manner and to the extent prescribed by the form, instruction, publication, or other guidance.
+
+(14) *Hybrid dividends under section 245A(e).* If for the annual accounting period, the corporation pays or receives a hybrid dividend or a tiered hybrid dividend under section 245A(e) and the regulations in this part under section 245A(e) of the Internal Revenue Code, then Form 5471 (or successor form) must contain such information about the hybrid dividend or tiered hybrid dividend in the form and manner and to the extent prescribed by the form, instruction, publication, or other guidance. Form 5471 (or successor form) must also contain any other information relating to the rules of section 245A(e) and the regulations in this part under section 245A(e) of the Internal Revenue Code (including information related to a specified owner's hybrid deduction account), as prescribed by the form, instruction, publication, or other guidance.
+
 (g) *Financial statements.* The following information with respect to the foreign corporation shall be attached to and filed as part of the return required by this section. Forms 5471 filed after September 30, 1991, shall contain this information in such form or manner as the form shall prescribe with respect to each foreign corporation:
 
 (1) A statement of the corporation's profit and loss for the annual accounting period;
@@ -187,4 +191,6 @@ M must include $25,500 in gross income as a dividend under the provisions of sec
 
 (2) [Reserved]
 
-[T.D. 8040, 50 FR 30163, July 24, 1985, as amended by T.D. 8573, 59 FR 64302, Dec. 14, 1994; T.D. 8733, 62 FR 53385, Oct. 14, 1997; T.D. 8850, 64 FR 72550, Dec. 28, 1999; T.D. 9194, 70 FR 18946, Apr. 11, 2005; T.D. 9268, 71 FR 35525, June 21, 2006; T.D. 9338, 72 FR 38475, July 13, 2007; T.D. 9391, 73 FR 19376, Apr. 9, 2008; T.D. 9650, 78 FR 79611, Dec. 31, 2013; T.D. 9806, 81 FR 95470, Dec. 28, 2016; T.D. 9866, 84 FR 29369, June 21, 2019]
+(3) *Rules relating to certain hybrid arrangements.* Paragraphs (f)(13) and (14) of this section apply with respect to information for annual accounting periods beginning on or after December 20, 2018.
+
+[T.D. 8040, 50 FR 30163, July 24, 1985, as amended by T.D. 8573, 59 FR 64302, Dec. 14, 1994; T.D. 8733, 62 FR 53385, Oct. 14, 1997; T.D. 8850, 64 FR 72550, Dec. 28, 1999; T.D. 9194, 70 FR 18946, Apr. 11, 2005; T.D. 9268, 71 FR 35525, June 21, 2006; T.D. 9338, 72 FR 38475, July 13, 2007; T.D. 9391, 73 FR 19376, Apr. 9, 2008; T.D. 9650, 78 FR 79611, Dec. 31, 2013; T.D. 9806, 81 FR 95470, Dec. 28, 2016; T.D. 9866, 84 FR 29369, June 21, 2019; T.D. 9896, 85 FR 19856, Apr. 8, 2020]

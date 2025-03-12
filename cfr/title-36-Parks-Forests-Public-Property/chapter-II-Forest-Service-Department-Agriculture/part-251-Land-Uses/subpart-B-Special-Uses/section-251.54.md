@@ -12,9 +12,9 @@
 
 (c) *Rights of proponents.* A proposal to obtain a special use authorization does not grant any right or privilege to use National Forest System lands. Rights or privileges to occupy and use National Forest System lands under this subpart are conveyed only through issuance of a special use authorization.
 
-(d) *Proposal content* - (1) *Proponent identification.* Any proponent for a special use authorization must provide the proponent's name and mailing address, and, if the proponent is not an individual, the name and address of the proponent's agent who is authorized to receive notice of actions pertaining to the proposal.
+(d) *Proposal content*—(1) *Proponent identification.* Any proponent for a special use authorization must provide the proponent's name and mailing address, and, if the proponent is not an individual, the name and address of the proponent's agent who is authorized to receive notice of actions pertaining to the proposal.
 
-(2) *Required information* - (i) *Noncommercial group uses.* Paragraphs (d)(3) through (d)(5) of this section do not apply to proposals for noncommercial group uses. A proponent for noncommercial group uses shall provide the following:
+(2) *Required information*—(i) *Noncommercial group uses.* Paragraphs (d)(3) through (d)(5) of this section do not apply to proposals for noncommercial group uses. A proponent for noncommercial group uses shall provide the following:
 
 (A) A description of the proposed activity;
 
@@ -54,7 +54,7 @@
 
 (5) *Additional information.* The authorized officer may require any other information and data necessary to determine feasibility of a project or activity proposed; compliance with applicable laws, regulations, and orders; compliance with requirements for associated clearances, certificates, permits, or licenses; and suitable terms and conditions to be included in the authorization. The authorized officer shall make requests for any additional information in writing.
 
-(e) *Pre-application actions* - (1) *Initial screening.* Upon receipt of a request for any proposed use other than for noncommercial group use, the authorized officer shall screen the proposal to ensure that the use meets the following minimum requirements applicable to all special uses:
+(e) *Pre-application actions*—(1) *Initial screening.* Upon receipt of a request for any proposed use other than for noncommercial group use, the authorized officer shall screen the proposal to ensure that the use meets the following minimum requirements applicable to all special uses:
 
 (i) The proposed use is consistent with the laws, regulations, orders, and policies establishing or governing National Forest System lands, with other applicable Federal law, and with applicable State and local health and sanitation laws.
 
@@ -110,7 +110,7 @@
 
 (6) *NEPA compliance for second-level screening process.* A request for a special use authorization that does not meet the criteria established in paragraphs (e)(5)(i) through (e)(5)(v) of this section does not constitute an agency proposal as defined in 40 CFR 1508.23 and, therefore, does not require environmental analysis and documentation.
 
-(f) *Special requirements for certain proposals* - (1) *Oil and gas pipeline rights-of-way.* These proposals must include the citizenship of the proponent(s) and disclose the identity of its participants as follows:
+(f) *Special requirements for certain proposals*—(1) *Oil and gas pipeline rights-of-way.* These proposals must include the citizenship of the proponent(s) and disclose the identity of its participants as follows:
 
 (i) Citizens of another country, the laws, customs, or regulations of which deny similar or like privileges to citizens or corporations of the United States, shall not own an appreciable interest in any oil and gas pipeline right-of-way or associated permit; and
 
@@ -118,7 +118,7 @@
 
 (2) *Major development.* Proponents of a major development may submit a request for a planning permit of up to 10 years in duration. Requests for a planning permit must include the information contained in paragraphs (d)(1) through (d)(3) of this section. Upon completion of a master development plan developed under a planning permit, proponents may then submit a request for a long-term authorization to construct and operate the development. At a minimum, a request for a long-term permit for a major development must include the information contained in paragraphs (d)(1) and (d)(2)(ii) through (d)(5) of this section. Issuance of a planning permit does not prejudice approval or denial of a subsequent request for a special use permit for the development.
 
-(g) *Application processing and response* - (1) *Acceptance of applications.* Except for proposals for noncommercial group uses, if a request does not meet the criteria of both screening processes or is subsequently denied, the proponent must be notified with a written explanation of the rejection or denial and any written proposal returned to the proponent. If a request for a proposed use meets the criteria of both the initial and second-level screening processes as described in paragraph (e) of this section, the authorized officer shall notify the proponent that the agency is prepared to accept a written formal application for a special use authorization and shall, as appropriate or necessary, provide the proponent guidance and information of the type described in paragraphs (e)(3)(i) through (e)(3)(viii) of this section.
+(g) *Application processing and response*—(1) *Acceptance of applications.* Except for proposals for noncommercial group uses, if a request does not meet the criteria of both screening processes or is subsequently denied, the proponent must be notified with a written explanation of the rejection or denial and any written proposal returned to the proponent. If a request for a proposed use meets the criteria of both the initial and second-level screening processes as described in paragraph (e) of this section, the authorized officer shall notify the proponent that the agency is prepared to accept a written formal application for a special use authorization and shall, as appropriate or necessary, provide the proponent guidance and information of the type described in paragraphs (e)(3)(i) through (e)(3)(viii) of this section.
 
 (2) *Processing applications.* (i) Upon acceptance of an application for a special use authorization other than a planning permit, the authorized officer shall evaluate the proposed use for the requested site, including effects on the environment. The authorized officer may request such additional information as necessary to obtain a full description of the proposed use and its effects.
 
@@ -170,8 +170,20 @@
 
 (iii) If an authorized officer denies an application because it does not meet the criteria in paragraphs (g)(3)(ii)(A) through (g)(3)(ii)(H) of this section, the authorized officer shall notify the applicant in writing of the reasons for the denial. If an alternative time, place, or manner will allow the applicant to meet the eight evaluation criteria, an authorized officer shall offer that alternative. If an application is denied solely under paragraph (g)(3)(ii)(C) of this section and all alternatives suggested are unacceptable to the applicant, the authorized officer shall offer to have completed the requisite environmental and other analyses for the requested site. A decision to grant or deny the application for which an environmental assessment or an environmental impact statement is prepared is subject to the notice and appeal procedures at 36 CFR part 215 and shall be made within 48 hours after the decision becomes final under that appeal process. A denial of an application in paragraphs (g)(3)(ii)(A) through (g)(3)(ii)(H) of this section constitutes final agency action, is not subject to administrative appeal, and is immediately subject to judicial review.
 
-(4) *Response to all other applications.* Based on evaluation of the information provided by the applicant and other relevant information such as environmental findings, the authorized officer shall decide whether to approve the proposed use, approve the proposed use with modifications, or deny the proposed use. A group of applications for similar uses having minor environmental impacts may be evaluated with one analysis and approved in one decision.
+(4) *Response to all other applications*—(i) *General.* Based on evaluation of the information provided by the applicant and other relevant information such as environmental findings, the authorized officer shall decide whether to approve the proposed use, approve the proposed use with modifications, or deny the proposed use. A group of applications for similar uses may be evaluated with one analysis and approved in one decision.
 
-(5) *Authorization of a special use.* Upon a decision to approve a special use or a group of similar special uses, the authorized officer may issue one or more special use authorizations as defined in § 251.51 of this subpart.
+(ii) *Communications use applications.* Within 270 days of acceptance of a proposal as an application for a new communications facility or co-location of a new communications use in or on a facility managed by the Forest Service, or within 270 days of receipt of an application for modification of an existing communications facility or co-located communications use on a facility managed by the Forest Service, the authorized officer shall grant or deny the application and notify the applicant in writing of the grant or denial.
 
-[63 FR 65964, Nov. 30, 1998, as amended at 74 FR 68381, Dec. 24, 2009; 78 FR 33725, June 5, 2013]
+(iii) *Tracking of communications use applications.* The Forest Service shall establish a process in its directive system (36 CFR 200.4) for tracking applications for communications uses that provides for:
+
+(A) Identifying the number of applications received, approved, and denied;
+
+(B) For applications that are denied, describing the reasons for denial; and
+
+(C) Describing the amount of time between receipt of an application and grant or denial of the application.
+
+(5) *Authorization of a special use*—(i) *General.* Upon a decision to approve a special use or a group of similar uses, the authorized officer may issue one or more special use authorizations as defined in § 251.51 of this subpart.
+
+(ii) *Minimum term for communications use authorizations.* The term for a communications use authorization shall be 30 years, unless case-specific circumstances warrant a shorter term.
+
+[63 FR 65964, Nov. 30, 1998, as amended at 74 FR 68381, Dec. 24, 2009; 78 FR 33725, June 5, 2013; 85 FR 19665, Apr. 8, 2020]

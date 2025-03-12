@@ -42,7 +42,7 @@
 
 (3) To seek a supplementary registration for a database that consists predominantly of photographs registered under § 202.3(b)(5), an applicant must complete and submit the online application designated for supplementary registration after consultation with and under the direction of the Visual Arts Division.
 
-(4) To seek a supplementary registration for a restored work registered under § 202.12, a database that does not consist predominantly of photographs registered under § 202.3(b)(5), or a renewal registration, an applicant must complete and submit a paper application using Form CA.
+(4) To seek a supplementary registration for a restored work registered under § 202.12, a database that does not consist predominantly of photographs registered under § 202.3(b)(5), or a renewal registration, an applicant must complete and submit an application using Form CA.
 
 (5) Before submitting the application, the applicant must sign a certification stating that the applicant reviewed a copy of the certificate of registration for the basic registration that will be corrected or amplified by the supplementary registration. To obtain a copy of the certificate, the applicant may submit a written request to the Records Research and Certification Section using the procedure set forth in Chapter 2400 of the *Compendium of U.S. Copyright Office Practices, Third Edition.*
 
@@ -56,4 +56,4 @@
 
 (2) As provided in section 408(d) of title 17 of the United States Code, the information contained in a supplementary registration augments but does not supersede that contained in the basic registration. The basic registration will not be expunged or cancelled.
 
-[82 FR 27427, June 15, 2017, as amended at 82 FR 42738, Sept. 12, 2017; 83 FR 61550, Nov. 30, 2018]
+[82 FR 27427, June 15, 2017, as amended at 82 FR 42738, Sept. 12, 2017; 83 FR 61550, Nov. 30, 2018; 85 FR 19668, Apr. 8, 2020]

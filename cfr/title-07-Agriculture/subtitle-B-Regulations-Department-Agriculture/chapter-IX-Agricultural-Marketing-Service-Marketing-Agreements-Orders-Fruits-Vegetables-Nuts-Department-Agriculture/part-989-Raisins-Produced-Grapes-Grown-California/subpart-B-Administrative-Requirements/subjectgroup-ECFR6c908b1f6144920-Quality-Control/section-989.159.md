@@ -20,11 +20,9 @@
 
 (1) Fails to ship or make other final disposition for human consumption of any lot of packed raisins within 90 calendar days, or of any lot of natural condition raisins within 5 calendar days, after the date of the last inspection of the lot; or
 
-(2) Has any shipment or portion of a shipment returned to his inspection point or storage premises within the area,
+(2) Has any shipment or portion of a shipment returned to his inspection point or storage premises within the area, shall, before any such shipment or final disposition, or before blending with other raisins, have such raisins inspected for condition and shall furnish promptly to the Committee (which may be through the inspection service as provided in § 989.158(b)) a copy of the inspection certificate showing that the raisins meet the respective requirements of this part for shipment, final disposition or blending.
 
-shall, before any such shipment or final disposition, or before blending with other raisins, have such raisins inspected for condition and shall furnish promptly to the Committee (which may be through the inspection service as provided in § 989.158(b)) a copy of the inspection certificate showing that the raisins meet the respective requirements of this part for shipment, final disposition or blending.
-
-(f) *Exemption of experimental and specialty packs* - (1) *Shipment under exemption.* Upon obtaining approval of the Committee as provided in this paragraph, any handler may ship or dispose of raisins in experimental or specialty packs without regard to one or more of the requirements of the minimum grade standards for packed raisins and inspection and certification requirements, prescribed pursuant to § 989.59. For the purpose of this exemption, experimental and specialty packs means raisins processed using methods, materials, or techniques that are not normally employed in packing raisins.
+(f) *Exemption of experimental and specialty packs*—(1) *Shipment under exemption.* Upon obtaining approval of the Committee as provided in this paragraph, any handler may ship or dispose of raisins in experimental or specialty packs without regard to one or more of the requirements of the minimum grade standards for packed raisins and inspection and certification requirements, prescribed pursuant to § 989.59. For the purpose of this exemption, experimental and specialty packs means raisins processed using methods, materials, or techniques that are not normally employed in packing raisins.
 
 (2) *Application for exemption.* Each application for exemption shall be filed with the Committee in triplicate. The application shall at least contain information as to:
 
@@ -46,7 +44,7 @@ shall, before any such shipment or final disposition, or before blending with ot
 
 (4) *Reports.* The handler shall report shipments or other dispositions under an approved exemption as required pursuant to § 989.173(e).
 
-(g) *Off-grade raisins, other failing raisins, and raisin residual material* - (1) *Recovery of raisins.* (i) For the purposes of §§ 989.59(f) and 989.158(c)(4), a packer may recover raisins from:
+(g) *Off-grade raisins, other failing raisins, and raisin residual material*—(1) *Recovery of raisins.* (i) For the purposes of §§ 989.59(f) and 989.158(c)(4), a packer may recover raisins from:
 
 (A) Residual raisins from his or her processing of standard raisins;
 

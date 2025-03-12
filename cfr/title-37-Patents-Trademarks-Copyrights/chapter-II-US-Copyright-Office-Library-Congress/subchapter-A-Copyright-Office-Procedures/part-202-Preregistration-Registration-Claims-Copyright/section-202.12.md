@@ -6,7 +6,7 @@
 
 (2) *Descriptive statement for a work embodied solely in machine-readable format* is a separate written statement giving the title of the work, nature of the work (for example: computer program, database, videogame, etc.), plus a brief description of the contents or subject matter of the work.
 
-(c) *Registration* - (1) *Application.* Applications for registration for single works restored to copyright protection under the URAA should be made on Form GATT. Copies of this form may be obtained from the Office's website or by contacting the Public Information Office at (202) 707-3000. Applicants should submit the completed application with the appropriate filing fee and deposit copies and materials required by paragraph (c)(3) of this section in the same package by mail.
+(c) *Registration* - (1) *Application.* Applications for registration for single works restored to copyright protection under the URAA should be made on Form GATT. Copies of this form may be obtained from the Office's website or by contacting the Public Information Office at (202) 707-3000. Applicants should submit the completed application with the appropriate filing fee and deposit copies and materials required by paragraph (c)(3) of this section in the same package by mail or electronically, in accordance with instructions for submission and payment provided on the Office's website or Form GATT itself.
 
 (2) *Fee* - (i) *Amount.* The filing fee for registering a copyright claim in a restored work is prescribed in § 201.3(c).
 
@@ -42,4 +42,4 @@
 
 (d) *Works excluded.* Works which are not copyrightable subject matter under title 17 of the U.S. Code, other than sound recordings fixed before February 15, 1972, shall not be registered as restored works.
 
-[60 FR 50422, Sept. 29, 1995, as amended at 64 FR 12902, Mar. 16, 1999; 64 FR 29522, June 1, 1999; 71 FR 31092, June 1, 2006; 72 FR 36888, July 6, 2007; 73 FR 37839, July 2, 2008; 78 FR 42875, July 18, 2013; 82 FR 9359, Feb. 6, 2017]
+[60 FR 50422, Sept. 29, 1995, as amended at 64 FR 12902, Mar. 16, 1999; 64 FR 29522, June 1, 1999; 71 FR 31092, June 1, 2006; 72 FR 36888, July 6, 2007; 73 FR 37839, July 2, 2008; 78 FR 42875, July 18, 2013; 82 FR 9359, Feb. 6, 2017; 85 FR 19668, Apr. 8, 2020]

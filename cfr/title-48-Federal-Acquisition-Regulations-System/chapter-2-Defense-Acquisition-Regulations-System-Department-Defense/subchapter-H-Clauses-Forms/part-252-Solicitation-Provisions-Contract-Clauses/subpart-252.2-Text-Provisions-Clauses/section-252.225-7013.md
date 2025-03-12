@@ -2,7 +2,7 @@
 
 As prescribed in 225.1101(4), use the following clause:
 
-Duty-Free Entry (MAY 2016)
+Duty-Free Entry (MAR 2020)
 
 (a) *Definitions.* As used in this clause -
 
@@ -62,7 +62,7 @@ Duty-Free Entry (MAY 2016)
 
 (iii) Identification of the carrier.
 
-(iv) (A) For direct shipments to a U.S. military installation, the notation: “UNITED STATES GOVERNMENT, DEPARTMENT OF DEFENSE Duty-Free Entry to be claimed pursuant to Section XXII, Chapter 98, Subchapter VIII, Item 9808.00.30 of the Harmonized Tariff Schedule of the United States. Upon arrival of shipment at the appropriate port of entry, District Director of Customs, please release shipment under 19 CFR part 142 and notify Commander, Defense Contract Management Agency (DCMA) New York, ATTN: Customs Team, DCMAE-GNTF, 207 New York Avenue, Staten Island, New York, 10305-5013, for execution of Customs Form 7501, 7501A, or 7506 and any required duty-free entry certificates.”
+(iv) (A) For direct shipments to a U.S. military installation, the notation: “UNITED STATES GOVERNMENT, DEPARTMENT OF DEFENSE Duty-Free Entry to be claimed pursuant to Section XXII, Chapter 98, Subchapter VIII, Item 9808.00.30 of the Harmonized Tariff Schedule of the United States. Upon arrival of shipment at the appropriate port of entry, District Director of Customs, please release shipment under 19 CFR part 142 and notify Commander, Defense Contract Management Agency (DCMA) New York, ATTN: Customs Team, DCMAE-GNTF, 201 Varick Street, Room 905C, New York, New York 10014, for execution of Customs Form 7501, 7501A, or 7506 and any required duty-free entry certificates.”
 
 (B) If the shipment will be consigned to other than a military installation, *e.g.,* a domestic contractor's plant, the shipping document notation shall be altered to include the name and address of the contractor, agent, or broker who will notify Commander, DCMA New York, for execution of the duty-free entry certificate. (If the shipment will be consigned to a contractor's plant and no duty-free entry certificate is required due to a trade agreement, the Contractor shall claim duty-free entry under the applicable trade agreement and shall comply with the U.S. Customs Service requirements. No notification to Commander, DCMA New York, is required.)
 
@@ -148,4 +148,4 @@ Duty-Free Entry (MAY 2016)
 
 (iii) The information required by paragraphs (h)(1), (2), and (3) of this clause.
 
-(End of clause)[68 FR 15635, Mar. 31, 2003, as amended at 69 FR 1928, Jan. 13, 2004; 70 FR 2363, Jan. 13, 2005; 70 FR 35547, June 21, 2005; 71 FR 34835, June 16, 2006; 71 FR 58542, Oct. 4, 2006; 74 FR 68384, Dec. 24, 2009; 77 FR 35882, June 15, 2012; 78 FR 65222, Oct. 31, 2013; 79 FR 65820, Nov. 5, 2014; 81 FR 28732, May 10, 2016]
+(End of clause)[68 FR 15635, Mar. 31, 2003, as amended at 69 FR 1928, Jan. 13, 2004; 70 FR 2363, Jan. 13, 2005; 70 FR 35547, June 21, 2005; 71 FR 34835, June 16, 2006; 71 FR 58542, Oct. 4, 2006; 74 FR 68384, Dec. 24, 2009; 77 FR 35882, June 15, 2012; 78 FR 65222, Oct. 31, 2013; 79 FR 65820, Nov. 5, 2014; 81 FR 28732, May 10, 2016; 85 FR 19681, Apr. 8, 2020]

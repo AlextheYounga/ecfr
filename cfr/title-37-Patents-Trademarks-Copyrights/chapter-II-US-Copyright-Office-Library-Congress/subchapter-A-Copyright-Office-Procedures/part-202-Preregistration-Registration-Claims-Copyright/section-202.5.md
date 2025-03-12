@@ -8,7 +8,7 @@
 
 (2) The fee set forth in § 201.3(d) of this chapter must accompany the first request for reconsideration.
 
-(3) The first request for reconsideration and the applicable fee must be postmarked or dispatched by a commercial carrier, courier, or messenger no later than three months from the date that appears in the written notice from the Registration Program of its decision to refuse registration. When the ending date for the three-month time period falls on a weekend or a Federal holiday, the ending day of the three-month period shall be extended to the next Federal work day.
+(3) The first request for reconsideration and the applicable fee must be postmarked, dispatched by a commercial carrier, courier, or messenger, or otherwise received by the Office, no later than three months from the date that appears in the written notice from the Registration Program of its decision to refuse registration. When the ending date for the three-month time period falls on a weekend or a Federal holiday, the ending day of the three-month period shall be extended to the next Federal work day.
 
 (4) If the Registration Program decides to register an applicant's work in response to the first request for reconsideration, it will notify the applicant in writing of the decision and the work will be registered. However, if the Registration Program again refuses to register the work, it will send the applicant a written notification stating the reasons for refusal within four months of the date on which the first request for reconsideration is received by the Registration Program. When the ending date for the four-month time period falls on a weekend or a Federal holiday, the ending day of the four-month period shall be extended to the next Federal work day. Failure by the Registration Program to send the written notification within the four-month period shall not result in registration of the applicant's work.
 
@@ -18,7 +18,7 @@
 
 (2) The fee set forth in § 201.3(d) of this chapter must accompany the second request for reconsideration.
 
-(3) The second request for reconsideration and the applicable fee must be postmarked or dispatched by a commercial carrier, courier, or messenger no later than three months from the date that appears in the Registration Program's written notice of its decision to refuse registration after the first request for reconsideration. When the ending date for the three-month time period falls on a weekend or a Federal holiday, the ending day of the three-month period shall be extended to the next Federal work day.
+(3) The second request for reconsideration and the applicable fee must be postmarked, dispatched by a commercial carrier, courier, or messenger, or otherwise received by the Office no later than three months from the date that appears in the Registration Program's written notice of its decision to refuse registration after the first request for reconsideration. When the ending date for the three-month time period falls on a weekend or a Federal holiday, the ending day of the three-month period shall be extended to the next Federal work day.
 
 (4) If the Review Board decides to register an applicant's work in response to a second request for reconsideration, it will notify the applicant in writing of the decision and the work will be registered. If the Review Board upholds the refusal to register the work, it will send the applicant a written notification stating the reasons for refusal.
 
@@ -32,4 +32,4 @@
 
 (g) *Final agency action.* A decision by the Review Board in response to a second request for reconsideration constitutes final agency action.
 
-[69 FR 77636, Dec. 28, 2004, as amended at 70 FR 7177, Feb. 11, 2005; 73 FR 37839, July 2, 2008; 78 FR 42875, July 18, 2013; 81 FR 62373, Sept. 9, 2016; 82 FR 9359, Feb. 6, 2017; 82 FR 21697, May 10, 2017]
+[69 FR 77636, Dec. 28, 2004, as amended at 70 FR 7177, Feb. 11, 2005; 73 FR 37839, July 2, 2008; 78 FR 42875, July 18, 2013; 81 FR 62373, Sept. 9, 2016; 82 FR 9359, Feb. 6, 2017; 82 FR 21697, May 10, 2017; 85 FR 19668, Apr. 8, 2020]

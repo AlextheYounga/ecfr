@@ -78,7 +78,7 @@
 
 (4) Where a successor or assignee claims the renewal right from the same statutory claimant as does another successor or assignee, the Copyright Office may inquire concerning the situation and, if appropriate, may allow adverse renewal claims from the successors/assignees to be placed on the public record. In such cases, correspondence between the parties filing competing renewal claims and the Copyright Office will be, as always, maintained within Office records and subject to public inspection according to regulations found at 37 CFR 201.2.
 
-(g) *Application for renewal registration for a work registered in its original 28-year term.* (1) Each application for renewal registration shall be submitted on Form RE. All forms are available free of charge via the Internet by accessing the Copyright Office website at: *http://www.copyright.gov*. Copies of Form RE are also available free upon request. Requests should be mailed to the address specified in § 201.1(b) of this chapter.
+(g) *Application for renewal registration for a work registered in its original 28-year term.* (1) Each application for renewal registration shall be submitted on Form RE. All forms are available free of charge via the Internet by accessing the Copyright Office website at: *http://www.copyright.gov*. Copies of Form RE are also available free upon request. Requests should be sent in the manner prescribed in § 201.1(b) of this chapter.
 
 (2)(i) An application for renewal registration may be submitted by any eligible statutory renewal claimant as specified in paragraph (e) of this section or by the duly authorized agent of such claimant, or by the successor or assignee of such claimant as provided under paragraph (f) of this section or by the duly authorized agent of such successor or assignee.
 
@@ -94,7 +94,7 @@
 
 (3) Once a renewal registration has been made, the Copyright Office will not accept another application for renewal registration on behalf of the same renewal claimant.
 
-(h) *Renewal with addendum registration for an unregistered work* - (1) *General.* For published works copyrighted from January 1, 1964, through December 31, 1977, where no registration was made during the original term of copyright and where renewal registration is sought during the 67-year renewal term, the Form RE/Addendum must be used to provide information concerning the original term of copyright. The Form RE/Addendum requires a separate fee and the deposit of one copy or phonorecord of the work as first published (or identifying material in lieu of a copy or phonorecord). The effective date of registration for a renewal claim submitted on a Form RE/Addendum is the date the Copyright Office receives an acceptable completed application, the required fees, and an acceptable deposit for the work.
+(h) *Renewal with addendum registration for an unregistered work*—(1) *General.* For published works copyrighted from January 1, 1964, through December 31, 1977, where no registration was made during the original term of copyright and where renewal registration is sought during the 67-year renewal term, the Form RE/Addendum must be used to provide information concerning the original term of copyright. The Form RE/Addendum requires a separate fee and the deposit of one copy or phonorecord of the work as first published (or identifying material in lieu of a copy or phonorecord). The effective date of registration for a renewal claim submitted on a Form RE/Addendum is the date the Copyright Office receives an acceptable completed application, the required fees, and an acceptable deposit for the work.
 
 (2) *Time Limits.* A renewal claim accompanied by an Addendum to Form RE may be filed at any time during the 67-year renewal term.
 
@@ -130,4 +130,4 @@
 
 (iii) Identifying material including a reproduction of the greatest feasible portion of the copyrightable content of a work including a photocopy or photograph of the title page, title screen, record label or the like, as first published, and a photocopy or photograph showing the copyright notice content and location as first published. The Copyright Office may request deposit of additional material if the initial submission is inadequate for examination purposes.
 
-[72 FR 61803, Nov. 1, 2007, as amended at 73 FR 37839, July 2, 2008; 78 FR 42875, July 18, 2013; 82 FR 9360, Feb. 6, 2017; 83 FR 66629, Dec. 27, 2018]
+[72 FR 61803, Nov. 1, 2007, as amended at 73 FR 37839, July 2, 2008; 78 FR 42875, July 18, 2013; 82 FR 9360, Feb. 6, 2017; 83 FR 66629, Dec. 27, 2018; 85 FR 19668, Apr. 8, 2020]

@@ -32,7 +32,7 @@
 
 *Cyber incident* means actions taken through the use of computer networks that result in a compromise or an actual or potentially adverse effect on an information system and/or the information residing therein.
 
-*Departments and agencies,* as used in DFARS, means the military departments and the defense agencies. The military departments are the Departments of the Army, Navy, and Air Force (the Marine Corps is a part of the Department of the Navy). The defense agencies are the Defense Advanced Research Projects Agency, the Defense Commissary Agency, the Defense Contract Management Agency, the Defense Finance and Accounting Service, the Defense Information Systems Agency, the Defense Intelligence Agency, the Defense Logistics Agency, the Defense Security Cooperation Agency, the Defense Security Service, the Defense Threat Reduction Agency, the Missile Defense Agency, the National Geospatial-Intelligence Agency, the National Security Agency, the United States Special Operations Command, and the United States Transportation Command.
+*Departments and agencies,* as used in DFARS, means the military departments and the defense agencies. The military departments are the Departments of the Army, Navy, and Air Force (the Marine Corps is a part of the Department of the Navy). The defense agencies are the Defense Advanced Research Projects Agency, the Defense Commissary Agency, the Defense Contract Management Agency, the Defense Counterintelligence and Security Agency, the Defense Finance and Accounting Service, the Defense Health Agency, the Defense Information Systems Agency, the Defense Intelligence Agency, the Defense Logistics Agency, the Defense Threat Reduction Agency, the Missile Defense Agency, the National Geospatial-Intelligence Agency, the National Security Agency, the Space Development Agency, the United States Cyber Command, the United States Special Operations Command, the United States Transportation Command, and the Washington Headquarters Service.
 
 *Department of Defense (DoD),* as used in DFARS, means the Department of Defense, the military departments, and the defense agencies.
 
@@ -61,6 +61,8 @@
 *Milestone decision authority,* with respect to a major defense acquisition program, major automated information system, or major system, means the official within the Department of Defense designated with the overall responsibility and authority for acquisition decisions for the program or system, including authority to approve entry of the program or system into the next phase of the acquisition process (10 U.S.C. 2431a).
 
 *Non-Government sales* means sales of the supplies or services to non-Governmental entities for purposes other than governmental purposes.
+
+*Nontraditional defense contractor* means an entity that is not currently performing and has not performed any contract or subcontract for DoD that is subject to full coverage under the cost accounting standards prescribed pursuant to 41 U.S.C. 1502 and the regulations implementing such section, for at least the 1-year period preceding the solicitation of sources by DoD for the procurement (10 U.S.C. 2302(9)).
 
 *Obsolete electronic part* means an electronic part that is no longer available from the original manufacturer or an authorized aftermarket manufacturer.
 

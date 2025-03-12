@@ -1,10 +1,10 @@
-##### 252.232-7005 Reimbursement of subcontractor advance payments - DoD pilot mentor-protégé program. #####
+##### 252.232-7005 Reimbursement of subcontractor advance payments—DoD pilot mentor-protégé program. #####
 
-As prescribed in 232.412-70(c), use the following clause:
+As prescribed in 232.412-70(b), use the following clause:
 
-Reimbursement of Subcontractor Advance Payments - DoD Pilot Mentor-Protégé Program (SEP 2001)
+Reimbursement of Subcontractor Advance Payments—DoD Pilot Mentor-Protégé Program (SEP 2001)
 
-(a) The Government will reimburse the Contractor for any advance payments made by the Contractor, as a mentor firm, to a protégé firm, pursuant to an approved mentor-protégé agreement, provided -
+(a) The Government will reimburse the Contractor for any advance payments made by the Contractor, as a mentor firm, to a protégé firm, pursuant to an approved mentor-protégé agreement, provided—
 
 (1) The Contractor's subcontract with the protégé firm includes a provision substantially the same as FAR 52.232-12, Advance Payments;
 
@@ -16,4 +16,4 @@ Reimbursement of Subcontractor Advance Payments - DoD Pilot Mentor-Protégé Pro
 
 (c) For cost reimbursable, contracts, reimbursement of advance payments shall be made via public voucher. The Contractor shall show the amounts of advance payments made to each protégé on the public voucher, in the form and detail directed by the cognizant contracting officer or contract auditor.
 
-(End of clause)[56 FR 67221, Dec. 30, 1991, as amended at 57 FR 53602, Nov. 12, 1992; 66 FR 47109, Sept. 11, 2001]
+(End of clause)[56 FR 67221, Dec. 30, 1991, as amended at 57 FR 53602, Nov. 12, 1992; 66 FR 47109, Sept. 11, 2001; 85 FR 19700, Apr. 8, 2020]

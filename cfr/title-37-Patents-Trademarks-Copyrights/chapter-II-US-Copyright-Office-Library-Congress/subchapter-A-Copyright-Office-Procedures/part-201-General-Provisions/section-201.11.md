@@ -50,7 +50,7 @@
 
 (8) The name, address, business title, and telephone number of the individual or individuals to be contacted for information or questions concerning the content of the Statement of Account.
 
-(9) The handwritten signature of:
+(9) A legally binding signature, including an electronic signature as defined in 15 U.S.C. 7006, of:
 
 (i) The owner of the satellite carrier or a duly authorized agent of the owner, if the owner is not a partnership or a corporation; or
 
@@ -136,4 +136,4 @@ I, the undersigned Owner or Agent of the Satellite Carrier, or Officer or Partne
 
 (3) Interest is not required to be paid on any royalty underpayment or late payment from a particular accounting period if the interest charge is less than or equal to five dollars ($5.00).
 
-[54 FR 27877, July 3, 1989, as amended at 55 FR 49998, Dec. 4, 1990; 56 FR 29589, June 28, 1991; 57 FR 61834, Dec. 29, 1992; 59 FR 67635, Dec. 30, 1994; 60 FR 34168, June 30, 1995; 60 FR 57937, Nov. 24, 1995; 63 FR 30635, June 5, 1998; 64 FR 36574, July 7, 1999; 70 FR 30366, May 26, 2005; 70 FR 38022, July 1, 2005; 71 FR 45739, Aug. 10, 2006; 72 FR 33691, June 19, 2007; 73 FR 29072, May 20, 2008; 75 FR 56872, Sept. 17, 2010; 78 FR 42874, July 18, 2013; 82 FR 9357, Feb. 6, 2017; 83 FR 51841, Oct. 15, 2018]
+[54 FR 27877, July 3, 1989, as amended at 55 FR 49998, Dec. 4, 1990; 56 FR 29589, June 28, 1991; 57 FR 61834, Dec. 29, 1992; 59 FR 67635, Dec. 30, 1994; 60 FR 34168, June 30, 1995; 60 FR 57937, Nov. 24, 1995; 63 FR 30635, June 5, 1998; 64 FR 36574, July 7, 1999; 70 FR 30366, May 26, 2005; 70 FR 38022, July 1, 2005; 71 FR 45739, Aug. 10, 2006; 72 FR 33691, June 19, 2007; 73 FR 29072, May 20, 2008; 75 FR 56872, Sept. 17, 2010; 78 FR 42874, July 18, 2013; 82 FR 9357, Feb. 6, 2017; 83 FR 51841, Oct. 15, 2018; 85 FR 19667, Apr. 8, 2020]

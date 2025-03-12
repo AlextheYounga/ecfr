@@ -22,4 +22,6 @@
 
 (d) *Advanced assessments and commercial loans.* To provide funds for the administration of the provisions of this part during the part of a fiscal period when neither sufficient operating reserve funds nor sufficient revenue from assessments on the current season's certifications are available, the Board may accept payment of assessments in advance or may borrow money from a commercial lending institution for such purposes.
 
+(e) *Termination.* Any money collected from assessments hereunder and remaining unexpended in the possession of the Board upon termination of this part shall be distributed in such manner as the Secretary may direct.
+
 [27 FR 9094, Sept. 13, 1962, as amended at 41 FR 31544, July 29, 1976; 73 FR 11339, Mar. 3, 2008; 83 FR 21843, June 11, 2018]

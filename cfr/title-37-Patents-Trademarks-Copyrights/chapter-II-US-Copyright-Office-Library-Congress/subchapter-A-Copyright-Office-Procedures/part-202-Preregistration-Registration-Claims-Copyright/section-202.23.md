@@ -10,7 +10,7 @@
 
 (b) *Form and content of request for full term retention* - (1) *Forms.* The Copyright Office does not provide printed forms for the use of persons requesting full term retention of copyright deposits.
 
-(2) Requests for full term retention must be made in writing addressed to the Director of the Office of Public Records and Repositories at the address specified in § 201.1(b)(1) of this chapter, and shall be signed by or on behalf of the depositor or copyright owner of record, and clearly indicate that full term retention is desired.
+(2) Requests for full term retention must be made in writing addressed to the Director of the Office of Public Records and Repositories in the manner prescribed specified in § 201.1(b)(1) of this chapter, and shall include a legally binding signature, including an electronic signature as defined in 15 U.S.C. 7006, of or on behalf of the depositor or copyright owner of record, and clearly indicate that full term retention is desired.
 
 (3) The request for full term retention must adequately identify the particular copyright deposit to be retained, preferably by including the title used in the registration application, the name of the depositor or copyright owner of record, the publication date, and, if registration was completed earlier, the registration number.
 
@@ -46,4 +46,4 @@
 
 (g) *Termination of full term storage.* Full term storage will cease 75 years after the date of publication of the work identified by the copyright deposit retained, and the copyright deposit will be disposed of in accordance with section 704, paragraphs (b) through (d), of title 17 of the United States Code.
 
-[52 FR 28822, Aug. 4, 1987, as amended at 60 FR 34168, June 30, 1995; 63 FR 29139, May 28, 1998; 64 FR 29522, June 1, 1999; 64 FR 36575, July 7, 1999; 65 FR 39819, June 28, 2000; 73 FR 37839, July 2, 2008; 82 FR 9362, Feb. 6, 2017]
+[52 FR 28822, Aug. 4, 1987, as amended at 60 FR 34168, June 30, 1995; 63 FR 29139, May 28, 1998; 64 FR 29522, June 1, 1999; 64 FR 36575, July 7, 1999; 65 FR 39819, June 28, 2000; 73 FR 37839, July 2, 2008; 82 FR 9362, Feb. 6, 2017; 85 FR 19668, Apr. 8, 2020]

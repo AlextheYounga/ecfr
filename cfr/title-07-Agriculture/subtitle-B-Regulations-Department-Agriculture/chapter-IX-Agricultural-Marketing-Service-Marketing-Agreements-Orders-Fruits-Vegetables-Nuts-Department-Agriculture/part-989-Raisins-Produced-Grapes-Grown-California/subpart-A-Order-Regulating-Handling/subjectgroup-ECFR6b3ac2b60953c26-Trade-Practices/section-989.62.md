@@ -6,6 +6,6 @@ Whenever the Secretary finds, upon recommendation of the Committee or other info
 
 (b)(1) Any agreement in an undertaking to hold raisins in reserve for possible future delivery to a buyer, or action or agreement outside such undertaking, whereby the handler is obligated to not reflect increases in market prices by charging the buyer a price specified in the agreement.
 
-(2)Prior to any such practices being prohibited in any crop year, the Committee shall recommend, for the approval of the Secretary, such rules and procedures and such record keeping requirements as are necessary to administer these prohibitions and obtain compliance therewith.
+(2) Prior to any such practices being prohibited in any crop year, the Committee shall recommend, for the approval of the Secretary, such rules and procedures and such record keeping requirements as are necessary to administer these prohibitions and obtain compliance therewith.
 
 25 FR 12813, Dec. 14, 1960; 27 FR 2506, Mar. 16, 1962, as amended at 84 FR 30863, June 28, 2019]

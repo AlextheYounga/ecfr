@@ -1,5 +1,5 @@
 ##### 232.903 Responsibilities. #####
 
-DoD policy is to assist small business concerns by paying them as quickly as possible after invoices and all proper documentation, including acceptance, are received and before normal payment due dates established in the contract (*see* 232.906(a)).
+In accordance with section 852 of the National Defense Authorization Act for Fiscal Year 2019 (Pub. L. 115-232), DoD shall assist small business concerns by providing payment as quickly as possible, to the fullest extent permitted by law, with a goal of 15 days after receipt of proper invoices and all required documentation, including acceptance, and before normal payment due dates established in the contract (see 232.906(a)).
 
-[76 FR 23506, Apr. 27, 2011]
+[85 FR 19697, Apr. 8, 2020]

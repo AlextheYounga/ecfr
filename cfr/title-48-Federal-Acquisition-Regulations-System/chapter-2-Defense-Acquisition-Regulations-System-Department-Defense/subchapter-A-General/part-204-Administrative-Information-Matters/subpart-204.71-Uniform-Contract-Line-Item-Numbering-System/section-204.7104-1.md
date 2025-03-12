@@ -8,7 +8,7 @@ Contract subline items provide flexibility to further identify elements within a
 
 (3) Informational subline items shall be used to identify each accounting classification citation assigned to a single contract line item number when use of multiple citations is authorized (see 204.7103-1(a)(4)(ii)).
 
-(b) *Separately identified subline items.* (1) Subline items will be used instead of contract line items to facilitate payment, delivery tracking, contract funds accounting, or other management purposes. Such subline items shall be used when items bought under one contract line item number -
+(b) *Separately identified subline items.* (1) Subline items will be used instead of contract line items to facilitate payment, delivery tracking, contract funds accounting, or other management purposes. Such subline items shall be used when items bought under one contract line item number—
 
 (i) Are to be paid for from more than one accounting classification. A subline item shall be established for the quantity associated with the single accounting classification citation. Establish a line item rather than a subline item if it is likely that a subline item may be assigned additional accounting classification citations at a later date. Identify the funding as described in 204.7104-1(a)(3);
 
@@ -18,17 +18,17 @@ Contract subline items provide flexibility to further identify elements within a
 
 (iv) Have different delivery dates or destinations or requisitions, or a combination of the three; or
 
-(v) Identify parts of an assembly or kit which -
+(v) Identify parts of an assembly or kit which—
 
 (A) Have to be separately identified at the time of shipment or performance; and
 
 (B) Are separately priced.
 
-(2) Each separately identified contract subline item shall have its own -
+(2) Each separately identified contract subline item shall have its own—
 
 (i) Delivery schedule, period of performance, or completion date;
 
-(ii) Unit price or single total price or amount (not separately priced (NSP) is acceptable as an entry for price or amount if the price is included in another subline item or a different contract line item). This requirement does not apply -
+(ii) Unit price or single total price or amount (not separately priced (NSP) is acceptable as an entry for price or amount if the price is included in another subline item or a different contract line item). This requirement does not apply—
 
 (A) If the subline item was created to refer to an exhibit or an attachment. If management needs dictate that a unit price be entered, the price shall be set forth in the item description block of the schedule and enclosed in parentheses; or
 
@@ -42,8 +42,8 @@ Contract subline items provide flexibility to further identify elements within a
 
 (ii) The unit price and extended amounts may be entered at the subline items level.
 
-(iii) The two methods in paragraphs (b)(3) (i) and (ii) of this subsection shall not be combined in a contract line item.
+(iii) The two methods in paragraphs (b)(3) (i) and (ii) of this section shall not be combined in a contract line item.
 
-(iv) When the price for items not separately priced is included in the price of another subline item or contract line item, it may be necessary to withhold payment on the priced subline item until all the related subline items that are not separately priced have been delivered. In those cases, use the clause at 252.204-7002, Payment for Subline Items Not Separately Priced.
+(iv) When the price for items not separately priced is included in the price of another contract line or subline item, it may be necessary to withhold payment on the priced contract line or subline item until the included line or subline items that are not separately priced have been delivered. See the clause at 252.204-7002, Payment for Contract Line or Subline Items Not Separately Priced.
 
-[56 FR 36289, July 31, 1991, as amended at 60 FR 34468, July 3, 1995; 68 FR 75200, Dec. 30, 2003]
+[56 FR 36289, July 31, 1991, as amended at 60 FR 34468, July 3, 1995; 68 FR 75200, Dec. 30, 2003; 85 FR 19692, Apr. 8, 2020]

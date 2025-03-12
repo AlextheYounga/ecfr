@@ -56,7 +56,7 @@
 
 (6) The person or entity that Libraries and Archives may contact concerning the work's normal commercial exploitation or availability at reasonable price is the same for all the works.
 
-(g) *Filing* - (1) *Method of filing.* The Notice to Libraries and Archives of Normal Commercial Exploitation or Availability at Reasonable Price should be addressed to NLA, at the address specified in § 201.1.
+(g) *Filing* - (1) *Method of filing.* The Notice to Libraries and Archives of Normal Commercial Exploitation or Availability at Reasonable Price should be addressed to NLA, in the manner prescribed in § 201.1.
 
 (2) *Amount.* The filing fee for recording Notice to Libraries and Archives is prescribed in § 201.3(d).
 
@@ -118,4 +118,4 @@ Additional Content (OPTIONAL):
 
 6. Additional information concerning the work's normal commercial exploitation or availability at a reasonable price: \_\_\_\_\_\_\_\_\_\_.
 
-[63 FR 71787, Dec. 30, 1998, as amended at 66 FR 34373, June 28, 2001; 71 FR 31092, June 1, 2006; 73 FR 37839, July 2, 2008; 78 FR 42874, July 18, 2013; 82 FR 9359, Feb. 6, 2017]
+[63 FR 71787, Dec. 30, 1998, as amended at 66 FR 34373, June 28, 2001; 71 FR 31092, June 1, 2006; 73 FR 37839, July 2, 2008; 78 FR 42874, July 18, 2013; 82 FR 9359, Feb. 6, 2017; 85 FR 19667, Apr. 8, 2020]

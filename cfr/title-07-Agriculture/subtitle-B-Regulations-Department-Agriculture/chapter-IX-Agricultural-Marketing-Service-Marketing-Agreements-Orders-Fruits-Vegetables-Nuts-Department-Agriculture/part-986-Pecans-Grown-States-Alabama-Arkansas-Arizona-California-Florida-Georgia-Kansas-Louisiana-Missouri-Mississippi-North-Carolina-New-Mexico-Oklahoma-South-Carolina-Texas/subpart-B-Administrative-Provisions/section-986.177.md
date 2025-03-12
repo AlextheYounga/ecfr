@@ -1,5 +1,7 @@
 ##### § 986.177 Reports of pecans received by handlers. #####
 
+Link to an amendment published at 85 FR 19654, Apr. 8, 2020.
+
 (a) *Summary report U.S. pecans received for your own account.* Handlers shall submit to the Council, by the tenth day of the month, a summary report of inshell domestic pecans received during the preceding month. Should the tenth day of the month fall on a weekend or holiday, reports are due by the first business day following the tenth day of the month. The report shall be submitted to the Council on APC Form 1 and contain the following information:
 
 (1) The name and address of the handler;

@@ -1,4 +1,4 @@
-##### 204.1202 Solicitation provision. #####
+##### 204.1202 Solicitation provision and contract clause. #####
 
 When using the provision at FAR 52.204-8, Annual Representations and Certifications -
 
@@ -34,6 +34,8 @@ When using the provision at FAR 52.204-8, Annual Representations and Certificati
 
 (xiv) 252.229-7013, Tax Exemptions (Spain) - Representation.
 
-(xv) 252.247-7022, Representation of Extent of Transportation by Sea.
+(xv) 252.232-7015, Performance-Based Payments - Representation.
 
-[76 FR 58141, Sept. 20, 2011, as amended at 77 FR 19129, Mar. 30, 2012; 77 FR 35879, June 15, 2012; 78 FR 37983, June 25, 2013; 78 FR 40043, July 3, 2013; 79 FR 45664, Aug. 5, 2014; 79 FR 51264, Aug. 28, 2014; 79 FR 73489, Dec. 11, 2014; 80 FR 5000, Jan. 29, 2015; 83 FR 24888, May 30, 2018; 83 FR 66071, Dec. 21, 2018; 84 FR 30947, June 28, 2019; 84 FR 72236, 72559, Dec. 31, 2019]
+(xvi) 252.247-7022, Representation of Extent of Transportation by Sea.
+
+[76 FR 58141, Sept. 20, 2011, as amended at 77 FR 19129, Mar. 30, 2012; 77 FR 35879, June 15, 2012; 78 FR 37983, June 25, 2013; 78 FR 40043, July 3, 2013; 79 FR 45664, Aug. 5, 2014; 79 FR 51264, Aug. 28, 2014; 79 FR 73489, Dec. 11, 2014; 80 FR 5000, Jan. 29, 2015; 83 FR 24888, May 30, 2018; 83 FR 66071, Dec. 21, 2018; 84 FR 30947, June 28, 2019; 84 FR 72236, 72559, Dec. 31, 2019; 85 FR 19687, Apr. 8, 2020]

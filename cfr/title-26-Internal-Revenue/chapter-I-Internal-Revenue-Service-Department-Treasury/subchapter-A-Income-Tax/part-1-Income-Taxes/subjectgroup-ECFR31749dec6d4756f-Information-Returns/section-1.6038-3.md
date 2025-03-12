@@ -102,6 +102,8 @@ Example.US is a U.S. citizen. *US* owns 100% of the stock of *DC,* a domestic co
 
 (v) Any other information Form 8865 or its accompanying instructions require controlling fifty-percent partners to submit.
 
+(3) *Amounts involving hybrid transactions or hybrid entities under section 267A.* In addition to the information required pursuant to paragraphs (g)(1) and (2) of this section, if, during the partnership's taxable year for which the Form 8865 is being filed, the partnership paid or accrued interest or royalties for which a deduction is disallowed under section 267A and the regulations in this part under section 267A, the controlling fifty-percent partners must provide information about the disallowance in the form and manner and to the extent prescribed by Form 8865 (or successor form), instruction, publication, or other guidance.
+
 (h) *Method of reporting.* Except as otherwise provided on Form 8865 or the accompanying instructions, all amounts required to be furnished on Form 8865 must be expressed in United States dollars. All statements required on or with Form 8865 pursuant to this section must be in English.
 
 (i) *Time and place for filing return* - (1) *In general.* Form 8865 must be filed with the United States person's income tax return on or before the due date (including extensions) of that return. If the United States person is not required to file an income tax return for its tax year with which or within which the foreign partnership's tax year ends, but is required to file an information return for that year (for example, Form 1065, “U.S. Partnership Return of Income,” or Form 990, “Return of Organization Exempt from Income Tax”), the Form 8865 must be filed with the United States person's information return filed on or before the due date (including extensions) of that return.
@@ -138,6 +140,6 @@ Example.US is a U.S. citizen. *US* owns 100% of the stock of *DC,* a domestic co
 
 (5) *Statute of limitations.* For exceptions to the limitations on assessment in the event of a failure to provide information under section 6038, see section 6501(c)(8).
 
-(1) *Effective date.* Except as otherwise provided, this section shall apply for tax years of a foreign partnership ending on or after December 31, 2000. For tax years of a foreign partnership ending before December 23, 2002, *see* § 1.6038-3(j) in effect prior to the amendments made by T.D. 9033 (see 26 CFR part 1 revised April 1, 2002).
+(l) *Applicability dates.* Except as otherwise provided, this section shall apply for tax years of a foreign partnership ending on or after December 31, 2000. For tax years of a foreign partnership ending before December 23, 2002, *see* § 1.6038-3(j) in effect prior to the amendments made by T.D. 9033 (see 26 CFR part 1 revised April 1, 2002). Paragraph (g)(3) of this section applies for taxable years of a foreign partnership beginning on or after December 20, 2018.
 
-[T.D. 8850, 64 FR 72550, Dec. 28, 1999, as amended by T.D. 9033, 67 FR 78175, Dec. 23, 2002; T.D. 9065, 68 FR 39012, July 1, 2003]
+[T.D. 8850, 64 FR 72550, Dec. 28, 1999, as amended by T.D. 9033, 67 FR 78175, Dec. 23, 2002; T.D. 9065, 68 FR 39012, July 1, 2003; T.D. 9896, 85 FR 19857, Apr. 8, 2020]

@@ -44,7 +44,7 @@
 
 (B) If the restored work is published on the same day in two or more eligible countries, the eligible country which has the most significant contacts with the work.
 
-(c) *Forms.* The Copyright Office does not provide forms for Notices of Intent to Enforce filed with the Copyright Office. It requests that filers of such notices follow the format set out in Appendix A of this section and give all of the information listed in paragraph (d) of this section. Notices of Intent to Enforce must be in English, and should be typed or printed by hand legibly in dark, preferably black, ink, on 81/2 by 11 inch white paper of good quality, with at least a one inch (or three cm) margin.
+(c) *Forms.* The Copyright Office does not provide forms for Notices of Intent to Enforce filed with the Copyright Office. It requests that filers of such notices follow the format set out in Appendix A of this section and give all of the information listed in paragraph (d) of this section. Notices of Intent to Enforce must be in English, legible, and submitted in a letter-sized document format.
 
 (d) *Requirements for Notice of Intent to Enforce a Copyright Restored under the Uruguay Round Agreements Act.* (1) Notices of Intent to Enforce should be mailed to the address specified in § 201.1.
 
@@ -120,4 +120,4 @@ Signature:Name (printed or typed):As agent for (if applicable):Date:Note:
 
 Notices of Intent to Enforce must be in English, except for the original title, and either typed or printed by hand legibly in dark, preferably black, ink. They should be on 81/2″ by 11″ white paper of good quality, with at least a 1-inch (or 3 cm) margin.
 
-[60 FR 50420, Sept. 29, 1995, as amended at 63 FR 30635, June 5, 1998; 64 FR 12902, Mar. 16, 1999; 71 FR 31092, June 1, 2006; 73 FR 37839, July 1, 2008; 78 FR 42874, July 18, 2013; 82 FR 9358, Feb. 6, 2017]
+[60 FR 50420, Sept. 29, 1995, as amended at 63 FR 30635, June 5, 1998; 64 FR 12902, Mar. 16, 1999; 71 FR 31092, June 1, 2006; 73 FR 37839, July 1, 2008; 78 FR 42874, July 18, 2013; 82 FR 9358, Feb. 6, 2017; 85 FR 19667, Apr. 8, 2020]

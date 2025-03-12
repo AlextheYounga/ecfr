@@ -98,7 +98,7 @@
 
 (6) *Credits for returned or exported products.* When digital audio recording products first distributed in the United States for ultimate transfer to United States consumers are returned to the manufacturer or importer as unsold or defective merchandise, or are exported, the manufacturing or importing party may take a credit to be deducted from the royalties payable for the period when the products were returned or exported. The credit may be taken only for returns or exports made within two years following the date royalties were paid for the products. This credit must be reflected in the manufacturing or importing party's quarterly or annual Statement of Account. If the manufacturer or importer later redistributes in the United States any products for which a credit has been taken, these products must be listed on the Statement of Account, and a new computation of the royalty fee must be made based on the transfer price of the products at the time of the new distribution.
 
-(7) *Oath and signature.* Each Statement of Account shall include the handwritten signature of an authorized officer, principal, or agent of the filing party. The signature shall be accompanied by:
+(7) *Oath and signature.* Each Statement of Account shall include a legally binding signature, including an electronic signature as defined in 15 U.S.C. 7006, of an authorized officer, principal, or agent of the filing party. The signature shall be accompanied by:
 
 (i) The printed or typewritten name of the person signing the quarterly Statement of Account;
 
@@ -192,4 +192,4 @@ Penalties for fraud and false statements are provided under 18 U.S.C. 1001 *et. 
 
 (m) *Confidentiality of Statements of Account.* Public access to the Copyright Office files of Statements of Account for digital audio recording products shall not be provided. Access will only be granted to interested copyright parties in accordance with regulations prescribed by the Register of Copyrights pursuant to 17 U.S.C. 1003(c).
 
-[59 FR 4589, Feb. 1, 1994, as amended at 64 FR 36575, July 7, 1999; 65 FR 48914, Aug. 10, 2000; 70 FR 30367, May 26, 2005; 70 FR 38022, July 1, 2005; 71 FR 45740, Aug. 10, 2006; 72 FR 33692, June 19, 2007; 73 FR 29073, May 20, 2008; 82 FR 9358, Feb. 6, 2017; 83 FR 51841, Oct. 15, 2018]
+[59 FR 4589, Feb. 1, 1994, as amended at 64 FR 36575, July 7, 1999; 65 FR 48914, Aug. 10, 2000; 70 FR 30367, May 26, 2005; 70 FR 38022, July 1, 2005; 71 FR 45740, Aug. 10, 2006; 72 FR 33692, June 19, 2007; 73 FR 29073, May 20, 2008; 82 FR 9358, Feb. 6, 2017; 83 FR 51841, Oct. 15, 2018; 85 FR 19667, Apr. 8, 2020]

@@ -16,7 +16,7 @@
 
 (6) *Inedible almonds unfit for processing.* All lots received from growers as “inedible almonds unfit for processing,” shall be exempt from the requirements of paragraphs (a) (1) and (3) of this section, but shall be disposed of in their entirety (other than as pickouts), as provided in paragraph (a)(5) of this section. Disposition of these lots shall not be credited toward the disposition obligation of paragraph (a)(4) of this section. If a grower sells or ships inedible almonds to a person other than a handler, the grower thereby becomes a handler and subject to all the requirements of this paragraph.
 
-(7) *Accepted Users.* An accepted user's eligibility shall be subject to the following criteria:
+(7) *Accepted users.* An accepted user's eligibility shall be subject to the following criteria:
 
 (i) Annual completion of an application with the Board for accepted user status;
 
