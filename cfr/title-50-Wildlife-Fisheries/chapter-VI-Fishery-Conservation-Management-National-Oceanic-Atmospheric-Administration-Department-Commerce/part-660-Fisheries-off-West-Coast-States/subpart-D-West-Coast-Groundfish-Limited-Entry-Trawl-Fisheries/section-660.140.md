@@ -122,37 +122,39 @@
 
 (D) For the trawl fishery, NMFS will issue QP based on the following shorebased trawl allocations:
 
-|        IFQ species         |        Area         |2019 Shorebased trawl allocation  <br/>(mt)|2020 Shorebased trawl allocation  <br/>(mt)|
-|----------------------------|---------------------|-------------------------------------------|-------------------------------------------|
-|    Arrowtooth flounder     |      Coastwide      |                 12,735.10                 |                 10,052.30                 |
-|          Bocaccio          |South of 40°10′ N lat|                   800.7                   |                   767.1                   |
-|      Canary rockfish       |      Coastwide      |                   953.6                   |                   894.3                   |
-|        Chilipepper         |South of 40°10′ N lat|                 1,838.30                  |                 1,743.80                  |
-|           COWCOD           |South of 40°10′ N lat|                    2.2                    |                    2.2                    |
-|   Darkblotched rockfish    |      Coastwide      |                   658.4                   |                   703.4                   |
-|         Dover sole         |      Coastwide      |                 45,979.20                 |                 45,979.20                 |
-|        English sole        |      Coastwide      |                 9,375.10                  |                 9,417.90                  |
-|          Lingcod           |North of 40°10′ N lat|                 2,051.90                  |                 1,903.40                  |
-|          Lingcod           |South of 40°10′ N lat|                   462.5                   |                    386                    |
-|    Longspine thornyhead    |North of 34°27′ N lat|                 2,420.00                  |                 2,293.60                  |
-|Minor Shelf Rockfish complex|North of 40°10′ N lat|                 1,155.20                  |                 1,151.60                  |
-|Minor Shelf Rockfish complex|South of 40°10′ N lat|                   188.6                   |                   188.6                   |
-|Minor Slope Rockfish complex|North of 40°10′ N lat|                 1,248.80                  |                 1,237.50                  |
-|Minor Slope Rockfish complex|South of 40°10′ N lat|                  456.00                   |                   455.4                   |
-|   Other Flatfish complex   |      Coastwide      |                 5,603.70                  |                 5,192.40                  |
-|        Pacific cod         |      Coastwide      |                 1,034.10                  |                 1,034.10                  |
-|    Pacific ocean perch     |North of 40°10′ N lat|                 3,697.30                  |                 3,602.20                  |
-|      Pacific whiting       |      Coastwide      |                    TBD                    |                    TBD                    |
-|        Petrale sole        |      Coastwide      |                 2,453.00                  |                 2,393.20                  |
-|         Sablefish          | North of 36° N; lat |                 2,581.30                  |                 2,636.80                  |
-|         Sablefish          | South of 36° N lat  |                    834                    |                   851.7                   |
-|   Shortspine thornyhead    |North of 34°27′ N lat|                  1,506.8                  |                  1,493.5                  |
-|   Shortspine thornyhead    |South of 34°27′ N lat|                    50                     |                    50                     |
-|     Splitnose rockfish     |South of 40°10′ N lat|                 1,646.70                  |                 1,628.70                  |
-|      Starry flounder       |      Coastwide      |                   211.6                   |                   211.6                   |
-|       Widow rockfish       |      Coastwide      |                 9,928.80                  |                 9,387.10                  |
-|     YELLOWEYE ROCKFISH     |      Coastwide      |                    3.4                    |                    3.4                    |
-|    Yellowtail rockfish     |North of 40°10′ N lat|                 4,305.80                  |                 4,048.00                  |
+Table 1 to Paragraph (d)(1)(ii)(D)
+
+|        IFQ species         |        Area         |2019 Shorebased  <br/>trawl allocation  <br/>(mt)|2020 Shorebased  <br/>trawl allocation  <br/>(mt)|
+|----------------------------|---------------------|-------------------------------------------------|-------------------------------------------------|
+|    Arrowtooth flounder     |      Coastwide      |                    12,735.1                     |                    10,052.3                     |
+|          Bocaccio          |South of 40°10′ N lat|                      800.7                      |                      767.1                      |
+|      Canary rockfish       |      Coastwide      |                      953.6                      |                      894.3                      |
+|        Chilipepper         |South of 40°10′ N lat|                     1,838.3                     |                     1,743.8                     |
+|           COWCOD           |South of 40°10′ N lat|                       2.2                       |                       2.2                       |
+|   Darkblotched rockfish    |      Coastwide      |                      658.4                      |                      703.4                      |
+|         Dover sole         |      Coastwide      |                    45,979.2                     |                    45,979.2                     |
+|        English sole        |      Coastwide      |                     9,375.1                     |                     9,417.9                     |
+|          Lingcod           |North of 40°10′ N lat|                     2,051.9                     |                     1,903.4                     |
+|          Lingcod           |South of 40°10′ N lat|                      462.5                      |                      386.0                      |
+|    Longspine thornyhead    |North of 34°27′ N lat|                     2,420.0                     |                     2,293.6                     |
+|Minor Shelf Rockfish complex|North of 40°10′ N lat|                     1,155.2                     |                     1,151.6                     |
+|Minor Shelf Rockfish complex|South of 40°10′ N lat|                      188.6                      |                      188.6                      |
+|Minor Slope Rockfish complex|North of 40°10′ N lat|                     1,248.8                     |                     1,237.5                     |
+|Minor Slope Rockfish complex|South of 40°10′ N lat|                      456.0                      |                      455.4                      |
+|   Other Flatfish complex   |      Coastwide      |                     5,603.7                     |                     5,192.4                     |
+|        Pacific cod         |      Coastwide      |                     1,034.1                     |                     1,034.1                     |
+|    Pacific ocean perch     |North of 40°10′ N lat|                     3,697.3                     |                     3,602.2                     |
+|      Pacific whiting       |      Coastwide      |                    152,326.5                    |                       TBD                       |
+|        Petrale sole        |      Coastwide      |                     2,453.0                     |                     2,393.2                     |
+|         Sablefish          | North of 36° N lat  |                     2,581.3                     |                     2,636.8                     |
+|         Sablefish          | South of 36° N lat  |                      834.0                      |                      851.7                      |
+|   Shortspine thornyhead    |North of 34°27′ N lat|                     1,506.8                     |                     1,493.5                     |
+|   Shortspine thornyhead    |South of 34°27′ N lat|                      50.0                       |                      50.0                       |
+|     Splitnose rockfish     |South of 40°10′ N lat|                     1,646.7                     |                     1,628.7                     |
+|      Starry flounder       |      Coastwide      |                      211.6                      |                      211.6                      |
+|       Widow rockfish       |      Coastwide      |                     9,928.8                     |                     9,387.1                     |
+|     YELLOWEYE ROCKFISH     |      Coastwide      |                       3.4                       |                       3.4                       |
+|    Yellowtail rockfish     |North of 40°10′ N lat|                     4,305.8                     |                     4,048.0                     |
 
 (2) *Eligibility and registration* - (i) *Eligibility.* Only the following persons are eligible to own QS permits:
 
