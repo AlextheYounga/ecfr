@@ -1,5 +1,7 @@
 ##### § 34.83 Disposition of real estate. #####
 
+Link to an amendment published at 84 FR 56375, Oct. 22, 2019.
+
 (a) *Disposition.* A national bank may comply with its obligation to dispose of real estate under 12 U.S.C. 29 in the following ways:
 
 (1) With respect to OREO in general:

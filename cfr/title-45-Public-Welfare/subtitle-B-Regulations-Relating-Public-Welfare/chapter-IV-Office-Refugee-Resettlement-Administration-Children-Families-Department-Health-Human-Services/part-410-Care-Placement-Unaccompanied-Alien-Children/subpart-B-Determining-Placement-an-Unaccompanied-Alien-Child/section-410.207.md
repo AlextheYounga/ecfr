@@ -1,0 +1,3 @@
+##### § 410.207 Custody of an unaccompanied alien child placed pursuant to this subpart. #####
+
+A UAC who is placed in a licensed program pursuant to this subpart remains in the custody of ORR, and may only be transferred or released under its authority. However, in the event of an emergency, a licensed program may transfer temporarily the physical placement of a UAC prior to securing permission from ORR, but must notify ORR of the transfer as soon as possible, but in all cases within eight hours of the transfer. Upon release to an approved sponsor, a UAC is no longer in the custody of ORR.

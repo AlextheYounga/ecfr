@@ -1,5 +1,7 @@
 ##### § 328.3 Definitions. #####
 
+Link to an amendment published at 84 FR 56667, Oct. 22, 2019.
+
 For the purpose of this regulation these terms are defined as follows:
 
 (a) For purposes of the Clean Water Act, 33 U.S.C. 1251 *et seq.* and its implementing regulations, subject to the exclusions in paragraph (b) of this section, the term “waters of the United States” means:

@@ -1,5 +1,7 @@
 ##### § 34.81 Definitions. #####
 
+Link to an amendment published at 84 FR 56374, Oct. 22, 2019.
+
 (a) *Capital and surplus* means:
 
 (1) A bank's tier 1 and tier 2 capital calculated under the OCC's risk-based capital standards set forth in 12 CFR part 3, as applicable, as reported in the bank's Consolidated Reports of Condition and Income (Call Report) as filed under 12 U.S.C. 161; plus

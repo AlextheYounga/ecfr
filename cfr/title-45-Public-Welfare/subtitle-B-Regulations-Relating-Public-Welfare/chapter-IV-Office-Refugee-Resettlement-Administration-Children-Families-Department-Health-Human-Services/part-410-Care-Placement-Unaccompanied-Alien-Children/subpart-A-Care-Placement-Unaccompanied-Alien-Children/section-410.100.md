@@ -1,0 +1,3 @@
+##### § 410.100 Scope of this part. #####
+
+This part governs those aspects of the care, custody, and placement of unaccompanied alien children (UACs) agreed to in the settlement agreement reached in *Jenny Lisette Flores* v. *Janet Reno, Attorney General of the United States,* Case No. CV 85-4544-RJK (C.D. Cal. 1996). ORR operates the UAC program as authorized by section 462 of the Homeland Security Act of 2002, Public Law 107-296, 6 U.S.C. 279, and section 235 of the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 (TVPRA), Public Law 110-457, 8 U.S.C. 1232. This part does not govern or describe the entire program.

@@ -1,5 +1,7 @@
 ##### § 6.1 Authority, purpose, scope, other supervisory authority, disclosure of capital categories, and transition procedures. #####
 
+Link to an amendment published at 84 FR 56374, Oct. 22, 2019.
+
 (a) *Authority.* This part is issued by the Office of the Comptroller of the Currency (OCC) pursuant to section 38 (section 38) of the Federal Deposit Insurance Act (FDI Act) as added by section 131 of the Federal Deposit Insurance Corporation Improvement Act of 1991 (Pub. L. 102-242, 105 Stat. 2236 (1991)) (12 U.S.C. 1831o).
 
 (b) *Purpose.* Section 38 of the FDI Act establishes a framework of supervisory actions for insured depository institutions that are not adequately capitalized. The principal purpose of this subpart is to define, for insured national banks and insured Federal savings associations, the capital measures and capital levels, and for insured Federal branches, comparable asset-based measures and levels, that are used for determining the supervisory actions authorized under section 38 of the FDI Act. This part 6 also establishes procedures for submission and review of capital restoration plans and for issuance and review of directives and orders pursuant to section 38.

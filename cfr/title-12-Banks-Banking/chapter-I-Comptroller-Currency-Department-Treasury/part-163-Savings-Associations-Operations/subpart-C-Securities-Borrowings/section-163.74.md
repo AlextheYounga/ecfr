@@ -1,5 +1,7 @@
 ##### § 163.74 Mutual capital certificates. #####
 
+Link to an amendment published at 84 FR 56376, Oct. 22, 2019.
+
 (a) *General.* No savings association that is in the mutual form shall issue mutual capital certificates pursuant to this section or amend the terms of such certificates unless it has obtained written approval of the appropriate Federal banking agency. No approval shall be granted unless the proposed issuance of the mutual capital certificates and the form and manner of filing of the application are in accordance with the provisions of this section.
 
 (b) *Eligibility Requirements.* The appropriate Federal banking agency will consider and process an application for approval of the issuance of mutual capital certificates pursuant to this section only if the issuance is authorized by applicable law and regulation and is not inconsistent with any provision of the applicant's charter, constitution or bylaws.

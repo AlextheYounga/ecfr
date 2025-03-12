@@ -1,5 +1,7 @@
 ##### § 265.9 Fees. #####
 
+Link to an amendment published at 84 FR 56385, Oct. 22, 2019.
+
 (a) *In general.* The Postal Service shall charge for processing requests under the FOIA in accordance with the provisions of this section and with the OMB Guidelines. In order to resolve any fee issues that arise under this section, a component may contact a requester for additional information. The Postal Service will conduct searches, review, and duplication in the most efficient and the least expensive manner. The Postal Service ordinarily will collect all applicable fees before sending copies of records to a requester. Requesters must pay fees by check or money order made payable to “U.S. Postal Service.”
 
 (b) *Definitions.* For purposes of this section:

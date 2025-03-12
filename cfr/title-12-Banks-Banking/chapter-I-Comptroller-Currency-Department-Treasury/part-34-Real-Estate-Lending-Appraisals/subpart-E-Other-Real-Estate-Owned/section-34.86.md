@@ -1,5 +1,7 @@
 ##### § 34.86 Additional expenditures and notification. #####
 
+Link to an amendment published at 84 FR 56375, Oct. 22, 2019.
+
 (a) *Additional expenditures on OREO.* For OREO that is a development or improvement project, a national bank may make advances to complete the project if the advances:
 
 (1) Are reasonably calculated to reduce any shortfall between the parcel's market value and the bank's recorded investment amount;

@@ -1,5 +1,7 @@
 ##### § 6.2 Definitions. #####
 
+Link to an amendment published at 84 FR 56374, Oct. 22, 2019.
+
 For purposes of this subpart, except as modified in this section or unless the context otherwise requires, the terms used have the same meanings as set forth in section 38 and section 3 of the FDI Act.
 
 *Advanced approaches national bank or advanced approaches Federal savings association* means a national bank or Federal savings association that is subject to subpart E of part 3 of this chapter.
