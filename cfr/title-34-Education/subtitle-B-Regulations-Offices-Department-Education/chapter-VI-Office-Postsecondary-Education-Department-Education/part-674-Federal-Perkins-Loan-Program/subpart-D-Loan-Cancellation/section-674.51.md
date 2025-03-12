@@ -1,14 +1,12 @@
 ##### § 674.51 Special definitions. #####
 
-Link to an amendment published at 82 FR 31913, July 11, 2017.
-
 The following definitions apply to this subpart:
 
 (a) *Academic year or its equivalent for elementary and secondary schools and special education:* (1) One complete school year, or two half years from different school years, excluding summer sessions, that are complete and consecutive and generally fall within a 12-month period.
 
 (2) If such a school has a year-round program of instruction, the Secretary considers a minimum of nine consecutive months to be the equivalent of an academic year.
 
-(b) *Academic year or its equivalent for institutions of higher education:* A period of time in which a full-time student is expected to complete -
+(b) *Academic year or its equivalent for institutions of higher education:* A period of time in which a full-time student is expected to complete—
 
 (1) The equivalent of 2 semesters, 2 trimesters, or 3 quarters at an institution using credit hours; or
 
@@ -24,7 +22,7 @@ The following definitions apply to this subpart:
 
 (g) *Educational service agency:* A regional public multi-service agency authorized by State law to develop, manage, and provide services or programs to local educational agencies as defined in section 9101 of the Elementary and Secondary Education Act of 1965, as amended.
 
-(h) *Elementary school:* A school that provides elementary education, including education below grade 1, as determined by -
+(h) *Elementary school:* A school that provides elementary education, including education below grade 1, as determined by—
 
 (1) State law; or
 
@@ -34,7 +32,7 @@ The following definitions apply to this subpart:
 
 (j) *Federal public defender organization:* A defender organization established in accordance with section 3006A(g)(2)(A) of title 18, United States Code.
 
-(k) *Firefighter:* A firefighter is an individual who is employed by a Federal, State, or local firefighting agency to extinguish destructive fires; or provide firefighting related services such as -
+(k) *Firefighter:* A firefighter is an individual who is employed by a Federal, State, or local firefighting agency to extinguish destructive fires; or provide firefighting related services such as—
 
 (1) Providing community disaster support and, as a first responder, providing emergency medical services;
 
@@ -42,9 +40,9 @@ The following definitions apply to this subpart:
 
 (3) Providing hazardous materials mitigation (HAZMAT).
 
-(l) *Handicapped children:* Children of ages 3 through 21 inclusive who require special education and related services because they are -
+(l) *Handicapped children:* Children of ages 3 through 21 inclusive who require special education and related services because they are—
 
-(1) Mentally retarded;
+(1) Individuals with intellectual disabilities;
 
 (2) Hard of hearing;
 
@@ -80,7 +78,7 @@ The following definitions apply to this subpart:
 
 (t) *Qualified professional provider of early intervention services:* A provider of services as defined in section 632 of the Individuals with Disabilities Education Act.
 
-(u) *Secondary school:* (1) A school that provides secondary education, as determined by -
+(u) *Secondary school:* (1) A school that provides secondary education, as determined by—
 
 (i) State law; or
 
@@ -96,7 +94,7 @@ The following definitions apply to this subpart:
 
 (x) *Substantial gainful activity:* A level of work performed for pay or profit that involves doing significant physical or mental activities, or a combination of both.
 
-(y) *Teacher:* (1) A teacher is a person who provides -
+(y) *Teacher:* (1) A teacher is a person who provides—
 
 (i) Direct classroom teaching;
 
@@ -120,9 +118,9 @@ The following definitions apply to this subpart:
 
 (z) *Teaching in a field of expertise:* The majority of classes taught are in the borrower's field of expertise.
 
-(aa) *Total and permanent disability:* The condition of an individual who -
+(aa) *Total and permanent disability:* The condition of an individual who—
 
-(1) Is unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment that -
+(1) Is unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment that—
 
 (i) Can be expected to result in death;
 
@@ -132,10 +130,10 @@ The following definitions apply to this subpart:
 
 (2) Has been determined by the Secretary of Veterans Affairs to be unemployable due to a service-connected disability.
 
-(bb) *Tribal College or University:* An institution that -
+(bb) *Tribal College or University:* An institution that—
 
 (1) Qualifies for funding under the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1801 *et seq.*) or the Navajo Community College Assistance Act of 1978 (25 U.S.C. 640a note); or
 
 (2) Is cited in section 532 of the Equity in Education Land Grant Status Act of 1994 (7 U.S.C. 301 note).
 
-(Authority: 20 U.S.C. 1087ee(a))[52 FR 45758, Dec. 1, 1987, as amended at 59 FR 61412, Nov. 30, 1994; 65 FR 65690, Nov. 1, 2000; 74 FR 55661, Oct. 28, 2009]
+[52 FR 45758, Dec. 1, 1987, as amended at 59 FR 61412, Nov. 30, 1994; 65 FR 65690, Nov. 1, 2000; 74 FR 55661, Oct. 28, 2009; 82 FR 31913, July 11, 2017]

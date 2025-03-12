@@ -1,10 +1,8 @@
 ##### § 668.231 Definitions. #####
 
-Link to an amendment published at 82 FR 31913, July 11, 2017.
-
 The following definitions apply to this subpart:
 
-(a) *Comprehensive transition and postsecondary program* means a degree, certificate, nondegree, or noncertificate program that -
+(a) *Comprehensive transition and postsecondary program* means a degree, certificate, nondegree, or noncertificate program that—
 
 (1) Is offered by a participating institution;
 
@@ -26,9 +24,9 @@ The following definitions apply to this subpart:
 
 (6) Provides students with intellectual disabilities opportunities to participate in coursework and other activities with students without disabilities.
 
-(b) *Student with an intellectual disability* means a student -
+(b) *Student with an intellectual disability* means a student—
 
-(1) With mental retardation or a cognitive impairment characterized by significant limitations in -
+(1) With a cognitive impairment characterized by significant limitations in—
 
 (i) Intellectual and cognitive functioning; and
 
@@ -36,4 +34,4 @@ The following definitions apply to this subpart:
 
 (2) Who is currently, or was formerly, eligible for special education and related services under the Individuals with Disabilities Education Act (IDEA) (20 U.S.C. 1401), including a student who was determined eligible for special education or related services under the IDEA but was home-schooled or attended private school.
 
-(Authority: 20 U.S.C. 1091, 1140)
+[74 FR 55947, Oct. 29, 2009, as amended at 82 FR 31913, July 11, 2017]

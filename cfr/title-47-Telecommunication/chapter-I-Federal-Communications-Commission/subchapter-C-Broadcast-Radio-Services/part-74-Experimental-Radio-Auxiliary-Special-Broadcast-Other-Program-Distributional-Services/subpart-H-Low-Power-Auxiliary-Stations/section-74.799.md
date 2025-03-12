@@ -60,4 +60,4 @@
 
 (5) Notifications provided to cable systems pursuant to this section must be either mailed to the system's official address of record provided in the cable system's most recent filing in the FCC's Cable Operations and Licensing System (COALS) Form 322, or emailed to the system if the system has provided an email address.
 
-[81 FR 5053, Feb. 1, 2016. Redesignated and amended at 82 FR 18251, Apr. 18, 2017]Effective Date Note:At 82 FR 18251, Apr. 18, 2017, § 74.800 was redesignated and amended by revising paragraph (a)(1) and adding paragraphs (g) and (h). These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[81 FR 5053, Feb. 1, 2016. Redesignated and amended at 82 FR 18251, Apr. 18, 2017]

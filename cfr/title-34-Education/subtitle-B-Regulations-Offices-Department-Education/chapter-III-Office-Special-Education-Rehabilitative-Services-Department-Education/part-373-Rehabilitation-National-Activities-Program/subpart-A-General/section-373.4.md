@@ -1,7 +1,5 @@
 ##### § 373.4 What definitions apply? #####
 
-Link to an amendment published at 82 FR 31913, July 11, 2017.
-
 The following definitions apply to this part:
 
 *Act* means the Rehabilitation Act of 1973, as amended.
@@ -28,13 +26,13 @@ The following definitions apply to this part:
 
 *Individual with a disability* is defined as follows:
 
-(1) For an individual who will receive rehabilitation services under this part, an individual with a disability means an individual -
+(1) For an individual who will receive rehabilitation services under this part, an individual with a disability means an individual—
 
 (i) Who has a physical or mental impairment which, for that individual, constitutes or results in a substantial impediment to employment; and
 
 (ii) Who can benefit in terms of an employment outcome from vocational rehabilitation services.
 
-(2) For all other purposes of this part, an individual with a disability means an individual -
+(2) For all other purposes of this part, an individual with a disability means an individual—
 
 (i) Who has a physical or mental impairment that substantially limits one or more major life activities;
 
@@ -46,15 +44,13 @@ The following definitions apply to this part:
 
 (Authority: Section 7(20) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 705(20))
 
-*Individual with a significant disability* means an individual -
+*Individual with a significant disability* means an individual—
 
 (1) Who has a severe physical or mental impairment that seriously limits one or more functional capacities (such as mobility, communication, self-care, self-direction, interpersonal skills, work tolerance, or work skills) in terms of an employment outcome;
 
 (2) Whose vocational rehabilitation can be expected to require multiple vocational rehabilitation services over an extended period of time; and
 
 (3) Who has one or more physical or mental disabilities resulting from amputation, arthritis, autism, blindness, burn injury, cancer, cerebral palsy, cystic fibrosis, deafness, head injury, heart disease, hemiplegia, hemophilia, intellectual disability, respiratory or pulmonary dysfunction, mental illness, multiple sclerosis, muscular dystrophy, musculo-skeletal disorders, neurological disorders (including stroke and epilepsy), paraplegia, quadriplegia and other spinal cord conditions, sickle-cell anemia, specific learning disabilities, end-stage renal disease, or another disability or combination of disabilities determined on the basis of an assessment for determining eligibility and vocational rehabilitation needs to cause comparable substantial functional limitation.
-
-(Authority: Section 7(21)(A) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 705(21)(A))
 
 *Informed choice* means the provision of activities whereby individuals with disabilities served by projects under this part have the opportunity to be active, full partners in the rehabilitation process, making meaningful and informed choices as follows:
 
@@ -76,7 +72,7 @@ The following definitions apply to this part:
 
 (Authority: Section 7(38) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 705(38))
 
-*Vocational Rehabilitation Services* means services provided to an individual with a disability in preparing for, securing, retaining, or regaining an employment outcome that is consistent with the strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice of the individual. Vocational Rehabilitation Services for an individual with a disability may include -
+*Vocational Rehabilitation Services* means services provided to an individual with a disability in preparing for, securing, retaining, or regaining an employment outcome that is consistent with the strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice of the individual. Vocational Rehabilitation Services for an individual with a disability may include—
 
 (1) An assessment for determining eligibility and vocational rehabilitation needs by qualified personnel, including, if appropriate, an assessment by personnel skilled in rehabilitation technology;
 
@@ -114,9 +110,9 @@ The following definitions apply to this part:
 
 (18) Post-employment services necessary to assist an individual with a disability to retain, regain, or advance in employment; and
 
-(19) Expansion of employment opportunities for individuals with disabilities, which includes, but is not limited to -
+(19) Expansion of employment opportunities for individuals with disabilities, which includes, but is not limited to—
 
-(i) Self-employment, business ownership, and entreprenuership;
+(i) Self-employment, business ownership, and entrepreneurship;
 
 (ii) Non-traditional jobs, professional employment, and work settings;
 
@@ -128,4 +124,4 @@ The following definitions apply to this part:
 
 *Youth or Young adults with disabilities* means individuals with disabilities who are between the ages of 14 and 24 inclusive when entering the program.
 
-(Authority: Section 7(42) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 705(42)(Authority: Sections 7(40), 12(c), and 103(a) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 705(40), 709(c) and 723(a))
+(Authority: Section 7(42) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 705(42)(Authority: Sections 7(40), 12(c), and 103(a) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 705(40), 709(c) and 723(a))[81 FR 55607, Aug. 19, 2016, as amended at 82 FR 31913, July 11, 2017]

@@ -84,4 +84,4 @@
 
 (4) Retain the documentation required for approving user access to MSIX for three years after the date the SEA terminates the user's access.
 
-(Authority:20 U.S.C. 6398).[81 FR 28970, May 10, 2016]
+(Authority:20 U.S.C. 6398).[81 FR 28970, May 10, 2016]Effective Date Note:At 81 FR 28970, May 10, 2016, § 200.85 was revised. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

@@ -1,7 +1,5 @@
 ##### § 222.50 What definitions apply to this subpart? #####
 
-Link to an amendment published at 82 FR 31912, July 11, 2017.
-
 In addition to the terms referenced or defined in § 222.2, the following definitions apply to this subpart:
 
 *Child with a disability* as defined in 34 CFR 300.8.
@@ -22,4 +20,4 @@ In addition to the terms referenced or defined in § 222.2, the following defini
 
 *Special education* as defined in 34 CFR 300.39.
 
-(Authority: 20 U.S.C. 1401, 1414, 1432, 1436, 7703, 7705, 7713; 34 CFR parts 300 and 303)[80 FR 33166, June 11, 2015]
+[80 FR 33166, June 11, 2015, as amended at 82 FR 31912, July 11, 2017]

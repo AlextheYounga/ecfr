@@ -6,13 +6,13 @@
 
 (b) *State approval.* If a State chooses to allow an LEA to administer a nationally recognized high school academic assessment under paragraph (a) of this section, the State must:
 
-(1) Establish and use technical criteria to determine if the assessment -
+(1) Establish and use technical criteria to determine if the assessment—
 
 (i) Is aligned with the challenging State academic standards;
 
 (ii) Addresses the depth and breadth of those standards;
 
-(iii) Is equivalent to or more rigorous than the statewide assessments under § 200.5(a)(1)(i)(B) and (a)(1)(ii)(C), as applicable, with respect to -
+(iii) Is equivalent to or more rigorous than the statewide assessments under § 200.5(a)(1)(i)(B) and (a)(1)(ii)(C), as applicable, with respect to—
 
 (A) The coverage of academic content;
 
@@ -24,7 +24,7 @@
 
 (iv) Meets all requirements under § 200.2(b), except for § 200.2(b)(1), and ensures that all high school students in the LEA are assessed consistent with §§ 200.5(a) and 200.6; and
 
-(v) Produces valid and reliable data on student academic achievement with respect to all high school students and each subgroup of high school students in the LEA that -
+(v) Produces valid and reliable data on student academic achievement with respect to all high school students and each subgroup of high school students in the LEA that—
 
 (A) Are comparable to student academic achievement data for all high school students and each subgroup of high school students produced by the statewide assessment at each academic achievement level;
 
@@ -32,9 +32,9 @@
 
 (C) Provide unbiased, rational, and consistent differentiation among schools within the State for the purpose of the State-determined accountability system under section 1111(c) of the Act, including calculating the Academic Achievement indicator under section 1111(c)(4)(B)(i) of the Act and annually meaningfully differentiating between schools under section 1111(c)(4)(C) of the Act;
 
-(2) Before approving any nationally recognized high school academic assessment for use by an LEA in the State -
+(2) Before approving any nationally recognized high school academic assessment for use by an LEA in the State—
 
-(i) Ensure that the use of appropriate accommodations under § 200.6(b) and (f) does not deny a student with a disability or an English learner -
+(i) Ensure that the use of appropriate accommodations under § 200.6(b) and (f) does not deny a student with a disability or an English learner—
 
 (A) The opportunity to participate in the assessment; and
 
@@ -48,9 +48,9 @@
 
 (iii) Revoke approval for good cause.
 
-(c) *LEA applications.* (1) Before an LEA requests approval from the State to use a locally selected, nationally recognized high school academic assessment, the LEA must -
+(c) *LEA applications.* (1) Before an LEA requests approval from the State to use a locally selected, nationally recognized high school academic assessment, the LEA must—
 
-(i) Notify all parents of high school students it serves -
+(i) Notify all parents of high school students it serves—
 
 (A) That the LEA intends to request approval from the State to use a locally selected, nationally recognized high school academic assessment in place of the statewide academic assessment under § 200.5(a)(1)(i)(B) and (a)(1)(ii)(C), as applicable;
 
@@ -60,7 +60,7 @@
 
 (ii) Provide an opportunity for meaningful consultation to all public charter schools whose students would be included in such assessments.
 
-(2) As part of requesting approval to use a locally selected, nationally recognized high school academic assessment, an LEA must -
+(2) As part of requesting approval to use a locally selected, nationally recognized high school academic assessment, an LEA must—
 
 (i) Update its LEA plan under section 1112 or section 8305 of the Act, including to describe how the request was developed consistent with all requirements for consultation under sections 1112 and 8538 of the Act; and
 
@@ -68,7 +68,7 @@
 
 (3) Upon approval, the LEA must notify all parents of high school students it serves that the LEA received approval and will use such locally selected, nationally recognized high school academic assessment instead of the statewide academic assessment under § 200.5(a)(1)(i)(B) and (a)(1)(ii)(C), as applicable.
 
-(4) In each subsequent year following approval in which the LEA elects to administer a locally selected, nationally recognized high school academic assessment, the LEA must notify -
+(4) In each subsequent year following approval in which the LEA elects to administer a locally selected, nationally recognized high school academic assessment, the LEA must notify—
 
 (i) The State of its intention to continue administering such assessment; and
 
@@ -78,4 +78,4 @@
 
 (d) *Definition.* “Nationally recognized high school academic assessment” means an assessment of high school students' knowledge and skills that is administered in multiple States and is recognized by institutions of higher education in those or other States for the purposes of entrance or placement into courses in postsecondary education or training programs.
 
-(Approved by the Office of Management and Budget under control number 1810-0576)(Authority: 20 U.S.C. 1221e-3, 3474, 6311(b)(2)(H), 6312(a), 6571, 7845, and 7918; 29 U.S.C. 794; 42 U.S.C. 2000d-1)[81 FR 88932, Dec. 9, 2016]
+(Approved by the Office of Management and Budget under control number 1810-0576)(Authority: 20 U.S.C. 1221e-3, 3474, 6311(b)(2)(H), 6312(a), 6571, 7845, and 7918; 29 U.S.C. 794; 42 U.S.C. 2000d-1)[81 FR 88932, Dec. 8, 2016]

@@ -1,8 +1,6 @@
 ##### § 385.4 What definitions apply to these programs? #####
 
-Link to an amendment published at 82 FR 31913, July 11, 2017.
-
-(a) The following definitions in 34 CFR part 77 apply to the programs under the Rehabilitation Training Program -
+(a) The following definitions in 34 CFR part 77 apply to the programs under the Rehabilitation Training Program—
 
 ApplicantApplicationAwardBudget PeriodDepartmentEDGARGranteeNonprofitPrivateProjectProject PeriodPublicSecretary(Authority: Section 12(c) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 709(c))
 
@@ -14,7 +12,7 @@ ApplicantApplicationAwardBudget PeriodDepartmentEDGARGranteeNonprofitPrivateProj
 
 *Assistive technology device* means any item, piece of equipment, or product system, whether acquired commercially off the shelf, modified, or customized, that is used to increase, maintain, or improve functional capabilities of individuals with disabilities.
 
-*Assistive technology service* means any service that directly assists an individual with a disability in the selection, acquisition, or use of an assistive technology device. The term includes -
+*Assistive technology service* means any service that directly assists an individual with a disability in the selection, acquisition, or use of an assistive technology device. The term includes—
 
 (i) The evaluation of the needs of an individual with a disability, including a functional evaluation of the individual in the individual's customary environment;
 
@@ -30,7 +28,7 @@ ApplicantApplicationAwardBudget PeriodDepartmentEDGARGranteeNonprofitPrivateProj
 
 (vii) A service consisting of expanding the availability of access to technology, including electronic and information technology, to individuals with disabilities.
 
-*Community rehabilitation program* means a program that provides directly or facilitates the provision of vocational rehabilitation services to individuals with disabilities, and that provides, singly or in combination, for an individual with a disability to enable the individual to maximize opportunities for employment, including career advancement -
+*Community rehabilitation program* means a program that provides directly or facilitates the provision of vocational rehabilitation services to individuals with disabilities, and that provides, singly or in combination, for an individual with a disability to enable the individual to maximize opportunities for employment, including career advancement—
 
 (i) Medical, psychiatric, psychological, social, and vocational services that are provided under one management;
 
@@ -74,7 +72,7 @@ ApplicantApplicationAwardBudget PeriodDepartmentEDGARGranteeNonprofitPrivateProj
 
 (ii) In cases in which no State agency unit is required, the State agency described in section 101(a)(2)(B)(ii) of the Act.
 
-*Independent living core services* means -
+*Independent living core services* means—
 
 (i) Information and referral services;
 
@@ -84,7 +82,7 @@ ApplicantApplicationAwardBudget PeriodDepartmentEDGARGranteeNonprofitPrivateProj
 
 (iv) Individual and systems advocacy.
 
-*Independent living services* includes -
+*Independent living services* includes—
 
 (i) Independent living core services; and
 
@@ -130,7 +128,7 @@ ApplicantApplicationAwardBudget PeriodDepartmentEDGARGranteeNonprofitPrivateProj
 
 (U) Such other services as may be necessary and not inconsistent with the provisions of this Act.
 
-*Individual with a disability* means any individual who -
+*Individual with a disability* means any individual who—
 
 (i) Has a physical or mental impairment, which for that individual constitutes or results in a substantial impediment to employment;
 
@@ -138,7 +136,7 @@ ApplicantApplicationAwardBudget PeriodDepartmentEDGARGranteeNonprofitPrivateProj
 
 (iii) Has a disability as defined in section 7(20)(B) of the Act.
 
-*Individual with a significant disability* means an individual with a disability -
+*Individual with a significant disability* means an individual with a disability—
 
 (i) Who has a severe physical or mental impairment that seriously limits one or more functional capacities (such as mobility, communication, self-care, self-direction, interpersonal skills, work tolerance, or work skills) in terms of an employment outcome;
 
@@ -162,7 +160,7 @@ ApplicantApplicationAwardBudget PeriodDepartmentEDGARGranteeNonprofitPrivateProj
 
 *Stipend* means financial assistance on behalf of individuals in support of their training, as opposed to salary payment for services provided within the project.
 
-*Supported employment* means competitive integrated employment, including customized employment, or employment in an integrated work setting in which individuals are working on a short-term basis toward competitive integrated employment, that is individualized and customized consistent with the strengths, abilities, interests, and informed choice of the individuals involved, for individuals with the most severe disabilities -
+*Supported employment* means competitive integrated employment, including customized employment, or employment in an integrated work setting in which individuals are working on a short-term basis toward competitive integrated employment, that is individualized and customized consistent with the strengths, abilities, interests, and informed choice of the individuals involved, for individuals with the most severe disabilities—
 
 (i)(A) For whom competitive integrated employment has not traditionally occurred; or
 
@@ -170,7 +168,7 @@ ApplicantApplicationAwardBudget PeriodDepartmentEDGARGranteeNonprofitPrivateProj
 
 (ii) Who, because of the nature and severity of their disability, need intensive supported employment services from the designated State unit and extended services after transition in order to perform the work involved.
 
-*Supported employment services* means ongoing support services, including customized employment, and other appropriate services needed to support and maintain an individual with most severe disability in supported employment, that are -
+*Supported employment services* means ongoing support services, including customized employment, and other appropriate services needed to support and maintain an individual with most severe disability in supported employment, that are—
 
 (i) Provided singly or in combination and are organized and made available in such a way as to assist an eligible individual in entering or maintaining integrated, competitive employment;
 
@@ -178,7 +176,7 @@ ApplicantApplicationAwardBudget PeriodDepartmentEDGARGranteeNonprofitPrivateProj
 
 (iii) Provided by the designated State unit for a period of time not more than 24 months, unless under special circumstances the eligible individual and the rehabilitation counselor or coordinator jointly agree to extend the time in order to achieve the rehabilitation objectives identified in the individualized plan for employment.
 
-*Vocational rehabilitation services* means services provided to an individual with a disability in preparing for, securing, retaining, or regaining an employment outcome that is consistent with the strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice of the individual, and services provided for the benefit of groups of individuals with disabilities. Vocational Rehabilitation Services for an individual with a disability may include -
+*Vocational rehabilitation services* means services provided to an individual with a disability in preparing for, securing, retaining, or regaining an employment outcome that is consistent with the strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice of the individual, and services provided for the benefit of groups of individuals with disabilities. Vocational Rehabilitation Services for an individual with a disability may include—
 
 (i) An assessment for determining eligibility and vocational rehabilitation needs by qualified personnel, including, if appropriate, an assessment by personnel skilled in rehabilitation technology;
 
@@ -216,7 +214,7 @@ ApplicantApplicationAwardBudget PeriodDepartmentEDGARGranteeNonprofitPrivateProj
 
 (xviii) Post-employment services necessary to assist an individual with a disability to retain, regain, or advance in employment; and
 
-(xix) Expansion of employment opportunities for individuals with disabilities, which includes, but is not limited to -
+(xix) Expansion of employment opportunities for individuals with disabilities, which includes, but is not limited to—
 
 (A) Self-employment, business ownership, and entrepreneurship;
 
@@ -226,4 +224,4 @@ ApplicantApplicationAwardBudget PeriodDepartmentEDGARGranteeNonprofitPrivateProj
 
 (D) Other services as identified by the Secretary and published in the Federal Register.
 
-(Authority: Sections 7(40), 12(c), and 101(a)(7) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 705(40), 709(c), and 721(a)(7))
+[81 FR 55614, Aug. 19, 2016, as amended at 82 FR 31913, July 11, 2017]

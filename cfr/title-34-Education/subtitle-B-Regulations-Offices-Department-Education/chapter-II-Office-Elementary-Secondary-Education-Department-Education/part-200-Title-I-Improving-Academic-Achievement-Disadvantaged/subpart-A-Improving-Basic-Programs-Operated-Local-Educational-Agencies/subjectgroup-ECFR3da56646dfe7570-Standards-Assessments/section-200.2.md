@@ -22,7 +22,7 @@
 
 (2)(i) Be designed to be valid and accessible for use by all students, including students with disabilities and English learners; and
 
-(ii) Be developed, to the extent practicable, using the principles of universal design for learning. For the purposes of this section, “universal design for learning” means a scientifically valid framework for guiding educational practice that -
+(ii) Be developed, to the extent practicable, using the principles of universal design for learning. For the purposes of this section, “universal design for learning” means a scientifically valid framework for guiding educational practice that—
 
 (A) Provides flexibility in the ways information is presented, in the ways students respond or demonstrate knowledge and skills, and in the ways students are engaged; and
 
@@ -44,9 +44,9 @@
 
 (ii) Be consistent with relevant, nationally recognized professional and technical testing standards;
 
-(5) Be supported by evidence that -
+(5) Be supported by evidence that—
 
-(i) The assessments are of adequate technical quality -
+(i) The assessments are of adequate technical quality—
 
 (A) For each purpose required under the Act; and
 
@@ -56,13 +56,13 @@
 
 (6) Be administered in accordance with the frequency described in § 200.5(a);
 
-(7) Involve multiple up-to-date measures of student academic achievement, including measures that assess higher-order thinking skills - such as critical thinking, reasoning, analysis, complex problem solving, effective communication, and understanding of challenging content - as defined by the State. These measures may -
+(7) Involve multiple up-to-date measures of student academic achievement, including measures that assess higher-order thinking skills—such as critical thinking, reasoning, analysis, complex problem solving, effective communication, and understanding of challenging content—as defined by the State. These measures may—
 
 (i) Include valid and reliable measures of student academic growth at all achievement levels to help ensure that the assessment results could be used to improve student instruction; and
 
 (ii) Be partially delivered in the form of portfolios, projects, or extended performance tasks;
 
-(8) Objectively measure academic achievement, knowledge, and skills without evaluating or assessing personal or family beliefs and attitudes, except that this provision does not preclude the use of -
+(8) Objectively measure academic achievement, knowledge, and skills without evaluating or assessing personal or family beliefs and attitudes, except that this provision does not preclude the use of—
 
 (i) Constructed-response, short answer, or essay questions; or
 
@@ -70,13 +70,13 @@
 
 (9) Provide for participation in the assessments of all students in the grades assessed consistent with §§ 200.5(a) and 200.6;
 
-(10) At the State's discretion, be administered through -
+(10) At the State's discretion, be administered through—
 
 (i) A single summative assessment; or
 
 (ii) Multiple statewide interim assessments during the course of the academic year that result in a single summative score that provides valid, reliable, and transparent information on student achievement and, at the State's discretion, student growth, consistent with paragraph (b)(4) of this section;
 
-(11)(i) Consistent with sections 1111(b)(2)(B)(xi) and 1111(h)(1)(C)(ii) of the Act, enable results to be disaggregated within each State, LEA, and school by -
+(11)(i) Consistent with sections 1111(b)(2)(B)(xi) and 1111(h)(1)(C)(ii) of the Act, enable results to be disaggregated within each State, LEA, and school by—
 
 (A) Gender;
 
@@ -102,7 +102,7 @@
 
 (13) Enable itemized score analyses to be produced and reported to LEAs and schools consistent with § 200.8(b).
 
-(c)(1) At its discretion, a State may administer the assessments required under this section in the form of computer-adaptive assessments if such assessments meet the requirements of section 1111(b)(2)(J) of the Act and this section. A computer-adaptive assessment -
+(c)(1) At its discretion, a State may administer the assessments required under this section in the form of computer-adaptive assessments if such assessments meet the requirements of section 1111(b)(2)(J) of the Act and this section. A computer-adaptive assessment—
 
 (i) Must, except as provided in § 200.6(c)(7)(iii), measure a student's academic proficiency based on the challenging State academic standards for the grade in which the student is enrolled and growth toward those standards; and
 
@@ -112,7 +112,7 @@
 
 (d) A State must submit evidence for peer review under section 1111(a)(4) of the Act that its assessments under this section and §§ 200.3, 200.4, 200.5(b), 200.6(c), 200.6(f), 200.6(h), and 200.6(j) meet all applicable requirements.
 
-(e) Information provided to parents under section 1111(b)(2) of the Act must -
+(e) Information provided to parents under section 1111(b)(2) of the Act must—
 
 (1) Be in an understandable and uniform format;
 
@@ -120,4 +120,4 @@
 
 (3) Be, upon request by a parent who is an individual with a disability as defined by the Americans with Disabilities Act (ADA), as amended, provided in an alternative format accessible to that parent.
 
-(Approved by the Office of Management and Budget under control number 1810-0576)(Authority: 10 U.S.C. 101(a)(4), (d)(1), and (d)(5); 20 U.S.C. 1003(24), 1221e-3, 1401(3), 3474, 6311(a)(4), 6311(b)(1)-(2), 6311(h), 6399(3), 6571, and 7801(20); 29 U.S.C. 701 *et seq.;* 29 U.S.C. 794; 42 U.S.C. 2000d-1, 11434a(2), 12102(1), and 12131 *et seq.;* and 45 CFR 1355.20(a))[81 FR 88931, Dec. 9, 2016]
+(Approved by the Office of Management and Budget under control number 1810-0576)(Authority: 10 U.S.C. 101(a)(4), (d)(1), and (d)(5); 20 U.S.C. 1003(24), 1221e-3, 1401(3), 3474, 6311(a)(4), 6311(b)(1)-(2), 6311(h), 6399(3), 6571, and 7801(20); 29 U.S.C. 701 *et seq.;* 29 U.S.C. 794; 42 U.S.C. 2000d-1, 11434a(2), 12102(1), and 12131 *et seq.;* and 45 CFR 1355.20(a))[81 FR 88931, Dec. 8, 2016]

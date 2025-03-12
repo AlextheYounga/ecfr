@@ -1,7 +1,5 @@
 ##### § 361.5 Applicable definitions. #####
 
-Link to an amendment published at 82 FR 31913, July 11, 2017.
-
 The following definitions apply to this part:
 
 (a) Definitions in EDGAR 77.1.
@@ -12,7 +10,7 @@ The following definitions apply to this part:
 
 (1) *Act* means the Rehabilitation Act of 1973, as amended (29 U.S.C. 701 *et seq.*).
 
-(2) *Administrative costs under the vocational rehabilitation services portion of the Unified or Combined State Plan* means expenditures incurred in the performance of administrative functions under the vocational rehabilitation program carried out under this part, including expenses related to program planning, development, monitoring, and evaluation, including, but not limited to, expenses for -
+(2) *Administrative costs under the vocational rehabilitation services portion of the Unified or Combined State Plan* means expenditures incurred in the performance of administrative functions under the vocational rehabilitation program carried out under this part, including expenses related to program planning, development, monitoring, and evaluation, including, but not limited to, expenses for—
 
 (i) Quality assurance;
 
@@ -52,9 +50,9 @@ The following definitions apply to this part:
 
 (Authority: Section 12(c) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 709(c))
 
-(5) *Assessment for determining eligibility and vocational rehabilitation needs* means, as appropriate in each case -
+(5) *Assessment for determining eligibility and vocational rehabilitation needs* means, as appropriate in each case—
 
-(i)(A) A review of existing data -
+(i)(A) A review of existing data—
 
 (*1*) To determine if an individual is eligible for vocational rehabilitation services; and
 
@@ -62,11 +60,11 @@ The following definitions apply to this part:
 
 (B) To the extent necessary, the provision of appropriate assessment activities to obtain necessary additional data to make the eligibility determination and assignment;
 
-(ii) To the extent additional data are necessary to make a determination of the employment outcomes and the nature and scope of vocational rehabilitation services to be included in the individualized plan for employment of an eligible individual, a comprehensive assessment to determine the unique strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice, including the need for supported employment, of the eligible individual. This comprehensive assessment -
+(ii) To the extent additional data are necessary to make a determination of the employment outcomes and the nature and scope of vocational rehabilitation services to be included in the individualized plan for employment of an eligible individual, a comprehensive assessment to determine the unique strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice, including the need for supported employment, of the eligible individual. This comprehensive assessment—
 
 (A) Is limited to information that is necessary to identify the rehabilitation needs of the individual and to develop the individualized plan for employment of the eligible individual;
 
-(B) Uses as a primary source of information, to the maximum extent possible and appropriate and in accordance with confidentiality requirements -
+(B) Uses as a primary source of information, to the maximum extent possible and appropriate and in accordance with confidentiality requirements—
 
 (*1*) Existing information obtained for the purposes of determining the eligibility of the individual and assigning priority for an order of selection described in § 361.36 for the individual; and
 
@@ -84,11 +82,11 @@ The following definitions apply to this part:
 
 (Authority: Sections 7(2) and 12(c) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 705(2) and 709(c))
 
-(6) *Assistive technology terms* - (i) *Assistive technology* has the meaning given such term in section 3 of the Assistive Technology Act of 1998 (29 U.S.C. 3002).
+(6) *Assistive technology terms*—(i) *Assistive technology* has the meaning given such term in section 3 of the Assistive Technology Act of 1998 (29 U.S.C. 3002).
 
 (ii) *Assistive technology device* has the meaning given such term in section 3 of the Assistive Technology Act of 1998, except that the reference in such section to the term *individuals with disabilities* will be deemed to mean more than one individual with a disability as defined in paragraph (20)(A) of the Act.
 
-(iii) *Assistive technology service* has the meaning given such term in section 3 of the Assistive Technology Act of 1998, except that the reference in such section to the term -
+(iii) *Assistive technology service* has the meaning given such term in section 3 of the Assistive Technology Act of 1998, except that the reference in such section to the term—
 
 (A) *Individual with a disability* will be deemed to mean an individual with a disability, as defined in paragraph (20)(A) of the Act; and
 
@@ -96,7 +94,7 @@ The following definitions apply to this part:
 
 (Authority: Sections 7(3) and 12(c) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 705(3) and 709(c))
 
-(7) *Community rehabilitation program* - (i) *Community rehabilitation program* means a program that provides directly or facilitates the provision of one or more of the following vocational rehabilitation services to individuals with disabilities to enable those individuals to maximize their opportunities for employment, including career advancement:
+(7) *Community rehabilitation program*—(i) *Community rehabilitation program* means a program that provides directly or facilitates the provision of one or more of the following vocational rehabilitation services to individuals with disabilities to enable those individuals to maximize their opportunities for employment, including career advancement:
 
 (A) Medical, psychiatric, psychological, social, and vocational services that are provided under one management.
 
@@ -138,7 +136,7 @@ The following definitions apply to this part:
 
 (Authority: Section 7(4) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 705(4))
 
-(8) *Comparable services and benefits* - (i) *Comparable services and benefits* means services and benefits, including accommodations and auxiliary aids and services, that are -
+(8) *Comparable services and benefits*—(i) *Comparable services and benefits* means services and benefits, including accommodations and auxiliary aids and services, that are—
 
 (A) Provided or paid for, in whole or in part, by other Federal, State, or local public agencies, by health insurance, or by employee benefits;
 
@@ -150,7 +148,7 @@ The following definitions apply to this part:
 
 (Authority: Sections 12(c) and 101(a)(8) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 709(c) and 721(a)(8))
 
-(9) *Competitive integrated employment* means work that -
+(9) *Competitive integrated employment* means work that—
 
 (i) Is performed on a full-time or part-time basis (including self-employment) and for which an individual is compensated at a rate that-
 
@@ -162,7 +160,7 @@ The following definitions apply to this part:
 
 (D) Is eligible for the level of benefits provided to other employees; and
 
-(ii) Is at a location -
+(ii) Is at a location—
 
 (A) Typically found in the community; and
 
@@ -172,7 +170,7 @@ The following definitions apply to this part:
 
 (Authority: Sections 7(5) and 12(c) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 705(5) and 709(c))
 
-(10) *Construction of a facility for a public or nonprofit community rehabilitation program* means -
+(10) *Construction of a facility for a public or nonprofit community rehabilitation program* means—
 
 (i) The acquisition of land in connection with the construction of a new building for a community rehabilitation program;
 
@@ -190,17 +188,17 @@ The following definitions apply to this part:
 
 (Authority: Sections 7(6) and 12(c) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 705(6) and 709(c))
 
-(11) *Customized employment* means competitive integrated employment, for an individual with a significant disability, that is -
+(11) *Customized employment* means competitive integrated employment, for an individual with a significant disability, that is—
 
 (i) Based on an individualized determination of the unique strengths, needs, and interests of the individual with a significant disability;
 
 (ii) Designed to meet the specific abilities of the individual with a significant disability and the business needs of the employer; and
 
-(iii) Carried out through flexible strategies, such as -
+(iii) Carried out through flexible strategies, such as—
 
 (A) Job exploration by the individual; and
 
-(B) Working with an employer to facilitate placement, including -
+(B) Working with an employer to facilitate placement, including—
 
 (*1*) Customizing a job description based on current employer needs or on previously unidentified and unmet employer needs;
 
@@ -216,7 +214,7 @@ The following definitions apply to this part:
 
 (Authority: Sections 7(8)(A) and 101(a)(2)(A) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 705(8)(A) and 721(a)(2)(A))
 
-(13) *Designated State unit* or *State unit* means either -
+(13) *Designated State unit* or *State unit* means either—
 
 (i) The State vocational rehabilitation bureau, division, or other organizational unit that is primarily concerned with vocational rehabilitation or vocational and other rehabilitation of individuals with disabilities and that is responsible for the administration of the vocational rehabilitation program of the State agency, as required under § 361.13(b); or
 
@@ -236,7 +234,7 @@ A designated State unit may continue services to individuals with uncompensated 
 
 (Authority: Sections 7(11), 12(c), 100(a)(2), and 102(b)(4)(A) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 705(11), 709(c), 720(a)(2), and 722(b)(4)(A))
 
-(16) *Establishment, development, or improvement of a public or nonprofit community rehabilitation program* means -
+(16) *Establishment, development, or improvement of a public or nonprofit community rehabilitation program* means—
 
 (i) The establishment of a facility for a public or nonprofit community rehabilitation program, as defined in paragraph (c)(17) of this section, to provide vocational rehabilitation services to applicants or eligible individuals;
 
@@ -254,13 +252,13 @@ A designated State unit may continue services to individuals with uncompensated 
 
 (Authority: Sections 7(12) and 12(c) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 705(12) and 709(c))
 
-(17) *Establishment of a facility for a public or nonprofit community rehabilitation program* means -
+(17) *Establishment of a facility for a public or nonprofit community rehabilitation program* means—
 
 (i) The acquisition of an existing building and, if necessary, the land in connection with the acquisition, if the building has been completed in all respects for at least one year prior to the date of acquisition and the Federal share of the cost of acquisition is not more than $300,000;
 
 (ii) The remodeling or alteration of an existing building, provided the estimated cost of remodeling or alteration does not exceed the appraised value of the existing building;
 
-(iii) The expansion of an existing building, provided that -
+(iii) The expansion of an existing building, provided that—
 
 (A) The existing building is complete in all respects;
 
@@ -280,7 +278,7 @@ A designated State unit may continue services to individuals with uncompensated 
 
 (Authority: Section 12(c) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 709(c))
 
-(19) *Extended services* means ongoing support services and other appropriate services that are -
+(19) *Extended services* means ongoing support services and other appropriate services that are—
 
 (i) Needed to support and maintain an individual with a most significant disability including a youth with a most significant disability, in supported employment;
 
@@ -298,7 +296,7 @@ A designated State unit may continue services to individuals with uncompensated 
 
 (Authority: Sections 12(c) and 101(a)(8)(A)(i)(III) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 709(c) and 721(a)(8)(A)(i)(III))
 
-(21) *Fair hearing board* means a committee, body, or group of persons established by a State prior to January 1, 1985, that -
+(21) *Fair hearing board* means a committee, body, or group of persons established by a State prior to January 1, 1985, that—
 
 (i) Is authorized under State law to review determinations made by personnel of the designated State unit that affect the provision of vocational rehabilitation services; and
 
@@ -306,9 +304,9 @@ A designated State unit may continue services to individuals with uncompensated 
 
 (Authority: Sections 12(c) and 102(c)(6) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 709(c) and 722(c)(6))
 
-(22) *Family member,* for purposes of receiving vocational rehabilitation services in accordance with § 361.48(b)(9), means an individual -
+(22) *Family member,* for purposes of receiving vocational rehabilitation services in accordance with § 361.48(b)(9), means an individual—
 
-(i) Who either -
+(i) Who either—
 
 (A) Is a relative or guardian of an applicant or eligible individual; or
 
@@ -324,7 +322,7 @@ A designated State unit may continue services to individuals with uncompensated 
 
 (Authority: Section 7(15) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 705(15))
 
-(24) *Impartial hearing officer* - (i) *Impartial hearing officer* means an individual who -
+(24) *Impartial hearing officer*—(i) *Impartial hearing officer* means an individual who—
 
 (A) Is not an employee of a public agency (other than an administrative law judge, hearing examiner, or employee of an institution of higher education);
 
@@ -342,7 +340,7 @@ A designated State unit may continue services to individuals with uncompensated 
 
 (Authority: Sections 7(16) and 12(c) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 705(16) and 709(c))
 
-(25) *Indian; American Indian; Indian American; Indian Tribe* - (i) *In general.* The terms “Indian”, “American Indian”, and “Indian American” mean an individual who is a member of an Indian tribe and include a Native and a descendant of a Native, as such terms are defined in subsections (b) and (r) of section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602).
+(25) *Indian; American Indian; Indian American; Indian Tribe*—(i) *In general.* The terms “Indian”, “American Indian”, and “Indian American” mean an individual who is a member of an Indian tribe and include a Native and a descendant of a Native, as such terms are defined in subsections (b) and (r) of section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602).
 
 (ii) *Indian tribe.* The term “Indian tribe” means any Federal or State Indian tribe, band, rancheria, pueblo, colony, or community, including any Alaska native village or regional village corporation (as defined in or established pursuant to the Alaska Native Claims Settlement Act) and a tribal organization (as defined in section 4(l) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450(b)(l)).
 
@@ -352,7 +350,7 @@ A designated State unit may continue services to individuals with uncompensated 
 
 (Authority: Section 12(c) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 709(c))
 
-(27) *Individual with a disability,* except as provided in paragraph (c)(28) of this section, means an individual -
+(27) *Individual with a disability,* except as provided in paragraph (c)(28) of this section, means an individual—
 
 (i) Who has a physical or mental impairment;
 
@@ -362,7 +360,7 @@ A designated State unit may continue services to individuals with uncompensated 
 
 (Authority: Section 7(20)(A) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 705(20)(A))
 
-(28) *Individual with a disability,* for purposes of §§ 361.5(c)(13), 361.13(a), 361.13(b)(1), 361.17(a), (b), (c), and (j), 361.18(b), 361.19, 361.20, 361.23(b)(2), 361.29(a) and (d)(8), and 361.51(b), means an individual -
+(28) *Individual with a disability,* for purposes of §§ 361.5(c)(13), 361.13(a), 361.13(b)(1), 361.17(a), (b), (c), and (j), 361.18(b), 361.19, 361.20, 361.23(b)(2), 361.29(a) and (d)(8), and 361.51(b), means an individual—
 
 (i) Who has a physical or mental impairment that substantially limits one or more major life activities;
 
@@ -376,7 +374,7 @@ A designated State unit may continue services to individuals with uncompensated 
 
 (Authority: Sections 7(21)(E) and 101(a)(5)(C) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 705(21)(E) and 721(a)(5)(C))
 
-(30) *Individual with a significant disability* means an individual with a disability -
+(30) *Individual with a significant disability* means an individual with a disability—
 
 (i) Who has a severe physical or mental impairment that seriously limits one or more functional capacities (such as mobility, communication, self-care, self-direction, interpersonal skills, work tolerance, or work skills) in terms of an employment outcome;
 
@@ -384,17 +382,15 @@ A designated State unit may continue services to individuals with uncompensated 
 
 (iii) Who has one or more physical or mental disabilities resulting from amputation, arthritis, autism, blindness, burn injury, cancer, cerebral palsy, cystic fibrosis, deafness, head injury, heart disease, hemiplegia, hemophilia, respiratory or pulmonary dysfunction, mental illness, multiple sclerosis, muscular dystrophy, musculo-skeletal disorders, neurological disorders (including stroke and epilepsy), spinal cord conditions (including paraplegia and quadriplegia), sickle cell anemia, intellectual disability, specific learning disability, end-stage renal disease, or another disability or combination of disabilities determined on the basis of an assessment for determining eligibility and vocational rehabilitation needs to cause comparable substantial functional limitation.
 
-(Authority: Section 7(21)(A) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 705(21)(A))
-
 (31) *Individual's representative* means any representative chosen by an applicant or eligible individual, as appropriate, including a parent, guardian, other family member, or advocate, unless a representative has been appointed by a court to represent the individual, in which case the court-appointed representative is the individual's representative.
 
 (Authority: Sections 7(22) and 12(c) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 705(22) and 709(c))
 
-(32) *Integrated setting* means -
+(32) *Integrated setting* means—
 
 (i) With respect to the provision of services, a setting typically found in the community in which applicants or eligible individuals interact with non-disabled individuals other than non-disabled individuals who are providing services to those applicants or eligible individuals; and
 
-(ii) With respect to an employment outcome, means a setting -
+(ii) With respect to an employment outcome, means a setting—
 
 (A) Typically found in the community; and
 
@@ -424,7 +420,7 @@ Example 1:The cost of a uniform or other suitable clothing that is required for 
 
 (Authority: Section 7(26) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 705(26))
 
-(37) *Ongoing support services,* as used in the definition of *supported employment,* means services that -
+(37) *Ongoing support services,* as used in the definition of *supported employment,* means services that—
 
 (i) Are needed to support and maintain an individual with a most significant disability, including a youth with a most significant disability, in supported employment;
 
@@ -432,13 +428,13 @@ Example 1:The cost of a uniform or other suitable clothing that is required for 
 
 (iii) Are furnished by the designated State unit from the time of job placement until transition to extended services, unless post-employment services are provided following transition, and thereafter by one or more extended services providers throughout the individual's term of employment in a particular job placement;
 
-(iv) Include an assessment of employment stability and provision of specific services or the coordination of services at or away from the worksite that are needed to maintain stability based on -
+(iv) Include an assessment of employment stability and provision of specific services or the coordination of services at or away from the worksite that are needed to maintain stability based on—
 
 (A) At a minimum, twice-monthly monitoring at the worksite of each individual in supported employment; or
 
 (B) If under specific circumstances, especially at the request of the individual, the individualized plan for employment provides for off-site monitoring, twice monthly meetings with the individual;
 
-(v) Consist of -
+(v) Consist of—
 
 (A) Any particularized assessment supplementary to the comprehensive assessment of rehabilitation needs described in paragraph (c)(5)(ii) of this section;
 
@@ -460,7 +456,7 @@ Example 1:The cost of a uniform or other suitable clothing that is required for 
 
 (Authority: Sections 7(27) and 12(c) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 705(27) and 709(c))
 
-(38) *Personal assistance services* means a range of services, including, among other things, training in managing, supervising, and directing personal assistance services, provided by one or more persons, that are -
+(38) *Personal assistance services* means a range of services, including, among other things, training in managing, supervising, and directing personal assistance services, provided by one or more persons, that are—
 
 (i) Designed to assist an individual with a disability to perform daily living activities on or off the job that the individual would typically perform without assistance if the individual did not have a disability;
 
@@ -472,7 +468,7 @@ Example 1:The cost of a uniform or other suitable clothing that is required for 
 
 (Authority: Sections 7(28), 12(c), 102(b)(4)(B)(i)(I)(bb), and 103(a)(9) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 705(28), 709(c), 722(b)(4)(B)(i)(I)(bb), and 723(a)(9))
 
-(39) *Physical and mental restoration services* means -
+(39) *Physical and mental restoration services* means—
 
 (i) Corrective surgery or therapeutic treatment that is likely, within a reasonable period of time, to correct or modify substantially a stable or slowly progressive physical or mental impairment that constitutes a substantial impediment to employment;
 
@@ -508,13 +504,11 @@ Example 1:The cost of a uniform or other suitable clothing that is required for 
 
 (Authority: Sections 12(c) and 103(a)(6) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 709(c) and 723(a)(6))
 
-(40) *Physical or mental impairment* means -
+(40) *Physical or mental impairment* means—
 
 (i) Any physiological disorder or condition, cosmetic disfigurement, or anatomical loss affecting one or more of the following body systems: neurological, musculo-skeletal, special sense organs, respiratory (including speech organs), cardiovascular, reproductive, digestive, genitourinary, hemic and lymphatic, skin, and endocrine; or
 
 (ii) Any mental or psychological disorder such as intellectual disability, organic brain syndrome, emotional or mental illness, and specific learning disabilities.
-
-(Authority: Sections 7(20)(A) and 12(c) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 705(20)(A) and 709(c))
 
 (41) *Post-employment services* means one or more of the services identified in § 361.48(b) that are provided subsequent to the achievement of an employment outcome and that are necessary for an individual to maintain, regain, or advance in employment, consistent with the individual's unique strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice.
 
@@ -526,7 +520,7 @@ Post-employment services are intended to ensure that the employment outcome rema
 
 (Authority: Sections 7(30) and 113(b) and (c) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 705(30) and 733(b) and (c))
 
-(43) *Qualified and impartial mediator* - (i) *Qualified and impartial mediator* means an individual who -
+(43) *Qualified and impartial mediator*—(i) *Qualified and impartial mediator* means an individual who—
 
 (A) Is not an employee of a public agency (other than an administrative law judge, hearing examiner, employee of a State office of mediators, or employee of an institution of higher education);
 
@@ -572,7 +566,7 @@ Post-employment services are intended to ensure that the employment outcome rema
 
 (Authority: Section 7(36) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 705(36))
 
-(51) *Student with a disability* - (i) *Student with a disability* means, in general, an individual with a disability in a secondary, postsecondary, or other recognized education program who -
+(51) *Student with a disability*—(i) *Student with a disability* means, in general, an individual with a disability in a secondary, postsecondary, or other recognized education program who—
 
 (A)(*1*) Is not younger than the earliest age for the provision of transition services under section 614(d)(1)(A)(i)(VIII) of the Individuals with Disabilities Education Act (20 U.S.C. 1414(d)(1)(A)(i)(VIII)); or
 
@@ -594,13 +588,13 @@ Post-employment services are intended to ensure that the employment outcome rema
 
 (Authority: Sections 7(20)(A) and 12(c) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 705(20)(A) and 709(c))
 
-(53) *Supported employment* - (i) *Supported employment* means competitive integrated employment, including customized employment, or employment in an integrated work setting in which an individual with a most significant disability, including a youth with a most significant disability, is working on a short-term basis toward competitive integrated employment that is individualized, and customized, consistent with the unique strengths, abilities, interests, and informed choice of the individual, including with ongoing support services for individuals with the most significant disabilities -
+(53) *Supported employment*—(i) *Supported employment* means competitive integrated employment, including customized employment, or employment in an integrated work setting in which an individual with a most significant disability, including a youth with a most significant disability, is working on a short-term basis toward competitive integrated employment that is individualized, and customized, consistent with the unique strengths, abilities, interests, and informed choice of the individual, including with ongoing support services for individuals with the most significant disabilities—
 
 (A) For whom competitive integrated employment has not historically occurred, or for whom competitive integrated employment has been interrupted or intermittent as a result of a significant disability; and
 
 (B) Who, because of the nature and severity of their disabilities, need intensive supported employment services and extended services after the transition from support provided by the designated State unit, in order to perform this work.
 
-(ii) For purposes of this part, an individual with a most significant disability, whose supported employment in an integrated setting does not satisfy the criteria of competitive integrated employment, as defined in paragraph (c)(9) of this section is considered to be working on a short-term basis toward competitive integrated employment so long as the individual can reasonably anticipate achieving competitive integrated employment -
+(ii) For purposes of this part, an individual with a most significant disability, whose supported employment in an integrated setting does not satisfy the criteria of competitive integrated employment, as defined in paragraph (c)(9) of this section is considered to be working on a short-term basis toward competitive integrated employment so long as the individual can reasonably anticipate achieving competitive integrated employment—
 
 (A) Within six months of achieving a supported employment outcome; or
 
@@ -608,7 +602,7 @@ Post-employment services are intended to ensure that the employment outcome rema
 
 (Authority: Sections 7(38), 12(c), and 602 of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 705(38), 709(c), and 795g)
 
-(54) *Supported employment services* means ongoing support services, including customized employment, and other appropriate services needed to support and maintain an individual with a most significant disability, including a youth with a most significant disability, in supported employment that are -
+(54) *Supported employment services* means ongoing support services, including customized employment, and other appropriate services needed to support and maintain an individual with a most significant disability, including a youth with a most significant disability, in supported employment that are—
 
 (i) Organized and made available, singly or in combination, in such a way as to assist an eligible individual to achieve competitive integrated employment;
 
@@ -620,7 +614,7 @@ Post-employment services are intended to ensure that the employment outcome rema
 
 (Authority: Sections 7(39), 12(c), and 103(a)(16) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 705(39), 709(c), and 723(a)(16))
 
-(55) *Transition services* means a coordinated set of activities for a student or youth with a disability -
+(55) *Transition services* means a coordinated set of activities for a student or youth with a disability—
 
 (i) Designed within an outcome-oriented process that promotes movement from school to post-school activities, including postsecondary education, vocational training, competitive integrated employment, supported employment, continuing and adult education, adult services, independent living, or community participation;
 
@@ -644,13 +638,13 @@ Example 1:Travel and related expenses for a personal care attendant or aide if t
 
 (ii) [Reserved]
 
-(57) *Vocational rehabilitation services* - (i) If provided to an individual, means those services listed in § 361.48; and
+(57) *Vocational rehabilitation services*—(i) If provided to an individual, means those services listed in § 361.48; and
 
 (ii) If provided for the benefit of groups of individuals, means those services listed in § 361.49.
 
 (Authority: Sections 7(40) and 103 of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 705(40) and 723)
 
-(58) *Youth with a disability* - (i) *Youth with a disability* means an individual with a disability who is not -
+(58) *Youth with a disability*—(i) *Youth with a disability* means an individual with a disability who is not—
 
 (A) Younger than 14 years of age; and
 
@@ -658,4 +652,4 @@ Example 1:Travel and related expenses for a personal care attendant or aide if t
 
 (ii) *Youth with disabilities* means more than one youth with a disability.
 
-(Authority: Section 7(42) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 705(42))
+(Authority: Section 7(42) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 705(42))[81 FR 55741, Aug. 19, 2016, as amended at 82 FR 31913, July 11, 2017]

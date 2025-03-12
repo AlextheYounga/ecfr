@@ -1,5 +1,7 @@
 ##### § 1600.1 Definitions. #####
 
+Link to an amendment published at 82 FR 37337, Aug. 10, 2017.
+
 As used in these regulations, chapter XVI, unless otherwise indicated, the term -
 
 *Act* means the Legal Services Corporation Act, Pub. L. 93-355 (1974), as amended, Pub. L. 95-222 (1977), 42 U.S.C. 2996-29961.

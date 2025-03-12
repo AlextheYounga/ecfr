@@ -1,7 +1,5 @@
 ##### § 104.3 Definitions. #####
 
-Link to an amendment published at 82 FR 31912, July 11, 2017.
-
 As used in this part, the term:
 
 (a) *The Act* means the Rehabilitation Act of 1973, Pub. L. 93-112, as amended by the Rehabilitation Act Amendments of 1974, Pub. L. 93-516, 29 U.S.C. 794.
@@ -32,11 +30,11 @@ As used in this part, the term:
 
 (i) *Facility* means all or any portion of buildings, structures, equipment, roads, walks, parking lots, or other real or personal property or interest in such property.
 
-(j) *Handicapped person* - (1) *Handicapped persons* means any person who (i) has a physical or mental impairment which substantially limits one or more major life activities, (ii) has a record of such an impairment, or (iii) is regarded as having such an impairment.
+(j) *Handicapped person*—(1) *Handicapped persons* means any person who (i) has a physical or mental impairment which substantially limits one or more major life activities, (ii) has a record of such an impairment, or (iii) is regarded as having such an impairment.
 
 (2) As used in paragraph (j)(1) of this section, the phrase:
 
-(i) *Physical or mental impairment* means (A) any physiological disorder or condition, cosmetic disfigurement, or anatomical loss affecting one or more of the following body systems: neurological; musculoskeletal; special sense organs; respiratory, including speech organs; cardiovascular; reproductive, digestive, genito-urinary; hemic and lymphatic; skin; and endocrine; or (B) any mental or psychological disorder, such as mental retardation, organic brain syndrome, emotional or mental illness, and specific learning disabilities.
+(i) *Physical or mental impairment* means (A) any physiological disorder or condition, cosmetic disfigurement, or anatomical loss affecting one or more of the following body systems: neurological; musculoskeletal; special sense organs; respiratory, including speech organs; cardiovascular; reproductive, digestive, genito-urinary; hemic and lymphatic; skin; and endocrine; or (B) any mental or psychological disorder, such as intellectual disability, organic brain syndrome, emotional or mental illness, and specific learning disabilities.
 
 (ii) *Major life activities* means functions such as caring for one's self, performing manual tasks, walking, seeing, hearing, speaking, breathing, learning, and working.
 
@@ -44,7 +42,7 @@ As used in this part, the term:
 
 (iv) *Is regarded as having an impairment* means (A) has a physical or mental impairment that does not substantially limit major life activities but that is treated by a recipient as constituting such a limitation; (B) has a physical or mental impairment that substantially limits major life activities only as a result of the attitudes of others toward such impairment; or (C) has none of the impairments defined in paragraph (j)(2)(i) of this section but is treated by a recipient as having such an impairment.
 
-(k) *Program or activity* means all of the operations of -
+(k) *Program or activity* means all of the operations of—
 
 (1)(i) A department, agency, special purpose district, or other instrumentality of a State or of a local government; or
 
@@ -54,7 +52,7 @@ As used in this part, the term:
 
 (ii) A local educational agency (as defined in 20 U.S.C. 8801), system of vocational education, or other school system;
 
-(3)(i) An entire corporation, partnership, or other private organization, or an entire sole proprietorship -
+(3)(i) An entire corporation, partnership, or other private organization, or an entire sole proprietorship—
 
 (A) If assistance is extended to such corporation, partnership, private organization, or sole proprietorship as a whole; or
 
@@ -78,4 +76,4 @@ As used in this part, the term:
 
 (m) *Handicap* means any condition or characteristic that renders a person a handicapped person as defined in paragraph (j) of this section.
 
-[45 FR 30936, May 9, 1980, as amended at 65 FR 68054, Nov. 13, 2000]
+[45 FR 30936, May 9, 1980, as amended at 65 FR 68054, Nov. 13, 2000; 82 FR 31912, July 11, 2017]
