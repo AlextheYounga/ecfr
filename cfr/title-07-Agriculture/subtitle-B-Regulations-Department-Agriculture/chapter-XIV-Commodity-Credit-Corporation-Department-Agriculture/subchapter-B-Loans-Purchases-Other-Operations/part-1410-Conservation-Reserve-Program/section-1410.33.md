@@ -2,25 +2,21 @@
 
 (a) As agreed between CCC and the participant, a CRP contract may be modified in order to:
 
-(1) Decrease acreage in the CRP;
+(1) Decrease acreage in CRP, provided that such modification will be considered a partial termination for purposes of § 1410.32(e);
 
-(2) Permit the production of an agricultural commodity under extraordinary circumstances during a crop year on all or part of the land subject to the CRP contract as determined by the Deputy Administrator;
+(2) Permit the production of an agricultural commodity under exceptional circumstances during a crop year on all or part of the land subject to the CRP contract;
 
-(3) Facilitate the practical administration of the CRP;
+(3) Facilitate the practical administration of CRP; or
 
-(4) During the final year of the CRP contract's term, facilitate a transition of land subject to the contract from a retired or retiring owner or operator to a beginning, socially disadvantaged, or veteran farmer or rancher for the purpose of returning some or all of the land into production using sustainable grazing or crop production methods; provided that for this purpose “sustainable grazing and crop production methods” will be considered, as determined by the Deputy Administrator, to be methods that would be designed as part of an overall plan defined on an ecosystem level to be useful in the creation of integrated systems of plant and animal production practices that have a site specific application that would:
+(4) During the last 2 years of the CRP contract period, facilitate a transition of land subject to the contract to a beginning, socially disadvantaged, or veteran farmer or rancher for the purpose of returning some or all of the land into production using sustainable grazing or crop production methods. For purposes of this paragraph (a)(4), “sustainable grazing and crop production methods” will be considered methods that would be designed as part of an overall plan defined on an ecosystem level to be useful in the creation of integrated systems of plant and animal production practices that have a site specific application that would:
 
-(i) Meet human needs for food and fiber;
+(i) Enhance the environment and the natural resource base;
 
-(ii) Enhance the environment and the natural resource base;
+(ii) Use nonrenewable resources efficiently; and
 
-(iii) Use nonrenewable resources efficiently; and
+(iii) Sustain the economic viability of the farming operation.
 
-(iv) Sustain the economic viability of farming operation; or
-
-(5) Accomplish the goals and objectives of the CRP, as determined by the Deputy Administrator.
-
-(b) CCC may modify CRP contracts to add, delete, or substitute practices when, as determined by the Deputy Administrator:
+(b) CCC may modify CRP contracts to add or substitute practices when:
 
 (1) The installed practice failed to adequately provide for the desired environmental benefit through no fault of the participant; or
 
@@ -30,20 +26,18 @@
 
 (c) Offers to extend contracts may be made as allowed by law.
 
-(d) The Deputy Administrator may terminate a CRP contract if the participant agrees to such termination and the Deputy Administrator determines such termination to be in the public interest.
+(d) For the transfer of land into WRP, ACEP, or other Federal or State programs:
 
-(e) CCC may terminate or modify a CRP contract when the land is transferred into WRP, ACEP, or other Federal or State programs, as determined by the Deputy Administrator.
+(1) CCC may terminate or modify a CRP contract in whole or in part when the land is transferred into WRP, ACEP, or other Federal or State programs.
 
-(1) For contracts terminated or modified for enrollment in other Federal or State programs, participants will not be required to repay CRP payments or pay interest and liquidated damages to CCC, as otherwise required for contract violations under § 1410.52, unless determined otherwise by the Deputy Administrator, with the following exception:
+(2) For contracts terminated or modified for enrollment in other Federal or State programs, participants will not be required to refund CRP payments or pay interest and liquidated damages to CCC, as otherwise required under this part.
 
-(2) Participants will be required to repay CRP Signing Incentive Payments and Practice Incentive Payments if land containing a wetland reserve easement is enrolled in ACEP.
+(3) Notwithstanding paragraph (d)(2) of this section, participants must refund CRP signup incentive payments if land in CRP containing a wetland reserve easement is enrolled in ACEP.
 
-(f) During the final year of the CRP contract's term, CCC will allow an owner or operator to make conservation and land improvements (resource conserving uses) for economic use that facilitate maintaining protection of enrolled land after expiration of the contract, but only under the following conditions:
+(e) During the final year of the CRP contract period, CCC will allow an owner or operator to make conservation and land improvements for economic use that facilitate maintaining protection of enrolled land after expiration of the CRP contract, but only under the following conditions:
 
 (1) All provisions are identified in an approved CRP conservation plan;
 
-(2) Land improved in accordance with paragraph (f) of this section will not be eligible to be re-enrolled in CRP for 5 years after the date of the expiration or termination of the contract; and
+(2) Land improved in accordance with paragraph (e) of this section will not be eligible to be re-enrolled in CRP for 5 years after end of the CRP contract period; and
 
-(3) CCC will reduce the final annual rental payment otherwise payable under the contract by an amount commensurate with the economic value of the resource conserving use activity carried out.
-
-[68 FR 24835, May 8, 2003, as amended at 75 FR 27169, May 14, 2010; 80 FR 42003, 42005, July 16, 2015]
+(3) CCC will reduce the final annual rental payment otherwise payable under the CRP contract by an amount commensurate with the economic value of the activity carried out.

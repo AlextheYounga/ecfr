@@ -1,9 +1,15 @@
 ##### § 1410.41 Levels and rates for cost-share payments. #####
 
-(a) As determined by the Deputy Administrator, CCC will not pay more than 50 percent of the actual or average cost of establishing eligible practices specified in the conservation plan. CCC may allow cost-share payments for maintenance costs, consistent with the provisions of § 1410.40 and the Deputy Administrator may determine the period and amount of such cost-share payments.
+(a) CCC will not pay more than 50 percent of either the actual or average cost of installing eligible practices specified in the conservation plan.
 
-(b) The average cost of performing a practice may be determined by the Deputy Administrator based on recommendations from the State Technical Committee. Such cost may be the average cost in a State, a county, or a part of a State or county, as determined by the Deputy Administrator.
+(b) The average cost of performing a practice may be based on recommendations from the State Technical Committee. Such cost may be the average cost in a State, a county, or a part of a State or county.
 
-(c) Except as otherwise provided, a participant may, in addition to any payment under this part, receive cost-share assistance, rental payments, or tax benefits from a State or a private organization in return for enrolling lands in CRP. However, as provided under § 1410.40(f), a participant may not receive or retain CRP cost-share assistance if other Federal cost-share assistance is provided for such acreage, as determined by the Deputy Administrator. Further, under no circumstances may the cost-share payments received under this part, or otherwise, exceed the cost of the practice, as determined by the Deputy Administrator.
+(c) If there is any other sources of cost-share assistance:
 
-[68 FR 24835, May 8, 2003, as amended at 80 FR 42003, 42005, July 16, 2015]
+(1) A participant may, in addition to any payment under this part, receive cost-share assistance, rental or easement payments, tax benefits, or other payments from a State or a private organization in return for enrolling lands in CRP.
+
+(2) A participant may not receive or retain CRP cost-share payments if other Federal cost-share assistance is provided for such acreage under any law.
+
+(d) Notwithstanding paragraphs (a) and (b) of this section, cost-share payments for eligible seed related to the establishment of approved cover will not exceed 50 percent of the actual cost of the eligible seed mixture.
+
+(e) Practice incentive payments will not exceed an amount equal to 50 percent of the actual cost of installing the eligible practice specified in the conservation plan.

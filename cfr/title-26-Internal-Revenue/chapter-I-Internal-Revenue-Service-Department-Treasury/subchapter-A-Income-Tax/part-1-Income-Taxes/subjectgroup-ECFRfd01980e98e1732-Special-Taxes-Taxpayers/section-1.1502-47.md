@@ -187,7 +187,7 @@ Example 1.L1, L2, and L3 were eligible members. For 1982, P and S may either fil
 
 (ii) The tax imposed by section 1201 on consolidated net capital gain (as determined under paragraph (o) of this section) in lieu of the tax imposed under paragraph (f)(7)(i) of this section on that gain.
 
-(iii) Any taxes described in § 1.1502-2 (other than by paragraphs (a), (f), and (h) thereof).
+(iii) Any taxes described in § 1.1502-2 (other than by paragraphs (a)(1) and (6) of that section).
 
 (g) *Consolidated taxable income.* The consolidated taxable income is the sum of the following three amounts:
 
@@ -422,4 +422,4 @@ Example 4.The facts are the same as in example (3), except that P elects under s
 
 (t) *Effective/applicability date.* Paragraph (s) of this section applies to any consolidated Federal income tax return due (without extensions) on or after December 21, 2009. However, a consolidated group may apply paragraph (s) of this section to any consolidated Federal income tax return filed on or after December 21, 2009. For returns due before December 21, 2009, see § 1.1502-47T as contained in 26 CFR part 1 in effect on April 1, 2009.
 
-(Secs. 1502 and 7805 of the Internal Revenue Code of 1954 (68A Stat. 637, 917; 26 U.S.C. 1502, 7805))[T.D. 7877, 48 FR 11441, Mar. 18, 1983, as amended by T.D. 7912, 48 FR 40215, Sept. 6, 1983; T.D. 8560, 59 FR 41674, Aug. 15, 1994; T.D. 8597, 60 FR 36679, 36680, July 18, 1995; T.D. 8677, 61 FR 33324, June 27, 1996; T.D. 8823, 64 FR 36100, July 2, 1999; T.D. 9258, 71 FR 23856, Apr. 25, 2006; T.D. 9304, 71 FR 76907, Dec. 22, 2006; T.D. 9342, 72 FR 39736, July 20, 2007; T.D. 9476, 74 FR 68532, Dec. 28, 2009]
+(Secs. 1502 and 7805 of the Internal Revenue Code of 1954 (68A Stat. 637, 917; 26 U.S.C. 1502, 7805))[T.D. 7877, 48 FR 11441, Mar. 18, 1983, as amended by T.D. 7912, 48 FR 40215, Sept. 6, 1983; T.D. 8560, 59 FR 41674, Aug. 15, 1994; T.D. 8597, 60 FR 36679, 36680, July 18, 1995; T.D. 8677, 61 FR 33324, June 27, 1996; T.D. 8823, 64 FR 36100, July 2, 1999; T.D. 9258, 71 FR 23856, Apr. 25, 2006; T.D. 9304, 71 FR 76907, Dec. 22, 2006; T.D. 9342, 72 FR 39736, July 20, 2007; T.D. 9476, 74 FR 68532, Dec. 28, 2009; T.D. 9885, 84 FR 67039, Dec. 6, 2019]

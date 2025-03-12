@@ -1,13 +1,19 @@
 ##### § 1410.4 Maximum county acreage. #####
 
-(a) Except as provided in paragraph (b) of this section and certain shelterbelts, windbreaks, and wet and saturated soils enrolled under ACEP, the maximum cropland acreage that may be placed in the CRP and the wetland reserve easements of WRP and ACEP, as appropriate, may not exceed 25 percent of the total cropland in the county. No more than 10 percent of the cropland in a county may be subject, in the aggregate, to a CRP or wetland reserve easement.
+(a) Except as provided in paragraph (b) of this section the maximum cropland acreage that may be placed in CRP and the wetland reserve easements of WRP and ACEP, as appropriate, may not exceed 25 percent of the total cropland in the county. No more than 15 percent of the cropland in a county may be subject, in the aggregate, to a wetland reserve easement.
 
-(b) The restrictions in paragraph (a) of this section may be waived by the Deputy Administrator as follows:
+(b) The restrictions in paragraph (a) of this section:
 
-(1) If the Deputy Administrator determines that such action would not adversely affect the local economy of the county and that operators in the county are having difficulties complying with conservation plans implemented under part 12 of this title; or
+(1) May be waived by CCC as follows:
 
-(2) Cropland in a county enrolled under provisions as specified in § 1410.30 or § 1410.50 may be excluded from the restrictions in paragraph (a) of this section, as determined by the Deputy Administrator, provided that the county government concurs.
+(i) If such waiver would not adversely affect the local economy of the county and that operators in the county are having difficulties complying with conservation plans implemented under part 12 of this title; or
 
-(c) These restrictions on participation are in addition to any other restriction imposed by law.
+(ii) If the cropland, in a county, is enrolled under provisions as specified in § 1410.90, provided that the county government concurs with such waiver.
 
-[80 FR 42000, July 16, 2015]
+(2) Do not apply to cropland that is:
+
+(i) Subject to an easement and enrolled in CRP as a shelterbelt or windbreak; or
+
+(ii) Designated with subclass w in the land capability classes IV through VIII because of severe use limitations due to soil saturation or inundation, as determined by NRCS.
+
+(c) The restrictions on acreage enrollment in this section are in addition to any other restrictions imposed by law.

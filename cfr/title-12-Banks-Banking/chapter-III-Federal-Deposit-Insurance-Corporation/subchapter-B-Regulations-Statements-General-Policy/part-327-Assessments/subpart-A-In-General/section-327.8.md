@@ -1,5 +1,7 @@
 ##### § 327.8 Definitions. #####
 
+Link to an amendment published at 84 FR 66838, Dec. 6, 2019.
+
 For the purpose of this part 327:
 
 (a) *Deposits.* The term *deposit* has the meaning specified in section 3(*l*) of the Federal Deposit Insurance Act.

@@ -1,6 +1,6 @@
 ##### § 1410.63 Permissive uses. #####
 
-(a) Unless otherwise specified by the Deputy Administrator, no uses of any kind are authorized on designated CRP acreage during the contract period.
+(a) Unless specified in this part or otherwise approved by CCC, no uses of any kind are authorized on CRP acreage during the contract period.
 
 (b) Commercial shooting preserves may be operated on CRP acreage provided:
 
@@ -8,40 +8,66 @@
 
 (2) The commercial shooting preserve is operated in a manner consistent with the applicable State agency rules governing commercial shooting preserves; and
 
-(3) CRP cover is maintained according to the conservation and; plan
+(3) The CRP cover is maintained according to the conservation plan.
 
-(c) No barrier fencing or boundary limitations that prohibit wildlife access to or from the CRP acreage are allowed as part of any permissive use, unless required by State law.
+(c) No barrier fencing or boundary limitations that prohibit wildlife access to or from the CRP acreage are allowed, unless required by State law.
 
-(d) The following activities may be permitted, as determined by the Deputy Administrator, on CRP enrolled land insofar as they are consistent with the conservation purposes of CRP including timing, frequency, and duration as provided in an approved CRP conservation plan that identifies appropriate vegetative management requirements:
+(d) Wind turbines and associated access to the wind turbines may be installed on CRP acreage in numbers and locations as determined appropriate by CCC considering the location, size, and other physical characteristics of the land, the extent to which the land contains threatened or endangered wildlife and wildlife habitat, and the purposes of CRP, but only in exchange for a 25 percent reduction in the annual rental payment for the acres covered by the wind turbine and associated access acreage.
 
-(1) Managed harvesting and other commercial uses, including managed harvesting of biomass, but only in exchange for a payment reduction of not less than 25 percent as determined by the Deputy Administrator, and only in accordance with vegetative management requirements, harvest period, and a harvest frequency developed in coordination with the State Technical committee and timing of harvesting activities outside the nesting season at least every 5 years, but not more than once every 3 years, and only as identified in an approved CRP conservation plan;
+(e) The sale of carbon, water quality, or environmental credits may be permitted by CCC.
 
-(2) Routine grazing in accordance with appropriate vegetative management requirements and stocking rates for the land, grazing frequency, and grazing periods outside the nesting season developed in coordination with the State Technical Committee, of not more than once every 2 years, and only as identified in an approved CRP conservation plan. Routine grazing will only be permitted in exchange for a payment reduction of not less than 25 percent, as determined by the Deputy Administrator, except that a beginning farmer or rancher may conduct routine grazing without payment reduction;
+(f) There are specific activities that are permitted on specific land:
 
-(3) Prescribed grazing for the control of invasive species in accordance with appropriate vegetative management requirements and stocking rates for the land, grazing frequency, and grazing periods outside the nesting season, and only as identified in an approved CRP conservation plan. Prescribed grazing will only be permitted in exchange for a payment reduction of not less than 25 percent, as determined by the Deputy Administrator, except that a beginning farmer or rancher may conduct prescribed grazing by without payment reduction;
+(1) The permitted activities provisions of paragraphs (f)(2) and (3) of this section do not apply to land enrolled under:
 
-(4) Harvesting, grazing, or other commercial use of the forage on the land in response to a drought, flooding, or other emergency, consistent with an approved CRP conservation plan;
+(i) A grassland signup authorized by § 1410.30(c);
 
-(5) Wind turbines on CRP land installed in numbers and locations as determined appropriate by the Deputy Administrator considering the location, size, and other physical characteristics of the land, the extent to which the land contains threatened or endangered wildlife and wildlife habitat, and the purposes of CRP, but only in exchange for a payment reduction as determined by the Deputy Administrator;
+(ii) The Soil Health and Income Protection Pilot Program described in § 1410.70;
 
-(6) Spot grazing, if necessary for control of weed infestation, and not to exceed a 30-day period according to an approved conservation plan, but only in exchange for a payment reduction as determined by the Deputy Administrator;
+(iii) The Conservation Reserve Enhancement Program described in § 1410.90:
 
-(7) Intermittent and seasonal use of vegetative buffer practices incidental to agricultural production on lands adjacent to the buffer such that the permitted use does not destroy the permanent vegetative cover, as determined by the Deputy Administrator, only as identified in an approved CRP conservation plan, and in exchange for a payment reduction of not less than 25 percent;
+(A) Except for land enrolled under Conservation Reserve Enhancement Program agreements executed before December 20, 2018; provided, that such agreements may be amended by mutual agreement to disallow such otherwise permitted activities; or
 
-(8) The sale of carbon, water quality, or environmental credits, as determined appropriate by CCC;
+(B) Unless the approved Conservation Reserve Enhancement Program agreement under which the land was enrolled specifically permits such activity; and
 
-(9) When enrolled land is established to tree planting practices or otherwise converted to forestry uses, customary forestry activities are authorized such as, but not limited to, thinning and prescribed burning, in a manner consistent with the participant's conservation plan. Such activities must be designed to promote forest health, enhance wildlife habitat, and improve the general resource conditions of enrolled lands. An incentive payment is authorized as specified in § 1410.42(h).
+(iv) A State Acres for Wildlife Enhancement project, unless the State Acres for Wildlife Enhancement project under which the land was enrolled specifically permits such activity.
 
-(e) For land enrolled under a grassland signup type as authorized by § 1410.30(b) only, the following activities may also be permitted, as determined by the Deputy Administrator:
+(2) The following activities may be permitted on CRP acreage according to an approved conservation plan, without any reduction to the annual rental payment:
 
-(1) Common grazing practices, including maintenance and necessary cultural practices, on the land in a manner that is consistent with maintaining the viability of grassland, forb, and shrub species appropriate to the locality;
+(i) Emergency haying, emergency grazing, or emergency use of the forage in response to a localized or regional drought, flooding, wildfire, or other emergency as determined by CCC on all practices, outside the primary nesting season, when:
 
-(2) Haying, mowing, or harvesting for seed production subject to appropriate restrictions during the nesting season;
+(A) All or any part of the county in which the CRP acreage is located is designated as D2 (severe drought) or greater according to the United States Drought Monitor;
 
-(3) Fire pre-suppression, fire-related rehabilitation, and construction of firebreaks;
+(B) There is at least a 40 percent loss in forage production in the county in which the CRP acreage is located; or
 
-(4) Grazing related activities, such as fencing and livestock watering facilities; and
+(C) CCC determines that CRP can assist in the response to a natural disaster event without permanent damage to the established cover;
 
-(5) Other activities as determined by the Deputy Administrator, when the manner, number, intensity, location, operation, and other features associated with the activity will not adversely affect the grassland resources or related conservation values protected under a grassland CRP contract.
+(ii) Emergency grazing on all practices during the primary nesting season if payments are authorized for the county under the Livestock Forage Disaster Program under part 1416 of this chapter, at 50 percent of the normal carrying capacity determined in accordance with part 1416 of this chapter;
 
-[68 FR 24835, May 8, 2003, as amended at 69 FR 26763, May 14, 2004; 75 FR 44071, July 28, 2010; 80 FR 42004, July 16, 2015]
+(iii) Emergency haying on certain practices, as determined by CCC, only outside the primary nesting season, if payments are authorized for the county under the Livestock Forage Disaster Program under part 1416 of this chapter, but on not more than 50 percent of the eligible CRP contract acres;
+
+(iv) Grazing of all practices only outside the primary nesting season if included as an approved CRP contract management activity in accordance with § 1410.22;
+
+(v) The intermittent and seasonal grazing of vegetative buffers, only outside the primary nesting season, that are incidental to agricultural production on land adjacent to the buffer provided such grazing:
+
+(A) Does not destroy the permanent vegetative cover; and
+
+(B) Retains suitable vegetative structure for wildlife cover and shelter outside the primary nesting season; and
+
+(vi) Grazing on all practices only outside the primary nesting season if conducted by a beginning farmer or rancher who is a participant on the CRP contract with a share of the rental payment greater than zero.
+
+(3) The following activities may be permitted on CRP acreage according to an approved conservation plan, but only in exchange for a 25 percent reduction to the annual rental payment for the acres on which the permitted activity occurred:
+
+(i) Grazing of all practices not more frequently than every other year on the same land, except that during the primary nesting season the grazing will be subject to a 50 percent reduction in the stocking rate, as determined by CCC;
+
+(ii) Haying and other commercial use (including the managed harvesting of biomass, but not the harvesting of vegetative cover) of all practices, on the condition the activity:
+
+(A) Is completed only outside the primary nesting season;
+
+(B) Occurs not more than once every 3 years; and
+
+(C) Maintains 25 percent of the total CRP contract acres unharvested, in accordance with a conservation plan that provides for wildlife cover and shelter; and
+
+(iii) Annual grazing of all practices, only outside the primary nesting season for the control of invasive species.
+
+(g) Not withstanding paragraph (f) of this section, haying and grazing will not be permitted on any land enrolled in CRP if such haying and grazing for that year would cause long-term damage to the vegetative cover on that land.

@@ -1,25 +1,29 @@
 ##### § 1.1502-2 Computation of tax liability. #####
 
-The tax liability of a group for a consolidated return year shall be determined by adding together:
+(a) *Taxes imposed.* The tax liability of a group for a consolidated return year is determined by adding together—
 
-(a) The tax imposed by section 11 on the consolidated taxable income for such year (see § 1.1502-11 for the computation of consolidated taxable income);
+(1) The tax imposed by section 11(a) in the amount described in section 11(b) on the consolidated taxable income for the year (reduced by the taxable income of a member described in paragraphs (a)(5) through (8) of this section);
 
-(b) The tax imposed by section 541 on the consolidated undistributed personal holding company income;
+(2) The tax imposed by section 541 on the consolidated undistributed personal holding company income;
 
-(c) If paragraph (b) of this section does not apply, the aggregate of the taxes imposed by section 541 on the separate undistributed personal holding company income of the members which are personal holding companies;
+(3) If paragraph (a)(2) of this section does not apply, the aggregate of the taxes imposed by section 541 on the separate undistributed personal holding company income of the members which are personal holding companies;
 
-(d) If paragraph (b) of this section does not apply, the tax imposed by section 531 on the consolidated accumulated taxable income (see § 1.1502-43);
+(4) If neither paragraph (a)(2) nor (3) of this section apply, the tax imposed by section 531 on the consolidated accumulated taxable income (see § 1.1502-43);
 
-(e) The tax imposed by section 594(a) in lieu of the taxes imposed by section 11 or 1201 on the taxable income of a life insurance department of the common parent of a group which is a mutual savings bank;
+(5) The tax imposed by section 594(a) in lieu of the taxes imposed by section 11 on the taxable income of a life insurance department of the common parent of a group which is a mutual savings bank;
 
-(f) The tax imposed by section 802(a) on consolidated life insurance company taxable income;
+(6) The tax imposed by section 801 on consolidated life insurance company taxable income;
 
-(g) The tax imposed by section 831(a) on the consolidated insurance company taxable income of the members which are subject to such tax;
+(7) The tax imposed by section 831(a) on consolidated insurance company taxable income of the members which are subject to such tax;
 
-(h) The tax imposed by section 1201, instead of the taxes computed under paragraphs (a) and (g) of this section, computed by reference to the net capital gain of the group (see § 1.1502-22) (or, for consolidated return years to which § 1.1502-22 does not apply, computed by reference to the excess of the consolidated net long-term capital gain over the consolidated net short-term capital loss (see § 1.1502-41A for the determination of the consolidated net long-term capital gain and the consolidated net short-term capital loss));
+(8) Any increase in tax described in section 1351(d)(1) (relating to recoveries of foreign expropriation losses); and
 
-(i) [Reserved]
+(9) The tax imposed by section 59A on base erosion payments of taxpayers with substantial gross receipts.
 
-(j) The tax imposed by section 1333 on war loss recoveries; and
+(b) *Credits.* A group is allowed as a credit against the taxes described in paragraph (a) of this section (except for paragraph (a)(9) of this section) of this section: The general business credit under section 38 (see § 1.1502-3), the foreign tax credit under section 27 (see § 1.1502-4), and any other applicable credits provided under the Internal Revenue Code. Any increase in tax due to the recapture of a tax credit will be taken into account. See section 59A and the regulations thereunder for credits allowed against the tax described in paragraph (a)(9) of this section.
 
-by allowing as a credit against such taxes the investment credit under section 38 (see § 1.1502-3), and the foreign tax credit under section 33 (see § 1.1502-4). For purposes of this section, the surtax exemption of the group for a consolidated return year is $25,000, or if a lesser amount is allowed under section 1561, such lesser amount. See § 1.1561-2(a)(2). For increase in tax due to the application of section 47, see § 1.1502-3(f). For amount of tax surcharge, see section 51 and § 1.1502-7.[T.D. 6894, 31 FR 11794, Sept. 8, 1966, as amended by T.D. 7093, 36 FR 4871, Mar. 13, 1971; T.D. 7937, 49 FR 3462, Jan. 27, 1984; T.D. 8677, 61 FR 33326, June 27, 1996; T.D. 8823, 64 FR 36099, July 2, 1999]
+(c) *Allocation of dollar amounts.* For purposes of this section, if a member or members of the consolidated group are also members of a controlled group that includes corporations that are not members of the consolidated group, any dollar amount described in any section of the Internal Revenue Code is apportioned among all members of the controlled group in accordance with the provisions of the applicable section and the regulations thereunder.
+
+(d) *Applicability date*—This section applies to taxable years for which the original consolidated Federal income tax return is due (without extension) after December 6, 2019.
+
+[T.D. 9885, 84 FR 67038, Dec. 6, 2019]

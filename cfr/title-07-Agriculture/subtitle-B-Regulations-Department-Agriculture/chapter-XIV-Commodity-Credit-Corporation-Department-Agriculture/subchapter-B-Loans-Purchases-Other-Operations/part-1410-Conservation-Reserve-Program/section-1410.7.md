@@ -1,11 +1,9 @@
 ##### § 1410.7 Duration of contracts. #####
 
-(a) Contracts with land devoted to hardwood trees, shelterbelts, windbreaks, or wildlife corridors will be for a term of 10 years to 15 years, as requested by the applicant.
+(a) In general, except as provided in paragraphs (b) and (c) of this section and §§ 1410.70 and 1410.80, the CRP contract period will be for a term of at least 10 years, and up to no more than 15 years.
 
-(b) Other general and continuous signup contracts under this part will be for a term of 10 to 15 years, as determined by the Deputy Administrator.
+(b) The CRP contract period for land enrolled under a grassland signup as specified in § 1410.30(c) will be for a term of 10 years or 15 years, as requested by the producer.
 
-(c) Grassland signup contracts will be for a term of 15 years.
+(c) CRP contracts for land devoted to hardwood trees, shelterbelts, windbreaks, and wildlife corridors will be for a term of 10 years to 15 years, as requested by the producer.
 
-(d) All contracts will expire on September 30 of the final calendar year of the contract.
-
-[80 FR 42001, July 16, 2015]
+(d) All CRP contracts will expire on September 30 of the final calendar year of the contract period.

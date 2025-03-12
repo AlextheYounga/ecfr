@@ -1,85 +1,111 @@
 ##### § 1410.6 Eligible land. #####
 
-(a) In order to be eligible to be placed in the CRP, land must be one of the following:
+(a) The provisions of paragraphs (b), (c), and (d) of this section do not apply to:
 
-(1) Cropland that is subject to a conservation plan and has been annually planted or considered planted, as defined in § 1410.2, to an agricultural commodity in 4 of the 6 crop years from 2008 through 2013, as determined by the Deputy Administrator, including field margins that are incidental to the planting of crops if:
+(1) The Transition Incentives Program as specified in § 1410.64;
 
-(i) Including such field margins is determined appropriate by the Deputy Administrator; and
+(2) The Soil Health and Income Protection Pilot Program as specified in § 1410.70; or
 
-(ii) The field margins are physically and legally capable of being planted in a normal manner to an agricultural commodity, as determined by the Deputy Administrator; or
+(3) The Clean Lakes, Estuaries, and Rivers 30 (CLEAR 30) Pilot Program as specified in § 1410.80.
 
-(2) Marginal pasture land, as determined by the Deputy Administrator, that:
+(b) To be eligible for CRP, land must be one of the following:
 
-(i) Is determined to be suitable for use as a riparian buffer or is made eligible under a Conservation Reserve Enhancement Program (CREP) agreement for similar water quality purposes as determined by the Deputy Administrator. A field or portion of a field of marginal pasture land may be considered to be suitable for use as a riparian buffer only if, as determined by the Deputy Administrator, it:
+(1) Cropland that:
 
-(A) Is located adjacent to permanent stream corridors excluding corridors that are considered gullies or sod waterways; and
+(i) Has been annually planted or considered planted to an agricultural commodity in 4 of the 6 crop years from 2012 through 2017, provided that field margins that are incidental to the planting of crops may also be considered qualifying cropland; and
 
-(B) Is capable, when permanent grass, forbs, shrubs, or trees, are grown, or when planted with appropriate vegetation for the area, including vegetation suitable for wetland restoration or wildlife habitat, as determined appropriate by the Deputy Administrator, of substantially reducing sediment and/or nutrient runoff that otherwise would be delivered to the adjacent stream or waterbody or for water quality purposes; or
+(ii) Is physically and legally capable of being planted in a normal manner to an agricultural commodity;
 
-(ii) [Reserved]
+(2) Marginal pasture land that:
 
-(3) Acreage enrolled in CRP during the final year of the CRP contract, provided the scheduled expiration date of the current CRP contract is before the effective date the new CRP contract, as determined by the CCC; or
+(i) Is located immediately adjacent and parallel to an eligible stream, other water body, or wetland, but excluding such areas as gullies or sod waterways or similar areas; and
 
-(4) Grassland as specified in paragraph (c) of this section.
+(ii) Is capable, when permanent grass, forbs, shrubs, or trees are grown, or when planted with appropriate vegetation for the area, including vegetation suitable for wetland restoration or wildlife habitat, of either substantially reducing sediment or nutrient runoff that otherwise would be delivered to the adjacent eligible stream or water body, or serving other water quality purposes;
 
-(b) Land qualifying under paragraphs (a)(1) or (a) (2) of this section must also meet one of the following criteria, to be eligible for a contract:
+(3) Acreage enrolled in CRP during the final year of the contract period, unless such land is federally-owned, provided the scheduled expiration date of the current CRP contract is before the effective date of the new CRP contract;
 
-(1) Be a field or portion of a field determined to be suitable for use, as determined by the CCC, as a permanent wildlife habitat, filter strip, riparian buffer, contour grass strip, grass waterway, field windbreak, shelterbelt, living snowfence, other uses as determined by the CCC, land devoted to vegetation on salinity producing areas, including any applicable recharge area, or any area determined eligible for CRP based on wetland or wellhead protection area criteria. A field or portion of a field may be considered to be suitable for use as a filter strip or riparian buffer only if it, as determined by CCC:
+(4) Land that meets the criteria specified in paragraph (d) of this section; or
 
-(i) Is located adjacent to a stream, other waterbody of a permanent nature (such as a lake, pond, or sinkhole), or wetland; excluding such areas as gullies or sod waterways; and
+(5) Land that meets all of the criteria in paragraphs (b)(5)(i) through (iii) of this section, which land will then be considered as land enrolled in CRP in the final year of the contract period, and therefore will be eligible to be offered for enrollment in CRP until September 30, 2020, provided the effective starting date of the new CRP contract is on or before October 1, 2020:
 
-(ii) Is capable, when permanent grass, forbs, shrubs or trees are grown, of substantially reducing sediment or nutrient runoff that otherwise would be delivered to the adjacent stream or waterbody;
+(i) The land was enrolled in CRP under a CRP contract, with a contract period of greater than 14 years, that expired on September 30, 2017, or September 30, 2018;
 
-(2) Be non-irrigated or irrigated cropland that would facilitate a net savings in groundwater or surface water of the agricultural operation of the producer, only as determined by, and only when specifically authorized by, the Deputy Administrator;
+(ii) There was no opportunity for re-enrollment of the land in CRP prior to the end of the contract period; and
 
-(3) Be land in a portion of a field not enrolled in CRP, if either:
+(iii) The conservation practice and approved cover under the expired CRP contract has been maintained in accordance with the terms of the expired CRP contract.
 
-(i) More than 50 percent of the remainder of the field is enrolled as a buffer or filterstrip practice; or
+(c) Land qualifying under paragraph (b)(1) of this section must also meet at least one of the following criteria to be eligible for CRP:
 
-(ii) More than 75 percent of the field is enrolled as a conservation practice other than a buffer or filterstrip; and
+(1) Be a field or portion of a field that:
 
-(iii) With respect to both paragraphs (b)(3)(i) and (ii) of this section, the remainder portion of the field is determined to be infeasible to farm, as defined in § 1410.2, and enrolled at an annual payment rate not to exceed the maximum annual calculated soil rental rate, as determined by the Deputy Administrator;
+(i) Is suitable for use as a permanent wildlife habitat, prairie strip, contour grass strip, grass waterway, field windbreak, shelterbelt, living snowfence, field border, or other suitable uses;
 
-(4) Be contributing to the degradation of water quality or posing an on-site or off-site environmental threat to water quality if such land remains in production as determined by the Deputy Administrator;
+(ii) Poses an off-farm environmental threat or a threat of continued degradation of productivity due to soil salinity if permitted to remain in production, including any applicable recharge area;
 
-(5) Be devoted to certain covers, as determined by the Deputy Administrator, that are established and maintained according to the FOTG, provided such acreage is not required to be maintained as such under any life-span obligations, as determined by the Deputy Administrator;
+(iii) Is an area determined eligible for CRP based on wetland or wellhead protection area criteria; or
 
-(6) Be non-irrigated or irrigated cropland that produces or serves as the recharge area for saline seeps, or acreage that is functionally related to such saline seeps, or where a rising water table contributes to increased levels of salinity at or near the ground surface, as determined by the Deputy Administrator;
+(iv) Is suitable for use as a filter strip or riparian buffer, and the land:
 
-(7) Have an EI of greater than or equal to 8 calculated by using the weighted average of the EI's of soil map units within the field;
+(A) Is located immediately adjacent and parallel to an eligible stream, other water body, or wetland, but excluding such areas as gullies or sod waterways or similar areas; and
 
-(8) Be within a public wellhead protection area;
+(B) Is capable, when permanent grass, forbs, shrubs, or trees are grown, or when planted with appropriate vegetation for the area, including vegetation suitable for wetland restoration, of either substantially reducing sediment or nutrient runoff that otherwise would be delivered to the adjacent eligible stream, or water body, or serving other water quality purposes;
 
-(9) Be within a designated conservation priority area;
+(2) Be non-irrigated or irrigated cropland that would facilitate a net savings in groundwater or surface water of the agricultural operation of the producer, only as approved by CCC;
 
-(10) Notwithstanding paragraph (a)(1) of this section, be cropland devoted to a perennial crop, as determined by CCC; such cropland will only be eligible for continuous signup practices authorized by § 1410.30 and CREP practices authorized by § 1410.50(b) and; or
+(3) Be a portion of the field not enrolled in CRP, if either:
 
-(11) Land that meets other continuous signup land eligibility criteria, as established by the Deputy Administrator.
+(i) More than 50 percent of the field is enrolled as a riparian buffer or filter strip; or
 
-(c) For land to be eligible under a grassland signup as specified in § 1410.30, the land must, as established by the Deputy Administrator:
+(ii) More than 75 percent of the field is enrolled as a conservation practice other than a riparian buffer or filter strip; and
 
-(1) Not be cropland or marginal pastureland at the time of enrollment as grassland. Land enrolled under an expiring CRP contract may be eligible to be re-enrolled as grassland during the final year of the CRP contract, provided the scheduled expiration date of the current CRP contract is the day before the effective date of the new CRP contract, and suitable grass, legume, forb or shrub covers predominate, and;
+(iii) With respect to both paragraphs (c)(3)(i) and (ii) of this section, the remainder portion of the field is determined to be infeasible to farm and enrolled at an annual payment rate not to exceed the maximum annual calculated soil rental rate approved by CCC;
 
-(2) Be needed and suitable for enrollment as grassland following a determination that such land:
+(4) Be contributing to the degradation of water quality or posing an on-site or off-site environmental threat to water quality if such land remains in production;
 
-(i) Contain forbs or shrubland, including improved rangeland and pastureland, for which grazing is the predominant use;
+(5) Be devoted to certain covers that are established and maintained according to the FOTG, provided such land is not required to be maintained as such under any life-span obligations;
 
-(ii) Is located in an area historically dominated by grassland;
+(6) Have an EI of greater than or equal to 8 calculated by using the weighted average of the EI's of soil map units within the acreage offered;
 
-(iii) Is able to provide habitat for animal and plant populations of significant ecological value if the land is retained in its current use or restored to a natural condition; and
+(7) Be within a State or federally identified wellhead protection area;
 
-(iv) Meets other grassland signup land eligibility criteria as may be established by the Deputy Administrator.
+(8) Be within a designated conservation priority area; or
 
-(d) Notwithstanding paragraphs (a), (b), and (c) of this section, land will be ineligible for enrollment if, as determined by the Deputy Administrator, the land is one of the following:
+(9) Notwithstanding paragraph (b)(1) of this section, be cropland devoted to a perennial crop; such cropland will only be eligible for continuous signup practices authorized by § 1410.30(b) and practices authorized under a Conservation Reserve Enhancement Program agreement as specified in § 1410.90.
 
-(1) Federally-owned land, unless the applicant has a lease for the contract period;
+(d) Notwithstanding paragraph (b) or (c) of this section, to be eligible under a grassland signup as specified in § 1410.30(c), the land must be one of the following:
 
-(2) Land on which the use of the land is either restricted through deed or other restriction prior to enrollment in CRP prohibiting the production of agricultural commodities, or requires any resource-conserving measures, during any part of the proposed contract term;
+(1) Land that:
 
-(3) Land already enrolled in the CRP, unless authorized by § 1410.6(a)(3), as determined by the Deputy Administrator;
+(i) Contains forbs or shrubland, including improved rangeland and pastureland, for which grazing is the predominant use;
 
-(4) Land for which Tribal, State, or other locals laws, ordinances, or other regulations require any resource conserving or environmental protection measures or practices and the owners or operators of such land have been notified in writing of such requirements; or
+(ii) Is located in an area historically dominated by grassland; and
 
-(5) Land that is required to be used, or otherwise dedicated to mitigate actions undertaken, or planned to be undertaken, on other land, or to mitigate other actions taken by landowners or operators, as determined by the Deputy Administrator.
+(iii) Is able to provide habitat for animal and plant populations of significant ecological value if the land is retained in its current use or restored to a natural condition; or
 
-[68 FR 24835, May 8, 2003, as amended at 69 FR 26763, May 14, 2004; 75 FR 44071, July 28, 2010; 78 FR 48037, Aug. 7, 2013; 80 FR 42000, 42005, July 16, 2015]
+(2) Land that is enrolled in CRP in the final year of the contract period, provided the scheduled expiration date of the current CRP contract is the day before the effective starting date of the new CRP contract, and the provisions of paragraph (d)(1) of this section are met.
+
+(e) Notwithstanding paragraphs (b), (c), and (d) of this section and §§ 1410.64, 1410.70, and 1410.80, land will be ineligible for enrollment if the land is one of the following:
+
+(1) Federally-owned land;
+
+(2) Land on which the use of the land is either restricted through deed or other restriction prior to enrollment in CRP prohibiting the production of agricultural commodities, or requires any resource-conserving measures, during any part of the contract period;
+
+(3) Land already enrolled in the CRP, unless authorized by paragraph (b)(3) of this section and § 1410.80;
+
+(4) Land for which Tribal, State, or other local laws, ordinances, or other regulations require any resource conserving or environmental protection measures or practices, and the owners or operators of such land have been notified in writing of such requirements, except, such land may be eligible for enrollment in CRP if:
+
+(i) The land is, at the time of offer, enrolled in CRP under an approved Conservation Reserve Enhancement Program agreement that was in effect on December 20, 2018, and was initially approved before January 1, 2014, including any amended or successor Conservation Reserve Enhancement Program agreement; provided, that the CRP contract under which the land is enrolled is in the final year of the contract period, and the scheduled expiration date of the current CRP contract is before the effective starting date of the new CRP contract; or
+
+(ii) The land is such other land in the State that CCC determines is both otherwise eligible for CRP and appropriate for enrollment in CRP; and
+
+(iii) The land is enrolled in exchange for a 25 percent reduction to the annual rental payment that would otherwise be paid for such land were no such laws, ordinances, or regulations in effect;
+
+(5) Land that is required to be used, or otherwise dedicated to mitigate actions undertaken, or planned to be undertaken, on other land, or to mitigate other actions taken by landowners or operators; or
+
+(6) Land devoted to hardwood trees that has been re-enrolled in CRP one or more times while it was devoted to hardwood trees; however, such ineligibility does not extend to:
+
+(i) Forested wetlands enrolled under a Conservation Reserve Enhancement Program agreement or under a continuous signup as specified in § 1410.30(b);
+
+(ii) Riparian buffers; and
+
+(iii) Shelterbelts.

@@ -1,6 +1,6 @@
 ##### § 1.1502-100 Corporations exempt from tax. #####
 
-(a) *In general* - (1) *Computation of tax liability.* The tax liability for a consolidated return year of a group of two or more corporations described in section 1504(e) which are exempt from taxation under section 501 (hereinafter referred to in this section as “exempt group”) shall be determined on a consolidated basis by applying the provisions of subchapter F of chapter 1 of the code in the manner provided in this section. See section 1504(e) for tax-exempt corporations eligible to file a consolidated return.
+(a) *In general*—(1) *Computation of tax liability.* The tax liability for a consolidated return year of a group of two or more corporations described in section 1504(e) which are exempt from taxation under section 501 (hereinafter referred to in this section as “exempt group”) shall be determined on a consolidated basis by applying the provisions of subchapter F of chapter 1 of the code in the manner provided in this section. See section 1504(e) for tax-exempt corporations eligible to file a consolidated return.
 
 (2) *Applicability of other consolidated return provisions.* The provisions of § 1.1502-1 through § 1.1502-80 shall be applicable to an exempt group to the extent they are not inconsistent with the provisions of this section or the provisions of subchapter F of chapter 1 of the Code. For purposes of applying the provisions of § 1.1502-1 through § 1.1502-80 to an exempt group, the following substitutions shall be made:
 
@@ -10,7 +10,7 @@
 
 (iii) The term “consolidated liability for tax determined under § 1.1502-2” (or an equivalent term) shall mean the consolidated liability for tax of an exempt group determined under paragraph (b) of this section.
 
-(b) *Consolidated liability for tax.* The tax liability for a consolidated return year of an exempt group is the tax imposed by section 511(a) or section 1201(a) on the consolidated unrelated business taxable income for the year (determined under paragraph (c) of this section), and by allowing the credits and surtax exemption provided in § 1.1502-2.
+(b) The tax liability for a consolidated return year of an exempt group is the tax imposed by section 511(a) on the consolidated unrelated taxable income for the year (determined under paragraph (c) of this section), and by allowing the credits provided in § 1.1502-2(b).
 
 (c) *Consolidated unrelated business taxable income.* The consolidated unrelated business taxable income for a consolidated return year shall be determined by taking into account:
 
@@ -28,4 +28,4 @@
 
 (2) No charitable contributions deduction shall be taken into account under section 512(b)(10).
 
-See sections 511(c) and 512(a)(3)(C) for special rules applicable to organizations described in section 501(c)(2).[T.D. 7595, 44 FR 10382, Feb. 20, 1979, as amended by T.D. 8677, 61 FR 33325, June 27, 1996; T.D. 8823, 64 FR 36101, July 2, 1999]
+See sections 511(c) and 512(a)(3)(C) for special rules applicable to organizations described in section 501(c)(2).[T.D. 7595, 44 FR 10382, Feb. 20, 1979, as amended by T.D. 8677, 61 FR 33325, June 27, 1996; T.D. 8823, 64 FR 36101, July 2, 1999; T.D. 9885, 84 FR 67044, Dec. 6, 2019]
