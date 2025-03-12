@@ -1,18 +1,14 @@
 ##### § 110.4 Contributions in the name of another; cash contributions (52 U.S.C. 30122, 30123, 30102(c)(2)). #####
 
-Link to an amendment published at 88 FR 33817, May 25, 2023.
-
 (a) [Reserved]
 
 (b) *Contributions in the name of another.* (1) No person shall—
 
 (i) Make a contribution in the name of another;
 
-(ii) Knowingly permit his or her name to be used to effect that contribution;
+(ii) Knowingly permit his or her name to be used to effect that contribution; or
 
-(iii) Knowingly help or assist any person in making a contribution in the name of another; or
-
-(iv) Knowingly accept a contribution made by one person in the name of another.
+(iii) Knowingly accept a contribution made by one person in the name of another.
 
 (2) Examples of *contributions in the name of another* include—
 
@@ -26,4 +22,4 @@ Link to an amendment published at 88 FR 33817, May 25, 2023.
 
 (3) A candidate or committee receiving an anonymous cash contribution in excess of $50 shall promptly dispose of the amount over $50. The amount over $50 may be used for any lawful purpose unrelated to any Federal election, campaign, or candidate.
 
-[54 FR 34112, Aug. 17, 1989, and 54 FR 48580, Nov. 24, 1989, as amended at 54 FR 48582, Nov. 24, 1989; 55 FR 1139, Jan. 11, 1990; 67 FR 69948, Nov. 19, 2002]
+[54 FR 34112, Aug. 17, 1989, and 54 FR 48580, Nov. 24, 1989, as amended at 54 FR 48582, Nov. 24, 1989; 55 FR 1139, Jan. 11, 1990; 67 FR 69948, Nov. 19, 2002; 88 FR 33817, May 25, 2023]

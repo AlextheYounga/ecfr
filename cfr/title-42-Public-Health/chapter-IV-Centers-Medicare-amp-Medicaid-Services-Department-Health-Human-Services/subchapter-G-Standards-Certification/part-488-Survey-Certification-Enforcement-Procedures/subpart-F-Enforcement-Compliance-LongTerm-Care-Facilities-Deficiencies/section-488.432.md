@@ -1,5 +1,7 @@
 ##### § 488.432 Civil money penalties imposed by the State: NF-only. #####
 
+Link to an amendment published at 88 FR 53347, Aug. 7, 2023.
+
 (a) *When a facility requests a hearing.* (1) When the State imposes a civil money penalty against a non-State operated NF that is not subject to imposition of remedies by CMS, the facility must request a hearing on the determination of noncompliance that is the basis for imposition of the civil money penalty within the time specified in § 431.153 of this chapter.
 
 (2)(i) If a facility requests a hearing within the time frame specified in paragraph (a)(1) of this section, for a civil money penalty imposed per day, the State initiates collection of the penalty when there is a final administrative decision that upholds the State's determination of noncompliance after the facility achieves substantial compliance or is terminated.
@@ -16,7 +18,9 @@
 
 (c) When a facility waives a hearing. (1) If a facility waives, in writing, its right to a hearing as specified in § 488.436, for a civil money penalty imposed per day, the State initiates collection of the penalty when the facility—
 
-(i) Achieves substantial compliance; or (ii) Is terminated.
+(i) Achieves substantial compliance; or
+
+(ii) Is terminated.
 
 (2) If a facility waives, in writing, its right to a hearing as specified in § 488.436, the State initiates collection of civil money penalty imposed per instance of noncompliance upon receipt of the facility's notification.
 

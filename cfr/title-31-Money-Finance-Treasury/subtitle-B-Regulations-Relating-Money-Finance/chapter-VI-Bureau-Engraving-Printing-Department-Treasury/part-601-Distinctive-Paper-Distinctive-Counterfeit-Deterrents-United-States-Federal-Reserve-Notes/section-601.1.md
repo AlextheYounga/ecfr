@@ -1,0 +1,3 @@
+##### § 601.1 Notice and scope. #####
+
+The regulation in this part governs the distinctive paper and distinctive counterfeit deterrents adopted by the Secretary of the Treasury for United States Federal Reserve notes, which are subject to 18 U.S.C. 474A. The Director of Bureau of Engraving and Printing, by delegated authority, hereby gives notice of the distinctive paper and distinctive counterfeit deterrents adopted by the Secretary of the Treasury.

@@ -1,5 +1,7 @@
 ##### § 488.442 Civil money penalties: Due date for payment of penalty. #####
 
+Link to an amendment published at 88 FR 53347, Aug. 7, 2023.
+
 (a) *When payments are due for a civil money penalty.* (1) Payment for a civil money penalty is due in accordance with § 488.431 of this chapter for CMS-imposed penalties and 15 days after the State initiates collection pursuant to § 488.432 of this chapter for State-imposed penalties, except as provided in paragraphs (a)(2) and (3) of this section.
 
 (2) *After a request to waive a hearing or when a hearing was not requested.* Except as provided for in § 488.431, a civil money penalty is due 15 days after receipt of a written request to waive a hearing in accordance with § 488.436 or 15 days after the time period for requesting a hearing has expired and a hearing request was not received when:

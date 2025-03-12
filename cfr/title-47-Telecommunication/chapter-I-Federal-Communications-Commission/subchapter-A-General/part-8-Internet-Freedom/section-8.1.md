@@ -1,5 +1,7 @@
 ##### § 8.1 Transparency. #####
 
+Link to an amendment published at 88 FR 52043, Aug. 7, 2023.
+
 (a) Any person providing broadband internet access service shall publicly disclose accurate information regarding the network management practices, performance characteristics, and commercial terms of its broadband internet access services sufficient to enable consumers to make informed choices regarding the purchase and use of such services and entrepreneurs and other small businesses to develop, market, and maintain internet offerings. Such disclosure shall be made via a publicly available, easily accessible website or through transmittal to the Commission.
 
 (1) Any person providing broadband internet access service shall create and display an accurate broadband consumer label for each stand-alone broadband internet access service it currently offers for purchase. The label must be prominently displayed, publicly available, and easily accessible to consumers, including consumers with disabilities, at the point of sale with the content and in the format prescribed by the Federal Communications Commission (Commission) in figure 1 to this paragraph (a)(1).

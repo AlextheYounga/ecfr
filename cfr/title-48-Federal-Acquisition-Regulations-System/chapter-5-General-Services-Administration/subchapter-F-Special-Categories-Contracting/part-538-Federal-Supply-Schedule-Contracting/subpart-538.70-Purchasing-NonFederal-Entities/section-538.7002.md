@@ -1,7 +1,5 @@
 ##### 538.7002 General. #####
 
-Link to an amendment published at 88 FR 43257, July 7, 2023.
-
 (a) 40 U.S.C. 501, (the Act) authorizes the Administrator of General Services to procure and supply personal property and nonpersonal services for the use of Executive agencies. Under 40 U.S.C. 502, the goods and services available to executive agencies are also available to mixed ownership Government corporations, establishments within the legislative or judicial branches of Government (excepting the Senate, House of Representatives, Architect of the Capitol, and any activities under the direction of the Architect of the Capitol), the District of Columbia, and Qualified Non-profit Agencies.
 
 (b) Section 211 of the E-Government Act of 2002 amends 40 U.S.C. 502 to authorize the Administrator of General Services to provide for use of certain Federal supply schedules of the GSA by a State or local government, which includes any State, local, regional, or tribal government, or any instrumentality thereof (including any local educational agency or institution of higher education).

@@ -109,7 +109,7 @@ Table 1 to Paragraph (d)(1)(iv)
 
 (*i*) North of 42° N. lat., for lingcod with the head removed, the minimum size limit is 18 inches (46 cm), which corresponds to 22 inches (56 cm) total length for whole fish.
 
-(*ii*) South of 42° N. lat., for lingcod with the head removed, the minimum size limit is 19.5 inches (49.5 cm), which corresponds to 24 inches (61 cm) total length for whole fish.
+(*ii*) South of 42° N lat., for lingcod with the head removed, the minimum size limit is 18 inches (46 cm), which corresponds to 22 inches (56 cm) total length for whole fish.
 
 (*iii*) The weight conversion factor for headed and gutted lingcod is 1.5. The conversion factor for lingcod that has only been gutted with the head on is 1.1.
 
@@ -121,7 +121,7 @@ Table 1 to Paragraph (d)(1)(iv)
 
 (*i*) The minimum size limit for lingcod North of 42° N. lat. is 22 inches (56 cm) total length for whole fish, which corresponds to 18 inches (46 cm) with the head removed.
 
-(*ii*) The minimum size limit for lingcod South of 42° N. lat. is 24 inches (61 cm) total length for whole fish, which corresponds to 19.5 inches (49.5 cm) with the head removed.
+(*ii*) The minimum size limit for lingcod South of 42° N lat. is 22 inches (56 cm) total length for whole fish, which corresponds to 18 inches (46 cm) with the head removed.
 
 (*iii*) The weight conversion factor for headed and gutted (eviscerated) lingcod is 1.5; for lingcod that has only been gutted with the head on, the weight conversion factor is 1.1.
 
@@ -217,4 +217,4 @@ Table 1 to Paragraph (d)(1)(iv)
 
 (3) *Fisheries closures.* Groundfish fisheries may be closed through automatic action at § 660.60(d)(1)(iv) and (v).
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78382, Dec. 15, 2010; 75 FR 82301, Dec. 30, 2010; 76 FR 27530, May 11, 2011; 76 FR 53835, Aug. 30, 2011; 76 FR 74738, Dec. 1, 2011; 77 FR 28507, May 15, 2012; 78 FR 588, Jan. 3, 2013; 80 FR 12572, Mar. 10, 2015; 80 FR 22285, Apr. 21, 2015; 80 FR 77271, Dec. 14, 2015; 81 FR 84429, Nov. 23, 2016; 82 FR 9639, Feb. 7, 2017; 82 FR 48658, Oct. 19, 2017; 83 FR 760, Jan. 8, 2018; 83 FR 62276, Dec. 3, 2018; 83 FR 63991, Dec. 12, 2018; 84 FR 63973, Nov. 19, 2019; 84 FR 68806, Dec. 17, 2019; 86 FR 10867, Feb. 23, 2021]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78382, Dec. 15, 2010; 75 FR 82301, Dec. 30, 2010; 76 FR 27530, May 11, 2011; 76 FR 53835, Aug. 30, 2011; 76 FR 74738, Dec. 1, 2011; 77 FR 28507, May 15, 2012; 78 FR 588, Jan. 3, 2013; 80 FR 12572, Mar. 10, 2015; 80 FR 22285, Apr. 21, 2015; 80 FR 77271, Dec. 14, 2015; 81 FR 84429, Nov. 23, 2016; 82 FR 9639, Feb. 7, 2017; 82 FR 48658, Oct. 19, 2017; 83 FR 760, Jan. 8, 2018; 83 FR 62276, Dec. 3, 2018; 83 FR 63991, Dec. 12, 2018; 84 FR 63973, Nov. 19, 2019; 84 FR 68806, Dec. 17, 2019; 86 FR 10867, Feb. 23, 2021; 88 FR 52048, Aug. 7, 2023]
