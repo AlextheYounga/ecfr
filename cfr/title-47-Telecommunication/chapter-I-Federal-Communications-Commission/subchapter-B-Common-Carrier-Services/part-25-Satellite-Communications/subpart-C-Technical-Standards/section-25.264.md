@@ -1,5 +1,7 @@
 ##### § 25.264 Requirements to facilitate reverse-band operation in the 17.3-17.8 GHz band of 17/24 GHz BSS and DBS Service space stations. #####
 
+Link to an amendment published at 87 FR 72407, Nov. 25, 2022.
+
 (a) Each 17/24 GHz BSS space station applicant or licensee must submit a series of tables or graphs containing predicted off-axis gain data for each antenna that will transmit in the 17.3-17.8 GHz frequency band, in accordance with the following specifications. Using a Cartesian coordinate system wherein the X axis is tangent to the geostationary orbital arc with the positive direction pointing east, *i.e.,* in the direction of travel of the satellite; the Y axis is parallel to a line passing through the geographic north and south poles of the Earth, with the positive direction pointing south; and the Z axis passes through the satellite and the center of the Earth, with the positive direction pointing toward the Earth, the applicant or licensee must provide the predicted transmitting antenna off-axis antenna gain information:
 
 (1) In the X-Z plane, *i.e.*, the plane of the geostationary orbit, over a range of ±30 degrees from the positive and negative X axes in increments of 5 degrees or less.

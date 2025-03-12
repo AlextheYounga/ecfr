@@ -1,7 +1,5 @@
 ##### § 29.8 Deregistration of a registered program. #####
 
-Link to an amendment published at 85 FR 14386, Mar. 11, 2020.
-
 Deregistration of a program may be effected upon the voluntary action of the sponsor by submitting a request for cancellation of the registration in accordance with paragraph (a) of this section, or upon reasonable cause, by the Registration Agency instituting formal deregistration proceedings in accordance with paragraph (b) of this section.
 
 (a) *Deregistration at the request of the sponsor.* The Registration Agency may cancel the registration of an apprenticeship program by written acknowledgment of such request stating the following:

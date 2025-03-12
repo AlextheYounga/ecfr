@@ -1,7 +1,5 @@
 ##### § 29.5 Standards of apprenticeship. #####
 
-Link to an amendment published at 85 FR 14386, Mar. 11, 2020.
-
 An apprenticeship program, to be eligible for approval and registration by a Registration Agency, must conform to the following standards:
 
 (a) The program must have an organized, written plan (program standards) embodying the terms and conditions of employment, training, and supervision of one or more apprentices in an apprenticeable occupation, as defined in this part, and subscribed to by a sponsor who has undertaken to carry out the apprentice training program.

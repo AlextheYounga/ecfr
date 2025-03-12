@@ -1,54 +1,68 @@
-##### § 626.5 Acquisition procedures - general. #####
+##### § 626.5 Acquisition procedures—general. #####
 
-(a) *Notice of acquisition.* (1) Except when DOE has determined there is good cause to do otherwise, DOE shall provide advance public notice of its intent to acquire petroleum for the SPR. The notice of acquisition is usually in the form of a solicitation. DOE shall state in the notice of acquisition the general terms and details of DOE's crude oil acquisition and, to the extent feasible, shall inform the public of its overall fill goals, so that they may be factored into market participants' plans and activities.
+(a) *Notice of acquisition.* (1) Except when DOE has determined there is good cause to do otherwise, DOE shall provide advance public notice of its intent to acquire petroleum products for the SPR. The notice of acquisition will, to the extent feasible, include the general terms and details of DOE's petroleum products acquisition and inform the public of DOE's overall fill goals.
 
-(2) The notice of acquisition generally states:
+(2) The notice of acquisition will generally include the:
 
-(i) The method of acquisition to be employed;
+(i) Manner of acquisition;
 
-(ii) The time that the solicitations will be open;
+(ii) Time period for solicitations;
 
-(iii) The quantity of oil that is sought;
+(iii) Quantity of petroleum products sought;
 
-(iv) The minimum crude oil quality requirements;
+(iv) Minimum petroleum product quality requirements;
 
-(v) The acceptable delivery locations; and
+(v) Time period for delivery;
 
-(vi) The necessary instructions for the offer process.
+(vi) Acceptable delivery locations; and
 
-(b) *Method of acquisition.* (1) DOE shall define the method of crude oil acquisition, direct purchase or royalty-in-kind transfer and exchange, in the notice of acquisition.
+(vii) Instructions for the offer process.
 
-(2) DOE shall determine the method of crude oil acquisition after taking into account the availability of appropriated funds, current market conditions, the availability of oil from the Department of the Interior, and other considerations DOE deems to be relevant.
+(b) *Manner of acquisition.* (1) DOE shall specify the manner of petroleum product acquisition, either purchase or exchange, in the notice of acquisition.
 
-(c) *Solicitation.* (1) To secure the economic benefit and security of a diversified base of potential suppliers of petroleum to the SPR, DOE shall maintain a listing, developed through on-line registration and personal contact, of interested suppliers. Upon the issuance of a solicitation, DOE shall notify potential suppliers via their registered e-mail addresses.
+(2) DOE shall, to the greatest extent practicable, determine the manner of petroleum product acquisition after considering:
 
-(2) DOE shall make the solicitation publicly available on the Web sites of the DOE Office of Fossil Energy *http://www.fe.doe.gov/programs/reserves* and the OPR *http://www.spr.doe.gov.*
+(i) The availability of appropriated funds;
 
-(d) *Timing and duration of solicitation.* (1) DOE shall determine crude oil requirements on nominal six-month cycles, and shall review and update these requirements prior to each solicitation cycle.
+(ii) Minimization of costs;
 
-(2) DOE may terminate all solicitations and contracts pertaining to the acquisition of crude oil at the convenience of the Government, and in such event shall not be responsible for any costs incurred by suppliers, other than costs for oil delivered to the SPR and for reasonable, customary, and applicable costs incurred by the supplier in the performance of a valid contract for delivery before the effective date of termination of such contract. In no event shall the Government be liable for consequential damages or the contractor's lost profits as a result of such termination.
+(iii) Minimization of the Nation's vulnerability to a severe energy supply interruption;
 
-(e) *Quality.* (1) DOE shall define minimum crude oil quality specifications for the SPR. DOE shall include such specifications in acquisition solicitations, and shall make them available on the Web sites of the DOE Office of Fossil Energy *http://www.fe.doe.gov/programs/reserves* and the OPR *http://www.spr.doe.gov.*
+(iv) Minimization of the impact to supply levels and market forces;
 
-(2) DOE shall periodically review the quality specifications to ensure, to the greatest extent practicable, the crude oil mix in storage matches the demand of the United States refining system.
+(v) Whether the manner of acquisition would encourage competition in the petroleum industry; and
 
-(f) *Quantity.* In determining the quantities of oil to be delivered to the SPR, DOE shall:
+(vi) Other considerations DOE deems to be relevant.
+
+(c) *Solicitation.* (1) To secure the economic benefit and security of a diversified base of potential suppliers of petroleum products to the SPR, DOE shall maintain a listing, developed through online registration, direct requests to DOE, and outreach to potential suppliers by DOE. Upon the issuance of a solicitation, DOE shall notify potential suppliers via their registered email addresses.
+
+(2) DOE shall make the solicitation publicly available on the website of the OPR: *www.spr.doe.gov.*
+
+(d) *Timing and duration of solicitation.* (1) DOE shall determine petroleum products requirements on nominal six-month cycles, and shall review and update these requirements prior to each solicitation cycle.
+
+(2) Unless termination rights are explicitly waived by DOE, DOE may terminate any solicitations and contracts pertaining to the acquisition or exchange of petroleum products at the convenience of the Government, and in such event shall not be responsible for any costs incurred by suppliers, other than costs for petroleum products delivered to the SPR and for reasonable, customary, and applicable costs incurred by the supplier in the performance of a valid contract for delivery before the effective date of termination of such contract. In no event shall the Government be liable for consequential damages or the entity's lost profits as a result of such termination.
+
+(e) *Quality.* (1) DOE shall define minimum petroleum product quality specifications for the SPR. DOE shall include such specifications in acquisition solicitations, and shall make them available on the website of the OPR: *www.spr.doe.gov.*
+
+(2) DOE shall periodically review the quality specifications to ensure, to the greatest extent practicable, the petroleum product mix in storage matches the demand of the United States refining system.
+
+(f) *Quantity.* In determining the quantities of petroleum products to be delivered to the SPR, DOE shall:
 
 (1) Take into consideration market conditions and the availability of transportation systems; and
 
-(2) Seek to avoid adversely affecting other market participants or crude oil market fundamentals.
+(2) Seek to avoid adversely affecting other market participants or petroleum product market fundamentals.
 
-(g) *Offer and evaluation procedures.* (1) Each solicitation shall provide necessary instructions on offer format and submission procedures. The details of the offer, evaluation and award procedures may vary depending on the method of acquisition.
+(g) *Offer and evaluation procedures.* (1) Each solicitation shall provide necessary instructions on offer format and submission procedures. The details of the offer, evaluation, and award procedures may vary depending on the method of acquisition.
 
-(2) DOE shall use relative crude values and time differentials to the maximum extent practicable to manage acquisition and delivery schedules to reduce acquisition costs.
+(2) DOE may use relative values and time differentials to manage acquisition and delivery schedules to reduce acquisition costs.
 
-(3) DOE shall evaluate offers based on prevailing market prices of specific crude oils, and shall award contracts on a competitive basis.
+(3) DOE may evaluate offers based on prevailing market prices of specific petroleum products, and shall award contracts on a competitive basis.
 
-(4) Whether acquisition is by direct purchase or royalty transfer and exchange on a term contract basis, DOE shall use a price index to account for fluctuations in absolute and relative market prices at the time of delivery to reduce market risk to all parties throughout the contract term.
+(4) Whether acquisition is by purchase or exchange, DOE may use a price index to account for fluctuations in absolute and relative market prices at the time of delivery to reduce market risk to all parties throughout the contract term.
 
-(h) *Scheduling and delivery.* (1) Except as provided in paragraph (h)(4) of this section, DOE shall accept offers for crude oil delivered to specified SPR storage sites via pipeline or as waterborne cargos delivered to the terminals serving those sites.
+(h) *Scheduling and delivery.* (1) Except as provided in paragraph (h)(4) of this section, DOE shall accept offers for petroleum products delivered to specified SPR storage sites via pipeline or as waterborne cargos delivered to the terminals serving those sites.
 
-(2) Except as provided in paragraph (h)(4) of this section, DOE shall generally establish schedules that allow for evenly spaced deliveries of economically-sized marine and pipeline shipments within the constraints of SPR site and commercial facilities receipt capabilities.
+(2) Except as provided in paragraph (h)(4) of this section, DOE shall generally establish schedules that allow for evenly spaced deliveries of economically sized marine and pipeline shipments within the constraints of SPR site and commercial facilities receipt capabilities.
 
 (3) DOE shall strive to maximize U.S. flag carrier utilization through the terms of its supply contracts.
 

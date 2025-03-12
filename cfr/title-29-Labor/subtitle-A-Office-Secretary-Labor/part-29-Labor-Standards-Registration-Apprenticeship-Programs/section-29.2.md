@@ -1,6 +1,6 @@
 ##### § 29.2 Definitions. #####
 
-Link to an amendment published at 85 FR 14386, Mar. 11, 2020.Link to an amendment published at 85 FR 14387, Mar. 11, 2020.
+For the purpose of this part:
 
 *Administrator* means the Administrator of the Office of Apprenticeship, or any person specifically designated by the Administrator.
 
@@ -14,7 +14,7 @@ Link to an amendment published at 85 FR 14386, Mar. 11, 2020.Link to an amendmen
 
 (2) A non-joint committee, which may also be known as a unilateral or group non-joint (which may include employees) committee, has employer representatives but does not have a bona fide collective bargaining agent as a participant.
 
-*Apprenticeship program* means a plan containing all terms and conditions for the qualification, recruitment, selection, employment and training of apprentices, as required under 29 CFR parts 29 and 30, including such matters as the requirement for a written apprenticeship agreement.
+*Apprenticeship program* means a plan containing all terms and conditions for the qualification, recruitment, selection, employment and training of apprentices, as required under this part and 29 CFR part 30, including such matters as the requirement for a written apprenticeship agreement.
 
 *Cancellation* means the termination of the registration or approval status of a program at the request of the sponsor, or termination of an Apprenticeship Agreement at the request of the apprentice.
 
@@ -52,7 +52,7 @@ Link to an amendment published at 85 FR 14386, Mar. 11, 2020.Link to an amendmen
 
 *Quality assurance assessment* means a comprehensive review conducted by a Registration Agency regarding all aspects of an apprenticeship program's performance, including but not limited to, determining if apprentices are receiving: on-the-job training in all phases of the apprenticeable occupation; scheduled wage increases consistent with the registered standards; related instruction through appropriate curriculum and delivery systems; and that the registration agency is receiving notification of all new registrations, cancellations, and completions as required in this part.
 
-*Registration agency* means the Office of Apprenticeship or a recognized State Apprenticeship Agency that has responsibility for registering apprenticeship programs and apprentices; providing technical assistance; conducting reviews for compliance with 29 CFR parts 29 and 30 and quality assurance assessments.
+*Registration agency* means the Office of Apprenticeship or a recognized State Apprenticeship Agency that has responsibility for registering apprenticeship programs and apprentices; providing technical assistance; conducting reviews for compliance with this part and 29 CFR part 30; and quality assurance assessments.
 
 *Registration of an apprenticeship agreement* means the acceptance and recording of an apprenticeship agreement by the Office of Apprenticeship or a recognized State Apprenticeship Agency as evidence of the apprentice's participation in a particular registered apprenticeship program.
 
@@ -75,3 +75,5 @@ Link to an amendment published at 85 FR 14386, Mar. 11, 2020.Link to an amendmen
 *Technical assistance* means guidance provided by Registration Agency staff in the development, revision, amendment, or processing of a potential or current program sponsor's Standards of Apprenticeship, Apprenticeship Agreements, or advice or consultation with a program sponsor to further compliance with this part or guidance from the Office of Apprenticeship to a State Apprenticeship Agency on how to remedy nonconformity with this part.
 
 *Transfer* means a shift of apprenticeship registration from one program to another or from one employer within a program to another employer within that same program, where there is agreement between the apprentice and the affected apprenticeship committees or program sponsors.
+
+[73 FR 64425, Oct. 29, 2008, as amended at 85 FR 14387, Mar. 11, 2020; 87 FR 58287, Sept. 26, 2022]

@@ -1,5 +1,7 @@
 ##### § 25.212 Narrowband analog transmissions and digital transmissions in the GSO FSS. #####
 
+Link to an amendment published at 87 FR 72406, Nov. 25, 2022.
+
 (a) Except as otherwise provided by this part, criteria for unacceptable levels of interference caused by other satellite networks shall be established on the basis of nominal operating conditions and with the objective of minimizing orbital separations between satellites.
 
 (b) Emissions with an occupied bandwidth of less than 2 MHz are not protected from interference from wider bandwidth transmissions if the r.f. carrier frequency of the narrowband signal is within ±1 MHz of one of the frequencies specified in § 25.211(a).

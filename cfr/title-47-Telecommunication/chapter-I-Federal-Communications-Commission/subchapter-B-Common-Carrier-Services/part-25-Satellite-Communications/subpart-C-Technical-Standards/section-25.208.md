@@ -1,5 +1,7 @@
 ##### § 25.208 Power flux-density limits. #####
 
+Link to an amendment published at 87 FR 72406, Nov. 25, 2022.
+
 (a) In the band 3650-4200 MHz, the power flux density at the Earth's surface produced by emissions from a space station for all conditions and for all methods of modulation shall not exceed the following values:
 
 −152 dB(W/m2) in any 4 kHz band for angles of arrival between 0 and 5 degrees above the horizontal plane;−152 + (δ−5)/2 dB(W/m2) in any 4 kHz band for angles of arrival δ (in degrees) between 5 and 25 degrees above the horizontal plane; and−142 dB(W/m2) in any 4 kHz band for angles of arrival between 25 and 90 degrees above the horizontal planeThese limits relate to the power flux density which would be obtained under assumed free-space propagation conditions.

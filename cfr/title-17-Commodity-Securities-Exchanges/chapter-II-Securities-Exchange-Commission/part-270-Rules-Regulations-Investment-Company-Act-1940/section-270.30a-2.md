@@ -1,5 +1,7 @@
 ##### § 270.30a-2 Certification of Form N-CSR. #####
 
+Link to an amendment published at 87 FR 72847, Nov. 25, 2022.
+
 (a) Each report filed on Form N-CSR (§§ 249.331 and 274.128 of this chapter) by a registered management investment company must include certifications in the form specified in Item 12(a)(2) of Form N-CSR, and such certifications must be filed as an exhibit to such report. Each principal executive and principal financial officer of the investment company, or persons performing similar functions, at the time of filing of the report must sign a certification.
 
 (b) Each report on Form N-CSR filed by a registered management investment company under Section 13(a) or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m(a) or 78o(d)) and that contains financial statements must be accompanied by the certifications required by Section 1350 of Chapter 63 of Title 18 of the United States Code (18 U.S.C. 1350) and such certifications must be furnished as an exhibit to such report as specified in Item 12(b) of Form N-CSR. Each principal executive and principal financial officer of the investment company (or equivalent thereof) must sign a certification. This requirement may be satisfied by a single certification signed by an investment company's principal executive and principal financial officers.

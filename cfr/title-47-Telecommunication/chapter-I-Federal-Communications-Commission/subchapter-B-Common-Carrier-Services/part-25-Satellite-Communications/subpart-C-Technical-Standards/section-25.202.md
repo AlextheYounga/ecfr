@@ -1,5 +1,7 @@
 ##### § 25.202 Frequencies, frequency tolerance, and emission limits. #####
 
+Link to an amendment published at 87 FR 72405, Nov. 25, 2022.
+
 (a)(1) In addition to the frequency-use restrictions set forth in § 2.106 of this chapter, the following restrictions apply:
 
 (i) In the 27.5-28.35 GHz band, the FSS (Earth-to-space) is secondary to the Upper Microwave Flexible Use Service authorized pursuant to part 30 of this chapter, except for FSS operations associated with earth stations authorized pursuant to § 25.136.

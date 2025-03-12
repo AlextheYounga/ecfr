@@ -1,5 +1,7 @@
 ##### § 270.30e-3 Internet availability of reports to shareholders. #####
 
+Link to an amendment published at 87 FR 72848, Nov. 25, 2022.
+
 (a) *General.* A Company may satisfy its obligation to transmit a report required by § 270.30e-1 or § 270.30e-2 (“Report”) to a shareholder of record if all of the conditions set forth in paragraphs (b) through (e) of this section are satisfied.
 
 (b) *Availability of report to shareholders and other materials.* (1) The following materials are publicly accessible, free of charge, at the website address specified in the Notice from the date the Company transmits the Report as required by § 270.30e-1 or § 270.30e-2 until the Company next transmits a report required by § 270.30e-1 or § 270.30e-2 with respect to the Fund:

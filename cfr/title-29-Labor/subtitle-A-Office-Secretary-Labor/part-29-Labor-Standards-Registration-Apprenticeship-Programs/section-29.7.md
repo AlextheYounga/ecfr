@@ -1,7 +1,5 @@
 ##### § 29.7 Apprenticeship agreement. #####
 
-Link to an amendment published at 85 FR 14386, Mar. 11, 2020.
-
 The apprenticeship agreement must contain, explicitly or by reference:
 
 (a) Names and signatures of the contracting parties (apprentice, and the program sponsor or employer), and the signature of a parent or guardian if the apprentice is a minor.

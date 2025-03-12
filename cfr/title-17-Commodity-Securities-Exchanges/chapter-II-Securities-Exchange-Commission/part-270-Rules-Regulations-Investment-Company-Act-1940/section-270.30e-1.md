@@ -1,5 +1,7 @@
 ##### § 270.30e-1 Reports to stockholders of management companies. #####
 
+Link to an amendment published at 87 FR 72847, Nov. 25, 2022.
+
 (a) Every registered management company shall transmit to each stockholder of record, at least semi-annually, a report containing the information required to be included in such reports by the company's registration statement form under the 1940 Act, except that the initial report of a newly registered company shall be made as of a date not later than the close of the fiscal year or half-year occurring on or after the date on which the company's notification of registration under the 1940 Act is filed with the Commission.
 
 (b) If any matter was submitted during the period covered by the shareholder report to a vote of shareholders, through the solicitation of proxies or otherwise, furnish the following information:

@@ -1,5 +1,7 @@
 ##### § 25.220 Non-routine transmit/receive earth station operations. #####
 
+Link to an amendment published at 87 FR 72407, Nov. 25, 2022.
+
 (a) The requirements in this section apply to applications for, and operation of, earth stations transmitting in the conventional or extended C-bands, the conventional or extended Ku-bands, or the conventional Ka-band that do not qualify for routine licensing under relevant criteria in § 25.211, § 25.212, or § 25.218.
 
 (b) Applications filed pursuant to this section must include the information required by § 25.115(g)(1).

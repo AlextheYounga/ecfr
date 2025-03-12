@@ -1,7 +1,5 @@
 ##### § 430.32 Energy and water conservation standards and their compliance dates. #####
 
-Link to an amendment published at 87 FR 64586, Oct. 25, 2022.
-
 The energy and water (in the case of faucets, showerheads, water closets, and urinals) conservation standards for the covered product classes are:
 
 (a) *Refrigerators/refrigerator-freezers/freezers.* These standards do not apply to refrigerators and refrigerator-freezers with total refrigerated volume exceeding 39 cubic feet (1104 liters) or freezers with total refrigerated volume exceeding 30 cubic feet (850 liters). The energy standards as determined by the equations of the following table(s) shall be rounded off to the nearest kWh per year. If the equation calculation is halfway between the nearest two kWh per year values, the standard shall be rounded up to the higher of these values.
@@ -176,7 +174,7 @@ av = Total adjusted volume, expressed in Liters.
 
 †† The 11.2 EER2 standard applies to products with a certified SEER2 less than 15.2. The 9.8 EER2 standard applies to products with a certified SEER2 greater than or equal to 15.2.
 
-(ii) Any outdoor unit model that has a certified combination with a rating below the applicable standard level(s) for a region cannot be installed in that region. The least-efficient combination of each basic model must comply with this standard.
+(ii) Any model of outdoor unit that has a certified combination with a rating below the applicable standard level(s) for a region cannot be installed in that region. The least-efficient combination of each basic model, which for single-split-system air conditioner (AC) with single-stage or two-stage compressor (including space-constrained and small-duct high velocity systems (SDHV)) must be a coil-only combination, must comply with the applicable standard. See 10 CFR 429.16(a)(1) and (a)(4)(i).
 
 (d) *Water heaters.* The uniform energy factor of water heaters shall not be less than the following:
 

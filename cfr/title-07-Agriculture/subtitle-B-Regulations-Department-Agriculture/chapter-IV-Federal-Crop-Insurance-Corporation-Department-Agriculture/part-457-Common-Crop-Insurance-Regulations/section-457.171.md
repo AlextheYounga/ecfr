@@ -12,7 +12,7 @@ Both FCIC and reinsured policies: Cabbage Crop Insurance Provisions.
 
 *Cabbage.* Plants of the family Brassicaceae and the genus Brassica, grown for their compact heads and used for human consumption.
 
-*Crop Year.* In lieu of the definition contained in section 1 of the Basic Provisions, a period of time that begins on the first day of the earliest planting period and continues through the last day of the insurance period for the latest planting period. The crop year is designated by the calendar year in which the cabbage planted in the latest planting period is normally harvested.
+*Crop year.* In lieu of the definition contained in section 1 of the Basic Provisions, a period of time that begins on the first day of the earliest planting period and continues through the last day of the insurance period for the latest planting period. The crop year is designated by the calendar year in which the cabbage planted in the latest planting period is normally harvested.
 
 *Damaged cabbage production.* Fresh market cabbage that fails to grade U.S. Commercial or better in accordance with the United States Standards for Grades of Cabbage, or processing cabbage that fails to grade U.S. No. 2 or better in accordance with the United States Standards for Grades of Cabbage for Processing due to an insurable cause of loss.
 
@@ -365,4 +365,4 @@ For a basic unit you have 100 percent share in 100 acres of cabbage, 50 acres fo
 
 The late and prevented planting provisions of the Basic Provisions are not applicable.
 
-[74 FR 8709, Feb. 26, 2009, as amended at 74 FR 26281, June 2, 2009; 75 FR 15891, Mar. 30, 2010; 87 FR 38899, June 30, 2022]
+[74 FR 8709, Feb. 26, 2009, as amended at 74 FR 26281, June 2, 2009; 75 FR 15891, Mar. 30, 2010; 87 FR 38899, June 30, 2022; 87 FR 72364, Nov. 25, 2022]

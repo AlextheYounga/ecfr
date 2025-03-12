@@ -1,6 +1,6 @@
 ##### § 457.101 Small grains crop insurance provisions. #####
 
-The Small Grains Crop Insurance Provisions for the 2022 and succeeding crop years are as follows:
+The Small Grains Crop Insurance Provisions for the 2023 and succeeding crop years for crops with a contract change date on or after November 30, 2022, and for the 2024 and succeeding crop years with a contract change date prior to November 30, 2022, are as follows:
 
 United States Department of AgricultureFederal Crop Insurance CorporationSmall Grains Crop Provisions1. Definitions
 
@@ -12,11 +12,11 @@ United States Department of AgricultureFederal Crop Insurance CorporationSmall G
 
 *Khorasan.* The common name for a variety of wheat (*Triticum turanicum*) that is marketed under trademarks such as Kamut. Khorasan is considered spring wheat for the purposes of this policy.
 
-*Latest final planting date.* (a) The final planting date for the spring type in all counties for which the Special Provisions designate a spring type only;
+*Latest final planting date.* (1) The final planting date for the spring type in all counties for which the Special Provisions designate a spring type only;
 
-(b) The final planting date for the winter type in all counties for which the Special Provisions designate a winter type only; or
+(2) The final planting date for the winter type in all counties for which the Special Provisions designate a winter type only; or
 
-(c) The final planting date for the spring type in all counties for which the Special Provisions designate both spring and winter types.
+(3) The final planting date for the spring type in all counties for which the Special Provisions designate both spring and winter types.
 
 *Local market price.* The cash grain price per bushel for the applicable quality level indicated below and offered by buyers in the area in which you normally market the insured crop. The local market price will reflect the maximum limits of quality deficiencies allowable for the applicable quality level indicated below. Factors not associated with the specified quality levels, including but not limited to protein, oil or moisture content, or milling quality will not be considered.
 
@@ -36,7 +36,7 @@ United States Department of AgricultureFederal Crop Insurance CorporationSmall G
 
 *Swathed.* Severance of the stem and grain head from the ground without removal of the seed from the head and placing into a windrow.
 
-2. Unit Division.
+2. Unit Division
 
 (a) In addition to enterprise units provided in section 34(a) of the Basic Provisions, for wheat only, you may elect separate enterprise units by type, as provided in this section, if allowed by the actuarial documents. If you elect enterprise units by type, you may not elect enterprise or optional units by irrigation practices.
 
@@ -44,7 +44,7 @@ United States Department of AgricultureFederal Crop Insurance CorporationSmall G
 
 (2) You must separately meet the requirements in section 34(a)(4) of the Basic Provisions for each enterprise unit.
 
-(3) If you elected separate enterprise units for multiple types and we discover enterprise unit qualifications are not separately met for all types in which you elected enterprise unit and such discovery is made:
+(3) If you elected separate enterprise units for multiple types and we discover enterprise unit qualifications are not separately met for all types in which you elected an enterprise unit and such discovery is made:
 
 (i) On or before the acreage reporting date, you may elect to insure:
 
@@ -64,15 +64,15 @@ United States Department of AgricultureFederal Crop Insurance CorporationSmall G
 
 (b) In addition to, or instead of, establishing optional units as provided in section 34(c) of the Basic Provisions, for wheat only, separate optional units may be established for each wheat type (designated in actuarial documents and including any type insured by written agreement) if each optional unit contains only initially-planted acreage of the type.
 
-3. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities
+3. Insurance Guarantees, Coverage Levels, and Prices
 
 In addition to the requirements of section 3 of the Basic Provisions:
 
-(a) Revenue protection is not available for your oats, rye, flax, or buckwheat. Therefore, if you elect to insure such crops by the sales closing date, they will only be protected against a loss in yield.
+(a) Revenue protection is not available for your flax or buckwheat. Therefore, if you elect to insure such crops by the sales closing date, they will only be protected against a loss in yield.
 
-(b) Revenue protection is available for wheat and barley. Therefore, if you elect to insure your wheat or barley:
+(b) Revenue protection is available for barley, oats, rye, and wheat. Therefore, if you elect to insure your barley, oats, rye, or wheat:
 
-(1) You must elect to insure your wheat or barley with either revenue protection or yield protection by the sales closing date; and
+(1) You must elect to insure your barley, oats, rye, or wheat with either revenue protection or yield protection by the sales closing date; and
 
 (2) In counties with both winter and spring sales closing dates for the insured crop (excluding counties that have a spring sales closing date and a winter sales closing date only applicable to the Winter Coverage Endorsement):
 
@@ -143,7 +143,7 @@ The cancellation and termination dates are as follows, unless otherwise specifie
 
 (2) May report all planted acreage as insurable when you report your acreage for the crop year. Premium will be due on all the acreage except as set forth herein. If the Special Provisions allow a reduced premium amount for acreage intentionally destroyed prior to harvest, you may qualify for such reduction only if you notify us in writing on or before the date designated in the Special Provisions of the intended destruction, and do not claim an indemnity on the acreage. No premium reduction will be allowed if the required notice is not given or if you claim an indemnity for the acreage. Upon receiving timely notice, insurance coverage on the acreage you do not intend to harvest will cease and we will revise your acreage report to indicate the applicable reduction in premium. If you do not destroy the crop as intended, you will be subject to the under-reporting provisions contained in section 6 of the Basic Provisions.
 
-(d) In counties for which the actuarial table provides premium rates for the Wheat or Barley Winter Coverage Endorsement (7 CFR 457.102), coverage is available for wheat or barley damaged between the time coverage begins and the spring final planting date. Coverage under the endorsement is effective only if you qualify under the terms of the endorsement and you execute the endorsement by the sales closing date.
+(d) In counties for which the actuarial documents provide premium rates for the Wheat or Barley Winter Coverage Endorsement (7 CFR 457.102), coverage is available for wheat or barley damaged between the time coverage begins and the spring final planting date. Coverage under the endorsement is effective only if you qualify under the terms of the endorsement and you execute the endorsement by the sales closing date.
 
 7. Insurance Period
 
@@ -255,9 +255,9 @@ The specific causes of loss for small grains are:
 
 (2) Multiplied by:
 
-(i) Your price election for oats, flax, or buckwheat; or
+(i) Your price election for flax or buckwheat; or
 
-(ii) Your projected price for wheat or barley; and
+(ii) Your projected price for barley, oats, or wheat; and
 
 (3) Multiplied by your share.
 
@@ -285,19 +285,19 @@ Representative samples are required in accordance with section 14 of the Basic P
 
 (1) Multiplying the number of insured acres of each insured crop or type, as applicable by your respective:
 
-(i) Yield protection guarantee (per acre) if you elected yield protection for barley or wheat;
+(i) Yield protection guarantee (per acre) if you elected yield protection for barley, oats, rye, or wheat;
 
-(ii) Production guarantee (per acre) and your price election for oats, rye, flax, or buckwheat; or
+(ii) Production guarantee (per acre) and your price election for flax or buckwheat; or
 
-(iii) Revenue protection guarantee (per acre) if you elected revenue protection for barley or wheat;
+(iii) Revenue protection guarantee (per acre) if you elected revenue protection for barley, oats, rye, or wheat;
 
 (2) Totaling the results of section 11(b)(1)(i), (ii), or (iii), whichever is applicable;
 
 (3) Multiplying the production to count of each insured crop or type, as applicable, by your respective:
 
-(i) Projected price for wheat or barley if you elected yield protection;
+(i) Projected price for barley, oats, rye, or wheat if you elected yield protection;
 
-(ii) Price election for oats, rye, flax, or buckwheat; or
+(ii) Price election for flax or buckwheat; or
 
 (iii) Harvest price if you elected revenue protection;
 
@@ -309,33 +309,41 @@ Representative samples are required in accordance with section 14 of the Basic P
 
 For example:
 
-You have 100 percent share in 50 acres of wheat in the unit with a production guarantee (per acre) of 45 bushels, your projected price is $3.40, your harvest price is $3.45, and your production to count is 2,000 bushels.
+You have 100 percent share in 50 acres of wheat in the unit with a production guarantee (per acre) of 45 bushels, your projected price is $7.10, your harvest price is $10.90, and your production to count is 2,000 bushels.
 
 If you elected yield protection:
 
-(1) 50 acres × (45 bushel production guarantee × $3.40 projected price) = $7,650.00 value of the production guarantee
+(1) 50 acres × (45-bushel production guarantee × $7.10 projected price) = $15,975.00 value of the production guarantee;
 
-(3) 2,000 bushel production to count × $3.40 projected price = $6,800.00 value of the production to count
+(2) Not applicable;
 
-(5) $7,650.00−$6,800.00 = $850.00
+(3) 2,000-bushel production to count × $7.10 projected price = $14,200.00 value of the production to count;
 
-(6) $850.00 × 1.000 share = $850.00 indemnity; or
+(4) Not applicable;
+
+(5) $15,975.00−$14,200.00 = $1,775.00; and
+
+(6) $1,775.00 × 1.000 share = $1,775.00 indemnity; or
 
 If you elected revenue protection:
 
-(1) 50 acres × (45 bushel production guarantee × $3.45 harvest price) = $7,762.50 revenue protection guarantee
+(1) 50 acres × (45-bushel production guarantee × $10.90 harvest price) = $24,525.00 revenue protection guarantee;
 
-(3) 2,000 bushel production to count × $3.45 harvest price = $6,900.00 value of the production to count
+(2) Not applicable;
 
-(5) $7,762.50−$6,900.00 = $862.50
+(3) 2,000-bushel production to count × $10.90 harvest price = $21,800.00 value of the production to count;
 
-(6) $862.50 × 1.000 share = $863.00 indemnity.
+(4) Not applicable;
+
+(5) $24,525.00−$21,800.00 = $2,725.00; and
+
+(6) $2,725.00 × 1.000 share = $2,725.00 indemnity.
 
 (c) The total production to count (in bushels) from all insurable acreage on the unit will include:
 
 (1) All appraised production as follows:
 
-(i) For oats, rye, flax, or buckwheat, and barley or wheat under yield protection, not less than the production guarantee (per acre), and for barley or wheat under revenue protection, not less than the amount of production that when multiplied by the harvest price equals the revenue protection guarantee (per acre) for acreage:
+(i) For flax or buckwheat, and barley, oats, rye, or wheat under yield protection, not less than the production guarantee (per acre), and for barley, oats, rye, or wheat under revenue protection, not less than the amount of production that when multiplied by the harvest price equals the revenue protection guarantee (per acre) for acreage:
 
 (A) Which is abandoned;
 
@@ -347,7 +355,7 @@ If you elected revenue protection:
 
 (ii) Production lost due to uninsured causes;
 
-(iii) Unharvested production (mature unharvested production may be adjusted for quality deficiencies and excess moisture in accordance with subsection 11.(d));
+(iii) Unharvested production (mature unharvested production may be adjusted for quality deficiencies and excess moisture in accordance with paragraph (d) of this section);
 
 (iv) Potential production on insured acreage that you intend to put to another use or abandon, if you and we agree on the appraised amount of production. Upon such agreement, the insurance period for that acreage will end when you put the acreage to another use or abandon the crop. If agreement on the appraised amount of production is not reached:
 
@@ -377,17 +385,17 @@ We may obtain samples of the production to determine the moisture content.
 
 (i) Deficiencies in quality, in accordance with the Official United States Standards for Grain including the definition of terms used in section 11(d), result in:
 
-(A) Wheat, except Khorasan, not meeting the grade requirements for U.S. No. 4 (grades U.S. No. 5 or worse) because of test weight; total damaged kernels (heat-damaged kernels will not be considered to be damaged); shrunken or broken kernels; defects (foreign material and heat damage will not be considered to be defects); a musty, sour, or commercially objectionable foreign odor (except smut odor); or grading garlicky, light smutty, smutty or ergoty;
+(A) Wheat, except Khorasan, not meeting the grade requirements for U.S. No. 4 (grades U.S. No. 5 or worse) because of test weight; total damaged kernels (heat-damaged kernels will not be considered to be damaged); shrunken or broken kernels; defects (foreign material and heat damage will not be considered to be defects); a musty, sour, or commercially objectionable foreign odor (except smut odor); or grading garlicky, light smutty, smutty, and ergoty;
 
-(B) Barley, except hull-less barley, not meeting the grade requirements for U.S. No. 4 (grades U.S. No. 5 or worse) because of test weight; percentage of sound barley (heat-damaged kernels will be considered to be sound barley); damaged kernels (heat-damaged kernels will not be considered to be damaged); thin barley; black barley; a musty, sour, or commercially objectionable foreign odor (except smut or garlic odor); or grading blighted, smutty, garlicky or ergoty;
+(B) Barley, except hull-less barley, not meeting the grade requirements for U.S. No. 4 (grades U.S. No. 5 or worse) because of test weight; percentage of sound barley (heat-damaged kernels will be considered to be sound barley); damaged kernels (heat-damaged kernels will not be considered to be damaged); thin barley; black barley; a musty, sour, or commercially objectionable foreign odor (except smut or garlic odor); or grading blighted, smutty, garlicky, or ergoty;
 
-(C) Oats, except hull-less oats, not meeting the grade requirements for U.S. No. 4 (grade U.S. sample grade) because of test weight; percentage of sound oats (heat-damaged kernels will be considered to be sound oats); a musty, sour, or commercially objectionable foreign odor (except smut or garlic odor); or grading smutty, thin, garlicky or ergoty;
+(C) Oats, except hull-less oats, not meeting the grade requirements for U.S. No. 4 (grade U.S. sample grade) because of test weight; percentage of sound oats (heat-damaged kernels will be considered to be sound oats); a musty, sour, or commercially objectionable foreign odor (except smut or garlic odor); or grading smutty, thin, garlicky, or ergoty;
 
 (D) Rye not meeting the grade requirements for U.S. No. 3 (grades U.S. No. 4 or worse) because of test weight; percent damaged kernels (heat-damaged kernels will not be considered to be damaged); thin rye; a musty, sour, or commercially objectionable foreign odor (except smut or garlic odor); or grading light smutty, smutty, light garlicky, garlicky, or ergoty;
 
 (E) Flaxseed not meeting the grade requirements for U.S. No. 2 (grades U.S. sample grade) due to test weight; damaged kernels (heat-damaged kernels will not be considered to be damaged); or a musty, sour, or commercially objectionable foreign odor (except smut or garlic odor);
 
-(ii) Deficiencies in the quality of buckwheat, determined in accordance with applicable state grading standards, result in it not meeting No. 3 grade requirements due to test weight; a musty, sour or commercially objectionable foreign odor (except smut or garlic odor); or grading garlicky, smutty or ergoty if such grades are provided for by the applicable state grading standards;
+(ii) Deficiencies in the quality of buckwheat, determined in accordance with applicable state grading standards, result in it not meeting No. 3 grade requirements due to test weight; a musty, sour or commercially objectionable foreign odor (except smut or garlic odor); or grading garlicky, smutty, and ergoty if such grades are provided for by the applicable state grading standards;
 
 (iii) Quality factors for Khorasan fall below the levels contained in the Official United States Standards for Grain that cause durum wheat to grade less than U.S. No. 4. For example, if durum wheat grades less than U.S. No. 4 when its test weight falls below 54.0 pounds per bushel, Khorasan would be eligible for quality adjustment if its test weight falls below 54.0 pounds per bushel. The same quality factors considered for quality adjustment of durum wheat will be applicable and determination of deficiencies will be made in accordance with the Federal Grain Inspection Service directive that establishes procedures for quality factor analysis of Khorasan seed. Quality adjustment discount factors for U.S. grades specified in the Special Provisions will also apply to Khorasan at the same levels applicable to durum wheat;
 
@@ -421,8 +429,8 @@ We may obtain samples of the production to determine the moisture content.
 
 A late planting period is applicable to small grains, except to any barley or wheat acreage covered under the terms of the Wheat or Barley Winter Coverage Endorsement. Barley or wheat covered under the terms of the Winter Coverage Endorsement must be planted on or prior to the applicable final planting date specified in the Special Provisions. In counties having one winter final planting date for acreage covered under the Wheat or Barley Winter Coverage Endorsement and another winter final planting date for acreage not covered under the endorsement, the winter late planting period will begin after the final planting date for acreage not covered under the endorsement.
 
-13. Prevented Planting.
+13. Prevented Planting
 
 Your prevented planting coverage will be a percentage specified in the actuarial documents of your production guarantee for timely planted acreage. If you have additional coverage and pay an additional premium, you may increase your prevented planting coverage if such additional coverage is specified in the actuarial documents. In counties for which the Special Provisions designate a spring type, your prevented planting production guarantee will be based on your approved yield for spring-planted acreage of the insured crop.
 
-[59 FR 9391, Feb. 28, 1994, as amended at 60 FR 62723, Dec. 7, 1995; 62 FR 65164, Dec. 10, 1997; 67 FR 43526, June 28, 2002; 68 FR 34268, June 9, 2003; 75 FR 15875, Mar. 30, 2010; 81 FR 84398, Nov. 23, 2016; 86 FR 33849, June 25, 2021; 86 FR 38537, July 22, 2021]Editorial Note:At 86 FR 33489, June 25, 2021, § 457.101, in section 7 of the clause, paragraphs (c)(2)(v) introductory text, and (c)(2)(v)(A), (B), (D), and (E) were revised. However, due to an inaccurate amendatory instruction, the amendments could not be incorporated.
+[59 FR 9391, Feb. 28, 1994, as amended at 60 FR 62723, Dec. 7, 1995; 62 FR 65164, Dec. 10, 1997; 67 FR 43526, June 28, 2002; 68 FR 34268, June 9, 2003; 75 FR 15875, Mar. 30, 2010; 81 FR 84398, Nov. 23, 2016; 86 FR 33849, June 25, 2021; 86 FR 38537, July 22, 2021; 87 FR 72362, Nov. 25, 2022]Editorial Note:At 86 FR 33489, June 25, 2021, § 457.101, in section 7 of the clause, paragraphs (c)(2)(v) introductory text, and (c)(2)(v)(A), (B), (D), and (E) were revised. However, due to an inaccurate amendatory instruction, the amendments could not be incorporated.

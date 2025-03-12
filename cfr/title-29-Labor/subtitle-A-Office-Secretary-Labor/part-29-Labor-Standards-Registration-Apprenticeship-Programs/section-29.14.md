@@ -1,8 +1,6 @@
 ##### § 29.14 Derecognition of State Apprenticeship Agencies. #####
 
-Link to an amendment published at 85 FR 14386, Mar. 11, 2020.Link to an amendment published at 85 FR 14388, Mar. 11, 2020.
-
-The recognition for Federal purposes of a State Apprenticeship Agency may be withdrawn for the failure to fulfill, or operate in conformity with, the requirements of parts 29 and 30. Derecognition proceedings for reasonable cause will be instituted in accordance with the following:
+The recognition for Federal purposes of a State Apprenticeship Agency may be withdrawn for the failure to fulfill, or operate in conformity with, the requirements of this part and 29 CFR part 30. Derecognition proceedings for reasonable cause will be instituted in accordance with the following:
 
 (a) Derecognition proceedings for failure to adopt or properly enforce a State Plan for Equal Employment Opportunity in Apprenticeship must be processed in accordance with the procedures prescribed in this part.
 
@@ -56,4 +54,4 @@ The recognition for Federal purposes of a State Apprenticeship Agency may be wit
 
 (i) A State Apprenticeship Agency whose recognition has been withdrawn under this part may have its recognition reinstated upon presentation of adequate evidence that it has fulfilled the requirements established in §§ 29.13(i) and 29.14(g) and (h) and is operating in conformity with the requirements of this part.
 
-[73 FR 64425, Oct. 29, 2008, as amended at 81 FR 92108, Dec. 19, 2016; 85 FR 13033, Mar. 6, 2020]
+[73 FR 64425, Oct. 29, 2008, as amended at 81 FR 92108, Dec. 19, 2016; 85 FR 13033, Mar. 6, 2020; 85 FR 14388, Mar. 11, 2020; 85 FR 30619, May 20, 2020; 87 FR 58287, Sept. 26, 2022]

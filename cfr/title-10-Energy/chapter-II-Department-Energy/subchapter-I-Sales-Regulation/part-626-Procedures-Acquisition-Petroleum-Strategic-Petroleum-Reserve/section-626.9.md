@@ -1,0 +1,3 @@
+##### § 626.9 Suspension and pre-drawdown diversion. #####
+
+Where the Secretary has found that a severe energy supply interruption may be imminent, the Secretary may suspend any previously announced or contracted acquisition of any petroleum product by the SPR or injection of petroleum products into the SPR; or sell any petroleum product acquired for injection into the SPR that has not yet been injected into the SPR.

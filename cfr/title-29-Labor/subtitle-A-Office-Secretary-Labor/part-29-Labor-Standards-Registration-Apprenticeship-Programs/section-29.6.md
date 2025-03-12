@@ -1,7 +1,5 @@
 ##### § 29.6 Program performance standards. #####
 
-Link to an amendment published at 85 FR 14386, Mar. 11, 2020.Link to an amendment published at 85 FR 14387, Mar. 11, 2020.
-
 (a) Every registered apprenticeship program must have at least one registered apprentice, except for the following specified periods of time, which may not exceed 1 year:
 
 (1) Between the date when a program is registered and the date of registration for its first apprentice(s); or
@@ -23,3 +21,5 @@ Link to an amendment published at 85 FR 14386, Mar. 11, 2020.Link to an amendmen
 (c) In order to evaluate completion rates, the Registration Agency must review a program's completion rates in comparison to the national average for completion rates. Based on the review, the Registration Agency must provide technical assistance to programs with completion rates lower than the national average.
 
 (d) Cancellation of apprenticeship agreements during the probationary period will not have an adverse impact on a sponsor's completion rate.
+
+[73 FR 64425, Oct. 29, 2008, as amended at 85 FR 14387, Mar. 11, 2020; 87 FR 58287, Sept. 26, 2022]

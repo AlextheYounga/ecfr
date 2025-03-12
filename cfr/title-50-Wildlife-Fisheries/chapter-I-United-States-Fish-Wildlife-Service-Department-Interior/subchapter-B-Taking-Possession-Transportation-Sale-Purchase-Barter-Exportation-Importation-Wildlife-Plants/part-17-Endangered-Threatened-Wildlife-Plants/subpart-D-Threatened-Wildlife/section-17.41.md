@@ -1,6 +1,6 @@
 ##### § 17.41 Special rules - birds. #####
 
-Link to an amendment published at 87 FR 64720, Oct. 26, 2022.
+Link to an amendment published at 87 FR 72753, Nov. 25, 2022.
 
 (a) Streaked horned lark (*Eremophila alpestris strigata*).
 
@@ -220,4 +220,36 @@ Link to an amendment published at 87 FR 64720, Oct. 26, 2022.
 
 (vi) Incidental take resulting from prescribed burns, grazing, and mowing or other mechanical treatment activities in existing moist soil management units or prior converted croplands (e.g., impoundments for rice or other cereal grain production) is allowed.
 
-[43 FR 6233, Feb. 14, 1978, as amended at 58 FR 65095, Dec. 10, 1993; 60 FR 36010, July 12, 1995; 72 FR 37372, July 9, 2007; 73 FR 23970, May 1, 2008; 76 FR 30780, May 26, 2011; 76 FR 54713, Sept. 2, 2011; 78 FR 15641, Mar. 12, 2013; 78 FR 61502, Oct. 3, 2013; 79 FR 20084, Apr. 10, 2014; 79 FR 35900, June 24, 2014; 81 FR 47048, July 20, 2016; 81 FR 40547, June 22, 2016; 83 FR 39916, Aug. 13, 2018; 84 FR 6311, Feb. 26, 2019; 84 FR 69946, Dec. 19, 2019; 85 FR 22663, Apr. 23, 2020; 85 FR 63830, Oct. 8, 2020; 87 FR 21811, Apr. 13, 2022]
+(g)-(l) [Reserved]
+
+(m) Emperor penguin (*Aptenodytes forsteri*). (1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to the emperor penguin. Except as provided under paragraph (m)(2) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
+
+(i) Import or export, as set forth at § 17.21(b) for endangered wildlife.
+
+(ii) Take, as set forth at § 17.21(c)(1) for endangered wildlife.
+
+(iii) Possession and other acts with unlawfully taken specimens, as set forth at § 17.21(d)(1) for endangered wildlife.
+
+(iv) Interstate or foreign commerce in the course of commercial activity, as set forth at § 17.21(e) for endangered wildlife.
+
+(v) Sale or offer for sale in foreign commerce, as set forth at § 17.21(f) for endangered wildlife.
+
+(vi) Sale or offer for sale in interstate commerce, as set forth at § 17.21(f) for endangered wildlife.
+
+(2) *Exceptions from prohibitions.* In regard to the emperor penguin, you may:
+
+(i) Sell, offer for sale, deliver, receive, carry, transport, or ship in interstate commerce live emperor penguins from one public institution to another public institution. For the purposes of this paragraph, “public institution” means a museum, zoological park, and scientific or educational institution that meets the definition of “public” at 50 CFR 10.12.
+
+(ii) Take emperor penguins within Antarctica as authorized under implementing regulations for the Antarctic Conservation Act of 1978 (16 U.S.C. 2401 *et seq.*), either in accordance with the provisions set forth at 45 CFR 670.5 or 670.9, or as authorized by a permit under 45 CFR part 670.
+
+(iii) Import emperor penguins into the United States from Antarctica or export emperor penguins from the United States to Antarctica as authorized under implementing regulations for the Antarctic Conservation Act of 1978 (16 U.S.C. 2401 *et seq.*), either in accordance with the provisions set forth at 45 CFR 670.9, or as authorized by a permit under 45 CFR part 670.
+
+(iv) Conduct activities as authorized by a permit under § 17.32.
+
+(v) Take, as set forth at § 17.21(c)(2) through (4) for endangered wildlife.
+
+(vi) Possess and engage in other acts with unlawfully taken wildlife, as set forth at § 17.21(d)(2) for endangered wildlife.
+
+(vii) Conduct activities as authorized by a captive-bred wildlife registration under § 17.21(g) for endangered wildlife.
+
+[43 FR 6233, Feb. 14, 1978, as amended at 58 FR 65095, Dec. 10, 1993; 60 FR 36010, July 12, 1995; 72 FR 37372, July 9, 2007; 73 FR 23970, May 1, 2008; 76 FR 30780, May 26, 2011; 76 FR 54713, Sept. 2, 2011; 78 FR 15641, Mar. 12, 2013; 78 FR 61502, Oct. 3, 2013; 79 FR 20084, Apr. 10, 2014; 79 FR 35900, June 24, 2014; 81 FR 47048, July 20, 2016; 81 FR 40547, June 22, 2016; 83 FR 39916, Aug. 13, 2018; 84 FR 6311, Feb. 26, 2019; 84 FR 69946, Dec. 19, 2019; 85 FR 22663, Apr. 23, 2020; 85 FR 63830, Oct. 8, 2020; 87 FR 21811, Apr. 13, 2022; 87 FR 64720, Oct. 26, 2022]

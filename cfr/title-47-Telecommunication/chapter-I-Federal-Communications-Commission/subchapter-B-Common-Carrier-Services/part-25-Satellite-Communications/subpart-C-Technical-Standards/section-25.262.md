@@ -1,5 +1,7 @@
 ##### § 25.262 Licensing and domestic coordination requirements for 17/24 GHz BSS space stations. #####
 
+Link to an amendment published at 87 FR 72407, Nov. 25, 2022.
+
 (a) An applicant may be authorized to operate a space station transmitting in the 17.3-17.8 GHz band at levels up to the maximum power flux density limits defined in § 25.208(c) and/or § 25.208(w), without coordinating its power flux density levels with adjacent licensed or permitted operators, only if there is no licensed space station, or prior-filed application for a space station transmitting in the 17.3-17.8 GHz band at a location less than four degrees from the orbital location at which the applicant proposes to operate.
 
 (b) Any U.S. licensee or permittee authorized to transmit in the 17.3-17.8 GHz band that does not comply with the power flux-density limits set forth in § 25.208(c) and/or § 25.208(w) shall bear the burden of coordinating with any future co-frequency licensees and permittees of a space station transmitting in the 17.3-17.8 GHz band under the following circumstances:

@@ -1,5 +1,7 @@
 ##### § 25.218 Off-axis EIRP density envelopes for FSS earth stations transmitting in certain frequency bands. #####
 
+Link to an amendment published at 87 FR 72407, Nov. 25, 2022.
+
 (a) This section applies to applications for fixed and temporary-fixed FSS earth stations transmitting to geostationary space stations in the conventional C-band, extended C-band, conventional Ku-band, extended Ku-band, conventional Ka-band, or 24.75-25.25 GHz and applications for ESIMs transmitting in the conventional C-band, conventional Ku-band, or conventional Ka-band, except for applications proposing transmission of analog command signals at a band edge with bandwidths greater than 1 MHz or transmission of any other type of analog signal with bandwidths greater than 200 kHz.
 
 (b) Earth station applications subject to this section may be routinely processed if they meet the applicable off-axis EIRP density envelopes set forth in this section.

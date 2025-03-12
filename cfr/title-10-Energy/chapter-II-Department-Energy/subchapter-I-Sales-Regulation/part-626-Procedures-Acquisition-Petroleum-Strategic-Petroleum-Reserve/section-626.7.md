@@ -1,25 +1,73 @@
-##### § 626.7 Royalty transfer and exchange. #####
+##### § 626.7 Acquiring petroleum products by exchange. #####
 
-(a) *General.* DOE shall conduct royalty transfers pursuant to an agreement between DOE and DOI for the transfer of royalty oil.
+(a) *General.* DOE may, through certified contracting officers, conduct petroleum product acquisitions through the exchange of petroleum products. Exchanges are conducted through emergency requests or by solicitation.
 
-(b) *Acquisition strategy.* (1) DOE and DOI shall select a royalty volume from specified leases for transfer usually over six-month periods.
+(b) *Emergency requests.* (1) Notwithstanding the requirements of § 626.5, the requirements of this subsection shall control all exchanges by emergency request.
 
-(2) If logistics and crude oil quality are compatible with SPR receipt capabilities and requirements respectively, DOE may take the royalty oil directly from DOI and place it in SPR storage sites. Otherwise, DOE may competitively solicit suppliers to deliver oil of comparable value to the SPR in exchange for the receipt of royalty-in-kind oil.
+(2) At any point, in the event of an emergency, a requestor may request, in writing, for an exchange of petroleum product from the SPR.
 
-(3) If, based on the market analysis described in paragraph (d) of this section, DOE determines there is a high probability that the cost to the Government can be reduced without significantly affecting national energy security goals, DOE may contract for delivery at a future date in expectation of lower prices and a higher quantity of oil in exchange. Conversely, it may schedule deliveries at an earlier date under the contract in anticipation of higher prices at later dates.
+(3) All requests shall include the following:
 
-(4) Based on the market analysis in paragraph (d) of this section, DOE may, after consultation with DOI, suspend the transfer of royalty oil to DOE if it appears the added demand for oil will add significant upward pressure to prices either regionally or on a world-wide basis.
+(i) A justification of need that describes:
 
-(c) *Fill requirements determination.* DOE shall develop SPR fill requirements for each solicitation based on an assessment of national energy security goals, the availability of royalty oil and storage capacity, and need for specific grades and quantities of crude oil.
+(A) The emergency event,
 
-(d) *Market analysis.* (1) DOE may use prices on futures markets, spot markets, recent price movements, current and projected shipping rates, forecasts by the DOE Energy Information Administration, and any other analytic tools to determine the most desirable acquisition profile.
+(B) The emergency event's impact on the requestor, and
 
-(2) A market analysis may also consider recent price changes, private inventory levels, oil acquisition by other stockpiling entities, the outlook for world oil production, incipient disruptions of supply or refining capability, logistical problems for moving petroleum products, macroeconomic factors, and any other considerations that may be pertinent to the balance of petroleum supply and demand.
+(C) The requestor's inability to acquire petroleum product from an alternative source;
 
-(e) *Evaluation of royalty exchange offers.* (1) DOE shall evaluate offers using:
+(ii) The quantity of petroleum product (in barrels) requested;
 
-(i) The criteria and requirements stated in the solicitation; and
+(iii) The quality specifications of petroleum product requested; and
 
-(ii) The market analysis under paragraph (d) of this section.
+(iv) The anticipated duration of the emergency event.
 
-(2) DOE shall require financial guarantees from contractors in the form of a letter of credit or equivalent financial assurance.
+(4) Upon receipt of an emergency request, DOE will verify the emergency, evaluate the need, and assess the market to ensure there is no alternative source of petroleum products available to the requester. DOE, in its sole discretion, may approve or disapprove any emergency request.
+
+(5) Upon approval of an emergency request, DOE may enter into contract negotiations with the requestor.
+
+(6) Repayment to the SPR for an exchange by emergency request shall be in the form of barrels of petroleum products, or another form of repayment as permitted by law, and shall include the following to be returned to the SPR by the contracted date:
+
+(i) The principal amount of petroleum products provided to the requestor;
+
+(ii) A premium; and
+
+(iii) Costs incurred by DOE in conducting the emergency request.
+
+(c) *Solicitation for exchange.* (1) A solicitation for exchange:
+
+(i) May be either continuously open or fixed for a period of time;
+
+(ii) Shall advertise the quantity and quality specification of petroleum product available for exchange;
+
+(iii) May provide either for immediate delivery or for delivery at future dates to a bidding entity;
+
+(iv) May, in DOE's sole discretion, include a rate table from which offerors may offer dates for repayment; and
+
+(v) May require financial guarantees from offerors in the form of a letter of credit or equivalent financial assurance to accompany their bids.
+
+(2) In conducting the bidding and selection process:
+
+(i) Offerors shall follow the instructions to offerors included in the solicitation;
+
+(ii) DOE shall evaluate and select bids that best support national energy security goals, the availability of petroleum products and storage capacity, and need for specific grades and quantities of petroleum products; and
+
+(iii) Upon selection of a successful bid, DOE shall notify the apparently successful offeror.
+
+(3) Repayment to the SPR for an exchange by solicitation shall be in the form of barrels of petroleum products or another form of repayment as permitted by law, and may be calculated based on any rate table, if applicable, and shall include the following:
+
+(i) Principal amount of petroleum product owed to SPR in the case of an exchange or a deferred contractually scheduled delivery;
+
+(ii) Costs incurred by DOE in conducting the exchange; and
+
+(iii) A premium for each prospective date for repayment.
+
+(4) Based on the market analysis described in paragraph (c)(5) of this section, DOE may refuse offers, decrease the rate of acquisition, or suspend the exchange process if DOE determines acquisition will add significant upward pressure to prices either regionally or on a worldwide basis. DOE may consider recent price changes, private inventory levels, petroleum product acquisition by other stockpiling entities, the outlook for world petroleum products production, incipient disruptions of supply or refining capability, logistical problems for moving petroleum products, macroeconomic factors, and any other considerations that may be pertinent to the balance of petroleum product supply and demand.
+
+(5) Market analysis:
+
+(i) DOE shall establish a market value for each petroleum product to be acquired based on a market analysis at the time of contract award.
+
+(ii) DOE may consider prices on futures markets, spot markets, recent price movements, current and projected shipping rates, forecasts by the DOE Energy Information Administration, and any other analytic tools available to DOE to determine the most desirable purchase profile.
+
+(iii) DOE may also consider factors including recent price changes, private inventory levels, petroleum product acquisition by other stockpiling entities, the outlook for world petroleum product production, disruptions of supply or refining capability, logistical problems for moving petroleum products, macroeconomic factors, and any other considerations that may be pertinent relevant to the balance of petroleum product supply and demand.

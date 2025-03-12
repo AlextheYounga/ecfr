@@ -1,7 +1,5 @@
 ##### § 429.102 Prohibited acts subjecting persons to enforcement action. #####
 
-Link to an amendment published at 87 FR 64586, Oct. 25, 2022.
-
 (a) Each of the following actions is prohibited:
 
 (1) Failure of a manufacturer to provide, maintain, permit access to, or copying of records required to be supplied under the Act and this part or failure to make reports or provide other information required to be supplied under the Act and this part, including but not limited to failure to properly certify covered products and covered equipment in accordance with § 429.12 and §§ 429.14 through 429.66;
@@ -20,7 +18,7 @@ Link to an amendment published at 87 FR 64586, Oct. 25, 2022.
 
 (8) Knowing misrepresentation by a manufacturer or private labeler by certifying an energy use or efficiency rating of any covered product or covered equipment distributed in commerce in a manner that is not supported by test data;
 
-(9) For any manufacturer, distributor, retailer, or private labeler to distribute in commerce an adapter that -
+(9) For any manufacturer, distributor, retailer, or private labeler to distribute in commerce an adapter that—
 
 (i) Is designed to allow an incandescent lamp that does not have a medium screw base to be installed into a fixture or lamp holder with a medium screw base socket; and
 
@@ -48,10 +46,10 @@ Link to an amendment published at 87 FR 64586, Oct. 25, 2022.
 
 (4) A “product installed in violation” includes:
 
-(i) A complete central air conditioning system that is not certified as a complete system that meets the applicable standard. Combinations that were previously validly certified may be installed after the manufacturer has discontinued the combination, provided the combination meets the currently applicable standard.
+(i) A complete central air conditioning system that is not certified as a complete system that meets the applicable standard. Combinations that were previously validly certified may be installed after the manufacturer has discontinued the combination, provided all combinations within the basic model, including for single-split-system AC with single-stage or two-stage compressor at least one coil-only combination as specified in paragraph (a)(1) of this section, comply with the regional standard applicable at the time of installation.
 
 (ii) An outdoor unit with no match (*i.e.*, that is not offered for sale with an indoor unit) that is not certified as part of a combination that meets the applicable standard.
 
-(iii) An outdoor unit that is part of a certified combination rated less than the standard applicable in the region in which it is installed.
+(iii) An outdoor unit that is part of a certified combination rated less than the standard applicable in the region in which it is installed or, where applicable, an outdoor unit with no certified coil-only combination as specified in paragraph (a)(1) of this section that meets the standard applicable in the region in which it is installed.
 
-[76 FR 12451, Mar. 7, 2011, as amended at 81 FR 4145, Jan. 25, 2016; 81 FR 45402, July 14, 2016; 87 FR 53639, Aug. 31, 2022]
+[76 FR 12451, Mar. 7, 2011, as amended at 81 FR 4145, Jan. 25, 2016; 81 FR 45402, July 14, 2016; 87 FR 53639, Aug. 31, 2022; 87 FR 64586, Oct. 25, 2022]

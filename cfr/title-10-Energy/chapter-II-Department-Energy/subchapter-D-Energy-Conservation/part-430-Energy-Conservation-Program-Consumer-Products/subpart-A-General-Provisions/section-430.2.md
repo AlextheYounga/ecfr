@@ -1,7 +1,5 @@
 ##### § 430.2 Definitions. #####
 
-Link to an amendment published at 87 FR 64586, Oct. 25, 2022.
-
 For purposes of this part, words shall be defined as provided for in section 321 of the Act and as follows -
 
 *3-Way incandescent lamp* means an incandescent lamp that -
@@ -160,7 +158,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 (2) Attachable, such that at the time of retail sale the equipment is not physically attached to the ceiling fan, but may be included inside the ceiling fan at the time of sale or sold separately for subsequent attachment to the fan.
 
-*Central air conditioner or central air conditioning heat pump* means a product, other than a packaged terminal air conditioner or packaged terminal heat pump, which is powered by single phase electric current, air cooled, rated below 65,000 Btu per hour, not contained within the same cabinet as a furnace, the rated capacity of which is above 225,000 Btu per hour, and is a heat pump or a cooling unit only. A central air conditioner or central air conditioning heat pump may consist of: A single-package unit; an outdoor unit and one or more indoor units; an indoor unit only; or an outdoor unit with no match. In the case of an indoor unit only or an outdoor unit with no match, the unit *must* be tested and rated as a system (combination of both an indoor and an outdoor unit). For all central air conditioner and central air conditioning heat pump-related definitions, see appendix M or M1 of subpart B of this part.
+*Central air conditioner or central air conditioning heat pump* means a product, other than a packaged terminal air conditioner, packaged terminal heat pump, single-phase single-package vertical air conditioner with cooling capacity less than 65,000 Btu/h, single-phase single-package vertical heat pump with cooling capacity less than 65,000 Btu/h, computer room air conditioner, or unitary dedicated outdoor air system as these equipment categories are defined at 10 CFR 431.92, which is powered by single phase electric current, air cooled, rated below 65,000 Btu per hour, not contained within the same cabinet as a furnace, the rated capacity of which is above 225,000 Btu per hour, and is a heat pump or a cooling unit only. A central air conditioner or central air conditioning heat pump may consist of: A single-package unit; an outdoor unit and one or more indoor units; an indoor unit only; or an outdoor unit with no match. In the case of an indoor unit only or an outdoor unit with no match, the unit must be tested and rated as a system (combination of both an indoor and an outdoor unit). For all central air conditioner and central air conditioning heat pump-related definitions, see appendix M or M1 of subpart B of this part.
 
 *Central system humidifier* means a class of humidifier designed to add moisture into the air stream of a heating system.
 

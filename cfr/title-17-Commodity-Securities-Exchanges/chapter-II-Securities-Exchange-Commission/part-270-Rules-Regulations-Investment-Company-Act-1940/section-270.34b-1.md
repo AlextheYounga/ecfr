@@ -1,5 +1,7 @@
 ##### § 270.34b-1 Sales literature deemed to be misleading. #####
 
+Link to an amendment published at 87 FR 72850, Nov. 25, 2022.
+
 Any advertisement, pamphlet, circular, form letter, or other sales literature addressed to or intended for distribution to prospective investors that is required to be filed with the Commission by section 24(b) of the Act [15 U.S.C. 80a-24(b)] (“sales literature”) shall have omitted to state a fact necessary in order to make the statements made therein not materially misleading unless the sales literature includes the information specified in paragraphs (a) and (b) of this section.
 
 Note to introductory text of § 270.34*b*-1:

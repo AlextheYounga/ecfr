@@ -1,38 +1,34 @@
 ##### § 457.154 Processing sweet corn crop insurance provisions. #####
 
-The Processing Sweet Corn Crop Insurance Provisions for the 2017 and succeeding crop years are as follows:
+The Processing Sweet Corn Crop Insurance Provisions for the 2023 and succeeding crop years are as follows:
 
-FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and reinsured policies:Processing Sweet Corn Crop Provisions
-
-If a conflict exists among the policy provisions, the order of priority is as follows: (1) The Catastrophic Risk Protection Endorsement, if applicable; (2) the Special Provisions; (3) these Crop Provisions; and (4) the Basic Provisions with (1) controlling (2), etc.
-
-1. Definitions
+FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and reinsured policies:Processing Sweet Corn Crop Provisions1. Definitions
 
 *Base contract price.* The price stipulated on the processor contract without regard to discounts or incentives that may apply.
 
 *Bypassed acreage.* Land on which production is ready for harvest but the processor elects not to accept such production so it is not harvested.
 
-*Good farming practices.* The cultural practices generally in use in the county for the crop to make normal progress toward maturity and produce at least the yield used to determine the production guarantee and are those required by the sweet corn processor contract with the processing company, and recognized by the National Institute of Food and Agriculture as compatible with agronomic and weather conditions in the county.
+*Good farming practices.* In addition to the definition contained in the Basic Provisions, cultural practices required by the processor contract.
 
 *Harvest.* The removal of the ears from the stalks for the purpose of delivery to the processor.
 
 *Planted acreage.* In addition to the definition contained in the Basic Provisions, sweet corn must initially be placed in rows far enough apart to permit mechanical cultivation. Acreage planted in any other manner will not be insurable unless otherwise provided by the Special Provisions or by written agreement.
 
-*Practical to replant.* In lieu of the definition of Practical to replant contained in section 1 of the Basic Provisions, practical to replant is defined as our determination, after loss or damage to the insured crop, based on factors including, but not limited to, moisture availability, condition of the field, time to crop maturity, and marketing window, that replanting the insured crop will allow the crop to attain maturity prior to the calendar date for the end of the insurance period. It will not be considered practical to replant unless the replanted acreage can produce at least 75 percent of the approved yield, and the processor agrees in writing that it will accept the production from the replanted acreage.
+*Practical to replant.* In addition to the definition in the Basic Provisions, it will not be considered practical to replant unless the replanted acreage can produce at least 75 percent of the approved yield, and the processor agrees in writing that it will accept the production from the replanted acreage.
 
 *Price election.* In lieu of the definition of price election in the Basic Provisions, the price election will be the base contract price stated in your processor contract.
 
 *Processor.* Any business enterprise regularly engaged in canning or freezing processing sweet corn for human consumption, that possesses all licenses and permits for processing sweet corn required by the state in which it operates, and that possesses facilities, or has contractual access to such facilities, with enough equipment to accept and process contracted processing sweet corn within a reasonable amount of time after harvest.
 
-*Processor contract.* A written agreement between the producer and a processor, containing at minimum:
+*Processor contract.* (1) A written contract between the producer and a processor, containing at a minimum:
 
-(a) The producer's commitment to plant and grow sweet corn, and to deliver the sweet corn production to the processor;
+(i) The producer's commitment to plant and grow sweet corn, and to deliver the sweet corn production to the processor;
 
-(b) The processor's commitment to purchase all the production stated in the processor contract; and
+(ii) The processor's commitment to purchase all the production stated in the processor contract; and
 
-(c) A base contract price.
+(iii) A base contract price.
 
-Multiple contracts with the same processor that specify amounts of production will be considered as a single processor contract, unless the contracts are for different types. Your base contract price will be the weighted average of all applicable base contract prices.
+(2) Multiple contracts with the same processor that specify amounts of production will be considered as a single processor contract, unless the contracts are for different types. Your base contract price will be the weighted average of all applicable base contract prices.
 
 *Ton.* Two thousand (2,000) pounds avoirdupois.
 
@@ -50,13 +46,13 @@ Multiple contracts with the same processor that specify amounts of production wi
 
 (ii) In accordance with section 12, all production from any basic unit in excess of the amount under contract will be included as production to count if such production is applied to any other basic unit for which the contracted amount has not been fulfilled; and
 
-(2) Provisions in the Basic Provisions that allow optional units by section, section equivalent, or FSA farm serial number and by irrigated and non-irrigated practices are not applicable.
+(2) Provisions in the Basic Provisions that allow optional units by section, section equivalent, or FSA farm number and by irrigated and non-irrigated practices are not applicable.
 
 (b) For any processor contract that stipulates the number of acres to be planted, the provisions contained in section 34 of the Basic Provisions will apply.
 
-3. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities
+3. Insurance Guarantees, Coverage Levels, and Prices
 
-In addition to the requirements of section 3 of the Basic Provisions:
+In addition to section 3 of the Basic Provisions:
 
 (a) You may select only one price election percentage for all the processing sweet corn in the county insured under this policy. The percentage of the maximum price election you choose for one type will be applicable to all other types insured under this policy.
 
@@ -76,7 +72,7 @@ In accordance with section 2 of the Basic Provisions, the cancellation and termi
 
 6. Report of Acreage
 
-In addition to the provisions of section 6 of the Basic Provisions, you must provide a copy of all processor contracts to us on or before the acreage reporting date.
+In addition to section 6 of the Basic Provisions, you must provide a copy of all processor contracts to us on or before the acreage reporting date.
 
 7. Insured Crop
 
@@ -104,7 +100,7 @@ In addition to the provisions of section 6 of the Basic Provisions, you must pro
 
 8. Insurable Acreage
 
-In addition to the provisions of section 9 of the Basic Provisions:
+In addition to section 9 of the Basic Provisions:
 
 (a) Any acreage of the insured crop that is damaged before the final planting date, to the extent that the majority of producers in the area would normally not further care for the crop, must be replanted unless we agree that it is not practical to replant; and
 
@@ -112,7 +108,7 @@ In addition to the provisions of section 9 of the Basic Provisions:
 
 9. Insurance Period
 
-In lieu of the provisions contained in section 11 of the Basic Provisions, regarding the end of the insurance period, insurance ceases at the earlier of:
+In lieu of section 11 of the Basic Provisions, regarding the end of the insurance period, insurance ceases at the earlier of:
 
 (a) The date the sweet corn:
 
@@ -128,17 +124,11 @@ In lieu of the provisions contained in section 11 of the Basic Provisions, regar
 
 (c) Final adjustment of a loss; or
 
-(d) Unless otherwise agreed to in writing, the calendar date for the end of the insurance period in which the sweet corn would normally be harvested as follows:
-
-(1) September 30 in Malheur County, Oregon, all Idaho counties, and all Iowa counties;
-
-(2) October 20 in all other Oregon counties, and in all Washington counties; or
-
-(3) September 20 in all other states.
+(d) The end of insurance date specified in the Special Provisions or otherwise allowed by written agreement.
 
 10. Causes of Loss
 
-In accordance with the provisions of section 12 of the Basic Provisions:
+In accordance with section 12 of the Basic Provisions:
 
 (a) Insurance is provided only against the following causes of loss that occur during the insurance period:
 
@@ -174,7 +164,7 @@ In accordance with the provisions of section 12 of the Basic Provisions:
 
 11. Duties in the Event of Damage or Loss
 
-In addition to the requirements of section 14 of the Basic Provisions, you must give us notice:
+In addition to section 14 of the Basic Provisions, you must give us notice:
 
 (a) Not later than 48 hours after:
 
@@ -212,39 +202,37 @@ In addition to the requirements of section 14 of the Basic Provisions, you must 
 
 For example:
 
-You have a 100 percent share in 100 acres of type A processing sweet corn in the unit, with a guarantee of 3.0 tons per acre and a price election of $50.00 per ton. You are only able to harvest 200 tons. Your indemnity would be calculated as follows:
+You have a 100 percent share in 100 acres of type A processing sweet corn in the unit, with a guarantee of 6.0 tons per acre and a price election of $100.00 per ton. You are only able to harvest 200 tons. Your indemnity would be calculated as follows:
 
-(1) 100 acres × 3.0 tons = 300 tons guarantee;
+(1) 100 acres × 6.0 tons = 600 tons guarantee;
 
-(2) 300 tons × $50.00 price election = $15,000.00 value of guarantee;
+(2) 600 tons × $100.00 price election = $60,000.00 value of guarantee;
 
-(4) 200 tons × $50.00 price election = $10,000.00 value of production to count;
+(3) Not applicable;
 
-(6) $15,000.00 − $10,000.00 = $5,000.00 loss;
+(4) 200 tons × $100.00 price election = $20,000.00 value of production to count;
 
-(7) $5,000.00 × 100 percent = $5,000.00 indemnity payment.
+(5) Not applicable;
 
-You also have a 100 percent share in 100 acres of type B processing sweet corn in the same unit, with a guarantee of 4.0 tons per acre and a price election of $45.00 per ton. You are only able to harvest 350 tons. Your total indemnity for both types A and B would be calculated as follows:
+(6) $60,000.00−$20,000.00 = $40,000.00 loss; and
 
-(1) 100 acres × 3.0 tons = 300 tons guarantee for type A, and
+(7) $40,000.00 × 100 percent = $40,000.00 indemnity payment.
 
-100 acres × 4.0 tons = 400 tons guarantee for type B;
+You also have a 100 percent share in 100 acres of type B processing sweet corn in the same unit, with a guarantee of 60 tons per acre and a price election of $90.00 per ton. You are only able to harvest 350 tons. Your total indemnity for both types A and B would be calculated as follows:
 
-(2) 300 tons × $50.00 price election = $15,000.00 value of guarantee for type A, and
+(1) 100 acres × 6.0 tons = 600 tons guarantee for type A, and 100 acres × 6.0 tons = 600 tons guarantee for type B;
 
-400 tons × $45.00 price election = $18,000.00 value of guarantee for type B;
+(2) 600 tons × $100.00 price election = $60,000.00 value of guarantee for type A, and 600 tons × $90.00 price election = $54,000.00 value of guarantee for type B;
 
-(3) $15,000.00 + $18,000.00 = $33,000.00 total value of guarantee;
+(3) $60,000.00 + $54,000.00 = $114,000.00 total value of guarantee;
 
-(4) 200 tons × $50.00 price election = $10,000.00 value of production to count for type A, and
+(4) 200 tons × $100.00 price election = $20,000.00 value of production to count for type A, and 350 tons × $90.00 price election = $31,500.00 value of production to count for type B;
 
-350 tons × $45.00 price election = $15,750.00 value of production to count for type B;
+(5) $20,000.00 + $31,500.00 = $51,500.00 total value of production to count;
 
-(5) $10,000.00 + $15,750.00 = $25,750.00 total value of production to count;
+(6) $114,000.00−$51,500.00 = $62,500.00 loss; and
 
-(6) $33,000.00 − $25,750.00 = $7,250.00 loss;
-
-(7) $7,250.00 loss × 100 percent = $7,250.00 indemnity payment.
+(7) $62,500.00 loss × 100 percent = $62,500.00 indemnity payment.
 
 (c) The total production to count, specified in tons of unhusked ear weight, from all insurable acreage on the unit will include:
 
@@ -288,4 +276,4 @@ A late planting period is not applicable to processing sweet corn unless allowed
 
 Your prevented planting coverage will be a percentage specified in the actuarial documents of your production guarantee for timely planted acreage. If you have additional levels of coverage and pay an additional premium, you may increase your prevented planting coverage if such additional coverage is specified in the actuarial documents.
 
-[62 FR 65342, Dec. 12, 1997, as amended at 76 FR 4804, Jan. 27, 2011; 78 FR 55173, Sept. 10, 2013; 81 FR 84400, Nov. 23, 2016]
+[62 FR 65342, Dec. 12, 1997, as amended at 76 FR 4804, Jan. 27, 2011; 78 FR 55173, Sept. 10, 2013; 81 FR 84400, Nov. 23, 2016; 87 FR 72363, Nov. 25, 2022]
