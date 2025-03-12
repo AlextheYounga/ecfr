@@ -1,0 +1,7 @@
+##### § 655.157 Withholding of U.S. workers prohibited. #####
+
+(a) *Filing a complaint.* Any employer who has reason to believe that a person or entity has willfully and knowingly withheld U.S. workers prior to the arrival at the place of employment of H-2A workers in order to force the hiring of U.S. workers during the recruitment period, as set forth in § 655.135(d), may submit a written complaint to the CO. The complaint must clearly identify the person or entity who the employer believes has withheld the U.S. workers, and must specify sufficient facts to support the allegation (e.g., dates, places, numbers and names of U.S. workers) which will permit an investigation to be conducted by the CO.
+
+(b) *Duty to investigate.* Upon receipt, the CO must immediately investigate the complaint. The investigation must include interviews with the employer who has submitted the complaint, the person or entity named as responsible for withholding the U.S. workers, and the individual U.S. workers whose availability has purportedly been withheld.
+
+(c) *Duty to suspend the recruitment period.* Where the CO determines, after conducting the interviews required by paragraph (b) of this section, that the employer's complaint is valid and justified, the CO will immediately suspend the applicable recruitment period, as set forth in § 655.135(d), to the employer. The CO's determination is the final decision of the Secretary.

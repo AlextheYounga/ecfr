@@ -1,0 +1,5 @@
+##### § 501.21 Failure to cooperate with investigations. #####
+
+(a) No person shall refuse to cooperate with any employee of the Secretary who is exercising or attempting to exercise this investigative or enforcement authority.
+
+(b) Where an employer (or employer's agent or attorney) does not cooperate with an investigation concerning the employment of an H-2A worker, a worker in corresponding employment, or a U.S. worker who has been improperly rejected for employment or improperly laid off or displaced, WHD may make such information available to OFLC and may recommend that OFLC revoke the existing certification that is the basis for the employment of the H-2A workers giving rise to the investigation. In addition, WHD may take such action as appropriate, including initiating proceedings for the debarment of the employer, agent, or attorney from future certification for up to 3 years, seeking an injunction, and/or assessing civil money penalties against any person who has failed to cooperate with a WHD investigation. The taking of any one action shall not bar the taking of any additional action.

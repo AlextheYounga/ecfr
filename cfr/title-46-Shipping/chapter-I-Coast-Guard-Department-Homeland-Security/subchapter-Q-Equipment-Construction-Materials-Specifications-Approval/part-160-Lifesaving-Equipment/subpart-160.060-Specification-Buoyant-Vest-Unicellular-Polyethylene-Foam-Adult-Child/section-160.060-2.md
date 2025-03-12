@@ -12,7 +12,7 @@ Each buoyant vest specified in this subpart is a:
 
 (b) Nonstandard:
 
-(1) Model,1/\> adult (for persons weighing over 90 pounds);
+(1) Model,1 adult (for persons weighing over 90 pounds);
 
 1 A model designation for a nonstandard vest is to be assigned by the individual manufactured and must be different from any standard vest.
 

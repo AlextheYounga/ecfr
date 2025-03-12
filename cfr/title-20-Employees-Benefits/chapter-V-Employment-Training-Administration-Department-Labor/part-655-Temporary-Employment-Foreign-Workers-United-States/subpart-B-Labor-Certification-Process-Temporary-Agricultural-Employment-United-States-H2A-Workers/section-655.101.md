@@ -1,3 +1,7 @@
-##### § 655.101 Authority of the Office of Foreign Labor Certification (OFLC) Administrator. #####
+##### § 655.101 Authority of the agencies, offices, and divisions in the Department of Labor. #####
 
-The Secretary has delegated her authority to make determinations under 8 U.S.C. 1188 to the Assistant Secretary for the Employment and Training Administration (ETA), who in turn has delegated that authority to the Office of Foreign Labor Certification (OFLC). The determinations are made by the OFLC Administrator who, in turn, may delegate this responsibility to designated staff members; e.g., a Certifying Officer (CO).
+(a) *Authority and role of the Office of Foreign Labor Certification.* The Secretary has delegated authority to the Assistant Secretary for the Employment and Training Administration (ETA), who in turn has delegated that authority to the Office of Foreign Labor Certification (OFLC), to issue certifications and carry out other statutory responsibilities as required by 8 U.S.C. 1188. Determinations on an *Application for Temporary Employment Certification* are made by the OFLC Administrator who, in turn, may delegate this responsibility to designated staff, e.g., a Certifying Officer (CO).
+
+(b) *Authority of the Wage and Hour Division.* The Secretary has delegated authority to the Wage and Hour Division (WHD) to conduct certain investigatory and enforcement functions with respect to terms and conditions of employment under 8 U.S.C. 1188, 29 CFR part 501, and this subpart (“the H-2A program”), and to carry out other statutory responsibilities required by 8 U.S.C. 1188. The regulations governing WHD's investigatory and enforcement functions, including those related to the enforcement of temporary agricultural labor certifications issued under this subpart, are in 29 CFR part 501.
+
+(c) *Concurrent authority.* OFLC and WHD have concurrent authority to impose a debarment remedy pursuant to § 655.182 and 29 CFR 501.20.

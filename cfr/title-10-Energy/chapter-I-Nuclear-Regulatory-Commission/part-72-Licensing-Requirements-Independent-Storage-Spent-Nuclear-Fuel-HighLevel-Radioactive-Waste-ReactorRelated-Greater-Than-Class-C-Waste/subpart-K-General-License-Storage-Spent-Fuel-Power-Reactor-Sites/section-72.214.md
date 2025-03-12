@@ -321,23 +321,15 @@ Amendment Number 1 on February 22, 2022.
 
 Certificate Number: 1029.
 
-Initial Certificate Effective Date: February 5, 2003, superseded by Renewed Initial.
+Initial Certificate Effective Date: February 5, 2003, superseded by Renewed Initial Certificate on October 27, 2021.
 
-Certificate Effective Date: October 27, 2021.
-
-Amendment Number 1 Effective Date: May 16, 2005, superseded by Renewed.
-
-Amendment Number 1 Effective Date: October 27, 2021.
+Amendment Number 1 Effective Date: May 16, 2005, superseded by Renewed Amendment Number 1 on October 27, 2021.
 
 Amendment Number 2 Effective Date: Amendment not issued by the NRC.
 
-Amendment Number 3 Effective Date: February 23, 2015, superseded by Renewed.
+Amendment Number 3 Effective Date: February 23, 2015, superseded by Renewed Amendment Number 3 on October 27, 2021.
 
-Amendment Number 3 Effective Date: October 27, 2021.
-
-Amendment Number 4 Effective Date: March 12, 2019, superseded by Renewed.
-
-Amendment Number 4 Effective Date: October 27, 2021.
+Amendment Number 4 Effective Date: March 12, 2019, superseded by Renewed Amendment Number 4 on October 27, 2021.
 
 SAR Submitted by: Transnuclear, Inc., now TN Americas, LLC.
 

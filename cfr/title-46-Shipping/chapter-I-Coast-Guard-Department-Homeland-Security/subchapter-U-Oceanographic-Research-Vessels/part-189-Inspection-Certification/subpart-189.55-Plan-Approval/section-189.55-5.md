@@ -4,7 +4,7 @@
 
 (2) General arrangement plan of decks, holds, inner bottoms, etc., and including inboard and outboard profile.
 
-(b) *Hull structure.*1/\> (1) \* Inner bottom plating and framing.
+(b) *Hull structure.*1 (1) \* Inner bottom plating and framing.
 
 1 The asterisk (\*) indicates items which may require approval by the American Bureau of Shipping for vessels classed by that society.
 

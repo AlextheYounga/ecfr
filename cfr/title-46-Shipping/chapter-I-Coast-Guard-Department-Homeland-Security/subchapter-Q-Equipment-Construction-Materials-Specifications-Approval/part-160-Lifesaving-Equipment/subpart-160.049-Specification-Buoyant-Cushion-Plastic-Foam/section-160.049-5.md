@@ -1,12 +1,10 @@
-##### § 160.049-5 Inspections and tests.1/\> #####
+##### § 160.049-5 Inspections and tests.1 #####
 
 1 The manufacturer of a personal flotation device must meet 33 CFR 181.701 through 33 CFR 181.705 which require an instruction pamphlet for each device that is sold or offered for sale for use on recreational boats.
 
 (a) *General.* Manufacturers of listed and labeled buoyant cushions shall maintain quality control of the materials used, manufacturing methods and the finished product so as to meet the applicable requirements, and shall make sufficient inspections and tests of representative samples and components produced to maintain the quality of the finished product. Records of tests conducted by the manufacturer and records of materials, including affidavits by suppliers that applicable requirements are met, entering into construction shall be made available to the recognized laboratory inspector or the Coast Guard inspector, or both, for review upon request. Any examinations, inspections and tests which are required by the recognized laboratory for listed and labeled devices produced will be conducted by the laboratory inspector at the place of manufacture or other location at the option of the laboratory.
 
 (b) *Lot size and sampling.* (1) A lot shall consist of not more than 1,000 buoyant cushions. A new lot shall be started with any change or modification in materials used or manufacturing methods employed. When a lot of buoyant cushions is ready for inspection, the manufacturer shall notify the recognized laboratory so that they may, at their discretion, assign an inspector to the plant for the purpose of making any tests and inspections deemed necessary. From each lot of buoyant cushions, the manufacturer or the recognized laboratory or U.S. Coast Guard inspector, when assigned, shall select samples in accordance with table 160.049-5(b)(1) to be tested for buoyancy in accordance with paragraph (e) of this section.
-
-Table 160.049-5(b)(1) - Sampling for Buoyancy Tests
 
 |  Lot size   |Number of cushions in sample|
 |-------------|----------------------------|
@@ -19,7 +17,7 @@ Table 160.049-5(b)(1) - Sampling for Buoyancy Tests
 
 (d) *Test facilities.* The laboratory inspector, or the Coast Guard inspector, or both, shall be admitted to any place in the factory where work is being done on listed and labeled products, and either or both inspectors may take samples of parts or materials entering into construction of final assemblies, for further examinations, inspections, or tests. The manufacturer shall provide a suitable place and the apparatus necessary for the performance of the tests which are done at the place of manufacture.
 
-(e) *Buoyancy* - (1) *Buoyancy test method.* Securely attach the spring scale in a position directly over the test tank. Suspend the weighted wire basket from the scale in such a manner that the basket is weighed while it is completely under water. In order to measure the actual buoyancy provided by the cushion, the underwater weight of the empty basket should exceed the buoyancy of the cushion. To obtain the buoyancy of the cushion, proceed as follows:
+(e) *Buoyancy*—(1) *Buoyancy test method.* Securely attach the spring scale in a position directly over the test tank. Suspend the weighted wire basket from the scale in such a manner that the basket is weighed while it is completely under water. In order to measure the actual buoyancy provided by the cushion, the underwater weight of the empty basket should exceed the buoyancy of the cushion. To obtain the buoyancy of the cushion, proceed as follows:
 
 (i) Weigh the empty wire basket under water.
 

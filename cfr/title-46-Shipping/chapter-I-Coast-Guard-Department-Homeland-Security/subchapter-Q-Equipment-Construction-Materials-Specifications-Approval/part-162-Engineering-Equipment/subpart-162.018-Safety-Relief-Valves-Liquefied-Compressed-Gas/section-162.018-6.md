@@ -12,7 +12,7 @@
 
 (5) Rated capacity \_\_\_\_ cubic feet per minute of the gas or vapor (at 60 °F. and 14.7 p.s.i.a.).
 
-(6) Coast Guard approval number. The minimum wording for showing approval shall be “USCG 162.018/\* \*” or “USCG 162.018-\* \*/\>”.
+(6) Coast Guard approval number. The minimum wording for showing approval shall be “USCG 162.018/\* \*” or “USCG 162.018-\* \*”.
 
 \* \* Number to be assigned by the Commanding Officer, USCG Marine Safety Center.
 

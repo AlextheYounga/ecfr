@@ -1,5 +1,7 @@
 ##### § 169.527 Required equipment for lifeboats. #####
 
+Link to an amendment published at 87 FR 68306, Nov. 14, 2022.
+
 Lifeboats must be equipped in accordance with Table 169.527. This equipment is described in § 169.529.
 
 Table 169.527

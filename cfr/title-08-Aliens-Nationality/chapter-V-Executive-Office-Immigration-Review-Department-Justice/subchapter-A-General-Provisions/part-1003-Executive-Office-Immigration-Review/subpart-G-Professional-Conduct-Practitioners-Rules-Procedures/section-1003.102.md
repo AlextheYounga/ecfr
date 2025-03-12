@@ -1,7 +1,5 @@
 ##### § 1003.102 Grounds. #####
 
-Link to an amendment published at 87 FR 56259, Sept. 14, 2022.
-
 It is deemed to be in the public interest for an adjudicating official or the Board to impose disciplinary sanctions against any practitioner who falls within one or more of the categories enumerated in this section, but these categories do not constitute the exclusive grounds for which disciplinary sanctions may be imposed in the public interest. Nothing in this regulation should be read to denigrate the practitioner's duty to represent zealously his or her client within the bounds of the law. A practitioner who falls within one of the following categories shall be subject to disciplinary sanctions in the public interest if he or she:
 
 (a) Charges or receives, either directly or indirectly:
@@ -16,7 +14,7 @@ It is deemed to be in the public interest for an adjudicating official or the Bo
 
 (c) Knowingly or with reckless disregard makes a false statement of material fact or law, or willfully misleads, misinforms, threatens, or deceives any person (including a party to a case or an officer or employee of the Department of Justice), concerning any material and relevant matter relating to a case, including knowingly or with reckless disregard offering false evidence. If a practitioner has offered material evidence and comes to know of its falsity, the practitioner shall take appropriate remedial measures;
 
-(d) Solicits professional employment, through in-person or live telephone contact or through the use of runners, from a prospective client with whom the practitioner has no family or prior professional relationship, when a significant motive for the practitioner's doing so is the practitioner's pecuniary gain. If the practitioner has no family or prior professional relationship with the prospective client known to be in need of legal services in a particular matter, the practitioner must include the words “Advertising Material” on the outside of the envelope of any written communication and at the beginning and ending of any recorded communication. Such advertising material or similar solicitation documents may not be distributed by any person in or around the premises of any building in which an Immigration Court is located;
+(d) Solicits professional employment, through in-person or live telephone contact or through the use of runners, from a prospective client with whom the practitioner has no family or prior professional relationship, when a significant motive for the practitioner's doing so is the practitioner's pecuniary gain. If the practitioner has no family or prior professional relationship with the prospective client known to be in need of legal services in a particular matter, the practitioner must include the words “Advertising Material” on the outside of the envelope of any written communication and at the beginning and ending of any recorded communication. Such advertising material or similar solicitation documents may not be distributed by any person in or around the premises of any building in which an immigration court is located;
 
 (e) Is subject to a final order of disbarment or suspension, or has resigned while a disciplinary investigation or proceeding is pending;
 
@@ -26,7 +24,7 @@ It is deemed to be in the public interest for an adjudicating official or the Bo
 
 (2) Contains an assertion about the practitioner or the practitioner's qualifications or services that cannot be substantiated. A practitioner shall not state or imply that the practitioner has been recognized or certified as a specialist in immigration or nationality law unless such certification is granted by the appropriate State regulatory authority or by an organization that has been approved by the appropriate State regulatory authority to grant such certification. An accredited representative shall not state or imply that the accredited representative:
 
-(i) Is approved to practice before the Immigration Courts or the Board, if the representative is only approved as an accredited representative before DHS;
+(i) Is approved to practice before the immigration courts or the Board, if the representative is only approved as an accredited representative before DHS;
 
 (ii) Is an accredited representative for an organization other than a recognized organization through which the representative acquired accreditation; or
 
@@ -38,7 +36,7 @@ It is deemed to be in the public interest for an adjudicating official or the Bo
 
 (i) Knowingly or with reckless disregard falsely certifies a copy of a document as being a true and complete copy of an original;
 
-(j) Engages in frivolous behavior in a proceeding before an Immigration Court, the Board, or any other administrative appellate body under title II of the Immigration and Nationality Act, provided:
+(j) Engages in frivolous behavior in a proceeding before an immigration court, the Board, or any other administrative appellate body under title II of the Immigration and Nationality Act, provided:
 
 (1) A practitioner engages in frivolous behavior when he or she knows or reasonably should have known that his or her actions lack an arguable basis in law or in fact, or are taken for an improper purpose, such as to harass or to cause unnecessary delay. Actions that, if taken improperly, may be subject to disciplinary sanctions include, but are not limited to, the making of an argument on any factual or legal question, the submission of an application for discretionary relief, the filing of a motion, or the filing of an appeal. The signature of a practitioner on any filing, application, motion, appeal, brief, or other document constitutes certification by the signer that the signer has read the filing, application, motion, appeal, brief, or other document and that, to the best of the signer's knowledge, information, and belief, formed after inquiry reasonable under the circumstances, the document is well-grounded in fact and is warranted by existing law or by a good faith argument for the extension, modification, or reversal of existing law or the establishment of new law, and is not interposed for any improper purpose.
 
@@ -76,14 +74,12 @@ It is deemed to be in the public interest for an adjudicating official or the Bo
 
 (s) Fails to disclose to the adjudicator legal authority in the controlling jurisdiction known to the practitioner to be directly adverse to the position of the client and not disclosed by opposing counsel;
 
-(t) Fails to submit a signed and completed Notice of Entry of Appearance as Attorney or Representative in compliance with applicable rules and regulations when the practitioner:
+(t) Repeatedly fails to submit a signed and completed entry of appearance using the appropriate form in compliance with applicable rules and regulations, including 8 CFR 292.4(a), 1003.17, and 1003.38;
 
-(1) Has engaged in *practice* or *preparation* as those terms are defined in §§ 1001.1(i) and (k), and
-
-(2) Has been deemed to have engaged in a pattern or practice of failing to submit such forms, in compliance with applicable rules and regulations. Notwithstanding the foregoing, in each case where the respondent is represented, every pleading, application, motion, or other filing shall be signed by the practitioner of record in his or her individual name;
-
-(u) Repeatedly files notices, motions, briefs, or claims that reflect little or no attention to the specific factual or legal issues applicable to a client's case, but rather rely on boilerplate language indicative of a substantial failure to competently and diligently represent the client; or
+(u) Repeatedly drafts notices, motions, briefs, or claims that are filed with DHS or EOIR that reflect little or no attention to the specific factual or legal issues applicable to a client's case, but rather rely on boilerplate language indicative of a substantial failure to competently and diligently represent the client;
 
 (v) Acts outside the scope of the representative's approved authority as an accredited representative.
 
-[65 FR 39526, June 27, 2000, as amended at 73 FR 76923, Dec. 18, 2008, 81 FR 92362, Dec. 19, 2016]
+(w) Repeatedly fails to sign any pleading, application, motion, petition, brief, or other document prepared, drafted, or filed with DHS or EOIR. The practitioner's signature must be in the practitioner's individual name and must be handwritten or electronically in conformity with the rules and instructions of the applicable system.
+
+[65 FR 39526, June 27, 2000, as amended at 73 FR 76923, Dec. 18, 2008, 81 FR 92362, Dec. 19, 2016; 87 FR 56259, Sept. 14, 2022]

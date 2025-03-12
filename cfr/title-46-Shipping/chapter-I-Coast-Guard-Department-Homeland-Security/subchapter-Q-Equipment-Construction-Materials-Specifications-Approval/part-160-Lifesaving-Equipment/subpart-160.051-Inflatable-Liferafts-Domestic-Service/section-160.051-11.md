@@ -1,5 +1,7 @@
 ##### § 160.051-11 Equipment required for Coastal Service inflatable liferafts. #####
 
+Link to an amendment published at 87 FR 68305, Nov. 14, 2022.
+
 In lieu of the equipment specified in § 160.151-21, the following equipment must be provided with a Coastal Service inflatable liferaft:
 
 (a) *Rescue quoit and heaving line.* One rescue quoit and a heaving line as described in § 160.151-21(a).

@@ -1,5 +1,7 @@
 ##### § 160.151-21 Equipment required for SOLAS A and SOLAS B inflatable liferafts. #####
 
+Link to an amendment published at 87 FR 68305, Nov. 14, 2022.
+
 To obtain Coast Guard approval, the equipment in each SOLAS A and SOLAS B inflatable liferaft must meet the following specific requirements when complying with the indicated regulations of SOLAS and the IMO LSA Code, as amended by Resolution MSC.293(87) (incorporated by reference, see § 160.151-5 of this subpart):
 
 (a) *Heaving line (IMO LSA Code, as amended by Resolution MSC.293(87), Chapter IV/4.1.5.1.1).* The buoyant heaving line must have a breaking strength of not less than 1.1 kN (250 lb), and must be attached to the inflatable liferaft near the entrance furthest from the painter attachment.

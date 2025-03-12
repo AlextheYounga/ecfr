@@ -58,6 +58,6 @@ As used in this part:
 
 *NRC staff* means any NRC officer or employee or his/her authorized representative, except a Commissioner, a member of a Commissioner's immediate staff, an Atomic Safety and Licensing Board, a presiding officer, an administrative judge, an administrative law judge, or any other officer or employee of the Commission who performs adjudicatory functions.
 
-*NRC Staff Director* means:
+*NRC staff director* means the Executive Director for Operations; the Director, Office of Nuclear Reactor Regulation; the Director, Office of Nuclear Material Safety and Safeguards; the Director, Office of Nuclear Regulatory Research; the Director, Office of Public Affairs; and the designee of any NRC staff director.
 
-Executive Director for Operations;Director, Office of Nuclear Reactor Regulation;Director, Office of Nuclear Material Safety and Safeguards;Director, Office of Nuclear Regulatory Research;Director, Office of Governmental and Public Affairs; andThe designee of any NRC staff director.[49 FR 9381, Mar. 12, 1984, as amended at 51 FR 35999, Oct. 8, 1986; 52 FR 31612, Aug. 21, 1987; 72 FR 57443, Oct. 9, 2007; 73 FR 5723, Jan. 31, 2008; 76 FR 56964, Sept. 15, 2011; 77 FR 46599, Aug. 3, 2012; 79 FR 75740, Dec. 19, 2014; 84 FR 65644, Nov. 29, 2019]
+[49 FR 9381, Mar. 12, 1984, as amended at 51 FR 35999, Oct. 8, 1986; 52 FR 31612, Aug. 21, 1987; 72 FR 57443, Oct. 9, 2007; 73 FR 5723, Jan. 31, 2008; 76 FR 56964, Sept. 15, 2011; 77 FR 46599, Aug. 3, 2012; 79 FR 75740, Dec. 19, 2014; 84 FR 65644, Nov. 29, 2019; 87 FR 68031, Nov. 14, 2022]

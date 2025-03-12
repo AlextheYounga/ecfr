@@ -1,0 +1,3 @@
+##### § 296.1 Purpose. #####
+
+This part implements the Hermit's Peak/Calf Canyon Fire Assistance Act (Act), Division G of Public Law 117-180, 136 Stat. 2114, 2168, which requires the Federal Emergency Management Agency (FEMA) to establish the Office of Hermit's Peak/Calf Canyon Fire Claims (“Claims Office”) to receive, evaluate, process, and pay actual compensatory damages for injuries suffered from the Hermit's Peak/Calf Canyon Fire.

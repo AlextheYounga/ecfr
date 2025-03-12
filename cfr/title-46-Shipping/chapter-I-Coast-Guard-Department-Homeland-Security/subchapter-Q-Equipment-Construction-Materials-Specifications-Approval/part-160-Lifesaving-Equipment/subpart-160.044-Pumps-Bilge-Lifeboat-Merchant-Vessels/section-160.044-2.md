@@ -4,7 +4,7 @@
 
 (b) *Sizes.* Bilge pumps covered by this subpart shall be of three sizes, having capacities as follows:
 
-(1) *Size No. 1.* 5 gallons per minute at 65 double strokes,1/\> for lifeboats up to 330 cubic feet capacity.2/\>
+(1) *Size No. 1.* 5 gallons per minute at 65 double strokes,1 for lifeboats up to 330 cubic feet capacity.2
 
 1 A double stroke is a complete cycle from one extreme to the other and back again to the original starting point, or, for rotary type, one complete revolution.
 

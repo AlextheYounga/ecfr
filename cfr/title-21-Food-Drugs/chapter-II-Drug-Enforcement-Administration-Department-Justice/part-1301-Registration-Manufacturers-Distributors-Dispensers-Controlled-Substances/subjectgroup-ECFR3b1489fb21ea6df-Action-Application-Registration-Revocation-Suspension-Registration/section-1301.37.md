@@ -1,5 +1,7 @@
 ##### § 1301.37 Order to show cause. #####
 
+Link to an amendment published at 87 FR 68044, Nov. 14, 2022.
+
 (a) If, upon examination of the application for registration from any applicant and other information gathered by the Administration regarding the applicant, the Administrator is unable to make the determinations required by the applicable provisions of section 303 and/or section 1008 of the Act (21 U.S.C. 823 and 958) to register the applicant, the Administrator shall serve upon the applicant an order to show cause why the registration should not be denied.
 
 (b) If, upon information gathered by the Administration regarding any registrant, the Administrator determines that the registration of such registrant is subject to suspension or revocation pursuant to section 304 or section 1008 of the Act (21 U.S.C. 824 and 958), the Administrator shall serve upon the registrant an order to show cause why the registration should not be revoked or suspended.

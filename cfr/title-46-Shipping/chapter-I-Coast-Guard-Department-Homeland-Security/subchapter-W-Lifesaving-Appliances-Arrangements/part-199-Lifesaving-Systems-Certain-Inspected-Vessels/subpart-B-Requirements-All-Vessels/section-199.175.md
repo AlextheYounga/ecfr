@@ -1,5 +1,7 @@
 ##### § 199.175 Survival craft and rescue boat equipment. #####
 
+Link to an amendment published at 87 FR 68308, Nov. 14, 2022.
+
 (a) All lifeboat and rescue boat equipment -
 
 (1) Must be secured within the boat by lashings, by storage in lockers or compartments, by storage in brackets or similar mounting arrangements, or by other suitable means;

@@ -1,8 +1,8 @@
-##### § 160.047-5 Inspections and tests.1/\> #####
+##### § 160.047-5 Inspections and tests.1 #####
 
 1 The manufacturer of a personal flotation device must meet 33 CFR 181.701 through 33 CFR 181.705 which require an instruction pamphlet for each device that is sold or offered for sale for use on recreational boats.
 
-(a) *General.* Manufacturers of listed and labeled buoyant vests shall -
+(a) *General.* Manufacturers of listed and labeled buoyant vests shall—
 
 (1) Maintain quality control of the materials used, the manufacturing methods and the finished product to meet the requirements of this subpart by conducting sufficient inspections and tests of representative samples and components produced;
 
@@ -18,8 +18,6 @@
 
 (4) The manufacturer shall select samples in accordance with the requirements in Table 160.047-5(b)(4) from each lot of buoyant vests to be tested by the inspector in accordance with paragraph (e) of this section;
 
-Table 160.047-5(b)(4) - Sample for Buoyancy Tests
-
 |  Lot size   |Number of vests in sample|
 |-------------|-------------------------|
 |100 and under|            1            |
@@ -33,13 +31,13 @@ Table 160.047-5(b)(4) - Sample for Buoyancy Tests
 
 (c) *Additional tests.* An inspector from the recognized laboratory or the Coast Guard may conduct an examination, test, and inspection of a listed and labeled buoyant device that is obtained from the manufacturer or through commercial channels to determine its conformance to the applicable requirements.
 
-(d) *Test facilities.* The manufacturer shall admit the laboratory inspector and the Coast Guard inspector to any part of the premises at the place of manufacture of a listed and labeled device to -
+(d) *Test facilities.* The manufacturer shall admit the laboratory inspector and the Coast Guard inspector to any part of the premises at the place of manufacture of a listed and labeled device to—
 
 (1) Examine, inspect, or test a sample of a part or a material that is included in the construction of the device; and
 
 (2) Conduct any necessary examination, inspection, or test in a suitable place and with appropriate apparatus provided by the manufacturer.
 
-(e) *Buoyancy* - (1) *Buoyancy test method.* Remove the buoyant pad inserts from the vest and cut three slits each not less than 2 inches in length and not less than 2 inches apart on both sides of each pad. Securely attach the spring scale in a position directly over the test tank. Suspend the weighted wire basket from the scale in such a manner that the basket is weighed while it is completely under water. In order to measure the actual buoyancy provided by the pads, proceed as follows:
+(e) *Buoyancy*—(1) *Buoyancy test method.* Remove the buoyant pad inserts from the vest and cut three slits each not less than 2 inches in length and not less than 2 inches apart on both sides of each pad. Securely attach the spring scale in a position directly over the test tank. Suspend the weighted wire basket from the scale in such a manner that the basket is weighed while it is completely under water. In order to measure the actual buoyancy provided by the pads, proceed as follows:
 
 (i) Weigh the empty wire basket under water.
 

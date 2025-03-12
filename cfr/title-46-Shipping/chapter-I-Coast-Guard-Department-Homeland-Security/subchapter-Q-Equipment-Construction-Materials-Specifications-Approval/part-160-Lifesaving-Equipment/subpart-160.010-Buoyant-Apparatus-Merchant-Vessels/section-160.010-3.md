@@ -1,5 +1,7 @@
 ##### § 160.010-3 Inflatable buoyant apparatus. #####
 
+Link to an amendment published at 87 FR 68304, Nov. 14, 2022.
+
 (a) *Design and performance.* To obtain Coast Guard approval, an inflatable buoyant apparatus must comply with subpart 160.151, with the following exceptions:
 
 (1) *Canopy requirements (IMO LSA Code, Chapter IV/4.1.1.5 (incorporated by reference, see § 160.010-1 of this subpart)).* It does not need a canopy.

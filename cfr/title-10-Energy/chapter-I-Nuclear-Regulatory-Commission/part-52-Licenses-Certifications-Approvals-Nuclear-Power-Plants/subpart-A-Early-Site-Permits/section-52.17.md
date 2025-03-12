@@ -26,7 +26,7 @@
 
 (A) An individual located at any point on the boundary of the exclusion area for any 2 hour period following the onset of the postulated fission product release, would not receive a radiation dose in excess of 25 rem2 total effective dose equivalent (TEDE).
 
-2 A whole body dose of 25 rem has been stated to correspond numerically to the once in a lifetime accidental or emergency dose for radiation workers which, according to NCRP recommendations at the time could be disregarded in the determination of their radiation exposure status (see NBS Handbook 69 dated June 5, 1959). However, its use is not intended to imply that this number constitutes an acceptable limit for an emergency dose to the public under accident conditions. Rather, this dose value has been set forth in this section as a reference value, which can be used in the evaluation of plant design features with respect to postulated reactor accidents, to assure that these designs provide assurance of low risk of public exposure to radiation, in the event of an accidents.
+2 A whole body dose of 25 rem has been stated to correspond numerically to the once in a lifetime accidental or emergency dose for radiation workers which, according to NCRP recommendations at the time could be disregarded in the determination of their radiation exposure status (see NBS Handbook 69 dated June 5, 1959). However, its use is not intended to imply that this number constitutes an acceptable limit for an emergency dose to the public under accident conditions. Rather, this dose value has been set forth in this section as a reference value, which can be used in the evaluation of plant design features with respect to postulated reactor accidents, to assure that these designs provide assurance of low risk of public exposure to radiation, in the event of an accident.
 
 (B) An individual located at any point on the outer boundary of the low population zone, who is exposed to the radioactive cloud resulting from the postulated fission product release (during the entire period of its passage) would not receive a radiation dose in excess of 25 rem TEDE;
 
@@ -60,4 +60,4 @@
 
 (d) Each applicant for an early site permit under this part shall protect Safeguards Information against unauthorized disclosure in accordance with the requirements in §§ 73.21 and 73.22 of this chapter, as applicable.
 
-[72 FR 49517, Aug. 28, 2007, as amended at 72 FR 57447, Oct. 9, 2007; 73 FR 63571, Oct. 24, 2008; 78 FR 34249, June 7, 2013; 78 FR 75450, Dec. 12, 2013]
+[72 FR 49517, Aug. 28, 2007, as amended at 72 FR 57447, Oct. 9, 2007; 73 FR 63571, Oct. 24, 2008; 78 FR 34249, June 7, 2013; 78 FR 75450, Dec. 12, 2013; 87 FR 68031, Nov. 14, 2022]

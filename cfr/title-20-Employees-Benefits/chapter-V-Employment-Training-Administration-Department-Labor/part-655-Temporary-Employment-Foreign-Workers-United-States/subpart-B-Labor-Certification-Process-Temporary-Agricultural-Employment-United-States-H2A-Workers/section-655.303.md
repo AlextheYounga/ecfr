@@ -1,0 +1,9 @@
+##### § 655.303 Procedures for filing Applications for Temporary Employment Certification. #####
+
+(a) *Compliance with §§ 655.130 through 655.132.* Unless otherwise specified in §§ 655.300 through 655.304, the employer must satisfy the requirements for filing an *Application for Temporary Employment Certification* with the NPC designated by the OFLC Administrator as required under §§ 655.130 through 655.132.
+
+(b) *What to file.* An employer must file a completed *Application for Temporary Employment Certification.* The employer must identify each place of employment with as much geographic specificity as possible, including the names of each farm or ranch, their physical locations, and the estimated period of employment at each place of employment where work will be performed under the job order.
+
+(c) *Scope of applications.* The *Application for Temporary Employment Certification* and job order may cover multiple areas of intended employment in one or more contiguous States. An *Application for Temporary Employment Certification* and job order for opportunities involving commercial beekeeping may include one noncontiguous State at the beginning and end of the period of employment for the overwintering of bee colonies.
+
+(d) *Agricultural association filings.* An agricultural association filing as a joint employer may submit a single job order and master *Application for Temporary Employment Certification* on behalf of its employer-members located in more than two contiguous States. An agricultural association filing as a joint employer may file an *Application for Temporary Employment Certification* and job order for opportunities involving commercial beekeeping including one noncontiguous State at the beginning and end of the period of employment for the overwintering of bee colonies.

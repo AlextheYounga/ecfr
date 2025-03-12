@@ -1,7 +1,5 @@
 ##### § 1003.38 Appeals. #####
 
-Link to an amendment published at 87 FR 56258, Sept. 14, 2022.
-
 (a) Decisions of Immigration Judges may be appealed to the Board of Immigration Appeals as authorized by 8 CFR 3.1(b).
 
 (b) The Notice of Appeal from a Decision of an Immigration Judge (Form EOIR-26) shall be filed directly with the Board of Immigration Appeals within 30 calendar days after the stating of an immigration judge's oral decision or the mailing or electronic notification of an immigration judge's written decision. If the final date for filing falls on a Saturday, Sunday, or legal holiday, this appeal time shall be extended to the next business day. A Notice of Appeal (Form EOIR-26) may not be filed by any party who has waived appeal.
@@ -14,6 +12,22 @@ Link to an amendment published at 87 FR 56258, Sept. 14, 2022.
 
 (f) Briefs may be filed by both parties pursuant to 8 CFR 3.3(c).
 
-(g) In any proceeding before the Board wherein the respondent/applicant is represented, the attorney or representative shall file a notice of appearance on the appropriate form. Withdrawal or substitution of an attorney or representative may be permitted by the Board during proceedings only upon written motion submitted without fee.
+(g) In proceedings before the Board on behalf of a respondent, a practitioner must enter an appearance using Form EOIR-27 or Form EOIR-60.
 
-[52 FR 2936, Jan. 29, 1987. Redesignated at 57 FR 11571, Apr. 6, 1992, as amended at 60 FR 34089, June 30, 1995; 61 FR 18908, Apr. 29, 1996; 86 FR 70723, Dec. 13, 2021]
+(1) *Entering an appearance using Form EOIR-27.* In proceedings before the Board, in order to become the practitioner of record, which authorizes and requires the practitioner to appear before the Board on behalf of the respondent, file all documents on behalf of the respondent, and accept service of process of all documents filed in the proceedings, a practitioner must enter an appearance using Form EOIR-27.
+
+(i) *Filing Form EOIR-27.* The practitioner must file a copy of the Form EOIR-27 with the Board and serve a copy on DHS as required by 8 CFR 1003.32. The practitioner must file and serve a Form EOIR-27 even if the practitioner has previously filed a separate Notice of Entry of Appearance with DHS for appearances before DHS or a Form EOIR-28 with the immigration court, or has previously entered a limited appearance using a Form EOIR-60 in connection with document assistance under paragraph (g)(2) of this section.
+
+(ii) *Effect of filing Form EOIR-27.* A practitioner who enters an appearance using Form EOIR-27 is the practitioner of record and must appear before the Board on behalf of the respondent, file all documents on behalf of the respondent, and accept service of process of all documents filed in the proceedings, consistent with 8 CFR 1292.5. Filing a Form EOIR-27 provides the practitioner with access to the record of proceedings during the course of proceedings. A respondent shall be considered represented for the proceedings in which a Form EOIR-27 has been filed.
+
+(iii) *Withdrawal or substitution.* A practitioner who enters an appearance on behalf of a respondent before the Board by filing a Form EOIR-27 remains the practitioner of record unless the Board permits withdrawal or substitution during proceedings only upon written motion submitted without fee.
+
+(2) *Entering a limited appearance for document assistance using Form EOIR-60.* A practitioner who provides assistance to a pro se respondent with the drafting, completion, or filling in of blank spaces of a motion, brief, form, or other specific document or set of documents intended to be filed with the Board, regardless of whether such assistance is considered “practice” or “preparation” as defined in § 1001.1, must disclose such limited assistance to the Board using Form EOIR-60, unless pursuant to paragraph (g)(1) the practitioner has filed a Form EOIR-27 to become the practitioner of record.
+
+(i) *Filing Form EOIR-60.* A Form EOIR-60 must not be filed as a standalone document. The single Form EOIR-60 must be filed with the Board at the same time as the document or set of documents with which the practitioner assisted. Any subsequent filing of a document or set of documents with which a practitioner assisted must be accompanied by a new Form EOIR-60.
+
+(ii) *Effect of Filing Form EOIR-60.* A practitioner who enters a limited appearance using Form EOIR-60 is not the practitioner of record, is not required to appear before the Board, and is not required to submit a motion to withdraw or substitute. The submission of a Form EOIR-60 does not create additional ongoing obligations between the practitioner, the respondent, and EOIR. An appearance through Form EOIR-60 does not provide the practitioner with access to the record of proceedings. A respondent who received assistance pursuant to this paragraph is not represented, remains pro se, and is subject to service of process of all documents filed in the proceedings, consistent with 8 CFR 1292.5.
+
+(3) *Completing an appearance form, proof of qualification, disclosure requirements, and identification.* The practitioner must properly complete and sign any Form EOIR-27 or Form EOIR-60, as required by the form instructions. A practitioner's personal appearance or signature on the Form EOIR-27 or Form EOIR-60 constitutes a representation that the person is authorized and qualified to appear as a practitioner in accordance with 8 CFR 1292.1. Further proof that the practitioner meets the qualifications of a practitioner as defined in 8 CFR 1292.1 may be required. The completion of a Form EOIR-27 or Form EOIR-60 in connection with an application or form that requires disclosure of the preparer does not relieve a practitioner from complying with the particular disclosure requirements of the application or form. Notwithstanding the filing of a Form EOIR-27 or Form EOIR-60, the practitioner must identify themselves by name, accompanied by their signature, on any document filed or intended to be filed with the Board pursuant to an appearance under paragraph (g)(1) or (2) of this section.
+
+[52 FR 2936, Jan. 29, 1987. Redesignated at 57 FR 11571, Apr. 6, 1992, as amended at 60 FR 34089, June 30, 1995; 61 FR 18908, Apr. 29, 1996; 86 FR 70723, Dec. 13, 2021; 87 FR 56258, Sept. 14, 2022]

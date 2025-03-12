@@ -1,0 +1,3 @@
+##### § 655.205 Herding and range livestock job orders. #####
+
+An employer whose job opportunity has been determined to qualify for the procedures in §§ 655.200 through 655.235 is not required to comply with the job order filing timeframe requirements in § 655.121(a) and (b) or the job order review process in § 655.121(e) and (f). Rather, the employer must submit the job order along with a completed *Application for Temporary Employment Certification,* as required in § 655.215, to the designated NPC for the NPC's review.

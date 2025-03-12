@@ -1,0 +1,3 @@
+##### § 655.160 Determinations. #####
+
+Except as otherwise noted in this section, the CO will make a determination either to grant or deny the *Application for Temporary Employment Certification* not later than 30 calendar days before the first date of need identified in the *Application for Temporary Employment Certification.* An *Application for Temporary Employment Certification* that is modified under § 655.142 or that otherwise does not meet the requirements for certification in this subpart is not subject to the 30-day timeframe for certification.

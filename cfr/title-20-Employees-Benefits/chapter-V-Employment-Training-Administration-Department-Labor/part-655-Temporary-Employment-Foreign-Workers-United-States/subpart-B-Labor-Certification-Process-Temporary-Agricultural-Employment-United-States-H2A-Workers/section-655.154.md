@@ -1,0 +1,13 @@
+##### § 655.154 Additional positive recruitment. #####
+
+(a) *Where to conduct additional positive recruitment.* In addition to the CO's posting of the job opportunity on an electronic job registry in accordance with § 655.144, the employer must conduct positive recruitment as required by the OFLC Administrator's determination of traditional or expected labor supply States, which is published annually in accordance with paragraph (d) of this section.
+
+(b) *Additional requirements should be comparable to non-H-2A employers in the area.* The location(s) and method(s) of the positive recruitment required of the employer must be no less than the normal recruitment efforts of non-H-2A agricultural employers of comparable or smaller size in the area of intended employment, taking into consideration the kind and degree of recruitment efforts which the employer may make to obtain foreign workers.
+
+(c) *Nature of the additional positive recruitment.* The OFLC Administrator's labor supply State determination will identify areas of labor supply within a State, and the NOA issued under § 655.143 will describe the precise nature of the additional positive recruitment required of the employer, if any. The employer will not be required to conduct positive recruitment in more than three States for each area of intended employment listed on the employer's *Application for Temporary Employment Certification* and job order.
+
+(d) *Determination of labor supply States.* (1) The OFLC Administrator will make an annual determination with respect to each State whether there are other traditional or expected labor supply States and, within a traditional or expected labor supply State, areas in which there are a significant number of qualified U.S. workers who, if recruited, would be willing to make themselves available for work in that State. The OFLC Administrator will publish the determination annually on OFLC's website.
+
+(2) The determination will become effective on the date of publication on OFLC's website for employers who have not commenced positive recruitment under this subpart and will remain valid until the OFLC Administrator publishes a new determination.
+
+(3) The determination as to whether any State is a source of traditional or expected labor supply to another State will be based primarily upon information provided by the SWAs to the OFLC Administrator within 120 calendar days preceding the determination.

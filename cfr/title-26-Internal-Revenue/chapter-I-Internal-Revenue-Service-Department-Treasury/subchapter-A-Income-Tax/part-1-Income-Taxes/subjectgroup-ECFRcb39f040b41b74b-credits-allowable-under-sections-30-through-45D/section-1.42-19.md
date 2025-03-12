@@ -66,7 +66,7 @@
 
 (B) The vacated unit takes on the prior limitation, if any, of the tenant's new unit.
 
-(v) *Restoring compliance with average income requirements.* If one or more units lose low-income status or if there is a change in the imputed income limitation of some unit and if either event would cause a previously qualifying group of units to cease to be described in paragraph (b)(2)(ii) of this section, then the taxpayer may designate an imputed income limitation for a market rate unit or may reduce the existing imputed income limitations of one or more other units in the project in order to restore compliance with the average income requirement. The rule in this paragraph (d)(1)(v) may be applied to market-rate, vacant, or low-income units, but, in the case of occupied units, the current tenants must qualify under the new, lower imputed income limitation.
+(v) *Restoring compliance with average income requirements.* If one or more units lose low-income status or if there is a change in the imputed income limitation of some unit and if either event would cause a previously qualifying group of units to cease to be described in paragraph (b)(2)(ii) of this section, then the taxpayer may designate an imputed income limitation for a market-rate unit or may reduce the existing imputed income limitations of one or more other units in the project in order to restore compliance with the average income requirement. The rule in this paragraph (d)(1)(v) may be applied to market-rate, vacant, or low-income units, but, in the case of occupied units, the current tenants must qualify under the new, lower imputed income limitation.
 
 (2) [Reserved]
 
@@ -178,4 +178,4 @@ Table 3 to Paragraph (e)(4)(i)(A)
 
 (3) *Applicability of this section to taxable years beginning before January 1, 2023.* A taxpayer may choose to apply this section to a taxable year beginning after October 12, 2022, and before January 1, 2023, provided that the taxpayer chooses to apply § 1.42-15 to the same taxable year.
 
-[T.D. 9967, 87 FR 61501, Oct. 12, 2022]
+[T.D. 9967, 87 FR 61501, Oct. 12, 2022, as amended at 87 FR 68048, Nov. 14, 2022]

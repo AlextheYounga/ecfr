@@ -1,0 +1,3 @@
+##### § 296.43 Judicial review. #####
+
+As an alternative to arbitration, a claimant dissatisfied with the outcome of an Administrative Appeal may seek judicial review of the decision by bringing a civil lawsuit against FEMA in the United States District Court for the District of New Mexico. This lawsuit must be brought within 60 Days of the date that appears on the Administrative Appeal decision. Pursuant to section 104(i) of the Act, the court may only consider evidence in the Administrative Record. The court will uphold FEMA's decision if it is supported by substantial evidence on the record considered as a whole.

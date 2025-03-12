@@ -1,0 +1,3 @@
+##### § 501.8 Accuracy of information, statements, and data. #####
+
+Information, statements, and data submitted in compliance with 8 U.S.C. 1188 or this part are subject to 18 U.S.C. 1001, which provides, with regard to statements or entries generally, that whoever, in any matter within the jurisdiction of any department or agency of the United States, knowingly and willfully falsifies, conceals, or covers up a material fact by any trick, scheme, or device, or makes any false, fictitious, or fraudulent statements or representations, or makes or uses any false writing or document knowing the same to contain any false, fictitious, or fraudulent statement or entry, shall be fined not more than $10,000 or imprisoned not more than 5 years, or both.

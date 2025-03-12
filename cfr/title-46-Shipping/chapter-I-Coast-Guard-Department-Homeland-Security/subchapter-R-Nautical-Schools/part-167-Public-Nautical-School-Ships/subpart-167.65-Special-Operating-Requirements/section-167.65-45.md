@@ -6,7 +6,7 @@
 
 (c) Weekly Notices to Mariners (Worldwide coverage) are prepared jointly by the National Geospatial-Intelligence Agency, National Ocean Service, and the U.S. Coast Guard. They include changes in aids to navigation and other important navigation safety information in assembled form for U.S. waters. Foreign marine information is also included in these notices. These notices are available without charge from the National Geospatial-Intelligence Agency Web site found at *http://msi.nga.mil/NGAPortal/MSI.portal.*
 
-(d) As appropriate for the intended voyage, all nautical school ships must carry adequate and up-to-date -
+(d) As appropriate for the intended voyage, all nautical school ships must carry adequate and up-to-date—
 
 (1) Charts;
 
@@ -22,7 +22,7 @@
 
 (7) Current tables; and
 
-(8) All other nautical publications necessary.1/\>
+(8) All other nautical publications necessary.1
 
 1 For United States vessels in one or on the navigable waters of the United States, see 33 CFR 164.33.
 

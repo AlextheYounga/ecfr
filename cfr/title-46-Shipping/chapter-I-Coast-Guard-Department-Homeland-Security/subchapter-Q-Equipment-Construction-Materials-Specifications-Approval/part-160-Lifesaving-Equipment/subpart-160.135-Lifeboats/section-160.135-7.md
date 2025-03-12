@@ -1,5 +1,7 @@
 ##### § 160.135-7 Design, construction, and performance of lifeboats. #####
 
+Link to an amendment published at 87 FR 68305, Nov. 14, 2022.
+
 (a) To seek Coast Guard approval of a lifeboat, a manufacturer must comply with, and each lifeboat must meet, the requirements of the following -
 
 (1) IMO LSA Code, Chapter IV (incorporated by reference, see § 160.135-5 of this subpart) applicable to the type of lifeboat;

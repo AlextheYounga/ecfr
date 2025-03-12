@@ -32,7 +32,7 @@
 
 (3) The absolute value of Xd must be smaller than u based on the following analysis of paired observations:
 
-(i) Calculate the value of X/\>d and Sd. This is the mean and standard deviation, respectively, of the differences between the known sample concentrations and the values obtained by the facility with their equipment. The value of X/\>d for the 12 measurements described in paragraph (e) of this section, or for 11 measurements if paragraph (f)(2) of this section applies, must be within the range 1 ≤ X/\>d ≤ + 1.
+(i) Calculate the value of Xd and Sd. This is the mean and standard deviation, respectively, of the differences between the known sample concentrations and the values obtained by the facility with their equipment. The value of Xd for the 12 measurements described in paragraph (e) of this section, or for 11 measurements if paragraph (f)(2) of this section applies, must be within the range 1 ≤ Xd ≤ + 1.
 
 (ii) Determine the appropriate critical value of the Student's t-distribution with (n-1) degrees of freedom for a confidence level of α = 0.01. If all 12 samples meet the criteria of paragraph (f)(1) of this section then (n-1) = 11 and the critical value,
 
@@ -42,9 +42,9 @@
 
 ![](/graphics/er16ja09.020.gif)where n = 12 if all samples meet the criteria of paragraph (f)(1) and n = 11 if paragraph (f)(2) applies.
 
-(iv) Compare the absolute value of X/\>d to the value of u. If |X/\>d| \<u, then the facility meets the criteria.
+(iv) Compare the absolute value of Xd to the value of u. If |Xd| \<u, then the facility meets the criteria.
 
-(g) To obtain authorization to conduct approval tests -
+(g) To obtain authorization to conduct approval tests—
 
 (1) A facility must have the management organization, equipment for conducting sample analysis, and the materials necessary to perform the tests;
 

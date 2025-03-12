@@ -1,5 +1,7 @@
 ##### § 199.280 Survival craft embarkation and launching arrangements. #####
 
+Link to an amendment published at 87 FR 68310, Nov. 14, 2022.
+
 (a) Each lifeboat must be arranged to be boarded and launched directly from the stowed position.
 
 (b) Each davit-launched liferaft must be arranged to be boarded and launched from a position immediately adjacent to the stowed position or from a position where, under § 199.130(c)(4), the liferaft is transferred before launching.

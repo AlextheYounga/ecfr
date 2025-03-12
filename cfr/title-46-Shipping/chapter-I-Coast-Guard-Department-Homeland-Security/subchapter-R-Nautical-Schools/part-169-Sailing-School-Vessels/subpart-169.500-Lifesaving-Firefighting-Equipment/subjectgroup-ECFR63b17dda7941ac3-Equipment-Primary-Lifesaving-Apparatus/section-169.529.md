@@ -1,5 +1,7 @@
 ##### § 169.529 Description of lifeboat equipment. #####
 
+Link to an amendment published at 87 FR 68306, Nov. 14, 2022.
+
 (a) *Bailer.* The bailer must have a lanyard attached and must be of sufficient size and suitable for bailing.
 
 (b) *Bilge pump.* Bilge pumps must be approved under subpart 160.044 of this chapter. They must be of the size given in Table 169.529(b) depending upon the capacity of the lifeboat as determined by the six-tenths rule as described in § 160.035-9(b) of this chapter.

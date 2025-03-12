@@ -1,5 +1,7 @@
 ##### § 199.30 Definitions. #####
 
+Link to an amendment published at 87 FR 68308, Nov. 14, 2022.
+
 The following definitions apply to this part:
 
 *Accommodation* means a cabin, or other covered or enclosed place, intended to be occupied by persons. Each place in which passengers and special personnel is carried is considered an accommodation, whether or not it is covered or enclosed. Accommodations include, but are not limited to halls, dining rooms, mess rooms, lounges, corridors, lavatories, cabins, offices, hospitals, cinemas, game and hobby rooms, and other similar places open to persons on board.
@@ -58,7 +60,7 @@ The following definitions apply to this part:
 
 *Major character* means any repair, alteration or modification to a vessel that is a major conversion as decided by the Commandant (CG-CVC).
 
-*Major conversion* means a conversion of a vessel that -
+*Major conversion* means a conversion of a vessel that—
 
 (a) Substantially changes the dimensions or carrying capacity of the vessel;
 
@@ -84,15 +86,15 @@ The following definitions apply to this part:
 
 *Officer in Charge, Marine Inspection (OCMI),* means a Coast Guard Officer responsible for marine inspection functions in a Marine Inspection Zone. Marine Inspection Zones are described in 33 CFR part 2.
 
-*Passenger* means -
+*Passenger* means—
 
-(a) On an international voyage, every person other than -
+(a) On an international voyage, every person other than—
 
 (1) The master and the members of the crew or other persons employed or engaged in any capacity on board a vessel on the business of that vessel; and
 
 (2) A child under 1 year of age.
 
-(b) On other than an international voyage, an individual carried on the vessel, except -
+(b) On other than an international voyage, an individual carried on the vessel, except—
 
 (1) The owner or an individual representative of the owner or, in the case of a vessel under charter, an individual charterer or individual representative of the charterer;
 
@@ -102,11 +104,11 @@ The following definitions apply to this part:
 
 *Passenger for hire* means a passenger for whom consideration is contributed as a condition of carriage on the vessel, whether directly or indirectly flowing to the owner, charterer, operator, agent, or any other person having an interest in the vessel.
 
-*Passenger vessel* means -
+*Passenger vessel* means—
 
 (1) On an international voyage, a vessel of at least 100 tons gross tonnage carrying more than 12 passengers; and
 
-(2) On other than an international voyage, a vessel of at least 100 tons gross tonnage -
+(2) On other than an international voyage, a vessel of at least 100 tons gross tonnage—
 
 (i) Carrying more than 12 passengers, including at least one passenger-for-hire; or
 
@@ -114,7 +116,7 @@ The following definitions apply to this part:
 
 (iii) That is a submersible vessel carrying at least one passenger-for-hire.
 
-*Public vessel* means a vessel that -
+*Public vessel* means a vessel that—
 
 (a) Is owned, or demise chartered, and operated by the U.S. Government or a government of a foreign country including a vessel operated by the Coast Guard or Saint Lawrence Seaway Development Corporation, but not a vessel owned or operated by the Department of Transportation or any corporation organized or controlled by the Department; and
 
@@ -130,7 +132,7 @@ The following definitions apply to this part:
 
 *Seagoing condition* means the operating condition of the vessel with the personnel, equipment, fluids, and ballast necessary for safe operation on the waters where the vessel operates.
 
-*Similar stage of construction* means the stage at which -
+*Similar stage of construction* means the stage at which—
 
 (a) Construction identifiable with a specific vessel begins; and
 
@@ -138,7 +140,7 @@ The following definitions apply to this part:
 
 *Short international voyage* is an international voyage in the course of which a vessel is not more than 200 miles from a port or place in which the passengers and crew could be placed in safety. Neither the distance between the last port of call in the country in which the voyage begins and the final port of destination, nor the return voyage, may exceed 600 miles. The final port of destination is the last port of call in the scheduled voyage at which the vessel commences its return voyage to the country in which the voyage began.
 
-*Special personnel* means all persons who are not passengers or members of the crew and who are carried on board a special purpose vessel in connection with the special purpose of that vessel or because of special work being carried out aboard that vessel. Special personnel include -
+*Special personnel* means all persons who are not passengers or members of the crew and who are carried on board a special purpose vessel in connection with the special purpose of that vessel or because of special work being carried out aboard that vessel. Special personnel include—
 
 (a) On oceanographic research vessels, scientific personnel; and
 
@@ -148,7 +150,7 @@ The following definitions apply to this part:
 
 *Survival craft* means a craft capable of sustaining the lives of persons in distress from the time of abandoning the vessel on which the persons were originally carried. The term includes lifeboats, liferafts, buoyant apparatus, and lifefloats, but does not include rescue boats.
 
-*Tank vessel* means a vessel that is constructed or adapted to carry, or that carries, oil or hazardous material in bulk as cargo or cargo residue, and that -
+*Tank vessel* means a vessel that is constructed or adapted to carry, or that carries, oil or hazardous material in bulk as cargo or cargo residue, and that—
 
 (a) Is a vessel of the United States;
 

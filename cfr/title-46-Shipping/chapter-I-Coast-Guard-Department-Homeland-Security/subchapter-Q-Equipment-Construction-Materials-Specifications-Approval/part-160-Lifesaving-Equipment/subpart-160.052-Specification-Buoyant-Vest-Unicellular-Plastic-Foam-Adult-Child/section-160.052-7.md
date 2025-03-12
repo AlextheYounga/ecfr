@@ -1,8 +1,8 @@
-##### § 160.052-7 Inspections and tests - standard and nonstandard vests.1/\> #####
+##### § 160.052-7 Inspections and tests—standard and nonstandard vests.1 #####
 
 1 The manufacturer of a personal flotation device must meet 33 CFR 181.701 through 33 CFR 181.705 which require an instruction pamphlet for each device that is sold or offered for sale for use on recreational boats.
 
-(a) *General.* Manufacturers of listed and labeled buoyant vests shall -
+(a) *General.* Manufacturers of listed and labeled buoyant vests shall—
 
 (1) Maintain quality control of the materials used, the manufacturing methods and workmanship, and the finished product to meet the requirements of this subpart by conducting sufficient inspections and tests of representative samples and components produced;
 
@@ -18,8 +18,6 @@
 
 (4) The manufacturer shall select samples in accordance with the requirements in Table 160.052-7(b)(4) from each lot of buoyant vests to be tested for buoyancy in accordance with paragraph (e) of this section.
 
-Table 160.052-7(b)(4) - Sample for Buoyant Vests
-
 |  Lot size   |Number of vests in sample|
 |-------------|-------------------------|
 |100 and under|            1            |
@@ -27,7 +25,7 @@ Table 160.052-7(b)(4) - Sample for Buoyant Vests
 | 201 to 300  |            3            |
 | 301 to 500  |            4            |
 
-(5) The manufacturer shall test -
+(5) The manufacturer shall test—
 
 (i) At least one vest from each lot for buoyancy in accordance with procedures contained in paragraph (e) of this section; and
 
@@ -39,13 +37,13 @@ Table 160.052-7(b)(4) - Sample for Buoyant Vests
 
 (c) *Additional compliance tests.* An inspector from the recognized laboratory or Coast Guard may conduct an examination, test and inspection of a buoyant device that is obtained from the manufacturer or through commercial channels to determine the suitability of the device for listing and labeling or to determine its conformance to applicable requirements.
 
-(d) *Test facilities.* The manufacturer shall admit the laboratory inspector and the Coast Guard inspector to any part of the premises at the place of manufacture of a listed and labeled device to -
+(d) *Test facilities.* The manufacturer shall admit the laboratory inspector and the Coast Guard inspector to any part of the premises at the place of manufacture of a listed and labeled device to—
 
 (1) Examine, inspect, or test a sample of a part or a material that is included in the construction of the device; and
 
 (2) Conduct any necessary examination, inspection, or test in a suitable place and with appropriate apparatus provided by the manufacturer.
 
-(e) *Buoyancy* - (1) *Buoyancy test method.* Remove the buoyant inserts from the vests. Securely attach the spring scale in a position directly over the test tank. Suspend the weighted wire basket from the scale in such a manner that the basket can be weighed while it is completely under water. In order to measure the actual buoyancy provided by the inserts, the underwater weight of the empty basket should exceed the buoyancy of the inserts. To obtain the buoyancy of the inserts, proceed as follows:
+(e) *Buoyancy*—(1) *Buoyancy test method.* Remove the buoyant inserts from the vests. Securely attach the spring scale in a position directly over the test tank. Suspend the weighted wire basket from the scale in such a manner that the basket can be weighed while it is completely under water. In order to measure the actual buoyancy provided by the inserts, the underwater weight of the empty basket should exceed the buoyancy of the inserts. To obtain the buoyancy of the inserts, proceed as follows:
 
 (i) Weigh the empty wire basket under water.
 

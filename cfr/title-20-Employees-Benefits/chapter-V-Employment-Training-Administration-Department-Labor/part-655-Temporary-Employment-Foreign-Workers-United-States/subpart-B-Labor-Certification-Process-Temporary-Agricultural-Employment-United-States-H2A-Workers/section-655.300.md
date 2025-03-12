@@ -1,0 +1,5 @@
+##### § 655.300 Scope and purpose. #####
+
+(a) *Purpose.* The purpose of this section and §§ 655.301 through 655.304 is to establish certain procedures for employers who apply to the DOL to obtain labor certifications to hire temporary agricultural foreign workers to perform animal shearing, commercial beekeeping, and custom combining, as defined in this subpart. Unless otherwise specified in this section and §§ 655.301 through 655.304, employers whose job opportunities meet the qualifying criteria under this section and §§ 655.301 through 655.304 must fully comply with all of the requirements of §§ 655.100 through 655.185; part 653, subparts B and F, of this chapter; and part 654 of this chapter.
+
+(b) *Jobs subject to this section and §§ 655.301 through 655.304.* The procedures in this section and §§ 655.301 through 655.304 apply to job opportunities for animal shearing, commercial beekeeping, and custom combining, as defined under § 655.301, where workers are required to perform agricultural work on a scheduled itinerary covering multiple areas of intended employment.

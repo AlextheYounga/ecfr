@@ -1,5 +1,7 @@
 ##### § 537.1 Applications for approval. #####
 
+Link to an amendment published at 87 FR 68048, Nov. 14, 2022.
+
 (a) For each management contract for class II gaming, the Chairman shall conduct or cause to be conducted a background investigation of:
 
 (1) Each person with management responsibility for a management contract;

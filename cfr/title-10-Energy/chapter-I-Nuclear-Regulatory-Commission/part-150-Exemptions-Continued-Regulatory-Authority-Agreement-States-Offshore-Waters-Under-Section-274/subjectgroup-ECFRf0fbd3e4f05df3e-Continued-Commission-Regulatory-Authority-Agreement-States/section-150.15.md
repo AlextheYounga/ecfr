@@ -20,10 +20,12 @@
 
 (ii) Spent fuel and high-level radioactive waste in a monitored retrievable storage installation (MRS) licensed under part 72 of this chapter, or
 
-(iii) Greater than Class C waste, as defined in part 72 of this chapter, in an ISFSI or an MRS licensed under part 72 of this chapter; the GTCC waste must originate in, or be used by, a facility licensed under part 50 of this chapter.
+(iii) Greater than Class C waste, as defined in part 72 of this chapter, in an ISFSI or an MRS licensed under part 72 of this chapter; the GTCC waste must originate in, or be used by, a facility licensed under part 50 or 52 of this chapter.
 
-(8) Greater than Class C waste, as defined in part 72 of this chapter, that originates in, or is used by, a facility licensed under part 50 of this chapter and is licensed under part 30 and/or part 70 of this chapter.
+(8) Greater than Class C waste, as defined in part 72 of this chapter, that originates in, or is used by, a facility licensed under part 50 or part 52 of this chapter and is licensed under part 30 and/or part 70 of this chapter.
+
+(9) The requirements for the protection of Safeguards information in § 73.21 of this chapter and the requirements in § 73.22 or § 73.23 of this chapter, as applicable.
 
 (b) Notwithstanding any exemptions provided in this part, the Commission may from time to time by rule, regulation, or order, require that the manufacturer, processor, or producer of any equipment, device, commodity, or other product containing source, byproduct, or special nuclear material shall not transfer possession or control of such product except pursuant to a license or an exemption from licensing issued by the Commission.
 
-[27 FR 1352, Feb. 14, 1962, as amended at 34 FR 7369, May 7, 1969; 53 FR 31683, Aug. 19, 1988; 66 FR 51843, Oct. 11, 2001; 73 FR 63582, Oct. 24, 2008; 79 FR 58672, Sept. 30, 2014]
+[27 FR 1352, Feb. 14, 1962, as amended at 34 FR 7369, May 7, 1969; 53 FR 31683, Aug. 19, 1988; 66 FR 51843, Oct. 11, 2001; 73 FR 63582, Oct. 24, 2008; 79 FR 58672, Sept. 30, 2014; 87 FR 68032, Nov. 14, 2022]

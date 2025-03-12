@@ -1,0 +1,7 @@
+##### § 501.6 Investigation authority of the Secretary. #####
+
+(a) *General.* The Secretary, through WHD, may investigate to determine compliance with obligations under 8 U.S.C. 1188, 20 CFR part 655, subpart B, or this part, either pursuant to a complaint or otherwise, as may be appropriate. In connection with such an investigation, WHD may enter and inspect any premises, land, property, housing, vehicles, and records (and make transcriptions thereof), question any person, and gather any information as may be appropriate.
+
+(b) *Confidential investigation.* WHD shall conduct investigations in a manner that protects the confidentiality of any complainant or other person who provides information to the Secretary in good faith.
+
+(c) *Report of violations.* Any person may report a violation of the obligations imposed by 8 U.S.C. 1188, 20 CFR part 655, subpart B, or this part to the Secretary by advising any local office of the SWA, ETA, WHD, or any other authorized representative of the Secretary. The office or person receiving such a report shall refer it to the appropriate office of WHD for the geographic area in which the reported violation is alleged to have occurred.

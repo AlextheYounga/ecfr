@@ -1,7 +1,5 @@
 ##### § 653.501 Requirements for processing clearance orders. #####
 
-Link to an amendment published at 87 FR 61791, Oct. 12, 2022.
-
 (a) *Assessment of need.* No ES office or SWA official may place a job order seeking workers to perform farmwork into intrastate or interstate clearance unless:
 
 (1) The ES office and employer have attempted and have not been able to obtain sufficient workers within the local labor market area; or
@@ -44,7 +42,7 @@ Link to an amendment published at 87 FR 61791, Oct. 12, 2022.
 
 (2) SWAs must ensure:
 
-(i) The wages and working conditions offered are not less than the prevailing wages and working conditions among similarly employed farmworkers in the area of intended employment or the applicable Federal or State minimum wage, whichever is higher. If the wages offered are expressed as piece rates or as base rates and bonuses, the employer must make the method of calculating the wage and supporting materials available to ES staff who must check if the employer's calculation of the estimated hourly wage rate is reasonably accurate and is not less than the prevailing wage rate or applicable Federal or State minimum wage, whichever is higher; and
+(i) The wages offered are not less than the applicable prevailing wages, as defined in § 655.103(b) of this chapter, or the applicable Federal or State minimum wage, whichever is higher. The working conditions offered are not less than the prevailing working conditions among similarly employed farmworkers in the area of intended employment. If the wages offered are expressed as piece rates or as base rates and bonuses, the employer must make the method of calculating the wage and supporting materials available to ES staff who must check if the employer's calculation of the estimated hourly wage rate is reasonably accurate and is not less than the prevailing wage rate or applicable Federal or State minimum wage, whichever is higher; and
 
 (ii) The employer has agreed to provide or pay for the transportation of the workers and their families at or before the end of the period of employment specified in the job order on at least the same terms as transportation is commonly provided by employers in the area of intended employment to farmworkers and their families recruited from the same area of supply. Under no circumstances may the payment or provision of transportation occur later than the departure time needed to return home to begin the school year, in the case of any worker with children 18 years old or younger, or be conditioned on the farmworker performing work after the period of employment specified in the job order.
 
@@ -102,4 +100,4 @@ Link to an amendment published at 87 FR 61791, Oct. 12, 2022.
 
 (12) If the labor supply SWA accepts a clearance order, the SWA must actively recruit workers for referral. In the event a potential labor supply SWA rejects a clearance order, the reasons for rejection must be documented and submitted to the Regional Administrator having jurisdiction over the SWA. The Regional Administrator will examine the reasons for rejection, and, if the Regional Administrator agrees, will inform the Regional Administrator with jurisdiction over the order-holding SWA of the rejection and the reasons. If the Regional Administrator who receives the notification of rejection does not concur with the reasons for rejection, that Regional Administrator will inform the National Monitor Advocate, who, in consultation with the appropriate ETA higher authority, will make a final determination on the acceptance or rejection of the order.
 
-[81 FR 56341, Aug. 19, 2016, as amended at 85 FR 628, Jan. 6, 2020]
+[81 FR 56341, Aug. 19, 2016, as amended at 85 FR 628, Jan. 6, 2020; 87 FR 61791, Oct. 12, 2022]

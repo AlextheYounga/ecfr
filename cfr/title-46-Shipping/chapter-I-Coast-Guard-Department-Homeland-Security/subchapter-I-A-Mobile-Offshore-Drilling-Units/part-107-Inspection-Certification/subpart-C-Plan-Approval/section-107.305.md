@@ -8,7 +8,7 @@ General
 
 (b) General arrangement plan of decks, holds, inner bottoms, etc. including inboard and outboard profile.
 
-Hull Structure1/\>
+Hull Structure1
 
 1 The asterisk (\*) indicates items that are approved by the American Bureau of Shipping for vessels classed by it. Items approved by the American Bureau of Shipping are generally accepted as satisfactory unless the law or Coast Guard regulations contain requirements that are not covered by the American Bureau of Shipping.
 
@@ -82,7 +82,7 @@ Personnel Accommodations
 
 (gg) Arrangement plans showing each accommodation space, ventilation, and means of escape.
 
-Construction Portfolio2/\>
+Construction Portfolio2
 
 2 This portfolio may be included in the operating manual required in § 109.121.
 

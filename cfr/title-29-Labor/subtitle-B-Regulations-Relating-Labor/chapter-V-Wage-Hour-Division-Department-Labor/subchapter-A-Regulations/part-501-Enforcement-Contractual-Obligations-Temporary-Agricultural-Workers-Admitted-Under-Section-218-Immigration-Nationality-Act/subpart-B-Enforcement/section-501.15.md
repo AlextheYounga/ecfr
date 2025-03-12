@@ -1,0 +1,3 @@
+##### § 501.15 Enforcement. #####
+
+The investigation, inspection, and law enforcement functions to carry out the provisions of 8 U.S.C. 1188, 20 CFR part 655, subpart B, or this part, as provided in this part for enforcement by WHD, pertain to the employment of any H-2A worker, any worker in corresponding employment, or any U.S. worker improperly rejected for employment or improperly laid off or displaced. Such enforcement includes the work contract provisions as defined in § 501.3(a).

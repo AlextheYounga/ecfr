@@ -1,7 +1,5 @@
 ##### § 1001.1 Definitions. #####
 
-Link to an amendment published at 87 FR 56257, Sept. 14, 2022.
-
 As used in this chapter:
 
 (a) The terms defined in section 101 of the Immigration and Nationality Act (66 Stat. 163) shall have the meanings ascribed to them in that section and as supplemented, explained, and further defined in this chapter.
@@ -20,11 +18,11 @@ As used in this chapter:
 
 (h) The term *day* when computing the period of time for taking any action provided in this chapter including the taking of an appeal, shall include Saturdays, Sundays, and legal holidays, except that when the last day of the period so computed falls on a Saturday, Sunday or a legal holiday, the period shall run until the end of the next day which is not a Saturday, Sunday, nor a legal holiday.
 
-(i) The term *practice* means the act or acts of any person appearing in any case, either in person or through the preparation or filing of any brief or other document, paper, application, or petition on behalf of another person or client before or with DHS, or any immigration judge, or the Board.
+(i) The term *practice* means exercising professional judgment to provide legal advice or legal services related to any matter before EOIR. Practice includes, but is not limited to, determining available forms of relief from removal or protection; providing advice regarding legal strategies; drafting or filing any document on behalf of another person appearing before EOIR based on an analysis of applicable facts and law; or appearing on behalf of another person in any matter before EOIR.
 
 (j) The term *representative* refers to a person who is entitled to represent others as provided in §§ 1292.1(a) (2), (3), (4), (5), (6), and 1292.1(b) of this chapter.
 
-(k) The term *preparation,* constituting practice, means the study of the facts of a case and the applicable laws, coupled with the giving of advice and auxiliary activities, including the incidental preparation of papers, but does not include the lawful functions of a notary public or service consisting solely of assistance in the completion of blank spaces on printed Service forms by one whose remuneration, if any, is nominal and who does not hold himself out as qualified in legal matters or in immigration and naturalization procedure.
+(k) The term *preparation* means the act or acts consisting solely of filling in blank spaces on printed forms with information provided by the applicant or petitioner that are to be filed with or submitted to EOIR, where such acts do not include the exercise of professional judgment to provide legal advice or legal services. When this act is performed by someone other than a practitioner, the fee for filling in blank spaces on printed forms, if any, must be nominal, and the individual may not hold himself or herself out as qualified in legal matters or in immigration and naturalization procedure.
 
 (l) The term *immigration judge* means an attorney whom the Attorney General appoints as an administrative judge within the Executive Office for Immigration Review, qualified to conduct specified classes of proceedings, including a hearing under section 240 of the Act. An immigration judge shall be subject to such supervision and shall perform such duties as the Attorney General shall prescribe, but shall not be employed by the Immigration and Naturalization Service.
 
@@ -59,5 +57,7 @@ As used in this chapter:
 (dd) The term *filing* means the actual receipt of a document by the appropriate immigration court or the Board of Immigration Appeals. An electronic filing that is accepted by the Board or an immigration court will be deemed filed on the date it was submitted. A paper filing that is accepted by the Board or an immigration court will be deemed filed on the date it was received by the Board or the immigration court. A filing that is rejected by the Board or the immigration court as an improper filing will not be deemed filed on the date it was submitted or received.
 
 (ee) The term *service* means physically presenting, mailing, or electronically providing a document to the appropriate party or parties; except that an Order to Show Cause or Notice of Deportation Hearing shall be served in person to the alien, or by certified mail to the alien or the alien's attorney, and a Notice to Appear shall be served to the alien in person, or if personal service is not practicable, shall be served by regular mail to the alien or the alien's attorney of record.
+
+(ff) The term *practitioner* means an attorney as defined in paragraph (f) of this section who does not represent the Federal Government, or a representative as defined in paragraph (j) of this section.
 
 [23 FR 9115, Nov. 26, 1958]Editorial Note:For Federal Register citations affecting § 1001.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,5 +1,7 @@
 ##### § 50.75 Reporting and recordkeeping for decommissioning planning. #####
 
+Link to an amendment published at 87 FR 68031, Nov. 14, 2022.
+
 (a) This section establishes requirements for indicating to NRC how a licensee will provide reasonable assurance that funds will be available for the decommissioning process. For power reactor licensees (except a holder of a manufacturing license under part 52 of this chapter), reasonable assurance consists of a series of steps as provided in paragraphs (b), (c), (e), and (f) of this section. Funding for the decommissioning of power reactors may also be subject to the regulation of Federal or State Government agencies (e.g., Federal Energy Regulatory Commission (FERC) and State Public Utility Commissions) that have jurisdiction over rate regulation. The requirements of this section, in particular paragraph (c) of this section, are in addition to, and not substitution for, other requirements, and are not intended to be used by themselves or by other agencies to establish rates.
 
 (b) Each power reactor applicant for or holder of an operating license, and each applicant for a combined license under subpart C of 10 CFR part 52 for a production or utilization facility of the type and power level specified in paragraph (c) of this section shall submit a decommissioning report, as required by § 50.33(k).

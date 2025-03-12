@@ -2,19 +2,19 @@
 
 A unit is issued a Certificate of Inspection under § 107.211 or § 107.215(c) if the inspector finds the following:
 
-(a) The unit and its equipment comply with -
+(a) The unit and its equipment comply with—
 
 (1) Part 108 of this subchapter;
 
-(2) Subchapter J of this chapter, Electrical Engineering;1/\>
+(2) Subchapter J of this chapter, Electrical Engineering;1
 
 1 Requirements for industrial systems and components are in Subpart 111.94 of this chapter.
 
-(3) Subchapter F of this chapter, Marine Engineering;2/\>
+(3) Subchapter F of this chapter, Marine Engineering;2
 
 2 Requirements for industrial systems and components are in Subpart 58.60 of this chapter.
 
-(4) Subchapter E of this chapter, Load Lines;3/\>
+(4) Subchapter E of this chapter, Load Lines;3
 
 3 Requirements for load lines are not applicable to bottom supported units when they are being supported by, or being lowered to or raised from the seabed.
 
@@ -22,7 +22,7 @@ A unit is issued a Certificate of Inspection under § 107.211 or § 107.215(c) i
 
 (6) The vessel design and equipment requirements of the oil pollution regulations (33 CFR Part 155, Subpart B);
 
-(7) The Rules of the Road requirements for the waters in which the unit navigates, contained in -
+(7) The Rules of the Road requirements for the waters in which the unit navigates, contained in—
 
 (i) 33 U.S.C. Chapters 3, 4, 5, or 21; and
 
@@ -78,7 +78,7 @@ Miscellaneous
 
 (u) Each record in Subpart D of Part 109 is maintained as prescribed.
 
-(v) Tests and inspections of the lifesaving equipment shall be carried out during the initial inspection for certification, and whenever any new item of lifesaving equipment is installed on the unit. The tests and inspections shall determine that the installation of each item of lifesaving equipment is consistent with each condition of its approval, as listed on its Coast Guard Certificate of Approval. The tests and inspections shall also demonstrate, as applicable, -
+(v) Tests and inspections of the lifesaving equipment shall be carried out during the initial inspection for certification, and whenever any new item of lifesaving equipment is installed on the unit. The tests and inspections shall determine that the installation of each item of lifesaving equipment is consistent with each condition of its approval, as listed on its Coast Guard Certificate of Approval. The tests and inspections shall also demonstrate, as applicable,—
 
 (1) The proper condition and operation of the survival craft and rescue boat launching appliances at loads ranging from light load to 10 percent overload;
 
