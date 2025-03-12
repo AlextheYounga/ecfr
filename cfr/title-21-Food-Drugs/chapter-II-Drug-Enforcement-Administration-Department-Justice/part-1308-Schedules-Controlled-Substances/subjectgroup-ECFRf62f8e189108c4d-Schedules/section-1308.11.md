@@ -27,77 +27,78 @@
 |                   (19) beta-Methyl fentanyl (N-phenyl-N-(1-(2-phenylpropyl)piperidin-4-yl)propionamide; also known as β-methyl fentanyl)                    |9856|
 |      (20) beta′-Phenyl fentanyl (N-(1-phenethylpiperidin-4-yl)-N,3-diphenylpropanamide; also known as β′-phenyl fentanyl; 3-phenylpropanoyl fentanyl)       |9842|
 |                                                                      (21) Betaprodine                                                                       |9611|
-|                                          (22) Butyryl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenylbutyramide)                                           |9822|
-|                                                                      (23) Clonitazene                                                                       |9612|
-|                                      (24) Crotonyl fentanyl ((E)-N-(1-phenethylpiperidin-4-yl)-N-phenylbut-2-enamide)                                       |9844|
-|                                  (25) Cyclopentyl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenylcyclopentanecarboxamide)                                  |9847|
-|                                  (26) Cyclopropyl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenylcyclopropanecarboxamide)                                  |9845|
-|                                                                     (27) Dextromoramide                                                                     |9613|
-|                                                                      (28) Diampromide                                                                       |9615|
-|                                                                   (29) Diethylthiambutene                                                                   |9616|
-|                                                                       (30) Difenoxin                                                                        |9168|
-|                                                                      (31) Dimenoxadol                                                                       |9617|
-|                                                                     (32) Dimepheptanol                                                                      |9618|
-|                                                                  (33) Dimethylthiambutene                                                                   |9619|
-|                                                                  (34) Dioxaphetyl butyrate                                                                  |9621|
-|                                                                       (35) Dipipanone                                                                       |9622|
-|                                                                 (36) Ethylmethylthiambutene                                                                 |9623|
-|                                                                      (37) Etonitazene                                                                       |9624|
-|                                                                      (38) Etoxeridine                                                                       |9625|
-|                                        (39) Fentanyl carbamate (ethyl (1-phenethylpiperidin-4-yl)(phenyl)carbamate)                                         |9851|
-|       (40) 4-Fluoroisobutyryl fentanyl (N-(4-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)isobutyramide; also known as para-fluoroisobutyryl fentanyl)        |9824|
-|   (41) 2′-Fluoro ortho-fluorofentanyl (N-(1-(2-fluorophenethyl)piperidin-4-yl)-N-(2-fluorophenyl)propionamide; also known as 2′-fluoro 2-fluorofentanyl)    |9855|
-|                                      (42) Furanyl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenylfuran-2-carboxamide)                                      |9834|
-|                                                                      (43) Furethidine                                                                       |9626|
-|                                                                    (44) Hydroxypethidine                                                                    |9627|
-|                                       (45) Isobutyryl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenylisobutyramide)                                        |9827|
-|                            (46) Isotonitazene (N,N-diethyl-2-(2-(4-isopropoxybenzyl)-5-nitro-1H-benzimidazol-1-yl)ethan-1-amine)                            |9614|
-|                                                                      (47) Ketobemidone                                                                      |9628|
-|                                                                      (48) Levomoramide                                                                      |9629|
-|                                                                  (49) Levophenacylmorphan                                                                   |9631|
-|                                   (50) Methoxyacetyl fentanyl (2-methoxy-N-(1-phenethylpiperidin-4-yl)-N-phenylacetamide)                                   |9825|
-|                                 (51) 4′-Methyl acetyl fentanyl (N-(1-(4-methylphenethyl)piperidin-4-yl)-N-phenylacetamide)                                  |9819|
-|                                   (52) 3-Methylfentanyl (N-[3-methyl-1-(2-phenylethyl)-4-piperidyl]-N-phenylpropanamide)                                    |9813|
-|                                (53) 3-Methylthiofentanyl (N-[3-methyl-1-(2-thienylethyl)-4-piperidinyl]-N-phenylpropanamide)                                |9833|
-|                                                                      (54) Morpheridine                                                                      |9632|
-|                                                    (55) MPPP (1-methyl-4-phenyl-4-propionoxypiperidine)                                                     |9661|
-|                                                  (56) MT-45 (1-cyclohexyl-4-(1,2-diphenylethyl)piperazine)                                                  |9560|
-|                                                                     (57) Noracymethadol                                                                     |9633|
-|                                                                     (58) Norlevorphanol                                                                     |9634|
-|                                                                      (59) Normethadone                                                                      |9635|
-|                                                                      (60) Norpipanone                                                                       |9636|
-|                                    (61) Ocfentanil (N-(2-fluorophenyl)-2-methoxy-N-(1-phenethylpiperidin-4-yl)acetamide)                                    |9838|
-|                                (62) ortho-Fluoroacryl fentanyl (N-(2-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)acrylamide)                                 |9852|
-|           (63) ortho-Fluorobutyryl fentanyl (N-(2-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)butyramide; also known as 2-fluorobutyryl fentanyl)            |9846|
-|                  (64) ortho-Fluorofentanyl (N-(2-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)propionamide); also known as 2-fluorofentanyl)                  |9816|
-|                            (65) ortho-Fluoroisobutyryl fentanyl (N-(2-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)isobutyramide)                             |9853|
-|             (66) ortho-Methyl acetylfentanyl (N-(2-methylphenyl)-N-(1-phenethylpiperidin-4-yl)acetamide; also known as 2-methyl acetylfentanyl)             |9848|
-|(67) ortho-Methyl methoxyacetyl fentanyl (2-methoxy-N-(2-methylphenyl)-N-(1-phenethylpiperidin-4-yl)acetamide; also known as 2-methyl methoxyacetyl fentanyl)|9820|
-|                             (68) para-Chloroisobutyryl fentanyl (N-(4-chlorophenyl)-N-(1-phenethylpiperidin-4-yl)isobutyramide)                             |9826|
-|                                (69) para-Fluorobutyryl fentanyl (N-(4-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)butyramide)                                |9823|
-|                                (70) para-Fluorofentanyl (N-(4-fluorophenyl)-N-[1-(2-phenylethyl)-4-piperidinyl]propanamide)                                 |9812|
-|                           (71) para-Fluoro furanyl fentanyl (N-(4-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)furan-2-carboxamide)                           |9854|
-|                               (72) para-Methoxybutyryl fentanyl (N-(4-methoxyphenyl)-N-(1-phenethylpiperidin-4-yl)butyramide)                               |9837|
-|                   (73) para-Methylfentanyl (N-(4-methylphenyl)-N-(1-phenethylpiperidin-4-yl)propionamide; also known as 4-methylfentanyl)                   |9817|
-|                                                 (74) PEPAP (1-(2-phenylethyl)-4-phenyl-4-acetoxypiperidine)                                                 |9663|
-|                                                                      (75) Phenadoxone                                                                       |9637|
-|                                                                     (76) Phenampromide                                                                      |9638|
-|                                                                      (77) Phenomorphan                                                                      |9647|
-|                                                                     (78) Phenoperidine                                                                      |9641|
-|                           (79) Phenyl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenylbenzamide; also known as benzoyl fentanyl)                            |9841|
-|                                                                      (80) Piritramide                                                                       |9642|
-|                                                                      (81) Proheptazine                                                                      |9643|
-|                                                                      (82) Properidine                                                                       |9644|
-|                                                                        (83) Propiram                                                                        |9649|
-|                                                                      (84) Racemoramide                                                                      |9645|
-|                            (85) Tetrahydrofuranyl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenyltetrahydrofuran-2-carboxamide)                            |9843|
-|                                        (86) Thiofentanyl (N-phenyl-N-[1-(2-thienyl)ethyl-4-piperidinyl]propanamide)                                         |9835|
-|     (87) Thiofuranyl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenylthiophene-2-carboxamide; also known as 2-thiofuranyl fentanyl; thiophene fentanyl)     |9839|
-|                                                                        (88) Tilidine                                                                        |9750|
-|                                                                     (89) Trimeperidine                                                                      |9646|
-|                                        (90) U-47700 (3,4-dichloro-N-[2-(dimethylamino)cyclohexyl]-N-methylbenzamide)                                        |9547|
-|                                          (91) Valeryl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenylpentanamide)                                          |9840|
-|                                 (92) Zipeprol (1-methoxy-3-[4-(2-methoxy-2-phenylethyl)piperazin-1-yl]-1-phenylpropan-2-ol)                                 |9873|
+|                             (22) brorphine (1-(1-(1-(4-bromophenyl)ethyl)piperidin-4-yl)-1,3-dihydro-2H-benzo[d]imidazol-2-one)                             |9098|
+|                                          (23) Butyryl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenylbutyramide)                                           |9822|
+|                                                                      (24) Clonitazene                                                                       |9612|
+|                                      (25) Crotonyl fentanyl ((E)-N-(1-phenethylpiperidin-4-yl)-N-phenylbut-2-enamide)                                       |9844|
+|                                  (26) Cyclopentyl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenylcyclopentanecarboxamide)                                  |9847|
+|                                  (27) Cyclopropyl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenylcyclopropanecarboxamide)                                  |9845|
+|                                                                     (28) Dextromoramide                                                                     |9613|
+|                                                                      (29) Diampromide                                                                       |9615|
+|                                                                   (30) Diethylthiambutene                                                                   |9616|
+|                                                                       (31) Difenoxin                                                                        |9168|
+|                                                                      (32) Dimenoxadol                                                                       |9617|
+|                                                                     (33) Dimepheptanol                                                                      |9618|
+|                                                                  (34) Dimethylthiambutene                                                                   |9619|
+|                                                                  (35) Dioxaphetyl butyrate                                                                  |9621|
+|                                                                       (36) Dipipanone                                                                       |9622|
+|                                                                 (37) Ethylmethylthiambutene                                                                 |9623|
+|                                                                      (38) Etonitazene                                                                       |9624|
+|                                                                      (39) Etoxeridine                                                                       |9625|
+|                                        (40) Fentanyl carbamate (ethyl (1-phenethylpiperidin-4-yl)(phenyl)carbamate)                                         |9851|
+|       (41) 4-Fluoroisobutyryl fentanyl (N-(4-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)isobutyramide; also known as para-fluoroisobutyryl fentanyl)        |9824|
+|   (42) 2′-Fluoro ortho-fluorofentanyl (N-(1-(2-fluorophenethyl)piperidin-4-yl)-N-(2-fluorophenyl)propionamide; also known as 2′-fluoro 2-fluorofentanyl)    |9855|
+|                                      (43) Furanyl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenylfuran-2-carboxamide)                                      |9834|
+|                                                                      (44) Furethidine                                                                       |9626|
+|                                                                    (45) Hydroxypethidine                                                                    |9627|
+|                                       (46) Isobutyryl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenylisobutyramide)                                        |9827|
+|                            (47) Isotonitazene (N,N-diethyl-2-(2-(4-isopropoxybenzyl)-5-nitro-1H-benzimidazol-1-yl)ethan-1-amine)                            |9614|
+|                                                                      (48) Ketobemidone                                                                      |9628|
+|                                                                      (49) Levomoramide                                                                      |9629|
+|                                                                  (50) Levophenacylmorphan                                                                   |9631|
+|                                   (51) Methoxyacetyl fentanyl (2-methoxy-N-(1-phenethylpiperidin-4-yl)-N-phenylacetamide)                                   |9825|
+|                                 (52) 4′-Methyl acetyl fentanyl (N-(1-(4-methylphenethyl)piperidin-4-yl)-N-phenylacetamide)                                  |9819|
+|                                   (53) 3-Methylfentanyl (N-[3-methyl-1-(2-phenylethyl)-4-piperidyl]-N-phenylpropanamide)                                    |9813|
+|                                (54) 3-Methylthiofentanyl (N-[3-methyl-1-(2-thienylethyl)-4-piperidinyl]-N-phenylpropanamide)                                |9833|
+|                                                                      (55) Morpheridine                                                                      |9632|
+|                                                    (56) MPPP (1-methyl-4-phenyl-4-propionoxypiperidine)                                                     |9661|
+|                                                  (57) MT-45 (1-cyclohexyl-4-(1,2-diphenylethyl)piperazine)                                                  |9560|
+|                                                                     (58) Noracymethadol                                                                     |9633|
+|                                                                     (59) Norlevorphanol                                                                     |9634|
+|                                                                      (60) Normethadone                                                                      |9635|
+|                                                                      (61) Norpipanone                                                                       |9636|
+|                                    (62) Ocfentanil (N-(2-fluorophenyl)-2-methoxy-N-(1-phenethylpiperidin-4-yl)acetamide)                                    |9838|
+|                                (63) ortho-Fluoroacryl fentanyl (N-(2-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)acrylamide)                                 |9852|
+|           (64) ortho-Fluorobutyryl fentanyl (N-(2-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)butyramide; also known as 2-fluorobutyryl fentanyl)            |9846|
+|                  (65) ortho-Fluorofentanyl (N-(2-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)propionamide); also known as 2-fluorofentanyl)                  |9816|
+|                            (66) ortho-Fluoroisobutyryl fentanyl (N-(2-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)isobutyramide)                             |9853|
+|             (67) ortho-Methyl acetylfentanyl (N-(2-methylphenyl)-N-(1-phenethylpiperidin-4-yl)acetamide; also known as 2-methyl acetylfentanyl)             |9848|
+|(68) ortho-Methyl methoxyacetyl fentanyl (2-methoxy-N-(2-methylphenyl)-N-(1-phenethylpiperidin-4-yl)acetamide; also known as 2-methyl methoxyacetyl fentanyl)|9820|
+|                             (69) para-Chloroisobutyryl fentanyl (N-(4-chlorophenyl)-N-(1-phenethylpiperidin-4-yl)isobutyramide)                             |9826|
+|                                (70) para-Fluorobutyryl fentanyl (N-(4-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)butyramide)                                |9823|
+|                                (71) para-Fluorofentanyl (N-(4-fluorophenyl)-N-[1-(2-phenylethyl)-4-piperidinyl]propanamide)                                 |9812|
+|                           (72) para-Fluoro furanyl fentanyl (N-(4-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)furan-2-carboxamide)                           |9854|
+|                               (73) para-Methoxybutyryl fentanyl (N-(4-methoxyphenyl)-N-(1-phenethylpiperidin-4-yl)butyramide)                               |9837|
+|                   (74) para-Methylfentanyl (N-(4-methylphenyl)-N-(1-phenethylpiperidin-4-yl)propionamide; also known as 4-methylfentanyl)                   |9817|
+|                                                 (75) PEPAP (1-(2-phenylethyl)-4-phenyl-4-acetoxypiperidine)                                                 |9663|
+|                                                                      (76) Phenadoxone                                                                       |9637|
+|                                                                     (77) Phenampromide                                                                      |9638|
+|                                                                      (78) Phenomorphan                                                                      |9647|
+|                                                                     (79) Phenoperidine                                                                      |9641|
+|                           (80) Phenyl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenylbenzamide; also known as benzoyl fentanyl)                            |9841|
+|                                                                      (81) Piritramide                                                                       |9642|
+|                                                                      (82) Proheptazine                                                                      |9643|
+|                                                                      (83) Properidine                                                                       |9644|
+|                                                                        (84) Propiram                                                                        |9649|
+|                                                                      (85) Racemoramide                                                                      |9645|
+|                            (86) Tetrahydrofuranyl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenyltetrahydrofuran-2-carboxamide)                            |9843|
+|                                        (87) Thiofentanyl (N-phenyl-N-[1-(2-thienyl)ethyl-4-piperidinyl]propanamide)                                         |9835|
+|     (88) Thiofuranyl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenylthiophene-2-carboxamide; also known as 2-thiofuranyl fentanyl; thiophene fentanyl)     |9839|
+|                                                                        (89) Tilidine                                                                        |9750|
+|                                                                     (90) Trimeperidine                                                                      |9646|
+|                                        (91) U-47700 (3,4-dichloro-N-[2-(dimethylamino)cyclohexyl]-N-methylbenzamide)                                        |9547|
+|                                          (92) Valeryl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenylpentanamide)                                          |9840|
+|                                 (93) Zipeprol (1-methoxy-3-[4-(2-methoxy-2-phenylethyl)piperazin-1-yl]-1-phenylpropan-2-ol)                                 |9873|
 
 (c) *Opium derivatives.* Unless specifically excepted or unless listed in another schedule, any of the following opium derivatives, its salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation:
 

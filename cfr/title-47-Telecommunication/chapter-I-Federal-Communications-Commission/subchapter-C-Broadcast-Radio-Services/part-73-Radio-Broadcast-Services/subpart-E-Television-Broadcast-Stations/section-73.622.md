@@ -614,7 +614,7 @@ Attenuation in dB = −11.5(Δf + 3.6);Where: Δf = frequency difference in MHz 
 |       Hardin       |                        22                         |   |
 |       Havre        |                         9                         |   |
 |       Helena       |                      29, 31                       |   |
-|     Kalispell      |                      9, \*15                      |   |
+|     Kalispell      |                     \* 15, 17                     |   |
 |     Miles City     |                         3                         |   |
 |      Missoula      |                  7, \*11, 20, 23                  |   |
 |      Nebraska      |                                                   |   |
@@ -790,7 +790,7 @@ Attenuation in dB = −11.5(Δf + 3.6);Where: Δf = frequency difference in MHz 
 |      Woodward      |                        35                         |   |
 |       Oregon       |                                                   |   |
 |        Bend        |                   \*11, 18, 21                    |   |
-|      Coos Bay      |                      11, 22                       |   |
+|      Coos Bay      |                      22, 34                       |   |
 |     Corvallis      |                        \*7                        |   |
 |       Eugene       |                9, 17, 28, \*29, 31                |   |
 |    Grants Pass     |                        30                         |   |
