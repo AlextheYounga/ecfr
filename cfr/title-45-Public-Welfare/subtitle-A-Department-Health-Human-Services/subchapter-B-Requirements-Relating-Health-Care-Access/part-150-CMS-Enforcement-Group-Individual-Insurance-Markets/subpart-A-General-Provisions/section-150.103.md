@@ -1,5 +1,7 @@
 ##### § 150.103 Definitions. #####
 
+Link to an amendment published at 86 FR 24286, May 5, 2021.
+
 The definitions that appear in part 144 of this subchapter apply to this part 150, unless stated otherwise. As used in this part:
 
 *Amendment, endorsement,* or *rider* means a document that modifies or changes the terms or benefits of an individual policy, group policy, or certificate of insurance.

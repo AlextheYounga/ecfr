@@ -1,5 +1,7 @@
 ##### § 156.295 Prescription drug distribution and cost reporting. #####
 
+Link to an amendment published at 86 FR 24292, May 5, 2021.
+
 (a) *General requirement.* In a form, manner, and at such times specified by HHS, a QHP issuer must provide to HHS the following information:
 
 (1) The percentage of all prescriptions that were provided under the QHP through retail pharmacies compared to mail order pharmacies, and the percentage of prescriptions for which a generic drug was available and dispensed compared to all drugs dispensed, broken down by pharmacy type, which includes an independent pharmacy, supermarket pharmacy, or mass merchandiser pharmacy that is licensed as a pharmacy by the State and that dispenses medication to the general public, that is paid by the QHP issuer or the QHP issuer's contracted PBM;

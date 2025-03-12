@@ -1,5 +1,7 @@
 ##### § 150.311 Responses to allegations of noncompliance. #####
 
+Link to an amendment published at 86 FR 24286, May 5, 2021.
+
 In determining whether to impose a civil money penalty, CMS reviews and considers documentation provided in any complaint or other information, as well as any additional information provided by the responsible entity to demonstrate that it has complied with PHS Act requirements. The following are examples of documentation that a potential responsible entity may submit for CMS's consideration in determining whether a civil money penalty should be assessed and the amount of any civil money penalty:
 
 (a) Any individual policy, group policy, certificate of insurance, application, rider, amendment, endorsement, certificate of creditable coverage, advertising material, or any other documents if those documents form the basis of a complaint or allegation of noncompliance, or the basis for the responsible entity to refute the complaint or allegation.

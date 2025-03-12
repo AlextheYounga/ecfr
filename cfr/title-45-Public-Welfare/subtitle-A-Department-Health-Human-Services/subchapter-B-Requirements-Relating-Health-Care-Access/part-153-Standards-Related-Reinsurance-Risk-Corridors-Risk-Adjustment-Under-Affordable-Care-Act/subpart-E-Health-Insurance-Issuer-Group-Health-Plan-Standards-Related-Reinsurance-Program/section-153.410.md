@@ -1,5 +1,7 @@
 ##### § 153.410 Requests for reinsurance payment. #####
 
+Link to an amendment published at 86 FR 24286, May 5, 2021.
+
 (a) *General requirement.* An issuer of a reinsurance-eligible plan may make a request for payment when that issuer's claims costs for an enrollee of that reinsurance-eligible plan has met the criteria for reinsurance payment set forth in subpart B of this part and the HHS notice of benefit and payment parameters and State notice of benefit and payment parameters for the applicable benefit year, if applicable.
 
 (b) *Manner of request.* An issuer of a reinsurance-eligible plan must make requests for payment in accordance with the requirements of the annual HHS notice of benefit and payment parameters for the applicable benefit year or the State notice of benefit and payment parameters described in subpart B of this part, as applicable.

@@ -82,6 +82,7 @@ Table 1 to Paragraph (b)
 |     Sacramento     |          300B           |         |     |
 |    Shasta Lake     |          224A           |         |     |
 |    Sutter Creek    |         \*298A          |         |     |
+|      Visalia       |          241A           |         |     |
 |      Westley       |         \*238A          |         |     |
 |  Wofford Heights   |          251A           |         |     |
 |      COLORADO      |                         |         |     |
@@ -98,6 +99,7 @@ Table 1 to Paragraph (b)
 |       Olathe       |     \*270C2, \*293C     |         |     |
 |      Stratton      |          246C1          |         |     |
 |       Walden       |          226A           |         |     |
+|       Yampa        |          277C3          |         |     |
 |    CONNECTICUT     |                         |         |     |
 |      DELAWARE      |                         |         |     |
 |DISTRICT OF COLUMBIA|                         |         |     |
@@ -199,6 +201,7 @@ Table 1 to Paragraph (b)
 |     NEW JERSEY     |                         |         |     |
 |     NEW MEXICO     |                         |         |     |
 |       Animas       |          279C1          |         |     |
+|     Carrizozo      |          261C2          |         |     |
 |       Chama        |          241C3          |         |     |
 |     Crownpoint     |          †297A          |         |     |
 |     Des Moines     |          287C           |         |     |
@@ -220,6 +223,7 @@ Table 1 to Paragraph (b)
 |   NORTH CAROLINA   |                         |         |     |
 |     Dillsboro      |         \*237A          |         |     |
 |    NORTH DAKOTA    |                         |         |     |
+|       Beulah       |          250A           |         |     |
 |       Gackle       |          256C1          |         |     |
 |       Medina       |          222C1          |         |     |
 |       Sarles       |          290C1          |         |     |
@@ -299,6 +303,7 @@ Table 1 to Paragraph (b)
 |       Freer        |          288A           |         |     |
 |      Garwood       |          247A           |         |     |
 |    George West     |          292A           |         |     |
+|       Girard       |          248C3          |         |     |
 |     Goldwaithe     |          297A           |         |     |
 |       Goree        |          277A           |         |     |
 |       Groom        |       223A, 273A        |         |     |
@@ -314,6 +319,7 @@ Table 1 to Paragraph (b)
 |    Jacksonville    |          236A           |         |     |
 |       Jayton       |          231C2          |         |     |
 |      Junction      |       277C3, 297A       |         |     |
+|       Kermit       |          289C3          |         |     |
 |     Knox City      |       293A, 297A        |         |     |
 |       Leakey       |    257A, 275A, 299A     |         |     |
 |       Llano        |          242C3          |         |     |

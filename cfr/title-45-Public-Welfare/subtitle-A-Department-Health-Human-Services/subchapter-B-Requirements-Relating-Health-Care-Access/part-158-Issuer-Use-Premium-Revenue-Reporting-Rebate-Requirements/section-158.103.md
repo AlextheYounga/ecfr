@@ -1,5 +1,7 @@
 ##### § 158.103 Definitions. #####
 
+Link to an amendment published at 86 FR 24294, May 5, 2021.
+
 For the purposes of this part, the following definitions apply unless specified otherwise.
 
 *Blended rate* means a single rate charged for health insurance coverage provided to a single employer through two or more of an issuer's affiliated companies for employees in one or more States.

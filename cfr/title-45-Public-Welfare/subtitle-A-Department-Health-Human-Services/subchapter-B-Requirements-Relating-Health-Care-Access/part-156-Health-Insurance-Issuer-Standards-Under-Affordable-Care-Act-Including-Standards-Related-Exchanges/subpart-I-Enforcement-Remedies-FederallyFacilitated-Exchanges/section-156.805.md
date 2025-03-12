@@ -1,5 +1,7 @@
 ##### § 156.805 Bases and process for imposing civil money penalties in Federally-facilitated Exchanges. #####
 
+Link to an amendment published at 86 FR 24293, May 5, 2021.
+
 (a) *Grounds for imposing civil money penalties.* Civil money penalties may be imposed on an issuer in a Federally-facilitated Exchange by HHS if, based on credible evidence, HHS has reasonably determined that the issuer has engaged in one or more of the following actions:
 
 (1) Misconduct in the Federally-facilitated Exchange or substantial non-compliance with the Exchange standards and requirements applicable to issuers offering QHPs in the Federally-facilitated Exchange, including but not limited to issuer standards and requirements under parts 153 and 156 of this subchapter;

@@ -1,5 +1,7 @@
 ##### § 150.313 Market conduct examinations. #####
 
+Link to an amendment published at 86 FR 24286, May 5, 2021.
+
 (a) *Definition.* A market conduct examination means the examination of health insurance operations of an issuer, or the operation of a non-Federal governmental plan, involving the review of one or more (or a combination) of a responsible entity's business or operational affairs, or both, to verify compliance with PHS Act requirements.
 
 (b) *General.* If, based on the information described in § 150.303, CMS finds evidence that a specific entity may be in violation of a HIPAA requirement, CMS may initiate a market conduct examination to determine whether the entity is out of compliance. CMS may conduct the examinations either at the site of the issuer or other responsible entity or a site CMS selects. When CMS selects a site, it may direct the issuer or other responsible entity to forward any documentation CMS considers relevant for purposes of the examination to that site.

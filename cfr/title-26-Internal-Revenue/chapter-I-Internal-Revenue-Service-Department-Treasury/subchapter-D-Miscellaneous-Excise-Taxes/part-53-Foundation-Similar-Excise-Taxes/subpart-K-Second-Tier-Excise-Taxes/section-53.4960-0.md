@@ -18,7 +18,7 @@
 
 (2) Certain foreign organizations.
 
-(3) Organization described in section 501(c)(1)(A)(i) for which the enabling act provides for exemption from all current and future Federal taxes.
+(3) [Reserved]
 
 (c) Applicable year.
 
@@ -444,4 +444,4 @@
 
 (b) [Reserved]
 
-[T.D. 9938, 86 FR 6219, Jan. 19, 2021]
+[T.D. 9938, 86 FR 6219, Jan. 19, 2021; 86 FR 23865, May 5, 2021]

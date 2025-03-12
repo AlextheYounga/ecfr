@@ -1,5 +1,7 @@
 ##### § 155.205 Consumer assistance tools and programs of an Exchange. #####
 
+Link to an amendment published at 86 FR 24288, May 5, 2021.
+
 (a) *Call center.* The Exchange must provide for operation of a toll-free call center that addresses the needs of consumers requesting assistance and meets the requirements outlined in paragraphs (c)(1), (2)(i), and (3) of this section, unless it is an Exchange described in paragraphs (a)(1) or (2) of this section, in which case, the Exchange must provide at a minimum a toll-free telephone hotline that includes the capability to provide information to consumers about eligibility and enrollment processes, and to appropriately direct consumers to the applicable Exchange website and other applicable resources.
 
 (1) An Exchange described in this paragraph is one that enters into a Federal platform agreement through which it relies on HHS to operate its eligibility and enrollment functions, as applicable.

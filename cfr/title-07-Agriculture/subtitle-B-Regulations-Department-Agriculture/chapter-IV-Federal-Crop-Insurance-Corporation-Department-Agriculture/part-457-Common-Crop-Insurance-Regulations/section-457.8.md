@@ -1408,10 +1408,6 @@ Unless limited by the Crop Provisions, insurance will be provided for acreage pl
 
 (iv) The acreage that was prevented from being planted constitutes at least 20 acres or 20 percent of the total insurable acreage in the field and you provide proof that you intended to plant another crop or crop type on the acreage (including, but not limited to inputs purchased, applied or available to apply, or that acreage was part of a crop rotation).
 
-(iii) The insured crop planted in the field would not have been planted on the remaining prevented planting acreage (*e.g.,* where due to Crop Provisions, Special Provisions, or processor contract specifications rotation requirements would not be met, or you already planted the total number of acres specified in the processor contract); or
-
-(iv) The acreage that was prevented from being planted constitutes at least 20 acres or 20 percent of the total insurable acreage in the field and you provide proof that you intended to plant another crop or crop type on the acreage (including, but not limited to inputs purchased, applied or available to apply, or that acreage was part of a crop rotation).
-
 (2) For which the actuarial documents do not provide the information needed to determine the premium rate, unless a written agreement designates such premium rate;
 
 (3) Used for conservation purposes, intended to be left unplanted under any program administered by the USDA or other government agency, or required to be left unharvested under the terms of the lease or any other agreement (The number of acres eligible for prevented planting will be limited to the number of acres specified in the lease for which you are required to pay either cash or share rent);

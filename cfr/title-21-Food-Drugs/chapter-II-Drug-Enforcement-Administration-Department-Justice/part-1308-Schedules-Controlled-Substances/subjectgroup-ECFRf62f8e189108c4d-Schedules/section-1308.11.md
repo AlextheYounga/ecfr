@@ -75,7 +75,7 @@
 |                             (67) para-Chloroisobutyryl fentanyl (N-(4-chlorophenyl)-N-(1-phenethylpiperidin-4-yl)isobutyramide)                             |9826|
 |                                (68) para-Fluorobutyryl fentanyl (N-(4-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)butyramide)                                |9823|
 |                                (69) para-Fluorofentanyl (N-(4-fluorophenyl)-N-[1-(2-phenylethyl)-4-piperidinyl]propanamide)                                 |9812|
-|                           (70) para-Fluoro furanyl fentanyl (N-(4-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)furan-2-carboxamide)                           |985 |
+|                           (70) para-Fluoro furanyl fentanyl (N-(4-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)furan-2-carboxamide)                           |9854|
 |                               (71) para-Methoxybutyryl fentanyl (N-(4-methoxyphenyl)-N-(1-phenethylpiperidin-4-yl)butyramide)                               |9837|
 |                   (72) para-Methylfentanyl (N-(4-methylphenyl)-N-(1-phenethylpiperidin-4-yl)propionamide; also known as 4-methylfentanyl)                   |9817|
 |                                                 (73) PEPAP (1-(2-phenylethyl)-4-phenyl-4-acetoxypiperidine)                                                 |9663|
@@ -320,7 +320,7 @@
 
 4. At 84 FR 34297, July 17, 2019, § 1308.11 was amended by adding paragraphs (h)(42) through (h)(47) effective July 18, 2019, through July 18, 2021.
 
-5.At 83 FR 5191, Feb. 6, 2018, § 1308.11 was amended by adding paragraph (h)(30), effective Feb. 6, 2018, through Feb. 6, 2020. Effective Feb. 6, 2020, Congress extended the effective period for paragraph (h)(30) until May 6, 2021, by Public Law 116-114.
+5.At 83 FR 5191, Feb. 6, 2018, § 1308.11 was amended by adding paragraph (h)(30), effective Feb. 6, 2018, through Feb. 6, 2020. Effective Feb. 6, 2020, Congress extended the effective period for paragraph (h)(30) until May 6, 2021, by Public Law 116-114. Effective May 4, 2021, Congress extended the effective period for paragraph (h)(30) until October 22, 2021, by Public Law 117-12.
 
 6. At 85 51346, Aug. 20, 2020, § 1308.11 was amended by adding paragraph (h)(48), effective Aug. 20, 2020, through Aug. 20, 2022.
 

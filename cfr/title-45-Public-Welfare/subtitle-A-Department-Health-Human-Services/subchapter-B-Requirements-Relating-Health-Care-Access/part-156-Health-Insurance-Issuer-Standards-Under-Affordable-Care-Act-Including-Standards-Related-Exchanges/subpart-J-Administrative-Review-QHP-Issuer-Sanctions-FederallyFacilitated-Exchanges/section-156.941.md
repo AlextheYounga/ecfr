@@ -1,5 +1,7 @@
 ##### § 156.941 Prehearing conferences. #####
 
+Link to an amendment published at 86 FR 24293, May 5, 2021.
+
 An ALJ may schedule one or more prehearing conferences (generally conducted by telephone) on the ALJ's own motion or at the request of either party for the purpose of any of the following:
 
 (a) Hearing argument on any outstanding discovery request.

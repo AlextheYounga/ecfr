@@ -1,5 +1,7 @@
 ##### § 156.1220 Administrative appeals. #####
 
+Link to an amendment published at 86 FR 24294, May 5, 2021.
+
 (a) *Requests for reconsideration* - (1) *Matters for reconsideration.* An issuer may file a request for reconsideration under this section to contest a processing error by HHS, HHS's incorrect application of the relevant methodology, or HHS's mathematical error only with respect to the following:
 
 (i) The amount of advance payment of the premium tax credit, advance payment of cost-sharing reductions or Federally-facilitated Exchange user fees charge for a benefit year;

@@ -8,7 +8,7 @@ In witness whereof, the contracting parties, acting under the provisions of the 
 
 \_\_\_\_\_\_\_\_\_\_
 
-(Firm name)By:(Signature)1
+(Firm name)By:(Signature)1/\>
 
 1 If one of the contracting parties to this agreement is a corporation my signature constitutes certification that I have the power granted to me by the Board of Directors to bind this corporation to the marketing agreement.
 

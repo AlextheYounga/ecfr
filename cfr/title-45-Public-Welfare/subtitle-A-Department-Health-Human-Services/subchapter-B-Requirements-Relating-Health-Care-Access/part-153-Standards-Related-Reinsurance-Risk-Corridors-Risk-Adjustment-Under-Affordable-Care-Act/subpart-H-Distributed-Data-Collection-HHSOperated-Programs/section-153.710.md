@@ -1,5 +1,7 @@
 ##### § 153.710 Data requirements. #####
 
+Link to an amendment published at 86 FR 24288, May 5, 2021.
+
 (a) *Enrollment, claims, and encounter data.* An issuer of a risk adjustment covered plan or a reinsurance-eligible plan in a State in which HHS is operating the risk adjustment or reinsurance program, as applicable, must provide to HHS, through the dedicated data environment, access to enrollee-level plan enrollment data, enrollee claims data, and enrollee encounter data as specified by HHS.
 
 (b) *Claims data.* All claims data submitted by an issuer of a risk adjustment covered plan or a reinsurance-eligible plan in a State in which HHS is operating the risk adjustment or reinsurance program, as applicable, must have resulted in payment by the issuer (or payment of cost sharing by the enrollee).

@@ -1,5 +1,7 @@
 ##### § 156.800 Available remedies; Scope. #####
 
+Link to an amendment published at 86 FR 24293, May 5, 2021.
+
 (a) *Kinds of sanctions.* HHS may impose the following types of sanctions on QHP issuers in a Federally-facilitated Exchange that are not in compliance with Exchange standards applicable to issuers offering QHPs in the Federally-facilitated Exchange:
 
 (1) Civil money penalties as specified in § 156.805; and

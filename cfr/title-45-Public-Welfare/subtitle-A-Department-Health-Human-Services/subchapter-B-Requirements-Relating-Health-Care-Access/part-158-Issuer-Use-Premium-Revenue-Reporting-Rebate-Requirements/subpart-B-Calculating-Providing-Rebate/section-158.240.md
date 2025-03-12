@@ -1,5 +1,7 @@
 ##### § 158.240 Rebating premium if the applicable medical loss ratio standard is not met. #####
 
+Link to an amendment published at 86 FR 24294, May 5, 2021.
+
 (a) *General requirement.* For each MLR reporting year, an issuer must provide a rebate to each enrollee if the issuer's MLR does not meet or exceed the minimum percentage required by §§ 158.210 and 158.211 of this subpart.
 
 (b) *Definition of enrollee for purposes of rebate.* For the sole purpose of determining whom is entitled to receive a rebate pursuant to this part, the term “enrollee” means the subscriber, policyholder, and/or government entity that paid the premium for health care coverage received by an individual during the respective MLR reporting year.

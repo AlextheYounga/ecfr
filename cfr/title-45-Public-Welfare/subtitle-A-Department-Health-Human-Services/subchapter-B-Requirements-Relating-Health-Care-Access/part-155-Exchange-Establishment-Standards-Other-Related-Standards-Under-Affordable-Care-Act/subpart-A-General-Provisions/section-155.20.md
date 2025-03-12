@@ -1,5 +1,7 @@
 ##### § 155.20 Definitions. #####
 
+Link to an amendment published at 86 FR 24288, May 5, 2021.
+
 The following definitions apply to this part:
 
 *Advance payments of the premium tax credit* means payment of the tax credit authorized by 26 U.S.C. 36B and its implementing regulations, which are provided on an advance basis to an eligible individual enrolled in a QHP through an Exchange in accordance with section 1412 of the Affordable Care Act.

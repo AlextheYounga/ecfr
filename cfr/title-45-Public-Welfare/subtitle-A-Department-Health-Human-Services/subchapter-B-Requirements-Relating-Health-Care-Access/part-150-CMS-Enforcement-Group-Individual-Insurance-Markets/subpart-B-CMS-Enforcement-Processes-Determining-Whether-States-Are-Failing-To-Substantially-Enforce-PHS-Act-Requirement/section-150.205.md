@@ -1,5 +1,7 @@
 ##### § 150.205 Sources of information triggering an investigation of State enforcement. #####
 
+Link to an amendment published at 86 FR 24286, May 5, 2021.
+
 Information that may trigger an investigation of State enforcement includes, but is not limited to, any of the following:
 
 (a) A complaint received by CMS.

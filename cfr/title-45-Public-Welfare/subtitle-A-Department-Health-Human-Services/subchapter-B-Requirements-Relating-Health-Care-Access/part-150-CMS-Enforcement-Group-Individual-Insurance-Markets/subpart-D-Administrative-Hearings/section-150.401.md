@@ -1,5 +1,7 @@
 ##### § 150.401 Definitions. #####
 
+Link to an amendment published at 86 FR 24286, May 5, 2021.
+
 In this subpart, unless the context indicates otherwise:
 
 *ALJ* means administrative law judge of the Departmental Appeals Board of the Department of Health and Human Services.

@@ -1,5 +1,7 @@
 ##### § 150.305 Determination of entity liable for civil money penalty. #####
 
+Link to an amendment published at 86 FR 24286, May 5, 2021.
+
 If a failure to comply is established under this part, the responsible entity, as determined under this section, is liable for any civil money penalty imposed.
 
 (a) *Health insurance issuer is responsible entity* - (1) *Group health insurance policy.* To the extent a group health insurance policy issued, sold, renewed, or offered to a private plan sponsor or a non-Federal governmental plan sponsor is subject to applicable PHS Act requirements, a health insurance issuer is subject to a civil money penalty, irrespective of whether a civil money penalty is imposed under paragraphs (b) or (c) of this section, if the policy itself or the manner in which the policy is marketed or administered fails to comply with an applicable HIPAA requirement.

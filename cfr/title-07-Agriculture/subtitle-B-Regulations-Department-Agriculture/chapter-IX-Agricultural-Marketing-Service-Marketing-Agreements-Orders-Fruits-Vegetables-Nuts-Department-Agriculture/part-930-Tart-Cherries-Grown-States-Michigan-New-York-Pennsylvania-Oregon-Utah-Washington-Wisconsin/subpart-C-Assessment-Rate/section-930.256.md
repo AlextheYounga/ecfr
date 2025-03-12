@@ -2,4 +2,4 @@
 
 The percentages for tart cherries handled by handlers during the crop year beginning on July 1, 2019, which shall be free and restricted, respectively, are designated as follows: Free percentage, 67 percent and restricted percentage, 33 percent.
 
-[85 FR 40873, July 8, 2020
+[85 FR 40873, July 8, 2020]

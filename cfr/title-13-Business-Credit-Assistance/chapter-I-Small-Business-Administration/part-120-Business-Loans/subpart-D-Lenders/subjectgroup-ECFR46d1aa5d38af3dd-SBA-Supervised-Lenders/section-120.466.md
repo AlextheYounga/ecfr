@@ -22,4 +22,4 @@ An entity seeking to participate as an SBA Supervised Lender must apply to SBA. 
 
 (c) *NFRL operating and lending experience requirement.* For an entity seeking to become an NFRL, evidence of at least 1 year of current operating and relevant commercial lending experience by the entity must be provided.
 
-[85 FR 78213, Dec.4, 2020]
+[85 FR 78213, Dec. 4, 2020]

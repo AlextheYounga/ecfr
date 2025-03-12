@@ -1,5 +1,7 @@
 ##### § 156.420 Plan variations. #####
 
+Link to an amendment published at 86 FR 24292, May 5, 2021.
+
 (a) *Submission of silver plan variations.* For each of its silver health plans that an issuer offers, or intends to offer in the individual market on an Exchange, the issuer must submit annually to the Exchange for certification prior to each benefit year the standard silver plan and three variations of the standard silver plan, as follows -
 
 (1) For individuals eligible for cost-sharing reductions under § 155.305(g)(2)(i) of this subchapter, a variation of the standard silver plan with:

@@ -8,4 +8,4 @@
 
 [41 FR 31543, July 29, 1976]Effective Date Notes:1. At 60 FR 40064, Aug. 7, 1995, in § 989.49, in paragraph (b)(1), the words “On or before February 15 of the marketing year,” were suspended.
 
-At 85 FR 27108, May 7, 2020, § 984.49 was stayed indefinitely.
+2. At 85 FR 27108, May 7, 2020, § 984.49 was stayed indefinitely.

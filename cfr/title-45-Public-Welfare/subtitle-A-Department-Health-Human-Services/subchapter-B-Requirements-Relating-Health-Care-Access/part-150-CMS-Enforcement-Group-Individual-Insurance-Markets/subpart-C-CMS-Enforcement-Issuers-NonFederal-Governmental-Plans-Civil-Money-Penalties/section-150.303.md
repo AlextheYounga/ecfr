@@ -1,5 +1,7 @@
 ##### § 150.303 Basis for initiating an investigation of a potential violation. #####
 
+Link to an amendment published at 86 FR 24286, May 5, 2021.
+
 (a) *Information.* Any information that indicates that any issuer may be failing to meet the PHS Act requirements or that any non-Federal governmental plan that is a group health plan as defined in section 2791(a)(1) of the PHS Act and 45 CFR § 144.103 may be failing to meet an applicable HIPAA requirement, may warrant an investigation. CMS may consider, but is not limited to, the following sources or types of information:
 
 (1) Complaints.

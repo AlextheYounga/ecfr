@@ -1,5 +1,7 @@
 ##### § 156.927 Form and service of submissions. #####
 
+Link to an amendment published at 86 FR 24293, May 5, 2021.
+
 (a) Every submission filed with the ALJ must be filed in triplicate, including one original of any signed documents, and include:
 
 (1) A caption on the first page, setting forth the title of the case, the docket number (if known), and a description of the submission (such as “Motion for Discovery”).
