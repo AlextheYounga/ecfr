@@ -1,6 +1,6 @@
 ##### § 1735.23 Public notice. #####
 
-(a) Applications for funding request in which the applicant will provide retail broadband service, the Agency's mapping tool will include the following information from each application, and will be displayed for the public:
+(a) For applications which request funding in which the applicant will provide retail broadband service, the Agency's mapping tool will include the following information from each application, and be displayed for the public:
 
 (1) The identity of the applicant;
 
@@ -48,4 +48,4 @@
 
 (3) Such other information as the Administrator of the RUS deems sufficient to allow the public to understand the assistance provided.
 
-[86 FR 50608, Sept. 10, 2021]
+[86 FR 50608, Sept. 10, 2021, as amended at 88 FR 36217, June 2, 2023]

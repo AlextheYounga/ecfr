@@ -24,4 +24,8 @@ The draws of the bridges operated by the City of Chicago over the Main Branch of
 
 (e) The Amtrak Bridge, mile 3.77, is authorized to operate remotely and open to the intermediate position on signal, unless a request for a full opening is received by the drawtender. The bridge is required to operate a marine radio.
 
-[CGD09-95-023, 60 FR 52311, Oct. 6, 1995, as amended by CGD09-01-148, 67 FR 31729, May 10, 2002; USCG-2019-0366, 84 FR 29804, June 25, 2019; USCG-2020-0034, 86 FR 43915, Aug. 11, 2021]Effective Date Note:By USCG-2019-0366, 84 FR 29804, June 25, 2019, in § 117.391, paragraph (d) was added, effective until Nov. 13, 2023.
+(f) The Dearborn Street Bridge, mile 1.13, need only operate one leaf for the passage of vessels, while the other leaf is secured to masted navigation for maintenance.
+
+[CGD09-95-023, 60 FR 52311, Oct. 6, 1995, as amended by CGD09-01-148, 67 FR 31729, May 10, 2002; USCG-2019-0366, 84 FR 29804, June 25, 2019; USCG-2020-0034, 86 FR 43915, Aug. 11, 2021; USCG-2022-0989, 88 FR 36243, June 2, 2023]Effective Date Note:1. By USCG-2019-0366, 84 FR 29804, June 25, 2019, in § 117.391, paragraph (d) was added, effective until Nov. 13, 2023.
+
+2. By USCG-2022-0989, 88 FR 36243, June 2, 2023, § 117.391, paragraph (f) was added, effective until November 1, 2023.

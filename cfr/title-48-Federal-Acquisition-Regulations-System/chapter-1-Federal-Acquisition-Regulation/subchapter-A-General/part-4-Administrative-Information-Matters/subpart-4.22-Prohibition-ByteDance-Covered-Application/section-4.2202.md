@@ -1,0 +1,5 @@
+##### 4.2202 Prohibition. #####
+
+(a) Section 102 of Division R of the Consolidated Appropriations Act, 2023 (Pub. L. 117-328), the No TikTok on Government Devices Act, and its implementing guidance under Office of Management and Budget (OMB) Memorandum M-23-13, dated February 27, 2023, “No TikTok on Government Devices” Implementation Guidance, collectively prohibit the presence or use of a covered application on information technology, including certain equipment used by Federal contractors.
+
+(b) This prohibition applies to the presence or use of a covered application on any information technology owned or managed by the Government, or on any information technology used or provided by the contractor under a contract, including equipment provided by the contractor's employees, unless an exception is granted in accordance with OMB Memorandum M-23-13.

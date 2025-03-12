@@ -24,4 +24,6 @@
 
 (2) On or after August 13, 2020, agencies are prohibited from entering into a contract, or extending or renewing a contract, with an entity that uses any equipment, system, or service that uses covered telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as part of any system, unless an exception applies or a waiver is granted (see subpart 4.21). This prohibition applies to the use of covered telecommunications equipment or services, regardless of whether that use is in performance of work under a Federal contract.
 
-[61 FR 41470, Aug. 8, 1996, as amended at 64 FR 32748, June 17, 1999; 64 FR 72446, Dec. 27, 1999; 70 FR 57452, Sept. 30, 2005; 72 FR 73217, Dec. 26, 2007; 73 FR 10968, Feb. 28, 2008; 74 FR 65607, Dec. 10, 2009; 76 FR 31401, May 31, 2011; 79 FR 70344, Nov. 25, 2014; 80 FR 26427, May 7, 2015; 83 FR 28144, June 15, 2018; 84 FR 40221, Aug. 13, 2019; 85 FR 42678, July 14, 2020; 86 FR 44232, Aug. 11, 2021]
+(g) See the prohibition in 4.2202 on the presence or use of a covered application (“TikTok”).
+
+[61 FR 41470, Aug. 8, 1996, as amended at 64 FR 32748, June 17, 1999; 64 FR 72446, Dec. 27, 1999; 70 FR 57452, Sept. 30, 2005; 72 FR 73217, Dec. 26, 2007; 73 FR 10968, Feb. 28, 2008; 74 FR 65607, Dec. 10, 2009; 76 FR 31401, May 31, 2011; 79 FR 70344, Nov. 25, 2014; 80 FR 26427, May 7, 2015; 83 FR 28144, June 15, 2018; 84 FR 40221, Aug. 13, 2019; 85 FR 42678, July 14, 2020; 86 FR 44232, Aug. 11, 2021; 88 FR 36434, June 2, 2023]

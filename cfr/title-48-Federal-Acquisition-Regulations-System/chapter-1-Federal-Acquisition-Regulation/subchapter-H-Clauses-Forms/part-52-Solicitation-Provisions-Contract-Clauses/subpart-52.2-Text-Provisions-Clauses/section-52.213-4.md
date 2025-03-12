@@ -2,7 +2,7 @@
 
 As prescribed in 13.302-5(d), insert the following clause:
 
-Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products and Commercial Services) (MAR 2023)
+Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products and Commercial Services) (JUN 2023)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses that are incorporated by reference:
 
@@ -14,19 +14,21 @@ Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products a
 
 (iii) 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment. (NOV 2021) (Section 889(a)(1)(A) of Pub. L. 115-232).
 
-(iv) 52.222-3, Convict Labor (JUN 2003) (E.O. 11755).
+(iv) 52.204-27, Prohibition on a ByteDance Covered Application (JUN 2023) (Section 102 of Division R of Pub. L. 117-328), unless the agency grants an exception—see paragraph (b) of 52.204-27.
 
-(v) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
+(v) 52.222-3, Convict Labor (JUN 2003) (E.O. 11755).
 
-(vi) 52.222-26, Equal Opportunity (SEP 2016) (E.O. 11246).
+(vi) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
 
-(vii) 52.225-13, Restrictions on Certain Foreign Purchases (FEB 2021) (E.O.s, proclamations, and statutes administered by the Office of Foreign Assets Control of the Department of the Treasury).
+(vii) 52.222-26, Equal Opportunity (SEP 2016) (E.O. 11246).
 
-(viii) 52.232-40, Providing Accelerated Payments to Small Business Subcontractors (MAR 2023) (31 U.S.C. 3903 and 10 U.S.C. 3801).
+(viii) 52.225-13, Restrictions on Certain Foreign Purchases (FEB 2021) (E.O.s, proclamations, and statutes administered by the Office of Foreign Assets Control of the Department of the Treasury).
 
-(ix) 52.233-3, Protest After Award (AUG 1996) (31 U.S.C. 3553).
+(ix) 52.232-40, Providing Accelerated Payments to Small Business Subcontractors (MAR 2023) (31 U.S.C. 3903 and 10 U.S.C. 3801).
 
-(x) 52.233-4, Applicable Law for Breach of Contract Claim (OCT 2004) (Pub. L. 108-77 and 108-78 (19 U.S.C. 3805 note)).
+(x) 52.233-3, Protest After Award (AUG 1996) (31 U.S.C. 3553).
+
+(xi) 52.233-4, Applicable Law for Breach of Contract Claim (OCT 2004) (Pub. L. 108-77 and 108-78 (19 U.S.C. 3805 note)).
 
 (2) Listed below are additional clauses that apply:
 
@@ -42,7 +44,7 @@ Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products a
 
 (vi) 52.233-1, Disputes (MAY 2014).
 
-(vii) 52.244-6, Subcontracts for Commercial Products and Commercial Services (MAR 2023).
+(vii) 52.244-6, Subcontracts for Commercial Products and Commercial Services (JUN 2023).
 
 (viii) 52.253-1, Computer Generated Forms (JAN 1991).
 

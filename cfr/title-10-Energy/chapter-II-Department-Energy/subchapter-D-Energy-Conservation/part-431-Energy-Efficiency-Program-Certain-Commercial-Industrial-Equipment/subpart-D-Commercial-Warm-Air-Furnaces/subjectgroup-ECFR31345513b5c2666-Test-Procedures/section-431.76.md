@@ -1,5 +1,7 @@
 ##### § 431.76 Uniform test method for the measurement of energy efficiency of commercial warm air furnaces. #####
 
+Link to an amendment published at 88 FR 36234, June 2, 2023.
+
 (a) *Scope.* This section covers the test requirements used to measure the energy efficiency of commercial warm air furnaces with a rated maximum input of 225,000 Btu per hour or more. On and after July 11, 2016, any representations made with respect to the energy use or efficiency of commercial warm air furnaces must be made in accordance with the results of testing pursuant to this section. At that time, you must use the relevant procedures in ANSI Z21.47 or UL 727-2006 (incorporated by reference, see § 431.75). On and after August 17, 2015 and prior to July 11, 2016, manufacturers must test commercial warm air furnaces in accordance with this amended section or the section as it appeared at 10 CFR part 430, subpart B in the 10 CFR parts 200 to 499 edition revised January 1, 2014. DOE notes that, because testing under this section is required as of July 11, 2016, manufacturers may wish to begin using this amended test procedure immediately. Any representations made with respect to the energy use or efficiency of such commercial warm air furnaces must be made in accordance with whichever version is selected.
 
 (b) *Testing.* Where this section prescribes use of ANSI Z21.47 or UL 727-2006 (incorporated by reference, see § 431.75), perform only the procedures pertinent to the measurement of the steady-state efficiency, as specified in paragraph (c) of this section.
