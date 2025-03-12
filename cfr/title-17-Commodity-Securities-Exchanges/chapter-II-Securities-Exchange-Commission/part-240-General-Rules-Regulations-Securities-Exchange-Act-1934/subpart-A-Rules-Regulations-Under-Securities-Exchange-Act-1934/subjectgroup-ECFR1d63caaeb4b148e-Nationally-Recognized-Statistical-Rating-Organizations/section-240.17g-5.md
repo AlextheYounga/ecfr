@@ -1,7 +1,5 @@
 ##### § 240.17g-5 Conflicts of interest. #####
 
-Link to an amendment published at 84 FR 40258, Aug. 14, 2019.
-
 (a) A person within a nationally recognized statistical rating organization is prohibited from having a conflict of interest relating to the issuance or maintenance of a credit rating identified in paragraph (b) of this section, unless:
 
 (1) The nationally recognized statistical rating organization has disclosed the type of conflict of interest in Exhibit 6 to Form NRSRO in accordance with section 15E(a)(1)(B)(vi) of the Act (15 U.S.C. 78o-7(a)(1)(B)(vi)) and § 240.17g-1;
@@ -33,6 +31,12 @@ Link to an amendment published at 84 FR 40258, Aug. 14, 2019.
 (D) Post on such password-protected Internet Web site all information the issuer, sponsor, or underwriter provides to the nationally recognized statistical rating organization, or contracts with a third party to provide to the nationally recognized statistical rating organization, for the purpose of undertaking credit rating surveillance on the security or money market instrument, including information about the characteristics and performance of the assets underlying or referenced by the security or money market instrument at the same time such information is provided to the nationally recognized statistical rating organization.
 
 (E) Post on such password-protected Internet Web site, promptly after receipt, any executed Form ABS Due Diligence-15E (§ 249b.500 of this chapter) containing information about the security or money market instrument delivered by a person employed to provide third-party due diligence services with respect to the security or money market instrument.
+
+(iv) The provisions of paragraphs (a)(3)(i) through (iii) of this section will not apply to a nationally recognized statistical rating organization when issuing or maintaining a credit rating for a security or money market instrument issued by an asset pool or as part of any asset-backed securities transaction, if:
+
+(A) The issuer of the security or money market instrument is not a U.S. person (as defined in § 230.902(k) of this chapter); and
+
+(B) The nationally recognized statistical rating organization has a reasonable basis to conclude that all offers and sales of the security or money market instrument by any issuer, sponsor, or underwriter linked to the security or money market instrument will occur outside the United States (as that phrase is used in §§ 230.901 through 230.905 (Regulation S) of this chapter).
 
 (b) *Conflicts of interest.* For purposes of this section, each of the following is a conflict of interest:
 
@@ -88,4 +92,4 @@ The undersigned hereby certifies that it will access the Internet Web sites desc
 
 (g) In a proceeding pursuant to section 15E(d)(1) of the Act (15 U.S.C. 78o-7(d)(1)), the Commission shall suspend or revoke the registration of a nationally recognized statistical rating organization if the Commission finds, in lieu of a finding specified under sections 15E(d)(1)(A), (B), (C), (D), (E), or (F) of the Act (15 U.S.C. 78o-7(d)(1)(A) through (F)), that the nationally recognized statistical rating organization has violated a rule issued under section 15E(h) of the Act (15 U.S.C. 78o-7(h)) and that the violation affected a credit rating.
 
-[72 FR 33620, June 18, 2007, as amended at 74 FR 6482, Feb. 9, 2009; 74 FR 63864, Dec. 4, 2009; 79 FR 55264, Sept. 15, 2014; 79 FR 61576, Oct. 14, 2014]
+[72 FR 33620, June 18, 2007, as amended at 74 FR 6482, Feb. 9, 2009; 74 FR 63864, Dec. 4, 2009; 79 FR 55264, Sept. 15, 2014; 79 FR 61576, Oct. 14, 2014; 84 FR 40258, Sept. 13, 2019]
