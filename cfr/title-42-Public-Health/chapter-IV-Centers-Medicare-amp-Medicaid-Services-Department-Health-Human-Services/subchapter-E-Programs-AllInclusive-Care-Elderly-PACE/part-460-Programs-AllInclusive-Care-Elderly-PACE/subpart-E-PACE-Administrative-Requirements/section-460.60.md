@@ -1,5 +1,7 @@
 ##### § 460.60 PACE organizational structure. #####
 
+Link to an amendment published at 84 FR 25673, June 3, 2019.
+
 (a) A PACE organization must be, or be a distinct part of, one of the following:
 
 (1) An entity of city, county, State, or Tribal government.

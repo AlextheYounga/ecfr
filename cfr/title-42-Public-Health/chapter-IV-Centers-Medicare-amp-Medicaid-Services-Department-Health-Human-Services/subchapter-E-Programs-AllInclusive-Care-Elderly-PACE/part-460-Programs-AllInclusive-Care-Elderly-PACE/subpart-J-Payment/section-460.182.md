@@ -1,5 +1,7 @@
 ##### § 460.182 Medicaid payment. #####
 
+Link to an amendment published at 84 FR 25677, June 3, 2019.
+
 (a) Under a PACE program agreement, the State administering agency makes a prospective monthly payment to the PACE organization of a capitation amount for each Medicaid participant.
 
 (b) The monthly capitation payment amount is negotiated between the PACE organization and the State administering agency, and specified in the PACE program agreement. The amount represents the following:

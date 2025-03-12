@@ -1,5 +1,7 @@
 ##### § 460.134 Minimum requirements for quality assessment and performance improvement program. #####
 
+Link to an amendment published at 84 FR 25676, June 3, 2019.
+
 (a) *Minimum program requirements.* A PACE organization's quality assessment and performance improvement program must include, but is not limited to, the use of objective measures to demonstrate improved performance with regard to the following:
 
 (1) Utilization of PACE services, such as decreased inpatient hospitalizations and emergency room visits.

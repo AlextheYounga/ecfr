@@ -1,5 +1,7 @@
 ##### § 460.150 Eligibility to enroll in a PACE program. #####
 
+Link to an amendment published at 84 FR 25676, June 3, 2019.
+
 (a) *General rule.* To enroll in a PACE program, an individual must meet eligibility requirements specified in this section. To continue to be eligible for PACE, an individual must meet the annual recertification requirements specified in § 460.160.
 
 (b) *Basic eligibility requirements.* To be eligible to enroll in PACE, an individual must meet the following requirements:

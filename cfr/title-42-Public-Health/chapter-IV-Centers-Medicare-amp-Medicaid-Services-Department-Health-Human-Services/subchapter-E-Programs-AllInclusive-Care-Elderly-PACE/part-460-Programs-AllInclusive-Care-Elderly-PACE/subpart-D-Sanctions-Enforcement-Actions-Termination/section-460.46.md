@@ -1,5 +1,7 @@
 ##### § 460.46 Civil money penalties. #####
 
+Link to an amendment published at 84 FR 25672, June 3, 2019.
+
 (a) CMS may impose civil money penalties up to the following maximum amounts:
 
 (1) For each violation regarding enrollment or disenrollment specified in § 460.40 (c) or (d), $100,000 plus $15,000 for each individual not enrolled as a result of the PACE organization's discrimination in enrollment or disenrollment or practice that would deny or discourage enrollment.

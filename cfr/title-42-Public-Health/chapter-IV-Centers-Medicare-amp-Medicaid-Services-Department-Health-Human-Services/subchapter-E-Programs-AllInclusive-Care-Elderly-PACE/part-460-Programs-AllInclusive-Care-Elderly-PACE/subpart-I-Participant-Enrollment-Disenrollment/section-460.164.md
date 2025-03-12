@@ -1,5 +1,7 @@
 ##### § 460.164 Involuntary disenrollment. #####
 
+Link to an amendment published at 84 FR 25676, June 3, 2019.
+
 (a) *Reasons for involuntary disenrollment.* A participant may be involuntarily disenrolled for any of the following reasons:
 
 (1) The participant fails to pay, or to make satisfactory arrangements to pay, any premium due the PACE organization after a 30-day grace period.

@@ -1,5 +1,7 @@
 ##### § 460.100 Emergency care. #####
 
+Link to an amendment published at 84 FR 25674, June 3, 2019.
+
 (a) *Written plan.* A PACE organization must establish and maintain a written plan to handle emergency care. The plan must ensure that CMS, the State, and PACE participants are held harmless if the PACE organization does not pay for emergency services.
 
 (b) *Emergency care.* Emergency care is appropriate when services are needed immediately because of an injury or sudden illness and the time required to reach the PACE organization or one of its contract providers, would cause risk of permanent damage to the participant's health. Emergency services include inpatient and outpatient services that meet the following requirements:

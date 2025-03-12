@@ -1,5 +1,7 @@
 ##### § 460.64 Personnel qualifications for staff with direct participant contact. #####
 
+Link to an amendment published at 84 FR 25673, June 3, 2019.
+
 (a) *General qualification requirements.* Each member of the PACE organization's staff that has direct participant contact, (employee or contractor) must meet the following conditions:
 
 (1) Be legally authorized (for example, currently licensed, registered or certified if applicable) to practice in the State in which he or she performs the function or action;

@@ -1,5 +1,7 @@
 ##### § 460.172 Documentation of disenrollment. #####
 
+Link to an amendment published at 84 FR 25677, June 3, 2019.
+
 A PACE organization must meet the following requirements:
 
 (a) Have a procedure in place to document the reasons for all voluntary and involuntary disenrollments.

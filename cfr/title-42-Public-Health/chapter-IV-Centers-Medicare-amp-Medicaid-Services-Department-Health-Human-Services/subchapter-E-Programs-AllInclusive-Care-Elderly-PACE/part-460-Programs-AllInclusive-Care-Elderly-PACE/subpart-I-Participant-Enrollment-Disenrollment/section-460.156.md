@@ -1,5 +1,7 @@
 ##### § 460.156 Other enrollment procedures. #####
 
+Link to an amendment published at 84 FR 25676, June 3, 2019.
+
 (a) *Items a PACE organization must give a participant upon enrollment.* After the participant signs the enrollment agreement, the PACE organization must give the participant the following:
 
 (1) A copy of the enrollment agreement.

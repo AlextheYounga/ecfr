@@ -1,5 +1,7 @@
 ##### § 460.136 Internal quality assessment and performance improvement activities. #####
 
+Link to an amendment published at 84 FR 25676, June 3, 2019.
+
 (a) *Quality assessment and performance improvement requirements.* A PACE organization must do the following:
 
 (1) Use a set of outcome measures to identify areas of good or problematic performance.

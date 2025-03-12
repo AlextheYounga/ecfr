@@ -1,5 +1,7 @@
 ##### § 460.82 Marketing. #####
 
+Link to an amendment published at 84 FR 25674, June 3, 2019.
+
 (a) *Information that a PACE organization must include in its marketing materials.* (1) A PACE organization must inform the public about its program and give prospective participants the following written information:
 
 (i) An adequate description of the PACE organization's enrollment and disenrollment policies and requirements.

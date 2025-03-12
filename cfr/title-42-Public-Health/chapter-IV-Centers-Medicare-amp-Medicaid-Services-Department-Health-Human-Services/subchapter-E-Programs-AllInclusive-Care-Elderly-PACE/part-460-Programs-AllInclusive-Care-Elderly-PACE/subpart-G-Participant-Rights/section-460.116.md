@@ -1,5 +1,7 @@
 ##### § 460.116 Explanation of rights. #####
 
+Link to an amendment published at 84 FR 25675, June 3, 2019.
+
 (a) *Written policies.* A PACE organization must have written policies and implement procedures to ensure that the participant, his or her representative, if any, and staff understand these rights.
 
 (b) *Explanation of rights.* The PACE organization must fully explain the rights to the participant and his or her representative, if any, at the time of enrollment in a manner understood by the participant.

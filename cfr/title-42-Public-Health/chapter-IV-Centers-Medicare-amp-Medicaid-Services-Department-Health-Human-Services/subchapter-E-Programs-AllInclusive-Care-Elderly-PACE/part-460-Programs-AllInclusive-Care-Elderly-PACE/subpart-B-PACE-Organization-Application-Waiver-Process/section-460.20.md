@@ -1,5 +1,7 @@
 ##### § 460.20 Notice of CMS determination. #####
 
+Link to an amendment published at 84 FR 25672, June 3, 2019.
+
 (a) *Time limit for notification of determination.* Within 90 days after an entity submits a complete application to CMS, CMS takes one of the following actions:
 
 (1) Approves the application.

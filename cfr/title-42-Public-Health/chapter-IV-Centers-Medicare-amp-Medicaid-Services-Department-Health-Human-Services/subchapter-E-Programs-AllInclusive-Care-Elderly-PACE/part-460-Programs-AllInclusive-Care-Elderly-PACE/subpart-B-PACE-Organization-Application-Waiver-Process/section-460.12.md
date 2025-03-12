@@ -1,5 +1,7 @@
 ##### § 460.12 Application requirements. #####
 
+Link to an amendment published at 84 FR 25671, June 3, 2019.
+
 (a) *General.* (1) An individual authorized to act for the entity must submit to CMS a complete application that describes how the entity meets all requirements in this part.
 
 (2) CMS accepts applications from entities that seek approval as PACE organizations beginning on February 22, 2000 except for the following:

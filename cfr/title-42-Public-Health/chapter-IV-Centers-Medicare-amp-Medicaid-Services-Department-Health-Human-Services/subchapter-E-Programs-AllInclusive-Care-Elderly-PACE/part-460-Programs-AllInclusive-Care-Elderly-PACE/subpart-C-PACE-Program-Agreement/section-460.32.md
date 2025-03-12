@@ -1,5 +1,7 @@
 ##### § 460.32 Content and terms of PACE program agreement. #####
 
+Link to an amendment published at 84 FR 25672, June 3, 2019.
+
 (a) *Required content.* A PACE program agreement must include the following information:
 
 (1) A designation of the service area of the organization's program. The area may be identified by county, zip code, street boundaries, census tract, block, or tribal jurisdictional area, as applicable. CMS and the State administering agency must approve any change in the designated service area.

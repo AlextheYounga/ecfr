@@ -1,5 +1,7 @@
 ##### § 460.106 Plan of care. #####
 
+Link to an amendment published at 84 FR 25675, June 3, 2019.
+
 (a) *Basic requirement.* The interdisciplinary team must promptly develop a comprehensive plan of care for each participant.
 
 (b) *Content of plan of care.* The plan of care must meet the following requirements:

@@ -1,5 +1,7 @@
 ##### § 460.28 Notice of CMS determination on waiver requests. #####
 
+Link to an amendment published at 84 FR 25672, June 3, 2019.
+
 (a) *Time limit for notification of determination.* Within 90 days after receipt of a waiver request, CMS takes one of the following actions:
 
 (1) Approves the request.

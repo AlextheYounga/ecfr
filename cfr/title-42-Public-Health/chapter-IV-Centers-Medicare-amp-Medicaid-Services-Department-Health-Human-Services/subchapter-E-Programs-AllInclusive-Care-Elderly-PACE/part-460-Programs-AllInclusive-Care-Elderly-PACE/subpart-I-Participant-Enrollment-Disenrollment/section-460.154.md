@@ -1,5 +1,7 @@
 ##### § 460.154 Enrollment agreement. #####
 
+Link to an amendment published at 84 FR 25676, June 3, 2019.
+
 If the potential participant meets the eligibility requirements and wants to enroll, he or she must sign an enrollment agreement which contains, at a minimum, the following information:
 
 (a) Applicant's name, sex, and date of birth.

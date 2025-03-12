@@ -1,5 +1,7 @@
 ##### § 460.102 Interdisciplinary team. #####
 
+Link to an amendment published at 84 FR 25674, June 3, 2019.
+
 (a) *Basic requirement.* A PACE organization must meet the following requirements:
 
 (1) Establish an interdisciplinary team at each Pace center to comprehensively assess and meet the individual needs of each participant.

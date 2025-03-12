@@ -1,5 +1,7 @@
 ##### § 460.26 Submission and evaluation of waiver requests. #####
 
+Link to an amendment published at 84 FR 25672, June 3, 2019.
+
 (a)(1) A PACE organization must submit its waiver request through the State administering agency for initial review. The State administering agency forwards waiver requests to CMS along with any concerns or conditions regarding the waiver.
 
 (2) Entities submitting an application to become a PACE organization may submit a waiver request. The entity must submit its waiver request through the State administering agency for initial review. The State administering agency forwards the waiver requests to CMS along with any concerns or conditions regarding the waiver. The waiver request is submitted as a document separate from the application but may be submitted in conjunction with and at the same time as the application.

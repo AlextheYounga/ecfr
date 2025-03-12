@@ -1,5 +1,7 @@
 ##### § 460.62 Governing body. #####
 
+Link to an amendment published at 84 FR 25673, June 3, 2019.
+
 (a) *Governing body.* A PACE organization must be operating under the control of an identifiable governing body (for example, a board of directors) or a designated person functioning as a governing body with full legal authority and responsibility for the following:
 
 (1) Governance and operation of the organization.

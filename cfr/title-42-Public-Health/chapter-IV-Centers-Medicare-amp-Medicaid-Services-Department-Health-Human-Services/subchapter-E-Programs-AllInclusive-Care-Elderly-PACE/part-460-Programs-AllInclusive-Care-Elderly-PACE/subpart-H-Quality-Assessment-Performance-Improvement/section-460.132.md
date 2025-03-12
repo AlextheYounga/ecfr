@@ -1,5 +1,7 @@
 ##### § 460.132 Quality assessment and performance improvement plan. #####
 
+Link to an amendment published at 84 FR 25676, June 3, 2019.
+
 (a) *Basic rule.* A PACE organization must have a written quality assessment and performance improvement plan.
 
 (b) *Annual review.* The PACE governing body must review the plan annually and revise it, if necessary.

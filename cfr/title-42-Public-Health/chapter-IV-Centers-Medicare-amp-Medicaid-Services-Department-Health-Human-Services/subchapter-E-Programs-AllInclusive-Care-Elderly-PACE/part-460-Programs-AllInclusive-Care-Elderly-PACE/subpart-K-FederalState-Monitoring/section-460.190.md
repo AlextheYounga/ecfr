@@ -1,5 +1,7 @@
 ##### § 460.190 Monitoring during trial period. #####
 
+Link to an amendment published at 84 FR 25677, June 3, 2019.
+
 (a) *Trial period review.* During the trial period, CMS, in cooperation with the State administering agency, conducts comprehensive annual reviews of the operations of a PACE organization to ensure compliance with the requirements of this part.
 
 (b) *Scope of review.* The review includes the following:

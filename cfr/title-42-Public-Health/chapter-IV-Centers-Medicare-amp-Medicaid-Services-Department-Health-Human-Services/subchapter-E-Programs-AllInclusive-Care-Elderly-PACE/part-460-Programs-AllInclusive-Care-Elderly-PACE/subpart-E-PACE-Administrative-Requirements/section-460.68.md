@@ -1,5 +1,7 @@
 ##### § 460.68 Program integrity. #####
 
+Link to an amendment published at 84 FR 25673, June 3, 2019.
+
 (a) *Persons with criminal convictions.* A PACE organization must not employ individuals or contract with organizations or individuals -
 
 (1) Who have been excluded from participation in the Medicare or Medicaid programs;

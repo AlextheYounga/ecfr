@@ -1,5 +1,7 @@
 ##### § 460.166 Effective date of disenrollment. #####
 
+Link to an amendment published at 84 FR 25677, June 3, 2019.
+
 (a) In disenrolling a participant, the PACE organization must take the following actions:
 
 (1) Use the most expedient process allowed under Medicare and Medicaid procedures, as set forth in the PACE program agreement.

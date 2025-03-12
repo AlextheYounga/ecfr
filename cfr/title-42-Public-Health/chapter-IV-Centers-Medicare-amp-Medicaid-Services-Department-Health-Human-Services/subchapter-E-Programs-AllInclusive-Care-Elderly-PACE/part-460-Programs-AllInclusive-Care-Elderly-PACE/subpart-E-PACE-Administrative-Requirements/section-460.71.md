@@ -1,5 +1,7 @@
 ##### § 460.71 Oversight of direct participant care. #####
 
+Link to an amendment published at 84 FR 25674, June 3, 2019.
+
 (a) The PACE organization must ensure that all employees and contracted staff furnishing care directly to participants demonstrate the skills necessary for performance of their position.
 
 (1) The PACE organization must provide each employee and all contracted staff with an orientation. The orientation must include at a minimum the organization's mission, philosophy, policies on participant rights, emergency plan, ethics, the PACE benefit, and any policies related to the job duties of specific staff.
