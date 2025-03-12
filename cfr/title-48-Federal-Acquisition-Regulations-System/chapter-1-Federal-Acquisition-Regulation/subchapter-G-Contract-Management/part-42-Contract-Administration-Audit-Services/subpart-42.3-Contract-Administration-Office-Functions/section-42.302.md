@@ -1,7 +1,5 @@
 ##### 42.302 Contract administration functions. #####
 
-Link to an amendment published at 85 FR 67615, Oct. 23, 2020.
-
 (a) The contracting officer normally delegates the following contract administration functions to a CAO. The contracting officer may retain any of these functions, except those in paragraphs (a)(5), (a)(9), (a)(11), and (a)(12) of this section, unless the cognizant Federal agency (see 2.101) has designated the contracting officer to perform these functions.
 
 (1) Review the contractor's compensation structure.
@@ -24,7 +22,7 @@ Link to an amendment published at 85 FR 67615, Oct. 23, 2020.
 
 (10) Attempt to resolve issues in controversy, using ADR procedures when appropriate (see subpart 33.2); prepare findings of fact and issue decisions under the Disputes clause on matters in which the administrative contracting officer (ACO) has the authority to take definitive action.
 
-(11) In connection with Cost Accounting Standards (see 48 CFR 30.601 and 48 CFR Chapter 99 (FAR Appendix)) -
+(11) In connection with Cost Accounting Standards (see 48 CFR 30.601 and 48 CFR chapter 99)—
 
 (i) Determine the adequacy of the contractor's disclosure statements;
 
@@ -70,7 +68,7 @@ Link to an amendment published at 85 FR 67615, Oct. 23, 2020.
 
 (29) Issue contract modifications requiring the contractor to provide packing, crating, and handling services on excess Government property. When the ACO determines it to be in the Government's interests, the services may be secured from a contractor other than the contractor in possession of the property.
 
-(30) When contractors request Government property -
+(30) When contractors request Government property—
 
 (i) Evaluate the contractor's requests for Government property and for changes to existing Government property and provide appropriate recommendations to the contracting officer;
 
@@ -156,7 +154,7 @@ Link to an amendment published at 85 FR 67615, Oct. 23, 2020.
 
 (67) Support the program, product, and project offices regarding program reviews, program status, program performance and actual or anticipated program problems.
 
-(68) Monitor the contractor's environmental practices for adverse impact on contract performance or contract cost, and for compliance with environmental requirements specified in the contract. ACO responsibilities include -
+(68) Monitor the contractor's environmental practices for adverse impact on contract performance or contract cost, and for compliance with environmental requirements specified in the contract. ACO responsibilities include—
 
 (i) Requesting environmental technical assistance, if needed;
 

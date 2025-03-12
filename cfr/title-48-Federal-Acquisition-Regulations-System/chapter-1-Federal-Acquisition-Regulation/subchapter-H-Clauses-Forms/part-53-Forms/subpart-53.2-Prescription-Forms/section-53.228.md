@@ -1,7 +1,5 @@
 ##### 53.228 Bonds and insurance. #####
 
-Link to an amendment published at 85 FR 67629, Oct. 23, 2020.
-
 The following standard forms are prescribed for use for bond and insurance requirements, as specified in part 28. These forms can be found at the GSA Forms Library at *https://www.gsa.gov/forms.* All the following forms are authorized for local reproduction, except for SF 25B.
 
 (a) SF 24 (Rev. 8/2016) Bid Bond. (See 28.106-1.)
@@ -18,11 +16,11 @@ The following standard forms are prescribed for use for bond and insurance requi
 
 (g) SF 35 (Rev. 8/2016) Annual Performance Bond. (See 28.106-1.)
 
-(h) SF 273 (Rev. 4/2013) Reinsurance Agreement for a Bonds statute Performance Bond. (See 28.106-1(h) and 28.202-1(a)(4).)
+(h) SF 273 (Rev. 4/2013) Reinsurance Agreement for a Bonds statute Performance Bond. (See 28.106-1(h) and 28.202(a)(4).)
 
-(i) SF 274 (Rev. 4/2013) Reinsurance Agreement for a Bonds statute Payment Bond. (See 28.106-1(i) and 28.202-1(a)(4).)
+(i) SF 274 (Rev. 4/2013) Reinsurance Agreement for a Bonds statute Payment Bond. (See 28.106-1(i) and 28.202(a)(4).)
 
-(j) SF 275 (Rev. 10/1998) Reinsurance Agreement in Favor of the United States. (See 28.106-1(j) and 28.202-1(a)(4).)
+(j) SF 275 (Rev. 10/1998) Reinsurance Agreement in Favor of the United States. (See 28.106-1(j) and 28.202(a)(4).)
 
 (k) SF 1414 (Rev. 05/1997), Consent of Surety.
 
@@ -36,4 +34,4 @@ The following standard forms are prescribed for use for bond and insurance requi
 
 (p) OF 91 (Rev. 1/1990), Release of Personal Property from Escrow. (See 28.106-1(p) and 28.203-5(a).)
 
-[83 FR 42576, Aug. 22, 2018]
+[83 FR 42576, Aug. 22, 2018, as amended at 85 FR 67629, Oct. 23, 2020]

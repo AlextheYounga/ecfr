@@ -1,26 +1,24 @@
 ##### 12.503 Applicability of certain laws to Executive agency contracts for the acquisition of commercial items. #####
 
-Link to an amendment published at 85 FR 67621, Oct. 23, 2020.
-
 (a) The following laws are not applicable to Executive agency contracts for the acquisition of commercial items:
 
-(1) 41 U.S.C. chapter 65, Contracts for Materials, Supplies, Articles, and Equipment Exceeding $10,000 (see subpart 22.6).
+(1) 10 U.S.C. 983, Institutions of Higher Education that Prevent ROTC Access or Military Recruiting on Campus: Denial of Grants and Contracts from Department of Defense, Department of Education, and Certain Other Departments and Agencies (see 9.110).
 
-(2) 41 U.S.C. 3901(b) and 10 U.S.C. 2306(b), Contingent Fees (see 3.404).
+(2) 31 U.S.C. 1354(a), Limitation on Use of Appropriated Funds for Contracts with Entities Not Meeting Veterans' Employment Reporting Requirements (see 22.1302).
 
 (3) 41 U.S.C. 1708(e)(3), Minimum Response Time for Offers (see 5.203).
 
-(4) 41 U.S.C. chapter 81, Drug-Free Workplace (see 23.501).
+(4) 41 U.S.C. 2303(b), Policy on Personal Conflicts of Interest by Contractor Employees (see subpart 3.11).
 
-(5) 31 U.S.C. 1354(a), Limitation on use of appropriated funds for contracts with entities not meeting veterans employment reporting requirements (see 22.1302).
+(5) 41 U.S.C. 3901(b) and 10 U.S.C. 2306(b), Contingent Fees (see 3.404).
 
-(6) [Reserved]
+(6) 41 U.S.C. 4706(d)(1) and 10 U.S.C. 2313(c)(1), GAO Access to Contractor Employees, section 871 of Public Law 110-417 (see 52.214-26 and 52.215-2).
 
-(7) Section 806(a)(3) of Pub. L. 102-190, as amended by sections 2091 and 8105 of Pub. L. 103-355 (10 U.S.C. 2302 note), Payment Protections for Subcontractors and Suppliers (see 28.106-6).
+(7) 41 U.S.C. chapter 65, Contracts for Materials, Supplies, Articles, and Equipment Exceeding $10,000 (see subpart 22.6).
 
-(8) 41 U.S.C. 4706(d)(1) and 10 U.S.C. 2313(c)(1), GAO Access to Contractor Employees, section 871 of Pub. L. 110-417 (see 52.214-26 and 52.215-2).
+(8) 41 U.S.C. chapter 81, Drug-Free Workplace (see 23.501).
 
-(9) 41 U.S.C. 2303(b), Policy on Personal Conflicts of Interest by Contractor Employees (see subpart 3.11).
+(9) Section 806(a)(3) of Public Law 102-190, as amended by sections 2091 and 8105 of Public Law 103-355 (10 U.S.C. 2302 note), Payment Protections for Subcontractors and Suppliers (see 28.106-6).
 
 (b) Certain requirements of the following laws are not applicable to executive agency contracts for the acquisition of commercial items:
 

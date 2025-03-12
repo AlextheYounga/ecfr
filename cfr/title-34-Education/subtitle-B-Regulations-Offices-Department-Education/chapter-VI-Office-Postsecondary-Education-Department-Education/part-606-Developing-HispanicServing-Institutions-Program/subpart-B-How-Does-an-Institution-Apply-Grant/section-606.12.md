@@ -1,23 +1,19 @@
-##### § 606.12 What must be included in cooperative arrangement grant applications? #####
+##### § 606.12 What must be included in individual development grant applications? #####
 
-Link to an amendment published at 85 FR 59981, Sept. 23, 2020.
+In addition to the information needed by the Secretary to determine whether the institution should be awarded a grant under the funding criteria contained in subpart C, an application for a development grant must include—
 
-(a)(1) Institutions applying for a cooperative arrangement grant shall submit only one application for that grant regardless of the number of institutions participating in the cooperative arrangement.
+(a) The institution's comprehensive development plan;
 
-(2) The application must include the names of each participating institution, the role of each institution, and the rationale for each eligible participating institution's decision to request grant funds as part of a cooperative arrangement rather than as an individual grantee.
+(b) A description of the relationship of each activity for which grant funds are requested to the relevant goals and objectives of its plan;
 
-(b) If the application is for a development grant, the application must contain -
+(c) A description of any activities that were funded under previous development grants awarded under the Developing Hispanic-Serving Institutions Program that expired within five years of when the development grant will begin and the institution's justification for not completing the activities under the previous grant, if applicable;
 
-(1) Each participating institution's comprehensive development plan;
+(d) If the applicant is applying to carry out more than one activity—
 
-(2) The information required under § 606.11; and
+(1) A description of those activities that would be a sound investment of Federal funds if funded separately;
 
-(3) An explanation from each eligible participating institution of why participation in a cooperative arrangement grant rather than performance under an individual grant will better enable it to meet the goals and objectives of its comprehensive development plan at a lower cost.
+(2) A description of those activities that would be a sound investment of Federal funds only if funded with the other activities; and
 
-(4) The name of the applicant for the group that is legally responsible for -
+(3) A ranking of the activities in preferred funding order.
 
-(i) The use of all grant funds; and
-
-(ii) Ensuring that the project is carried out by the group in accordance with Federal requirements.
-
-(Approved by the Office of Management and Budget under control number 1840-0114)(Authority: 20 U.S.C. 1103 and 1103e)
+(Approved by the Office of Management and Budget under control number 1840-0114)(Authority: 20 U.S.C. 1101 *et seq.*)[64 FR 70147, Dec. 15, 1999. Redesignated at 85 FR 59981, Sept. 23, 2020]

@@ -1,14 +1,12 @@
 ##### § 606.10 What activities may and may not be carried out under a grant? #####
 
-Link to an amendment published at 85 FR 59981, Sept. 23, 2020.
-
-(a) *Planning grants.* Under a planning grant, a grantee shall formulate -
+(a) *Planning grants.* Under a planning grant, a grantee shall formulate—
 
 (1) A comprehensive development plan described in § 606.8; and
 
 (2) An application for a development grant.
 
-(b) *Development grants - allowable activities.* Under a development grant, except as provided in paragraph (c) of this section, a grantee shall carry out activities that implement its comprehensive development plan and hold promise for strengthening the institution. Activities that may be carried out include, but are not limited to -
+(b) *Development grants—allowable activities.* Under a development grant, except as provided in paragraph (c) of this section, a grantee shall carry out activities that implement its comprehensive development plan and hold promise for strengthening the institution. Activities that may be carried out include, but are not limited to—
 
 (1) Purchase, rental, or lease of scientific or laboratory equipment for educational purposes, including instructional and research purposes.
 
@@ -38,15 +36,15 @@ Link to an amendment published at 85 FR 59981, Sept. 23, 2020.
 
 (14) Other activities that contribute to carrying out the purposes of this program.
 
-(c) *Development grants - unallowable activities.* A grantee may not carry out the following activities or pay the following costs under a development grant:
+(c) *Development grants—unallowable activities.* A grantee may not carry out the following activities or pay the following costs under a development grant:
 
 (1) Activities that are not included in the grantee's approved application.
 
 (2) Activities that are inconsistent with any State plan for higher education that is applicable to the institution, including, but not limited to, a State plan for desegregation of higher education.
 
-(3) Activities or services that relate to sectarian instruction or religious worship.
+(3) Activities or services that constitute religious instruction, religious worship, or proselytization.
 
-(4) Activities provided by a school or department of divinity. For the purpose of this provision, a “school or department of divinity” means an institution, or a department of an institution, whose program is specifically for the education of students to prepare them to become ministers of religion or to enter into some other religious vocation or to prepare them to teach theological subjects.
+(4) Activities provided by a school or department of divinity. For the purpose of this provision, a “school or department of divinity” means an institution, or a department of an institution, whose program is solely to prepare students to become ministers of religion or to enter into some other religious vocation.
 
 (5) Developing or improving non-degree or non-credit courses other than basic skills development courses.
 
@@ -70,7 +68,7 @@ Link to an amendment published at 85 FR 59981, Sept. 23, 2020.
 
 (15) Activities that are operational in nature rather than developmental in nature.
 
-(d) *Endowment funds.* If a grantee uses part of its grant funds to establish or increase an endowment fund, it must comply with the provisions of §§ 628.3, 628.6, 628.10, and 628.41 through 628.47 of this chapter with regard to the use of those funds, except -
+(d) *Endowment funds.* If a grantee uses part of its grant funds to establish or increase an endowment fund, it must comply with the provisions of §§ 628.3, 628.6, 628.10, and 628.41 through 628.47 of this chapter with regard to the use of those funds, except—
 
 (1) The definition of the term “endowment fund income” in § 628.6 of this chapter does not apply. For the purposes of this paragraph (d), “endowment fund income” means an amount equal to the total value of the fund, including fund appreciation and retained interest and dividends, minus the endowment fund corpus;
 
@@ -78,4 +76,4 @@ Link to an amendment published at 85 FR 59981, Sept. 23, 2020.
 
 (3) Instead of the requirements in § 628.41(a)(3) through (a)(5) and the introductory text in § 628.41(b) and § 628.41(b)(2) and (b)(3) of this chapter, if a grantee institution decides to use any of its grant funds for endowment purposes, it must match those grant funds immediately with non-Federal funds when it places those funds into its endowment fund.
 
-(Authority: 20 U.S.C. 1101 *et seq.*)[64 FR 70147, Dec. 15, 1999, as amended at 65 FR 79310, Dec. 19, 2000]
+(Authority: 20 U.S.C. 1101 *et seq.*)[64 FR 70147, Dec. 15, 1999, as amended at 65 FR 79310, Dec. 19, 2000; 85 FR 59981, Sept. 23, 2020]

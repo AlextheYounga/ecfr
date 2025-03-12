@@ -1,7 +1,5 @@
 ##### § 64.6060 Annual reporting and certification requirement. #####
 
-Link to an amendment published at 85 FR 67462, Oct. 23, 2020.
-
 (a) Providers must submit a report to the Commission, by April 1st of each year, regarding interstate, intrastate, and international Inmate Calling Services for the prior calendar year. The report shall be categorized both by facility type and size and shall contain:
 
 (1) Current interstate, intrastate, and international rates for Inmate Calling Services;
@@ -10,7 +8,7 @@ Link to an amendment published at 85 FR 67462, Oct. 23, 2020.
 
 (3) The Monthly amount of each Site Commission paid;
 
-(4) Minutes of use, per-minute rates and ancillary service charges for video visitation services;
+(4)[Reserved]
 
 (5) The number of TTY-based Inmate Calling Services calls provided per facility during the reporting period;
 
@@ -20,4 +18,4 @@ Link to an amendment published at 85 FR 67462, Oct. 23, 2020.
 
 (b) An officer or director of the reporting Provider must certify that the reported information and data are accurate and complete to the best of his or her knowledge, information, and belief.
 
-[80 FR 79179, Dec. 18, 2015]
+[80 FR 79179, Dec. 18, 2015, as amended at 85 FR 67462, Oct. 23, 2020]

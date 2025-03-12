@@ -1,8 +1,6 @@
 ##### § 121.404 When is the size status of a business concern determined? #####
 
-(a) *Time of size*
-
-(1) *Multiple award contracts.* With respect to Multiple Award Contracts, orders issued against a Multiple Award Contract, and Blanket Purchase Agreements issued against a Multiple Award Contract:
+(a) *Time of size* - (1) *Multiple award contracts.* With respect to Multiple Award Contracts, orders issued against a Multiple Award Contract, and Blanket Purchase Agreements issued against a Multiple Award Contract:
 
 (i) *Single NAICS.* If a single NAICS code is assigned as set forth in § 121.402(c)(1)(i), SBA determines size status for the underlying Multiple Award Contract at the time of initial offer (or other formal response to a solicitation), which includes price, based upon the size standard set forth in the solicitation for the Multiple Award Contract, unless the concern was required to recertify under paragraph (g)(1), (2), or (3) of this section.
 

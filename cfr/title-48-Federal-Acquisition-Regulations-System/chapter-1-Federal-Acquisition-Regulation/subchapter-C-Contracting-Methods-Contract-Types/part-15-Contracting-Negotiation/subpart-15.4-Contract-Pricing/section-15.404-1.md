@@ -1,7 +1,5 @@
 ##### 15.404-1 Proposal analysis techniques. #####
 
-Link to an amendment published at 85 FR 67614, Oct. 23, 2020.
-
 (a) *General.* The objective of proposal analysis is to ensure that the final agreed-to price is fair and reasonable.
 
 (1) The contracting officer is responsible for evaluating the reasonableness of the offered prices. The analytical techniques and procedures described in this section may be used, singly or in combination with others, to ensure that the final price is fair and reasonable. The complexity and circumstances of each acquisition should determine the level of detail of the analysis required.
@@ -76,7 +74,7 @@ Link to an amendment published at 85 FR 67614, Oct. 23, 2020.
 
 (E) Forecasts of planned expenditures.
 
-(iv) Verification that the offeror's cost submissions are in accordance with the contract cost principles and procedures in part 31 and, when applicable, the requirements and procedures in 48 CFR Chapter 99 (Appendix to the FAR looseleaf edition), Cost Accounting Standards.
+(iv) Verification that the offeror's cost submissions are in accordance with the contract cost principles and procedures in part 31 and, when applicable, the requirements and procedures in 48 CFR chapter 99), Cost Accounting Standards.
 
 (v) Review to determine whether any cost data or pricing data, necessary to make the offeror's proposal suitable for negotiation, have not been either submitted or identified in writing by the offeror. If there are such data, the contracting officer shall attempt to obtain and use them in the negotiations or make satisfactory allowance for the incomplete data.
 
@@ -130,4 +128,4 @@ Link to an amendment published at 85 FR 67614, Oct. 23, 2020.
 
 (3) Contract actions awarded pursuant to subparts 19.5, 19.8, 19.13, 19.14, or 19.15 are exempt from the requirements of this paragraph (h) (see section 1615 of the National Defense Authorization Act for Fiscal Year 2014 (Pub. L. 113-66)).
 
-[62 FR 51230, Sept. 30, 1997, as amended at 63 FR 58602, Oct. 30, 1998; 64 FR 51837, Sept. 24, 1999; 65 FR 16286, Mar. 27, 2000; 71 FR 67779, Nov. 22, 2006; 72 FR 27384, May 15, 2007; 73 FR 54016, Sept. 17, 2008; 75 FR 53145, Aug. 30, 2010; 77 FR 56744, Sept. 13, 2012; 78 FR 37692, June 21, 2013; 79 FR 24201, Apr. 29, 2014; 80 FR 26425, May 7, 2015; 82 FR 4713, Jan. 13, 2017; 84 FR 27497, June 12, 2019]
+[62 FR 51230, Sept. 30, 1997, as amended at 63 FR 58602, Oct. 30, 1998; 64 FR 51837, Sept. 24, 1999; 65 FR 16286, Mar. 27, 2000; 71 FR 67779, Nov. 22, 2006; 72 FR 27384, May 15, 2007; 73 FR 54016, Sept. 17, 2008; 75 FR 53145, Aug. 30, 2010; 77 FR 56744, Sept. 13, 2012; 78 FR 37692, June 21, 2013; 79 FR 24201, Apr. 29, 2014; 80 FR 26425, May 7, 2015; 82 FR 4713, Jan. 13, 2017; 84 FR 27497, June 12, 2019; 85 FR 67614, Oct. 23, 2020]

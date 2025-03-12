@@ -1,3 +1,5 @@
-##### 76.784 xxx #####
+##### § 76.784 Severability. #####
 
-Link to an amendment published at 85 FR 59980, Sept. 23, 2020.
+If any provision of this subpart or its application to any person, act, or practice is held invalid, the remainder of the subpart or the application of its provisions to any person, act, or practice shall not be affected thereby.
+
+(Authority: 20 U.S.C. 1221e-3 and 3474)[85 FR 59980, Sept. 23, 2020]

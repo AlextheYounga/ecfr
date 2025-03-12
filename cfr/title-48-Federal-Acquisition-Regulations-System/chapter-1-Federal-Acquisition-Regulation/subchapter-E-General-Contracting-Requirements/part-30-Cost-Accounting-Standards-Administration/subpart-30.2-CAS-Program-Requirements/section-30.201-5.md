@@ -1,7 +1,5 @@
 ##### 30.201-5 Waiver. #####
 
-Link to an amendment published at 85 FR 67614, Oct. 23, 2020.
-
 (a) The head of the agency -
 
 (1) May waive the applicability of CAS for a particular contract or subcontract under the conditions listed in paragraph (b) of this subsection; and
@@ -44,8 +42,8 @@ Link to an amendment published at 85 FR 67614, Oct. 23, 2020.
 
 (10) Any other information that may be useful in evaluating the request.
 
-(d) When neither of the conditions in paragraph (b) of this subsection exists, the waiver request must be prepared in accordance with 48 CFR 9903.201-5(e) (FAR Appendix) and submitted to the CAS Board.
+(d) When neither of the conditions in paragraph (b) of this subsection exists, the waiver request must be prepared in accordance with 48 CFR 9903.201-5(e) and submitted to the CAS Board.
 
 (e) Each agency must report any waivers granted under paragraph (a) of this subsection to the CAS Board, on a fiscal year basis, not later than 90 days after the close of the Government's fiscal year.
 
-[65 FR 36030, June 6, 2000, as amended at 75 FR 53149, Aug. 30, 2010]
+[65 FR 36030, June 6, 2000, as amended at 75 FR 53149, Aug. 30, 2010; 85 FR 67614, Oct. 23, 2020]

@@ -1,8 +1,12 @@
-##### 22.1901 Definition. #####
+##### 22.1901 Definitions. #####
 
-Link to an amendment published at 85 FR 67627, Oct. 23, 2020.
+As used in this subpart -
 
-*Worker,* as used in this subpart, (in accordance with 29 CFR 10.2) -
+*Seasonal recreational equipment rental* means any equipment rental in connection with seasonal recreational services.
+
+*Seasonal recreational services* means services that include river running, hunting, fishing, horseback riding, camping, mountaineering activities, recreational ski services, and youth camps.
+
+*Worker* (in accordance with 29 CFR 10.2) -
 
 (1) Means any person engaged in performing work on, or in connection with, a contract covered by Executive Order 13658, and
 
@@ -15,3 +19,5 @@ Link to an amendment published at 85 FR 67627, Oct. 23, 2020.
 (2) Includes workers performing on, or in connection with, the contract whose wages are calculated pursuant to special certificates issued under 29 U.S.C. 214(c).
 
 (3) Also includes any person working on, or in connection with, the contract and individually registered in a bona fide apprenticeship or training program registered with the Department of Labor's Employment and Training Administration, Office of Apprenticeship, or with a State Apprenticeship Agency recognized by the Office of Apprenticeship.
+
+[79 FR 74550, Dec. 15, 2014, as amended at 85 FR 67627, Oct. 23, 2020]

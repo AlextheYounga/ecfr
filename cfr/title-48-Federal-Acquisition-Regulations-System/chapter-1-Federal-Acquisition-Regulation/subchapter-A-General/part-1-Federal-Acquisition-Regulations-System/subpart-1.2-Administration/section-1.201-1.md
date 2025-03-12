@@ -1,8 +1,6 @@
 ##### 1.201-1 The two councils. #####
 
-Link to an amendment published at 85 FR 67614, Oct. 23, 2020.
-
-(a) Subject to the authorities discussed in 1.103, revisions to the FAR will be prepared and issued through the coordinated action of two councils, the Defense Acquisition Regulations Council (DAR Council) and the Civilian Agency Acquisition Council (CAA Council). Members of these councils shall -
+(a) Subject to the authorities discussed in 1.103, revisions to the FAR will be prepared and issued through the coordinated action of two councils, the Defense Acquisition Regulations Council (DAR Council) and the Civilian Agency Acquisition Council (CAA Council). Members of these councils shall—
 
 (1) Represent their agencies on a full-time basis;
 
@@ -10,7 +8,7 @@ Link to an amendment published at 85 FR 67614, Oct. 23, 2020.
 
 (3) Be funded by their respective agencies.
 
-(b) The chairperson of the CAA Council shall be the representative of the Administrator of General Services. The other members of this council shall be one each representative from the -
+(b) The chairperson of the CAA Council shall be the representative of the Administrator of General Services. The other members of this council shall be one each representative from the—
 
 (1) Departments of Agriculture, Commerce, Education, Energy, Health and Human Services, Homeland Security, Housing and Urban Development, Interior, Justice, Labor, State, Transportation, Treasury, and Veterans Affairs; and
 
@@ -20,7 +18,7 @@ Link to an amendment published at 85 FR 67614, Oct. 23, 2020.
 
 (d) Responsibility for processing revisions to the FAR is apportioned by the two councils so that each council has cognizance over specified parts or subparts.
 
-(e) Each council shall be responsible for -
+(e) Each council shall be responsible for—
 
 (1) Agreeing on all revisions with the other council;
 
@@ -32,6 +30,6 @@ Link to an amendment published at 85 FR 67614, Oct. 23, 2020.
 
 (5) Preparing any final revision in the appropriate FAR format and language; and
 
-(6) Submitting any final revision to the FAR Secretariat for publication in the Federal Register and printing for distribution.
+(6) Submitting any final revision to the FAR Secretariat for publication in the Federal Register.
 
-[48 FR 42103, Sept. 19, 1983, as amended at 50 FR 2269, Jan. 15, 1985; 50 FR 26903, June 28, 1985; 51 FR 2649, Jan. 17, 1986; 54 FR 29280, July 11, 1989; 62 FR 64940, Dec. 9, 1997; 63 FR 9069, Feb. 23, 1998; 65 FR 16286, Mar. 27, 2000; 68 FR 69258, Dec. 11, 2003; 77 FR 23370, Apr. 18, 2012; 84 FR 19839, May 6, 2019; 84 FR 38838, Aug. 7, 2019]
+[48 FR 42103, Sept. 19, 1983, as amended at 50 FR 2269, Jan. 15, 1985; 50 FR 26903, June 28, 1985; 51 FR 2649, Jan. 17, 1986; 54 FR 29280, July 11, 1989; 62 FR 64940, Dec. 9, 1997; 63 FR 9069, Feb. 23, 1998; 65 FR 16286, Mar. 27, 2000; 68 FR 69258, Dec. 11, 2003; 77 FR 23370, Apr. 18, 2012; 84 FR 19839, May 6, 2019; 84 FR 38838, Aug. 7, 2019; 85 FR 67614, Oct. 23, 2020]

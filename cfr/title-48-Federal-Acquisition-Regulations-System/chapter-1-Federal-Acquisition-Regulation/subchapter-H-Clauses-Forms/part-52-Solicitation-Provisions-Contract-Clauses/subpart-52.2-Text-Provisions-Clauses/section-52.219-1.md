@@ -1,10 +1,8 @@
 ##### 52.219-1 Small Business Program Representations. #####
 
-Link to an amendment published at 85 FR 67617, Oct. 23, 2020.
-
 As prescribed in 19.309(a)(1), insert the following provision:
 
-Small Business Program Representations (MAR 2020)
+Small Business Program Representations (NOV 2020)
 
 (a) *Definitions.* As used in this provision -
 
@@ -20,7 +18,9 @@ Small Business Program Representations (MAR 2020)
 
 (2) *Service-disabled veteran* means a veteran, as defined in 38 U.S.C. 101(2), with a disability that is service-connected, as defined in 38 U.S.C. 101(16).
 
-*Small business concern* means a concern, including its affiliates, that is independently owned and operated, not dominant in the field of operation in which it is bidding on Government contracts, and qualified as a small business under the criteria in 13 CFR Part 121 and the size standard in paragraph (b) of this provision.
+*Small business concern* - (1) Means a concern, including its affiliates, that is independently owned and operated, not dominant in the field of operation in which it is bidding on Government contracts, and qualified as a small business under the criteria in 13 CFR part 121 and the size standard in paragraph (b) of this provision.
+
+(2) *Affiliates,* as used in this definition, means business concerns, one of whom directly or indirectly controls or has the power to control the others, or a third party or parties control or have the power to control the others. In determining whether affiliation exists, consideration is given to all appropriate factors including common ownership, common management, and contractual relationships. SBA determines affiliation based on the factors set forth at 13 CFR 121.103.
 
 *Small disadvantaged business concern,* consistent with 13 CFR 124.1002, means a small business concern under the size standard applicable to the acquisition, that -
 

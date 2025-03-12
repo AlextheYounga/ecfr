@@ -28,8 +28,4 @@
 
 (j) Use the clause at 252.229-7010, Relief from Customs Duty on Fuel (United Kingdom), in solicitations issued and contracts awarded in the United Kingdom that require the use of fuels (gasoline or diesel) and lubricants in taxis or vehicles other than passenger vehicles.
 
-(k) Use the clause at 252.229-7014, Taxes - Foreign Contracts in Afghanistan, in solicitations and contracts, including solicitations and contracts using FAR part 12 procedures for the acquisition of commercial items, with performance in Afghanistan, unless the clause at 252.229-7015 is used.
-
-(l) Use the clause at 252.229-7015, Taxes - Foreign Contracts in Afghanistan (North Atlantic Treaty Organization Status of Forces Agreement), instead of the clause at 252.229-7014, Taxes - Foreign Contracts in Afghanistan, in solicitations and contracts, including solicitations and contracts using FAR part 12 procedures for the acquisition of commercial items, with performance in Afghanistan awarded on behalf of the North Atlantic Treaty Organization (NATO), which are governed by the NATO Status of Forces Agreement (SOFA), if approval from the Director, Defense Procurement and Acquisition Policy, Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics, has been obtained prior to each use.
-
-[62 FR 34125, June 24, 1997, 77 FR 19130, Mar. 30, 2012; 78 FR 37989, June 25, 2013; 78 FR 40043, July 3, 2013; 79 FR 58700, Sept. 30, 2014; 80 FR 81469, Dec. 30, 2015]
+[62 FR 34125, June 24, 1997, 77 FR 19130, Mar. 30, 2012; 78 FR 37989, June 25, 2013; 78 FR 40043, July 3, 2013; 79 FR 58700, Sept. 30, 2014; 80 FR 81469, Dec. 30, 2015; 85 FR 74612, Nov. 23, 2020]

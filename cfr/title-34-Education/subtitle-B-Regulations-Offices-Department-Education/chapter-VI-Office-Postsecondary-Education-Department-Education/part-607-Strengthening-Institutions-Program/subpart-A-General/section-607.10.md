@@ -1,16 +1,14 @@
 ##### § 607.10 What activities may and may not be carried out under a grant? #####
 
-Link to an amendment published at 85 FR 59981, Sept. 23, 2020.
-
-(a) *Planning grants.* Under a planning grant, a grantee shall formulate -
+(a) *Planning grants.* Under a planning grant, a grantee shall formulate—
 
 (1) A comprehensive development plan described in § 607.8; and
 
 (2) An application for a development grant.
 
-(b) *Development grants - allowable activities.* Under a development grant, except as provided in paragraph (c) of this section, a grantee shall carry out activities that implement its comprehensive development plan and hold promise for strengthening the institution. Activities that may be carried out include, but are not limited to -
+(b) *Development grants—allowable activities.* Under a development grant, except as provided in paragraph (c) of this section, a grantee shall carry out activities that implement its comprehensive development plan and hold promise for strengthening the institution. Activities that may be carried out include, but are not limited to—
 
-(1) Faculty exchanges, faculty fellowships, and faculty development that provide faculty with the skills and knowledge needed to -
+(1) Faculty exchanges, faculty fellowships, and faculty development that provide faculty with the skills and knowledge needed to—
 
 (i) Develop academic support services, including advising and mentoring students;
 
@@ -18,13 +16,13 @@ Link to an amendment published at 85 FR 59981, Sept. 23, 2020.
 
 (iii) Acquire terminal degrees that are required to obtain or retain accreditation of an academic program or department;
 
-(2) Funds and administrative management that will improve the institution's ability to -
+(2) Funds and administrative management that will improve the institution's ability to—
 
 (i) Manage financial resources in an efficient and effective manner; and
 
 (ii) Collect, access, and use information about the institution's operations for improved decisionmaking;
 
-(3) Developing and improving academic programs that enable the institution to -
+(3) Developing and improving academic programs that enable the institution to—
 
 (i) Develop new academic programs or new program options that show promise for increased student enrollment;
 
@@ -34,13 +32,13 @@ Link to an amendment published at 85 FR 59981, Sept. 23, 2020.
 
 (4) Acquiring equipment for use in strengthening management and academic programs to achieve objectives such as those described in paragraphs (b)(2) and (b)(3) of this section;
 
-(5) Establishing or increasing the joint use of facilities such as libraries and laboratories to -
+(5) Establishing or increasing the joint use of facilities such as libraries and laboratories to—
 
 (i) Eliminate the distance and high cost associated with providing academic programs and academic support; or
 
 (ii) Provide clinical experience that is part of an approved academic program at off-campus locations;
 
-(6) Developing or improving student services to provide -
+(6) Developing or improving student services to provide—
 
 (i) New or improved methods to deliver student services, including counseling, tutoring, and instruction in basic skills; or
 
@@ -58,7 +56,7 @@ Link to an amendment published at 85 FR 59981, Sept. 23, 2020.
 
 (12) Creating or improving facilities for Internet or other distance learning academic instruction capabilities, including purchase or rental of telecommunications technology equipment or services;
 
-(13) For grants authorized under section 316 of the HEA to tribal colleges or universities -
+(13) For grants authorized under section 316 of the HEA to tribal colleges or universities—
 
 (i) Purchase, rental, or lease of scientific or laboratory equipment for educational purposes, including instructional and research purposes;
 
@@ -86,7 +84,7 @@ Link to an amendment published at 85 FR 59981, Sept. 23, 2020.
 
 (xiii) Establishing or improving an endowment fund, provided a grantee uses no more than 20 percent of its grant funds for this purpose and at least matches those grant funds with non-Federal funds; or
 
-(14) For grants authorized under section 317 of the HEA to Alaska Native-serving institutions and Native Hawaiian-serving institutions -
+(14) For grants authorized under section 317 of the HEA to Alaska Native-serving institutions and Native Hawaiian-serving institutions—
 
 (i) Purchase, rental, or lease of scientific or laboratory equipment for educational purposes, including instructional and research purposes;
 
@@ -104,15 +102,15 @@ Link to an amendment published at 85 FR 59981, Sept. 23, 2020.
 
 (viii) Academic tutoring and counseling programs and student support services.
 
-(c) *Development grants - unallowable activities.* A grantee may not carry out the following activities or pay the following costs under a development grant:
+(c) *Development grants—unallowable activities.* A grantee may not carry out the following activities or pay the following costs under a development grant:
 
 (1) Activities that are not included in the grantee's approved application.
 
 (2) Activities that are inconsistent with any State plan for higher education that is applicable to the institution, including, but not limited to, a State plan for desegregation of higher education.
 
-(3) Activities or services that relate to sectarian instruction or religious worship.
+(3) Activities or services that constitute religious instruction, religious worship, or proselytization.
 
-(4) Activities provided by a school or department of divinity. For the purpose of this provision, a “school or department of divinity” means an institution, or a department of an institution, whose program is specifically for the education of students to prepare them to become ministers of religion or to enter into some other religious vocation or to prepare them to teach theological subjects.
+(4) Activities provided by a school or department of divinity. For the purpose of this provision, a “school or department of divinity” means an institution, or a department of an institution, whose program is solely to prepare students to become ministers of religion or to enter into some other religious vocation.
 
 (5) Developing or improving non-degree or non-credit courses other than basic skills development courses.
 
@@ -136,7 +134,7 @@ Link to an amendment published at 85 FR 59981, Sept. 23, 2020.
 
 (15) Activities that are operational in nature rather than developmental in nature.
 
-(d) *Endowment funds.* If a grantee uses part of its grant funds to establish or increase an endowment fund under paragraphs (b)(11) or (b)(13)(xiii) of this section, it must comply with the provisions of §§ 628.3, 628.6, 628.10 and 628.41 through 628.47 of this chapter with regard to the use of those funds, except -
+(d) *Endowment funds.* If a grantee uses part of its grant funds to establish or increase an endowment fund under paragraphs (b)(11) or (b)(13)(xiii) of this section, it must comply with the provisions of §§ 628.3, 628.6, 628.10 and 628.41 through 628.47 of this chapter with regard to the use of those funds, except—
 
 (1) The definition of the term “endowment fund income” in § 628.6 of this chapter does not apply. For the purposes of this paragraph (d), “endowment fund income” means an amount equal to the total value of the fund, including fund appreciation and retained interest and dividends, minus the endowment fund corpus.
 
@@ -144,4 +142,4 @@ Link to an amendment published at 85 FR 59981, Sept. 23, 2020.
 
 (3) Instead of the requirements in § 628.41(a)(3) through (a)(5) and the introductory text in § 628.41(b) and § 628.41(b)(2) and (b)(3) of this chapter, if a grantee institution decides to use any of its grant funds for endowment purposes, it must match those grant funds immediately with non-Federal funds when it places those funds into its endowment fund.
 
-(Authority: 20 U.S.C. 1057 *et seq.*)[52 FR 30529, Aug. 14, 1987, as amended at 59 FR 41923, Aug. 15, 1994; 60 FR 15447, Mar. 23, 1995; 64 FR 70154, Dec. 15, 1999; 65 FR 79310, Dec. 19, 2000]
+(Authority: 20 U.S.C. 1057 *et seq.*)[52 FR 30529, Aug. 14, 1987, as amended at 59 FR 41923, Aug. 15, 1994; 60 FR 15447, Mar. 23, 1995; 64 FR 70154, Dec. 15, 1999; 65 FR 79310, Dec. 19, 2000; 85 FR 59981, Sept. 23, 2020]

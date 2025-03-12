@@ -1,8 +1,6 @@
 ##### § 609.10 What activities may be carried out under a grant? #####
 
-Link to an amendment published at 85 FR 59981, Sept. 23, 2020.
-
-(a) *Allowable activities.* Except as provided in paragraph (b) of this section, a grantee may carry out the following activities under this part -
+(a) *Allowable activities.* Except as provided in paragraph (b) of this section, a grantee may carry out the following activities under this part—
 
 (1) Purchase, rental, or lease of scientific or laboratory equipment for educational purposes, including instructional or research purposes;
 
@@ -32,7 +30,7 @@ Link to an amendment published at 85 FR 59981, Sept. 23, 2020.
 
 (14) Establishing and maintaining an institutional endowment under 34 CFR part 628 to facilitate financial independence.
 
-(b) *Unallowable activities.* A grantee may not carry out the following activities under this part -
+(b) *Unallowable activities.* A grantee may not carry out the following activities under this part—
 
 (1) Activities that are not included in the grantee's approved application;
 
@@ -42,10 +40,10 @@ Link to an amendment published at 85 FR 59981, Sept. 23, 2020.
 
 (4) Activities that are inconsistent with a State plan for desegregation of higher education that is applicable to the institution;
 
-(5) Activities or services that relate to sectarian instruction or religious worship; and
+(5) Activities or services that constitute religious instruction, religious worship, or proselytization.
 
-(6) Activities provided by a school or department of divinity. For the purpose of this section, a “school or department of divinity” means an institution, or a department of an institution, whose program is specifically for the education of students to prepare them to become ministers of religion or to enter upon some other religious vocation, or to prepare them to teach theological subjects.
+(6) Activities provided by a school or department of divinity. For the purpose of this provision, a “school or department of divinity” means an institution, or a department of an institution, whose program is solely to prepare students to become ministers of religion or to enter into some other religious vocation.
 
 (c) No award under this part may be used for telecommunications technology equipment, facilities or services, if such equipment, facilities or services are available pursuant to section 396(k) of the Communications Act of 1934.
 
-(Authority: 20 U.S.C. 1062, 1063a, and 1069c)
+(Authority: 20 U.S.C. 1062, 1063a, and 1069c)[59 FR 38717, July 20, 1993, as amended at 85 FR 59981, Sept. 23, 2020]

@@ -1,10 +1,8 @@
 ##### 52.212-5 Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Items. #####
 
-Link to an amendment published at 85 FR 67616, Oct. 23, 2020.Link to an amendment published at 85 FR 67628, Oct. 23, 2020.
-
 As prescribed in 12.301(b)(4), insert the following clause:
 
-Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Items (OCT 2020)
+Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Items (NOV 2020)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses, which are incorporated in this contract by reference, to implement provisions of law or Executive orders applicable to acquisitions of commercial items:
 
@@ -52,11 +50,11 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (13) [Reserved]
 
-\_\_ (14)(i) 52.219-6, Notice of Total Small Business Set-Aside (MAR 2020) (15 U.S.C. 644).
+\_\_ (14)(i) 52.219-6, Notice of Total Small Business Set-Aside (NOV 2020) (15 U.S.C. 644).
 
 \_\_ (ii) Alternate I (MAR 2020) of 52.219-6.
 
-\_\_ (15)(i) 52.219-7, Notice of Partial Small Business Set-Aside (MAR 2020) (15 U.S.C. 644).
+\_\_ (15)(i) 52.219-7, Notice of Partial Small Business Set-Aside (NOV 2020) (15 U.S.C. 644).
 
 \_\_ (ii) Alternate I (MAR 2020) of 52.219-7.
 
@@ -82,7 +80,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (21) 52.219-27, Notice of Service-Disabled Veteran-Owned Small Business Set-Aside (MAR 2020) (15 U.S.C. 657f).
 
-\_\_ (22)(i) 52.219-28, Post-Award Small Business Program Rerepresentation (MAY 2020) (15 U.S.C. 632(a)(2)).
+\_\_ (22)(i) 52.219-28, Post-Award Small Business Program Rerepresentation (NOV 2020) (15 U.S.C. 632(a)(2)).
 
 \_\_ (ii) Alternate I (MAR 2020) of 52.219-28.
 
@@ -210,7 +208,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (6) 52.222-53, Exemption from Application of the Service Contract Labor Standards to Contracts for Certain Services - Requirements (MAY 2014) (41 U.S.C. chapter 67).
 
-\_\_ (7) 52.222-55, Minimum Wages Under Executive Order 13658 (DEC 2015).
+\_\_ (7) 52.222-55, Minimum Wages Under Executive Order 13658 (NOV 2020).
 
 \_\_ (8) 52.222-62, Paid Sick Leave Under Executive Order 13706 (JAN 2017) (E.O. 13706).
 
@@ -260,7 +258,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 (xvi) 52.222-54, Employment Eligibility Verification (Oct 2015) (E. O. 12989).
 
-(xvii) 52.222-55, Minimum Wages Under Executive Order 13658 (DEC 2015).
+(xvii) 52.222-55, Minimum Wages Under Executive Order 13658 (NOV 2020).
 
 (xviii) 52.222-62 Paid Sick Leave Under Executive Order 13706 (JAN 2017) (E.O. 13706).
 
@@ -280,7 +278,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 *Alternate I* (JULY 2014). As prescribed in 12.301(b)(4)(i), delete paragraph (d) from the basic clause, redesignate paragraph (e) as paragraph (d), and revise the reference to “paragraphs (a), (b), (c), or (d) of this clause” in the redesignated paragraph (d) to read “paragraphs (a), (b), and (c) of this clause”.
 
-*Alternate II* (OCT 2020). As prescribed in 12.301(b)(4)(ii), substitute the following paragraphs (d)(1) and (e)(1) for paragraphs (d)(1) and (e)(1) of the basic clause as follows:
+*Alternate II* (NOV 2020). As prescribed in 12.301(b)(4)(ii), substitute the following paragraphs (d)(1) and (e)(1) for paragraphs (d)(1) and (e)(1) of the basic clause as follows:
 
 (d)(1) The Comptroller General of the United States, an appropriate Inspector General appointed under section 3 or 8G of the Inspector General Act of 1978 (5 U.S.C. App.), or an authorized representative of either of the foregoing officials shall have access to and right to -
 
@@ -326,7 +324,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 (O) 52.222-54, Employment Eligibility Verification (Oct 2015) (Executive Order 12989).
 
-(P) 52.222-55, Minimum Wages Under Executive Order 13658 (DEC 2015).
+(P) 52.222-55, Minimum Wages Under Executive Order 13658 (NOV 2020).
 
 (Q) 52.222-62, Paid Sick Leave Under Executive Order 13706 (JAN 2017)(E.O. 13706).
 

@@ -1,12 +1,14 @@
 ##### 52.222-55 Minimum Wages Under Executive Order 13658. #####
 
-Link to an amendment published at 85 FR 67628, Oct. 23, 2020.
-
 As prescribed in 22.1906, insert the following clause:
 
-Minimum Wages Under Executive Order 13658 (DEC 2015)
+Minimum Wages Under Executive Order 13658 (NOV 2020)
 
 (a) *Definitions.* As used in this clause -
+
+“Seasonal recreational equipment rental” means any equipment rental in connection with seasonal recreational services.
+
+“Seasonal recreational services” means services that include: river running, hunting, fishing, horseback riding, camping, mountaineering activities, recreational ski services, and youth camps.
 
 “United States” means the 50 states and the District of Columbia.
 
@@ -62,11 +64,13 @@ Minimum Wages Under Executive Order 13658 (DEC 2015)
 
 (ii) Individuals exempted from the minimum wage requirements of the FLSA under 29 U.S.C. 213(a) and 214(a) and (b), unless otherwise covered by the Service Contract Labor Standards statute, or the Wage Rate Requirements (Construction) statute. These individuals include but are not limited to -
 
-(A) Learners, apprentices, or messengers whose wages are calculated pursuant to special certificates issued under 29 U.S.C. 214(a).
+(A) Learners, apprentices, or messengers whose wages are calculated pursuant to special certificates issued under 29 U.S.C. 214(a);
 
-(B) Students whose wages are calculated pursuant to special certificates issued under 29 U.S.C. 214(b).
+(B) Students whose wages are calculated pursuant to special certificates issued under 29 U.S.C. 214(b); and
 
-(C) Those employed in a bona fide executive, administrative, or professional capacity (29 U.S.C. 213(a)(1) and 29 CFR part 541).
+(C) Those employed in a bona fide executive, administrative, or professional capacity (29 U.S.C. 213(a)(1) and 29 CFR part 541); or
+
+(iii) Seasonal recreational services or seasonal recreational equipment rental for the general public on Federal lands, except for lodging and food services associated with seasonal recreational services, in accordance with Executive Order 13838, Exemption from Executive Order 13658 for Recreational Services on Federal Lands (3 CFR, 2018 Comp., p. 831), as implemented by the U.S. Department of Labor regulations at 29 CFR 10.4(g).
 
 (d) *Notice.* The Contractor shall notify all workers performing work on, or in connection with, this contract of the applicable E.O. minimum wage rate under this clause. With respect to workers covered by the Service Contract Labor Standards statute or the Wage Rate Requirements (Construction) statute, the Contractor may meet this requirement by posting, in a prominent and accessible place at the worksite, the applicable wage determination under those statutes. With respect to workers whose wages are governed by the FLSA, the Contractor shall post notice, utilizing the poster provided by the Administrator, which can be obtained at *www.dol.gov/whd/govcontracts,* in a prominent and accessible place at the worksite. Contractors that customarily post notices to workers electronically may post the notice electronically provided the electronic posting is displayed prominently on any Web site that is maintained by the contractor, whether external or internal, and customarily used for notices to workers about terms and conditions of employment.
 
@@ -104,4 +108,4 @@ Minimum Wages Under Executive Order 13658 (DEC 2015)
 
 (k) *Subcontracts.* The Contractor shall include the substance of this clause, including this paragraph (k) in all subcontracts, regardless of dollar value, that are subject to the Service Contract Labor Standards statute or the Wage Rate Requirements (Construction) statute, and are to be performed in whole or in part in the United States.
 
-(End of clause)[79 FR 74552, Dec. 15, 2014, as amended at 80 FR 75917, Dec. 4, 2015]
+(End of clause)[79 FR 74552, Dec. 15, 2014, as amended at 80 FR 75917, Dec. 4, 2015; 85 FR 67628, Oct. 23, 2020]

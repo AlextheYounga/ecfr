@@ -1,16 +1,18 @@
 ##### 52.219-28 Post-Award Small Business Program Rerepresentation. #####
 
-Link to an amendment published at 85 FR 67617, Oct. 23, 2020.
-
 As prescribed in 19.309(c)(1), insert the following clause:
 
-Post-Award Small Business Program Rerepresentation (MAY 2020)
+Post-Award Small Business Program Rerepresentation (NOV 2020)
 
 (a) *Definitions.* As used in this clause -
 
 *Long-term contract* means a contract of more than five years in duration, including options. However, the term does not include contracts that exceed five years in duration because the period of performance has been extended for a cumulative period not to exceed six months under the clause at 52.217-8, Option to Extend Services, or other appropriate authority.
 
-*Small business concern* means a concern, including its affiliates, that is independently owned and operated, not dominant in the field of operation in which it is bidding on Government contracts, and qualified as a small business under the criteria in 13 CFR part 121 and the size standard in paragraph (d) of this clause. Such a concern is “not dominant in its field of operation” when it does not exercise a controlling or major influence on a national basis in a kind of business activity in which a number of business concerns are primarily engaged. In determining whether dominance exists, consideration shall be given to all appropriate factors, including volume of business, number of employees, financial resources, competitive status or position, ownership or control of materials, processes, patents, license agreements, facilities, sales territory, and nature of business activity.
+*Small business concern* -
+
+(1) Means a concern, including its affiliates, that is independently owned and operated, not dominant in the field of operation in which it is bidding on Government contracts, and qualified as a small business under the criteria in 13 CFR part 121 and the size standard in paragraph (d) of this clause. Such a concern is “not dominant in its field of operation” when it does not exercise a controlling or major influence on a national basis in a kind of business activity in which a number of business concerns are primarily engaged. In determining whether dominance exists, consideration shall be given to all appropriate factors, including volume of business, number of employees, financial resources, competitive status or position, ownership or control of materials, processes, patents, license agreements, facilities, sales territory, and nature of business activity.
+
+(2) *Affiliates,* as used in this definition, means business concerns, one of whom directly or indirectly controls or has the power to control the others, or a third party or parties control or have the power to control the others. In determining whether affiliation exists, consideration is given to all appropriate factors including common ownership, common management, and contractual relationships. SBA determines affiliation based on the factors set forth at 13 CFR 121.103.
 
 (b) If the Contractor represented that it was any of the small business concerns identified in 19.000(a)(3) prior to award of this contract, the Contractor shall rerepresent its size and socioeconomic status according to paragraph (f) of this clause or, if applicable, paragraph (h) of this clause, upon occurrence of any of the following:
 
@@ -80,4 +82,4 @@ Post-Award Small Business Program Rerepresentation (MAY 2020)
 
 [Contracting Officer to insert NAICS codes.]
 
-[72 FR 36856, July 5, 2007, as amended at 74 FR 11825, Mar. 19, 2009; 74 FR 14493, Mar. 31, 2009; 76 FR 18314, Apr. 1, 2011; 77 FR 23371, Apr. 18, 2012; 78 FR 37683, June 21, 2013; 79 FR 61754, Oct. 14, 2014; 85 FR 11771, Feb. 27, 2020; 85 FR 27101, May 6, 2020]
+[72 FR 36856, July 5, 2007, as amended at 74 FR 11825, Mar. 19, 2009; 74 FR 14493, Mar. 31, 2009; 76 FR 18314, Apr. 1, 2011; 77 FR 23371, Apr. 18, 2012; 78 FR 37683, June 21, 2013; 79 FR 61754, Oct. 14, 2014; 85 FR 11771, Feb. 27, 2020; 85 FR 27101, May 6, 2020; 85 FR 67617, Oct. 23, 2020]

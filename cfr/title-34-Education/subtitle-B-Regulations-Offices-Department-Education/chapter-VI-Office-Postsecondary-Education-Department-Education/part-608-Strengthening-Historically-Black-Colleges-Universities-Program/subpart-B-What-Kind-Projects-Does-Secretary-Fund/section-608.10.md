@@ -1,8 +1,6 @@
 ##### § 608.10 What activities may be carried out under a grant? #####
 
-Link to an amendment published at 85 FR 59981, Sept. 23, 2020.
-
-(a) *Allowable activities.* Except as provided in paragraph (b) of this section, a grantee may carry out the following activities under this part -
+(a) *Allowable activities.* Except as provided in paragraph (b) of this section, a grantee may carry out the following activities under this part—
 
 (1) Purchase, rental, or lease of scientific or laboratory equipment for educational purposes, including instructional or research purposes;
 
@@ -28,7 +26,7 @@ Link to an amendment published at 85 FR 59981, Sept. 23, 2020.
 
 (12) Other activities that it proposes in its application that contribute to carrying out the purpose of this part and are approved by the Secretary as part of the review and acceptance of the application.
 
-(b) *Unallowable activities.* A grantee may not carry out the following activities under this part -
+(b) *Unallowable activities.* A grantee may not carry out the following activities under this part—
 
 (1) Activities that are not included in the grantee's approved application;
 
@@ -38,13 +36,13 @@ Link to an amendment published at 85 FR 59981, Sept. 23, 2020.
 
 (4) Activities that are inconsistent with a State plan for desegregation of higher education that is applicable to the institution;
 
-(5) Activities or services that relate to sectarian instruction or religious worship; and
+(5) Activities or services that constitute religious instruction, religious worship, or proselytization.
 
-(6) Activities provided by a school or department of divinity. For the purpose of this section, a “school or department of divinity” means an institution, or a department of an institution, whose program is specifically for the education of students to prepare them to become ministers of religion or to enter upon some other religious vocation, or to prepare them to teach theological subjects.
+(6) Activities provided by a school or department of divinity. For the purpose of this provision, a “school or department of divinity” means an institution, or a department of an institution, whose program is solely to prepare students to become ministers of religion or to enter into some other religious vocation.
 
 (c) No award under this part may be used for telecommunications technology equipment, facilities or services, if such equipment, facilities or services are available pursuant to section 396(k) of the Communications Act of 1934.
 
-(d) *Endowment funds.* If a grantee uses part of its grant funds to establish or increase an endowment fund, it is subject to the provisions of §§ 628.3, 628.6, 628.10 and 628.41 through 628.47 of this chapter with regard to the use of those funds, except -
+(d) *Endowment funds.* If a grantee uses part of its grant funds to establish or increase an endowment fund, it is subject to the provisions of §§ 628.3, 628.6, 628.10 and 628.41 through 628.47 of this chapter with regard to the use of those funds, except—
 
 (1) The definition of the term “endowment fund income” in § 628.6 of this chapter does not apply. For the purposes of this paragraph (d), “endowment fund income” means an amount equal to the total value of the fund, including fund appreciation and retained interest and dividends, minus the endowment fund corpus;
 
@@ -52,4 +50,4 @@ Link to an amendment published at 85 FR 59981, Sept. 23, 2020.
 
 (3) Instead of the requirements in § 628.41(a)(3) through (a)(5) and the introductory text in § 628.41(b) and § 628.41(b)(2) and (b)(3) of this chapter, if a grantee institution decides to use any of its grant funds for endowment purposes, it must match those grant funds immediately with non-Federal funds when it places those funds into its endowment fund.
 
-(Authority: 20 U.S.C. 1062, 1063a, and 1069c)[58 FR 38713, July 20, 1993, as amended at 65 FR 79311, Dec. 19, 2000]
+(Authority: 20 U.S.C. 1062, 1063a, and 1069c)[58 FR 38713, July 20, 1993, as amended at 65 FR 79311, Dec. 19, 2000; 85 FR 59981, Sept. 23, 2020]

@@ -1,1 +1,1 @@
-##### 209.470 Reserve Officer Training Corps and military recruiting on campus. #####
+##### 209.470 [Reserved] #####

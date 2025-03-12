@@ -1,7 +1,5 @@
 ##### 2.101 Definitions. #####
 
-Link to an amendment published at 85 FR 67616, Oct. 23, 2020.
-
 (a) A word or a term, defined in this section, has the same meaning throughout this regulation (48 CFR chapter 1), unless -
 
 (1) The context in which the word or term is used clearly requires a different meaning; or
@@ -32,9 +30,9 @@ Link to an amendment published at 85 FR 67616, Oct. 23, 2020.
 
 *Affiliates* means associated business concerns or individuals if, directly or indirectly either one controls or can control the other; or third party controls or can control both, except as follows:
 
-(1) For the use in subpart 9.4, see the definition at 9.403.
+(1) For use in subpart 9.4, see the definition at 9.403.
 
-(2) For the use in subpart 19.1, see the definition at 19.101.
+(2) For use of affiliates in size determinations, see the definition of “small business concern” in this section.
 
 *Agency head* or *head of the agency* means the Secretary, Attorney General, Administrator, Governor, Chairperson, or other chief official of an executive agency, unless otherwise indicated, including any deputy or assistant chief official of an executive agency.
 
@@ -816,7 +814,11 @@ Link to an amendment published at 85 FR 67616, Oct. 23, 2020.
 
 *Single, Governmentwide point of entry,* means the one point of entry to be designated by the Administrator of OFPP that will allow the private sector to electronically access procurement opportunities Governmentwide.
 
-*Small business concern* means a concern, including its affiliates, that is independently owned and operated, not dominant in the field of operation in which it is bidding on Government contracts, and qualified as a small business under the criteria and size standards in 13 CFR part 121 (see 19.102). Such a concern is “not dominant in its field of operation” when it does not exercise a controlling or major influence on a national basis in a kind of business activity in which a number of business concerns are primarily engaged. In determining whether dominance exists, consideration must be given to all appropriate factors, including volume of business, number of employees, financial resources, competitive status or position, ownership or control of materials, processes, patents, license agreements, facilities, sales territory, and nature of business activity. (See 15 U.S.C. 632.)
+*Small business concern* -
+
+(1) Means a concern, including its affiliates, that is independently owned and operated, not dominant in the field of operation in which it is bidding on Government contracts, and qualified as a small business under the criteria and size standards in 13 CFR part 121 (see 19.102). Such a concern is “not dominant in its field of operation” when it does not exercise a controlling or major influence on a national basis in a kind of business activity in which a number of business concerns are primarily engaged. In determining whether dominance exists, consideration must be given to all appropriate factors, including volume of business, number of employees, financial resources, competitive status or position, ownership or control of materials, processes, patents, license agreements, facilities, sales territory, and nature of business activity. (See 15 U.S.C. 632.)
+
+(2) *Affiliates,* as used in this definition, means business concerns, one of whom directly or indirectly controls or has the power to control the others, or a third party or parties control or have the power to control the others. In determining whether affiliation exists, consideration is given to all appropriate factors including common ownership, common management, and contractual relationships. SBA determines affiliation based on the factors set forth at 13 CFR 121.103.
 
 *Small business subcontractor* means a concern that does not exceed the size standard for the North American Industry Classification Systems code that the prime contractor determines best describes the product or service being acquired by the subcontract.
 

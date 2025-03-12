@@ -1,10 +1,8 @@
 ##### 52.213-4 Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items). #####
 
-Link to an amendment published at 85 FR 67628, Oct. 23, 2020.Link to an amendment published at 85 FR 67629, Oct. 23, 2020.
-
 As prescribed in 13.302-5(d), insert the following clause:
 
-Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (OCT 2020)
+Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (NOV 2020)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses that are incorporated by reference:
 
@@ -44,7 +42,7 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (OC
 
 (vii) 52.233-1, Disputes (MAY 2014).
 
-(viii) 52.244-6, Subcontracts for Commercial Items (AUG 2020)
+(viii) 52.244-6, Subcontracts for Commercial Items (NOV 2020)
 
 (b) The Contractor shall comply with the following FAR clauses, incorporated by reference, unless the circumstances do not apply:
 
@@ -68,7 +66,7 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (OC
 
 (B) Alternate I (MAR 2015) (Applies if the Contracting Officer has filled in the following information with regard to applicable directives or notices: Document title(s), source for obtaining document(s), and contract performance location outside the United States to which the document applies).
 
-(ix) 52.222-55, Minimum Wages Under Executive Order 13658 (DEC 2015) (Applies when 52.222-6 or 52.222-41 are in the contract and performance in whole or in part is in the United States (the 50 States and the District of Columbia)).
+(ix) 52.222-55, Minimum Wages Under Executive Order 13658 (NOV 2020) (Applies when 52.222-6 or 52.222-41 are in the contract and performance in whole or in part is in the United States (the 50 States and the District of Columbia)).
 
 (x) 52.222-62, Paid Sick Leave Under Executive Order 13706 (JAN 2017) (E.O. 13706) (Applies when 52.222-6 or 52.222-41 are in the contract and performance in whole or in part is in the United States (the 50 States and the District of Columbia.))
 
@@ -78,7 +76,7 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (OC
 
 (xiii) 52.223-12, Maintenance, Service, Repair, or Disposal of Refrigeration Equipment and Air Conditioners (JUN 2016) (E.O. 13693) (Applies to maintenance, service, repair, or disposal of refrigeration equipment and air conditioners).
 
-(xiv) 52.223-15, Energy Efficiency in Energy-Consuming Products (DEC 2007) (42 U.S.C. 8259b) (Unless exempt pursuant to 23.204, applies to contracts when energy-consuming products listed in the ENERGY STAR® Program or Federal Energy Management Program (FEMP) will be -
+(xiv) 52.223-15, Energy Efficiency in Energy-Consuming Products (MAY 2020) (42 U.S.C. 8259b) (Unless exempt pursuant to 23.204, applies to contracts when energy-consuming products listed in the ENERGY STAR® Program or Federal Energy Management Program (FEMP) will be -
 
 (A) Delivered;
 

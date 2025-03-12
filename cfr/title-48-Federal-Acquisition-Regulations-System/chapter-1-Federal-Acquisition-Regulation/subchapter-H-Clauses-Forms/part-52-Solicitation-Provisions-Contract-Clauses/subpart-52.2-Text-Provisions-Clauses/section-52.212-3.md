@@ -1,10 +1,8 @@
 ##### 52.212-3 Offeror Representations and Certifications - Commercial Items. #####
 
-Link to an amendment published at 85 FR 67616, Oct. 23, 2020.
-
 As prescribed in 12.301(b)(2), insert the following provision:
 
-Offeror Representations and Certifications - Commercial Items (OCT 2020)
+Offeror Representations and Certifications - Commercial Items (NOV 2020)
 
 The Offeror shall complete only paragraph (b) of this provision if the Offeror has completed the annual representations and certification electronically in the System for Award Management (SAM) accessed through *https://www.sam.gov.* If the Offeror has not completed the annual representations and certifications electronically, the Offeror shall complete only paragraphs (c) through (v)) of this provision.
 
@@ -88,7 +86,9 @@ The Offeror shall complete only paragraph (b) of this provision if the Offeror h
 
 (2) *Service-disabled veteran* means a veteran, as defined in 38 U.S.C. 101(2), with a disability that is service-connected, as defined in 38 U.S.C. 101(16).
 
-*Small business concern* means a concern, including its affiliates, that is independently owned and operated, not dominant in the field of operation in which it is bidding on Government contracts, and qualified as a small business under the criteria in 13 CFR Part 121 and size standards in this solicitation.
+*Small business concern* - (1) Means a concern, including its affiliates, that is independently owned and operated, not dominant in the field of operation in which it is bidding on Government contracts, and qualified as a small business under the criteria in 13 CFR part 121 and size standards in this solicitation.
+
+(2) *Affiliates,* as used in this definition, means business concerns, one of whom directly or indirectly controls or has the power to control the others, or a third party or parties control or have the power to control the others. In determining whether affiliation exists, consideration is given to all appropriate factors including common ownership, common management, and contractual relationships. SBA determines affiliation based on the factors set forth at 13 CFR 121.103.
 
 *Small disadvantaged business concern,* consistent with 13 CFR 124.1002, means a small business concern under the size standard applicable to the acquisition, that -
 

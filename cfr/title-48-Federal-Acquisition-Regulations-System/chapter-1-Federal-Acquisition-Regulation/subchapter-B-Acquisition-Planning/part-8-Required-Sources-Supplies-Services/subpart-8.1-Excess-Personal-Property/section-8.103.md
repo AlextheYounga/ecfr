@@ -1,13 +1,9 @@
 ##### 8.103 Information on available excess personal property. #####
 
-Link to an amendment published at 85 FR 67618, Oct. 23, 2020.
+Information regarding the availability of excess personal property can be obtained through—
 
-Information regarding the availability of excess personal property can be obtained through -
+(a) Reviewing and requesting available excess personal property in GSAXcess® (see *https://gsaxcess.gov*); and
 
-(a) Review of excess personal property catalogs and bulletins issued by the General Services Administration (GSA);
+(b) Personal contact with GSA or the activity holding the property.
 
-(b) Personal contact with GSA or the activity holding the property;
-
-(c) Submission of supply requirements to the regional offices of GSA (GSA Form 1539, Request for Excess Personal Property, is available for this purpose); and
-
-(d) Examination and inspection of reports and samples of excess personal property in GSA regional offices.
+[85 FR 67618, Oct. 23, 2020]

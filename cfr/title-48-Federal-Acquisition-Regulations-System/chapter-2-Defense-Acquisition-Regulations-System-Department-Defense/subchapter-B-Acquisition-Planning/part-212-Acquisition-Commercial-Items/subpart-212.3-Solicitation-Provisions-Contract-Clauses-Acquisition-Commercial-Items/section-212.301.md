@@ -188,11 +188,7 @@
 
 (C) Use the clause at 252.227-7037, Validation of Restrictive Markings on Technical Data, as prescribed in 227.7102-4(c).
 
-(xii) *Part 229 - Taxes.* (A) Use the clause at 252.229-7014, Taxes - Foreign Contracts in Afghanistan, as prescribed at 229.402-70(k).
-
-(B) Use the clause at 252.229-7015, Taxes - Foreign Contracts in Afghanistan (North Atlantic Treaty Organization Status of Forces Agreement), as prescribed at 229.402-70(l).
-
-(xiii) *Part 232 - Contract Financing.* (A) Use the clause at 252.232-7003, Electronic Submission of Payment Requests and Receiving Reports, as prescribed in 232.7004, to comply with 10 U.S.C. 2227.
+(xii) *Part 232 - Contract Financing.* (A) Use the clause at 252.232-7003, Electronic Submission of Payment Requests and Receiving Reports, as prescribed in 232.7004, to comply with 10 U.S.C. 2227.
 
 (B) Use the clause at 252.232-7006, Wide Area WorkFlow Payment Instructions, as prescribed in 232.7004(b).
 
@@ -206,11 +202,11 @@
 
 (G) Use the clause at 252.232-7017, Accelerating Payments to Small Business Subcontractors - Prohibition on Fees and Consideration, as prescribed in 232.009-2(2), to comply with 10 U.S.C. 2307(a).
 
-(xiv) *Part 237 - Service Contracting.* (A) Use the clause at 252.237-7010, Prohibition on Interrogation of Detainees by Contractor Personnel, as prescribed in 237.173-5, to comply with section 1038 of Pub. L. 111-84.
+(xiii) *Part 237 - Service Contracting.* (A) Use the clause at 252.237-7010, Prohibition on Interrogation of Detainees by Contractor Personnel, as prescribed in 237.173-5, to comply with section 1038 of Pub. L. 111-84.
 
 (B) Use the clause at 252.237-7019, Training for Contractor Personnel Interacting with Detainees, as prescribed in 237.171-4, to comply with section 1092 of Pub. L. 108-375.
 
-(xv) *Part 239 - Acquisition of Information Technology.* (A) Use the provision 252.239-7009, Representation of Use of Cloud Computing, as prescribed in 239.7604(a).
+(xiv) *Part 239 - Acquisition of Information Technology.* (A) Use the provision 252.239-7009, Representation of Use of Cloud Computing, as prescribed in 239.7604(a).
 
 (B) Use the clause 252.239-7010, Cloud Computing Services, as prescribed in 239.7604(b).
 
@@ -218,17 +214,17 @@
 
 (D) Use the clause at 252.239-7018, Supply Chain Risk, as prescribed in 239.7306(b), to comply with 10 U.S.C. 2339a.
 
-(xvi) *Part 243 - Contract Modifications.* Use the clause at 252.243-7002, Requests for Equitable Adjustment, as prescribed in 243.205-71, to comply with 10 U.S.C. 2410.
+(xv) *Part 243 - Contract Modifications.* Use the clause at 252.243-7002, Requests for Equitable Adjustment, as prescribed in 243.205-71, to comply with 10 U.S.C. 2410.
 
-(xvii) *Part 244 - Subcontracting Policies and Procedures.* Use the clause at 252.244-7000, Subcontracts for Commercial Items, as prescribed in 244.403.
+(xvi) *Part 244 - Subcontracting Policies and Procedures.* Use the clause at 252.244-7000, Subcontracts for Commercial Items, as prescribed in 244.403.
 
-(xviii) *Part 246 - Quality Assurance.* (A) Use the clause at 252.246-7003, Notification of Potential Safety Issues, as prescribed in246.370(a).
+(xviio) *Part 246 - Quality Assurance.* (A) Use the clause at 252.246-7003, Notification of Potential Safety Issues, as prescribed in246.370(a).
 
 (B) Use the clause at 252.246-7004, Safety of Facilities, Infrastructure, and Equipment for Military Operations, as prescribed in 246.270-4, to comply with section 807 of Pub. L. 111-84.
 
 (C) Use the clause at 252.246-7008, Sources of Electronic Parts, as prescribed in 246.870-3(b), to comply with section 818(c)(3) of Public Law 112-81, as amended by section 817 of the National Defense Authorization Act for Fiscal Year 2015 (Pub. L. 113-291 and section 885 of the National Defense Authorization Act for Fiscal Year 2016 (Pub. L. 114-92).
 
-(xix) *Part 247 - Transportation.* (A) Use the clause at 252.247-7003, Pass-Through of Motor Carrier Fuel Surcharge Adjustment to the Cost Bearer, as prescribed in 247.207, to comply with section 884 of Pub. L. 110-417.
+(xviii) *Part 247 - Transportation.* (A) Use the clause at 252.247-7003, Pass-Through of Motor Carrier Fuel Surcharge Adjustment to the Cost Bearer, as prescribed in 247.207, to comply with section 884 of Pub. L. 110-417.
 
 (B) Use the provision at 252.247-7022, Representation of Extent of Transportation by Sea, as prescribed in 247.574(a).
 
@@ -248,4 +244,4 @@
 
 (G) Use the clause at 252.247-7028, Application for U.S. Government Shipping Documentation/Instructions, as prescribed in 247.207.
 
-[80 FR 2019, Jan. 15, 2015, as amended at 80 FR 4999, Jan. 29, 2015; 80 FR 30116, 30118, May 26, 2015; 80 FR 36901, June 26, 2015; 80 FR 51743, 51749, Aug. 26, 2015; 80 FR 56929, Sept. 21, 2015; 80 FR 67251, Oct. 30, 2015; 80 FR 72603, Nov. 20, 2015; 80 FR 81469, Dec. 30, 2015; 81 FR 17046, Mar. 25, 2016; 81 FR 28728, 28730, May 10, 2016; 81 FR 50647, Aug. 2, 2016; 82 FR 61480, Dec. 28, 2017; 83 FR 4443, Jan. 31, 2018; 83 FR 16002, Apr. 13, 2018; 83 FR 19645, May 4, 2018; 83 FR 24887, 24888, May 30, 2018; 83 FR 30825, June 29, 2018; 83 FR 62499, Dec. 4, 2018; 83 FR 66063, 66071, Dec. 21, 2018; 84 FR 4363, 4369, 4371, Feb. 15, 2019; 84 FR 18158, Apr. 30, 2019; 84 FR 48508, 48510, Sept. 13, 2019; 84 FR 58332, Oct. 31, 2019; 84 FR 72237, 72559, Dec. 31, 2019; 85 FR 19697, Apr. 8, 2020; 85 FR 61501, 61520, Sept. 29, 2020]
+[80 FR 2019, Jan. 15, 2015, as amended at 80 FR 4999, Jan. 29, 2015; 80 FR 30116, 30118, May 26, 2015; 80 FR 36901, June 26, 2015; 80 FR 51743, 51749, Aug. 26, 2015; 80 FR 56929, Sept. 21, 2015; 80 FR 67251, Oct. 30, 2015; 80 FR 72603, Nov. 20, 2015; 80 FR 81469, Dec. 30, 2015; 81 FR 17046, Mar. 25, 2016; 81 FR 28728, 28730, May 10, 2016; 81 FR 50647, Aug. 2, 2016; 82 FR 61480, Dec. 28, 2017; 83 FR 4443, Jan. 31, 2018; 83 FR 16002, Apr. 13, 2018; 83 FR 19645, May 4, 2018; 83 FR 24887, 24888, May 30, 2018; 83 FR 30825, June 29, 2018; 83 FR 62499, Dec. 4, 2018; 83 FR 66063, 66071, Dec. 21, 2018; 84 FR 4363, 4369, 4371, Feb. 15, 2019; 84 FR 18158, Apr. 30, 2019; 84 FR 48508, 48510, Sept. 13, 2019; 84 FR 58332, Oct. 31, 2019; 84 FR 72237, 72559, Dec. 31, 2019; 85 FR 19697, Apr. 8, 2020; 85 FR 61501, 61520, Sept. 29, 2020; 85 FR 74612, Nov. 23, 2020]
