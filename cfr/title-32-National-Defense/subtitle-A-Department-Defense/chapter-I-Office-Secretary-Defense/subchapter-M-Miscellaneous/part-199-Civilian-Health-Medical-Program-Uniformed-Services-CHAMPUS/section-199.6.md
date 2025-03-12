@@ -1,7 +1,5 @@
 ##### § 199.6 TRICARE - authorized providers. #####
 
-Link to an amendment published at 85 FR 73196, Nov. 17, 2020.
-
 (a) *General.* This section sets forth general policies and procedures that are the basis for the CHAMPUS cost-sharing of medical services and supplies provided by institutions, individuals, or other types of providers. Providers seeking payment from the Federal Government through programs such as CHAMPUS have a duty to familiarize themselves with, and comply with, the program requirements.
 
 (1) *Listing of provider does not guarantee payment of benefits.* The fact that a type of provider is listed in this section is not to be construed to mean that CHAMPUS will automatically pay a claim for services or supplies provided by such a provider. The provider who actually furnishes the service(s) must, in fact, meet all licensing and other requirements established by this part to be an authorized provider; the provider must not be the subject of sanction under § 199.9; and, cost-sharing of the services must not otherwise be prohibited by this part. In addition, the patient must in fact be an eligible beneficiary and the services or supplies billed must be authorized and medically necessary, regardless of the standing of the provider.
@@ -782,7 +780,7 @@ rendered. The audits may be conducted on a scheduled or unscheduled (unannounced
 
 (B) *Doctors of Optometry.*
 
-(C) *Doctors of Podiatry or Surgical Chiropody.*
+(C) *Doctors of Podiatric Medicine or Podiatrists.*
 
 (D) *Certified nurse midwives.*
 
@@ -880,13 +878,13 @@ Patients' organic medical problems must receive appropriate concurrent managemen
 
 (*ii*) Audiologists.
 
-(*2*) The services of the following individual professional providers of care to be considered for benefits on a fee-for-service basis may be provided only if the beneficiary is referred by a physician, a certified physician assistant or certified nurse practitioner and a physician, a certified physician assistant, or certified nurse practitioner must also provide continuing and ongoing oversight and supervision of the program or episode of treatment provided by these individual paramedical providers.
+(*2*) The services of the following individual paramedical providers of care to be considered for benefits on a fee-for-service basis may be provided only if: The beneficiary is referred by a physician, certified physician assistant, certified nurse practitioner, or podiatrist; and a physician, certified physician assistant, certified nurse practitioner, or podiatrist must also provide continuing and ongoing oversight and supervision of the program or episode of treatment provided by these individual paramedical providers.
 
 (*i*) Licensed registered physical therapist (PT), including a licensed or certified physical therapist assistant (PTA) performing under the supervision of a TRICARE-authorized PT. PTAs shall meet the qualifications specified by Medicare (42 CFR 484.115, or successor regulation) and the Director, DHA, shall issue policy adopting, to the extent practicable, Medicare's requirements for PTA supervision.
 
 (*ii*) Licensed registered occupational therapist (OT), including a licensed or certified occupational therapy assistant (OTA) performing under the supervision of a TRICARE authorized OT. OTAs shall meet the qualifications specified by Medicare (42 CFR 484.115, or successor regulation) and the Director, DHA, shall issue policy adopting, to the extent practicable, Medicare's requirements for OTA supervision.
 
-(*iii*) Licensed registered speech therapists (speech pathologists).
+(*3*) Licensed registered speech therapists (speech pathologists). In order to be considered for benefits on a fee-for-service basis, the services of a licensed registered speech therapist as an individual paramedical provider of care may be provided only if: (1) The beneficiary is referred by a physician, a certified physician assistant, or a certified nurse practitioner; and (2) a physician, a certified physician assistant, or a certified nurse practitioner must also provide continuing and ongoing oversight and supervision of the program or episode of treatment provided by these individual paramedical providers.
 
 (L) *Nutritionist.* The nutritionist must be licensed by the State in which the care is provided and must be under the supervision of a physician who is overseeing the episode of treatment or the covered program of services.
 

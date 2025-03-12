@@ -1,5 +1,7 @@
 ##### § 1235.3 Inadmissible aliens and expedited removal. #####
 
+Link to an amendment published at 85 FR 80400, Dec. 11, 2020.
+
 (a) *Detention prior to inspection.* All persons arriving at a port-of-entry in the United States by vessel or aircraft shall be detained aboard the vessel or at the airport of arrival by the owner, agent, master, commanding officer, person in charge, purser, or consignee of such vessel or aircraft until admitted or otherwise permitted to land by an officer of the Service. Notice or order to detain shall not be required. The owner, agent, master, commanding officer, person in charge, purser, or consignee of such vessel or aircraft shall deliver every alien requiring examination to an immigration officer for inspection or to a medical officer for examination. The Service will not be liable for any expenses related to such detention or presentation or for any expenses of a passenger who has not been presented for inspection and for whom a determination has not been made concerning admissibility by a Service officer.
 
 (b) *Expedited removal* - (1) *Applicability.* The expedited removal provisions shall apply to the following classes of aliens who are determined to be inadmissible under section 212(a)(6)(C) or (7) of the Act:

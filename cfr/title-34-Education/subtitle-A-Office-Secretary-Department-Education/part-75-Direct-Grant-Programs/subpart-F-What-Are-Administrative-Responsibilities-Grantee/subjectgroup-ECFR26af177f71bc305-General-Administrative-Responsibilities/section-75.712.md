@@ -1,5 +1,7 @@
 ##### § 75.712 Beneficiary protections: Written notice. #####
 
+Link to an amendment published at 85 FR 82128, Dec. 17, 2020.
+
 (a) A faith-based organization that receives a grant, subgrant, or contract under a program of the Department supported in whole or in part by direct Federal financial assistance must give written notice to a beneficiary or prospective beneficiary of certain protections. This notice must state that:
 
 (1) The organization may not discriminate against a beneficiary or prospective beneficiary on the basis of religion or religious belief, a refusal to hold a religious belief, or refusal to attend or participate in a religious practice;

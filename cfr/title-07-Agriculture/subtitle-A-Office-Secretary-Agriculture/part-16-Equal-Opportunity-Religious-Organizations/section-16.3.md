@@ -1,5 +1,7 @@
 ##### § 16.3 Rights of religious organizations. #####
 
+Link to an amendment published at 85 FR 82133, Dec. 17, 2020.
+
 (a) A religious organization is eligible, on the same basis as any other eligible private organization, to access and participate in USDA assistance programs. Neither the Federal Government nor a State or local government receiving USDA assistance shall, in the selection of service providers, discriminate for or against a religious organization on the basis of the organization's religious character or affiliation. Additionally, decisions about awards of USDA direct assistance or USDA indirect assistance must be free from political interference or even the appearance of such interference and must be made on the basis of merit, not on the basis of the religious affiliation of a recipient organization or lack thereof.
 
 (b) A religious organization that participates in USDA assistance programs will retain its independence and may continue to carry out its mission, including the definition, practice, and expression of its religious beliefs, provided that it does not use USDA direct assistance to support any explicitly religious activities, including activities that involve overt religious content such as worship, religious instruction, or proselytization. Among other things, a religious organization may:

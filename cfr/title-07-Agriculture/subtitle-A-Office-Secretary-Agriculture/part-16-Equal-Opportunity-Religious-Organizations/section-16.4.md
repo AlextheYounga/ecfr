@@ -1,5 +1,7 @@
 ##### § 16.4 Responsibilities of participating organizations. #####
 
+Link to an amendment published at 85 FR 82134, Dec. 17, 2020.
+
 (a) Any organization that participates in a program funded by USDA financial assistance shall not, in providing services, discriminate against a current or prospective program beneficiary on the basis of religion, religious belief, a refusal to hold a religious belief, or a refusal to attend or participate in a religious practice. However, an organization that participates in a program funded by indirect financial assistance need not modify its program activities to accommodate a beneficiary who chooses to expend the indirect aid on the organization's program.
 
 (b) Organizations that receive USDA direct assistance under any USDA program may not engage in explicitly religious activities, including activities that involve overt religious content such as worship, religious instruction, or proselytization, as part of the programs or services supported with USDA direct assistance. If an organization conducts such activities, the activities must be offered separately, in time or location, from the programs or services supported with USDA direct assistance, and participation must be voluntary for beneficiaries of the programs or services supported with such USDA direct assistance.

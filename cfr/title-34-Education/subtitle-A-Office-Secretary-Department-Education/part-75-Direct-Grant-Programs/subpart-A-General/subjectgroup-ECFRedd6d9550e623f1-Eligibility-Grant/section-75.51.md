@@ -1,5 +1,7 @@
 ##### § 75.51 How to prove nonprofit status. #####
 
+Link to an amendment published at 85 FR 82126, Dec. 17, 2020.
+
 (a) Under some programs, an applicant must show that it is a nonprofit organization. (See the definition of *nonprofit* in 34 CFR 77.1.)
 
 (b) An applicant may show that it is a nonprofit organization by any of the following means:

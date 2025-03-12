@@ -1,7 +1,5 @@
 ##### § 199.4 Basic program benefits. #####
 
-Link to an amendment published at 85 FR 73196, Nov. 17, 2020.
-
 (a) *General.* The CHAMPUS Basic Program is essentially a supplemental program to the Uniformed Services direct medical care system. The Basic Program is similar to private insurance programs, and is designed to provide financial assistance to CHAMPUS beneficiaries for certain prescribed medical care obtained from civilian sources.
 
 (1)(i) *Scope of benefits.* Subject to all applicable definitions, conditions, limitations, or exclusions specified in this part, the CHAMPUS Basic Program will pay for medically or psychologically necessary services and supplies required in the diagnosis and treatment of illness or injury, including maternity care and well-baby care. Benefits include specified medical services and supplies provided to eligible beneficiaries from authorized civilian sources such as hospitals, other authorized institutional providers, physicians, other authorized individual professional providers, and professional ambulance service, prescription drugs, authorized medical supplies, and rental or purchase of durable medical equipment.
@@ -491,7 +489,7 @@ the Center for Substance Abuse Treatment (CSAT), and the Drug Enforcement Admini
 
 (x) *Physical and occupational therapy.* Assessment and treatment services of a CHAMPUS-authorized physical or occupational therapist may be cost-shared when:
 
-(A) The services are prescribed and monitored by a physician, certified physician assistant or certified nurse practitioner.
+(A) The services are prescribed and monitored by a physician, certified physician assistant, certified nurse practitioner or Doctor of Podiatric Medicine (Podiatrist) acting within the scope of their license.
 
 (B) The purpose of the prescription is to reduce the disabling effects of an illness, injury, or neuromuscular disorder; and
 

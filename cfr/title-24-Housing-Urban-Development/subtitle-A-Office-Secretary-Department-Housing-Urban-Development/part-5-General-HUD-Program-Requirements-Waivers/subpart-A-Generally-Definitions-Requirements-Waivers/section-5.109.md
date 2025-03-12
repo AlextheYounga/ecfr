@@ -1,5 +1,7 @@
 ##### § 5.109 Equal participation of faith-based organizations in HUD programs and activities. #####
 
+Link to an amendment published at 85 FR 82135, Dec. 17, 2020.
+
 (a) *Purpose.* Consistent with Executive Order 13279 (issued on December 12, 2002, 67 FR 77141), entitled “Equal Protection of the Laws for Faith-Based and Community Organizations,” as amended by Executive Order 13559 (issued on November 17, 2010, 75 FR 71319), entitled “Fundamental Principles and Policymaking Criteria for Partnerships With Faith-Based and Other Neighborhood Organizations,” this section describes requirements for ensuring the equal participation of faith-based organizations in HUD programs and activities. These requirements apply to all HUD programs and activities, including all of HUD's Native American Programs, except as may be otherwise noted in the respective program regulations in title 24 of the Code of Federal Regulations (CFR), or unless inconsistent with certain HUD program authorizing statutes.
 
 (b) *Definitions.* The following definitions apply to this section:

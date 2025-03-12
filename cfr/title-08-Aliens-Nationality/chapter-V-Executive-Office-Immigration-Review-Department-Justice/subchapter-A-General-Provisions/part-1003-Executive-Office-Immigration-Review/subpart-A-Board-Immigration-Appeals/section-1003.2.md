@@ -1,5 +1,7 @@
 ##### § 1003.2 Reopening or reconsideration before the Board of Immigration Appeals. #####
 
+Link to an amendment published at 85 FR 81654, Dec. 16, 2020.
+
 (a) *General.* The Board may at any time reopen or reconsider on its own motion any case in which it has rendered a decision. A request to reopen or reconsider any case in which a decision has been made by the Board, which request is made by the Service, or by the party affected by the decision, must be in the form of a written motion to the Board. The decision to grant or deny a motion to reopen or reconsider is within the discretion of the Board, subject to the restrictions of this section. The Board has discretion to deny a motion to reopen even if the party moving has made out a *prima facie* case for relief.
 
 (b) *Motion to reconsider.* (1) A motion to reconsider shall state the reasons for the motion by specifying the errors of fact or law in the prior Board decision and shall be supported by pertinent authority. A motion to reconsider a decision rendered by an Immigration Judge or Service officer that is pending when an appeal is filed with the Board, or that is filed subsequent to the filing with the Board of an appeal from the decision sought to be reconsidered, may be deemed a motion to remand the decision for further proceedings before the Immigration Judge or the Service officer from whose decision the appeal was taken. Such motion may be consolidated with, and considered by the Board in connection with the appeal to the Board.

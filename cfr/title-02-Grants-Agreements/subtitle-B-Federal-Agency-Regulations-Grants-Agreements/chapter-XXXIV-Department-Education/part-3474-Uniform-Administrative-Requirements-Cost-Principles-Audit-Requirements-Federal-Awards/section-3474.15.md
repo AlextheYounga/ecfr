@@ -1,5 +1,7 @@
 ##### § 3474.15 Contracting with faith-based organizations and nondiscrimination. #####
 
+Link to an amendment published at 85 FR 82125, Dec. 17, 2020.
+
 (a) This section establishes responsibilities that grantees and subgrantees have in selecting contractors to provide direct Federal services under a program of the Department. Paragraphs (c)(1), (d)(1), and (f) of this section establish requirements that supplement the procurement requirements in 2 CFR 200.313 through 200.326. Every contract between a grantee or subgrantee and a faith-based organization under a program of direct Federal financial assistance must include conditions to implement the requirements in paragraphs (c)(1), (d)(1), and (f) of this section.
 
 (b)(1) A faith-based organization is eligible to contract with grantees and subgrantees, including States, on the same basis as any other private organization, with respect to contracts for which such other organizations are eligible.

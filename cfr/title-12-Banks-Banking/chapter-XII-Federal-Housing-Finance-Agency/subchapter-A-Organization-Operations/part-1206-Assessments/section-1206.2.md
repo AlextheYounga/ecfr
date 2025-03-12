@@ -1,5 +1,7 @@
 ##### § 1206.2 Definitions. #####
 
+Link to an amendment published at 85 FR 82198, Dec. 17, 2020.
+
 As used in this part:
 
 *Act* means the Federal Housing Finance Regulatory Reform Act of 2008.

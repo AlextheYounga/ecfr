@@ -1,5 +1,7 @@
 ##### § 208.6 Disclosure to third parties. #####
 
+Link to an amendment published at 85 FR 80386, Dec. 11, 2020.
+
 (a) Information contained in or pertaining to any asylum application, records pertaining to any credible fear determination conducted pursuant to § 208.30, and records pertaining to any reasonable fear determination conducted pursuant to § 208.31, shall not be disclosed without the written consent of the applicant, except as permitted by this section or at the discretion of the Attorney General.
 
 (b) The confidentiality of other records kept by the Service and the Executive Office for Immigration Review that indicate that a specific alien has applied for asylum, received a credible fear or reasonable fear interview, or received a credible fear or reasonable fear review shall also be protected from disclosure. The Service will coordinate with the Department of State to ensure that the confidentiality of those records is maintained if they are transmitted to Department of State offices in other countries.

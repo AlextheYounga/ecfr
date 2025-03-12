@@ -1,5 +1,7 @@
 ##### § 19.2 Definitions. #####
 
+Link to an amendment published at 85 FR 82130, Dec. 17, 2020.
+
 For purposes of this part:
 
 *Beneficiary* means an individual recipient of goods or services provided as part of a social service program specifically supported by Federal financial assistance. “Beneficiary” does not mean an individual who may incidentally benefit from Federal financial assistance provided to a State, local, or Tribal government, or a private nonprofit organization. Except where expressly noted or where inapplicable, “beneficiary” includes a prospective beneficiary.

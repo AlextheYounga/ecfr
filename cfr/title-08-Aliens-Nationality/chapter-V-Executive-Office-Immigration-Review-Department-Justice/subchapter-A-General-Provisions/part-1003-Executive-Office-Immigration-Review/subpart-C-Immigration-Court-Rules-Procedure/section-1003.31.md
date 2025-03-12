@@ -1,5 +1,7 @@
 ##### § 1003.31 Filing documents and applications. #####
 
+Link to an amendment published at 85 FR 81750, Dec. 16, 2020.
+
 (a) All documents and applications that are to be considered in a proceeding before an Immigration Judge must be filed with the Immigration Court having administrative control over the Record of Proceeding.
 
 (b) Except as provided in 8 CFR 1240.11(f), all documents or applications requiring the payment of a fee must be accompanied by a fee receipt from the Service or by an application for a waiver of fees pursuant to 8 CFR 3.24. Except as provided in § 1003.8(a) and (c), any fee relating to Immigration Judge proceedings shall be paid to, and accepted by, any Service office authorized to accept fees for other purposes pursuant to § 1103.7(a) of this chapter.

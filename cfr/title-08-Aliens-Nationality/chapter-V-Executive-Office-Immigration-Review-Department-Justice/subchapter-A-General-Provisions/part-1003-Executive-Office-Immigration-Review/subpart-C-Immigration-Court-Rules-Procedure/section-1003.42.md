@@ -1,5 +1,7 @@
 ##### § 1003.42 Review of credible fear determination. #####
 
+Link to an amendment published at 85 FR 80393, Dec. 11, 2020.
+
 (a) *Referral.* Jurisdiction for an Immigration Judge to review an adverse credible fear finding by an asylum officer pursuant to section 235(b)(1)(B) of the Act shall commence with the filing by the Service of Form I-863, Notice of Referral to Immigration Judge. The Service shall also file with the notice of referral a copy of the written record of determination as defined in section 235(b)(1)(B)(iii)(II) of the Act, including a copy of the alien's written request for review, if any.
 
 (b) *Record of proceeding.* The Immigration Court shall create a Record of Proceeding for a review of an adverse credible fear determination. This record shall not be merged with any later proceeding pursuant to section 240 of the Act involving the same alien.

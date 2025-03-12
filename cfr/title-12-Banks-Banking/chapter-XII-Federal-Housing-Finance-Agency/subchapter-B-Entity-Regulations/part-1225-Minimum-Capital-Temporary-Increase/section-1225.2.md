@@ -1,5 +1,7 @@
 ##### § 1225.2 Definitions. #####
 
+Link to an amendment published at 85 FR 82198, Dec. 17, 2020.
+
 For purposes of this part, the term:
 
 *Minimum capital level* means the lowest amount of capital meeting any regulation or orders issued pursuant to 12 U.S.C. 1426(a)(2) and 12 U.S.C. 4612, or any similar requirement established for a Federal Home Loan Bank by regulation, order or other action.

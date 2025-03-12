@@ -1,5 +1,7 @@
 ##### § 208.18 Implementation of the Convention Against Torture. #####
 
+Link to an amendment published at 85 FR 80389, Dec. 11, 2020.
+
 (a) *Definitions.* The definitions in this subsection incorporate the definition of torture contained in Article 1 of the Convention Against Torture, subject to the reservations, understandings, declarations, and provisos contained in the United States Senate resolution of ratification of the Convention.
 
 (1) Torture is defined as any act by which severe pain or suffering, whether physical or mental, is intentionally inflicted on a person for such purposes as obtaining from him or her or a third person information or a confession, punishing him or her for an act he or she or a third person has committed or is suspected of having committed, or intimidating or coercing him or her or a third person, or for any reason based on discrimination of any kind, when such pain or suffering is inflicted by or at the instigation of or with the consent or acquiescence of a public official or other person acting in an official capacity.

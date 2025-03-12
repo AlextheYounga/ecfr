@@ -1,5 +1,7 @@
 ##### § 1244.4 Ineligible aliens. #####
 
+Link to an amendment published at 85 FR 80401, Dec. 11, 2020.
+
 An alien is ineligible for Temporary Protected Status if the alien:
 
 (a) Has been convicted of any felony or two or more misdemeanors, as defined in § 1244.1, committed in the United States, or

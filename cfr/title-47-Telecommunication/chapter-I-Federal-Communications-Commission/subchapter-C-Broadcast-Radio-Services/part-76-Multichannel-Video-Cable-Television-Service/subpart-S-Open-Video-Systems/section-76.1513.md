@@ -1,5 +1,7 @@
 ##### § 76.1513 Open video dispute resolution. #####
 
+Link to an amendment published at 85 FR 81812, Dec. 17, 2020.
+
 (a) *Complaints.* Any party aggrieved by conduct that it believes constitute a violation of the regulations set forth in this part or in section 653 of the Communications Act (47 U.S.C. 573) may commence an adjudicatory proceeding at the Commission to obtain enforcement of the rules through the filing of a complaint. The Commission shall resolve any such dispute within 180 days after the filing of a complaint. The complaint shall be filed and responded to in accordance with the procedures specified in § 76.7 of this part with the following additions or changes.
 
 (b) *Alternate dispute resolution.* An open video system operator may not provide in its carriage contracts with programming providers that any dispute must be submitted to arbitration, mediation, or any other alternative method for dispute resolution prior to submission of a complaint to the Commission.

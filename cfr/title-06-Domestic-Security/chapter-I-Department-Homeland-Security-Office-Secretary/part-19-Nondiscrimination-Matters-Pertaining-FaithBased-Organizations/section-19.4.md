@@ -1,5 +1,7 @@
 ##### § 19.4 Explicitly religious activities. #####
 
+Link to an amendment published at 85 FR 82131, Dec. 17, 2020.
+
 (a) Organizations that receive direct financial assistance from DHS to participate in or administer any social service program may not use direct Federal financial assistance that it receives (including through a prime or sub-award) to support or engage in any explicitly religious activities (including activities that involve overt religious content such as worship, religious instruction, or proselytization) or in any other manner prohibited by law.
 
 (b) Organizations receiving direct financial assistance from DHS for social service programs are free to engage in explicitly religious activities, but such activities must be

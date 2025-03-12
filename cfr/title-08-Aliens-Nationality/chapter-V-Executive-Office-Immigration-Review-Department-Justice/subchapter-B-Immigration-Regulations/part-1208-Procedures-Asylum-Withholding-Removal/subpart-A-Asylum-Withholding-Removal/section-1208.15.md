@@ -1,5 +1,7 @@
 ##### § 1208.15 Definition of “firm resettlement.” #####
 
+Link to an amendment published at 85 FR 80397, Dec. 11, 2020.
+
 An alien is considered to be firmly resettled if, prior to arrival in the United States, he or she entered into another country with, or while in that country received, an offer of permanent resident status, citizenship, or some other type of permanent resettlement unless he or she establishes:
 
 (a) That his or her entry into that country was a necessary consequence of his or her flight from persecution, that he or she remained in that country only as long as was necessary to arrange onward travel, and that he or she did not establish significant ties in that country; or

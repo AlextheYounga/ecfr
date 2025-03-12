@@ -1,3 +1,5 @@
 ##### § 19.5 Nondiscrimination requirements. #####
 
+Link to an amendment published at 85 FR 82131, Dec. 17, 2020.
+
 An organization that receives financial assistance from DHS for a social service program shall not, in providing services or in outreach activities related to such services, favor or discriminate against a beneficiary of said program or activity on the basis of religion or religious belief, a refusal to hold a religious belief, or a refusal to attend or participate in a religious practice. Organizations that favor or discriminate against a beneficiary will be subject to applicable sanctions and penalties, as established by the requirements of the particular DHS social service program or activity. However, an organization that participates in a program funded by indirect financial assistance need not modify its program activities to accommodate a beneficiary who chooses to expend the indirect aid on the organization's program.

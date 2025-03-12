@@ -1,5 +1,7 @@
 ##### § 62.62 Religious organizations. #####
 
+Link to an amendment published at 85 FR 82145, Dec. 17, 2020.
+
 (a) Organizations that are religious or faith-based are eligible, on the same basis as any other organization, to participate in the Supportive Services for Veteran Families Program under this part. Decisions about awards of Federal financial assistance must be free from political interference or even the appearance of such interference and must be made on the basis of merit, not on the basis of religion or religious belief or lack thereof.
 
 (b)(1) No organization may use direct financial assistance from VA under this part to pay for any of the following:

@@ -1,5 +1,7 @@
 ##### § 16.2 Definitions. #####
 
+Link to an amendment published at 85 FR 82132, Dec. 17, 2020.
+
 As used in this part:
 
 (a) USDA direct assistance is Federal financial assistance provided by USDA and means that the Federal Government or an intermediary (under this part) selects the provider and either purchases services from that provider (*e.g.,* via a contract) or awards funds to that provider to carry out a service (*e.g.,* via grant or cooperative agreement). In general, USDA assistance shall be treated as direct, unless it meets the definition of “USDA indirect assistance.”

@@ -1,5 +1,7 @@
 ##### § 1235.1 Scope of examination. #####
 
+Link to an amendment published at 85 FR 80400, Dec. 11, 2020.
+
 (a) *General.* Application to lawfully enter the United States shall be made in person to an immigration officer at a U.S. port-of-entry when the port is open for inspection, or as otherwise designated in this section.
 
 (b) *U.S. citizens.* A person claiming U.S. citizenship must establish that fact to the examining officer's satisfaction and must present a U.S. passport if such passport is required under the provisions of 22 CFR part 53. If such applicant for admission fails to satisfy the examining immigration officer that he or she is a U.S. citizen, he or she shall thereafter be inspected as an alien.

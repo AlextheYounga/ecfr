@@ -1,5 +1,7 @@
 ##### § 19.6 Beneficiary protections: Written notice. #####
 
+Link to an amendment published at 85 FR 82131, Dec. 17, 2020.
+
 (a) Faith-based or religious organizations providing social services to beneficiaries under a DHS program supported by direct Federal financial assistance must give written notice to beneficiaries of certain protections. Such notice may be given in the form set forth in appendix A of this part. This notice must state that:
 
 (1) The organization may not discriminate against beneficiaries on the basis of religion or religious belief, a refusal to hold a religious belief, or a refusal to attend or participate in a religious practice;

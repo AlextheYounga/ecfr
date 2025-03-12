@@ -1,5 +1,7 @@
 ##### § 19.7 Beneficiary protections: Referral requirements. #####
 
+Link to an amendment published at 85 FR 82131, Dec. 17, 2020.
+
 (a) If a beneficiary of a social service program covered under § 19.6 objects to the religious character of an organization that provides services under the program, that organization must promptly undertake reasonable efforts to identify and refer the beneficiary to an alternative provider to which the beneficiary has no objection.
 
 (b) A referral may be made to another religiously affiliated provider, if the beneficiary has no objection to that provider. But if the beneficiary requests a secular provider, and a secular provider is available, then a referral must be made to that provider.

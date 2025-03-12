@@ -1,5 +1,7 @@
 ##### § 19.3 Equal ability for faith-based organizations to seek and receive financial assistance through DHS social service programs. #####
 
+Link to an amendment published at 85 FR 82130, Dec. 17, 2020.
+
 (a) Faith-based organizations are eligible, on the same basis as any other organization, to seek and receive direct financial assistance from DHS for social service programs or to participate in social service programs administered or financed by DHS.
 
 (b) Neither DHS, nor a State or local government, nor any other entity that administers any social service program supported by direct financial assistance from DHS, shall discriminate for or against an organization on the basis of the organization's religious motivation, character, or affiliation.

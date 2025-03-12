@@ -1,5 +1,7 @@
 ##### § 1212.14 Parole determinations for alien witnesses and informants for whom a law enforcement authority (“LEA”) will request S classification. #####
 
+Link to an amendment published at 85 FR 80400, Dec. 11, 2020.
+
 (a) *Parole authority.* Parole authorization under section 212(d)(5) of the Act for aliens whom LEAs seek to bring to the United States as witnesses or informants in criminal/counter terrorism matters and to apply for S classification shall be exercised as follows:
 
 (1) *Grounds of eligibility.* The Commissioner may, in the exercise of discretion, grant parole to an alien (and the alien's family members) needed for law enforcement purposes provided that a state or federal LEA:

@@ -1,5 +1,7 @@
 ##### § 76.1003 Program access proceedings. #####
 
+Link to an amendment published at 85 FR 81812, Dec. 17, 2020.
+
 (a) *Complaints.* Any multichannel video programming distributor aggrieved by conduct that it believes constitute a violation of the regulations set forth in this subpart may commence an adjudicatory proceeding at the Commission to obtain enforcement of the rules through the filing of a complaint. The complaint shall be filed and responded to in accordance with the procedures specified in § 76.7 of this part with the following additions or changes:
 
 (b) *Prefiling notice required.* Any aggrieved multichannel video programming distributor intending to file a complaint under this section must first notify the potential defendant cable operator, and/or the potential defendant satellite cable programming vendor or satellite broadcast programming vendor, that it intends to file a complaint with the Commission based on actions alleged to violate one or more of the provisions contained in § 76.1001 or § 76.1002 of this part. The notice must be sufficiently detailed so that its recipient(s) can determine the specific nature of the potential complaint. The potential complainant must allow a minimum of ten (10) days for the potential defendant(s) to respond before filing a complaint with the Commission.

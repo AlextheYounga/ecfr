@@ -1,5 +1,7 @@
 ##### § 75.713 Beneficiary protections: Referral requirements. #####
 
+Link to an amendment published at 85 FR 82128, Dec. 17, 2020.
+
 (a) If a beneficiary or prospective beneficiary of a program of the Department supported in whole or in part by direct Federal financial assistance objects to the religious character of a faith-based organization that provides services under the program, that organization must promptly undertake reasonable efforts to identify and refer the beneficiary or prospective beneficiary to an alternative provider to which the beneficiary or prospective beneficiary has no objection.
 
 (b)(1) A faith-based organization may satisfy the requirement in paragraph (a) of this section by referring a beneficiary or prospective beneficiary to another faith-based organization if the beneficiary or prospective beneficiary does not object to that provider.

@@ -1,5 +1,7 @@
 ##### § 2.34 Beneficiary protections: written notice. #####
 
+Link to an amendment published at 85 FR 82141, Dec. 17, 2020.
+
 (a) *Contents.* Religious organizations providing social services to beneficiaries under a DOL program supported by direct Federal financial assistance must give written notice to beneficiaries and prospective beneficiaries of certain protections. Such notice must be given in a manner prescribed by DOL, and state that:
 
 (1) The organization may not discriminate against a beneficiary or prospective beneficiary on the basis of religion or religious belief, a refusal to hold a religious belief, or a refusal to attend or participate in a religious practice;

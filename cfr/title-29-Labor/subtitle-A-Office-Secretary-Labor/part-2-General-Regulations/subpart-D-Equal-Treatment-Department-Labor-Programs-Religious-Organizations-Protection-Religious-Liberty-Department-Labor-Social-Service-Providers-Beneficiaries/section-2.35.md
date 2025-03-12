@@ -1,5 +1,7 @@
 ##### § 2.35 Beneficiary protections: referral requirements. #####
 
+Link to an amendment published at 85 FR 82141, Dec. 17, 2020.
+
 (a) If a beneficiary or prospective beneficiary of a social service program supported by direct DOL financial assistance objects to the religious character of an organization that provides services under the program, that organization must promptly undertake reasonable efforts to identify and refer the beneficiary or prospective beneficiary to an alternative provider to which the beneficiary or the prospective beneficiary has no objection.
 
 (b) A referral may be made to another religious organization, if the beneficiary has no objection to that provider. But if the beneficiary requests a secular provider, and a secular provider is available, then a referral must be made to that provider.

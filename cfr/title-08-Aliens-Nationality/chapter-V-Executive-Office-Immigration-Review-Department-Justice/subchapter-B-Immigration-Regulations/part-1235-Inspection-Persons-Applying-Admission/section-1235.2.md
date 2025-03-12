@@ -1,5 +1,7 @@
 ##### § 1235.2 Parole for deferred inspection. #####
 
+Link to an amendment published at 85 FR 80400, Dec. 11, 2020.
+
 (a) A district director may, in his or her discretion, defer the inspection of any vessel or aircraft, or of any alien, to another Service office or port-of-entry. Any alien coming to a United States port from a foreign port, from an outlying possession of the United States, from Guam, Puerto Rico, or the Virgin Islands of the United States, or from another port of the United States at which examination under this part was deferred, shall be regarded as an applicant for admission at that onward port.
 
 (b) An examining immigration officer may defer further examination and refer the alien's case to the district director having jurisdiction over the place where the alien is seeking admission, or over the place of the alien's residence or destination in the United States, if the examining immigration officer has reason to believe that the alien can overcome a finding of inadmissibility by:

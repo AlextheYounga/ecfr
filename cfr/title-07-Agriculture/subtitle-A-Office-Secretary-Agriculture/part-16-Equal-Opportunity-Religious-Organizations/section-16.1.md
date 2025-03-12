@@ -1,5 +1,7 @@
 ##### § 16.1 Purpose and applicability. #####
 
+Link to an amendment published at 85 FR 82132, Dec. 17, 2020.
+
 (a) The purpose of this part is to set forth USDA policy regarding equal opportunity for religious organizations to participate in USDA assistance programs for which other private organizations are eligible.
 
 (b) Except as otherwise specifically provided in this part, the policy outlined in this part applies to all recipients and subrecipients of USDA assistance to which 2 CFR part 400 applies, and to recipients and subrecipients of Commodity Credit Corporation assistance that is administered by agencies of USDA.

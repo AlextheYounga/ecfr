@@ -1,5 +1,7 @@
 ##### § 1050.3 What conditions apply to the Charitable Choice provisions of the CSBG Act? #####
 
+Link to an amendment published at 85 FR 82148, Dec. 17, 2020.
+
 These Charitable Choice provisions apply whenever the Federal government, or a State or local government, uses funds under the CSBG Act to provide awards, contracts, or other assistance under any program authorized in the Community Services Block Grant, 42 U.S.C. 9901, *et seq.* Additionally, these provisions apply whenever an intermediate organization acting under a contract, grant, or other agreement with a Federal, State, or local government entity selects nongovernmental organizations to provide assistance under any of the programs authorized under the Community Services Block Grant Act.
 
 (a)(1) Religious organizations are eligible, on the same basis as any other organization, to participate in the applicable programs as long as they use program funds consistent with the Establishment Clause and the Free Exercise Clause of the First Amendment to the United States Constitution.

@@ -1,7 +1,5 @@
 ##### § 92.31 Region-specific regulations. #####
 
-Link to an amendment published at 85 FR 73233, Nov. 17, 2020.
-
 The season dates for the eligible subsistence-harvest areas are as follows:
 
 (a) *Aleutian/Pribilof Islands region.* (1) Northern Unit (Pribilof Islands):
@@ -28,7 +26,7 @@ The season dates for the eligible subsistence-harvest areas are as follows:
 
 (b) *Yukon/Kuskokwim Delta region.* (1) Season: April 2-August 31.
 
-(2) Closure: 30-day closure dates to be announced by the Service's Alaska Regional Director or his designee, after consultation with field biologists and the Association of Village Council President's Waterfowl Conservation Committee. This 30-day period will occur between June 1 and August 15 of each year. A press release announcing the actual closure dates will be forwarded to regional newspapers and radio and television stations.
+(2) Closure: 30-day closure dates to be announced by the Service's Alaska Regional Director or his designee, after consultation with field biologists and the Association of Village Council President's Waterfowl Conservation Committee. This 30-day period will occur between May 15 and August 15 of each year. A press release announcing the actual closure dates will be forwarded to regional newspapers and radio and television stations.
 
 (3) Special Black Brant Season Hunting Closure: From the period when egg laying begins until young birds are fledged. Closure dates to be announced by the Service's Alaska Regional Director or his designee, after consultation with field biologists and the Association of Village Council President's Waterfowl Conservation Committee. A press release announcing the actual closure dates will be forwarded to regional newspapers and radio and television stations.
 
@@ -48,7 +46,7 @@ The season dates for the eligible subsistence-harvest areas are as follows:
 
 (ii) Closure: June 15-July 15 for waterfowl; July 20-August 20 for all other birds.
 
-(e) *Kodiak Archipelago region,* except for the Kodiak Island roaded area, which is closed to the harvesting of migratory birds and their eggs. The closed area consists of all lands and waters (including exposed tidelands) east of a line extending from Crag Point in the north to the west end of Saltery Cove in the south and all lands and water south of a line extending from Termination Point along the north side of Cascade Lake extending to Anton Larsen Bay. Marine waters adjacent to the closed area are closed to harvest within 500 feet from the water's edge. The offshore islands are open to harvest.
+(e) *Kodiak Archipelago region.* The Kodiak Island Roaded Area is open to the harvesting of migratory birds and their eggs by registration permit only as administered by the Alaska Department of Fish and Game, Division of Subsistence, in cooperation with the Sun'aq Tribe of Kodiak. No hunting or egg gathering for Arctic terns, Aleutian terns, mew gulls, and emperor geese is allowed for the Kodiak Island Roaded Area Registration Permit Hunt. The closed area consists of all lands and waters (including exposed tidelands) east of a line extending from Crag Point in the north to the west end of Saltery Cove in the south and all lands and water south of a line extending from Termination Point along the north side of Cascade Lake extending to Anton Larsen Bay. Marine waters adjacent to the closed area are closed to harvest within 500 feet from the water's edge. The offshore islands are open to harvest.
 
 (1) Season: April 2-June 30 and July 31-August 31 for seabirds; April 2-June 20 and July 22-August 31 for all other birds.
 
@@ -58,15 +56,15 @@ The season dates for the eligible subsistence-harvest areas are as follows:
 
 (2) Closure: June 15-July 15, except for the taking of seabird eggs and molting/non-nesting waterfowl as provided in paragraph (f)(1) of this section.
 
-(g) *North Slope region.* (1) Southern Unit (Southwestern North Slope regional boundary east to Peard Bay, everything west of the longitude line 158°30′ W and south of the latitude line 70°45′ N to the west bank of the Ikpikpuk River, and everything south of the latitude line 69°45′ N between the west bank of the Ikpikpuk River to the east bank of Sagavinirktok River):
+(g) *North Slope region.* (1) Southern Unit (Southwestern North Slope regional boundary northeast to Icy Cape, and everything west of longitude line 161°55′ W and south of latitude line 69°45′ N to the west bank of the Sagavanirktok River and south along the west bank to the North Slope regional boundary, then west to the beginning):
 
 (i) Season: April 2-June 29 and July 30-August 31 for seabirds; April 2-June 19 and July 20-August 31 for all other birds.
 
 (ii) Closure: June 30-July 29 for seabirds; June 20-July 19 for all other birds.
 
-(iii) Special Black Brant Hunting Opening: From June 20-July 5. The open area consists of the coastline, from mean high water line outward to include open water, from Nokotlek Point east to longitude line 158°30′ W. This includes Peard Bay, Kugrua Bay, and Wainwright Inlet, but not the Kuk and Kugrua river drainages.
+(iii) Special Black Brant Hunting Season: June 20-July 5. The open area consists of the coastline from the mean high-water line outward to the North Slope regional boundary to include open water and barrier islands from southern Kasegaluk Lagoon from latitude line 69°16′ N to the north and east to longitude line 158°30′ W.
 
-(2) Northern Unit (At Peard Bay, everything east of the longitude line 158°30′ W and north of the latitude line 70°45′ N to west bank of the Ikpikpuk River, and everything north of the latitude line 69°45′ N between the west bank of the Ikpikpuk River to the east bank of Sagavinirktok River):
+(2) Northern Unit (From Icy Cape, everything east of longitude line 161°55′ W and north of latitude line 69°45′ N to the west bank of Sagavanirktok River and north to 71°):
 
 (i) Season: April 2-June 6 and July 7-August 31 for king and common eiders; April 2-June 15 and July 16-August 31 for all other birds.
 
@@ -78,9 +76,11 @@ The season dates for the eligible subsistence-harvest areas are as follows:
 
 (ii) Closure: June 20-July 19.
 
-(4) All Units: yellow-billed loons. Annually, up to 20 yellow-billed loons total for the region inadvertently entangled in subsistence fishing nets in the North Slope Region may be kept for subsistence use.
+(4) Annual 30-day closure periods in the Southern, Northern, and Eastern Units of the North Slope Region may differ from fixed dates (see unit-specific closure dates in paragraphs (g)(1) through (3) of this section) if environmental and biological conditions warrant such a change. After consultation with Service field biologists, the North Slope Borough (NSB) Department of Wildlife Management, and the NSB Fish and Game Management Committee, the Service's Alaska Regional Director or his/her designee may announce closure dates that differ from those fixed dates.
 
-(5) North Coastal Zone (Cape Thompson north to Point Hope and east along the Arctic Ocean coastline around Point Barrow to Ross Point, including Iko Bay, and 5 miles inland).
+(5) All Units: yellow-billed loons. Annually, up to 20 yellow-billed loons total for the region inadvertently entangled in subsistence fishing nets in the North Slope Region may be kept for subsistence use.
+
+(6) North Coastal Zone (Cape Thompson north to Point Hope and east along the Arctic Ocean coastline around Point Barrow to Ross Point, including Iko Bay, and 5 miles inland).
 
 (i) No person may at any time, by any means, or in any manner, possess or have in custody any migratory bird or part thereof, taken in violation of subparts C and D of this part.
 
@@ -146,4 +146,4 @@ The season dates for the eligible subsistence-harvest areas are as follows:
 
 (ii) Closure: July 1-August 31.
 
-[84 FR 12951, Apr. 3, 2019, as amended at 85 FR 18459, Apr. 2, 2020]
+[84 FR 12951, Apr. 3, 2019, as amended at 85 FR 18459, Apr. 2, 2020; 85 FR 73233, Nov. 17, 2020]
