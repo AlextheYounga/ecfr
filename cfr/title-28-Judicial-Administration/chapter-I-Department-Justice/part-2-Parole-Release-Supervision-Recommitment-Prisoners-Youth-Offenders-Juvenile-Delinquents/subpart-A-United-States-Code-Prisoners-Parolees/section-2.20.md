@@ -22,27 +22,22 @@
 
 (2) Exception: Where probation has been revoked on a complex sentence (i.e., a committed sentence of more than six months on one count or more of an indictment or information followed by a probation term on other count(s) of an indictment or information), the case shall be considered for guideline purposes under § 2.21 as if parole rather than probation had been revoked.
 
-Guidelines for Decisionmaking
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Offense characteristics:  <br/>Severity of offense behavior                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |Offender characteristics: Parole prognosis (salient factor score 1998)|                   |                   |       |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|-------------------|-------------------|-------|
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Very good  <br/>(10 to 8)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         Good  <br/>(7 to 6)                          |Fair  <br/>(5 to 4)|Poor  <br/>(3 to 0)|       |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                       Guideline range (months)                       |                   |                   |       |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   Category:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                                      |                   |                   |       |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                 ≤= 4                                 |        ≤=8        |       8-12        | 12-16 |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                 ≤=6                                  |       ≤=10        |       12-16       | 16-22 |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                 ≤=10                                 |       12-16       |       18-24       | 24-32 |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                12-18                                 |       20-26       |       26-34       | 34-44 |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                24-36                                 |       36-48       |       48-60       | 60-72 |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       6                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                40-52                                 |       52-64       |       64-78       |78-100 |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       7                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                52-80                                 |       64-92       |      78-110       |100-148|
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                8 <sup>1</sup>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                 100+                                 |       120+        |       150+        | 180+  |
+|<sup>1</sup> Note: For Category Eight, no upper limits are specified due to the extreme variability of the cases within this category. For decisions exceeding the lower limit of the applicable guideline category by more than 48 months, the Commission will specify the pertinent case factors upon which it relied in reaching its decision, which may include the absence of any factors mitigating the offense. This procedure is intended to ensure that the prisoner understands that individualized consideration has been given to the facts of the case, and not to suggest that a grant of parole is to be presumed for any class of Category Eight offenders. However, a murder committed to silence a victim or witness, a contract murder, a murder by torture, the murder of a law enforcement officer to carry out an offense, or a murder committed to further the aims of an on-going criminal operation, shall not justify a grant of parole at any point in the prisoner's sentence unless there are compelling circumstances in mitigation (e.g., a youthful offender who participated in a murder planned and executed by his parent). Such aggravated crimes are considered, by definition, at the extreme high end of Category Eight offenses. For these cases, the expiration of the sentence is deemed to be a decision at the maximum limit of the guideline range. (The fact that an offense does not fall under the definition contained herein does not mean that the Commission is obliged to grant a parole.)|                                                                      |                   |                   |       |
 
-[Guidelines for decisionmaking, customary total time to be served before release (including jail time)]
-
-|Offense characteristics:  <br/>Severity of offense behavior|Offender characteristics: Parole prognosis (salient factor score 1998)|                   |                   |       |
-|-----------------------------------------------------------|----------------------------------------------------------------------|-------------------|-------------------|-------|
-|                 Very good  <br/>(10 to 8)                 |                         Good  <br/>(7 to 6)                          |Fair  <br/>(5 to 4)|Poor  <br/>(3 to 0)|       |
-|                                                           |                       Guideline range (months)                       |                   |                   |       |
-|                         Category:                         |                                                                      |                   |                   |       |
-|                             1                             |                                 ≤= 4                                 |        ≤=8        |       8-12        | 12-16 |
-|                             2                             |                                 ≤=6                                  |       ≤=10        |       12-16       | 16-22 |
-|                             3                             |                                 ≤=10                                 |       12-16       |       18-24       | 24-32 |
-|                             4                             |                                12-18                                 |       20-26       |       26-34       | 34-44 |
-|                             5                             |                                24-36                                 |       36-48       |       48-60       | 60-72 |
-|                             6                             |                                40-52                                 |       52-64       |       64-78       |78-100 |
-|                             7                             |                                52-80                                 |       64-92       |      78-110       |100-148|
-|                       8<sup>1</sup>                       |                                 100+                                 |       120+        |       150+        | 180+  |
-
-<sup>1</sup> Note: For Category Eight, no upper limits are specified due to the extreme variability of the cases within this category. For decisions exceeding the lower limit of the applicable guideline category by more than 48 months, the Commission will specify the pertinent case factors upon which it relied in reaching its decision, which may include the absence of any factors mitigating the offense. This procedure is intended to ensure that the prisoner understands that individualized consideration has been given to the facts of the case, and not to suggest that a grant of parole is to be presumed for any class of Category Eight offenders. However, a murder committed to silence a victim or witness, a contract murder, a murder by torture, the murder of a law enforcement officer to carry out an offense, or a murder committed to further the aims of an on-going criminal operation, shall not justify a grant of parole at any point in the prisoner's sentence unless there are compelling circumstances in mitigation (e.g., a youthful offender who participated in a murder planned and executed by his parent). Such aggravated crimes are considered, by definition, at the extreme high end of Category Eight offenses. For these cases, the expiration of the sentence is deemed to be a decision at the maximum limit of the guideline range. (The fact that an offense does not fall under the definition contained herein does not mean that the Commission is obliged to grant a parole.)
-
-U.S. Parole Commission Offense Behavior Severity IndexChapter One Offenses of General ApplicabilityChapter Two Offenses Involving the PersonSubchapter A - Homicide OffensesSubchapter B - Assault OffensesSubchapter C - Kidnaping and Related OffensesSubchapter D - Sexual OffensesSubchapter E - Offenses Involving AircraftSubchapter F - Communication of ThreatsChapter Three Offenses Involving PropertySubchapter A - Arson and Property Destruction OffensesSubchapter B - Criminal Entry OffensesSubchapter C - Robbery, Extortion, and BlackmailSubchapter D - Theft and Related OffensesSubchapter E - Counterfeiting and Related OffensesSubchapter F - Bankruptcy OffensesSubchapter G - Violations of Securities or Investment Regulations and Antitrust OffensesChapter Four Offenses Involving Immigration, Naturalization, and PassportsChapter Five Offenses Involving RevenueSubchapter A - Internal Revenue OffensesSubchapter B - Customs OffensesSubchapter C - Contraband CigarettesChapter Six Offenses Involving Governmental ProcessSubchapter A - Impersonation of OfficialsSubchapter B - Obstructing JusticeSubchapter C - Official CorruptionChapter Seven Offenses Involving Individual RightsSubchapter A - Offenses Involving Civil RightsSubchapter B - Offenses Involving PrivacyChapter Eight Offenses Involving Explosives and WeaponsSubchapter A - Explosives and Other Dangerous ArticlesSubchapter B - FirearmsChapter Nine Offenses Involving Illicit DrugsSubchapter A - Heroin and Opiate OffensesSubchapter B - Marihuana and Hashish OffensesSubchapter C - Cocaine OffensesSubchapter D - Other Illicit Drug OffensesChapter Ten Offenses Involving National DefenseSubchapter A - Treason and Related OffensesSubchapter B - Sabotage and Related OffensesSubchapter C - Espionage and Related OffensesSubchapter D - Selective Service OffensesSubchapter E - Other National Defense OffensesChapter Eleven Offenses Involving Organized Criminal Activity, Gambling, Obscenity, Sexual Exploitation of Children, Prostitution, and Non-Governmental BriberySubchapter A - Organized Crime OffensesSubchapter B - Gambling OffensesSubchapter C - ObscenitySubchapter D - Sexual Exploitation of ChildrenSubchapter E - Prostitution and White Slave TrafficSubchapter F - Non-Governmental BriberySubchapter G - Currency OffensesChapter Twelve Miscellaneous OffensesChapter Thirteen General Notes and DefinitionsSubchapter A - General NotesSubchapter B - DefinitionsChapter One Offenses of General Applicability101 *Conspiracy*
+U.S. Parole Commission Offense Behavior Severity IndexChapter One Offenses of General ApplicabilityChapter Two Offenses Involving the PersonSubchapter A—Homicide OffensesSubchapter B—Assault OffensesSubchapter C—Kidnaping and Related OffensesSubchapter D—Sexual OffensesSubchapter E—Offenses Involving AircraftSubchapter F—Communication of ThreatsChapter Three Offenses Involving PropertySubchapter A—Arson and Property Destruction OffensesSubchapter B—Criminal Entry OffensesSubchapter C—Robbery, Extortion, and BlackmailSubchapter D—Theft and Related OffensesSubchapter E—Counterfeiting and Related OffensesSubchapter F—Bankruptcy OffensesSubchapter G—Violations of Securities or Investment Regulations and Antitrust OffensesChapter Four Offenses Involving Immigration, Naturalization, and PassportsChapter Five Offenses Involving RevenueSubchapter A—Internal Revenue OffensesSubchapter B—Customs OffensesSubchapter C—Contraband CigarettesChapter Six Offenses Involving Governmental ProcessSubchapter A—Impersonation of OfficialsSubchapter B—Obstructing JusticeSubchapter C—Official CorruptionChapter Seven Offenses Involving Individual RightsSubchapter A—Offenses Involving Civil RightsSubchapter B—Offenses Involving PrivacyChapter Eight Offenses Involving Explosives and WeaponsSubchapter A—Explosives and Other Dangerous ArticlesSubchapter B—FirearmsChapter Nine Offenses Involving Illicit DrugsSubchapter A—Heroin and Opiate OffensesSubchapter B—Marihuana and Hashish OffensesSubchapter C—Cocaine OffensesSubchapter D—Other Illicit Drug OffensesChapter Ten Offenses Involving National DefenseSubchapter A—Treason and Related OffensesSubchapter B—Sabotage and Related OffensesSubchapter C—Espionage and Related OffensesSubchapter D—Selective Service OffensesSubchapter E—Other National Defense OffensesChapter Eleven Offenses Involving Organized Criminal Activity, Gambling, Obscenity, Sexual Exploitation of Children, Prostitution, and Non-Governmental BriberySubchapter A—Organized Crime OffensesSubchapter B—Gambling OffensesSubchapter C—ObscenitySubchapter D—Sexual Exploitation of ChildrenSubchapter E—Prostitution and White Slave TrafficSubchapter F—Non-Governmental BriberySubchapter G—Currency OffensesChapter Twelve Miscellaneous OffensesChapter Thirteen General Notes and DefinitionsSubchapter A—General NotesSubchapter B—DefinitionsChapter One Offenses of General Applicability101 *Conspiracy*
 
 Grade conspiracy in the same category as the underlying offense.
 
@@ -66,7 +61,7 @@ Note to Chapter One:
 
 The reasons for a conspiracy or attempt not being completed may, where the circumstances warrant, be considered as a mitigating factor (e.g., where there is voluntary withdrawal by the offender prior to completion of the offense).
 
-Chapter Two Offenses Involving the PersonSubchapter A - Homicide Offenses201 *Murder*
+Chapter Two Offenses Involving the PersonSubchapter A—Homicide Offenses201 *Murder*
 
 Murder, or a forcible felony\* resulting in the death of a person other than a participating offender, shall be graded as Category Eight.
 
@@ -80,7 +75,7 @@ Category Seven.
 
 Category Four.
 
-Subchapter B - Assault Offenses211 *Assault During Commission of Another Offense*
+Subchapter B—Assault Offenses211 *Assault During Commission of Another Offense*
 
 (a) If serious bodily injury\* results or if ‘serious bodily injury is the result intended’\*, grade as Category Seven;
 
@@ -104,7 +99,7 @@ Subchapter B - Assault Offenses211 *Assault During Commission of Another Offense
 
 Grade according to the underlying offense if one can be established, but not less than Category Five.
 
-Subchapter C - Kidnaping and Related Offenses221 *Kidnaping*
+Subchapter C—Kidnaping and Related Offenses221 *Kidnaping*
 
 (a) If the purpose of the kidnaping is for ransom or terrorism, grade as Category Eight;
 
@@ -122,7 +117,7 @@ Subchapter C - Kidnaping and Related Offenses221 *Kidnaping*
 
 (b) If no kidnapping has occurred, grade as “extortion”.
 
-Subchapter D - Sexual Offenses231 *Rape or Forcible Sodomy*
+Subchapter D—Sexual Offenses231 *Rape or Forcible Sodomy*
 
 (a) Category Seven.
 
@@ -144,7 +139,7 @@ Subchapter D - Sexual Offenses231 *Rape or Forcible Sodomy*
 
 (b) Exception: If the victim is less than twelve years old grade as Category Six.
 
-Subchapter E - Offenses Involving Aircraft241 *Aircraft Piracy*
+Subchapter E—Offenses Involving Aircraft241 *Aircraft Piracy*
 
 Category Eight.
 
@@ -154,7 +149,7 @@ Category Eight.
 
 (b) Otherwise, grade as Category Two.
 
-Subchapter F - Communication of Threats251 *Communicating a Threat [to kill, assault, or kidnap]*
+Subchapter F—Communication of Threats251 *Communicating a Threat [to kill, assault, or kidnap]*
 
 (a) Category Four;
 
@@ -164,7 +159,7 @@ Subchapter F - Communication of Threats251 *Communicating a Threat [to kill, ass
 
 (2) If for purposes of extortion or obstruction of justice, grade according to Chapter Three, subchapter C, or Chapter Six, subchapter B, as applicable.
 
-Chapter Three Offenses Involving PropertySubchapter A - Arson and Other Property Destruction Offenses301 *Property Destruction by Fire or Explosives*
+Chapter Three Offenses Involving PropertySubchapter A—Arson and Other Property Destruction Offenses301 *Property Destruction by Fire or Explosives*
 
 (a) If the conduct results in serious bodily injury\* or if ‘serious bodily injury is the result intended’\*, grade as Category Seven;
 
@@ -196,7 +191,7 @@ Category Seven.
 
 (h) *Exception:* If a significant interruption of a government or public utility function is caused, grade as not less than Category Three.
 
-Subchapter B - Criminal Entry Offenses311 *Burglary or Unlawful Entry*
+Subchapter B—Criminal Entry Offenses311 *Burglary or Unlawful Entry*
 
 (a) If the conduct involves an armory or similar facility (e.g., a facility where automatic weapons or war materials are stored) for the purpose of theft or destruction of weapons or war materials, grade as Category Six;
 
@@ -208,7 +203,7 @@ Subchapter B - Criminal Entry Offenses311 *Burglary or Unlawful Entry*
 
 (e) *Exception:* If the grade of the applicable “theft” offense exceeds the grade under this subchapter, grade as a “theft” offense.
 
-Subchapter C - Robbery, Extortion, and Blackmail321 *Robbery*
+Subchapter C—Robbery, Extortion, and Blackmail321 *Robbery*
 
 (a) Category Five.
 
@@ -218,7 +213,7 @@ Subchapter C - Robbery, Extortion, and Blackmail321 *Robbery*
 
 (2) If any offender forces a victim to accompany any offender to a different location, or if a victim is forcibly detained by being tied, bound, or locked up, grade as Category Six.
 
-(3) Pickpocketing (stealth - no force or fear), see subchapter D.
+(3) Pickpocketing (stealth—no force or fear), see subchapter D.
 
 (c) *Note:* Grade purse snatching (fear or force) as robbery.
 
@@ -234,7 +229,7 @@ Subchapter C - Robbery, Extortion, and Blackmail321 *Robbery*
 
 Grade as a “theft” offense according to the value of the property demanded, but not less than Category Three. Actual damage to reputation may be considered as an aggravating factor.
 
-Subchapter D - Theft and Related Offenses331 *Theft, Forgery, Fraud, Trafficking in Stolen Property\*, Interstate Transportation of Stolen Property, Receiving Stolen Property, Embezzlement, and Related Offenses*
+Subchapter D—Theft and Related Offenses331 *Theft, Forgery, Fraud, Trafficking in Stolen Property\*, Interstate Transportation of Stolen Property, Receiving Stolen Property, Embezzlement, and Related Offenses*
 
 (a) If the value of the property\* is more than $5,000,000, grade as Category Seven;
 
@@ -294,7 +289,7 @@ Grade as a “fraud” offense according to the amount of the loan.
 
 (d) If small scale (e.g., less than 2,000 sound recordings or less than 200 audio visual works), grade as Category Two.
 
-Subchapter E - Counterfeiting and Related Offenses341 *Passing or Possession of Counterfeit Currency or Other Medium of Exchange\**
+Subchapter E—Counterfeiting and Related Offenses341 *Passing or Possession of Counterfeit Currency or Other Medium of Exchange\**
 
 (a) If the face value of the currency or other medium of exchange is more than $5,000,000, grade as Category Seven;
 
@@ -312,11 +307,11 @@ Subchapter E - Counterfeiting and Related Offenses341 *Passing or Possession of 
 
 Grade manufacture or possession of instruments for manufacture (e.g., a printing press or plates) according to the quantity printed (see passing or possession)), but not less than Category Five. The term *manufacture* refers to the capacity to print or generate multiple copies; it does not apply to pasting together parts of different notes.
 
-Subchapter F - Bankruptcy Offenses351 *Fraud in Bankruptcy or Concealing Property*
+Subchapter F—Bankruptcy Offenses351 *Fraud in Bankruptcy or Concealing Property*
 
 Grade as a “fraud” offense.
 
-Subchapter G - Violation of Securities or Investment Regulations and Antitrust Offenses361 *Violation of Securities or Investment Regulations*
+Subchapter G—Violation of Securities or Investment Regulations and Antitrust Offenses361 *Violation of Securities or Investment Regulations*
 
 (a) If for purposes of fraud, grade according to the underlying offense;
 
@@ -372,7 +367,7 @@ Category One.
 
 (c) If failure to surrender canceled naturalization or citizenship certificate(s), grade as Category One.
 
-Chapter Five Offenses Involving RevenueSubchapter A - Internal Revenue Offenses501 *Tax Evasion [income tax or other taxes]*
+Chapter Five Offenses Involving RevenueSubchapter A—Internal Revenue Offenses501 *Tax Evasion [income tax or other taxes]*
 
 (a) If the amount of tax evaded or evasion attempted is more than $5,000,000, grade as Category Seven;
 
@@ -396,7 +391,7 @@ Chapter Five Offenses Involving RevenueSubchapter A - Internal Revenue Offenses5
 
 Grade as a “tax evasion” offense.
 
-Subchapter B - Customs Offenses511 *Smuggling Goods into the United States*
+Subchapter B—Customs Offenses511 *Smuggling Goods into the United States*
 
 (a) If the conduct is for the purpose of tax evasion, grade as a ‘tax evasion’ offense.
 
@@ -408,17 +403,17 @@ Subchapter B - Customs Offenses511 *Smuggling Goods into the United States*
 
 Category Two.
 
-Subchapter C - Contraband Cigarettes521 *Trafficking in Contraband Cigarettes* (re: 18 U.S.C. 2342)
+Subchapter C—Contraband Cigarettes521 *Trafficking in Contraband Cigarettes* (re: 18 U.S.C. 2342)
 
 Grade as a tax evasion offense.
 
-Chapter Six Offenses Involving Governmental ProcessSubchapter A - Impersonation of Officials601 *Impersonation of Official*
+Chapter Six Offenses Involving Governmental ProcessSubchapter A—Impersonation of Officials601 *Impersonation of Official*
 
 (a) If for purposes of commission of another offense, grade according to the offense attempted, but not less than Category Two;
 
 (b) Otherwise, grade as Category Two.
 
-Subchapter B - Obstructing Justice611 *Perjury*
+Subchapter B—Obstructing Justice611 *Perjury*
 
 (a) If the perjured testimony concerns a criminal offense, grade as accessory after the fact, but not less than Category Three;
 
@@ -466,7 +461,7 @@ If in connection with another offense for which a severity rating can be assesse
 
 (c) Civil Contempt. See 28 CFR 2.10.
 
-Subchapter C - Official Corruption621 *Bribery or Extortion [use of official position - no physical threat]*
+Subchapter C—Official Corruption621 *Bribery or Extortion [use of official position—no physical threat]*
 
 (a) Grade as a “theft offense” according to the value of the bribe demanded or received, or the favor received by the bribe-giver (whichever is greater), but not less than Category Three. The “favor received” is the gross value of the property, contract, obligation, interest, or payment intended to be awarded to the bribe-giver in return for the bribe. Grade the bribe-taker in the same manner.
 
@@ -484,11 +479,11 @@ Subchapter C - Official Corruption621 *Bribery or Extortion [use of official pos
 
 Category Two.
 
-Subchapter D - Voting Fraud631 *Voting Fraud*
+Subchapter D—Voting Fraud631 *Voting Fraud*
 
 Category Four.
 
-Chapter Seven Offenses Involving Individual RightsSubchapter A - Offenses Involving Civil Rights701 *Conspiracy Against Rights of Citizens* (re: 18 U.S.C. 241)
+Chapter Seven Offenses Involving Individual RightsSubchapter A—Offenses Involving Civil Rights701 *Conspiracy Against Rights of Citizens* (re: 18 U.S.C. 241)
 
 (a) If death results, grade as Category Eight;
 
@@ -516,7 +511,7 @@ Chapter Seven Offenses Involving Individual RightsSubchapter A - Offenses Involv
 
 Category Two.
 
-Subchapter B - Offenses Involving Privacy711 *Interception and Disclosure of Wire or Oral Communications* (re: 18 U.S.C. 2511)
+Subchapter B—Offenses Involving Privacy711 *Interception and Disclosure of Wire or Oral Communications* (re: 18 U.S.C. 2511)
 
 Category Two.
 
@@ -530,7 +525,7 @@ Category Two.
 
 Category Two.
 
-Chapter Eight Offenses Involving Explosives and WeaponsSubchapter A - Explosives Offenses and Other Dangerous Articles801 *Unlawful Possession or Distribution of Explosives; or Use of Explosives During a Felony*
+Chapter Eight Offenses Involving Explosives and WeaponsSubchapter A—Explosives Offenses and Other Dangerous Articles801 *Unlawful Possession or Distribution of Explosives; or Use of Explosives During a Felony*
 
 Grade according to offense intended, but not less than Category Five.
 
@@ -538,7 +533,7 @@ Grade according to offense intended, but not less than Category Five.
 
 Grade according to offense intended, but not less than Category Five.
 
-Subchapter B - Firearms811 *Possession by Prohibited Person* (e.g., ex-felon)
+Subchapter B—Firearms811 *Possession by Prohibited Person* (e.g., ex-felon)
 
 (a) If single weapon (rifle, shotgun, or handgun) with ammunition of the same caliber, or ammunition of a single caliber (without weapon), grade as Category Three;
 
@@ -560,7 +555,7 @@ Subchapter B - Firearms811 *Possession by Prohibited Person* (e.g., ex-felon)
 
 (d) If single weapon (rifle, shotgun, or handgun) with ammunition of the same caliber, or ammunition of a single caliber (without weapon), grade as Category Three.
 
-Chapter Nine Offenses Involving Illicit DrugsSubchapter A - Heroin and Opiate\* Offenses901 *Distribution or Possession With Intent To Distribute*
+Chapter Nine Offenses Involving Illicit DrugsSubchapter A—Heroin and Opiate\* Offenses901 *Distribution or Possession With Intent To Distribute*
 
 (a) If extremely large scale (e.g., involving 3 kilograms or more of 100% pure heroin, or equivalent amount), grade as Category Eight [except as noted in (c) below];
 
@@ -580,7 +575,7 @@ Chapter Nine Offenses Involving Illicit DrugsSubchapter A - Heroin and Opiate\* 
 
 Category One.
 
-Subchapter B - Marihuana and Hashish Offenses911 *Distribution or Possession With Intent To Distribute*
+Subchapter B—Marihuana and Hashish Offenses911 *Distribution or Possession With Intent To Distribute*
 
 (a) If extremely large scale (e.g., involving 20,000 pounds or more of marihuana/6,000 pounds or more of hashish/600 pounds or more of hash oil), grade as Category Six [except as noted in (b) below];
 
@@ -600,7 +595,7 @@ Subchapter B - Marihuana and Hashish Offenses911 *Distribution or Possession Wit
 
 Category One.
 
-Subchapter C - Cocaine Offenses921 *Distribution or Possession With Intent to Distribute*
+Subchapter C—Cocaine Offenses921 *Distribution or Possession With Intent to Distribute*
 
 (a) If extremely large scale (e.g., involving 15 kilograms or more of 100% purity, or equivalent amount; or 1.5 kilograms or more of freebased cocaine), grade as Category Eight [except as noted in (c) below];
 
@@ -624,7 +619,7 @@ Subchapter C - Cocaine Offenses921 *Distribution or Possession With Intent to Di
 
 Category One.
 
-Subchapter D - Other Illicit Drug Offenses931 *Distribution or Possession With Intent To Distribute*
+Subchapter D—Other Illicit Drug Offenses931 *Distribution or Possession With Intent To Distribute*
 
 (a) If very large scale (e.g., involving more than 200,000 doses), grade as Category Six [except as noted in (b) below];
 
@@ -652,7 +647,7 @@ Notes to Chapter Nine:
 
 (4) If weight, but not purity is available, the following grading may be used:
 
-HeroinExtremely large scale - 6 kilograms or moreVery large scale - 2-5.99 kilogramsLarge scale - 200 gms.-1.99 kilogramsMedium scale - 28.35-199.99 gms.Small scale - Less than 28.35 gms.CocaineExtremely large scale - 18.75 kilograms or moreVery large scale - 6.25-18.74 kilogramsLarge scale - 1.25-6.24 kilogramsMedium scale - 200 gms.-1.24 kilogramsSmall scale - 20 gms.-199.99 gms.Very small scale - 4 gms.-19.99 gms.Extremely small scale - Less than 4 gms.Chapter Ten Offenses Involving National DefenseSubchapter A - Treason and Related Offenses1001 *Treason*
+HeroinExtremely large scale—6 kilograms or moreVery large scale—2-5.99 kilogramsLarge scale—200 gms.-1.99 kilogramsMedium scale—28.35-199.99 gms.Small scale—Less than 28.35 gms.CocaineExtremely large scale—18.75 kilograms or moreVery large scale—6.25-18.74 kilogramsLarge scale—1.25-6.24 kilogramsMedium scale—200 gms.-1.24 kilogramsSmall scale—20 gms.-199.99 gms.Very small scale—4 gms.-19.99 gms.Extremely small scale—Less than 4 gms.Chapter Ten Offenses Involving National DefenseSubchapter A—Treason and Related Offenses1001 *Treason*
 
 Category Eight.
 
@@ -660,7 +655,7 @@ Category Eight.
 
 Category Seven.
 
-Subchapter B - Sabotage and Related Offenses1011 *Sabotage*
+Subchapter B—Sabotage and Related Offenses1011 *Sabotage*
 
 Category Eight.
 
@@ -674,11 +669,11 @@ Category Eight.
 
 Category One.
 
-Subchapter C - Espionage and Related Offenses1021 *Espionage*
+Subchapter C—Espionage and Related Offenses1021 *Espionage*
 
 Category Eight.
 
-Subchapter D - Selective Service Offenses1031 *Failure to Register, Report for Examination or Induction*
+Subchapter D—Selective Service Offenses1031 *Failure to Register, Report for Examination or Induction*
 
 (a) If committed during time of war or during a national defense emergency, grade as Category Four;
 
@@ -686,7 +681,7 @@ Subchapter D - Selective Service Offenses1031 *Failure to Register, Report for E
 
 (c) Otherwise, grade as Category One.
 
-Subchapter E - Other National Defense Offenses1041 *Offenses Involving Nuclear Energy*
+Subchapter E—Other National Defense Offenses1041 *Offenses Involving Nuclear Energy*
 
 Unauthorized production, possession, or transfer of nuclear weapons or special nuclear material or receipt of or tampering with restricted data on nuclear weapons or special nuclear material, grade as Category Eight.
 
@@ -700,7 +695,7 @@ Grade conduct involving “national security controls” or “nuclear nonprolif
 
 (b) Grade Conduct involving export of other weapons (e.g., rifles, handguns, machine guns, or hand grenades) as if a weapons/explosive distribution offense under Offenses Involving Explosives and Weapons (Chapter Eight).
 
-Chapter Eleven - Offenses Involving Organized Crime Activity, Gambling, Obscenity, Sexual Exploitation of Children, Prostitution, Non-Governmental Corruption, and the EnvironmentSubchapter A - Organized Crime Offenses1101 *Racketeer Influence and Corrupt Organizations* (re: 18 U.S.C. 1961-63)
+Chapter Eleven—Offenses Involving Organized Crime Activity, Gambling, Obscenity, Sexual Exploitation of Children, Prostitution, Non-Governmental Corruption, and the EnvironmentSubchapter A—Organized Crime Offenses1101 *Racketeer Influence and Corrupt Organizations* (re: 18 U.S.C. 1961-63)
 
 Grade according to the underlying offense attempted, but not less than Category Five.
 
@@ -708,11 +703,11 @@ Grade according to the underlying offense attempted, but not less than Category 
 
 Grade according to the underlying offense attempted, but not less than Category Three.
 
-Subchapter B - Gambling Offenses1111 *Gambling Law Violations - Operating or Employment in an Unlawful Business* (re: 18 U.S.C. 1955)
+Subchapter B—Gambling Offenses1111 *Gambling Law Violations—Operating or Employment in an Unlawful Business* (re: 18 U.S.C. 1955)
 
 (a) If large scale operation [e.g., Sports books (estimated daily gross more than $15,000); Horse books (estimated daily gross more than $4,000); Numbers bankers (estimated daily gross more than $2,000); Dice or card games (estimated daily ‘house cut’ more than $1,000); video gambling (eight or more machines)]; grade as Category Four;
 
-(b) If medium scale operation [e.g., Sports books (estimated daily gross $5,000 - $15,000); Horse books (estimated daily gross $1,500 - $4,000); Numbers bankers (estimated daily gross $750 - $2,000); Dice or card games (estimated daily ‘house cut’ $400 - $1,000); video gambling (four-seven machines)]; grade as Category Three;
+(b) If medium scale operation [e.g., Sports books (estimated daily gross $5,000—$15,000); Horse books (estimated daily gross $1,500—$4,000); Numbers bankers (estimated daily gross $750—$2,000); Dice or card games (estimated daily ‘house cut’ $400—$1,000); video gambling (four-seven machines)]; grade as Category Three;
 
 (c) If small scale operation [e.g., Sports books (estimated daily gross less than $5,000); Horse books (estimated daily gross less than $1,500); Numbers bankers (estimated daily gross less than $750); Dice or card games (estimated daily ‘house cut’ less than $400); video gambling (three or fewer machines)]; grade as Category Two;
 
@@ -736,7 +731,7 @@ Category Three.
 
 (b) *Exception:* If non-commercial, grade as Category One.
 
-Subchapter C - Obscenity1121 *Mailing, Importing, or Transporting Obscene Matter*
+Subchapter C—Obscenity1121 *Mailing, Importing, or Transporting Obscene Matter*
 
 (a) If for commercial purposes, grade as Category Three;
 
@@ -746,13 +741,13 @@ Subchapter C - Obscenity1121 *Mailing, Importing, or Transporting Obscene Matter
 
 Category One.
 
-Subchapter D - Sexual Exploitation of Children1131 *Sexual Exploitation of Children\** (re: 18 U.S.C. 2251, 2252)
+Subchapter D—Sexual Exploitation of Children1131 *Sexual Exploitation of Children\** (re: 18 U.S.C. 2251, 2252)
 
 (a) Category Six;
 
 (b) *Exception:* Where the Commission finds the offender had only a peripheral role (e.g., a retailer receiving such material for resale but with no involvement in the production or wholesale distribution of such material), grade as Category Five.
 
-Subchapter E - Prostitution and White Slave Traffic1141 *Interstate Transportation for Commercial Purposes*
+Subchapter E—Prostitution and White Slave Traffic1141 *Interstate Transportation for Commercial Purposes*
 
 (a) If physical coercion, or involving person(s) of age less than 18, grade as Category Six;
 
@@ -762,7 +757,7 @@ Subchapter E - Prostitution and White Slave Traffic1141 *Interstate Transportati
 
 Category One.
 
-Subchapter F - Non-Governmental Corruption1151 *Demand or Acceptance of Unlawful Gratuity Not Involving Federal, State, or Local Government Officials*
+Subchapter F—Non-Governmental Corruption1151 *Demand or Acceptance of Unlawful Gratuity Not Involving Federal, State, or Local Government Officials*
 
 Grade as if a fraud offense according to (1) the amount of the bribe offered or demanded, or (2) the financial loss to the victim, whichever is higher.
 
@@ -770,7 +765,7 @@ Grade as if a fraud offense according to (1) the amount of the bribe offered or 
 
 If the conduct involves bribery in a sporting contest, grade as if a theft offense according to the amount of the bribe, but not less than Category Three.
 
-Subchapter G - Currency Offenses1161 *Reports on Monetary Instrument Transactions*
+Subchapter G—Currency Offenses1161 *Reports on Monetary Instrument Transactions*
 
 (a) If extremely large scale (e.g., the estimated gross amount of currency involved is more than $5,000,000), grade as Category Seven;
 
@@ -782,7 +777,7 @@ Subchapter G - Currency Offenses1161 *Reports on Monetary Instrument Transaction
 
 (e) If small scale (e.g., the estimated gross amount of currency involved is less than $40,000), grade as Category Three.
 
-Subchapter H - Environmental Offenses1171 *Knowing Endangerment Resulting From Unlawful Treatment, Transportation, Storage, or Disposal of Hazardous Waste* [Re: 42 U.S.C. 6928(e)]
+Subchapter H—Environmental Offenses1171 *Knowing Endangerment Resulting From Unlawful Treatment, Transportation, Storage, or Disposal of Hazardous Waste* [Re: 42 U.S.C. 6928(e)]
 
 (a) If death results, grade as Category Seven;
 
@@ -818,15 +813,13 @@ If an offense behavior is not listed, the proper category may be obtained by com
 |                                  21 to 29 years                                   |        6         |
 |                                 30 years to life                                  |        7         |
 
-Chapter Thirteen General Notes and DefinitionsSubchapter A - General Notes
+Chapter Thirteen General Notes and DefinitionsSubchapter A—General Notes
 
 1. If an offense behavior can be classified under more than one category, the most serious applicable category is to be used.
 
 2. If an offense behavior involved multiple separate offenses, the severity level may be increased. Exception: in cases graded as Category Seven, multiple separate offenses are to be taken into account by consideration of a decision above the guidelines rather than by increasing the severity level.
 
 (a) In certain instances, the guidelines specify how multiple offenses are to be rated. In offenses rated by monetary loss (e.g., theft and related offenses, counterfeiting, tax evasion) or drug offenses, the total amount of the property or drugs involved is used as the basis for the offense severity rating. In instances not specifically covered in the guidelines, the decision-makers must exercise discretion as to whether or not the multiple offense behavior is sufficiently aggravating to justify increasing the severity rating. The following chart is intended to provide guidance in assessing whether the severity of multiple offenses is sufficient to raise the offense severity level; it is not intended as a mechanical rule.
-
-Multiple Separate Offenses
 
 |   Severity   |Points|   Severity   |Points|
 |--------------|------|--------------|------|
@@ -853,7 +846,7 @@ Examples: 3 Category Five Offense [3 × (9) = 27] = Category Six, 5 Category Fiv
 
 6. The phrase “may be considered an aggravating/mitigating factor” is used in this index to provide guidance concerning certain circumstances which may warrant a decision above or below the guidelines. This does not restrict consideration of above or below guidelines decisions only to these circumstances, nor does it mean that a decision above or below the guidelines is mandated in every such case.
 
-Subchapter B - Definitions
+Subchapter B—Definitions
 
 1. “Accessory after the fact” refers to the conduct of one who, knowing an offense has been committed, assists the offender to avoid apprehension, trial, or punishment (e.g., by assisting in disposal of the proceeds of an offense).
 
@@ -1057,7 +1050,7 @@ F.1 Score 1 if the offender was 41 years of age or more at the commencement of t
 
 F.2 Score 0 if the offender was less than 41 years of age at the commencement of the current offense or if the total score from Items A-E is 10.
 
-Special Instructions - Probation Violator This TimeItem A Count the original conviction that led to the sentence of probation as a prior conviction. Do not count the probation revocation as a prior conviction.
+Special Instructions—Probation Violator This TimeItem A Count the original conviction that led to the sentence of probation as a prior conviction. Do not count the probation revocation as a prior conviction.
 
 Item B Count all prior commitments of more than thirty days which were imposed prior to the behavior resulting in the current probation revocation. If the subject is committed as a probation violator following a ‘split sentence’ for which more than thirty days were served, count the confinement portion of the ‘split sentence’ as a prior commitment. *Note:* The prisoner is still credited with the time served toward the current commitment.
 
@@ -1069,7 +1062,7 @@ Item E By definition, no point is credited for this item. Exception: A person pl
 
 Item F Use the age at commencement of the probation violation, not the original offense.
 
-Special Instructions - Parole or Supervised Release Violator This Time
+Special Instructions—Parole or Supervised Release Violator This Time
 
 Item A The conviction from which paroled or placed on supervised release counts as a prior conviction.
 
@@ -1083,7 +1076,7 @@ Item E By definition, no point is credited for this item.
 
 Item F Use the age at commencement of the violation behavior (including new criminal behavior).
 
-Special Instructions - Confinement/Escape Status Violator With New Criminal Behavior in the Community This Time
+Special Instructions—Confinement/Escape Status Violator With New Criminal Behavior in the Community This Time
 
 Item A The conviction being served at the time of the confinement/escape status violation counts as a prior conviction.
 
@@ -1097,4 +1090,4 @@ Item E By definition, no point is credited for this item.
 
 Item F Use the age at commencement of the confinement/escape status violation.
 
-(18 U.S.C. 4203(a)(1); 18 U.S.C. 4204(a)(6))[47 FR 56336, Dec. 16, 1982]Editorial Note:For Federal Register citations affecting § 2.20, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(18 U.S.C. 4203(a)(1); 18 U.S.C. 4204(a)(6))[47 FR 56336, Dec. 16, 1982]Editorial Note:For Federal Register citations affecting § 2.20, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

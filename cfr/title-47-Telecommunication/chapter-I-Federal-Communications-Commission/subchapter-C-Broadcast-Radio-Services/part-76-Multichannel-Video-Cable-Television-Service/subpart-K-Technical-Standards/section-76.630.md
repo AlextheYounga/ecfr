@@ -1,7 +1,5 @@
 ##### § 76.630 Compatibility with consumer electronics equipment. #####
 
-Link to an amendment published at 83 FR 66157, Dec. 26, 2018.
-
 (a) Cable system operators shall not scramble or otherwise encrypt signals delivered to a subscriber on the basic service tier.
 
 (1) This prohibition shall not apply in systems in which:
@@ -36,12 +34,4 @@ Cable operators may file comments in reply no later than 7 days from the date su
 
 (b) Cable system operators that provide their subscribers with cable system terminal devices and other customer premises equipment that incorporates remote control capability shall permit the remote operation of such devices with commercially available remote control units or otherwise take no action that would prevent the devices from being operated by a commercially available remote control unit. Cable system operators are advised that this requirement obliges them to actively enable the remote control functions of customer premises equipment where those functions do not operate without a special activation procedure. Cable system operators may, however, disable the remote control functions of a subscriber's customer premises equipment where requested by the subscriber.
 
-Note 1 to § 76.630:
-
-47 CFR 76.1621 contains certain requirements pertaining to a cable operator's offer to supply subscribers with special equipment that will enable the simultaneous reception of multiple signals.
-
-Note 2 to § 76.630:
-
-47 CFR 76.1622 contains certain requirements pertaining to the provision of a consumer education program on compatibility matters to subscribers.
-
-[59 FR 25342, May 16, 1994, as amended at 61 FR 18510, Apr. 26, 1996; 65 FR 53616, Sept. 5, 2000; 67 FR 1650, Jan. 14, 2002; 67 FR 13235, Mar. 21, 2002; 77 FR 67301, Dec. 10, 2012; 81 FR 10125, Feb. 29, 2016]
+[59 FR 25342, May 16, 1994, as amended at 61 FR 18510, Apr. 26, 1996; 65 FR 53616, Sept. 5, 2000; 67 FR 1650, Jan. 14, 2002; 67 FR 13235, Mar. 21, 2002; 77 FR 67301, Dec. 10, 2012; 81 FR 10125, Feb. 29, 2016; 83 FR 66157, Dec. 26, 2018]

@@ -38,4 +38,4 @@ The following functions are assigned to, and shall be conducted, handled, or sup
 
 (n) Upon request, certification under 18 U.S.C. 249, relating to hate crimes.
 
-[Order No. 423-69, 34 FR 20388, Dec. 31, 1969]Editorial Note:For Federal Register citations affecting § 0.50, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[Order No. 423-69, 34 FR 20388, Dec. 31, 1969]Editorial Note:For Federal Register citations affecting § 0.50, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

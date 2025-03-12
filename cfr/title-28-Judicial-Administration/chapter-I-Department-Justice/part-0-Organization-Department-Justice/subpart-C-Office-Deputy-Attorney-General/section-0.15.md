@@ -56,4 +56,4 @@
 
 (h) [Reserved]
 
-[Order No. 960-81, 46 FR 52340, Oct. 27, 1981]Editorial Note:For Federal Register citations affecting § 0.15, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[Order No. 960-81, 46 FR 52340, Oct. 27, 1981]Editorial Note:For Federal Register citations affecting § 0.15, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

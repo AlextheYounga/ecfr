@@ -1,8 +1,6 @@
 ##### § 555.7 Processing of applications. #####
 
-Link to an amendment published at 83 FR 66160, Dec. 26, 2018.
-
-(a) The NHTSA publishes in the Federal Register, affording opportunity for comment, a notice of each application containing the information required by this part. However, if the NHTSA finds that an application does not contain the information required by this part, it so informs the applicant, pointing out the areas of insufficiency and stating that the application will not receive further consideration until the required information is submitted.
+(a) The agency publishes a notice of the application in the Federal Register, affording opportunity for comment.
 
 (b) No public hearing, argument, or other formal proceeding is held directly on an application filed under this part before its disposition under this section.
 
@@ -14,4 +12,4 @@ Link to an amendment published at 83 FR 66160, Dec. 26, 2018.
 
 (f) Unless a later effective date is specified in the notice of the grant, a temporary exemption is effective upon publication of the notice in the Federal Register and exempts vehicles manufactured on and after the effective date.
 
-[38 FR 2694, Jan. 29, 1973, as amended at 39 FR 5489, Feb. 13, 1974; 39 FR 37988, Oct. 25, 1974; 64 FR 2861, 2862, Jan. 19, 1999]
+[38 FR 2694, Jan. 29, 1973, as amended at 39 FR 5489, Feb. 13, 1974; 39 FR 37988, Oct. 25, 1974; 64 FR 2861, 2862, Jan. 19, 1999; 83 FR 66160, Dec. 26, 2018]

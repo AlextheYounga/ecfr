@@ -26,7 +26,7 @@ The following functions are assigned to and shall be conducted, handled, or supe
 
 (l) All criminal matters arising under the Labor-Management Reporting and Disclosure Act of 1959 (73 Stat. 519).
 
-(m) Enforcement of the following-described provisions of the United States Code -
+(m) Enforcement of the following-described provisions of the United States Code—
 
 (1) Sections 591 through 593 and sections 595 through 612 of title 18, U.S. Code, relating to elections and political activities;
 
@@ -54,4 +54,4 @@ The following functions are assigned to and shall be conducted, handled, or supe
 
 (v) Upon request, certification under 18 U.S.C. 249, relating to hate crimes, in cases involving extraterritorial crimes that also involve charges filed pursuant to the Military Extraterritorial Jurisdiction Act (18 U.S.C. 3261 *et seq.*), or pursuant to chapters of the Criminal Code prohibiting genocide (18 U.S.C. 1091), torture (18 U.S.C. 2340A), war crimes (18 U.S.C. 2441), or recruitment or use of child soldiers (18 U.S.C. 2442).
 
-[Order No. 423-69, 34 FR 20388, Dec. 31, 1969]Editorial Note:For Federal Register citations affecting § 0.55, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[Order No. 423-69, 34 FR 20388, Dec. 31, 1969]Editorial Note:For Federal Register citations affecting § 0.55, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

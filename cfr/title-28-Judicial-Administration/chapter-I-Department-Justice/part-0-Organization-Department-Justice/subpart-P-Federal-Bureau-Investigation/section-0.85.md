@@ -32,4 +32,4 @@ The Director of the Federal Bureau of Investigation shall:
 
 (o) Carry out the responsibilities conferred upon the Attorney General under the Communications Assistance for Law Enforcement Act, Title I of Pub. L. 103-414 (108 Stat. 4279), subject to the general supervision and direction of the Attorney General.
 
-[Order No. 423-69, 34 FR 20388, Dec. 31, 1969]Editorial Note:For Federal Register citations affecting § 0.85, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[Order No. 423-69, 34 FR 20388, Dec. 31, 1969]Editorial Note:For Federal Register citations affecting § 0.85, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

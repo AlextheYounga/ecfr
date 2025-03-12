@@ -46,4 +46,4 @@ The functions delegated to the Assistant Attorney General for Administration by 
 
 (v) Implementing Office of Management and Budget Circular No. A-76, “Performance of Commercial Activities”.
 
-[Order No. 543-73, 38 FR 29585, Oct. 26, 1973]Editorial Note:For Federal Register citations affecting § 0.76, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[Order No. 543-73, 38 FR 29585, Oct. 26, 1973]Editorial Note:For Federal Register citations affecting § 0.76, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
