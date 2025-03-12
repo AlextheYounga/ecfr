@@ -1,10 +1,10 @@
 ##### § 430.2 Definitions. #####
 
-Link to an amendment published at 88 FR 14044, Mar. 6, 2023.
+Link to an amendment published at 88 FR 14044, Mar. 6, 2023.Link to an amendment published at 88 FR 15537, Mar. 13, 2023.
 
-For purposes of this part, words shall be defined as provided for in section 321 of the Act and as follows -
+For purposes of this part, words shall be defined as provided for in section 321 of the Act and as follows—
 
-*3-Way incandescent lamp* means an incandescent lamp that -
+*3-Way incandescent lamp* means an incandescent lamp that—
 
 (1) Employs two filaments, operated separately and in combination, to provide three light levels; and
 
@@ -16,7 +16,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Activation lock* means a control mechanism (either by a physical device directly on the water heater or a control system integrated into the water heater) that is locked by default and contains a physical, software, or digital communication that must be activated with an activation key to enable to the product to operate at its designed specifications and capabilities and without which the activation of the product will provide not greater than 50 percent of the rated first hour delivery of hot water certified by the manufacturer.
 
-*Active mode* means the condition in which an energy-using product -
+*Active mode* means the condition in which an energy-using product—
 
 (1) Is connected to a main power source;
 
@@ -28,7 +28,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *All-refrigerator* means a refrigerator that does not include a compartment capable of maintaining compartment temperatures below 32 °F (0 °C) as determined according to the provisions in § 429.14(d)(2) of this chapter. It may include a compartment of 0.50 cubic-foot capacity (14.2 liters) or less for the freezing and storage of ice.
 
-*Annual fuel utilization efficiency* means the efficiency descriptor for furnaces and boilers, determined using test procedures prescribed under section 323 and based on the assumption that all -
+*Annual fuel utilization efficiency* means the efficiency descriptor for furnaces and boilers, determined using test procedures prescribed under section 323 and based on the assumption that all—
 
 (1) Weatherized warm air furnaces or boilers are located out-of-doors;
 
@@ -38,7 +38,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *ANSI* means the American National Standards Institute.
 
-*Appliance lamp* means any lamp that -
+*Appliance lamp* means any lamp that—
 
 (1) Is specifically designed to operate in a household appliance and has a maximum wattage of 40 watts (including an oven lamp, refrigerator lamp, and vacuum cleaner lamp); and
 
@@ -68,7 +68,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Basic model* means all units of a given type of covered product (or class thereof) manufactured by one manufacturer; having the same primary energy source; and, which have essentially identical electrical, physical, and functional (or hydraulic) characteristics that affect energy consumption, energy efficiency, water consumption, or water efficiency; and
 
-(1) With respect to general service fluorescent lamps, general service incandescent lamps, and incandescent reflector lamps: Lamps that have essentially identical light output and electrical characteristics - including lamp efficacy and color rendering index (CRI).
+(1) With respect to general service fluorescent lamps, general service incandescent lamps, and incandescent reflector lamps: Lamps that have essentially identical light output and electrical characteristics—including lamp efficacy and color rendering index (CRI).
 
 (2) With respect to faucets and showerheads: Have the identical flow control mechanism attached to or installed within the fixture fittings, or the identical water-passage design features that use the same path of water in the highest flow mode.
 
@@ -154,7 +154,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 (2) For all other ceiling fan related definitions, see appendix U to this subpart.
 
-*Ceiling fan light kit* means equipment designed to provide light from a ceiling fan that can be -
+*Ceiling fan light kit* means equipment designed to provide light from a ceiling fan that can be—
 
 (1) Integral, such that the equipment is attached to the ceiling fan prior to the time of retail sale; or
 
@@ -164,9 +164,9 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Central system humidifier* means a class of humidifier designed to add moisture into the air stream of a heating system.
 
-*Class A external power supply* -
+*Class A external power supply*—
 
-(1) Means a device that -
+(1) Means a device that—
 
 (i) Is designed to convert line voltage AC input into lower voltage AC or DC output;
 
@@ -180,7 +180,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 (vi) Has nameplate output power that is less than or equal to 250 watts;
 
-(2) But, does not include any device that -
+(2) But, does not include any device that—
 
 (i) Requires Federal Food and Drug Administration listing and approval as a medical device in accordance with section 513 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360(c)); or
 
@@ -198,7 +198,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 (2) A correlated color temperature less than 2,500K or greater than 7,000K as determined according to the method set forth in IES LM-9 (incorporated by reference; *see* § 430.3).
 
-*Colored incandescent lamp* means an incandescent lamp designated and marketed as a colored lamp that has -
+*Colored incandescent lamp* means an incandescent lamp designated and marketed as a colored lamp that has—
 
 (1) A color rendering index of less than 50, as determined according to the test method given in CIE 13.3 (incorporated by reference; see § 430.3); or
 
@@ -228,7 +228,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 (i) Such device being certified as, or declared to be in conformance with, a specific standard applicable only to non-consumer products. For example, a power supply model intended for use with an end-use device that is certified to the following standards would not meet the EPCA definition of an EPS:
 
-(A) CISPR 11 (Class A Equipment), “Industrial, scientific and medical equipment - Radio-frequency disturbance - Limits and methods of measurement”;
+(A) CISPR 11 (Class A Equipment), “Industrial, scientific and medical equipment—Radio-frequency disturbance—Limits and methods of measurement”;
 
 (B) UL 1480A, “Standard for Speakers for Commercial and Professional Use”;
 
@@ -256,7 +256,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Consumer product* means any article (other than an automobile, as defined in Section 501(1) of the Motor Vehicle Information and Cost Savings Act):
 
-(1) Of a type -
+(1) Of a type—
 
 (i) Which in operation consumes, or is designed to consume, energy or, with respect to showerheads, faucets, water closets, and urinals, water; and
 
@@ -304,7 +304,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Correlated color temperature (CCT)* means the absolute temperature of a blackbody whose chromaticity most nearly resembles that of the light source.
 
-*Covered product* means a consumer product -
+*Covered product* means a consumer product—
 
 (1) Of a type specified in section 322 of the Act; or
 
@@ -312,7 +312,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Dealer* means a type of contractor, generally with a relationship with one or more specific manufacturers.
 
-*Decorative hearth product* means a gas-fired appliance that -
+*Decorative hearth product* means a gas-fired appliance that—
 
 (1) Simulates a solid-fueled fireplace or presents a flame pattern;
 
@@ -324,7 +324,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 (5) For products designed for outdoor use, is not designed to provide heat proximate to the unit.
 
-*Dehumidifier* means a product, other than a portable air conditioner, room air conditioner, or packaged terminal air conditioner, that is a self-contained, electrically operated, and mechanically encased assembly consisting of -
+*Dehumidifier* means a product, other than a portable air conditioner, room air conditioner, or packaged terminal air conditioner, that is a self-contained, electrically operated, and mechanically encased assembly consisting of—
 
 (1) A refrigerated surface (evaporator) that condenses moisture from the atmosphere;
 
@@ -344,7 +344,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Designed and marketed* means exclusively designed to fulfill the indicated application and, when distributed in commerce, designated and marketed solely for that application, with the designation prominently displayed on the packaging and all publicly available documents (*e.g.,* product literature, catalogs, and packaging labels). This definition applies to the following covered lighting products: Fluorescent lamp ballasts; fluorescent lamps; general service fluorescent lamps; general service incandescent lamps; general service lamps; incandescent lamps; incandescent reflector lamps; compact fluorescent lamps (including medium base compact fluorescent lamps); LED lamps; and specialty application mercury vapor lamp ballasts.
 
-*Detachable battery* means a battery that is -
+*Detachable battery* means a battery that is—
 
 (1) Contained in a separate enclosure from the product; and
 
@@ -394,7 +394,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Estimated annual operating cost* means the aggregate retail cost of the energy which is likely to be consumed annually, and in the case of showerheads, faucets, water closets, and urinals, the aggregate retail cost of water and wastewater treatment services likely to be incurred annually, in representative use of a consumer product, determined in accordance with Section 323 of EPCA (42 U.S.C. 6293).
 
-*External power supply* means an external power supply circuit that is used to convert household electric current into DC current or lower-voltage AC current to operate a consumer product. However, the term does not include any “commercial and industrial power supply” as defined in this section, or a power supply circuit, driver, or device that is designed exclusively to be connected to, and power -
+*External power supply* means an external power supply circuit that is used to convert household electric current into DC current or lower-voltage AC current to operate a consumer product. However, the term does not include any “commercial and industrial power supply” as defined in this section, or a power supply circuit, driver, or device that is designed exclusively to be connected to, and power—
 
 (1) Light-emitting diodes providing illumination;
 
@@ -444,7 +444,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 (2) Any miscellaneous refrigeration product that must comply with an applicable miscellaneous refrigeration product energy conservation standard.
 
-*Furnace* means a product which utilizes only single-phase electric current, or single-phase electric current or DC current in conjunction with natural gas, propane, or home heating oil, and which -
+*Furnace* means a product which utilizes only single-phase electric current, or single-phase electric current or DC current in conjunction with natural gas, propane, or home heating oil, and which—
 
 (1) Is designed to be the principal heating source for the living space of a residence;
 
@@ -484,7 +484,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 (8) Lamps with a Color Rendering Index of 87 or greater.
 
-*General service incandescent lamp* means a standard incandescent or halogen type lamp that is intended for general service applications; has a medium screw base; has a lumen range of not less than 310 lumens and not more than 2,600 lumens or, in the case of a modified spectrum lamp, not less than 232 lumens and not more than 1,950 lumens; and is capable of being operated at a voltage range at least partially within 110 and 130 volts; however, this definition does not apply to the following incandescent lamps -
+*General service incandescent lamp* means a standard incandescent or halogen type lamp that is intended for general service applications; has a medium screw base; has a lumen range of not less than 310 lumens and not more than 2,600 lumens or, in the case of a modified spectrum lamp, not less than 232 lumens and not more than 1,950 lumens; and is capable of being operated at a voltage range at least partially within 110 and 130 volts; however, this definition does not apply to the following incandescent lamps—
 
 (1) An appliance lamp;
 
@@ -580,7 +580,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Gravity flush tank water closet* means a water closet designed to flush the bowl with water supplied by gravity only.
 
-*Grid-enabled water heater* means an electric resistance water heater that -
+*Grid-enabled water heater* means an electric resistance water heater that—
 
 (1) Has a rated storage tank volume of more than 75 gallons;
 
@@ -588,7 +588,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 (3) Is equipped at the point of manufacture with an activation lock and;
 
-(4) Bears a permanent label applied by the manufacturer that -
+(4) Bears a permanent label applied by the manufacturer that—
 
 (i) Is made of material not adversely affected by water;
 
@@ -706,15 +706,15 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Marine signal service lamp* means a lamp that is designed and marketed for marine signal service applications.
 
-*Medium base compact fluorescent lamp* means an integrally ballasted fluorescent lamp with a medium screw base, a rated input voltage range of 115 to 130 volts and which is designed as a direct replacement for a general service incandescent lamp; however, the term does not include -
+*Medium base compact fluorescent lamp* means an integrally ballasted fluorescent lamp with a medium screw base, a rated input voltage range of 115 to 130 volts and which is designed as a direct replacement for a general service incandescent lamp; however, the term does not include—
 
-(1) Any lamp that is -
+(1) Any lamp that is—
 
 (i) Specifically designed to be used for special purpose applications; and
 
 (ii) Unlikely to be used in general purpose applications, such as the applications described in the definition of “General Service Incandescent Lamp” in this section; or
 
-(2) Any lamp not described in the definition of “General Service Incandescent Lamp” in this section that is excluded by the Secretary, by rule, because the lamp is -
+(2) Any lamp not described in the definition of “General Service Incandescent Lamp” in this section that is excluded by the Secretary, by rule, because the lamp is—
 
 (i) Designed for special applications; and
 
@@ -732,11 +732,11 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Mobile home furnace* means a direct vent furnace that is designed for use only in mobile homes.
 
-*Modified spectrum* means, with respect to an incandescent lamp, an incandescent lamp that -
+*Modified spectrum* means, with respect to an incandescent lamp, an incandescent lamp that—
 
 (1) Is not a colored incandescent lamp; and
 
-(2) When operated at the rated voltage and wattage of the incandescent lamp -
+(2) When operated at the rated voltage and wattage of the incandescent lamp—
 
 (A) Has a color point with (x,y) chromaticity coordinates on the C.I.E. 1931 chromaticity diagram, figure 2, page 3 of IESNA LM-16 (incorporated by reference; *see* § 430.3) that lies below the black-body locus; and
 
@@ -746,7 +746,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Non-integrated lamp* means a lamp that is not an integrated lamp.
 
-*Off mode* means the condition in which an energy using product -
+*Off mode* means the condition in which an energy using product—
 
 (1) Is connected to a main power source; and
 
@@ -855,7 +855,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 (2) Any miscellaneous refrigeration product that must comply with an applicable miscellaneous refrigeration product energy conservation standard.
 
-*Replacement ballast* means a ballast that -
+*Replacement ballast* means a ballast that—
 
 (1) Is designed for use to replace an existing fluorescent lamp ballast in a previously installed luminaire;
 
@@ -889,7 +889,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Rough or vibration service incandescent reflector lamp* means a reflector lamp: in which a C-11 (5 support), C-17 (8 support), or C-22 (16 support) filament is mounted (the number of support excludes lead wires); in which the filament configuration is as shown in Chapter 6 of the 1993 *Illuminating Engineering Society of North America Lighting Handbook,* 8th Edition (see 10 CFR 430.22); and that is designated and marketed specifically for rough or vibration service applications.
 
-*Rough service lamp* means a lamp that -
+*Rough service lamp* means a lamp that—
 
 (1) Has a minimum of 5 supports with filament configurations that are C-7A, C-11, C-17, and C-22 as listed in Figure 6-12 of the IESNA Lighting Handbook (incorporated by reference; *see* § 430.3), or similar configurations where lead wires are not counted as supports; and
 
@@ -923,7 +923,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Semi-automatic clothes washer* means a class of clothes washer that is the same as an automatic clothes washer except that user intervention is required to regulate the water temperature by adjusting the external water faucet valves.
 
-*Shatter-resistant lamp, shatter-proof lamp,* or *shatter-protected lamp* means a lamp that -
+*Shatter-resistant lamp, shatter-proof lamp,* or *shatter-protected lamp* means a lamp that—
 
 (1) Has a coating or equivalent technology that is compliant with NSF/ANSI 51 (incorporated by reference; *see* § 430.3) and is designed to contain the glass if the glass envelope of the lamp is broken; and
 
@@ -975,11 +975,11 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 (3) Of a product type that was available for purchase in the United States as of December 1, 2000.
 
-*Specialty application mercury vapor lamp ballast* means a mercury vapor lamp ballast that -
+*Specialty application mercury vapor lamp ballast* means a mercury vapor lamp ballast that—
 
 (1) Is designed and marketed for operation of mercury vapor lamps used in quality inspection, industrial processing, or scientific use, including fluorescent microscopy and ultraviolet curing; and
 
-(2) In the case of a specialty application mercury vapor lamp ballast, the label of which -
+(2) In the case of a specialty application mercury vapor lamp ballast, the label of which—
 
 (i) Provides that the specialty application mercury vapor lamp ballast is ‘For specialty applications only, not for general illumination’; and
 
@@ -987,7 +987,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Specialty MR lamp* means a lamp that has an MR shape as defined in ANSI C79.1-2002 (incorporated by reference; see § 430.3), a diameter of less than or equal to 2.25 inches, a lifetime of less than or equal to 300 hours, and that is designed and marketed for a specialty application.
 
-*Standby mode* means the condition in which an energy-using product -
+*Standby mode* means the condition in which an energy-using product—
 
 (1) Is connected to a main power source; and
 
@@ -1061,7 +1061,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Vented wall furnace* means a self-contained vented heater complete with grilles or the equivalent, designed for incorporation in, or permanent attachment to, a wall of a residence and furnishing heated air circulated by gravity or by a fan directly into the space to be heated through openings in the casing.
 
-*Vibration service lamp* means a lamp that -
+*Vibration service lamp* means a lamp that—
 
 (1) Has filament configurations that are C-5, C-7A, or C-9, as listed in Figure 6-12 of the IESNA Lighting Handbook (incorporated by reference; *see* § 430.3) or similar configurations;
 
@@ -1069,7 +1069,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 (3) Is sold at retail in packages of 2 lamps or less; and
 
-(4) Is designated and marketed specifically for vibration service or vibration-resistant applications, with -
+(4) Is designated and marketed specifically for vibration service or vibration-resistant applications, with—
 
 (i) The designation appearing on the lamp packaging; and
 
@@ -1081,7 +1081,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Water closet* means a plumbing fixture that has a water-containing receptor which receives liquid and solid body waste, and upon actuation, conveys the waste through an exposed integral trap seal into a gravity drainage system, except such term does not include fixtures designed for installation in prisons.
 
-*Water heater* means a product which utilizes oil, gas, or electricity to heat potable water for use outside the heater upon demand, including -
+*Water heater* means a product which utilizes oil, gas, or electricity to heat potable water for use outside the heater upon demand, including—
 
 (1) Storage type units which heat and store water at a thermostatically controlled temperature, including gas storage water heaters with an input of 75,000 Btu per hour or less, oil storage water heaters with an input of 105,000 Btu per hour or less, and electric storage water heaters with an input of 12 kilowatts or less;
 

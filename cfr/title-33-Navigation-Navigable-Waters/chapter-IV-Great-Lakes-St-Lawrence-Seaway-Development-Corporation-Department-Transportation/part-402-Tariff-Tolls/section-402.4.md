@@ -1,5 +1,7 @@
 ##### § 402.4 Tolls. #####
 
+Link to an amendment published at 88 FR 15275, Mar. 13, 2023.
+
 (a) Every vessel entering, passing through or leaving the Seaway shall pay a toll that is the sum of each applicable charge in § 402.12. Each charge is calculated on the description set out in column 1 of § 402.12 and the rate set out in column 2 or 3.
 
 (b) The toll is assessed against the vessel, its cargo and its passengers for a complete or partial transit of the Seaway and covers a single trip in one direction.

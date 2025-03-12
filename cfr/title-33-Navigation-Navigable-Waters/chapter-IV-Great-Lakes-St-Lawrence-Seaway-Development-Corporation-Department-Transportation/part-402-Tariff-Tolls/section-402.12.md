@@ -1,5 +1,7 @@
 ##### § 402.12 Schedule of tolls. #####
 
+Link to an amendment published at 88 FR 15275, Mar. 13, 2023.
+
 Table 1 to § 402.12
 
 |                                                                                                                                                                         Column 1                                                                                                                                                                         |                                                        Column 2                                                         |                                                         Column 3                                                         |

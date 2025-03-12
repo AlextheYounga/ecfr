@@ -1,5 +1,7 @@
 ##### § 402.8 Gateway Incentive. #####
 
+Link to an amendment published at 88 FR 15275, Mar. 13, 2023.
+
 (a) To be eligible for the Gateway Incentive, cargoes, must presently be moving between a specific origin and destination via other competing gateways.
 
 (b) To be eligible for the refund applicable under the Gateway Incentive program, a shipper, or its representative, must:

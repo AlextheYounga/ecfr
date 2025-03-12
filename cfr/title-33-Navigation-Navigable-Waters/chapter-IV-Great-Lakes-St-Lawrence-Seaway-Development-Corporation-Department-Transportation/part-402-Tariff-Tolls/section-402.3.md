@@ -1,5 +1,7 @@
 ##### § 402.3 Interpretation. #####
 
+Link to an amendment published at 88 FR 15275, Mar. 13, 2023.
+
 In this tariff,
 
 *Bulk cargo* means cargo consisting of goods, loose or in mass, that generally must be shoveled, pumped, blown, scooped or forked in the handling and includes:

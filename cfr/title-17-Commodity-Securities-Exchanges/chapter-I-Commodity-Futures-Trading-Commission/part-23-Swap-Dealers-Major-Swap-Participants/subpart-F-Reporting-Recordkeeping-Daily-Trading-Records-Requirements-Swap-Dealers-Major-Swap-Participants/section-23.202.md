@@ -1,7 +1,5 @@
 ##### § 23.202 Daily trading records. #####
 
-Link to an amendment published at 88 FR 8753, Feb. 10, 2023.
-
 (a) *Daily trading records for swaps.* Each swap dealer and major swap participant shall make and keep daily trading records of all swaps it executes, including all documents on which transaction information is originally recorded. Each swap dealer and major swap participant shall ensure that its records include all information necessary to conduct a comprehensive and accurate trade reconstruction for each swap. Each swap dealer and major swap participant shall maintain each transaction record in a manner identifiable and searchable by transaction and counterparty.
 
 (1) *Pre-execution trade information.* Each swap dealer and major swap participant shall make and keep pre-execution trade information, including, at a minimum, records of all oral and written communications provided or received concerning quotes, solicitations, bids, offers, instructions, trading, and prices, that lead to the execution of a swap, whether communicated by telephone, voicemail, facsimile, instant messaging, chat rooms, electronic mail, mobile device, or other digital or electronic media. Such records shall include, but are not limited to:
@@ -16,15 +14,15 @@ Link to an amendment published at 88 FR 8753, Feb. 10, 2023.
 
 (ii) The trade ticket for each swap (which, together with the time of execution of each swap, shall be immediately recorded electronically for further processing);
 
-(iii) The unique swap identifier, as required by § 45.4(a), for each swap;
+(iii) The unique transaction identifier, as required by § 45.5 of this chapter, for each swap;
 
 (iv) A record of the date and time of execution of each swap, to the nearest minute, using Coordinated Universal Time (UTC), by timestamp or other timing device;
 
-(v) The name of the counterparty with which each such swap was executed, including its unique counterparty identifier, as required by § 45.4(b);
+(v) The name of the counterparty with which each such swap was executed, including its legal entity identifier or alternate identifier, as required by § 45.6 of this chapter;
 
 (vi) The date and title of the agreement to which each swap is subject, including but not limited to, any swap trading relationship documentation and credit support arrangements;
 
-(vii) The product name of each swap, including its unique product identifier, as required by § 45.4(c);
+(vii) The product name of each swap, including its unique product identifier and description using the product classification system, as required by § 45.7 of this chapter;
 
 (viii) The price at which the swap was executed;
 
@@ -103,3 +101,5 @@ Link to an amendment published at 88 FR 8753, Feb. 10, 2023.
 (6) The price at which the related cash or forward transaction was executed; and
 
 (7) A record of the daily calculation of the value of the related cash or forward transaction and any other relevant financial information.
+
+[77 FR 20202, Apr. 3, 2012, as amended at 88 FR 8753, Feb. 10, 2023]
