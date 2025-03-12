@@ -1,5 +1,7 @@
 ##### § 165.758 Security Zone; San Juan, Puerto Rico. #####
 
+Link to an amendment published at 86 FR 18897, Apr. 12, 2021.
+
 (a) *Location.* Moving and fixed security zones are established 50 yards around all cruise ships entering, departing, moored or anchored in the Port of San Juan, Puerto Rico. The security zone for a cruise ship entering port is activated when the vessel is one mile north of the #3 buoy, at approximate position 18°28′17′ N, 66°07′37.5′ W. The security zone for a vessel is deactivated when the vessel passes this buoy on its departure from the port.
 
 (b) *Regulations.* (1) Under general regulations in § 165.33 of this part, entering, anchoring, mooring or transiting in these zones is prohibited unless authorized by the Coast Guard Captain of the Port of San Juan.

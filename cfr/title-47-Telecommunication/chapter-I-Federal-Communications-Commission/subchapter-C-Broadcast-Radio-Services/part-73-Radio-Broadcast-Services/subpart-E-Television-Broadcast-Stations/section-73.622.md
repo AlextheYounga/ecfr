@@ -1687,7 +1687,7 @@ ut terminals of the transmitter (including any filters that may be employed). In
 |     West Point     |                        16                         |
 |      MISSOURI      |                                                   |
 |   Cape Girardeau   |                      12, 22                       |
-|      Columbia      |                       8, 17                       |
+|      Columbia      |                      17, 27                       |
 |      Hannibal      |                         7                         |
 |   Jefferson City   |                      12, 20                       |
 |       Joplin       |                   \*25, 43, 46                    |
