@@ -1,5 +1,7 @@
 ##### § 708b.2 Definitions. #####
 
+Link to an amendment published at 82 FR 60292, Dec. 20, 2017.
+
 *Conducted by an independent entity* means:
 
 (1) The independent entity will receive the ballots directly from voting members.

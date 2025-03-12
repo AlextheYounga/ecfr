@@ -1,5 +1,7 @@
 ##### § 310.545 Drug products containing certain active ingredients offered over-the-counter (OTC) for certain uses. #####
 
+Link to an amendment published at 82 FR 60502, December 20, 2017.
+
 (a) A number of active ingredients have been present in OTC drug products for various uses, as described below. However, based on evidence currently available, there are inadequate data to establish general recognition of the safety and effectiveness of these ingredients for the specified uses:
 
 (1) *Topical acne drug products.*

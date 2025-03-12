@@ -1,5 +1,7 @@
 ##### § 705.5 Terms and conditions for loans. #####
 
+Link to an amendment published at 82 FR 60292, Dec. 20, 2017.
+
 (a) NCUA may make loans, in such amounts and subject to such terms and conditions as it may determine, from the Fund to Participating Credit Unions.
 
 (b) *Funding Limits.* NCUA will publish any applicable loan funding limits in the applicable Notice of Funding Opportunity.
