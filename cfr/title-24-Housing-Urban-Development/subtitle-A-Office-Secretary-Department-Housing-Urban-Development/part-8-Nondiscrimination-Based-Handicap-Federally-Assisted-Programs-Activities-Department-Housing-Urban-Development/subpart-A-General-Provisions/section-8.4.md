@@ -1,7 +1,5 @@
 ##### § 8.4 Discrimination prohibited. #####
 
-Link to an amendment published at 83 FR 26361, June 7, 2018.
-
 (a) No qualified individual with handicaps shall, solely on the basis of handicap, be excluded from participation in, be denied the benefits of, or otherwise be subjected to discrimination under any program or activity that receives Federal financial assistance from the Department.
 
 (b)(1) A recipient, in providing any housing, aid, benefit, or service in a program or activity that receives Federal financial assistance from the Department may not, directly or through contractual, licensing, or other arrangements, solely on the basis of handicap:
@@ -44,7 +42,7 @@ Link to an amendment published at 83 FR 26361, June 7, 2018.
 
 (c)(1) Non-handicapped persons may be excluded from the benefits of a program if the program is limited by Federal statute or executive order to individuals with handicaps. A specific class of individuals with handicaps may be excluded from a program if the program is limited by Federal statute or Executive order to a different class of individuals.
 
-(2) Certain Department programs operate under statutory definitions of *handicapped person* that are more restrictive than the definition of *individual with handicaps* contained in § 8.3 (see appendix B). Those definitions are not superseded or otherwise affected by this regulation.
+(2) Certain Department programs operate under statutory definitions of *handicapped person* that are more restrictive than the definition of *individual with handicaps* contained in § 8.3. Those definitions are not superseded or otherwise affected by this regulation.
 
 (d) Recipients shall administer programs and activities receiving Federal financial assistance in the most integrated setting appropriate to the needs of qualified individuals with handicaps.
 
@@ -52,4 +50,4 @@ Link to an amendment published at 83 FR 26361, June 7, 2018.
 
 (f) The enumeration of specific forms of prohibited discrimination in paragraphs (b) through (e) of this section does not limit the general prohibition in paragraph (a) of this section.
 
-[53 FR 20233, June 2, 1988; 53 FR 28115, July 26, 1988]
+[53 FR 20233, June 2, 1988; 53 FR 28115, July 26, 1988, as amended at 83 FR 23961, June 7, 2018]

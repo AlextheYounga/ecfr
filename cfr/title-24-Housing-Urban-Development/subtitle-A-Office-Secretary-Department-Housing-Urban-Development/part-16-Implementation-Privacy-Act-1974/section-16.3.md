@@ -1,8 +1,6 @@
 ##### § 16.3 Procedures for inquiries. #####
 
-Link to an amendment published at 83 FR 26361, June 7, 2018.
-
-(a) Any individual, regardless of age, may submit an inquiry to the Department. The inquiry should be made either in person at the office of, or by mail addressed to, the appropriate Privacy Act Officer. Although oral requests may be honored, a requester may be asked to submit his request in writing. The envelope containing the request and the letter itself should both clearly indicate that the subject is a “PRIVACY ACT INQUIRY”. If an individual believes the Department maintains a record pertaining to that individual but does not know which system of records might contain such a record and/or which organizational component of the Department maintains the system of records, assistance in person or by mail will be provided at the first address listed in Appendix A to this part.
+(a) Any individual, regardless of age, may submit an inquiry to the Department. The inquiry should be made either in person at the office of, or by mail addressed to, the appropriate Privacy Act Officer. Although oral requests may be honored, a requester may be asked to submit his request in writing. The envelope containing the request and the letter itself should both clearly indicate that the subject is a “PRIVACY ACT INQUIRY”. If an individual believes the Department maintains a record pertaining to that individual but does not know which system of records might contain such a record and/or which organizational component of the Department maintains the system of records, assistance in person or by mail will be provided at the following address: Privacy Act Officer, Department of Housing and Urban Development, 451 7th St. SW, Room 10139, Washington, DC 20410.
 
 (b)(1) An inquiry should contain the following information:
 
@@ -43,3 +41,5 @@ The Department reserves the right to require compliance with the identification 
 (d) When an inquiry fails to provide necessary information as set forth in paragraph (b) of this section, the requester shall be advised that the time of receipt for processing purposes will be the time when the additional necessary information is received by the Privacy Act Officer.
 
 (e) Each inquiry received shall be acted upon promptly by the responsible Privacy Act Officer. Every effort will be made to respond within ten days (excluding Saturdays, Sundays and holidays) of the date of receipt. If a response cannot be made within ten days, the Privacy Act Officer shall send an acknowledgement during that period providing information on the status of the inquiry. The Privacy Act Officer may indicate that additional information would facilitate processing or that further information is necessary to process the inquiry.
+
+[40 FR 39729, Aug. 28, 1975, as amended at 83 FR 26361, June 7, 2018]

@@ -1,5 +1,7 @@
 ##### § 648.148 Special management zones. #####
 
+Link to an amendment published at 83 FR 31692, July 9, 2018.
+
 (a) *General.* The recipient of a U.S. Army Corps of Engineers permit for an artificial reef, fish attraction device, or other modification of habitat for purposes of fishing may request that an area surrounding and including the site be designated by the MAFMC as a special management zone (SMZ). The MAFMC may prohibit or restrain the use of specific types of fishing gear that are not compatible with the intent of the artificial reef or fish attraction device or other habitat modification within the SMZ. The establishment of an SMZ will be effected by a regulatory amendment, pursuant to the following procedure: An SMZ monitoring team comprised of members of staff from the MAFMC, NMFS Greater Atlantic Regional Fisheries Office, and NMFS Northeast Fisheries Science Center will evaluate the request in the form of a written report.
 
 (1) *Evaluation criteria.* In establishing an SMZ, the SMZ monitoring team will consider the following criteria:

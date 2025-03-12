@@ -1,7 +1,5 @@
 ##### § 40.2 Definition of “residential structure”. #####
 
-Link to an amendment published at 83 FR 26361, June 7, 2018.
-
 (a) As used in this part, the term *residential structure* means a residential structure (other than a privately owned residential structure and a residential structure on a military reservation):
 
 (1) Constructed or altered by or on behalf of the United States;
@@ -16,8 +14,8 @@ Link to an amendment published at 83 FR 26361, June 7, 2018.
 
 (2) All elevator residential structures;
 
-(3) Any residential structure that contains 15 or more housing units, unless otherwise specifically prescribed by the Uniform Federal Accessibility Standards contained in appendix A to this part.
+(3) Any residential structure that contains 15 or more housing units, unless otherwise specifically prescribed by the Uniform Federal Accessibility Standards.
 
 (4) Nonresidential structures appurtenant to a residential structure covered under this part.
 
-[36 FR 24437, Dec. 22, 1971, as amended at 49 FR 31620, Aug. 7, 1984]
+[36 FR 24437, Dec. 22, 1971, as amended at 49 FR 31620, Aug. 7, 1984; 83 FR 26361, June 7, 2018]

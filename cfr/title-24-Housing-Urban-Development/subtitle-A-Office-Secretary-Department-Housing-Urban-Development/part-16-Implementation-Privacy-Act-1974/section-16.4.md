@@ -1,8 +1,6 @@
 ##### § 16.4 Requests for access; requirements. #####
 
-Link to an amendment published at 83 FR 26361, June 7, 2018.
-
-(a) Any individual, regardless of age, may submit to the Department a request for access to records of the Department. The request should be made either in person at the Office of, or by mail addressed to, the responsible Privacy Act Officer identified in Appendix A to this part. Although oral requests may be honored, a requester may be asked to submit his request in writing. The envelope containing the request and the letter itself should both clearly indicate that the subject is a PRIVACY ACT REQUEST FOR ACCESS TO RECORDS.
+(a) Any individual, regardless of age, may submit to the Department a request for access to records of the Department. The request should be made either in person at the Office of, or by mail addressed to, the responsible Privacy Act Officer. Although oral requests may be honored, a requester may be asked to submit his request in writing. The envelope containing the request and the letter itself should both clearly indicate that the subject is a PRIVACY ACT REQUEST FOR ACCESS TO RECORDS.
 
 (b) When a request for access to records is misdirected by the requester, or not addressed as specified in paragraph (a) of this section, the Department official receiving same shall promptly refer it to the appropriate Privacy Act Officer and the time of receipt for processing purposes will be the time when it is received by that official.
 
@@ -22,7 +20,7 @@ Link to an amendment published at 83 FR 26361, June 7, 2018.
 
 City of \_\_\_\_\_\_\_\_\_\_County of \_\_\_\_\_\_\_\_\_\_:
 
-ss \_\_\_\_\_\_\_\_\_\_ (name of individual), who affixed (his) (her) signature below in my presence, came before me, a \_\_\_\_\_\_\_\_ (title), in and for the aforesaid County and State, this \_\_\_\_\_\_ day of \_\_\_\_\_\_, 19 - , and established (his) (her) identity to my satisfaction.
+ss \_\_\_\_\_\_\_\_\_\_ (name of individual), who affixed (his) (her) signature below in my presence, came before me, a \_\_\_\_\_\_\_\_ (title), in and for the aforesaid County and State, this \_\_\_\_\_\_ day of \_\_\_\_\_\_, 19—, and established (his) (her) identity to my satisfaction.
 
 My commission expires \_\_\_\_\_\_\_\_\_\_.
 
@@ -33,3 +31,5 @@ My commission expires \_\_\_\_\_\_\_\_\_\_.
 (e) When the provisions of this part are alleged to have the effect of impeding an individual in exercising his or her right to access, the Department will consider alternative suggestions from an individual making a request, regarding proof of identity and access to records.
 
 (f) An individual shall not be required to state a reason or otherwise justify his or her request for access to a record.
+
+[40 FR 39729, Aug. 28, 1975, as amended at 83 FR 26361, June 7, 2018]

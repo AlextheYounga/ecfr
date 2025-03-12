@@ -1,7 +1,5 @@
 ##### § 35.28 Non-discriminatory open access transmission tariff. #####
 
-Link to an amendment published at 83 FR 18156, Apr. 25, 2018.
-
 (a) *Applicability.* This section applies to any public utility that owns, controls or operates facilities used for the transmission of electric energy in interstate commerce and to any non-public utility that seeks voluntary compliance with jurisdictional transmission tariff reciprocity conditions.
 
 (b) *Definitions* - (1) *Requirements service agreement* means a contract or rate schedule under which a public utility provides any portion of a customer's bundled wholesale power requirements.
@@ -245,5 +243,11 @@ Link to an amendment published at 83 FR 18156, Apr. 25, 2018.
 (D) Establishes a minimum size requirement for resources using the participation model for electric storage resources that does not exceed 100 kW.
 
 (ii) The sale of electric energy from an independent system operator or regional transmission organization market to an electric storage resource that the resource then resells back to that market must be at the wholesale locational marginal price.
+
+(10) *Transparency* - (i) *Uplift reporting.* Each Commission-approved independent system operator or regional transmission organization must post two reports, at minimum, regarding uplift on a publicly accessible portion of its website. First, each Commission-approved independent system operator or regional transmission organization must post uplift, paid in dollars, and categorized by transmission zone, day, and uplift category. Transmission zone shall be defined as the geographic area that is used for the local allocation of charges. Transmission zones with fewer than four resources may be aggregated with one or more neighboring transmission zones, until each aggregated zone contains at least four resources, and reported collectively. This report shall be posted within 20 calendar days of the end of each month. Second, each Commission-approved independent system operator or regional transmission organization must post the resource name and the total amount of uplift paid in dollars aggregated across the month to each resource that received uplift payments within the calendar month. This report shall be posted within 90 calendar days of the end of each month.
+
+(ii) *Reporting Operator-Initiated Commitments.* Each Commission-approved independent system operator or regional transmission organization must post a report of each operator-initiated commitment listing the size of the commitment, transmission zone, commitment reason, and commitment start time on a publicly accessible portion of its website within 30 calendar days of the end of each month. Transmission zone shall be defined as a geographic area that is used for the local allocation of charges. Commitment reasons shall include, but are not limited to, system-wide capacity, constraint management, and voltage support.
+
+(iii) *Transmission constraint penalty factors.* Each Commission-approved independent system operator or regional transmission organization must include, in its tariff, its transmission constraint penalty factor values; the circumstances, if any, under which the transmission constraint penalty factors can set locational marginal prices; and the procedure, if any, for temporarily changing the transmission constraint penalty factor values. Any procedure for temporarily changing transmission constraint penalty factor values must provide for notice of the change to market participants.
 
 [Order 888, 61 FR 21693, May 10, 1996]Editorial Note:For Federal Register citations affecting § 35.28, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

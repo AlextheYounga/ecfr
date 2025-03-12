@@ -1,5 +1,7 @@
 ##### § 68.110 Compatibility of the public switched telephone network and terminal equipment. #####
 
+Link to an amendment published at 83 FR 31677, July 9, 2018.
+
 (a) *Availability of interface information.* Technical information concerning interface parameters not specified by the technical criteria published by the Administrative Council for Terminal Attachments, that are needed to permit terminal equipment to operate in a manner compatible with the communications facilities of a provider of wireline telecommunications, shall be provided by the provider of wireline telecommunications upon request.
 
 (b) *Changes in the facilities, equipment, operations, or procedures of a provider of wireline telecommunications.* A provider of wireline telecommunications may make changes in its communications facilities, equipment, operations or procedures, where such action is reasonably required in the operation of its business and is not inconsistent with the rules and regulations in this part. If such changes can be reasonably expected to render any customer's terminal equipment incompatible with the communications facilities of the provider of wireline telecommunications, or require modification or alteration of such terminal equipment, or otherwise materially affect its use or performance, the customer shall be given adequate notice in writing, to allow the customer an opportunity to maintain uninterrupted service.

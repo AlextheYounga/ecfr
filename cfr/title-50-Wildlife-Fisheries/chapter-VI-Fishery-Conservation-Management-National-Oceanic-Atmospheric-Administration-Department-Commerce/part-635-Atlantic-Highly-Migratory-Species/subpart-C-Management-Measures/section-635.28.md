@@ -1,5 +1,7 @@
 ##### § 635.28 Fishery closures. #####
 
+Link to an amendment published at 83 FR 31684, July 9, 2018.
+
 (a) *Bluefin tuna.* (1) When a bluefin tuna quota specified in § 635.27(a), is reached, or is projected to be reached, NMFS will file a closure action with the Office of the Federal Register for publication. On and after the effective date and time of such action, for the remainder of the fishing year or for a specified period as indicated in the notice, fishing for, retaining, possessing, or landing bluefin tuna under that quota is prohibited until the opening of the subsequent quota period or until such date as specified in the notice.
 
 (2) If NMFS determines that variations in seasonal distribution, abundance, or migration patterns of bluefin, or the catch rate in one area, precludes participants in another area from a reasonable opportunity to harvest any allocated domestic category quota, as stated in § 635.27(a), NMFS may close all or part of the fishery under that category. NMFS may reopen the fishery at a later date if NMFS determines that reasonable fishing opportunities are available, *e.g.,* bluefin have migrated into the area or weather is conducive for fishing. In determining the need for any such interim closure or area closure, NMFS will also take into consideration the criteria specified in § 635.27(a)(8).

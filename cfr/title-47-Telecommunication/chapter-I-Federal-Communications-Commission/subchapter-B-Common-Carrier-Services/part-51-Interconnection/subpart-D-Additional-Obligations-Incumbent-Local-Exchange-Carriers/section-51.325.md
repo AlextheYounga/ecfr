@@ -1,5 +1,7 @@
 ##### § 51.325 Notice of network changes: Public notice requirement. #####
 
+Link to an amendment published at 83 FR 31675, July 9, 2018.
+
 (a) An incumbent local exchange carrier (“LEC”) must provide public notice regarding any network change that:
 
 (1) Will affect a competing service provider's performance or ability to provide service;

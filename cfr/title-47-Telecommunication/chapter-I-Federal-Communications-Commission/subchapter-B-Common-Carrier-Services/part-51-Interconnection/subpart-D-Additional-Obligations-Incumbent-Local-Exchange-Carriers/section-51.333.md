@@ -1,5 +1,7 @@
 ##### § 51.333 Notice of network changes: Short term notice, objections thereto and objections to copper retirement notices. #####
 
+Link to an amendment published at 83 FR 31675, July 9, 2018.
+
 (a) *Certificate of service.* If an incumbent LEC wishes to provide less than six months' notice of planned network changes, or provide notice of a planned copper retirement, the public notice or certification that it files with the Commission must include a certificate of service in addition to the information required by § 51.327(a) or § 51.329(a)(2), as applicable. The certificate of service shall include:
 
 (1) A statement that, at least five business days in advance of its filing with the Commission, the incumbent LEC served a copy of its public notice upon each telephone exchange service provider that directly interconnects with the incumbent LEC's network, provided that, with respect to copper retirement notices, such service may be made by postings on the incumbent LEC's website if the directly interconnecting telephone exchange service provider has agreed to receive notice by website postings; and

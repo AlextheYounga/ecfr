@@ -1,5 +1,7 @@
 ##### § 68.105 Minimum point of entry (MPOE) and demarcation point. #####
 
+Link to an amendment published at 83 FR 31677, July 9, 2018.
+
 (a) *Facilities at the demarcation point.* Carrier-installed facilities at, or constituting, the demarcation point shall consist of wire or a jack conforming to the technical criteria published by the Administrative Council for Terminal Attachments.
 
 (b) *Minimum point of entry.* The “minimum point of entry” (MPOE) as used herein shall be either the closest practicable point to where the wiring crosses a property line or the closest practicable point to where the wiring enters a multiunit building or buildings. The reasonable and nondiscriminatory standard operating practices of the provider of wireline telecommunications services shall determine which shall apply. The provider of wireline telecommunications services is not precluded from establishing reasonable classifications of multiunit premises for purposes of determining which shall apply. Multiunit premises include, but are not limited to, residential, commercial, shopping center and campus situations.
