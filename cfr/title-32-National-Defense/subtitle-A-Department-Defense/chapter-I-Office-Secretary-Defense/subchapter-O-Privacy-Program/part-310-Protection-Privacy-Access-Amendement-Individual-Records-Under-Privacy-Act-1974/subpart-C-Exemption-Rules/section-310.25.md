@@ -1,5 +1,7 @@
 ##### § 310.25 National Guard Bureau (NGB) exemptions. #####
 
+Link to an amendment published at 88 FR 42236, June 30, 2023.
+
 (a) *General information.* There are two types of exemptions, general and specific. The general exemption authorizes the exemption of a SOR from all but a few requirements of 5 U.S.C. 552a. The specific exemption authorizes exemption of a SOR or portion thereof, from only a few specific requirements. If a new SOR originates for which an exemption is proposed, or an additional or new exemption for an existing SOR is proposed, the exemption shall be submitted with the SORN. No exemption of a SOR shall be considered automatic for all records in the system. The System Manager shall review each requested records and apply the exemptions only when this will serve significant and legitimate purpose of the Federal Government.
 
 (b) *Exemption for classified material.* All SOR maintained by the NGB shall be exempt under section (k)(1) of 5 U.S.C. 552a to the extent that the systems contain any information properly classified under Executive Order 13526 and that is required by that Executive Order to be kept secret in the interest of national defense or foreign policy. This exemption is applicable to parts of all systems of records including those not otherwise specifically designated for exemptions herein which contain isolated items of properly classified information.

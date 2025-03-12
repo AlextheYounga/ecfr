@@ -1,5 +1,7 @@
 ##### § 240.15Fh-4 Antifraud provisions for security-based swap dealers and major security-based swap participants; special requirements for security-based swap dealers acting as advisors to special entities. #####
 
+Link to an amendment published at 88 FR 42585, June 30, 2023.
+
 (a) *Antifraud provisions.* It shall be unlawful for a security-based swap dealer or major security-based swap participant:
 
 (1) To employ any device, scheme, or artifice to defraud any special entity or prospective customer who is a special entity;

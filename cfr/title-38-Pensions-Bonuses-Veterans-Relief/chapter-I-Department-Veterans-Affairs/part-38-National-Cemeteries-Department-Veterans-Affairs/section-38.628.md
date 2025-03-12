@@ -1,5 +1,7 @@
 ##### § 38.628 Reimbursement for caskets and urns for unclaimed remains of veterans. #####
 
+Link to an amendment published at 88 FR 42247, June 30, 2023.
+
 (a) VA will reimburse any individual or entity for the actual cost of a casket or an urn, purchased by the individual or entity for the burial in a national cemetery of an eligible veteran who died on or after January 10, 2014, for whom VA:
 
 (1) Is unable to identify the veteran's next-of-kin; and

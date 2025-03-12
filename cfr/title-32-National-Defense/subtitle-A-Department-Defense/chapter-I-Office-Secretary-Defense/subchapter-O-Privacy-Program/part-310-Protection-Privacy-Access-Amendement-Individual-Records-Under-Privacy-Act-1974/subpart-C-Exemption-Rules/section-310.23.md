@@ -1,5 +1,7 @@
 ##### § 310.23 Defense Threat Reduction Agency (DTRA) exemptions. #####
 
+Link to an amendment published at 88 FR 42236, June 30, 2023.
+
 (a) *Exemption for classified material.* All systems of records maintained by the Defense Threat Reduction Agency shall be exempt under section (k)(1) of 5 U.S.C. 552a, to the extent that the systems contain any information properly classified under E.O. 12598 and that is required by that E.O. to be kept secret in the interest of national defense or foreign policy. This exemption is applicable to parts of all systems of records including those not otherwise specifically designated for exemptions herein which contain isolated items of properly classified information.
 
 (1) *System identifier and name.* HDTRA 007, Security Operations.

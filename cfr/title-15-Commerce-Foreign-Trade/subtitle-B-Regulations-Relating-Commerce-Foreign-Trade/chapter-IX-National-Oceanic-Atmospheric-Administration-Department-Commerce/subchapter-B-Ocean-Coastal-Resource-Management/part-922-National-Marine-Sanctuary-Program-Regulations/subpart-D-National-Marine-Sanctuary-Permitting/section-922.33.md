@@ -19,7 +19,8 @@
 (8) There are no other factors that would make the issuance of a permit for the activity inappropriate; and
 
 (9) For Olympic Coast National Marine Sanctuary, the activity as proposed does not adversely affect any Washington Coast treaty tribe.
-P\>(b) *Permit terms and conditions.* The Director, at his or her discretion, may subject a permit issued under this subpart or other elevant subpart to such terms and conditions as he or she deems appropriate. A permit granted pursuant to this subpart is nontransferable.
+
+(b) *Permit terms and conditions.* The Director, at his or her discretion, may subject a permit issued under this subpart or other relevant subpart to such terms and conditions as he or she deems appropriate. A permit granted pursuant to this subpart is nontransferable.
 
 (c) *Permit actions.* The Director may amend, suspend, or revoke a permit issued pursuant to this part or other relevant subpart for good cause. Procedures governing permit sanctions and denials for enforcement reasons are set forth in subpart D of 15 CFR part 904.
 

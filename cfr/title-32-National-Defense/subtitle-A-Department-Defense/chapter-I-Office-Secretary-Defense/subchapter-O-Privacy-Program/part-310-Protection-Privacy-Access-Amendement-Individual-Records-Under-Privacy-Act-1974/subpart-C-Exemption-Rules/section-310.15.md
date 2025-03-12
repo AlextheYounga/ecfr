@@ -1,5 +1,7 @@
 ##### § 310.15 Department of the Army exemptions. #####
 
+Link to an amendment published at 88 FR 42236, June 30, 2023.
+
 (a) *Special exemption.* 5 U.S.C. 552a(d)(5)—Denies individual access to any information compiled in reasonable anticipation of a civil action or proceeding.
 
 (b) *General and specific exemptions.* The Secretary of the Army may exempt Army systems of records from certain requirements of the Privacy Act of 1974. The two kinds of exemptions that require Secretary of the Army enactment are general and specific exemptions. The general exemption authorizes the exemption of a system of records from most requirements of the Act; the specific exemptions authorize the exemption of a system of record from only a few.

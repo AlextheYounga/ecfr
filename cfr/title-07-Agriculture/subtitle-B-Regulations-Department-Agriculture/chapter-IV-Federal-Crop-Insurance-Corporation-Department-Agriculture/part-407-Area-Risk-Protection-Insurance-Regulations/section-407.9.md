@@ -1,6 +1,6 @@
 ##### § 407.9 Area risk protection insurance policy. #####
 
-Link to an amendment published at 88 FR 42019, June 29, 2023.[FCIC policies]Department of AgricultureFederal Crop Insurance CorporationArea Risk Protection Insurance Policy[Reinsured policies](Appropriate title for insurance provider)(This is a continuous policy. Refer to Section 2.)[FCIC policies]
+[FCIC policies]Department of AgricultureFederal Crop Insurance CorporationArea Risk Protection Insurance Policy[Reinsured policies](Appropriate title for insurance provider)(This is a continuous policy. Refer to Section 2.)[FCIC policies]
 
 Area Risk Protection Insurance (ARPI) provides protection against widespread loss of revenue or widespread loss of yield in a county. Individual farm revenues and yields are not considered under ARPI and it is possible that your individual farm may experience reduced revenue or reduced yield and you do not receive an indemnity under ARPI.
 
@@ -28,6 +28,8 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *Act.* Subtitle A of the Federal Crop Insurance Act (7 U.S.C. 1501-1524).
 
+*Actual production.* The harvested and/or appraised amount of an agricultural commodity in number of pounds, bushels, tons, cartons, or other units of measure as provided in the applicable Crop Provisions.
+
 *Actuarial documents.* The part of the policy that contains information for the crop year which is available for public inspection in your agent's office and published on RMA's website and which shows available plans of insurance, coverage levels, information needed to determine amounts of insurance, prices, premium rates, premium adjustment percentages, type (commodity types, classes, subclasses, intended uses), practice (irrigated practices, cropping practices, organic practices, intervals), insurable acreage, and other related information regarding crop insurance in the county.
 
 *Additional coverage.* A level of coverage greater than catastrophic risk protection.
@@ -36,7 +38,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *Agricultural experts.* Persons who are employed by the Cooperative Extension System or the agricultural departments of universities, or other persons approved by FCIC, whose research or occupation is related to the specific crop or practice for which such expertise is sought. Persons who have a personal or financial interest in you or the crop will not qualify as an agricultural expert. For example, contracting with a person for consulting would be considered to have a financial interest and a person who is a neighbor would be considered to have a personal interest.
 
-*Application.* The form required to be completed by you and accepted by us before insurance coverage will commence. This form must be completed and filed in your agent's office not later than the sales closing date of the initial insurance year for each crop for which insurance coverage is requested.
+*Application.* The form required to be completed by you and accepted by us before insurance coverage commences. This form must be completed and filed in your agent's office not later than the sales closing date of the initial insurance year for each crop for which insurance coverage is requested.
 
 *Area.* The general geographical region in which the insured acreage is located, designated generally as a county but may be a smaller or larger geographical area as specified in the actuarial documents.
 
@@ -52,7 +54,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *Beginning farmer or rancher.* An individual who has not actively operated and managed a farm or ranch in any state, with an insurable interest in a crop or livestock as an owner-operator, landlord, tenant, or sharecropper for more than five crop years, as determined in accordance with FCIC procedures. Any crop year's insurable interest may, at your election, be excluded if earned while under the age of 18, while in full-time military service of the United States, or while in post-secondary education, in accordance with FCIC procedures. A person other than an individual may be eligible for beginning farmer or rancher benefits if there is at least one individual substantial beneficial interest holder and all individual substantial beneficial interest holders qualify as a beginning farmer or rancher.
 
-*Buffer zone.* Acreage designated in your organic plan that separates agricultural commodities grown under organic farming practices from those grown under non-organic farming practices. A buffer zone must be sufficient in size or other features, as stated in the National Organic Program published in 7 CFR part 205, to prevent or minimize the possibility of unintended contact by prohibited substances or organisms applied to adjacent land acres with an area that is part of the certified organic farming operation.
+*Buffer zone.* Acreage designated in your organic system plan that separates agricultural commodities grown under organic farming practices from those grown under non-organic farming practices. A buffer zone must be sufficient in size or other features, as stated in the National Organic Program published in 7 CFR part 205, to prevent or minimize the possibility of unintended contact by prohibited substances or organisms applied to adjacent land acres with an area that is part of the certified organic farming operation.
 
 *Cancellation date.* The calendar date specified in the Crop Provisions on which coverage for the crop will automatically renew unless canceled in writing by either you or us or terminated in accordance with the policy terms.
 
@@ -76,7 +78,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *Consent.* Approval in writing by us allowing you to take a specific action.
 
-*Contract.* (See “Policy”)
+*Contract.* (See definition of “policy.”)
 
 *Contract change date.* The calendar date, as specified in the Crop Provisions, by which changes to the policy, if any, will be made available in accordance with section 3 of these Basic Provisions.
 
@@ -86,7 +88,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *County.* Any county, parish, political subdivision of a state, or other area specified on the actuarial documents shown on your accepted application, including acreage in a field that extends into an adjoining county if the county boundary is not readily discernible.
 
-*Cover crop.* A crop generally recognized by agricultural experts as agronomically sound for the area for erosion control or other purposes related to conservation or soil improvement, unless otherwise specified in the Special Provisions. A cover crop may be considered a second crop (see the definition of “second crop”).
+*Cover crop.* A crop generally recognized by agricultural experts as agronomically sound for the area for erosion control or other purposes related to conservation or soil improvement, unless otherwise specified in the Special Provisions. A cover crop may be considered a second crop (see definition of “second crop”).
 
 *Credible data.* Data of sufficient quality and quantity to be representative of the county.
 
@@ -118,7 +120,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *Final county yield.* The yield, established in accordance with section 15, for each insured crop, type, and practice, used to determine whether an indemnity will be due for Area Yield Protection, and released by FCIC at a time specified in the Crop Provisions.
 
-*Final planting date.* The date contained in the actuarial documents for the insured crop by which the crop must be planted in order to be insured.
+*Final planting date.* The date contained in the Special Provisions for the insured crop by which the crop must be planted in order to be insured.
 
 *Final policy protection.* For Area Revenue Protection only, the amount calculated in accordance with section 12(e).
 
@@ -152,7 +154,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *Irrigated practice.* A method of producing a crop by which water, from an adequate water source, is artificially applied in sufficient amounts by appropriate and adequate irrigation equipment and facilities and at the proper times necessary to produce at least the (1) yield expected for the area; (2) yield used to establish the production guarantee or amount of insurance/coverage on the irrigated acreage planted to the commodity; or (3) producer's established approved yield, as applicable. Acreage adjacent to water, such as but not limited to a pond, lake, river, stream, creek or brook, shall not be considered irrigated based solely on the proximity to the water. The insurable irrigation practices are specified in the actuarial documents.
 
-*Liability.* (See “Policy protection.”)
+*Liability.* (See definition of “policy protection.”)
 
 *Limited resource farmer.* Has the same meaning as the term defined by USDA at *http://lrftool.sc.egov.usda.gov/LRP\_Definition.aspx.*
 
@@ -170,11 +172,11 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *Organic farming practice.* A system of plant production practices used on organic acreage and transitional acreage to produce an organic crop that is approved by a certifying agent in accordance with 7 CFR part 205.
 
-*Organic plan.* A written plan, in accordance with the National Organic Program published in 7 CFR part 205, that describes the organic farming practices that you and a certifying agent agree upon annually or at such other times as prescribed by the certifying agent.
-
 *Organic practice.* The insurable organic farming practices specified in the actuarial documents.
 
 *Organic standards.* Standards in accordance with the Organic Foods Production Act of 1990 (7 U.S.C. 6501 *et seq.*) and 7 CFR part 205.
+
+*Organic system plan.* A written plan, in accordance with the National Organic Program published in 7 CFR part 205, that describes the organic farming practices that you and a certifying agent agree upon annually or at such other times as prescribed by the certifying agent.
 
 *Payment factor.* A factor no greater than 1.0 used to determine the amount of indemnity to be paid in accordance with section 12(g).
 
@@ -190,11 +192,11 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *Practice.* Production methodologies used to produce the insured crop consisting of unique combinations of irrigated practice, cropping practice, organic practice, and interval as shown on the actuarial documents as insurable.
 
-*Premium billing date.* The earliest date upon which you will be billed for insurance coverage based on your acreage report. The premium billing date is contained in the actuarial documents.
+*Premium billing date.* The earliest date upon which you will be billed for insurance coverage based on your acreage report. The premium billing date is contained in the Special Provisions.
 
 *Production record.* A written record that documents your actual production reported on the production report. The record must be an acceptable verifiable record or an acceptable farm management record as authorized by FCIC procedures.
 
-*Production report.* A written report provided by you showing your annual production in accordance with section 8. The report contains yield information for the current year, including planted acreage and production. This report must be supported by acceptable production records.
+*Production report.* A written report provided by you in accordance with section 8 showing your annual production. The report contains yield information for the current year, including planted acreage and production. This report must be supported by acceptable production records.
 
 *Production reporting date.* The date contained in the actuarial documents by which you are required to submit your production report.
 
@@ -210,7 +212,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *RMA's website.* A website hosted by RMA and located at *www.rma.usda.gov* or a successor website.
 
-*Sales closing date.* The date contained in the actuarial documents by which an application must be filed and the last date by which you may change your crop insurance coverage for a crop year.
+*Sales closing date.* The date contained in the Special Provisions by which an application must be filed and the last date by which you may change your crop insurance coverage for a crop year.
 
 *Second crop.* With respect to a single crop year, the next occurrence of planting any agricultural commodity for harvest following a first insured crop on the same acreage. The second crop may be the same or a different agricultural commodity as the first insured crop, except the term does not include a replanted crop. If following a first insured crop, a cover crop that is planted on the same acreage and harvested for grain or seed, is considered a second crop. A crop that is covered by NAP or receives other USDA benefits associated with forage crops is considered a second crop. A crop meeting the conditions in this definition is considered a second crop regardless of whether it is insured.
 
@@ -232,7 +234,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *Sustainable farming practice.* A system or process for producing a commodity, excluding organic farming practices, that is necessary to produce the crop and is generally recognized by agricultural experts for the area to conserve or enhance natural resources and the environment.
 
-*Tenant.* A person who rents land from another person for a share of the crop or a share of the proceeds of the crop (see the definition of “share” above).
+*Tenant.* A person who rents land from another person for a share of the crop or a share of the proceeds of the crop (see definition of “share”).
 
 *Termination date.* The calendar date contained in the Crop Provisions upon which your insurance ceases to be in effect because of nonpayment of any amount due us under the policy.
 
@@ -256,7 +258,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *Veteran farmer or rancher.*
 
-(1) An individual who has served active duty in the United States Army, Navy, Marine Corps, Air Force, or Coast Guard, including the reserve components; was discharged or released under conditions other than dishonorable; and:
+(1) An individual who has served active duty in the United States Armed Forces, including the Air Force, Army, Coast Guard, Marine Corps, Navy, or Space Force, and their reserve components; was discharged or released under conditions other than dishonorable; and:
 
 (i) Has not operated a farm or ranch;
 
@@ -308,7 +310,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 (ii) You correct the SSN or EIN but:
 
-(A) You cannot prove that any error was inadvertent (Simply stating the error was inadvertent is not sufficient to prove the error was inadvertent); or
+(A) You cannot prove that any error was inadvertent (simply stating the error was inadvertent is not sufficient to prove the error was inadvertent); or
 
 (B) It is determined that the incorrect number would have allowed you to obtain disproportionate benefits under the crop insurance program, you are determined to be ineligible for insurance or you could avoid an obligation or requirement under any State or Federal law;
 
@@ -320,7 +322,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 (A) Such number is not corrected or provided by you, as applicable;
 
-(B) You cannot prove that any error or omission was inadvertent (Simply stating the error or omission was inadvertent is not sufficient to prove the error or omission was inadvertent); or
+(B) You cannot prove that any error or omission was inadvertent (simply stating the error or omission was inadvertent is not sufficient to prove the error or omission was inadvertent); or
 
 (C) Even after the correct SSN or EIN is provided by you, it is determined that the incorrect or omitted SSN or EIN would have allowed you to obtain disproportionate benefits under the crop insurance program, the person with a substantial beneficial interest in you is determined to be ineligible for insurance, or you or the person with a substantial beneficial interest in you could avoid an obligation or requirement under any State or Federal law; or
 
@@ -388,9 +390,9 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 (i) Termination will be effective on:
 
-(A) For a policy with unpaid administrative fees or premiums, the termination date immediately subsequent to the premium billing date for the crop year (For policies for which the sales closing date is prior to the termination date, such policies will terminate for the current crop year even if insurance attached prior to the termination date. Such termination will be considered effective as of the sales closing date and no insurance will be considered to have attached for the crop year and no indemnity will be owed);
+(A) For a policy with unpaid administrative fees or premiums, the termination date immediately subsequent to the premium billing date for the crop year (For policies for which the sales closing date is prior to the termination date, such policies will terminate for the current crop year even if insurance attached prior to the termination date. Such termination will be considered effective as of the sales closing date and no insurance will be considered to have attached for the crop year and no indemnity will be owed.);
 
-(B) For a policy with other amounts due, including but not limited to, premium billed with a due date after the termination date for the crop year in which premium is earned, the termination date immediately following the date you have a delinquent debt (For policies for which the sales closing date is prior to the termination date, such policies will terminate for the current crop year even if insurance attached prior to the termination date. Such termination will be considered effective as of the sales closing date and no insurance will be considered to have attached for the crop year and no indemnity will be owed);
+(B) For a policy with other amounts due, including but not limited to, premium billed with a due date after the termination date for the crop year in which premium is earned, the termination date immediately following the date you have a delinquent debt (For policies for which the sales closing date is prior to the termination date, such policies will terminate for the current crop year even if insurance attached prior to the termination date. Such termination will be considered effective as of the sales closing date and no insurance will be considered to have attached for the crop year and no indemnity will be owed.);
 
 (C) For all other policies that are issued by us under the authority of the Act, the termination date that coincides with the termination date for the policy with the delinquent debt, or if there is no coincidental termination date, the termination date immediately following the date you become ineligible; or
 
@@ -420,7 +422,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 (*i*) You made timely payment for the amount of premium owed but you inadvertently omitted some small amount, such as the most recent month's interest or a small administrative fee;
 
-(*ii*) The amount of the payment was clearly transposed from the amount that was otherwise due (For example, you owed $892 but you paid $829);
+(*ii*) The amount of the payment was clearly transposed from the amount that was otherwise due (for example, you owed $892 but you paid $829);
 
 (*iii*) You timely made the full payment of the amount owed but the delivery of that payment was delayed, and was postmarked no more than seven calendar days after the termination date or the missed payment date of a previously executed written payment agreement, or in the case of overpaid indemnity or any amount that became due after the termination date, the due date specified in a notice to you of an amount due, as applicable; or
 
@@ -460,7 +462,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 (2) The provisions in section 2(l)(3) will only be applicable if:
 
-(i) Any partner, member, shareholder, etc., of an insured entity dies, disappears, or is judicially declared incompetent, and such event automatically dissolves the entity; or
+(i) Any partner, member, shareholder, etc., of an insured person dies, disappears, or is judicially declared incompetent, and such event automatically dissolves the person; or
 
 (ii) An individual whose estate is left to a beneficiary other than a spouse or left to the spouse and the criteria in section 2(l)(1) are not met, dies, disappears, or is judicially declared incompetent.
 
@@ -474,7 +476,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 (B) Any indemnity will be paid to the person or persons determined to be beneficially entitled to the payment provided such person or persons comply with all policy provisions and timely pays the premium.
 
-(4) If any insured entity is dissolved for reasons other than death, disappearance, or judicially declared incompetence:
+(4) If any insured person is dissolved for reasons other than death, disappearance, or judicially declared incompetence:
 
 (i) Before the cancellation date, the policy is automatically canceled as of the cancellation date and a new application must be submitted; or
 
@@ -484,7 +486,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 (B) Any indemnity will be paid to the person or persons determined to be beneficially entitled to the payment provided such person or persons comply with all policy provisions and timely pays the premium.
 
-(5) If section 2(k)(2) or (4) applies, a remaining member of the insured person or the beneficiary is required to report to us the death, disappearance, judicial incompetence, or other event that causes dissolution of the entity not later than the next cancellation date, except if section 2(k)(3)(ii) applies, notice must be provided by the cancellation date for the next crop year.
+(5) If section 2(k)(2) or (4) applies, a remaining member of the insured person or the beneficiary is required to report to us the death, disappearance, judicial incompetence, or other event that causes dissolution of the person not later than the next cancellation date, except if section 2(k)(3)(ii) applies, notice must be provided by the cancellation date for the next crop year.
 
 (m) We may cancel your policy if no premium is earned for 3 consecutive years.
 
@@ -524,7 +526,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 (4) That is a volunteer crop;
 
-(5) Planted following the same crop on the same acreage and the first planting of the crop has been harvested in the same crop year unless specifically permitted by the Crop Provisions or the Special Provisions (For example, the second planting of grain sorghum would not be insurable if grain sorghum had already been planted and harvested on the same acreage during the crop year);
+(5) Planted following the same crop on the same acreage and the first planting of the crop has been harvested in the same crop year unless specifically permitted by the Crop Provisions or the Special Provisions (for example, the second planting of grain sorghum would not be insurable if grain sorghum had already been planted and harvested on the same acreage during the crop year);
 
 (6) That is planted for experimental purposes; or
 
@@ -552,7 +554,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 (iv) The Crop Provisions or Special Provisions specifically allow insurance for such acreage.
 
-(b) Only the acreage planted to the insured crop on or before the final planting date, as shown in the actuarial documents, and reported by the acreage reporting date and physically located in the county shown on your accepted application will be insured.
+(b) Only the acreage planted to the insured crop on or before the final planting date, as shown in the Special Provisions, and reported by the acreage reporting date and physically located in the county shown on your accepted application will be insured.
 
 (c) We will not insure any acreage (and any uninsured acreage and production from uninsured acreage will not be included for the purposes of establishing the final county yield):
 
@@ -680,13 +682,13 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 (1) Multiply your policy protection from section 6(f) by the applicable premium rate and any premium adjustment percentages that may apply;
 
-(2) Multiply the result of paragraph (1) by the applicable subsidy factor (This is the amount of premium FCIC will pay);
+(2) Multiply the result of paragraph (1) by the applicable subsidy factor (this is the amount of premium FCIC will pay);
 
 (3) Subtract the result of paragraph (2) from the result of paragraph (1) to calculate the amount of premium you will pay.
 
-(e) The amount of premium calculated in accordance with section 7(d)(3) is earned and payable at the time coverage begins. You will be billed for such premium and applicable administrative fees not earlier than the premium billing date specified in the actuarial documents.
+(e) The amount of premium calculated in accordance with section 7(d)(3) is earned and payable at the time coverage begins. You will be billed for such premium and applicable administrative fees not earlier than the premium billing date specified in the Special Provisions.
 
-(f) If the amount of premium calculated in accordance with section 7(d)(3) and administrative fees you are required to pay for any acreage exceeds the amount of policy protection for the acreage, coverage for those acres will not be provided (No premium or administrative fee will be due and no indemnity will be paid for such acreage).
+(f) If the amount of premium calculated in accordance with section 7(d)(3) and administrative fees you are required to pay for any acreage exceeds the amount of policy protection for the acreage, coverage for those acres will not be provided (no premium or administrative fee will be due and no indemnity will be paid for such acreage).
 
 (g) Premium or administrative fees owed by you will be offset from an indemnity due you in accordance with section 2(j).
 
@@ -700,25 +702,25 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 (i) Notwithstanding section 7(i)(2), you may be eligible for premium subsidy without having a timely filed form AD-1026:
 
-(A) For the initial reinsurance year if you certify by the premium billing date for your policy that you meet the qualifications as outlined in FCIC procedures for producers who are new to farming, new to crop insurance, a new entity, or have not previously been required to file form AD-1026; or
+(A) For the initial reinsurance year if you certify by the premium billing date for your policy that you meet the qualifications as outlined in FCIC procedures for producers who are new to farming, new to crop insurance, a new person, or have not previously been required to file form AD-1026; or
 
 (B) If FSA approves relief for failure to timely file due to circumstances beyond your control or failure to timely provide adequate information to complete form AD-1026 in accordance with the provisions contained in 7 CFR part 12.
 
 (ii) To be eligible for premium subsidy paid on your behalf by FCIC, it is your responsibility to assure you meet all the requirements for:
 
-(A) Compliance with the conservation provisions specified in section 7(i)(1) of this section; and
+(A) Compliance with the conservation provisions specified in section 7(i)(1); and
 
-(B) Filing form AD-1026 to be properly identified as in compliance with the conservation provisions specified in section 7(i)(1) of this section.
+(B) Filing form AD-1026 to be properly identified as in compliance with the conservation provisions specified in section 7(i)(1).
 
 8. Report of Acreage and Production
 
-(a) An annual acreage report must be submitted to us on our form for each insured crop (separate lines for each type and practice) in the county on or before the acreage reporting date contained in the actuarial documents.
+(a) An annual acreage report must be submitted to us on our form for each insured crop (separate lines for each type and practice) in the county on or before the acreage reporting date contained in the Special Provisions.
 
 (b) If you do not have a share in an insured crop in the county for the crop year, you must submit an acreage report, on or before the acreage reporting date, so indicating.
 
 (c) Your acreage report must include the following information, if applicable:
 
-(1) The amount of acreage of the crop in the county (insurable and not insurable) in which you have a share, the last date any acreage of the insured crop was planted, and the number of acres planted by such date (Acreage initially planted after the final planting date must be reported as uninsurable);
+(1) The amount of acreage of the crop in the county (insurable and not insurable) in which you have a share, the last date any acreage of the insured crop was planted, and the number of acres planted by such date (acreage initially planted after the final planting date must be reported as uninsurable);
 
 (2) Your share at the time coverage begins;
 
@@ -778,7 +780,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 (iii) Finalize the claim in accordance with applicable policy provisions after you provide the acreage measurement to us; and
 
-(3) Premium will still be due in accordance with sections 2(k) and 7 (If the acreage is not measured as specified in section 8(j) and the acreage measurement is not provided to us at least 15 days prior to the premium billing date, your premium will be based on the estimated acreage and will be revised, if necessary, when the acreage measurement is provided);
+(3) Premium will still be due in accordance with sections 2(k) and 7 (if the acreage is not measured as specified in section 8(j) and the acreage measurement is not provided to us at least 15 days prior to the premium billing date, your premium will be based on the estimated acreage and will be revised, if necessary, when the acreage measurement is provided);
 
 (4) If the acreage measurement is not provided by the termination date, you will be precluded from providing any estimated acreage for all subsequent crop years;
 
@@ -798,7 +800,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 (n) You must certify to the accuracy of the information on your production report and if you fail to accurately report your production, you will be subject to the provisions in 8(m), unless the information is corrected:
 
-(1) On or before the production reporting date; or
+(1) On or before the applicable production reporting date; or
 
 (2) Because the incorrect information was the result of our error or the error of someone from USDA.
 
@@ -832,7 +834,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 (i) Your spouse, unless such spouse can prove he/she has a separate farming operation, which includes, but is not limited to, separate land (transfers of acreage from one spouse to another is not considered separate land), separate capital, separate inputs, separate accounting, and separate maintenance of proceeds; or
 
-(ii) Your child who resides in your household or any other member of your household, unless such child or other member of the household can demonstrate such person has a separate share in the crop (Children who do not reside in your household are not included in your share); and
+(ii) Your child who resides in your household or any other member of your household, unless such child or other member of the household can demonstrate such person has a separate share in the crop (children who do not reside in your household are not included in your share); and
 
 (2) If it is determined that the spouse, child or other member of the household has a separate policy but does not have a separate farming operation or share of the crop, as applicable:
 
@@ -850,7 +852,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 Unless specified otherwise in the Crop Provisions, coverage begins at the later of:
 
-(a) The date we accept your application (For the purposes of this paragraph, the date of acceptance is the date that you submit a properly executed application in accordance with section 2); or
+(a) The date we accept your application (for the purposes of this paragraph, the date of acceptance is the date that you submit a properly executed application in accordance with section 2); or
 
 (b) The date the insured crop is planted.
 
@@ -972,9 +974,9 @@ Unless specified otherwise in the Crop Provisions, coverage begins at the later 
 
 (4) You provide records acceptable to us of acreage and production that show you have double cropped acreage in at least two of the last four crop years in which the first insured crop was planted, or that show the applicable acreage was double cropped in at least two of the last four crop years in which the first insured crop was grown on it;
 
-(5) If you do not have records of acreage and production specific to the double cropped acreage, as required in section 13(h)(4), but instead have records that combine production from acreage you double cropped with records of production from acreage you did not double crop, we will allocate the first and second crop production to the specific acreage in proportion to the liability for the acreage that was and was not double cropped; and
+(5) If you do not have records of acreage and production specific to the double cropped acreage, as required in section 13(c)(4), but instead have records that combine production from acreage you double cropped with records of production from acreage you did not double crop, we will allocate the first and second crop production to the specific acreage in proportion to the liability for the acreage that was and was not double cropped; and
 
-(6) With respect to double cropped acreage for which one of the crops you have double cropped is insured under a plan of insurance not covered under these Basic Provisions, each insured crop must follow its own Basic Provisions, Crop Provisions, and Special Provisions to determine if the double cropping requirements have been met. If the double cropping requirements in the applicable Basic Provisions, Crop Provisions, or Special Provisions have not been met for each insured crop, section 13(a) of these Basic Provisions apply.
+(6) With respect to double cropped acreage, if the two crops you have double cropped are insured under policies with different double crop history records requirements (*e.g.,* records of acreage and production), the less restrictive requirements may be followed to satisfy double cropping requirements for both crops. For example, you have 20 acres of annual forage wheat for grazing. On the same acreage you plant and insure cotton. The annual forage double cropping provisions do not include double cropping record history requirements. If the annual forage double cropping provisions are met, you are eligible for a full indemnity payment on both the annual forage wheat and the cotton.
 
 (d) If you provided acceptable records in accordance with section 13(c), your double cropping history is limited to the highest number of acres double cropped within the applicable four-year period as determined in section 13(c)(4).
 
@@ -1004,15 +1006,15 @@ Unless specified otherwise in the Crop Provisions, coverage begins at the later 
 
 (1) Certified organic acreage;
 
-(2) Transitional acreage being converted to certified organic acreage in accordance with an organic plan; and
+(2) Transitional acreage being converted to certified organic acreage in accordance with an organic system plan; and
 
 (3) Buffer zone acreage.
 
 (d) On the date you report your acreage, you must have:
 
-(1) For certified organic acreage, a written certification in effect from a certifying agent indicating the name of the entity certified, effective date of certification, certificate number, types of commodities certified, and name and address of the certifying agent (A certificate issued to a tenant may be used to qualify a landlord or other similar arrangement);
+(1) For certified organic acreage, a written certification in effect directly from a certifying agent indicating the name of the person certified, effective date of certification, certificate number, types of commodities certified, and name and address of the certifying agent (a certificate issued to a tenant may be used to qualify a landlord or other similar arrangement). A certificate issued from the National Organic Program's Organic Integrity Database (or successor certificate reporting tool) is acceptable;
 
-(2) For transitional acreage, a certificate as described in section 14(d)(1), or written documentation from a certifying agent indicating an organic plan is in effect for the acreage; and
+(2) For transitional acreage, an organic system plan documenting the use of practices that would result in certified organic status that includes the record information as described in section 14(d)(1), or written documentation from a certifying agent indicating an organic system plan is in effect for the acreage; and
 
 (3) Records from the certifying agent showing the specific location of each field of certified organic, transitional, buffer zone, and acreage not maintained under organic management.
 
@@ -1070,7 +1072,7 @@ If you transfer any part of your share during the crop year, you may transfer yo
 
 (b) If you cannot demonstrate that you did not intend to have more than one policy in effect, you may be subject to the consequences authorized under this policy, the Act, or any other applicable statute.
 
-(c) If you can demonstrate that you did not intend to have more than one policy in effect (For example, an application to transfer your policy or written notification to an insurance provider that states you want to purchase, or transfer, insurance and you want any other policies for the crop canceled would demonstrate you did not intend to have duplicate policies) and:
+(c) If you can demonstrate that you did not intend to have more than one policy in effect (for example, an application to transfer your policy or written notification to an insurance provider that states you want to purchase, or transfer, insurance and you want any other policies for the crop canceled would demonstrate you did not intend to have duplicate policies) and:
 
 (1) One is an additional coverage policy and the other is a CAT policy:
 
@@ -1126,7 +1128,7 @@ You must not abandon any crop to us. We will not accept any crop as compensation
 
 (a) Any amount illegally or erroneously paid to you or that is owed to us but is delinquent may be recovered by us through offset by deducting it from any loan or payment due you under any Act of Congress or program administered by any United States Government Agency, or by other collection action.
 
-(b) Interest will accrue at the rate of 1.25 percent simple interest per calendar month, or any part thereof, on any unpaid premium amount or administrative fee due us. With respect to any premiums or administrative fees owed, interest will start to accrue on the first day of the month following the issuance of the notice by us, provided that a minimum of 30 days have passed from the premium billing date specified in the actuarial documents, provided a minimum of 30 days have passed from the premium billing date.
+(b) Interest will accrue at the rate of 1.25 percent simple interest per calendar month, or any part thereof, on any unpaid premium amount or administrative fee due us. With respect to any premiums or administrative fees owed, interest will start to accrue on the first day of the month following the issuance of the notice by us, provided that a minimum of 30 days have passed from the premium billing date specified in the Special Provisions, provided a minimum of 30 days have passed from the premium billing date.
 
 (c) For the purpose of any other amounts due us, such as repayment of indemnities found not to have been earned:
 
@@ -1136,11 +1138,11 @@ You must not abandon any crop to us. We will not accept any crop as compensation
 
 (3) The amount will be considered delinquent if not paid within 30 days of the date the notice is issued by us;
 
-(4) Penalties and interest will be charged in accordance with 31 U.S.C. 3717 and 4 CFR part 102; and
+(4) Penalties and interest will be charged in accordance with 31 U.S.C. 3717 and 31 CFR part 901; and
 
 (5) The penalty for accounts more than 90 days delinquent is an additional 6 percent per annum.
 
-(d) Interest on any amount due us found to have been received by you because of fraud, misrepresentation or presentation by you of a false claim will start on the date you received the amount with the additional 6 percent penalty beginning on the 31st day after the notice of amount due is issued to you. This interest is in addition to any other amount found to be due under any other federal criminal or civil statute.
+(d) Interest on any amount due us found to have been received by you because of fraud, misrepresentation or presentation by you of a false claim will start on the date you received the amount with the additional 6 percent penalty beginning on the 31st day after the notice of amount due is issued to you. This interest is in addition to any other amount found to be due under any other Federal criminal or civil statute.
 
 (e) If we determine that it is necessary to contract with a collection agency, refer the debt to government collection centers, the Department of Treasury Offset Program, or to employ an attorney to assist in collection, you agree to pay all the expenses of collection.
 
@@ -1150,7 +1152,7 @@ You must not abandon any crop to us. We will not accept any crop as compensation
 
 (a) Interest will accrue at the rate of 1.25 percent simple interest per calendar month on any unpaid amount owed to us or on any unpaid administrative fees owed to FCIC.
 
-(1) For the purpose of premium amounts owed to us or administrative fees owed to FCIC, interest will start to accrue on the first day of the month following the issuance of the notice by us, provided that a minimum of 30 days have passed from the premium billing date specified in the actuarial documents, provided a minimum of 30 days have passed from the premium billing date.
+(1) For the purpose of premium amounts owed to us or administrative fees owed to FCIC, interest will start to accrue on the first day of the month following the issuance of the notice by us, provided that a minimum of 30 days have passed from the premium billing date specified in the Special Provisions, provided a minimum of 30 days have passed from the premium billing date.
 
 (2) We will collect any unpaid amounts owed to us and any interest owed thereon and, prior to the termination date, we will collect any administrative fees and interest owed thereon to FCIC. After the termination date, FCIC will collect any unpaid administrative fees and any interest owed thereon for any CAT policy and we will collect any unpaid administrative fees and any interest owed thereon for additional coverage policies.
 
@@ -1160,7 +1162,7 @@ You must not abandon any crop to us. We will not accept any crop as compensation
 
 (2) The amount will be considered delinquent if not paid within 30 days of the date the notice is issued by us.
 
-(c) All amounts paid will be applied first to expenses of collection (see subsection (d) of this section), if any, second to the reduction of accrued interest, and then to the reduction of the principal balance.
+(c) All amounts paid will be applied first to expenses of collection (see section 22(d)), if any, second to the reduction of accrued interest, and then to the reduction of the principal balance.
 
 (d) If we determine that it is necessary to contract with a collection agency or to employ an attorney to assist in collection, you agree to pay all of the expenses of collection.
 
@@ -1190,7 +1192,7 @@ You must not abandon any crop to us. We will not accept any crop as compensation
 
 (2) Brought in the United States district court for the district in which the insured farm involved in the decision is located.
 
-(e) You may only recover contractual damages from us. Under no circumstances can you recover any attorney fees or other expenses, or any punitive, compensatory or any other damages from us in administrative review, appeal or litigation.
+(e) You may only recover contractual damages from us. Under no circumstances can you recover any attorney's fees or other expenses, or any punitive, compensatory or any other damages from us in administrative review, appeal, or litigation.
 
 [Reinsured policies]23. Mediation, Arbitration, Appeal, Reconsideration, and Administrative and Judicial Review
 
@@ -1272,7 +1274,7 @@ You must not abandon any crop to us. We will not accept any crop as compensation
 
 (f) Except as provided in section 23(g), no award or settlement in mediation, arbitration, appeal, administrative review or reconsideration process or judicial review can exceed the amount of liability established or which should have been established under the policy, except for interest awarded in accordance with section 24.
 
-(g) In a judicial review only, you may recover attorney fees or other expenses, or any punitive, compensatory or any other damages from us only if you obtain a determination from FCIC that we, our agent or loss adjuster failed to comply with the terms of this policy or procedures issued by FCIC and such failure resulted in you receiving a payment in an amount that is less than the amount to which you were entitled. Requests for such a determination should be addressed to the following: USDA/RMA/Deputy Administrator for Compliance/Stop 0806, 1400 Independence Avenue, SW., Washington, DC 20250-0806.
+(g) In a judicial review only, you may recover attorney's fees or other expenses, or any punitive, compensatory or any other damages from us only if you obtain a determination from FCIC that we, our agent or loss adjuster failed to comply with the terms of this policy or procedures issued by FCIC and such failure resulted in you receiving a payment in an amount that is less than the amount to which you were entitled. Requests for such a determination should be addressed to the following: USDA/RMA/Deputy Administrator for Compliance/Stop 0806, 1400 Independence Avenue, SW., Washington, DC 20250-0806.
 
 24. Interest Limitations
 
@@ -1288,7 +1290,7 @@ The descriptive headings of the various policy provisions are formulated for con
 
 26. Conformity to Food Security Act
 
-Although your violation of a number of federal statutes, including the Act, may cause cancellation, termination, or voidance of your insurance contract, you should be specifically aware that your policy will be canceled if you are determined to be ineligible to receive benefits under the Act due to violation of the controlled substance provisions (title XVII) of the Food Security Act of 1985 (Pub. L. 99-198) and the regulations promulgated under the Act by USDA.
+Although your violation of a number of Federal statutes, including the Act, may cause cancellation, termination, or voidance of your insurance contract, you should be specifically aware that your policy will be canceled if you are determined to be ineligible to receive benefits under the Act due to violation of the controlled substance provisions (title XVII) of the Food Security Act of 1985 (Pub. L. 99-198) and the regulations promulgated under the Act by USDA.
 
 (a) Your insurance policy will be canceled if you are determined, by the appropriate Agency, to be in violation of these provisions.
 
@@ -1296,7 +1298,7 @@ Although your violation of a number of federal statutes, including the Act, may 
 
 27. Applicability of State and Local Statutes
 
-If the provisions of this policy conflict with statutes of the State or locality in which this policy is issued, the policy provisions will prevail. State and local laws and regulations in conflict with federal statutes, this policy, and the applicable regulations do not apply to this policy.
+If the provisions of this policy conflict with statutes of the State or locality in which this policy is issued, the policy provisions will prevail. State and local laws and regulations in conflict with Federal statutes, this policy, and the applicable regulations do not apply to this policy.
 
 28. Concealment, Misrepresentation, or Fraud
 
@@ -1310,7 +1312,7 @@ If the provisions of this policy conflict with statutes of the State or locality
 
 (c) Voidance of this policy will result in you having to reimburse all indemnities paid for the crop year in which the voidance was effective.
 
-(d) Voidance will be effective on the first day of the insurance period for the crop year in which the act occurred and will not affect the policy for subsequent crop years unless a violation of this section also occurred in such crop years.
+(d) Voidance will be effective on the first day of the insurance period for the crop year in which the act occurred and will not affect the policy for subsequent crop years unless a violation of section 28 also occurred in such crop years.
 
 (e) If you willfully and intentionally provide false or inaccurate information to us or FCIC, or you fail to comply with a requirement of FCIC, in accordance with 7 CFR part 400, subpart R, FCIC may impose on you:
 
@@ -1336,7 +1338,7 @@ If the provisions of this policy conflict with statutes of the State or locality
 
 (vii) The Consolidated Farm and Rural Development Act (7 U.S.C. 1921 *et seq.*); and
 
-(viii) Any federal law that provides assistance to a producer of a commodity affected by a crop loss or a decline in the prices of commodities.
+(viii) Any Federal law that provides assistance to a producer of a commodity affected by a crop loss or a decline in the prices of commodities.
 
 29. Multiple Benefits
 
@@ -1380,4 +1382,4 @@ Step 1: Calculate the Dollar Amount of Insurance per AcreFormula: Expected count
 
 (3) Avoid an obligation or requirement under any Federal or State law.
 
-[78 FR 38507, June 26, 2013, as amended at 79 FR 2083, Jan. 13, 2014; 79 FR 37162, July 1, 2014; 80 FR 73639, Nov. 25, 2015; 81 FR 42473, June 30, 2016; 82 FR 55730, Nov. 24, 2017; 82 FR 58707, Dec. 14, 2017; 84 FR 30861, June 28, 2019; 85 FR 38754, June 29, 2020; 85 FR 76425, Nov. 30, 2020; 86 FR 34610, June 30, 2021; 86 FR 42681, Aug. 5, 2021; 86 FR 67836, Nov. 30, 2021; 87 FR 38890, June 30, 2022]
+[78 FR 38507, June 26, 2013, as amended at 79 FR 2083, Jan. 13, 2014; 79 FR 37162, July 1, 2014; 80 FR 73639, Nov. 25, 2015; 81 FR 42473, June 30, 2016; 82 FR 55730, Nov. 24, 2017; 82 FR 58707, Dec. 14, 2017; 84 FR 30861, June 28, 2019; 85 FR 38754, June 29, 2020; 85 FR 76425, Nov. 30, 2020; 86 FR 34610, June 30, 2021; 86 FR 42681, Aug. 5, 2021; 86 FR 67836, Nov. 30, 2021; 87 FR 38890, June 30, 2022; 88 FR 42019, June 29, 2023]

@@ -1,5 +1,7 @@
 ##### § 310.21 Defense Logistics Agency (DLA) exemptions. #####
 
+Link to an amendment published at 88 FR 42236, June 30, 2023.
+
 (a) The Director, DLA or designee may claim an exemption from any provision of the Privacy Act from which an exemption is allowed.
 
 (b) An individual is not entitled to access information that is compiled in reasonable anticipation of a civil action or proceeding. The term “civil action or proceeding” is intended to include court proceedings, preliminary judicial steps, and quasi-judicial administrative hearings or proceedings (*i.e.,* adversarial proceedings that are subject to rules of evidence). Any information prepared in anticipation of such actions or proceedings, to include information prepared to advise DLA officials of the possible legal or other consequences of a given course of action, is protected. The exemption is similar to the attorney work-product privilege except that it applies even when the information is prepared by non-attorneys. The exemption does not apply to information compiled in anticipation of criminal actions or proceedings.

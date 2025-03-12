@@ -30,9 +30,9 @@
 
 (6) Taking any marine mammal or turtle within the Sanctuary, except as permitted by regulations, as amended, promulgated under the Marine Mammal Protection Act, as amended, 16 U.S.C. 1361 *et seq.,* and the Endangered Species Act, as amended, 16 U.S.C. 1531 *et seq.*
 
-(7) Injuring, catching, harvesting, collecting or feeding, or attempting to injure, catch, harvest, collect or feed, any fish within the Sanctuary by use of longlines, traps, nets, bottom trawls or any other gear, device, equipment or means except by use of conventional hook and line gear.
+(7) Killing, injuring, attracting, touching, or disturbing a ray or whale shark in the Sanctuary. Notwithstanding the above, the incidental and unintentional injury to a ray or whale shark as a result of fishing with conventional hook and line gear is exempted from this prohibition.
 
-(8) Injuring, catching, harvesting, collecting, or feeding, or attempting to injure, catch, harvest, collect, or feed, any fish within the Sanctuary by use of bottom longlines, traps, nets, bottom trawls, or any other gear, device, equipment, or means except by use of conventional hook and line gear.
+(8) Injuring, catching, harvesting, collecting or feeding, or attempting to injure, catch, harvest, collect or feed, any fish within the Sanctuary by use of longlines, traps, nets, bottom trawls or any other gear, device, equipment or means except by use of conventional hook and line gear.
 
 (9) Possessing within the Sanctuary (regardless of where collected, caught, harvested or removed), except for valid law enforcement purposes, any carbonate rock, coral or other bottom formation, coralline algae or other plant, marine invertebrate, brine-seep biota, or fish (except for fish caught by use of conventional hook and line gear).
 
@@ -52,8 +52,8 @@
 
 (f) The prohibitions in paragraphs (a)(2) through (10) of this section do not apply to any activity specifically authorized by and conducted in accordance with the scope, purpose, terms, and conditions of a National Marine Sanctuary permit or ONMS authorization issued pursuant to subpart D of this part and § 922.123 or a special use permit issued pursuant to subpart D of this part.
 
-(g) The prohibitions in paragraphs (a)(2) through (11) of this section do not apply to any activity authorized by any lease, permit, license, approval or other authorization issued after January 18, 1994, provided that the applicant complies with § 922.49, the Director notifies the applicant and authorizing agency that he or she does not object to issuance of the authorization, and the applicant complies with any terms and conditions the Director deems necessary to protect Sanctuary resources and qualities.
+(g) The prohibitions in paragraphs (a)(2) through (11) of this section do not apply to any activity authorized by any lease, permit, license, approval or other authorization issued after January 18, 1994, provided that the applicant complies with § 922.36, the Director notifies the applicant and authorizing agency that he or she does not object to issuance of the authorization, and the applicant complies with any terms and conditions the Director deems necessary to protect Sanctuary resources and qualities.
 
 (h) Notwithstanding paragraphs (f) and (g) of this section, in no event may the Director issue a National Marine Sanctuary permit under subpart D of this part and § 922.123 authorizing, or otherwise approve, the exploration for, development of, or production of oil, gas, or minerals in a no-activity zone. Any leases, permits, approvals, or other authorizations authorizing the exploration for, development of, or production of oil, gas, or minerals in a no-activity zone and issued after January 18, 1994 shall be invalid.
 
-[77 FR 25069, Apr. 27, 2012, as amended at 86 FR 4954, Jan. 19, 2021; 86 FR 15404, Mar. 23, 2021; 88 FR 967, Jan. 6, 2023; 88 FR 9393, Feb. 14, 2023]
+[77 FR 25069, Apr. 27, 2012, as amended at 86 FR 4954, Jan. 19, 2021; 86 FR 15404, Mar. 23, 2021; 88 FR 967, Jan. 6, 2023; 88 FR 9393, Feb. 14, 2023; 88 FR 19827, Apr. 4, 2023]

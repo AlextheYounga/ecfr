@@ -1,14 +1,12 @@
 ##### § 457.8 The application and policy. #####
 
-Link to an amendment published at 88 FR 42020, June 29, 2023.
-
 (a) Application for insurance on a form prescribed by the Corporation, or approved by the Corporation, must be made by any person who wishes to participate in the program, to cover such person's share in the insured crop as landlord, owner-operator, crop ownership interest, or tenant. No other person's interest in the crop may be insured under an application unless that person's interest is clearly shown on the application and unless that other person's interest is insured in accordance with the procedures of the Corporation. The application must be submitted to the Corporation or the reinsured company through the crop insurance agent and must be submitted on or before the applicable sales closing date on file.
 
 (b) FCIC or the reinsured company may reject or discontinue the acceptance of applications in any county or of any individual application upon FCIC's determination that the insurance risk is excessive.
 
 Department of AgricultureFederal Crop Insurance Corporation[or policy issuing company name]Common Crop Insurance Policy(This is a continuous policy. Refer to section 2.)FCIC Policies
 
-This is an insurance policy issued by the Federal Crop Insurance Corporation (FCIC). The provisions of the policy may not be waived or modified in any way by us, your insurance agent or any employee of USDA unless the policy specifically authorizes a waiver or modification by written agreement. FCIC procedures (handbooks, manuals, memoranda, and bulletins), published on RMA's website at *www.rma.usda.gov* or a successor website will be used in the administration of this policy, including the adjustment of any loss or claim submitted under this policy.
+This is an insurance policy issued by the Federal Crop Insurance Corporation (FCIC). The provisions of the policy may not be waived or modified in any way by us, your insurance agent or any employee of USDA unless the policy specifically authorizes a waiver or modification by written agreement. FCIC procedures (handbooks, manuals, memoranda, and bulletins), published on RMA's website at *www.rma.usda.gov* or a successor website will be used in the administration of this policy, including establishing your approved yield and the adjustment of any loss or claim submitted under this policy.
 
 Throughout this policy, “you” and “your” refer to the named insured shown on the accepted application and “we,” “us,” and “our” refer to the Federal Crop Insurance Corporation. Unless the context indicates otherwise, use of the plural form of a word includes the singular and use of the singular form of the word includes the plural.
 
@@ -16,7 +14,7 @@ AGREEMENT TO INSURE: In return for the payment of the premium, and subject to al
 
 Reinsured Policies
 
-This insurance policy is reinsured by the Federal Crop Insurance Corporation (FCIC) under the provisions of the Federal Crop Insurance Act (Act) (7 U.S.C. 1501-1524). All provisions of the policy and rights and responsibilities of the parties are specifically subject to the Act. The provisions of the policy may not be waived or varied in any way by us, our insurance agent or any other contractor or employee of ours, or any employee of USDA unless the policy specifically authorizes a waiver or modification by written agreement. We will use FCIC procedures (handbooks, manuals, memoranda and bulletins), published on RMA's website at *www.rma.usda.gov* or a successor website, in the administration of this policy, including the adjustment of any loss or claim submitted under this policy. In the event that we cannot pay your loss because we are insolvent or are otherwise unable to perform our duties under our reinsurance agreement with FCIC, your claim will be settled in accordance with the provisions of this policy and FCIC will be responsible for any amounts owed. No state guarantee fund will be liable for your loss.
+This insurance policy is reinsured by the Federal Crop Insurance Corporation (FCIC) under the provisions of the Federal Crop Insurance Act (Act) (7 U.S.C. 1501-1524). All provisions of the policy and rights and responsibilities of the parties are specifically subject to the Act. The provisions of the policy may not be waived or varied in any way by us, our insurance agent or any other contractor or employee of ours, or any employee of USDA unless the policy specifically authorizes a waiver or modification by written agreement. We will use FCIC procedures (handbooks, manuals, memoranda and bulletins), published on RMA's website at *www.rma.usda.gov* or a successor website, in the administration of this policy, including establishing your approved yield and the adjustment of any loss or claim submitted under this policy. In the event that we cannot pay your loss because we are insolvent or are otherwise unable to perform our duties under our reinsurance agreement with FCIC, your claim will be settled in accordance with the provisions of this policy and FCIC will be responsible for any amounts owed. No state guarantee fund will be liable for your loss.
 
 Throughout this policy, “you” and “your” refer to the named insured shown on the accepted application and “we,” “us,” and “our” refer to the insurance company providing insurance. Unless the context indicates otherwise, use of the plural form of a word includes the singular and use of the singular form of the word includes the plural.
 
@@ -32,9 +30,11 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 *Act.* The Federal Crop Insurance Act (7 U.S.C. 1501 *et seq.*).
 
-*Actual Production History (APH).* A process used to determine production guarantees in accordance with 7 CFR part 400, subpart G.
+*Actual production.* The harvested and/or appraised amount of an agricultural commodity in number of pounds, bushels, tons, cartons, or other units of measure as provided in the applicable Crop Provisions.
 
-*Actual yield.* The yield per acre for a crop year calculated from the production records or claims for indemnities. The actual yield is determined by dividing total production (which includes harvested and appraised production) by planted acres.
+*Actual Production History (APH).* A determination of the production guarantee using your historical actual production for the crop, as applicable.
+
+*Actual yield.* The yield per acre based on actual production from the planted or grown acreage, in accordance with section 5(b).
 
 *Actuarial documents.* The information for the crop year which is available for public inspection in your agent's office and published on RMA's website and which shows available crop insurance policies, coverage levels, information needed to determine amounts of insurance, prices, premium rates, premium adjustment percentages, practices, particular types or varieties of the insurable crop, insurable acreage, and other related information regarding crop insurance in the county.
 
@@ -48,15 +48,29 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 *Annual crop.* An agricultural commodity that normally must be planted each year.
 
-*Application.* The form required to be completed by you and accepted by us before insurance coverage will commence. This form must be completed and filed in your agent's office not later than the sales closing date of the initial insurance year for each crop for which insurance coverage is requested. If cancellation or termination of insurance coverage occurs for any reason, including but not limited to indebtedness, suspension, debarment, disqualification, cancellation by you or us or violation of the controlled substance provisions of the Food Security Act of 1985, a new application must be filed for the crop. Insurance coverage will not be provided if you are ineligible under the contract or under any Federal statute or regulation.
+*Annual yield.* A yield per acre for a crop year, used to complete the APH base period in an APH database. An annual yield may be any of the following: actual yield, assigned yield, transitional yield (T-Yield), or other yield calculated according to FCIC approved procedures.
 
-*Approved yield.* The actual production history (APH) yield, calculated and approved by the verifier, used to determine the production guarantee by summing the yearly actual, assigned, adjusted or unadjusted transitional yields and dividing the sum by the number of yields contained in the database, which will always contain at least four yields. The database may contain up to 10 consecutive crop years of actual or assigned yields. The approved yield may have yield options elected under section 36, revisions according to section 3, or other limitations according to FCIC procedures applied when calculating the approved yield.
+*APH base period.* A minimum of four, up to a maximum of ten, most recent consecutive APH crop years for which continuous production reports are available, or as otherwise specified in the Crop Provisions or Special Provisions. The APH base period includes the most recent APH crop year's annual yield unless a lag year(s) applies to the crop, in which case, the most recent annual yield will be the crop year prior to the current crop year as specified in FCIC approved procedures.
+
+*APH crop year.* The year the crop was planted or grown, and insurable in accordance with the applicable Crop Provisions, whether insured or not, and identified by the year it is normally intended to be harvested.
+
+*APH database.* A series of consecutive, annual yields that include the respective acreage and actual production, when applicable, used to determine each annual yield, for each APH crop year in the APH base period.
+
+*Applicable T-Yield.* The T-Yield in effect, as specified in FCIC approved procedures, for an APH database.
+
+*Application.* The form required to be completed by you and accepted by us before insurance coverage commences. This form must be completed and filed in your agent's office not later than the sales closing date of the initial insurance year for each crop for which insurance coverage is requested. If cancellation or termination of insurance coverage occurs for any reason, including but not limited to indebtedness, suspension, debarment, disqualification, cancellation by you or us or violation of the controlled substance provisions of the Food Security Act of 1985, a new application must be filed for the crop. Insurance coverage will not be provided if you are ineligible under the contract or under any Federal statute or regulation.
+
+*Appraised production.* Unharvested potential crop production determined by us, or any other person authorized by FCIC, that includes both total production and any adjustments as provided in the applicable Crop Provisions or FCIC approved procedures used in calculating actual yields.
+
+*Approved yield.* The yield calculated by us, or any other person authorized by FCIC, based on annual yields contained in the APH database to establish the production guarantee calculated in accordance with section 5(c).
 
 *Area.* Land surrounding the insured acreage with geographic characteristics, topography, soil types and climatic conditions similar to the insured acreage.
 
+*Assigned yield.* An annual yield assigned according to FCIC approved procedures for an APH crop year when you do not file an acceptable production report, or upon request by us, or any other person authorized by FCIC, you do not provide acceptable evidence of acreage and production records to support your production report. The assigned yield will not be more than 75 percent of the prior year's approved yield or 65 percent of the applicable T-Yield if a prior year's approved yield is not available.
+
 *Assignment of indemnity.* A transfer of policy rights, made on our form, and effective when approved by us in writing, whereby you assign your right to an indemnity payment for the crop year only to creditors or other persons to whom you have a financial debt or other pecuniary obligation.
 
-*Average yield.* The yield calculated by totaling the yearly actual yields, assigned yields in accordance with sections 3(f)(1) (failure to provide production report), 3(h)(1) (excessive yields), and 3(i) (second crop planted without double cropping history on prevented planting acreage), and adjusted or unadjusted transitional yields, and dividing the total by the number of yields contained in the database.
+*Average yield.* The average of the annual yields for all APH crop years within the APH database calculated by us, or any other person authorized by FCIC, in accordance with section 5(c).
 
 *Basic unit.* All insurable acreage of the insured crop in the county on the date coverage begins for the crop year excluding acreage reported and insured as an enterprise unit in which the remaining insurable acreage is reported and insured as a basic or optional unit:
 
@@ -66,7 +80,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 *Beginning farmer or rancher.* An individual who has not actively operated and managed a farm or ranch in any state, with an insurable interest in a crop or livestock as an owner-operator, landlord, tenant, or sharecropper for more than five crop years, as determined in accordance with FCIC procedures. Any crop year's insurable interest may, at your election, be excluded if earned while under the age of 18, while in full-time military service of the United States, or while in post-secondary education, in accordance with FCIC procedures. A person other than an individual may be eligible for beginning farmer or rancher benefits if there is at least one individual substantial beneficial interest holder and all individual substantial beneficial interest holders qualify as a beginning farmer or rancher.
 
-*Buffer zone.* Acreage designated in your organic plan that separates agricultural commodities grown under organic farming practices from those grown under non-organic farming practices. A buffer zone must be sufficient in size or other features, as stated in the National Organic Program published in 7 CFR part 205, to prevent or minimize the possibility of unintended contact by prohibited substances or organisms applied to adjacent land acres with an area that is part of the certified organic farming operation.
+*Buffer zone.* Acreage designated in your organic system plan that separates agricultural commodities grown under organic farming practices from those grown under non-organic farming practices. A buffer zone must be sufficient in size or other features, as stated in the National Organic Program published in 7 CFR part 205, to prevent or minimize the possibility of unintended contact by prohibited substances or organisms applied to adjacent land acres with an area that is part of the certified organic farming operation.
 
 *Cancellation date.* The calendar date specified in the Crop Provisions on which coverage for the crop will automatically renew unless canceled in writing by either you or us or terminated in accordance with the policy terms.
 
@@ -86,7 +100,9 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 *Consent.* Approval in writing by us allowing you to take a specific action.
 
-*Contract.* (See “policy”).
+*Continuous production reports.* Each APH crop year within an APH database must be consecutive starting from the most recent APH crop year for any production report submitted by you and determined to be acceptable by us, or any other person authorized by FCIC. Continuity is not considered to be interrupted for any crop year the crop was not planted, was prevented from being planted, was not insurable in accordance with the Crop Provisions, or was not produced in compliance with any other applicable USDA program. If production report(s) are not provided for such consecutive history, continuity will be considered to have been broken unless you can provide documentation that the conditions listed herein existed for any crop year.
+
+*Contract.* (See definition of “policy.”)
 
 *Contract change date.* The calendar date by which changes to the policy, if any, will be made available in accordance with section 4 of these Basic Provisions.
 
@@ -100,7 +116,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 *Coverage begins, date.* The calendar date insurance begins on the insured crop, as contained in the Crop Provisions, or the date planting begins on the unit (see section 11 of these Basic Provisions for specific provisions relating to prevented planting).
 
-*Cover crop.* A crop generally recognized by agricultural experts as agronomically sound for the area for erosion control or other purposes related to conservation or soil improvement, unless otherwise specified in the Special Provisions. A cover crop may be considered a second crop (see the definition of “second crop”).
+*Cover crop.* A crop generally recognized by agricultural experts as agronomically sound for the area for erosion control or other purposes related to conservation or soil improvement, unless otherwise specified in the Special Provisions. A cover crop may be considered a second crop (see definition of “second crop”).
 
 *Crop Provisions.* The part of the policy that contains the specific provisions of insurance for each insured crop.
 
@@ -114,7 +130,9 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 *Delinquent debt.* Has the same meaning as the term defined in 7 CFR part 400, subpart U.
 
-*Direct marketing.* The sale of the insured crop directly to consumers without the intervention of an intermediary such as a wholesaler, retailer, packer, processor, shipper, buyer, or broker. Production records are controlled exclusively by the policyholder. Examples of direct marketing include selling through an on-farm or roadside stand, a farmer's market, or permitting the general public to enter the acreage for the purpose of harvesting or picking all or a portion of the crop. Only the portion of the crop sold directly to consumers will be considered direct marketed.
+*Determined yield.* An annual yield designated by FCIC, or calculated and assigned by us, in specific situations authorized by FCIC approved procedures.
+
+*Direct marketing.* The sale of the insured crop directly to consumers without the intervention of an intermediary such as a wholesaler, retailer, packer, processor, shipper, buyer, or broker. Production records are controlled exclusively by you. Examples of direct marketing include selling through an on-farm or roadside stand, a farmer's market, or permitting the general public to enter the acreage for the purpose of harvesting or picking all or a portion of the crop. Only the portion of the crop sold directly to consumers will be considered direct marketed.
 
 *Disinterested third party.* A person that does not have any familial relationship (parents, brothers, sisters, children, spouse, grandchildren, aunts, uncles, nieces, nephews, first cousins, or grandparents, related by blood, adoption or marriage, are considered to have a familial relationship) with you or who will not benefit financially from the sale of the insured crop. Persons who are authorized to conduct quality analysis in accordance with the Crop Provisions are considered disinterested third parties unless there is a familial relationship.
 
@@ -148,6 +166,8 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 *Household.* A domestic establishment including the members of a family (parents, brothers, sisters, children, spouse, grandchildren, aunts, uncles, nieces, nephews, first cousins, or grandparents, related by blood, adoption or marriage, are considered to be family members) and others who live under the same roof.
 
+*Insurable acres.* Acreage that meets all policy insurability requirements, whether insured or not.
+
 *Insurable interest.* Your percentage of the insured crop that is at financial risk.
 
 *Insurable loss.* Damage for which coverage is provided under the terms of your policy, and for which you accept an indemnity payment.
@@ -156,11 +176,15 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 *Insured crop.* The crop in the county for which coverage is available under your policy as shown on the application accepted by us.
 
+*Insured's production reporting date.* The date, provided in the actuarial documents, by which you are required to submit a production report for the current crop year, unless otherwise specified in the policy or FCIC approved procedures.
+
 *Intended acreage report.* A report of the acreage you intend to plant, by crop, for the current crop year and used solely for the purpose of establishing eligible prevented planting acreage, as required in section 17.
 
 *Interplanted.* Acreage on which two or more crops are planted in a manner that does not permit separate agronomic maintenance or harvest of the insured crop.
 
 *Irrigated practice.* A method of producing a crop by which water is artificially applied during the growing season by appropriate systems and at the proper times, with the intention of providing the quantity of water needed to produce at least the yield used to establish the irrigated production guarantee or amount of insurance on the irrigated acreage planted to the insured crop.
+
+*Lag year.* A delay of reporting of a crop year(s) in the APH base period, authorized by FCIC approved procedures when production records are generally not available for the crop by the production reporting date.
 
 *Late planted.* Acreage initially planted to the insured crop after the final planting date.
 
@@ -170,11 +194,17 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 *Limited resource farmer.* Has the same meaning as the term defined by USDA at *http://lrftool.sc.egov.usda.gov/LRP\_Definition.aspx* or successor website.
 
+*Master yield.* An optional approved yield calculation you may elect for certain crops and counties, as designated by FCIC approved procedures.
+
 *NAP.* Noninsured Crop Disaster Assistance Program published in 7 CFR part 1437, administered by FSA.
 
 *Native sod.* Acreage that has no record of being tilled (determined in accordance with information collected and maintained by an agency of the USDA or other verifiable records that you provide and are acceptable to us) for the production of an annual crop on or before February 7, 2014, and on which the plant cover is composed principally of native grasses, grass-like plants, forbs, or shrubs suitable for grazing and browsing.
 
 *Negligence.* The failure to use such care as a reasonably prudent and careful person would use under similar circumstances.
+
+*New insured.* A person who was not insured the previous crop year without respect to an insurance provider or plan of insurance.
+
+*New producer.* A person, including anyone with a substantial beneficial interest in the person, who has not produced the insured crop in the county, whether or not such crop was insured, for more than two APH crop years prior to the current crop year.
 
 *Non-contiguous.* Acreage of an insured crop that is separated from other acreage of the same insured crop by land that is neither owned by you nor rented by you for cash or a crop share. However, acreage separated by only a public or private right-of-way, waterway, or an irrigation canal will be considered as contiguous.
 
@@ -186,9 +216,9 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 *Organic farming practice.* A system of plant production practices used on organic acreage and transitional acreage to produce an organic crop that is approved by a certifying agent in accordance with 7 CFR part 205.
 
-*Organic plan.* A written plan, in accordance with the National Organic Program published in 7 CFR part 205, that describes the organic farming practices that you and a certifying agent agree upon annually or at such other times as prescribed by the certifying agent.
-
 *Organic standards.* Standards in accordance with the Organic Foods Production Act of 1990 (7 U.S.C. 6501 *et seq.*) and 7 CFR part 205.
+
+*Organic system plan.* A written plan, in accordance with the National Organic Program published in 7 CFR part 205, that describes the organic farming practices that you and a certifying agent agree upon annually or at such other times as prescribed by the certifying agent.
 
 *Perennial crop.* A plant, bush, tree or vine crop that has a life span of more than one year.
 
@@ -210,7 +240,9 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 *Production record.* A written record that documents your actual production reported on the production report. The record must be an acceptable verifiable record or an acceptable farm management record as authorized by FCIC procedures.
 
-*Production report.* A written report provided by you showing your annual production that will be used by us to determine your yield for insurance purposes in accordance with section 3. The report contains yield information for the previous year(s), including planted acreage and production. This report must be supported by acceptable production records.
+*Production report.* A written report provided by you in accordance with section 3 showing your annual production that will be used by us to determine your approved yield for insurance purposes. The report contains yield information for the current and previous APH crop year(s), when applicable, including planted acreage and production. This report must be supported by acceptable production records.
+
+*Production reporting date.* The date, provided in the actuarial documents, by which you are required to provide a production report at the beginning of a crop year if you meet the requirements in sections 3(f)(1)(i) through (iv).
 
 *Prohibited substance.* Any biological, chemical, or other agent that is prohibited from use or is not included in the organic standards for use on any certified organic, transitional or buffer zone acreage. Lists of such substances are contained at 7 CFR part 205.
 
@@ -258,7 +290,9 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 *Sustainable farming practice.* A system or process for producing an agricultural commodity, excluding organic farming practices, that is necessary to produce the crop and is generally recognized by agricultural experts for the area to conserve or enhance natural resources and the environment.
 
-*Tenant.* A person who rents land from another person for a share of the crop or a share of the proceeds of the crop (see the definition of “share” above).
+*Temporary yield.* An annual yield used in place of an actual yield when you are unable to finish harvest due to an insurable cause of loss, a delayed claim for indemnity, or your production records are unavailable from the processor, marketing outlet, or similar point of crop distribution by the production reporting date.
+
+*Tenant.* A person who rents land from another person for a share of the crop or a share of the proceeds of the crop (see definition of “share”).
 
 *Termination date.* The calendar date contained in the Crop Provisions upon which your insurance ceases to be in effect because of nonpayment of any amount due us under the policy, including premium.
 
@@ -268,11 +302,17 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 *Transitional acreage.* Acreage in transition to organic where organic farming practices are being followed, but the acreage does not yet qualify as certified organic acreage.
 
+*Transitional yield (T-Yield).* An annual yield established within the county, or homogeneous area of land, for a crop, type, practice, map area, or other actuarial basis, as provided in the actuarial documents or calculated in accordance with FCIC approved procedures.
+
+*Unavoidable uninsured fire.* Fire caused by an uninsured and unavoidable cause of loss resulting from actions outside the control of the insured. For example, fire caused by a passing train which sparks a fire that spreads to and destroys a grain crop is clearly caused by a third party and is unavoidable; fire caused by you setting a fire to burn brush that spreads and burns your crop is within your control.
+
 *USDA.* United States Department of Agriculture.
+
+*Variable T-Yield.* The applicable T-Yield multiplied by a percentage factor and used as an annual yield in the APH database according to FCIC approved procedures, or as otherwise provided in the policy. The percent of the applicable T-Yield is determined by the number of years of acceptable actual, assigned, or temporary yields available for the crop in the county.
 
 *Verifiable record.* A contemporaneous record from a disinterested third party that substantiates your actual production reported on the production report. The record must be a document or evidence from a disinterested third party that is accurate and can be validated or verified by us.
 
-*Veteran farmer or rancher.* (1) An individual who has served active duty in the United States Army, Navy, Marine Corps, Air Force, or Coast Guard, including the reserve components; was discharged or released under conditions other than dishonorable; and:
+*Veteran farmer or rancher.* (1) An individual who has served active duty in the United States Armed Forces, including the Air Force, Army, Coast Guard, Marine Corps, Navy, or Space Force, and their reserve components; was discharged or released under conditions other than dishonorable; and:
 
 (i) Has not operated a farm or ranch;
 
@@ -322,7 +362,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 (ii) You correct the SSN or EIN but:
 
-(A) You cannot prove that any error was inadvertent (Simply stating the error was inadvertent is not sufficient to prove the error was inadvertent); or
+(A) You cannot prove that any error was inadvertent (simply stating the error was inadvertent is not sufficient to prove the error was inadvertent); or
 
 (B) It is determined that the incorrect number would have allowed you to obtain disproportionate benefits under the crop insurance program, you are determined to be ineligible for insurance or you could avoid an obligation or requirement under any State or Federal law;
 
@@ -334,7 +374,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 (A) Such number is not corrected or provided by you, as applicable;
 
-(B) You cannot prove that any error or omission was inadvertent (Simply stating the error or omission was inadvertent is not sufficient to prove the error or omission was inadvertent); or
+(B) You cannot prove that any error or omission was inadvertent (simply stating the error or omission was inadvertent is not sufficient to prove the error or omission was inadvertent); or
 
 (C) Even after the correct SSN or EIN is provided by you, it is determined that the incorrect or omitted SSN or EIN would have allowed you to obtain disproportionate benefits under the crop insurance program, the person with a substantial beneficial interest in you is determined to be ineligible for insurance, or you or the person with a substantial beneficial interest in you could avoid an obligation or requirement under any State or Federal law; or
 
@@ -396,9 +436,9 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 (i) Termination will be effective on:
 
-(A) For a policy with unpaid administrative fees or premiums, the termination date immediately subsequent to the billing date for the crop year (For policies for which the sales closing date is prior to the termination date, such policies will terminate for the current crop year even if insurance attached prior to the termination date. Such termination will be considered effective as of the sales closing date and no insurance will be considered to have attached for the crop year and no indemnity, prevented planting or replanting payment will be owed);
+(A) For a policy with unpaid administrative fees or premiums, the termination date immediately subsequent to the billing date for the crop year (For policies for which the sales closing date is prior to the termination date, such policies will terminate for the current crop year even if insurance attached prior to the termination date. Such termination will be considered effective as of the sales closing date and no insurance will be considered to have attached for the crop year and no indemnity, prevented planting or replanting payment will be owed.);
 
-(B) For a policy with other amounts due, the termination date immediately following the date you have a delinquent debt (For policies for which the sales closing date is prior to the termination date, such policies will terminate for the current crop year even if insurance attached prior to the termination date. Such termination will be considered effective as of the sales closing date and no insurance will be considered to have attached for the crop year and no indemnity, prevented planting or replanting payment will be owed);
+(B) For a policy with other amounts due, the termination date immediately following the date you have a delinquent debt (For policies for which the sales closing date is prior to the termination date, such policies will terminate for the current crop year even if insurance attached prior to the termination date. Such termination will be considered effective as of the sales closing date and no insurance will be considered to have attached for the crop year and no indemnity, prevented planting or replanting payment will be owed.);
 
 (C) For all other policies that are issued by us under the authority of the Act, the termination date that coincides with the termination date for the policy with the delinquent debt or, if there is no coincidental termination date, the termination date immediately following the date you become ineligible; or
 
@@ -428,7 +468,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 (*i*) You made timely payment for the amount of premium owed but you inadvertently omitted some small amount, such as the most recent month's interest or a small administrative fee;
 
-(*ii*) The amount of the payment was clearly transposed from the amount that was otherwise due (For example, you owed $892 but you paid $829);
+(*ii*) The amount of the payment was clearly transposed from the amount that was otherwise due (for example, you owed $892 but you paid $829);
 
 (*iii*) You timely made the full payment of the amount owed but the delivery of that payment was delayed, and was postmarked no more than seven calendar days after the termination date or the missed payment date of a previously executed written payment agreement, or in the case of overpaid indemnity or any amount that became due after the termination date, the due date specified in a notice to you of an amount due, as applicable; or
 
@@ -456,7 +496,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 (iii) Have your debts discharged in bankruptcy.
 
-(4) After you become eligible for crop insurance, if you want to obtain coverage for your crops, you must submit a new application on or before the sales closing date for the crop (Since applications for crop insurance cannot be accepted after the sales closing date, if you make any payment after the sales closing date, you cannot apply for insurance until the next crop year).
+(4) After you become eligible for crop insurance, if you want to obtain coverage for your crops, you must submit a new application on or before the sales closing date for the crop (since applications for crop insurance cannot be accepted after the sales closing date, if you make any payment after the sales closing date, you cannot apply for insurance until the next crop year).
 
 (5) For example, for the 2019 crop year, if crop A, with a termination date of October 31, 2018, and crop B, with a termination date of March 15, 2019, are insured and you do not pay the premium for crop A by the termination date, you are ineligible for crop insurance as of October 31, 2018, and crop A's policy is terminated as of that date. Crop B's policy does not terminate until March 15, 2019, and an indemnity for the 2018 crop year may still be owed. If you enter into a written payment agreement on September 25, 2019, the earliest date by which you can obtain crop insurance for crop A is to apply for crop insurance by the October 31, 2019, sales closing date and for crop B is to apply for crop insurance by the March 15, 2020, sales closing date. If you fail to make a payment that was scheduled to be made on April 1, 2020, your policy will terminate as of October 31, 2019, for crop A, and March 15, 2020, for crop B, and no indemnity, prevented planting payment or replanting payment will be due for that crop year for either crop. You will not be eligible to apply for crop insurance for any crop until after the amounts owed are paid in full or you have your debts discharged in bankruptcy.
 
@@ -472,7 +512,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 (2) The provisions in section 2(g)(3) will be applicable if:
 
-(i) Any partner, member, shareholder, *etc.,* of an insured entity dies, disappears, or is judicially declared incompetent, and such event automatically dissolves the entity; or
+(i) Any partner, member, shareholder, *etc.,* of an insured person dies, disappears, or is judicially declared incompetent, and such event automatically dissolves the person; or
 
 (ii) An individual, whose estate is left to a beneficiary other than a spouse or left to the spouse and the criteria in section 2(g)(1) are not met, dies, disappears, or is judicially declared incompetent.
 
@@ -486,7 +526,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 (B) Any indemnity, replanting payment or prevented planting payment will be paid to the person or persons determined to be beneficially entitled to the payment and such person or persons must comply with all policy provisions and pay the premium.
 
-(4) If any insured entity is dissolved for reasons other than death, disappearance, or judicially declared incompetence:
+(4) If any insured person is dissolved for reasons other than death, disappearance, or judicially declared incompetence:
 
 (i) Before the cancellation date, the policy is automatically canceled as of the cancellation date and a new application must be submitted; or
 
@@ -522,7 +562,13 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 (i) The applicable Crop Provisions allow you the option to separately insure individual crop types or varieties. In this case, each individual type or variety insured by you will be subject to separate administrative fees. For example, if two grape varieties in California are insured under the Catastrophic Risk Protection Endorsement and two varieties are insured under an additional coverage policy, a separate administrative fee will be charged for each of the four varieties; or
 
-(ii) You have additional coverage for the crop in the county and the acreage has been designated as “high-risk” by FCIC. In such case, you will be able to exclude coverage for the high-risk land under the additional coverage policy and insure such acreage under a separate Catastrophic Risk Protection Endorsement, provided the Catastrophic Risk Protection Endorsement is obtained from the same insurance provider from which the additional coverage was obtained. If you have revenue protection and exclude high-risk land, the catastrophic risk protection coverage will be yield protection only for the excluded high-risk land.
+(ii) You have additional coverage for the crop in the county with acreage designated as high-risk by FCIC and you execute a High-Risk Land Exclusion Option on or before the applicable sales closing date with the same insurance provider from which your additional coverage was obtained. The High-Risk Land Exclusion Option allows you the following choices for your high-risk land:
+
+(A) You may exclude coverage for high-risk land under the additional coverage policy and not insure it;
+
+(B) You may insure high-risk land under a separate Catastrophic Risk Protection Endorsement; or
+
+(C) If available in the actuarial documents, you may insure high-risk land on a separate additional coverage policy with coverage greater than provided by the Catastrophic Risk Protection Endorsement but less than the coverage elected on the additional coverage policy insuring your non-high-risk land.
 
 (iii) You have additional coverage for the crop in the county, and the actuarial documents provide for separate coverage by irrigated and non-irrigated practices for the crop.
 
@@ -586,15 +632,59 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 (4) Since the amount of insurance or price election may change each year, if you do not select a new amount of insurance or percentage of the price election on or before the sales closing date, we will assign an amount of insurance or percentage of the price election which bears the same relationship to the amount of insurance or percentage of the price election that was in effect for the preceding year (*e.g.,* if you selected 100 percent of the price election for the previous crop year and you do not select a new percentage of the price election for the current crop year, we will assign 100 percent of the price election for the current crop year).
 
-(f) You must report all production of the crop (insured and uninsured) to us for the previous crop year by the earlier of the acreage reporting date or 45 days after the cancellation date, unless otherwise stated in the Special Provisions or as specified in section 18:
+(f) A production report(s) is required for all crops with a yield-based plan of insurance, and the information contained within the production report is used to establish your approved yield(s).
 
-(1) If you do not provide the required production report, we will assign a yield. The yield assigned by us will not be more than 75 percent of the yield used by us to determine your coverage for the previous crop year. The production report or assigned yield will be used to compute your approved yield for the purpose of determining your coverage for the current crop year.
+(1) You must report your current year's crop production on the same basis used to establish your approved yield(s), by the insured's production reporting date contained in the actuarial documents, or as otherwise specified in the Special Provisions. This production report will be used to establish approved yield(s) for the following APH crop year. Failure to timely provide this production report will result in assigned yields being used to determine your approved yield(s) for the following APH crop year. In addition to this production report, you may have to provide an additional production report at the beginning of the crop year by the production reporting date contained in the actuarial documents, as follows:
 
-(2) If you have filed a claim for any crop year, the documents signed by you which state the amount of production used to complete the claim for indemnity will be the production report for that year unless otherwise specified by FCIC.
+(i) If you are a new insured who grew the crop the year prior to the current crop year, you may report actual production for that crop year and include additional crop years, if continuous production reports are provided. Failure to provide this production report will result in variable T-Yields being used to determine your approved yield(s) for the current crop year.
 
-(3) Production and acreage for the prior crop year must be reported for each proposed optional unit by the production reporting date, unless otherwise specified in the Special Provisions. If you do not provide the information stated above, the optional units will be combined into the basic unit.
+(ii) If you are an insured who transferred your policy to us for the current crop year, you may provide us with a copy of the completed and signed production report you submitted to your previous insurance provider for the prior APH crop year. This production report will be used to establish your approved yield(s) for the current crop year.
 
-(4) Appraisals obtained from only a portion of the acreage in a field that remains unharvested after the remainder of the crop within the field has been destroyed or put to another use will not be used to establish your actual yield unless representative samples are required to be left by you in accordance with the Crop Provisions.
+(iii) If we cannot establish your approved yield for any APH database for the current crop year as required by FCIC approved procedures, you must provide us a new production report containing the prior year's production on the basis of the current crop year's unit structure and by type, practice, map area, and other characteristics, if applicable, you are requesting.
+
+(iv) You may certify actual production for any prior APH crop year if your certification meets the requirements of section 3(f)(3) to be used in an APH database(s) for the current crop year when:
+
+(A) Reporting actual production for an APH crop year not previously certified;
+
+(B) Replacing a yield determined in accordance with section 5(b); or
+
+(C) Making a change or revision as authorized in FCIC approved procedures.
+
+(2) Production must be reported by county, crop, type, practice, map area, other characteristics, unit structure elected (or level lower than unit structure elected), and land location in accordance with FCIC approved procedures. To be acceptable for an APH crop year, a production report must:
+
+(i) Be provided annually by you;
+
+(ii) Be certified as accurate by you;
+
+(iii) Be submitted by the applicable production reporting date; and
+
+(iv) Be supported by production records meeting the requirements in section 3(g)(3). Production records must substantiate all information provided on the production report.
+
+(3) Your production report must contain all actual production of the insured crop, from all acreage of the insured crop, which includes insurable, uninsurable and uninsured acreage, for the APH crop year being reported and certified identifying:
+
+(i) Gross and net actual production, with net actual production being gross actual production adjusted for standard deductions that apply under the terms of the policy including test weight, moisture, foreign material, or any other specified deduction, when such deductions are available in the production records;
+
+(ii) Type of acceptable production records;
+
+(iii) Disposition of the crop, *e.g.,* harvested or unharvested; and
+
+(iv) Any other information required on the production report form in accordance with FCIC approved procedures.
+
+(4) If you do not file an acceptable production report by the applicable production reporting date, the annual yield for the applicable APH crop year will be the assigned yield. The assigned yield will be used to calculate your approved yield for the purpose of determining your coverage for the current or following crop year, as applicable. Optional units will not be available the following crop year unless the reason for not filing an acceptable production report is one of the following:
+
+(i) You are a new insured;
+
+(ii) You are unable to provide an acceptable production report by the production reporting date due to the inability to finish harvest because of an insurable cause of loss; or
+
+(iii) Production records are not yet available from a processor, marketing outlet, or similar point of crop distribution or production records are not yet available due to a delayed claim for indemnity.
+
+(5) In the event certified acreage or actual production from two or more persons sharing in the crop on the same acreage for the same APH crop year is different, we or any other person authorized by FCIC shall, at our discretion, determine the acreage and actual production to be used to determine the approved yield. Upon determining the correct acreage and actual production, we will correct your, and any other insured's, production report and APH database, and notify any other insurance provider who may have an insured with a share in the crop for the same acreage. If the correct acreage and actual production cannot be determined, the production report will be considered unacceptable, and you will receive an assigned yield in accordance with section 3(f)(4).
+
+(6) If you have filed a claim for any crop year, the documents signed by you which state the amount of production used to complete the claim for indemnity will be the production report for that year unless otherwise specified by FCIC.
+
+(7) Appraisals obtained from only a portion of the acreage in a field that remains unharvested after the remainder of the crop within the field has been destroyed or put to another use will not be used to establish your actual yield unless representative samples are required to be left by you in accordance with the Crop Provisions.
+
+(8) If no insurable acreage of the insured crop is planted for a year, a production report indicating zero planted acreage will maintain the continuity of production reports for APH record purposes and that calendar year will not be included in the approved yield calculations.
 
 (g) It is your responsibility to accurately report all information that is used to determine your approved yield.
 
@@ -602,33 +692,79 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 (2) If you fail to accurately report any information or if you do not provide any required records, you will be subject to the provisions regarding misreporting contained in section 6(g), unless the information is corrected:
 
-(i) On or before the production reporting date;
+(i) On or before the applicable production reporting date;
 
-(ii) Because the incorrect information was determined to be inadvertently reported by you (Simply stating the error was inadvertent is not sufficient to prove the error was inadvertent); or
+(ii) Because the incorrect information was determined to be inadvertently reported by you (simply stating the error was inadvertent is not sufficient to prove the error was inadvertent); or
 
 (iii) Because the incorrect information was the result of our error or the error of someone from USDA.
 
-(3) If you do not have acceptable production records to support the information you certified on your production report you will receive an assigned yield in accordance with section 3(f)(1) and 7 CFR part 400, subpart G, for the applicable units, determined by us, for crop years that do not have such production records in accordance with FCIC procedures. If the conditions of section 34(b)(3) are not met, you will receive an assigned yield for the applicable basic unit.
+(3) Records must be available to substantiate production reports, within the tolerances provided in FCIC approved procedures, that document and verify the actual production between types, practices, map areas, unit structures and land locations as certified on the production report.
 
-(4) At any time we discover you have misreported any material information used to determine your approved yield or your approved yield is not correct, the following actions will be taken, as applicable:
+(4) Acceptable production record requirements for a crop are provided in FCIC approved procedures and identify crops requiring verifiable records or farm management records. These requirements must be met for production records to be acceptable.
+
+(i) Verifiable records include, but are not limited to:
+
+(A) Records of production commercially sold to, or stored by, a disinterested third party;
+
+(B) Claim for indemnity determinations made by an insurance provider, or any other person authorized by FCIC, as applicable;
+
+(C) Documents with actual production verified by another USDA agency;
+
+(D) Appraisal of unharvested acreage performed by an insurance provider or any other person authorized by FCIC;
+
+(E) Measurement of farm-stored production performed by an insurance provider, another USDA agency, or any other person authorized by FCIC;
+
+(F) Pick records identifying the amount of actual production harvested daily by individuals;
+
+(G) Contemporaneous daily sales records; and
+
+(H) Records from recognized or approved precision farming technology systems.
+
+(ii) Farm management records include, but are not limited to:
+
+(A) Measurement of farm stored production performed by you;
+
+(B) Automated yield monitoring systems;
+
+(C) Contemporaneous livestock feeding records;
+
+(D) Field harvest records; and
+
+(E) Seed records.
+
+(5) Acceptable production records must be adjusted for standard deductions that apply under the terms of the policy, including test weight, moisture, foreign material, and any other deductions in accordance with the applicable Crop Provisions or FCIC approved procedures when such deductions are available in the production records.
+
+(6) Acceptable production records must be maintained for the record retention period as provided in section 21(b)(2).
+
+(7) You are not required to maintain production records beyond the record retention period specified in section 21(b)(2); however, we or any other person authorized by FCIC may review any production records that are available from you, or any other sources who may have records of actual production applicable to an APH database, at any time.
+
+(8) You must provide acceptable production records, as specified in section 3(g)(3) through (5):
+
+(i) Upon request by us or any other person authorized by FCIC during the completion of a claim for indemnity; or
+
+(ii) During any audit, review, or when otherwise requested by us or any other person authorized by FCIC to verify acreage, actual production, and all other information certified on the production report.
+
+(9) If you do not have acceptable production records to support the information you certified on your production report you will receive an assigned yield in accordance with section 3(f)(4), for the applicable units, for any APH crop year that does not have such production records in accordance with FCIC approved procedures. If the conditions of section 34(b)(3) are not met, you will receive an assigned yield for the applicable basic unit.
+
+(10) At any time we discover you have misreported any material information used to determine your approved yield or your approved yield is not correct, the following actions will be taken, as applicable:
 
 (i) We will correct your approved yield, in accordance with FCIC procedure, by assigning a yield or by using the yield we determine to be correct, for the crop year such information is not correct, and all subsequent crop years;
 
 (ii) We will correct the unit structure, if necessary;
 
-(iii) Any overpaid or underpaid indemnity or premium must be repaid; and
+(iii) Any overpaid indemnity must be repaid or any additional premium we determine to be owed must be paid; and
 
 (iv) You will be subject to the provisions regarding misreporting contained in section 6(g)(1), unless the incorrect information was the result of our error or the error of someone from USDA.
 
 (h) In addition to any consequences in section 3(g), at any time the circumstances described below are discovered, your approved yield will be adjusted:
 
-(1) By including an assigned yield determined in accordance with section 3(f)(1) and 7 CFR part 400, subpart G, if the actual yield reported in the database is excessive for any crop year, as determined by FCIC under its procedures, and you do not provide verifiable records to support the yield in the database (If there are verifiable records for the yield in your database, the yield is significantly different from the other yields in the county or your other yields for the crop and you cannot prove there is a valid agronomic basis to support the differences in the yields, the yield will be the average of the yields for the crop or the applicable county transitional yield if you have no other yields for the crop);
+(1) By including an assigned yield determined in accordance with section 3(f)(4), if the actual yield reported in the APH database is excessive for any crop year, as determined by FCIC under its approved procedures, and you do not provide verifiable records to support the yield in the APH database. If there are verifiable records for the yield in your APH database, but the yield is significantly different from other yields in the county or your other yields for the crop and you cannot prove there is a valid agronomic basis to support the differences in the yields, the yield will be the average of the yields for the crop or the applicable county transitional yield if you have no other yields for the crop;
 
-(2) By reducing it to an amount consistent with the average of the approved yields for other databases for your farming operation with the same crop, type, and practice or the county transitional yield, as applicable, if:
+(2) By reducing it to an amount consistent with the average of the approved yields for other APH databases for your farming operation with the same crop, type, and practice or the county transitional yield, as applicable, if:
 
-(i) The approved APH yield is greater than 115 percent of the average of the approved yields of all applicable databases for your farming operation that have actual yields in them or it is greater than 115 percent of the county transitional yield if no applicable databases exist for comparison;
+(i) The approved APH yield is greater than 115 percent of the average of the approved yields of all applicable APH databases for your farming operation that have actual yields in them or it is greater than 115 percent of the county transitional yield if no applicable APH databases exist for comparison;
 
-(ii) The current year's insurable acreage (including applicable prevented planting acreage) is greater than 400 percent of the average number of acres in the database or the acres contained in two or more individual years in the database are each less than 10 percent of the current year's insurable acreage in the unit (including applicable prevented planting acreage); and
+(ii) The current year's insurable acreage (including applicable prevented planting acreage) is greater than 400 percent of the average number of acres in the APH databaseor the acres contained in two or more individual years in the APH database are each less than 10 percent of the current year's insurable acreage in the unit (including applicable prevented planting acreage); and
 
 (iii) We determine there is no valid agronomic basis to support the approved yield; or
 
@@ -644,7 +780,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 (ii) You must notify us of changes in your production method by the acreage reporting date. If you fail to notify us, in addition to the reduction of your approved yield described herein, you will be considered to have misreported information and you will be subject to the consequences in section 6(g). For example, for a non-irrigated APH database, your yield is based upon acreage of the crop that is watered once prior to planting, and the crop is not watered prior to planting for the current crop year. Your approved APH yield will be reduced to an amount consistent with the actual production history of your other non-irrigated APH database where the crop has not been watered prior to planting or limited to the non-irrigated transitional yield for the APH database if other such APH databases do not exist.
 
-(i) Unless you meet the double cropping requirements contained in section 17(f)(4), if you elect to plant a second crop on acreage where the first insured crop was prevented from being planted, you will receive a yield equal to 60 percent of the approved yield for the first insured crop to calculate your average yield for subsequent crop years (Not applicable to crops if the APH is not the basis for the insurance guarantee). If the unit contains both prevented planting and planted acreage of the same crop, the yield for such acreage will be determined by:
+(i) Unless you meet the double cropping requirements contained in section 17(f)(4), if you elect to plant a second crop on acreage where the first insured crop was prevented from being planted, you will receive a yield equal to 60 percent of the approved yield for the first insured crop to calculate your average yield for subsequent crop years not applicableto crops if the APH is not the basis for the insurance guarantee). If the unit contains both prevented planting and planted acreage of the same crop, the yield for such acreage will be determined by:
 
 (1) Multiplying the number of insured prevented planting acres by 60 percent of the approved yield for the first insured crop;
 
@@ -674,7 +810,93 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 (e) Acceptance of the changes will be conclusively presumed in the absence of notice from you to change or cancel your insurance coverage.
 
-5. [Reserved]6. Report of Acreage
+5. APH Database and Approved Yield Calculation
+
+(a) With respect to your APH database:
+
+(1) An APH database must be established to determine the approved yield and the average yield, established on the basis of:
+
+(i) Crop;
+
+(ii) Type;
+
+(iii) Practice;
+
+(iv) T-Yield map area;
+
+(v) Unit, as applicable; and
+
+(vi) Other requirements as specified by FCIC approved procedures.
+
+(2) The APH database is established using consecutive annual yields, as determined in section 5(b), for each APH crop year in the APH database.
+
+(b) Annual yields are determined by us, or any other person authorized by FCIC, in accordance with FCIC approved procedures. Annual yields are used in establishment of the APH database, and include the following types of yields:
+
+(1) An actual yield, calculated by dividing the actual production by insurable acres from acceptable production reports, except as follows:
+
+(i) For perennial crop acreage that was previously uninsurable due to underage requirements specified in the Crop Provisions, the actual yield may be calculated using production from the acreage prior to it becoming insurable, in accordance with FCIC approved procedures, when elected by you and you provide acceptable production reports;
+
+(ii) For crop acreage that is damaged by unavoidable uninsured fire or a third party, insurable acreage and actual production from such acreage will not be included in the calculation of the actual yield when elected by you, and approved by us or any person authorized by FCIC, in accordance with FCIC approved procedures; and
+
+(iii) For uninsurable crop acreage, acres and actual production from such acreage may be included in the calculation of the actual yield when actual production from such acreage is commingled with harvested production from insurable acreage;
+
+(2) A temporary yield that is equal to the prior year's approved yield. In subsequent crop years, the temporary yield is replaced by an actual yield from an acceptable production report submitted by you or, in the absence of an acceptable production report, an assigned yield;
+
+(3) An assigned yield if you:
+
+(i) Did not provide an acceptable production report for the previous APH crop year in the APH database; or
+
+(ii) Do not provide acceptable production records for any APH crop year within the record retention period specified in section 21(b)(2) to support, within tolerances established by FCIC approved procedures, information provided on the production report, when requested by us or any other person authorized by FCIC;
+
+(4) A determined yield, designated by FCIC, or calculated and assigned by us, or any other person authorized by FCIC, in situations when the available actual production information and the approved yield is not reflective of the expected actual production for the area, in accordance with section 5(c) and FCIC approved procedures; or
+
+(5) A T-Yield for any APH crop year when there is not a minimum of four years of annual yields in the APH database as outlined in section 5(b)(1) through (4).
+
+(i) A variable percentage will apply to the T-Yield published in the actuarial documents, based on the number of years of actual yields provided for the crop, as follows:
+
+(A) For three years or more, use 100 percent of the applicable T-Yield;
+
+(B) For two years, use 90 percent of the applicable T-Yield;
+
+(C) For one year, use 80 percent of the applicable T-Yield;
+
+(D) For no years, use 65 percent of the applicable T-Yield; or
+
+(E) For qualifying new producers, use 100 percent of the T-Yield published in the actuarial documents.
+
+(ii) A T-Yield may be calculated in accordance with FCIC approved procedures when you add land or new types and practices to your farming operations.
+
+(c) The average yield and approved yield are used to establish the insurance guarantee.
+
+(1) Calculate the average yield and approved yield as follows:
+
+(i) Establish the APH database using annual yields by APH crop year in accordance with section 5(b), prior to any adjustments authorized for annual yields from section 36(a);
+
+(ii) Sum all the annual yields from section 5(c)(1)(i);
+
+(iii) Divide the sum of section 5(c)(1)(ii) by the number of annual yields in the APH database. The result is the average yield;
+
+(iv) Using the annual yields determined from section 5(c)(1)(i), apply any applicable adjustments authorized from section 36(a);
+
+(v) Sum all the annual yields from section 5(c)(1)(iv); and
+
+(vi) Divide the sum of section 5(c)(1)(v) by the number of annual yields in the APH database and apply any applicable adjustments from section 5(c)(2) or (3), section 9(e), or section 36(b). The result is the approved yield.
+
+(2) Adjustment to the approved yield by us or any other person authorized by FCIC, in accordance with FCIC approved procedures, may be made in limited situations when the approved yield is not reflective of the expected actual production for the current crop year.
+
+(3) Master yields may be established whenever crop rotation requirements and land leasing practices limit the yield history available. FCIC will establish crops and locations for which master yields are available. To qualify, you must have at least four most recent continuous crop years' annual production reports of the insured crop. Master yields are based on acreage and production history from all acreage of the insured crop in the county in which you have/had a share in the crop's production on the same basis as your approved yield. When applicable, your master yield will be your approved yield as authorized by approved FCIC procedures.
+
+(4) For perennial crops, excluding forage, an approved yield may be adjusted if:
+
+(i) A significant upward or downward yield trend over consecutive APH crop years is evident;
+
+(ii) Tree or vine damage, or cultural practices performed will reduce the expected actual production for the current crop year from previous crop years' actual production; or
+
+(iii) Other situations are determined to exist, in accordance with FCIC approved procedures, when the approved yield is not reflective of the expected actual production for the current crop year.
+
+(5) An approved yield may be adjusted to reflect the degree of success of a systematic area-wide effort to detect, eradicate, suppress, control, or at a minimum prevent or retard, the spread of plant disease or plant pests, and which increases the yield of the insured crop on your farm when allowed under the terms of the policy.
+
+6. Report of Acreage
 
 (a) An annual acreage report must be submitted to us on our form for each insured crop in the county on or before the acreage reporting date contained in the Special Provisions, except as follows:
 
@@ -704,7 +926,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 (i) The last date any timely planted acreage was planted and the number of acres planted by such date; and
 
-(ii) The date of planting and the number of acres planted per day for acreage planted during the late planting period (If you fail to report the number of acres planted on a daily basis, all acreage planted in the late planting period will be presumed to have been planted on the last day planting took place in the late planting period for the purposes of section 16);
+(ii) The date of planting and the number of acres planted per day for acreage planted during the late planting period (if you faill to report the number of acres planted on a daily basis, all acreage planted in the late planting period will be presumed to have been planted on the last day planting took place in the late planting period for the purposes of section 16);
 
 (2) Your share at the time coverage begins;
 
@@ -738,7 +960,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 (*1*) Make all necessary loss determinations, except the acreage measurement; and
 
-(*2*) Finalize the claim in accordance with applicable policy provisions after you provide the acreage measurement to us (If you fail to provide the measurement, your claim will not be paid); or
+(*2*) Finalize the claim in accordance with applicable policy provisions after you provide the acreage measurement to us (if you failto provide the measurement, your claim will not be paid); or
 
 (B) Elect to measure the acreage, and:
 
@@ -764,7 +986,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 (1) Except as provided in section 6(g)(2), if you submit information on any report that is different than what is determined to be correct and such information results in:
 
-(i) A lower liability than the actual liability determined, the production guarantee or amount of insurance on the unit will be reduced to an amount consistent with the reported information (In the event the insurable acreage is under-reported for any unit, all production or value from insurable acreage in that unit will be considered production or value to count in determining the indemnity); or
+(i) A lower liability than the actual liability determined, the production guarantee or amount of insurance on the unit will be reduced to an amount consistent with the reported information (in the event the insurable acreage is under-reported for any unit, all production or value from insurable acreage in that unit will be considered production or value to count in determining the indemnity); or
 
 (ii) A higher liability than the actual liability determined, the information contained in the acreage report will be revised to be consistent with the correct information.
 
@@ -822,15 +1044,15 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 (i) Notwithstanding section 7(h)(2), you may be eligible for premium subsidy without having a timely filed form AD-1026:
 
-(A) For the initial reinsurance year if you certify by the premium billing date for your policy that you meet the qualifications as outlined in FCIC procedures for producers who are new to farming, new to crop insurance, a new entity, or have not previously been required to file form AD-1026; or
+(A) For the initial reinsurance year if you certify by the premium billing date for your policy that you meet the qualifications as outlined in FCIC procedures for producers who are new to farming, new to crop insurance, a new person, or have not previously been required to file form AD-1026; or
 
 (B) If FSA approves relief for failure to timely file due to circumstances beyond your control or failure to timely provide adequate information to complete form AD-1026 in accordance with the provisions contained in 7 CFR part 12.
 
 (ii) To be eligible for premium subsidy paid on your behalf by FCIC, it is your responsibility to assure you meet all the requirements for:
 
-(A) Compliance with the conservation provisions specified in section 7(h)(1) of this section; and
+(A) Compliance with the conservation provisions specified in section 7(h)(1); and
 
-(B) Filing form AD-1026 to be properly identified as in compliance with the conservation provisions specified in section 7(h)(1) of this section.
+(B) Filing form AD-1026 to be properly identified as in compliance with the conservation provisions specified in section 7(h)(1).
 
 8. Insured Crop
 
@@ -838,13 +1060,13 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 (b) A crop which will NOT be insured will include, but will not be limited to, any crop:
 
-(1) That is not grown on planted acreage (except for the purposes of prevented planting coverage), or that is a type, class or variety or where the conditions under which the crop is planted are not generally recognized for the area (For example, where agricultural experts determine that planting a non-irrigated corn crop after a failed small grain crop on the same acreage in the same crop year is not appropriate for the area);
+(1) That is not grown on planted acreage (except for the purposes of prevented planting coverage), or that is a type, class or variety or where the conditions under which the crop is planted are not generally recognized for the area (for example, where agricultural experts determine that planting a non-irrigated corn crop after a failed small grain crop on the same acreage in the same crop year is not appropriate for the area);
 
 (2) For which the information necessary for insurance (price election, amount of insurance, projected price and harvest price, as applicable, premium rate, *etc.*) is not included in the actuarial documents, unless such information is provided by a written agreement in accordance with section 18;
 
 (3) That is a volunteer crop;
 
-(4) Planted following the same crop on the same acreage and the first planting of the crop has been harvested in the same crop year unless specifically permitted by the Crop Provisions or the Special Provisions (For example, the second planting of grain sorghum would not be insurable if grain sorghum had already been planted and harvested on the same acreage during the crop year);
+(4) Planted following the same crop on the same acreage and the first planting of the crop has been harvested in the same crop year unless specifically permitted by the Crop Provisions or the Special Provisions (for example, the second planting of grain sorghum would not be insurable if grain sorghum had already been planted and harvested on the same acreage during the crop year);
 
 (5) That is planted for the development or production of hybrid seed or for experimental purposes, unless permitted by the Crop Provisions or by written agreement to insure such crop; or
 
@@ -916,7 +1138,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 (b) If insurance is provided for an irrigated practice, you must report as irrigated only that acreage for which you have adequate facilities and adequate water, or the reasonable expectation of receiving adequate water at the time coverage begins, to carry out a good irrigation practice. If you knew or had reason to know that your water may be reduced before coverage begins, no reasonable expectation exists.
 
-(c) Notwithstanding the provisions in section 8(b)(2), if acreage is irrigated and a premium rate is not provided for an irrigated practice, you may either report and insure the irrigated acreage as “non-irrigated,” or report the irrigated acreage as not insured (If you elect to insure such acreage under a non-irrigated practice, your irrigated yield will only be used to determine your approved yield if you continue to use a good irrigation practice. If you do not use a good irrigation practice, you will receive a yield determined in accordance with section 3(h)(3)).
+(c) Notwithstanding the provisions in section 8(b)(2), if acreage is irrigated and a premium rate is not provided for an irrigated practice, you may either report and insure the irrigated acreage as “non-irrigated,” or report the irrigated acreage as not insured. (If you elect to insure such acreage under a non-irrigated practice, your irrigated yield will only be used to determine your approved yield if you continue to use a good irrigation practice. If you do not use a good irrigation practice, you will receive a yield determined in accordance with section 3(h)(3).)
 
 (d) We may restrict the amount of acreage that we will insure to the amount allowed under any acreage limitation program established by the United States Department of Agriculture if we notify you of that restriction prior to the sales closing date.
 
@@ -952,7 +1174,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 (i) Your spouse, unless such spouse can prove he/she has a separate farming operation, which includes, but is not limited to, separate land (transfers of acreage from one spouse to another is not considered separate land), separate capital, separate inputs, separate accounting, and separate maintenance of proceeds; or
 
-(ii) Your child who resides in your household or any other member of your household, unless such child or other member of the household can demonstrate such person has a separate share in the crop (Children who do not reside in your household are not included in your share); and
+(ii) Your child who resides in your household or any other member of your household, unless such child or other member of the household can demonstrate such person has a separate share in the crop (children who do not reside in your household are not included in your share); and
 
 (2) If it is determined that the spouse, child or other member of the household has a separate policy but does not have a separate farming operation or share of the crop, as applicable:
 
@@ -970,7 +1192,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 (a) Except for prevented planting coverage (see section 17), coverage begins on each unit or part of a unit at the later of:
 
-(1) The date we accept your application (For the purposes of this paragraph, the date of acceptance is the date that you submit a properly executed application in accordance with section 2);
+(1) The date we accept your application (for the purposes of this paragraph, the date of acceptance is the date that you submit a properly executed application in accordance with section 2);
 
 (2) The date the insured crop is planted; or
 
@@ -1000,7 +1222,7 @@ Insurance is provided only to protect against unavoidable, naturally occurring e
 
 (b) Failure to follow recognized good farming practices for the insured crop;
 
-(c) Water that is contained by or within structures that are designed to contain a specific amount of water, such as dams, locks or reservoir projects, etc., on any acreage when such water stays within the designed limits (For example, a dam is designed to contain water to an elevation of 1,200 feet but you plant a crop on acreage at an elevation of 1,100 feet. A storm causes the water behind the dam to rise to an elevation of 1,200 feet. Under such circumstances, the resulting damage would not be caused by an insurable cause of loss. However, if you planted on acreage that was above 1,200 feet elevation, any damage caused by water that exceeded that elevation would be caused by an insurable cause of loss);
+(c) Water that is contained by or within structures that are designed to contain a specific amount of water, such as dams, locks or reservoir projects, etc., on any acreage when such water stays within the designed limits (For example, a dam is designed to contain water to an elevation of 1,200 feet but you plant a crop on acreage at an elevation of 1,100 feet. A storm causes the water behind the dam to rise to an elevation of 1,200 feet. Under such circumstances, the resulting damage would not be caused by an insurable cause of loss. However, if you planted on acreage that was above 1,200 feet elevation, any damage caused by water that exceeded that elevation would be caused by an insurable cause of loss.);
 
 (d) Failure or breakdown of the irrigation equipment or facilities, or the inability to prepare the land for irrigation using your established irrigation method (*e.g.,* furrow irrigation), unless the failure, breakdown or inability is due to a cause of loss specified in the Crop Provisions.
 
@@ -1094,9 +1316,9 @@ Your Duties—
 
 (1) Except as otherwise provided in your policy, you must submit a claim declaring the amount of your loss by the dates shown in section 14(e)(3), unless you:
 
-(i) Request an extension in writing by such date and we agree to such request (Extensions will only be granted if the amount of the loss cannot be determined within such time period because the information needed to determine the amount of the loss is not available); or
+(i) Request an extension in writing by such date and we agree to such request (extensions will only be granted if the amount of the loss cannot be determined within such time period because the information needed to determine the amount of the loss is not available); or
 
-(ii) Have harvested farm-stored production and elect, in writing, to delay measurement of your farm-stored production and settlement of any potential associated claim for indemnity as allowed by the Special Provisions (Extensions will be granted for this purpose up to 180 days after the end of the insurance period).
+(ii) Have harvested farm-stored production and elect, in writing, to delay measurement of your farm-stored production and settlement of any potential associated claim for indemnity as allowed by the Special Provisions (extensions will be granted for this purpose up to 180 days after the end of the insurance period).
 
 (A) For policies that require APH, if such extension continues beyond the date you are required to submit your production report, you will be assigned the previous year's approved yield as a temporary yield in accordance with applicable procedures.
 
@@ -1112,7 +1334,7 @@ Your Duties—
 
 (3) You must submit a claim not later than:
 
-(i) For policies other than revenue protection, 60 days after the date the insurance period ends for all acreage in the unit (When there is acreage in the unit where the insurance period ended on different dates, it is the last date the insurance period ends on the unit. For example, if a unit has corn acreage that was put to another use on July 15 and corn acreage where harvest was completed on September 30, the claim must be submitted not later than 60 days after September 30); or
+(i) For policies other than revenue protection, 60 days after the date the insurance period ends for all acreage in the unit (When there is acreage in the unit where the insurance period ended on different dates, it is the last date the insurance period ends on the unit. For example, if a unit has corn acreage that was put to another use on July 15 and corn acreage where harvest was completed on September 30, the claim must be submitted not later than 60 days after September 30.); or
 
 (ii) For revenue protection, the later of:
 
@@ -1164,7 +1386,7 @@ Our Duties—
 
 (2) Completion of arbitration, reconsideration of determinations regarding good farming practices or any other appeal that results in an award in your favor, unless we exercise our right to appeal such decision;
 
-(3) Completion of any investigation by USDA, if applicable, of your current or any past claim for indemnity if no evidence of wrongdoing has been found (If any evidence of wrongdoing has been discovered, the amount of any indemnity, prevented planting or replant overpayment as a result of such wrongdoing may be offset from any indemnity or prevented planting payment owed to you); or
+(3) Completion of any investigation by USDA, if applicable, of your current or any past claim for indemnity if no evidence of wrongdoing has been found (if any evidence of wrongdoing has been discovered, the amount of any indemnity, prevented planting or replant overpayment as a result of such wrongdoing may be offset from any indemnity or prevented planting payment owed to you); or
 
 (4) The entry of a final judgment by a court of competent jurisdiction.
 
@@ -1186,7 +1408,7 @@ Our Duties—
 
 (b) Appraised production will be used to calculate your claim if you are not going to harvest your acreage. Such appraisals may be conducted after the end of the insurance period. If you harvest the crop after the crop has been appraised:
 
-(1) You must provide us with the amount of harvested production (If you fail to provide acceptable verifiable records or acceptable farm management records of harvested production, no indemnity will be paid and you will be required to return any previously paid indemnity for the unit that was based on an appraised amount of production); and
+(1) You must provide us with the amount of harvested production (if you fail to provide acceptable verifiable records or acceptable farm management records of harvested production, no indemnity will be paid and you will be required to return any previously paid indemnity for the unit that was based on an appraised amount of production); and
 
 (2) If the harvested production exceeds the appraised production, claims will be adjusted using the harvested production, and you will be required to repay any overpaid indemnity; or
 
@@ -1256,7 +1478,7 @@ Our Duties—
 
 (6) If you do not have records of acreage and production specific to the double cropped acreage, as required in section 15(h)(5), but instead have records that combine production from acreage you double cropped with records of production from acreage you did not double crop, we will allocate the first and second crop production to the specific acreage in proportion to the liability for the acreage that was and was not double cropped.
 
-(7) With respect to double cropped acreage for which one of the crops you have double cropped is insured under a plan of insurance not covered under these Basic Provisions, each insured crop must follow its own Basic Provisions, Crop Provisions, and Special Provisions to determine if the double cropping requirements have been met. If the double cropping requirements in the applicable Basic Provisions, Crop Provisions, or Special Provisions have not been met for each insured crop, section 15(e) of these Basic Provisions applies.
+(7) With respect to double cropped acreage, if the two crops you have double cropped are insured under policies with different double crop history records requirements (*e.g.,* records of acreage and production), the less restrictive requirements may be followed to satisfy double cropping requirements for both crops. For example, you have 20 acres of annual forage wheat for grazing. On the same acreage you plant and insure cotton. The annual forage double cropping provisions do not include double cropping record history requirements. If the annual forage double cropping provisions are met, you are eligible for a full indemnity payment on both the annual forage wheat and the cotton.
 
 (i) If you provided acceptable records in accordance with section 15(h), your double cropping history is limited to the highest number of acres double cropped within the applicable 4-year period as determined in section 15(h)(5):
 
@@ -1322,7 +1544,7 @@ Unless limited by the Crop Provisions, insurance will be provided for acreage pl
 
 (d) Prevented planting coverage will be provided against:
 
-(1) Drought, failure of the irrigation water supply, failure or breakdown of irrigation equipment or facilities, or the inability to prepare the land for irrigation using your established irrigation method, due to an insured cause of loss only if, on the final planting date (or within the late planting period if you elect to try to plant the crop), you provide documentation acceptable to us to establish:
+(1) Drought, failure of the irrigation water supply; failure, breakdown, or destruction of irrigation equipment or facilities; or the inability to prepare the land for irrigation using your established irrigation method, due to an insured cause of loss only if, on the final planting date (or within the late planting period if you elect to try to plant the crop), you provide documentation acceptable to us to establish:
 
 (i) For non-irrigated acreage, the area that is prevented from being planted has insufficient soil moisture for germination of seed or progress toward crop maturity due to a prolonged period of dry weather. The documentation for prolonged period of dry weather must be verifiable using information collected by sources whose business it is to record and study the weather, including, but not limited to, local weather reporting stations of the National Weather Service; or
 
@@ -1334,9 +1556,9 @@ Unless limited by the Crop Provisions, insurance will be provided for acreage pl
 
 (*2*) Available water resources will be verified using information from State Departments of Water Resources, U.S. Bureau of Reclamation, Natural Resources Conservation Service or other sources whose business includes collection of water data or regulation of water resources; or
 
-(B) The irrigation equipment or facilities have failed or broken down if such failure or breakdown is due to an insured cause of loss specified in section 12(d).
+(B) The irrigation equipment or facilities have failed, broken down, or been destroyed if such failure, breakdown, or destruction is due to an insured cause of loss specified in section 12(d).
 
-(2) Causes other than drought, failure of the irrigation water supply, failure or breakdown of the irrigation equipment or facilities, or your inability to prepare the land for irrigation using your established irrigation method, provided the cause of loss is specified in the Crop Provisions. However, if it is possible for you to plant on or prior to the final planting date when other producers in the area are planting and you fail to plant, no prevented planting payment will be made.
+(2) Causes other than drought; failure of the irrigation water supply; failure, breakdown, or destruction of the irrigation equipment or facilities; or your inability to prepare the land for irrigation using your established irrigation method, provided the cause of loss is specified in the Crop Provisions. However, if it is possible for you to plant on or prior to the final planting date when other producers in the area are planting and you fail to plant, no prevented planting payment will be made.
 
 (e) The maximum number of acres that may be eligible for a prevented planting payment for any crop will be determined as follows:
 
@@ -1346,7 +1568,7 @@ Unless limited by the Crop Provisions, insurance will be provided for acreage pl
 
 (A) The number of eligible acres will be the maximum number of acres certified for APH purposes, or insured acres reported, for the crop in any one of the four most recent crop years (not including reported prevented planting acreage that was planted to a second crop unless you meet the double cropping requirements in section 17(f)(4)).
 
-(B) If you acquire additional land for the current crop year, the number of eligible acres determined in section 17(e)(1)(i)(A) for a crop may be increased by multiplying it by the ratio of the total cropland acres that you are farming this year (if greater) to the total cropland acres that you farmed in the previous year, provided that:
+(B) If you acquire additional land for the current crop year, the number of eligible acres determined in section 17(e)(1)(i)(A) for a crop may be increased by multiplying it by the ratio of the total cropland acres available for planting that you are farming this year (if greater) to the total cropland acres available for planting that you farmed in the previous year, provided that:
 
 (*1*) You submit proof to us that you acquired additional acreage for the current crop year by any of the methods specified in section 17(f)(12);
 
@@ -1400,11 +1622,11 @@ Unless limited by the Crop Provisions, insurance will be provided for acreage pl
 
 (f) Regardless of the number of eligible acres determined in section 17(e), prevented planting coverage will not be provided for any acreage:
 
-(1) That does not constitute at least 20 acres or 20 percent of the insurable crop acreage in the unit, whichever is less (If the crop is in a whole-farm unit, the 20 acre or 20 percent requirement will be applied separately to each crop in the whole-farm unit). Any prevented planting acreage within a field that contains planted acreage will be considered acreage of the same crop, type, and practice that is planted in the field unless:
+(1) That does not constitute at least 20 acres or 20 percent of the insurable crop acreage in the unit, whichever is less (if the crop is in a whole-farm unit, the 20 acre or 20 percent requirement will be applied separately to each crop in the whole-farm unit). Any prevented planting acreage within a field that contains planted acreage will be considered acreage of the same crop, type, and practice that is planted in the field unless:
 
 (i) The acreage that was prevented from being planted constitutes at least 20 acres or 20 percent of the total insurable acreage in the field and you produced both crops, crop types, or followed both practices in the same field in the same crop year within any one of the four most recent crop years;
 
-(ii) You were prevented from planting a first insured crop and you planted a second crop in the field (There can only be one first insured crop in a field unless the requirements in section 17(f)(1)(i) or (iii) are met);
+(ii) You were prevented from planting a first insured crop and you planted a second crop in the field (there can only be one first insured crop in a field unless the requirements in section 17(f)(1)(i) or (iii) are met);
 
 (iii) The insured crop planted in the field would not have been planted on the remaining prevented planting acreage (*e.g.,* where due to Crop Provisions, Special Provisions, or processor contract specifications rotation requirements would not be met, or you already planted the total number of acres specified in the processor contract); or
 
@@ -1412,7 +1634,7 @@ Unless limited by the Crop Provisions, insurance will be provided for acreage pl
 
 (2) For which the actuarial documents do not provide the information needed to determine the premium rate, unless a written agreement designates such premium rate;
 
-(3) Used for conservation purposes, intended to be left unplanted under any program administered by the USDA or other government agency, or required to be left unharvested under the terms of the lease or any other agreement (The number of acres eligible for prevented planting will be limited to the number of acres specified in the lease for which you are required to pay either cash or share rent);
+(3) Used for conservation purposes, intended to be left unplanted under any program administered by the USDA or other government agency, or required to be left unharvested under the terms of the lease or any other agreement (the number of acres eligible for prevented planting will be limited to the number of acres specified in the lease for which you are required to pay either cash or share rent);
 
 (4) On which the insured crop is prevented from being planted, if you or any other person receives a prevented planting payment for any crop for the same acreage in the same crop year, excluding share arrangements, unless:
 
@@ -1486,15 +1708,15 @@ Unless limited by the Crop Provisions, insurance will be provided for acreage pl
 
 (11) Based on a crop type that you did not plant, or did not receive a prevented planting insurance guarantee for, in at least one of the four most recent crop years:
 
-(i) Types for which separate projected prices or price elections, as applicable, amounts of insurance, or production guarantees are available must be included in your APH database in at least one of the four most recent crop years (Crops for which the insurance guarantee is not based on APH must be reported on your acreage report in at least one of the four most recent crop years) except as allowed in section 17(e)(1)(ii) or (iii); and
+(i) Types for which separate projected prices or price elections, as applicable, amounts of insurance, or production guarantees are available must be included in your APH database in at least one of the four most recent crop years (crops for which the insurance guarantee is not based on APH must be reported on your acreage report in at least one of the four most recent crop years) except as allowed in section 17(e)(1)(ii) or (iii); and
 
 (ii) We will limit prevented planting payments based on a specific crop type to the number of acres allowed for that crop type as specified in sections 17(e) and (f); or
 
-(12) If a cause of loss has occurred that may prevent planting at the time:
+(12) If after considerations of historical weather patterns, timing of the final planting date, your planting history, and other factors, we determine a cause of loss has occurred that may prevent planting at the time:
 
-(i) You lease the acreage (except acreage you leased the previous crop year and continue to lease in the current crop year);
+(i) You take possession of the leased acreage (except acreage you leased the previous crop year and continue to lease in the current crop year);
 
-(ii) You buy the acreage;
+(ii) You take possession of the purchased acreage;
 
 (iii) The acreage is released from a USDA program which prohibits harvest of a crop;
 
@@ -1502,9 +1724,9 @@ Unless limited by the Crop Provisions, insurance will be provided for acreage pl
 
 (v) You acquire the acreage through means other than lease or purchase (such as inherited or gifted acreage).
 
-(g) If you purchased an additional coverage policy for a crop, and you executed a High-Risk Land Exclusion Option that separately insures acreage which has been designated as “high-risk” land by FCIC under a Catastrophic Risk Protection Endorsement for that crop, the maximum number of acres eligible for a prevented planting payment will be limited for each policy as specified in sections 17(e) and (f).
+(g) If you purchased an additional coverage policy for a crop, and you executed a High-Risk Land Exclusion Option and separately insured acreage which has been designated as high-risk land by FCIC in accordance with section 3(b)(2)(ii)(B) and (C), the maximum number of acres eligible for a prevented planting payment will be limited for each policy as specified in section 17(e) and (f).
 
-(h) If you are prevented from planting a crop for which you do not have an adequate base of eligible prevented planting acreage, as determined in accordance with section 17(e)(1), we will use acreage from another crop insured for the current crop year for which you have remaining eligible prevented planting acreage.
+(h) If you are prevented from planting a crop for which you do not have an adequate base of eligible prevented planting acreage, as determined in accordance with section 17(e)(1), we will use acreage from another crop insured by us for the current crop year for which you have remaining eligible prevented planting acreage.
 
 (1) The crop first used for this purpose will be the insured crop that would have a prevented planting payment most similar to the payment for the crop that was prevented from being planted.
 
@@ -1556,7 +1778,7 @@ Terms of this policy which are specifically designated for the use of written ag
 
 (d) Each written agreement will only be valid for the number of crop years specified in the written agreement, and a multi-year written agreement:
 
-(1) Will only apply for any particular crop year designated in the written agreement if all terms and conditions in the written agreement are still applicable for the crop year and the conditions under which the written agreement has been provided have not changed prior to the beginning of the insurance period (If conditions change during or prior to the crop year, the written agreement will not be effective for that crop year but may still be effective for a subsequent crop year if conditions under which the written agreement has been provided exist for such year);
+(1) Will only apply for any particular crop year designated in the written agreement if all terms and conditions in the written agreement are still applicable for the crop year and the conditions under which the written agreement has been provided have not changed prior to the beginning of the insurance period (if conditions change during or prior to the crop year, the written agreement will not be effective for that crop year but may still be effective for a subsequent crop year if conditions under which the written agreement has been provided exist for such year);
 
 (2) May be canceled in writing by:
 
@@ -1584,7 +1806,7 @@ Terms of this policy which are specifically designated for the use of written ag
 
 (B) Establish optional units in accordance with FCIC procedures that otherwise would not be allowed or change the premium rate or transitional yield for designated high-risk land;
 
-(ii) On or before the cancellation date to insure a crop in a county that does not have actuarial documents for the crop (If the Crop Provisions do not provide a cancellation date for the county, the cancellation date for other insurable crops in the same State that have similar final planting and harvesting dates will be applicable); or
+(ii) On or before the cancellation date to insure a crop in a county that does not have actuarial documents for the crop (if the Crop Provisions do not provide a cancellation date for the county, the cancellation date for other insurable crops in the same State that have similar final planting and harvesting dates will be applicable); or
 
 (iii) On or before the date specified in the Crop Provisions or Special Provisions;
 
@@ -1652,7 +1874,7 @@ Terms of this policy which are specifically designated for the use of written ag
 
 (1) The request is submitted to us after the applicable deadline contained in sections 18(a) or (e);
 
-(2) All the information required in section 18(f) is not submitted to us with the request for a written agreement (The request for a written agreement may be accepted if any missing information is available from other acceptable sources); or
+(2) All the information required in section 18(f) is not submitted to us with the request for a written agreement (the request for a written agreement may be accepted if any missing information is available from other acceptable sources); or
 
 (3) The request is not authorized by the policy;
 
@@ -1694,7 +1916,7 @@ Terms of this policy which are specifically designated for the use of written ag
 
 (m) If the written agreement or the policy is canceled for any reason, or the period for which an existing written agreement is in effect ends, a request for renewal of the written agreement must contain all the information required by this section and be submitted in accordance with section 18(a), unless otherwise specified by FCIC;
 
-(n) If a request for a written agreement is not approved by FCIC, a request for a written agreement for any subsequent crop year that fails to address the stated basis for the denial will not be accepted (If the request for a written agreement contains the same information that was previously rejected or denied, you will not have any right to arbitrate, mediate or appeal the non-acceptance of your request); and
+(n) If a request for a written agreement is not approved by FCIC, a request for a written agreement for any subsequent crop year that fails to address the stated basis for the denial will not be accepted (if the request for a written agreement contains the same information that was previously rejected or denied, you will not have any right to arbitrate, mediate or appeal the non-acceptance of your request); and
 
 (o) If you disagree with any determination made by FCIC under section 18, you may obtain administrative review in accordance with 7 CFR part 400, subpart J or appeal in accordance with 7 CFR part 11, unless you have failed to comply with the provisions contained in section 18(g) or section 18(i)(2) or (4).
 
@@ -1724,7 +1946,7 @@ You must not abandon any crop to us. We will not accept any crop as compensation
 
 (2) Brought in the United States district court for the district in which the insured farm involved in the decision is located.
 
-(f) You may only recover contractual damages from us. Under no circumstances can you recover any attorney fees or other expenses, or any punitive, compensatory or any other damages from us in administrative review, appeal, reconsideration or litigation.
+(f) You may only recover contractual damages from us. Under no circumstances can you recover any attorney's fees or other expenses, or any punitive, compensatory or any other damages from us in administrative review, appeal, reconsideration or litigation.
 
 [For Reinsured Policies]20. Mediation, Arbitration, Appeal, Reconsideration, and Administrative and Judicial Review
 
@@ -1786,7 +2008,7 @@ You must not abandon any crop to us. We will not accept any crop as compensation
 
 (2) Such suit must be brought in the United States district court for the district in which the insured acreage is located.
 
-(3) Under no circumstances can you recover any attorney fees or other expenses, or any punitive, compensatory or any other damages from FCIC.
+(3) Under no circumstances can you recover any attorney's fees or other expenses, or any punitive, compensatory or any other damages from FCIC.
 
 (f) In any mediation, arbitration, appeal, administrative review, reconsideration or judicial process, the terms of this policy, the Act, and the regulations published at 7 CFR chapter IV, including the provisions of 7 CFR part 400, subpart P, are binding. Conflicts between this policy and any state or local laws will be resolved in accordance with section 31. If there are conflicts between any rules of the AAA and the provisions of your policy, the provisions of your policy will control.
 
@@ -1800,7 +2022,7 @@ You must not abandon any crop to us. We will not accept any crop as compensation
 
 (h) Except as provided in section 20(i), no award or settlement in mediation, arbitration, appeal, administrative review or reconsideration process or judicial review can exceed the amount of liability established or which should have been established under the policy, except for interest awarded in accordance with section 26.
 
-(i) In a judicial review only, you may recover attorneys fees or other expenses, or any punitive, compensatory or any other damages from us only if you obtain a determination from FCIC that we, our agent or loss adjuster failed to comply with the terms of this policy or procedures issued by FCIC and such failure resulted in you receiving a payment in an amount that is less than the amount to which you were entitled. Requests for such a determination should be addressed to the following: USDA/RMA/Deputy Administrator of Compliance/Stop 0806, 1400 Independence Avenue, SW., Washington, DC 20250-0806.
+(i) In a judicial review only, you may recover attorney's fees or other expenses, or any punitive, compensatory or any other damages from us only if you obtain a determination from FCIC that we, our agent or loss adjuster failed to comply with the terms of this policy or procedures issued by FCIC and such failure resulted in you receiving a payment in an amount that is less than the amount to which you were entitled. Requests for such a determination should be addressed to the following: USDA/RMA/Deputy Administrator of Compliance/Stop 0806, 1400 Independence Avenue, SW., Washington, DC 20250-0806.
 
 (j) If FCIC elects to participate in the adjustment of your claim, or modifies, revises or corrects your claim, prior to payment, you may not bring an arbitration, mediation or litigation action against us. You must request administrative review or appeal in accordance with section 20(e).
 
@@ -1812,7 +2034,7 @@ You must not abandon any crop to us. We will not accept any crop as compensation
 
 (b) You must retain, and provide upon our request, or the request of any employee of USDA authorized to investigate or review any matter relating to crop insurance:
 
-(1) Complete records of the planting, replanting, inputs, production, harvesting, and disposition of the insured crop on each unit for three years after the end of the crop year (This requirement also applies to all such records for acreage that is not insured);
+(1) Complete records of the planting, replanting, inputs, production, harvesting, and disposition of the insured crop on each unit for three years after the end of the crop year (this requirement also applies to all such records for acreage that is not insured);
 
 (2) All records used to establish the amount of production you certified on your production reports used to compute your approved yield for three years after the calendar date for the end of the insurance period for the crop year for which you initially certified such records, unless such records have already been provided to us (*e.g.,* if you are a new insured and you certify 2015 through 2018 crop year production records in 2019 to determine your approved yield for the 2019 crop year, you must retain all records from the 2015 through 2018 crop years through the 2022 crop year. If you subsequently certify records of the 2019 crop year in 2020 to determine your approved yield for the 2020 crop year, you must retain the 2019 crop year records through the 2023 crop year and so forth for each subsequent year of production records certified); and
 
@@ -1872,7 +2094,7 @@ You must not abandon any crop to us. We will not accept any crop as compensation
 
 23. Conformity to Food Security Act
 
-Although your violation of a number of federal statutes, including the Act, may cause cancellation, termination, or voidance of your insurance contract, you should be specifically aware that your policy will be canceled if you are determined to be ineligible to receive benefits under the Act due to violation of the controlled substance provisions (title XVII) of the Food Security Act of 1985 (Pub. L. 99-198) and the regulations promulgated under the Act by USDA. Your insurance policy will be canceled if you are determined, by the appropriate Agency, to be in violation of these provisions. We will recover any and all monies paid to you or received by you during your period of ineligibility, and your premium will be refunded, less an amount for expenses and handling equal to 20 percent of the premium paid or to be paid by you.
+Although your violation of a number of Federal statutes, including the Act, may cause cancellation, termination, or voidance of your insurance contract, you should be specifically aware that your policy will be canceled if you are determined to be ineligible to receive benefits under the Act due to violation of the controlled substance provisions (title XVII) of the Food Security Act of 1985 (Pub. L. 99-198) and the regulations promulgated under the Act by USDA. Your insurance policy will be canceled if you are determined, by the appropriate Agency, to be in violation of these provisions. We will recover any and all monies paid to you or received by you during your period of ineligibility, and your premium will be refunded, less an amount for expenses and handling equal to 20 percent of the premium paid or to be paid by you.
 
 For FCIC policies24. Amounts Due Us
 
@@ -1888,13 +2110,13 @@ For FCIC policies24. Amounts Due Us
 
 (3) The amount will be considered delinquent if not paid within 30 days of the date the notice is issued by us;
 
-(4) Penalties and interest will be charged in accordance with 31 U.S.C. 3717 and 4 CFR part 102; and
+(4) Penalties and interest will be charged in accordance with 31 U.S.C. 3717 and 31 CFR part 901; and
 
 (5) The penalty for accounts more than 90 days delinquent is an additional 6 percent per annum.
 
-(d) Interest on any amount due us found to have been received by you because of fraud, misrepresentation or presentation by you of a false claim will start on the date you received the amount with the additional 6 percent penalty beginning on the 31st day after the notice of amount due is issued to you. This interest is in addition to any other amount found to be due under any other federal criminal or civil statute.
+(d) Interest on any amount due us found to have been received by you because of fraud, misrepresentation or presentation by you of a false claim will start on the date you received the amount with the additional 6 percent penalty beginning on the 31st day after the notice of amount due is issued to you. This interest is in addition to any other amount found to be due under any other Federal criminal or civil statute.
 
-If we determine that it is necessary to contract with a collection agency, refer the debt to government collection centers, the Department of Treasury Offset Program, or to employ an attorney to assist in collection, you agree to pay all the expenses of collection.
+(e) If we determine that it is necessary to contract with a collection agency, refer the debt to government collection centers, the Department of Treasury Offset Program, or to employ an attorney to assist in collection, you agree to pay all the expenses of collection.
 
 (f) All amounts paid will be applied first to expenses of collection if any, second to the reduction of any penalties which may have been assessed, then to reduction of accrued interest, and finally to reduction of the principal balance.
 
@@ -1904,13 +2126,13 @@ For reinsured policies24. Amounts Due Us
 
 (b) For the purpose of any other amounts due us, such as repayment of indemnities found not to have been earned, interest will start to accrue on the date that notice is issued to you for the collection of the unearned amount. Amounts found due under this paragraph will not be charged interest if payment is made within 30 days of issuance of the notice by us. The amount will be considered delinquent if not paid within 30 days of the date the notice is issued by us.
 
-(c) All amounts paid will be applied first to expenses of collection (see subsection (d) of this section) if any, second to the reduction of accrued interest, and then to the reduction of the principal balance.
+(c) All amounts paid will be applied first to expenses of collection (see section 24(d)) if any, second to the reduction of accrued interest, and then to the reduction of the principal balance.
 
 (d) If we determine that it is necessary to contract with a collection agency or to employ an attorney to assist in collection, you agree to pay all of the expenses of collection.
 
 (e) The portion of the amounts owed by you for a policy authorized under the Act that are owed to FCIC may be collected in part through administrative offset from payments you receive from United States government agencies in accordance with 31 U.S.C. chapter 37. Such amounts include all administrative fees, and the share of the overpaid indemnities and premiums retained by FCIC plus any interest owed thereon.
 
-25. Correction of Errors.
+25. Correction of Errors
 
 (a) In addition to any other corrections allowed in your policy subject to section 25(b), we may correct:
 
@@ -1972,7 +2194,7 @@ We will pay simple interest computed on the net indemnity ultimately found to be
 
 (vii) The Consolidated Farm and Rural Development Act (7 U.S.C. 1921 *et seq.*); and
 
-(viii) Any federal law that provides assistance to a producer of an agricultural commodity affected by a crop loss or a decline in the prices of agricultural commodities.
+(viii) Any Federal law that provides assistance to a producer of an agricultural commodity affected by a crop loss or a decline in the prices of agricultural commodities.
 
 28. Transfer of Coverage and Right to Indemnity
 
@@ -2000,7 +2222,7 @@ If you transfer any part of your share during the crop year, you may transfer yo
 
 30. [Reserved]31. Applicability of State and Local Statutes
 
-If the provisions of this policy conflict with statutes of the State or locality in which this policy is issued, the policy provisions will prevail. State and local laws and regulations in conflict with federal statutes, this policy, and the applicable regulations do not apply to this policy.
+If the provisions of this policy conflict with statutes of the State or locality in which this policy is issued, the policy provisions will prevail. State and local laws and regulations in conflict with Federal statutes, this policy, and the applicable regulations do not apply to this policy.
 
 32. Descriptive Headings
 
@@ -2024,21 +2246,9 @@ The descriptive headings of the various policy provisions are formulated for con
 
 34. Units
 
-(a) You may elect an enterprise unit or whole-farm unit in accordance with the following:
+(a) You may elect an enterprise unit or whole-farm unit as allowed by the actuarial documents.
 
-(1) For crops for which revenue protection is available, you may elect:
-
-(i) An enterprise unit if you elected revenue protection or yield protection; or
-
-(ii) A whole-farm unit if you elected:
-
-(A) Revenue protection and revenue protection is provided unless limited by the Special Provisions; or
-
-(B) Yield protection only if whole-farm units are allowed by the Special Provisions;
-
-(2) For crops for which revenue protection is not available, enterprise units or whole-farm units are available only if allowed by the Special Provisions;
-
-(3) You must make such election on or before the earliest sales closing date for the insured crops in the unit and report such unit structure on your acreage report:
+(1) You must make such election on or before the earliest sales closing date for the insured crops in the unit and report such unit structure on your acreage report:
 
 (i) For counties in which the actuarial documents specify a fall or winter sales closing date and a spring sales closing date, you may change your unit election on or before the spring sales closing date (earliest spring sales closing date for crops in the unit if electing a whole-farm unit) if you do not have any insured fall planted acreage of the insured crop;
 
@@ -2046,7 +2256,7 @@ The descriptive headings of the various policy provisions are formulated for con
 
 (iii) These units may not be further divided except as specified herein;
 
-(4) For an enterprise unit:
+(2) For an enterprise unit:
 
 (i) To qualify, an enterprise unit must contain all of the insurable acreage of the same insured crop in:
 
@@ -2062,7 +2272,7 @@ The descriptive headings of the various policy provisions are formulated for con
 
 (F) Two or more units established by written agreement; and
 
-(ii) At least two of the sections, section equivalents, FSA farm numbers, or units established by written agreement in section 34(a)(4)(i)(A), (B), (C), (D), or (F) must each have planted acreage that constitutes at least the lesser of 20 acres or 20 percent of the insured crop acreage in the enterprise unit. If there is planted acreage in more than two sections, section equivalents, FSA farm numbers or units established by written agreement in section 34(a)(4)(i)(A), (B), (C), (D), or (F), these can be aggregated to form at least two parcels to meet this requirement. For example, if sections are the basis for optional units where the insured acreage is located and you have 80 planted acres in section one, 10 planted acres in section two, and 10 planted acres in section three, you may aggregate sections two and three to meet this requirement.
+(ii) At least two of the sections, section equivalents, FSA farm numbers, or units established by written agreement in section 34(a)(2)(i)(A), (B), (C), (D), or (F) must each have planted acreage that constitutes at least the lesser of 20 acres or 20 percent of the insured crop acreage in the enterprise unit. If there is planted acreage in more than two sections, section equivalents, FSA farm numbers or units established by written agreement in section 34(a)(2)(i)(A), (B), (C), (D), or (F), these can be aggregated to form at least two parcels to meet this requirement. For example, if sections are the basis for optional units where the insured acreage is located and you have 80 planted acres in section one, 10 planted acres in section two, and 10 planted acres in section three, you may aggregate sections two and three to meet this requirement.
 
 (iii) The crop must be insured under revenue protection or yield protection, unless otherwise specified in the Special Provisions;
 
@@ -2074,7 +2284,7 @@ The descriptive headings of the various policy provisions are formulated for con
 
 (v) If you do not comply with the production reporting provisions in section 3(f) for the enterprise unit, your yield for the enterprise unit will be determined in accordance with section 3(f)(1);
 
-(vi) You must separately designate on the acreage report each section or other basis in section 34(a)(4)(i) you used to qualify for an enterprise unit; and
+(vi) You must separately designate on the acreage report each section or other basis in section 34(a)(2)(i) you used to qualify for an enterprise unit; and
 
 (vii) If we discover you do not qualify for an enterprise unit and such discovery is made:
 
@@ -2086,13 +2296,13 @@ The descriptive headings of the various policy provisions are formulated for con
 
 (A) You may elect one enterprise unit for all irrigated practices or one enterprise unit for all non-irrigated practices or enterprise units for both.
 
-(B) You must separately meet the requirements in section 34(a)(4) for each enterprise unit.
+(B) You must separately meet the requirements in section 34(a)(2) for each enterprise unit.
 
 (C) If you elected separate enterprise units for both irrigated and non-irrigated practices and we discover you do not qualify for an enterprise unit for the irrigated or non-irrigated practice and such discovery is made:
 
 (*1*) On or before the acreage reporting date, you may elect to insure:
 
-(*i*) One enterprise unit for all irrigated or non-irrigated practices provided you meet the requirements in section 34(a)(4), and basic or optional units for the other practice, whichever you report on your acreage report and qualify for;
+(*i*) One enterprise unit for all irrigated or non-irrigated practices provided you meet the requirements in section 34(a)(2), and basic or optional units for the other practice, whichever you report on your acreage report and qualify for;
 
 (*ii*) One enterprise unit for all acreage of the crop in the county provided you meet the requirements in section 34(a)(4); or
 
@@ -2108,21 +2318,21 @@ The descriptive headings of the various policy provisions are formulated for con
 
 (ix) You may elect enterprise units as allowed by the Crop Provisions if provided in the actuarial documents.
 
-(5) For a whole-farm unit:
+(3) For a whole-farm unit:
 
 (i) To qualify:
 
 (A) All crops in the whole-farm unit must be insured:
 
-(*1*) Under revenue protection (if you elected the harvest price exclusion for any crop, you must elect it for all crops in the whole-farm unit), unless the Special Provisions allow whole-farm units for another plan of insurance and you insure all crops in the whole-farm unit under such plan (*e.g.,* if you plant corn and soybeans for which you have elected revenue protection and you plant canola for which you have elected yield protection, the corn, soybeans and canola would be assigned the unit structure in accordance with section 34(a)(5)(v));
+(*1*) Under revenue protection (if you elected the harvest price exclusion for any crop, you must elect it for all crops in the whole-farm unit), unless the Special Provisions allow whole-farm units for another plan of insurance and you insure all crops in the whole-farm unit under such plan (*e.g.,* if you plant corn and soybeans for which you have elected revenue protection and you plant canola for which you have elected yield protection, the corn, soybeans and canola would be assigned the unit structure in accordance with section 34(a)(3)(v));
 
-(*2*) With us (*e.g.,* if you insure your corn and canola with us and your soybeans with a different insurance provider, the corn, soybeans and canola would be assigned the unit structure in accordance with section 34(a)(5)(v)); and
+(*2*) With us (*e.g.,* if you insure your corn and canola with us and your soybeans with a different insurance provider, the corn, soybeans and canola would be assigned the unit structure in accordance with section 34(a)(3)(v)); and
 
-(*3*) At the same coverage level (e.g., if you elect to insure your corn and canola at the 65 percent coverage level and your soybeans at the 75 percent coverage level, the corn, soybeans and canola would be assigned the unit structure in accordance with section 34(a)(5)(v)) unless you can elect separate coverage levels for all irrigated and all non-irrigated crops in accordance with section 3(b)(2)(iii) (e.g., if you elect to insure your irrigated corn at the 65 percent coverage level you must insure your irrigated canola at the 65 percent coverage level. If you elect to insure your non-irrigated corn at the 70 percent coverage level you must insure your non-irrigated canola at the 70 percent coverage level. If you elect to insure your irrigated corn at the 65 percent coverage level and your irrigated canola at the 70 percent coverage level your unit structure will be assigned in accordance with section 34(a)(5)(v));
+(*3*) At the same coverage level (e.g., if you elect to insure your corn and canola at the 65 percent coverage level and your soybeans at the 75 percent coverage level, the corn, soybeans and canola would be assigned the unit structure in accordance with section 34(a)(3)(v)) unless you can elect separate coverage levels for all irrigated and all non-irrigated crops in accordance with section 3(b)(2)(iii) (e.g., if you elect to insure your irrigated corn at the 65 percent coverage level you must insure your irrigated canola at the 65 percent coverage level. If you elect to insure your non-irrigated corn at the 70 percent coverage level you must insure your non-irrigated canola at the 70 percent coverage level. If you elect to insure your irrigated corn at the 65 percent coverage level and your irrigated canola at the 70 percent coverage level your unit structure will be assigned in accordance with section 34(a)(5)(v));
 
 (B) A whole-farm unit must contain all of the insurable acreage of at least two crops; and
 
-(C) At least two of the insured crops must each have planted acreage that constitutes 10 percent or more of the total planted acreage liability of all insured crops in the whole-farm unit (For crops for which revenue protection is available, liability will be based on the applicable projected price only for the purpose of section 34(a)(5)(i)(C));
+(C) At least two of the insured crops must each have planted acreage that constitutes 10 percent or more of the total planted acreage liability of all insured crops in the whole-farm unit (for crops for which revenue protection is available, liability will be based on the applicable projected price only for the purpose of section 34(a)(3)(i)(C));
 
 (ii) You will be required to pay separate administrative fees for each crop included in the whole-farm unit;
 
@@ -2136,7 +2346,7 @@ The descriptive headings of the various policy provisions are formulated for con
 
 (v) If we discover you do not qualify for a whole-farm unit for at least one insured crop because, even though you elected revenue protection for all your crops:
 
-(A) You do not meet all of the other requirements in section 34(a)(5)(i), and such discovery is made:
+(A) You do not meet all of the other requirements in section 34(a)(3)(i),, and such discovery is made:
 
 (*1*) On or before the acreage reporting date, your unit division for all crops for which you elected a whole-farm unit will be based on basic or optional units, whichever you report on your acreage report and qualify for; or
 
@@ -2148,9 +2358,9 @@ The descriptive headings of the various policy provisions are formulated for con
 
 (1) You must plant the crop in a manner that results in a clear and discernible break in the planting pattern at the boundaries of each optional unit;
 
-(2) All optional units you select for the crop year are identified on the acreage report for that crop year (Units will be determined when the acreage is reported but may be adjusted or combined to reflect the actual unit structure when adjusting a loss. No further unit division may be made after the acreage reporting date for any reason);
+(2) All optional units you select for the crop year are identified on the acreage report for that crop year (Units will be determined when the acreage is reported but may be adjusted or combined to reflect the actual unit structure when adjusting a loss. No further unit division may be made after the acreage reporting date for any reason.);
 
-(3) You have records, that are acceptable to us, for at least the previous crop year for all optional units that you will report in the current crop year (You may be required to produce the records for all optional units for the previous crop year); and
+(3) You have records, that are acceptable to us, for at least the previous crop year for all optional units that you will report in the current crop year (you may be required to produce the records for all optional units for the previous crop year); and
 
 (4) You have records of marketed or stored production from each optional unit maintained in such a manner that permits us to verify the production from each optional unit, or the production from each optional unit is kept separate until loss adjustment is completed by us.
 
@@ -2164,7 +2374,7 @@ The descriptive headings of the various policy provisions are formulated for con
 
 (2) In addition to, or instead of, establishing optional units by section, section equivalent or FSA farm number, optional units may be based on irrigated and non-irrigated acreage. To qualify as separate irrigated and non-irrigated optional units, the non-irrigated acreage may not continue into the irrigated acreage in the same rows or planting pattern. The irrigated acreage may not extend beyond the point at which the irrigation system can deliver the quantity of water needed to produce the yield on which the guarantee is based, except the corners of a field in which a center-pivot irrigation system is used may be considered as irrigated acreage if the corners of a field in which a center-pivot irrigation system is used do not qualify as a separate non-irrigated optional unit. In this case, production from both practices will be used to determine your approved yield; and
 
-(3) In addition to, or instead of, establishing optional units by section, section equivalent or FSA farm number, or irrigated and non-irrigated acreage, separate optional units may be established for acreage of the insured crop grown and insured under an organic farming practice. Certified organic, transitional and buffer zone acreages do not individually qualify as separate units. (See section 37 for additional provisions regarding acreage insured under an organic farming practice).
+(3) In addition to, or instead of, establishing optional units by section, section equivalent or FSA farm number, or irrigated and non-irrigated acreage, separate optional units may be established for acreage of the insured crop grown and insured under an organic farming practice. Certified organic, transitional, and buffer zone acreages do not individually qualify as separate units. (See section 37 for additional provisions regarding acreage insured under an organic farming practice.)
 
 (d) Optional units are not available for crops insured under a Catastrophic Risk Protection Endorsement.
 
@@ -2196,7 +2406,7 @@ The descriptive headings of the various policy provisions are formulated for con
 
 (ii) You elect revenue protection:
 
-(A) The total value of the crop before the loss is your approved yield times the higher of the applicable projected price or harvest price for the crop (If you have elected the harvest price exclusion, the applicable projected price for the crop will be used); and
+(A) The total value of the crop before the loss is your approved yield times the higher of the applicable projected price or harvest price for the crop (if you have elected the harvest price exclusion, the applicable projected price for the crop will be used); and
 
 (B) The total value of the crop after the loss is your production to count times the harvest price for the crop.
 
@@ -2206,15 +2416,15 @@ The descriptive headings of the various policy provisions are formulated for con
 
 If provided in the actuarial documents, you may elect the following measures to increase your approved yield:
 
-(a) Adjustments to actual yields within a database:
+(a) Adjustments to actual yields within an APH database:
 
 (1) You may exclude and replace one or more actual yields, on an individual actual yield basis, that due to an insurable cause of loss, are less than 60 percent of the applicable transitional yield.
 
-(i) Each election made in section 36(a)(1) must be made on or before the production reporting date for the insured crop and each such election will remain in effect for succeeding crop years unless canceled by the production reporting date for the succeeding crop year. If you cancel an election, the actual yield will be used in the database. For example, if you elected to substitute yields in your database for the 2020 and 2021 crop year, for any subsequent crop year, you can elect to cancel the substitution for either or both crop years.
+(i) Each election made in section 36(a)(1) must be made on or before the production reporting date for the insured crop and each such election will remain in effect for succeeding crop years unless canceled by the production reporting date for the succeeding crop year. If you cancel an election, the actual yield will be used in the APH database. For example, if you elected to substitute yields in your APH database for the 2020 and 2021 crop year, for any subsequent crop year, you can elect to cancel the substitution for either or both crop years.
 
-(ii) Each excluded actual yield will be replaced with a yield equal to 60 percent of the applicable transitional yield for the crop year in which the yield is being replaced, unless you qualify as a beginning farmer or rancher, or veteran farmer or rancher, in which case the excluded actual yield will be replaced with a yield equal to 80 percent of the applicable transitional yield for the crop year in which the yield is being replaced. (For example, if you elect to exclude a 2020 crop year actual yield, the transitional yield in effect for the 2020 crop year in the county will be used. If you also elect to exclude a 2021 crop year actual yield, the transitional yield in effect for the 2021 crop year in the county will be used). The replacement yields will be used in the same manner as actual yields for the purpose of calculating the approved yield.
+(ii) Each excluded actual yield will be replaced with a yield equal to 60 percent of the applicable transitional yield for the crop year in which the yield is being replaced, unless you qualify as a beginning farmer or rancher, or veteran farmer or rancher, in which case the excluded actual yield will be replaced with a yield equal to 80 percent of the applicable transitional yield for the crop year in which the yield is being replaced. (For example, if you elect to exclude a 2020 crop year actual yield, the transitional yield in effect for the 2020 crop year in the county will be used. If you also elect to exclude a 2021 crop year actual yield, the transitional yield in effect for the 2021 crop year in the county will be used.) The replacement yields will be used in the same manner as actual yields for the purpose of calculating the approved yield.
 
-(iii) Once you have elected to exclude an actual yield from the database, the replacement yield will remain in effect until such time as that crop year is no longer included in the database unless this election is canceled in accordance with section 36(a)(1)(i).
+(iii) Once you have elected to exclude an actual yield from the APH database, the replacement yield will remain in effect until such time as that crop year is no longer included in the APH database unless this election is canceled in accordance with section 36(a)(1)(i).
 
 (iv) Although your approved yield will be used to determine your amount of premium owed, the premium rate will be increased to cover the additional risk associated with the substitution of higher yields.
 
@@ -2226,13 +2436,13 @@ If provided in the actuarial documents, you may elect the following measures to 
 
 (ii) In order to replace post-quality actual yields for previous crop years, you must have filed a notice of loss due to an insured cause of loss for the crop year to be eligible.
 
-(iii) Once the pre-quality actual yield replaces the post-quality actual yield, the pre-quality actual yield will remain in effect until such time as that crop year is no longer included in the database, unless this election is canceled in accordance with section 36(a)(3)(i).
+(iii) Once the pre-quality actual yield replaces the post-quality actual yield, the pre-quality actual yield will remain in effect until such time as that crop year is no longer included in the APH database, unless this election is canceled in accordance with section 36(a)(3)(i).
 
 (iv) Although your approved yield will be used to determine your amount of premium owed, the premium rate will be increased to cover the additional risk associated with the replacement of higher pre-quality reduction based actual yields.
 
 (b) You may make adjustments to your approved yield by limiting a reduction to the approved APH yield to a maximum decline of 10 percent of the previous crop year's approved APH yield when such reduction is due to a decline in production resulting from a natural disaster or other insurable loss, as provided in FCIC procedures.
 
-37. Organic Farming Practices.
+37. Organic Farming Practices
 
 (a) In accordance with section 8(b)(2), insurance will not be provided for any crop grown using an organic farming practice, unless the information needed to determine a premium rate for an organic farming practice is specified on the actuarial table, or insurance is allowed by a written agreement.
 
@@ -2240,7 +2450,7 @@ If provided in the actuarial documents, you may elect the following measures to 
 
 (1) Certified organic acreage;
 
-(2) Transitional acreage being converted to certified organic acreage in accordance with an organic plan; and
+(2) Transitional acreage being converted to certified organic acreage in accordance with an organic system plan; and
 
 (3) Buffer zone acreage.
 
@@ -2248,15 +2458,15 @@ If provided in the actuarial documents, you may elect the following measures to 
 
 (1) By the acreage reporting date, except as allowed by section 37(c)(2), you must have:
 
-(i) For certified organic acreage, a written certification in effect from a certifying agent indicating the name of the entity certified, effective date of certification, certificate number, types of commodities certified, and name and address of the certifying agent (A certificate issued to a tenant may be used to qualify a landlord or other similar arrangement).
+(i) For certified organic acreage, a written certification in effect directly from a certifying agent indicating the name of the person certified, effective date of certification, certificate number, types of commodities certified, and name and address of the certifying agent (a certificate issued to a tenant may be used to qualify a landlord or other similar arrangement). A certificate issued from the National Organic Program's Organic Integrity Database (or successor certificate reporting tool) is acceptable.
 
-(ii) For transitional acreage, a certificate as described in section 37(c)(1)(i), or written documentation from a certifying agent indicating an organic plan is in effect for the acreage.
+(ii) For transitional acreage, an organic system plan documenting the use of practices that would result in certified organic status that includes the record information as described in section 37(c)(1)(i), or written documentation from a certifying agent indicating an organic system plan is in effect for the acreage.
 
 (iii) For certified organic and transitional acreage, records from the certifying agent showing the specific location of each field of certified organic, transitional, buffer zone, and acreage not maintained under organic management.
 
-(2) If you do not meet the requirements in section 37(c)(1)(i) or (ii), you must provide documentation that you have requested, in writing, your written certification or organic plan by the acreage reporting date.
+(2) If you do not meet the requirements in section 37(c)(1)(i) or (ii), you must provide documentation that you have requested, in writing, your written certification or organic system plan by the acreage reporting date.
 
-(i) Your certificate or plan must be in effect prior to the earlier of the end of the insurance period or when coverage ends as provided in section 11(b).
+(i) Your certificate or organic system plan must be in effect prior to the earlier of the end of the insurance period or when coverage ends as provided in section 11(b).
 
 (ii) Your acreage will remain insured under the practice you reported on the acreage reporting date unless you have a loss. If you have a loss and do not have a certificate or plan in place at the time the claim is finalized in accordance with the applicable policy provisions, then your acreage will be insured under the practice for which it qualifies.
 
@@ -2264,11 +2474,11 @@ If provided in the actuarial documents, you may elect the following measures to 
 
 (e) If any acreage qualifies as certified organic or transitional acreage on the date you report such acreage, and such certification is subsequently revoked or suspended by the certifying agent, or the certifying agent does not consider the acreage as transitional acreage for the remainder of the crop year, that acreage will remain insured under the reported practice for which it qualified at the time the acreage was reported. Any loss due to failure to comply with organic standards will be considered an uninsured cause of loss.
 
-(f) Contamination by application or drift of prohibited substances onto land on which crops are grown using organic farming practices will not be an insured peril on any certified organic, transitional or buffer zone acreage.
+(f) Contamination by application or drift of prohibited substances onto land on which crops are grown using organic farming practices will not be an insured peril on any certified organic, transitional, or buffer zone acreage.
 
 (g) In addition to the provisions contained in section 17(f), prevented planting coverage will not be provided for any acreage based on an organic farming practice in excess of the number of acres that will be grown under an organic farming practice and shown as such in the records required in section 37(c).
 
-(h) In lieu of the provisions contained in section 17(f)(1) that specify prevented planting acreage within a field that contains planted acreage will be considered to be acreage of the same practice that is planted in the field, prevented planting acreage will be considered as organic practice acreage if it is identified as certified organic, transitional, or buffer zone acreage in the organic plan.
+(h) In lieu of the provisions contained in section 17(f)(1) that specify prevented planting acreage within a field that contains planted acreage will be considered to be acreage of the same practice that is planted in the field, prevented planting acreage will be considered as organic practice acreage if it is identified as certified organic, transitional, or buffer zone acreage in the organic system plan.
 
 38. Direct Marketing and Verifiable Records
 
