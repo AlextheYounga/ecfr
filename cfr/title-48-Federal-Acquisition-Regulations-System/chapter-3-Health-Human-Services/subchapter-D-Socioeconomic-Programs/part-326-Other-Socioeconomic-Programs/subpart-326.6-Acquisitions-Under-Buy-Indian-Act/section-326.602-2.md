@@ -1,0 +1,5 @@
+##### 326.602-2 Restrictions on the use of the Buy Indian Act. #####
+
+(a) IHS may not use the authority of the Buy Indian Act and the procedures contained in this subpart to award intergovernmental contracts to Tribal organizations to plan, operate, or administer authorized IHS programs (or parts thereof) that are within the scope and intent of the Indian Self-Determination and Education Assistance Act (ISDEAA) (Pub. L. 93-638). IHS must use the Buy Indian Act solely to award procurement contracts to IEEs. Contracts subject to ISDEAA are not covered under the FAR and are codified separately under 25 CFR part 900 and 42 CFR part 137.
+
+(b) Contract health services (referred to administratively as Purchased/Referred Care services) are defined at 25 U.S.C. 1603 as excluding services provided by Buy Indian Act contractors. Accordingly, the Buy Indian Act may not be used to obtain services through the Purchased/Referred Care program (previously Contract Health Services). Purchase orders for care authorized pursuant to 42 CFR part 136 subpart C may be issued without regard to the provisions of this Part.

@@ -1,7 +1,5 @@
 ##### § 73.1940 Legally qualified candidates for public office. #####
 
-Link to an amendment published at 87 FR 7755, Feb. 10, 2022.
-
 (a) A legally qualified candidate for public office is any person who:
 
 (1) Has publicly announced his or her intention to run for nomination or office;
@@ -26,6 +24,10 @@ Link to an amendment published at 87 FR 7755, Feb. 10, 2022.
 
 (2) He or she has made a substantial showing of a bona fide candidacy for such nomination in that State, territory or the District of Columbia; except, that any such person meeting the requirements set forth in paragraphs (a)(1) and (2) of this section in at least 10 States (or 9 and the District of Columbia) shall be considered a legally qualified candidate for nomination in all States, territories and the District of Columbia for purposes of this Act.
 
-(f) The term “substantial showing” of a bona fide candidacy as used in paragraphs (b), (d) and (e) of this section means evidence that the person claiming to be a candidate has engaged to a substantial degree in activities commonly associated with political campaigning. Such activities normally would include making campaign speeches, distributing campaign literature, issuing press releases, maintaining a campaign committee, and establishing campaign headquarters (even though the headquarters in some instances might be the residence of the candidate or his or her campaign manager). Not all of the listed activities are necessarily required in each case to demonstrate a substantial showing, and there may be activities not listed herein which would contribute to such a showing.
+(f) The term “substantial showing” of a bona fide candidacy as used in paragraphs (b), (d), and (e) of this section means evidence that the person claiming to be a candidate has:
 
-[57 FR 27708, June 22, 1992]
+(1) Satisfied the requirements under applicable law to run as a write-in (such as registering, collecting signatures, paying fees, etc.); and
+
+(2) Has engaged to a substantial degree in activities commonly associated with political campaigning. Such activities normally would include making campaign speeches, distributing campaign literature, issuing press releases, maintaining a campaign committee, establishing campaign headquarters (even though the headquarters in some instances might be the residence of the candidate or his or her campaign manager), creating a campaign website, and using social media for the purpose of promoting or furthering a campaign for public office. Not all of the listed activities are necessarily required in each case to demonstrate a substantial showing, and there may be activities not listed herein which would contribute to such a showing. The creation of a campaign website and the use of social media shall be additional indicators of a bona fide candidacy, not determinative factors, and such digital activities must be combined with other activities commonly associated with political campaigning that are conducted in substantial portions of the relevant geographic area.
+
+[57 FR 27708, June 22, 1992, as amended at 87 FR 7755, Feb. 10, 2022]

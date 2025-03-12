@@ -1,7 +1,5 @@
 ##### § 76.5 Definitions. #####
 
-Link to an amendment published at 87 FR 7755, Feb. 10, 2022.
-
 (a) *Cable system or cable television system.* A facility consisting of a set of closed transmission paths and associated signal generation, reception, and control equipment that is designed to provide cable service which includes video programming and which is provided to multiple subscribers within a community, but such term does not include:
 
 (1) A facility that services only to retransmit the television signals of one or more television broadcast stations;
@@ -32,7 +30,7 @@ The provisions of subparts D and F of this part shall also apply to all faciliti
 
 (h) *Smaller television market.* The specified zone of a commercial television station licensed to a community that is not listed in § 76.51.
 
-(i) *Significantly viewed.* Viewed in over-the-air households as follows: (1) For a full or partial network station - a share of viewing hours of at least 3 percent (total week hours), and a net weekly circulation of at least 25 percent; and (2) for an independent station - a share of viewing hours of at least 2 percent (total week hours), and a net weekly circulation of at least 5 percent. See § 76.54.
+(i) *Significantly viewed.* Viewed in over-the-air households as follows: (1) For a full or partial network station—a share of viewing hours of at least 3 percent (total week hours), and a net weekly circulation of at least 25 percent; and (2) for an independent station—a share of viewing hours of at least 2 percent (total week hours), and a net weekly circulation of at least 5 percent. See § 76.54.
 
 Note:
 
@@ -80,7 +78,11 @@ Persons seeking election to the office of President or Vice President of the Uni
 
 (ii) He or she has made a substantial showing of bona fide candidacy for such nomination in that State, territory of the District of Columbia; except that such person meeting the requirements set forth in paragraph (q) (1) and (4) in at least 10 States (or nine and the District of Columbia) shall be considered a legally qualified candidate for nomination in all States, territories and the District of Columbia for purposes of the Act.
 
-(5) The term “substantial showing” of bona fide candidacy as used in paragraph (q) (2), (3) and (4) of this section means evidence that the person claiming to be a candidate has engaged to a substantial degree in activities commonly associated with political campaigning. Such activities normally would include making campaign speeches, distributing campaign literature, issuing press releases, maintaining a campaign headquarters (even though the headquarters in some instances might be the residence of the candidate or his campaign manager). Not all of the listed activities are necessarily required in each case to demonstrate a substantial showing, and there may be activities not listed herein which would contribute to such a showing.
+(5) The term “substantial showing” of a bona fide candidacy as used in paragraphs (q)(2) through (4) of this section means evidence that the person claiming to be a candidate has:
+
+(i) Satisfied the requirements under applicable law to run as a write-in (such as registering, collecting signatures, paying fees, etc.); and
+
+(ii) Has engaged to a substantial degree in activities commonly associated with political campaigning. Such activities normally would include making campaign speeches, distributing campaign literature, issuing press releases, maintaining a campaign committee, establishing campaign headquarters (even though the headquarters in some instances might be the residence of the candidate or his or her campaign manager), creating a campaign website, and using social media for the purpose of promoting or furthering a campaign for public office. Not all of the listed activities are necessarily required in each case to demonstrate a substantial showing, and there may be activities not listed herein which would contribute to such a showing. The creation of a campaign website and the use of social media shall be additional indicators of a bona fide candidacy, not determinative factors, and such digital activities must be combined with other activities commonly associated with political campaigning that are conducted in substantial portions of the relevant geographic area.
 
 (r) *Class I cable television channel.* A signaling path provided by a cable television system to relay to subscriber terminals television broadcast programs that are received off-the-air or are obtained by microwave or by direct connection to a television broadcast station.
 

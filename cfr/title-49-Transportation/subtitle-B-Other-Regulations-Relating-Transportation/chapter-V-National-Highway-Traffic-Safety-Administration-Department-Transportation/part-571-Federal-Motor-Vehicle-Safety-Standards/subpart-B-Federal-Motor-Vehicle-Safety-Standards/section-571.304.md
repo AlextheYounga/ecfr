@@ -1,7 +1,5 @@
 ##### § 571.304 Standard No. 304; Compressed natural gas fuel container integrity. #####
 
-Link to an amendment published at 87 FR 7964, Feb. 11, 2022.
-
 S1. *Scope.* This standard specifies requirements for the integrity of compressed natural gas (CNG), motor vehicle fuel containers.
 
 S2. *Purpose.* The purpose of this standard is to reduce deaths and injuries occurring from fires that result from fuel leakage during and after motor vehicle crashes.
@@ -32,13 +30,13 @@ S5 *Container and material requirements.*
 
 S5.1 *Container designations.* Container designations are as follows:
 
-S5.1.1 *Type 1 - Non-composite metallic container* means a metal container.
+S5.1.1 *Type 1—Non-composite metallic container* means a metal container.
 
-S5.1.2 *Type 2 - Composite metallic hoop wrapped container* means a metal liner reinforced with resin impregnated continuous filament that is “hoop wrapped.”
+S5.1.2 *Type 2—Composite metallic hoop wrapped container* means a metal liner reinforced with resin impregnated continuous filament that is “hoop wrapped.”
 
-S5.1.3 *Type 3 - Composite metallic full wrapped container* means a metal liner reinforced with resin impregnated continuous filament that is “full wrapped.”
+S5.1.3 *Type 3—Composite metallic full wrapped container* means a metal liner reinforced with resin impregnated continuous filament that is “full wrapped.”
 
-S5.1.4 *Type 4 - Composite non-metallic full wrapped container* means resin impregnated continuous filament with a non-metallic liner “full wrapped.”
+S5.1.4 *Type 4—Composite non-metallic full wrapped container* means resin impregnated continuous filament with a non-metallic liner “full wrapped.”
 
 S6 *General requirements.*
 
@@ -60,11 +58,11 @@ S7.3 *Bonfire test.* Each CNG fuel container shall be equipped with a pressure r
 
 S7.4 *Labeling.* Each CNG fuel container shall be permanently labeled with the information specified in paragraphs (a) through (h) of this section. Any label affixed to the container in compliance with this section shall remain in place and be legible for the manufacturer's recommended service life of the container. The information shall be in English and in letters and numbers that are at least 6.35 mm (1/4 inch) high.
 
-(a) The statement: “If there is a question about the proper use, installation, or maintenance of this container, contact\_\_\_\_\_\_\_\_\_\_,” inserting the *CNG fuel container manufacturer's name, address, and telephone number.*
+(a) The statement: “If there is a question about the proper use, installation, or maintenance of this container, contact\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_,” inserting the *CNG fuel container manufacturer's name, address, and telephone number.*
 
-(b) The statement: “Manufactured in \_\_\_\_\_\_,” inserting the month and year of manufacture of the CNG fuel container.
+(b) The statement: “Manufactured in \_\_\_\_\_\_\_\_\_\_\_\_,” inserting the month and year of manufacture of the CNG fuel container.
 
-(c) The statement: “Service pressure \_\_\_\_\_\_ kPa, (\_\_\_\_\_\_ psig).”
+(c) The statement: “Service pressure \_\_\_\_\_\_\_\_\_\_\_\_ kPa, (\_\_\_\_\_\_\_\_\_\_\_\_ psig).”
 
 (d) The symbol DOT, constituting a certification by the CNG container manufacturer that the container complies with all requirements of this standard.
 
@@ -72,9 +70,9 @@ S7.4 *Labeling.* Each CNG fuel container shall be permanently labeled with the i
 
 (f) The statement: “CNG Only.”
 
-(g) The statement: “This container should be visually inspected after a motor vehicle accident or fire and at least every 36 months or 36,000 miles, whichever comes first, for damage and deterioration.
+(g) The statement: “This container should be visually inspected for damage and deterioration after a motor vehicle accident or fire, and either (a) at least every 12 months when installed on a vehicle with a GVWR greater than 4,536 kg, or (b) at least every 36 months or 36,000 miles, whichever comes first, when installed on a vehicle with a GVWR less than or equal to 4,536 kg.”
 
-(h) The statement: “Do Not Use After \_\_\_\_\_\_” inserting the month and year that mark the end of the manufacturer's recommended service life for the container.
+(h) The statement: “Do Not Use After \_\_\_\_\_\_\_\_\_\_\_\_” inserting the month and year that mark the end of the manufacturer's recommended service life for the container.
 
 S8 *Test conditions: fuel container integrity.*
 
@@ -142,4 +140,4 @@ S8.3.9 *Wind velocity.* The average ambient wind velocity at the CNG fuel contai
 
 S8.3.10 The average wind velocity at the container is any velocity up to and including 2.24 meters/second (5 mph).
 
-[59 FR 49021, Sept. 26, 1994; 59 FR 66776, Dec. 28, 1994; 60 FR 37843, July 24, 1995; 60 FR 57948, Nov. 24, 1995; 61 FR 19204, May 1, 1996; 61 FR 47089, Sept. 6, 1996; 63 FR 66765, Dec. 3, 1998; 65 FR 51772, Aug. 25, 2000; 65 FR 64626, Oct. 30, 2000]
+[59 FR 49021, Sept. 26, 1994; 59 FR 66776, Dec. 28, 1994; 60 FR 37843, July 24, 1995; 60 FR 57948, Nov. 24, 1995; 61 FR 19204, May 1, 1996; 61 FR 47089, Sept. 6, 1996; 63 FR 66765, Dec. 3, 1998; 65 FR 51772, Aug. 25, 2000; 65 FR 64626, Oct. 30, 2000; 87 FR 7964, Feb. 11, 2022]
