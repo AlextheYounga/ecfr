@@ -1,8 +1,6 @@
 ##### § 125.73 Contents. #####
 
-Link to an amendment published at 88 FR 34443, May 30, 2023.
-
-Each manual shall have the date of the last revision and revision number on each revised page. The manual must include—
+Each manual accessed in paper format must display the date of last revision on each page. Each manual accessed in electronic format must display the date of last revision in a manner in which a person can immediately ascertain it. The manual must include:
 
 (a) The name of each management person who is authorized to act for the certificate holder, the person's assigned area of responsibility, and the person's duties, responsibilities, and authority;
 
@@ -45,3 +43,5 @@ Each manual shall have the date of the last revision and revision number on each
 (q) The identity of each person who will administer tests required by this part, including the designation of the tests authorized to be given by the person; and
 
 (r) Other procedures and policy instructions regarding the certificate holder's operations that are issued by the certificate holder.
+
+[Docket No. 19779, 45 FR 67235, Oct. 9, 1980, as amended by Docket No. FAA-2022-0912; Amdt. No. 125-73, 88 FR 34443, May 30, 2023]

@@ -1,16 +1,12 @@
 ##### § 121.135 Manual contents. #####
 
-Link to an amendment published at 88 FR 34443, May 30, 2023.
-
-(a) Each manual required by § 121.133 must—
+(a) Each manual accessed in paper format must display the date of last revision on each page. Each manual accessed in electronic format must display the date of last revision in a manner in which a person can immediately ascertain it. Each manual required by § 121.133 must:
 
 (1) Include instructions and information necessary to allow the personnel concerned to perform their duties and responsibilities with a high degree of safety;
 
-(2) Be in a form that is easy to revise;
+(2) Be in a form that is easy to revise and;
 
-(3) Have the date of last revision on each page concerned; and
-
-(4) Not be contrary to any applicable Federal regulation and, in the case of a flag or supplemental operation, any applicable foreign regulation, or the certificate holder's operations specifications or operating certificate.
+(3) Not be contrary to any applicable Federal regulation and, in the case of a flag or supplemental operation, any applicable foreign regulation, or the certificate holder's operations specifications or operating certificate.
 
 (b) The manual may be in two or more separate parts, containing together all of the following information, but each part must contain that part of the information that is appropriate for each group of personnel:
 
@@ -114,4 +110,4 @@ Link to an amendment published at 88 FR 34443, May 30, 2023.
 
 (c) Each certificate holder shall maintain at least one complete copy of the manual at its principal base of operations.
 
-[Doc. No. 6258, 29 FR 19196, Dec. 31, 1964, as amended by Amdt. 121-104, 38 FR 14915, June 7, 1973; Amdt. 121-106, 38 FR 22377, Aug. 20, 1973; Amdt. 121-143, 43 FR 22641, May 25, 1978; Amdt. 121-162, 45 FR 46739, July 10, 1980; Amdt. 121-251, 60 FR 65926, Dec. 20, 1995; Amdt. 121-250, 60 FR 65948, Dec. 20, 1995; Amdt. 121-316, 70 FR 58823, Oct. 7, 2005; Amdt. 121-329, 72 FR 1879, Jan. 16, 2007]
+[Doc. No. 6258, 29 FR 19196, Dec. 31, 1964, as amended by Amdt. 121-104, 38 FR 14915, June 7, 1973; Amdt. 121-106, 38 FR 22377, Aug. 20, 1973; Amdt. 121-143, 43 FR 22641, May 25, 1978; Amdt. 121-162, 45 FR 46739, July 10, 1980; Amdt. 121-251, 60 FR 65926, Dec. 20, 1995; Amdt. 121-250, 60 FR 65948, Dec. 20, 1995; Amdt. 121-316, 70 FR 58823, Oct. 7, 2005; Amdt. 121-329, 72 FR 1879, Jan. 16, 2007; Docket No. FAA-2022-0912; Amdt. No. 121-388, 88 FR 34443, May 30, 2023]

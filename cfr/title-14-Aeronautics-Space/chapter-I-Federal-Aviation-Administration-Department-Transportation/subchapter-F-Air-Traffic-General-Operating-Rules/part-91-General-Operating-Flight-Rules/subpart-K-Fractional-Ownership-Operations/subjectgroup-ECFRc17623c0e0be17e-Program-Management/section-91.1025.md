@@ -1,8 +1,6 @@
 ##### § 91.1025 Program operating manual contents. #####
 
-Link to an amendment published at 88 FR 34443, May 30, 2023.
-
-Each program operating manual must have the date of the last revision on each revised page. Unless otherwise authorized by the Administrator, the manual must include the following:
+Each program operating manual accessed in paper format must display the date of last revision on each page. Each program operating manual accessed in electronic format must display the date of last revision in a manner in which a person can immediately ascertain it. Unless otherwise authorized by the Administrator, the manual must include the following:
 
 (a) Procedures for ensuring compliance with aircraft weight and balance limitations;
 
@@ -63,3 +61,5 @@ Each program operating manual must have the date of the last revision on each re
 (q) Flight locating and scheduling procedures; and
 
 (r) Other procedures and policy instructions regarding program operations that are issued by the program manager or required by the Administrator.
+
+[Docket No. FAA-2001-10047, 68 FR 54561, Sept. 17, 2003, as amended by Docket No. FAA-2022-0912; Amdt. No. 91-368, 88 FR 34443, May 30, 2023]

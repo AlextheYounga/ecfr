@@ -1,8 +1,6 @@
 ##### § 135.23 Manual contents. #####
 
-Link to an amendment published at 88 FR 34443, May 30, 2023.
-
-Each manual shall have the date of the last revision on each revised page. The manual must include—
+Each manual accessed in paper format must display the date of last revision on each page. Each manual accessed in electronic format must display the date of last revision in a manner in which a person can immediately ascertain it. The manual must include:
 
 (a) The name of each management person required under § 119.69(a) of this chapter who is authorized to act for the certificate holder, the person's assigned area of responsibility, the person's duties, responsibilities, and authority, and the name and title of each person authorized to exercise operational control under § 135.77;
 
@@ -90,4 +88,4 @@ Each manual shall have the date of the last revision on each revised page. The m
 
 (s) Other procedures and policy instructions regarding the certificate holder's operations issued by the certificate holder.
 
-[Doc. No. 16097, 43 FR 46783, Oct. 10, 1978, as amended by Amdt. 135-20, 51 FR 40709, Nov. 7, 1986; Amdt. 135-58, 60 FR 65939, Dec. 20, 1995; Amdt. 135-91, 68 FR 54586, Sept. 17, 2003; Amdt. 135-101, 70 FR 58829, Oct. 7, 2005]
+[Doc. No. 16097, 43 FR 46783, Oct. 10, 1978, as amended by Amdt. 135-20, 51 FR 40709, Nov. 7, 1986; Amdt. 135-58, 60 FR 65939, Dec. 20, 1995; Amdt. 135-91, 68 FR 54586, Sept. 17, 2003; Amdt. 135-101, 70 FR 58829, Oct. 7, 2005; Docket No. FAA-2022-0912; Amdt. No. 135-144, 88 FR 34443, May 30, 2023]
