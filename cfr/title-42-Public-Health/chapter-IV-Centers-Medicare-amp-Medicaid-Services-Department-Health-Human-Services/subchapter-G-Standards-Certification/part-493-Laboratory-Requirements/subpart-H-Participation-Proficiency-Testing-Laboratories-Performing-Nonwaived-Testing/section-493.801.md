@@ -1,8 +1,10 @@
 ##### § 493.801 Condition: Enrollment and testing of samples. #####
 
+Link to an amendment published at 87 FR 41232, July 11, 2022.
+
 Each laboratory must enroll in a proficiency testing (PT) program that meets the criteria in subpart I of this part and is approved by HHS. The laboratory must enroll in an approved program or programs for each of the specialties and subspecialties for which it seeks certification. The laboratory must test the samples in the same manner as patients' specimens. For laboratories subject to 42 CFR part 493 published on March 14, 1990 (55 FR 9538) prior to September 1, 1992, the rules of this subpart are effective on September 1, 1992. For all other laboratories, the rules of this subpart are effective January 1, 1994.
 
-(a) *Standard; Enrollment.* The laboratory must -
+(a) *Standard; Enrollment.* The laboratory must—
 
 (1) Notify HHS of the approved program or programs in which it chooses to participate to meet proficiency testing requirements of this subpart.
 
@@ -12,7 +14,7 @@ Each laboratory must enroll in a proficiency testing (PT) program that meets the
 
 (3) For each specialty, subspecialty and analyte or test, participate in one approved proficiency testing program or programs, for one year before designating a different program and must notify CMS before any change in designation; and
 
-(4) Authorize the proficiency testing program to release to HHS all data required to -
+(4) Authorize the proficiency testing program to release to HHS all data required to—
 
 (i) Determine the laboratory's compliance with this subpart; and
 

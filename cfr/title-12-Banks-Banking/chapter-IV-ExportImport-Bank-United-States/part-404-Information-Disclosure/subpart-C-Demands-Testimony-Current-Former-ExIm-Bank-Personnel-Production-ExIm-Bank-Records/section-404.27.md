@@ -1,5 +1,7 @@
 ##### § 404.27 Demand requirements. #####
 
+Link to an amendment published at 87 FR 41034, July 11, 2022.
+
 A party's demand for testimony and/or production of records by Ex-Im Bank personnel regarding information acquired in the course of their performance of official duties or due to their official status shall be set forth in, or accompanied by, a signed affidavit or other written statement. Such affidavit or written statement must be submitted at least 30 days prior to the date such testimony and/or production of records is requested to be taken and/or produced. A copy of the affidavit or written statement shall be served on the other parties to the legal proceeding. The affidavit or written statement must:
 
 (a) Be addressed to the Export-Import Bank of the United States, Office of the General Counsel, 811 Vermont Ave., NW., Washington, DC 20571;

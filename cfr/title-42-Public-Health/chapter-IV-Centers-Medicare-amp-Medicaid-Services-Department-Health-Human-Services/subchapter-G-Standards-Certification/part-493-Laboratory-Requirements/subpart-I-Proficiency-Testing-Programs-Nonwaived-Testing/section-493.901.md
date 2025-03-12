@@ -1,12 +1,14 @@
 ##### § 493.901 Approval of proficiency testing programs. #####
 
-In order for a proficiency testing program to receive HHS approval, the program must be offered by a private nonprofit organization or a Federal or State agency, or entity acting as a designated agent for the State. An organization, Federal, or State program seeking approval or reapproval for its program for the next calendar year must submit an application providing the required information by July 1 of the current year. The organization, Federal, or State program must provide technical assistance to laboratories seeking to qualify under the program, and must, for each specialty, subspecialty, and analyte or test for which it provides testing -
+Link to an amendment published at 87 FR 41232, July 11, 2022.
+
+In order for a proficiency testing program to receive HHS approval, the program must be offered by a private nonprofit organization or a Federal or State agency, or entity acting as a designated agent for the State. An organization, Federal, or State program seeking approval or reapproval for its program for the next calendar year must submit an application providing the required information by July 1 of the current year. The organization, Federal, or State program must provide technical assistance to laboratories seeking to qualify under the program, and must, for each specialty, subspecialty, and analyte or test for which it provides testing—
 
 (a) Assure the quality of test samples, appropriately evaluate and score the testing results, and identify performance problems in a timely manner;
 
-(b) Demonstrate to HHS that it has -
+(b) Demonstrate to HHS that it has—
 
-(1) The technical ability required to -
+(1) The technical ability required to—
 
 (i) Prepare or purchase samples from manufacturers who prepare the samples in conformance with the appropriate good manufacturing practices required in 21 CFR parts 606, 640, and 820; and
 

@@ -1,5 +1,7 @@
 ##### § 404.16 Schedule of fees. #####
 
+Link to an amendment published at 87 FR 41034, July 11, 2022.Link to an amendment published at 87 FR 41041, July 11, 2022.
+
 (a) *Search and review.* Ex-Im Bank shall not charge for search and review.
 
 (b) *Duplication.* Ex-Im Bank shall charge $.10 per page for paper copy duplication. Ex-Im Bank shall charge the actual or estimated cost of copies prepared by computer, such as tape or printouts, or for other methods of reproduction or duplication.

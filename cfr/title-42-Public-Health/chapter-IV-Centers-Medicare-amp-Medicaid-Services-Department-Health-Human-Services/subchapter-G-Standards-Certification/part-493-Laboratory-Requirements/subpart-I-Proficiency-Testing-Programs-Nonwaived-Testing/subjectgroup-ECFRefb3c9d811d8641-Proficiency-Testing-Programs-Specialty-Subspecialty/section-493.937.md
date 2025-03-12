@@ -1,5 +1,7 @@
 ##### § 493.937 Toxicology. #####
 
+                                                                Link to an amendment published at 87 FR 41240, July 11, 2022.
+
                                                                 (a) *Program content and frequency of challenge.* To be approved for proficiency testing for toxicology, the annual program must provide a minimum of five samples per testing event. There must be at least three testing events at approximately equal intervals per year. The annual program must provide samples that cover the clinically relevant range of values that would be expected in specimens of patients on drug therapy and that cover the level of clinical significance for the particular drug. The samples may be provided through mailed shipments or, at HHS' option, may be provided to HHS or its designee for on-site testing.
 
                                                                 (b) *Challenges per testing event.* The minimum number of challenges per testing event a program must provide for each analyte or test procedure is five serum, plasma, or blood samples.

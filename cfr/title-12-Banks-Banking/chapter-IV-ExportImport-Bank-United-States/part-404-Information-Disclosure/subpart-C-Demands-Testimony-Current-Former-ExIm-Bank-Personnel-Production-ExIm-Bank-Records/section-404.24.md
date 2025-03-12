@@ -1,5 +1,7 @@
 ##### § 404.24 Exemptions: EIB-35 - Office of Inspector General Investigative Records. #####
 
+Link to an amendment published at 87 FR 41034, July 11, 2022.
+
 (a) *Criminal Law Enforcement* - (1) *Exemption.* Under the authority granted by 5 U.S.C. 552a(j)(2), Ex-Im Bank hereby exempts the system of records entitled “EIB-35 - Office of Inspector General Investigative Records” from the provisions of 5 U.S.C. 552a(c)(3), (c)(4), (d)(1) through (4), (e)(1) through (3), (e)(4)(G) and (H), (e)(5), (e)(8), (f), and (g) because the system contains information pertaining to the enforcement of criminal laws. “EIB-35 - Office of Inspector General Investigative Records” is maintained by the Ex-Im Bank Office of Inspector General (“OIG” or “Ex-Im Bank OIG.”)
 
 (2) *Reasons for exemption.* The reasons for asserting this exemption are:

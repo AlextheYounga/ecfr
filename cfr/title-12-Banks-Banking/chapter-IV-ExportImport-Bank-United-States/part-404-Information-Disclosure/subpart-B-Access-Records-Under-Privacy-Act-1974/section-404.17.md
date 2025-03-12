@@ -1,5 +1,7 @@
 ##### § 404.17 Appeal of denials of access. #####
 
+Link to an amendment published at 87 FR 41034, July 11, 2022.Link to an amendment published at 87 FR 41042, July 11, 2022.
+
 (a) *Appeals to the Assistant General Counsel for Administration.* Whenever Ex-Im Bank denies a request for access or for waiver or reduction of fees, the requester may appeal the denial to the Assistant General Counsel for Administration within 30 working days of the date of Ex-Im Bank's issuance of notice of such action. Appeals must be made in writing and must be signed by the appellant. Appeals should be addressed to the Assistant General Counsel for Administration at the address in § 404.12(e). Both the envelope and the appeal letter should be clearly marked in capital letters: “PRIVACY ACT APPEAL.” Failure to properly mark or address the appeal may slow its processing. An appeal shall not be deemed to have been received by Ex-Im Bank until the Assistant General Counsel for Administration receives the appeal letter. The letter should include:
 
 (1) A copy of the denied request or a description of the records requested;

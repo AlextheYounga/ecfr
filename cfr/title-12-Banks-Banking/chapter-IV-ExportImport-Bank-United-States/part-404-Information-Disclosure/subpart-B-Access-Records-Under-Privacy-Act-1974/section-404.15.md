@@ -1,5 +1,7 @@
 ##### § 404.15 Initial determination. #####
 
+Link to an amendment published at 87 FR 41034, July 11, 2022.Link to an amendment published at 87 FR 41042, July 11, 2022.
+
 (a) *Time for processing.* The Freedom of Information and Privacy Office shall respond to valid requests for access within twenty working days of the date of receipt of the request letter. The time for response may be extended an additional ten working days for good cause, provided that the Freedom of Information and Privacy Office notifies the requester in writing.
 
 (b) *Notice regarding request for access.* The Freedom of Information and Privacy Office shall notify the requester in writing of its decision to grant or deny a request for access.

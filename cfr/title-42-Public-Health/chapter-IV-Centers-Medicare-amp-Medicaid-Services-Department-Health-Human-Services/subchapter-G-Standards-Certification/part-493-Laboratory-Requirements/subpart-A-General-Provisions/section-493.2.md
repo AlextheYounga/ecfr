@@ -1,8 +1,10 @@
 ##### § 493.2 Definitions. #####
 
-As used in this part, unless the context indicates otherwise -
+Link to an amendment published at 87 FR 41232, July 11, 2022.
 
-*Accredited institution* means a school or program which -
+As used in this part, unless the context indicates otherwise—
+
+*Accredited institution* means a school or program which—
 
 (a) Admits as regular student only persons having a certificate of graduation from a school providing secondary education, or the recognized equivalent of such certificate;
 
@@ -58,7 +60,7 @@ This definition includes any foreign institution of higher education that HHS or
 
 *Confirmatory testing* means testing performed by a second analytical procedure that could be used to substantiate or bring into question the result of an initial laboratory test.
 
-*Credible allegation of compliance* means a statement or documentation that -
+*Credible allegation of compliance* means a statement or documentation that—
 
 (1) Is made by a representative of a laboratory that has a history of having maintained a commitment to compliance and of taking corrective action when required;
 
@@ -90,7 +92,7 @@ This definition includes any foreign institution of higher education that HHS or
 
 *Nonwaived test* means any test system, assay, or examination that has not been found to meet the statutory criteria specified at section 353(d)(3) of the Public Health Service Act.
 
-*Operator* means the individual or group of individuals who oversee all facets of the operation of a laboratory and who bear primary responsibility for the safety and reliability of the results of all specimen testing performed in that laboratory. The term includes -
+*Operator* means the individual or group of individuals who oversee all facets of the operation of a laboratory and who bear primary responsibility for the safety and reliability of the results of all specimen testing performed in that laboratory. The term includes—
 
 (1) A director of the laboratory if he or she meets the stated criteria; and
 

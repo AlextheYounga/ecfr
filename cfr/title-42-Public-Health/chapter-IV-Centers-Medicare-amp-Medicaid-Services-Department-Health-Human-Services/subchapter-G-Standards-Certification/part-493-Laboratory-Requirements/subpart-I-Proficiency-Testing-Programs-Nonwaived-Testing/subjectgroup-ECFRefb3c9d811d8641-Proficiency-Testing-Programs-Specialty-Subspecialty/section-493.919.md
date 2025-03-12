@@ -1,6 +1,8 @@
 ##### § 493.919 Virology. #####
 
-(a) *Types of services offered by laboratories.* In virology, there are two types of laboratories for proficiency testing purposes -
+Link to an amendment published at 87 FR 41236, July 11, 2022.
+
+(a) *Types of services offered by laboratories.* In virology, there are two types of laboratories for proficiency testing purposes—
 
 (1) Those that only perform tests that directly detect viral antigens or structures, either in cells derived from infected tissues or free in fluid specimens; and
 

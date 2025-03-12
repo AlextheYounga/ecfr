@@ -72,7 +72,7 @@
 
 (ii) For after 1975: Contact: U.S. Department of Transportation, Transportation Systems Center, Kendall Square, Cambridge, MA 02142.
 
-(11) *Request for Classification of a citizen of Canada to engage in professional business activities pursuant to section 214(e) of the Act (Chapter 16 of the North American Free Trade Agreement):* $50.00.
+(11) *Request for Classification of a citizen of Canada to engage in professional business activities pursuant to section 214(e) of the Act (Chapter 16 of the Agreement Between the United States of America, the United Mexican States, and Canada (USMCA)):* $50.00.
 
 (12) *Request for authorization for parole of an alien into the United States:* $65.00.
 
@@ -82,4 +82,4 @@
 
 (15) *Notice of Appeal or Motion (Form I-290B) filed with ICE SEVP.* For a Form I-290B filed with the Student and Exchange Visitor Program (SEVP): $675.
 
-[85 FR 46914, Aug. 3, 2020, as amended at 87 FR 18980, Apr. 1, 2022]
+[85 FR 46914, Aug. 3, 2020, as amended at 87 FR 18980, Apr. 1, 2022; 87 FR 41029, July 11, 2022]

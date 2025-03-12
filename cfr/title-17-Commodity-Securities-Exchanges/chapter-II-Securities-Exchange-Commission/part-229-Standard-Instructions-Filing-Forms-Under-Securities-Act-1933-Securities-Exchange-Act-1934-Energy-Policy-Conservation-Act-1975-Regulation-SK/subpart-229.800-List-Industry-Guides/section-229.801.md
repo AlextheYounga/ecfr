@@ -1,7 +1,5 @@
 ##### § 229.801 Securities Act industry guides. #####
 
-Link to an amendment published at 85 FR 66140, Oct. 16, 2020.
-
 (a)-(b) [Reserved]
 
 (c) *Guide 3.* Statistical disclosure by bank holding companies.

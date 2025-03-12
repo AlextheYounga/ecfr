@@ -1,5 +1,7 @@
 ##### § 493.923 Syphilis serology. #####
 
+Link to an amendment published at 87 FR 41236, July 11, 2022.
+
 (a) *Program content and frequency of challenge.* To be approved for proficiency testing in syphilis serology, a program must provide a minimum of five samples per testing event. There must be at least three testing events at approximately equal intervals per year. The samples may be provided through mailed shipments or, at HHS' option, may be provided to HHS or its designee for on-site testing. An annual program must include samples that cover the full range of reactivity from highly reactive to non-reactive.
 
 (b) *Evaluation of test performance.* HHS approves only those programs that assess the accuracy of a laboratory's responses in accordance with paragraphs (b)(1) through (4) of this section.

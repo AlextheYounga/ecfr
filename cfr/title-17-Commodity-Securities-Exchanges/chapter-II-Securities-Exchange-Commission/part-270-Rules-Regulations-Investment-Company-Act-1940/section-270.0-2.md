@@ -1,6 +1,6 @@
 ##### § 270.0-2 General requirements of papers and applications. #####
 
-Link to an amendment published at 87 FR 38976, June 30, 2022.
+Link to an amendment published at 87 FR 38976, June 30, 2022.Link to an amendment published at 87 FR 41060, July 11, 2022.
 
 (a) *Filing of papers.* All papers required to be filed with the Commission pursuant to the Act or the rules and regulations thereunder shall, unless otherwise provided by the rules and regulations in this part, be delivered through the mails or otherwise to the Securities and Exchange Commission, Washington, DC 20549. Except as otherwise provided by the rules and regulations, the date on which papers are actually received by the Commission shall be the date of filing thereof. If the last day for the timely filing of such papers falls on a Saturday, Sunday, or holiday, such papers may be filed on the first business day following.
 

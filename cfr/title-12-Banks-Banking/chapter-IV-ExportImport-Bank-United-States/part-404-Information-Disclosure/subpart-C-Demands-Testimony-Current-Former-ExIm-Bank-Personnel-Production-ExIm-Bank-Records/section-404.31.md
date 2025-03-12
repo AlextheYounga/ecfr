@@ -1,5 +1,7 @@
 ##### § 404.31 Procedure for declining to testify and/or produce records. #####
 
+Link to an amendment published at 87 FR 41034, July 11, 2022.
+
 Ex-Im Bank personnel receiving a demand to provide testimony and/or produce records regarding information acquired in the course of their performance of official duties, or due to their official status, and who have not received written authorization from the General Counsel to provide such information, shall:
 
 (a) Respectfully decline to answer or appear for examination on the grounds that such testimony is forbidden by this subpart;

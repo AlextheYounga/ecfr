@@ -1,5 +1,7 @@
 ##### § 493.25 Laboratories performing tests of high complexity. #####
 
+Link to an amendment published at 87 FR 41232, July 11, 2022.
+
 (a) A laboratory must obtain a certificate for tests of high complexity if it performs one or more tests that meet the criteria for tests of high complexity as specified in § 493.17(a).
 
 (b) A laboratory performing one or more tests of high complexity must meet the applicable requirements of subpart C or subpart D, and subparts F, H, J, K, M, and Q of this part.

@@ -1,5 +1,7 @@
 ##### § 404.18 Requests for correction of records. #####
 
+Link to an amendment published at 87 FR 41034, July 11, 2022.Link to an amendment published at 87 FR 41042, July 11, 2022.
+
 (a) *Form.* Requests for correction must be made in writing and must be signed by the requester. Requests should be addressed to the Freedom of Information and Privacy Office at the address in § 404.12(e) and should contain both the return address and telephone number of the requester. The request must identify the particular record in question, state the correction sought, and set forth the justification for the correction. The requester also must verify his or her identity in accordance with the procedures set forth at § 404.14(d) and (e). Both the envelope and the request for correction itself should be clearly marked in capital letters: “PRIVACY ACT CORRECTION REQUEST.”
 
 (b) *Initial determination.* The Freedom of Information and Privacy Office shall respond to valid correction requests within ten working days of receipt of the request letter. If Ex-Im Bank grants the request for correction, then the Freedom of Information and Privacy Office shall advise the requester of his or her right to obtain a copy, in releasable form, of the corrected record. A denial notice shall state the reasons for the denial and shall advise the requester of the right to appeal. Ex-Im Bank shall not charge for processing requests for correction.

@@ -1,5 +1,7 @@
 ##### § 404.30 Factors General Counsel may consider in determining whether to authorize testimony and/or the production of records. #####
 
+Link to an amendment published at 87 FR 41034, July 11, 2022.
+
 In determining whether to authorize Ex-Im Bank personnel to provide testimony and/or produce records regarding information acquired in the course of their performance of official duties, or due to their official status, the General Counsel may consider factors including, but not limited to, the following:
 
 (a) Efficiency - the conservation of the time and resources of Ex-Im Bank personnel for the conduct of official business;

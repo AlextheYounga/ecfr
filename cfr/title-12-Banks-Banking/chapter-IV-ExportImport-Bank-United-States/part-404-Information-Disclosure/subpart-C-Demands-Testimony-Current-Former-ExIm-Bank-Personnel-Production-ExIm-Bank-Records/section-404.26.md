@@ -1,5 +1,7 @@
 ##### § 404.26 Definitions. #####
 
+Link to an amendment published at 87 FR 41034, July 11, 2022.
+
 For purposes of this subpart, the following definitions shall apply -
 
 *Demand* - includes an order, subpoena, or other compulsory process issued by a party in litigation or a court of competent jurisdiction, requiring the production or release of Ex-Im Bank information or records, or requiring the testimony of Ex-Im Bank personnel.

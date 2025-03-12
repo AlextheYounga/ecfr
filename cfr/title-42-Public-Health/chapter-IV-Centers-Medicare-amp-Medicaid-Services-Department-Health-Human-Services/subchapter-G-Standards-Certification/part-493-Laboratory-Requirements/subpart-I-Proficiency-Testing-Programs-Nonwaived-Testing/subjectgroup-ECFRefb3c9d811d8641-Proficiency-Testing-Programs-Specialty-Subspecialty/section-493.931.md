@@ -1,5 +1,7 @@
 ##### § 493.931 Routine chemistry. #####
 
+Link to an amendment published at 87 FR 41238, July 11, 2022.
+
 (a) *Program content and frequency of challenge.* To be approved for proficiency testing for routine chemistry, a program must provide a minimum of five samples per testing event. There must be at least three testing events at approximately equal intervals per year. The annual program must provide samples that cover the clinically relevant range of values that would be expected in patient specimens. The specimens may be provided through mailed shipments or, at HHS' option, may be provided to HHS or its designee for on-site testing.
 
 (b) *Challenges per testing event.* The minimum number of challenges per testing event a program must provide for each analyte or test procedure listed below is five serum, plasma or blood samples.
@@ -14,7 +16,7 @@ Analyte or Test ProcedureAlanine aminotransferase (ALT/SGPT)AlbuminAlkaline phos
 
 Criteria for Acceptable Performance
 
-The criteria for acceptable performance are -
+The criteria for acceptable performance are—
 
 |                                   Analyte or test                                    |          Criteria for acceptable performance          |
 |--------------------------------------------------------------------------------------|-------------------------------------------------------|

@@ -1,5 +1,7 @@
 ##### § 493.913 Mycobacteriology. #####
 
+Link to an amendment published at 87 FR 41234, July 11, 2022.
+
 (a) *Types of services offered by laboratories.* In mycobacteriology, there are five types of laboratories for proficiency testing purposes:
 
 (1) Those that interpret acid-fast stains and refer specimen to another laboratory appropriately certified in the subspecialty of mycobacteriology;
@@ -16,7 +18,7 @@
 
 (1) An approved program must furnish HHS and its agents with a description of samples that it plans to include in its annual program no later than six months before each calendar year. At least 50 percent of the samples must be mixtures of the principal mycobacteria and appropriate normal flora. The program must include mycobacteria commonly occurring in patient specimens and other important emerging mycobacteria (as determined by HHS). The program determines the reportable isolates and correct responses for antimycobacterial susceptibility for any designated isolate.
 
-(2) An approved program may vary over time. For example, the types of mycobacteria that might be included in an approved program over time are -
+(2) An approved program may vary over time. For example, the types of mycobacteria that might be included in an approved program over time are—
 
 TB*Mycobacterium tuberculosis**Mycobacterium bovis*Group I*Mycobacterium kansasii*Group II*Mycobacterium szulgai*Group III*Mycobacterium avium-intracellulare**Mycobacterium terrae*Group IV*Mycobacterium fortuitum*
 

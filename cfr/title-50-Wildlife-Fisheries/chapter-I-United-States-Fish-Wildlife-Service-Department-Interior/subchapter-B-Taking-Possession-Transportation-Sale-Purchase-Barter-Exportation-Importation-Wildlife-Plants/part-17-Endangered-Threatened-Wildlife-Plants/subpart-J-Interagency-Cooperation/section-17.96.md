@@ -112,7 +112,45 @@ Family Alliaceae: *Allium munzii* (Munz's onion)
 
 (6) Elsinore Peak Unit, Riverside County, California. Map of Elsinore Peak Unit, follows:
 
-![](/graphics/er16ap13.001.gif)Family Apiaceae: *Lilaeopsis schaffneriana* var. *recurva* (Huachuca water umbel).
+![](/graphics/er16ap13.001.gif)Family Apiaceae: *Eryngium sparganophyllum* (Arizona eryngo)
+
+(1) Critical habitat units are depicted for Pima and Cochise Counties, Arizona, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of Arizona eryngo consist of the following components:
+
+(i) Cienegas within the Chihuahuan and Sonoran Deserts:
+
+(A) That contain permanently moist to saturated, organic, alkaline soils with some standing water in winter and that are moist at or just below the surface in summer; and
+
+(B) That have functional hydrological processes and are sustained by springflow via discharge of groundwater.
+
+(ii) Areas of open canopy throughout the cienega.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on July 11, 2022.
+
+(4) Data layers defining map units were created on a base of U.S. Geological Survey digital ortho-photo quarter-quadrangles, and critical habitat units were then mapped using Universal Transverse Mercator (UTM) Zone 15N coordinates. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's internet site at *https://www.fws.gov/southwest/es/arizona/,* at *https://www.regulations.gov* at Docket No. FWS-R2-ES-2020-0130, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) *Note:* Index map follows:
+
+![](/graphics/er10jn22.009.gif)
+
+(6) Unit 1: Lewis Springs, Cochise County, Arizona.
+
+(i) Unit 1 consists of 9.6 acres (3.9 hectares) encompassing the wetlands at Lewis Springs just to the east of the San Pedro River in Cochise County, within the San Pedro River Basin. The unit is located within the San Pedro Riparian National Conservation Area, which is owned and managed by the Bureau of Land Management.
+
+(ii) Map of Unit 1 follows:
+
+![](/graphics/er10jn22.010.gif)
+
+(7) Unit 2: La Cebadilla, Pima County, Arizona.
+
+(i) Unit 2 consists of 3.1 acres (1.3 hectares) of cienega habitat at La Cebadilla Cienega, adjacent to the Tanque Verde Wash east of Tucson within the Santa Cruz River Basin. The majority of the unit is located on lands owned by La Cebadilla Estates, with a smaller portion of the unit located on lands owned and managed by the Pima County Regional Flood Control District.
+
+(ii) Map of Unit 2 follows:
+
+![](/graphics/er10jn22.011.gif)
+
+*Lilaeopsis schaffneriana* var. *recurva* (Huachuca water umbel).
 
 Critical habitat includes the stream courses identified in the legal descriptions below, and includes adjacent areas out to the beginning of upland vegetation. Within these areas, the primary constituent elements include, but are not limited to, the habitat components which provide - (1) Sufficient perennial base flows to provide a permanently or nearly permanently wetted substrate for growth and reproduction of *Lilaeopsis;* (2) A stream channel that is relatively stable, but subject to periodic flooding that provides for rejuvenation of the riparian plant community and produces open microsites for *Lilaeopsis* expansion; (3) A riparian plant community that is relatively stable over time and in which nonnative species do not exist or are at a density that has little or no adverse effect on resources available for *Lilaeopsis* growth and reproduction; and (4) In streams and rivers, refugial sites in each watershed and in each reach, including but not limited to springs or backwaters of mainstem rivers, that allow each population to survive catastrophic floods and recolonize larger areas.
 

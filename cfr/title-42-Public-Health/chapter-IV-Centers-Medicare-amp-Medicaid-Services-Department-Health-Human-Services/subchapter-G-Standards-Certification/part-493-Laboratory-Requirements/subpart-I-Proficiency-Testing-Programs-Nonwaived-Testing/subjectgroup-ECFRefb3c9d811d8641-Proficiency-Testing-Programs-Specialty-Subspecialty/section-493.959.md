@@ -1,6 +1,8 @@
 ##### § 493.959 Immunohematology. #####
 
-(a) *Types of services offered by laboratories.* In immunohematology, there are four types of laboratories for proficiency testing purposes -
+Link to an amendment published at 87 FR 41242, July 11, 2022.
+
+(a) *Types of services offered by laboratories.* In immunohematology, there are four types of laboratories for proficiency testing purposes—
 
 (1) Those that perform ABO group and/or D (Rho) typing;
 
@@ -20,7 +22,7 @@ Analyte or Test ProcedureABO group (excluding subgroups)D (Rho) typingUnexpected
 
 (1) To determine the accuracy of a laboratory's response, a program must compare the laboratory's response for each analyte with the response that reflects agreement of either 100 percent of ten or more referee laboratories or 95 percent or more of all participating laboratories except for unexpected antibody detection and antibody identification. To determine the accuracy of a laboratory's response for unexpected antibody detection and antibody identification, a program must compare the laboratory's response for each analyte with the response that reflects agreement of either 95 percent of ten or more referee laboratories or 95 percent or more of all participating laboratories. The score for a sample in immunohematology is either the score determined under paragraph (d)(2) or (3) of this section.
 
-(2) *Criteria for acceptable performance.* The criteria for acceptable performance are -
+(2) *Criteria for acceptable performance.* The criteria for acceptable performance are—
 
 |       Analyte or test       |Criteria for acceptable performance|
 |-----------------------------|-----------------------------------|

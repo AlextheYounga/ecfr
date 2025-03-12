@@ -1,22 +1,20 @@
 ##### § 232.101 Mandated electronic submissions and exceptions. #####
 
-Link to an amendment published at 87 FR 35409, June 10, 2022.Link to an amendment published at 87 FR 38964, June 30, 2022.
-
 (a) *Mandated electronic submissions.* (1) The following filings, including any related correspondence and supplemental information, except as otherwise provided, shall be submitted in electronic format:
 
-(i) Registration statements and prospectuses filed pursuant to the Securities Act (15 U.S.C. 77a, *et seq.*) or registration statements filed pursuant to Sections 12(b) or 12(g) of the Exchange Act (15 U.S.C. 78*l*(b) or (g));
+(i) Registration statements and prospectuses filed pursuant to the Securities Act (15 U.S.C. 77a, *et seq.*) or registration statements filed pursuant to Section 12(b) or 12(g) of the Exchange Act (15 U.S.C. 78l(b) or (g)), and certifications that a security has been approved by an exchange for listing and registration filed pursuant to Section 12(d) of the Exchange Act (15 U.S.C. 78l(d)) and § 240.12d1-3 of this chapter (Rule 12d1-3) under the Exchange Act. The certification that a security has been approved by an exchange for listing and registration must be made on EDGAR in the electronic format required by the EDGAR Filer Manual, as defined in § 232.11 of this chapter (Rule 11 of Regulation S-T). Notwithstanding § 232.104 of this chapter (Rule 104 of Regulation S-T), the certification filed under this paragraph will be considered as officially filed with the Commission;
 
 (ii) Statements and applications filed with the Commission pursuant to the Trust Indenture Act (15 U.S.C. 77aaa *et seq.*), other than applications for exemptive relief filed pursuant to section 304 (15 U.S.C. 77ddd) and section 310 (15 U.S.C. 77jjj) of that Act;
 
-(iii) Statements, reports and schedules filed with the Commission pursuant to sections 13, 14, 15(d) or 16(a) of the Exchange Act (15 U.S.C. 78m, 78n, 78o(d) and 78p(a)), and proxy materials required to be furnished for the information of the Commission in connection with annual reports on Form 10-K (§ 249.310 of this chapter), or Form 10-KSB (§ 249.310b of this chapter) filed pursuant to section 15(d) of the Exchange Act;
+(iii) Statements, reports and schedules filed with the Commission pursuant to sections 13, 14, 15(d) or 16(a) of the Exchange Act (15 U.S.C. 78m, 78n, 78o(d), 78p(a)), and proxy materials required to be furnished for the information of the Commission pursuant to Rules 14a-3 and 14c-3 or in connection with annual reports on Form 10-K (§ 249.310 of this chapter) filed pursuant to section 15(d) of the Exchange Act;
 
-Note 1.
+Note 1 to paragraph (a)(1)(iii).
 
-Electronic filers filing Schedules 13D and 13G with respect to foreign private issuers should include in the submission header all zeroes (*i.e.*, 00-0000000) for the IRS tax identification number because the EDGAR system requires an IRS number tag to be inserted for the subject company as a prerequisite to acceptance of the filing.
+Electronic filers filing Schedules 13D and 13G with respect to foreign private issuers should include in the submission header all zeroes (*i.e.,* 00-0000000) for the IRS tax identification number because the EDGAR system requires an IRS number tag to be inserted for the subject company as a prerequisite to acceptance of the filing.
 
-Note 2.
+Note 2 to paragraph (a)(1)(iii).
 
-Foreign private issuers must file or submit their Form 6-K reports (§ 249.306 of this chapter) in electronic format, except as otherwise permitted by paragraphs (b)(1) and (b)(7) of this section.
+Foreign private issuers must file or submit their Form 6-K reports (§ 249.306 of this chapter) in electronic format.
 
 (iv) Documents filed with the Commission pursuant to sections 8, 17, 20, 23(c), 24(b), 24(e), 24(f), and 30 of the Investment Company Act (15 U.S.C. 80a-8, 80a-17, 80a-20, 80a-23(c), 80a-24(b), 80a-24(e), 80a-24(f), and 80a-29) and any application for an order under any section of the Investment Company Act (15 U.S. C. 80a-1 *et seq.*);
 
@@ -48,11 +46,41 @@ Foreign private issuers must file or submit their Form 6-K reports (§ 249.306 o
 
 (xviii) Filings made pursuant to Regulation A (§§ 230.251 through 230.262 of this chapter); and
 
-(xix) Form C (§ 239.900 of this chapter). Exhibits to Form C (§ 239.900 of this chapter) may be filed on EDGAR as PDF documents in the format required by the EDGAR Filer Manual, as defined in Rule 11 of Regulation S-T (§ 232.11 of this chapter). Notwithstanding Rule 104 of Regulation S-T (§ 232.104 of this chapter), the PDF documents filed under this paragraph will be considered as officially filed with the Commission; and
+(xix) Form C (§ 239.900 of this chapter). Exhibits to Form C (§ 239.900 of this chapter) may be filed on EDGAR as PDF documents in the format required by the EDGAR Filer Manual, as defined in Rule 11 of Regulation S-T (§ 232.11 of this chapter). Notwithstanding Rule 104 of Regulation S-T (§ 232.104 of this chapter), the PDF documents filed under this paragraph will be considered as officially filed with the Commission;
 
 (xx) Form Funding Portal (§ 249.2000 of this chapter). Exhibits and attachments to Form Funding Portal (§ 249.2000 of this chapter) may be filed on EDGAR as PDF documents in the format required by the EDGAR Filer Manual, as defined in Rule 11 of Regulation S-T (§ 232.11 of this chapter). Notwithstanding Rule 104 of Regulation S-T (§ 232.104 of this chapter), the PDF documents filed under this paragraph will be considered as officially filed with the Commission.
 
 (xxi) Form ATS-N (§ 249.640 of this chapter).
+
+(xxii) [Reserved]
+
+(xxiii) [Reserved]
+
+(xxiv) Annual reports to security holders furnished for the information of the Commission under § 240.14a-3(c) of this chapter or § 240.14c-3(b) of this chapter, under the requirements of Form 10-K (§ 249.310 of this chapter) filed by registrants under Exchange Act Section 15(d) (15 U.S.C. 78o(d)), or by foreign private issuers filed on Form 6-K (§ 249.306 of this chapter) under § 240.13a-16 of this chapter or § 240.15d-16 of this chapter;
+
+(xxv) Notices of exempt solicitation furnished for the information of the Commission pursuant to Rule 14a-6(g) (§ 240.14a-6(g) of this chapter) and notices of exempt preliminary roll-up communications furnished for the information of the Commission pursuant to § 240.14a-6(n) of this chapter (Rule 14a-6(n));
+
+(xxvi) Form 11-K (§ 249.311 of this chapter);
+
+(xxvii) Form 144 (§ 239.144 of this chapter), where the issuer of the securities is subject to the reporting requirements of Section 13 or 15(d) of the Exchange Act (15 U.S.C. 78m or 78o(d), respectively);
+
+(xxviii) Periodic reports and reports with respect to distributions of primary obligations filed by:
+
+(A) The International Bank for Reconstruction and Development under Section 15(a) of the Bretton Woods Agreements Act (22 U.S.C. 286k-1(a)) and part 285 of this chapter;
+
+(B) The Inter-American Development Bank under Section 11(a) of the Inter-American Development Bank Act (22 U.S.C. 283h(a)) and part 286 of this chapter;
+
+(C) The Asian Development Bank under Section 11(a) of the Asian Development Bank Act (22 U.S.C. 285h(a)) and part 287 of this chapter;
+
+(D) The African Development Bank under Section 9(a) of the African Development Bank Act (22 U.S.C. 290i-9(a)) and part 288 of this chapter;
+
+(E) The International Finance Corporation under Section 13(a) of the International Finance Corporation Act (22 U.S.C. 282k(a)) and part 289 of this chapter; and
+
+(F) The European Bank for Reconstruction and Development under Section 9(a) of the European Bank for Reconstruction and Development Act (22 U.S.C. 290l-7(a)) and part 290 of this chapter;
+
+(xxix) A report or other document submitted by a foreign private issuer under cover of Form 6-K (§ 249.306 of this chapter) that the issuer must furnish and make public under the laws of the jurisdiction in which the issuer is incorporated, domiciled or legally organized (the foreign private issuer's “home country”), or under the rules of the home country exchange on which the issuer's securities are traded, as long as the report or other document is not a press release, is not required to be and has not been distributed to the issuer's security holders, and, if discussing a material event, has already been the subject of a Form 6-K or other Commission filing or submission on EDGAR; and
+
+(xxx) Documents filed with the Commission pursuant to section 33 of the Investment Company Act (15 U.S.C. 80a-32).
 
 (2) The following amendments to filings and applications, including any related correspondence and supplemental information except as otherwise provided, shall be submitted as follows:
 
@@ -68,35 +96,9 @@ Failure to submit a required electronic filing pursuant to this paragraph (a), a
 
 (b) *Permitted electronic submissions.* The following documents may be submitted to the Commission in electronic format, at the option of the electronic filer:
 
-(1) Annual reports to security holders furnished for the information of the Commission under § 240.14a-3(c) of this chapter or § 240.14c-3(b) of this chapter, under the requirements of Form 10-K or Form 10-KSB (§§ 249.310 or 249.310b of this chapter) filed by registrants under Exchange Act Section 15(d) (15 U.S.C. 78o(d)), or by foreign private issuers filed on Form 6-K (§ 249.306 of this chapter) under § 240.13a-16 of this chapter or § 240.15d-16 of this chapter;
+(1)-(9) [Reserved]
 
-(2) Notices of exempt solicitation furnished for the information of the Commission pursuant to Rule 14a-6(g) (§ 240.14a-6(g) of this chapter) and notices of exempt preliminary roll-up communications furnished for the information of the Commission pursuant to Rule 14a-6(n) (§ 240.14a-6(n) of this chapter);
-
-(3) Form 11-K (§ 249.311 of this chapter). Registrants who satisfy their Form 11-K filing obligations by filing amendments to Forms 10-K or 10-KSB, as provided by Rule 15d-21 (§ 240.15d-21 of this chapter), also may choose to file such amendments in paper or electronic format;
-
-(4) Form 144 (§ 239.144 of this chapter), where the issuer of the securities is subject to the reporting requirements of Section 13 or 15(d) of the Exchange Act (15 U.S.C. 78m or 78o(d), respectively);
-
-(5) Periodic reports and reports with respect to distributions of primary obligations filed by:
-
-(i) The International Bank for Reconstruction and Development under Section 15(a) of the Bretton Woods Agreements Act (22 U.S.C. 286k-1(a)) and part 285 of this chapter;
-
-(ii) The Inter-American Development Bank under Section 11(a) of the Inter-American Development Bank Act (22 U.S.C. 283h(a)) and part 286 of this chapter;
-
-(iii) The Asian Development Bank under Section 11(a) of the Asian Development Bank Act (22 U.S.C. 285h(a)) and part 287 of this chapter;
-
-(iv) The African Development Bank under Section 9(a) of the African Development Bank Act (22 U.S.C. 290i-9(a)) and part 288 of this chapter;
-
-(v) The International Finance Corporation under Section 13(a) of the International Finance Corporation Act (22 U.S.C. 282k(a)) and part 289 of this chapter; and
-
-(vi) The European Bank for Reconstruction and Development under Section 9(a) of the European Bank for Reconstruction and Development Act (22 U.S.C. 290*l*-7(a)) and part 290 of this chapter;
-
-(6) A report or other document submitted by a foreign private issuer under cover of Form 6-K (§ 249.306 of this chapter) that the issuer must furnish and make public under the laws of the jurisdiction in which the issuer is incorporated, domiciled or legally organized (the foreign private issuer's “home country”), or under the rules of the home country exchange on which the issuer's securities are traded, as long as the report or other document is not a press release, is not required to be and has not been distributed to the issuer's security holders, and, if discussing a material event, has already been the subject of a Form 6-K or other Commission filing or submission on EDGAR;
-
-(7)-(8) [Reserved]
-
-(9) Documents filed with the Commission pursuant to section 33 of the Investment Company Act (15 U.S.C. 80a-32); and
-
-(c) *Documents to be submitted in paper only.* Except as otherwise specified in paragraph (d) of this section, the following shall not be submitted in electronic format:
+(c) *Documents that shall not be submitted in electronic format on EDGAR.* Except as otherwise specified in paragraph (d) of this section, the following shall not be submitted in electronic format on EDGAR:
 
 (1)(i) Confidential treatment requests and the information with respect to which confidential treatment is requested;
 
@@ -110,11 +112,11 @@ Failure to submit a required electronic filing pursuant to this paragraph (a), a
 
 (5) Applications for exemptive relief filed pursuant to Sections 304 and 310 of the Trust Indenture Act;
 
-(6) Filings on Form 144 (§ 239.144 of this chapter) where the issuer of the securities is not subject to the reporting requirements of section 13 or 15(d) of the Exchange Act (15 U.S.C. 78m or 78o(d), respectively).
+(6) [Reserved]
 
 (7) Promotional and sales material submitted pursuant to Securities Act Industry Guide 5 (§ 229.801(e) of this chapter) or otherwise supplementally furnished for review by the staff of the Division of Corporation Finance;
 
-(8) Documents and symbols in a foreign language (see Rule 306 of Regulation S-T (§ 232.306));
+(8) [Reserved]
 
 (9) Exchange Act filings submitted to the Division of Market Regulation other than those that are submitted in electronic format as mandated or permitted electronic submissions under paragraph (a) and (b) of this section or that are submitted electronically in a filing system other than EDGAR.
 

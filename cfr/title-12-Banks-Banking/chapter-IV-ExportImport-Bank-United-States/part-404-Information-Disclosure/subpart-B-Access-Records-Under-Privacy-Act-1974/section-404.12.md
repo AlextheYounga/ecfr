@@ -1,5 +1,7 @@
 ##### § 404.12 General provisions. #####
 
+Link to an amendment published at 87 FR 41034, July 11, 2022.Link to an amendment published at 87 FR 41041, July 11, 2022.
+
 (a) *Purpose.* This subpart establishes policies, procedures, requirements, and responsibilities for administration of the Privacy Act of 1974, 5 U.S.C. 552a, at the Export-Import Bank of the United States (Ex-Im Bank).
 
 (b) *Relationship to the Freedom of Information Act.* The Privacy Act applies to records contained in a systems of records, as defined in § 404.13. If an individual submits a request for access to records and cites the Privacy Act, but the records sought are not contained in a Privacy Act system of records, then the request shall be processed only under subpart A of this part, Procedures for Disclosure of Records Under the Freedom of Information Act. All requests properly processed under this subpart B shall also be processed under subpart A of this part.

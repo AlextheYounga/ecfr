@@ -1,6 +1,8 @@
 ##### § 493.903 Administrative responsibilities. #####
 
-The proficiency testing program must -
+Link to an amendment published at 87 FR 41233, July 11, 2022.
+
+The proficiency testing program must—
 
 (a)(1) Provide HHS or its designees and participating laboratories with an electronic or a hard copy, or both, of reports of proficiency testing results and all scores for each laboratory's performance in a format as required by and approved by CMS for each CLIA-certified specialty, subspecialty, and analyte or test within 60 days after the date by which the laboratory must report proficiency testing results to the proficiency testing program.
 

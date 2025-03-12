@@ -1,5 +1,7 @@
 ##### § 404.13 Definitions. #####
 
+Link to an amendment published at 87 FR 41034, July 11, 2022.
+
 For purposes of this subpart, the following definitions shall apply:
 
 *Appeal* - A written request to the Ex-Im Bank Assistant General Counsel for Administration for reversal of an adverse initial determination.

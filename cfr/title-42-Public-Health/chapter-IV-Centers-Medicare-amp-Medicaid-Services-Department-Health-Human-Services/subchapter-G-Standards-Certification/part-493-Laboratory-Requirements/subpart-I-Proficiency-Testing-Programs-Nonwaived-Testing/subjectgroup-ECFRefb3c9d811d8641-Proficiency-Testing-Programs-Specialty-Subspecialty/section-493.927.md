@@ -1,5 +1,7 @@
 ##### § 493.927 General immunology. #####
 
+Link to an amendment published at 87 FR 41237, July 11, 2022.
+
 (a) *Program content and frequency of challenge.* To be approved for proficiency testing for immunology, the annual program must provide a minimum of five samples per testing event. There must be at least three testing events at approximately equal intervals per year. The annual program must provide samples that cover the full range of reactivity from highly reactive to nonreactive. The samples may be provided through mailed shipments or, at HHS' option, may be provided to HHS or its designee for on-site testing.
 
 (b) *Challenges per testing event.* The minimum number of challenges per testing event the program must provide for each analyte or test procedure is five. Analytes or tests for which laboratory performance is to be evaluated include:
@@ -14,7 +16,7 @@ Analyte or Test ProcedureAlpha-l antitrypsinAlpha-fetoprotein (tumor marker)Anti
 
 Criteria for Acceptable Performance
 
-The criteria for acceptable performance are -
+The criteria for acceptable performance are—
 
 |         Analyte or test          |                   Criteria for acceptable performance                   |
 |----------------------------------|-------------------------------------------------------------------------|

@@ -1,7 +1,5 @@
 ##### § 230.158 Definitions of certain terms in the last paragraph of section 11(a). #####
 
-Link to an amendment published at 87 FR 35409, June 10, 2022.
-
 (a) An “earning statement” made generally available to securityholders of the registrant pursuant to the last paragraph of section 11(a) of the Act shall be sufficient for the purposes of such paragraph if:
 
 (1) There is included the information required for statements of comprehensive income (as defined in § 210.1-02 of Regulation S-X of this chapter) contained either:
@@ -26,9 +24,7 @@ A subsidiary issuing debt securities guaranteed by its parent will be deemed to 
 
 (1) Is required to file reports pursuant to section 13 or 15(d) of the Securities Exchange Act of 1934 and
 
-(2) Has filed its report or reports on Form 10-K and Form 10-KSB, Form 10-Q and Form 10-QSB, Form 8-K, Form 20-F, Form 40-F, or Form 6-K, or has supplied to the Commission copies of the annual report sent to security holders pursuant to Rule 14a-3(c), (§ 240.14a-3(c) of this chapter) containing such information.
-
-A registrant may use other methods to make an earning statement “generally available to its security holders” for purposes of the last paragraph of section 11(a).
+(2) Has filed its report or reports on Form 10-K, Form 10-Q, Form 8-K, Form 20-F, Form 40-F, or Form 6-K, or has submitted to the Commission in electronic format, in accordance with the EDGAR Filer Manual, its annual report sent to security holders pursuant to Rule 14a-3(c) (§ 240.14a-3(c) of this chapter) containing such information. A registrant may use other methods to make an earning statement “generally available to its security holders” for purposes of the last paragraph of section 11(a).
 
 (c) For purposes of the last paragraph of section 11(a) of the Act only, the effective date of the registration statement is deemed to be the date of the latest to occur of:
 
@@ -46,4 +42,4 @@ A registrant may use other methods to make an earning statement “generally ava
 
 (d) If an earnings statement was made available by “other methods” than those specified in paragraphs (a) and (b) of this section, the earnings statement must be filed as exhibit 99 to the next periodic report required by section 13 or 15(d) of the Exchange Act covering the period in which the earnings statement was released.
 
-[48 FR 44770, Sept. 30, 1983, as amended at 56 FR 30054, July 1, 1991; 58 FR 14669, Mar. 18, 1993; 70 FR 44804, Aug. 3, 2005; 73 FR 967, Jan. 4, 2008; 83 FR 50212, Oct. 4, 2018]
+[48 FR 44770, Sept. 30, 1983, as amended at 56 FR 30054, July 1, 1991; 58 FR 14669, Mar. 18, 1993; 70 FR 44804, Aug. 3, 2005; 73 FR 967, Jan. 4, 2008; 83 FR 50212, Oct. 4, 2018; 87 FR 35409, June 10, 2022]

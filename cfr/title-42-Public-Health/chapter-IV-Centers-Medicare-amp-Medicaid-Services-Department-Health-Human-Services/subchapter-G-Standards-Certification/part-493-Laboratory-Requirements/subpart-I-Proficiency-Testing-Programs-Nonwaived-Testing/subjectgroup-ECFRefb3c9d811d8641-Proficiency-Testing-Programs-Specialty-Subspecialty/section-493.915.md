@@ -1,5 +1,7 @@
 ##### § 493.915 Mycology. #####
 
+Link to an amendment published at 87 FR 41235, July 11, 2022.
+
 (a) *Types of services offered by laboratories.* In mycology, there are four types of laboratories for proficiency testing purposes that may perform different levels of service for yeasts, dimorphic fungi, dermatophytes, and aerobic actinomycetes:
 
 (1) Those that isolate and identify only yeasts and/or dermatophytes to the genus level;
@@ -14,7 +16,7 @@
 
 (1) An approved program must, before each calendar year, furnish HHS with a description of samples that it plans to include in its annual program no later than six months before each calendar year. At least 50 percent of the samples must be mixtures of the principal organism and appropriate normal background flora. Other important emerging pathogens (as determined by HHS) and organisms commonly occurring in patient specimens must be included periodically in the program.
 
-(2) An approved program may vary over time. As an example, the types of organisms that might be included in an approved program over time are -
+(2) An approved program may vary over time. As an example, the types of organisms that might be included in an approved program over time are—
 
 *Candida albicans**Candida* (other species)*Cryptococcus neoformans**Sporothrix schenckii**Exophiala jeanselmei**Fonsecaea pedrosoi**Microsporum sp.**Acremonium sp.**Trichophvton sp.**Aspergillus fumigatus**Nocardia sp.**Blastomyces dermatitidis1**Zygomycetes sp.*
 

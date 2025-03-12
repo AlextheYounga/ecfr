@@ -1,6 +1,6 @@
 ##### § 230.144 Persons deemed not to be engaged in a distribution and therefore not underwriters. #####
 
-Link to an amendment published at 87 FR 35409, June 10, 2022.Preliminary Note:
+Preliminary Note:
 
 Certain basic principles are essential to an understanding of the registration requirements in the Securities Act of 1933 (the Act or the Securities Act) and the purposes underlying Rule 144:
 
@@ -264,9 +264,11 @@ Notes:
 
 (*g*) The number of shares or other units of the class outstanding, or the relevant trading volume.
 
-(h) *Notice of proposed sale.* (1) If the amount of securities to be sold in reliance upon this rule during any period of three months exceeds 5,000 shares or other units or has an aggregate sale price in excess of $50,000, three copies of a notice on Form 144 (§ 239.144 of this chapter) shall be filed with the Commission. If such securities are admitted to trading on any national securities exchange, one copy of such notice also shall be transmitted to the principal exchange on which such securities are admitted.
+(h) *Notice of proposed sale.* (1) *Reporting issuers.* If the issuer is, and has been for a period of at least 90 days immediately before the sale, subject to the reporting requirements of section 13 or 15(d) of the Exchange Act and the amount of securities to be sold in reliance upon this rule during any period of three months exceeds 5,000 shares or other units or has an aggregate sale price in excess of $50,000, a notice on Form 144 (§ 239.144 of this chapter) shall be filed electronically with the Commission.
 
-(2) The Form 144 shall be signed by the person for whose account the securities are to be sold and shall be transmitted for filing concurrently with either the placing with a broker of an order to execute a sale of securities in reliance upon this rule or the execution directly with a market maker of such a sale. Neither the filing of such notice nor the failure of the Commission to comment on such notice shall be deemed to preclude the Commission from taking any action that it deems necessary or appropriate with respect to the sale of the securities referred to in such notice. The person filing the notice required by this paragraph shall have a bona fide intention to sell the securities referred to in the notice within a reasonable time after the filing of such notice.
+(2) *Non-reporting issuers.* If the issuer is not subject to the reporting requirements of section 13 or 15(d) of the Exchange Act, and the amount of securities to be sold in reliance upon this rule during any period of three months exceeds 5,000 shares or other units or has an aggregate sale price in excess of $50,000, three copies of a notice on Form 144 (§ 239.144 of this chapter) shall be filed with the Commission.
+
+(3) The Form 144 shall be signed by the person for whose account the securities are to be sold and shall be transmitted for filing concurrently with either the placing with a broker of an order to execute a sale of securities in reliance upon this rule or the execution directly with a market maker of such a sale. Neither the filing of such notice nor the failure of the Commission to comment on such notice shall be deemed to preclude the Commission from taking any action that it deems necessary or appropriate with respect to the sale of the securities referred to in such notice. The person filing the notice required by this paragraph shall have a bona fide intention to sell the securities referred to in the notice within a reasonable time after the filing of such notice.
 
 (i) *Unavailability to securities of issuers with no or nominal operations and no or nominal non-cash assets.* (1) This section is not available for the resale of securities initially issued by an issuer defined below:
 

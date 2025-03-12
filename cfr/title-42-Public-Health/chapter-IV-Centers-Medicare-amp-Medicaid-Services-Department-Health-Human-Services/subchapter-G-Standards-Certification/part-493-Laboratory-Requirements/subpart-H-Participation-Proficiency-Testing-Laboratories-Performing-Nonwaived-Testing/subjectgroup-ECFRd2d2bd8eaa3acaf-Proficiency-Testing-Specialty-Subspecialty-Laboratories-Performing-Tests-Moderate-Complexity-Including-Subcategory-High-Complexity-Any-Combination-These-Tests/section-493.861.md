@@ -1,8 +1,10 @@
 ##### § 493.861 Standard; Unexpected antibody detection. #####
 
+Link to an amendment published at 87 FR 41232, July 11, 2022.
+
 (a) Failure to attain an overall testing event score of at least 80 percent is unsatisfactory performance.
 
-(b) Failure to participate in a testing event is unsatisfactory performance and results in a score of 0 for the testing event. Consideration may be given to those laboratories failing to participate in a testing event only if -
+(b) Failure to participate in a testing event is unsatisfactory performance and results in a score of 0 for the testing event. Consideration may be given to those laboratories failing to participate in a testing event only if—
 
 (1) Patient testing was suspended during the time frame allotted for testing and reporting proficiency testing results;
 

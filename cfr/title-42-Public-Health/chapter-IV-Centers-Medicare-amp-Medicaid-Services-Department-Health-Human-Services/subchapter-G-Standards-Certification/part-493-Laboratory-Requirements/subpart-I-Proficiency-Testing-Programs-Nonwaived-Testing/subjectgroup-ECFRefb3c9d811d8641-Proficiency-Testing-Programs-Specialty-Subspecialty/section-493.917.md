@@ -1,6 +1,8 @@
 ##### § 493.917 Parasitology. #####
 
-(a) *Types of services offered by laboratories.* In parasitology there are two types of laboratories for proficiency testing purposes -
+Link to an amendment published at 87 FR 41235, July 11, 2022.
+
+(a) *Types of services offered by laboratories.* In parasitology there are two types of laboratories for proficiency testing purposes—
 
 (1) Those that determine the presence or absence of parasites by direct observation (wet mount) and/or pinworm preparations and, if necessary, refer specimens to another laboratory appropriately certified in the subspecialty of parasitology for identification;
 
@@ -10,7 +12,7 @@
 
 (1) An approved program must, before each calendar year furnish HHS with a description of samples that it plans to include in its annual program no later than six months before each calendar year. Samples must include both formalinized specimens and PVA (polyvinyl alcohol) fixed specimens as well as blood smears, as appropriate for a particular parasite and stage of the parasite. The majority of samples must contain protozoa or helminths or a combination of parasites. Some samples must be devoid of parasites.
 
-(2) An approved program may vary over time. As an example, the types of parasites that might be included in an approved program over time are -
+(2) An approved program may vary over time. As an example, the types of parasites that might be included in an approved program over time are—
 
 *Enterobius vermicularis**Entamoeba histolytica**Entamoeba coli**Giardia lamblia**Endolimax nana**Dientamoeba fragilis**Iodamoeba butschli**Chilomastix mesnili**Hookworm**Ascaris lumbricoides**Strongyloides stercoralis**Trichuris trichiura**Diphyllobothrium latum**Cryptosporidium sp.**Plasmodium falciparum*
 

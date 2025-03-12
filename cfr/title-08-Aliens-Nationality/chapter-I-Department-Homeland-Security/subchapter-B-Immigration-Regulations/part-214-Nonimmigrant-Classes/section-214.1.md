@@ -85,8 +85,8 @@
 |           101(a)(15)(U)(i)           |       U-1        |
 |          101(a)(15)(U)(ii)           |U-2, U-3, U-4, U-5|
 |            101(a)(15)(V)             | V-1, V-2, or V-3 |
-|           NAFTA, Principal           |       TN.        |
-|           NAFTA, Dependent           |       TD.        |
+|           USMCA, Principal           |       TN.        |
+|           USMCA, Dependent           |       TD.        |
 |        Visa Waiver, Business         |       WB.        |
 |         Visa Waiver, Tourist         |       WT.        |
 

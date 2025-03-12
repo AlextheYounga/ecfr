@@ -1,7 +1,5 @@
 ##### § 240.14a-3 Information to be furnished to security holders. #####
 
-Link to an amendment published at 87 FR 35413, June 10, 2022.
-
 (a) No solicitation subject to this regulation shall be made unless each person solicited is concurrently furnished or has previously been furnished with:
 
 (1) A publicly-filed preliminary or definitive proxy statement, in the form and manner described in § 240.14a-16, containing the information specified in Schedule 14A (§ 240.14a-101);
@@ -64,7 +62,7 @@ Registrants are encouraged to utilize tables, schedules, charts and graphic illu
 
 (13) Paragraph (b) of this section shall not apply, however, to solicitations made on behalf of the registrant before the financial statements are available if a solicitation is being made at the same time in opposition to the registrant and if the registrant's proxy statement includes an undertaking in bold face type to furnish such annual report to security holders to all persons being solicited at least 20 calendar days before the date of the meeting or, if the solicitation refers to a written consent or authorization in lieu of a meeting, at least 20 calendar days prior to the earliest date on which it may be used to effect corporate action.
 
-(c) Seven copies of the report sent to security holders pursuant to this rule shall be mailed to the Commission, solely for its information, not later than the date on which such report is first sent or given to security holders or the date on which preliminary copies, or definitive copies, if preliminary filing was not required, of solicitation material are filed with the Commission pursuant to Rule 14a-6, whichever date is later. The report is not deemed to be “soliciting material” or to be “filed” with the Commission or subject to this regulation otherwise than as provided in this Rule, or to the liabilities of section 18 of the Act, except to the extent that the registrant specifically requests that it be treated as a part of the proxy soliciting material or incorporates it in the proxy statement or other filed report by reference.
+(c) The report sent to security holders pursuant to this rule shall be submitted in electronic format, in accordance with the EDGAR Filer Manual, to the Commission, solely for its information, not later than the date on which such report is first sent or given to security holders or the date on which preliminary copies, or definitive copies, if preliminary filing was not required, of solicitation material are filed with the Commission pursuant to § 240.14a-6, whichever date is later. The report is not deemed to be “soliciting material” or to be “filed” with the Commission or subject to this regulation otherwise than as provided in this Rule, or to the liabilities of section 18 of the Act, except to the extent that the registrant specifically requests that it be treated as a part of the proxy soliciting material or incorporates it in the proxy statement or other filed report by reference.
 
 (d) An annual report to security holders prepared on an integrated basis pursuant to General Instruction H to Form 10-K (§ 249.310 of this chapter) may also be submitted in satisfaction of this section. When filed as the annual report on Form 10-K, responses to the Items of that form are subject to section 18 of the Act notwithstanding paragraph (c) of this section.
 
@@ -84,7 +82,7 @@ Unless the registrant addresses the annual report to security holders, proxy sta
 
 (E) The registrant includes an undertaking in the proxy statement to deliver promptly upon written or oral request a separate copy of the annual report to security holders, proxy statement or Notice of Internet Availability of Proxy Materials, as applicable, to a security holder at a shared address to which a single copy of the document was delivered.
 
-(ii) *Consent* - (A) *Affirmative written consent.* Each security holder must affirmatively consent, in writing, to delivery of one annual report to security holders or proxy statement, as applicable. A security holder's affirmative written consent will be considered valid only if the security holder has been informed of:
+(ii) *Consent*—(A) *Affirmative written consent.* Each security holder must affirmatively consent, in writing, to delivery of one annual report to security holders or proxy statement, as applicable. A security holder's affirmative written consent will be considered valid only if the security holder has been informed of:
 
 (*1*) The duration of the consent;
 

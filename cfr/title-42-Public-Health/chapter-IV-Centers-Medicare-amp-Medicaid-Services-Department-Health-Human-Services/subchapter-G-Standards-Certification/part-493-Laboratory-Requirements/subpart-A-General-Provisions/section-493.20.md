@@ -1,5 +1,7 @@
 ##### § 493.20 Laboratories performing tests of moderate complexity. #####
 
+Link to an amendment published at 87 FR 41232, July 11, 2022.
+
 (a) A laboratory may qualify for a certificate to perform tests of moderate complexity provided that it restricts its test performance to waived tests or examinations and one or more tests or examinations meeting criteria for tests of moderate complexity including the subcategory of PPM procedures.
 
 (b) A laboratory that performs tests or examinations of moderate complexity must meet the applicable requirements in subpart C or subpart D, and subparts F, H, J, K, M, and Q of this part. Under a registration certificate or certificate of compliance, laboratories also performing PPM procedures must meet the inspection requirements at §§ 493.1773 and 493.1777.

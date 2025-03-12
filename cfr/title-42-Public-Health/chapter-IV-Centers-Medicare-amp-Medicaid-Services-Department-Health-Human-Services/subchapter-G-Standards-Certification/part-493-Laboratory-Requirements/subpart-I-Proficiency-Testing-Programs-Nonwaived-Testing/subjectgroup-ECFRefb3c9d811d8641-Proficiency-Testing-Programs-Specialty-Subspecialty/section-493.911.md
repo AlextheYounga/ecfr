@@ -1,5 +1,7 @@
 ##### § 493.911 Bacteriology. #####
 
+Link to an amendment published at 87 FR 41233, July 11, 2022.
+
 (a) *Types of services offered by laboratories.* In bacteriology, for proficiency testing purposes, there are five types of laboratories:
 
 (1) Those that interpret Gram stains or perform primary inoculation, or both; and refer cultures to another laboratory appropriately certified for the subspecialty of bacteriology for identification;
@@ -20,7 +22,7 @@
 
 (ii) Samples that require laboratories to report all organisms present. Samples must contain multiple organisms frequently found in specimens such as urine, blood, abscesses, and aspirates where multiple isolates are clearly significant or where specimens are derived from immuno-compromised patients. The program determines the reportable isolates.
 
-(2) An approved program may vary over time. For example, the types of organisms that might be included in an approved program over time are -
+(2) An approved program may vary over time. For example, the types of organisms that might be included in an approved program over time are—
 
 *Anaerobes:**Bacteroides fragilis group**Clostridium perfringens**Peptostreptococcus anaerobius**Enterobacteriaceae**Citrobacter freundii**Enterobacter aerogenes**Escherichia coli**Klebsiella pneumoniae**Proteus mirabilis**Salmonella typhimurium**Serratia marcescens**Shigella sonnei**Yersinia enterocolitica**Gram-positive bacilli:**Listeria monocytogenes**Corynebacterium species CDC Group JK**Gram-positive cocci:**Staphylococcus aureus**Streptococcus Group A**Streptococcus Group B**Streptococcus Group D (S. bovis and enterococcus)**Streptococcus pneumoniae**Gram-negative cocci:**Branhamella catarrhalis**Neisseria gonorrhoeae**Neisseria meningitidis**Miscellaneous Gram-negative bacteria:**Campylobacter jejuni**Haemophilis influenza, Type B**Pseudomonas aeruginosa*
 

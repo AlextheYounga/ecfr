@@ -1,5 +1,7 @@
 ##### § 404.14 Requirements of request for access. #####
 
+Link to an amendment published at 87 FR 41034, July 11, 2022.Link to an amendment published at 87 FR 41041, July 11, 2022.
+
 (a) *Form.* Requests for access must be made in writing and must be signed by the requester. Requests should be addressed to the Freedom of Information and Privacy Office at the address in § 404.12(e) and should contain both the return address and telephone number of the requester.
 
 (b) *Description of records sought.* A request for access must describe the records sought in sufficient detail so as to enable Ex-Im Bank personnel to locate the system of records containing the records with a reasonable amount of effort. To the extent practicable, such description should include the nature of the record sought, the date of the record or the period in which the record was compiled, and the name or identifying number of the system of records in which the requester believes the record is kept. A requester may include his or her social security number in the request in order to facilitate the identification and location of the requested records.

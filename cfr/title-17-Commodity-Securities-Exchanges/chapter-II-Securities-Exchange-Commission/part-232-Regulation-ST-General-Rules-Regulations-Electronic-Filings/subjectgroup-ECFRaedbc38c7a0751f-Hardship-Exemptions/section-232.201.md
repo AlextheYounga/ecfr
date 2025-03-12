@@ -1,7 +1,5 @@
 ##### § 232.201 Temporary hardship exemption. #####
 
-Link to an amendment published at 87 FR 38964, June 30, 2022.
-
 (a) If an electronic filer experiences unanticipated technical difficulties preventing the timely preparation and submission of an electronic filing, other than a Form 3 (§ 249.103 of this chapter), a Form 4 (§ 249.104 of this chapter), a Form 5 (§ 249.105 of this chapter), a Form ID (§§ 239.63, 249.446, 269.7 and 274.402 of this chapter), a Form TA-1 (§ 249.100 of this chapter), a Form TA-2 (§ 249.102 of this chapter), a Form TA-W (§ 249.101 of this chapter), a Form D (§ 239.500 of this chapter), an application for an order under any section of the Investment Company Act (15 U.S.C. 80a-1 *et seq.*), an Interactive Data File (§ 232.11), or an Asset Data File (as defined in § 232.11), the electronic filer may file the subject filing, under cover of Form TH (§§ 239.65, 249.447, 269.10 and 274.404 of this chapter), in paper format no later than one business day after the date on which the filing was to be made.
 
 (1) An electronic imaged copy of the paper format document shall be the official filing for purposes of the federal securities laws.

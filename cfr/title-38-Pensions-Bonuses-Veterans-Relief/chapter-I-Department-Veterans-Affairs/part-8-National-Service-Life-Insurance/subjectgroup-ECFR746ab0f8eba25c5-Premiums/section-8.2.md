@@ -1,7 +1,5 @@
 ##### § 8.2 Payment of premiums. #####
 
-Link to an amendment published at 87 FR 35421, June 10, 2022.
-
 (a) *What is a premium?* A premium is a payment that a policyholder is required to make for an insurance policy.
 
 (b) *How can policyholders pay premiums?* Premiums can be paid by:
@@ -16,7 +14,9 @@ Link to an amendment published at 87 FR 35421, June 10, 2022.
 
 (c) *When should policyholders pay premiums?* (1) Unless premiums are paid in advance, policyholders must pay premiums on the effective date shown on the policy and on the same date of each following month. This is called the “due date.”
 
-(2) Policyholders may pay premiums quarterly, semi-annually, or annually in advance.
+(2) Policyholders may pay premiums in advance on an annual basis.
+
+(3) Policyholders insured as of July 11, 2022 may pay premiums in advance on an annual, semi-annual, or quarterly basis.
 
 (d) *What happens if a policyholder does not pay a premium on time?* (1) When a policyholder pays a premium within 31 days from the “due date,” the policy remains in force. This 31-day period is called a “grace period.” If the insured dies within the 31-day grace period, VA deducts the unpaid premium from the amount of insurance payable.
 
@@ -36,4 +36,4 @@ Link to an amendment published at 87 FR 35421, June 10, 2022.
 |          An error in the check or money order           |                                                      The policyholder has an additional 31 days (same as above).                                                      |
 |                      Lack of funds                      |                                                                  The premium is considered not paid.                                                                  |
 
-[65 FR 7437, Feb. 15, 2000]
+[65 FR 7437, Feb. 15, 2000, as amended at 87 FR 35421, June 10, 2022]
