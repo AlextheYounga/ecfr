@@ -1,7 +1,5 @@
 ##### § 648.2 Definitions. #####
 
-Link to an amendment published at 82 FR 52855, Nov. 15, 2017.
-
 In addition to the definitions in the Magnuson Act and in § 600.10 of this chapter, the terms used in this part have the following meanings:
 
 *Alewife* means *Alosa pseudoharengus.*
@@ -65,6 +63,8 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 *Bluefish* means *Pomotomus saltatrix.*
 
 *Bluefish Monitoring Committee* means a committee made up of staff representatives of the Mid-Atlantic Fishery Management Council, the New England Fishery Management Council, and South Atlantic Fishery Management Council, the NMFS Northeast Regional Office, the NMFS Northeast Fisheries Science Center, and the Commission. The Mid-Atlantic Fishery Management Council's Executive Director or a designee chairs the committee.
+
+*Blueline tilefish* means *Caulolatilus microps.*
 
 *Bonito* means *Sarda sarda.*
 
@@ -144,7 +144,7 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 
 (3) For the NE multispecies, monkfish and skate fisheries, from May 1 through April 30 of the following year.
 
-(4) For the tilefish fishery, from November 1 through October 31 of the following year.
+(4) For the golden tilefish fishery, from November 1 through October 31 of the following year.
 
 (5) For all other fisheries in this part, from January 1 through December 31.
 
@@ -159,6 +159,8 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 *Full-processing (fully process or fully processed), with respect to the Atlantic deep-sea red crab fishery,* means any activity that removes meat from any part of a red crab.
 
 *Gillnet gear capable of catching multispecies* means all gillnet gear except pelagic gillnet gear specified at § 648.81(f)(5)(ii) and pelagic gillnet gear that is designed to fish for and is used to fish for or catch tunas, swordfish, and sharks.
+
+*Golden tilefish* means *Lopholatilus chamaeleonticeps.*
 
 *Gross registered tonnage* (GRT) means the gross registered tonnage specified on the USCG documentation for a vessel.
 
@@ -204,13 +206,13 @@ Bay scallop - *Aequipecten irradians.*Blood arc clam - *Anadara ovalis.*Blood wo
 
 (1) A vessel owner who receives temporarily transferred NE multispecies DAS from another vessel through the DAS Leasing Program specified at § 648.82(k); or
 
-(2) A person or entity eligible to hold tilefish IFQ allocation, who receives temporarily transferred tilefish IFQ allocation, as specified at § 648.294(e)(1).
+(2) A person or entity eligible to hold golden tilefish IFQ allocation, who receives temporarily transferred golden tilefish IFQ allocation, as specified at § 648.294(e)(1).
 
 *Lessor* means:
 
 (1) A vessel owner who temporarily transfers NE multispecies DAS to another vessel through the DAS Leasing Program specified at § 648.82(k); or
 
-(2) An IFQ Allocation permit holder who temporarily transfers tilefish IFQ Allocation, as specified at § 648.294(e)(1).
+(2) An IFQ allocation permit holder who temporarily transfers golden tilefish IFQ allocation, as specified at § 648.294(e)(1).
 
 *Limited access general category (LAGC) scallop vessel* means a vessel that has been issued an individual fishing quota (IFQ), Northern Gulf of Maine (NGOM), or incidental catch LAGC scallop permit pursuant to § 648.4(a)(2)(ii). An LAGC scallop vessel may also be issued a limited access scallop permit.
 
@@ -660,11 +662,11 @@ Yellowtail flounder - *Pleuronectes ferruginea.*
 
 *Tied up to the dock* or *tying up at a dock* means tied up at a dock, on a mooring, or elsewhere in a harbor.
 
-*Tilefish* means golden tilefish, *Lopholatilus chamaeleonticeps,* unless otherwise specified.
+*Tilefish* means golden tilefish and blueline tilefish, collectively, unless otherwise noted.
 
-*Tilefish FMP Monitoring Committee* means a committee made up of staff representatives of the MAFMC, the NMFS Northeast Regional Office, the Northeast Fisheries Science Center, up to three state representatives (the New England states having one representative and the Mid-Atlantic states having a maximum of two representatives) and one non-voting industry member. The MAFMC Executive Director or his designee chairs the committee.
+*Tilefish FMP Monitoring Committee* means a committee made up of staff representatives of the MAFMC, the NMFS Greater Atlantic Regional Fisheries Office, the Northeast Fisheries Science Center, up to three state representatives (the New England states having one representative and the Mid-Atlantic states having a maximum of two representatives) and one non-voting industry member. The MAFMC Executive Director or his designee chairs the committee.
 
-*Tilefish Management Unit*means an area of the Atlantic Ocean from the latitude of the VA and NC border (36°33.36′ N. Lat.), extending eastward from the shore to the outer boundary of the exclusive economic zone and northward to the United States-Canada border in which the United States exercises exclusive jurisdiction over all golden tilefish (*Lopholatilus chamaeleonticeps*) fished for, possessed, caught or retained in or from such area.
+*Tilefish Management Unit* means an area of the Atlantic Ocean from the latitude of the VA and NC border (36°33.36′ N. Lat.), extending eastward from the shore to the outer boundary of the exclusive economic zone and northward to the United States-Canada border in which the United States exercises exclusive jurisdiction over all golden tilefish (*Lopholatilus chamaeleonticeps*) and blueline tilefish (*Caulolatilus microps)* fished for, possessed, caught or retained in or from such area.
 
 *Total Length* (TL) means the straight-line distance from the tip of the snout to the end of the tail (caudal fin) while the fish is lying on its side. For black sea bass, *Total Length (TL)* means the straight-line distance from the tip of the snout to the end of the tail (caudal fin), excluding any caudal filament, while the fish is lying on its side.
 

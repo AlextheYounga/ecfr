@@ -1,7 +1,5 @@
 ##### § 648.14 Prohibitions. #####
 
-Link to an amendment published at 82 FR 52856, Nov. 15, 2017.
-
 (a) *General prohibitions.* It is unlawful for any person to do any of the following:
 
 (1) Violate any provision of this part, the Magnuson-Stevens Act, or any regulation, notice, or permit issued under the Magnuson-Stevens Act, or any other statute administered by NOAA.
@@ -1230,39 +1228,47 @@ Link to an amendment published at 82 FR 52856, Nov. 15, 2017.
 
 (6) *Presumption.* For purposes of this part, the following presumption applies: All red crab retained or possessed on a vessel issued any permit under § 648.4 are deemed to have been harvested in or from the Red Crab Management Unit, unless the preponderance of all submitted evidence demonstrates that such red crab were harvested by a vessel fishing exclusively outside of the Red Crab Management Unit or in state waters.
 
-(u) *Golden tilefish.* It is unlawful for any person owning or operating a vessel to do any of the following:
+(u) *Golden and blueline tilefish.* It is unlawful for any person owning or operating a vessel to do any of the following:
 
-(1) *Permit requirements* - (i) *Operator permit.* Operate, or act as an operator of, a vessel with a tilefish permit, or a vessel fishing for or possessing tilefish in or from the Tilefish Management Unit, unless the operator has been issued, and is in possession of, a valid operator permit.
+(1) *Permit requirements* - (i) *Operator permit.* Operate, or act as an operator of, a vessel with a tilefish permit, or a vessel fishing for or possessing golden or blueline tilefish in or from the Tilefish Management Unit, unless the operator has been issued, and is in possession of, a valid operator permit. This requirement does not apply to operators of private recreational vessels.
 
-(ii) *Dealer permit.* Purchase, possess, receive for a commercial purpose; or attempt to purchase, possess, or receive for a commercial purpose; as a dealer, or in the capacity of a dealer, tilefish that were harvested in or from the Tilefish Management Unit, without having been issued, and in possession of, a valid tilefish dealer permit.
+(ii) *Dealer permit.* Purchase, possess, receive for a commercial purpose; or attempt to purchase, possess, or receive for a commercial purpose; as a dealer, or in the capacity of a dealer, golden or blueline tilefish that were harvested in or from the Tilefish Management Unit, without having been issued, and in possession of, a valid tilefish dealer permit.
 
-(iii) *Vessel permit.* Sell, barter, trade, or otherwise transfer from a vessel; or attempt to sell, barter, trade, or otherwise transfer from a vessel; for a commercial purpose, other than solely for transport on land, any tilefish, unless the vessel has been issued a tilefish permit, or unless the tilefish were harvested by a vessel without a tilefish permit that fished exclusively in State waters.
+(iii) *Vessel permit.* (A) Sell, barter, trade, or otherwise transfer from a vessel; or attempt to sell, barter, trade, or otherwise transfer from a vessel; for a commercial purpose, other than solely for transport on land, any golden or blueline tilefish, unless the vessel has been issued a commercial tilefish permit, or unless the tilefish were harvested by a vessel without a commercial tilefish permit that fished exclusively in State waters.
 
-(2) *Possession and landing.* (i) Fish for, possess, retain, or land tilefish, unless:
+(B) Operate a vessel that takes recreational fishermen for hire to fish for golden or blueline tilefish in the Tilefish Management Unit without a valid tilefish charter/party vessel permit, as required in § 648.4(a)(12)(i).
+
+(2) *Possession and landing.* (i) Fish for, possess, retain, or land golden or blueline tilefish, unless:
 
 (A) The tilefish are being fished for or were harvested in or from the Tilefish Management Unit by a vessel holding a valid tilefish permit under this part, and the operator on board such vessel has been issued an operator permit that is on board the vessel.
 
 (B) The tilefish were harvested by a vessel that has not been issued a tilefish permit and that was fishing exclusively in State waters.
 
-(C) The tilefish were harvested in or from the Tilefish Management Unit by a vessel, other than a Party/Charter vessel, that is engaged in recreational fishing.
+(C) The tilefish were harvested in or from the Tilefish Management Unit by a vessel, other than a charter/party vessel, that is engaged in recreational fishing.
 
-(ii) Land or possess tilefish harvested in or from the Tilefish Management Unit, in excess of the trip limit pursuant to § 648.295, without a valid tilefish IFQ Allocation permit, as specified in § 648.294(a).
+(ii) Land or possess golden or blueline tilefish harvested in or from the Tilefish Management Unit, in excess of either:
 
-(iii) Land tilefish harvested in or from the Tilefish Management Unit in excess of that authorized under a tilefish IFQ Allocation permit as described at § 648.294(a).
+(A) The relevant commercial trip limit specified at § 648.295, unless possessing golden tilefish authorized pursuant to a valid tilefish IFQ allocation permit, as specified in § 648.294(a).
 
-(iv) Operate a vessel that takes recreational fishermen for hire to fish for tilefish in the Tilefish Management Unit without a valid tilefish Charter/Party permit, as required in § 648.4(a)(12)(i).
+(B) The relevant recreational possession limit specified at § 648.296, if engaged in recreational fishing including charter/party vessels.
 
-(v) Fish for tilefish inside and outside of the Tilefish Management Unit on the same trip.
+(iii) Land golden tilefish harvested in or from the Tilefish Management Unit in excess of that authorized under a tilefish IFQ allocation permit as described at § 648.294(a).
 
-(vi) Discard tilefish harvested in or from the Tilefish Management Unit, as defined in § 648.2, unless participating in recreational fishing, as defined in § 648.2, or while fishing subject to a trip limit pursuant to § 648.294(d)(3) or § 648.295.
+(iv) Fish for golden or blueline tilefish inside and outside of the Tilefish Management Unit on the same trip.
 
-(vii) Land or possess tilefish in or from the Tilefish Management Unit, on a vessel issued a valid tilefish permit under this part, after the incidental fishery is closed pursuant to § 648.245(b), unless fishing under a valid tilefish IFQ allocation permit as specified in § 648.249(a), or engaged in recreational fishing.
+(v) Discard golden tilefish harvested in or from the Tilefish Management Unit, as defined in § 648.2, unless participating in recreational fishing, as defined in § 648.2, or while fishing subject to a trip limit pursuant to § 648.295(a).
 
-(3) *Transfer and purchase.* (i) Purchase, possess, or receive for a commercial purpose, other than solely for transport on land; or attempt to purchase, possess, or receive for a commercial purpose, other than solely for transport on land; tilefish caught by a vessel without a tilefish permit, unless the tilefish were harvested by a vessel without a tilefish permit that fished exclusively in State waters.
+(vi) Land or possess golden tilefish in or from the Tilefish Management Unit, on a vessel issued a valid tilefish permit under this part, after the incidental golden tilefish fishery is closed pursuant to § 648.295(a)(2), unless fishing under a valid tilefish IFQ allocation permit as specified in § 648.294(a), or engaged in recreational fishing.
 
-(ii) Purchase or otherwise receive for commercial purposes tilefish caught in the EEZ from outside the Tilefish Management Unit unless otherwise permitted under 50 CFR part 622.
+(vii) Land or possess blueline tilefish in or from the Tilefish Management Unit, on a vessel issued a valid tilefish permit under this part, after the commercial blueline tilefish fishery is closed pursuant to § 648.295(b)(2), unless engaged in recreational fishing.
 
-(4) *Presumption.* For purposes of this part, the following presumption applies: All tilefish retained or possessed on a vessel issued any permit under § 648.4 are deemed to have been harvested in or from the Tilefish Management Unit, unless the preponderance of all submitted evidence demonstrates that such tilefish were harvested by a vessel fishing exclusively in State waters.
+(viii) Land or possess blueline tilefish in or from the Tilefish Management Unit, on a vessel issued a valid commercial tilefish permit under this part, that do not have the head and fins naturally attached to the fish.
+
+(3) *Transfer and purchase.* (i) Purchase, possess, or receive for a commercial purpose, other than solely for transport on land; or attempt to purchase, possess, or receive for a commercial purpose, other than solely for transport on land; golden or blueline tilefish caught by a vessel without a tilefish permit, unless the tilefish were harvested by a vessel without a tilefish permit that fished exclusively in State waters.
+
+(ii) Purchase or otherwise receive for commercial purposes golden or blueline tilefish caught in the EEZ from outside the Tilefish Management Unit unless otherwise permitted under 50 CFR part 622.
+
+(4) *Presumption.* For purposes of this part, the following presumption applies: All golden or blueline tilefish retained or possessed on a vessel issued any permit under § 648.4 are deemed to have been harvested in or from the Tilefish Management Unit, unless the preponderance of all submitted evidence demonstrates that such tilefish were harvested by a vessel fishing exclusively in state waters.
 
 (v) *Skates* - (1) *All persons.* It is unlawful for any person to fish for, possess, transport, sell or land skates in or from the EEZ portion of the skate management unit, unless:
 
