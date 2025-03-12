@@ -2,7 +2,7 @@
 
 As prescribed in 4.1202(a), insert the following provision:
 
-Annual Representations and Certifications (Oct 2018)
+Annual Representations and Certifications (OCT 2018)
 
 (a)(1) The North American Industry Classification System (NAICS) code for this acquisition is \_\_\_\_\_\_\_ [*insert NAICS code*].
 
@@ -118,4 +118,4 @@ Annual Representations and Certifications (Oct 2018)
 
 (d) The Offeror has completed the annual representations and certifications electronically in SAM accessed through *https://www.sam.gov.* After reviewing the SAM information, the Offeror verifies by submission of the offer that the representations and certifications currently posted electronically that apply to this solicitation as indicated in paragraph (c) of this provision have been entered or updated within the last 12 months, are current, accurate, complete, and applicable to this solicitation (including the business size standard applicable to the NAICS code referenced for this solicitation), as of the date of this offer and are incorporated in this offer by reference (see FAR 4.1201); except for the changes identified below [*offeror to insert changes, identifying change by clause number, title, date*]. These amended representation(s) and/or certification(s) are also incorporated in this offer and are current, accurate, and complete as of the date of this offer.
 
-(End of provision)Editorial Note:For Federal Register citations affecting section 52.204-8, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.
+(End of provision)Editorial Note:For Federal Register citations affecting section 52.204-8, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

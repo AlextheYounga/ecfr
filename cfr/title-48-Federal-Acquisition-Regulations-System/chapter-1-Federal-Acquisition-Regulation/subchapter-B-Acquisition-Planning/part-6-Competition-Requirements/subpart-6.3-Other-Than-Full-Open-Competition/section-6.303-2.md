@@ -42,10 +42,10 @@
 
 (2) A specification of the statutory provision providing the exception from the requirement to use competitive procedures in entering into the contract (*see* 19.805-1).
 
-(3) A determination that the use of a sole-source contract is in the best interest of the agency concerned.67
+(3) A determination that the use of a sole-source contract is in the best interest of the agency concerned.
 
 (4) A determination that the anticipated cost of the contract will be fair and reasonable.
 
 (5) Such other matters as the head of the agency concerned shall specify for purposes of this section.
 
-[50 FR 1729, Jan. 11, 1985, as amended at 50 FR 52433, Dec. 23, 1985; 60 FR 48236, Sept. 18, 1995; 66 FR 27412, May 16, 2001; 76 FR 14562, Mar. 16, 2011; 80 FR 38296, July 2, 2015]
+[50 FR 1729, Jan. 11, 1985, as amended at 50 FR 52433, Dec. 23, 1985; 60 FR 48236, Sept. 18, 1995; 66 FR 27412, May 16, 2001; 76 FR 14562, Mar. 16, 2011; 80 FR 38296, July 2, 2015; 84 FR 19843, May 6, 2019]

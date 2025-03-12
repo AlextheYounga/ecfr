@@ -10,13 +10,13 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (JA
 
 (i) 52.203-19, Prohibition on Requiring Certain Internal Confidentiality Agreements or Statements (JAN 2017) (section 743 of Division E, Title VII, of the Consolidated and Further Continuing Appropriations Act, 2015 (Pub. L. 113-235) and its successor provisions in subsequent appropriations acts (and as extended in continuing resolutions)).
 
-(ii) 52.204-23, Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities (Jul 2018) (Section 1634 of Pub. L. 115-91).
+(ii) 52.204-23, Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities (JUL 2018) (Section 1634 of Pub. L. 115-91).
 
 (iii) 52.222-3, Convict Labor (JUN 2003) (E.O. 11755).
 
 (iv) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
 
-(v) 52.222-26, Equal Opportunity (Sept 2016) (E.O. 11246).
+(v) 52.222-26, Equal Opportunity (SEP 2016) (E.O. 11246).
 
 (vi) 52.225-13, Restrictions on Certain Foreign Purchases (JUN 2008) (E.O.s, proclamations, and statutes administered by the Office of Foreign Assets Control of the Department of the Treasury).
 
@@ -46,9 +46,9 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (JA
 
 (1) The clauses listed below implement provisions of law or Executive order:
 
-(i) 52.204-10, Reporting Executive Compensation and First-Tier Subcontract Awards (Oct 2018) (Pub. L. 109-282) (31 U.S.C. 6101 note) (Applies to contracts valued at $30,000 or more).
+(i) 52.204-10, Reporting Executive Compensation and First-Tier Subcontract Awards (OCT 2018) (Pub. L. 109-282) (31 U.S.C. 6101 note) (Applies to contracts valued at $30,000 or more).
 
-(ii) 52.222-19, Child Labor - Cooperation with Authorities and Remedies (Jan 2018) (E.O. 13126) (Applies to contracts for supplies exceeding the micro-purchase threshold).
+(ii) 52.222-19, Child Labor - Cooperation with Authorities and Remedies (JAN 2018) (E.O. 13126) (Applies to contracts for supplies exceeding the micro-purchase threshold).
 
 (iii) 52.222-20, Contracts for Materials, Supplies, Articles, and Equipment Exceeding $15,000 (MAY 2014) (41 U.S.C. chapter 65) (Applies to supply contracts over $15,000 in the United States, Puerto Rico, or the U.S. Virgin Islands).
 
@@ -70,9 +70,9 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (JA
 
 (xi) 52.223-5, Pollution Prevention and Right-to-Know Information (MAY 2011) (E.O. 13423) (Applies to services performed on Federal facilities).
 
-(xii) 52.223-11, Ozone-Depleting Substances and High Global Warming Potential Hydrofluorocarbons (June, 2016) (E.O. 13693)(applies to contracts for products as prescribed at FAR 23.804(a)(1)).
+(xii) 52.223-11, Ozone-Depleting Substances and High Global Warming Potential Hydrofluorocarbons (JUN 2016) (E.O. 13693)(applies to contracts for products as prescribed at FAR 23.804(a)(1)).
 
-(xiii) 52.223-12, Maintenance, Service, Repair, or Disposal of Refrigeration Equipment and Air Conditioners (June, 2016) (E.O. 13693) (Applies to maintenance, service, repair, or disposal of refrigeration equipment and air conditioners).
+(xiii) 52.223-12, Maintenance, Service, Repair, or Disposal of Refrigeration Equipment and Air Conditioners (JUN 2016) (E.O. 13693) (Applies to maintenance, service, repair, or disposal of refrigeration equipment and air conditioners).
 
 (xiv) 52.223-15, Energy Efficiency in Energy-Consuming Products (DEC 2007) (42 U.S.C. 8259b) (Unless exempt pursuant to 23.204, applies to contracts when energy-consuming products listed in the ENERGY STAR® Program or Federal Energy Management Program (FEMP) will be -
 
@@ -84,9 +84,9 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (JA
 
 (D) Specified in the design of a building or work, or incorporated during its construction, renovation, or maintenance).
 
-(xv) 52.223-20, Aerosols (June, 2016) (E.O. 13693) (Applies to contracts for products that may contain high global warming potential hydrofluorocarbons as a propellant or as a solvent; or contracts for maintenance or repair of electronic or mechanical devices).
+(xv) 52.223-20, Aerosols (JUN 2016) (E.O. 13693) (Applies to contracts for products that may contain high global warming potential hydrofluorocarbons as a propellant or as a solvent; or contracts for maintenance or repair of electronic or mechanical devices).
 
-(xvi) 52.223-21, Foams (June, 2016) (E.O. 13693) (Applies to contracts for products that may contain high global warming potential hydrofluorocarbons or refrigerant blends containing hydrofluorocarbons as a foam blowing agent; or contracts for construction of buildings or facilities.
+(xvi) 52.223-21, Foams (JUN 2016) (E.O. 13693) (Applies to contracts for products that may contain high global warming potential hydrofluorocarbons or refrigerant blends containing hydrofluorocarbons as a foam blowing agent; or contracts for construction of buildings or facilities.
 
 (xvii) 52.225-1, Buy American - Supplies (MAY 2014) (41 U.S.C. chapter 67) (Applies to contracts for supplies, and to contracts for services involving the furnishing of supplies, for use in the United States or its outlying areas, if the value of the supply contract or supply portion of a service contract exceeds the micro-purchase threshold and the acquisition -
 
@@ -96,7 +96,7 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (JA
 
 (xviii) 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations (MAY 2014) (42 U.S.C. 1792) (Applies to contracts greater than $25,000 that provide for the provision, the service, or the sale of food in the United States).
 
-(xix) 52.232-33, Payment by Electronic Funds Transfer - System for Award Management (Oct 2018) (Applies when the payment will be made by electronic funds transfer (EFT) and the payment office uses the System for Award Management (SAM) as its source of EFT information).
+(xix) 52.232-33, Payment by Electronic Funds Transfer - System for Award Management (OCT 2018) (Applies when the payment will be made by electronic funds transfer (EFT) and the payment office uses the System for Award Management (SAM) as its source of EFT information).
 
 (xx) 52.232-34, Payment by Electronic Funds Transfer - Other than System for Award Management (JUL 2013) (Applies when the payment will be made by EFT and the payment office does not use the SAM database as its source of EFT information.)
 
@@ -104,7 +104,7 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (JA
 
 (2) Listed below are additional clauses that may apply:
 
-(i) 52.204-21, Basic Safeguarding of Covered Contractor Information Systems (June, 2016) (Applies to contracts when the contractor or a subcontractor at any tier may have Federal contract information residing in or transiting through its information system.
+(i) 52.204-21, Basic Safeguarding of Covered Contractor Information Systems (JUN 2016) (Applies to contracts when the contractor or a subcontractor at any tier may have Federal contract information residing in or transiting through its information system.
 
 (ii) 52.209-6, Protecting the Government's Interest When Subcontracting with Contractors Debarred, Suspended, or Proposed for Debarment (Oct 2015) (Applies to contracts over $35,000).
 

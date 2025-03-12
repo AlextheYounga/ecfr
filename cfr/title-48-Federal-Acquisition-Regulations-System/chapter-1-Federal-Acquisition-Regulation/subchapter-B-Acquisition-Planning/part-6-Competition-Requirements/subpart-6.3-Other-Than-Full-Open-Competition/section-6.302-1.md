@@ -12,13 +12,25 @@
 
 (C) Does not resemble the substance of a pending competitive acquisition. (See 10 U.S.C. 2304(d)(1)(A) and 41 U.S.C. 3304(b)(1).)
 
-(ii) Supplies may be deemed to be available only from the original source in the case of a follow-on contract for the continued development or production of a major system or highly specialized equipment, including major components thereof, when it is likely that award to any other source would result in (A) substantial duplication of cost to the Government that is not expected to be recovered through competition, or (B) unacceptable delays in fulfilling the agency's requirements. (See 10 U.S.C. 2304(d)(1)(B) or 41 U.S.C. 253(d)(1)(B).)
+(ii) Supplies may be deemed to be available only from the original source in the case of a follow-on contract for the continued development or production of a major system or highly specialized equipment, including major components thereof, when it is likely that award to any other source would result in -
 
-(iii) For DoD, NASA, and the Coast Guard, services may be deemed to be available only from the original source in the case of follow-on contracts for the continued provision of highly specialized services when it is likely that award to any other source would result in (A) substantial duplication of cost to the Government that is not expected to be recovered through competition, or (B) unacceptable delays in fulfilling the agency's requirements. (See 10 U.S.C. 2304(d)(1)(B)).
+(A) Substantial duplication of cost to the Government that is not expected to be recovered through competition; or
 
-(b) *Application.* This authority shall be used, if appropriate, in preference to the authority in 6.302-7; it shall not be used when any of the other circumstances is applicable. Use of this authority may be appropriate in situations such as the following (these examples are not intended to be all-inclusive and do not consitute authority in and of themselves):
+(B) Unacceptable delays in fulfilling the agency's requirements. (See 10 U.S.C. 2304(d)(1)(B) or 41 U.S.C. 3304(b)(2).)
 
-(1) When there is a reasonable basis to conclude that the agency's minimum needs can only be satisfied by (i) unique supplies or services available from only one source or only one supplier with unique capabilities; or, (ii) for DoD, NASA, and the Coast Guard, unique supplies or services available from only one or a limited number of sources or from only one or a limited number of suppliers with unique capabilities.
+(iii) For DoD, NASA, and the Coast Guard, services may be deemed to be available only from the original source in the case of follow-on contracts for the continued provision of highly specialized services when it is likely that award to any other source would result in -
+
+(A) Substantial duplication of cost to the Government that is not expected to be recovered through competition; or
+
+(B) Unacceptable delays in fulfilling the agency's requirements. (See 10 U.S.C. 2304(d)(1)(B).)
+
+(b) *Application.* This authority shall be used, if appropriate, in preference to the authority in 6.302-7; it shall not be used when any of the other circumstances is applicable. Use of this authority may be appropriate in situations such as the following (these examples are not intended to be all-inclusive and do not constitute authority in and of themselves):
+
+(1) When there is a reasonable basis to conclude that the agency's minimum needs can only be satisfied by -
+
+(i) Unique supplies or services available from only one source or only one supplier with unique capabilities; or
+
+(ii) For DoD, NASA, and the Coast Guard, unique supplies or services available from only one or a limited number of sources or from only one or a limited number of suppliers with unique capabilities.
 
 (2) The existence of limited rights in data, patent rights, copyrights, or secret processes; the control of basic raw material; or similar circumstances, make the supplies and services available from only one source (however, the mere existence of such rights or circumstances does not in and of itself justify the use of these authorities) (see part 27).
 
@@ -44,4 +56,4 @@
 
 (2) For contracts awarded using this authority, the notices required by 5.201 shall have been published and any bids, proposals, quotations, or capability statements must have been considered.
 
-[50 FR 52431, Dec. 23, 1985, as amended at 52 FR 21886, June 9, 1987; 53 FR 27463, July 20, 1988; 56 FR 29127, June 25, 1991; 59 FR 67018, Dec. 28, 1994; 66 FR 2128, Jan. 10, 2001; 71 FR 57359, Sept. 28, 2006; 73 FR 10962, Feb. 28, 2008; 77 FR 193, Jan. 3, 2012; 79 FR 24198, Apr. 29, 2014]Editorial Note:At 79 FR 24198, Apr. 29, 2014, § 6.302-1 was amended; however, the amendment could not be incorporated because of the inaccurate amendatory instruction.
+[50 FR 52431, Dec. 23, 1985, as amended at 52 FR 21886, June 9, 1987; 53 FR 27463, July 20, 1988; 56 FR 29127, June 25, 1991; 59 FR 67018, Dec. 28, 1994; 66 FR 2128, Jan. 10, 2001; 71 FR 57359, Sept. 28, 2006; 73 FR 10962, Feb. 28, 2008; 77 FR 193, Jan. 3, 2012; 79 FR 24198, Apr. 29, 2014; 84 FR 19842, May 6, 2019]Editorial Note:At 79 FR 24198, Apr. 29, 2014, § 6.302-1 was amended; however, the amendment could not be incorporated because of the inaccurate amendatory instruction.

@@ -6,8 +6,8 @@
 
 (c) *Corporations.* A contract with a corporation shall be signed in the corporate name, followed by the word “by” and the signature and title of the person authorized to sign. The contracting officer shall ensure that the person signing for the corporation has authority to bind the corporation.
 
-(d) *Joint venturers.* A contract with joint venturers may involve any combination of individuals, partnerships, or corporations. The contract shall be signed by each participant in the joint venture in the manner prescribed in paragraphs (a) through (c) above for each type of participant. When a corporation is participating, the contracting officer shall verify that the corporation is authorized to participate in the joint venture.
+(d) *Joint venturers.* A contract with joint venturers may involve any combination of individuals, partnerships, or corporations. The contract shall be signed by each participant in the joint venture in the manner prescribed in paragraphs (a) through (c) of this section for each type of participant. When a corporation is participating, the contracting officer shall verify that the corporation is authorized to participate in the joint venture.
 
-(e) *Agents.* When an agent is to sign the contract, other than as stated in paragraphs (a) through (d) above, the agent's authorization to bind the principal must be established by evidence satisfactory to the contracting officer.
+(e) *Agents.* When an agent is to sign the contract, other than as stated in paragraphs (a) through (d) of this section, the agent's authorization to bind the principal must be established by evidence satisfactory to the contracting officer.
 
-[48 FR 42113, Sept. 19, 1983, as amended at 62 FR 235, Jan. 2, 1997]
+[48 FR 42113, Sept. 19, 1983, as amended at 62 FR 235, Jan. 2, 1997; 84 FR 19840, May 6, 2019]

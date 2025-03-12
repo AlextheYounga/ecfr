@@ -2,7 +2,7 @@
 
 As prescribed in 19.708(a), insert the following clause:
 
-Utilization of Small Business Concerns (Oct 2018)
+Utilization of Small Business Concerns (OCT 2018)
 
 (a) *Definitions.* As used in this contract -
 

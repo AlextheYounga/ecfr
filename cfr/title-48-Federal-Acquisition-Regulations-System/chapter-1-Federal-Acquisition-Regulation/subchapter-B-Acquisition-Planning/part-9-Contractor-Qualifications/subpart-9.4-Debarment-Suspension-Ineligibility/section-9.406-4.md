@@ -22,6 +22,6 @@
 
 (4) Elimination of other causes for which the debarment was imposed; or
 
-(5) Other reasons the debarring offical deems appropriate.
+(5) Other reasons the debarring official deems appropriate.
 
-[48 FR 42142, Sept. 19, 1983, as amended at 54 FR 4968, Jan. 31, 1989; 54 FR 19815, May 8, 1989; 55 FR 21707, May 25, 1990; 61 FR 41473, Aug. 8, 1996; 69 FR 34231, June 18, 2004; 79 FR 24199, Apr. 29, 2014; 83 FR 28148, June 15, 2018]
+[48 FR 42142, Sept. 19, 1983, as amended at 54 FR 4968, Jan. 31, 1989; 54 FR 19815, May 8, 1989; 55 FR 21707, May 25, 1990; 61 FR 41473, Aug. 8, 1996; 69 FR 34231, June 18, 2004; 79 FR 24199, Apr. 29, 2014; 83 FR 28148, June 15, 2018; 84 FR 19845, May 6, 2019]

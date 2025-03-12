@@ -2,7 +2,7 @@
 
 (a) Agencies are required by 41 U.S.C. 3707 and 10 U.S.C. 2305(b)(9) to report to the Attorney General any bids or proposals that evidence a violation of the antitrust laws. These reports are in addition to those required by subpart 9.4.
 
-(b) The antitrust laws are intended to ensure that markets operate competitively. Any agreement or mutual understanding among competing firms that restrains the natural operation of market forces is suspect. Paragraph (c) below identifies behavior patterns that are often associated with antitrust violations. Activities meeting the descriptions in paragraph (c) are not necessarily improper, but they are sufficiently questionable to warrant notifying the appropriate authorities, in accordance with agency procedures.
+(b) The antitrust laws are intended to ensure that markets operate competitively. Any agreement or mutual understanding among competing firms that restrains the natural operation of market forces is suspect. Paragraph (c) of this section identifies behavior patterns that are often associated with antitrust violations. Activities meeting the descriptions in paragraph (c) are not necessarily improper, but they are sufficiently questionable to warrant notifying the appropriate authorities, in accordance with agency procedures.
 
 (c) Practices or events that may evidence violations of the antitrust laws include -
 
@@ -36,4 +36,4 @@
 
 (g) Questions concerning this reporting requirement may be communicated by telephone directly to the Office of the Assistant Attorney General, Antitrust Division.
 
-[48 FR 42108, Sept. 19, 1983, as amended at 49 FR 12974, Mar. 30, 1984; 50 FR 1727, Jan. 11, 1985; 50 FR 52429, Dec. 23, 1985; 55 FR 25526, June 21, 1990; 65 FR 36030, June 6, 2000; 68 FR 28080, May 22, 2003; 79 FR 24196, Apr. 29, 2014]
+[48 FR 42108, Sept. 19, 1983, as amended at 49 FR 12974, Mar. 30, 1984; 50 FR 1727, Jan. 11, 1985; 50 FR 52429, Dec. 23, 1985; 55 FR 25526, June 21, 1990; 65 FR 36030, June 6, 2000; 68 FR 28080, May 22, 2003; 79 FR 24196, Apr. 29, 2014; 84 FR 19840, May 6, 2019]

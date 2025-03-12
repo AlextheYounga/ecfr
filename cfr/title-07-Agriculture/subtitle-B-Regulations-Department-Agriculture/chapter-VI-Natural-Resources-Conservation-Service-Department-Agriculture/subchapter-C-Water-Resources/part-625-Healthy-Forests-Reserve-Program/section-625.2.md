@@ -28,7 +28,7 @@ The following definitions will be applicable to this part:
 
 *Confer* means to discuss for the purpose of providing information; to offer an opinion for consideration; or to meet for discussion, while reserving final decision-making authority with NRCS.
 
-*Conservation practice* means one or more conservation improvements and activities, including structural practices, land management practices, vegetative practices, forest management, and other improvements that benefit the eligible land and optimize environmental benefits, planned and applied according to NRCS standards and specifications.
+*Conservation practice* means one or more conservation improvements, measures, and activities, including structural practices, and measures, land management practices, vegetative treatments, forest management, practices to increase carbon sequestration, practices to improve biological diversity, and other improvements that benefit the eligible land and optimize environmental benefits, planned and applied according to NRCS standards and specifications.
 
 *Conservation treatment* means any and all conservation practices, measures, activities, and works of improvement that have the purpose of alleviating resource concerns, solving or reducing the severity of natural resource use problems, or taking advantage of resource opportunities, including the restoration, enhancement, maintenance, or management of habitat conditions for HFRP purposes.
 
@@ -52,7 +52,7 @@ The following definitions will be applicable to this part:
 
 *HFRP restoration plan* means the document that identifies the conservation treatments that are scheduled for application to land enrolled in HFRP in accordance with NRCS standards and specifications.
 
-*Indian tribe* means any Indian tribe, band, Nation, or other organized group or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688, 43 U.S.C. 1601 *et seq.*), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+*Indian Tribe* means Indian Tribe, band, Nation, Pueblo, or other organized group or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688, 43 U.S.C. 1601-1629h), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
 *Landowner* means an individual or entity having legal ownership of land. The term landowner may also include all forms of collective ownership including joint tenants, tenants in common, and life tenants.
 
@@ -86,4 +86,4 @@ The following definitions will be applicable to this part:
 
 *Technical service provider* means an individual, private-sector entity, or public agency certified by NRCS to provide technical services to program participants in lieu of or on behalf of NRCS.
 
-[75 FR 6546, Feb. 10, 2010, as amended at 79 FR 44640, Aug. 1, 2014]
+[75 FR 6546, Feb. 10, 2010, as amended at 79 FR 44640, Aug. 1, 2014; 84 FR 19702, May 6, 2019]

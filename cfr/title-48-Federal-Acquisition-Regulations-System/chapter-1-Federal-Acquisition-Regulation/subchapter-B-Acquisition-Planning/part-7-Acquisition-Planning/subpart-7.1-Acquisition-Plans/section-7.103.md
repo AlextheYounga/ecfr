@@ -1,10 +1,11 @@
 ##### 7.103 Agency-head responsibilities. #####
 
-The agency head or a designee shall prescribe procedures for -
+The agency head or a designee shall prescribe procedures for the following:
 
-(a) Promoting and providing for full and open competition (see part 6) or, when full and open competition is not required in accordance with part 6, for obtaining competition to the maximum extent practicable, with due regard to the nature of the supplies and services to be acquired (41 U.S.C. 3306(a)(1)).
+(a) Promoting and providing for full and open competition (see part 6) or, when full and open competition is not required in accordance with part 6, for obtaining competition to the maximum extent practicable, with due regard to the nature of the supplies and services to be acquired (10 U.S.C. 2305(a)(1)(A)
+and 41 U.S.C. 3306(a)(1)).
 
-(b) Encouraging offerors to supply commercial items, or to the extent that commercial items suitable to meet the agency needs are not available, nondevelopmental items in response to agency solicitations (10 U.S.C. 2377 and 41 U.S.C 3307); and
+(b) Encouraging offerors to supply commercial items, or to the extent that commercial items suitable to meet the agency needs are not available, nondevelopmental items in response to agency solicitations (10 U.S.C. 2377 and 41 U.S.C 3307).
 
 (c) Ensuring that acquisition planners address the requirement to specify needs, develop specifications, and to solicit offers in such a manner to promote and provide for full and open competition with due regard to the nature of the supplies and services to be acquired (10 U.S.C. 2305(a)(1)(A) and 41 U.S.C. 3306(a)(1)). (See part 6 and 10.002.)
 
@@ -16,15 +17,15 @@ The agency head or a designee shall prescribe procedures for -
 
 (g) Writing plans either on a systems basis, on an individual contract basis, or on an individual order basis, depending upon the acquisition.
 
-(h) Ensuring that the principles of this subpart are used, as appropriate, for those acquisitions that do not require a written plan as well as for those that do;
+(h) Ensuring that the principles of this subpart are used, as appropriate, for those acquisitions that do not require a written plan as well as for those that do.
 
-(i) Designating planners for acquisitions;
+(i) Designating planners for acquisitions.
 
 (j) Reviewing and approving acquisition plans and revisions to these plans to ensure compliance with FAR requirements including 7.104 and part 16. For other than firm-fixed-price contracts, ensuring that the plan is approved and signed at least one level above the contracting officer.
 
-(k) Establishing criteria and thresholds at which design-to-cost and life-cycle-cost techniques will be used;
+(k) Establishing criteria and thresholds at which design-to-cost and life-cycle-cost techniques will be used.
 
-(l) Establishing standard acquisition plan formats, if desired, suitable to agency needs; and
+(l) Establishing standard acquisition plan formats, if desired, suitable to agency needs.
 
 (m) Waiving requirements of detail and formality, as necessary, in planning for acquisitions having compressed delivery or performance schedules because of the urgency of the need.
 

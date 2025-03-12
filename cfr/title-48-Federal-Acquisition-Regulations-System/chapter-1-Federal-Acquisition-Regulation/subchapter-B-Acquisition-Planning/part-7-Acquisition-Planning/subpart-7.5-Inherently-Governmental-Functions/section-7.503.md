@@ -28,7 +28,7 @@
 
 (11) The determination of what Government property is to be disposed of and on what terms (although an agency may give contractors authority to dispose of property at prices within specified ranges and subject to other reasonable conditions deemed appropriate by the agency).
 
-(12) In Federal procurement activities with respect to prime contracts -
+(12) In Federal procurement activities with respect to prime contracts—
 
 (i) Determining what supplies or services are to be acquired by the Government (although an agency may give contractors authority to acquire supplies at prices within specified ranges and subject to other reasonable conditions deemed appropriate by the agency);
 
@@ -48,13 +48,13 @@
 
 (13) The approval of agency responses to Freedom of Information Act requests (other than routine responses that, because of statute, regulation, or agency policy, do not require the exercise of judgment in determining whether documents are to be released or withheld), and the approval of agency responses to the administrative appeals of denials of Freedom of Information Act requests.
 
-(14) The conduct of Administrative hearings to determine the eligibility of any person for a security clearance, or involving actions that affect matters of personal reputation or eligibility to participate in Government programs.
+(14) The conduct of administrative hearings to determine the eligibility of any person for a security clearance, or involving actions that affect matters of personal reputation or eligibility to participate in Government programs.
 
 (15) The approval of Federal licensing actions and inspections.
 
 (16) The determination of budget policy, guidance, and strategy.
 
-(17) The collection, control, and disbursement of fees, royalties, duties, fines, taxes, and other public funds, unless authorized by statute, such as 31 U.S.C. 952 (relating to private collection contractors) and 31 U.S.C. 3718 (relating to private attorney collection services), but not including -
+(17) The collection, control, and disbursement of fees, royalties, duties, fines, taxes, and other public funds, unless authorized by statute, such as 31 U.S.C. 3718 (relating to private collection contractors and private attorney collection services), but not including—
 
 (i) Collection of fees, fines, penalties, costs, or other charges from visitors to or patrons of mess halls, post or base exchange concessions, national parks, and similar entities or activities, or from other persons, where the amount to be collected is easily calculated or predetermined and the funds collected can be easily controlled using standard case management techniques; and
 
@@ -72,7 +72,7 @@
 
 (2) Services that involve or relate to reorganization and planning activities.
 
-(3) Services that involve or relate to analysis, feasibility studies, and strategy options to be used by agency personnel in developing policy.
+(3) Services that involve or relate to analyses, feasibility studies, and strategy options to be used by agency personnel in developing policy.
 
 (4) Services that involve or relate to the development of regulations.
 
@@ -108,4 +108,4 @@
 
 (e) Agency implementation shall include procedures requiring the agency head or designated requirements official to provide the contracting officer, concurrent with transmittal of the statement of work (or any modification thereof), a written determination that none of the functions to be performed are inherently governmental. This assessment should place emphasis on the degree to which conditions and facts restrict the discretionary authority, decision-making responsibility, or accountability of Government officials using contractor services or work products. Disagreements regarding the determination will be resolved in accordance with agency procedures before issuance of a solicitation.
 
-[61 FR 2628, Jan. 26, 1996, as amended at 62 FR 40236, July 25, 1997; 71 FR 57380, Sept. 28, 2006]
+[61 FR 2628, Jan. 26, 1996, as amended at 62 FR 40236, July 25, 1997; 71 FR 57380, Sept. 28, 2006; 84 FR 19843, May 6, 2019]

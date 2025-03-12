@@ -1,4 +1,4 @@
-##### 11.604 Solicitation provisions and contract clauses. #####
+##### 11.604 Solicitation provision and contract clause. #####
 
 (a) Contracting officers shall insert the provision at 52.211-14, Notice of Priority Rating for National Defense, Emergency Preparedness, and Energy Program Use, in solicitations when the contract to be awarded will be a rated order.
 

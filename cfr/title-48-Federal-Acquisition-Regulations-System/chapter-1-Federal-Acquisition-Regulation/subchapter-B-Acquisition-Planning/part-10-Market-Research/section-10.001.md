@@ -1,5 +1,7 @@
 ##### 10.001 Policy. #####
 
+Link to an amendment published at 84 FR 19837, May 6, 2019.
+
 (a) Agencies shall -
 
 (1) Ensure that legitimate needs are identified and trade-offs evaluated to acquire items that meet those needs;

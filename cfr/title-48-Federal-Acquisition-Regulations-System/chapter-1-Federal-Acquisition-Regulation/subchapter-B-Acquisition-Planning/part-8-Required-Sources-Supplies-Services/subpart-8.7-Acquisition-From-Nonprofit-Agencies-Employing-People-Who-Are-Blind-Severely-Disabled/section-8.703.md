@@ -1,4 +1,4 @@
-##### 8.703 Procurement list. #####
+##### 8.703 Procurement List. #####
 
 The Committee maintains a Procurement List of all supplies and services required to be purchased from AbilityOne participating nonprofit agencies. The Procurement List may be accessed at: *http://www.abilityone.gov.* Questions concerning whether a supply item or service is on the Procurement List may be submitted at Internet email address *info@abilityone.gov* or referred to the Committee offices at the following address and telephone number: Committee for Purchase From People Who Are Blind or Severely Disabled, 1401 S. Clark Street, Suite 10800, Arlington, VA 22202-3259, 703-603-7740.
 

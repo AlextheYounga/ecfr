@@ -2,7 +2,7 @@
 
 This part applies to all acquisitions except -
 
-(a) Contracts awarded using the simplified acquisition procedures of part 13 (but see 13.501 for requirements pertaining to sole source acquisition of commercial items under subpart 13.5).
+(a) Contracts awarded using the simplified acquisition procedures of part 13 (but see 13.501 for requirements pertaining to sole source acquisitions of commercial items under subpart 13.5).
 
 (b) Contracts awarded using contracting procedures (other than those addressed in this part) that are expressly authorized by statute;
 
@@ -18,4 +18,4 @@ This part applies to all acquisitions except -
 
 (f) Orders placed against task order and delivery order contracts entered into pursuant to subpart 16.5.
 
-[50 FR 52431, Dec. 23, 1985, as amended at 55 FR 52790, Dec. 21, 1990; 60 FR 34747, July 3, 1995; 60 FR 49725, Sept. 26, 1995; 62 FR 263, Jan. 2, 1997; 62 FR 64917, Dec. 9, 1997]
+[50 FR 52431, Dec. 23, 1985, as amended at 55 FR 52790, Dec. 21, 1990; 60 FR 34747, July 3, 1995; 60 FR 49725, Sept. 26, 1995; 62 FR 263, Jan. 2, 1997; 62 FR 64917, Dec. 9, 1997; 84 FR 19842, May 6, 2019]

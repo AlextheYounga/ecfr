@@ -1,5 +1,7 @@
 ##### 13.201 General. #####
 
+Link to an amendment published at 84 FR 19837, May 6, 2019.
+
 (a) Agency heads are encouraged to delegate micro-purchase authority (see 1.603-3).
 
 (b) The Governmentwide commercial purchase card shall be the preferred method to purchase and to pay for micro-purchases (see 2.101).

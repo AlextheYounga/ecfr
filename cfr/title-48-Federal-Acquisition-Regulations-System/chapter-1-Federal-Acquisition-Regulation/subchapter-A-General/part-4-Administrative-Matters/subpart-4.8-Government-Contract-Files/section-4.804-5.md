@@ -1,6 +1,6 @@
 ##### 4.804-5 Procedures for closing out contract files. #####
 
-(a) The contract administration office is responsible for initiating (automated or manual) administrative closeout of the contract after receiving evidence of its physical completion. At the outset of this process, the contract administration office must review the contract funds status and notify the contracting office of any excess funds the contract administration office might deobligate. When complete, the administrative closeout procedures must ensure that -
+(a) The contract administration office is responsible for initiating (automated or manual) administrative closeout of the contract after receiving evidence of its physical completion. At the outset of this process, the contract administration office must review the contract funds status and notify the contracting office of any excess funds the contract administration office might deobligate. When complete, the administrative closeout procedures must ensure that—
 
 (1) Disposition of classified material is completed;
 
@@ -36,7 +36,7 @@
 
 (15) Contract funds review is completed and excess funds deobligated.
 
-(b) When the actions in paragraph (a) above have been verified, the contracting officer administering the contract must ensure that a contract completion statement, containing the following information, is prepared:
+(b) When the actions in paragraph (a) of this section have been verified, the contracting officer administering the contract must ensure that a contract completion statement, containing the following information, is prepared:
 
 (1) Contract administration office name and address (if different from the contracting office).
 
@@ -62,10 +62,10 @@
 
 (12) Date.
 
-(c) When the statement is completed, the contracting officer must ensure that -
+(c) When the statement is completed, the contracting officer must ensure that—
 
 (1) The signed original is placed in the contracting office contract file (or forwarded to the contracting office for placement in the files if the contract administration office is different from the contracting office); and
 
 (2) A signed copy is placed in the appropriate contract administration file if administration is performed by a contract administration office.
 
-[48 FR 42113, Sept. 19, 1983, as amended at 54 FR 34752, Aug. 21, 1989; 64 FR 72445, Dec. 27, 1999; 76 FR 31408, May 31, 2011]
+[48 FR 42113, Sept. 19, 1983, as amended at 54 FR 34752, Aug. 21, 1989; 64 FR 72445, Dec. 27, 1999; 76 FR 31408, May 31, 2011; 84 FR 19841, May 6, 2019]

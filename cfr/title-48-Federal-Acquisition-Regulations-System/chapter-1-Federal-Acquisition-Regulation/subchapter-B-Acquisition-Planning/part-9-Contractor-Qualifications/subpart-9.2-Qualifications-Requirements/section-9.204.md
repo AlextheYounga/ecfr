@@ -2,7 +2,7 @@
 
 The responsibilities of agency activities that establish qualification requirements include the following:
 
-(a) Arranging publicity for the qualification requirements. If active competition on anticipated future qualification requirements is likely to be fewer than two manufacturers or the products of two manufacturers, the activity responsible for establishment of the qualification requirements must -
+(a) Arranging publicity for the qualification requirements. If active competition on anticipated future qualification requirements is likely to be fewer than two manufacturers or the products of two manufacturers, the activity responsible for establishment of the qualification requirements must—
 
 (1) Periodically furnish through the Governmentwide point of entry (GPE) a notice seeking additional sources or products for qualification unless the contracting officer determines that such publication would compromise the national security.
 
@@ -12,7 +12,8 @@ The responsibilities of agency activities that establish qualification requireme
 
 (c) Listing manufacturers and suppliers whose products are qualified in accordance with agency procedures.
 
-(d) Furnishing QPL's, OML's, or QBL's or the qualification requirements themselves to prospective offerors and the public upon request (see 9.202(a)(2)(i) above).
+(d) Furnishing QPL's, OML's, or QBL's or the qualification requirements themselves to prospective offerors and the public upon request(see
+9.202(a)(2)(i)).
 
 (e) Clarifying, as necessary, qualification requirements.
 
@@ -20,7 +21,7 @@ The responsibilities of agency activities that establish qualification requireme
 
 (g) Withdrawing or omitting qualification of a listed product, manufacturer or offeror, as necessary.
 
-(h) Advising persons furnished any list of products, manufacturers or offerors meeting a qualification requirement and suppliers whose products are on any such list that -
+(h) Advising persons furnished any list of products, manufacturers or offerors meeting a qualification requirement and suppliers whose products are on any such list that—
 
 (1) The list does not constitute endorsement of the product, manufacturer, or other source by the Government;
 
@@ -32,7 +33,7 @@ The responsibilities of agency activities that establish qualification requireme
 
 (5) Use of the list for advertising or publicity is permitted. However, it must not be stated or implied that a particular product or source is the only product or source of that type qualified, or that the Government in any way recommends or endorses the products or the sources listed.
 
-(i) Reexamining a qualified product or manufacturer when -
+(i) Reexamining a qualified product or manufacturer when—
 
 (1) The manufacturer has modified its product, or changed the material or the processing sufficiently so that the validity of previous qualification is questionable;
 
@@ -40,4 +41,4 @@ The responsibilities of agency activities that establish qualification requireme
 
 (3) It is otherwise necessary to determine that the quality of the product is maintained in conformance with the specification.
 
-[50 FR 35476, Aug. 30, 1985, as amended at 66 FR 27413, May 16, 2001; 68 FR 56679, Oct. 1, 2003]
+[50 FR 35476, Aug. 30, 1985, as amended at 66 FR 27413, May 16, 2001; 68 FR 56679, Oct. 1, 2003; 84 FR 19844, May 6, 2019]

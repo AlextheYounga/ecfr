@@ -10,7 +10,7 @@
 
 (e) To obtain the applicable wage determination for each contract action, the contracting officer shall determine the following information concerning the service employees expected to be employed by the contractor and any subcontractors in performing the contract:
 
-(1) Determine the classes of service employees to be utilized in performance of the contract using the Wage and Hour Division's *Service Contract Act Directory of Occupations* (Directory). The Directory can be found on WDOL's Library Page, and is for sale by the Superintendent of Documents, U.S. Government Printing Office.
+(1) Determine the classes of service employees to be utilized in performance of the contract using the Wage and Hour Division's *Service Contract Act Directory of Occupations* (Directory). The Directory can be found on WDOL's Library Page, and is for sale by the Superintendent of Documents, U.S. Government Publishing Office.
 
 (2) Determine the locality where the services will be performed (see 22.1009).
 
@@ -20,4 +20,4 @@
 
 (f) If the contracting officer has questions regarding the procedures for obtaining a wage determination, or questions regarding the selection of a wage determination, the contracting officer should request assistance from the agency labor advisor.
 
-[71 FR 36933, June 28, 2006, as amended at 79 FR 24207, Apr. 29, 2014]
+[71 FR 36933, June 28, 2006, as amended at 79 FR 24207, Apr. 29, 2014; 84 FR 19847, May 6, 2019]

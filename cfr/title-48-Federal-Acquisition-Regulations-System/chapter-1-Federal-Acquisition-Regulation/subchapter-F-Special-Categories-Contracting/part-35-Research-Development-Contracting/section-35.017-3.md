@@ -1,5 +1,7 @@
 ##### 35.017-3 Using an FFRDC. #####
 
+Link to an amendment published at 84 FR 19838, May 6, 2019.
+
 (a) All work placed with the FFRDC must be within the purpose, mission, general scope of effort, or special competency of the FFRDC.
 
 (b) Where the use of the FFRDC by a nonsponsor is permitted by the sponsor, the sponsor shall be responsible for compliance with paragraph (a) of this subsection.

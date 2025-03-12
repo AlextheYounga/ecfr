@@ -1,5 +1,7 @@
 ##### § 447.10 Prohibition against reassignment of provider claims. #####
 
+Link to an amendment published at 84 FR 19728, May 6, 2019.
+
 (a) *Basis and purpose.* This section implements section 1902(a)(32) of the Act which prohibits State payments for Medicaid services to anyone other than a provider or beneficiary, except in specified circumstances.
 
 (b) *Definitions.* For purposes of this section:

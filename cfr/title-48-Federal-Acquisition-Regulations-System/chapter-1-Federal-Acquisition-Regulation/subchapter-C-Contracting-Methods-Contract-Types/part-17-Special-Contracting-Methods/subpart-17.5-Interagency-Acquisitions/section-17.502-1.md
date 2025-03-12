@@ -1,5 +1,7 @@
 ##### 17.502-1 General. #####
 
+Link to an amendment published at 84 FR 19838, May 6, 2019.
+
 (a) *Determination of best procurement approach* - (1) *Assisted acquisitions.* Prior to requesting that another agency conduct an acquisition on its behalf, the requesting agency shall make a determination that the use of an interagency acquisition represents the best procurement approach. As part of the best procurement approach determination, the requesting agency shall obtain the concurrence of the requesting agency's responsible contracting office in accordance with internal agency procedures. At a minimum, the determination shall include an analysis of procurement approaches, including an evaluation by the requesting agency that using the acquisition services of another agency -
 
 (i) Satisfies the requesting agency's schedule, performance, and delivery requirements (taking into account factors such as the servicing agency's authority, experience, and expertise as well as customer satisfaction with the servicing agency's past performance);

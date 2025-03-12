@@ -2,13 +2,13 @@
 
 As prescribed in 12.301(b)(4), insert the following clause:
 
-Contract Terms and Conditions Required to Implement Statutes or Executive Orders - Commercial Items (JAN 2019)
+Contract Terms and Conditions Required to Implement Statutes or Executive Orders - Commercial Items (MAY 2019)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses, which are incorporated in this contract by reference, to implement provisions of law or Executive orders applicable to acquisitions of commercial items:
 
 (1) 52.203-19, Prohibition on Requiring Certain Internal Confidentiality Agreements or Statements (JAN 2017) (section 743 of Division E, Title VII, of the Consolidated and Further Continuing Appropriations Act, 2015 (Pub. L. 113-235) and its successor provisions in subsequent appropriations acts (and as extended in continuing resolutions)).
 
-\_\_ (2) 52.204-23, Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities (Jul 2018) (Section 1634 of Pub. L. 115-91).
+\_\_ (2) 52.204-23, Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities (JUL 2018) (Section 1634 of Pub. L. 115-91).
 
 (3) 52.209-10, Prohibition on Contracting with Inverted Domestic Corporations (NOV 2015).
 
@@ -20,21 +20,21 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 \_\_ (1) 52.203-6, Restrictions on Subcontractor Sales to the Government (SEP 2006), with *Alternate I* (OCT 1995) (41 U.S.C. 4704 and 10 U.S.C. 2402).
 
-\_\_ (2) 52.203-13, Contractor Code of Business Ethics and Conduct (Oct 2015) (41 U.S.C. 3509).
+\_\_ (2) 52.203-13, Contractor Code of Business Ethics and Conduct (OCT 2015) (41 U.S.C. 3509).
 
 \_\_ (3) 52.203-15, Whistleblower Protections under the American Recovery and Reinvestment Act of 2009 (JUN 2010) (Section 1553 of Pub. L. 111-5). (Applies to contracts funded by the American Recovery and Reinvestment Act of 2009.)
 
-\_\_ (4) 52.204-10, Reporting Executive Compensation and First-Tier Subcontract Awards (Oct 2018) (Pub. L. 109-282) (31 U.S.C. 6101 note).
+\_\_ (4) 52.204-10, Reporting Executive Compensation and First-Tier Subcontract Awards (OCT 2018) (Pub. L. 109-282) (31 U.S.C. 6101 note).
 
 \_\_ (5) [Reserved]
 
-\_\_ (6) 52.204-14, Service Contract Reporting Requirements (Oct 2016) (Pub. L. 111-117, section 743 of Div. C).
+\_\_ (6) 52.204-14, Service Contract Reporting Requirements (OCT 2016) (Pub. L. 111-117, section 743 of Div. C).
 
-\_\_ (7) 52.204-15, Service Contract Reporting Requirements for Indefinite-Delivery Contracts (Oct 2016) (Pub. L. 111-117, section 743 of Div. C).
+\_\_ (7) 52.204-15, Service Contract Reporting Requirements for Indefinite-Delivery Contracts (OCT 2016) (Pub. L. 111-117, section 743 of Div. C).
 
 \_\_ (8) 52.209-6, Protecting the Government's Interest When Subcontracting with Contractors Debarred, Suspended, or Proposed for Debarment. (Oct 2015) (31 U.S.C. 6101 note).
 
-\_\_ (9) 52.209-9, Updates of Publicly Available Information Regarding Responsibility Matters (Oct 2018) (41 U.S.C. 2313).
+\_\_ (9) 52.209-9, Updates of Publicly Available Information Regarding Responsibility Matters (OCT 2018) (41 U.S.C. 2313).
 
 \_\_ (10) [Reserved]
 
@@ -60,15 +60,15 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 \_\_ (iii) *Alternate II* (MAR 2004) of 52.219-7.
 
-\_\_ (16) 52.219-8, Utilization of Small Business Concerns (Oct 2018) (15 U.S.C. 637(d)(2) and (3)).
+\_\_ (16) 52.219-8, Utilization of Small Business Concerns (OCT 2018) (15 U.S.C. 637(d)(2) and (3)).
 
 \_\_ (17)(i) 52.219-9, Small Business Subcontracting Plan (AUG 2018) (15 U.S.C. 637(d)(4)).
 
-\_\_ (ii) Alternate I (Nov 2016) of 52.219-9.
+\_\_ (ii) Alternate I (NOV 2016) of 52.219-9.
 
-\_\_ (iii) Alternate II (Nov 2016) of 52.219-9.
+\_\_ (iii) Alternate II (NOV 2016) of 52.219-9.
 
-\_\_ (iv) Alternate III (Nov 2016) of 52.219-9.
+\_\_ (iv) Alternate III (NOV 2016) of 52.219-9.
 
 \_\_ (v) Alternate IV (AUG 2018) of 52.219-9.
 
@@ -88,7 +88,7 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 \_\_ (25) 52.222-3, Convict Labor (JUN 2003) (E.O. 11755).
 
-\_\_ (26) 52.222-19, Child Labor - Cooperation with Authorities and Remedies (Jan 2018) (E.O. 13126).
+\_\_ (26) 52.222-19, Child Labor - Cooperation with Authorities and Remedies (JAN 2018) (E.O. 13126).
 
 \_\_ (27) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
 
@@ -118,9 +118,9 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 \_\_ (ii) Alternate I (MAY 2008) of 52.223-9 (42 U.S.C. 6962(i)(2)(C)). (Not applicable to the acquisition of commercially available off-the-shelf items.)
 
-\_\_ (36) 52.223-11, Ozone-Depleting Substances and High Global Warming Potential Hydrofluorocarbons (June, 2016) (E.O. 13693).
+\_\_ (36) 52.223-11, Ozone-Depleting Substances and High Global Warming Potential Hydrofluorocarbons (JUN 2016) (E.O. 13693).
 
-\_\_ (37) 52.223-12, Maintenance, Service, Repair, or Disposal of Refrigeration Equipment and Air Conditioners (June, 2016) (E.O. 13693).
+\_\_ (37) 52.223-12, Maintenance, Service, Repair, or Disposal of Refrigeration Equipment and Air Conditioners (JUN 2016) (E.O. 13693).
 
 \_\_ (38)(i) 52.223-13, Acquisition of EPEAT®-Registered Imaging Equipment (JUN 2014) (E.O.s 13423 and 13514).
 
@@ -138,9 +138,9 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 \_\_ (42) 52.223-18, Encouraging Contractor Policies to Ban Text Messaging While Driving (AUG 2011)
 
-\_\_ (43) 52.223-20, Aerosols (June, 2016) (E.O. 13693).
+\_\_ (43) 52.223-20, Aerosols (JUN 2016) (E.O. 13693).
 
-\_\_ (44) 52.223-21, Foams (June, 2016) (E.O. 13693).
+\_\_ (44) 52.223-21, Foams (JUN 2016) (E.O. 13693).
 
 \_\_ (45)(i) 52.224-3, Privacy Training (JAN 2017) (5 U.S.C. 552a).
 
@@ -161,7 +161,7 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 \_\_ (49) 52.225-13, Restrictions on Certain Foreign Purchases (JUNE 2008) (E.O.'s, proclamations, and statutes administered by the Office of Foreign Assets Control of the Department of the Treasury).
 
-\_\_ (50) 52.225-26, Contractors Performing Private Security Functions Outside the United States (Oct 2016) (Section 862, as amended, of the National Defense Authorization Act for Fiscal Year 2008; 10 U.S.C. 2302 Note).
+\_\_ (50) 52.225-26, Contractors Performing Private Security Functions Outside the United States (OCT 2016) (Section 862, as amended, of the National Defense Authorization Act for Fiscal Year 2008; 10 U.S.C. 2302 Note).
 
 \_\_ (51) 52.226-4, Notice of Disaster or Emergency Area Set-Aside (NOV 2007) (42 U.S.C. 5150).
 
@@ -171,7 +171,7 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 \_\_ (54) 52.232-30, Installment Payments for Commercial Items (JAN 2017) (41 U.S.C. 4505, 10 U.S.C. 2307(f)).
 
-\_\_ (55) 52.232-33, Payment by Electronic Funds Transfer - System for Award Management (Oct 2018) (31 U.S.C. 3332).
+\_\_ (55) 52.232-33, Payment by Electronic Funds Transfer - System for Award Management (OCT 2018) (31 U.S.C. 3332).
 
 \_\_ (56) 52.232-34, Payment by Electronic Funds Transfer - Other than System for Award Management (JUL 2013) (31 U.S.C. 3332).
 
@@ -179,7 +179,7 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 \_\_ (58) 52.239-1, Privacy or Security Safeguards (AUG 1996) (5 U.S.C. 552a).
 
-\_\_ (59) 52.242-5, Payments to Small Business Subcontractors (JAN 2017)(15 U.S.C. 637(d)(12)).
+\_\_ (59) 52.242-5, Payments to Small Business Subcontractors (JAN 2017)(15 U.S.C. 637(d)(13)).
 
 \_\_ (60)(i) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (Feb 2006) (46 U.S.C. Appx. 1241(b) and 10 U.S.C. 2631).
 
@@ -223,15 +223,15 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 (ii) 52.203-19, Prohibition on Requiring Certain Internal Confidentiality Agreements or Statements (JAN 2017) (section 743 of Division E, Title VII, of the Consolidated and Further Continuing Appropriations Act, 2015 (Pub. L. 113-235) and its successor provisions in subsequent appropriations acts (and as extended in continuing resolutions)).
 
-(iii) 52.204-23, Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities (Jul 2018) (Section 1634 of Pub. L. 115-91).
+(iii) 52.204-23, Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities (JUL 2018) (Section 1634 of Pub. L. 115-91).
 
-(iv) 52.219-8, Utilization of Small Business Concerns (Oct 2018) (15 U.S.C. 637(d)(2) and (3)), in all subcontracts that offer further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds $700,000 ($1.5 million for construction of any public facility), the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
+(iv) 52.219-8, Utilization of Small Business Concerns (OCT 2018) (15 U.S.C. 637(d)(2) and (3)), in all subcontracts that offer further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds $700,000 ($1.5 million for construction of any public facility), the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
 
 (v) 52.222-17, Nondisplacement of Qualified Workers (MAY 2014) (E.O. 13495). Flow down required in accordance with paragraph (l) of FAR clause 52.222-17.
 
 (vi) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
 
-(vii) 52.222-26, Equal Opportunity (Sept 2016) (E.O. 11246).
+(vii) 52.222-26, Equal Opportunity (SEP 2016) (E.O. 11246).
 
 (viii) 52.222-35, Equal Opportunity for Veterans (Oct 2015) (38 U.S.C. 4212).
 
@@ -261,7 +261,7 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 (B) Alternate I (JAN 2017) of 52.224-3.
 
-(xx) 52.225-26, Contractors Performing Private Security Functions Outside the United States (Oct 2016) (Section 862, as amended, of the National Defense Authorization Act for Fiscal Year 2008; 10 U.S.C. 2302 Note).
+(xx) 52.225-26, Contractors Performing Private Security Functions Outside the United States (OCT 2016) (Section 862, as amended, of the National Defense Authorization Act for Fiscal Year 2008; 10 U.S.C. 2302 Note).
 
 (xxi) 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations (MAY 2014) (42 U.S.C. 1792). Flow down required in accordance with paragraph (e) of FAR clause 52.226-6.
 
@@ -291,13 +291,13 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 (B) 52.203 - 15, Whistleblower Protections Under the American Recovery and Reinvestment Act of 2009 (JUN 2010) (Section 1553 of Pub. L. 111-5).
 
-(C) 52.204-23, Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities (Jul 2018) (Section 1634 of Pub. L. 115-91).
+(C) 52.204-23, Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities (JUL 2018) (Section 1634 of Pub. L. 115-91).
 
-(D) 52.219-8, Utilization of Small Business Concerns (Oct 2018) (15 U.S.C. 637(d)(2) and (3)), in all subcontracts that offer further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds $700,000 ($1.5 million for construction of any public facility), the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
+(D) 52.219-8, Utilization of Small Business Concerns (OCT 2018) (15 U.S.C. 637(d)(2) and (3)), in all subcontracts that offer further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds $700,000 ($1.5 million for construction of any public facility), the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
 
 (E) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
 
-(F) 52.222-26, Equal Opportunity (Sept 2016) (E.O. 11246).
+(F) 52.222-26, Equal Opportunity (SEP 2016) (E.O. 11246).
 
 (G) 52.222-35, Equal Opportunity for Veterans (Oct 2015) (38 U.S.C. 4212).
 

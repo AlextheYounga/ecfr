@@ -6,7 +6,7 @@
 
 (c) If the Landowner Protections, or any associated permit, require the adoption of a conservation practice or measure in addition to the conservation practices and measures identified in the applicable HFRP restoration plan, NRCS and the landowner will incorporate the conservation practice or measure into the HFRP restoration plan as an item eligible for cost-share assistance.
 
-(d) Failure to perform planned management activities can result in violation of the easement, 10-year cost-share agreement, or the agreement under which Landowner Protections have been provided. NRCS will work with landowners to plan appropriate management activities.
+(d) Failure to perform planned management activities can result in violation of the easement, 30-year contract, 10-year cost-share agreement, or the agreement under which Landowner Protections have been provided. NRCS will work with landowners to plan appropriate management activities.
 
 (e) The amount and terms and conditions of the cost-share assistance will be subject to the following restrictions on the costs of establishing or installing NRCS approved conservation practices or implementing measures specified in the HFRP restoration plan:
 
@@ -19,3 +19,5 @@
 (g) Cost-share payments may be made only upon a determination by NRCS that an eligible conservation practice or measure has been established in compliance with appropriate standards and specifications. Identified conservation practices and measures may be implemented by the landowner or other designee.
 
 (h) Cost-share payments may be made for the establishment and installation of additional eligible conservation practices and measures, or the maintenance or replacement of an eligible conservation practice or measure, but only if NRCS determines the practice or measure is needed to meet the objectives of HFRP, and the failure of the original conservation practices or measures was due to reasons beyond the control of the landowner.
+
+[75 FR 6546, Feb. 10, 2010, as amended at 84 FR 19703, May 6, 2019]

@@ -14,7 +14,11 @@
 
 (1) Ensure that the classified acquisition is conducted as required by the NISP or agency procedures, as appropriate; and
 
-(2) Include (i) an appropriate Security Requirements clause in the solicitation (see 4.404), and (ii) as appropriate, in solicitations and contracts when the contract may require access to classified information, a requirement for security safeguards in addition to those provided in the clause (52.204-2, Security Requirements).
+(2) Include -
+
+(i) An appropriate Security Requirements clause in the solicitation (see 4.404); and
+
+(ii) As appropriate, in solicitations and contracts when the contract may require access to classified information, a requirement for security safeguards in addition to those provided in the clause (52.204-2, Security Requirements).
 
 (c) *Award phase.* Contracting officers shall inform contractors and subcontractors of the security classifications and requirements assigned to the various documents, materials, tasks, subcontracts, and components of the classified contract as follows:
 
@@ -22,4 +26,4 @@
 
 (2) Contracting officers in agencies not covered by the NISP shall follow agency procedures.
 
-[48 FR 42113, Sept. 19, 1983, as amended at 61 FR 31617, June 20, 1996; 73 FR 21781, Apr. 22, 2008]
+[48 FR 42113, Sept. 19, 1983, as amended at 61 FR 31617, June 20, 1996; 73 FR 21781, Apr. 22, 2008; 84 FR 19840, May 6, 2019]

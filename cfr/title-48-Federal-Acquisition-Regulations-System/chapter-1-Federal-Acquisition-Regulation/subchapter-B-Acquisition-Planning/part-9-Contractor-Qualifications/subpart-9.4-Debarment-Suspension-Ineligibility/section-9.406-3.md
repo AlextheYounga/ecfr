@@ -4,13 +4,13 @@
 
 (b) *Decisionmaking process.* (1) Agencies shall establish procedures governing the debarment decisionmaking process that are as informal as is practicable, consistent with principles of fundamental fairness. These procedures shall afford the contractor (and any specifically named affiliates) an opportunity to submit, in person, in writing, or through a representative, information and argument in opposition to the proposed debarment.
 
-(2) In actions not based upon a conviction or civil judgment, if it is found that the contractor's submission in opposition raises a genuine dispute over facts material to the proposed debarment, agencies shall also -
+(2) In actions not based upon a conviction or civil judgment, if it is found that the contractor's submission in opposition raises a genuine dispute over facts material to the proposed debarment, agencies shall also—
 
 (i) Afford the contractor an opportunity to appear with counsel, submit documentary evidence, present witnesses, and confront any person the agency presents; and
 
 (ii) Make a transcribed record of the proceedings and make it available at cost to the contractor upon request, unless the contractor and the agency, by mutual agreement, waive the requirement for a transcript.
 
-(c) *Notice of proposal to debar.* A notice of proposed debarment shall be issued by the debarring official advising the contractor and any specifically named affiliates, by certified mail, return receipt requested -
+(c) *Notice of proposal to debar.* A notice of proposed debarment shall be issued by the debarring official advising the contractor and any specifically named affiliates, by certified mail, return receipt requested—
 
 (1) That debarment is being considered;
 
@@ -26,7 +26,7 @@
 
 (7) Of the potential effect of an actual debarment.
 
-(d) *Debarring official's decision.* (1) In actions based upon a conviction or judgment, or in which there is no genuine dispute over material facts, the debarring official shall make a decision on the basis of all the information in the administrative record, including any submission made by the contractor. If no suspension is in effect, the decision shall be made within 30 working days after receipt of any information and argument submitted by the contractor, unless the debarring official extends this period for good cause.
+(d) *Debarring official's decision.* (1) In actions based upon a conviction or civil judgment, or in which there is no genuine dispute over material facts, the debarring official shall make a decision on the basis of all the information in the administrative record, including any submission made by the contractor. If no suspension is in effect, the decision shall be made within 30 working days after receipt of any information and argument submitted by the contractor, unless the debarring official extends this period for good cause.
 
 (2)(i) In actions in which additional proceedings are necessary as to disputed material facts, written findings of fact shall be prepared. The debarring official shall base the decision on the facts as found, together with any information and argument submitted by the contractor and any other information in the administrative record.
 
@@ -36,7 +36,7 @@
 
 (3) In any action in which the proposed debarment is not based upon a conviction or civil judgment, the cause for debarment must be established by a preponderance of the evidence.
 
-(e) *Notice of debarring official's decision.* (1) If the debarring official decides to impose debarment, the contractor and any affiliates involved shall be given prompt notice by certified mail, return receipt requested -
+(e) *Notice of debarring official's decision.* (1) If the debarring official decides to impose debarment, the contractor and any affiliates involved shall be given prompt notice by certified mail, return receipt requested—
 
 (i) Referring to the notice of proposed debarment;
 
@@ -54,4 +54,4 @@
 
 (3) With regard to information that may be covered by a disclosure exemption under the Freedom of Information Act, the debarring official shall follow the procedures at 9.105-2(b)(2)(iv).
 
-[48 FR 42142, Sept. 19, 1983, as amended at 54 FR 19815, May 8, 1989; 59 FR 67033, Dec. 28, 1994; 75 FR 14066, Mar. 23, 2010; 77 FR 201, Jan. 3, 2012; 83 FR 42572, Aug. 22, 2018]
+[48 FR 42142, Sept. 19, 1983, as amended at 54 FR 19815, May 8, 1989; 59 FR 67033, Dec. 28, 1994; 75 FR 14066, Mar. 23, 2010; 77 FR 201, Jan. 3, 2012; 83 FR 42572, Aug. 22, 2018; 84 FR 19845, May 6, 2019]

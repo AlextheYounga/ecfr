@@ -1,10 +1,14 @@
 ##### 7.105 Contents of written acquisition plans. #####
 
-In order to facilitate attainment of the acquisition objectives, the plan must identify those milestones at which decisions should be made (*see* paragraph (b)(21) below). The plan must address all the technical, business, management, and other significant considerations that will control the acquisition. The specific content of plans will vary, depending on the nature, circumstances, and stage of the acquisition. In preparing the plan, the planner must follow the applicable instructions in paragraphs (a) and (b) below, together with the agency's implementing procedures. Acquisition plans for service contracts or orders must describe the strategies for implementing performance-based acquisition methods or must provide rationale for not using those methods (see subpart 37.6).
+In order to facilitate attainment of the acquisition objectives, the plan must identify those milestones at which decisions should be made (*see* paragraph (b)(21) of this section). The plan must address all the technical, business, management, and other significant considerations that will control the acquisition. The specific content of plans will vary, depending on the nature, circumstances, and stage of the acquisition. In preparing the plan, the planner must follow the applicable instructions in paragraphs (a) and (b) of this section, together with the agency's implementing procedures. Acquisition plans for service contracts or orders must describe the strategies for implementing performance-based acquisition methods or must provide rationale for not using those methods (see subpart 37.6).
 
 (a) *Acquisition background and objectives* - (1) *Statement of need.* Introduce the plan by a brief statement of need. Summarize the technical and contractual history of the acquisition. Discuss feasible acquisition alternatives, the impact of prior acquisitions on those alternatives, and any related in-house effort.
 
-(2) *Applicable conditions.* State all significant conditions affecting the acquisition, such as (i) requirements for compatibility with existing or future systems or programs and (ii) any known cost, schedule, and capability or performance constraints.
+(2) *Applicable conditions.* State all significant conditions affecting the acquisition, such as -
+
+(i) Requirements for compatibility with existing or future systems or programs; and
+
+(ii) Any known cost, schedule, and capability or performance constraints.
 
 (3) *Cost.* Set forth the established cost goals for the acquisition and the rationale supporting them, and discuss related cost concepts to be employed, including, as appropriate, the following items:
 
@@ -50,7 +54,7 @@ In order to facilitate attainment of the acquisition objectives, the plan must i
 
 (3) *Contract type selection.* Discuss the rationale for the selection of contract type. For other than firm-fixed-price contracts, *see* 16.103(d) for additional documentation guidance. Acquisition personnel shall document the acquisition plan with findings that detail the particular facts and circumstances, (*e.g.,* complexity of the requirements, uncertain duration of the work, contractor's technical capability and financial responsibility, or adequacy of the contractor's accounting system), and associated reasoning essential to support the contract type selection. The contracting officer shall ensure that requirements and technical personnel provide the necessary documentation to support the contract type selection.
 
-(4) *Source-selection procedures.* Discuss the source-selection procedures for the acquisition, including the timing for submission and evaluation of proposals, and the relationship of evaluation factors to the attainment of the acquisition objectives (see Subpart 15.3). When an EVMS is required (see FAR 34.202(a)) and a pre-award IBR is contemplated, the acquisition plan must discuss -
+(4) *Source-selection procedures.* Discuss the source-selection procedures for the acquisition, including the timing for submission and evaluation of proposals, and the relationship of evaluation factors to the attainment of the acquisition objectives (see subpart 15.3). When an EVMS is required (see FAR 34.202(a)) and a pre-award IBR is contemplated, the acquisition plan must discuss -
 
 (i) How the pre-award IBR will be considered in the source selection decision;
 
@@ -82,7 +86,7 @@ In order to facilitate attainment of the acquisition objectives, the plan must i
 
 (9) *Contractor versus Government performance.* Address the consideration given to OMB Circular No. A-76 (see subpart 7.3).
 
-(10) *Inherently governmental functions.* Address the consideration given to Subpart 7.5.
+(10) *Inherently governmental functions.* Address the consideration given to subpart 7.5.
 
 (11) *Management information requirements.* Discuss, as appropriate, what management system will be used by the Government to monitor the contractor's effort. If an Earned Value Management System is to be used, discuss the methodology the Government will employ to analyze and use the earned value data to assess and monitor contract performance. In addition, discuss how the offeror's/contractor's EVMS will be verified for compliance with the Electronic Industries Alliance Standard 748 (EIA-748), and the timing and conduct of integrated baseline reviews (whether prior to or post award). (See 34.202.)
 
@@ -92,7 +96,7 @@ In order to facilitate attainment of the acquisition objectives, the plan must i
 
 (14) *Logistics considerations.* Describe -
 
-(i) The assumptions determining contractor or agency support, both initially and over the life of the acquisition, including consideration of contractor or agency maintenance and servicing (see Subpart 7.3), support for contracts to be performed in a designated operational area or supporting a diplomatic or consular mission (see 25.301-3); and distribution of commercial items;
+(i) The assumptions determining contractor or agency support, both initially and over the life of the acquisition, including consideration of contractor or agency maintenance and servicing (see subpart 7.3), support for contracts to be performed in a designated operational area or supporting a diplomatic or consular mission (see 25.301-3); and distribution of commercial items;
 
 (ii) The reliability, maintainability, and quality assurance requirements, including any planned use of warranties (see part 46);
 
@@ -126,7 +130,7 @@ In order to facilitate attainment of the acquisition objectives, the plan must i
 
 (iv) The Occupational Safety and Health Act;
 
-(v) Support Anti-terrorism by Fostering Effective Technologies Act of 2002 (SAFETY Act) (see Subpart 50.2);
+(v) Support Anti-terrorism by Fostering Effective Technologies Act of 2002 (SAFETY Act) (see subpart 50.2);
 
 (vi) Foreign sales implications;
 
@@ -136,7 +140,7 @@ In order to facilitate attainment of the acquisition objectives, the plan must i
 
 (21) *Milestones for the acquisition cycle.* Address the following steps and any others appropriate:
 
-Acquisition plan approval.Statement of work.Specifications.Data requirements.Completion of acquisition-package preparation.Purchase request.Justification and approval for other than full and open competition where applicable and/or any required D&F approval.Issuance of synopsis.Issuance of solicitation.Evaluations of proposals, audits, and field reports.Beginning and completion of negotiations.Contract preparation, review, and clearance.Contract award.
+Acquisition plan approval.Statement of work.Specifications.Data requirements.Completion of acquisition-package preparation.Purchase request.Justification and approval for other than full and open competition where applicable and/or any required D&F approval.Issuance of synopsis.Issuance of solicitation.Evaluation of proposals, audits, and field reports.Beginning and completion of negotiations.Contract preparation, review, and clearance.Contract award.
 
 (22) *Identification of participants in acquisition plan preparation.* List the individuals who participated in preparing the acquisition plan, giving contact information for each.
 

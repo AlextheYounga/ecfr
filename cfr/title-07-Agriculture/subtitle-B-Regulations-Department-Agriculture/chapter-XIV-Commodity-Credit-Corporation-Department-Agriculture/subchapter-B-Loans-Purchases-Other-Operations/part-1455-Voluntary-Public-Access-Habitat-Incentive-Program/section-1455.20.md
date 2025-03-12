@@ -14,7 +14,7 @@
 
 (4) *Appropriate wildlife habitat.* The application will be evaluated to determine whether the applicant demonstrates expertise in providing technical assistance with respect to establishing and maintaining appropriate wildlife habitat on public access land.
 
-(5) *Strengthening wildlife habitat for lands under a USDA conservation program.* The application will be evaluated to determine whether the project proposes to provide incentives to increase public hunting and other recreational access on land enrolled under a USDA conservation program.
+(5) *Strengthening wildlife habitat for lands under a USDA conservation program.* The application will be evaluated to determine whether the project proposes to provide incentives to increase public hunting and other recreational access on land enrolled under a USDA conservation program, including lands enrolled in the Wetland Reserve Easement component of the Agricultural Conservation Easement Program, part 1468, subpart C of this chapter.
 
 (6) *Additional private, Federal, State, or tribal government resources.* The application will be evaluated to determine the extent to which the support letters provided by other organizations involved with the project demonstrate specific and quantified commitments to the project. Applications that demonstrate additional resources will receive more points, all else being equal, than those that do not.
 
@@ -30,4 +30,4 @@
 
 (12) *Qualifications of those performing the tasks.* The application will be reviewed to determine if key personnel have appropriate knowledge, skills, and abilities with respect to wildlife-dependent recreation including hunting or fishing on privately-held farm, ranch, and forest land, funds control, grants management, performance monitoring and evaluation, or other activities relevant to the success of the proposed public access program.
 
-[75 FR 39140, July 8, 2010, as amended at 79 FR 44641, Aug. 1, 2014]
+[75 FR 39140, July 8, 2010, as amended at 79 FR 44641, Aug. 1, 2014; 84 FR 19703, May 6, 2019]

@@ -6,6 +6,6 @@
 
 (c) The contracting office shall use the Standard Form 1403 to request a capability survey of organizations employing people who are blind or have other severe disabilities.
 
-(d) The contracting office shall furnish a copy of the completed survey, or notice that the AbilityOne participating nonprofit agency is capable and the survey is waived, to the Executive Director, Committee for Purchase from People Who Are Blind or Severely Disabled.
+(d) The contracting office shall furnish a copy of the completed survey, or notice that the AbilityOne participating nonprofit agency is capable and the survey is waived, to the Executive Director, Committee for Purchase From People Who Are Blind or Severely Disabled.
 
-[59 FR 67029, Dec. 28, 1994, as amended at 73 FR 53995, Sept. 17, 2008; 79 FR 24199, Apr. 29, 2014]
+[59 FR 67029, Dec. 28, 1994, as amended at 73 FR 53995, Sept. 17, 2008; 79 FR 24199, Apr. 29, 2014; 84 FR 19844, May 6, 2019]

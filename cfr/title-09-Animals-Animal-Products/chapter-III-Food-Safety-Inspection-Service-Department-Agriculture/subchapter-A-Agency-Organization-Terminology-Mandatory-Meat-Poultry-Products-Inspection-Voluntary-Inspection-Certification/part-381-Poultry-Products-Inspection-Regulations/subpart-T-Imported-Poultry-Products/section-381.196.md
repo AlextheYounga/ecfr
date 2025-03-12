@@ -62,8 +62,8 @@
 
 1 Listing of any country in this section does not relieve the poultry products of such country from applicable requirements under other Federal laws.
 
-Australia (ratites only).Canada.Chile.France.Great Britain.Hong Kong.Israel.Mexico.2
+Australia (ratites only).Canada.Chile.France.Great Britain.Honduras.Hong Kong.Israel.Mexico.2
 
 2 May export to the United States only processed poultry products slaughtered under Federal inspection in the United States or in a country eligible to export slaughtered poultry products to the United States.
 
-New Zealand (ratites only).People's Republic of China.2Republic of Korea[37 FR 9706, May 16, 1972, as amended at 43 FR 8117, Feb. 28, 1978; 52 FR 23021, June 17, 1987; 54 FR 41049, Oct. 5, 1989; 54 FR 43951, Oct. 30, 1989; 60 FR 38668, July 28, 1995; 61 FR 38868, July 25, 1996; 64 FR 49645, Sept. 14, 1999; 68 FR 37071, June 23, 2003; 71 FR 20871, Apr. 24, 2006; 71 FR 43961, Aug. 3, 2006; 72 FR 61796, Nov. 1, 2007; 79 FR 16661, Mar. 26, 2014; 79 FR 56234, Sept. 19, 2014]
+New Zealand (ratites only).People's Republic of China.2Republic of Korea[37 FR 9706, May 16, 1972, as amended at 43 FR 8117, Feb. 28, 1978; 52 FR 23021, June 17, 1987; 54 FR 41049, Oct. 5, 1989; 54 FR 43951, Oct. 30, 1989; 60 FR 38668, July 28, 1995; 61 FR 38868, July 25, 1996; 64 FR 49645, Sept. 14, 1999; 68 FR 37071, June 23, 2003; 71 FR 20871, Apr. 24, 2006; 71 FR 43961, Aug. 3, 2006; 72 FR 61796, Nov. 1, 2007; 79 FR 16661, Mar. 26, 2014; 79 FR 56234, Sept. 19, 2014; 84 FR 13520, Apr. 5, 2019]

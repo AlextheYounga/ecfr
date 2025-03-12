@@ -261,11 +261,11 @@ Small Business Subcontracting Plan (AUG 2018)
 
 (End of clause)
 
-*Alternate I (Nov 2016).* As prescribed in 19.708(b)(1)(i), substitute the following paragraph (c)(1) for paragraph (c)(1) of the basic clause:
+*Alternate I (NOV 2016).* As prescribed in 19.708(b)(1)(i), substitute the following paragraph (c)(1) for paragraph (c)(1) of the basic clause:
 
 (c)(1) The apparent low bidder, upon request by the Contracting Officer, shall submit a subcontracting plan, where applicable, that separately addresses subcontracting with small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns. If the bidder is submitting an individual subcontracting plan, the plan must separately address subcontracting with small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns, with a separate part for the basic contract and separate parts for each option (if any). The plan shall be included in and made a part of the resultant contract. The subcontracting plan shall be submitted within the time specified by the Contracting Officer. Failure to submit the subcontracting plan shall make the bidder ineligible for the award of a contract.
 
-*Alternate II (Nov 2016).* As prescribed in 19.708(b)(1)(ii), substitute the following paragraph (c)(1) for paragraph (c)(1) of the basic clause:
+*Alternate II (NOV 2016).* As prescribed in 19.708(b)(1)(ii), substitute the following paragraph (c)(1) for paragraph (c)(1) of the basic clause:
 
 (c)(1) Proposals submitted in response to this solicitation shall include a subcontracting plan that separately addresses subcontracting with small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns. If the Offeror is submitting an individual subcontracting plan, the plan must separately address subcontracting with small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns, with a separate part for the basic contract and separate parts for each option (if any). The plan shall be included in and made a part of the resultant contract. The subcontracting plan shall be negotiated within the time specified by the Contracting Officer. Failure to submit and negotiate a subcontracting plan shall make the Offeror ineligible for award of a contract.
 

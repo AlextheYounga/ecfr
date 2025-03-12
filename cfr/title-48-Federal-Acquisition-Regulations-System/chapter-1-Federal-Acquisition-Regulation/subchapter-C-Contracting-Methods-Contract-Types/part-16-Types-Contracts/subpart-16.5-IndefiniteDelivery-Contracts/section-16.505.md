@@ -1,10 +1,10 @@
 ##### 16.505 Ordering. #####
 
-(a) *General* (1) In general, the contracting officer does not synopsize orders under indefinite-delivery contracts; except see 16.505(a)(4) and (11), and 16.505(b)(2)(ii)(D).
+(a) *General.* (1) In general, the contracting officer does not synopsize orders under indefinite-delivery contracts; except see 16.505(a)(4) and (11), and 16.505(b)(2)(ii)(D).
 
 (2) Individual orders shall clearly describe all services to be performed or supplies to be delivered so the full cost or price for the performance of the work can be established when the order is placed. Orders shall be within the scope, issued within the period of performance, and be within the maximum value of the contract.
 
-(3) Performance-based acquisition methods must be used to the maximum extent practicable, if the contract or order is for services (see 37.102(a) and Subpart 37.6).
+(3) Performance-based acquisition methods must be used to the maximum extent practicable, if the contract or order is for services (see 37.102(a) and subpart 37.6).
 
 (4) The following requirements apply when procuring items peculiar to one manufacturer:
 
@@ -54,7 +54,7 @@
 
 (9) In accordance with section 1427(b) of Public Law 108-136 (40 U.S.C. 1103 note), orders placed under multi-agency contracts for services that substantially or to a dominant extent specify performance of architect-engineer services, as defined in 2.101, shall -
 
-(i) Be awarded using the procedures at Subpart 36.6; and
+(i) Be awarded using the procedures at subpart 36.6; and
 
 (ii) Require the direct supervision of a professional architect or engineer licensed, registered or certified in the State, Federal District, or outlying area, in which the services are to be performed.
 
@@ -122,7 +122,7 @@
 
 (*5*) Whether contractors could be encouraged to respond to potential orders by outreach efforts to promote exchanges of information, such as -
 
-(*i*) Seeking comments from two or more contractors on draft statements of work;
+(*i*) Seeking comments from two or more contractors on draft statements of work; or
 
 (*ii*) Using a multiphased approach when effort required to respond to a potential order may be resource intensive (*e.g.,* requirements are complex or need continued development), where all contractors are initially considered on price considerations (*e.g.,* rough estimates), and other considerations as appropriate (*e.g.,* proposed conceptual approach, past performance). The contractors most likely to submit the highest value solutions are then selected for one-on-one sessions with the Government to increase their understanding of the requirements, provide suggestions for refining requirements, and discuss risk reduction measures.
 
@@ -142,7 +142,7 @@
 
 (F) In accordance with section 1331 of Public Law 111-240 (15 U.S.C. 644(r)), contracting officers may, at their discretion, set aside orders for any of the small business concerns identified in 19.000(a)(3). When setting aside orders for small business concerns, the specific small business program eligibility requirements identified in part 19 apply.
 
-(ii) The justification for an exception to fair opportunity shall be in writing as specified in paragraphs (b)(2)(ii)(A) or (B) of this section. No justification is needed for the exception described in paragraph (b)(2)(i)(F) of this section.
+(ii) The justification for an exception to fair opportunity shall be in writing as specified in paragraph (b)(2)(ii)(A) or (B) of this section. No justification is needed for the exception described in paragraph (b)(2)(i)(F) of this section.
 
 (A) *Orders exceeding $3,500, but not exceeding the simplified acquisition threshold.* The contracting officer shall document the basis for using an exception to the fair opportunity process. If the contracting officer uses the logical follow-on exception, the rationale shall describe why the relationship between the initial order and the follow-on is logical (*e.g.,* in terms of scope, period of performance, or value).
 
@@ -166,7 +166,7 @@
 
 (*9*) Evidence that any supporting data that is the responsibility of technical or requirements personnel (*e.g.,* verifying the Government's minimum needs or requirements or other rationale for an exception to fair opportunity) and which form a basis for the justification have been certified as complete and accurate by the technical or requirements personnel.
 
-(*10*) A written determination by the approving official that one of the circumstances in (b)(2)(i)(A) through (E) of this section applies to the order.
+(*10*) A written determination by the approving official that one of the circumstances in paragraphs (b)(2)(i)(A) through (E) of this section applies to the order.
 
 (C) *Approval.* (*1*) For proposed orders exceeding the simplified acquisition threshold, but not exceeding $700,000, the ordering activity contracting officer's certification that the justification is accurate and complete to the best of the ordering activity contracting officer's knowledge and belief will serve as approval, unless a higher approval level is established in accordance with agency procedures.
 
@@ -184,13 +184,13 @@
 
 (*iii*) An official named in paragraph (b)(2)(ii)(C)(*4*) of this section.
 
-(*4*) For a proposed order exceeding $68 million (or, for DoD, NASA, and the Coast Guard, over $93 million), the justification must be approved by the senior procurement executive of the agency placing the order. This authority is not delegable, except in the case of the Under Secretary of Defense for Acquisition, Technology, and Logistics, acting as the senior procurement executive for the Department of Defense.
+(*4*) For a proposed order exceeding $68 million (or, for DoD, NASA, and the Coast Guard, over $93 million), the justification must be approved by the senior procurement executive of the agency placing the order. This authority is not delegable, except in the case of the Under Secretary of Defense for Acquisition and Sustainment, acting as the senior procurement executive for the Department of Defense.
 
 (D) *Posting.* (*1*) Except as provided in paragraph (b)(2)(ii)(D)(*5*) of this section, within 14 days after placing an order exceeding the simplified acquisition threshold that does not provide for fair opportunity in accordance with 16.505(b), the contract officer shall -
 
 (*i*) Publish a notice in accordance with 5.301; and
 
-(*ii*) Make publicly available the justification required at (b)(2)(ii)(B) of this section.
+(*ii*) Make publicly available the justification required at paragraph (b)(2)(ii)(B) of this section.
 
 (*2*) The justification shall be made publicly available -
 
@@ -200,15 +200,15 @@
 
 (*iii*) Must remain posted for a minimum of 30 days.
 
-(*3*) In the case of an order permitted under paragraph (b)(2)(i)(A) of this subsection, the justification shall be posted within 30 days after award of the order.
+(*3*) In the case of an order permitted under paragraph (b)(2)(i)(A) of this section, the justification shall be posted within 30 days after award of the order.
 
-(*4*) Contracting officers shall carefully screen all justifications for contractor proprietary data and remove all such data, and such references and citations as are necessary to protect the proprietary data, before making the justifications available for public inspection. Contracting officers shall also be guided by the exemptions to disclosure of information contained in the Freedom of Information Act (5 U.S.C. 552) and the prohibitions against disclosure in 24.202 in determining whether other data should be removed. Although the submitter notice process set out in Executive Order 12600 “Predisclosure Notification Procedures for Confidential Commercial Information” does not apply, if the justification appears to contain proprietary data, the contracting officer should provide the contractor that submitted the information an opportunity to review the justification for proprietary data before making the justification available for public inspection, redacted as necessary. This process must not prevent or delay the posting of the justification in accordance with the timeframes required in paragraphs (*1*) and (*3*).
+(*4*) Contracting officers shall carefully screen all justifications for contractor proprietary data and remove all such data, and such references and citations as are necessary to protect the proprietary data, before making the justifications available for public inspection. Contracting officers shall also be guided by the exemptions to disclosure of information contained in the Freedom of Information Act (5 U.S.C. 552) and the prohibitions against disclosure in 24.202 in determining whether other data should be removed. Although the submitter notice process set out in Executive Order 12600 “Predisclosure Notification Procedures for Confidential Commercial Information” does not apply, if the justification appears to contain proprietary data, the contracting officer should provide the contractor that submitted the information an opportunity to review the justification for proprietary data before making the justification available for public inspection, redacted as necessary. This process must not prevent or delay the posting of the justification in accordance with the timeframes required in (paragraphs (b)(2)(ii)(D)(1) and (3) of this section).
 
 (*5*) The posting requirement of this section does not apply -
 
 (*i*) When disclosure would compromise the national security (*e.g.,* would result in disclosure of classified information) or create other security risks; or
 
-(*ii*) To a small business set-aside under paragraph (b)(2)(i)(F).
+(*ii*) To a small business set-aside under paragraph (b)(2)(i)(F) of this section.
 
 (3) *Pricing orders.* If the contract did not establish the price for the supply or service, the contracting officer must establish prices for each order using the policies and methods in subpart 15.4.
 
@@ -226,11 +226,11 @@
 
 (7) *Decision documentation for orders.* (i) The contracting officer shall document in the contract file the rationale for placement and price of each order, including the basis for award and the rationale for any tradeoffs among cost or price and non-cost considerations in making the award decision. This documentation need not quantify the tradeoffs that led to the decision.
 
-(ii) The contract file shall also identify the basis for using an exception to the fair opportunity process (*see* paragraph (b)(2)).
+(ii) The contract file shall also identify the basis for using an exception to the fair opportunity process (*see* paragraph (b)(2) of this section).
 
 (8) *Task-order and delivery-order ombudsman.* The head of the agency shall designate a task-order and delivery-order ombudsman. The ombudsman must review complaints from contractors and ensure they are afforded a fair opportunity to be considered, consistent with the procedures in the contract. The ombudsman must be a senior agency official who is independent of the contracting officer and may be the agency's advocate for competition.
 
-(c) *Limitation on ordering period for task-order contracts for advisory and assistance services.* (1) Except as provided for in paragraphs (c)(2) and (c)(3), the ordering period of a task-order contract for advisory and assistance services, including all options or modifications, normally may not exceed 5 years.
+(c) *Limitation on ordering period for task-order contracts for advisory and assistance services.* (1) Except as provided for in paragraphs (c)(2) and (3) of this section, the ordering period of a task-order contract for advisory and assistance services, including all options or modifications, normally may not exceed 5 years.
 
 (2) The 5-year limitation does not apply when -
 

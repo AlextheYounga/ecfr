@@ -1,6 +1,6 @@
 ##### 6.202 Establishing or maintaining alternative sources. #####
 
-(a) Agencies may exclude a particular source from a contract action in order to establish or maintain an alternative source or sources for the supplies or services being acquired if the agency head determines that to do so would -
+(a) Agencies may exclude a particular source from a contract action in order to establish or maintain an alternative source or sources for the supplies or services being acquired if the agency head determines that to do so would—
 
 (1) Increase or maintain competition and likely result in reduced overall costs for the acquisition, or for any anticipated acquisition;
 
@@ -14,10 +14,10 @@
 
 (6) Satisfy a critical need for medical, safety, or emergency supplies.
 
-(b)(1) Every proposed contract action under the authority of paragraph (a) above shall be supported by a determination and findings (D&F) (see subpart 1.7) signed by the head of the agency or designee. This D&F shall not be made on a class basis.
+(b)(1) Every proposed contract action under the authority of paragraph (a) of this section shall be supported by a determination and findings (D&F) (see subpart 1.7) signed by the head of the agency or designee. This D&F shall not be made on a class basis.
 
 (2) Technical and requirements personnel are responsible for providing all necessary data to support their recommendation to exclude a particular source.
 
-(3) When the authority in (a)(1) above is cited, the findings shall include a description of the estimated reduction in overall costs and how the estimate was derived.
+(3) When the authority in (a)(1) of this section is cited, the findings shall include a description of the estimated reduction in overall costs and how the estimate was derived.
 
-[50 FR 1729, Jan. 11, 1985, as amended at 60 FR 42653, Aug. 16, 1995]
+[50 FR 1729, Jan. 11, 1985, as amended at 60 FR 42653, Aug. 16, 1995; 84 FR 19842, May 6, 2019]

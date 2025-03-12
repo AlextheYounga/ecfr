@@ -10,7 +10,7 @@ Any contractor receiving a contract with a value greater than the simplified acq
 
 (3) Each contract modification that causes the value of a contract without a subcontracting plan to exceed $700,000 ($1.5 million for construction), shall require the contractor to submit a subcontracting plan for the contract, if the contracting officer determines that subcontracting opportunities exist.
 
-(b) Subcontracting plans (see subparagraphs (a)(1) and (2) above) are not required -
+(b) Subcontracting plans (see paragraphs (a)(1) and (2) of this section) are not required -
 
 (1) From small business concerns;
 
@@ -20,8 +20,8 @@ Any contractor receiving a contract with a value greater than the simplified acq
 
 (4) For modifications that are within the scope of the contract and the contract does not contain the clause at 52.219-8, Utilization of Small Business Concerns.
 
-(c) As stated in 15 U.S.C. 637(d)(8), any contractor or subcontractor failing to comply in good faith with the requirements of the subcontracting plan is in material breach of its contract. Further, 15 U.S.C. 637(d)(4)(F) directs that a contractor's failure to make a good faith effort to comply with the requirements of the subcontracting plan shall result in the imposition of liquidated damages.
+(c) As stated in 15 U.S.C. 637(d)(9), any contractor or subcontractor failing to comply in good faith with the requirements of the subcontracting plan is in material breach of its contract. Further, 15 U.S.C. 637(d)(4)(F) directs that a contractor's failure to make a good faith effort to comply with the requirements of the subcontracting plan shall result in the imposition of liquidated damages.
 
-(d) As authorized by 15 U.S.C. 637(d)(11), certain costs incurred by a mentor firm in providing developmental assistance to a protégé firm under the Department of Defense Pilot Mentor-Protégé Program, may be credited as if they were subcontract awards to a protégé firm for the purpose of determining whether the mentor firm attains the applicable goals under any subcontracting plan entered into with any executive agency. However, the mentor-protégé agreement must have been approved by the Director, Small Business Programs of the cognizant DoD military department or defense agency, before developmental assistance costs may be credited against subcontract goals. A list of approved agreements may be obtained at *http://www.acq.osd.mil/osbp/mentor\_protege/.*
+(d) As authorized by 15 U.S.C. 637(d)(12), certain costs incurred by a mentor firm in providing developmental assistance to a protégé firm under the Department of Defense Pilot Mentor-Protégé Program, may be credited as if they were subcontract awards to a protégé firm for the purpose of determining whether the mentor firm attains the applicable goals under any subcontracting plan entered into with any executive agency. However, the mentor-protégé agreement must have been approved by the Director, Small Business Programs of the cognizant DoD military department or defense agency, before developmental assistance costs may be credited against subcontract goals. A list of approved agreements may be obtained at *http://www.acq.osd.mil/osbp/mentor\_protege/.*
 
 [48 FR 42240, Sept. 19, 1983]Editorial Note:For Federal Register citations affecting section 19.702, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -24,7 +24,11 @@
 
 The existence or nonexistence of any mitigating factors or remedial measures such as set forth in this paragraph (a) is not necessarily determinative of a contractor's present responsibility. Accordingly, if a cause for debarment exists, the contractor has the burden of demonstrating, to the satisfaction of the debarring official, its present responsibility and that debarment is not necessary.
 
-(b) Debarment constitutes debarment of all divisions or other organizational elements of the contractor, unless the debarment decision is limited by its terms to specific divisions, organizational elements, or commodities. The debarring official may extend the debarment decision to include any affiliates of the contractor if they are (1) specifically named and (2) given written notice of the proposed debarment and an opportunity to respond (see 9.406-3(c)).
+(b) Debarment constitutes debarment of all divisions or other organizational elements of the contractor, unless the debarment decision is limited by its terms to specific divisions, organizational elements, or commodities. The debarring official may extend the debarment decision to include any affiliates of the contractor if they are—
+
+(1) Specifically named; and
+
+(2) Given written notice of the proposed debarment and an opportunity to respond (see 9.406-3(c)).
 
 (c) A contractor's debarment, or proposed debarment, shall be effective throughout the executive branch of the Government, unless the agency head or a designee (except see 23.506(e)) states in writing the compelling reasons justifying continued business dealings between that agency and the contractor.
 
@@ -32,4 +36,4 @@ The existence or nonexistence of any mitigating factors or remedial measures suc
 
 (2) When debarring a contractor from the award of acquisition contracts and from the purchase of Federal personal property, the debarment notice shall so indicate and the appropriate FAR and FPMR citations shall be included.
 
-[48 FR 42142, Sept. 19, 1983, as amended at 52 FR 6121, Feb. 27, 1987; 54 FR 19815, May 8, 1989; 55 FR 21707, May 25, 1990; 55 FR 30465, July 26, 1990; 56 FR 67129, Dec. 27, 1991; 59 FR 67033, Dec. 28, 1994]
+[48 FR 42142, Sept. 19, 1983, as amended at 52 FR 6121, Feb. 27, 1987; 54 FR 19815, May 8, 1989; 55 FR 21707, May 25, 1990; 55 FR 30465, July 26, 1990; 56 FR 67129, Dec. 27, 1991; 59 FR 67033, Dec. 28, 1994; 84 FR 19845, May 6, 2019]

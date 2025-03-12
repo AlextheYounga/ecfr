@@ -1,5 +1,7 @@
 ##### § 985.236 Salable quantities and allotment percentages - 2017-2018 marketing year. #####
 
+Link to an amendment published at 84 FR 19709, May 6, 2019.
+
 The salable quantity and allotment percentage for each class of spearmint oil during the marketing year beginning on June 1, 2017, shall be as follows:
 
 (a) Class 1 (Scotch) oil - a salable quantity of 774,645 pounds and an allotment percentage of 36 percent.

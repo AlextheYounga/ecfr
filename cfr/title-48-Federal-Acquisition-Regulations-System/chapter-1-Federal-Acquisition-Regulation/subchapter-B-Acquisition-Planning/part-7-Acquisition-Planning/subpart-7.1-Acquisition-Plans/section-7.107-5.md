@@ -6,7 +6,7 @@
 
 (3) This notification shall be documented in the contract file.
 
-(b) *Notification to public of rationale for bundled requirement.* (1) The agency shall publish on its Web site a list and rationale for any bundled requirement for which the agency solicited offers or issued an award. The notification shall be made within 30 days of the agency's data certification regarding the validity and verification of data entered in the Federal Procurement Data System to the Office of Federal Procurement Policy (see 4.604).
+(b) *Notification to public of rationale for bundled requirement.* (1) The agency shall publish on its website a list and rationale for any bundled requirement for which the agency solicited offers or issued an award. The notification shall be made within 30 days of the agency's data certification regarding the validity and verification of data entered in the Federal Procurement Data System to the Office of Federal Procurement Policy (see 4.604).
 
 (2) In addition, the agency is encouraged to provide notification of the rationale for any bundled requirement to the GPE, before issuance of the solicitation (see 5.201).
 
@@ -20,6 +20,6 @@
 
 (4) List of requirements that have been added or deleted for the follow-on.
 
-(d) *Public notification of bundling policy.* In accordance with 15 U.S.C. 644(q)(2)(A)(ii), agencies shall publish the Governmentwide policy regarding contract bundling, including regarding the solicitation of teaming and joint ventures, on their agency Web site.
+(d) *Public notification of bundling policy.* In accordance with 15 U.S.C. 644(q)(2)(A)(ii), agencies shall publish the Governmentwide policy regarding contract bundling, including regarding the solicitation of teaming and joint ventures, on their agency website.
 
-[81 FR 67770, Sept. 30, 2016]
+[81 FR 67770, Sept. 30, 2016, as amended at 84 FR 19843, May 6, 2019]

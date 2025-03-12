@@ -1,6 +1,6 @@
 ##### 8.802 Policy. #####
 
-(a) Government printing must be done by or through the Government Printing Office (GPO) (44 U.S.C. 501), unless -
+(a) Government printing must be done by or through the Government Publishing Office (GPO) (44 U.S.C. 501), unless—
 
 (1) The GPO cannot provide the printing service (44 U.S.C. 504);
 
@@ -16,4 +16,4 @@
 
 (2) Paper and envelopes for use by Executive agencies outside the District of Columbia and stocked by GSA shall be requisitioned from GSA in accordance with the procedures listed in Federal Property Management Regulations (FPMR) 41 CFR part 101, subpart 101-26.3.
 
-[48 FR 42129, Sept. 19, 1983, as amended at 52 FR 9037, Mar. 20, 1987; 54 FR 48982, Nov. 28, 1989; 59 FR 67032, Dec. 28, 1994]
+[48 FR 42129, Sept. 19, 1983, as amended at 52 FR 9037, Mar. 20, 1987; 54 FR 48982, Nov. 28, 1989; 59 FR 67032, Dec. 28, 1994; 84 FR 19844, May 6, 2019]

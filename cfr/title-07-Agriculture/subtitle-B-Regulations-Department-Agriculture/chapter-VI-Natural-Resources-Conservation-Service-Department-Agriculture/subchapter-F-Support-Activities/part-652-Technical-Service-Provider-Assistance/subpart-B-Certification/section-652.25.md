@@ -19,3 +19,11 @@
 (d) NRCS will, within 60 days, make a determination on the recommendation for certification issued by the recommending organization. If NRCS determines that all requirements for certification are met by the recommended individual(s), NRCS will perform the actions described in paragraphs (c)(1) through (c)(3) of § 652.22.
 
 (e) NRCS may terminate an agreement with a recommending organization if concerns or problems with its accreditation program, its recommendations for certification, or other requirements under the agreement arise.
+
+(f) NRCS may also enter into an agreement with a recommending organization that NRCS determines has an adequate accreditation program to certify individuals as technical service providers for specific practices or categories of technical service in accordance with this part.
+
+(g) After submission of an Application for Certification under § 652.21, NRCS may certify an individual that has an appropriate specialty certification, including a sustainability specialty certification, as qualified to provide technical services for a specific practice, category, or categories of technical service.
+
+(h) NRCS will identify, on its website, which recommending organizations or specialty certifications are recognized by NRCS as meeting NRCS quality criteria for certification of individuals under this part.
+
+[75 FR 6845, Feb. 12, 2010, as amended at 84 FR 19703, May 6, 2019]

@@ -6,7 +6,7 @@
 
 (2) The CAR must be confirmed for accuracy by the contracting officer prior to release of the contract award. The CAR must then be completed in FPDS within three business days after contract award.
 
-(3) For any action awarded in accordance with 6.302-2 or pursuant to any of the authorities listed at FAR subpart 18.2, the CAR must be completed in FPDS within 30 days after contract award.
+(3) For any action awarded in accordance with 6.302-2 or pursuant to any of the authorities listed at subpart 18.2, the CAR must be completed in FPDS within 30 days after contract award.
 
 (4) When the contracting office receives written notification that a contractor has changed its size status in accordance with the clause at 52.219-28, Post-Award Small Business Program Rerepresentation, the contracting officer shall update the size status in FPDS within 30 days after receipt of contractor's notification of rerepresentation.
 
@@ -14,4 +14,4 @@
 
 (c) The chief acquisition officer of each agency required to report its contract actions must submit to the General Services Administration (GSA), in accordance with FPDS guidance, within 120 days after the end of each fiscal year, an annual certification of whether, and to what degree, agency CAR data for the preceding fiscal year is complete and accurate.
 
-[73 FR 21776, Apr. 22, 2008, as amended at 76 FR 68044, Nov. 2, 2011; 77 FR 69717, Nov. 20, 2012; 79 FR 43582, July 25, 2014]
+[73 FR 21776, Apr. 22, 2008, as amended at 76 FR 68044, Nov. 2, 2011; 77 FR 69717, Nov. 20, 2012; 79 FR 43582, July 25, 2014; 84 FR 19840, May 6, 2019]

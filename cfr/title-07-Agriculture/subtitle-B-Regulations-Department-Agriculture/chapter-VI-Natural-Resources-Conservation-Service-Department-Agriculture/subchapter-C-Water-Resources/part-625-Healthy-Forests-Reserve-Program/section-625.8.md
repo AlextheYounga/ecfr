@@ -8,10 +8,16 @@
 
 (c) *Acceptance of offered easement or 30-year contract compensation.* (1) NRCS will not acquire any easement or 30-year contract unless the landowner accepts the amount of the payment that is offered by NRCS. The payment may or may not equal the fair market value of the interests and rights to be conveyed by the landowner under the easement or 30-year contract. By voluntarily participating in the program, a landowner waives any claim to additional compensation based on fair market value.
 
-(2) Payments may be made in a single payment or no more than 10 annual payments of equal or unequal size, as agreed to between NRCS and the landowner.
+(2) Payments may be made in a single payment or through annual payment, as agreed to between NRCS and the landowner.
 
 (d) If a landowner believes they may be eligible for a bargain sale tax deduction that is the difference between the fair market value of the easement conveyed to the United States and the easement payment made to the landowner, it is the landowner's responsibility to discuss those matters with the Internal Revenue Service. NRCS disclaims any representations concerning the tax implications of any easement or cost-share transaction.
 
-(e) *Per acre payments.* If easement payments are calculated on a per acre basis, adjustment to stated easement payment will be made based on final determination of acreage.
+(e) The amount, terms, and conditions of the cost-share assistance will be subject to the following restrictions on the costs of establishing or installing NRCS-approved conservation practices or implementing measures specified in the HFRP restoration plan:
 
-(f) *Ecosystem Services Credits for Conservation Improvements.* USDA recognizes that environmental benefits will be achieved by implementing conservation practices and activities funded through HFRP, and that environmental credits may be gained as a result of implementing activities compatible with the purposes of a HFRP easement, 30-year contract, or restoration cost-share agreement. NRCS asserts no direct or indirect interest in these credits. However, NRCS retains the authority to ensure the requirements of a HFRP easement, contract, cost-share agreement, or restoration plan are met consistent with §§ 625.9 through 625.13 of this part. Where activities required under an environmental credit agreement may affect land covered under a HFRP easement, restoration cost-share agreement, or 30-year contract, participants are highly encouraged to request a compatibility assessment from NRCS prior to entering into such agreements.
+(1) On enrolled land subject to a permanent easement or an easement for the maximum duration allowed under State law, NRCS will offer to pay not less than 75 percent nor more than 100 percent of the actual or average cost, and;
+
+(2) On enrolled land subject to a 30-year easement or 30-year contract, NRCS will offer to pay not more than 75 percent of the actual or average cost.
+
+(f) On enrolled land subject to a 10-year cost-share agreement without an associated easement, NRCS will offer to pay not more than 50 percent of the actual or average costs.
+
+[75 FR 6546, Feb. 10, 2010, as amended at 84 FR 19703, May 6, 2019]

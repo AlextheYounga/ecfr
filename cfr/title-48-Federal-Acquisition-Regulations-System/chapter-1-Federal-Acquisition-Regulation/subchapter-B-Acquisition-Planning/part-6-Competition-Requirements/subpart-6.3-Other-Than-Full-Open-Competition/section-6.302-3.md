@@ -2,15 +2,15 @@
 
 (a) *Authority.* (1) Citations: 10 U.S.C. 2304(c)(3) or 41 U.S.C. 3304(a)(3).
 
-(2) Full and open competition need not to be provided for when it is necessary to award the contract to a particular source or sources in order -
+(2) Full and open competition need not be provided for when it is necessary to award the contract to a particular source or sources in order -
 
-(i) To maintain a facility, producer, manufacturer, or other supplier available for furnishing supplies or services in case of a national emergency or to achieve industrial mobilization,
+(i) To maintain a facility, producer, manufacturer, or other supplier available for furnishing supplies or services in case of a national emergency or to achieve industrial mobilization;
 
-(ii) To establish or maintain an essential engineering, research, or development capability to be provided by an educational or other nonprofit institution or a federally funded research and development center, or
+(ii) To establish or maintain an essential engineering, research, or development capability to be provided by an educational or other nonprofit institution or a federally funded research and development center; or
 
 (iii) To acquire the services of an expert or neutral person for any current or anticipated litigation or dispute.
 
-(b) *Application.* (1) Use of the authority in paragraph (a)(2)(i) above may be appropriate when it is necessary to -
+(b) *Application.* (1) Use of the authority in paragraph (a)(2)(i) of this section may be appropriate when it is necessary to -
 
 (i) Keep vital facilities or suppliers in business or make them available in the event of a national emergency;
 
@@ -28,13 +28,13 @@
 
 (vi) Divide current production requirements among two or more contractors to provide for an adequate industrial mobilization base.
 
-(2) Use of the authority in paragraph (a)(2)(ii) above may be appropriate when it is necessary to -
+(2) Use of the authority in paragraph (a)(2)(ii) of this section may be appropriate when it is necessary to -
 
 (i) Establish or maintain an essential capability for theoretical analyses, exploratory studies, or experiments in any field of science or technology;
 
 (ii) Establish or maintain an essential capability for engineering or developmental work calling for the practical application of investigative findings and theories of a scientific or technical nature; or
 
-(iii) Contract for supplies or services as are necessary incident to paragraphs (b)(2)(i) or (ii) above.
+(iii) Contract for supplies or services as are necessary incident to paragraph (b)(2)(i) or (ii) of this section.
 
 (3) Use of the authority in paragraph (a)(2)(iii) of this section may be appropriate when it is necessary to acquire the services of either -
 
@@ -48,4 +48,4 @@
 
 (c) *Limitations.* Contracts awarded using this authority shall be supported by the written justifications and approvals described in 6.303 and 6.304.
 
-[50 FR 52431, Dec. 23, 1985, as amended at 60 FR 42654, Aug. 16, 1995; 60 FR 44548, Aug. 28, 1995; 62 FR 235, Jan. 2, 1997; 63 FR 58594, 58602, Oct. 30, 1998; 66 FR 2128, Jan. 10, 2001; 68 FR 28080, May 22, 2003; 77 FR 56741, Sept. 13, 2012; 79 FR 24198, Apr. 29, 2014]
+[50 FR 52431, Dec. 23, 1985, as amended at 60 FR 42654, Aug. 16, 1995; 60 FR 44548, Aug. 28, 1995; 62 FR 235, Jan. 2, 1997; 63 FR 58594, 58602, Oct. 30, 1998; 66 FR 2128, Jan. 10, 2001; 68 FR 28080, May 22, 2003; 77 FR 56741, Sept. 13, 2012; 79 FR 24198, Apr. 29, 2014; 84 FR 19842, May 6, 2019]

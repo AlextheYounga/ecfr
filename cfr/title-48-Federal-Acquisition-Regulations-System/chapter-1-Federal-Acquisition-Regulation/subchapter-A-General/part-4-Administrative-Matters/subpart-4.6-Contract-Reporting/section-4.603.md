@@ -1,5 +1,7 @@
 ##### 4.603 Policy. #####
 
+Link to an amendment published at 84 FR 19838, May 6, 2019.
+
 (a) In accordance with the Federal Funding Accountability and Transparency Act of 2006 (Pub. L. 109-282), all unclassified Federal award data must be publicly accessible.
 
 (b) Executive agencies shall use FPDS to maintain publicly available information about all unclassified contract actions exceeding the micro-purchase threshold, and any modifications to those actions that change previously reported contract action report data, regardless of dollar value.

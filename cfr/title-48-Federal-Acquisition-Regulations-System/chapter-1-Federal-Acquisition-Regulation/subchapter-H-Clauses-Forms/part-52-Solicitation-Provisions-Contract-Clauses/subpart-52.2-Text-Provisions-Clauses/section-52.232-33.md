@@ -1,12 +1,12 @@
-##### 52.232-33 Payment by Electronic Funds Transfer - System for Award Management. #####
+##### 52.232-33 Payment by Electronic Funds Transfer—System for Award Management. #####
 
 As prescribed in 32.1110(a)(1), insert the following clause:
 
-Payment by Electronic Funds Transfer - System for Award Management (Oct 2018)
+Payment by Electronic Funds Transfer—System for Award Management (OCT 2018)
 
 (a) *Method of payment.* (1) All payments by the Government under this contract shall be made by electronic funds transfer (EFT), except as provided in paragraph (a)(2) of this clause. As used in this clause, the term “EFT” refers to the funds transfer and may also include the payment information transfer.
 
-(2) In the event the Government is unable to release one or more payments by EFT, the Contractor agrees to either -
+(2) In the event the Government is unable to release one or more payments by EFT, the Contractor agrees to either—
 
 (i) Accept payment by check or some other mutually agreeable method of payment; or
 
@@ -18,7 +18,7 @@ Payment by Electronic Funds Transfer - System for Award Management (Oct 2018)
 
 (d) *Suspension of payment.* If the Contractor's EFT information in SAM is incorrect, then the Government need not make payment to the Contractor under this contract until correct EFT information is entered into SAM; and any invoice or contract financing request shall be deemed not to be a proper invoice for the purpose of prompt payment under this contract. The prompt payment terms of the contract regarding notice of an improper invoice and delays in accrual of interest penalties apply.
 
-(e) *Liability for uncompleted or erroneous transfers.* (1) If an uncompleted or erroneous transfer occurs because the Government used the Contractor's EFT information incorrectly, the Government remains responsible for -
+(e) *Liability for uncompleted or erroneous transfers.* (1) If an uncompleted or erroneous transfer occurs because the Government used the Contractor's EFT information incorrectly, the Government remains responsible for—
 
 (i) Making a correct payment;
 
@@ -26,7 +26,7 @@ Payment by Electronic Funds Transfer - System for Award Management (Oct 2018)
 
 (iii) Recovering any erroneously directed funds.
 
-(2) If an uncompleted or erroneous transfer occurs because the Contractor's EFT information was incorrect, or was revised within 30 days of Government release of the EFT payment transaction instruction to the Federal Reserve System, and -
+(2) If an uncompleted or erroneous transfer occurs because the Contractor's EFT information was incorrect, or was revised within 30 days of Government release of the EFT payment transaction instruction to the Federal Reserve System, and—
 
 (i) If the funds are no longer under the control of the payment office, the Government is deemed to have made payment and the Contractor is responsible for recovery of any erroneously directed funds; or
 

@@ -1,6 +1,6 @@
 ##### 8.405-6 Limiting sources. #####
 
-Orders placed or BPAs established under Federal Supply Schedules are exempt from the requirements in part 6. However, an ordering activity must justify its action when restricting consideration in accordance with paragraphs (a) or (b) of this section -
+Orders placed or BPAs established under Federal Supply Schedules are exempt from the requirements in part 6. However, an ordering activity must justify its action when restricting consideration in accordance with paragraph (a) or (b) of this section -
 
 (a) *Orders or BPAs exceeding the micro-purchase threshold based on a limited sources justification* - (1) *Circumstances justifying limiting the source.* (i) For a proposed order or BPA with an estimated value exceeding the micro-purchase threshold not placed or established in accordance with the procedures in 8.405-1, 8.405-2, or 8.405-3, the only circumstances that may justify the action are -
 
@@ -46,7 +46,7 @@ Orders placed or BPAs established under Federal Supply Schedules are exempt from
 
 (B) For proposed orders or BPAs with an estimated value exceeding the simplified acquisition threshold, the justification required by paragraph (c) of this section.
 
-(C) The documentation in paragraph (b)(2)(i) and the justification in paragraph (c) of this subsection is subject to the screening requirement in paragraph (a)(2)(iii) of this section.
+(C) The documentation in paragraph (b)(2)(i) of this section and the justification in paragraph (c) of this section is subject to the screening requirement in paragraph (a)(2)(iii) of this section.
 
 (ii) The posting requirement of paragraph (b)(3)(i) of this section does not apply when -
 
@@ -56,7 +56,7 @@ Orders placed or BPAs established under Federal Supply Schedules are exempt from
 
 (C) The agency's senior procurement executive makes a written determination that access through e-Buy is not in the Government's interest.
 
-(4) When applicable, the documentation and posting requirements in paragraphs (b)(2) and (3) of this subsection apply only to the portion of the order or BPA that requires a brand-name item. If the justification and approval is to cover only the portion of the acquisition which is brand-name, then it should so state; the approval level requirements will then only apply to that portion.
+(4) When applicable, the documentation and posting requirements in paragraphs (b)(2) and (3) of this section apply only to the portion of the order or BPA that requires a brand-name item. If the justification and approval is to cover only the portion of the acquisition which is brand-name, then it should so state; the approval level requirements will then only apply to that portion.
 
 (c) *An order or BPA with an estimated value exceeding the simplified acquisition threshold.* (1) For a proposed order or BPA exceeding the simplified acquisition threshold, the requiring activity shall assist the ordering activity contracting officer in the preparation of the justification. The justification shall cite that the acquisition is conducted under the authority of the Multiple-Award Schedule Program (*see* 8.401).
 
@@ -86,7 +86,7 @@ Orders placed or BPAs established under Federal Supply Schedules are exempt from
 
 (d) *Justification approvals.* (1) For a proposed order or BPA with an estimated value exceeding the simplified acquisition threshold, but not exceeding $700,000, the ordering activity contracting officer's certification that the justification is accurate and complete to the best of the ordering activity contracting officer's knowledge and belief will serve as approval, unless a higher approval level is established in accordance with agency procedures.
 
-(2) For a proposed order or BPA with an estimated value exceeding $700,000, but not exceeding $13.5 million, the justification must be approved by the advocate for competition of the activity placing the order, or by an official named in paragraph (d)(3) or (d)(4) of this section. This authority is not delegable.
+(2) For a proposed order or BPA with an estimated value exceeding $700,000, but not exceeding $13.5 million, the justification must be approved by the advocate for competition of the activity placing the order, or by an official named in paragraph (d)(3) or (4) of this section. This authority is not delegable.
 
 (3) For a proposed order or BPA with an estimated value exceeding $13.5 million, but not exceeding $68 million (or, for DoD, NASA, and the Coast Guard, not exceeding $93 million), the justification must be approved by -
 
@@ -94,12 +94,12 @@ Orders placed or BPAs established under Federal Supply Schedules are exempt from
 
 (ii) A designee who -
 
-(A) If a member of the armed forces, is a general or flag officer;
+(A) If a member of the armed forces, is a general or flag officer; or
 
 (B) If a civilian, is serving in a position in a grade above GS-15 under the General Schedule (or in a comparable or higher position under another schedule); or
 
 (iii) An official named in paragraph (d)(4) of this section.
 
-(4) For a proposed order or BPA with an estimated value exceeding $68 million (or, for DoD, NASA, and the Coast Guard, over $93 million), the justification must be approved by the senior procurement executive of the agency placing the order. This authority is not delegable, except in the case of the Under Secretary of Defense for Acquisition, Technology, and Logistics, acting as the senior procurement executive for the Department of Defense.
+(4) For a proposed order or BPA with an estimated value exceeding $68 million (or, for DoD, NASA, and the Coast Guard, over $93 million), the justification must be approved by the senior procurement executive of the agency placing the order. This authority is not delegable, except in the case of the Under Secretary of Defense for Acquisition and Sustainment, acting as the senior procurement executive for the Department of Defense.
 
-[76 FR 14555, Mar. 16, 2011, as amended at 77 FR 193, Jan. 3, 2012; 79 FR 24199, Apr. 29, 2014; 80 FR 38296, July 2, 2015; 83 FR 42572, Aug. 22, 2018]
+[76 FR 14555, Mar. 16, 2011, as amended at 77 FR 193, Jan. 3, 2012; 79 FR 24199, Apr. 29, 2014; 80 FR 38296, July 2, 2015; 83 FR 42572, Aug. 22, 2018; 84 FR 19844, May 6, 2019]
