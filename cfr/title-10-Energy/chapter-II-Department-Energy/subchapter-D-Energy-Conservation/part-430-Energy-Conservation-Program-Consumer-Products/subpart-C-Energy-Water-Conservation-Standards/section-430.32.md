@@ -1,6 +1,6 @@
 ##### § 430.32 Energy and water conservation standards and their compliance dates. #####
 
-Link to an amendment published at 88 FR 21814, Apr. 11, 2023.Link to an amendment published at 88 FR 31138, May 15, 2023.Link to an amendment published at 88 FR 34362, May 26, 2023.Link to an amendment published at 88 FR 34704, May 30, 2023.
+Link to an amendment published at 88 FR 21814, Apr. 11, 2023.Link to an amendment published at 88 FR 34362, May 26, 2023.Link to an amendment published at 88 FR 34704, May 30, 2023.Link to an amendment published at 88 FR 39959, June 20, 2023.
 
 The energy and water (in the case of faucets, showerheads, water closets, and urinals) conservation standards for the covered product classes are:
 
@@ -958,9 +958,11 @@ AV = Total adjusted volume, expressed in ft<sup>3</sup>, as calculated according
 
 (ii) Be sold at retail only in a package containing one lamp.
 
-(cc) *Portable air conditioners.* Single-duct portable air conditioners and dual-duct portable air conditioners manufactured on or after January 10, 2025 must have a combined energy efficiency ratio (CEER) in Btu/Wh no less than SACC: Seasonally adjusted cooling capacity in Btu/h, as determined in appendix CC of subpart B of this part.
+(cc) *Portable air conditioners.* Single-duct portable air conditioners and dual-duct portable air conditioners manufactured on or after January 10, 2025 must have a combined energy efficiency ratio (CEER) in Btu/Wh no less than:
 
-![](/graphics/er10ja20.020.gif)
+![](/graphics/er15my23.015.gif)
+
+*SACC:* For single-speed portable air conditioners, SACC is seasonally adjusted cooling capacity in Btu/h, as determined in appendix CC of subpart B of this part. For variable-speed portable air conditioners, SACC shall be SACCFull in Btu/h, as determined in appendix CC of subpart B of this part.
 
 (dd) *General service lamp.* Beginning July 25, 2022 the sale of any general service lamp that does not meet a minimum efficacy standard of 45 lumens per watt is prohibited.
 

@@ -1,6 +1,6 @@
 ##### § 430.2 Definitions. #####
 
-Link to an amendment published at 88 FR 31126, May 15, 2023.Link to an amendment published at 88 FR 33544, May 24, 2023.Link to an amendment published at 88 FR 34703, May 30, 2023.
+Link to an amendment published at 88 FR 33544, May 24, 2023.Link to an amendment published at 88 FR 34703, May 30, 2023.
 
 For purposes of this part, words shall be defined as provided for in section 321 of the Act and as follows—
 
@@ -211,6 +211,8 @@ For purposes of this part, words shall be defined as provided for in section 321
 (2) A CCT less than 2,500 K or greater than 7,000 K.
 
 *Combination cooler refrigeration product* means any cooler-refrigerator, cooler-refrigerator-freezer, or cooler-freezer.
+
+*Combined-duct portable air conditioner* means a portable air conditioner for which condenser inlet and outlet air streams flow through separate ducts housed in a single duct structure.
 
 *Commercial and industrial power supply* means a power supply that is used to convert electric current into DC or lower-voltage AC current, is not distributed in commerce for use with a consumer product, and may include any of the following characteristics:
 

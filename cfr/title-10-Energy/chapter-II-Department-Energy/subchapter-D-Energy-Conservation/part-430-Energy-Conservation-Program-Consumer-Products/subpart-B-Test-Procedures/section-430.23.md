@@ -1,6 +1,6 @@
 ##### § 430.23 Test procedures for the measurement of energy and water consumption. #####
 
-Link to an amendment published at 88 FR 31126, May 15, 2023.Link to an amendment published at 88 FR 33545, May 24, 2023.Link to an amendment published at 88 FR 38627, June 13, 2023.
+Link to an amendment published at 88 FR 33545, May 24, 2023.Link to an amendment published at 88 FR 38627, June 13, 2023.
 
 When the test procedures of this section call for rounding off of test results, and the results fall equally between two values of the nearest dollar, kilowatt-hour, or other specified nearest value, the result shall be rounded up to the nearest higher value.
 
@@ -443,15 +443,29 @@ ETGE = EAGE + ETLPWhere:EAGE is the conventional gas cooking top annual active m
 
 (cc) *Furnace Fans.* The energy consumption of a single unit of a furnace fan basic model expressed in watts per 1000 cubic feet per minute (cfm) to the nearest integer shall be calculated in accordance with Appendix AA of this subpart.
 
-(dd) *Portable air conditioners.* (1) For single-duct and dual-duct portable air conditioners, measure the seasonally adjusted cooling capacity, expressed in British thermal units per hour (Btu/h), and the combined energy efficiency ratio, expressed in British thermal units per watt-hour (Btu/Wh) in accordance with appendix CC of this subpart.
+(dd) *Portable air conditioners.*
 
-(2) Determine the estimated annual operating cost for portable air conditioners, expressed in dollars per year, by multiplying the following two factors:
+(1) When using appendix CC to this subpart, measure the seasonally adjusted cooling capacity (“SACC”) in British thermal units per hour (Btu/h), and the combined energy efficiency ratio, in British thermal units per watt-hour (Btu/Wh) in accordance with sections 5.2 and 5.4 of appendix CC to this subpart, respectively. When using appendix CC1 to this subpart, measure the SACC in Btu/h, and the combined energy efficiency ratio, in Btu/Wh in accordance with sections 5.2 and 5.4, respectively, of appendix CC1 to this subpart.
 
-(i) For dual-duct portable air conditioners, the sum of AEC95 multiplied by 0.2, AEC83 multiplied by 0.8, and AECT as measured in accordance with section 5.3 of appendix CC of this subpart; or for single-duct portable air conditioners, the sum of AECSD and AECT as measured in accordance with section 5.3 of appendix CC of this subpart; and
+(2) When using appendix CC to this subpart, determine the estimated annual operating cost for portable air conditioners, in dollars per year and rounded to the nearest whole number, by multiplying a representative average unit cost of electrical energy in dollars per kilowatt-hour as provided by the Secretary by the total annual energy consumption (“AEC”), determined as follows:
 
-(ii) A representative average unit cost of electrical energy in dollars per kilowatt-hour as provided by the Secretary.
+(i) For dual-duct single-speed portable air conditioners, the sum of AECDD\_95 multiplied by 0.2, AECDD\_83 multiplied by 0.8, and AECT as measured in accordance with section 5.3 of appendix CC to this subpart.
 
-(iii) Round the resulting product to the nearest dollar per year.
+(ii) For single-duct single-speed portable air conditioners, the sum of AECSD and AECT as measured in accordance with section 5.3 of appendix CC to this subpart.
+
+(iii) For dual-duct variable-speed portable air conditioners the overall sum of
+
+(A) The sum of AECDD\_95\_Full and AECia/om, multiplied by 0.2, and
+
+(B) The sum of AECDD\_83\_Low and AECia/om, multiplied by 0.8, as measured in accordance with section 5.3 of appendix CC to this subpart.
+
+(iv) For single-duct variable-speed portable air conditioners, the overall sum of
+
+(A) The sum of AECSD\_Full and AECia/om, multiplied by 0.2, and
+
+(B) The sum of AECSD\_Low and AECia/om, multiplied by 0.8, as measured in accordance with section 5.3 of appendix CC to this subpart.
+
+(3) When using appendix CC1 to this subpart, determine the estimated annual operating cost for portable air conditioners, in dollars per year and rounded to the nearest whole number, by multiplying a representative average unit cost of electrical energy in dollars per kilowatt-hour as provided by the Secretary by the total AEC. The total AEC is the sum of AEC95, AEC83, AECoc, and AECia, as measured in accordance with section 5.3 of appendix CC1 to this subpart.
 
 (ee) *Integrated light-emitting diode lamp.* (1) The input power of an integrated light-emitting diode lamp must be measured in accordance with section 3 of appendix BB of this subpart.
 
