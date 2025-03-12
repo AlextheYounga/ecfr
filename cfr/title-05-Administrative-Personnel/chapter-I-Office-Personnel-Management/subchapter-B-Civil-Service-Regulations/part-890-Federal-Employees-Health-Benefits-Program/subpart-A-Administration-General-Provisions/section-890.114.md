@@ -1,5 +1,7 @@
 ##### § 890.114 Surprise billing. #####
 
+Link to an amendment published at 86 FR 66696, Nov. 23, 2021.
+
 (a) A carrier must comply with requirements described in 26 CFR 54.9816-3T through 54.9816-8T, 54.9817-1T, 54.9817-2T and 54.9822-1T; 29 CFR 2590.716-3 through 2590.716-8, 2590.717-1, 2590.717-2 and 2590.722; and 45 CFR 149.30, 149.110 through 149.140, 149.310, 149.510, and 149.520, in the same manner as such provisions apply to a group health plan or health insurance issuer offering group or individual health insurance coverage, subject to 5 U.S.C. 8902(m)(1), and the provisions of the carrier's contract. For purposes of application of such sections, all carriers are deemed to offer health benefits in the large group market.
 
 (b) For purposes of the provisions referenced in paragraph (a) of this section:

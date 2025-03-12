@@ -1,5 +1,7 @@
 ##### § 149.20 Applicability. #####
 
+Link to an amendment published at 86 FR 66702, Nov. 23, 2021.
+
 (a) *In general.* (1) The requirements in subparts B and D of this part apply to group health plans and health insurance issuers offering group or individual health insurance coverage (including grandfathered health plans as defined in § 147.140 of this subchapter), except as specified in paragraph (b) of this section.
 
 (2) The requirements in subpart E of this part apply to health care providers, health care facilities, and providers of air ambulance services.

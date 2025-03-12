@@ -1,7 +1,5 @@
 ##### § 579.2 Definitions. #####
 
-Link to an amendment published at 85 FR 86792, Dec. 30, 2020.Link to an amendment published at 86 FR 11641, Feb. 26, 2021.Link to an amendment published at 86 FR 22597, Apr. 29, 2021.Link to an amendment published at 86 FR 52986, Sept. 24, 2021.Link to an amendment published at 86 FR 52987, Sept. 24, 2021.
-
 As used in this part and part 580 of this chapter:
 
 *Act* means the Fair Labor Standards Act of 1938, as amended (52 Stat. 1060, as amended; 29 U.S.C. 201, *et seq.).*
@@ -36,6 +34,6 @@ As used in this part and part 580 of this chapter:
 
 *Solicitor of Labor* means the Solicitor, U.S. Department of Labor, and includes attorneys designated by the Solicitor to perform functions of the Solicitor under this part and part 780 of this chapter.
 
-*Willful violations* under this section has several components. An employer's violation of section 12 or section 13(c) of the Act relating to child labor or any regulation issued pursuant to such sections, shall be deemed to be *willful* for purposes of this section where the employer knew that its conduct was prohibited by the Act or showed reckless disregard for the requirements of the Act. All of the facts and circumstances surrounding the violation shall be taken into account in determining whether a violation was willful. In addition, for purposes of this section, an employer's conduct shall be deemed knowing, among other situations, if the employer received advice from a responsible official of the Wage and Hour Division to the effect that the conduct in question is not lawful. For purposes of this section, an employer's conduct shall be deemed to be in reckless disregard of the requirements of the Act, among other situations, if the employer should have inquired further into whether its conduct was in compliance with the Act, and failed to make adequate further inquiry.
+*Willful violations* under this section has several components. An employer's violation of section 12 or section 13(c) of the Act relating to child labor or any regulation issued pursuant to such sections, shall be deemed to be willful for purposes of this section where the employer knew that its conduct was prohibited by the Act or showed reckless disregard for the requirements of the Act. All of the facts and circumstances surrounding the violation shall be taken into account in determining whether a violation was willful. In addition, for purposes of this section, the employer's receipt of advice from a responsible official of the Wage and Hour Division to the effect that the conduct in question is not lawful, among other situations, can be sufficient to show that the employer's conduct is knowing, but is not automatically dispositive. For purposes of this section, reckless disregard of the requirements of the Act means, among other situations, that the employer should have inquired further into whether its conduct was in compliance with the Act and failed to make adequate further inquiry.
 
-[75 FR 28461, May 20, 2010]
+[75 FR 28461, May 20, 2010, as amended at 86 FR 52987, Sept. 24, 2021]
