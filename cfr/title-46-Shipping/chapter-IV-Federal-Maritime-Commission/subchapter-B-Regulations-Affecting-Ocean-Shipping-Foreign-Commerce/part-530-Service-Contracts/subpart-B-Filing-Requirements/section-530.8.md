@@ -1,5 +1,7 @@
 ##### § 530.8 Service Contracts. #####
 
+Link to an amendment published at 82 FR 16296, Apr. 4, 2017.
+
 (a) Authorized persons shall file with BTCL, in the manner set forth in appendix A of this part, a true and complete copy of every service contract or amendment to a filed service contract before any cargo moves pursuant to that service contract or amendment.
 
 (b) Every service contract filed with the Commission shall include the complete terms of the service contract including, but not limited to, the following:

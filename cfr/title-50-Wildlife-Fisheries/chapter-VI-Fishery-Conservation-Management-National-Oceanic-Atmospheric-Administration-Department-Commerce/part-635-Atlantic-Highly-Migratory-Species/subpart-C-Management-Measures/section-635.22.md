@@ -1,5 +1,7 @@
 ##### § 635.22 Recreational retention limits. #####
 
+Link to an amendment published at 82 FR 16507, Apr. 4, 2017.
+
 (a) *General.* (1) Atlantic HMS caught, possessed, retained, or landed under these recreational limits may not be sold or transferred to any person for a commercial purpose. Recreational retention limits apply to a longbill spearfish taken or possessed shoreward of the outer boundary of the Atlantic EEZ, to a shark taken from or possessed in the Atlantic Ocean including the Gulf of Mexico and Caribbean Sea, to a North Atlantic swordfish taken from or possessed in the Atlantic Ocean, and to bluefin and yellowfin tuna taken from or possessed in the Atlantic Ocean. The operator of a vessel for which a retention limit applies is responsible for the vessel retention limit and for the cumulative retention limit based on the number of persons aboard. Federal recreational retention limits may not be combined with any recreational retention limit applicable in state waters.
 
 (2) Vessels issued an HMS General Category permit under § 635.4(d) that are participating in a HMS registered tournament, vessels issued a HMS Angling category permit under § 635.4(c), or vessels issued a HMS Charter/Headboat permit under § 635.4(b) may not retain, possess or land oceanic whitetip sharks or scalloped, smooth, or great hammerhead sharks if swordfish, tuna, or billfish are retained or possessed on board, or offloaded from, the vessel. Such vessels also may not retain, possess or land swordfish, tuna, or billfish if oceanic whitetip sharks, or scalloped, smooth, or great hammerhead sharks are retained or possessed on board, or offloaded from, the vessel.
@@ -32,4 +34,4 @@
 
 (3) Vessels issued an HMS Angling category permit under § 635.4(c), may retain, possess, or land no more than one North Atlantic swordfish per person and up to four North Atlantic swordfish per vessel per trip.
 
-[64 FR 29135, May 28, 1999, as amended at 64 FR 37704, July 13, 1999; 66 FR 8904, Feb. 5, 2001; 67 FR 77437, Dec. 18, 2002; 68 FR 714, Jan. 7, 2003; 68 FR 74785, Dec. 24, 2003; 71 FR 58169, Oct. 2, 2006; 72 FR 31709, June 7, 2007; 73 FR 40708, July 15, 2008; 75 FR 30525, June 1, 2010; 76 FR 53658, Aug. 29, 2011; 76 FR 70066, Nov. 10, 2011; 78 FR 40346, July 3, 2013; 78 FR 52030, Aug. 21, 2013; 80 FR 73145, Nov. 24, 2015; 81 FR 57806, Aug. 24, 2016]
+[64 FR 29135, May 28, 1999]Editorial Note:For Federal Register citations affecting § 635.22, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

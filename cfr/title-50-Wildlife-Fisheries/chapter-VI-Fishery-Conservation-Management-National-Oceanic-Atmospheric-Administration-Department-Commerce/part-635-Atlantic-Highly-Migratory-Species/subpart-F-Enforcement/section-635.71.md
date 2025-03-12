@@ -1,5 +1,7 @@
 ##### § 635.71 Prohibitions. #####
 
+Link to an amendment published at 82 FR 16508, Apr. 4, 2017.
+
 In addition to the prohibitions specified in § 600.725 of this chapter, it is unlawful for any person subject to the jurisdiction of the United States to violate any provision of this part, ATCA, the Magnuson-Stevens Act, or any other rules promulgated under ATCA or the Magnuson-Stevens Act.
 
 (a) *General.* It is unlawful for any person or vessel subject to the jurisdiction of the United States to:
@@ -254,7 +256,7 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (1) As specified in § 635.19(c), retain a billfish harvested by gear other than rod and reel, or retain a billfish on board a vessel unless that vessel has been issued an Atlantic HMS Angling or Charter/Headboat permit or has been issued an Atlantic Tunas General category permit and is participating in a tournament in compliance with § 635.4(c).
 
-(2) Transfer a billfish in port or at sea, as specified in§ 635.29(a).
+(2) Transfer a billfish in port or at sea, as specified in § 635.29(a).
 
 (3) Fail to maintain a billfish in the form specified in § 635.30(b).
 

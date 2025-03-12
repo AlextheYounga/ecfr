@@ -1,5 +1,7 @@
 ##### § 635.8 Workshops. #####
 
+Link to an amendment published at 82 FR 16506, Apr. 4, 2017.
+
 (a) *Protected species release, disentanglement, and identification workshops.* (1) Both the owner and operator of a vessel that fishes with longline or gillnet gear must be certified by NMFS, or its designee, as having completed a workshop on the safe handling, release, and identification of protected species before a shark or swordfish limited access vessel permit, pursuant to § 635.4(e) and (f), is renewed in 2007. For the purposes of this section, it is a rebuttable presumption that a vessel fishes with longline or gillnet gear if: longline or gillnet gear is onboard the vessel; logbook reports indicate that longline or gillnet gear was used on at least one trip in the preceding year; or, in the case of a permit transfer to new owners that occurred less than a year ago, logbook reports indicate that longline or gillnet gear was used on at least one trip since the permit transfer.
 
 (2) NMFS, or its designee, will issue a protected species safe handling, release, and identification workshop certificate to any person who completes a protected species safe handling, release, and identification workshop. If an owner owns multiple vessels, NMFS will issue a certificate for each vessel that the owner owns upon successful completion of one workshop. An owner who is also an operator will be issued multiple certificates, one as the owner of the vessel and one as the operator.

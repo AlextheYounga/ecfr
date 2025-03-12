@@ -1,5 +1,7 @@
 ##### § 530.10 Amendment, correction, cancellation, and electronic transmission errors. #####
 
+Link to an amendment published at 82 FR 16296, Apr. 4, 2017.
+
 (a) *Terms.* When used in this section, the following terms will have these meanings:
 
 (1) *Amendment* means any change to a service contract which has prospective effect and which is mutually agreed upon by the service contract parties.

@@ -1,5 +1,7 @@
 ##### § 635.4 Permits and fees. #####
 
+Link to an amendment published at 82 FR 16505, Apr. 4, 2017.
+
 Information on permits and permit requirements may be obtained from the Division Chief or where otherwise stated in this part.
 
 (a) *General* - (1) *Authorized activities.* Each permit issued by NMFS authorizes certain activities, and persons may not conduct these activities without the appropriate permit, unless otherwise authorized by NMFS in accordance with this part. In certain cases, additional permits may be required to authorize these same or related activities under federal, state or local jurisdictions.

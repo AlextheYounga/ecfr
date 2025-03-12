@@ -118,8 +118,6 @@
 
 (g) *Limited preemption of State and local law.* To achieve important Federal interests, including but not limited to the assurance of the uniform delivery of benefits under VADIP and to ensure the operation of VADIP plans at the lowest possible cost to VADIP enrollees, paragraphs (b), (c)(1), (c)(2), (d), and (e)(2) through (5) of this section preempt conflicting State and local laws, including laws relating to the business of insurance. Any State or local law, or regulation pursuant to such law, is without any force or effect on, and State or local governments have no legal authority to enforce them in relation to, the paragraphs referenced in this paragraph or decisions made by VA or a participating insurer under these paragraphs.
 
-(Authority: Sec. 510, Pub. L. 111-163)
-
 (The Office of Management and Budget has approved the information collection requirement in this section under control number 2900-0789.)
 
-[78 FR 32130, May 29, 2013, as amended at 78 FR 62443, Oct. 22, 2013]
+[78 FR 32130, May 29, 2013, as amended at 78 FR 62443, Oct. 22, 2013; 82 FR 16288, Apr. 4, 2017]

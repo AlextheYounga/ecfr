@@ -1,5 +1,7 @@
 ##### § 531.8 Amendment, correction, cancellation, and electronic transmission errors. #####
 
+Link to an amendment published at 82 FR 16297, Apr. 4, 2017.
+
 (a) *Amendment.* (1) NSAs may be amended by mutual agreement of the parties. Amendments shall be filed electronically with the Commission in the manner set forth in § 531.5 and Appendix A to this part.
 
 (i) Where feasible, NSAs should be amended by amending only the affected specific term(s) or subterms.

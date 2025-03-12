@@ -1,5 +1,7 @@
 ##### § 531.6 NVOCC Service Arrangements. #####
 
+Link to an amendment published at 82 FR 16297, Apr. 4, 2017.
+
 (a) Authorized persons shall file with BTA, in the manner set forth in Appendix A of this part, a true and complete copy of every NSA or amendment before any cargo moves pursuant to that NSA or amendment.
 
 (b) Every NSA filed with the Commission shall include the complete terms of the NSA including, but not limited to, the following:

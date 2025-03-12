@@ -1,4 +1,6 @@
-##### § 530.14 Implementation #####
+##### § 530.14 Implementation. #####
+
+Link to an amendment published at 82 FR 16297, Apr. 4, 2017.
 
 (a) *Generally.* Performance under a service contract or amendment thereto may not begin before the day it is effective and filed with the Commission.
 
