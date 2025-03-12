@@ -1,10 +1,8 @@
 ##### § 7.21 Subsequent designation. #####
 
-Link to an amendment published at 84 FR 37098, July 31, 2019.This amendment was delayed until Dec. 21, 2019, at 84 FR 52363, Oct. 2, 2019.This amendment was further delayed at 84 FR 69330, Dec. 19, 2019.
-
 (a) A subsequent designation may be filed directly with the International Bureau, or, if it meets the requirements of paragraph (b) of this section, submitted through the Office.
 
-(b) The Office will grant a date of receipt to a subsequent designation that is either filed through TEAS, or typed on the official paper form issued by the International Bureau. The subsequent designation must contain all of the following:
+(b) The Office will grant a date of receipt to a subsequent designation that is filed through TEAS in accordance with § 7.4(a), or typed on the official paper form issued by the International Bureau, if permitted under § 7.4(c) or accepted on petition pursuant to § 7.4(d). The subsequent designation must contain all of the following:
 
 (1) The international registration number;
 
@@ -18,11 +16,9 @@ Link to an amendment published at 84 FR 37098, July 31, 2019.This amendment was 
 
 (6) A list of the designated Contracting Parties. If the goods and/or services in the subsequent designation are not the same for each designated Contracting Party, the holder must list the goods and/or services covered by the subsequent designation that pertain to each designated Contracting Party;
 
-(7) The U.S. transmittal fee required by § 7.6;
+(7) The U.S. transmittal fee required by § 7.6; and
 
-(8) If the subsequent designation is filed through TEAS, the subsequent designation fees (*see* § 7.7); and
-
-(9) If the subsequent designation is filed through TEAS, an e-mail address for receipt of correspondence from the Office.
+(8) If the subsequent designation is filed through TEAS, the subsequent designation fees (*see* § 7.7).
 
 (c) If the subsequent designation is accorded a date of receipt, the Office will then forward the subsequent designation to the International Bureau.
 
@@ -30,4 +26,4 @@ Link to an amendment published at 84 FR 37098, July 31, 2019.This amendment was 
 
 (e) Correspondence to correct any irregularities in a subsequent designation must be made directly with the International Bureau.
 
-[68 FR 55769, Sept. 26, 2003, as amended at 69 FR 57186, Sept. 24, 2004]
+[68 FR 55769, Sept. 26, 2003, as amended at 69 FR 57186, Sept. 24, 2004; 85 FR 37098, July 31, 2019]

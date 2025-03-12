@@ -94,4 +94,4 @@ Services
 
 45. Legal services; security services for the physical protection of tangible property and individuals; personal and social services rendered by others to meet the needs of individuals.
 
-[84 FR 65682, Nov. 29, 2019
+[84 FR 65682, Nov. 29, 2019]

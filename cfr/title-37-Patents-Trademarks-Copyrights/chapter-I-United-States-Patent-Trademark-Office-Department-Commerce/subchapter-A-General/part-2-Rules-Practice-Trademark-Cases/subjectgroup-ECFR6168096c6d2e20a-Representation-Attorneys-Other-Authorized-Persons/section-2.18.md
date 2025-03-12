@@ -1,31 +1,21 @@
 ##### § 2.18 Correspondence, with whom held. #####
 
-Link to an amendment published at 84 FR 37093, July 31, 2019.This amendment was delayed until Dec. 21, 2019, at 84 FR 52363, Oct. 2, 2019.This amendment was further delayed until Feb. 15, 2020 at 84 FR 69330, December 18, 2019.
+(a) *Establishing the correspondent.* The Office will send correspondence as follows:
 
-(a) *Establishing the correspondence address.* (1) If a written power of attorney that meets the requirements of § 2.17 is filed, the Office will send correspondence to the practitioner designated in the power.
+(1) If the applicant, registrant, or party to a proceeding is not represented by an attorney qualified to practice before the Office under § 11.14(a) of this chapter, the Office will send correspondence to the applicant, registrant, or party to the proceeding.
 
-(2) If a practitioner qualified under § 11.14 of this chapter transmits a document(s) on behalf of an applicant, registrant, or party to a proceeding who is not already represented by another qualified practitioner from a different firm, the Office will send correspondence to the practitioner transmitting the documents.
+(2) If an attorney is recognized as a representative pursuant to § 2.17(b)(1), the Office will correspond only with that attorney. A request to change the correspondence address does not revoke a power of attorney. Except for service of a cancellation petition, the Office will not correspond directly with the applicant, registrant, or a party to a proceeding, or with another attorney from a different firm, unless:
 
-(3) If an application, registration or proceeding is not being prosecuted by a practitioner qualified under § 11.14 of this chapter and the applicant, registrant, or party to the proceeding designates a correspondence address in writing, the Office will send correspondence to the designated address if appropriate.
+(i) The applicant or registrant files a revocation of the power of attorney under § 2.19(a) and/or a new power of attorney that meets the requirements of § 2.17(c);
 
-(4) If an application, registration or proceeding is not being prosecuted by a practitioner qualified under § 11.14 of this chapter and the applicant, registrant, or party to the proceeding has not designated a correspondence address in writing, but a domestic representative has been appointed, the Office will send correspondence to the domestic representative if appropriate.
+(ii) The attorney has been suspended or excluded from practicing in trademark matters before the USPTO; or
 
-(5) If the application, registration or proceeding is not being prosecuted by a practitioner qualified under § 11.14 of this chapter, the applicant, registrant, or party to the proceeding has not designated a correspondence address, and no domestic representative has been appointed, the Office will send correspondence directly to the applicant, registrant, or party to the proceeding.
+(iii) Recognition of the attorney has ended pursuant to § 2.17(g).
 
-(6) The Office will send correspondence to only one address in an *ex parte* matter.
+(b) *Ex parte matters.* Only one correspondence address may be designated in an ex parte matter.
 
-(7) Once the Office has recognized a practitioner qualified under § 11.14 of this chapter as the representative of an applicant or registrant, the Office will communicate and conduct business only with that practitioner, or with another qualified practitioner from the same firm. The Office will not conduct business directly with the applicant or registrant, or with another practitioner from a different firm, unless the applicant or registrant files a revocation of the power of attorney under § 2.19(a), and/or a new power of attorney that meets the requirements of § 2.17(c). A written request to change the correspondence address does not revoke a power of attorney.
+(c) *Maintaining and changing the correspondence addresses.* The applicant, registrant, or party to a proceeding must maintain current and accurate correspondence addresses, as required by § 2.23, for itself and its attorney, if one is designated. If any of these addresses change, a request to change the address, signed in accordance with § 2.193(e)(9), must be promptly filed.
 
-(b) *Changing the correspondence address.* (1) If a physical or e-mail correspondence address changes, the applicant, registrant, or party to a proceeding must file a written request to change the correspondence address. The request should be promptly filed.
+(d) *Post registration filings under sections 7, 8, 9, 12(c), 15, and 71 of the Act.* Even if there is no new power of attorney or written request to change the correspondence address, the Office will change the correspondence address upon the examination of an affidavit under section 8, 12(c), 15, or 71 of the Act, renewal application under section 9 of the Act, or request for amendment or correction under section 7 of the Act, if a new address is provided, in accordance with paragraph (a) of this section.
 
-(2) A request to change the correspondence address must be made in writing, signed by the applicant, registrant, or party to a proceeding, someone with legal authority to bind the applicant, registrant, or party (e.g., a corporate officer or general partner of a partnership), or a practitioner qualified to practice under § 11.14 of this chapter, in accordance with § 2.193(e)(9).
-
-(3) If an applicant or registrant files a new power of attorney that meets the requirements of § 2.17(c), the Office will change the correspondence address to that of the practitioner named in the power.
-
-(4) If a practitioner qualified under § 11.14 of this chapter transmits a document(s) on behalf of an applicant, registrant, or party to a proceeding who is not already represented by another qualified practitioner, the Office will construe this as including a request to change the correspondence address to that of the practitioner, and will send correspondence to the practitioner.
-
-(c) *Post registration filings under sections 7, 8, 9, 12(c), 15, and 71.* (1) Even if there is no new power of attorney or written request to change the correspondence address, the Office will change the correspondence address upon the examination of an affidavit under section 8, 12(c), 15 or 71 of the Trademark Act, renewal application under section 9 of the Act, or request for amendment or correction under section 7 of the Act. If a practitioner qualified under § 11.14 of this chapter transmits the affidavit, renewal application, or section 7 request, the Office will send correspondence to the practitioner. If the owner of the registration is not represented by a qualified practitioner, the Office will send correspondence directly to the owner, or to the domestic representative if appropriate, in accordance with paragraph (a).
-
-(2) Once the Office establishes a correspondence address upon examination of an affidavit, renewal application, or section 7 request, a written request to change the address in accordance with the requirements of paragraph (b)(2) of this section is required to change the address during the pendency of that filing.
-
-[74 FR 54906, Oct. 26, 2009]
+[84 FR 37093, July 31, 2019]

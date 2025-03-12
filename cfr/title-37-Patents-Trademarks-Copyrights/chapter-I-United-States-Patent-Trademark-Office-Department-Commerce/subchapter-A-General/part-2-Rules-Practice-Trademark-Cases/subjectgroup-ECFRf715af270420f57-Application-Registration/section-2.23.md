@@ -1,35 +1,15 @@
-##### § 2.23 Requirements for a TEAS RF application. #####
+##### § 2.23 Requirement to correspond electronically with the Office and duty to monitor status. #####
 
-Link to an amendment published at 84 FR 37094, July 31, 2019.This amendment was delayed until Dec. 21, 2019, at 84 FR 52363, Oct. 2, 2019.This amendment was further delayed until Feb. 15, 2020 at 84 FR 69330, December 18, 2019.
+(a) Unless stated otherwise in this chapter, all trademark correspondence must be submitted through TEAS.
 
-(a) A trademark, service mark, certification mark, collective membership mark, or collective trademark application for registration on the Principal or Supplemental Register under section 1 and/or section 44 of the Act will be entitled to a reduced filing fee under § 2.6(a)(1)(iii) if it is filed through TEAS and includes:
+(b) Applicants, registrants, and parties to a proceeding must provide and maintain a valid email address for correspondence.
 
-(1) An email address for correspondence; and
+(c) If the applicant or registrant is a national of a country that has acceded to the Trademark Law Treaty, but not to the Singapore Treaty on the Law of Trademarks, the requirements of paragraphs (a) and (b) of this section do not apply.
 
-(2) An authorization for the Office to send correspondence concerning the application to the applicant or applicant's attorney by email.
+(d) Notices issued or actions taken by the USPTO are displayed in the USPTO's publicly available electronic systems. Applicants and registrants are responsible for monitoring the status of their applications and registrations in the USPTO's electronic systems during the following time periods:
 
-(b) In addition to the filing requirements under paragraph (a) of this section, the applicant must:
+(1) At least every six months between the filing date of the application and issuance of a registration; and
 
-(1) File the following communications through TEAS:
+(2) After filing an affidavit of use or excusable nonuse under section 8 or section 71 of the Act, or a renewal application under section 9 of the Act, at least every six months until the registrant receives notice that the affidavit or renewal application has been accepted.
 
-(i) Responses to Office actions (except notices of appeal under section 20 of the Trademark Act);
-
-(ii) Requests to change the correspondence address and owner's address;
-
-(iii) Appointments and/or revocations of power of attorney;
-
-(iv) Appointments and/or revocations of domestic representative;
-
-(v) Voluntary amendments;
-
-(vi) Amendments to allege use under section 1(c) of the Act or statements of use under section 1(d) of the Act;
-
-(vii) Requests for extensions of time to file a statement of use under section 1(d) of the Act; and
-
-(viii) Requests to delete a section 1(b) basis.
-
-(2) Maintain a valid email correspondence address, and continue to receive communications from the Office by email.
-
-(c) If an application does not meet the requirements of paragraphs (a) and (b) of this section, the applicant must pay the processing fee required by § 2.6(a)(1)(v). The application will retain its original filing date, provided that when filed, the application met the filing date requirements of § 2.21.
-
-[79 FR 74639, Dec. 16, 2014]
+[84 FR 37094, July 31, 2019]

@@ -1,31 +1,11 @@
-##### § 7.4 Receipt of correspondence. #####
+##### § 7.4 International applications and registrations originating from the USPTO—Requirements to electronically file and communicate with the Office. #####
 
-Link to an amendment published at 84 FR 37098, July 31, 2019.This amendment was delayed until Dec. 21, 2019, at 84 FR 52363, Oct. 2, 2019.This amendment was further delayed at 84 FR 69330, Dec. 19, 2019.
+(a) Unless stated otherwise in this chapter, all correspondence filed with the USPTO relating to international applications and registrations originating from the USPTO must be submitted through TEAS and include a valid email address for correspondence.
 
-(a) *Correspondence Filed Through TEAS.* Correspondence relating to international applications and registrations and requests for extension of protection submitted through TEAS will be accorded the date and time on which the complete transmission is received in the Office based on Eastern Time. Eastern Time means eastern standard time or eastern daylight time, as appropriate.
+(b) Applicants and registrants under this section must provide and maintain a valid email address for correspondence with the Office.
 
-(b) *Correspondence Filed By Mail.* International applications under § 7.11, subsequent designations under § 7.21, responses to notices of irregularity under § 7.14, requests to record changes in the International Register under § 7.23 and § 7.24, requests to note replacement under § 7.28, requests for transformation under § 7.31, and petitions to the Director to review an action of the Office's Madrid Processing Unit, when filed by mail, must be addressed to: Madrid Processing Unit, 600 Dulany Street, MDE-7B87, Alexandria, VA 22314-5793.
+(c) If an applicant or registrant under this section is a national of a country that has acceded to the Trademark Law Treaty, but not to the Singapore Treaty on the Law of Trademarks, the requirements of paragraphs (a) and (b) of this section do not apply.
 
-(1) International applications under § 7.11, subsequent designations under § 7.21, requests to record changes in the International Register under § 7.23 and § 7.24, and petitions to the Director to review an action of the Office's Madrid Processing Unit, when filed by mail, will be accorded the date of receipt in the Office, unless they are sent by Priority Mail Express® pursuant to § 2.198, in which case they will be accorded the date of deposit with the United States Postal Service.
+(d) If TEAS is unavailable, or in an extraordinary situation, an applicant or registrant under this section who is required to file a submission through TEAS may submit a petition to the Director under § 2.146(a)(5) and (c) of this chapter to accept the submission filed on paper.
 
-(2) Responses to notices of irregularity under § 7.14, requests to note replacement under § 7.28, and requests for transformation under § 7.31, when filed by mail, will be accorded the date of receipt in the Office.
-
-(c) *Hand-Delivered Correspondence.* International applications under § 7.11, subsequent designations under § 7.21, responses to notices of irregularity under § 7.14, requests to record changes in the International Register under §§ 7.23 and 7.24, requests to note replacement under § 7.28, requests for transformation under § 7.31, and petitions to the Director to review an action of the Office's Madrid Processing Unit, may be delivered by hand during the hours the Office is open to receive correspondence. Madrid-related hand-delivered correspondence must be delivered to the Trademark Assistance Center, James Madison Building - East Wing, Concourse Level, 600 Dulany Street, Alexandria, VA 22314, Attention: MPU.
-
-(d) *Facsimile Transmission Not Permitted.* The following documents may not be sent by facsimile transmission, and will not be accorded a date of receipt if sent by facsimile transmission:
-
-(1) International applications under § 7.11;
-
-(2) Subsequent designations under § 7.21;
-
-(3) Responses to notices of irregularity under § 7.14;
-
-(4) Requests to record changes of ownership under § 7.23;
-
-(5) Requests to record restrictions of the holder's right of disposal, or the release of such restrictions, under § 7.24; and
-
-(6) Requests for transformation under § 7.31.
-
-(e) *Certificate of Mailing or Transmission Procedure Does Not Apply.* The certificate of mailing or transmission procedure provided in § 2.197 does not apply to the documents specified in paragraph (d) of this section.
-
-[69 FR 57185, Sept. 24, 2004, as amended at 69 FR 63321, Nov. 1, 2004; 72 FR 18908, Apr. 16, 2007; 79 FR 63041, Oct. 22, 2014]
+[84 FR 37098, July 31, 2019]

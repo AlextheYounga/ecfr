@@ -1,8 +1,6 @@
 ##### § 7.11 Requirements for international application originating from the United States. #####
 
-Link to an amendment published at 84 FR 37098, July 31, 2019.This amendment was delayed until Dec. 21, 2019, at 84 FR 52363, Oct. 2, 2019.This amendment was further delayed at 84 FR 69330, Dec. 19, 2019.
-
-(a) The Office will grant a date of receipt to an international application That is either filed through TEAS, or typed on the official paper form issued by the International Bureau. The international application must include all of the following:
+(a) The Office will grant a date of receipt to an international application that is filed through TEAS in accordance with § 7.4(a), or typed on the official paper form issued by the International Bureau, if permitted under § 7.4(c) or accepted on petition pursuant to § 7.4(d). The international application must include all of the following:
 
 (1) The filing date and serial number of the basic application and/or the registration date and registration number of the basic registration;
 
@@ -30,12 +28,10 @@ Link to an amendment published at 84 FR 37098, July 31, 2019.This amendment was 
 
 (9) The certification fee required by § 7.6;
 
-(10) If the application is filed through TEAS, the international application fees for all classes, and the fees for all designated Contracting Parties identified in the international application (see § 7.7);
+(10) If the application is filed through TEAS, the international application fees for all classes, and the fees for all designated Contracting Parties identified in the international application (*see* § 7.7); and
 
-(11) A statement that the applicant is entitled to file an international application in the Office, specifying that applicant: is a national of the United States; has a domicile in the United States; or has a real and effective industrial or commercial establishment in the United States. Where an applicant's address is not in the United States, the applicant must provide the address of its U.S. domicile or establishment; and
+(11) A statement that the applicant is entitled to file an international application in the Office, specifying that applicant: Is a national of the United States; has a domicile in the United States; or has a real and effective industrial or commercial establishment in the United States. Where an applicant's address is not in the United States, the applicant must provide the address of its U.S. domicile or establishment.
 
-(12) If the international application is filed through TEAS, an e-mail address for receipt of correspondence from the Office.
+(b) For requirements for certification, see § 7.13.
 
-(b) For requirements for certification, *see* § 7.13.
-
-[68 FR 55769, Sept. 26, 2003, as amended at 69 FR 57185, Sept. 24, 2004; 73 FR 67775, Nov. 17, 2008]
+[68 FR 55769, Sept. 26, 2003, as amended at 69 FR 57185, Sept. 24, 2004; 73 FR 67775, Nov. 17, 2008; 84 FR 37098, July 31, 2019]

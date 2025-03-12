@@ -1,7 +1,5 @@
 ##### § 2.2 Definitions. #####
 
-Link to an amendment published at 84 FR 37093, July 31, 2019.This amendment was delayed until Dec. 21, 2019, at 84 FR 52363, Oct. 2, 2019.This amendment was further delayed until Feb. 15, 2020 at 84 FR 69330, December 18, 2019.
-
 (a) *The Act* as used in this part means the Trademark Act of 1946, 60 Stat. 427, as amended, codified in 15 U.S.C. 1051 *et seq.*
 
 (b) *Entity* as used in this part includes both natural and juristic persons.
@@ -10,11 +8,11 @@ Link to an amendment published at 84 FR 37093, July 31, 2019.This amendment was 
 
 (d) *Federal holiday within the District of Columbia* means any day, except Saturdays and Sundays, when the United States Patent and Trademark Office is officially closed for business for the entire day.
 
-(e) The term *Office* means the United States Patent and Trademark Office.
+(e) The term *Office* or abbreviation *USPTO* means the United States Patent and Trademark Office.
 
-(f) The acronym *TEAS* means the Trademark Electronic Application System, available at *http://www.uspto.gov.*
+(f) The acronym *TEAS* means the Trademark Electronic Application System and, as used in this part, includes all related electronic systems required to complete an electronic submission through TEAS.
 
-(g) The acronym *ESTTA* means the Electronic System for Trademark Trials and Appeals, available at *www.uspto.gov.*
+(g) The acronym *ESTTA* means the Electronic System for Trademark Trials and Appeals and, as used in this part, includes all related electronic systems required to complete an electronic submission through ESTTA.
 
 (h) The term *international application* as used in this part means, in addition to the definition in section 60 of the Act, an application seeking an extension of protection of an international registration in an initial designation filed under the Protocol Relating to the Madrid Agreement Concerning the International Registration of Marks.
 
@@ -48,4 +46,12 @@ Link to an amendment published at 84 FR 37093, July 31, 2019.This amendment was 
 
 (p) The term *principal place of business* as used in this part means the location of a juristic entity's headquarters where the entity's senior executives or officers ordinarily direct and control the entity's activities and is usually the center from where other locations are controlled.
 
-[54 FR 37588, Sept. 11, 1989, as amended at 68 FR 48289, Aug. 13, 2003; 68 FR 55762, Sept. 26, 2003; 73 FR 47685, Aug. 14, 2008; 78 FR 20197, Apr. 3, 2013; 80 FR 33178, June 11, 2015; 84 FR 31510, July 2, 2019]
+(q) The acronym *ETAS* means the Electronic Trademark Assignment System and, as used in this part, includes all related electronic systems required to complete an electronic submission through ETAS.
+
+(r) *Eastern Time* means Eastern Standard Time or Eastern Daylight Time, as appropriate.
+
+(s) The term *electronic submission* as used in this part refers to any submission made through an electronic filing system available on the Office's website, but not through email or facsimile transmission.
+
+(t) The abbreviation *USPS* as used in this part means the U.S. Postal Service.
+
+[54 FR 37588, Sept. 11, 1989, as amended at 68 FR 48289, Aug. 13, 2003; 68 FR 55762, Sept. 26, 2003; 73 FR 47685, Aug. 14, 2008; 78 FR 20197, Apr. 3, 2013; 80 FR 33178, June 11, 2015; 84 FR 31510, July 2, 2019; 84 FR 37093, July 31, 2019]

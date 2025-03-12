@@ -1,16 +1,14 @@
 ##### § 2.146 Petitions to the Director. #####
 
-Link to an amendment published at 84 FR 37095, July 31, 2019.This amendment was delayed until Dec. 21, 2019, at 84 FR 52363, Oct. 2, 2019.This amendment was further delayed until Feb. 15, 2020 at 84 FR 69330, December 18, 2019.
-
-(a) Petition may be taken to the Director:
+(a) Petition may be taken to the Director in a trademark case:
 
 (1) From any repeated or final formal requirement of the examiner in the ex parte prosecution of an application if permitted by § 2.63(a) and (b);
 
-(2) In any case for which the Act of 1946, or Title 35 of the United States Code, or this Part of Title 37 of the Code of Federal Regulations specifies that the matter is to be determined directly or reviewed by the Director;
+(2) In any case for which the Act of 1946, Title 35 of the United States Code, or parts 2, 3, 6, and 7 of Title 37 of the Code of Federal Regulations specifies that the matter is to be determined directly or reviewed by the Director;
 
 (3) To invoke the supervisory authority of the Director in appropriate circumstances;
 
-(4) In any case not specifically defined and provided for by this Part of Title 37 of the Code of Federal Regulations; or
+(4) In any case not specifically defined and provided for by parts 2, 3, 6, and 7 of Title 37 of the Code of Federal Regulations; or
 
 (5) In an extraordinary situation, when justice requires and no other party is injured thereby, to request a suspension or waiver of any requirement of the rules not being a requirement of the Act of 1946.
 
@@ -50,4 +48,4 @@ Link to an amendment published at 84 FR 37095, July 31, 2019.This amendment was 
 
 (2) The petitioner pays a second petition fee under § 2.6.
 
-[82 FR 29409, June 29, 2017]
+[82 FR 29409, June 29, 2017, as amended at 84 FR 37095, July 31, 2019]
