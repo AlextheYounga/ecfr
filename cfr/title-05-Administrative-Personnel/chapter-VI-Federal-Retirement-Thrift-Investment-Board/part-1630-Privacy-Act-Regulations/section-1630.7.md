@@ -8,6 +8,6 @@
 
 (2) A participant or a spouse, former spouse, or beneficiary of a participant must identify himself or herself by providing to the record keeper designee his or her name, account number (or case reference number) or Social Security number, and any other information requested. If the record keeper designee determines that any of the information provided by telephone is incorrect, the requester will be required to submit a request in writing.
 
-(3) A participant may also access the TSP Web site or call the TSP ThriftLine to obtain account information. These systems may require identity and account verification information such as the participant's account number and Web password or PIN for the Web site and ThriftLine respectively.
+(3) A participant may also access the TSP website or call the TSP ThriftLine to obtain account information. These systems may require identity and account verification information and may require the participant to verify his or her identity by providing identifying particulars.
 
-[55 FR 18852, May 7, 1990, as amended at 64 FR 67694, Dec. 3, 1999; 72 FR 51354, Sept. 7, 2007]
+[55 FR 18852, May 7, 1990, as amended at 64 FR 67694, Dec. 3, 1999; 72 FR 51354, Sept. 7, 2007; 85 FR 12431, Mar. 3, 2020]

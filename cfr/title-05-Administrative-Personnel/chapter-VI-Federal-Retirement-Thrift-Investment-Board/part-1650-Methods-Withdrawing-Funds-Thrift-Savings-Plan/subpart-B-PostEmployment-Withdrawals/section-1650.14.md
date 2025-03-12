@@ -26,7 +26,7 @@
 
 (iii) A participant can establish that a person not described in paragraph (d)(3)(ii) of this section has an insurable interest in him or her by submitting, with the annuity request, an affidavit from a person other than the participant or the joint annuitant that demonstrates that the designated joint annuitant has an insurable interest in the participant (as described in paragraph (d)(3)(i) of this section).
 
-(4) *Either a single life or joint (with spouse) life annuity with increasing payments.* This annuity provides monthly payments to the participant only, or to the participant and spouse, as applicable. The monthly payments are adjusted once each year on the anniversary of the first payment, based on the Federal Bureau of Labor Statistics Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W). Each year, the percentage change in the monthly unadjusted CPI-W index for July, August, and September over the monthly unadjusted CPI-W index for July, August, and September of the prior year is calculated. The following calendar year, the amount of the monthly payment is adjusted by the lesser of 3 percent or the percentage increase in the CPI-W, if any. In no case will the amount of the monthly payment be decreased based on the CPI-W. If the participant chooses a joint life annuity, the annual increase also applies to benefits received by the survivor.
+(4) *Either a single life or joint (with spouse) life annuity with increasing payments.* This annuity provides monthly payments to the participant only, or to the participant and spouse, as applicable. The monthly payments are increased once each year on the anniversary of the first payment by a fixed rate of 2 percent. If the participant chooses a joint life annuity, the annual 2 percent increase also applies to benefits received by the survivor.
 
 (h) For each withdrawal election in which the participant elects to purchase an annuity with some or all of the amount withdrawn, if the TSP must purchase two annuity contracts, the type of annuity, the annuity features, and the joint annuitant (if applicable) selected by the participant will apply to both annuities purchased. For each withdrawal election, a participant cannot elect more than one type of annuity by which to receive a withdrawal, or portion thereof, from any one account.
 
@@ -46,4 +46,4 @@
 
 (k) Once an annuity has been purchased, the type of annuity, the annuity features, and the identity of the joint annuitant cannot be changed, and the annuity cannot be terminated.
 
-[68 FR 35503, June 13, 2003, as amended at 77 FR 26426, May 4, 2012; 84 FR 46421, Sept. 4, 2019]
+[68 FR 35503, June 13, 2003, as amended at 77 FR 26426, May 4, 2012; 84 FR 46421, Sept. 4, 2019; 85 FR 12432, Mar. 3, 2020]

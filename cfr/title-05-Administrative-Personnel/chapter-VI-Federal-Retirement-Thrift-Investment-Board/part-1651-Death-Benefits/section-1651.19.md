@@ -44,4 +44,4 @@ A beneficiary participant account may be established only for a spouse of a dece
 
 (n) *Multiple beneficiary accounts.* Each beneficiary participant account is maintained separately from all other beneficiary participant accounts. If an individual has multiple beneficiary participant accounts, each of the individual's beneficiary participant accounts will have a unique account number. A beneficiary participant must file separate interfund transfers and/or withdrawal requests and submit separate beneficiary designation forms for each beneficiary participant account that the TSP maintains for him or her. A beneficiary participant account cannot be combined with another beneficiary participant account.
 
-[75 FR 78879, Dec. 17, 2010, as amended at 77 FR 26428, May 4, 2012; 80 FR 52174, Aug. 28, 2015; 84 FR 46423, Sep. 4, 2019]
+[75 FR 78879, Dec. 17, 2010, as amended at 77 FR 26428, May 4, 2012; 80 FR 52174, Aug. 28, 2015; 84 FR 46423, Sept. 4, 2019]
