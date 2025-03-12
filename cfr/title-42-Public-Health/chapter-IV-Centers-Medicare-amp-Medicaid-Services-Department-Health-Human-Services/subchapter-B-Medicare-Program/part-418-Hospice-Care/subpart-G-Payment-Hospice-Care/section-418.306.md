@@ -1,5 +1,7 @@
 ##### § 418.306 Annual update of the payment rates and adjustment for area wage differences. #####
 
+Link to an amendment published at 87 FR 45702, July 29, 2022.
+
 (a) *Applicability.* CMS establishes payment rates for each of the categories of hospice care described in § 418.302(b). The rates are established using the methodology described in section 1814(i)(1)(C) of the Act and in accordance with section 1814(i)(6)(D) of the Act.
 
 (b) *Annual update of the payment rates.* The payment rates for routine home care and other services included in hospice care are the payment rates in effect under this paragraph during the previous fiscal year increased by the hospice payment update percentage increase (as defined in sections1814(i)(1)(C) of the Act), applicable to discharges occurring in the fiscal year.
