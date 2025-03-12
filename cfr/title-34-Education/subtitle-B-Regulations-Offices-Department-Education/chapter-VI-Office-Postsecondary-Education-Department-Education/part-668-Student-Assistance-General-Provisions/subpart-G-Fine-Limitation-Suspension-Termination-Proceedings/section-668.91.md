@@ -1,7 +1,5 @@
 ##### § 668.91 Initial and final decisions. #####
 
-Link to an amendment published at 81 FR 76072, Nov. 1, 2016.
-
 (a)(1)(i) A hearing official issues a written initial decision in a hearing by certified mail, return receipt requested to -
 
 (A) The designated department official who began a proceeding against an institution or third-party servicer;
@@ -94,4 +92,4 @@ Link to an amendment published at 81 FR 76072, Nov. 1, 2016.
 
 (x) In a borrower defense and recovery proceeding conducted in two phases under § 668.87(a)(1)(iv)(B), if a party appeals an initial decision of the hearing official in the first phase, the Secretary may affirm, modify, or reverse the initial decision, or may remand the case to the hearing official for further proceedings consistent with the Secretary's decision.
 
-(Approved by the Office of Management and Budget under control number 1840-0537)(Authority: 20 U.S.C. 1082, 1094)[59 FR 22448, Apr. 29, 1994, as amended at 59 FR 34964, July 7, 1994; 60 FR 61774, Dec. 1, 1995; 65 FR 65637, Nov. 1, 2000; 82 FR 6259, Jan. 19, 2017]
+(Approved by the Office of Management and Budget under control number 1840-0537)(Authority: 20 U.S.C. 1082, 1094)[59 FR 22448, Apr. 29, 1994, as amended at 59 FR 34964, July 7, 1994; 60 FR 61774, Dec. 1, 1995; 65 FR 65637, Nov. 1, 2000. Redesignated and amended at 82 FR 6257, 6259, Jan. 19, 2017]

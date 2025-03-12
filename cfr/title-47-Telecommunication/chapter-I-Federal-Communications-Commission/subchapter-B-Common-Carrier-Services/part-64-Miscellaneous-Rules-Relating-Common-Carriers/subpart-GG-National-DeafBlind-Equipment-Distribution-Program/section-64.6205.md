@@ -1,1 +1,3 @@
-##### § 64.6205 [Reserved] #####
+##### § 64.6205 Administration of the program. #####
+
+The Consumer and Governmental Affairs Bureau shall designate a Commission official as the NDBEDP Administrator to ensure the effective, efficient, and consistent administration of the program, determine annual funding allocations and reallocations, and review reimbursement claims to ensure that the claimed costs are consistent with the NDBEDP rules.

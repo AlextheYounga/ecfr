@@ -116,7 +116,9 @@ Link to an amendment published at 81 FR 76080, Nov. 1, 2016.This amendment was, 
 
 (ii) The prior holder of the loan must, within 30 days of receiving the notification from the guaranty agency, request that any consumer reporting agency to which the default claim payment or other equivalent record was reported remove such record from the borrower's credit history.
 
-(4) An eligible lender purchasing a rehabilitated loan must establish a repayment schedule that meets the same requirements that are applicable to other FFEL Program loans of the same loan type as the rehabilitated loan and must permit the borrower to choose any statutorily available repayment plan for that loan type. The lender must treat the first payment made under the nine payments as the first payment under the applicable maximum repayment term, as defined under § 682.209(a) or (e). For Consolidation loans, the maximum repayment term is based on the balance outstanding at the time of loan rehabilitation.
+(4)(i) An eligible lender purchasing a rehabilitated loan must establish a repayment schedule that meets the same requirements that are applicable to other FFEL Program loans of the same loan type as the rehabilitated loan and must permit the borrower to choose any statutorily available repayment plan for that loan type. The lender must treat the first payment made under the nine payments as the first payment under the applicable maximum repayment term, as defined under § 682.209(a) or (e). For Consolidation loans, the maximum repayment term is based on the balance outstanding at the time of loan rehabilitation.
+
+(ii) [Reserved]
 
 (c) A guaranty agency must make available to the borrower -
 
@@ -124,4 +126,4 @@ Link to an amendment published at 81 FR 76080, Nov. 1, 2016.This amendment was, 
 
 (2) After the successful completion of the loan rehabilitation period, financial and economic education materials, including debt management information.
 
-(Approved by the Office of Management and Budget under control number 1845-0020)(Authority: 20 U.S.C. 1078-6)[59 FR 33355, June 28, 1994, as amended at 60 FR 30788, June 12, 1995; 64 FR 18980, Apr. 16, 1999; 64 FR 58965, Nov. 1, 1999; 66 FR 34764, June 29, 2001; 67 FR 67080, Nov. 1, 2002; 68 FR 75429, Dec. 31, 2003; 71 FR 45707, Aug. 9, 2006; 71 FR 64398, Nov. 1, 2006; 73 FR 63254, Oct. 23, 2008; 74 FR 56000, Oct. 29, 2009; 78 FR 65815, Nov. 1, 2013; 80 FR 67237, Oct. 30, 2015]
+(Approved by the Office of Management and Budget under control number 1845-0020)(Authority: 20 U.S.C. 1078-6)[59 FR 33355, June 28, 1994, as amended at 60 FR 30788, June 12, 1995; 64 FR 18980, Apr. 16, 1999; 64 FR 58965, Nov. 1, 1999; 66 FR 34764, June 29, 2001; 67 FR 67080, Nov. 1, 2002; 68 FR 75429, Dec. 31, 2003; 71 FR 45707, Aug. 9, 2006; 71 FR 64398, Nov. 1, 2006; 73 FR 63254, Oct. 23, 2008; 74 FR 56000, Oct. 29, 2009; 78 FR 65815, Nov. 1, 2013; 80 FR 67237, Oct. 30, 2015; 81 FR 76080, Nov. 1, 2016]

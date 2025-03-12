@@ -1,3 +1,5 @@
-##### § 685.310 xxx #####
+##### § 685.310 Severability. #####
 
-Link to an amendment published at 81 FR 76089, Nov. 1, 2016.
+If any provision of this subpart or its application to any person, act, or practice is held invalid, the remainder of the subpart or the application of its provisions to any person, act, or practice shall not be affected thereby.
+
+(Authority: 20 U.S.C. 1087a *et seq.*)[81 FR 76089, Nov. 1, 2016]

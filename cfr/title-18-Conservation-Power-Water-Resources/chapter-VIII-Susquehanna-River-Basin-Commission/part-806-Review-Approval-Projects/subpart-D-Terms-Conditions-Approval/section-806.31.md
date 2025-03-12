@@ -1,13 +1,13 @@
 ##### § 806.31 Term of approvals. #####
 
-Link to an amendment published at 82 FR 29394, June 29, 2017.
-
 (a) Approvals issued under this part shall have a term equal to the term of any accompanying member jurisdiction approval regulating the same subject matter, but not longer than 15 years, unless an alternate period is provided for in the Commission approval. If there is no such accompanying member jurisdiction approval, or if no term is specified in such accompanying member jurisdiction approval, the term of a Commission approval issued under this part shall be no longer than 15 years or the anticipated life of the project, whichever is less, unless an alternate period is provided for in the Commission approval.
 
 (b) Commission approval of a project shall expire three years from the date of such approval if the withdrawal, diversion or consumptive use has not been commenced, unless an alternate period is provided for in the docket approval or such 3-year period is extended in writing by the Commission upon written request from the project sponsor submitted no later than 120 days prior to such expiration. The Commission may grant an extension, for a period not to exceed two years, only upon a determination that the delay is due to circumstances beyond the project sponsor's control and that there is a likelihood of project implementation within a reasonable period of time. The Commission may also attach conditions to the granting of such extensions, including modification of any terms of approval that the Commission may deem appropriate.
 
 (c) If a withdrawal, diversion or consumptive use approved by the Commission for a project is discontinued for a period of five consecutive years, the approval shall be null and void, unless a waiver is granted in writing by the Commission, upon written request by the project sponsor demonstrating due cause and with notification thereof to the member jurisdiction in which the project is located, prior to the expiration of such period.
 
-(d) If the Commission determines that a project has been abandoned, by evidence of nonuse for a period of time and under such circumstances that an abandonment may be inferred, the Commission may rescind the approval for such withdrawal, diversion or consumptive use.
+(d) If the Commission determines that a project has been abandoned, by evidence of nonuse for a period of time and under such circumstances that an abandonment may be inferred, the Commission may revoke the approval for such withdrawal, diversion or consumptive use.
 
-(e) If a project sponsor submits an application to the Commission no later than six months prior to the expiration of its existing Commission approval, the existing approval will be deemed extended until such time as the Commission renders a decision on the application, unless the existing approval or a notification in writing from the Commission provide otherwise.
+(e) If a project sponsor submits an application to the Commission no later than six months prior to the expiration of its existing Commission docket approval or no later than one month prior to the expiration of its existing ABR or NOI approval, the existing approval will be deemed extended until such time as the Commission renders a decision on the application, unless the existing approval or a notification in writing from the Commission provides otherwise.
+
+[71 FR 78579, Dec. 29, 2006, as amended at 82 FR 29394, June 29, 2017]

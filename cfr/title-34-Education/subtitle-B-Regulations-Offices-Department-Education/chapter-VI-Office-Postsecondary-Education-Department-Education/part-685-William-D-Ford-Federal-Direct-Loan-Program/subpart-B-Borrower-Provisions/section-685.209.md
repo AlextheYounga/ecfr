@@ -1,14 +1,12 @@
 ##### § 685.209 Income-contingent repayment plans. #####
 
-Link to an amendment published at 81 FR 76081, Nov. 1, 2016.
-
 (a) *Pay As You Earn repayment plan:* The Pay As You Earn repayment plan is an income-contingent repayment plan for eligible new borrowers.
 
 (1) *Definitions.* As used in this section, other than as expressly provided for in paragraph (c) of this section -
 
 (i) *Adjusted gross income (AGI)* means the borrower's adjusted gross income as reported to the Internal Revenue Service. For a married borrower filing jointly, AGI includes both the borrower's and spouse's income. For a married borrower filing separately, AGI includes only the borrower's income;
 
-(ii) *Eligible loan* means any outstanding loan made to a borrower under the Direct Loan Program or the FFEL Program except for a defaulted loan, a Direct PLUS Loan or Federal PLUS Loan made to a parent borrower, or a Direct Consolidation Loan or Federal Consolidation Loan that repaid a Direct PLUS Loan or Federal PLUS Loan made to a parent borrower;
+(ii) *Eligible loan, for purposes of determining whether a borrower has a partial financial hardship in accordance with paragraph (a)(1)(v) of this section or adjusting a borrower's monthly payment amount in accordance with paragraph (a)(2)(ii) of this section,* means any outstanding loan made to a borrower under the Direct Loan Program or the FFEL Program except for a defaulted loan, a Direct PLUS Loan or Federal PLUS Loan made to a parent borrower, or a Direct Consolidation Loan or Federal Consolidation Loan that repaid a Direct PLUS Loan or Federal PLUS Loan made to a parent borrower;
 
 (iii) *Eligible new borrower* means an individual who -
 
@@ -338,7 +336,7 @@ Link to an amendment published at 81 FR 76081, Nov. 1, 2016.
 
 (B) Unable to reasonably access the income information of his or her spouse.
 
-(ii) *Eligible loan* means any outstanding loan made to a borrower under the Direct Loan Program or the FFEL Program except for a defaulted loan, a Direct PLUS Loan or Federal PLUS Loan made to a parent borrower, or a Direct Consolidation Loan or Federal Consolidation Loan that repaid a Direct PLUS Loan or Federal PLUS Loan made to a parent borrower;
+(ii) *Eligible loan, for purposes of adjusting a borrower's monthly payment amount in accordance with paragraph (c)(2)(ii) of this section,* means any outstanding loan made to a borrower under the Direct Loan Program or the FFEL Program except for a defaulted loan, a Direct PLUS Loan or Federal PLUS Loan made to a parent borrower, or a Direct Consolidation Loan or Federal Consolidation Loan that repaid a Direct PLUS Loan or Federal PLUS Loan made to a parent borrower;
 
 (iii) *Family size* means the number that is determined by counting the borrower, the borrower's spouse, and the borrower's children, including unborn children who will be born during the year the borrower certifies family size, if the children receive more than half their support from the borrower. Family size does not include the borrower's spouse if the borrower is separated from his or her spouse, or if the borrower is filing separately and is unable to reasonably access the spouse's income information. A borrower's family size includes other individuals if, at the time the borrower certifies family size, the other individuals -
 
@@ -354,7 +352,7 @@ Link to an amendment published at 81 FR 76081, Nov. 1, 2016.
 
 (A) Except for borrowers provided for in paragraph (c)(2)(ii)(B) of this section, the borrower's eligible loans are not solely Direct Loans, in which case the Secretary determines the borrower's adjusted monthly payment by multiplying the calculated payment by the percentage of the total outstanding principal amount of the borrower's eligible loans that are Direct Loans;
 
-(B) Both the borrower and borrower's spouse have eligible loans, in which case the Secretary determines -
+(B) Except in the case of a married borrower filing separately whose spouse's income is excluded in accordance with paragraph (c)(1)(i)(A) or (B) of this section, both the borrower and borrower's spouse have eligible loans, in which case the Secretary determines -
 
 (*1*) Each borrower's percentage of the couple's total eligible loan debt;
 
@@ -382,7 +380,7 @@ Link to an amendment published at 81 FR 76081, Nov. 1, 2016.
 
 (iv) Any unpaid accrued interest is capitalized at the time a borrower leaves the REPAYE plan.
 
-(v) If the borrower's monthly payment amount is not sufficient to pay any of the principal due, the payment of that principal is postponed until the borrower leaves the REPAYE plan or the Secretary determines the borrower does not have a partial financial hardship.
+(v) If the borrower's monthly payment amount is not sufficient to pay any of the principal due, the payment of that principal is postponed until the borrower leaves the REPAYE plan.
 
 (vi) A borrower who no longer wishes to repay under the REPAYE plan may change to a different repayment plan in accordance with § 685.210(b). A borrower who changes to a different repayment plan in accordance with this paragraph or paragraph (c)(4)(vi)(C) of this section may return to the REPAYE plan pursuant to the requirements in paragraphs (c)(4)(vi)(D) and (E) of this section.
 
@@ -422,7 +420,7 @@ Link to an amendment published at 81 FR 76081, Nov. 1, 2016.
 
 (A) The date, no earlier than 35 days before the end of the borrower's annual payment period, by which the Secretary must receive all of the documentation described in paragraph (c)(4)(i) of this section (annual deadline); and
 
-(B) The consequences if the Secretary does not receive the information within 10 days following the annual deadline specified in the notice, as described in paragraphs (c)(2)(iv), (c)(4)(v), and (c)(4)(vi) of this section.
+(B) The consequences if the Secretary does not receive the information within 10 days following the annual deadline specified in the notice, as described in paragraphs (c)(2)(iv) and (c)(4)(v) of this section.
 
 (iv) If a borrower who is currently repaying under another repayment plan selects the REPAYE plan but does not provide the documentation described in paragraph (c)(4)(i)(A) or (B) of this section, the borrower remains on his or her current repayment plan.
 
@@ -526,4 +524,4 @@ Link to an amendment published at 81 FR 76081, Nov. 1, 2016.
 
 (*3*) Returns to the sender any payment received on a loan after loan forgiveness has been granted.
 
-(Approved by the Office of Management and Budget under control number 1845-0021)(Authority: 20 U.S.C. 1087a *et seq.*)[77 FR 66136, Nov. 1, 2012, as amended at 80 FR 67238, Oct. 30, 2015]
+(Approved by the Office of Management and Budget under control number 1845-0021)(Authority: 20 U.S.C. 1087a *et seq.*)[77 FR 66136, Nov. 1, 2012, as amended at 80 FR 67238, Oct. 30, 2015; 81 FR 76081, Nov. 1, 2016]

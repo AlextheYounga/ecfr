@@ -1,7 +1,5 @@
 ##### § 401.43 Regulatory program fees. #####
 
-Link to an amendment published at 82 FR 26989, June 13, 2017.
-
 (a) *Purpose.* The purpose of this section is to provide an adequate, stable and reliable stream of revenue to cover the cost of the Commission's regulatory program activities, an important means by which the Commission coordinates management of the shared water resources of the Basin. Activities to be covered by the fees include the review of applications for projects that are subject to review under the Delaware River Basin Compact and implementing regulations; and ongoing activities associated with such projects, including but not limited to, effluent and ambient monitoring, data analysis, hydrodynamic and water quality modeling, and coordination with state and federal agencies.
 
 (b) *Types of fees.* The following types of fees are established by this section:
@@ -44,7 +42,7 @@ Link to an amendment published at 82 FR 26989, June 13, 2017.
 
 (c) *Indexed adjustment.* On July 1 of every year, beginning July 1, 2017, all fees established by this section will increase commensurate with any increase in the annual April 12-month Consumer Price Index (CPI) for Philadelphia, published by the U.S. Bureau of Labor Statistics during that year.1 In any year in which the April 12-month CPI for Philadelphia declines or shows no change, the docket application fee and annual monitoring and coordination fee will remain unchanged. Following any indexed adjustment made under this paragraph (c), a revised fee schedule will be published in the Federal Register by July 1 and posted on the Commission's Web site. Interested parties may also obtain the fee schedule by contacting the Commission directly during business hours.
 
-1 Consumer Price Index - U/Series ID: CWURA102SA0/Not Seasonally Adjusted/Area: Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD/Item: All items/Base Period: 1982-84 = 100.
+1 Consumer Price Index -U/Series ID: CUURA102SA0/Not Seasonally Adjusted/Area: Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD/Item: All items/Base Period 1982-84=100.
 
 (d) *Late payment charge.* When any fee established by this section remains unpaid 30 calendar days after the payment due date provided on the Commission's invoice, an incremental charge equal to 2% of the amount owed shall be automatically assessed. Such charge shall be assessed every 30 days thereafter until the total amount owed, including any late payment charges has been paid in full.
 
@@ -54,26 +52,27 @@ Table 1 to § 401.43 - Docket Application Filing Fee
 
 |    Project type    |                                                                 Docket application fee                                                                  |                       Fee maximum                        |
 |--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
-|  Water Allocation  |$400 per million gallons/month of allocation,<sup>1</sup> not to exceed $15,000.<sup>1</sup> Fee is doubled for any portion to be exported from the basin|Greater of: $15,000<sup>1</sup> or Alternative Review Fee.|
-|Wastewater Discharge|                                         Private projects: $1,000,<sup>1</sup> Public projects: $500<sup>1</sup>                                         |                 Alternative Review Fee.                  |
-|       Other        |         0.4% of project cost up to $10,000,000 plus 0.12% of project cost above $10,000,000 (if applicable), not to exceed $75,000<sup>1</sup>          |Greater of: $75,000<sup>1</sup> or Alternative Review Fee.|
+|  Water Allocation  |$405 per million gallons/month of allocation,<sup>1</sup> not to exceed $15,190.<sup>1</sup> Fee is doubled for any portion to be exported from the basin|Greater of: $15,190<sup>1</sup> or Alternative Review Fee.|
+|Wastewater Discharge|                                      Private projects: $1,013<sup>1</sup>  <br/>Public projects: $506<sup>1</sup>                                       |                 Alternative Review Fee.                  |
+|       Other        |         0.4% of project cost up to $10,000,000 plus 0.12% of project cost above $10,000,000 (if applicable), not to exceed $75,951<sup>1</sup>          |Greater of: $75,951<sup>1</sup> or Alternative Review Fee.|
 
 <sup>1</sup> Subject to annual adjustment in accordance with paragraph (c) of this section.
 
 Table 2 to § 401.43 - Annual Monitoring and Coordination Fee
 
-|                    |    Annual fee    |       Allocation        |
-|--------------------|------------------|-------------------------|
-|  Water Allocation  |<sup>1</sup> $300 |       \<4.99 mgm.       |
-|                    | <sup>1</sup> 450 |   5.00 to 49.99 mgm.    |
-|                    | <sup>1</sup> 650 |  50.00 to 499.99 mgm.   |
-|                    | <sup>1</sup> 825 | 500.00 to 9,999.99 mgm. |
-|                    |<sup>1</sup> 1,000| \> or = to 10,000 mgm.  |
-|                    |    Annual fee    |Discharge design capacity|
-|Wastewater Discharge|<sup>1</sup> $300 |      \< 0.05 mgd.       |
-|                    | <sup>1</sup> 610 |     0.05 to 1 mgd.      |
-|                    | <sup>1</sup> 820 |      1 to 10 mgd.       |
-|                    |<sup>1</sup> 1,000|        \>10 mgd.        |
+|                    |               Annual fee               |             Allocation             |
+|:-------------------|---------------------------------------:|:-----------------------------------|
+|  Water Allocation  |<sup>1</sup> $304  <br/><sup>1</sup> 456|\<4.99 mgm.  <br/>5.00 to 49.99 mgm.|
+|                    |            <sup>1</sup> 658            |        50.00 to 499.99 mgm.        |
+|                    |            <sup>1</sup> 835            |      500.00 to 9,999.99 mgm.       |
+|                    |           <sup>1</sup> 1,013           |       \>or = to 10,000 mgm.        |
+|                    |               Annual fee               |     Discharge design capacity      |
+|Wastewater Discharge|<sup>1</sup> $304  <br/><sup>1</sup> 618|  \<0.05 mgd.  <br/>0.05 to 1 mgd.  |
+|                    |            <sup>1</sup> 830            |            1 to 10 mgd.            |
+|                    |               Annual fee               |     Discharge design capacity      |
+
+|   |<sup>1</sup> 1,013|\>10 mgd.|
+|:--|-----------------:|:--------|
 
 <sup>1</sup> Subject to annual adjustment in accordance with paragraph (c) of this section.
 
@@ -84,9 +83,9 @@ Table 3 to § 401.43 - Additional Fees
 |Emergency Approval Under 18 CFR 401.40|                                          $5,000                                           |Alternative Review Fee.|
 |     Late Filed Renewal Surcharge     |                                          $2,000                                           |                       |
 |   Modification of a DRBC Approval    |At Executive Director's discretion, Docket Application Fee for the appropriate project type|Alternative Review Fee.|
-|             Name change              |                                    $1,000<sup>1</sup>                                     |                       |
-|         Change of Ownership          |                                    $1,500<sup>1</sup>                                     |                       |
+|             Name change              |                                    $1,013<sup>1</sup>                                     |                       |
+|         Change of Ownership          |                                    $1,519<sup>1</sup>                                     |                       |
 
 <sup>1</sup> Subject to annual adjustment in accordance with paragraph (c) of this section.
 
-[81 FR 95861, Dec. 29, 2016, as amended at 82 FR 7647, Jan. 23, 2017]
+[81 FR 95861, Dec. 29, 2016, as amended at 82 FR 7647, Jan. 23, 2017; 82 FR 26989, June 13, 2017]

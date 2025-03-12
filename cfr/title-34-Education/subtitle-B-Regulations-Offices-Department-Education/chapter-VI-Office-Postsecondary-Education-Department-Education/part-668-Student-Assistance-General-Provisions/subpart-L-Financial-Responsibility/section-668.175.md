@@ -1,6 +1,6 @@
 ##### § 668.175 Alternative standards and requirements. #####
 
-Link to an amendment published at 81 FR 76075, Nov. 1, 2016.This amendment was delayed until further notice at 82 FR 27621, June 16, 2017.
+Link to an amendment published at 81 FR 76075, Nov. 1, 2016.This amendment was delayed in part until further notice at 82 FR 27621, June 16, 2017.
 
 (a) *General.* An institution that is not financially responsible under the general standards and provisions in § 668.171, may begin or continue to participate in the title IV, HEA programs by qualifying under an alternate standard set forth in this section.
 
@@ -44,7 +44,7 @@ Link to an amendment published at 81 FR 76075, Nov. 1, 2016.This amendment was d
 
 (4) If an institution fails to comply with the requirements under paragraphs (d) (2) or (3) of this section, the Secretary may determine that the institution no longer qualifies under this alternative.
 
-(e) *Transition year alternative.* A participating institution that is not financially responsible solely because the Secretary determines that its composite score is less than 1.5 for the institution's fiscal year that began on or after July 1, 1997 but on or before June 30, 1998, may qualify as a financially responsible institution under the provisions in § 668.15(b)(7), (b)(8), (d)(2)(ii), or (d)(3), as applicable.
+(e) [Reserved]
 
 (f) *Provisional certification alternative.* (1) The Secretary may permit an institution that is not financially responsible to participate in the title IV, HEA programs under a provisional certification for no more than three consecutive years if -
 
@@ -84,4 +84,4 @@ Link to an amendment published at 81 FR 76075, Nov. 1, 2016.This amendment was d
 
 (iii) May require one or more of the persons or entities that exercise substantial control over the institution to be jointly or severally liable for any liabilities that may arise from the institution's participation in the title IV, HEA programs.
 
-(Approved by the Office of Management and Budget under control number 1840-0537)(Authority: 20 U.S.C. 1094 and 1099c and section 4 of Pub. L. 95-452, 92 Stat. 1101-1109)[62 FR 62877, Nov. 25, 1997, as amended at 63 FR 40348, 40349, July 28, 1998]
+(Approved by the Office of Management and Budget under control number 1840-0537)(Authority: 20 U.S.C. 1094 and 1099c and section 4 of Pub. L. 95-452, 92 Stat. 1101-1109)[62 FR 62877, Nov. 25, 1997, as amended at 63 FR 40348, 40349, July 28, 1998; 81 FR 76075, Nov. 1, 2016]

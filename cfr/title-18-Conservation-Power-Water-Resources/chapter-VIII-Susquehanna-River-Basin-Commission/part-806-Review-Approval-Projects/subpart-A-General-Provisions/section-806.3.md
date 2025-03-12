@@ -1,7 +1,5 @@
 ##### § 806.3 Definitions. #####
 
-Link to an amendment published at 82 FR 29390, June 29, 2017.
-
 For purposes of parts 806, 807 and 808, unless the context indicates otherwise, the words listed in this section are defined as follows:
 
 *Agricultural water use.* A water use associated primarily with the raising of food, fiber or forage crops, trees, flowers, shrubs, turf products, livestock and poultry. The term shall include aquaculture.
@@ -76,6 +74,8 @@ For purposes of parts 806, 807 and 808, unless the context indicates otherwise, 
 
 *Water resources.*Includes all waters and related natural resources within the basin.
 
+*Wetlands.* Those areas that are inundated or saturated by surface or groundwater at a frequency and duration sufficient to support, and that under normal circumstances do support, a prevalence of vegetation typically adapted for life in saturated soil conditions. Wetlands generally include swamps, marshes, bogs, and similar areas.
+
 *Withdrawal.*A taking or removal of water from any source within the basin for use within the basin.
 
-[71 FR 78579, Dec. 29, 2006, as amended at 73 FR 1273, Jan. 8, 2008; 73 FR 78619, Dec. 23, 2008; 77 FR 8098, Feb. 14, 2012; 79 FR 75429, Dec. 18, 2014]
+[71 FR 78579, Dec. 29, 2006, as amended at 73 FR 1273, Jan. 8, 2008; 73 FR 78619, Dec. 23, 2008; 77 FR 8098, Feb. 14, 2012; 79 FR 75429, Dec. 18, 2014; 82 FR 29390, June 29, 2017]

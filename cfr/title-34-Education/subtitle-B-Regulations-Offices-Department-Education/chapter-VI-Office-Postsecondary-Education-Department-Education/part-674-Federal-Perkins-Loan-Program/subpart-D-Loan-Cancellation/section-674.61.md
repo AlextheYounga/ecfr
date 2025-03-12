@@ -1,8 +1,16 @@
 ##### § 674.61 Discharge for death or disability. #####
 
-Link to an amendment published at 81 FR 76078, Nov. 1, 2016.
+(a) *Death.* (1) An institution must discharge the unpaid balance of a borrower's Defense, NDSL, or Federal Perkins loan, including interest, if the borrower dies. The institution must discharge the loan on the basis of -
 
-(a) *Death.* An institution must discharge the unpaid balance of a borrower's Defense, NDSL, or Perkins loan, including interest, if the borrower dies. The institution must discharge the loan on the basis of an original or certified copy of the death certificate, or an accurate and complete photocopy of the original or certified copy of the death certificate. Under exceptional circumstances and on a case-by-case basis, the chief financial officer of the institution may approve a discharge based upon other reliable documentation supporting the discharge request.
+(i) An original or certified copy of the death certificate;
+
+(ii) An accurate and complete photocopy of the original or certified copy of the death certificate;
+
+(iii) An accurate and complete original or certified copy of the death certificate that is scanned and submitted electronically or sent by facsimile transmission; or
+
+(iv) Verification of the borrower's death through an authoritative Federal or State electronic database approved for use by the Secretary.
+
+(2) Under exceptional circumstances and on a case-by-case basis, the chief financial officer of the institution may approve a discharge based upon other reliable documentation of the borrower's death.
 
 (b) *Total and permanent disability as defined in § 674.51(aa)(1).* (1) *General.* (i) A borrower's Defense, NDSL, or Perkins loan is discharged if the borrower becomes totally and permanently disabled, as defined in § 674.51(aa)(1), and satisfies the additional eligibility requirements in this section.
 
@@ -172,4 +180,4 @@ Link to an amendment published at 81 FR 76078, Nov. 1, 2016.
 
 (e) *Retroactive.* Discharge for death applies retroactively to all Defense, NDSL, and Perkins loans.
 
-(Approved by the Office of Management and Budget under control number 1845-0019)(Authority: 20 U.S.C. 425, 1070g, 1087dd; sec. 130(g)(2) of the Education Amendments of 1976, Pub. L. 94-482)[52 FR 45758, Dec. 1, 1987, as amended at 53 FR 49147, Dec. 6, 1988. Redesignated and amended at 59 FR 61413, 61415, Nov. 30, 1994; 64 FR 58315, Oct. 28, 1999; 65 FR 65690, Nov. 1, 2000; 66 FR 44007, Aug. 21, 2001; 72 FR 61998, Nov. 1, 2007; 73 FR 35494, June 23, 2008; 73 FR 36793, June 30, 2008; 74 FR 55664, Oct. 28, 2009; 74 FR 55987, Oct. 29, 2009; 77 FR 66125, Nov. 1, 2012]
+(Approved by the Office of Management and Budget under control number 1845-0019)(Authority: 20 U.S.C. 425, 1070g, 1087dd; sec. 130(g)(2) of the Education Amendments of 1976, Pub. L. 94-482)[52 FR 45758, Dec. 1, 1987, as amended at 53 FR 49147, Dec. 6, 1988. Redesignated and amended at 59 FR 61413, 61415, Nov. 30, 1994; 64 FR 58315, Oct. 28, 1999; 65 FR 65690, Nov. 1, 2000; 66 FR 44007, Aug. 21, 2001; 72 FR 61998, Nov. 1, 2007; 73 FR 35494, June 23, 2008; 73 FR 36793, June 30, 2008; 74 FR 55664, Oct. 28, 2009; 74 FR 55987, Oct. 29, 2009; 77 FR 66125, Nov. 1, 2012; 81 FR 76078, Nov. 1, 2016]

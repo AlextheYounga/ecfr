@@ -1,7 +1,5 @@
 ##### § 685.220 Consolidation. #####
 
-Link to an amendment published at 81 FR 76083, Nov. 1, 2016.
-
 (a) *Direct Consolidation Loans.* A borrower may consolidate education loans made under certain Federal programs into a Direct Consolidation Loan. Loans consolidated into a Direct Consolidation Loan are discharged when the Direct Consolidation Loan is originated.
 
 (b) *Loans eligible for consolidation.* The following loans may be consolidated into a Direct Consolidation Loan:
@@ -46,15 +44,15 @@ Link to an amendment published at 81 FR 76083, Nov. 1, 2016.
 
 (20) Health Education Assistance Loans (HEAL).
 
-(21) Nursing loans made under subpart II of part B of title VIII of the Public Health Service Act.
+(21) Nursing loans made under part E of title VIII of the Public Health Service Act.
 
-(c) *Components of Direct Consolidation Loans.* (1) *Subsidized component of Direct Consolidation Loans.* The term “Direct Subsidized Consolidation Loan” refers to the portion of a Direct Consolidation Loan attributable to -
+(c) *Components of Direct Consolidation Loans.* (1) *Subsidized component of Direct Consolidation Loans.* The term “Direct Subsidized Consolidation Loan” refers to the portion of a Direct Consolidation Loan attributable to—
 
 (i) The loans identified in paragraphs (b)(1) through (b)(5) of this section; and
 
 (ii) The portion of a Federal Consolidation Loan under paragraph (b)(13) of this section that is eligible for interest benefits during a deferment period under section 428C(b)(4)(C) of the Act.
 
-(2) *Unsubsidized component of Direct Consolidation Loans.* Except as provided in paragraph (c)(3) of this section, the term “Direct Unsubsidized Consolidation Loan” refers to the portion of a Direct Consolidation Loan attributable to -
+(2) *Unsubsidized component of Direct Consolidation Loans.* Except as provided in paragraph (c)(3) of this section, the term “Direct Unsubsidized Consolidation Loan” refers to the portion of a Direct Consolidation Loan attributable to—
 
 (i) The loans identified in paragraphs (b)(6) through (b)(12) of this section;
 
@@ -66,11 +64,9 @@ Link to an amendment published at 81 FR 76083, Nov. 1, 2016.
 
 (d) *Eligibility for a Direct Consolidation Loan.* (1) A borrower may obtain a Direct Consolidation Loan if the borrower meets the following requirements:
 
-(i) The borrower consolidates at least one Direct Loan Program or FFEL Program loan.
+(i) On the loans being consolidated, the borrower is—
 
-(ii) On the loans being consolidated, the borrower is -
-
-(A) At the time the borrower applies for the Direct Consolidation Loan -
+(A) At the time the borrower applies for the Direct Consolidation Loan—
 
 (*1*) In the grace period;
 
@@ -82,9 +78,9 @@ Link to an amendment published at 81 FR 76083, Nov. 1, 2016.
 
 (C) Not subject to an order for wage garnishment under section 488A of the Act, unless the order has been lifted.
 
-(iii) The borrower agrees to notify the Secretary of any change in address.
+(ii) The borrower agrees to notify the Secretary of any change in address.
 
-(2) A borrower may not consolidate a Direct Consolidation Loan or a Federal Consolidation Loan into a new consolidation loan under this section unless at least one additional eligible loan is included in the consolidation, except that a borrower may consolidate a Federal Consolidation Loan into a new consolidation loan under this section without including any additional loans if -
+(2) A borrower may not consolidate a Direct Consolidation Loan or a Federal Consolidation Loan into a new consolidation loan under this section unless at least one additional eligible loan is included in the consolidation, except that a borrower may consolidate a Federal Consolidation Loan into a new consolidation loan under this section without including any additional loans if—
 
 (i) The borrower has a Federal Consolidation Loan that is in default or has been submitted to the guaranty agency by the lender for default aversion, and the borrower wants to consolidate the Federal Consolidation Loan into the Direct Loan Program for the purpose of obtaining an income-contingent repayment plan or an income-based repayment plan; or
 
@@ -146,4 +142,4 @@ Link to an amendment published at 81 FR 76083, Nov. 1, 2016.
 
 (iv) If a borrower meets the requirements for loan forgiveness under § 685.212(h) on a loan that was consolidated into a joint Direct Consolidation Loan, the Secretary repays the portion of the outstanding balance of the consolidation loan attributable to the loan that would be eligible for forgiveness under the provisions of § 685.212(h), and that was repaid by the consolidation loan.
 
-(Approved by the Office of Management and Budget under control number 1845-0021)(Authority: 20 U.S.C. 1078-8, 1087a *et seq.*)[78 FR 65836, Nov. 1, 2013]
+(Approved by the Office of Management and Budget under control number 1845-0021)(Authority: 20 U.S.C. 1078-8, 1087a *et seq.*)[78 FR 65836, Nov. 1, 2013, as amended at 81 FR 76083, Nov. 1, 2016]

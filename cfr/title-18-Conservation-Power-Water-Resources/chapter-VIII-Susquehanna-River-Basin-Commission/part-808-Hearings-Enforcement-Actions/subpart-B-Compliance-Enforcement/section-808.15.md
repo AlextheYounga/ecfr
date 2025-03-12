@@ -1,25 +1,23 @@
 ##### § 808.15 Show cause proceeding. #####
 
-Link to an amendment published at 82 FR 29397, June 29, 2017.
-
-(a) The Executive Director may issue an order requiring an alleged violator to appear before the Commission and show cause why a penalty should not be assessed in accordance with the provisions of this chapter and Section 15.17 of the compact. The order to the alleged violator shall:
+(a) The Executive Director may issue an order requiring an alleged violator to show cause why a penalty should not be assessed in accordance with the provisions of this chapter and section 15.17 of the compact. The order to the alleged violator shall:
 
 (1) Specify the nature and duration of violation(s) that is alleged to have occurred.
 
-(2) Set forth the date and time on which, and the location where, the alleged violator shall appear before the Commission.
+(2) Set forth the date by which the alleged violator must provide a written response to the order.
 
-(3) Set forth any information to be submitted or produced by the alleged violator.
+(3) Identify the civil penalty recommended by Commission staff.
 
-(4) Identify the limits of the civil penalty that will be recommended to the Commission.
+(b) The written response by the project sponsor should include the following:
 
-(5) Name the individual(s) who has been appointed as the enforcement officer(s) in this matter pursuant to paragraph (b) of this section.
+(1) A statement whether the project sponsor contests that the violations outlined in the Order occurred;
 
-(b) Simultaneous with the issuance of the order to show cause, the Executive Director shall designate a staff member(s) to act as prosecuting officer(s).
+(2) If the project sponsor contests the violations, then a statement of the relevant facts and/or law providing the basis for the project sponsor's position;
 
-(c) In the proceeding before the Commission, the prosecuting officer(s) shall present the facts upon which the alleged violation is based and may call any witnesses and present any other supporting evidence.
+(3) Any mitigating factors or explanation regarding the violations outlined in the Order; and
 
-(d) In the proceeding before the Commission, the alleged violator shall have the opportunity to present both oral and written testimony and information, call such witnesses and present such other evidence as may relate to the alleged violation(s).
+(4) A statement explaining what the appropriate civil penalty, if any, should be utilizing the factors at § 808.16.
 
-(e) The Commission shall require witnesses to be sworn or make affirmation, documents to be certified or otherwise authenticated and statements to be verified. The Commission may also receive written submissions or oral presentations from any other persons as to whether a violation has occurred and any resulting adverse consequences.
+(c) Based on the information presented and any relevant policies, guidelines or law, the Executive Director shall make a written finding affirming or modifying the civil penalty recommended by Commission staff.
 
-(f) The prosecuting officer(s) shall recommend to the Commission the amount of the penalty to be imposed. Based upon the record presented to the Commission, the Commission shall determine whether a violation(s) has occurred that warrants the imposition of a penalty pursuant to Section 15.17 of the compact. If it is found that such a violation(s) has occurred, the Commission shall determine the amount of the penalty to be paid, in accordance with § 808.16.
+[82 FR 29397, June 29, 2017]

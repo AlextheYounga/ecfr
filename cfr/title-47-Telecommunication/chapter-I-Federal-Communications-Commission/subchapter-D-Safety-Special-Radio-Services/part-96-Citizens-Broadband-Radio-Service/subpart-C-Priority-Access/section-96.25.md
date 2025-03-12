@@ -1,7 +1,5 @@
 ##### § 96.25 Priority access licenses. #####
 
-Link to an effective date announcement published at 82 FR 26857, June 12, 2017
-
 (a) Priority Access Licensees must operate CBSDs consistent with the technical rules and interference protection requirements set forth in this part.
 
 (b) PALs have the following parameters:
@@ -36,4 +34,4 @@ Link to an effective date announcement published at 82 FR 26857, June 12, 2017
 
 (3) The PAL Protection Area may not extend beyond the boundaries of the Priority Access Licensee's Service Area.
 
-[80 FR 36222, June 23, 2015, as amended at 81 FR 49067, July 26, 2016]Effective Date Note:At 81 FR 49067, July 26, 2015, § 96.25 was amended in part by revising paragraph (c)(1)(i). This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[80 FR 36222, June 23, 2015, as amended at 81 FR 49067, July 26, 2016]

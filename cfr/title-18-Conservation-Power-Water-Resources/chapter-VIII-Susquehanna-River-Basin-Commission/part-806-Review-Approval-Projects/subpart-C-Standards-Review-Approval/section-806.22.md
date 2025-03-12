@@ -1,10 +1,8 @@
 ##### § 806.22 Standards for consumptive uses of water. #####
 
-Link to an amendment published at 82 FR 29393, June 29, 2017.
-
 (a) The project sponsors of all consumptive water uses subject to review and approval under § 806.4, § 806.5 or § 806.6 of this part shall comply with this section.
 
-(b) *Mitigation.* All project sponsors whose consumptive use of water is subject to review and approval under § 806.4, § 806.5 or § 806.6 of this part shall mitigate such consumptive use. Except to the extent that the project involves the diversion of the waters out of the basin, public water supplies shall be exempt from the requirements of this section regarding consumptive use; provided, however, that nothing in this section shall be construed to exempt individual consumptive users connected to any such public water supply from the requirements of this section. Mitigation may be provided by one, or a combination of the following:
+(b) *Mitigation.* All project sponsors whose consumptive use of water is subject to review and approval under § 806.4, § 806.5, § 806.6, or § 806.17 shall mitigate such consumptive use. Except to the extent that the project involves the diversion of the waters out of the basin, public water supplies shall be exempt from the requirements of this section regarding consumptive use; provided, however, that nothing in this section shall be construed to exempt individual consumptive users connected to any such public water supply from the requirements of this section. Mitigation may be provided by one or a combination of the following:
 
 (1) During low flow periods as may be designated by the Commission for consumptive use mitigation.
 
@@ -16,7 +14,7 @@ Link to an amendment published at 82 FR 29393, June 29, 2017.
 
 (2) Use, as a source of consumptive use water, surface storage that is subject to maintenance of a conservation release acceptable to the Commission. In any case of failure to provide the specified conservation release, such project shall provide mitigation in accordance with paragraph (3), below, for the calendar year in which such failure occurs, and the Commission will reevaluate the continued acceptability of the conservation release.
 
-(3) Provide monetary payment to the Commission, for annual consumptive use, in an amount and manner prescribed by the Commission.
+(3) Provide monetary payment to the Commission, for all water consumptively used over the course of a year, in an amount and manner prescribed by the Commission.
 
 (4) Implement other alternatives approved by the Commission.
 
@@ -24,25 +22,29 @@ Link to an amendment published at 82 FR 29393, June 29, 2017.
 
 (d) *Quality of water released for mitigation.* The physical, chemical and biological quality of water released for mitigation shall at all times meet the quality required for the purposes listed in § 806.2, as applicable.
 
-(e) *Approval by rule for consumptive uses.* (1) Except with respect to projects involving hydrocarbon development subject to the provisions of paragraph (f) of this section, any project whose sole source of water for consumptive use is a public water supply, may be approved by the Executive Director under this paragraph (e) in accordance with the following, unless the Executive Director determines that the project cannot be adequately regulated under this approval by rule.
+(e) *Approval by rule for consumptive uses* - (1) *General rule.* Except with respect to projects involving hydrocarbon development subject to the provisions of paragraph (f) of this section, any project who is solely supplied water for consumptive use by public water supply may be approved by the Executive Director under this paragraph (e) in accordance with the following, unless the Executive Director determines that the project cannot be adequately regulated under this approval by rule.
 
-(2) *Metering, daily use monitoring and quarterly reporting.* The project sponsor shall comply with metering, daily use monitoring and quarterly reporting as specified in § 806.30.
+(2) *Notification of intent.* Prior to undertaking a project or increasing a previously approved quantity of consumptive use, the project sponsor shall submit a notice of intent (NOI) on forms prescribed by the Commission, and the appropriate application fee, along with any required attachments.
 
-(3) *Standard conditions.* The standard conditions set forth in § 806.21 above shall apply to projects approved by rule.
+(3) *Time of notice.* Within 20 days after submittal of an NOI under paragraph (e)(2) of this section, the project sponsor shall satisfy the notice requirements set forth in § 806.15.
 
-(4) *Mitigation.* The project sponsor shall comply with mitigation in accordance with § 806.22 (b)(2) or (b)(3).
+(4) *Metering, daily use monitoring, and quarterly reporting.* The project sponsor shall comply with metering, daily use monitoring, and quarterly reporting as specified in § 806.30.
 
-(5) *Compliance with other laws.* The project sponsor shall obtain all necessary permits or approvals required for the project from other federal, state or local government agencies having jurisdiction over the project. The Commission reserves the right to modify, suspend or revoke any approval under this paragraph (e) if the project sponsor fails to obtain or maintain such approvals.
+(5) *Standard conditions.* The standard conditions set forth in § 806.21 shall apply to projects approved by rule.
 
-(6) The Executive Director may grant, deny, suspend, rescind, modify or condition an approval to operate under this approval by rule, or renew an existing approval by rule previously granted hereunder, and will notify the project sponsor of such determination, including the quantity of consumptive use approved.
+(6) *Mitigation.* The project sponsor shall comply with mitigation in accordance with paragraph (b)(2) or (3) of this section.
 
-(7) Approval by rule shall be effective upon issuance by the Executive Director to the project sponsor, shall expire 15 years from the date of such issuance, and supersede any previous consumptive use approvals to the extent applicable to the project.
+(7) *Compliance with other laws.* The project sponsor shall obtain all necessary permits or approvals required for the project from other federal, state or local government agencies having jurisdiction over the project. The Commission reserves the right to modify, suspend or revoke any approval under this paragraph (e) if the project sponsor fails to obtain or maintain such approvals.
+
+(8) *Decision.* The Executive Director may grant, deny, suspend, revoke, modify or condition an approval to operate under this approval by rule, or renew an existing approval by rule previously granted hereunder, and will notify the project sponsor of such determination, including the quantity of consumptive use approved.
+
+(9) *Term.* Approval by rule shall be effective upon written notification from the Executive Director to the project sponsor, shall expire 15 years from the date of such notification, and shall be deemed to rescind any previous consumptive use approvals.
 
 (f) *Approval by rule for consumptive use related to unconventional natural gas and other hydrocarbon development projects.* (1) Any unconventional natural gas development project subject to review and approval under § 806.4(a)(8), or any other hydrocarbon development project subject to review and approval under § 806.4, § 806.5, or § 806.6, shall be subject to review and approval by the Executive Director under this paragraph (f) regardless of the source or sources of water being used consumptively.
 
 (2) Notification of Intent: Prior to undertaking a project or increasing a previously approved quantity of consumptive use, the project sponsor shall submit a Notice of Intent (NOI) on forms prescribed by the Commission, and the appropriate application fee, along with any required attachments.
 
-(3) Within 10 days after submittal of an NOI under paragraph (f)(2) of this section, the project sponsor shall satisfy the notice requirements set forth in § 806.15.
+(3) Within 20 days after submittal of an NOI under paragraph (f)(2) of this section, the project sponsor shall satisfy the notice requirements set forth in § 806.15.
 
 (4) The project sponsor shall comply with metering, daily use monitoring and quarterly reporting as specified in § 806.30, or as otherwise required by the approval by rule. Daily use monitoring shall include amounts delivered or withdrawn per source, per day, and amounts used per oil or gas well or drilling pad site, per day, for well drilling, hydrofracture stimulation, hydrostatic testing, and other project-related activity. The foregoing shall apply to all water, including stimulation additives, flowback, drilling fluids, formation fluids and production fluids, utilized by the project. The project sponsor shall also submit a post-hydrofracture report in a form and manner as prescribed by the Commission.
 
@@ -54,7 +56,7 @@ Link to an amendment published at 82 FR 29393, June 29, 2017.
 
 (8) The project sponsor shall certify to the Commission that all flowback and production fluids have been re-used or treated and disposed of in accordance with applicable state and federal law.
 
-(9) The Executive Director may grant, deny, suspend, rescind, modify or condition an approval to operate under this approval by rule, or renew an existing approval by rule granted hereunder, and will notify the project sponsor of such determination, including the sources and quantity of consumptive use approved. The issuance of any approval hereunder shall not be construed to waive or exempt the project sponsor from obtaining Commission approval for any water withdrawals or diversions subject to review pursuant to § 806.4(a). Any sources of water approved pursuant to this section shall be further subject to any approval or authorization required by the member jurisdiction.
+(9) The Executive Director may grant, deny, suspend, revoke, modify or condition an approval to operate under this approval by rule, or renew an existing approval by rule granted hereunder, and will notify the project sponsor of such determination, including the sources and quantity of consumptive use approved. The issuance of any approval hereunder shall not be construed to waive or exempt the project sponsor from obtaining Commission approval for any water withdrawals or diversions subject to review pursuant to § 806.4(a). Any sources of water approved pursuant to this section shall be further subject to any approval or authorization required by the member jurisdiction.
 
 (10) Approval by rule shall be effective upon issuance by the Executive Director to the project sponsor, shall expire five years from the date of such issuance, and supersede any previous consumptive use approvals to the extent applicable to the project.
 
@@ -76,4 +78,4 @@ Link to an amendment published at 82 FR 29393, June 29, 2017.
 
 (15) The project sponsor shall provide a copy of any registration or source approval issued pursuant to this section to the appropriate agency of the applicable member jurisdiction. The project sponsor shall record on a daily basis, and report quarterly on a form and in a manner prescribed by the Commission, the quantity of water obtained from any source registered or approved hereunder. Any source approval issued hereunder shall also be subject to such monitoring and reporting requirements as may be contained in such approval or otherwise required by this part.
 
-[71 FR 78579, Dec. 29, 2006, as amended at 73 FR 78620, Dec. 23, 2008; 74 FR 49812, Sept. 29, 2009; 75 FR 60621, Oct. 1, 2010; 77 FR 8099, Feb. 14, 2012; 79 FR 75430, Dec. 18, 2014]
+[71 FR 78579, Dec. 29, 2006, as amended at 73 FR 78620, Dec. 23, 2008; 74 FR 49812, Sept. 29, 2009; 75 FR 60621, Oct. 1, 2010; 77 FR 8099, Feb. 14, 2012; 79 FR 75430, Dec. 18, 2014; 82 FR 29393, June 29, 2017]

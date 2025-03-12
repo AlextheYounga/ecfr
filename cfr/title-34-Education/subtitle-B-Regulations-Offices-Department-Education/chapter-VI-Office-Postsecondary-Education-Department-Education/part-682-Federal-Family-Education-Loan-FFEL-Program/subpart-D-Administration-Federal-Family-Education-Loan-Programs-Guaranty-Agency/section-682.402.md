@@ -20,7 +20,17 @@ Link to an amendment published at 81 FR 76079, Nov. 1, 2016.This amendment was, 
 
 (b) *Death.* (1) If an individual borrower dies, or the student for whom a parent received a PLUS loan dies, the obligation of the borrower and any endorser to make any further payments on the loan is discharged.
 
-(2) A discharge of a loan based on the death of the borrower (or student in the case of a PLUS loan) must be based on an original or certified copy of the death certificate, or an accurate and complete photocopy of the original or certified copy of the death certificate. Under exceptional circumstances and on a case-by-case basis, the chief executive officer of the guaranty agency may approve a discharge based upon other reliable documentation supporting the discharge request.
+(2)(i) A discharge of a loan based on the death of the borrower (or student in the case of a PLUS loan) must be based on -
+
+(A) An original or certified copy of the death certificate;
+
+(B) An accurate and complete photocopy of the original or certified copy of the death certificate;
+
+(C) An accurate and complete original or certified copy of the death certificate that is scanned and submitted electronically or sent by facsimile transmission; or
+
+(D) Verification of the borrower's or student's death through an authoritative Federal or State electronic database approved for use by the Secretary.
+
+(ii) Under exceptional circumstances and on a case-by-case basis, the chief executive officer of the guaranty agency may approve a discharge based upon other reliable documentation of the borrower's or student's death.
 
 (3) After receiving reliable information indicating that the borrower (or student) has died, the lender must suspend any collection activity against the borrower and any endorser for up to 60 days and promptly request the documentation described in paragraph (b)(2) of this section. If additional time is required to obtain the documentation, the period of suspension of collection activity may be extended up to an additional 60 days. If the lender is not able to obtain an original or certified copy of the death certificate, or an accurate and complete photocopy of the original or certified copy of the death certificate or other documentation acceptable to the guaranty agency, under the provisions of paragraph (b)(2) of this section, during the period of suspension, the lender must resume collection activity from the point that it had been discontinued. The lender is deemed to have exercised forbearance as to repayment of the loan during the period when collection activity was suspended.
 

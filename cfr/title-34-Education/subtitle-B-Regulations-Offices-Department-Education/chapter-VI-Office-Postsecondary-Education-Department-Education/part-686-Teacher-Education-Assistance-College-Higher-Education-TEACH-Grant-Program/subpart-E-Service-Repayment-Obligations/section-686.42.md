@@ -1,8 +1,16 @@
 ##### § 686.42 Discharge of agreement to serve. #####
 
-Link to an amendment published at 81 FR 76089, Nov. 1, 2016.
+(a) *Death.* (1) If a grant recipient dies, the Secretary discharges the obligation to complete the agreement to serve based on -
 
-(a) *Death.* If a grant recipient dies, the Secretary discharges the obligation to complete the agreement to serve based on an original or certified copy of the grant recipient's death certificate, an accurate and complete photocopy of the original or certified copy of the grant recipient's death certificate, or, on a case-by-case basis, reliable documentation acceptable to the Secretary.
+(i) An original or certified copy of the death certificate;
+
+(ii) An accurate and complete photocopy of the original or certified copy of the death certificate;
+
+(iii) An accurate and complete original or certified copy of the death certificate that is scanned and submitted electronically or sent by facsimile transmission; or
+
+(iv) Verification of the grant recipient's death through an authoritative Federal or State electronic database approved for use by the Secretary.
+
+(2) Under exceptional circumstances and on a case-by-case basis, the Secretary discharges the obligation to complete the agreement to serve based on other reliable documentation of the grant recipient's death that is acceptable to the Secretary.
 
 (b) *Total and permanent disability.* (1) A grant recipient's agreement to serve is discharged if the recipient becomes totally and permanently disabled, as defined in 34 CFR 682.200(b), and the grant recipient applies for and satisfies the eligibility requirements for a total and permanent disability discharge in accordance with 34 CFR 685.213.
 
@@ -44,4 +52,4 @@ Link to an amendment published at 81 FR 76089, Nov. 1, 2016.
 
 (5) Based on a request for a military discharge from the grant recipient or his or her representative, the Secretary will notify the grant recipient or his or her representative of the outcome of the discharge request. For the portion on the service obligation that remains, the grant recipient remains responsible for fulfilling his or her service obligation in accordance with § 686.12.
 
-(Approved by the Office of Management and Budget under control number 1845-0083)(Authority: 20 U.S.C. 1070g, *et seq.*)[73 35495, June 23, 2008, as amended at 74 FR 55950, Oct. 29, 2009]
+(Approved by the Office of Management and Budget under control number 1845-0083)(Authority: 20 U.S.C. 1070g, *et seq.*)[73 35495, June 23, 2008, as amended at 74 FR 55950, Oct. 29, 2009; 81 FR 76089, Nov. 1, 2016]

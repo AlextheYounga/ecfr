@@ -1,7 +1,5 @@
 ##### § 806.6 Transfer of approvals. #####
 
-Link to an amendment published at 82 FR 29390, June 29, 2017.
-
 (a) An existing Commission approval may be transferred to a new project sponsor by the Executive Director provided:
 
 (1) The application for transfer is submitted within 90 days of a transfer or change in ownership of a project.
@@ -28,6 +26,8 @@ Link to an amendment published at 82 FR 29390, June 29, 2017.
 
 (5) The project has a consumptive water use approval and has an associated withdrawal that has not been approved by the Commission.
 
+(6) The project is registered under subpart E of this part.
+
 (c) Upon undergoing a change of name that does not affect ownership or control of the project, the project sponsor must request a reissuance of the project's approval by the Executive Director within 90 days from the date of the change.
 
-[80 FR 76857, Dec. 11, 2015]
+[80 FR 76857, Dec. 11, 2015, as amended at 82 FR 29390, June 29, 2017]
