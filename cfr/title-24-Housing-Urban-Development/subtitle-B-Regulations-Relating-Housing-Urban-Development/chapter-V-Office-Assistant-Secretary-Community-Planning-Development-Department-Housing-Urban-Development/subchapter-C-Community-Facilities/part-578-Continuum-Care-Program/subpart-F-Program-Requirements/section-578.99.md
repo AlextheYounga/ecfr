@@ -1,7 +1,5 @@
 ##### § 578.99 Applicability of other federal requirements. #####
 
-Link to a correction published at 81 FR 87812, December 6, 2016.
-
 In addition to the requirements set forth in 24 CFR part 5, use of assistance provided under this part must comply with the following federal requirements:
 
 (a) *Environmental review.* Activities under this part are subject to environmental review by HUD under 24 CFR part 50 as noted in § 578.31.
@@ -38,11 +36,11 @@ In addition to the requirements set forth in 24 CFR part 5, use of assistance pr
 
 (iii) The recipient, subrecipient, and owner or landlord for purposes of 24 CFR 5.2007. However, the recipient or subrecipient may limit documentation requests under § 5.2007 to only the recipient or subrecipient, provided that:
 
-(i) This limitation is made clear in both the notice described under 24 CFR 5.2005(a)(1) and the rental assistance agreement;
+(A) This limitation is made clear in both the notice described under 24 CFR 5.2005(a)(1) and the rental assistance agreement;
 
-(ii) The entity designated to receive documentation requests determines whether the program participant is entitled to protection under VAWA and immediately advise the program participant of the determination; and
+(B) The entity designated to receive documentation requests determines whether the program participant is entitled to protection under VAWA and immediately advise the program participant of the determination; and
 
-(iii) If the program participant is entitled to protection, the entity designated to receive documentation requests must notify the owner in writing that the program participant is entitled to protection under VAWA and work with the owner on the program participant's behalf. Any further sharing or disclosure of the program participant's information will be subject to the requirements in 24 CFR 5.2007.
+(C) If the program participant is entitled to protection, the entity designated to receive documentation requests must notify the owner in writing that the program participant is entitled to protection under VAWA and work with the owner on the program participant's behalf. Any further sharing or disclosure of the program participant's information will be subject to the requirements in 24 CFR 5.2007.
 
 (3) *Effective date.* The core statutory protections of VAWA that prohibit denial or termination of assistance or eviction solely because an applicant or tenant is a victim of domestic violence, dating violence, sexual assault, or stalking, applied upon enactment of VAWA 2013 on March 7, 2013. Compliance with the VAWA regulatory requirements under this section and at 24 CFR part 5, subpart L, is required for grants awarded pursuant to NOFAs published on or after December 16, 2016.
 
@@ -96,4 +94,4 @@ In addition to the requirements set forth in 24 CFR part 5, use of assistance pr
 
 (iii) The terms “affiliated individual,” “dating violence,” “domestic violence,” “sexual assault,” and “stalking” are defined in 24 CFR 5.2003.
 
-[77 FR 45442, July 31, 2012, as amended at 80 FR 75940, Dec. 7, 2015; 81 FR 80810, Nov. 16, 2016]
+[77 FR 45442, July 31, 2012, as amended at 80 FR 75940, Dec. 7, 2015; 81 FR 80810, Nov. 16, 2016; 81 FR 87812, Dec. 16, 2016]

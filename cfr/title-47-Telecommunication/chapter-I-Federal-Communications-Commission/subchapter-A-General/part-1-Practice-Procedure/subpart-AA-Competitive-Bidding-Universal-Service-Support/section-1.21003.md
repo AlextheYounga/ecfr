@@ -1,5 +1,7 @@
 ##### § 1.21003 Competitive bidding process. #####
 
+Link to an amendment published at 82 FR 15449, Mar. 28, 2017.
+
 (a) *Public Notice of Competitive Bidding Procedures.* Detailed competitive bidding procedures shall be established by public notice prior to the commencement of competitive bidding any time competitive bidding is conducted pursuant to this subpart.
 
 (b) *Competitive Bidding Procedures.* The public notice detailing competitive bidding procedures may establish any of the following:

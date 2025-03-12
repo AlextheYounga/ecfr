@@ -1,5 +1,7 @@
 ##### § 54.313 Annual reporting requirements for high-cost recipients. #####
 
+Link to an amendment published at 82 FR 15450, Mar. 28, 2017.
+
 (a) Any recipient of high-cost support shall provide the following, with the information and data required by paragraphs (a)(1) through (7) of this section separately broken out for both voice service and broadband service:
 
 (1) [Reserved]
