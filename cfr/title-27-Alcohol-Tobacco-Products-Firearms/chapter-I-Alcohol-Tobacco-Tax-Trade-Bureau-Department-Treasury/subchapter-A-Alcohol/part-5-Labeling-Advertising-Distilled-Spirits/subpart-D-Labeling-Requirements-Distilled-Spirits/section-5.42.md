@@ -1,7 +1,5 @@
 ##### § 5.42 Prohibited practices. #####
 
-Link to an amendment published at 85 FR 18724, Apr. 2, 2020.
-
 (a) *Statements on labels.* Bottles containing distilled spirits, or any labels on such bottles, or any individual covering, carton, or other container of such bottles used for sale at retail, or any written, printed, graphic, or other matter accompanying such bottles to the consumer shall not contain:
 
 (1) Any statement that is false or untrue in any particular, or that, irrespective of falsity, directly, or by ambiguity, omission, or inference, or by the addition of irrelevant, scientific or technical matter, tends to create a misleading impression.
@@ -26,7 +24,7 @@ Link to an amendment published at 85 FR 18724, Apr. 2, 2020.
 
 (ii) Produced in the same distilling season by the same distiller at the same distillery;
 
-(iii) Stored for at least four years in wooden containers wherein the spirits have been in contact with the wood surface except for gin and vodka which must be stored for at least four years in wooden containers coated or lined with paraffin or other substance which will preclude contact of the spirits with the wood surface;
+(iii) Stored for at least four years in wooden containers wherein the spirits have been in contact with the wood surface, except for vodka, which must be stored for at least four years in wooden containers coated or lined with paraffin or other substance which will preclude contact of the spirits with the wood surface, and except for gin, which must be stored in paraffin-lined or unlined wooden containers for at least four years;
 
 (iv) Unaltered from their original condition or character by the addition or subtraction of any substance other than by filtration, chill proofing, or other physical treatments (which do not involve the addition of any substance which will remain incorporated in the finished product or result in a change in class or type);
 
@@ -46,7 +44,7 @@ In addition to the requirements of § 5.36(a) (1) or (2), the label shall bear t
 
 (iii) It is part of the bona fide name of the permittee who bottled the distilled spirits.
 
-(6) Distilled spirits shall not be labeled as “double distilled” or ”triple distilled” or any similar term unless it is a truthful statement of fact; except that “double distilled” or “triple distilled” shall not be permitted on labels of distilled spirits produced by the redistillation method when a second or third distillation step is a necessary distillation process for the production of the product.
+(6) Distilled spirits may not be labeled as “double distilled” or “triple distilled” or any similar term unless it is a truthful statement of fact. For purposes of this paragraph only, a distillation means a single run through a pot still or a single run through a column of a column (reflux) still. The number of distillations may be understated but may not be overstated.
 
 (7) Labels shall not contain any statement, design, device, or pictorial representation which the appropriate TTB officer finds relates to, or is capable of being construed as relating to, the armed forces of the United States, or the American flag, or any emblem, seal, insignia, or decoration associated with such flag or armed forces; nor shall any label contain any statement, design, device, or pictorial representation of or concerning any flag, seal, coat of arms, crest or other insignia, likely to mislead the consumer to believe that the product has been endorsed, made, or used by, or produced for, or under the supervision of, or in accordance with the specifications of the government, organization, family, or individual with whom such flag, seal, coat of arms, crest, or insignia is associated.
 
@@ -72,4 +70,4 @@ In addition to the requirements of § 5.36(a) (1) or (2), the label shall bear t
 
 (*ii*) Includes as part of the health-related directional statement some other qualifying statement that the appropriate TTB officer finds is sufficient to dispel any misleading impression conveyed by the health-related directional statement.
 
-(26 U.S.C. 7805 (68A Stat. 917, as amended); 27 U.S.C. 205 (49 Stat. 981, as amended))[T.D. 7020, 34 FR 20637, Dec. 30, 1969, as amended by T.D. ATF-62, 44 FR 71621, Dec. 11, 1979; T.D. ATF-180, 49 FR 31673, Aug. 8, 1984; 49 FR 35768, Sept. 12, 1984; T.D. ATF-198, 50 FR 8464, Mar. 1, 1985; 50 FR 23410, June 4, 1985; T.D. TTB-1, 68 FR 10104, Mar. 3, 2003]
+(26 U.S.C. 7805 (68A Stat. 917, as amended); 27 U.S.C. 205 (49 Stat. 981, as amended))[T.D. 7020, 34 FR 20637, Dec. 30, 1969, as amended by T.D. ATF-62, 44 FR 71621, Dec. 11, 1979; T.D. ATF-180, 49 FR 31673, Aug. 8, 1984; 49 FR 35768, Sept. 12, 1984; T.D. ATF-198, 50 FR 8464, Mar. 1, 1985; 50 FR 23410, June 4, 1985; T.D. TTB-1, 68 FR 10104, Mar. 3, 2003; T.D. TTB-158, 85 FR 18724, Apr. 2, 2020]

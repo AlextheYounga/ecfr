@@ -1,7 +1,5 @@
 ##### § 7.29 Prohibited practices. #####
 
-Link to an amendment published at 85 FR 18725, Apr. 2, 2020.Link to a correction published at 85 FR 20423, Apr. 13, 2020.
-
 (a) *Statements on labels.* Containers of malt beverages, or any labels on such containers, or any carton, case, or individual covering of such containers, used for sale at retail, or any written, printed, graphic, or other material accompanying such containers to the consumer, must not contain:
 
 (1) Any statement that is false or untrue in any particular, or that, irrespective of falsity, directly, or by ambiguity, omission, or inference, or by the addition of irrelevant, scientific or technical matter, tends to create a misleading impression.
@@ -52,10 +50,8 @@ Link to an amendment published at 85 FR 18725, Apr. 2, 2020.Link to a correction
 
 (*2*) Includes as part of the health-related directional statement some other qualifying statement that the appropriate TTB officer finds is sufficient to dispel any misleading impression conveyed by the health-related directional statement.
 
-(f) *Use of words “strong,” “full strength,” and similar words.* Labels shall not contain the words “strong,” “full strength,” “extra strength,” “high test,” “high proof,” “pre-war strength,” “full oldtime alcoholic strength,” or similar words or statements, likely to be considered as statements of alcoholic content, unless required by State law. This does not preclude use of the terms “low alcohol,” “reduced alcohol,” “non-alcoholic,” and “alcohol-free,” in accordance with § 7.71 (d), (e), and (f), nor does it preclude labeling with the alcohol content in accordance with § 7.71.
-
-(g) *Use of numerals.* Labels shall not contain any statements, designs, or devices, whether in the form of numerals, letters, characters, figures, or otherwise, which are likely to be considered as statements of alcoholic content, unless required by State law, or as permitted by § 7.71.
+(f)-(g) [Reserved]
 
 (h) *Coverings, cartons, or cases.* Individual coverings, cartons, cases, or other wrappers of containers of malt beverages, used for sale at retail, or any written, printed, graphic, or other matter accompanying the container shall not contain any statement or any graphic pictorial, or emblematic representation, or other matter, which is prohibited from appearing on any label or container of malt beverages.
 
-[T.D. 6521, 25 FR 13859, Dec. 29, 1960, as amended by T.D. ATF-66, 45 FR 40552, June 13, 1980; T.D. ATF-180, 49 FR 31674, Aug. 8, 1984; T.D. ATF 280, 54 FR 3594, Jan. 25, 1989; T.D. ATF-339, 58 FR 21232, Apr. 19, 1993; T.D. TTB-1, 68 FR 10105, Mar. 3, 2003; T.D. TTB-21, 70 FR 234, Jan. 3, 2005]
+[T.D. 6521, 25 FR 13859, Dec. 29, 1960, as amended by T.D. ATF-66, 45 FR 40552, June 13, 1980; T.D. ATF-180, 49 FR 31674, Aug. 8, 1984; T.D. ATF 280, 54 FR 3594, Jan. 25, 1989; T.D. ATF-339, 58 FR 21232, Apr. 19, 1993; T.D. TTB-1, 68 FR 10105, Mar. 3, 2003; T.D. TTB-21, 70 FR 234, Jan. 3, 2005; T.D. TTB-158, 85 FR 18725, Apr. 2, 2020; 85 FR 20423, Apr. 13, 2020]

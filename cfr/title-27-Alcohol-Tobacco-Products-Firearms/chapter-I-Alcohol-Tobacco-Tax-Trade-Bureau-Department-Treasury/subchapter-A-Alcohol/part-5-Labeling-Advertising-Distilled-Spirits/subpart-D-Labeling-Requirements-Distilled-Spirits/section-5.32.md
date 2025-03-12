@@ -1,7 +1,5 @@
 ##### § 5.32 Mandatory label information. #####
 
-Link to an amendment published at 85 FR 18723, Apr. 2, 2020.
-
 There shall be stated:
 
 (a) On the brand label:
@@ -12,15 +10,15 @@ There shall be stated:
 
 (3) Alcoholic content, in accordance with § 5.37.
 
-(4) In the case of distilled spirits packaged in containers for which no standard of fill is prescribed in § 5.47, net contents in accordance with § 5.38(b) or § 5.38a(b)(2).
+(4) [Reserved]
 
 (b) On the brand label or on a back label:
 
 (1) Name and address, in accordance with § 5.36.
 
-(2) In the case of imported spirits, the country of origin, in accordance with § 5.36.
+(2) [Reserved]
 
-(3) In the case of distilled spirits packaged in containers conforming to the standards of fill prescribed in § 5.47 or § 5.47a, net contents in accordance with § 5.38(a), § 5.38a(a), or § 5.38a(b)(1).
+(3) Net contents, in accordance with § 5.38.
 
 (4) Coloring or flavoring, in accordance with § 5.39.
 

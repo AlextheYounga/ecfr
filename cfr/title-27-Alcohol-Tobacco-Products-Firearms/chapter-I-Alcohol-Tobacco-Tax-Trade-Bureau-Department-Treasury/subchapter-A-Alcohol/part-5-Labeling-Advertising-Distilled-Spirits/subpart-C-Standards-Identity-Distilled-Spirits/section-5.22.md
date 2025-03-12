@@ -1,12 +1,10 @@
 ##### § 5.22 The standards of identity. #####
 
-Link to an amendment published at 85 FR 18723, Apr. 2, 2020.
-
 Standards of identity for the several classes and types of distilled spirits set forth in this section shall be as follows (see also § 5.35, class and type):
 
 (a) *Class 1; neutral spirits or alcohol.* “Neutral spirits” or “alcohol” are distilled spirits produced from any material at or above 190° proof, and, if bottled, bottled at not less than 80° proof.
 
-(1) “Vodka” is neutral spirits so distilled, or so treated after distillation with charcoal or other materials, as to be without distinctive character, aroma, taste, or color.
+(1) “Vodka” is neutral spirits which may be treated with up to two grams per liter of sugar and up to one gram per liter of citric acid. Products to be labeled as vodka may not be aged or stored in wood barrels at any time except when stored in paraffin-lined wood barrels and labeled as bottled in bond pursuant to § 5.42(b)(3). Vodka treated and filtered with not less than one ounce of activated carbon or activated charcoal per 100 wine gallons of spirits may be labeled as “charcoal filtered.”
 
 (2) “Grain spirits” are neutral spirits distilled from a fermented mash of grain and stored in oak containers.
 
@@ -16,7 +14,7 @@ Standards of identity for the several classes and types of distilled spirits set
 
 (ii) “Corn whisky” is whisky produced at not exceeding 160° proof from a fermented mash of not less than 80 percent corn grain, and if stored in oak containers stored at not more than 125° proof in used or uncharred new oak containers and not subjected in any manner to treatment with charred wood; and also includes mixtures of such whisky.
 
-(iii) Whiskies conforming to the standards prescribed in paragraphs (b)(1)(i) and (ii) of this section, which have been stored in the type of oak containers prescribed, for a period of 2 years or more shall be further designated as “straight”; for example, “straight bourbon whisky”, “straight corn whisky”, and whisky conforming to the standards prescribed in paragraph (b)(1)(i) of this section, except that it was produced from a fermented mash of less than 51 percent of any one type of grain, and stored for a period of 2 years or more in charred new oak containers shall be designated merely as “straight whisky”. No other whiskies may be designated “straight”. “Straight whisky” includes mixtures of straight whiskies of the same type produced in the same State.
+(iii) Whiskies conforming to the standards prescribed in paragraphs (b)(1)(i) and (ii) of this section, which have been stored in the type of oak containers prescribed, for a period of 2 years or more may optionally be further designated as “straight”; for example, “straight bourbon whisky”, “straight corn whisky”, and whisky conforming to the standards prescribed in paragraph (b)(1)(i) of this section, except that it was produced from a fermented mash of less than 51 percent of any one type of grain, and stored for a period of 2 years or more in charred new oak containers may optionally be designated merely as “straight whisky”. No other whiskies may be designated “straight”. “Straight whisky” includes mixtures of straight whiskies of the same type produced in the same State.
 
 (2) “Whisky distilled from bourbon (rye, wheat, malt, or rye malt) mash” is whisky produced in the United States at not exceeding 160° proof from a fermented mash of not less than 51 percent corn, rye, wheat, malted barley, or malted rye grain, respectively, and stored in used oak containers; and also includes mixtures of such whiskies of the same type. Whisky conforming to the standard of identity for corn whisky must be designated corn whisky.
 
@@ -76,7 +74,11 @@ Standards of identity for the several classes and types of distilled spirits set
 
 (2) [Reserved]
 
-(g) *Class 7; Tequila.* “Tequila” is an alcoholic distillate from a fermented mash derived principally from the Agave Tequilana Weber (“blue” variety), with or without additional fermentable substances, distilled in such a manner that the distillate possesses the taste, aroma, and characteristics generally attributed to Tequila and bottled at not less than 80° proof, and also includes mixtures solely of such distillates. Tequila is a distinctive product of Mexico, manufactured in Mexico in compliance with the laws of Mexico regulating the manufacture of Tequila for consumption in that country.
+(g) *Class 7; Agave Spirits.* “Agave spirits” are distilled from a fermented mash, of which at least 51 percent is derived from plant species in the genus Agave and up to 49 percent is derived from other sugars. Agave spirits must be distilled at less than 95 percent alcohol by volume (190° proof) and bottled at or above 40 percent alcohol by volume (80° proof). Agave spirits may be stored in wood barrels. Agave spirits may contain added flavoring or coloring materials as authorized by § 5.23. This class also includes mixtures of agave spirits. Agave spirits that meet the standard of identity for “Tequila” or “Mezcal” may be designated as “agave spirits” or as “Tequila” or “Mezcal” as applicable.
+
+(1) “Tequila” is an agave spirit that is a distinctive product of Mexico. Tequila must be made in Mexico, in compliance with the laws and regulations of Mexico governing the manufacture of Tequila for consumption in that country.
+
+(2) “Mezcal” is an agave spirit that is a distinctive product of Mexico. Mezcal must be made in Mexico, in compliance with the laws and regulations of Mexico governing the manufacture of Mezcal for consumption in that country.
 
 (h) *Class 8; cordials and liqueurs.* Cordials and liqueurs are products obtained by mixing or redistilling distilled spirits with or over fruits, flowers, plants, or pure juices therefrom, or other natural flavoring materials, or with extracts derived from infusions, percolation, or maceration of such materials, and containing sugar, dextrose, or levulose, or a combination thereof, in an amount not less than 21/2 percent by weight of the finished product.
 

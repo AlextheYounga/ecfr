@@ -1,7 +1,5 @@
 ##### § 5.36 Name and address. #####
 
-Link to an amendment published at 85 FR 18723, Apr. 2, 2020.
-
 (a) *“Bottled by”.* (1) On labels of domestic distilled spirits there shall be stated the phrase “bottled by”, “packed by”, or “filled by”, immediately followed by the name (or trade name) of the bottler and the place where such distilled spirits are bottled. If the bottler is the actual bona fide operator of more than one distilled spirits plant engaged in bottling operations, there may, in addition, be stated immediately following the name (or trade name) of such bottler the addresses of such other plants.
 
 (2) Where distilled spirits are bottled by or for the distiller thereof, there may be stated, in lieu of the phrase “bottled by”, “packed by”, or “filled by”, followed by the bottler's name (or trade name) and address, the phrase “distilled by”, followed by the name, or the trade name under which the particular spirits were distilled, or (except in the case of distilled spirits labeled as bottled in bond) any trade name shown on the distiller's permit (covering the premises where the particular spirits were distilled), and the address (or addresses) of the distiller.
@@ -30,8 +28,8 @@ Link to an amendment published at 85 FR 18723, Apr. 2, 2020.
 
 (d) *State of distillation.* Except in the case of “light whisky”, “blended light whisky”, “blended whisky”, “a blend of straight whiskies”, or “spirit whisky”, the State of distillation shall be shown on the label of any whisky produced in the United States if the whisky is not distilled in the State given in the address on the brand label. The appropriate TTB officer may, however, require the State of distillation to be shown on the label or he may permit such other labeling as may be necessary to negate any misleading or deceptive impression which might be created as to the actual State of distillation. In the case of “light whisky”, as defined in § 5.22(b)(3), the State of distillation shall not appear in any manner on any label, when the appropriate TTB officer finds such State is associated by consumers with an American type whisky, except as a part of a name and address as set forth in paragraph (a) of this section.
 
-(e) *Country of origin.* On labels of imported distilled spirits there shall be stated the country of origin in substantially the following form “Product of \_\_\_\_\_\_”, the blank to be filled in with the name of the country of origin.
+(e) *Cross reference - country of origin statement.* For U.S. Customs and Border Protection (CBP) rules regarding country of origin marking requirements, see the CBP regulations at 19 CFR parts 102 and 134.
 
 (f) *Trade names.* The trade name of any permittee appearing on any label must be identical to the trade name listed on the permittee's basic permit.
 
-(26 U.S.C. 7805 (68A Stat. 917, as amended); 27 U.S.C. 205 (49 Stat. 981, as amended))[T.D. 7020, 34 FR 20637, Dec. 30, 1969, as amended by T.D. ATF-62, 44 FR 71621, Dec. 11, 1979; T.D. ATF-198, 50 FR 8464, Mar. 1, 1985; T.D. ATF-259, 52 FR 41423, Oct. 28, 1987; T.D. ATF-260, 52 FR 42101, Nov. 3, 1987; T.D. ATF-425, 65 FR 11891, Mar. 7, 2000]
+(26 U.S.C. 7805 (68A Stat. 917, as amended); 27 U.S.C. 205 (49 Stat. 981, as amended))[T.D. 7020, 34 FR 20637, Dec. 30, 1969, as amended by T.D. ATF-62, 44 FR 71621, Dec. 11, 1979; T.D. ATF-198, 50 FR 8464, Mar. 1, 1985; T.D. ATF-259, 52 FR 41423, Oct. 28, 1987; T.D. ATF-260, 52 FR 42101, Nov. 3, 1987; T.D. ATF-425, 65 FR 11891, Mar. 7, 2000; T.D. TTB-158, 85 FR 18723, Apr. 2, 2020]

@@ -1,10 +1,10 @@
 ##### § 5.40 Statements of age and percentage. #####
 
-Link to an amendment published at 85 FR 18723, Apr. 2, 2020.
-
 (a) *Statements of age and percentage for whisky.* In the case of straight whisky bottled in conformity with the bottled in bond labeling requirements and of domestic or foreign whisky, whether or not mixed or blended, all of which is 4 years old or more, statements of age and percentage are optional. As to all other whiskies there shall be stated the following:
 
-(1) In the case of whisky, whether or not mixed or blended but containing no neutral spirits, the age of the youngest whisky. The age statement shall read substantially as follows: “\_\_\_ years old.”
+(1)(i) In the case of whisky, whether or not mixed or blended but containing no neutral spirits, the age of the youngest whisky. The age statement shall read substantially as follows: “\_\_\_ years old.”
+
+(ii) If a whisky is aged in more than one container, the label may optionally indicate the types of oak containers used.
 
 (2) In the case of whisky, containing neutral spirits, if any of the straight whisky and/or other whisky is less than 4 years old, the percentage by volume of straight whisky and/or other whisky, and the age of the straight whisky (the youngest if two or more) and the age of such other whisky (the youngest if two or more). If all the straight whisky and/or other whisky is 4 years or more old, the age and percentage statement for such whiskies is optional. The age and percentage statement for straight whiskies and/or other whisky, whether required or optional, shall be stated in immediate conjunction with the neutral spirits statement required by § 5.39, and shall read substantially as follows:
 
@@ -22,14 +22,16 @@ Link to an amendment published at 85 FR 18723, Apr. 2, 2020.
 
 (5) Optional age statements shall appear in the same form as required age statements.
 
-(b) *Statements of age for rum, brandy, and Tequila.* Age may, but need not, be stated on labels of rums, brandies, and Tequila, except that an appropriate statement with respect to age shall appear on the brand label in case of brandy (other than immature brandies and fruit brandies which are not customarily stored in oak containers) not stored in oak containers for a period of at least 2 years. If age is stated, it shall be substantially as follows: “\_\_ years old”; the blank to be filled in with the age of the youngest distilled spirits in the product.
+(b) *Statements of age for rum, brandy, and agave spirits .* Age may, but need not, be stated on labels of rums, brandies, and agave spirits, except that an appropriate statement with respect to age shall appear on the brand label in case of brandy (other than immature brandies and fruit brandies which are not customarily stored in oak containers) not stored in oak containers for a period of at least 2 years. If age is stated, it shall be substantially as follows: “\_\_ years old”; the blank to be filled in with the age of the youngest distilled spirits in the product.
 
 (c) *Statement of storage for grain spirits.* In case of grain spirits, the period of storage in oak containers may be stated in immediate conjunction with the required percentage statement; for example, “\_\_% grain spirits stored \_\_ years in oak containers.”
 
-(d) *Other distilled spirits.* Age, maturity, or similar statements or representations as to neutral spirits (except for grain spirits as stated in paragraph (c) of this section), gin, liqueurs, cordials, cocktails, highballs, bitters, flavored brandy, flavored gin, flavored rum, flavored vodka, flavored whisky, and specialties are misleading and are prohibited from being stated on any label.
+(d) *Other distilled spirits.* (1) Statements regarding age or maturity or similar statements or representations on labels for all other spirits, except neutral spirits, are permitted only when the distilled spirits are stored in an oak barrel and, once dumped from the barrel, subjected to no treatment besides mixing with water, filtering, and bottling. If batches are made from barrels of spirits of different ages, the label may only state the age of the youngest spirits.
+
+(2) Statements regarding age or maturity or similar statements as to neutral spirits (except for grain spirits as stated in paragraph (c) of this section) are prohibited from appearing on any label.
 
 (e) *Miscellaneous age representations.* (1) Age may be understated but shall not be overstated.
 
 (2) If any age, maturity, or similar representation is made relative to any distilled spirits (such representations for products enumerated in paragraph (d) of this section are prohibited), the age shall also be stated on all labels where such representation appears, and in a manner substantially as conspicuous as such representation: *Provided.* That the use of the word “old” or other word denoting age, as part of the brand name, shall not be deemed to be an age representation: *And provided further,* That the labels of whiskies and brandies (except immature brandies) not required to bear a statement of age, and rum and Tequila aged for not less than 4 years, may contain general inconspicuous age, maturity or similar representations without the label bearing an age statement.
 
-(26 U.S.C. 7805 (68A Stat. 917, as amended); 27 U.S.C. 205 (49 Stat. 981, as amended))[T.D. 7020, 34 FR 20637, Dec. 30, 1969, as amended by T.D. ATF-62, 44 FR 71621, Dec. 11, 1979; T.D. ATF-198, 50 FR 8464, Mar. 1, 1985]
+(26 U.S.C. 7805 (68A Stat. 917, as amended); 27 U.S.C. 205 (49 Stat. 981, as amended))[T.D. 7020, 34 FR 20637, Dec. 30, 1969, as amended by T.D. ATF-62, 44 FR 71621, Dec. 11, 1979; T.D. ATF-198, 50 FR 8464, Mar. 1, 1985; T.D. TTB-158, 85 FR 18723, Apr. 2, 2020]

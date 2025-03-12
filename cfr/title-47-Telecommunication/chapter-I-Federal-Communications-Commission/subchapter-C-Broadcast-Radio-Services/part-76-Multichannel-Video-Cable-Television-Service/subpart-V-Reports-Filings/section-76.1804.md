@@ -22,4 +22,4 @@ An MVPD shall notify the Commission before transmitting any digital signal with 
 
 (j) The FCC Registration Number (FRN).
 
-[68 FR 27003, May 19, 2003, as amended at 83 FR 7631, Feb. 22, 2018]Effective Date Note:At 83 FR 7631, Feb. 22, 2018, § 76.1804 was amended by revising the introductory text. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[68 FR 27003, May 19, 2003, as amended at 83 FR 7631, Feb. 22, 2018]

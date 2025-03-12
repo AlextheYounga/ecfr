@@ -2,7 +2,7 @@
 
 (a) Each brewer who transfers beer to another brewery of the same ownership (as defined in § 25.181), or who exports beer without payment of tax, as provided in § 25.203, shall plainly and durably mark each tank, tank car, tank truck, tank ship, barge, or deep tank of a vessel in accordance with paragraph (b) of this section. These marks may be placed on a label securely affixed to the route board of the container.
 
-(b) The brewer shall mark each container with -
+(b) The brewer shall mark each container with—
 
 (1) The designation “Beer”;
 
@@ -10,7 +10,7 @@
 
 (3) The address of the brewery from which removed;
 
-(4) The address of the brewery to which transferred or the marks required for exportation in Part 28 of this chapter, as applicable;
+(4) The address of the brewery to which transferred or the marks required for exportation in part 28 of this chapter, as applicable;
 
 (5) The date of shipment; and
 

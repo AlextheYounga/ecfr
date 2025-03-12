@@ -1,7 +1,5 @@
 ##### § 7.54 Prohibited statements. #####
 
-Link to an amendment published at 85 FR 18726, Apr. 2, 2020.Link to a correction published at 85 FR 20424, Apr. 13, 2020.
-
 (a) *General prohibition.* An advertisement of malt beverages must not contain:
 
 (1) Any statement that is false or untrue in any material particular, or that, irrespective of falsity, directly, or by ambiguity, omission, or inference, or by the addition of irrelevant, scientific or technical matter, tends to create a misleading impression.
@@ -30,11 +28,7 @@ Link to an amendment published at 85 FR 18726, Apr. 2, 2020.Link to a correction
 
 (2) Any label depicted on a bottle in an advertisement shall be a reproduction of an approved label.
 
-(c) *Alcoholic content.* (1) Advertisements shall not contain the words “strong,” “full strength,” “extra strength,” “high test,” “high proof,” “full alcohol strength,” or any other statement of alcoholic content, or any statement of the percentage and quantity of the original extract, or any numerals, letters, characters, figures, or similar words or statements, likely to be considered as statements of alcoholic content, unless required by State law. This does not preclude use of the terms “low alcohol,” “reduced alcohol,” “non-alcoholic,” and “alcohol-free,” as used on labels, in accordance with § 7.71 (d), (e), and (f).
-
-(2) An approved malt beverage label which bears a statement of alcoholic content permitted under § 7.71 may be depicted in any advertising media. The statement of alcoholic content on the label may not appear more prominently in the advertisement than it does on the approved label.
-
-(3) An actual malt beverage bottle showing the approved label bearing a statement of alcoholic content permitted under § 7.71 may be displayed in any advertising media.
+(c) [Reserved]
 
 (d) *Class.* (1) No product containing less than one-half of 1 per centum of alcohol by volume shall be designated in any advertisement as “beer”, “lager beer”, “lager”, “ale”, “porter”, or “stout”, or by any other class or type designation commonly applied to fermented malt beverages containing one-half of 1 per centum or more of alcohol by volume.
 
@@ -66,4 +60,4 @@ Link to an amendment published at 85 FR 18726, Apr. 2, 2020.Link to a correction
 
 (h) *Deceptive advertising techniques.* Subliminal or similar techniques are prohibited. “Subliminal or similar techniques,” as used in this part, refers to any device or technique that is used to convey, or attempts to convey, a message to a person by means of images or sounds of a very brief nature that cannot be perceived at a normal level of awareness.
 
-[T.D. 6521, 25 FR 13859, Dec. 29, 1960, as amended by T.D. ATF-180, 49 FR 31675, Aug. 8, 1984; T.D. ATF 280, 54 FR 3594, Jan. 25, 1989; T.D. ATF-339, 58 FR 21232, Apr. 19, 1993; T.D. TTB-1, 68 FR 10106, Mar. 3, 2003; T.D. TTB-21, 70 FR 235, Jan. 3, 2005]
+[T.D. 6521, 25 FR 13859, Dec. 29, 1960, as amended by T.D. ATF-180, 49 FR 31675, Aug. 8, 1984; T.D. ATF 280, 54 FR 3594, Jan. 25, 1989; T.D. ATF-339, 58 FR 21232, Apr. 19, 1993; T.D. TTB-1, 68 FR 10106, Mar. 3, 2003; T.D. TTB-21, 70 FR 235, Jan. 3, 2005; T.D. TTB-158, 85 FR 18726, Apr. 2, 2020; 85 FR 20424, Apr. 13, 2020]

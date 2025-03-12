@@ -1,7 +1,5 @@
 ##### § 5.11 Meaning of terms. #####
 
-Link to an amendment published at 85 FR 18723, Apr. 2, 2020.
-
 When used in this part and in forms prescribed under this part, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof, terms shall have the meaning ascribed in this section. Any other term defined in the Federal Alcohol Administration Act and used in this part shall have the same meaning assigned to it by such Act.
 
 *Act.* The Federal Alcohol Administration Act.
@@ -16,11 +14,13 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Bottle.* Any container, irrespective of the material from which made, used for the sale of distilled spirits at retail.
 
-*Brand label.* The principal display panel that is most likely to be displayed, presented, shown, or examined under normal and customary conditions of display for retail sale, and any other label appearing on the same side of the bottle as the principal display panel. The principal display panel appearing on a cylindrical surface is that 40 percent of the circumference which is most likely to be displayed, presented, shown, or examined under normal and customary conditions of display for retail sale.
+*Brand label.* The label or labels bearing the brand name, alcohol content, and class or type designation in the same field of vision. Same field of vision means a single side of a container (for a cylindrical container, a side is 40 percent of the circumference) where all of the pieces of information can be viewed simultaneously without the need to turn the container.
+
+*Certificate of label approval (COLA).* A certificate issued on form TTB F 5100.31 that authorizes the bottling of wine, distilled spirits, or malt beverages, or the removal of bottled wine, distilled spirits, or malt beverages from customs custody for introduction into commerce, as long as the product bears labels identical to the labels appearing on the face of the certificate, or labels with changes authorized by TTB on the certificate or otherwise (such as through the issuance of public guidance available on the TTB website at *www.ttb.gov*).
 
 *Customs officer.* An officer of U.S. Customs and Border Protection (CBP) or any agent or other person authorized by law to perform the duties of such an officer.
 
-*Distilled spirits.* Ethyl alcohol, hydrated oxide of ethyl, spirits of wine, whisky, rum, brandy, gin, and other distilled spirits, including all dilutions and mixtures thereof, for nonindustrial use. The term “distilled spirits” shall not include mixtures containing wine, bottled at 48 degrees of proof or less, if the mixture contains more than 50 percent wine on a proof gallon basis.
+*Distilled spirits.* Ethyl alcohol, hydrated oxide of ethyl, spirits of wine, whisky, rum, brandy, gin, and other distilled spirits, including all dilutions and mixtures thereof, for nonindustrial use. The term “distilled spirits” shall not include mixtures containing wine, bottled at 48 degrees of proof or less, if the mixture contains more than 50 percent wine on a proof gallon basis. The term “distilled spirits” also does not include products containing less than 0.5 percent alcohol by volume.
 
 *Gallon.* U.S. gallon of 231 cubic inches of alcoholic beverage at 60 °F.
 
@@ -42,4 +42,4 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *United States.* The several States and Territories and the District of Columbia; the term “State” includes a Territory and the District of Columbia; and the term “Territory” means the Commonwealth of Puerto Rico.
 
-(26 U.S.C. 7805 (68 Stat. 917, as amended); 27 U.S.C. 205 (49 Stat. 981, as amended))[T.D. ATF-48, 43 FR 13533, Mar. 31, 1978; 44 FR 55839, Sept. 28, 1979, as amended by T.D. ATF-62, 44 FR 71620, Dec. 11, 1979; T.D. ATF-66, 45 FR 40547, June 13, 1980; T.D. ATF-94, 46 FR 55096, Nov. 6, 1981; T.D. ATF-198, 50 FR 8463, Mar. 1, 1985; T.D. ATF-230, 51 FR 21748, June 16, 1986; T.D. ATF-425, 65 FR 11891, Mar. 7, 2000; T.D. TTB-44, 71 FR 16921, Apr. 4, 2006; T.D. TTB-145, 81 FR 94197, Dec. 22, 2016]
+(26 U.S.C. 7805 (68 Stat. 917, as amended); 27 U.S.C. 205 (49 Stat. 981, as amended))[T.D. ATF-48, 43 FR 13533, Mar. 31, 1978; 44 FR 55839, Sept. 28, 1979, as amended by T.D. ATF-62, 44 FR 71620, Dec. 11, 1979; T.D. ATF-66, 45 FR 40547, June 13, 1980; T.D. ATF-94, 46 FR 55096, Nov. 6, 1981; T.D. ATF-198, 50 FR 8463, Mar. 1, 1985; T.D. ATF-230, 51 FR 21748, June 16, 1986; T.D. ATF-425, 65 FR 11891, Mar. 7, 2000; T.D. TTB-44, 71 FR 16921, Apr. 4, 2006; T.D. TTB-145, 81 FR 94197, Dec. 22, 2016; T.D. TTB-158, 85 FR 18723, Apr. 2, 2020]

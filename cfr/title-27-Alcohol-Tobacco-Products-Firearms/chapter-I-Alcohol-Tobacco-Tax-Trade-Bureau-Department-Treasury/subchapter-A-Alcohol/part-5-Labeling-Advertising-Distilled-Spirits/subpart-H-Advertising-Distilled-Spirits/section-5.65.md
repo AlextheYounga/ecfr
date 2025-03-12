@@ -1,7 +1,5 @@
 ##### § 5.65 Prohibited practices. #####
 
-Link to an amendment published at 85 FR 18725, Apr. 2, 2020.Link to a correction published at 85 FR 20423, Apr. 13, 2020.
-
 (a) *Restrictions.* An advertisement of distilled spirits shall not contain:
 
 (1) Any statement that is false or untrue in any material particular, or that, irrespective of falsity, directly, or by ambiguity, omission, or inference, or by the addition of irrelevant, scientific or technical matter tends to create a misleading impression.
@@ -26,7 +24,7 @@ Link to an amendment published at 85 FR 18725, Apr. 2, 2020.Link to a correction
 
 (iii) It is part of the bona fide name of the permittee who bottled the distilled spirits.
 
-(9) The words “double distilled” or “triple distilled” or any similar terms unless it is a truthful statement of fact; except that “double distilled” or “triple distilled” shall not be permitted in advertisements of distilled spirits produced by the redistillation method when a second or third distillation step is a necessary distillation process for the production of the product.
+(9) The words “double distilled” or “triple distilled” or any similar terms unless it is a truthful statement of fact. For purposes of this paragraph only, a distillation means a single run through a pot still or a single run through a column of a column (reflux) still. The number of distillations may be understated but may not be overstated.
 
 (b) *Statements inconsistent with labeling.* (1) Advertisements shall not contain any statement concerning a brand or lot of distilled spirits that is inconsistent with any statement on the labeling thereof.
 
@@ -62,4 +60,4 @@ Link to an amendment published at 85 FR 18725, Apr. 2, 2020.Link to a correction
 
 (h) *Deceptive advertising techniques.* Subliminal or similar techniques are prohibited. “Subliminal or similar techniques,” as used in this part, refers to any device or technique that is used to convey, or attempts to convey, a message to a person by means of images or sounds of a very brief nature that cannot be perceived at a normal level of awareness.
 
-[T.D. 7020, 34 FR 20337, Dec. 30, 1969, as amended by T.D. ATF-180, 49 FR 31674, Aug. 8, 1984; T.D. TTB-1, 68 FR 10105, Mar. 3, 2003]
+[T.D. 7020, 34 FR 20337, Dec. 30, 1969, as amended by T.D. ATF-180, 49 FR 31674, Aug. 8, 1984; T.D. TTB-1, 68 FR 10105, Mar. 3, 2003; T.D. TTB-158, 85 FR 18725, Apr. 2, 2020, as amended by 85 FR 20423, Apr. 13, 2020]

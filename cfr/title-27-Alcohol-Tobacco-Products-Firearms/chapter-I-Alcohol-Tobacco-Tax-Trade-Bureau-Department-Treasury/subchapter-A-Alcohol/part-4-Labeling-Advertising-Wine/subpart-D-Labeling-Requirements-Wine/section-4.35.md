@@ -1,8 +1,6 @@
 ##### § 4.35 Name and address. #####
 
-Link to an amendment published at 85 FR 18722, Apr. 2, 2020.
-
-(a) *American wine* - (1) *Mandatory statement.* A label on each container of American wine shall state either “bottled by” or “packed by” followed by the name of the bottler or packer and the address (in accordance with paragraph (c)) of the place where the wine was bottled or packed. Other words may also be stated in addition to the required words “bottled by” or “packed by” and the required name and address if the use of such words is in accordance with paragraph (a)(2) of this section.
+(a) *American wine*—(1) *Mandatory statement.* A label on each container of American wine shall state either “bottled by” or “packed by” followed by the name of the bottler or packer and the address (in accordance with paragraph (c)) of the place where the wine was bottled or packed. Other words may also be stated in addition to the required words “bottled by” or “packed by” and the required name and address if the use of such words is in accordance with paragraph (a)(2) of this section.
 
 (2) *Optional statements.* (i) In addition to the statement required by paragraph (a)(1), the label may also state the name and address of any other person for whom the wine was bottled or packed, immediately preceded by the words “bottled for” or “packed for” or “distributed by.”
 
@@ -20,7 +18,7 @@ Link to an amendment published at 85 FR 18722, Apr. 2, 2020.
 
 (v) *Cellared, Vinted* or *Prepared* means that the named winery, at the stated address, subjected the wine to cellar treatment in accordance with § 4.22(c).
 
-(b) *Imported wine* - (1) *Mandatory statements.* (i) A label on each container of imported wine shall state “imported by” or a similar appropriate phrase, followed immediately by the name of the importer, agent, sole distributor, or other person responsible for the importation, followed immediately by the address of the principal place of business in the United States of the named person.
+(b) *Imported wine*—(1) *Mandatory statements.* (i) A label on each container of imported wine shall state “imported by” or a similar appropriate phrase, followed immediately by the name of the importer, agent, sole distributor, or other person responsible for the importation, followed immediately by the address of the principal place of business in the United States of the named person.
 
 (ii) If the wine was bottled or packed in the United States, the label shall also state one of the following:
 
@@ -42,6 +40,6 @@ Link to an amendment published at 85 FR 18722, Apr. 2, 2020.
 
 (d) *Trade or operating names.* The trade or operating name of any person appearing upon any label shall be identical with a name appearing on the basic permit or other qualifying document.
 
-(e) The provisions of this section are optional until they become mandatory July 27, 1994.
+(e) *Cross reference—country of origin statement.* For U.S. Customs and Border Protection (CBP) rules regarding country of origin marking requirements, see the CBP regulations at 19 CFR parts 102 and 134.
 
-[T.D. ATF-328, 57 FR 33114, July 27, 1992; 57 FR 37591, Aug. 19, 1992. Redesignated by T.D. ATF-953, 68 FR 39455, July 2, 2003]
+[T.D. ATF-328, 57 FR 33114, July 27, 1992; 57 FR 37591, Aug. 19, 1992. Redesignated by T.D. ATF-953, 68 FR 39455, July 2, 2003; T.D. TTB-158, 85 FR 18722, Apr. 2, 2020]

@@ -28,4 +28,4 @@ Note 3 to § 76.601:
 
 Section 76.1704 contains recordkeeping requirements for proof of performance tests.
 
-[65 FR 53615, Sept. 5, 2000, as amended at 83 FR 7627, Feb. 22, 2018]Effective Date Note:At 83 FR 7627, Feb. 22, 2018, § 76.601 was amended by revising paragraph (b). Paragraph (b)(1) contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[65 FR 53615, Sept. 5, 2000, as amended at 83 FR 7627, Feb. 22, 2018]

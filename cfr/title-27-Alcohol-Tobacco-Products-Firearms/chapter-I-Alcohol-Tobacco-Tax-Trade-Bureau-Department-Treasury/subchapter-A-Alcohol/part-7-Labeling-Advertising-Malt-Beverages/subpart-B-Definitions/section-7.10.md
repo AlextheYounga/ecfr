@@ -1,7 +1,5 @@
 ##### § 7.10 Meaning of terms. #####
 
-Link to an amendment published at 85 FR 18725, Apr. 2, 2020.Link to a correction published at 85 FR 20423, Apr. 13, 2020.
-
 As used in this part, unless the context otherwise requires, terms shall have the meaning ascribed in this subpart.
 
 *Act.* The Federal Alcohol Administration Act.
@@ -15,6 +13,8 @@ As used in this part, unless the context otherwise requires, terms shall have th
 *Brand label.* The label carrying, in the usual distinctive design, the brand name of the malt beverage.
 
 *Bottler.* Any person who places malt beverages in containers of a capacity of one gallon or less.
+
+*Certificate of label approval (COLA).* A certificate issued on form TTB F 5100.31 that authorizes the bottling of wine, distilled spirits, or malt beverages, or the removal of bottled wine, distilled spirits, or malt beverages from customs custody for introduction into commerce, as long as the product bears labels identical to the labels appearing on the face of the certificate, or labels with changes authorized by TTB on the certificate or otherwise (such as through the issuance of public guidance available on the TTB website at *www.ttb.gov*).
 
 *Container.* Any can, bottle, barrel, keg, or other closed receptacle, irrespective of size or of the material from which made, for use for the sale of malt beverages at retail.
 
@@ -34,4 +34,4 @@ As used in this part, unless the context otherwise requires, terms shall have th
 
 *United States.* The several States, the District of Columbia, and Puerto Rico; the term “State” includes the District of Columbia and Puerto Rico.
 
-[T.D. ATF-48, 43 FR 13534, Mar. 31, 1978; 44 FR 55839, Sept. 28, 1979, as amended by T.D. ATF-66, 45 FR 40550, June 13, 1980; T.D. ATF-94, 46 FR 55097, Nov. 6, 1981; T.D. ATF-344, 58 FR 40354, July 28, 1993; T.D. ATF-425, 65 FR 11892, Mar. 7, 2000; T.D. TTB-21, 70 FR 234, Jan. 3, 2005; T.D. TTB-44, 71 FR 16923, Apr. 4, 2006; T.D. TTB-145, 81 FR 94199, Dec. 22, 2016]
+[T.D. ATF-48, 43 FR 13534, Mar. 31, 1978; 44 FR 55839, Sept. 28, 1979, as amended by T.D. ATF-66, 45 FR 40550, June 13, 1980; T.D. ATF-94, 46 FR 55097, Nov. 6, 1981; T.D. ATF-344, 58 FR 40354, July 28, 1993; T.D. ATF-425, 65 FR 11892, Mar. 7, 2000; T.D. TTB-21, 70 FR 234, Jan. 3, 2005; T.D. TTB-44, 71 FR 16923, Apr. 4, 2006; T.D. TTB-145, 81 FR 94199, Dec. 22, 2016; T.D. TTB-158, 85 FR 18725, Apr. 2, 2020, as amended by 85 FR 20423, Apr. 13, 2020]

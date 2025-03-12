@@ -1,12 +1,12 @@
 ##### § 271.5 Definitions. #####
 
-Link to an amendment published at 85 FR 12852, Mar. 4, 2020.
-
-As used in this part only -
+As used in this part only—
 
 *Accident/incident* means an “accident/incident” as defined in § 225.5 of this chapter.
 
 *Administrator* means the Administrator of the Federal Railroad Administration or the Administrator's delegate.
+
+*Confidential Close Call Reporting System (C3RS)* means an FRA-sponsored voluntary program designed to improve the safety of railroad operations by allowing railroad employees to confidentially report currently unreported or underreported unsafe events.
 
 *FRA* means the Federal Railroad Administration.
 
@@ -20,7 +20,7 @@ As used in this part only -
 
 *Mitigation strategy* means an action or program intended to reduce or eliminate the risk associated with a hazard.
 
-*Person* means an entity of any type covered under 1 U.S.C. 1, including, but not limited to, the following: A railroad; a manager, supervisor, official, or other employee or agent of a railroad; any owner, manufacturer, lessor, or lessee of railroad equipment, track, or facilities; any independent contractor or subcontractor providing goods or services to a railroad; and any employee of such owner, manufacturer, lessor, lessee, or independent contractor or subcontractor.
+*Person* means an entity of any type covered under 49 U.S.C. 21301, including, but not limited to, the following: A railroad; a manager, supervisor, official, or other employee or agent of a railroad; any owner, manufacturer, lessor, or lessee of railroad equipment, track, or facilities; any independent contractor or subcontractor providing goods or services to a railroad; any employee of such owner, manufacturer, lessor, lessee, or independent contractor or subcontractor.
 
 *Pilot project* means a limited scope project used to determine whether quantitative evaluation and analysis suggests that a particular system or mitigation strategy has potential to succeed on a full-scale basis.
 
@@ -59,3 +59,5 @@ As used in this part only -
 *STB* means the Surface Transportation Board of the United States.
 
 *Tourist, scenic, historic, or excursion operations* means railroad operations that carry passengers, often using antiquated equipment, with the conveyance of the passengers to a particular destination not being the principal purpose. Train movements of new passenger equipment for demonstration purposes are not tourist, scenic, historic, or excursion operations.
+
+[85 FR 9314, Feb. 18, 2020, as amended at 85 FR 12852, Mar. 4, 2020]
