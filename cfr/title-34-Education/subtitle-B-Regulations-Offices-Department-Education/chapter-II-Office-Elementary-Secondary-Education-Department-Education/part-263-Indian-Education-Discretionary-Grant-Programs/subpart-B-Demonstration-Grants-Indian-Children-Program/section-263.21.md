@@ -1,5 +1,7 @@
 ##### § 263.21 What priority is given to certain projects and applicants? #####
 
+Link to an amendment published at 85 FR 43450, July 17, 2020.
+
 (a) The Secretary gives priority to an application that presents a plan for combining two or more of the activities described in section 7121(c) of the Elementary and Secondary Education Act of 1965, as amended, over a period of more than one year.
 
 (b) The Secretary gives a competitive preference priority to -

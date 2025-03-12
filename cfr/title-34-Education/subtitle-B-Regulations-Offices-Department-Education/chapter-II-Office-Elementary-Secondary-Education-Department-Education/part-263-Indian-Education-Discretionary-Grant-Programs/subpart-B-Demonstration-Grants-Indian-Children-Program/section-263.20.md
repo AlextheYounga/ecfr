@@ -1,5 +1,7 @@
 ##### § 263.20 What definitions apply to the Demonstration Grants for Indian Children program? #####
 
+Link to an amendment published at 85 FR 43450, July 17, 2020.
+
 The following definitions apply to the Demonstration Grants for Indian Children program:
 
 *Federally supported elementary or secondary school for Indian students* means an elementary or secondary school that is operated or funded, through a contract or grant, by the Bureau of Indian Education.

@@ -14,7 +14,7 @@
 
 (3) With respect to a lease:
 
-(i) By obtaining an assignment or a coterminous sublease. If a national bank enters into a sublease that is not coterminous, the period during which the master lease must be divested will be suspended for the duration of the sublease, and will begin running again upon termination of the sublease. A national bank holding a lease as OREO may enter into an extension of the lease that would exceed the holding period referred to in § 34.82 if the extension meets the following criteria:
+(i) By obtaining an assignment or a coterminous sublease. If a national bank or Federal savings association enters into a sublease that is not coterminous, the period during which the master lease must be divested will be suspended for the duration of the sublease, and will begin running again upon termination of the sublease. A national bank or Federal savings association holding a lease as OREO may enter into an extension of the lease that would exceed the holding period referred to in § 34.82 if the extension meets the following criteria:
 
 (A) The extension is necessary in order to sublease the master lease;
 
@@ -36,4 +36,4 @@
 
 (c) *Disposition efforts and documentation.* A national bank or Federal savings association shall make diligent and ongoing efforts to dispose of each parcel of OREO, and shall maintain documentation adequate to reflect those efforts.
 
-[61 FR 11301, Mar. 20, 1996, as amended at 84 FR 56375, Oct. 22, 2019]
+[61 FR 11301, Mar. 20, 1996, as amended at 84 FR 56375, Oct. 22, 2019; 85 FR 43422, July 17, 2020]

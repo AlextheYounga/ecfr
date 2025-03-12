@@ -1,5 +1,7 @@
 ##### § 300.12 Fee for obtaining a preparer tax identification number. #####
 
+Link to an amendment published at 85 FR 43436, July 17, 2020.
+
 (a) *Applicability.* This section applies to the application for and renewal of a preparer tax identification number pursuant to 26 CFR 1.6109-2(d).
 
 (b) *Fee.* The fee to apply for or renew a preparer tax identification number is $33 per year, which is the cost to the government for processing the application for a preparer tax identification number and does not include any fees charged by the vendor.

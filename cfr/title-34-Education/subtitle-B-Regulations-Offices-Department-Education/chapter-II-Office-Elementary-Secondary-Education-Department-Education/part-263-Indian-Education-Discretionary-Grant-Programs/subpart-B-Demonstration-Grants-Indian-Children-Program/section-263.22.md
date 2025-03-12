@@ -1,5 +1,7 @@
 ##### § 263.22 What are the application requirements for these grants? #####
 
+Link to an amendment published at 85 FR 43450, July 17, 2020.
+
 (a) Each application must contain -
 
 (1) A description of how Indian tribes and parents of Indian children have been, and will be, involved in developing and implementing the proposed activities;
