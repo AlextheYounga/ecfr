@@ -1,5 +1,7 @@
 ##### § 117.371 Savannah River. #####
 
+Link to an amendment published at 86 FR 27520, May 21, 2021.
+
 (a) The draw of the Houlihan bridge (US 17) mile 21.6 at Savannah shall open on signal if at least three hours advance notice is given to the Georgia Department of Transportation Area Engineer in Savannah.
 
 (b) The draw of the Seaboard System Railroad bridge, mile 27.4 near Hardeeville, South Carolina shall open on a signal if at least three hours advance notice is given. VHF radiotelephone communications will be maintained at the railroad's chief dispatcher's office in Savannah.

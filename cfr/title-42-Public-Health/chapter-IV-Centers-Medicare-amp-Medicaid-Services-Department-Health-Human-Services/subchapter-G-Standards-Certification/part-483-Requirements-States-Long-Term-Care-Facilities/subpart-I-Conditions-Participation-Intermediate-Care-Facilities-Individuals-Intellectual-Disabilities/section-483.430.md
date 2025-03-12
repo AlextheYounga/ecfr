@@ -1,7 +1,5 @@
 ##### § 483.430 Condition of participation: Facility staffing. #####
 
-Link to an amendment published at 86 FR 26335, May 13, 2021.
-
 (a) *Standard: Qualified intellectual disability professional.* Each client's active treatment program must be integrated, coordinated and monitored by a qualified intellectual disability professional who -
 
 (1) Has at least one year of experience working directly with persons with intellectual disability or other developmental disabilities; and
@@ -103,3 +101,11 @@ Link to an amendment published at 86 FR 26335, May 13, 2021.
 (3) Staff must be able to demonstrate the skills and techniques necessary to administer interventions to manage the inappropriate behavior of clients.
 
 (4) Staff must be able to demonstrate the skills and techniques necessary to implement the individual program plans for each client for whom they are responsible.
+
+(f) *Standard: COVID-19 vaccines.* The facility maintains documentation related to staff that includes at a minimum, all of the following:
+
+(1) Staff were provided education regarding the benefits and risks and potential side effects associated with the COVID-19 vaccine.
+
+(2) Staff were offered COVID-19 vaccine or information on obtaining the COVID-19 vaccine.
+
+[53 FR 20496, June 3, 1988, as amended at 86 FR 26335, May 13, 2021]

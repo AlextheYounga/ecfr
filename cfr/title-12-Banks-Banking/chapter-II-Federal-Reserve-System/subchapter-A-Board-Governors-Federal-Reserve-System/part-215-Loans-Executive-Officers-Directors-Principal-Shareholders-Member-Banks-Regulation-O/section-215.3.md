@@ -52,11 +52,13 @@
 
 (8) Except for purposes of § 215.5 of this part, a loan:
 
-(i) Made pursuant to the “Paycheck Protection Program” in which the participation by the Small Business Administration on a deferred basis is 100 percent pursuant to section 1102 of Public Law 116-136 or section 311 of Public Law 116-260;
+(i) Made pursuant to the “Paycheck Protection Program” in which the participation by the Small Business Administration on a deferred basis is 100 percent;
 
-(ii) That is made during the period beginning on February 15, 2020, and ending on March 31, 2021; and
+(ii) For which material terms, including the maturity and the interest rate, are set by the Small Business Administration;
 
-(iii) That would not be prohibited by 13 CFR 120.110(o) or rules or interpretations thereof issued by the Small Business Administration.
+(iii) That is made during the “covered period,” as that term is defined in 15 U.S.C. 636(a)(36)(A)(iii), but in no case later than March 31, 2022; and
+
+(iv) That would not be prohibited by 13 CFR 120.110(o) or rules or interpretations thereof issued by the Small Business Administration.
 
 (c) Non-interest-bearing deposits to the credit of a bank are not considered loans, advances, or extensions of credit to the bank of deposit; nor is the giving of immediate credit to a bank upon uncollected items received in the ordinary course of business considered to be a loan, advance or extension of credit to the depositing bank.
 
@@ -64,7 +66,7 @@
 
 (e) A participation without recourse is considered to be an extension of credit by the participating bank, not by the originating bank.
 
-(f) *Tangible economic benefit rule* - (1) *In general.* An extension of credit is considered made to an insider to the extent that the proceeds are transferred to the insider or are used for the tangible economic benefit of the insider.
+(f) *Tangible economic benefit rule*—(1) *In general.* An extension of credit is considered made to an insider to the extent that the proceeds are transferred to the insider or are used for the tangible economic benefit of the insider.
 
 (2) *Exception.* An extension of credit is not considered made to an insider under paragraph (f)(1) of this section if:
 
@@ -72,4 +74,4 @@
 
 (ii) The proceeds of the extension of credit are used in a bona fide transaction to acquire property, goods, or services from the insider.
 
-[Reg. O, 59 FR 8837, Feb. 24, 1994; 59 FR 37930, July 26, 1994; 63 FR 58621, Nov. 2, 1998; 85 FR 22349, Apr. 22, 2020; 85 FR 43121, July 16, 2020; 86 FR 9839, Feb. 17, 2021]
+[Reg. O, 59 FR 8837, Feb. 24, 1994; 59 FR 37930, July 26, 1994; 63 FR 58621, Nov. 2, 1998; 85 FR 22349, Apr. 22, 2020; 85 FR 43121, July 16, 2020; 86 FR 9839, Feb. 17, 2021; 86 FR 27509, May 21, 2021]

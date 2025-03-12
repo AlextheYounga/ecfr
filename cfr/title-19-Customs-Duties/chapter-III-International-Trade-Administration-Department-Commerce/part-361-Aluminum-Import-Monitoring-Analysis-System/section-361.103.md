@@ -48,7 +48,7 @@
 
 (B) Filers may state “not applicable” for this field if the product contains only secondary aluminum and no primary aluminum. Secondary aluminum is defined as aluminum metal that is produced from recycled aluminum scrap through a re-melting process.
 
-(C) For license applications up to December 23, 2021, filers may state “unknown” for this field. Effective December 24, 2021, filers may not state “unknown” for this field.
+(C) For license applications up to June 28, 2022, filers may state “unknown” for this field. Effective June 29, 2022, filers may not state “unknown” for this field.
 
 (ii) For purposes of paragraph (c)(1)(xiv) of this section:
 
@@ -56,7 +56,7 @@
 
 (B) Filers may state “not applicable” for this field if the product does not contain a second largest volume of primary aluminum or if the product contains only secondary aluminum and no primary aluminum. Secondary aluminum is defined as aluminum metal that is produced from recycled aluminum scrap through a re-melting process.
 
-(C) For license applications up to December 23, 2021, filers may state “unknown” for this field. Effective December 24, 2021, filers may not state “unknown” for this field.
+(C) For license applications up to June 28, 2022, filers may state “unknown” for this field. Effective June 29, 2022, filers may not state “unknown” for this field.
 
 (iii) For purposes of paragraph (c)(1)(xv) of this section:
 
@@ -73,3 +73,5 @@
 (e) *Correcting submitted license information.* Users will need to correct licenses themselves if they determine that there was an error submitted. To access a previously issued license, a user must log on with his username and identify the license number and the volume (quantity in kilograms) for the first product shown on the license. The information on the license should match the information presented in the entry summary data as closely as possible. This includes the value and quantity of the shipment, the expected date of importation, and the Customs port of entry.
 
 (f) *Low-value licenses.* There is one exception to the requirement for obtaining a unique license for each Customs entry. If the total value of the covered aluminum portion of an entry is less than $5,000, applicants may apply to Commerce for a low-value license that can be used in lieu of a single-entry license for low-value entries.
+
+[85 FR 83814, Dec. 23, 2020, as amended at 86 FR 27518, May 21, 2021]

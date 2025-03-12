@@ -1,7 +1,5 @@
 ##### § 483.460 Condition of participation: Health care services. #####
 
-Link to an amendment published at 86 FR 26336, May 13, 2021.
-
 (a) *Standard: Physician services.* (1) The facility must ensure the availability of physician services 24 hours a day.
 
 (2) The physician must develop, in coordination with licensed nursing personnel, a medical care plan of treatment for a client if the physician determines that an individual client requires 24-hour licensed nursing care. This plan must be integrated in the individual program plan.
@@ -16,7 +14,27 @@ Link to an amendment published at 86 FR 26336, May 13, 2021.
 
 (iv) Tuberculosis control, appropriate to the facility's population, and in accordance with the recommendations of the American College of Chest Physicians or the section of diseases of the chest of the American Academy of Pediatrics, or both.
 
-(4) To the extent permitted by State law, the facility may utilize physician assistants and nurse practitioners to provide physician services as described in this section.
+(4) The intermediate care facility for individuals with intellectual disabilities (ICF/IID) must develop and implement policies and procedures to ensure all of the following:
+
+(i) When COVID-19 vaccine is available to the facility, each client and staff member is offered the COVID-19 vaccine unless the immunization is medically contraindicated or the client or staff member has already been immunized.
+
+(ii) Before offering COVID-19 vaccine, all staff members are provided with education regarding the benefits and risks and potential side effects associated with the vaccine.
+
+(iii) Before offering COVID-19 vaccine, each client or the client's representative receives education regarding the benefits and risks and potential side effects associated with the COVID-19 vaccine.
+
+(iv) In situations where COVID-19 vaccination requires multiple doses, the client, client's representative, or staff member is provided with current information regarding each additional dose, including any changes in the benefits or risks and potential side effects associated with the COVID-19 vaccine, before requesting consent for administration of each additional doses.
+
+(v) The client, client's representative, or staff member has the opportunity to accept or refuse COVID-19 vaccine, and change their decision.
+
+(vi) The client's medical record includes documentation that indicates, at a minimum, the following:
+
+(A) That the client or client's representative was provided education regarding the benefits and risks and potential side effects of COVID-19 vaccine; and
+
+(B) Each dose of COVID-19 vaccine administered to the client; or
+
+(C) If the client did not receive the COVID-19 vaccine due to medical contraindications or refusal.
+
+(5) To the extent permitted by State law, the facility may utilize physician assistants and nurse practitioners to provide physician services as described in this section.
 
 (b) *Standard: Physician participation in the individual program plan.* A physician must participate in -
 
@@ -144,4 +162,4 @@ Link to an amendment published at 86 FR 26336, May 13, 2021.
 
 (2) If the laboratory chooses to refer specimens for testing to another laboratory, the referral laboratory must be certified in the appropriate specialties and subspecialities of service in accordance with the requirements of part 493 of this chapter.
 
-[53 FR 20496, June 3, 1988, as amended at 57 FR 7136, Feb. 28, 1992]
+[53 FR 20496, June 3, 1988, as amended at 57 FR 7136, Feb. 28, 1992; 86 FR 26336, May 13, 2021]
