@@ -6,7 +6,7 @@
 
 *Captain of the Port (COTP)* means the Coast Guard officer designated by the Commandant to command a COTP Zone as described in part 3 of this chapter.
 
-*Constructed* in respect of a vessel means a stage of construction when -
+*Constructed* in respect of a vessel means a stage of construction when—
 
 (1) The keel of a vessel is laid;
 
@@ -36,4 +36,4 @@
 
 *Voyage* means any transit by a vessel destined for any United States port or place.
 
-[USCH-2001-10486, 77 FR 17306, Mar. 23, 2012, as amended at 77 FR 33970, June 8, 2012; 80 FR 5330, Jan. 30, 2015; USCG-2018-0874, 84 FR 30829, June 28, 2019]
+[USCH-2001-10486, 77 FR 17306, Mar. 23, 2012, as amended at 77 FR 33970, June 8, 2012; 80 FR 5330, Jan. 30, 2015; USCG-2018-0874, 84 FR 30879, June 28, 2019]

@@ -1,7 +1,5 @@
 ##### 42.1501 General. #####
 
-Link to an amendment published at 84 FR 47866, Sept. 10, 2019.
-
 (a) Past performance information (including the ratings and supporting narratives) is relevant information, for future source selection purposes, regarding a contractor's actions under previously awarded contracts or orders. It includes, for example, the contractor's record of -
 
 (1) Conforming to requirements and to standards of good workmanship;
@@ -18,6 +16,6 @@ Link to an amendment published at 84 FR 47866, Sept. 10, 2019.
 
 (7) Business-like concern for the interest of the customer.
 
-(b) Agencies shall monitor their compliance with the past performance evaluation requirements (see 42.1502), and use the Contractor Performance Assessment Reporting System (CPARS) and Past Performance Information Retrieval System (PPIRS) metric tools to measure the quality and timely reporting of past performance information.
+(b) Agencies shall monitor their compliance with the past performance evaluation requirements (see 42.1502), and use the Contractor Performance Assessment Reporting System (CPARS) metric tools to measure the quality and timely reporting of past performance information. CPARS is the official source for past performance information.
 
-[78 FR 46788, Aug. 1, 2013, as amended at 79 FR 31194, May 30, 2014]
+[78 FR 46788, Aug. 1, 2013, as amended at 79 FR 31194, May 30, 2014; 84 FR 47866, Sept. 10, 2019]

@@ -1,10 +1,8 @@
 ##### 52.219-27 Notice of Service-Disabled Veteran-Owned Small Business Set-Aside. #####
 
-Link to an amendment published at 84 FR 47864, September 10, 2019.
-
 As prescribed in 19.1407, insert the following clause:
 
-Notice of Service-Disabled Veteran-Owned Small Business Set-Aside (NOV 2011)
+Notice of Service-Disabled Veteran-Owned Small Business Set-Aside (OCT 2019)
 
 (a) *Definition. Service-disabled veteran-owned small business concern* -
 
@@ -44,10 +42,10 @@ Notice of Service-Disabled Veteran-Owned Small Business Set-Aside (NOV 2011)
 
 (2) Each other concern is small under the size standard corresponding to the NAICS code assigned to the procurement; and
 
-(3) The joint venture meets the requirements of paragraph 7 of the explanation of Affiliates in 19.101 of the Federal Acquisition Regulation.
+(3) The joint venture meets the requirements of 13 CFR 121.103(h).
 
-(4) The joint venture meets the requirements of 13 CFR 125.15(b)
+(4) The joint venture meets the requirements of 13 CFR 125.15(b).
 
 (f) Any service-disabled veteran-owned small business concern (nonmanufacturer) must meet the requirements in 19.102(f) of the Federal Acquisition Regulation to receive a benefit under this program.
 
-(End of clause)[69 FR 25279, May 5, 2004, as amended at 76 FR 68037, Nov. 2, 2011]
+(End of clause)[69 FR 25279, May 5, 2004, as amended at 76 FR 68037, Nov. 2, 2011; 84 FR 47864, Sept. 10, 2019]

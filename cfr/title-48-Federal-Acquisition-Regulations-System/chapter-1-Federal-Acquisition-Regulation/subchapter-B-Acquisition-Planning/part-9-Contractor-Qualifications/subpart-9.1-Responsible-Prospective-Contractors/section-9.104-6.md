@@ -1,10 +1,8 @@
 ##### 9.104-6 Federal Awardee Performance and Integrity Information System. #####
 
-Link to an amendment published at 84 FR 47865, Sept. 10, 2019.
+(a)(1) Before awarding a contract in excess of the simplified acquisition threshold, the contracting officer shall review the performance and integrity information available in the Federal Awardee Performance and Integrity Information System (FAPIIS), (available at *https://www.cpars.gov* , including FAPIIS information from the System for Award Management (SAM) Exclusions and the Contractor Performance Assessment Reporting System (CPARS)
 
-(a)(1) Before awarding a contract in excess of the simplified acquisition threshold, the contracting officer shall review the performance and integrity information available in the Federal Awardee Performance and Integrity Information System (FAPIIS), (available at *www.ppirs.gov,* then select FAPIIS), including FAPIIS information from the System for Award Management (SAM) Exclusions and the Past Performance Information Retrieval System (PPIRS).
-
-(2) In accordance with 41 U.S.C. 2313(d)(3), FAPIIS also identifies -
+(2) In accordance with 41 U.S.C. 2313(d)(3), FAPIIS also identifies—
 
 (i) An affiliate that is an immediate owner or subsidiary of the offeror, if any (see 52.204-17, Ownership or Control of Offeror); and
 
@@ -20,7 +18,7 @@ Link to an amendment published at 84 FR 47865, Sept. 10, 2019.
 
 (5) Because FAPIIS is a database that provides information about prime contractors, the contracting officer posts information required to be posted about a subcontractor, such as trafficking in persons violations, to the record of the prime contractor (see 42.1503(h)(1)(v)). The prime contractor has the opportunity to post in FAPIIS any mitigating factors. The contracting officer shall consider any mitigating factors posted in FAPIIS by the prime contractor, such as degree of compliance by the prime contractor with the terms of FAR clause 52.222-50.
 
-(c) If the contracting officer obtains relevant information from FAPIIS regarding criminal, civil, or administrative proceedings in connection with the award or performance of a Government contract; terminations for default or cause; determinations of nonresponsibility because the contractor does not have a satisfactory performance record or a satisfactory record of integrity and business ethics; or comparable information relating to a grant, the contracting officer shall, unless the contractor has already been debarred or suspended -
+(c) If the contracting officer obtains relevant information from FAPIIS regarding criminal, civil, or administrative proceedings in connection with the award or performance of a Government contract; terminations for default or cause; determinations of nonresponsibility because the contractor does not have a satisfactory performance record or a satisfactory record of integrity and business ethics; or comparable information relating to a grant, the contracting officer shall, unless the contractor has already been debarred or suspended—
 
 (1) Promptly request such additional information from the offeror as the offeror deems necessary in order to demonstrate the offeror's responsibility to the contracting officer (but see 9.405); and
 
@@ -28,4 +26,4 @@ Link to an amendment published at 84 FR 47865, Sept. 10, 2019.
 
 (d) The contracting officer shall document the contract file for each contract in excess of the simplified acquisition threshold to indicate how the information in FAPIIS was considered in any responsibility determination, as well as the action that was taken as a result of the information. A contracting officer who makes a nonresponsibility determination is required to document that information in FAPIIS in accordance with 9.105-2 (b)(2).
 
-[75 FR 14065, Mar. 23, 2010, as amended at 80 FR 4986, Jan. 29, 2015; 81 FR 11990, Mar. 7, 2016; 81 FR 58638, Aug. 25, 2016; 81 FR 91638, Dec. 16, 2016; 82 FR 51530, Nov. 6, 2017]
+[75 FR 14065, Mar. 23, 2010, as amended at 80 FR 4986, Jan. 29, 2015; 81 FR 11990, Mar. 7, 2016; 81 FR 58638, Aug. 25, 2016; 81 FR 91638, Dec. 16, 2016; 82 FR 51530, Nov. 6, 2017; 84 FR 47865, Sept. 10, 2019]

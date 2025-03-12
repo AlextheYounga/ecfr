@@ -12,4 +12,4 @@
 
 (f) *Penalties.* Vessels or persons violating this rule are subject to the penalties set forth in 46 U.S.C. 70036 and 46 U.S.C. 70052.
 
-[USCG-2014-0732, 79 FR 53297, Sept. 9, 2014]
+[USCG-2014-0732, 79 FR 53297, Sept. 9, 2014, as amended by USCG-2018-1049, 84 FR 7813, Mar. 5, 2019]

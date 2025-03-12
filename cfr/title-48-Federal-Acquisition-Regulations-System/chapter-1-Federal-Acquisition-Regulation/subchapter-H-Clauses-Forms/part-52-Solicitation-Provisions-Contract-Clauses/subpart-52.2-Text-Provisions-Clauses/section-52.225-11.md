@@ -1,10 +1,8 @@
 ##### 52.225-11 Buy American - Construction Materials Under Trade Agreements. #####
 
-Link to an amendment published at 84 FR 47868, September 10, 2019.
-
 As prescribed in 25.1102(c), insert the following clause:
 
-Buy American - Construction Materials Under Trade Agreements (OCT 2016)
+Buy American - Construction Materials Under Trade Agreements (OCT 2019)
 
 (a) *Definitions.* As used in this clause -
 
@@ -36,7 +34,7 @@ Buy American - Construction Materials Under Trade Agreements (OCT 2016)
 
 *Designated country* means any of the following countries:
 
-(1) A World Trade Organization Government Procurement Agreement (WTO GPA) country (Armenia, Aruba, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Israel, Italy, Japan, Korea (Republic of), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan, Ukraine, or United Kingdom);
+(1) A World Trade Organization Government Procurement Agreement (WTO GPA) country (Armenia, Aruba, Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Israel, Italy, Japan, Korea (Republic of), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan, Ukraine, or United Kingdom);
 
 (2) A Free Trade Agreement (FTA) country (Australia, Bahrain, Canada, Chile, Colombia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Korea (Republic of), Mexico, Morocco, Nicaragua, Oman, Panama, Peru, or Singapore);
 

@@ -1,10 +1,8 @@
 ##### 52.212-5 Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Items. #####
 
-Link to an amendment published at 84 FR 47864, September 10, 2019.Link to an amendment published at 84 FR 47867, September 10, 2019.
-
 As prescribed in 12.301(b)(4), insert the following clause:
 
-Contract Terms and Conditions Required to Implement Statutes or Executive Orders - Commercial Items (AUG 2019)
+Contract Terms and Conditions Required to Implement Statutes or Executive Orders - Commercial Items (OCT 2019)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses, which are incorporated in this contract by reference, to implement provisions of law or Executive orders applicable to acquisitions of commercial items:
 
@@ -82,7 +80,7 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 \_\_ (20) 52.219-16, Liquidated Damages - Subcontracting Plan (JAN 1999) (15 U.S.C. 637(d)(4)(F)(i)).
 
-\_\_ (21) *52.219-27,* Notice of Service-Disabled Veteran-Owned Small Business Set-Aside (NOV 2011) (15 U.S.C. 657f).
+\_\_ (21) 52.219-27, Notice of Service-Disabled Veteran-Owned Small Business Set-Aside (OCT 2019) (15 U.S.C. 657f).
 
 \_\_ (22) 52.219-28, Post Award Small Business Program Rerepresentation (JUL 2013) (15 U.S.C. 632(a)(2)).
 
@@ -92,7 +90,7 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 \_\_ (25) 52.222-3, Convict Labor (JUN 2003) (E.O. 11755).
 
-\_\_ (26) 52.222-19, Child Labor - Cooperation with Authorities and Remedies (JAN 2018) (E.O. 13126).
+\_\_ (26) 52.222-19, Child Labor - Cooperation with Authorities and Remedies (OCT 2019) (E.O. 13126).
 
 \_\_ (27) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
 
@@ -160,8 +158,7 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 \_\_ (iv) Alternate III (**MAY 2014**) of 52.225-3.
 
-\_\_ (48) 52.225-5, Trade Agreements (AUG 2018)
-19 U.S.C. 2501, *et seq.,* 19 U.S.C. 3301 note).
+\_\_ (48) 52.225-5, Trade Agreements (OCT 2019) (19 U.S.C. 2501, *et seq.,* 19 U.S.C. 3301 note).
 
 \_\_ (49) 52.225-13, Restrictions on Certain Foreign Purchases (JUNE 2008) (E.O.'s, proclamations, and statutes administered by the Office of Foreign Assets Control of the Department of the Treasury).
 

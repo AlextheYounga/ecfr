@@ -1,7 +1,5 @@
 ##### 25.703-4 Waiver. #####
 
-Link to an amendment published at 84 FR 47866, Sept. 10, 2019.
-
 (a) An agency or contractor seeking a waiver of the requirements of 25.703-2 or 25.703-3, consistent with section 6(b)(5) of the Iran Sanctions Act or 22 U.S.C. 8551(b), respectively, and the Presidential Memorandum of September 23, 2010 (75 FR 67025), shall submit the request to the Office of Federal Procurement Policy, allowing sufficient time for review and approval.
 
 (b) Agencies may request a waiver on an individual or class basis; however, waivers are not indefinite and can be cancelled, if warranted.
@@ -26,7 +24,7 @@ Link to an amendment published at 84 FR 47866, Sept. 10, 2019.
 
 (ii) If the offeror conducts activities for which sanctions may be imposed under section 5 of the Iran Sanctions Act or engages in any transaction that exceeds $3,500 with Iran's Revolutionary Guard Corps or any of its officials, agents, or affiliates, the property and interests in property of which are blocked pursuant to the International Emergency Economic Powers Act, provide rationale why it is essential to the national security interests of the United States for the President to waive the prohibition on contracting with this offeror, as required by section 6(b)(5) of the Iran Sanctions Act.
 
-(6) Documentation regarding the offeror's past performance and integrity (see the Past Performance Information Retrieval System and the Federal Awardee Performance Information and Integrity System at *www.ppirs.gov,* and any other relevant information).
+(6) Documentation regarding the offeror's past performance and integrity (see the Contractor Performance Assessment Reporting System (CPARS)and the Federal Awardee Performance Information and Integrity System at *https://www.cpars.gov”* and any other relevant information).
 
 (7) Information regarding the offeror's relationship or connection with other firms that -
 
@@ -42,4 +40,4 @@ Link to an amendment published at 84 FR 47866, Sept. 10, 2019.
 
 (iii) The transactions that exceed $3,500 with Iran's Revolutionary Guard Corps or any of its officials, agents, or affiliates, the property and interests in property of which are blocked pursuant to the International Emergency Economic Powers Act.
 
-[77 FR 73519, Dec. 10, 2012, as amended at 80 FR 38298, July 2, 2015]
+[77 FR 73519, Dec. 10, 2012, as amended at 80 FR 38298, July 2, 2015; 84 FR 47866, Sept. 10, 2019]

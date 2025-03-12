@@ -1,6 +1,6 @@
 ##### 2.101 Definitions. #####
 
-Link to an amendment published at 84 FR 47864, Sept. 10, 2019.
+Link to an amendment published at 84 FR 54762, Oct. 10, 2019.
 
 (a) A word or a term, defined in this section, has the same meaning throughout this regulation (48 CFR chapter 1), unless -
 
@@ -30,11 +30,11 @@ Link to an amendment published at 84 FR 47864, Sept. 10, 2019.
 
 (3) Engineering and technical services, *i.e.,* contractual services used to support the program office during the acquisition cycle by providing such services as systems engineering and technical direction (see 9.505-1(b)) to ensure the effective operation and maintenance of a weapon system or major system as defined in OMB Circular No. A-109 or to provide direct support of a weapon system that is essential to research, development, production, operation or maintenance of the system.
 
-*Affiliates* means associated business concerns or individuals if, directly or indirectly -
+*Affiliates* means associated business concerns or individuals if, directly or indirectly either one controls or can control the other; or third party controls or can control both, except as follows:
 
-(1) Either one controls or can control the other; or
+(1) For the use in subpart 9.4, see the definition at 9.403.
 
-(2) A third party controls or can control both.
+(2) For the use in subpart 19.1, see the definition at 19.101.
 
 *Agency head* or *head of the agency* means the Secretary, Attorney General, Administrator, Governor, Chairperson, or other chief official of an executive agency, unless otherwise indicated, including any deputy or assistant chief official of an executive agency.
 

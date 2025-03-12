@@ -20,4 +20,4 @@
 
 (f) *Penalties.* Vessels or persons violating this section are subject to the penalties set forth in 46 U.S.C. 70036 and 46 U.S.C. 70052.
 
-[CGD14-04-116, 70 FR 75041, Dec. 19, 2005, as amended by CGD14-07-001, 72 FR 44778, Aug. 9, 2007]
+[CGD14-04-116, 70 FR 75041, Dec. 19, 2005, as amended by CGD14-07-001, 72 FR 44778, Aug. 9, 2007; USCG-2018-1049, 84 FR 7813, Mar. 5, 2019]

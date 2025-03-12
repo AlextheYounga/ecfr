@@ -1,10 +1,8 @@
 ##### 52.225-23 Required Use of American Iron, Steel, and Manufactured Goods - Buy American Statute - Construction Materials Under Trade Agreements. #####
 
-Link to an amendment published at 84 FR 47868, September 10, 2019.
-
 As prescribed in 25.1102(e), insert the following clause:
 
-Required Use of American Iron, Steel, and Manufactured Goods - Buy American Statute - Construction Materials Under Trade Agreements (OCT 2016)
+Required Use of American Iron, Steel, and Manufactured Goods - Buy American Statute - Construction Materials Under Trade Agreements (OCT 2019)
 
 (a) *Definitions.* As used in this clause -
 
@@ -14,7 +12,7 @@ Required Use of American Iron, Steel, and Manufactured Goods - Buy American Stat
 
 *Designated country* means any of the following countries:
 
-(1) A World Trade Organization Government Procurement Agreement (WTO GPA) country (Armenia, Aruba, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Israel, Italy, Japan, Korea (Republic of), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan, Ukraine, or United Kingdom);
+(1) A World Trade Organization Government Procurement Agreement (WTO GPA) country (Armenia, Aruba, Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Israel, Italy, Japan, Korea (Republic of), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan, Ukraine, or United Kingdom);
 
 (2) A Free Trade Agreement (FTA) country (Australia, Bahrain, Canada, Chile, Colombia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Korea (Republic of), Mexico, Morocco, Nicaragua, Oman, Panama, Peru, or Singapore);
 
@@ -50,7 +48,7 @@ Required Use of American Iron, Steel, and Manufactured Goods - Buy American Stat
 
 *Recovery Act designated country* means any of the following countries:
 
-(1) A World Trade Organization Government Procurement Agreement (WTO GPA) country (Armenia, Aruba, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Israel, Italy, Japan, Korea (Republic of), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan, Ukraine, or United Kingdom);
+(1) A World Trade Organization Government Procurement Agreement (WTO GPA) country (Armenia, Aruba, Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Israel, Italy, Japan, Korea (Republic of), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan, Ukraine, or United Kingdom);
 
 (2) A Free Trade Agreement country (FTA)(Australia, Bahrain, Canada, Chile, Colombia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Korea (Republic of), Mexico, Morocco, Nicaragua, Oman, Panama, Peru, or Singapore); or
 
@@ -163,4 +161,4 @@ Foreign (Nondesignated Country) and Domestic Construction Materials Cost Compari
 
 (2) The Contractor shall use only domestic construction material, Recovery Act designated country manufactured construction material, or designated country unmanufactured construction material, other than Bahrainian, Mexican, or Omani construction material, in performing this contract, except as provided in paragraphs (b)(3) and (b)(4) of this clause.
 
-[74 FR 14628, Mar. 31, 2009, as amended at 74 FR 40463, Aug. 11, 2009; 75 FR 53168, Aug. 30, 2010; 76 FR 68040, Nov. 2, 2011; 77 FR 12937, Mar. 2, 2012; 77 FR 13956, Mar. 7, 2012; 77 FR 27550, May 10, 2012; 77 FR 69726, Nov. 20, 2012; 78 FR 46794, Aug. 1, 2013; 78 FR 70481, Nov. 25, 2013; 79 FR 24222, Apr. 29, 2014; 80 FR 81894, Dec. 31, 2015; 81 FR 67776, Sept. 30, 2016]
+[74 FR 14628, Mar. 31, 2009, as amended at 74 FR 40463, Aug. 11, 2009; 75 FR 53168, Aug. 30, 2010; 76 FR 68040, Nov. 2, 2011; 77 FR 12937, Mar. 2, 2012; 77 FR 13956, Mar. 7, 2012; 77 FR 27550, May 10, 2012; 77 FR 69726, Nov. 20, 2012; 78 FR 46794, Aug. 1, 2013; 78 FR 70481, Nov. 25, 2013; 79 FR 24222, Apr. 29, 2014; 80 FR 81894, Dec. 31, 2015; 81 FR 67776, Sept. 30, 2016; 84 FR 47868, Sept. 10, 2019]

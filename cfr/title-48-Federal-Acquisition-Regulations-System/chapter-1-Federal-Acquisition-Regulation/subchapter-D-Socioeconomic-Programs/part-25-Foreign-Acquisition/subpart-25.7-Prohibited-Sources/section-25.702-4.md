@@ -1,7 +1,5 @@
 ##### 25.702-4 Waiver. #####
 
-Link to an amendment published at 84 FR 47866, Sept. 10, 2019.
-
 (a) The President may waive the requirement of subsection 25.702-2 on a case-by-case basis if the President determines and certifies in writing to the appropriate congressional committees that it is in the national interest to do so.
 
 (b) An agency seeking waiver of the requirement shall submit the request to the Administrator of the Office of Federal Procurement Policy (OFPP), allowing sufficient time for review and approval. Upon receipt of the waiver request, OFPP shall consult with the President's National Security Council, Office of African Affairs, and the Department of State Sudan Office and Sanctions Office to assess foreign policy aspects of making a national interest recommendation.
@@ -24,7 +22,7 @@ Link to an amendment published at 84 FR 47866, Sept. 10, 2019.
 
 (v) Justification, with market research demonstrating that no other offeror can provide the product or service and stating why the product or service must be procured from this offeror, as well as why it is in the national interest for the President to waive the prohibition on contracting with this offeror that conducts restricted business operations in Sudan, including consideration of foreign policy aspects identified in consultation(s) pursuant to 25.702-4(b);
 
-(vi) Documentation regarding the offeror's past performance and integrity (see the Past Performance Information Retrieval System including the Federal Awardee Performance Information and Integrity System at *http://www.ppirs.gov* and any other relevant information);
+(vi) Documentation regarding the offeror's past performance and integrity (see the Contractor Performance Assessment Reporting System (CPARS) including the Federal Awardee Performance Information and Integrity System at *https://www.cpars.gov”* and any other relevant information);
 
 (vii) Information regarding the offeror's relationship or connection with other firms that conduct prohibited business operations in Sudan; and
 
@@ -32,4 +30,4 @@ Link to an amendment published at 84 FR 47866, Sept. 10, 2019.
 
 (d) The consultation in 25.702-4(b) and the information in 25.702-4(c)(3) will be considered in determining whether to recommend that the President waive the requirement of subsection 25.702-2. In accordance with section 6(c) of the Sudan Accountability and Divestment Act of 2007, OFPP will semiannually submit a report to Congress, on April 15th and October 15th, on the waivers granted.
 
-[73 FR 33638, June 12, 2008, as amended at 76 FR 68038, Nov. 2, 2011]
+[73 FR 33638, June 12, 2008, as amended at 76 FR 68038, Nov. 2, 2011; 84 FR 47866, Sept. 10, 2019]

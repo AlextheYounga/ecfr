@@ -1,5 +1,7 @@
 ##### § 46.5 Annual stress test. #####
 
+Link to an amendment published at 84 FR 54476, Oct. 10, 2019.
+
 Each covered institution must conduct the annual stress test under this part subject to the following requirements:
 
 (a) *Financial data.* A covered institution must use financial data as of December 31 of the previous calendar year.

@@ -1,5 +1,7 @@
 ##### § 46.4 Reservation of authority. #####
 
+Link to an amendment published at 84 FR 54476, Oct. 10, 2019.
+
 (a) *Generally.* The OCC may require a national bank or Federal savings association not otherwise subject to this part to comply with the stress test requirements of this part. With respect to any national bank or Federal savings association subject to the stress test requirements of this part pursuant to § 46.3(a), the OCC may modify or delay some or all of the requirements of this part which include:
 
 (1) *Timing of stress test.* The OCC may accelerate or extend any specified deadline for stress testing, reporting, or publication of disclosures of the stress test results.

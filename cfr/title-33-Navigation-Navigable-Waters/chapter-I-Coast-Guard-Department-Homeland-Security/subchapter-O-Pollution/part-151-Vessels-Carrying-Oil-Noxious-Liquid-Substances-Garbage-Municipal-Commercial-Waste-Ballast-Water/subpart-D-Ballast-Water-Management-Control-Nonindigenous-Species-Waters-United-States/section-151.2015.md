@@ -18,8 +18,6 @@
 
 (3) Vessels that operate in more than a single COTP Zone and take on and discharge ballast water exclusively in a single COTP Zone.
 
-Table 1 to § 151.2015 - Table of 33 CFR 151.2015 Specific Exemptions for Types of Vessels
-
 |                                                                                                                                                                                     |151.2025  <br/>(Management)|151.2060  <br/>(Reporting)|151.2070  <br/>(Recordkeeping)|
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|--------------------------|------------------------------|
 |                                                        Department of Defense or Coast Guard vessel subject to 46 U.S.C. 4713                                                        |          Exempt           |          Exempt          |           Exempt.            |
@@ -27,9 +25,8 @@ Table 1 to § 151.2015 - Table of 33 CFR 151.2015 Specific Exemptions for Types 
 |                                                                    Crude oil tankers engaged in coastwise trade                                                                     |          Exempt           |          Exempt          |           Exempt.            |
 |                                              Vessel operates exclusively on voyages between ports or places within a single COTP Zone                                               |          Exempt           |          Exempt          |           Exempt.            |
 |Seagoing vessel operates on voyages between ports or places in more than a single COTP Zone, does not operate outside of EEZ, and ≤1600 gross register tons or ≤3000 gross tons (ITC)|          Exempt           |        Applicable        |         Applicable.          |
-|                                                                                 Non-seagoing vessel                                                                                 |          Exempt           |  Applicable<sup>1</sup>  |    Applicable<sup>1</sup>    |
+|                                                                                 Non-seagoing vessel                                                                                 |          Exempt           | Applicable <sup>1</sup>  |    Applicable<sup>1</sup>    |
 |                 Vessel operates between ports or places in more than a single COTP Zone and takes on and discharges ballast water exclusively in a single COTP Zone                 |          Exempt           |        Applicable        |         Applicable.          |
+|                                       <sup>1</sup> Unless operating exclusively on voyages between ports or places within a single COTP Zone.                                       |                           |                          |                              |
 
-<sup>1</sup> Unless operating exclusively on voyages between ports or places within a single COTP Zone.
-
-[USCG-2001-10486, 77 FR 17306, Mar. 23, 2012, as amended by USCG-2012-0924, 80 FR 73114, Nov. 24, 2015; 83 FR 47293, Sept. 19, 2018]
+[USCG-2001-10486, 77 FR 17306, Mar. 23, 2012, as amended by USCG-2012-0924, 80 FR 73114, Nov. 24, 2015; USCG-2018-0245, 83 FR 47293, Sept. 19, 2018]

@@ -1,10 +1,8 @@
 ##### 52.213-4 Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items). #####
 
-Link to an amendment published at 84 FR 47867, September 10, 2019.
-
 As prescribed in 13.302-5(d), insert the following clause:
 
-Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (AUG 2019)
+Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (OCT 2019)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses that are incorporated by reference:
 
@@ -52,7 +50,7 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (AU
 
 (i) 52.204-10, Reporting Executive Compensation and First-Tier Subcontract Awards (OCT 2018) (Pub. L. 109-282) (31 U.S.C. 6101 note) (Applies to contracts valued at $30,000 or more).
 
-(ii) 52.222-19, Child Labor - Cooperation with Authorities and Remedies (JAN 2018) (E.O. 13126) (Applies to contracts for supplies exceeding the micro-purchase threshold).
+(ii) 52.222-19, Child Labor-Cooperation with Authorities and Remedies (OCT 2019) (E.O. 13126). (Applies to contracts for supplies exceeding the micro-purchase threshold).
 
 (iii) 52.222-20, Contracts for Materials, Supplies, Articles, and Equipment Exceeding $15,000 (MAY 2014) (41 U.S.C. chapter 65) (Applies to supply contracts over $15,000 in the United States, Puerto Rico, or the U.S. Virgin Islands).
 
