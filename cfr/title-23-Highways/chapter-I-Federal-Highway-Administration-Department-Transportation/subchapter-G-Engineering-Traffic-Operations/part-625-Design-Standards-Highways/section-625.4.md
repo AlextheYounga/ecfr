@@ -1,5 +1,7 @@
 ##### § 625.4 Standards, policies, and standard specifications. #####
 
+Link to an amendment published at 83 FR 54880, Nov. 1, 2018.
+
 The documents listed in this section are incorporated by reference with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51 and are on file at the Office of the Federal Register in Washington, DC. They are available as noted in paragraph (d) of this section. The other CFR references listed in this section are included for cross-reference purposes only.
 
 (a) *Roadway and appurtenances.* (1) A Policy on Geometric Design of Highways and Streets, AASHTO, 2011 (incorporated by reference; see § 625.4(d)).

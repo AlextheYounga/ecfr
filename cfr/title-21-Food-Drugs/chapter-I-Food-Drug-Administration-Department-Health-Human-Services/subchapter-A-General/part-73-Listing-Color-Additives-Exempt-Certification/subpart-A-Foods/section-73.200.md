@@ -1,5 +1,7 @@
 ##### § 73.200 Synthetic iron oxide. #####
 
+Link to an amendment published at 83 FR 54872, Nov. 1, 2018.
+
 (a) *Identity.* (1) The color additive synthetic iron oxide consists of any one or any combination of synthetically prepared iron oxides, including the hydrated forms. It is free from admixture with other substances.
 
 (2) Color additive mixtures for food use made with synthetic iron oxide may contain only those diluents that are suitable and that are listed in this subpart as safe for use in color additive mixtures for coloring foods.
