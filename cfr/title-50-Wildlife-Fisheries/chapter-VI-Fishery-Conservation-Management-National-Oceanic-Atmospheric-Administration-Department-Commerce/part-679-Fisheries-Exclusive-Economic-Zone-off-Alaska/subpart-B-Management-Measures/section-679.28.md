@@ -279,7 +279,9 @@
 
 (8) *Requirements for sampling catch* - (i) *Motherships and catcher/processors using trawl gear.* The conveyor belt conveying unsorted catch must have a removable board to allow fish to be diverted from the belt directly into the observer's sampling baskets. The diverter board must be located downstream of the scale used to weigh total catch so that the observer can use this scale to weigh large samples. At least 1 m of accessible belt space, located downstream of the scale used to weigh total catch, must be available for the observer's use when sampling a haul.
 
-(ii) *Catcher/processors using non-trawl gear.* In addition to the sampling station, vessels using non-trawl gear must provide: (A) *Tally station.* A place where the observer can see the gear as it leaves the water and can count and identify fish. It must be within 5 m of where fish are brought aboard the vessel and in a location where the observer is not in danger of falling overboard or being injured during gear retrieval. Where exposed to wind or seas, it must be equipped with a railing at least 1.0 m high, grating or other non-slip material, and adequate lighting.
+(ii) *Catcher/processors using non-trawl gear.* In addition to the sampling station, vessels using non-trawl gear must provide:
+
+(A) *Tally station.* A place where the observer can see the gear as it leaves the water and can count and identify fish. It must be within 5 m of where fish are brought aboard the vessel and in a location where the observer is not in danger of falling overboard or being injured during gear retrieval. Where exposed to wind or seas, it must be equipped with a railing at least 1.0 m high, grating or other non-slip material, and adequate lighting.
 
 (B) *Collection area.* A collection area is a place where the observer, or vessel crew under the observer's guidance, collects fish as they come off the line or are removed from pots. It must be located where the observer can see the gear when it leaves the water. Where exposed to wind or seas, it must be equipped with a railing at least 1.0 m high and grating or other non-slip material.
 

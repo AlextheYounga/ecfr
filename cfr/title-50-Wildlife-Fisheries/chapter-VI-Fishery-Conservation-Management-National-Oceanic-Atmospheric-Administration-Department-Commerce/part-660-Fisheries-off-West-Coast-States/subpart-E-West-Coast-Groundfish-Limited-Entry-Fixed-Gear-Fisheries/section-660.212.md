@@ -1,5 +1,7 @@
 ##### § 660.212 Fixed gear fishery - prohibitions. #####
 
+Link to an amendment published at 84 FR 63991, Nov. 19, 2019.
+
 These prohibitions are specific to the limited entry fixed gear fisheries and to the limited entry trawl fishery Shorebased IFQ Program under gear switching. General groundfish prohibitions are found at § 660.12, subpart C. In addition to the general groundfish prohibitions specified in § 660.12, subpart C, it is unlawful for any person to:
 
 (a) *General.* (1) Possess, deploy, haul, or carry onboard a fishing vessel subject to subparts C and E a set net, trap or pot, longline, or commercial vertical hook-and-line as defined at § 660.11, subpart C, that is not in compliance with the gear restrictions in § 660.230, subpart E, unless such gear is the gear of another vessel that has been retrieved at sea and made inoperable or stowed in a manner not capable of being fished. The disposal at sea of such gear is prohibited by Annex V of the International Convention for the Prevention of Pollution From Ships, 1973 (Annex V of MARPOL 73/78).

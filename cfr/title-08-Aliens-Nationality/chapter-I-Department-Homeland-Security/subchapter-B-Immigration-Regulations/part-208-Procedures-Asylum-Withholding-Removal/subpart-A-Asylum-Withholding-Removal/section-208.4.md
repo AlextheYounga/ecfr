@@ -46,10 +46,8 @@ Except as prohibited in paragraph (a) of this section, asylum applications shall
 
 (vi) The death or serious illness or incapacity of the applicant's legal representative or a member of the applicant's immediate family.
 
-(6) *Safe Third Country Agreement.* Asylum officers have authority to apply section 208(a)(2)(A) of the Act, relating to the determination that the alien may be removed to a safe country pursuant to a bilateral or multilateral agreement, only as provided in 8 CFR 208.30(e). For provisions relating to the authority of immigration judges with respect to section 208(a)(2)(A), *see* 8 CFR 1240.11(g).
-
-(b) *Filing location.* Form I-589, Application for Asylum and Withholding of Removal, must be filed in accordance with the instructions on the form.
+(6) *Asylum Cooperative Agreements.* Immigration officers have authority to apply section 208(a)(2)(A) of the Act, relating to the determination that the alien may be removed to a third country pursuant to a bilateral or multilateral agreement, as provided in § 208.30(e). For provisions relating to the authority of immigration judges with respect to section 208(a)(2)(A), see 8 CFR 1240.11(g) and (h).
 
 (c) *Amending an application after filing.* Upon request of the alien and as a matter of discretion, the asylum officer or immigration judge having jurisdiction may permit an asylum applicant to amend or supplement the application, but any delay caused by such request shall extend the period within which the applicant may not apply for employment authorization in accordance with § 208.7(a).
 
-[62 FR 10337, Mar. 6, 1997, as amended at 64 FR 8488, Feb. 19, 1999; 64 FR 13881, Mar. 23, 1999; 65 FR 76131, Dec. 6, 2000; 69 FR 69488, Nov. 29, 2004; 74 FR 26937, June 5, 2009; 74 FR 55737, Oct. 28, 2009]
+[62 FR 10337, Mar. 6, 1997, as amended at 64 FR 8488, Feb. 19, 1999; 64 FR 13881, Mar. 23, 1999; 65 FR 76131, Dec. 6, 2000; 69 FR 69488, Nov. 29, 2004; 74 FR 26937, June 5, 2009; 74 FR 55737, Oct. 28, 2009; 84 FR 64008, Nov. 19, 2019]

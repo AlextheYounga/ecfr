@@ -1,5 +1,7 @@
 ##### § 660.77 EFH Conservation Areas off the Coast of Washington. #####
 
+Link to an amendment published at 84 FR 63975, Nov. 19, 2019.
+
 Boundary line coordinates for EFH Conservation Areas off Washington are provided in this section. Fishing activity that is prohibited or permitted within the EEZ in a particular area designated as a groundfish EFH Conservation Area is detailed at §§ 660.11; §§ 660.112 and 660.130; §§ 660.212 and 660.230; §§ 660.312 and 660.330; and §§ 660.360.
 
 (a) *Olympic 2.* The boundary of the Olympic 2 EFH Conservation Area is defined by straight lines connecting all of the following points in the order stated:

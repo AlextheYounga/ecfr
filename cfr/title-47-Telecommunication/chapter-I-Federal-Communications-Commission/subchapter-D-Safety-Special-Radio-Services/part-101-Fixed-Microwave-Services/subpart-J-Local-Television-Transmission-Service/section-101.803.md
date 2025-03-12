@@ -61,7 +61,7 @@
 |---------------------------|---------------------------|
 |          6430.0           |          6480.0           |
 |          6438.0           |          6488.0           |
-|          6446.0           |          6596.0           |
+|          6446.0           |          6496.0           |
 |          6455.0           |          6505.0           |
 |          6463.0           |          6513.0           |
 |          6471.0           |          6521.0           |
@@ -75,4 +75,4 @@
 
 (f) The frequency 27.255 MHz in the 27.23-27.28 MHz band is allocated for assignment to microwave auxiliary stations in this service on a shared basis with other radio services. Assignments to stations on this frequency will not be protected from such interference as may be experienced from the emissions of industrial, scientific and medical equipment operating on 27.12 MHz in accordance with § 2.106 of this chapter.
 
-[61 FR 26677, May 28, 1996, as amended at 62 FR 23168, Apr. 29, 1997; 63 FR 9448, Feb. 25, 1998; 63 FR 14039, Mar. 24, 1998; 65 FR 38332, June 20, 2000; 68 FR 4961, Jan. 31, 2003; 68 FR 12777, Mar. 17, 2003; 70 FR 4788, Jan. 31, 2005]
+[61 FR 26677, May 28, 1996, as amended at 62 FR 23168, Apr. 29, 1997; 63 FR 9448, Feb. 25, 1998; 63 FR 14039, Mar. 24, 1998; 65 FR 38332, June 20, 2000; 68 FR 4961, Jan. 31, 2003; 68 FR 12777, Mar. 17, 2003; 70 FR 4788, Jan. 31, 2005; 84 FR 63812, Nov. 19, 2019]

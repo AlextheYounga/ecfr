@@ -76,7 +76,7 @@ Antenna Standards
 
 <sup>6</sup> These antenna standards apply to all point-to-point stations authorized on or before June 1, 1997.
 
-<sup>7</sup> Except for antennas between 140° and 180° authorized or pending on January 1, 1989, in the band 10,550 to 10,565 MHz for which minimum radiation suppression to angle (in degrees) from centerline of main beam is 36 decibels.
+<sup>7</sup> For stations authorized or pending on April 1, 2003, the minimum radiation suppression for Category B is 35dB in the 10,550-10,680 MHz band and 36 dB in the 21,200-23,600 MHz band for discrimination angles from 100° to 180°.
 
 <sup>8</sup> These antenna standards apply only to DEMS User Stations licensed, in operation, or applied for prior to July 15, 1993.
 
@@ -102,4 +102,4 @@ Antenna Standards
 
 (g) In the event harmful interference is caused to the operation of other stations, the Commission may, after notice and opportunity for hearing, order changes to be made in the height, orientation, gain and radiation pattern of the antenna system.
 
-[61 FR 26677, May 28, 1996, as amended at 62 FR 4924, Feb. 3, 1997; 62 FR 24582, May 6, 1997; 63 FR 6105, Feb. 6, 1998; 65 FR 38329, June 20, 2000; 65 FR 59358, Oct. 5, 2000; 67 FR 43038, June 26, 2002; 68 FR 4957, Jan. 31, 2003; 69 FR 3267, Jan. 23, 2004; 70 FR 29997, May 25, 2005; 72 FR 55677, Oct. 1, 2007; 73 FR 55775, Sept. 26, 2008; 76 FR 59572, Sept. 27, 2011; 77 FR 54432, Sept. 5, 2012; 77 FR 73957, Dec. 12, 2012; 81 FR 79945, Nov. 14, 2016; 83 FR 65, Jan. 2, 2018]
+[61 FR 26677, May 28, 1996]Editorial Note:For Federal Register citations affecting § 101.115, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

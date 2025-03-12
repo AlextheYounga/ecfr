@@ -303,7 +303,23 @@ Example 2.(i) *Gross income. CFC,* a controlled foreign corporation, has gross i
 
 (iii) *Trusts and estates.* With respect to a trust or estate, control means the ownership, directly or indirectly, of more than 50 percent (by value) of the beneficial interest in the trust or estate.
 
-(iv) *Direct or indirect ownership.* For purposes of this paragraph (f), to determine direct or indirect ownership, the principles of section 958 shall be applied without regard to whether a corporation, partnership, trust or estate is foreign or domestic or whether or not an individual is a citizen or resident of the United States.
+(iv) *Direct or indirect ownership.* For purposes of section 954(d)(3) and this paragraph (f), to determine direct or indirect ownership -
+
+(A) The principles of § 1.958-1 and section 958(a) apply without regard to whether a corporation, partnership, trust, or estate is foreign or domestic or whether an individual is a citizen or resident of the United States; and
+
+(B) The principles of § 1.958-2 and section 958(b) apply, except that -
+
+(*1*) Neither section 318(a)(3), nor § 1.958-2(d) or the principles thereof, applies to attribute stock or other interests to a corporation, partnership, estate, or trust; and
+
+(*2*) Neither section 318(a)(4), nor § 1.958-2(e) or the principles thereof, applies to treat dividends, interest, rents, or royalties received or accrued from a foreign corporation as received or accrued from a controlled foreign corporation payor if a principal purpose of the use of an option to acquire stock or an equity interest, or an interest similar to such an option, that causes the foreign corporation to be a controlled foreign corporation payor is to qualify dividends, interest, rents, or royalties paid by the foreign corporation for the section 954(c)(6) exception. For purposes of this paragraph (f)(2)(iv)(B)(*2*), an interest that is similar to an option to acquire stock or an equity interest includes, but is not limited to, a warrant, a convertible debt instrument, an instrument other than debt that is convertible into stock or an equity interest, a put, a stock or equity interest subject to risk of forfeiture, and a contract to acquire or sell stock or an equity interest.
+
+(*3*) Neither section 318(a)(4), nor § 1.958-2(e) or the principles thereof, applies to treat a person that has an option to acquire stock or an equity interest, or an interest similar to such an option, as owning the stock or equity interest if a principal purpose for the use of the option or similar interest is to treat a person as a related person with respect to a controlled foreign corporation under this paragraph (f). For purposes of this paragraph (f)(2)(iv)(B)(*3*), an interest that is similar to an option to acquire stock or an equity interest includes, but is not limited to, a warrant, a convertible debt instrument, an instrument other than debt that is convertible into stock or an equity interest, a put, a stock or equity interest subject to risk of forfeiture, and a contract to acquire or sell stock or an equity interest.
+
+(3) *Applicability dates* - (i) *General rule.* Except as otherwise provided in this paragraph (f)(3), paragraph (f)(2)(iv) of this section applies to taxable years of controlled foreign corporations ending on or after November 19, 2019, and taxable years of United States shareholders in which or with which such taxable years end.
+
+(ii) *Option rule in paragraph (f)(2)(iv)(B)(2) of this section.* Paragraph (f)(2)(iv)(B)(*2*) of this section applies to taxable years of controlled foreign corporations beginning after December 31, 2006, and ending before November 19, 2019, and taxable years of United States shareholders in which or with which such taxable years end.
+
+(iii) *Anti-abuse rule.* Paragraphs (f)(2)(iv)(B)(*1*) and (*3*) of this section apply to taxable years of controlled foreign corporations ending on or after May 17, 2019, and to taxable years of United States shareholders in which or with which such taxable years end, with respect to amounts that are received or accrued by a controlled foreign corporation on or after May 17, 2019 to the extent the amounts are received or accrued in advance of the period to which such amounts are attributable with a principal purpose of avoiding the application of paragraph (f)(2)(iv)(B)(*1*) or (*3*) of this section with respect to such amounts.
 
 (g) *Distributive share of partnership income* - (1) *Application of related person and country of organization tests.* Unless otherwise provided, to determine the extent to which a controlled foreign corporation's distributive share of any item of gross income of a partnership would have been subpart F income if received by it directly, under § 1.952-1(g), if a provision of subpart F requires a determination of whether an entity is a related person, within the meaning of section 954(d)(3), or whether an activity occurred within or outside the country under the laws of which the controlled foreign corporation is created or organized, this determination shall be made by reference to such controlled foreign corporation and not by reference to the partnership.
 
@@ -323,4 +339,4 @@ Example 3.CFC, a controlled foreign corporation organized in Country A, is an 80
 
 (4) *Effective date.* This paragraph (g) applies to taxable years of a controlled foreign corporation beginning on or after July 23, 2002.
 
-[T.D. 8618, 60 FR 46509, Sept. 7, 1995; 60 FR 62024, 62025, Dec. 4, 1995, as amended by T.D. 8704, 62 FR 20, Jan. 2, 1997; T.D. 8767, 63 FR 14615, Mar. 26, 1998; T.D. 8827, 64 FR 37677, July 13, 1999; T.D. 9008, 67 FR 48023, July 23, 2002]
+[T.D. 8618, 60 FR 46509, Sept. 7, 1995; 60 FR 62024, 62025, Dec. 4, 1995, as amended by T.D. 8704, 62 FR 20, Jan. 2, 1997; T.D. 8767, 63 FR 14615, Mar. 26, 1998; T.D. 8827, 64 FR 37677, July 13, 1999; T.D. 9008, 67 FR 48023, July 23, 2002; T.D. 9883, 84 FR 63803, Nov. 19, 2019]

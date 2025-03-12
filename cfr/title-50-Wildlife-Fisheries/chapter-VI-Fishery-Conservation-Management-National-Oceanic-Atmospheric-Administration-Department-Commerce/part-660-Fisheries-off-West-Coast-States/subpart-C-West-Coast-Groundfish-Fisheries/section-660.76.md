@@ -1,5 +1,7 @@
 ##### § 660.76 EFH Conservation Areas. #####
 
+Link to an amendment published at 84 FR 63974, Nov. 19, 2019.
+
 EFH Conservation Areas are designated to minimize to the extent practicable adverse effects to EFH caused by fishing (16 U.S.C. 1853 section 303(a)(7)). The boundaries of areas designated as Groundfish EFH Conservation Areas are defined by straight lines connecting a series of latitude and longitude coordinates. This section provides coordinates outlining the boundaries of the coastwide EFH Conservation Area. Section 660.77 provides coordinates outlining the boundaries of EFH Conservation Areas that occur wholly off the coast of Washington. Section 660.78 provides coordinates outlining the boundaries of EFH Conservation Areas that occur wholly off the coast of Oregon. Section 660.79 provides coordinates outlining the boundaries of EFH Conservation Areas that occur wholly off the coast of California. Fishing activity that is prohibited or permitted within the EEZ in a particular area designated as a groundfish EFH Conservation Area is detailed at § 660.11; §§ 660.112 and 660.130; §§ 660.212 and 660.230; §§ 660.312 and 660.330; and §§ 660.360.
 
 (a) *Seaward of the 700-fm (1280-m) contour.* This area includes all waters designated as EFH within the West Coast EEZ west of a line approximating the 700-fm (1280-m) depth contour which is defined by straight lines connecting all of the following points in the order stated:

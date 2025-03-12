@@ -164,6 +164,24 @@
 
 (iv) Direct or indirect ownership.
 
+(3) Applicability dates.
+
+(i) General rule.
+
+(ii) Option rule in paragraph (f)(2)(iv)(B)(*2*) of this section.
+
+(iii) Anti-abuse rule.
+
+(g) Distributive share of partnership income.
+
+(1) Application of related person and country of organization tests.
+
+(2) Application of related person test for sales and purchase transactions between a partnership and its controlled foreign corporation partner.
+
+(3) Examples.
+
+(4) Effective date.
+
 § 1.954-2 Foreign personal holding company income.
 
 (a) Computation of foreign personal holding company income.
@@ -326,6 +344,14 @@
 
 (iv) Adjusted leasing profit.
 
+(v) Leased in foreign commerce.
+
+(vi) Leases acquired by the CFC lessor.
+
+(vii) Marketing of leases.
+
+(viii) Cost sharing arrangements (CSAs).
+
 (3) Examples.
 
 (d) Excluded royalties.
@@ -341,6 +367,8 @@
 (iii) Active licensing expenses.
 
 (iv) Adjusted licensing profit.
+
+(v) Cost sharing arrangements (CSAs).
 
 (3) Examples.
 
@@ -506,4 +534,12 @@
 
 (6) Examples.
 
-[T.D. 8618, 60 FR 46508, Sept. 7, 1995; T.D. 8618, 60 FR 62024, Dec. 4, 1995; T.D. 8767, 63 FR 14615, Mar. 26, 1998; T.D. 9039, 68 FR 4917, Jan. 31, 2003]
+(i) Applicability dates.
+
+(1) Paragraphs (c)(2)(v) through (vii).
+
+(2) Paragraphs (c)(2)(iii)(B) and (c)(2)(iv)(A) of this section.
+
+(3) Other paragraphs.
+
+[T.D. 8618, 60 FR 46508, Sept. 7, 1995; T.D. 8618, 60 FR 62024, Dec. 4, 1995; T.D. 8767, 63 FR 14615, Mar. 26, 1998; T.D. 9039, 68 FR 4917, Jan. 31, 2003; T.D. 9883, 84 FR 63803, Nov. 19, 2019]

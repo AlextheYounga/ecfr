@@ -1,5 +1,7 @@
 ##### § 660.11 General definitions. #####
 
+Link to an amendment published at 84 FR 63972, Nov. 19, 2019.
+
 These definitions are specific to the fisheries covered in subparts C through G of this part.
 
 *Acceptable Biological Catch (ABC)* means a harvest specification that is set below the overfishing limit to account for scientific uncertainty in the estimate of OFL, and other scientific uncertainty.

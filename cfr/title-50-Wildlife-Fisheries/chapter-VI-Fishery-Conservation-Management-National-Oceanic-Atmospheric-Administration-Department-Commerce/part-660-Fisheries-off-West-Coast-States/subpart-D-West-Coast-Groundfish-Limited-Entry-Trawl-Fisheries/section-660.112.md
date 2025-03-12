@@ -1,5 +1,7 @@
 ##### § 660.112 Trawl fishery - prohibitions. #####
 
+Link to an amendment published at 84 FR 63986, Nov. 19, 2019.
+
 These prohibitions are specific to the limited entry trawl fisheries. General groundfish prohibitions are defined at § 660.12. In addition to the general prohibitions specified in § 600.725 of this chapter, it is unlawful for any person or vessel to:
 
 (a) *General* - (1) *Trawl gear endorsement.* Fish with groundfish trawl gear, or carry groundfish trawl gear on board a vessel that also has groundfish on board, unless the vessel is registered for use with a valid limited entry permit with a trawl gear endorsement, with the following exception.
