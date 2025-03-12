@@ -1,5 +1,7 @@
 ##### § 185.103 Basis for civil penalties and assessments. #####
 
+Link to an amendment published at 83 FR 34935, July 24, 2018.
+
 (a) In addition to any other remedy that may be prescribed by law, any person shall be subject to a civil penalty of not more than $10,781, where the person makes a claim and knows or has reason to know that the claim:
 
 (1) In false, fictitious, or fraudulent;

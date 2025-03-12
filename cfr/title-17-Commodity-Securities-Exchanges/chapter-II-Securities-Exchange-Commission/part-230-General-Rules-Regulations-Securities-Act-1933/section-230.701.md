@@ -14,7 +14,7 @@ Preliminary Notes:
 
 (a) *Exemption.* Offers and sales made in compliance with all of the conditions of this section are exempt from section 5 of the Act (15 U.S.C. 77e).
 
-(b) *Issuers eligible to use this section* - (1) *General.* This section is available to any issuer that is not subject to the reporting requirements of section 13 or 15(d) of the Securities Exchange Act of 1934 (the “Exchange Act”) (15 U.S.C. 78m or 78o(d)) and is not an investment company registered or required to be registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*).
+(b) *Issuers eligible to use this section*—(1) *General.* This section is available to any issuer that is not subject to the reporting requirements of section 13 or 15(d) of the Securities Exchange Act of 1934 (the “Exchange Act”) (15 U.S.C. 78m or 78o(d)) and is not an investment company registered or required to be registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*).
 
 (2) *Issuers that become subject to reporting.* If an issuer becomes subject to the reporting requirements of section 13 or 15(d) of the Exchange Act (15 U.S.C. 78m or 78o(d)) after it has made offers complying with this section, the issuer may nevertheless rely on this section to sell the securities previously offered to the persons to whom those offers were made.
 
@@ -34,7 +34,7 @@ Preliminary Notes:
 
 (3) *Definition of “family member.”* For purposes of this section, *family member* includes any child, stepchild, grandchild, parent, stepparent, grandparent, spouse, former spouse, sibling, niece, nephew, mother-in-law, father-in-law, son-in-law, daughter-in-law, brother-in-law, or sister-in-law, including adoptive relationships, any person sharing the employee's household (other than a tenant or employee), a trust in which these persons have more than fifty percent of the beneficial interest, a foundation in which these persons (or the employee) control the management of assets, and any other entity in which these persons (or the employee) own more than fifty percent of the voting interests.
 
-(d) *Amounts that may be sold* - (1) *Offers.* Any amount of securities may be offered in reliance on this section. However, for purposes of this section, sales of securities underlying options must be counted as sales on the date of the option grant.
+(d) *Amounts that may be sold*—(1) *Offers.* Any amount of securities may be offered in reliance on this section. However, for purposes of this section, sales of securities underlying options must be counted as sales on the date of the option grant.
 
 (2) *Sales.* The aggregate sales price or amount of securities sold in reliance on this section during any consecutive 12-month period must not exceed the greatest of the following:
 
@@ -44,7 +44,7 @@ Preliminary Notes:
 
 (iii) 15% of the outstanding amount of the class of securities being offered and sold in reliance on this section, measured at the issuer's most recent balance sheet date (if no older than its last fiscal year end).
 
-(3) *Rules for calculating prices and amounts* - (i) *Aggregate sales price.* The term *aggregate sales price* means the sum of all cash, property, notes, cancellation of debt or other consideration received or to be received by the issuer for the sale of the securities. Non-cash consideration must be valued by reference to *bona fide* sales of that consideration made within a reasonable time or, in the absence of such sales, on the fair value as determined by an accepted standard. The value of services exchanged for securities issued must be measured by reference to the value of the securities issued. Options must be valued based on the exercise price of the option.
+(3) *Rules for calculating prices and amounts*—(i) *Aggregate sales price.* The term *aggregate sales price* means the sum of all cash, property, notes, cancellation of debt or other consideration received or to be received by the issuer for the sale of the securities. Non-cash consideration must be valued by reference to *bona fide* sales of that consideration made within a reasonable time or, in the absence of such sales, on the fair value as determined by an accepted standard. The value of services exchanged for securities issued must be measured by reference to the value of the securities issued. Options must be valued based on the exercise price of the option.
 
 (ii) *Time of the calculation.* With respect to options to purchase securities, the aggregate sales price is determined when an option grant is made (without regard to when the option becomes exercisable). With respect to other securities, the calculation is made on the date of sale. With respect to deferred compensation or similar plans, the calculation is made when the irrevocable election to defer is made.
 
@@ -52,7 +52,7 @@ Preliminary Notes:
 
 (iv) *Other exemptions.* Amounts of securities sold in reliance on this section do not affect “aggregate offering prices” in other exemptions, and amounts of securities sold in reliance on other exemptions do not affect the amount that may be sold in reliance on this section.
 
-(e) *Disclosure that must be provided.* The issuer must deliver to investors a copy of the compensatory benefit plan or the contract, as applicable. In addition, if the aggregate sales price or amount of securities sold during any consecutive 12-month period exceeds $5 million, the issuer must deliver the following disclosure to investors a reasonable period of time before the date of sale:
+(e) *Disclosure that must be provided.* The issuer must deliver to investors a copy of the compensatory benefit plan or the contract, as applicable. In addition, if the aggregate sales price or amount of securities sold during any consecutive 12-month period exceeds $10 million, the issuer must deliver the following disclosure to investors a reasonable period of time before the date of sale:
 
 (1) If the plan is subject to the Employee Retirement Income Security Act of 1974 (“ERISA”) (29 U.S.C. 1104-1107), a copy of the summary plan description required by ERISA;
 
@@ -74,4 +74,4 @@ Preliminary Notes:
 
 (3) Ninety days after the issuer becomes subject to the reporting requirements of section 13 or 15(d) of the Exchange Act (15 U.S.C. 78m or 78o(d)), securities issued under this section may be resold by persons who are not affiliates (as defined in § 230.144) in reliance on § 230.144, without compliance with paragraphs (c) and (d) of § 230.144, and by affiliates without compliance with paragraph (d) of § 230.144.
 
-[64 FR 11101, Mar. 8, 1999, as amended at 64 FR 61498, Nov. 12, 1999; 72 FR 71571, Dec. 17, 2007; 73 FR 1009, Jan. 4, 2008]
+[64 FR 11101, Mar. 8, 1999, as amended at 64 FR 61498, Nov. 12, 1999; 72 FR 71571, Dec. 17, 2007; 73 FR 1009, Jan. 4, 2008; 83 FR 34944, July 24, 2018]

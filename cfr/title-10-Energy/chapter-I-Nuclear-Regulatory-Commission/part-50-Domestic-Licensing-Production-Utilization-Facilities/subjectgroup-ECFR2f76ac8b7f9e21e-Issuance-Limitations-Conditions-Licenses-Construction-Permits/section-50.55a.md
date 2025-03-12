@@ -849,7 +849,7 @@ Table II - Maximum Intervals for Use When Applying Interval Extensions
 
 (c) *Reactor coolant pressure boundary.* Systems and components of boiling and pressurized water-cooled nuclear power reactors must meet the requirements of the ASME BPV Code as specified in this paragraph. Each manufacturing license, standard design approval, and design certification application under part 52 of this chapter and each combined license for a utilization facility is subject to the following conditions:
 
-(1) *Standards requirement for reactor coolant pressure boundary components.* Components that are part of the reactor coolant pressure boundary must meet the requirements for Class 1 components in Section III1,4 of the ASME BPV Code, except as provided in paragraphs (c)(2) through (4) of this section.
+(1) *Standards requirement for reactor coolant pressure boundary components.* Components that are part of the reactor coolant pressure boundary must meet the requirements for Class 1 components in Section III1 4 of the ASME BPV Code, except as provided in paragraphs (c)(2) through (4) of this section.
 
 (2) *Exceptions to reactor coolant pressure boundary standards requirement.* Components that are connected to the reactor coolant system and are part of the reactor coolant pressure boundary as defined in § 50.2 need not meet the requirements of paragraph (c)(1) of this section, provided that:
 
