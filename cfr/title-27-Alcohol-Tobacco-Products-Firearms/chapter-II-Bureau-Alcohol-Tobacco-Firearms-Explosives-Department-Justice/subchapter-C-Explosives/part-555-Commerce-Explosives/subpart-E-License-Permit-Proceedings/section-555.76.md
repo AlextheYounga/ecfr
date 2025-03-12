@@ -12,4 +12,4 @@
 
 (c) *Curtailment of stay of revocation effective date.* If, after approval of a request for a stay of the effective date of an order revoking a license or permit but before actions are completed under this subpart, the Director, Industry Operations finds that it is contrary to the public interest for the licensee or permittee to continue the operations or activities covered by his license or permit, the Director, Industry Operations may issue a notice of withdrawal of the approval, effective on the date of issuance. Notice of withdrawal will be served upon the licensee or permittee in the manner provided in § 555.81.
 
-[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981, as amended by T.D. ATF-290, 54 FR 53054, Dec. 27, 1989; T.D. ATF 2013R-9F, 79 FR 46694, Aug. 11, 2014]
+[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981, as amended by T.D. ATF-290, 54 FR 53054, Dec. 27, 1989; ATF 2013R-9F, 79 FR 46694, Aug. 11, 2014]

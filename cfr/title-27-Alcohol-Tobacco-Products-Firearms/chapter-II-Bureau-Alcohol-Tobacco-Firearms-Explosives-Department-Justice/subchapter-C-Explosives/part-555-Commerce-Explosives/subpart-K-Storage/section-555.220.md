@@ -2,8 +2,6 @@
 
 Link to an amendment published at 84 FR 12097, Apr. 1, 2019.
 
-Table: Department of Defense Ammunition and Explosives Standards, Table 5-4.1 Extract; 4145.27 M, March 1969
-
 |Donor weight (pounds)|Minimum separation distance of acceptor from donor when barricaded (ft.)|Minimum thickness of artificial barricades (in.)|              |   |
 |---------------------|------------------------------------------------------------------------|------------------------------------------------|--------------|---|
 |        Over         |                                Not over                                |                Ammonium nitrate                |Blasting agent|   |
@@ -51,10 +49,12 @@ Table: National Fire Protection Association (NFPA) Official Standard No. 492, 19
 
 (3) These distances apply to ammonium nitrate that passes the insensitivity test prescribed in the definition of ammonium nitrate fertilizer issued by the Fertilizer Institute.1 Ammonium nitrate failing to pass the test must be stored at separation distances in accordance with the table in § 555.218.
 
-1 Definition and Test Procedures for Ammonium Nitrate Fertilizer, Fertilizer Institute 1015-18th St. N.W. Washington, DC 20036.
+1 Definition and Test Procedures for Ammonium Nitrate Fertilizer, Fertilizer Institute.
 
 (4) These distances apply to blasting agents which pass the insensitivity test prescribed in regulations of the U.S. Department of Transportation (49 CFR part 173).
 
 (5) Earth or sand dikes, or enclosures filled with the prescribed minimum thickness of earth or sand are acceptable artificial barricades. Natural barricades, such as hills or timber of sufficient density that the surrounding exposures which require protection cannot be seen from the “donor” when the trees are bare of leaves, are also acceptable.
 
 (6) For determining the distances to be maintained from inhabited buildings, passenger railways, and public highways, use the table in § 555.218.
+
+[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981, as amended by ATF 2017R-21, 84 FR 13800, Apr. 8, 2019]

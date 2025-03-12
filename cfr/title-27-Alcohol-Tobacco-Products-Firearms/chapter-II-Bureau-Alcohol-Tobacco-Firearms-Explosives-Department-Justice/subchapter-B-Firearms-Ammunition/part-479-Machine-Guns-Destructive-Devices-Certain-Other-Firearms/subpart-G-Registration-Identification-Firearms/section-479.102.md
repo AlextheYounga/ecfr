@@ -28,4 +28,4 @@
 
 (2) The Director may authorize other means of identification of parts defined as machine guns other than frames or receivers and parts defined as mufflers or silencers upon receipt of a letter application from you, submitted in duplicate, showing that such other identification is reasonable and will not hinder the effective administration of this part.
 
-(Approved by the Office of Management and Budget under control number 1140-0050)[T.D. ATF-461, 66 FR 40601, Aug. 3, 2001, as amended by T.D. ATF-11F, 73 FR 57242, Oct. 2, 2008]
+(Approved by the Office of Management and Budget under control number 1140-0050)[T.D. ATF-461, 66 FR 40601, Aug. 3, 2001, as amended by ATF-11F, 73 FR 57242, Oct. 2, 2008]

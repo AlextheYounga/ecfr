@@ -10,30 +10,32 @@
 
 (2) The administrator of the TRS User Registration Database shall assign a unique identifier to each user in the TRS User Registration Database.
 
-(3) *Data integrity.*
+(3) *Data integrity.* (i) Each VRS and IP CTS provider shall request that the administrator of the TRS User Registration Database remove from the TRS User Registration Database user information for any registered user or hearing point-to-point user:
 
-(i) Each VRS provider shall request that the administrator of the TRS User Registration Database remove from the TRS User Registration Database user information for any registered VRS user or hearing point-to-point video user:
-
-(A) Who informs its default provider that it no longer wants use of a ten-digit number for TRS or (in the case of a hearing point-to-point video user) for point-to-point video service; or
+(A) Who informs its default VRS provider or its IP CTS provider that it no longer wants use of a ten-digit number for TRS or (in the case of a hearing point-to-point video user) for point-to-point video service; or
 
 (B) For whom the provider obtains information that the user is not eligible to use the service.
 
 (ii) The administrator of the TRS User Registration Database shall remove the data of:
 
-(A) Any user that has neither placed nor received a VRS or point to point call in a one year period; and
+(A) Any VRS user that has neither placed nor received a VRS or point-to-point call in a one-year period; and
 
-(B) Any user for which a VRS provider makes a request under paragraph (a)(3)(i) of this section.
+(B) Any user for which a VRS or IP CTS provider makes a request under paragraph (a)(3)(i) of this section.
 
-(4) VRS providers may query the TRS User Registration Database only for the purposes provided in this subpart, and to determine whether information with respect to its registered users already in the database is correct and complete.
+(4) A VRS or IP CTS provider may query the TRS User Registration Database only for the purposes provided in this subpart, and to determine whether information with respect to its registered users already in the database is correct and complete.
 
-(5) *User verification.* (i) The TRS User Registration Database shall have the capability of performing an identification verification check when a VRS provider or other party submits a query to the database about an existing or potential user.
+(5) *User verification.* (i) The TRS User Registration Database shall have the capability of performing an identification verification check when a VRS provider, IP CTS provider, or other party submits a query to the database about an existing or potential user.
 
-(ii) VRS providers shall not register individuals that do not pass the identification verification check conducted through the TRS User Registration Database.
+(ii) VRS and IP CTS providers shall not register individuals who do not pass the identification verification check conducted through the TRS User Registration Database.
 
 (iii) VRS providers shall not seek compensation for calls placed by individuals that do not pass the identification verification check conducted through the TRS User Registration Database.
+
+(iv) IP CTS providers shall not seek compensation for calls placed to or from individuals that do not pass the identification verification check conducted through the TRS User Registration Database.
 
 (b) *Administration* - (1) *Terms of administration.* The administrator of the TRS User Registration Database shall administer the TRS User Registration Database pursuant to the terms of its contract.
 
 (2) *Compensation.* The TRS Fund, as defined by § 64.604(a)(5)(iii) of this subpart, may be used to compensate the administrator of the TRS User Registration Database for the reasonable costs of administration pursuant to the terms of its contract.
 
-[78 FR 40609, July 5, 2013, as amended at 82 FR 17764, Apr. 13, 2017]
+(c) *Compliance date.* Paragraphs (a)(3) and (a)(5) of this section contain new or modified information-collection and recordkeeping requirements adopted in FCC 19-11. Compliance with these information-collection and recordkeeping requirements will not be required until after approval by the Office of Management and Budget. The Commission will publish a document in the Federal Register announcing that compliance date and revising this paragraph accordingly.
+
+[78 FR 40609, July 5, 2013, as amended at 82 FR 17764, Apr. 13, 2017; 84 FR 8463, Mar. 8, 2019]

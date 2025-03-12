@@ -10,11 +10,11 @@
 
 (4) Has been adjudicated as a mental defective or has been committed to a mental institution,
 
-(5) Being an alien -
+(5) Being an alien—
 
 (i) Is illegally or unlawfully in the United States; or
 
-(ii) Except as provided in paragraph (f) of this section, has been admitted to the United States under a nonimmigrant visa: *Provided,* That the provisions of this paragraph (a)(5)(ii) do not apply to any alien who has been lawfully admitted to the United States under a nonimmigrant visa, if that alien is -
+(ii) Except as provided in paragraph (f) of this section, has been admitted to the United States under a nonimmigrant visa: *Provided,* That the provisions of this paragraph (a)(5)(ii) do not apply to any alien who has been lawfully admitted to the United States under a nonimmigrant visa, if that alien is—
 
 (A) Admitted to the United States for lawful hunting or sporting purposes or is in possession of a hunting license or permit lawfully issued in the United States;
 
@@ -28,7 +28,7 @@
 
 (7) Having been a citizen of the United States, has renounced citizenship,
 
-(8) Is subject to a court order that -
+(8) Is subject to a court order that—
 
 (i) Was issued after a hearing of which such person received actual notice, and at which such person had an opportunity to participate;
 
@@ -54,11 +54,11 @@
 
 (4) Has been adjudicated as a mental defective or has been committed to a mental institution,
 
-(5) Being an alien -
+(5) Being an alien—
 
 (i) Is illegally or unlawfully in the United States; or
 
-(ii) Except as provided in paragraph (f) of this section, has been admitted to the United States under a nonimmigrant visa: *Provided,* That the provisions of this paragraph (d)(5)(ii) do not apply to any alien who has been lawfully admitted to the United States under a nonimmigrant visa, if that alien is -
+(ii) Except as provided in paragraph (f) of this section, has been admitted to the United States under a nonimmigrant visa: *Provided,* That the provisions of this paragraph (d)(5)(ii) do not apply to any alien who has been lawfully admitted to the United States under a nonimmigrant visa, if that alien is—
 
 (A) Admitted to the United States for lawful hunting or sporting purposes or is in possession of a hunting license or permit lawfully issued in the United States;
 
@@ -72,7 +72,7 @@
 
 (7) Having been a citizen of the United States, has renounced citizenship,
 
-(8) Is subject to a court order that restrains such person from harassing, stalking, or threatening an intimate partner of such person or child of such intimate partner or person, or engaging in other conduct that would place an intimate partner in reasonable fear of bodily injury to the partner or child: *Provided,* That the provisions of this paragraph shall only apply to a court order that -
+(8) Is subject to a court order that restrains such person from harassing, stalking, or threatening an intimate partner of such person or child of such intimate partner or person, or engaging in other conduct that would place an intimate partner in reasonable fear of bodily injury to the partner or child: *Provided,* That the provisions of this paragraph shall only apply to a court order that—
 
 (i) Was issued after a hearing of which such person received actual notice, and at which such person had the opportunity to participate; and
 
@@ -86,4 +86,4 @@
 
 (f) Pursuant to 18 U.S.C. 922(y)(3), any individual who has been admitted to the United States under a nonimmigrant visa may receive a waiver from the prohibition contained in paragraph (a)(5)(ii) of this section if the Attorney General approves a petition for the waiver.
 
-[T.D. ATF-270, 53 FR 10493, Mar. 31, 1988, as amended by T.D. ATF-363, 60 FR 17451, Apr. 6, 1995; T.D. ATF-391, 62 FR 34639, June 27, 1997; T.D. ATF-401, 63 FR 35522, June 30, 1998; T.D. ATF-471, 67 FR 5425, Feb. 5, 2002; T.D. ATF-24F, 77 FR 33629, June 7, 2012]
+[T.D. ATF-270, 53 FR 10493, Mar. 31, 1988, as amended by T.D. ATF-363, 60 FR 17451, Apr. 6, 1995; T.D. ATF-391, 62 FR 34639, June 27, 1997; T.D. ATF-401, 63 FR 35522, June 30, 1998; T.D. ATF-471, 67 FR 5425, Feb. 5, 2002; ATF-24F, 77 FR 33629, June 7, 2012]

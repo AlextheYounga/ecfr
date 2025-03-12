@@ -20,4 +20,4 @@ Importer's Armor Piercing Ammunition Disposition Record
 
 (d) Each licensed importer shall maintain separate records of the sales or other dispositions made of firearms to nonlicensees. Such records shall be maintained in the form and manner as prescribed by §§ 478.124 and 478.125 in regard to firearms transaction records and records of acquisition and disposition of firearms.
 
-(Approved by the Office of Management and Budget under control number 1140-0032)[T.D. ATF-270, 53 FR 10501, Mar. 31, 1988, as amended by T.D. ATF-11F, 73 FR 57241, Oct. 2, 2008]
+(Approved by the Office of Management and Budget under control number 1140-0032)[T.D. ATF-270, 53 FR 10501, Mar. 31, 1988, as amended by ATF-11F, 73 FR 57241, Oct. 2, 2008]

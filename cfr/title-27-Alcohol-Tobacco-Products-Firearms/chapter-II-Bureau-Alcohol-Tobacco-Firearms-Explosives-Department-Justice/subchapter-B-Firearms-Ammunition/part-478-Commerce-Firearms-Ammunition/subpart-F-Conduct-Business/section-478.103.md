@@ -18,25 +18,25 @@ The Gun Control Act of 1968, 18 U.S.C. Chapter 44, provides in pertinent part as
 
 18 U.S.C. 922(x)
 
-(x)(1) It shall be unlawful for a person to sell, deliver, or otherwise transfer to a person who the transferor knows or has reasonable cause to believe is a juvenile -
+(x)(1) It shall be unlawful for a person to sell, deliver, or otherwise transfer to a person who the transferor knows or has reasonable cause to believe is a juvenile—
 
 (A) a handgun; or
 
 (B) ammunition that is suitable for use only in a handgun.
 
-(2) It shall be unlawful for any person who is a juvenile to knowingly possess -
+(2) It shall be unlawful for any person who is a juvenile to knowingly possess—
 
 (A) a handgun; or
 
 (B) ammunition that is suitable for use only in a handgun.
 
-(3) This subsection does not apply to -
+(3) This subsection does not apply to—
 
-(A) a temporary transfer of a handgun or ammunition to a juvenile or to the possession or use of a handgun or ammunition by a juvenile if the handgun and ammunition are possessed and used by the juvenile -
+(A) a temporary transfer of a handgun or ammunition to a juvenile or to the possession or use of a handgun or ammunition by a juvenile if the handgun and ammunition are possessed and used by the juvenile—
 
 (i) in the course of employment, in the course of ranching or farming related to activities at the residence of the juvenile (or on property used for ranching or farming at which the juvenile, with the permission of the property owner or lessee, is performing activities related to the operation of the farm or ranch), target practice, hunting, or a course of instruction in the safe and lawful use of a handgun;
 
-(ii) with the prior written consent of the juvenile's parent or guardian who is not prohibited by Federal, State, or local law from possessing a firearm, except -
+(ii) with the prior written consent of the juvenile's parent or guardian who is not prohibited by Federal, State, or local law from possessing a firearm, except—
 
 (I) during transportation by the juvenile of an unloaded handgun in a locked container directly from the place of transfer to a place at which an activity described in clause (i) is to take place and transportation by the juvenile of that handgun, unloaded and in a locked container, directly from the place at which such an activity took place to the transferor; or
 
@@ -66,13 +66,13 @@ The Gun Control Act of 1968, 18 U.S.C. Chapter 44, provides in pertinent part as
 
 (6)(A)(i) A juvenile who violates section 922(x) shall be fined under this title, imprisoned not more than 1 year, or both, except that a juvenile described in clause (ii) shall be sentenced to probation on appropriate conditions and shall not be incarcerated unless the juvenile fails to comply with a condition of probation.
 
-(ii) A juvenile is described in this clause if -
+(ii) A juvenile is described in this clause if—
 
 (I) the offense of which the juvenile is charged is possession of a handgun or ammunition in violation of section 922(x)(2); and
 
 (II) the juvenile has not been convicted in any court of an offense (including an offense under section 922(x) or a similar State law, but not including any other offense consisting of conduct that if engaged in by an adult would not constitute an offense) or adjudicated as a juvenile delinquent for conduct that if engaged in by an adult would constitute an offense.
 
-(B) A person other than a juvenile who knowingly violates section 922(x) -
+(B) A person other than a juvenile who knowingly violates section 922(x)—
 
 (i) shall be fined under this title, imprisoned not more than 1 year, or both; and
 
@@ -98,4 +98,4 @@ ATF I 5300.2 provides the complete language of the statutory prohibitions and ex
 
 (f) The sign required by paragraph (d) of this section need not be posted on the premises of any licensed importer, manufacturer, or dealer whose only dispositions of handguns to nonlicensees are to nonlicensees who do not appear at the licensed premises and the dispositions otherwise comply with the provisions of this part.
 
-[T.D. ATF-402, 63 FR 37742, July 13, 1998, as amended by T.D. ATF 2013R-9F, 79 FR 46692, Aug. 11, 2014]
+[T.D. ATF-402, 63 FR 37742, July 13, 1998, as amended by ATF 2013R-9F, 79 FR 46692, Aug. 11, 2014]

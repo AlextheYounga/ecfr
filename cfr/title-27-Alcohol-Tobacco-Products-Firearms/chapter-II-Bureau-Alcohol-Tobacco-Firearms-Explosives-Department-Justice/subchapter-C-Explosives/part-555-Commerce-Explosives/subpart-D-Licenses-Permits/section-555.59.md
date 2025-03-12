@@ -8,4 +8,4 @@
 
 (b) In order to secure the right of succession, the person or persons continuing the business or operations shall submit the license or permit and all copies furnished with the license or permit for endorsement of the succession to the Chief, Federal Explosives Licensing Center, within 30 days from the date on which the successor begins to carry on the business or operations.
 
-[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981, as amended by T.D. ATF-290, 54 FR 53054, Dec. 27, 1989; T.D. ATF 2013R-9F, 79 FR 46693, Aug. 11, 2014]
+[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981, as amended by T.D. ATF-290, 54 FR 53054, Dec. 27, 1989; ATF 2013R-9F, 79 FR 46693, Aug. 11, 2014]

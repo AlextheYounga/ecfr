@@ -10,7 +10,7 @@ When used in this part, terms are defined as follows in this section. Words in t
 
 (2) Lacks the mental capacity to contract or manage his own affairs.
 
-(b) The term will include -
+(b) The term will include—
 
 (1) A finding of insanity by a court in a criminal case; and
 
@@ -36,13 +36,9 @@ When used in this part, terms are defined as follows in this section. Words in t
 
 *Artificial barricade.* An artificial mound or revetted wall of earth of a minimum thickness of three feet, or any other approved barricade that offers equivalent protection.
 
-*ATF.* (a) *Prior to January 24, 2003.* The Bureau of Alcohol, Tobacco and Firearms, Department of the Treasury, Washington, DC.
+*ATF.* The Bureau of Alcohol, Tobacco, Firearms and Explosives, Department of Justice.
 
-(b) *On and after January 24, 2003.* The Bureau of Alcohol, Tobacco, Firearms and Explosives, Department of Justice, Washington, DC.
-
-*ATF officer.* (a) *Prior to January 24, 2003.* An officer or employee of the Bureau of Alcohol, Tobacco and Firearms (ATF) authorized to perform any function relating to the administration or enforcement of this part.
-
-(b) *On and after January 24, 2003.* An officer or employee of the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) authorized to perform any function relating to the administration or enforcement of this part.
+*ATF officer.* An officer or employee of the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), Department of Justice authorized to perform any function relating to the administration or enforcement of this part.
 
 *Authority having jurisdiction for fire safety.* The fire department having jurisdiction over sites where explosives are manufactured or stored.
 
@@ -54,9 +50,7 @@ When used in this part, terms are defined as follows in this section. Words in t
 
 *Bullet-sensitive explosive materials.* Explosive materials that can be exploded by 150-grain M2 ball ammunition having a nominal muzzle velocity of 2700 fps (824 mps) when fired from a .30 caliber rifle at a distance of 100 ft (30.5 m), measured perpendicular. The test material is at a temperature of 70 to 75 degrees F (21 to 24 degrees C) and is placed against a1/2 inch (12.4 mm) steel backing plate.
 
-*Bureau.* (a) *Prior to January 24, 2003.* The Bureau of Alcohol, Tobacco and Firearms, Department of the Treasury, Washington, DC.
-
-(b) *On and after January 24, 2003.* The Bureau of Alcohol, Tobacco, Firearms and Explosives, Department of Justice, Washington, DC.
+*Bureau.* The Bureau of Alcohol, Tobacco, Firearms and Explosives, Department of Justice.
 
 *Business premises.* When used with respect to a manufacturer, importer, or dealer, the property on which explosive materials are manufactured, imported, stored or distributed. The premises include the property where the records of a manufacturer, importer, or dealer are kept if different than the premises where explosive materials are manufactured, imported, stored or distributed. When used with respect to a user of explosive materials, the property on which the explosive materials are received or stored. The premises includes the property where the records of the users are kept if different than the premises where explosive materials are received or stored.
 
@@ -80,11 +74,9 @@ at wholesale or retail.
 
 *Detonator.* Any device containing a detonating charge that is used for initiating detonation in an explosive. The term includes, but is not limited to, electric blasting caps of instantaneous and delay types, blasting caps for use with safety fuses, detonating-cord delay connectors, and nonelectric instantaneous and delay blasting caps.
 
-*Director.* (a) *Prior to January 24, 2003.* The Director, Bureau of Alcohol, Tobacco and Firearms, Department of the Treasury, Washington, DC.
+*Director.* The Director, Bureau of Alcohol, Tobacco, Firearms and Explosives, Department of Justice.
 
-(b) *On and after January 24, 2003.* The Director, Bureau of Alcohol, Tobacco, Firearms and Explosives, Department of Justice, Washington, DC.
-
-*Director, Industry Operations.* The principal regional official responsible for administering regulations in this part.
+*Director, Industry Operations.* The principal field division official responsible for administering regulations in this part.
 
 *Discharged under dishonorable conditions.* Separation from the U.S. Armed Forces resulting from a dishonorable discharge or dismissal adjudged by general court-martial. The term does not include any separation from the Armed Forces resulting from any other discharge, *e.g.,* a bad conduct discharge.
 
@@ -94,7 +86,7 @@ at wholesale or retail.
 
 *Executed under penalties of perjury.* Signed with the required declaration under the penalties of perjury as provided on or with respect to the return, form, or other document or, where no form of declaration is required, with the declaration:
 
-“I declare under the penalties of perjury that this - (insert type of document, such as, statement, application, request, certificate), including the documents submitted in support thereof, has been examined by me and, to the best of my knowledge and belief, is true, correct, and complete”.
+“I declare under the penalties of perjury that this—(insert type of document, such as, statement, application, request, certificate), including the documents submitted in support thereof, has been examined by me and, to the best of my knowledge and belief, is true, correct, and complete”.
 
 *Explosive actuated device.* Any tool or special mechanized device which is actuated by explosives, but not a propellent actuated device.
 
@@ -164,7 +156,7 @@ at wholesale or retail.
 
 *Propellant actuated device.* (a) Any tool or special mechanized device or gas generator system that is actuated by a propellant or which releases and directs work through a propellant charge.
 
-(b) The term does not include -
+(b) The term does not include—
 
 (1) Hobby rocket motors consisting of ammonium perchlorate composite propellant, black powder, or other similar low explosives, regardless of amount; and
 
@@ -174,9 +166,9 @@ at wholesale or retail.
 
 *Railway.* Any steam, electric, or other railroad or railway which carries passengers for hire.
 
-*Region.* A geographical region of the Bureau of Alcohol, Tobacco and Firearms.
+*Region.* A geographical region of the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice.
 
-*Renounced U.S. citizenship.* (a) A person has renounced his U.S. citizenship if the person, having been a citizen of the United States, has renounced citizenship either -
+*Renounced U.S. citizenship.* (a) A person has renounced his U.S. citizenship if the person, having been a citizen of the United States, has renounced citizenship either—
 
 (1) Before a diplomatic or consular officer of the United States in a foreign state pursuant to 8 U.S.C. 1481(a)(5); or
 

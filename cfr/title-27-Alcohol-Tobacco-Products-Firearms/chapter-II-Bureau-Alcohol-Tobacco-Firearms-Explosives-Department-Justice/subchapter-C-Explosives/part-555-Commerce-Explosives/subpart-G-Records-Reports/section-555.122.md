@@ -40,4 +40,4 @@
 
 (e) Each licensed importer shall maintain separate records of the sales or other distribution made of explosive materials to nonlicensees or nonpermittees. These records are maintained as prescribed by § 555.126.
 
-(Approved by the Office of Management and Budget under control number 1140-0030)[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981, as amended by T.D. ATF-172, 49 FR 14941, Apr. 16, 1984; T.D. ATF-293, 55 FR 3721, Feb. 5, 1990; T.D. ATF-400, 63 FR 45003, Aug. 24, 1998; T.D. ATF-11F, 73 FR 57242, Oct. 2, 2008; T.D. ATF 2013R-9F, 79 FR 46694, Aug. 11, 2014]
+(Approved by the Office of Management and Budget under control number 1140-0030)[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981, as amended by T.D. ATF-172, 49 FR 14941, Apr. 16, 1984; T.D. ATF-293, 55 FR 3721, Feb. 5, 1990; T.D. ATF-400, 63 FR 45003, Aug. 24, 1998; ATF-11F, 73 FR 57242, Oct. 2, 2008; ATF 2013R-9F, 79 FR 46694, Aug. 11, 2014]

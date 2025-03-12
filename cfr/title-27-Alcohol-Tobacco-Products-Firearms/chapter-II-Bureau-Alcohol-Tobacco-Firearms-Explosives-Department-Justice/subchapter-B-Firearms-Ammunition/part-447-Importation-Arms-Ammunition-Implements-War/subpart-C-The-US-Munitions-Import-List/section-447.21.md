@@ -2,7 +2,7 @@
 
 The following defense articles and defense services, designated pursuant to section 38(a) of the Arms Export Control Act, 22 U.S.C. 2778(a), and E.O. 13637 are subject to controls under this part. For purposes of this part, the list shall be known as the U.S. Munitions Import List (USMIL):
 
-The U.S. Munitions Import Listcategory i - firearms
+The U.S. Munitions Import Listcategory i—firearms
 
 (a) Nonautomatic and semiautomatic firearms, to caliber .50 inclusive, combat shotguns, and shotguns with barrels less than 18 inches in length, and all components and parts for such firearms.
 
@@ -18,7 +18,7 @@ Note:
 
 Rifles, carbines, revolvers, and pistols, to caliber .50 inclusive, combat shotguns, and shotguns with barrels less than 18 inches in length are included under Category I(a). Machineguns, submachineguns, machine pistols and fully automatic rifles to caliber .50 inclusive are included under Category I(b).
 
-category ii - artillery projectors
+category ii—artillery projectors
 
 (a) Guns over caliber .50, howitzers, mortars, and recoiless rifles.
 
@@ -26,7 +26,7 @@ category ii - artillery projectors
 
 (c) Components, parts, accessories, and attachments for the articles in paragraphs (a) and (b) of this category, including but not limited to mounts and carriages for these articles.
 
-category iii - ammunition
+category iii—ammunition
 
 (a) Ammunition for the arms in Categories I and II of this section.
 
@@ -38,7 +38,7 @@ Note:
 
 Cartridge and shell casings are included under Category III unless, prior to their importation, they have been rendered useless beyond the possibility of restoration for use as a cartridge or shell casing by means of heating, flame treatment, mangling, crushing, cutting, or popping.
 
-category iv - launch vehicles, guided missiles, ballistic missiles, rockets, torpedoes, bombs and mines
+category iv—launch vehicles, guided missiles, ballistic missiles, rockets, torpedoes, bombs and mines
 
 (a) Rockets (including but not limited to meteorological and other sounding rockets), bombs, grenades, torpedoes, depth charges, land and naval mines, as well as launchers for such defense articles, and demolition blocks and blasting caps.
 
@@ -70,7 +70,7 @@ Military demolition blocks and blasting caps referred to in Category IV(a) do no
 
 (e) Oil well perforating devices.
 
-category v [Reserved]category vi - vessels of war and special naval equipment
+category v [Reserved]category vi—vessels of war and special naval equipment
 
 (a) Vessels of War, if they are armed and equipped with offensive or defensive weapon systems, including but not limited to amphibious warfare vessels, landing craft, mine warfare vessels, patrol vessels, auxiliary vessels, service craft, experimental types of naval ships, and any vessels specifically designed or modified for military purposes or other surface vessels equipped with offensive or defensive military systems.
 
@@ -174,7 +174,7 @@ The term “vessels of war” includes, but is not limited to, the following, if
 
 (8) Light Ships (WLV).
 
-category vii - tanks and military vehicles
+category vii—tanks and military vehicles
 
 (a) Military type armed or armored vehicles, military railway trains, and vehicles specifically designed or modified to accommodate mountings for arms or other specialized military equipment or fitted with such items.
 
@@ -240,7 +240,7 @@ Note:
 
 Paragraph (i) of Category VII does not apply to civil vehicles designed or modified for transporting money or valuables.
 
-category viii - aircraft and associated equipment
+category viii—aircraft and associated equipment
 
 (a) Aircraft, including but not limited to helicopters, non-expansive balloons, drones and lighter-than-air aircraft, which are specifically designed, modified, or equipped for military purposes. This includes but is not limited to the following military purposes: gunnery, bombing, rocket or missile launching, electronic and other surveillance, reconnaissance, refueling, aerial mapping, military liaison, cargo carrying or dropping, personnel dropping, airborne warning and control, and military training.
 
@@ -260,7 +260,7 @@ In Category VIII, “aircraft” means aircraft designed, modified, or equipped 
 
 (e) All observation aircraft bearing “O” designations and using reciprocating engines.
 
-categories ix-xiii [Reserved]category xiv - toxicological agents and equipment and radiological equipment
+categories ix-xiii [Reserved]category xiv—toxicological agents and equipment and radiological equipment
 
 (a) Chemical agents, including but not limited to lung irritants, vesicants, lachrymators, and tear gases (except tear gas formulations containing 1% or less CN or CS), sternutators and irritant smoke, and nerve gases and incapacitating agents.
 
@@ -328,7 +328,7 @@ A chemical agent in Category XIV(a) is a substance having military application w
 
 (f) Antiplant chemicals, such as: Butyl 2-chloro-4-fluorophenoxyacetate (LNF).
 
-category xv [Reserved]category xvi - nuclear weapons design and test equipment
+category xv [Reserved]category xvi—nuclear weapons design and test equipment
 
 (a)[Reserved]
 
@@ -338,7 +338,7 @@ Note:
 
 Category XVI does not include equipment, technical data, or services controlled by the Department of Energy pursuant to the Atomic Energy Act of 1954, as amended, and the Nuclear Non-Proliferation Act of 1978, as amended, or are government transfers authorized pursuant to these Acts.
 
-category xvii-xix [Reserved]category xx - submersible vessels, oceanographic and associated equipment
+category xvii-xix [Reserved]category xx—submersible vessels, oceanographic and associated equipment
 
 (a) Submersible vessels, manned and unmanned, designed or modified for military purposes or having independent capability to maneuver vertically or horizontally at depths below 1,000 feet, or powered by nuclear propulsion plants.
 
@@ -348,8 +348,8 @@ category xvii-xix [Reserved]category xx - submersible vessels, oceanographic and
 
 (d) Equipment, components, parts, accessories, and attachments specifically designed for any of the articles in paragraphs (a) and (b) of this category.
 
-category xxi - miscellaneous articles
+category xxi—miscellaneous articles
 
 Any defense article or defense service not specifically enumerated in the other categories of the USMIL that has substantial military applicability and that has been specifically designed or modified for military purposes. The decision as to whether any article may be included in this category shall be made by the Attorney General with the concurrence of the Secretary of State and the Secretary of Defense.
 
-[T.D. ATF-215, 50 FR 42158, Oct. 18, 1985; 50 FR 46647, Nov. 12, 1985, as amended by T.D. ATF-426, 65 FR 38197, June 20, 2000; T.D. ATF-9F, 72 FR 72938, Dec. 26, 2007; ATF-50F, 78 FR 23677, Apr. 22, 2013; T.D. ATF-25I, 79 FR 17028, Mar. 27, 2014]
+[T.D. ATF-215, 50 FR 42158, Oct. 18, 1985; 50 FR 46647, Nov. 12, 1985, as amended by T.D. ATF-426, 65 FR 38197, June 20, 2000; ATF-9F, 72 FR 72938, Dec. 26, 2007; ATF-50F, 78 FR 23677, Apr. 22, 2013; ATF-25I, 79 FR 17028, Mar. 27, 2014]

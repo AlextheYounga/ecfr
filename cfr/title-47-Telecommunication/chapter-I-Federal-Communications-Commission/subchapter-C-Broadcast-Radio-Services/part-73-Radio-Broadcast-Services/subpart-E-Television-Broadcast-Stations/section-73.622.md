@@ -1249,9 +1249,10 @@ Attenuation in dB = −11.5(Δf + 3.6);Where: Δf = frequency difference in MHz 
 |       Dothan       |                      21, 36                       |
 |       Dozier       |                       \*10                        |
 |      Florence      |                   14, 20, \*22                    |
-|      Gadsden       |                      26, 45                       |
+|      Gadsden       |                        26                         |
 |    Gulf Shores     |                        25                         |
 |      Homewood      |                        28                         |
+|       Hoover       |                        45                         |
 |     Huntsville     |               19, \*24, 32, 41, 48                |
 |     Louisville     |                       \*44                        |
 |       Mobile       |              9, 15, 20, 23, 27, \*41              |

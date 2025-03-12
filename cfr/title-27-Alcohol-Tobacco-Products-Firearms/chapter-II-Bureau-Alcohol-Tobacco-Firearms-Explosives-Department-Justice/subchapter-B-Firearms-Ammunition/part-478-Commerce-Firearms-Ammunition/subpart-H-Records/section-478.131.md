@@ -8,4 +8,4 @@
 
 (b) The requirements of this section shall be in addition to any other recordkeeping requirements contained in this part.
 
-(Approved by the Office of Management and Budget under control number 1140-0045)[T.D. ATF-415, 63 FR 58280, Oct. 29, 1998, as amended by T.D. ATF-11F, 73 FR 57242, Oct. 2, 2008]
+(Approved by the Office of Management and Budget under control number 1140-0045)[T.D. ATF-415, 63 FR 58280, Oct. 29, 1998, as amended by ATF-11F, 73 FR 57242, Oct. 2, 2008]

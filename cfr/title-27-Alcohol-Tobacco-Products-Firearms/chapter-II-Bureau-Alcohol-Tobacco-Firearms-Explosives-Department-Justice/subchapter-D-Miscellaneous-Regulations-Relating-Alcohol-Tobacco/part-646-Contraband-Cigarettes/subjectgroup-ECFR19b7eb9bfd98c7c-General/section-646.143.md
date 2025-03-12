@@ -8,7 +8,7 @@ When used in this part, terms are defined as follows in this section. Words in t
 
 *Common or contract carrier.* A carrier holding a certificate of convenience and necessity, a permit for contract carrier by motor vehicle, or other valid operating authority under the Interstate Commerce Act, or under equivalent operating authority from a regulatory agency of the United States or of any State.
 
-*Contraband cigarettes.* Any quantity of cigarettes in excess of 60,000, if -
+*Contraband cigarettes.* Any quantity of cigarettes in excess of 60,000, if—
 
 (a) The cigarettes bear no evidence of the payment of applicable State cigarette taxes in the State where the cigarettes are found;
 
@@ -22,7 +22,7 @@ When used in this part, terms are defined as follows in this section. Words in t
 
 *Distributor.* Any person who distributes more than 60,000 cigarettes in a single transaction.
 
-*Exempted person.* Any person who is -
+*Exempted person.* Any person who is—
 
 (a) Holding a permit issued pursuant to Chapter 52 of the Internal Revenue Code of 1954 as a manufacturer of tobacco products or as an export warehouse proprietor;
 
@@ -42,4 +42,4 @@ When used in this part, terms are defined as follows in this section. Words in t
 
 *State.* A State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or the Virgin Islands.
 
-[45 FR 48612, July 21, 1980, as amended by T.D. ATF-472, 67 FR 8881, Feb. 27, 2002; T.D. ATF 2013R-9F, 79 FR 46694, Aug. 11, 2014]
+[45 FR 48612, July 21, 1980, as amended by T.D. ATF-472, 67 FR 8881, Feb. 27, 2002; ATF 2013R-9F, 79 FR 46694, Aug. 11, 2014]

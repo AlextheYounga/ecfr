@@ -14,7 +14,7 @@
 
 (4) Has been adjudicated as a mental defective or has been committed to any mental institution;
 
-(5) Is an alien illegally or unlawfully in the United States or, except as provided in § 478.32(f), is an alien who has been admitted to the United States under a nonimmigrant visa: *Provided,* That the provisions of this paragraph (c)(5) do not apply to any alien who has been lawfully admitted to the United States under a nonimmigrant visa if that alien is -
+(5) Is an alien illegally or unlawfully in the United States or, except as provided in § 478.32(f), is an alien who has been admitted to the United States under a nonimmigrant visa: *Provided,* That the provisions of this paragraph (c)(5) do not apply to any alien who has been lawfully admitted to the United States under a nonimmigrant visa if that alien is—
 
 (i) Admitted to the United States for lawful hunting or sporting purposes or is in possession of a hunting license or permit lawfully issued in the United States;
 
@@ -28,7 +28,7 @@
 
 (7) Who, having been a citizen of the United States, has renounced citizenship;
 
-(8) Is subject to a court order that restrains such person from harassing, stalking, or threatening an intimate partner of such person or child of such intimate partner or person, or engaging in other conduct that would place an intimate partner in reasonable fear of bodily injury to the partner or child, except that this paragraph shall only apply to a court order that -
+(8) Is subject to a court order that restrains such person from harassing, stalking, or threatening an intimate partner of such person or child of such intimate partner or person, or engaging in other conduct that would place an intimate partner in reasonable fear of bodily injury to the partner or child, except that this paragraph shall only apply to a court order that—
 
 (i) Was issued after a hearing of which such person received actual notice, and at which such person had the opportunity to participate; and
 
@@ -48,4 +48,4 @@
 
 (e) *Transfer of armor piercing ammunition by licensed dealers.* A licensed dealer shall not willfully transfer armor piercing ammunition: *Provided,* That armor piercing ammunition received and maintained by the licensed dealer as business inventory prior to August 28, 1986, may be transferred to any department or agency of the United States or any State or political subdivision thereof if a record of such ammunition is maintained in the form and manner prescribed by § 478.125(c). Any licensed dealer who violates this paragraph is subject to license revocation. See subpart E of this part. For purposes of this paragraph, the Director shall furnish each licensed dealer information defining which projectiles are considered armor piercing. Such information may not be all-inclusive for purposes of the prohibition on manufacture, importation, or sale or delivery by a manufacturer or importer of such ammunition or 18 U.S.C. 929 relating to criminal misuse of such ammunition.
 
-[T.D. ATF-270, 53 FR 10497, Mar. 31, 1988, as amended by T.D. ATF-363, 60 FR 17454, Apr. 6, 1995; T.D. ATF-401, 63 FR 35523, June 30, 1998; T.D. ATF-471, 67 FR 5426, Feb. 5, 2002; T.D. ATF-24F, 77 FR 33629, June 7, 2012]
+[T.D. ATF-270, 53 FR 10497, Mar. 31, 1988, as amended by T.D. ATF-363, 60 FR 17454, Apr. 6, 1995; T.D. ATF-401, 63 FR 35523, June 30, 1998; T.D. ATF-471, 67 FR 5426, Feb. 5, 2002; ATF-24F, 77 FR 33629, June 7, 2012]

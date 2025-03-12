@@ -22,4 +22,4 @@ Variations from requirements granted under this paragraph are conditioned on com
 
 (c) *Retention of approved variations.* The licensee or permittee shall retain, as part of his records available for examination by ATF officers, any application approved by the Director under this section.
 
-[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981, as amended by T.D. ATF 2013R-9F, 79 FR 46693, Aug. 11, 2014]
+[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981, as amended by ATF 2013R-9F, 79 FR 46693, Aug. 11, 2014]

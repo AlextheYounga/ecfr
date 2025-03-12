@@ -1,6 +1,6 @@
 ##### § 555.106 Certain prohibited distributions. #####
 
-(a) A licensee or permittee may not distribute explosive materials to any person except -
+(a) A licensee or permittee may not distribute explosive materials to any person except—
 
 (1) A licensee;
 
@@ -28,11 +28,11 @@
 
 (4) Was adjudicated as a mental defective or was committed to a mental institution;
 
-(5) Is an alien, other than an alien who -
+(5) Is an alien, other than an alien who—
 
 (i) Is lawfully admitted for permanent residence (as that term is defined in section 101(a)(20) of the Immigration and Nationality Act (8 U.S.C. 1101));
 
-(ii) Is in lawful nonimmigrant status, is a refugee admitted under section 207 of the Immigration and Nationality Act (8 U.S.C. 1157), or is in asylum status under section 208 of the Immigration and Nationality Act (8 U.S.C. 1158), and -
+(ii) Is in lawful nonimmigrant status, is a refugee admitted under section 207 of the Immigration and Nationality Act (8 U.S.C. 1157), or is in asylum status under section 208 of the Immigration and Nationality Act (8 U.S.C. 1158), and—
 
 (A) Is a foreign law enforcement officer of a friendly foreign government, as determined by the Attorney General in consultation with the Secretary of State, entering the United States on official law enforcement business, and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of this official law enforcement business;
 
@@ -48,4 +48,4 @@
 
 (d) The provisions of this section do not apply to the purchase of commercially manufactured black powder in quantities not to exceed 50 pounds, intended to be used solely for sporting, recreational, or cultural purposes in antique firearms or in antique devices, if the requirements of § 555.105(a)(7) or (b)(7) are fully met.
 
-[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981. Redesignated by T.D. ATF-487, 68 FR 3748, Jan. 24, 2003. ATF No. 1, 68 FR 13790, Mar. 20, 2003]
+[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981. Redesignated by T.D. ATF-487, 68 FR 3748, Jan. 24, 2003, as amended by ATF No. 1, 68 FR 13790, Mar. 20, 2003]

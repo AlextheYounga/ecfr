@@ -8,4 +8,4 @@
 
 (d) For recordkeeping requirements for sales by licensees at gun shows see § 478.100(c).
 
-(Information collection requirements in paragraph (a) approved by the Office of Management and Budget under control number 1140-0020; information collection requirements in paragraphs (b) and (c) approved by the Office of Management and Budget under control number 1140-0032)[33 FR 18555, Dec. 14, 1968. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-191, 49 FR 46891, Nov. 29, 1984; T.D. ATF-208, 50 FR 26703, June 28, 1985; T.D. ATF-270, 53 FR 10501, Mar. 31, 1988; T.D. ATF-11F, 73 FR 57241, Oct. 2, 2008]
+(Information collection requirements in paragraph (a) approved by the Office of Management and Budget under control number 1140-0020; information collection requirements in paragraphs (b) and (c) approved by the Office of Management and Budget under control number 1140-0032)[33 FR 18555, Dec. 14, 1968. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-191, 49 FR 46891, Nov. 29, 1984; T.D. ATF-208, 50 FR 26703, June 28, 1985; T.D. ATF-270, 53 FR 10501, Mar. 31, 1988; ATF-11F, 73 FR 57241, Oct. 2, 2008]

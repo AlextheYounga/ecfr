@@ -2,4 +2,4 @@
 
 Whenever during the taxable year a taxpayer intends to change the name of his business, he shall file with ATF (a) a return, Form 5630.7, bearing the notation “Amended,” and showing the trade name intended to be used, (b) his current special tax stamp, and (c) a letter application requesting the amendment of his registration. The Chief, National Firearms Act Branch, upon approval of the application, shall return the special tax stamp, amended to show the new trade name. Firearms operations shall not be commenced under the new trade name by the taxpayer prior to the required approval of his application to so change the trade name.
 
-[36 FR 14256, Aug. 3, 1971. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-251, 52 FR 19334, May 22, 1987; T.D. ATF-363, 60 FR 17456, Apr. 6, 1995; T.D. ATF 2013R-9F, 79 FR 46693, Aug. 11, 2014]
+[36 FR 14256, Aug. 3, 1971. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-251, 52 FR 19334, May 22, 1987; T.D. ATF-363, 60 FR 17456, Apr. 6, 1995; ATF 2013R-9F, 79 FR 46693, Aug. 11, 2014]

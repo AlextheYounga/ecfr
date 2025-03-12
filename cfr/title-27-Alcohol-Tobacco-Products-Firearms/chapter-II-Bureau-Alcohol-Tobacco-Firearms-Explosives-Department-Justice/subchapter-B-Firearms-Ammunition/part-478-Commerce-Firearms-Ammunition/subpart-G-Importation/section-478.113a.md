@@ -2,7 +2,7 @@
 
 (a) A permit will not be issued for a firearm barrel for a handgun not generally recognized as particularly suitable for or readily adaptable to sporting purposes. No firearm barrel shall be imported or brought into the United States or possession thereof by any nonlicensee unless the Director issues a permit authorizing the importation of the firearm barrel.
 
-(b)(1) An application for a permit, ATF Form 6 - Part I, to import or bring a firearm barrel into the United States or a possession thereof under this section must be filed, in triplicate, with the Director. The application must be signed and dated and must contain the information requested on the form, including:
+(b)(1) An application for a permit, ATF Form 6—Part I, to import or bring a firearm barrel into the United States or a possession thereof under this section must be filed, in triplicate, with the Director. The application must be signed and dated and must contain the information requested on the form, including:
 
 (i) The name, address, and telephone number of the applicant;
 
@@ -54,4 +54,4 @@
 
 (vii) The number of firearm barrels released.
 
-(Paragraph (b) approved by the Office of Management and Budget under control number 1140-0005; paragraph (c) approved by the Office of Management and Budget under control number 1140-0007)[T.D. ATF-270, 53 FR 10499, Mar. 31, 1988, as amended by T.D. ATF-426, 65 FR 38200, June 20, 2000; T.D. ATF-11F, 73 FR 57241, Oct. 2, 2008]
+(Paragraph (b) approved by the Office of Management and Budget under control number 1140-0005; paragraph (c) approved by the Office of Management and Budget under control number 1140-0007)[T.D. ATF-270, 53 FR 10499, Mar. 31, 1988, as amended by T.D. ATF-426, 65 FR 38200, June 20, 2000; ATF-11F, 73 FR 57241, Oct. 2, 2008]

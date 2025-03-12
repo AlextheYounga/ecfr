@@ -4,4 +4,4 @@
 
 (b) A user-limited permit is not renewable and is valid for a single purchase transaction. Applications for all user-limited permits must be filed on ATF F 5400.16 or ATF F 5400.21, as required by § 555.45.
 
-(18 U.S.C. 847 (84 Stat. 959); 18 U.S.C. 926 (82 Stat. 1226))[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981, as amended by T.D. ATF-200, 50 FR 10497, Mar. 15, 1985; T.D. ATF-290, 54 FR 53054, Dec. 27, 1989; T.D. ATF-400, 63 FR 45002, Aug. 24, 1998; T.D. ATF 2013R-9F, 79 FR 46693, Aug. 11, 2014]
+(18 U.S.C. 847 (84 Stat. 959); 18 U.S.C. 926 (82 Stat. 1226))[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981, as amended by T.D. ATF-200, 50 FR 10497, Mar. 15, 1985; T.D. ATF-290, 54 FR 53054, Dec. 27, 1989; T.D. ATF-400, 63 FR 45002, Aug. 24, 1998; ATF 2013R-9F, 79 FR 46693, Aug. 11, 2014]

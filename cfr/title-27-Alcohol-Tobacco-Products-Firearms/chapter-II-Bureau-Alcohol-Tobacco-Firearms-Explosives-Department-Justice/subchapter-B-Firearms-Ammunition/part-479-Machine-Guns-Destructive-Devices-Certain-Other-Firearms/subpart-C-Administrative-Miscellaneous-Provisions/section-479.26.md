@@ -12,4 +12,4 @@
 
 (c) *Retention of approved variations.* The person granted the variance shall retain and make available for examination by ATF officers any application approved by the Director under this section.
 
-[T.D. ATF-270, 53 FR 10508 Mar. 31, 1988, as amended by T.D. ATF 2013R-9F, 79 FR 46693, Aug. 11, 2014]
+[T.D. ATF-270, 53 FR 10508 Mar. 31, 1988, as amended by ATF 2013R-9F, 79 FR 46693, Aug. 11, 2014]

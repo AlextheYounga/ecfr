@@ -6,4 +6,4 @@
 
 (2) Aliens admitted to the United States under a nonimmigrant visa importing or bringing firearms or ammunition into the United States must provide the United States Customs and Border Protection with applicable documentation (e.g., a hunting license or permit lawfully issued in the United States) establishing the nonimmigrant alien falls within an exception specified in 18 U.S.C. 922(y)(2) or has obtained a waiver as specified in 18 U.S.C. 922(y)(3) before the firearm or ammunition may be imported. This provision applies in all cases, whether or not a Form 6 is needed to bring the firearms or ammunition into the United States.
 
-(Approved by the Office of Management and Budget under control number 1140-0060)[T.D. ATF-24F, 77 FR 33629, June 7, 2012]
+(Approved by the Office of Management and Budget under control number 1140-0060)[ATF-24F, 77 FR 33629, June 7, 2012]

@@ -42,4 +42,4 @@
 
 (b) For additional requirements relating to the importation of plastic explosives into the United States on or after April 24, 1997, see § 555.183 of this title.
 
-(Approved by the Office of Management and Budget under control number 1140-0005)[T.D. ATF-215, 50 FR 42161, Oct. 18, 1985, as amended by T.D. ATF-387, 62 FR 8376, Feb. 25, 1997; T.D. ATF-426, 65 FR 38197, June 20, 2000;T.D. ATF-484, 67 FR 64526, Oct. 21, 2002; T.. DATF-11F, 73 FR 57240, Oct. 2, 2008]
+(Approved by the Office of Management and Budget under control number 1140-0005)[T.D. ATF-215, 50 FR 42161, Oct. 18, 1985, as amended by T.D. ATF-387, 62 FR 8376, Feb. 25, 1997; T.D. ATF-426, 65 FR 38197, June 20, 2000;T.D. ATF-484, 67 FR 64526, Oct. 21, 2002; ATF-11F, 73 FR 57240, Oct. 2, 2008]

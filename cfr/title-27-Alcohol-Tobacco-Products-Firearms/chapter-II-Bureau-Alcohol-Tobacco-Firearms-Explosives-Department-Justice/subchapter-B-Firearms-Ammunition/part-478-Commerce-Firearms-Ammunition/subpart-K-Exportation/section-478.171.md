@@ -2,4 +2,4 @@
 
 Firearms and ammunition shall be exported in accordance with the applicable provisions of section 38 of the Arms Export Control Act (22 U.S.C. 2778) and regulations thereunder. However, licensed manufacturers, licensed importers, and licensed dealers exporting firearms shall maintain records showing the manufacture or acquisition of the firearms as required by this part and records showing the name and address of the foreign consignee of the firearms and the date the firearms were exported. Licensed manufacturers and licensed importers exporting armor piercing ammunition and manufactured after September 13, 1994, shall maintain records showing the name and address of the foreign consignee and the date the armor piercing ammunition or were exported.
 
-[T.D. ATF-270, 53 FR 10507, Mar. 31, 1988; T.D. ATF-363, 60 FR 17456, Apr. 6, 1995; T.D. ATF 2014R-42, 84 FR 12094, Apr. 1, 2019]
+[T.D. ATF-270, 53 FR 10507, Mar. 31, 1988; T.D. ATF-363, 60 FR 17456, Apr. 6, 1995; ATF 2014R-42, 84 FR 12094, Apr. 1, 2019]

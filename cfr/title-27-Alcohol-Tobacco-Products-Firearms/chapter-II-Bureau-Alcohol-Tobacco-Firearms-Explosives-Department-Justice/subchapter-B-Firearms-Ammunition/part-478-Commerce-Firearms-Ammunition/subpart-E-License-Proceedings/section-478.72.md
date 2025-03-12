@@ -6,4 +6,4 @@ Such notification shall be made not less than 10 days in advance of the date set
 On conclusion of the hearing and consideration of all relevant facts and circumstances presented by the applicant or his representative, the Director shall render his decision confirming or reversing the denial of the application.
 A copy of the application, marked “Disapproved,” will be returned to the applicant. If the decision is that the license applied for should be issued, the applicant shall be so notified, in writing, and the license shall be issued as provided by § 478.47.
 
-[33 FR 18555, Dec. 14, 1968, as amended by ATF-27P, 74 FR 1878, Jan. 14, 2009; T.D. ATF 2013R-9F, 79 FR 46692, Aug. 11, 2014; ATF 2008R-15P; 81 FR 32235, May 23, 2016]
+[33 FR 18555, Dec. 14, 1968, as amended by ATF-27P, 74 FR 1878, Jan. 14, 2009; ATF 2013R-9F, 79 FR 46692, Aug. 11, 2014; ATF 2008R-15P; 81 FR 32235, May 23, 2016]

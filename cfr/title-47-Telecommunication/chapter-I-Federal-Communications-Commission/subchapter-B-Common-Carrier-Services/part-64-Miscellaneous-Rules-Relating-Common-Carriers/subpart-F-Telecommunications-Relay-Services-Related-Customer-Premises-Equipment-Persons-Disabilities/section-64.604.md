@@ -422,53 +422,7 @@ I swear under penalty of perjury that:
 
 (v) Any IP CTS provider that does not comply with this paragraph (c)(8) shall be ineligible for compensation for such IP CTS from the TRS Fund.
 
-(9) *IP CTS registration and certification requirements.* (i) IP CTS providers must first obtain the following registration information from each consumer prior to requesting compensation from the TRS Fund for service provided to the consumer. The consumer's full name, date of birth, last four digits of the consumer's social security number, address and telephone number.
-
-(ii) *Self-certification prior to* August 28, 2014. IP CTS providers, in order to be eligible to receive compensation from the TRS Fund for providing IP CTS, also must first obtain a written certification from the consumer, and if obtained prior to August 28, 2014, such written certification shall attest that the consumer needs IP CTS to communicate in a manner that is functionally equivalent to the ability of a hearing individual to communicate using voice communication services. The certification must include the consumer's certification that:
-
-(A) The consumer has a hearing loss that necessitates IP CTS to communicate in a manner that is functionally equivalent to communication by conventional voice telephone users;
-
-(B) The consumer understands that the captioning service is provided by a live communications assistant; and
-
-(C) The consumer understands that the cost of IP CTS is funded by the TRS Fund.
-
-(iii) *Self-certification on or after* August 28, 2014. IP CTS providers must also first obtain from each consumer prior to requesting compensation from the TRS Fund for the consumer, a written certification from the consumer, and if obtained on or after August 28, 2014, such certification shall state that:
-
-(A) The consumer has a hearing loss that necessitates use of captioned telephone service;
-
-(B) The consumer understands that the captioning on captioned telephone service is provided by a live communications assistant who listens to the other party on the line and provides the text on the captioned phone;
-
-(C) The consumer understands that the cost of captioning each Internet protocol captioned telephone call is funded through a federal program; and
-
-(D) The consumer will not permit, to the best of the consumer's ability, persons who have not registered to use Internet protocol captioned telephone service to make captioned telephone calls on the consumer's registered IP captioned telephone service or device.
-
-(iv) The certification required by paragraphs (c)(9)(ii) and (iii) of this section must be made on a form separate from any other agreement or form, and must include a separate consumer signature specific to the certification. Beginning on August 28, 2014, such certification shall be made under penalty of perjury. For purposes of this rule, an electronic signature, defined by the Electronic Signatures in Global and National Commerce Act, 15 U.S.C. 7001 *et seq.,* as an electronic sound, symbol, or process, attached to or logically associated with a contract or other record and executed or adopted by a person with the intent to sign the record, has the same legal effect as a written signature.
-
-(v) *Third-party certification prior to* August 28, 2014. Where IP CTS equipment is or has been obtained by a consumer from an IP CTS provider, directly or indirectly, at no charge or for less than $75 and the consumer was registered in accordance with the requirements of paragraph (c)(9) of this section prior to August 28, 2014, the IP CTS provider must also obtain from each consumer prior to requesting compensation from the TRS Fund for the consumer, written certification provided and signed by an independent third-party professional, except as provided in paragraph (c)(9)(xi) of this section.
-
-(vi) To comply with paragraph (c)(9)(v) of this section, the independent professional providing certification must:
-
-(A) Be qualified to evaluate an individual's hearing loss in accordance with applicable professional standards, and may include, but are not limited to, community-based social service providers, hearing related professionals, vocational rehabilitation counselors, occupational therapists, social workers, educators, audiologists, speech pathologists, hearing instrument specialists, and doctors, nurses and other medical or health professionals;
-
-(B) Provide his or her name, title, and contact information, including address, telephone number, and email address; and
-
-(C) Certify in writing that the IP CTS user is an individual with hearing loss who needs IP CTS to communicate in a manner that is functionally equivalent to telephone service experienced by individuals without hearing disabilities.
-
-(vii) *Third-party certification on or after* August 28, 2014. Where IP CTS equipment is or has been obtained by a consumer from an IP CTS provider, directly or indirectly, at no charge or for less than $75, the consumer (in cases where the equipment was obtained directly from the IP CTS provider) has not subsequently paid $75 to the IP CTS provider for the equipment prior to the date the consumer is registered to use IP CTS, and the consumer is registered in accordance with the requirements of paragraph (c)(9) of this section on or after August 28, 2014, the IP CTS provider must also, prior to requesting compensation from the TRS Fund for service to the consumer, obtain from each consumer written certification provided and signed by an independent third-party professional, except as provided in paragraph (c)(9)(xi) of this section.
-
-(viii) To comply with paragraph (c)(9)(vii) of this section, the independent third-party professional providing certification must:
-
-(A) Be qualified to evaluate an individual's hearing loss in accordance with applicable professional standards, and must be either a physician, audiologist, or other hearing related professional. Such professional shall not have been referred to the IP CTS user, either directly or indirectly, by any provider of TRS or any officer, director, partner, employee, agent, subcontractor, or sponsoring organization or entity (collectively “affiliate”) of any TRS provider. Nor shall the third party professional making such certification have any business, family or social relationship with the TRS provider or any affiliate of the TRS provider from which the consumer is receiving or will receive service.
-
-(B) Provide his or her name, title, and contact information, including address, telephone number, and email address.
-
-(C) Certify in writing, under penalty of perjury, that the IP CTS user is an individual with hearing loss that necessitates use of captioned telephone service and that the third party professional understands that the captioning on captioned telephone service is provided by a live communications assistant and is funded through a federal program.
-
-(ix) In instances where the consumer has obtained IP CTS equipment from a local, state, or federal governmental program, the consumer may present documentation to the IP CTS provider demonstrating that the equipment was obtained through one of these programs, in lieu of providing an independent, third-party certification under paragraphs (c)(9)(v) and (vii) of this section.
-
-(x) Each IP CTS provider shall maintain records of any registration and certification information for a period of at least five years after the consumer ceases to obtain service from the provider and shall maintain the confidentiality of such registration and certification information, and may not disclose such registration and certification information or the content of such registration and certification information except as required by law or regulation.
-
-(xi) IP CTS providers must obtain registration information and certification of hearing loss from all IP CTS users who began receiving service prior to March 7, 2013, within 180 days following August 28, 2014. Notwithstanding any other provision of paragraph (c)(9) of this section, IP CTS providers shall be compensated for compensable minutes of use generated prior to February 24, 2015 by any such users, but shall not receive compensation for minutes of IP CTS use generated on or after February 24, 2015 by any IP CTS user who has not been registered.
+(9) [Reserved]
 
 (10) *IP CTS settings.* Each IP CTS provider shall ensure that, for each IP CTS device it distributes, directly or indirectly:
 

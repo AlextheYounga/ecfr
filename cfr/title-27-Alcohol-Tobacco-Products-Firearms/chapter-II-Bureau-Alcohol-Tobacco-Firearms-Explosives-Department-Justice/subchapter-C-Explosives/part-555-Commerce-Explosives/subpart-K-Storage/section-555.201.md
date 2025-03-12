@@ -8,8 +8,8 @@
 
 (d) The regulations set forth in §§ 555.221 through 555.224 pertain to the storage of display fireworks, pyrotechnic compositions, and explosive materials used in assembling fireworks and articles pyrotechnic.
 
-(e) The provisions of § 555.202(a) classifying flash powder and bulk salutes as high explosives are mandatory after March 7, 1990: *Provided,* that those persons who hold licenses or permits under this part on that date shall, with respect to the premises covered by such licenses or permits, comply with the high explosives storage requirements for flash powder and bulk salutes by March 7, 1991.
+(e) [Reserved]
 
 (f) Any person who stores explosive materials shall notify the authority having jurisdiction for fire safety in the locality in which the explosive materials are being stored of the type, magazine capacity, and location of each site where such explosive materials are stored. Such notification shall be made orally before the end of the day on which storage of the explosive materials commenced and in writing within 48 hours from the time such storage commenced.
 
-(Paragraph (f) approved by the Office of Management and Budget under control number 1140-0071)[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981, as amended by T.D. ATF-293, 55 FR 3722, Feb. 5, 1990; T.D. ATF-400, 63 FR 45003, Aug. 24, 1998; T.D. ATF-11F, 73 FR 57242, Oct. 2, 2008; T.D. ATF 2013R-9F, 79 FR 46694, Aug. 11, 2014]
+(Paragraph (f) approved by the Office of Management and Budget under control number 1140-0071)[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981, as amended by T.D. ATF-293, 55 FR 3722, Feb. 5, 1990; T.D. ATF-400, 63 FR 45003, Aug. 24, 1998; ATF-11F, 73 FR 57242, Oct. 2, 2008; ATF 2013R-9F, 79 FR 46694, Aug. 11, 2014; ATF 2017R-21, 84 FR 13800, Apr. 8, 2019]

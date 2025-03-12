@@ -18,4 +18,4 @@
 
 (d) When the Director of Industry Operations or the Chief, Federal Firearms Licensing Center fails to act on an application for a license within the 60-day period prescribed by paragraph (c) of this section, the applicant may file an action under section 1361 of title 28, United States Code, to compel ATF to act upon the application.
 
-(18 U.S.C. 847 (84 Stat. 959); 18 U.S.C. 926 (82 Stat. 1226))[33 FR 18555, Dec. 14, 1968. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-135, 48 FR 24068, May 31, 1983; T.D. ATF-241, 51 FR 39619, Oct. 29, 1986; T.D. ATF-270, 53 FR 10495, Mar. 31, 1988; T.D. ATF-290, 54 FR 53054, Dec. 27, 1989; T.D. ATF-363, 60 FR 17453, Apr. 6, 1995; T.D. ATF-11F, 73 FR 57241, Oct. 2, 2008]
+(18 U.S.C. 847 (84 Stat. 959); 18 U.S.C. 926 (82 Stat. 1226))[33 FR 18555, Dec. 14, 1968. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-135, 48 FR 24068, May 31, 1983; T.D. ATF-241, 51 FR 39619, Oct. 29, 1986; T.D. ATF-270, 53 FR 10495, Mar. 31, 1988; T.D. ATF-290, 54 FR 53054, Dec. 27, 1989; T.D. ATF-363, 60 FR 17453, Apr. 6, 1995; ATF-11F, 73 FR 57241, Oct. 2, 2008]

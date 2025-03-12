@@ -1,4 +1,4 @@
-##### § 555.142 Relief from disabilities (effective January 24, 2003). #####
+##### § 555.142 Relief from disabilities. #####
 
 (a) Any person prohibited from shipping or transporting any explosive in or affecting interstate or foreign commerce or from receiving or possessing any explosive which has been shipped or transported in or affecting interstate or foreign commerce may make application for relief from disabilities under section 845(b) of the Act .
 
@@ -6,7 +6,7 @@
 
 (c)(1) The Director may grant relief to an applicant if it is established to the satisfaction of the Director that the circumstances regarding the disability and the applicant's record and reputation are such that the applicant will not be likely to act in a manner dangerous to public safety and that the granting of such relief is not contrary to the public interest.
 
-(2) Except as provided in paragraph (c)(3) of this section, the Director will not grant relief if the applicant -
+(2) Except as provided in paragraph (c)(3) of this section, the Director will not grant relief if the applicant—
 
 (i) Has not been discharged from parole or probation for a period of at least 2 years;
 
@@ -56,4 +56,4 @@
 
 (2) Any record or document of a court or other government entity or official required by paragraph (f)(1) of this section must be certified by the court or other government entity or official as a true copy.
 
-(Approved by the Office of Management and Budget under control number 1140-0076)[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981. Redesignated by T.D. ATF-487, 68 FR 3748, Jan. 24, 2003. ATF No. 1, 68 FR 13792, Mar. 20, 2003; T.D. ATF 2013R-9F, 79 FR 46694, Aug. 11, 2014]
+(Approved by the Office of Management and Budget under control number 1140-0076)[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981. Redesignated by T.D. ATF-487, 68 FR 3748, Jan. 24, 2003, as amended by ATF No. 1, 68 FR 13792, Mar. 20, 2003; ATF 2013R-9F, 79 FR 46694, Aug. 11, 2014; ATF 2017R-21, 84 FR 13800, Apr. 8, 2019]

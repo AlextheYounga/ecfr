@@ -14,4 +14,4 @@
 
 (d) *Magazines acquired or constructed after permit or license is issued.* A licensee or permittee who intends to construct or acquire additional magazines shall notify the Director, Industry Operations in accordance with paragraph (a)(4) of this section describing the additional magazines and the class and quantity of explosives to be stored in the magazine. Unless otherwise advised by the Director, Industry Operations, additional magazines may be constructed, or acquired magazines may be used for the storage of explosives. Explosives must not be stored in a magazine under construction. The Director, Industry Operations must be notified that construction has been completed.
 
-[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981, as amended by T.D. ATF-400, 63 FR 45002, Aug. 24, 1998; T.D. ATF 2013R-9F, 79 FR 46694, Aug. 11, 2014]
+[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981, as amended by T.D. ATF-400, 63 FR 45002, Aug. 24, 1998; ATF 2013R-9F, 79 FR 46694, Aug. 11, 2014]

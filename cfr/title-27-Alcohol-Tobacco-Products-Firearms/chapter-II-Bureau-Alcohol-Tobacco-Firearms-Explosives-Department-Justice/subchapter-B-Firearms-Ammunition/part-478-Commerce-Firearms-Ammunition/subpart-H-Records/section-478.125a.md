@@ -19,4 +19,4 @@ Disposition Record of Personal Firearms
 
 (b) Any licensed manufacturer, licensed importer, or licensed dealer selling or otherwise disposing of a firearm from the licensee's personal firearms collection under this section shall be subject to the restrictions imposed by the Act and this part on the dispositions of firearms by persons other than licensed manufacturers, licensed importers, and licensed dealers.
 
-(Approved by the Office of Management and Budget under control number 1140-0032)[T.D. ATF-270, 53 FR 10504, Mar. 31, 1988, as amended by T.D. ATF-313, 56 FR 32509, July 17, 1991; T.D. ATF-415, 63 FR 58280, Oct. 29, 1998; T.D. ATF-11F, 73 FR 57242, Oct. 2, 2008; T.D. ATF 2015R-26, 81 FR 38071, June 13, 2016]
+(Approved by the Office of Management and Budget under control number 1140-0032)[T.D. ATF-270, 53 FR 10504, Mar. 31, 1988, as amended by T.D. ATF-313, 56 FR 32509, July 17, 1991; T.D. ATF-415, 63 FR 58280, Oct. 29, 1998; ATF-11F, 73 FR 57242, Oct. 2, 2008; ATF 2015R-26, 81 FR 38071, June 13, 2016]

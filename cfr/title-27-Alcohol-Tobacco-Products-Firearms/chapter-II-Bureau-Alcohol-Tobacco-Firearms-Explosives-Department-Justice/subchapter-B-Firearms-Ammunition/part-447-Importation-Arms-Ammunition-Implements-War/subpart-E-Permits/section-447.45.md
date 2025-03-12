@@ -24,4 +24,4 @@
 
 (b) Within 15 days of the date of their release from Customs custody, the importer of the articles released will forward to the address specified on the form a copy of Form 6A on which will be reported any error or discrepancy appearing on the Form 6A certified by Customs and serial numbers if not previously provided on ATF Form 6A.
 
-(Approved by the Office of Management and Budget under control number 1140-0007)[T.D. ATF-215, 50 FR 42161, Oct. 18, 1985, as amended by T.D. ATF-426, 65 FR 38197, June 20, 2000; T.D. ATF-484, 67 FR 64526, Oct. 21, 2002; TD ..ATF-11F, 73 FR 57240, Oct. 2, 2008]
+(Approved by the Office of Management and Budget under control number 1140-0007)[T.D. ATF-215, 50 FR 42161, Oct. 18, 1985, as amended by T.D. ATF-426, 65 FR 38197, June 20, 2000; T.D. ATF-484, 67 FR 64526, Oct. 21, 2002; ATF-11F, 73 FR 57240, Oct. 2, 2008]

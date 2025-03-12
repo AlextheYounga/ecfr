@@ -2,7 +2,7 @@
 
 (a) No firearm, firearm barrel, or ammunition shall be imported or brought into the United States by a licensed importer (as defined in § 478.11) unless the Director has authorized the importation of the firearm, firearm barrel, or ammunition.
 
-(b)(1) An application for a permit, ATF Form 6 - Part I, to import or bring a firearm, firearm barrel, or ammunition into the United States or a possession thereof under this section must be filed, in triplicate, with the Director. The application must be signed and dated and must contain the information requested on the form, including:
+(b)(1) An application for a permit, ATF Form 6—Part I, to import or bring a firearm, firearm barrel, or ammunition into the United States or a possession thereof under this section must be filed, in triplicate, with the Director. The application must be signed and dated and must contain the information requested on the form, including:
 
 (i) The name, address, telephone number, and license number (including expiration date) of the importer;
 
@@ -82,4 +82,4 @@
 
 (3) Post in the records required to be maintained by the importer under subpart H of this part all required information regarding the importation.
 
-(Paragraph (b) approved by the Office of Management and Budget under control number 1140-0005; paragraphs (c) and (d) approved by the Office of Management and Budget under control number 1140-0007)[T.D. ATF-270, 53 FR 10498, Mar. 31, 1988, as amended by T.D. ATF-426, 65 FR 38198, June 20, 2000; T.D. ATF-11F, 73 FR 57241, Oct. 2, 2008]
+(Paragraph (b) approved by the Office of Management and Budget under control number 1140-0005; paragraphs (c) and (d) approved by the Office of Management and Budget under control number 1140-0007)[T.D. ATF-270, 53 FR 10498, Mar. 31, 1988, as amended by T.D. ATF-426, 65 FR 38198, June 20, 2000; ATF-11F, 73 FR 57241, Oct. 2, 2008]

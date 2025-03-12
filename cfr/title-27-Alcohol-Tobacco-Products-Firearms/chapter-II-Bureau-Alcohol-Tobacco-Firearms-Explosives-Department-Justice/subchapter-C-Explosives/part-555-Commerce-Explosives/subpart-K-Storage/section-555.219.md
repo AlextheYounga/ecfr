@@ -17,3 +17,5 @@
 |90,000 |                100,000                |                      300                       |               300               |200|
 |100,000|                200,000                |                      375                       |               375               |250|
 |200,000|                300,000                |                      450                       |               450               |300|
+
+TABLE: Department of Defense Ammunition and Explosives Standards, Table 5-4.1 Extract; 4145.27 M, March 1969[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981, as amended by ATF 2017R-21, 84 FR 13800, Apr. 8, 2019]

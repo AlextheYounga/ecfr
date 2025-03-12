@@ -12,4 +12,4 @@
 
 (c) For purposes of this section and § 478.129(c), the “chief law enforcement officer” means the chief of police, the sheriff, or an equivalent officer or the designee of any such individual.
 
-(Approved by the Office of Management and Budget under control number 1140-0045)[T.D. ATF-415, 63 FR 58280, Oct. 29, 1998, as amended by T.D. ATF-11F, 73 FR 57242, Oct. 2, 2008]
+(Approved by the Office of Management and Budget under control number 1140-0045)[T.D. ATF-415, 63 FR 58280, Oct. 29, 1998, as amended by ATF-11F, 73 FR 57242, Oct. 2, 2008]

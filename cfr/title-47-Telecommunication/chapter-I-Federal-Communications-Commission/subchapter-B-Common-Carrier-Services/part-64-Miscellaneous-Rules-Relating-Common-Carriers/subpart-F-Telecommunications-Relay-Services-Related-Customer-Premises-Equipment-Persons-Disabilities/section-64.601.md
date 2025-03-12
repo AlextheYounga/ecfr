@@ -68,9 +68,9 @@
 
 (29) *Real-Time Text (RTT).* The term *real-time text* shall have the meaning set forth in § 67.1 of this chapter.
 
-(30) *Registered Internet-based TRS user.* An individual that has registered with a VRS or IP Relay provider as described in § 64.611.
+(30) *Registered internet-based TRS user.* An individual who has registered with a VRS, IP Relay, or IP CTS provider as described in § 64.611.
 
-(31) *Registered Location.* The most recent information obtained by a VRS or IP Relay provider that identifies the physical location of an end user.
+(31) *Registered Location.* The most recent information obtained by a VRS, IP Relay, or IP CTS provider that identifies the physical location of an end user.
 
 (32) *Sign language.* A language which uses manual communication and body language to convey meaning, including but not limited to American Sign Language.
 
@@ -116,4 +116,4 @@
 
 (b) For purposes of this subpart, all regulations and requirements applicable to common carriers shall also be applicable to providers of interconnected VoIP service.
 
-[68 FR 50976, Aug. 25, 2003, as amended at 69 FR 53351, Sept. 1, 2004; 72 FR 43559, Aug. 6, 2007; 73 FR 41294, July 18, 2008; 76 FR 24400, May 2, 2011; 76 FR 65969, Oct. 25, 2011; 78 FR 40605, July 5, 2013; 82 FR 7707, Jan. 23, 2017; 82 FR 17761, Apr. 13, 2017; 82 FR 39682, Aug. 22, 2017]
+[68 FR 50976, Aug. 25, 2003, as amended at 69 FR 53351, Sept. 1, 2004; 72 FR 43559, Aug. 6, 2007; 73 FR 41294, July 18, 2008; 76 FR 24400, May 2, 2011; 76 FR 65969, Oct. 25, 2011; 78 FR 40605, July 5, 2013; 82 FR 7707, Jan. 23, 2017; 82 FR 17761, Apr. 13, 2017; 82 FR 39682, Aug. 22, 2017; 84 FR 8461, Mar. 8, 2019]

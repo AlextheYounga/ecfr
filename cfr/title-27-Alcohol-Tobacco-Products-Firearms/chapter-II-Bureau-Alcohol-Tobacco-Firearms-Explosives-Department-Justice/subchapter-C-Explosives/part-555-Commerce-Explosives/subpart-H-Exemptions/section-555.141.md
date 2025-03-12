@@ -20,7 +20,7 @@
 
 (9) Industrial and laboratory chemicals which are intended for use as reagents and which are packaged and shipped pursuant to U.S. Department of Transportation regulations, 49 CFR Parts 100 to 177, which do not require explosives hazard warning labels.
 
-(10) Model rocket motors that meet all of the following criteria -
+(10) Model rocket motors that meet all of the following criteria—
 
 (i) Consist of ammonium perchlorate composite propellant, black powder, or other similar low explosives;
 
@@ -30,4 +30,4 @@
 
 (b) *Black powder.* Except for the provisions applicable to persons required to be licensed under subpart D, this part does not apply with respect to commercially manufactured black powder in quantities not to exceed 50 pounds, percussion caps, safety and pyrotechnic fuses, quills, quick and slow matches, and friction primers, if the black powder is intended to be used solely for sporting, recreational, or cultural purposes in antique firearms, as defined in 18 U.S.C. 921(a)(16) or antique devices, as exempted from the term “destructive devices” in 18 U.S.C. 921(a)(4).
 
-[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981, as amended by T.D. ATF-87, 46 FR 46916, Sept. 23, 1981; T.D. ATF-293, 55 FR 3722, Feb. 5, 1990; T.D. ATF-387, 62 FR 8377, Feb. 25, 1997; T.D. ATF-400, 63 FR 45003, Aug. 24, 1998; ATF No. 1, 68 FR 13792, Mar. 20, 2003; ATF 6F, 71 FR 46101, Aug. 11, 2006; T.D. ATF 2013R-9F, 79 FR 46694, Aug. 11, 2014]
+[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981, as amended by T.D. ATF-87, 46 FR 46916, Sept. 23, 1981; T.D. ATF-293, 55 FR 3722, Feb. 5, 1990; T.D. ATF-387, 62 FR 8377, Feb. 25, 1997; T.D. ATF-400, 63 FR 45003, Aug. 24, 1998; ATF No. 1, 68 FR 13792, Mar. 20, 2003; ATF 6F, 71 FR 46101, Aug. 11, 2006; ATF 2013R-9F, 79 FR 46694, Aug. 11, 2014]

@@ -2,7 +2,7 @@
 
 (a) The Director may issue a permit authorizing the importation of a firearm or ammunition into the United States to the place of residence of any military member of the U.S. Armed Forces who is on active duty outside the United States, or who has been on active duty outside the United States within the 60-day period immediately preceding the intended importation: *Provided,* That such firearm or ammunition is generally recognized as particularly suitable for or readily adaptable to sporting purposes and is intended for the personal use of such member.
 
-(1) An application for a permit, ATF Form 6 - Part II, to import a firearm or ammunition into the United States under this section must be filed, in triplicate, with the Director. The application must be signed and dated and must contain the information requested on the form, including:
+(1) An application for a permit, ATF Form 6—Part II, to import a firearm or ammunition into the United States under this section must be filed, in triplicate, with the Director. The application must be signed and dated and must contain the information requested on the form, including:
 
 (i) The name, current address, and telephone number of the applicant;
 
@@ -34,7 +34,7 @@
 
 (J) The unit cost of the firearm or ammunition to imported;
 
-(vi) The specific purpose of importation, that is -
+(vi) The specific purpose of importation, that is—
 
 (A) That the firearm or ammunition being imported is for the personal use of the applicant; and
 
@@ -84,4 +84,4 @@
 
 (c) Firearms determined by the Department of Defense to be war souvenirs may be imported into the United States by the military members of the U.S. Armed Forces under such provisions and procedures as the Department of Defense may issue.
 
-(Paragraph (a) approved by the Office of Management and Budget under control number 1140-0006; paragraph (b) approved by the Office of Management and Budget under control number 1140-0007)[T.D. ATF-270, 53 FR 10500, Mar. 31, 1988, as amended by T.D. ATF-426, 65 FR 38200, June 20, 2000; T.D. ATF-11F, 73 FR 57241, Oct. 2, 2008]
+(Paragraph (a) approved by the Office of Management and Budget under control number 1140-0006; paragraph (b) approved by the Office of Management and Budget under control number 1140-0007)[T.D. ATF-270, 53 FR 10500, Mar. 31, 1988, as amended by T.D. ATF-426, 65 FR 38200, June 20, 2000; ATF-11F, 73 FR 57241, Oct. 2, 2008]

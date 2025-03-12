@@ -8,4 +8,4 @@
 
 (c) Each licensee and permittee shall maintain all records of importation, production, shipment, receipt, sale, or other disposition, whether temporary or permanent, of explosive materials as the regulations in this part prescribe. Sections 842(f) and 842(g) of the Act make it unlawful for any licensee or permittee knowingly to make any false entry in, or fail to make entry in, any record required to be kept under the Act and the regulations in this part.
 
-(Approved by the Office of Management and Budget under control number 1140-0030)[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981, as amended by T.D. ATF-172, 49 FR 14941, Apr. 16, 1984; ATF No. 1, 68 FR 13790, Mar. 20, 2003; T.D. ATF-11F, 73 FR 57242, Oct. 2, 2008]
+(Approved by the Office of Management and Budget under control number 1140-0030)[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981, as amended by T.D. ATF-172, 49 FR 14941, Apr. 16, 1984; ATF No. 1, 68 FR 13790, Mar. 20, 2003; ATF-11F, 73 FR 57242, Oct. 2, 2008]

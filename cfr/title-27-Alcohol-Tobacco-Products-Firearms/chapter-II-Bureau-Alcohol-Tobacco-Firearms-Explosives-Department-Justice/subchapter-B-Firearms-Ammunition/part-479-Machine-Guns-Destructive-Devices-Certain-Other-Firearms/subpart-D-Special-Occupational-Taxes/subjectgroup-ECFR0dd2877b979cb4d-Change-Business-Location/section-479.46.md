@@ -2,4 +2,4 @@
 
 Whenever during the taxable year a taxpayer intends to remove his business to a location other than specified in his last special (occupational) tax return (see § 479.34), he shall file with ATF (a) a return, Form 5630.7, bearing the notation “Removal Registry,” and showing the new address intended to be used, (b) his current special tax stamp, and (c) a letter application requesting the amendment of his registration. The Chief, National Firearms Act Branch, upon approval of the application, shall return the special tax stamp, amended to show the new business location. Firearms operations shall not be commenced at the new business location by the taxpayer prior to the required approval of his application to so change his business location.
 
-[36 FR 14256, Aug. 3, 1971. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-251, 52 FR 19334, May 22, 1987; T.D. ATF-363, 60 FR 17456, Apr. 6, 1995; T.D. ATF 2013R-9F, 79 FR 46693, Aug 11, 2014]
+[36 FR 14256, Aug. 3, 1971. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-251, 52 FR 19334, May 22, 1987; T.D. ATF-363, 60 FR 17456, Apr. 6, 1995; ATF 2013R-9F, 79 FR 46693, Aug 11, 2014]

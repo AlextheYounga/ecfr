@@ -4,4 +4,4 @@
 
 (b) When the Chief, Federal Explosives Licensing Center, finds through any means other than notice from the licensee or permittee that an incorrect license or permit has been issued, (1) the Chief, Federal Explosives Licensing Center, may require the holder of the incorrect license or permit to return the license or permit for correction, and (2) if the error resulted from information contained in the licensee's or permittee's application for the license or permit, the Chief, Federal Explosives Licensing Center, shall require the licensee or permittee to file an amended application setting forth the correct information, and a statement satisfactorily explaining the error contained in the application. The Chief, Federal Explosives Licensing Center, then shall make the correction on the license or permit and return it to the licensee or permittee.
 
-[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981, as amended by T.D. ATF-290, 54 FR 53054, Dec. 27, 1989; T.D. ATF 2013R-9F, 79 FR 46693, Aug. 11, 2014]
+[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981, as amended by T.D. ATF-290, 54 FR 53054, Dec. 27, 1989; ATF 2013R-9F, 79 FR 46693, Aug. 11, 2014]
