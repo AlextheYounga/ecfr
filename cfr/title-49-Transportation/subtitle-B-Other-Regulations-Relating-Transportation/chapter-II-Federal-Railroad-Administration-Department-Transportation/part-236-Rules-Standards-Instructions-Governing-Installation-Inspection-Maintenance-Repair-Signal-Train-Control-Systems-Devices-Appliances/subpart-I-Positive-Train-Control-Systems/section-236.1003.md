@@ -1,7 +1,5 @@
 ##### § 236.1003 Definitions. #####
 
-Link to an amendment published at 86 FR 40180, July 27, 2021.
-
 (a) Definitions contained in subparts G and H of this part apply equally to this subpart.
 
 (b) The following definitions apply to terms used only in this subpart unless otherwise stated:
@@ -16,7 +14,11 @@ Link to an amendment published at 86 FR 40180, July 27, 2021.
 
 *Controlling locomotive* means *Locomotive, controlling,* as defined in § 232.5 of this chapter.
 
+*Cut out* means any disabling of a PTC system, subsystem, or component en route (including when the PTC system cuts out on its own or a person cuts out the system with authorization), unless the cut out was necessary to exit PTC-governed territory and enter non-PTC territory.
+
 *Host railroad* means a railroad that has effective operating control over a segment of track.
+
+*Initialization failure* means any instance when a PTC system fails to activate on a locomotive or train, unless the PTC system successfully activates during a subsequent attempt in the same location or before entering PTC-governed territory. For the types of PTC systems that do not initialize by design, a failed departure test is considered an initialization failure for purposes of the reporting requirement under § 236.1029(h), unless the PTC system successfully passes the departure test during a subsequent attempt in the same location or before entering PTC-governed territory.
 
 *Interoperability* means the ability of a controlling locomotive to communicate with and respond to the PTC railroad's positive train control system, including uninterrupted movements over property boundaries.
 
@@ -29,6 +31,8 @@ Link to an amendment published at 86 FR 40180, July 27, 2021.
 (2) Used for regularly scheduled intercity or commuter rail passenger service, as defined in 49 U.S.C. 24102, or both. Tourist, scenic, historic, or excursion operations as defined in part 238 of this chapter are not considered intercity or commuter passenger service for purposes of this part.
 
 *Main line track exclusion addendum* (“MTEA”) means the document submitted under §§ 236.1011 and 236.1019 requesting to designate track as other than main line.
+
+*Malfunction* means any instance when a PTC system, subsystem, or component fails to perform the functions mandated under 49 U.S.C. 20157(i)(5), this subpart, or the applicable host railroad's PTCSP.
 
 *Medium speed* means, *Speed, medium,* as defined in subpart G of this part.
 
@@ -70,4 +74,4 @@ Link to an amendment published at 86 FR 40180, July 27, 2021.
 
 *Train* means one or more locomotives, coupled with or without cars.
 
-[75 FR 2699, Jan. 15, 2010, as amended at 77 FR 28305, May 14, 2012; 79 FR 49716, Aug. 22, 2014]
+[75 FR 2699, Jan. 15, 2010, as amended at 77 FR 28305, May 14, 2012; 79 FR 49716, Aug. 22, 2014; 86 FR 40180, July 27, 2021]

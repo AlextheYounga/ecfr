@@ -1,7 +1,5 @@
 ##### § 236.1029 PTC system use and failures. #####
 
-Link to an amendment published at 86 FR 40181, July 27, 2021.
-
 (a) When any safety-critical PTC system component fails to perform its intended function, the cause must be determined and the faulty component adjusted, repaired, or replaced without undue delay. Until repair of such essential components is completed, a railroad shall take appropriate action as specified in its PTCSP.
 
 (b) *En route failures.* Except as provided in paragraphs (c) and (g) of this section, where a controlling locomotive that is operating in, or is to be operated within, a PTC-equipped track segment experiences PTC system failure or the PTC system is otherwise cut out while en route (i.e., after the train has departed its initial terminal), the train may only continue in accordance with all of the following:
@@ -32,7 +30,7 @@ Link to an amendment published at 86 FR 40181, July 27, 2021.
 
 (f) [Reserved]
 
-(g) *Temporary exceptions.* From October 21, 2014 through the 24 months following the date of required PTC system implementation established by section 20157 of title 49 of the United States Code -
+(g) *Temporary exceptions.* From October 21, 2014 through the 24 months following the date of required PTC system implementation established by section 20157 of title 49 of the United States Code—
 
 (1) A railroad's PTCSP or Order of Particular Applicability may provide for compliance with the en route failure requirements of § 236.567 instead of paragraph (b) of this section where a controlling locomotive that is operating in, or is to be operated within, a PTC-equipped track segment experiences PTC system failure or the PTC system is otherwise cut out while en route;
 
@@ -48,6 +46,28 @@ Link to an amendment published at 86 FR 40181, July 27, 2021.
 
 (iv) The PTC system that is temporarily disabled in accordance with this paragraph (g)(3) shall be placed back into service without undue delay.
 
-(h) *Annual report of system failures.* Annually, by April 16 of each year following the date of required PTC system implementation established by section 20157 of title 49 of the United States Code, each railroad shall provide FRA with a report of the number of PTC failures that occurred during the previous calendar year. The report shall identify failures by category, including but not limited to locomotive, wayside, communications, and back office system failures.
+(h) *Biannual Report of PTC System Performance.* (1) Each host railroad subject to 49 U.S.C. 20157 or this subpart shall electronically submit a Biannual Report of PTC System Performance on Form FRA F 6180.152, containing the following information for the applicable reporting period, separated by the host railroad, each applicable tenant railroad, and each PTC-governed track segment (*e.g.,* territory, subdivision, district, main line, branch, or corridor), consistent with the railroad's PTC Implementation Plan:
 
-[75 FR 2699, Jan. 15, 2010, as amended at 79 FR 49717, Aug. 22, 2014]
+(i) The total number of PTC system initialization failures, and subtotals identifying the number of initialization failures where the source or cause was the onboard subsystem, wayside subsystem, communications subsystem, back office subsystem, or a non-PTC component;
+
+(ii) The total number of PTC system cut outs, and subtotals identifying the number of cut outs where the source or cause was the onboard subsystem, wayside subsystem, communications subsystem, back office subsystem, or a non-PTC component;
+
+(iii) The total number of PTC system malfunctions, and subtotals identifying the number of malfunctions where the source or cause was the onboard subsystem, wayside subsystem, communications subsystem, back office subsystem, or a non-PTC component;
+
+(iv) The total number of enforcements by the PTC system;
+
+(v) The number of enforcements by the PTC system in which an accident or incident was prevented;
+
+(vi) The number of scheduled attempts at initialization of the PTC system; and
+
+(vii) The number of train miles governed by the PTC system.
+
+(2) A host railroad's Biannual Report of PTC System Performance (Form FRA F 6180.152) shall also include a summary of any actions the host railroad and its tenant railroads are taking to reduce the frequency and rate of initialization failures, cut outs, and malfunctions, such as any actions to correct or eliminate systemic issues and specific problems.
+
+(3) Each host railroad shall electronically submit a Biannual Report of PTC System Performance (Form FRA F 6180.152) to FRA by the following due dates: July 31 (covering the period from January 1 to June 30), and January 31 (covering the period from July 1 to December 31 of the prior calendar year).
+
+(4) Each tenant railroad that operates on a host railroad's PTC-governed main line(s), unless the tenant railroad is currently subject to an exception under § 236.1006(b)(4) or (5), shall submit the information required under paragraphs (h)(1) and (2) of this section to each applicable host railroad on a continuous basis.
+
+(5) Any railroad operating a PTC system classified under FRA Type Approval Nos. FRA-TA-2010-001 or FRA-TA-2013-003 must begin submitting the metric required under paragraph (h)(1)(iv) of this section not later than January 31, 2023.
+
+[75 FR 2699, Jan. 15, 2010, as amended at 79 FR 49717, Aug. 22, 2014; 86 FR 40181, July 27, 2021]

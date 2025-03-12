@@ -1,18 +1,16 @@
 ##### § 236.1021 Discontinuances, material modifications, and amendments. #####
 
-Link to an amendment published at 86 FR 40180, July 27, 2021.
+(a) No changes, as defined by this section, to a PTCIP or PTCDP may be made unless:
 
-(a) No changes, as defined by this section, to a PTC system, PTCIP, PTCDP, or PTCSP, shall be made unless:
-
-(1) The railroad files a request for amendment (“RFA”) to the applicable PTCIP, PTCDP, or PTCSP with the Associate Administrator; and
+(1) The railroad files a request for amendment (RFA) to the applicable PTCIP or PTCDP with the Associate Administrator; and
 
 (2) The Associate Administrator approves the RFA.
 
 (b) After approval of an RFA in accordance with paragraph (a) of this section, the railroad shall immediately adopt and comply with the amendment.
 
-(c) In lieu of a separate filing under part 235 of this chapter, a railroad may request approval of a discontinuance or material modification of a signal or train control system by filing an RFA to its PTCIP, PTCDP, or PTCSP with the Associate Administrator.
+(c) In lieu of a separate filing under part 235 of this chapter, a railroad may request approval of a discontinuance or material modification of a signal or train control system by filing an RFA to its PTCIP or PTCDP with the Associate Administrator.
 
-(d) An RFA made in accordance with this section will not be approved by FRA unless the request includes:
+(d) FRA will not approve an RFA to a PTCIP or PTCDP unless the request includes:
 
 (1) The information listed in § 235.10 of this chapter and the railroad provides FRA upon request any additional information necessary to evaluate the RFA (see § 235.12), including:
 
@@ -20,23 +18,11 @@ Link to an amendment published at 86 FR 40180, July 27, 2021.
 
 (3) The reasons for each modification;
 
-(4) The changes to the PTCIP, PTCDP, or PTCSP, as applicable;
+(4) The changes to the PTCIP or PTCDP, as applicable;
 
 (5) Each modification's effect on PTC system safety;
 
 (6) An approximate timetable for filing of the PTCDP, PTCSP, or both, if the amendment pertains to a PTCIP; and
-
-(7) An explanation of whether each change to the PTCSP is planned or unplanned.
-
-(i) Unplanned changes that affect the Type Approval's PTCDP require submission and approval in accordance with § 236.1013 of a new PTCDP, followed by submission and approval in accordance with § 236.1015 of a new PTCSP for the PTC system.
-
-(ii) Unplanned changes that do not affect the Type Approval's PTCDP require submission and approval of a new PTCSP.
-
-(iii) Unplanned changes are changes affecting system safety that have not been documented in the PTCSP. The impact of unplanned changes on PTC system safety has not yet been determined.
-
-(iv) Planned changes may be implemented after they have undergone suitable regression testing to demonstrate, to the satisfaction of the Associate Administrator, they have been correctly implemented and their implementation does not degrade safety.
-
-(v) Planned changes are changes affecting system safety in the PTCSP and have been included in all required analysis under § 236.1015. The impact of these changes on the PTC system's safety has been incorporated as an integral part of the approved PTCSP safety analysis.
 
 (e) If the RFA includes a request for approval of a discontinuance or material modification of a signal or train control system, FRA will publish a notice in the Federal Register of the application and will invite public comment in accordance with part 211 of this chapter.
 
@@ -83,3 +69,33 @@ Link to an amendment published at 86 FR 40180, July 27, 2021.
 (4) Extension or shortening of a passing siding; or
 
 (5) The temporary or permanent arrangement of existing systems necessitated by highway-rail grade separation construction. Temporary arrangements shall be removed within six months following completion of construction.
+
+(l) Any RFA to a PTCDP or PTCSP pursuant to this section may be submitted jointly with other host railroads utilizing the same type of PTC system. However, only host railroads with the same PTC System Certification classification under § 236.1015(e) may jointly file an RFA to their PTCSPs. Any joint RFA to multiple host railroads' PTCSPs must include the information required under paragraph (m) of this section. The joint RFA must also include the written confirmation and statement specified under paragraphs (m)(2)(iii) and (iv) of this section from each host railroad jointly filing the RFA.
+
+(m) No changes, as specified under paragraph (h)(3) or (4) of this section, may be made to an FRA-certified PTC system or an FRA-approved PTCSP unless the host railroad first complies with the following process:
+
+(1) The host railroad revises its PTCSP to account for each proposed change to its PTC system and summarizes such changes in a chronological table of revisions at the beginning of its PTCSP;
+
+(2) The host railroad electronically submits the following information in an RFA to the Director of FRA's Office of Railroad Systems and Technology:
+
+(i) A summary of the proposed changes to any safety-critical elements of a PTC system, including a summary of how the changes to the PTC system would affect its safety-critical functionality, how any new hazards have been addressed and mitigated, whether each change is a planned change that was previously included in all required analysis under § 236.1015 or an unplanned change, and the reason for the proposed changes, including whether the changes are necessary to address or resolve an emergency or urgent issue;
+
+(ii) Any associated software release notes;
+
+(iii) A confirmation that the host railroad has notified any applicable tenant railroads of the proposed changes, any associated effect on the tenant railroads' operations, and any actions the tenant railroads must take in accordance with the configuration control measures set forth in the host railroad's PTCSP;
+
+(iv) A statement from a qualified representative of the host railroad, verifying that the modified PTC system would meet all technical requirements under this subpart, provide an equivalent or greater level of safety than the existing PTC system, and not adversely impact interoperability with any tenant railroads; and
+
+(v) Any other information that FRA requests; and
+
+(3) A host railroad shall not make any changes, as specified under paragraph (h)(3) or (4) of this section, to its PTC system until the Director of FRA's Office of Railroad Systems and Technology approves the RFA.
+
+(i) FRA will approve, approve with conditions, or deny the RFA within 45 days of the date on which the RFA was filed under paragraph (m)(2) of this section.
+
+(ii) FRA reserves the right to notify a railroad that changes may proceed prior to the 45-day mark, including in an emergency or under other circumstances necessitating a railroad's immediate implementation of the proposed changes to its PTC system.
+
+(iii) FRA may require a railroad to modify its RFA or its PTC system to the extent necessary to ensure safety or compliance with the requirements of this part.
+
+(iv) Following any FRA denial of an RFA, each applicable railroad is prohibited from making the proposed changes to its PTC system until the railroad both sufficiently addresses FRA's questions, comments, and concerns and obtains FRA's approval. Consistent with paragraph (l) of this section, any host railroads utilizing the same type of PTC system, including the same certification classification under § 236.1015(e), may jointly submit information to address FRA's questions, comments, and concerns following any denial of an RFA under this section.
+
+[75 FR 2699, Jan. 15, 2010, as amended at 86 FR 40180, July 27, 2021]
