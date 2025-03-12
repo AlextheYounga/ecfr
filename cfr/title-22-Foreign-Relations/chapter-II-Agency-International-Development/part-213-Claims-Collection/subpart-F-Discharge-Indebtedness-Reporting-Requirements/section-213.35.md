@@ -1,3 +1,5 @@
 ##### § 213.35 Discharging indebtedness - general. #####
 
+Link to an amendment published at 86 FR 31146, June 11, 2021.
+
 Before discharging a delinquent debt (also referred to as a close out of the debt), USAID will make a determination that collection action is no longer warranted and request that litigation counsel release any liens of record securing the debt. Discharge of indebtedness is distinct from termination or suspension of collection activity and is governed by the Internal Revenue Code. When collection action on a debt is suspended or terminated, the debt remains delinquent and further collection action may be pursued at a later date in accordance with the standards set forth in this part. When a debt is discharged in full or in part, further collection action is prohibited and USAID must terminate debt collection action.

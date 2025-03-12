@@ -1,5 +1,7 @@
 ##### § 213.2 Definitions. #####
 
+Link to an amendment published at 86 FR 31140, June 11, 2021.
+
 (a) *Administrative offset* means the withholding of money payable by the United States to, or held by the United States for, a person to satisfy a debt the person owes the Government.
 
 (b) *Administrative wage garnishment* means the process by which federal agencies require a private sector employer to withhold up to 15% of an employee's disposable pay to satisfy a delinquent debt owed to the federal government. A court order is not required.

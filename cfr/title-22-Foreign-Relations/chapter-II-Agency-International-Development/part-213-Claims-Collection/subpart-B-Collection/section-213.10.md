@@ -1,5 +1,7 @@
 ##### § 213.10 Review requirements. #####
 
+Link to an amendment published at 86 FR 31141, June 11, 2021.
+
 (a) For purposes of this section, whenever USAID is required to afford a debtor a review within the agency, USAID shall provide the debtor with a reasonable opportunity for an oral hearing when the debtor requests reconsideration of the debt and the agency determines that the question of the indebtedness cannot be resolved by review of the documentary evidence, for example, when the validity of the debt turns on an issue of credibility or veracity.
 
 (b) Unless otherwise required by law, an oral hearing under this section is not required to be a formal evidentiary hearing, although USAID will carefully document all significant matters discussed at the hearing.

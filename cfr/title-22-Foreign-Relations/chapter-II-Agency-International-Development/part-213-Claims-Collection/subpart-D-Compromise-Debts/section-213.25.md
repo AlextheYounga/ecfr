@@ -1,5 +1,7 @@
 ##### § 213.25 Standards for compromise. #####
 
+Link to an amendment published at 86 FR 31145, June 11, 2021.
+
 (a) USAID may compromise a claim pursuant to this section if USAID cannot collect the full amount because the debtor does not have the financial ability to pay the full amount of the debt within a reasonable time, or the debtor refuses to pay the claim in full and the Government does not have the ability to enforce collection in full within a reasonable time by enforced collection proceedings. In evaluating the acceptability of the offer, the CFO may consider, among other factors, the following:
 
 (1) Age and health of the debtor;

@@ -1,5 +1,7 @@
 ##### § 213.3 Loans, guarantees, sovereign and interagency claims. #####
 
+Link to an amendment published at 86 FR 31140, June 11, 2021.
+
 This part does not apply to:
 
 (a) Claims arising out of loans for which compromise and collection authority is conferred by section 635(g)(2) of the Foreign Assistance Act of 1961, as amended;

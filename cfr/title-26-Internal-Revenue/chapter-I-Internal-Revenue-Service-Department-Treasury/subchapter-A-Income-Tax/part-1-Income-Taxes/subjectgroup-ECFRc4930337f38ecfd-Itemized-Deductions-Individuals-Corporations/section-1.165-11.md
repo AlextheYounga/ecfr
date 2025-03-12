@@ -4,7 +4,7 @@
 
 (b) *Definitions.* The following definitions apply for purposes of this section:
 
-(1) A *federally declared disaster* means any disaster subsequently determined by the President of the United States to warrant assistance by the Federal Government under the Robert T. Stafford Disaster Relief and Emergency Assistance Act.
+(1) A *federally declared disaster* means any disaster subsequently determined by the President of the United States to warrant assistance by the Federal Government under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (Stafford Act). A federally declared disaster includes both a major disaster declared under section 401 of the Stafford Act and an emergency declared under section 501 of the Stafford Act.
 
 (2) A *federally declared disaster area* is the area determined to be eligible for assistance pursuant to the Presidential declaration in paragraph (b)(1) of this section.
 
@@ -24,6 +24,8 @@
 
 (g) *Revocation.* Subject to the requirements in paragraph (d) of this section, a section 165(i) election may be revoked on or before the date that is ninety (90) days after the due date for making the election.
 
-(h) *Applicability date.* This section applies to elections and revocations that are made on or after October 16, 2019.
+(h) *Applicability dates*—(1) *In general.* Except as provided in paragraph (h)(2) of this section, this section applies to elections and revocations that are made on or after October 16, 2019.
 
-[T.D. 9878, 84 FR 55245, Oct. 16, 2019]
+(2) *Paragraph (b)(1) of this section.* The second sentence of paragraph (b)(1) of this section applies to elections and revocations that are made on or after June 11, 2021.
+
+[T.D. 9878, 84 FR 55245, Oct. 16, 2019, as amended by T.D. 9950, 86 FR 31150, June 11, 2021]

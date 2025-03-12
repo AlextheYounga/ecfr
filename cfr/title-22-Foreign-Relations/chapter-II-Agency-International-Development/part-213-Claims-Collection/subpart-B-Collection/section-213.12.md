@@ -1,5 +1,7 @@
 ##### § 213.12 Interest, penalty and administrative costs. #####
 
+Link to an amendment published at 86 FR 31142, June 11, 2021.
+
 (a) *Interest.* USAID will assess interest on all delinquent debts unless prohibited by statute, regulation or contract.
 
 (1) Interest begins to accrue on all debts from the payment due date established in the initial notice to the debtor. USAID will assess an annual rate of interest that is equal to the rate of the current value of funds to the United States Treasury (*i.e.*, the Treasury tax and loan account rate) unless a different rate is necessary to protect the interest of the Government. USAID will notify the debtor of the basis for its finding that a different rate is necessary to protect the interest of the Government.

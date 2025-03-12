@@ -2,7 +2,7 @@
 
 (a) *Scope.* This section provides rules by which the Internal Revenue Service (IRS) may postpone deadlines for performing certain acts with respect to taxes other than taxes not administered by the IRS such as firearms tax (chapter 32, section 4181); harbor maintenance tax (chapter 36, section 4461); and alcohol and tobacco taxes (subtitle E).
 
-(b) *Postponed deadlines* - (1) *In general.* In the case of a taxpayer determined by the Secretary to be affected by a federally declared disaster (as defined in section 1033(h)(3)) or a terroristic or military action (as defined in section 692(c)(2)), the Secretary may specify a postponement period (as defined in paragraph (d)(1) of this section) of up to one year that may be disregarded in determining under the internal revenue laws, in respect of any tax liability of the affected taxpayer (as defined in paragraph (d)(1) of this section) -
+(b) *Postponed deadlines*—(1) *In general.* In the case of a taxpayer determined by the Secretary to be affected by a federally declared disaster (as defined in section 1033(h)(3)) or a terroristic or military action (as defined in section 692(c)(2)), the Secretary may specify a postponement period (as defined in paragraph (d)(1) of this section) of up to one year that may be disregarded in determining under the internal revenue laws, in respect of any tax liability of the affected taxpayer (as defined in paragraph (d)(1) of this section)—
 
 (i) Whether any or all of the acts described in paragraph (c) of this section were performed within the time prescribed;
 
@@ -12,7 +12,7 @@
 
 (2) *Effect of postponement period.* When an affected taxpayer is required to perform a tax-related act by a due date that falls within the postponement period, the affected taxpayer is eligible for postponement of time to perform the act until the last day of the period. The affected taxpayer is eligible for relief from interest, penalties, additional amounts, or additions to tax during the postponement period.
 
-(3) *Interaction between postponement period and extensions of time to file or pay* - (i) *In general.* The postponement period under section 7508A runs concurrently with extensions of time to file and pay, if any, under other sections of the Internal Revenue Code.
+(3) *Interaction between postponement period and extensions of time to file or pay*—(i) *In general.* The postponement period under section 7508A runs concurrently with extensions of time to file and pay, if any, under other sections of the Internal Revenue Code.
 
 (ii) *Original due date prior to, but extended due date within, the postponement period.* When the original due date precedes the first day of the postponement period and the extended due date falls within the postponement period, the following rules apply. If an affected taxpayer received an extension of time to file, filing will be timely on or before the last day of the postponement period, and the taxpayer is eligible for relief from penalties or additions to tax related to the failure to file during the postponement period. Similarly, if an affected taxpayer received an extension of time to pay, payment will be timely on or before the last day of the postponement period, and the taxpayer is eligible for relief from interest, penalties, additions to tax, or additional amounts related to the failure to pay during the postponement period.
 
@@ -20,7 +20,7 @@
 
 (5) *Additional relief.* The rules of this paragraph (b) demonstrate how the IRS generally implements section 7508A. The IRS may determine, however, that additional relief to taxpayers is appropriate and may provide additional relief to the extent allowed under section 7508A. To the extent that the IRS grants additional relief, the IRS will provide specific guidance on the scope of relief in the manner provided in paragraph (e) of this section.
 
-(c) *Acts for which a period may be disregarded* - (1) *Acts performed by taxpayers.* Paragraph (b) of this section applies to the following acts performed by affected taxpayers (as defined in paragraph (d)(1) of this section) -
+(c) *Acts for which a period may be disregarded*—(1) *Acts performed by taxpayers.* Paragraph (b) of this section applies to the following acts performed by affected taxpayers (as defined in paragraph (d)(1) of this section)—
 
 (i) Filing any return of income tax, estate tax, gift tax, generation-skipping transfer tax, excise tax (other than firearms tax (chapter 32, section 4181); harbor maintenance tax (chapter 36, section 4461); and alcohol and tobacco taxes (subtitle E)), or employment tax (including income tax withheld at source and income tax imposed by subtitle C or any law superseded thereby);
 
@@ -36,7 +36,7 @@
 
 (vii) Any other act specified in a revenue ruling, revenue procedure, notice, announcement, news release, or other guidance published in the Internal Revenue Bulletin (see § 601.601(d)(2) of this chapter).
 
-(2) *Acts performed by the government.* Paragraph (b) of this section applies to the following acts performed by the government -
+(2) *Acts performed by the government.* Paragraph (b) of this section applies to the following acts performed by the government—
 
 (i) Assessing any tax;
 
@@ -50,7 +50,7 @@
 
 (vi) Any other act specified in a revenue ruling, revenue procedure, notice, or other guidance published in the Internal Revenue Bulletin (see § 601.601(d)(2) of this chapter).
 
-(d) *Definitions* - (1) *Affected taxpayer* means -
+(d) *Definitions*—(1) *Affected taxpayer* means—
 
 (i) Any individual whose principal residence (for purposes of section 1033(h)(4)) is located in a covered disaster area;
 
@@ -120,6 +120,36 @@ Example 8.(i) H and W, individual calendar year taxpayers, entered into an insta
 
 (iii) Because H and W's principal residence is in County K, H and W are affected taxpayers. Pursuant to the IRS's grant of relief under section 7508A, H and W's installment agreement payments that become due during the postponement period are suspended until after the postponement period has ended. H and W will be required to resume payments no later than August 15, 2009. Skipped payments will be tacked on at the end of the installment payment period. Because the installment agreement pertains to prior year tax liabilities, interest and penalties will continue to accrue. H and W may, however, be entitled to abatement of the failure to pay penalties incurred during the postponement period upon establishing reasonable cause.
 
-(g) *Effective/applicability date.* This section applies to disasters declared after January 15, 2009.
+(g) *Mandatory 60-day postponement*—(1) *In general.* In addition to (or concurrent with) the postponement period specified by the Secretary in an exercise of the authority under section 7508A(a) to postpone time-sensitive acts by reason of a federally declared disaster, qualified taxpayers (as defined in section 7508A(d)(2)) are entitled to a mandatory 60-day postponement period during which the time to perform those time-sensitive acts is disregarded in the same manner as under section 7508A(a). The rules of this paragraph (g)(1) apply with respect to a postponement period specified by the Secretary under section 7508A(b), to postpone acts as provided in section 7508A(d)(4). Except for the acts set forth in paragraph (g)(2) of this section, section 7508A(d) does not apply to postpone any acts.
 
-[T.D. 8911, 65 FR 78411, Dec. 15, 2000; 66 FR 10365, Feb. 15, 2001; T.D. 9443, 74 FR 2371, Jan. 15, 2009; 74 FR 66915, Dec. 17, 2009]
+(2) *Acts postponed.* The time-sensitive acts that are postponed for the mandatory 60-day postponement period are the acts determined to be postponed by the Secretary's exercise of authority under section 7508A(a) or (b). In addition, in the case of any person described in section 7508A(b), the time-sensitive acts postponed for the mandatory 60-day postponement period include those described in section 7508A(d)(4):
+
+(i) Making contributions to a qualified retirement plan (within the meaning of section 4974(c)) under section 219(f)(3), 404(a)(6), 404(h)(1)(B), or 404(m)(2);
+
+(ii) Making distributions under section 408(d)(4);
+
+(iii) Recharacterizing contributions under section 408A(d)(6); and
+
+(iv) Making a rollover under section 402(c), 403(a)(4), 403(b)(8), or 408(d)(3).
+
+(3) *Calculation of mandatory 60-day postponement period*—(i) *In general.* The mandatory 60-day postponement period begins on the earliest incident date specified in a disaster declaration for a federally declared disaster and ends on the date that is 60 days after the latest incident date specified in the disaster declaration. In accordance with section 7508A(d)(5), the mandatory 60-day postponement period under section 7508A(d) runs concurrently with the postponement period determined by the Secretary in exercising discretion under section 7508A(a) or (b) if the period determined by the Secretary is equal to or longer than 60 days after the latest incident date. If the period determined by the Secretary in exercising discretion under section 7508A(a) or (b) ends prior to 60 days after the latest incident date, in accordance with section 7508A(d)(5), the mandatory 60-day postponement period will run concurrently for the length of the period determined by the Secretary under section 7508A(a) or (b) and then continue running in addition to the period determined by the Secretary under section 7508A(a) or (b).
+
+(ii) *Limitations on the mandatory 60-day postponement period.* (A) In no event will the mandatory 60-day postponement period be calculated to exceed one year.
+
+(B) In the event the Secretary determines to postpone time-sensitive acts pursuant to a declaration establishing a federally declared disaster for purposes of section 7508A that does not specify an incident date, there is no mandatory postponement period under section 7508A(d). In such cases, the only postponement period will be the period determined by the Secretary under section 7508A(a) or (b).
+
+(4) *Examples.* The rules of this paragraph (g) are illustrated by the following examples:
+
+(i) *Example (1).* Individual A lives in a state that experienced severe but isolated tornado damage on March 15. On March 20, FEMA issued a Federal Register Notice announcing a major disaster declaration approved by the President for the state where Individual A lives, describing the incident date for the tornado as March 15. Based upon that major disaster declaration, the IRS published a news release identifying the taxpayers (by county) affected by the disaster for purposes of section 7508A and specifying the time-sensitive acts that are postponed and a period of postponement from March 15 through July 31, pursuant to section 7508A(a). The county where Individual A lives was included in the news release. Under section 7508A(d), the mandatory 60-day postponement period that Individual A is entitled to begins on March 15 and ends 60 days after March 15, on May 14. The mandatory postponement period applies to the same time-sensitive acts and runs concurrently with the relief the IRS provided to Individual A under section 7508A(a).
+
+(ii) *Example (2).* Individual B lives in a coastal state which experienced harmful effects from a hurricane that began to affect the weather in his state on August 15 and ceased to be a weather factor in his state on August 19. On August 22, FEMA issued a Federal Register Notice announcing a major disaster declaration approved by the President, determining that the coastline counties in the state, including the county where Individual B lives, were severely affected and that these counties were entitled to both individual assistance and public assistance. The major disaster declaration specified the earliest incident date for the hurricane in the state where Individual B lives as August 15 and the latest incident date as August 19. Based upon that major disaster declaration, the IRS published a news release identifying the taxpayers affected by the disaster for purposes of section 7508A and specifying the time-sensitive acts that are postponed and a period of postponement from August 15 through December 31, pursuant to section 7508A(a). Under section 7508A(d), the mandatory 60-day postponement period that Individual B is entitled to begins on August 15 and ends 60 days after August 19, on October 18. The mandatory postponement period applies to the same time-sensitive acts and runs concurrently with the relief the IRS provided to Individual B under section 7508A(a).
+
+(iii) *Example (3).* Individual C lives in a county of a state that is experiencing ongoing wildfires. On August 14, FEMA issued a Federal Register Notice announcing an emergency declaration approved by the President to make public assistance available under the Stafford Act to local governments to fight the wildfires. This declaration specified an earliest incident date of August 14 and no latest incident date. On August 17, FEMA issued a Federal Register Notice announcing a major disaster declaration approved by the President for the same wildfires incident, announcing that the residents of the county where Individual C lives were eligible to receive individual assistance under the Stafford Act. This declaration specified August 15 as the earliest incident date and described the incident period as ongoing. Based upon that major disaster declaration, the IRS exercised its discretion under section 7508A(a) to publish a news release identifying the taxpayers (by county) affected by the wildfires disaster for purposes of section 7508A and specifying both the time-sensitive acts that are postponed and a period of postponement from August 15 through December 15. Following the initial news release, the wildfires disaster remained ongoing, with no ending incident date specified, for several months. The IRS published a second news release postponing the time-sensitive acts through January 15. FEMA subsequently amended the major disaster declaration to specify the latest incident date of November 19. Because the IRS acted in its discretion to provide relief in response to the major disaster declaration, and not to provide relief in response to the emergency declaration, the mandatory 60-day postponement period that Individual C is entitled to under section 7508A(d) begins on August 15, the earliest incident date specified in the major disaster declaration, and ends 60 days after the latest incident date of November 19. The mandatory postponement period applies to the same time-sensitive acts and runs concurrently with the relief the IRS provided to Individual C under section 7508A(a), and ends on January 18, which is 60 days after the latest incident date and three days beyond the postponement period specified by the IRS under section 7508A(a) in its news release.
+
+(iv) *Example (4).* Individual D lives in the United States, which is experiencing a nationwide emergency as a result of its residents being exposed to a highly infectious and dangerous pandemic disease. On March 13, the President declared a nationwide emergency under section 501(b) of the Stafford Act. The pandemic became a federally declared disaster for purposes of section 7508A on March 13, however, no incident date was specified in the President's emergency declaration. Pursuant to the President's March 13 emergency declaration, the IRS published several notices identifying the taxpayers affected by the disaster for purposes of section 7508A and specifying the time-sensitive acts that are postponed and a period of postponement that generally ran from April 1 through July 15, pursuant to section 7508A(a). Because, in this circumstance, the emergency declaration pursuant to which the notices were published did not specify an incident date, there is no mandatory postponement period under section 7508A(d). The only postponement period is the period determined by the Secretary pursuant to the discretionary authority under section 7508A(a).
+
+(h) *Applicability dates*—(1) *In general.* Except as provided in paragraph (h)(2) of this section, this section applies to disasters declared after January 15, 2009.
+
+(2) *Paragraph (g) of this section.* Paragraph (g) of this section applies to disasters declared on or after December 21, 2019.
+
+[T.D. 8911, 65 FR 78411, Dec. 15, 2000; 66 FR 10365, Feb. 15, 2001; T.D. 9443, 74 FR 2371, Jan. 15, 2009; 74 FR 66915, Dec. 17, 2009; T.D. 9950, 86 FR 31150, June 11, 2021]

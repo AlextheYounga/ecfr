@@ -1,5 +1,7 @@
 ##### § 165.1196 Regulated Navigation Areas; Harbor Entrances along the Coast of Northern California. #####
 
+Link to an amendment published at 86 FR 31167, June 11, 2021.
+
 (a) *Regulated navigation areas.* Each of the following areas is a regulated navigation area (RNA):
 
 (1) Humboldt Bay Entrance Channel: The navigable waters enclosed by the following coordinates:

@@ -1,6 +1,8 @@
 ##### § 351.9 Conduct of hearings. #####
 
-(a) *By panels.* Subject to paragraph (b) of this section, hearings will be conducted by Copyright Royalty Judges sitting *en banc.*
+(a)(1) *By panels.* Subject to paragraph (b) of this section, hearings will be conducted by Copyright Royalty Judges sitting *en banc*.
+
+(2) *Location.* Hearings will be conducted in person at the Library of Congress or an alternative location, or virtually, at the Judges' discretion.
 
 (b) *Role of Chief Judge.* The Chief Copyright Royalty Judge, or an individual Copyright Royalty Judge designated by the Chief Judge, may preside over such collateral and administrative proceedings, and over such proceedings under section 803(b)(1) through (5) of the Copyright Act, as the Chief Judge considers appropriate. The Chief Judge, or an individual Copyright Royalty Judge designated by the Chief Judge, shall have the responsibility for:
 
@@ -16,4 +18,4 @@
 
 (f) *Witnesses sequestered.* Subject to applicable trial order, witnesses, other than party representatives, may not be permitted to listen to any testimony and may not be allowed to review a transcript of any prior testimony.
 
-[70 FR 30905, May 31, 2005, as amended at 71 FR 53329, Sept. 11, 2006]
+[70 FR 30905, May 31, 2005, as amended at 71 FR 53329, Sept. 11, 2006; 86 FR 31172, June 11, 2021]

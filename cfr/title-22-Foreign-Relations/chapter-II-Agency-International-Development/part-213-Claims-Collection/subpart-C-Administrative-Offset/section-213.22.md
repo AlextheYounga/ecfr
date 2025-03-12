@@ -1,5 +1,7 @@
 ##### § 213.22 Salary offset when USAID is the creditor agency. #####
 
+Link to an amendment published at 86 FR 31144, June 11, 2021.
+
 (a) *Due process requirements - Entitlement to notice, hearing, written response and decision.* (1) Prior to initiating collection action through salary offset, USAID will first provide the employee with the opportunity to pay in full the amount owed, unless such notification will compromise the Government's ultimate ability to collect the debt.
 
 (2) Except as provided in paragraph (b) of this section, each employee from whom the Agency proposes to collect a debt by salary offset under this section is entitled to receive a written notice as described in paragraph (c) of this section.

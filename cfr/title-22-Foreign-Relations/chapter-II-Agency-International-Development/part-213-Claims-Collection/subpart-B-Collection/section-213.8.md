@@ -1,5 +1,7 @@
 ##### § 213.8 Collection - general. #####
 
+Link to an amendment published at 86 FR 31141, June 11, 2021.
+
 (a) The CFO takes action to collect all debts owed the United States arising out of USAID activities and to reduce debt delinquencies. Collection actions may include sending written demands to the debtor's last known address. Written demand may be preceded by other appropriate action, including immediate referral to DOJ for litigation, when such action is necessary to protect the Government's interest. The CFO may contact the debtor by telephone, in person and/or in writing to demand prompt payment, to discuss the debtor's position regarding the existence, amount or repayment of the debt, to inform the debtor of its rights (e.g., to apply for waiver of the indebtedness or to have an administrative review) and of the basis for the debt and the consequences of nonpayment or delay in payment.
 
 (b) The CFO maintains an administrative file for each debt and/or debtor which documents the basis for the debt, all administrative collection actions regarding the debt (including communications to and from the debtor) and its final disposition. Information on an individual may be disclosed only for purposes that are consistent with this part, the Privacy Act of 1974 and other applicable law.

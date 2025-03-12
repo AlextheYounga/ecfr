@@ -1,5 +1,7 @@
 ##### § 213.15 Use of credit reporting bureaus. #####
 
+Link to an amendment published at 86 FR 31143, June 11, 2021.
+
 Delinquent debts owed to USAID are reported to appropriate credit reporting bureaus through the cross-servicing agreement with FMS.
 
 (a) The following information is provided to the credit reporting bureaus:

@@ -1,5 +1,7 @@
 ##### § 213.9 Written notice. #####
 
+Link to an amendment published at 86 FR 31141, June 11, 2021.
+
 (a) When the billing official determines that a debt is owed USAID, he or she provides a written notice in the form of a Bill for Collection or demand letter to the debtor. Unless otherwise provided by agreement, contract or order, the written notice informs the debtor of:
 
 (1) The amount, nature and basis of the debt;

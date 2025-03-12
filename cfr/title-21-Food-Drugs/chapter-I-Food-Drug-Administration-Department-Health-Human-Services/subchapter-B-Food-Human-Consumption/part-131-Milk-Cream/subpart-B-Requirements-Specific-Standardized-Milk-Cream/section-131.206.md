@@ -1,5 +1,7 @@
 ##### § 131.206 Nonfat yogurt. #####
 
+Link to an amendment published at 86 FR 31138, June 11, 2021.
+
 (a) *Description.* Nonfat yogurt is the food produced by culturing one or more of the optional dairy ingredients specified in paragraph (c) of this section with a characterizing bacterial culture that contains the lactic acid-producing bacteria, *Lactobacillus bulgaricus* and *Streptococcus thermophilus.* One or more of the other optional ingredients specified in paragraphs (b) and (d) of this section may also be added. When one or more of the ingredients specified in paragraph (d)(1) of this section are used, they shall be included in the culturing process. All ingredients used are safe and suitable. Nonfat yogurt, before the addition of bulky flavors, contains less than 0.5 percent milkfat and not less than 8.25 percent milk solids not fat, and has a titratable acidity of not less than 0.9 percent, expressed as lactic acid. The food may be homogenized and shall be pasteurized or ultra-pasteurized prior to the addition of the bacterial culture. Flavoring ingredients may be added after pasteurization or ultra-pasteurization. To extend the shelf life of the food, nonfat yogurt may be heat treated after culturing is completed, to destroy viable microorganisms.
 
 (b) *Vitamin addition (optional).* (1) If added, vitamin A shall be present in such quantity that each 946 milliliters (quart) of the food contains not less than 2,000 International Units thereof, within limits of good manufacturing practice.

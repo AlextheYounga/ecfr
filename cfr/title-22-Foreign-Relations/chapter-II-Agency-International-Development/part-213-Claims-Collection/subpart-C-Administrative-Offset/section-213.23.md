@@ -1,5 +1,7 @@
 ##### § 213.23 Salary offset when USAID is not the creditor agency. #####
 
+Link to an amendment published at 86 FR 31144, June 11, 2021.
+
 (a) USAID will use salary offset against one of its employees that is indebted to another agency if requested to do so by that agency. Such a request must be accompanied by a certification by the requesting agency that the person owes the debt (including the amount) and that the procedural requirements of 5 U.S.C. 5514 and 5 CFR part 550, subpart K, have been met. The creditor agency must also advise USAID of the number of installments to be collected, the amount of each installment, and the commencement date of the first installment, if a date other than the next established pay period.
 
 (b) Requests for salary offset must be sent to the Chief Financial Officer, Office of Financial Management (M/FM), United States Agency for International Development, Ronald Reagan Building , 1300 Pennsylvania Avenue NW., Washington, DC 20523-4601.

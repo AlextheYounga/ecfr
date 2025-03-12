@@ -1,5 +1,7 @@
 ##### § 213.20 Administrative offset of non-employee debts. #####
 
+Link to an amendment published at 86 FR 31143, June 11, 2021.
+
 This subpart provides for USAID's collection of debts by administrative offset under the Federal Claims Collection Standards, other statutory authorities and offsets or recoupments under common law. It does not apply to offsets against employee salaries covered by §§ 213.21, 213.22 and 213.23 of this subpart. USAID will collect debts by administrative offsets where it determines that such collections are feasible and are not otherwise prohibited by statute or contract. USAID will decide, on a case-by-case basis, whether collection by administrative offset is feasible and that its use furthers and protects the interest of the United States.
 
 (a) *Standards.* (1) The CFO collects debts by administrative offset only after the debtor has been sent written notice in the form of a Bill for Collection or demand letter outlining the type and amount of the debt, the intention of the agency to use administrative offset to collect the debt, and explaining the debtor's rights under 31 U.S.C. 3716.

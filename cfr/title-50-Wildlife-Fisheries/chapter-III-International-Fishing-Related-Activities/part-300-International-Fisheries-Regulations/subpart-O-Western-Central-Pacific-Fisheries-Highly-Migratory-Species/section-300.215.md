@@ -36,7 +36,9 @@
 
 (ii) The transshipment takes place entirely within the territorial seas or archipelagic waters of any nation, as defined by the domestic laws and regulations of that nation and recognized by the United States, or entirely within the Overlap Area, and only includes fish caught in such waters; or
 
-(iii) The transshipment is an emergency, as specified under § 300.216(b)(4).
+(iii) The transshipment is an emergency, as specified under § 300.216(b)(4); or
+
+(iv) The Pacific Islands Regional Administrator has by temporary specification published in the Federal Register modified or suspended the requirement to carry an observer for transshipments in accordance with § 300.228.
 
 (2) *Offloading vessels.* Any fishing vessel of the United States used for commercial fishing that offloads a transshipment of HMS at sea in the Convention Area must have a WCPFC observer on board, unless one or more of the following conditions apply:
 
@@ -50,8 +52,10 @@
 
 (v) The transshipment takes place entirely within the territorial seas or archipelagic waters of any nation, as defined by the domestic laws and regulations of that nation and recognized by the United States, or entirely within the Overlap Area, and only includes fish caught in such waters; or
 
-(vi) The transshipment is an emergency, as specified under § 300.216(b)(4).
+(vi) The transshipment is an emergency, as specified under § 300.216(b)(4); or
+
+(vii) The Pacific Islands Regional Administrator has by temporary specification published in the Federal Register modified or suspended the requirement to carry an observer for transshipments in accordance with § 300.228.
 
 (e) *Related observer requirements.* Observers deployed by NMFS pursuant to regulations issued under other statutory authorities on vessels used for fishing for HMS in the Convention Area will be deemed by NMFS to have been deployed pursuant to this section.
 
-[77 FR 71509, Dec. 3, 2012, as amended at 85 FR 37388, June 22, 2020]
+[77 FR 71509, Dec. 3, 2012, as amended at 85 FR 37388, June 22, 2020; 86 FR 31180, June 11, 2021]

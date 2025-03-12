@@ -1,3 +1,5 @@
 ##### § 213.17 Liquidation of collateral. #####
 
+Link to an amendment published at 86 FR 31143, June 11, 2021.
+
 Where the CFO holds a security instrument with a power of sale or has physical possession of collateral, he may liquidate the security or collateral and apply the proceeds to the overdue debt. USAID will exercise this right where the debtor fails to pay within a reasonable time after demand, unless the cost of disposing of the collateral is disproportionate to its value or special circumstances require judicial foreclosure. However, collection from other businesses, including liquidation of security or collateral, is not a prerequisite to requiring payment by a surety or insurance company unless expressly required by contract or statute. The CFO will give the debtor reasonable notice of the sale and an accounting of any surplus proceeds and will comply with any other requirements of law or contract.

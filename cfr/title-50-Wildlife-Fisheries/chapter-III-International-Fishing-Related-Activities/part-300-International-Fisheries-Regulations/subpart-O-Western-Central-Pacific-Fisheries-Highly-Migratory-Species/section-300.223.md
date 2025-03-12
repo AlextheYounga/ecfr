@@ -54,11 +54,13 @@ None of the requirements of this section apply in the territorial seas or archip
 
 (3) If a serious malfunction of equipment occurs that necessitates that fish be discarded.
 
-(e) *Observer coverage.* (1) A fishing vessel of the United States may not be used to fish with purse seine gear in the Convention Area without a WCPFC observer on board. This requirement does not apply to fishing trips that meet either of the following conditions:
+(e) *Observer coverage.* (1) A fishing vessel of the United States may not be used to fish with purse seine gear in the Convention Area without a WCPFC observer on board. The requirement in the preceding sentence does not apply to fishing trips that meet one of the following conditions:
 
 (i) The portion of the fishing trip within the Convention Area takes place entirely within areas under the jurisdiction of a single nation other than the United States; or,
 
-(ii) No fishing takes place during the fishing trip in the Convention Area in the area between 20 °N. latitude and 20 °S. latitude.
+(ii) No fishing takes place during the fishing trip in the Convention Area in the area between 20° N latitude and 20° S latitude; or
+
+(iii) The Pacific Islands Regional Administrator has by temporary specification published in the Federal Register modified or suspended the requirement to carry an observer in accordance with § 300.228.
 
 (2) Owners, operators, and crew of fishing vessels subject to paragraph (e)(1) of this section must accommodate WCPFC observers in accordance with the provisions of § 300.215(c).
 
@@ -118,4 +120,4 @@ None of the requirements of this section apply in the territorial seas or archip
 
 (h) The crew, operator, and owner of a fishing vessel of the United States used for commercial fishing for HMS in the Convention Area must release any whale shark that is encircled in a purse seine net in the Convention Area, and take reasonable steps for its safe release, without compromising the safety of any persons. This paragraph does not apply to the territorial seas or archipelagic waters of any nation, as defined by the domestic laws and regulations of that nation and recognized by the United States.
 
-[74 FR 38554, Aug. 4, 2009, as amended at 76 FR 82183, Dec. 30, 2011; 77 FR 71513, Dec. 3, 2012; 78 FR 30778, May 23, 2013; 80 FR 8815, Feb. 19, 2015; 80 FR 29223, May 21, 2015; 80 FR 51480, Aug. 25, 2015; 80 FR 59048, Oct. 1, 2015; 81 FR 41250, June 24, 2016; 83 FR 33869, July 18, 2018; 84 FR 37148, July 31, 2019; 85 FR 37390, June 22, 2020]
+[74 FR 38554, Aug. 4, 2009, as amended at 76 FR 82183, Dec. 30, 2011; 77 FR 71513, Dec. 3, 2012; 78 FR 30778, May 23, 2013; 80 FR 8815, Feb. 19, 2015; 80 FR 29223, May 21, 2015; 80 FR 51480, Aug. 25, 2015; 80 FR 59048, Oct. 1, 2015; 81 FR 41250, June 24, 2016; 83 FR 33869, July 18, 2018; 84 FR 37148, July 31, 2019; 85 FR 37390, June 22, 2020; 86 FR 31181, June 11, 2021]
