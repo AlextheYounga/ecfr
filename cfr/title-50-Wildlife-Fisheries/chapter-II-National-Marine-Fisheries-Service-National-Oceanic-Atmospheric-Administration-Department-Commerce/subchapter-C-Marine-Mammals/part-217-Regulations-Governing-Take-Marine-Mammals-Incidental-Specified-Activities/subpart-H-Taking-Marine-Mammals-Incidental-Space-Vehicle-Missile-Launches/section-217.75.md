@@ -1,5 +1,7 @@
 ##### § 217.75 Requirements for monitoring and reporting. #####
 
+Link to an amendment published at 87 FR 885, Jan. 7, 2022.
+
 (a) If the authorized activity identified in § 217.70(a) is thought to have resulted in the mortality or injury of any marine mammals or take of marine mammals not identified in § 217.70(b), then the Holder of the LOA must notify NMFS Office of Protected Resources and NMFS Alaska Regional Office, within 48 hours of the injury or death.
 
 (b) Holders of LOAs must designate qualified, on-site individuals, technical experts who have implemented time-lapsed photography technology for wildlife studies, approved in advance by NMFS Office of Protected Resources to:

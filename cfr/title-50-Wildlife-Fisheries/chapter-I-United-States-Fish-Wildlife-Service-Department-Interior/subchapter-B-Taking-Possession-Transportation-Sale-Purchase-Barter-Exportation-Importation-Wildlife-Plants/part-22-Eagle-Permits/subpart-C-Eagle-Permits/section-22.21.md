@@ -1,5 +1,7 @@
 ##### § 22.21 What are the requirements concerning scientific and exhibition purpose permits? #####
 
+Link to an amendment published at 87 FR 884, Jan. 7, 2022.
+
 We may, under the provisions of this section, issue a permit authorizing the taking, possession, transportation within the United States, or transportation into or out of the United States of lawfully possessed bald eagles or golden eagles, or their parts, nests, or eggs for the scientific or exhibition purposes of public museums, public scientific societies, or public zoological parks. We will not issue a permit under this section that authorizes the transportation into or out of the United States of any live bald or golden eagles, or any live eggs of these birds.
 
 (a) *How do I apply if I want a permit for scientific and exhibition purposes?* (1) You must submit applications for permits to take, possess, or transport within the United States lawfully acquired live or dead bald or golden eagles, or their parts, nests, or live or dead eggs for scientific or exhibition purposes to the appropriate Regional Director - Attention: Migratory Bird Permit Office. You can find addresses for the Regional Directors in 50 CFR 2.2.

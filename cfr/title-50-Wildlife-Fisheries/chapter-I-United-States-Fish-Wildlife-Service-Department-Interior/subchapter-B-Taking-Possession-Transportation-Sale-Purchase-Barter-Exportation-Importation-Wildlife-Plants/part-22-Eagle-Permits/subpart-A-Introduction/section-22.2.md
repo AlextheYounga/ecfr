@@ -1,5 +1,7 @@
 ##### § 22.2 What activities does this part apply to? #####
 
+Link to an amendment published at 87 FR 884, Jan. 7, 2022.
+
 (a)(1) You can possess or transport within the United States, without a Federal permit:
 
 (i) Any live or dead bald eagles, or their parts, nests, or eggs that were lawfully acquired before June 8, 1940; and

@@ -1,5 +1,7 @@
 ##### § 21.23 Scientific collecting permits. #####
 
+Link to an amendment published at 87 FR 881, Jan. 7, 2022.
+
 (a) *Permit requirement.* A scientific collecting permit is required before any person may take, transport, or possess migratory birds, their parts, nests, or eggs for scientific research or educational purposes.
 
 (b) *Application procedures.* Submit applications for scientific permits to the appropriate Regional Director (Attention: Migratory bird permit office). You can find addresses for the Regional Directors in 50 CFR 2.2. Each application must contain the general information and certification required in § 13.12(a) of this subchapter, and the following additional information:

@@ -1,5 +1,7 @@
 ##### § 217.73 Prohibitions. #####
 
+Link to an amendment published at 87 FR 885, Jan. 7, 2022.
+
 Notwithstanding authorization under these regulations and any LOA issued under § 216.106 of this chapter and § 217.76, no person conducting the activities described in § 217.70 may:
 
 (a) Violate, or fail to comply with, the terms, conditions, and requirements of this subpart or an LOA issued under § 216.106 of this chapter and § 217.76;

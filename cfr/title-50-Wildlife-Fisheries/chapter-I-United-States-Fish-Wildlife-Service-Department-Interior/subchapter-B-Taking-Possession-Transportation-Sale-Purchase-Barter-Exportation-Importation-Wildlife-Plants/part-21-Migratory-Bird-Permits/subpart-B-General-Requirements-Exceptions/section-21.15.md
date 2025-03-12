@@ -1,5 +1,7 @@
 ##### § 21.15 Authorization of take incidental to military readiness activities. #####
 
+Link to an amendment published at 87 FR 881, Jan. 7, 2022.
+
 (a) *Take authorization and monitoring.* (1) Except to the extent authorization is withdrawn or suspended pursuant to paragraph (b) of this section, the Armed Forces may take migratory birds incidental to military readiness activities provided that, for those ongoing or proposed activities that the Armed Forces determine may result in a significant adverse effect on a population of a migratory bird species, the Armed Forces must confer and cooperate with the Service to develop and implement appropriate conservation measures to minimize or mitigate such significant adverse effects.
 
 (2) When conservation measures implemented under paragraph (a)(1) of this section require monitoring, the Armed Forces must retain records of any monitoring data for five years from the date the Armed Forces commence their action. During Integrated Natural Resource Management Plan reviews, the Armed Forces will also report to the Service migratory bird conservation measures implemented and the effectiveness of the conservation measures in avoiding, minimizing, or mitigating take of migratory birds.

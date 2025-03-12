@@ -1,5 +1,7 @@
 ##### § 21.60 Conservation order for light geese. #####
 
+Link to an amendment published at 87 FR 883, Jan. 7, 2022.
+
 (a) *What is a conservation order?* A conservation order is a special management action that is needed to control certain wildlife populations when traditional management programs are unsuccessful in preventing overabundance of the population. We are authorizing a conservation order under the authority of the Migratory Bird Treaty Act to reduce and stabilize various light goose populations. The conservation order allows new methods of taking light geese, allows shooting hours for light geese to end one-half hour after sunset, and imposes no daily bag limits for light geese inside or outside the migratory bird hunting season frameworks as described in this section.
 
 (b) *Which waterfowl species are covered by the order?* The conservation order addresses management of greater snow (*Chen caerulescens atlantica*), lesser snow (*C. c. caerulescens*), and Ross's (*C. rossii*) geese that breed, migrate, and winter in North America. The term light geese refers collectively to greater and lesser snow geese and Ross's geese.

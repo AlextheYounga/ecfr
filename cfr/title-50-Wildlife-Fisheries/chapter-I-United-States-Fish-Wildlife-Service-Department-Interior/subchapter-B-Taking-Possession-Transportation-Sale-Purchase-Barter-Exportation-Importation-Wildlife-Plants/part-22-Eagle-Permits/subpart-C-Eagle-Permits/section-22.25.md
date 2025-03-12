@@ -1,5 +1,7 @@
 ##### § 22.25 What are the requirements concerning permits to take golden eagle nests? #####
 
+Link to an amendment published at 87 FR 884, Jan. 7, 2022.
+
 The Director may, upon receipt of an application and in accordance with the issuance criteria of this section, issue a permit authorizing any person to take alternate golden eagle nests during a resource development or recovery operation if the taking is compatible with the preservation of golden eagles. The information collection requirements contained within this section have been approved by the Office of Management and Budget under 44 U.S.C. 3507 and assigned clearance number 1018-0022. This information is being collected to provide information necessary to evaluate permit applications. This information will be used to review permit applications and make decisions, according to the criteria established in this section for the issuance or denial of such permits. The obligation to respond is required to obtain or retain a permit.
 
 (a) *How do I apply for a permit to take golden eagle nests?* You must submit applications for permits to take golden eagle nests to the appropriate Regional Director - Attention: Migratory Bird Permit Office. You can find addresses for the appropriate Regional Directors in 50 CFR 2.2. We will only accept applications if you are engaged in a resource development or recovery operation, including the planning and permitting stages of an operation. Your application must contain the general information and certification required by § 13.12(a) of this chapter plus the following additional information:
@@ -34,8 +36,7 @@ The Director may, upon receipt of an application and in accordance with the issu
 
 (5) Any permit issued before the commencement of a resource development or recovery operation is invalid if the activity which required a permit is not performed.
 
-(c) *Issuance criteria.* The Director shall conduct an investigation and not issue a permit to take any golden eagle nest unless such taking is compatible with the preservation of golden eagles.
-In making such determination, the Director shall consider the following:
+(c) *Issuance criteria.* The Director shall conduct an investigation and not issue a permit to take any golden eagle nest unless such taking is compatible with the preservation of golden eagles. In making such determination, the Director shall consider the following:
 
 (1) Whether the applicant can reasonably conduct the resource development or recovery operation in a manner that avoids taking any golden eagle nest;
 

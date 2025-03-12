@@ -1,5 +1,7 @@
 ##### § 21.12 General exceptions to permit requirements. #####
 
+Link to an amendment published at 87 FR 881, Jan. 7, 2022.
+
 The following persons or entities under the following conditions are exempt from the permit requirements:
 
 (a) *Employees of the Department of the Interior (DOI):* DOI employees authorized to enforce the provisions of the Migratory Bird Treaty Act of July 3, 1918, as amended (40 Stat. 755; 16 U.S.C. 703-(711), may, without a permit, take or otherwise acquire, hold in custody, transport, and dispose of migratory birds or their parts, nests, or eggs as necessary in performing their official duties.

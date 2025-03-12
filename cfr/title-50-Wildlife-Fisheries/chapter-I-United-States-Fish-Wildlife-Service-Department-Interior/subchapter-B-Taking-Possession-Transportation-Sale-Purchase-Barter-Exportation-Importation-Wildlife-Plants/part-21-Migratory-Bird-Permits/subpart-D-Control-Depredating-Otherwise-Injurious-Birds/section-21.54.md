@@ -1,5 +1,7 @@
 ##### § 21.54 Control order for muscovy ducks in the United States. #####
 
+Link to an amendment published at 87 FR 882, Jan. 7, 2022.Link to an amendment published at 87 FR 883, Jan. 7, 2022.
+
 (a) *Control of muscovy ducks.* Anywhere in the contiguous United States except in Hidalgo, Starr, and Zapata Counties in Texas, and in Alaska, Hawaii, and U.S. territories and possessions, landowners and Federal, State, Tribal, and local wildlife management agencies, and their tenants, employees, or agents may, without a Federal permit, remove or destroy muscovy ducks (*Cairina moschata*) (including hybrids of muscovy ducks), or their nests, or eggs at any time when found. Any authorized person may temporarily possess, transport, and dispose of muscovy ducks taken under this order.
 
 (b) *Muscovy ducks in Hidalgo, Starr, and Zapata Counties in Texas.* In these counties, take of muscovy ducks, their nests, and their eggs may be allowed if we issue a depredation permit for the activity.

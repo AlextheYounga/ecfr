@@ -1,5 +1,7 @@
 ##### § 22.27 Removal of eagle nests. #####
 
+Link to an amendment published at 87 FR 884, Jan. 7, 2022.Link to an amendment published at 87 FR 885, Jan. 7, 2022.
+
 (a) *Purpose and scope.* (1) A permit may be issued under this section to authorize removal or relocation of:
 
 (i) An in-use or alternate nest where necessary to alleviate an existing safety emergency, or to prevent a rapidly developing safety emergency that is otherwise likely to result in bodily harm to humans or eagles while the nest is still in use by eagles for breeding purposes;

@@ -1,5 +1,7 @@
 ##### § 21.26 Special Canada goose permit. #####
 
+Link to an amendment published at 87 FR 881, Jan. 7, 2022.Link to an amendment published at 87 FR 882, Jan. 7, 2022.
+
 (a) *What is the special Canada goose permit and what is its purpose?* The special Canada goose permit is a permit issued by us to a State wildlife agency authorizing certain resident Canada goose management and control activities that are normally prohibited. We will only issue such a permit when it will contribute to human health and safety, protect personal property, or allow resolution or prevention of injury to people or property. The management and control activities conducted under the permit are intended to relieve or prevent injurious situations only. No person should construe the permit as opening, reopening, or extending any hunting season contrary to any regulations established under Section 3 of the Migratory Bird Treaty Act.
 
 (b) *Who may receive a permit?* Only State wildlife agencies (State) are eligible to receive a permit to undertake the various goose management and control activities. Additionally, only employees or designated agents of a permitted State wildlife agency may undertake activities for injurious resident Canada geese in accordance with the conditions specified in the permit, conditions contained in 50 CFR part 13, and conditions specified in paragraph (d) of this section.

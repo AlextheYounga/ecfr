@@ -1,5 +1,7 @@
 ##### § 217.76 Letters of Authorization. #####
 
+Link to an amendment published at 87 FR 885, Jan. 7, 2022.
+
 (a) To incidentally take marine mammals pursuant to these regulations, AAC must apply for and obtain an LOA.
 
 (b) An LOA, unless suspended or revoked, may be effective for a period of time not to exceed the expiration date of these regulations.

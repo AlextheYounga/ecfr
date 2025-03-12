@@ -1,5 +1,7 @@
 ##### § 13.25 Transfer of permits and scope of permit authorization. #####
 
+Link to an amendment published at 87 FR 880, Jan. 7, 2022.
+
 (a) Except as otherwise provided for in this section, permits issued under this part are not transferable or assignable.
 
 (b) Permits issued under § 17.22(b) through (d) or § 17.32(b) through (d) or permits issued under § 22.26 of this subchapter B may be transferred in whole or in part through a joint submission by the permittee and the proposed transferee, or in the case of a deceased permittee, the deceased permittee's legal representative and the proposed transferee, provided we determine that:

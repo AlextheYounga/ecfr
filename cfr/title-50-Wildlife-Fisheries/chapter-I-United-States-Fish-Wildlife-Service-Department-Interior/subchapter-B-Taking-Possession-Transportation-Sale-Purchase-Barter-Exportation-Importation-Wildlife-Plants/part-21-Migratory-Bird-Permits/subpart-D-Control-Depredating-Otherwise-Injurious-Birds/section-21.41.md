@@ -1,5 +1,7 @@
 ##### § 21.41 Depredation permits. #####
 
+Link to an amendment published at 87 FR 882, Jan. 7, 2022.
+
 (a) *Permit requirement.* Except as provided in §§ 21.43, 21.44, and 21.46, a depredation permit is required before any person may take, possess, or transport migratory birds for depredation control purposes. No permit is required merely to scare or herd depredating migratory birds other than endangered or threatened species or bald or golden eagles.
 
 (b) *Application procedures.* Submit application for depredation permits to the appropriate Regional Director (Attention: Migratory bird permit office). You can find addresses for the Regional Directors in 50 CFR 2.2. Each application must contain the general information and certification required in § 13.12(a) of this subchapter, and the following additional information:

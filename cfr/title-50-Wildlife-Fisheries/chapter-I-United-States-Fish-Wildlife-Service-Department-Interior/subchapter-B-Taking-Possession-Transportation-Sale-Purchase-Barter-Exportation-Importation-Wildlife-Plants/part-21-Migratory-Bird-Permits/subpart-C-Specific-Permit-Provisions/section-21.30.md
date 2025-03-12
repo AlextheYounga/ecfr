@@ -1,5 +1,7 @@
 ##### § 21.30 Raptor propagation permits. #####
 
+Link to an amendment published at 87 FR 881, Jan. 7, 2022.Link to an amendment published at 87 FR 882, Jan. 7, 2022.
+
 (a) *Legal basis for regulating raptor propagation.* (1) Among other actions, the Migratory Bird Treaty Act (MBTA) (16 U.S.C. 703 *et seq.*) prohibits any person from capturing from the wild, possessing, purchasing, bartering, selling, or offering to purchase, barter, or sell raptors (vultures, kites, eagles, hawks, caracaras, falcons, and owls) listed in § 10.13 of this chapter unless the activities are allowed by Federal permit issued pursuant to this part and part 13 of this chapter, or as permitted by regulations in this part.
 
 (i) This section covers all “native” raptors (accipitriformes, falconiformes, and strigiformes listed in § 10.13 of this chapter), and applies to any person who possesses one or more wild-caught, captive-bred, or hybrid raptors protected under the MBTA to use in raptor propagation, except that neither bald eagles (*Haliaeetus leucocephalus*) nor golden eagles (*Aquila chrysaetos*) may be propagated under these regulations or any other permit regulation listed in part 21 of this chapter.

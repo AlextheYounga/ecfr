@@ -1,5 +1,7 @@
 ##### § 21.31 Rehabilitation permits. #####
 
+Link to an amendment published at 87 FR 881, Jan. 7, 2022.
+
 (a) *What is the permit requirement?* Except as provided in § 21.12, a rehabilitation permit is required to take, temporarily possess, or transport any migratory bird for rehabilitation purposes. However, any person who finds a sick, injured, or orphaned migratory bird may, without a permit, take possession of the bird in order to immediately transport it to a permitted rehabilitator.
 
 (b) *What are the general permit provisions?* (1) The permit authorizes you to:

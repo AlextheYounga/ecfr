@@ -1,5 +1,7 @@
 ##### § 21.22 Banding or marking permits. #####
 
+Link to an amendment published at 87 FR 881, Jan. 7, 2022.
+
 (a) *Permit requirement.* A banding or marking permit is required before any person may capture migratory birds for banding or marking purposes or use official bands issued by the Service for banding or marking any migratory bird.
 
 (b) *Application procedures.* Applications for banding or marking permits shall be submitted by letter of application addressed to the Bird Banding Laboratory, Office of Migratory Bird Management, U.S. Fish and Wildlife Service, Laurel, Maryland 20708. Each such application shall contain the general information and certification set forth by § 13.12(a) of this subchapter plus the following additional information:

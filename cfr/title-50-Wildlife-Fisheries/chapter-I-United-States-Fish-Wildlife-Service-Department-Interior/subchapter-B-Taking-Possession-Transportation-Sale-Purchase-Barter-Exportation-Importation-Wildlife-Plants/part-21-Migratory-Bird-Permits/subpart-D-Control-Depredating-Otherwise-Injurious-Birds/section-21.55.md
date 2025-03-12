@@ -1,5 +1,7 @@
 ##### § 21.55 Control order for invasive migratory birds in Hawaii. #####
 
+Link to an amendment published at 87 FR 882, Jan. 7, 2022.
+
 (a) *Control of cattle egrets and barn owls.* Personnel of the agencies listed in paragraph (b) of this section may take cattle egrets (*Bubulcus ibis*) or barn owls (*Tyto alba*) using the methods authorized in paragraph (c) of this section at any time anywhere in the State of Hawaii, the Northwestern Hawaiian Islands, or the unincorporated territory of Midway Atoll. No permit is necessary to engage in these actions. In this section, the word “you” means a person operating officially as an employee of one of the authorized agencies.
 
 (b) *Authorized agencies.* (1) Federal Aviation Administration;

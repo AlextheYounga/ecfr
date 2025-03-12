@@ -1,5 +1,7 @@
 ##### § 12.36 Donation or loan. #####
 
+Link to an amendment published at 87 FR 879, Jan. 7, 2022.
+
 (a) Except as otherwise provided in this section, wildlife and plants may be donated or loaned for scientific, educational, or public display purposes to any person who demonstrates the ability to provide adequate care and security for the item.
 
 (b) Any donation or loan may be made only after execution of a transfer document between the Director and the donee/borrower, which is subject to the following conditions:

@@ -1,5 +1,7 @@
 ##### § 21.44 Depredation order for horned larks, house finches, and white-crowned sparrows in California. #####
 
+Link to an amendment published at 87 FR 882, Jan. 7, 2022.Link to an amendment published at 87 FR 883, Jan. 7, 2022.
+
 Horned larks (*Eremophila alpestris*), house finches (*Carpodacus mexicanus*), and white-crowned sparrows (*Zonotrichia leucophrys*) may be taken in Fresno, Merced, Napa, and Sonoma Counties in California if they are depredating on agricultural or horticultural crops. Take of birds under this order must be done under the supervision of the county agriculture commissioner. You do not need a Federal permit for this depredation control as long as you meet the conditions below, but a depredation permit (see § 21.41 in this subpart) is required for take of other migratory bird species, or for take of horned larks or white-crowned sparrows from May 1 through October 31.
 
 (a) *When is take allowed under this depredation order?*

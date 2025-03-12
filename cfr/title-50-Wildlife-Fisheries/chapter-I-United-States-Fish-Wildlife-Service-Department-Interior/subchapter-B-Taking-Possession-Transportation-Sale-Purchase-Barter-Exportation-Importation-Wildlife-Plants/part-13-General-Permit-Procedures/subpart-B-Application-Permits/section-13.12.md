@@ -1,5 +1,7 @@
 ##### § 13.12 General information requirements on applications for permits. #####
 
+Link to an amendment published at 87 FR 880, Jan. 7, 2022.
+
 (a) *General information required for all applications.* All applications must contain the following information:
 
 (1) Applicant's full name and address (street address, city, county, state, and zip code; and mailing address if different from street address); home and work telephone numbers; and, if available, a fax number and e-mail address, and:

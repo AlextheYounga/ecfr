@@ -1,5 +1,7 @@
 ##### § 21.25 Waterfowl sale and disposal permits. #####
 
+Link to an amendment published at 87 FR 881, Jan. 7, 2022.Link to an amendment published at 87 FR 882, Jan. 7, 2022.
+
 (a) *Permit requirement.* You must have a waterfowl sale and disposal permit before you may lawfully sell, trade, donate, or otherwise dispose of, most species of captive-reared and properly marked migratory waterfowl or their eggs. You do not need a permit to sell or dispose of properly marked captive-reared mallard ducks (*Anas platyrhynchos*) or their eggs.
 
 (b) *Permit conditions.* In addition to the general conditions set forth in part 13 of this subchapter B, waterfowl sale and disposal permits are subject to the following conditions:

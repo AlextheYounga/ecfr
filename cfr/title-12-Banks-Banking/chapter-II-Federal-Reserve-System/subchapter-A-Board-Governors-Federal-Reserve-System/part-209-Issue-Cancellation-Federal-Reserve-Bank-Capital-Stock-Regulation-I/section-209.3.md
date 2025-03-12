@@ -20,8 +20,8 @@
 
 (ii) The Reserve Bank of the member bank's new District or of the surviving bank shall issue the appropriate number of shares by crediting the bank with the appropriate number of shares on its books (or, in the case of a mutual savings bank, by accepting the deposit or an appropriate increase in the deposit).
 
-(3) *Statement of total consolidated assets.* When a member bank merges with another entity and the surviving bank remains a Reserve Bank stockholder, the surviving stockholder must state whether its total consolidated assets exceed $10,785,000,000 in its next application for additional capital stock.
+(3) *Statement of total consolidated assets.* When a member bank merges with another entity and the surviving bank remains a Reserve Bank stockholder, the surviving stockholder must state whether its total consolidated assets exceed $11,229,000,000 in its next application for additional capital stock.
 
 (e) *Voluntary withdrawal.* Any bank withdrawing voluntarily from membership shall give 6 months written notice, and shall not cause the withdrawal of more than 25 percent of any Reserve Bank's capital stock in any calendar year, unless the Board waives these requirements.
 
-[63 FR 37663, July 13, 1998, as amended by Reg. I, 81 FR 9087, Feb. 24, 2016; 82 FR 11502, Feb. 24, 2017; 82 FR 52174, Nov. 13, 2017; 83 FR 58467, Nov. 20, 2018; 84 FR 68326, Dec. 16, 2019; 85 FR 79390, Dec. 10, 2020]
+[63 FR 37663, July 13, 1998, as amended by Reg. I, 81 FR 9087, Feb. 24, 2016; 82 FR 11502, Feb. 24, 2017; 82 FR 52174, Nov. 13, 2017; 83 FR 58467, Nov. 20, 2018; 84 FR 68326, Dec. 16, 2019; 85 FR 79390, Dec. 10, 2020; 86 FR 69579, Dec. 8, 2021]

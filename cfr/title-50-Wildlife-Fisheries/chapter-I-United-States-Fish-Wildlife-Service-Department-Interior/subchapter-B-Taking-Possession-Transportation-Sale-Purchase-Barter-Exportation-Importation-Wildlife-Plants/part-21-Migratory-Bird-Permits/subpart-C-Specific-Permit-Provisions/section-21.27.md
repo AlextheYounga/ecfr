@@ -1,5 +1,7 @@
 ##### § 21.27 Special purpose permits. #####
 
+Link to an amendment published at 87 FR 881, Jan. 7, 2022.Link to an amendment published at 87 FR 882, Jan. 7, 2022.
+
 Permits may be issued for special purpose activities related to migratory birds, their parts, nests, or eggs, which are otherwise outside the scope of the standard form permits of this part. A special purpose permit for migratory bird related activities not otherwise provided for in this part may be issued to an applicant who submits a written application containing the general information and certification required by part 13 and makes a sufficient showing of benefit to the migratory bird resource, important research reasons, reasons of human concern for individual birds, or other compelling justification.
 
 (a) *Permit requirement.* A special purpose permit is required before any person may lawfully take, salvage, otherwise acquire, transport, or possess migratory birds, their parts, nests, or eggs for any purpose not covered by the standard form permits of this part. In addition, a special purpose permit is required before any person may sell, purchase, or barter captive-bred, migratory game birds, other than waterfowl, that are marked in compliance with § 21.13(b) of this part.

@@ -1,5 +1,7 @@
 ##### § 22.28 Permits for bald eagle take exempted under the Endangered Species Act. #####
 
+Link to an amendment published at 87 FR 884, Jan. 7, 2022.Link to an amendment published at 87 FR 885, Jan. 7, 2022.
+
 (a) *Purpose and scope.* This permit authorizes take of bald eagles (*Haliaeetus leucocephalus*) in compliance with the terms and conditions of a section 7 incidental take statement under the Endangered Species Act of 1973, as amended (ESA) (16 U.S.C. 1531 *et seq.;* 50 CFR 402, Subpart B) issued prior to the effective date of 50 CFR 22.26.
 
 (b) *Issuance criteria.* Before issuing you a permit under this section, we must find that you are in full compliance with the terms and conditions contained in the applicable ESA incidental take statement issued prior to the effective date of 50 CFR 22.26 for take of eagles, based on your certification and any other relevant information available to us, including, but not limited to, monitoring or progress reports required pursuant to your incidental take statement. The terms and conditions of the Eagle Act permit under this section, including any modified terms and conditions, must be compatible with the preservation of the bald eagle.

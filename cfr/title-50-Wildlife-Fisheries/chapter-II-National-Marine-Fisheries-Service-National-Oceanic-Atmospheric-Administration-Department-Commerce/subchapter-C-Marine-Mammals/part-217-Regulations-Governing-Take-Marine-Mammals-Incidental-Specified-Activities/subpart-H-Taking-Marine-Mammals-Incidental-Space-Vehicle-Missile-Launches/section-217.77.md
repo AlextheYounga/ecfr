@@ -1,5 +1,7 @@
 ##### § 217.77 Renewals and modifications of Letters of Authorization. #####
 
+Link to an amendment published at 87 FR 885, Jan. 7, 2022.
+
 (a) An LOA issued under § 216.106 of this chapter and § 217.76 for the activity identified in § 217.70(a) shall be renewed or modified upon request by the applicant, provided that:
 
 (1) The specified activity and mitigation, monitoring, and reporting measures, as well as the anticipated impacts, are the same as those described and analyzed for these regulations (excluding changes made pursuant to the adaptive management provision in paragraph (c)(1) of this section), and

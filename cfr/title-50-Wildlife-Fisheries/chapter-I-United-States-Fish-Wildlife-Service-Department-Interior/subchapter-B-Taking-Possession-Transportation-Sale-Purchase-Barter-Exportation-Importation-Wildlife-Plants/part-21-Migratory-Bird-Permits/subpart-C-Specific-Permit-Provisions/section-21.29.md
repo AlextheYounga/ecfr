@@ -1,5 +1,7 @@
 ##### § 21.29 Falconry standards and falconry permitting. #####
 
+Link to an amendment published at 87 FR 881, Jan. 7, 2022.
+
 (a) *Background* - (1) *The legal basis for regulating falconry.* The Migratory Bird Treaty Act prohibits any person from taking, possessing, purchasing, bartering, selling, or offering to purchase, barter, or sell, among other things, raptors (birds of prey) listed in § 10.13 of this subchapter unless the activities are allowed by Federal permit issued under this part and part 13 of this chapter, or as permitted by regulations in this part.
 
 (i) This section covers all Falconiformes (vultures, kites, eagles, hawks, caracaras, and falcons) and all Strigiformes (owls) listed in § 10.13 of this subchapter (“native” raptors), and applies to any person who possesses one or more wild-caught, captive-bred, or hybrid raptors protected under the MBTA to use in falconry.

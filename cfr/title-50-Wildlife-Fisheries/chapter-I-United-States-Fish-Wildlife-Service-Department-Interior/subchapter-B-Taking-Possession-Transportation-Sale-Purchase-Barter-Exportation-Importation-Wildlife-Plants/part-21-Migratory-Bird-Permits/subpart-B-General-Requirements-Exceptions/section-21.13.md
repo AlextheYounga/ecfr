@@ -1,5 +1,7 @@
 ##### § 21.13 Permit exceptions for captive-reared mallard ducks. #####
 
+Link to an amendment published at 87 FR 881, Jan. 7, 2022.
+
 Captive-reared and properly marked mallard ducks, alive or dead, or their eggs may be acquired, possessed, sold, traded, donated, transported, and disposed of by any person without a permit, subject to the following conditions, restrictions, and requirements:
 
 (a) Nothing in this section shall be construed to permit the taking of live mallard ducks or their eggs from the wild.

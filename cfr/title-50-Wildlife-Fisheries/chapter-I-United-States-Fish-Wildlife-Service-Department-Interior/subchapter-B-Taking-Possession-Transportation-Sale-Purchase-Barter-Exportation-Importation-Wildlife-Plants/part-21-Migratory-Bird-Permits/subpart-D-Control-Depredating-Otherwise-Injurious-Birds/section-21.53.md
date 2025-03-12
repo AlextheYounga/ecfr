@@ -1,5 +1,7 @@
 ##### § 21.53 Control order for purple swamphens. #####
 
+Link to an amendment published at 87 FR 882, Jan. 7, 2022.Link to an amendment published at 87 FR 883, Jan. 7, 2022.
+
 (a) *Control of purple swamphens.* Federal, State, Tribal, and local wildlife management agencies, and their tenants, employees, or agents may remove or destroy purple swamphens (*Porphyrio porphyrio*) or their nests or eggs at any time when they find them anywhere in the contiguous United States, Hawaii, Alaska, the Commonwealth of Puerto Rico, or the U.S. Virgin Islands. Any authorized agency personnel may temporarily possess, transport, and dispose of purple swamphens, subject to the restrictions in paragraph (c) of this section. No permit is necessary to engage in these actions.
 
 (b) *Disposal of purple swamphens.* If you are authorized to control purple swamphens, you may dispose of purple swamphens by the following methods: You may donate purple swamphens taken under this order to public museums or public institutions for scientific or educational purposes; you may dispose of the carcasses by burial or incineration; or, if the carcasses are not readily retrievable, you may leave them in place. No one may retain for personal use, offer for sale, or sell a purple swamphen removed under this section.

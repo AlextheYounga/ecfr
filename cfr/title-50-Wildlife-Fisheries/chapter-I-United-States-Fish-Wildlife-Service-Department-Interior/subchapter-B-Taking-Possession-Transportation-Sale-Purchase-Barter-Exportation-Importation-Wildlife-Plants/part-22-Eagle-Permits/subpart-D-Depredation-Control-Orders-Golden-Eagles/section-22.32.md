@@ -1,5 +1,7 @@
 ##### § 22.32 Conditions and limitations on taking under depredation control order. #####
 
+Link to an amendment published at 87 FR 885, Jan. 7, 2022.
+
 (a) Whenever the taking of golden eagles without a permit is authorized for the seasonal protection of livestock, such birds may be taken by firearms, traps, or other suitable means except by poison or from aircraft.
 
 (b) Any person exercising any of the privileges granted by this subpart D must permit all reasonable times, including during actual operations, any Service agent, or other game law enforcement officer free and unrestricted access over the premises on which such operations have been or are being conducted; and shall furnish promptly to such officer whatever information he may require concerning such operations.

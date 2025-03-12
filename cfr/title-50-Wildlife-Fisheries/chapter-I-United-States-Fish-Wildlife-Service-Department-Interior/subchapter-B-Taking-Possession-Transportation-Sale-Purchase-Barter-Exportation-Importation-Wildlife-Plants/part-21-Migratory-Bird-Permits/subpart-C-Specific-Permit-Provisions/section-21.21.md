@@ -1,5 +1,7 @@
 ##### § 21.21 Import and export permits. #####
 
+Link to an amendment published at 87 FR 881, Jan. 7, 2022.
+
 (a) *Permit requirement.* Except as provided in paragraphs (b), (c), and (d) of this section, you must have a permit to import or export migratory birds, their parts, nests, or eggs. You must meet the applicable permit requirements of the following parts of this subchapter B, even if the activity is exempt from a migratory bird import or export permit:
 
 (1) 13 (General Permit Procedures);

@@ -1,5 +1,7 @@
 ##### § 21.24 Taxidermist permits. #####
 
+Link to an amendment published at 87 FR 881, Jan. 7, 2022.
+
 (a) *Permit requirement.* A taxidermist permit is required before any person may perform taxidermy services on migratory birds or their parts, nests, or eggs for any person other than himself.
 
 (b) *Application procedures.* Submit application for taxidermist permits to the appropriate Regional Director (Attention: Migratory bird permit office). You can find addresses for the Regional Directors in 50 CFR 2.2. Each application must contain the general information and certification required in § 13.12(a) of this subchapter, and the following additional information:

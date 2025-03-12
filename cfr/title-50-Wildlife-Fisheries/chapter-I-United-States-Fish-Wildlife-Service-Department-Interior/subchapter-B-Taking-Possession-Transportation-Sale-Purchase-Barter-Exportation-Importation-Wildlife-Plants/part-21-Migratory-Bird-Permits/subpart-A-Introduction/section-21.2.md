@@ -1,5 +1,7 @@
 ##### § 21.2 Scope of regulations. #####
 
+Link to an amendment published at 87 FR 880, Jan. 7, 2022.
+
 (a) Migratory birds, their parts, nests, or eggs, lawfully acquired prior to the effective date of Federal protection under the Migratory Bird Treaty Act (16 U.S.C. 703-712) may be possessed or transported without a permit, but may not be imported, exported, purchased, sold, bartered, or offered for purchase, sale or barter, and all shipments of such birds must be marked as provided by part 14 of this subchapter: *Provide,* no exemption from any statute or regulation shall accrue to any offspring of such migratory birds.
 
 (b) This part, except for § 21.12(a), (c), and (d) (general permit exceptions); § 21.22 (banding or marking); § 21.29 (falconry); and § 21.31 (rehabilitation), does not apply to the bald eagle (*Haliaeetus leucocephalus*) or the golden eagle (*Aquila chrysaetos*), for which regulations are provided in part 22 of this subchapter.

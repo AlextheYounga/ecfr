@@ -1,5 +1,7 @@
 ##### § 22.23 What are the requirements for permits to take depredating eagles and eagles that pose a risk to human or eagle health and safety? #####
 
+Link to an amendment published at 87 FR 884, Jan. 7, 2022.Link to an amendment published at 87 FR 885, Jan. 7, 2022.
+
 (a) *How do I apply for a permit?* You must submit applications for permits under this section to the appropriate Regional Director - Attention: Migratory Bird Permit Office. You can find addresses for the appropriate Regional Directors in 50 CFR 2.2. Your application must contain the information and certification required by § 13.12(a) of this subchapter, and the following additional information:
 
 (1) Species and number of eagles proposed to be taken;

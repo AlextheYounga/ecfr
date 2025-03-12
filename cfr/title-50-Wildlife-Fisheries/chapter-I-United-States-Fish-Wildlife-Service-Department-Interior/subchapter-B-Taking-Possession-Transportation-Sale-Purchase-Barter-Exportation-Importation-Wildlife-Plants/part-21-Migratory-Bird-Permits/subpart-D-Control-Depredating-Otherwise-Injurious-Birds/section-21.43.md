@@ -1,5 +1,7 @@
 ##### § 21.43 Depredation order for blackbirds, cowbirds, crows, grackles, and magpies. #####
 
+Link to an amendment published at 87 FR 882, Jan. 7, 2022.
+
 (a) *Species covered.*
 
 |                 Blackbirds                  |          Cowbirds           |             Crows              |             Grackles              |          Magpies           |

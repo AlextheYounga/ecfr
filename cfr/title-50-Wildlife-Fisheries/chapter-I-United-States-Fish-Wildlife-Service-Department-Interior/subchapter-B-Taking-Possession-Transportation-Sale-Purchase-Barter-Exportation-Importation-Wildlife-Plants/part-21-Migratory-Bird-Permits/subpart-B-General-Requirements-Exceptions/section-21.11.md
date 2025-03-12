@@ -1,5 +1,7 @@
 ##### § 21.11 General permit requirements. #####
 
+Link to an amendment published at 87 FR 881, Jan. 7, 2022.
+
 No person may take, possess, import, export, transport, sell, purchase, barter, or offer for sale, purchase, or barter, any migratory bird, or the parts, nests, or eggs of such bird except as may be permitted under the terms of a valid permit issued pursuant to the provisions of this part and part 13 of this chapter, or as permitted by regulations in this part, or part 20 of this subchapter (the hunting regulations), or part 92 of subchapter G of this chapter (the Alaska subsistence harvest regulations). Birds taken or possessed under this part in “included areas” of Alaska as defined in § 92.5(a) are subject to this part and not to part 92 of subchapter G of this chapter.
 
 [68 FR 43027, July 21, 2003]
