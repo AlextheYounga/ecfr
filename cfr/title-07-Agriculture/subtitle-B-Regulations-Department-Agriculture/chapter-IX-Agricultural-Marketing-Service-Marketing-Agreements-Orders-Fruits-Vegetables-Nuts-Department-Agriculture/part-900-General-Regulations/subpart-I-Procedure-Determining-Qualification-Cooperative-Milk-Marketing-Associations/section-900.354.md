@@ -1,0 +1,3 @@
+##### § 900.354 Inspection and investigation. #####
+
+The Secretary of Agriculture, or his duly authorized representative, shall have the right, at any time after an application is received, to examine all books, documents, papers, records, files and facilities of the association, to verify any of the information submitted and to procure such other information as may be required to determine whether the association is qualified in accordance with its application.

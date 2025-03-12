@@ -1,0 +1,3 @@
+##### § 993.83 Rights of the Secretary. #####
+
+The members of the committee (including successors or alternates) and any agent or employee appointed or employed by the committee, shall be subject to the removal or suspension by the Secretary, in his discretion, at any time. Each and every decision, determination, or other acts of the committee shall be subject to the continuing right of the Secretary to disapprove of the same at any time, and upon such disapproval, shall be deemed null and void.

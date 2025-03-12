@@ -1,0 +1,13 @@
+##### § 948.78 Accounting. #####
+
+(a) If, at the end of a fiscal period, the assessments collected are in excess of expenses incurred, such excess shall be accounted for in accordance with one of the following:
+
+(1) If such excess is not retained in a reserve, as provided in paragraph (a)(2) of this section, it shall be refunded proportionately to the persons from whom it was collected.
+
+(2) An area committee, with the approval of the Secretary, may carry over such excess into subsequent fiscal periods as a reserve: *Provided,* That funds already in the reserve are less than approximately two fiscal period's expenses. Such reserve funds may be used (i) to defray expenses, during any fiscal period, prior to the time assessment income is sufficient to cover such expenses; (ii) to cover deficits incurred during any fiscal period when assessment income is less than expenses; (iii) to defray expenses incurred during any period when any or all provisions of this subpart are suspended or are inoperative; (iv) to cover necessary expenses of liquidation in the event of termination of this subpart. Upon such termination, any funds not required to defray the necessary expenses of liquidation shall be disposed of in such manner as the Secretary may determine to be appropriate. To the extent practical, such funds shall be returned pro rata to the persons from whom such funds were collected.
+
+(b) All funds received by an area committee pursuant to the provisions of this part shall be used solely for the purposes specified herein. The Secretary may at any time require an area committee and its members to account for all receipts and disbursements.
+
+(c) Upon the removal or expiration of the term of office of any member of an area committee, such member shall account for all receipts and disbursements and deliver all property and funds in his possession to such committee, and shall execute such assignments and other instruments as may be necessary or appropriate to vest in such committee full title to all of the property funds and claims vested in such member pursuant to this part.
+
+(d) Each area committee may make recommendations to the Secretary for one or more of the members thereof, or any other person, to act as a trustee for holding records, funds, or any other committee property during periods of suspension of this subpart, or during any period or periods when regulations are not in effect and if the Secretary determines such action appropriate, he may direct that such person or persons shall act as trustee or trustees for such committee.

@@ -1,0 +1,3 @@
+##### § 948.121 Qualification. #####
+
+Before handling potatoes for special purposes which do not meet regulations issued under § 948.22 a handler must qualify with the committee to handle shipments for special purposes. To qualify he must (a) apply for and receive a Certificate of Privilege indicating his intent to so handle potatoes; (b) agree to comply with reporting and other requirements set forth in §§ 948.121 to 948.125, inclusive, with respect to such shipments; and (c) receive approval of the committee to so handle potatoes. Such approval will be based upon evidence furnished in his application for a Certificate of Privilege, and other information available to the committee.

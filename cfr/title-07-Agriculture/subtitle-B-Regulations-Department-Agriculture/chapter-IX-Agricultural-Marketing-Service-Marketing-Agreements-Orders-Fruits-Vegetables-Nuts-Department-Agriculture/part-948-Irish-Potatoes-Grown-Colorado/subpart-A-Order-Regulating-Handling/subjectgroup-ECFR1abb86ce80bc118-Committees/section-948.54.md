@@ -1,0 +1,3 @@
+##### § 948.54 Eligibility. #####
+
+Area committee members and alternates shall be individuals who shall be residents of, and producers or handlers, as the case may be, in the respective area. Also, each member or alternate to qualify as a representative (a) for producers shall be a producer, or an officer or employee of a producer; (b) for producer's cooperative marketing associations shall be members or employees of such associations; or (c) for handlers other than cooperative marketing associations shall be a handler, or an officer or employee of a handler.

@@ -1,0 +1,3 @@
+##### § 925.26 Vacancies. #####
+
+To fill any vacancy occasioned by the failure of any person selected as a member or as an alternate member of the committee to qualify, or in the event of the death, removal, resignation, or disqualification of any member or alternate member of the committee, a successor for the unexpired term of such member or alternate member of the committee shall be nominated and selected in the manner specified in §§ 925.22 and 925.23. If the names of the nominees to fill any such vacancy are not made available to the Secretary within a reasonable time after such vacancy occurs, the Secretary may fill such vacancy without regard to nominations, which selection shall be made on the basis of the representation provided for in § 925.20.

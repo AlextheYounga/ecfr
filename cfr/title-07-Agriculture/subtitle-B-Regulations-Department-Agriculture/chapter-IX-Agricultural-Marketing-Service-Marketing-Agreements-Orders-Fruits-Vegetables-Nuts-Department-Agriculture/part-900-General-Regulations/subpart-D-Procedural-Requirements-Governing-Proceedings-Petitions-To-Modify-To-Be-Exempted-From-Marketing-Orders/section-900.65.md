@@ -1,0 +1,13 @@
+##### § 900.65 Appeals to Secretary: Transmittal of record. #####
+
+(a) *Filing of appeal.* Any party who disagrees with a judge's decision or any part thereof, may appeal the decision to the Secretary by filing an appeal petition with the Hearing Clerk within 30 days after service of said decision upon said party. Each issue set forth in the appeal, and the arguments thereon, shall be separately numbered; shall be plainly and concisely stated; and shall contain detailed citations of the record, statutes, regulations and authorities being relied upon in support thereof. The appeal petition shall be served upon the other party to the proceeding by the hearing clerk.
+
+(b) *Argument before Secretary*—(1) *Oral argument.* A party bringing an appeal may request within the prescribed time period for filing such appeal, an opportunity for oral argument before the Secretary. Failure to make such request in writing, within the prescribed time period, shall be deemed a waiver of oral argument. The Secretary, in his discretion, may grant, refuse or limit any request for oral argument on appeal.
+
+(2) *Scope of argument.* Argument to be heard on appeal, whether oral or in a written brief, shall be limited to the issues raised by the appeal, except that if the Secretary determines that additional issues should be argued, the parties shall be given reasonable notice of such determination, so as to permit preparation of adequate arguments on all the issues to be argued.
+
+(c) *Response.* Within 20 days after service of an appeal brought by a party to the proceeding, any other party may file a response in support of or in opposition to such appeal.
+
+(d) *Transmittal of record.* Whenever an appeal is filed by a party to the proceeding, the hearing clerk shall transmit to the Secretary the record of the proceeding. Such record shall include: The pleadings; any motions and requests filed, and the rulings thereon; the transcript of the testimony taken at the hearing, as well as the exhibits filed in connection therewith; any statements filed under the shortened procedure; any documents or papers filed in connection with prehearing conferences; such proposed findings of fact, conclusions, and orders, and briefs in support thereof, as may have been filed in connection with the hearing; the judge's initial decision; and the appeal petition; briefs in support thereof, and responses thereto as may have been filed in the proceeding.
+
+[38 FR 29799, Oct. 29, 1973, as amended at 67 FR 10830, Mar. 11, 2002]

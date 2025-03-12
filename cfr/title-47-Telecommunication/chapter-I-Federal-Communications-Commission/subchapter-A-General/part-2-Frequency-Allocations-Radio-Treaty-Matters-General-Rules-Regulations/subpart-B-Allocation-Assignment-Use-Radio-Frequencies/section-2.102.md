@@ -1,5 +1,7 @@
 ##### § 2.102 Assignment of frequencies. #####
 
+Link to an amendment published at 83 FR 19977, May 7, 2018.
+
 (a) Except as otherwise provided in this section, the assignment of frequencies and bands of frequencies to all stations and classes of stations and the licensing and authorizing of the use of all such frequencies between 8.3 kHz and 275 GHz, and the actual use of such frequencies for radiocommunication or for any other purpose, including the transfer of energy by radio, shall be in accordance with the Table of Frequency Allocations in § 2.106.
 
 (b) On the condition that harmful interference will not be caused to services operating in accordance with the Table of Frequency Allocations the following exceptions to paragraph (a) of this section may be authorized:

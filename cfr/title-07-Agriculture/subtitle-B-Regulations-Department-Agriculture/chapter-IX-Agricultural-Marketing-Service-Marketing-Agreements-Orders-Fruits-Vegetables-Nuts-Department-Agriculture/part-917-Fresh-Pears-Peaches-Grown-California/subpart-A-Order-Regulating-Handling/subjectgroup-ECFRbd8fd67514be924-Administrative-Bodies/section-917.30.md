@@ -1,0 +1,5 @@
+##### § 917.30 Removal and disapproval. #####
+
+The members of the Control Committee, including their respective successors and alternates, and the members of each commodity committee, including their respective successors and alternates, and any agent or employee appointed or employed by the Control Committee and the members of any other committee established pursuant to the provisions of this subpart shall be subject to removal or suspension at any time by the Secretary. Each regulation, decision, determination, or other act of the Control Committee, or any commodity committee, or any other committee established pursuant to the provisions of this subpart, shall be subject to the continuing right of the Secretary to disapprove of the same at any time; and, upon such disapproval, each such regulation, decision, determination, or other act, shall be deemed null and void except as to acts done in reliance thereon or in compliance therewith prior to such disapproval by the Secretary.
+
+Effective Date Note:At 76 FR 66605, Oct. 27, 2011, § 917.30 was suspended indefinitely, effective Oct. 28, 2011.

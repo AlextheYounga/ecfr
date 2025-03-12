@@ -1,0 +1,3 @@
+##### § 915.54 Inspection and certification. #####
+
+Whenever the handling of any variety of avocados is regulated pursuant to § 915.51, each handler who handles avocados shall, prior thereto, cause each lot of avocados handled to be inspected by the Federal-State Inspection Service and certified by it as meeting the applicable requirements of such regulation: *Provided,* That such inspection and certification shall not be required whenever the avocados previously have been so inspected and certified. Promptly thereafter, each such handler shall submit, or cause to be submitted, to the committee a copy of the certificate of inspection with respect to such handling.

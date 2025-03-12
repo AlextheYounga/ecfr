@@ -1,0 +1,3 @@
+##### § 948.58 Vacancies. #####
+
+To fill any vacancy occasioned by the failure of any person selected as a member or as an alternate to qualify, or in the event of the death, removal, resignation, or disqualification of a member or alternate, a successor for his unexpired term may be selected by the Secretary from nominations made pursuant to § 948.56, from previously unselected nominees on the current nominee list, or from other eligible persons.

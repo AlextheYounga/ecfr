@@ -1,14 +1,12 @@
 ##### § 27.773 Pilot compartment view. #####
 
-Link to an amendment published at 83 FR 9423, March 6, 2018.
-
-(a) Each pilot compartment must be free from glare and reflections that could interfere with the pilot's view, and designed so that -
+(a) Each pilot compartment must be free from glare and reflections that could interfere with the pilot's view, and designed so that—
 
 (1) Each pilot's view is sufficiently extensive, clear, and undistorted for safe operation; and
 
 (2) Each pilot is protected from the elements so that moderate rain conditions do not unduly impair his view of the flight path in normal flight and while landing.
 
-(b) If certification for night operation is requested, compliance with paragraph (a) of this section must be shown in night flight tests.
+(b) If certification for night operation is requested, compliance with paragraph (a) of this section must be shown by ground or night flight tests.
 
 (c) A vision system with a transparent display surface located in the pilot's outside field of view, such as a head up-display, head mounted display, or other equivalent display, must meet the following requirements:
 
@@ -20,4 +18,4 @@ Link to an amendment published at 83 FR 9423, March 6, 2018.
 
 (4) When the vision system is not in operation it must permit the pilot compartment to satisfy the requirements of paragraphs (a)(1) and (b) of this section.
 
-[Doc. No. 5074, 29 FR 15695, Nov. 24, 1964, as amended by Docket FAA-2013-0485, Amdt. 27-48, 81 FR 90170, Dec. 13, 2016]
+[Doc. No. 5074, 29 FR 15695, Nov. 24, 1964, as amended by Docket FAA-2013-0485, Amdt. 27-48, 81 FR 90170, Dec. 13, 2016; Docket FAA-2016-9275, Amdt. 27-50, 83 FR 9423, Mar. 6, 2018]

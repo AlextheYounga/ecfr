@@ -1,0 +1,3 @@
+##### § 953.50 Inspection and certification. #####
+
+The Southeastern Potato Committee shall require, with approval of the Secretary, that whenever regulations are in effect pursuant to this subpart, each first handler shall, prior to making each shipment of potatoes cause each shipment to be inspected by an authorized representative of the Federal-State Inspection Service. Each handler shall make arrangements with the inspecting agency to forward promptly to the committee a copy of each inspection certificate, issued as aforesaid.

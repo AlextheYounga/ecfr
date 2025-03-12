@@ -1,0 +1,3 @@
+##### § 900.24 Pre-hearing information sessions. #####
+
+A pre-hearing information session may be held by the Secretary in response to any proposals received under § 900.3 of this part. Any person proposing an amendment to a Federal milk marketing agreement or order may request that a pre-hearing information session be held. A person submitting a proposal shall have up to 3 calendar days to modify or withdraw his or her proposal prior to the publication of a notice of hearing.

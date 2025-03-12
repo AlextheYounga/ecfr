@@ -1,0 +1,5 @@
+##### § 917.27 Alternates. #####
+
+There shall be an alternate for each member of the Control Committee, and an alternate for each member of each commodity committee. Each such alternate shall possess the same qualifications, shall be nominated and selected in the same manner and shall hold office for the same term, as the member for whom he is alternate. An alternate shall, in the event of such member's absence at a meeting of the committee, act in the place and stead of such member; and, in the event of such member's removal, resignation, disqualification, or death, the alternate for such member shall, until a successor for the unexpired term of said member has been selected, act in the place and stead of said member. In the event both a member and his alternate are unable to attend a meeting the member or the committee members present may designate any other alternative to serve in such member's place and stead provided such action is necessary to secure a quorum.
+
+Effective Date Note:At 76 FR 66605, Oct. 27, 2011, § 917.27 was suspended indefinitely, effective Oct. 28, 2011.

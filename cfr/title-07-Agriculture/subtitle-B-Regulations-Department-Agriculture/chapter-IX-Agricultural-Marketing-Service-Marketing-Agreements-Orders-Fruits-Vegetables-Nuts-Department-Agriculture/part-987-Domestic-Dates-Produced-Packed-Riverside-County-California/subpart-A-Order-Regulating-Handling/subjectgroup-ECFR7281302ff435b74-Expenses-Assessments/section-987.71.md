@@ -1,0 +1,3 @@
+##### § 987.71 Expenses. #####
+
+The Committee is authorized to incur such expenses, including maintenance of an operating reserve fund, as the Secretary may find are reasonable and are likely to be incurred by it during each crop year for the maintenance and functioning of the Committee and for such other purposes as he determines to be appropriate. The recommendation of the Committee as to total expenses and allocation thereof for each crop year, together with all data supporting such recommendation, shall be submitted to the Secretary within a reasonable time after the marketing policy for each crop year is recommended.

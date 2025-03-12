@@ -1,0 +1,3 @@
+##### § 984.80 Books and other records. #####
+
+Each handler shall maintain such records of walnuts received, held and disposed of by him as may be prescribed by the Board for the purpose of performing its functions under this subpart. Such books and records shall be retained and be available for examination by authorized representatives of the Board and the Secretary for a period of two years after the end of the marketing year in which the recorded transactions are completed.

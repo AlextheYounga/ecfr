@@ -1,0 +1,5 @@
+##### § 987.46 Revisions of percentages. #####
+
+The Secretary may, on recommendation of the Committee submitted prior to January 31 of the crop year, or on the basis of other information available to him, increase the free percentage to conform with such new relation as may be found to exist between trade demand for free dates and available supply of marketable dates of applicable grade and size. Upon any revision in the free and restricted percentages the control obligation of each handler with respect to free dates handled or certified for handling or for further processing by him for the entire crop year shall be recomputed in accordance with such revised control percentages. The handler shall be permitted to select, insofar as practicable, under the supervision and direction of the Committee, the particular dates to be removed from any dates withheld.
+
+[27 FR 6818, July 19, 1962, as amended at 43 FR 4253, Feb. 1, 1978]

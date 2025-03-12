@@ -1,5 +1,7 @@
 ##### § 660.709 Annual specifications. #####
 
+Link to an amendment published at 83 FR 19982, May 7, 2018.
+
 (a) *Procedure.* (1) In June of each year, the HMSMT will deliver a preliminary SAFE report to the Council for all HMS with any necessary recommendations for harvest guidelines, quotas or other management measures to protect HMS, including updated MSY and OY estimates based on the best available science. The Council's HMS Science and Statistical Committee will review the estimates and make a recommendation on their suitability for management. The Council will review these recommendations and decide whether to adopt updated numerical estimates of MSY and OY, which are then submitted as recommendations for NMFS to review as part of the management measures review process.
 
 (2) In September of each year, the HMSMT will deliver a final SAFE report to the Council. The Council will adopt any necessary harvest guidelines, quotas or other management measures including updated MSY and OY estimates if any for public review.

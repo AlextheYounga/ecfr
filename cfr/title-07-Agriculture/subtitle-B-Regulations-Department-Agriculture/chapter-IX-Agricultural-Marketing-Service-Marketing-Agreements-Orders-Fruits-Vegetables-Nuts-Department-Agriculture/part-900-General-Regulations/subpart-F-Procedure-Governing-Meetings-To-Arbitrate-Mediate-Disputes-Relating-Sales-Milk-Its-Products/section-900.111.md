@@ -1,0 +1,3 @@
+##### § 900.111 Inquiry by the Administrator. #####
+
+Upon receipt of an application for arbitration, the Administrator, through such officers or employees of the Service as he may designate, may make any inquiry deemed to be necessary or proper in order to determine whether a bona fide dispute exists, to assist the parties in reducing the dispute to well-defined issues, and to select an arbitrator who would be satisfactory to all parties.

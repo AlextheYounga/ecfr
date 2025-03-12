@@ -1,0 +1,3 @@
+##### § 981.48 Increase of salable percentage. #####
+
+Upon request filed prior to May 15 by the Board or, if the Board should fail to request, by two or more handlers who have handled at least 15 percent of all almonds handled in the preceding crop year, and after findings of fact (based upon a revision of the estimates required under § 981.49 and other pertinent information) that the quantity of salable almonds is not sufficient to satisfy trade demand and desirable carryover requirements for the crop year, the Secretary may increase the salable percentage. Such findings shall be made in the manner specified in § 981.47.

@@ -1,0 +1,3 @@
+##### § 948.124 Reports. #####
+
+Each handler of potatoes shipping under Certificates of Privilege shall supply the committee with reports as requested by the committee or its duly authorized agents showing the name and address of the shipper; the car or truck identification; the loading point; destination; consignee; the inspection certificate number when inspection is required; and any other information deemed necessary by the committee.

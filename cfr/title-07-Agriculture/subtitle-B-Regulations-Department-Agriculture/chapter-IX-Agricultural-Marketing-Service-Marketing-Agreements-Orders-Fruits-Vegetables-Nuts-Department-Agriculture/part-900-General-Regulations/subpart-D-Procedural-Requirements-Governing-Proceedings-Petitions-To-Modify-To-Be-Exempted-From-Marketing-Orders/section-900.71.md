@@ -1,0 +1,3 @@
+##### § 900.71 Hearing before Secretary. #####
+
+The Secretary may act in the place and stead of a judge in any proceeding hereunder. When he so acts the hearing clerk shall transmit the record to the Secretary at the expiration of the period provided for the filing of proposed findings of fact, conclusions and orders, and the Secretary shall thereupon, after due consideration of the record, issue his final order in the proceeding: *Provided,* That he may issue a tentative order in which event the parties shall be afforded an opportunity to file exceptions before the issuance of the final order.

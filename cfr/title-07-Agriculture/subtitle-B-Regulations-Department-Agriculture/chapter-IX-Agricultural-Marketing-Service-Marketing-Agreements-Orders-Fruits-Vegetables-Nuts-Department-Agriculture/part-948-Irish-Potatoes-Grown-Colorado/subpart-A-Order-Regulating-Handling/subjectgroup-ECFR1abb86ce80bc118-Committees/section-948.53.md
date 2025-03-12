@@ -1,0 +1,3 @@
+##### § 948.53 Reestablishment. #####
+
+Areas, subdivisions of areas, the distribution of representation among the subdivision of areas, or among marketing organizations within respective areas may be reestablished by the Secretary upon area committee recommendations. Upon approval therefor of respective committees affected thereby, areas may be reestablished. In recommending any such changes, the committee shall consider (a) the relative importance of new producing sections, (b) relative production, (c) changes in marketing organizations and their relative status in the industry, (d) the geographic locations of producing sections as they would affect the efficiency of administration of this part, and (e) other relevant factors.

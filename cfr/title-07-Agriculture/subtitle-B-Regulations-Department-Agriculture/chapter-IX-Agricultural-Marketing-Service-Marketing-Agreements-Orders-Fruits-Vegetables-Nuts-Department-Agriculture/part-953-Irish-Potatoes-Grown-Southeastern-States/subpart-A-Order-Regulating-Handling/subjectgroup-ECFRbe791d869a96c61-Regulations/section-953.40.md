@@ -1,0 +1,5 @@
+##### § 953.40 Marketing policy. #####
+
+Prior to or at the same time initial recommendations in any fiscal period are made pursuant to § 953.41, the committee shall prepare a marketing policy, and promptly submit a copy thereof to the Secretary, setting forth its proposed policy for the marketing of potatoes during such fiscal period. In the event it becomes advisable to deviate from such marketing policy, because of changed demand and supply conditions, or as the Secretary may request, the committee shall formulate a revised marketing policy and shall submit a report thereon to the Secretary. Notice of each such marketing policy and revision thereof shall be given to producers, handlers, and other interested parties by bulletins, newspapers, or other appropriate media, and copies thereof shall be available for examination at the committee office to all interested parties.
+
+[33 FR 8504, June 8, 1968]

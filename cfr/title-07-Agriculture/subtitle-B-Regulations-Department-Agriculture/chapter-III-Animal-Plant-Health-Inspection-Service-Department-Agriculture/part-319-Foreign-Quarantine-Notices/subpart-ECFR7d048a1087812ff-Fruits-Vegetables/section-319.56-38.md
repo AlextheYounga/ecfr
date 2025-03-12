@@ -1,8 +1,6 @@
 ##### § 319.56-38 Citrus from Chile. #####
 
-Link to an amendment published at 83 FR 14736, Apr. 6, 2018.
-
-Clementines (*Citrus reticulata* Blanco var. Clementine), mandarins (*Citrus reticulata* Blanco), and tangerines (*Citrus reticulata* Blanco) may be imported into the United States from Chile, and grapefruit (*Citrus paradisi* Macfad.) and sweet oranges (*Citrus sinensis* (L.) Osbeck) may be imported into the continental United States from Chile, in accordance with this section and all other applicable provisions of this subpart.
+Clementines (*Citrus reticulata* Blanco var. Clementine), mandarins (*Citrus reticulata* Blanco), and tangerines (*Citrus reticulata* Blanco) may be imported into the United States from Chile, and grapefruit (*Citrus paradisi* Macfad.), lemons (*Citrus limon* (L.) Burm. f.), and sweet oranges (*Citrus sinensis* (L.) Osbeck) may be imported into the continental United States from Chile, in accordance with this section and all other applicable provisions of this subpart.
 
 (a) The fruit must be accompanied by a permit issued in accordance with § 319.56-3(b).
 
@@ -18,7 +16,7 @@ Clementines (*Citrus reticulata* Blanco var. Clementine), mandarins (*Citrus ret
 
 (3) *Post-harvest processing.* After harvest and before packing, the fruit must be washed, rinsed in a potable water bath, washed with detergent with brushing using bristle rollers, rinsed with a hot water shower with brushing using bristle rollers, predried at room temperature, waxed, and dried with hot air.
 
-(4) *Phytosanitary inspection.* The fruit must be inspected in Chile at an APHIS-approved inspection site under the direction of APHIS inspectors in coordination with the NPPO of Chile after the post-harvest processing. A biometric sample will be drawn and examined from each consignment of fruit, which may represent multiple grower lots from different packing sheds. Clementines, mandarins, or tangerines in any consignment may be shipped to the United States only if the consignment passes inspection as follows:
+(4) *Phytosanitary inspection.* The fruit must be inspected in Chile at an APHIS-approved inspection site under the direction of APHIS inspectors in coordination with the NPPO of Chile after the post-harvest processing. A biometric sample will be drawn and examined from each consignment of fruit, which may represent multiple grower lots from different packing sheds. Clementines, grapefruit, lemons, mandarins, sweet oranges, or tangerines in any consignment may be shipped to the United States only if the consignment passes inspection as follows:
 
 (i) Fruit presented for inspection must be identified in the shipping documents accompanying each lot of fruit that identify the production site(s) where the fruit was produced and the packing shed(s) where the fruit was processed. This identity must be maintained until the fruit is released for entry into the United States.
 
@@ -30,8 +28,8 @@ Clementines (*Citrus reticulata* Blanco var. Clementine), mandarins (*Citrus ret
 
 (iii) Each consignment of fruit must be accompanied by a phytosanitary certificate issued by the NPPO of Chile that contains an additional declaration stating that the fruit in the consignment meets the conditions of § 319.56-38(d).
 
-(e) *Approved fumigation.* Clementines, grapefruit, mandarins, sweet oranges, or tangerines that do not meet the conditions of paragraph (d) of this section may be imported into the United States if the fruit is fumigated either in Chile or at the port of first arrival in the United States with methyl bromide for *B. chilensis* in accordance with part 305 of this chapter. An APHIS inspector will monitor the fumigation of the fruit and will prescribe such safeguards as may be necessary for unloading, handling, and transportation preparatory to fumigation. The final release of the fruit for entry into the United States will be conditioned upon compliance with prescribed safeguards and required treatment.
+(e) *Approved fumigation.* Clementines, grapefruit, lemons, mandarins, sweet oranges, or tangerines that do not meet the conditions of paragraph (d) of this section may be imported into the United States if the fruit is fumigated either in Chile or at the port of first arrival in the United States with methyl bromide for *B. chilensis* in accordance with part 305 of this chapter. An APHIS inspector will monitor the fumigation of the fruit and will prescribe such safeguards as may be necessary for unloading, handling, and transportation preparatory to fumigation. The final release of the fruit for entry into the United States will be conditioned upon compliance with prescribed safeguards and required treatment.
 
-(f) *Trust fund agreement.* Clementines, grapefruit, mandarins, sweet oranges, or tangerines may be imported into the United States under this section only if the NPPO of Chile or a private export group has entered into a trust fund agreement with APHIS in accordance with § 319.56-6.
+(f) *Trust fund agreement.* Clementines, grapefruit, lemons, mandarins, sweet oranges, or tangerines may be imported into the United States under this section only if the NPPO of Chile or a private export group has entered into a trust fund agreement with APHIS in accordance with § 319.56-6.
 
-(Approved by the Office of Management and Budget under control number 0579-0242)[72 FR 39501, July 18, 2007, as amended at 74 FR 15640, Apr. 7, 2009; 74 FR 46489, Sept. 10, 2009; 75 FR 4253, Jan. 26, 2010]
+(Approved by the Office of Management and Budget under control numbers 0579-0242 and 0579-0446)[72 FR 39501, July 18, 2007, as amended at 74 FR 15640, Apr. 7, 2009; 74 FR 46489, Sept. 10, 2009; 75 FR 4253, Jan. 26, 2010; 83 FR 14736, Apr. 6, 2018]

@@ -1,0 +1,5 @@
+##### § 946.41 Assessments. #####
+
+Each handler shall pay to the committee upon demand, his pro rata share of the expenses authorized by the Secretary for each fiscal period. Each handler's pro rata share shall be the rate of assessment per hundredweight fixed by the Secretary times the quantity of potatoes which he handles as the first handler thereof. At any time during or after a fiscal period, the Secretary may increase the rate of assessment as necessary to cover authorized expenses. Such increase shall be applicable to all potatoes handled during the given fiscal period. The payment of expenses for the maintenance and functioning of the committee may be required during periods when no regulations are in effect. If a handler does not pay his assessment within the time prescribed by the committee, the assessment may be increased by a late payment charge or an interest charge, or both, at rates prescribed by the committee with the approval of the Secretary.
+
+[37 FR 10917, June 1, 1972]

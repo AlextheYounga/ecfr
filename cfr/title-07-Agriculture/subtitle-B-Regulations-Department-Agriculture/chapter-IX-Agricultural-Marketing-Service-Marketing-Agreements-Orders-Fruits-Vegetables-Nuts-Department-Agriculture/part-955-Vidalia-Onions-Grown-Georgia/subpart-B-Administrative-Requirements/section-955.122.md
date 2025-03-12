@@ -1,0 +1,5 @@
+##### § 955.122 Change in nomination deadlines. #####
+
+Pursuant to § 955.22, the Committee shall hold or cause to be held not later than October 1 of each year a meeting or meetings of growers for the purpose of designating one nominee for each position as member and for each position as alternate of the Committee which is vacant, or about to become vacant. Such nominations shall be supplied to the Secretary in such manner and form as the Secretary may prescribe, not later than October 15 of each year. The grower members shall nominate the public member and alternate public member at the first meeting following the selection of members for a new term of office. Nominations for the public member and alternate public member shall be supplied to the Secretary in such manner and form as the Secretary may prescribe, not later than February 15.
+
+[64 FR 72269, Dec. 27, 1999]

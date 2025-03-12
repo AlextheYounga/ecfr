@@ -1,0 +1,25 @@
+##### § 900.52 Institution of proceeding. #####
+
+(a) *Filing and service of petition.* Any handler desiring to complain that any marketing order or any provision of any such order or any obligation imposed in connection therewith is not in accordance with law, shall file with the hearing clerk, in quadruplicate, a petition in writing addressed to the Secretary. Promptly upon receipt of the petition, the hearing clerk shall transmit a true copy thereof to the Administrator and the General Counsel, respectively.
+
+(b) *Contents of petition.* A petition shall contain:
+
+(1) The correct name, address, and principal place of business of the petitioner. If petitioner is a corporation, such fact shall be stated, together with the name of the State of incorporation, the date of incorporation, and the names, addresses, and respective positions held by its officers; if an unincorporated association, the names and addresses of its officers, and the respective positions held by them; if a partnership, the name and address of each partner;
+
+(2) Reference to the specific terms or provisions of the marketing order, or the interpretation or application thereof, which are complained of;
+
+(3) A full statement of the facts (avoiding a mere repetition of detailed evidence) upon which the petition is based, and which it is desired that the Secretary consider, setting forth clearly and concisely the nature of the petitioner's business and the manner in which petitioner claims to be affected by the terms or provisions of the marketing order, or the interpretation or application thereof, which are complained of;
+
+(4) A statement of the grounds on which the terms or provisions of the marketing order, or the interpretation or application thereof, which are complained of, are challenged as not in accordance with law;
+
+(5) Prayers for the specific relief which the petitioner desires the Secretary to grant;
+
+(6) An affidavit by the petitioner, or, if the petitioner is not an individual, by an officer of the petitioner having knowledge of the facts stated in the petition, verifying the petition and stating that it is filed in good faith and not for purposes of delay.
+
+(c) *Motion to dismiss petition*—(1) *Filing, contents, and responses thereto.* If the Administrator is of the opinion that the petition, or any portion thereof, does not substantially comply, in form or content, with the act or with the requirements of paragraph (b) of this section, or is not filed in good faith, or is filed for purposes of delay, the Administrator may, within thirty days after the service of the petition, file with the Hearing Clerk a motion to dismiss the petition, or any portion thereof, on one or more of the grounds stated in this paragraph. Such motion shall specify the grounds of objection to the petition and if based, in whole or in part, on an allegation of fact not appearing on the face of the petition, shall be accompanied by appropriate affidavits or documentary evidence substantiating such allegations of fact. The motion may be accompanied by a memorandum of law. Upon receipt of such motion, the Hearing Clerk shall cause a copy thereof to be served upon the petitioner, together with a notice stating that all papers to be submitted in opposition to such motion including any memorandum of law, must be filed by the petitioner with the hearing clerk not later than 20 days after the service of such notice upon the petitioner. Upon the expiration of the time specified in such notice, or upon receipt of such papers from the petitioner, the hearing clerk shall transmit all papers which have been filed in connection with the motion to the Judge for consideration.
+
+(2) *Decision by the Judge.* The Judge, after due consideration, shall render a decision upon the motion stating the reasons for his action. Such decision shall be in the form of an order and shall be filed with the hearing clerk who shall cause a copy thereof to be served upon the petitioner and a copy thereof to be transmitted to the Administrator. Any such order shall be final unless appealed pursuant to § 900.65: *Provided,* That within 20 days following the service upon the petitioner of a copy of the order of the Judge dismissing the petition, or any portion thereof, on the ground that it does not substantially comply in form and content with the act or with paragraph (b) of this section, the petitioner shall be permitted to file an amended petition.
+
+(3) *Oral argument.* Unless a written application for oral argument is filed by a party with the hearing clerk not later than the time fixed for filing papers in opposition to the motion, it shall be considered that the party does not desire oral argument. The granting of a request to make oral argument shall rest in the discretion of the Judge.
+
+[25 FR 5907, June 28, 1960, as amended at 38 FR 29798, Oct. 29, 1973; 67 FR 10829, Mar. 11, 2002]

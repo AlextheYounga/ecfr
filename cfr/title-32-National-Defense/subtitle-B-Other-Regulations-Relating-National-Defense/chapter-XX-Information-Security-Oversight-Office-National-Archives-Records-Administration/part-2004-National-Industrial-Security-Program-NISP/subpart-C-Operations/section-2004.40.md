@@ -1,0 +1,5 @@
+##### § 2004.40 Information system security. #####
+
+(a) The responsible CSA must authorize an entity information system before the entity can use it to process classified information. The CSA must use the most complete, accurate, and trustworthy information to make a timely, credible, and risk-based decision whether to authorize an entity's system.
+
+(b) The responsible CSA issues to entities guidance that establishes protection measures for entity information systems that process classified information. The responsible CSA must base the guidance on standards applicable to Federal systems, which must include the Federal Information Security Modernization Act of 2014 (FISMA), Public Law 113-283, and may include National Institute of Standards and Technology (NIST) publications, Committee on National Security Systems (CNSS) publications, and Federal information processing standards (FIPS).

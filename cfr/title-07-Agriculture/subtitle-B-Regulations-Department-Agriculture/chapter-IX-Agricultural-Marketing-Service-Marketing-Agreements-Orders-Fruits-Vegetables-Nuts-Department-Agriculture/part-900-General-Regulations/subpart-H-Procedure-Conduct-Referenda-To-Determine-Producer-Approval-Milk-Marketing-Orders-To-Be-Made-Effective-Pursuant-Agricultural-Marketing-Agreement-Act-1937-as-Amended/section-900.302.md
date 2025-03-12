@@ -1,0 +1,5 @@
+##### § 900.302 Associations eligible to vote. #####
+
+(a) Any association of producers, not previously determined to be a cooperative association may file an application for a determination as to whether it is a cooperative association and thus eligible to vote in a referendum. Such application shall be filed with the Administrator at least 60 days prior to the holding of the referendum: *Provided, however,* That the Administrator may permit the filing of an application in less than 60 days when, in the opinion of the Administrator, such filing would not delay the conduct of the referendum.
+
+(b) Within a time fixed by the referendum agent, but not later than 5 days prior to the final date for balloting, each cooperative association electing to vote shall, upon the request of the referendum agent, furnish to him a certified list showing the name and address of each producer for whom it claims the right to vote and the plant at which such person's milk was received during the representative period.

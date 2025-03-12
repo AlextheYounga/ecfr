@@ -8,7 +8,7 @@
 
 (3) This section applies to all employee exposure and medical records, and analyses thereof, made or maintained in any manner, including on an in-house of contractual (e.g., fee-for-service) basis. Each employer shall assure that the preservation and access requirements of this section are complied with regardless of the manner in which the records are made or maintained.
 
-(c) *Definitions* - (1) *Access* means the right and opportunity to examine and copy.
+(c) *Definitions*—(1) *Access* means the right and opportunity to examine and copy.
 
 (2) *Analysis using exposure or medical records* means any compilation of data or any statistical study based at least in part on information collected from individual employee exposure or medical records or information collected from health insurance claims records, provided that either the analysis has been reported to the employer or no further work is currently being done by the person responsible for preparing the analysis.
 
@@ -104,7 +104,7 @@
 
 (A) Background data to environmental (workplace) monitoring or measuring, such as laboratory reports and worksheets, need only be retained for one (1) year as long as the sampling results, the collection methodology (sampling plan), a description of the analytical and mathematical methods used, and a summary of other background data relevant to interpretation of the results obtained, are retained for at least thirty (30) years; and
 
-(B) Material safety data sheets and paragraph (c)(5)(iv) records concerning the identity of a substance or agent need not be retained for any specified period as long as some record of the identity (chemical name if known) of the substance or agent, where it was used, and when it was used is retained for at least thirty (30) years;/\>1 and
+(B) Material safety data sheets and paragraph (c)(5)(iv) records concerning the identity of a substance or agent need not be retained for any specified period as long as some record of the identity (chemical name if known) of the substance or agent, where it was used, and when it was used is retained for at least thirty (30) years;1 and
 
 1 Material safety data sheets must be kept for those chemicals currently in use that are effected by the Hazard Communication Standard in accordance with 29 CFR 1910.1200(g).
 
@@ -114,7 +114,7 @@
 
 (2) Nothing in this section is intended to mandate the form, manner, or process by which an employer preserves a record as long as the information contained in the record is preserved and retrievable, except that chest X-ray films shall be preserved in their original state.
 
-(e) *Access to records* - (1) *General.* (i) Whenever an employee or designated representative requests access to a record, the employer shall assure that access is provided in a reasonable time, place, and manner. If the employer cannot reasonably provide access to the record within fifteen (15) working days, the employer shall within the fifteen (15) working days apprise the employee or designated representative requesting the record of the reason for the delay and the earliest date when the record can be made available.
+(e) *Access to records*—(1) *General.* (i) Whenever an employee or designated representative requests access to a record, the employer shall assure that access is provided in a reasonable time, place, and manner. If the employer cannot reasonably provide access to the record within fifteen (15) working days, the employer shall within the fifteen (15) working days apprise the employee or designated representative requesting the record of the reason for the delay and the earliest date when the record can be made available.
 
 (ii) The employer may require of the requester only such information as should be readily known to the requester and which may be necessary to locate or identify the records being requested (e.g. dates and locations where the employee worked during the time period in question).
 
@@ -136,7 +136,7 @@
 
 (vi) Nothing in this section is intended to preclude employees and collective bargaining agents from collectively bargaining to obtain access to information in addition to that available under this section.
 
-(2) *Employee and designated representative access* - (i) *Employee exposure records.* (A) Except as limited by paragraph (f) of this section, each employer shall, upon request, assure the access to each employee and designated representative to employee exposure records relevant to the employee. For the purpose of this section, an exposure record relevant to the employee consists of:
+(2) *Employee and designated representative access*—(i) *Employee exposure records.* (A) Except as limited by paragraph (f) of this section, each employer shall, upon request, assure the access to each employee and designated representative to employee exposure records relevant to the employee. For the purpose of this section, an exposure record relevant to the employee consists of:
 
 (*1*) A record which measures or monitors the amount of a toxic substance or harmful physical agent to which the employee is or has been exposed;
 
@@ -280,7 +280,7 @@
 
 (i) *Appendices.* The information contained in appendices A and B to this section is not intended, by itself, to create any additional obligations not otherwise imposed by this section nor detract from any existing obligation.
 
-Appendix A to § 1910.1020 - Sample Authorization Letter for the Release of Employee Medical Record Information to a Designated Representative (Non-Mandatory)
+Appendix A to § 1910.1020—Sample Authorization Letter for the Release of Employee Medical Record Information to a Designated Representative (Non-Mandatory)
 
 I, \_\_\_\_\_ (full name of worker/patient), hereby authorize \_\_\_\_\_\_ (individual or organization holding the medical records) to release to \_\_\_\_\_\_ (individual or organization authorized to receive the medical information), the following medical information from my personal medical records:
 
@@ -292,7 +292,7 @@ but I do not give permission for any other use or re-disclosure of this informat
 
 Several extra lines are provided below so that you can place additional restrictions on this authorization letter if you want to. You may, however, leave these lines blank. On the other hand, you may want to (1) specify a particular expiration date for this letter (if less than one year); (2) describe medical information to be created in the future that you intend to be covered by this authorization letter; or (3) describe portions of the medical information in your records which you do not intend to be released as a result of this letter.)
 
-Full name of Employee or Legal RepresentativeSignature of Employee or Legal RepresentativeDate of SignatureAppendix B to § 1910.1020 - Availability of NIOSH Registry of Toxic Effects of Chemical Substances (RTECS) (Non-Mandatory)
+Full name of Employee or Legal RepresentativeSignature of Employee or Legal RepresentativeDate of SignatureAppendix B to § 1910.1020—Availability of NIOSH Registry of Toxic Effects of Chemical Substances (RTECS) (Non-Mandatory)
 
 The final regulation, 29 CFR 1910.20, applies to all employee exposure and medical records, and analyses thereof, of employees exposed to toxic substances or harmful physical agents (paragraph (b)(2)). The term *toxic substance or harmful physical agent* is defined by paragraph (c)(13) to encompass chemical substances, biological agents, and physical stresses for which there is evidence of harmful health effects. The regulation uses the latest printed edition of the National Institute for Occupational Safety and Health (NIOSH) Registry of Toxic Effects of Chemical Substances (RTECS) as one of the chief sources of information as to whether evidence of harmful health effects exists. If a substance is listed in the latest printed RTECS, the regulation applies to exposure and medical records (and analyses of these records) relevant to employees exposed to the substance.
 
@@ -310,6 +310,6 @@ The Introduction to the 1980 printed edition describes the RTECS as follows:
 
 The RTECS printed edition may be purchased from the Superintendent of Documents, U.S. Government Printing Office (GPO), Washington, DC 20402 (202-783-3238).
 
-Some employers may desire to subscribe to the quarterly update to the RTECS which is published in a microfiche edition. An annual subscription to the quarterly microfiche may be purchased from the GPO (Order the “Microfiche Edition, Registry of Toxic Effects of Chemical Substances”). Both the printed edition and the microfiche edition of RTECS are available for review at many university and public libraries throughout the country. The latest RTECS editions may also be examined at the OSHA Technical Data Center, Room N2439 - Rear, United States Department of Labor, 200 Constitution Avenue, NW., Washington, DC 20210 (202-523-9700), or at any OSHA Regional or Area Office (*See,* major city telephone directories under United States Government-Labor Department).
+Some employers may desire to subscribe to the quarterly update to the RTECS which is published in a microfiche edition. An annual subscription to the quarterly microfiche may be purchased from the GPO (Order the “Microfiche Edition, Registry of Toxic Effects of Chemical Substances”). Both the printed edition and the microfiche edition of RTECS are available for review at many university and public libraries throughout the country. The latest RTECS editions may also be examined at the OSHA Technical Data Center, Room N2439—Rear, United States Department of Labor, 200 Constitution Avenue, NW., Washington, DC 20210 (202-523-9700), or at any OSHA Regional or Area Office (*See,* major city telephone directories under United States Government-Labor Department).
 
 [53 FR 38163, Sept. 29, 1988; 53 FR 49981, Dec. 13, 1988, as amended at 54 FR 24333, June 7, 1989; 55 FR 26431, June 28, 1990; 61 FR 9235, Mar. 7, 1996. Redesignated at 61 FR 31430, June 20, 1996, as amended at 71 FR 16673, Apr. 3, 2006; 76 FR 33608, June 8, 2011]

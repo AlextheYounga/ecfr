@@ -5,5 +5,3 @@ When the Air Force is the proper agency to receive a claim pursuant to 28 CFR 14
 (a) The office of the Staff Judge Advocate of the Air Force installation nearest the location of the incident; or
 
 (b) The Claims and Tort Litigation Division, 1500 West Perimeter Road, Suite 1700, Joint Base Andrews, MD 20762.
-
-[81 FR 83695, Nov. 22, 2016]

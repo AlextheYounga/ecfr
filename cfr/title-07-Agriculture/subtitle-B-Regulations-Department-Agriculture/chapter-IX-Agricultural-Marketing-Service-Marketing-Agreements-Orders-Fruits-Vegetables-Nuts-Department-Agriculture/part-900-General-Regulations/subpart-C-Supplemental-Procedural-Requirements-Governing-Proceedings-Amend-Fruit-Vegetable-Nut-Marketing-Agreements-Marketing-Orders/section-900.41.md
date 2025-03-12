@@ -1,0 +1,3 @@
+##### § 900.41 Electronic document submission standards. #####
+
+To the extent practicable, all documents filed with the hearing clerk in a proceeding to amend a fruit, vegetable or nut marketing agreement or order shall also be submitted electronically to the Agricultural Marketing Service, Fruit and Vegetable Programs, USDA. All documents should reference the docket number of the proceeding. Instructions for electronic filing shall be provided at the amendatory formal rulemaking hearing and in each Federal Register publication regarding the amendatory proceeding.

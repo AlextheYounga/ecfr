@@ -1,0 +1,11 @@
+##### § 953.35 Accounting. #####
+
+(a) If, at the end of a fiscal period, the assessments collected are in excess of expenses incurred, such excess shall be accounted for in accordance with one of the following:
+
+(1) If such excess is not retained in a reserve, as provided in paragraph (a)(2) of this section, it shall be refunded proportionately and to the extent practical to the persons from whom it was collected: *Provided,* That each handler may be credited with such refund, for the operations of the following fiscal period, unless he demands payment thereof, in which event such proportionate refund shall be paid to him.
+
+(2) The committee, with the approval of the Secretary, may establish an operating monetary reserve, and may carry over into subsequent fiscal periods such excess in a reserve so established: *Provided,* That funds in the reserve shall not exceed approximately one fiscal period's expenses. Such reserve funds may be used by the committee (i) to defray expenses authorized pursuant to § 953.33, (ii) to defray expenses during any fiscal period, prior to the time assessment income is sufficient to cover such expenses, (iii) to cover deficits incurred during any fiscal period when assessment income is less than expenses, (iv) to defray expenses incurred during any period when any or all provisions of this part are suspended or are inoperative, and (v) to cover necessary expenses of liquidation in the event of termination of this part. Upon such termination, any funds not required to defray the necessary expenses of liquidation and after reasonable effort by the committee it is found impracticable to return such remaining funds to handlers from whom collected, such funds shall be disposed of in such manner as the Secretary may determine to be appropriate.
+
+(b) The committee may make recommendations to the Secretary for one or more of the members thereof, or any other person or persons to act as trustee or trustees for holding records, funds, or any other committee property during periods of suspension of this part, or during any period or periods when regulations are not in effect; and, if the Secretary determines such action appropriate, he may direct that such person or persons shall act as trustee or trustees for the committee.
+
+[33 FR 8504, June 8, 1968]

@@ -1,0 +1,3 @@
+##### § 900.356 Listing of qualified associations. #####
+
+A copy of each determination of qualification is furnished to the respective association. Copies are also filed in the Dairy Division, Agricultural Marketing Service, and with the Hearing Clerk, Office of the Secretary, U.S. Department of Agriculture, Washington, DC 20250, where they are available for public inspection. A list of qualified associations engaged in marketing milk under a particular milk marketing order is maintained at the office of the market administrator of the order.

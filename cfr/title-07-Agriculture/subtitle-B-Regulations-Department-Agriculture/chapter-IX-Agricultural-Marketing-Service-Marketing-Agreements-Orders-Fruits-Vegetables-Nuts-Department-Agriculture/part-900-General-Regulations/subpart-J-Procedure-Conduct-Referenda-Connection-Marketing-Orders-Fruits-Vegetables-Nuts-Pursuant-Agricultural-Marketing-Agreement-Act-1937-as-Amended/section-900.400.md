@@ -1,0 +1,3 @@
+##### § 900.400 General. #####
+
+Referenda for the purpose of ascertaining whether the issuance by the Secretary of Agriculture of a marketing order to regulate the handling of any fruit, vegetable, or nut, or product thereof, or the continuance or termination of such an order, is approved or favored by producers or processors shall, unless supplemented or modified by the Secretary, be conducted in accordance with this subpart.

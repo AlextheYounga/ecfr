@@ -1,0 +1,7 @@
+##### § 2004.38 Safeguarding and marking. #####
+
+(a) *Safeguarding approval.* (1) The CSA determines whether an entity's safeguarding capability meets requirements established in 32 CFR part 2001, and other applicable national level policy (*e.g.,* Atomic Energy Act for RD). If the CSA makes a favorable determination, the entity may store classified information at that level or below. If the determination is not favorable, the CSA must ensure that the entity does not possess classified information or does not possess information at the classification level denied or a higher level.
+
+(2) The CSA maintains records of its safeguarding capability determinations and, upon request from GCAs or entities, and as appropriate and to the extent authorized by law, verifies that it has made a favorable safeguarding determination for a given entity and at what level.
+
+(b) *Marking.* The GCA provides guidance to entities that meets requirements in 32 CFR 2001.22, 2001.23, 2001.24, and 2001.25, Derivative classification, Classification marking in the electronic environment, Additional requirements, and Declassification markings; ISOO's marking guide, *Marking Classified National Security Information;* and other applicable national level policy (*e.g.,* Atomic Energy Act for RD) for marking classified information and material.

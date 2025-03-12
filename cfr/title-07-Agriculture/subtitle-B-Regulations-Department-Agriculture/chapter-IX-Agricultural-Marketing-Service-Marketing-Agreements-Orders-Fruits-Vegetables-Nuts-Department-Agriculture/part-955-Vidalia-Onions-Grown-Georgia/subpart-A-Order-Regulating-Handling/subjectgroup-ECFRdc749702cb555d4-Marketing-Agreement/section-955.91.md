@@ -1,0 +1,3 @@
+##### § 955.91 Additional parties. #####
+
+After the effective date thereof, any handler may become a party to this agreement if a counterpart is executed by such handler and delivered to the Secretary. This agreement shall take effect as to such new contracting part at the time such counterpart is delivered to the Secretary, and the benefits, privileges, and immunities conferred by this agreement shall then be effective as to such new contracting party.

@@ -1,0 +1,5 @@
+##### § 946.33 Vacancies. #####
+
+To fill any vacancy occasioned by the failure of any person selected as a committee member or as an alternate to qualify, or in the event of the death, removal, resignation, or disqualification of any qualified member or alternate, a successor for his unexpired term may be selected by the Secretary from nominations made in the manner specified in § 946.32, or the Secretary may select such committee member or alternate from previously unselected nominees on the current nominee list from the district involved. If the names of nominees to fill any such vacancy are not made available to the Secretary within 30 days after such vacancy occurs, the Secretary may fill such vacancy without regard to nominations, which selection shall be made on the basis of the representation provided for in this subpart.
+
+[17 FR 2912, Apr. 4, 1952. Redesignated at 26 FR 12751, Dec. 30, 1961, and further redesignated at 37 FR 10917, June 1, 1972]

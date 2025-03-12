@@ -1,0 +1,3 @@
+##### § 993.71 Confidential information. #####
+
+All reports and records furnished or submitted by handlers to the committee which include data or information constituting a trade secret or disclosing of the trade position, financial condition, or business operations of the particular handler from whom received shall be received by, and at all times kept in the custody and under the control of one or more employees of the committee, who shall disclose such information to no person except the Secretary. Notwithstanding the above provisions of this section, information may be disclosed to the committee when reasonably necessary to enable the committee to carry out its functions under this subpart.

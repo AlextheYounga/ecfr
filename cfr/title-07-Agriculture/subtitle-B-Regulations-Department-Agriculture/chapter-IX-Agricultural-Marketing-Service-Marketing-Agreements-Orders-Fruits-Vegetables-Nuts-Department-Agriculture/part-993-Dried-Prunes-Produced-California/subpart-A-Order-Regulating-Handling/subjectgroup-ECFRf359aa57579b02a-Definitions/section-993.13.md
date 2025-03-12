@@ -1,0 +1,3 @@
+##### § 993.13 Handle. #####
+
+*Handle* means to receive, package, sell, consign, transport, or ship (except as a carrier of prunes owned by another person), or in any other way to place prunes in the current of the commerce within the area or from such area to any point outside thereof: *Provided,* That this term shall not include: (a) Sales or deliveries of prunes by a producer or dehydrator to a producer, dehydrator, or handler within the area; (b) the receiving of prunes by a producer or dehydrator from a producer or dehydrator; and (c) receipts, sales, or shipments of prunes already handled by another person other than pursuant to § 993.50(f).

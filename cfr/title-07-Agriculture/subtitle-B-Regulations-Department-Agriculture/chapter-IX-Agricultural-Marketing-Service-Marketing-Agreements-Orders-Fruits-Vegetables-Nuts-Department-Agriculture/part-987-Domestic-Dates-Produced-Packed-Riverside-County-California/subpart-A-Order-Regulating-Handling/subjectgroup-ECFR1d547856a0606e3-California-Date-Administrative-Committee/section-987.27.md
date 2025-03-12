@@ -1,0 +1,5 @@
+##### § 987.27 Alternates. #####
+
+An alternate for a member of the Committee shall act in the place and stead of such member during his absence or in the event of his removal, resignation, disqualification, or death, until a successor for such member's unexpired term has been selected and has qualified. In the event a member and his alternate are unable to attend a meeting of the Committee, such member or alternate, in that order, may designate an alternate from the group he represents to act in his place. If neither a member nor his alternate has designated an alternate as his replacement, or such designated alternate is unable to serve as the replacement, the chairman may, with the concurrence of a majority of the members including alternates acting as members, representing such group, designate an alternate from such group who is present at the meeting and is not acting as a member to act in the place and stead of the absent member.
+
+[27 FR 6818, July 19, 1962, as amended at 36 FR 15038, Aug. 12, 1971; 43 FR 4251, Feb. 1, 1978]

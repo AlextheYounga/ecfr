@@ -1,0 +1,3 @@
+##### § 987.58 Terminal date. #####
+
+Dates covered by §§ 987.55 and 987.56 shall, by September 30 of the subsequent crop year (a) in accordance with the applicable requirements of such sections, be disposed of, or be converted from their whole or pitted form; or (b) be set aside and marked for disposition pursuant to the applicable requirements of such sections. The Committee may prescribe, with the approval of the Secretary, such rules, regulations and safeguards, pursuant to § 987.59, as may be necessary to prevent dates covered by §§ 987.55 and 987.56 from interfering with the objectives of this part.

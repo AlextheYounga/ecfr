@@ -1,0 +1,3 @@
+##### § 987.36 Notice. #####
+
+The Committee shall give notice through newspapers having general circulation in the area of production or by other means of communication to producers and handlers of the contents of each marketing policy report submitted to the Secretary and of each report modifying such marketing policy. Copies of all such reports shall be maintained in the office of the Committee where they shall be available for examination by producers and handlers.

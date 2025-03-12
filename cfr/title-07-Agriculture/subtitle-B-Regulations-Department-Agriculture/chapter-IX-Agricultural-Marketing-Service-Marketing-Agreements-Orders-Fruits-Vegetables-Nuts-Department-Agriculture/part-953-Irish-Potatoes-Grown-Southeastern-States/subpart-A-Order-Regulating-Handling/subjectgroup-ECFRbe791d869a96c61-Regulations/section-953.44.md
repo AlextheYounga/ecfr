@@ -1,0 +1,11 @@
+##### § 953.44 Limitation of regulations. #####
+
+(a) Nothing contained in this subpart shall authorize any limitation of the shipment of potatoes for any of the following purposes:
+
+(1) Potatoes shipped for consumption by charitable institutions or for distribution by relief agencies;
+
+(2) Potatoes shipped for manufacturing or conversion into byproducts, except for manufacturing or conversion into specified products recommended by the committee for regulation and approved by the Secretary therefor; and
+
+(3) Upon recommendation of the committee and approval of the Secretary, potatoes shipped for livestock feed, export, or for other specified purposes.
+
+(b) The Secretary shall give prompt notice to the committee of any approval issued by him under the provisions of this section. The committee may prescribe adequate safeguards to prevent potatoes shipped for the purposes stated above from entering the current of interstate commerce or directly burdening, obstructing, or affecting such commerce contrary to the provisions of this subpart, which safeguards may include (1) a requirement by the committee that growers and handlers who ship potatoes pursuant to this section shall file applications to do so with the committee and (2) Federal-State inspection provided by § 953.50 and the payment of a pro rata share of expenses provided by § 953.34: *Provided,* That such inspection and payment of expenses may be required at different times than otherwise specified by the aforesaid sections. The committee may issue certificates of privilege for shipments of potatoes affected or to be affected under the provisions of this section and shall make a weekly report to the Secretary showing the number of certificates applied for, the number of bushels of potatoes covered by such applications, the number of certificates denied and granted, the number of bushels of potatoes shipped under duly issued certificates, and such other information as may be requested by the Secretary. The Secretary shall have the right to modify, change, alter, or rescind any safeguards prescribed and any certificates issued by the committee pursuant to the provisions of this section.

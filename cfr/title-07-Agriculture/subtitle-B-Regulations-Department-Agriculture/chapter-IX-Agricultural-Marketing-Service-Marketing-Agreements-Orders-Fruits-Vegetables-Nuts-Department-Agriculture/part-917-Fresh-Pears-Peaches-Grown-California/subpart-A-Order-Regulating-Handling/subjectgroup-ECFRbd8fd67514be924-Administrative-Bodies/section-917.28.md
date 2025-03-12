@@ -1,0 +1,5 @@
+##### § 917.28 Procedure for filling vacancies on committees. #####
+
+To fill any vacancy on the Control Committee or on any of the commodity committees occasioned by the failure of any person selected as a member or as an alternate member to qualify, or in the event of the death, removal, resignation, or disqualification of any member or alternate member, a successor for the unexpired term of such member or alternate shall be nominated and selected in the manner specified in §§ 917.17 through 917.19 and §§ 917.21 through 917.25. If the names of nominees to fill any such vacancy are not made available to the Secretary within a reasonable time after such vacancy occurs, the Secretary may fill such vacancy without regard to nominations on the basis of representation provided for in §§ 917.16 and 917.21.
+
+[41 FR 17528, Apr. 27, 1976, as amended at 56 FR 46369, Sept. 12, 1991; 76 FR 66605, Oct. 27, 2011]Effective Date Note:At 76 FR 66605, Oct. 27, 2011, § 917.28 was suspended indefinitely, effective Oct. 28, 2011.

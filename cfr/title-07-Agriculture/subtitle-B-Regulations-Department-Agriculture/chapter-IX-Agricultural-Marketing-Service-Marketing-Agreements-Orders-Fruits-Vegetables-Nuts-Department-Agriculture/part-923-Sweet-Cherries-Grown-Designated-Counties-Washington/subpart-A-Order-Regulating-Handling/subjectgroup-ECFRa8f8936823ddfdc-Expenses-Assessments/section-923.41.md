@@ -1,0 +1,9 @@
+##### § 923.41 Assessments. #####
+
+(a) Each person who first handles cherries shall, with respect to the cherries so handled by him, pay to the committee upon demand such person's pro rata share of the expenses which the Secretary finds will be incurred by the committee during each fiscal period. Each such person's share of such expenses shall be equal to the ratio between the total quantity of cherries handled by him as the first handler thereof during the applicable fiscal period and the total quantity of cherries so handled by all persons during the same fiscal period. The payment of assessments for the maintenance and functioning of the committee may be required under this part throughout the period it is in effect irrespective of whether particular provisions thereof are suspended or become inoperative.
+
+(b) The Secretary shall fix the rate of assessment to be paid by each such person. At any time during or after the fiscal period, the Secretary may increase the rate of assessment in order to secure sufficient funds to cover any later finding by the Secretary relative to the expenses which may be incurred. Such increase shall be applied to all cherries handled during the applicable fiscal period. In order to provide funds for the administration of the provisions of this part during the first part of a fiscal period before sufficient operating income is available from assessments on the current year's shipments, the committee may accept the payment of assessments in advance, and may also borrow money for such purpose.
+
+(c) If a handler does not pay any assessment within the time prescribed by the committee, the assessment may be subject to an interest or late payment charge, or both, as may be established by USDA as recommended by the committee.
+
+[22 FR 3835, June 1, 1957. Redesignated at 26 FR 12751, Dec. 30, 1961, as amended at 66 FR 58356, Nov. 21, 2001.]

@@ -1,5 +1,7 @@
 ##### § 1910.1024 Beryllium. #####
 
+Link to an amendment published at 83 FR 19949, May 7, 2018.
+
 (a) *Scope and application.* (1) This standard applies to occupational exposure to beryllium in all forms, compounds, and mixtures in general industry, except those articles and materials exempted by paragraphs (a)(2) and (a)(3) of this standard.
 
 (2) This standard does not apply to articles, as defined in the Hazard Communication standard (HCS) (§ 1910.1200(c)), that contain beryllium and that the employer does not process.

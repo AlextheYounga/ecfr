@@ -1,0 +1,15 @@
+##### § 987.112 Identification of dates. #####
+
+(a) *General.* Prior to applying the markings required by this section, each handler shall remove or delete from each container all former identifying marks which conflict with those applicable to the dates currently in the container. Dates of each outlet category shall be held, stored, or shiped in a manner to preserve their identity. Except as provided in paragraph (d) of this section, the markings on the containers shall be not less than five-sixteenths (5/16) inch in height on containers exceeding 5 pounds net weight and not less than one-eighth (1/8) inch in height on smaller containers. All markings shall be legible.
+
+(b) *DAC dates.* Each handler shall mark every shipping or storage container (excluding subcontainers) of DAC dates with his name or that of the distributor for whom the handler is packing, and the lot number. Under the supervision of the inspection service every container shall be marked with the date of inspection, the name or insignia of the inspection service, and the letters “DAC”.
+
+(c) *FP dates.* Each handler shall mark every shipping or storage container (excluding subcontainers) of FP dates with his name or that of the distributor for whom the handler is packing, and the lot number. Under the supervision of the inspection service every container shall be marked with the date of inspection, the name or insignia of the inspection service, and the letters “FP”.
+
+(d) *Export dates.* Each handler shall mark every shipping or storage container (excluding subcontainers) of Export dates with his name or that of the exporting firm, and the lot number. If the dates, including fieldrun dates with cull dates removed, are certified as meeting the grade and size requirements for export to approved countries other than Mexico, the containers shall be marked “Export”. Dry dates for processing packed for shipment to approved countries shall be marked “Export Dry”. Dates packed for export to Mexico shall be marked “Export Mexico”. However, “Export Mexico” shall be in letters not less than three-fourths (3/4) inch in height on containers exceeding 5 pounds net weight, and not less than one-eighth (1/8) inch in height on smaller containers. DAC dates and FP dates, marked pursuant to paragraphs (b) and (c), respectively, of this section, may be exported without change of marking.
+
+(e) *Product and utility dates.* Each handler shall mark every shipping or storage container (excluding subcontainers) of Product dates, or Utility dates when approved for use in products, with the lot number and, if for shipment outside the area of production, with the word *Product* or *Utility,* as applicable. Whenever a handler, or an approved date product manufacturer, utilizes a procedure that maintains the identity of the lot and assures that the dates will be used in products or exported, the Committee may waive the requirements of this paragraph for that lot.
+
+(f) *Unidentified dates.* If a handler loses the identity of any lot of dates previously inspected and certified as marketable dates, the certification as to such lot shall be void.
+
+[43 FR 28436, June 30, 1978]

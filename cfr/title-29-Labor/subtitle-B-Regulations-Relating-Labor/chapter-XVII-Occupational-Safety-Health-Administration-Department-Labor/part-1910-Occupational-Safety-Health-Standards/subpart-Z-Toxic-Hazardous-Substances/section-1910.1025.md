@@ -714,7 +714,7 @@ B. Additional information about the standard, its enforcement, and your employer
 
 Appendix C to § 1910.1025 - Medical Surveillance Guidelinesintroduction
 
-The primary purpose of the Occupational Safety and Health Act of 1970 is to assure, so far as possible, safe and healthful working conditions for every working man and woman. The occupational health standard for inorganic lead1/\> was promulgated to protect workers exposed to inorganic lead including metallic lead, all inorganic lead compounds and organic lead soaps.
+The primary purpose of the Occupational Safety and Health Act of 1970 is to assure, so far as possible, safe and healthful working conditions for every working man and woman. The occupational health standard for inorganic lead1 was promulgated to protect workers exposed to inorganic lead including metallic lead, all inorganic lead compounds and organic lead soaps.
 
 1 The term inorganic lead used throughout the medical surveillance appendices is meant to be synonymous with the definition of lead set forth in the standard.
 
@@ -957,4 +957,4 @@ This document outlines the medical monitoring program as defined by the occupati
 
 It is hoped that this review and discussion will give the physician a better understanding of the OSHA standard with the ultimate goal of protecting the health and well-being of the worker exposed to lead under his or her care.
 
-[43 FR 53007, Nov. 14, 1978]Editorial Note:For Federal Register citations affecting § 1910.1025, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[43 FR 53007, Nov. 14, 1978]Editorial Note:For Federal Register citations affecting § 1910.1025, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,0 +1,3 @@
+##### § 900.52b Amended pleadings. #####
+
+At any time before the close of the hearing the petition or answer may be amended, but the hearing shall, at the request of the adverse party, be adjourned or recessed for such reasonable time as the judge may determine to be necessary to protect the interests of the parties. Amendments subsequent to the first amendment or subsequent to the filing of an answer may be made only with leave of the judge or with the written consent of the adverse party.

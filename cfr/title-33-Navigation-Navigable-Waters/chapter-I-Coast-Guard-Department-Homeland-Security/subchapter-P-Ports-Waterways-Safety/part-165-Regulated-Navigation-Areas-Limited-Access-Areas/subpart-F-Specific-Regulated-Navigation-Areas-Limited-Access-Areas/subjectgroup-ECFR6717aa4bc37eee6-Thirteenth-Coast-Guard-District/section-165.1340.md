@@ -1,3 +1,11 @@
-##### § 165.1340 xxx #####
+##### § 165.1340 Safety Zone; Vigor Industrial Drydock Movement, West Duwamish Waterway; Seattle, WA. #####
 
-Link to an amendment published at 83 FR 14591, Apr. 5, 2018.
+(a) *Location.* The following area is a safety zone: All waters of the West Duwamish Waterway in Seattle, WA encompassed within the area created by connecting the following points: 47°35′04″ N, 122°21′30″ W thence westerly to 47°35′04″ N, 122°21′50″ W thence northerly to 47°35′19″ N, 122°21′50″ W thence easterly to 47°35′19″ N, 122°21′30″ W thence southerly to 47°35′04″ N, 122°21′30″ W.
+
+(b) *Regulations.* (1) In accordance with the general regulations in subpart C of this part, when a notice of enforcement has been issued, no person may enter or remain in the safety zone created by this section unless authorized by the Captain of the Port or a Designated Representative. See subpart C of this part for additional safety zone information and requirements. Vessel operators wishing to enter the zone during the enforcement period must request permission for entry by contacting the Joint Harbor Operation Center at 206-217-6001 or the Vessel Traffic Service Puget Sound on VHF channel 14.
+
+(2) In order to reach an agreeable timeframe that avoids impacts to treaty fishing activities, the Coast Guard will communicate with the Muckleshoot Tribe and Vigor Industrial once it receives notification from Vigor Industrial concerning drydock movements that require the enforcement of the safety zone. If agreement is not reached, the Coast Guard, as a federal trustee, will conduct consultation with the Muckleshoot Tribe to ensure Vigor movements will avoid Treaty impacts.
+
+(c) *Enforcement periods.* The safety zone described in paragraph (a) of this section will be enforced by the Captain of the Port only upon notice. Notice of enforcement by the Captain of the Port will be provided prior to execution of the drydock movement by all appropriate means, in accordance with § 165.7(a). Such means will include issuance of a notice of enforcement to be published in the Federal Register, Local Notice to Mariners, and Special Marine Information Broadcast.
+
+[USCG-2015-1061, 83 FR 14589, Apr. 5, 2018]

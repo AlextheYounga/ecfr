@@ -1,0 +1,3 @@
+##### § 987.25 Qualification. #####
+
+Each person selected as a member or alternate member of the Committee shall, prior to serving on the Committee, qualify by filing with the Secretary a written acceptance after receiving notice of his selection. Any member or alternate who, at the time of his selection, was a member of or employed by a member of the group which nominated him shall, upon ceasing to be such member or employee, become disqualified to serve further and his position on the Committee shall be deemed vacant.

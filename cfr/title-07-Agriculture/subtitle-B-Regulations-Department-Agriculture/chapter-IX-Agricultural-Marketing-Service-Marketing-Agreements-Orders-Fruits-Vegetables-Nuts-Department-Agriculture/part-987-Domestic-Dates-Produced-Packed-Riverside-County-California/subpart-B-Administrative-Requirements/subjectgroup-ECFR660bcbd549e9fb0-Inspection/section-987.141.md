@@ -1,0 +1,5 @@
+##### § 987.141 Inspection and certification. #####
+
+Each handler shall furnish, or cause the inspection service to furnish, to the Committee a copy of the inspection certificate issued to him on each lot of dates, and such certificate shall contain at least the following information: (a) The date of inspection; (b) the name of the handler; (c) the lot number and the applicable outlet category set forth in § 987.112a; (d) the variety of dates and weight of the lot; (e) the number and type of containers in the lot; and (f) if the dates (1) are other than field-run dates, a certification as to the grade of the dates and whether or not they meet the applicable grade, size, container, and identification requirements, or (2) are field-run dates, a certification showing the percentage by weight, of sound dates in the lot, and whether or not they meet the identification requirements for such dates.
+
+[43 FR 28437, June 30, 1978]

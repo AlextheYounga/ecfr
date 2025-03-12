@@ -1,0 +1,3 @@
+##### § 900.405 Ballots. #####
+
+The referendum agent and his appointees shall accept all ballots cast; but, should they, or any of them, deem that a ballot should be challenged for any reason, said agent or appointee shall endorse above his signature, on said ballot, a statement to the effect that such ballot was challenged, by whom challenged, the reasons therefor, the results of any investigations made with respect thereto, and the disposition thereof. Invalid ballots shall not be counted.

@@ -1,0 +1,3 @@
+##### § 900.201 Investigation and disposition of alleged violations. #####
+
+Whenever the Administrator has reason to believe that any handler has violated, or is violating, the provisions of any marketing order, he may institute such investigation and, after due notice to such handler, conduct such hearing in order to determine the facts as, in his opinion, are warranted. If, in the opinion of the Administrator and the General Counsel, the facts developed as a result of such investigation or hearing warrant such action, the General Counsel shall refer the matter to the Attorney General for appropriate action.

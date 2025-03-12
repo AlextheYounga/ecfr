@@ -17,5 +17,3 @@
 (c) *Authority to reduce, withdraw, and restore settlement authority.* Any superior settlement authority may reduce, withdraw, or restore delegated authority.
 
 (d) *Settlement negotiations.* A settlement authority may settle a claim filed in any amount for a sum within the delegated authority. Unsettled claims in excess of the delegated authority will be sent to the next highest level with settlement authority. Unsuccessful negotiations at one level do not bind higher authority.
-
-[81 FR 83695, Nov. 22, 2016]

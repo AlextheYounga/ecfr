@@ -1,0 +1,5 @@
+##### § 981.52 Holding requirement and delivery. #####
+
+Each handler shall, at all times, hold in his possession or under his control, in proper storage for the account of the Board, the quantity of almonds necessary to meet his reserve obligation less: (a) Any quantity which was disposed of by him pursuant to § 981.67; and (b) any quantity for which he is otherwise relieved by the Board of responsibility to so hold almonds. Upon demand of the Board reserve almonds shall be delivered to the Board f.o.b. handler's warehouse or point of storage, except that the Board shall not make such demand upon a handler with respect to reserve almonds for which he has agreed to undertake disposition pursuant to § 981.67. Any handler who does not act as agent for the Board in the disposition of reserve almonds shall be subject to the applicable inspection and certification requirements prescribed by the Board pursuant to § 981.67.
+
+[41 FR 26853, June 30, 1976]

@@ -1,0 +1,3 @@
+##### § 953.28 Obligations. #####
+
+Upon the removal or expiration of the term of office of any member of the committee, such member shall account for all receipts and disbursements and deliver all property and funds, together with all books and records, in his possession, to his successor in office or to a trustee designated by the Secretary and shall execute such assignments and other instruments as may be necessary or appropriate to vest in such successor or trustee full title to all the property, funds, and claims vested in such member pursuant to this section: *Provided,* That the provisions of this subpart shall apply to alternate members in possession of funds, property, books or records, or participate in the receipt or disbursement of funds.

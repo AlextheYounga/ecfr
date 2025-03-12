@@ -1,0 +1,17 @@
+##### § 987.157 Approved date product manufacturers. #####
+
+Any person, including date handlers, with facilities for converting dates into products may apply to the committee, by filing CDAC Form No. 3, for listing as an approved date product manufacturer.
+
+(a) The applicant shall indicate on such form: The products he/she intends to make; the quantity of dates he/she may use; the location of his/her facilities; and agree that all dates obtained for manufacturing into products shall be used for that purpose, none shall be resold or disposed of as whole or pitted dates.
+
+(b) As a condition to become an approved date product manufacturer: Each applicant is subject to an inspection of his/her manufacturing plant to verify that proper equipment to convert dates into products is in place and that the plant meets appropriate sanitation requirements; the applicant also shall agree to file a report of the disposition of each lot of dates on the Committee's CDAC Form No. 8 within 24 hours of the transaction, and to file an annual usage and inventory report on CDAC Form No. 4 by October 10 of each year; and an applicant who is also a handler under the order shall be in compliance with the order, including the assessment payment and reporting requirements.
+
+(c) The committee shall approve each such application on the basis of information furnished or its own investigation, and may revoke any approval for cause. The name and address of all approved manufacturers shall be placed on a list and made available to each date handler in Riverside County.
+
+(d) If an application is disapproved, the committee shall notify the applicant in writing of the reasons for disapproval, and allow the applicant an opportunity to respond to the disapproval. When the applicant has complied with all the qualification requirements to become an approved manufacturer, the committee shall notify the applicant in writing of such approval. The applicant's name shall be added to the list of approved manufacturers, which shall be made available to each date handler in Riverside County.
+
+(e) Each approved manufacturer of date products is required to renew their approved manufacturer status with the committee by submitting an updated CDAC Form No. 3 at the end of a crop year, but no later than October 10 of the new crop year. In addition, the approved manufacturer must continue to meet the other approved manufacturer qualification requirements.
+
+(f) In the event an approved date product manufacturer who is also a regulated date handler within the area of production does not remain in compliance with the order, or fails or refuses to submit reports or to pay assessments required by the committee, such date product manufacturer shall become ineligible to continue as an approved date product manufacturer. Prior to making a determination to remove a date product manufacturer from the approved date product manufacturer list, the committee shall notify such manufacturer in writing of its intention and the reasons for removal. The committee shall allow the date product manufacturer an opportunity to respond. In the event that a date product manufacturer's name has been removed from the list of approved date product manufacturers, a new application must be submitted to the committee and the applicant must await approval.
+
+[70 FR 11119, Mar. 8, 2005]

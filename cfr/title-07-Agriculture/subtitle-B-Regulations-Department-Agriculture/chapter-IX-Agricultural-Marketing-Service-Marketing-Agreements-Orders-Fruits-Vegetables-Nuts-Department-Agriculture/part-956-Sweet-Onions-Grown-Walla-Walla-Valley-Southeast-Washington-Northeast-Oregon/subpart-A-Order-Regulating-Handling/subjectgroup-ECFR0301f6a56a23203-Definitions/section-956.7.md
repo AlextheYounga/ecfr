@@ -1,0 +1,3 @@
+##### § 956.7 Registered handler. #####
+
+*Registered handler* means any person with adequate facilities for preparing Walla Walla Sweet Onions for commercial market, who has requested such registration and is so recorded by the committee, or any person who has access to such facilities and has recorded with the committee the ability and willingness to assume customary obligations of preparing Walla Walla Sweet Onions for commercial market. The committee may recommend, for approval of the Secretary, procedures with respect to handler registration.

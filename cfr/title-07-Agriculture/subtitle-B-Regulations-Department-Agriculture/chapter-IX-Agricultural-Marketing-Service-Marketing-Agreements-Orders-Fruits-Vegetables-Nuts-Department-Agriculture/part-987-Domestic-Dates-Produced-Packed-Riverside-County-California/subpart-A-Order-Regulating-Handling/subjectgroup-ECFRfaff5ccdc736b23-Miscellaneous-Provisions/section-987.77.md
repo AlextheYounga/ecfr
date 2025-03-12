@@ -1,0 +1,3 @@
+##### § 987.77 Personal liability. #####
+
+No member or alternate member of the committee, or any employee or agent thereof, shall be held personally responsible, either individually or jointly with others, in any way whatsoever, to any handler or any other person for errors in judgment, mistakes, or other acts either of commission or omission, as such member, alternate member, agent, or employee, except for acts of dishonesty, willful misconduct or gross negligence.

@@ -1,0 +1,3 @@
+##### § 925.10 Handle. #####
+
+*Handle* is synonymous with *ship* and means to pack, sell, deliver (including delivery to a storage facility), transport, or in any way to place grapes in the current of commerce within the production area or between the production area and any point outside thereof: *Provided,* That such term shall not include the sale of grapes on the vine and except when regulations are effective pursuant to § 925.52(a)(5) shall not include the transportation or delivery of grapes to a packinghouse within the production area for preparation for market.

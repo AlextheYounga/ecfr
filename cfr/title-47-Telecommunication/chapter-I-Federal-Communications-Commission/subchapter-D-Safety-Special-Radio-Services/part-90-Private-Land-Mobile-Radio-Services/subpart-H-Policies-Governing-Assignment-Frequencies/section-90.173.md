@@ -1,5 +1,7 @@
 ##### § 90.173 Policies governing the assignment of frequencies. #####
 
+Link to an amendment published at 83 FR 19981, May 7, 2018.
+
 (a) Except as indicated in paragraph (j) of this section, the frequencies which ordinarily may be assigned to stations in the services governed by this part are listed in subparts B, C and F of this part. Except as otherwise specifically provided in this part, frequencies assigned to land mobile stations are available on a shared basis only and will not be assigned for the exclusive use of any licensee.
 
 (b) All applicants and licensees shall cooperate in the selection and use of frequencies in order to reduce interference and make the most effective use of the authorized facilities. Licensees of stations suffering or causing harmful interference are expected to cooperate and resolve this problem by mutually satisfactory arrangements. If the licensees are unable to do so, the Commission may impose restrictions including specifying the transmitter power, antenna height, or area or hours of operation of the stations concerned. Further the use of any frequency at a given geographical location may be denied when, in the judgment of the Commission, its use in that location is not in the public interest; the use of any frequency may be restricted as to specified geographical areas, maximum power, or such other operating conditions, contained in this part or in the station authorization.

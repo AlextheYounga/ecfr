@@ -1,0 +1,3 @@
+##### § 948.28 Policy. #####
+
+Any producer whose potatoes have been adversely affected by acts beyond the control or reasonable expectation of a prudent grower and who, by reason of any regulation issued pursuant to this part, is or will be prevented from shipping or having shipped during the then current marketing season, or a specific portion thereof, as large a proportion of his potato crop as the average proportion shipped or to be shipped during comparable portions of the season by all producers in his immediate area of production, may apply to the committee for exemptions from such regulations for the purpose of obtaining equitable treatment under such regulations.

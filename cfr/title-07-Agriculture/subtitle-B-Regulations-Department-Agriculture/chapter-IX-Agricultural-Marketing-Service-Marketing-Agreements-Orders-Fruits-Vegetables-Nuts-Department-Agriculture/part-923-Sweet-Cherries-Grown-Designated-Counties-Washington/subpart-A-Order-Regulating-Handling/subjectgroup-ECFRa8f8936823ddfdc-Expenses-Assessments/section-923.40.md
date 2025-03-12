@@ -1,0 +1,3 @@
+##### § 923.40 Expenses. #####
+
+The committee is authorized to incur such expenses as the Secretary finds are reasonable and likely to be incurred by the committee to enable it to exercise its powers and perform its duties in accordance with the provisions of this part during each fiscal period. The funds to cover such expenses shall be acquired by the levying of assessments as prescribed in § 923.41.
