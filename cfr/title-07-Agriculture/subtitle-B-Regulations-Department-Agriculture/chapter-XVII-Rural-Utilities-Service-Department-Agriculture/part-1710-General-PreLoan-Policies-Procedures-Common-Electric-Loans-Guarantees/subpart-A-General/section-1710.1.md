@@ -1,5 +1,7 @@
 ##### § 1710.1 General statement. #####
 
+Link to an amendment published at 87 FR 73436, Nov. 30, 2022.
+
 (a) This part establishes general and pre-loan policies and requirements that apply to both insured and guaranteed loans to finance the construction and improvement of electric facilities in rural areas, including generation, transmission, and distribution facilities.
 
 (b) Additional pre-loan policies, procedures, and requirements that apply specifically to guaranteed and/or insured loans are set forth elsewhere:

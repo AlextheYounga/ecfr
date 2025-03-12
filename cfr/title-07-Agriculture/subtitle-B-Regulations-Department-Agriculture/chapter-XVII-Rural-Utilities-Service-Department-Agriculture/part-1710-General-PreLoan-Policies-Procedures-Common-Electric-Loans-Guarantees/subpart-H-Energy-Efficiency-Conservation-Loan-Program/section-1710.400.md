@@ -1,5 +1,7 @@
 ##### § 1710.400 Purpose. #####
 
+Link to an amendment published at 87 FR 73438, Nov. 30, 2022.
+
 (a) This subpart establishes policies and requirements that apply to loans and loan guarantees to finance Energy Efficiency and Conservation programs (EE Programs) undertaken by an eligible utility system to finance Demand side management, energy efficiency and conservation, or on-grid and off-grid renewable energy system programs that will result in the better management of their system load growth, a more beneficial load profile, or greater optimization of the use of alternative energy resources in their service territory. These programs may be considered an essential utility service.
 
 (b)(1) The goals of an eligible Energy Efficiency project eligible for funding under this program and Subpart H include:

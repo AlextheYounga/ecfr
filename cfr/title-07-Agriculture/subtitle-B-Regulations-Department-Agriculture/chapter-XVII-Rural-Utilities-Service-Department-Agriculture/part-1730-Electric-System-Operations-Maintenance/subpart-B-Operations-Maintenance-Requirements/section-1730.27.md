@@ -1,5 +1,7 @@
 ##### § 1730.27 Vulnerability and Risk Assessment (VRA). #####
 
+Link to an amendment published at 87 FR 73443, Nov. 30, 2022.
+
 (a) Each borrower with an approved RUS electric program loan as of October 12, 2004 shall perform an initial VRA of its electric system no later than July 12, 2005. Additional or periodic VRA's may be necessary if significant changes occur in the borrower's system, and records of such additional assessments shall be maintained by the borrower.
 
 (b) Each applicant that has submitted an application for an RUS electric program loan or grant prior to October 12, 2004, but whose application has not been approved by RUS by such date, shall perform an initial VRA of its electric system in accordance with § 1730.27(a).

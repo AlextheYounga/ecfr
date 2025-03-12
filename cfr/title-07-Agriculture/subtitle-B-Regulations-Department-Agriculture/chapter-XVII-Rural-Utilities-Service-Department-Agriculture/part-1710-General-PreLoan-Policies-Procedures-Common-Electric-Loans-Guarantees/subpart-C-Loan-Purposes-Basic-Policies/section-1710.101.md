@@ -1,5 +1,7 @@
 ##### § 1710.101 Types of eligible borrowers. #####
 
+Link to an amendment published at 87 FR 73436, Nov. 30, 2022.
+
 (a) RUS makes loans to corporations, states, territories, and subdivisions and agencies thereof; municipalities; people's utility districts; and cooperative, nonprofit, limited-dividend, or mutual associations that provide or propose to provide:
 
 (1) The retail electric service needs of rural areas, or

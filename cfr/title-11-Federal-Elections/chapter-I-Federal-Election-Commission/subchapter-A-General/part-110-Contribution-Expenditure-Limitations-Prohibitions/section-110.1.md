@@ -1,7 +1,5 @@
 ##### § 110.1 Contributions by persons other than multicandidate political committees (52 U.S.C. 30116(a)(1)). #####
 
-Link to an amendment published at 87 FR 54863, Sept. 8, 2022.
-
 (a) *Scope.* This section applies to all contributions made by any person as defined in 11 CFR 100.10, except multicandidate political committees as defined in 11 CFR 100.5(e)(3) or entities and individuals prohibited from making contributions under 11 CFR 110.20 and 11 CFR parts 114 and 115.
 
 (b) *Contributions to candidates; designations; and redesignations.* (1) No person shall make contributions to any candidate, his or her authorized political committees or agents with respect to any election for Federal office that, in the aggregate, exceed $2,000.
@@ -12,7 +10,7 @@ Link to an amendment published at 87 FR 54863, Sept. 8, 2022.
 
 (iii) In every odd numbered year, the Commission will publish in the Federal Register the amount of the contribution limitation in effect and place such information on the Commission's Web site.
 
-(2) For purposes of this section, *with respect to any election* means -
+(2) For purposes of this section, *with respect to any election* means—
 
 (i) In the case of a contribution designated in writing by the contributor for a particular election, the election so designated. Contributors to candidates are encouraged to designate their contributions in writing for particular elections. *See* 11 CFR 110.1(b)(4).
 
@@ -30,11 +28,9 @@ If the candidate is not a candidate in the general election, all contributions m
 
 (ii) In order to determine whether there are net debts outstanding from a particular election, the treasurer of the candidate's authorized political committee shall calculate net debts outstanding as of the date of the election. For purposes of this section, *net debts outstanding* means the total amount of unpaid debts and obligations incurred with respect to an election, including the estimated cost of raising funds to liquidate debts incurred with respect to the election and, if the candidate's authorized committee terminates or if the candidate will not be a candidate for the next election, estimated necessary costs associated with termination of political activity, such as the costs of complying with the post-election requirements of the Act and other necessary administrative costs associated with winding down the campaign, including office space rental, staff salaries and office supplies, less the sum of:
 
-(A) The total cash on hand available to pay those debts and obligations, including: currency; balances on deposit in banks, savings and loan institutions, and other depository institutions; traveler's checks; certificates of deposit; treasury bills; and any other committee investments valued at fair market value;
+(A) The total cash on hand available to pay those debts and obligations, including: currency; balances on deposit in banks, savings and loan institutions, and other depository institutions; traveler's checks; certificates of deposit; treasury bills; and any other committee investments valued at fair market value; and
 
-(B) The total amounts owed to the candidate or political committee in the form of credits, refunds of deposits, returns, or receivables, or a commercially reasonable amount based on the collectibility of those credits, refunds, returns, or receivables; and
-
-(C) The amount of personal loans, as defined in 11 CFR 116.11(a), that in the aggregate exceed $250,000 per election.
+(B) The total amounts owed to the candidate or political committee in the form of credits, refunds of deposits, returns, or receivables, or a commercially reasonable amount based on the collectibility of those credits, refunds, returns, or receivables.
 
 (iii) The amount of the net debts outstanding shall be adjusted as additional funds are received and expenditures are made. The candidate and his or her authorized political committee(s) may accept contributions made after the date of the election if:
 
@@ -46,7 +42,7 @@ If the candidate is not a candidate in the general election, all contributions m
 
 (iv) This paragraph shall not be construed to prevent a candidate who is a candidate in the general election or his or her authorized political committee(s) from paying primary election debts and obligations with funds which represent contributions made with respect to the general election.
 
-(4) For purposes of this section, a contribution shall be considered to be designated in writing for a particular election if -
+(4) For purposes of this section, a contribution shall be considered to be designated in writing for a particular election if—
 
 (i) The contribution is made by check, money order, or other negotiable instrument which clearly indicates the particular election with respect to which the contribution is made;
 
@@ -54,7 +50,7 @@ If the candidate is not a candidate in the general election, all contributions m
 
 (iii) The contribution is redesignated in accordance with 11 CFR 110.1(b)(5).
 
-(5)(i) The treasurer of an authorized political committee may request a written redesignation of a contribution by the contributor for a different election if -
+(5)(i) The treasurer of an authorized political committee may request a written redesignation of a contribution by the contributor for a different election if—
 
 (A) The contribution was designated in writing for a particular election, and the contribution, either on its face or when aggregated with other contributions from the same contributor for the same election, exceeds the limitation on contributions set forth in 11 CFR 110.1(b)(1);
 
@@ -64,7 +60,7 @@ If the candidate is not a candidate in the general election, all contributions m
 
 (D) The contribution was not designated in writing for a particular election, and the contribution was received after the date of an election for which there are net debts outstanding on the date the contribution is received.
 
-(ii)(A) A contribution shall be considered to be redesignated for another election if -
+(ii)(A) A contribution shall be considered to be redesignated for another election if—
 
 (*1*) The treasurer of the recipient authorized political committee requests that the contributor provide a written redesignation of the contribution and informs the contributor that the contributor may request the refund of the contribution as an alternative to providing a written redesignation; and
 
@@ -112,7 +108,7 @@ If the candidate is not a candidate in the general election, all contributions m
 
 (iii) In every odd-numbered year, the Commission will publish in the Federal Register the amount of the contribution limitation in effect and place such information on the Commission's Web site.
 
-(2) For purposes of this section, *political committees established and maintained by a national political party* means -
+(2) For purposes of this section, *political committees established and maintained by a national political party* means—
 
 (i) The national committee;
 
@@ -128,11 +124,11 @@ If the candidate is not a candidate in the general election, all contributions m
 
 (d) *Contributions to other political committees.* No person shall make contributions to any other political committee in any calendar year which, in the aggregate, exceed $5,000.
 
-(e) *Contributions by partnerships.* A contribution by a partnership shall be attributed to the partnership and to each partner -
+(e) *Contributions by partnerships.* A contribution by a partnership shall be attributed to the partnership and to each partner—
 
 (1) In direct proportion to his or her share of the partnership profits, according to instructions which shall be provided by the partnership to the political committee or candidate; or
 
-(2) By agreement of the partners, as long as -
+(2) By agreement of the partners, as long as—
 
 (i) Only the profits of the partners to whom the contribution is attributed are reduced (or losses increased), and
 
@@ -140,7 +136,7 @@ If the candidate is not a candidate in the general election, all contributions m
 
 A contribution by a partnership shall not exceed the limitations on contributions in 11 CFR 110.1 (b), (c), and (d). No portion of such contribution may be made from the profits of a corporation that is a partner.
 
-(f) *Contributions to candidates for more than one Federal office.* If an individual is a candidate for more than one Federal office, a person may make contributions which do not exceed $2,000 to the candidate, or his or her authorized political committees for each election for each office, as long as -
+(f) *Contributions to candidates for more than one Federal office.* If an individual is a candidate for more than one Federal office, a person may make contributions which do not exceed $2,000 to the candidate, or his or her authorized political committees for each election for each office, as long as—
 
 (1) Each contribution is designated in writing by the contributor for a particular office;
 
@@ -148,7 +144,7 @@ A contribution by a partnership shall not exceed the limitations on contribution
 
 (3) No principal campaign committee or other authorized political committee of that candidate for one election for one Federal office transfers funds to, loans funds to, makes contributions to, or makes expenditures on behalf of another principal campaign committee or other authorized political committee of that candidate for another election for another Federal office, except as provided in 11 CFR 110.3(c)(4).
 
-(g) *Contributions by limited liability companies (“LLC”)* - (1) *Definition.* A limited liability company is a business entity that is recognized as a limited liability company under the laws of the State in which it is established.
+(g) *Contributions by limited liability companies (“LLC”)*—(1) *Definition.* A limited liability company is a business entity that is recognized as a limited liability company under the laws of the State in which it is established.
 
 (2) A contribution by an LLC that elects to be treated as a partnership by the Internal Revenue Service pursuant to 26 CFR 301.7701-3, or does not elect treatment as either a partnership or a corporation pursuant to that section, shall be considered a contribution from a partnership pursuant to 11 CFR 110.1(e).
 
@@ -158,7 +154,7 @@ A contribution by a partnership shall not exceed the limitations on contribution
 
 (5) An LLC that makes a contribution pursuant to paragraph (g)(2) or (g)(4) of this section shall, at the time it makes the contribution, provide information to the recipient committee as to how the contribution is to be attributed, and affirm to the recipient committee that it is eligible to make the contribution.
 
-(h) *Contributions to committees supporting the same candidate.* A person may contribute to a candidate or his or her authorized committee with respect to a particular election and also contribute to a political committee which has supported, or anticipates supporting, the same candidate in the same election, as long as -
+(h) *Contributions to committees supporting the same candidate.* A person may contribute to a candidate or his or her authorized committee with respect to a particular election and also contribute to a political committee which has supported, or anticipates supporting, the same candidate in the same election, as long as—
 
 (1) The political committee is not the candidate's principal campaign committee or other authorized political committee or a single candidate committee;
 
@@ -182,7 +178,7 @@ A contribution by a partnership shall not exceed the limitations on contribution
 
 (3)(i) If a contribution to a candidate or political committee, either on its face or when aggregated with other contributions from the same contributor, exceeds the limitations on contributions set forth in 11 CFR 110.1 (b), (c) or (d), as appropriate, the treasurer of the recipient political committee may ask the contributor whether the contribution was intended to be a joint contribution by more than one person.
 
-(ii)(A) A contribution shall be considered to be reattributed to another contributor if -
+(ii)(A) A contribution shall be considered to be reattributed to another contributor if—
 
 (*1*) The treasurer of the recipient political committee asks the contributor whether the contribution is intended to be a joint contribution by more than one person, and informs the contributor that he or she may request the return of the excessive portion of the contribution if it is not intended to be a joint contribution; and
 

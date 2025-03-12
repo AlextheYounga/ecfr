@@ -1,5 +1,7 @@
 ##### § 1717.855 Application contents: Advance approval - 100 percent private financing of distribution, subtransmission and headquarters facilities, and certain other community infrastructure. #####
 
+Link to an amendment published at 87 FR 73442, Nov. 30, 2022.
+
 Applications for a lien accommodation or subordination that meet the requirements of § 1717.854 must include the following information and documents:
 
 (a) A certification by an authorized official of the borrower that the borrower and, as applicable, the loan are in compliance with all conditions set forth in § 1717.854(c) and all applicable provisions of §§ 1717.852 and 1717.853;

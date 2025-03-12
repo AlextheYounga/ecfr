@@ -1,5 +1,7 @@
 ##### § 1717.616 Sale, lease, or transfer of capital assets. #####
 
+Link to an amendment published at 87 FR 73440, Nov. 30, 2022.
+
 A borrower may, without the prior approval of RUS, sell, lease, or transfer any capital asset if the following conditions are met:
 
 (a) The borrower is not in default;

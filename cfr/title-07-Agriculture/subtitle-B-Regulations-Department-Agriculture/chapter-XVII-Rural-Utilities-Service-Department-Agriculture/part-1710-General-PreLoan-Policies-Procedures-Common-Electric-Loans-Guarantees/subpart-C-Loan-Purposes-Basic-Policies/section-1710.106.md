@@ -1,5 +1,7 @@
 ##### § 1710.106 Uses of loan funds. #####
 
+Link to an amendment published at 87 FR 73436, Nov. 30, 2022.
+
 (a) Funds from loans made or guaranteed by RUS may be used to finance:
 
 (1) *Distribution facilities.* (i) The construction of new distribution facilities or systems, the cost of system improvements and removals less salvage value, the cost of ordinary replacements and removals less salvage value, needed to meet load growth requirements, improve the quality of service, or replace existing facilities.

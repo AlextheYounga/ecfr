@@ -1,5 +1,7 @@
 ##### § 1710.2 Definitions and rules of construction. #####
 
+Link to an amendment published at 87 FR 73436, Nov. 30, 2022.
+
 (a) *Definitions.* For the purpose of this part, the following terms shall have the following meanings:
 
 *Administrator* means the Administrator of RUS or his or her designee.

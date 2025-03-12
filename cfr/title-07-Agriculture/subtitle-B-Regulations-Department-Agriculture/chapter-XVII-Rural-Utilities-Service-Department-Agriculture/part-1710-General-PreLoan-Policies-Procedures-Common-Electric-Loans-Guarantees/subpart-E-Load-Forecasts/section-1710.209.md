@@ -1,5 +1,7 @@
 ##### § 1710.209 Requirements for load forecast work plans. #####
 
+Link to an amendment published at 87 FR 73438, Nov. 30, 2022.
+
 (a) In addition to the load forecast required under §§ 1710.202 and 1710.203, any power supply borrower with a total utility plant of $500 million or more and any distribution borrower with a total utility plant of $500 million or more must maintain a load forecast work plan. RUS borrowers that are members of a power supply borrower with a total utility plant of $500 million or more must cooperate in the preparation of and submittal of the load forecast work plan of their power supply borrower.
 
 (b) A load forecast work plan establishes the process for the preparation and maintenance of a comprehensive database for the development of the borrower's load forecast, and load forecast updates. The load forecast work plan is intended to develop and maintain a process that will result in load forecasts that will meet the borrowers' own needs and the requirements of this subpart. A work plan represents a commitment by a power supply borrower and its members, or by a large unaffiliated distribution borrower, that all parties concerned will prepare their load forecasts in a timely manner pursuant to the load forecast work plan and they will modify the load forecast work plan as needed to address changing circumstances or enhance the usefulness of the load forecast work plan.

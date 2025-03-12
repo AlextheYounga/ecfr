@@ -1,5 +1,7 @@
 ##### § 1710.105 State regulatory approvals. #####
 
+Link to an amendment published at 87 FR 73436, Nov. 30, 2022.
+
 (a) In States where a borrower is required to obtain approval of a project or its financing from a state regulatory authority, RUS may require that such approvals be obtained, if feasible for the borrower to do so, before the following types of loans are approved by RUS:
 
 (1) Loans requiring an Environmental Impact Statement;

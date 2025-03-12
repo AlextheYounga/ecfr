@@ -1,5 +1,7 @@
 ##### § 1710.404 Definitions. #####
 
+Link to an amendment published at 87 FR 73438, Nov. 30, 2022.
+
 For the purpose of this subpart, the following terms shall have the following meanings. In the event there is overlap or conflict between the definitions contained in § 1710.2, the definitions set forth below will apply for loans made or guaranteed pursuant to this subpart.
 
 *British thermal unit (Btu)* means the quantity of heat required to raise one pound of water one degree Fahrenheit.

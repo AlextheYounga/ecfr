@@ -1,5 +1,7 @@
 ##### § 1710.206 Requirements for load forecasts prepared pursuant to a load forecast work plan. #####
 
+Link to an amendment published at 87 FR 73438, Nov. 30, 2022.
+
 (a) *Contents of load forecasts prepared under a load forecast work plan.* In addition to the minimum requirements for load forecasts under § 1710.205, load forecasts developed and submitted by borrowers required to have a load forecast work plan shall include the following:
 
 (1) Scope of the load forecast. The narrative shall address the overall approach, time periods, and expected internal and external uses of the forecast. Examples of internal uses include providing information for developing or monitoring demand side management programs, supply resource planning, load flow studies, wholesale power marketing, retail marketing, cost of service studies, rate policy and development, financial planning, and evaluating the potential effects on electric revenues caused by competition from alternative energy sources or other electric suppliers. Examples of external uses include meeting state and Federal regulatory requirements, obtaining financial ratings, and participation in reliability council, power pool, regional transmission group, power supplier or member system forecasting and planning activities.

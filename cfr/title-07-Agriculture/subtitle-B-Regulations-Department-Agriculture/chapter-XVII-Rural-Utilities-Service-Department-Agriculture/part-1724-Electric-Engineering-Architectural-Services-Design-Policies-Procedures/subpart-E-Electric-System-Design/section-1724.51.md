@@ -1,5 +1,7 @@
 ##### § 1724.51 Design requirements. #####
 
+Link to an amendment published at 87 FR 73442, Nov. 30, 2022.
+
 The provisions of this section apply to all borrower electric system facilities regardless of the source of financing.
 
 (a) *Distribution.* All distribution facilities must conform to the applicable RUS construction standards and utilize RUS accepted materials.

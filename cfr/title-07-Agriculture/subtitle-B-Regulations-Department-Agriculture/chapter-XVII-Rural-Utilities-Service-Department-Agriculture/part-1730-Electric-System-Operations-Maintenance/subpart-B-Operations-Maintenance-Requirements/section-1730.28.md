@@ -1,5 +1,7 @@
 ##### § 1730.28 Emergency Restoration Plan (ERP). #####
 
+Link to an amendment published at 87 FR 73443, Nov. 30, 2022.
+
 (a) Each borrower with an approved RUS electric program loan as of October 12, 2004 shall have a written ERP no later than January 12, 2006. The ERP should be developed by the borrower individually or in conjunction with other electric utilities (not all having to be RUS borrowers) through the borrower's unique knowledge of its system, prudent utility practices (which includes development of an ERP) and the borrower's completed VRA. If a joint electric utility ERP is developed, each RUS borrower shall prepare an addendum to meet the requirements of paragraphs (e), (f), and (g) of this section as it relates to its system.
 
 (b) Each applicant that has submitted an application for an RUS electric program loan or grant prior to October 12, 2004, but whose application has not been approved by RUS by such date, shall have a written ERP in accordance with § 1730.28(a).

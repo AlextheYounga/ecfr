@@ -1,5 +1,7 @@
 ##### § 1710.205 Minimum requirements for all load forecasts. #####
 
+Link to an amendment published at 87 FR 73437, Nov. 30, 2022.
+
 (a) *Contents of load forecast.* All load forecasts submitted by borrowers for approval must include:
 
 (1) A narrative describing the borrower's system, service territory, and consumers;
