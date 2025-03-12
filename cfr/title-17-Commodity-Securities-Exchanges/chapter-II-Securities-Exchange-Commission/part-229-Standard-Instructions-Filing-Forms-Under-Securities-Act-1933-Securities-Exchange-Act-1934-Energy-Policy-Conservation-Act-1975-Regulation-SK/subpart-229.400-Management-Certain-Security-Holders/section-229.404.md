@@ -1,5 +1,7 @@
 ##### § 229.404 (Item 404) Transactions with related persons, promoters and certain control persons. #####
 
+Link to an amendment published at 87 FR 73137, Nov. 28, 2022.
+
 (a) *Transactions with related persons.* Describe any transaction, since the beginning of the registrant's last fiscal year, or any currently proposed transaction, in which the registrant was or is to be a participant and the amount involved exceeds $120,000, and in which any related person had or will have a direct or indirect material interest. Disclose the following information regarding the transaction:
 
 (1) The name of the related person and the basis on which the person is a related person.

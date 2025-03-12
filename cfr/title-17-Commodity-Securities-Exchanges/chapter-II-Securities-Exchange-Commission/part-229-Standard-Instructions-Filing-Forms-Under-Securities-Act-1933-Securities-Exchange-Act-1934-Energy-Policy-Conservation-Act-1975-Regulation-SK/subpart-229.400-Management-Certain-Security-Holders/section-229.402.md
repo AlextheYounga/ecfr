@@ -1,5 +1,7 @@
 ##### § 229.402 (Item 402) Executive compensation. #####
 
+Link to an amendment published at 87 FR 73136, Nov. 28, 2022.
+
 (a) *General* - (1) *Treatment of foreign private issuers.* A foreign private issuer will be deemed to comply with this Item if it provides the information required by Items 6.B and 6.E.2 of Form 20-F (17 CFR 249.220f), with more detailed information provided if otherwise made publicly available or required to be disclosed by the issuer's home jurisdiction or a market in which its securities are listed or traded.
 
 (2) *All compensation covered.* This Item requires clear, concise and understandable disclosure of all plan and non-plan compensation awarded to, earned by, or paid to the named executive officers designated under paragraph (a)(3) of this Item, and directors covered by paragraph (k) of this Item, by any person for all services rendered in all capacities to the registrant and its subsidiaries, unless otherwise specifically excluded from disclosure in this Item. All such compensation shall be reported pursuant to this Item, even if also called for by another requirement, including transactions between the registrant and a third party where a purpose of the transaction is to furnish compensation to any such named executive officer or director. No amount reported as compensation for one fiscal year need be reported in the same manner as compensation for a subsequent fiscal year; amounts reported as compensation for one fiscal year may be required to be reported in a different manner pursuant to this Item.

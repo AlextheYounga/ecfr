@@ -1,6 +1,6 @@
 ##### § 1112.15 When can a third party conformity assessment body apply for CPSC acceptance for a particular CPSC rule or test method? #####
 
-Link to an amendment published at 87 FR 72659, Nov. 25, 2022.
+Link to an amendment published at 87 FR 72659, Nov. 25, 2022.Link to an amendment published at 87 FR 73189, Nov. 28, 2022.
 
 (a) Once the CPSC publishes the requirements for accreditation to a particular CPSC rule or test method, a third party conformity assessment body may apply to the CPSC for acceptance to that scope of accreditation. An application may be made for acceptance of accreditation to more than one CPSC rule or test method. Once accepted by the CPSC, a third party conformity assessment body may apply at any time to expand the scope of its acceptance to include additional CPSC rules or test methods. A third party conformity assessment body may only issue test results for purposes of section 14 of the CPSA that fall within a scope for which the CPSC has accepted the third party conformity assessment body's accreditation.
 
@@ -102,7 +102,7 @@ Link to an amendment published at 87 FR 72659, Nov. 25, 2022.
 
 (i) CPSC Test Method CPSC-CH-C1001-09.4, “Standard Operating Procedure for Determination of Phthalates”;
 
-(ii) GB/T 22048-2008, “Toys and Children's Products - Determination of Phthalate Plasticizers in Polyvinyl Chloride Plastic”;
+(ii) GB/T 22048-2008, “Toys and Children's Products—Determination of Phthalate Plasticizers in Polyvinyl Chloride Plastic”;
 
 (32) 16 CFR part 1250, safety standard for toys. The CPSC only requires certain provisions of ASTM F963-17 to be subject to third party testing; and therefore, the CPSC only accepts the accreditation of third party conformity assessment bodies for testing under the following toy safety standards:
 
@@ -110,7 +110,7 @@ Link to an amendment published at 87 FR 72659, Nov. 25, 2022.
 
 (ii) ASTM F963-17:
 
-(A) Section 4.3.5.1(2), Surface Coating Materials - Soluble Test for Metals
+(A) Section 4.3.5.1(2), Surface Coating Materials—Soluble Test for Metals
 
 (B) Section 4.3.5.2, Toy Substrate Materials
 
@@ -234,7 +234,7 @@ Link to an amendment published at 87 FR 72659, Nov. 25, 2022.
 
 (2) Code of China, Room 2118, New Fortune International Plaza, No.71 Chaoyang Road, Chaoyang District, Beijing, 100123, China: *http://www.codeofchina.com/.*
 
-(i) GB/T 22048-2008, National Standard of the People's Republic of China, “Toys and Children's Products - Determination of Phthalate Plasticizers in Polyvinyl Chloride Plastic,” June 18, 2008;
+(i) GB/T 22048-2008, National Standard of the People's Republic of China, “Toys and Children's Products—Determination of Phthalate Plasticizers in Polyvinyl Chloride Plastic,” June 18, 2008;
 
 (ii) [Reserved]
 

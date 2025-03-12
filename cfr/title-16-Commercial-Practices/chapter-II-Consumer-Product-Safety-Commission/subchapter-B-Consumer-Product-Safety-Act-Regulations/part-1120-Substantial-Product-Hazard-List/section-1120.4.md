@@ -1,5 +1,7 @@
 ##### § 1120.4 Standards incorporated by reference. #####
 
+Link to an amendment published at 87 FR 72887, Nov. 28, 2022.
+
 (a) The standards required in this part are incorporated by reference (“IBR”) into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. You may inspect all approved material at the Office of the Secretary, U.S. Consumer Product Safety Commission, Room 820, 4330 East West Highway, Bethesda, MD 20814, telephone 301-504-7923, or at the National Archives and Records Administration (“NARA”). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal-register/cfr/ibr-locations.html*.
 
 (b) ASTM International, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428-2959 USA, telephone: 610-832-9585; *http://www2.astm.org/*.

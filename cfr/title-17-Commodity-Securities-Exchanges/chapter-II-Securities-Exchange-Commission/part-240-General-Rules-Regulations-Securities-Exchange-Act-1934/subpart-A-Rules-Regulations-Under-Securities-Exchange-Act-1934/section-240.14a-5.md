@@ -1,0 +1,25 @@
+##### § 240.14a-5 Presentation of information in proxy statement. #####
+
+(a) The information included in the proxy statement shall be clearly presented and the statements made shall be divided into groups according to subject matter and the various groups of statements shall be preceded by appropriate headings. The order of items and sub-items in the schedule need not be followed. Where practicable and appropriate, the information shall be presented in tabular form. All amounts shall be stated in figures. Information required by more than one applicable item need not be repeated. No statement need be made in response to any item or sub-item which is inapplicable.
+
+(b) Any information required to be included in the proxy statement as to terms of securities or other subject matter which from a standpoint of practical necessity must be determined in the future may be stated in terms of present knowledge and intention. To the extent practicable, the authority to be conferred concerning each such matter shall be confined within limits reasonably related to the need for discretionary authority. Subject to the foregoing, information which is not known to the persons on whose behalf the solicitation is to be made and which it is not reasonably within the power of such persons to ascertain or procure may be omitted, if a brief statement of the circumstances rendering such information unavailable is made.
+
+(c) Any information contained in any other proxy soliciting material which has been or will be furnished to each person solicited in connection with the same meeting or subject matter may be omitted from the proxy statement, if a clear reference is made to the particular document containing such information.
+
+(d)(1) All printed proxy statements shall be in roman type at least as large and as legible as 10-point modern type, except that to the extent necessary for convenient presentation financial statements and other tabular data, but not the notes thereto, may be in roman type at least as large and as legible as 8-point modern type. All such type shall be leaded at least 2 points.
+
+(2) Where a proxy statement is delivered through an electronic medium, issuers may satisfy legibility requirements applicable to printed documents, such as type size and font, by presenting all required information in a format readily communicated to investors.
+
+(e) All proxy statements shall disclose, under an appropriate caption, the following dates:
+
+(1) The deadline for submitting shareholder proposals for inclusion in the registrant's proxy statement and form of proxy for the registrant's next annual meeting, calculated in the manner provided in § 240.14a-8(e)(Question 5);
+
+(2) The date after which notice of a shareholder proposal submitted outside the processes of § 240.14a-8 is considered untimely, either calculated in the manner provided by § 240.14a-4(c)(1) or as established by the registrant's advance notice provision, if any, authorized by applicable state law;
+
+(3) The deadline for submitting nominees for inclusion in the registrant's proxy statement and form of proxy pursuant to § 240.14a-11, an applicable state or foreign law provision, or a registrant's governing documents as they relate to the inclusion of shareholder director nominees in the registrant's proxy materials for the registrant's next annual meeting of shareholders; and
+
+(4) The deadline for providing notice of a solicitation of proxies in support of director nominees other than the registrant's nominees pursuant to § 240.14a-19 for the registrant's next annual meeting unless the registrant is an investment company registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*) or a business development company as defined by section 2(a)(48) of the Investment Company Act of 1940 (15 U.S.C. 80a-2(a)(48)).
+
+(f) If the date of the next annual meeting is subsequently advanced or delayed by more than 30 calendar days from the date of the annual meeting to which the proxy statement relates, the registrant shall, in a timely manner, inform shareholders of such change, and the new dates referred to in paragraphs (e)(1) and (e)(2) of this section, by including a notice, under Item 5, in its earliest possible quarterly report on Form 10-Q (§ 249.308a of this chapter), or, in the case of investment companies, in a shareholder report under § 270.30d-1 of this chapter under the Investment Company Act of 1940, or, if impracticable, any means reasonably calculated to inform shareholders.
+
+[17 FR 11432, Dec. 18, 1952, as amended at 36 FR 8935, May 15, 1971; 37 FR 23179, Oct. 31, 1972; 44 FR 68770, Nov. 29, 1979; 51 FR 42061, Nov. 20, 1986; 61 FR 24656, May 15, 1996; 63 FR 29118, May 28, 1998; 63 FR 46881, Sept. 3, 1998; 73 FR 977, Jan. 4, 2008; 75 FR 56782, Sept. 16, 2010; 86 FR 68379, Dec. 1, 2021]

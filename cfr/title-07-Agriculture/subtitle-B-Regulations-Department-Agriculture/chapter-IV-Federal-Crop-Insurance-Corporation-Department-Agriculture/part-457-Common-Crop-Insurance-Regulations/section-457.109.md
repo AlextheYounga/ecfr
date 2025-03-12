@@ -1,6 +1,6 @@
 ##### § 457.109 Sugar Beet Crop Insurance Provisions. #####
 
-The Sugar Beet Crop Insurance Provisions for effective for the 2019 and succeeding crop years in states with a November 30 contract change date and for the 2020 and succeeding crop years in all other states, are as follows:
+The Sugar Beet Crop Insurance Provisions for effective for the 2023 and succeeding crop years in states with a November 30 contract change date and for the 2024 and succeeding crop years in all other states, are as follows:
 
 FCIC PoliciesUnited States Department of AgricultureFederal Crop Insurance CorporationReinsured policies(Appropriate title for insurance provider)
 
@@ -28,6 +28,12 @@ Sugar Beet Crop Provisions1. Definitions
 
 (2) The processor's commitment to purchase the production stated in the contract.
 
+*Production guarantee (per acre):*
+
+(1) First stage production guarantee—The final stage production guarantee multiplied by 60 percent.
+
+(2) Final stage production guarantee—The number of pounds of raw sugar determined by multiplying the approved yield per acre by the coverage level percentage you elect.
+
 *Raw sugar.* Sugar that has not been extracted from the sugar beet.
 
 *Ton.* Two thousand (2,000) pounds avoirdupois.
@@ -36,9 +42,23 @@ Sugar Beet Crop Provisions1. Definitions
 
 In addition to the requirements of section 34 of the Basic Provisions, basic units may be divided into optional units only if you have a production agreement that requires the processor to accept all production from a number of acres specified in the production agreement. Acreage insured to fulfill a production agreement which provides that the processor will accept a designated amount of production or a combination of acreage and production will not be eligible for optional units.
 
-3. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities.
+3. Insurance Guarantees, Coverage Levels, and Prices
 
-The production guarantee will be expressed in pounds of raw sugar.
+(a) In addition to the requirements of section 3 of the Basic Provisions, you may select only one price election for all the sugar beets in the county insured under this policy.
+
+(b) The production guarantees are progressive by stages and increase at specified intervals to the final stage. The stages are:
+
+(1) First stage, with a guarantee of 60 percent (60%) of the final stage production guarantee, extends from planting until:
+
+(i) The earlier of thinning or 90 days after planting in California; and
+
+(ii) July 1 in all other States.
+
+(2) Final stage, with a guarantee of 100 percent (100%) of the final stage production guarantee, applies to all insured sugar beets that complete the first stage.
+
+(c) The production guarantee will be expressed in pounds of raw sugar.
+
+(d) Any acreage of sugar beets damaged in the first stage to the extent that growers in the area would not normally further care for the sugar beets will be deemed to have been destroyed, even though you may continue to care for it. The production guarantee for such acreage will not exceed the first stage production guarantee.
 
 4. Contract Changes
 
@@ -50,13 +70,13 @@ In accordance with section 2 of the Basic Provisions, the cancellation and termi
 
 6. Report of Acreage
 
-In addition to the requirements of section 6 of the Basic Provisions, you must provide a copy of all production agreements to us on or before the acreage reporting date. Insured Crop
+In addition to the requirements of section 6 of the Basic Provisions, you must provide a copy of all production agreements to us on or before the acreage reporting date.
 
-(a) \* \* \*
+7. Annual Premium
 
-(3) That are grown under a production agreement and are not excluded from the production agreement at any time during the crop year; and
+In lieu of the premium computation method contained in section 7 of the Basic Provisions, the annual premium amount is computed by multiplying the final stage production guarantee by the price election, the premium rate, the insured acreage, your share at the time of planting, and any applicable premium adjustment factors contained in the actuarial documents.
 
-7. Insured Crop
+8. Insured Crop
 
 (a) In accordance with section 8 of the Basic Provisions (§ 457.8), the crop insured will be all the sugar beets in the county for which a premium rate is provided by the actuarial documents:
 
@@ -84,7 +104,7 @@ In addition to the requirements of section 6 of the Basic Provisions, you must p
 
 (4) Our inspection of the processing facilities determines that they conform to the definition of “processor” contained in section 1 of these crop provisions.
 
-8. Insurable Acreage
+9. Insurable Acreage
 
 In addition to the provisions of section 9 of the Basic Provisions (§ 457.8):
 
@@ -98,11 +118,11 @@ In addition to the provisions of section 9 of the Basic Provisions (§ 457.8):
 
 (b) Any acreage of the insured crop damaged before the final planting date, to the extent that growers in the area would normally not further care for the crop, must be replanted unless we agree that replanting is not practical.
 
-9. Insurance Period
+10. Insurance Period
 
-In accordance with section 11 of the Basic Provisions, the dates for the end of insurance period are contained in the actuarial documents.
+In accordance with section 11 of the Basic Provisions, the dates for the end of insurance period are contained in the Special Provisions.
 
-10. Causes of Loss
+11. Causes of Loss
 
 In accordance with the provisions of section 12 of the Basic Provisions (§ 457.8), insurance is provided only against the following causes of loss that occur within the insurance period:
 
@@ -122,25 +142,25 @@ In accordance with the provisions of section 12 of the Basic Provisions (§ 457.
 
 (h) Failure of the irrigation water supply, if caused by an insured peril that occurs during the insurance period.
 
-11. Replanting Payments
+12. Replanting Payments
 
-(a) In accordance with section 13 of the Basic Provisions (§ 457.8), a replanting payment is allowed if the crop is damaged by an insurable cause of loss to the extent that the remaining stand will not produce at least 90 percent (90%) of the production guarantee for the acreage and it is practical to replant.
+(a) In accordance with section 13 of the Basic Provisions (§ 457.8), a replanting payment is allowed if the crop is damaged by an insurable cause of loss to the extent that the remaining stand will not produce at least 90 percent (90%) of the final stage production guarantee for the acreage and it is practical to replant.
 
 (b) The dollar amount of the replant payment is specified in the Special Provisions.
 
 (c) When sugar beets are replanted using a practice that is uninsurable for an original planting, our liability on the unit will be reduced by the amount of the replanting payment. The premium amount will not be reduced.
 
-12. Duties in the Event of Damage or Loss
+13. Duties in the Event of Damage or Loss
 
 In accordance with the requirements of section 14 of the Basic Provisions, representative samples of the unharvested crop must be at least 10 feet wide and extend the entire length of each field in the unit. The samples must not be harvested or destroyed until the earlier of our inspection or 15 days after harvest of the balance of the unit is completed.
 
-13. Settlement of Claim
+14. Settlement of Claim
 
 (a) We will determine your loss on a unit basis. In the event you are unable to provide separate acceptable production records:
 
 (1) For any optional unit, we will combine all optional units for which acceptable production records were not provided; or
 
-(2) For any basic unit, we will allocate any commingled production to such units in proportion to our liability on the havested acreage for each unit.
+(2) For any basic unit, we will allocate any commingled production to such units in proportion to our liability on the harvested acreage for each unit.
 
 (b) In the event of loss or damage covered by this policy, we will settle your claim on any unit by:
 
@@ -170,7 +190,9 @@ In accordance with the requirements of section 14 of the Basic Provisions, repre
 
 (iii) Unharvested production;
 
-(iv) Potential production on insured acreage that you intend to put to another use or abandon, if you and we agree on the appraised amount of production. Upon such agreement, the insurance period for that acreage will end if you put the acreage to another use or abandon the crop. If agreement on the appraised amount of production is not reached:
+(iv) Only appraised production in excess of the difference between the first and final stage production guarantee for acreage that does not qualify for the final stage guarantee will be counted, except that all production from acreage subject to paragraphs (c)(1)(i) and (ii) of this section will be counted; and
+
+(v) Potential production on insured acreage that you intend to put to another use or abandon, if you and we agree on the appraised amount of production. Upon such agreement, the insurance period for that acreage will end if you put the acreage to another use or abandon the crop. If agreement on the appraised amount of production is not reached:
 
 (A) If you do not elect to continue to care for the crop, we may give you consent to put the acreage to another use if you agree to leave intact, and provide sufficient care for, representative samples of the crop in locations acceptable to us (The amount of production to count for such acreage will be based on the harvested production or appraisals from the samples at the time harvest should have occurred. If you do not leave the required samples intact, or you fail to provide sufficient care for the samples, our appraisal made prior to giving you consent to put the acreage to another use will be used to determine the amount of production to count); or
 
@@ -190,11 +212,9 @@ In accordance with the requirements of section 14 of the Basic Provisions, repre
 
 (2) If not representative, the average percent of raw sugar will equal the raw sugar content percent shown in the Special Provisions.
 
-(f) Production lost due to harvest prior to full maturity. If the percentage of insured acreage in the unit harvested prior to full maturity exceeds the threshold specified in the actuarial documents, production to count from such acreage will be determined by increasing the amount of harvested production by 1 percent per day for each day the sugar beets were harvested prior to the date the sugar beets would have reached full maturity.
+(f) Production lost due to harvest prior to full maturity. If the percentage of insured acreage in the unit harvested prior to full maturity exceeds the threshold specified in the Special Provisions, production to count from such acreage will be determined by increasing the amount of harvested production by 1 percent per day for each day the sugar beets were harvested prior to the date the sugar beets would have reached full maturity.
 
 (1) The date the sugar beets would have reached full maturity will be considered to be 45 days prior to the calendar date for the end of the insurance period, unless otherwise specified in the Special Provisions.
-
-(f) \* \* \*
 
 (2) The adjustment will not be made if the sugar beets are damaged by an insurable cause of loss and leaving the crop in the field would reduce production.
 
@@ -212,8 +232,34 @@ In accordance with the requirements of section 14 of the Basic Provisions, repre
 
 (h) If production is damaged due to an insurable cause of loss to the extent that the processor will not accept the production, such as the production did not meet the standards contained in the production agreement; and there are no salvage markets for the production, then there would be no value for production and there would be no production to count provided the production is destroyed in a manner acceptable to us.
 
-14. [Reserved]15. Prevented Planting
+15. [Reserved]16. Prevented Planting
 
 Your prevented planting coverage will be a percentage specified in the actuarial documents of your production guarantee for timely planted acreage. If you have additional levels of coverage and pay an additional premium, you may increase your prevented planting coverage if such additional coverage is specified in the actuarial documents.
 
-[61 FR 58775, Nov. 19, 1996, as amended at 62 FR 63633, Dec. 2, 1997; 62 FR 65167, Dec. 10, 1997; 81 FR 84399, Nov. 23, 2016; 83 FR 45538, Sept. 10, 2018; 84 FR 65638, Nov. 29, 2019]
+17. Stage Removal Option
+
+(a) Applicability:
+
+(1) You must have an additional coverage policy to elect this option.
+
+(2) You must elect this option in writing on or before the sales closing date for the first year it is in effect.
+
+(3) This election is continuous, in accordance with section 2 of the Basic Provisions, unless canceled by the cancellation date. Your election of the Catastrophic Risk Protection Endorsement for your sugar beets in any crop year will be deemed to be cancellation of this option by you.
+
+(4) All insurable acreage of sugar beets in the county will be included under this option unless any acreage is specifically excluded by the Special Provisions.
+
+(b) Insurance Guarantees:
+
+(1) The production guarantee (per acre) will be the final stage guarantee.
+
+(2) The terms and conditions contained in sections 3(b) and 3(d) do not apply under this option.
+
+(c) Premium Adjustment Factor: The premium adjustment factor in the actuarial documents for the stage removal option will apply to the premium computation method in section 7.
+
+(d) Settlement of Claim:
+
+(1) The “respective production guarantee” referenced in section 14(b) will be the final stage guarantee.
+
+(2) The terms and conditions of section 14(c)(1)(iv) do not apply under this option.
+
+[61 FR 58775, Nov. 19, 1996, as amended at 62 FR 63633, Dec. 2, 1997; 62 FR 65167, Dec. 10, 1997; 81 FR 84399, Nov. 23, 2016; 83 FR 45538, Sept. 10, 2018; 84 FR 65638, Nov. 29, 2019; 87 FR 72862, Nov. 28, 2022]

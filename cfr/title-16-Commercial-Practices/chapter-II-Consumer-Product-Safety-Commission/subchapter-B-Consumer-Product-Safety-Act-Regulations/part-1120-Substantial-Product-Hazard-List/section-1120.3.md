@@ -1,5 +1,7 @@
 ##### § 1120.3 Products deemed to be substantial product hazards. #####
 
+Link to an amendment published at 87 FR 72886, Nov. 28, 2022.
+
 The following products or class of products shall be deemed to be substantial product hazards under section 15(a)(2) of the CPSA:
 
 (a) Hand-supported hair dryers that do not provide integral immersion protection in compliance with the requirements of section 5 of UL 859, or section 6 of UL 1727 (incorporated by reference, *see* § 1120.4).

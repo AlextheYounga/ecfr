@@ -634,7 +634,7 @@ The maximum flow rate of a sprayhead that delivers a pre-set volume of water bef
 
 <sup>1</sup> D is the ceiling fan's blade span, in inches, as determined in Appendix U of this part.
 
-(ii) Large-diameter ceiling fans manufactured on or after January 21, 2020, shall have a CFEI greater than or equal to -
+(ii) Large-diameter ceiling fans, as defined in appendix U to subpart B of this part, manufactured on or after January 21, 2020, shall have a CFEI greater than or equal to -
 
 (A) 1.00 at high speed; and
 

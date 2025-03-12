@@ -1,5 +1,7 @@
 ##### § 1120.2 Definitions. #####
 
+Link to an amendment published at 87 FR 72886, Nov. 28, 2022.
+
 The definitions in section 3 of the Consumer Product Safety Act (15 U.S.C. 2052) apply to this part 1120.
 
 (a) *Substantial product hazard* means a product defect which (because of the pattern of defect, the number of defective products distributed in commerce, the severity of the risk, or otherwise) creates a substantial risk of injury to the public.

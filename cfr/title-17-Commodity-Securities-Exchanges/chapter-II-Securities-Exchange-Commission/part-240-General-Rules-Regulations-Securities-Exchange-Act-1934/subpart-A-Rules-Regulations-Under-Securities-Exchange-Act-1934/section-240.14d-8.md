@@ -1,0 +1,5 @@
+##### § 240.14d-8 Exemption from statutory pro rata requirements. #####
+
+Notwithstanding the pro rata provisions of section 14(d)(6) of the Act, if any person makes a tender offer or request or invitation for tenders, for less than all of the outstanding equity securities of a class, and if a greater number of securities are deposited pursuant thereto than such person is bound or willing to take up and pay for, the securities taken up and paid for shall be taken up and paid for as nearly as may be pro rata, disregarding fractions, according to the number of securities deposited by each depositor during the period such offer, request or invitation remains open.
+
+(Sec. 23, 48 Stat. 901; sec. 203(a), 49 Stat. 704; sec. 8, 49 Stat. 1379; sec. 10, 78 Stat. 580; sec. 3, 82 Stat. 455; secs. 3-5, 84 Stat. 1497; sec. 18, 89 Stat. 155; 15 U.S.C. 78n(e), 78w(a))[47 FR 57680, Dec. 28, 1982]
