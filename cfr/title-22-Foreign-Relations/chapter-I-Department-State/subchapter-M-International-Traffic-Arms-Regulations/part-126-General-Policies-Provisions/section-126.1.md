@@ -1,6 +1,6 @@
 ##### § 126.1 Prohibited exports, imports, and sales to or from certain countries. #####
 
-(a) *General.* It is the policy of the United States to deny licenses and other approvals for exports and imports of defense articles and defense services, destined for or originating in certain countries. The exemptions provided in this subchapter, except § 123.17 of this subchapter and §§ 126.4(a)(1) or (3) and (b)(1) and 126.6, or when the recipient is a U.S. Government department or agency, do not apply with respect to defense articles or defense services originating in or for export to any proscribed countries, areas, or persons. (See § 129.7 of this subchapter, which imposes restrictions on brokering activities similar to those in this section).
+(a) *General.* It is the policy of the United States to deny licenses and other approvals for exports and imports of defense articles and defense services, destined for or originating in certain countries. The exemptions provided in this subchapter, except §§ 123.17, 126.4(a)(1) or (3) and (b)(1), and 126.4(a)(2) or (b)(2) when the export is destined for Russia and in support of government space cooperation, and § 126.6, or when the recipient is a U.S. government department or agency, do not apply with respect to defense articles or defense services originating in or for export to any proscribed countries, areas, or persons. (See § 129.7 of this subchapter, which imposes restrictions on brokering activities similar to those in this section).
 
 (b) *Shipments.* A defense article licensed or otherwise authorized for export, temporary import, reexport, or retransfer under this subchapter may not be shipped on a vessel, aircraft, spacecraft, or other means of conveyance that is owned by, operated by, leased to, or leased from any of the proscribed countries, areas, or other persons referred to in this section.
 
@@ -40,6 +40,7 @@
 |            Iraq            |See also paragraph (f) of this section.|
 |          Lebanon           |See also paragraph (t) of this section.|
 |           Libya            |See also paragraph (k) of this section.|
+|           Russia           |See also paragraph (l) of this section.|
 |          Somalia           |See also paragraph (m) of this section.|
 |        South Sudan         |See also paragraph (w) of this section.|
 |           Sudan            |See also paragraph (v) of this section.|
@@ -103,7 +104,11 @@ Note to paragraph (e):
 
 (6) Other sales or supply of arms and related materiel, or provision of assistance or personnel, as approved in advance by the Committee of the Security Council concerning Libya.
 
-(l) [Reserved]
+(l) *Russia.* It is the policy of the United States to deny licenses or other approvals for exports of defense articles and defense services destined for Russia, except that a license or other approval may be issued, on a case-by-case basis:
+
+(1) For government space cooperation; and
+
+(2) Prior to September 1, 2021, for commercial space launches.
 
 (m) *Somalia.* It is the policy of the United States to deny licenses or other approvals for exports or imports of defense articles and defense services destined for or originating in Somalia, except that a license or other approval may be issued, on a case-by-case basis, for:
 
