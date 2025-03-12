@@ -26,9 +26,9 @@
 
 (4) Traffic service position systems include the common control and trunk equipment in addition to the associated groups of positions wherever located.
 
-(5) Effective July 1, 2001, through December 30, 2018, study areas subject to price cap regulation, pursuant to § 61.41 of this chapter, shall assign the average balance of Account 2220, Operator Systems, to the categories/subcategories, as specified in paragraph (a)(1) of this section, based on the relative percentage assignment of the average balance of Account 2220 to these categories/subcategories during the twelve month period ending December 31, 2000.
+(5) Effective July 1, 2001, through December 31, 2018, study areas subject to price cap regulation, pursuant to § 61.41 of this chapter, shall assign the average balance of Account 2220, Operator Systems, to the categories/subcategories, as specified in paragraph (a)(1) of this section, based on the relative percentage assignment of the average balance of Account 2220 to these categories/subcategories during the twelve month period ending December 31, 2000.
 
-(6) Effective July 1, 2001 through December 30, 2018, all study areas shall apportion the costs assigned to the categories/subcategories, as specified in paragraph (a)(1) of this section, among the jurisdictions using the relative use measurements for the twelve month period ending December 31, 2000 for each of the categories/subcategories specified in paragraphs (b) through (e) of this section.
+(6) Effective July 1, 2001 through December 31, 2018, all study areas shall apportion the costs assigned to the categories/subcategories, as specified in paragraph (a)(1) of this section, among the jurisdictions using the relative use measurements for the twelve month period ending December 31, 2000 for each of the categories/subcategories specified in paragraphs (b) through (e) of this section.
 
 (b) The cost of the following operator systems equipment is apportioned among the operations on the basis of the relative number of weighted standard work seconds handled at the switchboards under consideration.
 

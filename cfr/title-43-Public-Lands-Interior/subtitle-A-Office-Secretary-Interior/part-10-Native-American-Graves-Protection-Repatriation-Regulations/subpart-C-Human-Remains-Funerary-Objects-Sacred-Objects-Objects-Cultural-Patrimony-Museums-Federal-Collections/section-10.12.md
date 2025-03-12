@@ -74,7 +74,7 @@
 
 (g) *How the Secretary determines the penalty amount.* (1) The penalty amount must be determined on the record;
 
-(2) The penalty amount must be .25 percent of your museum's annual budget, or $6,533, whichever is less, and such additional sum as the Secretary may determine is appropriate after taking into account:
+(2) The penalty amount must be .25 percent of your museum's annual budget, or $6,666, whichever is less, and such additional sum as the Secretary may determine is appropriate after taking into account:
 
 (i) The archeological, historical, or commercial value of the human remains, funerary object, sacred object, or object of cultural patrimony involved; and
 
@@ -82,7 +82,7 @@
 
 (iii) The number of violations that have occurred at your museum.
 
-(3) An additional penalty of up to $1,307 per day after the date that the final administrative decision takes effect may be assessed if your museum continues to violate the Act.
+(3) An additional penalty of up to $1,334 per day after the date that the final administrative decision takes effect may be assessed if your museum continues to violate the Act.
 
 (4) The Secretary may reduce the penalty amount if there is:
 
@@ -168,4 +168,4 @@
 
 (3) Assessing a penalty under this section is not a waiver by the Secretary of the right to pursue other available legal or administrative remedies.
 
-[68 FR 16360, Apr. 3, 2003, as amended at 70 FR 57179, Sept. 30, 2005; 75 FR 12404, Mar. 15, 2010; 75 FR 64670, Oct. 20, 2010; 78 FR 27083, May 9, 2013; 81 FR 41859, June 28, 2016; 81 FR 64356, Sept. 20, 2016; 82 FR 10866, Feb. 16, 2017]
+[68 FR 16360, Apr. 3, 2003, as amended at 70 FR 57179, Sept. 30, 2005; 75 FR 12404, Mar. 15, 2010; 75 FR 64670, Oct. 20, 2010; 78 FR 27083, May 9, 2013; 81 FR 41859, June 28, 2016; 81 FR 64356, Sept. 20, 2016; 82 FR 10866, Feb. 16, 2017; 83 FR 4152, Jan. 30, 2018]

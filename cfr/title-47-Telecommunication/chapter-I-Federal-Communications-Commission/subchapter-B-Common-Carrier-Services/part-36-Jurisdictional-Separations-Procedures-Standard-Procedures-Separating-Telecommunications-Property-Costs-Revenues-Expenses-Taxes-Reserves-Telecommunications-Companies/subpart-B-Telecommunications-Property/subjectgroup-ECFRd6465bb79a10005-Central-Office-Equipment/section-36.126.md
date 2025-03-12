@@ -38,7 +38,7 @@
 
 (5) Effective July 1, 2001, through June 30, 2014, study areas subject to price cap regulation, pursuant to § 61.41, shall assign the average balances of Accounts 2230 through 2232 to the categories/subcategories as specified in § 36.126(b)(1) through (b)(4) based on the relative percentage assignment of the average balances of Accounts 2230 through 2232 costs to these categories/subcategories during the twelve month period ending December 31, 2000.
 
-(6) Effective July 1, 2001, through December 30, 2018, study areas subject to price cap regulation, pursuant to § 61.41 of this chapter, shall assign the average balances of Accounts 2230 through 2232 to the categories/subcategories as specified in paragraphs (b)(1) through (4) of this section based on the relative percentage assignment of the average balances of Accounts 2230 through 2232 costs to these categories/subcategories during the twelve month period ending December 31, 2000.
+(6) Effective July 1, 2001, through December 31, 2018, study areas subject to price cap regulation, pursuant to § 61.41 of this chapter, shall assign the average balances of Accounts 2230 through 2232 to the categories/subcategories as specified in paragraphs (b)(1) through (4) of this section based on the relative percentage assignment of the average balances of Accounts 2230 through 2232 costs to these categories/subcategories during the twelve month period ending December 31, 2000.
 
 (c) Apportionment of Exchange Circuit Equipment Among the Operations:
 
@@ -48,7 +48,7 @@
 
 (3) Exchange Line Circuit Equipment Excluding Wideband - Category 4.13 - The cost of Circuit Equipment associated with exchange line plant excluding wideband for the study area is assigned to subcategories and is allocated to the appropriate operation in the same manner as the related exchange line cable and wire facilities for non-wideband service as described in § 36.154.
 
-(4) Effective July 1, 2001, through December 30, 2018, all study areas shall apportion costs in the categories/subcategories, as specified in paragraphs (b)(1) through (4) of this section, among the jurisdictions using the relative use measurements or factors, as specified in paragraphs (c)(1) through (3) of this section for the twelve month period ending December 31, 2000. Direct assignment of any subcategory of Category 4.1 Exchange Circuit Equipment to the jurisdictions shall be updated annually.
+(4) Effective July 1, 2001, through December 31, 2018, all study areas shall apportion costs in the categories/subcategories, as specified in paragraphs (b)(1) through (4) of this section, among the jurisdictions using the relative use measurements or factors, as specified in paragraphs (c)(1) through (3) of this section for the twelve month period ending December 31, 2000. Direct assignment of any subcategory of Category 4.1 Exchange Circuit Equipment to the jurisdictions shall be updated annually.
 
 (d) Apportionment of Interexchange Circuit Equipment among the Operations: Procedures to be Used by Interexchange Carriers. (1) Interexchange Circuit Equipment Furnished to Another Company for Interstate Use - Category 4.21 - This category comprises that circuit equipment provided for the use of another company as an integral part of its interexchange circuit facilities used wholly for interstate services. This category includes such circuit equipment as telephone carrier terminals and microwave systems used wholly for interstate services. The total cost of the circuit equipment in this category for the study area is assigned to the interstate operation.
 
@@ -68,7 +68,7 @@
 
 (iii) The cost of special circuit equipment is segregated among private line services based on an analysis of the use of the equipment and in accordance with § 36.126(b)(4). The special circuit equipment cost assigned to private line services is directly assigned to the appropriate operations.
 
-(4) Effective July 1, 2001, through December 30, 2018, all study areas shall apportion costs in the categories/subcategories specified in paragraphs (e)(1) through (3) of this section among the jurisdictions using relative use measurements or factors, as specified in paragraphs (e)(1) through (3) for the twelve month period ending December 31, 2000. Direct assignment of any subcategory of Category 4.2 Interexchange Circuit Equipment to the jurisdictions shall be updated annually.
+(4) Effective July 1, 2001, through December 31, 2018, all study areas shall apportion costs in the categories/subcategories specified in paragraphs (e)(1) through (3) of this section among the jurisdictions using relative use measurements or factors, as specified in paragraphs (e)(1) through (3) for the twelve month period ending December 31, 2000. Direct assignment of any subcategory of Category 4.2 Interexchange Circuit Equipment to the jurisdictions shall be updated annually.
 
 (f) Apportionment of Host/Remote Message Circuit Equipment Among the Operations.
 
@@ -78,6 +78,6 @@
 
 (ii) [Reserved]
 
-(2) Effective July 1, 2001, through December 30, 2018, all study areas shall apportion costs in the subcategory specified in paragraph (f)(1) of this section among the jurisdictions using the allocation factor, as specified in paragraph (f)(1)(i) of this section, for this subcategory for the twelve month period ending December 31, 2000. Direct assignment of any Category 4.3 Host/Remote Message Circuit Equipment to the jurisdictions shall be updated annually.
+(2) Effective July 1, 2001, through December 31, 2018, all study areas shall apportion costs in the subcategory specified in paragraph (f)(1) of this section among the jurisdictions using the allocation factor, as specified in paragraph (f)(1)(i) of this section, for this subcategory for the twelve month period ending December 31, 2000. Direct assignment of any Category 4.3 Host/Remote Message Circuit Equipment to the jurisdictions shall be updated annually.
 
 [52 FR 17229, May 6, 1987, as amended at 53 FR 33012 Aug. 29, 1988; 66 FR 33205, June 21, 2001; 69 FR 12550, Mar. 17, 2004; 71 FR 65745, Nov. 9, 2006; 75 FR 30301, June 1, 2010; 76 FR 30841, May 27, 2011; 79 FR 36236, June 26, 2014; 82 FR 48776, Oct. 20, 2017]
