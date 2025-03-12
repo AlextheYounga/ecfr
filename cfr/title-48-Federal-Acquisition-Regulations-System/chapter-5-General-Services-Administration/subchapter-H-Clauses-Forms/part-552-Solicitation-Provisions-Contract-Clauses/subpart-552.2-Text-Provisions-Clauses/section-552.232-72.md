@@ -1,6 +1,6 @@
 ##### 552.232-72 Final Payment Under Building Services Contracts. #####
 
-Link to an amendment published at 86 FR 55524, Oct. 6, 2021.
+Link to an amendment published at 86 FR 55524, Oct. 6, 2021.Link to a correction published at 86 FR 57372, Oct. 15, 2021.
 
 As prescribed in 532.904(c), insert the following clause:
 
