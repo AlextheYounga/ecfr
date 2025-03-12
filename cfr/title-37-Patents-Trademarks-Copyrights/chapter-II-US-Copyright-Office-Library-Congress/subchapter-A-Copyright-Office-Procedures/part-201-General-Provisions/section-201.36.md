@@ -1,5 +1,7 @@
 ##### § 201.36 Notices of contact information for transmitting entities publicly performing pre-1972 sound recordings. #####
 
+Link to an amendment published at 84 FR 10685, March 22, 2019.
+
 (a) *General.* This section prescribes the rules under which transmitting entities may file contact information with the Copyright Office pursuant to 17 U.S.C. 1401(f)(5)(B).
 
 (b) *Definitions.* For purposes of this section:

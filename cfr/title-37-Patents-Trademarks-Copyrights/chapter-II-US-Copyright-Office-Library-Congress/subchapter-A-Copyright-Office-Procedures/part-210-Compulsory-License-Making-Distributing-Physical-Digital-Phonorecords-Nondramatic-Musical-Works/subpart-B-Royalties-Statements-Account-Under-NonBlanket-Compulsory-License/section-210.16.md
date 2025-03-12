@@ -18,9 +18,10 @@
 
 (7) In any case where the compulsory licensee falls within the provisions of § 210.15, a clear description of the action or proceeding involved, including the date of the final judgment or definitive finding described in that section.
 
-(8) Detailed instructions on how to request records of any promotional uses of the copyright owner's works that are required to be maintained or provided under § 385.14 or § 385.24 of this title, or other applicable provision, including, where applicable, records required to be maintained or provided by any third parties that were authorized by the compulsory licensee to engage in promotional uses during any part of the month. If this information is provided, Monthly Statements need not reflect phonorecords subject to the promotional royalty rate provided in § 385.14 or § 385.24 of this title, or any similar promotional royalty rate of zero that may be provided in part 385 of this title.
+(8) Detailed instructions on how to request records of any promotional or free trial uses of the copyright owner's works that are required to be maintained or provided under applicable provisions of part 385 of this title, or any other provisions, including, where applicable, records required to be maintained or provided by any third parties that were authorized by the compulsory licensee to engage in such uses during any part of the month.
+If this information is provided, Monthly Statements need not reflect phonorecords subject to any promotional or free trial royalty rate of zero that may be provided in part 385 of this title.
 
-(c) *Specific content of monthly statements* - (1) *Accounting of phonorecords subject to a cents rate royalty structure.* The information called for by paragraph (b)(4) of this section shall, with respect to each nondramatic musical work as to which the compulsory licensee has made and distributed phonorecords subject to part 385, subpart A of this title or any other provisions requiring computation of applicable royalties on a cents-per-unit basis, include a separate listing of each of the following items of information:
+(c) *Specific content of monthly statements* - (1) *Accounting of phonorecords subject to a cents rate royalty structure.* The information called for by paragraph (b)(4) of this section shall, with respect to each nondramatic musical work as to which the compulsory licensee has made and distributed phonorecords subject to applicable provisions of part 385 of this title, or any other provisions, requiring computation of applicable royalties on a cents-per-unit basis, include a separate listing of each of the following items of information:
 
 (i) The number of phonorecords made during the month covered by the Monthly Statement.
 
@@ -44,7 +45,7 @@
 
 (vi) The phonorecord identification information required by paragraph (c)(3) of this section.
 
-(2) *Accounting of phonorecords subject to a percentage rate royalty structure.* The information called for by paragraph (b)(4) of this section shall, with respect to each nondramatic musical work as to which the compulsory licensee has made and distributed phonorecords subject to part 385, subparts B or C of this title, or any other provisions requiring computation of applicable royalties on a percentage-rate basis, include a detailed and step-by-step accounting of the calculation of royalties under § 385.12, § 385.22, or other provisions of part 385 of this title as applicable, sufficient to allow the copyright owner to assess the manner in which the licensee determined the royalty owed and the accuracy of the royalty calculations, including but not limited to the following information:
+(2) *Accounting of phonorecords subject to a percentage rate royalty structure.* The information called for by paragraph (b)(4) of this section shall, with respect to each nondramatic musical work as to which the compulsory licensee has made and distributed phonorecords subject to applicable provisions of part 385 of this title, or any other provisions, requiring computation of applicable royalties on a percentage-rate basis, include a detailed and step-by-step accounting of the calculation of royalties under applicable provisions of part 385 of this title, sufficient to allow the copyright owner to assess the manner in which the licensee determined the royalty owed and the accuracy of the royalty calculations, including but not limited to the following information:
 
 (i) The number of plays, constructive plays, or other payable units, of the relevant sound recording for the month covered by the Monthly Statement for the relevant offering.
 
@@ -80,7 +81,7 @@
 
 (d) *Royalty payment and accounting* - (1) *In general.* The total royalty called for by paragraph (b)(5) of this section shall be computed so as to include every phonorecord “distributed” during the month covered by the Monthly Statement.
 
-(2) *Phonorecords subject to a cents rate royalty structure.* For phonorecords subject to part 385, subpart A of this title, or any other applicable royalties computed on a cents-per-unit basis, the amount of the royalty payment shall be calculated as follows:
+(2) *Phonorecords subject to a cents rate royalty structure.* For phonorecords subject to applicable provisions of part 385 of this title, or any other provisions, requiring computation of applicable royalties on a cents-per-unit basis, the amount of the royalty payment shall be calculated as follows:
 
 (i) *Step 1: Compute the number of phonorecords shipped for sale with a privilege of return.* This is the total of phonorecords that, during the month covered by the Monthly Statement, were relinquished from possession by the compulsory licensee, accompanied by the privilege of returning unsold phonorecords to the compulsory licensee for credit or exchange. This total does not include:
 
@@ -104,13 +105,13 @@
 
 (C) *Reduction of negative reserve balance.* If, in the month covered by the Monthly Statement, the aggregate reserve balance for all previous months is a negative amount, the number of phonorecords relinquished from possession by the compulsory licensee during that month and used to reduce the negative reserve balance is subtracted from the Step 3 subtotal.
 
-(v) *Step 5: Multiply by the statutory royalty rate.* The total monthly royalty payment is obtained by multiplying the subtotal from Step 3, as adjusted if necessary by Step 4, by the statutory royalty rate set forth in § 385.3 or other provisions of part 385 of this title as applicable.
+(v) *Step 5: Multiply by the statutory royalty rate.* The total monthly royalty payment is obtained by multiplying the subtotal from Step 3, as adjusted if necessary by Step 4, by the statutory royalty rate set forth in applicable provisions of part 385 of this title.
 
-(3) *Phonorecords subject to a percentage rate royalty structure.* For phonorecords subject to part 385, subparts B or C of this title, or any other applicable royalties computed on a percentage-rate basis, the amount of the royalty payment shall be calculated as provided in § 385.12, § 385.22, or other provisions of part 385 of this title as applicable. The calculations shall be made in good faith and on the basis of the best knowledge, information, and belief of the licensee at the time payment is due, and subject to the additional accounting and certification requirements of 17 U.S.C. 115(c)(2)(I) and this section. The following additional provisions shall also apply:
+(3) *Phonorecords subject to a percentage rate royalty structure.* For phonorecords subject to applicable provisions of part 385 of this title, or any other provisions, requiring computation of applicable royalties on a percentage-rate basis, the amount of the royalty payment shall be calculated as provided in applicable provisions of part 385 of this title. The calculations shall be made in good faith and on the basis of the best knowledge, information, and belief of the licensee at the time payment is due, and subject to the additional accounting and certification requirements of 17 U.S.C. 115(c)(2)(I) and this section. The following additional provisions shall also apply:
 
 (i) A licensee may, in cases where the final public performance royalty has not yet been determined, compute the public performance royalty component based on the interim public performance royalty rate, if established; or alternatively, on a reasonable estimation of the expected royalties to be paid in accordance with GAAP. Royalty payments based on anticipated payments or interim public performance royalty rates must be reconciled on the Annual Statement of Account, or by complying with § 210.17(d)(2)(iii) governing Amended Annual Statements of Account.
 
-(ii) When calculating the per-work royalty allocation for each work, as described in § 385.12(b)(4), § 385.22(b)(3), or any similar provisions of part 385 of this title as applicable, an actual or constructive per-play allocation is to be calculated to at least the hundredth of a cent (*i.e.,* to at least four decimal places).
+(ii) When calculating the per-work royalty allocation for each work, as described in applicable provisions of part 385 of this title, an actual or constructive per-play allocation is to be calculated to at least the hundredth of a cent (*i.e.,* to at least four decimal places).
 
 (e) *Clear statements.* The information required by paragraphs (b) and (c) of this section requires intelligible, legible, and unambiguous statements in the Monthly Statements of Account without incorporation of facts or information contained in other documents or records.
 
@@ -154,4 +155,4 @@
 
 (8) If a Monthly Statement of Account is sent by certified mail or registered mail, a mailing receipt shall be sufficient to prove that service was timely. If a Monthly Statement of Account is sent by a reputable courier, documentation from the courier showing the first date of attempted delivery shall be sufficient to prove that service was timely. If a Monthly Statement of Account or a link thereto is sent by electronic mail, a return receipt shall be sufficient to prove that service was timely. In the absence of the foregoing, the compulsory licensee shall bear the burden of proving that the Monthly Statement of Account was served in a timely manner.
 
-[79 FR 56206, Sept. 18, 2014, as amended at 79 FR 60978, Oct. 9, 2014; 83 FR 63065, Dec. 7, 2018]
+[79 FR 56206, Sept. 18, 2014, as amended at 79 FR 60978, Oct. 9, 2014; 83 FR 63065, Dec. 7, 2018; 84 FR 10686, Mar. 22, 2019]

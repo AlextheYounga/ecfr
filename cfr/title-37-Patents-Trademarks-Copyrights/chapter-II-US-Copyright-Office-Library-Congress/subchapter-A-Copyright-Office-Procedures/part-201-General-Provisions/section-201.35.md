@@ -1,5 +1,7 @@
 ##### § 201.35 Schedules of pre-1972 sound recordings. #####
 
+Link to an amendment published at 84 FR 10684, March 22, 2019.
+
 (a) *General.* This section prescribes the rules under which rights owners, pursuant to 17 U.S.C. 1401(f)(5)(A), may file schedules listing their pre-1972 sound recordings with the Copyright Office to be eligible for statutory damages and/or attorneys' fees for violations of 17 U.S.C. 1401(a).
 
 (b) *Definitions.* For purposes of this section:

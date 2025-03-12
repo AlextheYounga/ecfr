@@ -16,7 +16,7 @@
 
 (5) For each nondramatic musical work that is owned by the same copyright owner being served with the Annual Statement and that is embodied in phonorecords covered by the compulsory license, a detailed statement of all of the information called for in paragraph (d) of this section.
 
-(6) The total royalty payable for the fiscal year covered by the Annual Statement computed in accordance with the requirements of § 210.16, and, in the case of offerings for which royalties are calculated pursuant to part 385, subparts B or C of this title, or any other provision requiring computation of applicable royalties on a percentage-rate basis, calculations showing in detail how the royalty was computed (for these purposes, the applicable royalty as specified in part 385, subpart A of this title shall be payable for every phonorecord “distributed” during the fiscal year covered by the Annual Statement).
+(6) The total royalty payable for the fiscal year covered by the Annual Statement computed in accordance with the requirements of § 210.16, and, in the case of offerings for which royalties are calculated pursuant to applicable provisions of part 385 of this title, or any other provisions, requiring computation of applicable royalties on a percentage-rate basis, calculations showing in detail how the royalty was computed (for these purposes, the applicable royalty as specified in applicable provisions of part 385 of this title, or any other provisions, requiring computation of applicable royalties on a cents-per-unit basis shall be payable for every phonorecord “distributed” during the fiscal year covered by the Annual Statement).
 
 (7) The total sum paid under Monthly Statements of Account by the compulsory licensee to the copyright owner being served with the Annual Statement during the fiscal year covered by the Annual Statement.
 
@@ -24,7 +24,7 @@
 
 (9) Any late fees, if applicable, included in any payment associated with the Annual Statement.
 
-(d) *Specific content of annual statements* - (1) *Accounting of phonorecords subject to a cents rate royalty structure.* The information called for by paragraph (c)(5) of this section shall, with respect to each nondramatic musical work as to which the compulsory licensee has made and distributed phonorecords subject to part 385, subpart A of this title, or any other provision requiring computation of applicable royalties on a cents-per-unit basis, include a separate listing of each of the following items of information:
+(d) *Specific content of annual statements* - (1) *Accounting of phonorecords subject to a cents rate royalty structure.* The information called for by paragraph (c)(5) of this section shall, with respect to each nondramatic musical work as to which the compulsory licensee has made and distributed phonorecords subject to applicable provisions of part 385 of this title, or any other provisions, requiring computation of applicable royalties on a cents-per-unit basis, include a separate listing of each of the following items of information:
 
 (i) The number of phonorecords made through the end of the fiscal year covered by the Annual Statement, including any made during earlier years.
 
@@ -44,7 +44,7 @@
 
 (ix) The phonorecord identification information required by paragraph (d)(3) of this section.
 
-(2) *Accounting of phonorecords subject to a percentage rate royalty structure.* (i) The information called for by paragraph (c)(5) of this section shall identify each offering for which royalties are to be calculated separately and, with respect to each nondramatic musical work as to which the compulsory licensee has made and distributed phonorecords subject to part 385, subparts B or C of this title, or any other provision requiring computation of applicable royalties on a percentage-rate basis, include the number of plays, constructive plays, or other payable units during the fiscal year covered by the Annual Statement, together with, and which if necessary shall be broken down to identify separately, the following:
+(2) *Accounting of phonorecords subject to a percentage rate royalty structure.* (i) The information called for by paragraph (c)(5) of this section shall identify each offering for which royalties are to be calculated separately and, with respect to each nondramatic musical work as to which the compulsory licensee has made and distributed phonorecords subject to applicable provisions of part 385 of this title, or any other provisions, requiring computation of applicable royalties on a percentage-rate basis, include the number of plays, constructive plays, or other payable units during the fiscal year covered by the Annual Statement, together with, and which if necessary shall be broken down to identify separately, the following:
 
 (A) The total royalty payable for the fiscal year for the item described by the set of information called for, and broken down as required, by paragraph (d)(3) of this section (*i.e.,* the per-work royalty allocation for the relevant sound recording and offering).
 
@@ -140,4 +140,4 @@
 
 (h) *Annual Statements for periods before the effective date of this regulation.* If a copyright owner did not receive an Annual Statement of Account from a compulsory licensee for any fiscal year ending after March 1, 2009 and before November 17, 2014, the copyright owner may, at any time before May 17, 2015, make a request in writing to that compulsory licensee requesting an Annual Statement of Account for the relevant fiscal year conforming to the requirements of this section. If such a request is made, the compulsory licensee shall provide the Annual Statement of Account within six months after receiving the request. If such a circumstance and request applies to more than one of the compulsory licensee's fiscal years, such years may be combined on a single statement.
 
-[79 FR 56206, Sept. 18, 2014, as amended at 79 FR 60978, Oct. 9, 2014; 82 FR 9365, Feb. 6, 2017]
+[79 FR 56206, Sept. 18, 2014, as amended at 79 FR 60978, Oct. 9, 2014; 82 FR 9365, Feb. 6, 2017; 84 FR 10686, Mar. 22, 2019]

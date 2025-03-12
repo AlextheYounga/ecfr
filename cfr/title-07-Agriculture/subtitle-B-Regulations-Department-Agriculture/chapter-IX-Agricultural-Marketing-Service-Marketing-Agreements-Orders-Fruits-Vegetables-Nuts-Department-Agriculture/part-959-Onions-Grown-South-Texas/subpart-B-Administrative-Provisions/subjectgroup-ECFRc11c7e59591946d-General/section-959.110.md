@@ -1,5 +1,7 @@
 ##### § 959.110 Reestablishment of districts. #####
 
+Link to an amendment published at 84 FR 10667, Mar. 22, 2019.
+
 Pursuant to § 959.25, the following districts are reestablished:
 
 (a) *District 1* (Coastal Bend-Lower Valley): The counties of Victoria, Calhoun, Goliad, Refugio, Bee, Live Oak, San Patricio, Aransas, Jim Wells, Nueces, Kleberg, Brooks, Kenedy, Duval, McMullen, Cameron, Hidalgo, Starr, and Willacy.
