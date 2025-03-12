@@ -25,3 +25,5 @@
 (8) Claims for any other meritorious claims in exceptional cases may be allowed by the Claims Officer.
 
 (9) Transportation or travel losses. Damage or loss of personal property, including baggage and household items, while being transported by a carrier, agent or agency of the government, or private conveyance, may be allowed only if the property is shipped under orders or in connection with travel orders.
+
+(b) [Reserved]

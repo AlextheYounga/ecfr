@@ -1,7 +1,5 @@
 ##### § 1008.9 Disclosure of records. #####
 
-Link to an amendment published at 83 FR 50834, October 10, 2018.
-
 (a) *Prohibition of disclosure.* No record contained in a system of records may be disclosed by any means of communication to any person, or to another agency, except pursuant to a written request by, or with the prior written consent of, the individual to whom the record pertains.
 
 (b) *General exceptions.* The prohibition contained in paragraph (a) of this section does not apply where disclosure of the record would be:
@@ -14,7 +12,7 @@ Link to an amendment published at 83 FR 50834, October 10, 2018.
 
 (1) For a routine use which has been described in a system notice published in the Federal Register;
 
-(2) To the Bureau of the Census for purposes of planning or carrying out a census or survey or related activity pursuant to the provisions of Title 13, U.S. Code.
+(2) To the Bureau of the Census for purposes of planning or carrying out a census or survey or related activity pursuant to the provisions of Title 13, U.S. Code;
 
 (3) To a recipient who has provided the system manager responsible for the system in which the record is maintained with advance adequate written assurance that the record will be used solely as a statistical research or reporting record, and the record is to be transferred in a form that is not individually identifiable;
 
@@ -30,8 +28,14 @@ Link to an amendment published at 83 FR 50834, October 10, 2018.
 
 (9) Pursuant to the order of a court of competent jurisdiction; or
 
-(10) To a consumer reporting agency in accordance with section 3(d) of the Federal Claims Collection Act of 1966, as amended (31 U.S.C. 3711(f)).
+(10) To a consumer reporting agency in accordance with section 3(d) of the Federal Claims Collection Act of 1966, as amended (31 U.S.C. 3711(e)).
 
 (d) *Reviewing records prior to disclosure.* (1) Prior to any disclosure of a record about an individual, unless disclosure is required by the Freedom of Information Act, reasonable efforts shall be made to ensure that the records are accurate, complete, timely and relevant for agency purposes.
 
 (2) When a record is disclosed in connection with a Freedom of Information Act request made under this part and it is appropriate and administratively feasible to do so, the requester shall be informed of any information known to the Presidio Trust indicating that the record may not be fully accurate, complete, or timely.
+
+(e) *Notice of court-ordered and emergency disclosures.* (1) *Court-ordered disclosures.* When a record pertaining to an individual is required to be disclosed by a court order, the Presidio Trust will make reasonable efforts to provide notice of this to the individual. Notice will be given within a reasonable time after the Presidio Trust's receipt of the order—except that in a case in which the order is not a matter of public record, the notice will be given only after the order becomes public. This notice will be mailed to the individual's last known address and will contain a copy of the order and a description of the information disclosed. Notice will not be given if disclosure is made from a criminal law enforcement system of records that has been exempted from the notice requirement.
+
+(2) *Emergency disclosures.* Upon disclosing a record pertaining to an individual made under compelling circumstances affecting health or safety, the Presidio Trust will notify that individual of the disclosure. This notice will be mailed to the individual's last known address and will state the nature of the information disclosed, the person, organization or agency to which it was disclosed, the date of the disclosure, and the compelling circumstances justifying the disclosure.
+
+[83 FR 50835, Oct. 10, 2018]

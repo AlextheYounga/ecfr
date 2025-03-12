@@ -19,3 +19,5 @@
 (9) Stolen property when it's determined that claimant failed to exercise due care in protecting his or her property.
 
 (10) Sales Tax. Reimbursements for the payment of sales tax incurred in connection with repairs or replacing an item will not be allowed.
+
+(b) [Reserved]

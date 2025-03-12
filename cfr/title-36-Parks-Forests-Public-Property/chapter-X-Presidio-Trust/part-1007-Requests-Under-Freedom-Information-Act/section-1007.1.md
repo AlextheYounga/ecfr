@@ -1,10 +1,8 @@
 ##### § 1007.1 Purpose and scope. #####
 
-Link to an amendment published at 83 FR 50828, October 10, 2018.
+(a) This part contains the procedures for submission to and consideration by the Presidio Trust of requests for records under the FOIA. As used in this part, the term “FOIA” means the Freedom of Information Act, 5 U.S.C. 552. The regulations in this part should be read in conjunction with the text of the FOIA. Requests made by individuals for records about themselves under the Privacy Act of 1974, 5 U.S.C. 552a, are processed in accordance with the Presidio Trust's Privacy Act regulations as well as under this subpart.
 
-(a) This part contains the procedures for submission to and consideration by the Presidio Trust of requests for records under FOIA. As used in this part, the term “FOIA” means the Freedom of Information Act, 5 U.S.C. 552.
-
-(b) Before invoking the formal procedures set out below, persons seeking records from the Presidio Trust may find it useful to consult with the Presidio Trust's FOIA Officer, who can be reached at The Presidio Trust, P.O. Box 29052, San Francisco, CA 94129-0052, Telephone: (415) 561-5300. As used in this part, the term “FOIA Officer” means the employee designated by the Executive Director to process FOIA requests and otherwise supervise the Presidio Trust's compliance with FOIA, or the alternate employee so designated to perform these duties in the absence of the FOIA Officer.
+(b) Before invoking the formal procedures set out below, persons seeking records from the Presidio Trust may find it useful to consult with the Presidio Trust's FOIA Officer, who can be reached at The Presidio Trust, P.O. Box 29052, San Francisco, CA 94129-0052, Telephone: (415) 561-5300. As used in this part, the term “FOIA Officer” means the employee designated by the Executive Director to process FOIA requests and otherwise supervise the Presidio Trust's compliance with the FOIA, or the alternate employee so designated to perform these duties in the absence of the FOIA Officer.
 
 (c) The procedures in this part do not apply to:
 
@@ -16,8 +14,10 @@ Link to an amendment published at 83 FR 50828, October 10, 2018.
 
 (ii) There is reason to believe that:
 
-(A) The subject of the investigation or proceeding is not aware of its pendency, and
+(A) The subject of the investigation or proceeding is not aware of its pendency; and
 
 (B) Disclosure of the existence of the records could reasonably be expected to interfere with enforcement proceedings.
 
 (3) Informant records maintained by the United States Park Police under an informant's name or personal identifier, if requested by a third party according to the informant's name or personal identifier, unless the informant's status as an informant has been officially confirmed.
+
+[83 FR 50828, Oct. 10, 2018]

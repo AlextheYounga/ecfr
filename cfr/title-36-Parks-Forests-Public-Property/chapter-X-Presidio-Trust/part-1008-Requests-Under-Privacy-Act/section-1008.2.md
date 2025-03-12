@@ -1,10 +1,8 @@
 ##### § 1008.2 Definitions. #####
 
-Link to an amendment published at 83 FR 50834, October 10, 2018.
-
 The following terms have the following meanings as used in this part:
 
-*Individual* means a citizen of the United States or an alien lawfully admitted for permanent residence.
+*Individual* means a citizen of the United States or an alien who is currently lawfully admitted for permanent residence.
 
 *Maintain* means maintain, collect, use or disseminate.
 
@@ -27,3 +25,5 @@ The following terms have the following meanings as used in this part:
 *System manager* means the official designated in a system notice as having administrative responsibility for a system of records.
 
 *System notice* means the notice describing a system of records required by 5 U.S.C. 552a(e)(4) to be published in the Federal Register upon establishment or revision of the system of records.
+
+[63 FR 71779, Dec. 30, 1998, as amended at 83 FR 50834, Oct. 10, 2018]

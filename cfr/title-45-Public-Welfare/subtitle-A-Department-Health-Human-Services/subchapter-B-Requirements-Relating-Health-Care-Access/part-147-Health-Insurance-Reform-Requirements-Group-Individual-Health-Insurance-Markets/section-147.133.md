@@ -1,5 +1,7 @@
 ##### § 147.133 Moral exemptions in connection with coverage of certain preventive health services. #####
 
+Link to an amendment published at 83 FR 57630, Nov. 15, 2018.
+
 (a) *Objecting entities.* (1) Guidelines issued under § 147.130(a)(1)(iv) by the Health Resources and Services Administration must not provide for or support the requirement of coverage or payments for contraceptive services with respect to a group health plan established or maintained by an objecting organization, or health insurance coverage offered or arranged by an objecting organization, and thus the Health Resources and Service Administration will exempt from any guidelines' requirements that relate to the provision of contraceptive services:
 
 (i) A group health plan and health insurance coverage provided in connection with a group health plan to the extent one of the following non-governmental plan sponsors object as specified in paragraph (a)(2) of this section:

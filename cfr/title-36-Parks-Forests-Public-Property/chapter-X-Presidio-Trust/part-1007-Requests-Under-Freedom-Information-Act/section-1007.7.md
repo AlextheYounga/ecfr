@@ -1,7 +1,5 @@
 ##### § 1007.7 Appeals. #####
 
-Link to an amendment published at 83 FR 50832, October 10, 2018.
-
 (a) *Right of appeal.* A requester may appeal to the Executive Director when:
 
 (1) Records have been withheld;
@@ -12,12 +10,16 @@ Link to an amendment published at 83 FR 50832, October 10, 2018.
 
 (4) A request has not been decided within the time limits provided in § 1007.6; or
 
-(5) A request for expedited processing under § 1007.5(d) has been denied.
+(5) A request for expedited processing under § 1007.5(g) has been denied.
 
-(b) *Time for appeal.* An appeal must be received at the office of the Presidio Trust no later than 20 working days after the date of the initial denial, in the case of a denial of an entire request, or 20 working days after records have been made available, in the case of a partial denial.
+(b) *Time for appeal.* An appeal must be received at the office of the Presidio Trust no later than 90 calendar days after the date of the initial denial, in the case of a denial of an entire request, or 90 calendar days after records have been made available, in the case of a partial denial.
 
 (c) *Form of appeal.* (1) An appeal shall be initiated by filing a written notice of appeal. The notice shall be accompanied by copies of the original request and the initial denial and should, in order to expedite the appellate process and give the requester an opportunity to present his or her arguments, contain a brief statement of the reasons why the requester believes the initial denial to have been in error.
 
 (2) The appeal shall be addressed to the Executive Director, The Presidio Trust, P.O. Box 29052, San Francisco, CA 94129-0052.
 
-(3) To expedite processing, both the envelope containing a notice of appeal and the face of the notice should bear the legend “FREEDOM OF INFORMATION APPEAL.”
+(3) To facilitate handling, both the envelope containing a notice of appeal and the face of the notice should bear the legend “FREEDOM OF INFORMATION APPEAL.”
+
+(d) *Appeal required.* Before seeking review by a court of an adverse determination by the Presidio Trust, a requester must first submit a timely administrative appeal.
+
+[83 FR 50832, Oct. 10, 2018]

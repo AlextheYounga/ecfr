@@ -1,7 +1,5 @@
 ##### § 1008.14 Requests for access to records: Submission. #####
 
-Link to an amendment published at 83 FR 50836, October 10, 2018.
-
 (a) *Submission of requests.* (1) Requests for access to records shall be submitted to the Privacy Act Officer unless the system notice describing the system prescribes or permits submission to some other official or officials.
 
 (2) Individuals desiring access to records maintained in two or more separate systems shall submit a separate request for access to the records in each system.
@@ -16,4 +14,18 @@ Link to an amendment published at 83 FR 50836, October 10, 2018.
 
 (5) The request shall supply such identifying information, if any, as is called for in the system notice describing the system.
 
-(6) Requests failing to meet the requirements of this paragraph shall be returned to the requester with a written notice advising the requester of the deficiency in the request.
+(6) The request must include verification of the requester's identity, including the requester's full name, current address, and date and place of birth. The request must be signed by the requester, and the signature must be notarized or submitted under 28 U.S.C. 1746, which permits statements to be made under penalty of perjury as a substitute for notarization.
+
+(7) If the request is made on behalf of a minor or someone determined by a court to be incompetent, for access to records about that individual, the requester must establish:
+
+(i) The identity of the individual who is the subject of the record, by stating the name, current address, date and place of birth, and, at the requester's option, the Social Security number of the individual;
+
+(ii) The requester's identity, as required in paragraph 6 above of this section;
+
+(iii) That the requester is the parent or guardian of that individual, which the requester may prove by providing a copy of the individual's birth certificate showing the requester's parentage or by providing a court order establishing the requester's guardianship; and
+
+(iv) That the requester is acting on behalf of that individual in making the request.
+
+(8) Requests failing to meet the requirements of this paragraph shall be returned to the requester with a written notice advising the requester of the deficiency in the request.
+
+[83 FR 50836, Oct. 10, 2018]

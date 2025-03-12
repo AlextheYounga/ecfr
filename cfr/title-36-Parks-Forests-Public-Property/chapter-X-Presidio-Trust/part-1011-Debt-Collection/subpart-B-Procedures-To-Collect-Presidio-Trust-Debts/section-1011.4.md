@@ -1,7 +1,5 @@
 ##### § 1011.4 What notice will the Presidio Trust send to a debtor when collecting a debt? #####
 
-Link to an amendment published at 83 FR 50837, October 10, 2018.
-
 (a) *Notice requirements.* The Presidio Trust will aggressively collect debts. The Presidio Trust will send at least one written notice to a debtor informing the debtor of the consequences of failing to pay or otherwise resolve a debt. The notice(s) will be sent to the debtor's most current address for the debtor in the records of the Presidio Trust. Except as otherwise provided in paragraph (b) of this section, the written notice(s) will explain to the debtor:
 
 (1) The amount, nature and basis of the debt;
@@ -28,7 +26,11 @@ Link to an amendment published at 83 FR 50837, October 10, 2018.
 
 (vi) Refer the debt to the FMS for collection (see § 1011.9 of this part);
 
-(7) That debts over 180 days delinquent must be referred to the FMS for the collection actions described in paragraph (a)(6) of this section (see § 1011.9 of this part);
+(7) The following timelines for the referral of a delinquent debt to the FMS:
+
+(i) That debts over 120 days delinquent and eligible for the centralized administrative offset collection actions described in paragraph (a)(6)(i) of this section must be referred to the FMS for collection (see §§ 1011.10 through 1011.12);
+
+(ii) That debts over 180 days delinquent not previously referred to the FMS under paragraph (a)(7)(i) of this section must be referred to the FMS for cross servicing debt collection (see § 1011.9).
 
 (8) How the debtor may inspect and obtain copies of disclosable records related to the debt;
 
@@ -73,3 +75,5 @@ Link to an amendment published at 83 FR 50837, October 10, 2018.
 (b) *Exceptions to notice requirements.* The Presidio Trust may omit from a notice to a debtor one or more of the provisions contained in paragraphs (a)(6) through (a)(16) of this section if the Presidio Trust, in consultation with its General Counsel, determines that any provision is not legally required given the collection remedies to be applied to a particular debt.
 
 (c) *Respond to debtors.* The Presidio Trust will respond promptly to communications from debtors.
+
+[70 FR 73588, Dec. 13, 2005, as amended at 83 FR 50837, Oct. 10, 2018]

@@ -1,5 +1,7 @@
 ##### § 54.9815-2713AT Accommodations in connection with coverage of preventive health services (temporary). #####
 
+Link to an amendment published at 83 FR 57589, Nov. 15, 2018.
+
 (a) *Eligible organizations for optional accommodation.* An eligible organization is an organization that meets the criteria of paragraphs (a)(1) through (4) of this section.
 
 (1) The organization is an objecting entity described in 45 CFR 147.132(a)(1)(i) or (ii), or 45 CFR 147.133(a)(1)(i) or (ii);

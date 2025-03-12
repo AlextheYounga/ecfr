@@ -1,5 +1,7 @@
 ##### § 54.9815-2713T Coverage of preventive health services (temporary). #####
 
+Link to an amendment published at 83 FR 57589, Nov. 15, 2018.
+
 (a) *Services* - (1) *In general.* Beginning at the time described in paragraph (b) of § 54.9815-2713 and subject to § 54.9815-2713A, a group health plan, or a health insurance issuer offering group health insurance coverage, must provide coverage for and must not impose any cost-sharing requirements (such as a copayment, coinsurance, or a deductible) for -
 
 (i)-(iii) [Reserved]. For further guidance, see § 54.9815-2713(a)(1)(i) through (iii).

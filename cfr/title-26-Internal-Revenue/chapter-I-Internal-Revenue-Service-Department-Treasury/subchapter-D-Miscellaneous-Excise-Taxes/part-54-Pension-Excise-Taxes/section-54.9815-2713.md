@@ -1,5 +1,7 @@
 ##### § 54.9815-2713 Coverage of preventive health services. #####
 
+Link to an amendment published at 83 FR 57586, Nov. 15, 2018.Link to an amendment published at 83 FR 57630, Nov. 15, 2018.
+
 (a) *Services* - (1) *In general.* [Reserved]. For further guidance, see § 54.9815-2713T(a)(1) introductory text.
 
 (i) Evidence-based items or services that have in effect a rating of A or B in the current recommendations of the United States Preventive Services Task Force with respect to the individual involved (except as otherwise provided in paragraph (c) of this section);
