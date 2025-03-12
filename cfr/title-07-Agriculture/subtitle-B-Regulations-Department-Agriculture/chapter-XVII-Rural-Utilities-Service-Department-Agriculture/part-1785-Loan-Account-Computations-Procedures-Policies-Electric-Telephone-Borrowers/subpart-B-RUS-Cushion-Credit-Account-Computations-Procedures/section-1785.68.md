@@ -1,3 +1,5 @@
-##### § 1785.68 Establishing an RUS cushion of credit payment account. #####
+##### § 1785.68 RUS cushion of credit payment accounts. #####
 
-A cushion of credit account shall be automatically established by RUS for each borrower who makes a payment after October 1, 1987, in excess of amounts then due on an RUS note. Such account will bear interest at a rate of 5 percent per annum. All payments on RUS notes which are in excess of required payments and not otherwise designated shall be deposited in the borrowers' respective cushion of credit accounts. Payments received in the month in which an installment is due will be applied to the installment due. However, if the regular installment payment is received at a later date in the month, the first payment received will be applied retroactively to a cushion of credit account and the second will be applied to the installment due.
+Effective December 20, 2018, no new cushion of credit accounts may be established. Deposits remaining in the cushion of credit accounts will bear an interest rate equal to the one-year Treasury interest rate in effect on October 1st for each year thereafter.
+
+[87 FR 74502, Dec. 6, 2022]

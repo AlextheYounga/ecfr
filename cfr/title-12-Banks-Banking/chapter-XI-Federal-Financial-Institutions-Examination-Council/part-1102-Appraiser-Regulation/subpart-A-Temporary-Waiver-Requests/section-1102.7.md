@@ -1,7 +1,5 @@
-##### § 1102.7 Waiver termination. #####
+##### § 1102.7 ASC determination. #####
 
-The ASC at any time may terminate a waiver order on the finding that:
+(a) *Order by the ASC.* Within 90 calendar days of the date of publication of the notice in the Federal Register, the ASC, by Order, shall either grant or deny a waiver, in whole or in part, and upon specified terms and conditions, including provisions for waiver termination. The Order shall be published in the Federal Register, which in the case of an Order approving a waiver, shall only be published after FFIEC approval of the waiver (*see* paragraph (b) of this section). Such Order shall respond to comments received from interested members of the public and shall provide the reasons for the ASC's finding(s).
 
-(a) The significant delays in obtaining the services of certified or licensed appraisers no longer exist; or
-
-(b) The terms and conditions of the waiver order are not being satisfied. The ASC shall publish a finding of waiver termination promptly in the Federal Register, giving interested persons no less than 30 calendar days from publication in which to submit written data, views and arguments. In the absence of further ASC action to the contrary, the finding of waiver termination automatically shall become final 21 calendar days after the close of the comment period.
+(b) *Approval by the FFIEC.* Any ASC Order approving a waiver shall be effective only upon FFIEC approval of the waiver. FFIEC consideration of a waiver is not subject to the ASC's 90-day timeframe for a determination.

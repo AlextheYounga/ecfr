@@ -1,0 +1,3 @@
+##### § 1102.8 Waiver extension. #####
+
+The ASC may initiate an extension of temporary waiver relief and shall follow §§ 1102.6, 1102.7 and 1102.9. A State Appraisal Agency also may seek an extension of temporary waiver relief by forwarding an additional written Request for Temporary Waiver to the ASC. A request for an extension from a State Appraisal Agency shall be subject to all the requirements of this subpart.
