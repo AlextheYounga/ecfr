@@ -1463,7 +1463,7 @@ ut terminals of the transmitter (including any filters that may be employed). In
 |      Wailuku       |              7, \*10, 12, 16, 21, 24              |
 |     Waimanalo      |                        15                         |
 |       IDAHO        |                                                   |
-|       Boise        |                  7, 9, \*21, 39                   |
+|       Boise        |                  7, 20, \*21, 39                  |
 |      Caldwell      |                        10                         |
 |   Coeur d'Alene    |                       \*45                        |
 |       Filer        |                       \*18                        |

@@ -46,31 +46,31 @@
 
 (i) Year 1 (2016). Submit pre-operative data on primary elective THA/TKA procedures for ≥50% or ≥50 eligible procedures performed between July 1, 2016 and August 31, 2016, unless CMS requests a more limited data set, in which case, submit all requested data elements.
 
-(ii) Year 2 (2017). Submit -
+(ii) Year 2 (2017). Submit—
 
 (A) Post-operative data on primary elective THA/TKA procedures for ≥50% or ≥50 eligible procedures performed between July 1, 2016 through August 31, 2016; and
 
 (B) Pre-operative data on primary elective THA/TKA procedures for ≥60% or ≥75 procedures performed between September 1, 2016 through June 30, 2017, unless CMS requests a more limited data set, in which case, submit all requested data elements.
 
-(iii) Year 3 (2018). Submit -
+(iii) Year 3 (2018). Submit—
 
 (A) POST-operative data on primary elective THA/TKA procedures for ≥60% or ≥75 procedures performed between September 1, 2016 and June 30, 2017; and
 
 (B) Pre-operative data on primary elective THA/TKA procedures for ≥70% or ≥100 procedures performed between July 1, 2017 and June 30, 2018, unless CMS requests a more limited data set, in which case, submit all requested data elements.
 
-(iv) Year 4 (2019). Submit -
+(iv) Year 4 (2019). Submit—
 
 (A) Post-operative data on primary elective THA/TKA procedures for ≥70% or ≥100 procedures performed between July 1, 2017 and June 30, 2018; and
 
 (B) Pre-operative data on primary elective THA/TKA procedures for ≥80% or ≥200 procedures performed between July 1, 2018 and June 30, 2019, unless CMS requests a more limited data set, in which case, submit all requested data elements.
 
-(v) Year 5 (subset 5.1, January 1, 2020-December 31, 2020). Submit -
+(v) Year 5 (subset 5.1, January 1, 2020-December 31, 2020). Submit—
 
 (A) Post-operative data on primary elective THA/TKA procedures for ≥80% or ≥200 procedures performed between July 1, 2018 and June 30, 2019 and
 
 (B) Pre-operative data on primary elective THA/TKA procedures for ≥80% or ≥200 procedures performed between July 1, 2019 and June 30, 2020, unless CMS requests a more limited data set, in which case, submit all requested data elements.
 
-(vi) Year 5 (subset 5.2, January 1, 2021-September 30, 2021). Submit -
+(vi) Year 5 (subset 5.2, January 1, 2021-September 30, 2021). Submit—
 
 (A) Post-operative data on primary elective THA/TKA procedures for ≥80% or ≥200 procedures performed between July 1, 2019 and June 30, 2020; and
 
@@ -78,25 +78,25 @@
 
 (4) For years 6 through 8 of the model the following data are requested by CMS for each performance period as follows:
 
-(i) Year 6 (October 1, 2021 to December 31, 2022). Submit -
+(i) Year 6 (October 1, 2021 to December 31, 2022). Submit—
 
 (A) Post-operative data on primary elective THA/TKA procedures for ≥80% or ≥200 procedures performed between July 1, 2019 and June 30, 2020; and
 
 (B) Pre-operative data on primary elective THA/TKA procedures for ≥80% or ≥300 procedures performed between July 1, 2021 and June 30, 2022.
 
-(ii) Year 7 (2023). Submit -
+(ii) Year 7 (2023). Submit—
 
 (A) Post-operative data on primary elective THA/TKA procedures for ≥80% or ≥300 procedures performed between July 1, 2021 and June 30, 2022; and
 
 (B) Pre-operative data on primary elective THA/TKA procedures for ≥85% or ≥400 procedures performed between July 1, 2022 and June 30, 2023.
 
-(iii) Year 8 (2024). Submit -
+(iii) Year 8 (2024). Submit—
 
 (A) Post-operative data on primary elective THA/TKA procedures for ≥85% or ≥400 procedures performed between July 1, 2022 and June 30, 2023; and
 
 (B) Pre-operative data on primary elective THA/TKA procedures for ≥90% or ≥500 procedures performed between July 1, 2023 and June 30, 2024.
 
-(c) *Public reporting.* CMS -
+(c) *Public reporting.* CMS—
 
 (1) Makes the quality measurement results calculated for the complication and patient survey quality measures described in paragraph (a) of this section for each participant hospital in each performance year publicly available on the CMS Web site in a form and manner as determined by CMS;
 
@@ -104,4 +104,4 @@
 
 (3) Does not publicly report the voluntary patient-reported outcomes and limited risk variable data during this model, but indicates whether a hospital has successfully submitted such data in accordance with § 510.400(b).
 
-[80 FR 73540, Nov. 24, 2015, as amended at 82 FR 615, Jan. 3, 2017; 85 FR 71201, Nov. 6, 2020; 86 FR 23574, May 3, 2021]
+[80 FR 73540, Nov. 24, 2015, as amended at 82 FR 615, Jan. 3, 2017; 85 FR 71201, Nov. 6, 2020; 86 FR 23574, May 3, 2021; 86 FR 36229, July 9, 2021]

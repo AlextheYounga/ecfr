@@ -96,4 +96,4 @@
 
 (3) A mobile competitive eligible telecommunications carrier that voluntarily relinquishes receipt of monthly support pursuant to § 54.307(e)(5), (e)(6), or (e)(7) will no longer be required to comply with the public interest obligations specified in this section, except that the carrier may be deemed to be in default and subject to recovery of support as set forth in paragraph (k)(2) of this section.
 
-[85 FR 75819, Nov. 25, 2020]Effective Date Note:At 85 FR 75819, Nov. 25, 2020, § 54.322 was added, However, paragraphs (b), (c)(4), (g), (h), (i) and (j), have a delayed effective date.
+[85 FR 75819, Nov. 25, 2020]Effective Date Note:At 85 FR 75819, Nov. 25, 2020, § 54.322 was added, However, paragraphs (b), (g), (h), (i) and (j), have a delayed effective date.

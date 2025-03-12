@@ -1,5 +1,7 @@
 ##### § 165.154 Safety and Security Zones; Captain of the Port Long Island Sound Zone Safety and Security Zones. #####
 
+Link to an amendment published at 86 FR 37051, July 14, 2021.
+
 The following areas are designated safety and security zones:
 
 (a) *Security zones.* (1) Dominion Millstone Nuclear Power Plant, Waterford, CT.

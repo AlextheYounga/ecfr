@@ -1,10 +1,14 @@
 ##### § 573.496 Guanidinoacetic acid. #####
 
-The food additive, guanidinoacetic acid, may be safely used in broiler chicken and turkey feeds in accordance with the following prescribed conditions:
+The food additive, guanidinoacetic acid, may be safely used in poultry feeds in accordance with the following prescribed conditions:
 
 (a) The additive is manufactured by reacting glycine with cyanamide in an aqueous solution.
 
-(b) The additive is used or intended for use to spare arginine and as a precursor of creatine in broiler chicken and turkey feeds at levels not to exceed 0.12 percent of the complete feed.
+(b) The additive is used or intended for use at levels not to exceed 0.12 percent of the complete feed:
+
+(1) To spare arginine in broiler chicken and turkey feeds; or
+
+(2) As a precursor of creatine in poultry feeds.
 
 (c) The additive consists of not less than 97 percent guanidinoacetic acid [*N*-(aminoiminomethyl)-glycine] (CAS 352-97-6) by weight.
 
@@ -26,8 +30,8 @@ The food additive, guanidinoacetic acid, may be safely used in broiler chicken a
 
 (2) The label and labeling of the additive and any feed premix shall also contain:
 
-(i) A statement to indicate that the maximum use level of guanidinoacetic acid must not exceed 0.12 percent of the complete feed for broiler chickens and turkeys; and
+(i) A statement to indicate the maximum use level of guanidinoacetic acid must not exceed 0.12 percent of the complete feed for poultry; and
 
 (ii) Adequate directions for use.
 
-[81 FR 86269, Nov. 30, 2016]
+[81 FR 86269, Nov. 30, 2016, as amended at 86 FR 37038, July 14, 2021]

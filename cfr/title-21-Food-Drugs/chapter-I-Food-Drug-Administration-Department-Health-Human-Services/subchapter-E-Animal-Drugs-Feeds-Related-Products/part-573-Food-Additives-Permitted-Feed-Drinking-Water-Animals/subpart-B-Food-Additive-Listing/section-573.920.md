@@ -12,7 +12,7 @@
 
 (5) the manufacture and use of selenium at such levels cannot reasonably be controlled by adherence to current good manufacturing practice requirements.
 
-(6) Paragraphs (b) through (g) of this section provide the currently acceptable levels of selenium supplementation.
+(6) Paragraphs (b) through (h) of this section provide the currently acceptable levels of selenium supplementation.
 
 (b) The food additive selenium is a nutrient administered in animal feed as sodium selenite or sodium selenate as provided in paragraph (c) of this section, as a controlled-release sodium selenite bolus as provided in paragraph (f) of this section, as selenium yeast as provided in paragraph (g) of this section, or as selenomethionine hydroxy analogue as provided in paragraph (h) of this section.
 
@@ -84,9 +84,15 @@
 
 (iv) Mercury, not more than 1 ppm.
 
-(2) Selenium, as selenomethionine hydroxy analogue, is added to complete feed for chickens, turkeys, and swine at a level not to exceed 0.3 ppm.
+(2) Selenium, as selenomethionine hydroxy analogue, is added to feed as follows:
 
-(3) To ensure safe use of the additive, in addition to the other information required by the Federal Food, Drug, and Cosmetic Act, the label and labeling of selenomethionine hydroxy analogue in its packaged form shall contain:
+(i) In complete feed for chickens, turkeys, swine, beef cattle, and dairy cattle at a level not to exceed 0.3 ppm.
+
+(ii) In feed supplements for limit feeding for beef cattle at a level not to exceed an intake of 3 milligrams per head per day.
+
+(iii) In salt-mineral mixtures for free-choice feeding for beef cattle up to 120 parts per million in a mixture for free-choice feeding at a rate not to exceed an intake of 3 milligrams per head per day.
+
+(3) To assure safe use of the additive, in addition to the other information required by the Federal Food, Drug, and Cosmetic Act, the label and labeling of selenomethionine hydroxy analogue in its packaged form shall contain:
 
 (i) The name, selenomethionine hydroxy analogue;
 
@@ -102,4 +108,4 @@
 
 (5) Usage of this additive must conform to the requirements of paragraphs (d) and (e) of this section.
 
-[52 FR 10888, Apr. 6, 1987; 52 FR 21001, June 4, 1987, as amended at 54 FR 14215, Apr. 10, 1989; 54 FR 15874, Apr. 19, 1989; 60 FR 53703, Oct. 17, 1995; 65 FR 35824, June 6, 2000; 65 FR 53167, Sept. 1, 2000; 67 FR 46851, July 17, 2002; 68 FR 52340, Sept. 3, 2003; 72 FR 39561, July 19, 2007; 84 FR 7993, Mar. 6, 2019]Effective Date Note:At 58 FR 47973, Sept. 13, 1993, the amendments to § 573.920 that were published at 52 FR 10887, Apr. 6, 1987; 52 FR 21001, June 4, 1987; and 54 FR 14214, Apr. 10, 1989 were stayed until further notice. At 59 FR 45973, Sept. 6, 1994, the stay was confirmed.
+[52 FR 10888, Apr. 6, 1987; 52 FR 21001, June 4, 1987, as amended at 54 FR 14215, Apr. 10, 1989; 54 FR 15874, Apr. 19, 1989; 60 FR 53703, Oct. 17, 1995; 65 FR 35824, June 6, 2000; 65 FR 53167, Sept. 1, 2000; 67 FR 46851, July 17, 2002; 68 FR 52340, Sept. 3, 2003; 72 FR 39561, July 19, 2007; 84 FR 7993, Mar. 6, 2019; 86 FR 37036, July 14, 2021]Effective Date Note:At 58 FR 47973, Sept. 13, 1993, the amendments to § 573.920 that were published at 52 FR 10887, Apr. 6, 1987; 52 FR 21001, June 4, 1987; and 54 FR 14214, Apr. 10, 1989 were stayed until further notice. At 59 FR 45973, Sept. 6, 1994, the stay was confirmed.
