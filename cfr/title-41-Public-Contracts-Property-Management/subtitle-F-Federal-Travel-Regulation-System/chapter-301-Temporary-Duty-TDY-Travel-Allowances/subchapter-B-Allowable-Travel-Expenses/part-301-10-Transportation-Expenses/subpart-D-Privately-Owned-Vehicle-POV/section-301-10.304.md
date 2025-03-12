@@ -1,5 +1,7 @@
 ##### § 301-10.304 What expenses are allowable in addition to the POV mileage rate allowances? #####
 
+Link to an amendment published at 87 FR 24065, Apr. 22, 2022.
+
 Following is a chart listing the reimbursable and non-reimbursable expenses:
 
 |                               Reimbursable expenses in addition to mileage allowance                                |                                                  Non-reimbursable expenses included in the mileage allowance                                                   |

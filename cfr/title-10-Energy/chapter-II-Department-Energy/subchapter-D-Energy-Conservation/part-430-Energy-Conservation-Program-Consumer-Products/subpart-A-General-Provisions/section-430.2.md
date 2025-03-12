@@ -1,7 +1,5 @@
 ##### § 430.2 Definitions. #####
 
-Link to an amendment published at 87 FR 16385, Mar. 23, 2022.
-
 For purposes of this part, words shall be defined as provided for in section 321 of the Act and as follows -
 
 *3-Way incandescent lamp* means an incandescent lamp that -
@@ -100,7 +98,9 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Battery charger* means a device that charges batteries for consumer products, including battery chargers embedded in other consumer products.
 
-*Blowout toilet* means a water closet that uses a non-siphonic bowl with an integral flushing rim, a trap at the rear of the bowl, and a visible or concealed jet that operates with a blowout action.
+*Blowout action* means a means of flushing a water closet whereby a jet of water directed at the bowl outlet opening pushes the bowl contents into the upleg, over the weir, and into the gravity drainage system.
+
+*Blowout bowl* means a non-siphonic water closet bowl with an integral flushing rim, a trap at the rear of the bowl, and a visible or concealed jet that operates with a blowout action.
 
 *BPAR incandescent reflector lamp* means a reflector lamp as shown in figure C78.21-278 on page 32 of ANSI C78.21-2003 (incorporated by reference; *see* § 430.3).
 
@@ -324,7 +324,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Electric storage water heater* means a water heater that uses electricity as the energy source, has a nameplate input rating of 12 kW or less, and contains more than one gallon of water per 4,000 Btu per hour of input.
 
-*Electromechanical hydraulic toilet* means any water closet that utilizes electrically operated devices, such as, but not limited to, air compressors, pumps, solenoids, motors, or macerators in place of or to aid gravity in evacuating waste from the toilet bowl.
+*Electromechanical hydraulic water closet* means any water closet that utilizes electrically operated devices, such as, but not limited to, air compressors, pumps, solenoids, motors, or macerators in place of or to aid gravity in evacuating waste from the toilet bowl.
 
 *Electronic ballast* means a device that uses semiconductors as the primary means to control lamp starting and operation.
 
@@ -483,6 +483,8 @@ For purposes of this part, words shall be defined as provided for in section 321
 *General service lamp* includes general service incandescent lamps, compact fluorescent lamps, general service light-emitting diode lamps, organic light-emitting diode lamps, and any other lamps that the Secretary determines are used to satisfy lighting applications traditionally served by general service incandescent lamps; however, this definition does not apply to any lighting application or bulb shape excluded from the “general service incandescent lamp” definition, or any general service fluorescent lamp or incandescent reflector lamp.
 
 *Gravity central furnace* means a gas fueled furnace which depends primarily on natural convection for circulation of heated air and which is designed to be used in conjunction with a system of ducts.
+
+*Gravity flush tank water closet* means a water closet designed to flush the bowl with water supplied by gravity only.
 
 *Grid-enabled water heater* means an electric resistance water heater that -
 
@@ -803,6 +805,10 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Single-duct portable air conditioner* means a portable air conditioner that draws all of the condenser inlet air from the conditioned space without the means of a duct, and discharges the condenser outlet air outside the conditioned space through a single duct attached to an adjustable window bracket.
 
+*Siphonic action* means the movement of water through a flushing fixture by creating a siphon to remove waste material.
+
+*Siphonic bowl* means a water closet bowl that has an integral flushing rim, a trap at the front or rear, and a floor or wall outlet, and operates with a siphonic action (with or without a jet).
+
 *Small-duct high-velocity (SDHV) electric furnace* means an electric furnace that:
 
 (1) Is designed for, and produces, at least 1.2 inches of external static pressure when operated at the certified air volume rate of 220-350 CFM per rated ton of cooling in the highest default cooling airflow-control setting; and
@@ -894,6 +900,8 @@ For purposes of this part, words shall be defined as provided for in section 321
 (5) Has a combined outdoor air exchange area of less than 800 square inches (split systems) or less than 1,210 square inches (single packaged systems) as measured on the surface described in paragraph (4) of this definition.
 
 *Torchiere* means a portable electric lamp with a reflector bowl that directs light upward to give indirect illumination.
+
+*Trough-type urinal* means a urinal designed for simultaneous use by two or more people.
 
 *Unvented gas heater* means an unvented, self-contained, free-standing, nonrecessed gas-burning appliance which furnishes warm air by gravity or fan circulation.
 

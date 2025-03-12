@@ -1,7 +1,5 @@
 ##### § 430.32 Energy and water conservation standards and their compliance dates. #####
 
-Link to an amendment published at 87 FR 16386, Mar. 23, 2022.
-
 The energy and water (in the case of faucets, showerheads, water closets, and urinals) conservation standards for the covered product classes are:
 
 (a) *Refrigerators/refrigerator-freezers/freezers.* These standards do not apply to refrigerators and refrigerator-freezers with total refrigerated volume exceeding 39 cubic feet (1104 liters) or freezers with total refrigerated volume exceeding 30 cubic feet (850 liters). The energy standards as determined by the equations of the following table(s) shall be rounded off to the nearest kWh per year. If the equation calculation is halfway between the nearest two kWh per year values, the standard shall be rounded up to the higher of these values.
@@ -609,16 +607,16 @@ The maximum flow rate of a sprayhead that delivers a pre-set volume of water bef
 
 (p) *Showerheads.* The maximum water use allowed for any showerheads manufactured after January 1, 1994, shall be 2.5 gallons per minute (9.5 liters per minute) when measured at a flowing pressure of 80 pounds per square inch gage (552 kilopascals). When used as a component of any such showerhead, the flow-restricting insert shall be mechanically retained at the point of manufacture such that a force of 8.0 pounds force (36 Newtons) or more is required to remove the flow-restricting insert, except that this requirement shall not apply to showerheads for which removal of the flow-restricting insert would cause water to leak significantly from areas other than the spray face.
 
-(q) *Water closets.* (1) The maximum water use allowed in gallons per flush for any of the following water closets manufactured after January 1, 1994, shall be as follows:
+(q) *Water closets.* The maximum water use allowed in gallons per flush for any of the following water closets is as follows:
 
-|         Water closet type         |Maximum flush rate  <br/>(gpf (Lpf))|
-|-----------------------------------|------------------------------------|
-|     Gravity tank-type toilets     |             1.6 (6.0)              |
-|     Flushometer tank toilets      |             1.6 (6.0)              |
-|Electromechanical hydraulic toilets|             1.6 (6.0)              |
-|          Blowout toilets          |             3.5 (13.2)             |
-
-(2) The maximum water use allowed for flushometer valve toilets, other than blowout toilets, manufactured after January 1, 1997, shall be 1.6 gallons per flush (6.0 liters per flush).
+|                           Water closet type                            |Maximum flush rate  <br/>(gpf (Lpf))|          |
+|------------------------------------------------------------------------|------------------------------------|----------|
+|                   Manufactured after January 1, 1994                   | Manufactured after January 1, 1997 |          |
+|                  (1) Gravity flush tank water closet                   |             1.6 (6.0)              |1.6 (6.0) |
+|                   (2) Flushometer tank water closet                    |             1.6 (6.0)              |1.6 (6.0) |
+|              (3) Electromechanical hydraulic water closet              |             1.6 (6.0)              |1.6 (6.0) |
+|                     (4) Blowout bowl water closet                      |             3.5 (13.2)             |3.5 (13.2)|
+|(5) Flushometer valve water closets, other than those with blowout bowls|                                    |1.6 (6.0) |
 
 (r) *Urinals.* The maximum water use allowed for any urinals manufactured after January 1, 1994, shall be 1.0 gallons per flush (3.8 liters per flush). The maximum water use allowed for a trough-type urinal shall be the product of:
 

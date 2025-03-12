@@ -1,7 +1,5 @@
 ##### § 430.23 Test procedures for the measurement of energy and water consumption. #####
 
-Link to an amendment published at 87 FR 16385, Mar. 23, 2022.
-
 When the test procedures of this section call for rounding off of test results, and the results fall equally between two values of the nearest dollar, kilowatt-hour, or other specified nearest value, the result shall be rounded up to the nearest higher value.
 
 (a) *Refrigerators and refrigerator-freezers.* (1) The estimated annual operating cost for models without an anti-sweat heater switch shall be the product of the following three factors, with the resulting product then being rounded to the nearest dollar per year:
@@ -372,9 +370,9 @@ M, MWS, N, EF, and ETLP are defined in paragraph (c)(1)(i) of this section, and 
 
 (t) *Showerheads.* The maximum permissible water use allowed for showerheads, expressed in gallons and liters per minute (gpm and L/min), shall be measured in accordance to section 2(b) of appendix S of this subpart.
 
-(u) *Water closets.* The maximum permissible water use allowed for water closets, expressed in gallons and liters per flush (gpf and Lpf), shall be measured in accordance to section 3(a) of appendix T of this subpart.
+(u) *Water closets.* Measure the water use for water closets, expressed in gallons or liters per flush (gpf or Lpf), in accordance with section 3(a) of appendix T to this subpart.
 
-(v) *Urinals.* The maximum permissible water use allowed for urinals, expressed in gallons and liters per flush (gpf and Lpf), shall be measured in accordance to section 3(b) of appendix T of this subpart.
+(v) *Urinals.* Measure the water use for urinals, expressed in gallons or liters per flush (gpf or Lpf), in accordance with section 3(b) of appendix T to this subpart.
 
 (w) *Ceiling fans.* Measure the efficiency of a ceiling fan, expressed in cubic feet per minute per watt (CFM/W), in accordance with appendix U to this subpart.
 

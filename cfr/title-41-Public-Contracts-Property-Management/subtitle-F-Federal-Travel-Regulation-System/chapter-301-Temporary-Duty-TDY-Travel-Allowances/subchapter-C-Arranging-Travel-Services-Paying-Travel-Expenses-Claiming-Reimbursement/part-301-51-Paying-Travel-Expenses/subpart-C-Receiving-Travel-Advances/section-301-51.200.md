@@ -1,5 +1,7 @@
 ##### § 301-51.200 For what expenses may I receive a travel advance? #####
 
+Link to an amendment published at 87 FR 24065, Apr. 22, 2022.
+
 |                                                                                            For                                                                                             |                                                                                          You may receive an advance                                                                                           |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |                 (a) Cash transaction expenses (i.e., expenses that as a general rule cannot be charged and must be paid using cash, a personal check, or travelers check)                  |                                                                                     Any time you are on official travel.                                                                                      |

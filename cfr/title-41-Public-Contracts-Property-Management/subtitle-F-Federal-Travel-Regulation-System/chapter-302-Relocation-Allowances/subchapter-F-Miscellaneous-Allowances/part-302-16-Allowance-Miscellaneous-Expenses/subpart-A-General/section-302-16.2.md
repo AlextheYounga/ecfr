@@ -1,5 +1,7 @@
 ##### § 302-16.2 What are miscellaneous expenses? #####
 
+Link to an amendment published at 87 FR 24065, Apr. 22, 2022.
+
 Miscellaneous expenses are:
 
 (a) Costs associated with relocating that are not covered by other relocation benefits detailed in chapter 302.

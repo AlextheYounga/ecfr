@@ -18,7 +18,9 @@ In accordance with restrictions specified in this section, the following synthet
 
 (iii) Hypochlorous acid - generated from electrolyzed water.
 
-(iv) Sodium hypochlorite.
+(iv) Potassium hypochlorite - for use in water for irrigation purposes.
+
+(v) Sodium hypochlorite.
 
 (3) Copper sulfate - for use as an algicide in aquatic rice systems, is limited to one application per field during any 24-month period. Application rates are limited to those which do not increase baseline soil test values for copper over a timeframe agreed upon by the producer and accredited certifying agent.
 
@@ -132,7 +134,11 @@ In accordance with restrictions specified in this section, the following synthet
 
 (11) Sulfurous acid (CAS # 7782-99-2) for on-farm generation of substance utilizing 99% purity elemental sulfur per paragraph (j)(2) of this section.
 
-(k) As plant growth regulators. Ethylene gas - for regulation of pineapple flowering.
+(k) As plant growth regulators.
+
+(1) Ethylene gas - for regulation of pineapple flowering.
+
+(2) Fatty alcohols (C6, C8, C10, and/or C12) - for sucker control in organic tobacco production.
 
 (l) As floating agents in postharvest handling. Sodium silicate - for tree fruit and fiber processing.
 
@@ -148,4 +154,4 @@ In accordance with restrictions specified in this section, the following synthet
 
 (p)-(z) [Reserved]
 
-[65 FR 80637, Dec. 21, 2000, as amended at 68 FR 61992, Oct. 31, 2003; 71 FR 53302 Sept. 11, 2006; 72 FR 69572, Dec. 10, 2007; 75 FR 38696, July 6, 2010; 75 FR 77524, Dec. 13, 2010; 77 FR 8092, Feb. 14, 2012; 77 FR 33298, June 6, 2012; 77 FR 45907, Aug. 2, 2012; 78 FR 31821, May 28, 2013; 79 FR 58663, Sept. 30, 2014; 80 FR 77234, Dec. 14, 2015; 82 FR 31243, July 6, 2017; 83 FR 66571, Dec. 27, 2018; 84 FR 56677, Oct. 23, 2019; 87 FR 10938, Feb. 28, 2022]
+[65 FR 80637, Dec. 21, 2000, as amended at 68 FR 61992, Oct. 31, 2003; 71 FR 53302 Sept. 11, 2006; 72 FR 69572, Dec. 10, 2007; 75 FR 38696, July 6, 2010; 75 FR 77524, Dec. 13, 2010; 77 FR 8092, Feb. 14, 2012; 77 FR 33298, June 6, 2012; 77 FR 45907, Aug. 2, 2012; 78 FR 31821, May 28, 2013; 79 FR 58663, Sept. 30, 2014; 80 FR 77234, Dec. 14, 2015; 82 FR 31243, July 6, 2017; 83 FR 66571, Dec. 27, 2018; 84 FR 56677, Oct. 23, 2019; 87 FR 10938, Feb. 28, 2022; 87 FR 16375, Mar. 23, 2022]

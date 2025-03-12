@@ -1,5 +1,7 @@
 ##### § 301-10.451 May I be reimbursed for the cost of collision damage waiver (CDW) or theft insurance? #####
 
+Link to an amendment published at 87 FR 24065, Apr. 22, 2022.
+
 (a) *General rule - no.* You will not be reimbursed for CDW or theft insurance for travel within CONUS for the following reasons:
 
 (1) The Government is a self-insurer.
