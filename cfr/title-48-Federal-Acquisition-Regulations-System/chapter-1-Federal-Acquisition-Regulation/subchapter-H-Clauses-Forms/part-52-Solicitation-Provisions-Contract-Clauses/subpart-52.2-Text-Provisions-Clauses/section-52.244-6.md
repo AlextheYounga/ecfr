@@ -1,10 +1,8 @@
 ##### 52.244-6 Subcontracts for Commercial Items. #####
 
-Link to an amendment published at 86 FR 31075, June 10, 2021.
-
 As prescribed in 44.403, insert the following clause:
 
-Subcontracts for Commercial Items (NOV 2020)
+Subcontracts for Commercial Items (JUL 2021)
 
 (a) *Definitions.* As used in this clause -
 
@@ -58,7 +56,7 @@ Subcontracts for Commercial Items (NOV 2020)
 
 (xix) 52.232-40, Providing Accelerated Payments to Small Business Subcontractors (DEC 2013), if flow down is required in accordance with paragraph (c) of FAR clause 52.232-40.
 
-(xx) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (FEB 2006) (46 U.S.C. App. 1241 and 10 U.S.C. 2631), if flow down is required in accordance with paragraph (d) of FAR clause 52.247-64.
+(xx) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (FEB 2006) (46 U.S.C. 55305 and 10 U.S.C. 2631), if flow down is required in accordance with paragraph (d) of FAR clause 52.247-64.
 
 (2) While not required, the Contractor may flow down to subcontracts for commercial items a minimal number of additional clauses necessary to satisfy its contractual obligations.
 

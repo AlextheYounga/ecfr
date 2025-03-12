@@ -1,12 +1,12 @@
 ##### § 3280.504 Condensation control and installation of vapor retarders. #####
 
-Link to an amendment published at 86 FR 2521, Jan. 12, 2021.Link to a delay published at 86 FR 13645, Mar. 10, 2021.
-
 (a) *Ceiling vapor retarders.* (1) In Uo Value Zones 2 and 3, ceilings must have a vapor retarder with a permeance of not greater than 1 perm (as measured by ASTM E 96-95 Standard Test Methods for Water Vapor Transmission of Materials) (incorporated by reference, see § 3280.4) installed on the living space side of the roof cavity.
 
 (2) For manufactured homes designed for Uo Value Zone 1, the vapor retarder may be omitted.
 
-(b) *Exterior walls.* (1) Exterior walls must have a vapor retarder with a permeance no greater than 1 perm (dry cup method) installed on the living space side of the wall; or
+(3) In multi-story manufactured homes, the ceiling vapor retarder is permitted to be omitted when the story directly above is part of the same manufactured home.
+
+(b) *Exterior walls.* (1) Exterior walls must be provided with a system or method to manage moisture and vapor accumulation with one of the elements in paragraphs (b)(1) through (4) of this section. For purposes of the requirement in this paragraph (b), the fire separation wall between each attached manufactured home must be considered to be an exterior wall. See subpart K of this part.
 
 (2) Unventilated wall cavities must have an external covering and/or sheathing that forms the pressure envelope. The covering and/or sheathing must have a combined permeance of not less than 5.0 perms. In the absence of test data, combined permeance is permitted to be computed using the following formula: P total = (1/[(1/P1) + (1/P2)]), where P1 and P2 are the permeance values of the exterior covering and sheathing in perms. Formed exterior siding applied in sections with joints not caulked or sealed, are not considered to restrict water vapor transmission; or
 
@@ -78,4 +78,4 @@ Anderson, Angelina, Aransas, Atascosa, Austin, Bastrop, Bee, Bexar, Brazoria, Br
 
 (4) The vents provided for ventilating attics and roof cavities shall be designed to resist entry of rain and insects.
 
-[40 FR 58752, Dec. 18, 1975. Redesignated at 44 FR 20679, Apr. 6, 1979, as amended at 58 FR 55009, Oct. 25, 1993; 70 FR 72046, Nov. 30, 2005; 71 FR 19639, Apr. 17, 2006; 78 FR 73984, Dec. 9, 2013]
+[40 FR 58752, Dec. 18, 1975. Redesignated at 44 FR 20679, Apr. 6, 1979, as amended at 58 FR 55009, Oct. 25, 1993; 70 FR 72046, Nov. 30, 2005; 71 FR 19639, Apr. 17, 2006; 78 FR 73984, Dec. 9, 2013; 86 FR 2521, Jan. 12, 2021]

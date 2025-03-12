@@ -1,12 +1,12 @@
 ##### § 3280.2 Definitions. #####
 
-Link to an amendment published at 86 FR 2516, Jan. 12, 2021.Link to a delay published at 86 FR 13645, Mar. 10, 2021.
-
 Definitions in this subpart are those common to all subparts of the standard and are in addition to the definitions provided in individual parts. The definitions are as follows:
 
 *Approved,* when used in connection with any material, appliance or construction, means complying with the requirements of the Department of Housing and Urban Development.
 
-*Bay window* - a window assembly whose maximum horizontal projection is not more than two feet from the plane of an exterior wall and is elevated above the floor level of the home.
+*Attached accessory building or structure* means any awning, cabana, deck, ramada, storage cabinet, carport, windbreak, garage or porch for which the attachment of such is designed by the home manufacturer to be structurally supported by the manufactured home.
+
+*Bay window*—a window assembly whose maximum horizontal projection is not more than two feet from the plane of an exterior wall and is elevated above the floor level of the home.
 
 *Certification label* means the approved form of certification by the manufacturer that, under § 3280.8, is permanently affixed to each transportable section of each manufactured home manufactured for sale in the United States.
 
@@ -40,4 +40,4 @@ Definitions in this subpart are those common to all subparts of the standard and
 
 *Width of a manufactured home* means its largest overall width in the traveling mode, including cabinets and other projections which contain interior space. Width does not include bay windows, roof projections, overhangs, or eaves under which there is no interior space.
 
-[40 FR 58752, Dec. 18, 1975, as amended at 42 FR 960, Jan. 4, 1977. Redesignated at 44 FR 20679, Apr. 6, 1979, as amended at 47 FR 28092, June 29, 1982; 58 FR 55002, Oct. 25, 1993; 61 FR 5216, Feb. 9, 1996; 72 FR 27228, May 14, 2007]
+[40 FR 58752, Dec. 18, 1975, as amended at 42 FR 960, Jan. 4, 1977. Redesignated at 44 FR 20679, Apr. 6, 1979, as amended at 47 FR 28092, June 29, 1982; 58 FR 55002, Oct. 25, 1993; 61 FR 5216, Feb. 9, 1996; 72 FR 27228, May 14, 2007; 86 FR 2516, Jan. 12, 2021]

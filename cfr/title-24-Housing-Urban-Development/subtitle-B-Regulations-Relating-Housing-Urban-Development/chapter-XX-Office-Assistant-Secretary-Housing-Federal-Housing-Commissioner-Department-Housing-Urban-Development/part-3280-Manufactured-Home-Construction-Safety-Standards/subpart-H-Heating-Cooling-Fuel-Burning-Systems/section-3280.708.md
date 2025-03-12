@@ -1,8 +1,6 @@
 ##### § 3280.708 Exhaust duct system and provisions for the future installation of a clothes dryer. #####
 
-Link to an amendment published at 86 FR 2522, Jan. 12, 2021.Link to a delay published at 86 FR 13645, Mar. 10, 2021.
-
-(a) *Clothes dryers.* (1) All gas and electric clothes dryers shall be exhausted to the outside by a moisture-lint exhaust duct and termination fitting. When the clothes dryer is supplied by the manufacturer, the exhaust duct and termination fittings shall be completely installed by the manufacturer. However, if the exhaust duct system is subject to damage during transportation, it need not be completely installed at the factory when:
+(a) *Clothes dryers.* (1) All gas and electric clothes dryers must be exhausted to the outside by a moisture/lint exhaust duct and termination fitting. When the manufacturer supplies the clothes dryer, the exhaust duct and termination fittings must be completely installed by the manufacturer. If the exhaust duct system is subject to damage during transportation, or a field connection between transportable sections is required, complete factory installation of the exhaust duct system is not required when the following apply:
 
 (i) The exhaust duct system is connected to the clothes dryer, and
 
@@ -32,4 +30,4 @@ Link to an amendment published at 86 FR 2522, Jan. 12, 2021.Link to a delay publ
 
 (3) Provide written instructions on how to complete the exhaust duct installation in accordance with the provisions of paragraphs (a)(1) through (5) of this section.
 
-[42 FR 54383, Oct. 5, 1977. Redesignated at 44 FR 20679, Apr. 6, 1979, as amended at 58 FR 55018, Oct. 25, 1993]
+[42 FR 54383, Oct. 5, 1977. Redesignated at 44 FR 20679, Apr. 6, 1979, as amended at 58 FR 55018, Oct. 25, 1993; 86 FR 2522, Jan. 12, 2021]

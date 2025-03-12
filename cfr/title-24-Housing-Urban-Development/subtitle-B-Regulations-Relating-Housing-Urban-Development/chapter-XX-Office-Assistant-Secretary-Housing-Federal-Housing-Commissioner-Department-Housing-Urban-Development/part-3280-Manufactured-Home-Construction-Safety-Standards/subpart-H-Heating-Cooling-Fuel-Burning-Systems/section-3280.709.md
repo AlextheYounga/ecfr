@@ -1,8 +1,18 @@
 ##### § 3280.709 Installation of appliances. #####
 
-Link to an amendment published at 86 FR 2523, Jan. 12, 2021.Link to a delay published at 86 FR 13645, Mar. 10, 2021.
+(a) The installation of each appliance must conform to the terms of its listing and the manufacturer's instructions. The manufactured home manufacturer must leave the appliance manufacturer's instructions attached to the appliance. Every appliance must be secured in place to avoid displacement. For the purpose of servicing and replacement, each appliance must be both accessible and removable.
 
-(a) The installation of each appliance shall conform to the terms of its listing and the manufacturer's instructions. The installer shall leave the manufacturer's instructions attached to the appliance. Every appliance shall be secured in place to avoid displacement. For the purpose of servicing and replacement, each appliance shall be both accessible and removable.
+(1) A direct vent space heating appliance is permitted to be shipped loose for on-site installation in a basement provided the following:
+
+(i) The heating appliance is listed for the installation.
+
+(ii) Approved installation instructions are provided that include requirements for completion of all gas and electrical connections and provide for the manufacturer's inspection and/or testing of all connections.
+
+(iii) Approved instructions are provided to assure connection of the vent and combustion air systems in accordance with § 3280.710(b), and to provide for the manufacturer's inspection of the systems for compliance.
+
+(iv) Approved installation and the manufacturer's inspection procedures are provided for the connection of the site-installed heating appliance to the factory-installed circulation air system and return air systems.
+
+(2) The procedures must include revisions to assure compliance of the installed systems with § 3280.715.
 
 (b) Heat-producing appliances shall be so located that no doors, drapes, or other such material can be placed or swing closer to the front of the appliance than the clearances specified on the labeled appliances.
 
@@ -78,4 +88,4 @@ This compartment is not to be used as a storage area. Storage of combustible mat
 
 (h) A corrosion resistant water drip collection and drain pan must be installed under each water heater that will allow water leaking from the water heater to drain to the exterior of the manufactured home, or to a drain.
 
-[40 FR 58752, Dec. 18, 1975. Redesignated at 44 FR 20679, Apr. 6, 1979, as amended at 44 FR 66195, Nov. 19, 1979; 58 FR 55018, Oct. 25, 1993; 70 FR 72050, Nov. 30, 2005]
+[40 FR 58752, Dec. 18, 1975. Redesignated at 44 FR 20679, Apr. 6, 1979, as amended at 44 FR 66195, Nov. 19, 1979; 58 FR 55018, Oct. 25, 1993; 70 FR 72050, Nov. 30, 2005; 86 FR 2523, Jan. 12, 2021]

@@ -1,7 +1,5 @@
 ##### § 1308.12 Schedule II. #####
 
-Link to an amendment published at 86 FR 30774, June 10, 2021.
-
 (a) Schedule II shall consist of the drugs and other substances, by whatever official name, common or usual name, chemical name, or brand name designated, listed in this section. Each drug or substance has been assigned the Controlled Substances Code Number set forth opposite it.
 
 (b) *Substances, vegetable origin or chemical synthesis.* Unless specifically excepted or unless listed in another schedule, any of the following substances whether produced directly or indirectly by extraction from substances of vegetable origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis:
@@ -43,38 +41,38 @@ Link to an amendment published at 86 FR 30774, June 10, 2021.
 
 (c) *Opiates.* Unless specifically excepted or unless in another schedule any of the following opiates, including its isomers, esters, ethers, salts and salts of isomers, esters and ethers whenever the existence of such isomers, esters, ethers, and salts is possible within the specific chemical designation, dextrorphan and levopropoxyphene excepted:
 
-|                                                         (1) Alfentanil                                                          |9737|
-|:--------------------------------------------------------------------------------------------------------------------------------|---:|
-|                                                        (2) Alphaprodine                                                         |9010|
-|                                                         (3) Anileridine                                                         |9020|
-|                                                         (4) Bezitramide                                                         |9800|
-|                                         (5) Bulk dextropropoxyphene (non-dosage forms)                                          |9273|
-|                                                         (6) Carfentanil                                                         |9743|
-|                                                       (7) Dihydrocodeine                                                        |9120|
-|                                                        (8) Diphenoxylate                                                        |9170|
-|                                                          (9) Fentanyl                                                           |9801|
-|                                                        (10) Isomethadone                                                        |9226|
-|                                                  (11) Levo-alphacetylmethadol                                                   |9648|
-|                            [Some other names: levo-alpha-acetylmethadol, levomethadyl acetate, LAAM]                            |    |
-|                                                       (12) Levomethorphan                                                       |9210|
-|                                                        (13) Levorphanol                                                         |9220|
-|                                                         (14) Metazocine                                                         |9240|
-|                                                         (15) Methadone                                                          |9250|
-|                            (16) Methadone-Intermediate, 4-cyano-2-dimethylamino-4,4-diphenyl butane                             |9254|
-|                     (17) Moramide-Intermediate, 2-methyl-3-morpholino-1, 1-diphenylpropane-carboxylic acid                      |9802|
-|(18) Oliceridine (N-[(3-methoxythiophen-2-yl)methyl] ({2-[(9R)-9-(pyridin-2-yl)-6-oxaspiro [4.5]decan-9-yl]ethyl})amine fumarate)|9245|
-|                                                   (19) Pethidine (meperidine)                                                   |9230|
-|                               (20) Pethidine-Intermediate-A, 4-cyano-1-methyl-4-phenylpiperidine                                |9232|
-|                              (21) Pethidine-Intermediate-B, ethyl-4-phenylpiperidine-4-carboxylate                              |9233|
-|                          (22) Pethidine-Intermediate-C, 1-methyl-4-phenylpiperidine-4-carboxylic acid                           |9234|
-|                                                        (23) Phenazocine                                                         |9715|
-|                                                         (24) Piminodine                                                         |9730|
-|                                                       (25) Racemethorphan                                                       |9732|
-|                                                        (26) Racemorphan                                                         |9733|
-|                                                        (27) Remifentanil                                                        |9739|
-|                                                         (28) Sufentanil                                                         |9740|
-|                                                         (29) Tapentadol                                                         |9780|
-|                                                        (30) Thiafentanil                                                        |9729|
+|                                                    (1) Alfentanil                                                    |9737|
+|:---------------------------------------------------------------------------------------------------------------------|---:|
+|                                                   (2) Alphaprodine                                                   |9010|
+|                                                   (3) Anileridine                                                    |9020|
+|                                                   (4) Bezitramide                                                    |9800|
+|                                    (5) Bulk dextropropoxyphene (non-dosage forms)                                    |9273|
+|                                                   (6) Carfentanil                                                    |9743|
+|                                                  (7) Dihydrocodeine                                                  |9120|
+|                                                  (8) Diphenoxylate                                                   |9170|
+|                                                     (9) Fentanyl                                                     |9801|
+|                                                  (10) Isomethadone                                                   |9226|
+|                                             (11) Levo-alphacetylmethadol                                             |9648|
+|                      [Some other names: levo-alpha-acetylmethadol, levomethadyl acetate, LAAM]                       |    |
+|                                                 (12) Levomethorphan                                                  |9210|
+|                                                   (13) Levorphanol                                                   |9220|
+|                                                   (14) Metazocine                                                    |9240|
+|                                                    (15) Methadone                                                    |9250|
+|                       (16) Methadone-Intermediate, 4-cyano-2-dimethylamino-4,4-diphenyl butane                       |9254|
+|                (17) Moramide-Intermediate, 2-methyl-3-morpholino-1, 1-diphenylpropane-carboxylic acid                |9802|
+|(18) Oliceridine (N-[(3-methoxythiophen-2-yl)methyl]({2-[(9R)-9-(pyridin-2-yl)-6-oxaspiro[4.5]decan-9-yl]ethyl})amine)|9245|
+|                                             (19) Pethidine (meperidine)                                              |9230|
+|                          (20) Pethidine-Intermediate-A, 4-cyano-1-methyl-4-phenylpiperidine                          |9232|
+|                        (21) Pethidine-Intermediate-B, ethyl-4-phenylpiperidine-4-carboxylate                         |9233|
+|                     (22) Pethidine-Intermediate-C, 1-methyl-4-phenylpiperidine-4-carboxylic acid                     |9234|
+|                                                   (23) Phenazocine                                                   |9715|
+|                                                   (24) Piminodine                                                    |9730|
+|                                                 (25) Racemethorphan                                                  |9732|
+|                                                   (26) Racemorphan                                                   |9733|
+|                                                  (27) Remifentanil                                                   |9739|
+|                                                   (28) Sufentanil                                                    |9740|
+|                                                   (29) Tapentadol                                                    |9780|
+|                                                  (30) Thiafentanil                                                   |9729|
 
 (d) *Stimulants.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a stimulant effect on the central nervous system:
 

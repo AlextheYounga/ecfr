@@ -1,8 +1,6 @@
 ##### 11.201 Identification and availability of specifications. #####
 
-Link to an amendment published at 86 FR 31074, June 10, 2021.
-
-(a) Solicitations citing requirements documents listed in the General Services Administration (GSA) Index of Federal Specifications, Standards and Commercial Item Descriptions, the DoD Acquisition Streamlining and Standardization Information System (ASSIST), or other agency index shall identify each document's approval date and the dates of any applicable amendments and revisions. Do not use general identification references, such as “the issue in effect on the date of the solicitation.” Contracting offices will not normally furnish these cited documents with the solicitation, except when -
+(a) Solicitations citing requirements documents listed in the General Services Administration (GSA) Index of Federal Specifications, Standards and Commercial Item Descriptions, the DoD Acquisition Streamlining and Standardization Information System (ASSIST), or other agency index shall identify each document's approval date and the dates of any applicable amendments and revisions. Do not use general identification references, such as “the issue in effect on the date of the solicitation.” Contracting offices will not normally furnish these cited documents with the solicitation, except when—
 
 (1) The requirements document must be furnished with the solicitation to enable prospective contractors to make a competent evaluation of the solicitation;
 
@@ -12,7 +10,7 @@ Link to an amendment published at 86 FR 31074, June 10, 2021.
 
 (b) Contracting offices shall clearly identify in the solicitation any pertinent documents not listed in the GSA Index of Federal Specifications, Standards and Commercial Item Descriptions or ASSIST. Such documents shall be furnished with the solicitation or specific instructions shall be furnished for obtaining or examining such documents.
 
-(c) When documents refer to other documents, such references shall -
+(c) When documents refer to other documents, such references shall—
 
 (1) Be restricted to documents, or appropriate portions of documents, that apply in the acquisition;
 
@@ -22,7 +20,7 @@ Link to an amendment published at 86 FR 31074, June 10, 2021.
 
 (4) Identify all applicable first tier references.
 
-(d)(1) The GSA Index of Federal Specifications, Standards and Commercial Item Descriptions, FPMR Part 101-29, may be purchased from the - General Services Administration, Federal Supply Service, Specifications Section, Suite 8100, 470 East L'Enfant Plaza, SW, Washington, DC 20407, Telephone (202) 619-8925.
+(d)(1) The GSA Index of Federal Specifications, Standards and Commercial Item Descriptions, FPMR Part 101-29, may be purchased from the—General Services Administration, Federal Supply Service, Specifications Section, Suite 8100, 470 East L'Enfant Plaza, SW, Washington, DC 20407, Telephone (202) 619-8925.
 
 (2) Most unclassified Defense specifications and standards may be downloaded from the following ASSIST websites:
 
@@ -30,9 +28,7 @@ Link to an amendment published at 86 FR 31074, June 10, 2021.
 
 (ii) Quick Search (*http://quicksearch.dla.mil/*).
 
-(iii) ASSISTdocs.com (*http://assistdocs.com*).
-
-(3) Documents not available from ASSIST may be ordered from the Department of Defense Single Stock Point (DoDSSP) by -
+(3) Documents not available from ASSIST may be ordered from the Department of Defense Single Stock Point (DoDSSP) by—
 
 (i) Using the ASSIST Shopping Wizard (*https://assist.dla.mil/wizard/index.cfm*);
 
@@ -44,4 +40,4 @@ Link to an amendment published at 86 FR 31074, June 10, 2021.
 
 (e) Agencies may purchase some nongovernment standards, including voluntary consensus standards, from the National Technical Information Service's Fedworld Information Network. Agencies may also obtain nongovernment standards from the standards developing organization responsible for the preparation, publication, or maintenance of the standard, or from an authorized document reseller. The National Institute of Standards and Technology can assist agencies in identifying sources for, and content of, nongovernment standards. DoD activities may obtain from the DoDSSP those nongovernment standards, including voluntary consensus standards, adopted for use by defense activities.
 
-[60 FR 48238, Sept. 18, 1995, as amended at 62 FR 40236, July 25, 1997; 63 FR 34063, June 22, 1998; 64 FR 51835, Sept. 24, 1999; 64 FR 72446, Dec. 27, 1999; 69 FR 76358, Dec. 20, 2004; 70 FR 57452, Sept. 30, 2005; 71 FR 228, Jan. 3, 2006; 79 FR 24253, Apr. 29, 2014; 84 FR 19846, May 6, 2019]
+[60 FR 48238, Sept. 18, 1995, as amended at 62 FR 40236, July 25, 1997; 63 FR 34063, June 22, 1998; 64 FR 51835, Sept. 24, 1999; 64 FR 72446, Dec. 27, 1999; 69 FR 76358, Dec. 20, 2004; 70 FR 57452, Sept. 30, 2005; 71 FR 228, Jan. 3, 2006; 79 FR 24253, Apr. 29, 2014; 84 FR 19846, May 6, 2019; 86 FR 31074, June 10, 2021]

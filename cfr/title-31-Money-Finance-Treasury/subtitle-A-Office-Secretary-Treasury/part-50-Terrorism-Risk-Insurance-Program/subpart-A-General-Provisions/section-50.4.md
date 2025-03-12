@@ -1,12 +1,10 @@
 ##### § 50.4 Definitions. #####
 
-Link to an amendment published at 86 FR 30540, June 9, 2021.Link to an amendment published at 86 FR 31620, June 15, 2021.
-
 For purposes of this part:
 
 (a) *Act* means the Terrorism Risk Insurance Act of 2002 (as amended).
 
-(b) *Act of terrorism* - (1) *In general.* The term *act of terrorism* means any act that is certified by the Secretary, in consultation with the Attorney General of the United States and the Secretary of Homeland Security:
+(b) *Act of terrorism*—(1) *In general.* The term *act of terrorism* means any act that is certified by the Secretary, in consultation with the Attorney General of the United States and the Secretary of Homeland Security:
 
 (i) To be an act of terrorism;
 
@@ -24,7 +22,7 @@ For purposes of this part:
 
 (i) The act is committed as part of the course of a war declared by the Congress (except with respect to any coverage for workers' compensation); or
 
-(ii) Property and casualty insurance losses resulting from the act, in the aggregate, do not exceed $5,000,000.
+(ii) Property and casualty insurance losses resulting from the act, in the aggregate, do not exceed $5,000,000. For these purposes, property and casualty insurance losses include any amounts subject to payment under a property and casualty insurance policy, even if the policyholder declined to obtain terrorism risk insurance under the policy or is otherwise ultimately responsible for the payment.
 
 (3) *Judicial review precluded.* The Secretary's certification of an act of terrorism, or determination not to certify an act as an act of terrorism, is final and is not subject to judicial review.
 
@@ -148,7 +146,9 @@ For purposes of this part:
 
 (ii) Extra-contractual damages awarded against, or paid by, an insurer; or
 
-(iii) Payments by an insurer in excess of policy limits.
+(iii) Payments by an insurer in excess of policy limits; or
+
+(iv) Amounts paid by a policyholder as required under the terms and conditions of property and casualty insurance issued by an insurer.
 
 (o) *Insurer* means any entity, including any affiliate of the entity, that meets the following requirements:
 
@@ -212,11 +212,11 @@ For purposes of this part:
 
 (w) *Property and casualty insurance* means commercial lines of property and casualty insurance, including excess insurance, workers' compensation insurance, and directors and officers liability insurance, and:
 
-(1) Means commercial lines within only the following lines of insurance from the NAIC's Exhibit of Premiums and Losses (commonly known as Statutory Page 14): Line 1 - Fire; Line 2.1 - Allied Lines; Line 5.1 - Commercial Multiple Peril (non-liability portion); Line 5.2 - Commercial Multiple Peril (liability portion); Line 8 - Ocean Marine; Line 9 - Inland Marine; Line 16 - Workers' Compensation; Line 17 - Other Liability; Line 18 - Products Liability; Line 22 - Aircraft (all perils); and Line 27 - Boiler and Machinery; and
+(1) Means commercial lines within only the following lines of insurance from the NAIC's Exhibit of Premiums and Losses (commonly known as Statutory Page 14): Line 1—Fire; Line 2.1—Allied Lines; Line 5.1—Commercial Multiple Peril (non-liability portion); Line 5.2—Commercial Multiple Peril (liability portion); Line 8—Ocean Marine; Line 9—Inland Marine; Line 16—Workers' Compensation; Line 17—Other Liability; Line 18—Products Liability; Line 22—Aircraft (all perils); and Line 27—Boiler and Machinery; a stand-alone cyber liability policy falling within Line 17—Other Liability, is property and casualty insurance, so long as it is not otherwise identified for state reporting purposes as a policy that is not property and casualty insurance, such as professional liability insurance.
 
-(2) Does not include:
+(2) Property and casualty insurance does not include:
 
-(i) Federal crop insurance issued or reinsured under the Federal Crop Insurance Act (7 U.S.C. 1501 *et seq.*), or any other type of crop or livestock insurance that is privately issued or reinsured (including crop insurance reported under either Line 2.1 - Allied Lines or Line 2.2 - Multiple Peril (Crop) of the NAIC's Exhibit of Premiums and Losses (commonly known as Statutory Page 14);
+(i) Federal crop insurance issued or reinsured under the Federal Crop Insurance Act (7 U.S.C. 1501 *et seq.*), or any other type of crop or livestock insurance that is privately issued or reinsured (including crop insurance reported under either Line 2.1—Allied Lines or Line 2.2—Multiple Peril (Crop) of the NAIC's Exhibit of Premiums and Losses (commonly known as Statutory Page 14);
 
 (ii) Private mortgage insurance (as defined in section 2 of the Homeowners Protection Act of 1998) (12 U.S.C. 4901) or title insurance;
 
@@ -262,4 +262,4 @@ For purposes of this part:
 
 (ff) *United States* means the several states, and includes the territorial sea and the continental shelf of the United States, as those terms are defined in the Violent Crime Control and Law Enforcement Act of 1994 (18 U.S.C. 2280 and 2281).
 
-[81 FR 93765, Dec. 21, 2016, as amended at 84 FR 62452, Nov. 15, 2019]
+[81 FR 93765, Dec. 21, 2016, as amended at 84 FR 62452, Nov. 15, 2019; 86 FR 30540, June 9, 2021]

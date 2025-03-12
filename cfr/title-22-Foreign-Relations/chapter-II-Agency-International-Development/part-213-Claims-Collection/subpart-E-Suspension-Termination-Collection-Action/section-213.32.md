@@ -1,8 +1,6 @@
-##### § 213.32 Standards for termination. #####
+##### § 213.32 Standards for termination of collection action. #####
 
-Link to an amendment published at 86 FR 31145, June 11, 2021.
-
-A debt may be terminated where the CFO determines that:
+The CFO may terminate collection action on a debt when he or she determines that:
 
 (a) The Government cannot collect or enforce collection of any significant sum from the debtor, having due regard for available judicial remedies, the debtor's ability to pay, and the exemptions available to the debtor under State and Federal law;
 
@@ -15,3 +13,5 @@ A debt may be terminated where the CFO determines that:
 (e) The evidence necessary to prove the claim cannot be produced or the necessary witnesses are unavailable and efforts to induce voluntary payment have failed; or
 
 (f) The debt against the debtor has been discharged in bankruptcy.
+
+[67 FR 47258, July 18, 2002, as amended at 86 FR 31145, June 11, 2021]

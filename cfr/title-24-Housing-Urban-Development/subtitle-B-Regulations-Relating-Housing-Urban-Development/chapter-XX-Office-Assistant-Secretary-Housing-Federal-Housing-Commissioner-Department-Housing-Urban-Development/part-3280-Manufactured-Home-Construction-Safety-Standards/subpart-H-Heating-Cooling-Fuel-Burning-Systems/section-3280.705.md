@@ -1,7 +1,5 @@
 ##### § 3280.705 Gas piping systems. #####
 
-Link to an amendment published at 86 FR 2522, Jan. 12, 2021.Link to a delay published at 86 FR 13645, Mar. 10, 2021.
-
 (a) *General.* The requirements of this section shall govern the installation of all fuel gas piping attached to any manufactured home. The gas piping supply system shall be designed for a pressure not exceeding 14 inch water column (1/2 psi) and not less than 7 inch water column (1/4 psi). The manufacturer shall indicate in his written installation instructions the design pressure limitations for safe and effective operation of the gas piping system. None of the requirements listed in this section shall apply to the piping supplied as a part of an appliance. All exterior openings around piping, ducts, plenums or vents shall be sealed to resist the entrance of rodents.
 
 (b) *Materials.* All materials used for the installation, extension, alteration, or repair of any gas piping system shall be new and free from defects or internal obstructions. It shall not be permissible to repair defects in gas piping or fittings. Inferior or defective materials shall be removed and replaced with acceptable material. The system shall be made of materials having a melting point of not less than 1,450 F, except as provided in § 3280.705(e). They shall consist of one or more of the materials described in § 3280.705(b) (1) through (4).
@@ -18,7 +16,7 @@ Link to an amendment published at 86 FR 2522, Jan. 12, 2021.Link to a delay publ
 
 (c) *Piping design.* Each manufactured home requiring fuel gas for any purpose shall be equipped with a natural gas piping system acceptable for LP-gas. Where fuel gas piping is to be installed in more than one section of an expandable or multiple unit home, the design and construction of the crossover(s) shall be as follows:
 
-(1) All points of crossover shall be readily accessible from the exterior of the home.
+(1) All points of crossover beneath the transportable sections must be readily accessible from the exterior of the home. In multi-story manufactured homes, the interconnections between stories must be accessible through a panel on the exterior or interior of the manufactured home.
 
 (2) The connection(s) between units must be made with a connector(s) listed for exterior use or direct plumbing sized in accordance with § 3280.705(d). A shutoff valve of the non-displaceable rotor type conforming to ANSI Z21.15-1997, Manually Operated Gas Valves for Appliances, Appliances Connector Valves, and Hose End Valves, suitable for outdoor use must be installed at each crossover point upstream of the connection.
 
@@ -36,42 +34,38 @@ Do Not Use Tools To Separate the “Quick-Disconnect” Device
 
 (d) *Gas pipe sizing.* Gas piping systems shall be sized so that the pressure drop to any appliance inlet connection from any gas supply connection, when all appliances are in operation at maximum capacity, is not more than 0.5 inch water column as determined on the basis of test, or in accordance with table 3280.705(d). When determining gas pipe sizing in the table, gas shall be assumed to have a specific gravity of 0.65 and rated at 1000 B.T.U. per cubic foot. The natural gas supply connection(s) shall be not less than the size of the gas piping but shall be not smaller than3/4 inch nominal pipe size.
 
-Table to paragraph (d) - Maximum Capacity of Different Sizes of Pipe and Tubing in Thousands of Btu/hr of Natural Gas for Gas Pressures of 0.5 psig or Less, and a Maximum Pressure Drop of1/2 in. Water Column
+|         ID (in.)         |10 ft|20 ft|30 ft|40 ft|50 ft|60 ft|70 ft|80 ft|90 ft|100 ft|
+|--------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|------|
+|**Iron Pipe Sizes—Length**|     |     |     |     |     |     |     |     |     |      |
+|           1/4            | 43  | 29  | 24  | 20  | 18  | 16  | 15  | 14  | 13  |  12  |
+|           3/8            | 95  | 65  | 52  | 45  | 40  | 36  | 33  | 31  | 29  |  27  |
+|           1/2            | 175 | 120 | 97  | 82  | 73  | 66  | 61  | 57  | 53  |  50  |
+|           3/4            | 360 | 250 | 200 | 170 | 151 | 138 | 125 | 118 | 110 | 103  |
+|            1             | 680 | 465 | 375 | 320 | 285 | 260 | 240 | 220 | 215 | 195  |
 
-|        ID (in.)        |10 ft|20 ft|30 ft|40 ft|50 ft|60 ft|70 ft|80 ft|90 ft|100 ft|
-|------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|------|
-|Iron Pipe Sizes - Length|     |     |     |     |     |     |     |     |     |      |
-|          1/4           | 43  | 29  | 24  | 20  | 18  | 16  | 15  | 14  | 13  |  12  |
-|          3/8           | 95  | 65  | 52  | 45  | 40  | 36  | 33  | 31  | 29  |  27  |
-|          1/2           | 175 | 120 | 97  | 82  | 73  | 66  | 61  | 57  | 53  |  50  |
-|          3/4           | 360 | 250 | 200 | 170 | 151 | 138 | 125 | 118 | 110 | 103  |
-|           1            | 680 | 465 | 375 | 320 | 285 | 260 | 240 | 220 | 215 | 195  |
+|                    EHD <sup>2</sup>                    |ID (in.)|10 ft|20 ft|30 ft|40 ft|50 ft|60 ft|70 ft|80 ft|90 ft|100 ft|
+|--------------------------------------------------------|--------|-----|-----|-----|-----|-----|-----|-----|-----|-----|------|
+|**Corrugated Stainless Steel Tubing—Length**<sup>1</sup>|        |     |     |     |     |     |     |     |     |     |      |
+|                           13                           |  3/8   | 31  | 21  | 17  | 14  | 13  | 12  | 11  | 10  | 10  |  9   |
+|                           15                           |  3/8   | 42  | 30  | 24  | 20  | 18  | 16  | 15  | 14  | 13  |  12  |
+|                           18                           |  1/2   | 79  | 56  | 45  | 39  | 36  | 33  | 30  | 28  | 27  |  25  |
+|                           19                           |  1/2   | 91  | 64  | 52  | 45  | 40  | 36  | 35  | 32  | 31  |  29  |
+|                           23                           |  3/4   | 155 | 111 | 92  | 80  | 72  | 65  | 60  | 58  | 55  |  52  |
+|                           25                           |  3/4   | 184 | 132 | 108 | 93  | 84  | 77  | 71  | 66  | 62  |  60  |
+|                           30                           |   1    | 317 | 222 | 180 | 156 | 138 | 126 | 116 | 108 | 103 |  97  |
+|                           31                           |   1    | 368 | 258 | 209 | 180 | 161 | 147 | 135 | 127 | 120 | 113  |
+|                           37                           |  11/4  | 598 | 426 | 350 | 304 | 273 | 250 | 231 | 217 | 205 | 195  |
 
-|                   EHD<sup>2</sup>                    |ID (in.)|10 ft|20 ft|30 ft|40 ft|50 ft|60 ft|70 ft|80 ft|90 ft|100 ft|
-|------------------------------------------------------|--------|-----|-----|-----|-----|-----|-----|-----|-----|-----|------|
-|Corrugated Stainless Steel Tubing - Length<sup>1</sup>|        |     |     |     |     |     |     |     |     |     |      |
-|                          13                          |  3/8   | 31  | 21  | 17  | 14  | 13  | 12  | 11  | 10  | 10  |  9   |
-|                          15                          |  3/8   | 42  | 30  | 24  | 20  | 18  | 16  | 15  | 14  | 13  |  12  |
-|                          18                          |  1/2   | 79  | 56  | 45  | 39  | 36  | 33  | 30  | 28  | 27  |  25  |
-|                          19                          |  1/2   | 91  | 64  | 52  | 45  | 40  | 36  | 35  | 32  | 31  |  29  |
-|                          23                          |  3/4   | 155 | 111 | 92  | 80  | 72  | 65  | 60  | 58  | 55  |  52  |
-|                          25                          |  3/4   | 184 | 132 | 108 | 93  | 84  | 77  | 71  | 66  | 62  |  60  |
-|                          30                          |   1    | 317 | 222 | 180 | 156 | 138 | 126 | 116 | 108 | 103 |  97  |
-|                          31                          |   1    | 368 | 258 | 209 | 180 | 161 | 147 | 135 | 127 | 120 | 113  |
-|                          37                          |  11/4  | 598 | 426 | 350 | 304 | 273 | 250 | 231 | 217 | 205 | 195  |
-
-|       OD (in.)       |10 ft|20 ft|30 ft|40 ft|50 ft|60 ft|70 ft|80 ft|90 ft|100 ft|
-|----------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|------|
-|Copper Tubing - Length|     |     |     |     |     |     |     |     |     |      |
-|         1/4          | 27  | 18  | 15  | 13  | 11  | 10  |  9  |  9  |  8  |  8   |
-|         3/8          | 56  | 38  | 31  | 26  | 23  | 21  | 19  | 18  | 17  |  16  |
-|         1/2          | 113 | 78  | 62  | 53  | 47  | 43  | 39  | 37  | 34  |  33  |
-|         3/4          | 197 | 136 | 109 | 93  | 83  | 75  | 69  | 64  | 60  |  57  |
-|          1           | 280 | 193 | 155 | 132 | 117 | 106 | 98  | 91  | 85  |  81  |
-
-<sup>1</sup> Includes losses for four 90-degree bends and two end fittings. Tubing runs with larger numbers of bend and/or fittings shall be increased by an equivalent length of tubing according to the following equation: L = 1.3n, where L is actual length (ft) of tubing and n is the number of additional fittings and/or bends.
-
-<sup>2</sup> EHD (Equivalent Hydraulic Diameter) - A measure of the hydraulic efficiency between different tubing sizes.
+|                                                                                                                                                                OD (in.)                                                                                                                                                                |10 ft|20 ft|30 ft|40 ft|50 ft|60 ft|70 ft|80 ft|90 ft|100 ft|
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|------|
+|                                                                                                                                                        **Copper Tubing—Length**                                                                                                                                                        |     |     |     |     |     |     |     |     |     |      |
+|                                                                                                                                                                  1/4                                                                                                                                                                   | 27  | 18  | 15  | 13  | 11  | 10  |  9  |  9  |  8  |  8   |
+|                                                                                                                                                                  3/8                                                                                                                                                                   | 56  | 38  | 31  | 26  | 23  | 21  | 19  | 18  | 17  |  16  |
+|                                                                                                                                                                  1/2                                                                                                                                                                   | 113 | 78  | 62  | 53  | 47  | 43  | 39  | 37  | 34  |  33  |
+|                                                                                                                                                                  3/4                                                                                                                                                                   | 197 | 136 | 109 | 93  | 83  | 75  | 69  | 64  | 60  |  57  |
+|                                                                                                                                                                   1                                                                                                                                                                    | 280 | 193 | 155 | 132 | 117 | 106 | 98  | 91  | 85  |  81  |
+|<sup>1</sup> Includes losses for four 90-degree bends and two end fittings. Tubing runs with larger numbers of bend and/or fittings shall be increased by an equivalent length of tubing according to the following equation: L = 1.3n, where L is actual length (ft) of tubing and n is the number of additional fittings and/or bends.|     |     |     |     |     |     |     |     |     |      |
+|                                                                                                         <sup>2</sup> EHD (Equivalent Hydraulic Diameter)—A measure of the hydraulic efficiency between different tubing sizes.                                                                                                         |     |     |     |     |     |     |     |     |     |      |
 
 (e) *Joints for gas pipe.* All pipe joints in the piping system, unless welded or brazed, shall be threaded joints that comply with Pipe Threads, General Purpose (Inch), adopted 25 October 1984, ANSI/ASME B1.20.1-1983. Right and left nipples or couplings shall not be used. Unions, if used, shall be of ground joint type. The material used for welding or brazing pipe connections shall have a melting temperature in excess of 1,000 F.
 
@@ -93,23 +87,11 @@ Table to paragraph (d) - Maximum Capacity of Different Sizes of Pipe and Tubing 
 
 (i) *Concealed joints.* Piping or tubing joints shall not be located in any floor, wall partition, or similar concealed construction space.
 
-(j) *Gas supply connections.* When gas appliances are installed, at least one gas supply connection shall be provided on each home. The connection shall not be located beneath an exit door. Where more than one connection is provided, the piping system shall be sized to provide adequate capacity from each supply connection.
+(j) *Gas supply connections.* When gas appliances are installed, at least one gas supply connection must be provided on each home. The connection must not be located beneath an exit door. Where more than one connection is provided, the piping system must be sized to provide adequate capacity from each supply connection.
 
-(k) *Identification of gas supply connections.* Each manufactured home shall have permanently affixed to the exterior skin at or near each gas supply connection or the end of the pipe, a tag of 3 inches by 13/4 inches minimum size, made of etched, metal-stamped or embossed brass, stainless steel, anodized or alcalde aluminum not less than 0.020 inch thick, or other approved material (e.g., 0.005 inch plastic laminates), which reads as follows. The connector capacity indicated on this tag shall be equal to or greater than the total Btuh rating of all intended gas appliances.
+(k) *Identification of gas supply connections.* Each manufactured home must have permanently affixed to the exterior skin at or near each gas supply connection or the end of the pipe, a tag of 3 inches by 13/4 inches minimum size, made of etched, metal-stamped or embossed brass, stainless steel, anodized or alcalde aluminum not less than 0.020 inch thick, or other approved material [*e.g.,* 0.005 inch plastic laminates], with the information shown in Figure 1 to this paragraph (k). The connector capacity indicated on this tag must be equal to or greater than the total Btu/hr rating of all intended gas appliances.
 
-Combination LP-Gas and Natural Gas System
-
-This gas piping system is designed for use of either liquefied petroleum gas or natural gas.
-
-NOTICE: BEFORE TURNING ON GAS BE CERTAIN APPLIANCES ARE DESIGNED FOR THE GAS CONNECTED AND ARE EQUIPPED WITH CORRECT ORIFICES. SECURELY CAP THIS INLET WHEN NOT CONNECTED FOR USE.
-
-When connecting to lot outlet, use a listed gas supply connector for mobile homes rated at ☐ 100,000 Btuh or more; ☐ 250,000 Btuh or more.
-
-Before turning on gas, make certain all gas connections have been made tight, all appliance valves are turned off, and any unconnected outlets are capped.
-
-After turning on gas, test gas piping and connections to appliances for leakage with soapy water or bubble solution, and light all pilots.
-
-The connector capacity indicated on this tag shall be equal to or greater than the total Btuh rating of all intended gas appliances.
+![](/graphics/er12ja21.000.gif)
 
 (l) *LP-gas supply connectors.* (1) A listed LP-Gas flexible connection conforming to UL 569-1995, Pigtails and Flexible Hose Connectors for LP Gas, or equal must be supplied when LP-Gas cylinders(s) and regulator(s) are supplied.
 
@@ -133,10 +115,12 @@ THIS OUTLET IS DESIGNED FOR USE WITH GAS PORTABLE APPLIANCES WHOSE TOTAL INPUT D
 
 (6) *Couplings.* Pipe couplings and unions shall be used to join sections of threaded piping. Right and left nipples or couplings shall not be used.
 
-(7) *Hangers and supports.* All gas piping shall be adequately supported by galvanized or equivalently protected metal straps or hangers at intervals of not more than 4 feet, except where adequate support and protection is provided by structural members. Solid-iron-pipe gas supply connection(s) shall be rigidly anchored to a structural member within 6 inches of the supply connection(s).
+(7) *Hangers and supports.* All horizontal gas piping must be adequately supported by galvanized or equivalently protected metal straps or hangers at intervals of not more than 4 feet, except where adequate support and protection is provided by structural members. Vertical gas piping in multi-story dwelling units must be supported at intervals of not more than 6 feet. Solid iron-pipe connection(s) must be rigidly anchored to a structural member within 6 inches of the supply connection(s).
 
-(8) *Testing for leakage.* (i) Before appliances are connected, piping systems shall stand a pressure of at least six inches mercury or three PSI gage for a period of not less than ten minutes without showing any drop in pressure. Pressure shall be measured with a mercury manometer or slope gage calibrated so as to be read in increments of not greater than one-tenth pound, or an equivalent device. The source of normal operating pressure shall be isolated before the pressure tests are made. Before a test is begun, the temperature of the ambient air and of the piping shall be approximately the same, and constant air temperature be maintained throughout the test.
+(8) *Testing for leakage.* (i) Before appliances are connected, piping systems must stand a pressure of three ± 0.2 psi gauge for a period of not less than ten minutes without showing any drop in pressure. Pressure must be measured with a mercury manometer or slope gauge calibrated so as to be read in increments of not greater than one-tenth pound, or an equivalent device. The source of normal operating pressure must be isolated before the pressure tests are made. Before a test is begun, the temperature of the ambient air and of the piping must be approximately the same, and constant air temperature must be maintained throughout the test.
 
 (ii) After appliances are connected, the piping system shall be pressurized to not less than 10 inches nor more than 14 inches water column and the appliance connections tested for leakage with soapy water or bubble solution.
 
-[40 FR 58752, Dec. 18, 1975, as amended at 42 FR 54383, Oct. 5, 1977. Redesignated at 44 FR 20679, Apr. 6, 1979, as amended at 52 FR 4587, Feb. 12, 1987; 58 FR 55016, Oct. 25, 1993; 70 FR 72050, Nov. 30, 2005; 78 FR 73987, Dec. 9, 2013]
+(iii) Where gas piping between transportable sections must be made on site, the installation instructions must contain provisions for onsite testing for leakage consistent with the provisions in paragraph (l)(8)(i) of this section.
+
+[40 FR 58752, Dec. 18, 1975, as amended at 42 FR 54383, Oct. 5, 1977. Redesignated at 44 FR 20679, Apr. 6, 1979, as amended at 52 FR 4587, Feb. 12, 1987; 58 FR 55016, Oct. 25, 1993; 70 FR 72050, Nov. 30, 2005; 78 FR 73987, Dec. 9, 2013; 86 FR 2522, Jan. 12, 2021]

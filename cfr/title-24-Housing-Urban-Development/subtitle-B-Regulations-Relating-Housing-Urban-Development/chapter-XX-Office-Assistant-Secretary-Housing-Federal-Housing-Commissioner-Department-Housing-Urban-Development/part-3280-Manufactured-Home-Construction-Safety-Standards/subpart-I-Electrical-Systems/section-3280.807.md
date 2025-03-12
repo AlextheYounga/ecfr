@@ -1,7 +1,5 @@
 ##### § 3280.807 Fixtures and appliances. #####
 
-Link to an amendment published at 86 FR 2523, Jan. 12, 2021.Link to a delay published at 86 FR 13645, Mar. 10, 2021.
-
 (a) Electrical materials, devices, appliances, fittings, and other equipment installed, intended for use in, or attached to the manufactured home shall be approved for the application and shall be connected in an approved manner when in service. Facilities shall be provided to securely fasten appliances when the manufactured home is in transit. (See § 3280.809.)
 
 (b) Specifically listed pendant-type fixtures or pendant cords shall be permitted in manufactured homes.
@@ -14,4 +12,6 @@ Link to an amendment published at 86 FR 2523, Jan. 12, 2021.Link to a delay publ
 
 (f) Every appliance shall be accessible for inspection, service, repair, or replacement without removal of permanent construction.
 
-[40 FR 58752, Dec. 18, 1975. Redesignated at 44 FR 20679, Apr. 6, 1979, as amended at 52 FR 35543, Sept. 22, 1987; 58 FR 55020, Oct. 25, 1993; 70 FR 72052, Nov. 30, 2005; 78 FR 73991, Dec. 9, 2013]
+(g) In bathrooms, ceiling-mounted lighting fixtures and wall-mounted lighting fixtures must not be controlled by the same switch.
+
+[40 FR 58752, Dec. 18, 1975. Redesignated at 44 FR 20679, Apr. 6, 1979, as amended at 52 FR 35543, Sept. 22, 1987; 58 FR 55020, Oct. 25, 1993; 70 FR 72052, Nov. 30, 2005; 78 FR 73991, Dec. 9, 2013; 86 FR 2523, Jan. 12, 2021]

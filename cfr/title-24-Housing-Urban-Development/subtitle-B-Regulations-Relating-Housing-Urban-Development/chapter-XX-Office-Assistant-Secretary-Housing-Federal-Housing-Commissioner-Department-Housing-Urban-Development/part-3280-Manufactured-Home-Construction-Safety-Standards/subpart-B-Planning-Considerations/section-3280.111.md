@@ -1,7 +1,7 @@
 ##### § 3280.111 Toilet compartments. #####
 
-Link to an amendment published at 86 FR 2517, Jan. 12, 2021.Link to a delay published at 86 FR 13645, Mar. 10, 2021.
+(a) Each toilet compartment must be a minimum of 30 inches wide, except, when the toilet is located adjacent to the short dimension of the tub, the distance from the tub, to the center line of the toilet must not be less than 12 inches. At least 21 inches of clear space must be provided in front of each toilet.
 
-Each toilet compartment must have a minimum width of 30 inches, with a minimum clear space of 21 inches in front of each toilet. A toilet located adjacent to a wall must have the center-line of the toilet located a minimum of 15 inches from the wall. A toilet located adjacent to a tub must have the center-line of the toilet located a minimum of 12 inches from the outside edge of the tub.
+(b) All bathroom passage doors in single-section homes must have a minimum clear opening width of 23 inches, and bathroom passage doors in multi-section homes must have a minimum clear opening width of 27 inches.
 
-[78 FR 73981, Dec. 9, 2013]
+[86 FR 2517, Jan. 12, 2021]

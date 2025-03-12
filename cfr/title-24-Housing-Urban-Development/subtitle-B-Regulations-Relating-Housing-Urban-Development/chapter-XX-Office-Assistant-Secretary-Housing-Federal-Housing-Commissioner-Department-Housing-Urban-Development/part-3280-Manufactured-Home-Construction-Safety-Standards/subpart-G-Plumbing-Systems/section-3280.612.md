@@ -1,8 +1,6 @@
 ##### § 3280.612 Tests and inspection. #####
 
-Link to an amendment published at 86 FR 2521, Jan. 12, 2021.Link to a delay published at 86 FR 13645, Mar. 10, 2021.
-
-(a) *Water system.* All water piping in the water distribution system shall be subjected to a pressure test. The test shall be made by subjecting the system to air or water at 100 psi for 15 minutes without loss of pressure.
+(a) *Water system.* All water piping in the water distribution system must be subjected to a pressure test. The test must be made by subjecting the system to air or water at 80 psi + or − 5 psi for 15 minutes without loss of pressure. The water used for the test must be obtained from a potable water source.
 
 (b) *Drainage and vent system and plumbing fixtures.* The waste and vent system shall be tested by one of the three following alternate methods for evidence or indication of leakage:
 
@@ -16,4 +14,4 @@ Link to an amendment published at 86 FR 2521, Jan. 12, 2021.Link to a delay publ
 
 (d) *Shower compartments.* Shower compartments and receptors shall be tested for leaks prior to being covered by finish material. Each pan shall be filled with water to the top of the dam for not less than 15 minutes without evidence of leakage.
 
-[40 FR 58752, Dec. 18, 1975, as amended at 42 FR 961, Jan. 4, 1977; 42 FR 54383, Oct. 5, 1977. Redesignated at 44 FR 20679, Apr. 6, 1979, as amended at 58 FR 55015, Oct. 25, 1993]
+[40 FR 58752, Dec. 18, 1975, as amended at 42 FR 961, Jan. 4, 1977; 42 FR 54383, Oct. 5, 1977. Redesignated at 44 FR 20679, Apr. 6, 1979, as amended at 58 FR 55015, Oct. 25, 1993; 86 FR 2521, Jan. 12, 2021]

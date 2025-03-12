@@ -1,7 +1,5 @@
 ##### § 165.1196 Regulated Navigation Areas; Harbor Entrances along the Coast of Northern California. #####
 
-Link to an amendment published at 86 FR 31167, June 11, 2021.
-
 (a) *Regulated navigation areas.* Each of the following areas is a regulated navigation area (RNA):
 
 (1) Humboldt Bay Entrance Channel: The navigable waters enclosed by the following coordinates:
@@ -30,15 +28,15 @@ Link to an amendment published at 86 FR 31167, June 11, 2021.
 
 (3) Crescent City Harbor Entrance Channel: The navigable waters of the Crescent City Harbor Entrance Channel enclosed by the following coordinates:
 
-(i) 41°44′11″ N, 124°11′22″ W (Point A);
+(i) 41°43′50″ N, 124°11′27″ W (Point A)
 
-(ii) 41°44′11″ N, 124°11′42″ W (Point B);
+(ii) 41°44′12″N, 124°11′42″ W (Point B)
 
-(iii) 41°44′25″ N, 124°11′54″ W (Point C);
+(iii) 41°44′26″ N, 124°10′55″ W (Point C)
 
-(iv) 41°44′12″ N, 124°10′22″ W (Point D); and
+(iv) 41°44′13″ N, 124°10′20″ W (Point D); and
 
-(v) Thence back to Point A, in Cresent City, CA (NAD 83).
+(v) Thence back to Point A, in Crescent City, CA (NAD 83).
 
 (4) Estero-Morro Bay Harbor Entrance Channel: The navigable waters of the Morro Bay Harbor Entrance Channel enclosed by the following coordinates:
 
@@ -78,7 +76,7 @@ Link to an amendment published at 86 FR 31167, June 11, 2021.
 
 (12) *Small passenger vessel* means a vessel inspected under 46 CFR subchapter T or 46 CFR subchapter K.
 
-(13) *Uninspected passenger vessel* means an uninspected vessel -
+(13) *Uninspected passenger vessel* means an uninspected vessel—
 
 (i) Of at least 100 gross tons;
 
@@ -160,4 +158,4 @@ L = Overall length of a vessel measured in feet in a straight horizontal line al
 
 (6) *Penalties.* All persons and vessels within the RNAs described in paragraph (a) of this section shall comply with orders of Coast Guard personnel. Coast Guard personnel includes commissioned, warrant, petty officers, and civilians of the United States Coast Guard. Any person who fails to comply with this regulation is subject to civil penalty in accordance with 46 U.S.C. 70036.
 
-[USCG-2019-0785, 85 FR 43440, July 17, 2020]
+[USCG-2019-0785, 85 FR 43440, July 17, 2020, as amended at 86 FR 31167, June 11, 2021]

@@ -1,7 +1,5 @@
 ##### § 3280.602 Definitions. #####
 
-Link to an amendment published at 86 FR 2521, Jan. 12, 2021.Link to a delay published at 86 FR 13645, Mar. 10, 2021.
-
 The following definitions are applicable to subpart G only:
 
 *Accessible,* when applied to a fixture, connection, appliance or equipment, means having access thereto, but which may require removal of an access panel or opening of a door.
@@ -59,6 +57,8 @@ The following definitions are applicable to subpart G only:
 *Horizontal branch* means any pipe extending laterally, which receives the discharge from one or more fixture drains and connects to the main drain.
 
 *Horizontal pipe* means any pipe or fitting which makes an angle of not more than 45 degrees with the horizontal.
+
+*Indirect waste receptor* means a receptor that receives a discharge waste pipe that is not directly connected to a receptor but maintains a suitable air gap between the end of the pipe and the top of the drain.
 
 *Individual vent* means a pipe installed to vent a fixture drain.
 
@@ -126,4 +126,4 @@ The following definitions are applicable to subpart G only:
 
 *Whirlpool bathtub* means a plumbing appliance consisting of a bathtub fixture which is equipped and fitted with a circulation piping system, pump, and other appurtenances and is so designed to accept, circulate, and discharge bathtub water upon each use.
 
-[40 FR 58752, Dec. 18, 1975. Redesignated at 44 FR 20679, Apr. 6, 1979, as amended at 52 FR 4584, Feb. 12, 1987; 52 FR 47553, Dec. 15, 1987; 58 FR 55012, Oct. 25, 1993; 78 FR 73984, Dec. 9, 2013]
+[40 FR 58752, Dec. 18, 1975. Redesignated at 44 FR 20679, Apr. 6, 1979, as amended at 52 FR 4584, Feb. 12, 1987; 52 FR 47553, Dec. 15, 1987; 58 FR 55012, Oct. 25, 1993; 78 FR 73984, Dec. 9, 2013' 86 FR 2521, Jan. 12, 2021]

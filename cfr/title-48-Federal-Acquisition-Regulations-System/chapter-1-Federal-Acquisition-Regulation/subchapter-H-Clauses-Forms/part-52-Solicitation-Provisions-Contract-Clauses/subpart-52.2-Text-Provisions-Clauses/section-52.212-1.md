@@ -1,10 +1,8 @@
 ##### 52.212-1 Instructions to Offerors - Commercial Items. #####
 
-Link to an amendment published at 86 FR 31075, June 10, 2021.
-
 As prescribed in 12.301(b)(1), insert the following provision:
 
-Instructions to Offerors - Commercial Items (JUN 2020)
+Instructions to Offerors - Commercial Items (JUL 2021)
 
 (a) *North American Industry Classification System (NAICS) code and small business size standard.* The NAICS code(s) and small business size standard(s) for this acquisition appear elsewhere in the solicitation. However, the small business size standard for a concern which submits an offer in its own name, but which proposes to furnish an item which it did not itself manufacture, is 500 employees.
 
@@ -69,8 +67,6 @@ Instructions to Offerors - Commercial Items (JUN 2020)
 (i) ASSIST (*https://assist.dla.mil/online/start/*).
 
 (ii) Quick Search (*http://quicksearch.dla.mil/*).
-
-(iii) ASSISTdocs.com (*http://assistdocs.com*).
 
 (3) Documents not available from ASSIST may be ordered from the Department of Defense Single Stock Point (DoDSSP) by -
 

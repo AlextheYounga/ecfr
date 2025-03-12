@@ -1,10 +1,8 @@
 ##### 52.212-5 Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Items. #####
 
-Link to an amendment published at 86 FR 31075, June 10, 2021.
-
 As prescribed in 12.301(b)(4), insert the following clause:
 
-Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Items (JAN 2021)
+Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Items (JUL 2021)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses, which are incorporated in this contract by reference, to implement provisions of law or Executive orders applicable to acquisitions of commercial items:
 
@@ -166,7 +164,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (50) 52.225-5, Trade Agreements (OCT 2019) (19 U.S.C. 2501, *et seq.,* 19 U.S.C. 3301 note).
 
-\_\_ (51) 52.225-13, Restrictions on Certain Foreign Purchases (JUNE 2008) (E.O.'s, proclamations, and statutes administered by the Office of Foreign Assets Control of the Department of the Treasury).
+\_\_ (51) 52.225-13, Restrictions on Certain Foreign Purchases (FEB 2021) (E.O.'s, proclamations, and statutes administered by the Office of Foreign Assets Control of the Department of the Treasury).
 
 \_\_ (52) 52.225-26, Contractors Performing Private Security Functions Outside the United States (OCT 2016) (Section 862, as amended, of the National Defense Authorization Act for Fiscal Year 2008; 10 U.S.C. 2302 Note).
 
@@ -174,7 +172,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (54) 52.226-5, Restrictions on Subcontracting Outside Disaster or Emergency Area (NOV 2007) (42 U.S.C. 5150).
 
-\_\_ (55) 52.229-12, Tax on Certain Foreign Procurements (JUN 2020).
+\_\_ (55) 52.229-12, Tax on Certain Foreign Procurements (FEB 2021).
 
 \_\_ (56) 52.232-29, Terms for Financing of Purchases of Commercial Items (FEB 2002) (41 U.S.C.4505, 10 U.S.C. 2307(f)).
 
@@ -190,7 +188,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (62) 52.242-5, Payments to Small Business Subcontractors (JAN 2017)(15 U.S.C. 637(d)(13)).
 
-\_\_ (63)(i) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (Feb 2006) (46 U.S.C. Appx. 1241(b) and 10 U.S.C. 2631).
+\_\_ (63)(i) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (Feb 2006) (46 U.S.C. 55305 and 10 U.S.C. 2631).
 
 \_\_ (ii) Alternate I (Apr 2003) of 52.247-64.
 
@@ -272,7 +270,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 (xxi) 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations (JUN 2020) (42 U.S.C. 1792). Flow down required in accordance with paragraph (e) of FAR clause 52.226-6.
 
-(xxii) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (FEB 2006) (46 U.S.C. Appx. 1241(b) and 10 U.S.C. 2631). Flow down required in accordance with paragraph (d) of FAR clause 52.247-64.
+(xxii) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (FEB 2006) (46 U.S.C. 55305 and 10 U.S.C. 2631). Flow down required in accordance with paragraph (d) of FAR clause 52.247-64.
 
 (2) While not required, the Contractor May include in its subcontracts for commercial items a minimal number of additional clauses necessary to satisfy its contractual obligations.
 
@@ -280,7 +278,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 *Alternate I* (JULY 2014). As prescribed in 12.301(b)(4)(i), delete paragraph (d) from the basic clause, redesignate paragraph (e) as paragraph (d), and revise the reference to “paragraphs (a), (b), (c), or (d) of this clause” in the redesignated paragraph (d) to read “paragraphs (a), (b), and (c) of this clause”.
 
-*Alternate II* (FEB 2021). As prescribed in 12.301(b)(4)(ii), substitute the following paragraphs (d)(1) and (e)(1) for paragraphs (d)(1) and (e)(1) of the basic clause as follows:
+*Alternate II* (JUL 2021). As prescribed in 12.301(b)(4)(ii), substitute the following paragraphs (d)(1) and (e)(1) for paragraphs (d)(1) and (e)(1) of the basic clause as follows:
 
 (d)(1) The Comptroller General of the United States, an appropriate Inspector General appointed under section 3 or 8G of the Inspector General Act of 1978 (5 U.S.C. App.), or an authorized representative of either of the foregoing officials shall have access to and right to -
 
@@ -338,6 +336,6 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 (T) 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations. (JUN 2020) (42 U.S.C. 1792). Flow down required in accordance with paragraph (e) of FAR clause 52.226-6.
 
-(U) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (FEB 2006) (46 U.S.C. Appx. 1241(b) and 10 U.S.C. 2631). Flow down required in accordance with paragraph (d) of FAR clause 52.247-64.
+(U) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (FEB 2006) (46 U.S.C. 55305 and 10 U.S.C. 2631). Flow down required in accordance with paragraph (d) of FAR clause 52.247-64.
 
 [60 FR 48255, Sept. 18, 1995]Editorial Note:For Federal Register citations affecting section 52.212-5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

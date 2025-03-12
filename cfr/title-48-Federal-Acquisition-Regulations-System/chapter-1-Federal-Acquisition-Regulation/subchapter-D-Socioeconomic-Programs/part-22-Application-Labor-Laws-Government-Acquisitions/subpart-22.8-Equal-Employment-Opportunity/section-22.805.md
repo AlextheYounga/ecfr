@@ -1,8 +1,6 @@
 ##### 22.805 Procedures. #####
 
-Link to an amendment published at 86 FR 31074, June 10, 2021.
-
-(a) *Preaward clearances for contracts and subcontracts of $10 million or more (excluding construction).* (1) Except as provided in paragraphs (a)(4) and (a)(8) of this section, if the estimated amount of the contract or subcontract is $10 million or more, the contracting officer shall request clearance from the appropriate OFCCP regional office before -
+(a) *Preaward clearances for contracts and subcontracts of $10 million or more (excluding construction).* (1) Except as provided in paragraphs (a)(4) and (a)(8) of this section, if the estimated amount of the contract or subcontract is $10 million or more, the contracting officer shall request clearance from the appropriate OFCCP regional office before—
 
 (i) Award of any contract, including any indefinite delivery contract or letter contract; or
 
@@ -12,9 +10,9 @@ Link to an amendment published at 86 FR 31074, June 10, 2021.
 
 (3) When the contract work is to be performed outside the United States with employees recruited within the United States, the contracting officer shall send the request for a preaward clearance to the OFCCP regional office serving the area where the proposed contractor's corporate home or branch office is located in the United States, or the corporate location where personnel recruiting is handled, if different from the contractor's corporate home or branch office. If the proposed contractor has no corporate office or location within the United States, the preaward clearance request action should be based on the location of the recruiting and training agency in the United States.
 
-(4) The contracting officer does not need to request a preaward clearance if -
+(4) The contracting officer does not need to request a preaward clearance if—
 
-(i) The specific proposed contractor is listed in OFCCP's National Preaward Registry via the Internet at *https://ofccp.dol-esa.gov/preaward/pa\_reg.html*
+(i) The specific proposed contractor is listed in OFCCP's National Preaward Registry via the Internet at *https://www.dol.gov/agencies/ofccp/pre-award/registry*
 
 (ii) The projected award date is within 24 months of the proposed contractor's Notice of Compliance completion date in the Registry; and
 
@@ -44,4 +42,4 @@ Link to an amendment published at 86 FR 31074, June 10, 2021.
 
 (b) *Furnishing posters.* The contracting officer shall furnish to the contractor appropriate quantities of the poster entitled *Equal Employment Opportunity Is The Law.* These shall be obtained in accordance with agency procedures.
 
-[48 FR 42258, Sept. 19, 1983, as amended at 63 FR 70284, Dec. 18, 1998; 81 FR 67781, Sept. 30, 2016]
+[48 FR 42258, Sept. 19, 1983, as amended at 63 FR 70284, Dec. 18, 1998; 81 FR 67781, Sept. 30, 2016; 86 FR 31074, June 12, 2021]

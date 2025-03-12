@@ -1,0 +1,3 @@
+##### § 213.27 Joint and several liability. #####
+
+When two or more debtors are jointly and severally liable, collection action will not be withheld against one debtor until the other or others pay their proportionate share. The amount of a compromise with one debtor is not precedent in determining compromises from other debtors who have been determined to be jointly and severally liable on the claim.

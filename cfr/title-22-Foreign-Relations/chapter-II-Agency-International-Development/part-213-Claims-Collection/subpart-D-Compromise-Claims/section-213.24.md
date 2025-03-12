@@ -1,0 +1,5 @@
+##### § 213.24 General. #####
+
+The CFO may compromise claims for money or property when the principal balance of a claim, exclusive of interest, penalties, and administrative costs, does not exceed $100,000. Where the claim exceeds $100,000, the authority to accept the compromise rests with DOJ. The CFO may reject an offer of compromise in any amount. DOJ's approval is not required if the Agency rejects a compromise offer. When the claim exceeds $100,000 and the CFO recommends acceptance of a compromise offer, he or she will refer the claim with his or her recommendation to DOJ for approval. The referral may be in the form of the Claims-Collection Litigation Report (CCLR) and will outline the basis for USAID's recommendation. USAID refers compromise offers for claims in excess of $100,000 to the Commercial Litigation Branch of the Civil Division of the Department of Justice, Washington, DC 20530, unless otherwise provided by DOJ's delegations or procedures.
+
+[86 FR 31145, June 11, 2021]

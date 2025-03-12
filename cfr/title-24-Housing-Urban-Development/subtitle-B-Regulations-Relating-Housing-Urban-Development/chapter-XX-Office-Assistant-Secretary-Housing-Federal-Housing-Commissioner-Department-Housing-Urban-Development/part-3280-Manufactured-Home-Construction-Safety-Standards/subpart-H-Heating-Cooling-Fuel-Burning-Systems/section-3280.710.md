@@ -1,7 +1,5 @@
 ##### § 3280.710 Venting, ventilation and combustion air. #####
 
-Link to an amendment published at 86 FR 2523, Jan. 12, 2021.Link to a delay published at 86 FR 13645, Mar. 10, 2021.
-
 (a) The venting as required by § 3280.707(b) shall be accomplished by one or more of the methods given in (a)(1) and (2) of this section:
 
 (1) An integral vent system listed or certified as part of the appliance.
@@ -20,10 +18,10 @@ Sections of the venting system have not been installed. Warning-do not operate t
 
 (c) Venting systems shall not terminate underneath a manufactured home.
 
-(d) Venting system terminations shall be not less than three feet from any motor-driven air intake discharging into habitable areas.
+(d) Venting systems of fuel-burning appliances must terminate at least three feet above any motor-driven air intake discharging into habitable rooms when located within ten feet of the air intake.
 
 (e) The area in which cooking appliances are located shall be ventilated by a metal duct which may be single wall, not less than 12.5 square inches in cross-sectional area (minimum dimension shall be two inches) located above the appliance(s) and terminating outside the manufactured home, or by listed mechanical ventilating equipment discharging outside the home, that is installed in accordance with the terms of listing and the manufacturer's instructions. Gravity or mechanical ventilation shall be installed within a horizontal distance of not more than ten feet from the vertical front of the appliance(s).
 
 (f) Mechanical ventilation which exhausts directly to the outside atmosphere from the living space of a home shall be equipped with an automatic or manual damper. Operating controls shall be provided such that mechanical ventilation can be separately operated without directly energizing other energy consuming devices.
 
-[49 FR 32012, Aug. 9, 1984, as amended at 58 FR 55018, Oct. 25, 1993]
+[49 FR 32012, Aug. 9, 1984, as amended at 58 FR 55018, Oct. 25, 1993; 86 FR 2523, Jan. 12, 2021]

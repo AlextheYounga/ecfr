@@ -1,7 +1,5 @@
 ##### 16.505 Ordering. #####
 
-Link to an amendment published at 86 FR 31074, June 10, 2021.
-
 (a) *General.* (1) In general, the contracting officer does not synopsize orders under indefinite-delivery contracts; except see 16.505(a)(4) and (11), and 16.505(b)(2)(ii)(D).
 
 (2) Individual orders shall clearly describe all services to be performed or supplies to be delivered so the full cost or price for the performance of the work can be established when the order is placed. Orders shall be within the scope, issued within the period of performance, and be within the maximum value of the contract.
@@ -84,7 +82,7 @@ Link to an amendment published at 86 FR 31074, June 10, 2021.
 
 (12) When using the Governmentwide commercial purchase card as a method of payment, orders at or below the micro-purchase threshold are exempt from verification in the System for Award Management as to whether the contractor has a delinquent debt subject to collection under the Treasury Offset Program (TOP).
 
-(b) *Orders under multiple-award contracts* - (1) *Fair opportunity.* (i) The contracting officer must provide each awardee a fair opportunity to be considered for each order exceeding $3,500 issued under multiple delivery-order contracts or multiple task-order contracts, except -
+(b) *Orders under multiple-award contracts* - (1) *Fair opportunity.* (i) The contracting officer must provide each awardee a fair opportunity to be considered for each order exceeding the micro-purchase threshold issued under multiple delivery-order contracts or multiple task-order contracts, except -
 
 (A) As provided for in paragraph (b)(2) of this section; or
 
@@ -144,7 +142,7 @@ Link to an amendment published at 86 FR 31074, June 10, 2021.
 
 (B) Formal evaluation plans or scoring of quotes or offers are not required.
 
-(2) *Exceptions to the fair opportunity process.* (i) The contracting officer shall give every awardee a fair opportunity to be considered for a delivery-order or task-order exceeding $3,500 unless one of the following statutory exceptions applies:
+(2) *Exceptions to the fair opportunity process.* (i) The contracting officer shall give every awardee a fair opportunity to be considered for a delivery order or task order exceeding the micro-purchase threshold unless one of the following statutory exceptions applies:
 
 (A) The agency need for the supplies or services is so urgent that providing a fair opportunity would result in unacceptable delays.
 
@@ -162,7 +160,7 @@ Link to an amendment published at 86 FR 31074, June 10, 2021.
 
 (ii) The justification for an exception to fair opportunity shall be in writing as specified in paragraph (b)(2)(ii)(A) or (B) of this section. No justification is needed for the exception described in paragraph (b)(2)(i)(F) of this section.
 
-(A) *Orders exceeding $3,500, but not exceeding the simplified acquisition threshold.* The contracting officer shall document the basis for using an exception to the fair opportunity process. If the contracting officer uses the logical follow-on exception, the rationale shall describe why the relationship between the initial order and the follow-on is logical (*e.g.,* in terms of scope, period of performance, or value).
+(A) *the micro-purchase threshold* The contracting officer shall document the basis for using an exception to the fair opportunity process. If the contracting officer uses the logical follow-on exception, the rationale shall describe why the relationship between the initial order and the follow-on is logical (*e.g.,* in terms of scope, period of performance, or value).
 
 (B) *Orders exceeding the simplified acquisition threshold.* As a minimum, each justification shall include the following information and be approved in accordance with paragraph (b)(2)(ii)(C) of this section:
 

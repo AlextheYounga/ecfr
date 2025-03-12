@@ -1,14 +1,12 @@
 ##### § 50.103 Procedure for requesting approval of proposed settlements. #####
 
-Link to an amendment published at 86 FR 30541, June 9, 2021.
-
-(a) *Submission of notice.* Insurers must request advance approval of a proposed settlement by submitting a notice of the proposed settlement and other required information in writing to the Terrorism Risk Insurance Program Office or its designated representative. The address where notices are to be submitted will be available at *https://www.treasury.gov/resource-center/fin-mkts/Pages/program.aspx* following any certification of an act of terrorism pursuant to section 102(1) of the Act.
+(a) *Submission of notice.* Insurers must request advance approval of a proposed settlement by submitting a notice of the proposed settlement and other required information in writing to the Terrorism Risk Insurance Program Office or its designated representative. The address where notices are to be submitted will be available at *https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service/federal-insurance-office/terrorism-risk-insurance-program* following any certification of an act of terrorism pursuant to section 102(1) of the Act.
 
 (b) *Complete notice.* Treasury will review requests for advance approval and determine whether additional information is needed to complete the notice.
 
 (c) *Treasury response or deemed approval.* Within 30 days after Treasury's receipt of a complete notice, or as extended in writing by Treasury, Treasury may issue a written response and indicate its partial or full approval or rejection of the proposed settlement. If Treasury does not issue a response within 30 days after Treasury's receipt of a complete notice, unless extended in writing by Treasury, the request for advance approval is deemed approved by Treasury. Any settlement is still subject to review under the claim procedures pursuant to § 50.80.
 
-(d) *Notice format.* A notice of a proposed settlement should be entitled, “Notice of Proposed Settlement - Request for Approval,” and should provide the full name and address of the submitting insurer and the name, title, address, and telephone number of the designated contact person. An insurer must provide all relevant information, including the following, as applicable:
+(d) *Notice format.* A notice of a proposed settlement should be entitled, “Notice of Proposed Settlement—Request for Approval,” and should provide the full name and address of the submitting insurer and the name, title, address, and telephone number of the designated contact person. An insurer must provide all relevant information, including the following, as applicable:
 
 (1) A brief description of the claim against the insured, the amount of the claim, the operative policy terms, and defenses to coverage;
 
@@ -43,3 +41,5 @@ Link to an amendment published at 86 FR 30541, June 9, 2021.
 (11) A statement indicating whether the proposed settlement has been approved by the Federal court or is subject to such approval and whether such approval is expected or likely; and
 
 (12) Such other information that is related to the insured loss as may be requested by Treasury that it deems necessary to evaluate the proposed settlement.
+
+[81 FR 93765, Dec. 21, 2016, as amended at 86 FR 30541, June 9, 2021]

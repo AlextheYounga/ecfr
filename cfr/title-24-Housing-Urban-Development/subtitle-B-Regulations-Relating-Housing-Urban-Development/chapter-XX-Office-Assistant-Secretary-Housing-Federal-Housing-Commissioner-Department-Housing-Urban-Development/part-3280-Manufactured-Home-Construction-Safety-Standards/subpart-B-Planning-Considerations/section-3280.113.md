@@ -1,10 +1,10 @@
 ##### § 3280.113 Glass and glazed openings. #####
 
-Link to an amendment published at 86 FR 2517, Jan. 12, 2021.Link to a delay published at 86 FR 13645, Mar. 10, 2021.
-
 (a) *Windows and sliding glass doors.* All windows and sliding glass doors shall meet the requirements of § 3280.403 the “Standard for Windows and Sliding Glass Doors Used in Manufactured Homes”.
 
-(b) *Hazardous locations requiring safety glazing.* Except as provided in paragraph (d) of this section, the following locations and areas require the use of safety glazing conforming to the requirements of paragraph (c) of this section:
+(b) Required glazed openings shall be permitted to face into a roofed porch where the porch abuts a street, yard, or court and the longer side of the porch is at least 65 percent open and unobstructed and the ceiling height is not less than 7 feet.
+
+(c)*Hazardous locations requiring safety glazing.* Except as provided in paragraph (d) of this section, the following locations and areas require the use of safety glazing conforming to the requirements of paragraph (c) of this section:
 
 (1) Glazing in all entrance or exit doors;
 
@@ -30,9 +30,9 @@ Link to an amendment published at 86 FR 2517, Jan. 12, 2021.Link to a delay publ
 
 (9) Glazing in unbacked mirrored wardrobe doors (i.e., mirrors that are not secured to a backing that is capable of being the door itself).
 
-(c) Safety glazing material is considered to be any glazing material capable of meeting the requirements of Consumer Product Safety Commission 16 CFR part 1201, or Standard for Safety Glazing Materials used in Buildings - Safety Performance Specifications and Methods of Test, ANSI Z97.1-2004 (incorporated by reference, see § 3280.4).
+(d) Safety glazing material is considered to be any glazing material capable of meeting the requirements of Consumer Product Safety Commission 16 CFR part 1201, or Standard for Safety Glazing Materials used in Buildings —Safety Performance Specifications and Methods of Test, ANSI Z97.1-2004 (incorporated by reference, see § 3280.4).
 
-(d) Glazing in the following locations is not required to meet the requirements in paragraph (b) of this section:
+(e) Glazing in the following locations is not required to meet the requirements in paragraph (b) of this section:
 
 (1) Openings in doors through which a 3-inch sphere is unable to pass;
 
@@ -46,4 +46,4 @@ Link to an amendment published at 86 FR 2517, Jan. 12, 2021.Link to a delay publ
 
 (6) Mirrors mounted on a flush door surface or solid wall surface.
 
-[40 FR 58752, Dec. 18, 1975. Redesignated at 44 FR 20679, Apr. 6, 1979, as amended at 52 FR 4581, Feb. 12, 1987. Redesignated at 58 FR 55004, Oct. 25, 1993; 78 FR 73981, Dec. 9, 2013]
+[40 FR 58752, Dec. 18, 1975. Redesignated at 44 FR 20679, Apr. 6, 1979, as amended at 52 FR 4581, Feb. 12, 1987. Redesignated at 58 FR 55004, Oct. 25, 1993; 78 FR 73981, Dec. 9, 2013; 86 FR 2517, Jan. 12, 2021]

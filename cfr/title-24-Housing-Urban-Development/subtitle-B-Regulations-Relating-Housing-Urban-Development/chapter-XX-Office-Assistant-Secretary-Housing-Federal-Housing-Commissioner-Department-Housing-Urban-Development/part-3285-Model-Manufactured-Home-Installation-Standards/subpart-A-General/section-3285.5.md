@@ -1,7 +1,5 @@
 ##### § 3285.5 Definitions. #####
 
-Link to an amendment published at 86 FR 2526, Jan. 12, 2021.Link to a delay published at 86 FR 13645, Mar. 10, 2021.
-
 The definitions contained in this section apply to the terms used in these Model Installation Standards. Where terms are not included, common usage of the terms applies. The definitions are as follows:
 
 *Act.* The National Manufactured Housing Construction and Safety Standards Act of 1974, 42 U.S.C. 5401-5426.
@@ -15,6 +13,8 @@ The definitions contained in this section apply to the terms used in these Model
 *Approved.* When used in connection with any material, appliance or construction, means complying with the requirements of the Department of Housing and Urban Development.
 
 *Arid region.* An area subject to 15 inches or less of annual rainfall.
+
+*Attached accessory building or structure* means any awning, cabana, deck, ramada, storage cabinet, carport, windbreak, garage, or porch for which the attachment of such is designed by the home manufacturer to be structurally supported by the manufactured home.
 
 *Base flood.* The flood having a one percent chance of being equaled or exceeded in any given year.
 
@@ -94,4 +94,4 @@ The definitions contained in this section apply to the terms used in these Model
 
 *Working load.* The maximum recommended load that may be exerted on a component or system determined by dividing the ultimate load of a component or system by an appropriate factor of safety.
 
-[72 FR 59362, Oct. 19, 2007, as amended at 79 FR 53614, Sept. 10, 2014; 80 FR 53731, Sept. 8, 2015]
+[72 FR 59362, Oct. 19, 2007, as amended at 79 FR 53614, Sept. 10, 2014; 80 FR 53731, Sept. 8, 2015; 86 FR 2526, Jan. 12, 2021]

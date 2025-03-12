@@ -1,10 +1,8 @@
 ##### § 3280.611 Vents and venting. #####
 
-Link to an amendment published at 86 FR 2521, Jan. 12, 2021.Link to a delay published at 86 FR 13645, Mar. 10, 2021.
-
 (a) *General.* Each plumbing fixture trap shall be protected against siphonage and back pressure, and air circulation shall be ensured throughout all parts of the drainage system by means of vents installed in accordance with the requirements of this section and as otherwise required by this standard.
 
-(b) *Materials* - (1) *Pipe.* Vent piping must be standard weight galvanized steel, brass, copper tube DWV, listed Scheduled 40 ABS plastic, listed Scheduled 40 PVC plastic, cast iron, or other listed or approved materials.
+(b) *Materials*—(1) *Pipe.* Vent piping must be standard weight galvanized steel, brass, copper tube DWV, listed Scheduled 40 ABS plastic, listed Scheduled 40 PVC plastic, cast iron, or other listed or approved materials.
 
 (2) *Fittings.* Appropriate fittings shall be used for all changes in direction or size and where pipes are joined. The material and design of vent fittings shall conform to the type of piping used.
 
@@ -18,11 +16,11 @@ Link to an amendment published at 86 FR 2521, Jan. 12, 2021.Link to a delay publ
 
 (v) Listed rectangular tubing may be used for vent piping only providing it has an open cross section at least equal to the circular vent pipe required. Listed transition fittings shall be used.
 
-(c) *Size of vent piping* - (1) *Main vent.* The drain piping for each toilet shall be vented by a 11/2 inch minimum diameter vent or rectangular vent of venting cross section equivalent to or greater than the venting cross section of a 11/2 inch diameter vent, connected to the toilet drain by one of the following methods:
+(c) *Size of vent piping*—(1) *Main vent.* The drain piping for each toilet shall be vented by a 11/2 inch minimum diameter vent or rectangular vent of venting cross section equivalent to or greater than the venting cross section of a 11/2 inch diameter vent, connected to the toilet drain by one of the following methods:
 
-(i) A 11/2 inch diameter (min.) individual vent pipe or equivalent directly connected to the toilet drain within the distance allowed in § 3280.611(c)(5), for 3-inch trap arms undiminished in size through the roof,
+(i) A 11/2 inch diameter (min.) individual vent pipe or equivalent directly connected to the toilet drain within the distance allowed in § 3280.611(c)(5), for 3-inch trap arms undiminished in size through the roof;
 
-(ii) A 11/2 inch diameter (min.) continuous vent or equivalent, indirectly connected to the toilet drain piping within the distance allowed in § 3280.611(c)(5) for 3 inch trap arms through a 2-inch wet vented drain that carries the waste of not more than one fixture, or,
+(ii) A 11/2-inch diameter (min.) continuous vent or equivalent, indirectly connected to the toilet drain piping within the distance allowed in paragraph (c)(5) of this section for 3 inch trap arms through a 2-inch wet vented drain that carries the waste of not more than one fixture. Sections of the wet vented drain that are 3 inches in diameter are permitted to carry the waste of an unlimited number of fixtures; or
 
 (iii) Two or more vented drains when at least one is wet-vented, or 2-inch diameter (minimum), and each drain is separately connected to the toilet drain. At least one of the drains shall connect within the distance allowed in § 3280.611(c)(5) for 3-inch trap arms.
 
@@ -33,8 +31,6 @@ Link to an amendment published at 86 FR 2521, Jan. 12, 2021.Link to a delay publ
 (4) *Intersecting vents.* Where two or more vent pipes are joined together, no increase in size shall be required; however, the largest vent pipe shall extend full size through the roof.
 
 (5) Distance of fixture trap from vent shall not exceed the values given in the following table:
-
-Maximum Distance of Fixtures From Vent Trap
 
 |Size of fixture drain (inches)|Distance trap to vent|
 |------------------------------|---------------------|
@@ -83,7 +79,7 @@ Maximum Distance of Fixtures From Vent Trap
 
 (3) Mechanical vents must be installed in accordance with the vent manufacturer's instructions.
 
-(e) *Grade and connections* - (1) *Horizontal vents.* Each vent shall extend vertically from its fixture “T” or point of connection with the waste piping to a point not less than 6 inches above the extreme flood level of the fixture it is venting before offsetting horizontally or being connected with any other vent pipe. Vents for horizontal drains shall connect above the centerline of the drain piping ahead (downstream) of the trap. Where required by structural conditions, vent piping may offset below the rim of the fixture at the maximum angle or height possible.
+(e) *Grade and connections*—(1) *Horizontal vents.* Each vent shall extend vertically from its fixture “T” or point of connection with the waste piping to a point not less than 6 inches above the extreme flood level of the fixture it is venting before offsetting horizontally or being connected with any other vent pipe. Vents for horizontal drains shall connect above the centerline of the drain piping ahead (downstream) of the trap. Where required by structural conditions, vent piping may offset below the rim of the fixture at the maximum angle or height possible.
 
 (f) *Vent terminal.* Vents must terminate through the roof or wall, or to a mechanical vent device in accordance with paragraph (d) of this section.
 
@@ -103,4 +99,4 @@ Maximum Distance of Fixtures From Vent Trap
 
 (g) *Vent caps.* Vent caps, if provided, shall be of the removable type (without removing the flashing from the roof). When vent caps are used for roof space ventilation and the caps are identical to vent caps used for the plumbing system, plumbing system caps shall be identified with permanent markings.
 
-[40 FR 58752, Dec. 18, 1975, as amended at 42 FR 961, Jan. 4, 1977. Redesignated at 44 FR 20679, Apr. 6, 1979, as amended at 58 FR 55015, Oct. 25, 1993; 78 FR 73986, Dec. 9, 2013]
+[40 FR 58752, Dec. 18, 1975, as amended at 42 FR 961, Jan. 4, 1977. Redesignated at 44 FR 20679, Apr. 6, 1979, as amended at 58 FR 55015, Oct. 25, 1993; 78 FR 73986, Dec. 9, 2013; 86 FR 2521, Jan. 12, 2021]

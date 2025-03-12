@@ -1,8 +1,6 @@
 ##### § 3280.4 Incorporation by reference. #####
 
-Link to an amendment published at 86 FR 2516, Jan. 12, 2021.Link to a delay published at 86 FR 13645, Mar. 10, 2021.
-
-(a) The specifications, standards, and codes of the following organizations are incorporated by reference in 24 CFR part 3280 (this Standard) pursuant to 5 U.S.C. 552(a) and 1 CFR part 51 as though set forth in full. The incorporation by reference of these standards has been approved by the Director of the Federal Register. Incorporated standards have the same force and effect as this Standard (24 CFR part 3280), except that whenever reference standards and this Standard are inconsistent, the requirements of this Standard prevail to the extent of the inconsistency. The Department will enforce the listed editions of material incorporated by this section. Where two or more incorporated standards are equivalent in application, the manufacturer may use either standard. If a later edition is to be enforced, the Department will publish a notice of change in the Federal Register. These incorporated standards are available for purchase from the organization that developed the standard at the corresponding addresses noted below. Incorporated standards are available for inspection at the Office of Manufactured Housing Program, Manufactured Housing and Construction Standards Division, U.S. Department of Housing and Urban Development, 451 Seventh Street SW., Room B-133, Washington, DC 20410. Copies of incorporated standards that are not available from their producer organizations may be obtained from the Office of Manufactured Housing Programs. These standards are also available for inspection at the National Archives and Records Administration (NARA). For more information on the availability of this material at NARA, call 202-741-6030 or go to *http://www.archives.gov/federal\_register.*
+(a) The specifications, standards, and codes of the following organizations are incorporated by reference in 24 CFR part 3280 (this Standard) pursuant to 5 U.S.C. 552(a) and 1 CFR part 51 as though set forth in full. The incorporation by reference of these standards has been approved by the Director of the Federal Register. If a later edition is to be enforced, the Department will publish a notification of change in the Federal Register. These incorporated standards are available for purchase from the organization that developed the standard at the corresponding addresses noted below. Incorporated standards are available for inspection at the Office of Manufactured Housing Program, Manufactured Housing and Construction Standards Division, U.S. Department of Housing and Urban Development, 451 Seventh Street SW, Room B-133, Washington, DC 20410, email *mhs@hud.gov.* Copies of incorporated standards that are not available from their producer organizations may be obtained from the Office of Manufactured Housing Programs. These standards are also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email *fedreg.legal@nara.gov* or go to *www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
 (b) Air Conditioning & Refrigeration Institute (ARI), 4100 North Fairfax Drive, Suite 200, Arlington, VA 22203, telephone number 703-524-8800, fax number 703-528-3816, Web site: *http://www.lightindustries.com/ARI/.*
 
@@ -58,7 +56,7 @@ Link to an amendment published at 86 FR 2516, Jan. 12, 2021.Link to a delay publ
 
 (h) American Institute of Steel Construction (AISC), One East Wacker Drive, Chicago, IL 60601, telephone number 312-670-2400, fax number 312-670-5403, Web site: *http://www.aisc.org/.*
 
-(1) AISC-S335, 1989. Specification for Structural Steel Buildings - Allowable Stress Design and Plastic Design (except for the following parts of this standard which are not incorporated by reference: 1.3.3, 1.3.4, 1.3.5, 1.3.6, 1.4.6, 1.5.1.5, 1.5.5, 1.6, 1.7, 1.8, 1.9, 1.10.4 through 1.10.7, 1.10.9, 1.11, 1.13, 1.14.5, 1.17.7 through 1.17.9, 1.19.1, 1.19.3, 1.20, 1.21, 1.23.7, 1.24, 1.25.1 through 1.25.5, 1.26.4, 2.3, 2.4, 2.8 through 2.10), June 1, 1989, IBR approved for §§ 3280.304(b) and 3280.305(j).
+(1) AISC-S335, 1989. Specification for Structural Steel Buildings—Allowable Stress Design and Plastic Design (except for the following parts of this standard which are not incorporated by reference: 1.3.3, 1.3.4, 1.3.5, 1.3.6, 1.4.6, 1.5.1.5, 1.5.5, 1.6, 1.7, 1.8, 1.9, 1.10.4 through 1.10.7, 1.10.9, 1.11, 1.13, 1.14.5, 1.17.7 through 1.17.9, 1.19.1, 1.19.3, 1.20, 1.21, 1.23.7, 1.24, 1.25.1 through 1.25.5, 1.26.4, 2.3, 2.4, 2.8 through 2.10), June 1, 1989, IBR approved for §§ 3280.304(b) and 3280.305(j).
 
 (2) [Reserved]
 
@@ -74,7 +72,7 @@ Link to an amendment published at 86 FR 2516, Jan. 12, 2021.Link to a delay publ
 
 (2) ANSI A112.19.5-1979, Trim for Water Closet, Bowls, Tanks, and Urinals, IBR approved for § 3280.604(b).
 
-(3) ANSI/AITC A190.1-1992, For wood products - Structural Glued Laminated Timber, IBR approved for § 3280.304(b).
+(3) ANSI/AITC A190.1-1992, For wood products—Structural Glued Laminated Timber, IBR approved for § 3280.304(b).
 
 (4) ANSI A208.1-1999, Particleboard, IBR approved for § 3280.304(b).
 
@@ -90,7 +88,7 @@ Link to an amendment published at 86 FR 2516, Jan. 12, 2021.Link to a delay publ
 
 (10) ANSI Z21.5.1-1999, Gas Clothes Dryers Volume 1, Type 1 Clothes Dryers, with Addendum Z21.5.1a-1999, IBR approved for § 3280.703.
 
-(11) ANSI Z21.10.1-1998, Gas Water Heaters - Volume 1, Storage Water Heaters with Input Ratings of 75,000 BTU per hour or Less, with Addendum Z21.10.1a-2000, IBR approved for §§ 3280.703 and 3280.707(d).
+(11) ANSI Z21.10.1-1998, Gas Water Heaters—Volume 1, Storage Water Heaters with Input Ratings of 75,000 BTU per hour or Less, with Addendum Z21.10.1a-2000, IBR approved for §§ 3280.703 and 3280.707(d).
 
 (12) ANSI Z21.15-1997, Manually Operated Gas Valves for Appliances, Appliance Connector Valves and Hose End Valves, IBR approved for §§ 3280.703 and 3280.705(c).
 
@@ -112,7 +110,7 @@ Link to an amendment published at 86 FR 2516, Jan. 12, 2021.Link to a delay publ
 
 (21) ANSI Z34.1-1993, Third-Party Certification Programs for Products, Processes, and Services, IBR approved for §§ 3280.403(e) and 3280.405(e).
 
-(22) ANSI Z97.1-2004, Standard for Safety Glazing Materials used in Buildings - Safety Performance Specifications and Methods of Test, copyright 2004, IBR approved for §§ 3280.113(c), 3280.304(b), 3280.403(d)(1), 3280.604(b), and 3280.607(b).
+(22) ANSI Z97.1-2004, Standard for Safety Glazing Materials used in Buildings—Safety Performance Specifications and Methods of Test, copyright 2004, IBR approved for §§ 3280.113(c), 3280.304(b), 3280.403(d)(1), 3280.604(b), and 3280.607(b).
 
 (23) ANSI Z124.1-1987, Plastic Bathtub Units with Addendum Z124.1a-1990 and Z124.1b-1991, IBR approved for § 3280.604(b).
 
@@ -158,7 +156,7 @@ Link to an amendment published at 86 FR 2516, Jan. 12, 2021.Link to a delay publ
 
 (1) 1997 ASHRAE Handbook of Fundamentals, Inch-Pound Edition (1997), chapters 22 through 27, (except for the following parts of this standard that are not incorporated by reference: 23.1 Steel Frame Construction; 23.2 Masonry Construction; 23.3 Foundations and Floor Systems; 23.15 Pipes; 23.17 Tanks, Vessels, and Equipment; 23.18 Refrigerated Rooms and Buildings; 24.18 Mechanical and Industrial Systems; 25.19 Commercial Building Envelope Leakage; 27.9 Calculation of Heat Loss from Crawl Spaces). IBR approved for §§ 3280.508(a), 3280.508(e), and 3280.511(a).
 
-(2) [Reserved]
+(2) ANSI/ASHRAE 62.2-2010, Ventilation and Acceptable Indoor Air Quality in Low-Rise Residential Buildings, copyright 2010 IBR approved for § 3280.103(d).
 
 (n) ASME (formally the American Society of Mechanical Engineers), Two Park Avenue, New York, NY 10016-5990, telephone number 800-843-2763, Web site: *http://www.asme.org/.*
 
@@ -242,11 +240,11 @@ Link to an amendment published at 86 FR 2516, Jan. 12, 2021.Link to a delay publ
 
 (13) ASSE 1037-1990 (ANSI-1990), Performance Requirements for Pressurized Flushing Devices (Flushometers) for Plumbing Fixtures, IBR approved for § 3280.604(b).
 
-(14) ASSE 1051 Revised 1996 (ANSI 1998), Performance Requirements for Air Admittance Valves for Plumbing Drainage Systems - Fixture and Branch Devices, IBR approved for § 3280.604(b).
+(14) ASSE 1051 Revised 1996 (ANSI 1998), Performance Requirements for Air Admittance Valves for Plumbing Drainage Systems—Fixture and Branch Devices, IBR approved for § 3280.604(b).
 
 (15) ASSE 1070-2004, Performance Requirements for Water Temperature Limiting Devices, IBR approved for §§ 3280.604(b) and 3280.607(b).
 
-(p) American Society for Testing and Materials (ASTM), 100 Barr Harbor Drive, West Conshohocken, PA 19428, (610) 832-9500, fax number 610-832-9555, Web site: *http://www.astm.org.*
+(p) ASTM, International,100 Barr Harbor Drive, West Conshohocken, PA 19428, (610) 832-9500, fax number 610-832-9555, Web site: *http://www.astm.org.*
 
 (1) ASTM A53-93. Standard Specification for Pipe, Steel, Black and Hot-Dipped, Zinc-Coated, Welded and Seamless, IBR approved for §§ 3280.604(b) and 3280.703.
 
@@ -300,21 +298,23 @@ Link to an amendment published at 86 FR 2516, Jan. 12, 2021.Link to a delay publ
 
 (26) ASTM E84-01, Standard Test Method for Surface Burning Characteristics of Building Materials, 2001, IBR approved for § 3280.203(a).
 
-(27) ASTM E 96-95 Standard Test Methods for Water Vapor Transmission of Materials, IBR approved for § 3280.504(a).
+(27) ASTM E 119-05, Standard Test Methods for Fire Tests of Building Construction and Materials, approved September 15, 2005, IBR approved for § 3280.1003(a).
 
-(28) ASTM E 162-94, Standard Test Method for Surface Flammability of Materials Using a Radiant Heat Energy Source, IBR approved for § 3280.203(a).
+(28) ASTM E 96-95 Standard Test Methods for Water Vapor Transmission of Materials, IBR approved for § 3280.504(a).
 
-(29) ASTM E 773-97, Standard Test Methods for Accelerated Weathering of Sealed Insulating Glass Units, IBR approved for § 3280.403(d).
+(29) ASTM E 162-94, Standard Test Method for Surface Flammability of Materials Using a Radiant Heat Energy Source, IBR approved for § 3280.203(a).
 
-(30) ASTM E 774-97, Standard Specification for the Classification of the Durability of Sealed Insulating Glass Units, IBR approved for § 3280.403(d).
+(30) ASTM E 773-97, Standard Test Methods for Accelerated Weathering of Sealed Insulating Glass Units, IBR approved for § 3280.403(d).
 
-(31) ASTM E1333-14, Standard Test Method for Determining Formaldehyde Concentrations in Air and Emission Rates from Wood Products Using a Large Air Chamber, approved October 1, 2014; IBR approved for § 3280.406(b).
+(31) ASTM E 774-97, Standard Specification for the Classification of the Durability of Sealed Insulating Glass Units, IBR approved for § 3280.403(d).
 
-(32) ASTM F628-91, Standard Specification for Acrylonitrile-Butadiene-Styrene (ABS) Schedule 40, Plastic Drain, Waste, and Vent Pipe with a Cellular Core, IBR approved for § 3280.604(b).
+(32) ASTM E1333-14, Standard Test Method for Determining Formaldehyde Concentrations in Air and Emission Rates from Wood Products Using a Large Air Chamber, approved October 1, 2014; IBR approved for § 3280.406(b).
 
-(33) ASTM F876-10, Standard Specification for Crosslinked Polyethylene (PEX) Tubing, approved February 10, 2010, IBR approved for § 3280.604(b).
+(33) ASTM F628-91, Standard Specification for Acrylonitrile-Butadiene-Styrene (ABS) Schedule 40, Plastic Drain, Waste, and Vent Pipe with a Cellular Core, IBR approved for § 3280.604(b).
 
-(34) ASTM F877-07, Standard Specification for Crosslinked Polyethylene (PEX) Plastic Hot- and Cold-Water Distribution Systems, approved February 1, 2007, IBR approved for § 3280.604(b).
+(34) ASTM F876-10, Standard Specification for Crosslinked Polyethylene (PEX) Tubing, approved February 10, 2010, IBR approved for § 3280.604(b).
+
+(35) ASTM F877-07, Standard Specification for Crosslinked Polyethylene (PEX) Plastic Hot- and Cold-Water Distribution Systems, approved February 1, 2007, IBR approved for § 3280.604(b).
 
 (q) Cast Iron Soil Pipe Institute (CISPI), 1064 Delaware Avenue SE, Atlanta, GA 30316, telephone number 404-622-0073, fax number 404-973-2845, Web site: *http://www.cispi.org/.*
 
@@ -322,13 +322,13 @@ Link to an amendment published at 86 FR 2516, Jan. 12, 2021.Link to a delay publ
 
 (2) CISPI-HSN-85, Specification for Neoprene Rubber Gaskets for HUB and Spigot Cast Iron Soil Pipe and Fittings, IBR approved for §§ 3280.604, 3280.611(d).
 
-(r) FS - Federal Specifications, General Services Administration, Specifications Branch, Room 6039, GSA Building, 7th and D Streets, SW., Washington, DC 20407.
+(r) FS—Federal Specifications, General Services Administration, Specifications Branch, Room 6039, GSA Building, 7th and D Streets, SW., Washington, DC 20407.
 
 (1) FS WW-P-541E/GEN-1980, Plumbing Fixtures (General Specifications), IBR approved for § 3280.604(b).
 
 (2) FS ZZ-R-765B-1970, Silicone Rubber, (with 1971 Amendment), IBR approved for § 3280.611(d).
 
-(s) HPVA (previously HPMA) - Hardwood Plywood and Veneer Association (HPVA) (previously named Hardwood Plywood Manufacturers Association (HPMA), 1825 Michael Faraday Drive, Reston, VA 22090, telephone number 703-435-2900, fax number 703-435-2537, Web site: *http://www.hpva.org/.*
+(s) HPVA (previously HPMA)—Hardwood Plywood and Veneer Association (HPVA) (previously named Hardwood Plywood Manufacturers Association (HPMA), 1825 Michael Faraday Drive, Reston, VA 22090, telephone number 703-435-2900, fax number 703-435-2537, Web site: *http://www.hpva.org/.*
 
 (1) ANSI/HPVA HP-1-1994 (Approved 1995), American National Standard for Hardwood and Decorative Plywood, IBR approved for § 3280.304(b).
 
@@ -336,7 +336,7 @@ Link to an amendment published at 86 FR 2516, Jan. 12, 2021.Link to a delay publ
 
 (t) HUD User, 11491 Sunset Hills Road, Reston, VA 20190-5254.
 
-(1) HUD User No. 0005945, Overall U-values and Heating/Cooling Loads - Manufactured Homes, February 1992. IBR approved for § 3280.508(b).
+(1) HUD User No. 0005945, Overall U-values and Heating/Cooling Loads—Manufactured Homes, February 1992. IBR approved for § 3280.508(b).
 
 (2) [Reserved]
 
@@ -416,9 +416,9 @@ Link to an amendment published at 86 FR 2516, Jan. 12, 2021.Link to a delay publ
 
 (viii) Article 312.2(A), IBR approved for §§ 3280.803(k) and 3280.804(k).
 
-(x) Table 314.16(A), IBR approved for §§ 3280.808(m) and 3280.808(q).
+(ix) Table 314.16(A), IBR approved for §§ 3280.808(m) and 3280.808(q).
 
-(ix) Article 314.23(B), IBR approved for §§ 3280.808(m) and 3280.808(q).
+(x) Article 314.23(B), IBR approved for §§ 3280.808(m) and 3280.808(q).
 
 (xi) Article 406.3, IBR approved for § 3280.807(d).
 
@@ -430,13 +430,15 @@ Link to an amendment published at 86 FR 2516, Jan. 12, 2021.Link to a delay publ
 
 (xv) Part II of Article 550, IBR approved for §§ 3280.801(a) and 3280.801(b).
 
-(xvi) Article 550.25(a), IBR approved for § 3280.801(b).
+(xvi) Article 550.17, IBR approved for § 3280.810(b).
 
-(xvii) Article 680.70, IBR approved for §§ 3280.607(c) and 3280.801(a).
+(xvii) Article 550.25(a), IBR approved for § 3280.801(b).
 
-(xviii) Article 680.71, IBR approved for §§ 3280.607(c) and 3280.801(a).
+(xviii) Article 680.70, IBR approved for §§ 3280.607(c) and 3280.801(a).
 
-(xix) Articles 680.72, IBR approved for §§ 3280.607(c) and 3280.801(a).
+(xix) Article 680.71, IBR approved for §§ 3280.607(c) and 3280.801(a).
+
+(xx) Articles 680.72, IBR approved for §§ 3280.607(c) and 3280.801(a).
 
 (5) NFPA 90B, Warm Air Heating and Air Conditioning Systems, 1996 Edition, IBR approved for § 3280.703.
 
@@ -445,6 +447,8 @@ Link to an amendment published at 86 FR 2516, Jan. 12, 2021.Link to a delay publ
 (7) NFPA 253, Standard Method of Test for Critical Radiant Flux of Floor Covering Systems Using a Radiant Heat Energy Source, 2000, IBR approved for § 3280.207(c).
 
 (8) NFPA 255, Standard Method of Test of Surface Burning Characteristics of Building Materials, 1996, IBR approved for §§ 3280.203(a) and 3280.207(a).
+
+(9) NFPA 720, Standard for Installation of Carbon Monoxide (CO) Detection and Warning Equipment, 2015 Edition, Copyright 2014, IBR approved for § 3280.211(b).
 
 (bb) U.S. Department of Commerce, National Institute of Standards and Technology (NIST), Office of Engineering Standards, Room A-166, Technical Building, Washington, DC 20234 and Voluntary Product Division, 100 Bureau Drive, Stop 2100, Gaithersburg, MD 20899-2100, telephone number 301- 975-4000, fax number 301-975-4715, Web site: *http://www.nist.gov.*
 
@@ -502,7 +506,7 @@ Link to an amendment published at 86 FR 2516, Jan. 12, 2021.Link to a delay publ
 
 (8) UL 181B, 1995, with 1998 revisions, Standard for Safety Closure Systems for use with Flexible Air Ducts and Air Connectors, First Edition, IBR approved for §§ 3280.703 and 3280.715(c).
 
-(9) UL 217, Single and Multiple Station Smoke Alarms, Fifth Edition, dated January 4, 1999, IBR approved for § 3280.208(a).
+(9) UL 217, Single and Multiple Station Smoke Alarms, Fifth Edition, dated January 4, 1999, IBR approved for §§ 3280.208(a) and 3280.211(a).
 
 (10) UL 268, Smoke Detectors for Fire Protective Signaling Systems, Fourth Edition, dated January 4, 1999, IBR approved for § 3280.208(a).
 
@@ -530,6 +534,8 @@ Link to an amendment published at 86 FR 2516, Jan. 12, 2021.Link to a delay publ
 
 (22) UL 2021-1997. Fixed and Location-Dedicated Electric Room Heaters, Second Edition, with 1998 revisions, IBR approved for § 3280.703.
 
+(23) ANSI/UL 2034-2016, Standard for Single and Multiple Station Carbon Monoxide Alarms, Third Edition, dated February 28, 2008 (including revisions through May 11, 2016), IBR approved for § 3280.211(a).
+
 (ii) Underwriters' Laboratories of Canada (ULC), 7 Underwriters Road, Toronto, Ontario, Canada M1 R 3A9, telephone number 866-937-3852, fax number 416-757-8727, Web site: *http://www.ul.com/canada/eng/pages/.*
 
 (1) CAN/ULC S102.2-M88, Standard Method of Test for Surface Burning Characteristics of Floor Coverings and Miscellaneous Materials and Assemblies, Fourth Edition, April 1988, IBR approved for § 3280.207(b).
@@ -542,4 +548,4 @@ Link to an amendment published at 86 FR 2516, Jan. 12, 2021.Link to a delay publ
 
 (2) [Reserved]
 
-[78 FR 73976, Dec. 9, 2013, as amended at 79 FR 31863, June 3, 2014; 85 FR 5566, Jan. 31, 2020]
+[78 FR 73976, Dec. 9, 2013, as amended at 79 FR 31863, June 3, 2014; 85 FR 5566, Jan. 31, 2020; 86 FR 2516, Jan. 12, 2021]

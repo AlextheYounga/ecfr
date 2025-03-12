@@ -1,10 +1,8 @@
 ##### 52.213-4 Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items). #####
 
-Link to an amendment published at 86 FR 31075, June 10, 2021.
-
 As prescribed in 13.302-5(d), insert the following clause:
 
-Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (FEB 2021)
+Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (JUL 2021)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses that are incorporated by reference:
 
@@ -22,7 +20,7 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (FE
 
 (vi) 52.222-26, Equal Opportunity (SEP 2016) (E.O. 11246).
 
-(vii) 52.225-13, Restrictions on Certain Foreign Purchases (JUN 2008) (E.O.s, proclamations, and statutes administered by the Office of Foreign Assets Control of the Department of the Treasury).
+(vii) 52.225-13, Restrictions on Certain Foreign Purchases (FEB 2021) (E.O.s, proclamations, and statutes administered by the Office of Foreign Assets Control of the Department of the Treasury).
 
 (viii) 52.233-3, Protest After Award (AUG 1996) (31 U.S.C. 3553).
 
@@ -44,7 +42,7 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (FE
 
 (vii) 52.233-1, Disputes (MAY 2014).
 
-(viii) 52.244-6, Subcontracts for Commercial Items (NOV 2020)
+(viii) 52.244-6, Subcontracts for Commercial Items (JUL 2021)
 
 (ix) 52.253-1, Computer Generated Forms (JAN 1991).
 
@@ -106,7 +104,7 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (FE
 
 (xx) 52.232-34, Payment by Electronic Funds Transfer - Other than System for Award Management (JUL 2013) (Applies when the payment will be made by EFT and the payment office does not use the SAM database as its source of EFT information.)
 
-(xxi) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (FEB 2006) (46 U.S.C. App. 1241) (Applies to supplies transported by ocean vessels (except for the types of subcontracts listed at 47.504(d).)
+(xxi) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (FEB 2006) (46 U.S.C. 55305) (Applies to supplies transported by ocean vessels (except for the types of subcontracts listed at 47.504(d).)
 
 (2) Listed below are additional clauses that may apply:
 

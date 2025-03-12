@@ -1,14 +1,12 @@
 ##### § 3280.103 Light and ventilation. #####
 
-Link to an amendment published at 86 FR 2517, Jan. 12, 2021.Link to a delay published at 86 FR 13645, Mar. 10, 2021.
-
 (a) *Lighting.* Each habitable room shall be provided with exterior windows and/or doors having a total glazed area of not less than 8 percent of the gross floor area.
 
 (1) Kitchens, bathrooms, toilet compartments, laundry areas, and utility rooms may be provided with artificial light in place of windows.
 
 (2) Rooms and areas may be combined for the purpose of providing the required natural lighting provided that at least one half of the common wall area is open and unobstructed, and the open area is at least equal to 10 percent of the combined floor area or 25 square feet whichever is greater.
 
-(b) *Whole-house ventilation.* Each manufactured home must be provided with whole-house ventilation having a minimum capacity of 0.035 ft3/min/ft2 of interior floor space or its hourly average equivalent. This ventilation capacity must be in addition to any openable window area. In no case shall the installed ventilation capacity of the system be less than 50 cfm nor more than 90 cfm. The following criteria must be adhered to:
+(b) *Whole-house ventilation.* Each manufactured home must be provided with whole-house ventilation having a minimum capacity of 0.035 ft3/min/ft2 of interior floor space or its hourly average equivalent. This ventilation capacity must be in addition to any openable window area. In no case shall the installed ventilation capacity of the system be less than 50 cfm. The following criteria must be adhered to:
 
 (1) The ventilation capacity must be provided by a mechanical system or a combination passive and mechanical system. The ventilation system or provisions for ventilation must not create a positive pressure in Uo Value Zone 2 and Zone 3 or a negative pressure condition in Uo Value Zone 1. Mechanical systems must be balanced. Combination passive and mechanical systems must have adequately sized inlets or exhaust to release any unbalanced pressure. Temporary pressure imbalances due to gusting or high winds are permitted.
 
@@ -28,4 +26,6 @@ Link to an amendment published at 86 FR 2517, Jan. 12, 2021.Link to a delay publ
 
 (3) Each bathroom and separate toilet compartment shall be provided with a mechanical ventilation system capable of exhausting 50 cfm to the outside of the home. A separate toilet compartment may be provided with 1.5 square feet of openable glazed area in place of mechanical ventilation, except in Uo value Zone 3.
 
-[58 FR 55003, Oct. 25, 1993, as amended at 70 FR 72042, Nov. 30, 2005]
+(d) *Optional ventilation provisions.* As an option to complying with the provisions of paragraphs (b) and (c) of this section, ventilation systems complying with ANSI/ASHRAE Standard 62.2 (incorporated by reference, see § 3280.4) may be used.
+
+[58 FR 55003, Oct. 25, 1993, as amended at 70 FR 72042, Nov. 30, 2005; 86 FR 2517, Jan. 12, 2021]

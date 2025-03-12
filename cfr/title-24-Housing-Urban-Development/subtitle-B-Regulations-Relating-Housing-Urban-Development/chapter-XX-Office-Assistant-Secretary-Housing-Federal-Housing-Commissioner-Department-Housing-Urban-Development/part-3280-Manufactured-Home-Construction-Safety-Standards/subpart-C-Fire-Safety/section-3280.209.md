@@ -1,10 +1,10 @@
 ##### § 3280.209 Smoke alarm requirements. #####
 
-Link to an amendment published at 86 FR 2518, Jan. 12, 2021.Link to a delay published at 86 FR 13645, Mar. 10, 2021.
+(a) *Labeling.* Each smoke alarm required under paragraph (b) of this section must conform with the requirements of UL 217 (incorporated by reference, see § 3280.4), or ANSI/UL 268 (incorporated by reference, see § 3280.4), and must bear a label to evidence conformance. Combination smoke and carbon monoxide alarms shall be listed and must bear a label to evidence conformance with UL 217 and ANSI/UL 2034.
 
-(a) *Labeling.* Each smoke alarm required under paragraph (b) of this section must conform with the requirements of UL 217, Single and Multiple Station Smoke Alarms, dated January 4, 1999 (incorporated by reference, see § 3280.4), or UL 268, Smoke Detectors for Fire Protective Signaling Systems, dated January 4, 1999 (incorporated by reference, see § 3280.4), and must bear a label to evidence conformance.
+(b) *Combination alarms.* Combination smoke and carbon monoxide alarms shall be permitted to be used in lieu of smoke alarms. If installed, such alarms must meet location requirements for both smoke alarms and carbon monoxide alarms.
 
-(b) *Required smoke alarm locations.* (1) At least one smoke alarm must be installed in each of the following locations:
+(c) *Required smoke alarm locations.* (1) At least one smoke alarm must be installed in each of the following locations:
 
 (i) To protect both the living area and kitchen space. Manufacturers are encouraged to locate the alarm in the living area remote from the kitchen and cooking appliances. A smoke alarm located within 20 feet horizontally of a cooking appliance must incorporate a temporary silencing feature or be of a photoelectric type.
 
@@ -20,7 +20,7 @@ Link to an amendment published at 86 FR 2518, Jan. 12, 2021.Link to a delay publ
 
 (ii) In any location or environment that is prohibited by the terms of its listing, except as permitted by this section.
 
-(c) *Mounting requirements.* (1) Except in rooms with peaked sloping or shed sloping ceilings with a slope of more than 1.5/12 or as permitted pursuant to paragraph (e) of this section, smoke alarms must be mounted either:
+(d) *Mounting requirements.* (1) Except in rooms with peaked sloping or shed sloping ceilings with a slope of more than 1.5/12 or as permitted pursuant to paragraph (e) of this section, smoke alarms must be mounted either:
 
 (i) On the ceiling at least 4 inches from each wall; or
 
@@ -30,7 +30,7 @@ Link to an amendment published at 86 FR 2518, Jan. 12, 2021.Link to a delay publ
 
 (3) Except as permitted pursuant to paragraph (e) of this section, in rooms with shed sloping ceilings with a slope of more than 1.5/12, smoke alarms must be mounted on the ceiling within 3 feet, measured horizontally, of the high side of the ceiling, and not closer than 4 inches from any adjoining wall surface and from any projecting structural element.
 
-(d) *Connection to power source.* (1) Each smoke alarm must be powered from:
+(e) *Connection to power source.* (1) Each smoke alarm must be powered from:
 
 (i) The electrical system of the home as the primary power source and a battery as a secondary power source; or
 
@@ -40,16 +40,16 @@ Link to an amendment published at 86 FR 2518, Jan. 12, 2021.Link to a delay publ
 
 (3) Smoke alarms required under this section must be interconnected such that the activation of any one smoke alarm causes the alarm to be triggered in all required smoke alarms in the home.
 
-(e) *Visible and tactile notification appliances.* (1) In addition to the smoke alarms required pursuant to this section, the manufacturer must provide visible and listed tactile notification appliances if these appliances are ordered by the purchaser or retailer before the home enters the first stage of production. These appliances are required to operate from the primary power source, but are not required to operate from a secondary power source.
+(f) *Visible and tactile notification appliances.* (1) In addition to the smoke alarms required pursuant to this section, the manufacturer must provide visible and listed tactile notification appliances if these appliances are ordered by the purchaser or retailer before the home enters the first stage of production. These appliances are required to operate from the primary power source, but are not required to operate from a secondary power source.
 
 (2) A visible notification appliance in a room designed for sleeping must have a minimum rating of 177 candela, except that when the visible notification appliance is wall-mounted or suspended more than 24 inches below the ceiling, a minimum rating of 110 candela is permitted.
 
 (3) A visible notification appliance in an area other than a room designed for sleeping must have a minimum rating of 15 candela.
 
-(f) *Testing and maintenance.* (1) Each required smoke alarm installed at the factory must be operationally tested, after conducting the dielectric test specified in § 3280.810(a), in accordance with the alarm manufacturer's instructions. A smoke alarm that does not function as designed during the test and is not fixed so that it functions properly in the next retest must be replaced. Any replacement smoke alarm must be successfully tested in accordance with this paragraph.
+(g) *Testing and maintenance.* (1) Each required smoke alarm installed at the factory must be operationally tested, after conducting the dielectric test specified in § 3280.810(a), in accordance with the alarm manufacturer's instructions. A smoke alarm that does not function as designed during the test and is not fixed so that it functions properly in the next retest must be replaced. Any replacement smoke alarm must be successfully tested in accordance with this paragraph.
 
 (2) Home manufacturers must provide specific written instructions for installers on how to inspect and test the operation of smoke alarms during installation of the home. These instructions must indicate that any smoke alarm that does not meet the inspection or testing requirements needs to be replaced and retested.
 
 (3) Home manufacturers must provide the homeowner with the alarm manufacturer's information describing the operation, method and frequency of testing, and proper maintenance of the smoke alarm. This information must be provided in same manner and location as the consumer manual required by § 3282.207 of this chapter, but does not have to be incorporated into the consumer manual. No dealer, distributor, construction contractor, or other person shall interfere with the distribution of this information
 
-[67 FR 12817, Mar. 19, 2002, as amended at 67 FR 49795, July 31, 2002. Redesignated at 78 FR 73982, Dec. 9, 2013]
+[67 FR 12817, Mar. 19, 2002, as amended at 67 FR 49795, July 31, 2002. Redesignated at 78 FR 73982, Dec. 9, 2013; 86 FR 2518, Jan. 12, 2021]

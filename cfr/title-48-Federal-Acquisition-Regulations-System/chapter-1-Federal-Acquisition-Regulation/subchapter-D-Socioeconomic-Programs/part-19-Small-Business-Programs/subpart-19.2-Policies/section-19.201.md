@@ -1,7 +1,5 @@
 ##### 19.201 General policy. #####
 
-Link to an amendment published at 86 FR 31074, June 10, 2021.
-
 (a) It is the policy of the Government to provide maximum practicable opportunities in its acquisitions to small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns. Such concerns must also have the maximum practicable opportunity to participate as subcontractors in the contracts awarded by any executive agency, consistent with efficient contract performance. The Small Business Administration (SBA) counsels and assists small business concerns and assists contracting personnel to ensure that a fair proportion of contracts for supplies and services is placed with small business.
 
 (b) Heads of contracting activities are responsible for effectively implementing the small business programs within their activities, including achieving program goals. They are to ensure that contracting and technical personnel maintain knowledge of small business program requirements and take all reasonable action to increase participation in their activities' contracting processes by these businesses.
@@ -9,7 +7,7 @@ Link to an amendment published at 86 FR 31074, June 10, 2021.
 (c) The Small Business Act requires each agency with contracting authority to establish an Office of Small and Disadvantaged Business Utilization (see section 15(k) of the Small Business Act). For the Department of Defense, in accordance with section 904 of Public Law 109-163 (10 U.S.C. 144 note), the Office of Small and Disadvantaged Business Utilization has been redesignated as the Office of Small Business Programs.
 Management of the office is the responsibility of an officer or employee of the agency who, in carrying out the purposes of the Act -
 
-(1) Is known as the Director of Small and Disadvantaged Business Utilization, or for the Department of Defense, the Director of the Office of Small Business Programs;
+(1) Is known as the Director of the Office of Small and Disadvantaged Business Utilization, or for the Department of Defense, the Director of the Office of Small Business Programs;
 
 (2) Is appointed by the agency head;
 

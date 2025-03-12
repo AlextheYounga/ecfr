@@ -1,7 +1,5 @@
 ##### § 201.152 Filing of papers: Form. #####
 
-Link to an amendment published at 85 FR 86479, Dec. 30, 2020.
-
 (a) *Electronic filing.* Papers filed in connection with any proceeding as defined in § 201.101(a) shall be filed electronically in the form and manner to be specified by the Office of the Secretary in the materials posted on the Commission's website. Papers filed electronically must be received by the Commission by midnight Eastern Time on the date the filing is due.
 
 (1) *Certification of Inability to File Electronically.* If a person reasonably cannot comply with the requirements of this section, due to a lack of access to electronic transmission devices (due to incarceration or otherwise), the person promptly shall file a certification under this paragraph that explains why the person reasonably cannot comply using any additional method of filing listed in § 201.152(a)(2). The filing also must indicate the expected duration of the person's reasonable inability to comply, such as whether the certification is intended to apply to a solitary filing or all filings made during the proceeding. The certification is immediately effective. Upon filing the certification, it will be part of the record of the proceeding, and the person may file paper documents by any additional method listed in § 201.152(a)(2).
@@ -28,6 +26,4 @@ Link to an amendment published at 85 FR 86479, Dec. 30, 2020.
 
 (f) *Scandalous or impertinent matter.* Any scandalous or impertinent matter contained in any brief or pleading or in connection with any oral presentation in a proceeding may be stricken on order of the Commission or the hearing officer.
 
-(g) *Interim Procedures for Filing Papers with the Commission in Both Electronic and Paper Format.* For the initial 90-day period beginning on April 12, 2021, papers filed in connection with any proceeding as defined in § 201.101(a) shall be filed both electronically in accordance with paragraph (a) of this section and, in addition, in paper format or by email at *apfilings@sec.gov.* If filed in paper format, an original and three copies of all paper filings must be submitted to the Office of the Secretary in accordance with any of the delivery methods set forth in paragraph (a)(2) of this section.
-
-[60 FR 32796, June 23, 1995, as amended at 69 FR 13176, Mar. 19, 2004; 70 FR 72569, Dec. 5, 2005; 85 FR 86478, Dec. 30, 2020]
+[60 FR 32796, June 23, 1995, as amended at 69 FR 13176, Mar. 19, 2004; 70 FR 72569, Dec. 5, 2005; 85 FR 86479, Dec. 30, 2020]
