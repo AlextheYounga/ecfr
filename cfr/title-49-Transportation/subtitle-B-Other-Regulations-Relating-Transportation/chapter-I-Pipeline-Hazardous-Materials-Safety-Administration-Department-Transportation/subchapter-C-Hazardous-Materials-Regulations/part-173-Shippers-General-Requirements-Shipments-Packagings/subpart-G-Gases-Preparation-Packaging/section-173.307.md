@@ -1,5 +1,7 @@
 ##### § 173.307 Exceptions for compressed gases. #####
 
+Link to an amendment published at 85 FR 83400, Dec. 21, 2020.
+
 (a) The following materials are not subject to the requirements of this subchapter:
 
 (1) Carbonated beverages.

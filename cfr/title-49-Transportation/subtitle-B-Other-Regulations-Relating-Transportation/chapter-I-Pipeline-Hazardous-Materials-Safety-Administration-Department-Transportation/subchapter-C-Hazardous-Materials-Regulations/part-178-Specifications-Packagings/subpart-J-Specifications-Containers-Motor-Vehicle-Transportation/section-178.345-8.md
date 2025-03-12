@@ -1,5 +1,7 @@
 ##### § 178.345-8 Accident damage protection. #####
 
+Link to an amendment published at 85 FR 83402, Dec. 21, 2020.
+
 (a) *General.* Each cargo tank motor vehicle must be designed and constructed in accordance with the requirements of this section and the applicable individual specification to minimize the potential for the loss of lading due to an accident.
 
 (1) Any dome, sump, or washout cover plate projecting from the cargo tank wall that retains lading in any tank orientation, must be as strong and tough as the cargo tank wall and have a thickness at least equal to that specified by the appropriate cargo tank specification. Any such projection located in the lower1/3 of the tank circumference (or cross section perimeter for non-circular cargo tanks) that extends more than half its diameter at the point of attachment to the tank or more than 4 inches from the cargo tank wall, or located in the upper2/3 of the tank circumference (or cross section perimeter for non-circular cargo tanks) that extends more than1/4 its diameter or more than 2 inches from the point of attachment to the tank must have accident damage protection devices that are:

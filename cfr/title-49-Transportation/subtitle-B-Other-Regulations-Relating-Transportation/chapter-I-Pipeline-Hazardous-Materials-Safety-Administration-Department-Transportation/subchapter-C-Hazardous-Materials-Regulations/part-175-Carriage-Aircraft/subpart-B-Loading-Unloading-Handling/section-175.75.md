@@ -1,5 +1,7 @@
 ##### § 175.75 Quantity limitations and cargo location. #####
 
+Link to an amendment published at 85 FR 83402, Dec. 21, 2020.
+
 (a) No person may carry on an aircraft a hazardous material except as permitted by this subchapter.
 
 (b) Except as otherwise provided in this subchapter, no person may carry a hazardous material in the cabin of a passenger-carrying aircraft or on the flight deck of any aircraft, and the hazardous material must be located in a place that is inaccessible to persons other than crew members. Hazardous materials may be carried in a main deck cargo compartment of a passenger aircraft provided that the compartment is inaccessible to passengers and that it meets all certification requirements for a Class B aircraft cargo compartment in 14 CFR 25.857(b) or for a Class C aircraft cargo compartment in 14 CFR 25.857(c). A package bearing a “KEEP AWAY FROM HEAT” handling marking must be protected from direct sunshine and stored in a cool and ventilated place, away from sources of heat.

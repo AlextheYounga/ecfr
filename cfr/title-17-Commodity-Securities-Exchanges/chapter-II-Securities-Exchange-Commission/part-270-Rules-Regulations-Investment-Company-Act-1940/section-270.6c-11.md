@@ -1,5 +1,7 @@
 ##### § 270.6c-11 Exchange-traded funds. #####
 
+Link to an amendment published at 85 FR 83291, Dec. 21, 2020.
+
 (a) *Definitions.* (1) For purposes of this section:
 
 *Authorized participant* means a member or participant of a clearing agency registered with the Commission, which has a written agreement with the exchange-traded fund or one of its service providers that allows the authorized participant to place orders for the purchase and redemption of creation units.

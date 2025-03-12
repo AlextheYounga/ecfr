@@ -1,5 +1,7 @@
 ##### § 176.200 General stowage requirements. #####
 
+Link to an amendment published at 85 FR 83402, Dec. 21, 2020.
+
 (a) Each package of Class 2 (compressed gas) material being transported by vessel must be prevented from making direct contact with the vessel's deck, side, or bulwark by dunnage, shoring, or other effective means.
 
 (b) When cylinders of Class 2 (compressed gas) materials being transported by vessel are stowed in a horizontal position, each tier must be stowed in the cantlines of the tier below it, and the valves on cylinders in adjacent tiers must be at alternate ends of the stow. Each tier may be stepped back and the ends alternated in order to clear the flange. Lashing must be provided to prevent any shifting.

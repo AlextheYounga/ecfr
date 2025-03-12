@@ -1,5 +1,7 @@
 ##### § 173.415 Authorized Type A packages. #####
 
+Link to an amendment published at 85 FR 83401, Dec. 21, 2020.
+
 The following packages are authorized for shipment if they do not contain quantities exceeding A1 or A2 as appropriate:
 
 (a) DOT Specification 7A (see § 178.350 of this subchapter) Type A general packaging. Until January 1, 2017 each offeror of a Specification 7A package must maintain on file for at least one year after the latest shipment, and shall provide to DOT on request, complete documentation of tests and an engineering evaluation or comparative data showing that the construction methods, packaging design, and materials of construction comply with that specification. After January 1, 2017 each offeror of a Specification 7A package must maintain on file for at least two years after the offeror's latest shipment, and shall provide to DOT on request, one of the following:

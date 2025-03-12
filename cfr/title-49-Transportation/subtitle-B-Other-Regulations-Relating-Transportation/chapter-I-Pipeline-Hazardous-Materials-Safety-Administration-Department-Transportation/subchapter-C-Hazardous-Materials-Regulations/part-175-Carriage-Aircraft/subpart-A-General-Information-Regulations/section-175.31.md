@@ -1,5 +1,7 @@
 ##### § 175.31 Reports of discrepancies. #####
 
+Link to an amendment published at 85 FR 83402, Dec. 21, 2020.
+
 (a) Each person who discovers a discrepancy, as defined in paragraph (b) of this section, relative to the shipment of a hazardous material following its acceptance for transportation aboard an aircraft shall, as soon as practicable, notify the nearest FAA Regional or Field Security Office by telephone or electronically, and shall provide the following information:
 
 (1) Name and telephone number of the person reporting the discrepancy.

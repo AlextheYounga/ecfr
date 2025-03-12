@@ -1,5 +1,7 @@
 ##### § 107.117 Emergency processing. #####
 
+Link to an amendment published at 85 FR 83374, Dec. 21, 2020.
+
 (a) An application is granted emergency processing if the Associate Administrator, on the basis of the application and any inquiry undertaken, finds that -
 
 (1) Emergency processing is necessary to prevent significant injury to persons or property (other than the hazardous material to be transported) that could not be prevented if the application were processed on a routine basis; or

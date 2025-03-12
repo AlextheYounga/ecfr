@@ -1,5 +1,7 @@
 ##### § 107.125 Appeal. #####
 
+Link to an amendment published at 85 FR 83374, Dec. 21, 2020.
+
 (a) A person who requested reconsideration under § 107.123 and is denied the relief requested may appeal to the Administrator. The appeal must -
 
 (1) Be in writing or by electronic means and filed within 30 days of receipt of the Associate Administrator's decision on reconsideration; (2) state in detail any alleged errors of fact and law;

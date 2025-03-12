@@ -1,5 +1,7 @@
 ##### § 173.197 Regulated medical waste. #####
 
+Link to an amendment published at 85 FR 83399, Dec. 21, 2020.
+
 (a) *General provisions.* Non-bulk packagings, Large Packagings, and non-specification bulk outer packagings used for the transportation of regulated medical waste or clinical waste or (bio) medical waste must be rigid containers meeting the provisions of subpart B of this part.
 
 (b) *Non-bulk packagings.* Except as provided in § 173.134(c) of this subpart, non-bulk packagings for regulated medical waste or clinical waste or (bio) medical waste must be UN standard packagings conforming to the requirements of part 178 of this subchapter at the Packing Group II performance level. A non-bulk packaging used as a sharps container must be puncture-resistant for sharps and sharps with residual fluid as demonstrated by conducting the performance tests in part 178, subpart M, of this subchapter on packagings containing materials representative of the sharps and fluids (such as sterile sharps) intended to be transported in the packagings. Sharps containers must be securely closed to prevent leaks or punctures in conformance with the instructions provided by the packaging manufacturer in accordance with § 178.2(c) of this subchapter.

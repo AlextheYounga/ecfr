@@ -1,5 +1,7 @@
 ##### § 173.304a Additional requirements for shipment of liquefied compressed gases in specification cylinders. #####
 
+Link to an amendment published at 85 FR 83400, Dec. 21, 2020.
+
 (a) *Detailed filling requirements.* Liquefied gases (except gas in solution) must be offered for transportation, subject to the requirements in this section and §§ 173.301 and 173.304, in specification cylinders, as follows:
 
 (1) DOT 3, 3A, 3AA, 3AL, 3B, 3BN, 3E, 4B, 4BA, 4B240ET, 4BW, 4E, 39, except that no DOT 4E or 39 packaging may be filled and shipped with a mixture containing a pyrophoric liquid, carbon bisulfide (disulfide), ethyl chloride, ethylene oxide, nickel carbonyl, spirits of nitroglycerin, or toxic material (Division 6.1 or 2.3), unless specifically authorized in this part.

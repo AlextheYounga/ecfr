@@ -1,5 +1,7 @@
 ##### § 177.854 Disabled vehicles and broken or leaking packages; repairs. #####
 
+Link to an amendment published at 85 FR 83402, Dec. 21, 2020.
+
 (a) *Care of lading, hazardous materials.* Whenever for any cause other than necessary traffic stops any motor vehicle transporting any hazardous material is stopped upon the traveled portion of any highway or shoulder thereof, special care shall be taken to guard the vehicle and its load or to take such steps as may be necessary to provide against hazard. Special effort shall be made to remove the motor vehicle to a place where the hazards of the materials being transported may be provided against. See §§ 392.22, 392.24, and 392.25 of this title for warning devices required to be displayed on the highway.
 
 (b) *Disposition of containers found broken or leaking in transit.* When leaks occur in packages or containers during the course of transportation, subsequent to initial loading, disposition of such package or container shall be made by the safest practical means afforded under paragraphs (c), (d), and (e) of this section.

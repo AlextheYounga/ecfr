@@ -1,14 +1,12 @@
 ##### § 655.103 Overview of this subpart and definition of terms. #####
 
-Link to an amendment published at 85 FR 70477, Nov. 5, 2020.
-
 (a) *Overview.* In order to bring nonimmigrant workers to the U.S. to perform agricultural work, an employer must first demonstrate to the Secretary that there are not sufficient U.S. workers able, willing, and qualified to perform the work in the area of intended employment at the time needed and that the employment of foreign workers will not adversely affect the wages and working conditions of U.S. workers similarly employed. This rule describes a process by which the Department of Labor (Department or DOL) makes such a determination and certifies its determination to the Department of Homeland Security (DHS).
 
 (b) *Definitions.* For the purposes of this subpart:
 
 *Administrative Law Judge (ALJ).* A person within the Department's Office of Administrative Law Judges appointed pursuant to 5 U.S.C. 3105.
 
-*Adverse effect wage rate (AEWR).* The annual weighted average hourly wage for field and livestock workers (combined) in the States or regions as published annually by the U.S. Department of Agriculture (USDA) based on its quarterly wage survey.
+*Adverse effect wage rate (AEWR).* The wage rate published by the OFLC Administrator in the Federal Register for non-range occupations as set forth in § 655.120(b) and range occupations as set forth in § 655.211(c).
 
 *Agent.* A legal entity or person, such as an association of agricultural employers, or an attorney for an association, that:
 
@@ -143,3 +141,5 @@ Link to an amendment published at 85 FR 70477, Nov. 5, 2020.
 (4) *Logging employment.* Operations associated with felling and moving trees and logs from the stump to the point of delivery, such as, but not limited to, marking danger trees and trees/logs to be cut to length, felling, limbing, bucking, debarking, chipping, yarding, loading, unloading, storing, and transporting machines, equipment and personnel to, from and between logging sites.
 
 (d) *Definition of a temporary or seasonal nature.* For the purposes of this subpart, employment is of a seasonal nature where it is tied to a certain time of year by an event or pattern, such as a short annual growing cycle or a specific aspect of a longer cycle, and requires labor levels far above those necessary for ongoing operations. Employment is of a temporary nature where the employer's need to fill the position with a temporary worker will, except in extraordinary circumstances, last no longer than 1 year.
+
+[75 FR 6959, Feb. 12, 2010, as amended at 85 FR 70477, Nov. 5, 2020]

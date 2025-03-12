@@ -1,5 +1,7 @@
 ##### § 176.89 Control of transport vehicles. #####
 
+Link to an amendment published at 85 FR 83402, Dec. 21, 2020.
+
 (a) A transport vehicle containing hazardous materials may be transported on board a ferry vessel, subject to the following conditions:
 
 (1) The operator or person in charge of the vehicle shall deliver to the vessel's representative a copy of the shipping papers and certificate required by §§ 176.24 and 176.27;

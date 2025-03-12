@@ -1,5 +1,7 @@
 ##### § 173.3 Packaging and exceptions. #####
 
+Link to an amendment published at 85 FR 83382, Dec. 21, 2020.
+
 (a) The packaging of hazardous materials for transportation by air, highway, rail, or water must be as specified in this part. Methods of manufacture, packing, and storage of hazardous materials, that affect safety in transportation, must be open to inspection by a duly authorized representative of the initial carrier or of the Department. Methods of manufacture and related functions necessary for completion of a DOT specification or U.N. standard packaging must be open to inspection by a representative of the Department.
 
 (b) The regulations setting forth packaging requirements for a specific material apply to all modes of transportation unless otherwise stated, or unless exceptions from packaging requirements are authorized.

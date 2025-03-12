@@ -1,5 +1,7 @@
 ##### § 173.166 Safety devices. #####
 
+Link to an amendment published at 85 FR 83398, Dec. 21, 2020.
+
 For the purpose of this section, safety devices are articles which contain pyrotechnic substances or hazardous materials of other classes and are used in vehicles, vessels or aircraft to enhance safety to persons. Examples are: air bag inflators, air bag modules, seat-belt pretensioners and pyromechanical devices. Pyromechanical devices are assembled components for tasks such as but not limited to separation, locking, release-and-drive or occupant restraint. The term includes “Safety devices, pyrotechnic.”
 
 (a) *Definitions.* An *air bag inflator* (consisting of a casing containing an igniter, a booster material, a gas generant and, in some cases, a pressure receptacle (cylinder)) is a gas generator used to inflate an air bag in a supplemental restraint system in a motor vehicle. An *air bag module* is the air bag inflator plus an inflatable bag assembly. A *seat-belt pretensioner* contains similar hazardous materials and is used in the operation of a seat-belt restraining system in a motor vehicle.

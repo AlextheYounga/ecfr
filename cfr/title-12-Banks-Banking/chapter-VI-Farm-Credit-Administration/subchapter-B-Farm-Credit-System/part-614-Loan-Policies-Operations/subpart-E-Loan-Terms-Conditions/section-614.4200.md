@@ -1,7 +1,5 @@
 ##### § 614.4200 General requirements. #####
 
-Link to an amendment published at 85 FR 60694, Sept. 28, 2020.
-
 (a) *Terms and conditions.* (1) The terms and conditions of each loan made by a Farm Credit bank or association shall be set forth in a written document or documents, such as a loan agreement, promissory note, or other instrument(s) appropriate to the type and amount of the credit extension, in order to establish loan conditions and performance requirements. Copies of all documents executed by the borrower in connection with the closing of a loan made under titles I or II of the Act shall be provided to the borrower at the time of execution and at any time thereafter that the borrower requests additional copies.
 
 (2) The terms and conditions of all loans shall be adequately disclosed in writing to the borrower not later than loan closing. For loans made under titles I and II of the Act, the institution shall provide prompt written notice of the approval of the loan.
@@ -18,4 +16,10 @@ Link to an amendment published at 85 FR 60694, Sept. 28, 2020.
 
 (5) Except as provided in § 614.4231, loans made under title III of the Act may be secured or unsecured, as appropriate for the purpose of the loan and the documented creditworthiness of the borrower.
 
-[62 FR 51014, Sept. 30, 1997]
+(c) *Loan amortization.* If a direct lender amortizes a loan over a period of time that is longer than the term to maturity under § 614.4000(a), § 614.4010(a), § 614.4030(a), § 614.41040(a), or § 614.4050(a)(1) or (2), it must establish a loan amortization schedule that is:
+
+(1) Consistent with its loan underwriting standards adopted pursuant to § 614.4150; and
+
+(2) Appropriate to the type and purpose of the loan, expected useful life of the asset being financed, and the repayment capacity of the borrower.
+
+[62 FR 51014, Sept. 30, 1997, as amended at 85 FR 60694, Sept. 28, 2020]

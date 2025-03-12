@@ -1,5 +1,7 @@
 ##### § 173.62 Specific packaging requirements for explosives. #####
 
+Link to an amendment published at 85 FR 83382, Dec. 21, 2020.
+
 (a) Except as provided in § 173.7 of this subchapter, when the § 172.101 Table specifies that an explosive must be packaged in accordance with this section, only packagings which conform to the provisions of paragraphs (b) and (c) of this section or § 173.7(e) of this subchapter and the applicable requirements in §§ 173.60 and 173.61 may be used unless otherwise approved by the Associate Administrator.
 
 (b) *Explosives Table.* The Explosives Table specifies the Packing Instructions assigned to each explosive. Explosives are identified in the first column in numerical sequence by their identification number (ID #), which is listed in column 4 of the § 172.101 table, of this subchapter. The second column of the Explosives Table specifies the Packing Instruction (PI) which must be used for packaging the explosive. The Explosives Packing Method Table in paragraph (c) of this section defines the methods of packaging. The Packing Instructions are identified using a 3 digit designation. The Packing Instruction prefixed by the letters “US” is particular to the United States and not found in applicable international regulations.

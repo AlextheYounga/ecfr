@@ -1,5 +1,7 @@
 ##### § 179.202-13 Retrofit standard requirements (DOT-117R). #####
 
+Link to an amendment published at 85 FR 83403, Dec. 21, 2020.
+
 (a) *Applicability.* Each tank retrofit under these specifications must conform to the general requirements of § 179.200 and the prescriptive standards in § 179.202-13, or the performance standard requirements of § 179.202-12.
 
 (b) *Approval to operate at 286,000 gross rail load (GRL).* A tank car may be loaded to a gross weight on rail of up to 286,000 pounds (129,727 kg) upon approval by the Associate Administrator for Safety, Federal Railroad Administration (FRA). See § 179.13.

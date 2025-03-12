@@ -1,5 +1,7 @@
 ##### § 173.220 Internal combustion engines, vehicles, machinery containing internal combustion engines, battery-powered equipment or machinery, fuel cell-powered equipment or machinery. #####
 
+Link to an amendment published at 85 FR 83399, Dec. 21, 2020.
+
 (a) *Applicability.* An internal combustion engine, self-propelled vehicle, machinery containing an internal combustion engine that is not consigned under the “Dangerous goods in machinery *or* apparatus” UN 3363 entry, a battery-powered vehicle or equipment, or a fuel cell-powered vehicle or equipment, or any combination thereof, is subject to the requirements of this subchapter when transported as cargo on a transport vehicle, vessel, or aircraft if -
 
 (1) The vehicle, engine, or machinery contains a liquid or gaseous fuel. Vehicles, engines, or machinery may be considered as not containing fuel when the engine components and any fuel lines have been completely drained, sufficiently cleaned of residue, and purged of vapors to remove any potential hazard and the engine when held in any orientation will not release any liquid fuel;

@@ -1,5 +1,7 @@
 ##### § 172.330 Tank cars and multi-unit tank car tanks. #####
 
+Link to an amendment published at 85 FR 83380, Dec. 21, 2020.
+
 (a) *Shipping name and identification number.* No person may offer for transportation or transport a hazardous material -
 
 (1) In a tank car unless the following conditions are met:

@@ -1,5 +1,7 @@
 ##### § 1.27 Definition of small entities and establishing status as a small entity to permit payment of small entity fees; when a determination of entitlement to small entity status and notification of loss of entitlement to small entity status are required; fraud on the Office. #####
 
+Link to an amendment published at 85 FR 82923, Dec. 21, 2020.
+
 (a) *Definition of small entities.* A small entity as used in this chapter means any party (person, small business concern, or nonprofit organization) under paragraphs (a)(1) through (a)(3) of this section.
 
 (1) *Person.* A person, as used in paragraph (c) of this section, means any inventor or other individual (e.g., an individual to whom an inventor has transferred some rights in the invention) who has not assigned, granted, conveyed, or licensed, and is under no obligation under contract or law to assign, grant, convey, or license, any rights in the invention. An inventor or other individual who has transferred some rights in the invention to one or more parties, or is under an obligation to transfer some rights in the invention to one or more parties, can also qualify for small entity status if all the parties who have had rights in the invention transferred to them also qualify for small entity status either as a person, small business concern, or nonprofit organization under this section.

@@ -1,5 +1,7 @@
 ##### § 175.10 Exceptions for passengers, crewmembers, and air operators. #####
 
+Link to an amendment published at 85 FR 83402, Dec. 21, 2020.
+
 (a) This subchapter does not apply to the following hazardous materials when carried by aircraft passengers or crewmembers provided the requirements of §§ 171.15 and 171.16 (see paragraph (c) of this section) and the requirements of this section are met:
 
 (1)(i) Non-radioactive medicinal and toilet articles for personal use (including aerosols) carried in carry-on and checked baggage. Release devices on aerosols must be protected by a cap or other suitable means to prevent inadvertent release;

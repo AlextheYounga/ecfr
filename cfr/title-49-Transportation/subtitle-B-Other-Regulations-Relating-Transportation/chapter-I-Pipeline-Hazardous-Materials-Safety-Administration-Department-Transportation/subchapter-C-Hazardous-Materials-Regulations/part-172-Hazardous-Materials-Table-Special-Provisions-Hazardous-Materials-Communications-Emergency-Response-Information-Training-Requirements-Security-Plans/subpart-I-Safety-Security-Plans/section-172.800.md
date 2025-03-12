@@ -1,5 +1,7 @@
 ##### § 172.800 Purpose and applicability. #####
 
+Link to an amendment published at 85 FR 83381, Dec. 21, 2020.
+
 (a) *Purpose.* This subpart prescribes requirements for development and implementation of plans to address security risks related to the transportation of hazardous materials in commerce.
 
 (b) *Applicability.* Each person who offers for transportation in commerce or transports in commerce one or more of the following hazardous materials must develop and adhere to a transportation security plan for hazardous materials that conforms to the requirements of this subpart. As used in this section, “large bulk quantity” refers to a quantity greater than 3,000 kg (6,614 pounds) for solids or 3,000 liters (792 gallons) for liquids and gases in a single packaging such as a cargo tank motor vehicle, portable tank, tank car, or other bulk container.

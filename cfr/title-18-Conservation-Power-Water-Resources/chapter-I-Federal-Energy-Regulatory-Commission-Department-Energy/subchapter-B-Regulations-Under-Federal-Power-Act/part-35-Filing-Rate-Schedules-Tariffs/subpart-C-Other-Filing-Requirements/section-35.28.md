@@ -1,7 +1,5 @@
 ##### § 35.28 Non-discriminatory open access transmission tariff. #####
 
-Link to an amendment published at 85 FR 67155, Oct. 21, 2020.
-
 (a) *Applicability.* This section applies to any public utility that owns, controls or operates facilities used for the transmission of electric energy in interstate commerce and to any non-public utility that seeks voluntary compliance with jurisdictional transmission tariff reciprocity conditions.
 
 (b) *Definitions* - (1) *Requirements service agreement* means a contract or rate schedule under which a public utility provides any portion of a customer's bundled wholesale power requirements.
@@ -21,6 +19,10 @@ Link to an amendment published at 85 FR 67155, Oct. 21, 2020.
 (8) *Market Violation* means a tariff violation, violation of a Commission-approved order, rule or regulation, market manipulation, or inappropriate dispatch that creates substantial concerns regarding unnecessary market inefficiencies.
 
 (9) *Electric storage resource* as used in this section means a resource capable of receiving electric energy from the grid and storing it for later injection of electric energy back to the grid.
+
+(10) *Distributed energy resource* as used in this section means any resource located on the distribution system, any subsystem thereof or behind a customer meter.
+
+(11) *Distributed energy resource aggregator* as used in this section means the entity that aggregates one or more distributed energy resources for purposes of participation in the capacity, energy and/or ancillary service markets of the regional transmission organizations and/or independent system operators.
 
 (c) *Non-discriminatory open access transmission tariffs.* (1) Every public utility that owns, controls, or operates facilities used for the transmission of electric energy in interstate commerce must have on file with the Commission an open access transmission tariff of general applicability for transmission services, including ancillary services, over such facilities. Such tariff must be the *pro forma* tariff promulgated by the Commission, as amended from time to time, or such other tariff as may be approved by the Commission consistent with the principles set forth in Commission rulemaking proceedings promulgating and amending the *pro forma* tariff.
 
@@ -253,5 +255,29 @@ Link to an amendment published at 85 FR 67155, Oct. 21, 2020.
 (iii) *Transmission constraint penalty factors.* Each Commission-approved independent system operator or regional transmission organization must include, in its tariff, its transmission constraint penalty factor values; the circumstances, if any, under which the transmission constraint penalty factors can set locational marginal prices; and the procedure, if any, for temporarily changing the transmission constraint penalty factor values. Any procedure for temporarily changing transmission constraint penalty factor values must provide for notice of the change to market participants.
 
 (11) A resource's incremental energy offer must be capped at the higher of $1,000/MWh or that resource's cost-based incremental energy offer. For the purpose of calculating Locational Marginal Prices, Regional Transmission Organizations and Independent System Operators must cap cost-based incremental energy offers at $2,000/MWh. The actual or expected costs underlying a resource's cost-based incremental energy offer above $1,000/MWh must be verified before that offer can be used for purposes of calculating Locational Marginal Prices. If a resource submits an incremental energy offer above $1,000/MWh and the actual or expected costs underlying that offer cannot be verified before the market clearing process begins, that offer may not be used to calculate Locational Marginal Prices and the resource would be eligible for a make-whole payment if that resource is dispatched and the resource's actual costs are verified after-the-fact. A resource would also be eligible for a make-whole payment if it is dispatched and its verified cost-based incremental energy offer exceeds $2,000/MWh. All resources, regardless of type, are eligible to submit cost-based incremental energy offers in excess of $1,000/MWh.
+
+(12) *Distributed energy resource aggregators.* (i) Each independent system operator and regional transmission organization must have tariff provisions that allow distributed energy resource aggregations to participate directly in the organized wholesale electric markets. Each regional transmission organization and independent system operator must establish distributed energy resource aggregators as a type of market participant. Additionally, each regional transmission organization and independent system operator must allow distributed energy resource aggregators to register distributed energy resource aggregations under one or more participation models in the regional transmission operator's or the independent system operator's tariff that accommodate the physical and operational characteristics of the distributed energy resource aggregation.
+
+(ii) Each regional transmission organization and independent system operator, to accommodate the participation of distributed energy resource aggregations, must establish market rules that address:
+
+(A) Eligibility to participate in the independent system operator or regional transmission organization markets through a distributed energy resource aggregation;
+
+(B) Locational requirements for distributed energy resource aggregations;
+
+(C) Distribution factors and bidding parameters for distributed energy resource aggregations;
+
+(D) Information and data requirements for distributed energy resource aggregations;
+
+(E) Modification to the list of resources in a distributed energy resource aggregation;
+
+(F) Metering and telemetry system requirements for distributed energy resource aggregations;
+
+(G) Coordination between the regional transmission organization or independent system operator, the distributed energy resource aggregator, the distribution utility, and the relevant electric retail regulatory authorities; and
+
+(H) Market participation agreements for distributed energy resource aggregators.
+
+(iii) Each regional transmission organization and independent system operator must establish a minimum size requirement for distributed energy resource aggregations that does not exceed 100 kW.
+
+(iv) Each regional transmission organization and independent system operator must accept bids from a distributed energy resource aggregator if its aggregation includes distributed energy resources that are customers of utilities that distributed more than 4 million megawatt-hours in the previous fiscal year. An independent system operator or regional transmission organization must not accept bids from a distributed energy resource aggregator if its aggregation includes distributed energy resources that are customers of utilities that distributed 4 million megawatt-hours or less in the previous fiscal year, unless the relevant electric retail regulatory authority permits such customers to be bid into RTO/ISO markets by a distributed energy resource aggregator.
 
 [Order 888, 61 FR 21693, May 10, 1996]Editorial Note:For Federal Register citations affecting § 35.28, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

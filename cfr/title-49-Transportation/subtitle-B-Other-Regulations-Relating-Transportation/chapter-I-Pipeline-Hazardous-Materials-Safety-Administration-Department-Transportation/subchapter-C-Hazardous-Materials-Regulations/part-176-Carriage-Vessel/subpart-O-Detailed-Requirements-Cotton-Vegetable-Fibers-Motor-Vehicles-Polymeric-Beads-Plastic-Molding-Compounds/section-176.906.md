@@ -1,5 +1,7 @@
 ##### § 176.906 Stowage of engines and machinery. #####
 
+Link to an amendment published at 85 FR 83402, Dec. 21, 2020.
+
 (a) Any engine or machinery powered by internal combustion systems, with or without batteries installed, is subject to the following requirements when carried as cargo on a vessel:
 
 (1) Before being loaded on a vessel, each engine or machinery must be inspected for fuel leaks and identifiable faults in the electrical system that could result in short circuit or other unintended electrical source of ignition. Engines or machinery showing any signs of leakage or electrical fault may not be transported.

@@ -1,5 +1,7 @@
 ##### § 173.185 Lithium cells and batteries. #####
 
+Link to an amendment published at 85 FR 83398, Dec. 21, 2020.
+
 As used in this section, *consignment* means one or more packages of hazardous materials accepted by an operator from one shipper at one time and at one address, receipted for in one lot and moving to one consignee at one destination address. *Equipment* means the device or apparatus for which the lithium cells or batteries will provide electrical power for its operation. *Lithium cell(s)* or *battery(ies)* includes both lithium metal and lithium ion chemistries. *Medical device* means an instrument, apparatus, implement, machine, contrivance, implant, or in vitro reagent, including any component, part, or accessory thereof, which is intended for use in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment, or prevention of disease, of a person.
 
 (a) *Classification.* (1) Each lithium cell or battery must be of the type proven to meet the criteria in part III, sub-section 38.3 of the UN Manual of Tests and Criteria (IBR; see § 171.7 of this subchapter). Lithium cells and batteries are subject to these tests regardless of whether the cells used to construct the battery are of a tested type. A single cell battery as defined in part III, sub-section 38.3 of the UN Manual of Tests and Criteria is considered a “cell” and must be offered for transportation in accordance with the requirements for cells.

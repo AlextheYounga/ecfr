@@ -1,6 +1,6 @@
 ##### § 172.102 Special provisions. #####
 
-Link to an amendment published at 85 FR 75712, Nov. 25, 2020.
+Link to an amendment published at 85 FR 75712, Nov. 25, 2020.Link to an amendment published at 85 FR 83380, Dec. 21, 2020.
 
 (a) *General.* When column 7 of the § 172.101 table refers to a special provision for a hazardous material, the meaning and requirements of that provision are as set forth in this section. When a special provision specifies packaging or packaging requirements -
 

@@ -1,5 +1,7 @@
 ##### § 172.322 Marine pollutants. #####
 
+Link to an amendment published at 85 FR 83380, Dec. 21, 2020.
+
 (a) For vessel transportation of each non-bulk packaging that contains a marine pollutant -
 
 (1) If the proper shipping name for a material which is a marine pollutant does not identify by name the component which makes the material a marine pollutant, the name of that component must be marked on the package in parentheses in association with the marked proper shipping name. Where two or more components which make a material a marine pollutant are present, the names of at least two of the components most predominantly contributing to the marine pollutant designation must appear in parentheses in association with the marked proper shipping name; and

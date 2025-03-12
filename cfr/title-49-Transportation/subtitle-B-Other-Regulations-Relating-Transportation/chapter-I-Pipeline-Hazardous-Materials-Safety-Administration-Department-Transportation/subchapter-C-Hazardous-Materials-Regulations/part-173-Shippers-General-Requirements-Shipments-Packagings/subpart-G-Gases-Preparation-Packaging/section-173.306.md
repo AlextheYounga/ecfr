@@ -1,5 +1,7 @@
 ##### § 173.306 Limited quantities of compressed gases. #####
 
+Link to an amendment published at 85 FR 83400, Dec. 21, 2020.
+
 (a) Limited quantities of compressed gases for which exceptions are permitted as noted by reference to this section in § 172.101 of this subchapter are excepted from labeling, except when offered for transportation or transported by air, and, unless required as a condition of the exception, specification packaging requirements of this subchapter when packaged in accordance with the following paragraphs. For transportation by aircraft, the package must conform to the applicable requirements of § 173.27 and only packages of hazardous materials authorized aboard passenger-carrying aircraft may be transported as a limited quantity. In addition, shipments are not subject to subpart F (Placarding) of part 172 of this subchapter, to part 174 of this subchapter except § 174.24, and to part 177 of this subchapter except § 177.817. Except as otherwise provided in this section, each package may not exceed 30 kg (66 lbs.) gross weight.
 
 (1) When in containers of not more than 4 fluid ounces capacity (7.22 cubic inches or less) except cigarette lighters. Additional exceptions for certain compressed gases in limited quantities and the ORM-D hazard class are provided in paragraph (i) of this section.

@@ -1,5 +1,7 @@
 ##### § 1.29 Micro entity status. #####
 
+Link to an amendment published at 85 FR 82923, Dec. 21, 2020.
+
 (a) To establish micro entity status under this paragraph, the applicant must certify that:
 
 (1) The applicant qualifies as a small entity as defined in § 1.27;

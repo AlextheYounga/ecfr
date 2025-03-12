@@ -1,5 +1,7 @@
 ##### § 173.121 Class 3 - Assignment of packing group. #####
 
+Link to an amendment published at 85 FR 83397, Dec. 21, 2020.
+
 (a)(1) The packing group of a Class 3 material is as assigned in column 5 of the § 172.101 Table. When the § 172.101 Table provides more than one packing group for a hazardous material, the packing group must be determined by applying the following criteria:
 
 |Packing group|       Flash point (closed-cup)       |Initial boiling point|

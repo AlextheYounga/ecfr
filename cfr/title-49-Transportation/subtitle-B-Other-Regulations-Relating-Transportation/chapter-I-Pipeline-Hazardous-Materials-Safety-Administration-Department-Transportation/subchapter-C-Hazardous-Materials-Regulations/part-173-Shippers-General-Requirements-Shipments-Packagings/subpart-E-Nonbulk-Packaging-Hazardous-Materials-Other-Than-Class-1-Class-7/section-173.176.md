@@ -1,5 +1,7 @@
 ##### § 173.176 Capacitors. #####
 
+Link to an amendment published at 85 FR 83398, Dec. 21, 2020.
+
 (a) Capacitors, including capacitors containing an electrolyte that does not meet the definition of any hazard class or division as defined in this part, must conform to the following requirements:
 
 (1) Except for asymmetric capacitors, capacitors not installed in equipment must be transported in an uncharged state.

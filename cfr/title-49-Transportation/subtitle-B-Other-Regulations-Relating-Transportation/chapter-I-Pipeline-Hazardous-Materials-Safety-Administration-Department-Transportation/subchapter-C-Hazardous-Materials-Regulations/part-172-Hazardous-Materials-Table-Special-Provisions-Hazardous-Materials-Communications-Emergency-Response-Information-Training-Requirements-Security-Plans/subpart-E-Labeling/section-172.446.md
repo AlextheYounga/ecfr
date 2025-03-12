@@ -1,5 +1,7 @@
 ##### § 172.446 CLASS 9 label. #####
 
+Link to an amendment published at 85 FR 83381, Dec. 21, 2020.
+
 (a) Except for size and color, the “CLASS 9” (miscellaneous hazardous materials) label must be as follows:
 
 ![](/graphics/er28de11.007.gif)

@@ -1,5 +1,7 @@
 ##### § 173.134 Class 6, Division 6.2 - Definitions and exceptions. #####
 
+Link to an amendment published at 85 FR 83397, Dec. 21, 2020.
+
 (a) *Definitions and classification criteria.* For the purposes of this subchapter, the following definitions and classification criteria apply to Division 6.2 materials.
 
 (1) *Division 6.2 (Infectious substance)* means a material known or reasonably expected to contain a pathogen. A pathogen is a microorganism (including bacteria, viruses, rickettsiae, parasites, fungi) or other agent, such as a proteinaceous infectious particle (prion), that can cause disease in humans or animals. An infectious substance must be assigned the identification number UN 2814, UN 2900, UN 3373, or UN 3291 as appropriate, and must be assigned to one of the following categories:
