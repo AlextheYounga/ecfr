@@ -90,7 +90,7 @@
 
 (B) Whether it believes that one or more of the requirements of this paragraph are not applicable to its network, in which case it shall provide a brief explanation of why it believes any such requirement does not apply.
 
-(d) *Other matters* - (1) *Initial reliability certification.* One year after October 15, 2014, a certifying official of every covered 911 service provider shall certify to the Commission that it has made substantial progress toward meeting the standards of the annual reliability certification described in paragraph (c) of this section. Substantial progress in each element of the certification shall be defined as compliance with standards of the full certification in at least 50 percent of the covered 911 service provider's critical 911 circuits, central offices that directly serve PSAPs, and independently monitored 911 service areas.
+(d) *Other matters*—(1) *Initial reliability certification.* One year after October 15, 2014, a certifying official of every covered 911 service provider shall certify to the Commission that it has made substantial progress toward meeting the standards of the annual reliability certification described in paragraph (c) of this section. Substantial progress in each element of the certification shall be defined as compliance with standards of the full certification in at least 50 percent of the covered 911 service provider's critical 911 circuits, central offices that directly serve PSAPs, and independently monitored 911 service areas.
 
 (2) *Confidential treatment.* (i) The fact of filing or not filing an annual reliability certification or initial reliability certification and the responses on the face of such certification forms shall not be treated as confidential.
 
@@ -103,3 +103,7 @@
 (ii) With respect to backup power at central offices, such records shall include, at a minimum, records regarding the nature and extent of backup power at each central office that directly serves a PSAP, testing and maintenance records for backup power equipment in each such central office, and records regarding any alternative measures taken to mitigate the risk of insufficient backup power.
 
 (iii) With respect to network monitoring, such records shall include, at a minimum, records of diversity audits of monitoring links, any internal report(s) generated as a result of such audits, records of actions taken pursuant to the audit results, and records regarding any alternative measures taken to mitigate the risk of aggregation points and/or monitoring links that are not physically diverse.
+
+(4) Covered 911 service providers that cease operations must notify the FCC by filing a notification under penalty of perjury no later than 60 days after the cessation of service.
+
+[84 FR 66760, Dec. 5, 2019, as amended at 88 FR 9765, Feb. 15, 2023]

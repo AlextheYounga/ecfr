@@ -56,9 +56,11 @@
 
 (c) *Fee for inspection of commercial trucks.* (1) The driver or other person in charge of a commercial truck that is enteing the customs territory of the United States and that is subject to inspection under part 330 of this chapter or under 9CFR, chapter I, subchapter D, must, upon arrival, proceed to Customs and pay and AQI user fee for each arrival, as shown in the following table:
 
-|      Effective date       |Amount|
-|---------------------------|------|
-|Beginning December 28, 2015|$7.55 |
+Table 2 to Paragraph (c)(1)
+
+|     Effective date     |Amount|
+|------------------------|------|
+|Beginning March 17, 2023|$7.29 |
 
 (2) [Reserved]
 
@@ -86,13 +88,13 @@
 
 (2) The following categories of commercial railroad cars are exempt from paying an AQI user fee:
 
-(i) Any commercial railroad car that is part of a train whose journey originates and terminates in Canada if -
+(i) Any commercial railroad car that is part of a train whose journey originates and terminates in Canada if—
 
 (A) The commercial railroad car is part of the train when the train departs Canada; and
 
 (B) No passengers board or disembark from the commercial railroad car, and no cargo is loaded or unloaded from the commercial railroad car, while the train is within the United States.
 
-(ii) Any commercial railroad car that is part of a train whose journey originates and terminates in the United States, if -
+(ii) Any commercial railroad car that is part of a train whose journey originates and terminates in the United States, if—
 
 (A) The commercial railroad car is part of the train when the train departs the United States; and
 
@@ -168,14 +170,16 @@
 
 (C) The cargo is inspected concurrently with the aircraft.
 
-(f) *Fee for inspection of international passengers.* (1) Except as specified in paragraph (f)(2) of this section, each passenger aboard a commercial aircraft or cruise ship who is subject to inspection under part 330 of this chapter or 9 CFR, chapter I, subchapter D, upon arrival from a place outside of the customs territory of the United States, must pay an AQI user fee. The AQI user fee will apply to tickets purchased beginning December 28, 2015. The fees are shown in the following table:
+(f) *Fee for inspection of international passengers.* (1) Except as specified in paragraph (f)(2) of this section, each passenger aboard a commercial aircraft or cruise ship who is subject to inspection under part 330 of this chapter or 9 CFR, chapter I, subchapter D, upon arrival from a place outside of the customs territory of the United States, must pay an AQI user fee. The AQI user fee will apply to tickets purchased beginning March 17, 2023. The fees are shown in the following table:
+
+Table 5 to Paragraph (f)(1)
 
 |Effective dates<sup>1</sup>|  Passenger type   |Amount|
 |---------------------------|-------------------|------|
-|Beginning December 28, 2015|Commercial aircraft|$3.96 |
-|Beginning December 28, 2015|    Cruise ship    | 1.75 |
+| Beginning March 17, 2023  |Commercial aircraft|$3.83 |
+| Beginning March 17, 2023  |    Cruise ship    | 1.68 |
 
-<sup>1</sup> Persons who issue international airline and cruise line tickets or travel documents are responsible for collecting the AQI international airline passenger user fee and the international cruise ship passenger user fee from ticket purchasers. Issuers must collect the fee applicable at the time tickets are sold. In the event that ticket sellers do not collect the AQI user fee when tickets are sold, the air carrier or cruise line must collect the user fee that is applicable at the time of departure from the passenger upon departure.
+<sup>1</sup>Persons who issue international airline and cruise line tickets or travel documents are responsible for collecting the AQI international airline passenger user fee and the international cruise ship passenger user fee from ticket purchasers. Issuers must collect the fee applicable at the time tickets are sold. In the event that ticket sellers do not collect the AQI user fee when tickets are sold, the air carrier or cruise line must collect the user fee that is applicable at the time of departure from the passenger upon departure.
 
 (2) The following categories of passengers are exempt from paying an AQI user fee:
 
@@ -344,4 +348,4 @@
 
 (2) Supervising the separation of cargo from solid wood packing material denied entry under this subpart and the destruction or reexportation of the solid wood packing material.
 
-(Approved by the Office of Management and Budget under control numbers 1651-0019, 0579-0094, or 0579-0052).[69 FR 71679. Dec. 9, 2004, as amended at 71 FR 50328, Aug. 25, 2006; 72 FR 70765, Dec. 13, 2007; 74 FR 32399, July 8, 2009; 75 FR 10644, Mar. 9, 2010; 80 FR 66778, Oct. 29, 2015]
+(Approved by the Office of Management and Budget under control numbers 1651-0019, 0579-0094, or 0579-0052).[69 FR 71679. Dec. 9, 2004, as amended at 71 FR 50328, Aug. 25, 2006; 72 FR 70765, Dec. 13, 2007; 74 FR 32399, July 8, 2009; 75 FR 10644, Mar. 9, 2010; 80 FR 66778, Oct. 29, 2015; 88 FR 16372, Mar. 17, 2023]

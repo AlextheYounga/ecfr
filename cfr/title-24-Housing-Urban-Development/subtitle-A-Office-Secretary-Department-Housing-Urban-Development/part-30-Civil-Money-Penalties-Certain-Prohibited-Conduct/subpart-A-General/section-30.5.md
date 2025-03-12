@@ -1,10 +1,8 @@
 ##### § 30.5 Effective dates. #####
 
-Link to an amendment published at 88 FR 9748, Feb. 15, 2023.
-
 (a) Under § 30.20, a civil money penalty may be imposed for violations occurring on or after May 22, 1991.
 
-(b) Under §§ 30.25, 30.35, 30.45, 30.50, 30.55, and 30.60, a civil money penalty may be imposed for any violations that occur on or after December 15, 1989.
+(b) *Maximum penalty.* The maximum penalty is $23,727 for each violation.
 
 (c) Under § 30.40, concerning loan guarantees for Indian housing, a civil money penalty may be imposed for violations occurring on or after October 28, 1992.
 
@@ -16,4 +14,4 @@ Link to an amendment published at 88 FR 9748, Feb. 15, 2023.
 
 (e) Under § 30.68, a civil money penalty may be imposed for violations, or for those parts of continuing violations, occurring on or after January 7, 2002.
 
-[61 FR 50215, Sept. 24, 1996, as amended at 66 FR 63441, Dec. 6, 2001; 82 FR 24524, May 30, 2017]
+[61 FR 50215, Sept. 24, 1996, as amended at 66 FR 63441, Dec. 6, 2001; 82 FR 24524, May 30, 2017; 88 FR 9748, Feb. 15, 2023]

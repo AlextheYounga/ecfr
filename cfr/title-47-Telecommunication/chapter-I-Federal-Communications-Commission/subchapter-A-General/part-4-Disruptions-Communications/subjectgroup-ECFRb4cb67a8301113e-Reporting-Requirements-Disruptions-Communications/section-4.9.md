@@ -1,4 +1,4 @@
-##### § 4.9 Outage reporting requirements - threshold criteria. #####
+##### § 4.9 Outage reporting requirements—threshold criteria. #####
 
 Link to an amendment published at 88 FR 9764, Feb. 15, 2023.
 
@@ -20,9 +20,9 @@ Link to an amendment published at 88 FR 9764, Feb. 15, 2023.
 
 (i) A loss of complete accessibility to at least one satellite or transponder;
 
-(ii) A loss of a satellite communications link that potentially affects at least 900,000 user-minutes (as defined in § 4.7(d)) of either telephony service or paging service;
+(ii) A loss of a satellite communications link that potentially affects at least 900,000 user-minutes (as defined in § 4.7(d)) of either telephony service or paging service; or
 
-(iii) Potentially affecting any special offices and facilities (in accordance with paragraphs (a) through (d) of § 4.5) other than airports; or
+(iii) [Reserved]
 
 (iv) Potentially affecting a 911 special facility (as defined in (e) of § 4.5), in which case they also shall notify, as soon as possible by telephone or other electronic means, any official who has been designated by the management of the affected 911 facility as the provider's contact person for communications outages at that facility, and they shall convey to that person all available information that may be useful to the management of the affected facility in mitigating the effects of the outage on callers to that facility.
 
@@ -40,9 +40,9 @@ Link to an amendment published at 88 FR 9764, Feb. 15, 2023.
 
 (ii) That potentially affects at least 900,000 user minutes of either telephony and associated data (2nd generation or lower) service or paging service;
 
-(iii) That affects at least 667 OC3 minutes (as defined in § 4.7);
+(iii) That affects at least 667 OC3 minutes (as defined in § 4.7); or
 
-(iv) That potentially affects any special offices and facilities (in accordance with paragraphs (a) through (d) of § 4.5) other than airports through direct service facility agreements; or
+(iv) [Reserved]
 
 (v) That potentially affects a 911 special facility (as defined in paragraph (e) of § 4.5), in which case they also shall notify, as soon as possible by telephone or other electronic means, any official who has been designated by the management of the affected 911 facility as the provider's contact person for communications outages at that facility, and they shall convey to that person all available information that may be useful to the management of the affected facility in mitigating the effects of the outage on callers to that facility.
 
@@ -78,4 +78,4 @@ Link to an amendment published at 88 FR 9764, Feb. 15, 2023.
 
 (h) *Covered 911 service providers.* In addition to any other obligations imposed in this section, within thirty minutes of discovering an outage that potentially affects a 911 special facility (as defined in § 4.5), all covered 911 service providers (as defined in § 12.4(a)(4) of this chapter) shall notify as soon as possible but no later than thirty minutes after discovering the outage any official who has been designated by the affected 911 special facility as the provider's contact person(s) for communications outages at that facility and convey all available information that may be useful in mitigating the effects of the outage, as well as a name, telephone number, and email address at which the service provider can be reached for follow-up. The covered 911 service provider shall communicate additional material information to the affected 911 special facility as it becomes available, but no later than two hours after the initial contact. This information shall include the nature of the outage, its best-known cause, the geographic scope of the outage, the estimated time for repairs, and any other information that may be useful to the management of the affected facility. All notifications shall be transmitted by telephone and in writing via electronic means in the absence of another method mutually agreed upon in advance by the 911 special facility and the covered 911 service provider.
 
-[69 FR 70338, Dec. 3, 2004, as amended at 77 FR 25097, Apr. 27, 2012; 79 FR 3130, Jan. 17, 2014; 79 FR 7589, Feb. 10, 2014; 81 FR 45068, July 12, 2016]
+[69 FR 70338, Dec. 3, 2004, as amended at 77 FR 25097, Apr. 27, 2012; 79 FR 3130, Jan. 17, 2014; 79 FR 7589, Feb. 10, 2014; 81 FR 45068, July 12, 2016; 88 FR 9764, Feb. 15, 2023]

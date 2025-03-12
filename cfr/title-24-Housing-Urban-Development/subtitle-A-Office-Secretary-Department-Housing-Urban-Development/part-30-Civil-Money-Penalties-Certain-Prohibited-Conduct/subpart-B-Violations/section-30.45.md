@@ -1,7 +1,5 @@
 ##### § 30.45 Multifamily and section 202 or 811 mortgagors. #####
 
-Link to an amendment published at 88 FR 9748, Feb. 15, 2023.
-
 (a) *Definitions.* The following definitions apply to this section only:
 
 (1) *Agent employed to manage the property that has an identity of interest* and *identity of interest agent.* An entity:
@@ -22,7 +20,7 @@ Link to an amendment published at 88 FR 9748, Feb. 15, 2023.
 
 (6) *Section 202 or 811 property.* Property that includes 5 or more living units and that has a mortgage held pursuant to a direct loan or capital advances under section 202 of the Housing Act of 1959 (12 U.S.C. 1701q) or capital advances under section 811 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 8013).
 
-(b) *Violation of agreement* - (1) *General.* The Assistant Secretary for Housing-Federal Housing Commissioner, or his or her designee, may initiate a civil money penalty action against a mortgagor of a section 202 or 811 property or a mortgagor, general partner of a partnership mortgagor, or any officer or director of a corporate mortgagor of a multifamily property who:
+(b) *Violation of agreement*—(1) *General.* The Assistant Secretary for Housing-Federal Housing Commissioner, or his or her designee, may initiate a civil money penalty action against a mortgagor of a section 202 or 811 property or a mortgagor, general partner of a partnership mortgagor, or any officer or director of a corporate mortgagor of a multifamily property who:
 
 (i) Has agreed in writing, as a condition of a transfer of physical assets, a flexible subsidy loan, a capital improvement loan, a modification of the mortgage terms, or a workout agreement, to use nonproject income to make cash contributions for payments due under the note and mortgage, for payments to the reserve for replacements, to restore the project to good physical condition, or to pay other project liabilities; and
 
@@ -60,10 +58,10 @@ Link to an amendment published at 88 FR 9748, Feb. 15, 2023.
 
 (f) *Section 202 or 811 projects.* The Assistant Secretary for Housing-Federal Housing Commissioner, or his or her designee, may initiate a civil money penalty action against any mortgagor of a section 202 or 811 property who knowingly and materially takes any of the actions listed in 12 U.S.C. 1701q-1(c)(1).
 
-(g) *Maximum penalty.* The maximum penalty for each violation under paragraphs (c) and (f) of this section is $55,052.
+(g) *Maximum penalty.* The maximum penalty for each violation under paragraphs (c) and (f) of this section is $59,316.
 
 (h) *Payment of penalty.* No payment of a civil money penalty levied under this section shall be payable out of project income.
 
 (i) *Exceptions.* The Secretary may not impose penalties under this section for a violation, if a material cause of the violation is the failure of the Secretary, an agent of the Secretary, or a public housing agency to comply with an existing agreement.
 
-[66 FR 63441, Dec. 6, 2001, as amended at 68 FR 12788, Mar. 17, 2003; 72 FR 5588, Feb. 6, 2007; 74 FR 2751, Jan. 15, 2009; 78 FR 4059, Jan. 18, 2013; 81 FR 38935, June 15, 2016; 82 FR 24524, May 30, 2017; 83 FR 32793, July 16, 2018; 84 FR 9453, Mar. 15, 2019; 85 FR 13044, Mar. 6, 2020; 86 FR 14373, Mar. 16, 2021; 87 FR 24420, Apr. 26, 2022]
+[66 FR 63441, Dec. 6, 2001, as amended at 68 FR 12788, Mar. 17, 2003; 72 FR 5588, Feb. 6, 2007; 74 FR 2751, Jan. 15, 2009; 78 FR 4059, Jan. 18, 2013; 81 FR 38935, June 15, 2016; 82 FR 24524, May 30, 2017; 83 FR 32793, July 16, 2018; 84 FR 9453, Mar. 15, 2019; 85 FR 13044, Mar. 6, 2020; 86 FR 14373, Mar. 16, 2021; 87 FR 24420, Apr. 26, 2022; 88 FR 9748, Feb. 15, 2023]
