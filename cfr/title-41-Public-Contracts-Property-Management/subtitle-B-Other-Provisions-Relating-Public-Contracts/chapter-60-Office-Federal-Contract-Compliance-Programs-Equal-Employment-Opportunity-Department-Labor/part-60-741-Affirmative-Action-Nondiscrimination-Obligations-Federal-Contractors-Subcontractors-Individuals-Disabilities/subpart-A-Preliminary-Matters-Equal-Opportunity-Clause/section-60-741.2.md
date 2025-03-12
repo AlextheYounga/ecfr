@@ -1,5 +1,7 @@
 ##### § 60-741.2 Definitions. #####
 
+Link to an amendment published at 85 FR 39846, July 2, 2020.
+
 For the purpose of this part:
 
 (a) *Act* means the Rehabilitation Act of 1973, as amended, 29 U.S.C. 706 and 793.

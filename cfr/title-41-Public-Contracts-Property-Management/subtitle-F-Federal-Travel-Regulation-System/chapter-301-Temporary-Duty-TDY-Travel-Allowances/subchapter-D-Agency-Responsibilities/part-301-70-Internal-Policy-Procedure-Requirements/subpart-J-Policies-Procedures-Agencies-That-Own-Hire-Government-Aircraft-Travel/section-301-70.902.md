@@ -1,3 +1,5 @@
 ##### § 301-70.902 Do we have any special responsibilities related to space available travel on our Government aircraft? #####
 
+Link to an amendment published at 85 FR 39849, July 2, 2020.
+
 Yes, except for travel authorized under 10 U.S.C. 4744 and regulations implementing that statute, you must certify in writing before carrying passengers on a space available basis on your Government aircraft that the aircraft is scheduled to perform a bona fide governmental function. Bona fide governmental functions may include support for official travel. You must also certify that carrying a passenger in space available does not cause the need for a larger aircraft and does not result in more than minor additional cost to the Government. Your aircraft management office must retain this certification for two years. In an emergency situation, prior verbal approval with an after-the-fact written certification is permitted.

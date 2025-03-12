@@ -1,5 +1,7 @@
 ##### 52.209-5 Certification Regarding Responsibility Matters. #####
 
+Link to an amendment published at 85 FR 40067, July 2, 2020.
+
 As prescribed in 9.104-7(a), insert the following provision:
 
 Certification Regarding Responsibility Matters (OCT 2015)

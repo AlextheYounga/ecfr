@@ -1,5 +1,7 @@
 ##### § 301-70.802 Must we ensure that travel on Government aircraft is the most cost-effective alternative? #####
 
+Link to an amendment published at 85 FR 39849, July 2, 2020.
+
 (a) Yes, you must ensure that travel on a Government aircraft is the most cost-effective alternative that will meet the travel requirement. Your designated travel approving official must -
 
 (1) Compare the cost of all travel alternatives, as applicable, that is -

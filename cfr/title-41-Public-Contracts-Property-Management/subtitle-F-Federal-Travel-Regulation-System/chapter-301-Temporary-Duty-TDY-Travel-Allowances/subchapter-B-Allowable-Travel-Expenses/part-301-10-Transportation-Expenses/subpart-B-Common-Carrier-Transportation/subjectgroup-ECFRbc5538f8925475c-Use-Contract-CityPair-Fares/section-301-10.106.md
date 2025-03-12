@@ -1,5 +1,7 @@
 ##### § 301-10.106 When must I use a contract city-pair fare? #####
 
+Link to an amendment published at 85 FR 39848, July 2, 2020.
+
 If you are a civilian employee of an agency as defined in § 301-1.1 of this chapter, you must always use a contract city-pair fare for scheduled air passenger transportation service unless one of the limited exceptions in § 301-10.107 exist. An Internet listing of contract city-pair fares is available at *http://www.gsa.gov/citypairs.*
 
 Note to § 301-10.106:

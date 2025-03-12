@@ -1,5 +1,7 @@
 ##### § 301-74.12 What special rules apply when a conference is held in the District of Columbia? #####
 
+Link to an amendment published at 85 FR 39850, July 2, 2020.
+
 In addition to the general rules provided in this part, the following special rules apply:
 
 (a) You may not directly procure lodging facilities in the District of Columbia without specific authorization and appropriation from Congress (see 40 U.S.C. 34); and

@@ -1,5 +1,7 @@
 ##### 52.204-17 Ownership or Control of Offeror. #####
 
+Link to an amendment published at 85 FR 40064, July 2, 2020.
+
 As prescribed in 4.1804(b), use the following provision:
 
 Ownership of Control of Offeror (JUL 2016)

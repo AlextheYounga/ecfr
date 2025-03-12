@@ -1,5 +1,7 @@
 ##### § 300-90.3 What must be done to apply for test program authority? #####
 
+Link to an amendment published at 85 FR 39848, July 2, 2020.
+
 The head of the agency or designee must design the test program to enhance cost savings or other efficiencies for the Government and submit in writing to the Administrator of General Services (Attention: MA), 1800 F Street NW., Washington, DC 20405-0001:
 
 (a) An explanation of the test program;

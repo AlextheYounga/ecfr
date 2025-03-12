@@ -1,5 +1,7 @@
 ##### § 301-11.11 How do I select lodging and make lodging reservations? #####
 
+Link to an amendment published at 85 FR 39848, July 2, 2020.
+
 (a) You must make your lodging reservations through your agency's travel management service.
 
 (b) You should always stay in a “fire safe” facility. This is a facility that meets the fire safety requirements of the Hotel and Motel Fire Safety Act of 1990 (the Act), as amended (*see* 5 U.S.C. 5707a).

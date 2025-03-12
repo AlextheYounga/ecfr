@@ -1,5 +1,7 @@
 ##### 13.501 Special documentation requirements. #####
 
+Link to an amendment published at 85 FR 40067, July 2, 2020.
+
 (a) *Sole source (including brand name) acquisitions.* (1) Acquisitions conducted under simplified acquisition procedures are exempt from the requirements in part 6. However, contracting officers must -
 
 (i) Conduct sole source acquisitions, as defined in 2.101, (including brand name) under this subpart only if the need to do so is justified in writing and approved at the levels specified in paragraph (a)(2) of this section;

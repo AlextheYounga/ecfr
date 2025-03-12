@@ -1,5 +1,7 @@
 ##### § 304-2.1 What definitions apply to this chapter? #####
 
+Link to an amendment published at 85 FR 39850, July 2, 2020.
+
 The following definitions apply to this chapter:
 
 *Employee* means an appointed officer or employee of an executive agency as defined in 5 U.S.C. 105, including a special Government employee as defined in 18 U.S.C. 202, or an expert or consultant appointed under the authority of 5 U.S.C. 3109.

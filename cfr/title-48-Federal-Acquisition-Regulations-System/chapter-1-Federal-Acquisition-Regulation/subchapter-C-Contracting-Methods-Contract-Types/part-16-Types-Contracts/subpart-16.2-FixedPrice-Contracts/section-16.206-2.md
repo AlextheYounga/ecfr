@@ -1,5 +1,7 @@
 ##### 16.206-2 Application. #####
 
+Link to an amendment published at 85 FR 40067, July 2, 2020.
+
 A fixed-ceiling-price contract with retroactive price redetermination is appropriate for research and development contracts estimated at $150,000 or less when it is established at the outset that a fair and reasonable firm fixed price cannot be negotiated and that the amount involved and short performance period make the use of any other fixed-price contract type impracticable.
 
 (a) A ceiling price shall be negotiated for the contract at a level that reflects a reasonable sharing of risk by the contractor. The established ceiling price may be adjusted only if required by the operation of contract clauses providing for equitable adjustment or other revision of the contract price under stated circumstances.

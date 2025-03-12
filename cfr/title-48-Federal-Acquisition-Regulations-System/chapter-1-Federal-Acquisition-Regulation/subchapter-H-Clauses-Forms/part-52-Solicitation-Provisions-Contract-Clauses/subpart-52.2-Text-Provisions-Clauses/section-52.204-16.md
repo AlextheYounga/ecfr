@@ -1,5 +1,7 @@
 ##### 52.204-16 Commercial and Government Entity Code Reporting. #####
 
+Link to an amendment published at 85 FR 40063, July 2, 2020.
+
 As prescribed in 4.1804(a), use the following provision:
 
 Commercial and Government Entity Code Reporting (JUL 2016)

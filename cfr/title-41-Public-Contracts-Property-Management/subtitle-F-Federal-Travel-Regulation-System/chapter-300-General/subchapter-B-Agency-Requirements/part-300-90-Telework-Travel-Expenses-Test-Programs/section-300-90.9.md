@@ -1,5 +1,7 @@
 ##### § 300-90.9 What reports are required for a test program? #####
 
+Link to an amendment published at 85 FR 39848, July 2, 2020.
+
 (a) The Administrator of General Services must submit to Congress a copy of any approved or extended test program at least 30 days before the effective date of the authorized test program or extension.
 
 (b) The agency authorized to conduct the test program must submit:

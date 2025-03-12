@@ -1,5 +1,7 @@
 ##### 52.230-5 Cost Accounting Standards - Educational Institution. #####
 
+Link to an amendment published at 85 FR 40074, July 2, 2020.
+
 As prescribed in 30.201-4(e), insert the following clause:
 
 Cost Accounting Standards - Educational Institution (JUN 2020)

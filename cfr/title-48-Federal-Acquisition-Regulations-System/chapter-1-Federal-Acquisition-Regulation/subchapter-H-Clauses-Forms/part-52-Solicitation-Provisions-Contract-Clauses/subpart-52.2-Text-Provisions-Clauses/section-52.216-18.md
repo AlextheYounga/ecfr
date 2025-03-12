@@ -1,5 +1,7 @@
 ##### 52.216-18 Ordering. #####
 
+Link to an amendment published at 85 FR 40076, July 2, 2020.
+
 As prescribed in 16.506(a), insert the following clause:
 
 Ordering (OCT 1995)

@@ -1,5 +1,7 @@
 ##### § 301-11.6 Where do I find maximum per diem and actual expense rates? #####
 
+Link to an amendment published at 85 FR 39848, July 2, 2020.
+
 Consult this table to find out where to access *per diem* rates for various types of Government travel:
 
 |            For travel in            |                                      Rates set by                                       |                                                                                                                                       For per diem and actual expense see                                                                                                                                       |

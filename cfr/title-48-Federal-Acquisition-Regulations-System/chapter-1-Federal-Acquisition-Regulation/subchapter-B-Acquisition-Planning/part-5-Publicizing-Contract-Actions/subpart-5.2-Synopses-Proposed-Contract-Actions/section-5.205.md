@@ -16,7 +16,7 @@
 
 (2) The contracting officer shall announce the end of the streamlined or standard competition by making a formal public announcement of the performance decision. (See OMB Circular A-76.)
 
-(f) *Section 8(a) competitive acquisition.* When a national buy requirement is being considered for competitive acquisition limited to eligible 8(a) participants under subpart 19.8, the contracting officer must transmit a synopsis of the proposed contract action to the GPE. The synopsis may be transmitted to the GPE concurrent with submission of the agency offering (see 19.804-2) to the Small Business Administration (SBA). The synopsis should also include information -
+(f) *Section 8(a) competitive acquisition.* When a requirement is being considered for competitive acquisition limited to eligible 8(a) participants under subpart 19.8, the contracting officer must transmit a synopsis of the proposed contract action to the GPE. The synopsis may be transmitted to the GPE concurrent with submission of the agency offering (see 19.804-2) to the Small Business Administration (SBA). The synopsis should also include information -
 
 (1) Advising that the acquisition is being offered for competition limited to eligible 8(a) participants;
 
@@ -28,4 +28,4 @@
 
 (g) *Notification to the public of rationale for bundled requirement.* The agency is encouraged to provide notification of the rationale for any bundled requirement to the GPE before issuing the solicitation of any bundled requirement (see 7.107-5(b)(2)).
 
-[66 FR 27411, May 16, 2001, as amended at 68 FR 43856, July 24, 2003; 68 FR 56678, Oct. 1, 2003; 71 FR 20299, Apr. 19, 2006; 73 FR 10961, Feb. 28, 2008; 75 FR 53132, Aug. 30, 2010; 81 FR 67769, Sept. 30, 2016; 82 FR 4726, Jan. 13, 2017]
+[66 FR 27411, May 16, 2001, as amended at 68 FR 43856, July 24, 2003; 68 FR 56678, Oct. 1, 2003; 71 FR 20299, Apr. 19, 2006; 73 FR 10961, Feb. 28, 2008; 75 FR 53132, Aug. 30, 2010; 81 FR 67769, Sept. 30, 2016; 82 FR 4726, Jan. 13, 2017; 85 FR 40076, July 2, 2020]

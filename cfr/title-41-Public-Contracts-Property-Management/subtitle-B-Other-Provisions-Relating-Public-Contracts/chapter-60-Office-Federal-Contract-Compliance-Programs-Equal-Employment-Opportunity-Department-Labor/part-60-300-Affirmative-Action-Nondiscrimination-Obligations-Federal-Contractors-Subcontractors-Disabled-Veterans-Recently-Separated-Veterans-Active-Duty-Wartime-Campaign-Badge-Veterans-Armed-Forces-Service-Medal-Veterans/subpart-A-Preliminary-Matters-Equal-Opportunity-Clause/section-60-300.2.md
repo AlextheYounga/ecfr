@@ -1,5 +1,7 @@
 ##### § 60-300.2 Definitions. #####
 
+Link to an amendment published at 85 FR 39846, July 2, 2020.
+
 For the purpose of this part:
 
 (a) *Act* means the Vietnam Era Veterans' Readjustment Assistance Act of 1974, as amended, 38 U.S.C. 4212, also referred to throughout this regulation as “VEVRAA.”

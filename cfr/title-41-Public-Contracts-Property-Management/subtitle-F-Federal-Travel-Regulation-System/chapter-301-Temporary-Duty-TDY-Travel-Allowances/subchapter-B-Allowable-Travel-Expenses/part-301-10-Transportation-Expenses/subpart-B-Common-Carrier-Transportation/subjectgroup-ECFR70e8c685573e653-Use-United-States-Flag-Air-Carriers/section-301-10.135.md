@@ -1,5 +1,7 @@
 ##### § 301-10.135 When must I travel using U.S. flag air carrier service? #####
 
+Link to an amendment published at 85 FR 39848, July 2, 2020.
+
 You are required by 49 U.S.C. 40118, commonly referred to as the “Fly America Act,” to use U.S. flag air carrier service for all air travel funded by the U.S. Government, except as provided in §§ 301-10.136 and 301-10.137 or when one of the following exceptions applies:
 
 (a) Use of a foreign air carrier is determined to be a matter of necessity in accordance with § 301-10.138; or

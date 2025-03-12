@@ -1,5 +1,7 @@
 ##### 53.300 Listing of Standard, Optional, and Agency forms. #####
 
+Link to an amendment published at 85 FR 40064, July 2, 2020.
+
 This subpart identifies, in numerical sequence, Standard Forms (SF), Optional Forms (OF) and agency forms that are specified by the FAR for use in acquisitions.
 
 (a) You can access the forms in Table 53-1 at the GSA Forms Library at *https://www.gsa.gov/forms.*

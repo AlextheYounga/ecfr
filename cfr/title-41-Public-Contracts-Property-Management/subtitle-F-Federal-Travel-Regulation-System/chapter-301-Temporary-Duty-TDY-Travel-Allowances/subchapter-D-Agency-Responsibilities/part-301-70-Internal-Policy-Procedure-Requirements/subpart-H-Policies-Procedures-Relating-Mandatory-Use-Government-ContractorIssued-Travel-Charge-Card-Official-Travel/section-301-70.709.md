@@ -1,5 +1,7 @@
 ##### § 301-70.709 What can we do to reduce travel charge card delinquencies? #####
 
+Link to an amendment published at 85 FR 39849, July 2, 2020.
+
 To reduce travel charge card delinquencies by your employees, you should consider implementing one or more of the following suggestions (this list is not comprehensive; you may adopt other appropriate procedures):
 
 (a) Agency travel program coordinators must be trained and aware of their responsibilities and the delinquency management tools available under your agreement with the travel charge card contractor (internet training is available for the GSA SmartPayTM Travel Charge Card at: *http://www.gsa.gov/traveltraining.*

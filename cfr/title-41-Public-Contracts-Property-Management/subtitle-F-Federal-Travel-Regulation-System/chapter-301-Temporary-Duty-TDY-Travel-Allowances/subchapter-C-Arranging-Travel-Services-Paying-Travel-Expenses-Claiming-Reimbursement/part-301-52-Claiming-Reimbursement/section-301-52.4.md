@@ -1,5 +1,7 @@
 ##### § 301-52.4 What must I provide with my travel claim? #####
 
+Link to an amendment published at 85 FR 39849, July 2, 2020.
+
 You must provide:
 
 (a) Evidence of your necessary travel authorizations including any necessary special authorizations;

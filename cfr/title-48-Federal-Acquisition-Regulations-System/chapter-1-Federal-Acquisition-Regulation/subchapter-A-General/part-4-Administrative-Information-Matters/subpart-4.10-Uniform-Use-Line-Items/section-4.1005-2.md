@@ -1,5 +1,7 @@
 ##### 4.1005-2 Exceptions. #####
 
+Link to an amendment published at 85 FR 40071, July 2, 2020.
+
 (a) *Indefinite-delivery contracts* - (1) *General.* The following required data elements are not known at time of issuance of an indefinite-delivery contract, but shall be provided in each order at the time of issuance: accounting classification, delivery date and destination, or period and place of performance.
 
 (2) *Indefinite-delivery indefinite-quantity (IDIQ) and requirements contracts.* IDIQ and requirements contracts may omit the quantity at the line item level for the base award provided that the total contract minimum and maximum, or the estimate, respectively, is stated.

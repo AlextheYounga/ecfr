@@ -1,5 +1,7 @@
 ##### § 304-6.6 How do we determine the value of payments in kind that are to be reported on Standard Form (SF) 326? #####
 
+Link to an amendment published at 85 FR 39850, July 2, 2020.
+
 The following should be used in the determination of the value of payments in kind for reporting on SF 326:
 
 (a) For conference, training, or similar fees waived, discounted, or paid for by a non-Federal source on behalf of a meeting attendee, you must report the amount charged to other attendees. However, a waiver or discount of the registration fee by the non-Federal sponsor of the event for the day(s) the employee participated in the meeting or similar function as a speaker, panelist, or presenter is not a payment in kind and does not need to be reported.

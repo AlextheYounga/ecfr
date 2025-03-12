@@ -1,5 +1,7 @@
 ##### § 301-10.261 When may I use a Government aircraft for travel? #####
 
+Link to an amendment published at 85 FR 39848, July 2, 2020.
+
 You may use Government aircraft -
 
 (a) For official travel only when -

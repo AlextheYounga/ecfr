@@ -1,5 +1,7 @@
 ##### 22.1803 Contract clause. #####
 
+Link to an amendment published at 85 FR 40067, July 2, 2020.
+
 Insert the clause at 52.222-54, Employment Eligibility Verification, in all solicitations and contracts that exceed the simplified acquisition threshold, except those that -
 
 (a) Are only for work that will be performed outside the United States;

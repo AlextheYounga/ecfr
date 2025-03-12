@@ -1,5 +1,7 @@
 ##### § 302-1.2 Who is not eligible for relocation expense allowances under this chapter? #####
 
+Link to an amendment published at 85 FR 39850, July 2, 2020.
+
 You are not eligible to receive relocation expense allowances under this chapter if you are:
 
 (a) A Foreign Service Officer or a Federal employee transferred under the rules of the Foreign Service Act of 1980, as amended;

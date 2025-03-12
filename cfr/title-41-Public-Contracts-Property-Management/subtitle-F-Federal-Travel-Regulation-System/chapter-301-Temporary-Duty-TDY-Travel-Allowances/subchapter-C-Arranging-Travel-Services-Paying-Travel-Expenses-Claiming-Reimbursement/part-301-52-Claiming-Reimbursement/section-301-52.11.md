@@ -1,5 +1,7 @@
 ##### § 301-52.11 What must I do to challenge a disallowed claim? #####
 
+Link to an amendment published at 85 FR 39849, July 2, 2020.
+
 You must:
 
 (a) File a new claim.

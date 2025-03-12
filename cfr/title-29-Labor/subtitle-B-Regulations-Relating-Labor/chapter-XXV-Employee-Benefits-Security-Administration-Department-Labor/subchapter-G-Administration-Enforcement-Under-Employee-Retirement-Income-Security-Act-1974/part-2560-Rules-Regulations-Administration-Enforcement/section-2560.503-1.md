@@ -1,6 +1,6 @@
 ##### § 2560.503-1 Claims procedure. #####
 
-Link to an amendment published at 85 FR 31924, May 27, 2020.
+Link to an amendment published at 85 FR 31924, May 27, 2020.Link to an amendment published at 85 FR 39831, July 2, 2020.
 
 (a) *Scope and purpose.* In accordance with the authority of sections 503 and 505 of the Employee Retirement Income Security Act of 1974 (ERISA or the Act), 29 U.S.C. 1133, 1135, this section sets forth minimum requirements for employee benefit plan procedures pertaining to claims for benefits by participants and beneficiaries (hereinafter referred to as claimants). Except as otherwise specifically provided in this section, these requirements apply to every employee benefit plan described in section 4(a) and not exempted under section 4(b) of the Act.
 

@@ -1,5 +1,7 @@
 ##### 16.206-3 Limitations. #####
 
+Link to an amendment published at 85 FR 40067, July 2, 2020.
+
 This contract type shall not be used unless -
 
 (a) The contract is for research and development and the estimated cost is $150,000 or less;

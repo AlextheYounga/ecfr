@@ -1,5 +1,7 @@
 ##### 4.1801 Definitions. #####
 
+Link to an amendment published at 85 FR 40063, July 2, 2020.
+
 As used in this part -
 
 *Commercial and Government Entity (CAGE) code* means-

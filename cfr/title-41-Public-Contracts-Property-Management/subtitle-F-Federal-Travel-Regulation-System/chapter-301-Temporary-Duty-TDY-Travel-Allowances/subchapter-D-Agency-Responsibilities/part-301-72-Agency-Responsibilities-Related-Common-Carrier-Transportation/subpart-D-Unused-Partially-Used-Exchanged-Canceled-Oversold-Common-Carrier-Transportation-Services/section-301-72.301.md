@@ -1,5 +1,7 @@
 ##### § 301-72.301 How do we process unused, partially used, and exchanged tickets? #####
 
+Link to an amendment published at 85 FR 39849, July 2, 2020.
+
 (a) *For unused or partially used tickets purchased with GTRs:* You must obtain the unused or partially used ticket from the traveler, issue Standard Form 1170 (SF 1170) “Redemption of Unused Ticket” to the airline and or travel agency that issued the ticket, maintain a suspense file to monitor the airline/travel agency refund, and record and deposit the airline/travel agency refund upon receipt. See 41 CFR 102-118.145 and the U.S. Government Passenger Transportation Handbook (*http://fss.gsa.gov/transtrav/usgpth.pdf*) for policies and procedures regarding the use of SF 1170.
 
 (b) *For unused or partially used tickets purchased under centrally billed accounts:* You must obtain the unused ticket from the traveler, return it to the issuing office that furnished the airline ticket, obtain a receipt indicating a credit is due, and confirm that the value of the unused ticket has been credited to the centrally billed account.

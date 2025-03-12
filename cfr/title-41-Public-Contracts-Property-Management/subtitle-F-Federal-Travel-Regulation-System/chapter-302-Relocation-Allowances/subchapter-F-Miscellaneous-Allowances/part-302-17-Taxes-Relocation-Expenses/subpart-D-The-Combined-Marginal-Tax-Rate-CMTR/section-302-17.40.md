@@ -12,4 +12,4 @@ CMTR = F + (1 − F)S + (1 − F)LWhere:F = Your Federal marginal tax rateS = Yo
 
 (e) Your agency finds the state and local marginal tax rates that apply to you (if any) by comparing your taxable income to the most current state and/or local tax tables provided by the states and localities. Every Federal payroll office and every provider of tax calculation software has these tables readily available, and the tables are also available on the Web sites of the various state and local taxing authorities.
 
-[FTR Amdt. 2020-02, 84 FR 64783, Nov. 25, 2019]
+[FTR Amdt. 2014-01, 79 FR 49645, Aug. 21, 2014, as amended by FTR Amdt. 2020-02, 84 FR 64783, Nov. 25, 2019]

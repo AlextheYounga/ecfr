@@ -1,5 +1,7 @@
 ##### 52.204-18 Commercial and Government Entity Code Maintenance. #####
 
+Link to an amendment published at 85 FR 40064, July 2, 2020.
+
 As prescribed in 4.1804(c), use the following clause:
 
 Commercial and Government Entity Code Maintenance (JUL 2016)

@@ -1,5 +1,7 @@
 ##### 16.504 Indefinite-quantity contracts. #####
 
+Link to an amendment published at 85 FR 40071, July 2, 2020.
+
 (a) *Description.* An indefinite-quantity contract provides for an indefinite quantity, within stated limits, of supplies or services during a fixed period. The Government places orders for individual requirements. Quantity limits may be stated as number of units or as dollar values.
 
 (1) The contract must require the Government to order and the contractor to furnish at least a stated minimum quantity of supplies or services. In addition, if ordered, the contractor must furnish any additional quantities, not to exceed the stated maximum. The contracting officer should establish a reasonable maximum quantity based on market research, trends on recent contracts for similar supplies or services, survey of potential users, or any other rational basis.

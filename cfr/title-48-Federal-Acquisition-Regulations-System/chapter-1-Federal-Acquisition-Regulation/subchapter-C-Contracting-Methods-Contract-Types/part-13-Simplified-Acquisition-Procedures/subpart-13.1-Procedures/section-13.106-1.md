@@ -1,5 +1,7 @@
 ##### 13.106-1 Soliciting competition. #####
 
+Link to an amendment published at 85 FR 40071, July 2, 2020.
+
 (a) *Considerations.* In soliciting competition, the contracting officer shall consider the guidance in 13.104 and the following before requesting quotations or offers:
 
 (1)(i) The nature of the article or service to be purchased and whether it is highly competitive and readily available in several makes or brands, or is relatively noncompetitive.

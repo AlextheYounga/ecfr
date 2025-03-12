@@ -1,5 +1,7 @@
 ##### 4.403 Responsibilities of contracting officers. #####
 
+Link to an amendment published at 85 FR 40063, July 2, 2020.
+
 (a) *Presolicitation phase.* Contracting officers shall review all proposed solicitations to determine whether access to classified information may be required by offerors, or by a contractor during contract performance.
 
 (1) If access to classified information of another agency may be required, the contracting officer shall -

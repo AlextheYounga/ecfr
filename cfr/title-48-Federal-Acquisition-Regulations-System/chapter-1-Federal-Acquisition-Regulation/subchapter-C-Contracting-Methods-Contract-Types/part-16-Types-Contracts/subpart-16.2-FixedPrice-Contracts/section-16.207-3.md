@@ -1,5 +1,7 @@
 ##### 16.207-3 Limitations. #####
 
+Link to an amendment published at 85 FR 40067, July 2, 2020.
+
 This contract type may be used only when -
 
 (a) The work required cannot otherwise be clearly defined;

@@ -1,5 +1,7 @@
 ##### 52.204-20 Predecessor of Offeror. #####
 
+Link to an amendment published at 85 FR 40064, July 2, 2020.
+
 As prescribed in 4.1804(d), insert the following provision:
 
 Predecessor of Offeror (JUL 2016)

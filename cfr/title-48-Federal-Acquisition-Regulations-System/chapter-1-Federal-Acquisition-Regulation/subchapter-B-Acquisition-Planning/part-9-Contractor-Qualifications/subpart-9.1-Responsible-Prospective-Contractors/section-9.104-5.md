@@ -1,5 +1,7 @@
 ##### 9.104-5 Representation and certifications regarding responsibility matters. #####
 
+Link to an amendment published at 85 FR 40067, July 2, 2020.
+
 (a) When an offeror provides an affirmative response in paragraph (a)(1) of the provision at 52.209-5, Certification Regarding Responsibility Matters, or paragraph (h) of provision 52.212-3, the contracting officer shall -
 
 (1) Promptly, upon receipt of offers, request such additional information from the offeror as the offeror deems necessary in order to demonstrate the offeror's responsibility to the contracting officer (but see 9.405); and

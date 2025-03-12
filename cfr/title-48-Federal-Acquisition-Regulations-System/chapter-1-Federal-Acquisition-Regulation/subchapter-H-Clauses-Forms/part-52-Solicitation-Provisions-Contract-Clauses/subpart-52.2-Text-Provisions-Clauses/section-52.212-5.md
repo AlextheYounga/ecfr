@@ -2,7 +2,7 @@
 
 As prescribed in 12.301(b)(4), insert the following clause:
 
-Contract Terms and Conditions Required to Implement Statutes or Executive Orders - Commercial Items (JUN 2020)
+Contract Terms and Conditions Required to Implement Statutes or Executive Orders - Commercial Items (JUL 2020)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses, which are incorporated in this contract by reference, to implement provisions of law or Executive orders applicable to acquisitions of commercial items:
 
@@ -52,7 +52,7 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 \_\_ (14)(i) 52.219-6, Notice of Total Small Business Set-Aside (MAR 2020) (15 U.S.C. 644).
 
-\_\_ (ii) Alternate I (MAR 2020).
+\_\_ (ii) Alternate I (MAR 2020) of 52.219-6.
 
 \_\_ (15)(i) 52.219-7, Notice of Partial Small Business Set-Aside (MAR 2020) (15 U.S.C. 644).
 
@@ -70,7 +70,9 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 \_\_ (v) Alternate IV (JUN 2020) of 52.219-9.
 
-\_\_ (18) 52.219-13, Notice of Set-Aside of Orders (MAR 2020) (15 U.S.C. 644(r)).
+\_\_ (18)(i) 52.219-13, Notice of Set-Aside of Orders (MAR 2020) (15 U.S.C. 644(r)).
+
+\_\_ (ii) Alternate I (MAR 2020) of 52.219-13.
 
 \_\_ (19) 52.219-14, Limitations on Subcontracting (MAR 2020) (15 U.S.C. 637(a)(14)).
 
@@ -78,7 +80,7 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 \_\_ (21) 52.219-27, Notice of Service-Disabled Veteran-Owned Small Business Set-Aside (MAR 2020) (15 U.S.C. 657f).
 
-\_\_ (22)(i) 52.219-28, Post-Award Small Business Program Rerepresentation (MAR 2020) (15 U.S.C. 632(a)(2)).
+\_\_ (22)(i) 52.219-28, Post-Award Small Business Program Rerepresentation (MAY 2020) (15 U.S.C. 632(a)(2)).
 
 \_\_ (ii) Alternate I (MAR 2020) of 52.219-28.
 
@@ -134,7 +136,7 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 (ii) Alternate I (Jun 2014) of 52.223-14.
 
-\_\_ (42) 52.223-15, Energy Efficiency in Energy-Consuming Products (DEC 2007) (42 U.S.C. 8259b).
+\_\_ (42) 52.223-15, Energy Efficiency in Energy-Consuming Products (MAY 2020) (42 U.S.C. 8259b).
 
 \_\_ (43)(i) 52.223-16, Acquisition of EPEAT®-Registered Personal Computer Products (OCT 2015) (E.O.s 13423 and 13514).
 
@@ -336,4 +338,4 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 (U) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (FEB 2006) (46 U.S.C. Appx. 1241(b) and 10 U.S.C. 2631). Flow down required in accordance with paragraph (d) of FAR clause 52.247-64.
 
-[60 FR 48255, Sept. 18, 1995]Editorial Note:For Federal Register citations affecting section 52.212-5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Editorial Note:At 85 FR 11768, Feb. 27, 2020, 52.212-5(b)(17) was revised; however, the amendment could not be incorporated due to inaccurate amendatory instruction.
+[60 FR 48255, Sept. 18, 1995]Editorial Note:For Federal Register citations affecting section 52.212-5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

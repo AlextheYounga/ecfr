@@ -1,5 +1,7 @@
 ##### 14.201-7 Contract clauses. #####
 
+Link to an amendment published at 85 FR 40073, July 2, 2020.
+
 (a) When contracting by sealed bidding, the contracting officer shall insert the clause at 52.214-26, Audit and Records-Sealed Bidding, in solicitations and contracts as follows:
 
 (1) Use the basic clause if -

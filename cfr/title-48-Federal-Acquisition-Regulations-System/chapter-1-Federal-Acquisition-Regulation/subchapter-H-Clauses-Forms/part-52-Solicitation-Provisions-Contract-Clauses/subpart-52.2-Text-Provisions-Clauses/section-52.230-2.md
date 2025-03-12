@@ -1,5 +1,7 @@
 ##### 52.230-2 Cost Accounting Standards. #####
 
+Link to an amendment published at 85 FR 40074, July 2, 2020.
+
 As prescribed in 30.201-4(a), insert the following clause:
 
 Cost Accounting Standards (JUN 2020)

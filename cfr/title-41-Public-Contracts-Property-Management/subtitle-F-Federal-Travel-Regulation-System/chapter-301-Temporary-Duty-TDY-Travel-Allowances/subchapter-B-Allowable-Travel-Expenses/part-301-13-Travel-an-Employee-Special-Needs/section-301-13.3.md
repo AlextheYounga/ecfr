@@ -1,5 +1,7 @@
 ##### § 301-13.3 What additional travel expenses may my agency pay under this part? #####
 
+Link to an amendment published at 85 FR 39849, July 2, 2020.
+
 Your agency approving official may pay for any expenses deemed necessary by your agency to accommodate an employee with a special need including, but not limited to, the following expenses:
 
 (a) Transportation and per diem expenses incurred by a family member or other attendant who must travel with you to make the trip possible;
