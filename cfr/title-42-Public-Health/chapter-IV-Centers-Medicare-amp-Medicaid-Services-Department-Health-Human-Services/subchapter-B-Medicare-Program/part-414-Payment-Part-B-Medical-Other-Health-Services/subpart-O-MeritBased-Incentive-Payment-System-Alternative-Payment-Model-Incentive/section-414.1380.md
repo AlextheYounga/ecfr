@@ -108,7 +108,7 @@
 
 (E) For the purpose of improvement scoring methodology, the term “improvement percent score” means the score that represents improvement for the purposes of calculating the quality performance category percent score as described in paragraph (b)(1)(xvii) of this section.
 
-(F) For the purpose of improvement scoring methodology, the term “fully participate” means the MIPS eligible clinician met all requirements in §§ 414.1330 and 414.1340.
+(F) For the purpose of improvement scoring methodology, the term “fully participate” means the MIPS eligible clinician met all requirements in §§ 414.1335 and 414.1340.
 
 (xvii) A MIPS eligible clinician's quality performance category percent score is the sum of all the measure achievement points assigned for the measures required for the quality performance category criteria plus the measure bonus points in paragraph (b)(1)(xiv) of this section and measure bonus points in paragraph (b)(1)(xv) of this section. The sum is divided by the sum of total available measure achievement points. The improvement percent score in paragraph (b)(1)(xvi) of this section is added to that result. The quality performance category percent score cannot exceed 100 percentage points.
 
@@ -268,4 +268,4 @@ If a MIPS eligible clinician is scored on fewer than 2 performance categories, h
 
 (B) [Reserved]
 
-[82 FR 53953, Nov. 16, 2017]
+[82 FR 53953, Nov. 16, 2017, as amended at 83 FR 23610, May 22, 2018]

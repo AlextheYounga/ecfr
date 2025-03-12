@@ -52,7 +52,7 @@
 
 (3) *Generally applicable nominal amount standard.* Except for payment arrangements described in paragraph (d)(2) of this section, the total amount an APM Entity potentially owes a payer or foregoes under a payment arrangement must be at least:
 
-(i) For the 2019 and 2020 QP Performance Periods, 8 percent of the total combined revenues from the payer to providers and other entities under the payment arrangement if financial risk is expressly defined in terms of revenue; or
+(i) For the 2019 and 2020 QP Performance Periods, 8 percent of the total combined revenues from the payer to providers and other entities under the payment arrangement if financial risk is expressly defined in terms of revenue; or, 3 percent of the expected expenditures for which an APM Entity is responsible under the payment arrangement; or
 
 (ii) Except for risk arrangements described under paragraph (d)(2) of this section, the risk arrangement must have:
 
@@ -82,4 +82,4 @@
 
 (8) *Medicaid Medical Home Model 50 eligible clinician limit.* Notwithstanding paragraphs (d)(2) and (4) of this section, beginning in the 2019 QP Performance Period, if an APM Entity participating in a Medicaid Medical Home Model is owned and operated by an organization with 50 or more eligible clinicians whose Medicare billing rights have been reassigned to the TIN(s) of the organization(s) or any of the organization's subsidiary entities, the requirements of paragraphs (d)(1) and (3) of this section apply.
 
-[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53961, Nov. 16, 2017]
+[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53961, Nov. 16, 2017; 83 FR 23610, May 22, 2018]

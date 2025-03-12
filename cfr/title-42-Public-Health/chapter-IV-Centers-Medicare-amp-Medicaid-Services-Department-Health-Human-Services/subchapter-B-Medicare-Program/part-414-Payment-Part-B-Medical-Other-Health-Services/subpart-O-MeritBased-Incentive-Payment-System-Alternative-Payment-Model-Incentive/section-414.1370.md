@@ -56,7 +56,7 @@
 
 (*4*) Have an available benchmark.
 
-(B) *Quality Improvement Score.* Beginning in 2019, for an APM Entity for which CMS calculated a total quality performance category score for the previous MIPS performance period, CMS calculates a quality improvement score for the APM Entity group, as specified in § 414.1380(b)(1)(xvi).
+(B) *Quality Improvement Score.* Beginning in 2018, for an APM Entity for which CMS calculated a total quality performance category score for the previous MIPS performance period, CMS calculates a quality improvement score for the APM Entity group, as specified in § 414.1380(b)(1)(xvi).
 
 (C) *Total Quality Performance Category Score.* Beginning in 2018, the total quality performance category score is the sum of the quality performance category score, all applicable bonus points provided by § 414.1380(b), and the quality improvement score.
 
@@ -102,7 +102,7 @@
 
 (A) In 2017, the improvement activities performance category is reweighted to 25 percent and the advancing care information performance category is reweighted to 75 percent; and
 
-(B) Beginning in 2018, the advancing care information performance category is reweighted to 80 percent and the improvement activities performance category will remain at 20 percent.
+(B) Beginning in 2018, the advancing care information performance category is reweighted to 75 percent and the improvement activities performance category is reweighted to 25 percent.
 
 (ii) If CMS reweights the advancing care information performance category to 0 percent:
 
@@ -112,4 +112,4 @@
 
 (i) *Total APM Entity Score.* CMS scores each performance category and then multiplies each performance category score by the applicable performance category weight. CMS then calculates the sum of each weighted performance category score and then applies all applicable adjustments. APM Entities will receive MIPS bonuses applied to the final score as set forth in § 414.1380(b).
 
-[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53953, Nov. 16, 2017]
+[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53953, Nov. 16, 2017; 83 FR 23610, May 22, 2018]

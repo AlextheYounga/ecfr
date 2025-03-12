@@ -1,5 +1,7 @@
 ##### § 100.3 Applicability and scope. #####
 
+Link to an amendment published at 83 FR 23817, May 23, 2018.
+
 (a) The regulations in this part implement the provisions of Title VIII or ANILCA relevant to the taking of fish and wildlife on public land in the State of Alaska. The regulations in this part do not permit subsistence uses in Glacier Bay National Park, Kenai Fjords National Park, Katmai National Park, and that portion of Denali National Park established as Mt. McKinley National Park prior to passage of ANILCA, where subsistence taking and uses are prohibited. The regulations in this part do not supersede agency-specific regulations.
 
 (b) The regulations contained in this part apply on all public lands, including all inland waters, both navigable and non-navigable, within and adjacent to the exterior boundaries of the following areas, and on the marine waters as identified in the following areas:
