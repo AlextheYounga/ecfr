@@ -1,5 +1,7 @@
 ##### § 303.71 Requests for full collection services by the Secretary of the Treasury. #####
 
+Link to an amendment published at 85 FR 35207, June 9, 2020.
+
 (a) *Definition. State collection mechanisms* means a comprehensive set of written procedures developed and used to maximize effective collection action within the State.
 
 (b) *Families eligible.* Subject to the criteria and procedures in this section, the IV-D agency may request the Secretary to certify the amount of a child support obligation to the Secretary of the Treasury for collection under section 6305 of the Internal Revenue Code of 1986. Requests may be made on behalf of families who make assignments as defined in § 301.1 of this chapter and on behalf of families receiving services under § 302.33.

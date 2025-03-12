@@ -1,5 +1,7 @@
 ##### § 303.7 Provision of services in intergovernmental IV-D cases. #####
 
+Link to an amendment published at 85 FR 35207, June 9, 2020.
+
 (a) *General responsibilities.* A State IV-D agency must:
 
 (1) Establish and use procedures for managing its intergovernmental IV-D caseload that ensure provision of necessary services as required by this section and include maintenance of necessary records in accordance with § 303.2 of this part;

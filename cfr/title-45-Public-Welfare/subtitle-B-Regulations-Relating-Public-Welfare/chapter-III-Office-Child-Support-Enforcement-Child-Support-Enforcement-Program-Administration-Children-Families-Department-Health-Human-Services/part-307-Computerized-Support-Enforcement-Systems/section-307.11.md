@@ -1,5 +1,7 @@
 ##### § 307.11 Functional requirements for computerized support enforcement systems in operation by October 1, 2000. #####
 
+Link to an amendment published at 85 FR 35208, June 9, 2020.
+
 At a minimum, each State's computerized support enforcement system established and operated under the title IV-D State plan at § 302.85(a)(2) of this chapter must:
 
 (a) Be planned, designed, developed, installed or enhanced, and operated in accordance with an initial and annually updated APD approved under § 307.15 of this part;

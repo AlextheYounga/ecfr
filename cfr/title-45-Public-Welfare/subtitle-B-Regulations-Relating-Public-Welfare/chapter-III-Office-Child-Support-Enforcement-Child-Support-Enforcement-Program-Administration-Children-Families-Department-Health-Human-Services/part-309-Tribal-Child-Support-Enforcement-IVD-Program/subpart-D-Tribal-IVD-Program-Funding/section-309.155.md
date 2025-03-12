@@ -1,5 +1,7 @@
 ##### § 309.155 What uses of Tribal IV-D program funds are not allowable? #####
 
+Link to an amendment published at 85 FR 35208, June 9, 2020.
+
 Federal IV-D funds may not be used for:
 
 (a) Activities related to administering other programs, including those under the Social Security Act;

@@ -1,5 +1,7 @@
 ##### § 302.51 Distribution of support collections. #####
 
+Link to an amendment published at 85 FR 35207, June 9, 2020.
+
 The State plan shall provide as follows:
 
 (a)(1) For purposes of distribution in a IV-D case, amounts collected, except as provided under paragraphs (a)(3) and (5) of this section, shall be treated first as payment on the required support obligation for the month in which the support was collected and if any amounts are collected which are in excess of such amount, these excess amounts shall be treated as amounts which represent payment on the required support obligation for previous months.

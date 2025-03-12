@@ -1,5 +1,7 @@
 ##### § 307.30 Federal financial participation at the 90 percent rate for statewide computerized support enforcement systems. #####
 
+Link to an amendment published at 85 FR 35208, June 9, 2020.
+
 (a) *Conditions that must be met for FFP.* During the Federal fiscal years 1996, and 1997, Federal financial participation is available at the 90 percent rate in expenditures for the planning, design, development, installation or enhancement of a computerized support enforcement system as described in §§ 307.5 and 307.10 limited to the amount in an advance planning document, or APDU submitted on or before September 30, 1995, and approved by OCSE if:
 
 (1) The Office has approved an APD in accordance with § 307.15 of this part;

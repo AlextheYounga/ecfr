@@ -1,5 +1,7 @@
 ##### § 309.170 What statistical and narrative reporting requirements apply to Tribal IV-D programs? #####
 
+Link to an amendment published at 85 FR 35208, June 9, 2020.
+
 (a) Tribes and Tribal organizations operating a Tribal IV-D program must submit to OCSE the *Child Support Enforcement Program: Quarterly Report of Collections* (Form OCSE-34A). The reports for each of the first three quarters of the funding period are due 30 days after the end of each quarterly reporting period. The report for the fourth quarter is due 90 days after the end of the fourth quarter of each funding period.
 
 (b) Tribes and Tribal organizations must submit the following information and statistics for Tribal IV-D program activity and caseload for each annual funding period:

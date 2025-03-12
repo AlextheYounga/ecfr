@@ -1,5 +1,7 @@
 ##### § 303.108 Quarterly wage and unemployment compensation claims reporting to the National Directory of New Hires. #####
 
+Link to an amendment published at 85 FR 35207, June 9, 2020.
+
 (a) *What definitions apply to quarterly wage and unemployment compensation claims reporting?* When used in this section:
 
 (1) *Reporting period* means time elapsed during a calendar quarter, e.g. January-March, April-June, July-September, October-December.

@@ -1,5 +1,7 @@
 ##### § 307.31 Federal financial participation at the 80 percent rate for computerized support enforcement systems. #####
 
+Link to an amendment published at 85 FR 35208, June 9, 2020.
+
 (a) *Conditions that must be met for 80 percent FFP.* Until September 30, 2001, Federal financial participation is available at the 80 percent rate to States, Territories and systems defined in 42 U.S.C. 655(a)(3)(B)(iii) [455(a)(3)(B)(iii) of the Act] (hereafter referred to as “States”) for expenditures for the planning, design, development, installation, or enhancement of a computerized support enforcement system meeting the requirements as described in §§ 307.5 and 307.10 or 42 U.S.C. § 654(16) [454(16) of the Act], if:
 
 (1) The Office has approved an APD in accordance with § 307.15;

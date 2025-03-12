@@ -18,6 +18,4 @@
 
 (e) Upon terminating its engagement in Access Stimulation, as defined in § 61.3(bbb) of this chapter, the local exchange carrier engaged in Access Stimulation shall provide concurrent, written notification to the Commission and any affected Intermediate Access Provider(s) and Interexchange Carrier(s) of such fact.
 
-(f) Paragraphs (b) and (e) of this section contain new or modified information-collection and recordkeeping requirements. Compliance with these information-collection and recordkeeping requirements will not be required until after approval by the Office of Management and Budget. The Commission will publish a document in the Federal Register announcing that compliance date and revising this paragraph (f) accordingly.
-
-[84 FR 57650, Oct. 28, 2019]
+[84 FR 57650, Oct. 28, 2019, as amended at 85 FR 35209, June 9, 2020]

@@ -14,11 +14,7 @@ The following definitions shall apply to all regulations contained in this part:
 
 (2) Wildlife or fish that died of natural causes, if not moved from the location where it was found.
 
-*Big game* means black bear, brown bear, bison, caribou, Sitka black-tailed deer, elk, mountain goat, moose, muskox, Dall's sheep, wolf, and wolverine.
-
 *Carry* means to wear, bear or carry on or about the person and additionally, in the case of firearms, within or upon a device or animal used for transportation.
-
-*Cub bear* means a brown (grizzly) bear in its first or second year of life, or a black bear (including the cinnamon and blue phases) in its first year of life.
 
 *Downed aircraft* means an aircraft that as a result of mechanical failure or accident cannot take off.
 
@@ -29,10 +25,6 @@ The following definitions shall apply to all regulations contained in this part:
 *Fish and wildlife* means any member of the animal kingdom, including without limitation any mammal, fish, bird (including any migratory, nonmigratory or endangered bird for which protection is also afforded by treaty or other international agreement), amphibian, reptile, mollusk, crustacean, arthropod, or other invertebrate, and includes any part, produce, egg, or offspring thereof, or the dead body or part thereof.
 
 *Fossil* means any remains, impression, or trace of any animal or plant of past geological ages that has been preserved, by natural processes, in the earth's crust.
-
-*Fur animal* means a classification of animals subject to taking with a hunting license, consisting of beaver, coyote, arctic fox, red fox, lynx, flying squirrel, ground squirrel, or red squirrel that have not been domestically raised.
-
-*Furbearer* means a beaver, coyote, arctic fox, red fox, lynx, marten, mink, least weasel, short-tailed weasel, muskrat, land otter, red squirrel, flying squirrel, ground squirrel, Alaskan marmot, hoary marmot, woodchuck, wolf and wolverine.
 
 *Gemstone* means a silica or igneous mineral including, but not limited to:
 
@@ -78,4 +70,4 @@ The following definitions shall apply to all regulations contained in this part:
 
 *Weapon* means a firearm, compressed gas or spring powered pistol or rifle, bow and arrow, crossbow, blow gun, speargun, hand thrown spear, slingshot, explosive device, or any other implement designed to discharge missiles into the air or under the water.
 
-[71 FR 69333, Nov. 30, 2006, as amended at 73 FR 3185, Jan. 17, 2008; 80 FR 64342, Oct. 23, 2015]
+[71 FR 69333, Nov. 30, 2006, as amended at 73 FR 3185, Jan. 17, 2008; 80 FR 64342, Oct. 23, 2015; 85 FR 35191, June 9, 2020]

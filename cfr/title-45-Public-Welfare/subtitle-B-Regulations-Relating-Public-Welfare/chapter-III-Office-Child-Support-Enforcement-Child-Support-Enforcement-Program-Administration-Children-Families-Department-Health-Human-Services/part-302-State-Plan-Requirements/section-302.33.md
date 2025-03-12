@@ -1,5 +1,7 @@
 ##### § 302.33 Services to individuals not receiving title IV-A assistance. #####
 
+Link to an amendment published at 85 FR 35207, June 9, 2020.
+
 (a) *Availability of Services.* (1) The State plan must provide that the services established under the plan shall be made available to any individual who:
 
 (i) Files an application for the services with the IV-D agency. In an interstate case, only the initiating State may require an application under this section; or
