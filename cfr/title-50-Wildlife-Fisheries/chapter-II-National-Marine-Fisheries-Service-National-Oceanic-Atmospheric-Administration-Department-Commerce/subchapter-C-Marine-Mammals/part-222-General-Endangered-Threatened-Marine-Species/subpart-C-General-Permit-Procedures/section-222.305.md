@@ -18,4 +18,4 @@
 
 (b) Except as otherwise stated on the face of the permit, any person who is under the direct control of the permittee, or who is employed by or under contract to the permittee for purposes authorized by the permit, may carry out the activity authorized by the permit.
 
-[64 FR 14054, Mar. 23, 1999, as amended at 67 FR 57973, Sept. 13, 2002]Effective Date Note:At 64 FR 14054, Mar. 23, 1999, part 222 was revised, effective Mar. 23, 1999, with the exception of § 222.305, paragraph (a), which contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[64 FR 14054, Mar. 23, 1999, as amended at 67 FR 57973, Sept. 13, 2002]Effective Date Note:At 64 FR 14054, Mar. 23, 1999, part 222 was revised. § 222.305(a) contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

@@ -1,7 +1,5 @@
 ##### § 202.3 Registration of copyright. #####
 
-Link to an amendment published at 83 FR 4146, January 30, 2018.
-
 (a) *General.* (1) This section prescribes conditions for the registration of copyright, and the application to be made for registration under sections 408 and 409 of title 17 of the United States Code.
 
 (2) For the purposes of this section, the terms *audiovisual work*, *compilation*, *copy*, *derivative work*, *device*, *fixation*, *literary work*, *motion picture*, *phonorecord*, *pictorial, graphic and sculptural works*, *process*, *sound recording*, and their variant forms, have the meanings set forth in section 101 of title 17. The term *author* includes an employer or other person for whom a work is “made for hire” under section 101 of title 17.
@@ -30,7 +28,7 @@ Link to an amendment published at 83 FR 4146, January 30, 2018.
 
 (C) The same claimant is seeking registration of both the recorded literary, dramatic, or musical work and the sound recording.
 
-(v) *Class SE: Serials.* A serial is a work issued or intended to be issued in successive parts bearing numerical or chronological designations and intended to be continued indefinitely. This class includes periodicals; newspapers; annuals; and the journals, proceedings, transactions, etc. of societies.
+(v) *Class SE: Serials.* A serial is a work issued or intended to be issued in successive parts bearing numerical or chronological designations and intended to be continued indefinitely. This class includes periodicals (including newspapers); annuals; and the journals, proceedings, transactions, etc. of societies.
 
 (2) *Submission of application for registration.* For purposes of registration, an applicant may submit an application for registration of individual works and certain groups of works electronically through the Copyright Office's website, or by using the printed forms prescribed by the Register of Copyrights.
 
@@ -134,23 +132,7 @@ Registration of an unpublished “collection” extends to each copyrightable el
 
 (*3*) A deposit consisting of one complete copy of the best edition of each issue included in the group registration.
 
-(7) *Group registration of daily newspapers.* (i) Pursuant to the authority granted by 17 U.S.C. 408(c)(1), the Register of Copyrights has determined that, on the basis of a single application, microfilm deposit, and filing fee, a single registration may be made for a group of daily newspapers published in a microfilm format if the following conditions are met:
-
-(A) Registration covers a full month of issues of the same newspaper title published with issue dates in one calendar month.
-
-(B) A completed GDN application form is submitted.
-
-(C) A publication date is specified designating the first and last day that issues in the group were published.
-
-(D) A deposit is made of positive, 35mm silver halide microfilm meeting the Library's best edition criteria that includes all issues published as final editions in the designated calendar month. In addition to the final edition of the daily newspaper, the claim to copyright and the deposit may also include earlier editions published the same day in a given metropolitan area served by the newspaper, but may not include national or regional editions distributed beyond a given metropolitan area.
-
-(E) The appropriate filing fee, as required in § 201.3(c), is included with the submission or charged to an active deposit account.
-
-(F) Registration is sought within three months after the publication date of the last issue included in the group.
-
-(ii) As used in this regulation, newspapers means serials which are classified as newspapers under the policy document “Newspapers Received Currently in the Library of Congress,”which is administered by the Newspaper Section of the Serials & Government Publications Division of the Library of Congress. In general, serials classified as newspapers are serials mainly designed to be a primary source of written information on current events, either local, national, or international in scope. A newspaper contains a broad range of news on all subjects and activities and is not limited to any specific subject matter. Newspapers are intended either for the general public or for a particular ethnic, cultural, or national group.
-
-(8) [Reserved]
+(7)-(8) [Reserved]
 
 (9) *Group registration of daily newsletters.* Pursuant to the authority granted by 17 U.S.C. 408(c)(1), the Register of Copyrights has determined that, on the basis of a single application, deposit, and filing fee, a single registration may be made for a group of two or more issues of a daily newsletter if the following conditions are met:
 

@@ -1,7 +1,5 @@
 ##### § 319.37-8 Growing media. #####
 
-Link to an amendment published at 83 FR 4136, Jan. 30, 2018.
-
 (a) Any restricted article at the time of importation or offer for importation into the United States shall be free of sand, soil, earth, and other growing media, except as provided in paragraph (b), (c), (d) or (e) of this section.
 
 (b)(1) A restricted article from Canada may be imported in any growing medium, except as restricted in paragraph (b)(2) of this section.
@@ -22,7 +20,7 @@ Link to an amendment published at 83 FR 4136, Jan. 30, 2018.
 
 9 See footnote 8.
 
-*Begonia**Cymbidium* spp. from the Republic of Korea*Gloxinia* (=*Sinningia*)*Nidularium*10
+*Begonia**Cymbidium* spp. from the Republic of Korea*Dendrobium* spp. from Taiwan*Gloxinia* (=*Sinningia*)*Nidularium*10
 
 10 See footnote 8.
 
@@ -122,4 +120,4 @@ Link to an amendment published at 83 FR 4136, Jan. 30, 2018.
 
 (g) *Pest risk evaluation standards for plants established in growing media.* The Animal and Plant Health Inspection Service will conduct a pest risk assessment based on pest risk analysis guidelines established by the International Plant Protection Convention of the United Nations' Food and Agriculture Organization in response to each request to allow the importation of additional taxa of plants in growing media. These guidelines are available upon request by writing to USDA, APHIS, PPQ, Center for Plant Health Science and Technology, Plant Epidemiology and Risk Assessment Laboratory, 1017 Main Campus Drive, Suite 2500, Raleigh, NC 27606.
 
-(Approved by the Office of Management and Budget under control numbers 0579-0266, 0579-0439, and 0579-0454)[45 FR 31585, May 13, 1980]Editorial Note:For Federal Register citations affecting § 319.37-8, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Approved by the Office of Management and Budget under control numbers 0579-0190, 0579-0439, 0579-0454, and 0579-0458)[45 FR 31585, May 13, 1980]Editorial Note:For Federal Register citations affecting § 319.37-8, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
